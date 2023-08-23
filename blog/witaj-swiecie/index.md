@@ -1,5 +1,6 @@
 ---
 title: "Startujemy!"
+authors: admin
 date: "2013-09-18"
 tags:
   - "news"

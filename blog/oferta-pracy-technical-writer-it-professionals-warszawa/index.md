@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical Writer (IT Professionals) - Warszawa"
+authors: admin
 date: "2019-09-16"
 tags:
   - "oferty-pracy"

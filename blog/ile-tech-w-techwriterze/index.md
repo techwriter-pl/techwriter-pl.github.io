@@ -1,5 +1,6 @@
 ---
 title: 'Ile "tech" w techwriterze?'
+authors: admin
 date: "2020-01-31"
 tags:
   - "news"

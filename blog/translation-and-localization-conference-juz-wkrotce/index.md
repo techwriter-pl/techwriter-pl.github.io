@@ -1,5 +1,6 @@
 ---
 title: "Translation and Localization Conference już wkrótce"
+authors: agnieszka
 date: "2019-02-08"
 tags:
   - "news"

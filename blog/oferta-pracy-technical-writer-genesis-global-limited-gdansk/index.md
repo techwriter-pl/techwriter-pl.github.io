@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical Writer (Genesis Global Limited) – Gdańsk"
+authors: admin
 date: "2019-10-07"
 tags:
   - "oferty-pracy"

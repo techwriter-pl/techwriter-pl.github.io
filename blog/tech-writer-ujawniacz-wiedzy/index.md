@@ -1,5 +1,6 @@
 ---
 title: "Tech writer - ujawniacz wiedzy"
+authors: agnieszka
 date: "2022-04-06"
 tags:
   - "warsztat"

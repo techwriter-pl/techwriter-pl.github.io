@@ -1,5 +1,6 @@
 ---
 title: "Konkurs - wygraj wejściówkę na soap! 2019"
+authors: mojk
 date: "2019-05-10"
 tags:
   - "news"

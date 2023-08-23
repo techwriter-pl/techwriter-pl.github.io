@@ -1,5 +1,6 @@
 ---
 title: "Tech Writer koduje - odcinek 26 i 27"
+authors: agnieszka
 date: "2021-02-19"
 tags:
   - "dobre-praktyki"

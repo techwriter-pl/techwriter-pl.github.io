@@ -1,5 +1,6 @@
 ---
 title: "Techwriter.pl na plus. Google plus."
+authors: admin
 date: "2014-10-14"
 tags:
   - "news"

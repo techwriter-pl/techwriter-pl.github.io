@@ -1,5 +1,6 @@
 ---
 title: "Bazy wiedzy"
+authors: admin
 date: "2013-12-18"
 tags:
   - "przyklady"

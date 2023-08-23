@@ -1,5 +1,6 @@
 ---
 title: "Studia podyplomowe w Warszawie ruszają w październiku!"
+authors: mojk
 date: "2019-07-17"
 tags:
   - "news"

@@ -1,5 +1,6 @@
 ---
 title: "Wirtualna rzeczywistość i jej zastosowanie w komunikacji technicznej"
+authors: toporek
 date: "2022-05-04"
 tags:
   - "news"

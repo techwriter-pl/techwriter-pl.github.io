@@ -1,5 +1,6 @@
 ---
 title: "OFERTA PRACY: SENIOR TECHNICAL WRITER (3DI) – KRAKÓW / ZDALNIE"
+authors: admin
 date: "2022-07-23"
 tags:
   - "oferty-pracy"

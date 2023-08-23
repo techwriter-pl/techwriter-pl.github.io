@@ -1,5 +1,6 @@
 ---
 title: "Światowy dzień użyteczności - 30 listopada w Krakowie"
+authors: admin
 date: "2013-11-18"
 tags:
   - "news"

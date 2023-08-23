@@ -1,5 +1,6 @@
 ---
 title: "Materiały szkoleniowe"
+authors: admin
 date: "2013-11-05"
 tags:
   - "przyklady"

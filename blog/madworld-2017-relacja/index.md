@@ -1,5 +1,6 @@
 ---
 title: "MadWorld 2017 - relacja"
+authors: mojk
 date: "2017-05-04"
 tags:
   - "news"

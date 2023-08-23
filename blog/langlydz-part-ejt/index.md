@@ -1,5 +1,6 @@
 ---
 title: "Langłydż - part ejt"
+authors: admin
 date: "2014-07-25"
 tags:
   - "warsztat"

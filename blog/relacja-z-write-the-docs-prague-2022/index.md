@@ -1,5 +1,6 @@
 ---
 title: "Relacja z Write the Docs Prague 2022"
+authors: toporek
 date: "2022-10-20"
 tags:
   - "news"

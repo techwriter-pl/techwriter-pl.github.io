@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical Writer - praca zdalna!"
+authors: admin
 date: "2018-06-12"
 tags:
   - "oferty-pracy"

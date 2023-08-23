@@ -1,5 +1,6 @@
 ---
 title: "KONFERENCJE 2023 – PIERWSZE PÓŁROCZE"
+authors: agnieszka
 date: "2023-01-12"
 tags:
   - "news"

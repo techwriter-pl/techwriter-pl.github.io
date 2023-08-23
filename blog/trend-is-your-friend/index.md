@@ -1,5 +1,6 @@
 ---
 title: "Trend is your friend"
+authors: admin
 date: "2014-04-04"
 tags:
   - "dobre-praktyki"

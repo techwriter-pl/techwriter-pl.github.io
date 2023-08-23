@@ -1,5 +1,6 @@
 ---
 title: "Zaproszenie na konferencję tekom Europe Roadshow w Warszawie"
+authors: admin
 date: "2014-09-08"
 tags:
   - "news"

@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical Training Development Specialist"
+authors: mojk
 date: "2016-02-23"
 tags:
   - "oferty-pracy"

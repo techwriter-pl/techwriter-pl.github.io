@@ -1,5 +1,6 @@
 ---
 title: "Zasada siedmiu kroków - stosować czy nie?"
+authors: agnieszka
 date: "2015-07-28"
 tags:
   - "dobre-praktyki"

@@ -2,6 +2,7 @@
 title:
   "Krakowskie Dni Informatyki 2021 (online) - konferencja integrująca krakowską
   branżę IT"
+authors: agnieszka
 date: "2021-11-18"
 tags:
   - "news"

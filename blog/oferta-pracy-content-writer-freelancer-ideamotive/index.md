@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Content Writer Freelancer (Ideamotive)"
+authors: mojk
 date: "2018-11-27"
 tags:
   - "oferty-pracy"

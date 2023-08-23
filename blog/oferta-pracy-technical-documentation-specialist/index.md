@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical Documentation Specialist"
+authors: mojk
 date: "2016-12-20"
 tags:
   - "oferty-pracy"

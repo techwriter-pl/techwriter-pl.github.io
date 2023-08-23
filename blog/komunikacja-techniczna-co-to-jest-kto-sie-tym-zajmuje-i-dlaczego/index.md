@@ -1,5 +1,6 @@
 ---
 title: "Komunikacja techniczna - co to jest, kto się tym zajmuje i dlaczego?"
+authors: agnieszka
 date: "2020-08-10"
 tags:
   - "warsztat"

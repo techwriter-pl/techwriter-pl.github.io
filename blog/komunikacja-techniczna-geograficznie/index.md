@@ -1,5 +1,6 @@
 ---
 title: "Komunikacja techniczna geograficznie"
+authors: mojk
 date: "2014-05-16"
 tags:
   - "news"

@@ -1,5 +1,6 @@
 ---
 title: "Relacja z tegorocznej konferencji soap 2023!"
+authors: niewiarowski
 date: "2023-07-14"
 tags:
   - "news"

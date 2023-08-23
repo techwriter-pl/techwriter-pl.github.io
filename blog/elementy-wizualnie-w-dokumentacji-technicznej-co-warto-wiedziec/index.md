@@ -1,5 +1,6 @@
 ---
 title: "Elementy wizualnie w dokumentacji technicznej - co warto wiedzieć!"
+authors: toporek
 date: "2022-01-18"
 tags:
   - "dobre-praktyki"

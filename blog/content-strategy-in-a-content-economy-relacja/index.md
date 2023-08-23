@@ -1,5 +1,6 @@
 ---
 title: "Content Strategy in a Content Economy - relacja"
+authors: szablowska
 date: "2014-04-15"
 tags:
   - "news"

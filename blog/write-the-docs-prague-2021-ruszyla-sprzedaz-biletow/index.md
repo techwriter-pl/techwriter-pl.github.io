@@ -1,5 +1,6 @@
 ---
 title: "Write the Docs Prague 2021 - ruszyła sprzedaż biletów"
+authors: agnieszka
 date: "2021-06-02"
 tags:
   - "news"

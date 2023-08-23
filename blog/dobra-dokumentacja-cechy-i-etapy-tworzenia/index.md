@@ -1,5 +1,6 @@
 ---
 title: "Dobra dokumentacja - cechy i etapy tworzenia"
+authors: agnieszka
 date: "2017-10-17"
 tags:
   - "dobre-praktyki"

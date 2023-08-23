@@ -1,5 +1,6 @@
 ---
 title: "Zapraszamy na Landing Festival 2018!"
+authors: agnieszka
 date: "2018-02-06"
 tags:
   - "news"

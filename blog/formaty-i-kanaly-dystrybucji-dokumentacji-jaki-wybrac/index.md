@@ -1,5 +1,6 @@
 ---
 title: "Formaty i kanały dystrybucji dokumentacji — jaki wybrać?"
+authors: milc
 date: "2022-03-16"
 tags:
   - "dobre-praktyki"

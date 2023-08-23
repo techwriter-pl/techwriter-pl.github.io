@@ -1,5 +1,6 @@
 ---
 title: "KTLC 2022 już wkrótce"
+authors: agnieszka
 date: "2022-09-02"
 tags:
   - "news"

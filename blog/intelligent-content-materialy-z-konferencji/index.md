@@ -1,5 +1,6 @@
 ---
 title: "Intelligent Content - materiały z konferencji"
+authors: admin
 date: "2014-03-18"
 tags:
   - "news"

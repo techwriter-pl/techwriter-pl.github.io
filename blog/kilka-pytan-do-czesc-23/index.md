@@ -1,5 +1,6 @@
 ---
 title: "Kilka pytań do - część 23"
+authors: agnieszka
 date: "2021-02-10"
 tags:
   - "warsztat"

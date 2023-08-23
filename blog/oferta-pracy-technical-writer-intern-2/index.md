@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical Writer (Intern)"
+authors: mojk
 date: "2016-03-08"
 tags:
   - "oferty-pracy"

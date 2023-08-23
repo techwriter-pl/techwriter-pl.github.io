@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical Lead"
+authors: admin
 date: "2018-07-09"
 tags:
   - "oferty-pracy"

@@ -1,5 +1,6 @@
 ---
 title: "Write the Docs Prague 2020 - co nas czeka?"
+authors: agnieszka
 date: "2020-09-03"
 tags:
   - "news"

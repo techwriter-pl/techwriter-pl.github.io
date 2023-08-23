@@ -1,5 +1,6 @@
 ---
 title: "Write the Docs Prague 2019 już wkrótce"
+authors: agnieszka
 date: "2019-08-14"
 tags:
   - "news"

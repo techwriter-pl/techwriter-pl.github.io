@@ -1,5 +1,6 @@
 ---
 title: "soap! 2014 - relacja z pierwszego dnia"
+authors: szablowska
 date: "2014-10-10"
 tags:
   - "news"

@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical Writer (Nobl9) – Poznań"
+authors: admin
 date: "2021-06-21"
 tags:
   - "oferty-pracy"

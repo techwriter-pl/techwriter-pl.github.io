@@ -1,5 +1,6 @@
 ---
 title: "Blogi anglojęzyczne"
+authors: admin
 date: "2016-03-11"
 tags:
   - "biblioteczka-techwritera"

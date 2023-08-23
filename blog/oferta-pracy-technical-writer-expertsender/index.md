@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical Writer (ExpertSender)"
+authors: mojk
 date: "2018-08-01"
 tags:
   - "oferty-pracy"

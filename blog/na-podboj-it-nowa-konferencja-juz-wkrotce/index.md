@@ -1,5 +1,6 @@
 ---
 title: "Na podbój IT - nowa konferencja już wkrótce"
+authors: agnieszka
 date: "2022-02-18"
 tags:
   - "news"

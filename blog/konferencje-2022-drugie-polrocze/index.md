@@ -1,5 +1,6 @@
 ---
 title: "Konferencje 2022 - drugie półrocze"
+authors: agnieszka
 date: "2022-05-24"
 tags:
   - "news"

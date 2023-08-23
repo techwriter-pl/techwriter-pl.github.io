@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical writer (Astek) - praca zdalna!"
+authors: admin
 date: "2020-01-06"
 tags:
   - "oferty-pracy"

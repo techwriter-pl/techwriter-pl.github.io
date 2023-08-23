@@ -1,5 +1,6 @@
 ---
 title: "Wszystko już było..."
+authors: admin
 date: "2013-10-01"
 tags:
   - "news"

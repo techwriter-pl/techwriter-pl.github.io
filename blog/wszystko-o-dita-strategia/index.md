@@ -1,5 +1,6 @@
 ---
 title: "Wszystko o DITA – Strategia (3)"
+authors: pensjonatus
 date: "2016-06-08"
 tags:
   - "dobre-praktyki"

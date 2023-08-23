@@ -1,5 +1,6 @@
 ---
 title: "Langłydż - part fri"
+authors: admin
 date: "2014-01-17"
 tags:
   - "warsztat"

@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Senior Technical Writer (Hitachi Energy) - Kraków"
+authors: agnieszka
 date: "2022-05-11"
 tags:
   - "oferty-pracy"

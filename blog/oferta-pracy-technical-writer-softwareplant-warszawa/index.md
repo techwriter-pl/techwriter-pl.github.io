@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical Writer (SoftwarePlant) - Warszawa"
+authors: admin
 date: "2020-12-21"
 tags:
   - "oferty-pracy"

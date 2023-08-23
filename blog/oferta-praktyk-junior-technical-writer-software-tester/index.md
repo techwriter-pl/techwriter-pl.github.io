@@ -1,5 +1,6 @@
 ---
 title: "Oferta praktyk: Junior Technical Writer / Software Tester"
+authors: admin
 date: "2014-12-23"
 tags:
   - "oferty-pracy"

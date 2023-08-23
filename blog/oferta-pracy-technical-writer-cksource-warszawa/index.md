@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical Writer (CKSource) – Warszawa"
+authors: admin
 date: "2020-06-08"
 tags:
   - "oferty-pracy"

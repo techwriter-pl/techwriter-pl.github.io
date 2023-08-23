@@ -1,5 +1,6 @@
 ---
 title: "Pisanie dokumentów jest jak sortowanie wypranych ubrań"
+authors: mojk
 date: "2015-02-10"
 tags:
   - "dobre-praktyki"

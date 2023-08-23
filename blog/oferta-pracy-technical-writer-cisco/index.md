@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical Writer (Cisco)"
+authors: mojk
 date: "2017-11-27"
 tags:
   - "oferty-pracy"

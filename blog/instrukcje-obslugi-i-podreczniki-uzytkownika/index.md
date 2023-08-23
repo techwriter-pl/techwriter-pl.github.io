@@ -1,5 +1,6 @@
 ---
 title: "Instrukcje obsługi i podręczniki użytkownika"
+authors: admin
 date: "2013-10-24"
 tags:
   - "przyklady"

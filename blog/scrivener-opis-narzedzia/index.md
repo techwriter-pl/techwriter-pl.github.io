@@ -1,5 +1,6 @@
 ---
 title: "Scrivener - opis narzędzia"
+authors: agnieszka
 date: "2015-11-03"
 tags:
   - "narzedzia"

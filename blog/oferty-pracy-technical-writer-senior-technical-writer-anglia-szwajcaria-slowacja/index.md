@@ -2,6 +2,7 @@
 title:
   "Oferty pracy: Technical Writer, Senior Technical Writer (Anglia, Szwajcaria,
   Słowacja)"
+authors: mojk
 date: "2018-07-30"
 tags:
   - "oferty-pracy"

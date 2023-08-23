@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical Writer (Nordic Semiconductor)"
+authors: mojk
 date: "2017-11-07"
 tags:
   - "oferty-pracy"

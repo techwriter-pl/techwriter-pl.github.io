@@ -1,5 +1,6 @@
 ---
 title: "Landing Festival 2018 - relacja"
+authors: mojk
 date: "2018-04-17"
 tags:
   - "news"

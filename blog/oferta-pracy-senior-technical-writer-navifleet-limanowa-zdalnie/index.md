@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Senior Technical Writer (Navifleet) – Limanowa/zdalnie"
+authors: admin
 date: "2021-05-27"
 tags:
   - "oferty-pracy"

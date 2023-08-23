@@ -1,5 +1,6 @@
 ---
 title: "Kilka pytań do - część 4"
+authors: mojk
 date: "2015-03-31"
 tags:
   - "warsztat"

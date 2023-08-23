@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical writer x5"
+authors: admin
 date: "2016-11-29"
 tags:
   - "oferty-pracy"

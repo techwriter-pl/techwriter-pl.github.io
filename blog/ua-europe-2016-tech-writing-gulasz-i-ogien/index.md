@@ -1,5 +1,6 @@
 ---
 title: "UA Europe 2016: tech writing, gulasz i ogień"
+authors: pensjonatus
 date: "2016-07-07"
 tags:
   - "news"

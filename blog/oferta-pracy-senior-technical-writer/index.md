@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Senior Technical Writer"
+authors: mojk
 date: "2016-04-07"
 tags:
   - "oferty-pracy"

@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical Writer (Betting Connections, Malta)"
+authors: mojk
 date: "2019-02-27"
 tags:
   - "oferty-pracy"

@@ -1,5 +1,6 @@
 ---
 title: "Diagramy generowane z plików DITA? Tak! I nie tylko..."
+authors: pensjonatus
 date: "2017-09-27"
 tags:
   - "dobre-praktyki"

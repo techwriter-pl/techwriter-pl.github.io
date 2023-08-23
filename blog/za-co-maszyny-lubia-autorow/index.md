@@ -1,5 +1,6 @@
 ---
 title: "Za co maszyny lubią autorów"
+authors: mojk
 date: "2018-08-10"
 tags:
   - "dobre-praktyki"

@@ -1,5 +1,6 @@
 ---
 title: "Pączki Day"
+authors: szablowska
 date: "2014-02-27"
 tags:
   - "news"

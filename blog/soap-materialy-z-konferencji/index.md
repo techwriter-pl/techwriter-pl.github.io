@@ -1,5 +1,6 @@
 ---
 title: "SOAP! - materiały z konferencji"
+authors: admin
 date: "2013-10-29"
 tags:
   - "news"

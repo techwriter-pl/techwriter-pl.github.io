@@ -1,5 +1,6 @@
 ---
 title: "Dekalog Tech Writera"
+authors: mojk
 date: "2014-11-12"
 tags:
   - "dobre-praktyki"

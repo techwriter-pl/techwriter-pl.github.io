@@ -1,5 +1,6 @@
 ---
 title: "[NIEAKTUALNE] Oferta pracy: Senior Technical Writer"
+authors: mojk
 date: "2016-12-12"
 tags:
   - "oferty-pracy"

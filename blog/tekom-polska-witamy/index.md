@@ -1,5 +1,6 @@
 ---
 title: "tekom Polska - witamy!"
+authors: admin
 date: "2014-07-01"
 tags:
   - "news"

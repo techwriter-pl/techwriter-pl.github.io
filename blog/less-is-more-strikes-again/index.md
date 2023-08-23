@@ -1,5 +1,6 @@
 ---
 title: "Less is more strikes again!"
+authors: admin
 date: "2015-04-24"
 tags:
   - "dobre-praktyki"

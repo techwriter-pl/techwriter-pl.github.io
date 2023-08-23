@@ -1,5 +1,6 @@
 ---
 title: "Wszystko o DITA – Narzędzia (4)"
+authors: pensjonatus
 date: "2017-02-13"
 tags:
   - "dobre-praktyki"

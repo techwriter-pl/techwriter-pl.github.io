@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical Writer (Deviniti) – Wrocław"
+authors: admin
 date: "2019-10-28"
 tags:
   - "oferty-pracy"

@@ -1,5 +1,6 @@
 ---
 title: "Konferencja soap! 2017 - 5. edycja coraz bliżej"
+authors: agnieszka
 date: "2017-04-27"
 tags:
   - "news"

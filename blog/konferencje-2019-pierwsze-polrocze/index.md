@@ -1,5 +1,6 @@
 ---
 title: "Konferencje 2019 - pierwsze półrocze"
+authors: agnieszka
 date: "2019-01-03"
 tags:
   - "news"

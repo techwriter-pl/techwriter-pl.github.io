@@ -1,5 +1,6 @@
 ---
 title: "Content strategy - treściwa strategia czy strategiczna treść?"
+authors: admin
 date: "2014-08-05"
 tags:
   - "dobre-praktyki"

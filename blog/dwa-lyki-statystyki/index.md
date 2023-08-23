@@ -1,5 +1,6 @@
 ---
 title: "Dwa łyki statystyki"
+authors: admin
 date: "2015-01-09"
 tags:
   - "news"

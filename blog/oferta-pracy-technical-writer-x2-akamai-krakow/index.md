@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical Writer x2 (Akamai) - Kraków"
+authors: admin
 date: "2019-09-23"
 tags:
   - "oferty-pracy"

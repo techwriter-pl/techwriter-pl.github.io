@@ -1,5 +1,6 @@
 ---
 title: '"Level Up" - Webinar o komunikacji wizualnej'
+authors: niewiarowski
 date: "2021-09-24"
 tags:
   - "news"

@@ -1,5 +1,6 @@
 ---
 title: "Naucz się sam(a) - część 2"
+authors: admin
 date: "2014-04-02"
 tags:
   - "dobre-praktyki"

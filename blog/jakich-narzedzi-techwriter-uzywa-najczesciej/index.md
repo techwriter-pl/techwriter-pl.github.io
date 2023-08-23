@@ -1,5 +1,6 @@
 ---
 title: "Jakich narzędzi techwriter używa najczęściej?"
+authors: admin
 date: "2014-09-16"
 tags:
   - "news"

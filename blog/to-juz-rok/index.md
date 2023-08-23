@@ -1,5 +1,6 @@
 ---
 title: "To już rok!"
+authors: admin
 date: "2014-09-17"
 tags:
   - "news"

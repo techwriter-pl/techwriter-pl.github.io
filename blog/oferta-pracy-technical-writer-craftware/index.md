@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical Writer (Craftware)"
+authors: mojk
 date: "2018-02-04"
 tags:
   - "oferty-pracy"

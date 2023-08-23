@@ -1,5 +1,6 @@
 ---
 title: "Od dziś wszystkie szkolenia z komunikacji technicznej w jednym miejscu!"
+authors: admin
 date: "2017-09-12"
 tags:
   - "news"

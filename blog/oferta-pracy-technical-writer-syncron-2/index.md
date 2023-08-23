@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical Writer (Syncron)"
+authors: mojk
 date: "2019-03-13"
 tags:
   - "oferty-pracy"

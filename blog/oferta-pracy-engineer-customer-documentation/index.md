@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Engineer, Customer Documentation"
+authors: admin
 date: "2018-06-11"
 tags:
   - "oferty-pracy"

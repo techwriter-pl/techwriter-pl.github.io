@@ -1,5 +1,6 @@
 ---
 title: "Podsumowanie Technical Writers Meetup w Krakowie"
+authors: admin
 date: "2019-10-16"
 tags:
   - "news"

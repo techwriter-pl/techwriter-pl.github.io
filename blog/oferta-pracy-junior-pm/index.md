@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Junior PM"
+authors: pensjonatus
 date: "2017-09-11"
 tags:
   - "oferty-pracy"

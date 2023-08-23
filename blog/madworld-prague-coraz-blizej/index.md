@@ -1,5 +1,6 @@
 ---
 title: "MadWorld Prague coraz bliżej"
+authors: agnieszka
 date: "2018-07-12"
 tags:
   - "news"

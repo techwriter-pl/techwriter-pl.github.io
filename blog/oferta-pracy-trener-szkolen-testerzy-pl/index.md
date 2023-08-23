@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: trener szkoleń (testerzy.pl)"
+authors: agnieszka
 date: "2022-02-10"
 tags:
   - "oferty-pracy"

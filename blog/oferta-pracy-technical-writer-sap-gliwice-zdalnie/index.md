@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical Writer (SAP) – Gliwice/Zdalnie"
+authors: admin
 date: "2021-07-21"
 tags:
   - "oferty-pracy"

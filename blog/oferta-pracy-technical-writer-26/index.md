@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical Writer"
+authors: admin
 date: "2017-07-28"
 tags:
   - "oferty-pracy"

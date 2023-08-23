@@ -1,5 +1,6 @@
 ---
 title: "Kilka pytań do - część 24"
+authors: agnieszka
 date: "2021-10-06"
 tags:
   - "warsztat"

@@ -1,5 +1,6 @@
 ---
 title: "Not just another webinar about silos in business - relacja"
+authors: szablowska
 date: "2014-02-04"
 tags:
   - "news"

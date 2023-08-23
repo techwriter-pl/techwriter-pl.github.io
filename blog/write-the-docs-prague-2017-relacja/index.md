@@ -1,5 +1,6 @@
 ---
 title: "Write the Docs Prague 2017 - relacja"
+authors: szablowska
 date: "2017-10-05"
 tags:
   - "news"

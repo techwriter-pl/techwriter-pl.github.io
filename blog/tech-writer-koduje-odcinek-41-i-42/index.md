@@ -1,5 +1,6 @@
 ---
 title: "TECH WRITER KODUJE – ODCINEK #41 i #42"
+authors: agnieszka
 date: "2022-06-23"
 tags:
   - "przyklady"

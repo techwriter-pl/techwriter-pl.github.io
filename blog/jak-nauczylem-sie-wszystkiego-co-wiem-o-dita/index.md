@@ -1,5 +1,6 @@
 ---
 title: "Jak nauczyłem się wszystkiego co wiem o DITA"
+authors: mojk
 date: "2016-01-19"
 tags:
   - "narzedzia"

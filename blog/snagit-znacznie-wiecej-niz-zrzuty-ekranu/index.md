@@ -1,5 +1,6 @@
 ---
 title: "Snagit – znacznie więcej niż zrzuty ekranu"
+authors: agnieszka
 date: "2020-11-02"
 tags:
   - "narzedzia"

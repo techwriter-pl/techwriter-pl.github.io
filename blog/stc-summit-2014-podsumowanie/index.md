@@ -1,5 +1,6 @@
 ---
 title: "STC Summit 2014 - podsumowanie"
+authors: admin
 date: "2014-05-30"
 tags:
   - "news"

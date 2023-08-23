@@ -1,5 +1,6 @@
 ---
 title: "Siedem zasad projektowania pomocy dla użytkownika w 2017 roku"
+authors: pensjonatus
 date: "2017-02-01"
 tags:
   - "dobre-praktyki"

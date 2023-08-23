@@ -1,5 +1,6 @@
 ---
 title: "OFERTA PRACY: CONTENT SPECIALIST - BYTOM (HYBRYDOWO)"
+authors: agnieszka
 date: "2022-02-16"
 tags:
   - "oferty-pracy"

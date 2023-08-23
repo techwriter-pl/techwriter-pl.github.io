@@ -1,5 +1,6 @@
 ---
 title: "Umiesz pisać?"
+authors: mojk
 date: "2014-12-19"
 tags:
   - "dobre-praktyki"

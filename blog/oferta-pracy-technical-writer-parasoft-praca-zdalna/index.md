@@ -1,5 +1,6 @@
 ---
 title: "OFERTA PRACY: TECHNICAL WRITER (PARASOFT) – PRACA ZDALNA"
+authors: agnieszka
 date: "2021-11-08"
 tags:
   - "oferty-pracy"

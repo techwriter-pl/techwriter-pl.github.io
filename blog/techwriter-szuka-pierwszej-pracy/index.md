@@ -1,5 +1,6 @@
 ---
 title: "Techwriter szuka pierwszej pracy"
+authors: niedzwiedzka
 date: "2021-10-22"
 tags:
   - "praca"

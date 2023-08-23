@@ -1,5 +1,6 @@
 ---
 title: "Już wkrótce Write2Users Conference w Kopenhadze"
+authors: kuba
 date: "2017-10-27"
 tags:
   - "news"

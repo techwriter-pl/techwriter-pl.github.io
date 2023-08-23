@@ -1,5 +1,6 @@
 ---
 title: "Nowości w narzędziach typu HAT"
+authors: mojk
 date: "2015-10-06"
 tags:
   - "news"

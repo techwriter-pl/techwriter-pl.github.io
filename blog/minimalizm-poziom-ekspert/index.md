@@ -1,5 +1,6 @@
 ---
 title: "Minimalizm - poziom ekspert"
+authors: mojk
 date: "2014-08-19"
 tags:
   - "dobre-praktyki"

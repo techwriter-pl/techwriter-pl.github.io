@@ -1,5 +1,6 @@
 ---
 title: "Polski podkast dla techwriterów!"
+authors: admin
 date: "2019-11-12"
 tags:
   - "news"

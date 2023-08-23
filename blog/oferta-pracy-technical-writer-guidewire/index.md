@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical Writer (Guidewire)"
+authors: mojk
 date: "2019-01-09"
 tags:
   - "oferty-pracy"

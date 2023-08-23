@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical Writer (Handsontable) - Gdynia/zdalnie"
+authors: admin
 date: "2021-01-26"
 tags:
   - "oferty-pracy"

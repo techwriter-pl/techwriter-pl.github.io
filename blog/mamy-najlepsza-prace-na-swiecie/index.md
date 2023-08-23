@@ -1,5 +1,6 @@
 ---
 title: "Mamy najlepszą pracę na świecie!"
+authors: admin
 date: "2013-10-11"
 tags:
   - "news"

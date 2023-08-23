@@ -1,5 +1,6 @@
 ---
 title: "Konferencja MadWorld"
+authors: agnieszka
 date: "2016-07-14"
 tags:
   - "news"

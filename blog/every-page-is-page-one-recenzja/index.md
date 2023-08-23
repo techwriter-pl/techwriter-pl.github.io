@@ -1,5 +1,6 @@
 ---
 title: "Every Page is Page One - recenzja niepoprawnie pozytywna"
+authors: kuba
 date: "2017-08-16"
 tags:
   - "biblioteczka-techwritera"

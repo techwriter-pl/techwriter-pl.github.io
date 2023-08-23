@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical Writer (bugbug) - zdalna"
+authors: agnieszka
 date: "2023-05-04"
 tags:
   - "oferty-pracy"

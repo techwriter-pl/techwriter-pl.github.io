@@ -1,5 +1,6 @@
 ---
 title: "Tech Writer koduje odcinek 22"
+authors: agnieszka
 date: "2020-11-09"
 tags:
   - "dobre-praktyki"

@@ -1,5 +1,6 @@
 ---
 title: "Pierwsze spotkanie MeetContentWRO - relacja"
+authors: mojk
 date: "2017-03-24"
 tags:
   - "news"

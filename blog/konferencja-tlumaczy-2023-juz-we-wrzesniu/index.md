@@ -1,5 +1,6 @@
 ---
 title: "Konferencja Tłumaczy 2023 już we wrześniu"
+authors: agnieszka
 date: "2023-07-04"
 tags:
   - "news"

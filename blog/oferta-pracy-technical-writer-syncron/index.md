@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical Writer (Syncron)"
+authors: pensjonatus
 date: "2018-01-29"
 tags:
   - "oferty-pracy"

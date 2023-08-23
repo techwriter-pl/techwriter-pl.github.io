@@ -1,5 +1,6 @@
 ---
 title: "Zapraszamy na TestWarez 2021"
+authors: agnieszka
 date: "2021-07-30"
 tags:
   - "news"

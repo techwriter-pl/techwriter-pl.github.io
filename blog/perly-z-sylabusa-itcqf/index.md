@@ -1,5 +1,6 @@
 ---
 title: "Perły z sylabusa ITCQF - najciekawsze fragmenty"
+authors: niewiarowski
 date: "2021-09-21"
 tags:
   - "biblioteczka-techwritera"

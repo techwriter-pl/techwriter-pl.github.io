@@ -1,5 +1,6 @@
 ---
 title: "Write the Docs Europe 2016 - relacja"
+authors: mojk
 date: "2016-10-04"
 tags:
   - "news"

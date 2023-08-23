@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical Writer (3di) – Kraków / praca zdalna"
+authors: admin
 date: "2020-10-11"
 tags:
   - "oferty-pracy"

@@ -1,5 +1,6 @@
 ---
 title: "Kilka pytań do - część 11"
+authors: mojk
 date: "2016-12-08"
 tags:
   - "warsztat"

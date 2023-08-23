@@ -1,5 +1,6 @@
 ---
 title: "Konferencja soap! wczoraj i dziś"
+authors: admin
 date: "2014-09-11"
 tags:
   - "news"

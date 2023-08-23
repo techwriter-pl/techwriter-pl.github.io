@@ -1,5 +1,6 @@
 ---
 title: "Webinaria - Agile w tworzeniu dokumentacji"
+authors: mojk
 date: "2016-11-23"
 tags:
   - "news"

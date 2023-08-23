@@ -1,5 +1,6 @@
 ---
 title: "Prosty język – przykłady i narzędzia"
+authors: toporek
 date: "2020-08-05"
 tags:
   - "dobre-praktyki"

@@ -1,5 +1,6 @@
 ---
 title: "Jak pisać dobre instrukcje?"
+authors: mojk
 date: "2014-09-02"
 tags:
   - "dobre-praktyki"

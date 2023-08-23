@@ -1,5 +1,6 @@
 ---
 title: "Tech Writer koduje odcinek 23"
+authors: agnieszka
 date: "2020-12-01"
 tags:
   - "dobre-praktyki"

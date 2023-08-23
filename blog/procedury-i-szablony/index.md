@@ -1,5 +1,6 @@
 ---
 title: "Procedury i szablony"
+authors: admin
 date: "2013-11-21"
 tags:
   - "przyklady"

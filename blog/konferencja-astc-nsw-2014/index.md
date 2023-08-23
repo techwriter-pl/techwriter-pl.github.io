@@ -1,5 +1,6 @@
 ---
 title: "Konferencja ASTC (NSW) 2014"
+authors: mojk
 date: "2014-10-31"
 tags:
   - "news"

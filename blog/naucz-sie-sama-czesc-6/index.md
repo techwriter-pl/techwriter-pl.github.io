@@ -1,5 +1,6 @@
 ---
 title: "Naucz się sam(a) - część 6"
+authors: agnieszka
 date: "2015-11-17"
 tags:
   - "dobre-praktyki"

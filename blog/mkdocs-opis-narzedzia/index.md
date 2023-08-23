@@ -1,5 +1,6 @@
 ---
 title: "MkDocs - opis narzędzia"
+authors: mojk
 date: "2015-03-06"
 tags:
   - "narzedzia"

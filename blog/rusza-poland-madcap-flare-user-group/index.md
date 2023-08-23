@@ -1,5 +1,6 @@
 ---
 title: "Rusza Poland MadCap Flare User Group"
+authors: mojk
 date: "2017-06-01"
 tags:
   - "news"

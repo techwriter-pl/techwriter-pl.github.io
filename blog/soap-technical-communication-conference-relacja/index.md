@@ -1,5 +1,6 @@
 ---
 title: "soap! technical communication conference - relacja"
+authors: admin
 date: "2013-10-06"
 tags:
   - "news"

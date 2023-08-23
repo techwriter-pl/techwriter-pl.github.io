@@ -1,5 +1,6 @@
 ---
 title: "UA Conference - Relacji Ciąg Dalszy"
+authors: szablowska
 date: "2014-06-24"
 tags:
   - "news"

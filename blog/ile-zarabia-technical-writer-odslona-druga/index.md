@@ -1,5 +1,6 @@
 ---
 title: "Ile zarabia Technical Writer - odsłona druga"
+authors: admin
 date: "2014-04-29"
 tags:
   - "news"

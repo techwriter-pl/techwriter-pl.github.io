@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Training Technical Writer (Eurofins)"
+authors: pensjonatus
 date: "2018-01-05"
 tags:
   - "oferty-pracy"

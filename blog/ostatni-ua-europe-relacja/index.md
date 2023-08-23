@@ -1,5 +1,6 @@
 ---
 title: "Ostatni UA Europe - relacja"
+authors: pensjonatus
 date: "2017-06-20"
 tags:
   - "news"

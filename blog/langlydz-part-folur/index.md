@@ -1,5 +1,6 @@
 ---
 title: "Langłydż - part fołur"
+authors: admin
 date: "2014-01-31"
 tags:
   - "warsztat"

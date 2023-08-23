@@ -1,5 +1,6 @@
 ---
 title: "Konferencja soap! 2022 - zapowiedź"
+authors: agnieszka
 date: "2022-04-14"
 tags:
   - "news"

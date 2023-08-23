@@ -1,5 +1,6 @@
 ---
 title: "Tech Writer koduje - odcinek #37 i #38"
+authors: agnieszka
 date: "2022-02-03"
 tags:
   - "dobre-praktyki"

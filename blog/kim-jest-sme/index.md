@@ -1,5 +1,6 @@
 ---
 title: "Kim jest Subject Matter Expert (SME) i jak z nim rozmawiać?"
+authors: agnieszka
 date: "2015-08-25"
 tags:
   - "dobre-praktyki"

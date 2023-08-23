@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Information Developer (Jorsek LLC)"
+authors: mojk
 date: "2019-05-23"
 tags:
   - "oferty-pracy"

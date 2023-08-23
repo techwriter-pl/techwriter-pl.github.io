@@ -1,5 +1,6 @@
 ---
 title: "Dokumentacja API - trendy"
+authors: admin
 date: "2020-02-21"
 tags:
   - "przyklady"

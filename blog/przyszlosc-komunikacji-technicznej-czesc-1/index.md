@@ -1,5 +1,6 @@
 ---
 title: "Przyszłość komunikacji technicznej - część 1"
+authors: mojk
 date: "2014-07-15"
 tags:
   - "news"

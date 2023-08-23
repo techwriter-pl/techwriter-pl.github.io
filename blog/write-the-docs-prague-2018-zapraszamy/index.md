@@ -1,5 +1,6 @@
 ---
 title: "Write the Docs Prague 2018 - zapraszamy"
+authors: agnieszka
 date: "2018-06-26"
 tags:
   - "news"

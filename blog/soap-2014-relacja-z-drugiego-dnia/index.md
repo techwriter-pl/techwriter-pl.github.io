@@ -1,5 +1,6 @@
 ---
 title: "soap! 2014 - relacja z drugiego dnia"
+authors: mojk
 date: "2014-10-17"
 tags:
   - "news"

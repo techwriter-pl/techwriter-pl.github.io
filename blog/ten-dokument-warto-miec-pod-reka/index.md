@@ -1,5 +1,6 @@
 ---
 title: "Ten dokument warto mieć pod ręką"
+authors: admin
 date: "2013-11-25"
 tags:
   - "news"

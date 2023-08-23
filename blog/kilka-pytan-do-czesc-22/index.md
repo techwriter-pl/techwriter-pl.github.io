@@ -1,5 +1,6 @@
 ---
 title: "Kilka pytań do - Część 22"
+authors: niewiarowski
 date: "2021-01-11"
 tags:
   - "warsztat"

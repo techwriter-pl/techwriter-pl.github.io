@@ -1,5 +1,6 @@
 ---
 title: "Jesteś hardkorem?"
+authors: mojk
 date: "2014-06-20"
 tags:
   - "news"

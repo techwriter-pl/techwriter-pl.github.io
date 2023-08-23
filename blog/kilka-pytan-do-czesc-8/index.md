@@ -1,5 +1,6 @@
 ---
 title: "Kilka pytań do - część 8"
+authors: mojk
 date: "2015-12-08"
 tags:
   - "warsztat"

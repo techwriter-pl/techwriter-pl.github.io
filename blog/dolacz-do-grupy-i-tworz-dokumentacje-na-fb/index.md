@@ -1,5 +1,6 @@
 ---
 title: "Dołącz do grupy i twórz dokumentację na FB!"
+authors: admin
 date: "2016-12-15"
 tags:
   - "news"

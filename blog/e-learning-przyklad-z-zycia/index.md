@@ -1,5 +1,6 @@
 ---
 title: "E-learning - przykład z życia"
+authors: admin
 date: "2020-03-31"
 tags:
   - "dobre-praktyki"

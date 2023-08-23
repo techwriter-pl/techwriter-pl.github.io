@@ -1,5 +1,6 @@
 ---
 title: "Tech Writer Koduje - odcinek 34"
+authors: agnieszka
 date: "2021-10-14"
 tags:
   - "dobre-praktyki"

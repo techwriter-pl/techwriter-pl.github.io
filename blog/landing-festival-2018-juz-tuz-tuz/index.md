@@ -1,5 +1,6 @@
 ---
 title: "Landing Festival 2018 już tuż tuż"
+authors: agnieszka
 date: "2018-03-09"
 tags:
   - "news"

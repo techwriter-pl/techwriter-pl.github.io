@@ -1,5 +1,6 @@
 ---
 title: "DITA conkeyref - Pracuj sprytnie a nie ciężko"
+authors: pensjonatus
 date: "2016-10-12"
 tags:
   - "dobre-praktyki"

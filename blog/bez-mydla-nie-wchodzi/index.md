@@ -1,5 +1,6 @@
 ---
 title: "Bez mydła nie wchodzi?"
+authors: admin
 date: "2013-09-25"
 tags:
   - "news"

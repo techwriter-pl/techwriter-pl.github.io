@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Redaktor (HypeOne) – Warszawa"
+authors: admin
 date: "2019-11-13"
 tags:
   - "oferty-pracy"

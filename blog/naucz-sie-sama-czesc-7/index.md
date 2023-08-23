@@ -1,5 +1,6 @@
 ---
 title: "Naucz się sam(a) – część 7"
+authors: mojk
 date: "2016-09-01"
 tags:
   - "dobre-praktyki"

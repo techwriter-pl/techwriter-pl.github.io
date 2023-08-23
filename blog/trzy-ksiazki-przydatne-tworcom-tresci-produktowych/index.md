@@ -1,5 +1,6 @@
 ---
 title: "Trzy książki przydatne twórcom treści produktowych"
+authors: mojk
 date: "2019-01-22"
 tags:
   - "biblioteczka-techwritera"

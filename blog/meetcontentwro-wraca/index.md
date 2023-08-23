@@ -1,5 +1,6 @@
 ---
 title: "MeetContentWRO wraca"
+authors: niedzwiedzka
 date: "2022-12-20"
 tags:
   - "news"

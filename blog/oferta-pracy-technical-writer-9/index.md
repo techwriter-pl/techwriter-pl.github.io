@@ -1,5 +1,6 @@
 ---
 title: "[NIEAKTUALNE] Oferta pracy: Technical Writer"
+authors: admin
 date: "2015-09-30"
 tags:
   - "oferty-pracy"

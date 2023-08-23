@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Product Education Specialist (Woodpecker) – Wrocław"
+authors: admin
 date: "2021-06-17"
 tags:
   - "oferty-pracy"

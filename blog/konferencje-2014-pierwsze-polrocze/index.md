@@ -1,5 +1,6 @@
 ---
 title: "Konferencje 2014 - pierwsze półrocze"
+authors: admin
 date: "2014-01-14"
 tags:
   - "news"

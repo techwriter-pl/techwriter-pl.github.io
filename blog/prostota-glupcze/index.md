@@ -1,5 +1,6 @@
 ---
 title: "Prostota, głupcze!"
+authors: admin
 date: "2013-11-28"
 tags:
   - "dobre-praktyki"

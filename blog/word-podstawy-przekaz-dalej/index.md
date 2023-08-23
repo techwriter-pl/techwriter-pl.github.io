@@ -1,5 +1,6 @@
 ---
 title: "Word - podstawy - przekaż dalej!"
+authors: admin
 date: "2014-04-11"
 tags:
   - "dobre-praktyki"

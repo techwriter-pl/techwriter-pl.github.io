@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: technical writer (Devire)"
+authors: pensjonatus
 date: "2017-11-03"
 tags:
   - "oferty-pracy"

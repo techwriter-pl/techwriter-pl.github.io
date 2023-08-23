@@ -1,5 +1,6 @@
 ---
 title: "Darmowe narzędzia do sprawdzania tekstu"
+authors: mojk
 date: "2017-09-19"
 tags:
   - "narzedzia"

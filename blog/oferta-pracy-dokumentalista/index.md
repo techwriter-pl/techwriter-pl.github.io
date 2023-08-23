@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Dokumentalista"
+authors: admin
 date: "2014-06-05"
 tags:
   - "oferty-pracy"

@@ -1,5 +1,6 @@
 ---
 title: "Konferencja MadWorld już niedługo"
+authors: agnieszka
 date: "2017-01-27"
 tags:
   - "news"

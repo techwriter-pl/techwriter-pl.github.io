@@ -1,5 +1,6 @@
 ---
 title: "Namydleni po raz trzeci"
+authors: mojk
 date: "2015-10-14"
 tags:
   - "news"

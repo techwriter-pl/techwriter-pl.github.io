@@ -1,5 +1,6 @@
 ---
 title: "README.md, czyli historia zbyt pomocnego pliku"
+authors: mojk
 date: "2018-10-03"
 tags:
   - "dobre-praktyki"

@@ -1,5 +1,6 @@
 ---
 title: "Przyszłość komunikacji technicznej?"
+authors: admin
 date: "2013-11-08"
 tags:
   - "news"

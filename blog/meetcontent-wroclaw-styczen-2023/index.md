@@ -1,5 +1,6 @@
 ---
 title: "MEETCONTENT WROCŁAW – STYCZEŃ 2023"
+authors: agnieszka
 date: "2023-01-16"
 tags:
   - "news"

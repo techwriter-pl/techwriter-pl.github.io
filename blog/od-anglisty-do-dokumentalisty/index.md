@@ -1,5 +1,6 @@
 ---
 title: "Od anglisty do dokumentalisty"
+authors: agnieszka
 date: "2023-03-02"
 tags:
   - "przyklady"

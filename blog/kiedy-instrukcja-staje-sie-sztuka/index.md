@@ -1,5 +1,6 @@
 ---
 title: "Kiedy instrukcja staje się sztuką"
+authors: szablowska
 date: "2014-02-25"
 tags:
   - "news"

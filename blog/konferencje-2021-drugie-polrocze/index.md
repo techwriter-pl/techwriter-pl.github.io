@@ -1,5 +1,6 @@
 ---
 title: "Konferencje 2021 - drugie półrocze"
+authors: agnieszka
 date: "2021-06-30"
 tags:
   - "news"

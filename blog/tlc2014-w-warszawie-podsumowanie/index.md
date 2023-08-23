@@ -1,5 +1,6 @@
 ---
 title: "TLC'2014 w Warszawie - podsumowanie"
+authors: admin
 date: "2014-04-17"
 tags:
   - "news"

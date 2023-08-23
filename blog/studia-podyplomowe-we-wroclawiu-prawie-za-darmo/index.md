@@ -1,5 +1,6 @@
 ---
 title: "Studia podyplomowe we Wrocławiu prawie za darmo!"
+authors: admin
 date: "2017-07-20"
 tags:
   - "news"

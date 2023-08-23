@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical writing - praktyki (płatne!)"
+authors: admin
 date: "2018-04-23"
 tags:
   - "oferty-pracy"

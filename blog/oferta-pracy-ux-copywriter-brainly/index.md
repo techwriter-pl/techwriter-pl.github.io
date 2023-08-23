@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: UX Copywriter (Brainly)"
+authors: mojk
 date: "2019-02-01"
 tags:
   - "oferty-pracy"

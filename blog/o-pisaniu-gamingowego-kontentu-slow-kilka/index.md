@@ -1,5 +1,6 @@
 ---
 title: "O pisaniu gamingowego kontentu słów kilka"
+authors: agnieszka
 date: "2020-03-09"
 tags:
   - "przyklady"

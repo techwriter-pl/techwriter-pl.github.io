@@ -1,5 +1,6 @@
 ---
 title: "Upraszczaj komunikację! Banki przecierają szlak"
+authors: admin
 date: "2019-11-26"
 tags:
   - "news"

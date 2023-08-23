@@ -1,5 +1,6 @@
 ---
 title: "Kilka pytań do – część 18"
+authors: admin
 date: "2020-04-15"
 tags:
   - "warsztat"

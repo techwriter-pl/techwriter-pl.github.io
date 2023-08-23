@@ -1,5 +1,6 @@
 ---
 title: "Write the Docs Prague 2021 coraz bliżej"
+authors: agnieszka
 date: "2021-08-18"
 tags:
   - "news"

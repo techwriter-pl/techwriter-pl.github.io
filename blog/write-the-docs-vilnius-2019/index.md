@@ -1,5 +1,6 @@
 ---
 title: "Write the Docs Wilno 2019 — relacja"
+authors: milc
 date: "2019-08-09"
 tags:
   - "news"

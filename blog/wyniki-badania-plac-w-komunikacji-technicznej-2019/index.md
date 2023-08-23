@@ -1,5 +1,6 @@
 ---
 title: "Wyniki badania płac w komunikacji technicznej 2019"
+authors: pensjonatus
 date: "2019-05-14"
 tags:
   - "badanie-plac"

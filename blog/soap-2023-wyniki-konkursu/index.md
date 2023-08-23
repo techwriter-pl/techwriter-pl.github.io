@@ -1,5 +1,6 @@
 ---
 title: "Soap! 2023 - wyniki konkursu"
+authors: agnieszka
 date: "2023-05-05"
 tags:
   - "news"

@@ -1,5 +1,6 @@
 ---
 title: "Za co tłumacze lubią autorów - składaki"
+authors: mojk
 date: "2018-05-07"
 tags:
   - "dobre-praktyki"

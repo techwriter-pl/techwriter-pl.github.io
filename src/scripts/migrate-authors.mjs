@@ -23,7 +23,10 @@ for (const post of posts) {
       "/index.md"
   );
 
-  if (existsSync(filePath)) {
+  if (
+    existsSync(filePath) &&
+    !postsWithAuthors.some((p) => p.filePath === filePath)
+  ) {
     postsWithAuthors.push({
       filePath,
       author: authorIds[post["dc:creator"]],
@@ -31,8 +34,16 @@ for (const post of posts) {
   }
 }
 
-writeFileSync(
-  "postToAuthorMappings.json",
-  JSON.stringify(postsWithAuthors, null, 2)
-);
 console.log(`Found ${postsWithAuthors.length} posts with authors`);
+
+for (const postsWithAuthor of postsWithAuthors) {
+  const postContents = readFileSync(postsWithAuthor.filePath, "utf-8");
+  const updatedContents = postContents.replace(
+    "date: ",
+    `authors: ${postsWithAuthor.author}\ndate: `
+  );
+
+  writeFileSync(postsWithAuthor.filePath, updatedContents);
+}
+
+console.log("DONE!");

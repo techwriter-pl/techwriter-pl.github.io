@@ -1,5 +1,6 @@
 ---
 title: "Lubicie to?"
+authors: admin
 date: "2013-09-27"
 tags:
   - "news"

@@ -1,5 +1,6 @@
 ---
 title: "Tech Writer w opałach. Gdzie szukać pomocy?"
+authors: mojk
 date: "2017-12-21"
 tags:
   - "dobre-praktyki"

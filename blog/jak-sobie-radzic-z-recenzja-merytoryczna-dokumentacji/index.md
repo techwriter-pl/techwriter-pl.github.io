@@ -1,5 +1,6 @@
 ---
 title: "Jak sobie radzić z recenzją merytoryczną dokumentacji?"
+authors: mojk
 date: "2014-11-25"
 tags:
   - "dobre-praktyki"

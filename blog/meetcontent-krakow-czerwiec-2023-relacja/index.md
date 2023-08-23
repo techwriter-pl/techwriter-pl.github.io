@@ -1,5 +1,6 @@
 ---
 title: "MEETCONTENT KRAKÓW – CZERWIEC 2023 – RELACJA"
+authors: niewiarowski
 date: "2023-07-19"
 tags:
   - "news"

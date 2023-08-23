@@ -1,5 +1,6 @@
 ---
 title: "Write The Docs coraz bliżej"
+authors: agnieszka
 date: "2016-08-16"
 tags:
   - "news"

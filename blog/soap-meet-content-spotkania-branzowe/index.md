@@ -1,5 +1,6 @@
 ---
 title: "soap! meet content - spotkania branżowe"
+authors: agnieszka
 date: "2016-02-24"
 tags:
   - "news"

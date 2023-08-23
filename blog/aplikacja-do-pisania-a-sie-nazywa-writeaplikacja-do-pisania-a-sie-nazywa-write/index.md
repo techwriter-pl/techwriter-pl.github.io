@@ -1,5 +1,6 @@
 ---
 title: "Aplikacja do pisania Write!"
+authors: pensjonatus
 date: "2018-01-10"
 tags:
   - "narzedzia"

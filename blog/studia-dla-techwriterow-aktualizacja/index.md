@@ -1,5 +1,6 @@
 ---
 title: "Studia dla tech writerów - aktualizacja"
+authors: admin
 date: "2018-09-12"
 tags:
   - "news"

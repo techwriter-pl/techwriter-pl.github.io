@@ -1,5 +1,6 @@
 ---
 title: "Langłydż - specjal edyszyn"
+authors: agnieszka
 date: "2015-11-25"
 tags:
   - "warsztat"

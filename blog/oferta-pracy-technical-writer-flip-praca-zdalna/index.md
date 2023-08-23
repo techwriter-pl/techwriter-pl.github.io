@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical Writer (Flip) – praca zdalna!"
+authors: admin
 date: "2020-02-03"
 tags:
   - "oferty-pracy"

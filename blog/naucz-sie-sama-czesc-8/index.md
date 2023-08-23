@@ -1,5 +1,6 @@
 ---
 title: "Naucz się sam(a) - część 8"
+authors: mojk
 date: "2018-03-29"
 tags:
   - "dobre-praktyki"

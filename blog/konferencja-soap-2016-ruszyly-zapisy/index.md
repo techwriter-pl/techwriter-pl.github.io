@@ -1,5 +1,6 @@
 ---
 title: "Konferencja soap! 2016 - ruszyły zapisy"
+authors: mojk
 date: "2016-02-18"
 tags:
   - "news"

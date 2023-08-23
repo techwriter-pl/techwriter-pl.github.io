@@ -1,5 +1,6 @@
 ---
 title: "Typografia - bądź artystą w swoim fachu"
+authors: admin
 date: "2014-02-21"
 tags:
   - "dobre-praktyki"

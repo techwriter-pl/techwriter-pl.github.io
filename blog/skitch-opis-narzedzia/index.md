@@ -1,5 +1,6 @@
 ---
 title: "Skitch - opis narzędzia"
+authors: mojk
 date: "2015-02-17"
 tags:
   - "narzedzia"

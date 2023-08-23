@@ -1,5 +1,6 @@
 ---
 title: "Technical Writing w polskim wydaniu"
+authors: mojk
 date: "2015-04-15"
 tags:
   - "biblioteczka-techwritera"

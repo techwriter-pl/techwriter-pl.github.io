@@ -1,5 +1,6 @@
 ---
 title: "Nowe trendy w technical writingu"
+authors: agnieszka
 date: "2023-06-23"
 tags:
   - "warsztat"

@@ -1,5 +1,6 @@
 ---
 title: "Konferencja reQuest - call for papers"
+authors: admin
 date: "2019-02-21"
 tags:
   - "news"

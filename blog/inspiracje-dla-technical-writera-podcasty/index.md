@@ -1,5 +1,6 @@
 ---
 title: "Inspiracje dla technical writera - podcasty"
+authors: agnieszka
 date: "2021-08-10"
 tags:
   - "przyklady"

@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: technical writer (Atlassian) - Gdańsk"
+authors: agnieszka
 date: "2021-11-22"
 tags:
   - "oferty-pracy"

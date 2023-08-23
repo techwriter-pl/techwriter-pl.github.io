@@ -1,5 +1,6 @@
 ---
 title: "Techwriter Koduje - odcinek #53"
+authors: agnieszka
 date: "2023-05-19"
 tags:
   - "dobre-praktyki"

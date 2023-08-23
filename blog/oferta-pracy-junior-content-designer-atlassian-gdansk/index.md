@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Junior Content Designer (Atlassian) - Gdańsk"
+authors: admin
 date: "2020-12-18"
 tags:
   - "oferty-pracy"

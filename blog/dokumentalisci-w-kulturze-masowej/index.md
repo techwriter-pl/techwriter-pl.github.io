@@ -1,5 +1,6 @@
 ---
 title: "Dokumentaliści w kulturze masowej"
+authors: mojk
 date: "2015-04-07"
 tags:
   - "warsztat"

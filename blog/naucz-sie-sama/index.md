@@ -1,5 +1,6 @@
 ---
 title: "Naucz się sam(a) ?"
+authors: admin
 date: "2014-03-03"
 tags:
   - "dobre-praktyki"

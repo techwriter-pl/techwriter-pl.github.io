@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical Writer (zdalnie)"
+authors: mojk
 date: "2016-09-13"
 tags:
   - "oferty-pracy"

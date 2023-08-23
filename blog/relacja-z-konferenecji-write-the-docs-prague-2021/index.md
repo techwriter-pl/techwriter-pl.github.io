@@ -1,5 +1,6 @@
 ---
 title: "Relacja z konferenecji Write the Docs Prague 2021"
+authors: toporek
 date: "2021-10-26"
 tags:
   - "news"

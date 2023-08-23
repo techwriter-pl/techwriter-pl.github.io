@@ -1,5 +1,6 @@
 ---
 title: "3 oferty pracy od 3di (Kraków)"
+authors: pensjonatus
 date: "2018-01-31"
 tags:
   - "oferty-pracy"

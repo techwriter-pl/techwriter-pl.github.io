@@ -1,5 +1,6 @@
 ---
 title: "Technical writer w roli eksperta (SME)"
+authors: agnieszka
 date: "2022-09-09"
 tags:
   - "dobre-praktyki"

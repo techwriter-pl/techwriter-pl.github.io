@@ -1,5 +1,6 @@
 ---
 title: "15 sposobów, by poprawić swój warsztat"
+authors: agnieszka
 date: "2022-10-14"
 tags:
   - "dobre-praktyki"

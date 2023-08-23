@@ -1,5 +1,6 @@
 ---
 title: "Konferencja UA Europe - w Polsce!"
+authors: admin
 date: "2013-10-25"
 tags:
   - "news"

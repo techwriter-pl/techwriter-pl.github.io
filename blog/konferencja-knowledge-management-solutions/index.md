@@ -1,5 +1,6 @@
 ---
 title: "Konferencja Knowledge Management Solutions"
+authors: admin
 date: "2014-10-03"
 tags:
   - "news"

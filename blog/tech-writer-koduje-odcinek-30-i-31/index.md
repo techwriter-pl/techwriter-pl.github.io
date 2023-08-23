@@ -1,5 +1,6 @@
 ---
 title: "Tech Writer Koduje - odcinek 30 i 31"
+authors: agnieszka
 date: "2021-07-07"
 tags:
   - "dobre-praktyki"

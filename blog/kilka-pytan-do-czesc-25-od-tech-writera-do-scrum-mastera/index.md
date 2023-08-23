@@ -1,5 +1,6 @@
 ---
 title: "Kilka pytań do – część 25: Od tech writera do scrum mastera"
+authors: niewiarowski
 date: "2021-11-15"
 tags:
   - "warsztat"

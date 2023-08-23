@@ -1,5 +1,6 @@
 ---
 title: "Kilka pytań do - część 2"
+authors: admin
 date: "2015-02-05"
 tags:
   - "warsztat"

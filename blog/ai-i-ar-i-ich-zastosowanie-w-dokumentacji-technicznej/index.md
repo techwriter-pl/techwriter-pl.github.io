@@ -1,5 +1,6 @@
 ---
 title: "AI i AR i ich zastosowanie w dokumentacji technicznej"
+authors: toporek
 date: "2021-06-15"
 tags:
   - "narzedzia"

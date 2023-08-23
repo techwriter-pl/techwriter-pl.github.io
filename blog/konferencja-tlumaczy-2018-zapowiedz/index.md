@@ -1,5 +1,6 @@
 ---
 title: "Konferencja Tłumaczy 2018 - zapowiedź"
+authors: agnieszka
 date: "2018-08-27"
 tags:
   - "news"

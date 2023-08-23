@@ -1,5 +1,6 @@
 ---
 title: "Konferencje 2017 - pierwsze półrocze"
+authors: agnieszka
 date: "2017-01-05"
 tags:
   - "news"

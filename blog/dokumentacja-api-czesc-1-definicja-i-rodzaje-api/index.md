@@ -1,5 +1,6 @@
 ---
 title: "Dokumentacja API – Część 1: Definicja i rodzaje API"
+authors: admin
 date: "2018-10-08"
 tags:
   - "dobre-praktyki"

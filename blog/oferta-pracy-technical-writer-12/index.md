@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical Writer"
+authors: mojk
 date: "2016-05-26"
 tags:
   - "oferty-pracy"

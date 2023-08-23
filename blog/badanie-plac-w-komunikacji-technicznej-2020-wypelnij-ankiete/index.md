@@ -1,5 +1,6 @@
 ---
 title: "BADANIE PŁAC W KOMUNIKACJI TECHNICZNEJ 2020 – WYPEŁNIJ ANKIETĘ!"
+authors: agnieszka
 date: "2020-04-06"
 tags:
   - "badanie-plac"

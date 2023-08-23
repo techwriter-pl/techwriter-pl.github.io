@@ -1,5 +1,6 @@
 ---
 title: "Konferencja soap! 2016 - podsumowanie"
+authors: admin
 date: "2016-06-22"
 tags:
   - "news"

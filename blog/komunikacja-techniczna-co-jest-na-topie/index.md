@@ -1,5 +1,6 @@
 ---
 title: "Komunikacja techniczna - co jest na topie"
+authors: admin
 date: "2020-05-13"
 tags:
   - "news"

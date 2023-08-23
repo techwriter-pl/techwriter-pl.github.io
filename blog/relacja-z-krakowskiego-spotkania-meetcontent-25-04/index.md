@@ -1,5 +1,6 @@
 ---
 title: "Relacja z krakowskiego spotkania MeetContent (25.04)"
+authors: kuba
 date: "2017-05-09"
 tags:
   - "news"

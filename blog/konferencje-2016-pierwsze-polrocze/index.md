@@ -1,5 +1,6 @@
 ---
 title: "Konferencje 2016 - pierwsze półrocze"
+authors: agnieszka
 date: "2016-01-05"
 tags:
   - "news"

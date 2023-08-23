@@ -1,5 +1,6 @@
 ---
 title: "Zawody dla przyszłych techwriterów"
+authors: admin
 date: "2013-10-17"
 tags:
   - "news"

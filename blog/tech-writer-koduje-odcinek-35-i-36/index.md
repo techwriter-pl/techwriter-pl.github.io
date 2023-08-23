@@ -1,5 +1,6 @@
 ---
 title: "Tech Writer Koduje - odcinek 35 i 36"
+authors: agnieszka
 date: "2021-12-01"
 tags:
   - "dobre-praktyki"

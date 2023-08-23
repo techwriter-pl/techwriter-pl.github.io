@@ -1,5 +1,6 @@
 ---
 title: "TCeurope Colloquium 2017"
+authors: agnieszka
 date: "2016-11-15"
 tags:
   - "news"

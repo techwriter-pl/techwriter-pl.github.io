@@ -1,5 +1,6 @@
 ---
 title: "Ile zarabia Technical Writer - odsłona trzecia"
+authors: mojk
 date: "2016-12-21"
 tags:
   - "news"

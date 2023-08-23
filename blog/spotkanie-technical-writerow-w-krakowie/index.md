@@ -1,5 +1,6 @@
 ---
 title: "Spotkanie Technical Writerów w Krakowie"
+authors: admin
 date: "2019-09-18"
 tags:
   - "news"

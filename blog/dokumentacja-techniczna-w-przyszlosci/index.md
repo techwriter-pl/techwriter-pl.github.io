@@ -1,5 +1,6 @@
 ---
 title: "Dokumentacja techniczna w przyszłości"
+authors: szablowska
 date: "2014-02-06"
 tags:
   - "news"

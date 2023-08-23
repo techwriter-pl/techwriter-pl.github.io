@@ -1,5 +1,6 @@
 ---
 title: "Od Tłumacza do Tech Writera"
+authors: niewiarowski
 date: "2022-04-27"
 tags:
   - "przyklady"

@@ -1,5 +1,6 @@
 ---
 title: "MadWorld powraca ze zdwojoną siłą"
+authors: mojk
 date: "2018-04-12"
 tags:
   - "news"

@@ -1,5 +1,6 @@
 ---
 title: "Kolejna uczelnia ze studiami podyplomowymi z komunikacji technicznej"
+authors: mojk
 date: "2017-02-06"
 tags:
   - "news"

@@ -1,5 +1,6 @@
 ---
 title: "Doniesienia z tegorocznej konferencji Soap 2022!"
+authors: toporek
 date: "2022-07-17"
 tags:
   - "news"

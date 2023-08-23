@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Specjalista ds. dokumentacji technicznej"
+authors: mojk
 date: "2015-12-04"
 tags:
   - "oferty-pracy"

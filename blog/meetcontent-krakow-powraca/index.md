@@ -1,5 +1,6 @@
 ---
 title: "MeetContent Kraków powraca!"
+authors: agnieszka
 date: "2023-04-24"
 tags:
   - "news"

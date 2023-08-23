@@ -1,5 +1,6 @@
 ---
 title: "Zaklinacz WordPressa"
+authors: mojk
 date: "2015-03-11"
 tags:
   - "narzedzia"

@@ -1,5 +1,6 @@
 ---
 title: "Podręcznik stylu - stylręcznik?"
+authors: admin
 date: "2014-05-22"
 tags:
   - "dobre-praktyki"

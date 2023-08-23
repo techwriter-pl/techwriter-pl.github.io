@@ -1,5 +1,6 @@
 ---
 title: "Online Educa Berlin - Relacja"
+authors: szablowska
 date: "2014-01-07"
 tags:
   - "news"

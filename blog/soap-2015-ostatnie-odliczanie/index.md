@@ -1,5 +1,6 @@
 ---
 title: "soap! 2015 - ostatnie odliczanie"
+authors: mojk
 date: "2015-09-24"
 tags:
   - "news"

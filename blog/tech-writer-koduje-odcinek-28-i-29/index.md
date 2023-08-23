@@ -1,5 +1,6 @@
 ---
 title: "Tech Writer koduje - odcinek 28 i 29"
+authors: agnieszka
 date: "2021-04-22"
 tags:
   - "dobre-praktyki"

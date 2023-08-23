@@ -1,5 +1,6 @@
 ---
 title: "Help and Manual - niepotrzebne obrazki"
+authors: mojk
 date: "2014-08-22"
 tags:
   - "narzedzia"

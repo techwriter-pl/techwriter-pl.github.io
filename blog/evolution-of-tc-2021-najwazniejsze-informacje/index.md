@@ -1,5 +1,6 @@
 ---
 title: "Evolution of TC 2021 - najważniejsze informacje"
+authors: agnieszka
 date: "2021-06-04"
 tags:
   - "news"

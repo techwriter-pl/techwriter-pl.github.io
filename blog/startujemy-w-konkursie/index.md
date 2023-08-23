@@ -1,5 +1,6 @@
 ---
 title: "Startujemy w konkursie!"
+authors: admin
 date: "2015-02-07"
 tags:
   - "news"

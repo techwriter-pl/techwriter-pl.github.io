@@ -1,5 +1,6 @@
 ---
 title: "Każdy z nas miewa gorsze dni..."
+authors: mojk
 date: "2016-11-25"
 tags:
   - "news"

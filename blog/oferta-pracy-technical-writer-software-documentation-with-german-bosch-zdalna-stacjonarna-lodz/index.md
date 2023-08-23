@@ -2,6 +2,7 @@
 title:
   "OFERTA PRACY: Technical writer Software Documentation (with German) [BOSCH] -
   ZDALNA/STACJONARNA (ŁÓDŹ)"
+authors: agnieszka
 date: "2023-01-18"
 tags:
   - "oferty-pracy"

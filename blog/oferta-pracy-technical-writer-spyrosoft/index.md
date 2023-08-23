@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical Writer (SpyroSoft)"
+authors: mojk
 date: "2018-05-24"
 tags:
   - "oferty-pracy"

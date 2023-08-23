@@ -1,5 +1,6 @@
 ---
 title: "Help & Manual Toolbox - opis narzędzia"
+authors: mojk
 date: "2014-07-08"
 tags:
   - "narzedzia"

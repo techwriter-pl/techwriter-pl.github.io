@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical Writer (HR Bank) – Warszawa/hybrydowo"
+authors: admin
 date: "2021-05-31"
 tags:
   - "oferty-pracy"

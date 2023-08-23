@@ -1,5 +1,6 @@
 ---
 title: "Kilka pytań do – część 16"
+authors: admin
 date: "2018-04-04"
 tags:
   - "warsztat"

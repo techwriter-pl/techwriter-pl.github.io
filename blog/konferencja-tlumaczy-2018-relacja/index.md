@@ -1,5 +1,6 @@
 ---
 title: "Konferencja Tłumaczy 2018 - relacja"
+authors: mojk
 date: "2018-10-25"
 tags:
   - "news"

@@ -1,5 +1,6 @@
 ---
 title: "WikidPad - opis narzędzia"
+authors: agnieszka
 date: "2015-06-09"
 tags:
   - "narzedzia"

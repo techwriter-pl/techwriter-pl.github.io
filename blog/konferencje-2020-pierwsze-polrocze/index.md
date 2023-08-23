@@ -1,5 +1,6 @@
 ---
 title: "Konferencje 2020 - pierwsze półrocze"
+authors: agnieszka
 date: "2020-05-21"
 tags:
   - "news"

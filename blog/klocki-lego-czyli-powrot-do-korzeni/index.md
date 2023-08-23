@@ -1,5 +1,6 @@
 ---
 title: "Klocki Lego czyli powrót do korzeni"
+authors: szablowska
 date: "2014-02-18"
 tags:
   - "news"

@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: German Content/UX Writer (Betting Connections, Malta)"
+authors: mojk
 date: "2019-03-05"
 tags:
   - "oferty-pracy"

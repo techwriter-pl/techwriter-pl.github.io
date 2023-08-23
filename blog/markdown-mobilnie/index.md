@@ -1,5 +1,6 @@
 ---
 title: "Markdown mobilnie"
+authors: mojk
 date: "2014-05-09"
 tags:
   - "narzedzia"

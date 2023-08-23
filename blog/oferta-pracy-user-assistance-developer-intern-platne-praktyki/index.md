@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: User Assistance Developer (Intern) - płatne praktyki"
+authors: admin
 date: "2018-06-06"
 tags:
   - "oferty-pracy"

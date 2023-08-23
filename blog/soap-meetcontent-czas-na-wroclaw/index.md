@@ -1,5 +1,6 @@
 ---
 title: "Soap! MeetContent - czas na Wrocław"
+authors: mojk
 date: "2017-02-22"
 tags:
   - "news"

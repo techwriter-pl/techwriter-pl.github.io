@@ -1,5 +1,6 @@
 ---
 title: "Langłydż - part tu"
+authors: admin
 date: "2013-12-16"
 tags:
   - "warsztat"

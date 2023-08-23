@@ -1,5 +1,6 @@
 ---
 title: "Zapraszamy na MadWorld San Diego"
+authors: agnieszka
 date: "2019-02-26"
 tags:
   - "news"

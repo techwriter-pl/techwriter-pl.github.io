@@ -1,5 +1,6 @@
 ---
 title: 'Studia podyplomowe "Komunikacja techniczna" - w wersji online'
+authors: admin
 date: "2020-10-06"
 tags:
   - "news"

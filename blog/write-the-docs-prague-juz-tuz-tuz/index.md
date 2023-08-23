@@ -1,5 +1,6 @@
 ---
 title: "Write the Docs Prague już tuż tuż"
+authors: agnieszka
 date: "2018-08-21"
 tags:
   - "news"

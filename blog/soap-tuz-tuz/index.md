@@ -1,5 +1,6 @@
 ---
 title: "Soap! tuż tuż"
+authors: agnieszka
 date: "2019-05-16"
 tags:
   - "news"

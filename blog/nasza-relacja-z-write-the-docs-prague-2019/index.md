@@ -1,5 +1,6 @@
 ---
 title: "Relacja z Write The Docs Prague 2019"
+authors: admin
 date: "2019-10-09"
 tags:
   - "news"

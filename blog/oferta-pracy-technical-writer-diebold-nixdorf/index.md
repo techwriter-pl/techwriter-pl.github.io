@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical Writer (Diebold Nixdorf)"
+authors: mojk
 date: "2018-02-02"
 tags:
   - "oferty-pracy"

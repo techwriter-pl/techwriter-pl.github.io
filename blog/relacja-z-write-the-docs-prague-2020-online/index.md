@@ -1,5 +1,6 @@
 ---
 title: "Relacja z Write the Docs Prague 2020 online"
+authors: toporek
 date: "2020-11-12"
 tags:
   - "news"

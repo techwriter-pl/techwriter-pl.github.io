@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical Writer (DataFeedWatch)"
+authors: mojk
 date: "2019-05-27"
 tags:
   - "oferty-pracy"

@@ -1,5 +1,6 @@
 ---
 title: "Pierwsze spotkanie Poland MadCap Flare User Group"
+authors: kuba
 date: "2017-07-03"
 tags:
   - "news"

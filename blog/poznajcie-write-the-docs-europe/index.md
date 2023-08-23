@@ -1,5 +1,6 @@
 ---
 title: "Poznajcie Write the Docs Europe"
+authors: agnieszka
 date: "2016-05-31"
 tags:
   - "news"

@@ -1,5 +1,6 @@
 ---
 title: "UA Conference - Matthew Ellison"
+authors: szablowska
 date: "2014-07-11"
 tags:
   - "news"

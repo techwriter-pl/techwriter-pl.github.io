@@ -1,5 +1,6 @@
 ---
 title: "Zapraszamy na Write the Docs Prague 2020"
+authors: agnieszka
 date: "2020-06-30"
 tags:
   - "news"

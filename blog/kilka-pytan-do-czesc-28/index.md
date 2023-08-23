@@ -1,5 +1,6 @@
 ---
 title: "Kilka pytań do - część 28"
+authors: niewiarowski
 date: "2023-02-09"
 tags:
   - "warsztat"

@@ -1,5 +1,6 @@
 ---
 title: "Kilka pytań do - część 21"
+authors: niewiarowski
 date: "2020-12-09"
 tags:
   - "warsztat"

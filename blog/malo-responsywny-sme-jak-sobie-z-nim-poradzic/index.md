@@ -1,5 +1,6 @@
 ---
 title: "Mało responsywny SME? Jak sobie z nim poradzić."
+authors: agnieszka
 date: "2023-01-31"
 tags:
   - "dobre-praktyki"

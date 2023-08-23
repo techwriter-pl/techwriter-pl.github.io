@@ -1,5 +1,6 @@
 ---
 title: "Wszystko o DITA – Podstawy (2)"
+authors: pensjonatus
 date: "2016-05-04"
 tags:
   - "dobre-praktyki"

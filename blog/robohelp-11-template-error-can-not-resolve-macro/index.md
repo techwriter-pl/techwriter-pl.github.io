@@ -1,5 +1,6 @@
 ---
 title: 'RoboHelp 11 - "Template error: can not resolve macro"'
+authors: mojk
 date: "2015-06-16"
 tags:
   - "narzedzia"

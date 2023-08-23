@@ -1,5 +1,6 @@
 ---
 title: "No Words, No Problem..."
+authors: szablowska
 date: "2014-03-06"
 tags:
   - "news"

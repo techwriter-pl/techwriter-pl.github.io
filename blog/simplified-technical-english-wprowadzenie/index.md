@@ -1,5 +1,6 @@
 ---
 title: "Simplified Technical English - wprowadzenie"
+authors: agnieszka
 date: "2020-08-28"
 tags:
   - "dobre-praktyki"

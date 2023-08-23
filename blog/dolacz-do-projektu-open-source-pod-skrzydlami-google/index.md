@@ -1,5 +1,6 @@
 ---
 title: "Dołącz do projektu Open Source pod skrzydłami Google!"
+authors: mojk
 date: "2019-04-17"
 tags:
   - "news"

@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Information Developer"
+authors: mojk
 date: "2015-09-04"
 tags:
   - "oferty-pracy"

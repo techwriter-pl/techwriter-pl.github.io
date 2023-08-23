@@ -1,5 +1,6 @@
 ---
 title: "Jak zostać technical writerem?"
+authors: admin
 date: "2014-01-09"
 tags:
   - "news"

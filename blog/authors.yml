@@ -2,21 +2,18 @@
 admin:
   name: Admin
   role: Administrator
-  url: https://techwriter.pl
   image_url: https://github.com/techwriter-pl.png
 
 # Sabina
 szablowska:
   name: Sabina Szablowska
   role: Autor
-  url: https://techwriter.pl
   image_url: https://github.com/techwriter-pl.png
 
 # Agnieszka
 agnieszka:
   name: Agnieszka Skarbek
   role: Administrator
-  url: https://techwriter.pl
   image_url: https://github.com/techwriter-pl.png
 
 # mojk
@@ -30,7 +27,6 @@ mojk:
 milc:
   name: Florian Milc
   role: Autor
-  url: https://techwriter.pl
   image_url: https://github.com/techwriter-pl.png
 
 # Pawel

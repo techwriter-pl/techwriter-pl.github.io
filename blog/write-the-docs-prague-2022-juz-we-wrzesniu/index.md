@@ -1,5 +1,6 @@
 ---
 title: "Write the Docs Prague 2022 już we wrześniu"
+authors: agnieszka
 date: "2022-06-30"
 tags:
   - "news"

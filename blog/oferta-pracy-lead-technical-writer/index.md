@@ -1,5 +1,6 @@
 ---
 title: "[NIEAKTUALNE] Oferta pracy: Lead Technical Writer"
+authors: mojk
 date: "2016-01-21"
 tags:
   - "oferty-pracy"

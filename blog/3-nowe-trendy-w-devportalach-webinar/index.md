@@ -1,5 +1,6 @@
 ---
 title: "3 nowe trendy w devportalach - webinar"
+authors: agnieszka
 date: "2020-09-09"
 tags:
   - "news"

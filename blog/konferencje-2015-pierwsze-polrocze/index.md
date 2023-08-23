@@ -1,5 +1,6 @@
 ---
 title: "Konferencje 2015 - pierwsze półrocze"
+authors: mojk
 date: "2015-01-13"
 tags:
   - "news"

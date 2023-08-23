@@ -1,5 +1,6 @@
 ---
 title: "Zapraszamy na drugie spotkanie Poland MadCap Flare User Group"
+authors: mojk
 date: "2017-08-30"
 tags:
   - "news"

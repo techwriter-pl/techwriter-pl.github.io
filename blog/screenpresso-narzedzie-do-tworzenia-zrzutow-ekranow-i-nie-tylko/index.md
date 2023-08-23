@@ -1,5 +1,6 @@
 ---
 title: "Screenpresso - narzędzie do tworzenia zrzutów ekranów i nie tylko"
+authors: toporek
 date: "2020-09-10"
 tags:
   - "narzedzia"

@@ -1,5 +1,6 @@
 ---
 title: "Konferencje 2020 - drugie półrocze"
+authors: agnieszka
 date: "2020-08-18"
 tags:
   - "news"

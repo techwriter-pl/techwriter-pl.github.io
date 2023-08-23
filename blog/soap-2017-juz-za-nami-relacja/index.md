@@ -1,5 +1,6 @@
 ---
 title: "Soap! 2017 już za nami - relacja"
+authors: kuba
 date: "2017-06-26"
 tags:
   - "news"

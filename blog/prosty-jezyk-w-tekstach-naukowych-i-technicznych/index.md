@@ -1,5 +1,6 @@
 ---
 title: "Prosty język w tekstach naukowych i technicznych"
+authors: agnieszka
 date: "2020-07-21"
 tags:
   - "dobre-praktyki"

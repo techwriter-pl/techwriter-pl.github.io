@@ -1,5 +1,6 @@
 ---
 title: "Evolution of TC 2018 już wkrótce"
+authors: agnieszka
 date: "2018-04-19"
 tags:
   - "news"

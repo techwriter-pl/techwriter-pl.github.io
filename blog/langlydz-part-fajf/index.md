@@ -1,5 +1,6 @@
 ---
 title: "Langłydż - part fajf"
+authors: admin
 date: "2014-02-14"
 tags:
   - "warsztat"

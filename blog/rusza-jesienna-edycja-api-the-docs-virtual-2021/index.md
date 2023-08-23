@@ -1,5 +1,6 @@
 ---
 title: "Rusza jesienna edycja API the Docs Virtual 2021"
+authors: agnieszka
 date: "2021-09-30"
 tags:
   - "news"

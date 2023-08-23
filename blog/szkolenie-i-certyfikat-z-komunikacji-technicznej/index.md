@@ -1,5 +1,6 @@
 ---
 title: "Szkolenie i certyfikat z komunikacji technicznej"
+authors: admin
 date: "2015-08-11"
 tags:
   - "news"

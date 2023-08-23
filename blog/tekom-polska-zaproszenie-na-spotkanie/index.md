@@ -1,5 +1,6 @@
 ---
 title: "tekom Polska - zaproszenie na spotkanie"
+authors: mojk
 date: "2015-11-20"
 tags:
   - "news"

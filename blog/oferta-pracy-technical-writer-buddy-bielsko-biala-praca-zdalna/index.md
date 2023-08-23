@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical Writer (Buddy) - Bielsko-Biała / praca zdalna"
+authors: admin
 date: "2020-11-16"
 tags:
   - "oferty-pracy"

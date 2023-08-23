@@ -1,5 +1,6 @@
 ---
 title: "Konferencje 2018 - drugie półrocze"
+authors: agnieszka
 date: "2018-06-07"
 tags:
   - "news"

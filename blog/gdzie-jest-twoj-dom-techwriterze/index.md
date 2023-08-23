@@ -1,5 +1,6 @@
 ---
 title: "Gdzie jest Twój dom, techwriterze?"
+authors: admin
 date: "2014-12-02"
 tags:
   - "news"

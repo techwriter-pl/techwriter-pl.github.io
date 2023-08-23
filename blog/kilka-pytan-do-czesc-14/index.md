@@ -1,5 +1,6 @@
 ---
 title: "Kilka pytań do - część 14"
+authors: mojk
 date: "2017-09-06"
 tags:
   - "warsztat"

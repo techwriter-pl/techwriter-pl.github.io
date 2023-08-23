@@ -1,5 +1,6 @@
 ---
 title: "[NIEAKTUALNE] Oferta pracy: Technical Writer"
+authors: mojk
 date: "2016-03-15"
 tags:
   - "oferty-pracy"

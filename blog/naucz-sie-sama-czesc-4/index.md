@@ -1,5 +1,6 @@
 ---
 title: "Naucz się sam(a) - część 4"
+authors: mojk
 date: "2014-06-03"
 tags:
   - "dobre-praktyki"

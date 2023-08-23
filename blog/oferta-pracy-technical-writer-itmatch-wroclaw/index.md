@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical Writer (itMatch) – Wrocław"
+authors: admin
 date: "2020-08-10"
 tags:
   - "oferty-pracy"

@@ -1,5 +1,6 @@
 ---
 title: "Content Automation for Dummies - recenzja"
+authors: admin
 date: "2018-10-11"
 tags:
   - "biblioteczka-techwritera"

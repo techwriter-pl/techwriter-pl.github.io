@@ -1,5 +1,6 @@
 ---
 title: "Konferencja soap! 2019 - zapowiedź"
+authors: agnieszka
 date: "2019-04-09"
 tags:
   - "news"

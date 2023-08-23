@@ -1,5 +1,6 @@
 ---
 title: "Dokumentowanie API – Część 2: Dokumentacja referencyjna"
+authors: admin
 date: "2018-11-20"
 tags:
   - "dobre-praktyki"

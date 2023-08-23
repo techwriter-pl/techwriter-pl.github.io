@@ -1,5 +1,6 @@
 ---
 title: "The 5 things you must know about customer experience - relacja"
+authors: szablowska
 date: "2014-05-13"
 tags:
   - "news"

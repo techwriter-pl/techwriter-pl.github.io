@@ -1,5 +1,6 @@
 ---
 title: "5 średniowiecznych jaktosów"
+authors: admin
 date: "2014-01-24"
 tags:
   - "warsztat"

@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical Writer (Infolet)"
+authors: mojk
 date: "2018-02-26"
 tags:
   - "oferty-pracy"

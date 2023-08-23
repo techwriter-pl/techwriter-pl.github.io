@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Specjalista ds. tworzenia dokumentacji/instrukcji technicznych"
+authors: admin
 date: "2017-07-25"
 tags:
   - "oferty-pracy"

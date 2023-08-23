@@ -1,5 +1,6 @@
 ---
 title: "Pierwszy meetup na wybrzeżu"
+authors: mojk
 date: "2016-06-20"
 tags:
   - "news"

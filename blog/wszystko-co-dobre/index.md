@@ -1,5 +1,6 @@
 ---
 title: "Wszystko co dobre..."
+authors: admin
 date: "2014-04-01"
 tags:
   - "news"

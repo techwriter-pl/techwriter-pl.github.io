@@ -1,5 +1,6 @@
 ---
 title: "[NIEAKTUALNE] Oferta pracy: Information Architect"
+authors: admin
 date: "2017-08-02"
 tags:
   - "oferty-pracy"

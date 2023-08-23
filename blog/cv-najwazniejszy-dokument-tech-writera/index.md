@@ -1,5 +1,6 @@
 ---
 title: "CV - najważniejszy dokument Tech Writera"
+authors: mojk
 date: "2016-01-12"
 tags:
   - "dobre-praktyki"

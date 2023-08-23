@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical Writer II (Akamai) – Kraków"
+authors: agnieszka
 date: "2021-05-19"
 tags:
   - "oferty-pracy"

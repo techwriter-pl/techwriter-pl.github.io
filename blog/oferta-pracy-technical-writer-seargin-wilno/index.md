@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical Writer (Seargin, Wilno)"
+authors: mojk
 date: "2018-12-21"
 tags:
   - "oferty-pracy"

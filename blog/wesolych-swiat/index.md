@@ -1,5 +1,6 @@
 ---
 title: "Wesołych Świąt!"
+authors: admin
 date: "2013-12-20"
 tags:
   - "news"

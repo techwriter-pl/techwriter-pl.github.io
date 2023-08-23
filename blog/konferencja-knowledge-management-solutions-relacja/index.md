@@ -1,5 +1,6 @@
 ---
 title: "Konferencja Knowledge Management Solutions - relacja"
+authors: admin
 date: "2014-11-04"
 tags:
   - "news"

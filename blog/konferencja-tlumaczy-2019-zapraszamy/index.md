@@ -1,5 +1,6 @@
 ---
 title: "Konferencja Tłumaczy 2019 - zapraszamy!"
+authors: agnieszka
 date: "2019-08-20"
 tags:
   - "news"

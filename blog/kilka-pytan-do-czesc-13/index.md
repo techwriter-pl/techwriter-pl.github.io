@@ -1,5 +1,6 @@
 ---
 title: "Kilka pytań do - część 13"
+authors: mojk
 date: "2017-07-11"
 tags:
   - "warsztat"

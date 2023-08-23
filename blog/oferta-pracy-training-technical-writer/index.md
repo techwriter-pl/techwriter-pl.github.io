@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Training Technical Writer"
+authors: admin
 date: "2018-06-15"
 tags:
   - "oferty-pracy"

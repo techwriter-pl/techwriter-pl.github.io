@@ -1,5 +1,6 @@
 ---
 title: "“Zrzucanie” ekranu - opis narzędzi"
+authors: admin
 date: "2014-02-10"
 tags:
   - "narzedzia"

@@ -1,5 +1,6 @@
 ---
 title: "Niepozorne, ale przydatne aplikacje"
+authors: mojk
 date: "2015-06-30"
 tags:
   - "narzedzia"

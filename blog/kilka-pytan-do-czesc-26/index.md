@@ -1,5 +1,6 @@
 ---
 title: "Kilka pytań do - część 26"
+authors: agnieszka
 date: "2022-05-31"
 tags:
   - "warsztat"

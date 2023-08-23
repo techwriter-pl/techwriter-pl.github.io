@@ -1,5 +1,6 @@
 ---
 title: "Zapraszamy na Write the Docs Vilnius 2019"
+authors: agnieszka
 date: "2019-04-19"
 tags:
   - "news"

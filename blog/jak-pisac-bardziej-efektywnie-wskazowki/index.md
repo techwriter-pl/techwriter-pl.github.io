@@ -1,5 +1,6 @@
 ---
 title: "Jak pisać bardziej efektywnie - wskazówki"
+authors: agnieszka
 date: "2021-12-15"
 tags:
   - "dobre-praktyki"

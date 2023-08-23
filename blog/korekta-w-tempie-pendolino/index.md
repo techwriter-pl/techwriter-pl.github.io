@@ -1,5 +1,6 @@
 ---
 title: "Korekta w tempie Pendolino"
+authors: mojk
 date: "2014-10-24"
 tags:
   - "dobre-praktyki"

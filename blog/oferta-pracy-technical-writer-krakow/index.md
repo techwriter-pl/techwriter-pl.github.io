@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical Writer, Kraków"
+authors: pensjonatus
 date: "2017-09-29"
 tags:
   - "oferty-pracy"

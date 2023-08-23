@@ -1,5 +1,6 @@
 ---
 title: "Oferta (współ)pracy: Redaktor Techwriter.pl"
+authors: mojk
 date: "2019-02-05"
 tags:
   - "oferty-pracy"

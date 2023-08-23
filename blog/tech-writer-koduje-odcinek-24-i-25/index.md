@@ -1,5 +1,6 @@
 ---
 title: "Tech Writer koduje - odcinek 24 i 25"
+authors: agnieszka
 date: "2021-02-03"
 tags:
   - "dobre-praktyki"

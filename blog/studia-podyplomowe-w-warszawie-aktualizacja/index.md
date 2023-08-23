@@ -1,5 +1,6 @@
 ---
 title: "Studia podyplomowe w Warszawie - aktualizacja"
+authors: admin
 date: "2019-09-25"
 tags:
   - "news"

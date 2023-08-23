@@ -1,5 +1,6 @@
 ---
 title: "Technical writer w dobrej formie"
+authors: agnieszka
 date: "2015-06-23"
 tags:
   - "dobre-praktyki"

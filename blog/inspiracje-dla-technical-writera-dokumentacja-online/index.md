@@ -1,5 +1,6 @@
 ---
 title: "Inspiracje dla Technical Writera - dokumentacja online"
+authors: agnieszka
 date: "2020-10-02"
 tags:
   - "przyklady"

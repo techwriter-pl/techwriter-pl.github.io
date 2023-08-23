@@ -1,5 +1,6 @@
 ---
 title: "Studia podyplomowe z komunikacji technicznej"
+authors: agnieszka
 date: "2016-06-13"
 tags:
   - "news"

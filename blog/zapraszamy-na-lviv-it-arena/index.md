@@ -1,5 +1,6 @@
 ---
 title: "Zapraszamy na Lviv IT Arena"
+authors: admin
 date: "2016-09-19"
 tags:
   - "news"

@@ -1,5 +1,6 @@
 ---
 title: "Wyniki badania płac w komunikacji technicznej 2021"
+authors: agnieszka
 date: "2021-06-23"
 tags:
   - "badanie-plac"

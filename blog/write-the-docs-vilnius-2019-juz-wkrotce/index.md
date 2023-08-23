@@ -1,5 +1,6 @@
 ---
 title: "Write the Docs Vilnius 2019 już wkrótce"
+authors: agnieszka
 date: "2019-05-21"
 tags:
   - "news"

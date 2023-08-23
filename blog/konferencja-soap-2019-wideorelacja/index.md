@@ -1,5 +1,6 @@
 ---
 title: "Konferencja soap! 2019 - (wideo)relacja"
+authors: admin
 date: "2019-11-03"
 tags:
   - "news"

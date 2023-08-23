@@ -1,5 +1,6 @@
 ---
 title: "Warsztaty organizowane przez soap!"
+authors: pensjonatus
 date: "2016-04-28"
 tags:
   - "news"

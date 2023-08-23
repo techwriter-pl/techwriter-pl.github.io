@@ -1,5 +1,6 @@
 ---
 title: "Poznajcie naszych partnerów"
+authors: agnieszka
 date: "2018-02-13"
 tags:
   - "news"

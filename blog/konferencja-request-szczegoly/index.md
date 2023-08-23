@@ -1,5 +1,6 @@
 ---
 title: "Konferencja reQuest - szczegóły"
+authors: admin
 date: "2019-05-29"
 tags:
   - "news"

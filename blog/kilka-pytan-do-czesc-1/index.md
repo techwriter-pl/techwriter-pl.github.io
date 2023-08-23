@@ -1,5 +1,6 @@
 ---
 title: "Kilka pytań do - część 1"
+authors: mojk
 date: "2015-01-27"
 tags:
   - "warsztat"

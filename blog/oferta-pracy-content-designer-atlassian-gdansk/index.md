@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Content Designer (Atlassian) - Gdańsk"
+authors: admin
 date: "2020-12-16"
 tags:
   - "oferty-pracy"

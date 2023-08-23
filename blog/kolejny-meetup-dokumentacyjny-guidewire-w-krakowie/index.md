@@ -1,5 +1,6 @@
 ---
 title: "Kolejny meetup dokumentacyjny Guidewire w Krakowie"
+authors: mojk
 date: "2019-01-15"
 tags:
   - "news"

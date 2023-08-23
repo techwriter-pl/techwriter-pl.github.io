@@ -1,5 +1,6 @@
 ---
 title: "Jenkins - opis narzędzia"
+authors: admin
 date: "2014-03-20"
 tags:
   - "narzedzia"

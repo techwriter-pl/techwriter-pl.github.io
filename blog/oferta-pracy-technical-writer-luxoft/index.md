@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical Writer (Luxoft)"
+authors: mojk
 date: "2018-08-23"
 tags:
   - "oferty-pracy"

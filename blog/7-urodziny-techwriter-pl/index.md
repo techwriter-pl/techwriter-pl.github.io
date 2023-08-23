@@ -1,5 +1,6 @@
 ---
 title: "7 urodziny techwriter.pl"
+authors: agnieszka
 date: "2020-09-18"
 tags:
   - "news"

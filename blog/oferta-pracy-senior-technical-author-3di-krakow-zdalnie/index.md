@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Senior Technical Author (3di) – Kraków/zdalnie"
+authors: admin
 date: "2021-05-10"
 tags:
   - "oferty-pracy"

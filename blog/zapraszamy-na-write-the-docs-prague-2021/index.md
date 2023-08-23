@@ -1,5 +1,6 @@
 ---
 title: "ZAPRASZAMY NA WRITE THE DOCS PRAGUE 2021"
+authors: agnieszka
 date: "2021-04-15"
 tags:
   - "news"

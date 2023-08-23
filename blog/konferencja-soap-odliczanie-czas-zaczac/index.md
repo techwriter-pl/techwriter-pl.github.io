@@ -1,5 +1,6 @@
 ---
 title: "Konferencja soap! - odliczanie czas zacząć"
+authors: agnieszka
 date: "2018-04-30"
 tags:
   - "news"

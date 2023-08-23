@@ -1,5 +1,6 @@
 ---
 title: "Meetcontent Wrocław - czerwiec 2023"
+authors: agnieszka
 date: "2023-06-15"
 tags:
   - "news"

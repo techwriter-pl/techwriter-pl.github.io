@@ -1,5 +1,6 @@
 ---
 title: "Projekty open source dla technical writerów"
+authors: agnieszka
 date: "2021-05-26"
 tags:
   - "dobre-praktyki"

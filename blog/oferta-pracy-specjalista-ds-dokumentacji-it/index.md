@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Specjalista ds. dokumentacji IT"
+authors: admin
 date: "2014-08-26"
 tags:
   - "oferty-pracy"

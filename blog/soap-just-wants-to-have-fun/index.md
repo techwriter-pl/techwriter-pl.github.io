@@ -1,5 +1,6 @@
 ---
 title: "Soap! Just Wants to Have Fun"
+authors: mojk
 date: "2014-12-09"
 tags:
   - "news"

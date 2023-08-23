@@ -1,5 +1,6 @@
 ---
 title: "Langłydż - part łan"
+authors: admin
 date: "2013-12-03"
 tags:
   - "warsztat"

@@ -1,5 +1,6 @@
 ---
 title: "OFERTA PRACY: Technical Writer (Fudo Security) – HYBRYDOWA (Warszawa)"
+authors: agnieszka
 date: "2022-11-07"
 tags:
   - "oferty-pracy"

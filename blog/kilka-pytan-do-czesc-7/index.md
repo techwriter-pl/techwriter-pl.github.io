@@ -1,5 +1,6 @@
 ---
 title: "Kilka pytań do - część 7"
+authors: agnieszka
 date: "2015-10-27"
 tags:
   - "warsztat"

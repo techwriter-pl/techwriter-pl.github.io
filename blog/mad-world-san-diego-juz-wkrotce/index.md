@@ -1,5 +1,6 @@
 ---
 title: "MadWorld San Diego już wkrótce"
+authors: agnieszka
 date: "2019-03-19"
 tags:
   - "news"

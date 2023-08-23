@@ -1,5 +1,6 @@
 ---
 title: "Ilustracje i wideo w dokumentacji technicznej"
+authors: toporek
 date: "2021-07-22"
 tags:
   - "news"

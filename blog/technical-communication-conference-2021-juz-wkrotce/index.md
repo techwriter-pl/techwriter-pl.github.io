@@ -1,5 +1,6 @@
 ---
 title: "TECHNICAL COMMUNICATION CONFERENCE 2021 już wkrótce"
+authors: agnieszka
 date: "2021-10-20"
 tags:
   - "news"

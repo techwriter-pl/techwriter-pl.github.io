@@ -1,5 +1,6 @@
 ---
 title: "Digital Learning Congress - w Warszawie!"
+authors: admin
 date: "2014-07-29"
 tags:
   - "news"

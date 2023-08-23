@@ -1,5 +1,6 @@
 ---
 title: "Konferencje 2019 - drugie półrocze"
+authors: agnieszka
 date: "2019-05-31"
 tags:
   - "news"

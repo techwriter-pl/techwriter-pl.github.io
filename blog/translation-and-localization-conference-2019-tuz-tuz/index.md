@@ -1,5 +1,6 @@
 ---
 title: "Translation and Localization Conference 2019 tuż, tuż"
+authors: agnieszka
 date: "2019-03-08"
 tags:
   - "news"

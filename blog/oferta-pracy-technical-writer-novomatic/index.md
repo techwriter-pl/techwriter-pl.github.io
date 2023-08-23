@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical Writer (Novomatic)"
+authors: admin
 date: "2019-05-07"
 tags:
   - "oferty-pracy"

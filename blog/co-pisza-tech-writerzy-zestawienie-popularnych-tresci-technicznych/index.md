@@ -1,5 +1,6 @@
 ---
 title: "Co piszą tech writerzy? Zestawienie popularnych treści technicznych"
+authors: milc
 date: "2022-02-24"
 tags:
   - "dobre-praktyki"

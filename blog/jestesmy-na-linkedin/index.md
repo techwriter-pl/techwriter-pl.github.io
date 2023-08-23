@@ -1,5 +1,6 @@
 ---
 title: "Jesteśmy na LinkedIn!"
+authors: admin
 date: "2020-01-15"
 tags:
   - "news"

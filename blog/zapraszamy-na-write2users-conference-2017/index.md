@@ -1,5 +1,6 @@
 ---
 title: "Zapraszamy na Write2Users Conference 2017!"
+authors: kuba
 date: "2017-10-12"
 tags:
   - "news"

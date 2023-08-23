@@ -1,5 +1,6 @@
 ---
 title: "Komunikacja techniczna geograficznie v2"
+authors: mojk
 date: "2015-05-26"
 tags:
   - "news"

@@ -1,5 +1,6 @@
 ---
 title: "Nowa polska publikacja o komunikacji technicznej"
+authors: agnieszka
 date: "2020-05-04"
 tags:
   - "biblioteczka-techwritera"

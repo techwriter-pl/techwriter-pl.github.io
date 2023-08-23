@@ -1,5 +1,6 @@
 ---
 title: "Kilka pytań do - część 20"
+authors: agnieszka
 date: "2020-11-06"
 tags:
   - "warsztat"

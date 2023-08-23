@@ -1,5 +1,6 @@
 ---
 title: "Zapraszamy na UA Europe 2017"
+authors: agnieszka
 date: "2017-03-28"
 tags:
   - "news"

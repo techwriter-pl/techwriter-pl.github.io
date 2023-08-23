@@ -1,5 +1,6 @@
 ---
 title: "Tworzenie dokumentacji technicznej w środowisku Agile"
+authors: admin
 date: "2013-10-21"
 tags:
   - "dobre-praktyki"

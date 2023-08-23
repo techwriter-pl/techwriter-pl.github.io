@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical Content Specialist (Open-E)"
+authors: mojk
 date: "2019-03-21"
 tags:
   - "oferty-pracy"

@@ -1,5 +1,6 @@
 ---
 title: "Kilka pytań do - część 29"
+authors: agnieszka
 date: "2023-02-22"
 tags:
   - "warsztat"

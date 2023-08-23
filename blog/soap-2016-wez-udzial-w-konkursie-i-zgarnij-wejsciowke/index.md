@@ -1,5 +1,6 @@
 ---
 title: "soap! 2016 - weź udział w konkursie i zgarnij wejściówkę!"
+authors: mojk
 date: "2016-03-04"
 tags:
   - "news"

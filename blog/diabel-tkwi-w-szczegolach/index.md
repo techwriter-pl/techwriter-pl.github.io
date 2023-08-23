@@ -1,5 +1,6 @@
 ---
 title: "Diabeł tkwi w szczegółach"
+authors: mojk
 date: "2014-12-30"
 tags:
   - "dobre-praktyki"

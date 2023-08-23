@@ -1,5 +1,6 @@
 ---
 title: "Żywot dokumentalisty poczciwego, czyli wyzwanie to pisanie"
+authors: mojk
 date: "2014-09-23"
 tags:
   - "dobre-praktyki"

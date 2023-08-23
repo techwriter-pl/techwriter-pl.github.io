@@ -1,5 +1,6 @@
 ---
 title: "Tak nie rób"
+authors: admin
 date: "2014-08-01"
 tags:
   - "dobre-praktyki"

@@ -1,5 +1,6 @@
 ---
 title: "Szczyt zaawansowania w komunikacji technicznej"
+authors: admin
 date: "2014-12-12"
 tags:
   - "news"

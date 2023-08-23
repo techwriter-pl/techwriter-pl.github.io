@@ -1,5 +1,6 @@
 ---
 title: "KONFERENCJA SOAP! 2023 – ZAPOWIEDŹ"
+authors: agnieszka
 date: "2023-03-28"
 tags:
   - "news"

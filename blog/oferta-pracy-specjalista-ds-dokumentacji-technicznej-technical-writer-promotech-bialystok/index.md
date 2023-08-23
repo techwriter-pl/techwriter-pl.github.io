@@ -2,6 +2,7 @@
 title:
   "Oferta pracy: Specjalista ds. dokumentacji Technicznej / Technical Writer
   (Promotech) - Białystok"
+authors: agnieszka
 date: "2021-12-08"
 tags:
   - "oferty-pracy"

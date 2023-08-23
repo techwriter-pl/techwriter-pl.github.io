@@ -1,5 +1,6 @@
 ---
 title: "Konferencje 2016 - drugie półrocze"
+authors: agnieszka
 date: "2016-05-09"
 tags:
   - "news"

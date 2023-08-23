@@ -1,5 +1,6 @@
 ---
 title: "Ile zarabia technical writer?"
+authors: admin
 date: "2013-10-13"
 tags:
   - "news"

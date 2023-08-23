@@ -1,5 +1,6 @@
 ---
 title: "Polskie blogi"
+authors: admin
 date: "2015-03-18"
 tags:
   - "biblioteczka-techwritera"

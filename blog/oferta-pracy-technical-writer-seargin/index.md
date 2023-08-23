@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical Writer (Seargin)"
+authors: mojk
 date: "2018-04-27"
 tags:
   - "oferty-pracy"

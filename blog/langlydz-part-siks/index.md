@@ -1,5 +1,6 @@
 ---
 title: "Langłydż - part siks"
+authors: admin
 date: "2014-04-25"
 tags:
   - "warsztat"

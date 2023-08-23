@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical Editor (Etteplan)"
+authors: mojk
 date: "2018-12-31"
 tags:
   - "oferty-pracy"

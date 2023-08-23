@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Content Specialist (open-e) – Bytom/hybrydowo"
+authors: admin
 date: "2021-06-10"
 tags:
   - "oferty-pracy"

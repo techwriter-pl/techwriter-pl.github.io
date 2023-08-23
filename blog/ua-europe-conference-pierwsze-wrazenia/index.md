@@ -1,5 +1,6 @@
 ---
 title: "UA Europe Conference - pierwsze wrażenia"
+authors: szablowska
 date: "2014-06-10"
 tags:
   - "news"

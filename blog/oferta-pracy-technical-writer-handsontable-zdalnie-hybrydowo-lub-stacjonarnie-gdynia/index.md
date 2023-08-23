@@ -1,6 +1,7 @@
 ---
 title: "OFERTA PRACY: TECHNICAL WRITER (Handsontable) – ZDALNIE, HYBRYDOWO LUB
   STACJONARNIE (GDYNIA)"
+authors: agnieszka
 date: "2023-08-03"
 tags:
   - "oferty-pracy"

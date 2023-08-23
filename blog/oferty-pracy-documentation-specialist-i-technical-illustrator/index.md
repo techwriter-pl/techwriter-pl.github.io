@@ -1,5 +1,6 @@
 ---
 title: "Oferty pracy: Documentation Specialist i Technical Illustrator"
+authors: admin
 date: "2017-04-18"
 tags:
   - "oferty-pracy"

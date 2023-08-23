@@ -1,5 +1,6 @@
 ---
 title: "MEETCONTENT WROCŁAW – MAJ 2023"
+authors: agnieszka
 date: "2023-05-10"
 tags:
   - "news"

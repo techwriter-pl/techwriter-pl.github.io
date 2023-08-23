@@ -1,5 +1,6 @@
 ---
 title: "[NIEAKTUALNE] Oferta pracy: Junior Technical Writer"
+authors: pensjonatus
 date: "2016-10-17"
 tags:
   - "oferty-pracy"

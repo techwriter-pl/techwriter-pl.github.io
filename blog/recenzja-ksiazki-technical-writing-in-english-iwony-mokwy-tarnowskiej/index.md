@@ -1,5 +1,6 @@
 ---
 title: 'Recenzja książki "Technical Writing in English" Iwony Mokwy-Tarnowskiej'
+authors: mojk
 date: "2019-05-22"
 tags:
   - "biblioteczka-techwritera"

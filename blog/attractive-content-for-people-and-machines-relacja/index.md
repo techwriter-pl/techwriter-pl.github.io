@@ -1,5 +1,6 @@
 ---
 title: "Attractive Content for People and Machines - relacja"
+authors: szablowska
 date: "2014-03-27"
 tags:
   - "news"

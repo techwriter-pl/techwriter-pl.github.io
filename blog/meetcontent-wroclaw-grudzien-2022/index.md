@@ -1,5 +1,6 @@
 ---
 title: "MeetContent Wrocław - grudzień 2022"
+authors: agnieszka
 date: "2022-11-15"
 tags:
   - "news"

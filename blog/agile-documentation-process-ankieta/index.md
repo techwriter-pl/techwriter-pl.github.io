@@ -1,5 +1,6 @@
 ---
 title: "Agile documentation process - ankieta"
+authors: admin
 date: "2014-08-29"
 tags:
   - "news"

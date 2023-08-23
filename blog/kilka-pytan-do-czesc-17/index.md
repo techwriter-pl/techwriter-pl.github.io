@@ -1,5 +1,6 @@
 ---
 title: "Kilka pytań do - część 17"
+authors: mojk
 date: "2019-02-19"
 tags:
   - "warsztat"

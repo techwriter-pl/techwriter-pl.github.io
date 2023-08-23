@@ -1,5 +1,6 @@
 ---
 title: "Langłydż - part sewen"
+authors: admin
 date: "2014-06-26"
 tags:
   - "warsztat"

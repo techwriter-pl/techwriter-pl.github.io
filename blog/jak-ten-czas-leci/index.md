@@ -1,5 +1,6 @@
 ---
 title: "Jak ten czas leci..."
+authors: admin
 date: "2015-12-23"
 tags:
   - "news"

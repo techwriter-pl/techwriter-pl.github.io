@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Senior Technical Writer (Pega)"
+authors: mojk
 date: "2017-12-19"
 tags:
   - "oferty-pracy"

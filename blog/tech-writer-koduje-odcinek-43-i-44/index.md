@@ -1,5 +1,6 @@
 ---
 title: "TECH WRITER KODUJE – ODCINEK #43 I #44"
+authors: agnieszka
 date: "2022-08-19"
 tags:
   - "praca"

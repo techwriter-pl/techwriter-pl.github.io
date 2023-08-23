@@ -1,5 +1,6 @@
 ---
 title: "TECH WRITER KODUJE – ODCINEK #39 I #40"
+authors: agnieszka
 date: "2022-03-24"
 tags:
   - "dobre-praktyki"

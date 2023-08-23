@@ -1,5 +1,6 @@
 ---
 title: "Pierwsze w Polsce badanie płac w komunikacji technicznej - wypełnij ankietę!"
+authors: pensjonatus
 date: "2017-03-01"
 tags:
   - "badanie-plac"

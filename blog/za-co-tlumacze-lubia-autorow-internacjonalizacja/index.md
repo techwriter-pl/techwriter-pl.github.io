@@ -1,5 +1,6 @@
 ---
 title: "Za co tłumacze lubią autorów - internacjonalizacja"
+authors: mojk
 date: "2018-07-02"
 tags:
   - "dobre-praktyki"

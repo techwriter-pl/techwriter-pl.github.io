@@ -1,5 +1,6 @@
 ---
 title: "Technical Communication Conference 2020"
+authors: agnieszka
 date: "2020-10-27"
 tags:
   - "news"

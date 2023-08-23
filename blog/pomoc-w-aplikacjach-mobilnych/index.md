@@ -1,5 +1,6 @@
 ---
 title: "Pomoc w aplikacjach mobilnych"
+authors: admin
 date: "2014-01-28"
 tags:
   - "przyklady"

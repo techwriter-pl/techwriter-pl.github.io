@@ -1,5 +1,6 @@
 ---
 title: "Szkolenie ITCQF - relacja"
+authors: mojk
 date: "2015-09-15"
 tags:
   - "news"

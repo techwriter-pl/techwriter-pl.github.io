@@ -1,5 +1,6 @@
 ---
 title: "Kilka słów o 3. edycji studiów z Komunikacji technicznej"
+authors: agnieszka
 date: "2023-06-28"
 tags:
   - "news"

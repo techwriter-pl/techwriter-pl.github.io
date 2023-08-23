@@ -1,5 +1,6 @@
 ---
 title: "Kilka pytań do - część 27"
+authors: agnieszka
 date: "2022-07-12"
 tags:
   - "warsztat"

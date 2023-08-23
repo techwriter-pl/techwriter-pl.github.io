@@ -1,5 +1,6 @@
 ---
 title: "MeetContentKRK - czerwiec 2023"
+authors: agnieszka
 date: "2023-05-24"
 tags:
   - "news"

@@ -1,5 +1,6 @@
 ---
 title: "Kilka pytań do - część 9"
+authors: agnieszka
 date: "2016-06-30"
 tags:
   - "warsztat"

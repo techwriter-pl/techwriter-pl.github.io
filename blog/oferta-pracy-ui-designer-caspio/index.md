@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: UI Designer (Caspio)"
+authors: mojk
 date: "2018-09-24"
 tags:
   - "oferty-pracy"

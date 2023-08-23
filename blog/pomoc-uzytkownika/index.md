@@ -1,5 +1,6 @@
 ---
 title: "Pomoc użytkownika"
+authors: admin
 date: "2013-10-31"
 tags:
   - "przyklady"

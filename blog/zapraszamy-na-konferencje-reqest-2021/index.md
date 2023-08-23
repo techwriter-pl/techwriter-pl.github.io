@@ -1,5 +1,6 @@
 ---
 title: "Zapraszamy na konferencję reQest 2021!"
+authors: agnieszka
 date: "2021-02-24"
 tags:
   - "news"

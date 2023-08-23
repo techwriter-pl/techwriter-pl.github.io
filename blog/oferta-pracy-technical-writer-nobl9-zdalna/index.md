@@ -1,5 +1,6 @@
 ---
 title: "OFERTA PRACY: TECHNICAL WRITER (NOBL9) – ZDALNA"
+authors: agnieszka
 date: "2023-03-03"
 tags:
   - "oferty-pracy"

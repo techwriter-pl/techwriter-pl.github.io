@@ -1,5 +1,6 @@
 ---
 title: "KONKURS – WYGRAJ WEJŚCIÓWKĘ NA SOAP! 2022"
+authors: agnieszka
 date: "2022-05-06"
 tags:
   - "news"

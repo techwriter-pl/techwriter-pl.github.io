@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical Writer (Synerise)"
+authors: admin
 date: "2018-11-13"
 tags:
   - "oferty-pracy"

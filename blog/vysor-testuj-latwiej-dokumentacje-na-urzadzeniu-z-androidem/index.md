@@ -1,5 +1,6 @@
 ---
 title: "Vysor - testuj łatwiej dokumentację na urządzeniu z Androidem"
+authors: mojk
 date: "2016-07-26"
 tags:
   - "narzedzia"

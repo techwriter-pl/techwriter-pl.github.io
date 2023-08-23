@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: dokumentalista (Comarch) - Kraków"
+authors: admin
 date: "2019-10-21"
 tags:
   - "oferty-pracy"

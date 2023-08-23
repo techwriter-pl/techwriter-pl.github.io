@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy x2: Technical Writer, Senior Technical Writer (Akamai)"
+authors: mojk
 date: "2019-03-20"
 tags:
   - "oferty-pracy"

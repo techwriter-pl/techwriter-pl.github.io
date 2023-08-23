@@ -1,5 +1,6 @@
 ---
 title: "soap! 2015 - opis wybranych prezentacji"
+authors: mojk
 date: "2015-10-20"
 tags:
   - "news"

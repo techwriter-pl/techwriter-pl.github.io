@@ -1,5 +1,6 @@
 ---
 title: "Kilka pytań do - część 12"
+authors: admin
 date: "2017-01-20"
 tags:
   - "warsztat"

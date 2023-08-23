@@ -1,5 +1,6 @@
 ---
 title: "Write the Docs Prague już wkrótce"
+authors: agnieszka
 date: "2017-08-22"
 tags:
   - "news"

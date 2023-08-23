@@ -1,5 +1,6 @@
 ---
 title: "100!"
+authors: agnieszka
 date: "2015-07-16"
 tags:
   - "news"

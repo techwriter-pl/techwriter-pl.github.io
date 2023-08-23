@@ -1,5 +1,6 @@
 ---
 title: "Dokumentacja użytkownika - przykłady dobre i złe"
+authors: admin
 date: "2014-07-18"
 tags:
   - "dobre-praktyki"

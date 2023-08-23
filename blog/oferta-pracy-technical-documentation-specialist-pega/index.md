@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical Documentation Specialist (Pega)"
+authors: mojk
 date: "2018-04-06"
 tags:
   - "oferty-pracy"

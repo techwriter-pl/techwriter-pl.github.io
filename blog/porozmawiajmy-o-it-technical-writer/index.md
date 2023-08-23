@@ -1,5 +1,6 @@
 ---
 title: "Porozmawiajmy o IT: Technical writer"
+authors: agnieszka
 date: "2021-05-13"
 tags:
   - "dobre-praktyki"

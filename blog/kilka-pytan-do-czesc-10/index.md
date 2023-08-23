@@ -1,5 +1,6 @@
 ---
 title: "Kilka pytań do - część 10"
+authors: mojk
 date: "2016-10-24"
 tags:
   - "warsztat"

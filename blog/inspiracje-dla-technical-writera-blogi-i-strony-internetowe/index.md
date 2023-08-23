@@ -1,5 +1,6 @@
 ---
 title: "INSPIRACJE DLA TECHNICAL WRITERA – blogi i strony internetowe"
+authors: agnieszka
 date: "2021-03-26"
 tags:
   - "biblioteczka-techwritera"

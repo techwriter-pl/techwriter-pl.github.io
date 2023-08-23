@@ -1,5 +1,6 @@
 ---
 title: "Kilka pytań do - część 15"
+authors: mojk
 date: "2017-11-09"
 tags:
   - "warsztat"

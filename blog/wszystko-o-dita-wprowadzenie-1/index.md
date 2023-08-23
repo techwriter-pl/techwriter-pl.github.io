@@ -1,5 +1,6 @@
 ---
 title: "Wszystko o DITA - Wprowadzenie (1)"
+authors: kulgawczuk
 date: "2019-04-01"
 tags:
   - "dobre-praktyki"

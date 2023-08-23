@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical Writer / Specjalista ds. dokumentacji IT"
+authors: admin
 date: "2015-06-18"
 tags:
   - "oferty-pracy"

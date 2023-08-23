@@ -1,5 +1,6 @@
 ---
 title: "Mydło lubi zabawę"
+authors: mojk
 date: "2014-10-07"
 tags:
   - "news"

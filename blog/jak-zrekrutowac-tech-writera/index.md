@@ -1,5 +1,6 @@
 ---
 title: "Jak zrekrutować Tech Writera?"
+authors: mojk
 date: "2014-12-16"
 tags:
   - "dobre-praktyki"

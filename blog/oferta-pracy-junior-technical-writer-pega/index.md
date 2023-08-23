@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Junior Technical Writer (Pega)"
+authors: mojk
 date: "2017-10-13"
 tags:
   - "oferty-pracy"

@@ -1,5 +1,6 @@
 ---
 title: "Halo! Czy ktoś wie jak tworzyć dokumentację maszynową?"
+authors: toporek
 date: "2020-07-08"
 tags:
   - "news"

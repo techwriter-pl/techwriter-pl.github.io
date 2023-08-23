@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: UX Writer (UXPin)"
+authors: mojk
 date: "2018-10-29"
 tags:
   - "oferty-pracy"

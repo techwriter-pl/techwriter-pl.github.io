@@ -1,5 +1,6 @@
 ---
 title: "Wyższe koszty uzyskania przychodu dla Technical Writerów?"
+authors: mojk
 date: "2015-08-04"
 tags:
   - "news"

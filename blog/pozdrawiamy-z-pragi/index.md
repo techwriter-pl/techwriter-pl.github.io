@@ -1,5 +1,6 @@
 ---
 title: "Pozdrawiamy z Pragi!"
+authors: admin
 date: "2016-09-18"
 tags:
   - "news"

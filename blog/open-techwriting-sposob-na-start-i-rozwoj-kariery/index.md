@@ -1,5 +1,6 @@
 ---
 title: "Open techwriting - sposób na start i rozwój kariery"
+authors: agnieszka
 date: "2015-06-02"
 tags:
   - "warsztat"

@@ -1,5 +1,6 @@
 ---
 title: "Komunikacja techniczna geograficznie - wersja mobilna"
+authors: mojk
 date: "2016-03-01"
 tags:
   - "news"

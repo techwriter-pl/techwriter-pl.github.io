@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical Writer (Unit4)"
+authors: mojk
 date: "2017-11-17"
 tags:
   - "oferty-pracy"

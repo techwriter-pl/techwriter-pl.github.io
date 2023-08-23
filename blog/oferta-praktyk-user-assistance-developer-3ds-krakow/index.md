@@ -1,5 +1,6 @@
 ---
 title: "Oferta praktyk: User Assistance Developer (3ds) – Kraków"
+authors: admin
 date: "2019-12-13"
 tags:
   - "oferty-pracy"

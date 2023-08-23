@@ -1,5 +1,6 @@
 ---
 title: "Dowiedz się w końcu co to znaczy"
+authors: admin
 date: "2014-03-13"
 tags:
   - "narzedzia"

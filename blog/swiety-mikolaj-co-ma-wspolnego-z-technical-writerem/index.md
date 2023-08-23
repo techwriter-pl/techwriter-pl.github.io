@@ -1,5 +1,6 @@
 ---
 title: "Święty Mikołaj - co ma wspólnego z technical writerem"
+authors: toporek
 date: "2020-12-22"
 tags:
   - "news"

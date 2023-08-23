@@ -1,5 +1,6 @@
 ---
 title: "Za co tłumacze lubią autorów - spójność"
+authors: mojk
 date: "2018-03-07"
 tags:
   - "dobre-praktyki"

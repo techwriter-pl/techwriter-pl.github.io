@@ -2,6 +2,7 @@
 title:
   "Oferta pracy: Technical Writer (Big Picture) - Warszawa (stacjonarnie) lub
   Polska (zdalnie)"
+authors: agnieszka
 date: "2022-03-10"
 tags:
   - "oferty-pracy"

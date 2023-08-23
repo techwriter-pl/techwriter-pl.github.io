@@ -1,5 +1,6 @@
 ---
 title: "UA Conference - relacja"
+authors: szablowska
 date: "2014-06-17"
 tags:
   - "news"

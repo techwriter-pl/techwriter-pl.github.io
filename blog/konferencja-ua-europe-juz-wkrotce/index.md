@@ -1,5 +1,6 @@
 ---
 title: "Konferencja UA Europe już wkrótce"
+authors: agnieszka
 date: "2017-05-16"
 tags:
   - "news"

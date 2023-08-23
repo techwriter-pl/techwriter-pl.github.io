@@ -1,5 +1,6 @@
 ---
 title: "WRITE THE DOCS PRAGUE 2022 – CZEGO SIĘ SPODZIEWAĆ"
+authors: agnieszka
 date: "2022-08-12"
 tags:
   - "news"

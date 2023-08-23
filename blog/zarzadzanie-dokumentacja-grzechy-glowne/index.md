@@ -1,5 +1,6 @@
 ---
 title: "Zarządzanie dokumentacją - grzechy główne"
+authors: agnieszka
 date: "2015-09-10"
 tags:
   - "dobre-praktyki"

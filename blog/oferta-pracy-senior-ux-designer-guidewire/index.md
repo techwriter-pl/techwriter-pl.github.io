@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Senior UX Designer (Guidewire)"
+authors: mojk
 date: "2018-02-08"
 tags:
   - "oferty-pracy"

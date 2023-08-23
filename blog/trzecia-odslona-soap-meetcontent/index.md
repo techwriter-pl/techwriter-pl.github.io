@@ -1,5 +1,6 @@
 ---
 title: "Trzecia odsłona soap! MeetContent"
+authors: pensjonatus
 date: "2017-02-15"
 tags:
   - "news"

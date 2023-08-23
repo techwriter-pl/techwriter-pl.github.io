@@ -1,5 +1,6 @@
 ---
 title: "Konferencje SOAP i Write The Docs - porównanie stylów"
+authors: niewiarowski
 date: "2022-07-29"
 tags:
   - "biblioteczka-techwritera"

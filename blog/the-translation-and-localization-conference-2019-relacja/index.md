@@ -1,5 +1,6 @@
 ---
 title: "The Translation and Localization Conference 2019 - relacja"
+authors: mojk
 date: "2019-04-24"
 tags:
   - "news"

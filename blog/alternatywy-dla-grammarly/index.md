@@ -1,5 +1,6 @@
 ---
 title: "Alternatywy dla Grammarly"
+authors: mojk
 date: "2018-01-16"
 tags:
   - "narzedzia"

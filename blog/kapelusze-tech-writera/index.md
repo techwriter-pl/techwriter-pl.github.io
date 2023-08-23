@@ -1,5 +1,6 @@
 ---
 title: "Kapelusze tech writera"
+authors: niewiarowski
 date: "2021-04-28"
 tags:
   - "warsztat"

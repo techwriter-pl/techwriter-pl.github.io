@@ -1,5 +1,6 @@
 ---
 title: "Oferta Pracy: Technical Writer for Software Documentation"
+authors: pensjonatus
 date: "2016-09-28"
 tags:
   - "oferty-pracy"

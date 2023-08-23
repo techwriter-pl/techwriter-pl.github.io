@@ -1,5 +1,6 @@
 ---
 title: "Meetcontent Wrocław - luty 2023"
+authors: agnieszka
 date: "2023-02-17"
 tags:
   - "news"

@@ -1,5 +1,6 @@
 ---
 title: "Konferencje 2014 - drugie półrocze"
+authors: admin
 date: "2014-05-06"
 tags:
   - "news"

@@ -1,5 +1,6 @@
 ---
 title: "Konferencja soap! 2018 - relacja"
+authors: mojk
 date: "2018-06-20"
 tags:
   - "news"

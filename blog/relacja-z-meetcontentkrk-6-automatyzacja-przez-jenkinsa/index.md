@@ -1,5 +1,6 @@
 ---
 title: "Relacja z MeetContentKRK #6 - Automatyzacja przez Jenkinsa"
+authors: pensjonatus
 date: "2017-11-20"
 tags:
   - "news"

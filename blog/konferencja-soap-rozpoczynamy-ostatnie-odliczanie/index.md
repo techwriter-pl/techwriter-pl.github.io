@@ -1,5 +1,6 @@
 ---
 title: "Konferencja soap! - rozpoczynamy ostatnie odliczanie"
+authors: agnieszka
 date: "2017-05-25"
 tags:
   - "news"

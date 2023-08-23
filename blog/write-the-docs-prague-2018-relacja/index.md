@@ -1,5 +1,6 @@
 ---
 title: "Write the Docs Prague 2018 - relacja"
+authors: mojk
 date: "2019-04-30"
 tags:
   - "news"

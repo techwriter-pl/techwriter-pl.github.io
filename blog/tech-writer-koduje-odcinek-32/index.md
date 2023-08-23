@@ -1,5 +1,6 @@
 ---
 title: "Tech Writer Koduje - odcinek 32"
+authors: agnieszka
 date: "2021-08-25"
 tags:
   - "dobre-praktyki"

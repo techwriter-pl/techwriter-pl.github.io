@@ -1,5 +1,6 @@
 ---
 title: "Technical Writer - człowiek renesansu"
+authors: mojk
 date: "2016-04-21"
 tags:
   - "dobre-praktyki"

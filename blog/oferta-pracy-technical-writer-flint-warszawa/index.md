@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical Writer (Flint) – Warszawa"
+authors: admin
 date: "2020-01-28"
 tags:
   - "oferty-pracy"

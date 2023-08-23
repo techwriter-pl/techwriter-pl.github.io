@@ -1,5 +1,6 @@
 ---
 title: "Kolejna odsłona soap! MeetContent"
+authors: mojk
 date: "2017-01-02"
 tags:
   - "news"

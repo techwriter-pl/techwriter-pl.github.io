@@ -1,5 +1,6 @@
 ---
 title: "Zostań mówcą - tekom Europe Roadshow 2014"
+authors: admin
 date: "2014-03-24"
 tags:
   - "news"

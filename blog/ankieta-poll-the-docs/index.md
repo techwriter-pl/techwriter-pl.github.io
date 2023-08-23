@@ -1,5 +1,6 @@
 ---
 title: "Ankieta Poll the Docs"
+authors: mojk
 date: "2016-09-26"
 tags:
   - "news"

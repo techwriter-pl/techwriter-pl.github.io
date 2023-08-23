@@ -1,5 +1,6 @@
 ---
 title: "Langłydż - part najn"
+authors: admin
 date: "2014-09-26"
 tags:
   - "warsztat"

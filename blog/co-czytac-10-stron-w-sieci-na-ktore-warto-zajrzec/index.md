@@ -1,5 +1,6 @@
 ---
 title: "Co czytać - 10 stron w sieci, na które warto zajrzeć"
+authors: agnieszka
 date: "2015-07-14"
 tags:
   - "biblioteczka-techwritera"

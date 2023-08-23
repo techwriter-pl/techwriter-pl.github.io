@@ -1,5 +1,6 @@
 ---
 title: "MeetContentKRK #6 - automatyczne publikowanie dokumentacji"
+authors: pensjonatus
 date: "2017-11-06"
 tags:
   - "news"

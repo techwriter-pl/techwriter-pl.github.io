@@ -1,5 +1,6 @@
 ---
 title: "Drugie spotkanie Poland MadCap Flare User Group - relacja"
+authors: mojk
 date: "2017-10-24"
 tags:
   - "news"

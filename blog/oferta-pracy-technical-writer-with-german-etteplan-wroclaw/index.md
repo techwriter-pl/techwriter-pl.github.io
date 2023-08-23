@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical Writer with German (Etteplan) – Wrocław/zdalnie"
+authors: admin
 date: "2021-01-25"
 tags:
   - "oferty-pracy"

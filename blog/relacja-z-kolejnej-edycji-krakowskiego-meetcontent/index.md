@@ -1,5 +1,6 @@
 ---
 title: "Relacja z kolejnej edycji krakowskiego MeetContent"
+authors: kuba
 date: "2017-03-06"
 tags:
   - "news"

@@ -1,5 +1,6 @@
 ---
 title: "Inspiracje dla technical writera - narzędzia"
+authors: agnieszka
 date: "2021-05-21"
 tags:
   - "narzedzia"

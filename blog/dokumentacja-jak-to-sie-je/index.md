@@ -1,5 +1,6 @@
 ---
 title: "Dokumentacja - jak to się je?"
+authors: agnieszka
 date: "2020-10-21"
 tags:
   - "dobre-praktyki"

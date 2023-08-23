@@ -1,5 +1,6 @@
 ---
 title: "O dokumentacji na wesoło"
+authors: mojk
 date: "2015-12-01"
 tags:
   - "warsztat"

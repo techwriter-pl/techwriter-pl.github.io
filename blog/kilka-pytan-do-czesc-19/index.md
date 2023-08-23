@@ -1,5 +1,6 @@
 ---
 title: "Kilka pytań do — część 19"
+authors: milc
 date: "2020-05-08"
 tags:
   - "warsztat"

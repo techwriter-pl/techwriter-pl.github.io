@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: Technical Writer x2"
+authors: mojk
 date: "2016-12-05"
 tags:
   - "oferty-pracy"

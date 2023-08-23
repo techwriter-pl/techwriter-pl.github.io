@@ -1,5 +1,6 @@
 ---
 title: "Oferta pracy: User Manual Author (Technical Writer)"
+authors: admin
 date: "2015-06-12"
 tags:
   - "oferty-pracy"

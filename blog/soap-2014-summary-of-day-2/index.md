@@ -1,5 +1,6 @@
 ---
 title: "soap! 2014 - summary of day 2"
+authors: mojk
 date: "2014-12-05"
 tags:
   - "news"

@@ -1,5 +1,6 @@
 ---
 title: "Google Technical Writing Courses - nauka bez wychodzenia z domu"
+authors: agnieszka
 date: "2020-03-30"
 tags:
   - "warsztat"

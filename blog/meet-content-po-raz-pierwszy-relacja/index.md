@@ -1,5 +1,6 @@
 ---
 title: "Meet Content po raz pierwszy - relacja"
+authors: mojk
 date: "2016-03-24"
 tags:
   - "news"
