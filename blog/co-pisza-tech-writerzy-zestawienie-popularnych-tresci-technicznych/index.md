@@ -116,7 +116,7 @@ graficznych przy produkcji finalnego pliku, ostatnie zmiany w projekcie -- możn
 wymieniać bez końca. I co gorsza, nie da się tutaj polegać specjalnie na
 ponownym użyciu już wcześniej wydanej treści, chyba że nie doszło do zmiany w
 wyglądzie produktu, co zdarza się nieczęsto. Autor niniejszego artykułu pracował
-kiedyś przy opracowaniu grafik do instrukcji zmywarek, więc coś tam wie. ;)
+kiedyś przy opracowaniu grafik do instrukcji zmywarek, więc coś tam wie. 😉
 
 ### Developer, Administrator, Technician Guide — dla odbiorcy wykwalifikowanego
 
@@ -243,4 +243,4 @@ kategorii produktowej bliskiej własnym doświadczeniom, wiedzy czy
 zainteresowaniom. Jeśli ktoś ma zapędy do tworzenia nie tylko treści pisanych,
 lecz także materiałów wideo czy prezentacji na potrzeby szkolenia -- takiego
 wyzwania w tej branży także można się doszukać i podjąć. Niezależnie od
-preferencji, liczymy na to, że pomogliśmy i że się Wam ten artykuł przyda. ;)
+preferencji, liczymy na to, że pomogliśmy i że się Wam ten artykuł przyda. 😉

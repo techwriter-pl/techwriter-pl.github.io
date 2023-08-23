@@ -10,7 +10,7 @@ coverImage: "MeetupABB-e1571237713389.jpg"
 Jeżeli nie byliście na
 [zapowiadanym przez nas spotkaniu](http://techwriter.pl/spotkanie-technical-writerow-w-krakowie/)
 to... Wasza strata. Na pociechę nasz wysłannik krótko podsumowuje to wydarzenie
-:)
+😊
 
 Meetupy już mocno wpisały się w krakowski rynek IT i oferują szeroki wybór
 tematów. W ten trend wpisują się również spotkania dla specjalistów od szeroko
@@ -36,7 +36,7 @@ Pieczyrak, Marcin Wilk, Piotr Sroka.
 
 ![](images/MeetingABBDevops.jpg)
 
-Naszym skromnym zdaniem wyszło im to nie najgorzej :)
+Naszym skromnym zdaniem wyszło im to nie najgorzej 😊
 
 ## Jak przypadkiem wprowadziliśmy standard i czego nas to nauczyło
 

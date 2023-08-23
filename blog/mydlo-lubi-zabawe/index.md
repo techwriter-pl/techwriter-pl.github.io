@@ -29,7 +29,7 @@ ciekawostki nie zakłócały przebiegu konferencji.
 
 W tym roku mieliśmy zaszczyt być oficjalnym patronem medialnym soap!, dlatego
 nie próbowaliśmy się spóźnić tak jak w zeszłym roku (dla tych, którzy nie
-pamiętają, przypominamy, że się nie udało :)) Wdrapaliśmy się schodami na
+pamiętają, przypominamy, że się nie udało 😊) Wdrapaliśmy się schodami na
 ostatnie piętro. Przy recepcji przywitały nas uśmiechnięte panie, które wydawały
 pakiety dla uczestników. Były kartki do notowania, naklejki, identyfikator,
 czyli to co trzeba. Połączenie identyfikatora z programem konferencji to strzał
@@ -78,7 +78,7 @@ myśli zachwycania się elementami armatury. Organizatorzy prawdopodobnie wyszli
 założenia, że każda część przestrzeni musi zostać wykorzystana do maksimum i
 dlatego przeznaczyli toaletę na produkcję selfie (podejrzewamy, że
 [groufie](http://www.dailytech.com/Huawei+Trademarks+Groufie+a+Panoramic+Selfie/article34889.htm)
-też było dozwolone ;)). Na lustrze w toalecie znajdowała się karteczka
+też było dozwolone 😉). Na lustrze w toalecie znajdowała się karteczka
 zachęcająca do przełamania nieśmiałości i trzasnięcia sobie foci. Dla amatorów
 mocniejszych wrażeń przygotowane były akcesoria, takie jak okulary do pływania
 czy kask rowerowy. Okazało się, że wiele osób podjęło wyzwanie. Efektów możecie
@@ -96,7 +96,7 @@ trakcie imprezy. Wszyscy wiemy, że nic tak nie łączy jak wspólne toasty za d
 ## Garść faktów
 
 A teraz czas na trochę twardych faktów. Dane otrzymaliśmy od organizatorów, więc
-nie jest to nasza wesoła twórczość tak jak to co napisaliśmy powyżej ;) Pierwszy
+nie jest to nasza wesoła twórczość tak jak to co napisaliśmy powyżej 😉 Pierwszy
 (darmowy) dzień konferencji przyciągnął 142 uczestników, drugi (płatny)
 dzień 98. Ogółem spożyto około 400 kubków kawy i herbaty oraz około 700 szklanek
 wody i soku. Dwa dni konferencji dostarczyły nam 18 prezentacji i 3 warsztaty,

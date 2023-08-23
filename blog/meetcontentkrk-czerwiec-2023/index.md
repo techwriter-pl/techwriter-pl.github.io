@@ -34,7 +34,7 @@ communication and not drown_. Prezentacja przyniosła nam dużą dawkę nowych
 informacji i odpowiedzi na kilka ciekawych pytań:
 
 - Najważniejsze pytanie: Czy AI zabierze nam pracę? Zapytaliśmy o to Bing Chata
-  i (ponoć szczerze) odpowiedział, że absolutnie nie ;) Tak naprawdę AI ma nam
+  i (ponoć szczerze) odpowiedział, że absolutnie nie 😉 Tak naprawdę AI ma nam
   tylko pomóc w naszych codziennych zadaniach, a nie przejmować nasze obowiązki.
 - Co to jest AI i co oznaczają pojęcia takie jak Generative Adversarial Networks
   i Large Language Models.
@@ -84,7 +84,7 @@ Czym zajmuje się DevRel, komu jest to potrzebne oraz jak Developer Relations
 może współpracować z twórcami treści - to podstawowe pytania, na które postarają
 się odpowiedzieć Olga Stefaniuk oraz Barbara Czyż. Dziewczyny podadzą także
 kilka przypadków użycia DevRel z własnej, codziennej codziennej pracy, a także
-odpowiedzą na wszystkie pytania :).
+odpowiedzą na wszystkie pytania 😊.
 
 Olga Stefaniuk - Olga obecnie cieszy się pracą jako Developer Advocate w Box.
 Swoje doświadczenie zdobywała pracując jako Front-end Developer z naciskiem na

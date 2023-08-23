@@ -50,7 +50,7 @@ techwriter.pl. :-)
 ### W jaki sposób zdobywasz informacje potrzebne do tworzenia dokumentacji?
 
 W dużej mierze bezpośrednio z Jiry, ale nie ma to jak uszczknąć trochę wiedzy od
-żywych ludzi. :) Testerzy są świetnym źródłem _hands-on experience_, choć czasem
+żywych ludzi. 😊 Testerzy są świetnym źródłem _hands-on experience_, choć czasem
 sama bawię się aplikacjami. Uczestniczę też w spotkaniach projektowych, więc na
 bieżąco wiem, co w devie się dzieje. No i zawsze pozostaje wyciąganie _bits and
 pieces_ bezpośrednio od deweloperów.
@@ -84,7 +84,7 @@ Lubię to, że dużo się dzieje, że poznaję nowe rzeczy i że widzę progres.
 jest to, że czuję się przydatna (cóż za utylitaryzm!), a raczej czuję, że moja
 praca jest przydatna. Odczuwam dużo mniejszą presję czasu w porównaniu do pracy
 tłumacza. Praca z fajnym, młodym zespołem to też zdecydowanie plus. No i kasa
-jest przyzwoita. ;-)
+jest przyzwoita. 😉
 
 ### Co byś radziła osobom, które chciałyby zacząć swoją przygodę z pisaniem dokumentacji?
 

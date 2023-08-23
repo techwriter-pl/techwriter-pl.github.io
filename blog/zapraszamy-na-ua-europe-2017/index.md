@@ -98,7 +98,7 @@ wystąpień. Pełną listę prelegentów oraz tytuły ich prezentacji znajdzieci
 imprezy jest udział jednego z członków załogi techwriter.pl jako prelegenta.
 
 Paweł Kowaluk pokaże Wam co zrobić by klient szukał informacji równie chętnie w
-Online Help jak w feedzie Facebooka. Pawle, trzymamy kciuki ;-). Dodatkowo
+Online Help jak w feedzie Facebooka. Pawle, trzymamy kciuki 😉. Dodatkowo
 zwracamy Waszą uwagę na kilka wykładów związanych z tematyką Technical Writingu.
 Beth Aitman opowie o doświadczeniach jedynego Tech Writera w dynamicznie
 rozwijającym się startupie pokazując jednocześnie jak nie zwariować w natłoku
@@ -109,7 +109,7 @@ pisanym.
 
 Oczywiście to tylko wybrane przykłady spośród wielu prezentacji, które nas
 zaciekawiły. Jeśli i w Was wzbudziły zainteresowanie to zerknijcie na agendę, a
-potem zarezerwujcie miejsce wśród słuchaczy ;-).
+potem zarezerwujcie miejsce wśród słuchaczy 😉.
 
 ## Więcej informacji
 

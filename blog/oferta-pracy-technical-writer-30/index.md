@@ -10,7 +10,7 @@ coverImage: "2linesfusionlogo.png"
 ---
 
 Dziś oferta z Trójmiasta, a dokładniej z Gdyni, szukają Technical Writera z
-zapałem :)
+zapałem 😊
 
 Kontakt znajdziecie na końcu oferty:
 
@@ -36,7 +36,7 @@ programistów, dokumenty referencyjne API)
 
 **Rozliczenie:** FV lub UoP **Wynagrodzenie:** do uzgodnienia w zależności od
 doświadczenia - podaj nam swoje oczekiwania, a my chętnie się do nich odniesiemy
-:) **Benefity:** prywatna opieka zdrowotna, praca w biurze w Redłowie lub
+😊 **Benefity:** prywatna opieka zdrowotna, praca w biurze w Redłowie lub
 zdalnie w przypadku osób z dużym doświadczeniem, świetna atmosfera, własny
 produkt, mega doświadczony zespół, klienci z całego świata, kawa, napoje i
 słodycze, obiady w czwartki, wewnętrzne hackathony. W budynku jest prysznic,

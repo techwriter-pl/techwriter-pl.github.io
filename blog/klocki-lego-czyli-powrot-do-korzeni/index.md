@@ -50,7 +50,7 @@ przełożyć na wszystko czym się zajmujemy, interesujące jednak jest to jak z
 działające instrukcjami obsługi mogą zostać odzwierciedlone w czymś takim jak
 pudełko klocków Lego.
 
-Zdecydowanie jest to coś, nad czym można się czasem zastanowić :)
+Zdecydowanie jest to coś, nad czym można się czasem zastanowić 😊
 
 [![lego2](images/lego2-1024x768.jpg)](http://techwriter.pl/wp-content/uploads/2014/02/lego2.jpg)
 

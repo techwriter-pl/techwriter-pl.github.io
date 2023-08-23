@@ -78,4 +78,4 @@ wygodniej jest operować pojedynczymi pojęciami niż całymi akapitami, łatwie
 zauważyć, gdy pewnych informacji brakuje lub są zdublowane. Gdy taka mapa już
 powstanie i postanowimy użyć jej jako bazy przy pisaniu samego tekstu, Scrivener
 ułatwi nam to pozwalając po prostu ją zaimportować. A potem zostaje nam już
-pisanie reszty ;-).
+pisanie reszty 😉.

@@ -110,4 +110,4 @@ warto rozważyć udział w więcej niż jednym z nich.
 
 Na koniec mała zachęta. Oprócz możliwości zdobycia cennej wiedzy i nawiązania
 nowych znajomości, kolejnym powodem, dla którego warto się wybrać jest to, że
-możecie tam spotkać nas. A takie doświadczenie jest doprawdy bezcenne ;)
+możecie tam spotkać nas. A takie doświadczenie jest doprawdy bezcenne 😉

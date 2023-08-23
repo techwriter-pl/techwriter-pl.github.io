@@ -23,4 +23,4 @@ zostanie opublikowany na łamach techwriter.pl. Jak widać jest o co walczyć.
 
 Na Wasze artykuły czekamy do **4 kwietnia**.
 
-Niech wena będzie z Wami! :)
+Niech wena będzie z Wami! 😊

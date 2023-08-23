@@ -16,10 +16,10 @@ są?
 
 Procedury nie opisują produktu czy projektu, tylko proces, np. proces
 wykonywania pewnej czynności w naszej firmie.  Szablony (ang. _templates_), np.
-szablon procedury :), służą ujednoliceniu wyglądu dokumentów danego typu. Innymi
+szablon procedury 😊, służą ujednoliceniu wyglądu dokumentów danego typu. Innymi
 słowy, jeżeli chcecie by każdy projekt w którym bierzecie udział wymagał
 zaplanowania Waszej pracy, przeglądu tworzonej dokumentacji, a na końcu
-gratulacji dla techwritera ;) i formalnego raportu z końcowego, to opiszcie to w
+gratulacji dla techwritera 😉 i formalnego raportu z końcowego, to opiszcie to w
 **procedurze**.  Jeżeli dodatkowo pragniecie by raporty z projektów wyglądały
 podobnie i zawsze zawierały  istotne dla Was informacje - stwórzcie **szablon**
 raportu końcowego z projektu. Zrozumiałe?
@@ -47,7 +47,7 @@ narzędzi. Procedura może mieć formę pliku Word, PDF, diagramu w Visio, stron
 Wiki, HTML, itp., itd. Szablon - w zależności od zastosowania - Word, PDF,
 Excel, itd.
 
-Procedur z zasady nikt nie czyta ;). Chyba, że są wydrukowane i dostaje je w
+Procedur z zasady nikt nie czyta 😉. Chyba, że są wydrukowane i dostaje je w
 formie papierowej nowy pracownik, dla którego dział IT nie zdążył jeszcze
 przygotować komputera.  Dlaczego tak jest? Dobrze napisana procedura nie usypia,
 jest zwięzła i konkretna i przede wszystkim można się z niej czegoś nauczyć. Aby

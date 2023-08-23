@@ -21,7 +21,7 @@ Wszystko zaczęło się dokładnie rok temu
 [błyskotliwym wpisem otwierającym](http://techwriter.pl/witaj-swiecie/). Przez
 rok na naszych łamach pojawiło się **ponad 100 artykułów**, lepszych i gorszych,
 mądrzejszych i głupszych, humorystycznych i poważnych. Liczba osób które mają
-swój udział w techwriter.pl przekroczyła już na pewno 10 i nieustannie rośnie:).
+swój udział w techwriter.pl przekroczyła już na pewno 10 i nieustannie rośnie😊.
 Początki, jak łatwo się domyślić, były trudne, naznaczone błędami wieku
 niemowlęcego i główną wątpliwością - czy to ma w ogóle sens? Czy ktoś to
 przeczyta? Ale szybko pojawiły się pierwsze odpowiedzi na te pytania -
@@ -33,7 +33,7 @@ komentarze:
 
 ... maile:
 
-> znalazłem parę błędów na Waszej stronie. Poprawcie bo brzydko wygląda :)
+> znalazłem parę błędów na Waszej stronie. Poprawcie bo brzydko wygląda 😊
 
 ... więcej maili, które sprawiły, że poczuliśmy się potrzebni:
 
@@ -80,7 +80,7 @@ Miejsce 2:
 Miejsce 1:
 [Ile zarabia techwriter?](http://techwriter.pl/ile-zarabia-technical-writer/)
 
-Serdecznie dziękujemy Wam za to że jesteście z nami, Drodzy Materialiści! ;)
+Serdecznie dziękujemy Wam za to że jesteście z nami, Drodzy Materialiści! 😉
 
 Tworząc techwriter.pl, marzyliśmy o stworzeniu czegoś, co "bawiąc - uczy,
 ucząc - bawi”. Teraz nazywa się to chyba

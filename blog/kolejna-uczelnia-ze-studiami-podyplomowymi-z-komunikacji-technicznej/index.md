@@ -16,7 +16,7 @@ studia podyplomowe o kierunku
 [Komunikacja techniczna](http://www.vistula.edu.pl/pol/page/komunikacja-techniczna).
 
 Pojawiły się wtedy głosy, że takie studia powinny zostać utworzone również w
-innych miastach. Niektóre Wasze prośby zostały wysłuchane ;)
+innych miastach. Niektóre Wasze prośby zostały wysłuchane 😉
 [Wyższa Szkoła Handlowa we Wrocławiu](http://www.handlowa.eu/) właśnie
 poszerzyła swoją ofertę studiów podyplomowych o kierunek
 [Technical Writer - Zarządzanie Dokumentacją Techniczną](http://www.handlowa.eu/1133,technical-writer-opis.html).

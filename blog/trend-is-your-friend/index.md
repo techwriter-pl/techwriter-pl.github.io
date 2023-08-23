@@ -26,14 +26,14 @@ kilka ciekawych miejsc z których można zaczerpnąć pełnymi garściami:
 
 Zdajemy sobie sprawę, że większość z Was nie użyje nawet promila zawartości tych
 stron, ale jeśli przynajmniej jedną osobę zainspirujemy do wypróbowania i
-nauczenia się czegoś nowego - to już było warto :).
+nauczenia się czegoś nowego - to już było warto 😊.
 
 Na wielu z tych stron można sprawdzić, które kroje pisma są najbardziej
 popularne, najczęściej oglądane lub kupowane - i na tej podstawie spróbować
 odpowiedzieć, które fonty są aktualnie najmodniejsze. Tak jak zrobiono to
 [na tej stronie](http://alistapart.com/blog/post/web-font-trends), która zresztą
 zainspirowała nas do napisania tego artykułu. Od razu Was uprzedzimy, że nie
-udało się znaleźć odpowiedzi:) Przynajmniej tam. Inni są bardziej konkretni.
+udało się znaleźć odpowiedzi😊 Przynajmniej tam. Inni są bardziej konkretni.
 
 Wyszperaliśmy np. artykuł
 "[The most popular fonts used by designers](http://www.webdesignerdepot.com/2011/08/the-most-popular-fonts-used-by-designers/)"

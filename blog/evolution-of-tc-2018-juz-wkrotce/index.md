@@ -106,7 +106,11 @@ jeszcze w pełni zamknięty.
 
 Poniżej przedstawiamy ceny wejściówek na konferencję:
 
-<table style="width: 620px; height: 240px;"><tbody><tr><td style="width: 78.96px;"></td><td style="width: 97.52px; text-align: center;">Przedsprzedaż <strong>dla członków tekom Europe</strong> (do 26 kwietnia)</td><td style="width: 66.8px; text-align: center;">Cena po 26 kwietnia <strong>dla członków tekom Europe</strong></td><td style="width: 98.16px; text-align: center;">Przedsprzedaż (do 26 kwietnia)</td><td style="width: 55.28px; text-align: center;">Cena po 26 kwietnia</td></tr><tr><td style="width: 78.96px; text-align: center;"><strong>2 dni</strong></td><td style="width: 97.52px; text-align: center;">75 €</td><td style="width: 66.8px; text-align: center;">85 €</td><td style="width: 98.16px; text-align: center;">100 €</td><td style="width: 55.28px; text-align: center;">115 €</td></tr><tr><td style="width: 78.96px; text-align: center;"><strong>1 dzień&nbsp;</strong></td><td style="width: 97.52px; text-align: center;">55 €</td><td style="width: 66.8px; text-align: center;">65 €</td><td style="width: 98.16px; text-align: center;">80 €</td><td style="width: 55.28px; text-align: center;">90 €</td></tr><tr><td style="width: 78.96px; text-align: center;"><strong>Networking</strong></td><td style="width: 97.52px;"></td><td style="width: 66.8px;"></td><td style="width: 98.16px;"></td><td style="width: 55.28px; text-align: center;">&nbsp;35 €</td></tr></tbody></table>
+| Przedsprzedaż dla członków tekom Europe (do 26 kwietnia) | Cena po 26 kwietnia dla członków tekom Europe | Przedsprzedaż (do 26 kwietnia) | Cena po 26 kwietnia |
+| -------------------------------------------------------- | --------------------------------------------- | ------------------------------ | ------------------- | ----- |
+| 2 dni                                                    | 75 €                                          | 85 €                           | 100 €               | 115 € |
+| 1 dzień                                                  | 55 €                                          | 65 €                           | 80 €                | 90 €  |
+| Networking                                               | 35 €                                          |
 
 Z danych przedstawionych przez organizatorów wynika, że poza programem głównym
 jest przewidziany także wieczór z networkingiem, na który będzie obowiązywała
@@ -130,7 +134,7 @@ tego, co już wiemy, mamy szansę na poznanie wielu osób, które na co dzień
 spotykają się z podobnymi problemami w pracy, a dzięki wzajemnemu doświadczeniu
 można poznać nowe strategie ich rozwiązywania. A poza samą konferencją mamy
 możliwość zwiedzenia ciekawych miejsc i spróbowania smacznych trunków, z których
-słynie Sofia ;-).
+słynie Sofia 😉.
 
 Jeśli nadal nie możecie zdecydować, zapraszamy do zapoznania się z
 [podsumowaniiem zeszłorocznej edycji](https://evolution-of-tc.com/the-event/event-report/)

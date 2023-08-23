@@ -79,6 +79,6 @@ Nie bać się, wystarczy odpowiednie podejście, determinacja i nieco siły
 przebicia, żeby wytłumaczyć niektórym, że dokumentacja to nie pieprz do g.., a
 wizytówka firmy i coś absolutnie niezbędnego.
 
-Mocne zakończenie ;) Jeśli chcecie skontakować się z Piotrkiem albo sami macie
+Mocne zakończenie 😉 Jeśli chcecie skontakować się z Piotrkiem albo sami macie
 ochotę podzielić się swoimi doświadczeniami, nie zwlekajcie dłużej tylko piszcie
 na adres [kontakt@techwriter.pl](mailto:kontakt@techwriter.pl).

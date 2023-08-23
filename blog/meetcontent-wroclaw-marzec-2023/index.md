@@ -11,7 +11,7 @@ coverImage: "meecontent_marzec_2023-1.png"
 ---
 
 Spieszymy donieść, że ekipa MeetContentWRO i wrocławscy contentowcy mają za sobą
-kolejny udany meetup! ;)  Ale zanim opowiemy o lutowym wydarzeniu, kilka słów na
+kolejny udany meetup! 😉  Ale zanim opowiemy o lutowym wydarzeniu, kilka słów na
 temat tego co przed nami!
 
 ## **Marzec 2023 - Etteplan**
@@ -54,7 +54,7 @@ the beast?_**
 Biuro Etteplan ul. Legnicka 48G
 
 [Formularz zgłoszeniowy](https://forms.gle/BJzFUBxS3Wn56XcU6) - nie zapominijcie
-o jego wypełnieniu, jeśli macie zamiar się stawić ;).
+o jego wypełnieniu, jeśli macie zamiar się stawić 😉.
 
 ## **Luty 2023 - DeLaval**
 
@@ -97,7 +97,7 @@ plikach .md oraz kompatybilności Markdowna z MadCap Flare i DITA.
 
 ![](images/17.2.jpg)
 
-Zwyczajowo, sesja Q&A przeszła w dalsze rozmowy przy pizzy :)
+Zwyczajowo, sesja Q&A przeszła w dalsze rozmowy przy pizzy 😊
 
 Jeśli zainteresował Was temat Markdowna, poniżej znajdziecie przydatne linki:
 

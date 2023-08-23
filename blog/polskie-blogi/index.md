@@ -15,7 +15,7 @@ dziękujemy), postanowiliśmy sprawdzić co ciekawego może znaleźć techwrite
 polskiej blogosferze. Niestety niewiele, a szkoda. Nic nie mobilizuje tak
 skutecznie jak konkurencja...
 
-... no może poza grupą 13-tu wiernych fanów ;)
+... no może poza grupą 13-tu wiernych fanów 😉
 
 Sprawdziliśmy co człowiek "z branży" może sobie przeczytać do porannej kawki -
 oczywiście bez obawy o to, że zostanie oskarżony o marnowanie czasu.
@@ -25,7 +25,7 @@ NIE ZNALEŹLIŚMY ANI JEDNEGO BLOGA O TECHWRITINGU :(
 NIE ZNALEŹLIŚMY ANI JEDNEGO BLOGA PROWADZONEGO PRZEZ TECHNICAL WRITERA,
 DOKUMENTALISTĘ, SPECJALISTĘ DS. DOKUMENTACJI TECHNICZNEJ, ITP. :(
 
-To tylko potwierdza nasze podejrzenia, że coś jest z nami nie tak... ;)
+To tylko potwierdza nasze podejrzenia, że coś jest z nami nie tak... 😉
 
 Nie oznacza jednak, że nie znaleźliśmy niczego ciekawego do przeczytania. W
 branży, nazwijmy ją, językowo-tłumaczeniowej, nie jest tak źle. Są ludzie którym

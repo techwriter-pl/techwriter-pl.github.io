@@ -75,4 +75,4 @@ treści... i wszystkim innym.
 Pawle gratulujemy! O szczegółach wygranej poinformujemy Cię mailowo.
 
 Bardzo dziękujemy wszystkim uczestnikom konkursu. Kolejna okazja być może już za
-rok ;).
+rok 😉.

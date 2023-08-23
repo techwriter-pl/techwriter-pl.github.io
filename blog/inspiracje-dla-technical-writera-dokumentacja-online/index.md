@@ -11,7 +11,7 @@ coverImage: "inspiracje_doc_online.png"
 ---
 
 Dziś mamy dla Was kilka konkretnych przykładów dokumentacji online, w ramach
-poszerzania horyzontów :)
+poszerzania horyzontów 😊
 
 Globalizacja, rozwój technologiczny, a ostatnio pandemia sprawiły, że ludzka
 aktywność przeniosła się w dużej mierze do Internetu. To tu pracujemy, szukamy
@@ -62,4 +62,4 @@ trendy w tworzeniu dokumentacji dostępnej online, co dodatkowo może pomóc
 technical writerom w pracy.
 
 A Wy gdzie szukacie inspiracji i nowinek ze świata dokumentacji. Czy takie
-przykłady jak powyżej są dla Was pomocne? Jak zawsze, zachęcamy do dyskusji ;-)
+przykłady jak powyżej są dla Was pomocne? Jak zawsze, zachęcamy do dyskusji 😉

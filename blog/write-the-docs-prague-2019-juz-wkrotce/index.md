@@ -18,7 +18,7 @@ zeszłorocznej edycji Write the Docs w Pradze. Relację z niej znajdziecie
 [tutaj](http://techwriter.pl/write-the-docs-prague-2018-relacja/). Tych z Was,
 którzy jeszcze nie znają historii wydarzenia odsyłamy do
 [tekstu wprowadzającego](http://techwriter.pl/poznajcie-write-the-docs-europe/)
-;-). Od siebie możemy dodać, że udział we Write the Docs jest wart uwagi gdyż
+😉. Od siebie możemy dodać, że udział we Write the Docs jest wart uwagi gdyż
 poza solidną porcją wiedzy, w pakiecie otrzymujecie wizytę w pięknej Pradze,
 świetną atmosferę oraz spotkanie z rewelacyjnymi ludźmi z branży.
 

@@ -46,4 +46,4 @@ sugestie, które powinny zostać uwzględnione w kolejnej wersji, podzielcie si�
 nimi w komentarzach do jej
 [wpisu](http://ffeathers.wordpress.com/2014/05/07/introducing-tech-comm-on-a-map).
 Patrząc na statystyki i liczbę osób śledzących blog, może to być świetny sposób
-na pokazanie, że _Polacy nie gęsi, swoją komunikację techniczną mają_ :)
+na pokazanie, że _Polacy nie gęsi, swoją komunikację techniczną mają_ 😊

@@ -112,7 +112,7 @@ pisaniem. Na stronie
 [https://www.pisaniebezwzrokowe.pl/](https://www.pisaniebezwzrokowe.pl/)
 znajdziecie lekcje do nauki szybkiego pisania bez patrzenia na klawiaturę. Na
 [http://piskle.pl/](http://piskle.pl/) jest test, kurs, a także gry, dzięki
-którym możecie ćwiczyć, jednocześnie się bawiąc ;). Podobne rzeczy znajdziecie
+którym możecie ćwiczyć, jednocześnie się bawiąc 😉. Podobne rzeczy znajdziecie
 na [https://agilefingers.com/pl](https://agilefingers.com/pl). Jeśli chodzi o
 Youtube to wystarczy, że w wyszukiwarkę internetową wpiszecie “szybkie pisanie
 youtube”, a otrzymacie listę wielu ciekawych i pouczających filmików oraz
@@ -211,7 +211,7 @@ jesteś częścią zespołu, to pewne jest, że osoby, z którymi pracujesz, bę
 przychodziły do ciebie z różnymi problemami. Takich nieoczekiwanych przerw może
 być sporo, co w dłuższym okresie czasu, zaczyna negatywnie wpływać na twój
 proces twórczy. Jeśli znacie Chyłkę z książek Remigiusza Mroza to już wiecie o
-co chodzi ;)
+co chodzi 😉
 
 Wyznacz sobie i współpracownikom określony czas, w którym zajmujesz się tylko
 pisaniem, a oni nie przychodzą z pytaniami, nie piszą wiadomości na

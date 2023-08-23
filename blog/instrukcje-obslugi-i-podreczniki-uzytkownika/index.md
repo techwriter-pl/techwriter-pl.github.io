@@ -20,7 +20,7 @@ na celu ułatwić ludziom używanie różnego rodzaju produktów lub rozwiązań
 (systemów). Można je spotkać w różnych dziedzinach życia i przemysłu -
 instrukcje obsługi samochodu, pralki, komputera, oprogramowania, zabawek... Tak,
 tak, to są właśnie te wszystkie dokumenty których prawdziwy fachowiec nigdy nie
-czyta ;).
+czyta 😉.
 
 Tego typu dokumentacja może mieć różnych adresatów - administratorów systemu,
 wdrożeniowców, użytkowników końcowych... Powoduje to, że tworzymy dla nich różne
@@ -49,4 +49,4 @@ co powinno się znaleźć w instrukcji użytkownika znajdziecie między innymi
 [tutaj](http://www.prismnet.com/~hcexres/textbook/user_guides.html).
 
 A w [tym miejscu](http://imgrin.pl/meme/4492#.UmTww6BM_1w.link) świetny przykład
-jak nie robić instrukcji obsługi :).
+jak nie robić instrukcji obsługi 😊.

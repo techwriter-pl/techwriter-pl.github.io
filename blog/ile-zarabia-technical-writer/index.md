@@ -37,7 +37,7 @@ Ciekawe i dokładne opracowanie udało nam się znaleźć
 PDF-a podlinkowanego na końcu tej strony...
 
 Zanim płynnie przejdziecie na portale o życiu Polaków na emigracji (efektowne i
-aktualne CV każdy szanujący się techwriter ma na pewno zawsze w gotowości ;) ),
+aktualne CV każdy szanujący się techwriter ma na pewno zawsze w gotowości 😉 ),
 pozwólcie że podzielimy się z Wami naszym bogatym doświadczeniem w zaciskaniu
 pasa:
 
@@ -49,5 +49,5 @@ pasa:
 
 Oczywiście w różnych firmach może to różnie wyglądać, ale zdziwilibyśmy się,
 gdyby Wasze płace diametralnie  różniły się od tych podanych powyżej. Jeżeli tak
-jest, to przede wszystkim mamy nadzieję, że jest to różnica na korzyść :).  A po
+jest, to przede wszystkim mamy nadzieję, że jest to różnica na korzyść 😊.  A po
 drugie – dajcie nam znać.

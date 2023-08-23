@@ -56,18 +56,17 @@ minęło wiele czasu, a dostaliśmy taki list:
 > ## Serdecznie zapraszamy do wzięcia udziału w naszej konferencji.
 >
 > Dear Sir or Madam, We are pleased to provide you with the information on the
-> tekom Europe
-> Roadshow<[http://conferences.tekom.de/tekom-europe-roadshow/home/tekom-europe-roadshow-2014/](http://conferences.tekom.de/tekom-europe-roadshow/home/tekom-europe-roadshow-2014/)\>.
+> [tekom Europe Roadshow](http://conferences.tekom.de/tekom-europe-roadshow/home/tekom-europe-roadshow-2014/).
 >
-> The roadshow is a moving one-day conference hosted by the tekom
-> Europe<[http://www.technical-communication.org/](http://www.technical-communication.org/)\>
+> The roadshow is a moving to a
+> [one-day conference hosted by the tekom Europe](http://www.technical-communication.org/)
 > country organizations in September 2014 and presenting the newest trends in
 > technical communication.
 >
 > The focus at our conference in Warsaw on September 18, 2014 is on Automobile
 > Engineering (powered vehicles, commercial vehicles, construction vehicles,
 > farming and special vehicles, equipment). Most
-> presentations<[http://conferences.tekom.de/tekom-europe-roadshow/poland/program/presentations/](http://conferences.tekom.de/tekom-europe-roadshow/poland/program/presentations/)\>
+> [presentations](http://conferences.tekom.de/tekom-europe-roadshow/poland/program/presentations/)
 > will be held in Polish language with exception of our international speakers
 > (English).
 >
@@ -79,8 +78,8 @@ minęło wiele czasu, a dostaliśmy taki list:
 >
 > As a speaker/panelist you will receive a complimentary entrance ticket to the
 > roadshow with access to all program points. Furthermore, you will be featured
-> on the conference website 
-> <[http://conferences.tekom.de/tekom-europe-roadshow/poland/at-a-glance/](http://conferences.tekom.de/tekom-europe-roadshow/poland/at-a-glance/)\>
+> on the conference
+> [website](http://conferences.tekom.de/tekom-europe-roadshow/poland/at-a-glance/)
 > and in the conference program.
 >
 > Are you interested in participating as a speaker/panelist at our tekom Europe

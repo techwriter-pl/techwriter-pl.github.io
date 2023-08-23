@@ -17,7 +17,7 @@ Poniżej wyczerpujący materiał Andrzeja, naszego nowego kolegi redakcyjnego. T
 się nazywa debiut! Andrzej pobił rekord długości artykułu już w pierwszym
 podejściu, dzięki temu powstał prawdziwy poradnik dla początkujących i
 doświadczonych techwriterów. Dowiecie się z niego wszystkiego, a może jeszcze
-więcej ;-) na temat wielofunkcyjnego narzędzia, jakim jest
+więcej 😉 na temat wielofunkcyjnego narzędzia, jakim jest
 [Snagit](https://www.techsmith.com/screen-capture.html?utm_source=influencer&utm_medium=partner&utm_campaign=brandexp&utm_content=techwriterpl).
 Pierwsza część artykułu jest ogólna, a potem znajdziecie
 [szczegółowe porady](#Snagit2020-max), a w bonusie kilka wartościowych linków od
@@ -428,7 +428,7 @@ Snagitem i poszukują pomysłów na wykorzystanie jego pełni możliwości.
 
 ![](images/dragons.png)
 
-Ostrzegam, że będzie dość szczegółowo. I możesz nie obyć się bez kawy ;-). Z
+Ostrzegam, że będzie dość szczegółowo. I możesz nie obyć się bez kawy 😉. Z
 aplikacji korzystałem pod Windows 10. Postaram się nakreślić najbardziej
 przydatne funkcje i kilka nieoczywistych detali z nimi związanych. Będzie też
 trochę kwestii podstawowych. Z pewnością nie wyczerpię tematu, szczególnie, że
@@ -1298,7 +1298,7 @@ Opcje backupu całej biblioteki znajdziesz w menu **Edit** => **Preferences**,
 ## To już jest koniec
 
 Gratuluję doczytania do końca. Mam nadzieję, że moje rady przydadzą Ci się w
-praktyce. Pozdrawiam i życzę samych perfekcyjnych screenów! ;-)
+praktyce. Pozdrawiam i życzę samych perfekcyjnych screenów! 😉
 
 ## Bonus
 
@@ -1313,7 +1313,7 @@ wykorzystać pracując z narzędziemy. Są to szablony, obrazki, zdjęcia i moty
 warto wiedzieć, że taka opcja istnieje:
 [TechSmith Assets for Snagit](https://library.techsmith.com/snagit?utm_source=influencer&utm_medium=partner&utm_campaign=brandexp&utm_content=techwriterpl).
 
-I już naprawdę na koniec, dla czujących niedosyt (trudno w to uwierzyć :)) -
+I już naprawdę na koniec, dla czujących niedosyt (trudno w to uwierzyć 😊) -
 jeszcze więcej porad dotyczących korzystania ze Snagita, od podstaw do bardziej
 zaawansowanych zastosowań, w formie video:
 [Snagit tutorials](https://www.techsmith.com/tutorial-snagit.html?utm_source=influencer&utm_medium=partner&utm_campaign=brandexp&utm_content=techwriterpl).

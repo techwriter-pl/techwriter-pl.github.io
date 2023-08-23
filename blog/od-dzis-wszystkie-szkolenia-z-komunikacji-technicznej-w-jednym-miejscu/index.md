@@ -11,7 +11,7 @@ coverImage: "SZKOLENIA.jpg"
 ---
 
 Witajcie, już za tydzień czwarte urodziny naszego portalu, z tej okazji mamy dla
-Was mały prezent. Spotrzegawczy być może już go zauważyli :)
+Was mały prezent. Spotrzegawczy być może już go zauważyli 😊
 
 Często pytacie nas o szkolenia z różnych obszarów komunikacji technicznej. Mamy
 szerokie kontakty i zazwyczaj możemy Was przekierować w odpowiednie miejsce, ale
@@ -22,7 +22,7 @@ Spójrzcie teraz trochę wyżej, na nasze główne menu. Pomiędzy "Warsztat" a
 "Oferty pracy". Tak, właśnie tam! Podstrona
 [Szkolenia](http://techwriter.pl/szkolenia/) to miejsce gdzie będziemy
 publikować informacje o wszystkich znanych nam szkoleniach, które mogą Was
-zainteresować. Postaramy się ją nawet aktualizować na bieżąco ;)
+zainteresować. Postaramy się ją nawet aktualizować na bieżąco 😉
 
 Zachęcamy do korzystania, komentowania, przesyłania nam uwag a także informacji
 o szkoleniach które moglibyśmy tam dodać.

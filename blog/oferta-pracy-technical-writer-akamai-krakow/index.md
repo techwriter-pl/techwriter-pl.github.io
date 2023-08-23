@@ -23,7 +23,7 @@ Poniżej oferta, aplikować możecie na dwa sposoby:
   [stronę z ogłoszeniem](https://akamaicareers.inflightcloud.com/app/ui/jobdetails/aka_ext/020637)
 - Pisząc maila na jbodzioc(at)akamai.com
 
-Może być fajnie ;)
+Może być fajnie 😉
 
 https://youtu.be/RcTkSdsNF5k
 

@@ -24,7 +24,7 @@ systemów i rozwiązań pozwalających na skuteczne dostarczenie informacji
 użytkownikowi i to nie za pomocą klasycznych manuali. Stanowisko idealne dla
 doświadczonego writera, który poszukuje platformy do twórczego rozwinięcia
 swoich umiejętności w kierunku strategii komunikacji, zarządzania contentem i
-UX. Poza tym, praca jest w Gdańsku, a to najlepsze miasto w Polsce :)"_
+UX. Poza tym, praca jest w Gdańsku, a to najlepsze miasto w Polsce 😊"_
 
 Szczegółowe informacje poniżej (kliknij w obrazek, żeby go wyświetlić w pełnej
 rozdzielczości) albo bezpośrednio u źródła (w pełnej krasie graficznej i z

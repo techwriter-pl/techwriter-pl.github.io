@@ -15,10 +15,10 @@ Szczególnie, że minęło już 5 miesięcy... Z roku na rok konferencja staje s
 coraz bardziej międzynarodowa i bardziej rozbudowana (ponad 200 uczestników z
 dziewiętnastu krajów!). Głównym hasłem przewodnim tegorocznej edycji było
 "Content as a code". Wydarzenie trwało trzy dni - od piątego do siódmego
-czerwca. Pogoda dopisała ;) Nie byliśmy w stanie uczestniczyć we wszystkich
+czerwca. Pogoda dopisała 😉 Nie byliśmy w stanie uczestniczyć we wszystkich
 atrakcjach, ale sporo widzieliśmy / słyszeliśmy. Dodatkowo organizatorzy
 przygotowali dla Was zapis wideo wszystkich prelekcji, z którego zaczerpniemy
-teraz pełnymi garściami. Co i Wam polecamy :)
+teraz pełnymi garściami. Co i Wam polecamy 😊
 
 W naszej relacji koncentrujemy się na części konferencyjnej, pomijamy warsztaty
 które odbyły się w przeddzień. Może ktoś z Was podzieli się z czytelnikami
@@ -32,7 +32,7 @@ Naszą przygodę z soap! 2019 rozpoczęliśmy od prelekcji dotyczącej sztucznej
 inteligencji. Prelegent przeprowadził ciekawy zabieg i poprosił o pomoc
 wirtualnych aystentów, wychodząc słusznie z założenia, że przygotowanie systemów
 typu CUI (Conversational User Interface) jest w dużej mierze... technical
-writingiem :). Jeżeli nie słyszeliście jeszcze o części AI koncentrującej się na
+writingiem 😊. Jeżeli nie słyszeliście jeszcze o części AI koncentrującej się na
 NLP (Natural Language Processing) to przygodę z tym najmodniejszym teraz
 obszarem wiedzy polecamy rozpocząć właśnie od tej strony, najbliższej chyba
 naszemu zawodowi. W prezentacji Chrisa Warda pojawiło się sporo przykładów
@@ -50,7 +50,7 @@ https://youtu.be/BepELzhX6ao?list=PLUY0lajb-kiaIbF6clQaxTp2lwqmrDDC5
 ## Documenting the known unknowns - Alison MacNeil
 
 Jak mówią komentatorzy sportowi - Alison zaprezentowała bardzo dobrą pracę nóg
-;). Podzieliła się również z nami doświadczeniami z pracy w branży
+😉. Podzieliła się również z nami doświadczeniami z pracy w branży
 bio-informatycznej. Jej znajomość tematu na początku pracy była praktycznie
 zerowa, a mimo ta musiała wydobyć potrzebne informacje aby przetworzyć je na
 dokumentację techniczną. Brzmi znajomo? Wymagało to przejścia z fazy "Active
@@ -58,7 +58,7 @@ listening" do "Hyperactive listening", nagrywania rozmów ekspertów i ciężkie
 pracy nad nimi po spotkaniach.
 
 My nie do końca zrozumieliśmy o co chodziło w tej prelekcji i dlatego też
-podpieramy się poniższym nagraniem, ale na pewno było wesoło :)
+podpieramy się poniższym nagraniem, ale na pewno było wesoło 😊
 
 https://youtu.be/r-F4FTNiHXc?list=PLUY0lajb-kiaIbF6clQaxTp2lwqmrDDC5
 
@@ -107,7 +107,7 @@ Jeden obraz jest wart więcej niż tysiąc słów.
 Ale wideo jest warte jeszcze więcej! Anton przedstawił bardzo ciekawe statystyki
 pokazujące jakie powinny być  filmy aby użytkownicy chcieli z nich korzystać.
 Zgodnie z poradą zamiast o nim pisać dajemy Wam możliwość obejrzenia wystąpienia
-Antona :)
+Antona 😊
 
 https://youtu.be/o6x4sUj8L1Y?list=PLUY0lajb-kiaIbF6clQaxTp2lwqmrDDC5
 
@@ -139,7 +139,7 @@ https://youtu.be/4qyzEx7fgtA?list=PLUY0lajb-kiaIbF6clQaxTp2lwqmrDDC5
 Przy okazji, Rafałowi tak spodobały się techcommowe konferencje, że sam wybrał
 się na jedną z nich jako nasz wysłannik i
 [zrelacjonował ją dla Was](http://techwriter.pl/nasza-relacja-z-write-the-docs-prague-2019/)
-:)
+😊
 
 # Dzień 2
 
@@ -160,7 +160,7 @@ https://youtu.be/s9KuAYaN2ro?list=PLUY0lajb-kiaIbF6clQaxTp2lwqmrDDC5
 
 ## The Brain API: Closing the gap between Machine Learning and Human Coding - Ludovico Venturini
 
-Ciekawy koncept. Nie mylić z kontentem. Ani z kontekstem. ;) Daje do myślenia,
+Ciekawy koncept. Nie mylić z kontentem. Ani z kontekstem. 😉 Daje do myślenia,
 jednak trochę zabrakło nam konkluzji. Może Wy ją odnajdziecie?
 
 https://youtu.be/86eCJu1t2Ic?list=PLUY0lajb-kiaIbF6clQaxTp2lwqmrDDC5
@@ -171,7 +171,7 @@ Kiedy ktoś z tytułem Starszego Ogólnoświatowego Ewangelisty przygotowuje dla
 prezentację macie tylko dwie możliwości:
 
 1. Słuchać z otwartymi ustami i kupić produkty tej firmy
-2. Słuchać i modlić się, żeby ktoś nie kupił ich dla Was ;)
+2. Słuchać i modlić się, żeby ktoś nie kupił ich dla Was 😉
 
 Którą opcję wybraliście?
 
@@ -187,7 +187,7 @@ https://youtu.be/mS8oq0epIGc?list=PLUY0lajb-kiaIbF6clQaxTp2lwqmrDDC5
 
 ## Content creation in the multiverse of code – using diversity as an asset - Christian Hamp & Pieterjan Benoit
 
-Fajne studium przypadku z firmy zajmującej się robieniem fal ;) Konkretnie, na
+Fajne studium przypadku z firmy zajmującej się robieniem fal 😉 Konkretnie, na
 temat, z przykładami i humorem.
 
 https://youtu.be/hfmb1LkjRwY?list=PLUY0lajb-kiaIbF6clQaxTp2lwqmrDDC5
@@ -195,7 +195,7 @@ https://youtu.be/hfmb1LkjRwY?list=PLUY0lajb-kiaIbF6clQaxTp2lwqmrDDC5
 ## Guides as a code without magic - Gregory Brzeski & Adam Dobrawy
 
 Niech Was nie zmyli forma prezentacji - to nie ojciec z synem poszukujący
-magicznego eliksiru dokumentacji... a może jednak? ;)
+magicznego eliksiru dokumentacji... a może jednak? 😉
 
 https://youtu.be/l4l5-fGctDI
 
@@ -211,7 +211,7 @@ https://youtu.be/ZP1KdJJXWqo?list=PLUY0lajb-kiaIbF6clQaxTp2lwqmrDDC5
 
 ## How to make your content more translatable - Marcelina Haftka
 
-Are you dreaming of going global? Któż nie marzy :) Wszyscy! Dlatego wszyscy
+Are you dreaming of going global? Któż nie marzy 😊 Wszyscy! Dlatego wszyscy
 powinni wysłuchać rad Marceliny:
 
 https://youtu.be/tAxqJiCrGVc?list=PLUY0lajb-kiaIbF6clQaxTp2lwqmrDDC5
@@ -220,7 +220,7 @@ https://youtu.be/tAxqJiCrGVc?list=PLUY0lajb-kiaIbF6clQaxTp2lwqmrDDC5
 
 Colum pracuje jako Knowledge Base Manager - już samo to czyni go ciekawym
 rozmówcą. Jego doświadczenie i pozytywne nastawienie czyni go rozmówcą
-wspaniałym, sprawdziliśmy to empirycznie :)
+wspaniałym, sprawdziliśmy to empirycznie 😊
 
 https://youtu.be/6r0Lkb15CSs?list=PLUY0lajb-kiaIbF6clQaxTp2lwqmrDDC5
 
@@ -237,9 +237,9 @@ https://youtu.be/GWJo3ppwf7k?list=PLUY0lajb-kiaIbF6clQaxTp2lwqmrDDC5
 I to już wszystko. Oczywiście mydlana konferencja to również tzw. after party. I
 to razy dwa! Jedyna w swoim rodzaju okazja do networkingu, drinkingu, omawiania
 sukcesów i ekscesów. Jesteśmy jednak portalem profesjonalnym i nie będziemy
-szerzyć plotek ;) Kto nie był niech żałuje!
+szerzyć plotek 😉 Kto nie był niech żałuje!
 
-Następna konferencja soap! zaplanowana jest na 3-5 czerwca 2020 roku :) Jeśli
+Następna konferencja soap! zaplanowana jest na 3-5 czerwca 2020 roku 😊 Jeśli
 jeszcze nie jesteście przekonani że warto w niej wziąć udział (my jesteśmy) -
 oto ostatni film, na deser:
 

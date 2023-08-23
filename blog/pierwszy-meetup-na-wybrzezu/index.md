@@ -18,7 +18,7 @@ o grupie pod nazwą [uContentowani](https://www.facebook.com/ucontentowani/),
 która postanowiła zorganizować meetup dla specjalistów zajmujących się treścią.
 Podejrzewamy, że nasza
 [twórczość literacka](http://techwriter.pl/langlydz-part-najn/) sprzed prawie
-dwóch lat mogła mieć wpływ na wybór nazwy dla grupy ;)
+dwóch lat mogła mieć wpływ na wybór nazwy dla grupy 😉
 
 Poniżej trochę konkretów.
 

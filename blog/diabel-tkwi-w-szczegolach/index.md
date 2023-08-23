@@ -60,7 +60,7 @@ W przypadkach przedstawionych powyżej nietrudno o pomyłkę, o czym najlepiej
 świadczy chochlik, który wkradł się do pierwszej części artykułu. W zestawieniu
 _Influence, Impact and Effect_ omawiane są słowa _Influence_, _Impact_ i
 _Affect_, a nie _Effect_. O różnicy w znaczeniu tych dwóch słów można się
-dowiedzieć z tej samej części artykułu ;) (**Aktualizacja:** Po naszym
+dowiedzieć z tej samej części artykułu 😉 (**Aktualizacja:** Po naszym
 zgłoszeniu, powyższy błąd został poprawiony) Jeśli po tym omówieniu nadal
 będziecie mieli niedosyt, to polecamy również stronę
 [Daily Writing Tips](http://www.dailywritingtips.com/), o której pisaliśmy

@@ -307,7 +307,7 @@ dedykowani tech writerzy, ale również inżynierowie. I teraz mi powiedzcie, ja
 i [Jakub Reszka](https://www.linkedin.com/in/jakub-reszka-748841159/) pokazali,
 że znają uniwersalne tajniki prezentowania, ponieważ rozpoczęli slajdem z kotem.
 Bardzo to szanuję, bo to złota zasada prezentacji i jakiegokolwiek
-"_contentu_" - najpierw dodaj kota ;)
+"_contentu_" - najpierw dodaj kota 😉
 
 Trio w przystępny sposób przedstawiło wyzwania i obraną ścieżkę radzenia sobie z
 nimi z pomocą DITA, Markdown i Git. Do tego opowiedzieli też o opracowywaniu
@@ -724,7 +724,7 @@ jedną z osób do których los się uśmiechnął była współautorka tego arty
 Julia Dąbrowska. Nagrodą był powerbank ze świecącym logo ekipy podcastu
 „Techwriter Koduje”. Myślę, że w powerbanku zmagazynuje zapas pozytywnej energii
 na cały następny rok przed kolejnym [soap!](https://soapconf.com/). Nie powinno
-to dziwić, w końcu pracuje w Hitachi Energy :)
+to dziwić, w końcu pracuje w Hitachi Energy 😊
 
 Julia jest zachwycona wygraną, bo tak bajeranckiego powerbanku jeszcze nie
 miała! A przy okazji odbierania prezentu miała okazję sprawdzić czy wyjście na
@@ -752,7 +752,7 @@ idee które tam wybrzmiewały, wciąż się przypominają podczas ustalania prac
 zespołowej czy podczas myślenia o podejściu do dokumentacji. Wiele z tych
 wniosków będzie nam towarzyszyć i niektóre zmaterializują się pod postacią
 ulepszeń. Doświadczenie [soap!](https://soapconf.com/) pomaga nam w codziennej
-pracy :) Jeszcze raz, dzięki [soap!](https://soapconf.com/).
+pracy 😊 Jeszcze raz, dzięki [soap!](https://soapconf.com/).
 
 Należy tutaj wspomnieć o tym, że była to **9 edycja**
 [soap!](https://soapconf.com/) i niemal minęło **10 lat** od pierwszego

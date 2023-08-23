@@ -27,7 +27,7 @@ znajdziecie również w tym miejscu -
 
 Istnieją też infografiki, które mają za zadanie przekazać nieskomplikowane
 informacje w sposób który obraża naszą inteligencję - możecie zobaczyć je
-codziennie wieczorem w programach informacyjnych ;)
+codziennie wieczorem w programach informacyjnych 😉
 
 Infografiki są świetnym sposobem na przekazywanie informacji, w praktyce
 częściej wykonywane są przez zawodowych grafików, ale naszym zdaniem jest to
@@ -46,4 +46,4 @@ całą dokumentację techniczną na infografiki, przeczytajcie
 [kilka cennych rad na początek](http://econsultancy.com/uk/blog/62438-which-infographic-is-right-for-you).
 
 A później, na wszelki wypadek, sprawdźcie
-[jak nie robić infografik](http://www.worstinfographic.com/) :).
+[jak nie robić infografik](http://www.worstinfographic.com/) 😊.

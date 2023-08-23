@@ -15,7 +15,7 @@ nazwę tego cyklu było wiele: „Ojczyzna polszczyzna”, „Korpomowa”, „P
 „Słówko dnia”, „Wordy”...
 
 Ostatecznie wybraliśmy nazwę  „Langłydż”, bo jest krótka i zawiera aż dwa
-„polskie znaki” :).
+„polskie znaki” 😊.
 
 Zapraszamy wszystkich technical writerów do współtworzenia tego jedynego w swoim
 rodzaju słownika. Przesyłajcie swoje „ulubione” zwroty!

@@ -23,7 +23,7 @@ czym nie za bardzo miał pojęcie.
 
 Tom doradził, żeby zacząć od określenia zadań jakie użytkownicy będą chcieli
 wykonać za pomocą opisywanej aplikacji. To da nam dobry punkt wyjścia. Dalszą
-część procesu Tom wyjaśnił na przykładzie... sortowania wypranych ubrań :)
+część procesu Tom wyjaśnił na przykładzie... sortowania wypranych ubrań 😊
 
 ## Krok 1 - zbieramy wszystkie ubrania
 
@@ -69,12 +69,12 @@ informują nas o tym. Po wprowadzeniu poprawek instrukcja jest gotowa
 
 ## Bonus
 
-Tutaj analogia kończy się :) Dodatkowo możemy wzbogacić naszą dokumentacę o
+Tutaj analogia kończy się 😊 Dodatkowo możemy wzbogacić naszą dokumentacę o
 zrzuty ekranu, diagramy, ilustracje albo inne elementy wizualne, żeby ją trochę
 ożywić.
 
 Proste, prawda? Życzymy powodzenia w "sortowaniu". W następnych wpisach zajmiemy
-się sprzątaniem i pieczeniem ciast ;)
+się sprzątaniem i pieczeniem ciast 😉
 
 Oryginalny artykuł możecie znaleźć
 [tutaj](http://idratherbewriting.com/2015/01/29/writing-is-like-sorting-laundry-practical-advice-for-tackling-documentation-projects/).
@@ -85,4 +85,4 @@ na nasz
 [portal](http://www.blogroku.pl/2014/kategorie/-b-techwriter-b-pl,8sh,blog.html)
 lub
 [tekst](http://www.blogroku.pl/2014/kategorie/langlydz-part-ten,98i,tekst.html)
-to nie walczcie z tym :)
+to nie walczcie z tym 😊

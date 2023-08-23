@@ -81,7 +81,7 @@ teoretyczne obycie z technologiami i narzędziami jest jak najbardziej wskazane.
 Chociażby po to, żeby na pytanie o
 [DITA](https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architecture) nie
 zacząć wywodu na temat właściwości leczniczych tego
-[krzewu](http://www.stuartxchange.org/Dita.html) ;)
+[krzewu](http://www.stuartxchange.org/Dita.html) 😉
 
 ## Portfolio zawsze w cenie
 
@@ -110,7 +110,7 @@ kandydata - jeśli nie uda mu się pomyślnie przejść procedury, będzie to
 oznaczać, że jest jakiś problem z plikami źródłowymi albo instrukcją, co
 oznacza, że kandydat gdzieś zawalił (albo w plikach albo w instrukcji). Będzie
 to pewnie oznaczać nici z zaproszenia na rozmowę, choćby dlatego, że nie będzie
-CV do wglądu :) Jeśli pracodawcy uda się przejść procedurę pomyślnie i
+CV do wglądu 😊 Jeśli pracodawcy uda się przejść procedurę pomyślnie i
 wygenerować CV, będzie to dla niego informacja o tym czego może oczekiwać od
 kandydata zarówno w kwestii umiejętności technicznych jak i pisania
 dokumentacji. Przyznajemy, że jest to dość ryzykowne rozwiązanie, bo można sobie
@@ -131,7 +131,7 @@ swojego warsztatu i że mamy proaktywne podejście. Przynależność do organiza
 stowarzyszeń związanych z komunikacją techniczną to dowód na to, że chcemy się
 dowiedzieć więcej o swoich kolegach i koleżankach po fachu i o samej branży, w
 której pracujemy. Jeśli macie braki w tej części swojego CV, to zawsze możecie
-je łatwo uzupełnić publikując artykuły na techwriter.pl :)
+je łatwo uzupełnić publikując artykuły na techwriter.pl 😊
 
 ## Lubię spacery po plaży i komedie romantyczne
 

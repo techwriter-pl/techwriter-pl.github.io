@@ -108,7 +108,7 @@ dodatkową perspektywę, przy okazji wychwycenia błędów.
 
 Tworzenie dokumentacji równolegle z pracą programistyczną, zwłaszcza na początku
 projektu, kiedy funkcjonalności nie zostały jeszcze zaimplementowane i mogą się
-zmienić. Trudno pisać fikcje :).
+zmienić. Trudno pisać fikcje 😊.
 
 ### Co najbardziej lubisz w pracy Tech Writera?
 
@@ -126,7 +126,7 @@ Ale najważniejsze to nie bać się technicznych tematów!
 
 ### Czy masz dyplom lub certyfikat z obszaru komunikacji technicznej? Jeśli tak, to jak pomógł Ci w karierze?
 
-Nie do końca :). Sądzę, że bardzo pomogła mi wiedza zdobyta na studiach
+Nie do końca 😊. Sądzę, że bardzo pomogła mi wiedza zdobyta na studiach
 marketingowych. W końcu efektywna komunikacja i trafienie wiadomością do danej
 grupy docelowej jest podstawą w obu dyscyplinach. Jestem też w trakcie uzyskania
 certyfikacji z Komunikacji Technicznej wydawanej przez ITCQF®.
@@ -226,7 +226,7 @@ errors.
 
 Working in parallel with development, especially in the beginning of the project
 when features are not yet developed and functionalities might change. It’s hard
-to write fiction :).
+to write fiction 😊.
 
 ### What do you like the most in technical writing?
 
@@ -243,7 +243,7 @@ don’t be afraid of technical writing if you don’t have a technical backgroun
 
 ### Do you have any diploma or certificate in technical writing? If yes, did it help you in your career?
 
-Not really :). But I do think that my education background in marketing helped
+Not really 😊. But I do think that my education background in marketing helped
 me quite a bit. After all, effective communication and reaching your target
 audience is the basis in both fields. Also, I am currently in the process of
 getting a certification in Technical Communication by ITCQF®.

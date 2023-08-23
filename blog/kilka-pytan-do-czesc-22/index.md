@@ -10,7 +10,7 @@ tags:
 coverImage: "wywiad-22.png"
 ---
 
-Witajcie w nowym roku! Rozpoczynamy od wywiadu numer 22 ;-).
+Witajcie w nowym roku! Rozpoczynamy od wywiadu numer 22 😉.
 
 Naszym rozmówcą jest Andrzej Niewiarowski, który niedawno dołączył do naszej
 redakcji.
@@ -135,7 +135,7 @@ wszystkiego.
 - Cieszy mnie, kiedy wspólnie udaje się rozwiązać problem klienta, a
   specyfikacja jest częścią tej układanki.
 - Uzyskanie odpowiedzi na kluczowe pytania to moment, w którym specyfikacja
-  pisze się praktycznie sama ;)
+  pisze się praktycznie sama 😉
 - Odczuwam dużą satysfakcję, gdy udaje się przedstawić informacje tak, że osoba
   nie znająca specyfiki naszych projektów jest w stanie je zrozumieć.
 
@@ -145,7 +145,7 @@ Jeśli chcesz zacząć pracę w dokumentacji, potrzebujesz kompetencji językowy
 samozaparcia. Przyda się też otwarta głowa, by starać się zrozumieć nowe tematy.
 
 Studia z informatyki pomogą, ale nawet jeśli nie masz takiego wykształcenia to
-nie przejmuj się, tylko aplikuj :)
+nie przejmuj się, tylko aplikuj 😊
 
 Nawet jeśli masz już doświadczenie z innej firmy, prawdopodobnie i tak przez
 jakiś czas będziesz uczyć się specyfiki nowego projektu.

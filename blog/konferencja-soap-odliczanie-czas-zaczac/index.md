@@ -22,7 +22,11 @@ zlokalizowanym przy ul. Marii Konopnickiej 26 w Krakowie.
 
 Do wyboru pozostały jeszcze bilety w cenach:
 
-<table style="height: 68px;" width="597"><tbody><tr style="height: 66px;"><td style="width: 153.84px; height: 66px;"></td><td style="width: 153.84px; height: 66px;"><p style="text-align: center;"><strong>Bilet letni</strong> (do 30.04.2018)</p></td><td style="width: 153.84px; text-align: center; height: 66px;"><strong>Bilet last minute</strong> (od 01.05.2018)</td></tr><tr style="height: 18px;"><td style="width: 153.84px; height: 18px;">2 dni (24-25 maja)</td><td style="width: 153.84px; height: 18px; text-align: center;">999,98 zł</td><td style="width: 153.84px; height: 18px; text-align: center;">1300 zł</td></tr><tr style="height: 3.35999px;"><td style="width: 153.84px; height: 3.35999px;">1 dzień (24 maja)</td><td style="width: 153.84px; height: 3.35999px; text-align: center;">550,01 zł</td><td style="width: 153.84px; height: 3.35999px; text-align: center;">700,01 zł</td></tr><tr style="height: 18px;"><td style="width: 153.84px; height: 18px;">2 dzień (25 maja)</td><td style="width: 153.84px; height: 18px; text-align: center;">550,01 zł</td><td style="width: 153.84px; height: 18px; text-align: center;">-</td></tr></tbody></table>
+| Bilet letni (do 30.04.2018) | Bilet last minute (od 01.05.2018) |
+| --------------------------- | --------------------------------- | --------- |
+| 2 dni (24-25 maja)          | 999,98 zł                         | 1300 zł   |
+| 1 dzień (24 maja)           | 550,01 zł                         | 700,01 zł |
+| 2 dzień (25 maja)           | 550,01 zł                         | -         |
 
 Rejestracja i dodatkowe informacje [tutaj](http://soapconf.com/#ticket).
 

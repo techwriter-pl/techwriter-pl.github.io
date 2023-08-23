@@ -71,7 +71,7 @@ content.
 - Familiarity with reStructuredText, Git, Confluence,
 - Experience working in an agile/scrum development process,
 - Interest in communication technologies,
-- Missing some points from the list? Don't worry and just apply :).
+- Missing some points from the list? Don't worry and just apply 😊.
 
 ### **What we offer:**
 

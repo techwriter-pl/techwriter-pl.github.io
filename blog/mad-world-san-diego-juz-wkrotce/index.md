@@ -41,7 +41,11 @@ Jeśli jesteście ciekawi jak przebiegło MadWorld San Diego w 2017 roku zaprasz
 
 ## Cena
 
-<table style="width: 420px;"><tbody><tr><td style="text-align: center; width: 193px;"></td><td style="text-align: center; width: 135px;"><strong>16.03 - 17.04.2019</strong></td></tr><tr><td style="width: 193px; text-align: center;"><strong>Warsztaty wprowadzające</strong></td><td style="text-align: center; width: 135px;">$599</td></tr><tr><td style="text-align: center; width: 193px;"><strong>Konferencja</strong></td><td style="text-align: center; width: 135px;">$2199</td></tr><tr><td style="text-align: center; width: 193px;"><strong>Warsztaty zaawansowane</strong></td><td style="text-align: center; width: 135px;">$699</td></tr></tbody></table>
+| Kategoria               | 16.03 - 17.04.2019 |
+| ----------------------- | ------------------ |
+| Warsztaty wprowadzające | $599               |
+| Konferencja             | $2199              |
+| Warsztaty zaawansowane  | $699               |
 
 Szczegółowy opis tego, co zawiera cena oraz możliwość zarezerwowania noclegów w
 specjalnej, konferencyjnej cenie znajdziecie

@@ -36,7 +36,7 @@ Co robić w takich sytuacjach? Nie każdy z nas ma możliwość wylać swoje ża
 koleżance lub koledze po fachu. W szczególności dotyczy to osób, które są
 jedynymi Tech Writerami w całej firmie. Jak wiadomo, zbyt długie duszenie w
 sobie negatywnych emocji może być szkodliwe dla naszego zdrowia. Poza tym, nie
-każdy tak potrafi - "czasami człowiek musi, inaczej się udusi" :)
+każdy tak potrafi - "czasami człowiek musi, inaczej się udusi" 😊
 
 Wtedy na ratunek przychodzi nam internet, a dokładniej profil
 [TheDocShit](https://twitter.com/thedocshit) na Twitterze, który niedawno
@@ -55,4 +55,4 @@ https://twitter.com/thedocshit/status/789032158199447552
 https://twitter.com/thedocshit/status/783962877799661568
 
 Zachęcamy do śledzenia profilu oraz podsyłania autorowi własnych przykładów
-"wyzwań" z jakimi się mierzycie. Podejrzewamy, że macie się czym dzielić ;)
+"wyzwań" z jakimi się mierzycie. Podejrzewamy, że macie się czym dzielić 😉

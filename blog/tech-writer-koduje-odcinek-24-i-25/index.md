@@ -46,7 +46,7 @@ i posiada wiele wersji dokumentacji. Jak sprawić by użytkownik miał dostęp d
 tych wersji w łatwy i czytelny sposób, gdy wiadomo, że dokumentacja i sposób jej
 udostępniania zmieniał się wraz ze zmianami wynikającymi z rozwoju
 technologicznego? Jeśli jesteście ciekawi rozwiązania tego problemu, nie
-pozostaje nic innego, jak włączyć podcast ;-).
+pozostaje nic innego, jak włączyć podcast 😉.
 
 ### Odcinek 25
 

@@ -70,7 +70,7 @@ skrócony program konferencji:
 - 30 września (piątek) - prelekcje, lunch  oraz wieczorna impreza zapoznawcza.
   Przewidywany czas to godziny 9:00-22:00
 - 1 października (sobota) - prelekcje, lunch oraz pożegnalne spotkanie przy
-  drinkach ;). Przewidywany czas to godziny 9:30-17:30 oraz 19:00-22:00.
+  drinkach 😉. Przewidywany czas to godziny 9:30-17:30 oraz 19:00-22:00.
 
 ### **Bilety**
 

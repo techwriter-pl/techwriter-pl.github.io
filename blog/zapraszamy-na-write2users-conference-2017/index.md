@@ -66,7 +66,7 @@ cenie? Organizatorzy oferują kilka możliwości:
   lokalizacji) w cenie 3 750 DKK (ok. 2160 zł)
 
 Zdecydowanie najkorzystniejszym rozwiązaniem jest jednak... zabranie ze sobą
-drugiej osoby. Na drugi bilet dostaniemy bowiem **50% zniżki** :)
+drugiej osoby. Na drugi bilet dostaniemy bowiem **50% zniżki** 😊
 
 # Zapraszamy!
 
@@ -75,4 +75,4 @@ mogli siegnąć po naszą oficjalną relację. Jednak nawet Techwriter.pl nie za
 bezpośredniego doświadczenia, dlatego gorąco zachęcamy do osobistego udziału w
 konferencji! Nagabujcie swoich przełożonych, organizujcie budżet, zbierajcie
 koleżanki i kolegów po fachu i jedźcie z nami! Na zachętę dorzucamy link do
-strony kopenhaskiego [zoo](https://www.zoo.dk/en//) :)
+strony kopenhaskiego [zoo](https://www.zoo.dk/en//) 😊

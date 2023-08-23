@@ -77,7 +77,7 @@ Pozdrawiam organizatorów i liczę na kolejne wydarzenia z serii MeetContent.
 
 \*\*\*
 
-Dołączamy się do pozdrowień i również czekamy na kolejne spotkanie :)
+Dołączamy się do pozdrowień i również czekamy na kolejne spotkanie 😊
 
 Jeśli nadal czujecie niedosyt informacji, to poniżej zamieszczamy slajdy z
 prezentacji.

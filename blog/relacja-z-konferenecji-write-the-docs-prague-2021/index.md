@@ -59,7 +59,7 @@ i sesje
 ## Najciekawsze przemówienia
 
 Spośród 13 prezentacji wybraliśmy kilka, które najbardziej zapadły nam w pamięci
-i którymi chcielibyśmy się z Wami podzielić :)
+i którymi chcielibyśmy się z Wami podzielić 😊
 
 No to zaczynamy!
 
@@ -118,7 +118,7 @@ pewnością pomoże Wam odpowiedzieć na to pytanie!
 
 Z czym wiąże się praca freelancera? Według Karen jest to: mniej snu, mniej
 wolnego czasu, ale za to więcej doświadczenia, więcej pieniędzy, możliwość
-uczenia się poprzez ciekawe projekty ;) .
+uczenia się poprzez ciekawe projekty 😉 .
 
 Oczywiście nie zapominajcie o higienie umysłu! Odpowiedni wypoczynek i przerwy
 uchronią Was przed
@@ -127,7 +127,7 @@ należy zrobić zaczynając jako freelancer?
 
 - Upewnić się, że możecie prowadzić działalność gospodarczą.
 - Zapoznać się z umową z poprzednim pracodawcą, czy przypadkiem nie ma w niej
-  klauzuli mówiącej, że nie możecie wykonywać tej pracy przez kolejne 5 lat ;) .
+  klauzuli mówiącej, że nie możecie wykonywać tej pracy przez kolejne 5 lat 😉 .
 - Przestrzegać umowy o nieujawnianiu informacji (NDA).
 - Zadbać o ubezpieczenie zdrowotne.
 - Płacić podatki.
@@ -145,12 +145,12 @@ Jak znaleźć pracę lub projekt?
 Na co uważać?
 
 - Mądrze dobierać sobie pierwszych klientów, są tacy, których należy się
-  wystrzegać! Z pewnością będziecie wiedzieć których ;) .
+  wystrzegać! Z pewnością będziecie wiedzieć których 😉 .
 - Nie używać osobistego sprzętu do pracy. Dlaczego? Niektóre umowy z klientami
   mogą zawierać zapisy o nieujawnianiu informacji, zapisy o przechowywaniu
   danych na określonych nośnikach lub zapisy dotyczące korzystania z produktów i
   licencji. Aby uchronić się przed potencjalnymi nieprzyjemnościami, lepiej
-  zaopatrzyć się w oddzielny komputer ;)
+  zaopatrzyć się w oddzielny komputer 😉
 - Rozdzielać wiadomości, konta, przeglądarki, żeby łatwiej monitorować przepływ
   informacji
 
@@ -175,7 +175,7 @@ oraz przedstawiła praktyczne przykłady jak się lepiej komunikować i rozumie�
 Kilka wskazówek jak radzić sobie z rozwiązywaniem problemów językowych:
 
 - Zastanowić się czy mówicie w języku angielskim czy też w języku ojczystym
-  używając angielskich słów ;) .
+  używając angielskich słów 😉 .
 - W różnych językach ten sam wyraz może mieć różne znaczenie, warto wiedzieć
   jakich słów używać.
 - Przynależność do tej samej grupy (autorów, programistów) może wpływać na
@@ -186,7 +186,7 @@ Kilka wskazówek jak radzić sobie z rozwiązywaniem problemów językowych:
   mówcy i może on poczuć się niekomfortowo.
 - Różne specjalizacje / zawody mają różny zasób słownictwa, specyficzny dla
   danej grupy, rozumienie tego samego wyrazu w różnych grupach zawodowych może
-  być inne ;).
+  być inne 😉.
 - Zadawać proste pytania: who (kto?), what (co?), why (dlaczego?), where
   (gdzie?), how (jak?).
 
@@ -248,7 +248,7 @@ dokumentacyjnych.  Dla niewtajemniczonych dodam, że prelegent zawarł wiele
 odniesień do kultowej książki science fiction Douglasa Adamsa
 [_''Autostopem przez Galaktykę''_](https://pl.wikipedia.org/wiki/Autostopem_przez_Galaktyk%C4%99),
 która cieszy się dużą popularnością wśród pisarzy technicznych, nerdów, geeków i
-programistów ;) . Sam tytuł z niezłym skutkiem został przełożony na język filmu
+programistów 😉 . Sam tytuł z niezłym skutkiem został przełożony na język filmu
 komediowego:
 
 [![](images/hitchhikers-guide-1024x576.jpeg)](http://techwriter.pl/wp-content/uploads/2021/10/hitchhikers-guide.jpeg)[`Douglas Adams`](https://pl.wikipedia.org/wiki/Douglas_Adams)
@@ -269,7 +269,7 @@ Wracając do materiału opracowanego przez Lukasa, zastosowana analogia pasował
 jak ulał. To kompletny przewodnik, który w niemal naukowy sposób analizuje
 różnorodne wymagania stawiane dokumentacji i prezentuje dostępne możliwe
 podejścia do tworzenia treści. Wytłumaczone jest to tak przejrzyście, że nawet
-przybysz z obcej planety by zrozumiał ;) .
+przybysz z obcej planety by zrozumiał 😉 .
 
 [![](images/1633339503059-1024x724.jpeg)](http://techwriter.pl/wp-content/uploads/2021/10/1633339503059.jpeg)
 
@@ -339,7 +339,7 @@ Również i z tej prezentacji dowiemy się czegoś o pracy mózgu - w tym wypadk
 wspomniane są dwa systemy: szybkiego i wolnego myślenia. Kolejny raz
 przekonujemy się, że zrozumienie jednego aspektu działania naszych umysłów może
 się przełożyć na jeszcze efektywniejszą dokumentację. Przed następnym Write The
-Docs obiecujemy sobie przeczytać jakąś książkę o neurobiologii ;) .
+Docs obiecujemy sobie przeczytać jakąś książkę o neurobiologii 😉 .
 
 Na koniec swojej opowieści, Anita daje wiele cennych rad o tym, jak krzewić
 zdrową kulturę dokumentacyjną poprzez edukowanie innych pracowników na temat
@@ -361,7 +361,7 @@ specjalnościami. Dowiecie się, jak tworzone są plany w perspektywie kilku lat
 by stopniowo rozbudowywać zespół i wyposażyć go w odpowiednio dojrzały
 proces.[![](images/1633445703626-1024x724.jpeg)](http://techwriter.pl/wp-content/uploads/2021/10/1633445703626.jpeg)Dodatkowym
 atutem tej prezentacji jest zastosowanie się autorki do nadrzędnej zasady: by
-osiągnąć sukces, należy wpleść dostatecznie dużo zdjęć kotów ;) I piszemy to bez
+osiągnąć sukces, należy wpleść dostatecznie dużo zdjęć kotów 😉 I piszemy to bez
 szyderstwa, bo warstwa wizualna tych slajdów ma bardzo staranie opracowany styl
 graficzny. Uczta dla ucha i
 oka.[![](images/upload_019.png)](http://techwriter.pl/wp-content/uploads/2021/10/upload_019.png)
@@ -374,7 +374,7 @@ seen''_ prezentowanego przez Abi Sutherland. W swojej inspirującej 7-minutowej
 przemowie opowiada o  instrukcji _''How to keep your Volswagen alive, manual for
 the compleat idiot''_, napisana przez Jona Muir. Być może znajdziecie tam trochę
 wskazówek jak można tworzyć podręcznik, a jednocześnie dobrze się przy tym bawić
-;) .
+😉 .
 
 https://www.youtube.com/watch?v=Xasef7oR25Y&list=PLZAeFn6dfHpnaoiOQyd9BYbQbprDGQjQ9&index=15
 
@@ -406,11 +406,11 @@ Można było z nimi porozmawiać na czacie lub umówić się na spotkanie 1:1.
 ## Na koniec
 
 Ze swojej strony, mamy nadzieję, że trochę Was zainteresowaliśmy, i być może
-dołączycie na wydarzenie w przyszłym roku, jeśli jeszcze nie mieliście okazji :)
+dołączycie na wydarzenie w przyszłym roku, jeśli jeszcze nie mieliście okazji 😊
 .
 
 Nam osobiście z przyjemnością słuchało się większości wystąpień. Jak co roku,
-jedne z nich były mniej, a inne bardziej ciekawe ;) . Jest to jednak nasza
+jedne z nich były mniej, a inne bardziej ciekawe 😉 . Jest to jednak nasza
 subiektywna opinia. Jeśli chcecie się podzielić Waszą, zapraszamy do komentarzy!
 
 Pozdrawiamy: Martyna & Andrzej

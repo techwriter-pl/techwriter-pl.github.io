@@ -42,11 +42,15 @@ Skupmy się na części praktycznej i przeanalizujmy kilka przykładów:
 
 Przykład  1
 
-<table style="border-collapse: collapse; width: 100%;"><tbody><tr><td style="width: 50%;"><strong>PRZED</strong></td><td style="width: 50%;"><strong>PO</strong></td></tr><tr><td style="width: 50%;"><em>Żadna osoba nie była upoważniona do udzielenia jakichkolwiek informacji ani składania oświadczeń innych niż zawarte lub włączone w tym wspólnym oświadczeniu</em>.</td><td style="width: 50%;"><em>Powinieneś polegać wyłącznie na informacjach zawartych w tym dokumencie lub na tych, do których cię skierowaliśmy. Nie upoważniliśmy nikogo do przekazania Ci informacji, które są inne.</em></td></tr></tbody></table>
+| PRZED                                                                                                                                                         | PO                                                                                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Żadna osoba nie była upoważniona do udzielenia jakichkolwiek informacji ani składania oświadczeń innych niż zawarte lub włączone w tym wspólnym oświadczeniu. | Powinieneś polegać wyłącznie na informacjach zawartych w tym dokumencie lub na tych, do których cię skierowaliśmy. Nie upoważniliśmy nikogo do przekazania Ci informacji, które są inne. |
 
 Przykład 2
 
-<table style="border-collapse: collapse; width: 100%;"><tbody><tr><td style="width: 50%;"><strong>PRZED</strong></td><td style="width: 50%;"><strong>PO</strong></td></tr><tr><td style="width: 50%;"><em>Pełnomocnicy zgłoszeni do udziału w Zgromadzeniu mogą zostać odwołani, z zastrzeżeniem procedur opisanych w niniejszym dokumencie, w każdym czasie do dnia Zgromadzenia.</em></td><td style="width: 50%;"><em>Możesz odwołać swojego pełnomocnika i odebrać prawo do głosowania do dnia posiedzenia włącznie, postępując zgodnie ze wskazówkami na stronie 10.</em></td></tr></tbody></table>
+| PRZED                                                                                                                                                                    | PO                                                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Pełnomocnicy zgłoszeni do udziału w Zgromadzeniu mogą zostać odwołani, z zastrzeżeniem procedur opisanych w niniejszym dokumencie, w każdym czasie do dnia Zgromadzenia. | Możesz odwołać swojego pełnomocnika i odebrać prawo do głosowania do dnia posiedzenia włącznie, postępując zgodnie ze wskazówkami na stronie 10. |
 
 _Wnioski:_
 
@@ -58,7 +62,9 @@ napisalibyście go inaczej?
 
 Przykład 3
 
-<table style="border-collapse: collapse; width: 100%;"><tbody><tr><td style="width: 50%;"><strong>PRZED</strong></td><td style="width: 50%;"><strong>PO</strong></td></tr><tr><td style="width: 50%;">W przypadku wykonywania ostrych zakrętów lub gwałtownych manewrów pojazd może się przewrócić lub stracić kontrolę i zderzyć. Należy zapoznać się z wytycznymi i instrukcjami dotyczącymi prowadzenia pojazdu zawartymi w Instrukcji Obsługi, a także nosić pasy bezpieczeństwa.</td><td style="width: 50%;"><a href="http://techwriter.pl/wp-content/uploads/2020/07/zapnij-pasy.jpg"><img className="alignnone wp-image-8880" src="images/zapnij-pasy-300x300.jpg" alt="" width="186" height="186"/></a></td></tr></tbody></table>
+| PRZED                                                                                                                                                                                                                                                                           | PO  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| W przypadku wykonywania ostrych zakrętów lub gwałtownych manewrów pojazd może się przewrócić lub stracić kontrolę i zderzyć. Należy zapoznać się z wytycznymi i instrukcjami dotyczącymi prowadzenia pojazdu zawartymi w Instrukcji Obsługi, a także nosić pasy bezpieczeństwa. |     |
 
 _Wnioski:_
 
@@ -88,7 +94,12 @@ Nawiążemy trochę do matematyki i wzoru jak to można wyliczyć 😊.
 
 Otrzymany rezultat można zinterpretować jak poniżej:
 
-<table style="border-collapse: collapse; width: 100%; height: 95px;"><tbody><tr style="height: 19px;"><td style="width: 14.6114%; height: 19px;"><strong>Wynik</strong></td><td style="width: 85.3886%; height: 19px;"><strong>Interpretacja</strong></td></tr><tr style="height: 19px;"><td style="width: 14.6114%; height: 19px;">90-100</td><td style="width: 85.3886%; height: 19px;">tekst łatwy do zrozumienia dla jedenastoletniego ucznia</td></tr><tr style="height: 19px;"><td style="width: 14.6114%; height: 19px;">60-70</td><td style="width: 85.3886%; height: 19px;">tekst łatwy do zrozumienia dla uczniów w wieku 13-15 lat</td></tr><tr style="height: 19px;"><td style="width: 14.6114%; height: 19px;">30-50</td><td style="width: 85.3886%; height: 19px;">tekst akademicki</td></tr><tr style="height: 19px;"><td style="width: 14.6114%; height: 19px;">0-30</td><td style="width: 85.3886%; height: 19px;">tekst naukowy, dla absolwentów uc<em>z</em>elni wyższych</td></tr></tbody></table>
+| Wynik  | Interpretacja                                            |
+| ------ | -------------------------------------------------------- |
+| 90-100 | tekst łatwy do zrozumienia dla jedenastoletniego ucznia  |
+| 60-70  | tekst łatwy do zrozumienia dla uczniów w wieku 13-15 lat |
+| 30-50  | tekst akademicki                                         |
+| 0-30   | tekst naukowy, dla absolwentów uczelni wyższych          |
 
 - **Indeks czytelności FOG** **(Gunning fog index)** – w języku polskim
   określany jako indeks mgły, określa czy ​​tekst może być łatwo odczytany przez
@@ -105,7 +116,14 @@ pomijaj żadnych zdań. Aby wyliczyć indeks FOG, zastosuj wzór:
 
 … i teraz możecie ocenić jak bardzo Wasz tekst jest przystępny:
 
-<table style="border-collapse: collapse; width: 100%; height: 215px;"><tbody><tr style="height: 19px;"><td style="width: 11.407%; height: 19px;"><strong>Wynik&nbsp;</strong></td><td style="width: 88.593%; height: 19px;"><strong>Interpretacja</strong></td></tr><tr style="height: 19px;"><td style="width: 11.407%; height: 19px;">1-6</td><td style="width: 88.593%; height: 19px;">język bardzo prosty, zrozumiały dla uczniów szkoły podstawowej</td></tr><tr style="height: 19px;"><td style="width: 11.407%; height: 19px;">7-9</td><td style="width: 88.593%; height: 19px;">język prosty, zrozumiały dla uczniów gimnazjum</td></tr><tr style="height: 19px;"><td style="width: 11.407%; height: 19px;">10-12</td><td style="width: 88.593%; height: 19px;">język dość prosty, zrozumiały dla uczniów liceum</td></tr><tr style="height: 19px;"><td style="width: 11.407%; height: 19px;">13-15</td><td style="width: 88.593%; height: 19px;">język dość trudny, zrozumiały dla studentów studiów licencjackich</td></tr><tr style="height: 19px;"><td style="width: 11.407%; height: 19px;">16-17</td><td style="width: 88.593%; height: 19px;">język trudny, zrozumiały dla studentów studiów magisterskich</td></tr><tr style="height: 19px;"><td style="width: 11.407%; height: 19px;">&lt;18</td><td style="width: 88.593%; height: 19px;">język bardzo trudny, zrozumiały dla magistrów i osób z wyższym wykształceniem</td></tr></tbody></table>
+| Wynik  | Interpretacja                                                                 |
+| ------ | ----------------------------------------------------------------------------- |
+| 1-6    | język bardzo prosty, zrozumiały dla uczniów szkoły podstawowej                |
+| 7-9    | język prosty, zrozumiały dla uczniów gimnazjum                                |
+| 10-12  | język dość prosty, zrozumiały dla uczniów liceum                              |
+| 13-15  | język dość trudny, zrozumiały dla studentów studiów licencjackich             |
+| 16-17  | język trudny, zrozumiały dla studentów studiów magisterskich                  |
+| &lt;18 | język bardzo trudny, zrozumiały dla magistrów i osób z wyższym wykształceniem |
 
 ##   Narzędzia
 

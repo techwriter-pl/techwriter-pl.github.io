@@ -18,7 +18,7 @@ Niezbędne informacje poniżej.
 
 Stali Czytelnicy dobrze wiedzą czym jest nasza coroczna akcja z wypełnianiem
 ankiety oraz w jakim celu ją robimy. Jednak dla osób zaglądających tu od
-niedawna kilka słów wprowadzenia ;)
+niedawna kilka słów wprowadzenia 😉
 
 W 2017 roku postanowiliśmy zrobić nasze własne, kompleksowe badanie płac wśród
 Technical Writerów i powiązanych profesji. W kolejnych latach ponawialiśmy

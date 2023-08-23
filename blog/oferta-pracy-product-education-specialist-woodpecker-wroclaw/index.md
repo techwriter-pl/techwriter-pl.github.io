@@ -9,7 +9,7 @@ tags:
 coverImage: "Woodpecker_logo.jpg"
 ---
 
-W skrócie PES, czyli Piszący Ekstra Specjalista ;) Warto zapoznać się z tą
+W skrócie PES, czyli Piszący Ekstra Specjalista 😉 Warto zapoznać się z tą
 ofertą!
 
 Klarowne oczekiwania, bardzo ciekawy proces rekrutacyjny, przejrzysta oferta
@@ -22,7 +22,7 @@ Czym zajmuje się Woodpecker? Oto krótkie wprowadzenie:
 https://youtu.be/lX7XFIV98bk
 
 Zachęcamy do wykonania zadania, nawet jeśli nie planujecie przenosin do
-Wrocławia :)
+Wrocławia 😊
 
 ---
 

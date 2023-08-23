@@ -9,7 +9,7 @@ tags:
 coverImage: "Malta.jpg"
 ---
 
-Oferta nietypowa w bardzo pozytywny sposób. Co najmniej z dwóch powodów :)
+Oferta nietypowa w bardzo pozytywny sposób. Co najmniej z dwóch powodów 😊
 
 Po pierwsze - na Malcie. Po drugie - trafiła do nas za pośrednictwem grupy
 [Tworzenie dokumentacji](https://www.facebook.com/groups/tworzeniedokumentacji/permalink/1039072279767554/)
@@ -26,7 +26,7 @@ Ptaszki ćwierkają, że...
 > w Google "malta salary calculator". Koszty życia na Malcie są porównywalne do
 > Warszawy...
 
-...a ludzie tam to prawdziwe anioły :) W szczególności trójka naszych rodaków.
-Ich troje ;)
+...a ludzie tam to prawdziwe anioły 😊 W szczególności trójka naszych rodaków.
+Ich troje 😉
 
 POWODZENIA!

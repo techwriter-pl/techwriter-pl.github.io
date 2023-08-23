@@ -17,7 +17,7 @@ właściwie znaczy?
 Fragment ten pochodzi z traktatu "O granicach dobra i zła" Cycerona i ma ponad
 2000 lat! Cyceron, wbrew nazwie, nie był biuściastym erotomanem, tylko rzymskim
 mówcą i politykiem. Chociaż kto go tam wie, właściwie jedno nie stoi w
-sprzeczności z drugim... Ale nie o tym mieliśmy pisać :)
+sprzeczności z drugim... Ale nie o tym mieliśmy pisać 😊
 
 Łacińskiego tekstu zaczynającego się od "Lorem ipsum" używamy, żeby sprawdzić
 jak nasz dokument będzie się prezentować kiedy już skończymy pracę nad właściwą

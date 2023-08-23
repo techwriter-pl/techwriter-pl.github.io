@@ -49,7 +49,7 @@ przeglądarek, czy potrzeba dostępu do internetu.
 
 Dobra wiadomość jest taka, że w przypadku mniejszych dokumentów zazwyczaj kończy
 się na stworzeniu jednego ekranu szybkiego startu i osadzeniu go jako część
-aplikacji za pomocą programistów ;)
+aplikacji za pomocą programistów 😉
 
 Więcej informacji na ten temat znajdziecie np.
 [w tej książce](http://www.writersua.com/mobile/book.htm) (kosztuje 15$).

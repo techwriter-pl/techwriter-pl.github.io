@@ -12,7 +12,7 @@ coverImage: "Screenshot.jpeg"
 ---
 
 Jeden obraz wart jest tysiąc słów, jeden skrinszot - tysiąc strzałów w monitor
-;). Screenshots są pomocne nie tylko jako części dokumentacji użytkownika, ale
+😉. Screenshots są pomocne nie tylko jako części dokumentacji użytkownika, ale
 również wtedy, kiedy np. chcecie pokazać programiście, że popełnił błąd.
 Poznajcie narzędzia które mogą być pomocne przy robieniu zrzutów ekranowych -
 dwa z nich opisał dla Was niezawodny mojk.
@@ -81,7 +81,7 @@ funkcje są prawie takie same, tylko np. niektóre formaty zapisu nie są dostę
 
 Jak już wspomniałem braki Impicta rekompensuję sobie programem Greenshot.
 Uważam, że jest to świetne narzędzie z trzech powodów. Po pierwsze jest darmowe
-i otwarte, po drugie jest lekkie, a po trzecie… jest po prostu świetne :)
+i otwarte, po drugie jest lekkie, a po trzecie… jest po prostu świetne 😊
 Program można ściągnąć z [getgreenshot.org](http://getgreenshot.org). Instalka
 zajmuje zaledwie 1,2 MB. Podczas instalacji można wybrać różne wtyczki, które
 pozwalają na wrzucanie naszych zrzutów ekranu bezpośrednio np. do Dropboxa albo
@@ -124,6 +124,6 @@ Greenshotem - jest zintegrowany z moim narzędziem do pisania dokumentacji.
 Dlatego też w moim przypadku te dwa programy dobrze się uzupełniają. Idealnym
 rozwiązaniem byłoby połączenie tych dwóch programów w jeden, ale niestety nie
 żyjemy w idealnym świecie. Dajcie znać w komentarzach czego i jak używacie, a
-jeśli tego samego to wyraźcie swoją opinię :)
+jeśli tego samego to wyraźcie swoją opinię 😊
 
 mojk

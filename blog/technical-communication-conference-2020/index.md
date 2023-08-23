@@ -63,4 +63,4 @@ A może ktoś z Was chciałby wystąpić podczas konferencji? Chętni mogą zgł
 swoje wystąpienia na adres TechCommConference@softserveinc.com.
 
 P.S. Jeśli macie informacje o podobnych wydarzeniach, dajcie nam znać w
-komentarzu ;-)
+komentarzu 😉

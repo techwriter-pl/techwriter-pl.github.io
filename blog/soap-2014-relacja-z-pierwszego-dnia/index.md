@@ -70,7 +70,7 @@ współpracować na partnerskich zasadach. Zamiast wchodzić sobie w kompetencje
 wymieniajmy poglądy. Nie skupiajmy się tylko na swojej działce, zawsze
 pamiętajmy o wspólnym celu. A na koniec przestroga z prezentacji: nigdy nie
 pokazujmy klientowi modelu aplikacji, która wygląda podobnie do finalnej wersji,
-bo klient będzie chciał mieć aplikację na jutro :)
+bo klient będzie chciał mieć aplikację na jutro 😊
 
 [![SoapKasiaMrowca](images/SoapKasiaMrowca.jpg)](http://techwriter.pl/wp-content/uploads/2014/10/SoapKasiaMrowca.jpg)
 
@@ -128,7 +128,7 @@ i zaplanować. Kevin podczas swojej prezentacji podał mnóstwo innych przykład
 które pochodziły z jego książki
 [The Diagrams Book](http://www.thediagramsbook.com). Oprócz posługiwania się
 diagrami, nauczyliśmy się jeszcze jednej ważnej rzeczy. Użycie słowa s\*\*t
-podczas prezentacji nie jest niczym zdrożnym ;)
+podczas prezentacji nie jest niczym zdrożnym 😉
 
 [![SoapKevinDuncan](images/SoapKevinDuncan.jpg)](http://techwriter.pl/wp-content/uploads/2014/10/SoapKevinDuncan.jpg)
 

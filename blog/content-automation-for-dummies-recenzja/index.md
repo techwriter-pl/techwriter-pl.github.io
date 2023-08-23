@@ -10,7 +10,7 @@ tags:
 coverImage: "ContentAutomationForDummies.jpeg"
 ---
 
-Dawno nie przeczytaliśmy dla Was książki ;) Wracamy do zwyczaju recenzowania
+Dawno nie przeczytaliśmy dla Was książki 😉 Wracamy do zwyczaju recenzowania
 ciekawych lektur i mocno zachęcamy do samodzielnego czytania! Szczególnie, że
 bohaterkę dzisiejszego wpisu możecie sobie ściągnąć za darmo i przeczytać dość
 szybko.
@@ -29,7 +29,7 @@ względów.
   więc mniej lub bardziej zakamuflowaną promocją rozwiązań tej firmy,
 - Mimo to wydaje się nam wartościową lekturą,
 - Jest króciutka (100 stron), także powoli będziemy kończyć, żeby recenzja nie
-  była dłuższa od samej książki ;),
+  była dłuższa od samej książki 😉,
 - A najlepsze jest to, że jest dostępna dla każdego w sieci,
   [pod tym adresem](http://content.quark.com/rs/405-HHT-522/images/Content%20Automation%20for%20Dummies.pdf?mkt_tok=eyJpIjoiT0RsbVpUVTJNemN6Wm1NeiIsInQiOiI0VitPbVZIUkd1aFhpYVV6SVh0VlFWKzZna09DYmQ5a2JSRFBGbmFSNGwyUThDWGdVYzByU09jelEzUDROcXZPSkZ0V0dkUE95aWh1cjhhYmE5WGNuNWNGWWxqUHRTdHh5d0VrZVwvaWNYRlJWeHlqMmlISklsQjhFYTFPUW5KWm8ifQ%3D%3D).
 
@@ -46,7 +46,7 @@ Zamiast tego możecie użyć rozdziału drugiego "Understanding your content" i
 przeprowadzić audyt Waszych treści oraz zinwentaryzować je. To chyba największa
 wartość tej lektury - podpowiada w jaki sposób "ogarnąć" sobie to co produkujemy
 i przygotowuje nas do kolejnego kroku, jakim może być
-optymalizacja/automatyzacja/reorganizacja/rezygnacja...;)
+optymalizacja/automatyzacja/reorganizacja/rezygnacja...😉
 
 Kolejne rozdziały są już bardziej "techniczne" i nieuchronnie wiodą nas ku
 jedynemu słusznemu rozwiązaniu, jakim jest oczywiście zakup rozwiązania firmy

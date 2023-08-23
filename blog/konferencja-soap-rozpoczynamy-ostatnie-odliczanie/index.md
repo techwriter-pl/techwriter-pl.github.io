@@ -73,4 +73,4 @@ summit oraz soap!) i masz czas w dniach 5-9 czerwca 2017 roku zarejestruj się
 [tutaj](http://soapconf.com/#ticket). Liczba miejsc jest ograniczona. W zamian
 za pomoc zyskasz darmowy wstęp na konferencję i towarzyszące jej wydarzenia.
 
-Do zobaczenia ;-)
+Do zobaczenia 😉

@@ -13,10 +13,10 @@ Zaprzyjaźniona firma z Krakowa poszukuje ludzi z naszej branży, z mocnymi
 umiejętnościami/zdolnościami technicznymi. Ciekawe opcje!
 
 [Head of Technology](https://3di-info.com/head-of-technology/) - to brzmi dumnie
-:)
+😊
 
 [Tools Specialist](https://3di-info.com/tools-specialist/) - też niczego sobie
-:)
+😊
 
 Wszystkie informacje znajdziecie pod linkami powyżej.
 

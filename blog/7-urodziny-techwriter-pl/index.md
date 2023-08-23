@@ -41,7 +41,7 @@ daje nam energię do kontynuowania projektu!
 
 Przez te lata przeprowadziliśmy i opublikowaliśmy z Wami 19
 [wywiadów](http://techwriter.pl/category/warsztat/jak-to-robia-inni/) - może
-jest wśród Was chętna/y, na dwudziestą, jubileuszową rozmowę? :)
+jest wśród Was chętna/y, na dwudziestą, jubileuszową rozmowę? 😊
 
 Z przyjemnością bierzemy też czynny udział w promowaniu krajowych i
 zagranicznych wydarzeń branżowych, niektóre z nich z dumą objęliśmy patronatem

@@ -41,18 +41,14 @@ na pewno, że jesteśmy zapóźnieni. Trudno. Wszystkim instytucjom i firmom bę
 w awangardzie tej rewolucji w nauczaniu możemy tylko z sympatią poradzić:
 uważajcie na siebie. I posłużyć przykładem. TO NIE JEST E-LEARNING:
 
-<iframe
-  src="https://www.youtube.com/embed/hSg6izlYq1k"
-  frameBorder={0}
-  allowFullScreen="allowFullScreen"
->
-  &lt;span style="display: inline-block; width: 0px; overflow: hidden;
-  line-height: 0;" data-mce-type="bookmark"
-  className="mce_SELRES_start"&gt;﻿&lt;/span&gt;
-</iframe>
+<iframe src="https://www.youtube.com/embed/hSg6izlYq1k" frameBorder="{0}" allowFullScreen="allowFullScreen">
+        &amp;lt;span style="display: inline-block; width: 0px; overflow: hidden;
+        line-height: 0;" data-mce-type="bookmark"
+        className="mce_SELRES_start"&amp;gt;﻿&amp;lt;/span&amp;gt;
+      </iframe>
 
 Czujesz się humanistą i matma Ci nie leży?
 [Proszę bardzo - lekcja plastyki!](https://vod.tvp.pl/video/szkola-z-tvp-klasa-7,plastyka-30032020-lekcja-1,47324113)
-Uwaga, to też nie jest e-learning :)
+Uwaga, to też nie jest e-learning 😊
 
 Zdrówka!

@@ -10,12 +10,12 @@ coverImage: "Flip-color@2x.png"
 ---
 
 W pełni zdalna praca w firmie z Los Angeles? To możliwe! Sprawdźcie najnowszą
-ofertę, są tam również konkretne kwoty :)
+ofertę, są tam również konkretne kwoty 😊
 
 Tym razem pracodawca przygotował dla Was prezentację - lubimy to i rekomendujemy
 innym firmom:
 
-<iframe style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/key/3Xr29FsJgAfgCY" width="595" height="485" frameBorder="0" marginwidth="0" marginheight="0" scrolling="no" allowFullScreen="allowFullScreen"></iframe>
+ <iframe style={{border: '1px solid #CCC', borderWidth: '1px', marginBottom: '5px', maxWidth: '100%'}} src="//www.slideshare.net/slideshow/embed_code/key/3Xr29FsJgAfgCY" width={595} height={485} frameBorder={0} marginWidth={0} marginHeight={0} scrolling="no" allowFullScreen="allowFullScreen" />
 
 Aplikować możecie bezpośrednio na
 [stronie z ogłoszeniem](https://justjoin.it/offers/flipfit-technical-writer), 
@@ -90,4 +90,4 @@ item 922 as amended."_
 
 ---
 
-Powodzenia! :)
+Powodzenia! 😊

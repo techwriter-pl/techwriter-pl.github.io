@@ -17,7 +17,7 @@ wykorzystania czegoś (rzadziej kogoś) jeszcze raz. Można zaryzykować
 stwierdzenie, że pojawienie się tego zwrotu w langłydżu codziennym ma swoje
 źródła w informatyce, gdzie swego czasu było bardzo popularnym bazłordem.
 [Tradycyjnie spotykane w bibliotekach.](http://foldoc.org/reusability) Czy jakoś
-tak...;). Osobnicy sprawni w reużywaniu i marketingu mają duże szanse na awans -
+tak...😉. Osobnicy sprawni w reużywaniu i marketingu mają duże szanse na awans -
 niezależnie od tego czy dane reużycie ma sens czy nie. Dlaczego? Ponieważ
 reużywanie kojarzy się zazwyczaj z ograniczaniem/cięciem kosztów. Można więc
 zaryzykować stwierdzenie, że reużywanie nie ma nic wspólnego z używaniem życia,

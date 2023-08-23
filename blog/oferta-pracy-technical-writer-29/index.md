@@ -9,7 +9,7 @@ tags:
 coverImage: "Novomatic_logo.png"
 ---
 
-W Krakowie... no dobra, pod Krakowem ;). Ale i tak ciekawa oferta. Może jakiś
+W Krakowie... no dobra, pod Krakowem 😉. Ale i tak ciekawa oferta. Może jakiś
 tłumacz się skusi?
 
 Aplikować możecie

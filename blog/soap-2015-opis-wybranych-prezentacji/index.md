@@ -199,7 +199,7 @@ już 254 dni.
 Ciekawe jest również to, że nasz mózg ma tylko 3 miejsca na ważne rzeczy.
 Dlatego stawianie sobie większej ilości ważnych celów nie ma sensu, bo i tak nie
 będziemy w stanie ich zrealizować. Warto o tym pamiętać podczas określania
-kolejnych celów rocznych z przełożonym ;)
+kolejnych celów rocznych z przełożonym 😉
 
 Pomimo tego, że prezentacja nie była związana z tematem konferencji, to widać
 było, że uczestnicy bardzo uważnie słuchali prowadzącego. Było to przyjemne

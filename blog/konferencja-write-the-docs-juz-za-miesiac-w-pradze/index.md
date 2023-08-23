@@ -17,7 +17,7 @@ krokami. Przeczytajcie jak można się tam dostać i czego się spodziewać.
 Tak było rok temu - jako patron medialny byliśmy oczywiście obecni i uraczyliśmy
 Was
 [szczegółową relacją](http://techwriter.pl/write-the-docs-europe-2016-relacja/)
-:). Zainteresowanych genezą konferencji zachęcamy do
+😊. Zainteresowanych genezą konferencji zachęcamy do
 [lektury wprowadzającej do tematu](http://techwriter.pl/poznajcie-write-the-docs-europe/).
 Co jeszcze można dodać - też tam byliśmy, piwo piliśmy, nawet syr zjedliśmy -
 zdecydowanie polecamy to miejsce, tych ludzi i ten klimat!
@@ -55,7 +55,7 @@ Australii, Czech, Węgier, USA, a nawet Polski!
 Pod względem współczynnika cena/jakość ta konferencja nie ma konkurencji. Jeśli
 nie chcecie prosić managera - wystarczy 150 Euro. Studenci i bezrobotni płacą
 połowę stawki. Jeśli to firma finansuje Wam pobyt to z budżetu znika 250 Euro,
-plus wydatki na hotel i dojazd (polecamy nocny autobus :)). Dodatkowa
+plus wydatki na hotel i dojazd (polecamy nocny autobus 😊). Dodatkowa
 przejażdzka (przepłynka?) łodzią kosztuje dychę - można zabrać rodzinę i
 znajomych. Wszystkie opcje z dokładnym opisem oraz możliwością zakupu dostępne
 [tutaj](https://ti.to/writethedocs/write-the-docs-eu-2017/).

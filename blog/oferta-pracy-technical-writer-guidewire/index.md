@@ -22,4 +22,4 @@ w [ogłoszeniu na stronie pracodawcy](https://careers.guidewire.com/jobs/view/o
 znajdziecie również link do aplikowania).
 
 Ze swojej strony zachęcamy do aplikowania - fajna praca w fajnej firmie
-:)[![](images/tech_writer_guidewire.png)](http://techwriter.pl/wp-content/uploads/2019/01/tech_writer_guidewire.png)
+😊[![](images/tech_writer_guidewire.png)](http://techwriter.pl/wp-content/uploads/2019/01/tech_writer_guidewire.png)

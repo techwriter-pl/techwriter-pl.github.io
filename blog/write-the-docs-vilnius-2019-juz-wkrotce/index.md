@@ -13,7 +13,7 @@ coverImage: "Zrzut-ekranu-2019-04-17-o-22.38.56-e1555533727865.png"
 
 Już za niespełna dwa tygodnie czeka nas pierwsza edycja konferencji Write the
 Docs Vilnius 2019. Poniżej garść najważniejszych informacji. Może ktoś z Was się
-jeszcze skusi ;-)
+jeszcze skusi 😉
 
 ### Co, gdzie i kiedy?
 

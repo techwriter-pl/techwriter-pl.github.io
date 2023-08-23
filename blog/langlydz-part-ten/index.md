@@ -18,7 +18,7 @@ dokładniej rzecz biorąc jednemu, konkretnemu gatunkowi - należy go czytać
 głośno, modulując przy tym głos na podobieństwo Krystyny Czubówny, mniej więcej
 tak jak w poniższym filmie instruktażowym.
 
-<iframe src="//www.youtube.com/embed/OYaa61lFLqA" height="315" width="560" allowFullScreen frameBorder="0"></iframe>
+<iframe src="//www.youtube.com/embed/OYaa61lFLqA" height={315} width={560} allowFullScreen frameBorder={0} />
 
 Przećwiczyliście sobie? No to do rzeczy.
 

@@ -144,9 +144,9 @@ są używane zamiennie, ponieważ te terminy są dość płynne, a obowiązki cz
 pokrywają.
 
 Developer Advocate bynajmniej nie jest osobą reprezentującą w firmie
-developerów, która negocjuje dla nich najwyższe podwyżki ;) Wobec jeszcze
+developerów, która negocjuje dla nich najwyższe podwyżki 😉 Wobec jeszcze
 słabego nagłośnienia tego stanowiska, niektórzy słysząc samą nazwę potrafią snuć
-bardzo ciekawe domysły ;)
+bardzo ciekawe domysły 😉
 
 Mam nadzieję, że ten artykuł choć w minimalnym stopniu przyczyni się do lepszego
 rozumienia tej wymagającej roli.

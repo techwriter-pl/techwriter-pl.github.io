@@ -18,7 +18,7 @@ pora na uzupełnienie informacji i ponowne zachęcenie Was do wycieczki za ocean
 
 Przypominamy, że konferencja odbędzie się w dniach 2-5 kwietnia i będzie
 wypełniona po brzegi zarówno mnóstwem informacji, jak i atrakcjami dodatkowymi,
-o których piszemy poniżej ;-)
+o których piszemy poniżej 😉
 
 ### Prelekcje i nie tylko
 
@@ -58,7 +58,7 @@ znajdziecie
 [tutaj](http://www.madcapsoftware.com/events/madworld/workshop.aspx).
 
 A podczas przerw oraz wieczorów czeka Was sporo okazji do tego, by się poznać,
-zawrzeć nowe znajomości, a także dobrze się bawić w gronie ciekawych osób ;-)
+zawrzeć nowe znajomości, a także dobrze się bawić w gronie ciekawych osób 😉
 
 ![](images/photo-lounge2-946-1x-e1485467698950.jpg)
 
@@ -94,7 +94,7 @@ I co o tym myślicie? Nam bardzo podoba się zakres tematyczny prelekcji, a tak�
 oferta wydarzeń poza nimi. Ponadto udział w konferencji daje nam możliwość
 spędzenia kilku dni w słonecznej Kalifornii przez co możemy połączyć kwestie
 zawodowe z wakacjami. Dlatego nie ma co zwlekać - najwyższy czas zacząć
-organizować budżet na wyjazd :)
+organizować budżet na wyjazd 😊
 
 _Zdjęcia pochodzą ze
 [strony organizatora](http://www.madcapsoftware.com/events/madworld/)_

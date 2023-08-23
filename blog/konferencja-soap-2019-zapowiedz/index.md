@@ -52,7 +52,7 @@ Jaki jest zatem ramowy program tegorocznego soap!?
 - Drugi dzień – rejestracja, powitanie, prelekcje – 11 prezentacji z przerwami
   na kawę oraz obiad. Po prelekcjach nastąpi uroczyste zakończenie połączone z
   dobrze już znanym networkingiem. Następnie organizatorzy zapraszają na imprezę
-  ;-)
+  😉
 - Trzeci dzień – rejestracja, powitanie, prelekcje – 12 prezentacji z przerwami
   na kawę oraz obiad. Po prelekcjach nastąpi uroczyste zakończenie, a dla
   chętnych odbędzie się after party w [Tea Time](http://www.teatimebrewpub.pl/)
@@ -64,7 +64,12 @@ Rejestracja już trwa. Obecnie do wyboru są cztery typy biletów. Podane niżej
 ceny obowiązują **do 30 kwietnia**. Od 1 maja ceny biletów ulegną zmianie.
 Szczegóły znajdziecie [tutaj](https://soap2019.evenea.pl/).
 
-<table style="height: 439px; width: 492px;" width="587"><tbody><tr style="height: 20px;"><td style="width: 320px; height: 20px;"><span style="font-weight: 400;">Rodzaj biletu</span></td><td style="width: 80px; height: 20px;"><span style="font-weight: 400;">Cena</span></td></tr><tr style="height: 40px;"><td style="width: 320px; height: 40px;"><span style="font-weight: 400;">Late bird student (-50%) - dla studentów do 26 r.ż.; wymagana legitymacja</span></td><td style="width: 80px; height: 40px;"><span style="font-weight: 400;">500 zł</span></td></tr><tr style="height: 40px;"><td style="width: 320px; height: 40px;"><span style="font-weight: 400;">Late bird group 6+ (-20%)</span></td><td style="width: 80px; height: 40px;"><span style="font-weight: 400;">800 zł</span></td></tr><tr style="height: 40px;"><td style="width: 320px; height: 40px;"><span style="font-weight: 400;">Late bird group 3-5 (-10%)</span></td><td style="width: 80px; height: 40px;"><span style="font-weight: 400;">900 zł</span></td></tr><tr style="height: 40px;"><td style="width: 320px; height: 40px;"><span style="font-weight: 400;">Late bird individual</span></td><td style="width: 80px; height: 40px;"><span style="font-weight: 400;">1000 zł</span></td></tr></tbody></table>
+| Rodzaj biletu                                                             | Cena    |
+| ------------------------------------------------------------------------- | ------- |
+| Late bird student (-50%) - dla studentów do 26 r.ż.; wymagana legitymacja | 500 zł  |
+| Late bird group 6+ (-20%)                                                 | 800 zł  |
+| Late bird group 3-5 (-10%)                                                | 900 zł  |
+| Late bird individual                                                      | 1000 zł |
 
 Cena obejmuje dwa dni konferencji (6-7 czerwca) czyli prezentacje, a także
 rozrywki przewidziane przez organizatorów – przerwy na kawę, przerwy obiadowe,

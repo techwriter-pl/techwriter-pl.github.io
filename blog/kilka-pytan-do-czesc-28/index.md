@@ -12,7 +12,7 @@ coverImage: "wywiad_28.png"
 
 Przed Wami kolejna odsłona cyklu *Kilka pytań do...* Tym razem na nasze pytania
 odpowiada Julia Dąbrowska, który niedawno dołączyła do grona towarzystwa ludzi
-piśmiennych technicznie ;) Jak to się wszystko zaczęło i co może poradzić osobom
+piśmiennych technicznie 😉 Jak to się wszystko zaczęło i co może poradzić osobom
 stawiającym pierwsze kroki w tej roli? Zapraszamy poniżej.
 
 ### 1\. Jak długo pracujesz jako technical writer?

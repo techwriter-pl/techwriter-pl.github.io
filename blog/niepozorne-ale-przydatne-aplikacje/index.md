@@ -20,7 +20,7 @@ jednym z pierwszych skojarzeń są karteczki samoprzylepne, bardziej znane jako
 Sticky Notes. Windows oferuje nam wbudowaną aplikację pod taką nazwą, która
 prawdopodobnie wielu osobom w zupełności wystarcza. Głównym czynnikiem, który
 nas popchnął do szukania innych "karteczek" była... domyślna czcionka, której
-nie mogliśmy znieść :) Okazało się, że jej zmiana na coś bardziej ludzkiego
+nie mogliśmy znieść 😊 Okazało się, że jej zmiana na coś bardziej ludzkiego
 wiązała się z grzebaniem w rejestrze, dlatego postanowiliśmy znaleźć
 alternatywę. W taki oto sposób natknęliśmy się na
 [Simple Sticky Notes](http://www.simplestickynotes.com/). Oczywiście oprócz
@@ -105,4 +105,4 @@ się powiększyć, a zawarty w nim tekst jest kiepsko sformatowany. Twórcy prog
 f.lux postawili z kolei na [FAQ](https://justgetflux.com/faq.html) i
 [forum](https://justgetflux.com/forum/). Jest to zdecydowanie najbardziej
 rozbudowana pomoc ze wszystkich trzech aplikacji. Czy taka ilość dokumentacji
-jest wystarczająca? To już pozostawiamy Waszej ocenie :)
+jest wystarczająca? To już pozostawiamy Waszej ocenie 😊

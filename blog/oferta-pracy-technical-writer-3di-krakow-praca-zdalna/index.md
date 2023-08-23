@@ -22,7 +22,7 @@ Aplikować możecie wysyłając CV i list motywacyjny na adres:
 [contact@3di-info.com](mailto:contact@3di-info.com). Ogłoszenie poniżej, zawiera
 widełki płacowe, oryginał znajdziecie oczywiście również na
 [na stronie Waszego potencjalnego nowego pracodawcy](https://3di-info.com/technical-writer-krakow/)
-:)
+😊
 
 ---
 

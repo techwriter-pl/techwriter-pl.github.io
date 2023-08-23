@@ -16,7 +16,7 @@ umiejętności. Dzisiaj chcemy Wam przedstawić kilka wskazówek jak pisać skut
 instrukcje. Przepis pochodzi z [blogu](http://lauraschneider.hubpages.com/)
 Laury Schneider. Oryginalny artykuł można znaleźć
 [tutaj](http://lauraschneider.hubpages.com/hub/How-to-write-better-computer-instructions).
-Poniżej przedstawiamy streszczenio-tłumaczenio-interpretację tegoż artykułu. :)
+Poniżej przedstawiamy streszczenio-tłumaczenio-interpretację tegoż artykułu. 😊
 
 ## Postaw się w sytuacji użytkownika
 

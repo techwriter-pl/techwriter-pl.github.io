@@ -44,7 +44,7 @@ Oczywiście możemy też skorzystać z emulatorów urządzeń mobilnych lub po p
 zmienić w ustawieniach przeglądarki jej rozmiar. Przekonaliśmy się jednak, że
 takie rozwiązania nie zawsze wiernie oddają układ wyświetlany na ekranie
 urządzenia. Występują pewne różnice, które mogą okazać się kluczowe w sytuacjach
-gdzie jeden piksel w lewo lub w prawo ma znaczenie :) W przypadku Vysora nie
+gdzie jeden piksel w lewo lub w prawo ma znaczenie 😊 W przypadku Vysora nie
 musimy się o to martwić, ponieważ widzimy dokładnie to samo na komputerze i na
 ekranie urządzenia mobilnego.
 
@@ -114,4 +114,4 @@ Następnie, wykonaj poniższe kroki:
 Na koniec mamy dla Was jeszcze jedną wskazówkę. Żeby ekran telefonu nie wygaszał
 się automatycznie, otwórz w telefonie **Ustawienia > Opcje programisty** i
 aktywuj opcję **Pozostaw ekran włączony**. Dzięki temu ekran telefonu nie będzie
-wygaszał się w trakcie ładowania telefonu. Miłego testowania :)
+wygaszał się w trakcie ładowania telefonu. Miłego testowania 😊

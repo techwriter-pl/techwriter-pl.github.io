@@ -20,7 +20,7 @@ zabraknąć podczas zeszłorocznej edycji. Chętnych zapraszamy do zapoznania si
 [naszą relacją](http://techwriter.pl/relacja-z-write-the-docs-prague-2020-online/).
 Osoby, które jeszcze nie znają historii wydarzenia odsyłamy do
 [tekstu wprowadzającego](http://techwriter.pl/poznajcie-write-the-docs-europe/)
-;-). Od siebie możemy dodać, że udział w konferencji Write the Docs to nie tylko
+😉. Od siebie możemy dodać, że udział w konferencji Write the Docs to nie tylko
 solidna porcja wiedzy, ale też gwarancja świetnej atmosfery oraz spotkania z
 rewelacyjnymi ludźmi z branży, nawet w tak trudnych czasach jak obecne.
 
@@ -29,7 +29,7 @@ rewelacyjnymi ludźmi z branży, nawet w tak trudnych czasach jak obecne.
 Tegoroczna edycja Write the Docs Prague online odbędzie się w dniach **3-5
 października 2021** **roku**. Jak w zeszłym, tak i w tym roku, organizatorzy
 zachęcają, by dzień poprzedzający wydarzenie spędzić na zwiedzaniu okolic, w
-których mieszkacie ;-) W pierwszym dniu konferencji, to jest 3 października,
+których mieszkacie 😉 W pierwszym dniu konferencji, to jest 3 października,
 odbędzie się **Writing Day** czyli zespołowe pisanie oraz rozwiązywanie
 problemów związanych z zadaniem. Ćwiczenia z umiejętności pisarskich będą
 doskonałym wstępem dla prelekcji i wykładów, które będą miały miejsce 4 i 5

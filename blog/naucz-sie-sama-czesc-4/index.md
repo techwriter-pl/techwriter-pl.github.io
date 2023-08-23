@@ -145,4 +145,4 @@ nagłówkach rzeczowników, które uporządkują elementy w kategorie, np.
 Na koniec jeszcze rada dotycząca aplikowania na stanowisko Technical Writera:
 sprawdź dokładnie swoje CV pod kątem błędów - aplikacja z literówkami albo
 błędami gramatycznymi na wstępie wyeliminuje Cię jako potencjalnego kandydata
-lub kandydatkę :)
+lub kandydatkę 😊

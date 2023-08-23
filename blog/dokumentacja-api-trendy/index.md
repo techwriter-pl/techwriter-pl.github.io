@@ -9,7 +9,7 @@ tags:
 coverImage: "API-e1582271331202.png"
 ---
 
-API nAPIera ;) Czego się spodziewać i na czym wzorować tworząc tego typu
+API nAPIera 😉 Czego się spodziewać i na czym wzorować tworząc tego typu
 dokumentację? Wygrzebaliśmy dla Was trochę przydatnych informacji.
 
 Jeśli nie zetknęliście się jeszcze z tematyką - nieskromnie polecamy
@@ -33,7 +33,7 @@ podrozdział "API Documentation and Usability"!
 
 [Całość raportu jest dostępna całkowicie za darmo tutaj.](https://static1.smartbear.co/smartbearbrand/media/pdf/smartbear_state_of_api_2019.pdf)
 
-Znając Wasze lenistwo wklejamy kilka najciekawszych wykresów ;)
+Znając Wasze lenistwo wklejamy kilka najciekawszych wykresów 😉
 
 ![](images/API-documentation-process.png)
 
@@ -58,7 +58,7 @@ dokumentacji dla programistów:
 
 ![](images/Narzędzia-API-dokumentacja.png)
 
-Ależ Przydatne Informacje (API) chciałoby się krzyknąć! :)
+Ależ Przydatne Informacje (API) chciałoby się krzyknąć! 😊
 
 Przy okazji - jeżeli tworzycie treści dla programistów, albo znacie kogoś kto
 się tym zajmuje - pomóżcie zebrać więcej danych do tego raportu. Wystarczy kilka
@@ -72,7 +72,7 @@ specjalisty:
 https://nordicapis.com/5-examples-of-excellent-api-documentation/
 
 Nie są może najświeższe, ale wciąż prezentują pewien (ponadprzeciętny) poziom,
-do którego większość firm stara się dopiero dojść. Czego i Wam życzymy :)
+do którego większość firm stara się dopiero dojść. Czego i Wam życzymy 😊
 
 P.S. Zapraszamy na nasz
 [profil na LinkedIn](https://www.linkedin.com/company/techwriter-pl)!

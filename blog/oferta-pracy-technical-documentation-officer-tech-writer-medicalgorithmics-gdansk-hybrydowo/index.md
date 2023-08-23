@@ -10,13 +10,13 @@ coverImage: "MedicalAlgorithmics_logo.jpg"
 ---
 
 Dziś oferta z branży MedTech. Dobrze, że są w Polsce takie firmy. Jeszcze
-lepiej, że mają oferty pracy dla takich jak my :)
+lepiej, że mają oferty pracy dla takich jak my 😊
 
 [Medicalgorithmics](https://www.medicalgorithmics.pl/) to polska firma, tworząca
 m.in. rozwiązania technologiczne dla kardiologii i telemedycyny. Na filmie
 poniżej możecie zobaczyć jakie technologie wykorzystuje w swoich projektach:
 
-<iframe src="https://player.vimeo.com/video/340165302?h=b04402fb08&amp;title=0&amp;byline=0&amp;portrait=0" width="320" height="180" frameBorder="0" align="center" allowFullScreen="allowFullScreen"><span style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" data-mce-type="bookmark" className="mce_SELRES_start">﻿</span></iframe>
+<iframe src="https://player.vimeo.com/video/340165302?h=b04402fb08&title=0&byline=0&portrait=0" width="{320}" height="{180}" frameBorder="{0}" align="center" allowFullScreen="allowFullScreen">&amp;lt;span style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" data-mce-type="bookmark" className="mce_SELRES_start"&amp;gt;﻿&amp;lt;/span&amp;gt;</iframe>
 
 Ciekawe, czyżn't?
 

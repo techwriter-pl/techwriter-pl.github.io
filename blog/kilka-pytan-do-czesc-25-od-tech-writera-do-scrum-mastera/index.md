@@ -105,7 +105,7 @@ częścią.
 Na pewno dociekliwość i chęć “drążenia” różnych tematów pomaga w jednym z
 głównych obowiązków scrum mastera - a więc usuwaniu impedimentów, które blokują
 zespół. Kluczowe są umiejętności związane z komunikacją, zadawaniem pytań, są to
-więc tematy bliskie dokumentalistom. Tylko pyta się o trochę inne rzeczy. :) Na
+więc tematy bliskie dokumentalistom. Tylko pyta się o trochę inne rzeczy. 😊 Na
 pewno dokładność, dbałość o szczegóły, samoorganizacja również pomagają - skoro
 stajemy się odpowiedzialni za proces scrumowy, warto upewniać się, że w backlogu
 panuje porządek, zadania na sprint są przypisane i wycenione, zapytania są

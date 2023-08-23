@@ -40,7 +40,11 @@ Rejestracja już trwa. Obecnie mamy do wyboru trzy typy biletów. Podane niżej
 ceny obowiązują do 28 lutego. 1 marca ceny biletów ulegną zmianie. Szczegóły
 znajdziecie [tutaj](https://soap-2018-the-best-content-conference.evenea.pl/).
 
-<table className=" aligncenter" style="width: 340px;"><tbody><tr><td style="width: 186.12px;"><p style="text-align: left;"><b>Rodzaj biletu</b></p></td><td style="width: 66.88px;"><b>Cena</b></td></tr><tr><td style="width: 186.12px;"><span style="font-weight: 400;">2 dni konferencji (24-25 maja)</span></td><td style="width: 66.88px;"><span style="font-weight: 400;">560,01 zł</span></td></tr><tr><td style="width: 186.12px;"><span style="font-weight: 400;">1 dzień konferencji (24 maja)</span></td><td style="width: 66.88px;"><span style="font-weight: 400;">320,00 zł</span></td></tr><tr><td style="width: 186.12px;"><span style="font-weight: 400;">1 dzień konferencji (25 maja)</span></td><td style="width: 66.88px;"><span style="font-weight: 400;">320,00 zł</span></td></tr></tbody></table>
+| Rodzaj biletu                  | Cena      |
+| ------------------------------ | --------- |
+| 2 dni konferencji (24-25 maja) | 560,01 zł |
+| 1 dzień konferencji (24 maja)  | 320,00 zł |
+| 1 dzień konferencji (25 maja)  | 320,00 zł |
 
 Cena obejmuje wszystkie prezentacje oraz warsztaty (poza Edu Summit), a także
 rozrywki przewidziane przez organizatorów – przerwy na kawę, przerwy obiadowe,

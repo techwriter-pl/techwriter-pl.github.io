@@ -37,7 +37,7 @@ widząc w nich raczej potencjał dla twórców treści niż dla tech writerów. 
 teraz.
 
 Nie jestem ekspertem od żadnych sieci neuronowych ani tych biologicznych, ani
-algorytmicznych :) Niemniej postanowiłem poruszyć własnymi sieciami neuronowymi,
+algorytmicznych 😊 Niemniej postanowiłem poruszyć własnymi sieciami neuronowymi,
 żeby dowiedzieć się czegoś więcej.
 
 W ramach przygotowań skonsultowałem się z kilkoma ekspertami różnych dziedzin,
@@ -239,7 +239,7 @@ dostałem odpowiedź.
 ![](images/20180917-043005-b7a54545-01f2-4f6b-a51a-cb989b6dfea9-pv_web-e1682345299558.jpg)
 
 Na koniec poprosiłem o uproszczenie na poziomie 6-letniego dziecka - dostałem
-opis dziwnej zabawy piłko-granatem ;) Dzieci! Nie róbcie tego w domu!
+opis dziwnej zabawy piłko-granatem 😉 Dzieci! Nie róbcie tego w domu!
 
 [![](images/upload_0422-150x150.png)](http://techwriter.pl/wp-content/uploads/2023/04/upload_0422.png)
 
@@ -263,7 +263,7 @@ przewidzieć jak technologie się rozwiną i jakie będą tego społeczne reperk
 
 Kolejny problem - mechanizm działania sztucznej inteligencji wymaga dużej ilości
 prądu, a prąd jest drogi
-:)[![](images/download-12-1-1024x1024.png)](http://techwriter.pl/wp-content/uploads/2023/04/download-12-1.png)
+😊[![](images/download-12-1-1024x1024.png)](http://techwriter.pl/wp-content/uploads/2023/04/download-12-1.png)
 
 # Zastosowania
 
@@ -345,7 +345,7 @@ screen, bo jest komiczny i dobrze pokazuje istniejące
 ograniczenia:[![](images/upload_0415-300x121.png)](http://techwriter.pl/wp-content/uploads/2023/04/upload_0415.png)Wiem,
 że pytanie zostało zadane niedbale. Niemniej bawi mnie, że na pytanie "_czy
 olejować nogi od stołu_" dowiaduje się, że jeśli je zaolejuję, to będą
-zaolejowane. I amen. ;)
+zaolejowane. I amen. 😉
 
 Domyślam się, że w bazie danych były głównie artykuły o olejowaniu blatów stołów
 i model nie potrafił utworzyć oryginalnej odpowiedzi na zadany problem. I jak
@@ -369,7 +369,7 @@ jak ludzie.
 Raczej te wszystkie obietnice na wyrost dotyczące ChatGPT faktycznie się nie
 ziszczą, a nasz asystent, Clippy 2.0, pomoże nam skrobnąć maila, odhaczyć nudną
 prezentację i wybierze przepis na chrupkiego kurczaka i to będzie jego realny
-wpływ na nasze życie. Mamy postęp jaki mamy, proszę nie narzekać ;)
+wpływ na nasze życie. Mamy postęp jaki mamy, proszę nie narzekać 😉
 
 Warto patrzyć trzeźwym okiem na nowiny, za pół roku może naszą uwagę pochłonie
 coś innego, choć wiele wskazuje, że innowacje AI pozostaną trendem, który będzie
@@ -391,7 +391,7 @@ ChatGPT pomoże upewnić się, że tekst spełnia normy
 Przykład konwersacji w
 temacie:[![](images/upload_0416-455x1024.png)](http://techwriter.pl/wp-content/uploads/2023/04/upload_0416.png)Niezależnie
 od tego, czy aplikacja może posłużyć do sprawdzania tekstu pod kątem STE, i tak
-zamierzam uzyskać certyfikat STE w tym roku ;)
+zamierzam uzyskać certyfikat STE w tym roku 😉
 
 Poza tym wciąż nierozwiązany zostaje problem poufności danych. Sławomir
 Radzymiński przedstawił świetną wizję - w jakieś przyszłości firmy będą
@@ -428,7 +428,7 @@ Sam nie obraziłbym się, gdyby możliwe się stało:
 - trenowanie na tekstach wzorcowych i pomoc w ujednolicaniu sposobu pisania w
   różnych materiałach,
 - agregowanie nowinek w świecie AI za pomocą systemu AI, który proponuje
-  rozwiązania mające zastosowanie w dokumentacji i wokół niej. AI-INCEPCJA! ;-)
+  rozwiązania mające zastosowanie w dokumentacji i wokół niej. AI-INCEPCJA! 😉
 
 # Demokratyzacja pisania
 
@@ -464,14 +464,14 @@ nabytą na lekcji polskiego w liceum). Jeśli zarabiasz na życie piórem, możl
    Ustal kryteria i daj wyczerpujące informacje. Domagaj się ulepszeń aż efekt
    będzie osiągnięty.
 8. Tak jak nie zachwycamy się już mocą wyszukiwarki Google polecam wyzbyć się
-   zachwytu nad "genialnością" ChatGPT (szczególnie, że to mały ściemniacz ;).
+   zachwytu nad "genialnością" ChatGPT (szczególnie, że to mały ściemniacz 😉.
 9. ChatGPT to model językowy. Nie oczekuj od niego pełnego zrozumienia zasad
    matematyki czy innych ścisłych dziedzin, choć zaserwuje Ci odpowiedzi na
    bazie dostępnych materiałów.
 10. Nigdy nie podawaj informacji poufnych o sobie i Twojej firmie.
 11. Nie stosuj uzyskanych tekstów i informacji bezrefleksyjnie. Sprawdź źródła.
     Styl pisania chat bota łatwo rozpoznać - uważaj z bezpośrednim kopiowaniem,
-    żeby nie było obciachu ;)
+    żeby nie było obciachu 😉
 12. Potraktuj go jako sparring partnera do przećwiczenia rozmów na interesujące
     Cię tematy lub jako zaczyn do szukania nowych pomysłów.
 13. ChatGPT potrafi pisać w sugestywny sposób. Ludzie czytając dobrze
@@ -517,7 +517,7 @@ Przepowiednia Nostradamusa.
 
 Pewne jest, że ChatGPT będzie coraz sprawniejszy. Czekamy na narzędzia, które
 pozwolą w wygodny sposób generować tekst, obrazy, a nawet całe filmy. Kto wie,
-może sztuczna inteligencja będzie robić za nas zakupy w internecie ;)
+może sztuczna inteligencja będzie robić za nas zakupy w internecie 😉
 
 Liczę, że powszechnie do obiegu wejdą ułatwienia do automatycznego tworzenia:
 
@@ -575,7 +575,7 @@ Materiały które wywarły wpływ na to co piszę i warto się z nimi zapoznać.
 Grafiki wygenerowane z pomocą
 [Dale-E mini](https://huggingface.co/spaces/dalle-mini/dalle-mini) i
 [Crayon](https://www.craiyon.com/). Pewnie Was to zaskoczy, ale nie, ChatGPT nie
-napisał tego artykułu ;) Dostałem za to sporo odpowiedzi o nim samym.
+napisał tego artykułu 😉 Dostałem za to sporo odpowiedzi o nim samym.
 
 ---
 

@@ -13,7 +13,7 @@ coverImage: "wtd_2020.png"
 ---
 
 Powoli zbliża się tegoroczna edycja konferencji Write the Docs Prague. Podobnie
-jak w poprzednich latach, z przyjemnością objęliśmy to wydarzenie patronatem :)
+jak w poprzednich latach, z przyjemnością objęliśmy to wydarzenie patronatem 😊
 Poniżej znajdziecie garść najważniejszych informacji na jej temat.
 
 ### Co, gdzie i kiedy?
@@ -33,7 +33,7 @@ Skrótowy program wydarzenia wygląda następująco:
   otwarcie, pierwsze prelekcje,
   [Unconference](https://www.writethedocs.org/conf/prague/2020/unconference/)
   oraz wieczorna impreza zapoznawcza, podczas której możecie spodziewać się
-  muzyki oraz różnych gier ;).
+  muzyki oraz różnych gier 😉.
 - Wtorek (20 października) – drugi dzień konferencji – dalsze prelekcje,
   Unconference,
   [Job Fair](https://www.writethedocs.org/conf/prague/2020/job-fair/),
@@ -63,7 +63,7 @@ pozwoli im lepiej zrozumieć problemy i frustracje z jakimi borykają się nowo
 zatrudniane osoby, zwłaszcza w obecnej sytuacji panującej na świecie.
 
 **Matt Reiner “Bake a Little Documentation Love into Your Product”** -
-porównanie dokumentacji do deseru bardzo przypadło nam do gustu ;). W swojej
+porównanie dokumentacji do deseru bardzo przypadło nam do gustu 😉. W swojej
 prezentacji Matt pokaże jak ważne jest przekazywanie użytkownikom produktu wraz
 z dołączoną do niego dobrą dokumentacją. Z punktu widzenia UI ułatwia to
 korzystanie z produktu oraz zmniejsza ilość problemów zgłaszanych zespołom z
@@ -84,7 +84,7 @@ tematyką dokumentacji. Z własnego doświadczenia wiemy, że udział w Write th
 Docs to nie tylko zastrzyk nowej wiedzy, przekazanej w przystępny i
 profesjonalny sposób. Jest to także okazja do poznania wielu osób z branży, z
 którymi można świetnie spędzić czas. W tym roku nieco inaczej, bo przed
-monitorem, ale to także sposób na zdobycie nowego doświadczenia ;). Poniżej
+monitorem, ale to także sposób na zdobycie nowego doświadczenia 😉. Poniżej
 zapraszamy do naszych relacji z poprzednich edycji konferencji:
 
 - [Write the Docs  Prague 2019](http://techwriter.pl/nasza-relacja-z-write-the-docs-prague-2019/)

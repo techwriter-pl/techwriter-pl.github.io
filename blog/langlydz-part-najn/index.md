@@ -27,7 +27,7 @@ przez kontent rozumiemy wszystko, co ludzie przelewają na papier lub twardy
 dysk, bez zastanowienia czy ma to jakikolwiek sens. Duża część pracy
 techwriterów poświęcona jest właśnie
 poprawianiu/przerabianiu/tworzeniu/publikowaniu kontentu. Pierwsza wzmianka na
-ten temat pojawiła się już we fraszkach Kochanowskiego ;):
+ten temat pojawiła się już we fraszkach Kochanowskiego 😉:
 
 > _Gdy kontent [reużywany](http://techwriter.pl/langlydz-part-fri/),_
 >
@@ -46,7 +46,7 @@ pracy oraz duże możliwości rozwoju.
 Forma czasownikowa *kontentować* jest bardzo rzadko spotykana z powodu częstego
 mylenia z kontestowaniem.
 
-<iframe src="//www.youtube.com/embed/SAKMsmP1WCA" height="315" width="420" allowFullScreen frameBorder="0"></iframe>
+<iframe src="//www.youtube.com/embed/SAKMsmP1WCA" height={315} width={420} allowFullScreen frameBorder={0} />
 
 Wbrew pozorom temat kontentu jest jednak bardzo złożony i wymaga
 [systematycznego podejścia](http://techwriter.pl/content-strategy-tresciwa-strategia-czy-strategiczna-tresc/).

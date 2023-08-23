@@ -40,6 +40,6 @@ Nie liczymy na wiele tematów związanych z komunikacją techniczną, ale uważa
 projektami zza naszej wschodniej granicy. A przy okazji połączyć przyjemne
 zwiedzanie z pożytecznym networkingiem oraz przyszłość z przeszłością.
 
-<iframe src="https://www.youtube.com/embed/BvlF0zwolts" width="560" height="315" frameBorder="0" allowFullScreen="allowFullScreen"></iframe>
+<iframe src="https://www.youtube.com/embed/BvlF0zwolts" width={560} height={315} frameBorder={0} allowFullScreen="allowFullScreen" />
 
-<iframe src="https://www.youtube.com/embed/lHBiAhiddJ8" width="560" height="315" frameBorder="0" allowFullScreen="allowFullScreen"></iframe>
+<iframe src="https://www.youtube.com/embed/lHBiAhiddJ8" width={560} height={315} frameBorder={0} allowFullScreen="allowFullScreen" />

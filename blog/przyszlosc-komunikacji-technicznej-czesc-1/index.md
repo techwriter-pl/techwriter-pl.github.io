@@ -61,7 +61,7 @@ typu instrukcji jest dla nas dobrą informacją i wytycza potencjalny kierunek, 
 którym możemy podążać. Od siebie dorzucimy jeszcze jeden mocny argument, który
 powoduje, że Technical Writerzy będą potrzebni do takiej pracy - z doświadczenia
 wiemy, że ostatnią rzeczą jaką programista chce się zajmować, to pisanie
-dokumentacji. Woli ten czas spędzić na "kodzeniu" :) Inną kwestią są też
+dokumentacji. Woli ten czas spędzić na "kodzeniu" 😊 Inną kwestią są też
 predyspozycje takich osób do tworzenia instrukcji. Nawet jeśli umie to robić
 dobrze, to jesteśmy prawie pewni, że będzie to robił niechętnie. Ale to dobrze,
-bo dzięki temu nie umrzemy z głodu :)
+bo dzięki temu nie umrzemy z głodu 😊

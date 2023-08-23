@@ -13,7 +13,7 @@ coverImage: "season_of_docs.png"
 Ruszyła druga edycja inicjatywy Google
 [Season of Docs](https://developers.google.com/season-of-docs), której celem
 jest rozwój otwartego oprogramowania. Wy także możecie się przy okazji rozwinąć
-;) Poniżej znajdziecie najistotniejsze informacje.
+😉 Poniżej znajdziecie najistotniejsze informacje.
 
 ### Czym jest Season of Docs?
 
@@ -70,4 +70,4 @@ Naszym zdaniem, udział w tego typu programie to nie tylko świetna pozycja do
 wpisania w CV. Jest to także szansa na zdobycie nowej porcji wiedzy i
 umiejętności pod okiem doświadczonych specjalistów. Jesteśmy bardzo ciekawi, czy
 ktoś z Was brał już udział w Season of Docs i chciałby podzielić się z nami
-wrażeniami? ;-)
+wrażeniami? 😉

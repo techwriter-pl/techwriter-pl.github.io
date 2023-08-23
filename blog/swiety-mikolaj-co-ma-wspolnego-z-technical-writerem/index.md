@@ -58,7 +58,7 @@ przewidział, gdy na przykład utknie w kominie, także aby spełnić wszystkie
 Dla technical writera dostarczenie dokumentacji na czas wiąże się z przejrzeniem
 dużej ilość dokumentów, zapoznaniem się z produktem, zaplanowaniem zadań, aby na
 koniec sprostać wymaganiom klienta czy też użytkownika końcowego. Tak jak w
-przypadku Mikołaja nie zawsze udaje się to bez niespodzianek ;-).
+przypadku Mikołaja nie zawsze udaje się to bez niespodzianek 😉.
 
 ## **Listy, notatki, rysunki**
 
@@ -93,7 +93,7 @@ współpracuje. Rozumie dialekt product managera (jak pisać, by produkt się
 sprzedał), dialekt developera (jak prawidłowo opisać jak dana funkcja działa),
 dialekt operatora narzędzia (jak napisać prosto i praktycznie jak tego użyć).
 Można powiedzieć też, że technical writer tłumaczy z inżynierskiego na język
-zrozumiały dla klienta :). Często niby mówimy w tym samym języku, a jednak łatwo
+zrozumiały dla klienta 😊. Często niby mówimy w tym samym języku, a jednak łatwo
 o nieporozumienia.
 
 ## **Praca zespołowa**

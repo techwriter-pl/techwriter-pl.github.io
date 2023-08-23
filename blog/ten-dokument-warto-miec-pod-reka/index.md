@@ -23,7 +23,7 @@ Jeżeli nie wiecie jak ją obsługiwać - manual dostępny jest już za niecałe
 dolarów:
 
 **[Death Star Owner's Technical Manual](http://www.amazon.com/dp/0804176612?tag=rebelscumcom) -
-kawał dobrej dokumentacyjnej roboty. :)**
+kawał dobrej dokumentacyjnej roboty. 😊**
 
 Czekamy na instrukcje obsługi oka Saurona i materiały treningowe dla Rocky'ego.
 

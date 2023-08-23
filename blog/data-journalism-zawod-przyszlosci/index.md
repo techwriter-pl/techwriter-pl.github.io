@@ -15,13 +15,13 @@ oparte o dane robi się coraz bardziej popularne. Przeczytajcie na czym polega i
 jak można się go nauczyć.
 
 Skoro nawet dziennikarze Gazety Wyborczej stwierdzili, że warto pisać
-[artykuły oparte na faktach](http://biqdata.pl/) - musi coś w tym być ;).
+[artykuły oparte na faktach](http://biqdata.pl/) - musi coś w tym być 😉.
 Pociągnijmy więc temat, który zahacza nieco o wspomniany już przez nas jakiś
 czas temu [efekt SMAC](http://techwriter.pl/kwestia-smacu/).
 
 Jak podaje [Wikipedia](http://en.wikipedia.org/wiki/Data_journalism) - data
-journalism to... właściwie trudno powiedzieć co:). Spróbujmy więc zbudować naszą
-własną definicję - to po prostu odnoga (specjalizacja) dziennikarstwa,
+journalism to... właściwie trudno powiedzieć co 😊. Spróbujmy więc zbudować
+naszą własną definicję - to po prostu odnoga (specjalizacja) dziennikarstwa,
 charakteryzująca się wykorzystaniem dużej ilości danych numerycznych i
 przedstawianiem płynących z nich wniosków (często nieoczywistych) w łatwej do
 przyswojenia, graficznej formie. Często w formie
@@ -49,14 +49,14 @@ Jeżeli też tak uważacie - zapraszamy do źródeł i przykładów:
 
 Prezentacji wprowadzającej:
 
-<iframe style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/29022739" height="356" width="427" allowFullScreen frameBorder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<iframe style={{border: '1px solid #CCC', borderWidth: '1px', marginBottom: '5px', maxWidth: '100%'}} src="//www.slideshare.net/slideshow/embed_code/29022739" height={356} width={427} allowFullScreen frameBorder={0} marginWidth={0} marginHeight={0} scrolling="no" />
 
 **[ODC BarCamp 2013 - Introduction to Data Journalism](https://www.slideshare.net/opendevcam/odc-barcamp-2013-introduction-to-data-journalism "ODC BarCamp 2013 - Introduction to Data Journalism")**
 from **[Open Development Cambodia](http://www.slideshare.net/opendevcam)**
 
 Prezentacji praktycznej:
 
-<iframe style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/8795039" height="356" width="427" allowFullScreen frameBorder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<iframe style={{border: '1px solid #CCC', borderWidth: '1px', marginBottom: '5px', maxWidth: '100%'}} src="//www.slideshare.net/slideshow/embed_code/8795039" height={356} width={427} allowFullScreen frameBorder={0} marginWidth={0} marginHeight={0} scrolling="no" />
 
 **[Data Journalism](https://www.slideshare.net/m.lewis/data-journalism-8795039 "Data Journalism")**
 from **[Mitzi Lewis](http://www.slideshare.net/m.lewis)**

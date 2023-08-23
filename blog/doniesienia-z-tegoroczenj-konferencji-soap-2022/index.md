@@ -23,7 +23,7 @@ spotkania społeczności związanej z komunikacją techniczną, możliwość naw
 nowych znajomości, miejsce, w którym ludzie chętnie dzielą się wiedzą i
 opowiadają o swoich doświadczeniach, pierwszych krokach, błędach i sukcesach w
 tech writingu. Konferencja daje również możliwość spotkania się twarzą w twarz i
-porozmawiania,  nie zawsze na tematy techniczne :).
+porozmawiania,  nie zawsze na tematy techniczne 😊.
 
 ## Informacje ogólne
 
@@ -62,7 +62,7 @@ Trafił on do drużyny o wdzięcznej nazwie _Marzipans_ - "Marcepany" :-)
 
 Udział był niezwykle emocjonujący!
 
-Dowcipy prowadzących były godne samego Karola Strasburgera :)
+Dowcipy prowadzących były godne samego Karola Strasburgera 😊
 
 Co więcej, [Paweł Kowaluk i Michał Skowron](https://techwriterkoduje.pl/)
 opracowali prototyp sztucznej inteligencji wyświetlającej odpowiedzi uczestników
@@ -70,7 +70,7 @@ zabawy i zliczającej punkty. W trakcie show okazało się, że uzyskała świad
 i czasem decydowała się wyświetlać na telebimie więcej niż należało i w
 przypadku nietrafionych odpowiedzi miała szczególną awersję do wyświetlania zer.
 Także obie drużyny pojedynkowały się ze sobą, a prowadzący z krnąbrną, sztuczną
-inteligencją :)  Nieprzewidywalność algorytmu dodawała rozgrywce jeszcze więcej
+inteligencją 😊  Nieprzewidywalność algorytmu dodawała rozgrywce jeszcze więcej
 rumieńców.
 
 ###### [![](images/upload_033-1024x546.png)](http://techwriter.pl/wp-content/uploads/2022/07/upload_033.png)Smok mistrzem trzeciego planu.
@@ -115,7 +115,7 @@ Na warsztatach *"Japanese calligraphy"* poprowadzonych przez
 [Olgę Podsiadło](https://www.linkedin.com/in/olga-podsiad%C5%82o-969420225/)
 uczestnicy mieli okazję zdobyć podstawową wiedzę na temat kaligrafii japońskiej
 oraz przećwiczyć pisanie kilku zestawów kanji pod okiem prowadzącej. Całkiem
-ciekawe doświadczenie, zwłaszcza dla osób leworęcznych ;) .
+ciekawe doświadczenie, zwłaszcza dla osób leworęcznych 😉 .
 
 A jeśli jesteście ciekawi, jakie były pozostałe tematy, zajrzyjcie
 [tutaj](https://soapconf.com/workshops-schedule/). Może ktoś z Was chciałby się
@@ -124,7 +124,7 @@ podzielić swoimi doświadczeniami?
 ## Drugi i trzeci dzień
 
 Dni pełne ciekawych prezentacji i rozmów przy kawie, aż trudno było się
-zdecydować, czym się z Wami podzielić ;). Wybraliśmy kilka tematów, które
+zdecydować, czym się z Wami podzielić 😉. Wybraliśmy kilka tematów, które
 najbardziej nam się podobały.
 
 ### Wiarygodność informacji w internecie
@@ -210,8 +210,8 @@ wyodrębnić kilka istotnych punktów z prezentacji:
 Dla niektórych STE może być tekstem bez emocji, dziwnym lub nudnym. Shumin
 przekonywała, że poprzez uproszczenie języka może stać się on bardziej czytelny
 i praktyczny. STE może pomóc w oduczeniu się pisania długich, trudnych słów czy
-używania kwiecistego, jak łąka w lecie, języka oraz uniknąć wieloznaczności ;-)
-. Być może Wasze ciekawe projekty da się przekształcić w prostsze teksty.
+używania kwiecistego, jak łąka w lecie, języka oraz uniknąć wieloznaczności 😉 .
+Być może Wasze ciekawe projekty da się przekształcić w prostsze teksty.
 
 A jeśli chcecie wiedzieć co jest ważne, warto zwrócić uwagę na trzy aspekty:
 
@@ -253,12 +253,12 @@ ustalaniu/zatwierdzaniu i interpretacji danych. Trzeba będzie nauczyć się
 współpracować z robotami i wykorzystywać fakt, że maszyna jest szybsza
 obliczeniowo, ale nie ma intuicji czy kreatywności. Te ludzkie cechy można
 wykorzystać do tworzenia tekstów, a jednocześnie zaoszczędzić czas na zbieranie
-danych, które przygotuje dla Was maszyna ;-) Brzmi obiecująco!
+danych, które przygotuje dla Was maszyna 😉 Brzmi obiecująco!
 
 Płynące z tego wnioski: przystosujcie się, aby przetrwać! W nowej rzeczywistości
 warto być bardziej elastycznym i otwartym na to, co Was (i nas) czeka.
 Sprawdźcie swoje umiejętności krytycznego i kreatywnego myślenia, zdolności
-adaptacyjne (nauczcie się umiejętności, których brakuje robotom ;) ), takich 
+adaptacyjne (nauczcie się umiejętności, których brakuje robotom 😉 ), takich 
 właśnie cech, według CJ, będzie szukał pracodawca.
 
 ### Kursy i szkolenia w nowej rzeczywistości - plusy i minusy
@@ -421,7 +421,7 @@ wydać się skomplikowany, ale dzięki temu jest szansa na zwiększenie
 elastyczności, ograniczenie nakładów na ręczne stylizowanie treści czy wdrażanie
 zmian w wielu miejscach metodą "kopiuj-wklej".
 
-Nie bójcie się robić lepiej :)
+Nie bójcie się robić lepiej 😊
 
 ### Mrożąca krew w żyłach opowieść o zwariowanym projekcie
 
@@ -429,7 +429,7 @@ Nie bójcie się robić lepiej :)
 comm już 20 lat. Założyła własną firmę specjalizującą się w komunikacji
 technicznej. Obecnie realizuje się jako Senior Project Manager w Etteplan
 Finland Oy (skądinąd jest to firma, w której pracuje współautorka artykułu -
-Martyna :) ). Jej specjalnością jest opracowywanie uporządkowanej, modułowej
+Martyna 😊 ). Jej specjalnością jest opracowywanie uporządkowanej, modułowej
 struktury dla dokumentacji (np.: w DITA).
 
 W swojej prelekcji

@@ -121,7 +121,7 @@ nadajesz, spróbuj przeczytać jakiś skomplikowany wpis na Wikipedii, a potem
 przekazać komuś najważniejsze fakty. Jeśli czujesz, że robisz to nieźle i
 dostaniesz odpowiedni feedback, raczej będzie ok. Idź na staż albo zgłoś się do
 rekrutacji na stanowisko entry level. Pokaż entuzjazm i te cztery umiejętności.
-I już masz pierwszy krok za sobą! :)
+I już masz pierwszy krok za sobą! 😊
 
 Serdecznie dziękujemy Michałowi Hylińskiemu za to obszerne wprowadzenie w
 specyfikę jego zawodu. A chętnych po więcej wrażeń zza biurka techwriterskiego,

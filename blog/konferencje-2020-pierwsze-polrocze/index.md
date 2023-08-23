@@ -135,7 +135,7 @@ organizatorzy udostępniają liczne materiały online.
 
 3-5 maja, Portland, Oregon, USA -
 [Write the Docs Portland](http://www.writethedocs.org/conf/portland/2020/) -
-dotychczas pod naszym patronatem :) - przełożona na **9-11 sierpnia 2020**
+dotychczas pod naszym patronatem 😊 - przełożona na **9-11 sierpnia 2020**
 
 4-6 maja, San Diego, Kalifornia, USA -
 [Technology & Services World 2020](https://www.tsia.com/conference) \- odbędzie
@@ -198,7 +198,7 @@ lipca-31lipca** i **10 sierpnia-21 sierpnia 2020**
 września 2020**
 
 **3-5 czerwca, Kraków, Polska** - [soap! 2020](http://soapconf.com/) -
-dotychczas pod naszym patronatem ;-) - **odwołana**
+dotychczas pod naszym patronatem 😉 - **odwołana**
 
 3-5 czerwca, Berlin, Niemcy - [LocWorld42 Berlin](https://locworld.com/) -
 **odwołana**

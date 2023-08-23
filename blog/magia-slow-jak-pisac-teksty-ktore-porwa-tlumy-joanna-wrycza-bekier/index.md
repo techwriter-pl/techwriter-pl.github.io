@@ -11,7 +11,7 @@ coverImage: "IMG_0812.jpg"
 
 Wakacje to dla wielu z nas czas odpoczynku, łapania oddechu od nadmiaru
 obowiązków, domykania trudnych projektów i oczekiwania na nowe wezwania. Jest to
-też dobry czas na utrwalenie wiedzy lub jej poszerzenie ;-). Dlatego mamy dziś
+też dobry czas na utrwalenie wiedzy lub jej poszerzenie 😉. Dlatego mamy dziś
 dla Was propozycję lektury, która w ciekawy i przystępny sposób pokaże Wam jak
 wielka magia tkwi w słowach.
 
@@ -53,7 +53,7 @@ produktu, jaki mamy opisać w dokumentacji.
 
 Naszą szczególną uwagę przykuły lekcje, które co kilka rozdziałów pojawiały się
 w tekście. Początkowo byliśmy zdziwieni, bo przecież szkoła już dawno za nami
-;-). Jednak gdy nauczycielami zostają Ian Fleming, Ernest Hemingway, bracia
+😉. Jednak gdy nauczycielami zostają Ian Fleming, Ernest Hemingway, bracia
 Grimm, Agatha Christie czy Vincent van Gogh to aż chce się czytać i czerpać z
 ich doświadczenia. Autorka analizując ich dzieła i bazując na przykładach
 pokazuje jakimi sposobami można wpłynąć na czytelnika, by przykuć uwagę i

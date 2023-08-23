@@ -29,7 +29,7 @@ technicznym". Artykuł miał być krótki (maksymalnie jedna strona A4) i treśc
 a jednocześnie użyteczny zarówno dla początkujących, jak i nieco bardziej
 zaawansowanych dokumentalistów. Po przesłaniu tekstu do wykładowcy (pozdrawiam
 **Daniela Barrio Fierro**) otrzymałam entuzjastyczny feedback wraz z zachętą do
-ewentualnej publikacji. Ponieważ wykładowcom się nie odmawia ;-) artykuł ląduje
+ewentualnej publikacji. Ponieważ wykładowcom się nie odmawia 😉 artykuł ląduje
 niniejszym na gościnnych łamach Techwritera. Dla większości z was nie ma w nim
 zapewne niczego przełomowego, ale warto, aby nawet zaawansowani wrócili do
 korzeni :-)
@@ -77,11 +77,11 @@ poczujecie niedosyt i będziecie chcieli dodatkowo pogłębić temat.
 ### W trakcie tworzenia...
 
 5. Wyrażaj się **prosto** i unikaj żargonu branżowego - dobra dokumentacja nie
-   jest zrozumiała tylko dla zarozumiałych ;-) Jej funkcją jest rozwiewanie
+   jest zrozumiała tylko dla zarozumiałych 😉 Jej funkcją jest rozwiewanie
    wątpliwości, a dzięki jej istnieniu i jakości dział obsługi klienta będzie
    mieć mniej roboty.
 6. **Mniej znaczy więcej** - nie rozwlekaj się. Eliminuj informacje, które nie
-   są niezbędne. Wbrew pozorom ludzie nie lubią czytać ;-) a już na pewno nie
+   są niezbędne. Wbrew pozorom ludzie nie lubią czytać 😉 a już na pewno nie
    lubią czytać dokumentacji.
 7. Jeśli przyjęta w Twoim środowisku strategia tworzenia dokumentacji na to
    pozwala, zwracaj się do odbiorcy **bezpośrednio**, ale bez nadmiernej

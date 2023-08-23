@@ -27,7 +27,7 @@ generowania dokumentacji do różnych formatów. Okazało się, że jak najbardz
 mieliśmy rację. Za pomocą plików wsadowych (batch files) i skryptów napisanych w
 Pythonie udało nam się “pożenić” Jenkinsa z
 [Help and Manualem](http://techwriter.pl/help-and-manual-opis-narzedzia/) i póki
-co ten związek ma się całkiem dobrze ;) Postaram się w skrócie przedstawić
+co ten związek ma się całkiem dobrze 😉 Postaram się w skrócie przedstawić
 zastosowanie Jenkinsa na tym właśnie przykładzie.
 
 Zacznijmy od konfiguracji. Jenkins jest wieloplatformowy, więc można go
@@ -93,7 +93,7 @@ zajęło nam całkiem sporo czasu. Oprócz samego Jenkinsa, trzeba było
 skonfigurować projekty w Help and Manualu w odpowiedni sposób. Oczywiście
 wszystko zależy od przyjętego rozwiązania i umiejętności osób zaangażowanych,
 jednak trzeba się liczyć z tym, że czasami musi być ciężko, żeby potem było
-łatwo. Ot taka mądrość :)
+łatwo. Ot taka mądrość 😊
 
 Osoby zainteresowane zgłębieniem tematu odsyłam do
 strony [http://jenkins-ci.org/](http://jenkins-ci.org/).

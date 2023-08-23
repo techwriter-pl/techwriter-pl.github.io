@@ -12,7 +12,7 @@ Jeśli spotkaliście się kiedyś z takim błędem podczas generowania dokument�
 użyciu RoboHelpa 11, to bardzo możliwe, że poziom Waszej frustracji osiągnął
 absolutne maksimum. Dlatego tym bardziej mamy nadzieję, że opis problemu z jakim
 sami borykaliśmy się oraz rozwiązanie jakie udało nam się opracować pozwolą na
-ocalenie chociaż kilku dobrych ludzi przed utratą zmysłów ;)
+ocalenie chociaż kilku dobrych ludzi przed utratą zmysłów 😉
 
 ## Opis problemu
 
@@ -82,4 +82,4 @@ Obecnie znamy tylko takie rozwiązanie tego problemu. Pocieszające jest to, że
 działa i jest proste do zastosowania. Problem zgłosiliśmy do programistów
 RoboHelpa za pośrednictwem wsparcia technicznego. Otrzymaliśmy informację, że
 sprawa została zalogowana w ich systemie, jednak nie wiemy ile czasu minie zanim
-pojawi się jakieś rozwiązanie. Zapewne niemało ;)
+pojawi się jakieś rozwiązanie. Zapewne niemało 😉

@@ -57,7 +57,7 @@ już Wam [wspominaliśmy](http://techwriter.pl/konferencja-ua-europe-w-polsce/)
 [Congility 2014](http://www.congility.com/congility-2014/)
 
 15-18 lipca, Lizbona, Portugalia -
-[e-Learning](http://www.elearning-conf.org/) - pomysł na wakacyjny wyjazd? ;)
+[e-Learning](http://www.elearning-conf.org/) - pomysł na wakacyjny wyjazd? 😉
 
 W drugim półroczu również planowanych jest kilka konferencji, ale w większości
 przypadków dokładna data i lokalizacja nie są jeszcze znane. Będziemy trzymać

@@ -9,7 +9,7 @@ tags:
 coverImage: "Oferta_handsontable.png"
 ---
 
-Wszystkie ręce na... stół :) Poszukiwany utalentowany techwriter!
+Wszystkie ręce na... stół 😊 Poszukiwany utalentowany techwriter!
 
 Twórca wykorzystywanego przez programistów na całym świecie komponentu
 [Handsontable](https://handsontable.com/) serdecznie zaprasza. Może spróbujecie

@@ -28,7 +28,7 @@ Poniżej skrótowy program wydarzenia:
 - Poniedziałek (4 października) – pierwszy dzień konferencji – oficjalne
   otwarcie, pierwsze prelekcje,
   [Unconference](https://www.writethedocs.org/conf/prague/2021/unconference/)
-  oraz wieczorna impreza zapoznawcza ;-). Wiadomo już, że każda prelekcja będzie
+  oraz wieczorna impreza zapoznawcza 😉. Wiadomo już, że każda prelekcja będzie
   trwała około 30 minut. Po jej zakończeniu większość prelegentów odpowie na
   pytania uczestników w moderowanej sesji Q&A. Informacje dotyczące wieczornego
   eventu zostaną zapewne przekazane uczestnikom wraz z pojawieniem się

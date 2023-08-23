@@ -153,7 +153,7 @@ odpalamy kolejną edycję dla zaawansowanych?
   DITA to obok Markdowna jedna z podstawowych technologii tworzenia
   dokumentacji.
 - **git** - najpopularniejszy (ale nie jedyny) system kontroli wersji, czyli
-  narzędzie do sprawdzania, kto odpowiada za bugi w kodzie ;-) Jeśli zaczynasz
+  narzędzie do sprawdzania, kto odpowiada za bugi w kodzie 😉 Jeśli zaczynasz
   przygodę z gitem, używaj na początek programu z interfejsem graficznym (np.
   TortoiseGit, GitHub Desktop). Prawdziwym hardkorom polecam oczywiście pracę z
   gitem w konsoli tekstowej.

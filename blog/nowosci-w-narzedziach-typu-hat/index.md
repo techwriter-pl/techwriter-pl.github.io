@@ -87,7 +87,7 @@ Więcej informacji na temat programu możecie uzyskać na stronie
 30-dniową, darmową wersję próbną programu, którą można ściągnąć z sekcji
 [Free Trial](http://www.helpandmanual.com/downloads.html), bez potrzeby
 tworzenia konta lub podawania danych. Po prostu klikamy, ściągamy, instalujemy i
-testujemy. Tak jak być powinno :)
+testujemy. Tak jak być powinno 😊
 
 # RoboHelp
 
@@ -107,7 +107,7 @@ Mocno archaiczny wygląd aplikacji z wersji 11 został zastąpiony popularną w
 ostatnich latach wstążką. Jest to całkiem spora zmiana, więc starzy wyjadacze
 będą zapewne musieli poświęcić chwilę na opanowanie nowego interfejsu. Ciekawą
 rzeczą jest brak zakładki Help. Dość osobliwa sprawa biorąc pod uwagę, że jest
-to program do tworzenia pomocy ;)
+to program do tworzenia pomocy 😉
 
 ### Ulepszone formaty publikacji
 
@@ -133,7 +133,7 @@ jakiś temat w dołączonym projekcie, zaznaczenie przeskakiwało na losowy tema
 który był częścią głównego projektu. Kiedy zaczynaliśmy dość szybko klikać po
 tematach w spisie treści, następowało swoiste zapętlenie - zaznaczenie skakało
 samoistnie po tematach, co powodowało efekt migotania, stąd też wspomniany
-kryptonim :) Po kontakcie ze wsparciem technicznym Adobe okazało się, że nie da
+kryptonim 😊 Po kontakcie ze wsparciem technicznym Adobe okazało się, że nie da
 się rozwiązać tego problemu w wersji 11. Nie ma też na to żadnego obejścia.
 Jedyna możliwość pozbycia się problemu to aktualizacja do wersji 2015.
 

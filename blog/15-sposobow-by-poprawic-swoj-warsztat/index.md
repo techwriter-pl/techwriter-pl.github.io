@@ -160,7 +160,7 @@ dokumentację?
     pojawiają się nowe koncepcje, narzędzia czy sposoby na przekazanie
     informacji. Warto trzymać rękę na pulsie, uczyć się tego, co nowe na rynku,
     by wraz z doświadczeniem, budować solidny fundament własnej kariery i
-    odnosić kolejne zawodowe sukcesy. Czego oczywiście serdecznie Wam życzę ;)
+    odnosić kolejne zawodowe sukcesy. Czego oczywiście serdecznie Wam życzę 😉
 
 Powyższe praktyki to coś z czego możecie, ale nie musicie korzystać. Są one na
 tyle uniwersalne, że można zastosować je nie tylko w pracy Technical Writera,

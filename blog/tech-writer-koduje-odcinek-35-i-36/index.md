@@ -95,4 +95,4 @@ zastanawiają się, z czego może to wynikać.
 
 A czego boją się sami rozmówcy? Tego dowiecie się
 [słuchając tego odcinka](https://techwriterkoduje.pl/blog/2021/10/31/tech-writer-sie-boi)
-;). Warto, by zrozumieć, z czym czasem muszą borykać się technical writerzy.
+😉. Warto, by zrozumieć, z czym czasem muszą borykać się technical writerzy.

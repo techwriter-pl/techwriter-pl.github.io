@@ -46,7 +46,7 @@ dobrej jakości dokumenty. Programiści chcą mieć nie tylko dobre oprogramowan
 ale też solidną dokumentację i czytelne wprowadzenie do tematu za pomocą pliku
 README. Trenerzy użyli interesującej terminologii do opisana czym jest GitHub.
 Porównali go do Instagrama - ludzie lubią chwalić się na Instagramie, a
-programiści na GitHubie :)
+programiści na GitHubie 😊
 
 Druga część warsztatów została spożytkowana na ćwiczenia praktyczne. Trenerzy
 wyjaśnili jak wygląda podstawowy workflow w GitHubie. Dowiedzieliśmy się m.in.
@@ -95,7 +95,7 @@ technicznych zagadnień, które ciężko zrelacjonować.
 [![](images/IMG_20180523_142736-2-1024x768.jpg)](http://techwriter.pl/wp-content/uploads/2018/06/IMG_20180523_142736-2.jpg)
 Ogólnie, warsztat był bardzo solidnym wstępem do Anta, z którego sporo się
 dowiedzieliśmy. Postaramy się sprawdzić w praktyce czy rzeczywiście to narzędzie
-pozwoli nam na kilka kaw i memów więcej w ciągu dnia pracy ;)
+pozwoli nam na kilka kaw i memów więcej w ciągu dnia pracy 😉
 
 # Dzień drugi i trzeci - wykłady
 
@@ -185,7 +185,7 @@ wskazówkach:
   poprzez bezpośrednie odniesienie jej do czegoś istniejącego.
 
 Bardzo praktyczna prezentacja, pełna dobrych wskazówek. Teraz tworzenie
-e-learningu powinno nam pójść gładko :)
+e-learningu powinno nam pójść gładko 😊
 
 https://twitter.com/AdinaSolutions/status/999563997065220096?s=19
 
@@ -200,7 +200,7 @@ Deweloperzy pracujący w firmie Rafała są różni, pracują w różny sposób,
 wszyscy skarżyli się na jedno - na dokumentację. Pomimo powszechnego
 niezadowolenia, tylko nieliczni chcieli coś z tym zrobić. Ale to wystarczyło,
 chociaż musieli wykazać się dużą kreatywnością, aby znaleźć sposób na pisanie
-bez pisarza :)
+bez pisarza 😊
 
 Pierwszym wyzwaniem, któremu musieli stawić czoła, było posprzątanie
 dokumentacji. Stworzyli oni specjalny zespół ds. dokumentacji, którego zadaniem
@@ -238,7 +238,7 @@ Była to ciekawa prezentacja, unikalna o tyle, że przedstawiała kwestię tworz
 dokumentacji z perspektywy dewelopera. Dodatkowo redakcja techwriter.pl
 przyznaje dodatkowy punkt za sam fakt, że deweloper miał odwagę opowiadać o
 dokumentacji przed publicznością wypełnioną po brzegi specjalistami zajmującymi
-się dokumentacją na co dzień ;)
+się dokumentacją na co dzień 😉
 
 https://twitter.com/RayGallon/status/999596768882036736?s=19
 

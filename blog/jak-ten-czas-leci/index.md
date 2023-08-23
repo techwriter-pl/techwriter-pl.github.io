@@ -42,8 +42,8 @@ którzy z nami współpracują, w taki czy inny sposób.
 Przede wszystkim jednak dziękujemy Wam, Nasi Kochani Czytelnicy. Coraz częściej
 czytacie, piszecie, komentujecie, lubicie, udostępniacie to co dla Was
 przygotowaliśmy. Bardzo nas to cieszy, choć nigdy tego nie zrozumiemy - dziwni
-jesteście ;). Ale nie zmieniajcie się, bo bez Was cała nasza praca nie miałaby
-sensu. Potrzebujemy takich dziwnych ludzi, żeby dobrze się bawić :).
+jesteście 😉. Ale nie zmieniajcie się, bo bez Was cała nasza praca nie miałaby
+sensu. Potrzebujemy takich dziwnych ludzi, żeby dobrze się bawić 😊.
 
 I tak sobie myślimy, że prawdopodobnie...
 

@@ -136,7 +136,17 @@ ogromna większość z nas pisze dokumentację do oprogramowania.
 
 Większość ankietowanych pracuje w województwie małopolskim lub dolnośląskim.
 
-<table><tbody><tr><td>Województwo</td><td>Liczba ankietowanych</td></tr><tr><td>małopolskie</td><td>42</td></tr><tr><td>dolnośląskie</td><td>30</td></tr><tr><td>mazowieckie</td><td>11</td></tr><tr><td>śląskie</td><td>8</td></tr><tr><td>wielkopolskie</td><td>5</td></tr><tr><td>pomorskie</td><td>4</td></tr><tr><td>łódzkie</td><td>1</td></tr><tr><td>podlaskie</td><td>1</td></tr><tr><td>świętokrzyskie</td><td>1</td></tr></tbody></table>
+| Województwo    | Liczba ankietowanych |
+| -------------- | -------------------- |
+| małopolskie    | 42                   |
+| dolnośląskie   | 30                   |
+| mazowieckie    | 11                   |
+| śląskie        | 8                    |
+| wielkopolskie  | 5                    |
+| pomorskie      | 4                    |
+| łódzkie        | 1                    |
+| podlaskie      | 1                    |
+| świętokrzyskie | 1                    |
 
 Rekordowe zarobki (20 000 zł) pochodzą z województwa dolnośląskiego, tak jak i
 najwyższe średnie zarobki - 9 330 zł. Najwyższa mediana pochodzi z województwa

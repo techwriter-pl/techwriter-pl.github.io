@@ -67,14 +67,14 @@ z kolei kompletnie nie jest dla mnie. Jestem przyzwyczajona do narzędzi do
 tworzenia dokumentacji on-line. Przyszło mi jednak pracować nad jedną
 publikacją, która miała formę książki. Przestawienie się z Arbortexta na
 FrameMakera było trudną sprawą. Odetchnęłam z ulga, kiedy projekt się skończył
-;)
+😉
 
 ### W jaki sposób zdobywasz informacje potrzebne do tworzenia dokumentacji?
 
 Założenie jest takie, że wszystkie potrzebne informacje znajdują się w systemie
 do zarządzania projektem. Scrum master przypisuje mi jakieś zadanie, czytam
 opis, loguję się do aplikacji i powinnam być w stanie udokumentować daną
-funkcjonalność lub procedurę. Rzeczywistość wygląda jednak nieco inaczej ;).
+funkcjonalność lub procedurę. Rzeczywistość wygląda jednak nieco inaczej 😉.
 Jeżeli dokumentuję prostą funkcjonalność, którą łatwo wywnioskować z interfejsu,
 to po prostu loguję się do aplikacji, sama próbuję przejść daną procedurę, a
 potem ją opisuję. Taki dokument daję do przeczytania deweloperowi, który
@@ -120,7 +120,7 @@ wiedzy technicznej, co często sprawiało, że czułam się jak przedszkolak, kt
 przez pomyłkę zapisano na studia doktoranckie. Musiałam też przełamać wewnętrzną
 blokadę przed zadawniem pytań, które wydawały mi się głupie lub oczywiste z
 punktu widzenia osób, z którymi rozmawiałam. Teraz się tym nie przejmuję, tylko
-drążę temat do skutku ;) Innym problemem jest to, że dokumentacja ma niższy
+drążę temat do skutku 😉 Innym problemem jest to, że dokumentacja ma niższy
 priorytet niż tworzenie aplikacji. Jest to oczywiście zrozumiałe, bo co komu po
 najlepszej dokumentacji świata, kiedy nie ma działającej aplikacji. Jednak każdy
 chce, żeby jego praca była traktowana poważnie. Nikt nie lubi, kiedy się go
@@ -149,7 +149,7 @@ o dokumentacji kodu, ale to zupełnie inna bajka). Można trafić do firmy, w
 której deweloperzy nie rozumieją, jaka jest rola technical writera. Nie należy
 się zniechęcać, kiedy współpraca na początku się nie układa. Trzeba zacisnąć
 zęby, pokazać wartość tego, co się robi i nie dać się odprawiać z kwitkiem.
-Potem jest już z górki ;)
+Potem jest już z górki 😉
 
 Jeśli chcecie skontakować się z Agnieszką albo sami macie ochotę podzielić się
 swoimi doświadczeniami, nie zwlekajcie dłużej tylko piszcie na adres

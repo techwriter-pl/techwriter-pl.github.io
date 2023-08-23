@@ -78,7 +78,7 @@ dokumentacji oraz sposobów na to jak się przed nim zabezpieczyć. Paweł i Mic
 podsuwają też wiele pomysłów na zagrożenia dla dokumentacji. Część z nich może
 być rzeczywistym problemem i na szczęście, można im zapobiec, natomiast kilka
 teorii zdaje się być niemożliwa do wykonania z punktu widzenia specjalisty od
-zabezpieczeń ;).
+zabezpieczeń 😉.
 
 Warto posłuchać i skorzystać z wiedzy eksperta, by wiedzieć jak dbać o
 bezpieczeństwo naszej  dokumentacji.

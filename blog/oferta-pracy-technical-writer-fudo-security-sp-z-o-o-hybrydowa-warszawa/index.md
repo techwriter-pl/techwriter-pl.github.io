@@ -95,7 +95,7 @@ Currently, we need someone to keep up to date our technical documentation.
   learn.
 - Flexible working hours.
 - Spacious and modern office with access to free drinks and snacks (in case you
-  would like to step by to the office despite the remote work ;)).
+  would like to step by to the office despite the remote work 😉).
 - Business working tools (MacBook, iPhone).
 - Cooperation in the form of contract of employment, contract of mandate, or
   B2B.

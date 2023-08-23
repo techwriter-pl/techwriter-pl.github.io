@@ -36,5 +36,5 @@ A jak można zastosować SMAC w naszej pracy?
 na Technical Writing World ("The **social** network for technical
 communicators").
 
-Techwriter.pl jest przynajmniej w chmurze :).  Ale w czasie weekendu obiecujemy
+Techwriter.pl jest przynajmniej w chmurze 😊.  Ale w czasie weekendu obiecujemy
 popracować odrobinę nad SMA...

@@ -14,7 +14,7 @@ Dziś  kolejne słówko, a właściwie dwa:
 **Inejblować i dizejblować** \[od ang. _enable_ i _disable_\] - pierwsze
 definicje słownikowe, znalezione w naszym ulubionym słowniku angielsko-polskim,
 tłumaczą te zwroty jako odpowiednio "dawać możność" i "powodować inwalidztwo".
-:)
+😊
 
 W praktyce najczęściej używane jako synonim włączania lub wyłączania czegoś (np.
 opcji oprogramowania), ale w ograniczonym zakresie - raczej nie
@@ -31,6 +31,6 @@ Inejblować - dawać inwalidztwo.
 
 Disejblować - powodować niemożność.
 
-Czego jednak  nikomu nie życzymy. :)
+Czego jednak  nikomu nie życzymy. 😊
 
 Patrz także: _ternonować i ternofować_.

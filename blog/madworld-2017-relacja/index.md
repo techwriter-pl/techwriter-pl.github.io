@@ -335,7 +335,7 @@ certyfikat Flare. Byliśmy przekonani, że to był test próbny, ale spotkała n
 miła niespodzianka – osobom, które zdały test został zaliczony na poczet
 certyfikatu Flare. Oznacza to, że jeśli takie osoby zdecydują się wykupić
 egzamin będą musiały przygotować tylko próbny projekt. Wielu osobom, w tym także
-nam, dało to powody do radości :)
+nam, dało to powody do radości 😊
 
 # Loża ekspertów
 
@@ -390,7 +390,7 @@ country.
 
 Główną atrakcją była nauka amerykańskiego tańca liniowego. Musimy przyznać, że
 kilka rzędów Tech Writerów wykonujących te same ruchy taneczne to dość
-niecodzienny widok ;)
+niecodzienny widok 😉
 
 # Miejsce konferencji
 
@@ -469,7 +469,7 @@ sporą sumę. Bądźmy realistami – nie będzie łatwo przekonać szefa do prz
 nam takiego budżetu. Ale jeśli jest na to jakaś szansa, to warto powalczyć ze
 względu na to wszystko o czym pisaliśmy wyżej. Oprócz wartościowej konferencji,
 będziecie mieć też szansę na mini wakacje w słonecznej Kalifornii co sprawia, że
-MadWorld wydaje się jeszcze bardziej kuszący :)
+MadWorld wydaje się jeszcze bardziej kuszący 😊
 
 Podsumowując, jeśli korzystacie na co dzień z Flare’a, to zdecydowanie polecamy
 udział w MadWorld.

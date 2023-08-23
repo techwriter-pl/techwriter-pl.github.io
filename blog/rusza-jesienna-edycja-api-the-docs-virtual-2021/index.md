@@ -97,4 +97,4 @@ Pamiętajcie, że powyższe wydarzenia są **bezpłatne**. Wymagana jest jednak
 **rejestracja**. Bezpośredni link znajdziecie
 [tutaj](https://www.eventbrite.com/e/api-the-docs-2021-fall-season-tickets-173241930277).
 
-Życzymy dobrych wrażeń ;).
+Życzymy dobrych wrażeń 😉.

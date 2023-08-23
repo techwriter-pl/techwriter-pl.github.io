@@ -26,7 +26,7 @@ Osoby, które jeszcze nie znają historii wydarzenia odsyłamy
 do [tekstu wprowadzającego](http://techwriter.pl/poznajcie-write-the-docs-europe/).
 Od siebie możemy dodać, że udział w konferencji Write the Docs jest zawsze wart
 uwagi gdyż poza solidną porcją wiedzy, w pakiecie otrzymujecie świetną atmosferę
-oraz spotkanie z rewelacyjnymi ludźmi z branży. Tak, online też dają radę ;)
+oraz spotkanie z rewelacyjnymi ludźmi z branży. Tak, online też dają radę 😉
 
 ### Co, gdzie i kiedy?
 
@@ -43,7 +43,7 @@ Poniżej skrótowy program wydarzenia:
 - Poniedziałek (12 września) – pierwszy dzień konferencji – przewidywany czas to
   10:00-18:00. W planie: oficjalne otwarcie, pierwsze prelekcje,
   [Unconference](https://www.writethedocs.org/conf/prague/2022/unconference/)
-  (10:45-18:00) oraz wieczorna impreza zapoznawcza od 19:00 do 21:00 ;). Wiadomo
+  (10:45-18:00) oraz wieczorna impreza zapoznawcza od 19:00 do 21:00 😉. Wiadomo
   już, że każda prelekcja będzie trwała około 30 minut. Większość prelegentów
   odpowie też na pytania uczestników w moderowanej sesji Q&A. Informacje
   dotyczące wieczornego eventu zostaną zapewne przekazane uczestnikom wraz z

@@ -16,7 +16,7 @@ Release notes, przetłumaczone kiedyś na polski jako "noty wydania", to dokumen
 opisujące oprogramowanie, a dokładniej zmiany w konkretnej wersji
 oprogramowania. Czekacie na definicję z Wikipedii? Proszę bardzo:
 [http://en.wikipedia.org/wiki/Release_notes](http://en.wikipedia.org/wiki/Release_notes)
-:). Przez zmiany rozumiemy tutaj wszelkie nowe funkcjonalności (ang.
+😊. Przez zmiany rozumiemy tutaj wszelkie nowe funkcjonalności (ang.
 _features_), zmiany w funkcjonalnościach już obecnych, poprawione błędy (_fixed
 bugs_) oraz... niepoprawione błędy (_known issues_).
 
@@ -29,9 +29,9 @@ wersja czy poprawka ma być zainstalowana i skonfigurowana.
 Jak widzicie, jest to dość zaawansowana technicznie wiedza, stąd w wielu firmach
 tworzeniem release notes zajmują się po prostu programiści.
 [Przykład (ugly)](http://gstreamer.freedesktop.org/releases/gst-plugins-ugly/1.2.0.html)
-;). Czasem jednak pozwolą nam "coś z tym zrobić".
+😉. Czasem jednak pozwolą nam "coś z tym zrobić".
 [Przykładowy efekt (simply beautiful)](http://help.gnome.org/misc/release-notes/2.18/)
-;).
+😉.
 
 Adresatami not wydania są odbiorcy oprogramowania, szczególnie Ci, którzy
 planują aktualizację do nowszej wersji albo instalację pakietu z poprawkami. Ale

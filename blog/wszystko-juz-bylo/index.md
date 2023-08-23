@@ -26,4 +26,4 @@ znać.
 A może czytają nas twórcy i członkowie TCPIP? Nieustannie zapraszamy do
 współpracy.
 
-W grupie weselej :)
+W grupie weselej 😊

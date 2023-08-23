@@ -23,7 +23,7 @@ the Docs, z której obszerną relację znajdziecie
 [tutaj](http://techwriter.pl/write-the-docs-prague-2017-relacja/). Tych, którzy
 jeszcze nie znają historii konferencji odsyłamy do lektury
 [tekstu wprowadzającego](http://techwriter.pl/poznajcie-write-the-docs-europe/)
-;-). Od nas możemy dodać, że zdecydowanie polecamy udział w wydarzeniu - poza
+😉. Od nas możemy dodać, że zdecydowanie polecamy udział w wydarzeniu - poza
 solidną porcją wiedzy, w pakiecie otrzymujecie świetne miejsce, atmosferę oraz
 spotkanie z rewelacyjnymi ludźmi z branży.
 
@@ -56,7 +56,7 @@ września 2018 roku**.
 Dokładny opis prelekcji i prelegentów nie jest jeszcze znany, jednak na pewno
 pojawi się już wkrótce, więc obserwujcie stronę konferencji lub nasz portal -
 jak zawsze trzymamy rękę na pulsie i za jakiś czas przekażemy Wam dalsze
-informacje ;-).
+informacje 😉.
 
 ![](images/page2.jpg)
 

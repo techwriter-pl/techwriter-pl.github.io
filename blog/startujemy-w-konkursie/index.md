@@ -24,7 +24,7 @@ miesięcznie?
 
 [Wystartowaliśmy w kategorii "Specjalistyczne i firmowe"](http://www.blogroku.pl/2014/kategorie/-b-techwriter-b-b-pl-b-,8sh,blog.html).
 Skąd ten wybór? - za nic nie mogliśmy się zdecydować czy wybrać kategorię "blogi
-nastolatków" czy "blogi parentingowe" - postawiliśmy więc na coś pomiędzy ;)
+nastolatków" czy "blogi parentingowe" - postawiliśmy więc na coś pomiędzy 😉
 [![Glosuj_blog_roku](images/Glosuj_blog_roku-1024x341.png)](http://techwriter.pl/wp-content/uploads/2015/02/Glosuj_blog_roku.png)
 
 Dodatkowo zgłosiliśmy

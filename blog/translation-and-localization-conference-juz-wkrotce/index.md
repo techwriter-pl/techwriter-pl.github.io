@@ -111,7 +111,12 @@ rezerwacji i opłaty. Wszelkie szczegóły znajdziecie poniżej oraz na
 Poniżej przedstawiamy ceny wejściówek na konferencję. Jednocześnie przypominamy,
 że **termin rejestracji upływa 28 lutego**.
 
-<table className=" aligncenter" style="height: 90px; width: 388px;"><tbody><tr style="height: 18px;"><td style="height: 18px; width: 140.4px;"><strong>Rodzaj biletu</strong></td><td style="height: 18px; width: 157.04px;"><strong>Cena</strong></td></tr><tr style="height: 18px;"><td style="height: 18px; width: 140.4px;">2 dni + lunch</td><td style="height: 18px; width: 157.04px;">€370/1560 PLN</td></tr><tr style="height: 18px;"><td style="height: 18px; width: 140.4px;">Piątek + lunch</td><td style="height: 18px; width: 157.04px;">€230/970 PLN</td></tr><tr style="height: 18px;"><td style="height: 18px; width: 140.4px;">Sobota + lunch</td><td style="height: 18px; width: 157.04px;">€230/970 PLN</td></tr><tr style="height: 18px;"><td style="height: 18px; width: 140.4px;">Networking</td><td style="height: 18px; width: 157.04px;">€65/270 PLN</td></tr></tbody></table>
+| Rodzaj biletu  | Cena          |
+| -------------- | ------------- |
+| 2 dni + lunch  | €370/1560 PLN |
+| Piątek + lunch | €230/970 PLN  |
+| Sobota + lunch | €230/970 PLN  |
+| Networking     | €65/270 PLN   |
 
 Cena nie zawiera noclegu, jednak organizator zapewnia zniżkę przy rezerwacji
 pokoju w hotelu Radison Blu Sobieski. Szczegóły znajdziecie
@@ -123,7 +128,7 @@ i do miejsca zakwaterowania.
 
 Na stronie organizatora jest jeszcze informacja, że wkrótce mają się pojawić
 szczegóły dotyczące warsztatów, eventów oraz wycieczek, zatem może będą na Was
-czekały jeszcze dodatkowe atrakcje ;-). Zaglądajcie więc
+czekały jeszcze dodatkowe atrakcje 😉. Zaglądajcie więc
 [tutaj](https://www.translation-conference.com/buy-tickets), by być na bieżąco.
 
 ## Dlaczego warto wziąć udział?

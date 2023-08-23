@@ -263,7 +263,7 @@ skierowane do freelancerów o to czy przewidują dla siebie opcję zmiany branż
 pokrewną, np. na komunikację techniczną, w najbliższej przyszłości. Zdecydowana
 większość odpowiedziała, że nie. Bardzo dziękujemy za umieszczenie tego pytania
 w ankiecie, ponieważ widać gołym okiem, że musimy jeszcze bardziej się starać
-jeśli chodzi o promowanie profesji z dziedziny komunikacji technicznej :)
+jeśli chodzi o promowanie profesji z dziedziny komunikacji technicznej 😊
 
 \[caption id="attachment_7790" align="aligncenter"
 width="590"\][![](images/tlc_panel-1024x576.jpg)](http://techwriter.pl/wp-content/uploads/2019/04/tlc_panel.jpg)

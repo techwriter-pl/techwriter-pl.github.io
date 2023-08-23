@@ -49,4 +49,4 @@ wręcz przeciwnie - co sprawia jej szczególną frajdę? A może chcecie wiedzie
 jakie są możliwości dalszej drogi rozwoju zawodowego po odbyciu stażu na
 stanowisku technical writera? O tym wszystkim posłuchacie w
 [34 odcinku](https://techwriterkoduje.pl/blog/2021/09/07/tech-writer-czlowiek-renesansu)
-podcastu Tech Writer Koduje ;)
+podcastu Tech Writer Koduje 😉

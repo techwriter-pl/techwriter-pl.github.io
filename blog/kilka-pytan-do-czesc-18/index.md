@@ -10,7 +10,7 @@ tags:
 coverImage: "MartynaWywiad.jpg"
 ---
 
-Zapraszamy na wywiad z naszą nową koleżanką :) Poznajcie Martynę Toporek!
+Zapraszamy na wywiad z naszą nową koleżanką 😊 Poznajcie Martynę Toporek!
 
 **Jak długo pracujesz jako Tech Writer?**
 
@@ -133,4 +133,4 @@ SERDECZNIE DZIĘKUJEMY MARTYNIE!!!
 
 P.S. Pamiętajcie o
 [naszej ankiecie](https://docs.google.com/forms/d/e/1FAIpQLSehWlQ0DA4HAtR-VN3PD-y16_Cohzyispu_-zAFf7hlzQxcUg/viewform)!
-To ważne. Prosimy :)
+To ważne. Prosimy 😊

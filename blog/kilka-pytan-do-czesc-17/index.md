@@ -38,7 +38,7 @@ supportowe właśnie, ale dzięki konkretnym osobom w dziale rekrutacji już na
 miejscu okazało się, że mój profil kandydata i zainteresowania bardziej
 odpowiadają innej pozycji. Początkowo nie spełniałem praktycznie żadnego z
 wymagań, ale (ostatecznie) udało mi się pozytywnie przejść rekrutację. Podczas
-rozmów z członkami zespołu Technical Writerów (poprawnie :)) ustaliliśmy, że nie
+rozmów z członkami zespołu Technical Writerów (poprawnie 😊) ustaliliśmy, że nie
 nadaję się na pełnoprawnego Technical Writera, ale dadzą mi szansę na stanowisku
 juniorskim. Założenie było takie: muszę w rok nauczyć się wszystkiego czego mi
 brakuje, t.j. programowanie, Agile, testowanie, zagadnienia e-commerce,
@@ -54,7 +54,7 @@ cały dział R&D, liczący ok. 30 osób, i zlokalizowany głównie w Wiedniu i
 Belgradzie, choć kilka osób (w tym ja) pracuje zdalnie. Rolą Tech Writerów jest
 przede wszystkim rozwój portalu dokumentacyjnego, skierowanego głównie do
 developerów chcących rozwijać naszą platformę. Przy okazji sporo testujemy (w
-firmie nie ma testerów jako takich, więc ktoś musi :).
+firmie nie ma testerów jako takich, więc ktoś musi 😊.
 
 **Mateusz:** Firma w której pracuję aktualnie zajmuje się produkcją
 oprogramowania do szeroko pojętego modelowania oraz normalizacji i integracji
@@ -69,7 +69,7 @@ tydzień bierzemy udział w synchronizacji zespołów R&D, gdzie każdy przedsta
 swoje postępy. Gdy ukończymy zadanie i zamkniemy ticket, instrukcja jest
 testowana przez drugiego Tech Writera i przez developera.
 
-**Mateusz:** Tech Writer u nas w firmie generalnie musi się znać na wszystkim :)
+**Mateusz:** Tech Writer u nas w firmie generalnie musi się znać na wszystkim 😊
 Dużo testujemy, dużo rozkminiamy z kodu, rozwijamy też własnego toola do
 tworzenia dokumentacji. Poza bieżącymi tematami, zawsze znajdzie się coś z
 documentation debt do zrobienia.
@@ -101,7 +101,7 @@ instalacji/deploymentu. Mamy też oczywiście portal, który agreguje wszystkie
 dostępne "assety". Do drugiego z produktów, który opisujemy używam Jekylla.
 Ponadto, do rzeczy, które są powtarzalne (budowanie, deploymenty, upload na
 serwer) korzystam z pomocy pana Jenkinsa. Gdy czytam/psuję kod korzystam z
-Eclipse'a. Niestety, tutaj wyboru nie miałem :)
+Eclipse'a. Niestety, tutaj wyboru nie miałem 😊
 
 ### W jaki sposób zdobywasz informacje potrzebne do tworzenia dokumentacji?
 
@@ -150,14 +150,14 @@ dostarczyć odpowiednie przykłady w dokumentacji. To zupełna nowość, ale wal
 jak mogę, przy pomocy kolegi po fachu w zespole, i programistów.
 
 **Mateusz:** "Jestem zajęty.", "Nie mam czasu.", "You have merge conflicts in
-your working copy" oraz "Error parsing documentation" ;)
+your working copy" oraz "Error parsing documentation" 😉
 
 ### Co najbardziej lubisz w pracy Tech Writera?
 
 **Grzegorz:** Ciągłą naukę i możliwość pomocy ludziom, których nie znam.
 
 **Mateusz:** Gdy ktoś zadaje pytanie, na które można odpowiedzieć linkiem do
-dokumentacji :) Generalnie lubię, gdy to co robię jest przydatne dla innych.
+dokumentacji 😊 Generalnie lubię, gdy to co robię jest przydatne dla innych.
 Kontakt zarówno z ludźmi i z technologią również jest przyjemny.
 
 ### Co byś radził osobom, które chciałyby zacząć swoją przygodę z pisaniem dokumentacji?

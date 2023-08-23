@@ -33,7 +33,7 @@ Skrótowy program konferencji:
 - Poniedziałek (12 września) – pierwszy dzień konferencji – przewidywany czas to
   10:00-18:00. W planie: oficjalne otwarcie, pierwsze
   prelekcje, [Unconference](https://www.writethedocs.org/conf/prague/2022/unconference/) (10:45-18:00)
-  oraz wieczorna impreza zapoznawcza od 19:00 do 21:00 ;). Wiadomo już, że każda
+  oraz wieczorna impreza zapoznawcza od 19:00 do 21:00 😉. Wiadomo już, że każda
   prelekcja będzie trwała około 30 minut. Większość prelegentów odpowie też na
   pytania uczestników w moderowanej sesji Q&A. Informacje dotyczące wieczornego
   eventu zostaną zapewne przekazane uczestnikom wraz z pojawieniem się
@@ -50,7 +50,7 @@ udział są dostępne
 [tutaj](https://www.writethedocs.org/conf/prague/2022/schedule/). Poniżej
 przedstawiamy kilka wystąpień, które wydają się nam najciekawsze. Jesteśmy
 ciekawi czy pokrywają się one z Waszymi wyborami - zachęcamy do dyskusji w
-komentarzach ;).
+komentarzach 😉.
 
 ### Prelekcje – subiektywny wybór
 

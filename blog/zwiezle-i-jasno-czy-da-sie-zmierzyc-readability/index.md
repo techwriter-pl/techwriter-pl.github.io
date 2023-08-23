@@ -58,7 +58,7 @@ _DIAGNOZA: język zalecany w komunikacji publicznej (standard plain language)"_
 
 Natomiast "Jasnopis" sklasyfikował tekst Joanny jako _"nieco trudniejszy,
 zrozumiały dla osób z wykształceniem średnim lub mających duże doświadczenie
-życiowe"._ :)
+życiowe"._ 😊
 
 Pewni jesteśmy, że naszym czytelnikom ani wykształcenia ani doświadczeń
 życiowych nie brakuje - publikujemy więc tekst Joanny z dużą przyjemnością i

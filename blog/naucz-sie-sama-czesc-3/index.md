@@ -33,7 +33,7 @@ Naszym celem nie jest napisanie dokładnej recenzji książki, tylko przekazanie
 dalej w skondensowanej formie informacji, które mogą okazać się przydatne w
 poruszaniu się w świecie Technical Writingu. Wszelkie podane niżej wytyczne są
 zaczerpnięte wprost z książki i w żadnym wypadku nie są to nasze złote myśli. To
-tak gwoli ścisłości :) Książka liczy ponad 200 stron, dlatego też żeby Was nie
+tak gwoli ścisłości 😊 Książka liczy ponad 200 stron, dlatego też żeby Was nie
 zanudzić, informacje podzieliliśmy na dwa wpisy. Życzymy przyjemnej lektury.
 
 ## Kim jest Technical Writer?
@@ -207,4 +207,4 @@ to, że te mniej ważne można zawsze pominąć. Jeśli ciągle musisz poświęc
 któryś z elementów, to wygląda na to, że masz za mało czasu na pisanie dobrej
 dokumentacji. W takiej sytuacji porusz tą kwestię z przełożonym.
 
-Na tym kończymy dzisiejszy wpis. Część druga już niebawem. Stay tuned :)
+Na tym kończymy dzisiejszy wpis. Część druga już niebawem. Stay tuned 😊

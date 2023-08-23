@@ -28,7 +28,7 @@ Dlaczego warto wypełnić tę ankietę?
 2. Bo pomoże ona osobom, które rozważają karierę w naszej branży - będą wiedzieć
    jakiego wynagrodzenia oczekiwać
 3. Bo pomoże ona rekruterom i osobom budującym zespoły komunikacji technicznej -
-   będą wiedzieć ile kosztują najlepsi specjaliści w branży, czyli Wy :)
+   będą wiedzieć ile kosztują najlepsi specjaliści w branży, czyli Wy 😊
 4. Bo będzie to pierwsza ankieta, która pozwoli nam wszystkim za kilka lat
    prześledzić czy zarobki wzrastają czy spadają
 

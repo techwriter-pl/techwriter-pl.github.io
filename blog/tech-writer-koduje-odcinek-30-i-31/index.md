@@ -127,4 +127,4 @@ własne potrzeby stworzyć dopasowany pod siebie generator.
 Czy warto poświęcić czas na własny projekt generatora stron statycznych? Jeśli
 jesteście ciekawi wniosków, do jakich doszedł Paweł z Michałem - zapraszamy do
 [odsłuchania odcinka 31](https://techwriterkoduje.pl/blog/2021/07/03/prosty-jak-budowa-cepa)
-;-).
+😉.

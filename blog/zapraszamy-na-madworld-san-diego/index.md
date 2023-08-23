@@ -79,7 +79,11 @@ informacjami o prelegentach, znajdziecie sporo ciekawostek ze świata MadCap.
 
 Poniżej przedstawiamy zestawienie cen biletów.
 
-<table><tbody><tr><td></td><td><strong>Ceny od 01.02-15.03.2019</strong></td><td><strong>Ceny od 16.03-17.04.2019</strong></td></tr><tr><td><strong>Konferencja</strong></td><td style="text-align: center;">$1,999</td><td style="text-align: center;">$2,199</td></tr><tr><td><strong>Warsztaty wprowadzające</strong></td><td style="text-align: center;">$499</td><td style="text-align: center;">$599</td></tr><tr><td><strong>Warsztaty zaawansowane</strong></td><td style="text-align: center;">$599</td><td style="text-align: center;">$699</td></tr></tbody></table>
+| **Kategoria**           | Ceny od 01.02-15.03.2019 | Ceny od 16.03-17.04.2019 |
+| ----------------------- | ------------------------ | ------------------------ |
+| Konferencja             | $1,999                   | $2,199                   |
+| Warsztaty wprowadzające | $499                     | $599                     |
+| Warsztaty zaawansowane  | $599                     | $699                     |
 
 Cena wejściówki na MadWorld San Diego obejmuje:
 

@@ -87,7 +87,7 @@ uzupełnienia brakujących klocków w całej układance oraz możliwość wymian
 poglądów i doświadczeń z pozostałymi uczestnikami.
 
 Na koniec zapewne chcielibyście poznać odpowiedź na pytanie: czy warto? Jak ze
-wszystkim, to zależy :) A dokładniej zależy od tego, jakie są Wasze oczekiwania.
+wszystkim, to zależy 😊 A dokładniej zależy od tego, jakie są Wasze oczekiwania.
 Jeśli jesteście doświadczonymi Tech Writerami, którzy żywo interesują się
 dziedziną komunikacji technicznej i poza praktyką mają spory zasób wiedzy
 teoretycznej w tym temacie i chcecie dowiedzieć się dużej ilości nowych rzeczy,
@@ -100,7 +100,7 @@ tym bardziej powinniście wziąć udział w szkoleniu. W przypadku dalszych
 wątpliwości najlepiej przejrzeć
 [syllabus](http://itcqf.org/wp-content/uploads/2015/04/ITCQF_Syllabus_v1_02Dec2014.pdf)
 i samemu ocenić jaką wartość można wynieść ze szkolenia. Oczywiście pozostaje
-też kwestia tego kto płaci ;) Dlatego tym bardziej powinniście doczytać do
+też kwestia tego kto płaci 😉 Dlatego tym bardziej powinniście doczytać do
 końca.
 
 ## Uczestnik bez doświadczenia
@@ -157,7 +157,7 @@ z drugiej zobaczyłam jak jeszcze wiele nauki przede mną. Utwierdziłam się te
 przekonaniu, że warto kontynuować "przygodę" z komunikacją techniczną.
 
 A jeśli chodzi o pytanie, czy warto? Przychylam się do opinii kolegi - zależy
-czego oczekujemy i jakie są nasze możliwości finansowe ;).
+czego oczekujemy i jakie są nasze możliwości finansowe 😉.
 
 ## Certyfikat
 

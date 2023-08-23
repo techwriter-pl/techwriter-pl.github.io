@@ -16,7 +16,7 @@ na tworzenie dokumentacji w Markdownie przy użyciu Google Docs, Google Sites i
 stackedit.io. W normalnej sytuacji, dokumentaliści czy inni "pisarze" używają do
 pracy komputera. Ale co zrobić kiedy pod ręką mamy tylko komórkę i musimy coś na
 szybko sklecić właśnie w Markdownie? Oczywiście takie sytuacje zdarzają się
-niezwykle rzadko, ale licho nie śpi ;) Jeśli posiadamy komórkę z Androidem to
+niezwykle rzadko, ale licho nie śpi 😉 Jeśli posiadamy komórkę z Androidem to
 jest nadzieja. Możemy skorzystać z jakiegoś edytora wspierającego ten język
 znaczników. Tylko z którego? W sklepie Google Play mamy całkiem spory wybór
 darmowych i płatnych narzędzi. Wiele z nich oferuje bardzo zbliżoną
@@ -97,4 +97,4 @@ on przechowywany właśnie na dysku Google, bezpośrednio stamtąd otwierany i t
 zapisywany po wprowadzeniu zmian. Po zakończeniu pracy, tekst został skopiowany
 do Writeily, wyeksportowany jako HTML, a następnie wklejony do aplikacji
 Wordpress i opublikowany. Trochę to złożone, ale jest to jakiś sposób, który
-można wykorzystać w sytuacji awaryjnej :)
+można wykorzystać w sytuacji awaryjnej 😊

@@ -30,7 +30,7 @@ przysługującym twórcom?
 Pozdrawiam!\_
 
 Trochę nam zeszło zanim zebraliśmy informacje dotyczące tej kwestii, ale lepiej
-późno niż później ;) Zapraszamy do lektury. Jest tego trochę, ale poświęcenie
+późno niż później 😉 Zapraszamy do lektury. Jest tego trochę, ale poświęcenie
 czasu na zapoznanie się z zebranym przez nas materiałem może się wielu z Was
 opłacić.
 
@@ -268,4 +268,4 @@ Jak widać 50% koszty uzyskania przychodu można z powodzeniem stosować na
 stanowisku Technical Writera. Wszelkie tłumaczenia, że nie da się tego zrobić
 wydają się być zwykłym przejawem braku dobrej woli. Skoro taki system udało się
 wdrożyć w innych małych i dużych firmach, to z całą pewnością nie ma większych
-przeszkód, żeby go wprowadzić w Waszej firmie. Nie poddawajcie się :)
+przeszkód, żeby go wprowadzić w Waszej firmie. Nie poddawajcie się 😊

@@ -35,4 +35,4 @@ tekom Europe pisze o sobie jako o _"Europe’s largest professional association
 for technical communication.",_ która *"know the business of technical
 communication."* - spodziewamy się więc samych pozytywnych wrażeń.
 
-Życzymy weny i wytrwałości podczas przygotowywania Waszych wystąpień :).
+Życzymy weny i wytrwałości podczas przygotowywania Waszych wystąpień 😊.

@@ -78,7 +78,7 @@ communicative, you might be exactly the person we're looking for.
 - Experience working in an agile/scrum development process.
 - Interest in communication technologies and the Internet of Things.
 
-Missing some points from the list? Don't worry and just apply :)
+Missing some points from the list? Don't worry and just apply 😊
 
 ### What we offer:
 

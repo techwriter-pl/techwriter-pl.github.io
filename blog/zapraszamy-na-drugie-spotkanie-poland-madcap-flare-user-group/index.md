@@ -42,7 +42,7 @@ Spotkanie odbędzie się **28 września 2017** w
 [T.E.A. Time BrewPub](http://www.teatimebrewpub.pl/) w Krakowie. Start o
 godz. **18:00**.
 
-<iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2561.933868502614!2d19.934416115936372!3d50.05007012401351!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47165b6eb9aba343%3A0x98f6f56f112059ac!2sTEA+Time!5e0!3m2!1sen!2spl!4v1503644734552" width="400" height="300" frameBorder="0" allowFullScreen="allowFullScreen"></iframe>
+<iframe style={{border: 0}} src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2561.933868502614!2d19.934416115936372!3d50.05007012401351!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47165b6eb9aba343%3A0x98f6f56f112059ac!2sTEA+Time!5e0!3m2!1sen!2spl!4v1503644734552" width={400} height={300} frameBorder={0} allowFullScreen="allowFullScreen" />
 
 ## Temat spotkania
 
@@ -73,7 +73,7 @@ rejestracja, ale organizatorzy zachęcają, żeby dołączyć do
 Dzięki temu będzie im łatwiej ocenić liczbę uczestników.
 
 Organizatorzy przewidują dla każdego kupon na drinka i kawałek pizzy. Mała
-rzecz, a cieszy ;)
+rzecz, a cieszy 😉
 
 ## Poprzednie spotkania
 

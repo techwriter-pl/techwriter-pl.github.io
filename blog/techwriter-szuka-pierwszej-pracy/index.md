@@ -15,10 +15,10 @@ Studia podyplomowe ukończone, cv zaktualizowane - czas rozejrzeć się za prac�
 techwriterki! W poniższym artykule dzielę się doświadczeniami z kilku procesów
 rekrutacyjnych, z których jeden, ten najważniejszy, został zwieńczony sukcesem.
 
-Siłą rzeczy cały poniższy opis jest nieco subiektywny ;-) Mam jednak nadzieję,
-że da branżowym debiutantom pewne wyobrażenie, czego można się spodziewać
-podczas rekrutacji na stanowisko technical writera. No i last but not least -
-jest to tekst z dedykacją dla studentów drugiej edycji
+Siłą rzeczy cały poniższy opis jest nieco subiektywny 😉 Mam jednak nadzieję, że
+da branżowym debiutantom pewne wyobrażenie, czego można się spodziewać podczas
+rekrutacji na stanowisko technical writera. No i last but not least - jest to
+tekst z dedykacją dla studentów drugiej edycji
 [studiów podyplomowych](https://www.vistula.edu.pl/kierunki-studiow/kontynuacja-edukacji/studia-podyplomowe/informatyka/komunikacja-techniczna)
 z komunikacji technicznej na Akademii Finansów i Biznesu VIstula.
 
@@ -44,7 +44,7 @@ z dumą dopisałam "certified" i odpowiedziałam na pierwsze oferty.
 
 Szukając pracy, warto mieć świadomość, że zawód techwritera wciąż jest odrobinę
 niszowy. Z tego powodu notorycznie natrafia się na ogłoszenia, które opisują
-zupełnie inne zajęcie ;-) Najczęstsza pomyłka to nazywanie copywritera lub
+zupełnie inne zajęcie 😉 Najczęstsza pomyłka to nazywanie copywritera lub
 content writera w firmie technologicznej technical writerem. Ale jest też dobra
 strona tej sytuacji - ponieważ świadomość istnienia takiego zawodu dopiero w
 Polsce kiełkuje, osoby, które aplikują na stanowiska techwriterskie teraz,
@@ -152,7 +152,7 @@ dostawałam feedback od pozostałych - musiałam jednak podziękować za dalszy
 udział w rekrutacji.
 
 Co teraz? Z pewnością już wkrótce okaże się, że przede mną cały ocean wiedzy do
-opanowania. Sama nie wiem, czy bardziej się cieszę, czy boję ;-) Na pewno bardzo
+opanowania. Sama nie wiem, czy bardziej się cieszę, czy boję 😉 Na pewno bardzo
 mi zależy na pokazaniu się z jak najlepszej strony. Zaczynam 2 listopada.
 Trzymajcie za mnie kciuki.
 
@@ -177,7 +177,7 @@ rekrutacje będą zniechęcające. Będzie dobrze!
 
 ## Bonus, czyli kolejny glosariusz
 
-Nic na to nie poradzę - bardzo lubię pisać glosariusze ;-)
+Nic na to nie poradzę - bardzo lubię pisać glosariusze 😉
 
 **Confidence gap** - dosłownie “luka w pewności siebie”, czyli sytuacja, w
 której kandydat lub kandydatka boi się aplikować na jakieś stanowisko, ponieważ

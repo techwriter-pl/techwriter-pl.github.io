@@ -39,7 +39,7 @@ Ramowy program tegorocznego soap:
 - Drugi dzień – rejestracja, powitanie, prelekcje – 10 prezentacji z przerwami
   na kawę oraz obiad. Po prelekcjach nastąpi uroczyste zakończenie połączone z
   dobrze już znanym networkingiem. Następnie organizatorzy zapraszają na imprezę
-  ;-) W tym dniu odbędzie się prelekcja przygotowana i poprowadzona przez dwóch
+  😉 W tym dniu odbędzie się prelekcja przygotowana i poprowadzona przez dwóch
   naszych redaktorów - Michała Skowrona oraz Pawła Kowaluka. Serdecznie
   zapraszamy w ich imieniu na prezentację pod tytułem *Doing docs like code in
   the real world – an interactive case study*.
@@ -53,7 +53,12 @@ Rejestracja już trwa. Obecnie w puli zostały jedynie bilety Last Minute, któr
 są **dostępne do 29 maja**. Szczegóły znajdziecie
 [tutaj](https://evenea.pl/imprezy/konferencje/krakow/soap-2019--the-best-content-conference-210964/).
 
-<table><tbody><tr><td style="text-align: center;">RODZAJ BILETU</td><td style="text-align: center;">CENA</td></tr><tr><td>Last minute student (-50%) – dla studentów do 26 r.ż.; wymagana legitymacja</td><td style="text-align: center;">650,01 zł</td></tr><tr><td>Last minute group 6+ (-20%)</td><td style="text-align: center;">1040,00 zł</td></tr><tr><td>Last minute group 3-5 (-10%)</td><td style="text-align: center;">1170,00 zł</td></tr><tr><td>Last minute individual</td><td style="text-align: center;">&nbsp;1300,00 zł</td></tr></tbody></table>
+| RODZAJ BILETU                                                               | CENA       |
+| --------------------------------------------------------------------------- | ---------- |
+| Last minute student (-50%) – dla studentów do 26 r.ż.; wymagana legitymacja | 650,01 zł  |
+| Last minute group 6+ (-20%)                                                 | 1040,00 zł |
+| Last minute group 3-5 (-10%)                                                | 1170,00 zł |
+| Last minute individual                                                      | 1300,00 zł |
 
 Cena obejmuje dwa dni konferencji (6-7 czerwca) czyli prezentacje, a także
 rozrywki przewidziane przez organizatorów – przerwy na kawę, przerwy obiadowe,

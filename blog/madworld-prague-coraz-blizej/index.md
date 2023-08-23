@@ -12,7 +12,7 @@ coverImage: "madworld.png"
 
 Konferencja MadWorld Prague coraz bliżej, postanowiliśmy więc przypomnieć Wam
 kilka najważniejszych faktów, zanim urlopowe szaleństwo zupełnie Was pochłonie
-;-)
+😉
 
 Przypominamy, że w tym roku odbędzie się pierwsza europejska edycja konferencji.
 Jest ona skierowana przede wszystkim do użytkowników narzędzia MadCap Flare.
@@ -50,7 +50,10 @@ znajdziecie
 
 ### Ceny
 
-<table style="border-collapse: collapse; width: 100%;" border="1"><tbody><tr><td style="width: 24.0713%;"></td><td style="width: 34.0569%; text-align: center;"><strong>01.06 - 31.07. 2018</strong></td><td style="width: 37.096%; text-align: center;"><strong>01.08 - 11.09.2018</strong></td></tr><tr><td style="width: 24.0713%;"><strong>Konferencja</strong></td><td style="width: 34.0569%; text-align: center;">$1,099</td><td style="width: 37.096%; text-align: center;">$1,199</td></tr><tr><td style="width: 24.0713%;"><strong>Warsztaty</strong></td><td style="width: 34.0569%; text-align: center;">$499</td><td style="width: 37.096%; text-align: center;">$599</td></tr></tbody></table>
+| Kategoria   | 01.06 - 31.07. 2018 | 01.08 - 11.09.2018 |
+| ----------- | ------------------- | ------------------ |
+| Konferencja | $1,099              | $1,199             |
+| Warsztaty   | $499                | $599               |
 
 [Tutaj](https://www.madcapsoftware.com/conference/madworld-europe-2018/pricing.aspx#content)
 znajdziecie szczegółowy opis tego, co zawiera cena oraz możliwość zarezerwowania

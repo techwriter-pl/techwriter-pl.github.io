@@ -58,7 +58,7 @@ ITTraining i podczas rejestracji powołają się na nasz portal otrzymają **20%
 zniżki**.
 
 Ale później muszą podzielić się z nami wrażeniami - w komentarzach, mailem lub
-na FB :).
+na FB 😊.
 
 Pamiętajcie też, że zawsze możecie poprosić swojego pracodawcę o sfinansowanie
-takiego szkolenia, w całości lub części - po co przepłacać ;)
+takiego szkolenia, w całości lub części - po co przepłacać 😉

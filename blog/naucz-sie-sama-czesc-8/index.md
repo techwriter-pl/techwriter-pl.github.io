@@ -128,7 +128,7 @@ nagrań:
 
 # Poczytaj mi...
 
-Dzieciom czytają rodzice (a jeśli tego nie robią to powinni ;) ), a nam może
+Dzieciom czytają rodzice (a jeśli tego nie robią to powinni 😉 ), a nam może
 poczytać syntezator mowy. Zamiana tekstu na mowę (text to speech) to kolejna
 oprócz podcastów opcja na poszerzanie wiedzy poprzez słuchanie. Dzięki temu
 rozwiązaniu możecie odsłuchiwać książki i artykuły, których nie macie czasu

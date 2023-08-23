@@ -11,7 +11,7 @@ coverImage: "review.jpg"
 
 Jeśli siedzisz właśnie na nudnym spotkaniu to temat powinien Cię zainteresować.
 Jeżeli nie - przeczytaj i tak - nauczysz się jak się organizuje nudne spotkania
-:). Oraz paru innych przydatnych rzeczy. Zapraszamy do riwiu naszej najnowszej
+😊. Oraz paru innych przydatnych rzeczy. Zapraszamy do riwiu naszej najnowszej
 lekcji języka langłydż.
 
 **Riwiu** \[od ang. review\] - teoretycznie oznacza przegląd (np. dokumentu,
@@ -49,7 +49,7 @@ scenariusze:
    upraszcza - za podjęcie decyzji odpowiedzialni są wszyscy którzy byli
    zaproszeni na spotkanie. Proste, prawda?
 4. Riwiu mody, jak na poniższym przykładzie. Zwróćcie uwagę, że prezentowany
-   zespół miałby ogromne szanse na zwycięstwo również w scenariuszu nr 2 ;)
+   zespół miałby ogromne szanse na zwycięstwo również w scenariuszu nr 2 😉
 
 [![rewia_mody](images/rewia_mody.jpg)](http://techwriter.pl/wp-content/uploads/2014/06/rewia_mody.jpg)
 

@@ -24,7 +24,11 @@ Bułgarii, Sofii.
 
 Do wyboru pozostały jeszcze bilety w cenach:
 
-<table style="width: 572px;"><tbody><tr><td style="width: 115.03px;"></td><td style="width: 155.97px; text-align: center;"><strong>Cena&nbsp;dla członków tekom Europe</strong></td><td style="width: 199px; text-align: center;"><strong>Cena dla osób nie posiadających członkostwa</strong></td></tr><tr><td style="width: 115.03px; text-align: center;"><strong>2 dni</strong></td><td style="width: 155.97px; text-align: center;">85 €</td><td style="width: 199px; text-align: center;">115 €</td></tr><tr><td style="width: 115.03px; text-align: center;"><strong>1 dzień</strong></td><td style="width: 155.97px; text-align: center;">65 €</td><td style="width: 199px; text-align: center;">90 €</td></tr><tr><td style="width: 115.03px; text-align: center;"><strong>Networking event</strong></td><td style="width: 155.97px;"></td><td style="width: 199px; text-align: center;">35 €</td></tr></tbody></table>
+| Kategoria        | Cena&nbsp;dla członków tekom Europe | Cena dla osób nie posiadających członkostwa |
+| ---------------- | ----------------------------------- | ------------------------------------------- |
+| 2 dni            | 85 €                                | 115 €                                       |
+| 1 dzień          | 65 €                                | 90 €                                        |
+| Networking event | 35 €                                |
 
 Formularz do rejestracji i dodatkowe informacje znajdziecie
 [tutaj](https://evolution-of-tc.com/register/).

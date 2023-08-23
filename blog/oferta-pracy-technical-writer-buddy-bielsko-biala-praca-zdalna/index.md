@@ -14,7 +14,7 @@ Możliwa praca zdalna oraz w niepełnym wymiarze godzin!
 
 Niewiele firm z naszego kraju może pochwalić się rozpoznawalnym na całym świecie
 produktem. [Buddy](https://buddy.works/) może. I robi to
-[śpiewająco](https://youtu.be/sYUqFoJvK94) :) Narzędzie powstało w 2015 roku i
+[śpiewająco](https://youtu.be/sYUqFoJvK94) 😊 Narzędzie powstało w 2015 roku i
 od tego czasu nieustannie się rozwija. A tak wygląda
 [dokumentacja](https://buddy.works/guides). Choćby z tego powodu warto przyjrzeć
 się bliżej tej propozycji.

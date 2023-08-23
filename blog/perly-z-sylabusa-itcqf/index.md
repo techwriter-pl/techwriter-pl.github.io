@@ -16,7 +16,7 @@ coverImage: "2021-09-10_00-16-46-1.png"
 W dzisiejszym artykule znajdziecie kilka perełek pochodzących z
 [sylabusa ITCQF](https://itcqf.org/wp-content/uploads/2020/06/ITCQF_Syllabus_v2_0Jun2020.pdf)
 wraz z komentarzami na ich temat. Liczę, że po ich przeczytaniu zechcecie
-sięgnąć po cały tekst źródłowy ;).
+sięgnąć po cały tekst źródłowy 😉.
 
 Czytanie dokumentacji nie stanowi zbyt częstej i pasjonującej lektury.
 Najczęściej sięgamy po nią dopiero wtedy, gdy problem z obsługą okazuje się
@@ -171,7 +171,7 @@ Osoby stawiające pierwsze kroki znajdą wyczerpujący opis wszystkich głównyc
 nurtów komunikacji technicznej - wiedza w pigułce. ITCQF zawiera uniwersalną
 strukturę, o którą można oprzeć swoje praktyki, niezależnie od branży w jakiej
 się pracuje. Nie trzeba wymyślać koła na nowo, a zaoszczędzoną energię można
-przeznaczyć na aspekty unikalne dla Twoich projektów ;).
+przeznaczyć na aspekty unikalne dla Twoich projektów 😉.
 
 Osoby zaawansowane ugruntują swoją wiedzę i zobaczą proces dokumentacyjny z
 szerszej perspektywy, ujęty w obiektywne standardy branży, co pomoże im opisać

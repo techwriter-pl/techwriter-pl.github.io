@@ -28,7 +28,7 @@ I give him my CV because there were so many IT jobs coming to Prague after they
 joined the EU. Shortly thereafter I interviewed for a Tech Writer job. My sales
 pitch was that writing user documentation was like writing test cases and bug
 reports except the result was a positive one. Ten years on, I'm still doing it.
-:)
+😊
 
 ### Can you say something about the company you work for and your team?
 
@@ -47,7 +47,7 @@ We are locked into using Word, SharePoint, and a secure repository for finished
 work. It's very old fashioned, but there is a movement to modernize our
 workflow. I'd rather be using a proper version control system and a more
 lightweight document format, but the nice people and work environment more than
-make up for it. :)
+make up for it. 😊
 
 ### How do you get the information you need to prepare/create documentation?
 
@@ -106,7 +106,7 @@ where more than a small percentage of people know about tech writers.
 None that I know about, currently. There was a group a few years ago that I was
 a member of from 2008, but it fell apart after a couple years. I could start a
 Meetup group, but these tend to devolve into beer drinking events. Though that's
-not a totally bad thing. :)
+not a totally bad thing. 😊
 
 ### Are there any tech comm conferences in the Czech Republic?
 

@@ -18,10 +18,10 @@ nowych kandydatów.
 Jeżeli chcecie spróbować swoich sił, to wszelkie szczegóły znajdziecie poniżej,
 albo na
 [pracuj.pl](http://www.pracuj.pl/praca/technical-writer-krakow,oferta,3644713) (w
-pełnej krasie graficznej i z działającym przyciskiem Aplikuj :)):
+pełnej krasie graficznej i z działającym przyciskiem Aplikuj 😊):
 
 [![3dsTechWriter](images/3dsTechWriter.jpg)](http://techwriter.pl/wp-content/uploads/2014/11/3dsTechWriter.jpg)
 
-Ciekawa fabuła, wielu bohaterów... zdecydowanie polecamy :)
+Ciekawa fabuła, wielu bohaterów... zdecydowanie polecamy 😊
 
 Powodzenia!

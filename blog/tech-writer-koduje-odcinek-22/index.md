@@ -47,4 +47,4 @@ z najpopularniejszych generatorów stron statycznych.
 
 Na koniec kilka bonusowych pomysłów na inne wykorzystanie Next.js. Zdaniem
 Michała i Pawła, narzędzie to może nam się przydać kiedy piszemy dokumentację w
-standardzie DITA. A jak to zrobić? Posłuchajcie sami ;-)
+standardzie DITA. A jak to zrobić? Posłuchajcie sami 😉

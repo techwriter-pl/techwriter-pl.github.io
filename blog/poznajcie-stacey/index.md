@@ -78,4 +78,4 @@ chociaż muszą się jeszcze "dotrzeć".
 
 Stacey i Bootstrap są chętni do pracy. Nie mają dużych wymagań, więc jeśli macie
 wolny kąt na serwerze WWW, to możecie ich tam zaprosić. Kto wie, może zostaną na
-dłużej :)
+dłużej 😊

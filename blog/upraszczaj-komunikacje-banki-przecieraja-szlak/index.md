@@ -20,7 +20,7 @@ tej historii...
 
 "Prosta komunikacja się opłaca" - a najlepszym dowodem na to jest praktyczne
 wdrażanie tej zasady przez dwa duże polskie banki. Gdzież bowiem lepiej liczą
-pieniądze niż w bankach? :) Z przyjemnością prezentujemy Wam dziś dwa przykłady
+pieniądze niż w bankach? 😊 Z przyjemnością prezentujemy Wam dziś dwa przykłady
 dużych inwestycji w komunikację z klientem końcowym. Zbiegiem okoliczności (?)
 na oba natknęliśmy się w bankach często uznawanych za liderów w swojej branży,
 szczególnie pod względem zastosowania nowych technologii.
@@ -62,4 +62,4 @@ Również w tym banku chętnie sięgają po pomoc fachowców - w tym wypadku jes
 Mamy nadzieję, że powyższe przykłady natchną Was do tego, aby uprościć
 komunikację również w Waszej firmie. Macie teraz świetne argumenty, z łatwością
 przekonacie swoich szefów. Każdy szef przecież w głębi duszy chce zostać kiedyś
-bankierem ;) Trzymamy kciuki!
+bankierem 😉 Trzymamy kciuki!

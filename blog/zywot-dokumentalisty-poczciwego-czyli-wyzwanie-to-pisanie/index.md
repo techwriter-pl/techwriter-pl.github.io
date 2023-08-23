@@ -21,7 +21,7 @@ jak sobie radzić w trudnych sytuacjach. Problemy są różne, dlatego nasza lis
 żadnym wypadku nie wyczerpuje tematu. Jest to jedynie zestawienie, które
 zbudowaliśmy na podstawie własnych doświadczeń. Nie chcemy nikogo zniechęcać do
 zawodu Technical Writera, a jedynie uświadomić, że to nie zawsze plaża i drinki
-ze słomką ;)
+ze słomką 😉
 
 ## Edukacyjna pustynia
 
@@ -122,7 +122,7 @@ spore szanse na bycie tymi właściwymi kandydatami. Jesteśmy pełni nadziei, �
 biegiem czasu Technical Writing w naszym kraju będzie nabierał rozpędu. Póki co
 działajmy. Uświadamiajmy ludzi, że instrukcje to nie jakieś świstki papieru
 tylko owoc ciężkiej pracy dokumentalistów. Może trochę zbyt górnolotnie to
-brzmi, ale wiecie o co nam chodzi ;)
+brzmi, ale wiecie o co nam chodzi 😉
 
 Dajcie nam znać w komentarzach lub w inny sposób z czym Wy się mierzycie na co
 dzień i czy Wasze żale pokrywają się z naszymi.

@@ -38,7 +38,7 @@ https://twitter.com/gwynethmarta/status/738361304210100224
 ...czyli drugi czerwca. Drugi również dlatego, że konferencję poprzedzała w tym
 roku seria warsztatów pod nazwą
 ["Edu Summit"](http://soapconf.com/edu-summit/) - pięć kilkugodzinnych sesji
-dostępnych dla wszystkich z okazji Dnia Dziecka ;) Chętnie poznamy opinię
+dostępnych dla wszystkich z okazji Dnia Dziecka 😉 Chętnie poznamy opinię
 uczestników. Podzielcie się z nami komentarzami jeżeli braliście w nich udział.
 
 Właściwa konferencja rozpoczęła się po warsztatach. Pierwszy dzień już
@@ -67,7 +67,7 @@ kandydatem to jest on dyskwalifikowany. Powód jest prosty - umiejętności moż
 się nauczyć, ale osobowości nie da się tak łatwo zmienić. Dowiedzieliśmy się
 też, że powinniśmy zapomnieć o poprawności politycznej budując zespół i
 zatrudniać osoby, które chcemy, a nie które wypada zatrudnić. Poprosił też, żeby
-go nie cytować, ale byłoby grzechem nie wykorzystać takiej wystawki ;) Ciekawe
+go nie cytować, ale byłoby grzechem nie wykorzystać takiej wystawki 😉 Ciekawe
 było też stwierdzenie, że jeśli pracownik jest zwalniany lub odchodzi to jest to
 wina kierownika. Dlaczego? Ponieważ albo zatrudnił niewłaściwą osobę albo
 zatrudnił właściwą i zawalił coś później. Daje do myślenia.
@@ -137,7 +137,7 @@ Mydlany czwartek zakończył się networkingiem przy przysłowiowej lampce wina 
 barze centrum Manggha, który przerodził się w spontaniczną mini-imprezę w
 pobliskim pubie. To pozwoliło bardziej aktywnym uczestnikom płynnie przejść do
 drugiej części wydarzenia. Jak widać wszyscy wzięli sobie bardzo do serca
-apel organizatorów z otwarcia konferencji ;)
+apel organizatorów z otwarcia konferencji 😉
 
 ## Dzień drugi
 
@@ -223,7 +223,7 @@ _plus media queries_
 
 _give you success!_
 
-To już oczywiście nasza poetycka interpretacja ;) A CSS to oczywiście Kaskadowe
+To już oczywiście nasza poetycka interpretacja 😉 A CSS to oczywiście Kaskadowe
 Arkusze Styli (czyli KASty).
 
 https://twitter.com/a2tee/status/738705253781131264
@@ -264,7 +264,7 @@ zapadające w pamięć, oryginalne, efektowne, niebanalne. Tym różnimy się od
 maszyn, w tym mamy nad nimi przewagę i dlatego nie damy się im zastąpić! Świetna
 prelekcja, genialne zakończenie i optymistyczna kropka nad i. Po występie
 Travisa oraz oficjalnym zakończeniu konferencji przez Gosię Radymiak już nie
-tylko my musieliśmy się napić :)
+tylko my musieliśmy się napić 😊
 
 https://twitter.com/a2tee/status/738753895644729344
 
@@ -286,7 +286,7 @@ Spotkaliśmy gości z następujących krajów: Polska, Anglia, Niemcy, Czechy,
 Ukraina, Rosja, Kanada, Finlandia, Irlandia, Hiszpania, Włochy, Kazachstan, USA.
 
 Koniecznie musimy dodać, że organizatorzy nagrywali wszystkie prezentacje i
-obiecali je udostępnić. Cieszymy się z tego ogromnie i czekamy niecierpliwie! :)
+obiecali je udostępnić. Cieszymy się z tego ogromnie i czekamy niecierpliwie! 😊
 
 https://twitter.com/SoapConf/status/740240036130611204
 

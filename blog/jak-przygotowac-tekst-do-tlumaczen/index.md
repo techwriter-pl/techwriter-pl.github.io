@@ -37,7 +37,7 @@ będą tłumaczone na inne języki?
 
 Jeśli chcecie zaoszczędzić swój czas i uniknąć pytań ze strony tłumacza, a tym
 samym  otrzymać dobrej jakości tłumaczenie warto skorzystać z poniższych
-instrukcji ;)
+instrukcji 😉
 
 ## Porady i wskazówki
 
@@ -60,7 +60,7 @@ instrukcji ;)
   samej rodziny mają zbliżoną gramatykę i pokrewne znaczenie słów. Natomiast
   tłumaczenie pomiędzy rodzinami językowymi będzie stanowiło o wiele większe
   wyzwanie ze względu na ich zasadnicze różnice, ale to już temat na kolejny
-  artykuł. ;)
+  artykuł. 😉
 - Unikajcie długich opisów rzeczowników - tłumacz musi wywnioskować związek
   między słowami. Jeśli musisz przeczytać zdanie kilka razy, aby je zrozumieć,
   być może, wystąpią dalsze komplikacje, gdy zostanie ono przetłumaczone na
@@ -79,7 +79,7 @@ instrukcji ;)
   jednego pojęcia wpływa niekorzystnie na ogólną spójność tłumaczenia. Może to
   prowadzić do obniżenia jakości, wzrostu kosztów i wydłużenia czasu realizacji.
   _**Przykład**:_ Jeśli używasz nazwy _**servo control unit**_, używaj jej w
-  całym dokumencie, nie zmieniaj jej na **_actuator_** w innym miejscu :).
+  całym dokumencie, nie zmieniaj jej na **_actuator_** w innym miejscu 😊.
 - Unikajcie skrótów lub ograniczcie ich stosowanie. Skróty w innych językach
   mogą być niezrozumiałe, a nawet mieć zupełnie inne znaczenie. _**Przykład**:_
   Skrót z języka angielskiego, przetłumaczony na język polski: _**SDS** (Safety
@@ -106,7 +106,7 @@ przeredagować, przesunąć lub w inny sposób dostosować, aby zmieściło się
 wyznaczonym miejscu.
 
 \- układ graficzny powinien zostać dopasowany, dopiero gdy tłumaczenie jest
-gotowe, wtedy unikniecie wciskania na siłę tłumaczenia w określoną formę ;).
+gotowe, wtedy unikniecie wciskania na siłę tłumaczenia w określoną formę 😉.
 
 \- jeśli Wasz projekt już ruszył, dobrze jest upewnić się, że maksymalna
 przestrzeń nie została wykorzystana już w tekście źródłowym. Z zasady każde
@@ -154,7 +154,7 @@ tłumacz lubi technical writera, zapraszamy do przeczytania cyklu wpisów
 poświęconych tej właśnie tematyce
 [(tutaj)](http://techwriter.pl/za-co-tlumacze-lubia-autorow-internacjonalizacja/),
 [(tutaj)](http://techwriter.pl/za-co-tlumacze-lubia-autorow-skladaki/) i jeszcze
-[(tutaj)](http://techwriter.pl/za-co-tlumacze-lubia-autorow-spojnosc/). ;)
+[(tutaj)](http://techwriter.pl/za-co-tlumacze-lubia-autorow-spojnosc/). 😉
 
 A może macie swoje doświadczenia z tłumaczeniem tekstów źródłowych i
 chcielibyście podzielić się cennymi wskazówkami? Jak Wy przygotowuje

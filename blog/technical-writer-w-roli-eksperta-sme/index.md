@@ -102,4 +102,4 @@ Jak widać, ścieżka rozwoju technical writera jest długa i obfituje w wiele
 możliwości dla rozwoju umiejętności zawodowych. Niejednokrotnie ktoś, kto
 zostaje zatrudniony tymczasowo, ma szansę na stałą pracę, w miarę jak poszerza
 swoją wiedzę na temat firmy i jej produktów. Warto więc wziąć pod uwagę pracę
-jako technical writer planując swoją przyszłość zawodową ;).
+jako technical writer planując swoją przyszłość zawodową 😉.

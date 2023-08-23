@@ -34,7 +34,7 @@ napisania testu dla technical writera. Pierwszy raz w życiu rekrutował taką
 osobę i wcześniej nie miał w projekcie specjalisty ds. dokumentacji. Był
 autentycznie zainteresowany wymaganiami i charakterem pracy w tym zawodzie.
 Starałem się przybliżyć specyfikę tego co robię, nie epatując nadmiarem żargonu
-i skrótów myślowych. Mam nadzieję, że go zbyt mocno nie skołowałem ;).
+i skrótów myślowych. Mam nadzieję, że go zbyt mocno nie skołowałem 😉.
 Udzieliłem kilku odpowiedzi "na gorąco", sprawę przekazałem do firmy DREDAR
 Darka Drezno doradzającej w takich sprawach i wróciłem do swoich zajęć. Temat
 wydał mi się jednak na tyle istotny i ciekawy, że postanowiłem go zbadać,
@@ -228,7 +228,7 @@ szybko znany.
 ## Wykonaj ćwiczenie w czasie spotkania online lub w biurze
 
 Dodatkowym wyzwaniem może być fakt, że rozwiązujesz test będąc na wizji, a
-rekrutujący czekają aż skończysz. Niby nic, ale można się spocić ;)
+rekrutujący czekają aż skończysz. Niby nic, ale można się spocić 😉
 
 ## Objętość
 
@@ -255,7 +255,7 @@ Tu innowacyjne utrudnienie: kandydat instaluje aplikację, która ogranicza
 widoczny obszar ekranu do zadań testowych i wyłączone zostają dobrodziejstwa,
 takie jak dostęp do wyszukiwarek i internetowych słowników.
 
-Mała niedogodność, ale zawsze ;)
+Mała niedogodność, ale zawsze 😉
 
 # Porada dla rekrutujących
 

@@ -14,7 +14,7 @@ coverImage: "WriteTheDocsPrague-e1501772951385.jpg"
 Write the Docs Prague już tuż tuż! Zapominalskim przypominamy, że zostało
 niewiele ponad dwa tygodnie do jednego z najciekawszych branżowych wydarzeń w
 Europie. Niezdecydowanych zapraszamy na
-[relację z poprzedniej edycji](http://techwriter.pl/write-the-docs-europe-2016-relacja/) ;-).
+[relację z poprzedniej edycji](http://techwriter.pl/write-the-docs-europe-2016-relacja/) 😉.
 
 W tym roku rewolucji nie będzie, organizatorzy postanowili zachować sprawdzoną
 formułę. Podobnie jak rok temu, będzie sporo czasu na zapoznanie się z
@@ -42,4 +42,4 @@ konferencji. Praga to piękne miasto pełne atrakcji, położone w centrum Europ
 do którego łatwo dotrzeć samolotem, pociągiem czy samochodem. Organizator zadbał
 o to, by konferencja odbywała się blisko centrum oraz dworca autobusowego.
 
-Przekonani? Dajcie znać, jak było ;-)
+Przekonani? Dajcie znać, jak było 😉

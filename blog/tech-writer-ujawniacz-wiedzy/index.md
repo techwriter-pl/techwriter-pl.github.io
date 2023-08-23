@@ -60,7 +60,7 @@ Więcej szczegółów na temat zarządzania wiedzą znajdziecie
 działań mających na celu zaplanowanie, tworzenie oraz utrzymanie dokumentacji
 technicznej w takich dziedzinach jak na przykład: oprogramowanie i sprzęt
 komputerowy, inżynieria, robotyka, finanse, czy biotechnologia. Można więc
-powiedzieć, że my, tech writerzy, zajmujemy się również ujawnianiem wiedzy :).
+powiedzieć, że my, tech writerzy, zajmujemy się również ujawnianiem wiedzy 😊.
 Podobnie jak zarządzanie wiedzą, tak i technical writing stał się popularny wraz
 z rozwojem komputeryzacji i świadomości konsumenckiej.
 
@@ -94,11 +94,11 @@ Technical writer może pomóc w zapisie i dystrybucji dokumentów poprzez:
 ## Praktyka:
 
 Na co dzień często pracujemy z różnego rodzaju bazami wiedzy (knowledge bases),
-które często wypełniamy wiedzą ujawnioną ;) Pisaliśmy o nich dawno temu:
+które często wypełniamy wiedzą ujawnioną 😉 Pisaliśmy o nich dawno temu:
 [http://techwriter.pl/bazy-wiedzy/](http://techwriter.pl/bazy-wiedzy/)
 
 Dlaczego zarządzanie wiedzą jest ważne? Poniżej lista pozytywów, które
-znaleźliśmy. Może dodacie do niej coś od siebie ;)
+znaleźliśmy. Może dodacie do niej coś od siebie 😉
 
 - daje dostęp pracownikom do ogólnej wiedzy specjalistycznej,
 - pozwala na tworzenie treści według jednego standardu (używanie style guide,

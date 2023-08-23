@@ -50,7 +50,7 @@ zwracano się do Ciebie. Jakieś sugestie?
 Oto kilka ode mnie, które myślę, że mogą się sprawdzić.
 
 1. **Bądź przyjazny i postaraj się poznać swojego SME**Jak? Nic prostszego.
-   Wyskoczcie na kawę, obiad a może piwko, albo dwa ;) Zostawcie służbowe tematy
+   Wyskoczcie na kawę, obiad a może piwko, albo dwa 😉 Zostawcie służbowe tematy
    i pogadajcie o swoim hobby albo planach na weekend czy wakacje. O
    netflixowych rekomendacjach można rozmawiać godzinami. Przełamanie lodu na
    pewno zaprocentuje. ![](images/sme_2.png)
@@ -71,13 +71,13 @@ Oto kilka ode mnie, które myślę, że mogą się sprawdzić.
 4. **Friendly reminder**Nie czekaj w nieskończoność na odpowiedź od SME.
    Pamiętaj, jest zwykłym człowiekiem, któremu może zdarzyć się, że o czymś
    zapomni. Warto przypomnieć o sobie – w przyjazny sposób.Śmieszny mem powinien
-   zburzyć wszelkie mury między wami ;) ![](images/sme_5.png)
+   zburzyć wszelkie mury między wami 😉 ![](images/sme_5.png)
 
 Mając na uwadze powyższe sugestie, pomyśl w jakim środowisku Ty chciałbyś
 pracować i spróbuj zbudować taką relację z SME na jakiej Tobie by zależało.
 Relację opartą na szacunku, zaufaniu i życzliwości. Założę się, że każdy by
 takiej współpracy sobie życzył (pod warunkiem, że nie mamy do czynienia z
-psychopatą ;) )
+psychopatą 😉 )
 
 **Long story short: A Happy SME = A Happy Technical Writer**
 

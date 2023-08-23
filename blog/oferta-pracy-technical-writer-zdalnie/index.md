@@ -32,4 +32,4 @@ lub poprzez
 [formularz](http://www.technicallywriteit.com/careers/recruitment-form/) na
 stronie.
 
-Ktoś chętny na podbój "zielonej wyspy"? :)
+Ktoś chętny na podbój "zielonej wyspy"? 😊

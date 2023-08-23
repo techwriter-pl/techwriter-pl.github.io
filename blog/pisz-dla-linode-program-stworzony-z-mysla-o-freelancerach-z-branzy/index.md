@@ -65,7 +65,7 @@ kroki:
    repozytorium GitHub.
 2. Praca nad poprawkami w proponowanym tekście.
 3. Publikacja tekstu wraz z promocją w social mediach oraz wypłata rzecz jasna
-   ;-).
+   😉.
 
 Osoby, które będą chciały powtórnie napisać tekst dla Linode nie muszą
 przechodzić weryfikacji. Wystarczy, że zgłoszą się z pomysłem do osoby, z którą

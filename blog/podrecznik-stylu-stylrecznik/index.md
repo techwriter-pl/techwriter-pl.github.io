@@ -22,7 +22,7 @@ zestaw tworzy się po to, aby wszystkie publikowane dokumenty miały podobny
 wygląd, styl i używały tej samej terminologii.
 
 Przykład: pisząc o osobie zajmującej się komunikacją techniczną zawsze używamy
-zwrotu **Technical Writer** (z dużych liter i pogrubione) ;).
+zwrotu **Technical Writer** (z dużych liter i pogrubione) 😉.
 
 [Definicja z wikipedii wraz z różnorakimi przykładami](http://en.wikipedia.org/wiki/Style_guide).
 
@@ -72,10 +72,10 @@ mieć na początku jedną stronę, ważne aby był stosowany i odświeżany w mi
 potrzeb. Czas i codzienne wątpliwości same wypełnią go potrzebną treścią.
 
 Na zakończenie przestawiamy najciekawszy Style Guide jaki udało nam się
-znaleźć - [Beard Style Guide](http://www.beards.org/styles.php) :)
+znaleźć - [Beard Style Guide](http://www.beards.org/styles.php) 😊
 
 Jak  pewnie zauważyliście techwriter.pl nie ma jeszcze swojego Style Guide, co
 przy rosnącej liczbie redaktorów zaczyna powoli być problemem... Ale jak wiadomo
-szewc bez butów chodzi, a poza tym postaramy się poprawić :)
+szewc bez butów chodzi, a poza tym postaramy się poprawić 😊
 
 A czy Wy macie u siebie stylręcznik?

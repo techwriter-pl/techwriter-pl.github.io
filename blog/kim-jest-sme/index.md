@@ -92,7 +92,7 @@ Najskuteczniejszą strategią uzyskiwania informacji jest
 wywiadzie z SME stał się nie tylko produktywny, ale też przyjemny dla obu stron?
 
 - Ciasteczka i kawa - najlepszy sposób na „omamienie” rozmówcy i wyciągnięcie z
-  niego, tego czego nam potrzeba, w jakże przyjemnej atmosferze ;).
+  niego, tego czego nam potrzeba, w jakże przyjemnej atmosferze 😉.
 - Dyktafon (lub inne urządzenie zapisujące dźwięk) - jeśli posiadacie smartfon
   takie urządzenie jest ciągle z Wami. Aplikacji tego typu jest mnóstwo -  osoby
   zainteresowane odsyłamy do
@@ -151,4 +151,4 @@ przegrzania. Oto one:
 Gdy zakończymy pracę nad naszym projektem warto dodatkowo podziękować SME za
 poświęcony nam czas. Dobre kontakty to jedno z kluczowych elementów sukcesu we
 współpracy z innymi, a przecież my, Technical Writerzy, chcemy pracować jak
-najlepiej ;).
+najlepiej 😉.

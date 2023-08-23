@@ -9,7 +9,7 @@ tags:
 coverImage: "deviniti_logo_podstawowe-100.jpg"
 ---
 
-Fajna oferta, w pakiecie obszerne szkolenie! :)
+Fajna oferta, w pakiecie obszerne szkolenie! 😊
 
 Deviniti - We’re a Software Company and we’re currently looking for a Technical
 Writer, someone who is passionate about IT and looking to develop their career

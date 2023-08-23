@@ -56,7 +56,7 @@ width="590"\][![](images/43685540195_bc81563880_k-1024x683.jpg)](http://techwrit
 
 Uczestnicy licznie zapełnili główną arenę wydarzeń tworząc iście konferencyjny
 klimat. Koszulka naszego portalu zdecydowanie pomagała nam nawiązywać nowe
-kontakty i wyłapywać z tłumu naszych rodaków :). Pojawiło się sporo znajomych
+kontakty i wyłapywać z tłumu naszych rodaków 😊. Pojawiło się sporo znajomych
 twarzy, choćby z krakowskiego soap!. W końcu wybiła dziesiąta i konferencja
 oficjalnie się rozpoczęła.
 
@@ -112,7 +112,7 @@ sprzężonej z dedykowanym oprogramowaniem.
 ### [![](images/image8.png)](http://techwriter.pl/wp-content/uploads/2019/04/image8.png) How to tear down existing documentation and rewrite docs that actually work - Alexandra White
 
 Jeśli nie pracowaliście nigdy nad “legacy docs” (w wolnym tłumaczeniu
-"dokumentami, które dostaliście w spadku" :)) to tak naprawdę nie wiecie co to
+"dokumentami, które dostaliście w spadku" 😊) to tak naprawdę nie wiecie co to
 praca z dokumentacją. Taki wniosek można było wyciągnąć po wysłuchaniu tego
 wystąpienia. Prelegentka jednak wyszła z bardzo ciekawym pomysłem “zrównania
 dokumentacji z ziemią” i stworzenia jej na nowo. Alexandra omówiła zagrożenia
@@ -197,7 +197,7 @@ z nich należą:
 - Jasne stwierdzenie co jest nie tak (limitation), co powinno się stać (goal),
   jak osiągnąć cel (workaround)
 - Podanie obejścia problemu wraz z przykładem jego odtworzenia
-- Unikanie obietnic, że coś zostanie naprawione (wiadomo, różnie bywa ;))
+- Unikanie obietnic, że coś zostanie naprawione (wiadomo, różnie bywa 😉)
 - Podanie wskazówek, np. dotyczących nawigowania w niezbyt dobrze
   zaprojektowanym interfejsie
 
@@ -412,7 +412,7 @@ https://twitter.com/writethedocs/status/1039082803151949824
 Pojawiły się tematy lekkie, trudne zagadnienia techniczne, motywy z pogranicza
 psychologii oraz śmieszne i kompletnie niezwiązane z tworzeniem treści przemowy.
 Drugiego dnia pojawił się nawet utwór śpiewany a cappella przez grupę dobrze
-zintegrowanych na wieczornej imprezie uczestników :) Oczywiście był to utwór o
+zintegrowanych na wieczornej imprezie uczestników 😊 Oczywiście był to utwór o
 tematyce związanej z dokumentacją.
 
 https://twitter.com/writethedocs/status/1039133977238482949

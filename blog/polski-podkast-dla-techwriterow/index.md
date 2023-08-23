@@ -51,7 +51,7 @@ powstania projektu i o tym jak funkcjonuje:
 > w taki sposób - dwóch ziomków, którzy są zajawieni tym samym rozmawiają sobie
 > swobodnie, ale jednocześnie rzeczowo o tematach, które ich kręcą. Dlatego też,
 > po wymyśleniu tematu zapytałem Pawła czy chciałby odpalić ze mną podcast. Od
-> razu się zgodził co mnie bardzo ucieszyło. I maszyna ruszyła :)
+> razu się zgodził co mnie bardzo ucieszyło. I maszyna ruszyła 😊
 >
 > Do odcinków nie przygotowujemy się szczegółowo. Ustalamy tylko temat i główne
 > obszary, na których chcemy się skupić. Rozmawiamy o rzeczach, które czujemy i
@@ -61,7 +61,7 @@ powstania projektu i o tym jak funkcjonuje:
 > tematy, które nas kręcą to w rzeczywistości lubimy się i dobrze się
 > dogadujemy. Myślę, że to jest klucz do tego, że nagrywanie jest dla nas samą
 > przyjemnością. Co jakiś czas zapraszamy gościa, który lepiej niż my zna się na
-> temacie. Dzięki temu jest jeszcze lepsza zabawa :)
+> temacie. Dzięki temu jest jeszcze lepsza zabawa 😊
 >
 > Jeszcze zagadka. To jak wygląda nasze logo ma swoje uzasadnienie. Obecność
 > kropek i kwadracika koło słowa "koduje" jest świadomą decyzją. Może ktoś z
@@ -71,4 +71,4 @@ powstania projektu i o tym jak funkcjonuje:
 
 Gratulujemy pomysłu i samozaparcia, a także już stworzonych audycji! Z
 przyjemnością dodajemy Tech Writer koduje do grona naszych partnerów i trzymamy
-kciuki za dalszy rozwój :)
+kciuki za dalszy rozwój 😊

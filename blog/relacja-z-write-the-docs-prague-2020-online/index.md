@@ -154,7 +154,7 @@ Na co zwrócić uwagę?
   dokument.
 - Na koniec warto zweryfikować i przetestować to co Wam się udało stworzyć.
 
-Co tu dużo pisać ;-)
+Co tu dużo pisać 😉
 
 > ”Examples are worth 1000 words”
 

@@ -34,13 +34,13 @@ Materiały szkoleniowe to zazwyczaj:
 - pytania egzaminacyjne (jeżeli szkolenie kończy się formalnym sprawdzeniem
   umiejętności),
 - certyfikaty/dyplomy ukończenia kursu,
-- cokolwiek jeszcze trener sobie wymyśli ;)
+- cokolwiek jeszcze trener sobie wymyśli 😉
 
 Jeżeli mamy dostęp do już istniejącej dokumentacji produktu, to jest to dobry
 początek, ale tylko początek. Kluczem do stworzenia efektywnych materiałów
 szkoleniowych jest zrozumienie do kogo szkolenie jest skierowane i jakie
 umiejętności uczestnicy powinni nabyć w trakcie szkolenia. Niestety bardzo
-często ten etap jest pomijany :).
+często ten etap jest pomijany 😊.
 
 Kiedy znamy już odbiorców szkolenia i wiemy czego mają się nauczyć, możemy
 przystąpić do budowania agendy, tworzenia slajdów (tu często ważniejsze niż same
@@ -61,4 +61,4 @@ historia...
 Na koniec tradycyjnie
 [przykład](http://www.pzpn.pl/index.php/Federacja/Trenerzy/Materialy-szkoleniowe)
 na to, ile koloru, radości i wiedzy mogą wprowadzić w nasze życie
-"profesjonalnie" przygotowane materiały szkoleniowe :).
+"profesjonalnie" przygotowane materiały szkoleniowe 😊.

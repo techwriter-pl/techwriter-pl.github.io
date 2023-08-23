@@ -84,6 +84,6 @@ swoje wynagrodzenie używały w różny sposób wielkich i małych liter.
 Jak oceniacie przedstawione przez nas dane? Czy są według Was bliskie
 rzeczywistości czy raczej mają z nią niewiele wspólnego? Czekamy na Wasze
 komentarze i życzymy Wam, żebyście nigdy po wypłacie nie czuli się w sposób
-przedstawiony na filmiku poniżej ;)
+przedstawiony na filmiku poniżej 😉
 
 https://www.youtube.com/watch?v=dR4nSfI\_EfQ

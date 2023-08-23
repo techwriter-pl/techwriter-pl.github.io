@@ -22,7 +22,7 @@ WYSIWYG, szablony, wbudowane narzędzie do robienia zrzutów ekranu, style oraz
 budowanie dokumentacji na podstawie określonych warunków. Poniżej możecie
 obejrzeć krótki filmik promujący aplikację.
 
-<iframe src="https://www.youtube.com/embed/OO7xKNYXP78?feature=player_embedded" width="640" height="360" frameBorder="0" allowFullScreen="allowFullScreen"></iframe>
+<iframe src="https://www.youtube.com/embed/OO7xKNYXP78?feature=player_embedded" width={640} height={360} frameBorder={0} allowFullScreen="allowFullScreen" />
 
 Jak każdy szanujący się HAT, Helpinator wspiera również generowanie dokumentacji
 do wielu formatów z jednego źródła, czyli
@@ -67,4 +67,4 @@ można pobrać z działu [Download](http://helpinator.com/download.html) na stro
 aplikacji i zainstalować na Windowsie XP/7/8. Na szczęście nie wymaga to
 podawania żadnych danych osobowych.
 
-Owocnego testowania :)
+Owocnego testowania 😊

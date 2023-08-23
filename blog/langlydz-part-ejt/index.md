@@ -24,15 +24,15 @@ czy też bagnach
 
 My pozostaniemy jednak w świecie informatyki. Wikipedia definiuje frejmłork jako
 ["platformę programistyczną" będącą "szkieletem do budowy aplikacji"](http://pl.wikipedia.org/wiki/Framework).
-Tym, którym platforma i szkielet kojarzą się z polityką i trupami ;) zwracamy
+Tym, którym platforma i szkielet kojarzą się z polityką i trupami 😉 zwracamy
 uwagę na stwierdzenie "Według Pree framework składa się
 z *zamrożonych* i *gorących punktów*." w tym samym artykule. Nie wiemy kim jest
 Pree, ale jesteśmy mu wdzięczni za przeniesienie naszych myśli z cmentarza na
-lody i gorącą czekoladę :).
+lody i gorącą czekoladę 😊.
 
 Bez sensu? Otóż to! W praktyce mianem frejmłorku nazywa się wszystko... i nic.
 To słowo nic nie znaczy, ale użycie go w rozmowie od razu sprawia, że wydaje się
-ona bardziej uczona ;). Jeżeli ktoś mówi Wam "zbudujmy frejmłork, który pozwoli
+ona bardziej uczona 😉. Jeżeli ktoś mówi Wam "zbudujmy frejmłork, który pozwoli
 nam rozwiązać problem X", zapytajcie go, dlaczego po prostu nie rozwiązać
 problemu X od razu, bez budowania frejmłorku. Tak będzie na pewno szybciej.
 Znamy kilka przykładów istniejących frejmłorków, ale znamy również najbardziej

@@ -11,7 +11,7 @@ coverImage: "soap2022.png"
 
 Już za kilka tygodni odbędzie się długo oczekiwana krakowska konferencja soap!.
 Jeśli wciąż zastanawiacie się czy warto się na nią wybrać, poniżej znajdziecie
-garść najważniejszych informacji dotyczących wydarzenia. Może to Was przekona ;)
+garść najważniejszych informacji dotyczących wydarzenia. Może to Was przekona 😉
 
 ### Najważniejsze informacje
 
@@ -45,7 +45,16 @@ Bilety dla osób chcących **osobiście uczestniczyć** w konferencji. Link do
 rejestracji oraz wszelkie potrzebne informacje znajdziecie
 [tutaj](https://evenea.pl/pl/wydarzenie/soap2022inperson).
 
-<table><tbody><tr><td><strong>Nazwa biletu</strong></td><td><strong>Dostępność</strong></td><td><strong>Cena</strong></td></tr><tr><td>Late bird | student (-50%)</td><td>30&nbsp;kwietnia&nbsp;2022, 23:59</td><td>500,00 zł</td></tr><tr><td>Late bird | group 6+ (-20%)</td><td>30&nbsp;kwietnia&nbsp;2022, 23:59</td><td>800,00 zł</td></tr><tr><td>Late bird | group 3-5 (-10%)</td><td>30&nbsp;kwietnia&nbsp;2022, 23:59</td><td>900,00 zł</td></tr><tr><td>Late bird | individual</td><td>30&nbsp;kwietnia&nbsp;2022, 23:59</td><td>1 000,00 zł</td></tr><tr><td>Last minute | student (-50%)</td><td>Jeszcze niedostępne <small>od 1&nbsp;maja&nbsp;2022<span className="weekday">&nbsp;(niedziela)</span></small></td><td>650,01 zł</td></tr><tr><td>Last minute | group 6+ (-20%)</td><td>Jeszcze niedostępne <small>od 1&nbsp;maja&nbsp;2022<span className="weekday">&nbsp;(niedziela)</span></small></td><td>1 040,00 zł</td></tr><tr><td>Last minute | group 3-5 (-10%)</td><td>Jeszcze niedostępne <small>od 1&nbsp;maja&nbsp;2022<span className="weekday">&nbsp;(niedziela)</span></small></td><td>1 170,00 zł</td></tr><tr><td>Last minute | individual</td><td>Jeszcze niedostępne <small>od 1&nbsp;maja&nbsp;2022<span className="weekday">&nbsp;(niedziela)</span></small></td><td>1 300,00 zł</td></tr></tbody></table>
+| Nazwa biletu | Dostępność       | Cena                                                          |
+| ------------ | ---------------- | ------------------------------------------------------------- | ----------- |
+| Late bird    | student (-50%)   | 30&nbsp;kwietnia&nbsp;2022, 23:59                             | 500,00 zł   |
+| Late bird    | group 6+ (-20%)  | 30&nbsp;kwietnia&nbsp;2022, 23:59                             | 800,00 zł   |
+| Late bird    | group 3-5 (-10%) | 30&nbsp;kwietnia&nbsp;2022, 23:59                             | 900,00 zł   |
+| Late bird    | individual       | 30&nbsp;kwietnia&nbsp;2022, 23:59                             | 1 000,00 zł |
+| Last minute  | student (-50%)   | Jeszcze niedostępne od 1&nbsp;maja&nbsp;2022&nbsp;(niedziela) | 650,01 zł   |
+| Last minute  | group 6+ (-20%)  | Jeszcze niedostępne od 1&nbsp;maja&nbsp;2022&nbsp;(niedziela) | 1 040,00 zł |
+| Last minute  | group 3-5 (-10%) | Jeszcze niedostępne od 1&nbsp;maja&nbsp;2022&nbsp;(niedziela) | 1 170,00 zł |
+| Last minute  | individual       | Jeszcze niedostępne od 1&nbsp;maja&nbsp;2022&nbsp;(niedziela) | 1 300,00 zł |
 
 Cena obejmuje:
 
@@ -62,7 +71,12 @@ Bilety dla osób chcących **wirtualnie uczestniczyć** w wydarzeniu. Link do
 rejestracji oraz wszelkie potrzebne informacje znajdziecie
 [tutaj](https://app.evenea.pl/event/soap2022virtual/).
 
-<table><tbody><tr><td><strong>Nazwa biletu</strong></td><td><strong>Dostępność</strong></td><td><strong>Cena</strong></td></tr><tr><td>Late bird | student (-50%)</td><td>31&nbsp;Maja&nbsp;2022, 23:59</td><td>500,00 zł</td></tr><tr><td>Late bird | group 6+ (-20%)</td><td>31&nbsp;Maja&nbsp;2022, 23:59</td><td>800,00 zł</td></tr><tr><td>Late bird | group 3-5 (-10%)</td><td>31&nbsp;Maja&nbsp;2022, 23:59</td><td>900,00 zł</td></tr><tr><td>Late bird | individual</td><td>31&nbsp;Maja&nbsp;2022, 23:59</td><td>1 000,00 zł</td></tr></tbody></table>
+| Nazwa biletu | Dostępność       | Cena                          |
+| ------------ | ---------------- | ----------------------------- | ----------- |
+| Late bird    | student (-50%)   | 31&nbsp;Maja&nbsp;2022, 23:59 | 500,00 zł   |
+| Late bird    | group 6+ (-20%)  | 31&nbsp;Maja&nbsp;2022, 23:59 | 800,00 zł   |
+| Late bird    | group 3-5 (-10%) | 31&nbsp;Maja&nbsp;2022, 23:59 | 900,00 zł   |
+| Late bird    | individual       | 31&nbsp;Maja&nbsp;2022, 23:59 | 1 000,00 zł |
 
 Cena obejmuje:
 

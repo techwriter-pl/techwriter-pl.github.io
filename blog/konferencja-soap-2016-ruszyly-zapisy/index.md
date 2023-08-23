@@ -61,4 +61,4 @@ zajrzeć do naszych opisów konferencji z zeszłego roku:
 - [Opis wybranych prezentacji](http://techwriter.pl/soap-2015-opis-wybranych-prezentacji/)
 
 Dajcie znać czy planujecie wziąć udział w konferencji. Nas na pewno tam nie
-zabraknie :)
+zabraknie 😊

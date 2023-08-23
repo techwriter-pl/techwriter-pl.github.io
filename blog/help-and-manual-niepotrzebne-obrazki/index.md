@@ -49,4 +49,4 @@ Common Properties -> Project Search Path. Odniesienia dodane ręcznie do szablon
 HTML oraz pliki dołączone do projektu (baggage files) nie są uzwględniane w
 raporcie.
 
-Miłego korzystania :)
+Miłego korzystania 😊

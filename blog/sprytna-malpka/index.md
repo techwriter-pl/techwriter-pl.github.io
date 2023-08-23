@@ -27,11 +27,11 @@ przy sobie, tym bardziej, że program po rozpakowaniu waży jedynie 8.5 MB
 
 Po ściągnięciu aplikacji, wystarczy ją rozpakować i uruchomić. Nie mogłoby być
 chyba prościej. Po odpaleniu, program wyświetla schludny ekran powitalny, na
-którym widzimy losowo wybraną maksymę, np. "I can handle pain until it hurts" :)
+którym widzimy losowo wybraną maksymę, np. "I can handle pain until it hurts" 😊
 Ciekawy akcent, który umila (bardzo krótkie) oczekiwanie. Po zamknięciu ekranu
 powitalnego, jawi się przed nami pusta strona wyświetlona na całym ekranie. Nic
 poza tym. Żadnych przycisków, pasków czy skrótów. Chyba bardziej
-"distraction-free" już się nie da :) Ale nie dajmy się oszukać. WriteMonkey to
+"distraction-free" już się nie da 😊 Ale nie dajmy się oszukać. WriteMonkey to
 takie Cinquecento z silnikiem 100 KM. Na zewnątrz nic specjalnego, ale w środku
 drzemie mała bestia. Wszelkie opcje jakie mamy do dyspozycji kryją się pod
 prawym przyciskiem myszy. Jest ich całkiem sporo, ale menu jest przejrzyste i
@@ -66,7 +66,7 @@ komentarzy.
 Jeśli potrzebujemy mobilizacji, możemy skorzystać z timera. Pod przyciskiem F12,
 kryje się funkcja **Progress**, która pozwala wyświetlać liczbę np. słów lub
 znaków oraz ustawić odliczanie, które będzie widoczne na dole kartki. Tylko dla
-osób, które lubią dreszczyk emocji ;)
+osób, które lubią dreszczyk emocji 😉
 
 "Małpkę" można dostosować do własnych potrzeb pod różnymi względami. Niestety,
 nie da się jej nauczyć sprzątać albo gotować, ale możemy na przykład zmienić
@@ -77,7 +77,7 @@ zapasową. Jest tego całkiem sporo jak na taki prosty edytor.
 Aplikacja obsługuje wtyczki napisane w JavaScripcie. Niestety, ta funkcja
 dostępna jest tylko dla użytkowników, którzy dokarmią "Małpkę", czyli złożą
 datek dla autora. Nie znalazłem informacji jaka jest sugerowana wysokość takiej
-ofiary, więc zakładam, że jest to po prostu "co łaska" :) W zamian dostaniemy
+ofiary, więc zakładam, że jest to po prostu "co łaska" 😊 W zamian dostaniemy
 kod, który umożliwi nam korzystanie z wtyczek oraz własny nick na ekranie
 powitalnym (zamiast "anonymous").
 
@@ -85,7 +85,7 @@ Na deser dorzucę jeszcze jeden bajer. W aplikacji można ustawić dźwięki jak
 mają towarzyszyć pisaniu. Więc jeśli ktoś chciałby poczuć klimat zadymionego
 pokoju redakcyjnego przed erą komputerów, to nie ma problemu. Wybieramy dźwięki
 starej maszyny do pisania i zaczynamy tworzyć. Zadymianie pomieszczenia trzeba
- już ogarnąć we własnym zakresie :)
+ już ogarnąć we własnym zakresie 😊
 
 Osobiście nie korzystam z języka znaczników tworząc dokumenty, ale dla osoby,
 ktora chciałaby iść tą drogą WriteMonkey może być ciekawą propozycją. Oczywiście

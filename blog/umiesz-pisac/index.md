@@ -23,7 +23,7 @@ Po uzyskaniu wyniku polecamy zapoznać się z
 [infografiką](http://www.ratatype.com/learn/average-typing-speed/), która
 przedstawia ciekawe fakty dotyczące m.in. przeciętnej prędkości pisania na
 komputerze z podziałem na mężczyzn i kobiety. Dzięki temu zobaczycie jak
-wypadacie na tle przeciętnego Kowalskiego ;) Dodamy tylko, że najlepszy wynik do
+wypadacie na tle przeciętnego Kowalskiego 😉 Dodamy tylko, że najlepszy wynik do
 tej pory to 216 słów na minutę.
 
 Jeśli okaże się, że potrzebujecie trochę poćwiczyć to strona, oprócz ćwiczeń
@@ -32,4 +32,4 @@ nauczyć się pisania na komputerze bez patrzenia na klawiaturę.
 
 Zatem rozgrzejcie palce i do pracy! Jesteśmy ciekawi Waszych wyników. Może na
 ich podstawie uda nam się stworzyć podobną infografikę, tyle że dla Tech
-Writerów ;)
+Writerów 😉

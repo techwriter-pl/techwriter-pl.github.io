@@ -22,8 +22,8 @@ Redakcja techwriter.pl zweryfikowała ofertę przed publikacją i z czystym
 sumieniem możemy polecić tego pracodawcę. Komfortowe warunki pracy (nowoczesny
 biurowiec z udogodnieniami dla rowerzystów, chillout room), zgrany zespół
 pracujący w przyjaznej atmosferze, ciekawe projekty oraz atrakcyjne warunki
-finansowe - tyle udało nam się wydusić z naszego zaufanego "źródła" :) Jeśli
+finansowe - tyle udało nam się wydusić z naszego zaufanego "źródła" 😊 Jeśli
 chcesz dowiedzieć się więcej to nie zwlekaj tylko aplikuj. Liczba miejsc
-ograniczona ;) Powodzenia!
+ograniczona 😉 Powodzenia!
 
 [![techwriter_intern_dassault](images/techwriter_intern_dassault.png)](http://techwriter.pl/wp-content/uploads/2015/05/techwriter_intern_dassault.png)

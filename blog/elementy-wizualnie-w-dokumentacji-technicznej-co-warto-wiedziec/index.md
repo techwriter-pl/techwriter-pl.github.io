@@ -55,7 +55,7 @@ Być może w Waszej organizacji mogą istnieć  jeszcze inne działy, które mo
 pomocnymi źródłami.
 
 Inną opcją jest szukanie obrazów i ilustracji w Internecie, należy jednak
-upewnić się  że mamy pozwolenie na ich użycie ;) .
+upewnić się  że mamy pozwolenie na ich użycie 😉 .
 
 W przypadku symboli warto skorzystać z istniejących standardowych symboli
 stworzonych przez Międzynarodową Organizację Normalizacyjną
@@ -93,7 +93,12 @@ używane odpowiednio.
   nieprofesjonalnie i niedbale - Wasza dokumentacja powinna być zrozumiała i
   przyciągać uwagę czytelników. W zależności od potrzeb możecie używać różnych
   formatów:
-    <table style="height: 205px" width="568"><tbody><tr><td width="113"><ul><li><strong><a href="https://en.wikipedia.org/wiki/GIF"><span style="text-decoration: underline">.gif</span></a></strong></li></ul></td><td width="513">idealny dla prostszych obrazów, małych animacji o niskiej rozdzielczości</td></tr><tr><td width="113"><ul><li><strong><a href="https://en.wikipedia.org/wiki/JPEG"><span style="text-decoration: underline">.jpg, .jpeg</span></a></strong></li></ul></td><td width="513">umożliwia zachowanie równowagi miedzy rozmiarem a jakością obrazu</td></tr><tr><td width="113"><ul><li><strong><a href="https://en.wikipedia.org/wiki/Portable_Network_Graphics"><span style="text-decoration: underline">.png</span></a></strong></li></ul></td><td width="513">dobry dla grafik, które wykorzystują duże płaskie obszary kolorów i wymagają przezroczystości</td></tr><tr><td width="113"><ul><li><a href="https://en.wikipedia.org/wiki/Scalable_Vector_Graphics"><span style="text-decoration: underline"><strong>.svg</strong></span></a></li></ul></td><td width="513">idealny dla elementów interfejsu użytkownika, ikon, czy diagramów Mogą być przeszukiwane, indeksowane i kompresowane, a także skalowane bez utraty jakości</td></tr></tbody></table>
+
+| .gif        | idealny dla prostszych obrazów, małych animacji o niskiej rozdzielczości                                                                                   |
+| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| .jpg, .jpeg | umożliwia zachowanie równowagi miedzy rozmiarem a jakością obrazu                                                                                          |
+| .png        | dobry dla grafik, które wykorzystują duże płaskie obszary kolorów i wymagają przezroczystości                                                              |
+| .svg        | idealny dla elementów interfejsu użytkownika, ikon, czy diagramów Mogą być przeszukiwane, indeksowane i kompresowane, a także skalowane bez utraty jakości |
 
 - Używaj prostych grafik - grafika powinna być łatwa do odczytania i zrozumiała
   od pierwszego spojrzenia. Ważne jest, aby na ilustracji technicznej nie działo
@@ -101,7 +106,7 @@ używane odpowiednio.
   gniazdka elektrycznego, jak i do konkretnej sieci, lepiej stworzyć dwie 
   odrębne ilustracje zamiast jednej. Dlaczego? Po pierwsze, opisana zostanie
   tylko jedna czynność. Po drugie, pojedyncza ilustracja z jedną czynnością
-  motywuje do dalszego działania ;) . \[caption id="attachment_10691"
+  motywuje do dalszego działania 😉 . \[caption id="attachment_10691"
   align="aligncenter"
   width="251"\][![](images/im_2.png)](http://techwriter.pl/wp-content/uploads/2022/01/im_2.png)
   dobra praktyka - grafika przedstawiająca  krok 1\[/caption\] \[caption
@@ -156,4 +161,4 @@ dokumentacji i, że będziecie mieć lepsze zrozumienie przy tworzeniu kolejnych
 manuali.
 
 Z pewnością dużo łatwiej jest stworzyć przyjazny dla użytkownika dokument
-wprowadzając do niego grafiki czy ilustracje ;) .
+wprowadzając do niego grafiki czy ilustracje 😉 .

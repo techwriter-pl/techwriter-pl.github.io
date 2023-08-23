@@ -126,4 +126,4 @@ part-time candidates (at least 3/5).
 
 ---
 
-Wszystkim chętnym życzymy powodzenia :)
+Wszystkim chętnym życzymy powodzenia 😊

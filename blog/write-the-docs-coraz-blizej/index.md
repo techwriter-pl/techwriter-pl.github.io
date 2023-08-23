@@ -101,4 +101,4 @@ najbardziej aktualne informacje związane z nadchodzącym wydarzeniem.
 
 To co, widzimy się w Pradze?
 
-Redakcja techwriter.pl na pewno się tam pojawi ;-)
+Redakcja techwriter.pl na pewno się tam pojawi 😉

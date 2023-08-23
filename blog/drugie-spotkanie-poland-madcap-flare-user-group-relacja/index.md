@@ -71,7 +71,7 @@ podanej w rozrywkowej formie.
 Pomimo tego, że spotkanie przyjęło format mini prezentacji, nie brakowało
 interakcji między uczestnikami. Były pytania, dyskusje i wymiana pomysłów -
 czyli wszystko to, na co kładą nacisk organizatorzy. Były też luźne rozmowy przy
-pizzy i drinkach :)
+pizzy i drinkach 😊
 
 Mamy nadzieję, że spotkania Poland MadCap Flare User Group na stałe zagoszczą w
 kalendarzu wydarzeń tech commowych. W imieniu organizatorów zachęcamy do

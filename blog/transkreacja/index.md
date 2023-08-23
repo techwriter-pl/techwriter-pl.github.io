@@ -11,7 +11,7 @@ coverImage: "transkreacja.jpg"
 ---
 
 Gdybyśmy codziennie uczyli się jednego nowego słowa, to... za tydzień znalibyśmy
-siedem nowych słów. Nieźle, prawda? ;) Możemy zacząć już dziś - jeżeli
+siedem nowych słów. Nieźle, prawda? 😉 Możemy zacząć już dziś - jeżeli
 transkreacja kojarzy Wam się głównie z kreowaniem transów albo wytapianiem
 tłuszczu z ryb - czytajcie dalej.
 
@@ -24,7 +24,7 @@ najczęściej używane synonimy: "creative translation",
 translation", "internationalization", "localization".
 
 W polskich encyklopediach czy słownikach nie ma słowa transkreacja, ale to nawet
-lepiej, bo lubimy być pierwsi :). Oto polskojęzyczna definicja - owoc wielu lat
+lepiej, bo lubimy być pierwsi 😊. Oto polskojęzyczna definicja - owoc wielu lat
 pracy redaktorów techwriter.pl:
 
 **Transkreacja** - przetwarzanie komunikatów i informacji w taki sposób, aby
@@ -57,4 +57,4 @@ transkreacja. Czemu nie spróbować w praktyce? Bądźmy kreatywni, bierzmy pod
 uwagę różne języki i kultury.
 
 Możemy uchronić naszą firmę przed
-[poważną wpadką](http://www.oddee.com/item_93544.aspx) :)
+[poważną wpadką](http://www.oddee.com/item_93544.aspx) 😊

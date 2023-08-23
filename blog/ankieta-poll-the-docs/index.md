@@ -28,4 +28,4 @@ Link do ankiety znajdziecie poniżej.
 
 [**POLL THE DOCS**](https://docs.google.com/a/pronovix.com/forms/d/e/1FAIpQLScVcq4qMgnVh1U4yHI56eVj1Ur7uOFczrtw1eVr47EI11zRlw/viewform)
 
-To jak, pomożecie? ;)
+To jak, pomożecie? 😉

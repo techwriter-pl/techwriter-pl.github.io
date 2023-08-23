@@ -32,7 +32,7 @@ do gustu warsztaty poświęcone Agile.
 Otoczenie, w którym odbywała się konferencja było zgoła odmienne od tego z
 zeszłego roku. Żadnych psów ganiających za piłką oraz ludzi na hulajnogach. W
 toalecie również cisza i spokój. Przyznajemy, że brak stanowiska do selfie był
-dla nas lekkim rozczarowaniem ;) Za to mogliśmy podziwiać przyjemne widoki z
+dla nas lekkim rozczarowaniem 😉 Za to mogliśmy podziwiać przyjemne widoki z
 okna.
 
 [![Cracow](images/CQzfkmWXAAAIIyO-1024x614.jpg)](http://techwriter.pl/wp-content/uploads/2015/10/CQzfkmWXAAAIIyO.jpg)
@@ -73,7 +73,7 @@ treść jest bardziej
 (experience design) niż dostarczanie informacji.
 
 Jakiś czas temu na łamach techwriter.pl również podjęliśmy próbę zdefiniowania
-czym jest content, ale z trochę innej perspektywy ;) Jej efekty możecie
+czym jest content, ale z trochę innej perspektywy 😉 Jej efekty możecie
 podziwiać [tutaj](http://techwriter.pl/langlydz-part-najn/).
 
 ## O co chodzi z tym różowym mydłem?
@@ -107,7 +107,7 @@ goniły, więc bańki zostały usunięte i zostało tylko mydło.
 Była nazwa, potrzebne było logo. Powstały dwie propozycje kolorystyczne -
 niebieska i różowa. Padło na tą drugą.
 
-W taki oto sposób pojawiło się różowe mydło. Ot, cała historia :)
+W taki oto sposób pojawiło się różowe mydło. Ot, cała historia 😊
 
 [![pink_soap](images/pink_soap-300x225.jpg)](http://techwriter.pl/wp-content/uploads/2015/10/pink_soap.jpg)
 

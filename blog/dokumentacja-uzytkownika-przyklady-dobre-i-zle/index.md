@@ -34,5 +34,5 @@ Ale nie o tym chcieliśmy... to co najbardziej przyciągnęło naszą uwagę to:
 - [10 przykładów dobrej dokumentacji technicznej](http://sf.screensteps.com/10-examples-of-great-end-user-documentation)
 - [14 przykładów złej dokumentacji technicznej](http://sf.screensteps.com/14-examples-of-bad-documentation)
 
-Ciekawe dlaczego złych przykładów jest więcej ;). Znaleźliście tam coś, co
+Ciekawe dlaczego złych przykładów jest więcej 😉. Znaleźliście tam coś, co
 wygląda znajomo? Pokażcie szefowi!

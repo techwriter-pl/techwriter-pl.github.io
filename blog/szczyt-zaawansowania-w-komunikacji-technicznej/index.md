@@ -9,7 +9,7 @@ tags:
 coverImage: "virtual-summit-acp2014.jpg"
 ---
 
-...czyli Advanced Communication Practices Summit ;). To cykl ciekawych
+...czyli Advanced Communication Practices Summit 😉. To cykl ciekawych
 webinariów, dostępnych w sieci za darmo. Do posłuchania lub przeczytania w długi
 zimowy wieczór...
 

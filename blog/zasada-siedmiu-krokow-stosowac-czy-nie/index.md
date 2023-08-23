@@ -53,7 +53,7 @@ Bez względu na ilość punktów pamiętajmy, że nie ma nic gorszego niż sfrus
 użytkownik procedury. I nie będzie go obchodziło czy nasz tekst zawiera pięć,
 siedem czy dziewięć punktów, jeśli przypali obiad lub skasuje z dysku zdjęcia z
 wakacji. Dlatego, zamiast skupiać się na regule siedmiu kroków, skupmy się na
-poprawnym pisaniu treści ;).
+poprawnym pisaniu treści 😉.
 
 Chcących pogłębić temat dobrego pisania procedur zapraszamy
 [tutaj](http://techwriter.pl/jak-pisac-dobre-instrukcje/ "Instrukcje"), a osoby

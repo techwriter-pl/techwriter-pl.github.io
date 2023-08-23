@@ -37,7 +37,7 @@ lokalizacja)
 
 12-15 sierpnia, Langkawi, Malezja -
 [Knowledge Management International Conference](http://www.kmice.cms.net.my/kmice2014/) (odrobina
-egzotyki ;))
+egzotyki 😉)
 
 16-18 września, Brighton, Wielka Brytania -
 [TCUK](http://technicalcommunicationuk.com/)

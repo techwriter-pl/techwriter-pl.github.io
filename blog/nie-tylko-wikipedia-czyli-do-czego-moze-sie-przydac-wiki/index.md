@@ -15,11 +15,11 @@ nawet  [Wikiquote](http://en.wikiquote.org/wiki/Main_Page) (w wersji polskiej 
 w sieci można spotkać wikiliony, albo może nawet wikiliardy różnych Wiki. Co
 więcej - każdy z Was może stworzyć swoją własną! Prywatnie lub służbowo...
 
-Nie jesteśmy już (niestety) uczniami, ale mamy podobne problemy :). Większośc
+Nie jesteśmy już (niestety) uczniami, ale mamy podobne problemy 😊. Większośc
 artykułów rozpoczynamy odnośnikiem do Wikipedii - tak będzie i tym razem
 - [co to jest Wiki?](http://pl.wikipedia.org/wiki/Wiki)
 
-<iframe src="//www.youtube.com/embed/42TQFxLnLZY" height="315" width="420" allowFullScreen frameBorder="0"></iframe>
+<iframe src="//www.youtube.com/embed/42TQFxLnLZY" height={315} width={420} allowFullScreen frameBorder={0} />
 
 Wikipedia opisuje to całkiem ciekawie, nie wspomina jednak (wprost) o bardzo
 istotnej sprawie:
@@ -30,19 +30,19 @@ Wiki jest świetnym narzędziem, które możesz wykorzystać w swojej pracy!
 - do pracy grupowej,
 - do publikowania istotnych informacji organizacyjnych,
 - przy definiowaniu procesów i procedur,
-- dla rozrywki :).
+- dla rozrywki 😊.
 
 Jak zbudować własne Wiki?
 
 Można [skorzystać z gotowego rozwiązania](http://www.wiki.com/whatiswiki.htm),
 dostępnego na przykład na [wiki.com](http://wiki.com/) (płatne dla większej
-ilości użytkowników), [wikia.com](wikia.com),
+ilości użytkowników), [wikia.com](https://wikia.com),
 [orain.org](http://orain.org) (darmowe, ale wyświetlają reklamy), albo w wielu
 innych miejscach.
 
 Można też samodzielnie zainstalować u siebie, w pracy lub domu, swoje Wiki, a
 potem dmuchać na nie, chuchać, pielęgnować, administrować i rozwijać. Od czasu
-do czasu przydałby się również backup ;).
+do czasu przydałby się również backup 😉.
 [Lista narzędzi (platform), które możecie do tego wykorzystać jest długa](http://www.wikimatrix.org/).
 Dobrym początkiem będzie przeczytanie artykułu
 "[Jak stworzyć własne wiki?](http://webhosting.pl/Jak.stworzyc.wlasne.wiki)" -
@@ -72,6 +72,6 @@ całej rodziny:
 A jeżeli chcecie zostać tylko przy starej, dobrej Wikipedii -
 [10 trików, które pomogą Wam korzystać z niej jeszcze efektywniej i przyjemniej](http://fieldguide.gizmodo.com/10-tricks-to-make-yourself-a-wikipedia-master-1619294690).
 
-Pamiętajcie jednak, że korzystanie z Wikipedii może być niebezpieczne! ;)
+Pamiętajcie jednak, że korzystanie z Wikipedii może być niebezpieczne! 😉
 
 [![Wikipedia](images/Wikipedia.jpeg)](http://techwriter.pl/wp-content/uploads/2015/01/Wikipedia.jpeg)

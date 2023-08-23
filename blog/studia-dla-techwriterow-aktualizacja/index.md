@@ -40,7 +40,7 @@ Sytuacja jest o tyle ciekawa, że wciąż pojawiają się nowe oferty pracy dla 
 z naszej branży, a jednocześnie jedyne studia które przygotowują praktycznie do
 tego zawodu (są np. objęte programem
 [MadCap Scholar](https://www.madcapsoftware.com/company/press-center/pr20110414.aspx))
-nie mogą ruszyć z braku chętnych :) Trudno to zrozumieć, być może przeszkodą
+nie mogą ruszyć z braku chętnych 😊 Trudno to zrozumieć, być może przeszkodą
 jest wciąż mała "widoczność" tej specjalizacji i brak świadomości jak przyjemny,
-rozwijający, dobrze płatny i prestiżowy jest zawód Technical Writera :) Jak
+rozwijający, dobrze płatny i prestiżowy jest zawód Technical Writera 😊 Jak
 myślicie?

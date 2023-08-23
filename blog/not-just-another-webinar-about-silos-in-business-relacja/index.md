@@ -68,7 +68,7 @@ identyfikowania rzeczy w sieci w celu wymiany danych i informacji. I tutaj
 bardzo ciekawy wynalazek:
 [wieszaki](http://mashable.com/2012/05/08/hangers-update-facebook-likes/ "wieszaki")
 w sklepie, które wyświetlają ilość polubień na facebooku wiszących na nich
-ciuchów :) To jest dopiero wymiana informacji!
+ciuchów 😊 To jest dopiero wymiana informacji!
 
 ## Co teraz?
 
@@ -94,4 +94,4 @@ prezentacjami, warsztatami, czy po prostu spotkaniami.
 
 A Ty jakie wnioski wyciągnąłeś z
 [Not just another webinar about silos in business](http://www.soapconf.com/silos-recording/)?
-Podziel się wrażeniami :)
+Podziel się wrażeniami 😊

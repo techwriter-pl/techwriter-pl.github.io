@@ -12,7 +12,7 @@ Dla jednych pisanie dokumentacji to droga przez mękę, dla innych czysta
 przyjemność i sposób zarabiania na życie. Jednak zarówno ci pierwsi jak i drudzy
 powinni trzymać się pewnych reguł. Dziś pierwszy z cyklu artykułów, które, mamy
 nadzieję, pomogą Wam utrzymać jak najwyższy poziom tekstów, a także sprawią, że
-pisanie nie będzie już takie straszne (dla niektórych) ;-).
+pisanie nie będzie już takie straszne (dla niektórych) 😉.
 
 ## Cechy dobrej dokumentacji
 

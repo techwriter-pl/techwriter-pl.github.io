@@ -23,7 +23,7 @@ się urodzi?
   asajnowania (_podrzucenia najmniej zajętej, najmniej protestującej lub po
   prostu nieobecnej osobie_).
 - Bękart zostaje poddany intensywnym działaniom wychowawczym, korygującym,
-  naprawczym... chyba że nie:).
+  naprawczym... chyba że nie😊.
 - W efekcie zostaje sfiksowany (_naprawiony_), albo nie... czyli czeka sobie
   postponowany (_podmieciony pod dywan_) na lepsze czasy.
 - Podrośnięte isiu przechodzi zazwyczaj jeszcze skomplikowaną procedurę
@@ -46,4 +46,4 @@ jednym zgrabnym pociągnięciem myszki.
 [![kansel](images/kansel-300x199.jpg)](http://techwriter.pl/wp-content/uploads/2014/02/kansel.jpg)Kanselując
 (_anulując, odwołując_) isiusa pozbywacie się problemu i odzyskujecie wigor,
 świeżość spojrzenia oraz wzmożoną chęć do pracy twórczej. Przynajmniej do czasu
-pojawienia się następnego :).
+pojawienia się następnego 😊.

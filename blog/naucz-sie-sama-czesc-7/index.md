@@ -28,7 +28,7 @@ się zamienić kilka słów z jednym z członków załogi Scriptorium,
 [Alanem Pringle](http://www.scriptorium.com/about/alan-pringle/). Zdradził nam,
 że firma na swojej stronie udostępnia niektóre z wydanych przez nich książek w
 formie elektronicznej całkowicie za darmo. Postanowiliśmy puścić w obieg tę
-wiadomość, żebyście też mogli dostać trochę dobrej treści za friko ;) Co trzeba
+wiadomość, żebyście też mogli dostać trochę dobrej treści za friko 😉 Co trzeba
 zrobić? Wystarczy wejść na tę [stronę](http://www.scriptorium.com/books) i
 pobrać to co nas interesuje. Tyle. Nie trzeba się rejestrować ani podawać
 żadnych danych. Za darmo dostępne są następujące tytuły w formacie EPUB:

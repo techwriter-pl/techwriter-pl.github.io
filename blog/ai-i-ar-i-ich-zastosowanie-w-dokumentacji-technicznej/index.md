@@ -55,7 +55,7 @@ Jedną z bezpośrednich korzyści, jakie stworzone przez Was dokumenty techniczn
 mogą uzyskać dzięki AI, jest chociażby inteligentne sprawdzanie tekstu. Dzięki
 aplikacjom takim jak
 [Grammarly](http://techwriter.pl/grammarly-narzedzie-do-sprawdzania-pisowni/)
-sprawdzanie pisowni przeniosło się na inny poziom :). Już teraz widać, że
+sprawdzanie pisowni przeniosło się na inny poziom 😊. Już teraz widać, że
 nowoczesne sprawdzanie pisowni potrafi więcej niż tylko naprawiać literówki.
 
 Za pomocą nowoczesnych technologii, narzędzia stają się bardziej zorientowane na
@@ -115,7 +115,7 @@ Autorzy techniczni mogą wnieść do projektu AR ważne umiejętności i korzyś
 Wynika z tego, że tworzone treści będą musiały mieć przypisane metadane i będą
 musiały być odpowiednio zarządzane. Stąd rola technical writera w tym przypadku
 może ewoluować do komunikatora technicznego lub architekta informacji. Może
-warto się do togo przygotować :)
+warto się do togo przygotować 😊
 
 ## Korzyści wykorzystania AI i AR w dokumentacji:
 

@@ -98,7 +98,7 @@ rozpoczęto już w 1967 roku.
 Kilka lat później, w 1971 roku, podpisano kolejną umowę licencyjną z Włochami,
 tym razem na produkcję samochodu małolitrażowego.
 [Polski Fiat 126p](https://pl.wikipedia.org/wiki/Fiat_126), zwany ''Maluchem'',
-uznawany jest za samochód, który zmotoryzował nasze społeczeństwo :).
+uznawany jest za samochód, który zmotoryzował nasze społeczeństwo 😊.
 
 [![](images/maluch.jpeg)](http://techwriter.pl/wp-content/uploads/2021/03/maluch.jpeg)
 
@@ -111,7 +111,7 @@ zachodnimi, które stawały się coraz bardziej popularne w naszym kraju.
 [![](images/fso_polonez_78.jpg)](http://techwriter.pl/wp-content/uploads/2021/03/fso_polonez_78.jpg)
 
 ...i tutaj w wielkim skrócie historię polskiej motoryzacji należałoby zakończyć
-;).
+😉.
 
 Dużo o motoryzacji to może teraz  trochę o dokumentacji.
 

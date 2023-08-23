@@ -23,7 +23,7 @@ emocji przywiezionych z tegorocznego krakowskiego eventu. W ramach działalnośc
 wrocławskiej grupy planowane są meetupy, dyskusje panelowe, warsztaty i inne
 formy wymiany doświadczeń związanych z komunikacją techniczną. Będzie się można
 dzielić swoimi obserwacjami i zdobywać nowe. A wszystko to po godzinach, w
-siedzibach kilku wrocławskich firm IT, przy pizzy i czymś do picia :)
+siedzibach kilku wrocławskich firm IT, przy pizzy i czymś do picia 😊
 
 ### **Termin i miejsce**
 
@@ -43,7 +43,7 @@ pytanie.
 Organizatorzy mają nadzieję, że dzięki takiemu wyborowi tematyki inauguracyjny
 meetup pozwoli im dotrzeć do szerszego grona społeczności techriterskiej.
 Rekrutacja pisarzy technicznych to wciąż temat rzeka, niby znany, a mimo to
-zawsze potrafiący czymś zaskoczyć ;) Jeśli pracujesz na stanowisku Technical
+zawsze potrafiący czymś zaskoczyć 😉 Jeśli pracujesz na stanowisku Technical
 Writera to najprawdopodobniej masz już za sobą niejedną rozmowę rekrutacyjną, a
 Twoje doświadczenie może być cenne dla osób dopiero rozpoczynających swą
 przygodę z branżą.
@@ -61,12 +61,12 @@ temat zdalnej rekrutacji, która staje się nową normą. Postarają się też s
 na drugą stronę rekrutacji, czyli perspektywę Hiring Managerów. Porozmawiają o
 słynnym ‘feedbacku po rozmowie’ – bardziej jest czy go nie ma? I o tym kto się
 bardziej stresuje onboardingiem: nowozatrudniony Tech Writer czy raczej Manager
-;)
+😉
 
 ### Zapisy
 
 Aby wziąć udział w wydarzeniu należy wypełnić formularz zgłoszeniowy oraz dać
-znać organizatorom, by zamówili odpowiednią ilość pizzy ;)
+znać organizatorom, by zamówili odpowiednią ilość pizzy 😉
 
 Formularz do rejestracji znajdziecie
 [pod tym linkiem](https://docs.google.com/forms/d/e/1FAIpQLSeYhUioth2HvPJk0nqYMNcTKK8Nh2G2aZoYEjZQi6ut-EBHow/viewform).

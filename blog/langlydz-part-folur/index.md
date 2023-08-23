@@ -20,7 +20,7 @@ powiedzenie
 Jego odpowiednikiem w wielu firmach jest aktualnie stwierdzenie "Mamy isiu". I
 nie chodzi tu o nowe wydanie artykułu
 ([lub czasopisma](http://pl.wikipedia.org/wiki/%28%E2%80%A6%29_lub_czasopisma)
-;)), tylko o... no właśnie, może chodzić o WSZYSTKO. Słowo issue jest całym
+😉), tylko o... no właśnie, może chodzić o WSZYSTKO. Słowo issue jest całym
 kosmosem znaczeń. Najczęściej oznacza (nie)przewidziany problem. Czasem kwestię,
 którą trzeba się zająć - omówić, przedyskutować, podjąć, rozstrzygnąć lub
 załatwić:
@@ -29,7 +29,7 @@ załatwić:
 
 Isiu może również oznaczać to, że po prostu komuś nie chciało się czegoś zrobić.
 W firmach w których nie ma problemów isiu oznacza oczywiście kolejne wyzwanie.
-Generalnie isiu ma jednak wydźwięk pejoratywny. Wspaniałe zdanie, nieprawdaż? ;)
+Generalnie isiu ma jednak wydźwięk pejoratywny. Wspaniałe zdanie, nieprawdaż? 😉
 Tu w takim razie zakończymy, życząc wszystkim czytelnikom jak najmniejszej
 ilości isiusów i umiarkowanej ilości czellendży.
 

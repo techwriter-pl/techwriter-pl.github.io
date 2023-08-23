@@ -51,7 +51,7 @@ w tym roku była to trzecia odsłona europejskiej edycji konferencji, w której
 wzięło udział 230 osób. Jest to spory postęp w stosunku do poprzednich lat, w
 których ta liczba kształtowała się na poziomie 100 osób w 2014 i 150 osób
 w 2015. Mikey przedstawiła również hasło przewodnie konferencji, które brzmiało:
-"Docs or it didn't happen!". Nie ukrywamy, że bardzo przypadło nam do gustu :)
+"Docs or it didn't happen!". Nie ukrywamy, że bardzo przypadło nam do gustu 😊
 
 https://twitter.com/skarpediem/status/777785372432535553
 
@@ -104,7 +104,7 @@ z różnic pomiędzy językiem angielskim i innymi językami. Steve przytoczył 
 przykładów, które pokazywały popularne błędy w tłumaczeniu zdań węgierskich,
 czeskich i chińskich na angielski. Kolejnym punktem prezentacji były porady w
 jaki sposób przezwyciężać swoje ograniczenia. Najbardziej w głowie utkwiło nam:
-"Write drunk, edit sober" :) A tak poważnie, to na przykład proces pisania można
+"Write drunk, edit sober" 😊 A tak poważnie, to na przykład proces pisania można
 rozbić na kilka etapów. Na początku tworzymy strukturę, nie zwracamy uwagi na
 gramatykę, tylko skupiamy się na samym pisaniu. Następnie zostawiamy tekst na
 jakiś czas. Kiedy do niego wrócimy, poprawiamy wszelkie błędy i niedociągnięcia.
@@ -154,7 +154,7 @@ można mieć satysfakcję z tego, że tajemna wiedza inżynierów zostaje przez 
 przelana na papier, przez co pewne procedury zostają ustandaryzowane. Dla osób,
 które na co dzień opisują oprogramowanie w komfortowym, klimatyzowanym
 pomieszczeniu, taki tryb pracy może zakrawać na science fiction. Jak widać,
-pisanie dokumentacji to nie zawsze kawka i laptop w zaciszu własnego biurka ;)
+pisanie dokumentacji to nie zawsze kawka i laptop w zaciszu własnego biurka 😉
 
 ### Jeden zrzut ekranu jest wart więcej niż tysiąc słów
 
@@ -301,7 +301,7 @@ programiści podeszli do swoich zadań, i które fragmenty dokumentacji
 dostarczonej wraz API wykorzystali. Okazało się, że główną rzeczą jakiej
 programiści w niej szukali były próbki kodu. Pozostałe informacje były przez
 nich pomijane. W tym miejscu można by się pokusić o dobrze wszystkim znane
-stwierdzenie "i tak tego nikt nie czyta" ;) Świetna prezentacja wypełniona dużą
+stwierdzenie "i tak tego nikt nie czyta" 😉 Świetna prezentacja wypełniona dużą
 ilością przydatnych informacji z dziedziny testowania użyteczności.
 
 https://twitter.com/baitman/status/778222644349075456
@@ -327,7 +327,7 @@ dowiedzieć o inicjatywie zbudowania społeczności dokumentacyjnej na Ukrainie,
 która rozpoczęła się od utworzenia branżowego
 [bloga](http://informaze.wordpress.com) oraz o organizacjach związanych z
 komunikacją techniczną działających w Europie. Nieskromnie wspomnimy, że nasz
-portal również został ujęty w tym zestawieniu :) Sesje z szybkimi wystąpienami
+portal również został ujęty w tym zestawieniu 😊 Sesje z szybkimi wystąpienami
 okazały się bardzo trafionym pomysłem. Zdecydowanie zwiększyły dynamikę
 konferencji.
 
@@ -362,7 +362,7 @@ za pomocą hashtaga
 Warto wspomnieć o tym, że podczas prezentacji organizatorzy dbali o to, żeby
 wszystko przebiegało według planu. Ciekawym rozwiązaniem było użycie gongu,
 który sygnalizował koniec przerw. Dzięki temu uczestnicy byli bardziej
-zdyscyplinowani. Przywodzi to na myśl efekt dzwonka w szkole ;)
+zdyscyplinowani. Przywodzi to na myśl efekt dzwonka w szkole 😉
 
 Niestandardowym rozwiązaniem był całkowity brak stoisk firmowych. Prawdopodobnie
 formuła konferencji nie przewiduje takiego elementu. Kolejną rzeczą jaką
@@ -381,7 +381,7 @@ Organizatorzy udostępnili już
 [nagrania wystąpień](https://www.youtube.com/playlist?list=PLZAeFn6dfHpnN8fXXHwPtPY33aLGGhYLJ),
 dzięki czemu możecie sami ocenić na ile są dla Was przydatne. Pod względem
 organizacji nie ma się za bardzo do czego przyczepić, no może poza wspomnianym
-wyżej problemem z Wi-Fi ;-) Atmosfera była pozytywna, a networking bardzo udany.
+wyżej problemem z Wi-Fi 😉 Atmosfera była pozytywna, a networking bardzo udany.
 Umiejscowienie konferencji w mieście takim jak Praga było kolejnym powodem, dla
 którego warto było wziąć w niej udział. Dla nas ważne było również to, że
 mogliśmy spotkać specjalistów z krajów takich jak Węgry czy Rumunia, które,

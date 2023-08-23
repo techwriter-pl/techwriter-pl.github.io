@@ -96,7 +96,7 @@ przedstawić Wam zaplanowane na ten czas konferencje.
 
 **28 września, Warszawa, Polska** –
 [Konferencja Tłumaczy 2019](https://www.konferencjatlumaczy.pl/) **To również
-nasz patronat ;-)**
+nasz patronat 😉**
 
 ## **Październik**
 

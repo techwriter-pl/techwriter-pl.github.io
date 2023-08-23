@@ -33,7 +33,7 @@ uczestnikami,
 sesje [Unconference](https://www.writethedocs.org/conf/prague/2022/unconference/).
 
 Organizatorzy postanowili nieco zmodyfikować sposób prezentacji sesji Q&A, które
-odbywały się po zakończeniu każdej z dwóch prezentacji :)
+odbywały się po zakończeniu każdej z dwóch prezentacji 😊
 
 A co było najciekawsze na wirtualnej scenie? Ze wszystkich prelekcji wybraliśmy
 kilka, którymi w imieniu redakcji chciałam się z Wami podzielić.
@@ -94,7 +94,7 @@ możliwości dla Was. Jeśli będziecie trzymać się tego, co klient już wie,
 rozwiązanie znajdzie się w tej ograniczonej przestrzeni. Ale jeśli wprowadzicie
 nowe sposoby myślenia, możecie po prostu otworzyć rozmowę i wywołać większe,
 bardziej głębokie wyzwania, których realizacja będzie wymagała pracy z Waszej
-strony :) Jedną z największych korzyści z poświęcenia czasu na zadawanie pytań
+strony 😊 Jedną z największych korzyści z poświęcenia czasu na zadawanie pytań
 jest to, że od czasu do czasu będziecie samodzielnie w stanie rozwiązywać Wasze
 problemy i jest to jeden z najlepszych wyników, jakie możecie osiągnąć!
 
@@ -143,7 +143,7 @@ dokumentacji można wymienić m.in.:
 - [node.js](https://nodejs.org/en/)
 - [Vue.js](https://vuejs.org/)
 
-I wiele innych, co pokazuje, że rynek jest rzeczywiście zróżnicowany ;)
+I wiele innych, co pokazuje, że rynek jest rzeczywiście zróżnicowany 😉
 
 Idąc dalej, jak tworzy się społeczność pisarzy w Afryce?
 
@@ -272,7 +272,7 @@ Na co zwracać uwagę?
   wszystkim, modyfikuje Wasz dokument. W sytuacji, gdy nie znacie wszystkich
   niuansów wprowadzania tych zmian, oddajemy kontrolę nad częścią naszej pracy
   programowi co czasami może zaprowadzić Was do lasu, więc ostateczna decyzja
-  należy do autora, czy warto z niej skorzystać :)
+  należy do autora, czy warto z niej skorzystać 😊
 - Użyj "tego" wyrazu zamiast "tamtego" - ta korekta pomoże Wam wyeliminować
   błędy literowe lub możecie też ignorować tekst dosłowny. Możecie wybrać 
   sugestię, aby włączyć ją do Waszego dokumentu.
@@ -365,7 +365,7 @@ Jeśli macie czas i zasoby, wykorzystajcie okazję do wzięcia udziału w
 wydarzeniach takich jak Write the Docs. Jest to zawsze ciekawe doświadczenie i
 szansa na nawiązanie nowych znajomości, a także znalezienie rozwiązań problemów
 w swojej organizacji lub wskazówek, jak poprawić Waszą dokumentację, a jeśli
-macie inne zdanie podzielcie się w komentarzach. ;)
+macie inne zdanie podzielcie się w komentarzach. 😉
 
 Nie pozostaje nam nic innego, jak życzyć Wam powodzenia w tworzeniu tekstów
 technicznych!

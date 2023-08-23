@@ -33,7 +33,7 @@ Dziś możemy odpowiedzieć na wszystkie te pytania:
 - Mieliśmy masę dodatkowej pracy i jeszcze więcej zabawy!
 
 Podsumowując - same sukcesy i splendory, wytrwaliśmy i zdecydowanie było warto
-:)
+😊
 
 Z optymizmem patrzymy w przyszłość...
 
@@ -41,6 +41,6 @@ Z optymizmem patrzymy w przyszłość...
 
 ... a także szykujemy dla Was (i dla nas) prezent-niespodziankę!
 
-Dzięki za wszystko i bądźcie z nami :)
+Dzięki za wszystko i bądźcie z nami 😊
 
 Redakcja.

@@ -17,7 +17,7 @@ ten sam model według instrukcji stworzonych przez kolegę/koleżankę.
 
 Z tego co pamiętam instrukcji nie stworzył prawie nikt... nie dlatego, że było
 to tak trudne zadanie, ale głównie dlatego, że mało kto potrafił z pamięci
-ułożyć coś z papieru :)
+ułożyć coś z papieru 😊
 
 Ale przejdźmy do rzeczy. Zastanawialiście się kiedyś jak ciekawym zjawiskiem są
 instrukcje  do origami? Nie będziemy tutaj pisać o korzeniach tej sztuki, ani o
@@ -55,7 +55,7 @@ przyjemnością w poszukiwaniu kolejnej figury do ułożenia. Instrukcja origami
 jest jak opowieść, jeśli już zaczniesz ją czytać, po prostu musisz skończyć...
 
 Wszyscy chcielibyśmy pewnie, żeby nasza dokumentacja techniczna nabrała kiedyś
-takich barw :)
+takich barw 😊
 
 A na koniec cytat z instrukcji układania kwiatka z papieru (bylibyście sobie to
 w stanie wyobrazić bez towarzyszącego obrazka?):

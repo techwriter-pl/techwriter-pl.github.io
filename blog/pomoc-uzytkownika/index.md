@@ -26,7 +26,7 @@ korzystamy.
 [![Wordhelp](images/Wordhelp.jpg)](http://techwriter.pl/wp-content/uploads/2013/10/Wordhelp.jpg)
 
 On-line help ma to do siebie, że jest w całości dostępny dla wszystkich
-użytkowników oprogramowania a jednocześnie nikt nigdy go w całości nie czyta :).
+użytkowników oprogramowania a jednocześnie nikt nigdy go w całości nie czyta 😊.
 Poza dokumentalistami oczywiście.  Dostarczany najczęściej w formie plików .chm,
 HTML, PDF, ostatnio często po prostu jako strony www.
 

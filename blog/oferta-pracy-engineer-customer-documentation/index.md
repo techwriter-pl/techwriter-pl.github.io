@@ -9,7 +9,7 @@ tags:
 coverImage: "Nokia-logo-e1528727519947.jpg"
 ---
 
-Dziś oferta z Wrocławia, z fińskiej firmy, po angielsku :) Raczej dla
+Dziś oferta z Wrocławia, z fińskiej firmy, po angielsku 😊 Raczej dla
 oświadczonej osoby, ale próbować mogą wszyscy!
 
 Oryginalne ogłoszenie wraz z możliwością aplikowania znajdziecie

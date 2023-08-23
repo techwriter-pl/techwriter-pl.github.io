@@ -59,7 +59,7 @@ interested in a long-term cooperation and has the following traits:
 - Convenient, easy to access office location (near the A1 highway),
 - Subsidized English language courses,
 - Free access to the kitchen (including unlimited tea and coffee in many
-  varieties:)) and a free parking lot,
+  varieties😊) and a free parking lot,
 - Access to the internal library (and an actual impact on its content) with both
   fictional and non-fictional literature,
 - A good work-life balance with flexible working hours and opportunities to work

@@ -76,7 +76,7 @@ połączona z
 [SIGDOC 2020](https://sigdoc.acm.org/conference/2020/)
 
 5-9 października, online - [reQuest 2020](https://2020.request.pl/) - polska
-konferencja z Wrocławia ;-)
+konferencja z Wrocławia 😉
 
 6-7 października, online -
 [UX Writer Conference 2020](https://uxwriterconference.com/)

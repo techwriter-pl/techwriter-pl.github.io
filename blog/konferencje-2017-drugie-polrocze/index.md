@@ -113,4 +113,4 @@ medialnym konferencji ?**
 
 Wybór konferencji jest dość spory, co nas oczywiście cieszy. Dajcie znać, która
 z konferencji szczególnie Was zainteresowała. A może wiecie o jakimś wydarzeniu
-wartym wpisania na powyższą listę? Piszcie śmiało w komentarzach ;-)
+wartym wpisania na powyższą listę? Piszcie śmiało w komentarzach 😉

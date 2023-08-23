@@ -35,7 +35,7 @@ oddaliśmy ubranie do szatni i udaliśmy się do strefy wystawców. Na dużej sa
 rozstawiły swoje stanowiska różne firmy, zarówno te, które były nam znane, jak
 Soundcloud, i te nieznane, jak Thoughtworks (a przynajmniej do czasu ich
 prezentacji). Tam też mieścił się bufet, w którym mogliśmy zaopatrzyć się w
-jadło i napitki. Potwierdzamy, że Niemcy wiedzą jak warzyć dobre piwo ;)
+jadło i napitki. Potwierdzamy, że Niemcy wiedzą jak warzyć dobre piwo 😉
 
 # Otwarcie
 

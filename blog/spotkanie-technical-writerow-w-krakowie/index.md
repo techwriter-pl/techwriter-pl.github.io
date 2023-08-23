@@ -20,5 +20,5 @@ Zaplanowano dwie prelekcje:
 Więcej informacji na ten temat znajdziecie
 [bezpośrednio u źródła](https://www.meetup.com/pl-PL/AbbinPoland/events/264775853/).
 
-To może być udany początek nowej, świeckiej tradycji ;) Trzymamy kciuki za udane
+To może być udany początek nowej, świeckiej tradycji 😉 Trzymamy kciuki za udane
 spotkanie!

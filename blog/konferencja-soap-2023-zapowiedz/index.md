@@ -58,7 +58,15 @@ Bilety dla osób chcących osobiście uczestniczyć w konferencji. Link do
 rejestracji oraz wszelkie potrzebne informacje znajdziecie
 [tutaj](https://app.evenea.pl/event/soap2023-in-person/).
 
-<table><tbody><tr><td>Late bird | student (-50%)</td><td>Do 30 kwietnia</td><td>500,00 zł</td></tr><tr><td>Late bird | group 6+ (-20%)</td><td>Do 30 kwietnia</td><td>800,00 zł</td></tr><tr><td>Late bird | group 3-5 (-10%)</td><td>Do 30 kwietnia</td><td>900,00 zł</td></tr><tr><td>Late bird | individual</td><td>Do 30 kwietnia</td><td>1000,00 zł</td></tr><tr><td>Last minute | student (-50%)</td><td>Jeszcze niedostępne <small>od 1&nbsp;Maja&nbsp;2023<span className="weekday">&nbsp;(Poniedziałek)</span></small></td><td>650,01 zł</td></tr><tr><td>Last minute | group 6+ (-20%)</td><td>Jeszcze niedostępne <small>od 1&nbsp;Maja&nbsp;2023<span className="weekday">&nbsp;(Poniedziałek)</span></small></td><td>1 040,00 zł</td></tr><tr><td>Last minute | group 3-5 (-10%)</td><td>Jeszcze niedostępne <small>od 1&nbsp;Maja&nbsp;2023<span className="weekday">&nbsp;(Poniedziałek)</span></small></td><td>1 170,00 zł</td></tr><tr><td>Last minute | individual</td><td>Jeszcze niedostępne <small>od 1&nbsp;Maja&nbsp;2023<span className="weekday">&nbsp;(Poniedziałek)</span></small></td><td>1 300,00 zł</td></tr></tbody></table>
+| Late bird   | student (-50%)   | Do 30 kwietnia                                                   | 500,00 zł   |
+| ----------- | ---------------- | ---------------------------------------------------------------- | ----------- |
+| Late bird   | group 6+ (-20%)  | Do 30 kwietnia                                                   | 800,00 zł   |
+| Late bird   | group 3-5 (-10%) | Do 30 kwietnia                                                   | 900,00 zł   |
+| Late bird   | individual       | Do 30 kwietnia                                                   | 1000,00 zł  |
+| Last minute | student (-50%)   | Jeszcze niedostępne od 1&nbsp;Maja&nbsp;2023&nbsp;(Poniedziałek) | 650,01 zł   |
+| Last minute | group 6+ (-20%)  | Jeszcze niedostępne od 1&nbsp;Maja&nbsp;2023&nbsp;(Poniedziałek) | 1 040,00 zł |
+| Last minute | group 3-5 (-10%) | Jeszcze niedostępne od 1&nbsp;Maja&nbsp;2023&nbsp;(Poniedziałek) | 1 170,00 zł |
+| Last minute | individual       | Jeszcze niedostępne od 1&nbsp;Maja&nbsp;2023&nbsp;(Poniedziałek) | 1 300,00 zł |
 
 Cena obejmuje:
 
@@ -80,7 +88,15 @@ Bilety dla osób chcących wirtualnie uczestniczyć w wydarzeniu. Link do
 rejestracji oraz wszelkie potrzebne informacje znajdziecie
 [tutaj](https://app.evenea.pl/event/soap2023-virtual/).
 
-<table><tbody><tr><td>Late bird | student (-50%)</td><td>Do 30 kwietnia</td><td>350,00 zł</td></tr><tr><td>Late bird | group 6+ (-20%)</td><td>Do 30 kwietnia</td><td>560,01 zł</td></tr><tr><td>Late bird | group 3-5 (-10%)</td><td>Do 30 kwietnia</td><td>630,01 zł</td></tr><tr><td>Late bird | individual</td><td>Do 30 kwietnia</td><td>700,01 zł</td></tr><tr><td>Last minute | student (-50%)</td><td>Jeszcze niedostępne <small>od 1&nbsp;Maja&nbsp;2023<span className="weekday">&nbsp;(Poniedziałek)</span></small></td><td>455,00 zł</td></tr><tr><td>Last minute | group 6+ (-20%)</td><td>Jeszcze niedostępne <small>od 1&nbsp;Maja&nbsp;2023<span className="weekday">&nbsp;(Poniedziałek)</span></small></td><td>728,00 zł</td></tr><tr><td>Last minute | group 3-5 (-10%)</td><td>Jeszcze niedostępne <small>od 1&nbsp;Maja&nbsp;2023<span className="weekday">&nbsp;(Poniedziałek)</span></small></td><td>819,00 zł</td></tr><tr><td>Last minute | individual</td><td>Jeszcze niedostępne <small>od 1&nbsp;Maja&nbsp;2023<span className="weekday">&nbsp;(Poniedziałek)</span></small></td><td>910,00 zł</td></tr></tbody></table>
+| Late bird   | student (-50%)   | Do 30 kwietnia                                                   | 350,00 zł |
+| ----------- | ---------------- | ---------------------------------------------------------------- | --------- |
+| Late bird   | group 6+ (-20%)  | Do 30 kwietnia                                                   | 560,01 zł |
+| Late bird   | group 3-5 (-10%) | Do 30 kwietnia                                                   | 630,01 zł |
+| Late bird   | individual       | Do 30 kwietnia                                                   | 700,01 zł |
+| Last minute | student (-50%)   | Jeszcze niedostępne od 1&nbsp;Maja&nbsp;2023&nbsp;(Poniedziałek) | 455,00 zł |
+| Last minute | group 6+ (-20%)  | Jeszcze niedostępne od 1&nbsp;Maja&nbsp;2023&nbsp;(Poniedziałek) | 728,00 zł |
+| Last minute | group 3-5 (-10%) | Jeszcze niedostępne od 1&nbsp;Maja&nbsp;2023&nbsp;(Poniedziałek) | 819,00 zł |
+| Last minute | individual       | Jeszcze niedostępne od 1&nbsp;Maja&nbsp;2023&nbsp;(Poniedziałek) | 910,00 zł |
 
 Cena obejmuje:
 

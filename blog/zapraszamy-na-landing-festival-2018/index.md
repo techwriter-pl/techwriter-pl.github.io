@@ -13,7 +13,7 @@ coverImage: "cables_banners_v3-2.jpg"
 
 Z ogromną przyjemnością już dziś zapraszamy specjalistów IT do Berlina na
 nadchodzący [Landing Festival 2018](https://landingfestival.com/berlin). Jest to
-dla nas tym większa radość gdyż objęliśmy to wydarzenie patronatem medialnym :)
+dla nas tym większa radość gdyż objęliśmy to wydarzenie patronatem medialnym 😊
 .
 
 ## Landing Festival - co to takiego?

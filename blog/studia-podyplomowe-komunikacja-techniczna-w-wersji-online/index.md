@@ -18,7 +18,7 @@ W aktualnych okolicznościach przyrody rozpoczynanie jakichkolwiek studiów w
 formie tradycyjnej ma raczej średni sens. Do takich wniosków doszli również
 twórcy pierwszych studiów podyplomowych dotyczących naszej profesji. Wszystko
 wskazuje na to, że wyczekiwany przez wiele osób od kilku lat, kierunek w końcu
-wystartuje. Cieszymy się, szczególnie, że objęliśmy go swoim patronatem :)
+wystartuje. Cieszymy się, szczególnie, że objęliśmy go swoim patronatem 😊
 
 Plan zajęć wygląda następująco:
 

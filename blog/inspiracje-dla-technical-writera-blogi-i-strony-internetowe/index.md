@@ -16,7 +16,7 @@ coverImage: "Konferencje-2019-3.png"
 Sporo czasu upłynęło od naszego
 [ostatniego postu](http://techwriter.pl/blogi-anglojezyczne/) dotyczącego
 sprawdzonych miejsc w Internecie dla Technical Writerów. Postanowiłam odświeżyć
-dla Was ten temat, by sprawdzić co nowego w sieci piszczy ;-)
+dla Was ten temat, by sprawdzić co nowego w sieci piszczy 😉
 
 ### Blogi
 
@@ -25,7 +25,7 @@ najpopularniejszych blogów w branży, który polecamy Wam już nie pierwszy raz
 Jego autorem jest Tom Johnson, tech writer z wieloletnim stażem. Jego artykuły
 to nie tylko omówienie narzędzi czy dokumentacja w API, ale także spory zapas
 materiałów na temat trendów, rozwoju kariery czy nowinek ze świata tech commu.
-Dla nas to wciąż blog numer jeden ;-).
+Dla nas to wciąż blog numer jeden 😉.
 
 [Cyber Text Blog](https://cybertext.wordpress.com/) - blog pisany przez Rhondę
 Bracey, w którym znajdziecie mnóstwo wskazówek i instruktaży związanych z pracą

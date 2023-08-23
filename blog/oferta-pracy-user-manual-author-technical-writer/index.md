@@ -12,7 +12,7 @@ coverImage: "Electrolux_2015.svg_.png"
 Dziś znów mamy dla Was ofertę pracy - znana firma z tradycjami - Electrolux. Kto
 zgadnie w jakim mieście?
 
-Odpowiedź na końcu oferty. Tak, zgadliście :). Oferta zainteresuje zapewne
+Odpowiedź na końcu oferty. Tak, zgadliście 😊. Oferta zainteresuje zapewne
 bardziej i mniej doświadczonych techwriterów.
 
 > We are currently looking for User Manual Author (Technical Writer) to join the

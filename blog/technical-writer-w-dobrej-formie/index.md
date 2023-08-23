@@ -21,7 +21,7 @@ doświadczenia i rozmów z wieloma osobami pracującymi minimum kilka lat mamy
 wspólnego. Co zatem można zrobić, by nie stracić animuszu i pomysłowości?
 
 Przygotowaliśmy listę ćwiczeń, które pozwolą utrzymać Technical Writera w dobrej
-formie ;).
+formie 😉.
 
 1. **Czytaj o pisaniu.** Internet, biblioteki, księgarnie – można w nich znaleźć
    mnóstwo informacji na temat pisania. Czytaj, a będziesz wciąż uczył się

@@ -10,7 +10,7 @@ coverImage: "inittec_logo.jpg"
 ---
 
 Ciekawa oferta pracy z Krakowa. Coś dla Was - szukają ludzi ambitnych,
-konsekwentnych i pracowitych :).
+konsekwentnych i pracowitych 😊.
 
 Szczegóły oferty:
 
@@ -18,6 +18,6 @@ Szczegóły oferty:
 
 A wspomniany przycisk
 znajdziecie [tutaj](http://www.pracuj.pl/praca/specjalista-ds-dokumentacji-it-krakow,oferta,3596902).
-:)
+😊
 
 Powodzenia!

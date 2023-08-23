@@ -10,7 +10,7 @@ coverImage: "owca.jpg"
 
 Właściwie, jako “techniczni”, powinniśmy chyba napisać
 
-Hello World! :) (tu
+Hello World! 😊 (tu
 [naukowe wyjaśnienie](http://pl.wikipedia.org/wiki/Hello_world)).
 
 W każdym razie ruszamy. Strona techwriter.pl z założenia ma być miejscem gdzie 
@@ -38,12 +38,12 @@ zetknęli się z powyższymi nazwami już tłumaczymy – chodziło nam o:
 - On-line helps
 - Procedures and templates
 - Specifications and reports
-- AODs ;)
+- AODs 😉
 
 Wiemy, że w Polsce jest całkiem sporo takich ludzi, wiemy też, że jesteście
-młodzi, piękni, energiczni i odrobinę... specyficzni :). Wiemy też, że macie
+młodzi, piękni, energiczni i odrobinę... specyficzni 😊. Wiemy też, że macie
 pewne potrzeby, które pozostają wciąż niezaspokojone i powstaliśmy właśnie po
-to, żeby sprostać temu wyzwaniu ;).
+to, żeby sprostać temu wyzwaniu 😉.
 
 Kilka tego typu inicjatyw już było, ale się zmyło (o mydle będziemy pisać już
 niebawem). Ta będzie kolejną, jeżeli znów pozostaniecie bierni.

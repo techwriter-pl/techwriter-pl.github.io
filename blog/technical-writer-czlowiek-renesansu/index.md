@@ -20,7 +20,7 @@ stwierdzają krótko "Aha! Piszesz instrukcje", mając w głowie obraz smutnego
 osobnika, który całymi dniami siedzi sam, zamknięty w najbardziej odległym
 pokoju w biurze i w pocie czoła pisze, pisze i pisze coraz to grubsze księgi,
 które potem lądują w koszu lub służą do podpierania stołu. Jednak rzeczywistość
-jest inna (przynajmniej u nas :) ). Oczywiście, pisanie to duża część naszej
+jest inna (przynajmniej u nas 😊 ). Oczywiście, pisanie to duża część naszej
 pracy, jednak tworzenie dokumentacji nie sprowadza się do bezmyślnego klepania
 linijek tekstu. Jest to wielowymiarowy proces składający się z różnorodnych
 zadań. Oprócz tego, nasza praca ma również jeden bardzo istotny "efekt

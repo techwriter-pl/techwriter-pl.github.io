@@ -151,7 +151,7 @@ wersji podsumowuje wątki omawiane przez WriteTheDocs Community.
 
 ---
 
-Od redakcji: **Serdecznie dziękujemy Rafale! :) Za zdjęcia również!**
+Od redakcji: **Serdecznie dziękujemy Rafale! 😊 Za zdjęcia również!**
 
 Jeżeli chcecie obejrzeć wszystkie wystąpienia z praskiej konferencji -
 koniecznie odwiedźcie kanał organizatorów na YouTube:

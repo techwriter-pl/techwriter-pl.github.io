@@ -15,7 +15,7 @@ współpracowników - to życzenia uniwersalne. Co jeszcze jest dla nas ważne? 
 nasze specjalne pozdrowienia z dedykacją.
 
 Dla początkujących techwriterów - abyście nie przejmowali się trudnościami,
-ponieważ w drodze do mistrzostwa liczą się także pierwsze kroki ;-)
+ponieważ w drodze do mistrzostwa liczą się także pierwsze kroki 😉
 
 [![](images/piesek-246x300.jpg)](http://techwriter.pl/wp-content/uploads/2021/12/piesek.jpg)
 

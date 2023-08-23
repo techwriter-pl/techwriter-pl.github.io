@@ -10,7 +10,7 @@ coverImage: "guidewire_logo_new_2color_h_screen.jpg"
 ---
 
 Dawno nie było oferty pracy z Krakowa... Co prawda jest w języku angielskim, ale
-jesteśmy pewni, że nawet w piątek dacie radę ;)
+jesteśmy pewni, że nawet w piątek dacie radę 😉
 
 Guidewire opened Krakow Centre in September 2015 to support increasing global
 customer demand. Kraków is Guidewire’s eighth global development Centre, joining

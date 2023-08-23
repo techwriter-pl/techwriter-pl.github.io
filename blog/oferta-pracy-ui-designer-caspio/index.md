@@ -19,7 +19,7 @@ już menedżerowie produktu, UX designerzy i specjaliści od dokumentacji
 technicznej. Nowe biuro, nowi ludzie, nowe projekty to dobra okazja, żeby
 realnie wpłynąć na to jak będzie wyglądało nasze przyszłe miejsce pracy. Nasi
 tajni informatorzy donoszą, że jest to oferta godna polecenia, dlatego zachęcamy
-do aplikowania :)
+do aplikowania 😊
 
 Więcej szczegółów znajdziecie poniżej albo
 w [ogłoszeniu na stronie pracodawcy](https://www.caspio.com/job-position-details/?Position_ID=548&Job_Title=UI%20Designer) (gdzie

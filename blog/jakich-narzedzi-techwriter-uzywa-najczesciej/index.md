@@ -10,7 +10,7 @@ tags:
 coverImage: "narzedzia.jpg"
 ---
 
-Ilustracja jest tylko po to, żebyście mogli sobie chwilkę pomarzyć...:). A już
+Ilustracja jest tylko po to, żebyście mogli sobie chwilkę pomarzyć...😊. A już
 serio - mamy dla Was ranking najczęściej używanych w naszym fachu narzędzi.
 Sprawdź czego warto się nauczyć.
 

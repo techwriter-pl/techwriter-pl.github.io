@@ -155,4 +155,4 @@ comm. Wystarczy wejść na
 
 Jeśli znacie jakieś inne ciekawe społeczności lub grupy, do których warto
 dołączyć, dajcie nam znać w komentarzach. A tymczasem, Wesołych Świąt i
-szczęśliwego Nowego Roku :)
+szczęśliwego Nowego Roku 😊

@@ -66,7 +66,7 @@ Poniżej kilka tematów, które wzbudziły nasze zainteresowanie:
 - Prawa własności intelektualnej w kontekście tłumaczeń maszynowych i pamięci
   tłumaczeniowych - Wojciech Wołoszyk,
 - UX w tłumaczeniach – hit, kit czy mit? - Ewa Dacko,
-- Tajemnicza prelekcja tajemniczego prelegenta ;-).
+- Tajemnicza prelekcja tajemniczego prelegenta 😉.
 
 Pełną listę tematów znajdziecie
 [na tej stronie](https://www.konferencjatlumaczy.pl/prelegenci).
@@ -99,7 +99,17 @@ Wszystkie warsztaty odbywają się w Centrum Konferencyjnym Zielna.
 
 ### Bilety
 
-<table style="border-collapse: collapse; width: 100%; height: 180px;" border="1"><tbody><tr style="height: 18px;"><td style="width: 50%; text-align: center; height: 18px;"><strong>BILET</strong></td><td style="width: 50%; text-align: center; height: 18px;">CENA (w zł)</td></tr><tr style="height: 18px;"><td style="width: 50%; text-align: center; height: 18px;">Bilet na konferencję</td><td style="width: 50%; text-align: center; height: 18px;">420</td></tr><tr style="height: 18px;"><td style="width: 50%; height: 18px; text-align: center;">Networking</td><td style="width: 50%; height: 18px; text-align: center;">125</td></tr><tr style="height: 18px;"><td style="width: 50%; height: 18px; text-align: center;">Obiad</td><td style="width: 50%; height: 18px; text-align: center;">60</td></tr><tr style="height: 18px;"><td style="width: 50%; height: 18px; text-align: center;">SDL Trados poziom podstawowy - warsztat</td><td style="width: 50%; height: 18px; text-align: center;">600</td></tr><tr style="height: 18px;"><td style="width: 50%; height: 18px; text-align: center;">SDL Trados poziom średni - warsztat</td><td style="width: 50%; height: 18px; text-align: center;">600</td></tr><tr style="height: 18px;"><td style="width: 50%; height: 18px; text-align: center;">SDL Trados (poziom podstawowy i średni)</td><td style="width: 50%; height: 18px; text-align: center;">900</td></tr><tr style="height: 18px;"><td style="width: 50%; height: 18px; text-align: center;">Warsztaty z lokalizacji</td><td style="width: 50%; height: 18px; text-align: center;">400</td></tr><tr style="height: 18px;"><td style="width: 50%; height: 18px; text-align: center;">MT w praktyce</td><td style="width: 50%; height: 18px; text-align: center;">400</td></tr><tr style="height: 18px;"><td style="width: 50%; height: 18px; text-align: center;">Warsztaty: MT + lokalizacja</td><td style="width: 50%; height: 18px; text-align: center;">560</td></tr></tbody></table>
+| BILET                                   | CENA (w zł) |
+| --------------------------------------- | ----------- |
+| Bilet na konferencję                    | 420         |
+| Networking                              | 125         |
+| Obiad                                   | 60          |
+| SDL Trados poziom podstawowy - warsztat | 600         |
+| SDL Trados poziom średni - warsztat     | 600         |
+| SDL Trados (poziom podstawowy i średni) | 900         |
+| Warsztaty z lokalizacji                 | 400         |
+| MT w praktyce                           | 400         |
+| Warsztaty: MT + lokalizacja             | 560         |
 
 Udział w konferencji, wieczornym networkingu oraz warsztatach wymaga rejestracji
 oraz zakupu biletu. Zwróćcie uwagę, że dodatkowo można wykupić obiad na dzień

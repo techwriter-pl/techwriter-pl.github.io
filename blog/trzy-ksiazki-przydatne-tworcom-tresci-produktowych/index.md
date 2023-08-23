@@ -191,7 +191,7 @@ Na koniec dostajemy jeszcze dość specyficzny punkt widzenia Kinneret. Pisze, �
 należy zawsze zastanowić się, czy w ogóle warto w pewnych miejscach umieszczać
 _microcopy_. Forsuje jeszcze punkt widzenia, że zwięzłość jest konieczna zawsze
 (z tym nie do końca umiem się zgodzić, aczkolwiek nie jest to szkodliwy punkt
-widzenia ;)). Oprócz teorii odbioru przekazu i kształtowania dobrej komunikacji
+widzenia 😉). Oprócz teorii odbioru przekazu i kształtowania dobrej komunikacji
 musimy wziąć po uwagę zasady użyteczności (ang. _usability_). To co znajdziemy w
 części ostatniej to próba podpowiedzi, jak wszystkie wcześniej opisane zasady
 ułożyć w dający się używać system.

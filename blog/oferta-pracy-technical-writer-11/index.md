@@ -21,7 +21,7 @@ automatyzującą proces obsługi faktur, poszukuje doświadczonego Tech Writera,
 który zajmie się dokumentacją i zaprojektuje od podstaw proces tłumaczeń
 tworzonego oprogramowania na inne języki. W zamian firma oferuje płaską
 strukturę, mnóstwo miejsca na własne pomysły, wygodne biuro i splendor,
-wynikający z bycia jedynym Tech Writerem w firmie ;)
+wynikający z bycia jedynym Tech Writerem w firmie 😉
 
 Zachęcające jest również swego rodzaju zobowiązanie dotyczące procesu rekrutacji
 zamieszczone na końcu ogłoszenia. Firma obiecuje, że osoba zajmująca się

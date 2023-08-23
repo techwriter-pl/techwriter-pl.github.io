@@ -9,7 +9,7 @@ coverImage: "LinkedIn.jpg"
 ---
 
 To już tradycja, że co trzy lata mamy dla Was prezent świąteczny w postaci
-nowego kanału social media :)
+nowego kanału social media 😊
 
 [W roku 2013 dołączyliśmy do Facebooka i Twittera](http://techwriter.pl/prezent-od-sw-mikolaja-twarzoksiazka/).
 
@@ -22,7 +22,7 @@ pierwszej z tych platform.
 
 Być może kolejność powinna być odwrotna, wszak jest to sieć przeznaczona dla
 kontaktów profesjonalnych, a któż jest bardziej profesjonalny niż redakcja
-Techwriter.pl? ;)
+Techwriter.pl? 😉
 
 Zapraszamy do kliknięcia w link powyżej, ikonkę po prawej, a już na naszym
 linkedinowym profilu naciśnięcia przycisku "Follow".
@@ -33,7 +33,7 @@ Fejsik tnie zasięgi, ćwierkacz jest w Polsce mało popularny - największe sza
 na to, że nie pominiecie żadnego naszego wpisu daje aktualnie właśnie platforma
 firmy Microsoft.
 
-Zapraszamy do kontaktu na LinkedIn! Wiemy że tam jesteście :)
+Zapraszamy do kontaktu na LinkedIn! Wiemy że tam jesteście 😊
 
 _Fot.
 "[Linkedin Chocolates](https://www.flickr.com/photos/nanpalmero/4278432941/)" ([CC BY 2.0](https://creativecommons.org/licenses/by/2.0/))

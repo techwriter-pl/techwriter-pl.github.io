@@ -27,7 +27,7 @@ dokumenty aplikacyjne. Tak się zaczęła moja przygoda z tech writingiem.
 Jako ciekawostkę dodam, że jednym z trzech dokumentów jaki musiałem przedłożyć
 pracodawcy podczas procesu rekrutacji była samodzielnie sporządzona instrukcja
 do sapera. Jeśli ktoś nie kojarzy to jest to gra dostępna w starszych systemach
-operacyjnych Windows ;)
+operacyjnych Windows 😉
 
 ### Czy możesz opowiedzieć coś o swojej firmie i zespole w którym pracujesz?
 
@@ -71,7 +71,7 @@ podstawy Worda znałem już wcześniej. Każde narzędzie ma swoje plusy i minus
 InDesign jest dla mnie przede wszystkich szybszy w obsłudze, zarówno biorąc pod
 uwagę formatowanie tekstu jak dołączanie grafik / zrzutów do dokumentów.
 Umożliwia też import gotowych plików PDF do dokumentacji. O wadach i zaletach
-aplikacji Microsoftu nie ma się co rozpisywać ;) Dodatkowo używam także innych
+aplikacji Microsoftu nie ma się co rozpisywać 😉 Dodatkowo używam także innych
 prostych narzędzi:
 
 - Paint.Net - podstawowa i szybka obróbka grafik / zrzutów ekranowych.
@@ -87,7 +87,7 @@ korzystamy również z Confluence'a.
 Jeżeli chodzi o systemy i narzędzia początkowo poznawałem je samodzielnie.
 Oczywiście mogłem liczyć na wsparcie merytoryczne kolegów i koleżanek ale
 większość pracy musiałem wykonać samodzielnie. Aktualnie współpracuje głównie z
-wdrożeniowcami (łatwiej się z nimi dogadać ;) ), a mniej z programistami
+wdrożeniowcami (łatwiej się z nimi dogadać 😉 ), a mniej z programistami
 (czasami jednak trzeba "uderzyć do źródła"). Informacje zdobywam w różny sposób.
 Najczęściej jest to rozmowa, podczas której poznaję specyfikę działania
 określonych funkcjonalności i modułów aplikacji. Moim zdaniem jest to najlepszy
@@ -116,7 +116,7 @@ głównie dla klientów z Polski.
 Jeżeli chodzi to tematykę opracowań to aktualnie działam przede wszystkim w
 obszarze systemów telemetrii (SCADA). Wcześniej zajmowałem się systemem
 paszportyzacji z modułem GIS’owym - System Informacji Geograficznej (nie mylić z
-“Główny Inspektorat Sanitarny” ;) ). Gdzieś po drodze popełniłem też jakąś
+“Główny Inspektorat Sanitarny” 😉 ). Gdzieś po drodze popełniłem też jakąś
 DTR’kę (dokumentację techniczno-ruchową) dla fizycznego urządzenia (Multiplekser
 portu szeregowego), dokumentację BMS'a (System zarządzania budynkiem) oraz inną
 tzw. "drobnicę".
@@ -155,4 +155,4 @@ Ważne aby się nie zniechęcać i nie bać się pytać. Aby dobrze coś opisać
 to dobrze poznać i zrozumieć, a kluczem do tego jest zdobyta wiedza. Jeżeli masz
 wątpliwości lepiej zapytać dwa, a nawet trzy razy niż stworzyć dokumentację
 która będzie zawierała błędy merytoryczne lub będzie niepełna. Powiedzenie “kto
-pyta nie błądzi” znajduje w naszej pracy pełne zastosowanie :)
+pyta nie błądzi” znajduje w naszej pracy pełne zastosowanie 😊

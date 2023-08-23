@@ -94,7 +94,7 @@ ich potrzeby i potencjał.
 
 Był design, była inspiracja, a puzzle? Rozdawano je za darmo. A do nich
 skarpetki. I kupony na drinki. Techniki rekrutacyjne w naszym kraju coraz
-bardziej przypadają nam do gustu :)
+bardziej przypadają nam do gustu 😊
 
 Przy okazji, przypominamy: do 31 marca możecie wziąć udział w naszej ankiecie o
 zarobkach w komunikacji technicznej. Znajdziecie ją

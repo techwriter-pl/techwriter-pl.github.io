@@ -50,7 +50,7 @@ zostały rozdzielone, CSS otrzymałby dużo niższą liczbę głosów. Co cieka
 liczba osób znających języki programowania takie jak C++, C# czy Java wynosi
 zaledwie 10%. I tutaj rada od Joe: jeśli umiesz rozczytać kod i umiesz go
 opisać, możesz bez namysłu lecieć do USA, a tam Google, Microsoft, Amazon czy
-inne tego typu wielkie korporacje przyjmą cię z pocałowaniem ręki i od ręki :)
+inne tego typu wielkie korporacje przyjmą cię z pocałowaniem ręki i od ręki 😊
 
 ### Systemy pomocy
 
@@ -88,7 +88,7 @@ projektów.
 
 Co sądzicie o tych statystykach? Jak można je odnieść do Waszej pracy? Jeżeli
 chcecie wziąć udział w ankiecie Joe, najnowszą możecie
-znaleźć [tutaj](www.surveymonkey.com/s/ua_tools_survey).
+znaleźć [tutaj](https://www.surveymonkey.com/s/ua_tools_survey).
 
 ## [Trends in mobile user assistance - Joe Welinske](http://www.uaeurope.com/conference/sessions.html#mobileUAtrends)
 
@@ -103,7 +103,7 @@ Kilka krótkich i najważniejszych porad:
 - Zmień podejście. Urządzenia mobilne to nie tylko małe ekrany, ale przede
   wszystkim zupełnie inne środowisko ich zastosowania i używania.
 - Próba przeniesienia helpa napisanego na Desktopa na urządzenia mobilne to nie
-  jest dobry pomysł! :)
+  jest dobry pomysł! 😊
 
 Kilka pojęć, z którymi warto się zaznajomić:
 

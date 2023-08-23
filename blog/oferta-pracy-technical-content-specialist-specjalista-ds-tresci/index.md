@@ -11,7 +11,7 @@ coverImage: "logo_open_e.jpg"
 
 Spójrzcie co się dzieje - coraz więcej ofert, coraz ciekawsze stanowiska,
 kolejne miasta - nasza branża rozwija się (również w Polsce) aż miło! Tym razem
-ciekawa oferta pracy z Bytomia. Jak widać e jest otwarte na Wasze propozycje ;).
+ciekawa oferta pracy z Bytomia. Jak widać e jest otwarte na Wasze propozycje 😉.
 
 **Technical Content Specialist / Specjalista ds. treści**
 
@@ -61,7 +61,7 @@ Nr ref.: TCS/2015
   karta sportowa;
 - dodatek relokacyjny i wsparcie przy przeprowadzce,
 - swobodny dostęp do zasobów firmowej kuchni (m.in. nieograniczona kawa i
-  herbata w wielu odmianach :)) oraz bezpłatnych miejsc parkingowych;
+  herbata w wielu odmianach 😊) oraz bezpłatnych miejsc parkingowych;
 - dostęp do wewnętrznej biblioteczki z prasą i literaturą fachową oraz realny
   wpływ na jej zawartość;
 - nastawienie na zachowanie równowagi pomiędzy pracą a życiem prywatnym –

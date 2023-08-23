@@ -35,4 +35,4 @@ Wszelkie informacje znajdziecie w naszym poście sprzed kilku tygodni
 ([klik](http://techwriter.pl/zapraszamy-na-landing-festival-2018/)) oraz na
 stronie wydarzenia ([tutaj](https://landingfestival.com/berlin)).
 
-Tradycyjnie już, czekamy na Wasze komentarze z wrażeniami z imprezy ;-)
+Tradycyjnie już, czekamy na Wasze komentarze z wrażeniami z imprezy 😉

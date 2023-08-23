@@ -13,7 +13,7 @@ coverImage: "Jaktos.jpg"
 Pisaliśmy już o
 [instrukcji obsługi Gwiazdy Śmierci](http://techwriter.pl/ten-dokument-warto-miec-pod-reka/),
 a tym razem mamy coś starszego... no dobrze, całkiem starego. Powiedzieć, że
-takie how-to jest oldskulowe to nic nie powiedzieć:). Zobaczcie jak dawniej
+takie how-to jest oldskulowe to nic nie powiedzieć😊. Zobaczcie jak dawniej
 pisało się tego typu dokumenty.
 
 Nie powstał co prawda jeszcze podręcznik odpowiadający na pytanie "Jak żyć?",

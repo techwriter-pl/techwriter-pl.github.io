@@ -76,9 +76,9 @@ Wszystkim zainteresowanym tematyką dostępności polecamy
 przez naszego partnera, firmę Accens. Wiemy również, że niedługo w ofercie
 [Accens](https://accens.pl/) pojawią się szkolenia dotyczące dostępności
 dokumentacji technicznej stworzone właśnie z myślą o technical writerach, czyli
-o nas :)
+o nas 😊
 
 Jak wspomnieliśmy, opis prelekcji oraz szczegółowy program nie są jeszcze znane
 dlatego zachęcamy do zaglądania na stronę wydarzenia oraz podany wyżej fanpage.
 
-Życzymy dobrych wrażeń ;).
+Życzymy dobrych wrażeń 😉.

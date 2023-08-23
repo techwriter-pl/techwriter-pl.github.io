@@ -37,16 +37,16 @@ konkurencja to np. produkty firmy Adobe), ale na pewno warto mu się przyjrzeć.
 
 Dla nowicjuszy - ogólne pojęcie da Wam na pewno
 [oficjalna strona produktu](http://www.madcapsoftware.com/products/flare/).
-Warto przejrzeć ją całą, tzn. zjechać w dół do samego końca :)
+Warto przejrzeć ją całą, tzn. zjechać w dół do samego końca 😊
 
 Dla tych, którzy MadCap Flare już znają polecamy
 [stronę poświęconą wersji 10](http://www.madcapsoftware.com/flare10/), filmik...
 
-<iframe src="//www.youtube.com/embed/IFutO2km3BQ?rel=0" width="560" height="315" frameBorder="0" allowFullScreen="allowFullScreen"></iframe>
+<iframe src="//www.youtube.com/embed/IFutO2km3BQ?rel=0" width={560} height={315} frameBorder={0} allowFullScreen="allowFullScreen" />
 
 ...albo
 [dokumentację](http://docs.madcapsoftware.com/FlareV10/FlareWhatsNewGuide.pdf)
-:)
+😊
 
 W sieci dostępne są również recenzje nowej wersji Flare, często
 [bardzo konkretne jak ta](http://kaiweber.wordpress.com/2014/03/05/whats-new-in-madcap-flare-10-the-nitty-gritty/).
@@ -67,4 +67,4 @@ miejscu i w jednym formacie (np. XML), w taki sposób, aby łatwo było ją
 opublikować w wielu różnych miejscach i formatach (np. Word, PDF, HTML,
 PowerPoint). Sprytne prawda? Oszczędza dużo czasu, chroni przed prostymi
 błędami, zapewnia spójność przekazywanych informacji.
-[Reużycie](http://techwriter.pl/langlydz-part-fri/) w najczystszej postaci ;)
+[Reużycie](http://techwriter.pl/langlydz-part-fri/) w najczystszej postaci 😉

@@ -106,7 +106,7 @@ obrazu znacznie się poprawiła. Ponad to, dodanie objaśnień do wykresu wyraź
 rozróżnia każdą kategorię.
 
 Dzięki takiemu rozwiązaniu wykres jest bardziej dostępny dla użytkowników z
-daltonizmem. Dla zwykłych użytkowników może być to wartością dodaną :).
+daltonizmem. Dla zwykłych użytkowników może być to wartością dodaną 😊.
 
 ### Projektowanie treści z kontrastem
 
@@ -156,7 +156,7 @@ _Tekst nałożony na obraz bez maski_
 
 Poprzez zmniejszenie krycia tła można zwiększyć kontrast. Efekt?
 
-Na oko dużo lepszy ;)
+Na oko dużo lepszy 😉
 
 [![](images/text-overlay-good-large-opt_2-1024x573.jpg)](http://techwriter.pl/wp-content/uploads/2021/02/text-overlay-good-large-opt_2.jpg)
 
@@ -190,7 +190,7 @@ link.[![](images/text_1.png)](http://techwriter.pl/wp-content/uploads/2021/02/te
 
 _Tekst widziany przez osobę z achromatopsją_
 
-Dobrym pomysłem byłoby dodanie podkreślenia… :)
+Dobrym pomysłem byłoby dodanie podkreślenia… 😊
 
 I tu lekcja również dla nas, którą od razu postanowiliśmy wcielić w życie.
 

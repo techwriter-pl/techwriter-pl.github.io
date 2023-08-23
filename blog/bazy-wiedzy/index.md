@@ -38,7 +38,7 @@ może wylądować w bazie wiedzy naszego produktu czy naszej firmy.
   [knowledge base produktów firmy Sony](https://www.servicesplus.sel.sony.com/sony-knowledge-base-search.aspx).
 - Przykład trzeci -
   [IBM software knowledge base - podobno zawiera 60 milionów stron!](http://www-912.ibm.com/s_dir/slkbase.nsf/slkbase)
-- Przykład czwarty - na zdjęciu powyżej :)
+- Przykład czwarty - na zdjęciu powyżej 😊
 
 Pewnie już zaczęliście się zastanawiać w jakim celu buduje się takie monstra...
 Przyczyn może być wiele:
@@ -54,7 +54,7 @@ Przyczyn może być wiele:
 - Aby zbudować społeczność użytkowników, ułatwić im wzajemne kontakty i otrzymać
   od nich informację zwrotną,
 - Aby zaoszczędzić na szkoleniach,
-- Aby wszystkim żyło się lepiej... ;)
+- Aby wszystkim żyło się lepiej... 😉
 
 Jak pewnie już się domyśliliście, aby baza wiedzy spełniała swoje zadanie, MUSI
 BYĆ WYPOSAŻONA W MOŻLIWOŚĆ EFEKTYWNEGO WYSZUKIWANIA. PO PROSTU MUSI.
@@ -67,4 +67,4 @@ Nie rekomendujemy (ani tym bardziej nie odradzamy) żadnego konkretnego
 oprogramowania przeznaczonego do budowania baz wiedzy, ale by lepiej przedstawić
 Wam funkcje i możliwości tego typu systemów posłużymy się
 [marketingowym przykładem ze strony jednego z producentów](http://www.web-site-scripts.com/knowledge-management/feature-tour).
-Takie rzeczy tylko w knowledge base. ;)
+Takie rzeczy tylko w knowledge base. 😉

@@ -22,7 +22,7 @@ jak i innymi imprezami z branż IT, open-source oraz z szeroko rozumianą
 dokumentacją. Ponieważ jest to pierwsza edycja konferencji Write the Docs na
 Litwie, jej zakres nie jest aż tak szeroki, jak innych, dobrze nam znanych
 wydarzeń. Mimo wszystko warto zwrócić na nią uwagę, zwłaszcza, że do Wilna nie
-mamy przecież daleko ;-).
+mamy przecież daleko 😉.
 
 ## Kiedy i gdzie?
 
@@ -38,7 +38,7 @@ stanowi dokumentacja tworzona na potrzeby przemysłu tworzącego oprogramowanie.
 Mile widziani są więc programiści, technical writerzy, osoby pracujące w
 supporcie, architekci oprogramowania oraz wszyscy ci, których praca jest
 związana z oprogramowaniem i tworzeniem do niego dokumentacji. Miejsc jest
-pięćdziesiąt, więc warto już teraz rozważyć swój udział ;-)
+pięćdziesiąt, więc warto już teraz rozważyć swój udział 😉
 
 Pierwszego dnia czeka na uczestników dobrze znany z innych konferencji Write the
 Docs [Writing Day](https://www.writethedocs.org/conf/vilnius/2019/writing-day/),
@@ -74,7 +74,7 @@ Co zawiera cena?
 - Wstęp na wszystkie atrakcje i imprezy przewidziane w trakcie całego wydarzenia
 - Śniadanie, przekąski oraz obiad podczas wszystkich dni trwania konferencji
 - WiFi
-- Możliwość poznania interesujących osób w przyjaznym otoczeniu ;-)
+- Możliwość poznania interesujących osób w przyjaznym otoczeniu 😉
 
 Transport oraz nocleg we własnym zakresie.
 

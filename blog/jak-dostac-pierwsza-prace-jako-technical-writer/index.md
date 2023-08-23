@@ -54,7 +54,7 @@ dotrzeć, aby uzyskać konkretną informację – szczegóły pomocne w napisani
 konkretnego dokumentu, termin zakończenia pracy nad danym produktem lub dostęp
 do plików instalacyjnych pozwalających na samodzielne przejście przez fragment
 opisywanego software’u. A doskonale wiemy, że ludzie miewają różne charaktery,
-sposób udzielania odpowiedzi i nie zawsze dostrzegają istotność naszej pracy. ;)
+sposób udzielania odpowiedzi i nie zawsze dostrzegają istotność naszej pracy. 😉
 
 Nie przerażaj się jednak! Większość z tych sytuacji przebiega bezproblemowo,
 lecz musisz sobie zdawać sprawę z tego, że znajomość języka angielskiego czy
@@ -152,7 +152,7 @@ jakich specjalizuje się twój potencjalny pracodawca. Możesz zostać zapytany 
 wytłumaczenie tego, jak działa połączenie głosowe, czym jest internet, z jakich
 komponentów składa się komputer lub z jakich źródeł korzystać, aby przyswoić
 sobie wiedzę z zakresu komunikacji technicznej (na to ostatnie odpowiedź już
-znasz: techwriter.pl! ;). Nie ma reguły. Pamiętaj jednak, że nie jesteś
+znasz: techwriter.pl! 😉. Nie ma reguły. Pamiętaj jednak, że nie jesteś
 całkowicie skazany na łut szczęścia.
 
 Ważne, abyś wiedział coś o firmie do której aplikujesz, poczytał i posłuchał o
@@ -181,7 +181,7 @@ na swoją intuicję, weź pod uwagę dotychczasowe zarobki lub popytaj znajomych
 działających w branży IT i posiadających na początku doświadczenie podobne do
 twojego w przypadku technical writingu.
 
-**Na pewno się uda! Powodzenia! :)**
+**Na pewno się uda! Powodzenia! 😊**
 
 Jeśli czujesz, że artykuł pozostawia jakieś niewyjaśnione kwestie – pisz śmiało
 w komentarzu poniżej.

@@ -20,7 +20,7 @@ nas więc zabraknąć podczas zeszłorocznej edycji Write the Docs w Pradze.
 Chętnych zapraszamy do zapoznania się z
 [naszą relacją](http://techwriter.pl/nasza-relacja-z-write-the-docs-prague-2019/).
 Osoby, które jeszcze nie znają historii wydarzenia odsyłamy do
-[tekstu wprowadzającego](http://techwriter.pl/poznajcie-write-the-docs-europe/) ;-).
+[tekstu wprowadzającego](http://techwriter.pl/poznajcie-write-the-docs-europe/) 😉.
 Od siebie możemy dodać, że udział w konferencji Write the Docs jest wart uwagi
 gdyż poza solidną porcją wiedzy, w pakiecie otrzymujecie świetną atmosferę oraz
 spotkanie z rewelacyjnymi ludźmi z branży.
@@ -35,7 +35,7 @@ zadaniem. Ćwiczenia z umiejętności pisarskich będą doskonałym wstępem dla
 prelekcji i wykładów, które będą miały miejsce 19 i 20 października.
 Realizatorzy chcą, by forma Write the Docs Prague przypominała jak najbardziej
 wydarzenie z realu, dlatego przygotujcie się nie tylko na prelekcje i warsztaty
-przed komputerem, ale także wieczorną imprezę online ;-).
+przed komputerem, ale także wieczorną imprezę online 😉.
 
 Wszystkie niezbędne informacje znajdziecie
 [na stronie konferencji](https://www.writethedocs.org/conf/prague/2020/).
@@ -48,7 +48,7 @@ Skrótowy program wydarzenia wygląda następująco:
 - Poniedziałek (19 października) – pierwszy dzień konferencji – oficjalne
   otwarcie, pierwsze prelekcje,
   [Unconference](https://www.writethedocs.org/conf/prague/2020/unconference/)
-  oraz wieczorna impreza zapoznawcza ;-).
+  oraz wieczorna impreza zapoznawcza 😉.
 - Wtorek (20 października) – drugi dzień konferencji – dalsze prelekcje,
   Unconference,
   [Job Fair](https://www.writethedocs.org/conf/prague/2020/job-fair/),

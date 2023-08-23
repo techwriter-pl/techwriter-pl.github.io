@@ -26,7 +26,7 @@ obrazek, żeby go wyświetlić w pełnej rozdzielczości) albo
 Jeśli potrzebujecie więcej szczegółów, możecie pisać na
 adres **[piotr.sroka85(at)gmail.com](mailto:piotr.sroka85@gmail.com)** lub
 dzwonić na numer **516 182 504**. Uprzejmy Pan Piotr chętnie odpowie na Wasze
-pytania ;)
+pytania 😉
 
 Powodzenia!
 

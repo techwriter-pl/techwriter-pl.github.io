@@ -75,7 +75,7 @@ podstawie powstała moja pierwsza lista zakupów, którą przedstawiam poniżej:
 
 Wszystkie książki są używane. Za całość zapłaciłem 115 zł. Według mnie jest to
 cena jak najbardziej do przyjęcia. Paczka została przygotowana i wysłana w ciągu
-2 dni. Teraz czekam na dostawę :) Zachęcam do odwiedzenia strony.
+2 dni. Teraz czekam na dostawę 😊 Zachęcam do odwiedzenia strony.
 
 Na koniec dorzucę jeszcze jedną propozycję do poczytania, **Microsoft Manual of
 Style**. Jest to zestaw wytycznych do pisania dokumentacji, które stosuje
@@ -83,7 +83,7 @@ Microsoft. Niekoniecznie trzeba przeczytać od deski do deski i wszystko
 stosować, ale na pewno można się odnosić do poszczególnych rozdziałów kiedy mamy
 wątpliwości czy aby na pewno powinniśmy tą kropkę postawić właśnie w tym
 miejscu. Dzięki temu, jeśli ktoś nam coś zarzuci, to zawsze można mieć
-“podkładkę”, że u Billa też tak robią ;)
+“podkładkę”, że u Billa też tak robią 😉
 
 Pozdrawiam
 

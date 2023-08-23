@@ -103,4 +103,4 @@ Pamiętajcie, że powyższe wydarzenia są **bezpłatne**. Wymagana jest jednak
 rejestracja. Bezpośredni link znajdziecie
 [tutaj](https://www.eventbrite.com/e/api-the-docs-virtual-2021-season-3-tickets-138265358409).
 
-Życzymy dobrych wrażeń ;).
+Życzymy dobrych wrażeń 😉.

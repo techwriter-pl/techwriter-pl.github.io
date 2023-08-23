@@ -17,7 +17,7 @@ Internet.
 
 Słyszeliście o [Wikiversity](http://www.wikiversity.org/)? Bardzo ciekawy
 projekt, ale najwyraźniej jak na razie nieudany. Może właśnie dlatego, że nikt o
-nim nie słyszał ;)
+nim nie słyszał 😉
 
 Zainspirowani
 [komentarzami do jednego z poprzednich wpisów](http://techwriter.pl/kiedy-instrukcja-staje-sie-sztuka/#comments),
@@ -33,7 +33,7 @@ Za to udało nam się trafić na Wikiversity i całkiem sensownie wyglądający 
 
 [Technical Writing](http://en.wikiversity.org/wiki/Technical_writing)
 
-Zdecydowanie niepełny i niedokończony, ale... jest :). I to dostępny za darmo.
+Zdecydowanie niepełny i niedokończony, ale... jest 😊. I to dostępny za darmo.
 Kopalnia ogólnie zaakceptowanych terminów oraz różnorakich odnośników (również
 do filmów). Jeżeli szukacie podstawowych informacji o komunikacji technicznej i
 nie wiecie gdzie zacząć - spróbujcie tam. A potem szukajcie dalej, razem z nami.

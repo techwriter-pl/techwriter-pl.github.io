@@ -51,7 +51,7 @@ innymi następujące kwestie:
 - Czego szukają rekruterzy podczas analizy CV, a co sprawia, że CV zostanie
   odrzucone?
 - Absolwentami jakich studiów najczęściej są techwriterzy?
-- Jak rekrutować introwertyków? ;)
+- Jak rekrutować introwertyków? 😉
 
 Dyskusja trwała ponad godzinę i pewnie trwałaby dłużej, gdyby na stoły nie
 wjechała gorąca pizza. Uczestnicy przenieśli się więc na część nieoficjalną do

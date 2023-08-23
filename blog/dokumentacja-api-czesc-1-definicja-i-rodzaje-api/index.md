@@ -74,7 +74,7 @@ Sięgamy po nią, gdy chcemy się dowiedzieć, gdzie w pobliżu można dobrze zj
 jak najlepiej dojechać w dane miejsce, czy też zorientować się w nieznanym przez
 nas mieście.
 
-<iframe style="border: 2;" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJX4B9qBtbFkcR4hg5zRO0-V4&amp;key=AIzaSyAmW63A0BsrstGLvhXXn-kbowRdGJPSlYM" width="500" height="350" frameBorder="1"></iframe>
+<iframe style={{border: 2}} src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJX4B9qBtbFkcR4hg5zRO0-V4&key=AIzaSyAmW63A0BsrstGLvhXXn-kbowRdGJPSlYM" width={500} height={350} frameBorder={1} />
 
 Na stronach internetowych knajp można znaleźć małe mapki, które pokazują
 lokalizację lokalu, jego oceny i np. obszar, w którym restauracja oferuje

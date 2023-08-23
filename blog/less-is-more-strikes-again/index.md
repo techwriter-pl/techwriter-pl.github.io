@@ -24,7 +24,7 @@ Mniej słów to:
 Dlatego na weekend proponujemy trochę lektury na ten temat oraz... chwilę
 refleksji. Najpierw lektura - czyli długa prezentacja o tym jak pisać krócej:
 
-<iframe style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/key/rpRflzblfjsqbF" width="425" height="355" frameBorder="0" marginwidth="0" marginheight="0" scrolling="no" allowFullScreen="allowFullScreen"></iframe>
+<iframe style={{border: '1px solid #CCC', borderWidth: '1px', marginBottom: '5px', maxWidth: '100%'}} src="//www.slideshare.net/slideshow/embed_code/key/rpRflzblfjsqbF" width={425} height={355} frameBorder={0} marginWidth={0} marginHeight={0} scrolling="no" allowFullScreen="allowFullScreen" />
 
 A na dokładkę
 [infografika o tym jak pisać zdania](http://writing.rocks/how-to-write-a-sentence-infographic/)...

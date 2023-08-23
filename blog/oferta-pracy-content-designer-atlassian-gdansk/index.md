@@ -25,7 +25,7 @@ A nam najbardziej spodobał się ten fragment:
 > team, you'll be empowered to experiment with a variety of approaches to
 > presenting and managing information.
 
-Pewnie dlatego, że lubimy eksperymenty :)
+Pewnie dlatego, że lubimy eksperymenty 😊
 
 ---
 

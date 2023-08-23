@@ -32,7 +32,7 @@ obrazem niż słowem. Dlatego też spodziewam się, że na tym webinarze będzie
 mogli/mogły poznać wiele trików dotyczących wizualnej komunikacji za pomocą
 obrazów i filmów.
 
-Tworzenie memów stanie się jeszcze prostsze! ;)
+Tworzenie memów stanie się jeszcze prostsze! 😉
 
 [![](images/upload_415-300x200.png)](http://techwriter.pl/wp-content/uploads/2021/09/upload_415.png)
 

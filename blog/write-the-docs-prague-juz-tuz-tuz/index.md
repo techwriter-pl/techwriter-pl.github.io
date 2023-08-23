@@ -47,6 +47,6 @@ na YouTube, gdzie organizatorzy umieszczają nagrania z konferencji. I oczywiśc
 terminie Write the Docs Prague.
 
 Nie pozostaje nam nic innego jak życzyć uczestnikom mnóstwa wrażeń oraz owocnej
-nauki ;-)
+nauki 😉
 
 A my tymczasem już dziś zapraszamy na naszą relację. Do zobaczenia w Pradze!

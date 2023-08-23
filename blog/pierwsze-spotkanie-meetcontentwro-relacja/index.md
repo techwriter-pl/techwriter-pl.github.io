@@ -17,7 +17,7 @@ co [opisywaliśmy](http://techwriter.pl/relacja-z-kolejnej-edycji-krakowskiego-
 krakowskie spotkanie MeetContent, a już mamy dla Was kolejne sprawozdanie. Tym
 razem publikujemy jeszcze ciepłą relację z meetupu inaugurującego wrocławski
 cykl spotkań MeetContent. Tekst został przygotowany przez organizatorów, my
-tylko puszczamy go dalej w świat :) Miłej lektury!
+tylko puszczamy go dalej w świat 😊 Miłej lektury!
 
 \*\*\*
 
@@ -111,7 +111,7 @@ Dyskusję zamknęło pytanie o przyszłość.
 Paneliści stwierdzili, że na pewno warto tworzyć informację w taki sposób, aby
 nie była zależna od kontekstu – dzięki temu będzie ona zawsze aktualna,
 niezależnie w jakiej postaci dostarczymy ją odbiorcy. A przedstawienie
-informacji w prosty sposób pozwala czynić świat lepszym :)
+informacji w prosty sposób pozwala czynić świat lepszym 😊
 
 Z pewnością nie było to spotkanie które pozwoliło „odkryć Amerykę”, ale też nie
 taki był cel tego panelu. Dzięki ciekawym rozmówcom udało się pokazać ludzką

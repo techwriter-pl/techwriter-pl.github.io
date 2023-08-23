@@ -10,7 +10,7 @@ coverImage: "ASTEK-Polska-logo-i-hasło.jpg"
 ---
 
 Oferta pracy z domu, z widełkami płacowymi - prawdziwy rarytas na dobry początek
-lat dwudziestych :)
+lat dwudziestych 😊
 
 Witajcie w Nowym Roku i przyjmijcie nasze życzenia! Niech 2020 będzie gorszy
 tylko od 2021... A jeżeli w ramach noworocznych postanowień myśleliście o

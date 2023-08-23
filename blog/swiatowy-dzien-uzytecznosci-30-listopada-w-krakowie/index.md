@@ -21,7 +21,7 @@ hasłem przewodnim jest użyteczność systemów opieki zdrowotnej."
 - Prelegenci: Lista dostępna na [stronie konferencji](http://www.wudkrakow.pl/).
 - Agenda: brak. Wróć, przy próbie rejestracji można odnaleźć jakieś informacje
   na "[fejsie](https://www.facebook.com/WudKrakow)". Od razu widać dobrą robotę
-  specjalistów od użyteczności ;)
+  specjalistów od użyteczności 😉
 - Czego się spodziewać?: Trudno powiedzieć, ale
   [tak było rok temu](http://2012.wudkrakow.pl/).
 

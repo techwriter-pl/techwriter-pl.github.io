@@ -18,6 +18,6 @@ Szczegóły oferty:
 
 A wspomniany przycisk znajdziecie
 [tutaj](http://www.pracuj.pl/praca/specjalista-ds-dokumentacji-it-krakow,oferta,3520998).
-:)
+😊
 
 Powodzenia!

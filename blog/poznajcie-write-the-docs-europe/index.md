@@ -160,7 +160,7 @@ Osoby zainteresowane tym, co się działo podczas poprzedniej konferencji odsył
 A tych, którzy nadal się wahają zachęcamy do
 [obejrzenia zdjęć](https://www.flickr.com/photos/writethedocs). Być może uroki
 Pragi oraz uśmiechnięte twarze uczestników poprzednich edycji skłonią Was do
-podjęcia decyzji i spędzenia czasu w stolicy Czech ;-).
+podjęcia decyzji i spędzenia czasu w stolicy Czech 😉.
 
 ## Warto?
 

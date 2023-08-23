@@ -15,18 +15,18 @@ próbujecie współpracować z programistami, analitykami i testerami właśnie 
 modelu?
 
 Dla niezorientowanych - Agile to taka
-[nowa religia](http://www.agilemanifesto.org/) ;), przetłumaczona na polski jako
+[nowa religia](http://www.agilemanifesto.org/) 😉, przetłumaczona na polski jako
 "[programowanie zwinne](http://pl.wikipedia.org/wiki/Programowanie_zwinne)".
 Jednym ze sztandarowych haseł tej metodologii metodyki jest _"Working software
 over comprehensive documentation"._ Brzmi niepokojąco? I słusznie.  W wielu
 firmach mówi się "bo my jesteśmy agile", aby szybko i zwinnie usprawiedliwić
 wszechobecny b...ałagan. Na szczęscie znamy jednak miejsca gdzie Agile działa
-(lepiej lub gorzej), co więcej - pracują tam również dokumentaliści :). I jakoś
+(lepiej lub gorzej), co więcej - pracują tam również dokumentaliści 😊. I jakoś
 sobie radzą. Oczywiście, jak każda metodyka, ta również ma swoje wady i zalety.
 Do wad należą konieczność częstych przeróbek i poprawek oraz mocnej integracji z
 pozostałymi członkami zespołu. Do zalet - większa zrozumienie potrzeb klienta i
 specyfiki tworzenia software'u oraz... mocna integracja z pozostałymi członkami
-zespołu ;).
+zespołu 😉.
 
 Więcej na temat Agile'a z perspektywy technical writera
 [w tym miejscu](http://techwhirl.com/agile-and-tech-comm-writer-challenges-development-teams/).

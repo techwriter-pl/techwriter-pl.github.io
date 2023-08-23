@@ -62,7 +62,7 @@ Ogólnie można podzielić produkty wirtualnej rzeczywistości na trzy rodzaje:
 - Pobudza kreatywność umożliwiając użytkownikom projektowanie własnych modeli
   lub prototypów przy użyciu potężnych edytorów w aplikacji, które upiększają,
   malują lub wykańczają stworzone obiekty. Świetna zabawa dla miłośników
-  projektowania :).
+  projektowania 😊.
 - Umożliwia wirtualne wycieczki i demonstracje produktów w czasie rzeczywistym -
   pozwala klientom na podjęcie decyzji o zakupie, poprzez możliwość używania
   produktu w czasie rzeczywistym, aby zobaczyć, jak on wygląda i działa.
@@ -109,7 +109,7 @@ Jest kilka obszarów, w których rzeczywistość wirtualna odnosi swoje sukcesy:
 - Technologie VR mogą być także wykorzystywane do kształcenia i szkolenia nowych
   pracowników, usprawniania procesów oraz poprawy komunikacji i informacji.
   Podobnie jak w przypadku projektowania oprogramowania komputerowego,
-  możliwości zastosowania wirtualnej rzeczywistości są nieograniczone :)
+  możliwości zastosowania wirtualnej rzeczywistości są nieograniczone 😊
 
 ## Podsumowując
 

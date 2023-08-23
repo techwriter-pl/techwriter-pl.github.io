@@ -53,7 +53,7 @@ W trakcie kilku dni:
   dostępne dla wszystkich bez limitów
 
 Z naszej strony możemy jeszcze dodać możliwość wycieczki za ocean i spędzenia
-kilku dni w malowniczym [San Diego](https://www.sandiego.gov/) ;-).
+kilku dni w malowniczym [San Diego](https://www.sandiego.gov/) 😉.
 
 Ponadto w ofercie organizatora znajdziemy także:
 

@@ -48,7 +48,7 @@ a przed rozmową z szefem zastanowić się jak mu to sprzedać (pewnie zapyta
 
 Temat jest złożony i ważny, poświęć tyle czasu ile potrzebujesz i dobrze
 przygotuj się do rozmowy, bo może ona zmienić Twoje zawodowe życie - od teraz
-będziesz wiedział po co właściwie przychodzisz do biura ;)
+będziesz wiedział po co właściwie przychodzisz do biura 😉
 
 Tutaj znajdziesz liste lektur dla "strategów treści" (tak, to Ty!):
 
@@ -63,6 +63,6 @@ wciąż oddający istotę sprawy...
 
 ...
 [burger](http://www.socialmediaexplorer.com/social-media-marketing/the-content-strategy-burger-infographic/)
-:).
+😊.
 
 Smacznego.

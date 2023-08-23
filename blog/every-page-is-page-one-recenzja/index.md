@@ -111,4 +111,4 @@ książki sprawia, że nie ogranicza się ona do pojedynczego narzędzia, system
 metodologii. Jest swego rodzaju manifestem, z którym warto się zapoznać.
 
 Swoją drogą, może ktoś chciałby przetłumaczyć tę publikację na język polski?
-Byłoby to zajęcie ciekawe, pożyteczne, i kto wie, może nawet lukratywne ;)
+Byłoby to zajęcie ciekawe, pożyteczne, i kto wie, może nawet lukratywne 😉

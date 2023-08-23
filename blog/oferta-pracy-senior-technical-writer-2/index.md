@@ -16,7 +16,7 @@ poszukuje doświadczonej osoby na stanowisko Senior Technical Writer.
 W ogłoszeniu widnieje stanowisko Technical Writer, ponieważ firma jest również
 otwarta na zatrudnienie mocnego kandydata z mniejszym doświadczeniem. Z tego też
 powodu podane są widełki płacowe zarówno dla specjalisty jak i starszego
-specjalisty, które, musimy przyznać, wyglądają konkretnie :)
+specjalisty, które, musimy przyznać, wyglądają konkretnie 😊
 
 Szczegółowe informacje dotyczące oferty pracy znajdziecie poniżej (kliknijcie w
 obrazek, żeby go wyświetlić w pełnej rozdzielczości) albo

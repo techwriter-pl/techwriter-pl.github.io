@@ -104,7 +104,7 @@ to pick the one that will meet your requirements.
 Dziękujemy Sunny'emu za ten artykuł. Opisane narzędzia dobrze uzupełniają listę
 darmowych narzędzi, o których
 [pisał na naszych łamach](http://techwriter.pl/darmowe-narzedzia-do-sprawdzania-tekstu/)
-Jack Milgram. Teraz naprawdę macie z czego wybierać ;) Dajcie znać w
+Jack Milgram. Teraz naprawdę macie z czego wybierać 😉 Dajcie znać w
 komentarzach, które narzędzie wydaje się dla Was najbardziej odpowiednie.
 
 Jeżeli macie pomysły na artykuły, lub gotowe teksty, piszcie do nas śmiało.

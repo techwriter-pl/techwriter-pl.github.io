@@ -10,7 +10,7 @@ coverImage: "INTEGERPL.jpg"
 ---
 
 Zbliżają się wakacje, a wraz z nimi ożywienie na rynku pracy, szczególnie w
-Krakowie. Po urlopie nie zawsze trzeba wracać do tej samej firmy ;)
+Krakowie. Po urlopie nie zawsze trzeba wracać do tej samej firmy 😉
 
 Szczegółowe informacje poniżej, albo bezpośrednio u źródła:
 

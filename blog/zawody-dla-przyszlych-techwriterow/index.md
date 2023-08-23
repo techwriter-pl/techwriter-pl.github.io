@@ -11,7 +11,7 @@ coverImage: "olimpiada.jpg"
 
 Czy Wy również w dzieciństwie braliście udział w różnych szkolnych i
 międzyszkolnych olimpiadach przedmiotowych i wszystkie wygrywaliście? Z nami tak
-właśnie bylo...;). Olimpiada z Przysposobienia Obronnego, ZPT, PDŻ, matematyki,
+właśnie bylo...😉. Olimpiada z Przysposobienia Obronnego, ZPT, PDŻ, matematyki,
 olimpiady językowe - łezka się w oku kręci. Teraz też odbywają się tego typu
 zawody, powstały nawet nowe dziedziny rywalizacji. Czy słyszeliście o
 Olimpiadzie Lingwistycznej?

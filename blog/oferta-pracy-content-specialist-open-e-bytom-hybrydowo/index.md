@@ -10,7 +10,7 @@ coverImage: "open_e_logo.jpg"
 ---
 
 Interesująca oferta, również dla osób bez technicznego doświadczenia.
-Wszystkiego Was nauczą :)
+Wszystkiego Was nauczą 😊
 
 Wdrożenie do pracy w okresie próbnym (3 miesiące) prowadzone będzie
 stacjonarnie, docelowo praca w modelu hybrydowym.
@@ -53,7 +53,7 @@ marketingowych, a także mediów społecznościowych.
   A1);
 - dofinansowane lekcje języka angielskiego;
 - swobodny dostęp do zasobów firmowej kuchni (m.in. nieograniczona kawa i
-  herbata w wielu odmianach :)) oraz bezpłatnych miejsc parkingowych;
+  herbata w wielu odmianach 😊) oraz bezpłatnych miejsc parkingowych;
 - dostęp do wewnętrznej biblioteczki z prasą i literaturą fachową oraz realny
   wpływ na jej zawartość;
 - nastawienie na zachowanie równowagi pomiędzy pracą a życiem prywatnym –

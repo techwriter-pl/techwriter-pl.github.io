@@ -36,6 +36,6 @@ marki zbudowane wokół mitu braku dependencji ...
 
 [![TheIndependent](images/TheIndependent.jpg)](http://www.independent.co.uk/)
 
-... [ale to tylko pozory](http://pl.wikipedia.org/wiki/The_Independent) :).
+... [ale to tylko pozory](http://pl.wikipedia.org/wiki/The_Independent) 😊.
 
 Patrz również: _impaktować_

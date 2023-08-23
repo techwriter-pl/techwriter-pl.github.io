@@ -10,7 +10,7 @@ coverImage: "comarch_logo-e1571665808637.jpg"
 ---
 
 Świetna oferta dla anglistów pragnących wejść do świata nowych technologii,
-jeszcze lepsza dla kibiców Cracovii :)
+jeszcze lepsza dla kibiców Cracovii 😊
 
 Jeżeli chcesz sprawdzić się w branży IT, a pisanie treści w języku angielskim
 przychodzi Ci z łatwością, aplikuj na stanowisko dokumentalisty i bądź

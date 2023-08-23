@@ -13,7 +13,7 @@ Nowy rok przynosi nam nowe ciekawe wydarzenia związane z komunikacją techniczn
 Jeśli chcecie wziąć udział w którymś z nich to teraz jest najlepszy czas, żeby
 uruchomić odpowiednie procedury. Może uda Wam się przekonać szefa, że wycieczka
 do Stanów Zjednoczonych to dobry sposób, żeby poszerzyć swoją wiedzę na temat
-komunikacji technicznej ;) Poniżej przedstawiamy konferencje, które udało nam
+komunikacji technicznej 😉 Poniżej przedstawiamy konferencje, które udało nam
 się wyłuskać z nieprzebranych zasobów internetu.
 
 ## Styczeń

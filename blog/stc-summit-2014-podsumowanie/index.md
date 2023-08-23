@@ -20,7 +20,7 @@ najbardziej popularne w Stanach Zjednoczonych, a jego historia to już ponad pó
 wieku!
 
 Natomiast STC Summit to, jak sama nazwa wskazuje, zbiorowe jednoczesne
-szczytowanie setek członków tego stowarzyszenia ;).
+szczytowanie setek członków tego stowarzyszenia 😉.
 
 A już poważniej, wydarzenie to ([tu oficjalna strona](http://summit.stc.org/))
 składało się z dwóch części: edukacyjnej i promocyjno/sprzedażowej.
@@ -51,7 +51,7 @@ sesji wygląda naprawdę ciekawie z tej odległości - nasi faworyci poniżej:
 
 oraz
 
-"Evening at the Phoenix Art Museum" ;)
+"Evening at the Phoenix Art Museum" 😉
 
 A to tylko pięć przykładów ze stu czterdziestu możliwości... Cóż, pozostaje mieć
 nadzieję, że uda się uczestniczyć w innych wydarzeniach,

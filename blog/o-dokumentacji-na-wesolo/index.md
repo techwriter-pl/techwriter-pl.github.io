@@ -114,7 +114,7 @@ autora książek dla dzieci, który nosi tytuł
 > RISC, Then you have to flash your memory and you'll want to RAM your ROM.
 > Quickly turn off the computer and be sure to tell your mom!
 
-Ktoś chętny przełożyć na trzynastozgłoskowca? ;)
+Ktoś chętny przełożyć na trzynastozgłoskowca? 😉
 
 ## Czym skorupka za młodu...
 
@@ -124,7 +124,7 @@ rodzice zamawiają przez internet dla swoich dzieci nową szafkę na zabawki.
 Zostaje ona dostarczona do domu świnek w elementach, a w środku nie ma
 instrukcji ([link do tego fragmentu](https://youtu.be/yDkGlKWJUM0?t=130)).
 Świnki zakładają, że złożenie szafki musi być niezwykle proste, dlatego zapewne
-instrukcja nie została dołączona. Jak można przewidzieć, bardzo się pomyliły :)
+instrukcja nie została dołączona. Jak można przewidzieć, bardzo się pomyliły 😊
 Po chwili wraca doręczyciel przesyłki z brakującą instrukcją
 ([link do tego fragmentu](https://youtu.be/yDkGlKWJUM0?t=202)). Jednak to nie
 rozwiązuje problemu, ponieważ jest ona zbyt skomplikowana i świnki nadal nie
@@ -141,7 +141,7 @@ odcinku:
 
 Poniżej możecie obejrzeć cały odcinek bajki. W tym czasie my bierzemy na tapetę
 Boba Budowniczego, Listonosza Pata i Hello Kitty. Mamy podejrzenie, że świnki to
-tylko wierzchołek góry lodowej ;)
+tylko wierzchołek góry lodowej 😉
 
 https://www.youtube.com/watch?v=yDkGlKWJUM0
 
@@ -154,7 +154,7 @@ uprzejmości naszych czytelników mamy możliwość zaprezentowania Wam jedynego
 (jaki znamy) filmiku promującego owoce ciężkiej pracy Tech Writerów. Zapraszamy
 na krótki seans - przygotujcie popcorn i colę, włączcie głośniki i usiądźcie
 wygodnie. Jest to produkcja raczej niskobudżetowa, dlatego okulary 3D nie będą
-potrzebne ;)
+potrzebne 😉
 
 https://youtu.be/wMOtjn0OCLk
 

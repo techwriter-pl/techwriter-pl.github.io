@@ -23,4 +23,4 @@ naszymi ulubionymi infografikami:
 A na koniec krótkie (_less is more_), świąteczno-noworoczne życzenia dla Was, od
 całej redakcji:
 
-UŚMIECHU :)
+UŚMIECHU 😊

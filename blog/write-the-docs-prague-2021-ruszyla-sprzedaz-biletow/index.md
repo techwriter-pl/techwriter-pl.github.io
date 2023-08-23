@@ -22,9 +22,9 @@ zapraszamy do zapoznania się z
 [naszą relacją](http://techwriter.pl/relacja-z-write-the-docs-prague-2020-online/).
 Osoby, które jeszcze nie znają historii wydarzenia odsyłamy do
 [tekstu wprowadzającego](http://techwriter.pl/poznajcie-write-the-docs-europe/)
-;-). Od siebie możemy dodać, że udział w konferencji Write the Docs jest wart
+😉. Od siebie możemy dodać, że udział w konferencji Write the Docs jest wart
 uwagi gdyż poza solidną porcją wiedzy, w pakiecie otrzymujecie świetną atmosferę
-oraz spotkanie z rewelacyjnymi ludźmi z branży. Tak, online też dają radę ;)-.
+oraz spotkanie z rewelacyjnymi ludźmi z branży. Tak, online też dają radę 😉-.
 
 ## **Najważniejsze informacje**
 
@@ -41,7 +41,7 @@ jak najbardziej wydarzenie z realu, dlatego przygotujcie się nie tylko na spory
 zastrzyk wiedzy teoretycznej i praktycznej. W planach jest bowiem spotkanie
 towarzyskie, podczas którego, uczestnicy będą mogli lepiej się poznać grając w
 gry i słuchając muzyki. Pamiętajcie o przyniesieniu do komputera ulubionych
-napoi i przekąsek ;-).
+napoi i przekąsek 😉.
 
 Szczegółowe informacje znajdziecie
 [na stronie konferencji](https://www.writethedocs.org/conf/prague/2021/).
@@ -54,7 +54,7 @@ Skrótowy program wydarzenia wygląda następująco:
 - Poniedziałek (4 października) – pierwszy dzień konferencji – oficjalne
   otwarcie, pierwsze prelekcje,
   [Unconference](https://www.writethedocs.org/conf/prague/2021/unconference/)
-  oraz wieczorna impreza zapoznawcza ;-).
+  oraz wieczorna impreza zapoznawcza 😉.
 - Wtorek (5 października) – drugi dzień konferencji – dalsze prelekcje,
   Unconference,
   [Job Fair](https://www.writethedocs.org/conf/prague/2021/job-fair/),

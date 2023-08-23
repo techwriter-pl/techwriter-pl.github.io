@@ -33,7 +33,7 @@ dwóch wersjach:
 
 [Techcomm Superfeed](http://technicalwritingworld.com/page/techcomm-superfeed%20)
 
-I już :). Używając tego agregatora blogów, dostarczonego przez twórców strony
+I już 😊. Używając tego agregatora blogów, dostarczonego przez twórców strony
 [Technical Writing World](http://technicalwritingworld.com/) macie dość dużą
 pewność, że nie ominą Was ważne informacje ze świata _tech comm_. Niestety nie
 ominą Was też mniej wartościowe, reklamowe, sponsorowane, zduplikowane czy
@@ -77,13 +77,13 @@ codziennie nowy, zazwyczaj krótki wpis.
 [Every Page is Page One](http://everypageispageone.com/) - blog autora książki o
 tym samym tytule. Technologiczno-strategiczno-filozoficznie a przez to czasem
 dość ciężko. Jeśli chcecie zobaczyć co robią sławni Tech Writerzy pomiędzy
-występami na konferencjach a pisaniem książek to zdecydowanie warto ;)
+występami na konferencjach a pisaniem książek to zdecydowanie warto 😉
 
 [Content Rules](http://contentrules.com/category/blog/) - blog firmowy grupy
 "kontent stratedżistów". Warto wiedzieć, że jest.
 
 [Sharon Burton](http://www.sharonburton.com/) - jak wyżej, tylko z dodatkiem
-"weteranów" ;)
+"weteranów" 😉
 
 [TechWhirl](http://techwhirl.com/) - wielokrotnie już przez nas wspominana
 strona. Coś więcej niż blog, ale można zasubskrybować na podobnej zasadzie jak
@@ -145,7 +145,7 @@ jest ciekawym projektem.
 [Writing Associates](http://writingassociates.com/blog/) - ogólne przemyślenia
 na temat zawodu techwritera, kariery, certyfikacji i autopromocji.
 
-Podoba się? Na początek powinno wystarczyć :) Za miesiąc, jak już skończycie
+Podoba się? Na początek powinno wystarczyć 😊 Za miesiąc, jak już skończycie
 przeglądać, czytać, subskrybować, pojawią się na pewno nowe wpisy. I bardzo
 dobrze, bo czytania i poszerzania wiedzy nigdy zbyt wiele.
 

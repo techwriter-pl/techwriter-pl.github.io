@@ -44,7 +44,7 @@ Zawiera ona zastaw reguł pisania oraz kontrolowany słownik, posiada
 wystarczającą ilość słów do wyrażenia każdego zdania technicznego. Słowa zostały
 wybrane ze względu na ich prostotę i łatwość rozpoznawania.
 
-Jak to działa? Żeby się nie rozpisywać, przejdziemy do konkretów :) i podamy
+Jak to działa? Żeby się nie rozpisywać, przejdziemy do konkretów 😊 i podamy
 kilka przykładów.
 
 ### Reguły pisania
@@ -52,13 +52,17 @@ kilka przykładów.
 1. Używaj odpowiednich rodzajników (a, an, the) przed rzeczownikiem lub zaimków
    wskazujących (this, these).
 
-<table className=" aligncenter" style="height: 89px" width="519"><tbody><tr><td style="text-align: left" width="297"><strong><em>Oryginalny tekst</em></strong></td><td style="text-align: left" width="297"><strong><em>Tekst napisany w STE</em></strong></td></tr><tr><td width="297"><em>Remove, and safely discard cleaning cloth.</em></td><td style="text-align: left" width="297"><em>Remove, and safely discard the cleaning cloth.</em></td></tr></tbody></table>
+| Oryginalny tekst                           | Tekst napisany w STE                           |
+| ------------------------------------------ | ---------------------------------------------- |
+| Remove, and safely discard cleaning cloth. | Remove, and safely discard the cleaning cloth. |
 
 Komentarz: Tam gdzie jest to możliwe używaj rodzajników do nazw technicznych.
 
 2. W jednym zdaniu powinna być napisana tylko jedna instrukcja.
 
-<table className=" aligncenter" style="height: 143px" width="518"><tbody><tr><td width="297"><strong><em>Oryginalny tekst</em></strong></td><td width="297"><strong><em>Tekst napisany w STE</em></strong></td></tr><tr><td width="297"><em>Holding the overspeed governor, remove remaining three nuts and three washers, which attach overspeed governor to gearbox. Three nuts are to be discarded.</em></td><td width="297"><em>Hold the overspeed governor. Remove the remaining three nuts and the three washers that attach the overspeed governor to the gearbox. Discard the three nuts.</em></td></tr></tbody></table>
+| Oryginalny tekst                                                                                                                                           | Tekst napisany w STE                                                                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Holding the overspeed governor, remove remaining three nuts and three washers, which attach overspeed governor to gearbox. Three nuts are to be discarded. | Hold the overspeed governor. Remove the remaining three nuts and the three washers that attach the overspeed governor to the gearbox. Discard the three nuts. |
 
 Komentarz: Niektórzy autorzy tworzą długie zdania, ponieważ chcą powiedzieć
 czytelnikom wszystko, co wiedzą. Jeśli Waszą wiedzę chcecie przekazać w jednym
@@ -66,20 +70,26 @@ lub dwóch zdaniach, możecie przytłoczyć czytelnika.
 
 3. Instrukcje powinny być jak najbardziej szczegółowe.
 
-<table className=" aligncenter" style="height: 83px" width="517"><tbody><tr><td width="297"><strong><em>Oryginalny tekst</em></strong></td><td width="297"><strong><em>Tekst napisany w STE</em></strong></td></tr><tr><td width="297"><em>Different temperatures will change the cure time.</em></td><td width="297"><em>Increase the temperature to decrease the cure time.</em></td></tr></tbody></table>
+| Oryginalny tekst                                  | Tekst napisany w STE                                |
+| ------------------------------------------------- | --------------------------------------------------- |
+| Different temperatures will change the cure time. | Increase the temperature to decrease the cure time. |
 
 Komentarz: Tekst oryginalny nie opisuje co trzeba zrobić, obniżyć czy podwyższyć
 temperaturę.
 
 4. Nigdy nie używaj strony biernej w tekście, zawsze użyj strony czynnej.
 
-<table className=" aligncenter" style="height: 82px" width="520"><tbody><tr><td style="text-align: left" width="297"><strong><em>Oryginalny tekst</em></strong></td><td width="297"><strong><em>Tekst napisany w STE</em></strong></td></tr><tr><td width="297"><em>The screws should be replaced.</em></td><td width="297"><em>The mechanics replaces the screws.</em></td></tr></tbody></table>
+| Oryginalny tekst               | Tekst napisany w STE               |
+| ------------------------------ | ---------------------------------- |
+| The screws should be replaced. | The mechanics replaces the screws. |
 
 Komentarz: Tekst oryginalny nie mówi kto ma wykonać tę czynność.
 
 5. Nie używaj więcej niż trzech rzeczowników po rząd.
 
-<table className=" aligncenter" style="height: 87px" width="523"><tbody><tr><td width="297"><strong><em>Oryginalny tekst</em></strong></td><td width="297"><strong><em>Tekst napisany w STE</em></strong></td></tr><tr><td width="297"><em>Runway light connection resistance calibration</em></td><td width="297"><em>Runway light connection</em></td></tr></tbody></table>
+| Oryginalny tekst                               | Tekst napisany w STE    |
+| ---------------------------------------------- | ----------------------- |
+| Runway light connection resistance calibration | Runway light connection |
 
 Komentarz: W tekście oryginalnym rzeczownikiem głównym jest "calibration".
 Ponieważ ciężko jest znaleźć zależność pierwszego rzeczownika z ostatnim, to
@@ -150,7 +160,7 @@ produktywność i wydajność poprzez dostarczenie kompletnych i dokładnych
 informacji w dokumencie.
 
 Pisanie zgodnie z STE narzuca dyscyplinę na język, którego używacie, ważne aby
-jedno słowo miało tylko jedno znaczenie, to ogranicza Wasz wybór ;) .
+jedno słowo miało tylko jedno znaczenie, to ogranicza Wasz wybór 😉 .
 
 ## ..i już na koniec
 

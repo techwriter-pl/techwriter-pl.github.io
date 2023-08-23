@@ -13,7 +13,7 @@ coverImage: "bad.jpg"
 
 Nie tak dawno pisaliśmy o
 [dobrych i złych przykładach komunikacji technicznej](http://techwriter.pl/dokumentacja-uzytkownika-przyklady-dobre-i-zle/).
-Nie przypuszczaliśmy wtedy, że to dopiero początek całej serii ;)
+Nie przypuszczaliśmy wtedy, że to dopiero początek całej serii 😉
 
 Spójrzcie na screenshot poniżej - flagowa aplikacja wiodącej firmy uraczyła
 jednego z czytelników takim oto komunikatem:

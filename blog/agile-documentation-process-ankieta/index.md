@@ -14,7 +14,7 @@ coverImage: "survey.jpg"
 Tego typu wpisy cieszą nas najbardziej - ciekawe, odświeżające, pomysłowe, a
 przede wszystkim - tworzone przez Was!  Jeżeli lubicie ankiety - podziękujcie
 naszym czytelnikom Mateuszowi i Tomkowi. Jeśli nie - nie miejcie do nas
-pretensji ;)
+pretensji 😉
 
 Oto list otwarty od twórców ankiety. Pomóżcie chłopakom - może podzielą się z
 nami rezultatami? Bardzo na to liczymy.
@@ -60,4 +60,4 @@ Ankieta długa, ale wypełnia się ją szybko. Nasze ulubione pytanie to:
 
 "Do you always get your documentation input in time?"
 
-Procent odpowiedzi twierdzących będzie raczej okrągłą liczbą...:)
+Procent odpowiedzi twierdzących będzie raczej okrągłą liczbą...😊

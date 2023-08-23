@@ -16,7 +16,7 @@ terenie Górnego Śląska.
 
 Jest to praca zdalna, jednak konieczne będą comiesięczne wizyty w centrali w
 Wiedniu oraz współpraca z innym członkiem zespołu dokumentacji pracującym na
-Śląsku. Dokumentacja, naturalnie, jest pisana w języku angielskim :) Aby wziąć
+Śląsku. Dokumentacja, naturalnie, jest pisana w języku angielskim 😊 Aby wziąć
 udział w procesie rekrutacyjnym należy aplikować
 [przez stronę](https://jobs.braintribe.com/). Jeśli wolicie możecie też
 aplikować bezpośrednio
@@ -83,7 +83,7 @@ thrive in the areas outlined below._
   - _Ability to find and extract information from multiple sources_
   - _Ability to manage workflow with minimal oversight, in a fast-paced
     environment with multiple stakeholders_
-  - _A can-do attitude :)_
+  - _A can-do attitude 😊_
 
 - _**The Nice-to-Have Experience / Knowledge:**_
   - _Experience with static site generators, Markdown, and Doxygen._

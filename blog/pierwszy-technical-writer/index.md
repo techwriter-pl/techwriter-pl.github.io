@@ -28,7 +28,7 @@ nią następujący opis:
 >
 > Piccadilly, London, England
 
-Ciekawe, prawda? Postanowiliśmy to sprawdzić, w końcu jest piątek ;)
+Ciekawe, prawda? Postanowiliśmy to sprawdzić, w końcu jest piątek 😉
 
 Okazało się, że
 [Ada Lovelace była naprawdę ciekawą postacią](http://en.wikipedia.org/wiki/Ada_Lovelace).
@@ -46,7 +46,7 @@ Nie udało nam się niestety dotrzeć do potwierdzonych informacji czy Ada była
 bezpośrednio spokrewniona z prototypem współczesnego lowelasa, czyli Robertem
 Lovelace. Z dużą dozą prawdopodobieństwa można jednak powiedzieć że nie,
 ponieważ Robert jest [postacią fikcyjną](http://en.wikipedia.org/wiki/Clarissa).
-:)
+😊
 
 Stanowczo natomiast sprzeciwiamy się nazywaniem jej pierwszym techwriterem!
 

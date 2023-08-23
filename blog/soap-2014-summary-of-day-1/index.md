@@ -134,7 +134,7 @@ urgent but important. They must be considered and planned. During his
 presentation, Kevin gave many other examples that came from his book
 [“The Diagrams Book”](http://www.thediagramsbook.com). In addition to the use of
 diagrams, we’ve also learned one more important thing. Using the word s\*\*t
-isn't out of place during a presentation ;)
+isn't out of place during a presentation 😉
 
 [![SoapKevinDuncan](images/SoapKevinDuncan.jpg)](http://techwriter.pl/wp-content/uploads/2014/10/SoapKevinDuncan.jpg)
 

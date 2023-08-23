@@ -35,11 +35,11 @@ znaleźć w artykułach, który w żadnym stopniu nie wyczerpuje listy ciekawych
 zagadnień poruszanych przez autorów strony. Co prawda znajomość idiomów
 związanych z jedzeniem czy nietuzinkowych imion nadawanych dzieciom
 niekoniecznie pomoże nam napisać lepszą instrukcję, ale od nadmiaru wiedzy
-jeszcze nikt nie umarł, a przynajmniej nic nam o tym nie wiadomo ;)
+jeszcze nikt nie umarł, a przynajmniej nic nam o tym nie wiadomo 😉
 
 Wpisy mają przystępną długość i można je śledzić za pomocą czytnika RSS, np.
 [Feedly](http://feedly.com/#discover), co sprawia, że świetnie nadają się jako
 dodatek do porannej kawy lub herbaty\*.
 
 \* Propozycja podania. Można również czytać w trakcie śniadania lub innych
-posiłków :)
+posiłków 😊

@@ -70,7 +70,7 @@ darmowy.
 ### W jaki sposób zdobywasz informacje potrzebne do tworzenia dokumentacji?
 
 Poza tym co napisałem w punkcie 4? Dema. Sprint demo, iteration review itd. No i
-autorzy. Trzeba dobrze żyć z ludźmi aby miło się od nich wiedzę zdobywało :) No
+autorzy. Trzeba dobrze żyć z ludźmi aby miło się od nich wiedzę zdobywało 😊 No
 i jest ocztywiście niezawodne QA – zarówno ludzie z tego działu jak i praca dla
 niego to najlepszy psosób aby dowiedzieć się jak działa aplikacja. Zawsze
 powtarzam, że aby kogoś nowego wdrożyć dobrze dać mu kilka bugów do weryfikacji.

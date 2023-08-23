@@ -10,7 +10,7 @@ coverImage: "hyperOne-Logo-outline.png"
 ---
 
 Halo! Czy jest tu ktoś z lekkim piórem, zmysłem do pisania i pasją do nowych
-technologii? Praca w chmurach, konkretnie w stolicy ;)
+technologii? Praca w chmurach, konkretnie w stolicy 😉
 
 Firma HyperOne buduje i utrzymuje polską elastyczną chmurę obliczeniową stale
 rozwijając swój produkt. Aktualnie szuka śmiałka, który opisze ogrom możliwości

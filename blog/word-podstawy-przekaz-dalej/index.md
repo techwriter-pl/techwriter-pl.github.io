@@ -35,4 +35,4 @@ wciąż te same, trywialne pytania.
 
 Ale... zastanów się dobrze. Włącz
 głośniki. [Może tak naprawdę to lubisz kiedy Ci je zadaje?](http://techwriter.you.are.mighty.aninote.com/)
-:)
+😊

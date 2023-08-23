@@ -15,7 +15,7 @@ października w Sydney odbyła się konferencja zorganizowana przez australijski
 stowarzyszenie na rzecz komunikacji technicznej
 ([Australian Society for Technical Communication (NSW)](http://astcnsw.org.au/)).
 Niestety nie udało nam się wcisnąć tej konferencji w nasz napięty grafik,
-dlatego nie możemy Wam przedstawić autorskiej relacji ;) Na szczęście z
+dlatego nie możemy Wam przedstawić autorskiej relacji 😉 Na szczęście z
 pomocą przychodzi Sarah Maddox, która była zarówno mówczynią i uczestniczką
 podczas tego wydarzenia. Na swoim blogu
 [ffeathers](http://ffeathers.wordpress.com/) zamieściła własne notatki z

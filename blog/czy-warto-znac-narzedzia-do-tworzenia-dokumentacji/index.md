@@ -55,7 +55,7 @@ zagraniczne blogi dotyczące komunikacji technicznej, dowiadujemy się, że mał
 kto, o ile ktokolwiek, uważa Worda za dobre narzędzie do tworzenia dokumentacji.
 Jest on raczej traktowany jako ewentualna opcja do tworzenia małej ilości,
 prostych dokumentów i to głównie dlatego, że w każdej firmie Word po prostu jest
-:) Jednak kiedy dokumentacja jest obszerna, wymaga kilku formatów i możliwości
+😊 Jednak kiedy dokumentacja jest obszerna, wymaga kilku formatów i możliwości
 ponownego wykorzystania treści, wtedy nie jest to najlepszy wybór. Publisher i
 PowerPoint mogą być pomocne przy tworzeniu treningów, prezentacji czy krótkich
 przewodników, ale nie są to kompletne narzędzia do tworzenia dokumentacji.
@@ -138,4 +138,4 @@ dokumentacji. Chcemy tylko zasygnalizować, że taka wiedza jest mile widziana,
 ale niekoniecznie krytyczna jeśli chodzi o pracę Technical Writera, bo
 Dokumentalista musi umieć przede wszystkim pisać dobrze, a czy będzie to rycie
 instrukcji dłutem w kamieniu czy klepanie w RoboHelpie to jest już kwestia
-drugorzędna ;) Dlatego zachowajmy zdrowy rozsądek i nie dajmy się zwariować.
+drugorzędna 😉 Dlatego zachowajmy zdrowy rozsądek i nie dajmy się zwariować.

@@ -41,7 +41,7 @@ tego samego dnia, a czasami nawet w ciągu pierwszej godziny. Poza tym, jeszcze
 się chyba nie zdarzyło, żeby  Panowie nie umieli odpowiedź na jakieś pytanie
 rzeczowo. Może jest to oczywiste, ale w cenie otrzymujemy  również za darmo
 wszelkie aktualizacje w ramach wersji głównej, czyli mając wersję 6.x
-otrzymujemy wszelkie  aktualizacje do numerku po kropce :). Obecnie najnowsza
+otrzymujemy wszelkie  aktualizacje do numerku po kropce 😊. Obecnie najnowsza
 wersja to 6.4.1. Wszelkie aktualizacje do nowej wersji głównej są zazwyczaj 50%
 tańsze dla obecnych użytkowników. Dlaczego o tym wspominam? Kiedy szukałem
 oprogramowania HAT, takie rzeczy były istotne może nie tyle dla mnie, co dla
@@ -52,7 +52,7 @@ Worda. Według mnie jest to zaleta, ponieważ nawigacja nie sprawia dzięki temu
 większych problemów.  Po lewej stronie mamy tradycyjne drzewko, który daje nam
 dostęp do rozdziałów i konfiguracji projektu. Programu używa się przyjemnie,
 obsługa jest dość intuicyjna, a interfejs nie sprawia wrażenia przeładowanego
-funkcjami i nie onieśmiela przy pierwszym spotkaniu ;). Nie będę się rozpisywał
+funkcjami i nie onieśmiela przy pierwszym spotkaniu 😉. Nie będę się rozpisywał
 o tym jak poruszać się po programie, bo to można sobie wyciągnąć z instrukcji.
 Poza tym, ze strony producenta można ściągnąć sobie najnowszą wersję, która
 pozwala na testowanie w pełni funkcjonalnego programu przez 30 dni bez
@@ -109,7 +109,7 @@ z tego kotrzystać. Jednak chciałem zasygnalizować, że program ma taką
 funkcjonalność gdyby ktoś poszukiwał programu dla zespołu dokumentalistów.
 
 Na koniec dodam, że wraz z Help and Manual dostajemy też autorski program Impict
-do robienia zrzutów ekranu. Jednak o narzędziach tego typu innym razem :)
+do robienia zrzutów ekranu. Jednak o narzędziach tego typu innym razem 😊
 
 Podsumowując, po 2 latach używania Help and Manual wystawiam mu ocenę 4 na 5.
 Jest to oczywiście subiektywna ocena. Zainteresowanych zapraszam na stronę

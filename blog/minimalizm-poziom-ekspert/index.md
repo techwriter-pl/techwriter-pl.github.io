@@ -21,7 +21,7 @@ possible, but not simpler"** przypisywane Albertowi Einstenowi. Jedna z bardzo
 znanych firm produkujących rowery i akcesoria rowerowe najwyraźniej nie słyszała
 o tej zasadzie. Firma posiada w swojej ofercie zestaw oświetlenia przedstawiony
 na obrazku poniżej (w celu uniknięcia kosztownych procesów sądowych
-postanowiliśmy nie ujawniać nazwy firmy i produktu :)).
+postanowiliśmy nie ujawniać nazwy firmy i produktu 😊).
 
 [![oswietlenie](images/oswietlenie-300x210.png)](http://techwriter.pl/wp-content/uploads/2014/08/oswietlenie.png)
 
@@ -46,4 +46,4 @@ skąpa instrukcja pozostawia jakiś niedosyt czy niesmak. Tym bardziej, że
 producent na swojej stronie podaje w opisie produktu, że przednia lampka
 potrzebuje trzech, a tylna dwóch baterii AAA do działania, a do zestawu z którym
 mieliśmy do czynienia dołączone były tylko cztery baterie. Podejście
-minimalistyczne jest dobre, ale jak widać łatwo się w nim zatracić ;)
+minimalistyczne jest dobre, ale jak widać łatwo się w nim zatracić 😉

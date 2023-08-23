@@ -84,7 +84,7 @@ może nam przyjść plain language:
   ich potem pisarzami, dokumentalistami, specjalistami od dokumentacji itp. Ktoś
   mniej zorientowany lub czytający pobieżnie może się w pewnym momencie pogubić
   i zastanawiać, czy np. każdy Technical Writer to pisarz albo czy jak on sam
-  napisał w liceum wiersz dla koleżanki to jego też dotyczą polecenia ;-)
+  napisał w liceum wiersz dla koleżanki to jego też dotyczą polecenia 😉
 - Zachowaj hierarchię treści. Najpierw opisz mechanizmy ogólne, potem
   ewentualnie wyszczególnij jakieś wyjątki. Pamiętaj to *wyjątek potwierdza
   regułę* - nigdy na odwrót!

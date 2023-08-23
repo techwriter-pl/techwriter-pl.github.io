@@ -59,7 +59,7 @@ osobnych krokach.
 
 Do przechwyconych elementów ekranu można dodawać elementy takie jak tekst,
 strzałki, kształty, zakreślenie, wyróżnienie, różne emblematy graficzne czy...
-pikselozę :) Tak właśnie w programie została przetłumaczona na polski opcja
+pikselozę 😊 Tak właśnie w programie została przetłumaczona na polski opcja
 pozwalająca na rozmycie części obrazu.
 
 [![skitch3](images/skitch3.png)](http://techwriter.pl/wp-content/uploads/2015/02/skitch3.png)
@@ -118,4 +118,4 @@ i też darmowe narzędzia, chociażby opisywany przez nas
 zdecydowanie więcej możliwości. Poza nowoczesnym interfejsem nie dostrzegamy
 żadnego aspektu, w którym Skitch miałby przewagę nad innymi tego typu
 aplikacjami. Chyba, że nie rozstajecie się z aplikacją Evernote, to wtedy Skitch
-wydaje się być oczywistym wyborem :)
+wydaje się być oczywistym wyborem 😊

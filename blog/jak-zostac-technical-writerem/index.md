@@ -18,12 +18,12 @@ Po pierwsze - trzeba chcieć! Chociaż, właściwie... można chyba zostać tech
 writerem przez przypadek. Tak, na pewno można. Znamy takie przypadki...
 Właściwie większość dokumentalistów jakich znamy znalazła się w tym zawodzie
 przypadkiem, choć teraz oczywiście twierdzą, że była to precyzyjnie zaplanowana
-ścieżka kariery :).
+ścieżka kariery 😊.
 [Typowy przykład jednego z naszych czytelników znajdziecie w komentarzach do poprzednich wpisów](http://techwriter.pl/ile-zarabia-technical-writer/#comment-465) -
 dziękujemy!.
 
 Ale na pewno trzeba lubić pisać, kontaktować się z ludźmi, pisać, poznawać nowe
-produkty i technologie, pisać, uczyć się, pisać, pisać, pisać... ;)
+produkty i technologie, pisać, uczyć się, pisać, pisać, pisać... 😉
 
 Co poza tym? Niewiele - na początek wystarczy nauczyć się bardzo dobrze jakiegoś
 języka. Z doświadczenia proponujemy polski (wbrew pozorom nie jest to takie
@@ -55,7 +55,7 @@ korzyść, przykłady (od najwyżej premiowanych) to:
 
 Warto o tym pomyśleć odpowiednio wcześnie, żeby na rozmowie rekrutacyjnej podać
 konkretne przykłady i osiągnięcia. A gdzie iść na rozmowę? Ogłoszeń nie brakuje,
-sami sprawdźcie. Jeżeli nie możecie nic znaleźć - chętnie pomożemy :).
+sami sprawdźcie. Jeżeli nie możecie nic znaleźć - chętnie pomożemy 😊.
 
 Na blogu [I'd Rather Be Writing](http://idratherbewriting.com/) (który
 polecamy), warto przeczytać artykuł o tym
@@ -67,7 +67,7 @@ jeszcze trochę za wcześnie i należy wrócić do punktu pierwszego (nauka jęz
 
 Pierwsza praca nie będzie zapewne świetnie płatna (patrz wyżej - w tym zawodzie
 liczy się doświadczenie), ale... będzie już pracą w zawodzie technical writera
-:). Później pójdzie już z górki (jakiś czas temu pisaliśmy o tym
+😊. Później pójdzie już z górki (jakiś czas temu pisaliśmy o tym
 [ile zarabia techwriter](http://techwriter.pl/ile-zarabia-technical-writer/)). O
 ile Wam się spodoba i troszkę się postaracie. A czym będziecie się zajmować?
 
@@ -75,13 +75,13 @@ ile Wam się spodoba i troszkę się postaracie. A czym będziecie się zajmowa�
 
 [A tak bardziej praktycznie to tym](http://techwriter.pl/category/warsztat/przyklady/).
 
-Albo tym, co akurat będzie w firmie potrzebne ;). Może się zdarzyć tak, że
+Albo tym, co akurat będzie w firmie potrzebne 😉. Może się zdarzyć tak, że
 traficie w miejsce gdzie do tej pory nie było technical writerów a dokumentacja,
 materiały treningowe, itp.  "pisały się same". Wbrew pozorom to świetna
 sytuacja. Szef na pewno powie Wam dlaczego Was zatrudnił, a po kilku tygodniach
 już to Wy będziecie mogli zaproponować mu co jeszcze można by zrobić w obszarze
 komunikacji technicznej. Uwierzcie, ucieszy się, a jeśli będziecie przekonujący
-to może nawet zatrudni Wam kogoś do pomocy :)
+to może nawet zatrudni Wam kogoś do pomocy 😊
 
 A co później? Napiszemy niebawem. Na pewno jednak trzeba się ciągle uczyć i
 rozwijać, jak w każdym zawodzie. Propozycje warte rozważenia znajdziecie np. na

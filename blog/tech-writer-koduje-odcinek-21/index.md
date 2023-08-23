@@ -9,7 +9,7 @@ tags:
 coverImage: "Konferencje-2019-1.png"
 ---
 
-Jeśli lubicie podcasty to mamy dziś dla Was coś ciekawego do posłuchania ;-).
+Jeśli lubicie podcasty to mamy dziś dla Was coś ciekawego do posłuchania 😉.
 Szczegóły poniżej.
 
 Web scraping to zbieranie danych ze stron internetowych. Google, na przykład,
@@ -36,4 +36,4 @@ Co można jeszcze zrobić za pomocą web scrapingu? Jakie inne testy są potrzeb
 Dowiedz się więcej słuchając 21. odcinka
 podcastu [“Tech Writer koduje”](https://techwriterkoduje.pl/).
 
-<iframe className="wp-embedded-content" title="#21 Tech Writer zbiera informacje ze stron, czyli jak można wykorzystać web scraping by Tech Writer koduje" src="https://anchor.fm/docdeveloper/embed/episodes/21-Tech-Writer-zbiera-informacje-ze-stron--czyli-jak-mona-wykorzysta-web-scraping-ejj0ah#?secret=q0aOpXPuwv" width="400px" height="102px" frameBorder="0" scrolling="no" sandbox="allow-scripts" data-secret="q0aOpXPuwv" data-mce-fragment="1"></iframe>
+<iframe classname="wp-embedded-content" title="#21 Tech Writer zbiera informacje ze stron, czyli jak można wykorzystać web scraping by Tech Writer koduje" src="https://anchor.fm/docdeveloper/embed/episodes/21-Tech-Writer-zbiera-informacje-ze-stron--czyli-jak-mona-wykorzysta-web-scraping-ejj0ah#?secret=q0aOpXPuwv" width="400px" height="102px" frameBorder={0} scrolling="no" sandbox="allow-scripts" data-secret="q0aOpXPuwv" data-mce-fragment={1} />

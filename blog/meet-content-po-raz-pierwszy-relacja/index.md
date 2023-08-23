@@ -146,4 +146,4 @@ zgłębieniu tematu testowania użyteczności dokumentacji może się okazać, �
 naprawdę ma ono wiele wspólnego z testowaniem użyteczności oprogramowania. W
 końcu UX dotyczy także tech writingu. Być może jest to dobry temat na następne
 spotkanie z cyklu **Meet Content**. Według nas byłaby to świetna kontynuacja
-rozpoczętego wątku. Ktoś chętny? :)
+rozpoczętego wątku. Ktoś chętny? 😊

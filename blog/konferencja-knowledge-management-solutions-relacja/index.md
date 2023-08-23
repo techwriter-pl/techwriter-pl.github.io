@@ -49,7 +49,7 @@ Pomyśl o tym jaką wiedzę potrzebujesz mieć i STOSOWAĆ w:
 - Inne...
 
 Po czym zadzwoń do MDDP Business Consulting, a światowej klasy specjaliści zajmą
-się całą resztą :)
+się całą resztą 😊
 
 ## Nowe technologie w zarządzaniu wiedzą.
 
@@ -60,7 +60,7 @@ fakty:
 - "Pracownicy biurowi spędzają więcej czasu na odtwarzaniu informacji niż na ich
   tworzeniu".
 
-Brzmi znajomo? Firma FINDWISE ma na to rozwiązanie :)
+Brzmi znajomo? Firma FINDWISE ma na to rozwiązanie 😊
 
 ## Oprogramowanie Knowledge Management jako narzędzie budowania potencjału strategicznego firmy.
 
@@ -69,21 +69,21 @@ Po tym wystąpieniu został nam link do strony
 temat poziomów zaawansowania zarządzania wiedzą w firmach:
 
 - Najniższy poziom to poziom IT - mamy super system do zarządzania wiedzą i
-  wszyscy liczą, że dzięki temu wszystkie problemy się rozwiążą ;)
+  wszyscy liczą, że dzięki temu wszystkie problemy się rozwiążą 😉
 - Poziom HR i kultury korporacyjnej - dział kadr i menedżment współtworzą,
   zachęcają i używają zasobów wiedzy dostępnych w firmie przechowywanych w wyżej
   wspomnianym systemie IT.
-- Poziom kategoryzacji i zarządzania zawartością - niestety rzadko spotykany :).
+- Poziom kategoryzacji i zarządzania zawartością - niestety rzadko spotykany 😊.
 
 Na jakim poziomie funkcjonuje Wasza firma? Jeżeli chcecie wejść na poziom
-pierwszy - firma BSSG ma dla Was gotowy produkt :)
+pierwszy - firma BSSG ma dla Was gotowy produkt 😊
 
 ## Narzędzia w działaniu. Wykorzystanie rozwiązań KM na przykładzie realizacji globalnego projektu badawczego w TNS.
 
 Ciekawy przykład z życia i ciekawy projekt, w którym zarządzanie wiedzą okazało
 się kluczowe. Wykorzystano takie narzędzia jak:
 
-- Maile :)
+- Maile 😊
 - Szkolenia on-line
 - Intranet
 - Webinaria
@@ -131,7 +131,7 @@ ich potrzeby!
 
 Ostatnia prezentacja - profesora Jana Fazlagica z Akademii Finansów i Biznesu
 Vistula - miała najładniejszą szatę graficzną a prowadzący najbardziej się
-spieszył :). Ale było bardzo ciekawie. Odwrotnie niż wszyscy poprzednicy,
+spieszył 😊. Ale było bardzo ciekawie. Odwrotnie niż wszyscy poprzednicy,
 wykładowca skupił się na tym, jak ograniczyć przepływ informacji i ograniczyć
 efekt [przeciążenia wiedzą](http://en.wikipedia.org/wiki/Information_overload),
 którego przecież wszyscy na co dzień doświadczamy.
@@ -152,11 +152,11 @@ opiniami, książkami, a do tego, paradoksalnie, cały czas rośnie konsumpcja
 papieru na świecie. Jak się przed tym bronić? - stosować filtry, personalizować
 wyszukiwanie, ćwiczyć siłę woli, czytać streszczenia. Dokładna diagnoza problemu
 i recepty - w dwóch książkach pana profesora, których nie omieszkał polecić
-słuchaczom :)
+słuchaczom 😊
 
 ## Podsumowanie
 
-Nasza relacja jest chyba dłuższa niż konferencja :), która wydaje się być
+Nasza relacja jest chyba dłuższa niż konferencja 😊, która wydaje się być
 głównie wydarzeniem marketingowo-sprzedażowym. Trudno ją polecać, ale i trudno
 odradzić, biorąc pod uwagę zerowy koszt uczestnictwa (poza czasem). Niektórym
 uczestnikom udało się nawet wygrać ciekawe nagrody w końcowym losowaniu.
@@ -170,4 +170,4 @@ moment zastanowili się nad tym, jak wygląda zarządzanie wiedzą w Waszej firm
 I - jeśli nie jest idealnie - spróbowali coś zmienić. Warto.
 
 A dodatkowo, oczywiście, chcieliśmy zamieścić w Internecie jeszcze jedną opinię,
-zwiększyć Wasz IFS oraz cognitive overload oraz zagęścić data smog ;).
+zwiększyć Wasz IFS oraz cognitive overload oraz zagęścić data smog 😉.

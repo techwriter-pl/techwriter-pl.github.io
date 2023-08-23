@@ -112,7 +112,11 @@ prezentacje.
 
 Poniżej przedstawiamy zestawienie cen biletów.
 
-<table><tbody><tr><td rowspan="2"></td><td style="text-align: center;" colspan="2"><strong>MadWorld San Diego</strong></td><td style="text-align: center;" colspan="3"><strong>MadWorld Prague</strong></td></tr><tr><td>Do 30.04</td><td>01.05 - 03.06</td><td>01.04 - 31.05</td><td>01.06 - 31.07</td><td>01.08 - 11.09</td></tr><tr><td><strong>Konferencja</strong></td><td>$1999</td><td>$2199</td><td>$999</td><td>$1099</td><td>$1199</td></tr><tr><td><strong>Warsztaty</strong></td><td>$699</td><td>$699</td><td>$399</td><td>$499</td><td>$599</td></tr></tbody></table>
+|             |               |               |               |               |       |
+| ----------- | ------------- | ------------- | ------------- | ------------- | ----- |
+| Do 30.04    | 01.05 - 03.06 | 01.04 - 31.05 | 01.06 - 31.07 | 01.08 - 11.09 |       |
+| Konferencja | $1999         | $2199         | $999          | $1099         | $1199 |
+| Warsztaty   | $699          | $699          | $399          | $499          | $599  |
 
 Organizatorzy przewidzieli też specjalne zniżki dla studentów. Niestety, na taki
 przywilej mogą liczyć tylko uczestnicy MadWorld San Diego. W Stanach

@@ -34,7 +34,7 @@ Ceny biletów:
 
 W przeciwieństwie do lat poprzednich, w tegorocznej edycji nie ma darmowego
 dnia. Warto jednak zwrócić uwagę, że mimo to koszt uczestnictwa w konferencji
-nie wzrósł, a nawet jest bardziej korzystny niż w zeszłym roku ;-).
+nie wzrósł, a nawet jest bardziej korzystny niż w zeszłym roku 😉.
 
 W cenę wliczone są wszystkie prezentacje oraz warsztaty (poza Edu Summit), a
 także rozrywki przewidziane przez organizatorów - przerwy na kawę, przerwy

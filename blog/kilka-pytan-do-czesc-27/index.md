@@ -17,7 +17,7 @@ nasze pytania? Szczegóły poniżej.
 Anna Wójcicka wygrała nasz konkurs o wejściówkę na soap! 2022 i udzieliła
 wyczerpujących odpowiedzi na nasze pytania. W branży jest od niedawna, a dzięki
 temu patrzy świeżym okiem na to co się dzieje. Usiądźcie wygodnie i
-przeczytajcie uważnie, bo naszym zdaniem warto ;)
+przeczytajcie uważnie, bo naszym zdaniem warto 😉
 
 ### 1\. Jak długo pracujesz jako technical writer i na czym właściwie polega Twoja rola?
 
@@ -26,7 +26,7 @@ do projektu, zajmowałam się tłumaczeniami dla działu marketingu, zrobiłam t
 materiałów na użytek wewnętrzny na Confluence (głównie instrukcje użytkownika),
 wpadła mi też w ręce reedycja dokumentacji API.
 
-Teraz, w projekcie, jestem śledczym :) Mamy dwa systemy zarządzania dokumentacją
+Teraz, w projekcie, jestem śledczym 😊 Mamy dwa systemy zarządzania dokumentacją
 – stary i nowy – i w związku z tym trzeba przenieść dane do nowego. Znajduję
 luki i łatam je, wychwytuję niejasności i parafrazuję teksty, zmieniam kolejność
 budując bardziej logiczne ciągi, poprawiam językowo (operujemy w języku

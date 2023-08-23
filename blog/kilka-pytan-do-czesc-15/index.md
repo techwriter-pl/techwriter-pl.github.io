@@ -14,7 +14,7 @@ wyjadaczy polskiego tech commu. Być może znacie już Tomka z
 tegorocznej [konferencji soap!](http://soapconf.com/), gdzie był jednym z
 prelegentów, lub z zaangażowania w
 społeczność [MeetContentWRO](http://meetcontent.org/). Tak czy inaczej, zróbcie
-sobie kawę i rozsiądźcie się wygodnie, bo jest co czytać. :)
+sobie kawę i rozsiądźcie się wygodnie, bo jest co czytać. 😊
 
 ### Jak długo pracujesz jako Tech Writer?
 
@@ -50,7 +50,7 @@ funkcjonalności w 2-3 tygodniowych sprintach. Jednocześnie wszyscy Technical
 Writerzy należą do jednego zespołu dokumentacyjnego i raportują bezpośrednio do
 mnie. Pozwala to na szybsze reagowanie na problemy Tech Writerów, którzy jakby
 nie było, mają nieco inne zadania niż reszta Scrum teamu. Bycie w jednym zespole
-to również zaleta (czasami i wada ;)) posiadania swojego budżetu. Jako manager
+to również zaleta (czasami i wada 😉) posiadania swojego budżetu. Jako manager
 dokumentacji pełnię także w niektórych projektach rolę project managera i
 koordynatora tłumaczeń.
 
@@ -86,7 +86,7 @@ spotkaniach mam wpływ na decyzje podejmowane przez najważniejsze osoby w
 projekcie (Release Managera, Product Managera, Managerów R&D).
 
 ...a tak po ludzku, to trzeba budować sieć kontaktów i trzymać sztamę z SMEs i
-Release Managerami :) Ja często przyjmuję zasadę: "ja pomogę Tobie, ale Ty
+Release Managerami 😊 Ja często przyjmuję zasadę: "ja pomogę Tobie, ale Ty
 pomożesz mi" - u mnie działa.
 
 ### Jakie dokumenty dostarczasz, w jakiej postaci, w jakim języku/językach i jak są one publikowane?

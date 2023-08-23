@@ -20,7 +20,7 @@ potrzebny do opanowania produktu. Portal
 [TechRepublic](http://www.techrepublic.com/) w jednym z
 [artykułów](http://www.techrepublic.com/article/tips-for-managing-the-technical-documentation-tech-review/)
 daje nam wskazówki jak radzić sobie z recenzją merytoryczną dokumentacji.
-Poniżej przedstawiamy naszą "skondensowaną" wersję :)
+Poniżej przedstawiamy naszą "skondensowaną" wersję 😊
 
 ## Stwórz listę kontrolną
 

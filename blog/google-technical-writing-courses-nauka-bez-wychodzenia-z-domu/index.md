@@ -134,7 +134,7 @@ prowadzone zajęcia.
 W ostatniej sekcji kursów _The Profession_ znajdziecie informacje kto i w jaki
 sposób może zostać pracownikiem Google na stanowisku Technical Writera. Chętnych
 odsyłamy [tutaj](https://developers.google.com/tech-writing/becoming) i życzymy
-szczęścia ;-)
+szczęścia 😉
 
 ### Podsumowanie
 

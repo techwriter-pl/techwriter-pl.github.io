@@ -27,7 +27,7 @@ prawdopodobieństwa utraty pracy z powodu komputeryzacji wynika, że **w skali o
 
 Na szczęście jest jakieś światełko w tunelu, oszczędność w jednym sektorze
 zwiększy zarobki w innym, a tym samym wygeneruje zapotrzebowanie na nowe
-produkty i usługi. Także będzie się można zawsze przekwalifikować :)
+produkty i usługi. Także będzie się można zawsze przekwalifikować 😊
 
 A póki co piszmy i traktujmy komputery jak przyjaciół, może kiedyś w zamian nas
 oszczędzą... Więcej na temat przyszłości zawodów możecie przeczytać w
