@@ -52,6 +52,10 @@ const config = {
     ({
       // Replace with your project's social card
       image: "img/techwriter-social-card.png",
+      colorMode: {
+        defaultMode: "light",
+        disableSwitch: true,
+      },
       navbar: {
         title: "techwriter.pl",
         logo: {
