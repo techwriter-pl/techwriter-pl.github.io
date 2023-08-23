@@ -1,6 +1,5 @@
 ---
-title:
-  "Oferta pracy: Senior Technical Writer/Information Developer (Rockwell
+title: "Oferta pracy: Senior Technical Writer/Information Developer (Rockwell
   Automation)"
 date: "2019-02-17"
 tags:

@@ -1,6 +1,5 @@
 ---
-title:
-  "[NIEAKTUALNE] Oferty pracy: Technical Writer, Senior Technical Writer,
+title: "[NIEAKTUALNE] Oferty pracy: Technical Writer, Senior Technical Writer,
   Project Manager"
 date: "2016-01-07"
 tags:
