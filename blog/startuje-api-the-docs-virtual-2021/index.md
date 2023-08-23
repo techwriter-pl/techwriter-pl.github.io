@@ -1,10 +1,10 @@
 ---
 title: "Startuje API the Docs Virtual 2021!"
 date: "2021-04-09"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "api"
   - "dokumentacja"
   - "kariera"

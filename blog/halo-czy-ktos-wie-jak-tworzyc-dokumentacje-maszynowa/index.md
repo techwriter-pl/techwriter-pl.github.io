@@ -1,10 +1,10 @@
 ---
 title: "Halo! Czy ktoś wie jak tworzyć dokumentację maszynową?"
 date: "2020-07-08"
-categories: 
+categories:
   - "news"
   - "dobre-praktyki"
-tags: 
+tags:
   - "dokumentacja"
   - "edukacja"
   - "instrukcje"

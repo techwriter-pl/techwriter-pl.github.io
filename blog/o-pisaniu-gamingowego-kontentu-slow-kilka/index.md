@@ -1,9 +1,9 @@
 ---
 title: "O pisaniu gamingowego kontentu słów kilka"
 date: "2020-03-09"
-categories: 
+categories:
   - "przyklady"
-tags: 
+tags:
   - "gry"
 coverImage: "minecraft-wiki.jpg"
 ---

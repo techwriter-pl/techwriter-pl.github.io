@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Engineer, Customer Documentation"
 date: "2018-06-11"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "Nokia-logo-e1528727519947.jpg"
@@ -14,7 +14,7 @@ Dziś oferta z Wrocławia, z fińskiej firmy, po angielsku :) Raczej dla oświad
 
 Oryginalne ogłoszenie wraz z możliwością aplikowania znajdziecie [pod linkiem](https://aluperf.referrals.selectminds.com/jobs/engineer-customer-documentation-11794?et=QyRdqOMf).
 
- 
+
 
 **Main Responsibility Areas:**
 
@@ -44,7 +44,7 @@ You may be responsible of a specific technical area that is related to R&D conte
 
 \-        Provide consultancy, support and guidance to document readers in the purpose of helping them use the product(s) efficiently.
 
- 
+
 
 **Requirements**
 

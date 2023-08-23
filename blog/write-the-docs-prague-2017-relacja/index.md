@@ -1,10 +1,10 @@
 ---
 title: "Write the Docs Prague 2017 - relacja"
 date: "2017-10-05"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "konferencje"
   - "spolecznosc"
 coverImage: "writethedocs2017-9.jpg"

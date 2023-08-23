@@ -1,11 +1,11 @@
 ---
 title: "Konferencje 2015 - pierwsze półrocze"
 date: "2015-01-13"
-categories: 
+categories:
   - "news"
   - "z-kraju"
   - "ze-swiata"
-tags: 
+tags:
   - "konferencje"
 coverImage: "meeting-83519_640.jpg"
 ---

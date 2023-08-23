@@ -1,10 +1,10 @@
 ---
 title: "Będąc młodym techwriterem przyszedł do mię tekst..."
 date: "2014-08-08"
-categories: 
+categories:
   - "dobre-praktyki"
   - "warsztat"
-tags: 
+tags:
   - "jezyk"
 coverImage: "gramatyka.jpg"
 ---
@@ -23,12 +23,12 @@ Chodzi o podmiot, czyli tego kto działa. Ma być ten sam i w części z imiesł
 
 "Spacerując po promie wszędzie emanuje czystość" -- czystość umie spacerować.
 
- 
+
 
 A na koniec zagadka: w którym z ciekawych tekstów na Waszym portalu znajduje się fraza:
 
 "Nawet znając jakiś system bardzo dobrze, zdarzają się sytuacje..."
 
- 
+
 
 Od redakcji: Hmm... [zdarza się najlepszym](http://www.tekstowo.pl/piosenka,kult,nie_chce_grac_w_reprezentacji.html)... oraz nam :). Dziękujemy za lekcję, obiecujemy poprawę i prosimy o więcej!

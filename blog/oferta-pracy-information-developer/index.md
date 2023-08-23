@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Information Developer"
 date: "2015-09-04"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "79479_ruxit.jpg"

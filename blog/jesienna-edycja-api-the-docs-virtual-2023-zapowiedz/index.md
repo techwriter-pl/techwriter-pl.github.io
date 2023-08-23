@@ -1,10 +1,10 @@
 ---
 title: "JESIENNA EDYCJA API THE DOCS VIRTUAL 2023 - ZAPOWIEDŹ"
 date: "2023-08-18"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "api"
   - "dokumentacja"
   - "dostepnosc"

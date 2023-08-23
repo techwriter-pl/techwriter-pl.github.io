@@ -1,10 +1,10 @@
 ---
 title: "Komunikacja techniczna geograficznie"
 date: "2014-05-16"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "konferencje"
   - "spolecznosc"
 coverImage: "pins-on-map_Small.jpg"

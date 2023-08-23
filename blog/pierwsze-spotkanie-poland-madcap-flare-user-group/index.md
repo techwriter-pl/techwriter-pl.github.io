@@ -1,12 +1,12 @@
 ---
 title: "Pierwsze spotkanie Poland MadCap Flare User Group"
 date: "2017-07-03"
-categories: 
+categories:
   - "news"
   - "narzedzia"
   - "warsztat"
   - "z-kraju"
-tags: 
+tags:
   - "aplikacje"
   - "spolecznosc"
   - "technologie"

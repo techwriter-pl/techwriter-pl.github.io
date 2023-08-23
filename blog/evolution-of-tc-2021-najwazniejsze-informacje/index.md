@@ -1,10 +1,10 @@
 ---
 title: "Evolution of TC 2021 - najważniejsze informacje"
 date: "2021-06-04"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "dokumentacja"
   - "edukacja"
   - "kariera"
@@ -31,7 +31,7 @@ Program konferencji jest tak opracowany, by poruszyć następujące tematy:
 
 - Information Modeling,
 - dokumentacja API,
-- zachowanie ciągłości w dostarczaniu dokumentacji, 
+- zachowanie ciągłości w dostarczaniu dokumentacji,
 - User Experience − UX,
 - metadane i taksonomia,
 - i wiele więcej.

@@ -1,10 +1,10 @@
 ---
 title: "Studia podyplomowe w Warszawie - aktualizacja"
 date: "2019-09-25"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "edukacja"
   - "studia"
   - "szkolenia"

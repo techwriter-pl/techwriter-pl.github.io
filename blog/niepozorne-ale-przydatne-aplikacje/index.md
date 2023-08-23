@@ -1,10 +1,10 @@
 ---
 title: "Niepozorne, ale przydatne aplikacje"
 date: "2015-06-30"
-categories: 
+categories:
   - "narzedzia"
   - "warsztat"
-tags: 
+tags:
   - "aplikacje"
 coverImage: "toolbox-304894_640-e1435412819757.png"
 ---

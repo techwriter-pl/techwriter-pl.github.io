@@ -1,11 +1,11 @@
 ---
 title: "Konferencje 2019 - drugie półrocze"
 date: "2019-05-31"
-categories: 
+categories:
   - "news"
   - "z-kraju"
   - "ze-swiata"
-tags: 
+tags:
   - "edukacja"
   - "kariera"
   - "konferencje"

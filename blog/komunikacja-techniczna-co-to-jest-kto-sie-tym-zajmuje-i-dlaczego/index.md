@@ -1,9 +1,9 @@
 ---
 title: "Komunikacja techniczna - co to jest, kto się tym zajmuje i dlaczego?"
 date: "2020-08-10"
-categories: 
+categories:
   - "warsztat"
-tags: 
+tags:
   - "komunikacja-techniczna"
 coverImage: "komunikacja_techniczna-co_to.png"
 ---

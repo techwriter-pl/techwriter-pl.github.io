@@ -1,10 +1,10 @@
 ---
 title: "Mamy najlepszą pracę na świecie!"
 date: "2013-10-11"
-categories: 
+categories:
   - "news"
   - "warsztat"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "relaks.jpg"

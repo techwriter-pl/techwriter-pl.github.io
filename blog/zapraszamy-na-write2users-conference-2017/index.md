@@ -1,10 +1,10 @@
 ---
 title: "Zapraszamy na Write2Users Conference 2017!"
 date: "2017-10-12"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "edukacja"
   - "konferencje"
   - "lokalizacja"

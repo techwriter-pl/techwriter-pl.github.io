@@ -1,10 +1,10 @@
 ---
 title: "Write The Docs coraz bliżej"
 date: "2016-08-16"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "konferencje"
   - "spolecznosc"
 coverImage: "sticker-wtd-colors.jpg"

@@ -1,10 +1,10 @@
 ---
 title: "Kilka pytań do - część 21"
 date: "2020-12-09"
-categories: 
+categories:
   - "warsztat"
   - "wywiady"
-tags: 
+tags:
   - "dokumentacja"
   - "spolecznosc"
   - "wywiad"

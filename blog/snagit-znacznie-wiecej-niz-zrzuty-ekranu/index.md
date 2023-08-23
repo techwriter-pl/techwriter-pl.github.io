@@ -1,10 +1,10 @@
 ---
 title: "Snagit – znacznie więcej niż zrzuty ekranu"
 date: "2020-11-02"
-categories: 
+categories:
   - "narzedzia"
   - "warsztat"
-tags: 
+tags:
   - "grafika"
   - "narzedzia"
   - "praktyki"
@@ -21,7 +21,7 @@ Dobrej lektury!
 
 Moja przygoda ze Snagitem zaczęła się w 2014 roku, kiedy moja siostra („wschodząca gwiazda bankowości inwestycyjnej”), odpowiadająca za projekty informatyczne, poleciła mi narzędzie do wykonywania zrzutów ekranu, które miało ułatwić mi pracę. Mamy 2020 a ja wciąż niecierpliwie czekam wydania nowej wersji tej przydatnej aplikacji. W mojej opowieści spróbuję przybliżyć Wam fenomen tego cacka i jak wpłynęło ono na sposób w jaki pracuję i komunikuję się.
 
-\[caption id="attachment\_9143" align="aligncenter" width="561"\]![](images/image001.png) „Print screen”, „screen shot”, „screen capture”, „zrzuty ekranu”, a w języku Polglish „screeny”. Wiele jest określeń tej prozaicznej, ale niepozbawionej niuansów czynności.\[/caption\]
+\[caption id="attachment_9143" align="aligncenter" width="561"\]![](images/image001.png) „Print screen”, „screen shot”, „screen capture”, „zrzuty ekranu”, a w języku Polglish „screeny”. Wiele jest określeń tej prozaicznej, ale niepozbawionej niuansów czynności.\[/caption\]
 
 ## Historyczne decyzje
 
@@ -221,7 +221,7 @@ Najistotniejsze kwestie będą oznaczone tak:
 
 ![](images/alert.png)
 
-Większe części interfejsu są zaznaczone **wytłuszczoną** czcionką, opcje - znakami „”, a komendy widoczne po kliknięciu prawym przyciskiem i w menu Edit, Image są zapisane _kursywą._
+Większe części interfejsu są zaznaczone **wytłuszczoną** czcionką, opcje - znakami „”, a komendy widoczne po kliknięciu prawym przyciskiem i w menu Edit, Image są zapisane *kursywą.*
 
 Może zaadaptujesz te sposoby do swojego kontekstu albo zainspirują Cię do znalezienia własnych, pomocnych w Twojej branży trików. Po przebrnięciu przez artykuł (pewnie nie za jednym posiedzeniem) i po eksperymentach praktycznych w narzędziu, będziesz mógł/mogła z dumą powiedzieć:
 
@@ -247,7 +247,7 @@ Proponuje wyłączyć „Show toolbar labels” bo dzięki temu zyskujemy więce
 
 ![](images/alert.png)„Prompt before deleting” – zdecydowanie polecam włączyć, bo inaczej łatwo usunąć przez przypadek coś z biblioteki lub z panelu **Recent Captures Tray**.
 
- 
+
 
 ![](images/image009.png)
 
@@ -259,7 +259,7 @@ Kliknij prawym przyciskiem na pasku narzędzi, żeby ustawić które ikony będ�
 
 ### Zarządzanie plikami \*.snag
 
-![](images/alert.png)Świadomość tego jak zarządzać plikami w formacie \*.snag ma kluczowe znaczenie. Przede wszystkim, jeśli chcesz tworzyć obrazki z dodawanymi obiektami, takimi jak podkreślenia, podpisy, rysowane kształty to, oprócz zapisu do wybranego formatu graficznego (np.: \*.png), należy też zapisywać kopie w formacie \*.snag. Pozwoli to na późniejszą edycję i przesuwanie obiektów na obrazie. W razie zapisu tylko do \*.png, po następnym otwarciu aplikacji obraz będzie „spłaszczony” i nie będzie już w nim osobnych, edytowalnych obiektów. Ponieważ czasem nie da się przewidzieć, do którego obrazu będziesz wielokrotnie wracać, by nanosić poprawki, stanowczo zalecam zapisywanie do \*.snag. W ten sposób masz plik projektowy, który możesz później dostosować. Jeśli na wspólnych projektach pracuje kilku tech writerów, warto stworzyć współdzieloną lokalizację „Image\_Bank” ze strukturą folderów tematycznych umożliwiającą łatwe wyszukiwanie stworzonych wcześniej obrazów. Dzięki temu, można bezkarnie wykorzystywać części istniejących już ilustracji innych autorów (zwłaszcza mam tu na myśli schematy z linii i kształtów). Pozwoli to wykorzystać przydatne elementy z innych ilustracji i nie tworzyć ich od zera za każdym razem.
+![](images/alert.png)Świadomość tego jak zarządzać plikami w formacie \*.snag ma kluczowe znaczenie. Przede wszystkim, jeśli chcesz tworzyć obrazki z dodawanymi obiektami, takimi jak podkreślenia, podpisy, rysowane kształty to, oprócz zapisu do wybranego formatu graficznego (np.: \*.png), należy też zapisywać kopie w formacie \*.snag. Pozwoli to na późniejszą edycję i przesuwanie obiektów na obrazie. W razie zapisu tylko do \*.png, po następnym otwarciu aplikacji obraz będzie „spłaszczony” i nie będzie już w nim osobnych, edytowalnych obiektów. Ponieważ czasem nie da się przewidzieć, do którego obrazu będziesz wielokrotnie wracać, by nanosić poprawki, stanowczo zalecam zapisywanie do \*.snag. W ten sposób masz plik projektowy, który możesz później dostosować. Jeśli na wspólnych projektach pracuje kilku tech writerów, warto stworzyć współdzieloną lokalizację „Image_Bank” ze strukturą folderów tematycznych umożliwiającą łatwe wyszukiwanie stworzonych wcześniej obrazów. Dzięki temu, można bezkarnie wykorzystywać części istniejących już ilustracji innych autorów (zwłaszcza mam tu na myśli schematy z linii i kształtów). Pozwoli to wykorzystać przydatne elementy z innych ilustracji i nie tworzyć ich od zera za każdym razem.
 
 ![](images/speaker.png)Można stworzyć jeden zbiorczy folder w chmurze (w moim przykładzie będzie to OneDrive) na szybki backup plików \*.snag, które w dalszej kolejności będą ręcznie umieszczane w odpowiednich folderach. Należy kliknąć przycisk **Share**, żeby ustawić lokalizacje docelową w obrębie OneDrive. Dostosuj pasek narzędzi, by ikona OneDrive pojawiła się na widoku. Teraz, po zapisaniu pliku \*.snag na dysku, wystarczy kliknąć ikonę OneDrive, a edytowalny plik \*.snag pojawi się w wybranym katalogu w chmurze.
 
@@ -299,7 +299,7 @@ Wystarczy wcisnąć ustawiony klawisz, ich kombinację albo czerwony przycisk **
 
 Jeśli potrzebujesz szybko zmierzyć element interfejsu, okna, tabeli czy zdjęcia, w kroku **2.** zobaczysz liczbę pikseli pod lupą. Czyli linijkę masz zawsze pod ręką.
 
- 
+
 
 ![](images/deskorolka.png) Podczas kroku **2.** możesz użyć skrótów klawiszowych. **SHIFT** – zaznaczanie kwadratowego obszaru. **CTRL** – proporcje 16:9. **CTRL+SHIFT** proporcje 4:3. Wciśnij **ENTER**, by zaakceptować zaznaczenie i przejść od razu do edycji.
 
@@ -323,11 +323,11 @@ Gdy domyślne ustawienie trybu **OneClick** ograniczają Cię, z pomocą przycho
 
 ![](images/deskorolka.png)Dla wygody, warto ustawić taskbar tak, by ikona **Capture Window** była stale widoczna.
 
- 
+
 
 ![](images/deskorolka.png)Kliknięcie prawym klawiszem na ikonę **Capture Window** daje dostęp do listy presetów do uruchomienia. Można też zrobić zrzut ekranu zgodnie z obecną konfiguracją Capture Window.
 
- 
+
 
 ![](images/image016-300x146.jpg)
 
@@ -335,13 +335,13 @@ Wyłączenie „Preview in Editor” oznacza, że po kroku **3.** nie przejdzies
 
 ![](images/speaker.png)Typową kombinacją opcji jest wyłączenie „Preview in Editor” i włączenie „Copy to Clipboard” gdy chcesz zaznaczyć coś konkretnego, co bez edycji można wkleić bezpośrednio do maila.
 
- 
+
 
 „Capture Cursor” pozwoli zdecydować, czy chcesz by kursor był widoczny na obrazku. Kursor zapisywany jest jako edytowalny obiekt, więc w trakcie edycji można go przesunąć lub wykasować. Ostatnią z szybkich opcji to „5 Second delay”.
 
 ![](images/deskorolka.png)Opcja jest przydatna, gdy fotografowany obiekt musi być najpierw kliknięty, żeby stał się widoczny, albo musisz zatrzymać kursor jakiś czas nad ikoną, żeby pokazać wyświetloną etykietkę. Wtedy pięć sekund w zupełności wystarcza, by wywołać sytuację, którą chcesz uwiecznić.
 
- 
+
 
 Powyższe cztery opcje-przełączniki są w stanie obsłużyć lwią cześć sytuacji.
 
@@ -357,7 +357,7 @@ Domyślnie, **All-in-One** daje możliwość ręcznego zaznaczenia, wyboru autom
 
 ![](images/deskorolka.png)Ostatnią „ukrytą” opcją jest „Share”, pozwalająca włączyć natychmiastowe udostępnianie. Można udostępniać do kilku miejsc na raz.
 
- 
+
 
 ![](images/speaker.png)Można wyłączyć wszystkie główne opcje-przełączniki („preview”, „clipboard”, „cursor”, „delay”) i włączyć udostępnianie do chmury, np.: OneDrive. Ponieważ jest to **All-In-One** to krok **3.** będzie występował, a po nim plik \*.snag zostanie zapisany na udziale w wybranym miejscu.
 
@@ -408,17 +408,17 @@ Na podstawie filmu wideo da się stworzyć animowany \*.gif.
 
 ![](images/speaker.png)Jeśli potrzebujesz screen shotów panelu z wieloma zakładkami, możesz zrobić zdjęcie dla każdej aktywnej zakładki osobno. O wiele łatwiej jednak nagrać film pokazujący panel z kolejno aktywowanymi zakładkami, a następnie wyciągnąć statyczne obrazy z filmu za pomocą poniższych przycisków:
 
- 
+
 
 [![](images/right_left.png)](http://techwriter.pl/wp-content/uploads/2020/10/right_left.png)\- wybór klatki
 
- 
+
 
 ![](images/gifpng.png)\- zapis klatki.
 
- 
 
- 
+
+
 
 Możesz w ten sposób nagrać serię czynności na ekranie, a następnie zapisać tylko potrzebne klatki jako screen shoty. Nie warto zatrzymywać się po każdym kroku na robienie zdjęcia.
 
@@ -442,13 +442,13 @@ Znajdziesz przykładowe presety, na bazie których możesz utworzyć duplikaty, 
 
 ![](images/speaker.png)Inne presety mogą być bardziej złożone, np.: **Image**; „Selection: Fixed Region”, „Effects: Scale Image”; „Share: File”.
 
- 
+
 
 ![](images/sharefile.png)Klikając koło zębate wybierzesz format dla pliku, który zapisany zostanie w katalogu, który ustawisz (najlepiej nazwany tak jak projekt).
 
- 
 
-![](images/autoname.png)Co więcej, możesz ustawić automatyczną nazwę dla zapisywanego pliku np.: nazwa\_projektu\_001 itp. Nazwa też składać się może z przedrostka, zarostka, daty, godziny, miesiąca, dnia tygodnia, nazwy użytkownika itp.
+
+![](images/autoname.png)Co więcej, możesz ustawić automatyczną nazwę dla zapisywanego pliku np.: nazwa_projektu_001 itp. Nazwa też składać się może z przedrostka, zarostka, daty, godziny, miesiąca, dnia tygodnia, nazwy użytkownika itp.
 
 Podsumowując: po wciśnięciu kombinacji klawiszy obraz z wybranego monitora może zostać zapisany z automatyczną nazwą i liczbą porządkową do odpowiedniego katalogu, ze zmniejszonymi wymiarami. Kiedy raz użyjesz takiego presetu, już nie będziesz chcieć robić tego wszystkiego ręcznie. Ważne jest to, żeby wybrać zakładkę **Image**, bo wtedy, po wciśnięciu skrótu krok **3.** nie wystąpi, co ograniczy Twoją interakcję z narzędziem do minimum. Takie presety służą często do stworzenie dziesiątek, jeśli nie setek screenów.
 
@@ -472,7 +472,7 @@ Kliknięcie na przycisk **Recent** ukrywa panel. Kliknij prawym przyciskiem obok
 
 ![](images/deskorolka.png)Mając otwarty do edycji obraz, możesz przeciągnąć do niego miniaturę innego obrazu, co zaoszczędza przełączanie się między nimi, zaznaczanie i CTRL+C, CTRL+V. Obrazy zostaną połączone.
 
- 
+
 
 ![](images/deskorolka.png)Przeciągnięcie do obszaru roboczego miniatury obrazu, który edytujesz skutkuje dodaniem obiektu będącego kopią tego samego obrazu.
 
@@ -500,7 +500,7 @@ Funkcję tę znasz z innych edytorów graficznych, podam parę godnych uwagi szc
 
 ![](images/deskorolka.png)Możesz narysować wiele osobnych obszarów zaznaczenia przytrzymując SHIFT. Obszary mogą się stykać i na siebie nachodzić. Możesz zaznaczyć wiele obszarów o różnych kształtach na raz, przytrzymując SHIFT i przełączając się między kształtami zaznaczenia.
 
- 
+
 
 Którykolwiek kształt wybierzesz, możesz włączyć **Snap to Object**, by automatycznie otoczyć piksele na obrazku stanowiące jedną całość np. ramkę przycisku. Użyj suwaka, aż zaznaczone będzie to, o co Ci chodziło. Jeśli potrzebujesz coś wyciąć, możesz wybrać wypełnienie przezroczystością lub automatyczne na bazie koloru występującego w pobliżu. Opcja „Speed” sprawdza się najlepiej przy oknach interfejsu a „Photo Quality” przy zdjęciach.
 
@@ -520,23 +520,23 @@ Klikając prawym przyciskiem w obszarze roboczym, w menu kontekstowym znajdziesz
 
 ![](images/deskorolka.png)Dla kilku obiektów zaznaczonych razem można zastosować komendę _Flip horizontal_ i _Flip vertical_ dostępną po kliknięciu prawym przyciskiem. Powstanie odbicie lustrzane całego szyku.
 
- 
+
 
 ![](images/deskorolka.png)Dla kilku obiektów zaznaczonych razem można zastosować komendę _Arrange => Align_ dostępną po kliknięciu prawym przyciskiem. Wyrównywanie w pionie: _Left, Center, Right._ Wyrównywane w poziomie: _Top, Middle, Bottom._
 
 ![](images/deskorolka.png)Niezależnie od tego czy masz włączony **Move** czy **Select**, bezpośrednie kliknięcie w obiekt, zaznaczy go i można go przesunąć. Jednak, jeśli zaznaczysz obszar, a w jego obrębie – obiekt, zależnie od narzędzia uzyskasz inne efekty.
 
- 
+
 
 Nie przesuniesz obiektu zaznaczając ramką **Select**. Zaznaczy się tylko bitmapa pod spodem. Skopiowanie i wklejenie skutkują wklejeniem obiektu razem z osobnym obiektem - fragmentem tła. Ramka narzędzia **Move** przesunie same obiekty i pozwoli je wkleić, dokąd chcesz.
 
 ![](images/deskorolka.png)![](images/newfrom.png)Możesz użyć przycisku **New from Clipboard**, by z zaznaczonych obiektów narzędziem **Move** utworzyć nowy obraz z edytowalnymi obiektami.
 
- 
+
 
 Jeśli klikniesz prawym przyciskiem na obiekt i użyjesz komendy _Flatten_, wtedy obiekt zostanie spłaszczony i scali się z tłem – bitmapą.
 
-![](images/alert.png)Komenda _Flatten All_ spłaszczy każdy obiekt i manipulacje na obiektach nie będą już możliwe. Ma to szczególne znaczenie dla późniejszej edycji. Jeśli planujesz użyć tej opcji, a ilustracja składa się z wielu obiektów, zapisz kopię „przed spłaszczeniem” do „Image\_Bank”. Twoje przyszłe „ja” podziękuje Ci, gdy okaże się, że dalsza modyfikacja obrazu będzie potrzebna i zaoszczędzi Ci odtwarzania tego samego.
+![](images/alert.png)Komenda _Flatten All_ spłaszczy każdy obiekt i manipulacje na obiektach nie będą już możliwe. Ma to szczególne znaczenie dla późniejszej edycji. Jeśli planujesz użyć tej opcji, a ilustracja składa się z wielu obiektów, zapisz kopię „przed spłaszczeniem” do „Image_Bank”. Twoje przyszłe „ja” podziękuje Ci, gdy okaże się, że dalsza modyfikacja obrazu będzie potrzebna i zaoszczędzi Ci odtwarzania tego samego.
 
 Choć wypadki przy pracy się zdarzają i w dalszej sekcji dowiesz się, jakie narzędzia mogą Cię poratować po niefortunnym spłaszczeniu obiektów.
 
@@ -558,7 +558,7 @@ Kiedy przemieszczasz obiekty możesz włączyć **Canvas Snapping**. Aplikacja b
 
 **Magic Wand** znasz pewnie z innych edytorów grafiki. Klikasz w obszar a aplikacja zaznacza obszar o podobnym kolorze. Przypomina nieco opcję „Snap to object” z **Select**. Jeśli użyjesz opcji „Global color selection” Snagit spróbuje zaznaczyć wszystkie obszary na bazie dominującego koloru w klikniętym miejscu. ![](images/deskorolka.png)**Wand** jest dobrym narzędziem by zaznaczyć jednolite tło wokół elementu graficznego na obrazku i zastąpić je przezroczystością. Kliknij tło i wytnij je wokół elementu.
 
- 
+
 
 ![](images/deskorolka.png)To samo można osiągnąć zaznaczając element graficzny za pomocą **Wand** albo **Select** + „Snap to Object” i stosując komendę _Invert selection_.
 
@@ -572,7 +572,7 @@ Kiedy przemieszczasz obiekty możesz włączyć **Canvas Snapping**. Aplikacja b
 
 ![](images/deskorolka.png)**Cut Out** bywa wygodny, gdy potrzebujesz szybko ściąć brzeg obrazu o jeden lub kilka pikseli, „uchwyty” nie mają takiej precyzji, a **Cut Out** – owszem.
 
- 
+
 
 ![](images/spread.png)Gdy masz element graficzny otoczony jednolitym tłem, wystarczy jedno kliknięcie, by pozbyć się nadmiaru wolnej przestrzeni. Granice obszaru roboczego będą przesunięte aż zatrzymają się na elemencie graficznym lub obiekcie.
 
@@ -590,7 +590,7 @@ Pamiętaj o sporym wyborze kształtów, od tradycyjnych dymków, przez duże str
 
 ![](images/deskorolka.png)Jeśli masz zaznaczony obecny kształt i najedziesz kursorem inny kształt z „Shape” zobaczysz podgląd zmiany przed jej zaakcentowaniem poprzez kliknięcie.
 
- 
+
 
 ![](images/speaker.png)Opcja przezroczystości jest szczególnie przydatna, gdy masz dać dłuższy komentarz na obrazku w ramach recenzji, a chcesz by dymek nie przesłaniały wszystkiego i by kontekst pozostał widoczny.
 
@@ -604,7 +604,7 @@ Warto zwrócić uwagę na opcję „Padding” i szerokość ramek, bo gdy masz 
 
 ![](images/shapes.png)Narzędzie jest bardzo intuicyjne. Po narysowaniu kształtu, można go zmienić przez drop-down „Shape”.
 
- 
+
 
 ![](images/deskorolka.png)Klikając napis „Shadow” można dostosować opcje cienia. Można nawet zrobić kolorową poświatę wokół kształtu.
 
@@ -616,7 +616,7 @@ Warto zwrócić uwagę na opcję „Padding” i szerokość ramek, bo gdy masz 
 
 ![](images/deskorolka.png)Warto pamiętać, że jeśli masz symetryczną ilustrację i potrzebujesz podobnej krzywej dla innej strony, skopiuj linię i użyj komendy _Flip horizontal_ i/lub _Flip vertical_.
 
- 
+
 
 Zaznacz obiekt tego samego typu np.: strzałki, żeby równocześnie zmienić parametry dla wszystkich na raz. **Arrow** ma do wyboru różne początki i końcówki linii. Jeśli użyjesz zakończeń typu „strzałka” możesz dostosowywać ich wielkość opcją „Start/end size”. Początek i koniec mogą mieć różną wielkość.
 
@@ -632,11 +632,11 @@ Czasem, żeby zobaczyć wszystkie opcje, musisz podciągnąć pasek **Tool Prope
 
 ![](images/loupe.png)Bardzo przydatne narzędzie dla uwydatnienia fragmentu obrazu. Można powiększyć fragment i zaciemnić resztę.
 
- 
+
 
 ![](images/deskorolka.png)Działa na każdym kształcie zaznaczenia, nie tylko na prostokątnym.
 
- 
+
 
 #### Quick Styles, Themes
 
@@ -660,11 +660,11 @@ zobaczysz zgrupowane wszystkie najpotrzebniejsze style. Możesz zmieniać ich ko
 
 ![](images/coins.png)Genialne narzędzie do szybkiego dodawania numerowanych kroków. Możesz dostosować ich przezroczystość.
 
- 
+
 
 ![](images/stamp.png)Niezastąpione narzędzie do dodawania szybkich ikon takich jak krzyżyk, owalne zakreślenie, kursory i setki innych. Można dostosować w nim cień i przezroczystość.
 
- 
+
 
 ![](images/deskorolka.png)Można tworzyć własne zestawy ikon lub załadować gotowy zestaw. Wystarczy do katalogu „TechSmith\\Snagit 2020\\en-US\\Stamps\\” załadować obrazy z przezroczystością. Jest też komenda _Add Stamp_ dostępna po kliknięciu „Organize Stamps”.
 
@@ -684,7 +684,7 @@ Przycisk **Copy All** służy do skopiowania wszystkiego co masz w obszarze robo
 
 ![](images/speaker.png)Da się dodać aplikację akceptującą obrazy z poza listy, np.: bardziej zaawansowany edytor graficzny.
 
- 
+
 
 ### Library – automatyczne katalogowanie obrazów
 
@@ -694,17 +694,17 @@ W **Library** możesz przeglądać zrobione screen shoty i filmy rozwijając roz
 
 ![](images/deskorolka.png)Pamiętaj, że rozwijając kategorię taką jak „zdjęcia z całego roku” załadowanie takiej liczby obrazów może chwilę zająć.
 
- 
+
 
 ![](images/details.png)Włącz widok „Details view”, żeby widzieć wszystkie informacje o plikach w formie tekstowej. Możesz wtedy sortować np.: według tagów. Widok „Thumbnail view” pokazuje miniatury.
 
- 
+
 
 ![](images/speaker.png)Dla szybkiego odnalezienia obrazu, wyświetl interesującą Cię grupę obrazów np.: te stworzone w ciągu ostatniego tygodnia. Użyj przycisku lupy na dole ekranu, żeby ustalić wielkość wyświetlanego obrazu. Szybkie przewinięcie rezultatów pozwoli Ci szybko namierzyć potrzebną grafikę.
 
 ![](images/alert.png)Komenda _Remove from Library_ usuwa zapisany plik z biblioteki, ale pozostaje on na dysku. Komenda _Delete_ usuwa plik na dysku.
 
- 
+
 
 #### Tags
 
@@ -712,7 +712,7 @@ Domyślne katalogowanie w **Library** jest niezwykle pomocne, ale czasem potrzeb
 
 ![](images/speaker.png)Robiłem kiedyś porównanie jakości opublikowanych kursów e-learning zależnie od ustawionego parametru i rozmiaru okna. Stworzyłem tagi: „parametr A”, „parametr B”, „wymiar 1”, „wymiar 2”. Tagi pomogły mi pogrupować obrazy razem, by łatwiej je porównać.
 
- 
+
 
 Klikając przycisk **Tag** dla wybranego pliku, zobaczysz jego listę tagów. Jeśli przeglądasz **Library** w trybie widoku **Details** (lista) zobaczysz tagi w formie tekstowej i będziesz mógł/mogła po nich sortować.
 

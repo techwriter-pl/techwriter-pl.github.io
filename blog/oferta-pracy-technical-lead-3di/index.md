@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical Lead"
 date: "2018-07-09"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "3di_logo.png"
@@ -14,7 +14,7 @@ Oferta dla ludzi kochających nowe technologie - naprawdę ciekawa! Z Krakowa.
 
 Wszystkie szczegóły dostępne również bezpośrednio [u źródła](https://3di-info.com/technical-lead-krakow/).
 
- 
+
 
 Are you looking for new challenges? Would you like to work in an international services company?
 
@@ -55,14 +55,14 @@ As the Technical Lead, your role will include, but is not confined to:
 - Fluent English and Polish
 - Track-record of learning and developing
 - Experience with any of the following:
-    - C# .NET
-    - Python
-    - XML and XSLT
-    - DITA and DITA OT
-    - Jenkins CI
-    - XTM
-    - MadCap Flare and Lingo
-    - SVN/Git/etc.
+  - C# .NET
+  - Python
+  - XML and XSLT
+  - DITA and DITA OT
+  - Jenkins CI
+  - XTM
+  - MadCap Flare and Lingo
+  - SVN/Git/etc.
 
 ##### Preferably
 

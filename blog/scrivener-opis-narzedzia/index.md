@@ -1,10 +1,10 @@
 ---
 title: "Scrivener - opis narzędzia"
 date: "2015-11-03"
-categories: 
+categories:
   - "narzedzia"
   - "warsztat"
-tags: 
+tags:
   - "aplikacje"
   - "technologie"
 coverImage: "scrivener.jpg"
@@ -40,9 +40,9 @@ Scrivener pozwala zaplanować dokument, dzieląc go na dowolną ilość mniejszy
 
 Podstawowym narzędziem jest znajdujący się po lewej stronie okienka skoroszyt (ang. binder). Służy on do nawigacji pomiędzy fragmentami tekstu, notatkami, materiałami, grafikami i wszystkim co uznaliśmy za potrzebne jako część projektu.
 
-\[caption id="attachment\_3445" align="aligncenter" width="300"\]![scrivener-binder](images/scrivener-binder.jpg) Scrivener - skoroszyt\[/caption\]
+\[caption id="attachment_3445" align="aligncenter" width="300"\]![scrivener-binder](images/scrivener-binder.jpg) Scrivener - skoroszyt\[/caption\]
 
- 
+
 
 **Raz podzielony dokument możemy dowolnie modyfikować edytując poszczególny fragment (w tym trybie każdy kawałek otwierany jako mały, osobny dokument), cały dokument (wtedy wygląda to bardzo podobnie jak w Wordzie) lub zmieniając jego układ przeciągając i upuszczając gotowe fragmenty.**
 
@@ -52,15 +52,15 @@ Klasyczny edytor (np. Word) zakłada, że długi dokument będziemy pisać tak s
 
 Widok klasyczny nie odbiega od tego, do czego przyzwyczaiły nas inne edytory. Osoba, która lubi “wyrzucić” z siebie ciurkiem pierwszą wersję tekstu, a potem ją szlifować i zmieniać zacznie zapewne od niego.
 
-\[caption id="attachment\_3447" align="alignnone" width="1055"\]![Scrivener - widok klasyczny](images/scrivener_classic.jpg) Scrivener - widok klasyczny\[/caption\]
+\[caption id="attachment_3447" align="alignnone" width="1055"\]![Scrivener - widok klasyczny](images/scrivener_classic.jpg) Scrivener - widok klasyczny\[/caption\]
 
 **Dla kogoś, kto lubi planować, bardziej przydatny będzie widok tablicy korkowej (ang. corkboard). Możemy do niej poprzypinać wirtualne karteczki, na których w jednym, dwóch zdaniach piszemy, co będzie zawarte w danej części dokumentu. Przykładowo ten akapit mógłby na swojej “karteczce” mieć frazę “opis tablicy korkowej z przykładem”. Tak poprzypinane karteczki możemy dowolnie przesuwać, zamieniać miejscami, układać w drzewka rodzic-dziecko. Będziemy to robić tak długo, aż uzyskamy porządaną strukturę całości. Potem pozostaje jeszcze wypełnić fragmenty właściwą treścią i tekst gotowy.**
 
-\[caption id="attachment\_3450" align="alignnone" width="1055"\]![Scrivener - widok tablicy korkowej](images/scrivener_corkboard.jpg) Scrivener - widok tablicy korkowej\[/caption\]
+\[caption id="attachment_3450" align="alignnone" width="1055"\]![Scrivener - widok tablicy korkowej](images/scrivener_corkboard.jpg) Scrivener - widok tablicy korkowej\[/caption\]
 
 **Ostatni widok, zarys (ang. outliner), to świetne narzędzie do kontrolowania postępu. Mamy w nim listę naszych kawałków, każdemu możemy przypisać rolę w dokumencie oraz status (taki jak “pierwszy szkic”, “do korekty”, “do redakcji”, “gotowy” itp.).**
 
-\[caption id="attachment\_3451" align="alignnone" width="1055"\]![Scrivener - widok zarysu](images/scrivener_outline.jpg) Scrivener - widok zarysu\[/caption\]
+\[caption id="attachment_3451" align="alignnone" width="1055"\]![Scrivener - widok zarysu](images/scrivener_outline.jpg) Scrivener - widok zarysu\[/caption\]
 
 **Widok możemy zmienić w każdej chwili, wystarczy jedno kliknięcie. Zmieniliśmy strukturę korzystając z tablicy korkowej i chcemy zobaczyć jak będzie się prezentował sam tekst? Nie ma sprawy - przechodzimy do widoku klasycznego i przewijając w górę i w dół widzimy nowy układ. Dodaliśmy w edytorze kilkanaście akapitów, które wcześniej nie były planowane i chcemy widzieć jak wpasowują się w całość? Przechodzimy do widoku zarysu i widzimy ich umiejscowienie i aktualny status.**
 

@@ -1,10 +1,10 @@
 ---
 title: "Write the Docs Vilnius 2019 już wkrótce"
 date: "2019-05-21"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "edukacja"
   - "kariera"
   - "konferencje"

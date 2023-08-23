@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical Writer"
 date: "2015-02-03"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "Smart4Aviation-e1422947686361.png"

@@ -1,10 +1,10 @@
 ---
 title: "Word - podstawy - przekaż dalej!"
 date: "2014-04-11"
-categories: 
+categories:
   - "dobre-praktyki"
   - "warsztat"
-tags: 
+tags:
   - "humor"
   - "praca"
 coverImage: "word.jpg"

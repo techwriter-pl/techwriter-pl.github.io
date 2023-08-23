@@ -1,10 +1,10 @@
 ---
 title: "Konferencja reQuest - szczegóły"
 date: "2019-05-29"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "konferencje"
 coverImage: "logo_request.png"
 ---

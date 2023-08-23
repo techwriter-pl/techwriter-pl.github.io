@@ -1,10 +1,10 @@
 ---
 title: "Langłydż - part fajf"
 date: "2014-02-14"
-categories: 
+categories:
   - "warsztat"
   - "z-przymruzeniem-oka"
-tags: 
+tags:
   - "humor"
   - "jezyk"
 coverImage: "Lesson5.jpg"

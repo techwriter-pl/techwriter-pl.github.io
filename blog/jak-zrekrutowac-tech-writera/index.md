@@ -1,10 +1,10 @@
 ---
 title: "Jak zrekrutować Tech Writera?"
 date: "2014-12-16"
-categories: 
+categories:
   - "dobre-praktyki"
   - "warsztat"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "job-interview-156130_640-e1418596269464.png"

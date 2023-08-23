@@ -1,10 +1,10 @@
 ---
 title: "Konferencja soap! w Krakowie - zapisy ruszyły!"
 date: "2014-08-12"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "konferencje"
 coverImage: "soap.jpg"
 ---

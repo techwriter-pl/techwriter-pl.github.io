@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical Writer (Handsontable) - Gdynia/zdalnie"
 date: "2021-01-26"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "Oferta_handsontable.png"
@@ -21,72 +21,43 @@ Handsoncode is a vendor of developer tools. Our data grid component called Hands
 ##### What you will be doing
 
 - Identifying and resolving areas to improve in customer-facing software documentation, developer guides, and API reference
-    
 - Supervising any technical writing done by team members
-    
 - Writing “How To” tutorials for developers
-    
 - Writing blog posts about technical concepts of Handsontable
-    
 - Writing announcements for the latest versions of the products
-    
 - Contributing to the internal Handbook
-    
 - Defining the Process Guide for creating and versioning the technical documentation
-    
 - Defining the Style Guide for product and code documentation
-    
 
 ##### What we expect from you to have
 
 - 2+ years of experience in planning, writing, and maintaining technical documentation
-    
 - Excellent written and spoken communication in English (native or C1)
-    
 - Familiar with collaborative writing tools for software documentation
-    
 - Team player with strong communication skills
-    
 - Highly organized, productive and trustworthy
-    
 - Full or partial working hours overlap with CET timezone
-    
 
 ##### Nice to have
 
 - Familiarity with JavaScript, HTML5, and CSS3, with a good understanding of web development standards
-    
 - Experience in Git and Markdown
-    
 - Experience in open-source projects
-    
 - Experience in developer advocacy or developer evangelism
-    
 
 ##### What we can offer
 
 - Competitive salary: 50-105/h PLN net B2B or 6200-13000 PLN/month gross permanent (UOP)
-    
 - Flexible working hours and time-off
-    
 - Stationary (Gdynia) or Remote
-    
 - Open and inspiring atmosphere
-    
 - Parental leave
-    
 - Multisport card
-    
 - Private medical care
-    
 - Extended life insurance
-    
 - When working at the office: break room, free snacks, and beverages, team lunches on Thursdays
-    
 - IT equipment of your choice
-    
 - Work in an open environment with a unique culture
-    
 
 All applicants will be considered without regard to race, color, national origin, religion, sexual orientation, sex, age, marital or parental status, disability, veteran status, gender identity, or expression.
 

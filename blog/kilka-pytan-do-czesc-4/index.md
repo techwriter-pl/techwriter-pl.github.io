@@ -1,10 +1,10 @@
 ---
 title: "Kilka pytań do - część 4"
 date: "2015-03-31"
-categories: 
+categories:
   - "warsztat"
   - "wywiady"
-tags: 
+tags:
   - "spolecznosc"
   - "wywiad"
 coverImage: "1981-IBM-PC5150_a-e1425884892248.jpg"

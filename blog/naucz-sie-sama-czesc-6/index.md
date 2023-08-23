@@ -1,11 +1,11 @@
 ---
 title: "Naucz się sam(a) - część 6"
 date: "2015-11-17"
-categories: 
+categories:
   - "dobre-praktyki"
   - "przyklady"
   - "warsztat"
-tags: 
+tags:
   - "edukacja"
   - "kariera"
   - "literatura"

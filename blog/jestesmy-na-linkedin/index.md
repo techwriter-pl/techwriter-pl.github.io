@@ -1,10 +1,10 @@
 ---
 title: "Jesteśmy na LinkedIn!"
 date: "2020-01-15"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "spolecznosc"
 coverImage: "LinkedIn.jpg"
 ---

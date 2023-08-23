@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical Documentation Specialist"
 date: "2016-12-20"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "Pegasystems_logo-e1474374110381.png"

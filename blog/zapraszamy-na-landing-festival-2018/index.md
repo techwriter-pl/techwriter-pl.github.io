@@ -1,10 +1,10 @@
 ---
 title: "Zapraszamy na Landing Festival 2018!"
 date: "2018-02-06"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "edukacja"
   - "kariera"
   - "konferencje"
@@ -48,6 +48,6 @@ Top Talent Grant to ciekawa inicjatywa towarzysząca festiwalowi, mająca na cel
 
 Chcecie się dowiedzieć jak pracowali oraz bawili się uczestnicy zeszłorocznej edycji Landing Festival? Wszelkie detale znajdziecie [tutaj](https://landingfestival.com/berlin/previous-editions) - zachęcamy do obejrzenia krótkiego filmu relacjonującego wydarzenie.
 
- 
+
 
 W imieniu organizatorów serdecznie zapraszamy do wzięcia udziału w Landing Festival.

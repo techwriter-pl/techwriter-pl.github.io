@@ -1,11 +1,11 @@
 ---
 title: "Data journalism - zawód przyszłości?"
 date: "2014-09-30"
-categories: 
+categories:
   - "news"
   - "z-kraju"
   - "ze-swiata"
-tags: 
+tags:
   - "infografiki"
   - "kariera"
 coverImage: "data.png"
@@ -35,7 +35,7 @@ Prezentacji wprowadzającej:
 
 **[ODC BarCamp 2013 - Introduction to Data Journalism](https://www.slideshare.net/opendevcam/odc-barcamp-2013-introduction-to-data-journalism "ODC BarCamp 2013 - Introduction to Data Journalism")** from **[Open Development Cambodia](http://www.slideshare.net/opendevcam)**
 
- 
+
 
 Prezentacji praktycznej:
 
@@ -43,14 +43,14 @@ Prezentacji praktycznej:
 
 **[Data Journalism](https://www.slideshare.net/m.lewis/data-journalism-8795039 "Data Journalism")** from **[Mitzi Lewis](http://www.slideshare.net/m.lewis)**
 
- 
+
 
 A teraz, skoro rozpoczęliśmy cytatem to i cytatem zakończmy:
 
 > “In God we trust; all others bring data.”
-> 
+>
 > ― [W. Edwards Deming](http://en.wikipedia.org/wiki/W._Edwards_Deming)
 
- 
+
 
 ... podając jeszcze na dokładkę jedyne chyba polskojezyczne źródło wiedzy na ten temat - [datablog.pl](http://datablog.pl/). Lubimy to!

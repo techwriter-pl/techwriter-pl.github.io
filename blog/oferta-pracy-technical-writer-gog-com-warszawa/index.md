@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical Writer (GOG.com) - Warszawa"
 date: "2019-08-30"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "GOG.com_logo-e1567154768904.jpg"

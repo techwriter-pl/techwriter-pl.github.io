@@ -1,10 +1,10 @@
 ---
 title: "Dołącz do grupy i twórz dokumentację na FB!"
 date: "2016-12-15"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "praca"
   - "spolecznosc"
 coverImage: "Facebook.jpg"

@@ -1,10 +1,10 @@
 ---
 title: "Technical writer w dobrej formie"
 date: "2015-06-23"
-categories: 
+categories:
   - "dobre-praktyki"
   - "warsztat"
-tags: 
+tags:
   - "edukacja"
   - "jezyk"
 coverImage: "rece.jpg"

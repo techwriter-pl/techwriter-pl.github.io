@@ -1,11 +1,11 @@
 ---
 title: "Za co tłumacze lubią autorów - internacjonalizacja"
 date: "2018-07-02"
-categories: 
+categories:
   - "dobre-praktyki"
   - "przyklady"
   - "warsztat"
-tags: 
+tags:
   - "instrukcje"
   - "jezyk"
   - "manuale"

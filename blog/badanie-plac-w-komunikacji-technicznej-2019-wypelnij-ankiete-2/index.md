@@ -1,10 +1,10 @@
 ---
 title: "Badanie płac w komunikacji technicznej 2019 - wypełnij ankietę!"
 date: "2019-03-11"
-categories: 
+categories:
   - "badanie-plac"
   - "praca"
-tags: 
+tags:
   - "ankieta"
   - "kariera"
   - "praca"
@@ -46,6 +46,6 @@ Na odpowiedzi czekamy do 15 kwietnia 2019 roku.
 
 Po zakończeniu badania, wyniki opublikujemy na techwriter.pl.
 
- 
+
 
 _Grafika pochodzi z serwisu [Vecteezy](https://vecteezy.com/)_

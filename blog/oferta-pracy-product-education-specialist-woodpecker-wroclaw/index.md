@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Product Education Specialist (Woodpecker) – Wrocław"
 date: "2021-06-17"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "Woodpecker_logo.jpg"
@@ -18,7 +18,7 @@ https://youtu.be/lX7XFIV98bk
 
 Zachęcamy do wykonania zadania, nawet jeśli nie planujecie przenosin do Wrocławia :)
 
-* * *
+---
 
 ## Product Education Specialist
 
@@ -29,9 +29,9 @@ Twoim głównym zadaniem będzie rozwijanie naszej [bazy wiedzy](https://help.wo
 **Główne zadania**
 
 - Edukacja klientów na temat naszego produktu i jego feature’ów:
-    - Tworzenie instrukcji (również wideo) tłumaczących działanie naszej platformy
-    - Budowanie bazy wiedzy z zakresu naszego produktu
-    - Proaktywna komunikacja informująca klientów o zmianach w produkcie
+  - Tworzenie instrukcji (również wideo) tłumaczących działanie naszej platformy
+  - Budowanie bazy wiedzy z zakresu naszego produktu
+  - Proaktywna komunikacja informująca klientów o zmianach w produkcie
 - Śledzenie zmian w aplikacji i bieżące zapoznawanie się z nowymi funkcjami
 - Monitorowanie pytań klientów i rozwijanie sekcji FAQ na podstawie tych najczęściej zadawanych
 - Współpraca zespołem produktowym w zakresie zbierania szczegółowych informacji na temat nowych feature’ów, update’ów produktowych i marketingowym w zakresie zachowania spójności i tonu komunikacji
@@ -73,6 +73,6 @@ Wyślij do nas swoje CV oraz dołącz krótki artykuł lub w film instruktażowy
 - jak wyłączyć automatyczne odtwarzanie filmu w menu na Netflixie,
 - lub jak usunąć utwór z kolejki na Spotify.
 
-* * *
+---
 
 Powodzenia!

@@ -1,10 +1,10 @@
 ---
 title: "MeetContent Kraków powraca!"
 date: "2023-04-24"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "meetcontent"
   - "spolecznosc"
 coverImage: "MeetContentKRK_maj.png"

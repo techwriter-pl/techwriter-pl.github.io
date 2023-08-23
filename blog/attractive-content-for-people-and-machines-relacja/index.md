@@ -1,10 +1,10 @@
 ---
 title: "Attractive Content for People and Machines - relacja"
 date: "2014-03-27"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "webinarium"
   - "zarzadzanie-trescia"
 coverImage: "attractive_content.jpg"

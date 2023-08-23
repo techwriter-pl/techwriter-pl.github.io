@@ -1,11 +1,11 @@
 ---
 title: "Konferencje 2014 - pierwsze półrocze"
 date: "2014-01-14"
-categories: 
+categories:
   - "news"
   - "z-kraju"
   - "ze-swiata"
-tags: 
+tags:
   - "konferencje"
 coverImage: "konferencja.jpg"
 ---

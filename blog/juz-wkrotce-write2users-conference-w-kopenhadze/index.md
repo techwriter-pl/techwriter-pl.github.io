@@ -1,10 +1,10 @@
 ---
 title: "Już wkrótce Write2Users Conference w Kopenhadze"
 date: "2017-10-27"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "edukacja"
   - "konferencje"
   - "lokalizacja"

@@ -1,10 +1,10 @@
 ---
 title: "Przyszłość komunikacji technicznej?"
 date: "2013-11-08"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "konferencje"
   - "lokalizacja"
   - "technologie"

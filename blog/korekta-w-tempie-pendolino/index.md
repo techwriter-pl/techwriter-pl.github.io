@@ -1,10 +1,10 @@
 ---
 title: "Korekta w tempie Pendolino"
 date: "2014-10-24"
-categories: 
+categories:
   - "dobre-praktyki"
   - "warsztat"
-tags: 
+tags:
   - "instrukcje"
   - "manuale"
   - "pomoc-uzytkownika"
@@ -25,7 +25,7 @@ Nigdy nie używajmy form skróconych, takich jak _can't_ czy _we're_. Prostym sp
 
 ## Krok 3 - ryciny, tabelki i nagłówki
 
-Spójność to rzecz kluczowa jeśli chodzi o ryciny, tabelki i nagłówki. Zawsze trzymajmy się [podręcznika stylu]( http://techwriter.pl/podrecznik-stylu-stylrecznik/) używanego w naszej firmie. Dobrze byłoby sprawdzić całą treść pod kątem spójności, ale w związku z małą ilością czasu skupmy się tyko na wspomnianych wyżej elementach.
+Spójność to rzecz kluczowa jeśli chodzi o ryciny, tabelki i nagłówki. Zawsze trzymajmy się [podręcznika stylu](http://techwriter.pl/podrecznik-stylu-stylrecznik/) używanego w naszej firmie. Dobrze byłoby sprawdzić całą treść pod kątem spójności, ale w związku z małą ilością czasu skupmy się tyko na wspomnianych wyżej elementach.
 
 Te krótkie i proste zasady to tylko niewielka część procesu korekty, który jest bardzo czasochłonny. Jednak w sytuacjach kiedy grafik jest napięty pozwolą nam przynajmniej uniknąć tych najbardziej oczywistych i żenujących błędów.
 

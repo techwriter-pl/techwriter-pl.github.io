@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical Writer (Acunetix) - Malta!"
 date: "2020-01-12"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "Malta.jpg"

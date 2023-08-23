@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical Writer (Akamai) – Kraków"
 date: "2020-03-25"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "Akamai_logo_big.jpg"
@@ -23,7 +23,7 @@ Może być fajnie ;)
 
 https://youtu.be/RcTkSdsNF5k
 
-* * *
+---
 
 # Technical Writer
 
@@ -85,6 +85,6 @@ Our Technical Writers work tightly with product managers and developers; they ha
 
 •Experience in graphical design and UX
 
-* * *
+---
 
 Powodzenia!

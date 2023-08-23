@@ -1,10 +1,10 @@
 ---
 title: "Diabeł tkwi w szczegółach"
 date: "2014-12-30"
-categories: 
+categories:
   - "dobre-praktyki"
   - "warsztat"
-tags: 
+tags:
   - "edukacja"
   - "jezyk"
 coverImage: "annoying-474143_640-e1419883586267.png"

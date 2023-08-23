@@ -1,10 +1,10 @@
 ---
 title: "tekom Polska - zaproszenie na spotkanie"
 date: "2015-11-20"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "konferencje"
   - "spolecznosc"
 coverImage: "tekom_polska-e1447880213134.png"

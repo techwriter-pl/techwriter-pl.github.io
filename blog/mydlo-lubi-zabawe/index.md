@@ -1,10 +1,10 @@
 ---
 title: "Mydło lubi zabawę"
 date: "2014-10-07"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "konferencje"
   - "spolecznosc"
 coverImage: "soap.jpg"

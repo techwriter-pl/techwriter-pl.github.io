@@ -1,13 +1,13 @@
 ---
 title: "Ilustracje i wideo w dokumentacji technicznej"
 date: "2021-07-22"
-categories: 
+categories:
   - "news"
   - "bez-kategorii"
   - "dobre-praktyki"
   - "przyklady"
   - "warsztat"
-tags: 
+tags:
   - "dokumentacja"
   - "manuale"
   - "uzytecznosc"
@@ -73,7 +73,7 @@ Istnieją trzy główne kategorie ilustracji technicznych w zależności od ich 
 
 [![](images/fabbf5049c47bd2b63ade46edba908a4-300x267.jpg)](http://techwriter.pl/wp-content/uploads/2021/07/fabbf5049c47bd2b63ade46edba908a4.jpg)
 
-_Przykład__: Wektorowy rysunek pralki_
+_Przykład\_\_: Wektorowy rysunek pralki_
 
 - **ilustracje specjalistyczne** -  przeznaczone dla inżynierów lub osób, które specjalizują się w danym zakresie. Ilustracje specjalistyczne zawierają zazwyczaj złożoną terminologię i symbole zrozumiałe dla danej grupy odbiorców.
 
@@ -99,7 +99,7 @@ _Przykład: Rysunek przedstawiający składane łóżko_
 
 [![](images/a1b6228b66455d07788635408aa28b94-e1626290775276-300x210.jpg)](http://techwriter.pl/wp-content/uploads/2021/07/a1b6228b66455d07788635408aa28b94.jpg)
 
-_Przykład: Rysunek przedstawiający widok poszczególnych części_ 
+_Przykład: Rysunek przedstawiający widok poszczególnych części_
 
 - **rysunki wycinkowe** - grafiki 3D, rysunki, schematy lub ilustracje, w których elementy powierzchniowe modelu trójwymiarowego są selektywnie usuwane, aby uwidocznić cechy wewnętrzne
 
@@ -137,7 +137,7 @@ Wyzwaniem jest uchwycenie cech charakterystycznych danego obiektu, ale dla dośw
 
 - jeżeli chcemy ułatwić zrozumienie naszej wizualizacji, musimy dodać do niej adekwatny podpis (obrazy zwiększają rozumienie tekstu tylko, jeśli się do niego odnoszą),
 - ilustracje nie mogą być zbyt szczegółowe, powinny zwracać uwagę na najważniejsze elementy wyszczególnione w tekście,
-- ograniczenie  elementów_,_ które mogą rozpraszać,
+- ograniczenie  elementów*,* które mogą rozpraszać,
 - wraz ze wzrostem poziomu trudności i skomplikowania instrukcji warto rozpatrzyć stworzenie filmu instruktażowego, jak na przykład instrukcję montażu części silnika,
 - warto użyć ilustracji z odnośnikami literowymi wtedy tłumaczenie ilustracji nie będzie koniecznie,
 - opis sposobu korzystania z oprogramowania może być lepiej wyjaśniony poprzez dodanie zrzutów ekranu, co zmniejszy  ilość użytych słów.

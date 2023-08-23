@@ -1,10 +1,10 @@
 ---
 title: "Jak dostać pierwszą pracę jako Technical Writer?"
 date: "2019-03-04"
-categories: 
+categories:
   - "dobre-praktyki"
   - "warsztat"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "Job-search.png"
@@ -40,7 +40,7 @@ Podobnie jest z branżami, w których Technical Writerzy są poszukiwani – tut
 
 Przede wszystkim przygotuj swoje CV tak, aby pokazywało twoje umiejętności jako potencjalny Technical Writer. Jeśli będziesz je tworzyć w np. Wordzie, zadbaj o poprawność użycia spacji, tabulatorów i przejść do kolejnych linii wersów i sekcji. Wyrównaj wszelkie wylistowane elementy, posegreguj dobrze sekcje – słowem pochwal się, że potrafisz porządkować i przystępnie zaprezentować informacje. Potraktuj swoje CV jak [pierwszy dokument techniczny](http://techwriter.pl/cv-najwazniejszy-dokument-tech-writera/), który przygotowujesz. W większości przypadków CV wymagane jest w języku angielskim, ale wyposaż się też w wersję polską.
 
-Gdzie szukać pracy? Polecamy naszą sekcję [oferty pracy](http://techwriter.pl/category/news/oferty-pracy/), ale też całkiem sporo ciekawych ogłoszeń znajdziesz na LinkedIn lub na portalach pracy. Możesz też przeklikać się przez oferty dostępne na stronie konkretnej firmy. Słowa klucze to najczęściej: _t__echnical writer_, _technical documentation specialist, technical content developer_ i – w naszym rodzimym języku – _specjalista ds. dokumentacji technicznej_.
+Gdzie szukać pracy? Polecamy naszą sekcję [oferty pracy](http://techwriter.pl/category/news/oferty-pracy/), ale też całkiem sporo ciekawych ogłoszeń znajdziesz na LinkedIn lub na portalach pracy. Możesz też przeklikać się przez oferty dostępne na stronie konkretnej firmy. Słowa klucze to najczęściej: _t\_\_echnical writer_, _technical documentation specialist, technical content developer_ i – w naszym rodzimym języku – _specjalista ds. dokumentacji technicznej_.
 
 Jeżeli stawiasz pierwsze kroki w komunikacji technicznej, pewnie będziesz się rozglądać za stanowiskami posiadającymi w tytule przydomek „junior”, lecz nie ograniczaj się. Znamy wiele przypadków, w których osoba bez żadnego doświadczenia dostawała pracę niezależnie od tego, czy firma poszukiwała kogoś doświadczonego czy nie. Jeżeli się dobrze zaprezentujesz, sukces masz murowany tak czy siak. Tylko właśnie, tutaj rodzi się pytanie: Jak dobrze wypaść na rozmowie?
 
@@ -72,7 +72,7 @@ W kwestii finansów, na pewno pomocne będą [wyniki badania płac w komunikacji
 
 Jeśli czujesz, że artykuł pozostawia jakieś niewyjaśnione kwestie – pisz śmiało w komentarzu poniżej.
 
- 
+
 
 _Grafika pochodzi z serwisu [Vecteezy](https://vecteezy.com/)_
 

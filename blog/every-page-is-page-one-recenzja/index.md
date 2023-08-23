@@ -1,10 +1,10 @@
 ---
 title: "Every Page is Page One - recenzja niepoprawnie pozytywna"
 date: "2017-08-16"
-categories: 
+categories:
   - "biblioteczka-techwritera"
   - "warsztat"
-tags: 
+tags:
   - "literatura"
   - "materialy-szkoleniowe"
   - "recenzja"

@@ -1,10 +1,10 @@
 ---
 title: "Studia dla tech writerów - aktualizacja"
 date: "2018-09-12"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "kariera"
   - "studia"
 coverImage: "VistulaKomunikacjaTechniczna-1-e1563346376984.jpg"

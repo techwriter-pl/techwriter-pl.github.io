@@ -1,7 +1,7 @@
 ---
 title: "Techwriter.pl na plus. Google plus."
 date: "2014-10-14"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
 coverImage: "googleplus.png"

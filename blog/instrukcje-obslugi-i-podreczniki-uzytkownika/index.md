@@ -1,10 +1,10 @@
 ---
 title: "Instrukcje obsługi i podręczniki użytkownika"
 date: "2013-10-24"
-categories: 
+categories:
   - "przyklady"
   - "warsztat"
-tags: 
+tags:
   - "instrukcje"
   - "manuale"
   - "praca"
@@ -28,4 +28,4 @@ Jak widać, znalezienie polskich odpowiedników dla niektórych typów dokumenta
 
 Jak wygląda tego typu dokumentacja z punktu widzenia użytkownika? Zazwyczaj jest to książka - ze stroną tytułową, spisem treści, skorowidzem (index), podzielona na rozdziały wypełnione tekstem, rysunkami i tabelami. Dostarczamy ją w formie papierowej, lub elektronicznej (np. plik PDF). Więcej informacji na temat tego co powinno się znaleźć w instrukcji użytkownika znajdziecie między innymi [tutaj](http://www.prismnet.com/~hcexres/textbook/user_guides.html).
 
-A w [tym miejscu](   http://imgrin.pl/meme/4492#.UmTww6BM_1w.link) świetny przykład jak nie robić instrukcji obsługi :).
+A w [tym miejscu](http://imgrin.pl/meme/4492#.UmTww6BM_1w.link) świetny przykład jak nie robić instrukcji obsługi :).

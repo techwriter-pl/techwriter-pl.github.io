@@ -1,10 +1,10 @@
 ---
 title: "OFERTA PRACY: Technical Writer (Fudo Security) – HYBRYDOWA (Warszawa)"
 date: "2022-11-07"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "dokumentacja"
   - "kariera"
   - "praca"
@@ -19,7 +19,7 @@ Firma Fudo Security poszukuje osoby na stanowisko Technical Writer. Oferta jest 
 
 Osoby zainteresowane mogą aplikować poprzez ten [formularz](https://nofluffjobs.com/pl/job/ZMF369NZ) lub drogą mailową na [hr@fudosecurity.com](mailto:hr@fudosecurity.com).
 
-* * *
+---
 
 ## **Technical Writer**
 
@@ -76,6 +76,6 @@ Przesłanie dokumentów aplikacyjnych z danymi osobowymi oznacza wyrażenie zgod
 
 Kandydatowi przysługuje prawo do żądania od administratora danych osobowych dostępu do danych osobowych dotyczących swojej osoby, ich sprostowania, usunięcia lub ograniczenia przetwarzania a także prawo do przenoszenia danych. Kandydatowi przysługuje również prawo do wniesienia skargi do organu nadzorczego – Prezesa Urzędu Ochrony Danych Osobowych.
 
-* * *
+---
 
 Powodzenia!

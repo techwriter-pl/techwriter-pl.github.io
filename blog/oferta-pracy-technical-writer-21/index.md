@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical Writer"
 date: "2017-01-31"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "logoTechland_czerwone-e1485850377579.png"

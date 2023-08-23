@@ -1,10 +1,10 @@
 ---
 title: "Konferencje 2016 - drugie półrocze"
 date: "2016-05-09"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "konferencje"
   - "spolecznosc"
 coverImage: "luggage-1032998_640-2.jpg"
@@ -14,7 +14,7 @@ Wkrótce kolejne półrocze 2016 roku zatem nadszedł czas, by przedstawić Wam 
 
 Jednocześnie przypominamy o możliwości zapisu na niektóre [konferencje z pierwszej połowy roku](http://techwriter.pl/konferencje-2016-pierwsze-polrocze/). Czerwiec blisko, więc czasu już nie ma zbyt wiele.
 
- 
+
 
 ## Lipiec
 

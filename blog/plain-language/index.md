@@ -1,10 +1,10 @@
 ---
 title: "Plain language"
 date: "2015-12-15"
-categories: 
+categories:
   - "dobre-praktyki"
   - "warsztat"
-tags: 
+tags:
   - "jezyk"
 coverImage: "pl.jpg"
 ---
@@ -24,7 +24,7 @@ Poznaj czytelnika a treść będzie uszyta, a raczej napisana na jego miarę. Ty
 ### **Pisz tak, by treść łatwo było przyswoić**
 
 > **_Any word you have to hunt for in a thesaurus is the wrong word. There are no exceptions to this rule.\*_**
-> 
+>
 > \*Stephen King, _"Everything You Need to Know About Writing Successfully - in Ten Minutes", 1988_
 
 Dzisiejszy świat jest w ciągłym ruchu. Ludzie cały czas gdzieś się spieszą zazwyczaj robiąc kilka rzeczy na raz. Dzięki stale towarzyszącym im tabletom, smartfonom i laptopom konsumują treść non-stop - w domu, w biurze, w kawiarni, w środkach komunikacji. Informacja ma być dostarczona tu i teraz, bez względu na warunki. Prędzej czy później, także Twoje dokumenty trafią “w teren”. Weź więc pod uwagę, że często tekst jest jedynie skanowany wzrokiem, staraj się zatem by był on jak najbardziej przejrzysty, a zdania krótkie i treściwe. Tu z pomocą może nam przyjść plain language:
@@ -37,7 +37,7 @@ Dzisiejszy świat jest w ciągłym ruchu. Ludzie cały czas gdzieś się spiesz�
 - W miarę możliwości zwracaj się wprost do odbiorcy, zwłaszcza w sytuacji gdy ma on wykonywać Twoje polecenia. Instrukcja "zaloguj się by sprawdzić wiadomości" jest krótka, treściwa, nie pozostawia wątpliwości do kogo jest skierowana.
 - Ogranicz używanie [skrótowców](https://pl.wikipedia.org/wiki/Skr%C3%B3towiec "Skrótowce"), zaś te które muszą się w tekście pojawić zdefiniuj (np. rozwijając w pełną nazwę przy pierwszym wystąpieniu). Nie popadaj jednak w przesadę, skrótów takich jak PO, PiS czy BMW raczej nie trzeba objaśniać.
 - Używaj określeń i terminów w sposób spójny. Jeśli powiążesz konkretną frazę z jakimś zjawiskiem lub problemem, używaj jej potem konsekwentnie. Przykładowo, jeśli zwrócisz się z konkretną instrukcją do Technical Writerów, nie nazywaj ich potem pisarzami, dokumentalistami, specjalistami od dokumentacji itp. Ktoś mniej zorientowany lub czytający pobieżnie może się w pewnym momencie pogubić i zastanawiać, czy np. każdy Technical Writer to pisarz albo czy jak on sam napisał w liceum wiersz dla koleżanki to jego też dotyczą polecenia ;-)
-- Zachowaj hierarchię treści. Najpierw opisz mechanizmy ogólne, potem ewentualnie wyszczególnij jakieś wyjątki. Pamiętaj to _wyjątek potwierdza regułę_ - nigdy na odwrót!
+- Zachowaj hierarchię treści. Najpierw opisz mechanizmy ogólne, potem ewentualnie wyszczególnij jakieś wyjątki. Pamiętaj to *wyjątek potwierdza regułę* - nigdy na odwrót!
 - Nie używaj wyjątków od wyjątków. Gwarantujemy, że czytelnik się pogubi, jeżeli każesz mu zastosować się do następującej instrukcji:
 - _Należy wypełnić formularz B1, chyba że w zeszłym roku przebywało się w delegacji, wtedy należy wypełnić B2 o ile delegacja nie była dłuższa niż 3 miesiące, w przeciwnej sytuacji należy wypełnić druk B3_
 - Stosując proponowane reguły otrzymujemy jednoznaczne instrukcje

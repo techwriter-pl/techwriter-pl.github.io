@@ -1,7 +1,7 @@
 ---
 title: "Oferta pracy: Senior Technical Author (3di) – Kraków/zdalnie"
 date: "2021-05-10"
-categories: 
+categories:
   - "oferty-pracy"
 coverImage: "3di_logo.png"
 ---
@@ -10,7 +10,7 @@ Ciekawa oferta dla doświadczonej osoby z potencjałem na lidera. Ładne biuro w
 
 Firmę [3di](https://3di-info.com/) znamy i polecamy od lat. Poznacie tam ciekawych ludzi z branży i nauczycie się fachu, praktycznie od każdej strony. Prowadzą też wartościowego [bloga](https://3di-info.com/blog/). Tym razem poszukują doświadczonego technical writera, który zajmie się tworzeniem dokumentacji do oprogramowania (software). Oferta poniżej, znajdziecie ją również [na stronie firmy](https://3di-info.com/technical-writer-krakow-ta01/), wraz z informacją na temat sposobu aplikowania.
 
-* * *
+---
 
 Do you thrive on getting under the skin of problems? Do you thrive on working with your team to solve problems? Maybe 3di is the place for you.
 
@@ -78,6 +78,6 @@ To apply please send your CV and a covering letter explaining why you will thriv
 
 Applicants are being reviewed and contacted as and when their applications are received. Applicants must be eligible to work in Poland. Due to funding restrictions, we are unable to sponsor visa applications.
 
-* * *
+---
 
 Powodzenia!

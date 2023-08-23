@@ -1,10 +1,10 @@
 ---
 title: "Dokumentacja - jak to się je?"
 date: "2020-10-21"
-categories: 
+categories:
   - "dobre-praktyki"
   - "warsztat"
-tags: 
+tags:
   - "dokumentacja"
 coverImage: "dokumentacja_goscinny.png"
 ---
@@ -237,4 +237,4 @@ Na koniec, chciałbym polecić trzy książki, z których korzystałem przy pisa
 
 - _The Complete Idiot's Guide to Technical Writing_, Krista Van Laan & Catherine Julian, “Alpha Books”, 2001. Tą książkę polecam najbardziej, jeśli ktoś nie wstydzi się takiego tytułu na półce.
 - _Technical Writing for Dummies_, Sheryl Lindsell-Roberts, “Hungry Minds, Inc.”, 2001
-- _The User Manual Manual : How to Research, Write, Test, Edit & Produce a Software Manua_l, Michael Bremer, “UnTechnical Press”, 1999
+- \_The User Manual Manual : How to Research, Write, Test, Edit & Produce a Software Manua_l, Michael Bremer, “UnTechnical Press”, 1999

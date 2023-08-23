@@ -1,10 +1,10 @@
 ---
 title: "15 sposobów, by poprawić swój warsztat"
 date: "2022-10-14"
-categories: 
+categories:
   - "dobre-praktyki"
   - "warsztat"
-tags: 
+tags:
   - "dokumentacja"
   - "praktyki"
 coverImage: "15_sposobow.png"
@@ -22,12 +22,12 @@ Najprościej rzecz ujmując, zadaniem Technical Writera jest przygotowanie dokum
 
 Technical Writer pełni wiele ról, jednak biorąc pod uwagę biznesowy punkt widzenia, może on przyczynić się do sukcesu firmy poprzez poniższe działania:
 
-- Skutecznie przekazuje pomysły, obserwacje, poglądy, opinie oraz sugestie. Czyni to w sposób logiczny i zrozumiały. 
+- Skutecznie przekazuje pomysły, obserwacje, poglądy, opinie oraz sugestie. Czyni to w sposób logiczny i zrozumiały.
 - Skutecznie przekazuje informacje techniczne nietechnicznej grupie docelowej.
 - Używa wymaganych narzędzi i metod technicznych, aby dostarczyć odpowiednie treści.
 - Tworzy raporty, prezentacje i powiązane dokumenty o określonej strukturze i właściwym zestawie słownictwa.
 - Jest komunikatywny, dzięki czemu łączy interesariuszy, różnych członków zespołu, kierowników działów, itp.
-- Dzięki umiejętności obserwacji i wnioskowania umie w przystępny i zrozumiały dla laika sposób przekazać treści, które są ściśle związanie z jakimś mocno technicznym tematem. 
+- Dzięki umiejętności obserwacji i wnioskowania umie w przystępny i zrozumiały dla laika sposób przekazać treści, które są ściśle związanie z jakimś mocno technicznym tematem.
 
 To tylko kilka przykładów umiejętności i ról, jakie musi spełnić w swej pracy Technical Writer. Jeśli jesteście ciekawi co jeszcze czeka Was w tym zawodzie, zapraszam do zapoznania się z artykułem naszego redakcyjnego kolegi: [http://techwriter.pl/kapelusze-tech-writera/](http://techwriter.pl/kapelusze-tech-writera/).
 

@@ -1,10 +1,10 @@
 ---
 title: "Umiesz pisać?"
 date: "2014-12-19"
-categories: 
+categories:
   - "dobre-praktyki"
   - "warsztat"
-tags: 
+tags:
   - "edukacja"
   - "praca"
 coverImage: "superman-typing-300x225.jpg"

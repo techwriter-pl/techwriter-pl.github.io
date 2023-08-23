@@ -1,10 +1,10 @@
 ---
 title: "Tworzenie dokumentacji technicznej w środowisku Agile"
 date: "2013-10-21"
-categories: 
+categories:
   - "dobre-praktyki"
   - "warsztat"
-tags: 
+tags:
   - "agile"
   - "lokalizacja"
   - "praca"

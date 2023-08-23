@@ -1,9 +1,9 @@
 ---
 title: "Google Technical Writing Courses - nauka bez wychodzenia z domu"
 date: "2020-03-30"
-categories: 
+categories:
   - "warsztat"
-tags: 
+tags:
   - "edukacja"
   - "materialy-szkoleniowe"
   - "spolecznosc"
@@ -30,7 +30,7 @@ Poniżej przedstawiamy spis treści z zagadnieniami, jakie zostały opisane w te
 
 ![](images/Zrzut-ekranu-2020-03-26-o-09.34.20-218x300.png)
 
- 
+
 
 Zakres tematyczny kursu jest dostosowany do poziomu wiedzy grupy docelowej. Zagadnienia są jasno wyjaśnione, bez nadmiernego wchodzenia w szczegóły. Część omawianych tematów jest opcjonalna, więc kursant sam decyduje czego chce się nauczyć.
 

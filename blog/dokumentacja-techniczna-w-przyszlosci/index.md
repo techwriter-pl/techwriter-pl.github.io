@@ -1,11 +1,11 @@
 ---
 title: "Dokumentacja techniczna w przyszłości"
 date: "2014-02-06"
-categories: 
+categories:
   - "news"
   - "z-kraju"
   - "ze-swiata"
-tags: 
+tags:
   - "kariera"
 coverImage: "typewriter.jpg"
 ---

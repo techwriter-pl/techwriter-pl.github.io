@@ -1,10 +1,10 @@
 ---
 title: "Technical Writing w polskim wydaniu"
 date: "2015-04-15"
-categories: 
+categories:
   - "biblioteczka-techwritera"
   - "warsztat"
-tags: 
+tags:
   - "edukacja"
   - "kariera"
   - "literatura"

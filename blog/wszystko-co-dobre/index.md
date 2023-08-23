@@ -1,11 +1,11 @@
 ---
 title: "Wszystko co dobre..."
 date: "2014-04-01"
-categories: 
+categories:
   - "news"
   - "z-kraju"
   - "z-przymruzeniem-oka"
-tags: 
+tags:
   - "humor"
   - "kariera"
 coverImage: "koniec.jpg"
@@ -17,7 +17,7 @@ Techwriter.pl powstał ponad pół roku temu i przez cały ten czas dawał nam (
 
 Z tym większym żalem podjęliśmy decyzję o zaprzestaniu działalności :(.
 
- 
+
 
 Niestety, tworzenie nowych, wartościowych artykułów zajmuje czas, którego mamy coraz mniej i mniej. A w niedalekiej przyszłości nie będziemy mieć go w ogóle. Trochę dlatego, że padliśmy ofiarą popularności naszej strony. Mówiąc wprost - cała redakcja techwiter.pl otrzymała ofertę pracy nad bardzo ciekawym i lukratywnym projektem i mamy zamiar tę ofertę przyjąć. Pewne okazje pojawiają się tylko raz w życiu, sami wiecie jak to jest.
 

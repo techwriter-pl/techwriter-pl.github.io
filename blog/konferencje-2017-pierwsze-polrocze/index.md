@@ -1,11 +1,11 @@
 ---
 title: "Konferencje 2017 - pierwsze półrocze"
 date: "2017-01-05"
-categories: 
+categories:
   - "news"
   - "z-kraju"
   - "ze-swiata"
-tags: 
+tags:
   - "konferencje"
 coverImage: "international-conference-1597531_640-e1483372091957.jpg"
 ---

@@ -1,13 +1,13 @@
 ---
 title: "Oferta pracy: Technical Writer (Nobl9) – Poznań"
 date: "2021-06-21"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
 coverImage: "Nobl9_logo.jpg"
 ---
 
-[Nobl9](https://nobl9.com/), amerykański startup z zespołem developerskim w Poznaniu, poszukuje Technical Writer’a. 
+[Nobl9](https://nobl9.com/), amerykański startup z zespołem developerskim w Poznaniu, poszukuje Technical Writer’a.
 
 [Nobl9](https://nobl9.com/) buduje platformę do monitorowania [#SLOs](https://www.linkedin.com/feed/hashtag/?keywords=%23SLOs) (Service Level Objectives), która pozwala łączyć metryki niezawodności systemów informatycznych z celami biznesowymi.
 
@@ -15,7 +15,7 @@ Widełki na stanowisku Technical Writer’a to 8 000 - 12 000 zł netto (B2B) lu
 
 Ofertę znajdziecie poniżej oraz [pod tym adresem](https://grnh.se/5265c9c93us). W tym samym miejscu znajdują się magiczne przyciski „Apply Now” oraz „Submit Application”.
 
-* * *
+---
 
 # Technical writer
 
@@ -58,6 +58,6 @@ Nobl9, the software reliability platform, is in the noble pursuit of reliable so
 
 Nobl9 is proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.
 
-* * *
+---
 
 Powodzenia!

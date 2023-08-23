@@ -1,10 +1,10 @@
 ---
 title: "Zaklinacz WordPressa"
 date: "2015-03-11"
-categories: 
+categories:
   - "narzedzia"
   - "warsztat"
-tags: 
+tags:
   - "aplikacje"
   - "manuale"
   - "on-line-help"

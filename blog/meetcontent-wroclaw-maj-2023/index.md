@@ -1,10 +1,10 @@
 ---
 title: "MEETCONTENT WROCŁAW – MAJ 2023"
 date: "2023-05-10"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "dokumentacja"
   - "lokalizacja"
   - "meetcontent"
@@ -68,6 +68,6 @@ W trakcie meetupu wylosowaliśmy również szczęśliwca, który otrzymał darmo
 
 Dziękujemy za udział i widzimy się 17 maja w Ten Square Games!
 
-* * *
+---
 
 Autorką tekstu jest zaprzyjaźniona z redakcją Monika Mrozek z MeetContentWRO.

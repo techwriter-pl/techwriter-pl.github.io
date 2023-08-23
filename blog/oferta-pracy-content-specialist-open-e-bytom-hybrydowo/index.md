@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Content Specialist (open-e) – Bytom/hybrydowo"
 date: "2021-06-10"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "open_e_logo.jpg"
@@ -18,7 +18,7 @@ Budżet: 4500- 5500 zł brutto na umowie o pracę.
 
 [Aplikować możecie w tym miejscu.](https://www.open-e.com/about-us/careers/poland/content-specialist/)
 
-* * *
+---
 
 # Content Specialist
 
@@ -28,7 +28,7 @@ Kategoria: **Marketing**
 
 Miejsce pracy: **Bytom**
 
- 
+
 
 Poszukujemy do naszego **Zespołu Marketingu** osoby, która będzie odpowiedzialna za tworzenie oraz edytowanie anglojęzycznych treści kreatywnych i technicznych między innymi na potrzeby firmowych stron internetowych, kampanii marketingowych, a także mediów społecznościowych.
 
@@ -51,6 +51,6 @@ Poszukujemy do naszego **Zespołu Marketingu** osoby, która będzie odpowiedzia
 
 **Brzmi interesująco? Daj nam się poznać i wyślij swoje CV w języku angielskim.**
 
-* * *
+---
 
 Powodzenia!

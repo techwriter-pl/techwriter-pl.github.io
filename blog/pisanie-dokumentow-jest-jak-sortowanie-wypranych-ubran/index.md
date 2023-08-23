@@ -1,10 +1,10 @@
 ---
 title: "Pisanie dokumentów jest jak sortowanie wypranych ubrań"
 date: "2015-02-10"
-categories: 
+categories:
   - "dobre-praktyki"
   - "warsztat"
-tags: 
+tags:
   - "instrukcje"
   - "manuale"
   - "pomoc-uzytkownika"

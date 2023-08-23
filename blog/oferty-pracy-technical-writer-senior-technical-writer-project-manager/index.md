@@ -1,10 +1,10 @@
 ---
 title: "[NIEAKTUALNE] Oferty pracy: Technical Writer, Senior Technical Writer, Project Manager"
 date: "2016-01-07"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "3di_logo.png"
@@ -19,11 +19,8 @@ Jeśli marzycie o karierze w technical writingu albo czujecie, że jest to dobry
 Firma prowadzi obecnie rekrutację na trzy stanowiska:
 
 - Dla osób, które chcą zacząć swoją przygodę z komunikacją techniczną, otwarta jest pozycja **Technical Writera**. [Link do ogłoszenia](http://www.3di-info.com/pk6824-techwriter/)
-    
 - Dla bardziej doświadczonych autorów przeznaczone jest stanowisko **Senior Technical Writera**. [Link do ogłoszenia](http://www.3di-info.com/pk6825-sentechwriter/)
-    
 - Dla ludzi szukających odpowiedzialności i wyzwań gratką może okazać się pozycja **Project Managera**. Co prawda to stanowisko nie jest sciśle związane z tworzeniem dokumentacji, jednak znajomość branży jest tutaj bardzo mile widziana. [Link do ogłoszenia](http://www.3di-info.com/pk6826-projmgr)
-    
 
 Aplikować można poprzez wysłanie CV i listu motywacyjnego w języku angielskim na adres: **pawel.kowaluk(at)3di-info.com**.
 

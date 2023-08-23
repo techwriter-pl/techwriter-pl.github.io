@@ -1,11 +1,11 @@
 ---
 title: "Konferencje 2020 - drugie półrocze"
 date: "2020-08-18"
-categories: 
+categories:
   - "news"
   - "z-kraju"
   - "ze-swiata"
-tags: 
+tags:
   - "kariera"
   - "konferencje"
   - "spolecznosc"

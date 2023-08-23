@@ -1,10 +1,10 @@
 ---
 title: "Techwriter Koduje - odcinek #53"
 date: "2023-05-19"
-categories: 
+categories:
   - "dobre-praktyki"
   - "warsztat"
-tags: 
+tags:
   - "dokumentacja"
   - "podcast"
 coverImage: "techwriter_koduje_53.png"
@@ -20,7 +20,7 @@ Tech Writer Koduje to w głównej mierze podcast o technicznej stronie tworzenia
 
 Autorami portalu są:
 
-- Michał Skowron - _Principal Doc Tools Developera_ (full-stack JS developer) w Guidewire Software, kocha kodowanie, automatyzację i narzędzia oraz woli inteligentne tworzenie dokumentacji od tradycyjnego pisania.
+- Michał Skowron - *Principal Doc Tools Developera* (full-stack JS developer) w Guidewire Software, kocha kodowanie, automatyzację i narzędzia oraz woli inteligentne tworzenie dokumentacji od tradycyjnego pisania.
 - Paweł Kowaluk - jest związany z branżą IT od 2008 roku, obecnie pełni stanowisko _Principal Doc Tools Developera_ (full-stack JS developer) w Guidewire Software.
 
 ### Odcinek #53

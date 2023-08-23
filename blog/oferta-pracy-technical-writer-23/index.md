@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical Writer"
 date: "2017-06-07"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "ttms_logo.png"

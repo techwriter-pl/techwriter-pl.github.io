@@ -1,10 +1,10 @@
 ---
 title: "Pierwsze spotkanie MeetContentWRO - relacja"
 date: "2017-03-24"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "edukacja"
   - "kariera"
   - "konferencje"

@@ -1,10 +1,10 @@
 ---
 title: "Konferencja MadWorld"
 date: "2016-07-14"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "edukacja"
   - "kariera"
   - "konferencje"

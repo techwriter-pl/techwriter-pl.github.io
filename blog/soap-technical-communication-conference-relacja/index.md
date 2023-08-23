@@ -1,10 +1,10 @@
 ---
 title: "soap! technical communication conference - relacja"
 date: "2013-10-06"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "konferencje"
 coverImage: "relacja.jpg"
 ---
@@ -55,6 +55,6 @@ Konferencję zamykał Eliot Kimber (Principal Solutions Architect, Contrext Solu
 
 Zdecydowanie najważniejszym plusem jest fakt, że ta inicjatywa w ogóle powstała. Jak zawsze, pojawiły się drobne niedociągnięcia organizacyjne, ale należy pamiętać, że to dopiero pierwsza edycja i w kolejnych sporo można poprawić. Być może uda się nieco wyrównać poziom prelekcji, a na pewno trzeba zadbać o lepszą widoczność prezentacji, ale nawet z tymi wadami widać, że jest to wydarzenie potrzebne. Trzymamy kciuki za kolejne edycje!
 
- 
+
 
 Tak naprawdę nie chcielibyśmy, żeby ta relacja była jedyną... Jeżeli chcecie podzielić się swoimi wrażeniami - zapraszamy do komentowania (poniżej) i mailowania (kontakt@techwriter.pl).

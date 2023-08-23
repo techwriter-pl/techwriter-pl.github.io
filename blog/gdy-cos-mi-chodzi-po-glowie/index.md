@@ -1,10 +1,10 @@
 ---
 title: "Gdy coś mi chodzi po głowie"
 date: "2016-01-26"
-categories: 
+categories:
   - "narzedzia"
   - "warsztat"
-tags: 
+tags:
   - "aplikacje"
   - "technologie"
 coverImage: "sc_mm.jpg"

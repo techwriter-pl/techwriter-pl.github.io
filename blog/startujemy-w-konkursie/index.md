@@ -1,7 +1,7 @@
 ---
 title: "Startujemy w konkursie!"
 date: "2015-02-07"
-categories: 
+categories:
   - "news"
   - "z-kraju"
 coverImage: "blogroku2014-logo2.png"

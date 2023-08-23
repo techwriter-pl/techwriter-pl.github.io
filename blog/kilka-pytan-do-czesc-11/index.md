@@ -1,10 +1,10 @@
 ---
 title: "Kilka pytań do - część 11"
 date: "2016-12-08"
-categories: 
+categories:
   - "warsztat"
   - "wywiady"
-tags: 
+tags:
   - "spolecznosc"
   - "wywiad"
 coverImage: "press-1015988_640.jpg"
@@ -80,6 +80,6 @@ It seems pretty good. There's always openings, but I don't have any exact statis
 
 It varies a lot depending on the company and your experience. For multinational companies it's much cheaper here than in Silicon Valley, other parts of the US, or London. Compared to the cost of living, the wages are much better than the local average so I'm satisfied with it.
 
- 
+
 
 W razie dodatkowych pytań możecie skontaktować się z Bradem bezpośrednio przez e-mail **[babblesmith@gmail.com](mailto:babblesmith@gmail.com)**. Jeśli macie ochotę podzielić się swoimi doświadczeniami, nie zwlekajcie dłużej tylko piszcie na **[kontakt@techwriter.pl](mailto:kontakt@techwriter.pl)**.

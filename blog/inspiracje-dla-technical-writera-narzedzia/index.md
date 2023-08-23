@@ -1,10 +1,10 @@
 ---
 title: "Inspiracje dla technical writera - narzędzia"
 date: "2021-05-21"
-categories: 
+categories:
   - "narzedzia"
   - "warsztat"
-tags: 
+tags:
   - "narzedzia"
   - "praca"
   - "technologie"

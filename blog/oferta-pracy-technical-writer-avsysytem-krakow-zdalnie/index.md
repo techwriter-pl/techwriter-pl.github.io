@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical Writer (AVSystem) – Kraków/częściowo zdalnie"
 date: "2021-10-25"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "LogoAVSystem.jpg"
@@ -16,7 +16,7 @@ Nowy tydzień zaczynamy od oferty pracy. Jedna z krakowskich firm potrzebuje wsp
 
 Więcej szczegółów znajdziecie poniżej lub w [ogłoszeniu na stronie pracodawcy](https://www.avsystem.com/careers/technical-writer/), poprzez które możecie złożyć swoją aplikację.
 
-* * *
+---
 
 ## Technical Writer – UMP
 
@@ -56,13 +56,13 @@ Making complex and challenging technical concepts more user-friendly and easy to
 - Full-time remote work (although work from the office is also possible),
 - Opportunity to grow and flourish in a highly technical but supportive work environment.
 - Some usual stuff:
-    - Flexible working hours,
-    - Kitchen full of snacks and treats,
-    - Multisport,
-    - Company's events,
-    - Car parking area and bike room,
-    - A relaxed and friendly work atmosphere — no dress code, no open space!
+  - Flexible working hours,
+  - Kitchen full of snacks and treats,
+  - Multisport,
+  - Company's events,
+  - Car parking area and bike room,
+  - A relaxed and friendly work atmosphere — no dress code, no open space!
 
-* * *
+---
 
 Powodzenia!

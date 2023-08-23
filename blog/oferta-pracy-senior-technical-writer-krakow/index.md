@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Senior Technical Writer (Mapp) – Kraków"
 date: "2019-12-10"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "mapp_logo.png"

@@ -1,10 +1,10 @@
 ---
 title: "Ile zarabia Technical Writer - odsłona trzecia"
 date: "2016-12-21"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "money-256282_640-e1481055653138.jpg"
@@ -51,7 +51,7 @@ Niedawno odkryliśmy w [aplikacji Pracuj.pl dla Androida](https://play.google.co
 
 [![spec_dok_tech_mazowsze](images/spec_dok_tech_mazowsze.png)](http://techwriter.pl/wp-content/uploads/2016/12/spec_dok_tech_mazowsze.png)
 
- 
+
 
 Jak oceniacie przedstawione przez nas dane? Czy są według Was bliskie rzeczywistości czy raczej mają z nią niewiele wspólnego? Czekamy na Wasze komentarze i życzymy Wam, żebyście nigdy po wypłacie nie czuli się w sposób przedstawiony na filmiku poniżej ;)
 

@@ -1,13 +1,13 @@
 ---
-title: "\"Level Up\" - Webinar o komunikacji wizualnej"
+title: '"Level Up" - Webinar o komunikacji wizualnej'
 date: "2021-09-24"
-categories: 
+categories:
   - "news"
   - "bez-kategorii"
   - "dobre-praktyki"
   - "narzedzia"
   - "ze-swiata"
-tags: 
+tags:
   - "grafika"
   - "narzedzia"
   - "rzuty-ekranu"

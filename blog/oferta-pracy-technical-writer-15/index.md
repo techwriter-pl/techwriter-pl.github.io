@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical Writer"
 date: "2016-08-25"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "unit4-logo-250.png"

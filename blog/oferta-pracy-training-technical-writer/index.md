@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Training Technical Writer"
 date: "2018-06-15"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "linkgroup_logo.png"

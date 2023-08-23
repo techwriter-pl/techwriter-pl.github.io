@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical Writer"
 date: "2016-11-14"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "avsystem_logo1.jpg"

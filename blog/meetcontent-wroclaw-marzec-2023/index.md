@@ -1,10 +1,10 @@
 ---
 title: "MeetContent Wrocław - marzec 2023"
 date: "2023-03-10"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "dokumentacja"
   - "meetcontent"
   - "spolecznosc"
@@ -15,14 +15,14 @@ Spieszymy donieść, że ekipa MeetContentWRO i wrocławscy contentowcy mają za
 
 ## **Marzec 2023 - Etteplan**
 
-Marcowy **#MeetContentWRO** zagości w firmie **Etteplan**. Tym razem mamy dla Was jedną prezentację, ale opowiadać będą dwie osoby. 
+Marcowy **#MeetContentWRO** zagości w firmie **Etteplan**. Tym razem mamy dla Was jedną prezentację, ale opowiadać będą dwie osoby.
 
 **Temat:** _Simplified Technical English - How to control the beast?_
 
-O STE opowiadać będą: 
+O STE opowiadać będą:
 
-- [Barbara Kardel-Piątkowska](https://www.linkedin.com/in/barbara-kardel-piatkowska/), obecnie _Documentation Specialist_ w Etteplan. Basia ma za sobą doświadczenie w tworzeniu komunikacji technicznej na potrzeby przemysłu związanego z produkcją i obsługą maszyn. 
-- [Jan Sosna](https://www.linkedin.com/in/jan-sosna/), obecnie _Article Editor_ w DeLaval. Janek również ma doświadczenie w tworzeniu komunikacji technicznej, zarówno od strony Technical Writera jak również Graphic Designera. 
+- [Barbara Kardel-Piątkowska](https://www.linkedin.com/in/barbara-kardel-piatkowska/), obecnie _Documentation Specialist_ w Etteplan. Basia ma za sobą doświadczenie w tworzeniu komunikacji technicznej na potrzeby przemysłu związanego z produkcją i obsługą maszyn.
+- [Jan Sosna](https://www.linkedin.com/in/jan-sosna/), obecnie _Article Editor_ w DeLaval. Janek również ma doświadczenie w tworzeniu komunikacji technicznej, zarówno od strony Technical Writera jak również Graphic Designera.
 
 Janek i Basia opowiedzą jak opanować bestię zwaną _Simplified Technical English_. Najpierw jednak dowiemy się o wadach i zaletach STE:
 
@@ -38,7 +38,7 @@ Zapraszamy Was serdecznie na: **_Simplified Technical English - How to control t
 
 ## **Gdzie i kiedy**
 
-22 marzec 2023 godzina 18:00 
+22 marzec 2023 godzina 18:00
 
 Biuro Etteplan ul. Legnicka 48G
 
@@ -48,13 +48,13 @@ Biuro Etteplan ul. Legnicka 48G
 
 W lutym natomiast meetup odbył się w siedzibie firmy DeLaval we Wrocławiu. Całe wydarzenie poświęcone było jednemu tematowi.
 
-[Marta Bartnicka](https://www.linkedin.com/in/marta-bartnicka-713969/), _Publishing and Localization Senior Engineer_ w Dolby Laboratories rozważała wraz z uczestnikami plusy i minusy Markdowna. 
+[Marta Bartnicka](https://www.linkedin.com/in/marta-bartnicka-713969/), _Publishing and Localization Senior Engineer_ w Dolby Laboratories rozważała wraz z uczestnikami plusy i minusy Markdowna.
 
-W swojej prezentacji: _Markdown - The lesser evil?,_ Marta zaczęła od samego początku, czyli od pierwszej specyfikacji Markdowna z 2004: było to uporządkowanie konwencji używanych od lat w Internecie (maile, usenet) i w prostej dokumentacji (readme, release notes, dokumentacja API). Składnia Markdowna składa się zaledwie z kilkunastu elementów, które zostały pokrótce podsumowane. Można je znaleźć na [stronie Marty na GitHubie](https://github.com/martab0/Markdown/blob/main/Markdown.md). 
+W swojej prezentacji: _Markdown - The lesser evil?,_ Marta zaczęła od samego początku, czyli od pierwszej specyfikacji Markdowna z 2004: było to uporządkowanie konwencji używanych od lat w Internecie (maile, usenet) i w prostej dokumentacji (readme, release notes, dokumentacja API). Składnia Markdowna składa się zaledwie z kilkunastu elementów, które zostały pokrótce podsumowane. Można je znaleźć na [stronie Marty na GitHubie](https://github.com/martab0/Markdown/blob/main/Markdown.md).
 
 ![](images/17.jpg)
 
-Uczestnicy mogli dowiedzieć się na co pozwala Markdown. A okazuje się, że wbrew pozorom i niezbyt skomplikowanej składni, pozwala na wiele. Można na przykład: 
+Uczestnicy mogli dowiedzieć się na co pozwala Markdown. A okazuje się, że wbrew pozorom i niezbyt skomplikowanej składni, pozwala na wiele. Można na przykład:
 
 - czytać go tak jak jest, w dowolnym edytorze
 - opublikować z niego HTML, np. na GitHub Pages
@@ -77,7 +77,7 @@ Zwyczajowo, sesja Q&A przeszła w dalsze rozmowy przy pizzy :)
 Jeśli zainteresował Was temat Markdowna, poniżej znajdziecie przydatne linki:
 
 - [Marta’s page about Markdown on GitHub](https://github.com/martab0/Markdown)
-- [Basic syntax cheat sheet](https://commonmark.org/help/) 
+- [Basic syntax cheat sheet](https://commonmark.org/help/)
 - [Markdown and VSCode](https://code.visualstudio.com/docs/languages/markdown)
 
 Dziękujemy za udział i widzimy się 22 marca w Etteplan!

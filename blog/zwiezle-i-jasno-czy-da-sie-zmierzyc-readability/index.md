@@ -1,11 +1,11 @@
 ---
-title: "Zwięźle i jasno. Czy da się zmierzyć \"readability\""
+title: 'Zwięźle i jasno. Czy da się zmierzyć "readability"'
 date: "2015-07-07"
-categories: 
+categories:
   - "dobre-praktyki"
   - "narzedzia"
   - "warsztat"
-tags: 
+tags:
   - "jezyk"
 coverImage: "simplicity.jpg"
 ---
@@ -22,7 +22,7 @@ Rzeczywistość języka naturalnego jest oczywiście zbyt bogata, żeby można j
 
 Joanna Abramowicz
 
- 
+
 
 P.S. Od redakcji: Nie bylibyśmy sobą, gdybyśmy nie sprawdzili powyższego tekstu w obu wspomnianych aplikacjach.
 

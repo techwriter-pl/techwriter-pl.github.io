@@ -1,10 +1,10 @@
 ---
 title: "Bezpłatne warsztaty tworzenia dokumentacji technicznej i szkoleń e-learning w Krakowie"
 date: "2017-05-17"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "dita"
   - "e-learning"
   - "instrukcje"

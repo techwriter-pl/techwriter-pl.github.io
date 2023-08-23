@@ -1,10 +1,10 @@
 ---
 title: "Komunikacja techniczna - co jest na topie"
 date: "2020-05-13"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "spolecznosc"
   - "technologie"
 coverImage: "Screenshot-2020-05-06-at-17.59.28.png"
@@ -18,8 +18,8 @@ Autorem jest Scott Abel, postać znana w świecie techcommu, jako [The Content W
 
 Żeby Was zainteresować wybraliśmy trzy najciekawsze (naszym zdaniem) wątki pojawiające się w raporcie:
 
-- _#Chat Boty i sztuczna inteligencja__,_
-- _#Dokumentowanie API__,_
+- _#Chat Boty i sztuczna inteligencja\_\_,_
+- _#Dokumentowanie API\_\_,_
 - _#Narzędzia_
 
 Jeśli jednak uznacie, że temat jest już Wam znany a szukacie czegoś innego, mocno zachęcamy do zapoznania się z całym raportem!
@@ -40,7 +40,7 @@ Poniżej dane zebrane w koliste diagramy 😊
 
 ![](images/ChatbotBenefits.png)
 
- 
+
 
 ## #Dokumentowanie API
 

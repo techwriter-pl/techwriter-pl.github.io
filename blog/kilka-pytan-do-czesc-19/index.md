@@ -1,10 +1,10 @@
 ---
 title: "Kilka pytań do — część 19"
 date: "2020-05-08"
-categories: 
+categories:
   - "warsztat"
   - "wywiady"
-tags: 
+tags:
   - "dokumentacja"
   - "spolecznosc"
   - "wywiad"

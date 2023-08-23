@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Content Writer Freelancer (Ideamotive)"
 date: "2018-11-27"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "im_logo_dark_bigger.png"

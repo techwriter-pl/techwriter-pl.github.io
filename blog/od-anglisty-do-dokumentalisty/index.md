@@ -1,10 +1,10 @@
 ---
 title: "Od anglisty do dokumentalisty"
 date: "2023-03-02"
-categories: 
+categories:
   - "przyklady"
   - "warsztat"
-tags: 
+tags:
   - "dokumentacja"
   - "edukacja"
   - "jezyk"
@@ -66,7 +66,7 @@ Znalazła pracę jako technical writer, chociaż nie posiadała doświadczenia w
 
 Wspomina, że początki były trudne, bo musiała się nauczyć wielu nowych rzeczy. Tyle tylko, że dzięki znajomości języka poszło to dużo sprawniej.
 
-\- To był taki skok na główkę. Ale “_if not now, then when”_. Przecież wszystkiego się nauczę, powtarzałam sobie. No i mnie przyjęli na podstawie entuzjazmu – żartuje. – A na początku rozumiałam głównie przedimki_,_ zaimki i… czasowniki. A reszta to była dla mnie chińszczyzna – dodaje ze śmiechem.
+\- To był taki skok na główkę. Ale “_if not now, then when”_. Przecież wszystkiego się nauczę, powtarzałam sobie. No i mnie przyjęli na podstawie entuzjazmu – żartuje. – A na początku rozumiałam głównie przedimki*,* zaimki i… czasowniki. A reszta to była dla mnie chińszczyzna – dodaje ze śmiechem.
 
 O drodze Joanny od tłumacza do tech writera możecie przeczytać [TUTAJ](http://techwriter.pl/kilka-pytan-do-czesc-29/).
 
@@ -100,7 +100,7 @@ Jestem magistrem lingwistyki stosowanej, tłumaczem przysięgłym, ale do tech w
 
 Dokumentalistą chciałem zostać już dziesięć lat temu tuż po ukończonych studiach magisterskich z filologii angielskiej, ponieważ była – i nadal jest – to dla mnie ciekawa droga dla filologów. Niestety wtedy nie udało się, ponieważ rynek był dość trudny w Krakowie, więc ostatecznie zostałem tłumaczem technicznym. Teraz wracam do zrealizowania dawnych ambicji, a także chcę się zmierzyć z czymś nowym.
 
- 
+
 
 Nasz kolega redakcyjny, Andrzej, też jest tłumaczem, który został tech writerem. O tym, jak trafił do branży IT i jaką przeszedł drogę od anglisty do dokumentalisty możecie przeczytać [TUTAJ](http://techwriter.pl/od-tlumacza-do-tech-writera/).
 
@@ -108,6 +108,6 @@ Wszystkie znaki na niebie i ziemi, a zwłaszcza na ziemi w postaci masowego prze
 
 Warto też przed zmianą zawodu poznać lepiej tajniki branży tech writerskiej, które w bardzo profesjonalny, ciekawy i przystępny sposób przybliżają wykładowcy na studiach podyplomowych na kierunku [Komunikacja techniczna](https://vistula.edu.pl/kierunki-studiow/komunikacja-techniczna) na [Akademii Finansów i Biznesu Vistula](https://vistula.edu.pl/).
 
-* * *
+---
 
 Autorką powyższego tekstu jest Justyna Kula, która już wkrótce zasili szeregi naszej redakcji.

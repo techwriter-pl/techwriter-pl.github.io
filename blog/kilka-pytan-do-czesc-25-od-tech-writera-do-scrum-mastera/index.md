@@ -1,10 +1,10 @@
 ---
 title: "Kilka pytań do – część 25: Od tech writera do scrum mastera"
 date: "2021-11-15"
-categories: 
+categories:
   - "warsztat"
   - "wywiady"
-tags: 
+tags:
   - "agile"
   - "scrum"
   - "wywiad"

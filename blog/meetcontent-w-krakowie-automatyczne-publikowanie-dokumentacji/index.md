@@ -1,10 +1,10 @@
 ---
 title: "MeetContentKRK #6 - automatyczne publikowanie dokumentacji"
 date: "2017-11-06"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "edukacja"
   - "konferencje"
   - "spolecznosc"

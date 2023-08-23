@@ -1,10 +1,10 @@
 ---
 title: "STUDIA PODYPLOMOWE DLA TECHNICAL WRITERÓW – TRWA NABÓR"
 date: "2022-09-30"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "edukacja"
   - "kariera"
   - "praca"

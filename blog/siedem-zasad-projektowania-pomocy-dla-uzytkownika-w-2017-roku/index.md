@@ -1,10 +1,10 @@
 ---
 title: "Siedem zasad projektowania pomocy dla użytkownika w 2017 roku"
 date: "2017-02-01"
-categories: 
+categories:
   - "dobre-praktyki"
   - "warsztat"
-tags: 
+tags:
   - "instrukcje"
   - "knowledge-base"
   - "konferencje"

@@ -1,10 +1,10 @@
 ---
 title: "Write the Docs Prague 2018 - zapraszamy"
 date: "2018-06-26"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "edukacja"
   - "kariera"
   - "konferencje"
@@ -36,7 +36,7 @@ Dokładny opis prelekcji i prelegentów nie jest jeszcze znany, jednak na pewno 
 
 ![](images/page2.jpg)
 
- 
+
 
 ## Rodzaje i ceny biletów
 

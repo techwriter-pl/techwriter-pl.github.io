@@ -1,10 +1,10 @@
 ---
 title: "Jenkins - opis narzędzia"
 date: "2014-03-20"
-categories: 
+categories:
   - "narzedzia"
   - "warsztat"
-tags: 
+tags:
   - "aplikacje"
   - "automatyzacja"
 coverImage: "Jenkins.jpg"

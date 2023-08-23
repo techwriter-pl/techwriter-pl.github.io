@@ -1,10 +1,10 @@
 ---
 title: "MkDocs - opis narzędzia"
 date: "2015-03-06"
-categories: 
+categories:
   - "narzedzia"
   - "warsztat"
-tags: 
+tags:
   - "aplikacje"
   - "on-line-help"
 coverImage: "mkdocs.png"
@@ -60,7 +60,7 @@ Na przykład, żeby użyć motywu Bootstrap, trzeba wpisać:
 
 `theme: bootstrap`
 
-Jeśli chcemy użyć swojego własnego motywu, w pliku konfiguracyjnym musimy podać ścieżkę do katalogu, w którym się znajduje. Służy do tego parametr **theme\_dir**. Po połączeniu go z parametrem **theme** mamy możliwość użycia któregoś z domyślnych szablonów i zastąpienia tylko niektórych jego elementów własnymi. Szczegóły można znaleźć w [dokumentacji](http://www.mkdocs.org/user-guide/configuration/#build-directories) narzędzia.
+Jeśli chcemy użyć swojego własnego motywu, w pliku konfiguracyjnym musimy podać ścieżkę do katalogu, w którym się znajduje. Służy do tego parametr **theme_dir**. Po połączeniu go z parametrem **theme** mamy możliwość użycia któregoś z domyślnych szablonów i zastąpienia tylko niektórych jego elementów własnymi. Szczegóły można znaleźć w [dokumentacji](http://www.mkdocs.org/user-guide/configuration/#build-directories) narzędzia.
 
 ## Budowanie dokumentacji
 

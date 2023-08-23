@@ -1,11 +1,11 @@
 ---
 title: "Za co tłumacze lubią autorów - spójność"
 date: "2018-03-07"
-categories: 
+categories:
   - "dobre-praktyki"
   - "przyklady"
   - "warsztat"
-tags: 
+tags:
   - "instrukcje"
   - "jezyk"
   - "manuale"

@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical Writer (Big Picture) - Warszawa (stacjonarnie) lub Polska (zdalnie)"
 date: "2022-03-10"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "dokumentacja"
   - "kariera"
   - "praca"
@@ -17,7 +17,7 @@ Mamy dla Was kolejną propozycję pracy na stanowisku Technical Writera. Szczeg�
 
 Dokumentacja jest jednym z podstawowych elementów wspierających rozwój tego produktu. Czyta ją ponad 15 000 użytkowników miesięcznie, co znacząco wpływa na poziom zadowolenia obecnych i potencjalnych klientów produktu. Z tego względu, zespół dokumentalistów poszukuje osoby, która dołączy do niego na stanowisko Technical Writera. Aplikację możecie składać na stronie [https://bigpicture.one/technical-writer/](https://bigpicture.one/technical-writer/).
 
-* * *
+---
 
 ### Technical Writer Location: Warsaw or remotely (Poland)
 
@@ -74,6 +74,6 @@ Together with our Marketing Team and Product Owners, you will ensure that our us
 
 - You can choose between B2B contract or contract of employment
 
-* * *
+---
 
 Życzymy powodzenia!

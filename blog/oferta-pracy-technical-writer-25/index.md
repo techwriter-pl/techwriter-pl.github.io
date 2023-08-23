@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical Writer"
 date: "2017-07-14"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "guidewire_logo_new_2color_h_screen.jpg"
@@ -16,7 +16,7 @@ Guidewire opened Krakow Centre in September 2015 to support increasing global cu
 
 Our Krakow team is growing and looking for great professionals and personalities to join us.
 
-* * *
+---
 
 **Technical Writer - Kraków Development Centre, Poland**
 
@@ -72,7 +72,7 @@ The company is headquartered in Foster City, California and is publicly traded u
 
 Seem Like a Good Fit?
 
-* * *
+---
 
 Aplikować możecie bezpośrednio przez [karier-stronę](https://careers.guidewire.com/jobs/view/o5je5fwr/technical-writer-krakow-development-centre-poland).
 

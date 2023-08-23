@@ -1,10 +1,10 @@
 ---
 title: "Documentor - opis narzędzia"
 date: "2015-09-22"
-categories: 
+categories:
   - "narzedzia"
   - "warsztat"
-tags: 
+tags:
   - "aplikacje"
   - "manuale"
   - "on-line-help"

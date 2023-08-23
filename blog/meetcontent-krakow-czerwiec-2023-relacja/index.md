@@ -1,10 +1,10 @@
 ---
 title: "MEETCONTENT KRAKÓW – CZERWIEC 2023 – RELACJA"
 date: "2023-07-19"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "meetcontent"
   - "spolecznosc"
 coverImage: "upload_0483.png"
@@ -57,7 +57,7 @@ Developer Advocate zbiera techniczny feedback i przekuwa go w konkretne działan
 - zarządzanie forum developerów
 - obecność na konferencjach i mediach społecznościowych
 - wydawanie newslettera (informowanie o zmianach i nowych wersjach, itd.)
-- zlecanie aktualizacja dokumentacji 
+- zlecanie aktualizacja dokumentacji
 - przygotowywanie prezentacji o produkcie
 - opracowywanie materiałów edukacyjnych.
 

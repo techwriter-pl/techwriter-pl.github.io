@@ -1,10 +1,10 @@
 ---
 title: "Każdy z nas miewa gorsze dni..."
 date: "2016-11-25"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "humor"
   - "praca"
   - "spolecznosc"

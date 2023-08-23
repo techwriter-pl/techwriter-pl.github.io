@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical Writer - praca zdalna!"
 date: "2018-06-12"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "braintribe-logo.png"
@@ -39,21 +39,22 @@ _**Your Credentials: You Are A Firestarter**_
 _At Braintribe, a BS/MS degree in Computer Science, Business, Engineering or a related subject is nice to have… but we care much more about your ability to thrive in the areas outlined below._
 
 - _**The Required Experience / Knowledge:**_
-    - _Excellent technical writing skills with 2+ years experience in documenting software for technical and non-technical audiences._
-    - _Experience in software development environment._
-    - _Exceptional writing, line editing, and copy editing skills._
-    - _Ability to read, understand, and analyse code, such as Java and JavaScript, and create documentation out of it._
-    - _Ability to quickly adapt to changes_
-    - _Ability to find and extract information from multiple sources_
-    - _Ability to manage workflow with minimal oversight, in a fast-paced environment with multiple stakeholders_
-    - _A can-do attitude :)_
+
+  - _Excellent technical writing skills with 2+ years experience in documenting software for technical and non-technical audiences._
+  - _Experience in software development environment._
+  - _Exceptional writing, line editing, and copy editing skills._
+  - _Ability to read, understand, and analyse code, such as Java and JavaScript, and create documentation out of it._
+  - _Ability to quickly adapt to changes_
+  - _Ability to find and extract information from multiple sources_
+  - _Ability to manage workflow with minimal oversight, in a fast-paced environment with multiple stakeholders_
+  - _A can-do attitude :)_
 
 - _**The Nice-to-Have Experience / Knowledge:**_
-    - _Experience with static site generators, Markdown, and Doxygen._
-    - _Backend development with Java / Java EE._
-    - _Testing experience._
-    - _Web technologies such as REST and the HTML5 stack._
-    - _Data modeling._
+  - _Experience with static site generators, Markdown, and Doxygen._
+  - _Backend development with Java / Java EE._
+  - _Testing experience._
+  - _Web technologies such as REST and the HTML5 stack._
+  - _Data modeling._
 
 _Braintribe has our own compensation structure, but the following statement is noted to comply with the law: We offer a salary, which is conform to Austrian law (IT-KV) starting at €2.900 per month (14 times) based on your experience/qualifications._
 

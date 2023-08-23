@@ -1,10 +1,10 @@
 ---
 title: "Konferencja soap! 2019 - zapowiedź"
 date: "2019-04-09"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "kariera"
   - "konferencje"
   - "spolecznosc"

@@ -1,10 +1,10 @@
 ---
 title: "Konferencja soap! 2022 - zapowiedź"
 date: "2022-04-14"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "konferencje"
   - "spolecznosc"
 coverImage: "soap2022.png"

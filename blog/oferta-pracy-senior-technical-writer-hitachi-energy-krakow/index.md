@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Senior Technical Writer (Hitachi Energy) - Kraków"
 date: "2022-05-11"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "Hitachi_energy.png"
@@ -18,7 +18,7 @@ Z produktów Hitachi Energy korzysta ponad 140 krajów na świecie. Oddziały fi
 
 Aplikację możecie składać poprzez formularz zamieszczony przy [ogłoszeniu](https://www.hitachienergy.com/career/jobs/details/PL52799756_E1).
 
-* * *
+---
 
 ## Senior Technical Writer
 
@@ -43,6 +43,6 @@ Hitachi Energy is looking for a talented and self-standing technical writer for 
 - Experience working with a docs-as-code workflow and ability to prepare simple code samples.
 - Experience with technical writing tools (MadCap Flare), content management systems, source control systems (Git), Jira, and Confluence.
 
-* * *
+---
 
 Życzymy powodzenia!

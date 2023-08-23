@@ -1,10 +1,10 @@
 ---
 title: "Langłydż - part sewen"
 date: "2014-06-26"
-categories: 
+categories:
   - "warsztat"
   - "z-przymruzeniem-oka"
-tags: 
+tags:
   - "humor"
   - "jezyk"
 coverImage: "review.jpg"
@@ -23,4 +23,4 @@ Jeśli siedzisz właśnie na nudnym spotkaniu to temat powinien Cię zainteresow
 
 Oczywiście to nie wszystkie rodzaje występowania riwiu w przyrodzie, ale większość znanych nam zastosowań jest kombinacją powyższych 4 głównych typów.
 
-Patrz również:  _fidbek_.
+Patrz również:  *fidbek*.

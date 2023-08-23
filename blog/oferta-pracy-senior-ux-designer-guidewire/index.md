@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Senior UX Designer (Guidewire)"
 date: "2018-02-08"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "guidewire_logo_new_2color_h_screen.jpg"

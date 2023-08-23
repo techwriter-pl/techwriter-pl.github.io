@@ -1,10 +1,10 @@
 ---
 title: "Konferencje 2021 - drugie półrocze"
 date: "2021-06-30"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "edukacja"
   - "kariera"
   - "konferencje"
@@ -119,6 +119,6 @@ Mamy prośbę – jeśli wiecie o jakimś wydarzeniu związanym z branżą komun
 
 13-15 grudnia, San Francisco, Kalifornia, USA - [An Event Apart San Francisco 2021](https://aneventapart.com/event/san-francisco-2021)
 
- 
+
 
 Jak zawsze jesteśmy ciekawi, które z proponowanych przez nas wydarzeń cieszą się Waszym zainteresowaniem. Dajcie znać w komentarzach!

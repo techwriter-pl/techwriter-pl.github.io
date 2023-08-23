@@ -1,11 +1,11 @@
 ---
 title: "Dokumentacja API – Część 1: Definicja i rodzaje API"
 date: "2018-10-08"
-categories: 
+categories:
   - "dobre-praktyki"
   - "przyklady"
   - "warsztat"
-tags: 
+tags:
   - "api"
   - "dokumentacja"
 coverImage: "ApiMosaic.gif"
@@ -48,7 +48,7 @@ Spróbujmy je rozłożyć na czynniki pierwsze:
 - https://www.google.com/maps/embed/v1/ to bazowy adres URL (_base URL_), czyli część wspólna dla każdego żądania, jakie wysyłamy do danego API.
 - /place to tzw. _endpoint_, czyli punkt dostępowy. Większość API oferuje szereg różnych punktów dostępowych odpowiadających różnym zasobom. W wypadku omawianego Google Maps API inne możliwe endpointy to np. /search (zwracający wyniki wyszukiwania dla danego obszaru), /directions (wytyczający trasę z punktu A do punktu B), czy /streetview (pokazujący widok z poziomu ulicy).
 - Symbol “?” sygnalizuje początek _query string_, czyli łańcucha zapytania. Po nim następuje szereg parametrów. Składające się z nazwy (klucza) i wartości w formacie “klucz=wartość”  parametry oddzielane są od siebie znakiem “&”. Wymagane parametry zależą od użytego _endpointu_ i powinny być starannie opisane w dokumentacji.
-- q=place\_id:_ChIJX4B9qBtbFkcR4hg5zRO0-V4_ to parametr określający identyfikator miejsca – w naszym przykładzie jest to Dworzec Kraków Główny (każde miejsce posiada unikalny identyfikator, dzięki czemu można odróżnić miejsca noszące taką samą nazwę).
+- q=place_id:_ChIJX4B9qBtbFkcR4hg5zRO0-V4_ to parametr określający identyfikator miejsca – w naszym przykładzie jest to Dworzec Kraków Główny (każde miejsce posiada unikalny identyfikator, dzięki czemu można odróżnić miejsca noszące taką samą nazwę).
 - key=1234 to parametr zawierający unikalny klucz, który identyfikuje stronę internetową lub aplikację wołającą API. W większości przypadków klucze do publicznych API wydawane są “od ręki” po założeniu konta deweloperskiego. Jest to jeden z kilku możliwych sposobów ograniczenia dostępu do API.
 
 Żądania kierowane do API mogą być oczywiście znacznie bardziej rozbudowane. Na przykład gdy konieczne jest przekazanie lub odebranie dużych ilości danych, dane te zamieszcza się nie w ścieżce URL jak powyżej, lecz w ciele (_body_) wiadomości. Dodatkowo stosuje się nagłówki (_headers_) sygnalizujące np. format przesyłanych danych (JSON, XML) bądź określające inne aspekty relacji między klientem, czyli aplikacją wołającą API, a podmiotem udostępniającym API.

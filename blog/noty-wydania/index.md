@@ -1,10 +1,10 @@
 ---
 title: "Noty wydania"
 date: "2013-12-10"
-categories: 
+categories:
   - "przyklady"
   - "warsztat"
-tags: 
+tags:
   - "praca"
   - "release-notes"
 coverImage: "ReleaseNotes.jpg"
@@ -12,7 +12,7 @@ coverImage: "ReleaseNotes.jpg"
 
 Czym zajmują się technical writerzy? Tworzą m.in. release notes. A czym zajmują się release notes? I czym właściwie są?
 
-Release notes, przetłumaczone kiedyś na polski jako "noty wydania", to dokumenty opisujące oprogramowanie, a dokładniej zmiany w konkretnej wersji oprogramowania. Czekacie na definicję z Wikipedii? Proszę bardzo: [http://en.wikipedia.org/wiki/Release\_notes](http://en.wikipedia.org/wiki/Release_notes) :). Przez zmiany rozumiemy tutaj wszelkie nowe funkcjonalności (ang. _features_), zmiany w funkcjonalnościach już obecnych, poprawione błędy (_fixed bugs_) oraz... niepoprawione błędy (_known issues_).
+Release notes, przetłumaczone kiedyś na polski jako "noty wydania", to dokumenty opisujące oprogramowanie, a dokładniej zmiany w konkretnej wersji oprogramowania. Czekacie na definicję z Wikipedii? Proszę bardzo: [http://en.wikipedia.org/wiki/Release_notes](http://en.wikipedia.org/wiki/Release_notes) :). Przez zmiany rozumiemy tutaj wszelkie nowe funkcjonalności (ang. _features_), zmiany w funkcjonalnościach już obecnych, poprawione błędy (_fixed bugs_) oraz... niepoprawione błędy (_known issues_).
 
 Release notes są dostarczane razem z oprogramowaniem, np. z nową wersją aplikacji, pakietem poprawek (_service pack_), pojedynczą naprawą (_hotfix_) czy nawet jedną z wielu nowo zbudowanych wersji dostarczanych przez programistów (_build_). Mogą również zawierać informacje na temat tego, w jaki sposób nowa wersja czy poprawka ma być zainstalowana i skonfigurowana.
 

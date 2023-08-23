@@ -1,10 +1,10 @@
 ---
 title: "Write the Docs Prague 2021 coraz bliżej"
 date: "2021-08-18"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "kariera"
   - "konferencje"
   - "praca"

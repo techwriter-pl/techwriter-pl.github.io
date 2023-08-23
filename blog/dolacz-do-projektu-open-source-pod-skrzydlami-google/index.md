@@ -1,10 +1,10 @@
 ---
 title: "Dołącz do projektu Open Source pod skrzydłami Google!"
 date: "2019-04-17"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "instrukcje"
   - "kariera"
   - "open-source"
@@ -42,6 +42,6 @@ Wydaje nam się, że udział w takim projekcie, pod okiem doświadczonego specja
 
 Więcej informacji znajdziecie na [stronie projektu](https://developers.google.com/season-of-docs/).
 
- 
+
 
 _Grafika pochodzi ze strony projektu [Season of Docs](https://developers.google.com/season-of-docs/)_

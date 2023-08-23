@@ -1,10 +1,10 @@
 ---
 title: "The Translation and Localization Conference 2019 - relacja"
 date: "2019-04-24"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "konferencje"
   - "spolecznosc"
   - "tlumaczenia"
@@ -23,7 +23,7 @@ Sposób w jaki organizatorzy rozpoczęli konferencję wpisał się w motyw przew
 
 Pomimo tego, że czasy się zmieniły, pewne problemy pozostały nieśmiertelne, np. źródło tłumaczenia dostarczone jako kiepskiej jakości skan czy lista fragmentów tekstu do przetłumaczenia bez żadnego kontekstu. Ciekawą wizją był model, w którym tłumacz otrzymuje pieniądze za każde wykorzystanie swojego tłumaczenia. To mini przedstawienie z przymrużeniem oka pokazało nam jak może wyglądać przyszłość branży tłumaczeniowej oraz wprowadziło nas w klimat nadchodzących prelekcji.
 
-\[caption id="attachment\_7780" align="aligncenter" width="590"\][![](images/tlc-intro-1024x576.jpg)](http://techwriter.pl/wp-content/uploads/2019/04/tlc-intro.jpg) Źródło: zasoby organizatora The Translation and Localization Conference\[/caption\]
+\[caption id="attachment_7780" align="aligncenter" width="590"\][![](images/tlc-intro-1024x576.jpg)](http://techwriter.pl/wp-content/uploads/2019/04/tlc-intro.jpg) Źródło: zasoby organizatora The Translation and Localization Conference\[/caption\]
 
 Poniżej przedstawiamy opis prezentacji, które najbardziej przykuły naszą uwagę.
 
@@ -77,7 +77,7 @@ Areta pokazała nam krótkie porównanie statystycznego tłumaczenia maszynowego
 
 Prowadząca zwróciła też uwagę na to, że musimy myśleć o bezpieczeństwie danych, szczególnie w przypadku projektów tłumaczeniowych, które zawierają poufne informacje. W takich przypadkach nie jest dobrym pomysłem korzystanie z dostępnych za darmo rozwiązań online, ponieważ dane, które wtłoczymy do takiego mechanizmu zostaną zapisane na serwerach dostawcy oprogramowania i nie mamy nad nimi kontroli.
 
-\[caption id="attachment\_7778" align="aligncenter" width="590"\][![](images/tlc-areta-kempinska-1024x576.jpg)](http://techwriter.pl/wp-content/uploads/2019/04/tlc-areta-kempinska.jpg) Źródło: zasoby organizatora The Translation and Localization Conference\[/caption\]
+\[caption id="attachment_7778" align="aligncenter" width="590"\][![](images/tlc-areta-kempinska-1024x576.jpg)](http://techwriter.pl/wp-content/uploads/2019/04/tlc-areta-kempinska.jpg) Źródło: zasoby organizatora The Translation and Localization Conference\[/caption\]
 
 Po części opisowej, przeszliśmy do dyskusji. Areta zapytała uczestników co myślą o pracy z tłumaczeniem maszynowym, jakie mają doświadczenie w kwestii wydajności i opłacalności pracy, w której jest tłumaczenie maszynowe i postedycja i czy mają jakieś obawy związane z MT. Nie było zaskoczeniem, że temat wzbudził sporo emocji. Wnioski z dyskusji można podsumować następująco:
 
@@ -94,7 +94,7 @@ Pierwszy dzień konferencji zakończył panel dyskusyjny moderowany przez Ageno
 
 Na początek, Agenor wyjaśnił podstawowe pojęcia, takie jak Artificial Intelligence, Machine Learning i Deep Learning, żeby mieć pewność, że wszyscy rozumieją je w taki sam sposób. Następnie w ramach zbudowania kontekstu dla dyskusji, przedstawił wyniki ogólnobranżowej ankiety dotyczącej trendów na rynku tłumaczeń i sposobów przygotowania się na nie. Ciekawostką było pytanie skierowane do freelancerów o to czy przewidują dla siebie opcję zmiany branży na pokrewną, np. na komunikację techniczną, w najbliższej przyszłości. Zdecydowana większość odpowiedziała, że nie. Bardzo dziękujemy za umieszczenie tego pytania w ankiecie, ponieważ widać gołym okiem, że musimy jeszcze bardziej się starać jeśli chodzi o promowanie profesji z dziedziny komunikacji technicznej :)
 
-\[caption id="attachment\_7790" align="aligncenter" width="590"\][![](images/tlc_panel-1024x576.jpg)](http://techwriter.pl/wp-content/uploads/2019/04/tlc_panel.jpg) Źródło: zasoby organizatora The Translation and Localization Conference\[/caption\]
+\[caption id="attachment_7790" align="aligncenter" width="590"\][![](images/tlc_panel-1024x576.jpg)](http://techwriter.pl/wp-content/uploads/2019/04/tlc_panel.jpg) Źródło: zasoby organizatora The Translation and Localization Conference\[/caption\]
 
 Po przedstawieniu wyników ankiety przeszliśmy do dyskusji. Nawiązując do wcześniejszych prelekcji i do tego, że jesteśmy negatywnie nastawieni do rozwoju technologii, Wojciech Froelich zadał nam kilka pozornie prozaicznych pytań o rozwiązania, z których już korzystamy, takie jak ergonomiczne klawiatury czy systemy do tłumaczeń. Jego celem było uświadomienie nam, że technologie, które obecnie przyjmujemy jako część naszej rzeczywistości, dawniej zapewne też wzbudzały wiele emocji, tak jak teraz tłumaczenie maszynowe. Chciał tym samym wzmocnić przekaz z prezentacji Roberta Etchesa, że zamiast unikać technologii musimy ją zaakceptować i wyciągnąć z niej korzyści dla siebie. Taka umiejętność jest tłumaczom na pewno potrzebna.
 
@@ -114,4 +114,4 @@ Dziękujemy organizatorom za ciepłe przyjęcie i możliwość poszerzenia wiedz
 
 Zdjęcia z wydarzenia znajdziecie pod [tym linkiem](https://www.facebook.com/pg/TheTranslationConference/photos/?tab=album&album_id=1814162512021924&__xts__%5B0%5D=68.ARAyMTxGY4q6Z5kDd1TZJyzZhXq3JO7Bcjeala7OG0RLc9D0PBXmXEaDsP2EEEIHnB8dj8zvbDZKKuw5o8NyGnZMTmsdb7G8kALlzh2GgZ4GG2lT8fWFHZelUOlKDMJiJwSZHxIXGHIWWNcSeUMe3Ed6w6laAfhWB4wZb5JCmL9iuDHH8nL4MllHYSnhHU6Y8nzMUd24nWvg9ggEe3ymTIP_PsH8fTA8-p-PWh4O_QmLMvvQIe8Cvx4yNwiU-DnnpGnUV-lcOtDtvYSLf4FSNhy68hPJ0Zzp4iQL18ZzkTzfYSiHfTlg75aOXKiILy6-l7oE_DH-EoukKF9Z-mi3zgj4M8qPMi9XxhoQr5uCXx_7huH77bnu5RTDNVyrZnbYTCxhpeehfs_4xlbb_8LScVshbybl8qSxXa_4OU_x_dtUFPNgWWLHCFJdwYhFTVIjcjs9Ln-nrWLsTQvQ7ZzL&__tn__=-UC-R).
 
-\[caption id="attachment\_7792" align="aligncenter" width="590"\][![](images/tlc_lobby_2-1024x576.jpg)](http://techwriter.pl/wp-content/uploads/2019/04/tlc_lobby_2.jpg) Źródło: zasoby organizatora The Translation and Localization Conference\[/caption\]
+\[caption id="attachment_7792" align="aligncenter" width="590"\][![](images/tlc_lobby_2-1024x576.jpg)](http://techwriter.pl/wp-content/uploads/2019/04/tlc_lobby_2.jpg) Źródło: zasoby organizatora The Translation and Localization Conference\[/caption\]

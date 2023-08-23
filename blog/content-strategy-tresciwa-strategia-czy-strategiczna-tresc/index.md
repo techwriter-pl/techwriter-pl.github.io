@@ -1,10 +1,10 @@
 ---
 title: "Content strategy - treściwa strategia czy strategiczna treść?"
 date: "2014-08-05"
-categories: 
+categories:
   - "dobre-praktyki"
   - "warsztat"
-tags: 
+tags:
   - "praca"
   - "zarzadzanie-trescia"
 coverImage: "Screenshot-2023-03-15-at-20.27.41.png"

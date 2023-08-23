@@ -1,10 +1,10 @@
 ---
 title: "Kilka pytań do - część 14"
 date: "2017-09-06"
-categories: 
+categories:
   - "warsztat"
   - "wywiady"
-tags: 
+tags:
   - "spolecznosc"
   - "wywiad"
 coverImage: "jonathan-velasquez-160775-640.jpg"
@@ -56,7 +56,7 @@ Uczenie się nowych rzeczy cały czas oraz kontakt z językiem angielskim.
 
 Wierzcie w siebie i swoje umiejętności, nie bójcie się podejmowania wyzwań.
 
- 
+
 
 W razie dodatkowych pytań możecie skontaktować się z Marcinem bezpośrednio przez e-mail **[marcinbroda101@gmail.com](mailto:marcinbroda101@gmail.com)**. Jeśli macie ochotę podzielić się swoimi doświadczeniami, nie zwlekajcie dłużej tylko piszcie na **[kontakt@techwriter.pl](mailto:kontakt@techwriter.pl)**.
 

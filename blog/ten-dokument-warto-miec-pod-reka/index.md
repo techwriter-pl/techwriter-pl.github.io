@@ -1,11 +1,11 @@
 ---
 title: "Ten dokument warto mieć pod ręką"
 date: "2013-11-25"
-categories: 
+categories:
   - "news"
   - "warsztat"
   - "z-przymruzeniem-oka"
-tags: 
+tags:
   - "humor"
   - "instrukcje"
   - "manuale"

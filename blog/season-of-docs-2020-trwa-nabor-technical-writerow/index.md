@@ -1,10 +1,10 @@
 ---
 title: "Season of Docs 2020 - trwa nabór Technical Writerów"
 date: "2020-05-27"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "dokumentacja"
   - "kariera"
   - "praca"

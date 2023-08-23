@@ -1,12 +1,12 @@
 ---
 title: "Tech Writer koduje - odcinek 28 i 29"
 date: "2021-04-22"
-categories: 
+categories:
   - "dobre-praktyki"
   - "narzedzia"
   - "przyklady"
   - "warsztat"
-tags: 
+tags:
   - "aplikacje"
   - "dokumentacja"
   - "podcast"

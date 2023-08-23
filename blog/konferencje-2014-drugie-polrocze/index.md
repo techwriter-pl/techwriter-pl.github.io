@@ -1,11 +1,11 @@
 ---
 title: "Konferencje 2014 - drugie półrocze"
 date: "2014-05-06"
-categories: 
+categories:
   - "news"
   - "z-kraju"
   - "ze-swiata"
-tags: 
+tags:
   - "konferencje"
 coverImage: "konferencja2.jpg"
 ---
@@ -14,7 +14,7 @@ Półrocze za pasem... Sprawdźmy jakie propozycje ma dla nas druga część teg
 
 Cały czas możecie się jeszcze załapać na niektóre [konferencje z pierwszego półrocza](http://techwriter.pl/konferencje-2014-pierwsze-polrocze/), tu jednak coś dla tych, którzy planują z większym wyprzedzeniem, albo przeciwnie - chcą się załapać w ostatniej chwili:
 
- 
+
 
 5-6 czerwca, Kraków, **Polska** – [UA Europe](http://www.uaconference.eu/), o której już Wam [wspominaliśmy](http://techwriter.pl/konferencja-ua-europe-w-polsce/)
 
@@ -46,6 +46,6 @@ Cały czas możecie się jeszcze załapać na niektóre [konferencje z pierwszeg
 
 2-4 grudnia, Boston, Massachusetts, USA - [Gilbane Conference 2014](http://gilbaneconference.com/2014/)
 
- 
+
 
 Czerwiec i październik to będą ciekawe miesiące, nawet jeśli nie macie budżetu na zagraniczne podróże... warto się gdzieś wybrać!

@@ -1,10 +1,10 @@
 ---
 title: "UA Conference - relacja"
 date: "2014-06-17"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "kariera"
   - "konferencje"
   - "lokalizacja"
@@ -28,7 +28,7 @@ Nie zmieniła się również liczba osób, dla których istotne jest testowanie 
 
 ### Znajomość kodu
 
-W kategorii c_ode-level expertise_ wzrosła liczba głosów oddanych na technologię DITA. HTML i CSS cały czas przodują, ale wydaję się że gdyby te dwie technologie zostały rozdzielone, CSS otrzymałby dużo niższą liczbę głosów. Co ciekawe, liczba osób znających języki programowania takie jak C++, C# czy Java wynosi zaledwie 10%. I tutaj rada od Joe: jeśli umiesz rozczytać kod i umiesz go opisać, możesz bez namysłu lecieć do USA, a tam Google, Microsoft, Amazon czy inne tego typu wielkie korporacje przyjmą cię z pocałowaniem ręki i od ręki :)
+W kategorii c*ode-level expertise* wzrosła liczba głosów oddanych na technologię DITA. HTML i CSS cały czas przodują, ale wydaję się że gdyby te dwie technologie zostały rozdzielone, CSS otrzymałby dużo niższą liczbę głosów. Co ciekawe, liczba osób znających języki programowania takie jak C++, C# czy Java wynosi zaledwie 10%. I tutaj rada od Joe: jeśli umiesz rozczytać kod i umiesz go opisać, możesz bez namysłu lecieć do USA, a tam Google, Microsoft, Amazon czy inne tego typu wielkie korporacje przyjmą cię z pocałowaniem ręki i od ręki :)
 
 ### Systemy pomocy
 

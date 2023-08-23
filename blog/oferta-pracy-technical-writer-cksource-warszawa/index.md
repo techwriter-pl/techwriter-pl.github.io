@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical Writer (CKSource) – Warszawa"
 date: "2020-06-08"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "CKSource-logo-2.jpg"
@@ -16,7 +16,7 @@ Mają ciekawy produkt i jeszcze ciekawszą [historię](https://innpoland.pl/1347
 
 Szczegóły oferty znajdziecie poniżej. Aplikować można za pośrednictwem [tej strony](https://cksource.bamboohr.com/jobs/view.php?id=26).
 
-* * *
+---
 
 CKSource has been a successful software company for over 10 years. There’s a good chance you’ve either unknowingly used one of our products or visited a site that created content using our rich text editing component - CKEditor. Our current customers include companies such as IBM, Microsoft, Siemens, Citibank, Disney, Oracle, AT&T, NBCUniversal, Accenture, and hundreds more worldwide recognized brands. To learn more check out our websites: [ckeditor.com](https://ckeditor.com/) and [cksource.com](https://cksource.com/).
 

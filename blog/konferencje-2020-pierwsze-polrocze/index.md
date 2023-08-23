@@ -1,11 +1,11 @@
 ---
 title: "Konferencje 2020 - pierwsze półrocze"
 date: "2020-05-21"
-categories: 
+categories:
   - "news"
   - "z-kraju"
   - "ze-swiata"
-tags: 
+tags:
   - "edukacja"
   - "kariera"
   - "konferencje"

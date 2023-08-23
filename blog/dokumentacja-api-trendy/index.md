@@ -1,10 +1,10 @@
 ---
 title: "Dokumentacja API - trendy"
 date: "2020-02-21"
-categories: 
+categories:
   - "przyklady"
   - "ze-swiata"
-tags: 
+tags:
   - "api"
   - "narzedzia"
 coverImage: "API-e1582271331202.png"
@@ -30,7 +30,7 @@ Znając Wasze lenistwo wklejamy kilka najciekawszych wykresów ;)
 
 ![](images/API-documentation-process.png)
 
- 
+
 
 ![](images/API-documentation-quality.png)
 
@@ -48,9 +48,9 @@ Przykładowe rezultaty dotyczące narzędzi wykorzystywanych podczas tworzenia d
 
 ![](images/Narzędzia-API-dokumentacja.png)
 
- 
 
- 
+
+
 
 Ależ Przydatne Informacje (API) chciałoby się krzyknąć! :)
 

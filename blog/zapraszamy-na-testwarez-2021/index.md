@@ -1,10 +1,10 @@
 ---
 title: "Zapraszamy na TestWarez 2021"
 date: "2021-07-30"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "kariera"
   - "konferencje"
   - "praca"

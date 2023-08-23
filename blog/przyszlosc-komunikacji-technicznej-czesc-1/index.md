@@ -1,11 +1,11 @@
 ---
 title: "Przyszłość komunikacji technicznej - część 1"
 date: "2014-07-15"
-categories: 
+categories:
   - "news"
   - "z-kraju"
   - "ze-swiata"
-tags: 
+tags:
   - "kariera"
 coverImage: "fortune-teller-378w.jpg"
 ---

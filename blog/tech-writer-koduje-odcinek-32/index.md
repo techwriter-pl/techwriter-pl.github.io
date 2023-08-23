@@ -1,11 +1,11 @@
 ---
 title: "Tech Writer Koduje - odcinek 32"
 date: "2021-08-25"
-categories: 
+categories:
   - "dobre-praktyki"
   - "przyklady"
   - "warsztat"
-tags: 
+tags:
   - "dokumentacja"
   - "podcast"
   - "praca"

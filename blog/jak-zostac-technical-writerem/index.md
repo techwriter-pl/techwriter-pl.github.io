@@ -1,11 +1,11 @@
 ---
 title: "Jak zostać technical writerem?"
 date: "2014-01-09"
-categories: 
+categories:
   - "news"
   - "z-kraju"
   - "ze-swiata"
-tags: 
+tags:
   - "kariera"
 coverImage: "Start.jpg"
 ---

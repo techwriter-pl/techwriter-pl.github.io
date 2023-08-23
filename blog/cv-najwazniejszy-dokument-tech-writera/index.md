@@ -1,10 +1,10 @@
 ---
 title: "CV - najważniejszy dokument Tech Writera"
 date: "2016-01-12"
-categories: 
+categories:
   - "dobre-praktyki"
   - "warsztat"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "preview-e1452188058854.jpg"

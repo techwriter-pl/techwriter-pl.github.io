@@ -1,10 +1,10 @@
 ---
 title: "“Zrzucanie” ekranu - opis narzędzi"
 date: "2014-02-10"
-categories: 
+categories:
   - "narzedzia"
   - "warsztat"
-tags: 
+tags:
   - "grafika"
   - "instrukcje"
   - "on-line-help"
@@ -28,7 +28,7 @@ Jeśli chodzi o elementy dodatkowe to można dodawać strzałki, dymki, tekst, s
 
 Program umożliwia zrzucanie ekranu w trzech trybach: a) okno, kontrolka lub menu b) wybrany dowolnie fragment c) wybrany fragment o ustalonym rozmiarze. Najczęściej korzystam z pierwszego trybu, który według mnie działa naprawdę dobrze. Po naciśnięciu przycisku do robienia zrzutu, pojawia się czerwona ramka, która zaznacza automatycznie elementy które rozpozna, np. okienko programu, przycisk czy menu w oknie. Żeby wykonać zrzut, trzeba nakierować ramkę w żądane miejsce i nacisnąć CTRL, a potem kliknąć w wybrany obszar. Dzięki temu między włączeniem zrzucania ekranu, a rzeczywistym zrobieniem tego zrzutu, mamy możliwość jeszcze przejść między oknami, otworzyć jakieś menu, lub coś wpisać w pole. Bardzo wygodne. Niestety pozostałe dwa tryby już nie są tak dobrze rozwiązane, dlatego używam też programu Greenshot, który rekompensuje mi braki Impicta. Zanim przejdę do Greenshota wspomnę jeszcze tylko o jednej słabej stronie Impicta - przycinanie obrazu. Da się to zrobić, ale wymaga to kilku operacji. Najpierw nakładamy element o nazwie soczewka na cały obraz, potem wybieramy opcję spłaszczenia obrazu, następnie usuwamy warstwę z oryginalnym obrazem i voila! Przyznam, że jest to kiepsko wymyślone. Z drugiej strony darowanemu koniowi… Pamiętajmy, że program jest dodatkiem do Help and Manuala. Jeszcze jedna ciekawostka. Ze strony [www.helpandmanual.com](http://www.helpandmanual.com) można ściągnąć darmowy program TNT Screen Capture, który jest jakby obciętą wersją Impicta. Główne funkcje są prawie takie same, tylko np. niektóre formaty zapisu nie są dostępne.
 
- 
+
 
 [![Greenshot](images/Greenshot.png)](http://techwriter.pl/wp-content/uploads/2014/02/Greenshot.png)
 
@@ -40,7 +40,7 @@ Sam edytor pozwala nam na dodawanie różnych elementów, takich jak tekst, kszt
 
 Program ma jedną ciekawą funkcję. Mianowicie można włączyć lub wyłączyć “łapanie” kursora myszki na zrzucie ekranu. Jeśli ta funkcja jest włączona i na naszym zrzucie uwiecznimy kursor, to po otworzeniu zrzutu od razu w edytorze Greenshota, będzie on automatycznie zaznaczony i będziemy go mogli przesunać lub usunąć.
 
- 
+
 
 Podsumowując, każdy z przedstawionych programów jest dla mnie przydatny pod innym względem. Gdyby je porównać jako tylko i wyłącznie narzędzia do zrzutów ekranu, to na pewno wybrałbym Greenshota. Jednak Impict ma jedną przewagę nad Greenshotem - jest zintegrowany z moim narzędziem do pisania dokumentacji. Dlatego też w moim przypadku te dwa programy dobrze się uzupełniają. Idealnym rozwiązaniem byłoby połączenie tych dwóch programów w jeden, ale niestety nie żyjemy w idealnym świecie. Dajcie znać w komentarzach czego i jak używacie, a jeśli tego samego to wyraźcie swoją opinię :)
 

@@ -1,10 +1,10 @@
 ---
 title: "3 oferty pracy od 3di (Kraków)"
 date: "2018-01-31"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "3di_logo.png"

@@ -1,10 +1,10 @@
 ---
 title: "Markdown mobilnie"
 date: "2014-05-09"
-categories: 
+categories:
   - "narzedzia"
   - "warsztat"
-tags: 
+tags:
   - "aplikacje"
 coverImage: "smartphone-blue-w-hand-illustration-e1399318639963.jpg"
 ---

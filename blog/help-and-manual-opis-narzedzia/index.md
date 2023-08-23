@@ -1,10 +1,10 @@
 ---
 title: "Help and Manual - opis narzędzia"
 date: "2014-01-21"
-categories: 
+categories:
   - "narzedzia"
   - "warsztat"
-tags: 
+tags:
   - "manuale"
   - "on-line-help"
 coverImage: "HelpAndManual.jpg"

@@ -1,11 +1,11 @@
 ---
 title: "Konferencje 2018 - pierwsze półrocze"
 date: "2017-12-14"
-categories: 
+categories:
   - "news"
   - "z-kraju"
   - "ze-swiata"
-tags: 
+tags:
   - "edukacja"
   - "kariera"
   - "konferencje"
@@ -91,7 +91,7 @@ Writers UA - brak konkretnej daty poza informacją, że ma być w marcu ([link](
 
 11-12 kwietnia, Bolonia, Włochy - [COM Tecnica 2018](http://comtecnica.it/)
 
-14-16 kwietnia, Fort Lauderdale, Floryda, USA - [UX + DEV Summit](https://uxdsummit.com/) 
+14-16 kwietnia, Fort Lauderdale, Floryda, USA - [UX + DEV Summit](https://uxdsummit.com/)
 
 14-20 kwietnia, Waszyngton, Dystrykt Kolumbii, USA – [Waszyngton DC UX Conference](https://www.nngroup.com/training/washington-dc/)
 

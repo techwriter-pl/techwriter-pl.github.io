@@ -1,10 +1,10 @@
 ---
 title: "Tech writer koduje odcinek 21"
 date: "2020-09-22"
-categories: 
+categories:
   - "dobre-praktyki"
   - "warsztat"
-tags: 
+tags:
   - "podcast"
   - "praktyki"
 coverImage: "Konferencje-2019-1.png"

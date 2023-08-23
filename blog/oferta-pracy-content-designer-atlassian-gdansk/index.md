@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Content Designer (Atlassian) - Gdańsk"
 date: "2020-12-16"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "atlassian_logo.png"
@@ -20,7 +20,7 @@ A nam najbardziej spodobał się ten fragment:
 
 Pewnie dlatego, że lubimy eksperymenty :)
 
-* * *
+---
 
 # Content Designer
 
@@ -79,6 +79,6 @@ All your information will be kept confidential according to EEO guidelines.
 
 Learn more about Atlassian’s culture, interviewing flow, and hiring process by checking out our [Candidate Resource Hub](https://www.atlassian.com/company/careers/resources).
 
-* * *
+---
 
 Powodzenia!

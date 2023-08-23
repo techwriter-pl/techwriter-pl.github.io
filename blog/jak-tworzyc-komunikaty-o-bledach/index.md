@@ -1,11 +1,11 @@
 ---
 title: "Jak tworzyć komunikaty o błędach?"
 date: "2015-05-05"
-categories: 
+categories:
   - "dobre-praktyki"
   - "przyklady"
   - "warsztat"
-tags: 
+tags:
   - "aplikacje"
   - "pomoc-uzytkownika"
   - "uzytecznosc"

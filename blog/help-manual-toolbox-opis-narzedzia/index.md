@@ -1,10 +1,10 @@
 ---
 title: "Help & Manual Toolbox - opis narzędzia"
 date: "2014-07-08"
-categories: 
+categories:
   - "narzedzia"
   - "warsztat"
-tags: 
+tags:
   - "manuale"
   - "on-line-help"
 coverImage: "hmtoolbox.png"

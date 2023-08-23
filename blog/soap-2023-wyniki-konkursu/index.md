@@ -1,7 +1,7 @@
 ---
 title: "Soap! 2023 - wyniki konkursu"
 date: "2023-05-05"
-categories: 
+categories:
   - "news"
   - "z-kraju"
 coverImage: "wyniki_konkursu_soap2023.png"
@@ -11,7 +11,7 @@ Miło nam poinformować, że znamy już zwycięzcę tegorocznego konkursu, w kt�
 
 Po zapoznaniu się ze zgłoszeniami jury konkursu, czyli redakcja portalu, podjęła decyzję, że najlepszą odpowiedzią na pytanie: **"Dlaczego sztuczna inteligencja nie jest w stanie zastąpić technical writera?"** jest:
 
-* * *
+---
 
 Chyba każdy z nas miał do czynienia z automatycznym podpowiadaniem słów lub sprawdzaniem pisowni na telefonie. Gdyby ktoś zasugerował nam porozmawianie sobie z taką funkcją, popukalibyśmy się w czoło. A jednak wiele osób chętnie rozmawia sobie ze sztuczną inteligencją – w jej obecnym kształcie – taką, jak na przykład ChatGPT. Uważają ją za równoprawnego rozmówcę, a nie tylko narzędzie dostarczające dane wyjściowe w postaci języka naturalnego w oparciu o zadane parametry.
 
@@ -33,7 +33,7 @@ Przejdźmy jednak do szczegółów. Czego konkretnie brakuje sztucznej inteli
 
 Last but not least: ze sztuczną inteligencją nie spotkasz się na soap! lub na MeetContent i nie pójdziesz na pizzę, kawę czy piwo, żeby pogadać o tworzeniu treści... i wszystkim innym.
 
-* * *
+---
 
 Pawle gratulujemy! O szczegółach wygranej poinformujemy Cię mailowo.
 

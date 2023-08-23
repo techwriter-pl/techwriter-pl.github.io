@@ -1,10 +1,10 @@
 ---
 title: "Zapraszamy na Write the Docs Prague 2020"
 date: "2020-06-30"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "kariera"
   - "konferencje"
   - "praca"
@@ -26,7 +26,7 @@ Skrótowy program wydarzenia wygląda następująco:
 
 - Niedziela (18 października) – [Writing Day](https://www.writethedocs.org/conf/prague/2020/writing-day/) oraz powitanie uczestników na platformie online.
 - Poniedziałek (19 października) – pierwszy dzień konferencji – oficjalne otwarcie, pierwsze prelekcje, [Unconference](https://www.writethedocs.org/conf/prague/2020/unconference/) oraz wieczorna impreza zapoznawcza ;-).
--  Wtorek (20 października) – drugi dzień konferencji – dalsze prelekcje, Unconference, [Job Fair](https://www.writethedocs.org/conf/prague/2020/job-fair/), zakończenie konferencji.
+- Wtorek (20 października) – drugi dzień konferencji – dalsze prelekcje, Unconference, [Job Fair](https://www.writethedocs.org/conf/prague/2020/job-fair/), zakończenie konferencji.
 
 Dokładny opis prelekcji i prelegentów jeszcze nie jest znany, gdyż obecnie trwa nabór osób chętnych wystąpić podczas konferencji. Jeśli jesteście zainteresowani udziałem w wydarzeniu w roli prelegenta - informacje znajdziecie [tutaj](https://www.writethedocs.org/conf/prague/2020/cfp/). Pełny program Write the Docs Prague dostępny jest pod tym [linkiem](https://www.writethedocs.org/conf/prague/2020/schedule/).
 

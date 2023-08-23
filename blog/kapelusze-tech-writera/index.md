@@ -1,10 +1,10 @@
 ---
 title: "Kapelusze tech writera"
 date: "2021-04-28"
-categories: 
+categories:
   - "warsztat"
   - "z-przymruzeniem-oka"
-tags: 
+tags:
   - "dokumentacja"
   - "humor"
   - "kariera"
@@ -16,9 +16,9 @@ coverImage: "shakespeare-6102162_6-40-1.jpg"
 W tym artykule znajdziecie zbiór luźnych przemyśleń na temat wszechstronnego charakteru pisarza technicznego.
 
 > Świat jest teatrem, aktorami ludzie,
-> 
+>
 > Którzy kolejno wchodzą i znikają.
-> 
+>
 > Każdy tam aktor niejedną gra rolę
 
 _`Wiliam Szekspir, fragment aktu drugiego z "Jak Wam się podoba", tłumaczenie Leon Ulrich.`_
@@ -35,7 +35,7 @@ Dlaczego akurat kapelusze? Zaczerpnąłem je z koncepcji dr Edwarda de Bono, kt�
 
 Przedstawiam zatem moją subiektywną listę ról. Jedne z nich mogą być nieco egzotyczne, inne wydać się mogą przyziemne, ale sądzę, że wielu czytelników rozpozna wśród nich swoje własne.
 
-* * *
+---
 
 # [![](images/upload_053-1.png)](http://techwriter.pl/wp-content/uploads/2021/04/upload_053-1.png)
 

@@ -1,10 +1,10 @@
 ---
 title: "Badanie płac w komunikacji technicznej 2018 - wypełnij ankietę!"
 date: "2018-03-01"
-categories: 
+categories:
   - "badanie-plac"
   - "praca"
-tags: 
+tags:
   - "ankieta"
   - "kariera"
   - "praca"

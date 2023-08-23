@@ -1,10 +1,10 @@
 ---
 title: "Minimalizm - poziom ekspert"
 date: "2014-08-19"
-categories: 
+categories:
   - "dobre-praktyki"
   - "warsztat"
-tags: 
+tags:
   - "instrukcje"
   - "manuale"
   - "pomoc-uzytkownika"

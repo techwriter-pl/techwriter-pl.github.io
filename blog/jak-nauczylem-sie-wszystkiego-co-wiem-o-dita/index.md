@@ -1,11 +1,11 @@
 ---
 title: "Jak nauczyłem się wszystkiego co wiem o DITA"
 date: "2016-01-19"
-categories: 
+categories:
   - "narzedzia"
   - "przyklady"
   - "warsztat"
-tags: 
+tags:
   - "technologie"
 coverImage: "dita-logo.png"
 ---

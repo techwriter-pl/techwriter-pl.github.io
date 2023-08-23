@@ -1,11 +1,11 @@
 ---
 title: "Kiedy instrukcja staje się sztuką"
 date: "2014-02-25"
-categories: 
+categories:
   - "news"
   - "dobre-praktyki"
   - "warsztat"
-tags: 
+tags:
   - "instrukcje"
 coverImage: "origami.jpg"
 ---

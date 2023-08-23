@@ -1,10 +1,10 @@
 ---
 title: "Kolejna odsłona soap! MeetContent"
 date: "2017-01-02"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "edukacja"
   - "kariera"
   - "spolecznosc"

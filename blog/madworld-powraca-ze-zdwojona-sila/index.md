@@ -1,10 +1,10 @@
 ---
 title: "MadWorld powraca ze zdwojoną siłą"
 date: "2018-04-12"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "konferencje"
   - "spolecznosc"
 coverImage: "madworld.png"

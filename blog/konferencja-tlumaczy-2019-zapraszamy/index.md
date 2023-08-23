@@ -1,10 +1,10 @@
 ---
 title: "Konferencja Tłumaczy 2019 - zapraszamy!"
 date: "2019-08-20"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "edukacja"
   - "kariera"
   - "konferencje"

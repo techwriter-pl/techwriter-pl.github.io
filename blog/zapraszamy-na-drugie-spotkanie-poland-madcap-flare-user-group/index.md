@@ -1,12 +1,12 @@
 ---
 title: "Zapraszamy na drugie spotkanie Poland MadCap Flare User Group"
 date: "2017-08-30"
-categories: 
+categories:
   - "news"
   - "narzedzia"
   - "warsztat"
   - "z-kraju"
-tags: 
+tags:
   - "aplikacje"
   - "edukacja"
   - "spolecznosc"
@@ -62,6 +62,6 @@ Poland MadCap Flare User Group jest całkowicie darmową i otwartą dla wszystki
 
 W ostatnim czasie, MadCap Software uruchomił na Slacku [społeczność dla grup użytkowników Flare'a na całym świecie](https://forums.madcapsoftware.com/viewtopic.php?f=13&t=29380). Oprócz ogólnych kanałów, istnieje również osobny kanał dla Poland MadCap Flare User Group. Jeśli korzystacie ze Slacka i chcecie dołączyć do społeczności, skontaktujcie się z organizatorami.
 
- 
+
 
 Do zobaczenia w T.E.A. Time!

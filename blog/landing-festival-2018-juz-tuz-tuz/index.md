@@ -1,10 +1,10 @@
 ---
 title: "Landing Festival 2018 już tuż tuż"
 date: "2018-03-09"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "edukacja"
   - "kariera"
   - "konferencje"

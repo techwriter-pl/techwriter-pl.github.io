@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Training Technical Writer (Eurofins)"
 date: "2018-01-05"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "logo.png"

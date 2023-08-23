@@ -1,11 +1,11 @@
 ---
 title: "E-learning - przykład z życia"
 date: "2020-03-31"
-categories: 
+categories:
   - "dobre-praktyki"
   - "przyklady"
   - "warsztat"
-tags: 
+tags:
   - "e-learning"
   - "studia"
   - "szkolenia"

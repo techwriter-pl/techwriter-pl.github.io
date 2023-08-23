@@ -1,10 +1,10 @@
 ---
 title: "Dokumentaliści w kulturze masowej"
 date: "2015-04-07"
-categories: 
+categories:
   - "warsztat"
   - "z-przymruzeniem-oka"
-tags: 
+tags:
   - "humor"
   - "praca"
 coverImage: "popculture.jpeg"

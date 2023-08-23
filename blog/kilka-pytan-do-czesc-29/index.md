@@ -1,10 +1,10 @@
 ---
 title: "Kilka pytań do - część 29"
 date: "2023-02-22"
-categories: 
+categories:
   - "warsztat"
   - "wywiady"
-tags: 
+tags:
   - "kariera"
   - "praca"
   - "wywiad"

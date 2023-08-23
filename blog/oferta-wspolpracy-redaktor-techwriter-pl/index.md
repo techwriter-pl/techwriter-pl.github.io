@@ -1,10 +1,10 @@
 ---
 title: "Oferta (współ)pracy: Redaktor Techwriter.pl"
 date: "2019-02-05"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
   - "spolecznosc"
@@ -44,6 +44,6 @@ Dlatego też, w zamian za Twój czas i wysiłek możemy zaoferować takie oto ni
 
 Jeśli uważasz, że ta oferta jest dla Ciebie, wyślij nam maila na [kontakt@techwriter.pl](mailto:kontakt@techwriter.pl) lub wyślij nam wiadomość na [Facebooku](https://www.facebook.com/techwriterpl/).
 
- 
+
 
 _Grafika pochodzi z serwisu [Vecteezy](https://vecteezy.com)_

@@ -1,10 +1,10 @@
 ---
 title: "Bez mydła nie wchodzi?"
 date: "2013-09-25"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "konferencje"
 coverImage: "mydlo.jpg"
 ---

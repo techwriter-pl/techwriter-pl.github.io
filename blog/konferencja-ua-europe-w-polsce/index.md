@@ -1,11 +1,11 @@
 ---
 title: "Konferencja UA Europe - w Polsce!"
 date: "2013-10-25"
-categories: 
+categories:
   - "news"
   - "z-kraju"
   - "ze-swiata"
-tags: 
+tags:
   - "konferencje"
 coverImage: "krakow.jpg"
 ---

@@ -1,10 +1,10 @@
 ---
 title: "Zapraszamy na Lviv IT Arena"
 date: "2016-09-19"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "konferencje"
   - "technologie"
 coverImage: "LvivITArena.png"

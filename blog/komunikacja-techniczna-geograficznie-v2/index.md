@@ -1,10 +1,10 @@
 ---
 title: "Komunikacja techniczna geograficznie v2"
 date: "2015-05-26"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "konferencje"
   - "spolecznosc"
 coverImage: "map-525349_640-e1432019946248.png"

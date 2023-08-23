@@ -1,10 +1,10 @@
 ---
 title: "WikidPad - opis narzędzia"
 date: "2015-06-09"
-categories: 
+categories:
   - "narzedzia"
   - "warsztat"
-tags: 
+tags:
   - "aplikacje"
 coverImage: "000-tlo-360.jpg"
 ---

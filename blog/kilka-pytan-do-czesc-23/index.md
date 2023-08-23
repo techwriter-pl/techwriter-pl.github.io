@@ -1,10 +1,10 @@
 ---
 title: "Kilka pytań do - część 23"
 date: "2021-02-10"
-categories: 
+categories:
   - "warsztat"
   - "wywiady"
-tags: 
+tags:
   - "dokumentacja"
   - "spolecznosc"
   - "wywiad"

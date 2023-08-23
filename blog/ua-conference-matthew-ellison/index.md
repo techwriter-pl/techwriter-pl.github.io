@@ -1,10 +1,10 @@
 ---
 title: "UA Conference - Matthew Ellison"
 date: "2014-07-11"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "konferencje"
   - "pomoc-uzytkownika"
   - "technologie"

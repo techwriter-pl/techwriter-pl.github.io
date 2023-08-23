@@ -1,16 +1,16 @@
 ---
 title: "Dowiedz się w końcu co to znaczy"
 date: "2014-03-13"
-categories: 
+categories:
   - "narzedzia"
   - "warsztat"
-tags: 
+tags:
   - "grafika"
   - "typografia"
 coverImage: "LoremIpsum.jpg"
 ---
 
-_Lorem ipsum dolor sit amet..._ gdzieś już to widzieliście, prawda? To jedno z narzędzi wykorzystywanych w naszej pracy i zarazem dowód na to, że dobry techwriter używa łaciny nie tylko wtedy kiedy zawiesi mu się komputer. Ale co to właściwie znaczy?
+*Lorem ipsum dolor sit amet...* gdzieś już to widzieliście, prawda? To jedno z narzędzi wykorzystywanych w naszej pracy i zarazem dowód na to, że dobry techwriter używa łaciny nie tylko wtedy kiedy zawiesi mu się komputer. Ale co to właściwie znaczy?
 
 Fragment ten pochodzi z traktatu "O granicach dobra i zła" Cycerona i ma ponad 2000 lat! Cyceron, wbrew nazwie, nie był biuściastym erotomanem, tylko rzymskim mówcą i politykiem. Chociaż kto go tam wie, właściwie jedno nie stoi w sprzeczności z drugim... Ale nie o tym mieliśmy pisać :)
 

@@ -1,10 +1,10 @@
 ---
 title: "Kilka pytań do - część 2"
 date: "2015-02-05"
-categories: 
+categories:
   - "warsztat"
   - "wywiady"
-tags: 
+tags:
   - "spolecznosc"
   - "wywiad"
 coverImage: "HIS.jpg"
@@ -65,6 +65,6 @@ To, że uczy jak się komunikować. Jak przekazać coś drugiej osobie aby zrozu
 
 Weź do ręki książkę kucharską i rzuć okiem na pierwszy przepis z brzegu. Tak ma wyglądać dobra instrukcja: jeden cel – „Murzynek z Jagodami”, jak się przygotować, co zrobić krok po kroku i oczekiwany wynik końcowy wraz z przykładami.
 
- 
+
 
 Jeśli chcecie skontakować się z Marcinem to możecie napisać do niego bezpośrednio na adres skrzynkatofixsa(małpa)gmail.com albo za naszym pośrednictwem - komentarze poniżej lub adres [kontakt@techwriter.pl](mailto:kontakt@techwriter.pl) - gorąco zachęcamy!

@@ -1,10 +1,10 @@
 ---
 title: "Translation and Localization Conference 2019 tuż, tuż"
 date: "2019-03-08"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "edukacja"
   - "kariera"
   - "konferencje"

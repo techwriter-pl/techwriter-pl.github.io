@@ -1,10 +1,10 @@
 ---
 title: "Zostań mówcą - tekom Europe Roadshow 2014"
 date: "2014-03-24"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "konferencje"
   - "spolecznosc"
 coverImage: "TekomRoadshow2014.jpg"
@@ -22,6 +22,6 @@ Albo uczestnik.
 
 Przeglądając [materiały z poprzedniej edycji](http://conferences.tekom.de/tekom-europe-roadshow/past-roadshow/downloads-from-2013/) (ominęła Polskę) możecie wyrobić sobie pojęcie o tym jak może wyglądać przykładowa prezentacja.
 
-tekom Europe pisze o sobie jako o _"Europe’s largest professional association for technical communication.",_ która _"know the business of technical communication."_ - spodziewamy się więc samych pozytywnych wrażeń.
+tekom Europe pisze o sobie jako o _"Europe’s largest professional association for technical communication.",_ która *"know the business of technical communication."* - spodziewamy się więc samych pozytywnych wrażeń.
 
 Życzymy weny i wytrwałości podczas przygotowywania Waszych wystąpień :).

@@ -1,11 +1,11 @@
 ---
 title: "README.md, czyli historia zbyt pomocnego pliku"
 date: "2018-10-03"
-categories: 
+categories:
   - "dobre-praktyki"
   - "przyklady"
   - "warsztat"
-tags: 
+tags:
   - "dokumentacja"
   - "pomoc-uzytkownika"
 coverImage: "key-2323278_640.jpg"
@@ -69,7 +69,7 @@ aws configure
 AWS Access Key ID: A\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*Q
 Secret Access Key: k\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*u
 Default region name: us-east-1
-Default output format \[None\]: 
+Default output format \[None\]:
 aws s3 cp .\\\\\*\*\*\*\*\*\*\*.txt s3://\*\*\*\*\*\*\*\*\*\*\*.com/\*\*\*\*\*\*\*\*.txt
 
 Operacja zakończyła się sukcesem - klucze działały i udało mi się wgrać testowy plik. Plik README.md okazał się bardzo pomocny, ale niestety dla niewłaściwych osób, które nie powinny wejść w posiadanie takich poufnych informacji. Dlatego trzeba przywiązać dużą wagę do tego jakie informacje udostępniamy w dokumentacji w środowisku produkcyjnym.

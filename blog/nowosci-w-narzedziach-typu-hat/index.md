@@ -1,12 +1,12 @@
 ---
 title: "Nowości w narzędziach typu HAT"
 date: "2015-10-06"
-categories: 
+categories:
   - "news"
   - "narzedzia"
   - "warsztat"
   - "ze-swiata"
-tags: 
+tags:
   - "aplikacje"
   - "manuale"
   - "on-line-help"
@@ -37,7 +37,7 @@ Obiekty graficzne oraz wideo skalują się teraz wraz z rozmiarem okna. Nowa opc
 
 Oprócz dostępnej już w wersji 6 integracji z [SVN](https://pl.wikipedia.org/wiki/Subversion) oraz [Microsoft Visual SourceSafe](https://en.wikipedia.org/wiki/Microsoft_Visual_SourceSafe), w nowej wersji zostało wprowadzone wsparcie dla [MS Team Foundation Server](https://www.visualstudio.com/pl-pl/products/tfs-overview-vs.aspx). Twórcy oprogramowania zadbali również o użytkowników, którzy nie korzystają z żadnego systemu kontroli wersji. Mają oni teraz dostęp do wszystkich poprzednich wersji poszczególnych rozdziałów, dzięki czemu mogą cofnąć zmiany do wcześniejszej wersji w dowolnym momencie.
 
-  Więcej informacji na temat programu możecie uzyskać na stronie [produktu](http://www.helpandmanual.com/index.html). Możecie tam również znaleźć 30-dniową, darmową wersję próbną programu, którą można ściągnąć z sekcji [Free Trial](http://www.helpandmanual.com/downloads.html), bez potrzeby tworzenia konta lub podawania danych. Po prostu klikamy, ściągamy, instalujemy i testujemy. Tak jak być powinno :)
+Więcej informacji na temat programu możecie uzyskać na stronie [produktu](http://www.helpandmanual.com/index.html). Możecie tam również znaleźć 30-dniową, darmową wersję próbną programu, którą można ściągnąć z sekcji [Free Trial](http://www.helpandmanual.com/downloads.html), bez potrzeby tworzenia konta lub podawania danych. Po prostu klikamy, ściągamy, instalujemy i testujemy. Tak jak być powinno :)
 
 # RoboHelp
 
@@ -63,7 +63,7 @@ W poprzedniej wersji RoboHelpa jedyną możliwością wyłączenia lub włączen
 
 W nowej wersji, RoboHelp umożliwia eksport projektów do natywnych aplikacji dla Androida i iOS. Taka możliwość istniała już niby w poprzedniej wersji, jednak trzeba było się sporo napocić, żeby wszystko zaczęło działać. RoboHelp 2015 pozwala nam działać od razu, bez instalowania żadnego dodatkowego oprogramowania.
 
-  Więcej informacji na temat programu możecie uzyskać na stronie [produktu](http://www.adobe.com/products/robohelp.html?promoid=DJDXG). Możecie tam również znaleźć darmową wersję próbną programu, którą można ściągnąć z sekcji [Free Trial](https://www.adobe.com/cfusion/tdrc/index.cfm?product=robohelp&loc=en). Niestety wymagane jest posiadanie konta (Adobe ID).
+Więcej informacji na temat programu możecie uzyskać na stronie [produktu](http://www.adobe.com/products/robohelp.html?promoid=DJDXG). Możecie tam również znaleźć darmową wersję próbną programu, którą można ściągnąć z sekcji [Free Trial](https://www.adobe.com/cfusion/tdrc/index.cfm?product=robohelp&loc=en). Niestety wymagane jest posiadanie konta (Adobe ID).
 
 Polecamy również [recenzję aplikacji](http://techwhirl.com/product-review-robohelp-2015-release/) przygotowaną przez [TechWhirl](http://techwhirl.com/).
 

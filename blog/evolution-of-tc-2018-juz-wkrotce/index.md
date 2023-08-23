@@ -1,10 +1,10 @@
 ---
 title: "Evolution of TC 2018 już wkrótce"
 date: "2018-04-19"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "konferencje"
   - "spolecznosc"
 coverImage: "evolution.jpg"

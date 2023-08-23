@@ -1,10 +1,10 @@
 ---
 title: "Relacja z Write the Docs Prague 2022"
 date: "2022-10-20"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "konferencje"
   - "spolecznosc"
 coverImage: "308673646_178834124673335_5366100879339750396_n-e1665933113491.png"

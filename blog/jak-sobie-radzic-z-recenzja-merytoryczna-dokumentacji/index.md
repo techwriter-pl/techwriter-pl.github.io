@@ -1,10 +1,10 @@
 ---
 title: "Jak sobie radzić z recenzją merytoryczną dokumentacji?"
 date: "2014-11-25"
-categories: 
+categories:
   - "dobre-praktyki"
   - "warsztat"
-tags: 
+tags:
   - "edukacja"
   - "instrukcje"
   - "manuale"

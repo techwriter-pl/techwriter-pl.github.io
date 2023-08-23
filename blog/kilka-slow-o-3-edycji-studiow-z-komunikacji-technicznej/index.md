@@ -1,10 +1,10 @@
 ---
 title: "Kilka słów o 3. edycji studiów z Komunikacji technicznej"
 date: "2023-06-28"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "dokumentacja"
   - "edukacja"
   - "kariera"
@@ -18,7 +18,7 @@ Dziś mamy dla Was podsumowanie kolejnej, już trzeciej, edycji studiów podyplo
 
 Mamy szczęście, bo kolejna z naszych redaktorek jest absolwentką tego kierunku, dzięki czemu możecie przeczytać poniższy artykuł. Justyna, bardzo dziękujemy!
 
-* * *
+---
 
 Dobiegła końca 3. edycja studiów podyplomowych z [Komunikacji Technicznej](https://vistula.edu.pl/kierunki-studiow/komunikacja-techniczna) na Akademii Biznesu i Finansów Vistula, w których niżej podpisana również brała udział. Tak samo jak poprzednie, również i ta edycja cieszyła się ogromnym powodzeniem i zakończyła się niewątpliwym sukcesem.
 
@@ -88,6 +88,6 @@ Co wynieśliśmy z tych studiów? Ogromną dawkę wiedzy, umiejętności, podsta
 
 ![](images/zdjecie_4.jpg)
 
-* * *
+---
 
 Autorką tekstu jest Justyna Kula, nasza redakcyjna koleżanka.

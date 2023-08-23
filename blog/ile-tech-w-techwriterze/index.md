@@ -1,10 +1,10 @@
 ---
-title: "Ile \"tech\" w techwriterze?"
+title: 'Ile "tech" w techwriterze?'
 date: "2020-01-31"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "kariera"
   - "start"
 coverImage: "techwriter-tech.jpg"

@@ -1,11 +1,11 @@
 ---
 title: "Konferencje 2015 - drugie półrocze"
 date: "2015-05-12"
-categories: 
+categories:
   - "news"
   - "z-kraju"
   - "ze-swiata"
-tags: 
+tags:
   - "konferencje"
 coverImage: "konfer.jpg"
 ---
@@ -60,6 +60,6 @@ Cały czas możecie się jeszcze zapisać na niektóre [konferencje z pierwszego
 
 1-3 grudnia, Boston, Massachusetts, USA - [Gilbane Conference 2015](http://gilbaneconference.com/2015/ "Gilbane Conference 2015")
 
- 
+
 
 Kolejne półrocze przepełnione ciekawymi propozycjami! Jeśli jest jakaś, o której nie wspominamy dajcie znać w komentarzach.

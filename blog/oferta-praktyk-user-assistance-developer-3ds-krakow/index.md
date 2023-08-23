@@ -1,10 +1,10 @@
 ---
 title: "Oferta praktyk: User Assistance Developer (3ds) – Kraków"
 date: "2019-12-13"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praktyki"
 coverImage: "dassault.png"
@@ -16,7 +16,7 @@ Macie szansę współtworzyć dokumentację do niebanalnych systemów wykorzysty
 
 Szczegóły oferty:
 
-* * *
+---
 
 **Technical Writer (Intern) Location: KRAKOW**
 
@@ -40,7 +40,7 @@ Szczegóły oferty:
 - IT passionate student or graduate of English philology, or
 - Native speaker of English with IT background
 
- **Additional Skills (valuable, but not required):**
+**Additional Skills (valuable, but not required):**
 
 - Experience in technical communication
 - Experience in preparing e-trainings and/or giving trainings
@@ -50,6 +50,6 @@ Szczegóły oferty:
 - Familiarity with HTML, CSS, XML, JavaScript, SQL and/or database management systems
 - A certificate in Technical Communication (ITCQF or similar)
 
-* * *
+---
 
 POWODZENIA!

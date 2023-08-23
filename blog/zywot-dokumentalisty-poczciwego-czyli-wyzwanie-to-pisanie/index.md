@@ -1,11 +1,11 @@
 ---
 title: "Żywot dokumentalisty poczciwego, czyli wyzwanie to pisanie"
 date: "2014-09-23"
-categories: 
+categories:
   - "dobre-praktyki"
   - "przyklady"
   - "warsztat"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "thinking-272677_640-e1411330651949.jpg"

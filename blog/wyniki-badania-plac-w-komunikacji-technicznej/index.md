@@ -1,10 +1,10 @@
 ---
 title: "Wyniki badania płac w komunikacji technicznej 2017"
 date: "2017-04-12"
-categories: 
+categories:
   - "badanie-plac"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "Slajd2.jpg"
@@ -40,7 +40,7 @@ Większość respondentów pracuje w firmie zagranicznej...
 
 ...zatrudniającej powyżej 1000 osób
 
- 
+
 
 [![](images/staz.gif)](http://techwriter.pl/wp-content/uploads/2017/04/staz.gif)
 

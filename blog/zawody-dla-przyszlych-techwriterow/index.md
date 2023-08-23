@@ -1,10 +1,10 @@
 ---
 title: "Zawody dla przyszłych techwriterów"
 date: "2013-10-17"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "jezyk"
   - "tlumaczenia"
 coverImage: "olimpiada.jpg"
@@ -22,7 +22,7 @@ Przeczytaj i przetłumacz na dowolny język:
 
 "Na tym skrinie zaimplementowalem taki ficzerek ktory pozwala skonfigurowac grida w ixemelu, zasejwowac a potem jeszcze podlinkowac go do dowolnego butona. Grid jest updejtowany w riltajmie. Cool, czyżn't?"
 
- 
+
 
 \* - wymierający język aborygeński z australijskiego Terytorium Północnego; należy do języków pama-niungaskich - ginącej (ok. 30 tys. użytkowników), chociaż najliczniejszej (obejmującej ok. 200 języków) rodziny językowej Australii.
 

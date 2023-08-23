@@ -1,10 +1,10 @@
 ---
 title: "Trzy książki przydatne twórcom treści produktowych"
 date: "2019-01-22"
-categories: 
+categories:
   - "biblioteczka-techwritera"
   - "warsztat"
-tags: 
+tags:
   - "edukacja"
   - "kariera"
   - "literatura"

@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy x2: Technical Writer, Senior Technical Writer (Akamai)"
 date: "2019-03-20"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "Akamai-Logo-Color.jpg"

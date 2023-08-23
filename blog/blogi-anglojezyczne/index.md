@@ -1,10 +1,10 @@
 ---
 title: "Blogi anglojęzyczne"
 date: "2016-03-11"
-categories: 
+categories:
   - "biblioteczka-techwritera"
   - "warsztat"
-tags: 
+tags:
   - "edukacja"
   - "literatura"
   - "spolecznosc"
@@ -82,7 +82,7 @@ I już :). Używając tego agregatora blogów, dostarczonego przez twórców str
 
 [Writing Associates](http://writingassociates.com/blog/) - ogólne przemyślenia na temat zawodu techwritera, kariery, certyfikacji i autopromocji.
 
- 
+
 
 Podoba się? Na początek powinno wystarczyć :) Za miesiąc, jak już skończycie przeglądać, czytać, subskrybować, pojawią się na pewno nowe wpisy. I bardzo dobrze, bo czytania i poszerzania wiedzy nigdy zbyt wiele.
 

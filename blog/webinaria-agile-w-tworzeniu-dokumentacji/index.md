@@ -1,10 +1,10 @@
 ---
 title: "Webinaria - Agile w tworzeniu dokumentacji"
 date: "2016-11-23"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "agile"
   - "spolecznosc"
   - "webinarium"
@@ -24,7 +24,7 @@ Cała seria będzie składać się z czterech części:
 
 Udział jest bezpłatny.
 
-Pierwsze webinarium już jutro, tj. **24 listopada 2016 o godzinie 17**. Przewidywany czas trwania to 30 minut. Żeby dołączyć, wystarczy użyć tego linku: [https://m.youtube.com/watch?v=CY9xNFZ\_lWU&feature=youtu.be](https://m.youtube.com/watch?v=CY9xNFZ_lWU&feature=youtu.be).
+Pierwsze webinarium już jutro, tj. **24 listopada 2016 o godzinie 17**. Przewidywany czas trwania to 30 minut. Żeby dołączyć, wystarczy użyć tego linku: [https://m.youtube.com/watch?v=CY9xNFZ_lWU&feature=youtu.be](https://m.youtube.com/watch?v=CY9xNFZ_lWU&feature=youtu.be).
 
 Więcej informacji znajdziecie na [stronie wydarzenia na Facebooku](https://www.facebook.com/events/340592302962833/).
 

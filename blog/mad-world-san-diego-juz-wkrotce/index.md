@@ -1,10 +1,10 @@
 ---
 title: "MadWorld San Diego już wkrótce"
 date: "2019-03-19"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "kariera"
   - "konferencje"
   - "spolecznosc"

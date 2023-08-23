@@ -1,17 +1,17 @@
 ---
 title: "Kilka pytań do - część 26"
 date: "2022-05-31"
-categories: 
+categories:
   - "warsztat"
   - "wywiady"
-tags: 
+tags:
   - "kariera"
   - "praca"
   - "wywiad"
 coverImage: "kilka_pytan_do_26.png"
 ---
 
-Przed Wami kolejna odsłona cyklu _Kilka pytań do..._ Tym razem na nasze pytania odpowiada Piotr Sroka, który ma już dość spory staż w zawodzie technical writera. Jak to się wszystko zaczęło i czy po czasie warto było obrać taką karierę? Zapraszamy poniżej.
+Przed Wami kolejna odsłona cyklu *Kilka pytań do...* Tym razem na nasze pytania odpowiada Piotr Sroka, który ma już dość spory staż w zawodzie technical writera. Jak to się wszystko zaczęło i czy po czasie warto było obrać taką karierę? Zapraszamy poniżej.
 
 ### 1\. Jak długo pracujesz jako technical writer?
 

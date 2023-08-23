@@ -1,11 +1,11 @@
 ---
 title: "Tech Writer Koduje - odcinek 30 i 31"
 date: "2021-07-07"
-categories: 
+categories:
   - "dobre-praktyki"
   - "przyklady"
   - "warsztat"
-tags: 
+tags:
   - "dokumentacja"
   - "podcast"
   - "technologie"

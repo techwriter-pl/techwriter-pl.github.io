@@ -1,10 +1,10 @@
 ---
 title: "O dokumentacji na wesoło"
 date: "2015-12-01"
-categories: 
+categories:
   - "warsztat"
   - "z-przymruzeniem-oka"
-tags: 
+tags:
   - "humor"
   - "praca"
 coverImage: "m-ms-631865_640-e1447187190952.jpg"

@@ -1,10 +1,10 @@
 ---
 title: "Od Tłumacza do Tech Writera"
 date: "2022-04-27"
-categories: 
+categories:
   - "przyklady"
   - "warsztat"
-tags: 
+tags:
   - "dokumentacja"
   - "kariera"
   - "praca"
@@ -28,7 +28,7 @@ Początkowo wykonywałem rozmaite zadania w ramach wolontariatu dla organizacji 
 
 Często otrzymywałem zlecenia na tłumaczenie stron internetowych. Jednak do najciekawszych wyzwań należała seria książek o treningu siłowym i pływaniu. Był czas, że na wyrywki znałem łacińskie i angielskie określenia głównych grup mięśni, bo każda z tych książek zawierała uproszczony atlas anatomiczny. Nie zapomnę chwili, w której mój wydawca w ostatnim momencie zdecydował się na druk książki o kulturystyce w bardzo dużym formacie – jak otrzymałem siedem egzemplarzy po wywiązaniu się z umowy, ciężko to było dźwignąć. Wydało mi się to ironiczne, biorąc pod uwagę, że były to książki o podnoszeniu ciężarów.
 
- 
+
 
 ##### [![](images/upload_154-231x300.png)](http://techwriter.pl/wp-content/uploads/2022/04/upload_154.png) `Pod ciężarem woluminów tej książki` `tłumacz zachwiał się, ale nie runął. Tygodnie tłumaczenia o podnoszeniu ciężarów nie poszły na marne.`
 

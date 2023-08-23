@@ -1,10 +1,10 @@
 ---
 title: "UA Conference - Relacji Ciąg Dalszy"
 date: "2014-06-24"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "instrukcje"
   - "kariera"
   - "konferencje"
@@ -16,7 +16,7 @@ Zapraszamy na kolejną relację z UA Conference. Dzisiaj nasze podsumowanie dwó
 
 ## [Maximising the Effect of Progressive Disclosure - Jang F.M. Graat](http://www.uaeurope.com/conference/sessions.html#progressivedisclosure)
 
-[Jang F.M. Graat](http://jang.nl/) przedstawia siebie jako filozofa i minimalistę. Takie też były jego slajdy prezentowane podczas konferencji, minimalistyczne i trafiające w sedno sprawy. I taka jest też jego filozofia: minimalizm prowadzi do metody postępującego ujawniania informacji (ang. _progressive disclosure_), minimalizm musi istnieć w dokumentacji technicznej.
+[Jang F.M. Graat](http://jang.nl/) przedstawia siebie jako filozofa i minimalistę. Takie też były jego slajdy prezentowane podczas konferencji, minimalistyczne i trafiające w sedno sprawy. I taka jest też jego filozofia: minimalizm prowadzi do metody postępującego ujawniania informacji (ang. *progressive disclosure*), minimalizm musi istnieć w dokumentacji technicznej.
 
 [![confusing-street-signs](images/confusing-street-signs-300x225.jpg)](http://techwriter.pl/wp-content/uploads/2014/06/confusing-street-signs.jpg)
 

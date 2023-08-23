@@ -1,12 +1,12 @@
 ---
 title: "Tech Writer koduje - odcinek 24 i 25"
 date: "2021-02-03"
-categories: 
+categories:
   - "dobre-praktyki"
   - "narzedzia"
   - "przyklady"
   - "warsztat"
-tags: 
+tags:
   - "api"
   - "dokumentacja"
   - "podcast"

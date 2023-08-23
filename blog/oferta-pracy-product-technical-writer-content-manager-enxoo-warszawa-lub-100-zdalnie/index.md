@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Product Technical Writer/Content Manager (Enxoo) - Warszawa lub 100% zdalnie"
 date: "2022-04-21"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "enxoo.png"
@@ -27,7 +27,7 @@ Baza klientów Enxoo obejmuje wiodących w branży operatorów telekomunikacyjny
 
 Aplikację możecie składać poprzez [formularz](https://enxoo.secure.force.com/recruit/?announcementId=a0V3x00000TaFRA&p=inne) lub bezpośrednio przez [ogłoszenie](https://enxoo.com/jobs/product-technical-writer-content-manager/).
 
-* * *
+---
 
 ## Product Technical Writer/Content Manager
 
@@ -38,7 +38,6 @@ We’re looking to hire somebody full-time, but we would also be happy to evalua
 ### What you’ll be doing:
 
 - #### In this role, you will be responsible for managing technical documentation of Enxoo software product suite, shaping the way it is organized, produced, written and published.
-    
 - You will work together with our product development team: product managers, developers, testers and business analysts to gain product knowledge required to understand features and system configuration aspects of the software.
 - You will create, develop, and maintain user manuals, technical manuals, release notes and other types of documentation in a written format, either by yourself or in collaboration with other team members.
 - Apart from the written documentation, you will create or coordinate creation of the interactive content mainly to serve internal and partner onboarding purposes including video guides, demos and walkthroughs based on end user paths or telecommunication industry use cases.
@@ -72,11 +71,11 @@ We’re looking to hire somebody full-time, but we would also be happy to evalua
 - Elastic forms of employment: permanent contract or B2B.
 - You can also (after Covid19) work from our modern office in Warsaw, which is located in the very center of Warsaw, we have there:
 
-          \*Shower, so that you can come to work by bike or straight from the gym.
+\*Shower, so that you can come to work by bike or straight from the gym.
 
-          \*A kitchen combined with a dining room and a relaxation area.
+\*A kitchen combined with a dining room and a relaxation area.
 
-          \*Friendly open space, but also separate rooms.
+\*Friendly open space, but also separate rooms.
 
 - Work on any equipment (including your own) – we provide a budget.
 - Sponsoring 2 Salesforce Certificates per year.
@@ -85,6 +84,6 @@ We’re looking to hire somebody full-time, but we would also be happy to evalua
 - Salary adequate to your skills.
 - Non-wage benefits such as private health care, sport card, life insurance, Nais Benefit System
 
-* * *
+---
 
 Wszystkim chętnym życzymy powodzenia :)

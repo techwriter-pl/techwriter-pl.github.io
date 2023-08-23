@@ -1,10 +1,10 @@
 ---
 title: "Zarządzanie dokumentacją - grzechy główne"
 date: "2015-09-10"
-categories: 
+categories:
   - "dobre-praktyki"
   - "warsztat"
-tags: 
+tags:
   - "zarzadzanie-trescia"
 coverImage: "chaos-485493_640.jpg"
 ---

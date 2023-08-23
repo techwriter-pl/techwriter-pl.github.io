@@ -1,9 +1,9 @@
 ---
 title: "7 urodziny techwriter.pl"
 date: "2020-09-18"
-categories: 
+categories:
   - "news"
-tags: 
+tags:
   - "spolecznosc"
 coverImage: "urodziny_7.png"
 ---

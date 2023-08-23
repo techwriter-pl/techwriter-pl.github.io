@@ -1,10 +1,10 @@
 ---
 title: "Pierwsze w Polsce badanie płac w komunikacji technicznej - wypełnij ankietę!"
 date: "2017-03-01"
-categories: 
+categories:
   - "badanie-plac"
   - "praca"
-tags: 
+tags:
   - "ankieta"
   - "kariera"
   - "praca"

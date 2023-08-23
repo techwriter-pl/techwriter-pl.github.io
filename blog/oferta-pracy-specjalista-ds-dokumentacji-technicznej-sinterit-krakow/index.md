@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Specjalista ds. dokumentacji technicznej (Sinterit) – Kraków"
 date: "2020-12-14"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "Sinterit-800x400-1.jpg"
@@ -18,7 +18,7 @@ Obejrzyjcie film aby poczuć klimat:
 
 https://youtu.be/LqBPkKiEYOY
 
-* * *
+---
 
 ### **SPECJALISTA DS. DOKUMENTACJI TECHNICZNEJ – TECHNICAL WRITER z językiem angielskim**
 
@@ -60,6 +60,6 @@ Jako członek zespołu “Product Management” będziesz aktywnie brał udział
 
 **Dołącz do zespołu Sinterit, i weź aktywny udział w rozwoju firmy, która konsekwentnie dąży do zdobycia miana lidera w branży druku 3D!**
 
-* * *
+---
 
 Powodzenia!

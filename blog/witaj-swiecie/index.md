@@ -1,7 +1,7 @@
 ---
 title: "Startujemy!"
 date: "2013-09-18"
-categories: 
+categories:
   - "news"
   - "z-kraju"
   - "ze-swiata"

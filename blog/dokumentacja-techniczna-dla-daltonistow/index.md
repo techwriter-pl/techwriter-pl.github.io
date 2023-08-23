@@ -1,11 +1,11 @@
 ---
 title: "Dokumentacja techniczna dla daltonistów"
 date: "2021-03-08"
-categories: 
+categories:
   - "dobre-praktyki"
   - "narzedzia"
   - "przyklady"
-tags: 
+tags:
   - "dokumentacja"
   - "dostepnosc"
   - "edukacja"
@@ -35,7 +35,7 @@ Istnieje wiele rodzajów ślepoty barw. Głównie sprowadza się to do niewyraź
 
 Z kolei ludzie z daltonizmem są w stanie widzieć rzeczy równie wyraźnie jak zwykli użytkownicy, ale mają trudności z rozróżnianiem kolorów. Dlatego termin „daltonizm” może być w tym przypadku zbyt ogólny.
 
- 
+
 
 ## Na co zwrócić uwagę przy projektowaniu dokumentacji dla osób z daltonizmem?
 
@@ -51,7 +51,7 @@ Zwykle zakładamy, że kolor zielony kojarzy się z pozytywnym wynikiem a czerwo
 
 [![](images/example-form-poor_1.png)](http://techwriter.pl/wp-content/uploads/2021/02/example-form-poor_1.png)
 
- _Słaby przykład projektu formularza_
+_Słaby przykład projektu formularza_
 
 Podany przykład pokazuje jak kolory czerwony i zielony są widziane przez zwykłego użytkownika oraz przez daltonistę.
 
@@ -59,7 +59,7 @@ Jak można poprawić ten formularz?
 
 [![](images/example-form-better_2.png)](http://techwriter.pl/wp-content/uploads/2021/02/example-form-better_2.png)
 
- _Lepszy przykład projektu formularza_
+_Lepszy przykład projektu formularza_
 
 Poprzez dodanie wizualnych wskazówek lub komunikatów o błędach można wyróżnić pola, w których nastąpiła pomyłka. Zapewnia to użytkownikom z daltonizmem zrozumienie wyświetlonych informacji.
 
@@ -73,7 +73,7 @@ W tym przypadku można zobaczyć, jak kolory mieszają się ze sobą i stają si
 
 [![](images/example-pie-chart-better_2.png)](http://techwriter.pl/wp-content/uploads/2021/02/example-pie-chart-better_2.png)
 
- _Lepszy przykład projektu wykresu_
+_Lepszy przykład projektu wykresu_
 
 Poprzez dodanie białych granic między poszczególnymi segmentami czytelność obrazu znacznie się poprawiła. Ponad to, dodanie objaśnień do wykresu wyraźnie rozróżnia każdą kategorię.
 
@@ -130,7 +130,7 @@ Poniższy przykład pokazuje w jaki sposób można rozwiązać przedstawianie ko
 
 [![](images/example-color-wheels_1.png)](http://techwriter.pl/wp-content/uploads/2021/02/example-color-wheels_1.png)
 
- _Najczęstsze deficyty koloru czerwono-zielonego_ 
+_Najczęstsze deficyty koloru czerwono-zielonego_
 
 Bez opisów rozróżnienie dostępnych opcji wydaje się niemożliwe.
 
@@ -162,7 +162,7 @@ Aby zapewnić daltonistom możliwość rozróżnienia grup ''obiektów", które 
 
 [![](images/6.jpg)](http://techwriter.pl/wp-content/uploads/2021/02/6.jpg)
 
- _Sposoby zestawiania kolorów - kompozycja groszku i marchewki_ 
+_Sposoby zestawiania kolorów - kompozycja groszku i marchewki_
 
 ### Wymagane pola formularza
 
@@ -172,7 +172,7 @@ Oprócz tego możesz rozważyć oznaczanie wymaganych pól gwiazdką lub dodanie
 
 [![](images/7.png)](http://techwriter.pl/wp-content/uploads/2021/02/7.png)
 
-_Przykład formularza z zostosowaniem koloru i dodatkowego opisu_ 
+_Przykład formularza z zostosowaniem koloru i dodatkowego opisu_
 
 Tam, gdzie to możliwe, warto wziąć pod uwagę opcję usunięcia pola jeśli informacja jest nieistotna.
 

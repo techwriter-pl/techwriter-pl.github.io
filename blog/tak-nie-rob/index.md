@@ -1,10 +1,10 @@
 ---
 title: "Tak nie rób"
 date: "2014-08-01"
-categories: 
+categories:
   - "dobre-praktyki"
   - "warsztat"
-tags: 
+tags:
   - "humor"
   - "lokalizacja"
   - "tlumaczenia"

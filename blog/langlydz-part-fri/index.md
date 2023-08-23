@@ -1,10 +1,10 @@
 ---
 title: "Langłydż - part fri"
 date: "2014-01-17"
-categories: 
+categories:
   - "warsztat"
   - "z-przymruzeniem-oka"
-tags: 
+tags:
   - "humor"
   - "jezyk"
 coverImage: "lekcja3.jpg"

@@ -1,10 +1,10 @@
 ---
 title: "MeetContent Wrocław - grudzień 2022"
 date: "2022-11-15"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "kariera"
   - "meetcontent"
   - "praca"

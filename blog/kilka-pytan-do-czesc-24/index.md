@@ -1,10 +1,10 @@
 ---
 title: "Kilka pytań do - część 24"
 date: "2021-10-06"
-categories: 
+categories:
   - "warsztat"
   - "wywiady"
-tags: 
+tags:
   - "kariera"
   - "praca"
   - "spolecznosc"

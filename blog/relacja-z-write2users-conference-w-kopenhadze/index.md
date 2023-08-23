@@ -1,10 +1,10 @@
 ---
 title: "Relacja z Write2Users Conference w Kopenhadze"
 date: "2017-11-24"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "automatyzacja"
   - "edukacja"
   - "konferencje"

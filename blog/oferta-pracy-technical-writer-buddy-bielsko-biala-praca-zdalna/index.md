@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical Writer (Buddy) - Bielsko-Biała / praca zdalna"
 date: "2020-11-16"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "Buddy_logo_400x400.png"
@@ -16,10 +16,10 @@ Niewiele firm z naszego kraju może pochwalić się rozpoznawalnym na całym św
 
 Oto [link do oryginalnego ogłoszenia](https://justjoin.it/offers/buddy-technical-writer) przez który możecie aplikować.
 
-* * *
+---
 
 Hi! We are a group of independent software engineers building the easiest and fastest CI/CD platform out there. We challenge the market with our innovative low code approach. Each day we help thousands of developers deliver better web & mobile applications faster.  
-We are currently looking for an experienced **Technical Writer** to work hand in hand with our development team. If you are a tech person with a rare skill of putting the binary world into words, or a writer with a deep understanding of what lies below the GUI level, then go for it & apply!  
+We are currently looking for an experienced **Technical Writer** to work hand in hand with our development team. If you are a tech person with a rare skill of putting the binary world into words, or a writer with a deep understanding of what lies below the GUI level, then go for it & apply!
 
 **Your responsibilities**
 
@@ -52,6 +52,6 @@ We are currently looking for an experienced **Technical Writer** to work hand in
 - Healthy soups every day, fresh orange juice, specialty coffee, nuts from all over the world (once you pop into the office).
 - If you are a weirdo, you won’t be the only one.
 
-* * *
+---
 
 POWODZENIA!

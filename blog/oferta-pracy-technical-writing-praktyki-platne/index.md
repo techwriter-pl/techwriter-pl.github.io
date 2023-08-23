@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical writing - praktyki (płatne!)"
 date: "2018-04-23"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "IBM-logo.gif"

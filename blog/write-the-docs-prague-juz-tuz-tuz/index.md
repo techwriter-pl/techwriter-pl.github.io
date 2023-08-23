@@ -1,10 +1,10 @@
 ---
 title: "Write the Docs Prague już tuż tuż"
 date: "2018-08-21"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "edukacja"
   - "kariera"
   - "konferencje"

@@ -1,10 +1,10 @@
 ---
 title: "Ile zarabia Technical Writer - odsłona druga"
 date: "2014-04-29"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "Pile-of-money-007.jpg"

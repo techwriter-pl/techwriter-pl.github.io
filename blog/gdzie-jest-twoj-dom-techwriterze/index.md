@@ -1,16 +1,16 @@
 ---
 title: "Gdzie jest Twój dom, techwriterze?"
 date: "2014-12-02"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "ankieta"
   - "praca"
 coverImage: "survey.jpg"
 ---
 
-Jakiś czas temu, na łamach [techwhirl.com]( http://techwhirl.com), ukazała się ankieta dotycząca umiejscowienia zespołu odpowiedzialnego za komunikację techniczną w ramach organizacji-matki. A może ojca? Nieważne. Zagłosujcie, pokażcie gdzie jesteście i sprawdźcie gdzie są inni.
+Jakiś czas temu, na łamach [techwhirl.com](http://techwhirl.com), ukazała się ankieta dotycząca umiejscowienia zespołu odpowiedzialnego za komunikację techniczną w ramach organizacji-matki. A może ojca? Nieważne. Zagłosujcie, pokażcie gdzie jesteście i sprawdźcie gdzie są inni.
 
 A przede wszystkim napiszcie nam w komentarzach :).
 

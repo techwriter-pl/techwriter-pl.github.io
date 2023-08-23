@@ -1,11 +1,11 @@
 ---
 title: "Konferencje 2016 - pierwsze półrocze"
 date: "2016-01-05"
-categories: 
+categories:
   - "news"
   - "z-kraju"
   - "ze-swiata"
-tags: 
+tags:
   - "konferencje"
   - "spolecznosc"
 coverImage: "konfer.jpg"

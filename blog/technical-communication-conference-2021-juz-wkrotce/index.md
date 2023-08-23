@@ -1,10 +1,10 @@
 ---
 title: "TECHNICAL COMMUNICATION CONFERENCE 2021 już wkrótce"
 date: "2021-10-20"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "dokumentacja"
   - "kariera"
   - "konferencje"

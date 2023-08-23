@@ -1,10 +1,10 @@
 ---
 title: "Langłydż - part fołur"
 date: "2014-01-31"
-categories: 
+categories:
   - "warsztat"
   - "z-przymruzeniem-oka"
-tags: 
+tags:
   - "humor"
   - "jezyk"
 coverImage: "Lekcja4.jpg"

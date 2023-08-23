@@ -1,10 +1,10 @@
 ---
 title: "Zapraszamy na MadWorld San Diego"
 date: "2019-02-26"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "edukacja"
   - "kariera"
   - "konferencje"

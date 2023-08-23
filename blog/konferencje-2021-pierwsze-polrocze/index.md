@@ -1,11 +1,11 @@
 ---
 title: "Konferencje 2021 - pierwsze półrocze"
 date: "2020-12-17"
-categories: 
+categories:
   - "news"
   - "z-kraju"
   - "ze-swiata"
-tags: 
+tags:
   - "dokumentacja"
   - "edukacja"
   - "kariera"
@@ -63,7 +63,7 @@ Podobnie jak w tym roku, większość wydarzeń odbędzie się online. Jak zawsz
 
 ### Kwiecień
 
-15-16 kwietnia - [Request 2021](https://2020.request.pl/) - **online** 
+15-16 kwietnia - [Request 2021](https://2020.request.pl/) - **online**
 
 14-16 kwietnia - [AIIP 2021](https://www.aiip.org/conference) - **online**
 

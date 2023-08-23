@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical Writer (Unit4)"
 date: "2017-11-17"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "unit4-logo-250.png"

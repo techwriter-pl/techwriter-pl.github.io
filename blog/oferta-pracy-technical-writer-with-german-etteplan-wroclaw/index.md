@@ -1,9 +1,9 @@
 ---
 title: "Oferta pracy: Technical Writer with German (Etteplan) – Wrocław/zdalnie"
 date: "2021-01-25"
-categories: 
+categories:
   - "oferty-pracy"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "Etteplan_logo.jpg"
@@ -17,7 +17,7 @@ https://youtu.be/2SmG2CuoWBk
 
 Szczegóły ogłoszenia poniżej, a także pod [linkiem](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1522&ProjectId=147710&DepartmentId=18983&MediaId=5&SkipAdvertisement=False), gdzie znajdziecie również magiczny przycisk "Apply".
 
-* * *
+---
 
 ## Technical Writer with German
 
@@ -81,6 +81,6 @@ Etteplan is a place for people driven by innovation and technology. We like to s
 
 For more information please contact Erwina Łobaza (erwina.lobaza@etteplan.com, +48 668 678 758).
 
-* * *
+---
 
 Powodzenia!

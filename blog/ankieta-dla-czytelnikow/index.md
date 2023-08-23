@@ -1,9 +1,9 @@
 ---
 title: "Ankieta dla czytelników"
 date: "2021-11-04"
-categories: 
+categories:
   - "news"
-tags: 
+tags:
   - "ankieta"
 coverImage: "Konferencje-2019-8.png"
 ---
@@ -18,7 +18,7 @@ Aby wypełnić ankietę, wystarczy kliknąć w baner znajdujący się poniżej:[
 
 ### O ankiecie:
 
--  Udzielenie odpowiedzi na nasze pytanie powinna zająć około 5 minut. 🙂
+- Udzielenie odpowiedzi na nasze pytanie powinna zająć około 5 minut. 🙂
 - Przygotowaliśmy dla Was 15 pytań, z których:  9 dotyczy oceny bloga, jego wizerunku i oczekiwań czytelników, z czego 2 to krótkie pytania otwarte oraz 6 pytań pozwalających zdefiniować grupę odbiorców treści, które zamieszczamy na portalu.
 - Ankieta jest anonimowa.
 - Liczymy na Waszą szczerość w udzielanych odpowiedziach.

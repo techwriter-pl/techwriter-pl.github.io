@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical Writer (Etteplan)"
 date: "2019-01-18"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "Etteplan_logo_CMYK-new.jpg"

@@ -1,10 +1,10 @@
 ---
 title: "Kilka pytań do - część 12"
 date: "2017-01-20"
-categories: 
+categories:
   - "warsztat"
   - "wywiady"
-tags: 
+tags:
   - "spolecznosc"
   - "wywiad"
 coverImage: "interview.jpg"
@@ -64,7 +64,7 @@ Nie do końca :). Sądzę, że bardzo pomogła mi wiedza zdobyta na studiach mar
 
 Serdecznie dziękujemy za wywiad, jeżeli chcielibyście się skontaktować z Kasią, dajcie nam znać!
 
-* * *
+---
 
 English version:
 

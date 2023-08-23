@@ -1,11 +1,11 @@
 ---
 title: "Za co tłumacze lubią autorów - składaki"
 date: "2018-05-07"
-categories: 
+categories:
   - "dobre-praktyki"
   - "przyklady"
   - "warsztat"
-tags: 
+tags:
   - "instrukcje"
   - "jezyk"
   - "manuale"

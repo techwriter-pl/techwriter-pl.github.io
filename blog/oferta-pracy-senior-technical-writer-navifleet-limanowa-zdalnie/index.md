@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Senior Technical Writer (Navifleet) – Limanowa/zdalnie"
 date: "2021-05-27"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "Navifleet_2.jpg"
@@ -14,7 +14,7 @@ Bardzo ciekawa oferta - tworzenie dokumentacji w języku polskim (i angielskim).
 
 Wasz potencjalny nowy pracodawca działa od 2013 roku. Pomaga klientom w całej Europie efektywniej wykorzystywać floty pojazdów i parki maszyn, tworząc system do zarządzania flotą dla fleet managerów. Wspiera managerów flot w podejmowaniu lepszych decyzji, a kierowców w bezwypadkowej i oszczędnej jeździe. Zmniejszenie ilości spalanego paliwa ma również pozytywny wpływ na środowisko!
 
-* * *
+---
 
 ## **Senior Technical Writer**
 
@@ -80,6 +80,6 @@ Zainteresowanych zapraszamy do przesyłania CV na adres: praca\[at\]navifleet.pl
 
 Prosimy o dołączenie do CV odpowiedniej klauzuli **-** [informacje znajdziesz tutaj](https://www.navifleet.pl/upload/files/KLAUZULA_rekrutacja.pdf).
 
-* * *
+---
 
 Powodzenia!

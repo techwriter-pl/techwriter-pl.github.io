@@ -1,10 +1,10 @@
 ---
 title: "Soap! Just Wants to Have Fun"
 date: "2014-12-09"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "konferencje"
   - "spolecznosc"
 coverImage: "soap.jpg"

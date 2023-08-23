@@ -1,10 +1,10 @@
 ---
 title: "Meet Content w Krakowie i Wrocławiu - Maj 2017"
 date: "2017-05-22"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "dita"
   - "edukacja"
   - "kariera"

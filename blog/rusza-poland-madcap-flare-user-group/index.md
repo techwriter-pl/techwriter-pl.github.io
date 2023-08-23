@@ -1,10 +1,10 @@
 ---
 title: "Rusza Poland MadCap Flare User Group"
 date: "2017-06-01"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "aplikacje"
   - "edukacja"
   - "spolecznosc"

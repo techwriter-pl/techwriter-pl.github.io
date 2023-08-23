@@ -1,11 +1,11 @@
 ---
 title: "Naucz się sam(a) - część 2"
 date: "2014-04-02"
-categories: 
+categories:
   - "dobre-praktyki"
   - "przyklady"
   - "warsztat"
-tags: 
+tags:
   - "edukacja"
   - "kariera"
   - "literatura"
@@ -17,9 +17,9 @@ Skąd czerpać wiedzę o komunikacji technicznej? Prezentujemy kolejną ciekaw�
 
 Ostatnimi czasy zacząłem wgryzać się w temat samodokształcania w dziedzinie Technical Writingu. Jak już zostało ustalone, kursów, które mogłyby rozwinąć naszą wiedzę w tej materii jest jak na lekarstwo (albo ja słabo szukałem). Poza wspomnianym w poprzednim [poście](http://techwriter.pl/naucz-sie-sama/) kursem na Wikiversity, ciężko znaleźć coś sensownego w sieci.
 
-Jeśli chodzi o tradycyjne szkolenia, to możemy wziąć udział w dwudniowym szkoleniu w Katowicach, które kosztuje “tylko” 2500 zł netto ([http://ittraining.pl/szkolenia/wytworzyc\_system/szkolenia\_praktyczne/komunikacja\_techniczna\_i\_tworzenie\_dokumentacji\_oprogramowania](http://ittraining.pl/szkolenia/wytworzyc_system/szkolenia_praktyczne/komunikacja_techniczna_i_tworzenie_dokumentacji_oprogramowania)). Poza tym pustynia.
+Jeśli chodzi o tradycyjne szkolenia, to możemy wziąć udział w dwudniowym szkoleniu w Katowicach, które kosztuje “tylko” 2500 zł netto ([http://ittraining.pl/szkolenia/wytworzyc_system/szkolenia_praktyczne/komunikacja_techniczna_i_tworzenie_dokumentacji_oprogramowania](http://ittraining.pl/szkolenia/wytworzyc_system/szkolenia_praktyczne/komunikacja_techniczna_i_tworzenie_dokumentacji_oprogramowania)). Poza tym pustynia.
 
-Osoby, które rozpoczynają dopiero edukację wyższą mają odrobinę lepiej. Mogą pomyśleć o studiach na Instytucie Filologii Angielskiej UJ. Od roku akademickiego 2013/2014 na studiach magisterskich są prowadzone kursy przygotowujące do tworzenia dokumentacji technicznej. Program został opracowany wspólnie z firmą Motorola ([http://www.ifa.filg.uj.edu.pl/aktualnosci/-/journal\_content/56\_INSTANCE\_A0MXPtrnu5sy/4285783/23736287](http://www.ifa.filg.uj.edu.pl/aktualnosci/-/journal_content/56_INSTANCE_A0MXPtrnu5sy/4285783/23736287)).
+Osoby, które rozpoczynają dopiero edukację wyższą mają odrobinę lepiej. Mogą pomyśleć o studiach na Instytucie Filologii Angielskiej UJ. Od roku akademickiego 2013/2014 na studiach magisterskich są prowadzone kursy przygotowujące do tworzenia dokumentacji technicznej. Program został opracowany wspólnie z firmą Motorola ([http://www.ifa.filg.uj.edu.pl/aktualnosci/-/journal_content/56_INSTANCE_A0MXPtrnu5sy/4285783/23736287](http://www.ifa.filg.uj.edu.pl/aktualnosci/-/journal_content/56_INSTANCE_A0MXPtrnu5sy/4285783/23736287)).
 
 W związku z tym, że wszelkie powyższe rozwiązania są dla mnie albo niekompletne, albo za drogie, albo niedostępne, postanowiłem rozeznać temat “literatury branżowej”. Przeczesałem trochę internet w poszukiwaniu rekomendacji od kolegów i koleżanek po fachu. Na blogu [I’d Rather Be Writing](http://idratherbewriting.com/), znalazłem całkiem obszerną listę książek, z którymi warto się zapoznać. Możemy tam znaleźć 40 pozycji o różnej tematyce, poczynając od Technical Writingu, poprzez wytyczne dotyczące stylu pisania, a kończąc na zarządzaniu treścią. Zainteresowanych odsyłam do wpisu na blogu [http://idratherbewriting.com/2010/09/10/40-foundational-books-for-technical-writing/](http://idratherbewriting.com/2010/09/10/40-foundational-books-for-technical-writing/) .
 

@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical Writer x2"
 date: "2016-12-05"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "3di_logo.png"

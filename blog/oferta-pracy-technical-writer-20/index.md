@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical Writer"
 date: "2016-12-19"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "jamf_logo.jpg"
@@ -14,7 +14,7 @@ Lubicie jabłka? Firma Jamf – eksperci w zarządzaniu urządzeniami Apple w pr
 
 Więcej szczegółów poniżej, lub pod linkiem: [https://www.jamf.com/jobs/view/technical-writer-1118/](https://www.jamf.com/jobs/view/technical-writer-1118/)
 
-* * *
+---
 
 ### Job Description
 
@@ -48,6 +48,6 @@ Ideal candidates are exceptional writers who are analytical, insightful, and pas
 
 Apply [Apply Now](http://newton.newtonsoftware.com/career/SubmitResume.action?clientId=8ad8dbd13b38043b013b3f232c231eb6&id=8a7880cf58b8fc930158bc965597114f&specialization=)
 
-* * *
+---
 
 Powodzenia!

@@ -1,11 +1,11 @@
 ---
 title: "Naucz się sam(a) - część 8"
 date: "2018-03-29"
-categories: 
+categories:
   - "dobre-praktyki"
   - "przyklady"
   - "warsztat"
-tags: 
+tags:
   - "dokumentacja"
   - "edukacja"
   - "instrukcje"
@@ -76,7 +76,7 @@ Poza wyżej wymienionymi podcastami, warto wspomnieć też o dobrze wszystkim zn
 
 I jeszcze mała ciekawostka. Nasz dobry kolega Paweł Kowaluk miał okazję być gościem podcasta Write the Docs oraz Content Content. Poniżej podajemy linki do nagrań:
 
-- [Write the Docs odcinek 7](http://podcast.writethedocs.org/2017/07/03/episode-7-machine-automation-and-poland/) 
+- [Write the Docs odcinek 7](http://podcast.writethedocs.org/2017/07/03/episode-7-machine-automation-and-poland/)
 - [Content Content odcinek 16](http://edmarsh.com/2017/06/27/like-thomas-pynchon-pawel-kowaluk-content-content-episode-16)
 
 # Poczytaj mi...

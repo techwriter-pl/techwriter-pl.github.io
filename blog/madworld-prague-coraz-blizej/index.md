@@ -1,10 +1,10 @@
 ---
 title: "MadWorld Prague coraz bliżej"
 date: "2018-07-12"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "edukacja"
   - "kariera"
   - "konferencje"

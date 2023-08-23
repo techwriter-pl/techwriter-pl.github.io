@@ -1,10 +1,10 @@
 ---
 title: "Szkolenie i certyfikat z komunikacji technicznej"
 date: "2015-08-11"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "szkolenia"
 coverImage: "itcqf_logo_black-e1442054514270.jpg"
 ---
@@ -21,7 +21,7 @@ Czym jest ITCQF? Według organizatorów szkoleń i egzaminów:
 
 > _International Technical Communication Qualifications Foundation_ (ITCQF®) to kompleksowy program certyfikacji z zakresu komunikacji technicznej, opracowany we współpracy z uznanymi ekspertami techcomm oraz w oparciu o istniejące normy międzynarodowe. Program ma na celu ułatwienie procesu uczenia się dla początkujących, jak również uzupełnienie i organizację wiedzy już doświadczonych specjalistów techcomm. ITCQF® zapewnia możliwość ujednolicenia terminologii, procesów i najlepszych praktyk stosowanych przez profesjonalistów na całym świecie w różnych organizacjach.
 
- 
+
 
 Ale ponieważ najlepiej sprawdzić u źródła, skontaktowaliśmy się z twórcami tej organizacji, odwiedziliśmy też stronę internetową [itcqf.org](http://itcqf.org/),  i... musimy przyznać, że przypadła nam do gustu. Nie jest to może najbardziej rozpoznawalny certyfikat na świecie, ale w naszych warunkach praktycznie jedyny możliwy do zdobycia. Dodatkowo, widać, że twórcy nie zamierzają poprzestać na poziomie Foundation i już teraz planują kolejne, bardziej wyspecjalizowane szkolenia dla Technical Writerów, skupione już na konkretnych częściach naszej profesji, np. zarządzanie, tłumaczenia, Agile, automatyzacja, DITA...
 

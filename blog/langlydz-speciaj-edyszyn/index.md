@@ -1,10 +1,10 @@
 ---
 title: "Langłydż - specjal edyszyn"
 date: "2015-11-25"
-categories: 
+categories:
   - "warsztat"
   - "z-przymruzeniem-oka"
-tags: 
+tags:
   - "humor"
   - "jezyk"
 coverImage: "redkaptur.jpg"

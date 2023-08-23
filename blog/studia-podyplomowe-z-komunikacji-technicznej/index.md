@@ -1,10 +1,10 @@
 ---
 title: "Studia podyplomowe z komunikacji technicznej"
 date: "2016-06-13"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "edukacja"
   - "kariera"
   - "szkolenia"

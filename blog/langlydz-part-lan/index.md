@@ -1,10 +1,10 @@
 ---
 title: "Langłydż - part łan"
 date: "2013-12-03"
-categories: 
+categories:
   - "warsztat"
   - "z-przymruzeniem-oka"
-tags: 
+tags:
   - "humor"
   - "jezyk"
 coverImage: "langlydz1.jpg"

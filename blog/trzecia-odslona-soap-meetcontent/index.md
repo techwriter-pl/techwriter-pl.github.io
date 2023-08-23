@@ -1,10 +1,10 @@
 ---
 title: "Trzecia odsłona soap! MeetContent"
 date: "2017-02-15"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "edukacja"
   - "kariera"
   - "spolecznosc"

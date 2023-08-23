@@ -1,9 +1,9 @@
 ---
 title: "Tech writer - ujawniacz wiedzy"
 date: "2022-04-06"
-categories: 
+categories:
   - "warsztat"
-tags: 
+tags:
   - "zarzadzanie-wiedza"
 coverImage: "tech_writer-ujawniacz_wiedzy.png"
 ---

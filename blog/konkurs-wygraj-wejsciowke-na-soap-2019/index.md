@@ -1,10 +1,10 @@
 ---
 title: "Konkurs - wygraj wejściówkę na soap! 2019"
 date: "2019-05-10"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "konferencje"
   - "spolecznosc"
 coverImage: "soap_konkurs-1.png"

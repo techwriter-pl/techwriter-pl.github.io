@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Specjalista ds. dokumentacji IT / Technical Writer"
 date: "2014-10-21"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "inittec_logo.jpg"

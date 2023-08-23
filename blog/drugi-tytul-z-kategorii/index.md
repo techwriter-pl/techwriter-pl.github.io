@@ -1,9 +1,9 @@
 ---
 title: "Dowcip"
 date: "2013-09-18"
-categories: 
+categories:
   - "z-przymruzeniem-oka"
-tags: 
+tags:
   - "humor"
 ---
 

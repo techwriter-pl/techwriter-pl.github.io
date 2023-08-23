@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical Writer (Craftware)"
 date: "2018-02-04"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "logo_z_claim.png"

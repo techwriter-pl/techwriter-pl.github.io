@@ -1,10 +1,10 @@
 ---
 title: "Formaty i kanały dystrybucji dokumentacji — jaki wybrać?"
 date: "2022-03-16"
-categories: 
+categories:
   - "dobre-praktyki"
   - "przyklady"
-tags: 
+tags:
   - "online"
   - "pdf"
   - "poradnik"
@@ -36,7 +36,7 @@ Skoro już o zadowolonym kliencie mowa, to dobrze jest wziąć pod uwagę to, w 
 
 Wiadomo, że w tym przypadku prym wiodą treści drukowane. Jak to się mówi: papier wszystko przyjmie. Ale adnotacji nie boją się też PDF-y, które przy otwarciu ich z użyciem odpowiednich — często darmowych narzędzi — pozwalają na zaznaczanie i komentowanie fragmentów treści. Z resztą jak praktyka pokazuje, taka możliwość przydaje się nie tylko odbiorcom końcowym, lecz także samym tech writerom. Odpowiednio oznaczone zmiany zamieszczone w pliku PDF można podesłać do oceny związanemu z tematem zmian _Subject Matter Expertowi_.
 
-\[caption id="attachment\_10766" align="aligncenter" width="820"\][![Narzędzia do zaznaczania i przeglądania treści dostępne w Adobe Reader](images/pdf_markup.png)](http://techwriter.pl/wp-content/uploads/2019/08/pdf_markup.png) _Narzędzia do zaznaczania i przeglądania treści dostępne w Adobe Reader_\[/caption\]
+\[caption id="attachment_10766" align="aligncenter" width="820"\][![Narzędzia do zaznaczania i przeglądania treści dostępne w Adobe Reader](images/pdf_markup.png)](http://techwriter.pl/wp-content/uploads/2019/08/pdf_markup.png) _Narzędzia do zaznaczania i przeglądania treści dostępne w Adobe Reader_\[/caption\]
 
 Pomoc online spisuje się w tym aspekcie nieco gorzej, ponieważ tutaj musimy sami zadbać o wbudowanie mechanizmów pozwalających na personalizację treści. Wszystko tak naprawdę zależy tu od inwencji i zaawansowania tech writera w budowaniu stron WWW. Jeżeli ktoś wprawny weźmie się za zbudowanie dokumentacji w takim formacie, to naprawdę może zdziałać istne cuda: dodać narzędzia pozwalające na zaznaczenie przez użytkownika ważnych fragmentów czy sekcji, wykorzystać bardziej interaktywną naturę stron HTML do prezentowania fragmentów kodu, zaimplementować interaktywne narzędzia do zwiększenia przystępności dla odbiorców z niepełnosprawnościami, wbudować mechanizm dodawania zakładek, czy też zadbać o dobrą wyszukiwarkę. Możliwości jest co nie miara. A zaletą jest to, że dostępność i mnogość takich funkcjonalności zależy wyłącznie od nas.
 
@@ -44,7 +44,7 @@ Pomoc online spisuje się w tym aspekcie nieco gorzej, ponieważ tutaj musimy sa
 
 W przypadku przeszukiwania i przeglądania treści, oba formaty właściwie idą łeb w łeb (czy jak ktoś woli — nagłówek w nagłówek). W przypadku PDF-ów korzystamy z przeszukiwarki wbudowanej w przeglądarkę tychże dokumentów. Zazwyczaj już przy przeglądaniu PDF-a za pośrednictwem zwykłej przeglądarki internetowej wynajdziemy względnie szybko potrzebną nam treść. Przy użyciu bardziej zaawansowanego narzędzia typu Acrobat Reader istnieje możliwość skorzystania z bardziej rozbudowanego narzędzia przeszukiwania, które usprawni pracę z dokumentem technicznym.
 
-\[caption id="attachment\_10773" align="aligncenter" width="590"\][![Zaawansowana wyszukiwarka Acrobat Readera](images/pdf_search-1024x430.png)](http://techwriter.pl/wp-content/uploads/2019/08/pdf_search.png) _Zaawansowana wyszukiwarka Acrobat Readera_\[/caption\]
+\[caption id="attachment_10773" align="aligncenter" width="590"\][![Zaawansowana wyszukiwarka Acrobat Readera](images/pdf_search-1024x430.png)](http://techwriter.pl/wp-content/uploads/2019/08/pdf_search.png) _Zaawansowana wyszukiwarka Acrobat Readera_\[/caption\]
 
 Pomoc online w gruncie rzeczy nie ustępuje tu niczym PDF-owi. Przy korzystaniu z gotowych rozwiązań pozwalających na generowanie stron z dokumentacją, wbudowana wyszukiwarka jest standardem. Uzupełnieniem może być wyszukiwarka oferowana przez samą przeglądarkę internetową, która to dodatkowo pozwoli przeszukać wyświetlaną stronę. Tutaj zatem można uznać, że oba formaty są sobie równe.
 
@@ -54,7 +54,7 @@ Przy doborze formatu końcowego dokumentacji technicznej warto również wziąć
 
 Skoro już zahaczamy o tematykę interakcji i wygody użytkownika przy konsumpcji dokumentacji technicznej, warto też zastanowić się, jak format tej treści wpływa na jej przystępność. Jak wcześniej wspomnieliśmy, w format online łatwiej wbudować mechanizmy ułatwiające dostęp dla osób z niepełnosprawnościami. Możemy zadbać o przyciski zmieniające wielkość i styl czcionki, zmieniające schemat kolorów lub cały motyw strony. Zdecydowanie łatwiej odpowiedzieć na potrzeby użytkownika, kiedy nie tylko tworzymy treść, ale też mamy wpływ na to jak można ją przeglądać.
 
-\[caption id="attachment\_10764" align="aligncenter" width="831"\][![Elementy strony WWW ułatwiające przeglądanie](images/html_interactive.png)](http://techwriter.pl/wp-content/uploads/2019/08/html_interactive.png) _Elementy strony WWW ułatwiające przeglądanie_\[/caption\]
+\[caption id="attachment_10764" align="aligncenter" width="831"\][![Elementy strony WWW ułatwiające przeglądanie](images/html_interactive.png)](http://techwriter.pl/wp-content/uploads/2019/08/html_interactive.png) _Elementy strony WWW ułatwiające przeglądanie_\[/caption\]
 
 W przypadku PDF-a takich możliwości jest zdecydowanie mniej, bo z reguły takie dokumenty są mniej dynamiczne. Dostępu do zmiany wyglądu dokumentu ma się tu tyle, ile oferuje program, w którym ten dokument otworzymy. No dobrze — można dodać adnotację o rekomendowanym oprogramowaniu, którego należałoby użyć do przeglądania danego dokumentu, lecz jest to bardziej sposób na obejście problemu niż jego uniknięcie.
 

@@ -1,10 +1,10 @@
 ---
 title: "Konferencja soap! 2017 - 5. edycja coraz bliżej"
 date: "2017-04-27"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "edukacja"
   - "kariera"
   - "konferencje"

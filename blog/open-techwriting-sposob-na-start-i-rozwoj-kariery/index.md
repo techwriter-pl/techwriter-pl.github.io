@@ -1,9 +1,9 @@
 ---
 title: "Open techwriting - sposób na start i rozwój kariery"
 date: "2015-06-02"
-categories: 
+categories:
   - "warsztat"
-tags: 
+tags:
   - "edukacja"
   - "kariera"
 coverImage: "ot_new1.jpg"

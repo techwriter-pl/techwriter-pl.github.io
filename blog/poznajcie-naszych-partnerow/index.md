@@ -1,11 +1,11 @@
 ---
 title: "Poznajcie naszych partnerów"
 date: "2018-02-13"
-categories: 
+categories:
   - "news"
   - "z-kraju"
   - "ze-swiata"
-tags: 
+tags:
   - "konferencje"
   - "spolecznosc"
 coverImage: "shaking-hands-2499628_640.jpg"

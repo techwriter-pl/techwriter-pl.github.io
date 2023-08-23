@@ -1,10 +1,10 @@
 ---
 title: "BADANIE PŁAC W KOMUNIKACJI TECHNICZNEJ 2020 – WYPEŁNIJ ANKIETĘ!"
 date: "2020-04-06"
-categories: 
+categories:
   - "badanie-plac"
   - "praca"
-tags: 
+tags:
   - "ankieta"
   - "kariera"
   - "praca"

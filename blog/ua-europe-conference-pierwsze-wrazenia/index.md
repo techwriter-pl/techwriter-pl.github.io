@@ -1,10 +1,10 @@
 ---
 title: "UA Europe Conference - pierwsze wrażenia"
 date: "2014-06-10"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "konferencje"
 coverImage: "UA_Conference.png"
 ---

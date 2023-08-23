@@ -1,10 +1,10 @@
 ---
 title: "Relacja z krakowskiego spotkania MeetContent (25.04)"
 date: "2017-05-09"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "meetcontent"
   - "spolecznosc"
 coverImage: "oscar-keys-58399-e1493737693921.jpg"

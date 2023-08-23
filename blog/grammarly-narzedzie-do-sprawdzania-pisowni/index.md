@@ -1,10 +1,10 @@
 ---
 title: "Grammarly - narzędzie do sprawdzania pisowni"
 date: "2017-08-09"
-categories: 
+categories:
   - "narzedzia"
   - "warsztat"
-tags: 
+tags:
   - "aplikacje"
   - "technologie"
   - "uzytecznosc"
@@ -24,7 +24,7 @@ Następnym krokiem jest zainstalowanie aplikacji, które nas interesują. A to b
 - Aplikacja na Windows i Mac - dedykowany edytor tekstu
 - Wykrywacz plagiatów - [dostępny tutaj](https://www.grammarly.com/plagiarism-checker)
 
-\[caption id="attachment\_6011" align="aligncenter" width="735"\][![](images/grammarly-screen-online.png)](http://techwriter.pl/wp-content/uploads/2017/08/grammarly-screen-online.png) Aplikacja Grammarly na Mac OS\[/caption\]
+\[caption id="attachment_6011" align="aligncenter" width="735"\][![](images/grammarly-screen-online.png)](http://techwriter.pl/wp-content/uploads/2017/08/grammarly-screen-online.png) Aplikacja Grammarly na Mac OS\[/caption\]
 
 # Wersja darmowa i płatna
 

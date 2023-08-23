@@ -1,10 +1,10 @@
 ---
 title: "Alternatywy dla Grammarly"
 date: "2018-01-16"
-categories: 
+categories:
   - "narzedzia"
   - "warsztat"
-tags: 
+tags:
   - "instrukcje"
   - "jezyk"
   - "manuale"
@@ -27,7 +27,7 @@ Jeśli chcecie skontaktować się z autorem, piszcie do nas na adres [kontakt@t
 
 # Good alternatives to Grammarly in 2018
 
-Students, bloggers and all types of writers want perfection in their articles and blogs. Because of their tough schedules, they usually don’t have enough time to review their work several times to ensure their content is free of all errors.  
+Students, bloggers and all types of writers want perfection in their articles and blogs. Because of their tough schedules, they usually don’t have enough time to review their work several times to ensure their content is free of all errors.
 
 Fortunately, there are some apps that can save you some time and help you improve the quality of your writing.
 

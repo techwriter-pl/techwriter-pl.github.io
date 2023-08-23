@@ -1,10 +1,10 @@
 ---
 title: "Klocki Lego czyli powrót do korzeni"
 date: "2014-02-18"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "instrukcje"
 coverImage: "lego.jpg"
 ---

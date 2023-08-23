@@ -1,10 +1,10 @@
 ---
 title: "Content Automation for Dummies - recenzja"
 date: "2018-10-11"
-categories: 
+categories:
   - "biblioteczka-techwritera"
   - "warsztat"
-tags: 
+tags:
   - "automatyzacja"
   - "literatura"
   - "narzedzia"

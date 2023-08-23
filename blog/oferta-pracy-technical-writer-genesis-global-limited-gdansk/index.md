@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical Writer (Genesis Global Limited) – Gdańsk"
 date: "2019-10-07"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "Genesis-Global-Logo-e1570441493957.jpg"
@@ -14,9 +14,9 @@ A może nad morze? Trafiła do nas kolejna ciekawa oferta, raczej dla osoby z do
 
 Szczegóły poniżej, a [tutaj bezpośredni link gdzie możecie zgłosić swoje zainteresowanie ofertą](https://boards.greenhouse.io/genesisgloballimited/jobs/4465386002?gh_src=71512ac12).
 
- 
 
-* * *
+
+---
 
 What you will do:
 
@@ -41,8 +41,8 @@ At Genesis we offer a friendly, dynamic work environment. We believe that our em
 
 In addition to an excellent remuneration package and a dynamic work environment, we also believe in work-life balance and flexibility.
 
-* * *
+---
 
- 
+
 
 Powodzenia!

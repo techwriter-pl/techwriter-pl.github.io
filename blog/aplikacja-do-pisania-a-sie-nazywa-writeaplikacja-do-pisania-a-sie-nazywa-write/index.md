@@ -1,10 +1,10 @@
 ---
 title: "Aplikacja do pisania Write!"
 date: "2018-01-10"
-categories: 
+categories:
   - "narzedzia"
   - "warsztat"
-tags: 
+tags:
   - "aplikacje"
 coverImage: "write.png"
 ---
@@ -30,12 +30,12 @@ Mieliśmy okazję potestować aplikację przez jakiś czas i poniżej umieszczam
 - spellcheck po polsku!
 - autocomplete, czyli autouzupełnianie w czasie pisania, które zgaduje jakie słowo chcemy napisać (chociaż dla niektórych może to być minus, a nie plus)[![](images/write-autocomplete.png)](http://techwriter.pl/wp-content/uploads/2017/12/write-autocomplete.png)
 - eksport do wielu formatów
-    - HTML
-    - PDF
-    - ODF
-    - DOCX
-    - TXT
-    - Markdown (.md, .markdown, .mdown, textile .md, wiki .md)
+  - HTML
+  - PDF
+  - ODF
+  - DOCX
+  - TXT
+  - Markdown (.md, .markdown, .mdown, textile .md, wiki .md)
 
 # Drobne minusy
 

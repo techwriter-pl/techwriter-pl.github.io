@@ -1,11 +1,11 @@
 ---
 title: "Czy techwriter to z definicji autor i to w dodatku bestsellerów?"
 date: "2021-01-29"
-categories: 
+categories:
   - "przyklady"
   - "warsztat"
   - "z-przymruzeniem-oka"
-tags: 
+tags:
   - "dokumentacja"
   - "humor"
   - "kariera"
@@ -45,7 +45,7 @@ Praca techwritera bywa przy tym nieprzewidywalna jak pogoda. Czasami nowy tydzie
 
 Naraz okazuje się, że w fazie developmentu (_korp. fazie rozwoju, opracowywania_) rzeczywistość skrzeczy najgłośniej - faktyczne potrzeby nakładu pracy przekraczają wcześniejsze założenia dotyczące obciążenia zespołu dokumentacyjnego. Trzeba zatem mieć świadomość, że wprawdzie nikt nie zobowiąże nas do napisania podręcznika użytkownika o grubości stu stron na już, ale okresy mniejszego obładowania przeplatane są często okresami, kiedy dosłownie nie wiadomo w co ręce włożyć. I tutaj właśnie dochodzimy do tej części przytoczonego wiersza, kiedy techwriter/ka jest niepewny/a cozrobień.
 
-Lecz pod płaszczykiem tych wszystkich trudów i znoju kryją się momenty naprawdę ogromnej satysfakcji. Najczęściej pojawia się ona, kiedy po tygodniach rozmów ze SME otrzymuje się, w odpowiedzi na którąś z kolei prośbę o aprobatę wprowadzonych zmian, komunikat: "jest ok". Zapewniamy was, drodzy czytelnicy i czytelniczki, że w tych dwóch słowach kryje się największe szczęście. A po kilku takich właśnie fazach i litrach wypitej kawy oraz wyspecjalizowaniu się w produkcie, który już niedługo ma zmienić życie klientów, przychodzi moment releasu _(korp. wydanie na świat naszego dzieła)._ 
+Lecz pod płaszczykiem tych wszystkich trudów i znoju kryją się momenty naprawdę ogromnej satysfakcji. Najczęściej pojawia się ona, kiedy po tygodniach rozmów ze SME otrzymuje się, w odpowiedzi na którąś z kolei prośbę o aprobatę wprowadzonych zmian, komunikat: "jest ok". Zapewniamy was, drodzy czytelnicy i czytelniczki, że w tych dwóch słowach kryje się największe szczęście. A po kilku takich właśnie fazach i litrach wypitej kawy oraz wyspecjalizowaniu się w produkcie, który już niedługo ma zmienić życie klientów, przychodzi moment releasu _(korp. wydanie na świat naszego dzieła)._
 
 Kiedy tylko faza wydawania nowego dziecka na świat się zakończy, w głowie techwritera/ki grzmią fajerwerki, na skrzynkę odbiorczą przychodzą podziękowania i gratulacje, przy kawie opowiada się, już teraz z uśmiechem na twarzy, najbardziej nerwowe momenty jako anegdoty. Można na nowo planować porządki na pulpicie, a liderowi zespołu opowiedzieć o nowych planach na przyszłość.
 

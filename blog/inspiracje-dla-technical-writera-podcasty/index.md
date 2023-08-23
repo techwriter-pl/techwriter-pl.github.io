@@ -1,10 +1,10 @@
 ---
 title: "Inspiracje dla technical writera - podcasty"
 date: "2021-08-10"
-categories: 
+categories:
   - "przyklady"
   - "warsztat"
-tags: 
+tags:
   - "podcast"
   - "praca"
   - "praktyki"

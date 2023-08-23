@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical Documentation Specialist (Pega)"
 date: "2018-04-06"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "pega_logo_horizontal_positive_rgb_small.png"

@@ -1,11 +1,11 @@
 ---
 title: "Dokumentowanie API – Część 2: Dokumentacja referencyjna"
 date: "2018-11-20"
-categories: 
+categories:
   - "dobre-praktyki"
   - "przyklady"
   - "warsztat"
-tags: 
+tags:
   - "api"
   - "narzedzia"
 coverImage: "OpenAPI.png"
@@ -27,7 +27,7 @@ Relacja między dokumentacją referencyjną a koncepcyjną jest analogiczna do t
 
 Skoro już mniej więcej wiemy, jakie rodzaje treści mogą występować w dokumentacji API, przyjrzymy się przykładowemu wpisowi w “programistycznym słowniku” API Instagrama:
 
-\[caption id="attachment\_7337" align="aligncenter" width="834"\]![](images/InstagramApi.jpeg "Instagram API") Instagram API\[/caption\]
+\[caption id="attachment_7337" align="aligncenter" width="834"\]![](images/InstagramApi.jpeg "Instagram API") Instagram API\[/caption\]
 
 Powyższy przykład dokumentuje punkt dostępowy o nazwie users/self/media/recent, który, zgodnie z opisem, zwraca ostatnie media opublikowane przez konto, z którym jest powiązany podany _access token_ (czyli coś w rodzaju klucza, którym się legitymujemy przed serwerem API). Poza nazwą endpointa i jego opisem, poznajemy także wspieraną metodę (GET), przykładową odpowiedź serwera (kryjącą się pod przyciskiem “Response”) oraz opis parametrów, które mogą się znaleźć w łańcuchu zapytania.
 
@@ -46,32 +46,27 @@ Ostatnim, i chyba największym, niedomaganiem HAT-ów w kontekście dokumentowan
 OpenAPI to otwarty standard umożliwiający definiowanie REST-owych API. Opierając się na nim możemy opisać całość funkcjonalności API w niewielkim dokumencie tekstowym w języku [YAML](http://yaml.org/) (gdzie dane strukturyzuje się przy pomocy wcięć). Przytoczony powyżej przykład z API Instagrama można by w nim wyrazić w następujący sposób (innym dopuszczalnym formatem jest JSON, przy czym jest on mniej popularny ze względu na gorszą czytelność):
 
 paths:
-  /users/self/media/recent:
-    get:
-      description: Get the most recent media published by the owner of the access\_token.
-      tags:
-        - user
-      parameters:
-        - name: ACCESS\_TOKEN
-          in: query
-          description: A valid access token.
-          schema:
-            type: string
-        - name: MIN\_ID
-          in: query
-          description: Return media earlier than this max\_id.
-          schema:
-            type: string
-        - name: MAX\_ID
-          in: query
-          description: Return media later than this min\_id.
-          schema:
-            type: string
-        - name: COUNT
-          in: query
-          description: Count of media to return.
-          schema:
-            type: string
+/users/self/media/recent:
+get:
+description: Get the most recent media published by the owner of the access_token.
+tags: - user
+parameters: - name: ACCESS_TOKEN
+in: query
+description: A valid access token.
+schema:
+type: string - name: MIN_ID
+in: query
+description: Return media earlier than this max_id.
+schema:
+type: string - name: MAX_ID
+in: query
+description: Return media later than this min_id.
+schema:
+type: string - name: COUNT
+in: query
+description: Count of media to return.
+schema:
+type: string
 
 Taką definicję można wyciągnąć albo bezpośrednio z kodu przy użyciu specjalnego generatora, albo stworzyć ją ręcznie. Zwłaszcza ten drugi wariant niesie ze sobą dużo korzyści, szczególnie jeśli specyfikację opracujemy przed powstaniem API, ponieważ już na samym starcie ujawni ona wiele błędów i niespójności. Dodatkowo programiści otrzymują wtedy swego rodzaju kontrakt, którego muszą się trzymać podczas rozwijania API.
 
@@ -79,11 +74,11 @@ Definicja zgodna ze standardem OpenAPI jest bardzo klarowna sama w sobie i, co w
 
 Wróćmy jednak do tematu tego wpisu. Ponieważ OpenAPI jest otwartym standardem cieszącym się bardzo dużą popularnością, mamy do wyboru [szeroką gamę](https://github.com/OAI/OpenAPI-Specification/blob/master/IMPLEMENTATIONS.md) programów, które pozwolą nam wygenerować dokumentację referencyjną na podstawie definicji API. Honorowe miejsce w tym gronie zajmują narzędzia z pakietu Swaggera, za którego sprawą standard ten w ogóle powstał\*. Wśród nich chyba najbardziej interesujące z punktu widzenia dokumentacji są dwa programy – **Swagger Editor** i **Swagger UI**. Ten pierwszy umożliwia pisanie specyfikacji OpenAPI bezpośrednio w przeglądarce, weryfikując w czasie rzeczywistym, czy pisana definicja jest zgodna ze standardem. Od razu generuje też podgląd dokumentacji, dzięki czemu łatwiej jest dostrzec ewentualne błędy merytoryczne. Swagger Editor można sobie przetestować [tutaj](https://editor.swagger.io/).
 
-\[caption id="attachment\_7339" align="aligncenter" width="737"\]![](images/SwaggerEditor.jpeg) Swagger Editor\[/caption\]
+\[caption id="attachment_7339" align="aligncenter" width="737"\]![](images/SwaggerEditor.jpeg) Swagger Editor\[/caption\]
 
 Gdy mamy już gotową definicję OpenAPI możemy skorzystać ze Swagger UI, który wygeneruje nam na jej podstawie całkiem atrakcyjną dokumentację referencyjną (która w wersji domyślnej będzie wyglądać [tak](https://petstore.swagger.io/)). Powstałą w ten sposób stronę internetową możemy ostylować zgodnie z naszą firmową paletą i umieścić na dowolnym serwerze, gdzie użytkownicy będą mogli z niej korzystać. Na przykład opisaną wcześniej definicję punktu dostępowego w API Instagrama Swagger UI przekształciłby w taką oto dokumentację:
 
-\[caption id="attachment\_7340" align="aligncenter" width="611"\]![](images/SwaggerUI.jpeg) Swagger UI\[/caption\]
+\[caption id="attachment_7340" align="aligncenter" width="611"\]![](images/SwaggerUI.jpeg) Swagger UI\[/caption\]
 
 Z punktu widzenia odbiorcy dokumentacja referencyjna wygenerowana przy użyciu narzędzi Swaggera jest bardzo przejrzysta. Dodatkową zaletę stanowi możliwość wypróbowania zapytań bezpośrednio w dokumentacji. Swagger prezentuje się bardzo dobrze również od kuchni, choć wymaga nieco technicznej wiedzy. Jeśli jednak dysponujemy dobrze napisaną lub wygenerowaną automatycznie z kodu definicją OpenAPI, aktualizowanie dokumentacji referencyjnej będzie czystą przyjemnością.
 
@@ -91,6 +86,6 @@ Zarzutem często wysuwanym pod adresem Swaggera jest to, że generowana przez ni
 
 Dzisiejszy wpis wyszedł dłuższy niż się spodziewałem, ale dokumentowanie API to rozległy temat. Skupiliśmy się na dokumentacji referencyjnej, która obok materiałów koncepcyjnych stanowi trzon każdej dokumentacji REST-owego API. Następnie wkroczyliśmy w świat standardu OpenAPI i narzędzi Swaggera, które oferują bardzo wygodny sposób na tworzenie dokumentacji referencyjnej. W kolejnej części cyklu weźmiemy na warsztat dokumentację koncepcyjną, przyjrzymy się narzędziom, które możemy zastosować podczas jej pisania, a na koniec omówimy możliwości publikacji kompletnej dokumentacji API.
 
- 
+
 
 \*W 2015 roku firma SmartBear Software, do której należy Swagger, powołała do życia OpenAPI Initiative, która to objęła pieczę nad specyfikacją OpenAPI (dawnej funkcjonującą pod nazwą Swagger Specification) jako otwartym standardem, który miał być od tej pory rozwijany przy współpracy wielu firm w ramach Linux Foundation.

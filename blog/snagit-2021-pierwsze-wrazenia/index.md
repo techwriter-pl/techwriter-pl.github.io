@@ -1,10 +1,10 @@
 ---
 title: "Snagit 2021 - pierwsze wrażenia"
 date: "2020-11-17"
-categories: 
+categories:
   - "narzedzia"
   - "warsztat"
-tags: 
+tags:
   - "grafika"
   - "narzedzia"
   - "praktyki"

@@ -1,10 +1,10 @@
 ---
 title: "Kilka pytań do - część 7"
 date: "2015-10-27"
-categories: 
+categories:
   - "warsztat"
   - "wywiady"
-tags: 
+tags:
   - "spolecznosc"
   - "wywiad"
 coverImage: "microphone-17846_640.jpg"
@@ -82,7 +82,7 @@ Tak, ukończyłam studia magisterskie z komunikacji technicznej, co znacznie uł
 
 Zarobki są dobre! Zakładając pełen etat, pensja rozpoczyna się od 20 tysięcy euro dla świeżo upieczonych TW i rośnie wraz ze wzrostem doświadczenia. Na poziomie seniora zarobki przekraczają poziom 55 tysięcy. Ludzie na kontraktach mogą zarobić więcej.
 
-* * *
+---
 
 ### How long have you been working as a Tech Writer?
 

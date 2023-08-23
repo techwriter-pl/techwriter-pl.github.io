@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical Content Specialist (Open-E)"
 date: "2019-03-21"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "logo_open_e.jpg"

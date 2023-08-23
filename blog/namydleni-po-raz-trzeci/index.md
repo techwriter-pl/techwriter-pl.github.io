@@ -1,10 +1,10 @@
 ---
 title: "Namydleni po raz trzeci"
 date: "2015-10-14"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "konferencje"
   - "spolecznosc"
 coverImage: "koszyk_soap.jpg"
@@ -104,7 +104,7 @@ A teraz czas na garść faktów, które otrzymaliśmy od organizatorów. Pierwsz
 
 Tak jak pisaliśmy na początku, tegoroczny soap! był zdecydowanie inny niż rok temu. Czy na plus czy na minus to już pozostawiamy indywidualnej ocenie uczestników. Oczywiście minusy, o których wspominaliśmy pozostaną minusami bez względu na punkt widzenia, jednak jeśli chodzi o całą resztę to na pewno znajdą się osoby, dla których tegoroczna atmosfera była właśnie tym czego oczekiwali.
 
-Cieszymy się ogromnie, że w kalendarzu konferencji dla naszego kraju na stałe zagościło wydarzenie, które daje nam, specjalistom od tworzenia treści, możliwość spotkania się i wymiany doświadczeń. Jest to tym bardziej pozytywne, że już drugi rok z rzędu można było uczestniczyć w pierwszym dniu konferencji całkowicie za darmo. 
+Cieszymy się ogromnie, że w kalendarzu konferencji dla naszego kraju na stałe zagościło wydarzenie, które daje nam, specjalistom od tworzenia treści, możliwość spotkania się i wymiany doświadczeń. Jest to tym bardziej pozytywne, że już drugi rok z rzędu można było uczestniczyć w pierwszym dniu konferencji całkowicie za darmo.
 
 Mamy nadzieję, że zapał organizatorów nie opadnie i że lekcje wyniesione z tegorocznej edycji wykorzystają do zrobienia jeszcze lepszej konferencji w następnym roku. Tym bardziej im dopingujemy, że lwią część roboty związanej z organizacją konferencji wykonują w swoim wolnym czasie.
 

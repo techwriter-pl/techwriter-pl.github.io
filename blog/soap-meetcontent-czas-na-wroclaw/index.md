@@ -1,10 +1,10 @@
 ---
 title: "Soap! MeetContent - czas na Wrocław"
 date: "2017-02-22"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "edukacja"
   - "kariera"
   - "spolecznosc"

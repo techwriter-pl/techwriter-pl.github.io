@@ -1,10 +1,10 @@
 ---
 title: "soap! 2015 - ostatnie odliczanie"
 date: "2015-09-24"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "konferencje"
   - "spolecznosc"
 coverImage: "soap2015.png"

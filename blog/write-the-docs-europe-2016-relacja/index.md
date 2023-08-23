@@ -1,10 +1,10 @@
 ---
 title: "Write the Docs Europe 2016 - relacja"
 date: "2016-10-04"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "konferencje"
   - "spolecznosc"
 coverImage: "29760161775_868d72d023_z-e1475185286934.jpg"

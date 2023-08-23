@@ -1,10 +1,10 @@
 ---
 title: "soap! 2014 - summary of day 1"
 date: "2014-11-18"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "konferencje"
   - "spolecznosc"
 coverImage: "soap.jpg"

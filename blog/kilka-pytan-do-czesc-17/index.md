@@ -1,10 +1,10 @@
 ---
 title: "Kilka pytań do - część 17"
 date: "2019-02-19"
-categories: 
+categories:
   - "warsztat"
   - "wywiady"
-tags: 
+tags:
   - "spolecznosc"
   - "wywiad"
 coverImage: "microphone-1172260_640.jpg"
@@ -84,7 +84,7 @@ Po dłuższej przerwie powracamy do cyklu "Kilka pytań do". Co więcej, ten wyw
 
 **Mateusz:** Mogę jedynie poradzić coś dla aplikujących do branży IT - aplikuj do firmy, gdzie jest już ktoś doświadczony, nie bój się popsuć aplikacji, zadawaj dużo pytań, naucz się czytać kod i podstaw programowania i pamiętaj, że tester Twoim przyjacielem jest.
 
- 
+
 
 Jeśli macie dodatkowe pytania, możecie skontaktować się z naszymi rozmówcami za pomocą LinkedIn:
 

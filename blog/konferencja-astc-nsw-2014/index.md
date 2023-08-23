@@ -1,10 +1,10 @@
 ---
 title: "Konferencja ASTC (NSW) 2014"
 date: "2014-10-31"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "konferencje"
   - "spolecznosc"
   - "zarzadzanie-trescia"

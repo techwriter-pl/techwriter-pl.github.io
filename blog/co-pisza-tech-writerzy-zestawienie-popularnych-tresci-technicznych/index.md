@@ -1,11 +1,11 @@
 ---
 title: "Co piszą tech writerzy? Zestawienie popularnych treści technicznych"
 date: "2022-02-24"
-categories: 
+categories:
   - "dobre-praktyki"
   - "przyklady"
   - "warsztat"
-tags: 
+tags:
   - "dokumentacja"
   - "knowledge-base"
   - "praca"
@@ -26,13 +26,13 @@ Warto jednak pamiętać, że odbiorcą dokumentacji produktowej nie zawsze jest 
 
 Można jednak -- zdroworozsądkowo na sprawę patrząc -- uznać, że podręcznik użytkownika będzie obejmować wszelkie te obszary, które podpowiadają jak się obyć z danym produktem unikając sugerowania modyfikacji, które wymagają wykwalifikowanej wiedzy, bez której to zabawa w speca może skończyć się uszczerbkiem na zdrowiu, a w najlepszej sytuacji uszkodzeniem produktu.
 
-\[caption id="attachment\_9708" align="aligncenter" width="1013"\][![Opis rozdziałów w instrukcji do aparatów Canon, źródło: canon.pl](images/canon_powershot.jpg)](http://techwriter.pl/wp-content/uploads/2021/01/canon_powershot.jpg) Opis rozdziałów w instrukcji do aparatów Canon, źródło: canon.pl\[/caption\]
+\[caption id="attachment_9708" align="aligncenter" width="1013"\][![Opis rozdziałów w instrukcji do aparatów Canon, źródło: canon.pl](images/canon_powershot.jpg)](http://techwriter.pl/wp-content/uploads/2021/01/canon_powershot.jpg) Opis rozdziałów w instrukcji do aparatów Canon, źródło: canon.pl\[/caption\]
 
 Od strony warsztatu pisarskiego bywa, że tego typu treść daje się generować dość szybko, o ile stosowny dział w firmie produkującej opiera swój model rozwijania dokumentacji o ponowne użycie treści. Znaczy to tyle, że poszczególne fragmenty (rozdziały i podsekcje) podręczników użytkownika do oferowanych produktów są na tyle uogólnione lub tak zaprojektowane, że mogą się wpasować w większą ilość wariantów danego produktu. Wyobraźmy sobie na przykład serię aparatów fotograficznych, lub rodzinę lodówek, które z grubsza oferują te same możliwości, lecz różnią się wybranymi parametrami oraz wymiarami fizycznymi.
 
 Jeśli zaś trzeba się nad jakimś fragmentem takowej instrukcji pochylić i dodać kilka akapitów od siebie, to może to być wyzwanie związane nie tylko stricte z językiem technicznym, lecz czasem też reklamowym. Podręczniki użytkownika lądują prosto w rękach klienta i wszelkie wrażenia jakie on odbierze są tu niezwykle cenne, bo mogą zaważyć na dalszej sympatii wobec produktu oraz producenta. Stawia się tu zatem na przystępność, atrakcyjność i nowoczesny wygląd.
 
-\[caption id="attachment\_9721" align="aligncenter" width="1024"\][![Instrukcja do iPhone'a 12 dostępna na stronie producenta. Źródło: apple.com](images/appl_iphone12_user_guide.jpg)](http://techwriter.pl/wp-content/uploads/2021/01/appl_iphone12_user_guide.jpg) Instrukcja do iPhone'a 12 dostępna na stronie producenta. Źródło: apple.com\[/caption\]
+\[caption id="attachment_9721" align="aligncenter" width="1024"\][![Instrukcja do iPhone'a 12 dostępna na stronie producenta. Źródło: apple.com](images/appl_iphone12_user_guide.jpg)](http://techwriter.pl/wp-content/uploads/2021/01/appl_iphone12_user_guide.jpg) Instrukcja do iPhone'a 12 dostępna na stronie producenta. Źródło: apple.com\[/caption\]
 
 Forma podręcznika w tym kontekście to kwestia umowna. Wciąż popularne jest drukowanie opasłych instrukcji i pakowanie ich do pudełek, lecz nierzadko zastępuje się je PDF-ami dostępnymi do pobrania na stronie producenta. Powszechny jest także format HTML. W takim przypadku użytkownik może nawigować po instrukcji jak po zwykłym portalu, otrzymując przy tym dostęp do wyszukiwarki oraz pewność, że zawsze ma dostęp do najświeższej wersji dokumentu. Ta metoda pokazuje też, że nie tylko użytkownik w tym kontekście może być zielony w temacie, bo ileż można oszczędzić drzew decydując się na elektroniczną dystrybucję dokumentacji technicznej!
 
@@ -40,7 +40,7 @@ Forma podręcznika w tym kontekście to kwestia umowna. Wciąż popularne jest d
 
 Informację o tym jak uzyskać dostęp do elektronicznej wersji instrukcji produktu często zawiera się w skróconej instrukcji obsługi. To ten drobny świstek papieru, który albo wyrzucamy w pierwszej kolejności kiedy odpakowujemy świeżo zakupiony produkt i chcemy się do niego dokopać, albo ten który jest gorzkim rozczarowaniem kwitującym nasze przekopywanie się przez zawartość pudełka tylko po to, aby dowiedzieć się, że już nic w nim nie ma. Ten niepozorny skrawek papieru ma jednakże olbrzymią wartość, gdyż najczęściej w szybki i przystępny sposób przeprowadza nas przez czynności, których opisanie przy użyciu konwencjonalnych metod zajęłoby kilkanaście stron tekstu i nie mniej minut naszej uwagi. Zawartość najczęściej zawęża się do ponumerowanych grafik pokazujących montaż, rozkład elementów produktu, itp.
 
-\[caption id="attachment\_9705" align="aligncenter" width="590"\][![Samsung Galaxy Note20 5G Quick Reference Guide](images/samsng_note20_qckstrtg-1024x423.jpg)](http://techwriter.pl/wp-content/uploads/2021/01/samsng_note20_qckstrtg.jpg) Samsung Galaxy Note20 5G Quick Reference Guide Źródło: samsung.com\[/caption\]
+\[caption id="attachment_9705" align="aligncenter" width="590"\][![Samsung Galaxy Note20 5G Quick Reference Guide](images/samsng_note20_qckstrtg-1024x423.jpg)](http://techwriter.pl/wp-content/uploads/2021/01/samsng_note20_qckstrtg.jpg) Samsung Galaxy Note20 5G Quick Reference Guide Źródło: samsung.com\[/caption\]
 
 Krótka, przystępna i elegancka -- cóż tutaj może pójść źle? Sporo, jak pokazuje praktyka. Opracowanie skróconych instrukcji obsługi, szczególnie tych bazujących w większości na użyciu grafik, w fazie produkcji opiera się na komunikacji działu inżynieryjnego z dzialem grafików, którą to koordynuje właśnie tech writer/ka. Odpowiada on/ona nie tylko za właściwy przepływ informacji, lecz także za odpowiednie ich odfiltrowanie, aby skrócona instrukcja faktycznie była zwięzła w treści.
 
@@ -52,7 +52,7 @@ W przypadku dokumentu technicznego dedykowanego administratorom, developerom lub
 
 Bywa, że jest to jedna instrukcja licząca sobie nawet 1000 stron lub cała rodzina odrębnych dokumentów, gdzie każdy dedykowany jest wybranemu komponentowi danego produktu. Niezależnie od ogólnej architektury tychże podręczników, znajdziemy w nich szeroki przekrój treści różnego rodzaju. Natkniemy się tu zatem na dłuższe fragmenty opisowe dające ogólny pogląd na całość architektury i działania produktu, schematy, rysunki techniczne, materiały referencyjne oraz specyfikacje, pojedyncze procedury lub rodziny procedur (zwane procesami), sekcje rozwiązywania problemów, a nawet glosariusze.
 
-\[caption id="attachment\_9716" align="aligncenter" width="742"\][![Fragment dokumentacji do Symfony 5.2, źródło: https://symfony.com](images/symphony_doc.jpg)](http://techwriter.pl/wp-content/uploads/2021/01/symphony_doc.jpg) Fragment dokumentacji do Symfony 5.2. Źródło: symfony.com\[/caption\]
+\[caption id="attachment_9716" align="aligncenter" width="742"\][![Fragment dokumentacji do Symfony 5.2, źródło: https://symfony.com](images/symphony_doc.jpg)](http://techwriter.pl/wp-content/uploads/2021/01/symphony_doc.jpg) Fragment dokumentacji do Symfony 5.2. Źródło: symfony.com\[/caption\]
 
 Co ciekawe, czasami odbiorca tych dokumentów przewyższa swą wiedzą osoby zajmujące się projektowaniem i tworzeniem produktu, włączając w to tech writera/kę, dlatego opracowanie dedykowanych dokumentów wymaga posiadanie albo zaawansowanej wiedzy albo wnikliwego umysłu gotowego, aby ją przyjąć. Nie ma jednak co popadać w strach, bo zdarza się, że odrębne zespoły pracujące w dziale R&D (Reaserch & Development, _ang. badania i rozwój_) działają bez skrupulatnej wiedzy poglądowej na cały produkt. I jakoś się udaje.
 
@@ -74,7 +74,7 @@ Zazwyczaj jest to utarta treść współdzielona przez większość dokumentów 
 
 Release Notes (w skrócie RN lub RNs) tworzy się przy wypuszczaniu kolejnej wersji oprogramowania. Informują one o rozwiązanych błędach, usprawnieniach i poprawkach, dodatkowych funkcjonalnościach i wszelkich zmianach istotnych z punktu widzenia zarówno przeciętnego użytkownika, jak i developera obsługującego dane oprogramowanie po stronie klienta.
 
-\[caption id="attachment\_9729" align="aligncenter" width="476"\][![Przykład release notek aplikacji Orange Flex.](images/RNs_flex.jpg)](http://techwriter.pl/wp-content/uploads/2021/01/RNs_flex.jpg) Przykład release notek aplikacji Orange Flex.\[/caption\]
+\[caption id="attachment_9729" align="aligncenter" width="476"\][![Przykład release notek aplikacji Orange Flex.](images/RNs_flex.jpg)](http://techwriter.pl/wp-content/uploads/2021/01/RNs_flex.jpg) Przykład release notek aplikacji Orange Flex.\[/caption\]
 
 Nie jest powiedziane, że przygotowaniem takiej informacji z definicji musi zajmować się tech writer/ka, choć najczęściej się tak dzieje. Informacje kompletowane są po stronie zespołów pracujących nad produktem, zaś do obowiązków dokumentalisty/ki należy oprawa językowa, pilnowanie spójności z poprzednio wydanymi RNs czy też właściwa ich publikacja w wyznaczonym do tego miejscu. Mogą być generowane za pośrednictwem skryptu, lecz zdarza się też, że powstają we współdzielonym przez wiele osób dokumencie, do którego dorzuca się kolejne informacje istotne dla wydawanej wersji oprogramowania.
 

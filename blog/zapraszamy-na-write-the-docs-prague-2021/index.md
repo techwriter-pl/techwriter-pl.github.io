@@ -1,10 +1,10 @@
 ---
 title: "ZAPRASZAMY NA WRITE THE DOCS PRAGUE 2021"
 date: "2021-04-15"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "kariera"
   - "konferencje"
   - "praca"

@@ -1,10 +1,10 @@
 ---
 title: "Poznajcie Stacey"
 date: "2014-04-08"
-categories: 
+categories:
   - "narzedzia"
   - "warsztat"
-tags: 
+tags:
   - "zarzadzanie-trescia"
 coverImage: "stacey.png"
 ---

@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Specjalista ds. tworzenia dokumentacji/instrukcji technicznych"
 date: "2017-07-25"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "CAL_logo.jpg"

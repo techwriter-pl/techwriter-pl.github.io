@@ -1,10 +1,10 @@
 ---
 title: "OFERTA PRACY: TECHNICAL WRITER (NOBL9) – ZDALNA"
 date: "2023-03-03"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "oferta-pracy"
   - "praca"
@@ -19,7 +19,7 @@ Nobl9 poszukuje Technical Writera, który dołączy do zespołu w Poznaniu, któ
 
 Osoby zainteresowane mogą aplikować bezpośrednio przez [ogłoszenie](https://boards.greenhouse.io/nobl9/jobs/4537369003) lub skorzystać z [linku do aplikowania](https://grnh.se/5265c9c93us).
 
-* * *
+---
 
 ## Technical Writer Poland (remote)
 
@@ -76,6 +76,6 @@ Nobl9, the software reliability platform, is in the noble pursuit of reliable so
 
 Nobl9 is proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.
 
-* * *
+---
 
 Wszystkim chętnym życzymy powodzenia!

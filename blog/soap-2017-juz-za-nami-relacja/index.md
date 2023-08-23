@@ -1,10 +1,10 @@
 ---
 title: "Soap! 2017 już za nami - relacja"
 date: "2017-06-26"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "edukacja"
   - "konferencje"
   - "spolecznosc"
@@ -18,7 +18,7 @@ Piąta edycja polskiego święta tech commu minęła w błyskawicznym tempie. Za
 
 Soap! już po raz drugi gościł w [Muzeum Sztuki i Techniki Japońskiej Manggha](http://manggha.pl/), w samym centrum Krakowa. Widok na Wawel, klimatyczny ogród, dobrze nagłośniona sala główna, nowoczesna architektura - właściwie trudno o lepsze miejsce dla tego typu konferencji. Kwestie organizacyjne zostały dopięte na ostatni guzik, poczynając od świetnego kateringu i konferencyjnego Wi-Fi, a kończąc na "twitterowej" ścianie, na której na bieżąco można było śledzić reakcje uczestników.
 
- 
+
 
 [![](images/soap_2017_tweet2.png)](http://techwriter.pl/wp-content/uploads/2017/06/soap_2017_tweet2.png)
 
@@ -62,7 +62,7 @@ Zdecydowanie było w czym wybierać. Warsztaty różniły się zarówno tematyk�
 
 [![](images/soap_2017_tweet1.png)](http://techwriter.pl/wp-content/uploads/2017/06/soap_2017_tweet1.png)
 
-Daniel Barrio Fierro, podczas zajęć _The Joy of Coding Slides_, wprowadzał nas w tajniki przygotowywania prezentacji na modłę deweloperską. Najpierw zaprezentował praktyczne i estetyczne walory tego typu slajdów, kusząc efektami, o których zwykli użytkownicy Power Pointa mogą jedynie pomarzyć. Następnie, krok po kroku, przeprowadził nas przez wszystkie niezbędne kroki, jakie należy podjąć, by zacząć realizować swoją wizję idealnej prezentacji. Podczas kilkugodzinnej, drobiazgowo zaplanowanej sesji, uczestnicy mieli okazję przejść od kroków podstawowych, takich jak zakładanie własnego repozytorium na [GitHubie](https://github.com/) lub konfigurowanie arcyprzydatnego edytora [Atom](https://atom.io/), po tworzenie własnych prezentacji za pomocą kapitalnej opensourcowej biblioteki [reveal.js](http://lab.hakim.se/reveal-js/). Efekt? Schludne, szybkie, niezawodne slajdy, które kontrolujesz w 100%, przechowujesz na GitHubie, odpalasz w przeglądarce i sterujesz... smartfonem.
+Daniel Barrio Fierro, podczas zajęć *The Joy of Coding Slides*, wprowadzał nas w tajniki przygotowywania prezentacji na modłę deweloperską. Najpierw zaprezentował praktyczne i estetyczne walory tego typu slajdów, kusząc efektami, o których zwykli użytkownicy Power Pointa mogą jedynie pomarzyć. Następnie, krok po kroku, przeprowadził nas przez wszystkie niezbędne kroki, jakie należy podjąć, by zacząć realizować swoją wizję idealnej prezentacji. Podczas kilkugodzinnej, drobiazgowo zaplanowanej sesji, uczestnicy mieli okazję przejść od kroków podstawowych, takich jak zakładanie własnego repozytorium na [GitHubie](https://github.com/) lub konfigurowanie arcyprzydatnego edytora [Atom](https://atom.io/), po tworzenie własnych prezentacji za pomocą kapitalnej opensourcowej biblioteki [reveal.js](http://lab.hakim.se/reveal-js/). Efekt? Schludne, szybkie, niezawodne slajdy, które kontrolujesz w 100%, przechowujesz na GitHubie, odpalasz w przeglądarce i sterujesz... smartfonem.
 
 ## [![](images/IMG_2434-2-1024x768.jpg)](http://techwriter.pl/wp-content/uploads/2017/06/IMG_2434-2.jpg)
 

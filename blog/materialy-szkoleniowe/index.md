@@ -1,10 +1,10 @@
 ---
 title: "Materiały szkoleniowe"
 date: "2013-11-05"
-categories: 
+categories:
   - "przyklady"
   - "warsztat"
-tags: 
+tags:
   - "materialy-szkoleniowe"
   - "praca"
   - "treningi"

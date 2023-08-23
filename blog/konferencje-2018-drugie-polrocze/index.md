@@ -1,11 +1,11 @@
 ---
 title: "Konferencje 2018 - drugie półrocze"
 date: "2018-06-07"
-categories: 
+categories:
   - "news"
   - "z-kraju"
   - "ze-swiata"
-tags: 
+tags:
   - "dita"
   - "edukacja"
   - "kariera"

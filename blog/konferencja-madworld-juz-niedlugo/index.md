@@ -1,10 +1,10 @@
 ---
 title: "Konferencja MadWorld już niedługo"
 date: "2017-01-27"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "edukacja"
   - "kariera"
   - "konferencje"

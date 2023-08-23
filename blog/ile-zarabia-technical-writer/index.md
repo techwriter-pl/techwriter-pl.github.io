@@ -1,11 +1,11 @@
 ---
 title: "Ile zarabia technical writer?"
 date: "2013-10-13"
-categories: 
+categories:
   - "news"
   - "z-kraju"
   - "ze-swiata"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "pieniadze.jpg"
@@ -19,13 +19,13 @@ W Polsce [**dokumentalista w dziale IT** zarabia **5100** PLN brutto](http://www
 
 Albo [troszeczkę mniej...](http://www.wynagrodzenia.pl/moja_placa.php?s=329)
 
-A na świecie? To zależy – [sami zobaczcie]( http://www.indeed.com/salary/Technical-Writer.html). Podoba nam się  to, że **Nuclear Procedures Writer** zarabia jednak więcej niż „zwykły” **Procedure Writer**. Tutaj [dane z odpowiednika naszego GUS-u](http://www.bls.gov/oes/current/oes273042.htm). Tak to wygląda w USA.
+A na świecie? To zależy – [sami zobaczcie](http://www.indeed.com/salary/Technical-Writer.html). Podoba nam się  to, że **Nuclear Procedures Writer** zarabia jednak więcej niż „zwykły” **Procedure Writer**. Tutaj [dane z odpowiednika naszego GUS-u](http://www.bls.gov/oes/current/oes273042.htm). Tak to wygląda w USA.
 
 A w UK? [Na przykład tak](http://www.payscale.com/salaries/c4bcca41/Technical-Writer-UK-Salary).
 
 Ciekawe i dokładne opracowanie udało nam się znaleźć [w Australii](http://www.techwriter.com.au/news/survey.htm), polecamy zajrzeć do PDF-a podlinkowanego na końcu tej strony...
 
- 
+
 
 Zanim płynnie przejdziecie na portale o życiu Polaków na emigracji (efektowne i aktualne CV każdy szanujący się techwriter ma na pewno zawsze w gotowości ;) ), pozwólcie że podzielimy się z Wami naszym bogatym doświadczeniem w zaciskaniu pasa:
 

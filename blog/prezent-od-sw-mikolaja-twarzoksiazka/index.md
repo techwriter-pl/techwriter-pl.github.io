@@ -1,10 +1,10 @@
 ---
 title: "Prezent od św. Mikołaja - twarzoksiążka"
 date: "2013-12-12"
-categories: 
+categories:
   - "news"
   - "z-przymruzeniem-oka"
-tags: 
+tags:
   - "humor"
   - "spolecznosc"
 coverImage: "Facebook.jpg"

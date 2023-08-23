@@ -1,10 +1,10 @@
 ---
 title: "Pozdrawiamy z Pragi!"
 date: "2016-09-18"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "spolecznosc"
 coverImage: "TechwriterPl3.jpg"
 ---

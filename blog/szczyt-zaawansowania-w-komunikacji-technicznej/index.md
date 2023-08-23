@@ -1,10 +1,10 @@
 ---
 title: "Szczyt zaawansowania w komunikacji technicznej"
 date: "2014-12-12"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "praca"
   - "webinarium"
 coverImage: "virtual-summit-acp2014.jpg"

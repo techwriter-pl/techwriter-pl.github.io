@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical writer x5"
 date: "2016-11-29"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "EtteplanLogo.jpg"
@@ -16,7 +16,7 @@ Firma Etteplan ze Skandynawii planuje otworzyć w Polsce biuro dokumentacji tech
 
 Szczegółowe informacje dotyczące oferty pracy znajdziecie poniżej.
 
-* * *
+---
 
 We are looking for a  **TECHNICAL AUTHOR**
 
@@ -51,7 +51,7 @@ Any experience as a technical writer is an advantage, but not a necessity. If yo
 
 We kindly ask you to email your application including CV to [agata.rogowska@etteplan.com](mailto:agata.rogowska@etteplan.com)
 
- 
+
 
 _Etteplan continues its growth in being market leader in central and northern Europe. As part of our continued growth strategy we’re currently looking for professionals to join our team of technical documentation experts. We’re looking for professionals who combine commercial and technical insights with good communication skills; professionals who are able to meet and exceed our customers’ expectations._
 
@@ -59,6 +59,6 @@ _Etteplan provides engineering services and technical product information soluti
 
 _Etteplan is one of the leading engineering companies in the Nordic countries, headquartered in Finland, offering interesting and challenging jobs in a growing and international working environment. The company currently has more than 2,000 experts in Finland, Sweden, China, Poland, Germany and the Netherlands. Etteplan's shares are listed on NASDAQ OMX Helsinki Ltd._ [_www.etteplan.com_](http://www.etteplan.com)
 
-* * *
+---
 
 Powodzenia!

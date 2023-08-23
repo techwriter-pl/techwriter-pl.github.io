@@ -1,10 +1,10 @@
 ---
 title: "Procedury i szablony"
 date: "2013-11-21"
-categories: 
+categories:
   - "przyklady"
   - "warsztat"
-tags: 
+tags:
   - "praca"
   - "procedury"
   - "szablony"

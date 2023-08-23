@@ -1,11 +1,11 @@
 ---
 title: "Tech Writer koduje - odcinek 26 i 27"
 date: "2021-02-19"
-categories: 
+categories:
   - "dobre-praktyki"
   - "przyklady"
   - "warsztat"
-tags: 
+tags:
   - "api"
   - "automatyzacja"
   - "dokumentacja"

@@ -1,10 +1,10 @@
 ---
 title: "SOAP! 2023 – WEŹ UDZIAŁ W KONKURSIE I ZGARNIJ WEJŚCIÓWKĘ!"
 date: "2023-04-18"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "konkurs"
 coverImage: "soap2023_konkurs.png"
 ---

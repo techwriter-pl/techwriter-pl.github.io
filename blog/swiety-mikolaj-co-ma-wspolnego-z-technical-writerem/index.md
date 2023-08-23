@@ -1,10 +1,10 @@
 ---
 title: "Święty Mikołaj - co ma wspólnego z technical writerem"
 date: "2020-12-22"
-categories: 
+categories:
   - "news"
   - "z-przymruzeniem-oka"
-tags: 
+tags:
   - "humor"
   - "spolecznosc"
 coverImage: "mikolaj.jpg"
@@ -41,14 +41,14 @@ Dla technical writera dostarczenie dokumentacji na czas wiąże się z przejrzen
 Mikołaj otrzymuje listy i musi zdecydować, które dzieci były grzeczne, a które nie oraz kto dostanie prezent, a kto rózgę. Ponadto musi rozszyfrować wiadomości z listów oraz rysunków, aby sprostać postawionym zadaniom. Musi umieć czytać między wierszami 😊.
 
 > Drogi Mikołaju mam nadzieję, że w tym roku przyniesiesz mi ciekawe zabawki:
-> 
+>
 > \- play station
-> 
+>
 > \- drążek pogo
-> 
+>
 > \- rower
 
- 
+
 
 Technical writer na co dzień pracując z różnymi materiałami wejściowymi, mierzy się z podobnymi wyzwaniami, wertując niezliczone strony dokumentów musi zdecydować, które są przydatne i jakie informacje czy grafiki muszą być wykorzystane. Na koniec z pasją ubiera to w odpowiednie słowa kierując się zasadami spójności i przejrzystości tekstu, aby nie było wątpliwości co autor miał na myśli.
 
@@ -74,8 +74,8 @@ Nie oszukujmy się, święta bez Mikołaja nie byłyby takie same. Z kolei dobra
 
 Skąd też wzięła się „wiara” w to, że to on pomoże kiedy potrzeba, tak jak święty Mikołaj :-).
 
- 
+
 
 > Merry Christmas!
-> 
+>
 > Stay calm and trust your technical writer

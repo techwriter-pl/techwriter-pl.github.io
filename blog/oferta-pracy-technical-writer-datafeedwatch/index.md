@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical Writer (DataFeedWatch)"
 date: "2019-05-27"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "DFW-logo_colour_300px.png"

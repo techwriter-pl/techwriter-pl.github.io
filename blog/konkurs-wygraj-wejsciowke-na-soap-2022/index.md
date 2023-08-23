@@ -1,10 +1,10 @@
 ---
 title: "KONKURS – WYGRAJ WEJŚCIÓWKĘ NA SOAP! 2022"
 date: "2022-05-06"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "konkurs"
   - "konferencje"
 coverImage: "soap_konkurs.png"

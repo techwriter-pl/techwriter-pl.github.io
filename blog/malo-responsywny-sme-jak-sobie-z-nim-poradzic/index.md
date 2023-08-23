@@ -1,10 +1,10 @@
 ---
 title: "Mało responsywny SME? Jak sobie z nim poradzić."
 date: "2023-01-31"
-categories: 
+categories:
   - "dobre-praktyki"
   - "warsztat"
-tags: 
+tags:
   - "praca"
   - "praktyki"
 coverImage: "malo_responsywny_sme.png"
@@ -41,7 +41,7 @@ Mając na uwadze powyższe sugestie, pomyśl w jakim środowisku Ty chciałbyś 
 
 Miłego pisania!
 
-* * *
+---
 
 Autorką powyższego tekstu jest Natalia, studentka Komunikacji Technicznej na Vistuli. Bardzo dziękujemy za chęć podzielenia się nim z nami oraz naszymi Czytelnikami.
 

@@ -1,10 +1,10 @@
 ---
 title: "Konferencja soap! - rozpoczynamy ostatnie odliczanie"
 date: "2017-05-25"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "edukacja"
   - "kariera"
   - "konferencje"

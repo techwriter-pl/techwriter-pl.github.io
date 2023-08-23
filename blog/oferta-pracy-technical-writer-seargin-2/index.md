@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical Writer (Seargin)"
 date: "2018-12-20"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "seargin-logo.png"

@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical content specialist / Specjalista ds. treści"
 date: "2015-09-25"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "logo_open_e.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "Oferta pracy: Technical Documentation Officer / Tech Writer (Medicalgorithmics) – Gdańsk/Hybrydowo"
 date: "2021-09-29"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
 coverImage: "MedicalAlgorithmics_logo.jpg"
@@ -19,7 +19,7 @@ Więcej szczegółów dotyczących tej konkrentej oferty znajdziecie poniżej.
 
 Aplikować (i polecać znajomych) możecie [pod tym adresem](https://www.medicalgorithmics.pl/oferty-pracy/gdansk/technical-documentation-officer-).
 
-* * *
+---
 
 ## Technical Documentation Officer / Tech Writer
 
@@ -65,6 +65,6 @@ Głównym zadaniem na tym stanowisku będzie wspieranie zespołów projektujący
 - Elastyczne godziny pracy
 - Benefity: możliwość przystąpienia do pakietu opieki medycznej, prezenty okolicznościowe z okazji ślubu, narodzin dziecka, urodzin oraz świąt, kosz pełen owoców i warzyw 2x w tygodniu
 
-* * *
+---
 
 Powodzenia!

@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: UX Writer (UXPin)"
 date: "2018-10-29"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "uxpin-logo.png"

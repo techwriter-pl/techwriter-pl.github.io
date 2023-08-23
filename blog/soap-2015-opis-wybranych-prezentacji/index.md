@@ -1,10 +1,10 @@
 ---
 title: "soap! 2015 - opis wybranych prezentacji"
 date: "2015-10-20"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "konferencje"
   - "spolecznosc"
 coverImage: "soap_coffee-e1445236483405.jpg"
@@ -14,7 +14,7 @@ Po ogólnym [podsumowaniu](http://techwriter.pl/namydleni-po-raz-trzeci/ "Namydl
 
 Pełna lista prezentacji z pierwszego i drugiego dnia, dostępna jest na [stronie konferecji](http://soapconf.com/schedule/).
 
-Jeśli zamiast streszczenia wolicie krótkie mądrości wyciągnięte z prezentacji, polecamy prześledzenie wpisów na Twitterze oznaczonych hashtagiem [#soapconf](https://twitter.com/hashtag/soapconf). Oprócz tego, na [profilu konferencji](https://www.facebook.com/soapconf ) na Facebooku możecie znaleźć obszerną [galerię zdjęć](https://www.facebook.com/media/set/?set=a.509081215928618.1073741835.191277601042316&type=1&l=4ccaf46fe2 ).
+Jeśli zamiast streszczenia wolicie krótkie mądrości wyciągnięte z prezentacji, polecamy prześledzenie wpisów na Twitterze oznaczonych hashtagiem [#soapconf](https://twitter.com/hashtag/soapconf). Oprócz tego, na [profilu konferencji](https://www.facebook.com/soapconf) na Facebooku możecie znaleźć obszerną [galerię zdjęć](https://www.facebook.com/media/set/?set=a.509081215928618.1073741835.191277601042316&type=1&l=4ccaf46fe2).
 
 [![soap_audience](images/soap_audience.jpg)](http://techwriter.pl/wp-content/uploads/2015/10/soap_audience.jpg)
 

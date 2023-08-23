@@ -1,11 +1,11 @@
 ---
 title: "Dwa łyki statystyki"
 date: "2015-01-09"
-categories: 
+categories:
   - "news"
   - "warsztat"
   - "ze-swiata"
-tags: 
+tags:
   - "jezyk"
   - "praca"
   - "tlumaczenia"

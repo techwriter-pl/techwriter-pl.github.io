@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: technical writer (Devire)"
 date: "2017-11-03"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "Devire_logotyp_kolor_rgb_web.png"

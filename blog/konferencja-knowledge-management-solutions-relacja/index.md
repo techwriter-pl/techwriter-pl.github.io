@@ -1,10 +1,10 @@
 ---
 title: "Konferencja Knowledge Management Solutions - relacja"
 date: "2014-11-04"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "knowledge-base"
   - "konferencje"
   - "zarzadzanie-wiedza"
@@ -23,7 +23,7 @@ Na początek, z kronikarskiego obowiązku, kilka informacji organizacyjnych:
 
 [![KMS_agenda](images/KMS_agenda-576x1024.jpg)](http://techwriter.pl/wp-content/uploads/2014/11/KMS_agenda.jpg)
 
- 
+
 
 Kluczowe rzeczy, które udało nam się wyłapać z poszczególnych prezentacji przedstawiamy poniżej. Niecierpliwych od razu uprzedzamy, że najlepsze było na końcu.
 

@@ -1,12 +1,12 @@
 ---
 title: "Relacja z MeetContentKRK #6 - Automatyzacja przez Jenkinsa"
 date: "2017-11-20"
-categories: 
+categories:
   - "news"
   - "narzedzia"
   - "warsztat"
   - "z-kraju"
-tags: 
+tags:
   - "meetcontent"
   - "technologie"
 coverImage: "oliver-wendel-326840.jpg"

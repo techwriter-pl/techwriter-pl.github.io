@@ -1,7 +1,7 @@
 ---
 title: "Spotkanie Technical Writerów w Krakowie"
 date: "2019-09-18"
-categories: 
+categories:
   - "news"
   - "z-kraju"
 coverImage: "ABB_TW_meetup.jpg"

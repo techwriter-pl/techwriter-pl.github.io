@@ -1,10 +1,10 @@
 ---
 title: "Zapraszamy na UA Europe 2017"
 date: "2017-03-28"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "edukacja"
   - "konferencje"
   - "spolecznosc"

@@ -1,10 +1,10 @@
 ---
 title: "Komunikacja techniczna, czyli jak humanistka może zacząć pracę w IT - warsztaty"
 date: "2021-11-05"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "dokumentacja"
   - "edukacja"
   - "kariera"
@@ -20,7 +20,7 @@ Warsztaty _Komunikacja techniczna, czyli jak humanistka może zacząć pracę w 
 
 Akademia działa w ramach [Centrum Praw Kobiet](https://cpk.org.pl/), którego misją jest przeciwdziałanie wszelkim formom przemocy i dyskryminacji kobiet w życiu prywatnym, publicznym i zawodowym. Działacze Centrum dążą do stworzenia warunków umożliwiających kobietom korzystanie z należnych im praw człowieka w tym prawa do życia wolnego od przemocy i dyskryminacji oraz realizację konstytucyjnej zasady równouprawnienia płci. Ważnym elementem działalności Centrum Praw Kobiet są szeroko rozumiane działania edukacyjne skierowane do kobiet, przedstawicieli wielu grup zawodowych i całego społeczeństwa. Od 25 lat CPK prowadzi aktywną działalność szkoleniową i wydawniczą.
 
-Warsztaty _Komunikacja techniczna, czyli jak humanistka może zacząć pracę w IT_ poprowadzi Basia Kujawska - Senior Technical Author i Lead Author w firmie 3di. Projektowaniem informacji zajmuje się od 2014 roku. Z zawodu jest autorką techniczną, z wykształcenia dziennikarką, a z pasji rowerzystką i podróżniczką.
+Warsztaty *Komunikacja techniczna, czyli jak humanistka może zacząć pracę w IT* poprowadzi Basia Kujawska - Senior Technical Author i Lead Author w firmie 3di. Projektowaniem informacji zajmuje się od 2014 roku. Z zawodu jest autorką techniczną, z wykształcenia dziennikarką, a z pasji rowerzystką i podróżniczką.
 
 ### Dla kogo
 

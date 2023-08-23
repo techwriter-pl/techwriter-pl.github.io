@@ -1,10 +1,10 @@
 ---
 title: "[NIEAKTUALNE] Oferta pracy: Lead Technical Writer"
 date: "2016-01-21"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "3di_logo.png"

@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical writer (Astek) - praca zdalna!"
 date: "2020-01-06"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "ASTEK-Polska-logo-i-hasło.jpg"
@@ -14,7 +14,7 @@ Oferta pracy z domu, z widełkami płacowymi - prawdziwy rarytas na dobry począ
 
 Witajcie w Nowym Roku i przyjmijcie nasze życzenia! Niech 2020 będzie gorszy tylko od 2021... A jeżeli w ramach noworocznych postanowień myśleliście o zmianie pracy - oto ciekawa propozycja:
 
-* * *
+---
 
 # **Technical Writer**
 
@@ -54,6 +54,6 @@ Witajcie w Nowym Roku i przyjmijcie nasze życzenia! Niech 2020 będzie gorszy t
 - Adres do aplikowania: jkirenia(at)astek.pl
 - [Link do ogłoszenia na stronie ASTEK](http://astek.pl/oferty/technical-writer-3046274/)
 
-* * *
+---
 
 POWODZENIA!

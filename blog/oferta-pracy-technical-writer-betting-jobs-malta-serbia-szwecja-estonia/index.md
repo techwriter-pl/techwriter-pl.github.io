@@ -1,10 +1,10 @@
 ---
 title: "Oferta Pracy: Technical Writer (Betting Jobs, Malta, Serbia, Szwecja, Estonia)"
 date: "2019-03-14"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "bettingjobs.png"

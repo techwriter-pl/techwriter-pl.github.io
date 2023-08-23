@@ -1,10 +1,10 @@
 ---
 title: "Elementy wizualnie w dokumentacji technicznej - co warto wiedzieć!"
 date: "2022-01-18"
-categories: 
+categories:
   - "dobre-praktyki"
   - "warsztat"
-tags: 
+tags:
   - "dokumentacja"
   - "grafika"
   - "instrukcje"
@@ -37,26 +37,20 @@ W przypadku symboli warto skorzystać z istniejących standardowych symboli stwo
 Poniżej  kilka wskazówek, które pomogą Wam upewnić się, że  elementy wizualne są używane odpowiednio.
 
 - Unikaj wstawiania grafiki bez opisu - elementy graficzne mają za zadanie wyjaśniać informacje, a nie ozdabiać dokument. Elementy pozbawione sensu są bezużyteczne dla czytelników. Instruując Waszego odbiorcę zwiększacie szanse na lepsze zrozumienie podanych informacji, zwłaszcza jeśli odbiorca nie ma wiedzy w danej dziedzinie lub jest nowy.
-    
-    \[caption id="attachment\_10690" align="aligncenter" width="700"\][![](images/Packaging-design-symbols.png)](http://techwriter.pl/wp-content/uploads/2022/01/Packaging-design-symbols.png) dobra praktyka - grafiki z opisami\[/caption\]
+  \[caption id="attachment_10690" align="aligncenter" width="700"\][![](images/Packaging-design-symbols.png)](http://techwriter.pl/wp-content/uploads/2022/01/Packaging-design-symbols.png) dobra praktyka - grafiki z opisami\[/caption\]
 - Używaj tylko czytelnych grafik - jeśli czytelnik ledwo rozumie, w jakim celu użyta jest grafika lub obraz - psuje to ideę przejrzystości i prostoty tekstu. Dobierając ilustracje pamiętaj, że mają one pomóc czytelnikowi w zrozumieniu konkretnych informacji. Zastanów się, co chcesz przekazać i upewnij się, że ilustracje skupiają się na tym, co chcesz osiągnąć. Kwestia czytelności grafiki jest szczególnie ważna w przypadku zrzutów ekranu. Zrzut ekranu pomaga w zrozumieniu użycia jakiegoś narzędzia programowego lub pokazuje rezultat działania użytkownika. Pamiętajcie, aby Wasze zrzuty ekranu był czytelne. Jednym ze sposobów, który pomoże uzyskać ten efekt jest powiększenie fragmentu ekranu, tak aby tekst był wystarczająco duży. Przydatne mogą okazać się narzędzia do tworzenia zrzutów ekranu. O kilku z nich pisaliśmy [tutaj](http://techwriter.pl/snagit-znacznie-wiecej-niz-zrzuty-ekranu/) i [tutaj](http://techwriter.pl/screenpresso-narzedzie-do-tworzenia-zrzutow-ekranow-i-nie-tylko/).
 - Używaj tylko grafik o wysokiej jakości - źle zaprojektowana grafika wygląda nieprofesjonalnie i niedbale - Wasza dokumentacja powinna być zrozumiała i przyciągać uwagę czytelników. W zależności od potrzeb możecie używać różnych formatów:
-    
     <table style="height: 205px" width="568"><tbody><tr><td width="113"><ul><li><strong><a href="https://en.wikipedia.org/wiki/GIF"><span style="text-decoration: underline">.gif</span></a></strong></li></ul></td><td width="513">idealny dla prostszych obrazów, małych animacji o niskiej rozdzielczości</td></tr><tr><td width="113"><ul><li><strong><a href="https://en.wikipedia.org/wiki/JPEG"><span style="text-decoration: underline">.jpg, .jpeg</span></a></strong></li></ul></td><td width="513">umożliwia zachowanie równowagi miedzy rozmiarem a jakością obrazu</td></tr><tr><td width="113"><ul><li><strong><a href="https://en.wikipedia.org/wiki/Portable_Network_Graphics"><span style="text-decoration: underline">.png</span></a></strong></li></ul></td><td width="513">dobry dla grafik, które wykorzystują duże płaskie obszary kolorów i wymagają przezroczystości</td></tr><tr><td width="113"><ul><li><a href="https://en.wikipedia.org/wiki/Scalable_Vector_Graphics"><span style="text-decoration: underline"><strong>.svg</strong></span></a></li></ul></td><td width="513">idealny dla elementów interfejsu użytkownika, ikon, czy diagramów Mogą być przeszukiwane, indeksowane i kompresowane, a także skalowane bez utraty jakości</td></tr></tbody></table>
-    
+
 - Używaj prostych grafik - grafika powinna być łatwa do odczytania i zrozumiała od pierwszego spojrzenia. Ważne jest, aby na ilustracji technicznej nie działo się zbyt wiele. Jeśli, na przykład, musisz podłączyć urządzenie zarówno do gniazdka elektrycznego, jak i do konkretnej sieci, lepiej stworzyć dwie  odrębne ilustracje zamiast jednej. Dlaczego? Po pierwsze, opisana zostanie tylko jedna czynność. Po drugie, pojedyncza ilustracja z jedną czynnością motywuje do dalszego działania ;) .
-    
-    \[caption id="attachment\_10691" align="aligncenter" width="251"\][![](images/im_2.png)](http://techwriter.pl/wp-content/uploads/2022/01/im_2.png) dobra praktyka - grafika przedstawiająca  krok 1\[/caption\]
-    
-    \[caption id="attachment\_10692" align="aligncenter" width="229"\][![](images/im_3.png)](http://techwriter.pl/wp-content/uploads/2022/01/im_3.png) dobra praktyka - grafika przedstawiająca krok 2               \[/caption\]
+  \[caption id="attachment_10691" align="aligncenter" width="251"\][![](images/im_2.png)](http://techwriter.pl/wp-content/uploads/2022/01/im_2.png) dobra praktyka - grafika przedstawiająca  krok 1\[/caption\]
+  \[caption id="attachment_10692" align="aligncenter" width="229"\][![](images/im_3.png)](http://techwriter.pl/wp-content/uploads/2022/01/im_3.png) dobra praktyka - grafika przedstawiająca krok 2               \[/caption\]
 - Zwróć uwagę na kolorystykę grafik - często są one czarno-białe lub szaro-białe. Jeśli jednak grafika będzie kolorowa – ważne jest aby czytelnicy zinterpretowali ja poprawnie. W niektórych kulturach kolor czerwony może być interpretowany jako zagrożenie, a w innych jako dobrobyt. Jeśli chcecie wiedzieć więcej dlaczego kolory maja znaczenie, zapraszamy [tutaj](https://www.colormatters.com/). Innym aspektem doboru kolorów w grafice jest dostępność. Jest to szczególne istotne gdy czytelnicy mogą mieć problemy ze wzrokiem, o czym więcej pisaliśmy [tutaj](http://techwriter.pl/dokumentacja-techniczna-dla-daltonistow/). Dlatego należy dokładnie sprawdzić, które kombinacje kolorów i kontrast powinny być użyte dla Waszych czytelników.
 - Zwróć uwagę na kolejność grafik i ich ogólne rozmieszczenie - w niektórych krajach odbiorcy będą czytać je od lewej do prawej. W innych może być odwrotnie. Jeśli jest to konieczne ponumeruj swoje grafiki.
-    
-    \[caption id="attachment\_10700" align="aligncenter" width="1200"\][![](images/3ea36f59243041.5bea906e6f176.png)](http://techwriter.pl/wp-content/uploads/2022/01/3ea36f59243041.5bea906e6f176.png) dobra praktyka - numeracja kroków\[/caption\]
+  \[caption id="attachment_10700" align="aligncenter" width="1200"\][![](images/3ea36f59243041.5bea906e6f176.png)](http://techwriter.pl/wp-content/uploads/2022/01/3ea36f59243041.5bea906e6f176.png) dobra praktyka - numeracja kroków\[/caption\]
 - Używaj tylko neutralnych grafik - unikaj przedstawiania rzeczy, które są uważane za obraźliwe w różnych kulturach.
 - Utwórz standardowy styl lub szablon ilustracji - ustal najlepszy format obrazu, preferowany rozmiar obrazu czy linie, aby ich użycie w dokumentacji było spójne. Stosowanie standardów czy szablonów może zapewnić, że tworzona dokumentacja jest taka sama, niezależnie od tego, kto jest jej autorem. Pomaga to również nowym członkom zespołu w ich szybkim włączeniu w proces tworzenia treści.
-    
-    \[caption id="attachment\_10693" align="aligncenter" width="549"\][![](images/ill_4.png)](http://techwriter.pl/wp-content/uploads/2022/01/ill_4.png) dobra praktyka - użycie standardowych linii i stylu\[/caption\]
+  \[caption id="attachment_10693" align="aligncenter" width="549"\][![](images/ill_4.png)](http://techwriter.pl/wp-content/uploads/2022/01/ill_4.png) dobra praktyka - użycie standardowych linii i stylu\[/caption\]
 - Użyj zdrowego rozsądku - przemyśl, gdzie wizualna reprezentacja danych jest ważna, a gdzie zbędna. Na przykład, jeśli macie kilka tematów dotyczących podobnych danych dla różnych rozdziałów, w instrukcji będziecie musieli zachować spójność i dodać ją do innych rozdziałów.
 - Myśl strategicznie - dodając grafiki lub screenshoty do podręcznika użytkownika należy ocenić Wasze zasoby. Być może w przyszłości będziecie musieli utrzymać wszystkie zwizualizowane dane co może znacząco wpłynąć na ilość pracy do jej aktualizacji.
 

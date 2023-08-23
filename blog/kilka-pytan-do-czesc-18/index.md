@@ -1,10 +1,10 @@
 ---
 title: "Kilka pytań do – część 18"
 date: "2020-04-15"
-categories: 
+categories:
   - "warsztat"
   - "wywiady"
-tags: 
+tags:
   - "dokumentacja"
   - "spolecznosc"
   - "wywiad"
@@ -67,7 +67,7 @@ W dziedzinie dokumentacji zawsze pracujemy z nowym lub najbardziej aktualnym pro
 
 Próbować! Nie jest to łatwa praca, często żeby stworzyć jakiś tekst trzeba się dobrze zastanowić i spędzić niekiedy wiele godzin na przepisywaniu własnej twórczości. Trzeba być cierpliwym. Uważam, że czasem sama chęć pisania może okazać się niewystarczająca, ale przy dobrym mentoringu oraz ciekawości poznania co kryje się pod pojęciem dokumentacji technicznej i komunikacji technicznej jest dobrym początkiem. 😊
 
- 
+
 
 SERDECZNIE DZIĘKUJEMY MARTYNIE!!!
 

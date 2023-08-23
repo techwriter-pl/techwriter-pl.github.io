@@ -1,10 +1,10 @@
 ---
 title: "Landing Festival 2018 - relacja"
 date: "2018-04-17"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "konferencje"
   - "praca"
   - "spolecznosc"

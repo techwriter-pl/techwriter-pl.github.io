@@ -1,10 +1,10 @@
 ---
 title: "Dzyń dzyń dzyń, idą święta"
 date: "2021-12-22"
-categories: 
+categories:
   - "news"
   - "z-przymruzeniem-oka"
-tags: 
+tags:
   - "humor"
   - "spolecznosc"
 coverImage: "Untitled-design.png"

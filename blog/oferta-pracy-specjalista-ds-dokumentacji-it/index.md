@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Specjalista ds. dokumentacji IT"
 date: "2014-08-26"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "InPost_logo.png"
@@ -14,7 +14,7 @@ Ponownie  mamy dla Was ciekawą ofertę pracy. Ponownie z Krakowa. Interesując
 
 Szczegóły oferty:
 
- 
+
 
 [![Inpost_oferta1](images/Inpost_oferta1.jpg)](http://techwriter.pl/wp-content/uploads/2014/08/Inpost_oferta1.jpg)
 

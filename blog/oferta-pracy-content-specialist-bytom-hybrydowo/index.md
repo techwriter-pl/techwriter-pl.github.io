@@ -1,10 +1,10 @@
 ---
 title: "OFERTA PRACY: CONTENT SPECIALIST - BYTOM (HYBRYDOWO)"
 date: "2022-02-16"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "open_e.png"
@@ -16,7 +16,7 @@ Content Specialist pilnie poszukiwany! Zainteresowani? Szczegóły poniżej.
 
 Oferta obejmuje pracę pełnoetatową – stacjonarnie podczas trzymiesięcznego wdrożenia, hybrydowo po okresie próbnym. Wynagrodzenie jest uzależnione od doświadczenia w tworzeniu anglojęzycznych tekstów dla branży IT, nie mniej niż 5500-6000 zł brutto na umowie o pracę. Aplikować możecie poprzez [formularz](https://www.open-e.com/about-us/careers/poland/content-specialist/) dołączony do ogłoszenia.
 
-* * *
+---
 
 ### Content Specialist
 
@@ -45,6 +45,6 @@ We’re currently looking for a new employee to join our Marketing Team who’s 
 - Access to the internal library (and an actual impact on its content) with both fictional and non-fictional literature,
 - A good work-life balance with flexible working hours and opportunities to work from home.
 
-* * *
+---
 
 Życzymy powodzenia!

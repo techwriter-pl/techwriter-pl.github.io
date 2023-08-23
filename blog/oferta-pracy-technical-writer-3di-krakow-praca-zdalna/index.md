@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical Writer (3di) – Kraków / praca zdalna"
 date: "2020-10-11"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "3di_logo.png"
@@ -16,7 +16,7 @@ Oferta z opcją pracy zdalnej, również w niepełnym wymiarze godzin! Ciekawa o
 
 Aplikować możecie wysyłając CV i list motywacyjny na adres: [contact@3di-info.com](mailto:contact@3di-info.com). Ogłoszenie poniżej, zawiera widełki płacowe, oryginał znajdziecie oczywiście również na [na stronie Waszego potencjalnego nowego pracodawcy](https://3di-info.com/technical-writer-krakow/) :)
 
-* * *
+---
 
 3di specialises in providing solutions that help our customers communicate the technical aspects of their products and services to their customers and staff. This involves creating the content as well as translating and distributing that content to the people who need it. This could be through multi-lingual information portals, e-learning, videos or embedded in mobile applications.
 
@@ -63,6 +63,6 @@ Location: Krakow, Poland or remote Salary: 6,000 – 8,000 PLN gross per month (
 
 To apply, please send your CV and cover letter at [contact@3di-info.com](mailto:contact@3di-info.com)
 
-* * *
+---
 
 POWODZENIA!

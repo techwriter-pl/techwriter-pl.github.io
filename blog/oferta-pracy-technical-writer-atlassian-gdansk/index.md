@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: technical writer (Atlassian) - Gdańsk"
 date: "2021-11-22"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "atlassian.png"
@@ -14,13 +14,13 @@ Dziś kolejna ciekawa oferta pracy dla Technical Writera! Szczegóły poniżej.
 
 Gdański oddział Atlassiana poszukuje samodzielnego technical writera, który dołączy do szybko rozwijającego się zespołu. Rekrutacja jest zdalna, praca z domu lub z biura. Naszym zdaniem nie powinniście się długo zastanawiać. Co macie do stracenia? Osoby zainteresowane mogą aplikować poprzez formularz zgłoszeniowy zamieszczony w [ogłoszeniu na stronie firmy](https://jobs.lever.co/atlassian/57ee243c-e42e-4c44-9bad-d6e688630054).
 
-* * *
+---
 
 ## Technical Writer
 
 GDANSK, POLAND / CUSTOMER EXPERIENCE / FULL TIME
 
-* * *
+---
 
 Atlassian can hire people in any country where we have a legal entity, assuming candidates have eligible working rights and a sufficient timezone overlap with their team. As our offices re-open, Atlassians can choose to work remotely or return to an office, unless it’s necessary for the role to be performed in the office. Interviews and onboarding are conducted virtually, a part of being a distributed-first company.
 
@@ -72,6 +72,6 @@ If your experience looks a little different from what we’ve identified and you
 
 Learn more about Atlassian’s culture, interviewing flow, and hiring process by checking out our [Candidate Resource Hub](https://www.atlassian.com/company/careers/resources).
 
-* * *
+---
 
 Życzymy powodzenia!

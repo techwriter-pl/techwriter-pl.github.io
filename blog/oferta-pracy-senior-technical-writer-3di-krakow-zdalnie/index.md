@@ -1,9 +1,9 @@
 ---
 title: "OFERTA PRACY: SENIOR TECHNICAL WRITER (3DI) – KRAKÓW / ZDALNIE"
 date: "2022-07-23"
-categories: 
+categories:
   - "oferty-pracy"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "3di_logo.png"
@@ -13,7 +13,7 @@ Doświadczeni, samodzielni i zorientowani na klienta techwriterzy poszukiwani!
 
 Dziś oferta od [3di](https://3di-info.com/) - firmy dobrze znanej na polskim (i nie tylko) rynku. Szczegóły poniżej.
 
-* * *
+---
 
 **The role**
 
@@ -62,6 +62,6 @@ Contract: Employment contract or B2B Salary: 12-16k PLN Gross
 
 To apply please send your CV and a covering letter explaining why you will thrive in the role to [careers@3di-info.com](mailto: careers@3di-info.com)
 
-* * *
+---
 
 Powodzenia!

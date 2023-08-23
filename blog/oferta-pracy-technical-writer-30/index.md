@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical Writer"
 date: "2018-06-22"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "2linesfusionlogo.png"
@@ -26,6 +26,6 @@ TECHNICAL WRITER - GDYNIA (lub zdalnie z delegacjami w biurze) Dla naszego Klie
 
 Zapraszam do kontaktu: roxana.lambert@2linesfusion.pl
 
- 
+
 
 Powodzenia!

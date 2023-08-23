@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Senior Technical Writer"
 date: "2016-04-07"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "dassault.png"

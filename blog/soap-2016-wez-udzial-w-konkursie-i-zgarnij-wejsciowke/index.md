@@ -1,10 +1,10 @@
 ---
 title: "soap! 2016 - weź udział w konkursie i zgarnij wejściówkę!"
 date: "2016-03-04"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "konferencje"
   - "spolecznosc"
 coverImage: "soap2015.png"

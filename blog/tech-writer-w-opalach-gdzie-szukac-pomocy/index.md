@@ -1,11 +1,11 @@
 ---
 title: "Tech Writer w opałach. Gdzie szukać pomocy?"
 date: "2017-12-21"
-categories: 
+categories:
   - "dobre-praktyki"
   - "narzedzia"
   - "warsztat"
-tags: 
+tags:
   - "aplikacje"
   - "spolecznosc"
 coverImage: "hustle-and-bustle-1738072_960_720.jpg"
@@ -73,6 +73,6 @@ Jest to otwarta grupa, która wyrosła z konferencji [soap!](http://soapconf.com
 
 Czas na odrobinę autopromocji - grupa "Tworzenie dokumentacji" prowadzona przez nasz portal. Jest to miejsce, w którym osoby pracujące z dokumentacją mogą dzielić się ciekawymi informacjami, wymieniać się dobrymi praktykami, zadawać pytania, pomagać innym i szukać pracy. Grupa jest prowadzona w języku polskim. Zapraszamy do niej wszystkich, którzy chcieliby budować polską społeczność tech comm. Wystarczy wejść na [tę stronę](https://web.facebook.com/groups/342747819400007/) i dołączyć.
 
- 
+
 
 Jeśli znacie jakieś inne ciekawe społeczności lub grupy, do których warto dołączyć, dajcie nam znać w komentarzach. A tymczasem, Wesołych Świąt i szczęśliwego Nowego Roku :)

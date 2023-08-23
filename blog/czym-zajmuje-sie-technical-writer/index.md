@@ -1,10 +1,10 @@
 ---
 title: "Czym zajmuje się technical writer?"
 date: "2014-10-28"
-categories: 
+categories:
   - "przyklady"
   - "warsztat"
-tags: 
+tags:
   - "instrukcje"
   - "pomoc-uzytkownika"
   - "praca"

@@ -1,11 +1,11 @@
 ---
 title: "Naucz się sam(a) ?"
 date: "2014-03-03"
-categories: 
+categories:
   - "dobre-praktyki"
   - "przyklady"
   - "warsztat"
-tags: 
+tags:
   - "edukacja"
   - "kariera"
   - "szkolenia"

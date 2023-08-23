@@ -1,10 +1,10 @@
 ---
 title: "Magia słów. Jak pisać teksty, które porwą tłumy? – Joanna Wrycza-Bekier"
 date: "2020-07-14"
-categories: 
+categories:
   - "biblioteczka-techwritera"
   - "warsztat"
-tags: 
+tags:
   - "jezyk"
   - "literatura"
 coverImage: "IMG_0812.jpg"

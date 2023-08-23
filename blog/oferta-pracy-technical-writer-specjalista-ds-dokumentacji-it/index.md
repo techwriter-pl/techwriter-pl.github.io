@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical Writer / Specjalista ds. dokumentacji IT"
 date: "2015-06-18"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "INTEGERPL.jpg"
@@ -16,6 +16,6 @@ Szczegółowe informacje poniżej, albo bezpośrednio u źródła:
 
 [http://panel.talentbridge.pl/podglad/918/Technical-Writer--Specjalista-ds--dokumentacji.html](http://panel.talentbridge.pl/podglad/918/Technical-Writer--Specjalista-ds--dokumentacji.html)
 
- 
+
 
 [![Integer_oferta_pracy](images/Integer_oferta_pracy.jpg)](http://techwriter.pl/wp-content/uploads/2015/06/Integer_oferta_pracy.jpg)

@@ -1,10 +1,10 @@
 ---
 title: "Na podbój IT - nowa konferencja już wkrótce"
 date: "2022-02-18"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "kariera"
   - "konferencje"
   - "praca"
@@ -25,7 +25,7 @@ Z powyższych względów organizatorzy konferencji [Na podbój IT!](https://podb
 - Jakie są inne opcje?
 - Co czeka mnie na rozmowie rekrutacyjnej?
 - Jak pokierować swoją karierą, a czego się wystrzegać?
-- Jak udało się to innym? 
+- Jak udało się to innym?
 
 A jeśli już o organizatorach mowa. Pomysłodawcą konferencji Na Podbój IT! jest [Stowarzyszenie Jakości Systemów Informatycznych](https://sjsi.org/) (Polish Testing Board), które wspiera wymianę doświadczeń i podnoszenie kwalifikacji osób zawodowo zajmujących się zapewnianiem jakości systemów informatycznych. Poprzez promowanie inicjatyw związanych z testowaniem oprogramowania, popularyzuje również ideę doskonalenia jakości oprogramowania.
 

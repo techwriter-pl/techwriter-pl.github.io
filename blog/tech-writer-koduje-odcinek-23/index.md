@@ -1,10 +1,10 @@
 ---
 title: "Tech Writer koduje odcinek 23"
 date: "2020-12-01"
-categories: 
+categories:
   - "dobre-praktyki"
   - "warsztat"
-tags: 
+tags:
   - "dokumentacja"
   - "jakosc"
   - "podcast"

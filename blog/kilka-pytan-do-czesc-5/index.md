@@ -1,10 +1,10 @@
 ---
 title: "Kilka pytań do - część 5"
 date: "2015-07-21"
-categories: 
+categories:
   - "warsztat"
   - "wywiady"
-tags: 
+tags:
   - "spolecznosc"
   - "wywiad"
 coverImage: "interviewer-150450_640-e1437427605915.png"

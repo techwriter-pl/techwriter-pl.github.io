@@ -1,10 +1,10 @@
 ---
 title: "INSPIRACJE DLA TECHNICAL WRITERA – blogi i strony internetowe"
 date: "2021-03-26"
-categories: 
+categories:
   - "biblioteczka-techwritera"
   - "warsztat"
-tags: 
+tags:
   - "dokumentacja"
   - "edukacja"
   - "kariera"

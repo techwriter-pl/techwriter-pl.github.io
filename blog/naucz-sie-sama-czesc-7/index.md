@@ -1,11 +1,11 @@
 ---
 title: "Naucz się sam(a) – część 7"
 date: "2016-09-01"
-categories: 
+categories:
   - "dobre-praktyki"
   - "przyklady"
   - "warsztat"
-tags: 
+tags:
   - "edukacja"
   - "kariera"
   - "literatura"

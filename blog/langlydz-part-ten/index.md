@@ -1,10 +1,10 @@
 ---
 title: "Langłydż - part ten"
 date: "2014-11-21"
-categories: 
+categories:
   - "warsztat"
   - "z-przymruzeniem-oka"
-tags: 
+tags:
   - "humor"
   - "jezyk"
 coverImage: "Ficzer.jpg"
@@ -18,7 +18,7 @@ Uwaga: ponieważ dzisiejszy odcinek poświęcony jest zjawiskom przyrodniczym - 
 
 Przećwiczyliście sobie? No to do rzeczy.
 
-**Ficzer** \[ang. _feature_\] (_łac. regulus genius avariae megadrogato_) _-_ ogólna nazwa rodziny z typu bezkręgowców, dawniej klasyfikowana niepoprawnie jako gromada obleńce bądź bezideowce.
+**Ficzer** \[ang. _feature_\] (_łac. regulus genius avariae megadrogato_) *-* ogólna nazwa rodziny z typu bezkręgowców, dawniej klasyfikowana niepoprawnie jako gromada obleńce bądź bezideowce.
 
 Ficzery to średniej wielkości pasożyty (poszczególne osobniki mogą osiągać rozmiary małego budynku), odżywiające się również pokarmem roślinnym - głównie papierem (różnego rodzaju specyfikacje i dokumentacje) oraz zieleniną ($). Żyją w stadach, zwanych rilisami. Samiec - ficzer. Samica - ficzera. Młode do osiągnięcia rozmiaru trzech stron dokumentacji nazywane są często ficzerkami.
 
@@ -27,23 +27,14 @@ Spotykane niemal w każdym środowisku: wodnym (np. kałuże startapowe), pustyn
 Po krótkim zazwyczaj okresie dojrzewania, larwa ficzerka wydostaje się na zewnątrz głowy nosiciela i rozpoczyna infekowanie innych, jednocześnie osiągając swoją końcową postać ficzera lub ficzery. Infekcja przebiega zazwyczaj dość boleśnie i towarzyszą jej uciążliwe i bolesne objawy. Najczęściej spotykane z nich:
 
 - planowanie,
-    
 - estymacja,
-    
 - długotrwałe spotkania,
-    
 - [riwiu](http://techwriter.pl/langlydz-part-sewen/),
-    
 - kodowanie,
-    
 - dokumentacja,
-    
 - testowanie,
-    
 - rozczarowanie,
-    
 - gorączka i praca po godzinach.
-    
 
 Jedynym sposobem na walkę z tym pasożytem jest skomplikowana procedura o nazwie _deskołp_, z powodu swojej złożoności stosowana tylko w beznadziejnych przypadkach. Zazwyczaj, kiedy jest już za późno i liczba zarażonych osiąga rozmiary typowe dla epidemii.
 
@@ -51,6 +42,6 @@ Pewne rodzaje pluskiew posiadają zdolność podszywania się pod ficzery.
 
 [![bug-vs-feature](images/bug-vs-feature.gif)](http://techwriter.pl/wp-content/uploads/2014/11/bug-vs-feature.gif)
 
-Nie są jednak tak zaraźliwe i kuracja zazwyczaj jest mniej kosztowna (patrz. _[fiks](http://techwriter.pl/langlydz-part-fajf/)_).
+Nie są jednak tak zaraźliwe i kuracja zazwyczaj jest mniej kosztowna (patrz. *[fiks](http://techwriter.pl/langlydz-part-fajf/)*).
 
-Patrz też: _rilis, estymacja, skołp, deskołp._
+Patrz też: *rilis, estymacja, skołp, deskołp.*

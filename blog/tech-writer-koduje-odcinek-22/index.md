@@ -1,10 +1,10 @@
 ---
 title: "Tech Writer koduje odcinek 22"
 date: "2020-11-09"
-categories: 
+categories:
   - "dobre-praktyki"
   - "warsztat"
-tags: 
+tags:
   - "api"
   - "dita"
   - "dokumentacja"

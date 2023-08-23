@@ -1,10 +1,10 @@
 ---
 title: "MeetContentKRK - czerwiec 2023"
 date: "2023-05-24"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "dokumentacja"
   - "meetcontent"
   - "spolecznosc"
@@ -24,17 +24,17 @@ Tematem spotkania, które odbyło się 9 maja w [Techie’s Space](https://www.f
 - Najważniejsze pytanie: Czy AI zabierze nam pracę? Zapytaliśmy o to Bing Chata i (ponoć szczerze) odpowiedział, że absolutnie nie ;) Tak naprawdę AI ma nam tylko pomóc w naszych codziennych zadaniach, a nie przejmować nasze obowiązki.
 - Co to jest AI i co oznaczają pojęcia takie jak Generative Adversarial Networks i Large Language Models.
 - W czym AI może nam pomóc?
-    - **Gumowa kaczuszka**: Borykasz się z trudnym tematem? A może masz jakiś pomysł, ale nie wiesz czy jest on sensowny? Wykorzystaj AI do przedyskutowania swojego rozwiązania i uzyskania feedbacku! Pozwoli Ci to na rozszerzenie spojrzenia na problem i uzyskania dodatkowych pomysłów jak go rozwiązać.
-    - **“Writing buddy”**: Wykorzystaj AI do tworzenia abstraktów lub tekstów marketingowych a nawet struktury dokumentacji. AI może ci pomóc również w wygenerowaniu fragmentów kodu, który potem umieścisz w dokumentacji.
-    - **Proofreading**: AI może pomóc ci w sprawdzeniu błędów w tekście, zaproponować inne opcje, usprawnienia które sprawią, że dokument będzie jeszcze lepszy.
-    - **Interakcja z użytkownikami**: Bot może odpowiadać na pytania użytkowników, przesyłać odpowiednie dokumenty, instruować jak wykonać zadania.
+  - **Gumowa kaczuszka**: Borykasz się z trudnym tematem? A może masz jakiś pomysł, ale nie wiesz czy jest on sensowny? Wykorzystaj AI do przedyskutowania swojego rozwiązania i uzyskania feedbacku! Pozwoli Ci to na rozszerzenie spojrzenia na problem i uzyskania dodatkowych pomysłów jak go rozwiązać.
+  - **“Writing buddy”**: Wykorzystaj AI do tworzenia abstraktów lub tekstów marketingowych a nawet struktury dokumentacji. AI może ci pomóc również w wygenerowaniu fragmentów kodu, który potem umieścisz w dokumentacji.
+  - **Proofreading**: AI może pomóc ci w sprawdzeniu błędów w tekście, zaproponować inne opcje, usprawnienia które sprawią, że dokument będzie jeszcze lepszy.
+  - **Interakcja z użytkownikami**: Bot może odpowiadać na pytania użytkowników, przesyłać odpowiednie dokumenty, instruować jak wykonać zadania.
 
 ![](images/IMG-7110-copy.jpeg)
 
 Nasi prezenterzy odpowiedzieli również na najbardziej popularne pytania od publiczności, między innymi:
 
 - jak wykorzystać pluginy i czy warto je tworzyć,
-- czy tylko najlepsi twórcy treści zostaną na rynku, podczas gdy całą resztę przejmie AI  
+- czy tylko najlepsi twórcy treści zostaną na rynku, podczas gdy całą resztę przejmie AI
 
 Odpowiadają na ostatnie pytanie w wielkim skrócie, AI może nam pomóc w automatyzacji zadań, ale nie będzie tak kreatywne i empatyczne jak technical writer.
 
@@ -58,6 +58,6 @@ Pamiętajcie, by zgłosić chęć udziału w wydarzeniu poprzez wypełnienie [fo
 
 Udanego spotkania!
 
-* * *
+---
 
 Artykuł powstał w ramach współpracy z Barbarą Czyż z MeetContentKRK

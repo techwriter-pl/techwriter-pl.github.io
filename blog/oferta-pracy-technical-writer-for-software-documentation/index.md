@@ -1,10 +1,10 @@
 ---
 title: "Oferta Pracy: Technical Writer for Software Documentation"
 date: "2016-09-28"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "mapp-cover.png"

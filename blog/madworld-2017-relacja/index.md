@@ -1,10 +1,10 @@
 ---
 title: "MadWorld 2017 - relacja"
 date: "2017-05-04"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "konferencje"
   - "spolecznosc"
 coverImage: "madworld-image.jpg"

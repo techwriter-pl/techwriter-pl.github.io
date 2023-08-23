@@ -1,10 +1,10 @@
 ---
 title: "Meet Content po raz pierwszy - relacja"
 date: "2016-03-24"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "edukacja"
   - "kariera"
   - "konferencje"

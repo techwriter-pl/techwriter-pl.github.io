@@ -1,10 +1,10 @@
 ---
 title: "Kilka pytań do - część 13"
 date: "2017-07-11"
-categories: 
+categories:
   - "warsztat"
   - "wywiady"
-tags: 
+tags:
   - "spolecznosc"
   - "wywiad"
 coverImage: "interview-905535_640.png"
@@ -56,6 +56,6 @@ I like the social aspect of it. Being a tech writer means talking to many people
 
 If you have no experience in the field, look for an entry level contract to get your foot in the door. That's what I did, and years later, I'm still in the field. It's a great profession.
 
- 
+
 
 Jeśli chcecie skontakować się z Vrejem albo sami macie ochotę podzielić się swoimi doświadczeniami, nie zwlekajcie dłużej tylko piszcie na adres [**kontakt@techwriter.pl**](mailto:kontakt@techwriter.pl).

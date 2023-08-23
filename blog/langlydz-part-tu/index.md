@@ -1,10 +1,10 @@
 ---
 title: "Langłydż - part tu"
 date: "2013-12-16"
-categories: 
+categories:
   - "warsztat"
   - "z-przymruzeniem-oka"
-tags: 
+tags:
   - "humor"
   - "jezyk"
 coverImage: "Langlydz2.jpg"

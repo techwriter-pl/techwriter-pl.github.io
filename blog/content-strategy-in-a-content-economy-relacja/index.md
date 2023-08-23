@@ -1,11 +1,11 @@
 ---
 title: "Content Strategy in a Content Economy - relacja"
 date: "2014-04-15"
-categories: 
+categories:
   - "news"
   - "z-kraju"
   - "ze-swiata"
-tags: 
+tags:
   - "webinarium"
   - "zarzadzanie-trescia"
 coverImage: "content_economy.jpg"

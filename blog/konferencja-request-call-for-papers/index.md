@@ -1,10 +1,10 @@
 ---
 title: "Konferencja reQuest - call for papers"
 date: "2019-02-21"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "konferencje"
 coverImage: "RequestCFP.png"
 ---
@@ -15,6 +15,6 @@ Celem organizatorów jest zbudowanie społeczności skupionej wokół tematyki a
 
 W tym roku konferencja ReQuest odbędzie się już po raz trzeci, a techwriter.pl pierwszy raz jest jej oficjalnym partnerem. W końcu my, technical writerzy, też jesteśmy często osobami, które na co dzień zajmują się realizacją projektów informatycznych.
 
-ReQuest ma być konferencją od praktyków, dla praktyków. Wszyscy oni mogą wziąć udział właśnie w Twojej prelekcji! Formularz do zapisów znajduje się pod linkiem: [https://docs.google.com/forms/d/1ese3oapn\_MN4Bvcq8b0dEnoVl-RdnlGLTiW2rs4vS6Y](https://docs.google.com/forms/d/1ese3oapn_MN4Bvcq8b0dEnoVl-RdnlGLTiW2rs4vS6Y)
+ReQuest ma być konferencją od praktyków, dla praktyków. Wszyscy oni mogą wziąć udział właśnie w Twojej prelekcji! Formularz do zapisów znajduje się pod linkiem: [https://docs.google.com/forms/d/1ese3oapn_MN4Bvcq8b0dEnoVl-RdnlGLTiW2rs4vS6Y](https://docs.google.com/forms/d/1ese3oapn_MN4Bvcq8b0dEnoVl-RdnlGLTiW2rs4vS6Y)
 
 Powodzenia!

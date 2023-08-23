@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Senior Documentation Engineer (Etteplan) - Wrocław lub zdalnie"
 date: "2022-05-19"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "etteplan.png"
@@ -22,7 +22,7 @@ Aktualnie w Polsce jest ponad 200 pracowników oraz 4 oddziały: Wrocław, Pozna
 
 Osoby zainteresowane mogą składać aplikację poprzez ogłoszenie, które znajdziecie [tutaj](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1522&ProjectId=149125&DepartmentId=18983&MediaId=5).
 
-* * *
+---
 
 ### Senior Documentation Engineer
 
@@ -38,6 +38,6 @@ We are looking for an experienced person who likes to structure content, work wi
 
 **Why work with us?**    Etteplan is a place for people driven by innovation and technology. We like to share our passion for trying new things, exchanging ideas and learning new technologies. Such an environment, experience and technical knowledge help us to develop and create incredible solutions to our client’s needs. Unknown and challenges are what we are always looking for – if this is you, this could be the place for you.
 
-* * *
+---
 
 Chętnym życzymy powodzenia!

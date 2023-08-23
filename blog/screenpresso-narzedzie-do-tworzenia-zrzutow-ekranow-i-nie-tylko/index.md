@@ -1,9 +1,9 @@
 ---
 title: "Screenpresso - narzędzie do tworzenia zrzutów ekranów i nie tylko"
 date: "2020-09-10"
-categories: 
+categories:
   - "narzedzia"
-tags: 
+tags:
   - "grafika"
   - "narzedzia"
   - "uzytecznosc"
@@ -28,7 +28,7 @@ Screenpresso ma wbudowany edytor, gdzie w szybki sposób można dopracować stwo
 
 Screenpresso działa na wszystkich wersjach Windows. Możecie go zainstalować na komputerze lub rozpocząć pracę bez konieczności instalacji. Procedura jak to zrobić znajduje się [tutaj](https://www.screenpresso.com/support/how-to-install/).
 
-Dla użytkowników chcących, na przykład, edytować stworzone obrazy lub skalować wideo, dostępna jest wersja Pro - z koniecznością wykupienia licencji. 
+Dla użytkowników chcących, na przykład, edytować stworzone obrazy lub skalować wideo, dostępna jest wersja Pro - z koniecznością wykupienia licencji.
 
 ## Jak to działa?
 

@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical Writer (zdalnie)"
 date: "2016-09-13"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "twi-master-logo-small.jpg"

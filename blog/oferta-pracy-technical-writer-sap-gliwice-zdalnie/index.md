@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical Writer (SAP) – Gliwice/Zdalnie"
 date: "2021-07-21"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "SAP_logo.jpg"
@@ -16,7 +16,7 @@ Nowa osoba dołączy do zespołu tworzącego dokumentację dla projektu Kyma. Ky
 
 [Tutaj](https://jobs.sap.com/job/Gliwice-Technical-Writer-at-Kyma-44-100/685315101/) znajduje się link do strony z ogłoszeniem. Kandydaci są proszeni o aplikowanie przez tę właśnie stronę.
 
-* * *
+---
 
 #### ![](images/Screenshot-2021-07-21-at-11.47.13.png)
 
@@ -28,7 +28,7 @@ As a Technical Writer, you will work on documentation for the Kyma project, for 
 
 As part of a product team, you will participate in the whole lifecycle of the product over a long period of time.
 
- 
+
 
 #### **EXPECTATIONS AND TASKS**
 
@@ -40,7 +40,7 @@ As part of a product team, you will participate in the whole lifecycle of the pr
 - As the product we develop is based on the open-source project Kyma, you will be able to contribute to the open source community
 - We expect that you also value transparency, communication and collaboration, as we do!
 
- 
+
 
 #### **REQUIRED SKILLS**
 
@@ -52,7 +52,7 @@ As part of a product team, you will participate in the whole lifecycle of the pr
 - Ability to quickly adapt to changing technologies and tools
 - Being proactive and able to work as a member of a self-organized team
 
- 
+
 
 #### **PREFERRED SKILLS** 
 
@@ -62,7 +62,7 @@ As part of a product team, you will participate in the whole lifecycle of the pr
 - Essential understanding of Agile software development
 - A certificate confirming the language level would be an advantage
 
- 
+
 
 #### **BENEFITS**
 
@@ -74,6 +74,6 @@ We offer a rich package of benefits including:
 - Sponsored English courses
 - Multiple learning and development and training opportunities
 
-* * *
+---
 
 Powodzenia!

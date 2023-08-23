@@ -1,12 +1,12 @@
 ---
 title: "Test dla nowego tech writera"
 date: "2023-01-17"
-categories: 
+categories:
   - "bez-kategorii"
   - "dobre-praktyki"
   - "praca"
   - "przyklady"
-tags: 
+tags:
   - "kariera"
   - "praca"
   - "rekrutacja"

@@ -1,10 +1,10 @@
 ---
 title: "Dokumentacja od wujka Stalina"
 date: "2021-04-07"
-categories: 
+categories:
   - "z-kraju"
   - "z-przymruzeniem-oka"
-tags: 
+tags:
   - "dokumentacja"
   - "instrukcje"
   - "uzytecznosc"
@@ -87,7 +87,6 @@ Jeśli jesteście zainteresowani, zachęcamy do zgłębienia tematu i przegląda
 - [Katalog części zamiennych samochodu FSO Warszawa M20](https://gaz69.eu/biblioteka/pobieda/katalog-czesci-zamiennych-samochodu-warszawa-m20/)
 - [Foldery reklamowe Syreny](https://autoarchiwum.blogspot.com/2014/04/trzy-foldery-syreny.html)
 - [Prospekty reklamowe Polskiego Fiata 125p](https://autoarchiwum.blogspot.com/2014/10/prospekty-polskiego-fiata-125p-czesc-1.html)
-    
 - [Dokumentacja techniczna Polskiego Fiata 126p](https://autoarchiwum.blogspot.com/2014/03/literatura-techniczna-i-serwisowa-126p.html)
 
 ## Smutna prawda

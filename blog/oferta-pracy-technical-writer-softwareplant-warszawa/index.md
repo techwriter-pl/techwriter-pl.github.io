@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical Writer (SoftwarePlant) - Warszawa"
 date: "2020-12-21"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "SoftwarePlant.jpg"
@@ -22,7 +22,7 @@ https://youtu.be/S6ZfuYgdRZo
 
 Na początku jednak, z wiadomych względów, trzeba się nastawić na pracę zdalną.
 
-* * *
+---
 
 # Technical Writer
 
@@ -36,7 +36,7 @@ Our technical documentation is one of the essential elements supporting our prod
 
 Together with our Design Team and Product Owners, you will ensure that our users (current and potential) always find up-to-date, engaging, precise and easy to understand materials to help them understand all the features and frequent changes in our products. We are looking for someone with skills to create high-quality technical content with multiple tools and in various formats.
 
- 
+
 
 **As a Technical Writer, you’ll be responsible for**
 
@@ -66,6 +66,6 @@ Together with our Design Team and Product Owners, you will ensure that our users
 
 Model of cooperation: **B2B contract or contract of mandate for students**
 
-* * *
+---
 
 Powodzenia!

@@ -1,10 +1,10 @@
 ---
 title: "MEETCONTENT WROCŁAW – KWIECIEŃ 2023"
 date: "2023-04-06"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "dokumentacja"
   - "meetcontent"
   - "spolecznosc"
@@ -19,7 +19,7 @@ Zanim jednak przejdziemy do konkretów chcielibyśmy podzielić się z Wami info
 
 Kwietniowy MeetContentWRO odbędzie się w **Nokia Garage**. Wraz z organizatorami mamy nadzieję, że to niesamowite miejsce zainspiruje wszystkich uczestników do wyjścia poza utarte schematy. W Nokii wróci format dyskusji panelowej.
 
-Tym razem tematem rozmowy będzie: _Know your audience - How to gather customer feedback?_ 
+Tym razem tematem rozmowy będzie: _Know your audience - How to gather customer feedback?_
 
 Odbiorcy to punkt centralny dla każdego twórcy treści. Wiemy, że od odbiorców powinien zaczynać się każdy nowy dokument i na nich się kończyć. Robimy to też dla siebie - w końcu żaden autor nie chce pisać do szuflady 🙃
 
@@ -42,7 +42,7 @@ W imieniu organizatorów zapraszamy Was serdecznie na: **_Know your audience - H
 
 ### **Gdzie i kiedy**
 
-19 kwietnia 2023 godzina 18:00 
+19 kwietnia 2023 godzina 18:00
 
 Nokia Garage, ul. Szybowcowa 2
 
@@ -52,13 +52,13 @@ Nokia Garage, ul. Szybowcowa 2
 
 ### **Marzec - Etteplan**
 
-W marcu spotkaliśmy się w firmie **Etteplan** na pogaduchy o _Simplified Technical English_ (STE). Tytuł prezentacji był wymowny, ale na koniec wszyscy rozumieliśmy dlaczego: _STE - How to control the beast_. Prowadzący, [Jan Sosna](https://www.linkedin.com/in/jan-sosna/) i [Barbara Kardel-Piątkowska](https://www.linkedin.com/in/barbara-kardel-piatkowska/) opowiedzieli fascynującą historię o powstaniu STE, a właściwie o potrzebie, która go stworzyła. STE to podstawa w branżach, w których właściwe zrozumienie dokumentacji technicznej jest kluczowe dla ludzkiego zdrowia i życia. 
+W marcu spotkaliśmy się w firmie **Etteplan** na pogaduchy o _Simplified Technical English_ (STE). Tytuł prezentacji był wymowny, ale na koniec wszyscy rozumieliśmy dlaczego: _STE - How to control the beast_. Prowadzący, [Jan Sosna](https://www.linkedin.com/in/jan-sosna/) i [Barbara Kardel-Piątkowska](https://www.linkedin.com/in/barbara-kardel-piatkowska/) opowiedzieli fascynującą historię o powstaniu STE, a właściwie o potrzebie, która go stworzyła. STE to podstawa w branżach, w których właściwe zrozumienie dokumentacji technicznej jest kluczowe dla ludzkiego zdrowia i życia.
 
 ![](images/18.jpg)
 
-Z dużą dawką humoru i dystansu, aplikowaną przez prowadzących, dowiedzieliśmy się o podstawowych zasadach i poznaliśmy barwne przykłady. 
+Z dużą dawką humoru i dystansu, aplikowaną przez prowadzących, dowiedzieliśmy się o podstawowych zasadach i poznaliśmy barwne przykłady.
 
-Język STE polega między innymi na:  
+Język STE polega między innymi na:
 
 - posługiwaniu się konkretnymi instrukcjami,
 - używaniu prostych czasów i strony czynnej,
@@ -67,18 +67,18 @@ Język STE polega między innymi na:  
 - braku średnika 😀,
 - używania standardowego słownika, który zawiera zatwierdzone i niezatwierdzone zwroty i słowa.
 
-Wszystko to wydawało się niezwykle ograniczające dla swobody Technical Writerów. Jednak oboje prowadzący podkreślali, że STE można dostosować do potrzeb konkretnego projektu. Na przykład za pomocą specyficznych dla klienta nazw technicznych czy stosowania glosariusza klienta. 
+Wszystko to wydawało się niezwykle ograniczające dla swobody Technical Writerów. Jednak oboje prowadzący podkreślali, że STE można dostosować do potrzeb konkretnego projektu. Na przykład za pomocą specyficznych dla klienta nazw technicznych czy stosowania glosariusza klienta.
 
 ![](images/18_2.jpg)
 
 Po fantastycznym wystąpieniu wszyscy rozumieliśmy STE nieco lepiej: jego wady, zalety i właściwe środowisko implementacji. W pytaniach od uczestników pojawiały się głównie kwestie łatwości lokalizowania treści w STE a także czy może być stosowany do dokumentowania software’u?
 
-Pytanie pozostało otwarte. STE to świetne narzędzie i, podobnie jak każde inne, ma swoje spektrum zastosowań. A software, jak to software, rządzi się swoimi prawami… 😉 
+Pytanie pozostało otwarte. STE to świetne narzędzie i, podobnie jak każde inne, ma swoje spektrum zastosowań. A software, jak to software, rządzi się swoimi prawami… 😉
 
-Jeśli zainteresował Was temat STE, tu możecie znaleźć aktualną specyfikację: [https://www.asd-ste100.org/](https://www.asd-ste100.org/) 
+Jeśli zainteresował Was temat STE, tu możecie znaleźć aktualną specyfikację: [https://www.asd-ste100.org/](https://www.asd-ste100.org/)
 
-Dziękujemy za udział i widzimy się **19 kwietnia** w **Nokia Garage**! 
+Dziękujemy za udział i widzimy się **19 kwietnia** w **Nokia Garage**!
 
-* * *
+---
 
 Artykuł powstał we współpracy z Moniką Mrozek z MeetContent.

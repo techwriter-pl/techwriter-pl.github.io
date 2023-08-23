@@ -1,10 +1,10 @@
 ---
 title: "Wirtualna rzeczywistość i jej zastosowanie w komunikacji technicznej"
 date: "2022-05-04"
-categories: 
+categories:
   - "news"
   - "narzedzia"
-tags: 
+tags:
   - "dokumentacja"
   - "narzedzia"
   - "pomoc-uzytkownika"

@@ -1,11 +1,11 @@
 ---
 title: "Konferencje 2019 - pierwsze półrocze"
 date: "2019-01-03"
-categories: 
+categories:
   - "news"
   - "z-kraju"
   - "ze-swiata"
-tags: 
+tags:
   - "kariera"
   - "konferencje"
   - "spolecznosc"
@@ -122,7 +122,7 @@ Rozpoczął się kolejny rok, a wraz z nim pojawiło się całkiem sporo okazji,
 
 15-16 maja, ST. Leon-Rot, Niemcy - [UA Reloaded19](https://ua-reloaded.de/)
 
-19-21 maja, Portland, Oregon, USA – [Write the Docs Portland](https://www.writethedocs.org/conf/portland/2019/) 
+19-21 maja, Portland, Oregon, USA – [Write the Docs Portland](https://www.writethedocs.org/conf/portland/2019/)
 
 30-31 maja, Shanghai, Chiny – [tcworld China](http://tcworld-china.cn/)
 

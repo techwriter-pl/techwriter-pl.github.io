@@ -1,10 +1,10 @@
 ---
 title: "Kilka pytań do - część 8"
 date: "2015-12-08"
-categories: 
+categories:
   - "warsztat"
   - "wywiady"
-tags: 
+tags:
   - "spolecznosc"
   - "wywiad"
 coverImage: "sg_motor_001a-e1448398858231.jpg"

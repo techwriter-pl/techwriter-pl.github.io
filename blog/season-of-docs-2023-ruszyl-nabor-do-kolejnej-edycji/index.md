@@ -1,10 +1,10 @@
 ---
 title: "Season of Docs 2023 - ruszył nabór do kolejnej edycji"
 date: "2023-01-26"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "dokumentacja"
   - "edukacja"
   - "kariera"

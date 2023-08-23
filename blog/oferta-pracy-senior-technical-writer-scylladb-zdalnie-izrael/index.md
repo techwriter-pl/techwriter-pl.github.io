@@ -1,7 +1,7 @@
 ---
 title: "Oferta pracy: Senior Technical Writer (ScyllaDB) – Zdalnie/Izrael"
 date: "2021-09-27"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
 coverImage: "Scylla_logo.jpg"
@@ -13,7 +13,7 @@ ScyllaDB to wydajna, efektywna i skalowalna baza danych typu NoSQL, w której pr
 
 Więcej informacji poniżej, a [formularz aplikacyjny czeka na Was tutaj](https://www.scylladb.com/company/careers/co/product-management/57.423/senior-technical-writer/all/). Możecie również pisać bezpośrednio na adres mailowy scylladb.technicalwriter\[at\]applynow.io.
 
-* * *
+---
 
 ### About The Position
 
@@ -49,6 +49,6 @@ You will be required to have an in-depth understanding of the product from a use
 - Understanding of database structures, NoSQL in particular (advantage)
 - Experience with documenting SaaS products (advantage)
 
-* * *
+---
 
 Powodzenia!

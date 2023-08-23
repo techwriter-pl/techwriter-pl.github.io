@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical Writer (itMatch) – Wrocław"
 date: "2020-08-10"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "Logo-itMatch-duze.jpg"
@@ -16,7 +16,7 @@ W takim razie czytaj dalej :)
 
 Oferta trafia do Was dzięki firmie rekrutacyjnej [itMatch](https://itmatch.pl/), wszelkie pytania a także CV wysyłajcie na adres: rekrutacja\[at\]itmatch.pl.
 
-* * *
+---
 
 **Background**
 
@@ -90,6 +90,6 @@ REQUIRED COMPETENCIES
 - Lunch Vouchers
 - Training and Development opportunities
 
-* * *
+---
 
 Powodzenia!

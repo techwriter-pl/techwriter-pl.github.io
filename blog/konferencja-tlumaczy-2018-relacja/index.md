@@ -1,10 +1,10 @@
 ---
 title: "Konferencja Tłumaczy 2018 - relacja"
 date: "2018-10-25"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "konferencje"
   - "spolecznosc"
   - "tlumaczenia"
@@ -17,7 +17,7 @@ Niedawno, a dokładniej 29 września 2018, mieliśmy okazję gościć na [Konfe
 
 Konferencję otworzył Agenor Hofmann-Delbor, współautor książki "Programiści i tłumacze. Wprowadzenie do lokalizacji oprogramowania" oraz, jak udało nam się wywnioskować, bardzo dobrze znana postać w środowisku tłumaczy. Krótkie przywitanie oraz podziękowania dla partnerów i zespołu organizacyjnego były dobrą rozgrzewką przed pierwszymi prelekcjami.
 
-\[caption id="attachment\_7288" align="aligncenter" width="590"\][![](images/konf_tlum_otwarcie-1024x576.jpg)](http://techwriter.pl/wp-content/uploads/2018/10/konf_tlum_otwarcie.jpg) Źródło: zasoby organizatora Konferencji Tłumaczy\[/caption\]
+\[caption id="attachment_7288" align="aligncenter" width="590"\][![](images/konf_tlum_otwarcie-1024x576.jpg)](http://techwriter.pl/wp-content/uploads/2018/10/konf_tlum_otwarcie.jpg) Źródło: zasoby organizatora Konferencji Tłumaczy\[/caption\]
 
 # Technologie tłumaczeniowe z innej perspektywy
 
@@ -43,7 +43,7 @@ Podczas postedycji powinniśmy uzupełnić braki w tekście i poprawić błędy 
 
 Musimy również pamiętać, że postedycja nie może zająć więcej niż przetłumaczenie tekstu, bo wtedy względy ekonomiczne stosowania tłumaczeń maszynowych przestają istnieć. A statystyki przemawiają zdecydowanie na korzyść stosowania automatyzacji w tłumaczeniu. Średnia prędkość tłumaczenia to 2000-3000 słów dziennie, a średnia prędkość postedycji to 4000-5000 słów dziennie.
 
-\[caption id="attachment\_7282" align="aligncenter" width="590"\][![](images/areta_kempinska_prez-1024x576.jpg)](http://techwriter.pl/wp-content/uploads/2018/10/areta_kempinska_prez.jpg) Źródło: zasoby organizatora Konferencji Tłumaczy\[/caption\]
+\[caption id="attachment_7282" align="aligncenter" width="590"\][![](images/areta_kempinska_prez-1024x576.jpg)](http://techwriter.pl/wp-content/uploads/2018/10/areta_kempinska_prez.jpg) Źródło: zasoby organizatora Konferencji Tłumaczy\[/caption\]
 
 Po prezentacji wywiązała się ożywiona dyskusja, co dowodzi iż wśród tłumaczy temat ten budzi sporo emocji. Nie brakowało zarówno zwolenników, jak i przeciwników automatyzacji. Pojawiły się głosy, że tłumaczenia maszynowe mają jeszcze przed sobą daleką drogę i że od kilku lat głosi się rychły upadek tradycyjnych tłumaczeń, a wbrew tym przepowiedniom pracy nie brakuje. Jeden z uczestników podał też informację, że według badania z 2017, które przeprowadzono w USA, automatyzacja pozbawi pracy 19 milionów osób, ale jednocześnie spowoduje powstanie 21 milionów innych miejsc pracy, więc ogólny rozrachunek wychodzi na plus. Oczywiście będą to inne stanowiska wymagające innych umiejętności, dlatego warto zacząć się dokształcać i rozpoznawać nowe możliwości.
 
@@ -59,7 +59,7 @@ Ikoniczność uwidacznia się w trendzie stosowania emotikonów. Zamiast opisywa
 
 Kolejną cechą tabloidyzacji jest ludyczność, czyli nastawienie na zabawę. Przejawem ludyczności jest tworzenie form mających odświeżyć repertuar językowy i ich powszechna akceptacja, a skutkiem ludyczności jest traktowanie języka jako przedmiotu gry. Stąd pojawiają się reinterpretacje słowotwórcze jak “le Targ” i “but elka” (but w rozmiarze L) czy pseudoanglicyzmy jak “grobbing”, “churching” i “bikejka”. Prowadząca poleciła nam stronę [Schronisko dla słów](http://www.schroniskodlaslow.pl/), na której znajdziecie więcej przykładów.
 
-\[caption id="attachment\_7280" align="aligncenter" width="590"\][![](images/katarzyna_klosinska_prez-1024x576.jpg)](http://techwriter.pl/wp-content/uploads/2018/10/katarzyna_klosinska_prez.jpg) Źródło: zasoby organizatora Konferencji Tłumaczy\[/caption\]
+\[caption id="attachment_7280" align="aligncenter" width="590"\][![](images/katarzyna_klosinska_prez-1024x576.jpg)](http://techwriter.pl/wp-content/uploads/2018/10/katarzyna_klosinska_prez.jpg) Źródło: zasoby organizatora Konferencji Tłumaczy\[/caption\]
 
 Symplyfikacja to trzeci filar tabloidyzacji. Jest to korzystanie z technik słowotwórczych, które nie wymagają wysiłku. Ten trend widać we wzroście liczby złożeń bezafiksalnych (“seksmasaż”, “teleświęta”), wzroście liczby derywatów, których utworzenie nie wymaga wysiłku (“ziobrysta” zamiast “ziobrzysta”, “forumowy” zamiast “forowy”), braku odmiany nazwisk, niepoprawnej odmianie rzeczowników oraz konstrukcjach przypominających język angielski (“Ochota ser festiwal” zamiast “Ochocki festiwal serów”, “media patronat” zamiast “patronat medialny”).Przyczyną tabloidyzacji może być życie w nadmiarze informacji. Jednostka dąży do naruszenia norm, bo to pozwala przeżyć w świecie. Ikoniczność i skrótowość to obrona przed nadmiarem informacji.
 
@@ -71,7 +71,7 @@ Na koniec konferencji pojawił się akcent z komunikacji technicznej. Ewa Dacko 
 
 Na początku dowiedzieliśmy się czym jest UX. Krótko mówiąc, jest to całość interakcji użytkownika z firmą oraz jej usługami i produktami. Jeśli potrzebujecie bardziej wyszukanej definicji, to możecie sięgnąć do normy ISO 9241-210:2010.
 
-\[caption id="attachment\_7278" align="aligncenter" width="590"\][![](images/ewa_dacko_prez-1024x576.jpg)](http://techwriter.pl/wp-content/uploads/2018/10/ewa_dacko_prez.jpg) Źródło: zasoby organizatora Konferencji Tłumaczy\[/caption\]
+\[caption id="attachment_7278" align="aligncenter" width="590"\][![](images/ewa_dacko_prez-1024x576.jpg)](http://techwriter.pl/wp-content/uploads/2018/10/ewa_dacko_prez.jpg) Źródło: zasoby organizatora Konferencji Tłumaczy\[/caption\]
 
 Im bardziej personalizujemy produkt, tym drożej i łatwiej można go sprzedać. Producenci zorientowali się, że to kura znosząca złote jaja i że warto inwestować w ulepszanie doświadczeń użytkownika. Do Starbucksa idziemy nie tylko po to, żeby wypić kawę, ale też dlatego, że jest to modne.
 
@@ -95,7 +95,7 @@ Materiały z prezentacji znajdziecie na stronie prelegentki:
 
 Między prezentacjami odbyła się dyskusja, w której specjaliści od tłumaczenia i komunikacji technicznej połączyli siły, żeby porozmawiać o komunikacji przyszłości i jej wpływie na warsztat tłumacza. Przedstawiciel naszego portalu, Michał Skowron, miał przyjemność być częścią panelu dyskusyjnego, w którym zasiedli również Marta Bartnicka z firmy IBM, Areta Kempińska z Bireta Professional Translations oraz nasz dobry znajomy, Tomasz Prus z Unit4.
 
-\[caption id="attachment\_7279" align="aligncenter" width="590"\][![](images/panel-1024x576.jpg)](http://techwriter.pl/wp-content/uploads/2018/10/panel.jpg) Źródło: zasoby organizatora Konferencji Tłumaczy\[/caption\]
+\[caption id="attachment_7279" align="aligncenter" width="590"\][![](images/panel-1024x576.jpg)](http://techwriter.pl/wp-content/uploads/2018/10/panel.jpg) Źródło: zasoby organizatora Konferencji Tłumaczy\[/caption\]
 
 Po ożywionej dyskusji, w której brali aktywnie udział również uczestnicy konferencji, wysnuł się jeden główny wniosek - tłumacze i tech writerzy powinni stać po tej samej stronie barykady. Tech writerzy, wywierając wpływ na programistów w celu podnoszenia jakości treści, która znajduje się w oprogramowaniu, pomagają nie tylko użytkownikom, ale również tłumaczom. Mając dobre źródła, specjaliści od przekładu są w stanie dostarczać tłumaczenia o dużo lepszej jakości.
 
@@ -115,7 +115,7 @@ Dziękujemy organizatorom za zaproszenie a wszystkim uczestnikom za ciepłe przy
 
 Gratulujemy też zdobywcom nagród branżowych oraz zwycięzcom naszego quizu, w którym uczestnicy musieli wykazać się nie tylko wiedzą na temat naszego portalu, ale również kreatywnością.
 
-\[caption id="attachment\_7277" align="aligncenter" width="590"\][![](images/grupowe-1024x576.jpg)](http://techwriter.pl/wp-content/uploads/2018/10/grupowe.jpg) Źródło: zasoby organizatora Konferencji Tłumaczy\[/caption\]
+\[caption id="attachment_7277" align="aligncenter" width="590"\][![](images/grupowe-1024x576.jpg)](http://techwriter.pl/wp-content/uploads/2018/10/grupowe.jpg) Źródło: zasoby organizatora Konferencji Tłumaczy\[/caption\]
 
 Zdjęcia z wydarzenia znajdziecie pod linkami poniżej:
 

@@ -1,10 +1,10 @@
 ---
 title: "[NIEAKTUALNE] Oferta pracy: Senior Technical Writer"
 date: "2016-12-12"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "spartez_logo.png"

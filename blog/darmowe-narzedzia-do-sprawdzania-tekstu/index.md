@@ -1,10 +1,10 @@
 ---
 title: "Darmowe narzędzia do sprawdzania tekstu"
 date: "2017-09-19"
-categories: 
+categories:
   - "narzedzia"
   - "warsztat"
-tags: 
+tags:
   - "instrukcje"
   - "jezyk"
   - "manuale"

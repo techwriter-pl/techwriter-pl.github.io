@@ -1,10 +1,10 @@
 ---
 title: "Write the Docs Prague 2021 - ruszyła sprzedaż biletów"
 date: "2021-06-02"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "dokumentacja"
   - "kariera"
   - "konferencje"
@@ -21,7 +21,7 @@ Jak dobrze wiecie, od kilku lat jesteśmy patronem medialnym konferencji, nie mo
 
 Tegoroczna edycja **Write the Docs Prague** odbędzie się w dniach **3-5 października 2021 roku**. Podobnie jak w zeszłym roku, przyjęto formułę **online**.
 
-Tradycyjnie już, w pierwszym dniu konferencji, to jest 3 października, odbędzie się **Writing Day** czyli zespołowe pisanie oraz rozwiązywanie problemów związanych z konkretnym zadaniem. Ćwiczenia z umiejętności pisarskich będą doskonałym wstępem do prelekcji i wykładów, które będą miały miejsce 4 i 5 października. Organizatorom zależy, by forma Write the Docs Prague przypominała jak najbardziej wydarzenie z realu, dlatego przygotujcie się nie tylko na spory zastrzyk wiedzy teoretycznej i praktycznej. W planach jest bowiem spotkanie towarzyskie, podczas którego, uczestnicy będą mogli lepiej się poznać grając w gry i słuchając muzyki. Pamiętajcie o przyniesieniu do komputera ulubionych napoi i przekąsek ;-). 
+Tradycyjnie już, w pierwszym dniu konferencji, to jest 3 października, odbędzie się **Writing Day** czyli zespołowe pisanie oraz rozwiązywanie problemów związanych z konkretnym zadaniem. Ćwiczenia z umiejętności pisarskich będą doskonałym wstępem do prelekcji i wykładów, które będą miały miejsce 4 i 5 października. Organizatorom zależy, by forma Write the Docs Prague przypominała jak najbardziej wydarzenie z realu, dlatego przygotujcie się nie tylko na spory zastrzyk wiedzy teoretycznej i praktycznej. W planach jest bowiem spotkanie towarzyskie, podczas którego, uczestnicy będą mogli lepiej się poznać grając w gry i słuchając muzyki. Pamiętajcie o przyniesieniu do komputera ulubionych napoi i przekąsek ;-).
 
 Szczegółowe informacje znajdziecie [na stronie konferencji](https://www.writethedocs.org/conf/prague/2021/).
 

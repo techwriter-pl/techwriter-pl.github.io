@@ -1,10 +1,10 @@
 ---
 title: "The 5 things you must know about customer experience - relacja"
 date: "2014-05-13"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "webinarium"
   - "zarzadzanie-trescia"
 coverImage: "Five.jpg"
@@ -12,7 +12,7 @@ coverImage: "Five.jpg"
 
 Ponownie mieliśmy okazję wziąć udział w webinarium zorganizowanym przez Congility. Tym razem poprowadziła je [Sharon Burton](http://www.sharonburton.com/about/), która na tapetę wzięła doświadczenia użytkownika i powody, dla których tak ważne jest zrozumienie jego potrzeb.
 
- 
+
 
 ![79percent](images/79percent-300x180.jpg)
 

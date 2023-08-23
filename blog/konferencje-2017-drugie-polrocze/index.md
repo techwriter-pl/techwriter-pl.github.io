@@ -1,11 +1,11 @@
 ---
 title: "Konferencje 2017 - drugie półrocze"
 date: "2017-05-30"
-categories: 
+categories:
   - "news"
   - "z-kraju"
   - "ze-swiata"
-tags: 
+tags:
   - "dita"
   - "e-learning"
   - "edukacja"

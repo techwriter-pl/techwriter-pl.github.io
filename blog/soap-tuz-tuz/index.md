@@ -1,10 +1,10 @@
 ---
 title: "Soap! tuż tuż"
 date: "2019-05-16"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "kariera"
   - "konferencje"
   - "spolecznosc"
@@ -24,7 +24,7 @@ Szczegółowy program oraz tematykę wystąpień prelegentów znajdziecie [tutaj
 Ramowy program tegorocznego soap:
 
 - Pierwszy dzień – warsztaty odbywające się w dwóch blokach tematycznych
-- Drugi dzień – rejestracja, powitanie, prelekcje – 10 prezentacji z przerwami na kawę oraz obiad. Po prelekcjach nastąpi uroczyste zakończenie połączone z dobrze już znanym networkingiem. Następnie organizatorzy zapraszają na imprezę ;-) W tym dniu odbędzie się prelekcja przygotowana i poprowadzona przez dwóch naszych redaktorów - Michała Skowrona oraz Pawła Kowaluka. Serdecznie zapraszamy w ich imieniu na prezentację pod tytułem _Doing docs like code in the real world – an interactive case study_. 
+- Drugi dzień – rejestracja, powitanie, prelekcje – 10 prezentacji z przerwami na kawę oraz obiad. Po prelekcjach nastąpi uroczyste zakończenie połączone z dobrze już znanym networkingiem. Następnie organizatorzy zapraszają na imprezę ;-) W tym dniu odbędzie się prelekcja przygotowana i poprowadzona przez dwóch naszych redaktorów - Michała Skowrona oraz Pawła Kowaluka. Serdecznie zapraszamy w ich imieniu na prezentację pod tytułem *Doing docs like code in the real world – an interactive case study*.
 - Trzeci dzień – rejestracja, powitanie, prelekcje – 11 prezentacji z przerwami na kawę oraz obiad. Po prelekcjach nastąpi uroczyste zakończenie, a dla chętnych odbędzie się after party w Tea Time na Dietla 1.
 
 ### **Rejestracja i cena**

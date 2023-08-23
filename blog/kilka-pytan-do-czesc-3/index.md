@@ -1,10 +1,10 @@
 ---
 title: "Kilka pytań do - część 3"
 date: "2015-02-24"
-categories: 
+categories:
   - "warsztat"
   - "wywiady"
-tags: 
+tags:
   - "spolecznosc"
   - "wywiad"
 coverImage: "peppershaker-e1424725523734.jpg"

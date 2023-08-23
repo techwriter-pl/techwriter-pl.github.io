@@ -1,11 +1,11 @@
 ---
 title: "Infografiki"
 date: "2013-11-13"
-categories: 
+categories:
   - "dobre-praktyki"
   - "przyklady"
   - "warsztat"
-tags: 
+tags:
   - "grafika"
   - "infografiki"
 coverImage: "Infografika.jpg"
@@ -13,7 +13,7 @@ coverImage: "Infografika.jpg"
 
 Czym zajmują się technical writerzy? Raczej nie tworzą infografik... A szkoda, bo to takie wdzięczne zajęcie. A czym zajmują się infografiki? I czym właściwie są?
 
-Tłumacząc za [Wikipedią](http://en.wikipedia.org/wiki/Infographic) - infografika to graficzna reprezentacja informacji, danych lub wiedzy, mająca na celu przekazanie skomplikowanych informacji szybko i klarownie. Wykorzystując to, że jesteśmy wzrokowcami i przyswajamy informację łatwiej, jeśli jest podana w formie graficznej. Proces tworzenia infografik to, z angielskiego,  _data visualization, information design_, _information architecture._
+Tłumacząc za [Wikipedią](http://en.wikipedia.org/wiki/Infographic) - infografika to graficzna reprezentacja informacji, danych lub wiedzy, mająca na celu przekazanie skomplikowanych informacji szybko i klarownie. Wykorzystując to, że jesteśmy wzrokowcami i przyswajamy informację łatwiej, jeśli jest podana w formie graficznej. Proces tworzenia infografik to, z angielskiego,  _data visualization, information design_, *information architecture.*
 
 Bardzo ciekawe wprowadzenie do tematu infografik (w języku angielskim) znajdziecie również w tym miejscu - [What is an infographic? Infographic Examples, Templates and Design Tips.](https://venngage.com/blog/what-is-an-infographic/)
 

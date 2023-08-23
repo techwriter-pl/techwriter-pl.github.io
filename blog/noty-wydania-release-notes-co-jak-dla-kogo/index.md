@@ -1,10 +1,10 @@
 ---
 title: "Noty wydania (Release Notes) - co, jak, dla kogo?"
 date: "2017-06-14"
-categories: 
+categories:
   - "przyklady"
   - "warsztat"
-tags: 
+tags:
   - "praca"
   - "release-notes"
 coverImage: "adult-2242164_640.jpg"

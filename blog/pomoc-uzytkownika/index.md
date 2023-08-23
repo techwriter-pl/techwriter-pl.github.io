@@ -1,10 +1,10 @@
 ---
 title: "Pomoc użytkownika"
 date: "2013-10-31"
-categories: 
+categories:
   - "przyklady"
   - "warsztat"
-tags: 
+tags:
   - "on-line-help"
   - "pomoc-uzytkownika"
   - "praca"

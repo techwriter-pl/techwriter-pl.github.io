@@ -1,10 +1,10 @@
 ---
 title: "[aktualizacja] Konferencje 2021 - drugie półrocze"
 date: "2021-09-14"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "edukacja"
   - "kariera"
   - "konferencje"
@@ -97,6 +97,6 @@ Jak zawsze mamy prośbę – jeśli wiecie o jakimś wydarzeniu związanym z bra
 
 2-3 grudnia - [Write the Docs Australia & India 2021](https://www.writethedocs.org/conf/australia/2021/) - **odwołana**
 
- 
+
 
 Jak zawsze jesteśmy ciekawi, które z proponowanych przez nas wydarzeń cieszą się Waszym zainteresowaniem. Dajcie znać w komentarzach!

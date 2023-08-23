@@ -348,6 +348,4 @@ Niniejszy artykuł i tak nie odzwierciedla w pełni ekwipunku wiedzy, z jakim
 wróciliśmy do Polski. Jeżeli tylko możecie, wybierzcie się na kolejną edycję
 Write the Docs — obiecujemy, że nie będziecie żałować.
 
-
-
 _Aktualizacja 12.08.2019: poprawiono „strona aktywna” na „strona czynna”._

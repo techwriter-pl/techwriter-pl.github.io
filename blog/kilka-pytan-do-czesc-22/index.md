@@ -1,10 +1,10 @@
 ---
 title: "Kilka pytań do - Część 22"
 date: "2021-01-11"
-categories: 
+categories:
   - "warsztat"
   - "wywiady"
-tags: 
+tags:
   - "dokumentacja"
   - "spolecznosc"
   - "wywiad"

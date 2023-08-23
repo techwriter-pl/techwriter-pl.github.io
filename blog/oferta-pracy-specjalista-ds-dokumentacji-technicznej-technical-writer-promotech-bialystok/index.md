@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Specjalista ds. dokumentacji Technicznej / Technical Writer (Promotech) - Białystok"
 date: "2021-12-08"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "promotech.png"
@@ -18,7 +18,7 @@ We współczesnym świecie nieustanne podnoszenie kwalifikacji, doskonalenie umi
 
 Aplikacje wraz z aktualnym CV prosimy przesyłać drogą mailową na adres [praca@promotech.pl](mailto:praca@promotech.pl) lub korzystając z formularza w [ogłoszeniu na stronie firmy](https://www.promotech.eu/pl/kariera/#SpecjalistadsdokumentacjiTechnicznejTechnicalWriter).
 
-* * *
+---
 
 ### Specjalista ds. dokumentacji Technicznej / Technical Writer
 
@@ -55,6 +55,6 @@ Aplikacje wraz z aktualnym CV prosimy przesyłać drogą mailową na adres [pra
 - Dofinansowanie studiów II stopnia
 - Zakładowa biblioteka
 
-* * *
+---
 
 Chętnym życzymy powodzenia!

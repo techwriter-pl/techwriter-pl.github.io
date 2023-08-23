@@ -1,10 +1,10 @@
 ---
 title: "Bazy wiedzy"
 date: "2013-12-18"
-categories: 
+categories:
   - "przyklady"
   - "warsztat"
-tags: 
+tags:
   - "knowledge-base"
   - "materialy-szkoleniowe"
   - "praca"

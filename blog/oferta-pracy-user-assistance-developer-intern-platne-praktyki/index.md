@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: User Assistance Developer (Intern) - płatne praktyki"
 date: "2018-06-06"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "dassault.png"
@@ -14,9 +14,9 @@ Warta rozważenia opcja na początek w zawodzie. Wiele nie trzeba wiedzieć, za 
 
 Szczegóły [na stronie - tam również można złożyć swoja aplikację](https://careers.3ds.com/jobs/503451/).
 
- 
 
-* * *
+
+---
 
 # RND DELMIA User Assistance Developer (Intern)
 
@@ -78,8 +78,8 @@ Shape your career with 3DS! #WeAre3DS
 
 \-        A certificate in Technical Communication (ITCQF or similar)
 
- 
 
-* * *
+
+---
 
 Powodzenia!

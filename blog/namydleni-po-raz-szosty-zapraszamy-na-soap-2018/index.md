@@ -1,10 +1,10 @@
 ---
 title: "Namydleni po raz szósty - zapraszamy na soap! 2018"
 date: "2018-02-23"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "edukacja"
   - "kariera"
   - "konferencje"

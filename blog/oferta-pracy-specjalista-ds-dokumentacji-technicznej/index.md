@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Specjalista ds. dokumentacji technicznej"
 date: "2015-12-04"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "Ericpol-logo-e1449144629296.jpg"

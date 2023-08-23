@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Junior Content Designer (Atlassian) - Gdańsk"
 date: "2020-12-18"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "atlassian_logo.png"
@@ -16,7 +16,7 @@ Gdański oddział Atlassiana rekrutuje pełną parą. Tym razem [oferta dla osó
 
 https://youtu.be/Hd0JflMdqyM
 
-* * *
+---
 
 # Junior Content Designer
 
@@ -69,6 +69,6 @@ All your information will be kept confidential according to EEO guidelines.
 
 Learn more about Atlassian’s culture, interviewing flow, and hiring process by checking out our [Candidate Resource Hub](https://www.atlassian.com/company/careers/resources).
 
-* * *
+---
 
 Powodzenia!

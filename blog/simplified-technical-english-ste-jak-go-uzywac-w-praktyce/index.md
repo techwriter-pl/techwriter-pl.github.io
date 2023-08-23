@@ -1,10 +1,10 @@
 ---
 title: "Simplified Technical English (STE) - jak go używać w praktyce"
 date: "2020-10-13"
-categories: 
+categories:
   - "dobre-praktyki"
   - "przyklady"
-tags: 
+tags:
   - "ste"
   - "instrukcje"
   - "manuale"
@@ -36,31 +36,31 @@ Jak to działa? Żeby się nie rozpisywać, przejdziemy do konkretów :) i podam
 
 ### Reguły pisania
 
-1) Używaj odpowiednich rodzajników (a, an, the) przed rzeczownikiem lub zaimków wskazujących (this, these).
+1. Używaj odpowiednich rodzajników (a, an, the) przed rzeczownikiem lub zaimków wskazujących (this, these).
 
 <table class=" aligncenter" style="height: 89px" width="519"><tbody><tr><td style="text-align: left" width="297"><strong><em>Oryginalny tekst</em></strong></td><td style="text-align: left" width="297"><strong><em>Tekst napisany w STE</em></strong></td></tr><tr><td width="297"><em>Remove, and safely discard cleaning cloth.</em></td><td style="text-align: left" width="297"><em>Remove, and safely discard the cleaning cloth.</em></td></tr></tbody></table>
 
 Komentarz: Tam gdzie jest to możliwe używaj rodzajników do nazw technicznych.
 
-2) W jednym zdaniu powinna być napisana tylko jedna instrukcja.
+2. W jednym zdaniu powinna być napisana tylko jedna instrukcja.
 
 <table class=" aligncenter" style="height: 143px" width="518"><tbody><tr><td width="297"><strong><em>Oryginalny tekst</em></strong></td><td width="297"><strong><em>Tekst napisany w STE</em></strong></td></tr><tr><td width="297"><em>Holding the overspeed governor, remove remaining three nuts and three washers, which attach overspeed governor to gearbox. Three nuts are to be discarded.</em></td><td width="297"><em>Hold the overspeed governor. Remove the remaining three nuts and the three washers that attach the overspeed governor to the gearbox. Discard the three nuts.</em></td></tr></tbody></table>
 
 Komentarz: Niektórzy autorzy tworzą długie zdania, ponieważ chcą powiedzieć czytelnikom wszystko, co wiedzą. Jeśli Waszą wiedzę chcecie przekazać w jednym lub dwóch zdaniach, możecie przytłoczyć czytelnika.
 
-3) Instrukcje powinny być jak najbardziej szczegółowe.
+3. Instrukcje powinny być jak najbardziej szczegółowe.
 
 <table class=" aligncenter" style="height: 83px" width="517"><tbody><tr><td width="297"><strong><em>Oryginalny tekst</em></strong></td><td width="297"><strong><em>Tekst napisany w STE</em></strong></td></tr><tr><td width="297"><em>Different temperatures will change the cure time.</em></td><td width="297"><em>Increase the temperature to decrease the cure time.</em></td></tr></tbody></table>
 
 Komentarz: Tekst oryginalny nie opisuje co trzeba zrobić, obniżyć czy podwyższyć temperaturę.
 
-4) Nigdy nie używaj strony biernej w tekście, zawsze użyj strony czynnej.
+4. Nigdy nie używaj strony biernej w tekście, zawsze użyj strony czynnej.
 
 <table class=" aligncenter" style="height: 82px" width="520"><tbody><tr><td style="text-align: left" width="297"><strong><em>Oryginalny tekst</em></strong></td><td width="297"><strong><em>Tekst napisany w STE</em></strong></td></tr><tr><td width="297"><em>The screws should be replaced.</em></td><td width="297"><em>The mechanics replaces the screws.</em></td></tr></tbody></table>
 
 Komentarz: Tekst oryginalny nie mówi kto ma wykonać tę czynność.
 
-5) Nie używaj więcej niż trzech rzeczowników po rząd.
+5. Nie używaj więcej niż trzech rzeczowników po rząd.
 
 <table class=" aligncenter" style="height: 87px" width="523"><tbody><tr><td width="297"><strong><em>Oryginalny tekst</em></strong></td><td width="297"><strong><em>Tekst napisany w STE</em></strong></td></tr><tr><td width="297"><em>Runway light connection resistance calibration</em></td><td width="297"><em>Runway light connection</em></td></tr></tbody></table>
 

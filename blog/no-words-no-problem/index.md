@@ -1,12 +1,12 @@
 ---
 title: "No Words, No Problem..."
 date: "2014-03-06"
-categories: 
+categories:
   - "news"
   - "warsztat"
   - "z-przymruzeniem-oka"
   - "ze-swiata"
-tags: 
+tags:
   - "aplikacje"
   - "instrukcje"
 coverImage: "eraser-e1394146507930.jpg"

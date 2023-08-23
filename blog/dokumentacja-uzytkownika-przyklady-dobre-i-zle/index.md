@@ -1,10 +1,10 @@
 ---
 title: "Dokumentacja użytkownika - przykłady dobre i złe"
 date: "2014-07-18"
-categories: 
+categories:
   - "dobre-praktyki"
   - "warsztat"
-tags: 
+tags:
   - "edukacja"
   - "instrukcje"
   - "manuale"
@@ -23,7 +23,7 @@ Nie używaliśmy (jeszcze?) produktów tej firmy i nie wiemy o niej za wiele, al
 
 [![killer_documentation](images/killer_documentation.jpg)](http://techwriter.pl/wp-content/uploads/2014/06/killer_documentation.jpg)
 
- 
+
 
 Ale nie o tym chcieliśmy... to co najbardziej przyciągnęło naszą uwagę to:
 

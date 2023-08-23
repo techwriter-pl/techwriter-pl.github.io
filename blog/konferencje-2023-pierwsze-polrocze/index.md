@@ -1,10 +1,10 @@
 ---
 title: "KONFERENCJE 2023 – PIERWSZE PÓŁROCZE"
 date: "2023-01-12"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "kariera"
   - "konferencje"
   - "spolecznosc"
@@ -17,7 +17,7 @@ Podobnie jak w ostatnim roku, wiele wydarzeń odbędzie się online lub w formac
 
 Jak zawsze, będę śledzić zmiany i uzupełniać dane w miarę ich pojawiania się. Do Was mam prośbę – jeśli wiecie o jakimś wydarzeniu związanym z branżą komunikacji technicznej, o którym nie wspomniałam, dajcie znać, a ja przekażę info dalej 😉
 
-* * *
+---
 
 ### Styczeń
 
@@ -135,6 +135,6 @@ Jak zawsze, będę śledzić zmiany i uzupełniać dane w miarę ich pojawiania 
 
 27-29 czerwca, Raleigh, Karolina Północna, USA – [Training Industry Conference & Expo (TICE)](https://tice.trainingindustry.com/event/fad6d949-9a06-49b7-81d3-60f2bbe170bd/summary)
 
-* * *
+---
 
 Jak po każdym takim zestawieniu, czekam na Wasz komentarz, o tym które wydarzenia najbardziej Was interesują.

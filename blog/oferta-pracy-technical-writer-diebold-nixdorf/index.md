@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical Writer (Diebold Nixdorf)"
 date: "2018-02-02"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "image001.jpg"

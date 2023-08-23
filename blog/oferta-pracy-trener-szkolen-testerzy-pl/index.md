@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: trener szkoleń (testerzy.pl)"
 date: "2022-02-10"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "edukacja"
   - "praca"
   - "szkolenia"
@@ -17,7 +17,7 @@ Ciekawa oferta dla doświadczonych technical writerów, którzy mają ochotę po
 
 Osoby zainteresowane mogą aplikować poprzez formularz zamieszczony [na stronie ogłoszenia](https://testerzy.pl/oferta-pracy/trener-szkolen-profesjonalna-komunikacja-itcqf-poziom-podstawowy).
 
-* * *
+---
 
 ### Zostań trenerem Profesjonalna komunikacja techniczna ITCQF Poziom Podstawowy
 
@@ -57,6 +57,6 @@ Masz okazję dołączyć do zespołu trenerów testerzy.pl!
 - możliwość uczestniczenia w ciekawych projektach szkoleniowych (szkolenia otwarte oraz szkolenia zamknięte dla firm, szkolenia asynchroniczne)
 - możliwość publikacji artykułów na naszych portalach pod własnym nazwiskiem
 
-* * *
+---
 
 Wszystkim chętnym życzymy powodzenia!

@@ -1,10 +1,10 @@
 ---
 title: "Write the Docs Prague 2019 już wkrótce"
 date: "2019-08-14"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "kariera"
   - "konferencje"
   - "spolecznosc"

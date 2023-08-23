@@ -1,10 +1,10 @@
 ---
 title: "TECH WRITER KODUJE – ODCINEK #43 I #44"
 date: "2022-08-19"
-categories: 
+categories:
   - "praca"
   - "warsztat"
-tags: 
+tags:
   - "dokumentacja"
   - "kariera"
   - "podcast"

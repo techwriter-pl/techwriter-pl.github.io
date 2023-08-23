@@ -1,11 +1,11 @@
 ---
 title: "Pierwszy technical writer?"
 date: "2014-09-05"
-categories: 
+categories:
   - "news"
   - "warsztat"
   - "z-przymruzeniem-oka"
-tags: 
+tags:
   - "humor"
   - "manuale"
   - "spolecznosc"
@@ -17,11 +17,11 @@ W środowisku krążą plotki o tym, że pierwszy techwriter był lowelasem. Nie
 Pamiętacie artykuł o [geografii komunikacji technicznej](http://techwriter.pl/komunikacja-techniczna-geograficznie/)? Wyrobione oko bez trudu dojrzało na mapce zarys niebieskiej kropki. Kryje się za nią następujący opis:
 
 > ## Birthplace of Ada Lovelace
-> 
+>
 > _Other_
-> 
+>
 > Ada Lovelace (1815-1852) is sometimes called the first technical writer, thanks to her work on the notes for Charles Babbage's Analytical Engine.
-> 
+>
 > Piccadilly, London, England
 
 Ciekawe, prawda? Postanowiliśmy to sprawdzić, w końcu jest piątek ;)
@@ -40,6 +40,6 @@ Stanowczo natomiast sprzeciwiamy się nazywaniem jej pierwszym techwriterem!
 
 Są przecież [niezbite dowody](http://techwriter.pl/5-sredniowiecznych-jaktosow/) na to, że nasza profesja miała się całkiem dobrze już dużo, dużo wcześniej. Że o hieroglifach nie wspomnimy.
 
-A Ada Lovelace ma już nawet [swój własny język programowania](http://en.wikipedia.org/wiki/Ada_(programming_language)).
+A Ada Lovelace ma już nawet [swój własny język programowania](<http://en.wikipedia.org/wiki/Ada_(programming_language)>).
 
 Czego i Wam życzymy.

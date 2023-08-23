@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical Training Development Specialist"
 date: "2016-02-23"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "microgen_logo.png"

@@ -1,10 +1,10 @@
 ---
 title: "OFERTA PRACY: TECHNICAL WRITER (Handsontable) – ZDALNIE, HYBRYDOWO LUB STACJONARNIE (GDYNIA)"
 date: "2023-08-03"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "oferta-pracy"
   - "praca"
@@ -23,7 +23,7 @@ Klienci Handsoncode znajdują się na całym świecie i działają w różnych b
 
 Aplikacje możecie przesyłać drogą mailową na adres [careers@handsontable.com](mailto:careers@handsontable.com) lub korzystając z [formularza](https://handsontable.traffit.com/public/form/a/VGhNPQ==).
 
-* * *
+---
 
 ## Technical Writer for Handsontable
 
@@ -89,6 +89,6 @@ Applicants must hold either a valid Polish work permit or have EU citizenship pr
 
 We are building a team that is strong in its diversity, representing a mix of different cognitive styles. Please do not include a photo, your date of birth, or your full address in your resume.
 
-* * *
+---
 
 Zainteresowanym życzymy powodzenia!

@@ -1,10 +1,10 @@
 ---
 title: "UA Europe 2016: tech writing, gulasz i ogień"
 date: "2016-07-07"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "konferencje"
   - "pomoc-uzytkownika"
 coverImage: "ua-europe.png"
@@ -34,7 +34,7 @@ UA Europe to przede wszystkim stała kadra prezenterów i spora grupa delegatów
 
 Konferencja to nie tylko wiedza, to jeszcze lokalizacja. Sam Budapeszt jest nie lada atrakcją, natomiast hotel, w którym odbywało się wydarzenie znajdował się na wyspie Margitsziget, która jest oazą zieleni w samym środku miasta. Na samej tylko wyspie można było oglądać ruiny klasztoru, altanę-pozytywkę, starą świątynię, ogród japoński, budynek, z którego wypływał wodospad i na pewno wiele innych ciekawych miejsc, na które jednak nie mieliśmy już czasu. No i oczywiście można było dobrze zjeść.
 
-\[caption id="attachment\_4611" align="aligncenter" width="5312"\][![Widok na Margiisziget](images/20160609_072313.jpg)](http://techwriter.pl/wp-content/uploads/2016/07/20160609_072313.jpg) Widok na miasto z wyspy Margitsziget\[/caption\]
+\[caption id="attachment_4611" align="aligncenter" width="5312"\][![Widok na Margiisziget](images/20160609_072313.jpg)](http://techwriter.pl/wp-content/uploads/2016/07/20160609_072313.jpg) Widok na miasto z wyspy Margitsziget\[/caption\]
 
 # Ogień
 

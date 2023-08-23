@@ -1,10 +1,10 @@
 ---
 title: "Tech Writer Koduje - odcinek 34"
 date: "2021-10-14"
-categories: 
+categories:
   - "dobre-praktyki"
   - "warsztat"
-tags: 
+tags:
   - "dokumentacja"
   - "kariera"
   - "podcast"

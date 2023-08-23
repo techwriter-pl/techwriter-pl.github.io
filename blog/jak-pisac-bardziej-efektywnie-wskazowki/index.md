@@ -1,10 +1,10 @@
 ---
 title: "Jak pisać bardziej efektywnie - wskazówki"
 date: "2021-12-15"
-categories: 
+categories:
   - "dobre-praktyki"
   - "warsztat"
-tags: 
+tags:
   - "narzedzia"
   - "praktyki"
 coverImage: "Konferencje-2019-10.png"
@@ -56,7 +56,7 @@ Witryny takie jak [WordGames.Com](https://www.wordgames.com/) czy [Typing.com](h
 
 ### **Najpierw napisz całość, edytuj później**
 
-Nikt oprócz Ciebie nie zobaczy pierwszej wersji tekstu, który piszesz, dlatego oddaj się wenie, bez oglądania się na literówki czy błędy w spójności. Kuj żelazo póki gorące, jak najszybciej zapisując pomysł, dbając o to, by się nie zaciąć i nie stracić wątku. To w edycję tego co stworzyłeś włożysz największy wysiłek. 
+Nikt oprócz Ciebie nie zobaczy pierwszej wersji tekstu, który piszesz, dlatego oddaj się wenie, bez oglądania się na literówki czy błędy w spójności. Kuj żelazo póki gorące, jak najszybciej zapisując pomysł, dbając o to, by się nie zaciąć i nie stracić wątku. To w edycję tego co stworzyłeś włożysz największy wysiłek.
 
 ### **Podążaj za stereotypem "Praktyka czyni mistrza."**
 
@@ -66,7 +66,7 @@ To najbardziej nadużywany frazes i zarazem najbardziej prawdziwy. Musisz pisać
 
 Stawianie przed sobą wyzwań i dążenie do ich realizacji jest jedną z największych cech ludzi sukcesu w każdej dziedzinie. Codzienne wyzwania, czyli dobrze wszystkim znane daily goals skutecznie mogą podnieść motywację do działania.
 
-Przykładowo: 
+Przykładowo:
 
 Jeśli masz dostarczyć tekst na 20 stron, możesz ustawić swój dzienny cel na 2 strony i starać się, by tego pilnować. W ten sposób nie tylko rozłożysz pracę na drobniejsze segmenty, ale też zadbasz o to, by mieć czas na poprawki. Dodatkowo, dość szybko zorientujesz się ile czasu poświęcasz na dany etap tworzenia tekstu, dzięki czemu lepiej zaplanujesz pracę w przyszłości.
 
@@ -100,7 +100,7 @@ Technika ta podnosi koncentrację, wpływa na większą produktywność, a takż
 
 ### **Użyj znaku “nie przeszkadzać”**
 
-W hotelach stosujemy zawieszkę “nie przeszkadzać” gdy chcemy, by nie zakłócano nam spokoju. Podobną metodę możemy zastosować wobec współpracowników. Jeśli jesteś częścią zespołu, to pewne jest, że osoby, z którymi pracujesz, będą przychodziły do ciebie z różnymi problemami. Takich nieoczekiwanych przerw może być sporo, co w dłuższym okresie czasu, zaczyna negatywnie wpływać na twój proces twórczy. Jeśli znacie Chyłkę z książek Remigiusza Mroza to już wiecie o co chodzi ;) 
+W hotelach stosujemy zawieszkę “nie przeszkadzać” gdy chcemy, by nie zakłócano nam spokoju. Podobną metodę możemy zastosować wobec współpracowników. Jeśli jesteś częścią zespołu, to pewne jest, że osoby, z którymi pracujesz, będą przychodziły do ciebie z różnymi problemami. Takich nieoczekiwanych przerw może być sporo, co w dłuższym okresie czasu, zaczyna negatywnie wpływać na twój proces twórczy. Jeśli znacie Chyłkę z książek Remigiusza Mroza to już wiecie o co chodzi ;)
 
 Wyznacz sobie i współpracownikom określony czas, w którym zajmujesz się tylko pisaniem, a oni nie przychodzą z pytaniami, nie piszą wiadomości na komunikatorach i nie próbują ci w żaden sposób przeszkadzać. I bądź konsekwentny w egzekwowaniu tego czasu, zarówno wobec osób wokół ciebie, jak i siebie samego. Szybko zauważysz, jak dużo jesteś w stanie zrobić w trakcie tej jednej godziny czy dwóch w ciągu dnia. Spadnie też Twój poziom stresu i irytacji, co będzie wartością dodaną do twojego samopoczucia i relacji z otoczeniem.
 
@@ -116,12 +116,12 @@ W jednej minucie chcesz zobaczyć swoją skrzynkę odbiorczą na Facebooku, w ko
 
 ### **Wyłącz to, co cię rozprasza!**
 
-Jeśli używasz komputera do pisania, wyłączenie go nie jest możliwe. Możesz jednak użyć oprogramowania, które na czas pracy, wyłączy wszystko to, co sprawia, że się dekoncentrujesz. 
+Jeśli używasz komputera do pisania, wyłączenie go nie jest możliwe. Możesz jednak użyć oprogramowania, które na czas pracy, wyłączy wszystko to, co sprawia, że się dekoncentrujesz.
 
 Istnieje wiele programów, które będą blokować wszystkie rozpraszacze w tle, np. [FocusWriter](https://gottcode.org/focuswriter/), [Typora](https://typora.io/), [Mark text](https://marktext.app/) czy [Ommwriter](https://ommwriter.com/).
 
 ### **Podsumowanie**
 
-Powyższe wskazówki nie są lekiem na wszystko i dla wszystkich, ale mogą sprawić, że zyskacie cenny czas na tworzenie dokumentacji, a długa lista zadań do wykonania nie będzie tak stresująca. Oczywiście niemożliwością jest wprowadzenie wszystkich założeń jednocześnie, więc wybierzcie tylko te, które mogą być przydatne w Waszym przypadku. 
+Powyższe wskazówki nie są lekiem na wszystko i dla wszystkich, ale mogą sprawić, że zyskacie cenny czas na tworzenie dokumentacji, a długa lista zadań do wykonania nie będzie tak stresująca. Oczywiście niemożliwością jest wprowadzenie wszystkich założeń jednocześnie, więc wybierzcie tylko te, które mogą być przydatne w Waszym przypadku.
 
 Za inspirację i pomysł na artykuł dziękujemy [Jessice Majewski](https://whenyouwrite.com/author/jessica/), autorce tekstu [How To Write Faster: 23 Tips To Speed Up Your Writing Output](https://whenyouwrite.com/how-to-write-faster/).

@@ -1,10 +1,10 @@
 ---
 title: "TCeurope Colloquium 2017"
 date: "2016-11-15"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "konferencje"
   - "spolecznosc"
 coverImage: "tceurope-1-e1478815759678.png"
@@ -48,7 +48,7 @@ Organizator zachęca do rejestracji osoby, które chciałyby wystąpić w roli p
 
 Rejestracji można dokonać poprzez wypełnienie i wysłanie [formularza](https://docs.google.com/forms/d/e/1FAIpQLSdrixFlKzj9i2ar-omx9Ldiq48j4wD_MW5_7qXJFNpeMp7Mhg/viewform). Termin składania zgłoszeń upływa **31 grudnia 2016**. Zgłoszenia zostaną zweryfikowane przez specjalną komisję, która zadecyduje, które z nich zostaną zaprezentowane podczas konferencji. Może się zdarzyć, że członkowie komisji zechcą z Wami przeprowadzić wideokonferencję, by dowiedzieć się więcej na temat prezentacji. Odpowiedzi zostaną rozesłane do 1 lutego 2017, a lista zaakceptowanych prezentacji ukaże się po tym terminie na stronie konferencji. Organizator prosi o przesłanie pełnej prezentacji do 31 marca 2017. Materiały te zostaną umieszczone w sieci po konferencji. Organizator planuje również nagrywanie wszystkich prezentacji.
 
-Prośba od organizatora - jeśli znacie kogoś, kto byłby zainteresowany wystąpieniem na konferencji to przekażcie mu powyższe informacje. 
+Prośba od organizatora - jeśli znacie kogoś, kto byłby zainteresowany wystąpieniem na konferencji to przekażcie mu powyższe informacje.
 
 Jeśli macie jakiekolwiek pytania piszcie na adres  [tceurope.colloquium@gmail.com](mailto:tceurope.colloquium@gmail.com) lub zaglądajcie na [Twittera](https://twitter.com/TCeuropeORG?lang=pl), gdzie znajdziecie także sporo informacji o poprzedniej edycji konferencji. A jeśli już o niej mowa to zachęcamy do zapoznania się z [krótkimi notkami na temat prelegentów](https://www.conferize.com/colloquium-tceurope-2016/speakers) oraz z [pełnym zapisem konferencji](https://www.youtube.com/watch?v=9stNcZ6CqOI&list=PLXyaM5wpF8bmw13zFUUhiT0ubY6BK79KJ).
 

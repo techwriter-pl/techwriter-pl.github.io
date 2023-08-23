@@ -1,10 +1,10 @@
 ---
 title: "Konferencja soap! 2019 - (wideo)relacja"
 date: "2019-11-03"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "konferencje"
 coverImage: "soap-e1563527191399.jpg"
 ---

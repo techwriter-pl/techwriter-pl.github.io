@@ -1,10 +1,10 @@
 ---
 title: "Wyższe koszty uzyskania przychodu dla Technical Writerów?"
 date: "2015-08-04"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "tax-468440_640-e1437310570838.jpg"
@@ -12,11 +12,11 @@ coverImage: "tax-468440_640-e1437310570838.jpg"
 
 Technical Writerzy nie są powszechnie uważani za artystów, jednak nie można zaprzeczyć, że pisanie instrukcji jest pracą twórczą, przynajmniej według nas. Taka interpretacja daje im potencjalnie możliwość skorzystania z 50% kosztów uzyskania przychodu, co przekłada się na wyższe zarobki netto. Jakiś czas temu jeden z naszych czytelników przysłał do nas taki e-mail.
 
-_Cześć!
+\_Cześć!
 
 Piszę do was z pomysłem na temat. Lab, w którym pracuje zatrudnia ponad 150 osób. Programiści korzystają z dobrodziejstwa wyższych kosztów uzyskania przychodu, ponieważ nawet najprostszy kod posiada znamiona indywidualności, tym samym jest traktowany jako utwór w świetle prawa autorskiego. Gdy próbowaliśmy przekonać management, że podręcznik użytkownika, artykuł na stronie, instrukcja, stylesheet XSL, skrypt ANT, to także utwory, odbijamy się o ścianę słowa "procedura", która w ustawie jest wymieniona explicite jako negatywny przykład utworu. Czy Tech Writerzy w Polsce korzystają z 50% kosztów uzyskania przychodu przysługującym twórcom?
 
-Pozdrawiam!_
+Pozdrawiam!\_
 
 Trochę nam zeszło zanim zebraliśmy informacje dotyczące tej kwestii, ale lepiej późno niż później ;) Zapraszamy do lektury. Jest tego trochę, ale poświęcenie czasu na zapoznanie się z zebranym przez nas materiałem może się wielu z Was opłacić.
 
@@ -94,10 +94,10 @@ Co miesiąc Roman jest zobowiązany sporządzać oświadczenie odnośnie przygot
 - Podać miesiąć, za który raport jest wypełniany
 - Wypełnić tabelkę - pierwsza kolumna zawiera informację o tym co zostało zrobione/poprawione, a druga kolumna zawiera opis zmian. Przykład poniżej.
 
-| Utwór | Opis |
-| --- | --- |
+| Utwór                            | Opis                                                                                |
+| -------------------------------- | ----------------------------------------------------------------------------------- |
 | Dokument "Product Install Guide" | Stworzenie nowego dokumentu opisującego instalację i wstępną konfigurację Produktu. |
-| Dokument "Product Admin Guide" | Dodanie nowego rozdziału opisującego konfigurację powiadomień. |
+| Dokument "Product Admin Guide"   | Dodanie nowego rozdziału opisującego konfigurację powiadomień.                      |
 
 - Załączyć pliki z utworami, które zostały zaraportowane. Roman załącza projekty z programu do tworzenia dokumentacji. W przypadku zmienionych dokumentów, Roman wyciąga z SVNa wersję z ostatniego dnia miesiąca, za który wypełnia raport. Inną opcją jest załączanie plików diff.
 

@@ -1,10 +1,10 @@
 ---
 title: "Prosty język w tekstach naukowych i technicznych"
 date: "2020-07-21"
-categories: 
+categories:
   - "dobre-praktyki"
   - "warsztat"
-tags: 
+tags:
   - "jezyk"
   - "praktyki"
 coverImage: "prosty_jezyk.png"

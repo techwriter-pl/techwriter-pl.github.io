@@ -1,10 +1,10 @@
 ---
 title: "Jak pisać dobre instrukcje?"
 date: "2014-09-02"
-categories: 
+categories:
   - "dobre-praktyki"
   - "warsztat"
-tags: 
+tags:
   - "edukacja"
   - "manuale"
   - "on-line-help"
@@ -49,9 +49,9 @@ Tytuł rozdziału powinien brzmieć "Jak wykonać ABC", a sam rozdział powinien
 
 1. W głównym oknie wybierz wszystkie żądane opcje. Naciśnij **OK**. Pojawi się drugie okno z obecnym statusem opcji, które zostały wybrane.
 2. Sprawdź czy wszystkie opcje wybrane w drugim oknie są poprawne:
-    
-    - Jeśli wszystkie opcje są poprawne, naciśnij **Aktywuj Opcje**. Pojawi się kolejne okno.
-    - Jeśli opcje nie są poprawne, naciśnij **Back**, żeby powrócić do głównego okna i wybrać inne opcje.
+
+   - Jeśli wszystkie opcje są poprawne, naciśnij **Aktywuj Opcje**. Pojawi się kolejne okno.
+   - Jeśli opcje nie są poprawne, naciśnij **Back**, żeby powrócić do głównego okna i wybrać inne opcje.
 
 ## Instrukcja gotowa, co dalej?
 

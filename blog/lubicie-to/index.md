@@ -1,11 +1,11 @@
 ---
 title: "Lubicie to?"
 date: "2013-09-27"
-categories: 
+categories:
   - "news"
   - "z-kraju"
   - "ze-swiata"
-tags: 
+tags:
   - "humor"
   - "praca"
 coverImage: "corobimy.jpg"

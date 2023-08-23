@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical Writer, Kraków"
 date: "2017-09-29"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "3di_logo.png"

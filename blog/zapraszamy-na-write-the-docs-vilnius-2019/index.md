@@ -1,10 +1,10 @@
 ---
 title: "Zapraszamy na Write the Docs Vilnius 2019"
 date: "2019-04-19"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "kariera"
   - "konferencje"
   - "spolecznosc"

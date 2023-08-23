@@ -1,10 +1,10 @@
 ---
 title: "Oferty pracy: Technical Writer, Senior Technical Writer (Anglia, Szwajcaria, Słowacja)"
 date: "2018-07-30"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "OTClLogo1-e1532931093221.jpg"
@@ -35,7 +35,7 @@ Powodzenia!
 - The analysis of engineering wiring diagrams for the production of functional block schematic diagrams and supporting text
 - Assistance with the Mechanical aspects of Service Bulletins, Airplane Flight Manuals and other related documents
 
-**Minimum 5 years' experience as a technical author writing aircraft avionic/mechanical technical documentation to ATA 100/iSpec 2200 and ASD S1000D specifications.** 
+**Minimum 5 years' experience as a technical author writing aircraft avionic/mechanical technical documentation to ATA 100/iSpec 2200 and ASD S1000D specifications.**
 
 - Aeronautical avionic/mechanical apprenticeship/formal training.
 - Experienced in the field of aviation through practical hands on.

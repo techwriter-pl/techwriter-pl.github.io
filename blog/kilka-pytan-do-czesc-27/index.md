@@ -1,10 +1,10 @@
 ---
 title: "Kilka pytań do - część 27"
 date: "2022-07-12"
-categories: 
+categories:
   - "warsztat"
   - "wywiady"
-tags: 
+tags:
   - "kariera"
   - "praca"
   - "spolecznosc"
@@ -96,7 +96,7 @@ Druga rzecz - jeśli boisz się ogólnie branży IT (“bo jestem po studiach hu
 
 Po trzecie - nawet jeśli nie jesteś zainteresowany pisaniem dokumentacji, polecam się jednak profesją tech writera zainteresować; zwłaszcza, jeśli myślisz o przebranżowieniu. Nadal mnóstwo ludzi uważa, że “specjaliści w branży IT = programiści”. Jest w tym tyle racji, na ile racji jest w twierdzeniu, że wszystkie prostokąty to kwadraty. Stanowisko tech writera pozwala na przyjrzenie się od wewnątrz, ale jednak stojąc nieco z boku, jak wygląda praca poszczególnych specjalistów. Wtedy można bardziej świadomie podjąć decyzję o ukierunkowaniu swojego rozwoju w konkretną stronę. Bardzo przykre są historie ludzi, którzy zainwestowali mnóstwo czasu i pieniędzy w bootcampy i certyfikaty, by ostatecznie dojść do wniosku, że dana profesja nie jest dla nich. Tech writing pozwala na celniejsze “mierzenie ciosów” na rynku pracy i nie przeszkadza w rozwoju w innych kierunkach, czego jestem przykładem. Mało tego, uważam, że tech writing to znakomity punkt wyjściowy dla wszystkich, bo wszyscy musimy się komunikować, a im skuteczniej to robimy, tym lepiej dla całego zespołu, klienta i projektu. Rozwijanie kompetencji w zakresie komunikacji technicznej nie jest więc stratą czasu niezależnie od docelowego zawodu. Może się też okazać, że to tech writing okaże się tym obszarem, który kochamy najbardziej, bądź po czasowym “skoku w bok” chcemy do niego wrócić. I to też jest piękne!
 
-* * *
+---
 
 Anno, bardzo dziękujemy za poświęcony czas.
 

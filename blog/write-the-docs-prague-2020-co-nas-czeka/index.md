@@ -1,10 +1,10 @@
 ---
 title: "Write the Docs Prague 2020 - co nas czeka?"
 date: "2020-09-03"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "dokumentacja"
   - "kariera"
   - "konferencje"

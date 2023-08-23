@@ -1,11 +1,11 @@
 ---
 title: "Porozmawiajmy o IT: Technical writer"
 date: "2021-05-13"
-categories: 
+categories:
   - "dobre-praktyki"
   - "przyklady"
   - "warsztat"
-tags: 
+tags:
   - "dokumentacja"
   - "kariera"
   - "podcast"

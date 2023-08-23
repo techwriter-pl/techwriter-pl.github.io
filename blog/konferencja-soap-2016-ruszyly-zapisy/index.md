@@ -1,10 +1,10 @@
 ---
 title: "Konferencja soap! 2016 - ruszyły zapisy"
 date: "2016-02-18"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "konferencje"
   - "spolecznosc"
 coverImage: "soap2015.png"

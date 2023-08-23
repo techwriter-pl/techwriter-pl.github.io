@@ -1,10 +1,10 @@
 ---
 title: "Pączki Day"
 date: "2014-02-27"
-categories: 
+categories:
   - "news"
   - "z-przymruzeniem-oka"
-tags: 
+tags:
   - "humor"
 coverImage: "paczek-e1393498224922.jpg"
 ---

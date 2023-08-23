@@ -1,10 +1,10 @@
 ---
 title: "Zasada siedmiu kroków - stosować czy nie?"
 date: "2015-07-28"
-categories: 
+categories:
   - "dobre-praktyki"
   - "warsztat"
-tags: 
+tags:
   - "procedury"
 coverImage: "7_1.jpg"
 ---

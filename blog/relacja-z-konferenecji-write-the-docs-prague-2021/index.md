@@ -1,10 +1,10 @@
 ---
 title: "Relacja z konferenecji Write the Docs Prague 2021"
 date: "2021-10-26"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "konferencje"
   - "spolecznosc"
 coverImage: "34495135662_d0f045f4a5_o-scaled.jpg"
@@ -63,7 +63,7 @@ Sprawcie, aby pozyskiwanie opinii klientów stało się priorytetem w Waszej org
 
 ### Jak zostać Freelancerem?
 
-Wystąpienie [Karen Sawrey](https://twitter.com/krnswry?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) _[''Hustling for Fun and Profit as a Technical Writer: A Freelancing Starter Kit''](https://www.youtube.com/watch?v=doYpi9hEE7w&list=PLZAeFn6dfHpnaoiOQyd9BYbQbprDGQjQ9&index=11)_ z pewnością pomoże Wam odpowiedzieć na to pytanie!
+Wystąpienie [Karen Sawrey](https://twitter.com/krnswry?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) *[''Hustling for Fun and Profit as a Technical Writer: A Freelancing Starter Kit''](https://www.youtube.com/watch?v=doYpi9hEE7w&list=PLZAeFn6dfHpnaoiOQyd9BYbQbprDGQjQ9&index=11)* z pewnością pomoże Wam odpowiedzieć na to pytanie!
 
 Z czym wiąże się praca freelancera? Według Karen jest to: mniej snu, mniej wolnego czasu, ale za to więcej doświadczenia, więcej pieniędzy, możliwość uczenia się poprzez ciekawe projekty ;) .
 
@@ -91,7 +91,7 @@ Na co uważać?
 
 ### **Lingwistyka stosowana w pracy technical writera**
 
-Czy zastanawialiście się jak rozumiana jest Wasza komunikacja? Czy Wasi rozmówcy mówią po angielsku, czy w swoim własnym języku, używając angielskich słów? Jeśli chcecie wiedzieć coś więcej na ten temat, przesłuchajcie wypowiedzi _[Kat Stoica Ostenfeld](https://twitter.com/katstodian_?lang=en)_. W swoim przemówieniu _[''How I use applied linguistics to be a better technical writer''](https://www.youtube.com/watch?v=5e1h3cMEg8Q&list=PLZAeFn6dfHpnaoiOQyd9BYbQbprDGQjQ9&index=12)_ Kat zwróciła uwagę na ważny aspekt komunikacji pracując w środowisku międzynarodowym. Wyjaśniła również co to jest [lingwistyka stosowana](https://pl.wikipedia.org/wiki/Lingwistyka_stosowana) oraz przedstawiła praktyczne przykłady jak się lepiej komunikować i rozumieć.
+Czy zastanawialiście się jak rozumiana jest Wasza komunikacja? Czy Wasi rozmówcy mówią po angielsku, czy w swoim własnym języku, używając angielskich słów? Jeśli chcecie wiedzieć coś więcej na ten temat, przesłuchajcie wypowiedzi _[Kat Stoica Ostenfeld](https://twitter.com/katstodian_?lang=en)_. W swoim przemówieniu _[''How I use applied linguistics to be a better technical writer''](https://www.youtube.com/watch?v=5e1h3cMEg8Q&list=PLZAeFn6dfHpnaoiOQyd9BYbQbprDGQjQ9&index=12)\_ Kat zwróciła uwagę na ważny aspekt komunikacji pracując w środowisku międzynarodowym. Wyjaśniła również co to jest [lingwistyka stosowana](https://pl.wikipedia.org/wiki/Lingwistyka_stosowana) oraz przedstawiła praktyczne przykłady jak się lepiej komunikować i rozumieć.
 
 [![](images/33-1024x724.jpg)](http://techwriter.pl/wp-content/uploads/2021/10/33-scaled.jpg)
 
@@ -103,7 +103,7 @@ Kilka wskazówek jak radzić sobie z rozwiązywaniem problemów językowych:
 - Wspólne konteksty są ważniejsze niż biegłość w danym języku.
 - Jeśli jest problem ze zrozumieniem kontekstu, nie skupiać się na rozumieniu poszczególnych słów czy gramatyce,  taka ocena może wywołać negatywną reakcję mówcy i może on poczuć się niekomfortowo.
 - Różne specjalizacje / zawody mają różny zasób słownictwa, specyficzny dla danej grupy, rozumienie tego samego wyrazu w różnych grupach zawodowych może być inne ;).
--  Zadawać proste pytania: who (kto?), what (co?), why (dlaczego?), where (gdzie?), how (jak?).
+- Zadawać proste pytania: who (kto?), what (co?), why (dlaczego?), where (gdzie?), how (jak?).
 
 Pamiętajcie! Kontekst jest kluczem w komunikacji! Bądźcie dla siebie wyrozumiali!
 
@@ -190,7 +190,7 @@ Z pośród  wszystkich  przemówień Lightning Talks, w imieniu redakcji, chci
 
 https://www.youtube.com/watch?v=Xasef7oR25Y&list=PLZAeFn6dfHpnaoiOQyd9BYbQbprDGQjQ9&index=15
 
-Drugą pozycją, która zapadła nam w pamięci jest: ''_New, first, & only"_  autorstwa Coley Woyak. Opowiada ona o swoich trudnych początkach w nowej tematyce: [Kubernetes](https://pl.wikipedia.org/wiki/Kubernetes) dokumentowanej przy użyciu nieznanego jej wcześniej podejścia ''_Doc as code"._ W swojej krzepiącej relacji Coley opowiada o uczuciu niepewności i przytłoczenia nowymi obowiązkami, które dzięki wytrwałości i sprytowi udało się przekuć w nowe doświadczenia i pewność siebie.
+Drugą pozycją, która zapadła nam w pamięci jest: ''*New, first, & only"*  autorstwa Coley Woyak. Opowiada ona o swoich trudnych początkach w nowej tematyce: [Kubernetes](https://pl.wikipedia.org/wiki/Kubernetes) dokumentowanej przy użyciu nieznanego jej wcześniej podejścia ''_Doc as code"._ W swojej krzepiącej relacji Coley opowiada o uczuciu niepewności i przytłoczenia nowymi obowiązkami, które dzięki wytrwałości i sprytowi udało się przekuć w nowe doświadczenia i pewność siebie.
 
 https://www.youtube.com/watch?v=W-DlX8IuKMA
 

@@ -1,10 +1,10 @@
 ---
 title: "Prostota, głupcze!"
 date: "2013-11-28"
-categories: 
+categories:
   - "dobre-praktyki"
   - "warsztat"
-tags: 
+tags:
   - "instrukcje"
   - "manuale"
   - "pomoc-uzytkownika"

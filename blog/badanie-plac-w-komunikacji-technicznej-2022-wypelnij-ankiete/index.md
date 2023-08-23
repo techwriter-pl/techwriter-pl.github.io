@@ -1,10 +1,10 @@
 ---
 title: "BADANIE PŁAC W KOMUNIKACJI TECHNICZNEJ 2022 – WYPEŁNIJ ANKIETĘ!"
 date: "2022-05-12"
-categories: 
+categories:
   - "badanie-plac"
   - "praca"
-tags: 
+tags:
   - "ankieta"
   - "kariera"
   - "praca"

@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy x2: Head of Technology, Tools Specialist (3di)"
 date: "2018-12-14"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "3di_logo.png"

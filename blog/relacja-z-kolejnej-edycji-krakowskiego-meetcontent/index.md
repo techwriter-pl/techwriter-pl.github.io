@@ -1,10 +1,10 @@
 ---
 title: "Relacja z kolejnej edycji krakowskiego MeetContent"
 date: "2017-03-06"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "edukacja"
   - "kariera"
   - "konferencje"
@@ -33,7 +33,7 @@ Spotkanie trwało krócej niż [poprzednie](http://techwriter.pl/soap-meetcont
 
 Metodologia design _thinking_ brzmi pociągająco, ale czy może się przydać Technical Writerom? Spójrzmy prawdzie w oczy: nie zawsze. Koniec końców, jest to taktyka designerów i działaczy społecznych. My nie wymyślamy rewolucyjnych kształtów butelek. My mówimy ludziom, jak pić, żeby się nie udławić.
 
-Z drugiej strony, jak już wspominaliśmy na początku, myślenie projektowe to nie tylko określone ramy działania, ale pewien sposób myślenia. Jeżeli właśnie tak podejdziemy do _design thinking_, to idea popularyzowana przez Gosię Pytel może pomóc również autorom technicznym, bo ostatecznie piszemy dla śmiertelników takich jak my, a myślenie projektowe na pierwszym miejscu stawia właśnie ludzi, ich potrzeby i potencjał.
+Z drugiej strony, jak już wspominaliśmy na początku, myślenie projektowe to nie tylko określone ramy działania, ale pewien sposób myślenia. Jeżeli właśnie tak podejdziemy do *design thinking*, to idea popularyzowana przez Gosię Pytel może pomóc również autorom technicznym, bo ostatecznie piszemy dla śmiertelników takich jak my, a myślenie projektowe na pierwszym miejscu stawia właśnie ludzi, ich potrzeby i potencjał.
 
 Był design, była inspiracja, a puzzle? Rozdawano je za darmo. A do nich skarpetki. I kupony na drinki. Techniki rekrutacyjne w naszym kraju coraz bardziej przypadają nam do gustu :)
 

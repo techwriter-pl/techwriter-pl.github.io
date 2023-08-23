@@ -1,9 +1,9 @@
 ---
 title: "Chat GPT a sprawa tech writerska"
 date: "2023-04-27"
-categories: 
+categories:
   - "narzedzia"
-tags: 
+tags:
   - "aritificial-intelligence"
   - "chatgpt"
   - "technologie"
@@ -57,7 +57,7 @@ Rozwińmy słowa, z których składa się nazwa rodzaju modelu:
 
 - - **_[Generative](https://en.wikipedia.org/wiki/Generative_artificial_intelligence)_** \- model generatywny na podstawie istniejących danych generuje nowe dane zgodne ze schematem z danych źródłowych. Dla kontrastu, innym typem są algorytmy dyskryminacyjne, na przykład te, które potrafią określać prawdopodobieństwo, że dany obraz przedstawia konkretny typ obiektu.
     - _**Pre-trained**_ - identyfikowanie wzorców i schematów na podstawie dużej ilości danych, które nie były oznaczone etykietami przez człowieka.
-    - **_[Transformer](https://en.wikipedia.org/wiki/Transformer_(machine_learning_model))_** _\-_ metodę transformatorów stosuje się do różnych celów w AI. W przypadku ChatGPT przetwarzane są dane sekwencyjne takie jak zapis mowy ludzkiej. Cechą charakterystyczną jest zdolność identyfikacji zależności między oddalonymi wyrazami w zdaniu czy całym tekście. Stosowany jest tzw. mechanizm uwagi, pozwalający na skupienie się na częściach danych, które mają największe znaczenie dla danego zadania.
+    - **_[Transformer](https://en.wikipedia.org/wiki/Transformer_(machine*learning_model))*** _\-_ metodę transformatorów stosuje się do różnych celów w AI. W przypadku ChatGPT przetwarzane są dane sekwencyjne takie jak zapis mowy ludzkiej. Cechą charakterystyczną jest zdolność identyfikacji zależności między oddalonymi wyrazami w zdaniu czy całym tekście. Stosowany jest tzw. mechanizm uwagi, pozwalający na skupienie się na częściach danych, które mają największe znaczenie dla danego zadania.
 
 Wybaczcie, ale nie wprowadzę wszystkich pojęć, niektóre rozumiem dosyć pobieżnie. Jeśli jesteście w podobnej sytuacji, to jest to dobra okazja do zadania pytania ChatGPT. Zależało mi na tym, żeby zarysować różne warstwy pojęciowe, z jakimi przychodzi się nam mierzyć. ChatGPT jest przykładem modelu językowego wpisującego się w powyższe nurty technologiczne. Większość artykułu dotyczy poziomu ChatGPT i modeli językowych typu GPT, czasem będę przeskakiwał na bardziej ogólny poziom sztucznej inteligencji.
 
@@ -287,7 +287,7 @@ Dziękuję serdecznie za konsultacje, inspirujące rozmowy i uwagi do tekstu:
 
 Materiały które wywarły wpływ na to co piszę i warto się z nimi zapoznać. Grafiki wygenerowane z pomocą [Dale-E mini](https://huggingface.co/spaces/dalle-mini/dalle-mini) i [Crayon](https://www.craiyon.com/). Pewnie Was to zaskoczy, ale nie, ChatGPT nie napisał tego artykułu ;) Dostałem za to sporo odpowiedzi o nim samym.
 
-* * *
+---
 
 - [Software testing Blog – Awesome Testing: Learning Tips for Using ChatGPT in Software Testing (awesome-testing.com)](https://www.awesome-testing.com/2023/03/learning-tips-for-using-chatgpt-in.html)
 - [Software testing Blog – Awesome Testing: Revolutionizing Test Engineering with ChatGPT: Exploring the Possibilities of AI in Testing (awesome-testing.com)](https://www.awesome-testing.com/2023/02/revolutionizing-test-engineering-with.html)
@@ -296,7 +296,7 @@ Materiały które wywarły wpływ na to co piszę i warto się z nimi zapoznać.
 - [https://github.com/f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 - [Generative vs. Discriminative Machine Learning Models - Unite.AI](https://www.unite.ai/generative-vs-discriminative-machine-learning-models/)
 
-* * *
+---
 
 - [Microsoft vs Google: AI War Explained | tech news - YouTube](https://youtu.be/BdHaeczStRA)
 - [It’s Time to Pay Attention to A.I. (ChatGPT and Beyond) - YouTube](https://youtu.be/0uQqMxXoNVs)

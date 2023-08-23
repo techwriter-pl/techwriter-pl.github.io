@@ -1,10 +1,10 @@
 ---
 title: "Ankieta Poll the Docs"
 date: "2016-09-26"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "konferencje"
   - "spolecznosc"
 coverImage: "survey-e1474571693358.jpg"

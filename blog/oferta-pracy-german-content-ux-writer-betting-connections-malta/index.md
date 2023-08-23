@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: German Content/UX Writer (Betting Connections, Malta)"
 date: "2019-03-05"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "BC-Logo.png"

@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical Writer (Infolet)"
 date: "2018-02-26"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "infolet-logo.png"

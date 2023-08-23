@@ -1,10 +1,10 @@
 ---
 title: "Oferta praktyk: Technical Writer (ABB) - Kraków"
 date: "2019-12-12"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praktyki"
 coverImage: "ABB-logo.png"
@@ -14,7 +14,7 @@ Tym razem mamy dla Was szansę na wejście do zawodu pod okiem doświadczonych k
 
 [Ten pan](https://www.linkedin.com/in/piotr-sroka-02878945) może udzielić Wam dokładniejszych informacji na temat poniższej oferty.
 
-* * *
+---
 
 **Technical Writer - Internship (3 months)**
 
@@ -57,6 +57,6 @@ In short, we would like you to be a back-up person for regular writing tasks tha
 - Any knowledge of any programming language
 - Anything relevant for this kind of job that is not mentioned above
 
-* * *
+---
 
 Powodzenia!

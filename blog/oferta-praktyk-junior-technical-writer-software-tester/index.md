@@ -1,10 +1,10 @@
 ---
 title: "Oferta praktyk: Junior Technical Writer / Software Tester"
 date: "2014-12-23"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "230px-ABB_logo.svg_.png"

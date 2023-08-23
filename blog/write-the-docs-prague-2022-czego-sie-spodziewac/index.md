@@ -1,10 +1,10 @@
 ---
 title: "WRITE THE DOCS PRAGUE 2022 – CZEGO SIĘ SPODZIEWAĆ"
 date: "2022-08-12"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "dokumentacja"
   - "edukacja"
   - "kariera"
@@ -65,6 +65,6 @@ Cena biletu zawiera:
 - Dostęp do platformy podczas Writing Day.
 - Dostęp do wirtualnych targów pracy.
 
-* * *
+---
 
 Wszystkim uczestnikom życzymy mnóstwa wrażeń oraz owocnej nauki i nowych znajomości 😉 Tradycyjnie już, zapraszamy na naszą relację.

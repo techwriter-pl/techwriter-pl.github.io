@@ -1,10 +1,10 @@
 ---
 title: "MadCap Flare 10"
 date: "2014-03-10"
-categories: 
+categories:
   - "narzedzia"
   - "warsztat"
-tags: 
+tags:
   - "knowledge-base"
   - "on-line-help"
   - "pomoc-uzytkownika"

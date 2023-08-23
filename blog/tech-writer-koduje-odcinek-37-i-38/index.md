@@ -1,10 +1,10 @@
 ---
 title: "Tech Writer koduje - odcinek #37 i #38"
 date: "2022-02-03"
-categories: 
+categories:
   - "dobre-praktyki"
   - "warsztat"
-tags: 
+tags:
   - "dokumentacja"
   - "podcast"
 coverImage: "tw_koduje_37_i_38.png"
@@ -14,9 +14,9 @@ Zapraszamy na skrót ostatnich odcinków podcastu [Tech Writer Koduje](https://t
 
 ### Odcinek #37
 
-W tym odcinku Paweł poruszył dość ciekawy temat dotyczący statycznych stron z dokumentacją. Choć stosowane są coraz częściej, to czy rzeczywiście są tak funkcjonalne jak zakładamy? 
+W tym odcinku Paweł poruszył dość ciekawy temat dotyczący statycznych stron z dokumentacją. Choć stosowane są coraz częściej, to czy rzeczywiście są tak funkcjonalne jak zakładamy?
 
-Popularność statycznych stron z dokumentacją wzrasta prawdopodobnie dlatego, że są one szybkie, bezpieczne i łatwe w obsłudze. Jednak, w niektórych sytuacjach, mogą nas ograniczać i sprawiać, że aktualizowanie ich zawartości staje się czasochłonne i problematyczne. Paweł podaje kilka takich przykładów i wraz z Michałem zastanawia się jak inaczej i lepiej można zaprezentować dokumentację, jednocześnie unikając wspomnianych problemów. 
+Popularność statycznych stron z dokumentacją wzrasta prawdopodobnie dlatego, że są one szybkie, bezpieczne i łatwe w obsłudze. Jednak, w niektórych sytuacjach, mogą nas ograniczać i sprawiać, że aktualizowanie ich zawartości staje się czasochłonne i problematyczne. Paweł podaje kilka takich przykładów i wraz z Michałem zastanawia się jak inaczej i lepiej można zaprezentować dokumentację, jednocześnie unikając wspomnianych problemów.
 
 Panowie rozmawiają także o tym, kiedy strony stają się zbyt statyczne i jak można temu zaradzić. Oczywiście i tu nie zabraknie przykładów z doświadczenia w pracy tech writerskiej.
 
@@ -34,6 +34,6 @@ W dalszej części rozmowy panowie koncentrują się głównie na bezpieczeństw
 
 W trakcie rozmowy pojawiają się także przykłady narzędzi, które pomogą w dbaniu o bezpieczeństwo dokumentacji. Linki do części z nich znajdziecie w opisie odcinka na stronie podcastu. Mateusz wspomina także jakie typy dokumentów są bezpieczne, a jakie mogą stwarzać zagrożenie.
 
-Słuchając [odcinek #38](https://techwriterkoduje.pl/blog/2022/01/10/tech-writer-walczy-z-hakerami) podcastu Tech Writer Koduje poznacie też ważne informacje dotyczące fałszowania dokumentacji oraz sposobów na to jak się przed nim zabezpieczyć. Paweł i Michał podsuwają też wiele pomysłów na zagrożenia dla dokumentacji. Część z nich może być rzeczywistym problemem i na szczęście, można im zapobiec, natomiast kilka teorii zdaje się być niemożliwa do wykonania z punktu widzenia specjalisty od zabezpieczeń ;). 
+Słuchając [odcinek #38](https://techwriterkoduje.pl/blog/2022/01/10/tech-writer-walczy-z-hakerami) podcastu Tech Writer Koduje poznacie też ważne informacje dotyczące fałszowania dokumentacji oraz sposobów na to jak się przed nim zabezpieczyć. Paweł i Michał podsuwają też wiele pomysłów na zagrożenia dla dokumentacji. Część z nich może być rzeczywistym problemem i na szczęście, można im zapobiec, natomiast kilka teorii zdaje się być niemożliwa do wykonania z punktu widzenia specjalisty od zabezpieczeń ;).
 
 Warto posłuchać i skorzystać z wiedzy eksperta, by wiedzieć jak dbać o bezpieczeństwo naszej  dokumentacji.

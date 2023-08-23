@@ -1,10 +1,10 @@
 ---
-title: "RoboHelp 11 - \"Template error: can not resolve macro\""
+title: 'RoboHelp 11 - "Template error: can not resolve macro"'
 date: "2015-06-16"
-categories: 
+categories:
   - "narzedzia"
   - "warsztat"
-tags: 
+tags:
   - "aplikacje"
 coverImage: "error-261888_640-e1433941308851.jpg"
 ---
@@ -13,7 +13,7 @@ Jeśli spotkaliście się kiedyś z takim błędem podczas generowania dokument�
 
 ## Opis problemu
 
-Problem dotyczy RoboHelpa 11 HTML. W trakcie generowania projektów do formatu Webhelp za pomocą aplikacji konsolowej RoboHelpa (RHCL.exe) pojawiają się błędy szablonu **"Template Error: can not resolve macro: WH\_LNG..."**. Dodatkowo, niektóre elementy w wygenerowanej dokumentacji mają niewłaściwą treść, np. podpowiedź (tooltip), która pojawia się po najechaniu kursorem na przycisk **Hide Navigation** zawiera tekst %%%WH\_LNG\_Hide\_Navigation\_Content%%%, zamiast Hide Navigation Content.
+Problem dotyczy RoboHelpa 11 HTML. W trakcie generowania projektów do formatu Webhelp za pomocą aplikacji konsolowej RoboHelpa (RHCL.exe) pojawiają się błędy szablonu **"Template Error: can not resolve macro: WH_LNG..."**. Dodatkowo, niektóre elementy w wygenerowanej dokumentacji mają niewłaściwą treść, np. podpowiedź (tooltip), która pojawia się po najechaniu kursorem na przycisk **Hide Navigation** zawiera tekst %%%WH_LNG_Hide_Navigation_Content%%%, zamiast Hide Navigation Content.
 
 [![tooltip2](images/tooltip2.png)](http://techwriter.pl/wp-content/uploads/2015/06/tooltip2.png)
 
@@ -21,7 +21,7 @@ Problem dotyczy RoboHelpa 11 HTML. W trakcie generowania projektów do formatu W
 
 Problem jest spowodowany tym, że w trakcie generowania projektu, RoboHelp nie jest w stanie odnaleźć pliku **RoboHHRE.lng** dla tego projektu i języka, który jest ustawiony w projekcie. Plik LNG zawiera teksty, które pojawiają się w różnych miejscach w wygenerowanych dokumentach. W RoboHelpie 11, każdy projekt powinien posiadać swój plik LNG w takiej lokalizacji: `<folder projektu>\!Language!\<folder języka>`. Na przykład, jeśli język projektu jest ustawiony na English (US) będzie to `<folder projektu>\!Language!\en_US`.
 
-**WAŻNE!** W folderze !Language! znajduje się plik **!Language!.fpj**, który zawiera informacje o strukturze katalogu !Language!. Trzeba sprawdzić czy są w nim wpisane wszystkie katalogi języków, np. en\_US tak jak na przykładzie poniżej. Dodatkowo, należy upewnić się, że katalog z plikami dla danego języka posiada swój własny plik FPJ określający jego strukturę. Na przykład, dla języka English (US), katalog `!Language!\en_US` musi zawierać plik **en\_US.fpj**.
+**WAŻNE!** W folderze !Language! znajduje się plik **!Language!.fpj**, który zawiera informacje o strukturze katalogu !Language!. Trzeba sprawdzić czy są w nim wpisane wszystkie katalogi języków, np. en_US tak jak na przykładzie poniżej. Dodatkowo, należy upewnić się, że katalog z plikami dla danego języka posiada swój własny plik FPJ określający jego strukturę. Na przykład, dla języka English (US), katalog `!Language!\en_US` musi zawierać plik **en_US.fpj**.
 
 [![language_fpj](images/language_fpj.png)](http://techwriter.pl/wp-content/uploads/2015/06/language_fpj.png)
 

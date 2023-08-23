@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical Editor (Etteplan)"
 date: "2018-12-31"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "Etteplan_logo_CMYK-new.jpg"

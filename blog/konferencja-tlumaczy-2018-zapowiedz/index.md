@@ -1,10 +1,10 @@
 ---
 title: "Konferencja Tłumaczy 2018 - zapowiedź"
 date: "2018-08-27"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "edukacja"
   - "kariera"
   - "konferencje"
@@ -18,7 +18,7 @@ Z ogromną przyjemnością przedstawiamy Wam kolejne wydarzenie, nad którym obj
 
 Konferencja Tłumaczy, to według organizatorów, największe wydarzenie w branży tłumaczeniowej w Polsce. Każdego roku bierze w niej udział około 200 specjalistów - tłumaczy ustnych i pisemnych, tłumaczy przysięgłych, przedstawicieli biur tłumaczeń, kierowników projektów, pracowników instytucji publicznych, akademików i specjalistów od narzędzi wspomagania tłumaczeń oraz technologii tłumaczeniowych. Jednak nie tylko osoby z branży tłumaczeniowej są mile widziane na konferencji. Jest ona także otwarta dla przedstawicieli przemysłu gier, uznanych językoznawców, specjalistów od prowadzenia biznesu, prawników, a nawet pisarzy.
 
-Ciekawostka: W 2016 roku Konferencja Tłumaczy była jednym z wydarzeń w ramach anglojęzycznej konferencji Translation and Localization_._ Jednak już w 2017 imprezy te zostały rozdzielone i funkcjonują jako osobne wydarzenia.
+Ciekawostka: W 2016 roku Konferencja Tłumaczy była jednym z wydarzeń w ramach anglojęzycznej konferencji Translation and Localization*.* Jednak już w 2017 imprezy te zostały rozdzielone i funkcjonują jako osobne wydarzenia.
 
 ### Rola tłumacza w globalnym świecie
 

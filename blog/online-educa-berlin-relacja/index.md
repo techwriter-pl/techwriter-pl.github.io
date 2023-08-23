@@ -1,10 +1,10 @@
 ---
 title: "Online Educa Berlin - Relacja"
 date: "2014-01-07"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "konferencje"
   - "materialy-szkoleniowe"
   - "treningi"

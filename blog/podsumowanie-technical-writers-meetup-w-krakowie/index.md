@@ -1,7 +1,7 @@
 ---
 title: "Podsumowanie Technical Writers Meetup w Krakowie"
 date: "2019-10-16"
-categories: 
+categories:
   - "news"
   - "z-kraju"
 coverImage: "MeetupABB-e1571237713389.jpg"

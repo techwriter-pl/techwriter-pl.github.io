@@ -1,10 +1,10 @@
 ---
 title: "Pierwszy meetup na wybrzeżu"
 date: "2016-06-20"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "edukacja"
   - "kariera"
   - "spolecznosc"
@@ -33,6 +33,6 @@ Klubokawiarnia "Dwie zmiany" [ul. Bohaterów Monte Cassino 31, 81-767 Sopot](htt
 
 Jeśli chcecie śledzić na bieżąco status spotkania lub do niego dołączyć, możecie to zrobić za pośrednictwem [Facebooka](https://www.facebook.com/events/138485083222881/) albo [Meetupa](http://www.meetup.com/ucontentowani/).
 
- 
+
 
 Serdecznie zachęcamy do wzięcia udziału w tym jakby nie było historycznym wydarzeniu. Jest to kolejny dowód na to, że 2016 to naprawdę dobry rok dla polskiej branży komunikacji technicznej, nie tylko ze względu na całkiem sporą liczbę [ofert pracy](http://techwriter.pl/category/news/oferty-pracy/), ale również ze względu na stale powiększającą się grupę osób, które mają inicjatywę i chcą działać na rzecz budowania naszej rodzimej społeczności tech comm.

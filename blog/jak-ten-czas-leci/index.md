@@ -1,7 +1,7 @@
 ---
 title: "Jak ten czas leci..."
 date: "2015-12-23"
-categories: 
+categories:
   - "news"
 coverImage: "swieta_yoda.jpg"
 ---
@@ -16,7 +16,7 @@ _Zawsze dostępnych [ekspertów](http://techwriter.pl/kim-jest-sme/)_
 
 _I [portmonetki grubej.](http://techwriter.pl/category/news/oferty-pracy/)_
 
- 
+
 
 To służbowo, a prywatnie:
 

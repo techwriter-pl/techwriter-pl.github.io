@@ -1,10 +1,10 @@
 ---
 title: "Wygraj wejściówkę na soap! 2019 - wyniki konkursu"
 date: "2019-05-20"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "konferencje"
 coverImage: "soap_konkurs-1.png"
 ---
@@ -13,6 +13,6 @@ coverImage: "soap_konkurs-1.png"
 
 Nagroda wędruje do Teresy Barańskiej, która "Docs like code" zdefiniowała w taki oto krótki i zwięzły sposób.
 
-> Brak interpunkcji, kiepskie formatowanie, problemy z kontrolą wersji – nie robisz tego z kodem? Dlaczego więc pozwalasz sobie na to z dokumentacją? _Docs like code_ znaczy dla mnie tyle, co aplikowanie dobrych praktyk deweloperów do pracy nad dokumentami – jak choćby GitHuba. Nie wystarczy być tylko "Mistrzem czystego kodu" – ale i mistrzem "czystego tekstu".
+> Brak interpunkcji, kiepskie formatowanie, problemy z kontrolą wersji – nie robisz tego z kodem? Dlaczego więc pozwalasz sobie na to z dokumentacją? *Docs like code* znaczy dla mnie tyle, co aplikowanie dobrych praktyk deweloperów do pracy nad dokumentami – jak choćby GitHuba. Nie wystarczy być tylko "Mistrzem czystego kodu" – ale i mistrzem "czystego tekstu".
 
 Dziękujemy serdecznie za wszystkie zgłoszenia.

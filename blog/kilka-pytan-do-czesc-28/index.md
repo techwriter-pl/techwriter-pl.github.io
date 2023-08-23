@@ -1,17 +1,17 @@
 ---
 title: "Kilka pytań do - część 28"
 date: "2023-02-09"
-categories: 
+categories:
   - "warsztat"
   - "wywiady"
-tags: 
+tags:
   - "kariera"
   - "praca"
   - "wywiad"
 coverImage: "wywiad_28.png"
 ---
 
-Przed Wami kolejna odsłona cyklu _Kilka pytań do..._ Tym razem na nasze pytania odpowiada Julia Dąbrowska, który niedawno dołączyła do grona towarzystwa ludzi piśmiennych technicznie ;) Jak to się wszystko zaczęło i co może poradzić osobom stawiającym pierwsze kroki w tej roli? Zapraszamy poniżej.
+Przed Wami kolejna odsłona cyklu *Kilka pytań do...* Tym razem na nasze pytania odpowiada Julia Dąbrowska, który niedawno dołączyła do grona towarzystwa ludzi piśmiennych technicznie ;) Jak to się wszystko zaczęło i co może poradzić osobom stawiającym pierwsze kroki w tej roli? Zapraszamy poniżej.
 
 ### 1\. Jak długo pracujesz jako technical writer?
 
@@ -85,7 +85,7 @@ Pracę z językiem angielskim, który uwielbiam od dziecka, a także współprac
 
 Na moim przykładzie: jeśli czujecie się swobodnie ze znajomością języka angielskiego i chcecie spróbować w tej roli, to najłatwiej jest na początek dostać się do firmy z sektora IT/software development na stanowisko w dziale wsparcia technicznego klienta. Po zapoznaniu się z produktem i cyklem życia oprogramowania, warto rozejrzeć się wewnątrz firmy za stażami czy stanowiskami typu junior technical writer.
 
- 
+
 
 Julio, bardzo dziękujemy za czas, jaki poświęciłaś na ten wywiad.
 

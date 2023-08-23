@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical Writer"
 date: "2014-11-06"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "dassault.png"
@@ -16,7 +16,7 @@ Jeżeli chcecie spróbować swoich sił, to wszelkie szczegóły znajdziecie pon
 
 [![3dsTechWriter](images/3dsTechWriter.jpg)](http://techwriter.pl/wp-content/uploads/2014/11/3dsTechWriter.jpg)
 
- 
+
 
 Ciekawa fabuła, wielu bohaterów... zdecydowanie polecamy :)
 

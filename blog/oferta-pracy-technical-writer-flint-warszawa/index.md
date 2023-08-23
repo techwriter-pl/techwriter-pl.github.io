@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical Writer (Flint) – Warszawa"
 date: "2020-01-28"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "flint.jpg"
@@ -14,7 +14,7 @@ Poszukiwany doświadczony techwriter! Oferowane wynagrodzenie: 11000 – 13000 n
 
 Jeżeli sieci komputerowe brzmią dla Was ciekawie to być może zechcecie zarzucić sieci na poniższą okazję. [Oryginalne ogłoszenie znajdziecie na stronie pracodawcy](https://apply.flint-international.com/vacancies/vacancy-technical-writer-161963-31.html). Aplikacje możecie wysyłać również bezpośrednio mailem: _joanna.arent (at) flintmail.com_
 
-* * *
+---
 
 ## TECHNICAL WRITER
 
@@ -34,6 +34,6 @@ Documents we deliver include but are not limited to • Architecture Blueprints 
 
 **MUST HAVE SKILLS:** • 5+ years of technical writing experience • Fluent English (must have) • Experience in working with subject matter experts (SME’s).. • Open to learn how to use a new documentation automation platform • Bachelor degree in English, Computer Science, or related field • Familiar with documentation architecture and tools such as Confluence, Jira, Salesforce, and Graphic (or other diagramming tool) • Knowledge of network technology and industry overall is big plus
 
-* * *
+---
 
 Powodzenia!

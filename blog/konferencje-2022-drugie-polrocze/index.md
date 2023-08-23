@@ -1,10 +1,10 @@
 ---
 title: "Konferencje 2022 - drugie półrocze"
 date: "2022-05-24"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "kariera"
   - "konferencje"
   - "praca"
@@ -20,7 +20,7 @@ Jak zawsze, będę śledzić zmiany i uzupełniać dane w miarę ich pojawiania 
 
 ### Czerwiec
 
-**01-03 czerwca, Kraków, Polska** – [soap! 2022](http://soapconf.com/) – **online & in-person** 
+**01-03 czerwca, Kraków, Polska** – [soap! 2022](http://soapconf.com/) – **online & in-person**
 
 07-10 czerwca – [Women in Technology Global Conference 2022](https://www.womentech.net/women-tech-conference) – **online & in-person**
 

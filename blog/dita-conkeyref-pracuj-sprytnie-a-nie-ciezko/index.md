@@ -1,11 +1,11 @@
 ---
 title: "DITA conkeyref - Pracuj sprytnie a nie ciężko"
 date: "2016-10-12"
-categories: 
+categories:
   - "dobre-praktyki"
   - "przyklady"
   - "warsztat"
-tags: 
+tags:
   - "dita"
   - "manuale"
   - "on-line-help"
@@ -36,14 +36,14 @@ Co teraz? W tej sytuacji możemy właśnie wykorzystać conkeyref do wstawienia 
 
 Żeby zastosować wspomniane powyżej rozwiązanie będziemy potrzebować dwóch topików.
 
-Zaczynamy od topiku **product\_names.dita** dla starych dobrych nazw. Zawiera on następujące elementy:
+Zaczynamy od topiku **product_names.dita** dla starych dobrych nazw. Zawiera on następujące elementy:
 
 <ph id="**G600**">F-class G600 Router</ph>
 <ph id="**S9000**">F-class S9000 Switch</ph>
 
 Każdy element ma swoje id, które odgrywa bardzo ważną rolę.
 
-Następnie, kopiujemy ten topik i zapisujemy go jako **european\_product\_names.dita**. Zmieniamy w nim tylko nazwy produktów, a id pozostawiamy bez zmian. Dzięki temu otrzymujemy następujące elementy:
+Następnie, kopiujemy ten topik i zapisujemy go jako **european_product_names.dita**. Zmieniamy w nim tylko nazwy produktów, a id pozostawiamy bez zmian. Dzięki temu otrzymujemy następujące elementy:
 
 <ph id="G600">**Sparrowhawk** G600 Router</ph>
 <ph id="S9000">**Athena Risin**g S9000 Switch</ph>
@@ -69,13 +69,13 @@ Ustawiając odwołanie w topiku, nie odwołaliśmy się do nazwy pliku bibliotek
 
 <keydef keys="**product-names**" href="reuse/generic\_product\_names.dita" />
 
-Element keydef zawiera naszą nazwę klucza "product-names" oraz odwołanie do pliku generic\_product\_names.dita, dlatego nasze odwołanie ma postać:
+Element keydef zawiera naszą nazwę klucza "product-names" oraz odwołanie do pliku generic_product_names.dita, dlatego nasze odwołanie ma postać:
 
 product-names/G600
 
 Zamiast
 
-generic\_product\_names.dita/G600
+generic_product_names.dita/G600
 
 Dzięki temu możemy w innej mapie umieścić odwołanie do klucza z inną nazwą pliku:
 

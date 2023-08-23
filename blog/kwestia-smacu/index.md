@@ -1,10 +1,10 @@
 ---
 title: "Kwestia SMACu"
 date: "2013-12-05"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "praca"
   - "technologie"
 coverImage: "SMAC.png"

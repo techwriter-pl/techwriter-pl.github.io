@@ -1,7 +1,7 @@
 ---
 title: "Kilka pytań do - część 9"
 date: "2016-06-30"
-categories: 
+categories:
   - "warsztat"
   - "wywiady"
 coverImage: "graphic.png"

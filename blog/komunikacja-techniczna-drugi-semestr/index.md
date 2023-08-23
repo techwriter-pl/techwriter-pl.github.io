@@ -1,10 +1,10 @@
 ---
 title: "Komunikacja techniczna - jak upłynął drugi semestr studiów?"
 date: "2021-07-13"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "dokumentacja"
   - "edukacja"
   - "kariera"
@@ -15,7 +15,7 @@ coverImage: "dyplom-vistula-anonymized_techwriter.jpg"
 
 Pod koniec maja pierwsi absolwenci studiów podyplomowych na kierunku Komunikacja Techniczna mogli z dumą odebrać swoje dyplomy. Oto podsumowanie drugiego semestru (i całego roku akademickiego).
 
-**Tu znowu Magda, do niedawna studentka, a dziś już absolwentka studiów podyplomowych kierunku** [**Komunikacja Techniczna**](https://www.vistula.edu.pl/kierunki-studiow/kontynuacja-edukacji/studia-podyplomowe/informatyka/komunikacja-techniczna) **na Akademii Finansów i Biznesu Vistula. Musiał minąć nieco ponad miesiąc, abym była w stanie w pełni obiektywnie napisać, jak minął nam drugi semestr. Zaczerpnięcie oddechu było niezbędne - również dlatego, że druga połówka studiów była znacznie intensywniejsza pod każdym względem. Zero ściemy, roboty po kokardę - oto najkrótsze podsumowanie. Uwaga, w artykule pojawiają się pojęcia oznaczone gwiazdką - wyjaśniam je pod koniec, w mini glosariuszu.**  
+**Tu znowu Magda, do niedawna studentka, a dziś już absolwentka studiów podyplomowych kierunku** [**Komunikacja Techniczna**](https://www.vistula.edu.pl/kierunki-studiow/kontynuacja-edukacji/studia-podyplomowe/informatyka/komunikacja-techniczna) **na Akademii Finansów i Biznesu Vistula. Musiał minąć nieco ponad miesiąc, abym była w stanie w pełni obiektywnie napisać, jak minął nam drugi semestr. Zaczerpnięcie oddechu było niezbędne - również dlatego, że druga połówka studiów była znacznie intensywniejsza pod każdym względem. Zero ściemy, roboty po kokardę - oto najkrótsze podsumowanie. Uwaga, w artykule pojawiają się pojęcia oznaczone gwiazdką - wyjaśniam je pod koniec, w mini glosariuszu.**
 
 ### A jednak techniczna
 

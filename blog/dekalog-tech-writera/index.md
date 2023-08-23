@@ -1,10 +1,10 @@
 ---
 title: "Dekalog Tech Writera"
 date: "2014-11-12"
-categories: 
+categories:
   - "dobre-praktyki"
   - "warsztat"
-tags: 
+tags:
   - "instrukcje"
   - "manuale"
   - "on-line-help"

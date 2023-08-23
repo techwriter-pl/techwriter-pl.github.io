@@ -1,10 +1,10 @@
 ---
 title: "Relacja z tegorocznej konferencji soap 2023!"
 date: "2023-07-14"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "konferencje"
   - "spolecznosc"
 coverImage: "upload_0522.png"
@@ -46,20 +46,21 @@ Lance podzielił się swoimi metodami strukturyzowania zapytań dla ChatGPT na b
 
 Przykład promptu:
 
-Kontekst: Potrzebuję podsumowania dla \[Odbiorca\]. Napisz mi podsumowania długości 40 słów, które pomogą mi podsumować najistotniejsze informacje wyjaśniające czemu czytelnicy z branży komunikacji technicznej będą zainteresowani danym artykułem. 
+Kontekst: Potrzebuję podsumowania dla \[Odbiorca\]. Napisz mi podsumowania długości 40 słów, które pomogą mi podsumować najistotniejsze informacje wyjaśniające czemu czytelnicy z branży komunikacji technicznej będą zainteresowani danym artykułem.
 
-Etos: Jestem redaktorem, który szuka najlepszych aspektów artykułów innych ludzi i chce czytelnikom wyeksponować najlepsze fragmenty. 
+Etos: Jestem redaktorem, który szuka najlepszych aspektów artykułów innych ludzi i chce czytelnikom wyeksponować najlepsze fragmenty.
 
-Patos: Te podsumowania powinny inspirować osoby publikujące w internecie i tworzyć relację między czytelnikami i osobami piszącymi. 
+Patos: Te podsumowania powinny inspirować osoby publikujące w internecie i tworzyć relację między czytelnikami i osobami piszącymi.
 
-Logos: Każde podsumowanie powinno być tylko jednym akapitem zawierającym: 
-- Główną myśl artykułu. 
-- Czemu jest ona ważna. 
-- Co zyskasz jeśli ją przeczytasz. 
+Logos: Każde podsumowanie powinno być tylko jednym akapitem zawierającym:
 
-Posługuj się imieniem autora. Pisz tytuł artykułu w osobnej linii, następnie napisz jednoakapitowe podsumowanie. 
+- Główną myśl artykułu.
+- Czemu jest ona ważna.
+- Co zyskasz jeśli ją przeczytasz.
 
-### 
+Posługuj się imieniem autora. Pisz tytuł artykułu w osobnej linii, następnie napisz jednoakapitowe podsumowanie.
+
+###
 
 \[Wklej artykuł do podsumowania.\]
 
@@ -338,21 +339,21 @@ W jaki sposób [Rafał Pawlicki](https://www.linkedin.com/in/rafa%C5%82-pawlicki
 
 [![](images/MicrosoftTeams-image-159-300x225.jpg)](http://techwriter.pl/wp-content/uploads/2023/06/MicrosoftTeams-image-159.jpg)
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
 
 [![](images/MicrosoftTeams-image-156-224x300.jpg)](http://techwriter.pl/wp-content/uploads/2023/06/MicrosoftTeams-image-156.jpg)
 
@@ -380,7 +381,7 @@ W trakcie konferencji można było wziąć udział w losowaniu nagród dla uczes
 
 Julia jest zachwycona wygraną, bo tak bajeranckiego powerbanku jeszcze nie miała! A przy okazji odbierania prezentu miała okazję sprawdzić czy wyjście na scenę jest faktycznie tak przerażające jak w jej głowie. Krótko mówiąc, nie jest 😊 Duża w tym zasługa przede wszystkim naszej wspaniałej konferansjerki Gosi, ale także innych uczestników, którzy przyczynili się do niesamowitej atmosfery na [soap!](https://soapconf.com/)
 
- 
+
 
 # **Podsumowanie**
 

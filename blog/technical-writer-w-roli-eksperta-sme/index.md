@@ -1,10 +1,10 @@
 ---
 title: "Technical writer w roli eksperta (SME)"
 date: "2022-09-09"
-categories: 
+categories:
   - "dobre-praktyki"
   - "warsztat"
-tags: 
+tags:
   - "dokumentacja"
   - "kariera"
   - "praca"

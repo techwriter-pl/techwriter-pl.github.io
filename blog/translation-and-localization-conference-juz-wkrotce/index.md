@@ -1,10 +1,10 @@
 ---
 title: "Translation and Localization Conference już wkrótce"
 date: "2019-02-08"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "kariera"
   - "konferencje"
   - "lokalizacja"
@@ -63,9 +63,9 @@ Poniżej przedstawiamy ceny wejściówek na konferencję. Jednocześnie przypomi
 
 <table class=" aligncenter" style="height: 90px; width: 388px;"><tbody><tr style="height: 18px;"><td style="height: 18px; width: 140.4px;"><strong>Rodzaj biletu</strong></td><td style="height: 18px; width: 157.04px;"><strong>Cena</strong></td></tr><tr style="height: 18px;"><td style="height: 18px; width: 140.4px;">2 dni + lunch</td><td style="height: 18px; width: 157.04px;">€370/1560 PLN</td></tr><tr style="height: 18px;"><td style="height: 18px; width: 140.4px;">Piątek + lunch</td><td style="height: 18px; width: 157.04px;">€230/970 PLN</td></tr><tr style="height: 18px;"><td style="height: 18px; width: 140.4px;">Sobota + lunch</td><td style="height: 18px; width: 157.04px;">€230/970 PLN</td></tr><tr style="height: 18px;"><td style="height: 18px; width: 140.4px;">Networking</td><td style="height: 18px; width: 157.04px;">€65/270 PLN</td></tr></tbody></table>
 
- 
 
- 
+
+
 
 Cena nie zawiera noclegu, jednak organizator zapewnia zniżkę przy rezerwacji pokoju w hotelu Radison Blu Sobieski. Szczegóły znajdziecie [tutaj](https://www.translation-conference.com/venue).
 

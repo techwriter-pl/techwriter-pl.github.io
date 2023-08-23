@@ -1,10 +1,10 @@
 ---
 title: "Konferencja soap! wczoraj i dziś"
 date: "2014-09-11"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "infografiki"
   - "konferencje"
   - "spolecznosc"

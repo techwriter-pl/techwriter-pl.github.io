@@ -1,10 +1,10 @@
 ---
 title: "soap! MeetContent po raz drugi - relacja"
 date: "2017-01-17"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "edukacja"
   - "kariera"
   - "konferencje"

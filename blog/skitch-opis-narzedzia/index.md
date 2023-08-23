@@ -1,9 +1,9 @@
 ---
 title: "Skitch - opis narzędzia"
 date: "2015-02-17"
-categories: 
+categories:
   - "narzedzia"
-tags: 
+tags:
   - "grafika"
   - "instrukcje"
   - "on-line-help"
@@ -11,7 +11,7 @@ tags:
 coverImage: "skitchlogo-e1424155444199.png"
 ---
 
-Kolejne narzędzie do robienia zrzutów ekranu. Tym razem bierzemy pod lupę aplikację [Skitch](https://evernote.com/skitch/) od autorów programu [Evernote]( https://evernote.com/). Czy jest to propozycja warta rozważenia pod kątem tworzenia dokumentacji?
+Kolejne narzędzie do robienia zrzutów ekranu. Tym razem bierzemy pod lupę aplikację [Skitch](https://evernote.com/skitch/) od autorów programu [Evernote](https://evernote.com/). Czy jest to propozycja warta rozważenia pod kątem tworzenia dokumentacji?
 
 W momencie pisania artykułu najnowszą dostępną wersją była **2.3.2.173**. Program można zainstalować na systemach operacyjnych takich jak **Windows**, **Mac OS**, **iOS** i **Android**. [Strona aplikacji](https://evernote.com/skitch/) rozpoznaje system operacyjny urządzenia, z którego ją otwieramy i automatycznie daje nam link do ściągnięcia odpowiedniej wersji. Plik instalacyjny dla Windowsa ma rozmiar 34 MB. Właśnie na tej wersji skupimy się w dalszej części artykułu.
 

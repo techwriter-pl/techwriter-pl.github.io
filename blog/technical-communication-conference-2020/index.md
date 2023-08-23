@@ -1,10 +1,10 @@
 ---
 title: "Technical Communication Conference 2020"
 date: "2020-10-27"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "konferencje"
   - "spolecznosc"
 coverImage: "tech_com_conf.png"

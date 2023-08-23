@@ -1,10 +1,10 @@
 ---
 title: "Kilka pytań do - część 10"
 date: "2016-10-24"
-categories: 
+categories:
   - "warsztat"
   - "wywiady"
-tags: 
+tags:
   - "spolecznosc"
   - "wywiad"
 coverImage: "microphone-1185958_640-e1476909932864.jpg"

@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical Writer (Guidewire)"
 date: "2019-01-09"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "guidewire_logo_new_2color_h_screen.jpg"

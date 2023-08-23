@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical Writer (Synerise)"
 date: "2018-11-13"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "synerise_logo_blue.png"

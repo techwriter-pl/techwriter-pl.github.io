@@ -1,10 +1,10 @@
 ---
 title: "soap! meet content - spotkania branżowe"
 date: "2016-02-24"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "edukacja"
   - "kariera"
   - "spolecznosc"

@@ -1,10 +1,10 @@
 ---
 title: "Poznajcie Write the Docs Europe"
 date: "2016-05-31"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "konferencje"
   - "spolecznosc"
 coverImage: "WRITE-the-DOCS-EUROPE-2016_tw.jpg"

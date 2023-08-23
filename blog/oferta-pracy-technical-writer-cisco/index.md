@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical Writer (Cisco)"
 date: "2017-11-27"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "EXP_BE_Logo_IT_SS_STK_MC_RGB_smaller.jpg"

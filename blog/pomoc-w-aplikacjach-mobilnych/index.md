@@ -1,10 +1,10 @@
 ---
 title: "Pomoc w aplikacjach mobilnych"
 date: "2014-01-28"
-categories: 
+categories:
   - "przyklady"
   - "warsztat"
-tags: 
+tags:
   - "manuale"
   - "on-line-help"
   - "pomoc-uzytkownika"

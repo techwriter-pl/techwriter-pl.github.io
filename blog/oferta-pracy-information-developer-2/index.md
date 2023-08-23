@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Information Developer"
 date: "2016-10-14"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "SAP_grad_R_pref.png"

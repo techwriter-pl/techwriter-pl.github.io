@@ -1,11 +1,11 @@
 ---
 title: "Jak przygotować tekst do tłumaczeń?"
 date: "2021-09-02"
-categories: 
+categories:
   - "dobre-praktyki"
   - "narzedzia"
   - "przyklady"
-tags: 
+tags:
   - "dokumentacja"
   - "lokalizacja"
   - "tlumaczenia"
@@ -21,7 +21,7 @@ Dzisiejszy artykuł poświęcony będzie tekstom źródłowym, które są przysy
 
 Bazą do tłumaczenia treści na różne języki jest tekst źródłowy - czyli ostateczna i kompletna wersja przeznaczona do tłumaczenia. Dlaczego kompletna?
 
-Przesyłanie tekstu w częściach lub bez kontekstu, może być dla tłumacza kłopotliwe. Istnieje wtedy prawdopodobieństwo wystąpienia błędów i pomyłek. Tłumacz musi znać cały tekst i cały kontekst, aby podjąć właściwe decyzje tłumaczeniowe, np. dotyczące terminologii. Co więcej, wszelkie modyfikacje tekstu, usuwanie fragmentów, zmienianie lub wydłużanie niektórych zdań prowadzi do braku spójności tłumaczenia. Dlatego, zanim przekaże się tekst tłumaczowi, warto wziąć to pod uwagę. 
+Przesyłanie tekstu w częściach lub bez kontekstu, może być dla tłumacza kłopotliwe. Istnieje wtedy prawdopodobieństwo wystąpienia błędów i pomyłek. Tłumacz musi znać cały tekst i cały kontekst, aby podjąć właściwe decyzje tłumaczeniowe, np. dotyczące terminologii. Co więcej, wszelkie modyfikacje tekstu, usuwanie fragmentów, zmienianie lub wydłużanie niektórych zdań prowadzi do braku spójności tłumaczenia. Dlatego, zanim przekaże się tekst tłumaczowi, warto wziąć to pod uwagę.
 
 Co należałoby zrobić zanim zaczniecie tworzyć teksty źródłowe, a wiecie już że będą tłumaczone na inne języki?
 
@@ -41,7 +41,7 @@ Jeśli chcecie zaoszczędzić swój czas i uniknąć pytań ze strony tłumacza,
 
 \- planujcie z wyprzedzeniem - skontaktujcie się z dostawcą usług językowych już na wczesnym etapie projektu. Doświadczeni tłumacze będą wiedzieli, co można przeredagować, przesunąć lub w inny sposób dostosować, aby zmieściło się w wyznaczonym miejscu.
 
-\- układ graficzny powinien zostać dopasowany, dopiero gdy tłumaczenie jest gotowe, wtedy unikniecie wciskania na siłę tłumaczenia w określoną formę ;). 
+\- układ graficzny powinien zostać dopasowany, dopiero gdy tłumaczenie jest gotowe, wtedy unikniecie wciskania na siłę tłumaczenia w określoną formę ;).
 
 \- jeśli Wasz projekt już ruszył, dobrze jest upewnić się, że maksymalna przestrzeń nie została wykorzystana już w tekście źródłowym. Z zasady każde tłumaczenie jest dłuższe niż tekst źródłowy, jak na przykład w przypadku tłumaczenia z języka angielskiego na niemiecki.  W tym przypadku treść zostaje przedstawiona za pomocą jak najmniejszej ilości krótkich słów. Należy pamiętać, że ograniczenia ilości znaków może mieć negatywny wpływ na język i zdania te mogą tracić swoje brzmienie.
 

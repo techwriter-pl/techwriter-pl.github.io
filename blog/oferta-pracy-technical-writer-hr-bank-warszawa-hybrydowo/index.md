@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical Writer (HR Bank) – Warszawa/hybrydowo"
 date: "2021-05-31"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "hrbank_logo.jpg"
@@ -16,7 +16,7 @@ Doradztwo personalne **HR Bank sp. z o.o.** specjalizujące się w rekrutacji w
 
 Aby zaaplikować / dowiedzieć się więcej piszcie na adres rekrutacja\[at\]hrbank.com.pl
 
-* * *
+---
 
 # **Technical Writer**
 
@@ -24,11 +24,11 @@ Miejsce pracy: **Warszawa**
 
 Model pracy: **hybrydowy**
 
- 
+
 
 Szukamy wykwalifikowanego Technical Writera, który dołączy do działu badań i rozwoju firmy, gdzie będzie rozwijać wielokrotnie nagradzany produkt z obszaru bezpieczeństwa IT.
 
- 
+
 
 **Obowiązki:**
 
@@ -61,6 +61,6 @@ Szukamy wykwalifikowanego Technical Writera, który dołączy do działu badań 
 - hybrydowy model pracy
 - zarobki w przedziale 9-14 tysięcy brutto
 
-* * *
+---
 
 Powodzenia!

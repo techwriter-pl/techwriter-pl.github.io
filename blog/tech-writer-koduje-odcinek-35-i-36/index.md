@@ -1,10 +1,10 @@
 ---
 title: "Tech Writer Koduje - odcinek 35 i 36"
 date: "2021-12-01"
-categories: 
+categories:
   - "dobre-praktyki"
   - "warsztat"
-tags: 
+tags:
   - "dokumentacja"
   - "podcast"
   - "praktyki"

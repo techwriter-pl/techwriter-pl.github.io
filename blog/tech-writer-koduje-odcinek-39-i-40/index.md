@@ -1,12 +1,12 @@
 ---
 title: "TECH WRITER KODUJE – ODCINEK #39 I #40"
 date: "2022-03-24"
-categories: 
+categories:
   - "dobre-praktyki"
   - "narzedzia"
   - "przyklady"
   - "warsztat"
-tags: 
+tags:
   - "dita"
   - "dokumentacja"
   - "narzedzia"

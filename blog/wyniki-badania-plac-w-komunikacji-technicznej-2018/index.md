@@ -1,10 +1,10 @@
 ---
 title: "Wyniki badania płac w komunikacji technicznej 2018"
 date: "2018-04-26"
-categories: 
+categories:
   - "badanie-plac"
   - "praca"
-tags: 
+tags:
   - "ankieta"
   - "kariera"
   - "praca"
@@ -20,7 +20,7 @@ Ile zarabiają specjaliści w branży komunikacji technicznej? Jak różnią si�
 
 <table><tbody><tr><td></td><td><span style="font-weight: 400">2017</span></td><td><span style="font-weight: 400">2018</span></td></tr><tr><td><span style="font-weight: 400">Liczba odpowiedzi</span></td><td><span style="font-weight: 400">70</span></td><td><span style="font-weight: 400">80</span></td></tr><tr><td><span style="font-weight: 400">Średnia pensja brutto</span></td><td><span style="font-weight: 400">6 969 zł</span></td><td><span style="font-weight: 400">7 352 zł</span></td></tr><tr><td><span style="font-weight: 400">Mediana pensji brutto</span></td><td><span style="font-weight: 400">6 000 zł</span></td><td><span style="font-weight: 400">7 000 zł</span></td></tr><tr><td><span style="font-weight: 400">Najniższe wynagrodzenie brutto</span></td><td><span style="font-weight: 400">1 970 zł</span></td><td><span style="font-weight: 400">3 000 zł</span></td></tr><tr><td><span style="font-weight: 400">Najwyższe wynagrodzenie brutto</span></td><td><span style="font-weight: 400">15 000 zł</span></td><td><span style="font-weight: 400">16 000 zł</span></td></tr></tbody></table>
 
- 
+
 
 Wszystkie z powyższych liczb wzrosły. Trudno spekulować dlaczego, bo możemy mieć do czynienia z inną grupą respondentów. Ale jeżeli tak nie jest, to dobry znak wzrostu.
 
@@ -36,7 +36,7 @@ Dokładniej mówiąc, respondenci zaznaczyli następujące kategorie:
 
 <table><tbody><tr><td><span style="font-weight: 400">Technical writer (specjalista ds. dokumentacji technicznej)</span></td><td><span style="font-weight: 400">63</span></td></tr><tr><td><span style="font-weight: 400">Documentation manager (szef zespołu dokumentacji)</span></td><td><span style="font-weight: 400">5</span></td></tr><tr><td><span style="font-weight: 400">Project manager (kierownik projektów)</span></td><td><span style="font-weight: 400">4</span></td></tr><tr><td><span style="font-weight: 400">Information architect</span></td><td><span style="font-weight: 400">3</span></td></tr><tr><td><span style="font-weight: 400">Training content developer (specjalista ds. szkoleń)</span></td><td><span style="font-weight: 400">2</span></td></tr><tr><td><span style="font-weight: 400">Senior Technical Writer</span></td><td><span style="font-weight: 400">1</span></td></tr><tr><td><span style="font-weight: 400">Release Manager</span></td><td><span style="font-weight: 400">1</span></td></tr><tr><td><span style="font-weight: 400">Technical illustrator</span></td><td><span style="font-weight: 400">1</span></td></tr><tr><td>Który opis najbardziej pasuje do wykonywanej przez Ciebie pracy?</td><td>LIczba respondentów</td></tr></tbody></table>
 
- 
+
 
 Ciekawą kategorią jest “Senior Technical Writer”, bo jest to odpowiedź ręcznie wpisana w polu “inny” przez jedną tylko osobę. W kategorii “Technical writer” na pewno jest szereg osób, których oficjalna nazwa stanowiska to “Senior Technical Writer”, a może też inne, jak na przykład “Principal Technical Writer”.
 
@@ -62,7 +62,7 @@ Jeśli chodzi o rodzaj opisywanych tematów, to większość naszych kolegów i 
 
 <table><tbody><tr style="height: 48px"><td style="height: 48px"><b>Jaki rodzaj dokumentacji piszesz?</b></td><td style="height: 48px"><b>Liczba respondentów</b></td></tr><tr style="height: 48px"><td style="height: 48px"><span style="font-weight: 400">Do oprogramowania</span></td><td style="height: 48px"><span style="font-weight: 400">70</span></td></tr><tr style="height: 48px"><td style="height: 48px"><span style="font-weight: 400">Do API</span></td><td style="height: 48px"><span style="font-weight: 400">30</span></td></tr><tr style="height: 48px"><td style="height: 48px"><span style="font-weight: 400">Do urządzeń elektronicznych (np. routery, telefony, budziki)</span></td><td style="height: 48px"><span style="font-weight: 400">18</span></td></tr><tr style="height: 48px"><td style="height: 48px"><span style="font-weight: 400">Do sprzętu AGD</span></td><td style="height: 48px"><span style="font-weight: 400">3</span></td></tr><tr style="height: 47px"><td style="height: 47px"><span style="font-weight: 400">Do maszyn lub pojazdów</span></td><td style="height: 47px"><span style="font-weight: 400">3</span></td></tr><tr style="height: 48px"><td style="height: 48px"><span style="font-weight: 400">compliance, teoria (finanse)</span></td><td style="height: 48px"><span style="font-weight: 400">1</span></td></tr><tr style="height: 48px"><td style="height: 48px"><span style="font-weight: 400">End user guides</span></td><td style="height: 48px"><span style="font-weight: 400">1</span></td></tr><tr style="height: 48px"><td style="height: 48px"><span style="font-weight: 400">README.md</span></td><td style="height: 48px"><span style="font-weight: 400">1</span></td></tr><tr style="height: 48px"><td style="height: 48px"><span style="font-weight: 400">Release Note'y</span></td><td style="height: 48px"><span style="font-weight: 400">1</span></td></tr><tr style="height: 48px"><td style="height: 48px"><span style="font-weight: 400">meble, sprzęt wojskowy</span></td><td style="height: 48px"><span style="font-weight: 400">1</span></td></tr><tr style="height: 48px"><td style="height: 48px"><span style="font-weight: 400">Administracja serwerów</span></td><td style="height: 48px"><span style="font-weight: 400">1</span></td></tr></tbody></table>
 
- 
+
 
 # **Geografia**
 
@@ -83,11 +83,11 @@ Do wyjątków spoza regionu należą między innymi [MeetContentWRO](http://meet
 
 Większość respondentów lubi swoją pracę - **62 osoby (78%)** dało jej 4 lub 5 punktów. Tylko jedna osoba jest bardzo niezadowolona ze swojej pracy. Może [oferty publikowane na techwriter.pl](http://techwriter.pl/category/news/oferty-pracy/) pomogą zrobic pierwszy krok ku zmianie na lepsze?
 
- 
+
 
 <table><tbody><tr><td><b>Jak bardzo jesteś zadowolony/a ze swojego obecnego stanowiska?</b></td><td><b>Liczba respondentów</b></td></tr><tr><td><span style="font-weight: 400">5 - kocham swoją pracę!</span></td><td><span style="font-weight: 400">17</span></td></tr><tr><td><span style="font-weight: 400">4</span></td><td><span style="font-weight: 400">45</span></td></tr><tr><td><span style="font-weight: 400">3</span></td><td><span style="font-weight: 400">16</span></td></tr><tr><td><span style="font-weight: 400">2</span></td><td><span style="font-weight: 400">1</span></td></tr><tr><td><span style="font-weight: 400">1 - bardzo nie lubię swojej pracy</span></td><td><span style="font-weight: 400">1</span></td></tr></tbody></table>
 
- 
+
 
 # **Wynagrodzenia brutto**
 
@@ -97,17 +97,17 @@ Najwyższe zadowolenie pokrywa się z najwyższą średnią wynagrodzeń, ale ni
 
 <table><tbody><tr><td><b>Jak bardzo jesteś zadowolony/a ze swojego obecnego stanowiska?</b></td><td><b>Średnia</b></td><td><b>Mediana</b></td><td><b>Liczba respondentów</b></td></tr><tr><td><span style="font-weight: 400">5 - kocham swoją pracę!</span></td><td><b>8621</b></td><td><span style="font-weight: 400">7000</span></td><td><span style="font-weight: 400">17</span></td></tr><tr><td><span style="font-weight: 400">4</span></td><td><span style="font-weight: 400">7646</span></td><td><b>7500</b></td><td><span style="font-weight: 400">45</span></td></tr><tr><td><span style="font-weight: 400">3</span></td><td><span style="font-weight: 400">5500</span></td><td><span style="font-weight: 400">5600</span></td><td><span style="font-weight: 400">16</span></td></tr><tr><td><span style="font-weight: 400">2</span></td><td><span style="font-weight: 400">6500</span></td><td><span style="font-weight: 400">6500</span></td><td><span style="font-weight: 400">1</span></td></tr><tr><td><span style="font-weight: 400">1 - bardzo nie lubię swojej pracy</span></td><td><span style="font-weight: 400">3000</span></td><td><span style="font-weight: 400">3000</span></td><td><span style="font-weight: 400">1</span></td></tr></tbody></table>
 
- 
+
 
 ## **Według profesji**
 
 Poszczególne profesje posortowane od najwyższej mediany prezentują się następująco:
 
- 
+
 
 <table><tbody><tr><td><span style="font-weight: 400">Który opis najbardziej pasuje do wykonywanej przez Ciebie pracy?</span></td><td><span style="font-weight: 400">Średnia</span></td><td><span style="font-weight: 400">Mediana</span></td><td><span style="font-weight: 400">Liczba respondentów</span></td></tr><tr><td><span style="font-weight: 400">Documentation manager (szef zespołu dokumentacji)</span></td><td><span style="font-weight: 400">11100</span></td><td><span style="font-weight: 400">11500</span></td><td><span style="font-weight: 400">5</span></td></tr><tr><td><span style="font-weight: 400">Senior Technical Writer</span></td><td><span style="font-weight: 400">11000</span></td><td><span style="font-weight: 400">11000</span></td><td><span style="font-weight: 400">1</span></td></tr><tr><td><span style="font-weight: 400">Information architect</span></td><td><span style="font-weight: 400">6733</span></td><td><span style="font-weight: 400">7700</span></td><td><span style="font-weight: 400">3</span></td></tr><tr><td><b>Technical writer (specjalista ds. dokumentacji technicznej)</b></td><td><b>7139</b></td><td><b>7000</b></td><td><b>63</b></td></tr><tr><td><span style="font-weight: 400">Technical illustrator</span></td><td><span style="font-weight: 400">6800</span></td><td><span style="font-weight: 400">6800</span></td><td><span style="font-weight: 400">1</span></td></tr><tr><td><span style="font-weight: 400">Training content developer (specjalista ds. szkoleń)</span></td><td><span style="font-weight: 400">6750</span></td><td><span style="font-weight: 400">6750</span></td><td><span style="font-weight: 400">2</span></td></tr><tr><td><span style="font-weight: 400">Project manager (kierownik projektów)</span></td><td><span style="font-weight: 400">6593</span></td><td><span style="font-weight: 400">6685</span></td><td><span style="font-weight: 400">4</span></td></tr><tr><td><span style="font-weight: 400">Release Manager</span></td><td><span style="font-weight: 400">5000</span></td><td><span style="font-weight: 400">5000</span></td><td><span style="font-weight: 400">1</span></td></tr></tbody></table>
 
- 
+
 
 Wśród osób, które identyfikują się ze stanowiskiem technical writer:
 
@@ -124,7 +124,7 @@ A szczegółowe dane są takie:
 
 <table><tbody><tr><td><b>W którym województwie pracujesz?</b></td><td><b>Średnia</b></td><td><b>Mediana</b></td><td><b>Liczba respondentów</b></td></tr><tr><td><span style="font-weight: 400">woj. pomorskie</span></td><td><span style="font-weight: 400">9675</span></td><td><span style="font-weight: 400">10100</span></td><td><span style="font-weight: 400">4</span></td></tr><tr><td><span style="font-weight: 400">woj. dolnośląskie</span></td><td><span style="font-weight: 400">7886</span></td><td><span style="font-weight: 400">7500</span></td><td><span style="font-weight: 400">14</span></td></tr><tr><td><span style="font-weight: 400">woj. mazowieckie</span></td><td><span style="font-weight: 400">7579</span></td><td><span style="font-weight: 400">7300</span></td><td><span style="font-weight: 400">7</span></td></tr><tr><td><b>woj. małopolskie</b></td><td><b>7636</b></td><td><b>7000</b></td><td><b>40</b></td></tr><tr><td><span style="font-weight: 400">woj. śląskie</span></td><td><span style="font-weight: 400">5910</span></td><td><span style="font-weight: 400">6000</span></td><td><span style="font-weight: 400">5</span></td></tr><tr><td><span style="font-weight: 400">woj. lubuskie</span></td><td><span style="font-weight: 400">5645</span></td><td><span style="font-weight: 400">5645</span></td><td><span style="font-weight: 400">1</span></td></tr><tr><td><span style="font-weight: 400">woj. wielkopolskie</span></td><td><span style="font-weight: 400">5400</span></td><td><span style="font-weight: 400">5400</span></td><td><span style="font-weight: 400">1</span></td></tr><tr><td><span style="font-weight: 400">woj. łódzkie</span></td><td><span style="font-weight: 400">5627</span></td><td><span style="font-weight: 400">5000</span></td><td><span style="font-weight: 400">5</span></td></tr><tr><td><span style="font-weight: 400">woj. podlaskie</span></td><td><span style="font-weight: 400">4800</span></td><td><span style="font-weight: 400">4800</span></td><td><span style="font-weight: 400">1</span></td></tr><tr><td><span style="font-weight: 400">woj. lubelskie</span></td><td><span style="font-weight: 400">3500</span></td><td><span style="font-weight: 400">3500</span></td><td><span style="font-weight: 400">2</span></td></tr></tbody></table>
 
- 
+
 
 Najlepiej zarabiają respondenci z województwa pomorskiego. Województwo małopolskie, które ma najwięcej respondentów, pokazuje też najbardziej uśredniony wynik.
 

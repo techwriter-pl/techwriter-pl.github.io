@@ -1,10 +1,10 @@
 ---
 title: "Projekty open source dla technical writerów"
 date: "2021-05-26"
-categories: 
+categories:
   - "dobre-praktyki"
   - "warsztat"
-tags: 
+tags:
   - "dokumentacja"
   - "kariera"
   - "praca"

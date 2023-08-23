@@ -1,10 +1,10 @@
 ---
 title: "To już rok!"
 date: "2014-09-17"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "edukacja"
   - "humor"
   - "infografiki"

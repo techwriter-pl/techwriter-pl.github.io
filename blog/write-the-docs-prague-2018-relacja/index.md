@@ -1,10 +1,10 @@
 ---
 title: "Write the Docs Prague 2018 - relacja"
 date: "2019-04-30"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "konferencje"
   - "spolecznosc"
 coverImage: "43895499144_9637dae8e3_k.jpg"
@@ -83,9 +83,9 @@ Obecnie dokumentacja nadal często jest pomijana w kontekście a11y co negatywni
 Technologia może jednak pomóc tylko w ograniczonym wymiarze. Jako twórcy treści powinniśmy zdawać sobie sprawę jak możemy wpływać na zwiększenie dostępności naszych treści. Autorka przekonywała nas, że a11y to nasz obowiązek i podała przykłady jak możemy w łatwy sposób zwiększyć poziom "accessibility". Najprostsze z nich to:
 
 1. Odpowiednia struktura i hierarchia informacji:
-    - Odpowiednio zbudowane podsekcje
-    - Dobrze “poszatkowana treść”
-    - Czysty markup
+   - Odpowiednio zbudowane podsekcje
+   - Dobrze “poszatkowana treść”
+   - Czysty markup
 2. Posługiwanie się wytycznymi [ARIA](https://www.w3.org/WAI/standards-guidelines/aria/) (Accessible Rich Internet Applications).
 3. Używanie tzw. "focus indicators", czyli tagów służących do wytłuszczania tekstu. Pomagają one ludziom zorientować się gdzie znajdują się w danym momencie czytania.
 4. Używanie tzw. "skip links", czyli odnośników do istotnych informacji na stronie. Ta technika jest niezwykle istotna z punktu widzenia screen readerów, gdyż skraca czas potrzebny na dotarcie do kluczowych treści (np. poprzez wskoczenie od razu do wyszukiwarki).

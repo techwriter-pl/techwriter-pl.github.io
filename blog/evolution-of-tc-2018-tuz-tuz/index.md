@@ -1,10 +1,10 @@
 ---
 title: "Evolution of TC 2018 tuż tuż"
 date: "2018-05-16"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "edukacja"
   - "kariera"
   - "konferencje"
@@ -43,6 +43,6 @@ Rozpoczęcie zaplanowane jest na 8:30 rano, a zakończenie przewidywane jest ok.
 
 Rozpoczęcie również o 8:30, jednak prawdopodobne zakończenie przewidywane jest o 14:30. Jest to dzień, w którym czeka Was nieco więcej pracy. Organizatorzy przygotowali szereg zajęć praktycznych i warsztatów. Do wyboru mamy 10 sesji podzielonych na trzy ścieżki. Warto zapoznać się z programem i wybrać tematy, które wydają się ciekawe, gdyż jest to jedna z niewielu szans bezpośredniej pracy z ekspertem w danej dziedzinie. Warto także zwrócić uwagę, że poranne zajęcia trwają o wiele dłużej, niż te zaplanowane po lunchu.
 
- 
+
 
 Osoby zainteresowane bardziej szczegółowymi informacjami odsyłamy na stronę konferencji ([link](https://evolution-of-tc.com/)) oraz do naszego wcześniejszego artykułu ([link](http://techwriter.pl/evolution-of-tc-2018-juz-wkrotce/)).

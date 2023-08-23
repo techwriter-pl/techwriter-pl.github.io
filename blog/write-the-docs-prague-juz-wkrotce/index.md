@@ -1,10 +1,10 @@
 ---
 title: "Write the Docs Prague już wkrótce"
 date: "2017-08-22"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "edukacja"
   - "kariera"
   - "konferencje"

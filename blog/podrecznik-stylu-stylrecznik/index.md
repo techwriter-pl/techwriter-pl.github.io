@@ -1,11 +1,11 @@
 ---
 title: "Podręcznik stylu - stylręcznik?"
 date: "2014-05-22"
-categories: 
+categories:
   - "dobre-praktyki"
   - "przyklady"
   - "warsztat"
-tags: 
+tags:
   - "instrukcje"
   - "jezyk"
   - "manuale"

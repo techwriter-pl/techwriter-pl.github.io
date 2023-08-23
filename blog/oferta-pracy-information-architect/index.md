@@ -1,10 +1,10 @@
 ---
 title: "[NIEAKTUALNE] Oferta pracy: Information Architect"
 date: "2017-08-02"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "MSI.png"
@@ -16,7 +16,7 @@ Jeżeli byliście na [warsztatach organizowanych przez Motorola Solutions](http:
 
 Aplikować można [pod tym linkiem](https://krb-xjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=30162&siteid=5286&AReq=3829BR#jobDetails=undefined).
 
-* * *
+---
 
 **Company Overview**
 
@@ -95,6 +95,6 @@ IMPACT
 
 Bachelor’s degree in a related field or equivalent experience Information Architect education or Minimum of 3-4 years related experience Working with culturally diverse global teams Strong interpersonal, leadership, written, and verbal communication skills Self-motivated to accomplish goals Flexible work hours.  Must be able to work outside of traditional working hours to enable collaboration with the global team. PREFERRED: Master’s degree or equivalent experience Knowledge of Motorola Solutions product and service portfolios/businesses Knowledge of project management principles Knowledge of Agile development environment
 
-* * *
+---
 
 Powodzenia!

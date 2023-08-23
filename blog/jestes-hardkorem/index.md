@@ -1,11 +1,11 @@
 ---
 title: "Jesteś hardkorem?"
 date: "2014-06-20"
-categories: 
+categories:
   - "news"
   - "z-kraju"
   - "ze-swiata"
-tags: 
+tags:
   - "praca"
   - "webinarium"
 coverImage: "apisdkcodesamples.png"

@@ -1,10 +1,10 @@
 ---
 title: "Langłydż - part najn"
 date: "2014-09-26"
-categories: 
+categories:
   - "warsztat"
   - "z-przymruzeniem-oka"
-tags: 
+tags:
   - "humor"
   - "jezyk"
 coverImage: "kontent.jpg"
@@ -21,18 +21,18 @@ Etymologia: prawdopodobnie pochodzi od skrócenia i połączenia dwóch wyrazów
 Jak się pewnie już domyślacie - chodzi o rzecz tworzoną w pośpiechu. Powszechnie przez kontent rozumiemy wszystko, co ludzie przelewają na papier lub twardy dysk, bez zastanowienia czy ma to jakikolwiek sens. Duża część pracy techwriterów poświęcona jest właśnie poprawianiu/przerabianiu/tworzeniu/publikowaniu kontentu. Pierwsza wzmianka na ten temat pojawiła się już we fraszkach Kochanowskiego ;):
 
 > _Gdy kontent [reużywany](http://techwriter.pl/langlydz-part-fri/),_
-> 
+>
 > _techwriter ukontentowany._
 
 Niestety nie udało nam się jeszcze spotkać osoby, której praca polegałaby na usuwaniu niepotrzebnego kontentu, ale widzimy tu dużą lukę i szansę na rynku pracy oraz duże możliwości rozwoju.
 
 > _Tak się otwiera_
-> 
+>
 > _kariera_
-> 
+>
 > _kontent kilera._
 
-Forma czasownikowa _kontentować_ jest bardzo rzadko spotykana z powodu częstego mylenia z kontestowaniem.
+Forma czasownikowa *kontentować* jest bardzo rzadko spotykana z powodu częstego mylenia z kontestowaniem.
 
 <iframe src="//www.youtube.com/embed/SAKMsmP1WCA" height="315" width="420" allowfullscreen frameborder="0"></iframe>
 

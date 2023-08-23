@@ -1,10 +1,10 @@
 ---
 title: "MEETCONTENT WROCŁAW – STYCZEŃ 2023"
 date: "2023-01-16"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "dokumentacja"
   - "meetcontent"
   - "meetup"

@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: UI Designer (Caspio)"
 date: "2018-09-24"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "caspio-logo.png"

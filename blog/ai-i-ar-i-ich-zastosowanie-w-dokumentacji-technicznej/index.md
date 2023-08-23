@@ -1,11 +1,11 @@
 ---
 title: "AI i AR i ich zastosowanie w dokumentacji technicznej"
 date: "2021-06-15"
-categories: 
+categories:
   - "narzedzia"
   - "przyklady"
   - "warsztat"
-tags: 
+tags:
   - "aplikacje"
   - "automatyzacja"
   - "dokumentacja"
@@ -74,7 +74,7 @@ Wynika z tego, że tworzone treści będą musiały mieć przypisane metadane i 
 - Mogą przynieść duże oszczędności dla dużych korporacji i przedsiębiorstw.
 - Technologia rozszerzonej rzeczywistości przydaje się w projektowaniu i montażu podzespołów. Pozwala też opracowywać dokumentację w taki sposób, aby korzystanie z niej było czytelne i intuicyjne.
 - Informacje mogą być wyświetlane przed użytkownikiem dokładnie w tym samym miejscu, w którym dokonuje on określonej czynności.
-- AR może być używany na przykład, aby umożliwić wgląd w wewnętrzne działanie produktu lub struktury bez konieczności otwierania go.  
+- AR może być używany na przykład, aby umożliwić wgląd w wewnętrzne działanie produktu lub struktury bez konieczności otwierania go.
 - Połączenie technologii z inteligentnymi urządzeniami, sprawia, że jest to atrakcyjny mechanizm dostarczania dokumentacji technicznej, szkoleń i pomocy dla użytkownika.
 
 ## Wnioski?

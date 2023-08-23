@@ -1,10 +1,10 @@
 ---
 title: "STC Summit 2014 - podsumowanie"
 date: "2014-05-30"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "konferencje"
 coverImage: "STCSummit.jpg"
 ---

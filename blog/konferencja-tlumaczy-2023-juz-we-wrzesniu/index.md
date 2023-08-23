@@ -1,10 +1,10 @@
 ---
 title: "Konferencja Tłumaczy 2023 już we wrześniu"
 date: "2023-07-04"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "konferencje"
   - "tlumaczenia"
 coverImage: "konferencja_tlumaczy_2023.png"
@@ -50,11 +50,8 @@ Udział w konferencji wymaga rejestracji oraz zakupu biletu. W cenę biletów �
 Ceny dostępnych biletów:
 
 - ##### NA MIEJSCU Konferencja Tłumaczy – rejestracja „zwykła” – 590,40 PLN brutto - rejestracja do 30.09.2023 do godz. 10:00
-    
 - ##### NA MIEJSCU dla studentów – 350,00 PLN brutto - rejestracja do 30.09.2023 do godz. 10:00
-    
 - ##### ONLINE  – 307,50 PLN brutto - rejestracja do 30.09.2023 do godz. 10:00
-    
 
 Szczegóły dotyczące biletów oraz linki do rejestracji znajdziecie [tutaj](https://konferencja-tlumaczy.pl/?page_id=1707).
 

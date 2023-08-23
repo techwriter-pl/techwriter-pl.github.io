@@ -1,11 +1,11 @@
 ---
 title: "Wszystko o DITA – Narzędzia (4)"
 date: "2017-02-13"
-categories: 
+categories:
   - "dobre-praktyki"
   - "narzedzia"
   - "warsztat"
-tags: 
+tags:
   - "dita"
   - "technologie"
   - "zarzadzanie-trescia"
@@ -79,7 +79,7 @@ Z kolei pisanie własnego CCMSa nie jest zadaniem trywialnym i będzie wymagało
 
 Linia produkcyjna zamieni nasze źródłowe pliki DITA w wynikowe pliki PDF, HTML, czy jeszcze jakieś inne. Zwykle składa się ona z silnika **konwertującego** XML do postaci wynikowej, oraz dwóch mechanizmów: jednego, który **uruchomi** transformację, i drugiego, który **opublikuje** pliki w docelowej lokalizacji. Pierwszy mechanizm może być plikiem bat, na który musimy kliknąć, guzikiem na stronie, albo skryptem, który uruchamia się automatycznie w określonym czasie (dwie ostanie opcje pozwoli nam spełnić na przykład [Jenkins, o którym już pisaliśmy](http://techwriter.pl/jenkins-opis-narzedzia/)). Drugi mechanizm przenosi pliki wynikowe na serwer FTP, serwer webowy, wysyła je mailem, itp.
 
-\[caption id="attachment\_5327" align="aligncenter" width="1280"\][![](images/publikacja-techwriter-pl-1.jpg)](http://techwriter.pl/wp-content/uploads/2017/01/publikacja-techwriter-pl-1.jpg) Schemat publikacji DITA\[/caption\]
+\[caption id="attachment_5327" align="aligncenter" width="1280"\][![](images/publikacja-techwriter-pl-1.jpg)](http://techwriter.pl/wp-content/uploads/2017/01/publikacja-techwriter-pl-1.jpg) Schemat publikacji DITA\[/caption\]
 
 Najpopularniejszym narzędziem do publikacji dity jest DITA Open Toolkit. Nie ma on dedykowanego interfejsu, choć takie istnieją, np. w CMSach, albo [napisane przez pomocnych programistów](https://sourceforge.net/projects/ditaotgui/). Musimy sobie zadać pytanie czy możemy użyć jednego z nich, czy potrzebujemy czegoś bardziej zautomatyzowanego i kto nam to napisze. Poza tym, oprócz darmowego DITA OT możemy potrzebować software'u do transformacji grafik (istnieją darmowe opcje, jak [ImageMagick](https://www.imagemagick.org/script/index.php)) oraz osadzania czcionek w PDFach (istnieją darmowe opcje, np. [FOP](https://xmlgraphics.apache.org/fop/) i [XEP](http://www.renderx.com/tools/xep.html), oraz płatny [AntennaHouse Formatter](https://www.antennahouse.com/antenna1/formatter/)). Czy mamy do dyspozycji serwery, na których będzie możliwa produkcja, czy chcemy kopiować środowisko na komputery naszych autorów? Potrzebujemy tutaj strategii.
 

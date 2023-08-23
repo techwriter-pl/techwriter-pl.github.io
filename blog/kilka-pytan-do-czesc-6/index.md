@@ -1,10 +1,10 @@
 ---
 title: "Kilka pytań do - część 6"
 date: "2015-09-01"
-categories: 
+categories:
   - "warsztat"
   - "wywiady"
-tags: 
+tags:
   - "spolecznosc"
   - "wywiad"
 coverImage: "wywiad.jpg"

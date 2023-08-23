@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical Writer (bugbug) - zdalna"
 date: "2023-05-04"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "oferta-pracy"
   - "praca"
@@ -19,7 +19,7 @@ Link do ogłoszenia: [https://atlantic-swim-078.notion.site/Technical-Writer-509
 
 Zainteresowani są proszeni o bezpośredni kontakt mailowy na adres: pawel.bylina\[at\]bugbug.io
 
-* * *
+---
 
 ### Technical Writer
 
@@ -49,12 +49,12 @@ Forma rozliczenia: umowa o dzieło lub B2B.
 - Pisanie treści na landingi, w tym np. porównawcze [bugbug.io](http://bugbug.io) vs konkurencja.
 - Pisanie treści PR na zewnętrzne serwisy branżowe związane z QA.
 - Mile widziane:
-    - Rozbudowa i utrzymanie dokumentacji [https://docs.bugbug.io](https://docs.bugbug.io).
-    - Pisanie treści pod scenariusze tutoriali video.
-    - Tworzenie tutoriali video.
+  - Rozbudowa i utrzymanie dokumentacji [https://docs.bugbug.io](https://docs.bugbug.io).
+  - Pisanie treści pod scenariusze tutoriali video.
+  - Tworzenie tutoriali video.
 
 Przykładowy outline tekstu do wypełnienia treścią: [https://docs.google.com/document/d/1laAzSzbG7oKhJ19xYCa4b5QMQNU0Zy4szAQgeSeI15A/edit](https://docs.google.com/document/d/1laAzSzbG7oKhJ19xYCa4b5QMQNU0Zy4szAQgeSeI15A/edit)
 
-* * *
+---
 
 Życzymy powodzenia!

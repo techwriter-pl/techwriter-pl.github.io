@@ -1,10 +1,10 @@
 ---
 title: "Less is more strikes again!"
 date: "2015-04-24"
-categories: 
+categories:
   - "dobre-praktyki"
   - "warsztat"
-tags: 
+tags:
   - "infografiki"
   - "jezyk"
 coverImage: "simplicity.gif"
@@ -24,7 +24,7 @@ Dlatego na weekend proponujemy trochę lektury na ten temat oraz... chwilę refl
 
 <iframe style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/key/rpRflzblfjsqbF" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
 
- 
+
 
 A na dokładkę [infografika o tym jak pisać zdania](http://writing.rocks/how-to-write-a-sentence-infographic/)...
 

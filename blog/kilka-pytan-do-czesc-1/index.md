@@ -1,10 +1,10 @@
 ---
 title: "Kilka pytań do - część 1"
 date: "2015-01-27"
-categories: 
+categories:
   - "warsztat"
   - "wywiady"
-tags: 
+tags:
   - "spolecznosc"
   - "wywiad"
 coverImage: "hw_ace_press_250.jpg"

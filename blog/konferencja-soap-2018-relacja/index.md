@@ -1,10 +1,10 @@
 ---
 title: "Konferencja soap! 2018 - relacja"
 date: "2018-06-20"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "edukacja"
   - "kariera"
   - "konferencje"

@@ -1,10 +1,10 @@
 ---
 title: "Trend is your friend"
 date: "2014-04-04"
-categories: 
+categories:
   - "dobre-praktyki"
   - "warsztat"
-tags: 
+tags:
   - "typografia"
 coverImage: "Fonty.jpg"
 ---

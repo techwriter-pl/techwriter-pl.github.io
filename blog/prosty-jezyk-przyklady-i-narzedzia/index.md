@@ -1,11 +1,11 @@
 ---
 title: "Prosty język – przykłady i narzędzia"
 date: "2020-08-05"
-categories: 
+categories:
   - "dobre-praktyki"
   - "narzedzia"
   - "przyklady"
-tags: 
+tags:
   - "dokumentacja"
   - "dostepnosc"
   - "edukacja"
@@ -68,7 +68,7 @@ Otrzymany rezultat można zinterpretować jak poniżej:
 
 <table style="border-collapse: collapse; width: 100%; height: 95px;"><tbody><tr style="height: 19px;"><td style="width: 14.6114%; height: 19px;"><strong>Wynik</strong></td><td style="width: 85.3886%; height: 19px;"><strong>Interpretacja</strong></td></tr><tr style="height: 19px;"><td style="width: 14.6114%; height: 19px;">90-100</td><td style="width: 85.3886%; height: 19px;">tekst łatwy do zrozumienia dla jedenastoletniego ucznia</td></tr><tr style="height: 19px;"><td style="width: 14.6114%; height: 19px;">60-70</td><td style="width: 85.3886%; height: 19px;">tekst łatwy do zrozumienia dla uczniów w wieku 13-15 lat</td></tr><tr style="height: 19px;"><td style="width: 14.6114%; height: 19px;">30-50</td><td style="width: 85.3886%; height: 19px;">tekst akademicki</td></tr><tr style="height: 19px;"><td style="width: 14.6114%; height: 19px;">0-30</td><td style="width: 85.3886%; height: 19px;">tekst naukowy, dla absolwentów uc<em>z</em>elni wyższych</td></tr></tbody></table>
 
--  **Indeks czytelności FOG** **(Gunning fog index)** – w języku polskim określany jako indeks mgły, określa czy ​​tekst może być łatwo odczytany przez docelowych odbiorców. Oryginalny indeks FOG został sformułowany dla języka angielskiego, ale istnieje też wariant dostosowany do specyfiki polszczyzny.
+- **Indeks czytelności FOG** **(Gunning fog index)** – w języku polskim określany jako indeks mgły, określa czy ​​tekst może być łatwo odczytany przez docelowych odbiorców. Oryginalny indeks FOG został sformułowany dla języka angielskiego, ale istnieje też wariant dostosowany do specyfiki polszczyzny.
 
 Jak to zrobić?
 

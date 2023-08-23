@@ -1,10 +1,10 @@
 ---
 title: "Kolejny meetup dokumentacyjny Guidewire w Krakowie"
 date: "2019-01-15"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "automatyzacja"
   - "edukacja"
   - "spolecznosc"

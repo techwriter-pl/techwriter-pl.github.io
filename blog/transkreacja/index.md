@@ -1,11 +1,11 @@
 ---
 title: "Transkreacja"
 date: "2014-11-28"
-categories: 
+categories:
   - "dobre-praktyki"
   - "przyklady"
   - "warsztat"
-tags: 
+tags:
   - "lokalizacja"
   - "tlumaczenia"
 coverImage: "transkreacja.jpg"

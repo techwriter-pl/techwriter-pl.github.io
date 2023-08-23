@@ -1,11 +1,11 @@
 ---
 title: "MeetContentWRO wraca"
 date: "2022-12-20"
-categories: 
+categories:
   - "news"
   - "praca"
   - "z-kraju"
-tags: 
+tags:
   - "kariera"
   - "meetcontent"
   - "praca"

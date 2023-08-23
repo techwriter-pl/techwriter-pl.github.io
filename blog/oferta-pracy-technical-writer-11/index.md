@@ -1,10 +1,10 @@
 ---
 title: "[NIEAKTUALNE] Oferta pracy: Technical Writer"
 date: "2016-03-15"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "medius.jpg"

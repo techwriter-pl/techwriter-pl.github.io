@@ -1,10 +1,10 @@
 ---
 title: "Konferencja UA Europe już wkrótce"
 date: "2017-05-16"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "edukacja"
   - "kariera"
   - "konferencje"
@@ -42,6 +42,6 @@ W tym czasie można oglądać produkty poszczególnych firm, a także zadawać i
 
 Po więcej informacji odsyłamy do [tego tekstu](http://techwriter.pl/zapraszamy-na-ua-europe-2017/) lub na stronę [wydarzenia](http://www.uaconference.eu/index.html).
 
- 
+
 
 Dajcie znać czy się wybieracie ;-)

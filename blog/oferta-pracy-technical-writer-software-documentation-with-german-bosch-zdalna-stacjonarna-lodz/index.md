@@ -1,10 +1,10 @@
 ---
 title: "OFERTA PRACY: Technical writer Software Documentation (with German) [BOSCH] - ZDALNA/STACJONARNA (ŁÓDŹ)"
 date: "2023-01-18"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "oferta-pracy"
   - "praca"
@@ -17,7 +17,7 @@ Kolejna oferta pracy czeka na technical writera. Tym razem poszukiwany jest spec
 
 Obecnie firma poszukuje osoby ze znajomością języka niemieckiego na stanowisko Technical Writer Software Documentation. Chętni mogą aplikować bezpośrednio przez [ogłoszenie](https://jobs.smartrecruiters.com/BoschGroup/743999865583271-technical-writer-software-documentation-with-german-).
 
-* * *
+---
 
 # Technical writer Software Documentation (with German)
 
@@ -81,6 +81,6 @@ We would like to offer you number of amenities for you and your loved ones.
 - Non working days on the 24th and 31st of December
 - Discounts for Bosch products
 
-* * *
+---
 
 Życzymy powodzenia!

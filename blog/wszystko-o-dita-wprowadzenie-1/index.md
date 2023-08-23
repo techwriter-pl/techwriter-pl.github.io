@@ -1,7 +1,7 @@
 ---
 title: "Wszystko o DITA - Wprowadzenie (1)"
 date: "2019-04-01"
-categories: 
+categories:
   - "dobre-praktyki"
   - "narzedzia"
   - "warsztat"

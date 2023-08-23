@@ -1,11 +1,11 @@
 ---
 title: "Za co maszyny lubią autorów"
 date: "2018-08-10"
-categories: 
+categories:
   - "dobre-praktyki"
   - "przyklady"
   - "warsztat"
-tags: 
+tags:
   - "instrukcje"
   - "jezyk"
   - "manuale"

@@ -1,9 +1,9 @@
 ---
 title: "Nowe trendy w technical writingu"
 date: "2023-06-23"
-categories: 
+categories:
   - "warsztat"
-tags: 
+tags:
   - "dokumentacja"
   - "praktyki"
 coverImage: "nowe_trendy.png"
@@ -13,11 +13,11 @@ Odkąd technical writing stał się jednym z wielu pożądanych zawodów, osoby 
 
 ## Rosnące wykorzystanie narzędzi i platform cyfrowych
 
-Autorzy tekstów technicznych używają szerokiej gamy narzędzi i platform cyfrowych do tworzenia, edytowania i publikowania swoich dokumentów. Obejmuje to korzystanie z systemów zarządzania treścią, narzędzi do współpracy z innymi członkami zespołów, a także licznych aplikacji dostępnych w chmurze. Z roku na rok, liczba narzędzi jakie mogą wspomóc technical writera w pracy rośnie, a wybór tej najlepszej staje się coraz trudniejszy z uwagi na coraz więcej możliwości, jakie oferują firmy je produkujące. Zmieniają się także wymagania stawiane twórcom treści, co dodatkowo pobudza rynek do wymyślania coraz to nowych rozwiązań. 
+Autorzy tekstów technicznych używają szerokiej gamy narzędzi i platform cyfrowych do tworzenia, edytowania i publikowania swoich dokumentów. Obejmuje to korzystanie z systemów zarządzania treścią, narzędzi do współpracy z innymi członkami zespołów, a także licznych aplikacji dostępnych w chmurze. Z roku na rok, liczba narzędzi jakie mogą wspomóc technical writera w pracy rośnie, a wybór tej najlepszej staje się coraz trudniejszy z uwagi na coraz więcej możliwości, jakie oferują firmy je produkujące. Zmieniają się także wymagania stawiane twórcom treści, co dodatkowo pobudza rynek do wymyślania coraz to nowych rozwiązań.
 
 ## Zacieśnienie współpracy z różnymi zespołami wewnątrz organizacji
 
-Praca technical writera od zawsze wymagała umiejętności współpracy z różnymi osobami w organizacji. Z czasem trend ten się nasilił i w wielu firmach twórca dokumentacji technicznej stał się członkiem nie tylko zespołu techwriterskiego, ale też ścisłym współpracownikiem programistów, testerów, osób związanych ze sprzedażą czy zarządzaniem. Koordynację pomiędzy zespołami ułatwiło powstanie platform wspomagających. Git, GitHub i GitLab to popularne systemy kontroli wersji używane przez autorów tekstów technicznych i innych profesjonalistów z branży technologicznej. Systemy te umożliwiają zespołom śledzenie zmian w dokumentach i kodzie, współpracę nad projektami i wycofywanie zmian w razie potrzeby. Pisarze techniczni mogą czerpać coraz większe korzyści z korzystania z tych narzędzi, ponieważ pozwala im to śledzić zmiany w dokumentach i łatwiej współpracować z członkami zespołów. Ułatwia również śledzenie różnych wersji dokumentu i, w razie potrzeby, powrót do poprzednich wersji. 
+Praca technical writera od zawsze wymagała umiejętności współpracy z różnymi osobami w organizacji. Z czasem trend ten się nasilił i w wielu firmach twórca dokumentacji technicznej stał się członkiem nie tylko zespołu techwriterskiego, ale też ścisłym współpracownikiem programistów, testerów, osób związanych ze sprzedażą czy zarządzaniem. Koordynację pomiędzy zespołami ułatwiło powstanie platform wspomagających. Git, GitHub i GitLab to popularne systemy kontroli wersji używane przez autorów tekstów technicznych i innych profesjonalistów z branży technologicznej. Systemy te umożliwiają zespołom śledzenie zmian w dokumentach i kodzie, współpracę nad projektami i wycofywanie zmian w razie potrzeby. Pisarze techniczni mogą czerpać coraz większe korzyści z korzystania z tych narzędzi, ponieważ pozwala im to śledzić zmiany w dokumentach i łatwiej współpracować z członkami zespołów. Ułatwia również śledzenie różnych wersji dokumentu i, w razie potrzeby, powrót do poprzednich wersji.
 
 ## Koncentracja na użyteczności i doświadczeniu użytkownika
 

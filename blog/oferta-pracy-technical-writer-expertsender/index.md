@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical Writer (ExpertSender)"
 date: "2018-08-01"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "logo_expertsender_rgb_white-002.png"

@@ -1,10 +1,10 @@
 ---
 title: "Wyniki badania płac w komunikacji technicznej 2019"
 date: "2019-05-14"
-categories: 
+categories:
   - "badanie-plac"
   - "praca"
-tags: 
+tags:
   - "ankieta"
   - "kariera"
   - "praca"
@@ -23,12 +23,12 @@ Wyniki poprzednich badań znajdziecie tu:
 
 Oto jak sytuacja zmieniła się na przestrzeni lat.
 
-|  | 2017 | 2018 | 2019 |
-| --- | --- | --- | --- |
-| Liczba odpowiedzi | 70 | 80 | 103 |
-| Średnie wynagrodzenie brutto | 6 969 zł | 7 352 zł | 8 877 zł |
-| Mediana wynagrodzeń brutto | 6 000 zł | 7 000 zł | 8 000 zł |
-| Najniższe wynagrodzenie brutto | 1 970 zł | 3 000 zł | 3 500 zł |
+|                                | 2017      | 2018      | 2019      |
+| ------------------------------ | --------- | --------- | --------- |
+| Liczba odpowiedzi              | 70        | 80        | 103       |
+| Średnie wynagrodzenie brutto   | 6 969 zł  | 7 352 zł  | 8 877 zł  |
+| Mediana wynagrodzeń brutto     | 6 000 zł  | 7 000 zł  | 8 000 zł  |
+| Najniższe wynagrodzenie brutto | 1 970 zł  | 3 000 zł  | 3 500 zł  |
 | Najwyższe wynagrodzenie brutto | 15 000 zł | 16 000 zł | 20 000 zł |
 
 Czyli na lepsze zmieniają się następujące rzeczy:
@@ -50,29 +50,29 @@ Tak jak w poprzednich latach, większość ankietowanych identyfikuje się jako 
 
 Zarobki w poszczególnych grupach kształtują się następująco (posortowane wg średniego wynagrodzenia brutto):
 
-| Profesja | Liczba respondentów | Średnie wynagrodzenie brutto | Mediana wynagrodzeń |
-| --- | --- | --- | --- |
-| Information Architect | 3 | 11 333 zł | 8 000 zł |
-| Documentation manager | 10 | 10 670 zł | 10 500 zł |
-| Content strategist | 1 | 9 000 zł | 9 000 zł |
-| Technical writer | 78 | 8 694 zł | 8 000 zł |
-| Project manager | 5 | 8 052 zł | 7 666 zł |
-| UX Writer | 3 | 7 966 zł | 8 000 zł |
-| Training content developer | 2 | 7 600 zł | 7 600 zł |
-| UX Designer | 1 | 7 200 zł | 7 200 zł |
+| Profesja                   | Liczba respondentów | Średnie wynagrodzenie brutto | Mediana wynagrodzeń |
+| -------------------------- | ------------------- | ---------------------------- | ------------------- |
+| Information Architect      | 3                   | 11 333 zł                    | 8 000 zł            |
+| Documentation manager      | 10                  | 10 670 zł                    | 10 500 zł           |
+| Content strategist         | 1                   | 9 000 zł                     | 9 000 zł            |
+| Technical writer           | 78                  | 8 694 zł                     | 8 000 zł            |
+| Project manager            | 5                   | 8 052 zł                     | 7 666 zł            |
+| UX Writer                  | 3                   | 7 966 zł                     | 8 000 zł            |
+| Training content developer | 2                   | 7 600 zł                     | 7 600 zł            |
+| UX Designer                | 1                   | 7 200 zł                     | 7 200 zł            |
 
 Przedziały wynagrodzenia według profesji wyglądają tak:
 
-| Profesja | Najniższe wynagrodzenie | Najwyższe wynagrodzenie |
-| --- | --- | --- |
-| Information Architect | 8 000 zł | 18 000 zł |
-| Documentation manager | 6 500 zł | 14 000 zł |
-| Content strategist | 9 000 zł | 9 000 zł |
-| Technical writer | 4 000 zł | 20 000 zł |
-| Project manager | 3 500 zł | 13 000 zł |
-| UX Writer | 7 400 zł | 8 500 zł |
-| Training content developer | 7 200 zł | 8 000 zł |
-| UX Designer | 7 200 zł | 7 200 zł |
+| Profesja                   | Najniższe wynagrodzenie | Najwyższe wynagrodzenie |
+| -------------------------- | ----------------------- | ----------------------- |
+| Information Architect      | 8 000 zł                | 18 000 zł               |
+| Documentation manager      | 6 500 zł                | 14 000 zł               |
+| Content strategist         | 9 000 zł                | 9 000 zł                |
+| Technical writer           | 4 000 zł                | 20 000 zł               |
+| Project manager            | 3 500 zł                | 13 000 zł               |
+| UX Writer                  | 7 400 zł                | 8 500 zł                |
+| Training content developer | 7 200 zł                | 8 000 zł                |
+| UX Designer                | 7 200 zł                | 7 200 zł                |
 
 Jak widać, wynagrodzenie technical writera może być całkiem atrakcyjne, i nie odstaje zbytnio od wynagrodzenia kierownika. Rekordowy wpis to 20 000 zł miesięcznie brutto. Zdecydowanie jest do czego aspirować. ????
 
@@ -80,13 +80,13 @@ Jak widać, wynagrodzenie technical writera może być całkiem atrakcyjne, i ni
 
 Tak jak w poprzednich latach, większość ankietowanych nauczyło się zawodu w pracy. Ciągle brakuje ludzi, którzy chcieliby skorzystać z [kierunkowych studiów](https://www.vistula.edu.pl/kierunki-studiow/kontynuacja-edukacji/studia-podyplomowe/informatyka/komunikacja-techniczna). Pomału rośnie liczba osób z certyfikatem [ITCQF](http://itcqf.org/).
 
-| Przygotowanie do pracy | Procent | Liczba osób |
-| --- | --- | --- |
-| Szkolenie i doświadczenie w pracy | 87,38% | 90 |
-| Studia technical writing lub pokrewne | 5,83% | 6 |
-| Kurs ITCQF z certyfikatem | 4,85% | 5 |
-| Kurs ITCQF bez certyfikatu | 0,97% | 1 |
-| Kurs przygotowawczy | 0,97% | 1 |
+| Przygotowanie do pracy                | Procent | Liczba osób |
+| ------------------------------------- | ------- | ----------- |
+| Szkolenie i doświadczenie w pracy     | 87,38%  | 90          |
+| Studia technical writing lub pokrewne | 5,83%   | 6           |
+| Kurs ITCQF z certyfikatem             | 4,85%   | 5           |
+| Kurs ITCQF bez certyfikatu            | 0,97%   | 1           |
+| Kurs przygotowawczy                   | 0,97%   | 1           |
 
 Jeżeli chodzi o staż pracy, jesteśmy młodym zawodem. 65% ankietowanych ma od 0 to 5 lat doświadczenia. Tylko 9 osób ma więcej niż 10 lat doświadczenia.
 
@@ -100,13 +100,13 @@ Prawie 90% ankietowanych pracuje w firmie zagranicznej. Nie ma wśród nas freel
 
 [![](images/wielkosc-firmy.png)](http://techwriter.pl/wp-content/uploads/2019/04/wielkosc-firmy.png)Jednocześnie ogromna większość z nas pisze dokumentację do oprogramowania.
 
-| Rodzaj dokumentacji | Liczba respondentów |
-| --- | --- |
-| Do oprogramowania | 91 |
-| Do API | 35 |
-| Do urządzeń elektronicznych | 16 |
-| Do maszyn lub pojazdów | 7 |
-| Do sprzętu AGD | 5 |
+| Rodzaj dokumentacji         | Liczba respondentów |
+| --------------------------- | ------------------- |
+| Do oprogramowania           | 91                  |
+| Do API                      | 35                  |
+| Do urządzeń elektronicznych | 16                  |
+| Do maszyn lub pojazdów      | 7                   |
+| Do sprzętu AGD              | 5                   |
 
 ## Geografia
 

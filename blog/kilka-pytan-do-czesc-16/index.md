@@ -1,10 +1,10 @@
 ---
 title: "Kilka pytań do – część 16"
 date: "2018-04-04"
-categories: 
+categories:
   - "warsztat"
   - "wywiady"
-tags: 
+tags:
   - "spolecznosc"
   - "wywiad"
 coverImage: "Bułgaria.jpg"
@@ -56,6 +56,6 @@ I love a lot of things in tech writing. It's like fitness for the brain - you le
 
 Don't be scared if you don’t have a technical background. This can be learned and developed over time. If you love writing, find technology fascinating, and have good communication skills – give it a try! Chances are you and technical writing are a match. It can be challenging at times, but it is always interesting and you never get bored!
 
- 
+
 
 Jeśli chcecie skontakować się z Margaritą albo macie ochotę podzielić się swoimi doświadczeniami, piszcie śmiało na adres [**kontakt@techwriter.pl**](mailto:kontakt@techwriter.pl).

@@ -1,10 +1,10 @@
 ---
 title: "KONFERENCJE 2023 - DRUGIE PÓŁROCZE"
 date: "2023-06-01"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "kariera"
   - "konferencje"
   - "praca"
@@ -110,6 +110,6 @@ Jak zawsze, będę śledzić zmiany i uzupełniać dane w miarę ich pojawiania 
 
 07-08 grudnia, Melbourne, Australia – [Write the Docs Australia 2023](https://www.writethedocs.org/conf/australia/2023/)
 
- 
+
 
 Jak zawsze czekam na Wasz komentarz, o tym które wydarzenia najbardziej Was interesują.

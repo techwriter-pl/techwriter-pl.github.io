@@ -1,10 +1,10 @@
 ---
 title: "Kilka pytań do - część 15"
 date: "2017-11-09"
-categories: 
+categories:
   - "warsztat"
   - "wywiady"
-tags: 
+tags:
   - "spolecznosc"
   - "wywiad"
 coverImage: "nik-macmillan-280300.jpg"
@@ -68,7 +68,7 @@ Jeśli nie wiesz jak zacząć, to przyjedź na [konferencję soap!](http://soapc
 
 Możliwości jest wiele. Ja zachęcam wszystkich zainteresowanych. Społeczność TechComm czeka na Was!
 
- 
+
 
 W razie dodatkowych pytań możecie skontaktować się z Tomkiem bezpośrednio przez e-mail [**prus.tomek@gmail.com**](mailto:prus.tomek@gmail.com). Jeśli macie ochotę podzielić się swoimi doświadczeniami, nie zwlekajcie dłużej, tylko piszcie na **[kontakt@techwriter.pl](mailto:kontakt@techwriter.pl)**.
 

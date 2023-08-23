@@ -1,10 +1,10 @@
 ---
 title: "Nie tylko Wikipedia, czyli do czego może się przydać wiki?"
 date: "2015-01-20"
-categories: 
+categories:
   - "przyklady"
   - "warsztat"
-tags: 
+tags:
   - "zarzadzanie-wiedza"
 coverImage: "wiki.jpg"
 ---
@@ -42,7 +42,7 @@ Pozwoliliśmy sobie również wybrać coś dla Was i zaproponować mały zestawi
 - Dla kota - [rybki](http://theaquariumwiki.com/Main_Page),
 - I jednak dla psa - wbrew przysłowiu - [Kiełbasa Wiki](http://pl.kielbasa.wikia.com/wiki/Kie%C5%82basa_Wiki) (!?!)
 
- 
+
 
 A jeżeli chcecie zostać tylko przy starej, dobrej Wikipedii - [10 trików, które pomogą Wam korzystać z niej jeszcze efektywniej i przyjemniej](http://fieldguide.gizmodo.com/10-tricks-to-make-yourself-a-wikipedia-master-1619294690).
 

@@ -1,10 +1,10 @@
 ---
 title: "Konferencja Knowledge Management Solutions"
 date: "2014-10-03"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "knowledge-base"
   - "konferencje"
   - "zarzadzanie-wiedza"

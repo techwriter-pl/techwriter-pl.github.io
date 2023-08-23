@@ -1,10 +1,10 @@
 ---
 title: "KTLC 2022 już wkrótce"
 date: "2022-09-02"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "konferencje"
   - "spolecznosc"
   - "tlumaczenia"
@@ -17,7 +17,7 @@ Kolejny raz, z wielką przyjemnością, zapraszamy Was na rodzime wydarzenie, kt
 
 KTLC to skrót, który powstał z połączenia dwóch wydarzeń ery “przed pandemią” czyli Konferencji Tłumaczy oraz Translation and Localization Conference. Według organizatorów, to największe wydarzenie w branży tłumaczeniowej w Polsce. Konferencja jest przede wszystkim skierowana do tłumaczy ustnych i pisemnych, tłumaczy przysięgłych, przedstawicieli biur tłumaczeń, kierowników projektów, pracowników instytucji publicznych, akademików i specjalistów od narzędzi wspomagania tłumaczeń oraz technologii tłumaczeniowych. Jednak nie tylko osoby z branży tłumaczeniowej są mile widziane na konferencji. Jest ona także otwarta dla przedstawicieli przemysłu gier, uznanych językoznawców, specjalistów od prowadzenia biznesu, prawników, a nawet pisarzy.
 
-Rok 2022 to dla KTLC rok szczególny. Po ośmiu latach organizowania konferencji w hotelowych murach i dwóch latach spotkań wyłącznie po dwóch stronach ekranu organizatorzy podjęli nowe wyzwanie: chcą połączyć świat wirtualny i realny w jedną konferencję hybrydową. 
+Rok 2022 to dla KTLC rok szczególny. Po ośmiu latach organizowania konferencji w hotelowych murach i dwóch latach spotkań wyłącznie po dwóch stronach ekranu organizatorzy podjęli nowe wyzwanie: chcą połączyć świat wirtualny i realny w jedną konferencję hybrydową.
 
 Niezależnie od tego, czy wybierzecie uczestnictwo online czy spotkanie w Warszawie, czeka na was jedyne w swoim rodzaju wydarzenie: pełne wiedzy i okazji do nawiązania nowych kontaktów – z którego wrócicie pełni zapału i inspiracji do codziennej pracy.
 
@@ -44,29 +44,17 @@ Udział w konferencji i wieczornym networkingu wymaga rejestracji oraz zakupu bi
 Ceny dostępnych biletów:
 
 - ##### NA MIEJSCU Konferencja Tłumaczy + Translation and Localization Conference - rejestracja "w ciemno" - 1 225,00 PLN brutto
-    
 - ##### NA MIEJSCU Konferencja Tłumaczy + Translation and Localization Conference - rejestracja "zwykła" - 1 530,00 PLN brutto
-    
 - ##### NA MIEJSCU tylko Konferencja Tłumaczy - rejestracja "zwykła" - 430,00 PLN brutto
-    
 - ##### ONLINE - Konferencja Tłumaczy + Translation and Localization Conference - 855,00 PLN brutto
-    
 - ##### ONLINE - tylko Konferencja Tłumaczy - 270,00 PLN brutto
-    
 - ##### NA MIEJSCU Bilety dla osób z Ukrainy - 1 dzień - 150,00 PLN brutto
-    
 - ##### NA MIEJSCU Bilety dla osób z Ukrainy - 2 dni - 300,00 PLN brutto
-    
 - ##### NA MIEJSCU Bilety dla osób z Ukrainy - 3 dni - 450,00 PLN brutto
-    
 - ##### NA MIEJSCU Gala Dinner (networking) 30 września - rejestracja zwykła - 309,00 PLN brutto
-    
 - ##### NA MIEJSCU Gala Dinner (networking) 30 września - wczesna rejestracja - 279,00 PLN brutto
-    
 - ##### NA MIEJSCU Wieczór networkingowy 1 października - rejestracja zwykła - 159,00 PLN brutto
-    
 - ##### NA MIEJSCU Wieczór networkingowy 1 października - wczesna rejestracja - 139,00 PLN brutto
-    
 
 Szczegóły dotyczące biletów oraz linki do rejestracji znajdziecie [tutaj](https://konferencja-tlumaczy.pl/?page_id=666).
 

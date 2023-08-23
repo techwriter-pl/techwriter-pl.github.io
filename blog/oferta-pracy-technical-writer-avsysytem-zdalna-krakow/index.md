@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical Writer (AVSysytem) - zdalna/Kraków"
 date: "2021-03-31"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "LogoAVSystem.jpg"

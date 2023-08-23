@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical Writer (Intern)"
 date: "2015-04-10"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "dassault.png"

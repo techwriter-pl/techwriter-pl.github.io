@@ -1,10 +1,10 @@
 ---
 title: "Inspiracje dla Technical Writera - dokumentacja online"
 date: "2020-10-02"
-categories: 
+categories:
   - "przyklady"
   - "warsztat"
-tags: 
+tags:
   - "dokumentacja"
   - "manuale"
   - "on-line-help"

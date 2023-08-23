@@ -1,11 +1,11 @@
 ---
 title: "Pisz dla Linode - program stworzony z myślą o freelancerach z branży"
 date: "2020-06-04"
-categories: 
+categories:
   - "oferty-pracy"
   - "przyklady"
   - "warsztat"
-tags: 
+tags:
   - "dokumentacja"
   - "edukacja"
   - "knowledge-base"

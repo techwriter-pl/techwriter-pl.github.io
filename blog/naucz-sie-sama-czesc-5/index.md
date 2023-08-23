@@ -1,11 +1,11 @@
 ---
 title: "Naucz się sam(a) - część 5"
 date: "2014-06-13"
-categories: 
+categories:
   - "dobre-praktyki"
   - "przyklady"
   - "warsztat"
-tags: 
+tags:
   - "edukacja"
   - "jezyk"
   - "kariera"

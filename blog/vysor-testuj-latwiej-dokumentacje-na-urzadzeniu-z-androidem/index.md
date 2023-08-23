@@ -1,10 +1,10 @@
 ---
 title: "Vysor - testuj łatwiej dokumentację na urządzeniu z Androidem"
 date: "2016-07-26"
-categories: 
+categories:
   - "narzedzia"
   - "warsztat"
-tags: 
+tags:
   - "aplikacje"
   - "urzadzenia-mobilne"
 coverImage: "vysor-e1469122845549.jpg"
@@ -50,8 +50,8 @@ Następnie, wykonaj poniższe kroki:
 1. Jeśli jest to potrzebne, zainstaluj sterowniki USB odpowiednie dla Twojego systemu operacyjnego i telefonu.
 2. Na komputerze, otwórz [stronę aplikacji](https://chrome.google.com/webstore/detail/vysor/gidgenkbbabolejbgbpnhbimgjbffefm) w Google Chrome, wybierz **DODAJ DO CHROME**, a następnie potwierdź dodanie aplikacji do przeglądarki.
 3. Na telefonie, otwórz **Ustawienia > Opcje programisty**. Jeśli nie są dostępne, możesz je włączyć w następujący sposób:
-    1. Idź do **Informacje o telefonie** i znajdź **Numer kompilacji**.
-    2. Kliknij szybko 7 razy pod rząd w numer kompilacji. Opcje programisty zostaną włączone.
+   1. Idź do **Informacje o telefonie** i znajdź **Numer kompilacji**.
+   2. Kliknij szybko 7 razy pod rząd w numer kompilacji. Opcje programisty zostaną włączone.
 4. W opcjach programisty, włącz **Debugowanie USB**.
 5. Podłącz telefon kablem USB do komputera i poczekaj aż urządzenie zostanie rozpoznane.
 6. Na komputerze, otwórz Google Chrome i uruchom aplikację Vysor. Do zainstalowanych aplikacji możesz się dostać wpisując adres chrome://apps/.

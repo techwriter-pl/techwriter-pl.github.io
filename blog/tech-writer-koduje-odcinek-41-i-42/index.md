@@ -1,10 +1,10 @@
 ---
 title: "TECH WRITER KODUJE – ODCINEK #41 i #42"
 date: "2022-06-23"
-categories: 
+categories:
   - "przyklady"
   - "warsztat"
-tags: 
+tags:
   - "podcast"
   - "praktyki"
   - "technologie"

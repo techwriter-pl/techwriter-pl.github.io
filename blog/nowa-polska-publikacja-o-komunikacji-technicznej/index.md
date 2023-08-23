@@ -1,10 +1,10 @@
 ---
 title: "Nowa polska publikacja o komunikacji technicznej"
 date: "2020-05-04"
-categories: 
+categories:
   - "biblioteczka-techwritera"
   - "warsztat"
-tags: 
+tags:
   - "kariera"
   - "literatura"
   - "praktyki"

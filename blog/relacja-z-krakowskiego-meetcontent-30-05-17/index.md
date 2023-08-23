@@ -1,10 +1,10 @@
 ---
 title: "Relacja z krakowskiego MeetContent (30.05.17)"
 date: "2017-06-05"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "meetcontent"
 coverImage: "markus-spiske-207946.jpg"
 ---

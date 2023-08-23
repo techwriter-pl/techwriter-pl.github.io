@@ -1,10 +1,10 @@
 ---
 title: "[NIEAKTUALNE] Oferta pracy: Junior Technical Writer"
 date: "2016-10-17"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "3di_logo.png"

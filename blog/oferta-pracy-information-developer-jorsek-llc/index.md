@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Information Developer (Jorsek LLC)"
 date: "2019-05-23"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "jorsek_logo.png"

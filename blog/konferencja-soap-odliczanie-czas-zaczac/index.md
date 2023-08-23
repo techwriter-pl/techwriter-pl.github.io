@@ -1,10 +1,10 @@
 ---
 title: "Konferencja soap! - odliczanie czas zacząć"
 date: "2018-04-30"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "konferencje"
   - "spolecznosc"
 coverImage: "soap2018.jpg"

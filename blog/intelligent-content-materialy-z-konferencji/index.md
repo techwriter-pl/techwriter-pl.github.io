@@ -1,10 +1,10 @@
 ---
 title: "Intelligent Content - materiały z konferencji"
 date: "2014-03-18"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "konferencje"
 coverImage: "IntelligentContent2014.jpg"
 ---
@@ -25,14 +25,14 @@ A poniżej kilka przykładów, które dla Was wybraliśmy:
 
 <iframe style="border-style: solid; border-color: #cccccc; border-bottom-width: 0px; margin-bottom: 5px; max-width: 100%;" src="http://www.slideshare.net/slideshow/embed_code/28453694" height="356" width="427" allowfullscreen frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
-**[Content Saves Lives](https://www.slideshare.net/IntelligentContent/twb-intelligent-content-conference-presentation "Content Saves Lives"):****[](http://www.slideshare.net/IntelligentContent)**
+**[Content Saves Lives](https://www.slideshare.net/IntelligentContent/twb-intelligent-content-conference-presentation "Content Saves Lives"):\*\***[](http://www.slideshare.net/IntelligentContent)\*\*
 
 <iframe style="border: 1px solid #CCC; border-width: 1px 1px 0; margin-bottom: 5px; max-width: 100%;" src="http://www.slideshare.net/slideshow/embed_code/16985311" height="356" width="427" allowfullscreen frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
-**[Dita for Marketing Content](https://www.slideshare.net/IntelligentContent/dita-for-marketing-content "Dita for Marketing Content"):****[](http://www.slideshare.net/IntelligentContent)**
+**[Dita for Marketing Content](https://www.slideshare.net/IntelligentContent/dita-for-marketing-content "Dita for Marketing Content"):\*\***[](http://www.slideshare.net/IntelligentContent)\*\*
 
 <iframe style="border: 1px solid #CCC; border-width: 1px 1px 0; margin-bottom: 5px; max-width: 100%;" src="http://www.slideshare.net/slideshow/embed_code/32412507" height="356" width="427" allowfullscreen frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
-**[Content Engineering at Nikon: How They Do That](https://www.slideshare.net/IntelligentContent/content-engineering-at-nikon-how-they-do-that "Content Engineering at Nikon: How They Do That"):****[](http://www.slideshare.net/IntelligentContent)**
+**[Content Engineering at Nikon: How They Do That](https://www.slideshare.net/IntelligentContent/content-engineering-at-nikon-how-they-do-that "Content Engineering at Nikon: How They Do That"):\*\***[](http://www.slideshare.net/IntelligentContent)\*\*
 
 <iframe style="border: 1px solid #CCC; border-width: 1px 1px 0; margin-bottom: 5px; max-width: 100%;" src="http://www.slideshare.net/slideshow/embed_code/31964552" height="356" width="427" allowfullscreen frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>

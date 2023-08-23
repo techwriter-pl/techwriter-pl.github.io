@@ -1,7 +1,7 @@
 ---
 title: "Warsztaty organizowane przez soap!"
 date: "2016-04-28"
-categories: 
+categories:
   - "news"
   - "z-kraju"
 coverImage: "edusummit-long-09-09.jpg"

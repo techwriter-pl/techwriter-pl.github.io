@@ -1,11 +1,11 @@
 ---
 title: "Podstawy podstaw - dekalog techwritera/techwriterki"
 date: "2021-03-16"
-categories: 
+categories:
   - "biblioteczka-techwritera"
   - "dobre-praktyki"
   - "przyklady"
-tags: 
+tags:
   - "dokumentacja"
   - "edukacja"
   - "materialy-szkoleniowe"

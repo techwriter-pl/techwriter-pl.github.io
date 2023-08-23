@@ -1,10 +1,10 @@
 ---
 title: "OFERTA PRACY: TECHNICAL WRITER (PARASOFT) – PRACA ZDALNA"
 date: "2021-11-08"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "parasoft.png"
@@ -18,7 +18,7 @@ Aktualnie firma poszukuje samodzielnego technical writera, który dołączy do s
 
 Osoby zainteresowane mogą aplikować poprzez formularz zgłoszeniowy zamieszczony przy [ogłoszeniu na stronie firmy](https://www.parasoft.com/company/career/technical-writer/) lub przez przesłanie oferty bezpośrednio na email: [praca@parasoft.com](mailto:praca@parasoft.com).
 
-* * *
+---
 
 ## Technical Writer - Poland, Remote
 
@@ -58,6 +58,6 @@ We are seeking a self-driven technical writer to join our fast-moving Developmen
 - Fruit or snacks in the office.
 - Friendly atmosphere and individual approach to each employee.
 
-* * *
+---
 
 Powodzenia!

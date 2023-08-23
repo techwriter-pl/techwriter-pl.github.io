@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical Writer Intern (Wrocław)"
 date: "2019-04-28"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
   - "praktyki"

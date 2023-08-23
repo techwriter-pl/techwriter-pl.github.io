@@ -1,10 +1,10 @@
 ---
 title: "Doniesienia z tegorocznej konferencji Soap 2022!"
 date: "2022-07-17"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "edukacja"
   - "kariera"
   - "konferencje"
@@ -59,7 +59,7 @@ _"Don't Fear Skynet: Using Artificial Intelligence in the Writing Process"_, pro
 
 Podczas warsztatów uczestnicy poznali narzędzie do pisania w formacie AI,  [Open AI](https://openai.com/api/) i mieli szansę samodzielnie je przetestować. Bez wątpienia takie rozwiązanie może pomóc w generowaniu pomysłów oraz treści, zwłaszcza gdy tech writerowi brakuje weny twórczej lub gdy poszukuje alternatywnych pomysłów na tworzenie treści.
 
-Na warsztatach _"Japanese calligraphy"_ poprowadzonych przez [Olgę Podsiadło](https://www.linkedin.com/in/olga-podsiad%C5%82o-969420225/) uczestnicy mieli okazję zdobyć podstawową wiedzę na temat kaligrafii japońskiej oraz przećwiczyć pisanie kilku zestawów kanji pod okiem prowadzącej. Całkiem ciekawe doświadczenie, zwłaszcza dla osób leworęcznych ;) .
+Na warsztatach *"Japanese calligraphy"* poprowadzonych przez [Olgę Podsiadło](https://www.linkedin.com/in/olga-podsiad%C5%82o-969420225/) uczestnicy mieli okazję zdobyć podstawową wiedzę na temat kaligrafii japońskiej oraz przećwiczyć pisanie kilku zestawów kanji pod okiem prowadzącej. Całkiem ciekawe doświadczenie, zwłaszcza dla osób leworęcznych ;) .
 
 A jeśli jesteście ciekawi, jakie były pozostałe tematy, zajrzyjcie [tutaj](https://soapconf.com/workshops-schedule/). Może ktoś z Was chciałby się podzielić swoimi doświadczeniami?
 
@@ -116,9 +116,9 @@ A jeśli chcecie wiedzieć co jest ważne, warto zwrócić uwagę na trzy aspekt
 ''Why simple is smart''
 
 > Smart people respect simple language not because simple words are easy, but because expressing interesting ideas in small words takes a lot of work.
-> 
->  
-> 
+>
+>
+>
 > Derek Thompson
 
 Jeśli chcecie wiedzieć więcej o STE zajrzyjcie [tutaj](http://techwriter.pl/simplified-technical-english-ste-jak-go-uzywac-w-praktyce/)!
@@ -143,7 +143,7 @@ Co zostało poprawione? Oto kilka praktycznych usprawnień:
 
 - opracowanie spójnej struktury kursu i wprowadzenie nowego szablonu prezentowania informacji - zgodnie z wytycznymi dotyczącymi marki, metodologii projektowania instruktażowego,
 - poprawa funkcjonowania platformy szkoleniowej - ciągłości działania platformy, zapewnienie stabilności, stworzenie backupu w celu zapewnienia ciągłości, aby treści były dostarczane z mniejszym opóźnieniem. Jeśli podstawowa platforma zawiodła, przydatna była kopia zapasowa,
-- zastosowanie [facilitatora](https://en.wikipedia.org/wiki/Facilitation_(business)) i systemu walidacji - przy dużej liczbie uczestników prowadzenie warsztatów i udzielanie odpowiedzi na wszystkie pytania było problematyczne, dzięki wprowadzeniu facilitatora udało się, na przykład przeprowadzać konfigurację na potrzeby użytkownika i rozwiązywać proste problemy,
+- zastosowanie [facilitatora](<https://en.wikipedia.org/wiki/Facilitation_(business)>) i systemu walidacji - przy dużej liczbie uczestników prowadzenie warsztatów i udzielanie odpowiedzi na wszystkie pytania było problematyczne, dzięki wprowadzeniu facilitatora udało się, na przykład przeprowadzać konfigurację na potrzeby użytkownika i rozwiązywać proste problemy,
 - wprowadzenie lokalizacji i zwiększenie dostępności szkoleń dla różnych stref czasowych - ze względu na duże zainteresowanie uczestników treningami.
 
 Jakie były korzyści z zastosowania e-learningu w firmie?
@@ -157,7 +157,7 @@ Z kolei wykład [_"Why eLearning ISN'T the future of education"_](https://www.yo
 
 [![](images/cartoon.jpg)](http://techwriter.pl/wp-content/uploads/2022/07/cartoon.jpg)
 
-  Do kwestii, które w przeważającej liczbie przypadków są wadami można zaliczyć:
+Do kwestii, które w przeważającej liczbie przypadków są wadami można zaliczyć:
 
 - niektórzy uczniowie mogą mieć problemy ze znalezieniem odpowiedzi na swoje pytania, mogą nie wiedzieć, jak korzystać z zasobów nowych technologii,
 - poniesione wydatki związane z wdrożeniem systemu zdalnego nauczania - wiążą się z koniecznością dokonania zakupu określonego sprzętu, oprogramowania, również koszt opracowania konkretnego kursu jest większy niż w tradycyjnej metodzie,
@@ -179,7 +179,7 @@ Nie spoczywajcie na laurach, poszerzajcie swoją wiedzę, rozwijajcie się, dost
 
 Jednym z powodów dla których cenię konferencję soap! jest to, że w trakcie każdej edycji można zapoznać się z przykładami ciekawych rozwiązań problemów, które trapią firmy sektora IT. Sam dobrze pamiętam wyzwania jakim musiałem stawiać czoła, gdy tworzyłem materiały treningowe i _online help_ dla dynamicznie zmieniającej się platformy. Posłuchajcie o tym, jak poradził sobie z tym Tomek Nowicki z Akamai, specjalista IT i trener techniczny, mogący się pochwalić 15-letnim doświadczeniem w rozmaitych rolach takich jak Technical Project Manager i Technical Enablement Architect (osoba odpowiedzialna za architekturę i utrzymanie środowisk testowych dla klientów, z angielska _sandboxes_).
 
-Firma Akamai pośredniczy w dostarczaniu treści przez internet (_Content Delivery Network)._ Dostarcza ona rozwiązania z dziedziny bezpieczeństwa sieciowego (W_eb Security)_ i wydajności (_Web Performance_). Użytkownicy wewnątrz firmy i klienci zewnętrzni potrzebują pozyskiwać wiedzę na temat ciągle rozwijanej platformy. Otrzymują oni możliwość zastosowania tej wiedzy w praktyce, w kontrolowanych, bezpiecznych warunkach środowiska treningowego opartego o rozwiązania chmurowe.
+Firma Akamai pośredniczy w dostarczaniu treści przez internet (_Content Delivery Network)._ Dostarcza ona rozwiązania z dziedziny bezpieczeństwa sieciowego (W*eb Security)* i wydajności (_Web Performance_). Użytkownicy wewnątrz firmy i klienci zewnętrzni potrzebują pozyskiwać wiedzę na temat ciągle rozwijanej platformy. Otrzymują oni możliwość zastosowania tej wiedzy w praktyce, w kontrolowanych, bezpiecznych warunkach środowiska treningowego opartego o rozwiązania chmurowe.
 
 Dzięki postępom w dziedzinie wytwarzania oprogramowania takim jak [_continuous_](https://thecamels.org/continuous-integration-continuous-delivery-oraz-continuous-deployment/) [_delivery_](https://thecamels.org/continuous-integration-continuous-delivery-oraz-continuous-deployment/) i [Dev Ops](https://pl.wikipedia.org/wiki/DevOps), współcześnie tworzone produkty aktualizowane są, w krótkich odstępach czasu a interfejs użytkownika często się zmienia. Jak upewnić się, że zarówno technical writerzy jak i odbiorcy ich materiałów szkoleniowych nadążają za wprowadzanymi zmianami? Odpowiedzią na to jest podejście _training-as-code,_ w którym tworzone treści traktowane są w podobny sposób jak kod tworzący współczesne produkty.
 
@@ -208,7 +208,7 @@ Nie bójcie się robić lepiej :)
 
 [Anu Granroth](https://www.linkedin.com/in/anugranroth/) działa w branży tech comm już 20 lat. Założyła własną firmę specjalizującą się w komunikacji technicznej. Obecnie realizuje się jako Senior Project Manager w Etteplan Finland Oy (skądinąd jest to firma, w której pracuje współautorka artykułu - Martyna :) ). Jej specjalnością jest opracowywanie uporządkowanej, modułowej struktury dla dokumentacji (np.: w DITA).
 
-W swojej prelekcji _["Modularizing content in a crazy schedule"](https://youtu.be/PpBz5teFJUQ)_ podzieliła się historią niezwykłego projektu, w którym brała udział. Anu niejeden raz określiła tę inicjatywę jako _horrible_ (okropną) i _doomed to fail_ (skazaną na porażkę) i trudno się z nią nie zgodzić.
+W swojej prelekcji *["Modularizing content in a crazy schedule"](https://youtu.be/PpBz5teFJUQ)* podzieliła się historią niezwykłego projektu, w którym brała udział. Anu niejeden raz określiła tę inicjatywę jako _horrible_ (okropną) i _doomed to fail_ (skazaną na porażkę) i trudno się z nią nie zgodzić.
 
 Opowieść można zaklasyfikować jako dreszczowiec dla technical writera. Zleceniodawcą jest start-up a produktem są smartfony na licencji Nokii. Wyobraźcie sobie, że dostajecie projekt na stworzenie instrukcji w formie online help i PDF, macie masę istniejącej treści w MsWord do ponownego wykorzystania, a w rezultacie ma powstać 50 wersji językowych. Macie na to niewiele ponad pół roku: od ustalenia wymagań po publikację. Pierwszego miesiąca ustalacie wymagania, następnego musicie już wybrać narzędzie, z którego będziecie korzystać przez następnych kilka emocjonujących miesięcy.
 

@@ -1,10 +1,10 @@
 ---
 title: "Wszystko już było..."
 date: "2013-10-01"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "praca"
   - "spolecznosc"
 coverImage: "ksiazki.jpg"

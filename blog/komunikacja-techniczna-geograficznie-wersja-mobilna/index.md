@@ -1,10 +1,10 @@
 ---
 title: "Komunikacja techniczna geograficznie - wersja mobilna"
 date: "2016-03-01"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "aplikacje"
   - "konferencje"
   - "spolecznosc"

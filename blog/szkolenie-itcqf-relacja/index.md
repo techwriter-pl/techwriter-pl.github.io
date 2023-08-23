@@ -1,12 +1,12 @@
 ---
 title: "Szkolenie ITCQF - relacja"
 date: "2015-09-15"
-categories: 
+categories:
   - "news"
   - "dobre-praktyki"
   - "warsztat"
   - "z-kraju"
-tags: 
+tags:
   - "edukacja"
   - "szkolenia"
 coverImage: "itcqf_logo_black-e1442054514270.jpg"
@@ -47,6 +47,6 @@ A jeśli chodzi o pytanie, czy warto? Przychylam się do opinii kolegi - zależy
 
 Warto też zastanowić się nad samym certyfikatem, który dostajemy po pomyślnym przejściu egzaminu. Pomimo tego, że na tą chwilę ITCQF nie jest "rozpoznawalną marką", to jednak posiadanie takiego certyfikatu może być wartościową pozycją w CV. Pracodawca (czy to obecny czy potencjalny) na pewno nie będzie od razu wiedział co to oznacza, jednak zainteresowany samą nazwą certyfikatu, może sięgnąć do dostępnych informacji na jego temat i po pierwsze zobaczyć, że egzamin przeprowadza organizacja o ugruntowanej pozycji, a po drugie zobaczyć zakres szkolenia, które obejmuje główne zagadnienia komunikacji technicznej. Będzie to dla niego informacja, że przeszkolona osoba zdecydowanie sprawniej porusza się po świecie dokumentacji i że nie trzeba jej tłumaczyć czym się tak naprawdę zajmuje Tech Writer. Brzmi może dość banalnie, jednak świadomość na temat naszego zawodu w Polsce jest nadal niedostateczna, a ten certyfikat jest jak najbardziej krokiem ku lepszemu.
 
-  Udało nam się dowiedzieć, że twórcy szkolenia bardzo poważnie podeszli do opinii zebranych od uczestników i już ostro zabrali się za poprawę materiałów (przykładów, ćwiczeń, slajdów i quizów).
+Udało nam się dowiedzieć, że twórcy szkolenia bardzo poważnie podeszli do opinii zebranych od uczestników i już ostro zabrali się za poprawę materiałów (przykładów, ćwiczeń, slajdów i quizów).
 
 Na koniec pragniemy poinformować, że wciąż są wolne miejsca na szkolenie w dniach 24-25 września i że nadal można dostać **500 zł zniżki** na hasło **TECHWRITER.PL**.

@@ -1,10 +1,10 @@
 ---
 title: "Konferencje 2022 - pierwsze półrocze"
 date: "2022-01-10"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "edukacja"
   - "kariera"
   - "konferencje"

@@ -1,10 +1,10 @@
 ---
 title: "Simplified Technical English - wprowadzenie"
 date: "2020-08-28"
-categories: 
+categories:
   - "dobre-praktyki"
   - "warsztat"
-tags: 
+tags:
   - "ste"
   - "dokumentacja"
   - "praktyki"

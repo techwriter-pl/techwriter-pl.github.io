@@ -1,10 +1,10 @@
 ---
 title: "Sprytna małpka"
 date: "2014-04-22"
-categories: 
+categories:
   - "narzedzia"
   - "warsztat"
-tags: 
+tags:
   - "aplikacje"
 coverImage: "monkeys-typing.jpg"
 ---
@@ -17,7 +17,7 @@ WriteMonkey to aplikacja przenośna dla Windowsa. Do działania wymaga właściw
 
 Po ściągnięciu aplikacji, wystarczy ją rozpakować i uruchomić. Nie mogłoby być chyba prościej. Po odpaleniu, program wyświetla schludny ekran powitalny, na którym widzimy losowo wybraną maksymę, np. "I can handle pain until it hurts" :) Ciekawy akcent, który umila (bardzo krótkie) oczekiwanie. Po zamknięciu ekranu powitalnego, jawi się przed nami pusta strona wyświetlona na całym ekranie. Nic poza tym. Żadnych przycisków, pasków czy skrótów. Chyba bardziej "distraction-free" już się nie da :) Ale nie dajmy się oszukać. WriteMonkey to takie Cinquecento z silnikiem 100 KM. Na zewnątrz nic specjalnego, ale w środku drzemie mała bestia. Wszelkie opcje jakie mamy do dyspozycji kryją się pod prawym przyciskiem myszy. Jest ich całkiem sporo, ale menu jest przejrzyste i czytelne. Skupię się na tych, które przykuły moją uwagę.
 
-Program pozwala zapisywać pliki do formatu TXT. Dodatkowo oferuje wsparcie dla takich języków znaczników jak [Markdown Extra](http://en.wikipedia.org/wiki/Markdown_Extra), [Textile](http://en.wikipedia.org/wiki/Textile_(markup_language)) czy [WikiCreole](http://en.wikipedia.org/wiki/Creole_(markup)).  Wspomniane wsparcie to przede wszystkim możliwość eksportu do HTMLa i DOCa. Żeby móc eksportować do DOCa trzeba mieć zainstalowany jakiś program obsługujący ten format. Jeśli nie mamy akurat Worda, to można skorzystać z czegoś darmowego, np. LibreOffice Writera. Eksport wspiera szablony CSS, dzięki czemu wyprodukowane dokumenty są naprawdę estetyczne. Domyślnie aplikacja wyposażona jest w całkiem przyzwoitą kolekcję, którą można rozszerzyć ściągając dodatkowe szablony. Według mnie, wbudowany generator to najciekawsza funkcja WriteMonkey. Na tą chwilę nie znalazłem drugiego edytora dla Markdowna, który oferuje coś takiego "z marszu".
+Program pozwala zapisywać pliki do formatu TXT. Dodatkowo oferuje wsparcie dla takich języków znaczników jak [Markdown Extra](http://en.wikipedia.org/wiki/Markdown_Extra), [Textile](<http://en.wikipedia.org/wiki/Textile_(markup_language)>) czy [WikiCreole](<http://en.wikipedia.org/wiki/Creole_(markup)>).  Wspomniane wsparcie to przede wszystkim możliwość eksportu do HTMLa i DOCa. Żeby móc eksportować do DOCa trzeba mieć zainstalowany jakiś program obsługujący ten format. Jeśli nie mamy akurat Worda, to można skorzystać z czegoś darmowego, np. LibreOffice Writera. Eksport wspiera szablony CSS, dzięki czemu wyprodukowane dokumenty są naprawdę estetyczne. Domyślnie aplikacja wyposażona jest w całkiem przyzwoitą kolekcję, którą można rozszerzyć ściągając dodatkowe szablony. Według mnie, wbudowany generator to najciekawsza funkcja WriteMonkey. Na tą chwilę nie znalazłem drugiego edytora dla Markdowna, który oferuje coś takiego "z marszu".
 
 Przydatną funkcją jest możliwość przełączenia się w tryb brudnopisu. Piszemy sobie i nagle przychodzi nam do głowy złota myśl na później, której nie chcielibyśmy zgubić. Naciskamy F5 i nasza "kartka" przechodzi w tryb brudnopisu o czym informuje nas słowo "Rep" na dole. Myśl zapisana, naciskamy ponownie F5 i wracamy do pracy nad naszym dziełem.
 

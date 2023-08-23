@@ -1,10 +1,10 @@
 ---
 title: "Oferta pracy: Technical Writer (Betting Connections, Malta)"
 date: "2019-02-27"
-categories: 
+categories:
   - "oferty-pracy"
   - "praca"
-tags: 
+tags:
   - "kariera"
   - "praca"
 coverImage: "BC-Logo.png"

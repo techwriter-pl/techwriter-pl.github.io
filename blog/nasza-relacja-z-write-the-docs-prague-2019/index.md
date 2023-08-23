@@ -1,10 +1,10 @@
 ---
 title: "Relacja z Write The Docs Prague 2019"
 date: "2019-10-09"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "konferencje"
   - "spolecznosc"
 coverImage: "Konferencja-Write-The-Docs-2019-e1570607083973.jpg"
@@ -76,7 +76,7 @@ Co dalej?
 
 Polecam odwiedzić oficjalną stronę [WriteTheDocs.org](https://www.writethedocs.org/), na której znajdziecie masę ciekawych artykułów, materiałów mówiących o tym, jak pisać, jakich narzędzi używać, itd. Zachęcam również do zapisania się na newsletter, który w skróconej wersji podsumowuje wątki omawiane przez WriteTheDocs Community.
 
-* * *
+---
 
 Od redakcji: **Serdecznie dziękujemy Rafale! :) Za zdjęcia również!**
 

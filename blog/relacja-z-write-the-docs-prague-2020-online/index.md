@@ -1,10 +1,10 @@
 ---
 title: "Relacja z Write the Docs Prague 2020 online"
 date: "2020-11-12"
-categories: 
+categories:
   - "news"
   - "ze-swiata"
-tags: 
+tags:
   - "dokumentacja"
   - "edukacja"
   - "konferencje"
@@ -42,7 +42,7 @@ W głowie najbardziej zapadło mi kilka wystąpień, którymi chciałabym (w imi
 
 ## Czy osoba tworząca graffiti ma coś wspólnego z technical writerem?
 
-[Kruno Golubić](https://onthegosystems.com/team/kruno-golubic/)  w swoim  wystąpieniu _["From Graffiti Writer to Technical Writer"](https://youtu.be/HnK_DmUMo-M)_ opowiedział o tym jak został technical writerem. Wskazał podobieństwa i różnice między graffiti writerem a technical writerem.  Na pewno mają wspólny cel, którym jest produkt końcowy. Czasem drogi wcielenia projektu w życie mogą być rożne, dlatego ważne jest aby umieć korzystać z dostępnych zasobów i współpracować z innymi, aby móc wykonać zadnie 😊.
+[Kruno Golubić](https://onthegosystems.com/team/kruno-golubic/)  w swoim  wystąpieniu *["From Graffiti Writer to Technical Writer"](https://youtu.be/HnK_DmUMo-M)* opowiedział o tym jak został technical writerem. Wskazał podobieństwa i różnice między graffiti writerem a technical writerem.  Na pewno mają wspólny cel, którym jest produkt końcowy. Czasem drogi wcielenia projektu w życie mogą być rożne, dlatego ważne jest aby umieć korzystać z dostępnych zasobów i współpracować z innymi, aby móc wykonać zadnie 😊.
 
 [![](images/20201031_232904-1024x504.jpg)](http://techwriter.pl/wp-content/uploads/2020/11/20201031_232904.jpg)
 
@@ -50,7 +50,7 @@ To dobra inspiracja zwłaszcza dla osób chcących rozpocząć swoja przygodę z
 
 ## Dlaczego analiza danych i komentarze od klienta są potrzebne?
 
-Bardzo ciekawe wystąpienie [Karissy Van Baulen](https://www.linkedin.com/in/karissavb/) -["The Importance of Using Analytics and Feedback for your Documentation"](https://youtu.be/EkPU2afWPDA)_._ Karissa opowiedziała na jakie dane liczbowe należy zwrócić uwagę, aby dowiedzieć się czy Wasza dokumentacja jest użyteczna. Poprzez użycie prostych narzędzi można sprawdzić czy dokument jest czytelny albo gdzie poruszanie się po nim sprawia trudność użytkownikowi. Użycie danych statystycznych i uzyskanie odpowiedzi od klienta czy też użytkownika, pomoże w ulepszeniu dokumentacji, zaoszczędzi czas i pieniądze.
+Bardzo ciekawe wystąpienie [Karissy Van Baulen](https://www.linkedin.com/in/karissavb/) -["The Importance of Using Analytics and Feedback for your Documentation"](https://youtu.be/EkPU2afWPDA)*.* Karissa opowiedziała na jakie dane liczbowe należy zwrócić uwagę, aby dowiedzieć się czy Wasza dokumentacja jest użyteczna. Poprzez użycie prostych narzędzi można sprawdzić czy dokument jest czytelny albo gdzie poruszanie się po nim sprawia trudność użytkownikowi. Użycie danych statystycznych i uzyskanie odpowiedzi od klienta czy też użytkownika, pomoże w ulepszeniu dokumentacji, zaoszczędzi czas i pieniądze.
 
 Ma to sens? Może warto się nad tym zastanowić 🤔?
 
@@ -61,7 +61,7 @@ Ma to sens? Może warto się nad tym zastanowić 🤔?
 Należy pamiętać, że nie zawsze wiadomo kto jest odbiorcą dokumentacji. Może okazać się, że ta osoba nie dysponuje takim poziomem wiedzy jak Wy. I tutaj kilka podstawowych zasad, którymi warto się kierować:
 
 - Wytłumacz specjalistyczne albo bardzo techniczne znaczenie wyrazów (żargon)
--  Opisz znaczenie skrótowców (akronimów)
+- Opisz znaczenie skrótowców (akronimów)
 - Używaj przykładów, które w praktyczny sposób przybliża nam dane zagadnienie
 - Unikaj metafor, które mogą zaprowadzić naszego czytelnika nie tam gdzie trzeba lub wprowadzić w błąd.
 
@@ -94,10 +94,10 @@ Podstawowe parametry procesu to:
 
 [![](images/20201031_225909-1024x566.jpg)](http://techwriter.pl/wp-content/uploads/2020/11/20201031_225909.jpg)
 
-- Modułowość _-_ zapisywanie plików tak, aby można było je łatwo edytować. Ważne jest aby ocenić nad czym można już pracować przed _releasem_ oraz czy pliki i narzędzia są dostępne dla wszystkich osób zaangażowanych w prace nad danym wideo.
-- Mierzalność _-_ warto zwrócić uwagę ile i jakie multimedia można stworzyć lub zaktualizować. Ile zajmuje to czasu? Czy jest to konieczne? Zebrane dane pomogą Wam odpowiedzieć na te pytania i zaplanować zasoby i czas przeznaczony na wykonanie zadania.
+- Modułowość *-* zapisywanie plików tak, aby można było je łatwo edytować. Ważne jest aby ocenić nad czym można już pracować przed _releasem_ oraz czy pliki i narzędzia są dostępne dla wszystkich osób zaangażowanych w prace nad danym wideo.
+- Mierzalność *-* warto zwrócić uwagę ile i jakie multimedia można stworzyć lub zaktualizować. Ile zajmuje to czasu? Czy jest to konieczne? Zebrane dane pomogą Wam odpowiedzieć na te pytania i zaplanować zasoby i czas przeznaczony na wykonanie zadania.
 - Elastyczność - pomoże zaplanować prace każdego członka zespołu w zależności od potrzeb projektu. Czasem oprócz prac nad multimediami członkowie zespołu mogą wykonywać inne zadania.
-- Szczegółowość _-_ stworzony _guideline_, który będzie prowadził i podpowiadał jakich czcionek, kolorów używać, jaki przybrać ton głosu. Może warto nagrać jak mają wyglądać i brzmieć multimedia i przygotować materiały pomocnicze dla zespołu.
+- Szczegółowość *-* stworzony _guideline_, który będzie prowadził i podpowiadał jakich czcionek, kolorów używać, jaki przybrać ton głosu. Może warto nagrać jak mają wyglądać i brzmieć multimedia i przygotować materiały pomocnicze dla zespołu.
 
 ## Czy ta strona budzi Twoją radość?
 

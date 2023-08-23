@@ -1,10 +1,10 @@
 ---
 title: "Wesołych Świąt!"
 date: "2013-12-20"
-categories: 
+categories:
   - "news"
   - "z-przymruzeniem-oka"
-tags: 
+tags:
   - "humor"
   - "infografiki"
 coverImage: "WesolychSwiat.jpg"
@@ -18,7 +18,7 @@ A w prezencie dla wszystkich wiernych i niewiernych czytelników - dwa linki z n
 
 [Postanowienia noworoczne w statystyce](http://visual.ly/most-common-and-most-commonly-broken-new-years-resolution)
 
- 
+
 
 A na koniec krótkie (_less is more_), świąteczno-noworoczne życzenia dla Was, od całej redakcji:
 

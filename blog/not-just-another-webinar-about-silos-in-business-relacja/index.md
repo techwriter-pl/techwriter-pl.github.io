@@ -1,11 +1,11 @@
 ---
 title: "Not just another webinar about silos in business - relacja"
 date: "2014-02-04"
-categories: 
+categories:
   - "news"
   - "z-kraju"
   - "ze-swiata"
-tags: 
+tags:
   - "praca"
   - "spolecznosc"
   - "webinarium"

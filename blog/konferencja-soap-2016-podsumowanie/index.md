@@ -1,10 +1,10 @@
 ---
 title: "Konferencja soap! 2016 - podsumowanie"
 date: "2016-06-22"
-categories: 
+categories:
   - "news"
   - "z-kraju"
-tags: 
+tags:
   - "konferencje"
   - "spolecznosc"
 coverImage: "soapconf2016_techwriterpl-1.jpg"
@@ -106,9 +106,7 @@ Poniżej trochę twardych faktów:
 
 - Liczba uczestników pierwszego dnia: 220
 - Liczba uczestników drugiego dnia: 125
-    
 - Liczba warsztatów: 5
-    
 - Liczba prezentacji: 17
 
 Spotkaliśmy gości z następujących krajów: Polska, Anglia, Niemcy, Czechy, Ukraina, Rosja, Kanada, Finlandia, Irlandia, Hiszpania, Włochy, Kazachstan, USA.
