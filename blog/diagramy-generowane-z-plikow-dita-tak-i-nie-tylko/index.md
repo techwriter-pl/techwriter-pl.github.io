@@ -1,12 +1,11 @@
 ---
 title: "Diagramy generowane z plików DITA? Tak! I nie tylko..."
 date: "2017-09-27"
-categories:
+tags:
   - "dobre-praktyki"
   - "narzedzia"
   - "przyklady"
   - "warsztat"
-tags:
   - "aplikacje"
   - "automatyzacja"
   - "dita"

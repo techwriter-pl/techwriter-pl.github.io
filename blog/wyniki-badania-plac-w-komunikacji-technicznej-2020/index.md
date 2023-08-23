@@ -1,10 +1,9 @@
 ---
 title: "Wyniki badania płac w komunikacji technicznej 2020"
 date: "2020-06-23"
-categories:
+tags:
   - "badanie-plac"
   - "praca"
-tags:
   - "ankieta"
   - "kariera"
   - "praca"

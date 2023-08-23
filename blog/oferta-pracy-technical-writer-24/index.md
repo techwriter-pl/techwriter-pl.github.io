@@ -1,10 +1,9 @@
 ---
 title: "Oferta pracy: Technical Writer"
 date: "2017-06-16"
-categories:
+tags:
   - "oferty-pracy"
   - "praca"
-tags:
   - "kariera"
   - "praca"
 coverImage: "spartez_logo.png"
@@ -12,11 +11,17 @@ coverImage: "spartez_logo.png"
 
 Może w tym roku zamiast wakacji nad morzem wolicie pracę nad morzem?
 
-Firma [Spartez](https://spartez.com/) z siedzibą w Gdańsku, zajmująca się rozwijaniem produktów firmy [Atlassian](https://www.atlassian.com/), poszukuje kolejnego (trzeciego już) Technical Writera.
+Firma [Spartez](https://spartez.com/) z siedzibą w Gdańsku, zajmująca się
+rozwijaniem produktów firmy [Atlassian](https://www.atlassian.com/), poszukuje
+kolejnego (trzeciego już) Technical Writera.
 
-Stanowisko dostępne od zaraz. Dla kandydatów z innych części Polski, firma przewiduje pakiet relokacyjny.
+Stanowisko dostępne od zaraz. Dla kandydatów z innych części Polski, firma
+przewiduje pakiet relokacyjny.
 
-Szczegółowe informacje dotyczące oferty pracy znajdziecie poniżej (kliknijcie w obrazek, żeby go wyświetlić w pełnej rozdzielczości) albo [bezpośrednio u źródła](https://spartez.com/careers/technical-writer) (w pełnej krasie graficznej i z przyciskiem do aplikowania).
+Szczegółowe informacje dotyczące oferty pracy znajdziecie poniżej (kliknijcie w
+obrazek, żeby go wyświetlić w pełnej rozdzielczości) albo
+[bezpośrednio u źródła](https://spartez.com/careers/technical-writer) (w pełnej
+krasie graficznej i z przyciskiem do aplikowania).
 
 Powodzenia!
 

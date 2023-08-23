@@ -1,7 +1,7 @@
 ---
 title: "100!"
 date: "2015-07-16"
-categories:
+tags:
   - "news"
 coverImage: "twlike.jpg"
 ---

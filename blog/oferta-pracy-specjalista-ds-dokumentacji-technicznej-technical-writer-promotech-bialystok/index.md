@@ -1,22 +1,37 @@
 ---
-title: "Oferta pracy: Specjalista ds. dokumentacji Technicznej / Technical Writer (Promotech) - Białystok"
+title:
+  "Oferta pracy: Specjalista ds. dokumentacji Technicznej / Technical Writer
+  (Promotech) - Białystok"
 date: "2021-12-08"
-categories:
+tags:
   - "oferty-pracy"
   - "praca"
-tags:
   - "kariera"
   - "praca"
 coverImage: "promotech.png"
 ---
 
-Firma PROMOTECH poszukuje technical writera z doświadczeniem w pisaniu instrukcji obsługi maszyn. Może to właśnie Ty? Szczegóły poniżej.
+Firma PROMOTECH poszukuje technical writera z doświadczeniem w pisaniu
+instrukcji obsługi maszyn. Może to właśnie Ty? Szczegóły poniżej.
 
-Firma PROMOTECH od wielu lat rozwija i wdraża zaawansowane technologie, by wyprzedzać i w pełni zaspokajać potrzeby i oczekiwania klientów.  Na specjalne zamówienia projektowane są i wytwarzane unikalne maszyny i kompletne linie spawalnicze. Dział Badań i Rozwoju firmy jest zaangażowany nie tylko w projektowanie nowych urządzeń, lecz także prowadzi prace nad ciągłym udoskonalaniem istniejących produktów.
+Firma PROMOTECH od wielu lat rozwija i wdraża zaawansowane technologie, by
+wyprzedzać i w pełni zaspokajać potrzeby i oczekiwania klientów.  Na specjalne
+zamówienia projektowane są i wytwarzane unikalne maszyny i kompletne linie
+spawalnicze. Dział Badań i Rozwoju firmy jest zaangażowany nie tylko w
+projektowanie nowych urządzeń, lecz także prowadzi prace nad ciągłym
+udoskonalaniem istniejących produktów.
 
-We współczesnym świecie nieustanne podnoszenie kwalifikacji, doskonalenie umiejętności oraz poszerzanie wiedzy stało się już standardem. PROMOTECH kładzie szczególny nacisk na rozwój osobowy i zawodowy pracowników, stwarzając im nie tylko warunki do wszechstronnej edukacji, ale również kreując możliwości dalszego awansu. Duża grupa pracowników ukończyła wyższe studia inżynierskie pracując jednocześnie w firmie PROMOTECH.
+We współczesnym świecie nieustanne podnoszenie kwalifikacji, doskonalenie
+umiejętności oraz poszerzanie wiedzy stało się już standardem. PROMOTECH kładzie
+szczególny nacisk na rozwój osobowy i zawodowy pracowników, stwarzając im nie
+tylko warunki do wszechstronnej edukacji, ale również kreując możliwości
+dalszego awansu. Duża grupa pracowników ukończyła wyższe studia inżynierskie
+pracując jednocześnie w firmie PROMOTECH.
 
-Aplikacje wraz z aktualnym CV prosimy przesyłać drogą mailową na adres [praca@promotech.pl](mailto:praca@promotech.pl) lub korzystając z formularza w [ogłoszeniu na stronie firmy](https://www.promotech.eu/pl/kariera/#SpecjalistadsdokumentacjiTechnicznejTechnicalWriter).
+Aplikacje wraz z aktualnym CV prosimy przesyłać drogą mailową na
+adres [praca@promotech.pl](mailto:praca@promotech.pl) lub korzystając z
+formularza w
+[ogłoszeniu na stronie firmy](https://www.promotech.eu/pl/kariera/#SpecjalistadsdokumentacjiTechnicznejTechnicalWriter).
 
 ---
 
@@ -33,7 +48,8 @@ Aplikacje wraz z aktualnym CV prosimy przesyłać drogą mailową na adres [pra
 **Wymagania**
 
 - Bardzo dobra znajomość języka polskiego i angielskiego w piśmie
-- Umiejętność przedstawiania skomplikowanych zagadnień w prosty i zrozumiały dla odbiorcy sposób
+- Umiejętność przedstawiania skomplikowanych zagadnień w prosty i zrozumiały dla
+  odbiorcy sposób
 - Dbałość o szczegóły, jakość i kompletność przygotowywanych treści
 - Umiejętność wyszukiwania, analizowania i weryfikowania informacji
 - Komunikatywność i bardzo dobra organizacja pracy

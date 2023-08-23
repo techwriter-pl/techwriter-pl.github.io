@@ -1,10 +1,9 @@
 ---
 title: "Przyszłość komunikacji technicznej?"
 date: "2013-11-08"
-categories:
+tags:
   - "news"
   - "ze-swiata"
-tags:
   - "konferencje"
   - "lokalizacja"
   - "technologie"
@@ -12,8 +11,11 @@ tags:
 coverImage: "technologia.png"
 ---
 
-Ciekawa prezentacja (w języku angielskim) - 5 rewolucyjnych technologii których nie możesz zignorować. Science-fiction czy nieodległa codzienność?
+Ciekawa prezentacja (w języku angielskim) - 5 rewolucyjnych technologii których
+nie możesz zignorować. Science-fiction czy nieodległa codzienność?
 
-Sami oceńcie - [115 slajdów](http://www.slideshare.net/abelsp/technical-communication-futurist), które mogą Wam dać do myślenia...
+Sami oceńcie -
+[115 slajdów](http://www.slideshare.net/abelsp/technical-communication-futurist),
+które mogą Wam dać do myślenia...
 
 Znalezione na [techwhirl.com](http://techwhirl.com).

@@ -1,10 +1,9 @@
 ---
 title: "Oferta pracy: Intern Technical Writer"
 date: "2016-10-27"
-categories:
+tags:
   - "oferty-pracy"
   - "praca"
-tags:
   - "kariera"
   - "praca"
 coverImage: "unit4-logo-250.png"
@@ -12,9 +11,16 @@ coverImage: "unit4-logo-250.png"
 
 Kolejna szansa na rozpoczęcie kariery w komunikacji technicznej.
 
-Firma [Unit4](http://www.unit4.com), globalny dostawca oprogramowania biznesowego dla dużych przedsiębiorstw, poszukuje Intern Technical Writera do swojego biura we Wrocławiu. Oferta skierowana jest do osób, które interesują się komunikacją techniczną oraz posiadają status studenta (ważna legitymacja studencka).
+Firma [Unit4](http://www.unit4.com), globalny dostawca oprogramowania
+biznesowego dla dużych przedsiębiorstw, poszukuje Intern Technical Writera do
+swojego biura we Wrocławiu. Oferta skierowana jest do osób, które interesują się
+komunikacją techniczną oraz posiadają status studenta (ważna legitymacja
+studencka).
 
-Szczegółowe informacje znajdziecie poniżej (kliknijcie w obrazek, żeby go wyświetlić w pełnej rozdzielczości) albo [bezpośrednio u źródła](https://careers.unit4.com/job/internship-technical-writer-276720.html) (w pełnej krasie graficznej i z przyciskiem do aplikowania).
+Szczegółowe informacje znajdziecie poniżej (kliknijcie w obrazek, żeby go
+wyświetlić w pełnej rozdzielczości) albo
+[bezpośrednio u źródła](https://careers.unit4.com/job/internship-technical-writer-276720.html)
+(w pełnej krasie graficznej i z przyciskiem do aplikowania).
 
 Powodzenia!
 

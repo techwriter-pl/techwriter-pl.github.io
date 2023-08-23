@@ -1,21 +1,29 @@
 ---
-title: "Oferta Pracy: Technical Writer (Betting Jobs, Malta, Serbia, Szwecja, Estonia)"
+title:
+  "Oferta Pracy: Technical Writer (Betting Jobs, Malta, Serbia, Szwecja,
+  Estonia)"
 date: "2019-03-14"
-categories:
+tags:
   - "oferty-pracy"
   - "praca"
-tags:
   - "kariera"
   - "praca"
 coverImage: "bettingjobs.png"
 ---
 
-Kolejna ciekawa oferta z zagranicy. Tym razem poszukiwany jest Technical Writer na Malcie, w Serbii, Szwecji oraz Estonii.
+Kolejna ciekawa oferta z zagranicy. Tym razem poszukiwany jest Technical Writer
+na Malcie, w Serbii, Szwecji oraz Estonii.
 
-Firma [Betting Jobs](https://www.bettingjobs.com/), współpracująca z dostawcą wsparcia technicznego dla międzynarodowej sieci kasyn, poszukuje Technical Writera do jednego ze swoich biur.
+Firma [Betting Jobs](https://www.bettingjobs.com/), współpracująca z dostawcą
+wsparcia technicznego dla międzynarodowej sieci kasyn, poszukuje Technical
+Writera do jednego ze swoich biur.
 
-Więcej szczegółów na temat oferty znajdziecie poniżej albo [w ogłoszeniu](https://www.bettingjobs.com/jobs/8440181/technical-writer.asp) na stronie firmy (gdzie znajdziecie również link do aplikowania).
+Więcej szczegółów na temat oferty znajdziecie poniżej albo
+[w ogłoszeniu](https://www.bettingjobs.com/jobs/8440181/technical-writer.asp) na
+stronie firmy (gdzie znajdziecie również link do aplikowania).
 
-Swoją kandydaturę możecie też zgłaszać poprzez wysłanie CV w języku angielskim i danych kontaktowych na adres [mark@bettingjobs.com](mailto:mark@bettingjobs.com).
+Swoją kandydaturę możecie też zgłaszać poprzez wysłanie CV w języku angielskim i
+danych kontaktowych na
+adres [mark@bettingjobs.com](mailto:mark@bettingjobs.com).
 
 [![](images/betting_jobs_tech_writer.png)](http://techwriter.pl/wp-content/uploads/2019/03/betting_jobs_tech_writer.png)

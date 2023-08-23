@@ -1,11 +1,10 @@
 ---
 title: "Wszystko o DITA – Podstawy (2)"
 date: "2016-05-04"
-categories:
+tags:
   - "dobre-praktyki"
   - "narzedzia"
   - "warsztat"
-tags:
   - "dita"
   - "manuale"
   - "on-line-help"

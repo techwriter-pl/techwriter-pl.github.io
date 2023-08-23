@@ -1,10 +1,9 @@
 ---
 title: "Wyniki badania płac w komunikacji technicznej 2021"
 date: "2021-06-23"
-categories:
+tags:
   - "badanie-plac"
   - "praca"
-tags:
   - "ankieta"
   - "kariera"
   - "praca"

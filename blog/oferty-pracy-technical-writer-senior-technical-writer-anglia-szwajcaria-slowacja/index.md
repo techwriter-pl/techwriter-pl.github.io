@@ -1,22 +1,34 @@
 ---
-title: "Oferty pracy: Technical Writer, Senior Technical Writer (Anglia, Szwajcaria, Słowacja)"
+title:
+  "Oferty pracy: Technical Writer, Senior Technical Writer (Anglia, Szwajcaria,
+  Słowacja)"
 date: "2018-07-30"
-categories:
+tags:
   - "oferty-pracy"
   - "praca"
-tags:
   - "kariera"
   - "praca"
 coverImage: "OTClLogo1-e1532931093221.jpg"
 ---
 
-Dzisiaj mamy nie lada gratkę dla osób, które chcą nabyć tech writerskiego doświadzenia poza granicami naszego kraju.
+Dzisiaj mamy nie lada gratkę dla osób, które chcą nabyć tech writerskiego
+doświadzenia poza granicami naszego kraju.
 
-Firma [OnTarget](http://ontargetcommunication.com/), która od 2001 dostarcza usługi oraz szkolenia związane z dokumentacją dla firm z przemysłu zbrojeniowego i wysokiej technologii, poszukuje obecnie 4 kandydatów na stanowiska Technical Writer i Senior Technical Writer. Oferty są mocno zróżnicowane pod względem branży, wymagań i lokalizacji. Warto podkreślić, że we wszystkich znajdziecie proponowane wynagrodzenie co na pewno ułatwi Wam ocenić na ile te ogłoszenia są dla Was atrakcyjne.
+Firma [OnTarget](http://ontargetcommunication.com/), która od 2001 dostarcza
+usługi oraz szkolenia związane z dokumentacją dla firm z przemysłu zbrojeniowego
+i wysokiej technologii, poszukuje obecnie 4 kandydatów na stanowiska Technical
+Writer i Senior Technical Writer. Oferty są mocno zróżnicowane pod względem
+branży, wymagań i lokalizacji. Warto podkreślić, że we wszystkich znajdziecie
+proponowane wynagrodzenie co na pewno ułatwi Wam ocenić na ile te ogłoszenia są
+dla Was atrakcyjne.
 
-Osoba, która przejdzie pomyślnie rekrutację będzie zatrudniona bezpośrednio przez klienta, dla którego prowadzona jest rekrutacja. Firma OnTarget zapewnia szkolenie i wsparcie dla nowego pracownika przed rozpoczęciem pracy oraz w trakcie zatrudnienia.
+Osoba, która przejdzie pomyślnie rekrutację będzie zatrudniona bezpośrednio
+przez klienta, dla którego prowadzona jest rekrutacja. Firma OnTarget zapewnia
+szkolenie i wsparcie dla nowego pracownika przed rozpoczęciem pracy oraz w
+trakcie zatrudnienia.
 
-Aplikować możecie poprzez wysłanie CV na adres [alyssad@otclih.com](mailto:alyssad@otclih.com).
+Aplikować możecie poprzez wysłanie CV na
+adres [alyssad@otclih.com](mailto:alyssad@otclih.com).
 
 Powodzenia!
 
@@ -31,20 +43,29 @@ Powodzenia!
 
 **Job Description:**
 
-- The production of descriptive, operation and procedural Data Modules and page blocks to ATA 100/iSpec 2200 and ASD S1000D specifications from engineering reports, drawings and general aircraft related documentation for the mechanical chapters of technical publications
-- The analysis of engineering wiring diagrams for the production of functional block schematic diagrams and supporting text
-- Assistance with the Mechanical aspects of Service Bulletins, Airplane Flight Manuals and other related documents
+- The production of descriptive, operation and procedural Data Modules and page
+  blocks to ATA 100/iSpec 2200 and ASD S1000D specifications from engineering
+  reports, drawings and general aircraft related documentation for the
+  mechanical chapters of technical publications
+- The analysis of engineering wiring diagrams for the production of functional
+  block schematic diagrams and supporting text
+- Assistance with the Mechanical aspects of Service Bulletins, Airplane Flight
+  Manuals and other related documents
 
-**Minimum 5 years' experience as a technical author writing aircraft avionic/mechanical technical documentation to ATA 100/iSpec 2200 and ASD S1000D specifications.**
+**Minimum 5 years' experience as a technical author writing aircraft
+avionic/mechanical technical documentation to ATA 100/iSpec 2200 and ASD S1000D
+specifications.**
 
 - Aeronautical avionic/mechanical apprenticeship/formal training.
 - Experienced in the field of aviation through practical hands on.
-- Experienced in the use of ASD Simplified Technical English, SGML/XML, Microsoft Word, FrameMaker + SGML and Arbortext Editor.
+- Experienced in the use of ASD Simplified Technical English, SGML/XML,
+  Microsoft Word, FrameMaker + SGML and Arbortext Editor.
 - English mother tongue or to international standard grade C1.
 
 # Senior Technical Writer, Słowacja
 
-**Financial Services / Theft Protection Industry – Opening for Senior Technical Writer**
+**Financial Services / Theft Protection Industry – Opening for Senior Technical
+Writer**
 
 - **Relocation Opportunity to Kosice, Slovakia**
 - **Must have experience documenting within Microsoft Word**
@@ -52,7 +73,8 @@ Powodzenia!
 
 **Job Description:**
 
-- Writing and updating client-facing documentation, including technical white papers, user guides and online help.
+- Writing and updating client-facing documentation, including technical white
+  papers, user guides and online help.
 - Editing and polishing miscellaneous documents
 
 **Qualifications:**
@@ -67,19 +89,24 @@ Powodzenia!
 
 #  **Technical Writer, Anglia**
 
-**Retail Engagement / SaaS (Software as a Service) Industry – Opening for Developer-Facing Technical Writer**
+**Retail Engagement / SaaS (Software as a Service) Industry – Opening for
+Developer-Facing Technical Writer**
 
 - **Relocation Opportunity to London, United Kingdom**
 - **Must have knowledge of and experience with coding languages**
-- **Salaried position at approximately 60-65K GBP with remote working options (2-3 days per week from home)**
+- **Salaried position at approximately 60-65K GBP with remote working options
+  (2-3 days per week from home)**
 
 **Job Description:**
 
-- Contribute to the technical content strategy with other stakeholders including members of the Developer Relations and Product teams
-- Translate product technical specifications into developer-enabling documentation
+- Contribute to the technical content strategy with other stakeholders including
+  members of the Developer Relations and Product teams
+- Translate product technical specifications into developer-enabling
+  documentation
 - Integrate developer feedback continuously into your plans and documentation
 - Maintain knowledge of communications, APIs and related technologies
-- Demonstrate writing best practices and maintain awareness of practices, tooling and trends that our documentation will benefit from
+- Demonstrate writing best practices and maintain awareness of practices,
+  tooling and trends that our documentation will benefit from
 
 **Qualifications:**
 

@@ -1,10 +1,9 @@
 ---
 title: "Write the Docs Wilno 2019 — relacja"
 date: "2019-08-09"
-categories:
+tags:
   - "news"
   - "ze-swiata"
-tags:
   - "write-the-docs"
 coverImage: "Zrzut-ekranu-2019-04-17-o-22.38.56-e1555533727865.png"
 ---

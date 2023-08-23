@@ -1,10 +1,9 @@
 ---
 title: "WYNIKI BADANIA PŁAC W KOMUNIKACJI TECHNICZNEJ 2022"
 date: "2022-09-19"
-categories:
+tags:
   - "badanie-plac"
   - "praca"
-tags:
   - "ankieta"
   - "kariera"
   - "praca"

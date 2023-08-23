@@ -1,27 +1,33 @@
 ---
 title: "Oferta pracy: trener szkoleń (testerzy.pl)"
 date: "2022-02-10"
-categories:
+tags:
   - "oferty-pracy"
   - "praca"
-tags:
   - "edukacja"
   - "praca"
   - "szkolenia"
 coverImage: "Konferencje-2019-11.png"
 ---
 
-Ciekawa oferta dla doświadczonych technical writerów, którzy mają ochotę podzielić się wiedzą z innymi.
+Ciekawa oferta dla doświadczonych technical writerów, którzy mają ochotę
+podzielić się wiedzą z innymi.
 
-[testerzy.pl](https://testerzy.pl/) to marka należąca do [Grupy 21CN](http://21cn.pl/). Oferuje ona usługi oraz szkolenia z obszaru testowania oprogramowania. Poniższa oferta powstała w ramach współpracy z [ITtraining.pl](http://ittraining.pl/) i ma na celu uzupełnienie oferty szkoleń dla specjalistów IT o kursy poświęcone komunikacji technicznej ITCQF.
+[testerzy.pl](https://testerzy.pl/) to marka należąca do
+[Grupy 21CN](http://21cn.pl/). Oferuje ona usługi oraz szkolenia z obszaru
+testowania oprogramowania. Poniższa oferta powstała w ramach współpracy z
+[ITtraining.pl](http://ittraining.pl/) i ma na celu uzupełnienie oferty szkoleń
+dla specjalistów IT o kursy poświęcone komunikacji technicznej ITCQF.
 
-Osoby zainteresowane mogą aplikować poprzez formularz zamieszczony [na stronie ogłoszenia](https://testerzy.pl/oferta-pracy/trener-szkolen-profesjonalna-komunikacja-itcqf-poziom-podstawowy).
+Osoby zainteresowane mogą aplikować poprzez formularz zamieszczony
+[na stronie ogłoszenia](https://testerzy.pl/oferta-pracy/trener-szkolen-profesjonalna-komunikacja-itcqf-poziom-podstawowy).
 
 ---
 
 ### Zostań trenerem Profesjonalna komunikacja techniczna ITCQF Poziom Podstawowy
 
-Jesteś fachowym techwriterem i chciałbyś dalej rozwijać się w roli trenera lub coacha?
+Jesteś fachowym techwriterem i chciałbyś dalej rozwijać się w roli trenera lub
+coacha?
 
 Masz okazję dołączyć do zespołu trenerów testerzy.pl!
 
@@ -40,7 +46,8 @@ Masz okazję dołączyć do zespołu trenerów testerzy.pl!
 - Doskonałe umiejętności interpersonalne i komunikacyjne
 - Szeroka wiedza z zakresu komunikacji technicznej ITCQF
 - 5 lat doświadczenia jako techwriter oraz przynajmniej 2 lata w nauczaniu
-- posiadanie certyfikatu Profesjonalna komunikacja techniczna ITCQF Poziom Podstawowy
+- posiadanie certyfikatu Profesjonalna komunikacja techniczna ITCQF Poziom
+  Podstawowy
 - Umiejętność prowadzenia szkoleń w języku angielskim.
 
 #### Dzięki nauczaniu rozwijasz siebie poprzez rozwój innych:
@@ -54,7 +61,8 @@ Masz okazję dołączyć do zespołu trenerów testerzy.pl!
 
 - umowę (zlecenie, B2B, umowę o dzieło)
 - atrakcyjne wynagrodzenie w zależności od posiadanych kompetencji
-- możliwość uczestniczenia w ciekawych projektach szkoleniowych (szkolenia otwarte oraz szkolenia zamknięte dla firm, szkolenia asynchroniczne)
+- możliwość uczestniczenia w ciekawych projektach szkoleniowych (szkolenia
+  otwarte oraz szkolenia zamknięte dla firm, szkolenia asynchroniczne)
 - możliwość publikacji artykułów na naszych portalach pod własnym nazwiskiem
 
 ---

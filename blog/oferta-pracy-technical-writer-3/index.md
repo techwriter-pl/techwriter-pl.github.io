@@ -1,10 +1,9 @@
 ---
 title: "Oferta pracy: Technical Writer"
 date: "2014-05-21"
-categories:
+tags:
   - "oferty-pracy"
   - "praca"
-tags:
   - "kariera"
   - "praca"
 coverImage: "hybris_logo_small.jpg"

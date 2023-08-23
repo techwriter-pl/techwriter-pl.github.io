@@ -1,9 +1,8 @@
 ---
 title: "Techwriter szuka pierwszej pracy"
 date: "2021-10-22"
-categories:
-  - "praca"
 tags:
+  - "praca"
   - "edukacja"
   - "kariera"
   - "praca"

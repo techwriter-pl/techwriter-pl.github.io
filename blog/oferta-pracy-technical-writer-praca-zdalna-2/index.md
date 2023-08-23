@@ -1,18 +1,20 @@
 ---
 title: "Oferta pracy: Technical writer (Astek) - praca zdalna!"
 date: "2020-01-06"
-categories:
+tags:
   - "oferty-pracy"
   - "praca"
-tags:
   - "kariera"
   - "praca"
 coverImage: "ASTEK-Polska-logo-i-hasło.jpg"
 ---
 
-Oferta pracy z domu, z widełkami płacowymi - prawdziwy rarytas na dobry początek lat dwudziestych :)
+Oferta pracy z domu, z widełkami płacowymi - prawdziwy rarytas na dobry początek
+lat dwudziestych :)
 
-Witajcie w Nowym Roku i przyjmijcie nasze życzenia! Niech 2020 będzie gorszy tylko od 2021... A jeżeli w ramach noworocznych postanowień myśleliście o zmianie pracy - oto ciekawa propozycja:
+Witajcie w Nowym Roku i przyjmijcie nasze życzenia! Niech 2020 będzie gorszy
+tylko od 2021... A jeżeli w ramach noworocznych postanowień myśleliście o
+zmianie pracy - oto ciekawa propozycja:
 
 ---
 
@@ -22,7 +24,8 @@ Witajcie w Nowym Roku i przyjmijcie nasze życzenia! Niech 2020 będzie gorszy t
 
 - Praca 100% zdalna
 - Pełny etat
-- Start: najchętniej od zaraz – rozpatrujemy Kandydatów z max 1-miesiecznym okresem dostępności
+- Start: najchętniej od zaraz – rozpatrujemy Kandydatów z max 1-miesiecznym
+  okresem dostępności
 
 ### Wynagrodzenie:
 
@@ -31,16 +34,21 @@ Witajcie w Nowym Roku i przyjmijcie nasze życzenia! Niech 2020 będzie gorszy t
 
 ### Obowiązki:
 
-- Tworzenie dokumentacji technicznej (functional specifications, user requirements specifications)
+- Tworzenie dokumentacji technicznej (functional specifications, user
+  requirements specifications)
 - Nagrywanie głosu (jako lektor) do tworzonych tutoriali video
 - Aktualizowanie wcześniejszych wersji dokumentacji użytkownika
 - Kontakt z Analitykami Biznesowymi oraz działem IT w celu zbierania wymagań
 
 ### Wymagania:
 
-- Doświadczenie w pracy na stanowisku Technical Writera w branży IT na dowolnym etapie wytwarzania oprogramowania – rozumienie, na czym to polega (cykl produkcji, role) oraz znajomość niezbędnego słownictwa (np. przypadek użycia, user story, interfejs itp.)
+- Doświadczenie w pracy na stanowisku Technical Writera w branży IT na dowolnym
+  etapie wytwarzania oprogramowania – rozumienie, na czym to polega (cykl
+  produkcji, role) oraz znajomość niezbędnego słownictwa (np. przypadek użycia,
+  user story, interfejs itp.)
 - Znajomość narzędzia Camtasia
-- Doświadczenie w tworzeniu dokumentacji technicznej (functional specifications, user requirements specifications)
+- Doświadczenie w tworzeniu dokumentacji technicznej (functional specifications,
+  user requirements specifications)
 - Bardzo dobra znajomość języka angielskiego – min. C1
 - Samodzielność, terminowość
 

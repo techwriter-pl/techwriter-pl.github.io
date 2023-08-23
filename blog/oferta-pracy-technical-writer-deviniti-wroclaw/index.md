@@ -1,10 +1,9 @@
 ---
 title: "Oferta pracy: Technical Writer (Deviniti) – Wrocław"
 date: "2019-10-28"
-categories:
+tags:
   - "oferty-pracy"
   - "praca"
-tags:
   - "kariera"
   - "praca"
 coverImage: "deviniti_logo_podstawowe-100.jpg"
@@ -12,7 +11,11 @@ coverImage: "deviniti_logo_podstawowe-100.jpg"
 
 Fajna oferta, w pakiecie obszerne szkolenie! :)
 
-Deviniti - We’re a Software Company and we’re currently looking for a Technical Writer, someone who is passionate about IT and looking to develop their career in the field. Join one of our teams who specializes in creating plugins for companies like Ferrari, Warner Bros, SONY, Apple, NASA and many more. There’s millions of people around the world who use our add-ons!
+Deviniti - We’re a Software Company and we’re currently looking for a Technical
+Writer, someone who is passionate about IT and looking to develop their career
+in the field. Join one of our teams who specializes in creating plugins for
+companies like Ferrari, Warner Bros, SONY, Apple, NASA and many more. There’s
+millions of people around the world who use our add-ons!
 
 **As a Technical Writer your role will involve:**
 

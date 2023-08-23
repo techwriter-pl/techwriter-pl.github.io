@@ -1,20 +1,22 @@
 ---
 title: "Konferencja soap! - odliczanie czas zacząć"
 date: "2018-04-30"
-categories:
+tags:
   - "news"
   - "z-kraju"
-tags:
   - "konferencje"
   - "spolecznosc"
 coverImage: "soap2018.jpg"
 ---
 
-Kolejna odsłona krakowskiej konferencji soap! już wkrótce. Poniżej przypominamy garść najważniejszych informacji.
+Kolejna odsłona krakowskiej konferencji soap! już wkrótce. Poniżej przypominamy
+garść najważniejszych informacji.
 
 ## Termin i miejsce
 
-Konferencja odbędzie się w dniach **23-25 maja** w [Muzeum Sztuki i Techniki Japońskiej Manggha](http://manggha.pl/) zlokalizowanym przy ul. Marii Konopnickiej 26 w Krakowie.
+Konferencja odbędzie się w dniach **23-25
+maja** w [Muzeum Sztuki i Techniki Japońskiej Manggha](http://manggha.pl/)
+zlokalizowanym przy ul. Marii Konopnickiej 26 w Krakowie.
 
 ## Rejestracja i ceny
 
@@ -26,9 +28,17 @@ Rejestracja i dodatkowe informacje [tutaj](http://soapconf.com/#ticket).
 
 ## Warsztaty Edu Summit
 
-Jak co roku, organizatorzy przygotowali dla uczestników więcej niż tylko dwa dni wypełnione po brzegi prelekcjami (program dostępny [tutaj](http://soapconf.com/schedule_2018/)). W ich ofercie znalazł się także dzień poświęcony praktyce czyli dobrze już znane Edu Summit - warsztaty, które odbędą się w dniu poprzedzającym wydarzenie, to jest 23 maja 2018 roku.
+Jak co roku, organizatorzy przygotowali dla uczestników więcej niż tylko dwa dni
+wypełnione po brzegi prelekcjami (program dostępny
+[tutaj](http://soapconf.com/schedule_2018/)). W ich ofercie znalazł się także
+dzień poświęcony praktyce czyli dobrze już znane Edu Summit - warsztaty, które
+odbędą się w dniu poprzedzającym wydarzenie, to jest 23 maja 2018 roku.
 
-Warsztaty są skierowane wyłącznie do osób, które kupiły bilety na konferencję. Ilość miejsc jest ograniczona (15 na każdy z tematów). Aby wziąć udział w Edu Summit musicie się [zarejestrować](https://soap-2018-the-best-content-conference.evenea.pl/) oraz wykupić bilet, którego cena to 40,00 zł za jeden warsztat.
+Warsztaty są skierowane wyłącznie do osób, które kupiły bilety na konferencję.
+Ilość miejsc jest ograniczona (15 na każdy z tematów). Aby wziąć udział w Edu
+Summit musicie się
+[zarejestrować](https://soap-2018-the-best-content-conference.evenea.pl/) oraz
+wykupić bilet, którego cena to 40,00 zł za jeden warsztat.
 
 W tym roku organizator podzielił warsztaty na cztery grupy:
 
@@ -37,12 +47,17 @@ W tym roku organizator podzielił warsztaty na cztery grupy:
 3. sponge!
 4. foam!
 
-W każdej z nich znajdziecie trzy tematy do wyboru oraz przerwę na napoje i przekąski. Przeglądając program ([tutaj](http://soapconf.com/schedule_2018/)) i planując udział w warsztatach zwróćcie uwagę na różnice w rozkładzie czasowym oraz długość poszczególnych zajęć.
+W każdej z nich znajdziecie trzy tematy do wyboru oraz przerwę na napoje i
+przekąski. Przeglądając program ([tutaj](http://soapconf.com/schedule_2018/)) i
+planując udział w warsztatach zwróćcie uwagę na różnice w rozkładzie czasowym
+oraz długość poszczególnych zajęć.
 
 Organizator zapewnia także **dwa darmowe warsztaty**:
 
-- \[9:30 – 10:30\] zajęcia ze Stefanem Gentzem, którego temat zostanie podany wkrótce
-- \[11:00 – 12:00\] Technical strategies for implementing chatbots with structured content, prowadzone przez Patricka Boseka
+- \[9:30 – 10:30\] zajęcia ze Stefanem Gentzem, którego temat zostanie podany
+  wkrótce
+- \[11:00 – 12:00\] Technical strategies for implementing chatbots with
+  structured content, prowadzone przez Patricka Boseka
 
 Udział w nich także wymaga rejestracji.
 

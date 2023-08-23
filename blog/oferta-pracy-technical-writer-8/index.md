@@ -1,16 +1,19 @@
 ---
 title: "Oferta pracy: Technical Writer"
 date: "2015-07-17"
-categories:
+tags:
   - "oferty-pracy"
   - "praca"
-tags:
   - "kariera"
   - "praca"
 coverImage: "cpljobslogo.jpg"
 ---
 
-Tym razem Wrocław. Oferta pochodzi od firmy rekrutacyjnej, ale udało nam się dowiedzieć, że Waszym potencjalnym nowym pracodawcą jest międzynarodowa firma z branży IT zajmująca się produkcją systemów ERP. Poszukują osób z 2 letnim doświadczeniem jako Technical Writer, ale osoby zajmujące się tłumaczeniami również są mile widziane :)
+Tym razem Wrocław. Oferta pochodzi od firmy rekrutacyjnej, ale udało nam się
+dowiedzieć, że Waszym potencjalnym nowym pracodawcą jest międzynarodowa firma z
+branży IT zajmująca się produkcją systemów ERP. Poszukują osób z 2 letnim
+doświadczeniem jako Technical Writer, ale osoby zajmujące się tłumaczeniami
+również są mile widziane :)
 
 Szczegółowe informacje poniżej, albo bezpośrednio u źródła:
 

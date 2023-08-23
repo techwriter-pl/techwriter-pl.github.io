@@ -1,11 +1,10 @@
 ---
 title: "Wszystko o DITA – Strategia (3)"
 date: "2016-06-08"
-categories:
+tags:
   - "dobre-praktyki"
   - "narzedzia"
   - "warsztat"
-tags:
   - "dita"
   - "manuale"
   - "on-line-help"

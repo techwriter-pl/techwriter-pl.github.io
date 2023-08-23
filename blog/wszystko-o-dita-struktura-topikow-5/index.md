@@ -1,11 +1,10 @@
 ---
 title: "Wszystko o DITA – Struktura topików (5)"
 date: "2019-06-21"
-categories:
+tags:
   - "dobre-praktyki"
   - "narzedzia"
   - "warsztat"
-tags:
   - "dita"
   - "topic"
 coverImage: "evolution-206670_1920.jpg"

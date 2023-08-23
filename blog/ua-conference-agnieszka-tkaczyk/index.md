@@ -1,10 +1,9 @@
 ---
 title: "UA Conference - Agnieszka Tkaczyk"
 date: "2014-07-04"
-categories:
+tags:
   - "news"
   - "z-kraju"
-tags:
   - "instrukcje"
   - "kariera"
   - "konferencje"

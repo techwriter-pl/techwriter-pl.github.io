@@ -1,10 +1,9 @@
 ---
 title: "Oferta pracy: Dokumentalista"
 date: "2014-06-05"
-categories:
+tags:
   - "oferty-pracy"
   - "praca"
-tags:
   - "kariera"
   - "praca"
 coverImage: "hurra_logo.png"

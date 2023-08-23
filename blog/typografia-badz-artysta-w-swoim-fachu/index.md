@@ -1,10 +1,9 @@
 ---
 title: "Typografia - bądź artystą w swoim fachu"
 date: "2014-02-21"
-categories:
+tags:
   - "dobre-praktyki"
   - "warsztat"
-tags:
   - "infografiki"
   - "typografia"
 coverImage: "typografia.jpg"
