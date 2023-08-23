@@ -1,0 +1,23 @@
+---
+title: "[NIEAKTUALNE] Oferta pracy: Junior Technical Writer"
+date: "2016-05-30"
+categories: 
+  - "oferty-pracy"
+  - "praca"
+tags: 
+  - "kariera"
+  - "praca"
+coverImage: "3di_logo.png"
+---
+
+[Firma 3di](http://www.3di.com.pl) poszukuje kolejnej osoby do swojego biura w Krakowie.
+
+Nowe stanowisko na pewno zainteresuje osoby, które myślą o karierze Technical Writera i mają w tej branży niewielkie doświadczenie lub ukończony kurs czy staż.
+
+Szczegółowe informacje dotyczące tej oferty znajdziecie poniżej (kliknijcie w obrazek, żeby go wyświetlić w pełnej rozdzielczości) albo bezpośrednio u źródła: [http://3di.com.pl/junior-technical-writer/](http://3di.com.pl/junior-technical-writer/).
+
+Aplikować można poprzez wysłanie CV i listu motywacyjnego w języku angielskim na adres: **pawel.kowaluk(at)3di-info.com**.
+
+Pozostałe oferty pracy z 3di znajdziecie [tutaj](http://3di.com.pl/career/).
+
+[![Oferta pracy Junior Technical Writer 3di](images/junior-technical-writer-3di-june-2016.png)](http://techwriter.pl/wp-content/uploads/2016/05/junior-technical-writer-3di-june-2016.png)
