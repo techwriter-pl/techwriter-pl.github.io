@@ -1,17 +1,75 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
+# admin
+admin:
+  name: Admin
+  role: Administrator
+  url: https://techwriter.pl
+  image_url: https://github.com/techwriter-pl.png
 
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
+# Sabina
+szablowska:
+  name: Sabina Szablowska
+  role: Autor
+  url: https://techwriter.pl
+  image_url: https://github.com/techwriter-pl.png
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+# Agnieszka
+agnieszka:
+  name: Agnieszka Skarbek
+  role: Administrator
+  url: https://techwriter.pl
+  image_url: https://github.com/techwriter-pl.png
+
+# mojk
+mojk:
+  name: Michał Skowron
+  role: Administrator
+  url: https://github.com/docdeveloper
+  image_url: https://github.com/docdeveloper.png
+
+# Michal Milc
+milc:
+  name: Florian Milc
+  role: Autor
+  url: https://techwriter.pl
+  image_url: https://github.com/techwriter-pl.png
+
+# Pawel
+pensjonatus:
+  name: Paweł Kowaluk
+  role: Webmaster
+  url: https://github.com/pensjonatus
+  image_url: https://github.com/pensjonatus.png
+
+# Kuba
+kuba:
+  name: Jakib Wiśniewski
+  role: Autor
+  url: https://www.linkedin.com/in/jakubmwisniewski/
+  image_url: https://s.lubimyczytac.pl/upload/authors/231380/997866-352x500.jpg
+
+# Radoslaw Kulgawczuk
+kulgawczuk:
+  name: Radosław Kulgawczuk
+  role: Autor
+  url: https://www.linkedin.com/in/rados%C5%82aw-kulgawczuk-96378a178/
+  image_url: https://media.licdn.com/dms/image/C5603AQHX3ERFKUDlWw/profile-displayphoto-shrink_800_800/0/1551870573975?e=1698278400&v=beta&t=MxaVGMPwL0D4QFXnD3DD1ZBcRfufSn8sRLm9TUFM4Pg
+
+# Piotr
+piechowicz:
+  name: Piotr Piechowicz
+  role: Autor
+
+# Martyna
+toporek:
+  name: Martyna Toporek
+  role: Autor
+
+# Andrzej
+niewiarowski:
+  name: Andrzej Niewiarowski
+  role: Autor
+
+# Magda
+niedzwiedzka:
+  name: Magda Niedźwiedzka
+  role: Autor
