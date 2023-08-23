@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[53408],{63650:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/oferty-pracy/page/13","page":13,"postsPerPage":10,"totalPages":17,"totalCount":166,"previousPage":"/blog/tags/oferty-pracy/page/12","nextPage":"/blog/tags/oferty-pracy/page/14","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

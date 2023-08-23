@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[59277],{68681:e=>{e.exports=JSON.parse('{"label":"e-learning","permalink":"/blog/tags/e-learning","allTagsPath":"/blog/tags","count":4}')}}]);

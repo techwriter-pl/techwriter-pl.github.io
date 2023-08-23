@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[68784],{2916:a=>{a.exports=JSON.parse('{"label":"zarzadzanie-wiedza","permalink":"/blog/tags/zarzadzanie-wiedza","allTagsPath":"/blog/tags","count":5}')}}]);

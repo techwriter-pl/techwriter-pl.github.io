@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[37250],{49858:a=>{a.exports=JSON.parse('{"label":"typografia","permalink":"/blog/tags/typografia","allTagsPath":"/blog/tags","count":3}')}}]);

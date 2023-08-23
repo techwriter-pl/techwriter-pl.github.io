@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[14356],{31625:a=>{a.exports=JSON.parse('{"label":"badanie-plac","permalink":"/blog/tags/badanie-plac","allTagsPath":"/blog/tags","count":12}')}}]);

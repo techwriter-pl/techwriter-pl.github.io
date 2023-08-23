@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[16463],{34714:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/ze-swiata/page/2","page":2,"postsPerPage":10,"totalPages":12,"totalCount":113,"previousPage":"/blog/tags/ze-swiata","nextPage":"/blog/tags/ze-swiata/page/3","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

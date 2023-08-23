@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[10179],{94391:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/spolecznosc/page/2","page":2,"postsPerPage":10,"totalPages":20,"totalCount":200,"previousPage":"/blog/tags/spolecznosc","nextPage":"/blog/tags/spolecznosc/page/3","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

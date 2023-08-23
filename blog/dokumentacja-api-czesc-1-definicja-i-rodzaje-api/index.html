@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="pl" dir="ltr" class="blog-wrapper blog-post-page plugin-blog plugin-id-default">
+<head>
+<meta charset="UTF-8">
+<meta name="generator" content="Docusaurus v2.4.1">
+<title data-rh="true">Dokumentacja API – Część 1: Definicja i rodzaje API | techwriter.pl</title><meta data-rh="true" name="viewport" content="width=device-width,initial-scale=1"><meta data-rh="true" name="twitter:card" content="summary_large_image"><meta data-rh="true" property="og:image" content="https://techwriter.pl/img/techwriter-social-card.png"><meta data-rh="true" name="twitter:image" content="https://techwriter.pl/img/techwriter-social-card.png"><meta data-rh="true" property="og:url" content="https://techwriter.pl/blog/dokumentacja-api-czesc-1-definicja-i-rodzaje-api"><meta data-rh="true" name="docusaurus_locale" content="pl"><meta data-rh="true" name="docusaurus_tag" content="default"><meta data-rh="true" name="docsearch:language" content="pl"><meta data-rh="true" name="docsearch:docusaurus_tag" content="default"><meta data-rh="true" property="og:title" content="Dokumentacja API – Część 1: Definicja i rodzaje API | techwriter.pl"><meta data-rh="true" name="description" content="Z otwartymi ramionami witamy na naszych stronach nowego autora a wraz z nim"><meta data-rh="true" property="og:description" content="Z otwartymi ramionami witamy na naszych stronach nowego autora a wraz z nim"><meta data-rh="true" property="og:type" content="article"><meta data-rh="true" property="article:published_time" content="2018-10-08T00:00:00.000Z"><meta data-rh="true" property="article:tag" content="dobre-praktyki,przyklady,warsztat,api,dokumentacja"><link data-rh="true" rel="icon" href="/img/favicon.ico"><link data-rh="true" rel="canonical" href="https://techwriter.pl/blog/dokumentacja-api-czesc-1-definicja-i-rodzaje-api"><link data-rh="true" rel="alternate" href="https://techwriter.pl/blog/dokumentacja-api-czesc-1-definicja-i-rodzaje-api" hreflang="pl"><link data-rh="true" rel="alternate" href="https://techwriter.pl/blog/dokumentacja-api-czesc-1-definicja-i-rodzaje-api" hreflang="x-default"><link rel="alternate" type="application/rss+xml" href="/blog/rss.xml" title="techwriter.pl RSS Feed">
+<link rel="alternate" type="application/atom+xml" href="/blog/atom.xml" title="techwriter.pl Atom Feed"><link rel="stylesheet" href="/assets/css/styles.c4a06423.css">
+<link rel="preload" href="/assets/js/runtime~main.ac0917e2.js" as="script">
+<link rel="preload" href="/assets/js/main.fd699d73.js" as="script">
+</head>
+<body class="navigation-with-keyboard">
+<script>!function(){function t(t){document.documentElement.setAttribute("data-theme",t)}var e=function(){var t=null;try{t=new URLSearchParams(window.location.search).get("docusaurus-theme")}catch(t){}return t}()||function(){var t=null;try{t=localStorage.getItem("theme")}catch(t){}return t}();t(null!==e?e:"light")}()</script><div id="__docusaurus">
+<div role="region" aria-label="Przejdź do głównej zawartości"><a class="skipToContent_fXgn" href="#__docusaurus_skipToContent_fallback">Przejdź do głównej zawartości</a></div><nav aria-label="Main" class="navbar navbar--fixed-top"><div class="navbar__inner"><div class="navbar__items"><button aria-label="Przełączanie panelu nawigacyjnego" aria-expanded="false" class="navbar__toggle clean-btn" type="button"><svg width="30" height="30" viewBox="0 0 30 30" aria-hidden="true"><path stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M4 7h22M4 15h22M4 23h22"></path></svg></button><a class="navbar__brand" href="/"><div class="navbar__logo"><img src="/img/logo-square.png" alt="logo techwriter.pl" class="themedImage_ToTc themedImage--light_HNdA"><img src="/img/logo-square.png" alt="logo techwriter.pl" class="themedImage_ToTc themedImage--dark_i4oU"></div><b class="navbar__title text--truncate">techwriter.pl</b></a></div><div class="navbar__items navbar__items--right"><a class="navbar__item navbar__link" href="/blog/tags/warsztat">Wiedza</a><a class="navbar__item navbar__link" href="/blog/tags/news">Wydarzenia</a><a class="navbar__item navbar__link" href="/blog/tags/praca">Praca</a><div class="searchBox_ZlJk"></div></div></div><div role="presentation" class="navbar-sidebar__backdrop"></div></nav><div id="__docusaurus_skipToContent_fallback" class="main-wrapper mainWrapper_z2l0"><div class="container margin-vert--lg"><div class="row"><aside class="col col--3"><nav class="sidebar_re4s thin-scrollbar" aria-label="Nawigacja po najnowszych postach na blogu"><div class="sidebarItemTitle_pO2u margin-bottom--md">Recent posts</div><ul class="sidebarItemList_Yudw clean-list"><li class="sidebarItem__DBe"><a class="sidebarItemLink_mo7H" href="/blog/jesienna-edycja-api-the-docs-virtual-2023-zapowiedz">JESIENNA EDYCJA API THE DOCS VIRTUAL 2023 - ZAPOWIEDŹ</a></li><li class="sidebarItem__DBe"><a class="sidebarItemLink_mo7H" href="/blog/oferta-pracy-technical-writer-handsontable-zdalnie-hybrydowo-lub-stacjonarnie-gdynia">OFERTA PRACY: TECHNICAL WRITER (Handsontable) – ZDALNIE, HYBRYDOWO LUB STACJONARNIE (GDYNIA)</a></li><li class="sidebarItem__DBe"><a class="sidebarItemLink_mo7H" href="/blog/meetcontent-krakow-czerwiec-2023-relacja">MEETCONTENT KRAKÓW – CZERWIEC 2023 – RELACJA</a></li><li class="sidebarItem__DBe"><a class="sidebarItemLink_mo7H" href="/blog/relacja-z-tegorocznej-konferencji-soap-2023">Relacja z tegorocznej konferencji soap 2023!</a></li><li class="sidebarItem__DBe"><a class="sidebarItemLink_mo7H" href="/blog/konferencja-tlumaczy-2023-juz-we-wrzesniu">Konferencja Tłumaczy 2023 już we wrześniu</a></li></ul></nav></aside><main class="col col--7" itemscope="" itemtype="http://schema.org/Blog"><article itemprop="blogPost" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h1 class="title_f1Hy" itemprop="headline">Dokumentacja API – Część 1: Definicja i rodzaje API</h1><div class="container_mt6G margin-vert--md"><time datetime="2018-10-08T00:00:00.000Z" itemprop="datePublished">8 października 2018</time> · <!-- -->6 min aby przeczytać</div></header><div id="__blog-post-container" class="markdown" itemprop="articleBody"><p>Z otwartymi ramionami witamy na naszych stronach nowego autora a wraz z nim
+nowy, jakże aktualny temat! Marcin przygotował dla Was artykuł otwierający cykl
+i obiecał, że na tym nie koniec!</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="o-autorze">O autorze<a href="#o-autorze" class="hash-link" aria-label="Bezpośredni link do O autorze" title="Bezpośredni link do O autorze">​</a></h2><p>Jako absolwent anglistyki, <strong>Marcin Pierzchała</strong> zaczynał swoją karierę jako
+tłumacz języka angielskiego. Po sześciu latach przeszedł jednak na techniczną
+stronę komunikacji, dołączając do zespołu Dassault Systèmes, gdzie nadal
+pracuje. W zawodzie dokumentalisty najbardziej zajmują go aspekty techniczne,
+takie jak automatyzacja i rozwój narzędzi na potrzeby zespołu. Ze względu na
+zainteresowanie programowaniem Marcin specjalizuje się w dokumentacji API, która
+łączy pracę dokumentalisty z aspektami pracy programisty. Prowadzi także
+szkolenia w tym zakresie. Po godzinach podróżuje, robi zdjęcia i realizuje
+amatorskie projekty z użyciem Arduino.</p><p>Z radością oddajemy mu głos:</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="dokumentacja-api--część-1-definicja-i-rodzaje-api">Dokumentacja API – Część 1: Definicja i rodzaje API<a href="#dokumentacja-api--część-1-definicja-i-rodzaje-api" class="hash-link" aria-label="Bezpośredni link do Dokumentacja API – Część 1: Definicja i rodzaje API" title="Bezpośredni link do Dokumentacja API – Część 1: Definicja i rodzaje API">​</a></h2><p>Podręczniki użytkownika, online helps czy release notes to rodzaje dokumentacji,
+które chyba każdy technical writer zna znakomicie. Zadomowiły się one na dobre
+na firmowych serwerach i w świadomości użytkowników. Ostatnio jednak w branży
+sygnalizuje się coraz większe zapotrzebowanie także na inne rodzaje
+dokumentacji, między innymi dokumentację API, którą chciałbym się tutaj zająć.</p><p>Ze względu na swój specyficzny, wysoce techniczny charakter, a także na
+docelowych użytkowników takiej dokumentacji, czyli przede wszystkim programistów
+i amatorów programowania, obowiązek dokumentowania API najczęściej przypada
+właśnie piszącym kod. Same narzędzia używane do tworzenia dokumentacji API,
+które dodatkowo są zwykle wplecione w środowiska programistyczne jako integralna
+część procesu dostarczania oprogramowania, wymagają sporej wiedzy technicznej od
+osób, które się nimi posługują.</p><p>Czy to wszystko oznacza, że dokumentacja API jest wyłącznie domeną deweloperów?
+Absolutnie nie! Umiejętność pisania kodu nie jest konieczna, aby uczestniczyć w
+procesie tworzenia dokumentacji API, a potrzebne narzędzia nie są aż takie
+trudne do opanowania. Piszę “uczestniczyć”, ponieważ nawet najbardziej
+technicznie rozwinięty dokumentalista będzie musiał polegać na wkładzie
+dostarczonym przez osoby, które zaprojektowały dokumentowaną funkcjonalność.
+Programista pisze kod i “okrasza” go odpowiednimi komentarzami, a dokumentalista
+wyciąga z komentarzy odpowiednie informacje, redaguje, a następnie publikuje w
+formie dokumentacji API. Taka współpraca pozwala stworzyć dokumentację, która
+jest nie tylko technicznie poprawna, ale także czytelna, spójna i zrozumiała.</p><p>Niniejszy artykuł rozpoczyna cykl, w którym nakreślę główne wyzwania związane z
+dokumentacją API, rolę technical writera w procesie jej tworzenia, a także
+dostępne narzędzia. Na początek odpowiem jednak na pytanie, które zapewne
+nurtuje większość czytających – co to jest API?</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="czym-jest-api">Czym jest API?<a href="#czym-jest-api" class="hash-link" aria-label="Bezpośredni link do Czym jest API?" title="Bezpośredni link do Czym jest API?">​</a></h2><p>W dużym uproszczeniu mianem API (<em>Application Programming Interface</em>) można
+określić zestaw rozwiązań, dzięki którym dwie aplikacje mogą porozumiewać się ze
+sobą. Taki interfejs programistyczny udostępnia “punkty zaczepienia”, dzięki
+którym inne aplikacje i usługi mogą korzystać z jakiegoś przewidzianego przez
+programistę zakresu funkcjonalności aplikacji wystawiającej API. Brzmi
+skomplikowanie? Sięgnijmy po konkretny przykład.</p><p>Chyba każdy z nas korzysta regularnie z Google Maps lub odpowiednika tej usługi.
+Sięgamy po nią, gdy chcemy się dowiedzieć, gdzie w pobliżu można dobrze zjeść,
+jak najlepiej dojechać w dane miejsce, czy też zorientować się w nieznanym przez
+nas mieście.</p><iframe style="border:2px" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJX4B9qBtbFkcR4hg5zRO0-V4&amp;key=AIzaSyAmW63A0BsrstGLvhXXn-kbowRdGJPSlYM" width="500" height="350" frameborder="1"></iframe><p>Na stronach internetowych knajp można znaleźć małe mapki, które pokazują
+lokalizację lokalu, jego oceny i np. obszar, w którym restauracja oferuje
+dostawę jedzenia. Zastanawialiście się kiedyś, skąd biorą się te mapki?
+Odpowiedź jest prosta. Google udostępnia szereg API umożliwiających korzystanie
+z funkcjonalności map przez twórców stron internetowych.</p><p>Dla przykładu, aby otrzymać mapę danego miejsca, wystarczy do takiego API wysłać
+następujące żądanie (<em>request</em>) HTTP:</p><p><a href="https://www.google.com/maps/embed/v1/place?q=place%5C_id:ChIJ0RhONcBEFkcRv4pHdrW2a7Q&amp;key=1234" target="_blank" rel="noopener noreferrer">https://www.google.com/maps/embed/v1/place?q=place\_id:ChIJ0RhONcBEFkcRv4pHdrW2a7Q&amp;key=1234</a></p><p>Spróbujmy je rozłożyć na czynniki pierwsze:</p><ul><li><a href="https://www.google.com/maps/embed/v1/" target="_blank" rel="noopener noreferrer">https://www.google.com/maps/embed/v1/</a> to bazowy adres URL (<em>base URL</em>), czyli
+część wspólna dla każdego żądania, jakie wysyłamy do danego API.</li><li>/place to tzw. <em>endpoint</em>, czyli punkt dostępowy. Większość API oferuje szereg
+różnych punktów dostępowych odpowiadających różnym zasobom. W wypadku
+omawianego Google Maps API inne możliwe endpointy to np. /search (zwracający
+wyniki wyszukiwania dla danego obszaru), /directions (wytyczający trasę z
+punktu A do punktu B), czy /streetview (pokazujący widok z poziomu ulicy).</li><li>Symbol “?” sygnalizuje początek <em>query string</em>, czyli łańcucha zapytania. Po
+nim następuje szereg parametrów. Składające się z nazwy (klucza) i wartości w
+formacie “klucz=wartość”  parametry oddzielane są od siebie znakiem “&amp;”.
+Wymagane parametry zależą od użytego <em>endpointu</em> i powinny być starannie
+opisane w dokumentacji.</li><li>q=place<em>id:<!-- -->_<!-- -->ChIJX4B9qBtbFkcR4hg5zRO0-V4</em> to parametr określający
+identyfikator miejsca – w naszym przykładzie jest to Dworzec Kraków Główny
+(każde miejsce posiada unikalny identyfikator, dzięki czemu można odróżnić
+miejsca noszące taką samą nazwę).</li><li>key=1234 to parametr zawierający unikalny klucz, który identyfikuje stronę
+internetową lub aplikację wołającą API. W większości przypadków klucze do
+publicznych API wydawane są “od ręki” po założeniu konta deweloperskiego. Jest
+to jeden z kilku możliwych sposobów ograniczenia dostępu do API.</li></ul><p>Żądania kierowane do API mogą być oczywiście znacznie bardziej rozbudowane. Na
+przykład gdy konieczne jest przekazanie lub odebranie dużych ilości danych, dane
+te zamieszcza się nie w ścieżce URL jak powyżej, lecz w ciele (<em>body</em>)
+wiadomości. Dodatkowo stosuje się nagłówki (<em>headers</em>) sygnalizujące np. format
+przesyłanych danych (JSON, XML) bądź określające inne aspekty relacji między
+klientem, czyli aplikacją wołającą API, a podmiotem udostępniającym API.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="rodzaje-api">Rodzaje API<a href="#rodzaje-api" class="hash-link" aria-label="Bezpośredni link do Rodzaje API" title="Bezpośredni link do Rodzaje API">​</a></h2><p>Interfejs programistyczny Google Maps to przykład tak zwanego web API, czyli
+takiego API, w którym do komunikacji pomiędzy aplikacjami (tutaj przez aplikację
+rozumiemy stronę internetową) wykorzystywany jest protokół HTTP. Niemal każda
+duża organizacja udostępnia jakieś API tego rodzaju. W obszernym rejestrze
+prowadzonym przez serwis
+<a href="https://www.programmableweb.com/category/all/apis" target="_blank" rel="noopener noreferrer">ProgrammableWeb</a> znajdziemy
+nie tylko przedstawicieli mediów społecznościowych, takich jak Facebook czy
+Twitter, portali aukcyjnych (eBay, Allegro), ale też masę instytucji rządowych i
+badawczych (NASA), które za darmo bądź odpłatnie umożliwiają użytkownikom dostęp
+do swoich zasobów danych za pośrednictwem web API. Tak niezwykłą popularność
+webowe API zawdzięczają swojej dużej elastyczności i uniwersalnemu formatowi,
+bowiem protokół HTTP nie jest przywiązany do jednego systemu operacyjnego czy
+języka programowania.</p><p><img loading="lazy" src="/assets/images/api-e7a9796bad469fb3e0be9aa5f66800be.png" width="517" height="963" class="img_ev3q"></p><p>Źródło: <a href="https://xkcd.com/" target="_blank" rel="noopener noreferrer">https://xkcd.com/</a></p><p>Sytuacja ma się zupełnie inaczej w przypadku “natywnych” API. Przez natywne
+interfejsy programistyczne można rozumieć biblioteki kodu, które ułatwiają
+programiście wykonanie pewnych zadań. Na przykład pisząc aplikację dla
+środowiska Windows, deweloper nie musi bawić się w niskopoziomowe programowanie
+takich podstawowych funkcjonalności jak okienka, menu kontekstowe czy okna
+dialogowe, ponieważ służą temu odpowiednie biblioteki systemowe. Innym
+przykładem natywnego API może być popularna biblioteka jQuery, która umożliwia
+programowanie w języku JavaScript w wygodny i przejrzysty sposób. Jeżeli chodzi
+o potrzeby dokumentacyjne, natywne API wymagają zupełnie innego podejścia i
+zestawu narzędzi. W związku z tym w niniejszym cyklu skupię się wyłącznie na
+webowych API.</p><p>W kolejnym odcinku przyjrzymy się narzędziom przydatnym podczas dokumentowania
+API oraz odpowiemy na pytanie “to HAT or not to HAT?”.</p></div><footer class="row docusaurus-mt-lg blogPostFooterDetailsFull_mRVl"><div class="col"><b>Tagi:</b><ul class="tags_jXut padding--none margin-left--sm"><li class="tag_QGVx"><a class="tag_zVej tagRegular_sFm0" href="/blog/tags/dobre-praktyki">dobre-praktyki</a></li><li class="tag_QGVx"><a class="tag_zVej tagRegular_sFm0" href="/blog/tags/przyklady">przyklady</a></li><li class="tag_QGVx"><a class="tag_zVej tagRegular_sFm0" href="/blog/tags/warsztat">warsztat</a></li><li class="tag_QGVx"><a class="tag_zVej tagRegular_sFm0" href="/blog/tags/api">api</a></li><li class="tag_QGVx"><a class="tag_zVej tagRegular_sFm0" href="/blog/tags/dokumentacja">dokumentacja</a></li></ul></div><div class="col margin-top--sm"><a href="https://github.com/techwriter-pl/techwriter-pl.github.io/blog/dokumentacja-api-czesc-1-definicja-i-rodzaje-api/index.md" target="_blank" rel="noreferrer noopener" class="theme-edit-this-page"><svg fill="currentColor" height="20" width="20" viewBox="0 0 40 40" class="iconEdit_Z9Sw" aria-hidden="true"><g><path d="m34.5 11.7l-3 3.1-6.3-6.3 3.1-3q0.5-0.5 1.2-0.5t1.1 0.5l3.9 3.9q0.5 0.4 0.5 1.1t-0.5 1.2z m-29.5 17.1l18.4-18.5 6.3 6.3-18.4 18.4h-6.3v-6.2z"></path></g></svg>Edytuj tę stronę</a></div></footer></article><nav class="pagination-nav docusaurus-mt-lg" aria-label="Nawigacja na stronie postu na blogu"><a class="pagination-nav__link pagination-nav__link--prev" href="/blog/content-automation-for-dummies-recenzja"><div class="pagination-nav__sublabel">Nowszy post</div><div class="pagination-nav__label">Content Automation for Dummies - recenzja</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/blog/readme-md-czyli-historia-zbyt-pomocnego-pliku"><div class="pagination-nav__sublabel">Starszy post</div><div class="pagination-nav__label">README.md, czyli historia zbyt pomocnego pliku</div></a></nav></main><div class="col col--2"><div class="tableOfContents_bqdL thin-scrollbar"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#o-autorze" class="table-of-contents__link toc-highlight">O autorze</a></li><li><a href="#dokumentacja-api--część-1-definicja-i-rodzaje-api" class="table-of-contents__link toc-highlight">Dokumentacja API – Część 1: Definicja i rodzaje API</a></li><li><a href="#czym-jest-api" class="table-of-contents__link toc-highlight">Czym jest API?</a></li><li><a href="#rodzaje-api" class="table-of-contents__link toc-highlight">Rodzaje API</a></li></ul></div></div></div></div></div><footer class="footer"><div class="container container-fluid"><div class="footer__links text--center"><div class="footer__links"><a href="http://www.facebook.com/techwriterpl" target="_blank" rel="noopener noreferrer" class="footer__link-item">Facebook<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="iconExternalLink_nPIU"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg></a><span class="footer__link-separator">·</span><a href="http://x.com/techwriterpl" target="_blank" rel="noopener noreferrer" class="footer__link-item">X.com (dawny Twitter)<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="iconExternalLink_nPIU"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg></a><span class="footer__link-separator">·</span><a href="https://www.linkedin.com/company/techwriter-pl/" target="_blank" rel="noopener noreferrer" class="footer__link-item">Linkedin<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="iconExternalLink_nPIU"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg></a></div></div><div class="footer__bottom text--center"><div class="footer__copyright">Copyright © 2023 techwriter.pl</div></div></div></footer></div>
+<script src="/assets/js/runtime~main.ac0917e2.js"></script>
+<script src="/assets/js/main.fd699d73.js"></script>
+</body>
+</html>

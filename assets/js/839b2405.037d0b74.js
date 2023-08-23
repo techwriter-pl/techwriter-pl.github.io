@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[89768],{39520:e=>{e.exports=JSON.parse('{"label":"z-kraju","permalink":"/blog/tags/z-kraju","allTagsPath":"/blog/tags","count":156}')}}]);

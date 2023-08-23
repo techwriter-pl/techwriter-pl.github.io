@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[5528],{17788:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/edukacja/page/4","page":4,"postsPerPage":10,"totalPages":10,"totalCount":100,"previousPage":"/blog/tags/edukacja/page/3","nextPage":"/blog/tags/edukacja/page/5","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

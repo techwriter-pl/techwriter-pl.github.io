@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[23757],{25498:a=>{a.exports=JSON.parse('{"label":"automatyzacja","permalink":"/blog/tags/automatyzacja","allTagsPath":"/blog/tags","count":7}')}}]);

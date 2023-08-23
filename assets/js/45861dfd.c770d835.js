@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[82398],{44868:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/treningi/page/2","page":2,"postsPerPage":10,"totalPages":2,"totalCount":20,"previousPage":"/blog/tags/treningi","blogDescription":"Blog","blogTitle":"Blog"}')}}]);
