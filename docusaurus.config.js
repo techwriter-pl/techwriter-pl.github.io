@@ -38,7 +38,8 @@ const config = {
       ({
         blog: {
           showReadingTime: true,
-          editUrl: "https://github.com/techwriter-pl/techwriter-pl.github.io",
+          routeBasePath: "/",
+          blogListComponent: "@site/src/components/BlogList/BlogList",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -63,13 +64,13 @@ const config = {
           src: "img/logo-square.png",
         },
         items: [
-          { to: "/blog/tags/warsztat", label: "Wiedza", position: "right" },
+          { to: "/tags/warsztat", label: "Wiedza", position: "right" },
           {
-            to: "/blog/tags/news",
+            to: "/tags/news",
             label: "Wydarzenia",
             position: "right",
           },
-          { to: "/blog/tags/praca", label: "Praca", position: "right" },
+          { to: "/tags/praca", label: "Praca", position: "right" },
         ],
       },
       footer: {

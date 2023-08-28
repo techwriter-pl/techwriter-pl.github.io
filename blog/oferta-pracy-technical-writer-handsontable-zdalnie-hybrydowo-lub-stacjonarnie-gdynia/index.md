@@ -1,6 +1,7 @@
 ---
-title: "OFERTA PRACY: TECHNICAL WRITER (Handsontable) – ZDALNIE, HYBRYDOWO LUB
-  STACJONARNIE (GDYNIA)"
+title:
+  "Oferta pracy: technical writer (Handsontable) – zdalnie, hybrydowo lub
+  stacjonarnie (Gdynia)"
 authors: agnieszka
 date: "2023-08-03"
 tags:
@@ -39,11 +40,11 @@ Aplikacje możecie przesyłać drogą mailową na adres
 ## Technical Writer for Handsontable
 
 At Handsoncode, we're on a mission to help developers deliver software faster.
-Handsontable, our flagship product,has becomeone of the world's most popular
-JavaScriptdata grid components. We are now seeking a Technical Content Writer to
-join our team. The ideal candidate will have a strong background in JavaScript,
-technical writing, and a passion for creating clear, concise, and engaging
-content for the JavaScript community. You will plan and execute content
+Handsontable, our flagship product, has become one of the world's most popular
+JavaScript data grid components. We are now seeking a Technical Content Writer
+to join our team. The ideal candidate will have a strong background in
+JavaScript, technical writing, and a passion for creating clear, concise, and
+engaging content for the JavaScript community. You will plan and execute content
 strategy, create technical-focused content for our blog, and collaborate closely
 with outsourced writers.
 
@@ -103,7 +104,7 @@ with outsourced writers.
 1. Apply using the form or by sending an email to careers@handsontable.com
 2. Let's talk! You will have a quick interview with the CEO in English, using
    Google Meet. At this meeting, we will discuss fundamental matters such as
-   your expected salary andform of employment.
+   your expected salary and form of employment.
 3. Whoa, is it a match? You will have an interview with the CEO and Marketing
    Manager, partly in English, using Google Meet.
 4. A brief background check - we might want to review your previous work or talk

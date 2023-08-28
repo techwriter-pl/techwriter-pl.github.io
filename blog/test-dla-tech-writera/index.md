@@ -107,7 +107,7 @@ tego, jak pracodawcy do tego podchodzą.
 
 # Potrzebny pisemny sprawdzian - pomysły na testy
 
-[![](images/test-300x199-1.jpg)](http://techwriter.pl/wp-content/uploads/2022/12/test-300x199-1.jpg)
+[![](/img/cover/test-300x199-1.jpg)](http://techwriter.pl/wp-content/uploads/2022/12/test-300x199-1.jpg)
 
 Przegląd pomysłów rozpoczniemy od tych najbardziej odbiegających od codziennych
 obowiązków technical writera, aż po najbardziej realistyczne symulacje

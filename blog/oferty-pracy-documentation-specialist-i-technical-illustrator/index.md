@@ -28,7 +28,7 @@ linki pod nimi:
 
 [http://www.etteplaniot.com/documents/10182/35008/170323_Documentation_Specialist_Etteplan.pdf/28552179-32f3-4e3a-a663-bd50762cac28](http://www.etteplaniot.com/documents/10182/35008/170323_Documentation_Specialist_Etteplan.pdf/28552179-32f3-4e3a-a663-bd50762cac28)
 
-[![](images/Etteplan_logo_RGB_150dpi.jpg)](http://www.etteplaniot.com/documents/10182/35008/170328_Technical_Illustrator_Etteplan.pdf/42655e68-40cf-48f0-a58a-b44e25ead3ca)
+[![](/img/cover/Etteplan_logo_RGB_150dpi.jpg)](http://www.etteplaniot.com/documents/10182/35008/170328_Technical_Illustrator_Etteplan.pdf/42655e68-40cf-48f0-a58a-b44e25ead3ca)
 [![](images/TechnicalIllustratorEtteplan.jpg)](http://www.etteplaniot.com/documents/10182/35008/170328_Technical_Illustrator_Etteplan.pdf/42655e68-40cf-48f0-a58a-b44e25ead3ca)
 
 [http://www.etteplaniot.com/documents/10182/35008/170328_Technical_Illustrator_Etteplan.pdf/42655e68-40cf-48f0-a58a-b44e25ead3ca](http://www.etteplaniot.com/documents/10182/35008/170328_Technical_Illustrator_Etteplan.pdf/42655e68-40cf-48f0-a58a-b44e25ead3ca)

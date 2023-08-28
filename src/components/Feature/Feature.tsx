@@ -12,7 +12,11 @@ export type FeatureProps = {
   };
 };
 
-export default function Feature({ title, body, link }: FeatureProps) {
+export default function Feature({
+  title,
+  body,
+  link,
+}: FeatureProps): JSX.Element {
   return (
     <div className={clsx("card", styles.featureCard)}>
       <h2>{title}</h2>

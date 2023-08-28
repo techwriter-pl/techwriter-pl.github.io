@@ -1,5 +1,5 @@
 ---
-title: "JESIENNA EDYCJA API THE DOCS VIRTUAL 2023 - ZAPOWIEDŹ"
+title: "Jesienna edycja API the Docs Virtual 2023 - Zapowiedź"
 authors: agnieszka
 date: "2023-08-18"
 tags:

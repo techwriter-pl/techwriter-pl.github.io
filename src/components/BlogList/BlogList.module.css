@@ -1,0 +1,20 @@
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.item {
+  max-width: 400px;
+  display: flex;
+  gap: 1rem;
+}
+
+.itemImage {
+  height: 50px;
+}
+
+.itemTitle {
+  font-size: 110%;
+  font-weight: 600;
+}
