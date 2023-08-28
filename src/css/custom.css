@@ -42,3 +42,7 @@
 .button--secondary {
   background-color: var(--tech-writer-orange);
 }
+
+a {
+  color: var(--ifm-color-primary-darkest);
+}
