@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[70394],{14978:e=>{e.exports=JSON.parse('{"permalink":"/tags/praktyki/page/9","page":9,"postsPerPage":3,"totalPages":9,"totalCount":26,"previousPage":"/tags/praktyki/page/8","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

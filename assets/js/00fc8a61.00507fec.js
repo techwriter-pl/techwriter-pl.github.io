@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[10409],{6964:e=>{e.exports=JSON.parse('{"permalink":"/tags/uzytecznosc/page/5","page":5,"postsPerPage":3,"totalPages":8,"totalCount":22,"previousPage":"/tags/uzytecznosc/page/4","nextPage":"/tags/uzytecznosc/page/6","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

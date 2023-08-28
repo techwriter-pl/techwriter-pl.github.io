@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[76924],{4259:e=>{e.exports=JSON.parse('{"permalink":"/tags/literatura/page/2","page":2,"postsPerPage":3,"totalPages":5,"totalCount":14,"previousPage":"/tags/literatura","nextPage":"/tags/literatura/page/3","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

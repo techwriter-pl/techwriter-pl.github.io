@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[63808],{15631:e=>{e.exports=JSON.parse('{"label":"dobre-praktyki","permalink":"/blog/tags/dobre-praktyki","allTagsPath":"/blog/tags","count":97}')}}]);

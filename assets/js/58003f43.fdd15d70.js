@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[81101],{19786:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/warsztat/page/9","page":9,"postsPerPage":10,"totalPages":21,"totalCount":209,"previousPage":"/blog/tags/warsztat/page/8","nextPage":"/blog/tags/warsztat/page/10","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

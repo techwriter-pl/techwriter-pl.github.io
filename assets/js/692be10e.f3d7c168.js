@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[18683],{31939:e=>{e.exports=JSON.parse('{"permalink":"/tags/zarzadzanie-wiedza/page/2","page":2,"postsPerPage":3,"totalPages":2,"totalCount":5,"previousPage":"/tags/zarzadzanie-wiedza","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

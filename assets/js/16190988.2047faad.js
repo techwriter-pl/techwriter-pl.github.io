@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[21602],{17227:e=>{e.exports=JSON.parse('{"label":"tlumaczenia","permalink":"/tags/tlumaczenia","allTagsPath":"/tags","count":23}')}}]);

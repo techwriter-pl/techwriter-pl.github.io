@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[76155],{67942:e=>{e.exports=JSON.parse('{"permalink":"/tags/dostepnosc/page/2","page":2,"postsPerPage":3,"totalPages":2,"totalCount":4,"previousPage":"/tags/dostepnosc","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

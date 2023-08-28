@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[76604],{68271:e=>{e.exports=JSON.parse('{"permalink":"/tags/badanie-plac","page":1,"postsPerPage":3,"totalPages":4,"totalCount":12,"nextPage":"/tags/badanie-plac/page/2","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

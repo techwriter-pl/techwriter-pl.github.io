@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[82070],{5618:e=>{e.exports=JSON.parse('{"permalink":"/tags/knowledge-base/page/2","page":2,"postsPerPage":3,"totalPages":3,"totalCount":8,"previousPage":"/tags/knowledge-base","nextPage":"/tags/knowledge-base/page/3","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

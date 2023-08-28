@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[78541],{25012:e=>{e.exports=JSON.parse('{"label":"edukacja","permalink":"/tags/edukacja","allTagsPath":"/tags","count":100}')}}]);

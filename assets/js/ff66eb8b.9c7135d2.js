@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[54939],{83470:e=>{e.exports=JSON.parse('{"permalink":"/tags/infografiki","page":1,"postsPerPage":3,"totalPages":3,"totalCount":8,"nextPage":"/tags/infografiki/page/2","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

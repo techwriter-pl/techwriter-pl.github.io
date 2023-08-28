@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[34671],{13608:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/dobre-praktyki","page":1,"postsPerPage":10,"totalPages":10,"totalCount":97,"nextPage":"/blog/tags/dobre-praktyki/page/2","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

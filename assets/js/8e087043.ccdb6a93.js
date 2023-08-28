@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[92600],{55180:e=>{e.exports=JSON.parse('{"permalink":"/tags/technologie/page/3","page":3,"postsPerPage":3,"totalPages":13,"totalCount":38,"previousPage":"/tags/technologie/page/2","nextPage":"/tags/technologie/page/4","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

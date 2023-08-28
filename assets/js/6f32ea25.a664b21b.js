@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[69876],{58475:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/aplikacje","page":1,"postsPerPage":10,"totalPages":3,"totalCount":26,"nextPage":"/blog/tags/aplikacje/page/2","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

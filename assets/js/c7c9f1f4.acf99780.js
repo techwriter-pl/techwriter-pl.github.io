@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[80367],{79210:e=>{e.exports=JSON.parse('{"label":"biblioteczka-techwritera","permalink":"/tags/biblioteczka-techwritera","allTagsPath":"/tags","count":14}')}}]);

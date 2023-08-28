@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[93960],{94883:e=>{e.exports=JSON.parse('{"permalink":"/tags/urzadzenia-mobilne","page":1,"postsPerPage":3,"totalPages":2,"totalCount":5,"nextPage":"/tags/urzadzenia-mobilne/page/2","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[6958],{83318:e=>{e.exports=JSON.parse('{"permalink":"/tags/narzedzia/page/4","page":4,"postsPerPage":3,"totalPages":20,"totalCount":60,"previousPage":"/tags/narzedzia/page/3","nextPage":"/tags/narzedzia/page/5","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[42940],{41567:e=>{e.exports=JSON.parse('{"label":"aritificial-intelligence","permalink":"/tags/aritificial-intelligence","allTagsPath":"/tags","count":1}')}}]);

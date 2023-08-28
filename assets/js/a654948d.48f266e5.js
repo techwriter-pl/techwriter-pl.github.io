@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[73386],{80130:e=>{e.exports=JSON.parse('{"label":"gry","permalink":"/tags/gry","allTagsPath":"/tags","count":1}')}}]);

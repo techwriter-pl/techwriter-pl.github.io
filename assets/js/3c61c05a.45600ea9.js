@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[67238],{13748:e=>{e.exports=JSON.parse('{"label":"narzedzia","permalink":"/tags/narzedzia","allTagsPath":"/tags","count":60}')}}]);
