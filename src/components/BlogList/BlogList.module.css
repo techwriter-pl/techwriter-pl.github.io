@@ -1,5 +1,11 @@
 .wrapper {
   display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.items {
+  display: flex;
   flex-wrap: wrap;
   gap: 1rem;
 }
@@ -17,4 +23,10 @@
 .itemTitle {
   font-size: 110%;
   font-weight: 600;
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }

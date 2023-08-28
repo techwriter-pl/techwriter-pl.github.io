@@ -40,6 +40,7 @@ const config = {
           showReadingTime: true,
           routeBasePath: "/",
           blogListComponent: "@site/src/components/BlogList/BlogList",
+          postsPerPage: 3,
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
