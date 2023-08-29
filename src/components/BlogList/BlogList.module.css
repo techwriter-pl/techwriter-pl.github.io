@@ -1,32 +1,22 @@
 .wrapper {
-  display: flex;
-  flex-direction: column;
-  gap: 2rem;
-}
-
-.items {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1rem;
-}
-
-.item {
-  max-width: 400px;
-  display: flex;
-  gap: 1rem;
+  padding: 2rem 0;
+  background-color: var(--ifm-color-primary);
 }
 
 .itemImage {
-  height: 50px;
+  width: 100%;
+  border: 1px solid var(--ifm-color-primary);
 }
 
 .itemTitle {
-  font-size: 110%;
+  font-size: 130%;
   font-weight: 600;
+  margin-top: 1rem;
 }
 
 .buttons {
   display: flex;
   align-items: center;
   justify-content: center;
+  padding: 3rem 0;
 }

@@ -5,6 +5,26 @@
   overflow: hidden;
 }
 
+.logoRow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+
+.coffeeImage {
+  width: 200px;
+  height: 200px;
+  background-color: var(--tech-writer-orange);
+  border-radius: 50%;
+}
+
+.tagline {
+  font-size: 1.5rem;
+  margin: 0;
+}
+
 @media screen and (max-width: 996px) {
   .heroBanner {
     padding: 2rem;

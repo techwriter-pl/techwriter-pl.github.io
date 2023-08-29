@@ -100,7 +100,99 @@ const polishDescriptions: { [id: string]: JSX.Element } = {
   piechowicz: <></>,
 };
 
-export default function AuthorList() {
+const englishDescriptions: { [id: string]: JSX.Element } = {
+  admin: (
+    <>
+      The originator and a co-founder of techwriter.pl. He suffers from
+      hyperactivity – a tester, trainer, consultant, manager, mentor,
+      entrepreneur, lecturer, board member of ITCQF… One field isn’t enough for
+      him. That’s why in addition to technical communication, he works in
+      quality assurance. He loves basketball. Sometimes, you can meet him on a
+      tennis court.
+    </>
+  ),
+  agnieszka: (
+    <>
+      For the past few years, she’s been gaining experience in tech comm, mainly
+      as an editor of techwriter.pl. She graduated in English. Currently, she’s
+      occupied with being a mother and blogger. Agnieszka is passionate about
+      travelling, photography, and reading.
+    </>
+  ),
+  toporek: (
+    <>
+      Martyna works with technical documentation every day. Complicated
+      machines, production lines and food technology are her favourite things.
+      In her spare time, Martyna loves traveling, riding bike, climbing, walking
+      in the mountains, crocheting and reading books. She likes sophistication
+      and experimentation. From time-to-time she writes articles and draws
+      pictures.
+    </>
+  ),
+  niewiarowski: (
+    <>
+      A graduate of English Philology with considerable translation
+      achievements. For 10 years he has been a tech writer in the automotive
+      navigation and autonomous vehicles industry. Professionally, he had a lot
+      of contact with instructions, e-learning, and is interested in coaching.
+      Fan of TechSmith’s Snagit app. Privately, he is interested in film, rock
+      and metal music. He also likes reading and skiing. From the age of five,
+      he was fascinated with dinosaurs and it stayed that way. The second group
+      of animals that he especially admires are turtles and tortoises.
+    </>
+  ),
+  niedzwiedzka: (
+    <>
+      Technical writer, a graduate of journalism at the University of Warsaw and
+      technical communication at the Vistula Academy of Finance and Business.
+      She and her friends create the girls.js community, where women can take
+      their first steps in learning JavaScript for free. In the few free time,
+      she learns polyphonic songs in the languages ​​of our eastern neighbours,
+      practices yoga and cultivates plants in the community garden.
+    </>
+  ),
+  pensjonatus: (
+    <>
+      Not an actual real person. He's been in the business of tech content since
+      2008. Has worked as a writer, programmer, and DITA guy. A board member at{" "}
+      <Link href="http://itcqf.org/">ITCQF</Link>, currently at Guidewire
+      Software. Sometimes writes flash fiction, reads books or plays computer
+      games. Is looking forward to the time when AI will take over so we can all
+      take a break.
+    </>
+  ),
+  mojk: (
+    <>
+      His adventure with technical communication started in 2012.Together with
+      his colleagues, he tries to grow the Polish tech comm scene. At the
+      beginning of 2014, he joined techwriter.pl as an editor and later he also
+      became responsible for running the entire portal. He left the staff in
+      June 2019.
+    </>
+  ),
+  kulgawczuk: (
+    <>
+      Techwriter child of surprise. He never thought about future in tech comm
+      when he was taking up philological studies. He never ceased to think about
+      future in tech comm when he was graduating from philological studies. He
+      has taken only a few first steps in the documentation world. An affair
+      with translation resulted in an interesting way of spending free time.
+      Three years in a religious order suggest that he is a person with clearly
+      stated believes and with a healthy dose of discipline. Sports – running,
+      board games – cooperation, desserts – Tiramisu.
+    </>
+  ),
+  szablowska: <></>,
+  milc: <></>,
+  kuba: <></>,
+  piechowicz: <></>,
+};
+
+type AuthorListProps = {
+  language?: "Polish" | "English";
+};
+
+export default function AuthorList({ language }: AuthorListProps) {
   const authorList: AuthorProps[] = Object.entries<AuthorProps>(authors).map(
     ([key, value]) => ({
       name: value.name,
@@ -116,7 +208,11 @@ export default function AuthorList() {
       {authorList.map((author: AuthorProps) => (
         <div key={author.name} className={styles.author}>
           <AuthorAvatar {...author} />
-          <div>{polishDescriptions[author.id]}</div>
+          <div>
+            {language && language === "English"
+              ? englishDescriptions[author.id]
+              : polishDescriptions[author.id]}
+          </div>
         </div>
       ))}
     </div>

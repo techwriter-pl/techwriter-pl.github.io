@@ -9,12 +9,12 @@ export default function HomePageHeader(): JSX.Element {
   return (
     <header className={clsx("hero", styles.heroBanner)}>
       <div className="container">
-        <div>
-          <img src="/img/logo-wide.png" alt={siteConfig.title} />
-        </div>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className="margin-bottom--lg">
-          <img src="/img/Coffee.svg" alt="" />
+        <div className={clsx(styles.logoRow)}>
+          <img src="/img/Coffee.svg" alt="" className={styles.coffeeImage} />
+          <div>
+            <img src="/img/logo-wide.png" alt={siteConfig.title} />
+            <p className={styles.tagline}>{siteConfig.tagline}</p>
+          </div>
         </div>
       </div>
     </header>

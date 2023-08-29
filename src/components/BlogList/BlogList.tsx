@@ -5,6 +5,7 @@ import Link from "@docusaurus/Link";
 import styles from "./BlogList.module.css";
 import clsx from "clsx";
 import BlogListPage from "@theme/BlogListPage";
+import Partners from "../Partners/Partners";
 
 export default function BlogHome(props): JSX.Element {
   const { pathname, search } = props.history.location;
@@ -17,25 +18,42 @@ export default function BlogHome(props): JSX.Element {
   return (
     <Layout>
       <HomePageHeader />
-      <div className={clsx("container", styles.wrapper)}>
-        <div className={styles.items}>
-          {props.items.slice(0, 3).map(({ content }) => {
-            const { date, permalink } = content.metadata;
-            const { title, coverImage } = content.frontMatter;
-            const coverImagePath = `/img/cover/${coverImage}`;
-            return (
-              <Link to={permalink} key={date} className={styles.item}>
-                <img alt="" src={coverImagePath} className={styles.itemImage} />
-                <div className={styles.itemTitle}>{title}</div>
-              </Link>
-            );
-          })}
+      <div className={styles.wrapper}>
+        <div className="container">
+          <div className="row">
+            {props.items.slice(0, 3).map(({ content }) => {
+              const { date, permalink } = content.metadata;
+              const { title, coverImage } = content.frontMatter;
+              const coverImagePath = `/img/cover/${coverImage}`;
+              return (
+                <Link to={permalink} className="col col--4 margin-bottom--md">
+                  <div
+                    key={date}
+                    className="card padding--lg"
+                    style={{ height: "100%" }}
+                  >
+                    <img
+                      alt=""
+                      src={coverImagePath}
+                      className={styles.itemImage}
+                    />
+                    <div className={styles.itemTitle}>{title}</div>
+                  </div>
+                </Link>
+              );
+            })}
+          </div>
         </div>
+      </div>
+      <div className="container">
         <div className={styles.buttons}>
-          <Link className="button button--primary button--lg" to="page/2">
+          <Link className="button button--secondary button--lg" to="page/2">
             Więcej artykułów
           </Link>
         </div>
+      </div>
+      <div className="container">
+        <Partners />
       </div>
     </Layout>
   );

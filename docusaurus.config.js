@@ -67,12 +67,18 @@ const config = {
         },
         items: [
           { to: "/?feed=true", label: "Blog", position: "right" },
+          { to: "/kontrybutorzy", label: "Napisz artykuł", position: "right" },
+          {
+            to: "https://www.facebook.com/groups/tworzeniedokumentacji",
+            label: "Grupa facebookowa",
+            position: "right",
+          },
           {
             to: "/kim-jestesmy",
             label: "O nas",
             position: "right",
           },
-          { to: "/tags/praca", label: "Praca", position: "right" },
+          { to: "/kontakt", label: "Kontakt", position: "right" },
         ],
       },
       footer: {
