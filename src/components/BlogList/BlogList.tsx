@@ -3,7 +3,6 @@ import React from "react";
 import HomePageHeader from "../Home/HomePageHeader";
 import Link from "@docusaurus/Link";
 import styles from "./BlogList.module.css";
-import clsx from "clsx";
 import BlogListPage from "@theme/BlogListPage";
 import Partners from "../Partners/Partners";
 
@@ -26,12 +25,12 @@ export default function BlogHome(props): JSX.Element {
               const { title, coverImage } = content.frontMatter;
               const coverImagePath = `/img/cover/${coverImage}`;
               return (
-                <Link to={permalink} className="col col--4 margin-bottom--md">
-                  <div
-                    key={date}
-                    className="card padding--lg"
-                    style={{ height: "100%" }}
-                  >
+                <Link
+                  to={permalink}
+                  className="col col--4 margin-bottom--md"
+                  key={date}
+                >
+                  <div className="card padding--lg" style={{ height: "100%" }}>
                     <img
                       alt=""
                       src={coverImagePath}
