@@ -7,9 +7,10 @@ import clsx from "clsx";
 import BlogListPage from "@theme/BlogListPage";
 
 export default function BlogHome(props): JSX.Element {
-  const { pathname } = props.history.location;
+  const { pathname, search } = props.history.location;
 
-  if (pathname.includes("/page/")) {
+  if (pathname.includes("/page/") || search.includes("feed=true")) {
+    console.log("Condition met");
     return <BlogListPage {...props} />;
   }
 

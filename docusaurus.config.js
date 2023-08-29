@@ -2,6 +2,7 @@
 
 const lightCodeTheme = require("prism-react-renderer/themes/github");
 const darkCodeTheme = require("prism-react-renderer/themes/dracula");
+const techWriterWebpackPlugin = require("./webpack-plugin");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -65,10 +66,10 @@ const config = {
           src: "img/logo-square.png",
         },
         items: [
-          { to: "/tags/warsztat", label: "Wiedza", position: "right" },
+          { to: "/?feed=true", label: "Blog", position: "right" },
           {
-            to: "/tags/news",
-            label: "Wydarzenia",
+            to: "/kim-jestesmy",
+            label: "O nas",
             position: "right",
           },
           { to: "/tags/praca", label: "Praca", position: "right" },
@@ -97,6 +98,7 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+  plugins: [techWriterWebpackPlugin],
 };
 
 module.exports = config;

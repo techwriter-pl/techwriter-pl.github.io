@@ -1,0 +1,11 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.author {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
