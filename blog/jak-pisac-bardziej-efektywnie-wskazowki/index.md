@@ -16,6 +16,8 @@ jednocześnie nadal utrzymać wysoką jakość treści? Poniższe wskazówki pom
 usprawnić proces pisania, dzięki czemu zyskamy cenny czas w obliczu zbliżającego
 się zbyt szybko deadlinu.
 
+<!--truncate-->
+
 Większa szybkość pisania to lepsza wydajność, a to z kolei prowadzi do robienia
 lepszych notatek, szybszego przyswajania wiedzy i oszczędności czasu na
 egzaminie czy przy tworzeniu tekstu. Jeżeli sprawnie piszemy - czy to odręcznie,

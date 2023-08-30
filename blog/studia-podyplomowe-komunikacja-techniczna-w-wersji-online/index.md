@@ -15,6 +15,8 @@ coverImage: "Podplomowe-Vistula-Online-2020.jpg"
 Mamy interesujące wieści. Studia podyplomowe z technical writingu startują już 7
 listopada. 100% online!
 
+<!--truncate-->
+
 W aktualnych okolicznościach przyrody rozpoczynanie jakichkolwiek studiów w
 formie tradycyjnej ma raczej średni sens. Do takich wniosków doszli również
 twórcy pierwszych studiów podyplomowych dotyczących naszej profesji. Wszystko

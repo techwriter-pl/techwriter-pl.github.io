@@ -17,6 +17,8 @@ amerykański producent automatyki przemysłowej oraz rozwiązań informatycznych
 poszukuje dwóch osób na stanowisko Senior Technical Writer/Information Developer
 do swojego biura w Katowicach.
 
+<!--truncate-->
+
 Więcej szczegółów na temat oferty znajdziecie poniżej. **Link do aplikowania
 znajduje się na dole ogłoszenia**.
 

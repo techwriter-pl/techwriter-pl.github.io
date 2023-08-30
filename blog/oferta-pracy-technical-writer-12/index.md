@@ -13,6 +13,8 @@ coverImage: "Dynatrace_Logo_RGB_CPV_1024x1024px-e1461612504627.png"
 Dla zrównoważenia ostatniego napływu ofert z południa Polski, mamy dzisiaj dla
 Was coś z przeciwległego bieguna.
 
+<!--truncate-->
+
 Firma [Dynatrace](http://jobs.dynatrace.pl/) z siedzibą w Gdańsku, zajmująca się
 tworzeniem oprogramowania, które pozwala zarządzać działami IT, rozwijać oraz
 testować aplikacje biznesowe i monitorować poziom usług informatycznych,

@@ -16,6 +16,8 @@ Po raz kolejny, z ogromną radością, zapraszamy Was na konferencję Write the 
 Prague. Tym razem, po raz pierwszy, wydarzenie to odbędzie się w pełni online.
 Poniżej znajdziecie najważniejsze informacje.
 
+<!--truncate-->
+
 Jak już dobrze wiecie jesteśmy stałym patronem medialnym konferencji, nie mogło
 nas więc zabraknąć podczas zeszłorocznej edycji Write the Docs w Pradze.
 Chętnych zapraszamy do zapoznania się z

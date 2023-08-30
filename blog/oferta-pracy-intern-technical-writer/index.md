@@ -12,6 +12,8 @@ coverImage: "unit4-logo-250.png"
 
 Kolejna szansa na rozpoczęcie kariery w komunikacji technicznej.
 
+<!--truncate-->
+
 Firma [Unit4](http://www.unit4.com), globalny dostawca oprogramowania
 biznesowego dla dużych przedsiębiorstw, poszukuje Intern Technical Writera do
 swojego biura we Wrocławiu. Oferta skierowana jest do osób, które interesują się

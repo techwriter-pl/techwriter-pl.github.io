@@ -14,6 +14,8 @@ Po naszym ogólnym podsumowaniu przyszła pora na trochę konkretów. Dzisiaj
 przedstawiamy skrótowo prezentacje z pierwszego dnia konferencji
 [soap! 2014](http://soapconf.com/ "SoapConf 2014").
 
+<!--truncate-->
+
 [![soap! 2014 audience](images/DSC6686-1024x489.jpg)](http://techwriter.pl/wp-content/uploads/2014/10/DSC6686.jpg)
 
 ## Gry nie tylko dla dzieci

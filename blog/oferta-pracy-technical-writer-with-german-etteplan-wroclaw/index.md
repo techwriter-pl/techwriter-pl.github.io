@@ -12,6 +12,8 @@ coverImage: "Etteplan_logo.jpg"
 Bardzo ciekawe stanowisko - dużo pisania, ale z elementami konsultingu i
 zarządzania. Brzmi ciekawie?
 
+<!--truncate-->
+
 Dla nas zdecydowanie tak! Szczególnie, że firma wydaje się nie tylko doceniać
 wartość informacji technicznej, ale również ewangelizuje innych w tym względzie:
 

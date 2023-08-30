@@ -14,6 +14,8 @@ znalezienie czegoś w języku polskim jest dość trudne. Chcąc zmienić ten s
 rzeczy, postanowiliśmy stworzyć dla Was niniejsze kompendium wiedzy o tym
 standardzie.
 
+<!--truncate-->
+
 W tym artykule możecie znaleźć kilka podstawowych i ogólnych informacji o dicie.
 Każdy z poruszonych tutaj tematów jest omówiony szerzej w kolejnych artykułach.
 

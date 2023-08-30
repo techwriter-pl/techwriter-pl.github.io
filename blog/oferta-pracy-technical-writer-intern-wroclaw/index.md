@@ -14,6 +14,8 @@ coverImage: "unit4-logo-250.png"
 Nie pierwszy już raz firma Unit4 daje Wam możliwość wejścia do zawodu. Warto
 rozważyć, ze swoich źródeł wiemy że to naprawdę dobre miejsce na start!
 
+<!--truncate-->
+
 Firma [Unit4](http://www.unit4.com), globalny dostawca oprogramowania
 biznesowego dla dużych przedsiębiorstw, poszukuje Intern Technical Writera do
 swojego biura we Wrocławiu. Oferta skierowana jest do osób, które interesują się

@@ -24,6 +24,8 @@ zbudowaliśmy na podstawie własnych doświadczeń. Nie chcemy nikogo zniechęca
 zawodu Technical Writera, a jedynie uświadomić, że to nie zawsze plaża i drinki
 ze słomką 😉
 
+<!--truncate-->
+
 ## Edukacyjna pustynia
 
 Kilkukrotnie ubolewaliśmy (np. w tym

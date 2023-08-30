@@ -13,6 +13,8 @@ Bardzo cieszą nas nadsyłane przez Was teksty, szczególnie kiedy można się z
 czegoś nauczyć. Tym razem nasza wierna czytelniczka Amerigo o wyzwaniach
 stojących przed piszącymi w języku polskim.
 
+<!--truncate-->
+
 Tytuł to nadal jest tekst z kabaretu, a nie poprawnie zbudowane zdanie w języku
 polskim.
 

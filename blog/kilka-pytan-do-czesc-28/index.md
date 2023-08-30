@@ -16,6 +16,8 @@ odpowiada Julia Dąbrowska, który niedawno dołączyła do grona towarzystwa lu
 piśmiennych technicznie 😉 Jak to się wszystko zaczęło i co może poradzić osobom
 stawiającym pierwsze kroki w tej roli? Zapraszamy poniżej.
 
+<!--truncate-->
+
 ### 1\. Jak długo pracujesz jako technical writer?
 
 W obecnej firmie,

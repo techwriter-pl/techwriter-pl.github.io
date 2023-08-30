@@ -18,6 +18,8 @@ ile zarabiają specjaliści w branży komunikacji technicznej? Jak różnią si�
 pensje w różnych województwach? Jak na wynagrodzenie wpływa doświadczenie? Jeśli
 ciekawi Was co zmieniło się w 2020 roku, zapraszamy do poniższego podsumowania.
 
+<!--truncate-->
+
 ## Porównanie z poprzednimi latami
 
 Wyniki poprzednich badań znajdziecie tu:

@@ -17,6 +17,8 @@ coverImage: "porozmawiajmy_o_it.png"
 Znaleźliśmy ostatnio ciekawą rozmowę dotyczącą zawodu technical writera.
 Szczegóły poniżej.
 
+<!--truncate-->
+
 [Porozmawiajmy o IT](https://porozmawiajmyoit.pl/) to strona z podcastami dla
 osób zainteresowanych branżą IT. Jej założycielem i twórcą jest Krzysztof
 Kempiński zawodowo zajmujący się web-developmentrem i zarządzaniem działami IT.

@@ -15,6 +15,8 @@ produkcją oprogramowania do wizualizacji, zarządzania, integracji oraz
 modelowania danych poszukuje kandydatów na stanowisko Technical Writer na
 terenie Górnego Śląska.
 
+<!--truncate-->
+
 Jest to praca zdalna, jednak konieczne będą comiesięczne wizyty w centrali w
 Wiedniu oraz współpraca z innym członkiem zespołu dokumentacji pracującym na
 Śląsku. Dokumentacja, naturalnie, jest pisana w języku angielskim 😊 Aby wziąć

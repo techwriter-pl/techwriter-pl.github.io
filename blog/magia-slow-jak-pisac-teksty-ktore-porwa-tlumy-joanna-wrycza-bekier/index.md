@@ -16,6 +16,8 @@ też dobry czas na utrwalenie wiedzy lub jej poszerzenie 😉. Dlatego mamy dzi�
 dla Was propozycję lektury, która w ciekawy i przystępny sposób pokaże Wam jak
 wielka magia tkwi w słowach.
 
+<!--truncate-->
+
 ### “Jeśli zajmujesz się pisaniem, to jesteś pisarzem.”
 
 Zdaniem Joanny Wryczy-Bekier, autorki książki “Magia słów. Jak pisać teksty,

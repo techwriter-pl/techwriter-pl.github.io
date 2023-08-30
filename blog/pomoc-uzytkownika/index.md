@@ -15,6 +15,8 @@ Czym zajmują się technical writerzy? Tworzą m.in. kontekstowe pomoce użytkow
 (ang. _on-line help_). A czym zajmują się pomoce użytkownika? I czym właściwie
 są?
 
+<!--truncate-->
+
 Tradycyjnie już zaczynamy od Wikipedyjnej
 [definicji](http://en.wikipedia.org/wiki/Online_help), która jest niestety dość
 ogólna. Pomoc użytkownika to po prostu informacja o oprogramowaniu dostarczana

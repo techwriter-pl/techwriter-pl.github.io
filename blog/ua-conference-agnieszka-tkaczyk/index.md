@@ -19,6 +19,8 @@ pisaliśmy [tutaj](http://techwriter.pl/soap-technical-communication-conference
 teraz możecie przeczytać o
 kolejnej: [**A Technical Writer’s Role in Redesigning the Application UI**](http://www.uaeurope.com/conference/sessions.html#redesignUI).
 
+<!--truncate-->
+
 Nie możemy rozpocząć tej relacji bez ukłonu w kierunku Agnieszki. Widać w niej
 ogromną pasję i zaangażowanie w swoją pracę. Agnieszka to bez wątpienia przykład
 odpowiedniej osoby na odpowiednim stanowisku.

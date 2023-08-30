@@ -15,6 +15,8 @@ coverImage: "alain-pham-248578.jpg"
 Zeszłoroczne badanie płac cieszyło się sporym zainteresowaniem. Dlatego w tym
 roku powtarzamy całą akcję i jednocześnie zachęcamy Was do wypełnienia ankiety.
 
+<!--truncate-->
+
 W 2017 roku postanowiliśmy zrobić nasze własne, kompleksowe badanie zarobków
 wśród technical writerów i powiązanych profesji. Wyniki tamtego badania
 opublikowaliśmy

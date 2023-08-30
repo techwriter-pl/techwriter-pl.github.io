@@ -13,6 +13,8 @@ coverImage: "soap2018.jpg"
 Kolejna odsłona krakowskiej konferencji soap! już wkrótce. Poniżej przypominamy
 garść najważniejszych informacji.
 
+<!--truncate-->
+
 ## Termin i miejsce
 
 Konferencja odbędzie się w dniach **23-25

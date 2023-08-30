@@ -13,6 +13,8 @@ coverImage: "VistulaKomunikacjaTechniczna-1-e1563346376984.jpg"
 Witajcie, mamy dziś dla Was dwie wiadomości, dobrą i złą. Zaczniemy od tej
 pierwszej.
 
+<!--truncate-->
+
 Dobra jest taka, że liczba chętnych na studia podyplomowe z komunikacji
 technicznej na warszawskiej uczelni Vistula zwiększa się systematycznie.
 

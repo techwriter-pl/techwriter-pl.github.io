@@ -16,6 +16,8 @@ Z ogromną przyjemnością przedstawiamy Wam kolejne wydarzenie, nad którym
 objęliśmy patronat medialny. Tym razem w centrum zainteresowania mamy branżę
 tłumaczeniową. Poniżej najważniejsze informacje.
 
+<!--truncate-->
+
 ### O jakie wydarzenie chodzi?
 
 Konferencja Tłumaczy, to według organizatorów, największe wydarzenie w branży

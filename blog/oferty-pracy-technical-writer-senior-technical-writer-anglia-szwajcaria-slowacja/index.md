@@ -15,6 +15,8 @@ coverImage: "OTClLogo1-e1532931093221.jpg"
 Dzisiaj mamy nie lada gratkę dla osób, które chcą nabyć tech writerskiego
 doświadzenia poza granicami naszego kraju.
 
+<!--truncate-->
+
 Firma [OnTarget](http://ontargetcommunication.com/), która od 2001 dostarcza
 usługi oraz szkolenia związane z dokumentacją dla firm z przemysłu zbrojeniowego
 i wysokiej technologii, poszukuje obecnie 4 kandydatów na stanowiska Technical

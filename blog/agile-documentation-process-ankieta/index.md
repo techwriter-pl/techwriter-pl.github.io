@@ -17,6 +17,8 @@ przede wszystkim - tworzone przez Was!  Jeżeli lubicie ankiety - podziękujcie
 naszym czytelnikom Mateuszowi i Tomkowi. Jeśli nie - nie miejcie do nas
 pretensji 😉
 
+<!--truncate-->
+
 Oto list otwarty od twórców ankiety. Pomóżcie chłopakom - może podzielą się z
 nami rezultatami? Bardzo na to liczymy.
 

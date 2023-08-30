@@ -16,6 +16,8 @@ coverImage: "Konferencje-2019.png"
 Nieubłaganie zbliża się drugie półrocze 2019 roku zatem nadszedł czas, by
 przedstawić Wam zaplanowane na ten czas konferencje.
 
+<!--truncate-->
+
 ## **Czerwiec (uzupełnienie)**
 
 28-29 czerwca, Lizbona, Portugalia –

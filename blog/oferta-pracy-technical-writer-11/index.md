@@ -12,6 +12,8 @@ coverImage: "medius.jpg"
 
 Rynek pracy dla dokumentalistów nabiera coraz większego rozpędu.
 
+<!--truncate-->
+
 W tym roku, to już szósty wpis z ofertą pracy, a pierwszy kwartał jeszcze się
 nie skończył. Dla porównania w całym zeszłym roku opublikowaliśmy 10 wpisów w
 tej kategorii.

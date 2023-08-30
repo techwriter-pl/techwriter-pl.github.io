@@ -13,6 +13,8 @@ coverImage: "ABB-logo.png"
 Tym razem mamy dla Was szansę na wejście do zawodu pod okiem doświadczonych
 kolegów i koleżanek.
 
+<!--truncate-->
+
 [Ten pan](https://www.linkedin.com/in/piotr-sroka-02878945) może udzielić Wam
 dokładniejszych informacji na temat poniższej oferty.
 

@@ -17,6 +17,8 @@ coverImage: "co_pisza_techwriterzy.png"
 Dziś mamy dla Was sporo informacji związanych z dokumentacją, jaką na co dzień
 tworzy technical writer. Zapraszamy!
 
+<!--truncate-->
+
 Poproś kilka przypadkowych osób o to, żeby powiedziały co przychodzi im do głowy
 na hasło "owoc". Każda z nich (najprawdopodobniej) poda inny przykład, w tym
 nawet może pojawić się pomidor. Podobnie jest z treścią techniczną -- nie ma

@@ -19,6 +19,8 @@ obrazów i wideo? Dlaczego wolimy oglądać infografiki, zdjęcia czy krótkie f
 niż czytać, nawet niezbyt długi tekst? Dlaczego ten trend wydaje się narastać w
 ostatnich latach?
 
+<!--truncate-->
+
 Czy dodanie ilustracji lub wizualizacji do instrukcji zwiększa zainteresowanie
 odbiorcy i wpływa na ilość zapamiętanych przez niego informacji?
 

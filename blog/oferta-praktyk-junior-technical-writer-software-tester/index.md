@@ -15,6 +15,8 @@ niewierzących - propozycję noworocznego postanowienia. Może czas coś w życi
 zmienić? Skoro powiedziało się "A", dlaczego nie powiedzieć i "B"? I jeszcze raz
 "B"? Miejsce pracy: Kraków - dawna stolica Polaków.
 
+<!--truncate-->
+
 Oferta bardzo ciekawa, z dwóch powodów:
 
 1. Świetna na początek.

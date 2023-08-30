@@ -18,6 +18,8 @@ się robi w branży tłumaczeniowej". Dlatego ochoczo wybraliśmy się do Centru
 Konferencyjnego Zielna w Warszawie, żeby szukać inspiracji. Jak przystało na
 partnera medialnego wydarzenia, uprzejmie donosimy, co się wydarzyło.
 
+<!--truncate-->
+
 # Zaczynamy
 
 Konferencję otworzył Agenor Hofmann-Delbor, współautor książki "Programiści i

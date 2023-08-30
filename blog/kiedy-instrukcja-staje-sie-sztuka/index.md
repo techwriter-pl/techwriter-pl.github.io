@@ -16,6 +16,8 @@ samolot, łódkę...), następnie napisać instrukcje dla swojego modelu (bez
 załączania obrazków) i przekazać innemu studentowi, który następnie miał złożyć
 ten sam model według instrukcji stworzonych przez kolegę/koleżankę.
 
+<!--truncate-->
+
 Z tego co pamiętam instrukcji nie stworzył prawie nikt... nie dlatego, że było
 to tak trudne zadanie, ale głównie dlatego, że mało kto potrafił z pamięci
 ułożyć coś z papieru 😊

@@ -20,6 +20,8 @@ razem publikujemy jeszcze ciepłą relację z meetupu inaugurującego wrocławs
 cykl spotkań MeetContent. Tekst został przygotowany przez organizatorów, my
 tylko puszczamy go dalej w świat 😊 Miłej lektury!
 
+<!--truncate-->
+
 \*\*\*
 
 Czym jest „content”? Na czym polega praca z „contentem”? Jak wygląda kariera w

@@ -16,6 +16,8 @@ Już tylko kilka tygodni dzieli nas od tegorocznej edycji konferencji
 Postanowiliśmy więc przypomnieć Wam kilka najważniejszych faktów na temat
 wydarzenia.
 
+<!--truncate-->
+
 ## Czas i miejsce
 
 Konferencja odbędzie się w dniach 14-17 kwietnia w San Diego, Kalifornia, USA. W

@@ -13,6 +13,8 @@ coverImage: "DFW-logo_colour_300px.png"
 Firma [DataFeedWatch](http://www.datafeedwatch.pl/) została uruchomiona w 2013
 roku w San Mateo w Kalifornii.
 
+<!--truncate-->
+
 Oferuje obsługę handlowcom i agencjom, które chcą zoptymalizować swoje kanały i
 poprawić swoją skuteczność w Zakupach Google, czy dowolnym innym kanale. Obecnie
 firma poszukuje Technical Writera do swojego krakowskiego oddziału. Widełki

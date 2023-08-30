@@ -14,6 +14,8 @@ Praca z tekstem nie jest tak prosta jak mogłoby się wydawać. Ciągle nowe
 wyzwania, terminy na wczoraj, klient sam nie wie czego chce. Nigdy nie jest tak,
 że po prostu się siada i tworzy.
 
+<!--truncate-->
+
 Zazwyczaj równocześnie piszemy, czytamy i robimy research korzystając z różnych
 narzędzi. Sterta notatek, kilka wersji tekstu, adnotacje i uwagi w mailach, do
 tego cały folder zakładek w przeglądarce i stos słowników na biurku. Praca wre i

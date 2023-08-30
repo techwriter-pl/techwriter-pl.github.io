@@ -17,6 +17,8 @@ której pisaliśmy już
 [jakiś czas temu](http://techwriter.pl/konferencja-madworld/). Najwyższa więc
 pora na uzupełnienie informacji i ponowne zachęcenie Was do wycieczki za ocean.
 
+<!--truncate-->
+
 Przypominamy, że konferencja odbędzie się w dniach 2-5 kwietnia i będzie
 wypełniona po brzegi zarówno mnóstwem informacji, jak i atrakcjami dodatkowymi,
 o których piszemy poniżej 😉

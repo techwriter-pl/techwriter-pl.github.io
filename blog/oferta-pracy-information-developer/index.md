@@ -18,6 +18,8 @@ wiadomo mamy ich całkiem sporo na terenie całej Polski) wyciągnąć trochę w
 szczegółów, które zachęciłyby Was do aplikowania. Poniżej prezentujemy to czego
 udało nam się dowiedzieć.
 
+<!--truncate-->
+
 _"Ruxit oferuje pracę w atmosferze startupu w prawdziwie międzynarodowym
 zespole. Stanowisko pozwala na aktywne uczestnictwo w kształtowaniu produktu.
 Jako Information Developer w Ruxit, masz wpływ na budowanie własnych narzędzi,

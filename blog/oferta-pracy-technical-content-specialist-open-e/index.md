@@ -12,6 +12,8 @@ coverImage: "logo_open_e.jpg"
 
 Województwo śląskie potrzebuje kolejnego specjalisty tech comm.
 
+<!--truncate-->
+
 Firma [Open-E](https://www.open-e.com), międzynarodowa firma dostarczająca
 oprogramowanie na rynek pamięci masowych, poszukuje osoby na stanowisko
 Technical Content Specialist do swojego biura w Bytomiu. Główne wymagania to

@@ -13,6 +13,8 @@ coverImage: "inittec_logo.jpg"
 Ciekawa oferta pracy z Krakowa. Coś dla Was - szukają ludzi ambitnych,
 konsekwentnych i pracowitych 😊.
 
+<!--truncate-->
+
 Szczegóły oferty:
 
 [![Inittec_oferta](images/Inittec_oferta.jpg)](http://techwriter.pl/wp-content/uploads/2014/10/Inittec_oferta.jpg)

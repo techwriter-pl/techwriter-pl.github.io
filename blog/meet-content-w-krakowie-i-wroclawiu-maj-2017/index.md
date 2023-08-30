@@ -22,6 +22,8 @@ technicznej i spotkać się z kolegami i koleżankami po fachu. W maju 2017 odb
 się aż dwie edycje [Meet Content](http://meetcontent.org/) - 23 maja we
 Wrocławiu i 30 maja w Krakowie.
 
+<!--truncate-->
+
 # Jak narzędzia CAT wpływają na pisanie - Wrocław
 
 [![meet content wrocław, click here to stop zero ing, by Marta Bartnicka and Ryszard Jarża, 7pm, 23 may 2017, Mleczarnia, ulica Pawła Włodkowica 5, wrocław](images/wro-1024x486.png)](http://techwriter.pl/wp-content/uploads/2017/05/wro.png)

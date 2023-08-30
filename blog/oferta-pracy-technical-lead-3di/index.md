@@ -12,6 +12,8 @@ coverImage: "3di_logo.png"
 
 Oferta dla ludzi kochających nowe technologie - naprawdę ciekawa! Z Krakowa.
 
+<!--truncate-->
+
 Wszystkie szczegóły dostępne również bezpośrednio
 [u źródła](https://3di-info.com/technical-lead-krakow/).
 

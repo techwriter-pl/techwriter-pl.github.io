@@ -12,6 +12,8 @@ coverImage: "atlassian_logo.png"
 
 Dziś oferta dla początkujących, w bardzo znanej firmie, w bardzo fajnym mieście!
 
+<!--truncate-->
+
 Gdański oddział Atlassiana rekrutuje pełną parą. Tym razem
 [oferta dla osób startujących w zawodzie](https://www.atlassian.com/company/careers/detail/fcd38ab3-427f-4193-9472-1aaa38d1ec4a).
 Rekrutacja zdalna, praca z domu, naszym zdaniem nie powinniście się długo

@@ -16,6 +16,8 @@ ciekawych lektur i mocno zachęcamy do samodzielnego czytania! Szczególnie, że
 bohaterkę dzisiejszego wpisu możecie sobie ściągnąć za darmo i przeczytać dość
 szybko.
 
+<!--truncate-->
+
 ## To nie jest typowa książka
 
 Książka **Content Automation for Dummies** to bardzo ciekawy przypadek, z kilku

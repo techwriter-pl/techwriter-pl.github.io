@@ -19,6 +19,8 @@ Laury Schneider. Oryginalny artykuł można znaleźć
 [tutaj](http://lauraschneider.hubpages.com/hub/How-to-write-better-computer-instructions).
 Poniżej przedstawiamy streszczenio-tłumaczenio-interpretację tegoż artykułu. 😊
 
+<!--truncate-->
+
 ## Postaw się w sytuacji użytkownika
 
 Po pierwsze, użytkownik nie wie nic na temat produktu, który opisujesz. Po

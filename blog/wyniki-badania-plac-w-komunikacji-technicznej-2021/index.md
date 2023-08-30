@@ -15,6 +15,8 @@ coverImage: "BADANIE_PLAC_wyniki.png"
 Nadszedł czas na opublikowanie wyników corocznej ankiety dotyczącej płac w
 komunikacji technicznej. Szczegóły poniżej.
 
+<!--truncate-->
+
 ### O co pytaliśmy?
 
 W tym roku zadaliśmy Wam 12 pytań, wśród których znalazły się dwa nowe

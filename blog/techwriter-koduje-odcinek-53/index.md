@@ -15,6 +15,8 @@ dokumentacją, dlatego najwyższa pora, by to zmienić. Zobaczcie poniżej jaki
 temat poruszono w najnowszym, 53 odcinku,
 [TechWriter Koduje](https://techwriterkoduje.pl/).
 
+<!--truncate-->
+
 ### Kilka słów o portalu
 
 Dla osób, które niezbyt często tu zaglądają lub są z nami po raz pierwszy,

@@ -15,6 +15,8 @@ Dziś kolejna odsłona podcastu
 [Tech Writer koduje](https://techwriterkoduje.pl/). Tym razem tematem przewodnim
 jest jakość dokumentacji.
 
+<!--truncate-->
+
 Gościem
 [23 odcinka podcastu](https://anchor.fm/docdeveloper/episodes/23-Tech-Writer-mierzy-jako-dokumentacji--czyli-co-i-jak-sprawdza-emralt)
 jest Rafał Pawlicki, specjalista do spraw dokumentacji technicznej z Krakowa.

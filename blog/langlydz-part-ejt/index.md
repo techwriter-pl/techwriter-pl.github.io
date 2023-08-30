@@ -13,6 +13,8 @@ coverImage: "frejmlork.gif"
 Dziś kolejne słowo obejmujące swoim znaczeniem cały kosmos znaczeń. Zapnijcie
 pasy i odważnie rzućcie się w wir pracy w ramkach. A może ramopracy?
 
+<!--truncate-->
+
 **Frejmłork** \[ang. _framework_\] -
 [spotykany najczęściej w firmach IT](http://pl.wikipedia.org/wiki/Framework),
 występuje również często w innych ekosystemach. Ciekawsze przykłady występujące

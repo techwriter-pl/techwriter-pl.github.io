@@ -15,6 +15,8 @@ oprogramowania? Wy również możecie wykorzystać to narzędzie aby zautomatyzo
 tworzenie dokumentacji technicznej. Przeczytajcie poniższy opis podesłany przez
 naszego czytelnika.
 
+<!--truncate-->
+
 Dzisiaj chciałbym przybliżyć kolejne narzędzie którego używam w swojej pracy,
 Jenkins CI. Nie jest ono związane z samym pisaniem dokumentacji, tylko z jej
 generowaniem, a dokładniej automatyzowaniem tego procesu. Od razu zaznaczam, że

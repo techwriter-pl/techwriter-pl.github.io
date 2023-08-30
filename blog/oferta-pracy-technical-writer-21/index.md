@@ -12,6 +12,8 @@ coverImage: "logoTechland_czerwone-e1485850377579.png"
 
 Na dobry początek roku mamy ciekawą ofertę dla fanów gier komputerowych.
 
+<!--truncate-->
+
 Firma [Techland](http://techland.pl/), zajmująca się produkcją oprogramowania i
 gier wideo, poszukuje do swojego biura we Wrocławiu osoby na stanowisko
 Technical Writer. Firma ma w swoim portfolio ponad 20 wydanych gier, w tym

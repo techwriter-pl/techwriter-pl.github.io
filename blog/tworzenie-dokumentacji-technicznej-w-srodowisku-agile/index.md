@@ -15,6 +15,8 @@ Jeżeli pracujecie w firmie IT, to zapewne słyszeliście o Agile'u... a może n
 próbujecie współpracować z programistami, analitykami i testerami właśnie w tym
 modelu?
 
+<!--truncate-->
+
 Dla niezorientowanych - Agile to taka
 [nowa religia](http://www.agilemanifesto.org/) 😉, przetłumaczona na polski jako
 "[programowanie zwinne](http://pl.wikipedia.org/wiki/Programowanie_zwinne)".

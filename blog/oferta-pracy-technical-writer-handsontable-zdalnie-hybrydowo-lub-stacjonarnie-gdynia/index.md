@@ -16,6 +16,8 @@ coverImage: "handsontable.png"
 Technical Content Writer pilnie poszukiwany! Jeśli szukasz pracy i znasz dobrze
 Java Script, być może to oferta dla Ciebie? Szczegóły poniżej.
 
+<!--truncate-->
+
 [Handsoncode](https://handsoncode.net/) to firma produkująca komponenty
 programistyczne wykorzystywane przy tworzeniu aplikacji biznesowych. Jest obecna
 na rynku od 2015 roku. W swojej ofercie posiada następujące produkty:

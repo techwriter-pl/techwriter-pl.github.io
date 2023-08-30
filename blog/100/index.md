@@ -10,6 +10,8 @@ coverImage: "twlike.jpg"
 W imieniu całej redakcji techwriter.pl pragniemy podziękować wszystkim, którzy
 polubili nas na Facebooku. Jest Was już 100!
 
+<!--truncate-->
+
 Niezmiernie nam miło patrzeć jak z każdym dniem przybywają tu nowe osoby oraz
 jak rośnie liczba polubień. Wasz odzew to dla nas najlepsza motywacja do pracy.
 

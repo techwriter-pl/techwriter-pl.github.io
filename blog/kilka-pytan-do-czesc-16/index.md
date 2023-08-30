@@ -14,6 +14,8 @@ Dziś mamy dla Was kolejny wywiad, tym razem z koleżanką, która przedstawi na
 jak wygląda tworzenie dokumentacji w Bułgarii. Zapraszamy do lektury - na nasze
 pytania odpowiada Margarita Staneva.
 
+<!--truncate-->
+
 ### How long have you been working as a Tech Writer?
 
 16 years.

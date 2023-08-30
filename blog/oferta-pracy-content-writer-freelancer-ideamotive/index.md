@@ -12,6 +12,8 @@ coverImage: "im_logo_dark_bigger.png"
 
 Dzisiaj mamy ciekawą ofertę dla osób z zacięciem dziennikarskim.
 
+<!--truncate-->
+
 Firma [Ideamotive](https://ideamotive.co/), software house z Warszawy, poszukuje
 content writerów do współpracy na zasadzie freelance (praca zdalna, elastyczne
 zaangażowanie). Głównym zadaniem jest tworzenie dobrej jakości artykułów

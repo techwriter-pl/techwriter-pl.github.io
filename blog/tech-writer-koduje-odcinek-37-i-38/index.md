@@ -15,6 +15,8 @@ Zapraszamy na skrót ostatnich odcinków podcastu
 poruszają temat zbyt statycznych stron z dokumentacją oraz zastanawiają się jak
 zabezpieczyć się przed hakerami.
 
+<!--truncate-->
+
 ### Odcinek #37
 
 W tym odcinku Paweł poruszył dość ciekawy temat dotyczący statycznych stron z

@@ -12,6 +12,8 @@ coverImage: "mydlo.jpg"
 Miło nam poinformować, że po kilku latach posuchy pojawiła się w Polsce
 konferencja dla techwriter-ów!
 
+<!--truncate-->
+
 Nie wiedzieć dlaczego nazywa się [soap! conf](http://www.soapconf.com/) i
 odbędzie się już 3 października, w pięknym mieście Krakowie.
 

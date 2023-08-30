@@ -15,6 +15,8 @@ Czym zajmują się technical writerzy? Tworzą m.in. instrukcje obsługi lub
 podręczniki użytkownika (ang. _user guides, user manuals_). A czym zajmują się
 instrukcje obsługi? I czym właściwie są?
 
+<!--truncate-->
+
 Wikipedia ma odpowiedź i na to pytanie - według
 [tej definicji](http://en.wikipedia.org/wiki/User_guide) są to dokumenty mające
 na celu ułatwić ludziom używanie różnego rodzaju produktów lub rozwiązań

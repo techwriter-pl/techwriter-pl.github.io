@@ -12,6 +12,8 @@ coverImage: "twi-master-logo-small.jpg"
 
 Dzisiaj mamy dla Was trochę nietypową ofertę pracy.
 
+<!--truncate-->
+
 Irlandzka firma [TWi (Technically Write IT)](http://www.technicallywriteit.com/)
 z siedzibą w Cork, świadcząca usługi w zakresie dokumentacji (tworzenie,
 korekta, projektowanie informacji), poszukuje Technical Writerów do tworzenia

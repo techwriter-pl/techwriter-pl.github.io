@@ -11,6 +11,8 @@ coverImage: "Nobl9_logo.jpg"
 [Nobl9](https://nobl9.com/), amerykański startup z zespołem developerskim w
 Poznaniu, poszukuje Technical Writer’a.
 
+<!--truncate-->
+
 [Nobl9](https://nobl9.com/) buduje platformę do monitorowania
 [#SLOs](https://www.linkedin.com/feed/hashtag/?keywords=%23SLOs) (Service Level
 Objectives), która pozwala łączyć metryki niezawodności systemów informatycznych

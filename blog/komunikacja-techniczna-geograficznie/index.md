@@ -18,6 +18,8 @@ organizacje i stowarzyszenia. W tym gąszczu informacji pomocna może okazać si
 mapa dla komunikacji technicznej, którą zaprezentowała
 [Sarah Maddox](http://www.linkedin.com/in/sarahmaddox).
 
+<!--truncate-->
+
 Autorka blogu [ffeathers](http://ffeathers.wordpress.com) niedawno podzieliła
 się owocami pracy nad swoim projektem o nazwie
 [**Tech Comm on a Map**](http://sarahmaddox.github.io/techcomm-map). Jest to

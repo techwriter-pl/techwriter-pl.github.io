@@ -16,6 +16,8 @@ coverImage: "man-29749_640.png"
 Z nieukrywaną przyjemnością publikujemy kolejny gościnny wpis od sympatyka
 naszego portalu.
 
+<!--truncate-->
+
 Jack natrafił na naszą stronę szukając informacji na temat pisania. Los (albo
 może bardziej Google) zdecydował, że znalazł on jeden z naszych
 [wpisów](http://techwriter.pl/less-is-more-strikes-again/), w którym

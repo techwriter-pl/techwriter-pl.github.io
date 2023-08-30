@@ -14,6 +14,8 @@ Ile zarabiają technical writerzy? Jak różnią się pensje w różnych wojewó
 Jak na wynagrodzenie wpływa doświadczenie? Przeprowadziliśmy pierwsze w Polsce
 badanie płac w branży komunikacji technicznej. Oto jego wyniki.
 
+<!--truncate-->
+
 # Przegląd odpowiedzi
 
 W badaniu wzięło udział 70 osób. Jesteśmy bardzo zadowoleni, że udało się zebrać

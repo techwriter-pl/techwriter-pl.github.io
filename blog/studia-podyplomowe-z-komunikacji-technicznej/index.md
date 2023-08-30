@@ -18,6 +18,8 @@ alternatywa przy wyborze kariery. Drobnymi krokami, cierpliwie niczym kropla
 drążąca skałę, staramy się budować społeczność ludzi związanych z komunikacją
 techniczną.
 
+<!--truncate-->
+
 Nasza inicjatywa idzie powoli we właściwym kierunku. Przybywa ludzi
 udzielających się na
 [naszej stronie na Facebooku](https://www.facebook.com/TechWriterPl/?ref=aymt_homepage_panel),

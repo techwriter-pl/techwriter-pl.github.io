@@ -13,6 +13,8 @@ coverImage: "Electrolux_2015.svg_.png"
 Dziś znów mamy dla Was ofertę pracy - znana firma z tradycjami - Electrolux. Kto
 zgadnie w jakim mieście?
 
+<!--truncate-->
+
 Odpowiedź na końcu oferty. Tak, zgadliście 😊. Oferta zainteresuje zapewne
 bardziej i mniej doświadczonych techwriterów.
 

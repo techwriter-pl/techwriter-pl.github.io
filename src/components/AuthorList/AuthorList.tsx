@@ -82,6 +82,15 @@ const polishDescriptions: { [id: string]: JSX.Element } = {
       zajmować szeroko pojętym prowadzeniem portalu.
     </>
   ),
+  tprus: (
+    <>
+      Absolwent Politechniki Wrocławskiej, technical writer w firmie Atlassian.
+      Doświadczenie w obszarze komunikacji technicznej budował również jako
+      wieloletni pracownik Nokii i Unit4. Trener ITCQF, współtwórca wrocławskiej
+      społeczności MeetContent, prelegent i uczestnik konferencji związanych z
+      technical writingiem w kraju i za granicą.
+    </>
+  ),
   kulgawczuk: (
     <>
       Techwriterowe dziecko niespodzianka. Nigdy nie myślał o przyszłości w tech
@@ -168,6 +177,14 @@ const englishDescriptions: { [id: string]: JSX.Element } = {
       beginning of 2014, he joined techwriter.pl as an editor and later he also
       became responsible for running the entire portal. He left the staff in
       June 2019.
+    </>
+  ),
+  tprus: (
+    <>
+      Graduated from Politechnika Wrocławska, technical writer at Atlassian. Got
+      his tech writing chops and extensive experience at Nokia and Unit4. ITCQF
+      instructor, co-founder of MeetContent Wrocław, speaker and avid goer to
+      tech writing conferences.
     </>
   ),
   kulgawczuk: (

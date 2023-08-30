@@ -16,6 +16,8 @@ aplikację [Skitch](https://evernote.com/skitch/) od autorów programu
 [Evernote](https://evernote.com/). Czy jest to propozycja warta rozważenia pod
 kątem tworzenia dokumentacji?
 
+<!--truncate-->
+
 W momencie pisania artykułu najnowszą dostępną wersją była **2.3.2.173**.
 Program można zainstalować na systemach operacyjnych takich jak **Windows**,
 **Mac OS**, **iOS** i **Android**.

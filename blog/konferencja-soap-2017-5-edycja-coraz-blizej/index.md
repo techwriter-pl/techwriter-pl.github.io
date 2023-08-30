@@ -19,6 +19,8 @@ się już niemal tradycją, że sprawujemy patronat medialny nad soap! i w tym 
 będziemy go z przyjemnością kontynuować. W związku z tym zebraliśmy dla Was
 najważniejsze informacje dotyczące konferencji.
 
+<!--truncate-->
+
 ## Termin i miejsce
 
 Piąta edycja konferencji odbędzie się w dniach **7-9 czerwca** w

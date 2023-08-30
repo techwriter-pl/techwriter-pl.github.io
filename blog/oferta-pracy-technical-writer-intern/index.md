@@ -19,6 +19,8 @@ poniżej albo na
 [pracuj.pl](http://www.pracuj.pl/praca/technical-writer-krakow,oferta,3869055)
 (w pełnej krasie graficznej i z działającym przyciskiem **Aplikuj**).
 
+<!--truncate-->
+
 Redakcja techwriter.pl zweryfikowała ofertę przed publikacją i z czystym
 sumieniem możemy polecić tego pracodawcę. Komfortowe warunki pracy (nowoczesny
 biurowiec z udogodnieniami dla rowerzystów, chillout room), zgrany zespół

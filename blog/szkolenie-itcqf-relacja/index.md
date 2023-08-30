@@ -16,6 +16,8 @@ W dniach 10-11 września odbyło się pierwsze szkolenie z komunikacji techniczn
 przygotowane przez organizację [ITCQF](http://itcqf.org/). Mieliśmy okazję w nim
 uczestniczyć, dlatego chcemy podzielić się z Wami naszymi wrażeniami.
 
+<!--truncate-->
+
 Nie ukrywamy, że od dawna czekaliśmy na pojawienie się w Polsce szkoleń dla osób
 zajmujących się komunikacją techniczną, dlatego z tym większym entuzjazmem
 pojawiliśmy się w sali wykładowej. W związku z tym, że jest to pierwsza tego

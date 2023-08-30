@@ -20,6 +20,8 @@ i lokalizacji:
 Gorąco zachęcamy do wzięcia udziału w tym organizowanym przez Duńczyków
 wydarzeniu, zapowiada się bowiem wyśmienicie!
 
+<!--truncate-->
+
 O konferencji po raz pierwszy pisaliśmy już
 [jakiś czas temu](http://techwriter.pl/zapraszamy-na-write2users-conference-2017/),
 a szczegółów najlepiej szukać na stronie

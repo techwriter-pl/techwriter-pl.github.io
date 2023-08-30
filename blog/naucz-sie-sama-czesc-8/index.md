@@ -19,6 +19,8 @@ chodzicie, jeździcie i biegacie. Chcecie pogodzić ze sobą pracę zawodową, �
 rodzinne, aktywność fizyczną i rozwój swoich umiejętności, ale doba ma tylko 24
 godziny.
 
+<!--truncate-->
+
 Jeśli rzadko kiedy macie czas usiąść spokojnie i przeczytać branżowy artykuł lub
 książkę to może opcja nabywania wiedzy poprzez słuchanie okaże się dla Was
 alternatywą wartą rozważenia. Słuchać można podczas podróży do pracy, ćwiczeń i

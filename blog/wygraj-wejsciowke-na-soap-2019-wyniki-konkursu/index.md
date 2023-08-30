@@ -13,6 +13,8 @@ coverImage: "soap_konkurs-1.png"
 którym można było wygrać wejściówkę na tegoroczną edycję konferencji soap!
 został rozstrzygnięty.
 
+<!--truncate-->
+
 Nagroda wędruje do Teresy Barańskiej, która "Docs like code" zdefiniowała w taki
 oto krótki i zwięzły sposób.
 

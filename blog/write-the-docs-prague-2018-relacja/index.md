@@ -14,6 +14,8 @@ Redakcja Techwriter.pl miała przyjemność uczestniczyć w zeszłorocznej,
 europejskiej edycji Write the Docs. Kolejny raz byliśmy patronem medialnym tego
 wydarzenia i kolejny raz możemy być z tego dumni.
 
+<!--truncate-->
+
 Tradycyjnie już konferencja rozpoczęła się w sobotę rejsem statkiem po Wełtawie,
 w którym wzięło udział około 60 uczestników. Trwająca blisko dwie godziny
 wyprawa była okazją do poznania organizatorów, nawiązania nowych znajomości i po

@@ -13,6 +13,8 @@ coverImage: "tekom_polska-e1447880213134.png"
 W imieniu grupy **tekom Polska** chcielibyśmy Was zaprosić na spotkanie
 poświęcone informacjom dotyczącym bezpieczeństwa w DTR.
 
+<!--truncate-->
+
 ### Kilka słów o organizatorze
 
 tekom Polska to utworzona formalnie w marcu 2014 roku organizacja wchodząca w

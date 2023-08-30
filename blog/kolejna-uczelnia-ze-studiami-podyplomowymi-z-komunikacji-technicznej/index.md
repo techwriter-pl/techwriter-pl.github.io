@@ -16,6 +16,8 @@ W zeszłym roku informowaliśmy Was o tym, że warszawska
 studia podyplomowe o kierunku
 [Komunikacja techniczna](http://www.vistula.edu.pl/pol/page/komunikacja-techniczna).
 
+<!--truncate-->
+
 Pojawiły się wtedy głosy, że takie studia powinny zostać utworzone również w
 innych miastach. Niektóre Wasze prośby zostały wysłuchane 😉
 [Wyższa Szkoła Handlowa we Wrocławiu](http://www.handlowa.eu/) właśnie

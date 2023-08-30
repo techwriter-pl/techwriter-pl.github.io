@@ -17,6 +17,8 @@ A może po prostu Style Guide lub Style Manual? Dowiedz się co to jest, sprawd�
 do czego i kiedy jest potrzebne, stwórz Style Guide dla swojej organizacji. O
 ile jeszcze go nie ma.
 
+<!--truncate-->
+
 Tradycyjnie zaczynamy od definicji - Style Guide to nic innego tylko spisany w
 dowolnej formie zestaw reguł (zasad, standardów) publikowania informacji. Taki
 zestaw tworzy się po to, aby wszystkie publikowane dokumenty miały podobny

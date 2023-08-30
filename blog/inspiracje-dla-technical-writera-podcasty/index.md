@@ -15,6 +15,8 @@ coverImage: "inspiracje_podcasty.png"
 W dzisiejszym poście powracamy do cyklu _Inspiracje dla Technical Writera_. Tym
 razem stawiamy na podcasty.
 
+<!--truncate-->
+
 Zanim jednak przejdziemy do meritum, poniżej lista poprzednich artykułów z
 naszej serii:
 

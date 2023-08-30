@@ -12,6 +12,8 @@ coverImage: "Luxoft-logo-2015.png"
 
 Na odmianę mamy dla Was ofertę ze stolicy.
 
+<!--truncate-->
+
 Firma [Luxoft](https://www.luxoft.com/), międzynarodowe przedsiębiorstwo
 zajmujące się projektowaniem oprogramowania, poszukuje Technical Writera do
 Warszawy. Jest to oferta skierowana zarówno do obecnych mieszkańców stolicy jak

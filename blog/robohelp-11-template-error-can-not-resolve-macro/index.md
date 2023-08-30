@@ -15,6 +15,8 @@ absolutne maksimum. Dlatego tym bardziej mamy nadzieję, że opis problemu z jak
 sami borykaliśmy się oraz rozwiązanie jakie udało nam się opracować pozwolą na
 ocalenie chociaż kilku dobrych ludzi przed utratą zmysłów 😉
 
+<!--truncate-->
+
 ## Opis problemu
 
 Problem dotyczy RoboHelpa 11 HTML. W trakcie generowania projektów do formatu

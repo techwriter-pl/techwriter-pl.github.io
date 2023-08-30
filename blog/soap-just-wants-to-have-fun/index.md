@@ -16,6 +16,8 @@ prepared by the soap! team. Enjoy! What do soap, pink color, an old cable
 factory, a white terrier, a scooter, coffee, and a selfie in a bathroom all have
 in common?
 
+<!--truncate-->
+
 At first glance, it might be hard to see any connection whatsoever. Yet, the
 participants of this year’s [soap!](http://soapconf.com/) conference know all
 too well what connects these dots. For those who do not know, further reading

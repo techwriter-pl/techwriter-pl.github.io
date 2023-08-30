@@ -13,6 +13,8 @@ coverImage: "WriteTheDocsPrague-e1501772951385.jpg"
 Jedno z najlepszych wydarzeń z naszej branży w Europie zbliża się dużymi
 krokami. Przeczytajcie jak można się tam dostać i czego się spodziewać.
 
+<!--truncate-->
+
 ## Szczypta historii
 
 Tak było rok temu - jako patron medialny byliśmy oczywiście obecni i uraczyliśmy

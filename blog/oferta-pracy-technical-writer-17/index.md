@@ -13,6 +13,8 @@ coverImage: "Pegasystems_logo-e1474374110381.png"
 Dla tych, którzy do tej pory nie znaleźli dla siebie odpowiedniej oferty pracy
 mamy kolejną propozycję.
 
+<!--truncate-->
+
 Firma [Pegasystems](https://www.pega.com/), tworząca strategiczne aplikacje dla
 sprzedaży, marketingu i usług, poszukuje do swojego biura w Krakowie
 doświadczonego Technical Writera.

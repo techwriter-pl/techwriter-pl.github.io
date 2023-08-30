@@ -12,6 +12,8 @@ coverImage: "insys-logo-v2-RGB-infakt.png"
 
 Lubicie wyzwania? Jeśli tak, to mamy dla Was idealną ofertę.
 
+<!--truncate-->
+
 Firma [Insys](http://www.insys.pl/strona-glowna) z Poznania, jeden z najszybciej
 rozwijających się polskich integratorów video OTT (usługa udostępniania sygnału
 telewizyjnego i treści wideo przez internet), poszukuje Technical Writera, który

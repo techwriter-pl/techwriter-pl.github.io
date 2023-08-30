@@ -15,6 +15,8 @@ coverImage: "soap.png"
 Do 5. edycji krakowskiej konferencji soap! został już niespełna miesiąc. Poniżej
 garść najważniejszych informacji.
 
+<!--truncate-->
+
 ## Termin i miejsce
 
 Konferencja odbędzie się w dniach **7-9 czerwca** w

@@ -17,6 +17,8 @@ coverImage: "hand-1571851_640.jpg"
 
 Po tłumaczach przyszedł czas na maszyny.
 
+<!--truncate-->
+
 Dzisiaj mamy dla Was mały dodatek do serii artykułów "Za co tłumacze lubią
 autorów", które przez ostatnie miesiące publikowaliśmy na naszych łamach. Jest
 to krótkie podsumowanie a zarazem przedłużenie wątków, które zostały w nich

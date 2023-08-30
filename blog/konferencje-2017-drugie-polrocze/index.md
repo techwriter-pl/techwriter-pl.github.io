@@ -18,6 +18,8 @@ coverImage: "audience-1677028_640-e1495633374574.jpg"
 Zbliża się drugie półrocze 2017 roku zatem nadszedł czas, by przedstawić Wam
 zaplanowane na ten czas konferencje.
 
+<!--truncate-->
+
 ## Czerwiec (uzupełnienie)
 
 14 czerwca, Barcelona, Hiszpania

@@ -17,6 +17,8 @@ o czym wspominaliśmy w jednym z [postów](http://techwriter.pl/prostota-glupcze
 jakiś czas temu. Długie, skomplikowane i przeładowane informacjami instrukcje to
 samo zło, którego należy unikać.
 
+<!--truncate-->
+
 Zapewne wielu z Was zna powiedzenie **"Everything should be made as simple as
 possible, but not simpler"** przypisywane Albertowi Einstenowi. Jedna z bardzo
 znanych firm produkujących rowery i akcesoria rowerowe najwyraźniej nie słyszała

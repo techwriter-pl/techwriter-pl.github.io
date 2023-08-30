@@ -13,6 +13,8 @@ coverImage: "TekomRoadshow2014.jpg"
 Konferencja zaplanowana jest na 18 września, a _call for papers_ trwa do 13
 kwietnia, czasu nie zostało więc zbyt wiele...
 
+<!--truncate-->
+
 [tekom Europe Roadshow](http://conferences.tekom.de/tekom-europe-roadshow/home/about/)
 to cykl jednodniowych konferencji organizowanych w kilku europejskich miastach
 przez organizację

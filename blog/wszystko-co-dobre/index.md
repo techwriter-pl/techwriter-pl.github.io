@@ -14,6 +14,8 @@ coverImage: "koniec.jpg"
 ...kiedyś się kończy. Niestety jesteśmy zmuszeni zawiesić działalność
 techwriter.pl. Ale być może jeszcze kiedyś tu wrócimy.
 
+<!--truncate-->
+
 Techwriter.pl powstał ponad pół roku temu i przez cały ten czas dawał nam
 (autorom) wiele radości. Udało się (czasem z niemałym poświęceniem) opublikować
 ponad 50 artykułów, stworzyć profile w mediach społecznościowych, dotrzeć do

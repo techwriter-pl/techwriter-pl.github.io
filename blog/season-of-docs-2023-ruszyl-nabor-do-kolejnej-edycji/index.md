@@ -17,6 +17,8 @@ Ruszyła kolejna edycja inicjatywy Google Season of Docs, której celem jest
 rozwój otwartego oprogramowania, a także ciekawa okazja, by rozwinąć także swoje
 twórcze umiejętności 😉 Poniżej znajdziecie najistotniejsze informacje.
 
+<!--truncate-->
+
 ### Czym jest Season of Docs?
 
 [Google Season of Docs](https://developers.google.com/season-of-docs) to

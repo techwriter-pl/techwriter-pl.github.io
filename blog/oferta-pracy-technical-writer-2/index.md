@@ -16,6 +16,8 @@ którzy chcą przenieść swoją przygodę z komunikacją techniczną na kolejny
 a także przyczynić się do rozwoju produktu, który diametralnie zmienia pracę
 setek organizacji na całym świecie!
 
+<!--truncate-->
+
 Szczegóły oferty:
 
 > **Technical Writer**

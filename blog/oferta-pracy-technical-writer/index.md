@@ -14,6 +14,8 @@ Szukasz pracy jako techwriter? A może chcesz zatrudnić najlepszych techwriter�
 na świecie? Pomożemy. Publikujemy ogłoszenia pracodawców którzy się do nas
 zwrócą i pomagamy je rozszyfrować kandydatom którzy do nas napiszą.
 
+<!--truncate-->
+
 Dziś pierwsza oferta:
 
 > **Technical Writer – Krakow, Poland**

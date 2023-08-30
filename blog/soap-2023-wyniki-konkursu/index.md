@@ -11,6 +11,8 @@ coverImage: "wyniki_konkursu_soap2023.png"
 Miło nam poinformować, że znamy już zwycięzcę tegorocznego konkursu, w którym do
 wygrania była wejściówka na konferencję soap!
 
+<!--truncate-->
+
 Po zapoznaniu się ze zgłoszeniami jury konkursu, czyli redakcja portalu, podjęła
 decyzję, że najlepszą odpowiedzią na pytanie: **"Dlaczego sztuczna inteligencja
 nie jest w stanie zastąpić technical writera?"** jest:

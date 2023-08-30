@@ -15,6 +15,8 @@ Nordic Semiconductor Poland,
 produkującej układy półprzewodnikowe dla niskomocowych sieci bezprzewodowych,
 szuka wzmocnienia dla swojego krakowskiego zespołu.
 
+<!--truncate-->
+
 Poszukiwany jest Technical Writer z minimum 2-letnim doświadczeniem w
 komunikacji technicznej.
 

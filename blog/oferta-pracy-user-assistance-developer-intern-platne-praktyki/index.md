@@ -13,6 +13,8 @@ coverImage: "dassault.png"
 Warta rozważenia opcja na początek w zawodzie. Wiele nie trzeba wiedzieć, za to
 można się dużo nauczyć. I jeszcze za to płacą. Oferta z Krakowa.
 
+<!--truncate-->
+
 Szczegóły
 [na stronie - tam również można złożyć swoja aplikację](https://careers.3ds.com/jobs/503451/).
 

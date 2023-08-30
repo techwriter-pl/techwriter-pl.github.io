@@ -18,6 +18,8 @@ to się stało, że trajektoria lotu zmieniła się z destynacji „Tłumacz” 
 podobną ścieżkę kariery. Dla reszty: zapraszam do zapoznania się z zapiskami
 moich doświadczeń.
 
+<!--truncate-->
+
 # Studia na filologii angielskiej
 
 Bardzo dobrze wspominam studenckie lata – nie żałuję wyboru kierunku. Od dawna

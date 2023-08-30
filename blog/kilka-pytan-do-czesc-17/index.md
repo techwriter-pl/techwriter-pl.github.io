@@ -15,6 +15,8 @@ zawiera w sobie podwójną dawkę wiedzy. Grzegorz Kossobudzki i Mateusz Wiktor
 pracują obecnie w tej samej firmie i zdecydowali się opowiedzieć nam o swoim
 doświadczeniu i o tym jak wygląda ich praca.
 
+<!--truncate-->
+
 ### Jak długo pracujesz jako Tech Writer?
 
 **Grzegorz:** Nieco ponad cztery lata.

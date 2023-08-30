@@ -13,6 +13,8 @@ coverImage: "Sinterit-800x400-1.jpg"
 Kolejna oferta z Krakowa, poszukiwany anglojęzyczny Technical Writer. Pracodawca
 działa w bardzo ciekawej branży druku 3D!
 
+<!--truncate-->
+
 Sporo ciekawych informacji o firmie znajdziecie na stronie z
 [ofertą i opisem stanowiska](https://www.sinterit.com/career/#1559132967732-398aa2cb-6767).
 Aplikacje należy wysyłać tą samą drogą.

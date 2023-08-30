@@ -12,6 +12,8 @@ coverImage: "uxpin-logo.png"
 
 Świeżutka oferta znad morza.
 
+<!--truncate-->
+
 Firma [UXPin](https://www.uxpin.com/), dostarczająca narzędzie dla projektantów
 doświadczeń użytkownika (UX), poszukuje UX Writera do swojej siedziby w Gdańsku.
 Jest to oferta skierowana do osób biegle znających język angielski, które chcą

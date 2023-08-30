@@ -19,6 +19,8 @@ typu [HAT](https://en.wikipedia.org/wiki/Help_authoring_tool), takich jak
 [Adobe RoboHelp](https://en.wikipedia.org/wiki/Adobe_RoboHelp) czy
 [MadCap Flare](https://en.wikipedia.org/wiki/MadCap_Software).
 
+<!--truncate-->
+
 Po raz kolejny z czystym sumieniem polecamy tego pracodawcę ze względu na
 komfortowe warunki pracy oraz przyjazną atmosferę.
 

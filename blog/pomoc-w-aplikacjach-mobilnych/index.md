@@ -17,6 +17,8 @@ coverImage: "MobileHelp.jpg"
 Czym zajmują się technical writerzy? Tworzą m.in. mobile application helps. A
 czym zajmuje się dokumentacja na urządzenia mobilne? I czym właściwie jest?
 
+<!--truncate-->
+
 Jest to na tyle nowe zagadnienie, że nikt z Wikipedii nie ośmielił się o nim
 jeszcze napisać. Spróbujmy zatem sami. Dokumentacja na urządzenia mobilne
 zajmuje się pomocą dla użytkowników korzystających z oprogramowania na takich

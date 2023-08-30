@@ -12,6 +12,8 @@ coverImage: "EtteplanLogo.jpg"
 
 Pięciu Technical Writerów poszukiwanych we Wrocławiu lub Krakowie!
 
+<!--truncate-->
+
 Firma Etteplan ze Skandynawii planuje otworzyć w Polsce biuro dokumentacji
 technicznej i buduje zespół. Do tej pory dział Etteplan w Polsce zajmował się
 inżynierią embedded oraz IoT i posiada w swych szeregach ponad 100 inżynierów

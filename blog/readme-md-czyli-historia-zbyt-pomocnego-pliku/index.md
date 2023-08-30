@@ -14,6 +14,8 @@ coverImage: "key-2323278_640.jpg"
 Kiedy tworzymy dokumentację przyświeca nam cel, żeby dostarczyć użytkownikowi
 jak najdokładniejsze informacje.
 
+<!--truncate-->
+
 Chodzimy, pytamy, analizujemy jak działa produkt, żeby nasze instrukcje były
 pomocne. Ale czy zastanawialiście się kiedyś czy Wasza dokumentacja nie zawiera
 zbyt dużo szczegółów? Okazuje się, że istnieją przypadki kiedy dokumentacja jest

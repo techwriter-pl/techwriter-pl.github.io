@@ -15,6 +15,8 @@ coverImage: "22730161_846665912170145_5052329604003373238_n.jpg"
 Już 14 listopada 2017 w Krakowie kolejne spotkanie MeetContent, tym razem na
 temat automatycznego publikowania dokumentacji.
 
+<!--truncate-->
+
 [MeetContent](http://meetcontent.org/) to inicjatywa, która wyrosła z
 konferencji [soap!](http://soapconf.com/) i realizuje się przez krótkie
 spotkania na tematy związane z komunikacją techniczną. Pisaliśmy już o

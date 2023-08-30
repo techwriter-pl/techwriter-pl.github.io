@@ -16,6 +16,8 @@ naszej branży w tej części Europy - konferencję
 związana z komunikacją techniczną, którą objęliśmy patronatem medialnym. Poniżej
 znajdziecie garść najważniejszych informacji.
 
+<!--truncate-->
+
 ### O Evolution of TC 2018
 
 Evolution of TC zostało zapoczątkowane w 2010 roku przez członków grupy, w

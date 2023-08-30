@@ -13,6 +13,8 @@ coverImage: "syncron-logo.png"
 [Syncron](https://www.syncron.com/) szuka technical writerów do pracy w
 Warszawie.
 
+<!--truncate-->
+
 Dużym plusem u kandydatów jest znajomość standardów takich jak DITA, Markdown,
 reStructuredText, oraz platformy Confluence.
 

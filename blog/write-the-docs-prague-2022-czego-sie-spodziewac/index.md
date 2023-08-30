@@ -19,6 +19,8 @@ nieubłaganie. Podobnie jak w poprzednich latach, z przyjemnością objęliśmy 
 wydarzenie patronatem 🙂 Poniżej znajdziecie garść najważniejszych informacji na
 jej temat.
 
+<!--truncate-->
+
 ### Co, gdzie i kiedy?
 
 Pomimo zmian związanych z wytycznymi dotyczącymi pandemii organizatorzy

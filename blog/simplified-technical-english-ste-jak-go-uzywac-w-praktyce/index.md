@@ -16,6 +16,8 @@ Jakiś czas temu pisaliśmy o
 [podstawowych zasadach użycia kontrolowanego języka angielskiego (Simplified Technical English)](http://techwriter.pl/simplified-technical-english-wprowadzenie/).
 W tym artykule dowiecie się więcej dlaczego i jak go używać.
 
+<!--truncate-->
+
 Kontrolowany język ogranicza niejednoznaczność i złożoność tekstów. Zmniejsza to
 ryzyko nieścisłości, które mogą wystąpić w wyniku niezrozumienia napisanego
 dokumentu.

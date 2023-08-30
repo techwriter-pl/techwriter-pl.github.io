@@ -14,6 +14,8 @@ coverImage: "Konferencje-2019-4.png"
 Dziś temat, który może zainteresować początkujących technical writerów.
 Zapraszamy!
 
+<!--truncate-->
+
 Jeśli dopiero zaczynasz swoją karierę jako technical writer, prawdopodobnie
 zastanawiasz się od czego rozpocząć zdobywanie doświadczenia, jak zacząć
 budowanie swojego portfolio, czym zainteresować potencjalnego pracodawcę, i

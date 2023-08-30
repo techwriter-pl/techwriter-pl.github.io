@@ -15,6 +15,8 @@ coverImage: "tech_writer_koduje-32.png"
 W najnowszym, 32 odcinku podcastu **Tech Writer Koduje** tematem przewodnim jest
 sztuczna inteligencja i jej rola w dokumentacji. Zapraszamy na skrót.
 
+<!--truncate-->
+
 Na początku dyskusji Paweł wraz z Michałem wyjaśniają czym jest sztuczna
 inteligencja, skąd się wzięła, jak powstaje, jakie można wyróżnić modele jej
 tworzenia oraz do czego można ją wykorzystać. W dalszej części podcastu panowie

@@ -15,6 +15,8 @@ coverImage: "Kilka-pytan-do_24.png"
 Po dość długiej przerwie wracamy do cyklu: _Kilka pytań do_. Tym razem poznacie
 pracę technical writera z punktu widzenia stażystek.
 
+<!--truncate-->
+
 Patrycja Pyrek i Klaudia Wilk to stażystki firmy
 [Hitachi ABB Power Grids](https://www.hitachiabb-powergrids.com/pl/pl). Gdyby
 trzeba było ją podsumować jednym zdaniem, to najlepiej obrazuje to angielskie

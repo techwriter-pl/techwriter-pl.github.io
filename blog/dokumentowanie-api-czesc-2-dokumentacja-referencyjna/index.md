@@ -14,6 +14,8 @@ coverImage: "OpenAPI.png"
 Kontynuujemy temat dokumentacji API - przed Wami drugi artykuł Marcina
 Pierzchały. Tym razem skupiamy się na części referencyjnej dokumentacji.
 
+<!--truncate-->
+
 [W poprzedniej części cyklu omówiliśmy definicję API](http://techwriter.pl/dokumentacja-api-czesc-1-definicja-i-rodzaje-api/)
 i wprowadziliśmy rozróżnienie na API webowe i natywne. Przyjrzeliśmy się także
 prostemu zapytaniu HTTP, które wysłaliśmy do usługi Google Maps, co pozwoliło

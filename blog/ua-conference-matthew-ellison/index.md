@@ -20,6 +20,8 @@ poprowadził dwie prezentacje, pierwszą z nich,
 **[Tool Support for Creating User Assistance](http://www.uaeurope.com/conference/sessions.html#toolsupportmobileUA)**,
 zrelacjonujemy w tym artykule.
 
+<!--truncate-->
+
 ## Mobile vs. Non-Mobile
 
 Co odróżnia dokumentację na urządzeniach mobilnych od dokumentacji na innych

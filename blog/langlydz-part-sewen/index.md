@@ -15,6 +15,8 @@ Jeżeli nie - przeczytaj i tak - nauczysz się jak się organizuje nudne spotkan
 😊. Oraz paru innych przydatnych rzeczy. Zapraszamy do riwiu naszej najnowszej
 lekcji języka langłydż.
 
+<!--truncate-->
+
 **Riwiu** \[od ang. review\] - teoretycznie oznacza przegląd (np. dokumentu,
 projektu), recenzję (np. książki) albo
 [inspekcję](http://pl.wikipedia.org/wiki/Inspekcja) (np. jednostki wojskowej). A

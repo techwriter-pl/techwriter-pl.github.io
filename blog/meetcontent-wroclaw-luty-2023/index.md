@@ -14,6 +14,8 @@ Przed nami kolejna edycja MeetContentWRO. Poniżej najważniejsze informacje.
 Dodatkowo, przeczytacie dziś o tym co działo się podczas styczniowej odsłony
 wrocławskiego meetupu.
 
+<!--truncate-->
+
 Ekipa MeetContentWRO ma za sobą kolejny udany meetup. Ale zanim opowiemy o
 styczniowym wydarzeniu, kilka słów na temat tego co przed nami!
 

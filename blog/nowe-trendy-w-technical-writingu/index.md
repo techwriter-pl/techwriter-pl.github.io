@@ -14,6 +14,8 @@ związane zaczęły wprowadzać przeróżne nowinki i trendy, mające pomóc w t
 jak najlepszej dokumentacji. W ostatnim czasie można zaobserwować kilka nurtów,
 jakie przewodzą ewolucji tego zawodu. Jakie to trendy? Szczegóły poniżej.
 
+<!--truncate-->
+
 ## Rosnące wykorzystanie narzędzi i platform cyfrowych
 
 Autorzy tekstów technicznych używają szerokiej gamy narzędzi i platform

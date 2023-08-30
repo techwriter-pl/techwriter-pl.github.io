@@ -21,6 +21,8 @@ szczęście z pomocą przychodzi nam
 pomysłem na mocno przyspieszoną wersję korekty, która może się przydać w
 sytuacjach awaryjnych.
 
+<!--truncate-->
+
 ## Krok 1 - pisownia
 
 Mamy do dyspozycji całkiem sporo narzędzi do sprawdzania pisowni, dlatego może

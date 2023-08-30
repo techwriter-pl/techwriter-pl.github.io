@@ -15,6 +15,8 @@ plik z osobna za pomocą przeglądarki plików PDF, nacisnąć Ctrl+F i wyszuka�
 ilości plików niezwykle czasochłonna. Okazuje się, że jest dużo prostszy sposób,
 który nie wymaga instalowania płatnych aplikacji.
 
+<!--truncate-->
+
 Wystarczy zaopatrzyć się w poczciwego
 [Adobe Readera](http://get.adobe.com/pl/reader/). Aplikacja posiada funkcję
 wyszukiwania zaawansowanego, która umożliwia sprawne znalezienie wyrażenia w

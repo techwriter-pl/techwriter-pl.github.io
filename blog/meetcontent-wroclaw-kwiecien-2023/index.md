@@ -16,6 +16,8 @@ MeetCotent do Wrocławia. Nie inaczej będzie teraz - nowa odsłona meetupu już
 kwietnia. Poniżej najważniejsze informacje na jej temat, a także podsumowanie
 tego, co działo się na spotkaniu w marcu.
 
+<!--truncate-->
+
 Zanim jednak przejdziemy do konkretów chcielibyśmy podzielić się z Wami
 informacją, że nasz portal objął patronatem medialnym meetupy organizowane przez
 społeczność MeetContent z Wrocławia. Spodziewajcie się więc regularnych

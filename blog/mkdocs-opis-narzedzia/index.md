@@ -18,6 +18,8 @@ Pliki źródłowe dokumentacji pisane są w Markdownie, a cała konfiguracja
 potrzebna do zbudowania strony zawiera się w jednym pliku
 [YAML](http://pl.wikipedia.org/wiki/YAML).
 
+<!--truncate-->
+
 ## Instalacja
 
 Zanim zainstalujemy właściwą aplikację, musimy dozbroić nasz system operacyjny w

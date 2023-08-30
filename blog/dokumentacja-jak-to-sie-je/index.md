@@ -11,6 +11,8 @@ coverImage: "dokumentacja_goscinny.png"
 
 Dziś temat bliski wszystkim Technical Writerom, a mianowicie **dokumentacja**.
 
+<!--truncate-->
+
 Jakie są jej cechy, co powinna zawierać, jakie są etapy jej powstawania? Jak
 zweryfikować, czy nie popełniliśmy błędu w trakcie jej tworzenia?
 

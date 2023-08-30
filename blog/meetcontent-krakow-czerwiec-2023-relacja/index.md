@@ -17,6 +17,8 @@ tym, co udało im się dowiedzieć o projekcie skupionym na dokumentacji API, SD
 którym bardzo wiele zależy od zgrania i współpracy dwóch ról: Technical Writera
 i Developer Advocate.
 
+<!--truncate-->
+
 ## Pierwsze spotkanie z Contentem
 
 [![](images/meetContent14_3-1024x768.jpeg)](http://techwriter.pl/wp-content/uploads/2023/07/meetContent14_3.jpeg)

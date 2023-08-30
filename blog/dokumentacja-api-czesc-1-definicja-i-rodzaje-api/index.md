@@ -15,6 +15,8 @@ Z otwartymi ramionami witamy na naszych stronach nowego autora a wraz z nim
 nowy, jakże aktualny temat! Marcin przygotował dla Was artykuł otwierający cykl
 i obiecał, że na tym nie koniec!
 
+<!--truncate-->
+
 ## O autorze
 
 Jako absolwent anglistyki, **Marcin Pierzchała** zaczynał swoją karierę jako

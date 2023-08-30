@@ -12,6 +12,8 @@ coverImage: "3di_logo.png"
 
 Koniec roku to nie koniec ofert.
 
+<!--truncate-->
+
 Krakowski oddział [3di](http://3di.com.pl/) znów się powiększa. W związku z tym,
 firma poszukuje dwóch Technical Writerów z co najmniej rocznym doświadczeniem w
 branży. Proponowane widełki płacowe to 6000-7500 zł brutto.

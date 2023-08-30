@@ -14,6 +14,8 @@ Nasz ulubiony temat - jak przekazać więcej pisząc mniej -
 [powraca](http://techwriter.pl/prostota-glupcze/). I będzie powracać, bo na tym
 właściwie polega cała sztuka przekazywania wiedzy.
 
+<!--truncate-->
+
 Mniej słów to:
 
 - czytelniejszy przekaz,

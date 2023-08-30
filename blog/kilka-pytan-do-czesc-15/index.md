@@ -17,6 +17,8 @@ prelegentów, lub z zaangażowania w
 społeczność [MeetContentWRO](http://meetcontent.org/). Tak czy inaczej, zróbcie
 sobie kawę i rozsiądźcie się wygodnie, bo jest co czytać. 😊
 
+<!--truncate-->
+
 ### Jak długo pracujesz jako Tech Writer?
 
 Z dokumentacją techniczną związany jestem osiem lat. Przez pięć lat pracowałem

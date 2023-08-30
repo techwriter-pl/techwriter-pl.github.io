@@ -17,6 +17,8 @@ Znacie narzędzie Flare? Jeśli nie, to teraz może być dobry moment aby to
 zmienić. Firma MadCap właśnie wypuściła na rynek nową wersję tego
 oprogramowania - numer dziesięć.
 
+<!--truncate-->
+
 Cytat z jednej z wielu recenzji:
 
 _"If you have never used MadCap Flare, consider this latest version as a great

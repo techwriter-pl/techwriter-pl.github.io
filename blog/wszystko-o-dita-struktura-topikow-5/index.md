@@ -16,6 +16,8 @@ znalezienie czegoś w języku polskim jest dość trudne. Chcąc zmienić ten st
 rzeczy, postanowiliśmy stworzyć dla Was niniejsze kompendium wiedzy o tym
 standardzie.
 
+<!--truncate-->
+
 W tym artykule pochylimy się nad strukturą poszczególnych elementów, które
 budują naszą techniczną epopeję. Weźmy zatem do ręki metaforyczną lupę i
 przyjrzyjmy się z bliska małym bestiom biegającym po mapach, a którym na imię

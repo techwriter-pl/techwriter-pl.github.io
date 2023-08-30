@@ -13,6 +13,8 @@ coverImage: "WorldUsabilityDay1.png"
 Kolejna (mamy nadzieję) ciekawa konferencja w Krakowie - World Usability
 Day'13 - już za 2 tygodnie!
 
+<!--truncate-->
+
 Cytując organizatorów: "World Usability Day (Światowy Dzień Użyteczności) to
 konferencja promująca projektowanie zorientowane na użytkownika (user experience
 design), które czyni technologię bardziej przyjazną dla ludzi. Tegorocznym

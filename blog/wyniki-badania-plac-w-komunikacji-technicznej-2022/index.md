@@ -15,6 +15,8 @@ coverImage: "Badanie_plac_2022_wyniki.png"
 Najwyższa pora, by opublikować wyniki corocznej ankiety dotyczącej płac w
 komunikacji technicznej. Szczegóły poniżej.
 
+<!--truncate-->
+
 ### O co pytaliśmy?
 
 W tym roku poszerzyliśmy listę pytań o dwa kolejne, które dotyczyły rodzaju

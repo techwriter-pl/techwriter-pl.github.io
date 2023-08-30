@@ -16,6 +16,8 @@ Już **5 listopada** startuje trzecia edycja studiów podyplomowych na kierunku
 Komunikacja Techniczna. Na chętnych wciąż czekają miejsca. Czego się spodziewać?
 Szczegóły poniżej.
 
+<!--truncate-->
+
 ### Studia z naszej perspektywy
 
 Jak wiecie, jakiś czas temu objęliśmy

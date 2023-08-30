@@ -13,6 +13,8 @@ coverImage: "konferencja2.jpg"
 Półrocze za pasem... Sprawdźmy jakie propozycje ma dla nas druga część tego
 roku.
 
+<!--truncate-->
+
 Cały czas możecie się jeszcze załapać na niektóre
 [konferencje z pierwszego półrocza](http://techwriter.pl/konferencje-2014-pierwsze-polrocze/),
 tu jednak coś dla tych, którzy planują z większym wyprzedzeniem, albo

@@ -18,6 +18,8 @@ również wtedy, kiedy np. chcecie pokazać programiście, że popełnił błąd
 Poznajcie narzędzia które mogą być pomocne przy robieniu zrzutów ekranowych -
 dwa z nich opisał dla Was niezawodny mojk.
 
+<!--truncate-->
+
 W życiu każdego dokumentalisty przychodzi ten nieszczęsny moment, kiedy trzeba
 wymienić albo dodać “screeny” do dokumentacji. Zazwyczaj jest to żmudne,
 czasochłonne i przede wszystkim nudne zajęcie, przynajmniej ja tak uważam, ale

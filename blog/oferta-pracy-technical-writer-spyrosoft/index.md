@@ -14,6 +14,8 @@ Firma [SpyroSoft](http://www.spyro-soft.com/pl/start/), zajmująca się
 wspieraniem klientów w tworzeniu oprogramowania, poszukuje Technical Writera do
 swojego biura we Wrocławiu.
 
+<!--truncate-->
+
 Oferta skierowana jest do osób znających język angielski, XML, HTML i CSS oraz
 swobodnie poruszających się po narzędziach takich jak MadCap Flare. Kika słów
 zachęcających do wzięcia udziału w rekrutacji od samej firmy:

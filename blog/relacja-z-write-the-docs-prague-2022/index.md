@@ -14,6 +14,8 @@ coverImage: "308673646_178834124673335_5366100879339750396_n-e1665933113491.png"
 nami, najwyższa więc pora na naszą relację. Jak było w tym roku? Jakie były
 tematy? O tym, i nie tylko, przeczytacie w dalszej części artykułu.
 
+<!--truncate-->
+
 ## Program i przemówienia
 
 Jak przez ostatnie dwa lata, organizatorzy Write the Docs Prague 2022

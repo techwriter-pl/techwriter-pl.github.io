@@ -13,6 +13,8 @@ coverImage: "Flip-color@2x.png"
 W pełni zdalna praca w firmie z Los Angeles? To możliwe! Sprawdźcie najnowszą
 ofertę, są tam również konkretne kwoty 😊
 
+<!--truncate-->
+
 Tym razem pracodawca przygotował dla Was prezentację - lubimy to i rekomendujemy
 innym firmom:
 

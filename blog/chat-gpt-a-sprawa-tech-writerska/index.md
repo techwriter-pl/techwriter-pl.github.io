@@ -18,6 +18,8 @@ ma własną perspektywę. Czy warto się tym zainteresować, czy może lepiej ma
 ręką? W artykule nie dostaniecie jednoznacznej odpowiedzi. Mam nadzieję, że
 dostaniecie garść obserwacji, które pomogą w poszukaniu własnej interpretacji.
 
+<!--truncate-->
+
 Temat jest wielowymiarowy i rozwojowy, dlatego publikując ten artykuł jestem
 pewien, że szybko się on zdezaktualizuje - niemal każdego tygodnia dzieje się
 coś nowego na tym polu, a nasze rozumienie tych kwestii stale ewoluuje.

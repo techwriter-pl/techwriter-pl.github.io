@@ -14,6 +14,8 @@ coverImage: "6.-sample-money.jpg"
 
 W tym roku, już po raz trzeci zachęcamy Was do wypełnienia ankiety o zarobkach.
 
+<!--truncate-->
+
 W 2017 roku postanowiliśmy zrobić nasze własne, kompleksowe badanie płac wśród
 technical writerów i powiązanych profesji. Rok później, zrobiliśmy badanie
 jeszcze raz. Wyniki ankiet możecie zobaczyć pod tymi linkami:

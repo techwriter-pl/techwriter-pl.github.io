@@ -18,6 +18,8 @@ Już w październiku startuje druga edycja studiów podyplomowych na kierunku
 Komunikacja Techniczna. Cieszymy się i chętnie podzielimy się z Wami
 szczegółami.
 
+<!--truncate-->
+
 Jak wiecie rok temu objęliśmy ten kierunek studiów swoim patronatem. Dlatego
 bardzo nas raduje, że pierwsza edycja okazała się sukcesem i przedsięwzięcie
 będzie miało kontynuację. Przeczytajcie wpisy naszej koleżanki Magdy, która jest

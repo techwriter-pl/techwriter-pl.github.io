@@ -15,6 +15,8 @@ coverImage: "badanie_plac_2022.png"
 Nadszedł czas, aby zaprosić Was do wypełnienia corocznej ankiety o zarobkach.
 Niezbędne informacje poniżej.
 
+<!--truncate-->
+
 ### Krótka historia
 
 Stali Czytelnicy dobrze wiedzą czym jest nasza coroczna akcja z wypełnianiem

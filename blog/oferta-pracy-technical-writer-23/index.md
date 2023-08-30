@@ -13,6 +13,8 @@ coverImage: "ttms_logo.png"
 Polska Grupa Kapitałowa [Transition Technologies](https://www.tt.com.pl/pl/)
 poszukuje Technical Writera.
 
+<!--truncate-->
+
 Firma jest jednym z największych w naszym kraju producentem i integratorem
 oprogramowania dostarczającym swoje produkty i usługi do odbiorców
 przemysłowych, sektora energii i gazu oraz automatyki przemysłowej w Polsce i na

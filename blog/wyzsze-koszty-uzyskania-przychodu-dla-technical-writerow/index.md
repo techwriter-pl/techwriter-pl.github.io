@@ -16,6 +16,8 @@ Taka interpretacja daje im potencjalnie możliwość skorzystania z 50% kosztów
 uzyskania przychodu, co przekłada się na wyższe zarobki netto. Jakiś czas temu
 jeden z naszych czytelników przysłał do nas taki e-mail.
 
+<!--truncate-->
+
 \_Cześć!
 
 Piszę do was z pomysłem na temat. Lab, w którym pracuje zatrudnia ponad 150

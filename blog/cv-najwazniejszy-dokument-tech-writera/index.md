@@ -17,6 +17,8 @@ ustawiona jest zdecydowanie wyżej jeśli chodzi o jakość i formę prezentowan
 informacji niż w przypadku stanowisk niezwiązanych z tworzeniem materiałów,
 które mają pomagać użytkownikom.
 
+<!--truncate-->
+
 ## Trzeba dobrze zacząć
 
 Najważniejsze jest pierwsze wrażenie, dlatego nasze CV musi od razu wzbudzać

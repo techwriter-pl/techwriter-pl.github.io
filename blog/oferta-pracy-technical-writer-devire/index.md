@@ -12,6 +12,8 @@ coverImage: "Devire_logotyp_kolor_rgb_web.png"
 
 Firma rekrutacyjna Devire szuka kandydatów dla swojego klienta w branży Telco.
 
+<!--truncate-->
+
 Przyszły pracodawca to największy na świecie producent sprzętu łączności
 sieciowej. Poszukują osób, które będą pracowały jako Technical Writer w
 zespołach wielozadaniowych. Dokumentacja ta jest opisana w samym ogłoszeniu jako

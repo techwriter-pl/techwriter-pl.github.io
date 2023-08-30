@@ -16,6 +16,8 @@ którym mogą zainteresować się osoby z branży komunikacji technicznej. Mowa 
 KTLC 2022, która odbędzie się w formie hybrydowej na przełomie września i
 października w Warszawie oraz online. Poniżej najważniejsze informacje.
 
+<!--truncate-->
+
 ### **Krótki powrót do przeszłości**
 
 KTLC to skrót, który powstał z połączenia dwóch wydarzeń ery “przed pandemią”

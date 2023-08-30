@@ -15,6 +15,8 @@ Końcówka roku nie oznacza spowolnienia na rynku pracy dla dokumentalistów.
 doświadczonego specjalisty do opracowywania dokumentacji technicznej, najlepiej
 ze znajomością standardu DITA.
 
+<!--truncate-->
+
 Jest to firma inżynierska działająca od 1991 r. na międzynarodowym rynku ICT.
 Świadczy usługi outsourcingu, consultingu, dostarcza rozwiązania dedykowane w
 obszarach telekomunikacji, komunikacji M2M (machine to machine), IoT (Internet

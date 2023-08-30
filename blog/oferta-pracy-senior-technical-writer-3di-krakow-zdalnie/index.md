@@ -11,6 +11,8 @@ coverImage: "3di_logo.png"
 
 Doświadczeni, samodzielni i zorientowani na klienta techwriterzy poszukiwani!
 
+<!--truncate-->
+
 Dziś oferta od [3di](https://3di-info.com/) - firmy dobrze znanej na polskim (i
 nie tylko) rynku. Szczegóły poniżej.
 

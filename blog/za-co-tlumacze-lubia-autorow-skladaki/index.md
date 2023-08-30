@@ -18,6 +18,8 @@ coverImage: "duplo-1981724_640.jpg"
 Z przyjemnością publikujemy kolejny wpis gościnny traktujący o tym w jaki sposób
 specjaliści tworzący dokumentację mogą ułatwić życie tłumaczom.
 
+<!--truncate-->
+
 [Pierwszy wpis](http://techwriter.pl/za-co-tlumacze-lubia-autorow-spojnosc/) z
 cyklu "Za co tłumacze lubią autorów" podkreślał jak ważna jest spójność w
 tworzeniu dokumentacji. W drugiej części autorka skupia się na zagrożeniach

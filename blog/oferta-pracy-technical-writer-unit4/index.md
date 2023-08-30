@@ -12,6 +12,8 @@ coverImage: "unit4-logo-250.png"
 
 Dzisiaj mamy dla Was ciekawą ofertę z południowo-zachodniej Polski.
 
+<!--truncate-->
+
 Firma [Unit4](http://www.unit4.com/), globalny dostawca oprogramowania
 biznesowego dla dużych przedsiębiorstw, poszukuje Technical Writera do swojego
 biura we Wrocławiu. Jeśli macie wiedzę z zakresu XML, HTML i CSS i interesuje

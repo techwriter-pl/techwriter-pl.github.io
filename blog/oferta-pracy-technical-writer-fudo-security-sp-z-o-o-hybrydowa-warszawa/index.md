@@ -14,6 +14,8 @@ coverImage: "logo-fudo-security-red-black.png"
 Warszawska firma informatyczna pilnie poszukuje pracownika na stanowisko
 Technical Writera. Niezbędne informacje znajdziecie poniżej.
 
+<!--truncate-->
+
 [Fudo Security](https://fudosecurity.com/pl/) jest liderem w branży
 bezpieczeństwa IT tworzącym produkty do monitorowania i zarządzania dostępem
 uprzywilejowanym. Firma posiada biura w trzech lokalizacjach, w tym w Dolinie

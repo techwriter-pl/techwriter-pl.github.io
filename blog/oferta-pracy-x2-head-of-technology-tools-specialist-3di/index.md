@@ -13,6 +13,8 @@ coverImage: "3di_logo.png"
 Zaprzyjaźniona firma z Krakowa poszukuje ludzi z naszej branży, z mocnymi
 umiejętnościami/zdolnościami technicznymi. Ciekawe opcje!
 
+<!--truncate-->
+
 [Head of Technology](https://3di-info.com/head-of-technology/) - to brzmi dumnie
 😊
 

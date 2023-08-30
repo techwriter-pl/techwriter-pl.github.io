@@ -16,6 +16,8 @@ udział w tej
 ale za to ma inne talenty - jego dokumentacja sprawia, że serwisantom ciężarówek
 i autobusów żyje się lżej. Przed Wami Marcin z Wrocławia.
 
+<!--truncate-->
+
 ### Jak długo pracujesz jako Tech Writer?
 
 6 miesięcy.

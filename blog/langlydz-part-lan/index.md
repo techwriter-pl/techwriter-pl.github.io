@@ -15,6 +15,8 @@ spotykanych na co dzień, szczególnie w anglojęzycznych korporacjach. Pomysł�
 nazwę tego cyklu było wiele: „Ojczyzna polszczyzna”, „Korpomowa”, „Ponglish”,
 „Słówko dnia”, „Wordy”...
 
+<!--truncate-->
+
 Ostatecznie wybraliśmy nazwę  „Langłydż”, bo jest krótka i zawiera aż dwa
 „polskie znaki” 😊.
 

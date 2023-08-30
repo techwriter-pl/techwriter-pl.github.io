@@ -13,6 +13,8 @@ coverImage: "3di_logo.png"
 3di zatrudni, do pracy w Krakowie, technical writera, junior technical writera i
 technical leada.
 
+<!--truncate-->
+
 3di świadczy usługi z zakresu technical writingu dla klientów na całym świecie,
 a więc daje możliwość pracy w różnych metodologiach i technologiach. Ciekawe
 jest ogłoszenie na stanowisko technical leada, bo to rzadka okazja sprawdzenia

@@ -23,6 +23,8 @@ dwuczęściowym artykule zatytułowanym **"Problem Words that Give Writers
 Trouble"** starają się rozwiać przynajmniej niektóre wątpliwości. Poniżej
 przedstawiamy listę słów i wyrażeń, które możecie znaleźć w każdej z części.
 
+<!--truncate-->
+
 [Part 1](http://www.acrolinx.com/blog/problem-words-give-writers-trouble-part-1/)
 
 - Affect and Effect

@@ -22,6 +22,8 @@ niezbyt natarczywie, wydobyć wszystkie potrzebne informacje. Jak to robić
 skutecznie, szybko i w możliwie najprzyjemniejszy (dla nas i dla rozmówcy)
 sposób?
 
+<!--truncate-->
+
 Praca z SME jest specyficzna, ponieważ będąc laikami w jakiejś dziedzinie,
 musimy wydobyć informacje od kogoś, kto z definicji jest w niej ekspertem. 
 Pomimo tego, że jesteśmy zależni od specjalisty ze względu na niższy poziom

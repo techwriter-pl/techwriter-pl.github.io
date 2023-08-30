@@ -13,6 +13,8 @@ coverImage: "MartynaWywiad.jpg"
 
 Zapraszamy na wywiad z naszą nową koleżanką 😊 Poznajcie Martynę Toporek!
 
+<!--truncate-->
+
 **Jak długo pracujesz jako Tech Writer?**
 
 W tym roku zdałam sobie sprawę, że minęło już 6 lat.

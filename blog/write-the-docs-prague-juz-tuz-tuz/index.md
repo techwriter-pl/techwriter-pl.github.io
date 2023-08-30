@@ -15,6 +15,8 @@ coverImage: "wtd.png"
 Do tegorocznej edycji konferencji Write the Docs Prague został już niespełna
 miesiąc. Poniżej garść najważniejszych informacji na jej temat.
 
+<!--truncate-->
+
 ### Co, gdzie i kiedy?
 
 Konferencja odbędzie się **8 - 11 września w Pradze**. Szczegółowe informacje

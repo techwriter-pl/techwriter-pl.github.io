@@ -13,6 +13,8 @@ coverImage: "3di_logo.png"
 Tym razem oferta w Krakowie, dla osób rozpoczynających przygodę z pisaniem
 dokumentacji.
 
+<!--truncate-->
+
 Krakowski oddział [3di](http://3di.com.pl/) powiększa się, w związku z tym firma
 poszukuje Junior Technical Writera. Oferta skierowana jest do osób z niewielkim
 doświadczeniem w tworzeniu dokumentacji lub takich, które dopiero chcą rozpocząć

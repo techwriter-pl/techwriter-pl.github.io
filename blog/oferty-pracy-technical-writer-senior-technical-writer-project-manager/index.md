@@ -14,6 +14,8 @@ coverImage: "3di_logo.png"
 Za nami dopiero kilka dni nowego roku, a krakowski rynek pracy dla Tech Writerów
 już zaczyna się na nowo rozkręcać.
 
+<!--truncate-->
+
 [Firma 3di](http://www.3di-info.com/) otwiera biuro na Dębnikach i szuka ludzi
 do zespołu dokumentacji technicznej. Więcej informacji o nowym oddziale możecie
 znaleźć

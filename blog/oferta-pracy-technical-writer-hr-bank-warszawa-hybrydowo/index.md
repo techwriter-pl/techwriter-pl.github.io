@@ -13,6 +13,8 @@ coverImage: "hrbank_logo.jpg"
 Na dobry początek tygodnia mamy dla Was kolejną ofertę pracy, tym razem z
 Warszawy.
 
+<!--truncate-->
+
 Doradztwo personalne **HR Bank sp. z o.o.** specjalizujące się w rekrutacji w
 sektorach IT/Inżynierii/TSL poszukuje dla Klienta - międzynarodowej firmy
 specjalizującej się z cyberbezpieczeństwie - Kandydatów na poniższe stanowisko.

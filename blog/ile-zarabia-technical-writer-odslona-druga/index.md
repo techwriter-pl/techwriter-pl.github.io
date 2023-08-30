@@ -15,6 +15,8 @@ kwestia dużej wagi, dlatego wracamy do niej po kilku miesiącach od ostatniego
 [postu](http://techwriter.pl/ile-zarabia-technical-writer/ "Ile zarabia technical writer?")
 w tym temacie. Dzisiaj pytamy jak się żyło dokumentalistom w roku 2013.
 
+<!--truncate-->
+
 Po części odpowiedź możemy znaleźć w
 [raporcie płacowym](https://www.google.pl/url?sa=t&source=web&rct=j&ei=g4lZU92SDKGB4gT7-IGQAQ&url=http://cpljobs.pl/Documents/CPL%2520Jobs%2520-%2520Raport%2520P%25C5%2582acowy%25202014%2520-%2520Podsumowanie%25202013.pdf&cd=1&ved=0CCYQFjAA&usg=AFQjCNEWD09fLWCV4vXW2CNkwmmGC4WdNQ)
 przygotowanym przez CPL Jobs. W zestawieniu dla branży IT znalazł się jeden z

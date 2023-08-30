@@ -13,6 +13,8 @@ coverImage: "guidewire_logo_new_2color_h_screen.jpg"
 Jeśli chcecie zmienić trochę kierunek, ale nadal pozostać w branży komunikacji
 technicznej to mamy dla Was ciekawą ofertę.
 
+<!--truncate-->
+
 [Guidewire Software](https://www.guidewire.com/), firma dostarczająca
 oprogramowanie do obsługi ubezpieczeń majątkowych i wypadkowych, poszukuje
 Senior UX Designera do swojego biura w Krakowie.

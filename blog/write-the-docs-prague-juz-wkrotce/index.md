@@ -17,6 +17,8 @@ niewiele ponad dwa tygodnie do jednego z najciekawszych branżowych wydarzeń w
 Europie. Niezdecydowanych zapraszamy na
 [relację z poprzedniej edycji](http://techwriter.pl/write-the-docs-europe-2016-relacja/) 😉.
 
+<!--truncate-->
+
 W tym roku rewolucji nie będzie, organizatorzy postanowili zachować sprawdzoną
 formułę. Podobnie jak rok temu, będzie sporo czasu na zapoznanie się z
 uczestnikami oraz nawiązanie z nimi bliższych relacji, a także poszerzanie

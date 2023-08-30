@@ -15,6 +15,8 @@ coverImage: "Konferencje-2020-2.png"
 Wakacje mijają, a to oznacza, że nadszedł czas na nową porcję informacji na
 temat konferencji branżowych na świecie.
 
+<!--truncate-->
+
 Podobnie jak w minionych miesiącach, większość wydarzeń została przeniesiona do
 sieci. Tylko nieliczne mają odbyć się stacjonarnie.
 

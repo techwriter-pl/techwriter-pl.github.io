@@ -13,6 +13,8 @@ coverImage: "2linesfusionlogo.png"
 Dziś oferta z Trójmiasta, a dokładniej z Gdyni, szukają Technical Writera z
 zapałem 😊
 
+<!--truncate-->
+
 Kontakt znajdziecie na końcu oferty:
 
 TECHNICAL WRITER - GDYNIA (lub zdalnie z delegacjami w biurze) Dla naszego

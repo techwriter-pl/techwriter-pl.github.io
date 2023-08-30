@@ -17,6 +17,8 @@ Przed nami druga połowa 2021 roku, a więc najwyższa pora by zaktualizować
 kalendarz branżowych konferencji. Zapraszamy do zapoznania się z poniższym
 kalendarium.
 
+<!--truncate-->
+
 Podobnie jak w pierwszej połowie roku, większość wydarzeń odbędzie się online,
 choć organizatorzy próbują także form hybrydowych oraz w pełni stacjonarnej
 opcji. Jak zawsze, będziemy śledzić zmiany i uzupełniać dane w miarę ich

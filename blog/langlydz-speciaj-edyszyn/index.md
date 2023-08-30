@@ -18,6 +18,8 @@ w pracy albo prezentacje, które mieliśmy okazję zobaczyć - odbiliśmy się o
 drugiego dna tego tekstu. Siedzimy teraz i smarujemy siniaki cebulą (podobno to
 pomaga). Wam zaś przedstawiamy Czerwonego Korpokapturka._
 
+<!--truncate-->
+
 Dawno, dawno temu, jeszcze w poprzednim fiskaljerze, za siedmioma górami, za
 siedmioma lasami, gdzieś hen w hedquatersach, w dziale na ósmym piętrze,
 pracowała sobie pewna dziewczyna. Od czasów takiej jednej imprezy integracyjnej

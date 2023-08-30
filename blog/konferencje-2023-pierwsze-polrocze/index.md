@@ -14,6 +14,8 @@ coverImage: "Konferencje-2023.png"
 Nadszedł 2023 rok, więc najwyższa pora, by przekazać Wam listę nowych terminów
 branżowych konferencji. Poniżej znajdziecie kalendarium na pierwsze półrocze.
 
+<!--truncate-->
+
 Podobnie jak w ostatnim roku, wiele wydarzeń odbędzie się online lub w formacie
 hybrydowym (online & in-person). Zwróćcie jednak uwagę, że coraz więcej z nich
 będzie organizowanych tylko stacjonarnie.

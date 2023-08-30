@@ -13,6 +13,8 @@ coverImage: "adult-2242164_640.jpg"
 Dość dawno temu [pisaliśmy](http://techwriter.pl/noty-wydania/) pokrótce o
 notach wydania (release notes). Dzisiaj przyjrzymy się im trochę bliżej.
 
+<!--truncate-->
+
 Zapewne każdy z Was miał okazję zetknąć się z notami wydania w takiej czy innej
 formie. I zapewne w wielu sytuacjach nie zwróciliście na nie szczególnej uwagi.
 Aktualizując aplikacje na swoim telefonie, niekoniecznie czujemy potrzebę

@@ -13,6 +13,8 @@ coverImage: "Fotopolska_818966.jpg"
 
 Cofniemy się w nieco w czasie do okresu PRL.
 
+<!--truncate-->
+
 Szare domy, szare ulice, szaro ubrani obywatele. Tak często opisywana jest
 Polska powojenna. Jednocześnie był to czas niezwykłej kreatywności, również w
 dziedzinie motoryzacji.

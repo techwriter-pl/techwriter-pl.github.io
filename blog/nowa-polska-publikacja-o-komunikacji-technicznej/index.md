@@ -17,6 +17,8 @@ managerów.", której autorem jest wszystkim dobrze znany Paweł Kowaluk. Tym
 bardziej cieszy nas fakt pojawienia się tej mini książki, bo jest ona napisana
 po polsku a do tego dostępna całkowicie za darmo w formacie HTML i PDF.
 
+<!--truncate-->
+
 ![](images/image1-e1588055266835.png)
 
 # Dla kogo jest ten poradnik?

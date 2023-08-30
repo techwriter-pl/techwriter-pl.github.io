@@ -18,6 +18,8 @@ spożytkujecie najlepiej jak to możliwe. Nasz nowy cykl otwiera **Ola**, która
 kilku lat tworzy dokumentację w firmie zajmującej się rozwijaniem programów
 księgowych. To tyle słowem wstępu, zapraszamy do lektury.
 
+<!--truncate-->
+
 ### Jak długo pracujesz jako Tech Writer?
 
 Prawie 3 lata.

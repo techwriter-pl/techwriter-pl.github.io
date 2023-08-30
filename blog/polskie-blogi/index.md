@@ -16,6 +16,8 @@ dziękujemy), postanowiliśmy sprawdzić co ciekawego może znaleźć techwrite
 polskiej blogosferze. Niestety niewiele, a szkoda. Nic nie mobilizuje tak
 skutecznie jak konkurencja...
 
+<!--truncate-->
+
 ... no może poza grupą 13-tu wiernych fanów 😉
 
 Sprawdziliśmy co człowiek "z branży" może sobie przeczytać do porannej kawki -

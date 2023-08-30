@@ -15,6 +15,8 @@ Miło nam poinformować, że rozpoczęła się rejestracja na konferencję UA E
 2017, której jesteśmy patronem medialnym. Jest to dobra okazja, żeby przekazać
 Wam najważniejsze informacje związane z tym wydarzeniem.
 
+<!--truncate-->
+
 UA Europe to coroczna konferencja dla osób związanych z szeroko rozumianą
 komunikacją techniczną. Organizatorzy stawiają szczególny nacisk na tematykę
 związaną z technicznym wsparciem użytkownika oferując uczestnikom aktualne dane

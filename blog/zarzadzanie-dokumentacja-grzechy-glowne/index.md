@@ -16,6 +16,8 @@ dłużej szukamy, tym większa w nas frustracja i złość, bo przecież nasza b
 Internet są tak dobrze zorganizowane. Jednak czy na pewno tak jest skoro nie
 możemy odszukać tego, co nam jest potrzebne?
 
+<!--truncate-->
+
 Ludzie na całym świecie spędzają ogromną ilość czasu na tworzeniu, dzieleniu
 się, znajdowaniu czy aktualizowaniu treści. Filtrujemy pocztę, foldery z dysków,
 szperamy w Internecie i nie zawsze czas temu poświęcony oraz wynik naszego

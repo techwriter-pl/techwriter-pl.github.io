@@ -17,6 +17,8 @@ po raz szósty [konferencja soap!](http://soapconf.com/). W tym roku również
 mieliśmy przyjemność sprawować patronat medialny nad tym wydarzeniem, dlatego
 nie mogło nas tam zabraknąć.
 
+<!--truncate-->
+
 Konferencja trwała w sumie trzy dni, z czego jeden dzień poświęcony był na
 warsztaty a kolejne dwa dni na prezentacje. Mieliśmy okazję sporo się nauczyć,
 wysłuchać wielu ciekawych wystąpień i przy okazji dobrze się bawić. Zapraszamy

@@ -17,6 +17,8 @@ coverImage: "api_the_docs.png"
 Już w październiku rusza kolejna edycja cyklu wirtualnych spotkań związanych z
 dokumentacją API i doświadczeniami w pracy programisty.
 
+<!--truncate-->
+
 ## O konferencji
 
 [API The Docs](https://apithedocs.org/) zostało zainicjowane cztery lata temu i

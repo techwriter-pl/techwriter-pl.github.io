@@ -15,6 +15,8 @@ Spieszymy donieść, że ekipa MeetContentWRO i wrocławscy contentowcy mają za
 kolejny udany meetup! 😉  Ale zanim opowiemy o lutowym wydarzeniu, kilka słów na
 temat tego co przed nami!
 
+<!--truncate-->
+
 ## **Marzec 2023 - Etteplan**
 
 Marcowy **#MeetContentWRO** zagości w firmie **Etteplan**. Tym razem mamy dla

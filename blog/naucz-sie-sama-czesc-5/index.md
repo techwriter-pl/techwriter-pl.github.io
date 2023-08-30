@@ -22,6 +22,8 @@ zrezygnować, lepiej jest stworzyć dokumentację zawierającą błędy językow
 dokładną pod względem technicznym niż wzór poprawności językowej, który opisuje
 produkt "po łebkach".
 
+<!--truncate-->
+
 Dla tych, którzy tworzą dokumentację w języku angielskim i chcą udoskonalić swój
 warsztat polecamy stronę [Daily Writing Tips](http://www.dailywritingtips.com).
 Codziennie dodawany jest tam post, w którym autorzy starają się mierzyć z

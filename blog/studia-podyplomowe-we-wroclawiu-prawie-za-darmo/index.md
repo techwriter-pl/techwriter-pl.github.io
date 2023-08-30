@@ -14,6 +14,8 @@ Miło nam poinformować, że
 [kierunek "Technical Writer - zarządzanie dokumentacją techniczną" na Wyższej Szkole Handlowej we Wrocławiu](http://www.handlowa.eu/pl/kierunki/studia-podyplomowe/technical-writer-zarzadzanie-dokumentacja-techniczna/opis)
 stał się jeszcze bardziej dostępny.
 
+<!--truncate-->
+
 A to dzięki umowie zawartej pomiędzy [uczelnią](http://handlowa.eu/pl/) i
 [Dolnośląską Agencją Współpracy Gospodarczej](http://dawg.pl/pl/index), w ramach
 której możecie uzyskać aż do 90% dofinansowania (limit to 6000 zł). Zachęcamy

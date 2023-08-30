@@ -15,6 +15,8 @@ coverImage: "meetcontentwro_maj_2023.png"
 Za nami kwietniowa edycja MeetContentWRO. Poniżej podsumowanie oraz zapowiedź
 tego, co czeka nas w maju. Zapraszamy!
 
+<!--truncate-->
+
 ![](images/19.jpg)
 
 Po zebraniu feedbacku od użytkowników w kwietniu w Nokia Garage, w maju

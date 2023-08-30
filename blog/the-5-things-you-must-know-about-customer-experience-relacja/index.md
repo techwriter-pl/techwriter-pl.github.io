@@ -16,6 +16,8 @@ Congility. Tym razem poprowadziła je
 doświadczenia użytkownika i powody, dla których tak ważne jest zrozumienie jego
 potrzeb.
 
+<!--truncate-->
+
 ![79percent](images/79percent-300x180.jpg)
 
 Swoją prezentację Sharon rozpoczęła od analizy wyników badania rynku, według

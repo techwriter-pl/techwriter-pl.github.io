@@ -13,6 +13,8 @@ coverImage: "devonshire_logo.png"
 W tym roku nie możemy narzekać na brak ofert pracy. Dzisiaj kolejna propozycja z
 Krakowa.
 
+<!--truncate-->
+
 Agencja pracy [Devonshire](http://www.devonshire.pl/) poszukuje doświadczonego
 Technical Writera dla swojego klienta - globalnego dostawcy sprzętu sieciowego.
 

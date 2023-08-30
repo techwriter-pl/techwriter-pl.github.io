@@ -15,6 +15,8 @@ Serwujemy kolejny wywiad w ramach cyklu „Kilka pytań do…”. Tym razem rozm
 z Michałem Hylińskim, który pełni funkcję Information Architecta w krakowskim
 oddziale Motorola Solutions Systems Polska.
 
+<!--truncate-->
+
 ### Jak długo pracujesz jako Information Architect i na czym właściwie polega Twoja rola?
 
 W październiku miną trzy lata. Information Architect \[dalej IA — przyp. red.\]

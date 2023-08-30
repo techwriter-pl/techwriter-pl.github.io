@@ -21,6 +21,8 @@ nasze własne, kompleksowe badanie. Chcemy prosić Was o anonimowe podanie danyc
 o Waszych zarobkach. Zebrane informacje oczywiście przedstawimy na naszych
 łamach.
 
+<!--truncate-->
+
 Dlaczego warto wypełnić tę ankietę?
 
 1. Bo pomoże ona Wam przy następnej zmianie pracy - dowiecie się jakich widełek

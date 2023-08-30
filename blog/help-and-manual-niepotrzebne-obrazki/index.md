@@ -14,6 +14,8 @@ coverImage: "hm.gif"
 posiada dużo przydatnych funkcji, których nie widać gołym okiem. Jedną z nich
 jest możliwość sprawdzenia, które obrazki nie są używane w projekcie.
 
+<!--truncate-->
+
 Rzadko kiedy dokument, który stworzyliśmy pozostaje niezmieniony przez dłuższy
 okres czasu. Przeważnie jest on regularnie aktualizowany, zmieniany i ulepszany.
 To prowadzi do sytuacji gdzie mamy mnóstwo starych zrzutów ekranu, które nie są

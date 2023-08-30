@@ -17,6 +17,8 @@ A ponieważ obietnic należy dotrzymywać, przedstawiamy dziś kilka miejsc w si
 które zdecydowanie warto odwiedzić, albo przynajmniej dodać do swojego czytnika
 RSS.
 
+<!--truncate-->
+
 Dla tych, którzy (jeszcze) nie wiedzą co to jest RSS polecamy dwa króciutkie
 artykuły:
 

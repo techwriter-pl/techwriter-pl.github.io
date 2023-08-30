@@ -13,6 +13,8 @@ coverImage: "dassault.png"
 Jeśli znasz biegle język angielski, masz zacięcie techniczne i chcesz rozpocząć
 swoją przygodę z Technical Writingiem to mamy dla Ciebie coś ciekawego.
 
+<!--truncate-->
+
 Krakowski oddział [Dassault Systemes](http://www.3ds.com/pl-pl/) poszukuje
 stażysty, który zasili szeregi zespołu zajmującego się dokumentacją. Firma
 oferuje komfortowe warunki pracy w nowoczesnym biurowcu z udogodnieniami dla

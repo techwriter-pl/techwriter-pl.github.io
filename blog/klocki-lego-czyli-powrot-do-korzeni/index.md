@@ -12,6 +12,8 @@ coverImage: "lego.jpg"
 Dzisiaj kilka słów o tym, co tech writerzy lubią najbardziej czyli zabawie w
 układanie jednej całości z wielu małych elementów... czyli o klockach Lego.
 
+<!--truncate-->
+
 Kilka miesięcy temu Lego wypuściło na rynek nowy zestaw klocków,
 [Architecture Studio](http://shop.lego.com/en-US/Studio-21050#shopxlink "Lego Architecture Studio").
 Co ciekawe, w zestawie nie ma instrukcji opisujących, co i jak można z tych

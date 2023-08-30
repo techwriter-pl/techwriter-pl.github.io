@@ -13,6 +13,8 @@ coverImage: "IBM-logo.gif"
 Dziś mamy coś dla studentów, z firmy której przedstawiać chyba nie trzeba. IBM
 oferuje płatne praktyki w Krakowie. Szczegóły poniżej.
 
+<!--truncate-->
+
 Można aplikować
 [bezpośrednio u źródła](https://ibm.jobs/krakow-pol/technical-writer-internship/bd39831a28f544ff909ee505a3e62334/job/)
 albo przez

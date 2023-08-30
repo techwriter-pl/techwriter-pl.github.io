@@ -13,6 +13,8 @@ coverImage: "Woodpecker_logo.jpg"
 W skrócie PES, czyli Piszący Ekstra Specjalista 😉 Warto zapoznać się z tą
 ofertą!
 
+<!--truncate-->
+
 Klarowne oczekiwania, bardzo ciekawy proces rekrutacyjny, przejrzysta oferta
 spisana
 [czarno na białym](https://woodpecker.co/careers/product-education-specialist/).

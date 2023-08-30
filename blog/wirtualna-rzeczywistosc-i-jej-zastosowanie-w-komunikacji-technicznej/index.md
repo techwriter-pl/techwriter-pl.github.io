@@ -18,6 +18,8 @@ Korzystając z urządzeń VR, można przenieść się do rzeczywistych i wymyśl
 środowisk, które pomogą zrozumieć, jak działa dany produkt, lub wesprzeć
 użytkownika w jego obsłudze.
 
+<!--truncate-->
+
 Jeśli chcecie dowiedzieć się, jak to zrobić i co jest potrzebne, zapraszamy do
 przeczytania artykułu.
 

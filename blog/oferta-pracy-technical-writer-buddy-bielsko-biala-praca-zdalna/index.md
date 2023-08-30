@@ -13,6 +13,8 @@ coverImage: "Buddy_logo_400x400.png"
 Polska firma, twórca platformy do automatyzacji procesów CI/CD, poszukuje!
 Możliwa praca zdalna oraz w niepełnym wymiarze godzin!
 
+<!--truncate-->
+
 Niewiele firm z naszego kraju może pochwalić się rozpoznawalnym na całym świecie
 produktem. [Buddy](https://buddy.works/) może. I robi to
 [śpiewająco](https://youtu.be/sYUqFoJvK94) 😊 Narzędzie powstało w 2015 roku i

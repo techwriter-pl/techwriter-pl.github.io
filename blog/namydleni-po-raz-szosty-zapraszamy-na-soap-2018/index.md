@@ -17,6 +17,8 @@ konferencję soap!. Jeśli tworzycie treści związane z szeroko rozumianym
 produktem to gorąco zachęcamy do wzięcia w niej udziału. Poniżej najważniejsze
 informacje dotyczące wydarzenia.
 
+<!--truncate-->
+
 ### Najważniejsze informacje
 
 Szósta edycja konferencji odbędzie się w dniach 23-25 maja w

@@ -14,6 +14,8 @@ Do czerwca zostało jeszcze trochę czasu, ale już dziś zapraszamy Was na
 krakowską konferencję soap!. Poniżej znajdziecie najważniejsze informacje
 dotyczące wydarzenia, a także sporo materiałów z poprzednich edycji.
 
+<!--truncate-->
+
 ### Termin i miejsce
 
 Tegoroczna edycja soap! odbędzie się w dniach **2-3 czerwca**. Podobnie jak w

@@ -16,6 +16,8 @@ coverImage: "komunikacja_techniczna_studia_magda.jpg"
 Dziś wrażenia z pierwszej ręki dotyczące studiów podyplomowych z komunikacji
 technicznej :-)
 
+<!--truncate-->
+
 Powoli dobiega końca pierwszy semestr zaocznych, podyplomowych studiów w ramach
 kierunku
 [Komunikacja Techniczna](https://www.vistula.edu.pl/kierunki-studiow/kontynuacja-edukacji/studia-podyplomowe/informatyka/komunikacja-techniczna)

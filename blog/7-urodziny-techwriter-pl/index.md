@@ -10,6 +10,8 @@ coverImage: "urodziny_7.png"
 
 Dziś 7 urodziny techwriter.pl! Kiedy to zleciało?!
 
+<!--truncate-->
+
 Z tej okazji postanowiliśmy podsumować minione lata. Troszkę po to, by się
 pochwalić i zmotywować, ale przede wszystkim, by docenić dotychczasową pracę
 ludzi, którzy zaangażowali się w nasz projekt. I, co najważniejsze, podziękować

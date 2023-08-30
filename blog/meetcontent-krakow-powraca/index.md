@@ -13,6 +13,8 @@ coverImage: "MeetContentKRK_maj.png"
 Mamy dla Was świetne wieści z Krakowa. Swą działalność wznawia społeczność
 MeetContentKRK!
 
+<!--truncate-->
+
 Po (zbyt) wielu miesiącach nieobecności MeetContentKRK powraca z zupełnie nowymi
 tematami, miejscami spotkań i możliwością poznania twórców związanych z
 technical writingiem.

@@ -16,6 +16,8 @@ zaproszeni jako partner medialny. Wybraliśmy się tam z wielką chęcią, bo ba
 lubimy Berlin i chętnie poznajemy tamtejszą scenę IT. A dzisiaj dzielimy się z
 Wami naszymi wrażeniami z tego wydarzenia.
 
+<!--truncate-->
+
 # Słowem wstępu
 
 Jeśli chodzi o udział w konferencjach to była to nasza pierwsza wizyta w stolicy

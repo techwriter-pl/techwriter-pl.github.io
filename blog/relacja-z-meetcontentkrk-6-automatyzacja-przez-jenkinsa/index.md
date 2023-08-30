@@ -17,6 +17,8 @@ Nasz niezastąpiony redakcyjny kolega Michał Skowron wystąpił na
 Opowiedział uczestnikom o automatyzacji zadań związanych z dokumentacją przy
 użyciu aplikacji [Jenkins CI](https://jenkins.io/). Jak było?
 
+<!--truncate-->
+
 Bardzo fajnie. Michał opowiedział o typowych praktykach używania MadCap Flare, a
 potem pokazał jak łatwo można je uprościć przez automatyzację. Michał przeszedł
 przez podstawy instalacji Jenkinsa i podał przykłady zautomatyzowanych zadań,

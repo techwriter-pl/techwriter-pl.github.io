@@ -14,6 +14,8 @@ W grudniu z reguły każdy myśli już o świętach i prezentach. Pozwoliliśmy 
 zatem na odrobinę fantazji, poszukując analogii między pracą Mikołaja i
 technical writera.
 
+<!--truncate-->
+
 Wydawałoby się, że niewiele łączy te dwie osoby, ale zagłębiając się w temacie
 można znaleźć kilka podobieństw.
 

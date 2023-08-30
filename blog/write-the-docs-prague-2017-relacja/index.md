@@ -15,6 +15,8 @@ konferencji [Write the Docs](http://www.writethedocs.org/conf/eu/2017/). I my
 ponownie mogliśmy w niej uczestniczyć, a o naszych wrażeniach przeczytacie
 poniżej.
 
+<!--truncate-->
+
 # Po pierwsze, Praga!
 
 Każdego roku organizatorka konferencji

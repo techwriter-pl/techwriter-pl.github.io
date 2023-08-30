@@ -15,6 +15,8 @@ coverImage: "MeetContent_2022.png"
 Mamy dla Was dobre wieści z Wrocławia! Po ponad dwuletniej przerwie wraca
 MeetContent. Najważniejsze informacje znajdziecie poniżej.
 
+<!--truncate-->
+
 ### Kilka słów o organizatorach
 
 Po ponad dwuletniej przerwie swoją działalność wznawia społeczność techwriterska

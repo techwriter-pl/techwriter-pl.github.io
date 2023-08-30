@@ -14,6 +14,8 @@ podczas wyjazdu na konferencję
 [WriteTheDocs](http://www.writethedocs.org/conf/eu/2016/). W związku z tym
 świętujemy!
 
+<!--truncate-->
+
 Kiedy dokładnie trzy lata temu powstawał
 [pierwszy wpis na naszej stronie](http://techwriter.pl/witaj-swiecie/), nie
 mieliśmy chyba pojęcia dokąd nas to zaprowadzi, jak długo wytrwamy i czy w ogóle

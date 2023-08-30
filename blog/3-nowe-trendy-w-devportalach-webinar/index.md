@@ -12,6 +12,8 @@ coverImage: "webinar.png"
 
 Mamy dziś dla Was propozycję ciekawego webinaru. Szczegóły poniżej.
 
+<!--truncate-->
+
 _3 Exciting New Developer Portal Trends in 2020_ to **darmowy webinar**
 skierowany zarówno do osób zajmujących się dokumentacją API, ale też wszystkich
 tych, którzy korzystają lub będą korzystać z tzw. devportali.

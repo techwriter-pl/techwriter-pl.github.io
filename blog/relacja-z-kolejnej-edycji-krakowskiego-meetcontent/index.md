@@ -15,6 +15,8 @@ coverImage: "hannes-wolf-74352-e1488647507320.jpg"
 
 Puzzle, design i inspiracja, czyli kolejne spotkanie MeetContent w Krakowie.
 
+<!--truncate-->
+
 Gosia Pytel,
 „[anglistka, marzycielka i działaczka](http://womenintechnology.pl/2016/08/zainspiruj-sie-4-wywiad-z-ekspertem-z-dziedziny-design-thinking-gosia-pytel/)”,
 próbowała zarazić nas ideą tzw. myślenia projektowego (_design thinking_). Co to

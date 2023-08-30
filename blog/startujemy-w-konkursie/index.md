@@ -12,6 +12,8 @@ Ponieważ nie ma jeszcze konkursu na blagę roku, a my kochamy rywalizację -
 postanowiliśmy zgłosić naszą stronę do konkursu "Blog roku". Chcemy poprawić
 wynik z zeszłego roku, kiedy to nawet my sami na siebie nie zagłosowaliśmy.
 
+<!--truncate-->
+
 [Konkurs na blog roku](http://www.blogroku.pl/) ma już całkiem długą,
 dziesięcioletnią historię. Nasza strona, technicznie rzecz biorąc, jest blogiem.
 Przy tym cały czas próbujemy dotrzeć do nowych czytelników, stwierdziliśmy

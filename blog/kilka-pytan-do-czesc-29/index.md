@@ -16,6 +16,8 @@ Joanną, która, od prawie półtora roku realizuje się w roli dokumentalisty w
 dużej korporacji z branży IT, a wcześniej pracowała przez wiele lat jako
 tłumaczka języka angielskiego.
 
+<!--truncate-->
+
 Joanna zgodziła się podzielić swoimi doświadczeniami i wrażeniami z życia tech
 writera.
 

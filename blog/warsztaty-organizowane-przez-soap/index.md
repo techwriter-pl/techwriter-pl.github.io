@@ -13,6 +13,8 @@ odbędą się przed konferencją. Warsztaty noszą nazwę Content Education Summ
 wydają się być doskonałą okazją na poszerzenie wiedzy o tworzeniu treści
 produktowej. W skład wydarzenia wchodzą następujące sesje:
 
+<!--truncate-->
+
 - **Words and pixels go better together** - nauczymy się jak tworzyć efektowne
   strony, dowiemy się jak pracuje cały zespół od pomysłu, poprzez projekt, aż po
   przekazanie do implementacji

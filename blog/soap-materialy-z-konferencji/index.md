@@ -15,6 +15,8 @@ są już dostępne na
 [stronie organizatorów](http://www.soapconf.com/p/speakers.html). Sami
 sprawdźcie co Was ominęło...
 
+<!--truncate-->
+
 ... oczywiście jeżeli nie udało Wam się uczestniczyć w tym wydarzeniu osobiście.
 Udostępnianie prezentacji po konferencjach jest ogólnie przyjętą dobrą praktyką,
 do której niestety wciąż niewielu organizatorów się stosuje - tym bardziej warto

@@ -13,6 +13,8 @@ coverImage: "CKSource-logo-2.jpg"
 Po dłuższej przerwie mamy dla Was konkretną ofertę pracy ze stolicy.
 Zdecydowanie warto rozważyć.
 
+<!--truncate-->
+
 Mają ciekawy produkt i jeszcze ciekawszą
 [historię](https://innpoland.pl/134797,polska-firma-od-ponad-10-lat-sprzedaje-dokladnie-ten-sam-produkt-w-jej-portfolio-sa-najwieksze-globalne-koncerny)
 😊

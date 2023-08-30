@@ -14,6 +14,8 @@ Spójrzcie co się dzieje - coraz więcej ofert, coraz ciekawsze stanowiska,
 kolejne miasta - nasza branża rozwija się (również w Polsce) aż miło! Tym razem
 ciekawa oferta pracy z Bytomia. Jak widać e jest otwarte na Wasze propozycje 😉.
 
+<!--truncate-->
+
 **Technical Content Specialist / Specjalista ds. treści**
 
 Nr ref.: TCS/2015

@@ -15,6 +15,8 @@ Oczywiście zdrowia, pogody ducha, ciekawych projektów, życzliwych
 współpracowników - to życzenia uniwersalne. Co jeszcze jest dla nas ważne? Oto
 nasze specjalne pozdrowienia z dedykacją.
 
+<!--truncate-->
+
 Dla początkujących techwriterów - abyście nie przejmowali się trudnościami,
 ponieważ w drodze do mistrzostwa liczą się także pierwsze kroki 😉
 

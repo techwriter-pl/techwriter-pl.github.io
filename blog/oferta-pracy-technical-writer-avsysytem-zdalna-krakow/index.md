@@ -13,6 +13,8 @@ coverImage: "LogoAVSystem.jpg"
 Technical writer pilnie poszukiwany! Krakowska firma potrzebuje wsparcia w
 zespole techwriterów. Może to Właśnie Ty?
 
+<!--truncate-->
+
 [AVSystem](https://www.avsystem.com/) to dostawca rozwiązań IoT oraz
 oprogramowania do zarządzania urządzeniami, obecny na rynku od 2006 roku. Misją
 firmy jest tworzenie rozwiązań, które pomagają przedsiębiorstwom tworzyć i

@@ -17,6 +17,8 @@ do Stanów Zjednoczonych to dobry sposób, żeby poszerzyć swoją wiedzę na te
 komunikacji technicznej 😉 Poniżej przedstawiamy konferencje, które udało nam
 się wyłuskać z nieprzebranych zasobów internetu.
 
+<!--truncate-->
+
 ## Styczeń
 
 19 stycznia, Londyn, Anglia -

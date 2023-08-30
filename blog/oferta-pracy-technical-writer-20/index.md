@@ -14,6 +14,8 @@ Lubicie jabłka? Firma Jamf – eksperci w zarządzaniu urządzeniami Apple w
 przedsiębiorstwach, instytucjach edukacyjnych i organizacjach rządowych –
 poszukuje Tech Writera do swojego biura rozwoju oprogramowania w Katowicach!
 
+<!--truncate-->
+
 Więcej szczegółów poniżej, lub pod linkiem:
 [https://www.jamf.com/jobs/view/technical-writer-1118/](https://www.jamf.com/jobs/view/technical-writer-1118/)
 

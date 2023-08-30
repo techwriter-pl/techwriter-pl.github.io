@@ -17,6 +17,8 @@ Powoli zbliża się tegoroczna edycja konferencji Write the Docs Prague. Podobni
 jak w poprzednich latach, z przyjemnością objęliśmy to wydarzenie patronatem 😊
 Poniżej znajdziecie garść najważniejszych informacji na jej temat.
 
+<!--truncate-->
+
 ### Co, gdzie i kiedy?
 
 W tym roku, z uwagi na panującą wciąż pandemię, konferencja odbędzie się w

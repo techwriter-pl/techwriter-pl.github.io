@@ -12,6 +12,8 @@ coverImage: "soap-e1563527191399.jpg"
 Jeśli nie byliście na tegorocznym soap! to przeczytajcie jak było. Jeśli
 byliście - zawsze miło powspominać, prawda?
 
+<!--truncate-->
+
 Szczególnie, że minęło już 5 miesięcy... Z roku na rok konferencja staje się
 coraz bardziej międzynarodowa i bardziej rozbudowana (ponad 200 uczestników z
 dziewiętnastu krajów!). Głównym hasłem przewodnim tegorocznej edycji było

@@ -12,6 +12,8 @@ coverImage: "soap2015.png"
 
 Miło nam poinformować, że rozpoczęły się zapisy na konferencję soap! 2016.
 
+<!--truncate-->
+
 Jest to dobra okazja, żeby przekazać Wam najważniejsze informacje związane z tym
 wydarzeniem.
 

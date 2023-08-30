@@ -16,6 +16,8 @@ coverImage: "bosch.png"
 Kolejna oferta pracy czeka na technical writera. Tym razem poszukiwany jest
 specjalista ze znajomością języka niemieckiego. Szczegóły poniżej.
 
+<!--truncate-->
+
 [Grupa Bosch](https://www.bosch.pl/) jest obecna w Polsce od roku 1992. Jest
 globalnym dostawcą technologii i usług, zatrudnia blisko 400 000 pracowników na
 całym świecie. Bosch prowadzi działalność w czterech sektorach: Mobility

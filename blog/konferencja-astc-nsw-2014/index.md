@@ -24,6 +24,8 @@ konferencji. Jest całkiem sporo czytania, ponieważ autorka nie opisała tylko
 jednej prezentacji. Lektura w sam raz na długie zimowe wieczory. Poniżej lista
 prezentacji w kolejności chronologicznej oraz linki do streszczeń:
 
+<!--truncate-->
+
 ## Dzień 1
 
 _"Influ­enc­ing with­out ‘real’ author­ity" - Haydn Thomas (Con­sul­tant,

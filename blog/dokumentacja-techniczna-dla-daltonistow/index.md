@@ -19,6 +19,8 @@ Dokumentacja techniczna powinna być dostępna dla każdego. Ale czy to oznacza,
 dokumentacja dla osób, które mają problem z rozróżnianiem kolorów to jest
 zupełnie inna bajka? Nie do końca!
 
+<!--truncate-->
+
 W tym artykule przedstawimy kilka przydatnych wskazówek dotyczących tworzenia
 dokumentacji dla daltonistów i osób mających problem z widzeniem kolorów.
 

@@ -15,6 +15,8 @@ W najnowszej odsłonie cyklu _Kilka pytań do..._ rozmowa z człowiekiem, które
 techwriterska kariera otworzyła możliwość rozwoju w nieco innym kierunku.
 Szczegóły poniżej.
 
+<!--truncate-->
+
 Ostatnimi czasy coraz więcej osób planuje spróbować sił w pisarstwie
 technicznym. Znamy też wiele osób, które już podążają tą ścieżką, spełniają się
 w niej i nie planują zmieniać kursu. Tech writing nie musi być jednak

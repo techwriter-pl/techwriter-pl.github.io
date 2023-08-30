@@ -16,6 +16,8 @@ coverImage: "2.jpg"
 Praca technical writera oprócz pisania tekstów zgodnie z najlepszymi praktykami,
 wiąże się z również z przygotowaniem tekstów do tłumaczenia.
 
+<!--truncate-->
+
 Dzisiejszy artykuł poświęcony będzie tekstom źródłowym, które są przysyłane do
 tłumaczenia. Podamy w nim również kilka przydatnych wskazówek, jak przygotować
 tekst, aby proces tłumaczenia przebiegał sprawnie i bez zbędnych problemów.

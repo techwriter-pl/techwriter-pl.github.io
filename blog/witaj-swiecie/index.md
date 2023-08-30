@@ -11,6 +11,8 @@ coverImage: "owca.jpg"
 
 Właściwie, jako “techniczni”, powinniśmy chyba napisać
 
+<!--truncate-->
+
 Hello World! 😊 (tu
 [naukowe wyjaśnienie](http://pl.wikipedia.org/wiki/Hello_world)).
 

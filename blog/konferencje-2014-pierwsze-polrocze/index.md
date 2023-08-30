@@ -14,6 +14,8 @@ O tej porze roku budżet Waszego działu jest jeszcze świeży, pachnący i aż 
 się, żeby coś z niego uszczknąć... To dobry moment, aby porozmawiać z szefem na
 temat ciekawej wycieczki. Na przykład na konferencję.
 
+<!--truncate-->
+
 Nasze propozycje:
 
 15-18 lutego, Orlando, Floryda, USA -

@@ -14,6 +14,8 @@ coverImage: "virtual-summit-acp2014.jpg"
 webinariów, dostępnych w sieci za darmo. Do posłuchania lub przeczytania w długi
 zimowy wieczór...
 
+<!--truncate-->
+
 Organizowany przez ludzi związanych
 z [The Content Wrangler](http://thecontentwrangler.com/) (polecamy), dla ludzi
 takich jak Wy (pozdrawiamy). Całość dostępna za darmo na platformie BrightTalk,

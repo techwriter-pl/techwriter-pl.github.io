@@ -16,6 +16,8 @@ spróbowaliśmy zmierzyć się z pierwszym. Przeczytajcie ile płacą za wykonyw
 najlepszego zawodu pod słońcem w Polsce i na świecie. Porównajcie to ze swoimi
 zarobkami.
 
+<!--truncate-->
+
 Chwila szukania i oto co możemy znaleźć:
 
 W Polsce

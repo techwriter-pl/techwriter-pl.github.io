@@ -11,6 +11,8 @@ coverImage: "podcast-e1573241469432.jpg"
 Z nieukrywaną przyjemnością informujemy o istnieniu kolejnego, bardzo
 wartościowego źródła wiedzy. To wyjątkowy projekt, pierwszy tego typu w Polsce.
 
+<!--truncate-->
+
 [**Tech Writer koduje**](https://techwriterkoduje.pl/) to młoda ale prężnie
 działająca inicjatywa dwóch naszych dobrych znajomych - Michała Skowrona i Pawła
 Kowaluka - nie tak dawno jeszcze naszych redakcyjnych kolegów, którzy słowo

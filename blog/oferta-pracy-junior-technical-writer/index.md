@@ -13,6 +13,8 @@ coverImage: "3di_logo.png"
 [Firma 3di](http://www.3di.com.pl) poszukuje kolejnej osoby do swojego biura w
 Krakowie.
 
+<!--truncate-->
+
 Nowe stanowisko na pewno zainteresuje osoby, które myślą o karierze Technical
 Writera i mają w tej branży niewielkie doświadczenie lub ukończony kurs czy
 staż.

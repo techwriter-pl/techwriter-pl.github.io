@@ -13,6 +13,8 @@ coverImage: "Logo-itMatch-duze.jpg"
 Poszukiwany Techwriter z doświadczeniem. Praca w branży IT. Będziesz tworzyć
 dokumentację do oprogramowania. Po angielsku. Brzmi ciekawie?
 
+<!--truncate-->
+
 W takim razie czytaj dalej 😊
 
 Oferta trafia do Was dzięki firmie rekrutacyjnej [itMatch](https://itmatch.pl/),

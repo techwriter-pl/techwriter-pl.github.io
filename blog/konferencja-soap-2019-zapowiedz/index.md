@@ -16,6 +16,8 @@ Jeśli zajmujecie się tworzeniem treści i jesteście ciekawi jaki jest jej zwi
 z kodowaniem to nie może Was na niej zabraknąć. Poniżej garść najważniejszych
 informacji dotyczących wydarzenia.
 
+<!--truncate-->
+
 ### **Termin**
 
 ### Siódma edycja soap! odbędzie się w dniach **5-7 czerwca w Krakowie**.

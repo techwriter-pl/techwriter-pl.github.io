@@ -15,6 +15,8 @@ coverImage: "season_of_docs_grafika.png"
 Na początku kwietnia, Google rozpoczął nowy program pod nazwą, **Season of
 Docs**. Jego celem jest wkład w rozwój otwartego oprogramowania (open source).
 
+<!--truncate-->
+
 # O programie
 
 Projekt będzie trwał 8 miesięcy. W tym czasie zostanie utworzony zespół

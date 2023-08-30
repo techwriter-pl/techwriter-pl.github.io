@@ -21,6 +21,8 @@ nowości, pomysły, opinie i dyskusje. Zakres tematów był tak różnorodny, ja
 uczestnicy, poczynając od technicznych aspektów pracy z MadCap Flare, a na
 wirtualnej rzeczywistości i tłumaczeniu maszynowym kończąc.
 
+<!--truncate-->
+
 # Witajcie w tech-commowej dżungli!
 
 Organizowanie tech-commowej konferencji w zoo może wydawać się pomysłem nie z

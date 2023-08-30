@@ -12,6 +12,8 @@ coverImage: "guidewire_logo_new_2color_h_screen.jpg"
 
 Godna polecenia oferta z Krakowa.
 
+<!--truncate-->
+
 [Guidewire Software](https://www.guidewire.com/), firma dostarczająca
 oprogramowanie do obsługi ubezpieczeń majątkowych i wypadkowych, rozbudowuje
 swój zespół dokumentacyjny w Krakowie i poszukuje kolejnego Technical Writera.

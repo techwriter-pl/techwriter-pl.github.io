@@ -14,6 +14,8 @@ działo się na tegorocznym Technical Communication Summit. Ciekawej lektury na
 pewno Wam nie zabraknie. Konferencja i towarzyszące jej wydarzenia odbyły się
 18-21 maja w Phoenix.
 
+<!--truncate-->
+
 Na początek kilka słów o organizatorach - czyli
 [Society for Technical Communication](http://stc.org/) - największej i
 najstarszej organizacji zrzeszającej techwriterów. STC wywodzi się i jest

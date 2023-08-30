@@ -16,6 +16,8 @@ coverImage: "iso.png"
 Ostatnio dużo pisaliśmy o tworzeniu dokumentacji API, wiec teraz dla odmiany
 napiszemy trochę o tym jak sobie pomóc w tworzeniu dokumentacji maszynowej.
 
+<!--truncate-->
+
 Ci, co mają z nią do czynienia z pewnością od czasu do czasu zastanawiają się,
 jak podejść do jej napisania i od czego zacząć 😊.
 

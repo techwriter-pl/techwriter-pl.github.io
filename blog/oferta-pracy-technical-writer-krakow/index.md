@@ -13,6 +13,8 @@ coverImage: "3di_logo.png"
 Pierwsze dni jesieni to dobry czas na zmiany. Ktoś myśli o nowej pracy? Tym
 razem ogłoszenie znowu z Krakowa.
 
+<!--truncate-->
+
 [3di Polska](http://3di.com.pl/) poszukuje osoby na stanowisko Technical Writer.
 
 Szczegółowe informacje dotyczące oferty pracy znajdziecie poniżej (kliknijcie w

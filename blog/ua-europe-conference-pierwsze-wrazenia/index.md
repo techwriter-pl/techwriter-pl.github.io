@@ -15,6 +15,8 @@ niestety już za nami. W tym roku odbyła się w Krakowie i z dumą możemy
 powiedzieć, że i my tam byliśmy! Poniżej parę słów o naszych pierwszych
 wrażeniach, kilka ochów i achów i krótkie sprawozdania z przebiegu konferencji.
 
+<!--truncate-->
+
 ## Who is Who
 
 Po pierwsze, jeśli nie udało się Wam przybyć do Krakowa, żeby wziąć udział w tym

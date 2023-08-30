@@ -12,6 +12,8 @@ coverImage: "logo_request.png"
 Organizatorzy reQuest 2019 opublikowali już agendę wydarzenia i umożliwili
 zapisy. Oto wszystkie potrzebne informacje.
 
+<!--truncate-->
+
 Po dwóch udanych edycjach, 26-27 września we Wrocławiu odbędzie się trzecia
 odsłona konferencji dedykowanej inżynierii wymagań i analizie biznesowej
 [reQuest](https://2019.request.pl/).

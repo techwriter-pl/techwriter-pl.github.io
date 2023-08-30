@@ -20,6 +20,8 @@ los, bo SMEsi nie chcieli z nimi współpracować. A jak już chcieli, to nie
 stosowali dobrych praktyk i dostarczali im zdawkowe i trudne do przetrawienia
 informacje naszpikowane wszelkiej maści osobliwościami językowymi.
 
+<!--truncate-->
+
 Niejednokrotnie też słyszeliśmy ubolewanie nad tym, że jesteśmy na samym końcu
 procesu i że zawsze mamy najgorzej. W tym całym "cierpieniu" zapominamy jednak o
 tym, że jest jeszcze ktoś dla kogo nasz koniec pracy oznacza początek wysiłku -

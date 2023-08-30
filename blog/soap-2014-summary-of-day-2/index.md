@@ -18,6 +18,8 @@ tracks. Everyone could find something for themselves. Unfortunately, we weren’
 able to attend all the presentations, so we describe in short only some of them.
 [![noz2ndday](images/noz2ndday.jpg)](http://techwriter.pl/wp-content/uploads/2014/10/noz2ndday.jpg)
 
+<!--truncate-->
+
 ## Trust Above All
 
 And not only in a relationship.

@@ -12,6 +12,8 @@ coverImage: "livechat_logo.jpg"
 
 Nowy rok dopiero wystartował, a już mamy dla Was kolejną ofertę pracy.
 
+<!--truncate-->
+
 Firma [LiveChat](https://www.livechatinc.com/), dostawca oprogramowania
 służącego bezpośredniej komunikacji w Internecie pomiędzy odwiedzającym stronę
 www, a jej właścicielem, poszukuje do swojego biura we Wrocławiu osoby na

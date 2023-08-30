@@ -18,6 +18,8 @@ je [Rahel Anne Bailie](http://intentionaldesign.ca/profile/ "Rahel Anne Baili
 specjalistka od procesów zarządzania treścią i współautorka
 książki [Content Strategy: Connecting the dots between business, brand, and benefits](http://thecontentstrategybook.com/ "Content Strategy").
 
+<!--truncate-->
+
 ## Content Economy
 
 Głównym tematem prezentacji było zarządzanie treścią osadzone w szeroko pojętej

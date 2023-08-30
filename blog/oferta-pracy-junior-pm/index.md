@@ -13,6 +13,8 @@ coverImage: "3di_logo.png"
 Wakacje dobiegają końca, a może ktoś myśli o zmianie pracy? Tym razem ogłoszenie
 znowu z Krakowa.
 
+<!--truncate-->
+
 [3di Polska](http://3di.com.pl/) poszukuje osoby na stanowisko Junior PM na
 dwuletni kontrakt. Poszukiwana jest osoba z doświadczeniem w komunikacji
 technicznej lub tłumaczeniach.

@@ -19,6 +19,8 @@ Polsce powstała oficjalna grupa użytkowników programu MadCap Flare. We wtorek
 czerwca, w krakowskim T.E.A. Time BrewPub, odbyło się pierwsze, organizacyjne
 spotkanie grupy.
 
+<!--truncate-->
+
 Mogliśmy na nim wysłuchać relacji z konferencji
 [MadWorld 2017](http://techwriter.pl/madworld-2017-relacja/) (która, naturalnie,
 była kopalnią wiedzy na temat Flare'a), przejrzeć grupy użytkowników istniejące

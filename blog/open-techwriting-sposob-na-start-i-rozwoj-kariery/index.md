@@ -16,6 +16,8 @@ może zachęci Was do podjęcia nowego wyzwania. Coś, co naszym zdaniem, będzi
 świetną okazją do nauki zawodu, zdobycia nowych doświadczeń, ale także zdobycia,
 często intratnych, kontaktów.
 
+<!--truncate-->
+
 Powszechnie wiadomo, że najtrudniej zdobyć pierwszą pracę. Często jest jak w tym
 kawale, gdzie pracodawca chce młodego, ambitnego pracownika świeżo po studiach,
 najlepiej z 5 letnim doświadczeniem w branży. Cóż więc może zrobić kandydat, aby

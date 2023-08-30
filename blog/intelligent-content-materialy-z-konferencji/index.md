@@ -12,6 +12,8 @@ coverImage: "IntelligentContent2014.jpg"
 Slajdy z wystąpień, które można było obejrzeć na żywo 26-28 lutego, w San Jose w
 Kalifornii, są już dostępne w sieci. Sprawdźcie co Was ominęło.
 
+<!--truncate-->
+
 Nie wiemy jak Wy, ale my uwielbiamy przeglądać prezentacje z konferencji - można
 to zrobić w 5 minut, a w głowie często zostaje tyle samo ile po godzinnym
 wykładzie - jest to ogromna oszczędność czasu i pieniędzy. Organizatorzy

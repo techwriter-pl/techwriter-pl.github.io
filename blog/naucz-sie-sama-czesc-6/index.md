@@ -18,6 +18,8 @@ doświadczonymi Technical Writerami, książka **The Insider’s Guide to Techn
 Writing** autorstwa **Kristy Van Laan** jest warta tego, by zająć miejsce w
 Waszej biblioteczce.
 
+<!--truncate-->
+
 Książka jest w szczególności skierowana do osób nie posiadających doświadczenia
 lub rozpoczynających karierę w Technical Writingu. Jednak nie oznacza to, że
 długoletni pracownicy zajmujący się dokumentacją nie znajdą w niej nic

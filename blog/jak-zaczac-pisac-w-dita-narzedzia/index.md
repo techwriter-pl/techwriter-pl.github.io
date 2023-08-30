@@ -18,6 +18,8 @@ znalezienie czegoś w języku polskim jest dość trudne. Chcąc zmienić ten s
 rzeczy, postanowiliśmy stworzyć dla Was niniejsze kompendium wiedzy o tym
 standardzie.
 
+<!--truncate-->
+
 W tym artykule pytanie „Czym?” przoduje nad pozostałymi, ważkimi pytaniami
 natury egzystencjalno – dokumentacyjnej. Oczywiście na pytanie „Jak?” również
 staramy się odpowiedzieć. Na pytanie „O czym?” z pewnością odpowie wam wasz SME,

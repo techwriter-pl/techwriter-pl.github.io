@@ -12,6 +12,8 @@ coverImage: "Akamai-Logo-Color.jpg"
 
 Dwie ciekawe oferty z Małopolski.
 
+<!--truncate-->
+
 Firma [Akamai](https://www.akamai.com/pl/pl/), dostawca usług w zakresie sieci
 dostarczania treści (Content Delivery Network, CDN)
 dla multimediów i oprogramowania, a także rozwiązań z dziedziny bezpieczeństwa

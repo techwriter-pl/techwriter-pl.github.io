@@ -21,6 +21,8 @@ konferencji zostało jeszcze sporo czasu, już dziś zachęcamy do zapoznania si
 z najważniejszymi informacjami na jej temat. Być może ktoś z Was zechce wziąć w
 niej udział?
 
+<!--truncate-->
+
 Organizatorem i pomysłodawcą konferencji MadWorld jest firma
 [MadCap Software](http://www.madcapsoftware.com/) tworząca wiele programów
 używanych w naszej branży. Pierwsza konferencja MadWorld miała miejsce w 2013

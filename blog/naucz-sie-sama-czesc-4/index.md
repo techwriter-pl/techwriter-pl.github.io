@@ -19,6 +19,8 @@ kontynuacja dobrych rad, które przedstawiliśmy w poprzednim
 [wpisie](http://techwriter.pl/naucz-sie-sama-czesc-3/) z cyklu **"Naucz się
 sam(a)"**.
 
+<!--truncate-->
+
 # Jak tworzyć indeks?
 
 1. Nie umieszczaj w indeksie każdego wystąpienia danego słowa, tylko miejsca

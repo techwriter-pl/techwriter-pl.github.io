@@ -17,6 +17,8 @@ coverImage: "3_edycja_studiow.png"
 Dziś mamy dla Was podsumowanie kolejnej, już trzeciej, edycji studiów
 podyplomowych na kierunku Komunikacja Techniczna. Zapraszamy!
 
+<!--truncate-->
+
 Mamy szczęście, bo kolejna z naszych redaktorek jest absolwentką tego kierunku,
 dzięki czemu możecie przeczytać poniższy artykuł. Justyna, bardzo dziękujemy!
 

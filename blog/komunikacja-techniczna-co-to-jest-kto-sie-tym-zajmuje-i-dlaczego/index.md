@@ -12,6 +12,8 @@ Zazwyczaj piszemy o wydarzeniach związanych z komunikacją techniczną, o tym j
 odnaleźć się w branży, jak lepiej pisać teksty czy jakich narzędzi używać, by
 praca była szybsza i przyjemniejsza.
 
+<!--truncate-->
+
 Stosunkowo rzadko zajmujemy się podstawami: czym jest komunikacja techniczna i
 do czego jest nam potrzebna? Postanowiliśmy odświeżyć ten temat, nasz przewodnik
 po temacie znajdziecie poniżej.

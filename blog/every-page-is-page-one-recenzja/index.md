@@ -17,6 +17,8 @@ jest”. Zamiast powielać pobożne życzenia (a Tech Writerzy również je maj�
 stawiają na brutalną niemal szczerość i jasny przekaz. Taką właśnie książką
 rzuca w nas Mark Baker.
 
+<!--truncate-->
+
 Aby pisać, trzeba czytać. Anglojęzyczna literatura dla autorów technicznych
 przez ostatnie kilkadziesiąt lat dorobiła się sporej historii i ciężko narzekać
 na brak ciekawych pozycji. Możemy wręcz przebierać w podręcznikach, poradnikach,

@@ -11,6 +11,8 @@ coverImage: "googleplus.png"
 Jeżeli Facebook i Twitter to nie Wasze klimaty - od pewnego czasu mamy również
 stronę na Google+. Niech Wam służy.
 
+<!--truncate-->
+
 [Mikołaj chyba o tym zapomniał](http://techwriter.pl/prezent-od-sw-mikolaja-twarzoksiazka/),
 ale co się odwlecze... Na
 [pierwsze urodziny](http://techwriter.pl/to-juz-rok/) dostaliśmy w prezencie

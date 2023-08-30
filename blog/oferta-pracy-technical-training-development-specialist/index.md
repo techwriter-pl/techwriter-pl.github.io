@@ -13,6 +13,8 @@ coverImage: "microgen_logo.png"
 Pierwszy kwartał roku obfituje w oferty pracy z branży tech comm. Dzisiaj mamy
 dla Was coś z Dolnego Śląska.
 
+<!--truncate-->
+
 Polski oddział firmy [Microgen](https://www.microgen.com/uk-en/), zlokalizowany
 od 24 lat we Wrocławiu, poszukuje osoby na stanowisko **Technical Training
 Development Specialist**. Firma wytwarza oprogramowanie do automatyzacji

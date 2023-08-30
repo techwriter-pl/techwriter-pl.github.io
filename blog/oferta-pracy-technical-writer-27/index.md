@@ -13,6 +13,8 @@ coverImage: "EXP_BE_Logo_IT_SS_STK_MC_RGB_smaller.jpg"
 Wakacje w pełni, a ofert przybywa. Po ogłoszeniach ze stolicy i Górnego Śląska,
 wracamy do Krakowa.
 
+<!--truncate-->
+
 [Experis IT](http://www.experis.pl/) poszukuje dla swojego klienta, firmy Cisco,
 Technical Writera. Jest to oferta skierowana do osób z kilkuletnim
 doświadczeniem w komunikacji technicznej znających narzędzia Cisco.

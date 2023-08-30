@@ -17,6 +17,8 @@ Tymczasem, korzystając z nadarzającej się okazji, postanowiliśmy sprawdzić,
 to wygląda za granicą. Dzisiaj na nasze pytania odpowiada Anna, Tech Writer z
 Dublina.
 
+<!--truncate-->
+
 Tekst publikujemy w dwóch wersjach: polskiej oraz [angielskiej](#ang).
 
 ### Jak długo pracujesz jako Tech Writer?

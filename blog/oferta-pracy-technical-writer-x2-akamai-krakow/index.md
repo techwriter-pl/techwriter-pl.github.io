@@ -13,6 +13,8 @@ coverImage: "Akamai_Logo.png"
 W krakowskim oddziale Akamai trwają poszukiwania - potrzeba aż dwóch
 techwriterów na różnych stopniach zaawansowania.
 
+<!--truncate-->
+
 Szansa na pracę w zespole User Experience, co ciekawe wymagania na oba
 stanowiska są identyczne... Możecie aplikować bezpośrednio przez stronę
 przyszłego pracodawcy:

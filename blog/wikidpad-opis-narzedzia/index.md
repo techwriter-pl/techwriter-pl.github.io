@@ -15,6 +15,8 @@ przekonywaliśmy Was, jak użyteczna dla dokumentalisty może być dobrze prowad
 Wiki. Dzisiaj chcielibyśmy przedstawić Wam wikidPada, czyli narzędzie, za pomocą
 którego możecie tę tezę łatwo zweryfikować.
 
+<!--truncate-->
+
 ## Czym jest wikidPad?
 
 Sami autorzy określają go jako „notatnik wikipodobny” i jakkolwiek by to nie

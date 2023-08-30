@@ -16,6 +16,8 @@ siedem nowych słów. Nieźle, prawda? 😉 Możemy zacząć już dziś - jeżel
 transkreacja kojarzy Wam się głównie z kreowaniem transów albo wytapianiem
 tłuszczu z ryb - czytajcie dalej.
 
+<!--truncate-->
+
 Co to jest transkreacja?
 
 Anglojęzyczna wikipedia definiuje ją

@@ -16,6 +16,8 @@ wydarzenie przeznaczone dla osób zaangażowanych w obszar analizy biznesowej or
 systemowej w środowisku IT, projektantów UX, inżynierów wymagań oraz wszystkich
 tych, którzy interesują się projektowaniem rozwiązań biznesowych.
 
+<!--truncate-->
+
 Celem organizatorów jest zbudowanie społeczności skupionej wokół tematyki
 analizy, wymagań i potrzeb biznesowych, społeczności, która będzie aktywnie
 uczestniczyć w tworzeniu nowego wymiaru analizy - dziedziny innowacyjnej i

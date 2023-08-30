@@ -14,6 +14,8 @@ Nordic Semiconductor Poland, oddział norweskiej firmy projektującej i
 produkującej układy półprzewodnikowe dla niskomocowych sieci bezprzewodowych,
 poszukuje Technical Writera.
 
+<!--truncate-->
+
 Wymagane jest minimum 3-letnie doświadczenie w komunikacji technicznej oraz
 znajomość DITA.
 

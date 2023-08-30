@@ -13,6 +13,8 @@ coverImage: "wywiad-22.png"
 
 Witajcie w nowym roku! Rozpoczynamy od wywiadu numer 22 😉.
 
+<!--truncate-->
+
 Naszym rozmówcą jest Andrzej Niewiarowski, który niedawno dołączył do naszej
 redakcji.
 

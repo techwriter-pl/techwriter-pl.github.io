@@ -22,6 +22,8 @@ i pobierania treści w dicie. Dla ułatwienia posłużymy się praktycznym
 przykładem, który mamy nadzieję pozwoli Wam szybko zrozumieć o co w tym
 wszystkim chodzi.
 
+<!--truncate-->
+
 # Czym jest conkeyref?
 
 [Conkeyref](https://docs.oasis-open.org/dita/v1.2/os/spec/common/theconkeyrefattribute.html)

@@ -32,6 +32,8 @@ jest przede wszystkim pomoc użytkownikom. Poniżej garść wytycznych jak tworz
 dobre komunikaty o błędach (bynajmniej nie takie, jak komunikat w grafice do
 tego wpisu). Są one skierowane zarówno do dokumentalistów jak i programistów.
 
+<!--truncate-->
+
 ## Definicja
 
 Komunikat o błędzie (error message) to informacja o tym co powoduje, że

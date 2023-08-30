@@ -13,6 +13,8 @@ coverImage: "synerise_logo_blue.png"
 Dziś mamy dla Was ofertę pracy z zaprzyjaźnionej firmy z Krakowa. Dobra okazja
 dla ludzi z doświadczeniem!
 
+<!--truncate-->
+
 Szczegóły oferty poniżej, możecie kontaktować się również z nami, chętnie
 odpowiemy na dodatkowe pytania.
 

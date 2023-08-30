@@ -18,6 +18,8 @@ poprzednim [wpisie](http://techwriter.pl/naucz-sie-sama-czesc-2/) z cyklu
 Real-World Guide to Planning and Writing Technical Documentation"** autorstwa
 **Alana S. Pringle** i **Sarah S. O'Keefe**.
 
+<!--truncate-->
+
 Książka jest dobrym wprowadzeniem w dziedzinę Technical Writingu. Pomimo tego,
 że zawiera w sobie sporo podstawowych informacji, to według nas nie jest
 przeznaczona tylko i wyłącznie dla osób stawiających pierwsze kroki w pisaniu

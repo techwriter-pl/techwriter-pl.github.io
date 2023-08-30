@@ -16,6 +16,8 @@ marca odbyło się webinarium poprowadzone przez
 od zarządzania treścią i trenerkę. Opowiadała ona o tym co sprawia, że treść
 staje się atrakcyjna dla użytkownika i dla maszyny.
 
+<!--truncate-->
+
 Od razu zaznaczmy, że mówiąc o maszynach mamy tutaj na myśli wyszukiwarki
 internetowe, które definiują "atrakcyjność" treści przy użyciu odpowiednich
 algorytmów.

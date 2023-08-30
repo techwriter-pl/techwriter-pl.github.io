@@ -16,6 +16,8 @@ coverImage: "IMG-7721-scaled.jpg"
 Lato trwa, a konferencja soap! już za nami. Jak było? Czy coś się zmieniło? A
 może pojawiły się jakieś nowości. Zapraszamy na relację!
 
+<!--truncate-->
+
 Czerwiec 2022 okazał się właściwym i długo wyczekiwanym momentem dla wielu
 Soapersów i osób, które po raz pierwszy przybyły na konferencję lub połączyły
 się online. Po dwuletniej przerwie organizatorzy powrócili na scenę, bo

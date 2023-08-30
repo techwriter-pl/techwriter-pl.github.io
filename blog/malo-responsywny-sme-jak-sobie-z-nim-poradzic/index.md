@@ -16,6 +16,8 @@ swoim SME. Brzmi znajomo? Jeśli odpowiedź brzmi ‘tak’ na choćby jedno z t
 założeń, to zachęcam do pozostania tutaj chwilę i zapoznania się z moimi
 sugestiami.
 
+<!--truncate-->
+
 ### Kto jest kim?
 
 Zacznijmy od początku i sprawdźmy, kto jest kim w tej technical writerskiej

@@ -17,6 +17,8 @@ Do tegorocznej edycji Translation and Localization Conference pozostały już
 tylko trzy tygodnie. Poniżej znajdziecie garść najważniejszych informacji na
 temat wydarzenia.
 
+<!--truncate-->
+
 ## Gdzie i kiedy?
 
 Konferencja odbędzie się **w Warszawie w dniach 29-30 marca**. Szczegółowe

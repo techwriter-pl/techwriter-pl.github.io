@@ -14,6 +14,8 @@ Czy wszystkie dokumenty tworzysz używając czcionki fontu Times New Roman? A mo
 Arial? Raz na jakiś czas warto coś w życiu zmienić... na początek może być krój
 pisma.
 
+<!--truncate-->
+
 Przede wszystkim wyjaśnijmy sobie jedną rzecz.
 
 To jest czcionka:

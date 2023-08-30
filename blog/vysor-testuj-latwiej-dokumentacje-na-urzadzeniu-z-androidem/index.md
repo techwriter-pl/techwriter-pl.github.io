@@ -16,6 +16,8 @@ telefon tak nas zmęczyło, że zaczęliśmy szukać innego rozwiązania. Wtedy
 natknęliśmy się na aplikację [Vysor](http://vysor.io/), która ulżyła naszym
 cierpieniom, dlatego postanowiliśmy ją przedstawić szerszej publiczności.
 
+<!--truncate-->
+
 ## Czym jest Vysor?
 
 Aplikacja [Vysor](http://vysor.io/), dostępna dla przeglądarki

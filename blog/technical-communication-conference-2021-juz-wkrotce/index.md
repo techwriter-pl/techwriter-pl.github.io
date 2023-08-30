@@ -17,6 +17,8 @@ coverImage: "TCC_2021.png"
 Już **13 listopada** odbędzie się kolejna branżowa konferencja. Mowa o
 [Technical Communication Conference 2021](https://www.softserveinc.com/en-us/events/technical-communication-conference-2021).
 
+<!--truncate-->
+
 ### O konferencji
 
 Technical Communication Conference organizowana jest po raz czwarty. Jej głównym

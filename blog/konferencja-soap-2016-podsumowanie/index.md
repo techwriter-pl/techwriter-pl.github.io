@@ -14,6 +14,8 @@ Kolejna edycja krakowskiej konferencji [soap!](http://soapconf.com/) już za
 nami. W tym roku po raz kolejny byliśmy jej partnerem medialnym, nie mogło więc
 nas tam zabraknąć. Poniżej nasze wrażenia. Zapraszamy!
 
+<!--truncate-->
+
 ## Marzenie japońskiego rybaka słodkowodnego
 
 ...czyli networking w centrum konferencyjnym [Manggha](http://manggha.pl/) na

@@ -15,6 +15,8 @@ coverImage: "promotech.png"
 Firma PROMOTECH poszukuje technical writera z doświadczeniem w pisaniu
 instrukcji obsługi maszyn. Może to właśnie Ty? Szczegóły poniżej.
 
+<!--truncate-->
+
 Firma PROMOTECH od wielu lat rozwija i wdraża zaawansowane technologie, by
 wyprzedzać i w pełni zaspokajać potrzeby i oczekiwania klientów.  Na specjalne
 zamówienia projektowane są i wytwarzane unikalne maszyny i kompletne linie

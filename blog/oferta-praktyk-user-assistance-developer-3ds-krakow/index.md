@@ -13,6 +13,8 @@ coverImage: "dassault.png"
 Kandydaci na techwriterów w Krakowie mogą wprost przebierać w ofertach. Dziś
 kolejna ciekawa opcja, tym razem od firmy Dassault Systèmes.
 
+<!--truncate-->
+
 Macie szansę współtworzyć dokumentację do niebanalnych systemów wykorzystywanych
 w zarządzaniu produkcją - m.in.
 [podręczniki użytkownika](http://techwriter.pl/instrukcje-obslugi-i-podreczniki-uzytkownika/)

@@ -14,6 +14,8 @@ Tym razem mamy dla Was ofertę zagraniczną od
 firmy [Seargin](https://seargin.com/pl/), specjalizującej się w dostarczaniu
 swoim klientom profesjonalnych zespołów IT w oparciu o różne modele współpracy.
 
+<!--truncate-->
+
 Firma poszukuje kandydatów na stanowisko Technical Writer do Wilna. Zatrudnienie
 na umowę B2B na okres trzech miesięcy, z możliwością przedłużenia. Stawka to
 100-150 zł netto/godz.

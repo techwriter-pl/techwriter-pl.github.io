@@ -14,6 +14,8 @@ Nawet redakcja techwriter.pl musi czasem odpocząć. Od jutra udajemy się więc
 (zasłużony?) dwutygodniowy odpoczynek, aby wrócić już w Nowym Roku, z jeszcze
 większym zapałem i brzuchem...
 
+<!--truncate-->
+
 A w prezencie dla wszystkich wiernych i niewiernych czytelników - dwa linki z
 naszymi ulubionymi infografikami:
 

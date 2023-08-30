@@ -16,6 +16,8 @@ lubicie i umiecie tworzyć dobrą treść oraz znacie świetnie język angielski
 oferta może być dla Was interesująca. Widełki płacowe dla tej oferty to 6500 -
 8500 zł brutto na umowę o pracę.
 
+<!--truncate-->
+
 Szczegółowe informacje dotyczące tej oferty znajdziecie poniżej albo
 w [ogłoszeniu na stronie pracodawcy](http://bit.ly/JorsekIfnoDev). Aplikować
 możecie poprzez wysłanie CV w języku angielskim na

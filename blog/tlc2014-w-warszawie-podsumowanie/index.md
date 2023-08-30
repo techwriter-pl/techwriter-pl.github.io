@@ -16,6 +16,8 @@ miała ona miejsce w naszym kraju. Wydawało nam się, że nie porusza ona temat
 dokumentacji i komunikacji techcnicznej. Byliśmy w błędzie. Dziś postaramy się
 go naprawić.
 
+<!--truncate-->
+
 Poniżej publikujemy podsumowanie konferencji podesłane nam przez samych
 organizatorów. Którym serdecznie dziękujemy i gratulujemy jednocześnie!
 

@@ -15,6 +15,8 @@ coverImage: "data.png"
 oparte o dane robi się coraz bardziej popularne. Przeczytajcie na czym polega i
 jak można się go nauczyć.
 
+<!--truncate-->
+
 Skoro nawet dziennikarze Gazety Wyborczej stwierdzili, że warto pisać
 [artykuły oparte na faktach](http://biqdata.pl/) - musi coś w tym być 😉.
 Pociągnijmy więc temat, który zahacza nieco o wspomniany już przez nas jakiś

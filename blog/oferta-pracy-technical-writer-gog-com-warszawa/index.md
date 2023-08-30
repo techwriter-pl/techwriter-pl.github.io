@@ -14,6 +14,8 @@ Być może słyszeliście o firmie CD PROJEKT RED? To twórcy gier Wiedźmin i
 Cyberpunk 2077. GOG.com to ich siostrzana firma zajmująca się cyfrową
 dystrybucją gier.
 
+<!--truncate-->
+
 Szukają Technical Writera i sami piszą o sobie tak:
 
 > _Our work environment is relaxed, and the company philosophy often goes

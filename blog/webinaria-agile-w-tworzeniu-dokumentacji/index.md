@@ -14,6 +14,8 @@ coverImage: "team-1480072_640.jpg"
 Serdecznie zapraszamy na serię webinariów poruszających tematykę stosowania
 metodyki Agile w tworzeniu dokumentacji.
 
+<!--truncate-->
+
 Organizatorem tego wydarzenia jest [soap!](http://soapconf.com/) oraz firma
 [3di](http://3di.com.pl/), która dostarcza szeroko pojęte usługi dokumentacyjne
 dla swoich klientów. Prezentacje poprowadzi dyrektor techniczny polskiego

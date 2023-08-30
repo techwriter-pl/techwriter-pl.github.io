@@ -17,6 +17,8 @@ Macie ostatnią szansę, aby wziąć udział w jednym z ciekawszych wydarzeń w 
 branży – konferencję [Evolution of TC 2021](https://evolution-of-tc.com/).
 Poniżej znajdziecie garść najważniejszych informacji.
 
+<!--truncate-->
+
 ### **O Evolution of TC 2021**
 
 Evolution of TC zostało zapoczątkowane w 2010 roku przez członków grupy, w

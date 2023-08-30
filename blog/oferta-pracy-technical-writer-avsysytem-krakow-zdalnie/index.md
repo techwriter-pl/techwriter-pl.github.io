@@ -13,6 +13,8 @@ coverImage: "LogoAVSystem.jpg"
 Nowy tydzień zaczynamy od oferty pracy. Jedna z krakowskich firm potrzebuje
 wsparcia w zespole techwriterów. Może to właśnie coś dla Ciebie?
 
+<!--truncate-->
+
 [AVSystem](https://www.avsystem.com/) jest dostawcą rozwiązań IoT oraz
 oprogramowania do zarządzania infrastrukturą IT. Firma jest obecna na rynku od
 2006 roku. Jej misją jest tworzenie rozwiązań, które pomagają przedsiębiorstwom

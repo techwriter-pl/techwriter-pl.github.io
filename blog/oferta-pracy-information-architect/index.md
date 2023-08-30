@@ -13,6 +13,8 @@ coverImage: "MSI.png"
 Ta nazwa stanowiska brzmi dumnie! Architekt informacji wśród perełek krakowskiej
 architektury - to może być coś dla Ciebie!
 
+<!--truncate-->
+
 Jeżeli byliście na
 [warsztatach organizowanych przez Motorola Solutions](http://techwriter.pl/bezplatne-warsztaty-tworzenia-dokumentacji-technicznej-i-szkolen-e-learning-w-krakowie/),
 to być może macie już wyrobione zdanie na temat tego pracodawcy. Firma ta ma

@@ -13,6 +13,8 @@ Kim jest Stacey? To lekki system zarządzania treścią lub jak kto woli CMS. W
 kręgach branżowych pozostaje w cieniu swoich sławnych kolegów, takich jak
 WordPress czy Drupal. Mało kto ją zauważa. Czy słusznie?
 
+<!--truncate-->
+
 Stacey nie jest znana prawdopodobnie dlatego, że jest prosta, niektórzy
 powiedzieliby, że wręcz prymitywna. W jej wnętrzu nie kryje się żadna baza
 danych ani kolorowy interfejs użytkownika. Całe jej funkcjonowanie opiera się na

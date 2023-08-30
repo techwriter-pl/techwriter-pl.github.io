@@ -15,6 +15,8 @@ się osoby z branży komunikacji technicznej. Mowa o Konferencji Tłumaczy 2023,
 która odbędzie się w formie hybrydowej końcem września w Warszawie. Szczegółowe
 informacje poniżej.
 
+<!--truncate-->
+
 ### **Krótki powrót do przeszłości**
 
 [Konferencja Tłumaczy](https://konferencja-tlumaczy.pl/), to według

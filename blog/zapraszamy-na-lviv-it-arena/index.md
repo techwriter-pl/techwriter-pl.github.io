@@ -14,6 +14,8 @@ Już za niecałe 2 tygodnie we Lwowie odbędzie się konferencja, która zgromad
 ponad 2500 specjalistów IT z całej Europy. Warto rozważyć udział, jeśli jeszcze
 nie macie planów na weekend pomiędzy 30 września a 2 października.
 
+<!--truncate-->
+
 W 2015 roku konferencja dostała tytuł najlepszego wydarzenia IT na Ukrainie. W
 tym roku odbędzie się na stadionie Arena Lwów. Swoje wystąpienia zapowiedzieli
 prelegenci m.in. z firm takich jak Uber, Twitter, Microsoft, Deloitte, Spotify

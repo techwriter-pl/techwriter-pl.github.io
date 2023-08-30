@@ -10,6 +10,8 @@ coverImage: "Konferencje-2019-8.png"
 
 Drodzy Czytelnicy! Dzisiejszy wpis ma inny charakter niż zazwyczaj.
 
+<!--truncate-->
+
 Chcąc rozwijać portal [techwriter.pl](http://techwriter.pl/)  w jak najlepszym
 kierunku, zwracamy się do Was z prośbą o wypełnienie kwestionariusza ankiety.
 

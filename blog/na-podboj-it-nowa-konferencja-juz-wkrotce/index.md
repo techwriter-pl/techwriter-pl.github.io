@@ -15,6 +15,8 @@ coverImage: "na_podboj_it.png"
 Już w maju odbędzie się pierwsza edycja konferencji dla osób zainteresowanych
 rozpoczęciem kariery w branży IT. Mowa o Na podbój IT! Szczegóły poniżej.
 
+<!--truncate-->
+
 ### O konferencji
 
 W dyskusjach na temat pracy w IT dość często można spotkać się ze stwierdzeniem,

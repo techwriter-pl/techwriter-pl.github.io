@@ -11,6 +11,8 @@ To już trzecie święta naszej strony. W tym wieku wypada jeszcze wierzyć w
 Mikołaja. Albo Aniołka. Lub Gwiazdora. Kimkolwiek jest gość z wielkim workiem,
 niech przyniesie Wam:
 
+<!--truncate-->
+
 _Ukontentowania z [kontentu](http://techwriter.pl/langlydz-part-najn/)_
 
 _Jak najmniej [literówek](http://techwriter.pl/literowki/)_

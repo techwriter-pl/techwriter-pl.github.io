@@ -13,6 +13,8 @@ coverImage: "Navifleet_2.jpg"
 Bardzo ciekawa oferta - tworzenie dokumentacji w języku polskim (i angielskim).
 Konkretne wymagania i konkretne wynagrodzenie.
 
+<!--truncate-->
+
 Wasz potencjalny nowy pracodawca działa od 2013 roku. Pomaga klientom w całej
 Europie efektywniej wykorzystywać floty pojazdów i parki maszyn, tworząc system
 do zarządzania flotą dla fleet managerów. Wspiera managerów flot w podejmowaniu

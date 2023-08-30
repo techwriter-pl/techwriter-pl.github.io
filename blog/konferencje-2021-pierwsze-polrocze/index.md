@@ -18,6 +18,8 @@ coverImage: "Konferencje-2021.png"
 Wielkimi krokami zbliża się 2021 rok, a wraz z nim nowe terminy branżowych
 konferencji. Zapraszamy do zapoznania się z kalendarium na pierwsze półrocze.
 
+<!--truncate-->
+
 Podobnie jak w tym roku, większość wydarzeń odbędzie się online. Jak zawsze,
 będziemy śledzić zmiany i uzupełniać dane w miarę ich pojawiania się. Do Was
 mamy prośbę - jeśli wiecie o jakimś wydarzeniu związanym z branżą komunikacji

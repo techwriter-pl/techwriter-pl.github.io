@@ -19,6 +19,8 @@ coverImage: "tw_koduje_26_27.png"
 Dokumentacja API oraz szkolenie z Pythona - oto tematy ostatnich odcinków
 podcastu [Tech Writer koduje](https://techwriterkoduje.pl/). Szczegóły poniżej.
 
+<!--truncate-->
+
 ### Odcinek 26
 
 Głównym tematem rozmowy Michała i Pawła jest tym razem dokumentacja do API,

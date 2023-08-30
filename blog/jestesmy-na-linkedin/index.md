@@ -12,6 +12,8 @@ coverImage: "LinkedIn.jpg"
 To już tradycja, że co trzy lata mamy dla Was prezent świąteczny w postaci
 nowego kanału social media 😊
 
+<!--truncate-->
+
 [W roku 2013 dołączyliśmy do Facebooka i Twittera](http://techwriter.pl/prezent-od-sw-mikolaja-twarzoksiazka/).
 
 [Trzy lata później](http://techwriter.pl/dolacz-do-grupy-i-tworz-dokumentacje-na-fb/)

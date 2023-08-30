@@ -14,6 +14,8 @@ coverImage: "bugbug.png"
 Dziś mamy dla Was ofertę pracy na stanowisku Technical Writer. Szczegóły
 poniżej.
 
+<!--truncate-->
+
 Twórcy narzędzia do automatycznych testów aplikacji webowych (end-to-end)
 [BugBug](https://bugbug.io/) poszukują technical writera, który wzmocni ich
 zespół realizujący globalny projekt SaaS.

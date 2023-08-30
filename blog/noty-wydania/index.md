@@ -13,6 +13,8 @@ coverImage: "ReleaseNotes.jpg"
 Czym zajmują się technical writerzy? Tworzą m.in. release notes. A czym zajmują
 się release notes? I czym właściwie są?
 
+<!--truncate-->
+
 Release notes, przetłumaczone kiedyś na polski jako "noty wydania", to dokumenty
 opisujące oprogramowanie, a dokładniej zmiany w konkretnej wersji
 oprogramowania. Czekacie na definicję z Wikipedii? Proszę bardzo:

@@ -16,6 +16,8 @@ Rozpoczął się kolejny rok, a wraz z nim pojawiło się całkiem sporo okazji,
 wybrać się na branżową konferencję. Zapraszamy do zapoznania się z kalendarium
 na pierwsze półrocze 2019 roku.
 
+<!--truncate-->
+
 ## **Styczeń**
 
 10-13 stycznia, Tokio, Japonia – [IC4E 2019](http://www.ic4e.net/)

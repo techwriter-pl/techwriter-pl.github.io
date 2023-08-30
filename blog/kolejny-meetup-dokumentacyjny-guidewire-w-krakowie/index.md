@@ -15,6 +15,8 @@ Firma [Guidewire Software](https://www.guidewire.com/) organizuje kolejny meetup
 poświęcony dokumentacji, który będzie kontynuował tematykę "dokumentacja jak(o)
 kod".
 
+<!--truncate-->
+
 ## Data i miejsce
 
 Spotkanie odbędzie się **5 lutego 2019** o **18:00** w biurze Guidewire Software

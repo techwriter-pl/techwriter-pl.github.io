@@ -16,6 +16,8 @@ którą zapraszaliśmy Was
 garść informacji uzupełniających, które być może jeszcze bardziej zachęcą Was do
 wyjazdu.
 
+<!--truncate-->
+
 ## Writing Day
 
 Ciekawie zapowiada

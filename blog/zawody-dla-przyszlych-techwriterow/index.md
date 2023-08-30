@@ -17,6 +17,8 @@ olimpiady językowe - łezka się w oku kręci. Teraz też odbywają się tego t
 zawody, powstały nawet nowe dziedziny rywalizacji. Czy słyszeliście o
 Olimpiadzie Lingwistycznej?
 
+<!--truncate-->
+
 Oficjalna nazwa to
 [Olimpiada Lingwistyki Matematycznej](http://www.fmw.uni.wroc.pl/?q=dla-uczni%C3%B3w/lingwistyka-matematyczna/olimpiada-lingwistyczna/olimpiada-lingwistyki-matematycznej),
 _"(wcześniej pod nazwą Międzynarodowej Olimpiady Lingwistyki Teoretycznej,

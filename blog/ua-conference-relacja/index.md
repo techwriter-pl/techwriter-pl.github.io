@@ -19,6 +19,8 @@ mirror of UA professionals (Joe Welinske)**, **Trends in user mobile assistance
 (Joe Welinske)**, oraz **Automating and managing multiple projects in a
 multilingual environment (Thomas Bro-Rasmussen)**. A to jeszcze nie koniec...
 
+<!--truncate-->
+
 ## [Who are we? A mirror for UA professionals - Joe Welinske](http://www.uaeurope.com/conference/sessions.html#whoarewe)
 
 Na swojej stronie [Joe Welinske](http://www.writersua.com/) każdego roku

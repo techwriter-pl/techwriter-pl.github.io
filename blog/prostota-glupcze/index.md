@@ -15,6 +15,8 @@ coverImage: "usability.jpg"
 Pięć zasad użytecznej dokumentacji według User Experience Magazine. A może tylko
 jedna?
 
+<!--truncate-->
+
 [Pisać jak najmniej, jak najprościej, jeszcze mniej, jeszcze prościej](http://uxmag.com/articles/five-principles-of-writing-for-users)...
 nie pisać wcale? 😉
 

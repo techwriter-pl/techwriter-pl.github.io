@@ -19,6 +19,8 @@ techniczny? Czy można takie treści przekazać tak, by bez trudu zostały
 zrozumiane przez kogoś zupełnie niezorientowanego w danym temacie? Odpowiedzią
 na te pytania jest prosty język (ang. plain language).
 
+<!--truncate-->
+
 ### Czym jest prosty język?
 
 Prosty język to zbiór reguł, których celem jest ustandaryzowanie języka

@@ -23,6 +23,8 @@ potrzebny do opanowania produktu. Portal
 daje nam wskazówki jak radzić sobie z recenzją merytoryczną dokumentacji.
 Poniżej przedstawiamy naszą "skondensowaną" wersję 😊
 
+<!--truncate-->
+
 ## Stwórz listę kontrolną
 
 Wielu programistów i kierowników nie ma doświadczenia w sprawdzaniu dokumentacji

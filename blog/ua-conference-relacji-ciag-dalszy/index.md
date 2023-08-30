@@ -16,6 +16,8 @@ Zapraszamy na kolejną relację z UA Conference. Dzisiaj nasze podsumowanie dwó
 prezentacji: **Maximizing the Effect of Progressive Disclosure (Jang F.M.
 Graat)** oraz **Designing Transactions Successfully (Dr Chris Atherton)**.
 
+<!--truncate-->
+
 ## [Maximising the Effect of Progressive Disclosure - Jang F.M. Graat](http://www.uaeurope.com/conference/sessions.html#progressivedisclosure)
 
 [Jang F.M. Graat](http://jang.nl/) przedstawia siebie jako filozofa i

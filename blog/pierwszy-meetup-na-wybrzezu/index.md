@@ -14,6 +14,8 @@ coverImage: "meetup.png"
 Legenda głosi, że na wybrzeżu nie ma ludzi pracujących z szeroko pojętym
 "contentem".
 
+<!--truncate-->
+
 Są jednak tacy, którzy w to nie wierzą i postanowili obalić ten mit. Mowa tutaj
 o grupie pod nazwą [uContentowani](https://www.facebook.com/ucontentowani/),
 która postanowiła zorganizować meetup dla specjalistów zajmujących się treścią.

@@ -11,6 +11,8 @@ coverImage: "write.png"
 
 Jest miliard edytorów tekstu. Czym się wyróżnia właśnie ten?
 
+<!--truncate-->
+
 [Write!](https://writeapp.co/) to aplikacja do pisania urozmaiconego tekstu
 (ang. rich text), a więc pozwala na wybieranie stylów typu nagłówki i akapity,
 czy prostych pogrubień i kursywy. Aplikacja została stworzona przez firmę

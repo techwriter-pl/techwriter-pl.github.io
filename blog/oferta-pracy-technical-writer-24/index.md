@@ -12,6 +12,8 @@ coverImage: "spartez_logo.png"
 
 Może w tym roku zamiast wakacji nad morzem wolicie pracę nad morzem?
 
+<!--truncate-->
+
 Firma [Spartez](https://spartez.com/) z siedzibą w Gdańsku, zajmująca się
 rozwijaniem produktów firmy [Atlassian](https://www.atlassian.com/), poszukuje
 kolejnego (trzeciego już) Technical Writera.

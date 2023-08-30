@@ -17,6 +17,8 @@ Niedługo po tym otrzymaliśmy od niego artykuł, którym dzisiaj się z Wami
 dzielimy - krótka historia o przygodzie z
 [DITA](https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architecture).
 
+<!--truncate-->
+
 \*\*\*
 
 Kolega mnie niedawno spytał czy mogę polecić jakiś dobry kurs DITA (może być

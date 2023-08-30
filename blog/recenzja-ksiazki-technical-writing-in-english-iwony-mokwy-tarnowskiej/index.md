@@ -12,6 +12,8 @@ coverImage: "technical_writing_in_english_book-e1558097287799.jpg"
 Jedna z czytelniczek naszego portalu, Milena Leszczyńska-Sowirka, przesłała nam
 recenzję książki o technical writingu, którą niedawno przeczytała.
 
+<!--truncate-->
+
 Jest to, można by rzec, biały kruk, bo książek polskiego autorstwa o komunikacji
 technicznej jest jak na lekarstwo. Dlatego tym bardziej zachęcamy Was do lektury
 tej recenzji.

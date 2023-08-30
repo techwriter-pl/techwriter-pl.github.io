@@ -16,6 +16,8 @@ społeczność Write the Docs, której również jesteśmy patronem medialnym. T
 razem miejscem docelowym jest Wilno. Poniżej znajdziecie najważniejsze
 informacje związane z wydarzeniem.
 
+<!--truncate-->
+
 W tym roku [społeczność Write the Docs](https://www.writethedocs.org/#)
 postanowiła poszerzyć swoją ofertę o nową konferencję w Wilnie. Jest to
 wydarzenie zorganizowane przez wolontariuszy związanych zarówno z Write the Docs

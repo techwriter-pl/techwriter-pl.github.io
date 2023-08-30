@@ -16,6 +16,8 @@ coverImage: "Konferencje-2019-11.png"
 Mamy dla Was kolejną propozycję pracy na stanowisku Technical Writera. Szczegóły
 poniżej.
 
+<!--truncate-->
+
 [BigPicture](https://bigpicture.one/) to jedno z wiodących narzędzi do
 zarządzania projektami. Pomaga ono tysiącom zespołów na wszystkich kontynentach
 planować pracę, koordynować jej przebieg, śledzić postępy i raportować wyniki z

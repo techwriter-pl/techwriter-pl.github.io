@@ -12,6 +12,8 @@ Dziś trochę teorii i ogólnych założeń związanych z szeroko rozumianym
 zarządzaniem wiedzą. A także spojrzenie na temat w kontekście najbardziej nas
 interesującego technical writingu.
 
+<!--truncate-->
+
 ## Definicje:
 
 [Zarządzanie wiedzą](https://en.wikipedia.org/wiki/Knowledge_management)

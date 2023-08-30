@@ -17,6 +17,8 @@ coverImage: "twk_24_25.png"
 Dziś kilka słów na temat dwóch ostatnich odcinków podcastu
 [Techwriter koduje](https://techwriterkoduje.pl/).
 
+<!--truncate-->
+
 ### Odcinek 24
 
 W

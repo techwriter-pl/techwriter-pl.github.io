@@ -15,6 +15,8 @@ W dobie powszechnej kwarantanny i akcji #zostańwdomu mamy dla Was propozycję
 dwóch kursów. Mamy nadzieję, że chętnie z niej skorzystacie i wyniesiecie z nich
 wartościowe informacje.
 
+<!--truncate-->
+
 ### Informacje ogólne
 
 [Technical Writing Courses](https://developers.google.com/tech-writing)

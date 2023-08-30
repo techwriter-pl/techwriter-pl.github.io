@@ -13,6 +13,8 @@ coverImage: "kontent.jpg"
 Część dziewiąta naszego słownika ukontentuje każdego techwritera. Właściwie cały
 cykl powinniśmy zacząć od tego właśnie słowa.
 
+<!--truncate-->
+
 **Kontent** \[ang. _content_\] - [dawniej](http://sjp.pl/kontent) zadowolony,
 usatysfakcjonowany techwriter. Obecnie firma produkująca namioty.
 [Cyrkowe](http://www.kontent.pl/). Udało nam się również znaleźć

@@ -18,6 +18,8 @@ dlatego postanowiliśmy go namówić, żeby opowiedział nam trochę o swojej
 przygodzie z komunikacją techniczną. Zapraszamy na kolejny odcinek z cyklu
 "Kilka pytań do..".
 
+<!--truncate-->
+
 ### Jak długo pracujesz jako Tech Writer?
 
 Prawie 5 lat.

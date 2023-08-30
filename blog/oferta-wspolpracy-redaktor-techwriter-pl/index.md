@@ -13,6 +13,8 @@ coverImage: "Free-Unique-Join-Us-Vectors-3.jpg"
 
 W ostatnim czasie publikowaliśmy sporo ofert pracy, ale ta jest wyjątkowa.
 
+<!--truncate-->
+
 Chociaż właściwie określenie "oferta pracy" może nie jest tutaj odpowiednie, bo
 tworzenie Techwriter.pl to bardziej pasja. Poszukujemy osób, które chciałaby
 dołączyć do naszego grona redakcyjnego.

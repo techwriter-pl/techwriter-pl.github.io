@@ -15,6 +15,8 @@ coverImage: "tw_koduje_22.png"
 Dziś kilka słów na temat ostatniego odcinka podcastu
 [Tech Writer koduje](https://techwriterkoduje.pl/).
 
+<!--truncate-->
+
 W
 [najnowszym odcinku](https://anchor.fm/docdeveloper/episodes/22-Tech-Writer-buduje-dokumentacj-API--czyli-Next-js--ReDoc-i-OpenAPI-w-akcji-el3gk9)
 Michał Skowron i Paweł Kowaluk dyskutują na temat wykorzystania narzędzia

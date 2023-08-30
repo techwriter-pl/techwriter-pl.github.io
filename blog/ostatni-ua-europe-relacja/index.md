@@ -15,6 +15,8 @@ Harrogate, był ostatnim w historii. Na szczęście, załoga techwriter.pl tam b
 żeby się pożegnać. Czego się nauczyliśmy i jaka była tajemnicza rozrywka
 wieczoru? O tym w dalszej części relacji.
 
+<!--truncate-->
+
 # Ciekawe wystąpienia
 
 Oto podsumowanie najciekawszych, naszym zdaniem, wystąpień.

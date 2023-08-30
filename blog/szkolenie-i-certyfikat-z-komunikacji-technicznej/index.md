@@ -15,6 +15,8 @@ konferencji. Od kilku lat mamy już swoją konferencję -
 [soap!](http://soapconf.com/) A teraz, w końcu, przyszedł czas na przygotowane
 specjalnie dla nas szkolenia.
 
+<!--truncate-->
+
 Jest nam niezmiernie miło poinformować, że firma
 [ITtraining](http://ittraining.pl/) zorganizuje pierwsze szkolenia i egzaminy z
 certyfikacji International Technical Communication Qualifications Foundation

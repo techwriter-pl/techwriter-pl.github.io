@@ -13,6 +13,8 @@ coverImage: "Nokia-logo-e1528727519947.jpg"
 Dziś oferta z Wrocławia, z fińskiej firmy, po angielsku 😊 Raczej dla
 oświadczonej osoby, ale próbować mogą wszyscy!
 
+<!--truncate-->
+
 Oryginalne ogłoszenie wraz z możliwością aplikowania znajdziecie
 [pod linkiem](https://aluperf.referrals.selectminds.com/jobs/engineer-customer-documentation-11794?et=QyRdqOMf).
 

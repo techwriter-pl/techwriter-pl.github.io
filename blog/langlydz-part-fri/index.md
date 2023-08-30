@@ -13,6 +13,8 @@ coverImage: "lekcja3.jpg"
 Dziś jedno z naszych ulubionych słówek.  Krótkie, nowoczesne, zrozumiałe dla
 każdego i jakże pożyteczne: REUŻYWAĆ...
 
+<!--truncate-->
+
 **Reużywać** \[od ang. _reuse_\] - powszechnie nadużywane określenie ponownego
 wykorzystania czegoś (rzadziej kogoś) jeszcze raz. Można zaryzykować
 stwierdzenie, że pojawienie się tego zwrotu w langłydżu codziennym ma swoje

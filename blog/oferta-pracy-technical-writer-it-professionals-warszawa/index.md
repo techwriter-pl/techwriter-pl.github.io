@@ -12,6 +12,8 @@ coverImage: "logo_it_professionals.png"
 
 Dzień dobry, dziś oferta ze stolicy, ciekawa!
 
+<!--truncate-->
+
 Poniżej szczegóły, a
 [tutaj bezpośredni link do ogłoszenia](https://itprofessionals.com.pl/job/it-professionals-warszawa-2-technical-writer/).
 

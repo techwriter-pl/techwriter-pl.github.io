@@ -13,6 +13,8 @@ coverImage: "soap2015.png"
 Kolejna, trzecia już edycja konferencji soap! za pasem. Dlatego przygotowaliśmy
 dla Was garść przydatnych informacji na jej temat.
 
+<!--truncate-->
+
 ## Termin i miejsce
 
 Konferencja odbędzie się w dniach **8-9 października** w

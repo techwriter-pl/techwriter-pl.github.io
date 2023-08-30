@@ -18,6 +18,8 @@ to część nieformalnego spotkania techwriterskiej społeczności. Tak, tak: 7
 grudnia 2022 r. po dłuuugiej covidowej przerwie MeetContentWRO wrócił na
 meetupową scenę. Spotkaliśmy się w gościnnych progach Infor Academy.
 
+<!--truncate-->
+
 Przypomnijmy: MeetContent powstał w 2016 jako "odprysk" po konferencji
 [SOAP!](https://soapconf.com/) i z założenia miał być cyklem spotkań, wykładów,
 warsztatów oraz szkoleń dla osób związanych z szeroko pojętą branżą komunikacji

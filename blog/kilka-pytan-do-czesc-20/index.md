@@ -14,6 +14,8 @@ coverImage: "wywiad_20.png"
 Po kolejnej dłuższej przerwie wracamy do cyklu *Kilka pytań do.* Dziś odcinek
 20!
 
+<!--truncate-->
+
 Naszym gościem jest dziś Surya PanneerSelvam, która pełni rolę Senior Content
 Developera pracując zdalnie z Wrocławia dla zagranicznej firmy. Pochodzi z
 Indii, a do Polski przeniosła się aby dołączyć do swojego męża. Surya chciałaby

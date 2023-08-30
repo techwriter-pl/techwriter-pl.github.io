@@ -16,6 +16,8 @@ coverImage: "new-143095_640-e1443734857643.jpg"
 Bieżący rok przyniósł nowe wersje dwóch popularnych narzędzi do tworzenia
 dokumentacji. Przyjrzyjmy się co ciekawego kryje się pod nowymi "numerkami".
 
+<!--truncate-->
+
 # Help+Manual
 
 [![hm7](images/hm7.png)](http://techwriter.pl/wp-content/uploads/2015/10/hm7.png)

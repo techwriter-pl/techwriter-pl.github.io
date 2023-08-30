@@ -14,6 +14,8 @@ coverImage: "soap.jpg"
 Organizatorzy zbliżającej się konferencji soap! (2-3 października) zebrali dla
 Was informacje na temat tej i poprzedniej edycji w postaci infografiki.
 
+<!--truncate-->
+
 Poniżej najważniejsze fakty dotyczące pierwszej i drugiej edycji konferencji - w
 jednej dużej pigule - świetne! Więcej informacji znajdziecie na stronie
 [soapconf.com](http://soapconf.com/).

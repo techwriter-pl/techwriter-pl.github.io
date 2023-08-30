@@ -22,6 +22,8 @@ Wyszperane w sieci... a właściwie na stronach małej, rodzinnej firmy
 produktów [ScreenSteps](http://www.screensteps.com/) i
 [Clarity](http://www.clarify-it.com/).
 
+<!--truncate-->
+
 Nie używaliśmy (jeszcze?) produktów tej firmy i nie wiemy o niej za wiele, ale
 ich strony internetowe zdecydowanie nam się podobają. Można tam znaleźć
  [materiały edukacyjne](http://www.screensteps.com/learning-resources), blogi i

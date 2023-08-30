@@ -16,6 +16,8 @@ Wielkimi krokami zbliża się termin sporego wydarzenia w branży komunikacji
 technicznej, jakim jest konferencja Evolution of TC 2018. Poniżej przypominamy
 garść najważniejszych informacji.
 
+<!--truncate-->
+
 ## Termin i miejsce
 
 Konferencja odbędzie się w dniach 31 maja – 1 czerwca 2018 roku w stolicy

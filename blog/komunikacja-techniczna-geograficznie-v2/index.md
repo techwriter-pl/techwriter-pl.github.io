@@ -16,6 +16,8 @@ projekcie pod nazwą
 [Tech Comm on a Map](http://sarahmaddox.github.io/techcomm-map/). Pora sprawdzić
 co się wydarzyło w tym temacie przez ostatni rok.
 
+<!--truncate-->
+
 ## Nowe kategorie
 
 Początkowo informacje na mapie były podzielone na trzy kategorie:

@@ -15,6 +15,8 @@ usprawniłoby Waszą pracę? Czy chcielibyście zapisywać pliki w różnych for
 i mieć możliwość ich edycji? Czy zastanawialiście się jak zmniejszyć wagę
 Waszych plików nie tracąc na jakości?
 
+<!--truncate-->
+
 Znaleźliśmy dla Was całkiem ciekawe rozwiązanie, dzięki któremu spędzicie mniej
 czasu na tworzeniu i edytowaniu obrazów w programach graficznych, a skupicie się
 na tworzeniu pozostałych dokumentów do projektu.

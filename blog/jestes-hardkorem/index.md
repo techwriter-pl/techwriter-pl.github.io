@@ -25,6 +25,8 @@ swoją przygodę z dokumentacją dla programistów. W swojej prezentacji starał
 odpowiedzieć na 20 pytań dotyczących umieszczania próbek kodu w dokumentacji
 API/SDK. Poniżej prezentujemy najciekawsze według nas zagadnienia.
 
+<!--truncate-->
+
 ## Po co umieszczać przykładowy kod?
 
 Przykłady są bardziej efektywne niż opisywanie składni i metod. Programiści

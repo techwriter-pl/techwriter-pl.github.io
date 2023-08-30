@@ -16,6 +16,8 @@ przyjemnością, że cykl ten został zapoczątkowany przez jednego z naszych st
 czytelników - mojka. Przeczytajcie jego recenzję i bądźcie mu wdzięczni jako i
 my jesteśmy.
 
+<!--truncate-->
+
 Ostatnio zacząłem zastanawiać się jakich narzędzi używają w swojej pracy
 dokumentaliści. Dlatego też sam postanowiłem podzielić się swoimi
 doświadczeniami w tej kwestii. Być może okaże się to pomocne dla osób

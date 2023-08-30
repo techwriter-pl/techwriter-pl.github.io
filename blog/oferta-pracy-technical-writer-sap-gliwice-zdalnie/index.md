@@ -13,6 +13,8 @@ coverImage: "SAP_logo.jpg"
 Największa firma software'owa w Europie poszukuje techwritera. Praca z biura w
 centrum Gliwic lub zdalnie.
 
+<!--truncate-->
+
 Nowa osoba dołączy do zespołu tworzącego dokumentację dla projektu Kyma. Kyma
 jest opartym na platformie Kubernetes środowiskiem dla aplikacji, dzięki któremu
 można je łączyć, rozszerzać i dostosowywać do swoich potrzeb. Sami sprawdźcie

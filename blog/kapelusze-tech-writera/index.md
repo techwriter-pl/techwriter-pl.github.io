@@ -16,6 +16,8 @@ coverImage: "shakespeare-6102162_6-40-1.jpg"
 W tym artykule znajdziecie zbiór luźnych przemyśleń na temat wszechstronnego
 charakteru pisarza technicznego.
 
+<!--truncate-->
+
 > Świat jest teatrem, aktorami ludzie,
 >
 > Którzy kolejno wchodzą i znikają.

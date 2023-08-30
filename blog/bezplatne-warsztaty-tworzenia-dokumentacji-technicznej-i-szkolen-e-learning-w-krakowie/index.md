@@ -19,6 +19,8 @@ coverImage: "z16223142IERCentrum-Motorola-Solutions-Systems-na-Ruczaju.jpg"
 Są firmy i ludzie, którzy chętnie nauczą Was podstaw zawodu techwritera. Za
 darmo. Z przyjemnością informujemy i wspieramy.
 
+<!--truncate-->
+
 Wydawałoby się, że sektor IT to bardzo hermetyczna działka zarezerwowana dla
 ludzi o ścisłym umyśle i bogatym zapleczu wiedzy technicznej. Otóż nic bardziej
 mylnego. Podczas zbliżającego się Dnia Otwartego Motorola Solutions Polska

@@ -19,6 +19,8 @@ writer. Jak wyłonić właściwego kandydata? Jaką wybrać metodę testowania w
 umiejętności? W poniższym artykule postaram się odpowiedzieć na te i inne
 kwestie dotyczące zatrudniania na stanowisko technical writera.
 
+<!--truncate-->
+
 ### Dla kogo jest ten tekst?
 
 Artykuł adresowany jest w szczególności do team leaderów, którzy stają przed

@@ -15,6 +15,8 @@ Po ogólnym
 tegorocznej edycji [soap!](http://soapconf.com/), przedstawiamy skrótowo wybrane
 przez nas prezentacje.
 
+<!--truncate-->
+
 Pełna lista prezentacji z pierwszego i drugiego dnia, dostępna jest na
 [stronie konferecji](http://soapconf.com/schedule/).
 

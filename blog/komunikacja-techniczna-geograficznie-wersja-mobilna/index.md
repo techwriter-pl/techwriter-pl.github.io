@@ -15,6 +15,8 @@ Projekt [Tech Comm on a Map](http://sarahmaddox.github.io/techcomm-map/) wkracza
 w kolejną fazę. Niedawno została udostępniona aplikacja mobilna dla systemu
 Android.
 
+<!--truncate-->
+
 Przypomnijmy, Tech Comm on a Map to interaktywna mapa stworzona przez
 [Sarah Maddox](http://www.linkedin.com/in/sarahmaddox), która pomaga zorientować
 się w tym co się dzieje w komunikacji technicznej na całym świecie. Jeśli

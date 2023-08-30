@@ -14,6 +14,8 @@ Jedna firma poprosiła drugą firmę o pomoc w zatrudnieniu doświadczonego
 Technical Writera. Ta druga firma poprosiła nas, a my przekazujemy ofertę Wam -
 czy są chętni na pracę w Krakowie?
 
+<!--truncate-->
+
 Szczegółowe informacje dotyczące oferty pracy znajdziecie poniżej albo
 [bezpośrednio u źródła](http://www.devonshire.pl/vacatures/vacature-technical-writer-609508-71.html)
 (w pełnej krasie graficznej i z przyciskiem do aplikowania).

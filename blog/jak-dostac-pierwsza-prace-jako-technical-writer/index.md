@@ -14,6 +14,8 @@ Jeżeli szukasz drogi dojścia do ścieżki kariery jako Technical Writer, to
 znajdujesz się w miejscu, w którym kiedyś znajdowaliśmy się i my. Oto, co z
 naszego punktu widzenia warto wiedzieć przed pierwszą rekrutacją.
 
+<!--truncate-->
+
 # **Sprawdź siebie zanim sprawdzisz oferty**
 
 Zanim zaczniesz na poważnie rozglądać się za pracą Technical Writera i aplikować

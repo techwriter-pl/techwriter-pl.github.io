@@ -12,6 +12,8 @@ coverImage: "Oferta_handsontable.png"
 
 Wszystkie ręce na... stół 😊 Poszukiwany utalentowany techwriter!
 
+<!--truncate-->
+
 Twórca wykorzystywanego przez programistów na całym świecie komponentu
 [Handsontable](https://handsontable.com/) serdecznie zaprasza. Może spróbujecie
 swoich sił? Oferta (z widełkami płacowymi) wygląda tak:

@@ -13,6 +13,8 @@ coverImage: "TekomRoadshow2014.jpg"
 Stowarzyszenie tekom Europe e.V. wzbogaciło się o nową organizację krajową. Z
 Polski. I przesłało nam kilka informacji na ten temat. Dla Was.
 
+<!--truncate-->
+
 Wspominaliśmy już o tym stowarzyszeniu,
 [pamiętacie](http://techwriter.pl/zostan-mowca-tekom-europe-roadshow-2014/)? Nie
 minęło wiele czasu, a dostaliśmy taki list:

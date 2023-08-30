@@ -17,6 +17,8 @@ nadchodzący [Landing Festival 2018](https://landingfestival.com/berlin). Jest t
 dla nas tym większa radość gdyż objęliśmy to wydarzenie patronatem medialnym 😊
 .
 
+<!--truncate-->
+
 ## Landing Festival - co to takiego?
 
 Jest to jedno z najciekawszych wydarzeń dla osób chcących rozwijać swą karierę w

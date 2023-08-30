@@ -13,6 +13,8 @@ coverImage: "pega_logo_horizontal_positive_rgb_small.png"
 Firma [Pegasystems](https://www.pega.com/), tworząca strategiczne aplikacje dla
 sprzedaży, marketingu i usług, ponownie rekrutuje.
 
+<!--truncate-->
+
 Tym razem, do krakowskiego zespołu dokumentacyjnego poszukiwany jest Technical
 Documentation Specialist. Oferta skierowana jest do osób z minimum rocznym
 doświadczeniem w komunikacji technicznej, które znają standard DITA i

@@ -11,6 +11,8 @@ coverImage: "ABB_TW_meetup.jpg"
 "Technical writers meetup – jak pisać lepszą dokumentację do oprogramowania?" -
 to wydarzenie organizowane przez firmę ABB, 2 października.
 
+<!--truncate-->
+
 Głównym tematem spotkania ma być pisanie dokumentacji technicznej do
 oprogramowania przeznaczonego dla przedsiębiorstw (enterprise software).
 Zaplanowano dwie prelekcje:

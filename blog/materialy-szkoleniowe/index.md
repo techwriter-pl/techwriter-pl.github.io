@@ -15,6 +15,8 @@ Czym zajmują się technical writerzy? Tworzą m.in. materiały treningowe, w
 różnych postaciach. A czym zajmują się materiały treningowe? I czym właściwie
 są?
 
+<!--truncate-->
+
 Załóżmy, że nasz produkt jest już wyposażony w
 [podręcznik użytkownika](http://techwriter.pl/instrukcje-obslugi-i-podreczniki-uzytkownika/)
 i [on-line help](http://techwriter.pl/pomoc-uzytkownika/). To już dużo. Ale nie

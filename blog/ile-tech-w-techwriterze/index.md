@@ -13,6 +13,8 @@ coverImage: "techwriter-tech.jpg"
 Pytacie nas często o to, jak duża znajomość technologii jest potrzebna aby
 rozpocząć pracę w zawodzie?
 
+<!--truncate-->
+
 Tutaj możecie posłuchać ciekawej dyskusji z udziałem doświadczonego menadżera,
 który z niejednego kotła już wygarniał początkujących technical writerów 😉 Jak
 oceniacie, czy rozmówcom udało się wyczerpująco odpowiedzieć na tytułowe

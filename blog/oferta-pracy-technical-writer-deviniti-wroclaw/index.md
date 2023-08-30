@@ -12,6 +12,8 @@ coverImage: "deviniti_logo_podstawowe-100.jpg"
 
 Fajna oferta, w pakiecie obszerne szkolenie! 😊
 
+<!--truncate-->
+
 Deviniti - We’re a Software Company and we’re currently looking for a Technical
 Writer, someone who is passionate about IT and looking to develop their career
 in the field. Join one of our teams who specializes in creating plugins for

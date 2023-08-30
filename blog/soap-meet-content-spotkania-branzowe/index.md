@@ -16,6 +16,8 @@ coverImage: "soap_meet_content.png"
 Organizatorzy krakowskiej konferencji [soap!](http://soapconf.com/) postanowili
 jeszcze bardziej zadbać o popularność zawodu Technical Writera i ...
 
+<!--truncate-->
+
 ...zorganizowali meet content. Jakie są jego założenia? Meet content ma
 być cyklem spotkań, wykładów, warsztatów oraz szkoleń dla osób związanych z IT.
 W centrum zainteresowania mają być przede wszystkim:

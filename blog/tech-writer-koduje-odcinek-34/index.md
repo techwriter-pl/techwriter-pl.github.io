@@ -15,6 +15,8 @@ coverImage: "tw_koduje_34.png"
 Dziś mamy dla Was skrót ostatniego, już 34, odcinka podcastu
 [Tech Writer Koduje](https://techwriterkoduje.pl/).
 
+<!--truncate-->
+
 Gościem najnowszej odsłony podcastu jest Patrycja Pyrek, z którą rozmawialiśmy w
 naszym ostatnim wywiadzie. Możecie go przeczytać
 [tutaj](http://techwriter.pl/kilka-pytan-do-czesc-24/).

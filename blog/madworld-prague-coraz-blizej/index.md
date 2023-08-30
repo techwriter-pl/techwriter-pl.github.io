@@ -15,6 +15,8 @@ Konferencja MadWorld Prague coraz bliżej, postanowiliśmy więc przypomnieć Wa
 kilka najważniejszych faktów, zanim urlopowe szaleństwo zupełnie Was pochłonie
 😉
 
+<!--truncate-->
+
 Przypominamy, że w tym roku odbędzie się pierwsza europejska edycja konferencji.
 Jest ona skierowana przede wszystkim do użytkowników narzędzia MadCap Flare.
 Jeśli jesteście ciekawi jak wyglądała zeszłoroczna edycja w San Diego zapraszamy

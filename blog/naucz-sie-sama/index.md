@@ -16,6 +16,8 @@ Jak sami stwierdziliście nie ma w Polsce uczelni, która kształciłaby technic
 writerów z prawdziwego zdarzenia. Jeszcze. Ale na szczęscie w Polsce jest już
 Internet.
 
+<!--truncate-->
+
 Słyszeliście o [Wikiversity](http://www.wikiversity.org/)? Bardzo ciekawy
 projekt, ale najwyraźniej jak na razie nieudany. Może właśnie dlatego, że nikt o
 nim nie słyszał 😉

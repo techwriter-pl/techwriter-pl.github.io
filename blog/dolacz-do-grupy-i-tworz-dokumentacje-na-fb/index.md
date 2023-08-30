@@ -15,6 +15,8 @@ grzecznych. Tylko co jeszcze moglibyśmy Wam dać? Publikujemy już przecież
 wywiady, opisy konferencji, genialne artykuły i oferty pracy... Myśleliśmy,
 myśleliśmy i oto jest - grupa "Tworzenie dokumentacji" na fejsbuku!
 
+<!--truncate-->
+
 Wygląda na to, że ciągle nas przybywa. Przybywa też ofert pracy, co oznacza, że
 niedługo dołączą kolejne osoby. A skoro jest nas coraz więcej, to fajnie byłoby
 mieć możliwość szybkiej wymiany informacji, zadania pytania, nauki od innych,

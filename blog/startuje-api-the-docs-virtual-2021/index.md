@@ -16,6 +16,8 @@ coverImage: "api_the_docs.png"
 Dziś kilka słów o cyklu wirtualnych spotkań związanych, przede wszystkim, z
 dokumentacją API i doświadczeniami w pracy programisty.
 
+<!--truncate-->
+
 ### O konferencji
 
 Przez cztery lata istnienia API The Docs stało się wiodącą konferencją

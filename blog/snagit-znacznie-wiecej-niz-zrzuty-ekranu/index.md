@@ -14,6 +14,8 @@ coverImage: "snagit.png"
 Dzisiejszy artykuł to prawdziwa perełka, zwłaszcza dla osób poszukujących
 dobrego, funkcjonalnego narzędzia do obróbki zrzutów ekranu.
 
+<!--truncate-->
+
 Poniżej wyczerpujący materiał Andrzeja, naszego nowego kolegi redakcyjnego. To
 się nazywa debiut! Andrzej pobił rekord długości artykułu już w pierwszym
 podejściu, dzięki temu powstał prawdziwy poradnik dla początkujących i

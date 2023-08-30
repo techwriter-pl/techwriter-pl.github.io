@@ -12,6 +12,8 @@ coverImage: "logo_expertsender_rgb_white-002.png"
 
 A może by tak rzucić wszystko i wyjechać... nad morze?
 
+<!--truncate-->
+
 Jeśli chodzą Wam po głowie takie myśli to świetnie się składa. Firma
 [ExpertSender](https://expertsender.com/), dostarczająca rozwiązania
 technologiczne dla marketingu, poszukuje obecnie Technical Writera do swojego

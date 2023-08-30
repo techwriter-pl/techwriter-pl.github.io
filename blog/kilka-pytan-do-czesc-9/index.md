@@ -19,6 +19,8 @@ pełniejszego obrazu dlatego nieustannie poszukujemy osób, które mogły by go
 dopełnić. Dzisiaj zapraszamy na wywiad z Jarkiem Orłowskim, który na tle innych
 przepytywanych jest prawdziwym rekordzistą w kategorii "długość stażu".
 
+<!--truncate-->
+
 ### **Jak długo pracujesz jako Tech Writer?**
 
 10 lat.

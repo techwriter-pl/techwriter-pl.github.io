@@ -14,6 +14,8 @@ coverImage: "Zrzut-ekranu-2019-08-12-o-22.05.47.png"
 Po raz kolejny, z ogromną radością, zapraszamy Was na konferencję Wrire the Docs
 do Pragi. Poniżej znajdziecie najważniejsze informacje związane z wydarzeniem.
 
+<!--truncate-->
+
 Będąc stałym patronem medialnym konferencji, nie mogło nas zabraknąć podczas
 zeszłorocznej edycji Write the Docs w Pradze. Relację z niej znajdziecie
 [tutaj](http://techwriter.pl/write-the-docs-prague-2018-relacja/). Tych z Was,

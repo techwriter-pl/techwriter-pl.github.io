@@ -17,6 +17,8 @@ Po dłuższej przerwie wracamy do cyklicznego zestawienia konferencji branżowyc
 Co nas czeka w nadchodzących miesiącach? Poniżej kalendarium wydarzeń od marca
 do sierpnia 2020. Zapraszamy!
 
+<!--truncate-->
+
 **\[AKTUALIZACJA\] -** z uwagi na pandemię COVID-19 część konferencji będzie
 dostępna jedynie online (wiele wymaga rejestracji), część została przeniesiona
 na inny termin, a wiele zostało odwołanych. Poniżej znajdziecie szczegóły. O

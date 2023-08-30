@@ -17,6 +17,8 @@ pomieszane, sami sobie przeczymy, dublujemy informacje, nagle zaczynamy
 poprawiać jeszcze nieskończony tekst i w rezultacie klawisze Backspace i Del
 odwalają jakieś osiemdziesiąt procent roboty?
 
+<!--truncate-->
+
 Nam się to czasem zdarza.
 
 Jeden z naszych współpracowników zasugerował stworzenie w takiej sytuacji

@@ -16,6 +16,8 @@ coverImage: "techwriter_autor.png"
 W dzisiejszym poście staramy się dowieść, że zawód techwritera i pisarza, pomimo
 wielu stycznych, to jednak zupełnie odmienne zawody.
 
+<!--truncate-->
+
 ### A gdyby tak był plebiscyt na najlepszą dokumentację techniczną?
 
 Wydawać by się mogło, że skoro żaden produkt nie może obyć się bez

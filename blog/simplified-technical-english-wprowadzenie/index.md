@@ -16,6 +16,8 @@ angielskiego, jakie można wykorzystać w tworzeniu dokumentacji. Tym razem na
 tapetę bierzemy **Simplified Technical English**. Czym jest? Skąd się wziął?
 Dlaczego warto z niego korzystać? Odpowiedzi na te pytania znajdziecie poniżej.
 
+<!--truncate-->
+
 Język angielski często określa się mianem współczesnej łaciny. Według różnych
 danych posługuje się nim prawie miliard ludzi, zaś prawie 400 milionów to tzw.
 native speakerzy. Angielski dominuje w obszarze nowych technologii, zaś w branży

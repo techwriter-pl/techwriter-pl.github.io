@@ -12,6 +12,8 @@ coverImage: "SAP_grad_R_pref.png"
 
 Dzisiaj mamy dla Was ofertę z Górnego Śląska.
 
+<!--truncate-->
+
 Firma [SAP Hybris](https://www.hybris.com/en/), międzynarodowy lider w
 dostarczaniu rozwiązań e-commerce, poszukuje do swojego biura w Gliwicach osoby
 na stanowisko Information Developer.

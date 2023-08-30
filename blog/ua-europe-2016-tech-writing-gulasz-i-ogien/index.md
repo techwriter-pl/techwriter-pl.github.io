@@ -15,6 +15,8 @@ odbywa się co roku w innym mieście. Tym razem uczestnicy mogli spędzić troch
 czasu w malowniczym Budapeszczie. Byliśmy tam i my, dlatego zapraszamy na krótką
 relację.
 
+<!--truncate-->
+
 # Tech writing
 
 UA Europe to przede wszystkim stała kadra prezenterów i spora grupa delegatów,

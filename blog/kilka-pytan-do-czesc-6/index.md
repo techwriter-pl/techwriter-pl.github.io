@@ -14,6 +14,8 @@ Marek napisał do nas mail z tematem "Okazuje się, że w sieci w końcu nie jes
 sam"... a my od razu poprosiliśmy go o wywiad. Zgodził się! Dzięki temu wszyscy
 możemy się dowiedzieć paru ciekawych rzeczy. Dziękujemy Ci Marku!
 
+<!--truncate-->
+
 ### Jak długo pracujesz jako Tech Writer?
 
 Z różna intensywnością od ponad 4 lat.

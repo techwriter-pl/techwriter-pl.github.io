@@ -17,6 +17,8 @@ patronatem medialnym
 Konferencja odbyła się w dniach 29-30 marca 2019 w Hotelu Radisson Blu Sobieski
 w Warszawie.
 
+<!--truncate-->
+
 Tegorocznym motywem przewodnim były zmiany, jakie czekają branżę tłumaczeniową w
 2020 roku. Wybór tego konkretnego roku ma drugie dno - 2020 był często
 przedstawiany w kinematografii jako odległa przyszłość, w której świat

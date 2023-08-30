@@ -12,6 +12,8 @@ coverImage: "Etteplan_logo_CMYK-new.jpg"
 
 Na zamknięcie 2018, mamy dla Was jeszcze jedną ofertę pracy.
 
+<!--truncate-->
+
 Fińska firma [Etteplan](https://www.etteplan.com/pl), dostarczająca usługi
 inżynieryjne, systemy wbudowane, usługi z zakresu Internetu Rzeczy oraz
 rozwiązania w zakresie dokumentacji technicznej, poszukuje do swojego biura we

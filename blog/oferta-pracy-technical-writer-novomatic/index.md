@@ -13,6 +13,8 @@ coverImage: "Novomatic_logo.png"
 Jeśli macie jakieś nowe postanowienia po długim weekendzie, to być może firma
 Novomatic wychodzi im naprzeciw...
 
+<!--truncate-->
+
 Z zaprzyjaźnionych źródeł wiemy, że w Zabierzowie trwają poszukiwania dwóch
 techwriterów. Poniżej oczekiwania, aplikować możecie
 [pod tym adresem](https://novomatic.workable.com/j/D234B9C9A4).

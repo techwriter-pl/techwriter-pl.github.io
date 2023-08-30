@@ -13,6 +13,8 @@ Jeżeli nie byliście na
 to... Wasza strata. Na pociechę nasz wysłannik krótko podsumowuje to wydarzenie
 😊
 
+<!--truncate-->
+
 Meetupy już mocno wpisały się w krakowski rynek IT i oferują szeroki wybór
 tematów. W ten trend wpisują się również spotkania dla specjalistów od szeroko
 pojętej komunikacji technicznej. Dostrzegają to firmy informatyczne i coraz

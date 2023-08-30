@@ -17,6 +17,8 @@ coverImage: "kdi_2021.png"
 Już wkrótce odbędzie się kolejna konferencja dla osób związanych z branżą IT.
 Mowa o Krakowskich Dniach Informatyki 2021. Szczegóły poniżej.
 
+<!--truncate-->
+
 ### O konferencji
 
 [Krakowskie Dni Informatyki](https://kdi.org.pl/) to, według organizatorów,

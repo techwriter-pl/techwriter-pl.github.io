@@ -14,6 +14,8 @@ coverImage: "bettingjobs.png"
 Kolejna ciekawa oferta z zagranicy. Tym razem poszukiwany jest Technical Writer
 na Malcie, w Serbii, Szwecji oraz Estonii.
 
+<!--truncate-->
+
 Firma [Betting Jobs](https://www.bettingjobs.com/), współpracująca z dostawcą
 wsparcia technicznego dla międzynarodowej sieci kasyn, poszukuje Technical
 Writera do jednego ze swoich biur.

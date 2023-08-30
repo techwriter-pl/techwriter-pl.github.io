@@ -16,6 +16,8 @@ nawet  [Wikiquote](http://en.wikiquote.org/wiki/Main_Page) (w wersji polskiej 
 w sieci można spotkać wikiliony, albo może nawet wikiliardy różnych Wiki. Co
 więcej - każdy z Was może stworzyć swoją własną! Prywatnie lub służbowo...
 
+<!--truncate-->
+
 Nie jesteśmy już (niestety) uczniami, ale mamy podobne problemy 😊. Większośc
 artykułów rozpoczynamy odnośnikiem do Wikipedii - tak będzie i tym razem
 - [co to jest Wiki?](http://pl.wikipedia.org/wiki/Wiki)

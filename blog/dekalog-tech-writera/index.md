@@ -18,6 +18,8 @@ kiedy tworzymy dokumentację. Poniżej prezentujemy streszczenie tego dekalogu
 oraz nasze krótkie przemyślenia na jego temat. Oryginalny artykuł dostępny jest
 [tutaj](http://idratherbewriting.com/2014/06/20/10-technical-writing-principles-to-live-by/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TomJohnson+%28I%27d+Rather+Be+Writing%29).
 
+<!--truncate-->
+
 ## Pierwsze - testuj swoje instrukcje
 
 Ciężko ocenić wartość stworzonej instrukcji bez przejścia samemu przez zadania,

@@ -15,6 +15,8 @@ coverImage: "220px-Ada_Lovelace_portrait.jpg"
 W środowisku krążą plotki o tym, że pierwszy techwriter był lowelasem. Nie
 wierzcie w to.
 
+<!--truncate-->
+
 Pamiętacie artykuł o
 [geografii komunikacji technicznej](http://techwriter.pl/komunikacja-techniczna-geograficznie/)?
 Wyrobione oko bez trudu dojrzało na mapce zarys niebieskiej kropki. Kryje się za

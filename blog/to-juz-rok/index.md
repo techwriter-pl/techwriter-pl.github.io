@@ -18,6 +18,8 @@ coverImage: "happy_birthday1.jpg"
 **Dziś są pierwsze urodziny techwriter.pl.** Uwierzycie? Wzruszenie odbiera nam
 głos, więc napisaliśmy małe podsumowanie.
 
+<!--truncate-->
+
 Wszystko zaczęło się dokładnie rok temu
 [błyskotliwym wpisem otwierającym](http://techwriter.pl/witaj-swiecie/). Przez
 rok na naszych łamach pojawiło się **ponad 100 artykułów**, lepszych i gorszych,

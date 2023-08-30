@@ -12,6 +12,8 @@ coverImage: "Fonty.jpg"
 Pamiętacie [wpis o typografii](http://alistapart.com/blog/post/web-font-trends)?
 Dziś mały suplement - najmodniejsze kroje pisma, czyli fontologia stosowana.
 
+<!--truncate-->
+
 Zanim odpowiemy na pytanie co będzie się nosić jak będzie się pisać tej wiosny -
 kilka ciekawych miejsc z których można zaczerpnąć pełnymi garściami:
 

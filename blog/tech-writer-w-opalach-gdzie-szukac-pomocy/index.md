@@ -14,6 +14,8 @@ coverImage: "hustle-and-bustle-1738072_960_720.jpg"
 Zazwyczaj to Tech Writerzy pomagają innym, jednak zdarzają się sytuacje, w
 których sami potrzebują pomocy. Gdzie jej wtedy szukać?
 
+<!--truncate-->
+
 Oczywiście najlepiej u kolegów i koleżanek po fachu. Jeśli mamy takie osoby "pod
 ręką" i możemy się ich poradzić to dobra nasza. Kiedy jednak nie mamy takiej
 możliwości, pozostaje nam internet. Stara prawda głosi, że w sieci nie jesteś

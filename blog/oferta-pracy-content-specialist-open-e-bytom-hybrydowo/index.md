@@ -13,6 +13,8 @@ coverImage: "open_e_logo.jpg"
 Interesująca oferta, również dla osób bez technicznego doświadczenia.
 Wszystkiego Was nauczą 😊
 
+<!--truncate-->
+
 Wdrożenie do pracy w okresie próbnym (3 miesiące) prowadzone będzie
 stacjonarnie, docelowo praca w modelu hybrydowym.
 

@@ -19,6 +19,8 @@ W najnowszych odcinkach podcastu
 [Tech Writer Koduje](https://techwriterkoduje.pl/) znów spotkacie się z bardzo
 ciekawymi tematami. Co Was czeka? Zapraszamy na nasze podsumowanie.
 
+<!--truncate-->
+
 ### Odcinek #39
 
 W tym odcinku Michał i Paweł wracają do tematu DITA. Tym razem koncentrują się

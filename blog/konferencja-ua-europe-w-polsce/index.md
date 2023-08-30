@@ -14,6 +14,8 @@ Miło nam poinformować, że kolejna konferencja UA Europe odbędzie się w dnia
 5-6 czerwca 2014 roku w Krakowie. Nasz kraj po raz pierwszy będzie gospodarzem
 tego rodzaju wydarzenia.
 
+<!--truncate-->
+
 To będzie już dziewiąta edycja tej konferencji.
 
 Cytując organizatorów: _"UA Europe is an annual conference for technical

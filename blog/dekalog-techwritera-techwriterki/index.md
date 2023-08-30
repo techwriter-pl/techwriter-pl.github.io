@@ -18,6 +18,8 @@ Podstawy? Dekalog? Tak, wiem, główną grupą docelową tej strony są raczej t
 starzy wyjadacze. Stąd kilka słów wstępu, zanim przeczytacie zasadniczą część
 dzisiejszego artykułu.
 
+<!--truncate-->
+
 Jeśli czytaliście
 [mój poprzedni tekst](http://techwriter.pl/komunikacja-techniczna-jak-sie-studiuje/),
 wiecie, że od jakiegoś czasu jestem adeptką sztuki techwriterskiej. Jej arkana

@@ -27,6 +27,8 @@ najbardziej sens, dlatego że pomaga odsiać kandydatów, których jakość pisa
 jest niezadowalająca. Poniżej przedstawiamy wytyczne jakich powinniśmy się
 trzymać w jednej i drugiej metodzie.
 
+<!--truncate-->
+
 ## Metoda 1 - brak testu pisemnego
 
 Jeśli zdecydujecie się nie przeprowadzać testów pisemnych, możecie spróbować

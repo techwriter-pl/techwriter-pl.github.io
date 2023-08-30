@@ -16,6 +16,8 @@ Tradycyjnie już, zapraszamy Was na konferencję Write the Docs Prague. Podobnie
 jak w zeszłym roku i tym razem wydarzenie to odbędzie się w pełni online.
 Poniżej znajdziecie najważniejsze informacje.
 
+<!--truncate-->
+
 Od kilku lat jesteśmy partnerem medialnym Write the Docs, dlatego nie mogło nas
 zabraknąć podczas zeszłorocznej edycji. Chętnych zapraszamy do zapoznania się z
 [naszą relacją](http://techwriter.pl/relacja-z-write-the-docs-prague-2020-online/).

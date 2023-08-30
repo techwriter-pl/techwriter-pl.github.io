@@ -15,6 +15,8 @@ Ludzie dzielą się na tych, którzy są Tech Writerami i na tych, którzy nimi 
 są. Proste. Tą drugą, liczniejszą grupę możemy z kolei podzielić na tych, którzy
 nie wiedzą czym się zajmuje Tech Writer i na tych, którym się wydaje, że wiedzą.
 
+<!--truncate-->
+
 Najlepiej świadczą o tym sytuacje, w których ktoś nas pyta czym się zajmujemy.
 Kiedy słyszą "Jestem Technical Writerem" to albo pytają co to oznacza albo
 stwierdzają krótko "Aha! Piszesz instrukcje", mając w głowie obraz smutnego

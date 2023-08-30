@@ -22,6 +22,8 @@ który na co dzień pracuje jako Junior Technical Writer w krakowskim oddziale
 różnych powodów nie mogli wziąć udziału w spotkaniu. Być może będzie to dla Was
 zachęta do wybrania się na kolejne.
 
+<!--truncate-->
+
 \*\*\*
 
 UX writing — brzmi znajomo? Dla wielu z nas wciąż pachnie nowością. Bo kim

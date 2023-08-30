@@ -19,6 +19,8 @@ towarzystwie, pod tegorocznym hasłem rozwiązywania problemów związanych z
 treścią. Tych, którzy byli i tych, którzy być nie mogli - zapraszamy na relację
 z perspektywy Techwriter.pl.
 
+<!--truncate-->
+
 ## Gdzie się działo?
 
 Soap! już po raz drugi gościł w

@@ -15,6 +15,8 @@ dłuższego czasu zajmuje się tworzeniem dokumentacji w międzynarodowej
 korporacji. W wolnym czasie czyta techwriter.pl i dba o to, żebyśmy się nie
 nudzili. Zapraszamy do lektury.
 
+<!--truncate-->
+
 ### Jak długo pracujesz jako Tech Writer?
 
 W marcu mijają 3 lata.

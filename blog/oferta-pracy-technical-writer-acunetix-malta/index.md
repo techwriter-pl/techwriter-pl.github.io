@@ -12,6 +12,8 @@ coverImage: "Malta.jpg"
 
 Oferta nietypowa w bardzo pozytywny sposób. Co najmniej z dwóch powodów 😊
 
+<!--truncate-->
+
 Po pierwsze - na Malcie. Po drugie - trafiła do nas za pośrednictwem grupy
 [Tworzenie dokumentacji](https://www.facebook.com/groups/tworzeniedokumentacji/permalink/1039072279767554/)
 na FB, do której przy okazji serdecznie Was zapraszamy! Tam znajdziecie też

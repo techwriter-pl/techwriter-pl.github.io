@@ -15,6 +15,8 @@ Już tylko kilka tygodni dzieli nas od kolejnej edycji krakowskiej konferencji
 soap!. Jeśli nadal nie możecie zdecydować czy się wybrać, poniżej znajdziecie
 garść najważniejszych informacji dotyczących wydarzenia.
 
+<!--truncate-->
+
 ### **Najważniejsze informacje**
 
 Siódma edycja soap! odbędzie się w dniach **5-7 czerwca w Krakowie** w

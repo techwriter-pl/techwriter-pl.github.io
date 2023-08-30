@@ -14,6 +14,8 @@ Poszukiwany Technical Writer który nie obawia się kodu nowych wyzwań. Jeśli
 lubisz pisać, a do tego potrafisz szybko rozwiązywać problemy, to stanowisko
 jest dla Ciebie. Możliwość negocjacji warunków pracy!
 
+<!--truncate-->
+
 Akamai poszukuje osoby, która wesprze prężnie rozwijający się zespół
 dokumentacji technicznej. W centrum zainteresowania firmy są zarówno
 zaawansowane usługi dostarczania i zabezpieczania treści w internecie, jak

@@ -15,6 +15,8 @@ Czym zajmują się technical writerzy? Raczej nie tworzą infografik... A szkoda
 bo to takie wdzięczne zajęcie. A czym zajmują się infografiki? I czym właściwie
 są?
 
+<!--truncate-->
+
 Tłumacząc za [Wikipedią](http://en.wikipedia.org/wiki/Infographic) - infografika
 to graficzna reprezentacja informacji, danych lub wiedzy, mająca na celu
 przekazanie skomplikowanych informacji szybko i klarownie. Wykorzystując to, że

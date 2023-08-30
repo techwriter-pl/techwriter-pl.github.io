@@ -16,6 +16,8 @@ Stało się! 18-20 października odbyła się konferencja
 [Write the Docs Prague](https://www.writethedocs.org/conf/prague/2020/).
 Zapraszamy na naszą relację z tego wydarzenia!
 
+<!--truncate-->
+
 Ze względu na sytuację z korona wirusem, konferencja odbyła się całkowicie
 online. Nowy charakter Write the Docs nie powstrzymał uczestników od spotkań
 oraz aktywnego angażowania się w dyskusje oraz wystąpienia na wirtualnej scenie

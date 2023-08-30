@@ -24,6 +24,8 @@ darmowych i płatnych narzędzi. Wiele z nich oferuje bardzo zbliżoną
 funkcjonalność. Wybraliśmy trzy darmowe edytory, które spełniają różne potrzeby,
 zarówno te mniejsze jak i te większe.
 
+<!--truncate-->
+
 **Writeily**
 
 [Writeily](https://play.google.com/store/apps/details?id=com.jmartin.writeily&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dwriteily+google+play)

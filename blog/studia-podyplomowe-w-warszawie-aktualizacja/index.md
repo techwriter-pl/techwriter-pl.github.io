@@ -14,6 +14,8 @@ coverImage: "Vistula_komunikacja_techniczna_podyplomowe-e1569408984531.png"
 Zmieniły się nieco plany uczelni Vistula odnośnie startu naszego kierunku -
 oficjalne rozpoczęcie przesunęło się z października na listopad.
 
+<!--truncate-->
+
 Aktualny plan przewiduje rozpoczęcie zajęć w weekend 16-17 listopada. Oczywiście
 o ile zbierze się wystarczająca ilość chętnych. Więcej o tej inicjatywie
 pisaliśmy jakiś czas temu -

@@ -15,6 +15,8 @@ coverImage: "formaty_i_kanaly_dystrybucji_dokumentacji.png"
 Dziś zajmiemy się tematem formatów i kanałów dystrybucji dokumentacji.
 Zastanowimy się także, który z nich będzie najlepszym wyborem.
 
+<!--truncate-->
+
 No właśnie — jak to jest? Lepsza dokumentacja dystrybuowana w formacie PDF czy
 dostępna online w formie strony WWW? Wydrukowana i dostarczana w pudełku czy
 może dostępna wyłącznie w formie elektronicznej? Każdy z formatów może mieć

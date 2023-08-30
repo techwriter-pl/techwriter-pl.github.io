@@ -16,6 +16,8 @@ Firma [3di Polska](http://3di.com.pl/) przy współpracy z
 grupę dla użytkowników narzędzia MadCap Flare. Techwriter.pl ma przyjemność
 wspierać tę inicjatywę jako patron medialny.
 
+<!--truncate-->
+
 ## W jakim celu powstała grupa?
 
 Grupa powstała po to, aby użykownicy oprogramowania

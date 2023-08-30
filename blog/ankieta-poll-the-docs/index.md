@@ -18,6 +18,8 @@ Docs. Jej celem jest zdobycie informacji o tym jak pracują specjaliści związa
 z branżą komunikacji technicznej, na jakim etapie rozwoju znajduje się obecnie
 dokumentacja i jak rysuje się jej przyszłość.
 
+<!--truncate-->
+
 Wypełnienie ankiety powinno Wam zająć od 10 do 15 minut. Wyniki ankiety posłużą
 do stworzenia raportu o obecnym stanie społeczności dokumentacyjnej, który
 zostanie zaprezentowany podczas amerykańskiej edycji konferencji Write the Docs

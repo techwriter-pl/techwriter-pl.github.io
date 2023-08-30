@@ -15,6 +15,8 @@ coverImage: "request-9-e1613722678451.png"
 Z ogromną radością zapraszamy Was na konferencję **reQuest 2021**, którą
 objęliśmy patronatem. Poniżej znajdziecie najważniejsze informacje.
 
+<!--truncate-->
+
 Po rocznej przerwie spowodowanej pandemią organizatorzy konferencji reQuest
 postanowili wrócić, tym razem oferując swe wydarzenie w formacie online. Dobrze
 już znana w świecie IT konferencja, od kilku lat skupia ekspertów w zakresie

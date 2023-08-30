@@ -13,6 +13,8 @@ coverImage: "parasoft.png"
 Amerykańska firma Parasoft poszukuje Technical Writera do swojego polskiego
 zespołu.
 
+<!--truncate-->
+
 Parasoft jest wiodącym dostawcą rozwiązań do tworzenia i testowania
 oprogramowania różnego typu. Główna siedziba firmy zlokalizowana jest w
 słonecznej Kalifornii.

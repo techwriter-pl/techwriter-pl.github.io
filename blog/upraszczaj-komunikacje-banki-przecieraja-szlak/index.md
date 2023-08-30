@@ -19,6 +19,8 @@ Równo sześć lat po jednym z naszych
 upraszczania przekazu natknęliśmy się na niesamowity (i rodzimy!) ciąg dalszy
 tej historii...
 
+<!--truncate-->
+
 "Prosta komunikacja się opłaca" - a najlepszym dowodem na to jest praktyczne
 wdrażanie tej zasady przez dwa duże polskie banki. Gdzież bowiem lepiej liczą
 pieniądze niż w bankach? 😊 Z przyjemnością prezentujemy Wam dziś dwa przykłady

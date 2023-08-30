@@ -17,4 +17,6 @@ względu na świetną atmosferę i niezłe widoki z okna 😊 Kraków czeka! Lin
 ogłoszenia można znaleźć
 [tutaj](http://www.smart4aviation.aero/?career/open-positions/krk/technical-writer.html).
 
+<!--truncate-->
+
 [![ofertapracysmart4aviation](images/ofertapracysmart4aviation.png)](http://techwriter.pl/wp-content/uploads/2015/02/ofertapracysmart4aviation.png)

@@ -13,6 +13,8 @@ coverImage: "Hitachi_energy.png"
 Senior Technical Writer pilnie poszukiwany! Wszelkie informacje znajdziecie
 poniżej.
 
+<!--truncate-->
+
 Szwajcarska firma [Hitachi Energy](https://www.hitachienergy.com/) słynie z
 połączenia technologii, które pozwalają na zaspokojenie rosnącego
 zapotrzebowania na energię elektryczną przy jednoczesnym zmniejszeniu wpływu na

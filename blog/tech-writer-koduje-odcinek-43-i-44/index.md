@@ -16,6 +16,8 @@ Z ostatnich podcastów ekipy Tech Writer Koduje dowiecie się jaki jest przepis 
 stronę z dokumentacją oraz jak wygląda rekrutacja w branży związanej z technical
 writingiem. Zapraszamy na poniższy skrót.
 
+<!--truncate-->
+
 ### Odcinek #43
 
 Zbudowanie strony z dokumentacją od zera może się wydawać nie lada wyzwaniem,

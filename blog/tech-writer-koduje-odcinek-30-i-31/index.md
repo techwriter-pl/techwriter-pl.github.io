@@ -17,6 +17,8 @@ Pora na skrót ostatnich odcinków podcastu
 feedback. Natomiast z 31 dowiecie się jak stworzyć generator stron statycznych.
 Zapraszamy!
 
+<!--truncate-->
+
 ### Odcinek 30
 
 Gościem tego odcinka jest Rafał Pawlicki, IT Documentation Manager, który wraz z

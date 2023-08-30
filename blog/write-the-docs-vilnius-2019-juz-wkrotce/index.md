@@ -16,6 +16,8 @@ Już za niespełna dwa tygodnie czeka nas pierwsza edycja konferencji Write the
 Docs Vilnius 2019. Poniżej garść najważniejszych informacji. Może ktoś z Was się
 jeszcze skusi 😉
 
+<!--truncate-->
+
 ### Co, gdzie i kiedy?
 
 Konferencja odbędzie się **2 – 3 czerwca w stolicy Litwy, Wilnie** na

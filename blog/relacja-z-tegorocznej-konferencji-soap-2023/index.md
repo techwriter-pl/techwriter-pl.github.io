@@ -17,6 +17,8 @@ tradycyjnie trzydniową konferencję [soap!](https://soapconf.com/), która
 startowała pierwszego czerwca z częścią warsztatową, po czym nastąpiły dwa dni
 wypełnione wykładami i wydarzeniami.
 
+<!--truncate-->
+
 Każdy wykład zebrał pokaźną widownię, na zakończenie osoby z publiki zadawały
 bardzo celne pytania, które poszerzały temat prezentacji lub przekierowywały
 dyskusję w inne, powiązane rewiry.

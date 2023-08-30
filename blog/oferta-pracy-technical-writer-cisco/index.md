@@ -13,6 +13,8 @@ coverImage: "EXP_BE_Logo_IT_SS_STK_MC_RGB_smaller.jpg"
 W ostatnim kwartale 2017 rynek pracy dla Tech Writerów nie zwalnia tempa.
 Kolejna praca szuka człowieka.
 
+<!--truncate-->
+
 [Experis IT](http://www.experis.pl/) poszukuje dla swojego klienta, firmy Cisco,
 Tech Writera. Jest to oferta skierowana do osób z kilkuletnim doświadczeniem w
 komunikacji technicznej znających narzędzia Cisco.

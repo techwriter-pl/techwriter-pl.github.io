@@ -15,6 +15,8 @@ społeczność [MeetContent](http://meetcontent.org/). Tym razem swoimi
 przemyśleniami, odkryciami (i, jak się okazało, pasją do memów) dzielił się nasz
 redakcyjny kolega – [Paweł Kowaluk](http://techwriter.pl/kim-jestesmy/).
 
+<!--truncate-->
+
 MeetContent wyrósł na podwórku [soap!](http://soapconf.com/), na początku
 spotkania nie mogło więc zabraknąć wzmianki o tegorocznej, piątej już edycji
 konferencji, o której

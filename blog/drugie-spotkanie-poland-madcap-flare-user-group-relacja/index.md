@@ -17,6 +17,8 @@ Za nami drugie spotkanie Poland MadCap Flare User Group prowadzonej
 przez [3di Poland](http://3di.com.pl/). Zapraszamy na krótką relację z tego
 wydarzenia.
 
+<!--truncate-->
+
 28 września 2017, w
 krakowskim [T.E.A. Time BrewPub](http://www.teatimebrewpub.pl/), ponownie
 zebrali się sympatycy narzędzia MadCap Flare. Tym razem, celem spotkania było

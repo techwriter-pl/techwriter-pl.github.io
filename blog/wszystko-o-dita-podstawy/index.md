@@ -18,6 +18,8 @@ znalezienie czegoś w języku polskim jest dość trudne. Chcąc zmienić ten st
 rzeczy, postanowiliśmy stworzyć dla Was niniejsze kompendium wiedzy o tym
 standardzie.
 
+<!--truncate-->
+
 Pierwszy artykuł z tej serii uchylił rąbka ditowej tajemnicy. W tym odcinku
 znajdziecie pogłębione informacje o języku znaczników wykorzystywanym w dicie,
 poznacie jakie są rodzaje topików i czym się wyróżniają. Będziecie mogli także

@@ -13,6 +13,8 @@ coverImage: "Konferencje-2019-1.png"
 Jeśli lubicie podcasty to mamy dziś dla Was coś ciekawego do posłuchania 😉.
 Szczegóły poniżej.
 
+<!--truncate-->
+
 Web scraping to zbieranie danych ze stron internetowych. Google, na przykład,
 robi to, żeby indeksować cały internet w swojej wyszukiwarce. Web scraping
 wykorzystuje się też do monitorowania cen w konkurencyjnych sklepach

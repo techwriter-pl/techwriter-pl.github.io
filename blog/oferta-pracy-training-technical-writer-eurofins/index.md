@@ -13,6 +13,8 @@ coverImage: "logo.png"
 Firma [Eurofins](https://www.eurofins.pl/), zajmująca się bezpieczeństwem
 środowiska, leków, wody i żywności, ma dla Was interesującą ofertę.
 
+<!--truncate-->
+
 Do swojego biura w Katowicach poszukuje Training Technical Writera. Jest to
 oferta z pogranicza technical writingu i szkoleń, dlatego może być atrakcyjna
 zarówno dla ludzi z branży komunikacji technicznej, jak i doświadczonych

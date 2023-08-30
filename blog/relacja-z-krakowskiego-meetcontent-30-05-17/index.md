@@ -14,6 +14,8 @@ usłyszeć sporo o dokumentacji oprogramowania, przyjrzeć się z bliska kilku
 problemom z życia wziętym, porozmawiać z developerami, wygrać wejściówkę na
 soap! 2017 i, oczywiście, napić się dobrego piwa.
 
+<!--truncate-->
+
 Tomek rysuje, uczy się koreańskiego i zna język migowy, a na co dzień pracuje
 jako Technical Writer, trzymając pieczę nad dokumentacją związaną z softwarem.
 Często jednak zakasuje rękawy i sam bierze się za pisanie kodu.

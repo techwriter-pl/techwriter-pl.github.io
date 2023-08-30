@@ -18,6 +18,8 @@ Mamy dziś dla Was propozycję ciekawej, wirtualnej biblioteki, której zasoby
 możecie nie tylko przeglądać, ale też tworzyć, nie wstając z fotela. Szczegóły
 poniżej. Zapraszamy!
 
+<!--truncate-->
+
 ### Linode - informacje ogólne
 
 [Linode](https://www.linode.com/) to amerykańska firma oferująca usługi związane

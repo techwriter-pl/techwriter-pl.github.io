@@ -14,6 +14,8 @@ coverImage: "Konferencje-2019-5.png"
 Dziś tematem tekstu będą narzędzia, na które warto zwrócić uwagę tworząc
 dokumentację.
 
+<!--truncate-->
+
 Narzędzia, z których korzysta technical writer można podzielić na kilka grup, w
 zależności od ich przeznaczenia. Poniżej przedstawiamy listę różnych narzędzi,
 których używamy lub z innych powodów uznaliśmy za warte uwagi.

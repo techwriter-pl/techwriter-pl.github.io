@@ -14,6 +14,8 @@ mamy dla Was trzy małe, ale za to pomocne aplikacje, z których sami korzystamy
 uważamy, że są godne polecenia. Nie są one ściśle związane z pracą Tech Writera,
 jednak zdecydowanie mogą Wam ułatwić codzienne zadania.
 
+<!--truncate-->
+
 # Coś do notowania
 
 Jeśli chodzi o zapisywanie wszelkiego rodzaju ważnych informacji, to zapewne

@@ -16,6 +16,8 @@ Ten w Wordzie daje niemądre sugestie? Dodaliście coś do jednego słownika, al
 teraz używacie drugiego? Być może rozwiązaniem tych wszystkich problemów jest
 Grammarly? A być może Grammarly to wielka klapa?
 
+<!--truncate-->
+
 # O co chodzi?
 
 [Grammarly](https://www.grammarly.com) to usługa sprawdzania pisowni i gramatyki

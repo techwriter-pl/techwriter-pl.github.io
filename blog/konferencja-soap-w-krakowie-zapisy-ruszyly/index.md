@@ -12,6 +12,8 @@ coverImage: "soap.jpg"
 Druga edycja [soap! conference](http://soapconf.com/) planowana na 2-3
 października coraz bliżej. Sprawdź dlaczego warto się na niej pojawić.
 
+<!--truncate-->
+
 Zeszłoroczna, bardzo udana edycja
 ([nasza relacja](http://techwriter.pl/soap-technical-communication-conference-relacja/))
 zachęciła organizatorów do pójscia za ciosem - tym razem konferencja planowana

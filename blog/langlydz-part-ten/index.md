@@ -14,6 +14,8 @@ Tak, to właśnie ten artykuł - ten namber ten - jubileuszowy wpis z Waszej
 ulubionej serii. Wersja 10.0 - wyczekiwana, przełomowa, opóźniona i bogata w
 ficzery. Endżoj!
 
+<!--truncate-->
+
 Uwaga: ponieważ dzisiejszy odcinek poświęcony jest zjawiskom przyrodniczym - a
 dokładniej rzecz biorąc jednemu, konkretnemu gatunkowi - należy go czytać
 głośno, modulując przy tym głos na podobieństwo Krystyny Czubówny, mniej więcej

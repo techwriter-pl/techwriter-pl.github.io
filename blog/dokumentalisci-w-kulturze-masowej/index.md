@@ -22,6 +22,8 @@ nie istnieją też związane z nim stereotypy. Dlatego też łatwiej w filmie cz
 komiksie pokazać postać informatyka lub nauczyciela niż Tech Writera. A oto
 niezwykle krótka lista tego co udało się zebrać.
 
+<!--truncate-->
+
 [![andy_richter](images/andy_richter-225x300.jpg)](http://techwriter.pl/wp-content/uploads/2015/04/andy_richter.jpg)
 **[Andy Richter Controls the Universe](http://www.imdb.com/title/tt0307716/?ref_=nv_sr_2)
 (serial telewizyjny)** Andy pracuje w dużej firmie w Chicago i zarabia na życie

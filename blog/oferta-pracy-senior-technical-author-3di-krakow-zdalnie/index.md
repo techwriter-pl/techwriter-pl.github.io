@@ -10,6 +10,8 @@ coverImage: "3di_logo.png"
 Ciekawa oferta dla doświadczonej osoby z potencjałem na lidera. Ładne biuro w
 centrum Krakowa 😊
 
+<!--truncate-->
+
 Firmę [3di](https://3di-info.com/) znamy i polecamy od lat. Poznacie tam
 ciekawych ludzi z branży i nauczycie się fachu, praktycznie od każdej strony.
 Prowadzą też wartościowego [bloga](https://3di-info.com/blog/). Tym razem

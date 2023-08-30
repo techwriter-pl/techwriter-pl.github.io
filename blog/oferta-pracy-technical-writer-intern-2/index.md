@@ -13,6 +13,8 @@ coverImage: "dassault.png"
 Właśnie startuje kolejna rekrutacja do krakowskiego oddziału
 [Dassault Systemes](http://www.3ds.com/pl-pl/).
 
+<!--truncate-->
+
 Firma poszukuje stażysty, który zasili szeregi zespołu zajmującego się
 dokumentacją. W zeszłym roku publikowaliśmy podobne ogłoszenie, dlatego
 postanowiliśmy trochę "powęszyć" jak potoczyły się losy osoby, która ostatnim

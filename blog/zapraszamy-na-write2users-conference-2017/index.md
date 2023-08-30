@@ -21,6 +21,8 @@ Z przyjemnością ogłaszamy, że Techwriter.pl obejmie to wydarzenie patronatem
 medialnym. Gorąco zachęcamy do wzięcia udziału w konferencji, choćby dlatego, że
 odbędzie się ona... w kopenhaskim zoo!
 
+<!--truncate-->
+
 Write2Users Conference już po raz piąty organizowana jest przez duńską firmę
 [Write2Users](http://write2users.com), zajmującą się komunikacją techniczną,
 lokalizacją, user experience i szkoleniami branżowymi. Konferencja skierowana

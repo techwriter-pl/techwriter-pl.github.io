@@ -15,6 +15,8 @@ wieloletnim doświadczeniem w komunikacji technicznej, współtwórca konferencj
 [soap!](http://soapconf.com/), członek zarządu [ITCQF](http://itcqf.org/) oraz
 miłośnik narzędzi do tworzenia dokumentacji i nie tylko.
 
+<!--truncate-->
+
 ### Jak długo pracujesz jako Tech Writer?
 
 Pracowałem jako Tech Writer przez cztery lata. W tym czasie zajmowałem się też

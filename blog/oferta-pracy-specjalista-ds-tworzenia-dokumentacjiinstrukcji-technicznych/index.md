@@ -12,6 +12,8 @@ coverImage: "CAL_logo.jpg"
 
 Tym razem oferta z Katowic, i to od razu dla dwóch osób!
 
+<!--truncate-->
+
 Firma CAL International oferuje usługi inżynieryjne obejmujące wszystkie etapy
 rozwoju produktu od tzw. szkicu do wyprodukowania go lub wprowadzenia do
 produkcji seryjnej. Swoim klientom oferuje współpracę w całym projekcie lub na

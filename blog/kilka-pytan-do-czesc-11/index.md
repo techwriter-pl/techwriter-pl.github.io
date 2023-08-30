@@ -16,6 +16,8 @@ wiele ciekawych osób. Jedną z nich jest Brad Schmidt - kiedyś tester w Dolini
 Krzemowej, a obecnie Tech Writer w stolicy Czech. Zobaczcie jak to się robi u
 naszych południowych sąsiadów.
 
+<!--truncate-->
+
 ### How long have you been working as a Tech Writer?
 
 A little more than 10 years.

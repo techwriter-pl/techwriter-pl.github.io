@@ -12,6 +12,8 @@ coverImage: "BC-Logo.png"
 
 Kolejna ciekawa oferta z zagranicy.
 
+<!--truncate-->
+
 Firma [Betting Connections](https://www.bettingconnections.com/), zajmująca się
 rekrutacją pracowników dla
 branży [iGaming](https://stronggaming.com/what-is-igaming/), poszukuje

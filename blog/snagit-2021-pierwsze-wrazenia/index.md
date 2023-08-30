@@ -15,6 +15,8 @@ Przed Wami kolejny artykuł na temat
 [Snagita](https://www.techsmith.com/screen-capture.html?utm_source=influencer&utm_medium=partner&utm_campaign=brandexp&utm_content=techwriterpl).
 Tym razem test najnowszej wersji.
 
+<!--truncate-->
+
 ### Wstęp
 
 Miałem szczęście uzyskać wczesny dostęp do nowego Snagita 2021 i wypróbować jego

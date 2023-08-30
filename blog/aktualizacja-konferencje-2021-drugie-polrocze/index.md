@@ -16,6 +16,8 @@ coverImage: "Konferencje-2021-drugie-polrocze-6.png"
 Z uwagi na pewne zmiany w kalendarzu konferencji postanowiliśmy przygotować
 aktualizację.
 
+<!--truncate-->
+
 Podobnie jak wcześniej, większość wydarzeń odbędzie się online. Część z
 konferencji została jednak przeniesiona na kolejny rok. Pojawiły się też nowe
 wydarzenia, którymi możecie być zainteresowani.

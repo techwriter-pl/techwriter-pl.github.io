@@ -12,6 +12,8 @@ coverImage: "Langlydz2.jpg"
 
 Dziś  kolejne słówko, a właściwie dwa:
 
+<!--truncate-->
+
 **Inejblować i dizejblować** \[od ang. _enable_ i _disable_\] - pierwsze
 definicje słownikowe, znalezione w naszym ulubionym słowniku angielsko-polskim,
 tłumaczą te zwroty jako odpowiednio "dawać możność" i "powodować inwalidztwo".

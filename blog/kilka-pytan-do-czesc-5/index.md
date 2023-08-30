@@ -14,6 +14,8 @@ Z nieukrywaną radością publikujemy kolejny wywiad. W dzisiejszym odcinku
 poznacie Kasię, która porzuciła zawód tłumacza, żeby spróbować swoich sił w
 technical writingu. Życzymy przyjemnej lektury.
 
+<!--truncate-->
+
 ### Jak długo pracujesz jako Tech Writer?
 
 Kilka miesięcy.

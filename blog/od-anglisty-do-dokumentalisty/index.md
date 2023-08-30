@@ -18,6 +18,8 @@ coverImage: "Od-anglisty-do-dokumentalisty.png"
 
 ...czyli o tym, jak tłumacze wchodzą w buty tech writerów.
 
+<!--truncate-->
+
 ### **„Za naszych czasów to było inaczej…”**
 
 Ile razy słyszeliśmy te słowa od naszych dziadków. Teraz to my, angliści,

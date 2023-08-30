@@ -14,6 +14,8 @@ coverImage: "badanie_plac_2021.png"
 
 Po raz piąty zapraszamy Was do wypełnienia corocznej ankiety o zarobkach.
 
+<!--truncate-->
+
 Jak większość z Was wie, w 2017 roku postanowiliśmy zrobić nasze własne,
 kompleksowe badanie płac wśród Technical Writerów i powiązanych profesji. W
 kolejnych latach ponawialiśmy badanie, a jego wyniki publikowaliśmy na naszym

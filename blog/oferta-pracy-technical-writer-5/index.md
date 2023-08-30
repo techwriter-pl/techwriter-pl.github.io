@@ -16,6 +16,8 @@ naszym portalu (pomogliśmy znaleźć odpowiednią osobę), krakowski oddział
 Dassault Systemes ogłasza dalszy rozwój swojego zespołu techwriterów i poszukuje
 nowych kandydatów.
 
+<!--truncate-->
+
 Jeżeli chcecie spróbować swoich sił, to wszelkie szczegóły znajdziecie poniżej,
 albo na
 [pracuj.pl](http://www.pracuj.pl/praca/technical-writer-krakow,oferta,3644713) (w

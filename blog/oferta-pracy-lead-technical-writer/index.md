@@ -13,6 +13,8 @@ coverImage: "3di_logo.png"
 [Firma 3di](http://www.3di-info.com/) poszukuje kolejnej osoby do swojego nowego
 biura w Krakowie.
 
+<!--truncate-->
+
 Nowe stanowisko na pewno zainteresuje osoby z dużym doświadczeniem w tworzeniu
 dokumentacji, które chcą zrobić kolejny krok w swojej karierze i jednocześnie
 nie boją się wymagających zadań oraz odpowiedzialności za podejmowane decyzje.

@@ -18,6 +18,8 @@ osoby, która gościła zarówno na jednej i drugiej. Dzielę się subiektywnymi
 przemyśleniami na ten temat i aby podjąć właściwy wybór musisz zajrzeć w głąb
 siebie. Mam nadzieję, że artykuł pomoże Ci w tym trudnym zadaniu.
 
+<!--truncate-->
+
 [![](images/upload_037-300x291.png)](http://techwriter.pl/wp-content/uploads/2022/07/upload_037.png)
 
 ###### Mikey Ariel podczas konferencji Write The Docs.

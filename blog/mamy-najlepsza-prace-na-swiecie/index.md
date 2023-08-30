@@ -14,4 +14,6 @@ Sprawdźcie sami. I nie pokazujcie pracodawcy 😉Może nie najlepszą, ale
 najbardziej "wyluzowaną"... przynajmniej według
 [tego źródła](http://education.yahoo.net/articles/5_laid-back_careers.htm).
 
+<!--truncate-->
+
 Miłego weekendu 😊.

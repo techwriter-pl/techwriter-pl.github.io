@@ -18,6 +18,8 @@ W DITA można pisać treść z multimediami a potem generować z niej HMTLe, PDF
 tak dalej. A co, gdybyśmy chcieli na przykład wygenerować diagram z drzewa
 procedur? Na szczęście się da.
 
+<!--truncate-->
+
 Natrafiliśmy ostatnio na
 [rozwiązania firmy Intuillion, które pozwalają na generowanie rożnych rzeczy z plików DITA](http://intuillion.com/products/content-automation/overview/).
 Dzięki temu, że DITA to XML, mamy dosyć dużą władzę nad tym co można z niej

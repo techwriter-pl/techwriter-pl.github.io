@@ -15,6 +15,8 @@ coverImage: "technologia.png"
 Ciekawa prezentacja (w języku angielskim) - 5 rewolucyjnych technologii których
 nie możesz zignorować. Science-fiction czy nieodległa codzienność?
 
+<!--truncate-->
+
 Sami oceńcie -
 [115 slajdów](http://www.slideshare.net/abelsp/technical-communication-futurist),
 które mogą Wam dać do myślenia...

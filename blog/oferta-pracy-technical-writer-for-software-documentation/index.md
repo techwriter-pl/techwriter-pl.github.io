@@ -12,6 +12,8 @@ coverImage: "mapp-cover.png"
 
 Pracodawcy w Krakowie wciąż poszukują Technical Writerów.
 
+<!--truncate-->
+
 Firma [Mapp](https://mapp.com/us/) tworzy oprogramowanie wspierające marketing i
 poszukuje osoby na stanowisko Technical Writer do biura w Krakowie. Język
 angielski jest wymagany, niemiecki będzie dodatkowym atutem. Poza tym wskazane

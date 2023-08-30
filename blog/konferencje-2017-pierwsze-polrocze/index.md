@@ -14,6 +14,8 @@ Rozpoczął się kolejny rok, a wraz z nim przyszła pora na garść informacji 
 temat konferencji. Zapraszamy do zapoznania się z poniższym kalendarium. Może
 któreś wydarzenie zachęci Was na tyle, by zrobić rezerwację.
 
+<!--truncate-->
+
 ## Styczeń
 
 5-7 stycznia, Kuala Lumpur, Malezja – [IC4E 2017](http://www.ic4e.net/)

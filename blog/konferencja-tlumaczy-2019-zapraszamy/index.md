@@ -17,6 +17,8 @@ Kolejny raz, z wielką przyjemnością, zapraszamy Was na rodzime wydarzenie, kt
 obejmujemy naszym patronatem. Mowa o Konferencji Tłumaczy, która odbędzie się we
 wrześniu w Warszawie. Poniżej najważniejsze informacje.
 
+<!--truncate-->
+
 ### Krótki powrót do przeszłości
 
 Konferencja Tłumaczy, to według organizatorów, największe wydarzenie w branży

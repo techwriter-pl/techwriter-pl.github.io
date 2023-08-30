@@ -14,6 +14,8 @@ Jeżeli marzysz o karierze menedżera w korporacji to musisz zapamiętać to sł
  Albowiem różne mogą być proweniencje napotkanych dependencji. Wszelakie mogą
 być również ich konsekwencje.
 
+<!--truncate-->
+
 **Dependencja** (nie mylic z
 [impedancją](http://pl.wikipedia.org/wiki/Impedancja)) \[od ang.
 _dependency_\] - wbrew

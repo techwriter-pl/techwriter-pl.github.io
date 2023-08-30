@@ -13,6 +13,8 @@ coverImage: "Novomatic_logo.png"
 W Krakowie... no dobra, pod Krakowem 😉. Ale i tak ciekawa oferta. Może jakiś
 tłumacz się skusi?
 
+<!--truncate-->
+
 Aplikować możecie
 [przez LinkedIn](https://www.linkedin.com/jobs/view/690898127/). Poniżej opis
 stanowiska:

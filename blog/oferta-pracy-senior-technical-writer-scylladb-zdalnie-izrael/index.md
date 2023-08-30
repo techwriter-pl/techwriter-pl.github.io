@@ -11,6 +11,8 @@ coverImage: "Scylla_logo.jpg"
 Jedna z ciekawszych ofert jakie przewinęły się przez nasz portal. Zaawansowany
 produkt, międzynarodowe towarzystwo, polecamy!
 
+<!--truncate-->
+
 ScyllaDB to wydajna, efektywna i skalowalna baza danych typu NoSQL, w której
 przechowywane są dane największych firm na świecie. Imponującą ilość materiałów
 znajdziecie oczywiście na stronie [scylladb.com](https://www.scylladb.com), a

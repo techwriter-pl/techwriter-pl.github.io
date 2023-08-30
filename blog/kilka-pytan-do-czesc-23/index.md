@@ -13,6 +13,8 @@ coverImage: "wywiad_23.png"
 
 Zapraszamy na kolejną odsłonę z naszej serii wywiadów.
 
+<!--truncate-->
+
 Tym razem na nasze pytania zgodziła się odpowiedzieć Robin Pille - technical
 writer z wieloletnim stażem w firmie [Splunk](https://www.splunk.com/) w San
 Francisco.

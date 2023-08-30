@@ -17,6 +17,8 @@ Ponownie, z wielką przyjemnością, zapraszamy Was na konferencję Wrire the Do
 do Pragi. Poniżej znajdziecie garść najważniejszych informacji związanych z
 wydarzeniem.
 
+<!--truncate-->
+
 ## Krótki powrót do przeszłości
 
 Jako patron medialny nie mogło nas zabraknąć podczas zeszłorocznej edycji Write

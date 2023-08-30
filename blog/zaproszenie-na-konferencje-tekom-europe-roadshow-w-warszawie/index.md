@@ -13,6 +13,8 @@ coverImage: "Tekom_Warsaw.jpg"
 Kontynuujemy współpracę z tekom Polska. Już niedługo i Wy będziecie mogli
 nawiązać ją osobiście.
 
+<!--truncate-->
+
 Organizatorzy zbliżającej się konferencji serdecznie zapraszają. Przeczytajcie
 sami:
 

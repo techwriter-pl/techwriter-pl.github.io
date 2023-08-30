@@ -13,6 +13,8 @@ Od jakiegoś czasu jestem żywo zainteresowany darmowymi narzędziami, które mo
 być przydatne w pracy Technical Writera. Pokrótce chcę Wam przedstawić moje
 ostatnie znalezisko, [WriteMonkey](http://writemonkey.com/) w wersji 2.6.0.3.
 
+<!--truncate-->
+
 Jest to darmowa aplikacja
 [zenware](http://searchunifiedcommunications.techtarget.com/definition/zenware "zenware") do
 tworzenia tekstu, która stawia przede wszystkim na prostotę interfejsu, dzięki

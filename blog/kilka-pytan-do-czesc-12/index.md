@@ -15,6 +15,8 @@ stronę przez myśl nam nie przeszło, że może nas być aż tylu... Szczęśli
 dwunastkę zamyka Kasia Kołodziej, z którą wywiad publikujemy poniżej. I to od
 razu w dwóch językach!
 
+<!--truncate-->
+
 [Click here for English version and enjoy!](#english)
 
 ### Jak długo pracujesz jako Tech Writer?

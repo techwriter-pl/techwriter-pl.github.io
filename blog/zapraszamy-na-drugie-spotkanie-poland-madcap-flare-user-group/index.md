@@ -20,6 +20,8 @@ dobrą informację. Polska grupa użytkowników MadCap Flare, prowadzona przez
 [3di Poland](http://3di.com.pl), organizuje kolejne spotkanie, na które, jako
 oficjalny patron medialny, serdecznie zapraszamy.
 
+<!--truncate-->
+
 ## Kilka słów o grupie
 
 Poland MadCap Flare User Group tworzy miejsce, w którym

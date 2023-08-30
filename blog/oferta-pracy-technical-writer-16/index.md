@@ -12,6 +12,8 @@ coverImage: "avsystem_logo1.jpg"
 
 Technical Writer nadal poszukiwany w Krakowie.
 
+<!--truncate-->
+
 Firma [AVSystem](https://www.avsystem.com/), zajmująca się tworzeniem
 oprogramowania do masowego zarządzania urządzeniami, poszukuje Technical
 Writera, który wesprze jej ponad 80-osobowy zespół w pracy nad jednym z

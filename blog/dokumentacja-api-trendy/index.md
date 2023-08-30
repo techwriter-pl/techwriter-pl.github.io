@@ -13,6 +13,8 @@ coverImage: "API-e1582271331202.png"
 API nAPIera 😉 Czego się spodziewać i na czym wzorować tworząc tego typu
 dokumentację? Wygrzebaliśmy dla Was trochę przydatnych informacji.
 
+<!--truncate-->
+
 Jeśli nie zetknęliście się jeszcze z tematyką - nieskromnie polecamy
 [nasze wprowadzenie](http://techwriter.pl/dokumentacja-api-czesc-1-definicja-i-rodzaje-api/).
 

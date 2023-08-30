@@ -13,6 +13,8 @@ coverImage: "nobl9.png"
 
 Technical writer potrzebny od zaraz. Szczegóły oferty znajdziecie poniżej.
 
+<!--truncate-->
+
 [Nobl9](https://www.nobl9.com/), dzięki swojej platformie zapewniającej
 stabilność oprogramowania, pomaga programistom, praktykom DevOps i inżynierom
 ds. niezawodności dostarczać funkcje, które łączą monitorowanie, rejestrowanie i

@@ -20,6 +20,8 @@ umiejętności możecie znaleźć [tutaj](http://www.ratatype.com/typing-test/).
 Jeśli wolicie mocno skróconą wersję testu to zapraszamy
 [tutaj](http://www.ratatype.com/?start=1).
 
+<!--truncate-->
+
 Po uzyskaniu wyniku polecamy zapoznać się z
 [infografiką](http://www.ratatype.com/learn/average-typing-speed/), która
 przedstawia ciekawe fakty dotyczące m.in. przeciętnej prędkości pisania na

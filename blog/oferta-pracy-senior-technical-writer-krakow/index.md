@@ -13,6 +13,8 @@ coverImage: "mapp_logo.png"
 Zaprzyjaźniona firma szuka starszego techwritera... chętni do pracy nad "badass
 digital marketing platform"?
 
+<!--truncate-->
+
 Szczegóły oferty poniżej,
 [za LinkedIn, gdzie znajdziecie całość. Możecie tam również zaaplikować.](https://www.linkedin.com/jobs/view/1595408504/)
 

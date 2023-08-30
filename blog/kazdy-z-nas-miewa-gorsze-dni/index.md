@@ -14,6 +14,8 @@ coverImage: "man-857502_640.jpg"
 Nie mamy wątpliwości, że Technical Writer to jeden z najlepszych, o ile nie
 najlepszy, zawód na świecie.
 
+<!--truncate-->
+
 Potwierdzeniem tego może być raport przedstawiający 200 najlepszych zawodów w
 Stanach Zjednoczonych, przygotowywany co roku przez portal
 [CareerCast.com](http://www.careercast.com/). W 2015 roku nasza zacna profesja

@@ -13,6 +13,8 @@ coverImage: "soap_konkurs-1.png"
 Konferencja soap! 2019 zbliża się wielkimi krokami, więc najwyższy czas na
 konkurs.
 
+<!--truncate-->
+
 # Co trzeba zrobić?
 
 Zdefiniować krótko co według Ciebie oznacza **"Docs like code"**.

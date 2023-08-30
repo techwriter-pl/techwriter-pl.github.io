@@ -15,6 +15,8 @@ coverImage: "Konferencje-2019-7.png"
 Serdecznie Was zapraszamy na konferencję **TestWarez 2021**, którą objęliśmy
 patronatem. Poniżej najważniejsze informacje.
 
+<!--truncate-->
+
 Po rocznej przerwie spowodowanej pandemią do kalendarza wydarzeń IT wraca
 konferencja TestWarez, tym razem w formacie online.
 

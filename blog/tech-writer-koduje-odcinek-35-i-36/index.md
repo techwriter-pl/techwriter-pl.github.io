@@ -16,6 +16,8 @@ Special 2021_ to tytuły ostatnich odcinków podcastu
 [Tech Writer Koduje](https://techwriterkoduje.pl/). Poniżej zapraszamy na ich
 skrót.
 
+<!--truncate-->
+
 ### Odcinek #35
 
 Czy tech writer, który trochę koduje może kodować więcej? Jakie ma opcje rozwoju

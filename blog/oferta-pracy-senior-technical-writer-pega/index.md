@@ -13,6 +13,8 @@ coverImage: "pega_logo_horizontal_positive_rgb_small.png"
 Firma [Pegasystems](https://www.pega.com/), tworząca strategiczne aplikacje dla
 sprzedaży, marketingu i usług, ma dla Was kolejną ofertę.
 
+<!--truncate-->
+
 Tym razem, do krakowskiego zespołu dokumentacyjnego poszukiwany jest Senior
 Technical Writer. Oferta skierowana jest do osób z kilkuletnim doświadczeniem w
 komunikacji technicznej, które znają standard DITA i oprogramowanie oXygen XML.

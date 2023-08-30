@@ -14,6 +14,8 @@ W zeszłym roku, jako partner medialny, mieliśmy okazję uczestniczyć w 5. edy
 konferencji MadWorld w San Diego. Co tu dużo pisać - podobało nam się i to
 bardzo!
 
+<!--truncate-->
+
 Na dowód przedstawiamy
 [naszą relację z tego wydarzenia](http://techwriter.pl/madworld-2017-relacja/).
 W tym roku użytkownicy narzędzia MadCap Flare mają duże powody do radości.

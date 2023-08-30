@@ -1,11 +1,8 @@
 import { existsSync, readFileSync, writeFileSync } from "fs";
-import { join, dirname } from "path";
-import { fileURLToPath } from "url";
+import { join } from "path";
 import { XMLParser } from "fast-xml-parser";
 import { authorIds } from "./authorIds.mjs";
-
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = dirname(__filename);
+import { __dirname, blogPath } from "./helpers.mjs";
 
 const exportFilePath = join(__dirname, "../../export.xml");
 const exportFileContents = readFileSync(exportFilePath, "utf-8");
@@ -14,7 +11,6 @@ const parser = new XMLParser();
 const exportObject = parser.parse(exportFileContents);
 const posts = exportObject.rss.channel.item;
 
-const blogPath = join(__dirname, "../../blog");
 const postsWithAuthors = [];
 for (const post of posts) {
   const filePath = join(

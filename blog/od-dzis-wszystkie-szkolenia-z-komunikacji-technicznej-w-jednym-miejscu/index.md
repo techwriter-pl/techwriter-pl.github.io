@@ -14,6 +14,8 @@ coverImage: "SZKOLENIA.jpg"
 Witajcie, już za tydzień czwarte urodziny naszego portalu, z tej okazji mamy dla
 Was mały prezent. Spotrzegawczy być może już go zauważyli 😊
 
+<!--truncate-->
+
 Często pytacie nas o szkolenia z różnych obszarów komunikacji technicznej. Mamy
 szerokie kontakty i zazwyczaj możemy Was przekierować w odpowiednie miejsce, ale
 czy nie lepiej byłoby mieć wszystko dostępne od razu na wyciągnięcie myszki?

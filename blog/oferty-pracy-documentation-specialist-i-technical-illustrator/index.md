@@ -13,6 +13,8 @@ coverImage: "Etteplan_logo_RGB_150dpi.jpg"
 Witajcie po świątecznej przerwie! Jak brzuchy? Dziś dwie oferty pracy, od zająca
 😉. Z Wrocławia.
 
+<!--truncate-->
+
 Firma Etteplan nie pierwszy raz poszukuje pracowników. Tym razem na dwa różne
 stanowiska. Szczegóły poniżej.
 

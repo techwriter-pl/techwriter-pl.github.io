@@ -12,6 +12,8 @@ coverImage: "ksiazki.jpg"
 
 ...nawet strona polskich technical writerów. Kojarzycie skrót TCPIP?
 
+<!--truncate-->
+
 Pewnie tak, ale niekoniecznie z komunikacją techniczną, a raczej z protokołem
 (niedyplomatycznym). Tymczasem TCPIP to skrót od
 [Technical Communication Professionals in Poland.](http://tcpip.com.pl/) Warto

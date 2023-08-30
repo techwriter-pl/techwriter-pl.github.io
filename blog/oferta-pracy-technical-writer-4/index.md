@@ -14,6 +14,8 @@ Medius, szwedzka firma IT specjalizująca się w automatyzacji faktur, wciąż
 poszukuje Technical Writera do swojego oddziału R&D w Krakowie. Może to oferta
 właśnie dla Ciebie?
 
+<!--truncate-->
+
 Szczegóły oferty:
 
 > **Technical Writer**

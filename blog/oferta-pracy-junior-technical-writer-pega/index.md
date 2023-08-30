@@ -13,6 +13,8 @@ coverImage: "Pegasystems_logo-e1474374110381.png"
 Firma [Pegasystems](https://www.pega.com/), tworząca strategiczne aplikacje dla
 sprzedaży, marketingu i usług, ma dla Was ciekawą ofertę.
 
+<!--truncate-->
+
 Tym razem, do krakowskiego zespołu writerskiego poszukiwany jest Junior
 Technical Writer. Jest to oferta pracy na roczne zastępstwo. Pozycja będzie
 dostępna od grudnia 2017/stycznia 2018.

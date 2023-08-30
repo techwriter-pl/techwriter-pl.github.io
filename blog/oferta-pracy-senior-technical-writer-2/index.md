@@ -14,6 +14,8 @@ Firma [Spartez](https://spartez.com/) z siedzibą w Gdańsku, zajmująca się
 rozwijaniem produktów firmy [Atlassian](https://www.atlassian.com/), wciąż
 poszukuje doświadczonej osoby na stanowisko Senior Technical Writer.
 
+<!--truncate-->
+
 W ogłoszeniu widnieje stanowisko Technical Writer, ponieważ firma jest również
 otwarta na zatrudnienie mocnego kandydata z mniejszym doświadczeniem. Z tego też
 powodu podane są widełki płacowe zarówno dla specjalisty jak i starszego

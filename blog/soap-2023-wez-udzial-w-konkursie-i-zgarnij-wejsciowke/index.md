@@ -13,6 +13,8 @@ Kolejny raz mamy zaszczyt być patronem medialnym konferencji
 [soap!](https://soapconf.com/). W związku z tym wraz z organizatorami
 przygotowaliśmy dla Was konkurs. Szczegóły poniżej.
 
+<!--truncate-->
+
 Zasady są bardzo proste. Wystarczy wyczerpująco odpowiedzieć na pytanie:
 **„Dlaczego sztuczna inteligencja nie jest w stanie zastąpić technical
 writera?”** i przesłać ją do nas na adres: **kontakt@techwriter.pl**. Oczywiście

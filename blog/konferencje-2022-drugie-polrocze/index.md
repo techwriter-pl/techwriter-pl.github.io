@@ -16,6 +16,8 @@ Zbliża się druga połowa roku, więc najwyższa pora, by przekazać Wam listę
 branżowych konferencji. Zapraszam do zapoznania się z kalendarium na drugie
 półrocze 2022 roku.
 
+<!--truncate-->
+
 Powoli globalnie wychodzimy z obostrzeń związanych z pandemią, dlatego sporo
 konferencji powraca do tradycyjnej formy. Jednak sporo wydarzeń nadal odbędzie
 się w formacie online lub hybrydowym (online & in-person). Zwróćcie na to uwagę

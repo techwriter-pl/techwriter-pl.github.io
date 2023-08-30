@@ -17,6 +17,8 @@ Pod koniec maja pierwsi absolwenci studiów podyplomowych na kierunku Komunikacj
 Techniczna mogli z dumą odebrać swoje dyplomy. Oto podsumowanie drugiego
 semestru (i całego roku akademickiego).
 
+<!--truncate-->
+
 **Tu znowu Magda, do niedawna studentka, a dziś już absolwentka studiów
 podyplomowych kierunku**
 [**Komunikacja Techniczna**](https://www.vistula.edu.pl/kierunki-studiow/kontynuacja-edukacji/studia-podyplomowe/informatyka/komunikacja-techniczna)

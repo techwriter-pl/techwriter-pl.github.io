@@ -17,6 +17,8 @@ Dzisiaj po części kontynuujemy ten wątek, jednak postanowiliśmy poszerzyć t
 zakres poszukiwań. Tym razem skupiliśmy się na wątku dokumentacyjnym w wydaniu
 humorystycznym w jakiejkolwiek formie.
 
+<!--truncate-->
+
 ## Coś dla fanów humoru rysunkowego
 
 Społeczność

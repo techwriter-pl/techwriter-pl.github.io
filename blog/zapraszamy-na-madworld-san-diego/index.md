@@ -16,6 +16,8 @@ Tradycyjnie już zapraszamy Was do San Diego, gdzie wkrótce odbędzie się 6.
 edycja konferencji MadWorld. Czego się spodziewać? Jakie są ceny? Co szykują dla
 nas organizatorzy? Te i inne informacje na temat wydarzenia znajdziecie poniżej.
 
+<!--truncate-->
+
 ## Termin
 
 MadWorld San Diego odbędzie się w dniach 14-17 kwietnia 2019 roku w San Diego,

@@ -15,6 +15,8 @@ coverImage: "UA_Europe_2017_Logo_Square_150.png"
 Do kolejnej edycji konferencji UA Europe zostało już tylko kilka tygodni.
 Poniżej przypominamy najważniejsze informacje dotyczące tego wydarzenia.
 
+<!--truncate-->
+
 ## Termin i miejsce
 
 Konferencja UA Europe 2017 odbędzie się w dniach 8-9 czerwca 2017 roku w

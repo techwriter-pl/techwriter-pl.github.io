@@ -13,6 +13,8 @@ coverImage: "Genesis-Global-Logo-e1570441493957.jpg"
 A może nad morze? Trafiła do nas kolejna ciekawa oferta, raczej dla osoby z
 doświadczeniem. Branża "gamingowa" 😊
 
+<!--truncate-->
+
 Szczegóły poniżej, a
 [tutaj bezpośredni link gdzie możecie zgłosić swoje zainteresowanie ofertą](https://boards.greenhouse.io/genesisgloballimited/jobs/4465386002?gh_src=71512ac12).
 

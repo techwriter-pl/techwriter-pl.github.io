@@ -16,6 +16,8 @@ popularniejszą działką komunikacji technicznej. Jeśli chcecie rozwijać swoj
 umiejętności w tym obszarze, to na pewno zainteresują Was książki, które poleca
 autor tego wpisu gościnnego.
 
+<!--truncate-->
+
 # Kilka słów o autorze
 
 [![](images/waleksander-foto-300x200.jpg)](http://techwriter.pl/wp-content/uploads/2019/01/waleksander-foto.jpg)Wojtek

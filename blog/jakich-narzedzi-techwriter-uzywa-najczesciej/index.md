@@ -15,6 +15,8 @@ Ilustracja jest tylko po to, żebyście mogli sobie chwilkę pomarzyć...😊. A
 serio - mamy dla Was ranking najczęściej używanych w naszym fachu narzędzi.
 Sprawdź czego warto się nauczyć.
 
+<!--truncate-->
+
 Na stronie [ditawriter.com](http://www.ditawriter.com/) natknęliśmy się na
 [następujące zestawienie](http://www.ditawriter.com/which-tech-writing-tools-are-the-most-used/).
 

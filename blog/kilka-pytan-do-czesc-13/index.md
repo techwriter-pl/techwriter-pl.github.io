@@ -13,6 +13,8 @@ coverImage: "interview-905535_640.png"
 Szczęśliwa trzynastka przypada w udziale Vrejowi z Kanady, którego poznaliśmy w
 trakcie [MadWorld 2017](http://techwriter.pl/madworld-2017-relacja/).
 
+<!--truncate-->
+
 ### How long have you been working as a Tech Writer?
 
 About 11 years.

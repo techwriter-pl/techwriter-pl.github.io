@@ -14,6 +14,8 @@ Zapraszamy do przeczytania prawdopodobnie pierwszej i jedynej relacji z
 konferencji [soap!](http://www.soapconf.com/), która odbyła się 3 października w
 Krakowie.
 
+<!--truncate-->
+
 Trzeba przyznać, że już sam fakt organizacji w Krakowie konferencji na temat
 komunikacji technicznej był dużym zaskoczeniem i w tzw. „środowisku” został
 przyjęty niezwykle pozytywnie. Ku udręce naszych koleżanek i kolegów po fachu,

@@ -15,6 +15,8 @@ powinni trzymać się pewnych reguł. Dziś pierwszy z cyklu artykułów, które
 nadzieję, pomogą Wam utrzymać jak najwyższy poziom tekstów, a także sprawią, że
 pisanie nie będzie już takie straszne (dla niektórych) 😉.
 
+<!--truncate-->
+
 ## Cechy dobrej dokumentacji
 
 Dobra dokumentacja jest:

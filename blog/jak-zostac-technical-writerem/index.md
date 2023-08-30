@@ -15,6 +15,8 @@ w końcu znaleźć fajną pracę - oto artykuł idealny dla tej osoby! Jeżeli n
 znacie - oto artykuł dla Was. Co zrobić, aby rozpocząć pracę w
 [najlepszym zawodzie świata](http://techwriter.pl/mamy-najlepsza-prace-na-swiecie/)?
 
+<!--truncate-->
+
 Po pierwsze - trzeba chcieć! Chociaż, właściwie... można chyba zostać technical
 writerem przez przypadek. Tak, na pewno można. Znamy takie przypadki...
 Właściwie większość dokumentalistów jakich znamy znalazła się w tym zawodzie

@@ -17,6 +17,8 @@ Zapraszamy na kolejne spotkanie branżowe organizowane pod szyldem
 społeczności [MeetContent](http://meetcontent.org/), tworzonej przez
 specjalistów pracujących z szeroko pojętą treścią w branży IT.
 
+<!--truncate-->
+
 Społeczność powstała z inicjatywy organizatorów
 [konferencji soap!](http://soapconf.com/) i istnieje dzięki lokalnie
 organizowanym spotkaniom, podczas których uczestnicy dzielą się swoją wiedzą i

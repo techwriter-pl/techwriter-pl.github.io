@@ -17,6 +17,8 @@ który pracuje z narzędziem [Documentor](https://documentor.in/). Po krótkich
 namowach zgodził się opisać dla Was narzędzie do intuicyjnego i przejrzystego
 tworzenia dokumentacji z wykorzystaniem WordPress'a - dziękujemy!
 
+<!--truncate-->
+
 Documentor to plugin WordPressa pozwalający segregować zawartość naszej
 dokumentacji w przejrzystą strukturę przy użyciu sekcji, eksportować dokumenty
 do PDF, otrzymywać feedback od czytających, a nawet dodać opcje społecznościowe.

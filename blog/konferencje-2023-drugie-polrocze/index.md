@@ -16,6 +16,8 @@ Zbliża się druga połowa roku, więc najwyższa pora, by przekazać Wam listę
 branżowych konferencji. Zapraszam do zapoznania się z kalendarium na drugie
 półrocze 2023 roku.
 
+<!--truncate-->
+
 Jak zawsze, będę śledzić zmiany i uzupełniać dane w miarę ich pojawiania się. Do
 Was mam prośbę – jeśli wiecie o jakimś wydarzeniu związanym z branżą komunikacji
 technicznej, o którym nie wspomniałam, dajcie znać, a ja przekażę info dalej 😉

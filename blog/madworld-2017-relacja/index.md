@@ -17,6 +17,8 @@ Dzięki ogromnej sile woli, licznym poświęceniom i niebywałej determinacji u
 nam się dotrzeć do słonecznej Kalifornii, dlatego też mamy dla Was relację z
 pierwszej ręki.
 
+<!--truncate-->
+
 Konferencja rozpoczęła się w niedzielę (2 kwietnia). W ten dzień można było się
 zarejestrować, odwiedzić ekspertów od produktów MadCap
 w [Hospitality Lounge](#hospitality_lounge) i wziąć udział w przyjęciu

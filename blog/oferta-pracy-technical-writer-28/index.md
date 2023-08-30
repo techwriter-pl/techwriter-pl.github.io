@@ -12,6 +12,8 @@ coverImage: "Halton_logo.jpg"
 
 Tym razem oferta ze stolicy, ponownie 😊 Aplikować możecie do 28 marca.
 
+<!--truncate-->
+
 Szczegóły pod
 [linkiem](https://www.pracuj.pl/praca/technical-writer-warszawa,oferta,5919938)
 lub po kliknięciu w obrazek poniżej. Aplikować można również pisząc na

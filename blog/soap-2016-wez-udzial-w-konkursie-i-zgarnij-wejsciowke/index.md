@@ -14,6 +14,8 @@ Kolejny rok z rzędu mamy zaszczyt być patronem medialnym konferencji
 [soap!](http://soapconf.com/). W związku z tym wraz z organizatorami
 przygotowaliśmy dla Was konkurs.
 
+<!--truncate-->
+
 Zasady są bardzo proste. Wystarczy napisać artykuł na temat **"Dlaczego warto
 zostać Tech Writerem?"** i przesłać go do nas na adres:
 **kontakt@techwriter.pl**.

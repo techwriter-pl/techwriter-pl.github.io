@@ -14,6 +14,8 @@ Wygląda na to, że rynek ofert pracy dla Technical Writerów ma się całkiem
 dobrze. Dzisiaj mamy dla Was kolejną ciekawą propozycję, tym razem z Górnego
 Śląska.
 
+<!--truncate-->
+
 Firma [Diebold Nixdorf](https://www.dieboldnixdorf.com/en-us), czołowy producent
 bankomatów i systemów obsługi płatności w Europie i na świecie, poszukuje
 doświadczonego Technical Writera do swojego katowickiego oddziału. Mile widziana

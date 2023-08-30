@@ -14,6 +14,8 @@ Tuż przed zakończeniem roku wpadła do nas kolejna oferta pracy od
 firmy [Pegasystems](https://www.pega.com/), tworzącej strategiczne aplikacje dla
 sprzedaży, marketingu i usług.
 
+<!--truncate-->
+
 Zespół writerski w Krakowie, który od dłuższego czasu prężnie się rozwija, szuka
 kolejnego pracownika. Tym razem firma chce dać szansę mniej doświadczonym
 kandydatom, dlatego wystarczy tylko rok doświadczenia w branży, żeby móc ubiegać

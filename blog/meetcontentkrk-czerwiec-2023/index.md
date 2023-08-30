@@ -14,6 +14,8 @@ coverImage: "meetcontentkrk_czerwiec_2023.png"
 Za nami pierwsza edycja MeetContent Kraków, która odbyła się po pandemii.
 Poniżej kilka słów podsumowania oraz zapowiedź tego co czeka nas w czerwcu.
 
+<!--truncate-->
+
 Po dłuższej przerwie, MeetContentKRK powrócił z nowymi tematami i przestrzenią,
 w której wszyscy entuzjaści contentu mogą wymieniać się doświadczeniami i
 pomysłami.

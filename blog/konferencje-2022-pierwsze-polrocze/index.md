@@ -18,6 +18,8 @@ Za nami początek 2022 roku, więc najwyższa pora, by przekazać Wam listę now
 terminów branżowych konferencji. Zapraszam do zapoznania się z kalendarium na
 pierwsze półrocze.
 
+<!--truncate-->
+
 Podobnie jak w ostatnim roku, większość wydarzeń odbędzie się online lub w
 formacie hybrydowym (online & in-person). Zwróćcie jednak uwagę, że sporo
 wydarzeń będzie organizowanych tylko stacjonarnie.

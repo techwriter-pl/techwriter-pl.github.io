@@ -14,6 +14,8 @@ Szef naszego szefa buja w obłokach jak zwykle, ale dodatkowo założył profil 
 Facebook'u i chce oglądać wykresy na tablecie... brzmi znajomo? To tzw. _SMAC
 effect_...
 
+<!--truncate-->
+
 Większość firm (nie tylko IT) oszalało na punkcie czterech słów:
 
 - Social

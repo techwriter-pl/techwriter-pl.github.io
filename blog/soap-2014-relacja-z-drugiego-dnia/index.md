@@ -18,6 +18,8 @@ przebierać w tematach. Niestety nie byliśmy w stanie uczestniczyć we wszystki
 prezentacjach, dlatego przedstawiamy skrótowo tylko niektóre z nich.
 [![noz2ndday](images/noz2ndday.jpg)](http://techwriter.pl/wp-content/uploads/2014/10/noz2ndday.jpg)
 
+<!--truncate-->
+
 ## Zaufanie przede wszystkim
 
 I to nie tylko w związku. [Rahel Ann Bailie](http://soapconf.com/speakers/)

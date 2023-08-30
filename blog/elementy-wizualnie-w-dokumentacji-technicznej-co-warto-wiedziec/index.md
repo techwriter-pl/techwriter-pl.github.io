@@ -20,6 +20,8 @@ odbiorców lub pomóc im utrzymać koncentrację? Jak to wszystko rozsądnie zro
 o czym warto pamiętać? Na te wszystkie pytania postaramy  się  odpowiedzieć w
 tym artykule!
 
+<!--truncate-->
+
 ## Gdzie, ile i jakich ilustracji używać?
 
 Wszystko zależy od tematu, branży i grupy docelowej. Poprawne umieszczanie

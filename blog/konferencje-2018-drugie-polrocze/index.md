@@ -17,6 +17,8 @@ coverImage: "ian-schneider-66374-unsplash-e1528143818928.jpg"
 Coraz bliżej drugie półrocze 2018 roku zatem nadszedł czas, by przedstawić Wam
 zaplanowane na ten czas konferencje.
 
+<!--truncate-->
+
 ## Czerwiec (uzupełnienie)
 
 15-16 czerwca, Dieburg, Niemcy –

@@ -12,6 +12,8 @@ coverImage: "open_e.png"
 
 Content Specialist pilnie poszukiwany! Zainteresowani? Szczegóły poniżej.
 
+<!--truncate-->
+
 [Open-E](https://www.open-e.com/) to międzynarodowa firma zajmująca się rozwojem
 oprogramowania do zarządzania pamięciami masowymi. Poniższa oferta skierowana
 jest do osób, które chciałyby wspomóc dział marketingu w polskim oddziale firmy,

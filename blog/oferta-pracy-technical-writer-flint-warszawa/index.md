@@ -13,6 +13,8 @@ coverImage: "flint.jpg"
 Poszukiwany doświadczony techwriter! Oferowane wynagrodzenie: 11000 – 13000
 netto + VAT B2B.
 
+<!--truncate-->
+
 Jeżeli sieci komputerowe brzmią dla Was ciekawie to być może zechcecie zarzucić
 sieci na poniższą okazję.
 [Oryginalne ogłoszenie znajdziecie na stronie pracodawcy](https://apply.flint-international.com/vacancies/vacancy-technical-writer-161963-31.html).

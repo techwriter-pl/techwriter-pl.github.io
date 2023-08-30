@@ -17,6 +17,8 @@ człowieka maszyną, o czym wspominaliśmy jakiś czas temu w jednych z
 [artykułów](http://techwriter.pl/dokumentacja-techniczna-w-przyszlosci/), ale
 ogólna tendencja w produkcji oprogramowania.
 
+<!--truncate-->
+
 Na jednym z naszych ulubionych blogów
 [I'd Rather Be Writing](http://idratherbewriting.com/) pojawił się niedawno
 [wpis](http://idratherbewriting.com/2014/06/03/the-future-of-tech-comm-is-developer-doc/)

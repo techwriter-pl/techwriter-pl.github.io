@@ -14,6 +14,8 @@ Już za kilka tygodni odbędzie się długo oczekiwana krakowska konferencja soa
 Jeśli wciąż zastanawiacie się czy warto się na nią wybrać, poniżej znajdziecie
 garść najważniejszych informacji dotyczących wydarzenia. Może to Was przekona 😉
 
+<!--truncate-->
+
 ### Najważniejsze informacje
 
 Tegoroczna edycja soap! odbędzie się w dniach **2-3 czerwca**. Tym razem czeka

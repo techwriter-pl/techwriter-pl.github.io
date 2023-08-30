@@ -23,6 +23,8 @@ WYSIWYG, szablony, wbudowane narzędzie do robienia zrzutów ekranu, style oraz
 budowanie dokumentacji na podstawie określonych warunków. Poniżej możecie
 obejrzeć krótki filmik promujący aplikację.
 
+<!--truncate-->
+
 <iframe src="https://www.youtube.com/embed/OO7xKNYXP78?feature=player_embedded" width={640} height={360} frameBorder={0} allowFullScreen="allowFullScreen" />
 
 Jak każdy szanujący się HAT, Helpinator wspiera również generowanie dokumentacji

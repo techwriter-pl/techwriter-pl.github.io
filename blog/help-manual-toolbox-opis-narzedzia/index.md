@@ -16,6 +16,8 @@ sporo możliwości. Jakiś czas temu opisywaliśmy to
 szukają dodatkowych funkcji proponujemy zapoznanie się z aplikacją Help & Manual
 Toolbox.
 
+<!--truncate-->
+
 Jest to narzędzie stworzone przez producenta Help and Manuala, firmę EC
 Software. Jednak próżno go szukać na
 [stronie programu](http://www.helpandmanual.com). Żeby ściągnąć Toolbox, trzeba

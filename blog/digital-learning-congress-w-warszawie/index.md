@@ -16,6 +16,8 @@ Rzadko (zbyt rzadko?) piszemy o e-learningu - a temat to wielce zajmujący.
 Jeżeli chcecie wkręcić się w tę dziedzinę, to niedługo nadarza się świetna
 okazja. 24 października, na Stadionie Narodowym w Warszawie.
 
+<!--truncate-->
+
 Październik obfituje w
 [konferencje bezpośrednio związane z komunikacją techniczną](http://techwriter.pl/konferencje-2014-drugie-polrocze/),
 ale ta jest tak blisko, że warto jej poświęcić osobny wpis. Na początek oddajmy

@@ -16,6 +16,8 @@ terrier, hulajnoga, kawa i selfie w toalecie? Na pierwszy rzut oka wydaje się,
 [soap!](http://soapconf.com/) doskonale wiedzą o co chodzi. Dalsza część
 artykułu powinna Wam dać odpowiedź skąd się wziął ten zagadkowy zestaw.
 
+<!--truncate-->
+
 soap! 2014 odbywał się w siedzibie [hub:raum](https://www.hubraum.com/), która
 mieści się przy ul. Przemysłowej 12 w Krakowie. Jest to budynek dawnej fabryki
 kabli, który został zaadaptowany na przestrzenie biurowe. W związku z tym panuje

@@ -14,6 +14,8 @@ Our soapy friends were kind enough to prepare an English version of
 [the day 1 summary](http://techwriter.pl/soap-2014-relacja-z-pierwszego-dnia/)
 that we published some time ago. Enjoy!
 
+<!--truncate-->
+
 After our general summary, it’s time to get down to the nitty-gritty. Today we
 are providing you with a short overview of the presentations that were delivered
 during the first day of [the soap! 2014 conference](http://soapconf.com/).

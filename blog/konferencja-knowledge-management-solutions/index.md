@@ -15,6 +15,8 @@ Jeszcze nie zakończyła się konferencja [soap!](http://soapconf.com/), a tu j
 zbliża się następne ciekawe wydarzenie. Tym razem w Warszawie, 29 października i
 do tego za darmo!
 
+<!--truncate-->
+
 Zarządzanie wiedzą nie ogranicza się do komunikacji technicznej, ale
 zdecydowanie ma z nią wiele wspólnego. Dlatego zdecydowanie polecamy rozważenie
 udziału w zbliżającej się konferencji

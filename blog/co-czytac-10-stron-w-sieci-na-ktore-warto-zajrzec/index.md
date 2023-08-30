@@ -14,6 +14,8 @@ w jej bezmiarze materiały, dzięki którym możecie zdobyć cenne informacje,
 podszlifować warsztat, czy wzbogacić język, który jest przecież narzędziem pracy
 Technical Writera.
 
+<!--truncate-->
+
 Strony internetowe, blogi, recenzje książek, prezentacje Power Point online,
 magazyny online i pewnie dużo, dużo więcej. Pośród tego ogromu wybraliśmy dziś
 dla Was najciekawsze, naszym zdaniem, strony internetowe.

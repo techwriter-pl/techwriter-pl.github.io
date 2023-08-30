@@ -13,6 +13,8 @@ coverImage: "Akamai_logo_big.jpg"
 W dzisiejszych czasach trudniej znaleźć firmę od której więcej zależy.
 Słyszeliśmy też, że wiele można się tam nauczyć!
 
+<!--truncate-->
+
 Nie tylko zaawansowane usługi dostarczania i zabezpieczania treści w internecie,
 ale również codzienna komunikacja, edukacja i praca polegają na systemach
 Akamai. Nic dziwnego że szukają dodatkowych rąk do pracy, również w obszarze

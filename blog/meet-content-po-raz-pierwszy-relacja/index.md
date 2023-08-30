@@ -17,6 +17,8 @@ coverImage: "diy-usability-testing-presentation-e1458820562993.jpg"
 [**Meet Content**](http://soapconf.com/meet-content/). Zapraszamy na krótką
 relację z tego wydarzenia.
 
+<!--truncate-->
+
 Na początku przypomnijmy o co chodzi.
 [**Meet Content**](http://soapconf.com/meet-content/) jest cyklem spotkań,
 wykładów, warsztatów oraz szkoleń dotyczących treści w branży IT, stworzony

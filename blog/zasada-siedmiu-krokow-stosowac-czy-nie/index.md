@@ -13,6 +13,8 @@ W świecie technical writingu od dawna stosowana jest reguła siedmiu kroków,
 zwłaszcza w pisaniu procedur. Zastanowimy się dziś czy ta praktyka jest nadal
 godna polecenia.
 
+<!--truncate-->
+
 [Zasada](https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two "Liczba 7"),
 o której mowa, wywodzi się z koncepcji psychologicznej, stworzonej przez
 George’a Millera w 1956 roku. Udowodnił on w swych badaniach nad zapamiętywaniem

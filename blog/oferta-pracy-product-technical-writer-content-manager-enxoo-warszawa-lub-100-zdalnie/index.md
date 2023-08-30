@@ -15,6 +15,8 @@ coverImage: "enxoo.png"
 Mamy dla Was kolejną ofertę pracy, tym razem na stanowisko Product Technical
 Writer/ Content Manager. Szczegóły, jak zawsze, poniżej.
 
+<!--truncate-->
+
 [Enxoo](https://enxoo.com/) dostarcza unikalne i innowacyjne rozwiązania
 transformacji cyfrowej dla branży telekomunikacyjnej, szczególnie dostosowane do
 potrzeb międzynarodowych dostawców usług hurtowych, FTTH i Enterprise B2B. Od

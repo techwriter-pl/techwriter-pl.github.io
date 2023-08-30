@@ -15,6 +15,8 @@ We wrześniu 2019 odbyła się kolejna edycja konferencji
 **Rafał Pawlicki** - podzielił się z nami swoimi wrażeniami, za co jesteśmy mu
 bardzo wdzięczni!
 
+<!--truncate-->
+
 Miałem okazję uczestniczyć w tym wydarzeniu, które zgromadziło około 300 osób z
 całego Świata. Wszyscy ci ludzie, chcąc powymieniać się wiedzą, pojawili się w
 tym roku w Pradze (Czechy). Techwriter.pl, jak co roku, był partnerem medialnym

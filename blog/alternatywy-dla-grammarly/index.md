@@ -17,6 +17,8 @@ Nic nas tak nie cieszy jak wpisy gościnne od naszych czytelników. A kiedy
 powodują, że inni też chcą coś napisać i opublikować na naszym portalu, tym
 większe mamy powody do radości.
 
+<!--truncate-->
+
 Tak było w tym wypadku. Sunny Agarwal natrafił na
 [poprzedni wpis gościnny jednego z naszych sympatyków](http://techwriter.pl/darmowe-narzedzia-do-sprawdzania-tekstu/),
 który publikowaliśmy kilka miesięcy temu i poczuł chęć kontyunowania tematu

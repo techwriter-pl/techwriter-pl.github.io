@@ -13,6 +13,8 @@ coverImage: "money-256282_640-e1481055653138.jpg"
 Dzisiaj po raz kolejny postaramy się Wam podpowiedzieć skąd możecie czerpać
 wiedzę o zarobkach Technical Writerów.
 
+<!--truncate-->
+
 ## Wynagrodzenia.pl
 
 Jednym z pierwszych miejsc, które kojarzy się z informacjami o zarobkach jest

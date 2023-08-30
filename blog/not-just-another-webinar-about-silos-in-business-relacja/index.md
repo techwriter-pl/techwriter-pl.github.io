@@ -27,6 +27,8 @@ ciekawymi przykładami i podsumowując radami, które rzeczywiście można wdro�
 jest właśnie przełamywanie utartych zakresów kompetencji i pokonywanie przepaści
 pomiędzy działami w różnego rodzaju organizacjach.
 
+<!--truncate-->
+
 ## Silosy w biznesie
 
 Na początku swojej prezentacji Noz opisał typowe problemy wynikające z izolacji

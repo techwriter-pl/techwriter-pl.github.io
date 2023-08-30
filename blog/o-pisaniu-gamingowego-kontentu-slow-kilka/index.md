@@ -11,6 +11,8 @@ coverImage: "minecraft-wiki.jpg"
 Opuszczamy nasze swojskie poletko, żeglując trochę w stronę copywritingu i
 publicystyki specjalistycznej.
 
+<!--truncate-->
+
 Te dziedziny coraz częściej się przenikają i zamierzamy zgłębić ich wzajemne
 relacje. Zjawisko to odnosi się do szeroko rozumianego gamingu i ten obszar
 bierzemy pod lupę jako pierwszy.

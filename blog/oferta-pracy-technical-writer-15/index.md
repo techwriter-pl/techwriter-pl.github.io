@@ -14,6 +14,8 @@ W tym roku, sytuacja na rynku pracy zdecydowanie sprzyja Technical Writerom, i
 to nie tylko tym z Krakowa. Dzisiaj mamy dla Was łakomy kąsek z
 południowo-zachodniej Polski.
 
+<!--truncate-->
+
 Firma [Unit4](http://www.unit4.com), globalny dostawca oprogramowania
 biznesowego dla dużych przedsiębiorstw, poszukuje Technical Writera do swojego
 biura we Wrocławiu. Jeśli macie doświadczenie w tworzeniu dokumentacji do

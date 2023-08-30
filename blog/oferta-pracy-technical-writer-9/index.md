@@ -14,6 +14,8 @@ Dawno nie było oferty z Krakowa. Ta jest bardzo konkretna. Nordic Semiconductor
 Poland jest oddziałem norweskiej firmy projektującej i produkującej układy
 półprzewodnikowe dla niskomocowych sieci bezprzewodowych.
 
+<!--truncate-->
+
 Pomimo mocnej pozycji na rynku, wciąż stawiamy sobie nowe cele, które
 ukierunkowane są na zdobycie pozycji lidera. Jako pierwsi na świecie
 wprowadziliśmy na rynek układ scalony z radiem Bluetooth Smart i rdzeniem ARM

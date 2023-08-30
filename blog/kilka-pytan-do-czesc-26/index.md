@@ -16,6 +16,8 @@ odpowiada Piotr Sroka, który ma już dość spory staż w zawodzie technical
 writera. Jak to się wszystko zaczęło i czy po czasie warto było obrać taką
 karierę? Zapraszamy poniżej.
 
+<!--truncate-->
+
 ### 1\. Jak długo pracujesz jako technical writer?
 
 W styczniu tego roku świętowałem 10 rocznicę pracy w zawodzie i mieszkania w

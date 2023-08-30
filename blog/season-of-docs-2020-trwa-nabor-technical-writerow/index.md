@@ -16,6 +16,8 @@ Ruszyła druga edycja inicjatywy Google
 jest rozwój otwartego oprogramowania. Wy także możecie się przy okazji rozwinąć
 😉 Poniżej znajdziecie najistotniejsze informacje.
 
+<!--truncate-->
+
 ### Czym jest Season of Docs?
 
 Jest to program stworzony przez Google, którego pierwsza edycja odbyła się w

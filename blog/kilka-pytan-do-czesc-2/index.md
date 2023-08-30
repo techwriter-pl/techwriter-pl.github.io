@@ -13,6 +13,8 @@ coverImage: "HIS.jpg"
 Przed Wami kolejny wywiad i kolejny potencjalny kolega na całe życie - Marcin -
 cztery lata w zawodzie, zna wiele narzędzi i nie zrzędzi. Zapraszamy do lektury.
 
+<!--truncate-->
+
 ### Jak długo pracujesz jako Tech Writer?
 
 Ponad 4 lata.

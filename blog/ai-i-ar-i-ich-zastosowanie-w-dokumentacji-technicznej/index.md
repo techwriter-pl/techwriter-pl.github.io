@@ -18,6 +18,8 @@ coverImage: "AI-i-AR.png"
 Dziś mierzymy się z szerokim i bardzo ciekawym zagadnieniem jakim są nowoczesne
 technologie. Zapraszamy!
 
+<!--truncate-->
+
 Coraz częściej mówi się o  automatyzacji procesów, której celem jest szukanie
 wyższej efektywności poprzez ich digitalizację. Rzeczywistość rozszerzona i
 sztuczna inteligencja stają się coraz bardziej powszechne w naszym codziennym

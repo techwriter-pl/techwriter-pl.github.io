@@ -13,6 +13,8 @@ coverImage: "peppershaker-e1424725523734.jpg"
 Dzisiaj o swojej przygodzie z tworzeniem dokumentacji opowiada Piotrek. Życzymy
 przyjemnej lektury.
 
+<!--truncate-->
+
 ### Jak długo pracujesz jako Tech Writer?
 
 1 rok.

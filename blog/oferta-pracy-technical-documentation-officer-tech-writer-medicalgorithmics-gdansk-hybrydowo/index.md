@@ -12,6 +12,8 @@ coverImage: "MedicalAlgorithmics_logo.jpg"
 Dziś oferta z branży MedTech. Dobrze, że są w Polsce takie firmy. Jeszcze
 lepiej, że mają oferty pracy dla takich jak my 😊
 
+<!--truncate-->
+
 [Medicalgorithmics](https://www.medicalgorithmics.pl/) to polska firma, tworząca
 m.in. rozwiązania technologiczne dla kardiologii i telemedycyny. Na filmie
 poniżej możecie zobaczyć jakie technologie wykorzystuje w swoich projektach:

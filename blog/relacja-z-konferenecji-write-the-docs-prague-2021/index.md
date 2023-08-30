@@ -15,6 +15,8 @@ Na początku października odbyła się kolejna edycja dobrze już znanej konfer
 mogło na niej zabraknąć przedstawicieli [techwriter.pl](http://techwriter.pl/).
 Zapraszamy na relację!
 
+<!--truncate-->
+
 Pandemia zmieniła nasze funkcjonowanie, wpłynęła na sposób organizowania
 wydarzeń społecznych, naszą pracę i życie. Przeniesienie spotkań do sieci było
 dużym wyznawaniem, nie tylko pod względem organizacji, ale i próby odtworzenia

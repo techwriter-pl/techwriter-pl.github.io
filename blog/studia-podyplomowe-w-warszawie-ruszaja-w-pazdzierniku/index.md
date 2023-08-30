@@ -15,6 +15,8 @@ Zainteresowanie jest spore, wśród wykładowców praktycy rozpoznawalni w bran�
 organizatorom udało się uzyskać wsparcie firm dostarczających popularne
 narzędzia. Trzymamy kciuki!
 
+<!--truncate-->
+
 Nie jest to pierwsze podejście do tematu, o studiach w Warszawie pisaliśmy już
 kilkukrotnie,
 [ostatnio we wrześniu](http://techwriter.pl/studia-dla-techwriterow-aktualizacja/).

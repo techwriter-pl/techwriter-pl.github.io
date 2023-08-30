@@ -15,6 +15,8 @@ powtarzając zazwyczaj te same czynności: włączasz komputer, idziesz na kawę
 rozmawiasz o czymkolwiek ze współpracownikami, sprawdzasz maile, planujesz
 dzień, piszesz, chodzisz na spotkania, piszesz…Jednak czy się rozwijasz?
 
+<!--truncate-->
+
 Czy codzienne pisanie tekstów w pracy poprawia Twoją kreatywność, rozwija
 warsztat, sprawia, że poznajesz nowe techniki czy narzędzia? Z własnego
 doświadczenia i rozmów z wieloma osobami pracującymi minimum kilka lat mamy

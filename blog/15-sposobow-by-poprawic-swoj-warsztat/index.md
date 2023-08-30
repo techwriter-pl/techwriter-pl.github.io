@@ -13,6 +13,8 @@ coverImage: "15_sposobow.png"
 Czy chcesz poznać wskazówki, które pomogą Ci poprawić swój technicalwriterski
 warsztat? Jeśli tak, to zapraszam do zapoznania się z poniższym artykułem.
 
+<!--truncate-->
+
 To nie jest pierwszy tekst na temat tego, jak pisać lepsze treści związane z
 dokumentacją. Zdaję sobie jednak sprawę, że nie wszystkim chce się przeszukiwać
 nasze, niemałe już zasoby. Poza tym świat, który nas otacza, a wraz z nim i

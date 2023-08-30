@@ -13,6 +13,8 @@ coverImage: "Facebook.jpg"
 Dostaliście rózgę? Czy wręcz przeciwnie - byliście grzeczni, pracowici i
 uśmiechnięci? Redakcja techwriter.pl w prezencie mikołajkowym otrzymała...
 
+<!--truncate-->
+
 [Swój własny profil (fanpage) na Facebook'u (po polsku fanostron 😉)](http://www.facebook.com/TechWriterPl).
 
 A na dokładkę - [konto na Twitter'ze](http://twitter.com/techwriterpl).

@@ -12,6 +12,8 @@ coverImage: "BNY_logo-02-e1461880870151.png"
 
 Po krótkim pobycie na wybrzeżu, przenosimy się do południowo-zachodniej Polski.
 
+<!--truncate-->
+
 Tym razem mamy dla Was coś z Wrocławia. Firma
 [BNY Mellon](https://www.bnymellon.com/emea/en/home.jsp), globalny lider w
 dziedzinie usług inwestycyjnych i zarządzania inwestycjami, poszukuje dwóch

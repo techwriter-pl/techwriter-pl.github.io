@@ -16,6 +16,8 @@ Nie lubicie poniedziałków? Pogoda za oknem zachęca tylko do pracy, a praca
 zniechęca? Ktoś nastąpił Wam na odcisk? Chcielibyście unicestwić całą planetę?
 Zanim zaczniecie - zapoznajcie się z instrukcją obsługi...
 
+<!--truncate-->
+
 Rozwiązanie wszystkich problemów (głównie dla fanów Gwiezdnych Wojen - my akurat
 należymy do tej grupy) jest proste:
 [Gwiazda Śmierci](http://pl.wikipedia.org/wiki/Gwiazda_%C5%9Amierci).

@@ -17,6 +17,8 @@ wiedzy z zakresu tech commu, mamy nie lada gratkę dla elektronicznych moli
 książkowych. Szykujcie czytniki, laptopy i telefony, bo będziecie mieli nad czym
 spędzić wolny czas.
 
+<!--truncate-->
+
 ## Sarah O'Keefe i spółka
 
 Czyli [Scriptorium Publishing](http://www.scriptorium.com/). Firma składająca

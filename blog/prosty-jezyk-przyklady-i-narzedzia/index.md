@@ -27,6 +27,8 @@ Pisanie prostym językiem może zatem oszczędzić nam czas i pieniądze. Pomoż
 również zastosować przekazane informacje oraz ocalić drzewa 😊. Co jeszcze
 możemy zyskać dzięki korzystaniu z dobrodziejstw prostego języka?
 
+<!--truncate-->
+
 ## Jak pisanie prostym językiem ułatwia życie społeczeństwu
 
 Gdy czytamy teksty urzędowe lub naukowe często tracimy sporo czasu na

@@ -13,6 +13,8 @@ coverImage: "luggage-1032998_640-2.jpg"
 Wkrótce kolejne półrocze 2016 roku zatem nadszedł czas, by przedstawić Wam
 zaplanowane na ten czas konferencje.
 
+<!--truncate-->
+
 Jednocześnie przypominamy o możliwości zapisu na niektóre
 [konferencje z pierwszej połowy roku](http://techwriter.pl/konferencje-2016-pierwsze-polrocze/).
 Czerwiec blisko, więc czasu już nie ma zbyt wiele.

@@ -18,7 +18,7 @@ const popularFilters: PopularFilterProps[] = [
 
 export default function BlogPostItems(props): JSX.Element {
   return (
-    <>
+    <div className={styles.wrapper}>
       <div className={styles.background}>
         <div className={styles.filterRow}>
           <b>Popularne tagi:</b>
@@ -30,6 +30,6 @@ export default function BlogPostItems(props): JSX.Element {
         <div></div>
       </div>
       <OriginalBlogPostItems {...props} />
-    </>
+    </div>
   );
 }

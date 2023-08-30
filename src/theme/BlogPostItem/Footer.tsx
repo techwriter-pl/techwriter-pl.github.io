@@ -4,12 +4,15 @@ import { useBlogPost } from "@docusaurus/theme-common/internal";
 import DisqusEmbed from "@site/src/components/DisqusEmbed";
 
 export default function Footer() {
-  const { metadata } = useBlogPost();
+  const { metadata, isBlogPostPage } = useBlogPost();
   const { title, date, permalink } = metadata;
+
   return (
     <>
       <OriginalBlogPostFooter />
-      <DisqusEmbed title={title} id={date} relativeUrl={permalink} />
+      {isBlogPostPage && (
+        <DisqusEmbed title={title} id={date} relativeUrl={permalink} />
+      )}
     </>
   );
 }

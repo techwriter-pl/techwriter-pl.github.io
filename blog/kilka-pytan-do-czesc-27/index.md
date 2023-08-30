@@ -15,6 +15,8 @@ coverImage: "kilka_pytan_do_27.png"
 Mamy dla Was kolejną odsłonę cyklu Kilka pytań do... Kto tym razem odpowiada na
 nasze pytania? Szczegóły poniżej.
 
+<!--truncate-->
+
 Anna Wójcicka wygrała nasz konkurs o wejściówkę na soap! 2022 i udzieliła
 wyczerpujących odpowiedzi na nasze pytania. W branży jest od niedawna, a dzięki
 temu patrzy świeżym okiem na to co się dzieje. Usiądźcie wygodnie i

@@ -14,6 +14,8 @@ Znacie program Word i wiecie jak go używać? Jesteście w mniejszości, prawda?
 jakiś czas przychodzi do Was ktoś, komu znów "rozjechał się dokument"? A gdyby
 tak przestał przychodzić?
 
+<!--truncate-->
+
 Tak, jesteś w stanie to zrobić. Nawet jeśli to wyjątkowy BUC (Bardzo Uprzejmy
 Człowiek). Użyj fortelu.
 

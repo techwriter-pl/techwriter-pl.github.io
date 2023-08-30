@@ -12,6 +12,8 @@ coverImage: "atlassian.png"
 
 Dziś kolejna ciekawa oferta pracy dla Technical Writera! Szczegóły poniżej.
 
+<!--truncate-->
+
 Gdański oddział Atlassiana poszukuje samodzielnego technical writera, który
 dołączy do szybko rozwijającego się zespołu. Rekrutacja jest zdalna, praca z
 domu lub z biura. Naszym zdaniem nie powinniście się długo zastanawiać. Co macie

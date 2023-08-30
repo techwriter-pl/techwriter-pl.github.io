@@ -21,6 +21,8 @@ zasad tworzenia efektywnej pomocy dla użytkownika. Zachęcamy do lektury i do
 rozważenia - może zechcecie wybrać się na tę konferencję? Do zobaczenia w
 Harrogate!
 
+<!--truncate-->
+
 # Seven Golden Rules of User Assistance Design for 2017
 
 Matthew Ellison for techwriter.pl

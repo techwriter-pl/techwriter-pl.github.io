@@ -15,6 +15,8 @@ ankieta dotycząca umiejscowienia zespołu odpowiedzialnego za komunikację
 techniczną w ramach organizacji-matki. A może ojca? Nieważne. Zagłosujcie,
 pokażcie gdzie jesteście i sprawdźcie gdzie są inni.
 
+<!--truncate-->
+
 A przede wszystkim napiszcie nam w komentarzach 😊.
 
 Aktualne wyniki ankiety opublikowanej miesiąc temu wyglądają tak:

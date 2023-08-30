@@ -17,6 +17,8 @@ czasu. Jedni chcą wtedy po prostu cieszyć się chwilą, ale inni wolą ten cza
 spożytkować na naukę obsługi nowych narzędzi do tworzenia dokumentacji
 [Help Authoring Tools](http://en.wikipedia.org/w/index.php?title=Help_authoring_tool).
 
+<!--truncate-->
+
 Pierwszym, najbardziej oczywistym pytaniem, które nam się nasuwa to: "Które
 narzędzie warto poznać?". Jednak, według nas, drugim pytaniem jakie powinniśmy
 zadać jest: "Czy w ogóle warto inwestować swój czas w poznawanie narzędzi do

@@ -15,6 +15,8 @@ konferencji [Write the Docs](http://www.writethedocs.org/conf/eu/2016/), która
 odbyła się w Pradze w dniach 18-20 września. Zapraszamy na naszą relację z tego
 wydarzenia.
 
+<!--truncate-->
+
 ## Zwiedzanie i pisanie (niedziela)
 
 Klimat konferencji to nie tylko prelekcje, networking i przyjęcia. To także samo

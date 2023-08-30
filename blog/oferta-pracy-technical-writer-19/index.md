@@ -12,6 +12,8 @@ coverImage: "softjourn_logo.png"
 
 Jeśli szukacie pracy na Dolnym Śląsku, to ta oferta może Was zainteresować.
 
+<!--truncate-->
+
 Firma [Softjourn](https://softjourn.com/en), dostarczająca usługi rozwoju
 oprogramowania (software development services), poszukuje Technical Writera do
 swojego biura we Wrocławiu. Więcej szczegółów na temat tego pracodawcy możecie

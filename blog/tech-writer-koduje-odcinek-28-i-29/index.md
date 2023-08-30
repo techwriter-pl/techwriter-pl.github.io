@@ -20,6 +20,8 @@ W najnowszych odcinkach podcastu
 kodowania oraz dobrych praktykach, jakie powinien znać każdy kodujący Technical
 Writer. Zapraszamy na skrót odcinków: 28 i 29.
 
+<!--truncate-->
+
 ### Odcinek 28
 
 W

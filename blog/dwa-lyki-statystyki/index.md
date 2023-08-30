@@ -15,6 +15,8 @@ coverImage: "a_the.png"
 Dziś kilka słów o... słowach. Czy zastanawialiście się kiedyś których słów
 używacie najczęściej podczas pisania?
 
+<!--truncate-->
+
 Jakiś czas temu namawialiśmy Was do sprawdzenia
 [jak szybko piszecie na klawiaturze](http://techwriter.pl/umiesz-pisac/). Dziś
 spróbujemy odgadnąć co piszecie. Zakładając, że w większości są to anglojęzyczne

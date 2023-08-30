@@ -14,6 +14,8 @@ Nasz zespół redakcyjny niestrudzenie poszukuje nowych narzędzi, które mogły
 ulżyć ciężkiej doli Technical Writerów. Dzisiaj proponujemy program, który może
 być szczególnie przydatny twórcom długich, rozbudowanych dokumentów.
 
+<!--truncate-->
+
 ## **Hello Word!**
 
 **Chyba najbardziej podstawowym narzędziem w pracy Technical Writera jest

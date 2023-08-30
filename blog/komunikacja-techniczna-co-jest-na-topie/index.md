@@ -14,6 +14,8 @@ W czasach zarazy można usiąść z filiżanką kawy lub zimnego piwa i obserwow
 się dzieje u sąsiada w ogrodzie lub obejrzeć film, albo... sprawdzić najnowsze
 trendy w branży.
 
+<!--truncate-->
+
 Zadbaliśmy o to drugie, pierwszym musicie się zając sami. Dbając o Waszą higienę
 umysłu, polecamy **podsumowanie roku 2019 – „THE STATE OF TECHNICAL
 COMMUNICATION”,** który znajdziecie

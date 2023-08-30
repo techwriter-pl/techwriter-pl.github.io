@@ -16,6 +16,8 @@ Zapraszamy na skrót z ostatnich odcinków podcastu
 rozważań na temat podobieństw i różnic między kodowaniem a pisaniem
 dokumentacji. Odcinek 42 to podsumowanie tegorocznej konferencji soap!
 
+<!--truncate-->
+
 ### Odcinek 41
 
 W tym podcaście Michał i Paweł rozmawiają o tym czy pisanie dokumentacji i

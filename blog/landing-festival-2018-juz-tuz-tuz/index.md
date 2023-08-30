@@ -18,6 +18,8 @@ Dużymi krokami nadchodzi połowa marca, a wraz z nią Landing Festival 2018 w
 Berlinie. Jeśli ktoś z Was jeszcze nie słyszał o tym wydarzeniu zapraszamy
 poniżej.
 
+<!--truncate-->
+
 ### Najważniejsze informacje w skrócie
 
 Landing Festival 2018 to targi pracy połączone z licznymi prelekcjami oraz

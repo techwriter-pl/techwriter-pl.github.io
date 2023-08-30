@@ -17,6 +17,8 @@ ekspertami, od których uzyskuje informacje potrzebne do napisania dokumentacji.
 A czy sam, będąc ekspertem w swojej dziedzinie, może dzielić się swą wiedzą z
 innymi? Postaram się dziś odpowiedzieć na to pytanie.
 
+<!--truncate-->
+
 Temat eksperta (z ang. Subject Matter Expert, SME) w pracy technical writera
 poruszyłam jakiś czas temu w [tym tekście](http://techwriter.pl/kim-jest-sme/).
 Wyjaśniłam w nim kim jest SME oraz co zrobić, by współpraca z nim/z nią była

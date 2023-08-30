@@ -15,6 +15,8 @@ Jakiś czas temu
 [informowaliśmy Was o tej konferencji](http://techwriter.pl/konferencja-knowledge-management-solutions/),
 dziś krótka relacja i wrażenia z punktu widzenia uczestnika.
 
+<!--truncate-->
+
 Na początek, z kronikarskiego obowiązku, kilka informacji organizacyjnych:
 
 - Czas: **29 października** **2014**, 9:30-13:00

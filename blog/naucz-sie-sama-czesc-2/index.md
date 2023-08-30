@@ -16,6 +16,8 @@ coverImage: "ksiazki.jpg"
 Skąd czerpać wiedzę o komunikacji technicznej? Prezentujemy kolejną ciekawą
 propozycję kształcenia w modelu Adama Słodowego. I mojka.
 
+<!--truncate-->
+
 Ostatnimi czasy zacząłem wgryzać się w temat samodokształcania w dziedzinie
 Technical Writingu. Jak już zostało ustalone, kursów, które mogłyby rozwinąć
 naszą wiedzę w tej materii jest jak na lekarstwo (albo ja słabo szukałem). Poza

@@ -17,6 +17,8 @@ coverImage: "upload_408.png"
 Zapraszam do zapoznania się z darmowym webinarem firmy Tech Smith na temat
 komunikacji wizualnej.
 
+<!--truncate-->
+
 [![](images/upload_409-300x80.png)](http://techwriter.pl/wp-content/uploads/2021/09/upload_409.png)
 
 ## Temat

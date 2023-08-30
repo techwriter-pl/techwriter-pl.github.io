@@ -16,6 +16,8 @@ mają pracę? Mówiąc bardzo ogólnie, dzięki rozwojowi technologicznemu. Myś
 sobie, dla nas pracy nigdy nie zabraknie, a popyt na specjalistów w naszej
 dziedzinie będzie się tylko zwiększał. A może jednak się mylimy?
 
+<!--truncate-->
+
 ![The Economist](images/economist.jpg)
 
 Przeprowadzono badania amerykańskiego rynku pracy pod kątem wpływu

@@ -13,6 +13,8 @@ coverImage: "XTRF_logo-kolor_700x410px.png"
 Liczba ofert pracy dla dokumentalistów rośnie w oczach. Dzisiaj mamy dla Was
 kolejną propozycję.
 
+<!--truncate-->
+
 Firma [XTRF](https://www.xtrf.eu/), zajmująca się tworzeniem narzędzi do
 zarządzania procesami w branży tłumaczeniowej i lokalizacyjnej, poszukuje do
 swojego oddziału w Krakowie Tech Writera. Oferta skierowana jest do osób z

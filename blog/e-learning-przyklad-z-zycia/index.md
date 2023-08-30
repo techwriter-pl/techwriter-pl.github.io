@@ -16,6 +16,8 @@ coverImage: "elearning.jpg"
 Zbyt rzadko wspominamy o szkoleniach, będących ważną odmianą komunikacji
 technicznej. Dziś naprawiamy ten błąd.
 
+<!--truncate-->
+
 W kryzysowych czasach wszystkie szkoły,
 [uczelnie](https://www.gov.pl/web/nauka/ksztalcenie-zdalne-na-uczelniach) i
 firmy szkoleniowe płynnie, często w ciągu jednego dnia, przeszły ze szkoleń

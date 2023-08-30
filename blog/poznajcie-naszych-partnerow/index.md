@@ -15,6 +15,8 @@ Ten rok zapowiada się dla nas pracowicie pod względem patronatów medialnych. 
 jest to dla nas tylko i wyłącznie powód do radości, bo to oznacza, że branża
 komunikacji technicznej na świecie ma się całkiem dobrze.
 
+<!--truncate-->
+
 Poniżej przedstawiamy zestawienie konferencji, nad którymi mamy przyjemność
 sprawować patronat medialny w 2018 roku. Dla ułatwienia ustawiliśmy je w
 porządku chronologicznym. Poniższe zestawienie to tylko ogólny zarys tego co nas

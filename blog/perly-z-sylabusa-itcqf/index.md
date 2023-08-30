@@ -19,6 +19,8 @@ W dzisiejszym artykule znajdziecie kilka perełek pochodzących z
 wraz z komentarzami na ich temat. Liczę, że po ich przeczytaniu zechcecie
 sięgnąć po cały tekst źródłowy 😉.
 
+<!--truncate-->
+
 Czytanie dokumentacji nie stanowi zbyt częstej i pasjonującej lektury.
 Najczęściej sięgamy po nią dopiero wtedy, gdy problem z obsługą okazuje się
 znaczny i, mimo wrodzonej intuicji połączonej z niebywałą inteligencją, nie

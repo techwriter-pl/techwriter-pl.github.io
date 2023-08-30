@@ -19,6 +19,8 @@ Sporo czasu upłynęło od naszego
 sprawdzonych miejsc w Internecie dla Technical Writerów. Postanowiłam odświeżyć
 dla Was ten temat, by sprawdzić co nowego w sieci piszczy 😉
 
+<!--truncate-->
+
 ### Blogi
 
 [I’d rather be writing](https://idratherbewriting.com/) - jeden z

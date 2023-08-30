@@ -13,6 +13,8 @@ coverImage: "atlassian_logo.png"
 Dziś oferta znad morza, zdecydowanie warta rozważenia. Ciekawe informacje, nawet
 dla tych z Was którzy nie myślą aktualnie o zmianie pracy.
 
+<!--truncate-->
+
 Właściwą ofertę i możliwość bezpośredniego aplikowania znajdziecie poniżej oraz
 na
 [stronie firmy](https://www.atlassian.com/company/careers/detail/20cf0aba-a344-4762-9914-d89d1afdee85).

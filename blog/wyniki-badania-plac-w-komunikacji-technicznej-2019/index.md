@@ -17,6 +17,8 @@ pensje w różnych województwach? Jak na wynagrodzenie wpływa doświadczenie?
 Przeprowadziliśmy kolejne badanie płac w branży komunikacji technicznej. Oto
 jego wyniki.
 
+<!--truncate-->
+
 ## Porównanie z poprzednimi latami
 
 Wyniki poprzednich badań znajdziecie tu:

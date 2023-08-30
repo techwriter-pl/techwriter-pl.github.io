@@ -14,6 +14,8 @@ Mamy dla Was kolejną ciekawą propozycję pracy. Tym razem poszukiwany jest kto
 na stanowisko Senior Documentation Engineer. Niezbędne informacje znajdziecie
 poniżej.
 
+<!--truncate-->
+
 [Etteplan](https://www.etteplan.com/) to dynamicznie rozwijająca się firma
 zajmująca się usługami technologicznymi. Specjalizuje się w rozwiązaniach z
 zakresu oprogramowania i dokumentacji wbudowanej, inżynierskiej i technicznej.

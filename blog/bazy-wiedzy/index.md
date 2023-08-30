@@ -16,6 +16,8 @@ coverImage: "BazyWiedzy.jpg"
 Czym zajmują się technical writerzy? Budują m.in. knowledge base. A czym zajmują
 się bazy wiedzy? I czym właściwie są?
 
+<!--truncate-->
+
 Rozpoczęlibyśmy tradycyjnie od
 [definicji z Wikipedii](http://en.wikipedia.org/wiki/Knowledge_base), ale ona
 nam się nie podoba... spróbujmy więc zdefiniować własną:

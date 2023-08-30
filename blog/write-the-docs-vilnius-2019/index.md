@@ -16,6 +16,8 @@ zdecydowaliśmy się wziąć udział w **Write the Docs Vilnius 2019**. Choć sa
 format jest już dość popularny, to po raz pierwszy wydarzenie zostało
 zorganizowane w stolicy Litwy.
 
+<!--truncate-->
+
 Wydarzenie trwało dwa dni w malowniczym Wilnie, na kampusie SMK University of
 Applied Social Sciences i odbyło się w dniach 2-3 czerwca 2019. Było zatem dużo
 czasu, aby rozwijać się profesjonalnie i podróżniczo. Ale po kolei!

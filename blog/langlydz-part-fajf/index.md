@@ -14,6 +14,8 @@ Jak fiksować ale nie sfiksować i dlaczego kanselowanie jest lepsze od
 postponowania, czyli ciąg dalszy opowieści o isiusach i kejsach. W kontekście
 floł.
 
+<!--truncate-->
+
 W [poprzedniej części naszego cyklu](http://techwriter.pl/langlydz-part-folur/)
 dogłębnie wytłumaczyliśmy pojęcie isiu (będziemy się upierać, że w wielu firmach
 isiu jest niemal synonimem kejsa). Co zatem dzieje się z takim isiu, kiedy już

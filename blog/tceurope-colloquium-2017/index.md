@@ -15,6 +15,8 @@ dotyczącą naszej branży. Tym razem chodzi o dość niszowe TCeurope Colloquiu
 2017, którego hasłem przewodnim jest: _Technical Communication at a Crossroads:
 New tools, career paths and changes._
 
+<!--truncate-->
+
 ### Słów kilka o organizatorze
 
 Organizatorem TCeurope Colloquium 2017 jest

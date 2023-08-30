@@ -14,6 +14,8 @@ Firma [Seargin](https://seargin.com/pl/), specjalizująca się w dostarczaniu
 swoim klientom profesjonalnych zespołów IT w oparciu o różne modele współpracy,
 poszukuje kandydatów na stanowisko Technical Writer do Katowic.
 
+<!--truncate-->
+
 Klientem końcowym jest globalna firma z branży automotive. Widełki przewidziane
 dla tego stanowiska to 5000-8000 brutto w zależności od doświadczenia.
 

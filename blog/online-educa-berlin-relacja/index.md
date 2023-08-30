@@ -16,6 +16,8 @@ polskich uczestników konferencji
 [Online Educa Berlin](http://www.online-educa.com/),
 [Szymona Serwatki](http://pl.linkedin.com/in/szymonserwatka/).
 
+<!--truncate-->
+
 **ONLINE EDUCA BERLIN** jest największą na świecie konferencją poświęconą
 technologiom wspierającym nauczanie i kształcenie zawodowe w oświacie, biznesie
 i sektorze publicznym. W dniach 5-6 grudnia 2013, w 19 edycji konferencji wzięło

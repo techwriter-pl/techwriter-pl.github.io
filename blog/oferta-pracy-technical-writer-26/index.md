@@ -13,6 +13,8 @@ coverImage: "IT-Hunters.jpg"
 Sezon ogórkowy na rynku pracy dla Technical Writerów nie istnieje. Tym razem
 mamy dla Was ofertę z Warszawy. Uwaga, wymagana nienaganna... polszczyzna!
 
+<!--truncate-->
+
 IT hunters to agencja rekrutacyjna, która poszukuje Technical Writera dla
 swojego Klienta – firmy, która jest oficjalnym rejestratorem domen. Więcej
 szczegółów oraz możliwość aplikowania po kliknięciu w obrazek poniżej lub

@@ -13,6 +13,8 @@ coverImage: "Syncron-Logo_RGB_no-Reg2.png"
 [Syncron](https://www.syncron.com/) szuka Technical Writera do pracy w
 Warszawie.
 
+<!--truncate-->
+
 Dużym plusem u kandydatów jest znajomość standardów takich jak DITA i
 reStructuredText, oraz platformy Confluence.
 

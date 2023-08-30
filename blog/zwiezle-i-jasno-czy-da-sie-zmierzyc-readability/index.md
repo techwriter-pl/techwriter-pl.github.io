@@ -14,6 +14,8 @@ Dziś to, co lubimy najbardziej, czyli artykuł naszej czytelniczki. Dzięki
 Joannie dowiecie się, jak pisać czytelniej i bardziej zrozumiale. Nie tylko po
 angielsku.
 
+<!--truncate-->
+
 Być może są odbiorcy, którzy czytają wytwory "techwritera" tak jak kryminał:
 strona po stronie, od deski do deski. Ale można ich policzyć na palcach jednej
 ręki. Typowy użytkownik  sięga po tekst wtedy, kiedy sam nie może się domyślić

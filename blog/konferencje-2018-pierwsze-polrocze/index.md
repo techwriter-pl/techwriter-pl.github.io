@@ -17,6 +17,8 @@ Nowy Rok coraz bliżej a wraz z nim całkiem sporo okazji, by wybrać się na
 branżową konferencję. Zapraszamy do zapoznania się z kalendarium na pierwsze
 półrocze 2018 roku.
 
+<!--truncate-->
+
 ## Styczeń
 
 11-13 stycznia, San Diego, Kalifornia, USA – [IC4E 2018](http://www.ic4e.net/)

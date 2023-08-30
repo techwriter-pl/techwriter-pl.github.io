@@ -15,6 +15,8 @@ coverImage: "meetcontent_styczen.png"
 Po sukcesie grudniowego spotkania, organizatorzy MeetContent Wrocław zapraszają
 na kolejną edycję. Najważniejsze informacje znajdziecie poniżej.
 
+<!--truncate-->
+
 ### Kilka słów o organizatorach
 
 Dla przypomnienia garść informacji i organizatorach i samym przedsięwzięciu.

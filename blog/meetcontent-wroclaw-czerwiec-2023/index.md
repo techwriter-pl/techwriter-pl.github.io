@@ -14,6 +14,8 @@ Dziś mam dla Was zapowiedź ostatniego przed wakacjami meetupu zorganizowanego
 przez społeczność MeetContent Wrocław. Poniżej znajdziecie też podsumowanie
 tego, co działo się podczas majowego spotkania. Zapraszam!
 
+<!--truncate-->
+
 W maju spotkaliśmy się w siedzibie firmy **Ten Square Games**. Temat był
 arcyciekawy, bo dotyczył lokalizacji gier komputerowych.
 

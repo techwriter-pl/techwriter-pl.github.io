@@ -13,6 +13,8 @@ coverImage: "Wywiad_21.png"
 
 Pora na kolejny, już 21 odcinek, cyklu _Kilka pytań do_.
 
+<!--truncate-->
+
 Naszym gościem jest dziś Abigail Sutherland, Information Architect z działu NAV
 w firmie TomTom. Urodziła się w Stanach Zjednoczonych, mieszkała przez 15 lat w
 Szkocji, obecnie przebywa w Holandii. W ramach swojej roli w TomTomie uczy

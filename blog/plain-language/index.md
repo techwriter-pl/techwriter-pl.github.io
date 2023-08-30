@@ -16,6 +16,8 @@ również ta z niepełnosprawnością intelektualną. Jak podaje
 15% światowej populacji cierpi na jakiś rodzaj niepełnosprawności. Dlaczego o
 tym wspominamy?
 
+<!--truncate-->
+
 Tworząc dokumentację powinniśmy pamiętać, że ludzie miewają problemy ze
 zrozumieniem czytanej treści z różnych powodów. Mogą do nich należeć zaburzenia
 zdolności poznawczych, niskie wykształcenie, problemy ze wzrokiem, czy czytanie

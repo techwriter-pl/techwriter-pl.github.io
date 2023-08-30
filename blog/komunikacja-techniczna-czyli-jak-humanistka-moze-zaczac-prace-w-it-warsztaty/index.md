@@ -16,6 +16,8 @@ coverImage: "Warsztaty_AKM.png"
 Już 9 listopada w Krakowie odbędą się ciekawe warsztaty związane z komunikacją
 techniczną. Szczegóły poniżej.
 
+<!--truncate-->
+
 ### O wydarzeniu
 
 Warsztaty _Komunikacja techniczna, czyli jak humanistka może zacząć pracę w IT_

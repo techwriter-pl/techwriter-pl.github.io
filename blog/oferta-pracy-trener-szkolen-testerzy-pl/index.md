@@ -14,6 +14,8 @@ coverImage: "Konferencje-2019-11.png"
 Ciekawa oferta dla doświadczonych technical writerów, którzy mają ochotę
 podzielić się wiedzą z innymi.
 
+<!--truncate-->
+
 [testerzy.pl](https://testerzy.pl/) to marka należąca do
 [Grupy 21CN](http://21cn.pl/). Oferuje ona usługi oraz szkolenia z obszaru
 testowania oprogramowania. Poniższa oferta powstała w ramach współpracy z

@@ -12,6 +12,8 @@ coverImage: "diebold_nixdorf_logo.jpeg"
 
 Dzisiaj mamy dla Was ciekawą propozycję z Górnego Śląska.
 
+<!--truncate-->
+
 Firma [Diebold Nixdorf](https://www.dieboldnixdorf.com/en-us), czołowy producent
 bankomatów i systemów obsługi płatności w Europie i na świecie, poszukuje
 doświadczonego Technical Writera do swojego katowickiego oddziału. Mile widziana

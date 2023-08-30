@@ -13,6 +13,8 @@ coverImage: "infolet-logo.png"
 Firma [Infolet](http://infolet.pl/), zajmująca się outsourcingiem IT, poszukuje
 Technical Writera do swojego biura w Krakowie.
 
+<!--truncate-->
+
 Jest to oferta skierowana do osób posiadających minimum trzy lata doświadczenia
 w branży komunikacji technicznej. Mile widziana jest znajomość narzędzia MadCap
 Flare lub Adobe RoboHelp. Widełki przewidziane na tym stanowisku są zróżnicowane

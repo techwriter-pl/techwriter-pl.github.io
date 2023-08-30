@@ -15,6 +15,8 @@ Umiecie odpowiednio posortować wyprane ubrania? Jeśli tak, to prawdopodobnie
 umiecie też pisać dokumentację. Brzmi dość dziwnie, jednak okazuje się, że te
 dwa procesy mogą mieć ze sobą wiele wspólnego.
 
+<!--truncate-->
+
 Niedawno [Tom Johnson](http://idratherbewriting.com/aboutme/), autor blogu
 [I'd Rather Be Writing](http://idratherbewriting.com/), otrzymał pytanie od
 swojego czytelnika dotyczące tworzenia dokumentacji od zera. Przez ostatnie

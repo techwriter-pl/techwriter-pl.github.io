@@ -13,6 +13,8 @@ coverImage: "SoftwarePlant.jpg"
 Dynamicznie rozwijająca się polska firma sprzedaje swoje produkty na całym
 świecie.
 
+<!--truncate-->
+
 Wymagane minimum roczne doświadczenie na podobnym stanowisku, duża samodzielność
 w działaniu oraz kreatywność. Tę dokumentację czyta i ogląda ponad 15 000
 użytkowników miesięcznie z takich firm jak Netflix, NASA, Tesla, Apple, Intel i

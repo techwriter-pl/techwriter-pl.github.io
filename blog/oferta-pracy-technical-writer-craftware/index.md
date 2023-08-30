@@ -12,6 +12,8 @@ coverImage: "logo_z_claim.png"
 
 Nie zwalniamy tempa. Tym razem oferta ze stolicy.
 
+<!--truncate-->
+
 [Craftware](https://craftware.pl/), konsultingowy software house i platynowy
 partner Salesforce, poszukuje Technical Writera. Oferta skierowana jest do osób
 z minimum rocznym doświadczeniem w tworzeniu dokumentacji funkcjonalnej i

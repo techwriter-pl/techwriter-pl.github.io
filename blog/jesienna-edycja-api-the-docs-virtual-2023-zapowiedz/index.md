@@ -18,6 +18,8 @@ Co prawda do października jeszcze sporo czasu, ale już teraz informujemy Was, 
 rusza wtedy kolejna edycja cyklu wirtualnych spotkań związanych z dokumentacją
 API i doświadczeniami w pracy programisty. Szczegóły poniżej.
 
+<!--truncate-->
+
 ## O konferencji
 
 [API The Docs](https://apithedocs.org/) zostało zainicjowane kilka lat temu i

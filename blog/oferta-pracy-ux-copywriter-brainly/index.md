@@ -12,6 +12,8 @@ coverImage: "PL-nauczyciele-4-400x225.jpg"
 
 Dzisiaj mamy dla Was nietuzinkową ofertę.
 
+<!--truncate-->
+
 [Brainly.pl](https://brainly.pl/), edukacyjny serwis społecznościowy typu Q&A,
 służący do wzajemnej pomocy uczniowskiej, poszukuje UX Copywritera do swojego
 biura w Krakowie. Jeśli termin "UX copywriting" brzmi intrygująco i

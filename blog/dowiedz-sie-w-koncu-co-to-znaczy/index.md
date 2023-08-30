@@ -15,6 +15,8 @@ narzędzi wykorzystywanych w naszej pracy i zarazem dowód na to, że dobry
 techwriter używa łaciny nie tylko wtedy kiedy zawiesi mu się komputer. Ale co to
 właściwie znaczy?
 
+<!--truncate-->
+
 Fragment ten pochodzi z traktatu "O granicach dobra i zła" Cycerona i ma ponad
 2000 lat! Cyceron, wbrew nazwie, nie był biuściastym erotomanem, tylko rzymskim
 mówcą i politykiem. Chociaż kto go tam wie, właściwie jedno nie stoi w

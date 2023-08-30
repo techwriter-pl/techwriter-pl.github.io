@@ -29,6 +29,8 @@ związane z Technical Writingiem. Co prawda zostały wydane w języku angielskim
 ale nie zmienia to faktu, że takie publikacje są czymś unikalnym w naszym kraju.
 Poniżej przedstawiamy trochę informacji na ich temat.
 
+<!--truncate-->
+
 ### Technical writing in English : Language and editing guidelines.
 
 **Streszczenie:** Skrypt ten przeznaczony jest głównie dla studentów i

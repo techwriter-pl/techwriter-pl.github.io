@@ -13,6 +13,8 @@ coverImage: "soap_konkurs.png"
 Konferencja soap! 2022 zbliża się wielkimi krokami, więc najwyższy czas na
 konkurs. **Co trzeba zrobić?**
 
+<!--truncate-->
+
 Uzasadnij dlaczego to właśnie z Tobą powinniśmy przeprowadzić
 [wywiad](http://techwriter.pl/category/warsztat/wywiady/) w ramach naszego
 cyklu, który ukaże się na łamach [Techwriter.pl](http://techwriter.pl/).

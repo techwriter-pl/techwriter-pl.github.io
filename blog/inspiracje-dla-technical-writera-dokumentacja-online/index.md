@@ -14,6 +14,8 @@ coverImage: "inspiracje_doc_online.png"
 Dziś mamy dla Was kilka konkretnych przykładów dokumentacji online, w ramach
 poszerzania horyzontów 😊
 
+<!--truncate-->
+
 Globalizacja, rozwój technologiczny, a ostatnio pandemia sprawiły, że ludzka
 aktywność przeniosła się w dużej mierze do Internetu. To tu pracujemy, szukamy
 rozrywki, inspiracji, kontaktu z innymi użytkownikami, a także szeroko

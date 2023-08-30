@@ -19,6 +19,8 @@ pojętej treści nabiera rozpędu. Jeszcze nie opadł kurz po
 a już mamy dla Was kolejną propozycję na spędzenie wolnego czasu w towarzystwie
 koleżanek i kolegów po fachu.
 
+<!--truncate-->
+
 Tym razem MeetContent wkracza na teren Dolnego Śląska. Już niebawem we Wrocławiu
 odbędzie się spotkanie inaugurujące cały cykl. Będzie ono miało inny format od
 tego, do którego przyzwyczailiśmy się w Krakowie. Zamiast prezentacji tworzącej

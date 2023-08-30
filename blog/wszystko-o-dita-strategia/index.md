@@ -19,6 +19,8 @@ znalezienie czegoś w języku polskim jest dość trudne. Chcąc zmienić ten st
 rzeczy, postanowiliśmy stworzyć dla Was niniejsze kompendium wiedzy o tym
 standardzie.
 
+<!--truncate-->
+
 Jeżeli zabierasz się właśnie do pracy w tym standardzie, w jednej ręce dzierżysz
 edytor, w drugiej CMSa, a w głowie przewijają się treści, coraz dokładniej
 poukładane w topiki, zatrzymaj się na chwilę weź głęboki oddech . Zanim

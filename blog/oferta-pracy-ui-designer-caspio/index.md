@@ -14,6 +14,8 @@ Mogło umknąć Waszej uwadze, że w 2017 roku na krakowskim rynku pojawiła si�
 firma [Caspio](https://www.caspio.com/), która dostarcza platformę do tworzenia
 aplikacji bez kodowania.
 
+<!--truncate-->
+
 Firma stopniowo buduje nowe zespoły i obecnie poszukuje doświadczonego UI
 Designera. Osoba ta będzie częścią zespołu produktowego, w którym znajdują się
 już menedżerowie produktu, UX designerzy i specjaliści od dokumentacji

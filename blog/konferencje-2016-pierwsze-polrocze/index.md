@@ -17,6 +17,8 @@ teraz jest najlepszy czas, by zgłosić chęć udziału i przekonać szefa, że 
 właśnie w ten sposób najlepiej podniesiecie swoje kwalifikacje w technical
 writingu.
 
+<!--truncate-->
+
 ## Styczeń
 
 9-10 stycznia, Penang, Malezja - [IC4E 2016](http://www.ic4e.net/ "IC4E")

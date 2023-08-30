@@ -9,4 +9,6 @@ tags:
 
 Taki żart:
 
+<!--truncate-->
+
 Informatycy informują.

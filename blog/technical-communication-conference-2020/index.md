@@ -13,6 +13,8 @@ coverImage: "tech_com_conf.png"
 Trafiliśmy ostatnio na ciekawie zapowiadające się wydarzenie online. Szczegóły
 poniżej.
 
+<!--truncate-->
+
 Organizatorami konferencji jest firma
 [SoftServe](https://www.softserveinc.com/en-us/) oraz
 [społeczność ekspertów z branży komunikacji technicznej](https://www.facebook.com/SoftServeTechComm/)

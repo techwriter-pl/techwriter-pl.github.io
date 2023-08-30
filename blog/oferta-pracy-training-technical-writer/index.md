@@ -13,6 +13,8 @@ coverImage: "linkgroup_logo.png"
 Tydzień kończymy ofertą z Katowic. Otrzymaliśmy ją od firmy rekrutacyjnej, która
 szuka kandydatów do pracy w międzynarodowej firmie.
 
+<!--truncate-->
+
 Główne Wymagania to minimum  3 lata doświadczenia na podobnym stanowisku oraz
 ukończone studia licencjackie/ magisterskie. Pracodawca oferuje 9-10 tys. brutto
 na umowę o pracę.

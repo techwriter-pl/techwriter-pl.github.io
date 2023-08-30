@@ -13,6 +13,8 @@ coverImage: "Screenshot-2023-03-15-at-20.27.41.png"
 A może treśtegia? Wbrew pozorom temat jest poważny. Przeczytaj co to jest
 content strategy i dlaczego musisz ją mieć.
 
+<!--truncate-->
+
 Na początek spróbujmy odpowiedzieć na pytanie, kto i kiedy potrzebuje strategii
 zarządzania treścią?
 

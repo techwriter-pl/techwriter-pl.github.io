@@ -15,6 +15,8 @@ Dziś na chwilę wrócimy do podstaw. Szczególnie, że mamy okazję podać je w
 przyswajalnej formie. Obejrzyjcie i posłuchajcie na czym polega praca
 techwritera.
 
+<!--truncate-->
+
 Nie zajmie Wam to więcej niż pół godzinki.
 
 Część pierwsza:

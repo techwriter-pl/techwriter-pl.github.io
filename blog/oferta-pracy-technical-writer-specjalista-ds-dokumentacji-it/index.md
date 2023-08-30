@@ -13,6 +13,8 @@ coverImage: "INTEGERPL.jpg"
 Zbliżają się wakacje, a wraz z nimi ożywienie na rynku pracy, szczególnie w
 Krakowie. Po urlopie nie zawsze trzeba wracać do tej samej firmy 😉
 
+<!--truncate-->
+
 Szczegółowe informacje poniżej, albo bezpośrednio u źródła:
 
 [http://panel.talentbridge.pl/podglad/918/Technical-Writer--Specjalista-ds--dokumentacji.html](http://panel.talentbridge.pl/podglad/918/Technical-Writer--Specjalista-ds--dokumentacji.html)

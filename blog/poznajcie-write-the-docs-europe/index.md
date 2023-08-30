@@ -17,6 +17,8 @@ tym, że w tym roku przypadł nam zaszczyt sprawowania patronatu medialnego nad
 europejską edycją [Write the Docs](http://www.writethedocs.org/conf/eu/2016/),
 chcielibyśmy Wam o niej trochę opowiedzieć.
 
+<!--truncate-->
+
 ## Historia konferencji
 
 Trzech facetów: [Eric Holscher](https://twitter.com/ericholscher) - programista

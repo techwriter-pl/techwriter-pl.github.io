@@ -15,6 +15,8 @@ złożone. Odmieniać je przez liczby i przypadki. Nadawać im wielorakie znacze
 I wbrew pozorom nie mamy tu na myśli wulgaryzmów. Poznajcie jedno z takich
 słów - kluczy.
 
+<!--truncate-->
+
 **Isiu** \[od ang. _issue_\] (w liczbie mnogiej - **isiusy**) - znacie kultowe
 powiedzenie
 "[Houston, we have a problem](http://en.wiktionary.org/wiki/Houston,_we_have_a_problem)"?

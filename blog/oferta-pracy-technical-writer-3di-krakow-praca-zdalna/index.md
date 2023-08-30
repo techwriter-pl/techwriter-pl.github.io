@@ -13,6 +13,8 @@ coverImage: "3di_logo.png"
 Oferta z opcją pracy zdalnej, również w niepełnym wymiarze godzin! Ciekawa opcja
 dla freelancerów.
 
+<!--truncate-->
+
 [3di](https://3di-info.com/) to firma, która specjalizuje się w dokumentacji
 technicznej, tłumaczeniach i lokalizacji. Dobre miejsce aby nauczyć się
 najlepszych praktyk w naszym fachu i rozwinąć swoje umiejętności. Aktualnie

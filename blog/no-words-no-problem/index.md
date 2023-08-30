@@ -16,6 +16,8 @@ Słowa to główne narzędzie techwritera. Obrazki, tabele, diagramy zazwyczaj
 wspomagają nasze instrukcje, ale to słowem techwriter "atakuje" przede
 wszystkim.
 
+<!--truncate-->
+
 Ciekawy eksperyment przeprowadzili twórcy
 [Text Free Browsing](https://chrome.google.com/webstore/detail/text-free-browsing/ioglfbphilinnhdmfbmfljmhemegfcdg "Text Free Browsing"), wtyczki
 do przeglądarki Chrome, która usuwa cały tekst ze stron internetowych. Gdy

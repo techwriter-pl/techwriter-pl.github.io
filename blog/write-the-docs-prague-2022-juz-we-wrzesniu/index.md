@@ -18,6 +18,8 @@ Lato w pełni, a my już myślami jesteśmy przy kolejnej edycji **Write the Doc
 Prague**. Podobnie jak w poprzednich latach objęliśmy to wydarzenie patronatem
 🙂 Poniżej garść najważniejszych informacji.
 
+<!--truncate-->
+
 Jak dobrze wiecie, od kilku lat wspieramy konferencje organizowane przez
 społeczność [Write the Docs](https://www.writethedocs.org/), dlatego nie mogło
 nas zabraknąć podczas zeszłorocznej edycji. Zainteresowanych zapraszamy do

@@ -13,6 +13,8 @@ coverImage: "koszyk_soap.jpg"
 Za nami trzecia edycja konferencji [soap!](http://soapconf.com/). Jak było w tym
 roku? Zdecydowanie inaczej niż w poprzednim.
 
+<!--truncate-->
+
 Chcąc świecić przykładem zjawilismy się w
 [Beach Barze na Plaży Kraków](http://www.plazakrakow.com.pl/klub) punktualnie o
 8:30. Jak można było się spodziewać, wszystko dopiero zaczynało się rozkręcać.

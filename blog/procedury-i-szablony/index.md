@@ -15,6 +15,8 @@ Czym zajmują się technical writerzy? Tworzą m.in. procedury i szablony, w
 różnych postaciach. A czym zajmują się procedury i szablony? I czym właściwie
 są?
 
+<!--truncate-->
+
 Procedury nie opisują produktu czy projektu, tylko proces, np. proces
 wykonywania pewnej czynności w naszej firmie.  Szablony (ang. _templates_), np.
 szablon procedury 😊, służą ujednoliceniu wyglądu dokumentów danego typu. Innymi

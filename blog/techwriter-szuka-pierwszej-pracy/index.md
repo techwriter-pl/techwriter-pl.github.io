@@ -16,6 +16,8 @@ Studia podyplomowe ukończone, cv zaktualizowane - czas rozejrzeć się za prac�
 techwriterki! W poniższym artykule dzielę się doświadczeniami z kilku procesów
 rekrutacyjnych, z których jeden, ten najważniejszy, został zwieńczony sukcesem.
 
+<!--truncate-->
+
 Siłą rzeczy cały poniższy opis jest nieco subiektywny 😉 Mam jednak nadzieję, że
 da branżowym debiutantom pewne wyobrażenie, czego można się spodziewać podczas
 rekrutacji na stanowisko technical writera. No i last but not least - jest to

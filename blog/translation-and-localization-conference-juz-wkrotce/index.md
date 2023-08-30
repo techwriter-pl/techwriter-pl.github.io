@@ -22,6 +22,8 @@ Konferencji Tłumaczy. Poniżej znajdziecie garść najważniejszych informacji
 dotyczących TLC, z którą robimy kolejny krok w kierunku zacieśniania współpracy
 między światem dokumentacji i tłumaczeń.
 
+<!--truncate-->
+
 ## O TLConference
 
 Pomysłodawcą konferencji oraz jej głównym organizatorem jest Agenor
