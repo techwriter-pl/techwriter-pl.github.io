@@ -42,6 +42,7 @@ const config = {
           routeBasePath: "/",
           blogListComponent: "@site/src/components/BlogList/BlogList",
           postsPerPage: 3,
+          blogSidebarTitle: "Najnowsze wpisy",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
