@@ -78,7 +78,7 @@ const mediaPartners: PartnerProps[] = [
 function Partner({ label, link, imageSrc }: PartnerProps) {
   return (
     <Link href={link} title={label} className={styles.partner}>
-      <img src={imageSrc} alt="" />
+      <img src={imageSrc} alt={label} />
     </Link>
   );
 }
