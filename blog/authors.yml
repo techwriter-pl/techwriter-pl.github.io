@@ -6,7 +6,8 @@ admin:
 agnieszka:
   name: Agnieszka Gaworska
   role: Administrator
-  image_url: https://media.licdn.com/dms/image/C4D03AQHjFDnqolgZZw/profile-displayphoto-shrink_800_800/0/1583917648247?e=1698883200&v=beta&t=yPjm-aPYy4OTG8L7KQsSf_aFOF6NPxWTuOnozdppLDc
+  url: https://github.com/AGaworska
+  image_url: https://github.com/AGaworska.png
 
 toporek:
   name: Martyna Toporek
@@ -16,12 +17,14 @@ toporek:
 niewiarowski:
   name: Andrzej Niewiarowski
   role: Autor
-  image_url: https://media.licdn.com/dms/image/C5603AQHe8AQ1t26OPA/profile-displayphoto-shrink_800_800/0/1610581688289?e=1698883200&v=beta&t=e5DHtfLg7UMRY2UQXEIHmBBbU_Duz-FMCz47y-riUUw
+  url: https://github.com/andrzejniewiaro
+  image_url: https://github.com/andrzejniewiaro.png
 
 niedzwiedzka:
   name: Magda Niedźwiedzka
   role: Autor
-  image_url: https://media.licdn.com/dms/image/C4E03AQHv7p9vuNOHAg/profile-displayphoto-shrink_800_800/0/1634885577857?e=1698883200&v=beta&t=2rEQSE4w8cx3Ev1b2kHSJTNm117ASUDh8WEpxoB0aS4
+  url: https://github.com/morvenn
+  image_url: https://github.com/morvenn.png
 
 pensjonatus:
   name: Paweł Kowaluk
@@ -33,13 +36,19 @@ mojk:
   name: Michał Skowron
   role: Administrator
   url: https://github.com/docdeveloper
-  image_url: https://media.licdn.com/dms/image/C4E03AQG4NlxT6Ac3qg/profile-displayphoto-shrink_800_800/0/1600402077676?e=1698883200&v=beta&t=7JE7WOrOlM6u6Sih8fAtUiU1jliABF5ieVepBO8lxCw
+  image_url: https://github.com/docdeveloper.png
 
 tprus:
   name: Tomek Prus
   title: Administrator
-  url: https://www.linkedin.com/in/tomasz-prus-4b09b01a/
-  image_url: https://media.licdn.com/dms/image/C4D03AQECTJrqJ4beTw/profile-displayphoto-shrink_800_800/0/1644789817093?e=1697068800&v=beta&t=3cC4_1Y6I_uacW9S78KurvLb8VZLpS1E2HUTjBI0jTw
+  url: https://github.com/tomekprus
+  image_url: https://github.com/tomekprus.png
+
+jkula:
+  name: Justyna Kula
+  title: Autor
+  url: https://github.com/JustynaKula
+  image_url: https://github.com/JustynaKula.png
 
 kulgawczuk:
   name: Radosław Kulgawczuk
