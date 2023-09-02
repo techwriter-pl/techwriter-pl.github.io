@@ -103,10 +103,6 @@ const polishDescriptions: { [id: string]: JSX.Element } = {
       planszówek – kooperacja, z deserów – Tiramisu.
     </>
   ),
-  szablowska: <></>,
-  milc: <></>,
-  kuba: <></>,
-  piechowicz: <></>,
 };
 
 const englishDescriptions: { [id: string]: JSX.Element } = {
@@ -199,10 +195,6 @@ const englishDescriptions: { [id: string]: JSX.Element } = {
       board games – cooperation, desserts – Tiramisu.
     </>
   ),
-  szablowska: <></>,
-  milc: <></>,
-  kuba: <></>,
-  piechowicz: <></>,
 };
 
 type AuthorListProps = {
@@ -222,16 +214,21 @@ export default function AuthorList({ language }: AuthorListProps) {
 
   return (
     <div className={styles.wrapper}>
-      {authorList.map((author: AuthorProps) => (
-        <div key={author.name} className={styles.author}>
-          <AuthorAvatar {...author} />
-          <div>
-            {language && language === "English"
-              ? englishDescriptions[author.id]
-              : polishDescriptions[author.id]}
+      {authorList
+        .filter(
+          (author) =>
+            englishDescriptions[author.id] && polishDescriptions[author.id]
+        )
+        .map((author: AuthorProps) => (
+          <div key={author.name} className={styles.author}>
+            <AuthorAvatar {...author} />
+            <div>
+              {language && language === "English"
+                ? englishDescriptions[author.id]
+                : polishDescriptions[author.id]}
+            </div>
           </div>
-        </div>
-      ))}
+        ))}
     </div>
   );
 }
