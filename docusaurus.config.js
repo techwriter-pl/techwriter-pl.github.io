@@ -7,7 +7,7 @@ const techWriterWebpackPlugin = require("./webpack-plugin");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "techwriter.pl",
-  tagline: "Oaza dla tworzących treści techniczne",
+  tagline: "Przestrzeń dla tworzących treści techniczne",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here

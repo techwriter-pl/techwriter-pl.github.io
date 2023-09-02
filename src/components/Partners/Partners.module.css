@@ -1,5 +1,18 @@
+.wrapper {
+  display: flex;
+}
+
+.impact {
+  background-color: var(--tech-writer-orange);
+}
+
 .section {
   margin: 2rem auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 18px;
+  border-radius: 6px;
 }
 
 .sectionTitle {
@@ -8,7 +21,6 @@
 }
 
 .partnerList {
-  --image-width: 200px;
   display: flex;
   flex-wrap: wrap;
   gap: 3rem;
@@ -18,28 +30,25 @@
 
 .partner {
   border: 1px solid var(--ifm-color-primary);
-  width: var(--image-width);
-  height: var(--image-width);
   display: flex;
   align-items: center;
   justify-content: center;
   background-color: white;
-  transform: scale(0.5);
-}
-
-.partner img {
-  width: 100%;
 }
 
 .partner:hover,
 .partner::selection,
 .partner:focus {
-  transform: scale(1);
+  transform: scale(1.1);
 }
 
 @media screen and (max-width: 996px) {
+  div.wrapper {
+    flex-wrap: wrap;
+  }
+
   div.partnerList {
-    --image-width: 100%;
     gap: 1rem;
+    flex-wrap: wrap;
   }
 }

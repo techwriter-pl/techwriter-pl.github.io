@@ -5,9 +5,12 @@ import Link from "@docusaurus/Link";
 import styles from "./BlogList.module.css";
 import BlogListPage from "@theme/BlogListPage";
 import Partners from "../Partners/Partners";
+import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
+import clsx from "clsx";
 
 export default function BlogHome(props): JSX.Element {
   const { pathname, search } = props.history.location;
+  const { siteConfig } = useDocusaurusContext();
 
   if (pathname.includes("/page/") || search.includes("feed=true")) {
     console.log("Condition met");
@@ -15,11 +18,17 @@ export default function BlogHome(props): JSX.Element {
   }
 
   return (
-    <Layout>
-      <HomePageHeader />
-      <div className={styles.wrapper}>
+    <Layout
+      title={siteConfig.title}
+      description={siteConfig.tagline}
+      wrapperClassName={styles.pageWrapper}
+    >
+      <div className={styles.topWrapper}>
+        <div className={styles.heroWrapper}>
+          <HomePageHeader />
+        </div>
         <div className="container">
-          <div className="row">
+          <div className={styles.items}>
             {props.items.slice(0, 3).map(({ content }) => {
               const { date, permalink } = content.metadata;
               const { title, coverImage } = content.frontMatter;
@@ -27,22 +36,21 @@ export default function BlogHome(props): JSX.Element {
               return (
                 <Link
                   to={permalink}
-                  className="col col--4 margin-bottom--md"
                   key={date}
+                  className={clsx(styles.item, "card")}
                 >
-                  <div className="card padding--lg" style={{ height: "100%" }}>
-                    <img
-                      alt=""
-                      src={coverImagePath}
-                      className={styles.itemImage}
-                    />
-                    <div className={styles.itemTitle}>{title}</div>
-                  </div>
+                  <img
+                    alt=""
+                    src={coverImagePath}
+                    className={styles.itemImage}
+                  />
+                  <div className={styles.itemTitle}>{title}</div>
                 </Link>
               );
             })}
           </div>
         </div>
+        <div className={styles.backdrop} />
       </div>
       <div className="container">
         <div className={styles.buttons}>

@@ -7,14 +7,12 @@ import { FeatureProps } from "@site/src/components/Feature/Feature";
 export default function HomePageHeader(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <header className={clsx("hero", styles.heroBanner)}>
-      <div className="container">
-        <div className={clsx(styles.logoRow)}>
-          <img src="/img/Coffee.svg" alt="" className={styles.coffeeImage} />
-          <div>
-            <img src="/img/logo-wide.png" alt={siteConfig.title} />
-            <p className={styles.tagline}>{siteConfig.tagline}</p>
-          </div>
+    <header className={clsx("container", "card", styles.heroBanner)}>
+      <div className={clsx(styles.logoRow)}>
+        <img src="/img/Coffee.svg" alt="" className={styles.coffeeImage} />
+        <div>
+          <img src="/img/logo-wide.png" alt={siteConfig.title} />
+          <p className={styles.tagline}>{siteConfig.tagline}</p>
         </div>
       </div>
     </header>

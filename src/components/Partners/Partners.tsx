@@ -1,6 +1,7 @@
 import React from "react";
 import Link from "@docusaurus/Link";
 import styles from "./Partners.module.css";
+import clsx from "clsx";
 
 type PartnerProps = {
   label: string;
@@ -86,11 +87,12 @@ function Partner({ label, link, imageSrc }: PartnerProps) {
 type PartnerSectionProps = {
   title: string;
   items: PartnerProps[];
+  impact?: boolean;
 };
 
-function PartnerSection({ items, title }: PartnerSectionProps) {
+function PartnerSection({ items, title, impact }: PartnerSectionProps) {
   return (
-    <section className={styles.section}>
+    <section className={clsx(styles.section, impact && styles.impact)}>
       <h2 className={styles.sectionTitle}>{title}</h2>
       <div className={styles.partnerList}>
         {items.map((partner) => (
@@ -103,8 +105,8 @@ function PartnerSection({ items, title }: PartnerSectionProps) {
 
 export default function Partners() {
   return (
-    <div>
-      <PartnerSection title="Nasi partnerzy" items={partners} />
+    <div className={styles.wrapper}>
+      <PartnerSection title="Nasi partnerzy" items={partners} impact />
       <PartnerSection title="Patronat medialny" items={mediaPartners} />
     </div>
   );
