@@ -13,7 +13,6 @@ export default function BlogHome(props): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
 
   if (pathname.includes("/page/") || search.includes("feed=true")) {
-    console.log("Condition met");
     return <BlogListPage {...props} />;
   }
 

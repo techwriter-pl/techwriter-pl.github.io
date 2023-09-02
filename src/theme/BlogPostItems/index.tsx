@@ -21,11 +21,11 @@ export default function BlogPostItems(props): JSX.Element {
     <div className={styles.wrapper}>
       <div className={styles.background}>
         <div className={styles.filterRow}>
-          <b>Popularne tagi:</b>
+          <b>Popularne tematy:</b>
           {popularFilters.map((filter) => (
             <Tag {...filter} key={filter.permalink} />
           ))}
-          <Link to="/tags">...wyświetl więcej tagów</Link>
+          <Link to="/tags">...wyświetl więcej tematów</Link>
         </div>
         <div></div>
       </div>
