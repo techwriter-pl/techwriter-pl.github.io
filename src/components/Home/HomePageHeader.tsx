@@ -12,7 +12,7 @@ export default function HomePageHeader(): JSX.Element {
         <img src="/img/Coffee.svg" alt="" className={styles.coffeeImage} />
         <div>
           <img src="/img/logo-wide.png" alt={siteConfig.title} />
-          <p className={styles.tagline}>{siteConfig.tagline}</p>
+          <h1 className={styles.tagline}>{siteConfig.tagline}</h1>
         </div>
       </div>
     </header>

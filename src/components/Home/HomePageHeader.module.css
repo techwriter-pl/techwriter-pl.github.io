@@ -22,6 +22,7 @@
 
 .tagline {
   font-size: 1.5rem;
+  font-weight: 400;
   margin: 0;
 }
 
@@ -30,7 +31,7 @@
     padding: 2rem;
   }
 
-  p.tagline {
+  h1.tagline {
     font-size: 110%;
     font-weight: 500;
   }
