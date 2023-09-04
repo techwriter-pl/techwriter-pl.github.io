@@ -63,6 +63,17 @@ const polishDescriptions: { [id: string]: JSX.Element } = {
       społecznościowym.
     </>
   ),
+  jkula: (
+    <>
+      Tłumaczka języka angielskiego specjalizująca się w tłumaczeniach
+      prawniczych. Od niedawna tech writerka, która postanowiła związać swoje
+      dalsze losy z branżą IT. Absolwentka studiów podyplomowych z komunikacji
+      technicznej na Akademii Finansów i Biznesu Vistula. Uwielbia czytać
+      kryminały, oglądać filmy sensacyjne, szydełkować amigurumi i… pisać. Ma w
+      planach wydać kiedyś własną powieść z wątkiem obyczajowo-kryminalnym. I
+      skoczyć ze spadochronem.
+    </>
+  ),
   pensjonatus: (
     <>
       Działa w branży od 2008 roku. Zaczynał jako Technical Writer, potem
@@ -156,6 +167,16 @@ const englishDescriptions: { [id: string]: JSX.Element } = {
       practices yoga and cultivates plants in the community garden.
     </>
   ),
+  jkula: (
+    <>
+      A translator from English to Polish, Justyna specializes in legal
+      translations. SHe recently became a tech writer and embarked on a journey
+      into the world of IT. SHe graduated from the post-diploma course in
+      technical communication at Vistula University. She loves detective
+      stories, action films, amigurumi (crochet), and... writing. She plans on
+      publishing a crime novel about real human feelings. And parachute.
+    </>
+  ),
   pensjonatus: (
     <>
       Not an actual real person. He's been in the business of tech content since
@@ -211,6 +232,8 @@ export default function AuthorList({ language }: AuthorListProps) {
       id: key,
     })
   );
+
+  authorList.sort((a, b) => a.name.localeCompare(b.name));
 
   return (
     <div className={styles.wrapper}>

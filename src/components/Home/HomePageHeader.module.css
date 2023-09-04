@@ -31,6 +31,11 @@
     padding: 2rem;
   }
 
+  img.coffeeImage {
+    width: 100px;
+    height: 100px;
+  }
+
   h1.tagline {
     font-size: 110%;
     font-weight: 500;
