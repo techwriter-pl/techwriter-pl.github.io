@@ -68,6 +68,7 @@ const config = {
         },
         items: [
           { to: "/?feed=true", label: "Blog", position: "right" },
+          { to: "/szkolenia", label: "Szkolenia", position: "right" },
           {
             to: "/kim-jestesmy",
             label: "O nas",
