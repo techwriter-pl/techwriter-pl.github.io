@@ -22,6 +22,9 @@ jobs:
         run: yarn install --immutable
       - name: Build website
         run: yarn build
+        env:
+          TECHWRITER_ALGOLIA_API_KEY: ${{ secrets.TECHWRITER_ALGOLIA_API_KEY }}
+          TECHWRITER_ALGOLIA_APP_ID: ${{ secrets.TECHWRITER_ALGOLIA_APP_ID }}
 
       # Popular action to deploy to GitHub Pages:
       # Docs: https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-docusaurus

@@ -22,3 +22,6 @@ jobs:
         run: yarn install --immutable
       - name: Test build website
         run: yarn build
+        env:
+          TECHWRITER_ALGOLIA_API_KEY: ${{ secrets.TECHWRITER_ALGOLIA_API_KEY }}
+          TECHWRITER_ALGOLIA_APP_ID: ${{ secrets.TECHWRITER_ALGOLIA_APP_ID }}

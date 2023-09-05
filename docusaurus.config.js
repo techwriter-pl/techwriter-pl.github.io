@@ -105,6 +105,12 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      algolia: {
+        apiKey: process.env.TECHWRITER_ALGOLIA_API_KEY || "dummy-key",
+        appId: process.env.TECHWRITER_ALGOLIA_APP_ID || "dummy-id",
+        indexName: "techwriter",
+        contextualSearch: true,
+      },
     }),
   plugins: [techWriterWebpackPlugin],
 };
