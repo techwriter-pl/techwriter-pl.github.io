@@ -24,7 +24,7 @@ Temat spotkania: _Sekrety Technical Writerów Hitachi Energy oraz ciekawostki o 
 
 Nasze prezentacje to doskonała okazja aby poznać nie tylko najlepsze praktyki w tworzeniu dokumentacji, ale także dowiedzieć się jak skutecznie pozyskiwać niezbędne informacje od zespołu i interesariuszy projektu.
 
-# Część 2 - Kultura japońska
+## Część 2 - Kultura japońska
 
 **Godzina:** ok 18.15-19.15
 
