@@ -22,7 +22,7 @@ zrelacjonujemy w tym artykule.
 
 <!--truncate-->
 
-## Mobile vs. Non-Mobile
+### Mobile vs. Non-Mobile
 
 Co odróżnia dokumentację na urządzeniach mobilnych od dokumentacji na innych
 nośnikach? Zasadniczo tylko wielkość ekranu. Na urządzeniu mobilnym oczekujemy
@@ -37,7 +37,7 @@ najbardziej, ale takie, aby łatwo się je aktywowało poprzez dotyk; obrazki,
 koniecznie, ale dostosowane do wielkości wyświetlacza, żeby w celu ich
 obejrzenia nie trzeba było przesuwać ekranu w bok.
 
-## Metoda Responsive Web Design (RWD)
+### Metoda Responsive Web Design (RWD)
 
 [RWD](http://pl.wikipedia.org/wiki/Responsive_Web_Design) to podejście, w którym
 stronę internetową buduje się w taki sposób, aby reagowała (ang. _respond_) na
@@ -47,7 +47,7 @@ czy na telefonie. Co mamy na myśli mówiąc tę samą stronę? Dla nas oznacza 
 przede wszystkim tę samą treść, która jest dostosowana do  wyświetlania w
 różnych rozdzielczościach.
 
-## Responsive vs. Adaptive
+### Responsive vs. Adaptive
 
 Czym to podejście różni się od **Adaptive Web Design (AWD)**? W przypadku metody
 AWD dla każdego topiku (przyjmijmy, że jeden topik oznacza jeden plik)
@@ -58,7 +58,7 @@ przekieruje nas do odpowiedniego zestawu plików. **W przypadku RWD plik będzie
 zawsze tylko jeden!** Dostosowany zostanie jedynie wygląd naszej strony według
 przyjętych podczas projektowania strony ustawień i stylów.
 
-## Pozycjonowanie stron
+### Pozycjonowanie stron
 
 Podejście AWD zaburza też pozycjonowanie stron w wyszukiwarkach internetowych
 ponieważ w zależności od urządzenia, na którym daną stronę oglądamy,
@@ -66,7 +66,7 @@ wyszukiwarka będzie myślała, że są to tak naprawdę różne strony. Czyli o
 danej strony na tablecie, komputerze i telefonie zostanie zinterpretowane jako
 otwarcie trzech różnych stron, zamiast trzy wejścia na tę samą witrynę.
 
-## Narzędzia wspierające RWD
+### Narzędzia wspierające RWD
 
 Najważniejsze jest jednak to, że większość narzędzi, których używamy na co dzień
 w naszej pracy, bardzo ułatwia nam pracę z RWD. Matthew przedstawił  przykłady z

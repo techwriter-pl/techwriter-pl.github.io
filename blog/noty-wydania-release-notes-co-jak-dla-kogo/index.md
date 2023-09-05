@@ -22,14 +22,14 @@ zapoznawanania się ze wszystkimi usprawnieniami, jakie pojawiają się w nowej
 wersji. Jednak jeśli chodzi o aplikacje dla biznesu sytuacja jest zgoła
 odmienna.
 
-## Czym są noty wydania?
+### Czym są noty wydania?
 
 Według [ITCQF](http://itcqf.org/), noty wydania są jednym z typów dokumentacji
 produktu. Ich celem jest przedstawienie użytkownikom zarysu tego co się zmieniło
 w danej wersji. Noty wydania nie opisują szczegółowo funkcji produktu tak jak,
 na przykład, podręczniki użytkownika.
 
-## Komu i do czego mogą być potrzebne?
+### Komu i do czego mogą być potrzebne?
 
 Noty wydania mogą być pomocne dla:
 
@@ -41,13 +41,13 @@ Noty wydania mogą być pomocne dla:
   zostaną dostarczone wraz z nową wersją produktu
 - Testerów przy opracowywaniu scenariuszy testowych.
 
-## W jakiej formie są dostarczane?
+### W jakiej formie są dostarczane?
 
 Odpowiedź jest krótka - w prostej. W związku z tym, że noty wydania mają
 zazwyczaj kilka stron są one często zintegrowane z produktem lub dostarczane
 jako pojedynczy plik w formacie TXT, HTML lub PDF.
 
-## Co zawierają?
+### Co zawierają?
 
 Zazwyczaj noty wydania opisują nowe funkcje naszego produktu, usprawnienia,
 naprawione problemy (bug fixes) oraz znane ograniczenia ("known issues").
@@ -68,7 +68,7 @@ numer referencyjny powiązanego z nim zgłoszenia. Dzięki temu nasz klient będ
 w stanie łatwo sprawdzić, czy zgłoszony przez niego problem został naprawiony w
 danej wersji produktu.
 
-## Struktura
+### Struktura
 
 Każdy ma swój pomysł na ten rodzaj dokumentacji, ale możemy przyjąć, że ogólnie
 noty wydania mają taką strukturę:
@@ -80,7 +80,7 @@ noty wydania mają taką strukturę:
 3. Opis naprawionych problemów.
 4. Opis znanych ograniczeń.
 
-## Jak je tworzyć?
+### Jak je tworzyć?
 
 Sposób w jaki tworzymy noty wydania często zależy od tego, jak rozbudowany jest
 nasz produkt, ile zgłoszeń obsługujemy oraz jak często wypuszczamy nową wersję.
@@ -123,7 +123,7 @@ określi kto, kiedy i w jaki sposób powinien te pola wypełniać. Możemy ustal
 trafia do Tech Writera, który sprawdza wprowadzone informacje, edytuje je według
 potrzeby i dopiero wtedy trafiają one do publikacji.
 
-## Przykłady
+### Przykłady
 
 Na koniec mamy dla Was kilka przykładów:
 

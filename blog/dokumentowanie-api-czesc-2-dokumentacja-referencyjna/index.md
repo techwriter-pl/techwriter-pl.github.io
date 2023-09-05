@@ -30,7 +30,7 @@ Następnie przedstawię pewne specyficzne wyzwania, jakie za sobą niesie
 dokumentowanie API, oraz omówię narzędzia, w które powinien uzbroić się
 dokumentalista, aby podołać zadaniu.
 
-## Na dwoje babka wróżyła
+### Na dwoje babka wróżyła
 
 Pod pojęciem dokumentacji API w praktyce kryją się dwa odrębne byty –
 dokumentacja koncepcyjna i dokumentacja referencyjna. Ta pierwsza tłumaczy
@@ -81,7 +81,7 @@ olbrzymia ilość przykładowych zapytań i odpowiedzi, które również muszą 
 zawsze aktualne. Utrzymanie takiej dokumentacji w ryzach potrafi być nie lada
 wyzwaniem.
 
-## To HAT or not to HAT?
+### To HAT or not to HAT?
 
 ![](images/Hat.jpeg)
 
@@ -107,7 +107,7 @@ automatyczne jej wygenerowanie na podstawie komentarzy w kodzie bądź z dokumen
 zawierającego definicję API. Gdzie w takim razie szukać ratunku? Tutaj do akcji
 wkracza specyfikacja OpenAPI.
 
-## OpenAPI & Swagger
+### OpenAPI & Swagger
 
 OpenAPI to otwarty standard umożliwiający definiowanie REST-owych API. Opierając
 się na nim możemy opisać całość funkcjonalności API w niewielkim dokumencie

@@ -29,7 +29,7 @@ zespole publikacji technicznych będziesz pracować nad rewizją dokumentacji
 oprogramowania, ulepszając ją i wspierając jej utrzymanie. Będziesz bezpośrednio
 wpływać na to, jak rozwijamy, obsługujemy i utrzymujemy naszą dokumentację.
 
-## Wymagania
+### Wymagania
 
 - Znajomość języka angielskiego w piśmie i mowie na poziomie native;
 - Umiejętność szybkiego zrozumienia działania nowego oprogramowania;
@@ -42,7 +42,7 @@ wpływać na to, jak rozwijamy, obsługujemy i utrzymujemy naszą dokumentację.
 - Doświadczenie w Git mile widziane;
 - Znajomość języka rozwoju oprogramowania jest atutem
 
-## Główne obowiązki
+### Główne obowiązki
 
 - Pisanie, edycja i przegląd dokumentacji softwarowej;
 - Ścisła współpraca z inżynierami w kwestii publikowania dokumentacji w

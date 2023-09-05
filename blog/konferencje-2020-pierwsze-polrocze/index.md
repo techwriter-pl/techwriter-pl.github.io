@@ -24,7 +24,7 @@ dostępna jedynie online (wiele wymaga rejestracji), część została przeniesi
 na inny termin, a wiele zostało odwołanych. Poniżej znajdziecie szczegóły. O
 dalszych zmianach będziemy informować w kolejnych aktualizacjach.
 
-### Marzec
+#### Marzec
 
 2-3 marca, Londyn, Wielka Brytania - [The UX Conference](https://theuxconf.com/)
 
@@ -72,7 +72,7 @@ patronatem 😉- odwołana, odbędzie się edycja w **Kopenhadze 23-24 września
 [OLC Innovate 2020](https://onlinelearningconsortium.org/attend-2020/innovate/)
 \- konferencja **online** z uwagi na pandemię
 
-### Kwiecień
+#### Kwiecień
 
 1-2 kwietnia, Rimini, Włochy - [ComTecnica 2020](https://www.comtecnica.eu/en/)
 \- przełożona na **29-30 września 2020**
@@ -134,7 +134,7 @@ na **21-23 września 2020**
 [ACES 2020](https://aceseditors.org/conference) \- **odwołana**. Jednocześnie
 organizatorzy udostępniają liczne materiały online.
 
-### Maj
+#### Maj
 
 3-5 maja, Portland, Oregon, USA -
 [Write the Docs Portland](http://www.writethedocs.org/conf/portland/2020/) -
@@ -194,7 +194,7 @@ jednak nowa data nie jest jeszcze znana
 \- trzy nowe daty konferencji **online** - **15 czerwca-2 lipca**, **25
 lipca-31lipca** i **10 sierpnia-21 sierpnia 2020**
 
-### Czerwiec
+#### Czerwiec
 
 2-5 czerwca, Salt Lake City, Utah, USA -
 [Learning DevCamp 2020](http://learningdevcamp.com/) \- przełożona na **14-17
@@ -224,7 +224,7 @@ konferencja **online** w dniach **8-11 czerwca** oraz **18 czerwca**
 29 czerwca - 1 lipca, Boston, Massachusetts, USA -
 [An Event Apart Boston](https://aneventapart.com/event/boston-2020)
 
-### Lipiec
+#### Lipiec
 
 15-16 lipca, Vancouver, Kolumbia Brytyjska, Kanada -
 [Design & Content Conference 2020](https://content.design/) - konferencja
@@ -249,7 +249,7 @@ online
 [Balisage: The Markup Conference 2020](http://www.balisage.net/) - konferencja
 **online** z uwagi na pandemię
 
-### Sierpień
+#### Sierpień
 
 10-14 sierpnia, Londyn, Wielka Brytania -
 [UX and Digital Design Week](https://futurelondonacademy.co.uk/en/course/ux-and-digital-design)

@@ -21,7 +21,7 @@ sam(a)"**.
 
 <!--truncate-->
 
-# Jak tworzyć indeks?
+## Jak tworzyć indeks?
 
 1. Nie umieszczaj w indeksie każdego wystąpienia danego słowa, tylko miejsca
    gdzie pojawiła się nowa ważna informacja.
@@ -42,7 +42,7 @@ sam(a)"**.
 5. W przybliżeniu indeks powinien zawierać około 1 stronę z dwoma kolumnami na
    każde 20 stron dokumentacji.
 
-# Jak pisać dokumentację, która jest tłumaczona na inne języki?
+## Jak pisać dokumentację, która jest tłumaczona na inne języki?
 
 1. Używaj przejrzystej, spójnej i jednoznacznej terminologii. Jeśli słowo może
    być zarówno rzeczownikiem i czasownikiem, w całym dokumencie używaj go tylko
@@ -97,7 +97,7 @@ nagłówkach rzeczowników, które uporządkują elementy w kategorie, np.
 | ---------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | Nie świecą się żadne kontrolki i drukarka nie działa | Sprawdź czy drukarka jest podpięta do prądu i czy włącznik znajduje się w pozycji "ON" |
 
-# Jedno źródło i wiele formatów
+## Jedno źródło i wiele formatów
 
 1. Single sourcing - tworzenie dokumentacji w wielu formatach z jednego zestawu
    plików.

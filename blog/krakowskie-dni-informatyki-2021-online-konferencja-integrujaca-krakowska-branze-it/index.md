@@ -19,7 +19,7 @@ Mowa o Krakowskich Dniach Informatyki 2021. Szczegóły poniżej.
 
 <!--truncate-->
 
-### O konferencji
+#### O konferencji
 
 [Krakowskie Dni Informatyki](https://kdi.org.pl/) to, według organizatorów,
 największe wydarzenie poświęcone krakowskiej branży IT.
@@ -34,24 +34,24 @@ których obecność zwiększa rangę wydarzenia.
 W trakcie trwania konferencji odbędą się także Krakowskie Targi Pracy IT, na
 których uczestnicy interaktywnie nawiążą kontakt z firmami.
 
-### Dla kogo
+#### Dla kogo
 
 Konferencja skierowana jest do wszystkich osób zainteresowanych branżą IT. W
 centrum zainteresowania są szczególnie: architekci oprogramowania, osoby z
 różnych szczebli kariery w IT (głównie seniorzy, midzi, juniorzy), a także
 studenci informatyki.
 
-### Kiedy
+#### Kiedy
 
 Wydarzenie będzie miało formę **w pełni online** i odbędzie się w dniach **1-2
 grudnia 2021 roku**.
 
-### Cena
+#### Cena
 
 Konferencja jest bezpłatna, wymaga jednak rejestracji. Szczegóły znajdziecie
 [tutaj](https://app.evenea.pl/event/kdi2021/).
 
-### Program konferencji
+#### Program konferencji
 
 W trakcie dwóch dni konferencji zostało zaplanowanych 20 prelekcji oraz 2
 warsztaty techniczne. Odbędą się one w 6 ścieżkach tematycznych:
@@ -66,7 +66,7 @@ warsztaty techniczne. Odbędą się one w 6 ścieżkach tematycznych:
 Na [stronie konferencji](https://kdi.org.pl/) znajdziecie zarówno szczegółową
 agendę oraz listę prelegentów.
 
-### Dlaczego warto wziąć udział?
+#### Dlaczego warto wziąć udział?
 
 Jak już zostało wspomniane wyżej, jest to największe wydarzenie zrzeszające
 pracowników krakowskiej branży IT. Udział w konferencji daje dostęp do wielu

@@ -27,13 +27,13 @@ API/SDK. Poniżej prezentujemy najciekawsze według nas zagadnienia.
 
 <!--truncate-->
 
-## Po co umieszczać przykładowy kod?
+### Po co umieszczać przykładowy kod?
 
 Przykłady są bardziej efektywne niż opisywanie składni i metod. Programiści
 często przechodzą od razu do przykładu, żeby zobaczyć jak wykonać zadanie.
 Przykłady pokazują w sposób jasny i bezpośredni jak działa Twój produkt.
 
-## Jakiego języka programowania użyć w przykładach?
+### Jakiego języka programowania użyć w przykładach?
 
 Przynajmniej połowa dokumentacji API nie zawiera próbek kodu, ponieważ podanie
 przykładu w jednym języku, często powoduje, że programiści oczekują przykładów
@@ -41,7 +41,7 @@ także w innych językach, a to jest mało praktyczne dla osoby piszącej
 dokumentację. Zamiast próbek kodu, dokumentacja podaje przykładowe żądania
 (request) i odpowiedzi (response).
 
-## Czy muszę być programistą, żeby tworzyć próbki kodu?
+### Czy muszę być programistą, żeby tworzyć próbki kodu?
 
 Musisz mieć wystarczająco dużą wiedzę na temat programowania, żeby umieć czytać
 i rozumieć kod oraz umieć tworzyć własne przykłady kodu do dokumentacji. Nie
@@ -52,7 +52,7 @@ kolei nauczyłeś się języka programowania jako dodatkowej umiejętności i ni
 jesteś wykształcony w tym kierunku, wtedy masz lepsze poczucie tego z czym się
 mierzą użytkownicy.
 
-## Skoro jestem w stanie tworzyć kod, to dlaczego nie mogę zostać programistą?
+### Skoro jestem w stanie tworzyć kod, to dlaczego nie mogę zostać programistą?
 
 Kod przedstawiony w przykładzach to nie to samo co kod w gotowym produkcie.
 Próbka kodu to tylko przykład poprawnego kodu, który ilustruje funkcjonalność i
@@ -61,7 +61,7 @@ koncepcją w dokumentacji a skomplikowaną implementacją wymaganą do stworzeni
 gotowej aplikacji. Można to porównać do sytuacji, w której któs mówi "Umiem
 napisać zdanie", a my zapytamy "To czemu nie napiszesz powieści?".
 
-## Skąd wiedzieć co jest ważne bez wiedzy programistycznej?
+### Skąd wiedzieć co jest ważne bez wiedzy programistycznej?
 
 Czy tworząc przykład użycia metody EACH w JQuery dla użytkowników, którzy znają
 Javascript, możemy założyć, że znają oni JQuery i metodę EACH? Musimy mieć
@@ -70,7 +70,7 @@ Jeśli mamy dylemat czy użytkownicy powinni posiadać wiedzę na jakiś temat, 
 zawsze możemy zapytać programistę. Problemem jednak jest to, że programiści
 często przeceniają poziom wiedzy użytkowników.
 
-## Czy nie mogę po prostu dostać wszystkich próbek kodu od inżynierów?
+### Czy nie mogę po prostu dostać wszystkich próbek kodu od inżynierów?
 
 Tak możesz. To dobry początek, ale nie gotowe rozwiązanie. Inżynier może dać ci
 próbkę kodu, wyjaśni jak to działa, a na podstawie tego możesz wywnioskować
@@ -79,7 +79,7 @@ skomplikowane. Poza tym, inżynierowie nie lubią za bardzo tworzyć dokumentacj
 ale za to niektórzy lubią rozmawiać o kodzie - jeśli znajdziesz taką osobę to
 możesz od niej sporo wyciągnąć.
 
-## Jak mogę nauczyć się programowania?
+### Jak mogę nauczyć się programowania?
 
 Nie ma prostej odpowiedzi. Jeśli szukasz informacji w internecie, poniższe
 strony mogą być przydatne:
@@ -91,7 +91,7 @@ strony mogą być przydatne:
 - [codeschool.com](http://www.codeschool.com)
 - [udemy.com](http://www.udemy.com)
 
-## Jak dodawać komentarze do próbki kodu?
+### Jak dodawać komentarze do próbki kodu?
 
 Można wstawiać komentarze pomiędzy części kodu rozpoczynając od znaku komentarza
 (są różne w zależności od języka programowania, np. //). Trzeba jednak pamiętać,
@@ -109,7 +109,7 @@ tak nie jest, to trzeba go przepisać. Ta logika jest prawdziwa wyłącznie w
 przypadku użytkowników zaawansowanych. Ogólna zasada jest taka, że co każde 5-10
 linii kodu dobrze jest dodać komentarz wyjaśniający.
 
-## Jak pisać instrukcje dla dłuższych próbek kodu?
+### Jak pisać instrukcje dla dłuższych próbek kodu?
 
 Są dwa podejścia. Pierwsze to zbudować historię. Prowadzisz użytkownika krok po
 kroku i pokazujesz co musi zrobić. Na końcu dodajesz cały kod, który został
@@ -120,7 +120,7 @@ użytkownikiem zaawansowanym, to kod jest dla niego zrozumiały i może opuści�
 czytanie opisu, a jeśli któs jest nowicjuszem to chętnie skorzysta z
 wyjaśnienia.
 
-## Gdzie umieszczać próbki kodu?
+### Gdzie umieszczać próbki kodu?
 
 Sa trzy możliwości:
 
@@ -131,14 +131,14 @@ Sa trzy możliwości:
 3. Krótkie przykłady w opisie, a dłuższe przykłady w osobnym miejscu. Jest to
    chyba najbardziej popularna metoda.
 
-## Czy można używać żartobliwego tonu w dokumentacji dla programistów?
+### Czy można używać żartobliwego tonu w dokumentacji dla programistów?
 
 Kod dla niektórych może być trochę stresujący. Dlatego nie bójmy się dorzucić
 trochę humoru do dokumentacji. Jeśli nie jest ona tłumaczona na inne języki i
 jeśli polityka firmy nie narzuca jakichś wytycznych w tej kwestii, umiarkowana
 doza humoru jest w porządku.
 
-## Jeśli mój kod działa, to po co go sprawdzać?
+### Jeśli mój kod działa, to po co go sprawdzać?
 
 Nawet jeśli Twój kod działa, nie oznacza to, że jest napisany w zgodzie z
 dobrymi praktykami. Może być zbyt zasobożerny lub za mało wydajny, mieć za dużo
@@ -149,7 +149,7 @@ Po zakończeniu prezentacji, przyszedł czas na pytania uczestników. Ze względ
 ograniczoną ilość czasu, Tom mógł odpowiedzieć tylko na niektóre. Poniżej
 przedstawiamy dwa wybrane pytania.
 
-## W przypadku SDK dla wielu języków programowania, czy lepiej napisać dokumentację dla każdego języka osobno czy stworzyć jedną dokumentację z przykładami dla wszystkich języków i dodać przyciski do przełączania się pomiędzy przykładami w różnych językach?
+### W przypadku SDK dla wielu języków programowania, czy lepiej napisać dokumentację dla każdego języka osobno czy stworzyć jedną dokumentację z przykładami dla wszystkich języków i dodać przyciski do przełączania się pomiędzy przykładami w różnych językach?
 
 Są różne podejścia. Patrząc na [RethinkDB.com](http://rethinkdb.com) i ich
 dokumentację do API, widzimy świetne przykłady przełączania się pomiędzy różnymi
@@ -162,7 +162,7 @@ który dawałby jasne wytyczne jak pisać taką dokumentację. Jest tam więcej
 różnorodności i dowolności niż w przypadku innej dokumentacji. Trzeba próbować
 różnych podejść, żeby dojśc do odpowiedniego rozwiązania.
 
-## Co myślisz o pseudokodzie? Czy używałeś go kiedyś czy raczej nie polecasz stosowania go?
+### Co myślisz o pseudokodzie? Czy używałeś go kiedyś czy raczej nie polecasz stosowania go?
 
 Inżynierowie często pisząc kod zaczynają od pseudokodu, żeby nakreślić jak coś
 będzie działać. Widziałem sporo przykładów pseudokodu w serii książek Headstart,

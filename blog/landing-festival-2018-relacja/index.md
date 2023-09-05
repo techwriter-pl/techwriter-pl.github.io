@@ -18,7 +18,7 @@ Wami naszymi wrażeniami z tego wydarzenia.
 
 <!--truncate-->
 
-# Słowem wstępu
+## Słowem wstępu
 
 Jeśli chodzi o udział w konferencjach to była to nasza pierwsza wizyta w stolicy
 Niemiec, dlatego czuliśmy mały dreszczyk emocji. Szybki przelot z Krakowa na
@@ -40,7 +40,7 @@ Soundcloud, i te nieznane, jak Thoughtworks (a przynajmniej do czasu ich
 prezentacji). Tam też mieścił się bufet, w którym mogliśmy zaopatrzyć się w
 jadło i napitki. Potwierdzamy, że Niemcy wiedzą jak warzyć dobre piwo 😉
 
-# Otwarcie
+## Otwarcie
 
 Po krótkim spacerze wokół “expo area” udaliśmy się pod główną scenę, na której
 za chwilę miało odbyć się otwarcie. Z niewielkim poślizgiem z uwagi na dużą
@@ -50,7 +50,7 @@ zaprezentował pokrótce ideę jaka przyświecała mu gdy zdecydował się zorga
 Landing Festival. Motywacja była jasna - chciał stworzyć miejsce gdzie mogą się
 spotkać ludzie z branży IT i ich potencjalni nowi pracodawcy.
 
-# Pierwszy dzień
+## Pierwszy dzień
 
 Pierwszego dnia zdecydowaliśmy się pozostać przy głównej scenie. Pierwszą
 prezentację dnia wygłosił [Harold Jarche](http://jarche.com/), który w dość
@@ -112,7 +112,7 @@ osobnej, globalnej biblioteki, której używa każdy z zespołów. Dzięki temu 
 wiele łatwiej ponownie wykorzystać istniejące rozwiązanie, zamiast wymyślać koło
 na nowo.
 
-# Drugi dzień
+## Drugi dzień
 
 Drugi dzień to kolejna sesja, tym razem w mniejszym gronie, z Haroldem Jarche.
 Było to rozwinięcie idei zaprezentowanej poprzedniego dnia.
@@ -139,7 +139,7 @@ kuluarach”, ale też nieco więcej rozrywkowych elementów, takich jak występ
 komika, pokaz iluzjonistyczny czy wieńcząca festiwal impreza, która zakończyła
 na łodzi w berlińskich dokach.
 
-# Słowem zakończenia
+## Słowem zakończenia
 
 Landing Festival to ciekawy sposób na targi pracy, mieszanka konferencji oraz
 swobodnej atmosfery, w której można poznać małe i duże berlińskie firmy, złapać

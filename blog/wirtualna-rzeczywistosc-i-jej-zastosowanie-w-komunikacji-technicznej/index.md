@@ -23,7 +23,7 @@ użytkownika w jego obsłudze.
 Jeśli chcecie dowiedzieć się, jak to zrobić i co jest potrzebne, zapraszamy do
 przeczytania artykułu.
 
-## Czym jest wirtualna rzeczywistość i gdzie jest stosowana?
+### Czym jest wirtualna rzeczywistość i gdzie jest stosowana?
 
 [Wirtualna rzeczywistość](https://pl.wikipedia.org/wiki/Rzeczywisto%C5%9B%C4%87_wirtualna),
 _en.Virtual Reality (VR)_ to najnowocześniejsza technologia, która w ostatnich
@@ -32,7 +32,7 @@ wyjątkowe wrażenia klientom, którzy chcą poznać produkt w czasie rzeczywist
 Urządzenia wirtualnej rzeczywistości są coraz częściej wykorzystywane m.in. w
 inżynierii, służbie zdrowia, przemyśle lotniczym czy nieruchomościach.
 
-### Rodzaje produktów rzeczywistości wirtualnej
+#### Rodzaje produktów rzeczywistości wirtualnej
 
 VR wykorzystuje interaktywne oprogramowanie do tworzenia trójwymiarowego
 wirtualnego środowiska dla użytkownika. Wymaga też specjalnego zestawu
@@ -57,7 +57,7 @@ Ogólnie można podzielić produkty wirtualnej rzeczywistości na trzy rodzaje:
   smartfona, komputera ani konsoli. Wszystko, czego potrzebujesz, znajduje się w
   samych okularach.
 
-## Jakie są korzyści z używania wirtualnej rzeczywistości w komunikacji technicznej?
+### Jakie są korzyści z używania wirtualnej rzeczywistości w komunikacji technicznej?
 
 - Pozwala na poszerzenie wiedzy w danej dziedzinie poprzez aktywne
   doświadczenie, a nie tylko czytanie lub wyświetlanie informacji.
@@ -70,7 +70,7 @@ Ogólnie można podzielić produkty wirtualnej rzeczywistości na trzy rodzaje:
   pozwala klientom na podjęcie decyzji o zakupie, poprzez możliwość używania
   produktu w czasie rzeczywistym, aby zobaczyć, jak on wygląda i działa.
 
-## Czy są jakieś wady?
+### Czy są jakieś wady?
 
 Mimo wszystkich dobrych aspektów wirtualnej rzeczywistości, istnieją pewne
 negatywy, które należy wziąć pod uwagę.
@@ -89,7 +89,7 @@ negatywy, które należy wziąć pod uwagę.
 - Mogą powodować wypadki, potykając się lub zderzając z obiektami w świecie
   rzeczywistym.
 
-## Gdzie można wykorzystać wirtualną rzeczywistość w komunikacji technicznej?
+### Gdzie można wykorzystać wirtualną rzeczywistość w komunikacji technicznej?
 
 Jest kilka obszarów, w których rzeczywistość wirtualna odnosi swoje sukcesy:
 
@@ -114,7 +114,7 @@ Jest kilka obszarów, w których rzeczywistość wirtualna odnosi swoje sukcesy:
   Podobnie jak w przypadku projektowania oprogramowania komputerowego,
   możliwości zastosowania wirtualnej rzeczywistości są nieograniczone 😊
 
-## Podsumowując
+### Podsumowując
 
 Dopiero odkrywamy potencjał VR. Być może w najbliższej przyszłości wirtualna
 rzeczywistość umożliwi wielu branżom wprowadzanie innowacji w efektywny sposób.

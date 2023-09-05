@@ -16,7 +16,7 @@ nas tam zabraknąć. Poniżej nasze wrażenia. Zapraszamy!
 
 <!--truncate-->
 
-## Marzenie japońskiego rybaka słodkowodnego
+### Marzenie japońskiego rybaka słodkowodnego
 
 ...czyli networking w centrum konferencyjnym [Manggha](http://manggha.pl/) na
 brzegu Wisły. Soap! co roku zaskakuje nas nową lokalizacją i w tym roku było to
@@ -36,7 +36,7 @@ Warto zajrzeć, aby poczuć klimat.
 
 https://twitter.com/gwynethmarta/status/738361304210100224
 
-## Dzień pierwszy
+### Dzień pierwszy
 
 ...czyli drugi czerwca. Drugi również dlatego, że konferencję poprzedzała w tym
 roku seria warsztatów pod nazwą
@@ -142,7 +142,7 @@ pobliskim pubie. To pozwoliło bardziej aktywnym uczestnikom płynnie przejść 
 drugiej części wydarzenia. Jak widać wszyscy wzięli sobie bardzo do serca
 apel organizatorów z otwarcia konferencji 😉
 
-## Dzień drugi
+### Dzień drugi
 
 ...tzw. "płatny" potwierdził znany fakt, że najlepsze rzeczy w życiu dostajemy
 za darmo. Nie twierdzimy przez to, że nie był wart swej ceny - po prostu wydaje
@@ -276,7 +276,7 @@ soap! oraz naszej relacji. Pozostaje tylko pogratulować organizatorom
 wspaniałego wydarzenia, stojącego już zdecydowanie na światowym poziomie, co
 niniejszym czynimy. Tak trzymać i nie przestawać mydlić!
 
-## Z kronikarskiego obowiązku - jeszcze dwa łyki statystyki
+### Z kronikarskiego obowiązku - jeszcze dwa łyki statystyki
 
 Poniżej trochę twardych faktów:
 

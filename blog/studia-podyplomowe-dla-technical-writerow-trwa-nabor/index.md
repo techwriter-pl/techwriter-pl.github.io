@@ -18,7 +18,7 @@ Szczegóły poniżej.
 
 <!--truncate-->
 
-### Studia z naszej perspektywy
+#### Studia z naszej perspektywy
 
 Jak wiecie, jakiś czas temu objęliśmy
 [ten kierunek studiów](https://www.vistula.edu.pl/kierunki-studiow/studia-podyplomowe/informatyka/komunikacja-techniczna)
@@ -55,7 +55,7 @@ Również kadra wzbudza zaufanie, biorąc pod uwagę posiadaną wiedzę oraz
 doświadczenie. Wśród wykładowców znajdziecie tylko i wyłącznie praktyków, którzy
 są rozpoznawalni na międzynarodowej scenie techcommu.
 
-### Najważniejsze informacje
+#### Najważniejsze informacje
 
 Studia są w 100% zdalne, mogą w nich brać udział osoby z dowolnego miejsca w
 Polsce i na świecie. Pierwsze spotkanie drugiej edycji zaplanowano na 5

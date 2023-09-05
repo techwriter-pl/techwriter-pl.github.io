@@ -17,7 +17,7 @@ rozpoczęciem kariery w branży IT. Mowa o Na podbój IT! Szczegóły poniżej.
 
 <!--truncate-->
 
-### O konferencji
+#### O konferencji
 
 W dyskusjach na temat pracy w IT dość często można spotkać się ze stwierdzeniem,
 że na rodzimym rynku pracy w branży IT brakuje 50 tysięcy specjalistów.
@@ -44,19 +44,19 @@ osób zawodowo zajmujących się zapewnianiem jakości systemów informatycznych
 Poprzez promowanie inicjatyw związanych z testowaniem oprogramowania,
 popularyzuje również ideę doskonalenia jakości oprogramowania.
 
-### Dla kogo
+#### Dla kogo
 
 Konferencja skierowana jest do wszystkich osób zainteresowanych rozpoczęciem
 kariery zawodowej w branży IT. Dzięki udziałowi w wydarzeniu poszerzycie
 kontakty i poznacie ludzi związanych z branżą oraz zyskacie cenne informacje na
 jej temat.
 
-### Kiedy
+#### Kiedy
 
 Konferencja odbędzie się 21 maja 2022 roku w
 [Artkombinat scena Monopolis](https://scena.artkombinat.pl/) w Łodzi.
 
-### Cena
+#### Cena
 
 Organizator nie pobiera odpłatności za wydanie biletu, jednakże aby go uzyskać
 należy dokonać wpłaty kwoty 50 zł na dowolny cel charytatywny i w ciągu 5 dni od
@@ -65,7 +65,7 @@ dokonanej wpłaty. Osoby, które prześlą potwierdzenie dokonania wpłaty otrzy
 bezpłatny bilet. Rejestracja rozpoczyna się 21 lutego 2022
 [tutaj](https://app.evenea.pl/event/napodbojit/).
 
-### Program konferencji
+#### Program konferencji
 
 W trakcie konferencji zostało zaplanowanych 5 prelekcji oraz godzinna debata. 
 Na [stronie konferencji](https://podboj.it/) znajdziecie zarówno szczegółową

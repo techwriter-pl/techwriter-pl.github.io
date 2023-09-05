@@ -20,7 +20,7 @@ redakcji.
 
 Zapraszamy!
 
-#### W jaki sposób zostałeś Specification Engineerem?
+##### W jaki sposób zostałeś Specification Engineerem?
 
 Zanim nim zostałem, ukończyłem filologię angielską ze specjalnością
 translatoryki ogólnej. W trakcie studiów i po nich zdobyłem spore doświadczenie
@@ -42,7 +42,7 @@ centralnym zespole, do wzięcia udziału w nowym, ekscytującym projekcie
 Autonomous Driving. Tu również tworzę dokumenty po angielsku, choć widzę duże
 różnice między pisaniem dokumentacji i specyfikacji.
 
-#### Na czym właściwie polega Twoja rola?
+##### Na czym właściwie polega Twoja rola?
 
 Wcześniej odgrywałem rolę w tworzeniu dokumentów definiujących zmiany modelu
 produktu mapy. Obecnie opisuję ten model korzystając z diagramów UML, jak
@@ -54,7 +54,7 @@ obiektów reprezentujemy na mapie.
 Do moich obowiązków należy również odpowiadanie na pytania klientów zewnętrznych
 i przeprowadzanie analiz.
 
-#### Czy możesz opowiedzieć coś o swojej firmie i zespole, w którym pracujesz?
+##### Czy możesz opowiedzieć coś o swojej firmie i zespole, w którym pracujesz?
 
 Firma TomTom znana jest jako producent map i urządzeń do nawigacji samochodowej.
 Nic więc dziwnego, że TomTom stanął do wyścigu polegającego na opracowaniu
@@ -70,7 +70,7 @@ regularne spotkania z koleżanką po fachu. Dzięki temu mogę się skonsultowa�
 poprosić o recenzję, dostosować plan w taki sposób, by dostarczyć na czas
 najbardziej priorytetowe zadania.
 
-#### W jaki sposób zdobywasz informacje potrzebne do tworzenia specyfikacji?
+##### W jaki sposób zdobywasz informacje potrzebne do tworzenia specyfikacji?
 
 Informacje o zapotrzebowaniu na nowe funkcjonalności płyną od product managera i
 architekta. Szczegóły techniczne otrzymuję od inżynierów oprogramowania, a
@@ -78,7 +78,7 @@ detale operacyjne - od przedstawicieli operacji. Jestem w stałym kontakcie z
 osobami z działu zapewnienia jakości. Pytania i sugestie zmian przychodzą
 również od klientów.
 
-#### Jakich narzędzi używasz i co o nich sądzisz?
+##### Jakich narzędzi używasz i co o nich sądzisz?
 
 - Do utrzymywania diagramów UML wykorzystuję aplikację Enterprise Architect.
   Narzędzie słynie z tego, że jest bardzo nieintuicyjne i potrzeba sporo czasu,
@@ -101,7 +101,7 @@ również od klientów.
   pracę. Patrzę ostatnio w kierunku pakietu Power Automate, który pozwala na
   automatyzację niektórych operacji na dokumentach.
 
-#### Jakie produkty opisujesz?
+##### Jakie produkty opisujesz?
 
 Najogólniej rzecz biorąc, jest to mapa zawierająca pasy jezdne z uwzględnieniem
 namalowanych pasów i barier. Oprócz tego, dostarczamy różne dodatkowe informacje
@@ -119,7 +119,7 @@ nieodzowne. Technologie pojazdów autonomicznych i map HD dynamicznie się
 rozwijają. Jesteśmy dopiero na początku tej drogi, nie zobaczyliśmy jeszcze
 wszystkiego.
 
-#### Jakie są największe wyzwania, które napotykasz w swojej pracy?
+##### Jakie są największe wyzwania, które napotykasz w swojej pracy?
 
 - Zrozumienie zawiłych problemów technicznych.
 - Ilość napływających informacji i potrzeba szybkiej reakcji na nie, co wymaga
@@ -128,7 +128,7 @@ wszystkiego.
   potrzebują się wypowiedzieć.
 - Przedstawienie złożonych informacji w sposób jasny dla odbiorców.
 
-#### Co najbardziej lubisz w pracy na stanowisku Specification Engineera?
+##### Co najbardziej lubisz w pracy na stanowisku Specification Engineera?
 
 - Nie mogę narzekać na nudę. Jestem częścią projektu, w którym tworzone są nowe,
   bardzo obiecujące technologie.
@@ -142,7 +142,7 @@ wszystkiego.
 - Odczuwam dużą satysfakcję, gdy udaje się przedstawić informacje tak, że osoba
   nie znająca specyfiki naszych projektów jest w stanie je zrozumieć.
 
-#### Co możesz poradzić osobom, które chciałyby zacząć swoją przygodę z pisaniem dokumentacji i specyfikacji?
+##### Co możesz poradzić osobom, które chciałyby zacząć swoją przygodę z pisaniem dokumentacji i specyfikacji?
 
 Jeśli chcesz zacząć pracę w dokumentacji, potrzebujesz kompetencji językowych i
 samozaparcia. Przyda się też otwarta głowa, by starać się zrozumieć nowe tematy.

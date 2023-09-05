@@ -17,7 +17,7 @@ New tools, career paths and changes._
 
 <!--truncate-->
 
-### Słów kilka o organizatorze
+#### Słów kilka o organizatorze
 
 Organizatorem TCeurope Colloquium 2017 jest
 [The Finnish Technical Communications Society (STVY)](http://stvy.fi/en), która
@@ -31,20 +31,20 @@ STVY od dziesięciu lat jest organizatorem seminariów, które początkowo odby
 się raz do roku, a obecnie są organizowane cyklicznie, mniej więcej co półtora
 roku. Sama organizacja działa w Finlandii już od dwudziestu lat.
 
-### TCeurope - historia i działalność
+#### TCeurope - historia i działalność
 
 TCeurope to organizacja zrzeszająca osoby zainteresowane komunikacją techniczną,
 która działa na zasadach wolontariatu, skupiając w sobie różne mniejsze grupy z
 całej Europy. Jej działalność obejmuje wspieranie mniejszych organizacji i
 tworzenie pomiędzy nimi sieci komunikacyjnej.
 
-### Czas i miejsce konferencji
+#### Czas i miejsce konferencji
 
 Przyszłoroczna edycja TCeurope Colloquium odbędzie się w piątek, **7 kwietnia**
 w Näkövammaisten liitto ry facility w **Helsinkach**, Finlandia
 ([Marjaniementie 74](https://wego.here.com/finland/helsinki/street-square/marjaniementie-74--loc-dmVyc2lvbj0xO3RpdGxlPU1hcmphbmllbWVudGllKzc0O2xhbmc9Zmk7bGF0PTYwLjIwODE0ODk1NjI5ODgzO2xvbj0yNS4wNzQzMjkzNzYyMjA3MDM7c3RyZWV0PU1hcmphbmllbWVudGllO2hvdXNlPTc0O2NpdHk9SGVsc2lua2k7cG9zdGFsQ29kZT0wMDkzMDtjb3VudHJ5PUZJTjtkaXN0cmljdD1WYXJ0aW9reWwlQzMlQTQ7c3RhdGU9U291dGgrRmlubGFuZDtjb3VudHk9VXVzaW1hYTtjYXRlZ29yeUlkPWJ1aWxkaW5nO3NvdXJjZVN5c3RlbT1pbnRlcm5hbA?_ga=1.176149538.1810482451.1475920180&map=60.20815,25.07433,15,normal&x=ep)).
 
-### Przydatne informacje
+#### Przydatne informacje
 
 - Konferencja jednodniowa.
 - Udział bezpłatny dla wszystkich uczestników.
@@ -57,7 +57,7 @@ w Näkövammaisten liitto ry facility w **Helsinkach**, Finlandia
 Wszelkie dodatkowe informacje, takie jak rejestracja czy zakwaterowanie, zostaną
 umieszczone za jakiś czas na [stronie wydarzenia](http://www.tc-europe.org/).
 
-### Informacje dla potencjalnych prelegentów
+#### Informacje dla potencjalnych prelegentów
 
 Organizator zachęca do rejestracji osoby, które chciałyby wystąpić w roli
 prelegenta podczas konferencji. Poniżej zamieszczamy listę obszarów, w których
@@ -93,7 +93,7 @@ o niej mowa to zachęcamy do zapoznania się z
 z
 [pełnym zapisem konferencji](https://www.youtube.com/watch?v=9stNcZ6CqOI&list=PLXyaM5wpF8bmw13zFUUhiT0ubY6BK79KJ).
 
-### Gala dinner czyli spotkajmy się po wykładach
+#### Gala dinner czyli spotkajmy się po wykładach
 
 Dla uczestników konferencji zorganizowana będzie wieczorna impreza, na której
 można będzie poznać się lepiej i oczywiście nawiązać nowe kontakty, nie tylko

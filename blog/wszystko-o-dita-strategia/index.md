@@ -38,7 +38,7 @@ W tym artykule rozwiniemy każde z powyższych zagadnień w odniesieniu do dity
 wspomnimy o pewnych funkcjonalnościach, ale bez wdawania się w szczegóły
 techniczne. Te będziemy wyjaśniać w kolejnych wpisach.
 
-# Po co i dla kogo piszemy?
+## Po co i dla kogo piszemy?
 
 Pytamy o to, żeby zdecydować jakie rodzaje treści będziemy publikować. Czy
 będzie to instrukcja obsługi urządzenia lub aplikacji, dokumentacja podręczna
@@ -46,7 +46,7 @@ API, metody usuwania awarii, często zadawane pytania, a może materiały
 szkoleniowe? Ma to znaczenie w standardzie DITA, który daje nam różne rodzaje
 topików.
 
-## Typy topików DITA
+### Typy topików DITA
 
 Podstawowymi typami topików są:
 
@@ -85,7 +85,7 @@ strukturę. Pisanie topików będzie wtedy przypominało wypełniane formularza,
 przez co my nie zapomnimy czegoś napisać, a czytelnik będzie wiedział czego się
 spodziewać.
 
-# Jakie wersje produktu opisujemy?
+## Jakie wersje produktu opisujemy?
 
 Nasz produkt może być oprogramowaniem, które jest udostępniane online i wszyscy
 zawsze używają jego najnowszej wersji. Nasz produkt może być też pralką, która
@@ -104,7 +104,7 @@ temat na osobny artykuł. Dlatego w tym miejscu wymienimy tylko dwa bardzo tani
 ale kompleksowe rozwiązania: [easyDITA](http://easydita.com/) i
 [DITAToo](http://ditatoo.com/).
 
-## Czy współdzielimy treść między publikacjami?
+### Czy współdzielimy treść między publikacjami?
 
 W dicie możemy używać jednego topiku w wielu mapach, albo stosować conrefy i
 różne ich odmiany. Warto to robić, jeżeli jakaś treść jest powtarzana bez zmian
@@ -122,7 +122,7 @@ okres czasu przez różnych ludzi. Nie ma fizycznie osoby, która wie co jest gd
 napisane i czy nie ma czegoś podobnego w innych miejscach. Wprowadzenie
 współdzielenia może być stopniowe, ale zawsze wymaga starannego przemyślenia.
 
-# Czy tłumaczymy?
+## Czy tłumaczymy?
 
 Jeżeli tak, to musimy bardzo uważnie podejść do tematu conrefów i treści
 warunkowej. Conref to specjalny atrybut używany w dicie, który pozwala nam użyć
@@ -179,7 +179,7 @@ zaawansowanych funkcjonalności dity. Nawet jeżeli teraz nie tłumaczymy naszej
 treści, to możliwe, że kiedyś zaczniemy, dlatego warto się nad tym dobrze
 zastanowić opracowując strategię.
 
-# Jakie formaty publikujemy?
+## Jakie formaty publikujemy?
 
 DITA pozwala nam publikować praktycznie do dowolnego formatu elektronicznego, od
 HTML, poprzez e-booki, po Word czy PDF i wszystko pomiędzy. Możemy nawet
@@ -195,7 +195,7 @@ desktop publishingu typu
 [Adobe Illustrator](http://www.adobe.com/products/illustrator.html) czy
 [InDesign](http://www.adobe.com/pl/products/indesign.html).
 
-# Ustalanie strategii
+## Ustalanie strategii
 
 Strategia nie powstanie zaocznie w salce konferencyjnej, nawet podczas
 całodniowego spotkania. Właściwie to nawet kilkudniowy wyjazd strategiczny do
@@ -213,7 +213,7 @@ Dlatego nie oszukujmy się - ustalanie strategii będzie trwało długo i będzi
 wiązało z próbowaniem rzeczy w praktyce. Jeżeli wydaje nam się inaczej, to
 znaczy, że coś pominęliśmy.
 
-# Przykład strategii
+## Przykład strategii
 
 Tworzymy serię książeczek stanowiących instrukcje obsługi do sprzętu AmplePower
 Tectonic Sound Megablast Megasystems. Instrukcje będą czytać ludzie pracujący
@@ -258,7 +258,7 @@ Ta lista to absolutna podstawa kiedy myślimy o projekcie DITA. Wspominany
 na niej o wielu aspektach, które możliwe, że nie są Wam jeszcze znane, ale
 będziemy o nich mówić w kolejnych odsłonach cyklu.
 
-# Co dalej?
+## Co dalej?
 
 Strategia jest niezwykle ważnym elementem całego procesu tworzenia dokumentacji.
 Dlatego zanim przystąpimy do pisania, musimy być w stanie sobie odpowiedzieć na

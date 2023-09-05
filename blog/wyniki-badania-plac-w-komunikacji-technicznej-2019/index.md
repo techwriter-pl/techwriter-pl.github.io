@@ -19,7 +19,7 @@ jego wyniki.
 
 <!--truncate-->
 
-## Porównanie z poprzednimi latami
+### Porównanie z poprzednimi latami
 
 Wyniki poprzednich badań znajdziecie tu:
 
@@ -41,7 +41,7 @@ Czyli na lepsze zmieniają się następujące rzeczy:
 - mamy więcej uczestników ankiety
 - uczestnicy zarabiają więcej
 
-## Disclaimer (po polsku: dysklejmowanie)
+### Disclaimer (po polsku: dysklejmowanie)
 
 Zanim przejdziemy do szczegółowej analizy, chcemy zaznaczyć, że 103 osoby to
 mało jak na badanie i wyników takiego badania nie można nazwać statystyką.
@@ -53,7 +53,7 @@ Jak można wykorzystać te informacje? Na przykład negocjując podwyżkę z sze
 przygotowując się na pytanie "Ile Pan/Pani chce zarabiać?", czy planując gdzie
 się przeprowadzić.
 
-## Profesje
+### Profesje
 
 Tak jak w poprzednich latach, większość ankietowanych identyfikuje się jako
 technical writer (74%). Ten udział procentowy zdaje się spadać w ostatnich
@@ -92,7 +92,7 @@ Jak widać, wynagrodzenie technical writera może być całkiem atrakcyjne, i ni
 odstaje zbytnio od wynagrodzenia kierownika. Rekordowy wpis to 20 000 zł
 miesięcznie brutto. Zdecydowanie jest do czego aspirować. ????
 
-## Przygotowanie do zawodu, doświadczenie i rozwój
+### Przygotowanie do zawodu, doświadczenie i rozwój
 
 Tak jak w poprzednich latach, większość ankietowanych nauczyło się zawodu w
 pracy. Ciągle brakuje ludzi, którzy chcieliby skorzystać z
@@ -118,7 +118,7 @@ jak konferencje czy meetupy (63%) oraz czytanie stron lub blogów branżowych
 osoba zaznaczyła, że z nich korzysta. Pięciu ankietowanych zadeklarowało, że nie
 poszerza wiedzy.
 
-## Firma, branża
+### Firma, branża
 
 Prawie 90% ankietowanych pracuje w firmie zagranicznej. Nie ma wśród nas
 freelancerów, ogromna większość pracuje w firmie zatrudniającej powyżej 100
@@ -135,7 +135,7 @@ ogromna większość z nas pisze dokumentację do oprogramowania.
 | Do maszyn lub pojazdów      | 7                   |
 | Do sprzętu AGD              | 5                   |
 
-## Geografia
+### Geografia
 
 Większość ankietowanych pracuje w województwie małopolskim lub dolnośląskim.
 
@@ -155,7 +155,7 @@ Rekordowe zarobki (20 000 zł) pochodzą z województwa dolnośląskiego, tak ja
 najwyższe średnie zarobki - 9 330 zł. Najwyższa mediana pochodzi z województwa
 mazowieckiego (9 200 zł).
 
-## Zadowolenie
+### Zadowolenie
 
 Zapytaliśmy jak bardzo jesteś zadowolony/a ze swojej pracy w skali od 1 (bardzo
 nie lubię swojej pracy) do 5 (kocham swoją pracę). Jaki był wynik?
@@ -166,7 +166,7 @@ ocenę 2.
 
 [![](images/happiness.png)](http://techwriter.pl/wp-content/uploads/2019/04/happiness.png)
 
-## Podsumowanie
+### Podsumowanie
 
 Tak jak pisaliśmy powyżej, ankieta ma charakter poglądowy, a nie statystyczny.
 Jednak cieszymy się, że nasi ankietowani zarabiają coraz lepiej i do tego są

@@ -17,7 +17,7 @@ wrażeniach, kilka ochów i achów i krótkie sprawozdania z przebiegu konferenc
 
 <!--truncate-->
 
-## Who is Who
+### Who is Who
 
 Po pierwsze, jeśli nie udało się Wam przybyć do Krakowa, żeby wziąć udział w tym
 wydarzeniu, żałujcie i już zacznijcie namawiać pracodawców, żeby zasponsorowali
@@ -36,7 +36,7 @@ prelegentów znalazły się znane w branży nazwiska takie jak:
 oczywiście człowiek bez którego to wydarzenie nie mogło by się odbyć,
 [Matthew Ellison](http://www.ellisonconsulting.com/about.html).
 
-## Jak było?
+### Jak było?
 
 Atmosfera konferencji była wyśmienita (tak, tak, to jest właśnie to słowo,
 którego chcemy tutaj użyć). Dużo energii, zarówno wśród prezentujących jak i
@@ -55,7 +55,7 @@ swoją prezentację inaugurującą konferencję rozpoczął od opowieści o swoi
 polskich korzeniach oraz wycieczce, którą odbył w ubiegłym tygodniu zmierzając
 od Gdańska aż po Dębicę.
 
-## Trivia night czyli dlaczego należy czytać portal Techwriter.pl
+### Trivia night czyli dlaczego należy czytać portal Techwriter.pl
 
 Konferencji towarzyszyły dodatkowe atrakcje takie jak na przykład _trivia night_
 czyli zabawa z udziałem kilkuosobowych drużyn polegająca na odpowiadaniu na
@@ -66,7 +66,7 @@ zabawę. I tutaj wkracza nasz portal... jeśli czytasz, byłeś w stanie poprawn
 odpowiedzieć przynajmniej na jedno pytanie: skąd pochodzi lorem ipsum? Odpowiedź
 znajdziesz [tutaj](http://techwriter.pl/dowiedz-sie-w-koncu-co-to-znaczy/) 😊
 
-## Trochę konkretów
+### Trochę konkretów
 
 Prezentacje były bardzo ciekawe i co ważne przygotowane w niezwykle ciekawy i
 absorbujący sposób. Znowu widać klasę organizatorów, którzy wybierają na swoich

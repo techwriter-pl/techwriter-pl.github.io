@@ -17,7 +17,7 @@ temat poruszono w najnowszym, 53 odcinku,
 
 <!--truncate-->
 
-### Kilka słów o portalu
+#### Kilka słów o portalu
 
 Dla osób, które niezbyt często tu zaglądają lub są z nami po raz pierwszy,
 przypomnę główne założenia portalu Tech Writer Koduje oraz przedstawię po krótce
@@ -41,7 +41,7 @@ Autorami portalu są:
   stanowisko _Principal Doc Tools Developera_ (full-stack JS developer) w
   Guidewire Software.
 
-### Odcinek #53
+#### Odcinek #53
 
 Tematem przewodnim odcinka jest ContentOps, który jest sposobem na ciągłe
 dostarczanie (continuous delivery) i ciągłe usprawnianie (continuous

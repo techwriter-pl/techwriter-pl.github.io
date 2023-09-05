@@ -28,7 +28,7 @@ producenta - firmy TechSmith.
 
 Dobrej lektury!
 
-## Wprowadzenie
+### Wprowadzenie
 
 Moja przygoda ze Snagitem zaczęła się w 2014 roku, kiedy moja siostra
 („wschodząca gwiazda bankowości inwestycyjnej”), odpowiadająca za projekty
@@ -42,7 +42,7 @@ width="561"\]![](images/image001.png) „Print screen”, „screen shot”, „
 capture”, „zrzuty ekranu”, a w języku Polglish „screeny”. Wiele jest określeń
 tej prozaicznej, ale niepozbawionej niuansów czynności.\[/caption\]
 
-## Historyczne decyzje
+### Historyczne decyzje
 
 Pracowałem wtedy w dziale dokumentacji w firmie TomTom, w której zresztą nadal
 pracuję. Niedługo po usłyszeniu rewelacji od siostry, ściągnąłem wersję próbną i
@@ -84,7 +84,7 @@ wniosku, że na potrzeby tworzenia profesjonalnie wyglądających ilustracji
 interfejsów Snagit zupełnie wystarczał. I okazało się szybko, że nie tylko
 „dawał radę”, ale wręcz podbił nasze serca.
 
-## Przygoda ze Snagitem
+### Przygoda ze Snagitem
 
 Robiąc zrzuty ekranu przed 2014 niewiele przykładałem wagi do sposobu w jaki je
 wykonywałem. Powtarzałem te same czynności: wciśnięcie PRINT SCREEN na
@@ -103,7 +103,7 @@ funkcje. Online help czy tutoriale nie były potrzebne. Oprócz prostoty użycia
 role odegrał też dobry „onboarding” pod postacią podpowiedzi na ekranie,
 pomocnych, kiedy stawiasz pierwsze kroki.
 
-### Wartość dodana
+#### Wartość dodana
 
 Ilustracje tworzone przez zespół zaczynały wyglądać coraz bardziej
 profesjonalnie i miały ujednolicony wygląd. Dzięki bibliotece (patencie, którego
@@ -126,7 +126,7 @@ użyciem Snagita była nawet lepsza, bo nie pozostawały odciski palca na monito
 prezentacjach e-learning i odgrywało rolę w procesie recenzowania tworzonych
 treści. Nawet tworzenie i udostępnianie memów stało się prostsze 😉
 
-### Kto powinien się zainteresować
+#### Kto powinien się zainteresować
 
 Narzędzie jest przede wszystkim adresowane do tech writerów i specjalistów od
 e-learningu. Nawet jeśli Twoja rola nie dotyczy tworzenia treści, to niezależnie
@@ -134,7 +134,7 @@ od tego czy jesteś szeregowym pracownikiem czy managerem, Snagit może być
 nieocenionym narzędziem do skutecznej komunikacji wizualnej, robienia notatek. O
 dodatkowych zastosowaniach piszę później.
 
-### Ewolucja Snagita – kamienie milowe
+#### Ewolucja Snagita – kamienie milowe
 
 Twórcy Snagita unikają stagnacji, więc z biegiem czasu aplikacja zaczęła
 obrastać w piórka. Muszę przyznać, że mają tam świetnych speców od user
@@ -143,7 +143,7 @@ zawsze widoczna od razu. Opowiem o kilku godnych uwagi „game changerach”. Ni
 wymieniam tu każdej opcji, bez której nie mogę żyć, ale kilka bardzo
 interesujących kierunków, jakie TechSmith obrał.
 
-#### Od wstążki do przycisków
+##### Od wstążki do przycisków
 
 W początkowej wersji jaką dostałem, przyciski były pogrupowane podobnie jak we
 flagowych aplikacjach Ms Office (ribbon). Dostęp do konkretnej funkcji w pasku
@@ -155,7 +155,7 @@ programu, że nie zauważałem problemu. Na szczęście, eksperci od user experi
 kwestię namierzyli i naprawili, zmieniając interfejs tak, by wszystkie przyciski
 były widoczne równocześnie. I bardzo mi się to podoba.
 
-#### Dodatkowy krok przy domyślnym robieniu screena
+##### Dodatkowy krok przy domyślnym robieniu screena
 
 W pierwotnej wersji, domyślny tryb pozwalał na szybkie zaznaczanie ekranu i
 natychmiastową edycję obrazu. Od pewnej aktualizacji, po zaznaczeniu, należało
@@ -177,7 +177,7 @@ problemu, którego większość użytkowników może nie dostrzegać. Aktualizac
 skutkuje ułatwieniem pracy i usprawnieniem działania. Czasem potrzeba trochę
 czasu, by pokonać wcześniejsze przyzwyczajenia, ale warto się przekonać.
 
-#### Autofill – automatyczne wypełnianie
+##### Autofill – automatyczne wypełnianie
 
 Tu również mamy genialne usprawnienie. Powiedzmy, że edytujesz interfejs
 użytkownika na obrazku i wycinasz przycisk. Pozostaje przezroczysty obszar, po
@@ -189,13 +189,13 @@ pewnością nie polecam jej do wycinania obszarów na zdjęciach z wakacji, cho�
 można spróbować alternatywnej opcji „Autofill: Photo Quality”, która w
 niektórych sytuacjach radzi sobie dobrze.
 
-#### Batch Conversion – operacje na wielu plikach
+##### Batch Conversion – operacje na wielu plikach
 
 Snagit pozwala zapisywać wybrane pliki pod automatyczną, nową nazwą i w wybranym
 formacie. Można też dodać efekty takie jak: zmiana wymiarów, przycinanie, ramki,
 znak wodny i wiele, wiele innych.
 
-#### Projekty z edytowalnymi obiektami
+##### Projekty z edytowalnymi obiektami
 
 Absolutnie nie do przecenienia jest możliwość zapisu obrazów do formatu \*.snag,
 co pozwala zachować każdy dodany element jako edytowalny obiekt, który w
@@ -203,7 +203,7 @@ przyszłości możesz zaktualizować, przesunąć lub wykasować. Do publikacji
 potrzebne są statyczne obrazy w formatach takich jak \*.jpg czy \*.png, ale to w
 formacie \*.snag Twój projekt graficzny żyje i się rozwija.
 
-#### Video
+##### Video
 
 Nagrywanie i edycja wideo pozwalają na stworzenie filmu demonstrującego
 wykonanie czynności na ekranie. Taki prosty film można użyć w e-learningu.
@@ -211,41 +211,41 @@ wykonanie czynności na ekranie. Taki prosty film można użyć w e-learningu.
 Czasem, by uzyskać większą liczbę screenów, lepiej tak zaatakować problem
 zamiast pstrykać każde zdjęcie z osobna.
 
-#### Tworzenie gifów
+##### Tworzenie gifów
 
 Wyjątkowo krótkie filmy można zapisać jako animowany \*.gif do użycia w
 materiale e-learning czy w online help. Czasem kilka zapętlonych klatek wyjaśni
 więcej niż cztery zdania tekstu.
 
-#### Themes
+##### Themes
 
 Sporą zaletą Snagita jest to, że można zdefiniować kolory zgodne z „brand style
 guide”, dzięki czemu uzyskamy wizualną spójność. Tak ustawione kolory można
 udostępnić reszcie zespołu, co zaoszczędzi czas jaki spędziłaby każda z osób na
 ręcznym ustawianiu kolorów.
 
-#### Dostosowywanie paska narzędzi
+##### Dostosowywanie paska narzędzi
 
 Użytkownik może zdecydować jakie przyciski chce mieć na widoku. Najważniejsze z
 nich są pod ręką, kiedy tylko ich potrzebujesz.
 
-#### Blur
+##### Blur
 
 Możliwość ukrycia wrażliwych danych na screenie, poprzez dodanie rozmytego
 obszaru. Przydatna opcja, zwłaszcza w świecie po wprowadzeniu RODO.
 
-#### Quick Styles, Favorites
+##### Quick Styles, Favorites
 
 Specyficzne kombinacje parametrów dla obiektów (np.: czerwona strzałka o
 wybranej grubości i stylu) można zapisywać do galerii stylów. Dla zgrupowania
 tych najbardziej przydatnych stylów możemy wykorzystać **Favorites**.
 
-#### Templates
+##### Templates
 
 Szablony pozwalają na szybkie stworzenie wizualnej instrukcji „krok po kroku”.
 Wystarczy zaznaczyć potrzebne grafiki, wybrać szablon i dodać podpisy.
 
-#### Zdjęcia panoramiczne
+##### Zdjęcia panoramiczne
 
 Korzystam z tego każdego dnia, gdy chcę pokazać obraz nie mieszczący się na
 ekranie. Wystarczy włączyć nagrywanie, przewinąć zawartość strony by uzyskać
@@ -253,24 +253,24 @@ zapisanie całości. Narzędzie działa też w poziomie, więc można pokazać d
 obszary mapy jako całość, np.: trasę autostrady jadącej na południe, a potem na
 zachód.
 
-#### Tłumaczenie Callouts
+##### Tłumaczenie Callouts
 
 Jeśli potrzebujesz ilustracji w różnych językach, użyj przycisku **Translate** w
 **Library**. Powstanie wtedy plik, który można otworzyć w programie open source,
 który wspomoże Cię w tłumaczeniu podpisów i **Callouts** (dymków).
 
-#### Nagrywanie narracji i wideo na bazie zachowanych obrazów
+##### Nagrywanie narracji i wideo na bazie zachowanych obrazów
 
 Ciekawym rozszerzeniem możliwości wideo jest nagrywanie narracji dla wybranych
 obrazów między którymi można się przełączać i po nich rysować. Najczęściej
 pomocne przy nagrywaniu filmu z prezentacją.
 
-#### Grab Text
+##### Grab Text
 
 Funkcjonalność pozwala na szybkie rozpoznanie tekstu w obrazie, jego skopiowanie
 i edycję.
 
-#### Simplify
+##### Simplify
 
 Narzędzie pozwala automatycznie zamienić screen shot pokazujący interfejs
 aplikacji w uproszczoną grafikę, której tylko wybrane fragmenty pokazują
@@ -278,16 +278,16 @@ potrzebne informacje. Świetna metoda, by nie obciążać odbiorcy nadmiarem
 niepotrzebnych informacji wizualnych. Taki obraz pozostanie aktualny na długo,
 bo będzie pokazywać ograniczoną liczbę przycisków i elementów interfejsu.
 
-## Ciekawe zastosowania
+### Ciekawe zastosowania
 
-#### Robienie notatek
+##### Robienie notatek
 
 Snagit pozwala na błyskawiczne rejestrowanie fragmentów maili i stron. Powiązane
 informacje można obejrzeć obok siebie, zastosować zakreślenie, wkleić ikonę
 (**Stamp**), rysować linie i strzałki. Ponadto, biblioteka Snagita (**Library**)
 automatycznie zapisze adresy stron, na których robione były screeny.
 
-#### Lista rzeczy do zrobienia
+##### Lista rzeczy do zrobienia
 
 Panel **Recent Captures Tray** pokazuje miniatury ostatnio wykonanych zdjęć.
 Może nie brzmi to spektakularnie, ale jest to niezwykle pomocne przy tworzeniu
@@ -296,7 +296,7 @@ która jest zawsze na widoku z poziomu **Edytora**. W miarę wykonywania kolejny
 punktów zamykasz następujące po sobie miniatury i przechodzisz do pozostałych
 zadań.
 
-#### Zbieranie przykładów
+##### Zbieranie przykładów
 
 W mojej codziennej pracy w Specyfikacji mapy, często potrzebuję zebrać dużo
 zdjęć przedstawiających sytuacje drogowe, których dotyczą funkcjonalności, np.:
@@ -307,26 +307,26 @@ jest w wybranym katalogu, z domyślną nazwą, dzięki czemu się w tym nie pogu
 Po wstępnym zebraniu zdjęć, niepotrzebne usuwam, a jeśli trzeba, korzystam z
 **Tags** – etykiet, dzięki którym mogę podzielić znaleziska tematycznie.
 
-#### Analiza porównawcza
+##### Analiza porównawcza
 
 W Snagicie często porównuję różne wersje specyfikacji, stosując rozmaite
 narzędzia do podkreślenia kluczowych różnic. W obrębie panelu **Recent Captures
 Tray** przeciągam screen shoty na obszar roboczy, by połączyć je w jeden obraz.
 
-#### Rysowanie schematów
+##### Rysowanie schematów
 
 Mam bazę stworzonych ilustracji w formacie \*.snag. Wszystkie składają się z
 edytowalnych elementów. Mogę tworzyć nowe kopie i je dostosowywać lub wyciągać
 pojedyncze elementy (np.: legendy pod schematem), żeby zastosować je w obecnym
 projekcie.
 
-#### Proste demonstracje video
+##### Proste demonstracje video
 
 Chcesz coś komuś szybko wyjaśnić, ale nie masz czasu na telekonferencję? Nagraj
 swój ekran (pamiętaj by włączyć nagrywanie kursora), udostępnij film za pomocą
 jednej z wielu dogodnych opcji. Załatwione.
 
-#### Dokumentowanie błędów aplikacji
+##### Dokumentowanie błędów aplikacji
 
 Możesz jasno wskazać na screenie, gdzie występuje błąd. Możesz go zaznaczyć
 ikonką czerwonego owalu (**Stamp**), narysować własny kształt, użyć narzędzia
@@ -335,7 +335,7 @@ przesłoni wszystkiego. Możesz użyć narzędzia **Capture Info**, które wstaw
 pole z dowolnym tekstem, datą, godziną, systemem operacyjnym, nazwą aplikacji,
 którą pokazujesz na screenie.
 
-#### Wyciąganie koordynatów z obrazu
+##### Wyciąganie koordynatów z obrazu
 
 Pracując w branży nawigacji często wymieniamy się koordynatami miejsc do
 obejrzenia, np.: 51.759324, 19.448562. Pracując w narzędziu
@@ -343,21 +343,21 @@ obejrzenia, np.: 51.759324, 19.448562. Pracując w narzędziu
 koordynatami. Kiedy później wracam do zdjęcia, stosuję komendę _Grab Text_ i już
 mogę wklejać koordynaty w narzędzie, by kontynuować analizę.
 
-#### Wygodne udostępnianie do Ms OneNote
+##### Wygodne udostępnianie do Ms OneNote
 
 W przypadku udostępniania do Ms OneNote, można wysyłać screeny nowych notatek w
 wybranej sekcji albo tam, gdzie aktualnie znajduje się kursor w OneNote. Dobrze
 działa to w połączeniu z presetem zmieniającym wymiary obrazów tak, by zmieściły
 się na stronie notatki.
 
-#### Naprostowywanie krzywego zdjęcia
+##### Naprostowywanie krzywego zdjęcia
 
 Nie mam skanera i czasem robię zdjęcia dokumentów telefonem. Nieważne jak się
 staram, zawsze jest trochę krzywo. Za pomocą **Perspective** mogę zrobić mały
 retusz obracając zdjęcie w trójwymiarze. Dodam jeszcze, że _Grab/Edit Text_
 potrafi rozpoznać tekst prawdziwego dokumentu na zdjęciu.
 
-#### Wycinanie niechcianych elementów z obrazu
+##### Wycinanie niechcianych elementów z obrazu
 
 Czasem potrzebujesz zaznaczyć i usunąć element ze zdjęcia przedstawiający
 prawdziwą sytuację. Masz np.: niepotrzebny znak drogowy na tle nieba, którego
@@ -366,19 +366,19 @@ Wand** albo **Selection** + „Snap to Object”) i automatycznie wypełnić kol
 („Autofill: Photo Quality”). Nie jest to metoda w 100% skuteczna, ale wiele razy
 wycinałem rzeczy na tle nieba lub jezdni i uzyskiwałem zadowalające efekty.
 
-#### Sprytne rejestrowanie menu
+##### Sprytne rejestrowanie menu
 
 Za pomocą kombinacji opcji w **Capture Window** lub korzystając z **Presets**
 możesz znacznie ułatwić sobie zadanie. Przeklikaj wszystkie menu, które chcesz
 uwiecznić. Zatrzymaj nagrywanie. Masz zapisane każde menu i nic więcej. To się
 nazywa chirurgiczna precyzja.
 
-#### Jak zapisać tablice drogowe i nic więcej
+##### Jak zapisać tablice drogowe i nic więcej
 
 Użyj opcji „Selection: Multiple Areas”, żeby zaznaczyć kilka prostokątnych czy
 kwadratowych obszarów, które potem będą na jednym obrazie.
 
-#### Uporządkowanie hierarchii nagłówków
+##### Uporządkowanie hierarchii nagłówków
 
 Pracujesz na dokumencie lub stronie i sekcja nagłówków zaczyna Cię przerastać?
 Zrób zdjęcie wszystkich nagłówków, wspomagając się **Panoramic Capture**.
@@ -386,13 +386,13 @@ Następnie włącz opcję „Smart move” dla **Move**. Teraz możesz przesuwa�
 nagłówki, a oprócz tego zakreślać je, przekreślać albo łączyć strzałkami, co
 pomoże Ci uporządkować temat.
 
-#### Odszukaj adres strony internetowej
+##### Odszukaj adres strony internetowej
 
 Jeśli szukasz strony, na której był robiony screen, możesz użyć wyszukiwarki,
 poszukać po dacie lub nazwie witryny. Gdy odnajdziesz screen, użycie komendy
 _Details_ da Ci dostęp do zapisanego adresu internetowego.
 
-#### Szybkie podmienianie obrazu w Ms Word
+##### Szybkie podmienianie obrazu w Ms Word
 
 Pracując nad plikami Word z obrazami do aktualizacji, stosuję następującą
 sztuczkę, by szybko aktualizować obrazy. Mam stworzony folder, do którego za
@@ -402,7 +402,7 @@ ustawiony szybki dostęp, a pliki sortowane są po dacie modyfikacji, więc
 pierwszy z góry jest zawsze tym, który ostatnio dodałem. Otwieram plik i zdjęcie
 podmienione. Przeczytanie tego akapitu zajmuje więcej niż cała akcja.
 
-## Snagit obecnie – podsumowanie części ogólnej
+### Snagit obecnie – podsumowanie części ogólnej
 
 Po wielu latach, korzystanie z tego elastycznego narzędzia weszło mi w krew, i
 to nie tylko w czasie pracy. Kiedy tylko widzę przydatną informację, moje palce
@@ -424,7 +424,7 @@ zawartości ekranu. Jestem pewien, że twórcy nie powiedzieli ostatniego słowa
 jeszcze nie raz zaskoczą nas nowymi funkcjami, a tech writerzy i specjaliści od
 e-learningu dostaną jeszcze lepsze narzędzie do wizualnej komunikacji.
 
-## Snagit 2020 - wyciśnij najwięcej jak się da
+### Snagit 2020 - wyciśnij najwięcej jak się da
 
 Dalsza część artykułu to propozycja dla osób, które już miały styczność ze
 Snagitem i poszukują pomysłów na wykorzystanie jego pełni możliwości.
@@ -463,12 +463,12 @@ narzędziu, będziesz mógł/mogła z dumą powiedzieć:
 
 ![](images/keanu-300x300.jpg)
 
-### Ustawienia na dobry początek
+#### Ustawienia na dobry początek
 
 Pierwsze kroki warto skierować do ustawień i preferencji. Nie chcę powtarzać
 treści online helpu Snagita, a zwrócić uwagę na niezwykle istotne opcje.
 
-#### OneClick: Ikona koła zębatego => Capture Preferences
+##### OneClick: Ikona koła zębatego => Capture Preferences
 
 ![](images/image007.png)
 
@@ -480,7 +480,7 @@ screena z fragmentem mapy chcesz ponownie zrobić zdjęcie tego samego obszaru
 ekranu po przesunięciu mapy i pokazaniu innego miejsca. Bo po co zaznaczać
 jeszcze raz ten sam obszar, który Snagit ma już w pamięci?
 
-#### Snagit Editor: Menu Edit => Editor Preferences
+##### Snagit Editor: Menu Edit => Editor Preferences
 
 Polecam włączyć opcję „Automatically expand the canvas to fit objects” bo dzięki
 temu po wklejeniu większego obiektu obszar roboczy automatycznie dostosuje się
@@ -503,7 +503,7 @@ widoczne.
 
 „Spacer” pozwala wstawić przerwy rozdzielające grupy przycisków.
 
-### Zarządzanie plikami \*.snag
+#### Zarządzanie plikami \*.snag
 
 ![](images/alert.png)Świadomość tego jak zarządzać plikami w formacie \*.snag ma
 kluczowe znaczenie. Przede wszystkim, jeśli chcesz tworzyć obrazki z dodawanymi
@@ -530,20 +530,20 @@ Dostosuj pasek narzędzi, by ikona OneDrive pojawiła się na widoku. Teraz, po
 zapisaniu pliku \*.snag na dysku, wystarczy kliknąć ikonę OneDrive, a edytowalny
 plik \*.snag pojawi się w wybranym katalogu w chmurze.
 
-### Instalacja nowej wersji a istniejąca biblioteka obrazów
+#### Instalacja nowej wersji a istniejąca biblioteka obrazów
 
 ![](images/alert.png)Nie obawiaj się, że po instalacji nowej wersji stracisz
 dotychczasowe screeny. Po prostu odinstaluj starą wersję używając opcji „keep
 files”, zainstaluj nową i możesz już wykorzystywać nowe funkcjonalności na
 wcześniejszych plikach.
 
-### Instalacja pieczątek z wersji 12
+#### Instalacja pieczątek z wersji 12
 
 ![](images/deskorolka.png)Dla fanów zestawu pieczątek tej wersji. Ściągniecie je
 ze strony TechSmith. Tutaj instrukcja:
 [https://support.techsmith.com/hc/en-us/articles/220456508-Snagit-Windows-Install-Old-Stamps](https://support.techsmith.com/hc/en-us/articles/220456508-Snagit-Windows-Install-Old-Stamps)
 
-### Podstawowy proces użycia
+#### Podstawowy proces użycia
 
 Choć prostota jest dla twórców aplikacji jednym z priorytetów, nie można
 powiedzieć, że program jest ubogi w funkcjonalności. Jeśli przyjrzeć się tym
@@ -573,9 +573,9 @@ czym przeczytasz w dalszych sekcjach.
 
 W kilku miejscach będę się odnosił do wypisanych powyżej kroków.
 
-### Rejestrowanie ekranu – najbardziej kompleksowy zestaw trybów
+#### Rejestrowanie ekranu – najbardziej kompleksowy zestaw trybów
 
-#### All-In-One - domyślny tryb robienia screenów
+##### All-In-One - domyślny tryb robienia screenów
 
 Wystarczy wcisnąć ustawiony klawisz, ich kombinację albo czerwony przycisk
 **Capture** występujący w **OneClick**, **Capture Window**, a nawet w
@@ -609,7 +609,7 @@ klikając **Redo** lub zrezygnować klikając **Cancel**.
 Na etapie **3.** możesz zadecydować, czy zarejestrujesz statyczny obraz, film
 albo zdjęcie panoramiczne, o których więcej dowiesz się z dalszych sekcji.
 
-#### OneClick
+##### OneClick
 
 Zawsze dostępny jako cienka linia w wybranym miejscu na brzegu ekranu.
 **OneClick** pozwala na błyskawiczne przywołanie trybu **All-In-One**. Wystarczy
@@ -625,7 +625,7 @@ nazwą, wystarczy tylko jedno (sic!) kliknięcie, by manufaktura screenów ruszy
 Już łatwiej się nie da zacząć. Prawdopodobnie najczęściej używany sposób
 robienia screenów przez osoby, które dopiero co zainstalowały Snagita.
 
-#### Capture Window: All-in-One
+##### Capture Window: All-in-One
 
 Gdy domyślne ustawienie trybu **OneClick** ograniczają Cię, z pomocą przychodzi
 **Capture Window** z możliwością zmiany opcji w locie. W Capture Window, który
@@ -707,7 +707,7 @@ strzałkę:
 Strzałka ta występuje dla każdej z zakładek: **All-In-One**, **Image**,
 **Video**.
 
-#### Capture Window: Image
+##### Capture Window: Image
 
 Po wyczerpaniu wszystkich możliwości trybu **All-In-One**, warto przejść do
 następnej zakładki **Image**. W tym trybie część opcji pokrywa się z tymi z
@@ -770,7 +770,7 @@ umknie. Niepotrzebne obrazy można później usunąć.
 
 Inna opcją byłoby nagrać film a potem wyciągać z niego klatki.
 
-#### Zdjęcia panoramiczne
+##### Zdjęcia panoramiczne
 
 Robienie zdjęć panoramicznych jest dostępne w większości trybów. Pozwala zapisać
 więcej niż można pokazać na jednym ekranie bez przewijania. Często stosuję ten
@@ -783,7 +783,7 @@ pamiętać o tym, by nie przesuwać mapy zbyt szybko, bo Snagit będzie mieć pr
 ze sklejeniem obrazów. W post produkcji, nadmiar zarejestrowanej przestrzeni
 można przyciąć narzędziem **Cut Out**.
 
-#### Video
+##### Video
 
 Snagit pozwala nagrywać proste filmy przedstawiające to, co dzieje się w
 wybranej części ekranu. Może też nagrać obraz z wbudowanej kamery do laptopa.
@@ -808,7 +808,7 @@ Możesz w ten sposób nagrać serię czynności na ekranie, a następnie zapisa�
 potrzebne klatki jako screen shoty. Nie warto zatrzymywać się po każdym kroku na
 robienie zdjęcia.
 
-#### Capture Window: Video
+##### Capture Window: Video
 
 Większość opcji **Capture: Video** pokrywa się z tymi, które występują w
 **Capture: Image**, **Capture: All-In-One**. Nagrywanie kursora na filmie jest
@@ -816,7 +816,7 @@ ważną kwestią i tylko tu da się ją ustawić. Jeśli chodzi o typowo filmowe
 „Webcam”, „Microphone” i „System Audio” to te rzeczy możesz też dostosować po
 uruchomieniu komendy _Capture_.
 
-#### Capture Window: Presets
+##### Capture Window: Presets
 
 Świeżo upieczony użytkownik Snagita korzysta głównie z **OneClick**. Po
 zaznajomieniu się z trybem **All-In-One** zaczynają się eksperymenty z głównymi
@@ -882,7 +882,7 @@ tych bardziej skomplikowanych można się pomylić, np.: wybierzesz zły katalog
 zapisu pliku. Dla przetestowania użyj skrótu lub kliknij na ikonę presetu, by go
 aktywować.
 
-#### Nawigacja pomiędzy elementami interfejsu
+##### Nawigacja pomiędzy elementami interfejsu
 
 Każdy z elementów układanki Snagit jest dobrze skomunikowany z pozostałymi.
 Będąc w **OneClick**, **Capture Window**, **Library** jednym kliknięciem
@@ -890,9 +890,9 @@ przedostaniesz się do **Edytora**. Wszędzie znajdziesz czerwony przycisk do
 rozpoczęcia nagrywania. **Presets** możesz uruchomić klikając je w **Capture
 Window** lub w **OneClick**.
 
-### Edycja obrazu – szybkość i wydajność
+#### Edycja obrazu – szybkość i wydajność
 
-#### Recent Captures Tray
+##### Recent Captures Tray
 
 Są to miniatury ostatnio otwartych i edytowanych plików, dające do nich szybki
 dostęp.
@@ -920,13 +920,13 @@ dodać do biblioteki. Przeciąganie w drugą stronę też jest możliwe. Za pomo
 przycisku **Tag** można zarządzać etykietkami, dla lepszego katalogowania
 obrazów.
 
-#### Powiększenie i zmiana rozmiaru
+##### Powiększenie i zmiana rozmiaru
 
 ![](images/image032-300x57.jpg)
 
 Nad miniaturami znajdziesz przycisk do zmiany rozmiaru obrazu.
 
-#### Pixel grid
+##### Pixel grid
 
 ![](images/image033-300x285.jpg)
 
@@ -936,7 +936,7 @@ menu **View**. Siatka pikseli pojawia się przy dużym powiększeniu. Dla szybki
 zoomu użyj CTRL + obrót kółka myszy. Przy dużym powiększeniu możesz przesuwać
 widok obrazu w lewo i prawo.
 
-#### Selection
+##### Selection
 
 ![](images/image034.jpg)
 
@@ -961,7 +961,7 @@ najlepiej przy oknach interfejsu a „Photo Quality” przy zdjęciach.
 fragmentu obrazu, kliknięcie prawym przyciskiem, komenda _Save Selection as_ i
 zapis fragmentu jako osobny plik.
 
-#### Move – zaznaczanie obiektów
+##### Move – zaznaczanie obiektów
 
 ![](images/image036.jpg)
 
@@ -1035,7 +1035,7 @@ wypełnione automatycznie.
 
 Wszystkie komendy z menu kontekstowego znajdziesz w menu **Edit** i **Image**.
 
-#### Niefortunne spłaszczenie obiektów
+##### Niefortunne spłaszczenie obiektów
 
 Jak odzyskać edytowalny obiekt? Po użyciu komendy _Flatten_ jest kilka rzeczy,
 które można zrobić, oprócz oczywistego CTRL+Z. W menu **Edit** jest komenda
@@ -1046,7 +1046,7 @@ został tekst, zaznacz obszar i użyj komendy _Edit Text_. Jeśli Twoje projekty
 \*.snag leżą w wersjonowanej lokalizacji takiej jak OneDrive, każdą zapisaną
 wersję odzyskasz z historii pliku.
 
-#### Canvas Snapping
+##### Canvas Snapping
 
 Kiedy przemieszczasz obiekty możesz włączyć **Canvas Snapping**. Aplikacja
 będzie wyświetlać niebieskie linie przez środek i krawędzie kształtu, który
@@ -1062,7 +1062,7 @@ akcji, możesz włączyć **Pixel Grid** i mocno przybliżyć obszar roboczy.
 Zaznaczony obiekt możesz przesuwać strzałkami na klawiaturze, dla pikselowej
 precyzji wciśnij strzałki i SHIFT.
 
-#### Magic Wand – czy zdziała cuda?
+##### Magic Wand – czy zdziała cuda?
 
 **Magic Wand** znasz pewnie z innych edytorów grafiki. Klikasz w obszar a
 aplikacja zaznacza obszar o podobnym kolorze. Przypomina nieco opcję „Snap to
@@ -1076,7 +1076,7 @@ przezroczystością. Kliknij tło i wytnij je wokół elementu.
 za pomocą **Wand** albo **Select** + „Snap to Object” i stosując komendę _Invert
 selection_.
 
-#### Uchwyty, Cut out, Auto Trim
+##### Uchwyty, Cut out, Auto Trim
 
 ![](images/selfdrivingcar-300x159.png)
 
@@ -1101,7 +1101,7 @@ wystarczy jedno kliknięcie, by pozbyć się nadmiaru wolnej przestrzeni. Granic
 obszaru roboczego będą przesunięte aż zatrzymają się na elemencie graficznym lub
 obiekcie.
 
-#### Callout
+##### Callout
 
 ![](images/baloon.png)
 
@@ -1123,7 +1123,7 @@ zaakcentowaniem poprzez kliknięcie.
 masz dać dłuższy komentarz na obrazku w ramach recenzji, a chcesz by dymek nie
 przesłaniały wszystkiego i by kontekst pozostał widoczny.
 
-#### Text
+##### Text
 
 ![](images/a.png)
 
@@ -1132,7 +1132,7 @@ Warto zwrócić uwagę na opcję „Padding” i szerokość ramek, bo gdy masz 
 bo brany pod uwagę jest nie tylko środek, ale i brzegi ramki. Minimalizacja
 ramki i paddingu tu pomogą.
 
-#### Shape
+##### Shape
 
 ![](images/shapes.png)Narzędzie jest bardzo intuicyjne. Po narysowaniu kształtu,
 można go zmienić przez drop-down „Shape”.
@@ -1140,7 +1140,7 @@ można go zmienić przez drop-down „Shape”.
 ![](images/deskorolka.png)Klikając napis „Shadow” można dostosować opcje cienia.
 Można nawet zrobić kolorową poświatę wokół kształtu.
 
-#### Pen, Line, Arrow
+##### Pen, Line, Arrow
 
 ![](images/image048.jpg)
 
@@ -1163,13 +1163,13 @@ wielkość opcją „Start/end size”. Początek i koniec mogą mieć różną 
 Czasem, żeby zobaczyć wszystkie opcje, musisz podciągnąć pasek **Tool
 Properties** do góry, bo pewne opcje będą ukryte.
 
-#### Fill
+##### Fill
 
 ![](images/drop.png)Posiada funkcję „zakraplacza” którą można pobrać kolor nie
 tylko w obrębie **Edytora**, ale i z dowolnego miejsca na każdym z Twoich
 monitorów. Wypełnienie może być półprzezroczyste, dzięki opcji „Opacity”.
 
-#### Spotlight and magnify
+##### Spotlight and magnify
 
 ![](images/loupe.png)Bardzo przydatne narzędzie dla uwydatnienia fragmentu
 obrazu. Można powiększyć fragment i zaciemnić resztę.
@@ -1177,7 +1177,7 @@ obrazu. Można powiększyć fragment i zaciemnić resztę.
 ![](images/deskorolka.png)Działa na każdym kształcie zaznaczenia, nie tylko na
 prostokątnym.
 
-#### Quick Styles, Themes
+##### Quick Styles, Themes
 
 Każdy unikalnie formatowany obiekt (linia, kształt, tekst, dymek, kolor
 wypełnienia) sprawia, że propozycja nowego stylu staje się widoczna w galerii
@@ -1191,7 +1191,7 @@ kolorów, które będą Ci sugerowane dla każdego rysowanego obiektu zdefiniuje
 przez „Theme:”. Jeśli w Twojej firmie obowiązuje „brand style guide”, możesz
 zdefiniować zestawy kolorów i udostępnić je w zespole.
 
-#### Favorites
+##### Favorites
 
 ![](images/image053.jpg)
 
@@ -1203,7 +1203,7 @@ potrzebne style. Po kliknięciu na przycisk:
 zobaczysz zgrupowane wszystkie najpotrzebniejsze style. Możesz zmieniać ich
 kolejność.
 
-#### Steps, Stamps
+##### Steps, Stamps
 
 ![](images/coins.png)Genialne narzędzie do szybkiego dodawania numerowanych
 kroków. Możesz dostosować ich przezroczystość.
@@ -1217,21 +1217,21 @@ zestaw. Wystarczy do katalogu „TechSmith\\Snagit 2020\\en-US\\Stamps\\”
 załadować obrazy z przezroczystością. Jest też komenda _Add Stamp_ dostępna po
 kliknięciu „Organize Stamps”.
 
-#### Capture Info
+##### Capture Info
 
 ![](images/info.png)Służy do dodawania ramki z informacjami takimi jak: data,
 godzina, aplikacja, system operacyjny. Można też dodać dowolny tekst, np. nazwę
 projektu. **Capture Info** figuruje jako narzędzie w edytorze i również jako
 dostępny efekt dla presetów na bazie zakładki **Image**.
 
-#### Filters
+##### Filters
 
 ![](images/image058.jpg)
 
 Ciekawym filtrem jest „Opacity” który nadaje półprzezroczystość obrazowi. Możesz
 go potem nałożyć na inny obraz i wtedy oba będą widoczne.
 
-### Share – wygodne udostępnianie
+#### Share – wygodne udostępnianie
 
 Przycisk **Copy All** służy do skopiowania wszystkiego co masz w obszarze
 roboczym: zarówno tła jak i obiektów. Czasem CTRL+C skopiuje jeden z obiektów z
@@ -1245,9 +1245,9 @@ zdefiniować serwer FTP, na który załadujesz pliki.
 ![](images/speaker.png)Da się dodać aplikację akceptującą obrazy z poza listy,
 np.: bardziej zaawansowany edytor graficzny.
 
-### Library – automatyczne katalogowanie obrazów
+#### Library – automatyczne katalogowanie obrazów
 
-#### Filtrowanie i wyszukiwanie
+##### Filtrowanie i wyszukiwanie
 
 W **Library** możesz przeglądać zrobione screen shoty i filmy rozwijając
 rozmaite kategorie.
@@ -1267,7 +1267,7 @@ przewinięcie rezultatów pozwoli Ci szybko namierzyć potrzebną grafikę.
 ![](images/alert.png)Komenda _Remove from Library_ usuwa zapisany plik z
 biblioteki, ale pozostaje on na dysku. Komenda _Delete_ usuwa plik na dysku.
 
-#### Tags
+##### Tags
 
 Domyślne katalogowanie w **Library** jest niezwykle pomocne, ale czasem
 potrzebujesz większej granulacji kategorii. Przycisk **Tags** występuje zarówno
@@ -1286,7 +1286,7 @@ Klikając przycisk **Tag** dla wybranego pliku, zobaczysz jego listę tagów. Je
 przeglądasz **Library** w trybie widoku **Details** (lista) zobaczysz tagi w
 formie tekstowej i będziesz mógł/mogła po nich sortować.
 
-### Eksportowanie
+#### Eksportowanie
 
 Zarówno presety jak i themes można wyeksportować i podzielić się nimi z
 członkami zespołu. Wybrane pliki można eksportować zaznaczając je i stosując
@@ -1298,12 +1298,12 @@ pulpicie w systemie Windows, zobaczysz skrót do tego narzędzia do eksportowani
 Opcje backupu całej biblioteki znajdziesz w menu **Edit** => **Preferences**,
 **Library**.
 
-## To już jest koniec
+### To już jest koniec
 
 Gratuluję doczytania do końca. Mam nadzieję, że moje rady przydadzą Ci się w
 praktyce. Pozdrawiam i życzę samych perfekcyjnych screenów! 😉
 
-## Bonus
+### Bonus
 
 Pewnie jesteście ciekawi ile takie narzędzie kosztuje? Strona z oficjalnym
 cennikiem odpowie na to pytanie:

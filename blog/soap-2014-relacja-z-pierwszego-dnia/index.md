@@ -18,7 +18,7 @@ przedstawiamy skrótowo prezentacje z pierwszego dnia konferencji
 
 [![soap! 2014 audience](images/DSC6686-1024x489.jpg)](http://techwriter.pl/wp-content/uploads/2014/10/DSC6686.jpg)
 
-## Gry nie tylko dla dzieci
+### Gry nie tylko dla dzieci
 
 Zaszczyt rozgrzania publiczności przypadł
 [Monice Konieczny](http://soapconf.com/speakers/). Swoją prezentację rozpoczęła
@@ -54,7 +54,7 @@ pakietu Office, oraz portal [Stack Overflow](http://stackoverflow.com/).
 
 [![SoapMonikaKonieczny](images/SoapMonikaKonieczny.jpg)](http://techwriter.pl/wp-content/uploads/2014/10/SoapMonikaKonieczny.jpg)
 
-## Od przybytku głowa czasem boli
+### Od przybytku głowa czasem boli
 
 Tak samo jak od nadmiaru funkcji w aplikacji, o czym mówiła
 [Kasia Mrowca](http://soapconf.com/speakers/). Klienci zawsze chcą dodać dużo
@@ -77,7 +77,7 @@ bo klient będzie chciał mieć aplikację na jutro 😊
 
 [![SoapKasiaMrowca](images/SoapKasiaMrowca.jpg)](http://techwriter.pl/wp-content/uploads/2014/10/SoapKasiaMrowca.jpg)
 
-## Uczyć bawiąc
+### Uczyć bawiąc
 
 W e-learningu tak jak w życiu chodzi o wybory. Żeby nie rzucać słów na wiatr,
 [Sabina Misiarz-Filipek](http://soapconf.com/speakers/) rozpoczęła swoją
@@ -106,7 +106,7 @@ mogą mieć miejsce w życiu codziennym.
 
 [![SoapSabinaMisiarzFilipek](images/SoapSabinaMisiarzFilipek.png)](http://techwriter.pl/wp-content/uploads/2014/10/SoapSabinaMisiarzFilipek.png)
 
-## Moc płynąca z diagramu
+### Moc płynąca z diagramu
 
 Od dawna wiadomo, że "jeden obraz jest wart więcej niż tysiąc słów". Tą starą
 prawdę starał się udowodnić [Kevin Duncan](http://soapconf.com/speakers/), który
@@ -135,7 +135,7 @@ podczas prezentacji nie jest niczym zdrożnym 😉
 
 [![SoapKevinDuncan](images/SoapKevinDuncan.jpg)](http://techwriter.pl/wp-content/uploads/2014/10/SoapKevinDuncan.jpg)
 
-## Cenne doświadczenie
+### Cenne doświadczenie
 
 Niestety ostatni wykład był mało przejrzysty, przynajmniej dla nas.
 [Rajeev Kumar Tiwari i Rajesh Khurana](http://soapconf.com/speakers/) nie mogli

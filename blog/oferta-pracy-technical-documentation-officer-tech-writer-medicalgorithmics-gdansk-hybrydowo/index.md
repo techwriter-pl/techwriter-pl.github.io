@@ -1,5 +1,6 @@
 ---
-title: "Oferta pracy: Technical Documentation Officer / Tech Writer
+title:
+  "Oferta pracy: Technical Documentation Officer / Tech Writer
   (Medicalgorithmics) – Gdańsk/Hybrydowo"
 authors: admin
 date: "2021-09-29"
@@ -29,11 +30,11 @@ Aplikować (i polecać znajomych) możecie
 
 ---
 
-## Technical Documentation Officer / Tech Writer
+### Technical Documentation Officer / Tech Writer
 
-#### Gdańsk
+##### Gdańsk
 
-#### O firmie
+##### O firmie
 
 Medicalgorithmics S.A. to polska firma opracowująca zaawansowane systemy dla
 kardiologii. Innowacyjność to jeden z naszych głównych atutów. Wprowadzamy ją w
@@ -43,7 +44,7 @@ przełomowych rozwiązań technologicznych. Opracowujemy algorytmy, oprogramowan
 i urządzenia, a następnie wdrażamy je do produkcji, co pozwala nam świadczyć
 usługi telemedyczne tysiącom pacjentów na świecie.
 
-#### O zespole
+##### O zespole
 
 Zajmujemy się projektowaniem wyrobów medycznych integrujących zwykle kilka
 systemów mikroprocesorowych, moduły radiowe (LTE, WiFi, Bluetooth), jak i
@@ -55,7 +56,7 @@ diagnozowania serc pacjentów. Pracując z nami będziesz miał okazje obserwowa
 jak efekty Twojej pracy zamieniają się w realne wyroby pomagające dbać o zdrowie
 ludzi w różnych miejscach świata.
 
-#### Opis obowiązków
+##### Opis obowiązków
 
 Głównym zadaniem na tym stanowisku będzie wspieranie zespołów projektujących
 urządzenia służące do diagnostyki kardiologicznej w zakresie prac
@@ -74,7 +75,7 @@ dokumentacyjnych. Do Twoich obowiązków w szczególności będzie należeć:
 - Usprawnianie procesu zarządzania dokumentacją projektową w całym cyklu życia
   wyrobu
 
-#### Wymagania i doświadczenie
+##### Wymagania i doświadczenie
 
 - Znajomość języka angielskiego i terminologii technicznej w stopniu
   pozwalającym na redagowanie dokumentacji produktowej
@@ -87,12 +88,12 @@ dokumentacyjnych. Do Twoich obowiązków w szczególności będzie należeć:
 - Doświadczenie w zarządzaniu dokumentacją projektową z wykorzystaniem
   repozytoriów
 
-#### Mile widziane
+##### Mile widziane
 
 - Wykształcenie wyższe – inżynieria biomedyczna, elektronika
 - Doświadczenie w pracy w środowisku zwinnym
 
-#### Co oferujemy
+##### Co oferujemy
 
 - Pracę w firmie skupionej na produktach, które mają służyć zdrowiu ludzi.
 - Pracę w miejscu, w którym cenimy siebie nawzajem i lubimy, gdy ktoś „wpada na

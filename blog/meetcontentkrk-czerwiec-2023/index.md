@@ -20,7 +20,7 @@ Po dłuższej przerwie, MeetContentKRK powrócił z nowymi tematami i przestrzen
 w której wszyscy entuzjaści contentu mogą wymieniać się doświadczeniami i
 pomysłami.
 
-### **Maj - podsumowanie**
+#### **Maj - podsumowanie**
 
 Tematem spotkania, które odbyło się 9 maja w
 [Techie’s Space](https://www.facebook.com/techies.krakow/) był jeden z
@@ -72,7 +72,7 @@ writer.
 Dodatkowe materiały:
 [https://www.canva.com/design/DAFhwQaRefE/Mp2-2koQ8VD44ye2f6eRLw/view](https://www.canva.com/design/DAFhwQaRefE/Mp2-2koQ8VD44ye2f6eRLw/view)
 
-### **Czerwiec - co nas czeka?**
+#### **Czerwiec - co nas czeka?**
 
 ![](images/grafika_meetup_14-copy.jpg)
 

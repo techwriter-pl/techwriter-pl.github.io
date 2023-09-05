@@ -17,7 +17,7 @@ zabezpieczyć się przed hakerami.
 
 <!--truncate-->
 
-### Odcinek #37
+#### Odcinek #37
 
 W tym odcinku Paweł poruszył dość ciekawy temat dotyczący statycznych stron z
 dokumentacją. Choć stosowane są coraz częściej, to czy rzeczywiście są tak
@@ -41,7 +41,7 @@ statycznych stron w dokumentacji. Temat tego typu stron był również podjęty 
 odcinku
 [#31](https://techwriterkoduje.pl/blog/2021/07/03/prosty-jak-budowa-cepa).
 
-### Odcinek #38
+#### Odcinek #38
 
 Tym razem  do rozmowy prowadzących dołącza gość, Mateusz Olejarka, który jest
 specjalistą do spraw bezpieczeństwa aplikacji webowych. Konwersacja zaczyna się
@@ -56,7 +56,7 @@ niestety nie sprawdzi się w kontekście działań w sieci. Każdy powinien racz
 stosować zasadę "Szyfruj wszystko tak jakby cały świat chciał przeczytać to co
 masz do ukrycia". I to samo tyczy się dokumentacji i osób ją piszących.
 
-#### Bezpieczeństwo dokumentacji
+##### Bezpieczeństwo dokumentacji
 
 W dalszej części rozmowy panowie koncentrują się głównie na bezpieczeństwie
 dokumentacji. Biorąc go pod uwagę powinniśmy skoncentrować się na dwóch głównych

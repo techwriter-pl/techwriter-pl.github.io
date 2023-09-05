@@ -26,7 +26,7 @@ odbiorcy i wpływa na ilość zapamiętanych przez niego informacji?
 
 O tym przeczytacie w dzisiejszym artykule!
 
-## **Trochę danych**
+### **Trochę danych**
 
 Ludzki mózg przetwarza obrazy
 [60 000 razy szybciej niż tekst, a 90% informacji przekazywanych do mózgu ma charakter wizualny](https://mycompanypolska.pl/artykul/13-milisekund-do-obrazu-czyli-jak-mozg-przetwarza-informacje-w-komunikacji-wizualnej/1825).
@@ -49,7 +49,7 @@ Jak i z kim to zrobić?
 
 Tutaj z pomocą może przyjść ilustrator!
 
-## **Ilustrator - kim jest?**
+### **Ilustrator - kim jest?**
 
 Ilustrator techniczny lub visual designer to specjalista, który dysponuje
 kombinacją odpowiedniego wykształcenia i doświadczenia. Ilustratorzy, poza
@@ -82,7 +82,7 @@ Dobrze, jeśli Ilustratorzy mają wykształcenie kierunkowe na przykład dyplom
 inżyniera lub stopień naukowy. Przydatna może być także wiedza z dziedziny
 architektury czy projektowania przemysłowego.
 
-## **Co robi?**
+### **Co robi?**
 
 Praca visual designera (ilustratora), polega w dużej mierze na tworzeniu
 obrazów, diagramów, rysunków 2D i 3D lub wideo tak, aby skutecznie przekazać
@@ -92,7 +92,7 @@ Wizualizacja obiektu powinna być dokładna pod względem wymiarów i proporcji 
 poprawna pod względem kompozycji, gdyż łatwiej przyswajamy treść gdy jest podana
 w atrakcyjnej formie.
 
-## Rysunki
+### Rysunki
 
 Zagłębiając się w temat rysunków w dokumentacji można podzielić je na różne
 kategorie.
@@ -168,7 +168,7 @@ _Przykład: Symbol kierunku wyjścia ewakuacyjnego_
 
 _Przykład: Jak zrobic zrzut ekranu na komputerze Mac_
 
-## Wideo
+### Wideo
 
 Dzięki wideo w ciągu kilku sekund można pokazać to, co najważniejsze!  Wszystkie
 informacje są dokładnie wyselekcjonowane i skomponowane w taki sposób, żeby
@@ -186,7 +186,7 @@ Można je podzielić na trzy kategorie:
   przedstawienie jego głównych funkcjonalności oraz wzbudzenie zainteresowania
   odbiorców.
 
-## **Co jest ważne i o czym pamiętać?**
+### **Co jest ważne i o czym pamiętać?**
 
 Bez względu na to, czy chcecie komuś wytłumaczyć, jak wdrożyć nową procedurę,
 naprawić drukarkę, czy złożyć meble – pamiętajcie o ilustracjach. Dołączenie do
@@ -216,7 +216,7 @@ doświadczanego ilustratora to nie problem. Poniżej garść dobrych praktyk:
 - wysokiej jakości materiały wideo pomagają Waszym odbiorcom w  zrozumieniu
   informacji.
 
-## **Na co uważać?** 
+### **Na co uważać?** 
 
 - sama ilustracja lub wideo nie zawsze będzie dobrym wyjaśnieniem. Czasami
   adekwatny podpis obrazu pomaga go zrozumieć.
@@ -226,7 +226,7 @@ doświadczanego ilustratora to nie problem. Poniżej garść dobrych praktyk:
   odpowiednie dla dokumentacji wideo. Aktualizacja filmów wideo dla nowych
   wersji jest bardziej niewygodna i kosztowna niż aktualizacja obrazów i tekstu.
 
-## Wnioski
+### Wnioski
 
 Obrazy i filmy mogą pomóc w tworzeniu lepszej dokumentacji. Jednak trzeba
 pamietać kim jest Wasz odbiorca i czego dokładnie potrzebuje. O ile wideo może

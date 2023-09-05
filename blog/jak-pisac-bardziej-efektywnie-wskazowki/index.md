@@ -34,7 +34,7 @@ treści. Nie każda z nich musi odnosić się do sytuacji, w której aktualnie
 znajduje się Wasz proces twórczy, dlatego potraktujcie ten tekst jako źródło
 inspiracji i wybierzcie z niego tylko to, co wyda Wam się interesujące.
 
-### **Jak zwiększyć szybkość pisania odręcznego**
+#### **Jak zwiększyć szybkość pisania odręcznego**
 
 Prawie każdy uczy się sztuki pisania odręcznego w bardzo młodym wieku, ale z
 biegiem lat coraz rzadziej korzystamy z tej umiejętności. Rozwój technologiczny
@@ -64,7 +64,7 @@ tym dobrym, bez względu na wiek?
   siedzącej. Jednak należy pamiętać, by zadbać nie tylko o komfort podczas
   pisania, ale także o przerwy, lekkie ćwiczenia czy odpoczynek.
 
-### **Naucz się pisać szybko na klawiaturze**
+#### **Naucz się pisać szybko na klawiaturze**
 
 Pisanie odręczne jest bardzo przydatne w trakcie robienia notatek, zbierania
 materiału, na którym oprzemy nasze treści czy uczeniu się nowych rzeczy. Jednak
@@ -103,7 +103,7 @@ Pamiętaj o odpowiedniej postawie w trakcie pracy:
 - Trzymaj łokcie zgięte pod kątem 90 stopni.
 - Nie garb się
 
-### **Graj w gry z pisaniem**
+#### **Graj w gry z pisaniem**
 
 Dzięki rozwojowi technologii nauka szybszego pisania stała się przyjemnością.
 Istnieje mnóstwo gier, stron internetowych, aplikacji, testów oraz samouczków na
@@ -121,7 +121,7 @@ Youtube to wystarczy, że w wyszukiwarkę internetową wpiszecie “szybkie pisa
 youtube”, a otrzymacie listę wielu ciekawych i pouczających filmików oraz
 tutoriali.
 
-### **Najpierw napisz całość, edytuj później**
+#### **Najpierw napisz całość, edytuj później**
 
 Nikt oprócz Ciebie nie zobaczy pierwszej wersji tekstu, który piszesz, dlatego
 oddaj się wenie, bez oglądania się na literówki czy błędy w spójności. Kuj
@@ -129,13 +129,13 @@ oddaj się wenie, bez oglądania się na literówki czy błędy w spójności. K
 zaciąć i nie stracić wątku. To w edycję tego co stworzyłeś włożysz największy
 wysiłek.
 
-### **Podążaj za stereotypem "Praktyka czyni mistrza."**
+#### **Podążaj za stereotypem "Praktyka czyni mistrza."**
 
 To najbardziej nadużywany frazes i zarazem najbardziej prawdziwy. Musisz pisać
 codziennie. Nie wymuszaj szybkości pisania. Dopóki konsekwentnie stosujesz
 odpowiednie techniki i piszesz, będziesz się doskonalić.
 
-### **Ustaw wyzwania** 
+#### **Ustaw wyzwania** 
 
 Stawianie przed sobą wyzwań i dążenie do ich realizacji jest jedną z
 największych cech ludzi sukcesu w każdej dziedzinie. Codzienne wyzwania, czyli
@@ -150,7 +150,7 @@ drobniejsze segmenty, ale też zadbasz o to, by mieć czas na poprawki. Dodatkow
 dość szybko zorientujesz się ile czasu poświęcasz na dany etap tworzenia tekstu,
 dzięki czemu lepiej zaplanujesz pracę w przyszłości.
 
-### **Zignoruj ​​harmonogram (czasami)**
+#### **Zignoruj ​​harmonogram (czasami)**
 
 Harmonogram i stawianie przed sobą wyzwań to bardzo istotna część tworzenia
 treści, zwłaszcza w projektach dokumentacyjnych. Jednak istotnym elementem pracy
@@ -166,7 +166,7 @@ ale nie było możliwości zrealizowania pomysłu wcześniej. Czasem taka odskoc
 sprawia, że po powrocie do przerwanego wcześniej fragmentu pracy, wracamy z nową
 energią, dzięki której linijki problematycznego tekstu wręcz piszą się same.
 
-### **Znajdź swój optymalny czas pisania**
+#### **Znajdź swój optymalny czas pisania**
 
 Ten fragment będzie szczególnie przydatny dla osób, które nie mają na sztywno
 określonego czasu pracy i mogą elastycznie planować swój plan dnia.
@@ -183,7 +183,7 @@ Problemem tutaj nie jest próba zaprogramowania zegara, ale zrozumienie go.
 Musisz obserwować, o jakich porach dnia jesteś najbardziej aktywny. To w tych
 godzinach będziesz pisać szybciej, a treść będzie lepszej jakości.
 
-### **Ustaw timer - by zrobić sobie przerwę**
+#### **Ustaw timer - by zrobić sobie przerwę**
 
 Początkowo wydaje się to sprzeczne z intuicją. Wyobraź sobie, że przeglądasz
 akapit lub opisujesz właśnie kolejne kroki instrukcji, a tu raptem dzwoni alarm.
@@ -195,7 +195,7 @@ przestaniesz pisać w połowie zdania, będziesz mieć już w głowie dużo
 przemyślanej treści -  stąd szybsze pisanie, oszczędność czasu i zapis bardziej
 przemyślanej myśli czyli mniej błędów do poprawy.
 
-### **Użyj techniki Pomodoro**
+#### **Użyj techniki Pomodoro**
 
 [Technika Pomodoro](https://pl.wikipedia.org/wiki/Technika_Pomodoro) to jedna z
 metod zarządzania czasem, System ten wykorzystuje krótki sygnał dźwiękowy,
@@ -206,7 +206,7 @@ przerw. Po każdym 25-minutowym czasie skupienia następuje 5-minutowa przerwa. 
 Technika ta podnosi koncentrację, wpływa na większą produktywność, a także
 skraca czas, jaki potrzebujemy na wykonanie konkretnego zadania,
 
-### **Użyj znaku “nie przeszkadzać”**
+#### **Użyj znaku “nie przeszkadzać”**
 
 W hotelach stosujemy zawieszkę “nie przeszkadzać” gdy chcemy, by nie zakłócano
 nam spokoju. Podobną metodę możemy zastosować wobec współpracowników. Jeśli
@@ -224,13 +224,13 @@ Szybko zauważysz, jak dużo jesteś w stanie zrobić w trakcie tej jednej godzi
 czy dwóch w ciągu dnia. Spadnie też Twój poziom stresu i irytacji, co będzie
 wartością dodaną do twojego samopoczucia i relacji z otoczeniem.
 
-### **Prowadź dziennik**
+#### **Prowadź dziennik**
 
 Dziennik nie tylko pomoże ci przyspieszyć pisanie odręczne (ponieważ będziesz
 pisać często), ale także pomoże ci katalogować pomysły, które możesz wykorzystać
 później, skracając czas poświęcony na burzę mózgów podczas sesji pisania.
 
-### **Pracuj  bez rozpraszaczy**
+#### **Pracuj  bez rozpraszaczy**
 
 Przestrzeń cyfrowa jest pełna rozproszeń - Facebook, Instagram, Twitter,
 skrzynka mailowa, YouTube… Komputer lub telefon komórkowy może być zarówno twoim
@@ -242,7 +242,7 @@ telefonie pojawiają się kolejne powiadomienia z Instagrama, a szef właśnie
 wysłał kolejny mail, że twoje release notes musi być gotowe na spotkanie zespołu
 za godzinę. Kilka dni w takim chaosie i cały plan pracy może iść do kosza.
 
-### **Wyłącz to, co cię rozprasza!**
+#### **Wyłącz to, co cię rozprasza!**
 
 Jeśli używasz komputera do pisania, wyłączenie go nie jest możliwe. Możesz
 jednak użyć oprogramowania, które na czas pracy, wyłączy wszystko to, co
@@ -252,7 +252,7 @@ Istnieje wiele programów, które będą blokować wszystkie rozpraszacze w tle,
 [FocusWriter](https://gottcode.org/focuswriter/), [Typora](https://typora.io/),
 [Mark text](https://marktext.app/) czy [Ommwriter](https://ommwriter.com/).
 
-### **Podsumowanie**
+#### **Podsumowanie**
 
 Powyższe wskazówki nie są lekiem na wszystko i dla wszystkich, ale mogą sprawić,
 że zyskacie cenny czas na tworzenie dokumentacji, a długa lista zadań do

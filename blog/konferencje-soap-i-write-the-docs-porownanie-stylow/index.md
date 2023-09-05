@@ -28,7 +28,7 @@ siebie. Mam nadzieję, że artykuł pomoże Ci w tym trudnym zadaniu.
 
 ###### Rafał Pawlicki podczas konferencji SOAP.
 
-# Wstęp
+## Wstęp
 
 Konferencje [SOAP](https://soapconf.com/) i
 [Write The Docs](https://www.writethedocs.org) (w skrócie "WTD") są dobrze znane
@@ -53,7 +53,7 @@ Zwłaszcza jeśli rozważasz udział po raz pierwszy, zapoznaj się z poniższym
 artykułem. Spróbuję przybliżyć Ci jak możesz się czuć na każdej z tych imprez.
 Dostarczę też argumentów, jak obronić wybór przed szefem.
 
-# Założenia i zastrzeżenia
+## Założenia i zastrzeżenia
 
 Chciałbym podkreślić, że są to bardzo subiektywne, osobiste impresje na temat
 tych dwóch wydarzeń. Wziąłem już udział w dwóch stacjonarnych odsłonach SOAP
@@ -74,7 +74,7 @@ przymrużeniem oka.
 
 Skoro wyjaśniłem moje krystaliczne intencje zatem - do dzieła!
 
-# Porównanie
+## Porównanie
 
 | Kategoria           | soap!                                                                                                                                                                                                                                                                                                                                                                                | Write the Docs                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -91,7 +91,7 @@ Skoro wyjaśniłem moje krystaliczne intencje zatem - do dzieła!
 
 [![](images/upload_039.png)](http://techwriter.pl/wp-content/uploads/2022/07/upload_039.png)
 
-# Podsumowanie
+## Podsumowanie
 
 Najlepiej wypróbować obie i wyrobić sobie własną opinię. Na kanałach YouTube obu
 konferencji można zapoznać się z opublikowanymi nagraniami prezentacji z

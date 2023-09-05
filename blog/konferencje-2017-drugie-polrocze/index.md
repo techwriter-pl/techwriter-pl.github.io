@@ -20,12 +20,12 @@ zaplanowane na ten czas konferencje.
 
 <!--truncate-->
 
-## Czerwiec (uzupełnienie)
+### Czerwiec (uzupełnienie)
 
 14 czerwca, Barcelona, Hiszpania
 - [Translation Technology Showcase 2017](https://www.taus.net/events/conferences/translation-technology-showcase-barcelona#overview)
 
-## Lipiec
+### Lipiec
 
 20-22 lipca, Lizbona, Portugalia - [e-Learning 2017](http://elearning-conf.org)
 
@@ -37,7 +37,7 @@ zaplanowane na ten czas konferencje.
 25-26 lipca -
 [IDEAS Summer Conference 2017](https://ideas.infomanagementcenter.com/) (ONLINE)
 
-## Sierpień
+### Sierpień
 
 11-13 sierpnia, Halifax, Nowa Szkocja, Kanada -
 [SIGDOC 2017](https://sigdoc.acm.org/conference/2017/)
@@ -45,7 +45,7 @@ zaplanowane na ten czas konferencje.
 12-16 sierpnia, Cincinnati, Ohio, USA
 - [Open Help Conference & Sprints 2017](https://conf.openhelp.cc/)
 
-## Wrzesień
+### Wrzesień
 
 4-7 września, Valetta, Malta -
 [DocEng 2017](https://doceng.org/newsite/doceng2017)
@@ -73,7 +73,7 @@ został patronem medialnym konferencji ?**
 26-28 września, Nottingham, Wielka Brytania -
 [TCUK 2017](http://technicalcommunicationuk.com/)
 
-## Październik
+### Październik
 
 2-3 października, Menlo Park, Kalifornia, USA -
 [brand2global 2017](http://www.brand2global.com/)
@@ -90,7 +90,7 @@ został patronem medialnym konferencji ?**
 30-31 października, San Jose, Kalifornia, USA -
 [TAUS Annual Conference 2017](https://www.taus.net/events/conferences/taus-annual-conference-2017#call-for-proposals)
 
-## Listopad
+### Listopad
 
 1-3 listopada, Silicon Valley, USA -
 [LocWorld35](https://locworld.com/events/locworld35-silicon-valley-2017/)

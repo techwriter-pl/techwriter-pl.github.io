@@ -24,14 +24,14 @@ formułę. Podobnie jak rok temu, będzie sporo czasu na zapoznanie się z
 uczestnikami oraz nawiązanie z nimi bliższych relacji, a także poszerzanie
 wiedzy i umiejętności biznesowych podczas prelekcji i warsztatów.
 
-## Czy to konferencja rzeczywiście dla mnie?
+### Czy to konferencja rzeczywiście dla mnie?
 
 Jeśli interesujesz się tworzeniem i dostarczaniem dokumentacji, a tym bardziej
 jeśli zajmujesz się tym zawodowo - to jak najbardziej. Write the Docs to
 konferencja dla wszystkich, którzy biorą udział w procesie dokumentacji: od
 programistów, poprzez technical writerów, a na supporcie kończąc.
 
-## Jakość do ceny?
+### Jakość do ceny?
 
 Za €150 (kwota podstawowa) mamy zapewnione dwa dni prelekcji wraz z wyżywieniem.
 Organizatorzy dbają o to by uczestnicy byli pełni sił, więc przewidziano przerwy

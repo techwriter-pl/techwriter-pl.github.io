@@ -33,7 +33,7 @@ zmieniać go i potem wklejać ponownie do szablonu. Od tego czasu Help & Manual
 Toolbox zyskał sporo dodatkowych funkcji. Postaramy się pokrótce przybliżyć Wam
 to sprytne narzędzie.
 
-## Wymagania, instalacja i konfiguracja
+### Wymagania, instalacja i konfiguracja
 
 Help & Manual Toolbox wymaga aplikacji Help and Manual 6 (nie działa z
 poprzednimi wersjami) oraz aplikacji Microsoft .NET Framework w wersji
@@ -46,14 +46,14 @@ plików graficznych, który będzie używany do obróbki plików dołączonych d
 projektów (baggage files). Domyślnie ustawiony jest program Impict, który
 opisywaliśmy [tutaj](http://techwriter.pl/zrzucanie-ekranu-opis-narzedzi/).
 
-## Ograniczenia
+### Ograniczenia
 
 Obecnie program nie wspiera plików repozytorium z rozszerzeniem HMXR, jedynie
 pliki projektów z rozszerzeniami HMXZ i HMXP oraz pliki skórek z rozszerzeniem
 HMSKIN. Narzędzie nie rozpoznaje też projektów podrzędnych (child projects),
 które zostały załadowane do projektu głównego (master project).
 
-## Możliwości
+### Możliwości
 
 Help & Manual Toolbox oferuje nam całkiem sporo. Po załadowaniu projektu jest on
 automatycznie sprawdzany pod kątem błędów. Program ostrzega o niepoprawnych

@@ -19,7 +19,7 @@ chcielibyśmy Wam o niej trochę opowiedzieć.
 
 <!--truncate-->
 
-## Historia konferencji
+### Historia konferencji
 
 Trzech facetów: [Eric Holscher](https://twitter.com/ericholscher) - programista
 Python i twórca [Read the Docs](https://readthedocs.org/),
@@ -46,7 +46,7 @@ zdziwieniu otrzymują ogromną ilość odpowiedzi. Tak rusza maszyna zwana Wri
 Docs, skupiająca wokół siebie osoby z różnych profesji, które łączy fakt
 posiadania dokumentacji w swoim centrum zainteresowań.
 
-## **Write the Docs dzisiaj**
+### **Write the Docs dzisiaj**
 
 Dziś [konferencje](http://www.writethedocs.org/conf/) (jedna w Portland, druga w
 jednej z europejskich stolic) goszczą każdego roku ponad 600 uczestników.
@@ -55,19 +55,19 @@ regionalnych [grup spotykających się](http://www.writethedocs.org/meetups/) w
 miastach rozrzuconych po Ameryce Północnej, Łacińskiej oraz Europie. Z roku na
 rok liczba ta się zwiększa.
 
-## Ważne fakty
+### Ważne fakty
 
 Poniżej przedstawiamy najważniejsze informacje na temat Write the Docs Europe.
 
-### **Kiedy**
+#### **Kiedy**
 
 18-20 września 2016 roku
 
-### **Miejsce**
+#### **Miejsce**
 
 Praga, Czechy
 
-### **Rodzaje i ceny biletów:**
+#### **Rodzaje i ceny biletów:**
 
 Bilety są już dostępne i, jak twierdzą organizatorzy, rozchodzą się jak świeże
 bułeczki. Zatem chętnych zachęcamy do pośpiechu.
@@ -83,7 +83,7 @@ wolontariacie lub dla firm posiadających mniej niż 10 pracowników:
 - €75 - przedsprzedaż (limit 25)
 - €100 - cena regularna
 
-### **Co zawiera cena biletu?**
+#### **Co zawiera cena biletu?**
 
 - Śniadanie, przekąski oraz obiad podczas dwóch dni konferencji
 - Przyjęcie zapoznawcze w dniu poprzedzającym konferencję oraz party po
@@ -96,25 +96,25 @@ wolontariacie lub dla firm posiadających mniej niż 10 pracowników:
 
 ![21575471826_91083a5169_z](images/21575471826_91083a5169_z.jpg)
 
-### **Informacja dla sponsorów**
+#### **Informacja dla sponsorów**
 
 Firmy, które zostaną sponsorem konferencji otrzymają bilety wraz z pakietem
 sponsorskim.
 
-### **Wsparcie finansowe**
+#### **Wsparcie finansowe**
 
 Jeśli komuś bardzo zależy na udziale w konferencji, a nie może sobie pozwolić na
 kupno biletu organizatorzy proszą o kontakt mailowy
 [europe@writethedocs.org](mailto:europe@writethedocs.org) w celu znalezienia
 rozwiązania.
 
-### **Podróż i zakwaterowanie**
+#### **Podróż i zakwaterowanie**
 
 Organizatorzy konferencji nie zapewniają transportu oraz noclegów podczas
 wydarzenia, jednak służą pomocą w tych kwestiach. Zainteresowanych odsyłamy
 [tutaj](http://www.writethedocs.org/conf/eu/2016/visiting/#where-to-stay).
 
-### Informacje dla prelegentów
+#### Informacje dla prelegentów
 
 Organizatorzy zachęcają do przesyłania propozycji prezentacji zarówno osoby z
 doświadczeniem jak i świeżo upieczonych dokumentalistów. Jeśli planujecie się
@@ -132,31 +132,31 @@ czerwca, prelegent może liczyć na darmowy wstęp na konferencję.
 
 ![21610522161_3638ed5be6_z](images/21610522161_3638ed5be6_z.jpg)
 
-## Program konferencji
+### Program konferencji
 
 Write the Docs to nie tylko konferencja. To także szereg towarzyszących jej
 inicjatyw i wydarzeń, podczas których uczestnicy mogą się poznać, współpracować
 oraz uczyć.
 
-### **17 września (sobota)**
+#### **17 września (sobota)**
 
 Dla osób, które wcześniej przyjadą do Pragi organizatorzy przygotowali
 wycieczki, w trakcie których będzie można zwiedzić miasto oraz zapoznać się z
 innymi uczestnikami.
 
-### **18 września (niedziela)**
+#### **18 września (niedziela)**
 
 Writing Day oraz wieczorne przyjęcie integracyjne.
 
-### **19 września (poniedziałek) - Dzień 1**
+#### **19 września (poniedziałek) - Dzień 1**
 
 Panele tematyczne oraz wieczorna impreza.
 
-### **20 września (wtorek) - Dzień 2**
+#### **20 września (wtorek) - Dzień 2**
 
 Panele tematyczne oraz wieczorne spotkanie zamykające konferencję.
 
-## Linki do materiałów z poprzedniej edycji
+### Linki do materiałów z poprzedniej edycji
 
 Osoby zainteresowane tym, co się działo podczas poprzedniej konferencji odsyłamy
 [tutaj](https://www.youtube.com/playlist?list=PLZAeFn6dfHplFNTsVdBuHk6vPZbsvHtDw).
@@ -165,7 +165,7 @@ A tych, którzy nadal się wahają zachęcamy do
 Pragi oraz uśmiechnięte twarze uczestników poprzednich edycji skłonią Was do
 podjęcia decyzji i spędzenia czasu w stolicy Czech 😉.
 
-## Warto?
+### Warto?
 
 Write the Docs Europe to, według naszych informacji, najtańsza europejska
 konferencja w branży tech commu. Bez obaw - w parze z niską ceną nie pójdzie

@@ -25,12 +25,12 @@ innej roli. Tak było w przypadku Piotra Jrethi, który z powodzeniem odnalazł 
 zarówno jako tech writer jak i scrum master. Gorąco zapraszamy do zapoznania się
 z relacją przedstawiającą obie te perspektywy.
 
-### Witaj. Powiedz kilka słów o sobie.
+#### Witaj. Powiedz kilka słów o sobie.
 
 Dzień dobry. Nazywam się Piotr Jrethi, jestem byłym tech writerem, a od roku -
 scrum masterem dla dwóch zespołów scrumowych w duńskiej firmie Omada.
 
-### Jakie doświadczenia zebrałeś jako technical writer? W jakich projektach brałeś udział?
+#### Jakie doświadczenia zebrałeś jako technical writer? W jakich projektach brałeś udział?
 
 Najdłuższy etap mojej techwriterskiej kariery to prawie sześć lat w zespole
 dokumentalistów w jednym ze skandynawskich gigantów telekomunikacji. Pracowałem
@@ -47,7 +47,7 @@ ramach odrębnego doc teamu, a jako pełnoprawny członek zespołów scrumowych.
 właśnie tutaj zmieniłem ścieżkę kariery z dokumentalisty na tzw. mistrza młyna,
 pomimo absolutnego braku umiejętności sportowych. :-)
 
-### Z jakich korzystałeś narzędzi?
+#### Z jakich korzystałeś narzędzi?
 
 Jeśli chodzi o narzędzia, których używałem, to były to przede wszystkim edytory
 i środowiska do zarządzania dokumentacją XML, a więc: Oxygen, Ixiasoft CCMS,
@@ -58,7 +58,7 @@ Azure DevOps.
 
 [![](images/piotr-300x264.jpg)](http://techwriter.pl/wp-content/uploads/2021/11/piotr.jpg)`Piotr dyskutuje z użytkownikiem końcowym o usability, simplicity i user experience.`
 
-### Co sprawiło, że zacząłeś interesować się rolą scrum mastera?
+#### Co sprawiło, że zacząłeś interesować się rolą scrum mastera?
 
 Już jakiś czas temu postanowiłem znaleźć sobie dodatkowe zajęcie, w którym
 mógłbym się rozwijać. Nie to, żebym w dziedzinie dokumentacji osiągnął już
@@ -74,7 +74,7 @@ zapragnąłem mocniej drążyć temat. Była więc to wypadkowa potrzeby rozwoju
 dbania o tzw. “job security” oraz faktycznej chęci głębszego poznania tematu,
 który już wcześniej udało mi się napocząć.
 
-### Jak wspominasz pierwsze kroki w nowej roli?
+#### Jak wspominasz pierwsze kroki w nowej roli?
 
 Początki wspominam dobrze, zwłaszcza dlatego, że udało mi się płynnie zmienić
 rolę. Wsparcie mojego bezpośredniego przełożonego dało mi możliwość pomagania
@@ -94,7 +94,7 @@ tak łatwo. Natomiast bardzo mnie ucieszyło to, że zyskuję pełniejszy obraz 
 poznaję projekt nie tylko z punktu widzenia swojego teamu, ale również z
 perspektywy całego R&D.
 
-### Powiedz coś więcej na temat projektów w jakich byłeś aktywny.
+#### Powiedz coś więcej na temat projektów w jakich byłeś aktywny.
 
 Moje dwa zespoły, wraz z kilkoma innymi, pracują nad jednym głównym produktem.
 Pracujemy w dwutygodniowych sprintach. Wcześniej mieliśmy duże (i rzadkie)
@@ -103,7 +103,7 @@ miesięcznych releasów. Jak wspomniałem wcześniej, staramy się dbać o
 interdyscyplinarność zespołów, dlatego też tech writerzy są ich integralną
 częścią.
 
-### Jakie umiejętności technical writera pomagają w byciu scrum masterem?
+#### Jakie umiejętności technical writera pomagają w byciu scrum masterem?
 
 Na pewno dociekliwość i chęć “drążenia” różnych tematów pomaga w jednym z
 głównych obowiązków scrum mastera - a więc usuwaniu impedimentów, które blokują
@@ -122,7 +122,7 @@ aktywny. Scrum master nie ma tego komfortu, a poza spotkaniami zespołowymi
 pojawia się sporo innych, trzeba więc pracować nad warsztatem związanym z
 prowadzeniem spotkań, komunikacją, facylitacją, itd.
 
-### W jakim zakresie potrzebowałeś się doszkolić?
+#### W jakim zakresie potrzebowałeś się doszkolić?
 
 Choć “papier” nie jest wymagany by pracować jako scrum master, jednym z celów,
 jakie sobie postawiłem było doszkolenie się i uzyskanie certyfikatu Professional
@@ -136,7 +136,7 @@ lepiej zrozumieć jak te dosłownie kilka akapitów stosuje się w praktyce, jak
 rozumieć poszczególne opisy i definicje, i wreszcie jakie pułapki na nas
 czekają - nie tylko w życiu, ale również na teście PSM 1.
 
-### Co lubisz w byciu scrum masterem?
+#### Co lubisz w byciu scrum masterem?
 
 Wgląd w to, co się dzieje w organizacji, a nawet możliwość wywierania realnego
 wpływu na nią. Dostarczanie wartości, jaką jest wspieranie zespołu i usuwanie
@@ -146,7 +146,7 @@ pracę nad nimi w systematyczny sposób), a niespodziankami związanymi z coraz 
 nowymi wyzwaniami i impedimentami (co daje odrobinkę adrenaliny). “Mistrz” w
 nazwie stanowiska.
 
-### Co poradzisz innym technical writerom rozważającym tę ścieżkę?
+#### Co poradzisz innym technical writerom rozważającym tę ścieżkę?
 
 Jak wspominałem wcześniej, sam próg wejścia nie wydaje mi się wysoki, zwłaszcza
 jeśli popracowało się już trochę w scrumowym frameworku. Choć nie mam
@@ -158,7 +158,7 @@ inny scrum master, chętny by podzielić się doświadczeniem - ale przecież
 zdobywanie wiedzy to chleb powszedni tech writera, więc nie powinno to stanowić
 dużego problemu. :-)
 
-### Czy masz coś jeszcze do dodania?
+#### Czy masz coś jeszcze do dodania?
 
 Korzystając z okazji, chciałbym pozdrowić moją obecną ekipę, a także wszystkich
 technical writerów, z którymi miałem przyjemność i zaszczyt pracować. To

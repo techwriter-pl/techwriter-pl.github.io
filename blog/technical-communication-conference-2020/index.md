@@ -21,7 +21,7 @@ Organizatorami konferencji jest firma
 zrzeczona w ramach SoftServe. Tematem przewodnim wydarzenia jest: **Content is
 king. Context is everything**.
 
-### Kiedy i za ile?
+#### Kiedy i za ile?
 
 W dniach **3-4 listopada 2020** odbędzie się
 [Technical Communication Conference 2020](https://www.softserveinc.com/en-us/events/technical-communication-conference-2020).
@@ -29,14 +29,14 @@ Jest to konferencja **w pełni online**, a uczestnictwo w niej jest **darmowe**.
 Wystarczy, że zarejestrujecie się
 [tutaj](https://app.softserveinc.com/apply/register/en/techcomm-conference?utm_campaign=Facebook%20news%20feed&utm_source=facebook&utm_medium=social).
 
-### Dla kogo?
+#### Dla kogo?
 
 Wydarzenie jest skierowane szczególnie do osób związanych z komunikacją
 techniczną, a więc: TechCommunicators, InfoDevs, TechWriters, Copywriters,
 Content Developers, Documentation Engineers i wszystkich, którzy są
 zainteresowani tematyką, jaka zostanie poruszona podczas konferencji.
 
-### Czego się spodziewać?
+#### Czego się spodziewać?
 
 Organizatorzy powoli publikują informacje na temat agendy. Póki co znamy troje
 prelegentów oraz tematy ich wystąpień:

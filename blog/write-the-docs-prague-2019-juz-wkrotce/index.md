@@ -27,7 +27,7 @@ poza solidną porcją wiedzy, w pakiecie otrzymujecie wizytę w pięknej Pradze,
 
 ![](images/wtd_3.png)
 
-### Najważniejsze informacje
+#### Najważniejsze informacje
 
 Tegoroczna edycja **Write the Docs Prague** odbędzie się w dniach **15-17
 września w Auto Klubie**, miejscu dobrze już znanym uczestnikom wcześniejszych
@@ -62,7 +62,7 @@ wydarzenia dostępny jest pod
 
 ![](images/wtd_1.png)
 
-### Rodzaje i ceny biletów
+#### Rodzaje i ceny biletów
 
 Osoby zainteresowane kupnem biletów odsyłamy
 [tutaj](http://www.writethedocs.org/conf/prague/2019/tickets/), gdzie
@@ -73,7 +73,7 @@ znajdziecie szczegółowe informacje dotyczące poniższych rodzajów biletów.
   wolontariacie lub dla firm posiadających mniej niż 10 pracowników – €175
 - Bilet dla studentów lub osób nieposiadających zatrudnienia – €75
 
-### Co gwarantuje cena biletu?
+#### Co gwarantuje cena biletu?
 
 Cana biletu zawiera:
 

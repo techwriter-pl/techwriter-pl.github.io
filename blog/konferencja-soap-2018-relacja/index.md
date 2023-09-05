@@ -24,7 +24,7 @@ warsztaty a kolejne dwa dni na prezentacje. Mieliśmy okazję sporo się nauczy�
 wysłuchać wielu ciekawych wystąpień i przy okazji dobrze się bawić. Zapraszamy
 na nasze podsumowanie z tego co się działo.
 
-# Dzień pierwszy - warsztaty
+## Dzień pierwszy - warsztaty
 
 Każdy kto zarejestrował się jako uczestnik konferencji mógł wziąć udział w
 warsztatach organizowanych dzień przed głównym wydarzeniem. Warunkiem było
@@ -34,7 +34,7 @@ projektowe, DITA czy UX copy. Jak widać wachlarz tematyczny był dość szerok
 więc łatwo było wybrać coś dla siebie. My zdecydowaliśmy się na udział w dwóch
 warsztatach związanych z narzędziami.
 
-## Tech Writerzy też mogą być cool
+### Tech Writerzy też mogą być cool
 
 Warsztaty "GitHub for Technical Writers" poprowadzili Łukasz Górnicki i
 Małgorzata Świeca. Pierwsza część była poświęcona teorii. Trenerzy pokazali
@@ -77,7 +77,7 @@ bliższego przyjrzenia się temu narzędziu. Niemniej jednak warsztaty oceniamy
 bardzo pozytywnie i sami jesteśmy gorącymi zwolennikami stosowania narzędzi typu
 GitHub w świecie dokumentacji.
 
-## Wymarzona praca - kawka i memy
+### Wymarzona praca - kawka i memy
 
 Warsztaty "Drink coffee and browse memes while your computer does the work for
 you – ApacheANT in action!" poprowadził Paweł Krentowski, który w przystępny
@@ -100,7 +100,7 @@ Ogólnie, warsztat był bardzo solidnym wstępem do Anta, z którego sporo się
 dowiedzieliśmy. Postaramy się sprawdzić w praktyce czy rzeczywiście to narzędzie
 pozwoli nam na kilka kaw i memów więcej w ciągu dnia pracy 😉
 
-# Dzień drugi i trzeci - wykłady
+## Dzień drugi i trzeci - wykłady
 
 Główna część konferencji to dwa dni wypełnione prezentacjami, podczas których
 przewijał się motyw przewodni: prostota a innowacyjność.
@@ -119,7 +119,7 @@ towarzystwo. Jest to jak najbardziej pozytywny trend, który mamy nadzieję będ
 się utrzymywał. A teraz już bez zbędnego przedłużania zapraszamy na skrót
 najciekawszych, według nas, prezentacji.
 
-## Mylić się jest rzeczą nie tylko ludzką
+### Mylić się jest rzeczą nie tylko ludzką
 
 Na początek od razu dostaliśmy mocne uderzenie. Rahel Anne Baile w swojej
 prezentacji "Examining cognitive bias in bots" mówiła o botach z perspektywy
@@ -151,7 +151,7 @@ licznym anegdotom była bardzo wciągająca, a przekazane przez nią treści
 
 https://twitter.com/kdhowald/status/999563361540083712?s=19
 
-## Tradycyjne szkolenia odchodzą do lamusa
+### Tradycyjne szkolenia odchodzą do lamusa
 
 Justyna Tofilska w swojej prezentacji "The future of e-learning" starała się
 udowodnić, że e-learning jest przyszłością szkoleń.
@@ -192,7 +192,7 @@ e-learningu powinno nam pójść gładko 😊
 
 https://twitter.com/AdinaSolutions/status/999563997065220096?s=19
 
-## Trzystu
+### Trzystu
 
 Rafał Pawlicki podczas swojej prezentacji "How did over 300 skeptics start
 writing docs?" pokazał, jak wraz z kolegami starał się rozwiązać problemy z
@@ -245,7 +245,7 @@ się dokumentacją na co dzień 😉
 
 https://twitter.com/RayGallon/status/999596768882036736?s=19
 
-## Warto zaprzyjaźnić się z robotem
+### Warto zaprzyjaźnić się z robotem
 
 Marta Bartnicka i Wojciech Froelich w swojej prezentacji "Dear Mr. Robot"
 poruszyli tematy deep learning i tłumaczenia maszynowego (MT). Na początku
@@ -285,7 +285,7 @@ sami, a jeśli macie ochotę, podzielcie się wnioskami w komentarzach.
 
 https://twitter.com/rahelab/status/999925675858452483?s=19
 
-## Nowy wymiar screeshotów
+### Nowy wymiar screeshotów
 
 Anton Bollen w trakcie swojego wystąpienia "Rethink your screeshots and
 tutorials with a Simplified User Interface" zaproponował użycie "uproszczonego
@@ -325,7 +325,7 @@ https://twitter.com/antonbollen/status/999992866989633536
 
 https://twitter.com/Ancsur2002/status/999996373855621120
 
-## Prosty tekst to dobry tekst
+### Prosty tekst to dobry tekst
 
 Wyborna prezentacja wygłoszona przez naszego dobrego znajomego, Pawła Kowaluka,
 który opowiadał o tym jak uprościć język, którym posługujemy się w dokumentacji.
@@ -364,7 +364,7 @@ zastosowania strategii "baw się i ucz".
 
 https://twitter.com/AdinaSolutions/status/1000023890914152451?s=19
 
-# Część nieoficjalna
+## Część nieoficjalna
 
 Konferencja to nie tylko mnóstwo wiedzy, to także sporo dobrej zabawy. Po każdym
 dniu wykładów mieliśmy okazję rozluźnić się i spędzić miło czas na rozmowach,
@@ -376,7 +376,7 @@ wszyscy dobrze się bawili.
 [![](images/34558545_972223846281017_2214674545875353600_o-1024x683.jpg)](http://techwriter.pl/wp-content/uploads/2018/06/34558545_972223846281017_2214674545875353600_o.jpg)
 [![](images/34610558_972220826281319_1467938367718031360_o.jpg)](http://techwriter.pl/wp-content/uploads/2018/06/34610558_972220826281319_1467938367718031360_o.jpg)
 
-# Podsumowanie
+## Podsumowanie
 
 Konferencja soap! jest jak wino - im starsza tym lepsza. Szósta edycja
 udowodniła, że jest to wydarzenie w pełni dojrzałe, stojące na wysokim poziomie

@@ -28,7 +28,7 @@ Tom doradził, żeby zacząć od określenia zadań jakie użytkownicy będą ch
 wykonać za pomocą opisywanej aplikacji. To da nam dobry punkt wyjścia. Dalszą
 część procesu Tom wyjaśnił na przykładzie... sortowania wypranych ubrań 😊
 
-## Krok 1 - zbieramy wszystkie ubrania
+### Krok 1 - zbieramy wszystkie ubrania
 
 Na początek trzeba zebrać wszystkie ubrania w jednym miejscu. Zajmuje to całkiem
 sporo czasu, szczególnie jeśli ma się dużo dzieci. Kiedy tworzymy dokumentację,
@@ -37,7 +37,7 @@ technicznych, spotkań oraz prezentacji. Kiedy już mamy to co trzeba, tworzymy
 jeden duży plik, do którego wklejamy wszystkie informacje jakie udało nam się
 zebrać.
 
-## Krok 2 - rozdzielamy ubrania
+### Krok 2 - rozdzielamy ubrania
 
 Kolejny krok polega na podzieleniu ubrań. Możemy do tego użyć koszy. Główne
 zadanie polega na włożeniu odpowiedniego ubrania do odpowiedniego kosza. Czasami
@@ -45,7 +45,7 @@ trzeba się dobrze przyjrzeć, żeby się nie pomylić. Na tym etapie musimy
 podzielić nasz jeden duży plik na kilka mniejszych. Właściwe pogrupowanie
 informacji nie powinno nam sprawić większych problemów.
 
-## Krok 3 - składamy ubrania
+### Krok 3 - składamy ubrania
 
 Teraz przyszedł czas na uporządkowanie ubrań w koszach. W tym celu wysypujemy
 zawartość każdego kosza i grupujemy w osobnych kupkach koszulki, spodnie i
@@ -54,14 +54,14 @@ dokumentami, które stworzyliśmy w poprzednim kroku - dzielimy informacje zawar
 w nich na mniejsze sekcje. Następnie każdą sekcję dzielimy na listy
 wypunktowane.
 
-## Krok 4 - odkładamy ubrania na właściwe miejsce
+### Krok 4 - odkładamy ubrania na właściwe miejsce
 
 W tym kroku musimy umieścić ubrania we właściwym pokoju oraz szafie czy
 komodzie. Na tym etapie zaczyna się pisanie. Przeształcamy sekcje z listami na
 właściwe zdania. Nie powinno być to bardzo trudne, ponieważ już posiadamy zarys
 tego co trzeba opisać.
 
-## Krok 5 - sprawdzamy
+### Krok 5 - sprawdzamy
 
 Ostatni krok polega na weryfikacji czy ubrania trafiły we właściwe miejsca.
 Właściciele każdego zestawu ubrań sprawdzają czy nastąpiły jakieś pomyłki. Jeśli
@@ -70,7 +70,7 @@ Ten proces trwa zazwyczaj kilka dni. W przypadku dokumentacji sytuacja jest
 podobna. Eksperci sprawdzają to co napisaliśmy. Jeśli brakuje czegoś to
 informują nas o tym. Po wprowadzeniu poprawek instrukcja jest gotowa
 
-## Bonus
+### Bonus
 
 Tutaj analogia kończy się 😊 Dodatkowo możemy wzbogacić naszą dokumentacę o
 zrzuty ekranu, diagramy, ilustracje albo inne elementy wizualne, żeby ją trochę

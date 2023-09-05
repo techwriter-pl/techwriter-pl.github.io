@@ -30,7 +30,7 @@ na Akademii Biznesu i Finansów Vistula, w których niżej podpisana również b
 udział. Tak samo jak poprzednie, również i ta edycja cieszyła się ogromnym
 powodzeniem i zakończyła się niewątpliwym sukcesem.
 
-## Początek
+### Początek
 
 Studia wystartowały z lekkim poślizgiem, bo dopiero w drugiej połowie
 listopada 2022. Na pierwszych zajęciach każdy z pewną nieśmiałością mówił o
@@ -43,7 +43,7 @@ co dzień tworzeniem treści, jak również zawodowi tech writerzy.
 
 ![](images/zdjecie1.jpg)
 
-## Koła w ruch
+### Koła w ruch
 
 A potem wszystko ruszyło pełną parą. Zajęcia odbywały się co 2 tygodnie w soboty
 i w niedziele, od 9:00 do 15:00/16:00. Każdy obciążony dodatkowo pracą zawodową
@@ -51,7 +51,7 @@ w ciągu tygodnia, a czasem i w weekendy, znajdował czas, żeby pojawić się n
 zajęciach. Na szczęście nie musiał wychodzić poza duży pokój czy swój gabinet,
 bo spotkania odbywały się online na platformie Teams.
 
-## Duży zastrzyk wiedzy
+### Duży zastrzyk wiedzy
 
 Prowadzący przygotowali dla nas wachlarz tematów. Znalazły się wśród nich
 zagadnienia dotyczące m.in. specyfiki pracy tech writera, środowiska komunikacji
@@ -76,7 +76,7 @@ Ukłony w stronę naszych wykładowców, którzy chętnie dzielili się z nami s
 ogromną wiedzą, doświadczeniem, wprowadzali pozytywną atmosferę na zajęciach i
 zawsze byli dostępni, gdy ich potrzebowaliśmy, także poza godzinami zajęć.
 
-## Integracja
+### Integracja
 
 ![](images/zdjecie2.jpg)
 
@@ -96,7 +96,7 @@ integrację ma już za sobą, a kolejne przed sobą. Cała grupa studentów
 komunikacji technicznej również ma drugą integrację przed sobą. Bo wierzymy, że
 jeśli tylko jest dobra wola w ludziach, wszystko się uda.
 
-## Back to school
+### Back to school
 
 Po integracji szybko wróciliśmy do swoich obowiązków zawodowych i studenckich.
 Zajęcia dalej szły swoim trybem, a dla nas zbliżał się termin wykonania i
@@ -106,7 +106,7 @@ narzędzi, które poznaliśmy w czasie studiów.
 Największym powodzeniem cieszył się wśród studentów MadCap Flare, ale były też
 projekty przygotowane w Just the Docs czy Oxygenie.
 
-## Tematy prac i inwencja autorów
+### Tematy prac i inwencja autorów
 
 ![](images/zdjecie_3.jpg)
 
@@ -144,7 +144,7 @@ taka instrukcja powstała. Została również przetestowana. Po testach okazało
 że instrukcja działa, jako że ich efektem był krasnal wyszydełkowany przez
 testerkę.
 
-## To już jest koniec
+### To już jest koniec
 
 Ostatnie zajęcia na studiach były poświęcone obronie prac końcowych. Każdy ze
 studentów miał za zadanie opowiedzieć o swoim projekcie. Czyli powiedzieć, kto

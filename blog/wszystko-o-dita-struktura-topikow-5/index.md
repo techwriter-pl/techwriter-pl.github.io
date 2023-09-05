@@ -23,7 +23,7 @@ budują naszą techniczną epopeję. Weźmy zatem do ręki metaforyczną lupę i
 przyjrzyjmy się z bliska małym bestiom biegającym po mapach, a którym na imię
 "topic".
 
-# Topik ogólny, a topiki wyspecjalizowane
+## Topik ogólny, a topiki wyspecjalizowane
 
 Wszystkie topiki wyspecjalizowane standardu DITA powstają na bazie topika
 ogólnego (generic topic). Topik ogólny służy jako podstawa podczas tworzenia
@@ -52,7 +52,7 @@ Na koniec tego rozdziału opisującego topik ogólny warto podkreślić, że zaw
 istnieje możliwość korzystania z topików ogólnych podczas tworzenia treści,
 jednak zaleca się, aby korzystać z topików wyspecjalizowanych.
 
-# Topik typu Concept
+## Topik typu Concept
 
 Topik typu Concept odpowiada na pytanie "Dlaczego?" i zawiera podstawowe
 informacje, które czytelnik powinien posiadać.
@@ -72,7 +72,7 @@ Elementy najczęściej używane w konceptach:
 - `<image>` - element zawierający grafikę, który znajduje się w tagu `<fig>`
 - `<section>` - podział wewnętrzny topika, który może zawierać tytuł
 
-# Topik typu Task
+## Topik typu Task
 
 Topik typu Task odpowiada na pytanie "Jak?" i zawiera instrukcję krok po kroku
 prowadzącą do wykonania pewnej procedury. DITA pozwala także na wprowadzenie
@@ -112,7 +112,7 @@ Elementy najczęściej używane w taskach:
   - `<stepxmp>` - podaje przykład jak można wykonać dany krok
 - `<example>` - podaje przykład jak można wykonać cały proces
 
-# Topik typu Reference
+## Topik typu Reference
 
 Topik typu Reference odpowiada na pytanie "Co to jest?" i zawiera fakty
 opisujące nasz produkt, takie jak składnia polecenia, wywołanie funkcji API,
@@ -131,7 +131,7 @@ Elementy najczęściej używane w topikach reference:
 - `<properties>` - lista właściwości
 - `<refsyn>` - diagram składni
 
-# Topik typu Glossary entry
+## Topik typu Glossary entry
 
 Topik Glossary entry odpowiada na pytanie "Co to słowo / fraza oznacza?" i
 najczęściej zawiera jedno pojęcie oraz jedną, lub więcej definicji.
@@ -143,7 +143,7 @@ Elementy najczęściej używane w topikach Glossary entry:
 - `<glossdef>` - zawiera definicję słowa lub frazy przytoczonej w znaczniku 
   `<glossterm>`
 
-# Co dalej?
+## Co dalej?
 
 Podsumowując, w standardzie DITA posiadamy zarówno topik ogólny dający nam
 zupełną swobodę działania jak i cztery podstawowe topiki wyspecjalizowane,

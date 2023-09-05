@@ -17,7 +17,7 @@ miesiąc. Poniżej garść najważniejszych informacji na jej temat.
 
 <!--truncate-->
 
-### Co, gdzie i kiedy?
+#### Co, gdzie i kiedy?
 
 Konferencja odbędzie się **8 - 11 września w Pradze**. Szczegółowe informacje
 znajdziecie na
@@ -38,7 +38,7 @@ będziecie mogli wziąć udział są dostępne
 [tutaj](http://www.writethedocs.org/conf/prague/2018/schedule/). Dajcie znać,
 które tematy najbardziej Was zaciekawiły :-)
 
-### Bilety
+#### Bilety
 
 W dniu 15 sierpnia organizator poinformował, że bilety na konferencję zostały
 **WYPRZEDANE**! Zatem jeśli planowaliście swój udział, a nie udało Wam się kupić

@@ -21,7 +21,7 @@ nasze, niemałe już zasoby. Poza tym świat, który nas otacza, a wraz z nim i
 praca Technical Writera ulegają ciągłym zmianom, dlatego warto raz na jakiś czas
 odświeżać pewne informacje.
 
-### Rola(e) Technical Writera
+#### Rola(e) Technical Writera
 
 Zanim przejdę do wskazówek, krótkie przypomnienie tego, czym zajmuje się
 Technical Writer i jaką pełni rolę w organizacji, dla której pracuje.
@@ -54,7 +54,7 @@ Technical Writer. Jeśli jesteście ciekawi co jeszcze czeka Was w tym zawodzie,
 zapraszam do zapoznania się z artykułem naszego redakcyjnego kolegi:
 [http://techwriter.pl/kapelusze-tech-writera/](http://techwriter.pl/kapelusze-tech-writera/).
 
-### Sposoby na poprawę umiejętności pisania tekstów technicznych
+#### Sposoby na poprawę umiejętności pisania tekstów technicznych
 
 Jak w każdej innej dziedzinie, tak i tu istnieją wskazówki i triki, dzięki
 którym możesz ulepszyć swoje umiejętności. Co więc można zrobić, by pisać lepszą

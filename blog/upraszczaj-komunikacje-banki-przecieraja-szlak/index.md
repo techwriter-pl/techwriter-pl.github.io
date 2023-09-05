@@ -28,7 +28,7 @@ dużych inwestycji w komunikację z klientem końcowym. Zbiegiem okoliczności (
 na oba natknęliśmy się w bankach często uznawanych za liderów w swojej branży,
 szczególnie pod względem zastosowania nowych technologii.
 
-## mKanon
+### mKanon
 
 W mBanku już od pięciu lat inwestują w bardziej zrozumiałą i empatyczną
 komunikację. Dobre praktyki i reguły zebrano w kanon. mKanon:
@@ -43,7 +43,7 @@ właśnie tekst!
 Warto dodać, że przy tworzeniu mKanonu pracownicy mBanku udali się po pomoc do
 [Fundacji Języka Polskiego](http://fundacjajezykapolskiego.pl).
 
-## Prosty język robi różnicę
+### Prosty język robi różnicę
 
 Również ING Bank Śląski od lat inwestuje w jasną komunikację. Już w 2014 roku
 rozpoczął współpracę z językoznawcami na dużą skalę. W prace zaangażował też

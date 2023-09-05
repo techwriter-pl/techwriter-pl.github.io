@@ -25,20 +25,20 @@ dwóch lat mogła mieć wpływ na wybór nazwy dla grupy 😉
 
 Poniżej trochę konkretów.
 
-### Nazwa wydarzenia
+#### Nazwa wydarzenia
 
 Pierwszy meetup uContentowanych
 
-### Kiedy?
+#### Kiedy?
 
 23 czerwca, godz. 19:30.
 
-### Gdzie?
+#### Gdzie?
 
 Klubokawiarnia "Dwie zmiany"
 [ul. Bohaterów Monte Cassino 31, 81-767 Sopot](https://www.google.pl/maps/place/Bohater%C3%B3w+Monte+Cassino+31,+Sopot/@54.443453,18.5631999,17z/data=!3m1!4b1!4m2!3m1!1s0x46fd0a90497f6bd1:0x21b3a63278c13016!6m1!1e1?hl=pl&shorturl=1)
 
-### Więcej informacji
+#### Więcej informacji
 
 Jeśli chcecie śledzić na bieżąco status spotkania lub do niego dołączyć, możecie
 to zrobić za pośrednictwem

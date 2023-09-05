@@ -20,7 +20,7 @@ oraz nasze krótkie przemyślenia na jego temat. Oryginalny artykuł dostępny j
 
 <!--truncate-->
 
-## Pierwsze - testuj swoje instrukcje
+### Pierwsze - testuj swoje instrukcje
 
 Ciężko ocenić wartość stworzonej instrukcji bez przejścia samemu przez zadania,
 które opisuje. Wydaje się to oczywiste i bardzo często nie stanowi to problemu w
@@ -33,7 +33,7 @@ kiedy autor instrukcji stworzył ją na podstawie informacji, które otrzymał o
 kogoś innego, a kiedy na podstawie osobistego doświadczenia, dlatego zawsze
 starajmy się sprawdzać to co napisaliśmy.
 
-## Drugie - współpracuj z działem jakości
+### Drugie - współpracuj z działem jakości
 
 Testerzy to nasi najlepsi przyjaciele, bo nikt tak jak oni nie zna całego
 systemu. Poza tym mają oni środowiska testowe dla oprogramowania z gotowymi
@@ -44,7 +44,7 @@ nie mieć wiedzy na temat tego jak dana funkcja systemu będzie wykorzystywana,
 ponieważ ich głównym zadaniem jest sprawdzenie czy coś działa czy nie. Takie
 informacje musimy już wyciągać od manadżerów produktu.
 
-## Trzecie - nie przeceniaj poziomu wiedzy użytkowników
+### Trzecie - nie przeceniaj poziomu wiedzy użytkowników
 
 Programiści bardzo często zakładają, że użytkownicy posiadają większą wiedzę na
 temat stosowanej przez naszą firmę technologii niż w rzeczywistości. Prawda jest
@@ -54,7 +54,7 @@ użytkownicy wiedzą zdecydowanie mniej niż się programistom wydaje. Lepiej j
 napisać dokumentację, która jest zbyt dokładna niż niejasna i naszpikowana
 niezrozumiałymi skrótami.
 
-## Czwarte - słuchaj opinii użytkowników
+### Czwarte - słuchaj opinii użytkowników
 
 Nie da się ocenić prawdziwej wartości dokumentacji bez opinii użytkowników. To
 czy instrukcje są zrozumiałe i czy spełniają oczekiwania ludzi, którzy je
@@ -66,7 +66,7 @@ ocenę wartości dokumentacji. Nasze doświadczenie to za mało. Nawet jeśli sa
 przeszliśmy przez wszystkie instrukcje i okazały się one poprawne, nie oznacza
 to, że dokumentacja nie ma sporych braków.
 
-## Piąte - zawsze miej na względzie pracę grupową
+### Piąte - zawsze miej na względzie pracę grupową
 
 Nawet jeśli obecnie nie potrzebujemy rozwiązania, które umożliwia tworzenie
 dokumentacji przez grupę osób, najpewniej w którymś momencie pojawi się taka
@@ -79,7 +79,7 @@ może zatrudnić więcej takich osób lub włączyć w proces tworzenia dokument
 innych pracowników. W każdym przypadku, metoda tworzenia dokumentacji, która nie
 pozwala na współpracę to na dłuższą metę kiepskie rozwiązanie.
 
-## Szóste - skup się bardziej na treści niż formie
+### Szóste - skup się bardziej na treści niż formie
 
 Łatwo się zatracić w konfiguracji narzędzi dotyczącej publikacji dokumentów.
 Jednak w większości przypadków problemem jest treść a nie samo narzędzie. To czy
@@ -92,7 +92,7 @@ informacji, spis treści i innego tego typu elementy. Jednak jeśli to możliwe,
 wybierzmy narzędzie, które nie wymaga poświęcania dużej ilości czasu na
 konfigurację. Wybierzmy łatwą metodę, a zaoszczędzony czas poświęćmy na pisanie.
 
-## Siódme - dodaj trochę grafiki
+### Siódme - dodaj trochę grafiki
 
 Żeby podnieść poziom atrakcyjności instrukcji, dodajmy do nich elementy
 wizualne, takie jak diagramy, ilustracje czy opisane zrzuty ekranu. Dzięki temu
@@ -105,7 +105,7 @@ bardziej na próbkach kodu niż na grafice, możemy nie potrzebować dużej ilo�
 elementów wizualnych. Niemniej jednak starajmy się komunikować z użytkownikiem
 wizualnie kiedy to tylko możliwe.
 
-## Ósme - stosuj przykłady
+### Ósme - stosuj przykłady
 
 Jeśli opisujemy coś skomplikowanego, najlepszym sposobem na wyjaśnienie jest
 zazwyczaj podanie przykładu. Każdy przykład sprawia, że nasz opis jest bardziej
@@ -116,7 +116,7 @@ załapią o co chodzi. Oczywiście nie wszystko da się oprzeć na przykładach,
 pamiętajmy że jest to narzędzie, które umożliwia komunikowanie skomplikowanych
 treści w zrozumiały sposób.
 
-## Dziewiąte - nie przestawaj się uczyć
+### Dziewiąte - nie przestawaj się uczyć
 
 Szybki rozwój technologiczny powoduje, że uczenie się powinno być procesem
 regularnym, który jest integralną częścią dnia każdego Tech Writera. Obecnie
@@ -131,7 +131,7 @@ i nie ma za dużej wiedzy technicznej z pewnością będzie miał większe trudn
 ze znalezieniem pracy niż dokumentalista z dużą wiedzą techniczną. Jest to
 szczególnie prawda w przypadku osób tworzących dokumentację dla programistów.
 
-## Dziesiąte - dostarczaj dokumentację głównie w formacie strony internetowej
+### Dziesiąte - dostarczaj dokumentację głównie w formacie strony internetowej
 
 Za długo funkcjonujemy w "książkowym" sposobie myślenia. Jeśli skupimy się na
 stronie internetowej jako naszym głównym formacie, wtedy będziemy w stanie pisać

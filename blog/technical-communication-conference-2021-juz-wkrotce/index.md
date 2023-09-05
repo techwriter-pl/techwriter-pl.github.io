@@ -19,7 +19,7 @@ Już **13 listopada** odbędzie się kolejna branżowa konferencja. Mowa o
 
 <!--truncate-->
 
-### O konferencji
+#### O konferencji
 
 Technical Communication Conference organizowana jest po raz czwarty. Jej głównym
 sponsorem jest ukraińska firma Soft Serve specjalizująca się w usługach
@@ -32,7 +32,7 @@ zainteresowanym zaadoptowania nowinek technologicznych, w dobrze już znane
 procedury, tak by praca stała się wygodniejsza i bardziej efektywna i
 jednocześnie spełniała warunki wciąż zmieniających się trendów.
 
-### Dla kogo
+#### Dla kogo
 
 Konferencja skierowana jest do wszystkich osób zainteresowanych branżą
 komunikacji technicznej. W centrum zainteresowania są: technical writerzy,
@@ -46,17 +46,17 @@ tematy:
 - agile approach to technical communication,
 - comprehensive doc strategy.
 
-### Kiedy
+#### Kiedy
 
 Wydarzenie będzie miało formę w pełni online i odbędzie się 13 listopada 2021
 roku.
 
-### Cena
+#### Cena
 
 Konferencja jest bezpłatna, wymaga jednak rejestracji. Szczegóły znajdziecie
 [tutaj](https://softserveinc.events/techcommconference/?utm_campaign=Tech%20Comms%20Conf%202021&utm_source=Website&utm_medium=event%20page&utm_term=on%20SoftServe).
 
-### Program konferencji
+#### Program konferencji
 
 Na ten moment nie jest znana agenda wydarzenia. Organizatorzy kompletują listę
 prelegentów. Gdyby ktoś z Was miał ochotę wziąć udział w konferencji w roli

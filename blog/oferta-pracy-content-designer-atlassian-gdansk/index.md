@@ -32,7 +32,7 @@ Pewnie dlatego, że lubimy eksperymenty 😊
 
 ---
 
-# Content Designer
+## Content Designer
 
 Gdansk, Poland • Customer Experience • Full Time
 

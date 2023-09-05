@@ -28,7 +28,7 @@ opowiadają o swoich doświadczeniach, pierwszych krokach, błędach i sukcesach
 tech writingu. Konferencja daje również możliwość spotkania się twarzą w twarz i
 porozmawiania,  nie zawsze na tematy techniczne 😊.
 
-## Informacje ogólne
+### Informacje ogólne
 
 Konferencja odbyła się w formie hybrydowej. Na scenie (i ekranie) w centrum
 [Manggha](https://manggha.pl/) wystapiło łącznie 21 prelegentów. Konferencję
@@ -42,7 +42,7 @@ rzeczywistości (nie koniecznie post-covidowej). Pełny program wykładów może
 znaleźć [tutaj](https://soapconf.com/schedule-2022/), a same prelekcje
 [tutaj](https://www.youtube.com/playlist?list=PLUY0lajb-kiaMB8XEOrdqE-BBLQmSfvCB).
 
-## Coś nowego!
+### Coś nowego!
 
 W tym roku organizatorzy postawili na urozmaicenie konferencji uczestnikom i
 przygotowali zupełnie nowe wydarzenie - S.U.P.E.R G.A.M.E.
@@ -98,7 +98,7 @@ uczestników zabawy! Po prostu super teleturniej! SUUUPER GRA!!!
 
 ###### Rok 2042, teleturniej "Familiada", odcinek 4815. "Podaj nazwę popularnego zawodu". Tak będzie!
 
-## Pierwszy dzień
+### Pierwszy dzień
 
 ... to przede wszystkim warsztaty. Nie brakowało ciekawych tematów. Ja
 uczestniczyłam w dwóch, które najbardziej mnie zainteresowały i postanowiłam
@@ -124,13 +124,13 @@ A jeśli jesteście ciekawi, jakie były pozostałe tematy, zajrzyjcie
 [tutaj](https://soapconf.com/workshops-schedule/). Może ktoś z Was chciałby się
 podzielić swoimi doświadczeniami?
 
-## Drugi i trzeci dzień
+### Drugi i trzeci dzień
 
 Dni pełne ciekawych prezentacji i rozmów przy kawie, aż trudno było się
 zdecydować, czym się z Wami podzielić 😉. Wybraliśmy kilka tematów, które
 najbardziej nam się podobały.
 
-### Wiarygodność informacji w internecie
+#### Wiarygodność informacji w internecie
 
 Pierwszy dzień konferencyjnych wystąpień otworzył
 [Ray Gallon](https://www.linkedin.com/in/rgallon/) w swojej prezentacji 
@@ -160,7 +160,7 @@ bójcie się przyznać, że czegoś nie wiecie, reagujcie, jeśli uważacie, że
 informacja jest nieprawdziwa. Takie podejście pomoże w budowaniu empatii w
 społeczności.
 
-### Rozwój creator economy
+#### Rozwój creator economy
 
 Lance Cummings i [Jacek Lawrecki](https://www.linkedin.com/in/jacek-lawrecki/) w
 swojej prezentacji 
@@ -190,7 +190,7 @@ A jak zostać takim kreatorem? Kierujcie się tymi trzema magicznymi zasadami:
 
 Wniosek jest jeden: nie bójcie się eksperymentować, trzeba próbować!
 
-### STE w dokumentacji IT
+#### STE w dokumentacji IT
 
 Co kwalifikuje tekst jako zgodny z zasadami Simplify Technical English (STE)?
 Dlaczego odpowiednio dobrane słowa maja znaczenie? Jak stworzyć przyjazny dla
@@ -236,7 +236,7 @@ A jeśli chcecie wiedzieć co jest ważne, warto zwrócić uwagę na trzy aspekt
 Jeśli chcecie wiedzieć więcej o STE zajrzyjcie
 [tutaj](http://techwriter.pl/simplified-technical-english-ste-jak-go-uzywac-w-praktyce/)!
 
-### Praca w dobie postępującego rozwoju sztucznej inteligencji i robotów
+#### Praca w dobie postępującego rozwoju sztucznej inteligencji i robotów
 
 Czy roboty zabiorą nam pracę? Czy można wybrać kandydata za pomocą algorytmu?
 Jak odnaleźć się w nowej rzeczywistości?
@@ -264,7 +264,7 @@ Sprawdźcie swoje umiejętności krytycznego i kreatywnego myślenia, zdolności
 adaptacyjne (nauczcie się umiejętności, których brakuje robotom 😉 ), takich 
 właśnie cech, według CJ, będzie szukał pracodawca.
 
-### Kursy i szkolenia w nowej rzeczywistości - plusy i minusy
+#### Kursy i szkolenia w nowej rzeczywistości - plusy i minusy
 
 Przeniesienie szkoleń i nauczania w szkołach do sieci nastąpiło dość szybko i
 niespodziewanie. E-learning umożliwił kształcenie się, ukończenie różnego
@@ -354,7 +354,7 @@ dostosowane do różnego typu potrzeb.
 Nie spoczywajcie na laurach, poszerzajcie swoją wiedzę, rozwijajcie się,
 dostosowujcie swoje podejście do dynamicznie zmieniającej się rzeczywistości.
 
-### [Szkolenia traktowane niczym kod](https://youtu.be/by4v-L7rono) czyli jak dynamicznie generować materiały szkoleniowe
+#### [Szkolenia traktowane niczym kod](https://youtu.be/by4v-L7rono) czyli jak dynamicznie generować materiały szkoleniowe
 
 [![](images/IMG-7738-1024x768.jpg)](http://techwriter.pl/wp-content/uploads/2022/07/IMG-7738-scaled.jpg)
 
@@ -426,7 +426,7 @@ zmian w wielu miejscach metodą "kopiuj-wklej".
 
 Nie bójcie się robić lepiej 😊
 
-### Mrożąca krew w żyłach opowieść o zwariowanym projekcie
+#### Mrożąca krew w żyłach opowieść o zwariowanym projekcie
 
 [Anu Granroth](https://www.linkedin.com/in/anugranroth/) działa w branży tech
 comm już 20 lat. Założyła własną firmę specjalizującą się w komunikacji
@@ -492,7 +492,7 @@ temu wszyscy uczymy się jak wyciągać lepsze wnioski na przyszłość.
 
 ###### Zgroza! Zgroza! Pod tymi niewinnie prezentującymi się gwiazdkami kryje się dramatyczny obraz skrajnie wymagającego planu. W zwykłych okolicznościach wybór narzędzia do tworzenie dokumentacji potrafi zająć sporo czasu, ale zastosowano tu z zasadę króla Juliana z filmu animowanego „Madakaskar”: „_nie ma czasu się zastanawiać – należy biec, zanim do nas dotrze, że biegniemy w złym kierunku_”. A jednak się udało!
 
-### Dla miłośników danych i statystyk - czyli europejska branża technical writingu w liczbach
+#### Dla miłośników danych i statystyk - czyli europejska branża technical writingu w liczbach
 
 [![](images/upload_032-1024x576.png)](http://techwriter.pl/wp-content/uploads/2022/07/upload_032.png)
 
@@ -517,7 +517,7 @@ dynamice? Powszechność pracy zdalnej w Europie sprawia, że można skorzystać
 intratnej ofercie bez zmiany kraju zamieszkania. Warto trzymać rękę na pulsie,
 bo będzie się działo!
 
-## Kilka słów na zakończenie
+### Kilka słów na zakończenie
 
 Kończąc nasze  wywody i refleksje nie pozostaje nam nic innego jak tylko
 zachęcić Was do udziału w kolejnych edycjach konferencji!

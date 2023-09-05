@@ -19,7 +19,7 @@ półrocze 2018 roku.
 
 <!--truncate-->
 
-## Styczeń
+### Styczeń
 
 11-13 stycznia, San Diego, Kalifornia, USA – [IC4E 2018](http://www.ic4e.net/)
 
@@ -43,7 +43,7 @@ online**
 31 stycznia - 1 lutego, Londyn, Wielka Brytania -
 [Learning Technologies](http://www.learningtechnologies.co.uk/welcome)
 
-## Luty
+### Luty
 
 3-8 lutego, Lyon, Francja – [interaction 18](http://interaction18.ixda.org/)
 
@@ -69,7 +69,7 @@ online**
 28 lutego – 2 marca, Shenzhen, Chiny
 – [LocWorld33](https://locworld.com/events/locworld33-shenzhen-2017/)
 
-## Marzec
+### Marzec
 
 1-2 marca, Amsterdam, Holandia -
 [Information Energy 2018](http://www.informationenergy.org/)
@@ -115,7 +115,7 @@ Writers UA - brak konkretnej daty poza informacją, że ma być w marcu
 ([link](http://www.welinske.com/writersua-conferences/) w sekcji Upcoming
 Conferences)
 
-## Kwiecień
+### Kwiecień
 
 3-5 kwietnia, Tokio, Japonia -
 [LocWorld36 Tokyo](https://locworld.com/events/locworld36-tokyo-2018/)
@@ -143,7 +143,7 @@ Mid-Atlantic TechComm Conference)
 26-28 kwietnia, Chicago, Illinois, USA -
 [ACES' 2018 National Conference](https://aceseditors.org/conference/2018)
 
-## Maj
+### Maj
 
 6-8 maja, Portland, Oregon, USA
 – [Write the Docs Portland](http://www.writethedocs.org/conf/portland/2018/)
@@ -169,7 +169,7 @@ serdecznie :-D**
 31 maja - 1 czerwca, Sofia, Bułgaria -
 [Evolution of TC](http://evolution-of-tc.com/)
 
-## Czerwiec
+### Czerwiec
 
 3-6 czerwca, San Diego, Kalifornia, USA -
 [MadWorld](https://www.madcapsoftware.com/conference/madworld-2018/) **\- w tym

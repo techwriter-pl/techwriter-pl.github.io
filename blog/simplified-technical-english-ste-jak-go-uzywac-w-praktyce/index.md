@@ -26,7 +26,7 @@ Poprzez minimalizacje liczby słów i złożoności zdań oraz przestrzeganie re
 pisania, język kontrolowany jest lepiej „czytany” zarówno przez komputer jak i
 przez istotę ludzką.
 
-## Gdzie jest używany?
+### Gdzie jest używany?
 
 Język kontrolowany używany jest w określonych środowiskach w różnych typach
 dokumentacji technicznej, jak na przykład instrukcje konserwacji i obsługi.
@@ -34,14 +34,14 @@ dokumentacji technicznej, jak na przykład instrukcje konserwacji i obsługi.
 Może być używany jako wytyczne do pisania lub kontroluje tekst w celu
 weryfikacji zgodności.
 
-## Jak to się robi?
+### Jak to się robi?
 
 Do przygotowania dokumentacji pisanej kontrolowanym językiem, najczęściej
 używana jest międzynarodowa specyfikacja ASD-STE100. Wspominaliśmy o tym w
 naszym poprzednim artykule
 [(tutaj)](http://techwriter.pl/simplified-technical-english-wprowadzenie/).
 
-## Do czego potrzebna jest specyfikacja ASD-STE100?
+### Do czego potrzebna jest specyfikacja ASD-STE100?
 
 Zawiera ona zastaw reguł pisania oraz kontrolowany słownik, posiada
 wystarczającą ilość słów do wyrażenia każdego zdania technicznego. Słowa zostały
@@ -50,7 +50,7 @@ wybrane ze względu na ich prostotę i łatwość rozpoznawania.
 Jak to działa? Żeby się nie rozpisywać, przejdziemy do konkretów 😊 i podamy
 kilka przykładów.
 
-### Reguły pisania
+#### Reguły pisania
 
 1. Używaj odpowiednich rodzajników (a, an, the) przed rzeczownikiem lub zaimków
    wskazujących (this, these).
@@ -101,7 +101,7 @@ językiem angielskim. W tekście napisanym w STE rzeczownikiem głównym jest
 "connection", rzeczowniki są bliżej siebie a zatem łatwiejsze do odczytania i
 zrozumienia.
 
-### Słownik
+#### Słownik
 
 Słownik w języku kontrolowanym określa słowa, przy pomocy których należy budować
 tekst.
@@ -151,7 +151,7 @@ Oprócz ogólnych wyrazów zatwierdzonych w specyfikacji ASD-STE100 potrzebny je
 też wykaz zatwierdzonych wyrazów dla danego biznesu 😊, a to już oddzielny
 temat, żeby Was nie zamęczyć.
 
-## Czy warto go używać?
+### Czy warto go używać?
 
 Warto wspomnieć, jakie mogą być zalety używania STE. Wbrew pozorom może okazać
 się, że w Waszej firmie lub w biznesie, dla którego pracujecie zastosowanie
@@ -165,7 +165,7 @@ informacji w dokumencie.
 Pisanie zgodnie z STE narzuca dyscyplinę na język, którego używacie, ważne aby
 jedno słowo miało tylko jedno znaczenie, to ogranicza Wasz wybór 😉 .
 
-## ..i już na koniec
+### ..i już na koniec
 
 Mamy nadzieje, że ten artykuł pomoże Wam zdecydować, czy warto zainwestować
 trochę czasu i nauczyć się tych zasad oraz pracy ze słownikiem.

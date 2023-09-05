@@ -17,7 +17,7 @@ Docs**. Jego celem jest wkład w rozwój otwartego oprogramowania (open source).
 
 <!--truncate-->
 
-# O programie
+## O programie
 
 Projekt będzie trwał 8 miesięcy. W tym czasie zostanie utworzony zespół
 Technical Writerów, który będzie rozwijał dokumentację dla różnych projektów
@@ -36,7 +36,7 @@ programu, wykwalifikowani specjaliści od dokumentacji będą pracować nad wybr
 przez siebie projektem open source, wykorzystywać swoją wiedzę i doświadczenie w
 celu poprawy dokumentacji oraz poznawać otwarte oprogramowanie od podszewki.
 
-# Harmonogram
+## Harmonogram
 
 Season of Docs będzie realizowany według następującego harmonogramu:
 
@@ -61,7 +61,7 @@ specjalisty, może okazać się bardzo mocną pozycją w CV każdego Technical
 Writera. Na pewno można się przy takiej pracy wiele nauczyć. A może ktoś z Was
 chciałby partycypować w roli mentora? To dopiero może być ciekawe doświadczenie!
 
-# Brzmi zachęcająco, gdzie mogę dowiedzieć się więcej?
+## Brzmi zachęcająco, gdzie mogę dowiedzieć się więcej?
 
 Więcej informacji znajdziecie na
 [stronie projektu](https://developers.google.com/season-of-docs/).

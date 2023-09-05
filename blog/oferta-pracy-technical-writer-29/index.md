@@ -19,7 +19,7 @@ Aplikować możecie
 [przez LinkedIn](https://www.linkedin.com/jobs/view/690898127/). Poniżej opis
 stanowiska:
 
-## Job description
+### Job description
 
 What will you do?
 

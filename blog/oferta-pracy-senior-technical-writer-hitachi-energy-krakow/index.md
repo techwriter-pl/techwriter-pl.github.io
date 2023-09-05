@@ -37,13 +37,13 @@ Aplikację możecie składać poprzez formularz zamieszczony przy
 
 ---
 
-## Senior Technical Writer
+### Senior Technical Writer
 
 Hitachi Energy is looking for a talented and self-standing technical writer for
 its Kraków, Poland location. In this role, you will cooperate with multiple
 development teams to write documentation for different products.
 
-### Your responsibilities
+#### Your responsibilities
 
 - Create and update product documentation and descriptions without oversight.
 - Cooperate with Product Managers, UX Designers, Developers, and other Technical
@@ -54,7 +54,7 @@ development teams to write documentation for different products.
 - Test beta features and learn how our software works to become a subject matter
   expert.
 
-### Your background
+#### Your background
 
 - Bachelor's degree or higher in technical writing, English, communications, or
   a related area of study.

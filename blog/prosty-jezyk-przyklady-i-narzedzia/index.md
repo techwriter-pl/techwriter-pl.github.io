@@ -29,7 +29,7 @@ możemy zyskać dzięki korzystaniu z dobrodziejstw prostego języka?
 
 <!--truncate-->
 
-## Jak pisanie prostym językiem ułatwia życie społeczeństwu
+### Jak pisanie prostym językiem ułatwia życie społeczeństwu
 
 Gdy czytamy teksty urzędowe lub naukowe często tracimy sporo czasu na
 znalezienie głównej informacji. Nie rozumiejąc tekstu, nie do końca potrafimy
@@ -39,7 +39,7 @@ teksty, które będą bardziej przystępne.
 
 Może lepiej czytać coś co jest napisane inaczej? Łatwiej? Jaśniej?
 
-### Trudno czy prosto?
+#### Trudno czy prosto?
 
 Skupmy się na części praktycznej i przeanalizujmy kilka przykładów:
 
@@ -75,7 +75,7 @@ Czasami obraz zastąpi nam tysiąc słów. Powyżej przykład, w jaki sposób pr
 koncepcja językowa, zastosowana wizualnie, może przekazać ważne informacje
 dotyczące bezpieczeństwa skuteczniej niż słowa.
 
-## Trochę matematyki i obliczeń
+### Trochę matematyki i obliczeń
 
 Przebrnęliśmy już przez część praktyczną. Skąd zatem wiemy, że Wasz tekst jest
 przystępny?
@@ -128,7 +128,7 @@ pomijaj żadnych zdań. Aby wyliczyć indeks FOG, zastosuj wzór:
 | 16-17  | język trudny, zrozumiały dla studentów studiów magisterskich                  |
 | &lt;18 | język bardzo trudny, zrozumiały dla magistrów i osób z wyższym wykształceniem |
 
-##   Narzędzia
+###   Narzędzia
 
 Na szczęście nie musicie tego wszystkiego obliczać 😊. W sieci istnieje już
 kilka dedykowanych dla języka polskiego narzędzi. Mogą pomóc w poprawieniu
@@ -139,7 +139,7 @@ czytelności i charakteru Waszych tekstów.
 - [LanguageTool](https://languagetool.org/)
 - [Logios](https://logios.dev/)
 
-## Krótko na koniec..
+### Krótko na koniec..
 
 Kiedy w codziennym życiu nie ma czasu na czytanie  e-maili, to tym bardziej nie
 starczy nam czasu na czytanie trudnych urzędowych tekstów.

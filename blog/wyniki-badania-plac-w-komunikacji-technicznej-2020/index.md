@@ -20,7 +20,7 @@ ciekawi Was co zmieniło się w 2020 roku, zapraszamy do poniższego podsumowani
 
 <!--truncate-->
 
-## Porównanie z poprzednimi latami
+### Porównanie z poprzednimi latami
 
 Wyniki poprzednich badań znajdziecie tu:
 
@@ -43,7 +43,7 @@ Czyli na lepsze zmieniają się następujące rzeczy:
 - mamy więcej uczestników ankiety
 - uczestnicy zarabiają więcej, choć mediana wynagrodzeń wzrasta nieco wolniej.
 
-## Profesje
+### Profesje
 
 Podobnie jak w latach poprzednich, większość osób biorących udział w ankiecie
 identyfikuje się jako Technical Writer (78,4%). W porównaniu do poprzedniego
@@ -69,7 +69,7 @@ stanowiska:
 - Training content developer (6 500 zł)
 - Konsultant techcomm (15 000 zł).
 
-## Wynagrodzenie
+### Wynagrodzenie
 
 Zarobki w poszczególnych grupach kształtują się następująco (posortowane wg
 średniego wynagrodzenia brutto):
@@ -93,7 +93,7 @@ Zastanawiający jest rozstrzał wysokości pensji na stanowisku Technical Writer
 (Junior, Senior, Principal), a może osoba z tak wysokim wynagrodzeniem pełni
 także inne funkcje w firmie, czego nie określiła w ankiecie.
 
-## Przygotowanie do zawodu, doświadczenie i rozwój
+### Przygotowanie do zawodu, doświadczenie i rozwój
 
 Tak jak w poprzednich latach, większość ankietowanych nauczyło się zawodu w
 pracy. Ciągle brakuje osób chętnych, by skorzystać z
@@ -134,7 +134,7 @@ Naszym zdaniem warto się uczyć 😉
 | Kurs ITCQF bez certyfikatu | 8 933 zł      | 9 500 zł      |
 | Kurs ITCQF z certyfikatem  | 11 066 zł     | 9 762 zł      |
 
-## Staż pracy w branży
+### Staż pracy w branży
 
 Jeżeli chodzi o staż pracy, to nadal jesteśmy młodym zawodem, choć jak pokazuje
 wykres poniżej, większość respondentów ma od 3 do 5 lat doświadczenia (38,7%).
@@ -153,7 +153,7 @@ upływem lat pracy.
 | 6 - 10 lat (67 - 126 miesięcy) | 10&nbsp;297 zł | 10&nbsp;000 zł |
 | więcej niż 10 lat              | 12&nbsp;909 zł | 12&nbsp;750 zł |
 
-## Firma, branża
+### Firma, branża
 
 86,5% z pośród uczestników ankiety pracuje w firmie zagranicznej, a 13,5% w
 firmie polskiej. Nadal nie ma wśród nas freelancerów.
@@ -191,7 +191,7 @@ Jednocześnie ogromna większość z nas pisze dokumentację do oprogramowania.
 | Do urządzeń elektronicznych / AGD | 16,22%     | 18                |
 | Pozostałe                         | 4,50%      | 5                 |
 
-## Geografia
+### Geografia
 
 W tym roku najwięcej uczestników ankiety pochodzi z województw: małopolskiego,
 dolnośląskiego i śląskiego.
@@ -213,7 +213,7 @@ Osoba deklarująca najwyższe zarobki (20 500 zł) pochodzi z województwa
 małopolskiego. Natomiast najwyższe średnie zarobki (9 825 zł) oraz mediana (9
 250 zł) w tym roku należą do województwa pomorskiego.
 
-## Zadowolenie
+### Zadowolenie
 
 W jednym z pytań pytaliśmy o to, jak bardzo jesteś zadowolony/a ze swojej pracy
 w skali od 1 (bardzo nie lubię swojej pracy) do 5 (kocham swoją pracę). Jaki był
@@ -225,7 +225,7 @@ Odpowiedzi ankietowanych pokazują, że ich poziom zadowolenia z pracy jest nada
 na wysokim poziomie. Najczęściej wybieraną oceną była czwórka. Ponownie tylko
 jedna osoba jest bardzo niezadowolona, a dwie dały ocenę 2.
 
-## Podsumowanie
+### Podsumowanie
 
 Z uwagi na niewielką liczbę respondentów (111 w tym roku) ankieta ma charakter
 poglądowy, a nie statystyczny. Jednak cieszymy się, że z roku na rok Wasz odzew

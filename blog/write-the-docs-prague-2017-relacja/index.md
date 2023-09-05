@@ -17,7 +17,7 @@ poniżej.
 
 <!--truncate-->
 
-# Po pierwsze, Praga!
+## Po pierwsze, Praga!
 
 Każdego roku organizatorka konferencji
 [Mikey Ariel](https://twitter.com/ThatDocsLady) powtarza, że jak długo będzie
@@ -29,7 +29,7 @@ przekonuje, to zwracamy uwagę, że w okresie, gdy odbywa się konferencja, ma t
 miejsce praskie winobranie, co oznacza dużo festiwali, koncertów i budki z
 [burczakiem](https://pl.wikipedia.org/wiki/Bur%C4%8D%C3%A1k) na każdym rogu.
 
-# Po drugie, zabawa!
+## Po drugie, zabawa!
 
 W sobotę tradycyjnie część uczestników popłynęła statkiem wzdłuż Wełtawy. W
 niedzielę odbył się Writing Day, podczas którego uczestnicy pracowali w grupach
@@ -47,7 +47,7 @@ słuchaczy w nastrój kolejnych prezentacji. Nie będziemy próbować powtarzać
 
 [![Write the Docs 2017](images/writethedocs2017-3-1024x768.jpg)](http://techwriter.pl/wp-content/uploads/2017/10/writethedocs2017-3.jpg)
 
-# Po trzecie, networking!
+## Po trzecie, networking!
 
 Write the Docs bardzo mocno stawia na to, żeby uczestnicy poznawali się i
 dyskutowali. Często się o tym przypomina ze sceny podkreślając bardzo fajną
@@ -62,7 +62,7 @@ uczestnicy siadają przy stole i dyskutują na jeden, ustalony temat.
 
 [![Write the Docs 2017](images/writethedocs2017-8.jpg)](http://techwriter.pl/wp-content/uploads/2017/10/writethedocs2017-8.jpg)
 
-# Po czwarte, prezentacje!
+## Po czwarte, prezentacje!
 
 Jak zwykle na takich konferencjach, prezentacje dzieliły się na bardziej
 teoretyczne, oraz te bardziej praktyczne. Mimo, że wszystkie stały na bardzo
@@ -137,7 +137,7 @@ gamy. Jeżeli chcielibyście sprawdzić efekt pracy Thomasa, książkę można n
 
 [![Write the Docs 2017](images/writethedocs2017-5-1024x697.jpg)](http://techwriter.pl/wp-content/uploads/2017/10/writethedocs2017-5.jpg)
 
-# Po piąte, czy wrócimy?
+## Po piąte, czy wrócimy?
 
 Tak, do Pragi wrócimy na pewno. Na sto procent! A tych, którzy nigdy na
 konferencji nie byli, bardzo do tego zachęcamy. Co bardzo ciekawe, duża część

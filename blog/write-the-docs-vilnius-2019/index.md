@@ -22,7 +22,7 @@ Wydarzenie trwało dwa dni w malowniczym Wilnie, na kampusie SMK University of
 Applied Social Sciences i odbyło się w dniach 2-3 czerwca 2019. Było zatem dużo
 czasu, aby rozwijać się profesjonalnie i podróżniczo. Ale po kolei!
 
-## Dzień 1: Writing Day
+### Dzień 1: Writing Day
 
 Dla nieobeznanych z ideą, **Writing Day poświęca się w całości praktycznym
 zadaniom powiązanym z pisaniem**. Organizatorzy nie narzucają jednak formy
@@ -31,7 +31,7 @@ wspólnie nad wybranym projektem, samemu przedstawić problem pisarski i go
 wspólnie przedyskutować lub zwyczajnie usiąść sobie przy wolnym stoliku, nawet
 samemu, i zwyczajnie pisać.
 
-### Można było zaangażować się m.in. w:
+#### Można było zaangażować się m.in. w:
 
 - Udoskonalenie strony [Write the Docs](https://www.writethedocs.org) —
   wprowadzenie poprawek lub dodanie nowej treści
@@ -64,7 +64,7 @@ A przed samym spotkaniem można było sobie pozwolić też na zwiedzanie miasta.
 Pogoda dopisywała, umysł po warsztatach domagał się odpoczynku — idealnie więc,
 aby przejść się ulicami Wilna.
 
-## Dzień 2: Conference Talks
+### Dzień 2: Conference Talks
 
 Następnego dnia czekała nas zgoła inna forma konferencji — prezentacje. Mogliśmy
 posłuchać doświadczonych mówców, którzy przyjechali z całego świata, aby
@@ -72,7 +72,7 @@ opowiedzieć o swoich doświadczeniach i podzielić się wiedzą.
 
 Poniżej krótkie opisy tegorocznych wystąpień i poruszanej tematyki.
 
-### Hadas Khen — OMG, it's "Error 5"!
+#### Hadas Khen — OMG, it's "Error 5"!
 
 https://twitter.com/techwriterpl/status/1135453252319883264
 
@@ -84,7 +84,7 @@ związaną z interfejsem użytkownika, lecz także przedstawiała wiedzę teoret
 która może posłużyć jako podstawa do pisania dobrej warstwy tekstowej dla
 oprogramowania.
 
-#### Tytułem wstępu
+##### Tytułem wstępu
 
 Khen wyróżniła **trzy miejsca, gdzie użytkownik spotyka się z naszym tekstem** w
 zależności od doświadczenia w obcowaniu z naszym produktem:
@@ -114,7 +114,7 @@ dostosuj ton i rejestr, umiejscowienie tekstu w interfejsie użytkownika. I
 wreszcie pamiętaj — oferujesz pierwszą linię wsparcia, dlatego nie rezygnuj z
 tego, żeby być bezpośrednim, miłym i profesjonalnym.
 
-#### Powiadomienia o błędach — co i jak?
+##### Powiadomienia o błędach — co i jak?
 
 Khen przechodząc do właściwej części wystąpienia, definiuje powiadomienia o
 błędach jako komunikaty stojące użytkownikowi na przeszkodzie do osiągnięciu
@@ -146,7 +146,7 @@ naszego produktu — obszar dla niego zupełnie nieznany.
 - Łatwe do zauważenia i odczytania
 - Krótkie, lecz oferujące możliwość uzyskania dodatkowych szczegółów
 
-### Chris Ward — Decentralised Documentation – Defining Standards for an Ecosystem
+#### Chris Ward — Decentralised Documentation – Defining Standards for an Ecosystem
 
 [![](images/WTD_Wilno_2019_WardsChris-1024x792.jpg)](http://techwriter.pl/wp-content/uploads/2019/07/WTD_Wilno_2019_WardsChris.jpg)
 
@@ -175,7 +175,7 @@ rozwoju projektu. Może okazać się, że **mamy realny wpływ na to, jaką form
 ostateczną dany produkt obierze**. Nie bójmy się tego. Zwłaszcza, jeśli uda nam
 się kogoś zatrzymać zanim zdecyduje się na nowo wynaleźć koło.
 
-### Filipe Mendes — The Legend of Documentation: Markdown to The Past
+#### Filipe Mendes — The Legend of Documentation: Markdown to The Past
 
 https://twitter.com/techwriterpl/status/1135481276344000512
 
@@ -191,7 +191,7 @@ technicznej ze strony osoby niezwiązanej ściśle z branżą. Ale przejdźmy do
 sedna! Mendes poświęca swoją prezentację omówieniu problemów, jakie napotkał w
 swojej pracy.
 
-#### Problem: Brak wiedzy na temat produktu
+##### Problem: Brak wiedzy na temat produktu
 
 Po dołączeniu do nowego zespołu, Mendes odkrył, że nie istnieje żadne źródło
 wiedzy bazowej na temat produktu, który miałby tworzyć. Brakowało dokumentacji
@@ -201,7 +201,7 @@ zawartą w opisie zadań, lecz zazwyczaj kończy się to zadawaniem wielu pytań
 innym osobom z zespołu. Zaczynamy być zależni od innych: ich pomocy, czasu i
 zaangażowania, a to ma negatywny wpływ na postęp nasz i naszej pracy.
 
-#### Problem: Brak wiedzy na temat zamkniętych spraw
+##### Problem: Brak wiedzy na temat zamkniętych spraw
 
 Wielokrotnie pewnie zdarzyło się nam rozwiązywać jakiś problem. W momencie,
 kiedy zamykamy zadanie, chcemy o nim zapomnieć. Mendes uważa jednak, że jesteśmy
@@ -212,7 +212,7 @@ przyczynę, źródło, wpływ oraz rozwiązanie błędu. Dzięki temu, jeśli w
 przyszłości pojawi się on na naszej drodze, zawsze łatwiej i szybciej będzie się
 można z nim uporać.
 
-#### Problem: Brak opisu przeprowadzonych zmian
+##### Problem: Brak opisu przeprowadzonych zmian
 
 Kolejnym problematycznym zagadnieniem jest brak opisów we wszelakiego typu
 formatkach służących do przedstawienia wykonywanych zadań (np. zadania w Jirze
@@ -222,7 +222,7 @@ zmian może być konieczność odświeżenia interfejsu użytkownika lub ryzyko
 przerwania kompatybilności z poprzednią wersją oprogramowania w przypadku gdy
 użytkownik zdecyduje się na aktualizację.
 
-#### Wnioski
+##### Wnioski
 
 Ha! Czyli nasze na wierzchu! Bo wnioski nasuwają się wręcz same — prowadźmy
 dokumentację i to nie tylko taką, która jest potrzebna użytkownikom, lecz
@@ -230,7 +230,7 @@ również tę przeznaczoną do użytku wewnętrznego. Oszczędzi nam to trudu w
 tłumaczeniu pewnych zagadnień nowym członkom zespołu, pomoże w kryzysowej
 sytuacji i pozwoli zawładnąć nad stałymi zmianami w projekcie.
 
-### Anna Iosif — How Do We Know Our Documentation Makes Sense?
+#### Anna Iosif — How Do We Know Our Documentation Makes Sense?
 
 https://twitter.com/techwriterpl/status/1135509829991174144
 
@@ -259,7 +259,7 @@ ogólną a nie specjalistyczną.
       jasno opisane.
     - Dokumentację najlepiej testować na samych użytkownikach.
 
-### Elina McCafferty — How to Turn a Freight Ship Around When All You Have Is a Paddle
+#### Elina McCafferty — How to Turn a Freight Ship Around When All You Have Is a Paddle
 
 https://twitter.com/techwriterpl/status/1135536949677187072
 
@@ -280,7 +280,7 @@ McCafferty słusznie też zauważa, że współcześnie uciekamy od długich i
 obszernych dokumentów na rzecz zwięzłych i łatwych do przyswojenia dokumentów.
 Jak zatem zawrócić frachtowiec na mieliźnie czasu?
 
-#### Od czego zacząć?
+##### Od czego zacząć?
 
 Pora zakasać rękawy i wyruszyć na podbój internetów — tutaj mieści się dużo
 informacji o tym, jakie opinie użytkownicy mają o produkcie, który opisujesz i
@@ -295,7 +295,7 @@ techniczną.
 - Poruszają się po stronie z dokumentacją
 - Często zaglądają do sekcji zawartych w dokumentacji
 
-#### Pamiętaj o zasadach
+##### Pamiętaj o zasadach
 
 1. **Zasada ludzkiej natury** Pierwsze wrażenie można zrobić tylko raz. Jeśli
    użytkownik napotyka fundamentalny problem — czy to w obsłudze produktu czy
@@ -304,7 +304,7 @@ techniczną.
    się osiągnąć. Oraz: 80% czytelników polega wyłącznie na 20% dostępnej
    dokumentacji.
 
-#### Zacznij od najważniejszego
+##### Zacznij od najważniejszego
 
 Zidentyfikuj 20 najważniejszych sekcji dokumentacji i upewnij się, że są one
 napisane perfekcyjnie. Zazwyczaj będą to sekcje na temat przygotowania do
@@ -316,7 +316,7 @@ tym, czego oczekiwać po danej części dokumentu.
 Pamiętaj — największą pochwałą dla wysiłków techwritera jest zmniejszająca się
 ilość narzekań ze strony użytkowników.
 
-### Małgorzata Trojanowska — Technically You Can: Creating Technical Content for All Audiences
+#### Małgorzata Trojanowska — Technically You Can: Creating Technical Content for All Audiences
 
 https://twitter.com/techwriterpl/status/1135537670501949440
 
@@ -337,7 +337,7 @@ dokumencie. W każdej możliwej sytuacji zastępujmy słowa pomocą graficzną w
 postaci diagramu, wykresu, czy chociażby tabelki. I nie bójmy się odstępów.
 Puste przestrzenie pomiędzy akapitami są nam przyjacielem.
 
-## Write the Docs Vilnius 2019 — Podsumowanie
+### Write the Docs Vilnius 2019 — Podsumowanie
 
 Uff, jak widzicie — sporo tego. A w międzyczasie pojawiły się też krótkie sesje
 lightning talks podczas których ochotnicy mogli poruszyć dowolnie zaproponowany

@@ -26,14 +26,14 @@ tworzenia dokumentacji?". Odpowiedź nie jest prosta, tym bardziej, że różni 
 ona w zależności od celu jaki nam przyświeca. Pomimo tych przeszkód postaramy
 się do jakiegoś stopnia na nie odpowiedzieć przedstawiając swój punkt widzenia.
 
-## Założenie
+### Założenie
 
 Zacznijmy od stworzenia kontekstu. Przyjmijmy stanowisko, że pracujemy już jako
 Technical Writer i że chcemy nauczyć się jakiegoś narzędzia do tworzenia
 dokumentacji po to, aby zwiększyć swoje szanse na znalezienie pracy jako
 Technical Writer w innej firmie na lepszych warunkach.
 
-## Od czego zacząć?
+### Od czego zacząć?
 
 Jak wiemy narzędzi do tworzenia dokumentacji jest całkiem sporo. Dlatego, żeby
 cały nasz wysiłek nie poszedł na marne, najrozsądniej byłoby zacząć od
@@ -63,7 +63,7 @@ ponownego wykorzystania treści, wtedy nie jest to najlepszy wybór. Publisher i
 PowerPoint mogą być pomocne przy tworzeniu treningów, prezentacji czy krótkich
 przewodników, ale nie są to kompletne narzędzia do tworzenia dokumentacji.
 
-## Wniosek?
+### Wniosek?
 
 Nasuwa się sam. Wygląda na to, że znajomość obsługi narzędzi do tworzenia
 dokumentacji nie jest kluczową umiejętnością Technical Writera, dlatego
@@ -99,7 +99,7 @@ sobie poklikać dla sportu. Ale nie bądźmy już tacy czepialscy, zdobycie wers
 demo raczej nie powinno być problemem. Co najwyżej będzie troszkę okrojona w
 stosunku do licencjonowanej kopii.
 
-## W takim razie lepiej nic nie robić?
+### W takim razie lepiej nic nie robić?
 
 Oczywiście, że nie. Ale może lepiej skupić się na czymś bardziej uniwersalnym
 niż narzędzia typowo przeznaczone do tworzenia dokumentacji? Może lepiej jest
@@ -120,7 +120,7 @@ oznacza, że my nie możemy, skoro to nikogo nic nie kosztuje. Na pewno jest to
 wiedza bardziej uniwersalna, która ma większe szanse na zastosowanie niż
 znajomość konkretnego HATa.
 
-## Ale ja jednak chcę się nauczyć jakiegoś narzędzia do dokumentacji...
+### Ale ja jednak chcę się nauczyć jakiegoś narzędzia do dokumentacji...
 
 Jeśli już koniecznie chcemy poznać takie narzędzie, może lepiej przyjąć trochę
 inną strategię. Zamiast starać się poznać dobrze jeden program, lepszym

@@ -17,7 +17,7 @@ Tym razem test najnowszej wersji.
 
 <!--truncate-->
 
-### Wstęp
+#### Wstęp
 
 Miałem szczęście uzyskać wczesny dostęp do nowego Snagita 2021 i wypróbować jego
 [nowe ulepszenia](https://www.techsmith.com/snagit-features.html). Wyglądają one
@@ -36,7 +36,7 @@ Zgodnie z zasadą Alfreda Hitchcocka, wedle której należy zacząć od trzęsie
 ziemi, a potem napięcie powinno rosnąć, sekcje ze szczegółami zmian też są
 ułożone w takiej kolejności, a ostatnia stanowi kulminację zmian.
 
-### Recent Captures Tray i inne ulepszenia interfejsu
+#### Recent Captures Tray i inne ulepszenia interfejsu
 
 [![](images/upload_025-300x70.png)](http://techwriter.pl/wp-content/uploads/2020/11/upload_025.png)
 
@@ -53,7 +53,7 @@ takie jak rodzaj i format pliku, długość filmu czy gifu.
 
 Po kliknięciu prawym na miniaturę doszła nowa komenda _Close Other Captures._
 
-## [![](images/3-300x275.png)](http://techwriter.pl/wp-content/uploads/2020/11/3.png)
+### [![](images/3-300x275.png)](http://techwriter.pl/wp-content/uploads/2020/11/3.png)
 
 Znajdziesz też małe usprawnienia w innych obszarach. W **Select** suwak do
 przeciągania czułości „Snap to Object” nie jest stale widoczny, a tylko wtedy,
@@ -63,7 +63,7 @@ Dla narzędzia **Pen** doszła opcja „Smooth”, która wygładza ręcznie nar
 kreskę. Jeśli użyjesz opcji „Create as vector” możesz włączać i wyłączać
 wygładzanie dla utworzonej linii.
 
-### Jeszcze lepsza wydajność
+#### Jeszcze lepsza wydajność
 
 Choć nie narzekałem na prędkość mojego Snagita 2020, z którego korzystałem pod
 Windows 10, to według producenta, wersja 2021 jest jeszcze szybsza. Faktycznie,
@@ -80,7 +80,7 @@ Podsumowując, nowy Snagit działa szybciej, tworzone screeny wyglądają lepiej
 **Edytorze**, a oprócz tego, zapisywane animowane gify będą mieć mniejszy
 rozmiar na dysku.
 
-### Magnify 2.0
+#### Magnify 2.0
 
 Podrasowane narzędzia będę określał jako **2.0**, a ich wcześniejszy stan przed
 Snagit 2021 oznaczał będę jako **1.0**.
@@ -107,17 +107,17 @@ fragmentu.
 W **Magnify 2.0** wystarczy kliknąć na krzyżyk na środku lupy, by przeciągnąć
 powiększenie z dala od tego, co pod spodem.
 
-## [![](images/2020-11-05_23-50-09-300x71.png)](http://techwriter.pl/wp-content/uploads/2020/11/2020-11-05_23-50-09.png)
+### [![](images/2020-11-05_23-50-09-300x71.png)](http://techwriter.pl/wp-content/uploads/2020/11/2020-11-05_23-50-09.png)
 
 Wtedy powiększenie nie zasłania oryginalnego fragmentu z jego otoczeniem, a
 czytelnik nie traci kontekstu.
 
-### Themes 2.0
+#### Themes 2.0
 
 Tutaj mamy kolejne kroki w dobrym kierunku. **Themes 1.0** pozwalają na
 definiowanie podstawowych kolorów dla tworzonych obiektów.
 
-## [![](images/7.png)](http://techwriter.pl/wp-content/uploads/2020/11/7.png)
+### [![](images/7.png)](http://techwriter.pl/wp-content/uploads/2020/11/7.png)
 
 Dla każdego unikalnego stylu obiektu można kliknąć „+” i w ten sposób dodaje się
 on do obecnie wybranego theme. Po wyeksportowaniu, możesz podzielić się tym
@@ -135,9 +135,9 @@ mogę stworzyć theme, który będzie bez cieni. Dzięki, TechSmith!
 Doszła też funkcja podglądu: wybierając kolory i czcionki zobaczysz na bieżąco
 jak wyglądają obiekty po wprowadzonej zmianie.
 
-## [![](images/9-300x177.png)](http://techwriter.pl/wp-content/uploads/2020/11/9.png)
+### [![](images/9-300x177.png)](http://techwriter.pl/wp-content/uploads/2020/11/9.png)
 
-### Simplify 2.0
+#### Simplify 2.0
 
 Każdy, kto robi wiele screen shotów przedstawiających interfejsy, powinien się
 przyjrzeć temu narzędziu. Już wcześniej był to potężny kombajn do ułatwiania
@@ -157,7 +157,7 @@ narysowanych ręcznie. Choć „Draw” też pozwala przesuwać, to dzięki „M
 skupisz się na samym przesuwaniu, bez ryzyka, że przypadkiem zaczniesz rysować
 kształty.
 
-### Template 2.0
+#### Template 2.0
 
 Myślę, że tutaj nastąpił największy przełom. Wcześniej mniej korzystałem z
 szablonów, głównie dlatego, że nie tworzę instrukcji „krok po kroku”. Szkoda, że
@@ -174,7 +174,7 @@ Ewentualnie możesz kliknąć umieszczony na górze ekranu **Create => Image fro
 Template**. Wtedy otrzymujesz pusty szablon z napisami do dodania i obrazami do
 przeciągnięcia z **Recent Captures Tray**.
 
-## [![](images/10-292x300.png)](http://techwriter.pl/wp-content/uploads/2020/11/10.png)
+### [![](images/10-292x300.png)](http://techwriter.pl/wp-content/uploads/2020/11/10.png)
 
 Nowością w **2.0** jest to, że po przejściu wszystkich kroków _Combine in
 Template_ możesz dostosowywać i rozwijać sekwencję obrazów bezpośrednio w
@@ -229,7 +229,7 @@ kroki miejscami.
 W dowolnym momencie możesz udostępnić taki obraz osobie, z którą pracujesz, co
 daje pogląd na to, czym obecnie się zajmujesz i jakie masz priorytety.
 
-### Koniec
+#### Koniec
 
 To już jest koniec mojego podsumowania. Wybór tego, co najważniejsze w Snagit
 2021 jest oczywiście subiektywny. Wciąż uważam, że zmiany w **Template 2.0**

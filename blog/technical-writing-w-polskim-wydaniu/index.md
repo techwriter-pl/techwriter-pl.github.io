@@ -31,7 +31,7 @@ Poniżej przedstawiamy trochę informacji na ich temat.
 
 <!--truncate-->
 
-### Technical writing in English : Language and editing guidelines.
+#### Technical writing in English : Language and editing guidelines.
 
 **Streszczenie:** Skrypt ten przeznaczony jest głównie dla studentów i
 absolwentów wszystkich kierunków technicznych, którzy w różnym stopniu opanowali
@@ -41,7 +41,7 @@ tekstów technicznych w języku angielskim zgodnych z obowiązującymi obecnie w
 krajach anglojęzycznych wymaganiami. **Rok publikacji:** 2006 **Liczba stron/ Nr
 stron \[od-do\]:** 146 **Wydawca:** Wydaw. Poltech. Gdań.
 
-### Teaching technical writing in english in a traditional classroom setting and in online courses
+#### Teaching technical writing in english in a traditional classroom setting and in online courses
 
 **Streszczenie:** Niezwykle istotnym zadaniem nauczyciela języka angielskiego
 prowadzącego lektoraty na uczelniach technicznych jest nauczenie studentów
@@ -63,7 +63,7 @@ Konferencja Edukacyjna, Ustroń, 20-22.04.2007 **Liczba stron/Nr stron
 20-22.04.2007 **Wydawca:** Politech. Śl. **Instytucja sprawcza:** Politechnika
 Śląska, Studium Praktycznej Nauki Języków Obcych ; Goethe Institut Krakau.
 
-### Support Mechanisms in Teaching Technical Writing in the Online Environment
+#### Support Mechanisms in Teaching Technical Writing in the Online Environment
 
 **Streszczenie:** Prowadzone online kursy angielskiego języka specjalistycznego,
 np. kurs pisania w języku technicznym, realizują potrzeby studentów o

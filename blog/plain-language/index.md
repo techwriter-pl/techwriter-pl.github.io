@@ -28,7 +28,7 @@ powstał [plain language](http://www.plainlanguage.gov/whatisPL/index.cfm "Plai
 wskazówek, które mogą być pomocne w tworzeniu dokumentacji zrozumiałej i
 przyjemnej w odbiorze przez każdego czytającego.
 
-### **Najpierw pomyśl o odbiorcy**
+#### **Najpierw pomyśl o odbiorcy**
 
 Poznaj czytelnika a treść będzie uszyta, a raczej napisana na jego miarę. Tylko
 znając potrzeby odbiorcy dokumentacji stworzymy produkt użyteczny i zrozumiały.
@@ -40,7 +40,7 @@ komputera zadajmy sobie poniższe pytania:
 - Czy zrozumienie treści przełoży się na odpowiednie działanie (na przykład w
   instrukcji)?
 
-### **Pisz tak, by treść łatwo było przyswoić**
+#### **Pisz tak, by treść łatwo było przyswoić**
 
 > **_Any word you have to hunt for in a thesaurus is the wrong word. There are
 > no exceptions to this rule.\*_**
@@ -118,7 +118,7 @@ może nam przyjść plain language:
   które odpowiadamy w sekcji, stwierdzenie, które uzasadniamy lub temat, który
   poruszamy.
 
-### **Spróbuj przetłumaczyć na inny język**
+#### **Spróbuj przetłumaczyć na inny język**
 
 Najczęściej dokumentację piszemy w języku angielskim, dość często wśród naszych
 obowiązków znajdzie się tłumaczenie na ten język. Dlaczego akurat
@@ -137,7 +137,7 @@ tekstów na jeden z naszych ulubionych tematów - Less is more -
 ([klik](http://techwriter.pl/prostota-glupcze/ "klik"),
 [klik](http://techwriter.pl/less-is-more-strikes-again/ "Less is more 2"))
 
-### **Rozmawiaj ze swoim odbiorcą**
+#### **Rozmawiaj ze swoim odbiorcą**
 
 Jeśli to tylko możliwe spotkaj się z odbiorcą tekstu. Rozmowa twarzą w twarz
 sprawia, że obie strony są bardziej skoncentrowane na omawianym zagadnieniu, co
@@ -148,7 +148,7 @@ naciśnij). Zachęcamy do przypomnienia sobie dobrych praktyk przy pisaniu tego
 typu dokumentu - zajrzyjcie
 [tutaj](http://techwriter.pl/jak-pisac-dobre-instrukcje/ "Instrukcje").
 
-### **Zachowaj porządek**
+#### **Zachowaj porządek**
 
 Projektując plan dokumentu postaw się w pozycji odbiorcy i ułóż opisywane sekcje
 w logicznej dla niego kolejności. Na początku przekaż to co jest najważniejsze z
@@ -156,7 +156,7 @@ punktu widzenia czytelnika i stopniuj dalsze informacje w kolejności ich
 użyteczności. Pamiętaj, że wiele osób skanuje tekst, szukając w nim tylko
 potrzebnych informacji.
 
-### **Podsumowanie**
+#### **Podsumowanie**
 
 Mamy pełną świadomość, że powyższy tekst zaledwie nakreśla zagadnienie prostego
 języka. Zachęcamy do zapoznania się z dokumentem zaproponowanym przez wspomnianą

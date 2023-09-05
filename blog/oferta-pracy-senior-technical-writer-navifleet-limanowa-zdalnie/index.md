@@ -23,13 +23,13 @@ ilości spalanego paliwa ma również pozytywny wpływ na środowisko!
 
 ---
 
-## **Senior Technical Writer**
+### **Senior Technical Writer**
 
-## **Starszy Specjalista ds. Dokumentacji Technicznej** 
+### **Starszy Specjalista ds. Dokumentacji Technicznej** 
 
-## **Limanowa / zdalnie**
+### **Limanowa / zdalnie**
 
-#### Kim jesteśmy?
+##### Kim jesteśmy?
 
 System **NAVIFLEET** na co dzień pomaga zarządzać flotą pojazdów i maszyn.
 Lokalizujemy pojazdy ciężarowe, osobowe i specjalistyczne.  Nasze
@@ -38,7 +38,7 @@ parametry i pomaga lepiej zaplanować ich wykorzystanie. Jesteśmy częścią Gr
 Intellect, pracujemy w zwinnym środowisku, a naszą misją jest dostarczać
 Klientom konkretne oszczędności.
 
-#### Kogo poszukujemy?
+##### Kogo poszukujemy?
 
 Jako Senior Technical Writer będziesz tworzyć merytoryczne, zrozumiałe i
 interesujące treści, które pomogą naszym Klientom zrozumieć jak działa nasz
@@ -69,7 +69,7 @@ Dodatkowym atutem będą:
 - Lekkie pióro, umiejętności pisania i redagowania tekstów marketingowych,
 - Samodzielność i bardzo dobra organizacja pracy.
 
-#### Na czym polega ta praca?
+##### Na czym polega ta praca?
 
 Do Twoich zadań należeć będą m.in.:
 
@@ -87,7 +87,7 @@ Do Twoich zadań należeć będą m.in.:
 - Współpraca z zespołami IT, obsługi klienta, marketingu, sprzedaży,
   projektantami, redaktorami, grafikami i filmowcami.
 
-#### Co oferujemy?
+##### Co oferujemy?
 
 - Wynagrodzenie w przedziale od 8 000 zł do 11 000 zł brutto, z możliwością
   podpisania kontraktu B2B na porównywalnych warunkach,

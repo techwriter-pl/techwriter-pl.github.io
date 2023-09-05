@@ -31,7 +31,7 @@ odzyskać grunt pod nogami, i nawet jeśli nie zredefiniują wszystkich naszych
 poglądów i przyzwyczajeń, to pozwolą odzyskać poczucie, że rozumiemy, co się
 wokół nas dzieje. Do takich pozycji należy _Every Page is Page One_.
 
-## Żerowanie w Internecie
+### Żerowanie w Internecie
 
 Wychodząc od tzw. _information foraging theory_, czyli teorii opisującej, jak
 "żerujemy" w poszukiwaniu informacji, Mark Baker za pomocą kilku zgrabnych
@@ -49,7 +49,7 @@ i oglądającego się za siebie w poszukiwaniu złotego wieku technical writingu
 Wręcz odwrotnie. W efektywny sposób wykazuje, że rzeczywistość wygląda tak, a
 nie inaczej, a my, zamiast narzekać, powinniśmy się do niej dostosować.
 
-## Dlaczego wciąż piszemy książki?
+### Dlaczego wciąż piszemy książki?
 
 To właśnie takimi pytaniami Baker krytykuje konserwatywne podejście do tworzenia
 dokumentacji. Jego słowa bywają cięte, dosadne, miejscami ostre, ale mają mocną
@@ -78,7 +78,7 @@ przecież wcale nie są:
 _Foraging the entire Web is now less effort than foraging for, and then in, a
 single book._
 
-## Pudełko z samochodzikami
+### Pudełko z samochodzikami
 
 Książka składa się z trzech części. Pierwsza z nich opisuje, jak Internet
 zmienił sposób przyswajania treści. Nie tylko treści w Internecie, ale treści w
@@ -103,7 +103,7 @@ na zmianę. Najważniejszy jest jednak „single-source authoring”, czyli twor
 treści w taki sposób i takimi narzędziami, aby napisane raz, nadawały się do
 każdego medium, czy będzie to wiki, PDF czy druk.
 
-## Każda strona jest pierwsza
+### Każda strona jest pierwsza
 
 _Every Page is Page One_ to nie tylko tytuł książki i
 [bloga](http://everypageispageone.com), ale przede wszystkim trafna definicja

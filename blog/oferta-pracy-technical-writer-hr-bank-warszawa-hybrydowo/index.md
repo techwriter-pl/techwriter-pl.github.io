@@ -24,7 +24,7 @@ rekrutacja\[at\]hrbank.com.pl
 
 ---
 
-# **Technical Writer**
+## **Technical Writer**
 
 Miejsce pracy: **Warszawa**
 

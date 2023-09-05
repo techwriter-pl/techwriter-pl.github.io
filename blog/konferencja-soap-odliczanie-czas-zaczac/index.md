@@ -15,13 +15,13 @@ garść najważniejszych informacji.
 
 <!--truncate-->
 
-## Termin i miejsce
+### Termin i miejsce
 
 Konferencja odbędzie się w dniach **23-25
 maja** w [Muzeum Sztuki i Techniki Japońskiej Manggha](http://manggha.pl/)
 zlokalizowanym przy ul. Marii Konopnickiej 26 w Krakowie.
 
-## Rejestracja i ceny
+### Rejestracja i ceny
 
 Do wyboru pozostały jeszcze bilety w cenach:
 
@@ -33,7 +33,7 @@ Do wyboru pozostały jeszcze bilety w cenach:
 
 Rejestracja i dodatkowe informacje [tutaj](http://soapconf.com/#ticket).
 
-## Warsztaty Edu Summit
+### Warsztaty Edu Summit
 
 Jak co roku, organizatorzy przygotowali dla uczestników więcej niż tylko dwa dni
 wypełnione po brzegi prelekcjami (program dostępny

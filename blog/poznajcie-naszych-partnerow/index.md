@@ -23,7 +23,7 @@ porządku chronologicznym. Poniższe zestawienie to tylko ogólny zarys tego co 
 czeka. Szczegółowe informacje na temat każdego z tych wydarzeń będziemy
 publikować w niedalekiej przyszłości.
 
-# Landing Festival
+## Landing Festival
 
 [![](images/cables_banners_v3-2.jpg)](http://techwriter.pl/wp-content/uploads/2018/01/cables_banners_v3-2.jpg)
 
@@ -39,7 +39,7 @@ szukacie. Więcej szczegółów znajdziecie w naszym
 [poście zapraszającym](http://techwriter.pl/zapraszamy-na-landing-festival-2018/)
 na to wydarzenie.
 
-# soap!
+## soap!
 
 [![](images/P1011347soap-urodziny-jasia-1.jpg)](http://techwriter.pl/wp-content/uploads/2018/02/P1011347soap-urodziny-jasia-1.jpg)
 
@@ -57,7 +57,7 @@ Writerów spotkacie tutaj też m.in. UX Designerów, Product Managerów i Scrum
 Masterów. Naszą relację z zeszłorocznej edycji znajdziecie
 [tutaj](http://techwriter.pl/soap-2017-juz-za-nami-relacja/).
 
-# MadWorld San Diego
+## MadWorld San Diego
 
 [![](images/MW2018-HotelImage-1024x512.jpg)](http://techwriter.pl/wp-content/uploads/2018/02/MW2018-HotelImage-1024x512.jpg)
 
@@ -74,7 +74,7 @@ Umiejscowienie wydarzenia w słonecznej Kalifornii zdecydowanie jeszcze bardziej
 zachęca do wzięcia w nim udziału. Naszą relację z zeszłorocznej edycji
 znajdziecie [tutaj](http://techwriter.pl/madworld-2017-relacja/).
 
-# Write the Docs Prague
+## Write the Docs Prague
 
 [![](images/wtd_docs.png)](http://techwriter.pl/wp-content/uploads/2018/02/wtd_docs.png)
 
@@ -91,7 +91,7 @@ Writerom daje to świetną okazję, żeby spojrzeć na dokumentację z innej
 perspektywy. Naszą relację z zeszłorocznej edycji znajdziecie
 [tutaj](http://techwriter.pl/write-the-docs-prague-2017-relacja/).
 
-# MadWorld Prague
+## MadWorld Prague
 
 [![](images/MWEU2018-Image1-1024x512.jpg)](http://techwriter.pl/wp-content/uploads/2018/02/MWEU2018-Image1-1024x512.jpg)
 
@@ -105,7 +105,7 @@ pierwszą europejską edycją konferencji MadWorld. Jest to na pewno świetna
 informacja dla wszystkich użytkowników MadCap Flare w Polsce, którzy nie są w
 stanie wybrać się do San Diego.
 
-# Zapraszamy!
+## Zapraszamy!
 
 W imieniu organizatorów serdecznie zapraszamy na opisane powyżej konferencje.
 Każde z tych wydarzeń skupia wokół siebie trochę inną grupę specjalistów, więc

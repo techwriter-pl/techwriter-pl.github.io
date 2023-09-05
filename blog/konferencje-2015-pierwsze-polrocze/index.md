@@ -19,14 +19,14 @@ się wyłuskać z nieprzebranych zasobów internetu.
 
 <!--truncate-->
 
-## Styczeń
+### Styczeń
 
 19 stycznia, Londyn, Anglia -
 [Agile Content Conf](https://agilecontentconf.com/)
 
 24 stycznia, Santa Clara, Kalifornia, USA - [TCCamp](http://www.tccamp.org/)
 
-## Luty
+### Luty
 
 18-21 lutego, Las Vegas, Nevada, USA
 - [eLearning](http://www.itcnetwork.org/elearning-conference.html)
@@ -34,7 +34,7 @@ się wyłuskać z nieprzebranych zasobów internetu.
 26 lutego, Jerozolima, Izrael -
 [MEGAComm Communicators Conference](http://www.megacomm.org/)
 
-## Marzec
+### Marzec
 
 12-13 marca, Bangalore, Indie
 - [tcworld India](http://conferences.tekom.de/tcworld-india-2015/)
@@ -62,7 +62,7 @@ się wyłuskać z nieprzebranych zasobów internetu.
 29-31 marca, Rochester, Nowy Jork, USA -
 [Spectrum 2015](http://spectrum.stc-rochester.org/about/)
 
-## Kwiecień
+### Kwiecień
 
 2 kwietnia, Nowy Jork, Nowy Jork, USA -
 [WebVisions](http://www.webvisionsevent.com/new-york/)
@@ -84,7 +84,7 @@ się wyłuskać z nieprzebranych zasobów internetu.
 
 23-24 kwietnia, Bukareszt, Rumunia - [eLSE](http://elseconference.eu/)
 
-## Maj
+### Maj
 
 12-15 maja, Portland, Oregon, USA -
 [WebVisions](http://www.webvisionsevent.com/portland/)
@@ -95,7 +95,7 @@ się wyłuskać z nieprzebranych zasobów internetu.
 20-22 maja, Minneapolis, Minnesota -
 [Confab Central](http://confabevents.com/events/central/)
 
-## Czerwiec
+### Czerwiec
 
 3-4 czerwca, Utrecht, Holandia -
 [Information Energy](http://informationenergy.org/2015/?lang=en)

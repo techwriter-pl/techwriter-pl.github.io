@@ -32,9 +32,9 @@ https://youtu.be/RcTkSdsNF5k
 
 ---
 
-# Technical Writer
+## Technical Writer
 
-### **About the Team** 
+#### **About the Team** 
 
 Akamai’s User Experience team designs our customers’ end-to-end experience.The
 experience occurs through APIs and our customer portal, “The Control Center,”
@@ -42,7 +42,7 @@ and is in service of our customers, channel partners, and internal staff. As the
 collective voice of the user, the Team strives to create connected and intuitive
 experiences that accelerate both end users and developers to achieve success.
 
-### **About the Role** 
+#### **About the Role** 
 
 We’re looking for a Technical Writer with a passion for user-driven
 documentation. In this role, you will join a global group of writers engaged in
@@ -56,7 +56,7 @@ Our Technical Writers work tightly with product managers and developers; they
 have the rare opportunity to impact product requirements and design early in the
 process. They also take ownership of their projects and deliverables.
 
-### **Responsibilities**
+#### **Responsibilities**
 
 •Work closely with product managers and engineers to plan user-assistance
 projects, anticipate documentation needs, solve problems, and communicate
@@ -72,7 +72,7 @@ produce customer-facing documentation for both GUI and API environments
 •Learn and master new documentation tools, methods, and delivery mechanisms as
 the work requires.
 
-### **Basic Qualifications**
+#### **Basic Qualifications**
 
 •Bachelor’s degree or higher in English, journalism, instructional design,
 computer science, or any field of study requiring English writing and critical
@@ -99,7 +99,7 @@ is easy to understand
 
 •Experience in working on customer-facing documentation
 
-### **Desired Qualifications** 
+#### **Desired Qualifications** 
 
 •Experience in using XML and DITA to produce topic-based, reusable content
 

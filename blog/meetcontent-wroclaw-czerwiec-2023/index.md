@@ -24,7 +24,7 @@ ogłasza sezon ogórkowy. Wracamy we wrześniu z nowymi tematami 🙂 Ale zanim
 wszyscy ruszymy na zasłużone wakacje - zapraszamy Was na luźne rozmowy przy
 drinku z parasolką - czyli co nas czeka w czerwcu?
 
-## **Czerwiec - Meet the content**
+### **Czerwiec - Meet the content**
 
 Jak wiadomo, Wrocław słynie z plaż 😉 Dlatego też czerwcowy MeetContent odbędzie
 się  w Beach Barze **Prosto z mostu** przy **Mostach Warszawskich** 🌴⛱️
@@ -41,7 +41,7 @@ Jeśli chcesz do nas dołączyć, wypełnij
 [formularz zgłoszeniowy](https://forms.gle/MFsyUiERzhdr8W9q9). Pozwoli nam to
 zaplanować rezerwację i lepiej się przygotować.
 
-### **Kiedy i gdzie**
+#### **Kiedy i gdzie**
 
 **21 czerwca 2023**, godzina **18:00**
 
@@ -50,7 +50,7 @@ Wrocław.
 
 ![](images/BeachBar_grafika.png)
 
-## **Maj - Ten Square Games**
+### **Maj - Ten Square Games**
 
 W maju gościliśmy w firmie **Ten Square Games**, gdzie
 [Zuzanna Widz](https://www.linkedin.com/in/zuzanna-widz-846459230/),
@@ -66,7 +66,7 @@ naszpikowanej przykładami, które zostaną nam w pamięci na długo.
 
 ![](images/TSG_3.jpg)
 
-### Podstawy lokalizacji
+#### Podstawy lokalizacji
 
 Na pierwszy ogień poszło wyjaśnienie różnicy pomiędzy lokalizacją a translacją.
 Usłyszeliśmy też o _globalizacji_ i _internacjonalizacji_.
@@ -82,7 +82,7 @@ Jeśli dorzucimy jeszcze wymóg dostosowania do SEO, robi się całkiem gorąco!
 
 ![](images/TSG_1.jpg)
 
-### **Wyzwania**
+#### **Wyzwania**
 
 Zuza i Bartek podzielili się zestawem wyzwań, z którymi przychodzi im mierzyć
 się w ich codziennej pracy. I tak, pośród tak zwanych ‘klasyków’, czyli zleceń
@@ -112,7 +112,7 @@ Prezentacja naszpikowana przykładami pozostawiła wszystkich obecnych pod
 wrażeniem wysiłku, jakiego dokonują codziennie spece od lokalizacji aby produkt
 naturalnie ‘wpasował’ się w dany rynek.
 
-### **Źródła**
+#### **Źródła**
 
 Zuza i Bartek postanowili podzielić się swoją prezentacją, którą znajdziecie
 [TUTAJ](https://docs.google.com/presentation/d/1Y4c0WiAJAaHMuNciryywk9Ot_In_GYAqqhOuLtNL3NQ/edit#slide=id.g127d8422da9_0_3881)

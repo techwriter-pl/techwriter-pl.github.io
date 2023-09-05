@@ -27,7 +27,7 @@ Jak zawsze, będę śledzić zmiany i uzupełniać dane w miarę ich pojawiania 
 Was mam prośbę – jeśli wiecie o jakimś wydarzeniu związanym z branżą komunikacji
 technicznej, o którym nie wspomniałam, dajcie znać, a ja przekażę info dalej 😉
 
-### Czerwiec
+#### Czerwiec
 
 **01-03 czerwca, Kraków, Polska** – [soap! 2022](http://soapconf.com/)
 – **online & in-person**
@@ -67,7 +67,7 @@ technicznej, o którym nie wspomniałam, dajcie znać, a ja przekażę info dale
 21-23 czerwca, Raleigh, Karolina Północna, USA
 – [The Training Industry Conference & Expo (TICE)](https://tice.trainingindustry.com/event/fc4ecba7-05dc-424d-a748-661076d67f3e/summary)
 
-### Lipiec
+#### Lipiec
 
 11-13 lipca, Berlin, Niemcy –
 [LocWorldWide47](https://locworld.com/call-for-papers-locworld47-berlin/)
@@ -82,7 +82,7 @@ technicznej, o którym nie wspomniałam, dajcie znać, a ja przekażę info dale
 19-21 lipca, Lizbona, Portugalia -
 [16th International Conference on e-Learning](https://www.elearning-conf.org/)
 
-### Sierpień
+#### Sierpień
 
 01-05 sierpnia –
 [Balisage: The Markup Conference 2022](http://www.balisage.net/)
@@ -93,7 +93,7 @@ technicznej, o którym nie wspomniałam, dajcie znać, a ja przekażę info dale
 13-26 sierpnia -
 [UX Conference August](https://www.nngroup.com/training/august/)
 
-### Wrzesień
+#### Wrzesień
 
 **05-06 września, Łódź, Polska** - [reQuest 2022](https://2022.request.pl/)
 
@@ -123,7 +123,7 @@ w dniach 21-22 września**
 – [KTLC 2022](https://www.konferencjatlumaczy.pl/) – **online & in-person** –
 Konferencja Tłumaczy + Translation & Localization Conference
 
-### Październik
+#### Październik
 
 05-07 października, Naperville, Illinois, USA -
 [SLATE 2022](https://www.slategroup.org/conference)
@@ -149,7 +149,7 @@ Konferencja Tłumaczy + Translation & Localization Conference
 
 24-26 października, Valetta, Malta - [KMIS 2022](https://kmis.scitevents.org/)
 
-### Listopad
+#### Listopad
 
 01-03 listopada, San Jose, Kalifornia, USA -
 [LocWorld48 Silicon Valley](https://locworld.com/call-for-papers-locworld48-silicon-valley/)
@@ -161,7 +161,7 @@ Konferencja Tłumaczy + Translation & Localization Conference
 08-10 listopada, Stuttgart, Niemcy -
 [TCWorld Conference 2022](https://tcworldconference.tekom.de/)
 
-### Grudzień
+#### Grudzień
 
 12-14 grudnia, San Francisco, Kalifornia, USA -
 [An Event Apart San Francisco 2022](https://aneventapart.com/event/san-francisco-2022)

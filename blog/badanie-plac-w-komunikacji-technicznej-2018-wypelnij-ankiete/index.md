@@ -27,7 +27,7 @@ w stanie pokazać pewne trendy.
 Chcemy prosić Was o anonimowe podanie danych o Waszych zarobkach. Zebranymi
 informacjami oczywiście się podzielimy.
 
-### Dlaczego warto wypełnić tę ankietę?
+#### Dlaczego warto wypełnić tę ankietę?
 
 1. Bo pomoże ona Wam przy następnej zmianie pracy - dowiecie się jakich widełek
    zarobkowych można się spodziewać.
@@ -46,10 +46,10 @@ To tylko kilka prostych pytań, nie zajmie Ci to więcej niż 2 minuty, a jeśli
 odpowiedzi będzie wystarczająco dużo - każdy z nas może mieć z tego wymierną
 korzyść.
 
-### Jak długo ankieta będzie aktywna?
+#### Jak długo ankieta będzie aktywna?
 
 Na odpowiedzi czekamy do końca marca 2018 roku.
 
-### Gdzie będzie można sprawdzić wyniki ankiety?
+#### Gdzie będzie można sprawdzić wyniki ankiety?
 
 Po zakończonej ankiecie wyniki będą opublikowane na techwriter.pl.

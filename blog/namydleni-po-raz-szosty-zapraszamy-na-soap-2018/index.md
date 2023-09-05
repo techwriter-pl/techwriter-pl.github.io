@@ -19,7 +19,7 @@ informacje dotyczące wydarzenia.
 
 <!--truncate-->
 
-### Najważniejsze informacje
+#### Najważniejsze informacje
 
 Szósta edycja konferencji odbędzie się w dniach 23-25 maja w
 [Muzeum Sztuki i Techniki Japońskiej Manggha](http://manggha.pl/) zlokalizowanym
@@ -37,7 +37,7 @@ wszystko co potrzeba i jest na tyle pomysłowy, by zaciekawić potencjalnego
 odbiorcę?Jesteśmy ciekawi jak z tym wyzwaniem zmierzą się prelegenci, których
 poznamy już niebawem.
 
-### Rejestracja i cena
+#### Rejestracja i cena
 
 Rejestracja już trwa. Obecnie mamy do wyboru trzy typy biletów. Podane niżej
 ceny obowiązują do 28 lutego. 1 marca ceny biletów ulegną zmianie. Szczegóły
@@ -57,7 +57,7 @@ Techniki Japońskiej Manggha.
 
 Cena nie zawiera noclegu.
 
-### Warsztaty Edu Summit
+#### Warsztaty Edu Summit
 
 Tradycyjnie już w dniu poprzedzającym konferencję (23 maja) odbywać się będą
 całodniowe warsztaty. Dzięki nim poznacie nie tylko teorię, ale także praktykę
@@ -68,7 +68,7 @@ wynosi 10 Euro, przy czym spotkania realizowane przez sponsorów są darmowe.
 Szczegółowe informacje na temat kosztów, rejestracji oraz samych warsztatów
 pojawią się wkrótce na [stronie konferencji](http://soapconf.com/).
 
-### Więcej informacji
+#### Więcej informacji
 
 Wszelkie informacje na temat konferencji można śledzić na
 [Facebooku](https://www.facebook.com/soapconf/)

@@ -16,7 +16,7 @@ jednak zdecydowanie mogą Wam ułatwić codzienne zadania.
 
 <!--truncate-->
 
-# Coś do notowania
+## Coś do notowania
 
 Jeśli chodzi o zapisywanie wszelkiego rodzaju ważnych informacji, to zapewne
 jednym z pierwszych skojarzeń są karteczki samoprzylepne, bardziej znane jako
@@ -47,7 +47,7 @@ Aplikacja oparta jest na bazie danych [SQLite](https://www.sqlite.org/), dzięki
 czemu mamy możliwość tworzenia i przywracania lokalnej kopii zapasowej. Program
 można zainstalować tylko na Windowsie.
 
-# Coś do śledzenia czasu
+## Coś do śledzenia czasu
 
 [Vertabase Timer](http://timer.vertabase.com/) to prosty w użyciu, ale najeżony
 funkcjami miernik czasu. Program może być przydatny dla osób, które muszą
@@ -74,7 +74,7 @@ kosztów.
 
 [![cost_chart_vertabase_timer](images/cost_chart_vertabase_timer.png)](http://techwriter.pl/wp-content/uploads/2015/06/cost_chart_vertabase_timer.png)
 
-# Coś dla zdrowia
+## Coś dla zdrowia
 
 W poprzednim tygodniu opublikowaliśmy
 [garść wskazówek](http://techwriter.pl/technical-writer-w-dobrej-formie/), które
@@ -95,7 +95,7 @@ aplikacji na godzinę albo do wschodu słońca, kiedy musimy popracować nad jak
 grafiką i nie chcemy, żeby kolory ekranu zmieniały się. Program można
 zainstalować na systemach Windows, Mac OS, Linux oraz iOS.
 
-# Podsumowanie
+## Podsumowanie
 
 Największymi zaletami przedstawionych aplikacji jest zdecydowanie szerokie
 spektrum funkcji jakie oferują przy jednoczesnej prostocie użytkowania. Jedynym

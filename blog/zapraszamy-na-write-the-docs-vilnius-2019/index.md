@@ -27,14 +27,14 @@ Litwie, jej zakres nie jest aż tak szeroki, jak innych, dobrze nam znanych
 wydarzeń. Mimo wszystko warto zwrócić na nią uwagę, zwłaszcza, że do Wilna nie
 mamy przecież daleko 😉.
 
-## Kiedy i gdzie?
+### Kiedy i gdzie?
 
 Konferencja odbędzie się w dniach **2-3 czerwca** w stolicy Litwy, Wilnie.
 Miejscem wydarzenia będzie
 [Uniwersytet Nauk Stosowanych SMK](https://www.smk.lt/en/) gdzie odbędą się
 wszystkie prelekcje oraz inne atrakcje, które wchodzą w skład konferencji.
 
-## Co nas czeka?
+### Co nas czeka?
 
 Organizatorzy zaplanowali dwudniową konferencję, której centrum zainteresowania
 stanowi dokumentacja tworzona na potrzeby przemysłu tworzącego oprogramowanie.
@@ -57,7 +57,7 @@ do obserwowania
 naszego portalu. Jak zawsze będziemy trzymać rękę na pulsie i niedługo
 przekażemy Wam dalsze informacje.
 
-## Ceny i rodzaje biletów
+### Ceny i rodzaje biletów
 
 Bilety są już dostępne. Chętnych odsyłamy
 [do strony](https://www.writethedocs.org/conf/vilnius/2019/tickets/), na której

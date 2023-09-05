@@ -22,16 +22,16 @@ Jest ona skierowana przede wszystkim do użytkowników narzędzia MadCap Flare.
 Jeśli jesteście ciekawi jak wyglądała zeszłoroczna edycja w San Diego zapraszamy
 na [naszą relację](http://techwriter.pl/madworld-2017-relacja/).
 
-## Najważniejsze informacje
+### Najważniejsze informacje
 
-### Czas i miejsce
+#### Czas i miejsce
 
 Konferencja odbędzie się w dniach 11-14 września 2018 w Pradze. Na miejsce
 inauguracji europejskiej edycji MadWorld organizatorzy
 wybrali [Carlo IV, The Dedica Anthology, Autograph Collection](https://www.marriott.com/hotels/travel/prgak-carlo-iv-the-dedica-anthology-autograph-collection/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2),
 luksusowy hotel położony w centrum miasta.
 
-### Program w skrócie
+#### Program w skrócie
 
 - Pierwszy dzień - 11 września (14:00 - 18:30) - rejestracja, wsparcie
   techniczne,
@@ -51,7 +51,7 @@ Szczegółowy program konferencji zawierający opis prelekcji oraz warsztatów
 znajdziecie
 [tutaj](https://www.madcapsoftware.com/conference/madworld-europe-2018/schedule/#content).
 
-### Ceny
+#### Ceny
 
 | Kategoria   | 01.06 - 31.07. 2018 | 01.08 - 11.09.2018 |
 | ----------- | ------------------- | ------------------ |

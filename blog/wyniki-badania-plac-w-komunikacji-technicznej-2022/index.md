@@ -17,7 +17,7 @@ komunikacji technicznej. Szczegóły poniżej.
 
 <!--truncate-->
 
-### O co pytaliśmy?
+#### O co pytaliśmy?
 
 W tym roku poszerzyliśmy listę pytań o dwa kolejne, które dotyczyły rodzaju
 umowy oraz korzystania (bądź nie) z autorskich kosztów uzyskania przychodu. Jako
@@ -26,7 +26,7 @@ komunikacji technicznej, jak różnią się pensje w różnych województwach, c
 na wynagrodzenie wpływa doświadczenie. Jeśli ciekawi Was co zmieniło się od 2021
 roku, zapraszamy do poniższego podsumowania.
 
-### Porównanie z poprzednimi latami
+#### Porównanie z poprzednimi latami
 
 Wyniki poprzednich badań znajdziecie tu:
 
@@ -56,7 +56,7 @@ Pierwsze wnioski jakie możemy wyciągnąć z powyższych danych to:
   sugestie w komentarzach 😉.
 - zarobki nadal mają tendencję wzrostową, co nas bardzo cieszy.
 
-## **Profesje**
+### **Profesje**
 
 Podobnie jak w latach poprzednich, większość osób biorących udział w ankiecie
 identyfikuje się jako Technical Writer (79,1%). W porównaniu do poprzedniego
@@ -86,7 +86,7 @@ stanowiska:
 - Technical Writer z elementami sysadmina (dla celów docs) oraz programowania
   (również dla celów docs) (20 200 zł).
 
-## **Wynagrodzenie**
+### **Wynagrodzenie**
 
 Zarobki w poszczególnych grupach kształtują się następująco (posortowane wg
 średniego wynagrodzenia brutto):
@@ -116,7 +116,7 @@ Być może osoba z tak wysokim wynagrodzeniem pełni także inne funkcje w firmi
 czego nie określiła w ankiecie. Po średniej i medianie widać, że skrajne
 wartości płac występują rzadko.
 
-## Przygotowanie do zawodu, doświadczenie i rozwój
+### Przygotowanie do zawodu, doświadczenie i rozwój
 
 Tak jak w poprzednich latach, większość ankietowanych nauczyło się zawodu w
 pracy – to blisko 81% uczestników badania. Na drugim miejscu – blisko 20% – to
@@ -166,7 +166,7 @@ wykształcenia technicznego. Szczegóły na poniższym wykresie:
 
 ![](images/oryginalne-wykształcenie_2022.png)
 
-## Staż pracy w branży
+### Staż pracy w branży
 
 Jeżeli chodzi o staż pracy, to nadal jesteśmy młodym zawodem, choć jak pokazuje
 wykres poniżej, większość respondentów ma od 3 do 5 lat doświadczenia (31,8%).
@@ -185,7 +185,7 @@ upływem lat pracy.
 | 6 – 10 lat (67 – 126 miesięcy) | 12 997 zł | 12 900 zł |
 | więcej niż 10 lat              | 15 107 zł | 13 100 zł |
 
-## Firma, branża
+### Firma, branża
 
 90,9% z pośród uczestników ankiety pracuje w firmie międzynarodowej, a 9,1% w
 firmie polskiej.
@@ -227,7 +227,7 @@ Formę tę wybrało blisko 45% ankietowanych.
 Ostatnie pytanie z działu _Firma, branża_ dotyczyło rodzaju dokumentacji jaką
 tworzycie. Wciąż najpopularniejsza jest dokumentacja związana z oprogramowaniem.
 
-## ![](images/rodzaj_dokumentacji_2022.png)Geografia
+### ![](images/rodzaj_dokumentacji_2022.png)Geografia
 
 Podobnie jak w zeszłym roku najwięcej uczestników ankiety pochodzi z województw:
 małopolskiego, dolnośląskiego i śląskiego.
@@ -252,7 +252,7 @@ Osoba deklarująca najwyższe zarobki (31 000 zł) pochodzi z województwa
 małopolskiego. Najwyższe średnie zarobki (14 333 zł) oraz medianę (13 000 zł)
 plasują się nadal w województwie pomorskim.
 
-## Zadowolenie
+### Zadowolenie
 
 Pytaliśmy też o to, jak bardzo jesteś zadowolony/a ze swojej pracy w skali od 1
 (bardzo nie lubię swojej pracy) do 5 (kocham swoją pracę). Jaki był wynik?
@@ -263,7 +263,7 @@ Odpowiedzi ankietowanych pokazują, że ich poziom zadowolenia z pracy jest nada
 na wysokim poziomie. Najczęściej wybieraną oceną była czwórka. Ponownie tylko
 jedna osoba jest bardzo niezadowolona, a dwie dały ocenę 2.
 
-## Tożsamość płciowa
+### Tożsamość płciowa
 
 Ponownie poprosiliśmy Was o określenie tożsamości płciowej. Jak pokazuje
 poniższy wykres w tym roku nieznaczna większość ankietowanych to kobiety:
@@ -297,7 +297,7 @@ na starcie i rośnie wraz z długością stażu na niekorzyść kobiet.
 | więcej niż 10 lat | Kobieta   | 13 744 zł | 12 550 zł |
 |                   | Mężczyzna | 16 345 zł | 16 000 zł |
 
-### Podsumowanie
+#### Podsumowanie
 
 Z uwagi na wciąż niewielką liczbę respondentów (110 w tym roku) ankieta ma
 charakter poglądowy, a nie statystyczny. Cieszymy się, że Wasz odzew jest nadal

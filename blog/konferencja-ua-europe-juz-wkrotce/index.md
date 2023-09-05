@@ -17,7 +17,7 @@ Poniżej przypominamy najważniejsze informacje dotyczące tego wydarzenia.
 
 <!--truncate-->
 
-## Termin i miejsce
+### Termin i miejsce
 
 Konferencja UA Europe 2017 odbędzie się w dniach 8-9 czerwca 2017 roku w
 Harrogate w Wielkiej Brytanii. Więcej informacji na temat miejsca znajdziecie
@@ -25,14 +25,14 @@ Harrogate w Wielkiej Brytanii. Więcej informacji na temat miejsca znajdziecie
 [tym adresem](http://www.uaconference.eu/travel.html) znajdują się informacje
 jak dotrzeć do Harrogate.
 
-## Rejestracja i ceny
+### Rejestracja i ceny
 
 Swój udział w konferencji możecie zgłaszać wypełniając
 [formularz](http://www.uaconference.eu/registration.html). Cena za bilet wynosi
 obecnie £695.00 + VAT (20%). Organizator przewiduje częściowe upusty, o których
 pisaliśmy [tutaj](http://techwriter.pl/zapraszamy-na-ua-europe-2017/).
 
-## Imprezy towarzyszące
+### Imprezy towarzyszące
 
 Podczas tegorocznej konferencji będziecie mogli zobaczyć nie tylko wystąpienia
 prelegentów czy wziąć udział w warsztatach praktycznych. Organizator

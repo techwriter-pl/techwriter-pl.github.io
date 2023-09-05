@@ -30,7 +30,7 @@ Unit4 oraz **Wojtka Aleksandra** z GetResponse, który poprowadził prezentację
 temat UX Writing podczas
 [drugiego spotkania MeetContent w Krakowie](http://techwriter.pl/soap-meetcontent-po-raz-drugi-relacja/).
 
-## Temat dyskusji
+### Temat dyskusji
 
 Sektor nowych technologii rośnie z każdym rokiem a wraz z nim zapotrzebowanie na
 specjalistów, którzy pracują z treścią. Ale co tak naprawdę oznacza praca z
@@ -38,13 +38,13 @@ treścią i jakie w tej dziedzinie istnieją potencjalne ścieżki kariery? Na t
 inne pokrewne) pytania postarają się znaleźć odpowiedź uczestnicy dyskusji z
 pomocą zaproszonych specjalistów.
 
-## Data i miejsce
+### Data i miejsce
 
 Spotkanie odbędzie się **1 marca 2017** o **19:00** w
 kawiarni [Mleczarnia](https://goo.gl/maps/tyZKwU1H4t62) przy ul. Pawła
 Włodkowica 5  we Wrocławiu.
 
-## Rejestracja
+### Rejestracja
 
 Udział w spotkaniu jest bezpłatny,  jednak organizatorzy proszą o rejestrację w
 celu weryfikacji liczby uczestników. Rejestracji możecie dokonać za pomocą

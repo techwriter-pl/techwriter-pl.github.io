@@ -1,5 +1,6 @@
 ---
-title: "Oferta pracy: Senior Documentation Engineer (Etteplan) - Wrocław lub zdalnie"
+title:
+  "Oferta pracy: Senior Documentation Engineer (Etteplan) - Wrocław lub zdalnie"
 authors: agnieszka
 date: "2022-05-19"
 tags:
@@ -48,7 +49,7 @@ znajdziecie
 
 ---
 
-### Senior Documentation Engineer
+#### Senior Documentation Engineer
 
 We are looking for an experienced person who likes to structure content, work
 with 2D/3D and is eager to do administrative work related to spare parts

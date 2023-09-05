@@ -40,7 +40,7 @@ Australii i Wielkiej Brytanii w wysokości 1000 USD. Więcej szczegółów
 Mieliśmy okazję potestować aplikację przez jakiś czas i poniżej umieszczamy małą
 listę plusów i drobnych minusów.
 
-# Plusy
+## Plusy
 
 - dokumenty można publikować online - wysyłać mailem lub szerować przez media
   społecznościowe
@@ -60,7 +60,7 @@ listę plusów i drobnych minusów.
   - TXT
   - Markdown (.md, .markdown, .mdown, textile .md, wiki .md)
 
-# Drobne minusy
+## Drobne minusy
 
 - żeby użyć sugestii spellchecka, trzeba wcisnąć F7 - to może mieszać w głowie
   osobom, które są przyzwyczajone prawo-klikać na podkreślone słowa, żeby je
@@ -69,7 +69,7 @@ listę plusów i drobnych minusów.
   tylko jak się testuje aplikację do granic możliwości, np. edytuje ten sam plik
   na dwóch urządzeniach jednocześnie
 
-# Z punktu widzenia Technical Writera
+## Z punktu widzenia Technical Writera
 
 Aplikacja nie została stworzona do technical writingu, więc nie ma
 funkcjonalności, które byłyby przydatne w naszym fachu. Na przykład nie
@@ -90,7 +90,7 @@ Technical Writerowi. Zazwyczaj mamy do dyspozycji inne narzędzia, które lepiej
 spełniają powierzone nam zadania, a do tych kilku zastosowań możemy użyć
 darmowych narzędzi, jak na przykład Google Docs.
 
-# Podsumowanie
+## Podsumowanie
 
 Aplikacja jest poręczna i wygodna w użyciu. Pozwala na większą swobodę niż
 edytory tekstu takie jak Notepad++, ale nie ma takich możliwości jak MS Word. Ma

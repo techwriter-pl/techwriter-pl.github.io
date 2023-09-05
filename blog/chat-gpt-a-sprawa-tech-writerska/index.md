@@ -24,7 +24,7 @@ Temat jest wielowymiarowy i rozwojowy, dlatego publikując ten artykuł jestem
 pewien, że szybko się on zdezaktualizuje - niemal każdego tygodnia dzieje się
 coś nowego na tym polu, a nasze rozumienie tych kwestii stale ewoluuje.
 
-# Co wiedziałem o AI
+## Co wiedziałem o AI
 
 Zanim przyjrzałem się temu tematowi, moja wiedza była dość skromna. Swego czasu
 zafascynowałem się grafikami
@@ -66,7 +66,7 @@ przymrużeniem oka.
 
 ![](images/download-61.png)
 
-# Czym jest ChatGPT?
+## Czym jest ChatGPT?
 
 [ChatGPT](https://chat.openai.com/) to aplikacja funkcjonująca jak chat bot,
 oparta o model językowy (_Large Language Model_). Rozwiązanie zostało opracowane
@@ -138,7 +138,7 @@ uznaniem.
 
 `Najlepszym pytaniem jakie można było zadać Clippiemu z Microsoft Office 97 było "Jaki jest sens życia?". Odpowiedzią było "Wklejanie clip artów do PowerPointa". Po tym nastała całkowita jasność w temacie.`
 
-## Jak powstał?
+### Jak powstał?
 
 Model powstał w oparciu o ogromną ilość danych tekstowych - 45 TB. Samoistnie
 doszło do wyszukania korelacji między różnymi tekstami.
@@ -149,13 +149,13 @@ wzorce. Po wielu iteracjach sztuczna sieć neuronowa stała się naprawdę dobra
 odgadywaniu odpowiedzi, jakich człowiek oczekuje, dzięki znajomości
 statystycznie prawdopodobnych słów, które powinny paść.
 
-## [![](images/Snag_7e3b9c.png)](http://techwriter.pl/wp-content/uploads/2023/03/Snag_7e3b9c.png)Czy nauczono go gramatyki?
+### [![](images/Snag_7e3b9c.png)](http://techwriter.pl/wp-content/uploads/2023/03/Snag_7e3b9c.png)Czy nauczono go gramatyki?
 
 Model przemielił dużą ilość danych i wykrył zależności między słowami, szyk,
 zasady gramatyczne. W odróżnieniu od innych modeli, zasady gramatyczne nie
 zostały zakodowane przez programistów.
 
-## Czy zna tylko angielski?
+### Czy zna tylko angielski?
 
 Dominująca część tekstów źródłowych była anglojęzyczna, natomiast całkiem nieźle
 reaguje na zapytania w 30 innych językach, w tym także po polsku. Z racji ilości
@@ -171,7 +171,7 @@ rozumie swoje błędy i tym razem już dostarczy rymujący się tekst. Niestety,
 słowa takie jak "malarz" i "farba" za Chiny nie chcą się rymować. Hiphopowcy -
 rymów poszukajcie gdzie indziej.
 
-## Cechy szczególne
+### Cechy szczególne
 
 Jedną z wyjątkowych cech tego rozwiązania są konwersacyjne interakcje. Zadając
 kolejne pytania i polecenia możemy nakierowywać "asystenta" na właściwe tory.
@@ -188,7 +188,7 @@ wyjątkowy efekt:
 
 [![](images/image-1024x297.png)](http://techwriter.pl/wp-content/uploads/2023/04/image.png)
 
-# Określenia trafne i nieco mniej
+## Określenia trafne i nieco mniej
 
 ChatGPT jest nowym tworem i każdy może korzystać z niego w indywidualny sposób.
 Podejść może być wiele. Usłyszałem wiele trafnych określeń, które dopełniają
@@ -210,7 +210,7 @@ obrazu tego zjawiska.
   Potrafi przyznać się do niewiedzy, ale też czasem stawia sprawy kategorycznie,
   choć sprawa jest mocno wątpliwa.
 
-# Wyszukiwarkowe wojny
+## Wyszukiwarkowe wojny
 
 Wspomnę o tym, że ChatGPT stanowi jedną z kart przetargowych, za pomocą której
 Microsoft usiłuje zaburzyć zastany ład w dziedzinie wyszukiwania informacji.
@@ -220,7 +220,7 @@ przedzierać się przez dziesiątki stron, które tylko udają użyteczne - zawi
 minimum słów kluczowych bez poparcia tego stosowną treścią. Fajnie będzie, jeśli
 coś w tej materii zmieni się na lepsze.
 
-# Ograniczenia
+## Ograniczenia
 
 Ograniczeniem jest to, że zakres materiału, na którym uczono model kończy się w
 roku 2021.
@@ -246,7 +246,7 @@ opis dziwnej zabawy piłko-granatem 😉 Dzieci! Nie róbcie tego w domu!
 
 [![](images/upload_0422-150x150.png)](http://techwriter.pl/wp-content/uploads/2023/04/upload_0422.png)
 
-# Zagrożenia
+## Zagrożenia
 
 Oszuści otrzymali wyrafinowane narzędzie do błyskawicznego tworzenia
 gramatycznie poprawnych treści w dopasowanym stylu, by jeszcze lepiej mylić nas
@@ -268,7 +268,7 @@ Kolejny problem - mechanizm działania sztucznej inteligencji wymaga dużej ilo�
 prądu, a prąd jest drogi
 😊[![](images/download-12-1-1024x1024.png)](http://techwriter.pl/wp-content/uploads/2023/04/download-12-1.png)
 
-# Zastosowania
+## Zastosowania
 
 Do czego z powodzeniem można stosować to rozwiązanie?
 
@@ -288,7 +288,7 @@ Do czego z powodzeniem można stosować to rozwiązanie?
 - Rekreacyjna rozmowa.
 - Opowiadanie dowcipów.
 
-# Okiem retoryka
+## Okiem retoryka
 
 Rozmawiałem ze znawcą retoryki, Lancem Cummingsem. Podoba mi się jego metodyczne
 i zdyscyplinowane spojrzenie. Postrzega on ChatGPT jako narzędzie do wykonywania
@@ -330,7 +330,7 @@ kto po ludzku wyjaśni działanie aplikacji będą na wagę złota, a to właśn
 wiemy jakie to uczucie znów zobaczyć komunikat „Nieznany błąd. Spróbuj za jakiś
 czas”. I to my wiemy, jak napisać dla kogoś takiego instrukcję.
 
-# Okiem językoznawcy
+## Okiem językoznawcy
 
 Noam Chomsky, słynny językoznawca nie zostawił na ChatGPT suchej nitki. Uznaje
 to rozwiązanie za pożyteczne, ale nie mające większego wkładu w rozwój
@@ -378,7 +378,7 @@ Warto patrzyć trzeźwym okiem na nowiny, za pół roku może naszą uwagę poch
 coś innego, choć wiele wskazuje, że innowacje AI pozostaną trendem, który będzie
 nam towarzyszył długo.
 
-# Okiem technical writera - czy obawiam się o swoją domenę?
+## Okiem technical writera - czy obawiam się o swoją domenę?
 
 Krótka odpowiedź - raczej nie. Proces pracy technical writera opiera się na
 kontakcie z ludźmi, zbieraniu i porządkowaniu informacji, krytycznym myśleniu.
@@ -433,7 +433,7 @@ Sam nie obraziłbym się, gdyby możliwe się stało:
 - agregowanie nowinek w świecie AI za pomocą systemu AI, który proponuje
   rozwiązania mające zastosowanie w dokumentacji i wokół niej. AI-INCEPCJA! 😉
 
-# Demokratyzacja pisania
+## Demokratyzacja pisania
 
 Nadejście Google Translate miało swój dobry i zły wpływ na osoby piszące w
 językach obcych, jednak nie można mu odmówić tego, że za jego pośrednictwem da
@@ -449,9 +449,9 @@ Na ChatGPT z pewnością skorzystają osoby z alergią na pisanie maili (pewnie
 nabytą na lekcji polskiego w liceum). Jeśli zarabiasz na życie piórem, możliwe,
 że ChatGPT nie wniesie do Twojego warsztatu zbyt wiele.
 
-# ![](images/download-88-1024x1024.png)
+## ![](images/download-88-1024x1024.png)
 
-# Jak rozpocząć przygodę z ChatGPT?
+## Jak rozpocząć przygodę z ChatGPT?
 
 1. Dowiedz się czegoś o modelach językowych.
 2. Zacznij od przepytania ChatGPT w dziedzinie, na której się znasz i możesz
@@ -484,7 +484,7 @@ nabytą na lekcji polskiego w liceum). Jeśli zarabiasz na życie piórem, możl
 14. Milej zabawy! Pobaw się tym narzędziem i sprawdź jak Ty możesz je
     wykorzystać do swoich indywidualnych potrzeb.
 
-# Moim przymrużonym okiem
+## Moim przymrużonym okiem
 
 Nie będę pierwszym, który zauważył, że nazwa "sztuczna inteligencja" brzmi mocno
 na wyrost. Etykietka pośrednio sugeruje, że twory tej dziedziny to zupełna
@@ -514,7 +514,7 @@ Bez wkładu człowieka nie może ona nic zrobić. Nie myśli, nie czuje, nie ma
 świadomości ani inteligencji (niezależnie od przyjętej definicji tych dwóch
 ostatnich).
 
-# Co przyniesie najbliższa przyszłość? Perspektywy rozwoju.
+## Co przyniesie najbliższa przyszłość? Perspektywy rozwoju.
 
 Przepowiednia Nostradamusa.
 
@@ -564,7 +564,7 @@ wiele nas zaskoczy, a sposób, w jaki będziemy wchodzić w interakcje z
 technologią, z pewnością się
 zmieni.[![](images/download-11-1024x1024.png)](http://techwriter.pl/wp-content/uploads/2023/04/download-11.png)
 
-# Podziękowania
+## Podziękowania
 
 Dziękuję serdecznie za konsultacje, inspirujące rozmowy i uwagi do tekstu:
 
@@ -572,7 +572,7 @@ Dziękuję serdecznie za konsultacje, inspirujące rozmowy i uwagi do tekstu:
 - [Sławomir Radzymiński](https://www.linkedin.com/in/slawekradzyminski/)
 - [Lance Cummings](https://www.linkedin.com/in/lance-cummings-phd/)
 
-# Źródła
+## Źródła
 
 Materiały które wywarły wpływ na to co piszę i warto się z nimi zapoznać.
 Grafiki wygenerowane z pomocą

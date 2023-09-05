@@ -23,13 +23,13 @@ związaną z technicznym wsparciem użytkownika oferując uczestnikom aktualne 
 na temat nowinek w trendach na rynku, nowości w rozwoju technologii oraz
 najlepsze praktyki pomocne we wsparciu użytkownika.
 
-## Termin i miejsce
+### Termin i miejsce
 
 Konferencja UA Europe 2017 odbędzie się w dniach 8-9 czerwca 2017 roku w
 Harrogate w Wielkiej Brytanii. Więcej informacji na temat miejsca wydarzenia
 znajdziecie [tutaj](http://www.uaconference.eu/thingstodo.html).
 
-## Rejestracja i cena
+### Rejestracja i cena
 
 Na konferencję można zarejestrować się na stronie organizatora wypełniając
 [formularz](http://www.uaconference.eu/registration.html#regisform).
@@ -65,7 +65,7 @@ Szczegółowe informacje na temat wszystkich upustów znajdziecie
   [linkiem](http://www.uaconference.eu/assets/pdf/UA_Europe_2017_Accommodation_options.pdf),
 - Warsztatów z MadCap Flare i DITA.
 
-## Warsztaty z MadCap Flare oraz DITA
+### Warsztaty z MadCap Flare oraz DITA
 
 W dniu poprzedzającym konferencję (07.06.2017) w godzinach 14 - 17 organizowane
 są warsztaty, na których możecie poszerzyć swoją wiedzę w jednym z dwóch
@@ -93,7 +93,7 @@ osoby zainteresowane także konferencją zaznaczają opcję warsztatów w formul
 rejestracji dostępnym
 [tutaj](http://www.uaconference.eu/registration.html#regisform).
 
-## Prezentacje
+### Prezentacje
 
 W trakcie dwóch dni konferencji będziecie mieli możliwość wyboru spośród 21
 wystąpień. Pełną listę prelegentów oraz tytuły ich prezentacji znajdziecie w
@@ -114,7 +114,7 @@ Oczywiście to tylko wybrane przykłady spośród wielu prezentacji, które nas
 zaciekawiły. Jeśli i w Was wzbudziły zainteresowanie to zerknijcie na agendę, a
 potem zarezerwujcie miejsce wśród słuchaczy 😉.
 
-## Więcej informacji
+### Więcej informacji
 
 A jeśli nadal potrzebne Wam są słowa zachęty to zerknijcie na naszą relację z
 [UA Europe 2016](http://techwriter.pl/ua-europe-2016-tech-writing-gulasz-i-ogien/).

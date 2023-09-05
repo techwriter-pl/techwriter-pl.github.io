@@ -25,7 +25,7 @@ wydarzenia, którymi możecie być zainteresowani.
 Jak zawsze mamy prośbę – jeśli wiecie o jakimś wydarzeniu związanym z branżą
 komunikacji technicznej, dajcie znać, a my przekażemy info dalej 😉
 
-### Wrzesień
+#### Wrzesień
 
 13-15 września, Boulder, Kolorado, USA -
 [UX STRAT USA 2021](https://uxstrat.com/usa/) - opcja hybrydowa ze streamingiem
@@ -59,7 +59,7 @@ opcja hybrydowa ze streamingiem online
 [KTLC 2021](https://www.konferencjatlumaczy.pl/) - **online** - Konferencja
 Tłumaczy + Translation & Localization Conference
 
-### Październik
+#### Październik
 
 3-5 października -
 [Write the Docs Prague 2021](https://www.writethedocs.org/conf/prague/2021/) -
@@ -119,7 +119,7 @@ wydarzenie objęte przez nas patronatem medialnym
 
 25-27 października - [KMIS 2021](http://www.kmis.ic3k.org/) - **online**
 
-### Listopad
+#### Listopad
 
 1-4 listopada, Lizbona, Portugalia - [Web Summit 2021](https://websummit.com/)
 
@@ -141,7 +141,7 @@ wydarzenie objęte przez nas patronatem medialnym
 
 18 listopada - [TCUK Online](http://technicalcommunicationuk.com/?p=10437)
 
-### Grudzień
+#### Grudzień
 
 2-3 grudnia -
 [Write the Docs Australia & India 2021](https://www.writethedocs.org/conf/australia/2021/) -

@@ -22,7 +22,7 @@ budowanie swojego portfolio, czym zainteresować potencjalnego pracodawcę, i
 która z ofert będzie dla Ciebie tą najlepszą. Tym, co może pomóc, jest udział w
 projektach open source.
 
-### Co to jest projekt open source?
+#### Co to jest projekt open source?
 
 Jest to projekt udostępniony w ramach jednej z otwartych licencji, którego kod
 źródłowy jest otwarty i powszechnie dostępny. Z tego kodu każdy może korzystać,
@@ -41,7 +41,7 @@ I tu pojawia się szansa dla technical writerów, którzy chcąc pomóc w ulepsz
 dokumentacji projektów open source mogą jednocześnie zdobyć spore doświadczenie
 i kontakty zawodowe.
 
-### Co zyskasz uczestnicząc w projekcie open-source?
+#### Co zyskasz uczestnicząc w projekcie open-source?
 
 Projekty tego typu zrzeszają wokół siebie ludzi o różnym poziomie wiedzy i
 doświadczenia. Spora ich część bierze w nich udział w ramach wolontariatu lub
@@ -71,7 +71,7 @@ zapłaty. Możesz jednak czerpać inne korzyści:
 - Nauczysz się współpracować z innymi - to bardzo przydatna umiejętność dla
   początkującego (i nie tylko) technical writera.
 
-### Jak wybrać projekt open source i jak zacząć w nim współtworzyć?
+#### Jak wybrać projekt open source i jak zacząć w nim współtworzyć?
 
 Obecnie jest tak wiele projektów open source, że samo poznanie i zrozumienie
 nawet niewielkiej ich części może zająć mnóstwo czasu.. Bez względu na poziom

@@ -42,7 +42,7 @@ można osadzić na stronie za pomocą krótkiego kodu (podobnie jak w przypadku
 większości pluginów w WordPress). Przykładowo dla wersji Lite jest to tylko
 jeden dokument: _\[documentor 1\]._
 
-# Jak to działa?
+## Jak to działa?
 
 Nasz dokument tworzymy przez dodawanie do niego sekcji, które możemy układać w
 zadaną hierarchię zwykłym drag-and-drop. W widoku edycji Guide (Documentor →
@@ -74,7 +74,7 @@ Documentor wygeneruje potrzebny wygląd dokumentu.
 [![documentor view](images/documentor-view-1024x795.png)](http://techwriter.pl/wp-content/uploads/2015/09/documentor-view.png)_Wygenerowany
 dokument na stronie_
 
-# Opcje
+## Opcje
 
 Ogromnym plusem jest szeroki wachlarz możliwości konfiguracji. Wtyczka ma
 całkiem pokaźne możliwości dostosowania wyglądu i zawartości, dostępne w
@@ -91,7 +91,7 @@ zakładce „Settings” w widoku edycji „Guide”. Możemy tam między innymi
 
 …i wiele innych.
 
-# Podsumowanie
+## Podsumowanie
 
 Documentor to ciekawe narzędzie przekształcające WordPress w wygodny dla
 dokumentacji CMS. Z jego pomocą łatwo stworzymy czytelną strukturę, wygenerujemy

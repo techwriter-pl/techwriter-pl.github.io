@@ -26,7 +26,7 @@ online) albo jakąś książkę. Jest tego sporo w sieci, ale nie mogę nic pole
 bo nie korzystałem z niczego takiego. Pozwólcie, że opowiem Wam jak wyglądała
 moja nauka DITA do tej pory.
 
-## DITA jest mesjaszem
+### DITA jest mesjaszem
 
 Było wczesne lato, hotel gdzieś na wyspach brytyjskich, sala pełna ludzi. Moja
 pierwsza konferencja o komunikacji technicznej. Głowa pełna nowych pomysłów i
@@ -47,7 +47,7 @@ kanałach, reuse, i tym podobne. Ale to nie DITA. Na spotkaniu zabiera głos
 kolega i mówi, że DITA mogłaby nas wynieść na wyższy poziom. Manager kiwa głową
 i mówi, że trzeba zrobić pilota.
 
-## DITA to ciężka praca
+### DITA to ciężka praca
 
 Niektóre narzędzia obsługują DITA, inne mogą obsłużyć, jak się zapłaci
 vendorowi, jeszcze inne trzeba dostosować. Wszystkie trzy rzeczy mają znaczenie
@@ -61,7 +61,7 @@ kolega w architekturze, koleżanka w metodologii pisania. Spod igły wychodzi
 pierwszy zestaw manuali, wygląda dobrze, a reuse jest na poziomie dwucyfrowych
 procent, więc manager mówi: „Wdrażamy dla całej dokumentacji!”
 
-## Niektórzy nie lubią DITA
+### Niektórzy nie lubią DITA
 
 Znowu sala pełna ludzi, tym razem w malowniczym niemieckim miasteczku. Wszyscy
 mają siwe brody i sto lat doświadczenia za paskiem. Nie pracują w niepoważnych
@@ -98,7 +98,7 @@ style guide, zamawiają zewnętrzne szkolenia. Koledzy z zespołu się wypalają
 odchodzą. Ich miejsce zajmują inni, którzy mają pozytywne doświadczenia z DITA z
 innych miejsc pracy. Nie rozumieją dlaczego tutaj wszyscy nienawidzą DITA.
 
-## Czasem DITA to sukces
+### Czasem DITA to sukces
 
 Prawie pięć lat później management pierwszy raz ogłasza sukces - wszystko
 przekonwertowano do DITA! Uczę się „ostatniego” aspektu DITA - strony

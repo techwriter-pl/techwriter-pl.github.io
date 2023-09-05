@@ -19,13 +19,13 @@ temat wydarzenia.
 
 <!--truncate-->
 
-## Gdzie i kiedy?
+### Gdzie i kiedy?
 
 Konferencja odbędzie się **w Warszawie w dniach 29-30 marca**. Szczegółowe
 informacje znajdziecie na
 [stronie konferencji](https://www.translation-conference.com/).
 
-## Program
+### Program
 
 Pierwszego dnia konferencji będą miały miejsce tylko prelekcje. Poza
 wystąpieniem otwierającym, reszta sesji zostanie zaprezentowana w dwóch
@@ -42,7 +42,7 @@ Standardowo już pomiędzy poszczególnymi blokami organizatorzy przewidzieli
 przerwy na kawę oraz lunch. Na piątkowy wieczór zaplanowana jest także impreza
 zapoznawcza, a w sobotnie popołudnie uroczyste zamknięcie.
 
-## Bilety
+### Bilety
 
 Co prawda, termin rejestracji oraz sprzedaży biletów już minął jednak jeśli
 komuś bardzo zależy na udziale w konferencji organizator prosi o e-mail na adres

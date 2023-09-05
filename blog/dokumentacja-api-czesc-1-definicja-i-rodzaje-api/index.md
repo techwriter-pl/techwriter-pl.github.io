@@ -17,7 +17,7 @@ i obiecał, że na tym nie koniec!
 
 <!--truncate-->
 
-## O autorze
+### O autorze
 
 Jako absolwent anglistyki, **Marcin Pierzchała** zaczynał swoją karierę jako
 tłumacz języka angielskiego. Po sześciu latach przeszedł jednak na techniczną
@@ -31,7 +31,7 @@ amatorskie projekty z użyciem Arduino.
 
 Z radością oddajemy mu głos:
 
-## Dokumentacja API – Część 1: Definicja i rodzaje API
+### Dokumentacja API – Część 1: Definicja i rodzaje API
 
 Podręczniki użytkownika, online helps czy release notes to rodzaje dokumentacji,
 które chyba każdy technical writer zna znakomicie. Zadomowiły się one na dobre
@@ -63,7 +63,7 @@ dokumentacją API, rolę technical writera w procesie jej tworzenia, a także
 dostępne narzędzia. Na początek odpowiem jednak na pytanie, które zapewne
 nurtuje większość czytających – co to jest API?
 
-## Czym jest API?
+### Czym jest API?
 
 W dużym uproszczeniu mianem API (_Application Programming Interface_) można
 określić zestaw rozwiązań, dzięki którym dwie aplikacje mogą porozumiewać się ze
@@ -120,7 +120,7 @@ wiadomości. Dodatkowo stosuje się nagłówki (_headers_) sygnalizujące np. fo
 przesyłanych danych (JSON, XML) bądź określające inne aspekty relacji między
 klientem, czyli aplikacją wołającą API, a podmiotem udostępniającym API.
 
-## Rodzaje API
+### Rodzaje API
 
 Interfejs programistyczny Google Maps to przykład tak zwanego web API, czyli
 takiego API, w którym do komunikacji pomiędzy aplikacjami (tutaj przez aplikację

@@ -24,7 +24,7 @@ wrocławscy contentowcy ruszają się lokalizować w Ten Square Games 😉
 
 Ale zanim o feedbacku, jak zwykle, zaczniemy od tego co przed nami.
 
-### Maj - Ten Square Games
+#### Maj - Ten Square Games
 
 Majowy MeetContentWRO odbędzie się w siedzibie firmy **Ten Square Games**. Tym
 razem tematem przewodnim będzie lokalizacja. Smaczku doda mu fakt, że dowiemy
@@ -48,7 +48,7 @@ wyzwaniami zespoły lokalizacyjne muszą się mierzyć.
 - Ten Square Games, ul. Traugutta 45
 - [Formularz zgłoszeniowy](https://forms.gle/84Z9Y2DYf71m4X3UA)
 
-### Kwiecień - Nokia
+#### Kwiecień - Nokia
 
 ![](images/19_4.jpg)
 

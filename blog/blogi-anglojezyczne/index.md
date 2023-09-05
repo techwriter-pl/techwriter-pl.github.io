@@ -32,7 +32,7 @@ Na początek powinno wystarczyć.
 A teraz już do rzeczy - czyli które blogi warto zasubskrybować (i czytać!), w
 dwóch wersjach:
 
-## Wersja dla leniwych
+### Wersja dla leniwych
 
 [Techcomm Superfeed](http://technicalwritingworld.com/page/techcomm-superfeed%20)
 
@@ -44,7 +44,7 @@ czasem po prostu bezsensowne artykuły. Główna zaleta - wszystko w jednym
 miejscu. Główna wada - po urlopie czekać na Was będzie 100-200 nieprzeczytanych
 "newsów".
 
-## Wersja dla mniej leniwych
+### Wersja dla mniej leniwych
 
 ... czyli wyselekcjonowane przez nas najciekawsze blogi z krótkim opisem.
 Kolejność przypadkowa.
@@ -154,7 +154,7 @@ dobrze, bo czytania i poszerzania wiedzy nigdy zbyt wiele.
 
 A jeśli ciągle Wam za mało, to...
 
-## Wersja dla tych którym się chce
+### Wersja dla tych którym się chce
 
 Dodaj coś do listy - w komentarzu, mailem, na FB. Na pewno coś pominęliśmy. A
 może sam(a) piszesz bloga (w dowolnym języku)? Czekamy na Wasze uwagi i

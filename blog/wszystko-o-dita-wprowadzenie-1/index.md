@@ -19,7 +19,7 @@ standardzie.
 W tym artykule możecie znaleźć kilka podstawowych i ogólnych informacji o dicie.
 Każdy z poruszonych tutaj tematów jest omówiony szerzej w kolejnych artykułach.
 
-# Czym jest DITA?
+## Czym jest DITA?
 
 DITA jest skrótem od Darwin Information Typing Architecture i jest otwartym
 standardem. Dostęp do specyfikacji tego standardu nie jest limitowany prawnie,
@@ -27,7 +27,7 @@ finansowo ani nie jest objęty tajemnicą handlową. DITA została stworzona prz
 IBM, a następnie przekazana OASIS (Organization for the Advancement of
 Structured Information Standards) w 2005 roku.
 
-# Co wspólnego mają DITA i XML?
+## Co wspólnego mają DITA i XML?
 
 DITA jest niezależnym od narzędzi sposobem na tworzenie, organizowanie i
 zarządzanie treścią. Treść gromadzona jest w poszczególnych, najmniejszych
@@ -36,12 +36,12 @@ tworzona jest w języku XML, który jest językiem znaczników. Standard DITA
 określa listę znaczników, które są rozpoznawalne podczas publikowania dokumentu,
 ale daje także możliwość stworzenia nowych znaczników.
 
-# Jakich narzędzi potrzebuję, aby móc cieszyć się dobrodziejstwami dity?
+## Jakich narzędzi potrzebuję, aby móc cieszyć się dobrodziejstwami dity?
 
 Tutaj podajemy listę popularnych narzędzi, które pomogą nam pracować w
 standardzie DITA.
 
-## Narzędzie do tworzenia treści
+### Narzędzie do tworzenia treści
 
 Dzięki temu, że DITA jest otwartym, opartym na języku XML standardem, mamy
 dostępne liczne narzędzia służące do tworzenia, edycji, formatowania oraz
@@ -58,7 +58,7 @@ oferują wsparcie dla dity:
 - [Stylus Studio](http://www.stylusstudio.com/)
 - [Syntext Serna](https://serna.en.softonic.com/)
 
-## System zarządzania treścią (CCMS)
+### System zarządzania treścią (CCMS)
 
 Mając edytor XML, który jest przyjazny dla standardu DITA, możemy stworzyć jakąś
 treść, ale przyda nam się jeszcze system gromadzenia tejże treści, a mianowicie
@@ -80,7 +80,7 @@ treści, którą stworzyliśmy w standardzie DITA w jednym z edytorów XML:
 - [BluestreamXDocs](https://www.bluestream.com/)
 - [DITA Exchange](https://ditaexchange.com/)
 
-## Narzędzie do publikowania treści
+### Narzędzie do publikowania treści
 
 Ostatnim narzędziem koniecznym, abyśmy mogli cieszyć się efektem naszej pracy
 jest aplikacja, która pozwoli przekonwertować plik źródłowy dity w jeden z wielu
@@ -94,7 +94,7 @@ dita. Oto kilka z takich niezależnych aplikacji:
 - [WebWorks ePublisher](http://www.webworks.com/Products/ePublisher/)
 - [DITA InPrint](http://ditainprint.com/)
 
-# Co dalej?
+## Co dalej?
 
 Podsumowując, DITA to otwarty standard tworzenia treści w języku XML, w którym
 podstawowymi elementami są topiki, które zawierają treść, oraz mapy, które

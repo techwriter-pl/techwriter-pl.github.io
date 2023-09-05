@@ -23,7 +23,7 @@ sytuacjach awaryjnych.
 
 <!--truncate-->
 
-## Krok 1 - pisownia
+### Krok 1 - pisownia
 
 Mamy do dyspozycji całkiem sporo narzędzi do sprawdzania pisowni, dlatego może
 nam się wydawać, że szanse na popełnienie błędu są dość nikłe. Okazuje się
@@ -34,7 +34,7 @@ firmy. Co ciekawe, w tej kwestii narzędzia do sprawdzania pisowni bardziej
 szkodą niż pomagają, ponieważ zdarza im się zmieniać nazwę na niepoprawną.
 Dlatego bądźmy czujni, bo z powodu takiego błędu możemy się najeść dużo wstydu.
 
-## Krok 2 - interpunkcja
+### Krok 2 - interpunkcja
 
 Nigdy nie używajmy form skróconych, takich jak _can't_ czy _we're_. Prostym
 sposobem na sprawdzenie czy tekst zawiera takie formy jest znalezienie
@@ -47,7 +47,7 @@ przecinki i kropki są tam gdzie być powinny. Upewnijmy się, że każde zdanie
 zaczyna się od dużej litery i kończy kropką. W przypadku bardziej
 skomplikowanych zdań, musimy się bardziej skupić, bo mogą one zawierać średniki.
 
-## Krok 3 - ryciny, tabelki i nagłówki
+### Krok 3 - ryciny, tabelki i nagłówki
 
 Spójność to rzecz kluczowa jeśli chodzi o ryciny, tabelki i nagłówki. Zawsze
 trzymajmy się

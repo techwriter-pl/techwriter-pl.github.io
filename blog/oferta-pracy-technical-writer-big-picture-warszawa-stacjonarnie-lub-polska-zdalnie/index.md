@@ -35,7 +35,7 @@ Technical Writera. Aplikację możecie składać na stronie
 
 ---
 
-### Technical Writer Location: Warsaw or remotely (Poland)
+#### Technical Writer Location: Warsaw or remotely (Poland)
 
 Hi, we’re BigPicture, the proud creators of one of the leading project
 management tools on the market. Our Portfolio, Product, and Project Management

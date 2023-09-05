@@ -60,9 +60,9 @@ rozpozna wśród nich swoje własne.
 
 ---
 
-# [![](images/upload_053-1.png)](http://techwriter.pl/wp-content/uploads/2021/04/upload_053-1.png)
+## [![](images/upload_053-1.png)](http://techwriter.pl/wp-content/uploads/2021/04/upload_053-1.png)
 
-## Detektyw
+### Detektyw
 
 [![](images/Sherlock-Holmes-287x300-1.jpg)](http://techwriter.pl/wp-content/uploads/2021/04/Sherlock-Holmes-287x300-1.jpg)
 
@@ -82,7 +82,7 @@ trudnych, gdy informator twierdzi wymijająco: "_ja nic nie wiem, nie pytaj,
 zarobiony jestem_" nie będę tu wspominał, bo są to tajniki, których zdradzić nie
 mogę.
 
-## Archeolog
+### Archeolog
 
 [![](images/upload_023-300x215.png)](http://techwriter.pl/wp-content/uploads/2021/04/upload_023.png)
 
@@ -95,7 +95,7 @@ logi czy zapisy na firmowym intranecie. Wszelkie takie znaleziska mogą rzucić
 choć odrobinę światła na sprawę. Kto jak kto, ale dobry skryba kieruje się
 szóstym zmysłem i jest w stanie wydobyć takie wykopaliska spod ziemi.
 
-## Dziennikarz
+### Dziennikarz
 
 [![](images/Old-reporter.jpeg)](http://techwriter.pl/wp-content/uploads/2021/04/Old-reporter.jpeg)
 
@@ -113,7 +113,7 @@ Dodatkowo, jesteś w stanie rozmawiać dosłownie z każdym. Potrafisz wyciągn�
 porywającą historię od kogoś, kto jest bardzo małomówny lub początkowo
 niezainteresowany udzieleniem wyczerpującego wywiadu.
 
-## Gospodarz programu telewizyjnego
+### Gospodarz programu telewizyjnego
 
 [![](images/m4Obs-1544211212-1070-quiz_question_image_-70talk_13-300x157.jpg)](http://techwriter.pl/wp-content/uploads/2021/04/m4Obs-1544211212-1070-quiz_question_image_-70talk_13.jpg)
 
@@ -124,7 +124,7 @@ by rozmowa się toczyła, gdy zaczyna grzęznąć na mieliźnie, naprowadza ją 
 właściwe tory, jeśli goście odbiegają od meritum i czasem musi ostudzić
 atmosferę, jeśli emocje zaczynają udzielać się wszystkim.
 
-## Protokolant
+### Protokolant
 
 [![](images/SpeedTypists-e1463645027603-300x214.png)](http://techwriter.pl/wp-content/uploads/2021/04/SpeedTypists-e1463645027603.png)
 
@@ -135,7 +135,7 @@ spotkanie. Warto to robić, żeby po ustaleniach pozostał ślad i widoczna był
 aspektów problemu na papierze pomaga rozłożenia kwestii na czynniki pierwsze,
 dzięki czemu łatwiej jest o podjęcie rozsądnej decyzji.
 
-## Nauczyciel
+### Nauczyciel
 
 [![](images/unnamed-287x300.jpg)](http://techwriter.pl/wp-content/uploads/2021/04/unnamed.jpg)
 
@@ -146,14 +146,14 @@ przystępna.
 _Technical writer_ często dzieli się wiedzą z innymi. Chętnie szkoli nowe osoby
 w zespole.
 
-## Grafik komputerowy
+### Grafik komputerowy
 
 Niezależnie od umiejętności w tej dziedzinie, zdarzyć się może, że potrzebujesz
 rozplanować układ strony, wybrać do niej odpowiednie grafiki. Często też
 tworzysz niezbędne ilustracje. Efekt nie będzie dziełem sztuki, ale z pewnością
 będzie to użyteczne i przemyślane.
 
-## Tester
+### Tester
 
 Pisarz techniczny często bywa jedną z pierwszych osób widzących na oczy prototyp
 aplikacji do opisania. Wiadomo, że w zespołach mamy specjalistów w tej
@@ -162,7 +162,7 @@ nieprawidłowe zachowanie algorytmu, czy literówkę w interfejsie. Może też
 zwrócić uwagę na mylące, niespójne etykiety przycisków. Dodatkowe czujne oko
 potrafi wiele wychwycić, co ma bezpośredni wpływ na jakość produktu.
 
-## Specjalista od User Experience
+### Specjalista od User Experience
 
 Przy projektowaniu stron z dokumentacją, często zadajemy sobie pytanie: w jakiej
 kolejności i hierarchii ułożyć informacje, by użytkownik mógł je najłatwiej
@@ -174,7 +174,7 @@ Dokumentalista opracowuje optymalną nawigację po treściach, które tworzy. Ma
 wrodzoną tendencję do grupowania i katalogowania tematów - każdy z nich ma swoje
 miejsce w skomplikowanej całości.
 
-## Architekt informacji
+### Architekt informacji
 
 [![](images/maxresdefault-300x169.jpg)](http://techwriter.pl/wp-content/uploads/2021/04/maxresdefault.jpg)
 
@@ -188,7 +188,7 @@ Podobnie jak bibliotekarz, kataloguje i porządkuje tematy aż w końcu ułożon
 w logiczny sposób, co pozwala na ich łatwe odnalezienie i ułożenie koncepcji w
 głowach odbiorców.
 
-## Ogrodnik
+### Ogrodnik
 
 [![](images/garden-300x199.png)](http://techwriter.pl/wp-content/uploads/2021/04/garden.png)
 
@@ -211,7 +211,7 @@ rozwija się bujnie jak zadbany ogród, bo w przeciwnym wypadku powoli popadnie 
 ruinę. Zapewnienie aktualności dokumentacji jest jednym z kluczowych problemów,
 z którymi wiele firm się zmaga.
 
-### Epilog
+#### Epilog
 
 Podsumowując, _technical writing_ to coraz bardziej multidyscyplinarne zajęcie,
 podczas którego masz szanse na rozwinięcie wielu kompetencji i talentów.

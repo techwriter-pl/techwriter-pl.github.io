@@ -28,12 +28,12 @@ leżakowania dzięki czemu łatwiej wpleść taki typ uczenia się w wypełniony
 brzegi obowiązkami dzień. W tej części cyklu "Naucz się sam(a)" przedstawiamy
 zestawienie ciekawych według nas źródeł wiedzy słuchanej.
 
-# Podcasty
+## Podcasty
 
 Na początek wszystkim dobrze znane podcasty, czyli publikacje dźwiękowe w formie
 regularnych odcinków.
 
-## Write the Docs Podcast
+### Write the Docs Podcast
 
 [![](images/sticker-wtd-colors-e1463047950528.png)](http://techwriter.pl/wp-content/uploads/2016/05/sticker-wtd-colors-e1463047950528.png)
 
@@ -51,7 +51,7 @@ Podcast jest otwarty dla każdego, więc jeśli tylko macie ochotę to możecie
 skontaktować się z zespołem, żeby zaproponować temat na kolejny odcinek albo
 zgłosić chęć udziału.
 
-## Content Content Podcast
+### Content Content Podcast
 
 [![](images/Complimentary_sandwich_featuring_Todd_DeLuca_Content_Content_episode_9-mp3-image-150x150.jpg)](http://techwriter.pl/wp-content/uploads/2018/03/Complimentary_sandwich_featuring_Todd_DeLuca_Content_Content_episode_9-mp3-image.jpg)
 
@@ -62,7 +62,7 @@ zaprasza specjalistów zajmujących się szeroko pojętą treścią. Podcasty s�
 prowadzone w formie luźnych pogawędek z gośćmi, ale nie oznacza to, że nie
 będziecie w stanie z nich wyciągnąć wartościowych informacji.
 
-## The CherryLeaf Podcast[![](images/cherrysquare-150x150.jpg)](http://techwriter.pl/wp-content/uploads/2018/03/cherrysquare.jpg)
+### The CherryLeaf Podcast[![](images/cherrysquare-150x150.jpg)](http://techwriter.pl/wp-content/uploads/2018/03/cherrysquare.jpg)
 
 [https://cherryleaf.podbean.com](https://cherryleaf.podbean.com)
 
@@ -73,7 +73,7 @@ ostatnim czasie przewijały się tematy takie jak narzędzia do tworzenia
 e-learningów, bieżące trendy w komunikacji technicznej czy modelowanie procesów
 biznesowych.
 
-## The Content Strategy Experts Podcast
+### The Content Strategy Experts Podcast
 
 [![](images/podcast_featured_image-150x150.png)](http://techwriter.pl/wp-content/uploads/2018/03/podcast_featured_image.png)
 
@@ -86,7 +86,7 @@ takich kultowych publikacji jak "Technical Writing 101" i "Content Strategy
 101", które swoją drogą można ściągnąć za darmo w formacie EPUB
 z [ich strony](https://www.scriptorium.com/books/).
 
-## 10-Minute Tech Comm
+### 10-Minute Tech Comm
 
 [![](images/10minutetechcomm-150x150.png)](http://techwriter.pl/wp-content/uploads/2018/03/10minutetechcomm.png)
 
@@ -99,7 +99,7 @@ dzień. Ciekawy akcent akademicki na tle innych podcastów. Niektórzy goście t
 osoby z tytułem doktora, które oferują naukowe spojrzenie na pewne kwestie
 związane z naszą branżą.
 
-## The Not-Boring Tech Writer Podcast
+### The Not-Boring Tech Writer Podcast
 
 [![](images/itunes-image1-150x150.jpg)](http://techwriter.pl/wp-content/uploads/2018/03/itunes-image1.jpg)
 
@@ -129,7 +129,7 @@ nagrań:
 - [Write the Docs odcinek 7](http://podcast.writethedocs.org/2017/07/03/episode-7-machine-automation-and-poland/)
 - [Content Content odcinek 16](http://edmarsh.com/2017/06/27/like-thomas-pynchon-pawel-kowaluk-content-content-episode-16)
 
-# Poczytaj mi...
+## Poczytaj mi...
 
 Dzieciom czytają rodzice (a jeśli tego nie robią to powinni 😉 ), a nam może
 poczytać syntezator mowy. Zamiana tekstu na mowę (text to speech) to kolejna

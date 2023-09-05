@@ -18,7 +18,7 @@ cierpieniom, dlatego postanowiliśmy ją przedstawić szerszej publiczności.
 
 <!--truncate-->
 
-## Czym jest Vysor?
+### Czym jest Vysor?
 
 Aplikacja [Vysor](http://vysor.io/), dostępna dla przeglądarki
 [Google Chrome](https://www.google.com/chrome/), pozwala nam na wyświetlanie i
@@ -28,7 +28,7 @@ z komputera i robienie zrzutów ekranu. Wersja płatna dodatkowo oferuje m.in.
 wyświetlanie ekranu w wysokiej rozdzielczości, tryb pełnoekranowy oraz
 przeciąganie plików na urządzenie.
 
-## Do czego może nam się przydać?
+### Do czego może nam się przydać?
 
 W niektórych sytuacjach musimy przetestować dokumentację na urządzeniu mobilnym,
 żeby sprawdzić czy wyświetla się ona prawidłowo. Taka potrzeba pojawia się
@@ -51,12 +51,12 @@ gdzie jeden piksel w lewo lub w prawo ma znaczenie 😊 W przypadku Vysora nie
 musimy się o to martwić, ponieważ widzimy dokładnie to samo na komputerze i na
 ekranie urządzenia mobilnego.
 
-## Jak go zainstalować?
+### Jak go zainstalować?
 
 Instalacja jest łatwa i nie zajmuje dużo czasu. W dalszych sekcjach znajdziecie
 informacje o tym co będzie Wam potrzebne oraz przykładowy proces instalacji.
 
-### Co jest potrzebne?
+#### Co jest potrzebne?
 
 1. Urządzenie mobilne z Androidem.
 2. Kabel USB.
@@ -64,7 +64,7 @@ informacje o tym co będzie Wam potrzebne oraz przykładowy proces instalacji.
 4. Sterowniki USB odpowiednie dla Twojego systemu operacyjnego i urządzenia
    mobilnego (opcjonalnie).
 
-### Środowisko instalacyjne
+#### Środowisko instalacyjne
 
 Opisaną poniżej instalację przeprowadzaliśmy na takim środowisku:
 
@@ -72,7 +72,7 @@ Opisaną poniżej instalację przeprowadzaliśmy na takim środowisku:
 - Telefon: Motorola Moto G pierwszej generacji (XT1032)
 - System operacyjny telefonu: Android 5.1 (Lollipop)
 
-### Instalacja
+#### Instalacja
 
 Przed rozpoczęciem instalacji, upewnij się, że Twój telefon nie jest podłączony
 do komputera.

@@ -18,7 +18,7 @@ jest rozwój otwartego oprogramowania. Wy także możecie się przy okazji rozwi
 
 <!--truncate-->
 
-### Czym jest Season of Docs?
+#### Czym jest Season of Docs?
 
 Jest to program stworzony przez Google, którego pierwsza edycja odbyła się w
 2019 roku. Pod
@@ -42,7 +42,7 @@ temat otwartego oprogramowania.
 Wszelkie niezbędne informacje na temat programu oraz uczestnictwa w nim
 znajdziecie [tutaj](https://developers.google.com/season-of-docs).
 
-### Harmonogram edycji 2020
+#### Harmonogram edycji 2020
 
 Program Season of Docs 2020 będzie realizowany według poniższego harmonogramu:
 

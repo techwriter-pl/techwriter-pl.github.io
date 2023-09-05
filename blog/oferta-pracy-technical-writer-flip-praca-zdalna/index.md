@@ -29,7 +29,7 @@ Aha, widełki płacowe to: 5000-8500 PLN netto
 
 ---
 
-# **Technical Writer**
+## **Technical Writer**
 
 **About the job** Our team consists of like-minded people that have a mission of
 delivering the most personalized experience to the world. We attract people that

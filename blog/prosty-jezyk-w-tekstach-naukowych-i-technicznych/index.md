@@ -21,7 +21,7 @@ na te pytania jest prosty język (ang. plain language).
 
 <!--truncate-->
 
-### Czym jest prosty język?
+#### Czym jest prosty język?
 
 Prosty język to zbiór reguł, których celem jest ustandaryzowanie języka
 pisanego, tak by odbiorca treści był w stanie szybko, jasno i w pełni zrozumieć
@@ -37,7 +37,7 @@ najgorszego tekstu pisanego.
 [Tutaj](http://www.plainenglish.co.uk/campaigning/awards/2019-awards/golden-bull-award-winners.html)
 możecie przeczytać tekst “nagrodzony” w 2019 roku.
 
-### Jak pisać, by być zrozumianym?
+#### Jak pisać, by być zrozumianym?
 
 Większość twórców chce, by ich tekst został jak najlepiej zrozumiany przez
 czytelnika. Co zrobić, by tak było nawet w przypadku bardzo trudnego lub nudnego
@@ -54,7 +54,7 @@ tematu? Oto kilka ogólnych reguł:
   nie chcesz drukować, utwórz inny format tekstu nad jakim pracujesz. Chodzi o
   to, by spojrzeć na to, co się napisało z innej perspektywy.
 
-### 12 zasad prostego języka
+#### 12 zasad prostego języka
 
 W wypracowaniu nawyku pisania według stylu prostego języka pomocne są
 następujące zasady:

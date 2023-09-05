@@ -19,7 +19,7 @@ i Developer Advocate.
 
 <!--truncate-->
 
-## Pierwsze spotkanie z Contentem
+### Pierwsze spotkanie z Contentem
 
 [![](images/meetContent14_3-1024x768.jpeg)](http://techwriter.pl/wp-content/uploads/2023/07/meetContent14_3.jpeg)
 
@@ -49,7 +49,7 @@ nowych dla niego faktów z branży komunikacji.
 Julia i Andrzej przybyli na spotkanie pełni dobrych przeczuć, a także… pytań,
 które wymagały odpowiedzi.
 
-## Pytania
+### Pytania
 
 Julia zdecydowała się wziąć udział w wydarzeniu, bo przywiodła ją ciekawość, bo
 chciała się dowiedzieć, kim jest specjalista od Developer Relations. Andrzej
@@ -60,7 +60,7 @@ i niszowa, nawet dla technical writerów, którzy sami rezydują w wąskiej nisz
 Mam nadzieję, że ten krótki artykuł pomoże choć trochę rzucić światło na tę
 specjalność.
 
-## Okiem Technical Writerki
+### Okiem Technical Writerki
 
 [![](images/meetContent14-2-1024x768.jpeg)](http://techwriter.pl/wp-content/uploads/2023/07/meetContent14-2.jpeg)
 
@@ -78,7 +78,7 @@ CLI (_Command Line Interface_) i
 [Elementów UI](https://developer.box.com/guides/embed/ui-elements/), przy
 współpracy z wieloma specjalistami, zwłaszcza z Developer Advocate.
 
-## Kim jest Developer Advocate?
+### Kim jest Developer Advocate?
 
 [![](images/MicrosoftTeams-image-164-768x1024.jpg)](http://techwriter.pl/wp-content/uploads/2023/07/MicrosoftTeams-image-164-scaled.jpg)
 
@@ -135,7 +135,7 @@ wysłuchiwany, a witryna i produkty zmieniają się dla nich na lepsze, większa
 szansa, że zainwestują swój czas i pieniądze w rozwiązania dające im największe
 możliwości.
 
-## Kim nie jest Developer Advocate?
+### Kim nie jest Developer Advocate?
 
 [![](images/meetContent14-1-1024x768.jpeg)](http://techwriter.pl/wp-content/uploads/2023/07/meetContent14-1.jpeg)
 
@@ -154,7 +154,7 @@ bardzo ciekawe domysły 😉
 Mam nadzieję, że ten artykuł choć w minimalnym stopniu przyczyni się do lepszego
 rozumienia tej wymagającej roli.
 
-## Sesja Q&A
+### Sesja Q&A
 
 Po opowieściach padło wiele rzeczowych pytań, a publika zdawała się nie mieć
 dość i chciała dowiedzieć się jak najwięcej. Utwierdziliśmy się w przekonaniu,

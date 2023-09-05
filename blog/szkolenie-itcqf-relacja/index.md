@@ -39,7 +39,7 @@ Dlatego też, wrażenia ze szkolenia chcemy przedstawić z dwóch perspektyw:
 - Osoby, która dopiero zaczyna swoją przygodę z dokumentacją i jest w trakcie
   zdobywania doświadczenia w tej dziedzinie
 
-## Uczestnik z doświadczeniem
+### Uczestnik z doświadczeniem
 
 Może zacznę od tego co zdecydowanie było na plus. Po pierwsze, całe szkolenie
 było dobrze poukładaną wiedzą przekrojową na temat komunikacji technicznej.
@@ -106,7 +106,7 @@ i samemu ocenić jaką wartość można wynieść ze szkolenia. Oczywiście pozo
 też kwestia tego kto płaci 😉 Dlatego tym bardziej powinniście doczytać do
 końca.
 
-## Uczestnik bez doświadczenia
+### Uczestnik bez doświadczenia
 
 Podobnie jak przedmówca zacznę od zdecydowanych plusów.
 
@@ -162,7 +162,7 @@ przekonaniu, że warto kontynuować "przygodę" z komunikacją techniczną.
 A jeśli chodzi o pytanie, czy warto? Przychylam się do opinii kolegi - zależy
 czego oczekujemy i jakie są nasze możliwości finansowe 😉.
 
-## Certyfikat
+### Certyfikat
 
 Warto też zastanowić się nad samym certyfikatem, który dostajemy po pomyślnym
 przejściu egzaminu. Pomimo tego, że na tą chwilę ITCQF nie jest "rozpoznawalną

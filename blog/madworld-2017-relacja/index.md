@@ -37,7 +37,7 @@ Jeśli chodzi o organizatorów, to byli bardzo otwarci i przyjaźni w stosunku d
 uczestników. W powietrzu można było wyczuć “amerykański luz”, który zachęcał,
 żeby zamienić ze wszystkimi słowo lub dwa.
 
-# Wielkie otwarcie
+## Wielkie otwarcie
 
 Pierwszy dzień prezentacji otworzyła sesja ogólna. Na scenie pojawił się
 **Anthony Olivier**, kapitan statku MadCap, lub jak kto woli, po prostu CEO. Po
@@ -62,9 +62,9 @@ prezentację. Po takim krótkim wstępie okazuje się jednak, że prelegenci “
 gryzą” i wtedy łatwiej uczestnikom nawiązać z nimi bezpośredni kontakt. Dobre
 posunięcie ze strony organizatorów.
 
-# Prezentacje
+## Prezentacje
 
-## Pierwszy dzień
+### Pierwszy dzień
 
 Każdy z dwóch dni prezentacji oferował uczestnikom 5 sesji, z której każda miała
 4 wątki (tracks), dlatego czasami ciężko było się zdecydować, który wybrać.
@@ -169,7 +169,7 @@ omówić dokładniej. Niestety, była to najsłabsza prezentacja w jakiej
 uczestniczyliśmy. Poruszane tematy były ciekawe jednak sposób ich przedstawienia
 spowodował, że prezentacja dużo straciła.
 
-## Drugi dzień
+### Drugi dzień
 
 Wtorek rozpoczęliśmy od prezentacji **Working with MadCap Flare and Confluence
 in a Dispersed Team**.
@@ -261,7 +261,7 @@ spodziewamy się, że nagle wszystko zostanie naprawione czy dodane, ale taka
 otwarta dyskusja to znak, że MadCap wychodzi naprzeciw swoim użytkownikom i
 stara się słuchać ich opinii.
 
-# Warsztaty
+## Warsztaty
 
 Główna część konferencji zakończyła się we wtorek. Środa była w całości
 przeznaczona na dodatkowo płatne warsztaty. W sumie były 4 sesje, po 2 wątki
@@ -340,7 +340,7 @@ certyfikatu Flare. Oznacza to, że jeśli takie osoby zdecydują się wykupić
 egzamin będą musiały przygotować tylko próbny projekt. Wielu osobom, w tym także
 nam, dało to powody do radości 😊
 
-# Loża ekspertów
+## Loża ekspertów
 
 Przez trzy dni uczestnicy mieli do dyspozycji **Hospitality Lounge** gdzie mogli
 udać się po wsparcie. W praktyce była to osobna sala, w której urzędowali
@@ -356,7 +356,7 @@ ekspertów. Uczestnicy cenią sobie bardzo możliwość porozmawiania twarzą w 
 o tym z jakimi problemami mierzą się używając produktów firmy MadCap. Dla wielu
 z nich jest to wystarczający argument, żeby kupić wejściówkę na MadWorld.
 
-# Aplikacja
+## Aplikacja
 
 Organizatorzy stworzyli dla uczestników specjalną aplikację konferencyjną. Można
 było w niej sprawdzić harmonogram konferencji i oznaczyć wydarzenia, w których
@@ -376,7 +376,7 @@ Był nawet konkurs na najbardziej aktywnych użytkowników. Za każdą aktywnoś
 przyznawane były punkty. Na koniec konferencji, zwycięzcy otrzymali od
 organizatorów nagrody rzeczowe. Dobry przykład gamifikacji.
 
-# Tańce, hulańce, swawole
+## Tańce, hulańce, swawole
 
 Żadna dobra konferencja nie może obyć się bez rozrywki pozwalającej uczestnikom
 rozluźnić się po intensywnym chłonięciu wiedzy. Nie inaczej było w przypadku
@@ -395,7 +395,7 @@ Główną atrakcją była nauka amerykańskiego tańca liniowego. Musimy przyzn
 kilka rzędów Tech Writerów wykonujących te same ruchy taneczne to dość
 niecodzienny widok 😉
 
-# Miejsce konferencji
+## Miejsce konferencji
 
 Tegoroczna edycja konferencji odbyła się w
 [hotelu Hard Rock](http://www.hardrockhotelsd.com/), zlokalizowanym w
@@ -422,7 +422,7 @@ przerwie między prezentacjami.
 
 https://twitter.com/MichaelJasper/status/848993111875473409
 
-# Miasto
+## Miasto
 
 Konferencja
 [MadWorld](http://www.madworldconference.com/?utm_source=TechWriterPL&utm_medium=Banner&utm_campaign=MadWorld2017)
@@ -448,7 +448,7 @@ porcja atrakcji.
 Jak widać, w San Diego każdy znajdzie coś dla siebie. Zarówno Ci, którzy lubią
 leniuchować jak i Ci, którzy nie mogą usiedzieć na miejscu.
 
-# Podsumowanie
+## Podsumowanie
 
 Jak wiadomo, MadWorld jest przeznaczony dla bardzo wąskiej grupy odbiorców.
 Konferencję można by określić jako coroczny zjazd użytkowników produktów

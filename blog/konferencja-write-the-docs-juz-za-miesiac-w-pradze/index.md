@@ -15,7 +15,7 @@ krokami. Przeczytajcie jak można się tam dostać i czego się spodziewać.
 
 <!--truncate-->
 
-## Szczypta historii
+### Szczypta historii
 
 Tak było rok temu - jako patron medialny byliśmy oczywiście obecni i uraczyliśmy
 Was
@@ -25,7 +25,7 @@ Was
 Co jeszcze można dodać - też tam byliśmy, piwo piliśmy, nawet syr zjedliśmy -
 zdecydowanie polecamy to miejsce, tych ludzi i ten klimat!
 
-## Co w tym roku?
+### Co w tym roku?
 
 Oczywiście informacji najlepiej zasięgnąć
 [u źródła](http://www.writethedocs.org/conf/eu/2017/), w telegraficznym
@@ -39,7 +39,7 @@ adresów, wzruszające pożegnania i obietnice częstej korespondencji. Generaln
 formuła niemal identyczna do
 [tej sprzed roku](http://techwriter.pl/write-the-docs-coraz-blizej/).
 
-## Kogo można spotkać?
+### Kogo można spotkać?
 
 Grono mówców wygląda przesympatycznie, sami spójrzcie w te szczere, uśmiechnięte
 twarze:
@@ -53,7 +53,7 @@ nam i innym. Poza prezenterami oczywiście dziesiątki uczestników z całego
 świata. Rok temu nawiązaliśmy kontakty z techwriterami m.in. z Finlandii,
 Australii, Czech, Węgier, USA, a nawet Polski!
 
-## Ile to kosztuje?
+### Ile to kosztuje?
 
 Pod względem współczynnika cena/jakość ta konferencja nie ma konkurencji. Jeśli
 nie chcecie prosić managera - wystarczy 150 Euro. Studenci i bezrobotni płacą

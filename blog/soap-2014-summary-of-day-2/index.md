@@ -20,7 +20,7 @@ able to attend all the presentations, so we describe in short only some of them.
 
 <!--truncate-->
 
-## Trust Above All
+### Trust Above All
 
 And not only in a relationship.
 [Rahel Ann Bailie](http://soapconf.com/speakers/) talked about the importance of
@@ -50,7 +50,7 @@ can gain their trust.
 
 [![SoapRahelAnnBailie](images/SoapRahelAnnBailie.png)](http://techwriter.pl/wp-content/uploads/2014/10/SoapRahelAnnBailie.png)
 
-## Badly Written Instructions Can Kill
+### Badly Written Instructions Can Kill
 
 Such a terrifying vision was presented by
 [Ray Gallon](http://soapconf.com/speakers/). He started his presentation by
@@ -86,7 +86,7 @@ help us.
 
 [![SoapRayGallon](images/SoapRayGallon.png)](http://techwriter.pl/wp-content/uploads/2014/10/SoapRayGallon.png)
 
-## The Author Is Also Human
+### The Author Is Also Human
 
 Information is a two-way road and thus we can’t focus only on the end user. We
 also need to remember about the author and his experience, as we were told by
@@ -110,7 +110,7 @@ business. That’s why it’s necessary to make content management easy.
 
 [![SoapRickYagodich](images/SoapRickYagodich.png)](http://techwriter.pl/wp-content/uploads/2014/10/SoapRickYagodich.png)
 
-## Draw Instead of Saying
+### Draw Instead of Saying
 
 Or present it in the form of an infographic to be more precise.
 [Agnieszka Tkaczyk](http://soapconf.com/speakers) talked about her adventure
@@ -152,7 +152,7 @@ the product infrastructure. The related documentation consisted of 457 words.
 
 [![SoapAgnieszkaTkaczyk](images/SoapAgnieszkaTkaczyk.png)](http://techwriter.pl/wp-content/uploads/2014/10/SoapAgnieszkaTkaczyk.png)
 
-## Find a Common Language
+### Find a Common Language
 
 The management team not always sees the same value in a well-designed content as
 people who create that content. [Noz Urbina](http://soapconf.com/speakers) tried

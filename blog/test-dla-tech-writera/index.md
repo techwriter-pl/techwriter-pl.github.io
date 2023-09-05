@@ -21,7 +21,7 @@ kwestie dotyczące zatrudniania na stanowisko technical writera.
 
 <!--truncate-->
 
-### Dla kogo jest ten tekst?
+#### Dla kogo jest ten tekst?
 
 Artykuł adresowany jest w szczególności do team leaderów, którzy stają przed
 wyzwaniem wyłonienia właściwej osoby do zadań pisarskich w świecie technologii.
@@ -30,7 +30,7 @@ Jeśli z kolei jesteś po drugiej stronie tego równania i przygotowujesz się d
 rozmowy kwalifikacyjnej w branży _tech comm_, to powinien zainteresować Cię
 przegląd przykładowych zadań testowych.
 
-### Skąd pomysł, by podzielić się z Wami własnym doświadczeniem?
+#### Skąd pomysł, by podzielić się z Wami własnym doświadczeniem?
 
 Jakiś czas temu zadzwonił do mnie team leader, który szukał wskazówek do
 napisania testu dla technical writera. Pierwszy raz w życiu rekrutował taką
@@ -59,7 +59,7 @@ z serii książek i filmów "Harry Potter" zaoszczędziłaby wiele czasu zarówn
 rekruterom, jak  i kandydatom. Jeśli nie masz do niej dostępu, jak wyłonić
 magika pióra? Odpowiedzi znajdziesz poniżej.
 
-# Zanim siądziesz do pisania testu, ustal priorytety i wymagania
+## Zanim siądziesz do pisania testu, ustal priorytety i wymagania
 
 Jeśli szukasz pisarza technicznego, zacznij od sprecyzowania poniższych kwestii:
 
@@ -91,7 +91,7 @@ Jeśli szukasz pisarza technicznego, zacznij od sprecyzowania poniższych kwesti
 Te i inne pytania należy postawić podczas definiowania stanowiska i precyzowania
 oferty pracy. Mają one spore znaczenie dla testu, który chcesz opracować.
 
-# Jak przetestować wiedzę, umiejętności i predyspozycje?
+## Jak przetestować wiedzę, umiejętności i predyspozycje?
 
 Podstawową metodą jest wywiad podczas rozmowy rekrutacyjnej. Nie zawsze wymagane
 jest wykonanie próbki pisemnej, czasem wystarczy rozmowa i udostępnienie swojego
@@ -107,7 +107,7 @@ Jest to zawsze kwestia indywidualna czy taki test jest wymagany, co należy
 sprawdzić i jaką metodą. Poniżej prezentuję najczęściej spotykane przykłady
 tego, jak pracodawcy do tego podchodzą.
 
-# Potrzebny pisemny sprawdzian - pomysły na testy
+## Potrzebny pisemny sprawdzian - pomysły na testy
 
 [![](/img/cover/test-300x199-1.jpg)](http://techwriter.pl/wp-content/uploads/2022/12/test-300x199-1.jpg)
 
@@ -117,7 +117,7 @@ Twoich przyszłych zadań. Niektóre z propozycji są tylko uzupełnieniem i
 występują w kombinacji z innymi metodami. Przy wszystkich przykładach zakładana
 jest praca w języku Szekspira i Davida Beckhama.
 
-## Test osobowości
+### Test osobowości
 
 Jest to raczej rzadko występująca opcja uzupełniająca. Testy te mogą dać pewne
 pojęcie o dominujących cechach osobowości i preferencjach - sam swego czasu
@@ -133,56 +133,56 @@ wie.
 Jedna rada - nie kłam w tych testach i nie naciągaj prawdy, bo testy są
 zaprojektowane tak, by próby mataczenia były łatwo widoczne w wynikach.
 
-## Test inteligencji i logicznego myślenia
+### Test inteligencji i logicznego myślenia
 
 Tego rodzaju testy stosowane są niezmiernie rzadko. Być może decydują się na nie
 pracodawcy szukający dobrych analityków, będących w stanie szybko wyciągnąć
 wnioski z dużych ilości danych. Być może chodzi też o zdolności matematyczne.
 
-## Test pisemny znajomości języka angielskiego
+### Test pisemny znajomości języka angielskiego
 
 W każdej rekrutacji przychodzi moment na rozmowę po angielsku, a czasem trzeba
 rozwiązać test dowodzący znajomości zasad gramatyki i słownictwa.
 
-## Opisz ostatnio obejrzany film lub przeczytaną książkę
+### Opisz ostatnio obejrzany film lub przeczytaną książkę
 
 Opisz coś, udowodnij, że potrafisz szybko ułożyć dobry tekst na niezobowiązujący
 temat.
 
-## Opisz i rozrysuj proces sortowania listów na poczcie
+### Opisz i rozrysuj proces sortowania listów na poczcie
 
 Jest to autentyczne zadanie sprzed 12 lat jakie dostałem podczas rozmowy
 rekrutacyjnej. Ćwiczenie ma na celu sprawdzić zdolność myślenia o procesach i
 ich opisywania.
 
-## Zrób szybki research w internecie i opisz koncepcję
+### Zrób szybki research w internecie i opisz koncepcję
 
 Tutaj sprawdzana jest zdolność wyszukiwania, porządkowania i opracowywania
 informacji. Kandydat może dostać do opisania ogólnodostępną aplikację,
 urządzenie lub system.
 
-## Opisz różnice między materiałem szkoleniowym a instrukcją
+### Opisz różnice między materiałem szkoleniowym a instrukcją
 
 Ćwiczenie to można też wykonać ustnie. Pokazuje czy rozmówca ma doświadczenie
 pracy z różnymi materiałami i rozumie jak skrojone powinny być dla innych grup
 odbiorców. Jeśli brakuje Ci wiedzy w tym temacie, zapoznaj się
 z [ITCQF.org](https://itcqf.org).
 
-## Popraw błędy językowe i zwróć uwagę na problemy w instrukcji
+### Popraw błędy językowe i zwróć uwagę na problemy w instrukcji
 
 Tutaj można popisać się wyczuciem językowym i zdolnością wychwytywania błędów.
 Jest to szczególnie ważne jeśli nowa osoba ma recenzować pracę innych członków
 zespołu. Dodatkowo, tech writer powinien być w stanie zaproponować ulepszenia i
 mieć swoje zdanie na temat brzmienia procedury.
 
-## Przetwórz podany tekst na opis koncepcji, procedurę czy materiał referencyjny
+### Przetwórz podany tekst na opis koncepcji, procedurę czy materiał referencyjny
 
 To zadanie dobrze sprawdza doświadczenie z różnymi typami dokumentacji i
 zdolność dostosowania języka i formy zależnie od zastosowania. Jeśli
 potrzebujesz zgłębić ten temat, z zapoznaj się z materiałami proponowanego już
 wyżej [ITCQF.org](https://itcqf.org).
 
-## Stwórz instrukcję na podstawie rzutów ekranu interfejsu
+### Stwórz instrukcję na podstawie rzutów ekranu interfejsu
 
 Tutaj ćwiczenie jest kompleksowe. Wymaga dobrego rozplanowania sekcji i
 stworzenia odpowiednich ilustracji. Utrudnieniem jest brak możliwości użycia
@@ -190,19 +190,19 @@ danej aplikacji, dlatego screeny powinny być tak wybrane, by jednoznacznie
 prezentowały ten produkt. Opisanie go na podstawie tych zdjęć powinno być
 możliwe bez potrzeby zgadywania jak ten produkt działa.
 
-## Zasugeruj usprawnienia UX Writing i UX Design
+### Zasugeruj usprawnienia UX Writing i UX Design
 
 Coraz częściej występują zadania z elementami z dziedzin UX writing i UX design.
 Choć nie zawsze technical writer musi być ekspertem w tych kwestiach, odrobina
 obycia z nimi daje przewagę podczas rekrutacji.
 
-## Przetestuj witrynę lub aplikację i opisz jak z niej korzystać
+### Przetestuj witrynę lub aplikację i opisz jak z niej korzystać
 
 Tu mamy przykład czynności, którą często wykonujemy w codziennej pracy: usiądź,
 poeksperymentuj z aplikacją i opisz ją na bazie praktycznego doświadczenia
 korzystania z niej.
 
-## Ściągnij repozytorium projektowe i wprowadź na nim swoje zmiany
+### Ściągnij repozytorium projektowe i wprowadź na nim swoje zmiany
 
 W większości rekrutacji uczestnicy po prostu odsyłają stworzony tekst w Ms Word
 czy innym popularnym formacie. Czasem zadanie zbliżone jest do autentycznego
@@ -211,14 +211,14 @@ repozytorium Github w formacie Markdown, a tworzenie _Pull Request_ jest
 niezbędnym krokiem, by nowy tekst został sprawdzony i zatwierdzony, to kandydat
 powinien bez problemu być w stanie użyć tej metody.
 
-# Dodatkowe aspekty
+## Dodatkowe aspekty
 
 Powyżej wymieniłem metody sprawdzenia wiedzy i umiejętności.
 
 Dalej, prezentuję dodatkowe aspekty, które wpływają na poziom trudności i
 odczucia kandydata.
 
-## Limit czasu
+### Limit czasu
 
 Świetnym rozwiązaniem dla obu stron jest nałożenie limitu czasu. Osoba testowana
 wybiera dogodny moment na wykonanie ćwiczenia, które musi ukończyć w godzinę lub
@@ -228,12 +228,12 @@ decyzji w sytuacji, gdy jest się zdanym na siebie samego. Z kolei dla uczestnik
 jest to wygodne podejście, bo nie wymaga poświecenia dużo czasu i wynik jest
 szybko znany.
 
-## Wykonaj ćwiczenie w czasie spotkania online lub w biurze
+### Wykonaj ćwiczenie w czasie spotkania online lub w biurze
 
 Dodatkowym wyzwaniem może być fakt, że rozwiązujesz test będąc na wizji, a
 rekrutujący czekają aż skończysz. Niby nic, ale można się spocić 😉
 
-## Objętość
+### Objętość
 
 Twórcy testu powinni znać tu umiar, bo kandydaci mogą pracować i nie mieć czasu
 na pracę z bardzo obszernymi tekstami. Przesada może być nie na miejscu i nie w
@@ -241,7 +241,7 @@ porządku, wobec osoby, która poświęca swój czas wolny. Duża ilość tekstu
 wywołać podejrzenie, że próbka jest tak naprawdę bezpłatną usługą, którą
 pracodawca wykorzysta po zakończeniu rekrutacji.
 
-## Realność tematu
+### Realność tematu
 
 Pracodawca może wybrać autentyczne zadanie z codziennej pracy, natomiast
 występuje podobna kwestia jak akapit wyżej: nie powinno być wątpliwości, że jest
@@ -252,7 +252,7 @@ groźne dla reputacji firmy.
 Podejściem alternatywnym jest dać fikcyjny produkt do opisania i wtedy nie ma
 takich wątpliwości.
 
-## Platforma wygaszająca pozostałe ekrany i ograniczająca dostęp do internetu
+### Platforma wygaszająca pozostałe ekrany i ograniczająca dostęp do internetu
 
 Tu innowacyjne utrudnienie: kandydat instaluje aplikację, która ogranicza
 widoczny obszar ekranu do zadań testowych i wyłączone zostają dobrodziejstwa,
@@ -260,7 +260,7 @@ takie jak dostęp do wyszukiwarek i internetowych słowników.
 
 Mała niedogodność, ale zawsze 😉
 
-# Porada dla rekrutujących
+## Porada dla rekrutujących
 
 Czasem test odbierany jest jako egzamin ze znielubionego przedmiotu ze szkoły
 średniej. Niektóre osoby mocno to przeżywają. Warto pomyśleć o wrażeniach osoby
@@ -273,7 +273,7 @@ powinna się podciągnąć.
 się z jak najlepszej strony. Wspierajcie kandydatów na ile jest to możliwe i
 udzielacie odpowiedzi na wszystkie potrzebne pytania.
 
-# Porada dla rozwiązujących
+## Porada dla rozwiązujących
 
 Pytaj jeśli coś wydaje Ci się niejasne lub nielogiczne w zadaniu. Prawdopodobnie
 nie jest to celowa pułapka, a tylko drobna kwestia do wyjaśnienia. Inicjatywa
@@ -282,7 +282,7 @@ obniżyć liczbę zdobytych punktów.
 
 [![](images/upload_0238-1024x725.png)](http://techwriter.pl/wp-content/uploads/2022/12/upload_0238.png)
 
-# Wynik może być tylko jeden:
+## Wynik może być tylko jeden:
 
 [![](images/upload_0245-1024x749.png)](http://techwriter.pl/wp-content/uploads/2022/12/upload_0245.png)
 
@@ -305,4 +305,4 @@ P.S.
 
 Dla wybierających się na rozmowę w niedługim czasie życzę:
 
-# POWODZEEENIAAAA!!!
+## POWODZEEENIAAAA!!!

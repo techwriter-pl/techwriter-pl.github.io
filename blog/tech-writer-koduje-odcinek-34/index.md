@@ -27,7 +27,7 @@ jako stażystka na stanowisku technical writera. W rozmowie z Michałem i Pawłe
 opowiada o tworzeniu dokumentacji oraz licznych zadaniach, które pozwalają jej
 się rozwijać w obszarach testowania, lokalizacji i projektowania.
 
-### Odcinek 34
+#### Odcinek 34
 
 Rozmowa z Patrycją może być interesująca szczególnie dla osób nowych w branży.
 Dowiecie się, między innymi, jak rozpoczęła się jej przygoda z technical

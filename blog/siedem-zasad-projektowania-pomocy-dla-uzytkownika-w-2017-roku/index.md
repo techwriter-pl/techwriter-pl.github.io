@@ -23,7 +23,7 @@ Harrogate!
 
 <!--truncate-->
 
-# Seven Golden Rules of User Assistance Design for 2017
+## Seven Golden Rules of User Assistance Design for 2017
 
 Matthew Ellison for techwriter.pl
 
@@ -84,7 +84,7 @@ level of content re-use.
 
 Let's take a brief look at each of my seven rules from the 2004 article:
 
-## 2004 Rule 1 - Don't force users to move between topics to solve a problem
+### 2004 Rule 1 - Don't force users to move between topics to solve a problem
 
 This is all about making each topic a self-contained solution to the user's
 needs.  I still believe this is critical to helping users in the most effective
@@ -92,7 +92,7 @@ and time-efficent way, so it's definitely going to remain one of my top rules. 
 This idea has been developed by technical communication guru Mark Baker is his
 book "Every Page is Page One", which I strongly recommend.
 
-## 2004 Rule 2 - Only index the main theme of each Help topic
+### 2004 Rule 2 - Only index the main theme of each Help topic
 
 Given that most modern Help systems no longer expose A-Z indexes within the
 nagivation pane, this rule may appear redundant.  However, it can be adapted in
@@ -101,7 +101,7 @@ each Help topic that expresses that the information type, audience, and main
 theme of the topic.  Effective Search will increasinly rely on content being
 marked up with this kind of standard semantic metadata.
 
-## 2004 Rule 3 - Don’t require users to make a conscious decision to access Help
+### 2004 Rule 3 - Don’t require users to make a conscious decision to access Help
 
 This means that we should be maximising the "scent of information" associated
 with our content, making the links to our user assistance more meaningful and
@@ -110,7 +110,7 @@ increasingly embedded within the UI itself, but there are still plenty of
 examples of separate Help systems that are under-used because the access points
 are not sufficiently obvious or compelling.
 
-## 2004 Rule 4 - Only include images when they add value
+### 2004 Rule 4 - Only include images when they add value
 
 I believe this still to be true today.  There is no point in including
 screenshots or diagrams merely as decoration, and each time we add an image we
@@ -119,7 +119,7 @@ conveying.  The same goes for video and other forms of multimedia, which are
 increasingly popular as a way of demonstrating complex procedures and
 techniques.
 
-## 2004 Rule 5 - Write topics that answer users’ questions
+### 2004 Rule 5 - Write topics that answer users’ questions
 
 I don't know why I didn't make this rule number 1 because it expresses the
 fundamental purpose of user assistance.  I'd go further than this now by saying
@@ -127,7 +127,7 @@ that it is important to base the topic (answer) on a typical situation that a
 user might be experiencing.  In other words, provide meaningful examples rather
 than just abstract information.
 
-## 2004 Rule 6 - Don’t be a slave to consistency
+### 2004 Rule 6 - Don’t be a slave to consistency
 
 Although it's important to use consistent formatting, writing style, signposting
 conventions, and terminology, there is no need to extend this to the selection
@@ -137,7 +137,7 @@ needs.  We can use Analystics to track users' behaviour, and we can also monito
 user forums and social networks to find out which are the most common problems
 and issues associated with our products.
 
-## 2004 Rule 7 - Don’t be tempted to provide too much information
+### 2004 Rule 7 - Don’t be tempted to provide too much information
 
 With hindsight, I think this should have been rule number 2. We have to be
 concise and _focussed_ in what we write or else we risk losing our readers.
@@ -192,7 +192,7 @@ the field of software user assistance.  He organises the annual
 [UA Europe](http://www.uaconference.eu/) conference for user assistance
 professionals.
 
-# Podziękowanie od techwriter.pl
+## Podziękowanie od techwriter.pl
 
 Dziękujemy Matthew za napisanie tego artykułu. Zdecydowanie daje do myślenia
 fakt, że w naszej branży raczej nie ma złotych zasad, które się nie zmieniają.

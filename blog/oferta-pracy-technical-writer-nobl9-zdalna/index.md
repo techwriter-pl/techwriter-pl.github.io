@@ -37,9 +37,9 @@ skorzystać z [linku do aplikowania](https://grnh.se/5265c9c93us).
 
 ---
 
-## Technical Writer Poland (remote)
+### Technical Writer Poland (remote)
 
-### Why work at Nobl9?
+#### Why work at Nobl9?
 
 Now more than ever our lives depend on digital services and Nobl9 is on a
 mission to make them reliable and efficient. Our category-defining Service Level
@@ -56,7 +56,7 @@ current Technical Writer who works with us remotely from Cracow.
 Salary range for this position: 10 000 - 15 000 PLN net (B2B) / 8 300 - 12 500
 PLN gross (employment contract)
 
-### In this role you will:
+#### In this role you will:
 
 - Work with Product, Partnership, and Engineering Teams to turn technical
   discussions into compelling written content
@@ -70,7 +70,7 @@ PLN gross (employment contract)
 - Analyze existing and yet-to-be-written content with the view to identifying
   room for improvement
 
-### Here are the qualities we are looking for:
+#### Here are the qualities we are looking for:
 
 - Proven working experience in writing software documentation (please, do send
   us a portfolio featuring your best technical writing pieces)
@@ -86,7 +86,7 @@ PLN gross (employment contract)
 - Team player skills
 - Nice-to-have: UX writing certificate
 
-### Technical stack:
+#### Technical stack:
 
 - Good command of GitHub and any popular code editor (e.g., Visual Studio Code)
 - Good knowledge of Markdown (we write our documentation mostly in Markdown)
@@ -96,7 +96,7 @@ PLN gross (employment contract)
   constantly develop our docs website based on React.js), basics of API
   documentation and YAML format.
 
-### What we think you’ll like:
+#### What we think you’ll like:
 
 - Becoming a part of the team working on a product that makes a difference: an
   innovative Service Level Objectives platform (#SLOs)
@@ -116,7 +116,7 @@ PLN gross (employment contract)
 - Cozy and comfortable working space in the center of Poznań (Nowy Rynek) - if
   you feel like working stationary.
 
-### What is Nobl9?
+#### What is Nobl9?
 
 Nobl9, the software reliability platform, is in the noble pursuit of reliable
 software. We help software developers, DevOps practitioners, and reliability

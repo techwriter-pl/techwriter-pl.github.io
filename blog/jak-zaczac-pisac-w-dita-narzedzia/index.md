@@ -26,7 +26,7 @@ staramy się odpowiedzieć. Na pytanie „O czym?” z pewnością odpowie wam w
 na pytanie „Na kiedy?”, wasz project manager zaś na pytanie „Za ile?” z radością
 odpowie wasz team leader.
 
-## Oprócz dobrej strategii...
+### Oprócz dobrej strategii...
 
 ...potrzebne będą następujące rzeczy:
 
@@ -39,7 +39,7 @@ Przy czym każda z nich będzie wyglądała inaczej, jeżeli chcemy po prostu na
 się pisać w dicie, a inaczej jeżeli myślimy o komercyjnym wdrożeniu dla zespołu
 dokumentacji.
 
-## Edytor
+### Edytor
 
 Do pisania w DITA potrzebny jest edytor, i to najlepiej taki, który nie pozwoli
 nam wstawić niedozwolonych tagów, czy wręcz zepsuć XMLa. Taki edytor powinien
@@ -76,7 +76,7 @@ Ciekawą opcją jest też easyDITA, CMS i edytor w jednym, w całości dostępny
 przeglądarce. To dobra opcja dla dużych organizacji, które stać na opłacenie
 dosyć drogiej subskrypcji.
 
-## (C)CMS
+### (C)CMS
 
 W świece tech commu często operuje się pojęciem CMS mając na myśli CCMS
 ([Component Content Management System](https://en.wikipedia.org/wiki/Component_content_management_system)).
@@ -163,7 +163,7 @@ wierzchołek góry lodowej.
 wystarczy. Jeżeli jednak myśli się o tym, żeby cały zespół pisał w DITA,
 najlepiej poradzić się wyspecjalizowanego konsultanta.
 
-## Linia produkcyjna
+### Linia produkcyjna
 
 Linia produkcyjna zamieni nasze źródłowe pliki DITA w wynikowe pliki PDF, HTML,
 czy jeszcze jakieś inne. Zwykle składa się ona z silnika **konwertującego** XML
@@ -213,7 +213,7 @@ HTMLi, itp., w intuicyjnym interfejsie. Dodatkowym bonusem jest tutaj bardzo
 ładnie wyglądający i sprawnie działający format webhelp, który skaluje się do
 urządzeń mobilnych.
 
-# Co dalej?
+## Co dalej?
 
 Nie ma szybkiej recepty na to by zacząć pisać w dicie jako zespół. Tak jak
 napisaliśmy w tym artykule, jest bardzo wiele czynników, które trzeba wziąć pod

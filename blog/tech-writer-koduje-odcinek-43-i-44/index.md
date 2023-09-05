@@ -18,7 +18,7 @@ writingiem. Zapraszamy na poniższy skrót.
 
 <!--truncate-->
 
-### Odcinek #43
+#### Odcinek #43
 
 Zbudowanie strony z dokumentacją od zera może się wydawać nie lada wyzwaniem,
 dlatego prowadzący podcast zdecydowali się przyjść słuchaczom z pomocą.
@@ -51,7 +51,7 @@ poradzić sobie w takiej sytuacji.
 Jeśli ten temat Was interesuje, zapraszamy do odsłuchania
 [odcinka](https://techwriterkoduje.pl/blog/2022/07/16/tech-writer-buduje-strone-z-dokumentacja).
 
-### Odcinek #44
+#### Odcinek #44
 
 Odcinek 44 zainteresuje z pewnością osoby, które ubiegają się o pracę w branży.
 Został w nim ponownie poruszony, temat rekrutacji, gdyż jest on zawsze na czasie
@@ -62,7 +62,7 @@ Po dwuletniej przerwie, Panowie przyglądają się obecnej sytuacji na rynku pra
 dla technical writerów w Polsce oraz procesowi rekrutacyjnemu zarówno pod kątem
 poziomu umiejętności aplikujących, jak i oczekiwań zatrudniających.
 
-#### Jak zmieniły się realia w branży związanej z technical writingiem w ostatnich latach?
+##### Jak zmieniły się realia w branży związanej z technical writingiem w ostatnich latach?
 
 Według Tomka, technical writing w Polsce jest obecnie w fazie rozkwitu, o czym
 świadczy zarówno mnogość ofert pracy na portalach zajmujących się rekrutacją,
@@ -82,7 +82,7 @@ to poprzez [certyfikat ITCQF](https://itcqf.org/) czy
 co zwiększa kwalifikacje pracowników i wpływa na większe zainteresowanie
 pracodawców.
 
-#### Profil kandydata, który posiada zestaw najbardziej poszukiwanych umiejętności.
+##### Profil kandydata, który posiada zestaw najbardziej poszukiwanych umiejętności.
 
 Zdaniem rozmówców najbardziej porządane cechy kandydata/ki na technical writera
 to:
@@ -102,7 +102,7 @@ to:
 Wszystkie powyższe wytyczne są opatrzone komentarzem gości podcastu i
 prowadzących.
 
-#### Jak trudno jest wejść w tech writing w branży IT osobom z zewnątrz?
+##### Jak trudno jest wejść w tech writing w branży IT osobom z zewnątrz?
 
 Jeśli dana osoba posiada odpowiednie cechy to nie jest problem, by odnalazła się
 w technical writingu w branży IT. To zdanie Tomka, bo spotkał się z takimi

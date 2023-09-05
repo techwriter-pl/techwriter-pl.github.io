@@ -17,7 +17,7 @@ informacje poniżej.
 
 <!--truncate-->
 
-### **Krótki powrót do przeszłości**
+#### **Krótki powrót do przeszłości**
 
 [Konferencja Tłumaczy](https://konferencja-tlumaczy.pl/), to według
 organizatorów, największe wydarzenie w branży tłumaczeniowej w Polsce, a swoją
@@ -35,7 +35,7 @@ Warszawie, czeka na was jedyne w swoim rodzaju wydarzenie: pełne wiedzy i okazj
 do nawiązania nowych kontaktów – z którego wrócicie pełni zapału i inspiracji do
 codziennej pracy.
 
-### Do kogo jest skierowana?
+#### Do kogo jest skierowana?
 
 Konferencja jest przede wszystkim skierowana do tłumaczy ustnych i pisemnych,
 tłumaczy przysięgłych, przedstawicieli biur tłumaczeń, kierowników projektów,
@@ -45,7 +45,7 @@ branży tłumaczeniowej są mile widziane na konferencji. Jest ona także otwart
 dla przedstawicieli przemysłu gier, uznanych językoznawców, specjalistów od
 prowadzenia biznesu, prawników, a nawet pisarzy.
 
-### Dlaczego warto wziąć udział?
+#### Dlaczego warto wziąć udział?
 
 Spośród wielu wartości jakie niesie w sobie udział w wydarzeniu branżowym warto
 wyróżnić:
@@ -59,7 +59,7 @@ wyróżnić:
 - Zyskasz wiedzę o najnowszych możliwościach CAT-ów, o tym, jak najlepiej
   wykorzystywać tłumaczenia maszynowe czy sztuczną inteligencję.
 
-### **Motyw przewodni na 2023 rok**
+#### **Motyw przewodni na 2023 rok**
 
 Tegorocznym motywem przewodnim konferencji jest szeroko rozumiana INTELIGENCJA.
 Podczas prelekcji poznacie pojęcie neurobiologii inteligencji czyli
@@ -76,12 +76,12 @@ udział w warsztatach, które odbędą się 29 września. Są one dodatkowo pła
 szczegółach możecie przeczytać
 [na stronie wydarzenia](https://konferencja-tlumaczy.pl/?page_id=1798).
 
-### **Termin i miejsce**
+#### **Termin i miejsce**
 
 Konferencja Tłumaczy 2023 odbędzie się **30 września** w warszawskim Centrum
 Konferencyjnym Zielna oraz online.
 
-### **Bilety**
+#### **Bilety**
 
 Udział w konferencji wymaga rejestracji oraz zakupu biletu. W cenę biletów “na
 miejscu” wliczone są koszty lunchu. Organizator NIE POKRYWA kosztów

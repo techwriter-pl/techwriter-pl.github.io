@@ -27,7 +27,7 @@ postanowili kontynuować konferencję w formie online. Jak było w tym roku? Czy
 coś się zmieniło? Jakie były tematy? O tym, i nie tylko, przeczytacie w dalszej
 części artykułu.
 
-## Informacje ogólne
+### Informacje ogólne
 
 Podobnie jak
 [Write the Docs Prague 2020](http://techwriter.pl/relacja-z-write-the-docs-prague-2020-online/),
@@ -38,7 +38,7 @@ Zespół organizatora podczas całej konferencji czuwał i po każdym wystąpien
 uczestniczył w sesjach Q&A, odpowiadał na pytania, pomagał w rozwiązywaniu
 problemów, zwłaszcza osobom, które dołączyły do społeczności po raz pierwszy.
 
-## Program
+### Program
 
 Pełną listę wystąpień i program znajdziecie
 [tutaj](https://www.writethedocs.org/conf/prague/2021/schedule/#sunday-october-3).
@@ -59,14 +59,14 @@ Kolejne dwa dni obfitowały w rozmowy między uczestnikami, liczne wykłady,
 i sesje
 [Unconference](https://www.writethedocs.org/conf/prague/2021/unconference/).
 
-## Najciekawsze przemówienia
+### Najciekawsze przemówienia
 
 Spośród 13 prezentacji wybraliśmy kilka, które najbardziej zapadły nam w pamięci
 i którymi chcielibyśmy się z Wami podzielić 😊
 
 No to zaczynamy!
 
-### Czy opinie klientów na temat dokumentacji mogą być przydatne?
+#### Czy opinie klientów na temat dokumentacji mogą być przydatne?
 
 Czy Wasza dokumentacja jest użyteczna? Co klient myśli o Waszym produkcie?
 Dlaczego tak długo musicie czekać na odpowiedź, a może nie otrzymujecie jej
@@ -112,7 +112,7 @@ Sprawcie, aby pozyskiwanie opinii klientów stało się priorytetem w Waszej
 organizacji. Kiedy otrzymacie wiadomość zwrotną, skontaktujcie się z klientem
 oraz dajcie mu szansę na wypowiedzenie się!
 
-### Jak zostać Freelancerem?
+#### Jak zostać Freelancerem?
 
 Wystąpienie
 [Karen Sawrey](https://twitter.com/krnswry?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
@@ -161,7 +161,7 @@ Na co uważać?
 warto dowiedzieć się jaki budżet ma firma na dany projekt. Freelancing to Wasza
 wolność podejmowania odważnych decyzji!
 
-### **Lingwistyka stosowana w pracy technical writera**
+#### **Lingwistyka stosowana w pracy technical writera**
 
 Czy zastanawialiście się jak rozumiana jest Wasza komunikacja? Czy Wasi rozmówcy
 mówią po angielsku, czy w swoim własnym języku, używając angielskich słów? Jeśli
@@ -196,7 +196,7 @@ Kilka wskazówek jak radzić sobie z rozwiązywaniem problemów językowych:
 Pamiętajcie! Kontekst jest kluczem w komunikacji! Bądźcie dla siebie
 wyrozumiali!
 
-### Jak radzić sobie z pracą w postcovidowej rzeczywistości?
+#### Jak radzić sobie z pracą w postcovidowej rzeczywistości?
 
 Praca zdalna w czasie pandemii stała się koniecznością w wielu firmach.
 Przeniesienie pracy z biura do domu nastąpiło dość szybko i nieoczekiwanie. Dla
@@ -241,7 +241,7 @@ pracować i nie zwariować?
   koleżankom, którzy dołączyli do Waszego zespołu.
 - Starać się utrzymywać stabilność.
 
-### Jak podróżować przez galaktykę narzędzi i procesów dokumentacyjnych?
+#### Jak podróżować przez galaktykę narzędzi i procesów dokumentacyjnych?
 
 Podczas swojego wystąpienia
 _[''](https://www.youtube.com/watch?v=RwzrF1g2vf4&list=PLZAeFn6dfHpnaoiOQyd9BYbQbprDGQjQ9&index=8)[Hitchhiker's Guide to Documentation Tools and Processes"](https://youtu.be/p8-ZLqYtD5o)_
@@ -288,7 +288,7 @@ projektu. Automagicznie!
 Całość stanowi bardzo wartościowy wkład do dziedziny komunikacji technicznej i z
 pewnością ułatwi życie członkom naszej społeczności.
 
-### Jak mózg reaguje na komunikaty o błędach aplikacji i jak wykorzystać tę wiedzę
+#### Jak mózg reaguje na komunikaty o błędach aplikacji i jak wykorzystać tę wiedzę
 
 [Ryan Macklin](https://www.linkedin.com/in/ryanmacklin/) podzielił się zebraną
 wiedzą z dziedziny neurobiologii podczas:
@@ -323,7 +323,7 @@ Wisienką na torcie jest wprowadzenie koncepcji _"mózgowych dolarów"_. Nie
 zdradzę tu szczegółów! Jeśli nie słuchaliście nagrania z tej prelekcji to
 zróbcie to teraz i przekonajcie się sami o czym mowa.
 
-### Ergonomia poznawcza w dokumentacji
+#### Ergonomia poznawcza w dokumentacji
 
 [Anita Diamond](https://www.linkedin.com/in/anita-diamond-16870557/) posiada
 bardzo bogatą wiedzę z wielu dziedzin, m. in. studiowała antropologię. W swoim
@@ -352,7 +352,7 @@ wymagań, na bazie których tworzone są materiały.
 Podsumowując, to dobrze przemyślana prezentacja, dzięki której możemy poszerzyć
 spojrzenie na dokumentację.
 
-### Jak stać się lepszym liderem dla Twojego zespołu
+#### Jak stać się lepszym liderem dla Twojego zespołu
 
 [Jenn Leaver](https://www.linkedin.com/in/jennleaver/) w swoim wystąpieniu
 _[''Docs leadership: How to become a stronger leader for your team''](https://youtu.be/3ceQ9xbRn3s)_
@@ -369,7 +369,7 @@ szyderstwa, bo warstwa wizualna tych slajdów ma bardzo staranie opracowany styl
 graficzny. Uczta dla ucha i
 oka.[![](images/upload_019.png)](http://techwriter.pl/wp-content/uploads/2021/10/upload_019.png)
 
-## Lightning talks
+### Lightning talks
 
 Z pośród  wszystkich  przemówień Lightning Talks, w imieniu redakcji,
 chcielibyśmy zaprosić Was do obejrzenia ''_The best tech writing you've never
@@ -394,7 +394,7 @@ https://www.youtube.com/watch?v=W-DlX8IuKMA
 Film ten jest inspirujący dla osób znajdujących się obecnie na progu czegoś
 nowego i (jeszcze) niekomfortowego.
 
-## Job Fairs
+### Job Fairs
 
 Konferencja nie tylko daje możliwość nawiązania nowych znajomości, ale też
 stwarza okazję do spotkań osób szukających pracy z firmami poszukującymi
@@ -406,7 +406,7 @@ pracowników. W tym roku na job fairs pojawili się:
 
 Można było z nimi porozmawiać na czacie lub umówić się na spotkanie 1:1.
 
-## Na koniec
+### Na koniec
 
 Ze swojej strony, mamy nadzieję, że trochę Was zainteresowaliśmy, i być może
 dołączycie na wydarzenie w przyszłym roku, jeśli jeszcze nie mieliście okazji 😊

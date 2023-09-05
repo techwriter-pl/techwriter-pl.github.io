@@ -29,7 +29,7 @@ dokumentacji. O tym właśnie był meetup 2 października, w którym mieliśmy
 przyjemność uczestniczyć w krakowskiej siedzibie ABB, a składał się z dwóch
 prezentacji:
 
-## DevOps engineer najlepszym przyjacielem technical writera
+### DevOps engineer najlepszym przyjacielem technical writera
 
 DevOps to jedno ze słów, które od pewnego czasu robi zawrotną karierę. Coraz
 więcej firm chce mieć takich specjalistów u siebie. Kim oni są? Co robią? Jak
@@ -41,7 +41,7 @@ Pieczyrak, Marcin Wilk, Piotr Sroka.
 
 Naszym skromnym zdaniem wyszło im to nie najgorzej 😊
 
-## Jak przypadkiem wprowadziliśmy standard i czego nas to nauczyło
+### Jak przypadkiem wprowadziliśmy standard i czego nas to nauczyło
 
 Paweł Kowaluk opowiedział nam swoją historię - w jego firmie chcieli mieć jeden
 standard utrzymywania źródeł dokumentacji. Życie jednak zweryfikowało te

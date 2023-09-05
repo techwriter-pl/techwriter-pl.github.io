@@ -19,7 +19,7 @@ jego wyniki.
 
 <!--truncate-->
 
-# **Porównanie z poprzednim rokiem**
+## **Porównanie z poprzednim rokiem**
 
 [Wyniki poprzedniego badania](http://techwriter.pl/wyniki-badania-plac-w-komunikacji-technicznej/)
 opublikowaliśmy na naszych łamach w kwietniu 2017. Jak wynik zmienił się od
@@ -41,7 +41,7 @@ Trzy najwyższe wynagrodzenia należą do technical writerów z województwa
 małopolskiego (dwie osoby odpowiedziały 16 tys. i jedna 15 tys.). W tym roku w
 czołówce nie znalazł się nikt na stanowisku kierowniczym.
 
-# **Profesje**
+## **Profesje**
 
 W zeszłym roku, 87% respondentów identyfikowała się jako technical writerzy. W
 tym roku ta wartość nieznacznie zwiększyła się na korzyść innych profesji w
@@ -67,7 +67,7 @@ wpisana w polu “inny” przez jedną tylko osobę. W kategorii “Technical wr
 pewno jest szereg osób, których oficjalna nazwa stanowiska to “Senior Technical
 Writer”, a może też inne, jak na przykład “Principal Technical Writer”.
 
-# **Przygotowanie do zawodu, doświadczenie i rozwój**
+## **Przygotowanie do zawodu, doświadczenie i rozwój**
 
 85% badanych określa swoje przygotowanie do wykonywania zawodu jako pochodzące
 ze szkoleń i doświadczenia w pracy. Niewiele się zmieniło od poprzedniego roku,
@@ -94,7 +94,7 @@ odpowiadają naszym ankietowanym.
 
 [![](images/image4.png)](http://techwriter.pl/wp-content/uploads/2018/04/image4.png)
 
-# **Firma, branża**
+## **Firma, branża**
 
 Większość badanych (ponad 70%) pracuje w firmie zagranicznej, z czego ponad
 połowa z nich to firmy zatrudniające powyżej 1000 osób.
@@ -116,7 +116,7 @@ koleżanek pisze dokumentację do oprogramowania i API.
 | meble, sprzęt wojskowy                                       | 1                   |
 | Administracja serwerów                                       | 1                   |
 
-# **Geografia**
+## **Geografia**
 
 Zdecydowana większość badanych identyfikuje się z województwem małopolskim.
 
@@ -135,7 +135,7 @@ Do wyjątków spoza regionu należą między innymi
 [MeetContentWRO](http://meetcontent.org/) na Dolnym Śląsku i
 [uContentowani](https://www.facebook.com/ucontentowani/) na Pomorzu.
 
-# **Zadowolenie z wykonywanej pracy**
+## **Zadowolenie z wykonywanej pracy**
 
 Większość respondentów lubi swoją pracę - **62 osoby (78%)** dało jej 4 lub 5
 punktów. Tylko jedna osoba jest bardzo niezadowolona ze swojej pracy. Może
@@ -150,9 +150,9 @@ pomogą zrobic pierwszy krok ku zmianie na lepsze?
 | 2                                                              | 1                   |
 | 1 - bardzo nie lubię swojej pracy                              | 1                   |
 
-# **Wynagrodzenia brutto**
+## **Wynagrodzenia brutto**
 
-## **Według zadowolenia z pracy**
+### **Według zadowolenia z pracy**
 
 Najwyższe zadowolenie pokrywa się z najwyższą średnią wynagrodzeń, ale nie z
 najwyższą medianą.
@@ -165,7 +165,7 @@ najwyższą medianą.
 | 2                                                              | 6500    | 6500    | 1                   |
 | 1 - bardzo nie lubię swojej pracy                              | 3000    | 3000    | 1                   |
 
-## **Według profesji**
+### **Według profesji**
 
 Poszczególne profesje posortowane od najwyższej mediany prezentują się
 następująco:
@@ -186,7 +186,7 @@ Wśród osób, które identyfikują się ze stanowiskiem technical writer:
 - Najwyższe wynagrodzenie wynosi: 15000 - 16000 brutto (3 osoby)
 - Najniższe wynosi: 3000 - 4000 brutto (5 osób)
 
-## **Według województw**
+### **Według województw**
 
 Jeżeli spojrzymy na średnią i medianę per województwo, to wizualnie, wygląda to
 tak:
@@ -212,7 +212,7 @@ Najlepiej zarabiają respondenci z województwa pomorskiego. Województwo
 małopolskie, które ma najwięcej respondentów, pokazuje też najbardziej
 uśredniony wynik.
 
-## **Według pochodzenia firmy**
+### **Według pochodzenia firmy**
 
 Większość respondentów pracuje dla firm zagranicznych, i tam też mediana i
 średnia zarobków jest najwyższa.
@@ -222,14 +222,14 @@ Większość respondentów pracuje dla firm zagranicznych, i tam też mediana i
 | Firma międzynarodowa                | 7845    | 7150    | 62                  |
 | Firma polska                        | 5651    | 5255    | 18                  |
 
-## **Według stażu pracy**
+### **Według stażu pracy**
 
 Staż pracy wydaje się być najprostszym predyktorem wynagrodzenia - im dłużej
 ktoś pracuje, tym wyższe wynagrodzenie.
 
 [![](images/image7.png)](http://techwriter.pl/wp-content/uploads/2018/04/image7.png)
 
-## **Według rodzaju dokumentacji**
+### **Według rodzaju dokumentacji**
 
 Większość respondentów tworzy dokumentację do oprogramowania lub API, i nie
 widać żadnych tendencji w zarobkach względem tego kryterium.
@@ -239,7 +239,7 @@ widać żadnych tendencji w zarobkach względem tego kryterium.
 - Nie ma też żadnego innego rodzaju dokumentacji, która by sugerowała wyłącznie
   niskie lub wyłącznie wysokie wynagrodzenia.
 
-## **Według zaangażowania w rozwój zawodowy**
+### **Według zaangażowania w rozwój zawodowy**
 
 Wyniki ankiety nie wskazuję korelacji między rozwojem zawodowym a
 wynagrodzeniem. Osoby, które nie deklarują uczestniczenia w żadnych wydarzeniach
@@ -247,7 +247,7 @@ czy szkoleniach poza pracą należą do najlepiej jak i najgorzej zarabiających
 szkoda, bo dobrze by było wykazać, że tylko aktywni uczestnicy społeczności
 zarabiają dobrze. 😉
 
-# **Podsumowanie**
+## **Podsumowanie**
 
 Podobnie jak poprzednim roku, ankieta pokazuje raczej przykładowe dane niż
 trendy, ponieważ mamy zbyt mała liczbę respondentów, żeby mówić o statystycznej

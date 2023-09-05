@@ -25,7 +25,7 @@ będziemy śledzić zmiany i uzupełniać dane w miarę ich pojawiania się. Do 
 mamy prośbę - jeśli wiecie o jakimś wydarzeniu związanym z branżą komunikacji
 technicznej, dajcie znać, a my przekażemy info dalej 😉
 
-### Styczeń
+#### Styczeń
 
 10-13 stycznia - [IC4E 2021](http://www.ic4e.net/) - **online**
 
@@ -38,7 +38,7 @@ technicznej, dajcie znać, a my przekażemy info dalej 😉
 31 stycznia - 5 lutego - [interaction21](https://interaction21.ixda.org/) -
 **online**
 
-### Luty
+#### Luty
 
 09-10 lutego - [UX Writer Conference'21](https://uxwriterconference.com/) -
 **online**
@@ -59,7 +59,7 @@ technicznej, dajcie znać, a my przekażemy info dalej 😉
 [The 10th Symposium on Communicating Complex Information (SCCI)](https://scciannual.com/) -
 **online**
 
-### Marzec
+#### Marzec
 
 01-02 marca - [The UX Conference](https://theuxconf.com/) - **online**
 
@@ -88,7 +88,7 @@ technicznej, dajcie znać, a my przekażemy info dalej 😉
 [2021 Annual eLearning](https://www.itcnetwork.org/annual-conference-elearning) -
 **online** (strefy czasowe: obie Ameryki, Europa, Indie)
 
-### Kwiecień
+#### Kwiecień
 
 15-16 kwietnia - [Request 2021](https://2020.request.pl/) - **online**
 
@@ -118,7 +118,7 @@ technicznej, dajcie znać, a my przekażemy info dalej 😉
 
 28-30 kwietnia - [IAC 21](http://www.theiaconference.com/) - **online**
 
-### Maj
+#### Maj
 
 Ryga, Łotwa - [UX Riga](https://www.uxriga.com/) - dokładna data nie jest
 jeszcze ogłoszona
@@ -131,7 +131,7 @@ jeszcze ogłoszona
 
 05-07 maja - [Confab 2021](https://www.confabevents.com/) - **online**
 
-### Czerwiec
+#### Czerwiec
 
 01-04 czerwca, Londyn, Wielka Brytania -
 [Design Thinking & Innovation Week](https://futurelondonacademy.co.uk/en/course/design-thinking-and-innovation)

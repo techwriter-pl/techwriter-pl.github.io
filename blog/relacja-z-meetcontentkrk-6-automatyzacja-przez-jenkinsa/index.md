@@ -28,7 +28,7 @@ powtarzać tego o czym mówił, podajemy
 Natomiast oto kilka rzeczy, o których była mowa, a których nie znajdziecie na
 slajdach.
 
-# Kim jest Michał?
+## Kim jest Michał?
 
 [![](images/DSC6781-01-512x512-150x150.jpeg)](http://techwriter.pl/wp-content/uploads/2017/11/DSC6781-01-512x512.jpeg)
 
@@ -58,7 +58,7 @@ medialny"). Poza tym aktywnie działa i szkoli w ramach
 I jak się okazuje, Michał jest też porywającym prezenterem, o czym poświadczą
 uczestnicy MeetContentKRK #6.
 
-# Kto się boi automatyzacji?
+## Kto się boi automatyzacji?
 
 Chyba nikt. Żaden z uczestników nie mówił "mogę to zrobić szybciej, ale co będę
 robił ze swoim czasem?" albo z angielska "work keeps us employed" sugerując, że
@@ -71,7 +71,7 @@ Windows CMD (Batch files) czy Uniksowych skryptów powłoki.
 
 [![](images/automate-documentation-publishing-with-jenkins-27-1024-1024x576.jpg)](http://techwriter.pl/wp-content/uploads/2017/11/automate-documentation-publishing-with-jenkins-27-1024.jpg)
 
-# Kto następny?
+## Kto następny?
 
 MeetContent szuka osób z ciekawymi tematami. Jeżeli podchodzisz do swojej pracy
 z pasją i tworzysz treść z natchnieniem, podziel się doświadczeniami,

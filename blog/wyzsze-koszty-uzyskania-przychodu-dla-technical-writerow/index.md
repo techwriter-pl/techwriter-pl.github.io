@@ -37,7 +37,7 @@ późno niż później 😉 Zapraszamy do lektury. Jest tego trochę, ale poświ
 czasu na zapoznanie się z zebranym przez nas materiałem może się wielu z Was
 opłacić.
 
-# Słowem wstępu
+## Słowem wstępu
 
 W Polsce stosowane są dwie stawki dla kosztów uzyskania przychodu: 20% i 50%.
 Jest to kwota, którą odejmujemy od swojego przychodu zanim zaczniemy naliczać
@@ -51,7 +51,7 @@ części wynagrodzenia z tytułu praw autorskich mają zastosowanie 50% koszty
 uzyskania przychodu, a do pozostałej części wynagrodzenia zwykłe koszty
 pracownicze.
 
-# Kto się łapie?
+## Kto się łapie?
 
 Prawo do stosowania 50% kosztów uzyskania przychodu mają m.in. pracownicy
 uczelni wyższych, instytucji naukowych oraz innych placówek naukowo-badawczych.
@@ -59,7 +59,7 @@ Takie prawo przysługuje też pracownikom innych zawodów pod warunkiem, że ich
 praca ma charakter twórczy. Na przykład informatyk zatrudniony na umowę o pracę
 może wykonywać pracę twórczą pisząc programy komputerowe.
 
-# Regulacje prawne
+## Regulacje prawne
 
 Koszty uzyskania przychodów ustala się zgodnie z przepisem art. 22 ust. 9 pkt 3
 ustawy o PIT. Przepis ten stanowi, że koszty uzyskania przychodu określa się w
@@ -111,7 +111,7 @@ twierdząco odpowiedzieć na poniższe pytania:
   o prawie autorskim i prawach pokrewnych)?
 - Czy strona umowy jest twórcą bądź artystą wykonawcą w rozumieniu tej ustawy?
 
-# Limit kosztów
+## Limit kosztów
 
 Zgodnie z art. 22 ust. 9a updof, w roku podatkowym łączne 50% koszty uzyskania
 przychodów nie mogą przekroczyć 1/2 kwoty, która stanowi górną granicę
@@ -120,27 +120,27 @@ roczny limit 50% kosztów uzyskania przychodów wynosi 42.764 zł (1/2 z 85.528
 zł). Więcej szczegółów na temat limitów możecie znaleźć
 [tutaj](http://www.wskazniki.gofin.pl/8,94,2,koszty-uzyskania-przychodow.html).
 
-# Dokumentacja
+## Dokumentacja
 
 Pracodawca musi posiadać stosowne dokumenty, które potwierdzają możliwość
 naliczania 50% kosztów uzyskania przychodu. Są to umowa o pracę lub aneks do
 umowy, które określają jaka część wynagrodzenia dotyczy wykonywania obowiązków
 niezwiązanych z pracą twórczą oraz spis utworów autorskich
 
-# Kiedy to nie działa?
+## Kiedy to nie działa?
 
 50% kosztów nie można stosować podczas urlopu wypoczynkowego oraz zwolnienia
 lekarskiego. Za ten okres pracownik ma wypłacane wynagrodzenie za urlop albo
 zasiłek chorobowy.
 
-# Czy dokumentaliści też się łapią?
+## Czy dokumentaliści też się łapią?
 
 Teoria teorią, ale czy dokumentaliści mogą rzeczywiście skorzystać z tego
 przywileju? Żeby znaleźć odpowiedź na to pytanie, zrobiliśmy rozeznanie tu i
 tam, czego owocem są z życia wzięte przykłady przedstawione poniżej. Wszelka
 zbieżność imion, nazwisk czy innych danych jest całkowicie przypadkowa.
 
-## Przykład 1
+### Przykład 1
 
 Roman pracuje jako dokumentalista w średniej wielkości firmie informatycznej.
 Zatrudniony jest na umowę o pracę na pełen etat. Na początku warto zaznaczyć, że
@@ -211,7 +211,7 @@ stosowania większych kosztów:**
   koszty uzyskania przychodu powodują, że jego rodzina nie przekracza progu
   zarobków określonego dla ulgi na dziecko.**
 
-## Przykład 2
+### Przykład 2
 
 Ryszard pracuje jako dokumentalista w dużej międzynarodowej firmie
 informatycznej. Zatrudniony jest na umowę o pracę na pełen etat. Zanim jego
@@ -245,7 +245,7 @@ np. o akceptacji raportu. W danym miesiącu istnieje możliwość nieraportowani
 żadnej pracy twórczej. Wtedy do całości wynagrodzenia mają zastosowanie zwykłe
 koszty pracownicze.
 
-## Przykład 3
+### Przykład 3
 
 Na koniec chcemy przytoczyć krótki przykład, którego według nas nie należy
 powielać, ponieważ jest to rozwiązanie najmniej przyjazne dla pracownika.
@@ -265,7 +265,7 @@ koszty pracownicze. Raz w roku od działu finansów, dostaje ona swego rodzaju
 suplement na podstawie którego rozliczając swój PIT może żądać zwrotu
 nadpłaconego podatku od urzędu skarbowego.
 
-# Wniosek
+## Wniosek
 
 Jak widać 50% koszty uzyskania przychodu można z powodzeniem stosować na
 stanowisku Technical Writera. Wszelkie tłumaczenia, że nie da się tego zrobić

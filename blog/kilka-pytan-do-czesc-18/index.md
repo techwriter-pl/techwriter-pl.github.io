@@ -19,7 +19,7 @@ Zapraszamy na wywiad z naszą nową koleżanką 😊 Poznajcie Martynę Toporek!
 
 W tym roku zdałam sobie sprawę, że minęło już 6 lat.
 
-### W jaki sposób zostałaś Tech Writerem?
+#### W jaki sposób zostałaś Tech Writerem?
 
 Przez 5 lat byłam związana z branżą spożywczą i tworzyłam specyfikacje wyrobów
 (podają wytyczne, jak ma wyglądać dany produkt, tj.: składniki, opis wyrobu,
@@ -32,7 +32,7 @@ Napisałam ją i, szczerze mówiąc, tak bardzo mi się to spodobało, że pomy�
 „To musi być dla mnie nowy zawód!”. Tak się zaczęła moja przygoda z
 dokumentacją.
 
-### Czy możesz opowiedzieć coś o swojej firmie i zespole, w którym pracujesz?
+#### Czy możesz opowiedzieć coś o swojej firmie i zespole, w którym pracujesz?
 
 Grupa Comatec świadczy usługi projektowania inżynierskiego. Comatec Poland jest
 jednym z największych oddziałów grupy. Swoją historią sięga do 2009 roku. Dzięki
@@ -42,7 +42,7 @@ rynku, firma stała się jedną z wiodących w swojej branży. W Grupie Comatec 
 jednak start. Planujemy wykorzystać naszą wiedzę i doświadczenie i pozyskać oraz
 przygotować kolejnych członków zespołu.
 
-### W jaki sposób jest zorganizowana praca Twoja i Twojego zespołu?
+#### W jaki sposób jest zorganizowana praca Twoja i Twojego zespołu?
 
 Dostosowujemy nasze podejście do wymagań klienta i projektu, są to prace
 związane z aktualizacją istniejącej dokumentacji lub tworzenie jej od początku.
@@ -54,7 +54,7 @@ wiedzy. Nie pracujemy w jakiejś konkretnej metodzie zarządzania projektem,
 najważniejsze jest dla nas dostarczenie dokumentacji na czas oraz zgodnie z
 wymaganiami klienta.
 
-### Jakich narzędzi używasz i co o nich sądzisz?
+#### Jakich narzędzi używasz i co o nich sądzisz?
 
 Pracujemy na własnym narzędziu, które działa w przeglądarce jako usługa w
 chmurze (SaaS). Jest elastyczny i przyjazny dla użytkownika Comatec CMS.
@@ -64,7 +64,7 @@ Wcześniej pracowałam na różnych systemach CMS, każdy z nich ma swoje wady i
 zalety. Jednak najważniejsza jest możliwość tworzenia wersji i dostarczenia
 dokumentów w różnych formatach.
 
-### W jaki sposób zdobywasz informacje potrzebne do tworzenia dokumentacji?
+#### W jaki sposób zdobywasz informacje potrzebne do tworzenia dokumentacji?
 
 Wszystko zależy od projektu, do którego ma powstać dokumentacja. Często są to
 wywiady z naszymi klientami, serwisem lub innymi autorami dokumentacji. Staram
@@ -74,7 +74,7 @@ wcześniej stworzonej dokumentacji. Wraz z rozwojem technologii dużą uwagę
 skupiamy na kwestiach bezpieczeństwa i obserwujemy, jak rozwija się
 zautomatyzowana produkcja.
 
-### Jakie dokumenty dostarczasz, w jakiej postaci, w jakich językach i jak są one publikowane?
+#### Jakie dokumenty dostarczasz, w jakiej postaci, w jakich językach i jak są one publikowane?
 
 Jest to zależne od potrzeb projektu - dostarczamy dokumentację w wersji HTML
 oraz PDF. Dokumentacja w zależności od potrzeb jest tworzona w języku polskim
@@ -82,19 +82,19 @@ lub angielskim, gdy jest to wymagane używamy STE (Simplify Technical English).
 Przekładem na inne języki zajmuje się biuro tłumaczeń, z którym firma
 współpracuje.
 
-### Jakie produkty opisujesz?
+#### Jakie produkty opisujesz?
 
 Zajmuję się głównie tworzeniem dokumentacji maszyn, linii technologicznych i
 urządzeń dla różnych gałęzi przemysłu od urządzeń codziennego użytku po maszyny
 górnicze.
 
-### Czy oprócz tworzenia dokumentacji zajmujesz się czymś jeszcze, np. tworzeniem materiałów marketingowych? Jeśli tak, to czym i jakich narzędzi do tego używasz?
+#### Czy oprócz tworzenia dokumentacji zajmujesz się czymś jeszcze, np. tworzeniem materiałów marketingowych? Jeśli tak, to czym i jakich narzędzi do tego używasz?
 
 Poza pisaniem dokumentacji tworzę też ilustracje, czasem infografiki. Używam do
 tego programów Adobe Ilustrator lub Corel Draw. Lubię też tworzyć wewnętrzne
 prezentacje i materiały pomocnicze.
 
-### Jakie są największe wyzwania, które napotykasz w swojej pracy?
+#### Jakie są największe wyzwania, które napotykasz w swojej pracy?
 
 To jest dobre pytanie, wyzwań jest sporo i do każdego projektu powinniśmy
 podejść indywidualnie. Dokumentacja musi spełniać określone standardy oraz
@@ -113,7 +113,7 @@ wystarczająco zrozumiała, edukowanie klientów na czym tak naprawdę nam zale�
 jaki jest cel, który chcemy osiągnięć. To tylko część wyzwań, z którymi mierzę
 się na co dzień.
 
-### Co najbardziej lubisz w pracy Tech Writera?
+#### Co najbardziej lubisz w pracy Tech Writera?
 
 W dziedzinie dokumentacji zawsze pracujemy z nowym lub najbardziej aktualnym
 produktem dlatego ta praca jest zawsze fascynująca 😊. Można poprzez pisanie
@@ -123,7 +123,7 @@ ludzi, którzy z natury są konstruktorami czy pomysłodawcami danego projektu c
 mnie osobiście inspiruje do działania, jak również pozwala poznać potrzeby i
 problemy, z jakimi mają do czynienia w swojej pracy.
 
-### Co byś radziła osobom, które chciałyby zacząć swoją przygodę z pisaniem dokumentacji?
+#### Co byś radziła osobom, które chciałyby zacząć swoją przygodę z pisaniem dokumentacji?
 
 Próbować! Nie jest to łatwa praca, często żeby stworzyć jakiś tekst trzeba się
 dobrze zastanowić i spędzić niekiedy wiele godzin na przepisywaniu własnej

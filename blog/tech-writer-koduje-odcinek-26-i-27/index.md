@@ -21,7 +21,7 @@ podcastu [Tech Writer koduje](https://techwriterkoduje.pl/). Szczegóły poniże
 
 <!--truncate-->
 
-### Odcinek 26
+#### Odcinek 26
 
 Głównym tematem rozmowy Michała i Pawła jest tym razem dokumentacja do API,
 która w dzisiejszych czasach zyskuje na znaczeniu. Przyspieszony rozwój
@@ -40,7 +40,7 @@ ciekawych spostrzeżeń i wielu przykładów z życia technical writerów, któr
 co dzień zajmują się dokumentacją. Podcast znajdziecie
 [tutaj](https://techwriterkoduje.pl/blog/2021/02/10/tech-writerzy-dokumentuja-api).
 
-### Odcinek 27
+#### Odcinek 27
 
 Chcesz lepiej rozumieć kod, który opisujesz? Chcesz zautomatyzować żmudne
 aspekty swojej pracy? Chcesz móc powiedzieć śmiało i dumnie - znam Pythona?

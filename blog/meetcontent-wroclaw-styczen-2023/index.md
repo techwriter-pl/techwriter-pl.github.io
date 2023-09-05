@@ -17,7 +17,7 @@ na kolejną edycję. Najważniejsze informacje znajdziecie poniżej.
 
 <!--truncate-->
 
-### Kilka słów o organizatorach
+#### Kilka słów o organizatorach
 
 Dla przypomnienia garść informacji i organizatorach i samym przedsięwzięciu.
 
@@ -36,12 +36,12 @@ dyskusyjnego wokół tematu: _How to hire Technical Writers and how to be hired 
 one_. Zainteresowanych zachęcamy do zapoznania się z naszą
 [relacją z tego spotkania](http://techwriter.pl/meetcontentwro-wraca/).
 
-### Co nas czeka?
+#### Co nas czeka?
 
 Styczniowy meetup będzie składał się z dwóch prezentacji. Każda z nich będzie
 mówić o dokumentacji technicznej z nieco innej perspektywy.
 
-### Prelegenci
+#### Prelegenci
 
 W pierwszej prezentacji, Ed Portas, Head of Technical Communications Department
 w Ocado, opowie o korzyściach płynących z podejścia: _Documentation as a
@@ -57,13 +57,13 @@ zbalansowanej wizji, gdzie nierzadko to właśnie content determinuje odbiór
 produktu. Dowiecie się jak zaprojektować pozytywny user experience zapewniając
 należną równowagę między contentem a designem.
 
-### Termin i miejsce
+#### Termin i miejsce
 
 Termin najbliższego spotkania planowany jest na **25 stycznia 2023**, o godzinie
 **18:00** **w siedzibie firmy Ocado** przy ul. Szewskiej 8 we Wrocławiu (piętro
 4, wejście na lewo od pączków).
 
-### Dlaczego ten meetup jest dla Ciebie?
+#### Dlaczego ten meetup jest dla Ciebie?
 
 Każdy z meetupów ma na celu rozwijanie wiedzy, dzielenie się doświadczeniami i
 ciekawymi rozwiązaniami z szeroko rozumianej dziedziny tech writingu.
@@ -74,7 +74,7 @@ Po każdym meetupie zaplanowana jest część nieformalną, gdzie przy pizzy i c
 do picia, będzie mnóstwo czasu, żeby zadać pytania prowadzącym, podyskutować lub
 po prostu poznać nowych ludzi.
 
-### Zapisy
+#### Zapisy
 
 Aby wziąć udział w wydarzeniu należy wypełnić formularz zgłoszeniowy. Dzięki
 temu organizatorzy mogą zadbać o odpowiednią ilość pizzy!

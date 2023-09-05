@@ -20,7 +20,7 @@ partnera medialnego wydarzenia, uprzejmie donosimy, co się wydarzyło.
 
 <!--truncate-->
 
-# Zaczynamy
+## Zaczynamy
 
 Konferencję otworzył Agenor Hofmann-Delbor, współautor książki "Programiści i
 tłumacze. Wprowadzenie do lokalizacji oprogramowania" oraz, jak udało nam się
@@ -32,7 +32,7 @@ dobrą rozgrzewką przed pierwszymi prelekcjami.
 width="590"\][![](images/konf_tlum_otwarcie-1024x576.jpg)](http://techwriter.pl/wp-content/uploads/2018/10/konf_tlum_otwarcie.jpg)
 Źródło: zasoby organizatora Konferencji Tłumaczy\[/caption\]
 
-# Technologie tłumaczeniowe z innej perspektywy
+## Technologie tłumaczeniowe z innej perspektywy
 
 Przy mównicy ponownie pojawił się Agenor z prezentacją pt. **"Od troglodytów do
 kosmitów, czyli krótka historia technologii tłumaczeniowych"**. Wbrew temu, co
@@ -82,7 +82,7 @@ spojrzeć na to zagadnienie przez pryzmat kultury i historii. Dzięki temu
 będziemy w stanie sobie uświadomić szerszy kontekst, w jakim osadzona jest
 branża tłumaczeniowa.
 
-# Tłumaczenia maszynowe - wchodzisz w to?
+## Tłumaczenia maszynowe - wchodzisz w to?
 
 Kolejnym wystąpieniem, które wzbudziło nasze zainteresowanie była prezentacja
 Arety Kempińskiej z Bireta Professional Translations pt. "**Przejść na ciemną
@@ -133,7 +133,7 @@ dynamicznie. Warto przyjrzeć się temu, co oferuje rynek, nawet jeśli kilka
 miesięcy temu już to robiliśmy, bo w tym krótkim czasie naprawdę sporo mogło się
 zmienić.
 
-# Tabloidyzacja przejmuje świat
+## Tabloidyzacja przejmuje świat
 
 Profesor Katarzyna Kłosińska, którą możecie kojarzyć z radiowej Trójki, uraczyła
 nas bardzo ciekawą prezentacją pt. "**Od tabloidyzacji przekazu do tabloidyzacji
@@ -193,7 +193,7 @@ czy naruszenie fundamentalnych zasad poprawnej polszczyzny. Tabloidyzacja może
 być groźna, jeśli nie jesteśmy świadomi, że takie zjawisko istnieje, i kiedy nie
 umiemy ocenić, które formy są poprawne.
 
-# Co ma UX do tłumaczeń
+## Co ma UX do tłumaczeń
 
 Na koniec konferencji pojawił się akcent z komunikacji technicznej. Ewa Dacko w
 swojej prezentacji "**UX w tłumaczeniach – hit, kit czy mit?"**, starała się nam
@@ -248,7 +248,7 @@ Materiały z prezentacji znajdziecie na stronie prelegentki:
 - [Brief UX](https://drive.google.com/open?id=1xgfgNgBp9yQpciayeRe74FSilWsMT4I_)
 - [Szablon persony](https://drive.google.com/open?id=18iig5KmUpb6098KW1-PGOOYN0zKhHQGl)
 
-# Porozmawiajmy o przyszłości
+## Porozmawiajmy o przyszłości
 
 Między prezentacjami odbyła się dyskusja, w której specjaliści od tłumaczenia i
 komunikacji technicznej połączyli siły, żeby porozmawiać o komunikacji
@@ -284,7 +284,7 @@ Metodą osiągnięcia takiej owocnej współpracy jest oczywiście… komunikacj
 strony muszą zadbać o systematyczną wymianę wiedzy i doświadczeń oraz nie bać
 się konstruktywnej krytyki.
 
-# Podsumowanie
+## Podsumowanie
 
 Konferencja Tłumaczy nie była wydarzeniem związanym bezpośrednio z komunikacją
 techniczną. Jednak dużą częścią naszego zawodu jest budowanie mostów

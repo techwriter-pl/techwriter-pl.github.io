@@ -30,7 +30,7 @@ jest do autorów technicznych, specjalistów od lokalizacji, menedżerów, tłum
 i wszystkich zainteresowanych komunikacją techniczną i lokalizacją. Szczególnie
 przydatna może okazać się dla osób korzystających z programu MadCap Flare.
 
-# Dlaczego warto się wybrać?
+## Dlaczego warto się wybrać?
 
 Oprócz atrakcyjnego miejsca i codziennych lunchów, konferencja kusi przede
 wszystkim szerokim wachlarzem prezentacji, warsztatów i dyskusji.
@@ -54,7 +54,7 @@ innych części świata. Swój udział w konferencji zapowiedzieli, między inn
 - Bosse Engstrand (S)
 - Mattias Sander (S)
 
-# Informacje praktyczne
+## Informacje praktyczne
 
 Szczegółowych informacji o przebiegu konferencji najlepiej zasięgnąć u samego
 [źródła](http://write2users.com/w2u-conference-2017/). Bilety natomiast można
@@ -71,7 +71,7 @@ cenie? Organizatorzy oferują kilka możliwości:
 Zdecydowanie najkorzystniejszym rozwiązaniem jest jednak... zabranie ze sobą
 drugiej osoby. Na drugi bilet dostaniemy bowiem **50% zniżki** 😊
 
-# Zapraszamy!
+## Zapraszamy!
 
 Write2Users 2017 zapowiada się co najmniej interesująco i już wkrótce będziecie
 mogli siegnąć po naszą oficjalną relację. Jednak nawet Techwriter.pl nie zastąpi

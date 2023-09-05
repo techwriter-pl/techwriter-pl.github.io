@@ -21,21 +21,21 @@ zmianie pracy - oto ciekawa propozycja:
 
 ---
 
-# **Technical Writer**
+## **Technical Writer**
 
-### Podstawowe informacje:
+#### Podstawowe informacje:
 
 - Praca 100% zdalna
 - Pełny etat
 - Start: najchętniej od zaraz – rozpatrujemy Kandydatów z max 1-miesiecznym
   okresem dostępności
 
-### Wynagrodzenie:
+#### Wynagrodzenie:
 
 - W zależności od umiejętności: 400 – 580 PLN netto + VAT /dzień
 - B2B (możliwa także UoP)
 
-### Obowiązki:
+#### Obowiązki:
 
 - Tworzenie dokumentacji technicznej (functional specifications, user
   requirements specifications)
@@ -43,7 +43,7 @@ zmianie pracy - oto ciekawa propozycja:
 - Aktualizowanie wcześniejszych wersji dokumentacji użytkownika
 - Kontakt z Analitykami Biznesowymi oraz działem IT w celu zbierania wymagań
 
-### Wymagania:
+#### Wymagania:
 
 - Doświadczenie w pracy na stanowisku Technical Writera w branży IT na dowolnym
   etapie wytwarzania oprogramowania – rozumienie, na czym to polega (cykl
@@ -55,12 +55,12 @@ zmianie pracy - oto ciekawa propozycja:
 - Bardzo dobra znajomość języka angielskiego – min. C1
 - Samodzielność, terminowość
 
-### Mile widziane:
+#### Mile widziane:
 
 - Podstawowa znajomość JIRA i Confluence
 - Doświadczenie w analizie biznesowej
 
-### Kontakt:
+#### Kontakt:
 
 - Adres do aplikowania: jkirenia(at)astek.pl
 - [Link do ogłoszenia na stronie ASTEK](http://astek.pl/oferty/technical-writer-3046274/)

@@ -25,7 +25,7 @@ writer w swojej karierze doświadczył mierzenia się z trudnymi zadaniami,
 wymagającymi heroicznej postawy i ogromnego zaangażowania, co można określić
 jako coś niecodziennego :-).
 
-## **Odrobina magii**
+### **Odrobina magii**
 
 Niemożliwe staje się możliwe. Czekając na prezent wierzymy, że otrzymamy
 dokładnie to o co poprosiliśmy, że nasze marzenia zostaną spełnione. Na Mikołaju
@@ -39,7 +39,7 @@ musi wymyślić co powinna ona zawierać, nie znając dobrze produktu, ale w
 ostateczności udaje się to osiągnąć. Można powiedzieć, że trochę magii w tym
 jest.
 
-## **Gadżety**
+### **Gadżety**
 
 Świętemu Mikołajowi nie powinno zabraknąć worka na prezenty, dzwonka - którym
 informuje o swoim przybyciu, sani i reniferów.  Bez tych gadżetów jego praca
@@ -50,7 +50,7 @@ robienia screenshotów lub grafik, korzysta z różnych baz danych i źródeł, 
 zebrać niezbędne informacje. Co pozwala mu „wyczarować” to o co został
 poproszony.
 
-## **Deadliny i spełnianie życzeń**
+### **Deadliny i spełnianie życzeń**
 
 Mikołaj ma zaledwie jedną noc na rozwiezienie wszystkich prezentów. Dość krótki
 deadline 🤔. Ma jednak cały rok, aby zaplanować pracę i zrealizować wszystkie
@@ -63,7 +63,7 @@ dużej ilość dokumentów, zapoznaniem się z produktem, zaplanowaniem zadań, 
 koniec sprostać wymaganiom klienta czy też użytkownika końcowego. Tak jak w
 przypadku Mikołaja nie zawsze udaje się to bez niespodzianek 😉.
 
-## **Listy, notatki, rysunki**
+### **Listy, notatki, rysunki**
 
 Mikołaj otrzymuje listy i musi zdecydować, które dzieci były grzeczne, a które
 nie oraz kto dostanie prezent, a kto rózgę. Ponadto musi rozszyfrować wiadomości
@@ -99,7 +99,7 @@ Można powiedzieć też, że technical writer tłumaczy z inżynierskiego na ję
 zrozumiały dla klienta 😊. Często niby mówimy w tym samym języku, a jednak łatwo
 o nieporozumienia.
 
-## **Praca zespołowa**
+### **Praca zespołowa**
 
 W historii kształtowania się wizerunku Mikołaja obok samej jego postaci,
 pojawiły się renifery, które pomagają ciągnąć sanie z prezentami, elfy pracujące
@@ -113,7 +113,7 @@ dostarczyć materiały do stworzenia dokumentacji. Praca zespołowa bez wątpien
 wpływa na jakość dostarczonych dokumentów i zadowolenie użytkownika, który nie
 przychodzi i nie mówi, że czegoś tu brakuje.
 
-## **Pomoc**  
+### **Pomoc**  
 
 Święty Mikołaj spełnia życzenia dzieci i dorosłych, przynosi prezenty, pomaga,
 dzieli się swoim ciepłem i uśmiechem. Jest cierpliwy i ma czas dla wszystkich.
@@ -124,7 +124,7 @@ odbiorców. Jego celem jest poprowadzenie użytkownika przez produkt. Jest
 cierpliwy gdy czeka na materiały, spokojnie wysłuchuje komentarzy i żarliwie
 poprawia kolejną wersję releasu.
 
-## **Reasumując**
+### **Reasumując**
 
 Nie oszukujmy się, święta bez Mikołaja nie byłyby takie same. Z kolei dobra
 dokumentacja nie powstałaby bez ciężkiej pracy technical writera.

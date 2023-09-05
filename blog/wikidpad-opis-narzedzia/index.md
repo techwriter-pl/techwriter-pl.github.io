@@ -17,7 +17,7 @@ którego możecie tę tezę łatwo zweryfikować.
 
 <!--truncate-->
 
-## Czym jest wikidPad?
+### Czym jest wikidPad?
 
 Sami autorzy określają go jako „notatnik wikipodobny” i jakkolwiek by to nie
 brzmiało, znakomicie podsumowuje ideę tego narzędzia. Jest to aplikacja o bardzo
@@ -61,7 +61,7 @@ template w naszym leksykonie. Teraz każde nazwisko w tekście określamy jako
 hasło wiki. Po kliknięciu w to nazwisko zostajemy przeniesieni do pustego
 szablonu — wystarczy wypełnić zdefiniowane wcześniej rubryki i notka gotowa.
 
-## Główne cechy programu:
+### Główne cechy programu:
 
 - Łączenie haseł w czasie rzeczywistym — kiedy chcemy dodać nowe hasło, nie
   musimy przerywać pisania. Wystarczy napisać interesujące nas słowo w pewien
@@ -115,7 +115,7 @@ programować zawsze mogą skorzystać z gotowych rozszerzeń — ich lista znaj
 się
 [tutaj](http://trac.wikidpad2.webfactional.com/wiki/ListOfUserScripts "Rozszerzenia").
 
-## Podsumowanie
+### Podsumowanie
 
 WikidPad jest programem, który na pierwszy rzut oka wygląda dość ubogo.
 Wkładając jednak trochę wysiłku w poznanie jego możliwości wyposażymy się w

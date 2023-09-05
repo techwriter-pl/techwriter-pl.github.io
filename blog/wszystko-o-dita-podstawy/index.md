@@ -25,7 +25,7 @@ znajdziecie pogłębione informacje o języku znaczników wykorzystywanym w dici
 poznacie jakie są rodzaje topików i czym się wyróżniają. Będziecie mogli także
 zajrzeć przez ramię „technicznego pisarza”, a to za sprawą przykładowego topika.
 
-# Od XML do DITA
+## Od XML do DITA
 
 Żeby rozwiać wszystkie wątpliwości na starcie - DITA to tylko XML i nic więcej.
 Ale jednocześnie, DITA to dużo więcej niż XML.
@@ -80,7 +80,7 @@ czerpać korzyści z doświadczenia innych ludzi. W taki oto sposób dochodzimy
 Darwin Information Typing Architecture, czyli DITA, która jest właśnie jednym ze
 standardów XML.
 
-# Darwin Information Typing Architecture
+## Darwin Information Typing Architecture
 
 DITA definiuje dwa duże typy pliku - topic i mapa. Topic odpowiada pojedynczemu
 samodzielnemu artykułowi, zaś mapa zbiera te artykuły w całość. Istnieją różne
@@ -106,7 +106,7 @@ samym zagadnieniu to będzie szukał opisu i diagramów (concept). Idea różnyc
 rodzajów informacji jest centralnym punktem filozofii DITA, pomimo tego, że
 pojawiła się zanim powstał ten standard.
 
-# Przykłady
+## Przykłady
 
 Dla tych, którzy najlepiej uczą się na przykładach, poniżej prezentujemy prosty
 task w formacie DITA opisujący procedurę parzenia herbaty. Kroki potrzebne do
@@ -180,7 +180,7 @@ ditowa jest analogiczna do spisu treści lub listy podstron.
 </map>
 ```
 
-# Co dalej?
+## Co dalej?
 
 No dobra, XML jest coraz bardziej atrakcyjny, topiki figlarnie do nas mrugają.
 Następnym krokiem jest, jak to zwykle bywa w takiej sytuacji, strategia

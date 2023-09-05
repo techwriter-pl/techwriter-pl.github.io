@@ -21,7 +21,7 @@ Więcej szczegółów poniżej, lub pod linkiem:
 
 ---
 
-### Job Description
+#### Job Description
 
 Technical Writers for Jamf work as part of cross-functional Agile delivery teams
 to create, deliver, and maintain the information that explains how to use
@@ -38,7 +38,7 @@ with ambiguity, and embrace change.
 **Education**: Bachelor’s Degree **Supervisor**: Technical Communications
 Manager
 
-### Responsibilities
+#### Responsibilities
 
 - Build a deep understanding of Jamf Pro and its role in making customers
   successful
@@ -59,7 +59,7 @@ Manager
 - Onboard, educate, and mentor new technical writers as needed
 - Continuously grow technical communication skills and knowledge of the company
 
-### Qualifications
+#### Qualifications
 
 - Bachelor’s degree
 - 3+ years technical writing experience in the software industry

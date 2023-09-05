@@ -18,7 +18,7 @@ października w Warszawie oraz online. Poniżej najważniejsze informacje.
 
 <!--truncate-->
 
-### **Krótki powrót do przeszłości**
+#### **Krótki powrót do przeszłości**
 
 KTLC to skrót, który powstał z połączenia dwóch wydarzeń ery “przed pandemią”
 czyli Konferencji Tłumaczy oraz Translation and Localization Conference. Według
@@ -41,7 +41,7 @@ Warszawie, czeka na was jedyne w swoim rodzaju wydarzenie: pełne wiedzy i okazj
 do nawiązania nowych kontaktów – z którego wrócicie pełni zapału i inspiracji do
 codziennej pracy.
 
-### **Motyw przewodni na 2022 rok**
+#### **Motyw przewodni na 2022 rok**
 
 Tegoroczny motyw przewodni konferencji to słowo “POWER”. W jaki sposób można dać
 siłę wszystkim ludziom z branży: tłumaczom ustnym, pisemnym, lokalizatorom? Jak
@@ -51,7 +51,7 @@ bardziej zdigitalizowanym świecie? Co sprawiło, że wasza praca nabrała rozp�
 mocy? Jaka tajemnicza POWER ma moc przyciągania klientów? Na te i wiele innych
 pytań spróbują odpowiedzieć prelegenci wraz z uczestnikami.
 
-### **Termin i miejsce**
+#### **Termin i miejsce**
 
 KTLC 2022 odbędzie się w dniach 29 września – 1 października w warszawskim
 hotelu Novotel Airport oraz online. Obecnie organizatorzy planują, aby 29 i 30
@@ -59,7 +59,7 @@ września były dniami anglojęzycznymi, a 1 października dniem prelekcji
 polskojęzycznych oraz polsko- i anglojęzycznych warsztatów, a także LocLunchu
 (bezpłatnie dla uczestników KTLC) i LocDrinks (osobno biletowanego).
 
-### **Co nas czeka?**
+#### **Co nas czeka?**
 
 Czas na przybliżenie Wam programu tegorocznej edycji KTLC.
 [Na stronie wydarzenia](https://konferencja-tlumaczy.pl/) możecie zobaczyć listę
@@ -75,7 +75,7 @@ skrócony program konferencji:
 - 1 października (sobota) - prelekcje, lunch oraz pożegnalne spotkanie przy
   drinkach 😉. Przewidywany czas to godziny 9:30-17:30 oraz 19:00-22:00.
 
-### **Bilety**
+#### **Bilety**
 
 Udział w konferencji i wieczornym networkingu wymaga rejestracji oraz zakupu
 biletu. W cenę biletów “na miejscu” wliczone są koszty lunchu. Organizator NIE

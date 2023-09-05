@@ -26,25 +26,25 @@ przykłady właśnie takiej dokumentacji. Być może przyda się szukającym ins
 i chcącym być na bieżąco z aktualnymi trendami w organizacji i prezentacji
 dokumentacji technicznej.
 
-#### Online Help
+##### Online Help
 
 - [disguise Online Help](http://help.disguise.one/Content/Home.htm)
 - [Totalacademy Online Help](https://academy.totalmobile.co.uk/Content/Home.htm)
 - [xMatters Online Help](https://help.xmatters.com/ondemand/xmatters.htm)
 
-#### Documentation Portal
+##### Documentation Portal
 
 - [cleverbridge Documentation](https://docs.cleverbridge.com/public/all/home.htm)
 - [Broadsign Online Documentation](https://broadsign.com/documentation/)
 - [Oracle Bare Metal Cloud Services Online Documentation](https://docs.cloud.oracle.com/en-us/iaas/Content/home.htm)
 
-#### Featured Modern Print/PDF User Guides and Manuals
+##### Featured Modern Print/PDF User Guides and Manuals
 
 - [SONY](https://www.sonycreativesoftware.com/download/manuals)
 - [Cognex Manuals and Guides](https://support.cognex.com/en/documentation/dataman/dm-475v)
 - [Teledyne Frontline Sodera User Manual](https://fte.com/docs/UserManuals/UserManualSodera.pdf)
 
-#### Support
+##### Support
 
 - [SMART Software Support](https://support.smarttech.com/docs/hardware/displays/smart-board-7000/en/home.cshtml)
 - [LI-COR Technical Support Center](https://www.licor.com/env/support/home.html)

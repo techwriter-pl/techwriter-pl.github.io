@@ -32,16 +32,16 @@ Po sukcesie jaki odniosła konferencja, firma postanowiła rok rocznie organizow
 kolejne edycje. Przedsięwzięcie skierowane jest do wszystkich osób związanych z
 branżą tech commu.
 
-## Kiedy?
+### Kiedy?
 
 2-5 kwietnia 2017 roku.
 
-## Gdzie?
+### Gdzie?
 
 [Hard Rock Hotel](http://www.hardrockhotelsd.com/), Downtown, San Diego,
 California, USA.
 
-## Dlaczego warto wziąć udział?
+### Dlaczego warto wziąć udział?
 
 W trakcie kilku dni:
 
@@ -71,7 +71,7 @@ Ponadto w ofercie organizatora znajdziemy także:
   Dotyczy to śniadania, lunchu oraz urozmaiconej kolacji w formie szwedzkiego
   stołu w trakcie wieczornej zabawy
 
-## Informacje dla prelegentów
+### Informacje dla prelegentów
 
 Organizatorzy zachęcają do rejestracji osoby zainteresowane przedstawieniem
 prezentacji podczas konferencji. Termin składania zgłoszeń upływa **29 lipca
@@ -79,12 +79,12 @@ prezentacji podczas konferencji. Termin składania zgłoszeń upływa **29 lipc
 wszelkie informacje znajdziecie
 [tutaj](http://www.madworldconference.com/call-for-papers.aspx#content).
 
-## Rezerwacja i bilety
+### Rezerwacja i bilety
 
 Rejestracja na konferencję rusza z początkiem sierpnia. O jej szczegółach
 będziemy Was informować na bieżąco.
 
-## **Jeszcze się wahacie?**
+### **Jeszcze się wahacie?**
 
 Jeśli rozważacie wyjazd, jednak macie jeszcze jakieś wątpliwości dotyczące
 wartości samego wydarzenia zachęcamy Was do zapoznania się z

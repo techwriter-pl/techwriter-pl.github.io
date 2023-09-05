@@ -21,13 +21,13 @@ najważniejsze informacje dotyczące konferencji.
 
 <!--truncate-->
 
-## Termin i miejsce
+### Termin i miejsce
 
 Piąta edycja konferencji odbędzie się w dniach **7-9 czerwca** w
 [Muzeum Sztuki i Techniki Japońskiej Manggha](http://manggha.pl/) zlokalizowanym
 przy ul. Marii Konopnickiej 26 w Krakowie.
 
-## Rejestracja i cena
+### Rejestracja i cena
 
 Rejestracja już trwa, a jej termin upływa 26 maja.
 
@@ -47,7 +47,7 @@ Techniki Japońskiej Manggha.
 
 Cena nie zawiera noclegu.
 
-## Prezentacje
+### Prezentacje
 
 Tematem tegorocznej edycji soap! jest _Rozwiązywanie problemów_ bez względu na
 rodzaj tworzonej treści. Prelegentów jest w tym roku sporo, bo swój udział
@@ -79,7 +79,7 @@ prezentacje:
 Plan konferencji znajdziecie na
 stronie [soapconf.com](http://soapconf.com/#schedule).
 
-## Warsztaty Edu Summit
+### Warsztaty Edu Summit
 
 Na dzień poprzedzający konferencję (7 czerwca 2017) organizatorzy zaplanowali
 szereg warsztatów. Dzięki nim poznacie nie tylko teorię, ale także praktykę
@@ -87,7 +87,7 @@ związaną z tematyką tegorocznej edycji soap! Warsztaty te są dodatkowo płat
 wymagają rejestracji. Szczegółowe informacje na temat kosztów, rejestracji oraz
 samych warsztatów pojawią się wkrótce na stronie konferencji.
 
-## Więcej informacji
+### Więcej informacji
 
 Aktualności na temat konferencji można śledzić na
 [Facebooku](https://www.facebook.com/soapconf),

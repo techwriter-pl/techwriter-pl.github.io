@@ -23,7 +23,7 @@ https://youtu.be/Hd0JflMdqyM
 
 ---
 
-# Junior Content Designer
+## Junior Content Designer
 
 Gdansk, Poland • Customer Experience • Full Time
 

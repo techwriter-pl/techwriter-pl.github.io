@@ -24,7 +24,7 @@ zupełnie inna bajka? Nie do końca!
 W tym artykule przedstawimy kilka przydatnych wskazówek dotyczących tworzenia
 dokumentacji dla daltonistów i osób mających problem z widzeniem kolorów.
 
-## Fakty i statystyki
+### Fakty i statystyki
 
 Według organizacji
 [Colour Blind Awareness](https://www.colourblindawareness.org/) około 300 mln
@@ -42,7 +42,7 @@ funkcjonowaniu.
 Zobaczmy, co można zrobić, aby dokumentacja była bardziej przyjazna dla osób z
 daltonizmem lub ślepotą barw.
 
-## Ślepota barw a daltonizm
+### Ślepota barw a daltonizm
 
 Ślepota barw (lub niedobór widzenia kolorów) to niezdolność lub zmniejszona
 zdolność widzenia pewnych kolorów lub dostrzegania różnic w kolorach.
@@ -56,14 +56,14 @@ Z kolei ludzie z daltonizmem są w stanie widzieć rzeczy równie wyraźnie jak
 zwykli użytkownicy, ale mają trudności z rozróżnianiem kolorów. Dlatego termin
 „daltonizm” może być w tym przypadku zbyt ogólny.
 
-## Na co zwrócić uwagę przy projektowaniu dokumentacji dla osób z daltonizmem?
+### Na co zwrócić uwagę przy projektowaniu dokumentacji dla osób z daltonizmem?
 
 Jak się domyślacie, kolor nie jest jedynym wizualnym środkiem przekazywania
 informacji czy wyróżniania elementów w Waszej dokumentacji.
 
 Co możecie zrobić? Poniżej kilka przydatnych podpowiedzi i przykładów.
 
-### Dodawanie wizualnych wskazówek
+#### Dodawanie wizualnych wskazówek
 
 Przy projektowaniu, na przykład formularzy, warto pamiętać, że kolory to nie
 wszystko.
@@ -111,7 +111,7 @@ rozróżnia każdą kategorię.
 Dzięki takiemu rozwiązaniu wykres jest bardziej dostępny dla użytkowników z
 daltonizmem. Dla zwykłych użytkowników może być to wartością dodaną 😊.
 
-### Projektowanie treści z kontrastem
+#### Projektowanie treści z kontrastem
 
 Kontrast kolorów może ułatwić odczytanie wizualnego komunikatu.
 
@@ -145,7 +145,7 @@ Oto przydatne narzędzia!
 - [ContrastChecker](https://webaim.org/resources/contrastchecker/)
 - [Checkmycolours](https://www.checkmycolours.com/)
 
-### Poprawienie czytelności tekstu
+#### Poprawienie czytelności tekstu
 
 Chcąc stworzyć idealne połączenie tekstu i obrazu oraz zwiększyć jego
 czytelność, możecie modyfikować kolor tła, rozmiar i kolor tekstu.
@@ -165,7 +165,7 @@ Na oko dużo lepszy 😉
 
 _Tekst nałożony na obraz z maską_
 
-### **Używanie filtrów kolorów**
+#### **Używanie filtrów kolorów**
 
 Poniższy przykład pokazuje w jaki sposób można rozwiązać przedstawianie kolorów
 dla osób z deuteranopią (czyli osób mających problem w rozróżnianiu barwy
@@ -182,7 +182,7 @@ wybranego koloru. Jest to również korzystne dla osób z bez problemów z
 widzeniem. Zastanówcie się czy nie zdarzało się Wam mieć problemu z określeniem
 barwy wybranego produktu robiąc zakupy online?
 
-### **Rozpoznawanie linków**
+#### **Rozpoznawanie linków**
 
 Linki powinny być łatwe do wykrycia bez polegania na kolorze.
 
@@ -201,7 +201,7 @@ I tu lekcja również dla nas, którą od razu postanowiliśmy wcielić w życie
 
 _Podkreślone linki są łatwe do zauważenia przez osobę z achromatopsją_
 
-### **Kombinacje kolorów**
+#### **Kombinacje kolorów**
 
 W świecie bogatym w różne kolory nie zawsze mamy możliwość kontroli istniejących
 połączeń.
@@ -218,7 +218,7 @@ znacznie ułatwi jej interpretację.
 
 _Sposoby zestawiania kolorów - kompozycja groszku i marchewki_
 
-### Wymagane pola formularza
+#### Wymagane pola formularza
 
 Oznaczanie wymaganych pól kolorem może stanowić problem, ponieważ niektórzy
 użytkownicy z dysfunkcjami wzroku mogą nie widzieć różnic.
@@ -233,7 +233,7 @@ _Przykład formularza z zostosowaniem koloru i dodatkowego opisu_
 Tam, gdzie to możliwe, warto wziąć pod uwagę opcję usunięcia pola jeśli
 informacja jest nieistotna.
 
-## Czas na podsumowanie
+### Czas na podsumowanie
 
 Jeśli wśród odbiorców Waszego produktu są osoby z daltonizmem, może warto
 rozpatrzeć opcję zastosowania przynajmniej kilku wymienionych wyżej wskazówek

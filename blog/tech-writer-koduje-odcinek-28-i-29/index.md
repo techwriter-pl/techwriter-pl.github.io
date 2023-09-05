@@ -22,7 +22,7 @@ Writer. Zapraszamy na skrót odcinków: 28 i 29.
 
 <!--truncate-->
 
-### Odcinek 28
+#### Odcinek 28
 
 W
 [tym odcinku](https://techwriterkoduje.pl/blog/2021/03/22/tech-writer-wybiera-narzedzie-do-kodowania)
@@ -40,7 +40,7 @@ Rozmówcy nie starają się rozstrzygnąć, która aplikacja jest lepsza. Zamias
 opowiadają co w nich lubią, co im przeszkadza i w jakich sytuacjach, według
 nich, najlepiej się sprawdzają.
 
-### Odcinek 29
+#### Odcinek 29
 
 Michał z Pawłem po raz kolejny poruszają temat kodowania w pracy technical
 writera.

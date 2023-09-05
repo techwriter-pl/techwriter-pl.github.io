@@ -18,7 +18,7 @@ wydarzenia.
 
 <!--truncate-->
 
-## Czas i miejsce
+### Czas i miejsce
 
 Konferencja odbędzie się w dniach 14-17 kwietnia w San Diego, Kalifornia, USA. W
 tej edycji organizatorzy postanowili wrócić do hotelu
@@ -26,7 +26,7 @@ tej edycji organizatorzy postanowili wrócić do hotelu
 uczestników. Jest to luksusowy hotel utrzymany w stylistyce rockowej, położony
 nad oceanem oraz w ścisłym centrum San Diego.
 
-## Program w skrócie
+### Program w skrócie
 
 - Pierwszy dzień – rejestracja, warsztaty wprowadzające (6 modułów), Technical
   Support Lounge, przyjęcie powitalne
@@ -42,7 +42,7 @@ Szczegółowy program konferencji znajdziecie na
 Jeśli jesteście ciekawi jak przebiegło MadWorld San Diego w 2017 roku zapraszamy
 [na naszą relację](http://techwriter.pl/madworld-2017-relacja/).
 
-## Cena
+### Cena
 
 | Kategoria               | 16.03 - 17.04.2019 |
 | ----------------------- | ------------------ |

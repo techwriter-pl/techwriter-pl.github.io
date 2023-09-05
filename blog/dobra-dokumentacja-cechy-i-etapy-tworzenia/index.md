@@ -17,7 +17,7 @@ pisanie nie będzie już takie straszne (dla niektórych) 😉.
 
 <!--truncate-->
 
-## Cechy dobrej dokumentacji
+### Cechy dobrej dokumentacji
 
 Dobra dokumentacja jest:
 
@@ -41,7 +41,7 @@ A jeśli macie ochotę poszerzyć temat cech dobrej dokumentacji zapraszamy do
 zapoznania się z artykułem
 [Siedem zasad projektowania pomocy dla użytkownika w 2017 roku](http://techwriter.pl/siedem-zasad-projektowania-pomocy-dla-uzytkownika-w-2017-roku/).
 
-## Etapy tworzenia dokumentacji
+### Etapy tworzenia dokumentacji
 
 Aby dokumentacja była dobra, należy odpowiednio rozplanować pracę już od samego
 początku. Poniżej lista kroków, jakie warto zrobić, by stworzyć porządny tekst..

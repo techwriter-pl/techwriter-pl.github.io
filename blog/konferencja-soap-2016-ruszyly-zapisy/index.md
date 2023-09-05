@@ -17,7 +17,7 @@ Miło nam poinformować, że rozpoczęły się zapisy na konferencję soap! 2016
 Jest to dobra okazja, żeby przekazać Wam najważniejsze informacje związane z tym
 wydarzeniem.
 
-## Termin i miejsce
+### Termin i miejsce
 
 Najbardziej widoczną zmianą w stosunku do poprzedniej edycji jest przesunięcie
 terminu z jesieni na lato. Czwarta edycja konferencji odbędzie się w dniach
@@ -25,7 +25,7 @@ terminu z jesieni na lato. Czwarta edycja konferencji odbędzie się w dniach
 [Muzeum Sztuki i Techniki Japońskiej Manggha](http://manggha.pl/) zlokalizowanym
 przy ul. Marii Konopnickiej 26 w Krakowie.
 
-## Rejestracja i cena
+### Rejestracja i cena
 
 Na konferencję można zarejestrować się na stronie organizatora, pod tym
 [linkiem](http://soapconf.com/register/). Opłaty za uczestnictwo uzależnione są
@@ -41,7 +41,7 @@ prezentujemy pełny cennik.
 
 [![soap_registration_fees](images/soap_registration_fees.png)](http://techwriter.pl/wp-content/uploads/2016/02/soap_registration_fees.png)
 
-## Prezentacje
+### Prezentacje
 
 Jeśli jesteście specjalistami w zakresie tworzenia treści i macie ochotę
 zabłysnąć na scenie, to do **22 kwietnia** macie czas na zgłaszanie swoich
@@ -49,7 +49,7 @@ prezentacji. Możecie to zrobić za pomocą
 [formularza zgłoszeniowego](https://docs.google.com/forms/d/1pS6DdAFvtN7qtjN7FIfp-juLW76CaL70O0tCmUlN8JA/viewform?c=0&w=1)
 udostępnionego przez organizatorów.
 
-## Więcej informacji
+### Więcej informacji
 
 Dodatkowe informacje możecie uzyskać na stronie
 [soapconf.com](http://soapconf.com/). Aktualności na temat konferencji można

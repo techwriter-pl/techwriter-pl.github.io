@@ -25,7 +25,7 @@ artykułów o tym co dziać się będzie w światku wrocławskiego techwritingu 
 relacji z tego, jak przebiegły kolejne edycje spotkań. A co nas czeka już za
 kilka tygodni?
 
-### **Kwiecień - Nokia Garage**
+#### **Kwiecień - Nokia Garage**
 
 Kwietniowy MeetContentWRO odbędzie się w **Nokia Garage**. Wraz z organizatorami
 mamy nadzieję, że to niesamowite miejsce zainspiruje wszystkich uczestników do
@@ -72,7 +72,7 @@ ciekawą dyskusję, w której między innymi poruszone zostaną tematy takie jak
 W imieniu organizatorów zapraszamy Was serdecznie na: **_Know your audience -
 How to gather customer feedback?_**
 
-### **Gdzie i kiedy**
+#### **Gdzie i kiedy**
 
 19 kwietnia 2023 godzina 18:00
 
@@ -82,7 +82,7 @@ Nokia Garage, ul. Szybowcowa 2
 
 ![](images/MeetContentWRO19.png)
 
-### **Marzec - Etteplan**
+#### **Marzec - Etteplan**
 
 W marcu spotkaliśmy się w firmie **Etteplan** na pogaduchy o _Simplified
 Technical English_ (STE). Tytuł prezentacji był wymowny, ale na koniec wszyscy

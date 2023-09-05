@@ -17,7 +17,7 @@ MeetContent. Najważniejsze informacje znajdziecie poniżej.
 
 <!--truncate-->
 
-### Kilka słów o organizatorach
+#### Kilka słów o organizatorach
 
 Po ponad dwuletniej przerwie swoją działalność wznawia społeczność techwriterska
 z Wrocławia. Grupa ta działa pod pieczą krakowskiej społeczności związanej z
@@ -28,13 +28,13 @@ formy wymiany doświadczeń związanych z komunikacją techniczną. Będzie się
 dzielić swoimi obserwacjami i zdobywać nowe. A wszystko to po godzinach, w
 siedzibach kilku wrocławskich firm IT, przy pizzy i czymś do picia 😊
 
-### **Termin i miejsce**
+#### **Termin i miejsce**
 
 Termin najbliższego spotkania planowany jest na 7 grudnia 2022 o godzinie 18:00
 w Infor przy ul. Piłsudskiego 69, Budynek RETRO piętro 5 (wejście do Infor
 Academy).
 
-### **Co nas czeka?**
+#### **Co nas czeka?**
 
 Pierwszy, rozgrzewkowy meetup będzie miał formę panelu dyskusyjnego wokół
 tematu: _How to hire Technical Writers and how to be hired as one_. Rozmowę
@@ -51,7 +51,7 @@ Writera to najprawdopodobniej masz już za sobą niejedną rozmowę rekrutacyjn�
 Twoje doświadczenie może być cenne dla osób dopiero rozpoczynających swą
 przygodę z branżą.
 
-### Dlaczego ten meetup jest dla Ciebie?
+#### Dlaczego ten meetup jest dla Ciebie?
 
 Podczas grudniowego spotkania poruszone zostaną różne zagadnienia związane z
 rynkiem pracy dla Technical Writerów. Uczestnicy porozmawiają między innymi o
@@ -66,7 +66,7 @@ słynnym ‘feedbacku po rozmowie’ – bardziej jest czy go nie ma? I o tym kt
 bardziej stresuje onboardingiem: nowozatrudniony Tech Writer czy raczej Manager
 😉
 
-### Zapisy
+#### Zapisy
 
 Aby wziąć udział w wydarzeniu należy wypełnić formularz zgłoszeniowy oraz dać
 znać organizatorom, by zamówili odpowiednią ilość pizzy 😉

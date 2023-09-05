@@ -1,5 +1,6 @@
 ---
-title: "Komunikacja techniczna, czyli jak humanistka może zacząć pracę w IT -
+title:
+  "Komunikacja techniczna, czyli jak humanistka może zacząć pracę w IT -
   warsztaty"
 authors: agnieszka
 date: "2021-11-05"
@@ -18,7 +19,7 @@ techniczną. Szczegóły poniżej.
 
 <!--truncate-->
 
-### O wydarzeniu
+#### O wydarzeniu
 
 Warsztaty _Komunikacja techniczna, czyli jak humanistka może zacząć pracę w IT_
 to jedno ze spotkań wchodzących w cykl działań
@@ -43,14 +44,14 @@ IT* poprowadzi Basia Kujawska - Senior Technical Author i Lead Author w firmie
 3di. Projektowaniem informacji zajmuje się od 2014 roku. Z zawodu jest autorką
 techniczną, z wykształcenia dziennikarką, a z pasji rowerzystką i podróżniczką.
 
-### Dla kogo
+#### Dla kogo
 
 Warsztaty są skierowane przede wszystkim do kobiet, które myślą o pracy w branży
 komunikacji technicznej, potrafią dobrze komunikować się zarówno w języku
 polskim i obcym (szczególnie angielskim) oraz dobrze czują się w pracy z
 komputerem i nowymi technologiami.
 
-### Czego się spodziewać
+#### Czego się spodziewać
 
 Na warsztatach będą poruszane nastepujące tematy:
 
@@ -61,7 +62,7 @@ Na warsztatach będą poruszane nastepujące tematy:
 - ćwiczenie praktyczne - próbuj swoich sił w roli technical writerki,
 - gdzie szukać pracy jako technical writer.
 
-### Kiedy
+#### Kiedy
 
 Warsztaty odbędą się 9 listopada 2021 roku o godzinie 18:00 w krakowskim
 oddziale Centrum Praw Kobiet przy ulicy Dunajewskiego 5. Liczba miejsc jest

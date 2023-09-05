@@ -31,9 +31,9 @@ poprzez które możecie złożyć swoją aplikację.
 
 ---
 
-## Technical Writer – UMP
+### Technical Writer – UMP
 
-### About Us
+#### About Us
 
 Hi! We're a team of technical writers that supports our company's product
 portfolio with comprehensive documentation to help our customers seamlessly
@@ -45,7 +45,7 @@ Writers team collaborates with development teams, testers, product owners and
 software engineers while researching, writing and updating technical and UI
 content.
 
-### Your tasks will include:
+#### Your tasks will include:
 
 - Writing and maintaining user manuals, developer guides and other types of
   product documentation in English using Markdown and reStructuredText
@@ -57,7 +57,7 @@ content.
 - Testing documentation against the product to ensure its accuracy and
   completeness.
 
-### What we expect:
+#### What we expect:
 
 - Fluency in written and spoken English (educational background in English is a
   plus),
@@ -68,7 +68,7 @@ content.
   and stakeholders,
 - Ability to draw logical conclusions from wide amounts of information/data.
 
-### A big plus:
+#### A big plus:
 
 - Previous experience in writing IT technical documentation,
 - Familiarity with reStructuredText, Git, Confluence,
@@ -76,7 +76,7 @@ content.
 - Interest in communication technologies,
 - Missing some points from the list? Don't worry and just apply 😊.
 
-### **What we offer:**
+#### **What we offer:**
 
 - Full-time remote work (although work from the office is also possible),
 - Opportunity to grow and flourish in a highly technical but supportive work

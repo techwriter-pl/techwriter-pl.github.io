@@ -22,7 +22,7 @@ oficjalny patron medialny, serdecznie zapraszamy.
 
 <!--truncate-->
 
-## Kilka słów o grupie
+### Kilka słów o grupie
 
 Poland MadCap Flare User Group tworzy miejsce, w którym
 użytkownicy [MadCap Flare](http://www.madcapsoftware.com/products/flare/) z
@@ -39,7 +39,7 @@ uczestniczyli w spotkaniach i wspólnie budowali grupę.
 Więcej informacji znajdziecie w
 [naszym wpisie ogłaszającym start grupy](http://techwriter.pl/rusza-poland-madcap-flare-user-group/).
 
-## Termin i miejsce spotkania
+### Termin i miejsce spotkania
 
 Spotkanie odbędzie się **28 września 2017** w
 [T.E.A. Time BrewPub](http://www.teatimebrewpub.pl/) w Krakowie. Start o
@@ -47,7 +47,7 @@ godz. **18:00**.
 
 <iframe style={{border: 0}} src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2561.933868502614!2d19.934416115936372!3d50.05007012401351!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47165b6eb9aba343%3A0x98f6f56f112059ac!2sTEA+Time!5e0!3m2!1sen!2spl!4v1503644734552" width={400} height={300} frameBorder={0} allowFullScreen="allowFullScreen" />
 
-## Temat spotkania
+### Temat spotkania
 
 Tematem drugiego spotkania będą opowieści uczestników o tym w jaki sposób
 korzystają z Flare'a. Jeśli nie wiecie do końca jak skonstruować swoją historię,
@@ -68,7 +68,7 @@ To nie będzie prezentacja jednej osoby zakończona oklaskami, tylko dyskusja z
 wymianą doświadczeń. Przynieście laptopy, jeżeli chcecie innym coś pokazać,
 będzie na to czas.
 
-## Rejestracja i udział
+### Rejestracja i udział
 
 Udział w spotkaniach jest całkowice bezpłatny. Nie jest wymagana wcześniejsza
 rejestracja, ale organizatorzy zachęcają, żeby dołączyć do
@@ -78,7 +78,7 @@ Dzięki temu będzie im łatwiej ocenić liczbę uczestników.
 Organizatorzy przewidują dla każdego kupon na drinka i kawałek pizzy. Mała
 rzecz, a cieszy 😉
 
-## Poprzednie spotkania
+### Poprzednie spotkania
 
 Spotkanie inauguracyjne grupy odbyło się 13 czerwca 2017 w krakowskim T.E.A.
 Time BrewPub. Uczestnicy mieli okazję podyskutować o tym jak powinna wyglądać
@@ -87,7 +87,7 @@ konferencji [MadWorld 2017](http://techwriter.pl/madworld-2017-relacja/). Krót
 relację z tego wydarzenia znajdziecie
 [tutaj](http://techwriter.pl/pierwsze-spotkanie-poland-madcap-flare-user-group/).
 
-## Dołącz do grupy i bądź na bieżąco
+### Dołącz do grupy i bądź na bieżąco
 
 Poland MadCap Flare User Group jest całkowicie darmową i otwartą dla wszystkich
 grupą. W celu dołączenia, wystarczy poprosić o dodanie do

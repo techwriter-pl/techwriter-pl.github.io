@@ -19,7 +19,7 @@ writingu.
 
 <!--truncate-->
 
-## Styczeń
+### Styczeń
 
 9-10 stycznia, Penang, Malezja - [IC4E 2016](http://www.ic4e.net/ "IC4E")
 
@@ -33,7 +33,7 @@ writingu.
 28-29 stycznia, Dubaj, Zjednoczone Emiraty Arabskie -
 [ICEBML 2016](https://www.waset.org/conference/2016/01/dubai/ICEBML "ICEBML")
 
-## Luty
+### Luty
 
 1 lutego, Londyn, Wielka Brytania -
 [Agile Content Conf](https://2016.agilecontentconf.com/ "Agile Content Conf")
@@ -50,7 +50,7 @@ writingu.
 25-26 lutego, Bangalore, Indie -
 [tcworld India](http://conferences.tekom.de/tcworld-india-2016/home/ "tcworld India")
 
-## Marzec
+### Marzec
 
 4 marca, Londyn, Wielka Brytania -
 [(Write the Docs) Documenting APIs - all day mini-conference](http://www.meetup.com/Write-The-Docs-London/events/228403383/)
@@ -70,7 +70,7 @@ writingu.
 20-23 marca, Nowy Jork, Nowy Jork, USA -
 [GALA 2016](https://www.gala-global.org/conference/gala-annual-conference-2016 "Gala 2016")
 
-## Kwiecień
+### Kwiecień
 
 1-2 kwietnia, Willow Grove, Pensylwania, USA -
 [CONDUIT 2016](http://www.stcpmc.org/conduit-2016-2/ "Conduit") (The
@@ -110,7 +110,7 @@ Mid-Atlantic TechComm Conference)
 
 21-22 kwietnia, Bukareszt, Rumunia - [eLSE](http://elseconference.eu/ "eLSE")
 
-## Maj
+### Maj
 
 4-8 maja, Atlanta, Georgia, USA -
 [The IA Summit](http://www.iasummit.org/ "IA Summit")
@@ -130,7 +130,7 @@ Mid-Atlantic TechComm Conference)
 24-25 maja, Kopenhaga, Dania
 - [NORDIC TechKomm 2016](http://conferences.tekom.de/nordic-techkomm/nordic-techkomm-2016/)
 
-## Czerwiec
+### Czerwiec
 
 **2-3 czerwca, Kraków, Polska - [Soap!](http://soapconf.com/)**
 

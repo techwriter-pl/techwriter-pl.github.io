@@ -24,7 +24,7 @@ wszystkim chodzi.
 
 <!--truncate-->
 
-# Czym jest conkeyref?
+## Czym jest conkeyref?
 
 [Conkeyref](https://docs.oasis-open.org/dita/v1.2/os/spec/common/theconkeyrefattribute.html)
 to specjalny odsyłacz, który wstawia treść z innego topika znajdującego się w
@@ -32,7 +32,7 @@ tej samej mapie ditowej. Na tym etapie prawdopodobnie ta definicja brzmi jeszcze
 zagadkowo. W dalszych sekcjach znajdziecie więcej szczegółów, które powinny
 rozjaśnić o co chodzi.
 
-# Przykład użycia
+## Przykład użycia
 
 Załóżmy, że mamy topik wymieniający produkty, które sprzedajemy. Ten topik jest
 używany we wszystkich naszych publikacjach i wygląda tak:
@@ -49,7 +49,7 @@ Co teraz? W tej sytuacji możemy właśnie wykorzystać conkeyref do wstawienia 
 produktów, dzięki czemu będziemy mogli używać nowych nazw na rynku europejskim a
 starych nazw na wszystkich pozostałych rynkach.
 
-## Dwa topiki
+### Dwa topiki
 
 Żeby zastosować wspomniane powyżej rozwiązanie będziemy potrzebować dwóch
 topików.
@@ -79,7 +79,7 @@ na przykład tak:
 Topik, który rzeczywiście trafi do naszego manuala to inny topik opisany
 poniżej. Jest on wpięty do mapy na samym początku pierwszego rozdziału.
 
-## Tak naprawdę, to jeden topik
+### Tak naprawdę, to jeden topik
 
 Topik, który zostanie użyty w manualu zawiera odwołania do nazw produktów w
 odpowiednim miejscu:
@@ -91,7 +91,7 @@ Odwołania używają id, które ustawiliśmy w naszych topikach-bibliotekach ora
 klucza "product-names". Nasz topik włączamy do
 [mapy ditowej](http://techwriter.pl/wszystko-o-dita-podstawy/).
 
-## Odwołanie do klucza jest kluczem do sukcesu
+### Odwołanie do klucza jest kluczem do sukcesu
 
 Ustawiając odwołanie w topiku, nie odwołaliśmy się do nazwy pliku biblioteki,
 ale do klucza. Klucz umieszczamy w mapie ditowej w następujący sposób:
@@ -112,7 +112,7 @@ pliku:
 
 <keydef keys="product-names" href="reuse/**european\_product\_names.dita**" />
 
-# Próbka do pobrania
+## Próbka do pobrania
 
 [Tutaj](http://techwriter.pl/wp-content/uploads/2016/09/product_catalogditamap-bundle.zip)
 możecie pobrać pliki DITA, które obrazują przykład użycia opisany powyżej.

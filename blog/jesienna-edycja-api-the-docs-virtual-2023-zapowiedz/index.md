@@ -20,7 +20,7 @@ API i doświadczeniami w pracy programisty. Szczegóły poniżej.
 
 <!--truncate-->
 
-## O konferencji
+### O konferencji
 
 [API The Docs](https://apithedocs.org/) zostało zainicjowane kilka lat temu i
 przez ten czas stało się wiodącą konferencją poświęconą dokumentacji API.
@@ -56,7 +56,7 @@ Jeśli chcecie mieć najświeższe informacje dotyczące działań API the Docs
 zaglądajcie
 na [fanpage](https://www.facebook.com/APItheDocsConferences) społeczności.
 
-## Najważniejsze informacje
+### Najważniejsze informacje
 
 Jesienna edycja Api The Docs Virtual odbędzie się w czterech sesjach, które
 odbędą się w dniach: **4, 11, 18 i 25 października**.

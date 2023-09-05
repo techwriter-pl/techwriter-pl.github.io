@@ -22,7 +22,7 @@ Dzisiejszy artykuł poświęcony będzie tekstom źródłowym, które są przysy
 tłumaczenia. Podamy w nim również kilka przydatnych wskazówek, jak przygotować
 tekst, aby proces tłumaczenia przebiegał sprawnie i bez zbędnych problemów.
 
-## Tekst źródłowy i jego jakość
+### Tekst źródłowy i jego jakość
 
 Bazą do tłumaczenia treści na różne języki jest tekst źródłowy - czyli
 ostateczna i kompletna wersja przeznaczona do tłumaczenia. Dlaczego kompletna?
@@ -42,7 +42,7 @@ Jeśli chcecie zaoszczędzić swój czas i uniknąć pytań ze strony tłumacza,
 samym  otrzymać dobrej jakości tłumaczenie warto skorzystać z poniższych
 instrukcji 😉
 
-## Porady i wskazówki
+### Porady i wskazówki
 
 - Aby zwiększyć zrozumienie i uprościć tłumaczenie, najlepiej tworzyć krótkie
   zdania zawierające około 20 słów lub mniej. Jasne, dobrze skonstruowane zdania
@@ -144,7 +144,7 @@ zmieści się w dostępnym miejscu.
   znajdowanie informacji. Warto przemyśleć, które części będą tłumaczone, a
   które nie.
 
-## Podsumowując
+### Podsumowując
 
 Pisanie materiałów gotowych do tłumaczenia pozwoli Wam zaoszczędzić czas i
 pieniądze, a także podniesie jakość i czytelność Waszych docelowych tłumaczeń.

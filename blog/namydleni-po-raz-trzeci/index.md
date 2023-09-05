@@ -50,7 +50,7 @@ wyrazić swoje zdanie na temat prowadzącego i jego wysiłków na scenie.
 Po szybkim zbadaniu otoczenia, zajęliśmy miejsca w oczekiwaniu na “gwizdek
 rozpoczynający spotkanie”.
 
-## Content zamiast chleba i soli
+### Content zamiast chleba i soli
 
 Po powitaniu uczestników i przedstawieniu sponsorów przez wodzirejkę **Gabrielę
 Guaranę Maj**, nastąpiło otwarcie konferencji. W tym roku ten zaszczyt przypadł
@@ -79,7 +79,7 @@ Jakiś czas temu na łamach techwriter.pl również podjęliśmy próbę zdefin
 czym jest content, ale z trochę innej perspektywy 😉 Jej efekty możecie
 podziwiać [tutaj](http://techwriter.pl/langlydz-part-najn/).
 
-## O co chodzi z tym różowym mydłem?
+### O co chodzi z tym różowym mydłem?
 
 Na początku drugiego dnia konferencji Gosia również miała swoje 5 (a
 dokładniej 10) minut w czasie których przybliżyła uczestnikom pokrótce historię
@@ -116,7 +116,7 @@ W taki oto sposób pojawiło się różowe mydło. Ot, cała historia 😊
 
 _Źródło: https://twitter.com/m\_kasz_
 
-## My tu gadu gadu, a Jadźka Rysuje
+### My tu gadu gadu, a Jadźka Rysuje
 
 A właściwie to **Natalia Klonowska**, którą nazywają Jadźką. Jej pasja do
 “bazgrania” przerodziła się w sposób na życie. Obecnie Natalia specjalizuje się
@@ -137,7 +137,7 @@ Więcej informacji o tym co robi Natalia możecie znaleźć na stronie
 
 [![IMG_20151008_163236632_HDR](images/IMG_20151008_163236632_HDR.jpg)](http://techwriter.pl/wp-content/uploads/2015/10/IMG_20151008_163236632_HDR.jpg)
 
-## Ogłoszenia parafialne
+### Ogłoszenia parafialne
 
 Na zakończenie pierwszego dnia przez 15 minut mikrofon był dostępny dla
 wszystkich, którzy chcieli się czymś podzielić z innymi uczestnikami
@@ -151,7 +151,7 @@ też, że poszukują ludzi z doświadczeniem w
 [rzeczywistości rozszerzonej (Augmented Reality)](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=arip),
 którzy mogliby podzielić się wiedzą. Może to coś dla Was?
 
-## Nie do końca tak różowo
+### Nie do końca tak różowo
 
 Jak wiadomo, szczególnie w naszym kraju, każda okazja jest dobra, żeby sobie
 trochę ponarzekać. Dlatego na chwilę pozwolimy sobie przestawić nasze mózgi w
@@ -178,7 +178,7 @@ też dodać, że organizatorzy pilnowali, aby prezentacje rozpoczynały się zgo
 z planem, a przerwy nie wydłużały się. Dzięki temu panował ogólny ład i
 porządek.
 
-## Cyferki
+### Cyferki
 
 A teraz czas na garść faktów, które otrzymaliśmy od organizatorów. Pierwszy
 (darmowy) dzień konferencji przyciągnął **170** uczestników, drugi (płatny)
@@ -192,7 +192,7 @@ poruszonych tematów przedstawione jest na plakacie konferencji poniżej.
 
 [![plakat_soap](images/plakat_soap-731x1024.png)](http://techwriter.pl/wp-content/uploads/2015/10/plakat_soap.png)
 
-## Podsumujmy
+### Podsumujmy
 
 Tak jak pisaliśmy na początku, tegoroczny soap! był zdecydowanie inny niż rok
 temu. Czy na plus czy na minus to już pozostawiamy indywidualnej ocenie

@@ -21,7 +21,7 @@ z perspektywy Techwriter.pl.
 
 <!--truncate-->
 
-## Gdzie się działo?
+### Gdzie się działo?
 
 Soap! już po raz drugi gościł w
 [Muzeum Sztuki i Techniki Japońskiej Manggha](http://manggha.pl/), w samym
@@ -50,7 +50,7 @@ Jedynym minusem świetnej pogody był czynnik rozleniwiający. Po kilku minutach
 spędzonych w ogrodzie aż nie chciało się wracać do klimatyzowanej sali. Ale
 zdecydowanie warto było się przemóc.
 
-## Co się działo?
+### Co się działo?
 
 Co do uczestników - było naprawdę międzynarodowo, co bardzo nas cieszy.
 Dominowały kraje środkowoeuropejskie, ale nie zabrakło przedstawicieli Irlandii,
@@ -124,7 +124,7 @@ wiedzę, którą dałoby się zastosować w codziennej pracy.
 W porządku, ale właśnie od tego były konferencyjne warsztaty! Przeczytacie o
 nich poniżej.
 
-## Co jeszcze się działo?
+### Co jeszcze się działo?
 
 Konferencję poprzedził dzień wypełniony praktycznymi warsztatami – Edu Summit. 7
 czerwca tegoroczni soapowcy przybyli do [hub:raum](https://www.hubraum.com/),
@@ -151,7 +151,7 @@ opensourcowej biblioteki [reveal.js](http://lab.hakim.se/reveal-js/). Efekt?
 Schludne, szybkie, niezawodne slajdy, które kontrolujesz w 100%, przechowujesz
 na GitHubie, odpalasz w przeglądarce i sterujesz... smartfonem.
 
-## [![](images/IMG_2434-2-1024x768.jpg)](http://techwriter.pl/wp-content/uploads/2017/06/IMG_2434-2.jpg)
+### [![](images/IMG_2434-2-1024x768.jpg)](http://techwriter.pl/wp-content/uploads/2017/06/IMG_2434-2.jpg)
 
 Tymczasem warsztat o "UX narrative", prowadzony przez znanego nam już z
 MeetContent
@@ -165,7 +165,7 @@ projektować). I nie jest to tak szalone, jak brzmi. To interaktywne spotkanie
 rzuciło nowe światło na kilka elementów, które bardzo łatwo umykają nam podczas
 projektowania jakichkolwiek rozwiązań dla użytkownika.
 
-## Soap! rośnie
+### Soap! rośnie
 
 Soap! zdecydowanie się rozwija. Konferencja, która rozpoczynała jako lokalne
 wydarzenie, na naszych oczach przeradza się w istotny, międzynarodowy punkt na

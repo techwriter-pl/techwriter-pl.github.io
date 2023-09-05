@@ -46,7 +46,7 @@ informacji. Agenda przedstawiała się następująco:
 - [Dlaczego powinniśmy to robić?](#agenda2)
 - [Jak to robić?](#agenda3)
 
-## Czym jest testowanie użyteczności?
+### Czym jest testowanie użyteczności?
 
 Mówiąc prosto, testowanie użyteczności polega na obserwowaniu użytkowników,
 którzy starają się używać produktu i myślą przy tym na głos. Abyśmy mogli lepiej
@@ -56,7 +56,7 @@ robię". Krótko, zwięźle i na temat.
 
 [![](images/meetcontent1_2.jpg)](http://techwriter.pl/wp-content/uploads/2017/05/meetcontent1_2.jpg)
 
-## Dlaczego powinniśmy to robić?
+### Dlaczego powinniśmy to robić?
 
 Przede wszystkim dlatego, że sami nie jesteśmy użytkownikami i nie myślimy jak
 oni, przez co nie jesteśmy w stanie zidentyfikować problemów z jakimi się
@@ -90,12 +90,12 @@ kodował niż testował. Jednak może być to zgubne podejście, ponieważ zmian
 oprogramowania, które jest już dostępne na rynku jest dużo bardziej kosztowna
 niż zrobienie tego we wczesnej fazie jego rozwoju.
 
-## Jak to robić?
+### Jak to robić?
 
 W ostatniej części prezentacji, prowadząca dała nam kilka wskazówek jak zabrać
 się za testowanie użyteczności.
 
-#### Zacznij wcześnie
+##### Zacznij wcześnie
 
 To nie prawda, że testować można tylko gotowy produkt. Można, a nawet powinno
 się, testować też:
@@ -104,7 +104,7 @@ się, testować też:
 - Cyfrowe makiety interfejsu
 - Produkt we wczesnej fazie rozwoju
 
-#### Znajdź prawdziwych użytkowników
+##### Znajdź prawdziwych użytkowników
 
 Niektórzy ludzie będą zadowoleni z tego, że będą mogli pomóc w ulepszeniu
 produktu. Szukaj użytkowników również wśród współpracowników - jeśli robisz
@@ -113,7 +113,7 @@ pomoc. Pamiętaj też o tym, żeby nie przesadzić z liczbą użytkowników. Eks
 są zgodni, że jedna runda testów powinna objąć od 3 do 5 użytkowników. To
 wystarczy, żeby znaleźć 80% problemów.
 
-#### Stwórz zadania, które mają znaczenie
+##### Stwórz zadania, które mają znaczenie
 
 Przed tym jak użytkownicy przystąpią do ich wykonania, powiedz im co mają robić,
 omów cel testów, wyjaśnij, że nie testujesz ich umiejętności, ich doświadczenia,
@@ -121,19 +121,19 @@ tylko produkt oraz poproś, żeby mówili na głos o tym co robią. Ważne jest
 również, aby upewnić się, że użytkownicy zgadzają się na nagrywanie. Następnie
 przeprowadź test, a na końcu podsumuj co się wydarzyło.
 
-#### Dziel radość
+##### Dziel radość
 
 Po teście podziel się wynikami oraz, w przypadku małej grupy użytkowników,
 zapisz trzy największe problemy, które każdy użytkownik zauważył.
 
-#### Zaplanuj, które problemy naprawisz
+##### Zaplanuj, które problemy naprawisz
 
 Prawda jest taka, że zawsze mamy za mało zasobów, żeby naprawić wszystkie
 znalezione problemy. Do tego pojawia się pokusa naprawienia najmniej
 czasochłonnych rzeczy, które bardzo często nic tak naprawdę nie wnoszą. Czasem
 lepiej naprawić jeden duży problem niż kilka mniejszych.
 
-#### Wprowadź poprawki
+##### Wprowadź poprawki
 
 Czasami chcielibyśmy przebudować całe oprogramowanie od nowa, jednak nie zawsze
 wszystko trzeba wywracać do góry nogami. Pomyśl o małych rzeczach, które mogą

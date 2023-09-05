@@ -17,7 +17,7 @@ wydarzenia.
 
 <!--truncate-->
 
-## Zwiedzanie i pisanie (niedziela)
+### Zwiedzanie i pisanie (niedziela)
 
 Klimat konferencji to nie tylko prelekcje, networking i przyjęcia. To także samo
 miasto, w którym konferencja się odbywa, dlatego nasz pobyt w Pradze
@@ -42,7 +42,7 @@ okazję lepiej się poznać.
 
 https://twitter.com/writethedocs/status/777528737462153216
 
-## Pierwszy dzień prezentacji (poniedziałek)
+### Pierwszy dzień prezentacji (poniedziałek)
 
 Pierwszy dzień konferencji otworzyła przewodnicząca społeczności Write Docs,
 [**Mikey Ariel**](https://ep2016.europython.eu/conference/p/mikey-ariel)
@@ -62,7 +62,7 @@ Po przedstawieniu organizatorów i sponsorów przyszedł czas na prelegentów. W
 trakcie pierwszego dnia uczestnicy mieli okazję wysłuchać 9 prezentacji.
 Przedstawiamy skrót wybranych przez nas pozycji.
 
-### Rugby i dokumentacja
+#### Rugby i dokumentacja
 
 **Paul Adams** w trakcie swojej prezentacji
 [Postulating The Backlog Laxative](http://www.writethedocs.org/conf/eu/2016/speakers/#speaker-eu-2016-paul-adams)
@@ -89,7 +89,7 @@ się swoimi prawami i nie zawsze to co zadziałało w jednej, sprawdzi się w in
 
 https://twitter.com/MChabowski/status/777789648303251456
 
-### Potrzeba ciągłego doskonalenia
+#### Potrzeba ciągłego doskonalenia
 
 **István Zoltán Szabó**, znany również jako Steve, w swojej prezentacji
 [Writing as a non-native speaker](http://www.writethedocs.org/conf/eu/2016/speakers/#speaker-eu-2016-istvan-zoltan-szabo)
@@ -123,7 +123,7 @@ dzięki czemu jego wystąpienie stało na wysokim poziomie.
 
 https://twitter.com/DaveDri/status/777801845733548032
 
-### Dokumentacja tylko dla twardzieli
+#### Dokumentacja tylko dla twardzieli
 
 Kolejnym ciekawym wystąpieniem pierwszego dnia była
 prezentacja [Operations Technical Writing for Data Centers](http://www.writethedocs.org/conf/eu/2016/speakers/#speaker-eu-2016-joan-wendt)
@@ -159,7 +159,7 @@ które na co dzień opisują oprogramowanie w komfortowym, klimatyzowanym
 pomieszczeniu, taki tryb pracy może zakrawać na science fiction. Jak widać,
 pisanie dokumentacji to nie zawsze kawka i laptop w zaciszu własnego biurka 😉
 
-### Jeden zrzut ekranu jest wart więcej niż tysiąc słów
+#### Jeden zrzut ekranu jest wart więcej niż tysiąc słów
 
 Pod warunkiem, że jest dobrze zrobiony. Ten temat w swojej krótkiej prezentacji
 [When bad screenshots happen to good writers](http://www.writethedocs.org/conf/eu/2016/speakers/#speaker-eu-2016-swapnil-ogale)
@@ -190,7 +190,7 @@ najbardziej, bo można z nich wynieść najwięcej wskazówek.
 
 https://twitter.com/kmdk/status/777870861634248704
 
-## Wieczorne rozmowy niekontrolowane
+### Wieczorne rozmowy niekontrolowane
 
 Jak wiadomo nie samą treścią Tech Writer żyje, dlatego organizatorzy po
 skończonych prezentacjach zaprosili uczestników do klubu Lávka, w którym
@@ -201,12 +201,12 @@ chłodu i opadów, atmosfera w środku nastrajała pozytywnie i zachęcała do
 nawiązywania nowych znajomości oraz wymiany doświadczeń i wizytówek przy
 niejednym kuflu dobrego, czeskiego piwa.
 
-## Drugi dzień prezentacji (wtorek)
+### Drugi dzień prezentacji (wtorek)
 
 Drugiego dnia na scenie pojawiło się 10 prelegentów. Poniżej przedstawiamy
 wybrane prezentacje.
 
-### Jakość jakości nierówna
+#### Jakość jakości nierówna
 
 Temat jakości dokumentacji został poruszony przez **Rionę MacNamara** podczas
 prezentacji
@@ -234,7 +234,7 @@ bardziej uporządkowana i wiemy jak nazywać rzeczy po imieniu.
 
 https://twitter.com/PeterRylands/status/778142098566553600
 
-### W pogoni za releasem
+#### W pogoni za releasem
 
 **Rachel Whitton** podczas wystąpienia
 [Delivering High-Velocity Docs that Keep Pace with Rapid Release Cycles](http://www.writethedocs.org/conf/eu/2016/speakers/#speaker-eu-2016-rachel-whitton)
@@ -261,7 +261,7 @@ procesu dostarczania dokumentacji. Może będzie to dla Was inspiracja.
 
 https://twitter.com/amybeukenex/status/778176865316040705
 
-### Dokumentacja i wsparcie klienta dwa bratanki
+#### Dokumentacja i wsparcie klienta dwa bratanki
 
 **Sarah Chambers** w swojej prezentacji
 [Documentarians and Support: Work Better Together](http://www.writethedocs.org/conf/eu/2016/speakers/#speaker-eu-2016-sarah-chambers)
@@ -286,7 +286,7 @@ w praktyce rzadko tak się dzieje. Może czas to zmienić?
 
 https://twitter.com/amybeukenex/status/778212229091102720
 
-### Czego pragną programiści
+#### Czego pragną programiści
 
 O tym właśnie opowiadał **Michael Meng** w swoim wystąpieniu zatytułowanym
 [API documentation: Exploring the information needs of software developers](http://www.writethedocs.org/conf/eu/2016/speakers/#speaker-eu-2016-michael-meng).
@@ -309,7 +309,7 @@ ilością przydatnych informacji z dziedziny testowania użyteczności.
 
 https://twitter.com/baitman/status/778222644349075456
 
-## Szybcy jak błyskawica i niekonferencyjni
+### Szybcy jak błyskawica i niekonferencyjni
 
 W poniedziałek i we wtorek po lunchu, scena zamieniała się na 30 minut w swego
 rodzaju [Speakers' Corner](https://en.wikipedia.org/wiki/Speakers%27_Corner).
@@ -344,7 +344,7 @@ uzależnionym od prezentacji, które były prowadzone w tym czasie w sali obok.
 Była to ciekawa propozycja odskoczni od głównych wydarzeń, jednak czasami
 przegrywała z przyciągającym tematem wystąpienia.
 
-## Garść ogólnych spostrzeżeń
+### Garść ogólnych spostrzeżeń
 
 W tym roku organizatorzy postanowili umiejscowić konferencję w sali balowej
 [Autoklub České republiky](http://www.ganimed.cz/). Według nas był to bardzo
@@ -377,7 +377,7 @@ Jedynym uciążliwym niedociągnięciem było połączenie Wi-Fi, które często
 rozłączało. Wiadomo, że głownym celem udziału w konferencji jest słuchanie
 wystąpień, jednak porządne łącze podczas takiego wydarzenia to podstawa.
 
-## Podsumowanie
+### Podsumowanie
 
 Poziom prezentacji był, jak często w przypadku takich imprez, zróżnicowany.
 Organizatorzy udostępnili już

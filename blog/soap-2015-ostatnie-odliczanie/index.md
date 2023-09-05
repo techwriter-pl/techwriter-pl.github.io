@@ -15,13 +15,13 @@ dla Was garść przydatnych informacji na jej temat.
 
 <!--truncate-->
 
-## Termin i miejsce
+### Termin i miejsce
 
 Konferencja odbędzie się w dniach **8-9 października** w
 [Beach Barze na Plaży Kraków](http://www.plazakrakow.com.pl/klub) zlokalizowanym
 przy ul. Ludwinowskiej 2 w Krakowie.
 
-## Rejestracja i cena
+### Rejestracja i cena
 
 Na konferencję można zarejestrować się na stronie organizatora, pod tym
 [linkiem](http://soapconf.com/register/). Opłaty za uczestnictwo uzależnione są
@@ -36,7 +36,7 @@ na pierwszy dzień. Do 2 października cena wejściówki to 245 euro, po tym
 terminie cena wzrasta do 300 euro. Organizatorzy przygotowali różne zniżki, np.
 dla osób, które brały udział w poprzednich edycjach soap!.
 
-## Bonus dla czytelników
+### Bonus dla czytelników
 
 W związku z tym, że wszędzie nas pełno, tym razem też nie mogło być inaczej. Po
 raz kolejny mamy zaszczyt być jednym z patronów medialnych konferencji, dlatego
@@ -44,7 +44,7 @@ oczywiste jest, że nas tam nie zabraknie. Dla Was natomiast mamy specjalnie
 przygotowaną zniżkę. Pierwsze 5 osób, które zarejestrują się z kodem
 **soap!forTechwriter.pl** dostanie zniżkę **10%**.
 
-## Więcej informacji
+### Więcej informacji
 
 Dodatkowe informacje możecie uzyskać na stronie
 [soapconf.com](http://soapconf.com/). Aktualności na temat konferencji można

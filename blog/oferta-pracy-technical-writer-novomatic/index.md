@@ -19,7 +19,7 @@ Z zaprzyjaźnionych źródeł wiemy, że w Zabierzowie trwają poszukiwania dwó
 techwriterów. Poniżej oczekiwania, aplikować możecie
 [pod tym adresem](https://novomatic.workable.com/j/D234B9C9A4).
 
-### Co będziesz robić?
+#### Co będziesz robić?
 
 - Tworzyć i aktualizować różnego rodzaju treści w języku angielskim i polskim
   (instrukcje użytkownika, przewodniki instalacyjne, specyfikacje techniczne,
@@ -32,7 +32,7 @@ techwriterów. Poniżej oczekiwania, aplikować możecie
   problemów, które mogą pomóc zredukować liczbę zagadnień koniecznych do
   wyjaśnienia w dokumentacji
 
-### Co musisz umieć?
+#### Co musisz umieć?
 
 - Posługiwać się językiem angielskim na poziomie B2-C1
 - Myśleć logicznie, analizować i rozwiązywać problemy i sprawnie radzić sobie z

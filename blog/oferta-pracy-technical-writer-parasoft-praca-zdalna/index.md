@@ -32,7 +32,7 @@ lub przez przesłanie oferty bezpośrednio na email:
 
 ---
 
-## Technical Writer - Poland, Remote
+### Technical Writer - Poland, Remote
 
 Parasoft is the leading provider of solutions for development and testing of
 IoT, embedded/safety critical and enterprise applications. Located just outside
@@ -50,7 +50,7 @@ information to our customers. You may also be called on to assist with sales and
 marketing collateral, such as white papers, case studies, blogs, and articles
 for industry publications.
 
-### Responsibilities:
+#### Responsibilities:
 
 - Create and maintain end-user documentation for several products in the
   Parasoft portfolio.
@@ -62,7 +62,7 @@ for industry publications.
 - Assist and engage other writers in the company as needed.
 - Provide feedback to developers, leads, and product managers when applicable.
 
-### Qualifications:
+#### Qualifications:
 
 - 5+ years’ experience writing end-user documentation for software products -or-
   Bachelor’s degree, preferably in English, Computer Science, Technical Writing,
@@ -82,7 +82,7 @@ for industry publications.
 - Knowledge of software testing technologies, computer development environments,
   operating systems, and programming languages a plus.
 
-### Benefits:
+#### Benefits:
 
 - Working for the market leader in the embedded development testing and service
   virtualization.

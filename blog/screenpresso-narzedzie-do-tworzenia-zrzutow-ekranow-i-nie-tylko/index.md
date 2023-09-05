@@ -26,7 +26,7 @@ zastosowanie. Resztę na jego temat znajdziecie
 [tutaj](https://www.screenpresso.com/). Dostępna jest też instrukcja obsługi
 [tutaj](https://www.screenpresso.com/docs/ScreenpressoHelp.pdf).
 
-## Co to za narzędzie?
+### Co to za narzędzie?
 
 [![](images/2020-09-07_20h34_42-1024x717.png)](http://techwriter.pl/wp-content/uploads/2020/09/2020-09-07_20h34_42.png)
 
@@ -39,7 +39,7 @@ Screenpresso ma wbudowany edytor, gdzie w szybki sposób można dopracować
 stworzone obrazy i generować krótkie instrukcje obsługi. Umożliwia również ich
 późniejsze udostępnianie na YouTube, Twitter, Facebook i innych.
 
-## Jak go używać?
+### Jak go używać?
 
 Screenpresso działa na wszystkich wersjach Windows. Możecie go zainstalować na
 komputerze lub rozpocząć pracę bez konieczności instalacji. Procedura jak to
@@ -49,7 +49,7 @@ zrobić znajduje się
 Dla użytkowników chcących, na przykład, edytować stworzone obrazy lub skalować
 wideo, dostępna jest wersja Pro - z koniecznością wykupienia licencji.
 
-## Jak to działa?
+### Jak to działa?
 
 [![](images/shot-f224a47b2becce29ef5fb30e9f584ba7.png)](http://techwriter.pl/wp-content/uploads/2020/09/shot-f224a47b2becce29ef5fb30e9f584ba7.png)
 
@@ -64,7 +64,7 @@ Zastosowanie jest bardzo proste.
 .. i gotowe, Wasze obrazy przechowywane będą w bibliotece. Potem już tylko
 dopracowanie szczegółów.
 
-##  Jakie są zalety?
+###  Jakie są zalety?
 
 Wybraliśmy dla Was kilka, które mogą być kluczowe przy podejmowaniu decyzji o
 użyteczności Screenpresso w Waszych projektach 😊.

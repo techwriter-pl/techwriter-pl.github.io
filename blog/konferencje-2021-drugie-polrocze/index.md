@@ -28,7 +28,7 @@ wydarzeń.
 Mamy prośbę – jeśli wiecie o jakimś wydarzeniu związanym z branżą komunikacji
 technicznej, dajcie znać, a my przekażemy info dalej 😉
 
-### Lipiec
+#### Lipiec
 
 1 lipca - [Convey UX](https://conveyux.com/) - **online**
 
@@ -47,7 +47,7 @@ technicznej, dajcie znać, a my przekażemy info dalej 😉
 24 lipca - 6 sierpnia -
 [Virtual UX Conference](https://www.nngroup.com/training/july/) - **online**
 
-### Sierpień
+#### Sierpień
 
 2-6 sierpnia -
 [Balisage: The Markup Conference 2021](http://www.balisage.net/) - **online** -
@@ -73,7 +73,7 @@ lipca-01 sierpnia
 [The ATD 2021 International Conference & Exposition](https://atdconference.td.org/welcome) -
 **wydarzenie hybrydowe**
 
-### Wrzesień
+#### Wrzesień
 
 2 września - [Convey UX](https://conveyux.com/) - **online**
 
@@ -117,7 +117,7 @@ października
 [KTLC 2021](https://www.konferencjatlumaczy.pl/) - **online** - Konferencja
 Tłumaczy + Translation & Localization Conference
 
-### Październik
+#### Październik
 
 3-5 października -
 [Write the Docs Prague 2021](https://www.writethedocs.org/conf/prague/2021/) -
@@ -161,7 +161,7 @@ hybrydowe** - streaming online + meetupy w 8 lokalizacjach na świecie
 
 25-27 października - [KMIS 2021](http://www.kmis.ic3k.org/) - **online**
 
-### Listopad
+#### Listopad
 
 1-4 listopada, Lizbona, Portugalia - [Web Summit 2021](https://websummit.com/)
 
@@ -174,7 +174,7 @@ hybrydowe** - streaming online + meetupy w 8 lokalizacjach na świecie
 10-12 listopada, Naperville, Illinois, USA -
 [SLATE 2021](https://www.slategroup.org/conference)
 
-### Grudzień
+#### Grudzień
 
 2-3 grudnia -
 [Write the Docs Australia & India 2021](https://www.writethedocs.org/conf/australia/2021/) -
