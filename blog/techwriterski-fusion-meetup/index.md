@@ -6,7 +6,7 @@ tags:
 - "meetup"
 - "edukacja"
 - "spolecznosc"
-  coverImage: "hitachi-meetup-cover.png"
+coverImage: "hitachi-meetup-cover.png"
 ---
 
 Ekipa Technical Writerska z HitachiEnergy Kraków i przyjaciele zapraszają 12 września 17.00-19.30 do siedziby firmy ul. Pawia 7 na techwriterski fusion meetup w języku polskim.
