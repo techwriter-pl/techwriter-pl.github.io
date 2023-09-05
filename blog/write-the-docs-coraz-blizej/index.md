@@ -18,7 +18,7 @@ wyjazdu.
 
 <!--truncate-->
 
-## Writing Day
+### Writing Day
 
 Ciekawie zapowiada
 się [Writing Day](http://www.writethedocs.org/conf/eu/2016/writingday/) - nowa
@@ -32,17 +32,17 @@ stronie. Jednak jeśli macie swój pomysł, warto wcześniej zgłosić go
 organizatorom, by mogli się do niego przygotować. Wszelkie informacje jak to
 zrobić także znajdziecie na podanej wyżej stronie.
 
-### Co zabrać ze sobą?
+#### Co zabrać ze sobą?
 
 Organizatorzy zalecają zabranie komputera lub innego urządzenia, które umożliwia
 tworzenie oraz edytowanie tekstu.
 
-### Kiedy?
+#### Kiedy?
 
 18 września 2016 roku (niedziela) - dzień poprzedzający część główną
 konferencji.
 
-### Bilety
+#### Bilety
 
 Nie ma osobnej puli na Writing Day - wziąć mogą udział nabywcy biletu na
 konferencję. Dla porządku przypominamy cennik wejściówek:
@@ -56,7 +56,7 @@ przewidziana jest wyprzedaż w ostatnich dniach przed konferencją i będzie mo�
 próbować upolować bilet w okazyjnej cenie. Nie wiemy jednak ile biletów będzie w
 puli, jakie będą ich ceny oraz kiedy dokładnie zostaną one obniżone.
 
-## Prelekcje
+### Prelekcje
 
 Writing Day to tylko przedsmak tego, co będzie się działo podczas samej
 konferencji. Tradycyjnie najważniejszym elementem będą prelekcje, które stworzą
@@ -75,7 +75,7 @@ nie jesteście przekonani to niebawem organizatorzy opublikują dokładny plan
 konferencji. Ma on zostać zamieszczony
 [w tym miejscu](http://www.writethedocs.org/conf/eu/2016/schedule/) już wkrótce.
 
-## Inne formy prezentacji
+### Inne formy prezentacji
 
 Dodatkowo w tej edycji konferencji pojawią się dwa nowe typy spotkań z
 uczestnikami:
@@ -87,7 +87,7 @@ uczestnikami:
 - Czas przeznaczony na szybkie wystąpienia (lightning talk slots) -
   kilkuminutowe prezentacje pomiędzy głównymi wystąpieniami konferencji.
 
-## Auto Club
+### Auto Club
 
 Hol, w którym można zobaczyć stary automobil czy model auta wyścigowego sprzed
 lat, sala balowa, czy przestronne aule to tylko część elementów wystroju wnętrz,
@@ -96,7 +96,7 @@ jaki czeka na uczestników konferencji.
 pobliżu stylowego dworca kolejowego. To tu będą miały miejsce prelekcje,
 warsztaty oraz wszelkie imprezy integracyjne zapewnione przez organizatorów.
 
-## Więcej informacji
+### Więcej informacji
 
 Jeśli chcecie być na bieżąco to odsyłamy Was do Twittera, gdzie pod hashtagiem
 [#writethedocs](https://twitter.com/hashtag/writethedocs) znajdziecie

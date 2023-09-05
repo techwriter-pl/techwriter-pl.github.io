@@ -23,7 +23,7 @@ zamieszczony w
 
 ---
 
-## Technical Writer
+### Technical Writer
 
 GDANSK, POLAND / CUSTOMER EXPERIENCE / FULL TIME
 
@@ -55,7 +55,7 @@ to experiment with a variety of approaches to creating information in the
 documentation, supporting materials, and anywhere else our developers experience
 information.
 
-### More about you
+#### More about you
 
 The Ecosystem team is distributed, and we embrace an environment of asynchronous
 communication. You'll need strong communication skills and the ability to build
@@ -72,7 +72,7 @@ started guides and examples to overarching content in our Shift team within
 Ecosystem Platform. You will also get the chance to work with our world-class
 technical writing team on in-depth documentation of technical features.
 
-### When you join the team, you would be expected to have:
+#### When you join the team, you would be expected to have:
 
 - ability to create high-quality user-facing content for software,
 - be a strong user advocate, especially for new developers and partners,
@@ -88,7 +88,7 @@ technical writing team on in-depth documentation of technical features.
 - experience documenting APIs, writing code samples, tutorials, and other
   technical content related to building or extending products and apps.
 
-### And ideally, you would have:
+#### And ideally, you would have:
 
 - a background in engineering/software development,
 - ability to read, write, and verify code samples (e.g., JavaScript, Java,
@@ -102,7 +102,7 @@ technical writing team on in-depth documentation of technical features.
   techniques to ensure that your work is not just accurate, but that it is also
   effective for your target audience.
 
-### More about Atlassian
+#### More about Atlassian
 
 Software is changing the world, and we’re at the center of it all. With a
 customer list that reads like a who's who in tech, and a highly disruptive
@@ -114,7 +114,7 @@ we’re looking for people who are powered by passion and eager to do the best
 work of their lives in a highly autonomous yet collaborative, no B.S.
 environment.
 
-### Additional Information
+#### Additional Information
 
 We believe that the unique contributions of all Atlassians is the driver of our
 success. To make sure that our products and culture continue to incorporate

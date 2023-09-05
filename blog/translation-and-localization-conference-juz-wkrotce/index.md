@@ -24,7 +24,7 @@ między światem dokumentacji i tłumaczeń.
 
 <!--truncate-->
 
-## O TLConference
+### O TLConference
 
 Pomysłodawcą konferencji oraz jej głównym organizatorem jest Agenor
 Hofmann-Delbor. Wraz z
@@ -38,7 +38,7 @@ oscyluje wokół problemów związanych z tłumaczeniami, komunikacją, a także
 wszelkich nowinek branżowych. Tegorocznym motywem przewodnim są zmiany, jakie
 czekają tłumaczy oraz osoby z nimi związane w nadchodzącym 2020 roku.
 
-## Czego się spodziewać?
+### Czego się spodziewać?
 
 ![](images/29744579_1359452354159611_1652082035658152568_o.jpg)
 
@@ -60,7 +60,7 @@ będą nimi dotknięte, tak, by ich dalsza kariera rozwijała się płynnie i z 
 sukcesem. Rok 2020 nie przyniesie nam zapewne latających samochodów, ale będzie
 na pewno inspiracją dla nowych pomysłów na przyszłość.
 
-## Program
+### Program
 
 ![](images/ScreenShot2017-08-14at10.18.53.png.jpg)
 
@@ -86,16 +86,16 @@ Pomiędzy poszczególnymi blokami organizatorzy przewidzieli przerwy na kawę or
 lunch. W piątkowy wieczór czeka nas jeszcze impreza zapoznawcza, a w sobotnie
 popołudnie uroczyste zamknięcie.
 
-## Dla kogo jest TLC?
+### Dla kogo jest TLC?
 
 Konferencja jest szczególnie skierowana do osób pracujących w branży tłumaczeń
 oraz wszystkich osób związanych z szeroko rozumianą komunikacją i automatyzacją.
 
-## Termin
+### Termin
 
 Konferencja odbędzie się w dniach 29 – 30 marca 2019 roku.
 
-## Miejsce
+### Miejsce
 
 ![](images/hotel_exterior.jpg)
 
@@ -109,7 +109,7 @@ rezerwacji i opłaty. Wszelkie szczegóły znajdziecie poniżej oraz na
 
 ![](images/4.jpg)
 
-## Ceny
+### Ceny
 
 Poniżej przedstawiamy ceny wejściówek na konferencję. Jednocześnie przypominamy,
 że **termin rejestracji upływa 28 lutego**.
@@ -134,7 +134,7 @@ szczegóły dotyczące warsztatów, eventów oraz wycieczek, zatem może będą 
 czekały jeszcze dodatkowe atrakcje 😉. Zaglądajcie więc
 [tutaj](https://www.translation-conference.com/buy-tickets), by być na bieżąco.
 
-## Dlaczego warto wziąć udział?
+### Dlaczego warto wziąć udział?
 
 Naszym zdaniem jest kilka powodów, dla których warto wziąć udział w
 TLConference 2019. Po pierwsze, miejsce. Rzadko mamy możliwość wzięcia udziału w

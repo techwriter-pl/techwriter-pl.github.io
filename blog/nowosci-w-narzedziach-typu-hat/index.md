@@ -18,7 +18,7 @@ dokumentacji. Przyjrzyjmy się co ciekawego kryje się pod nowymi "numerkami".
 
 <!--truncate-->
 
-# Help+Manual
+## Help+Manual
 
 [![hm7](images/hm7.png)](http://techwriter.pl/wp-content/uploads/2015/10/hm7.png)
 To już siódma wersja narzędzia od firmy EC Software GmbH. Od wydania wersji 6,
@@ -33,7 +33,7 @@ się też bardziej istotne usprawnienia.
 [![Help-Manual_7](images/Help-Manual_7-1024x723.png)](http://techwriter.pl/wp-content/uploads/2015/10/Help-Manual_7.png)
 _Źródło: www.softpedia.com_
 
-### Nowe formaty publikacji
+#### Nowe formaty publikacji
 
 Wreszcie doczekaliśmy się publikacji projektów do formatu DOCX, który zastąpił
 niezbyt dopracowany eksport do formatu RTF. Nie ukrywamy, że była to jedna z
@@ -48,7 +48,7 @@ powodzeniem może zastąpić poczciwy CHM, ponieważ także występuje w formie
 jednego pliku oraz ma pełne wsparcie dla pomocy kontekstowej, której wywołanie
 znacznie łatwiej zaprogramować niż w przypadku CHM.
 
-### Lepszy PDF
+#### Lepszy PDF
 
 Żeby tego było mało, format PDF został poddany gruntownym przeróbkom.
 Wprowadzone zostało wsparcie dla formatu pliku
@@ -62,7 +62,7 @@ modułu Manual Designer, który służy do konfiguracji szablonów do publikacji
 dokumentów PDF. Na przykład pojawiły się nowe opcje podziału strony, które
 ułatwiają drukowanie dokumentów.
 
-### Rozszerzone wsparcie dla multimediów
+#### Rozszerzone wsparcie dla multimediów
 
 Obiekty graficzne oraz wideo skalują się teraz wraz z rozmiarem okna. Nowa
 opcja, która pozwala na ustawienie przybliżenia proporcjonalnie do szerokości
@@ -73,7 +73,7 @@ można wstawiać pliki SVG tak samo jak inne formaty graficzne. Oprócz tego, mo
 wstawiać filmy z serwisów YouTube, Vimeo oraz Prezi, które następnie są osadzane
 w ramce iFrame.
 
-### Nowe opcje kontroli wersji
+#### Nowe opcje kontroli wersji
 
 Oprócz dostępnej już w wersji 6 integracji z
 [SVN](https://pl.wikipedia.org/wiki/Subversion) oraz
@@ -92,7 +92,7 @@ Więcej informacji na temat programu możecie uzyskać na stronie
 tworzenia konta lub podawania danych. Po prostu klikamy, ściągamy, instalujemy i
 testujemy. Tak jak być powinno 😊
 
-# RoboHelp
+## RoboHelp
 
 [![box_rh2015_150x150](images/box_rh2015_150x150.png)](http://techwriter.pl/wp-content/uploads/2015/10/box_rh2015_150x150.png)
 Konkurencja nie śpi. W obozie Adobe także nastąpiły zmiany w kwestii
@@ -104,7 +104,7 @@ RoboHelpa nosi oznaczenie 2015, a nie 12.
 [![rh2015](images/rh2015.png)](http://techwriter.pl/wp-content/uploads/2015/10/rh2015.png)
 _Źródło: www.techwhirl.com_
 
-### Nowy interfejs
+#### Nowy interfejs
 
 Mocno archaiczny wygląd aplikacji z wersji 11 został zastąpiony popularną w
 ostatnich latach wstążką. Jest to całkiem spora zmiana, więc starzy wyjadacze
@@ -112,7 +112,7 @@ będą zapewne musieli poświęcić chwilę na opanowanie nowego interfejsu. Cie
 rzeczą jest brak zakładki Help. Dość osobliwa sprawa biorąc pod uwagę, że jest
 to program do tworzenia pomocy 😉
 
-### Ulepszone formaty publikacji
+#### Ulepszone formaty publikacji
 
 Format HTML5 został dopieszczony. Teraz bardziej przypomina wyglądem aplikację
 webową lub mobilną. Dodano dwa nowe motywy o nazwie Azure Blue i Charcoal Grey,
@@ -140,7 +140,7 @@ kryptonim 😊 Po kontakcie ze wsparciem technicznym Adobe okazało się, że ni
 się rozwiązać tego problemu w wersji 11. Nie ma też na to żadnego obejścia.
 Jedyna możliwość pozbycia się problemu to aktualizacja do wersji 2015.
 
-### Dynamiczne filtrowanie treści
+#### Dynamiczne filtrowanie treści
 
 W poprzedniej wersji RoboHelpa jedyną możliwością wyłączenia lub włączenia
 pewnych elementów w treści dokumentu było użycie znaczników warunkowych
@@ -157,7 +157,7 @@ warunkowych. Dzięki temu aktualizacja do nowej wersji powinna być
 bezproblemowa - wystarczy włączyć dynamiczne filtry i skorzystać z już
 istniejących znaczników.
 
-### Zrób sobie aplikację
+#### Zrób sobie aplikację
 
 W nowej wersji, RoboHelp umożliwia eksport projektów do natywnych aplikacji dla
 Androida i iOS. Taka możliwość istniała już niby w poprzedniej wersji, jednak

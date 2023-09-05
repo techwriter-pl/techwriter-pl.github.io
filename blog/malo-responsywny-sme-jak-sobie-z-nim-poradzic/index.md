@@ -18,7 +18,7 @@ sugestiami.
 
 <!--truncate-->
 
-### Kto jest kim?
+#### Kto jest kim?
 
 Zacznijmy od początku i sprawdźmy, kto jest kim w tej technical writerskiej
 podróży.
@@ -36,7 +36,7 @@ odpowiedzi nie jesteś w stanie dokończyć, a czasem nawet zacząć pracy nad
 projektem. Jesteś zatem zależny od swojego SME i z całą pewnością potrzebujecie
 mieć dobre relacje, aby móc pracować wydajnie.
 
-### Ludzie są tylko ludźmi
+#### Ludzie są tylko ludźmi
 
 Tak, ludzie są tylko ludźmi i tak jak banalnie to brzmi to jest to także całkiem
 prawdziwe. Pomyśl o SME jak o najzwyklejszym człowieku: może mieć zły albo dobry

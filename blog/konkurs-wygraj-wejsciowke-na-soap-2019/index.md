@@ -15,22 +15,22 @@ konkurs.
 
 <!--truncate-->
 
-# Co trzeba zrobić?
+## Co trzeba zrobić?
 
 Zdefiniować krótko co według Ciebie oznacza **"Docs like code"**.
 
-# Co można wygrać?
+## Co można wygrać?
 
 Najlepszą odpowiedź według nas nagrodzimy wejściówką na
 [soap! 2019](http://soapconf.com/).
 
-# Jak mogę wziąć udział?
+## Jak mogę wziąć udział?
 
 Wyślij do nas swoją odpowiedź mailem na
 [kontakt@techwriter.pl](mailto:kontakt@techwriter.pl) lub za pośrednictwem
 Facebooka
 ([https://www.facebook.com/techwriterpl](https://www.facebook.com/techwriterpl)).
 
-# Do kiedy można wziąć udział?
+## Do kiedy można wziąć udział?
 
 Na odpowiedzi czekamy do **15 maja 2019** włącznie.

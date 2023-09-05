@@ -24,7 +24,7 @@ Będziemy nadal monitorować sytuację i jeśli nastąpią zmiany w organizacji
 którejś z konferencji, damy Wam znać. Jeśli zauważycie, że na naszej liście
 czegoś brakuje, jak zawsze czekamy na informację w komentarzu.
 
-### Wrzesień
+#### Wrzesień
 
 10-11 września, Szanghaj, Chiny -
 [tcworld China 2020](https://www.tcworld-china.cn/en/) - w tym roku forma
@@ -73,7 +73,7 @@ połączona z
 29 września-2 października, online -
 [DocEng 2020](https://doceng.org/doceng2020)
 
-### Październik
+#### Październik
 
 3-4 października, online -
 [SIGDOC 2020](https://sigdoc.acm.org/conference/2020/)
@@ -110,7 +110,7 @@ konferencja z Wrocławia 😉
 26-28 października, online -
 [An Event Apart Fall Summit](https://aneventapart.com/event/online-1020)
 
-### Listopad
+#### Listopad
 
 2-3 listopada, Singapur - [UX STRAT Asia 2020](https://uxstrat.com/asia/)
 
@@ -133,7 +133,7 @@ konferencja z Wrocławia 😉
 16-20 listopada, online -
 [Design Thinkers 2020 Week 2](https://designthinkers.com/week-2)
 
-### Grudzień
+#### Grudzień
 
 2-4 grudnia, online - [WebSummit 2020](https://websummit.com/)
 

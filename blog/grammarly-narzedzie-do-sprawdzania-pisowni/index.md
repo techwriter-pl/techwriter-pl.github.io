@@ -18,7 +18,7 @@ Grammarly? A być może Grammarly to wielka klapa?
 
 <!--truncate-->
 
-# O co chodzi?
+## O co chodzi?
 
 [Grammarly](https://www.grammarly.com) to usługa sprawdzania pisowni i gramatyki
 języka angielskiego dostępna jako szereg aplikacji. Po zapisaniu się do serwisu
@@ -40,7 +40,7 @@ będzie zależało od tego gdzie i jak piszemy. Dostępne są:
 width="735"\][![](images/grammarly-screen-online.png)](http://techwriter.pl/wp-content/uploads/2017/08/grammarly-screen-online.png)
 Aplikacja Grammarly na Mac OS\[/caption\]
 
-# Wersja darmowa i płatna
+## Wersja darmowa i płatna
 
 Aplikacje w **wersji darmowej** pomogą nam wykryć i naprawić krytyczne błędy w
 pisowni i gramatyce.
@@ -53,7 +53,7 @@ A w **wersji płatnej** pomogą także:
   motywacyjny
 - Sprawdzić czy nie popełniamy plagiatu
 
-# Wrażenia z testów
+## Wrażenia z testów
 
 Ta usługa nie przypadła nam do gustu. Ale zaznaczamy, że korzystaliśmy tylko z
 wersji darmowej. Zainstalowaliśmy dodatek do MS Office i wtyczkę do Firefoxa.

@@ -39,7 +39,7 @@ zaczerpnięte wprost z książki i w żadnym wypadku nie są to nasze złote my�
 tak gwoli ścisłości 😊 Książka liczy ponad 200 stron, dlatego też żeby Was nie
 zanudzić, informacje podzieliliśmy na dwa wpisy. Życzymy przyjemnej lektury.
 
-## Kim jest Technical Writer?
+### Kim jest Technical Writer?
 
 1. To tak naprawdę tłumacz, ponieważ dostaje w ręce jakąś skomplikowaną
    technologię i jego misją jest wytłumaczenie osobom, które nie znają tej
@@ -65,7 +65,7 @@ zanudzić, informacje podzieliliśmy na dwa wpisy. Życzymy przyjemnej lektury.
      informacji i jak rozmawiać z ludźmi. Ważna jest też zdolność odpowiedniego
      filtrowania zdobytej wiedzy.
 
-## Jak wygląda proces tworzenia dokumentacji?
+### Jak wygląda proces tworzenia dokumentacji?
 
 Cały proces można podzielić na następujące kroki:
 
@@ -86,7 +86,7 @@ się cofnąć do kroku 4. Autorzy zaznaczają, że z własnego doświadczenia w
 że takie sytuacje wystąpią na pewno, więc najlepiej od razu psychicznie się na
 nie przygotować.
 
-## Jak planować dokumentację?
+### Jak planować dokumentację?
 
 1. Planowanie dokumentacji jest bardzo istotne, pomimo tego, że często jest to
    "wróżenie z fusów".
@@ -101,7 +101,7 @@ nie przygotować.
    - Rozdział pomocy online = 8 godzin pracy
    - Instrukcja przewidziana na 1 godzinę = 40 godzin pracy
 
-## Skąd czerpać informacje do dokumentacji?
+### Skąd czerpać informacje do dokumentacji?
 
 1. Specyfikacje techniczne:
 
@@ -139,7 +139,7 @@ nie przygotować.
    - Informacja z pierwszej ręki jak produkt jest używany
    - Rzadko kiedy jest na to czas i/lub fundusze
 
-## Jak pisać?
+### Jak pisać?
 
 1. Zawsze pamiętaj dla kogo piszesz - dostosuj informacje do poziomu wiedzy
    grupy docelowej, np. nie pisz o tym jak włączyć przeglądarkę w dokumencie dla
@@ -158,7 +158,7 @@ nie przygotować.
 4. Zmiany w harmonogramie tworzenia dokumentacji są tak pewne jak podatki i
    śmierć - rzadko kiedy wszystko idzie w pełni zgodnie z planem.
 
-## Jak tworzyć instrukcje opisujące wykonywanie konkretnych zadań?
+### Jak tworzyć instrukcje opisujące wykonywanie konkretnych zadań?
 
 1. Nie opisuj funkcji dostępnych w interfejsie użytkownika w kolejności w jakiej
    występują, tylko w takiej jaką wybrałby użytkownik.
@@ -175,7 +175,7 @@ nie przygotować.
    zdanie lub dwa wstępu do czego ona prowadzi.
 7. Nie nadużywaj ostrzeżeń, ponieważ użytkownik przestanie zwracać na nie uwagę.
 
-## Edycja dokumentu przed publikacją
+### Edycja dokumentu przed publikacją
 
 1. Autorzy z własnego doświadczenia podają, że osoba edytująca dokumentację
    przed publikacją jest w stanie przejść przez 10 stron w ciągu godziny, co

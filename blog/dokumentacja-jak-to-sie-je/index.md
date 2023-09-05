@@ -40,7 +40,7 @@ poszczególnych zagadnień związanych z pisaniem dokumentacji. Opracowałem je 
 podstawie własnych doświadczeń, oraz lektury kilku książek, których tytuły
 wymieniam na końcu.
 
-### Cechy dobrej dokumentacji:
+#### Cechy dobrej dokumentacji:
 
 - jest dokładna i bezbłędna
 - jest kompletna
@@ -49,7 +49,7 @@ wymieniam na końcu.
 - użytkownik może łatwo znaleźć informację, której potrzebuje
 - ma porządny, ładny wygląd.
 
-### Etapy tworzenia dokumentacji:
+#### Etapy tworzenia dokumentacji:
 
 - zbieranie informacji na temat opisywanego systemu
 - tworzenie projektu dokumentacji
@@ -60,13 +60,13 @@ wymieniam na końcu.
 Dwa ostatnie etapy są zwykle powtarzane kilkakrotnie, aż do usunięcia wszystkich
 usterek.
 
-#### Informacje na temat opisywanego systemu, można zbierać poprzez:
+##### Informacje na temat opisywanego systemu, można zbierać poprzez:
 
 - czytanie już istniejących fragmentów dokumentacji
 - pracę z programem i analizę kodu źródłowego
 - konsultacje (zazwyczaj z developerami, którzy stworzyli system).
 
-#### Projekt dokumentacji powinien zawierać następujące elementy:
+##### Projekt dokumentacji powinien zawierać następujące elementy:
 
 - tytuł dokumentacji
 - rodzaj dokumentacji (np. podręcznik użytkownika)
@@ -96,7 +96,7 @@ Przy tworzeniu dokumentacji, zwykle występują co najmniej dwa kamienie milowe,
 często nie ma ich więcej. Dlatego w projekcie dokumentacji podaje się
 najczęściej terminy dwóch kamieni.
 
-#### Weryfikacja dokumentacji oznacza:
+##### Weryfikacja dokumentacji oznacza:
 
 - dokładne przeczytanie dokumentacji w poszukiwaniu błędów
 - sprawdzenie czy zrzuty ekranu odpowiadają temu, co rzeczywiście w opisywanym
@@ -111,7 +111,7 @@ i upewnienie się, że wszystko zrozumiał. Powód: dokumentalista może zapomni
 napisaniu czegoś, co jest dla niego "oczywiste", a recenzent, zwykle dobrze
 znający system, może nie zauważyć takiego braku.
 
-#### Dwa ważne pytania, jakie należy sobie zadać przed rozpoczęciem pracy nad dokumentacją:
+##### Dwa ważne pytania, jakie należy sobie zadać przed rozpoczęciem pracy nad dokumentacją:
 
 1. Dla kogo ta dokumentacja jest przeznaczona? Inaczej pisze się np. dla
    sprzedawcy, który będzie jedynie korzystał z systemu, a inaczej dla
@@ -160,7 +160,7 @@ Dodatkową zaletą takiego podejścia jest to, że na pierwszy rzut oka widoczny
 jest stan prac nad dokumentacją - co konkretnie jest już gotowe, co wymaga
 uzupełnienia, a co nie jest jeszcze rozpoczęte.
 
-#### Na początku dokumentacji powinny się znaleźć:
+##### Na początku dokumentacji powinny się znaleźć:
 
 - copyright (najlepiej zwrócić się do działu prawnego firmy o opracowanie
   dokładnego sformułowania)
@@ -302,7 +302,7 @@ skomplikowany, czytelnik niewiele by z niego rozumiał i tylko co chwila by
 błądził nawigując po plątaninie strzałek, to lepiej w ogóle zrezygnować z
 diagramu, a poszczególne stany i warunki przejścia między nimi, opisać słownie.
 
-#### Jeśli dokumentalista przejmuje dokumentację napisaną przez kogoś innego, to zanim zacznie dopisywać nowe rozdziały, powinien:
+##### Jeśli dokumentalista przejmuje dokumentację napisaną przez kogoś innego, to zanim zacznie dopisywać nowe rozdziały, powinien:
 
 - przeczytać to, co już jest napisane
 - jeśli jest to możliwe, porozmawiać z poprzednim autorem dokumentacji i

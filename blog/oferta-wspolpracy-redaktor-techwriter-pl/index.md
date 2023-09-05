@@ -19,7 +19,7 @@ Chociaż właściwie określenie "oferta pracy" może nie jest tutaj odpowiednie
 tworzenie Techwriter.pl to bardziej pasja. Poszukujemy osób, które chciałaby
 dołączyć do naszego grona redakcyjnego.
 
-# Kogo szukamy
+## Kogo szukamy
 
 Chcielibyśmy z Tobą współpracować, jeśli:
 
@@ -36,7 +36,7 @@ Chcielibyśmy z Tobą współpracować, jeśli:
 - Lubisz pisać i potrafisz to robić (albo chcesz się nauczyć)
 - Masz kilka godzin w miesiącu, które możesz i chcesz poświęcić Techwriter.pl
 
-# Co oferujemy
+## Co oferujemy
 
 Techwriter.pl jest portalem tworzonym przez grupę pasjonatów komunikacji
 technicznej. Nie mamy żadnych sponsorów ani powiązań finansowych z
@@ -59,7 +59,7 @@ niefinansowe benefity:
 - Nieustanne poszerzanie horyzontów, doświadczenie we współpracy w grupie i
   pracy redakcyjnej
 
-# Jak się zgłosić?
+## Jak się zgłosić?
 
 Jeśli uważasz, że ta oferta jest dla Ciebie, wyślij nam maila na
 [kontakt@techwriter.pl](mailto:kontakt@techwriter.pl) lub wyślij nam wiadomość

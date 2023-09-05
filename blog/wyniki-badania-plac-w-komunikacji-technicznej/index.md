@@ -16,7 +16,7 @@ badanie płac w branży komunikacji technicznej. Oto jego wyniki.
 
 <!--truncate-->
 
-# Przegląd odpowiedzi
+## Przegląd odpowiedzi
 
 W badaniu wzięło udział 70 osób. Jesteśmy bardzo zadowoleni, że udało się zebrać
 tyle odpowiedzi, choć nadal nie jesteśmy w stanie oszacować ilu jest
@@ -70,12 +70,12 @@ Liczba odpowiedzi na województwo:
 - woj. łódzkie: 2
 - woj. podlaskie: 1
 
-# Przegląd wynagrodzeń
+## Przegląd wynagrodzeń
 
 Od czego zależą wysokości wynagrodzeń? Żeby przybliżyć odpowiedź,
 przeanalizowaliśmy wyniki ankiety pod kilkoma kątami.
 
-## Stanowisko
+### Stanowisko
 
 Średnia i mediana pensji są wyższe na stanowiskach kierowniczych niż dla
 technical writerów. Pozostałe grupy wymienione w badaniu miały po jednym
@@ -83,7 +83,7 @@ respondencie.
 
 [![](images/stanowisko.png)](http://techwriter.pl/wp-content/uploads/2017/04/stanowisko.png)
 
-## Staż pracy
+### Staż pracy
 
 Staż pracy przekłada się na wyższe wynagrodzenie, natomiast przekroczenie progu
 5 lat doświadczenia wydaje się przynosić największy skok w wysokości
@@ -92,7 +92,7 @@ osoby wśród naszych respondentów.
 
 [![](images/staz.png)](http://techwriter.pl/wp-content/uploads/2017/04/staz.png)
 
-## Region
+### Region
 
 W kolejności od najlepiej zarabiających widzimy następujące województwa:
 
@@ -103,7 +103,7 @@ W kolejności od najlepiej zarabiających widzimy następujące województwa:
 
 [![](images/wojewodztwo.png)](http://techwriter.pl/wp-content/uploads/2017/04/wojewodztwo.png)
 
-## Rodzaj i wielkość firmy
+### Rodzaj i wielkość firmy
 
 Zarówno średnia jak i mediana pensji jest wyższa dla pracowników firm
 zagranicznych. Natomiast jeśli chodzi o wielkość firmy, najlepiej płacą firmy od
@@ -111,13 +111,13 @@ zagranicznych. Natomiast jeśli chodzi o wielkość firmy, najlepiej płacą fir
 
 [![](images/rodzaj-firmy.png)](http://techwriter.pl/wp-content/uploads/2017/04/rodzaj-firmy.png)
 
-## [![](images/wielkosc-firmy.png)](http://techwriter.pl/wp-content/uploads/2017/04/wielkosc-firmy.png)Przygotowanie
+### [![](images/wielkosc-firmy.png)](http://techwriter.pl/wp-content/uploads/2017/04/wielkosc-firmy.png)Przygotowanie
 
 Osoby, które ukończyły kurs ITCQF znajdują się wśród najlepiej zarabiających.
 Czy to oznacza, że kurs przygotowuje najlepiej płatnych specjalistów, czy
 właśnie ci specjaliści wzięli udział w kursie?
 
-# [![](images/przygotowanie.png)](http://techwriter.pl/wp-content/uploads/2017/04/przygotowanie.png)Podsumowanie
+## [![](images/przygotowanie.png)](http://techwriter.pl/wp-content/uploads/2017/04/przygotowanie.png)Podsumowanie
 
 Wyniki badania nie dają pełnego statystycznego obrazu w branży w Polsce, ale
 pokazują pewne przykłady. Innymi słowy, możemy wywnioskować, że są ludzie w

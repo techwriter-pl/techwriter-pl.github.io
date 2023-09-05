@@ -16,7 +16,7 @@ jakie przewodzą ewolucji tego zawodu. Jakie to trendy? Szczegóły poniżej.
 
 <!--truncate-->
 
-## Rosnące wykorzystanie narzędzi i platform cyfrowych
+### Rosnące wykorzystanie narzędzi i platform cyfrowych
 
 Autorzy tekstów technicznych używają szerokiej gamy narzędzi i platform
 cyfrowych do tworzenia, edytowania i publikowania swoich dokumentów. Obejmuje to
@@ -28,7 +28,7 @@ możliwości, jakie oferują firmy je produkujące. Zmieniają się także wymag
 stawiane twórcom treści, co dodatkowo pobudza rynek do wymyślania coraz to
 nowych rozwiązań.
 
-## Zacieśnienie współpracy z różnymi zespołami wewnątrz organizacji
+### Zacieśnienie współpracy z różnymi zespołami wewnątrz organizacji
 
 Praca technical writera od zawsze wymagała umiejętności współpracy z różnymi
 osobami w organizacji. Z czasem trend ten się nasilił i w wielu firmach twórca
@@ -44,7 +44,7 @@ tych narzędzi, ponieważ pozwala im to śledzić zmiany w dokumentach i łatwie
 współpracować z członkami zespołów. Ułatwia również śledzenie różnych wersji
 dokumentu i, w razie potrzeby, powrót do poprzednich wersji.
 
-## Koncentracja na użyteczności i doświadczeniu użytkownika
+### Koncentracja na użyteczności i doświadczeniu użytkownika
 
 Autorzy tekstów technicznych coraz bardziej koncentrują się na tym, aby ich
 dokumenty były proste w użyciu i nawigacji, z naciskiem na użyteczność i
@@ -56,7 +56,7 @@ rozwojowi coraz to nowszych narzędzi jest to z jednej strony ułatwione, a z
 drugiej wymaga, by technical writerzy wciąż rozwijali swoje kompetencje, a także
 byli na bieżąco z nowinkami.
 
-## Wykorzystanie sztucznej inteligencji i uczenia maszynowego
+### Wykorzystanie sztucznej inteligencji i uczenia maszynowego
 
 Technical writerzy od jakiegoś czau badają wykorzystanie sztucznej inteligencji
 i uczenia maszynowego do automatyzacji niektórych zadań związanych z pisaniem
@@ -66,21 +66,21 @@ w spójny sposób. Automatyzacja przy pomocy AI może pomóc zaoszczędzić czas
 poprawić wydajność procesu pisania technicznego, a także zmniejszyć ryzyko
 błędów lub niespójności.
 
-## Przejście w kierunku zwinnych metodologii
+### Przejście w kierunku zwinnych metodologii
 
 Wiele zespołów zajmujących się pisaniem tekstów technicznych coraz częściej
 stosuje zwinne metodyki (agile), które obejmują częste iteracje i współpracę z
 zespołami międzyfunkcyjnymi. Umożliwia to bardziej elastyczne i responsywne
 opracowywanie dokumentów.
 
-## Powstanie strategii dotyczącej treści
+### Powstanie strategii dotyczącej treści
 
 Pisanie techniczne jest coraz częściej uznawane za ważny element strategii
 dotyczącej treści, a autorzy techniczni ściśle współpracują z zespołami ds.
 marketingu i produktów w celu tworzenia treści spełniających zarówno potrzeby
 użytkowników, jak i cele biznesowe.
 
-## Elementy multimedialne (na przykład filmy lub grafika interaktywna)
+### Elementy multimedialne (na przykład filmy lub grafika interaktywna)
 
 Elementy multimedialne w technical writingu odnoszą się do wykorzystania
 elementów wizualnych i interaktywnych oprócz tekstu, aby pomóc w przekazywaniu

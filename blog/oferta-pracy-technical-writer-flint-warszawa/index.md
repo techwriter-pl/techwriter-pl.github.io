@@ -23,7 +23,7 @@ flintmail.com_
 
 ---
 
-## TECHNICAL WRITER
+### TECHNICAL WRITER
 
 **THE TEAM**
 

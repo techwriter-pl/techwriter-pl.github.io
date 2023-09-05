@@ -16,7 +16,7 @@ tematy? O tym, i nie tylko, przeczytacie w dalszej części artykułu.
 
 <!--truncate-->
 
-## Program i przemówienia
+### Program i przemówienia
 
 Jak przez ostatnie dwa lata, organizatorzy Write the Docs Prague 2022
 postanowili kontynuować konferencję w formie online. Tegoroczna edycja była
@@ -41,7 +41,7 @@ odbywały się po zakończeniu każdej z dwóch prezentacji 😊
 A co było najciekawsze na wirtualnej scenie? Ze wszystkich prelekcji wybraliśmy
 kilka, którymi w imieniu redakcji chciałam się z Wami podzielić.
 
-### Nie wahaj się pytać!
+#### Nie wahaj się pytać!
 
 Być może utknęliście z jakimś problemem i nie możecie rozgryźć, dlaczego dany
 program działa tak a nie inaczej lub macie problem z implementacją algorytmu? A
@@ -105,7 +105,7 @@ problemy i jest to jeden z najlepszych wyników, jakie możecie osiągnąć!
 > wise, for a well-packed question carries its answer on its back as a snail
 > carries its shell. - James Stephens
 
-### Przygotowanie dokumentacji dla odbiorców z Afryki
+#### Przygotowanie dokumentacji dla odbiorców z Afryki
 
 Jeśli interesuje Was jak obecnie rozwija się społeczność tech writerów i branża
 IT w Afryce oraz jak zmienia się tamtejszy rynek, to warto zajrzeć do tej części
@@ -166,7 +166,7 @@ deweloper lub tech writer będzie w stanie zacząć przygotowywać dokumentację
 Takie rozwiązanie wymaga czasem od zespołu napisania kodu tak, aby dopasować go
 do już istniejącej specyfikacji.
 
-### Sposoby na przekonanie szefa, by powiedział "tak" na zatrudnienie dodatkowych pracowników
+#### Sposoby na przekonanie szefa, by powiedział "tak" na zatrudnienie dodatkowych pracowników
 
 Niezależnie od tego, czy kierujesz zespołem lub jesteś szefem działu, musisz
 podjąć decyzję o zatrudnieniu większej liczby pracowników i uzyskać zielone
@@ -233,7 +233,7 @@ poprawić relacje z klientami. Jak się okazuje, nie powinno być tak trudno
 skłonić szefa do powiedzenia "tak", jeśli przedstawcie Wasze argumenty w
 przekonujący sposób. Zatem życzymy powodzenia!
 
-### Jak pomóc sobie w wyeliminowaniu błędów w dokumentacji jako kod
+#### Jak pomóc sobie w wyeliminowaniu błędów w dokumentacji jako kod
 
 Czy zastanawialiście się, jak zabezpieczyć projekt przed przypadkowymi błędami?
 Jak zautomatyzować pracę nad dokumentami?  Albo jakie narzędzia można do tego
@@ -317,7 +317,7 @@ korzystanie z odpowiednich narzędzi może pomóc w szybszym sprawdzeniu dokumen
 W zależności od preferencji, możesz użyć różnych zasad, aby sprawdzić styl
 kodowania i wyeliminować błędy.
 
-## Lighting talks
+### Lighting talks
 
 Dodatkowo chcielibyśmy zwrócić Waszą uwagę na 2 kilkuminutowe prezentacje,
 wygłoszone podczas konferencji.
@@ -362,7 +362,7 @@ Jeśli chcecie dowiedzieć się więcej na ten temat, kliknijcie
 [tutaj](https://accens.pl/) i
 [tutaj](http://techwriter.pl/dokumentacja-techniczna-dla-daltonistow/).
 
-## Kilka słów na zakończenie
+### Kilka słów na zakończenie
 
 Jeśli macie czas i zasoby, wykorzystajcie okazję do wzięcia udziału w
 wydarzeniach takich jak Write the Docs. Jest to zawsze ciekawe doświadczenie i

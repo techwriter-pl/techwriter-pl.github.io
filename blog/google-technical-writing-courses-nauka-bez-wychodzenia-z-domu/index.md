@@ -17,7 +17,7 @@ wartościowe informacje.
 
 <!--truncate-->
 
-### Informacje ogólne
+#### Informacje ogólne
 
 [Technical Writing Courses](https://developers.google.com/tech-writing)
 znajdziecie na stronie [Google Developers](https://developers.google.com/)
@@ -48,7 +48,7 @@ Kursy są w języku angielskim i wymagają nieco znajomości zwrotów branżowyc
 ich wykonania potrzebujemy komputera, tabletu czy smartfona z dostępem do
 Internetu. Nie ma możliwości pobrania materiałów na dysk.
 
-### Technical Writing One
+#### Technical Writing One
 
 Poniżej przedstawiamy spis treści z zagadnieniami, jakie zostały opisane w tej
 części kursu:
@@ -90,7 +90,7 @@ zainteresowani również przedstawiciele innych branż. Dla nas było to doskona
 przypomnienie reguł języka angielskiego, co z pewnością będzie mile odebrane
 przez filologów, chcących się przebranżowić.
 
-### Technical Writing Two
+#### Technical Writing Two
 
 Część druga kursu dla Technical Writerów jest skierowana do wszystkich osób,
 które ukończyły część pierwszą i chcą poszerzyć zdobytą już wiedzę. Poniżej
@@ -109,7 +109,7 @@ liczne błędy, które towarzyszą tworzeniu dokumentacji. Odnieśliśmy wrażen
 w tej części mamy dużo więcej praktycznych zastosowań reguł oraz więcej ćwiczeń,
 w których uczestnik musi pogłówkować.
 
-### Jak zostać trenerem?
+#### Jak zostać trenerem?
 
 Google umożliwia osobom chętnym pozostanie trenerem/facylitarorem powyższych
 kursów. Aby móc prowadzić szkolenie nie trzeba być profesjonalistą, jednak
@@ -132,14 +132,14 @@ oraz
 kursu. W nich macie wszelkie niezbędne informacje oraz opis jak powinny być
 prowadzone zajęcia.
 
-### A może chcesz zostać Technical Writerem w Google?
+#### A może chcesz zostać Technical Writerem w Google?
 
 W ostatniej sekcji kursów _The Profession_ znajdziecie informacje kto i w jaki
 sposób może zostać pracownikiem Google na stanowisku Technical Writera. Chętnych
 odsyłamy [tutaj](https://developers.google.com/tech-writing/becoming) i życzymy
 szczęścia 😉
 
-### Podsumowanie
+#### Podsumowanie
 
 Na samodzielne wykonanie kursów musimy przeznaczyć około 3,5-4 godziny.
 Struktura i tematyka obydwu części jest przejrzysta oraz tak ustalona, że po

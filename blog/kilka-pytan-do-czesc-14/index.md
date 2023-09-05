@@ -18,38 +18,38 @@ i autobusów żyje się lżej. Przed Wami Marcin z Wrocławia.
 
 <!--truncate-->
 
-### Jak długo pracujesz jako Tech Writer?
+#### Jak długo pracujesz jako Tech Writer?
 
 6 miesięcy.
 
-### W jaki sposób zostałeś Tech Writerem?
+#### W jaki sposób zostałeś Tech Writerem?
 
 Znalazłem ofertę pracy, która mnie zainteresowała i postanowiłem spróbować.
 
-### Czy możesz opowiedzieć coś o swojej firmie i zespole, w którym pracujesz?
+#### Czy możesz opowiedzieć coś o swojej firmie i zespole, w którym pracujesz?
 
 Volvo, zespół liczący ok. 30 osób. Pracujemy nad rozwojem aplikacji, która
 pomaga warsztatom i dealerom w serwisowaniu ciężarówek i autobusów.
 
-### W jaki sposób jest zorganizowana praca Twoja i Twojego zespołu?
+#### W jaki sposób jest zorganizowana praca Twoja i Twojego zespołu?
 
 Mamy zespoły developerów, testerów, business analityków, SRM, PM, Solution
 Leadera i Technical Writera. Pracujemy w 2-tygodniowych sprintach. Release ma
 miejsce maksymalnie dwa razy w roku.
 
-### Jakich narzędzi używasz i co o nich sądzisz?
+#### Jakich narzędzi używasz i co o nich sądzisz?
 
 Jest to wewnętrzny system Volvo, ale póki co miałem mało okazji, żeby z nim
 pracować, więc wyrobienie sobie o nim opinii zostawiam na później. To taki spory
 kombajn, którego tylko mała część służy Technical Writerowi do pisania. W tym
 systemie pisze się manuala do aplikacji. Poza tym piszę Release Notes w Wordzie.
 
-### W jaki sposób zdobywasz informacje potrzebne do tworzenia dokumentacji?
+#### W jaki sposób zdobywasz informacje potrzebne do tworzenia dokumentacji?
 
 Rozmowy z członkami zespołu, dokumentacja systemowa, opisy Change Requestów i
 bugów w JIRA.
 
-### Jakie dokumenty dostarczasz, w jakiej postaci, w jakich językach i jak są one publikowane?
+#### Jakie dokumenty dostarczasz, w jakiej postaci, w jakich językach i jak są one publikowane?
 
 Release Notes pisane w Wordzie w języku angielskim, tłumaczone w tej chwili na
 27 języków i publikowane jako PDF na wewnętrznym portalu Volvo oraz na Volvo
@@ -58,7 +58,7 @@ języku angielskim i tłumaczony na 32 języki. Dostęp do manuala jest w aplika
 Application texts pisane w języku angielskim przez developerów. Ja sprawdzam
 jakość tych tekstów oraz koordynuje ich tłumaczenie na 32 języki.
 
-### Czy oprócz tworzenia dokumentacji zajmujesz się czymś jeszcze, np. tworzeniem materiałów marketingowych? Jeśli tak, to czym i jakich narzędzi do tego używasz?
+#### Czy oprócz tworzenia dokumentacji zajmujesz się czymś jeszcze, np. tworzeniem materiałów marketingowych? Jeśli tak, to czym i jakich narzędzi do tego używasz?
 
 Redaguję newsletter pisany w Wordzie w języku angielskim i publikowany jako PDF
 na Volvo teamplace. Pomagam też innym zespołom w pisaniu Release Notes do ich
@@ -66,16 +66,16 @@ aplikacji w Wordzie. Doraźnie pomagam też w tłumaczeniu na język angielski 
 edycji tekstów marketingowych pojawiających się na intranecie Volvo - tu także
 korzystam z Worda.
 
-### Jakie są największe wyzwania, które napotykasz w swojej pracy?
+#### Jakie są największe wyzwania, które napotykasz w swojej pracy?
 
 Pisanie zwięzłych i łatwych dla czytelnika tekstów - tego wciąż się uczę, bycie
 kreatywnym w tworzeniu nowych ciekawych form przekazywania informacji.
 
-### Co najbardziej lubisz w pracy Tech Writera?
+#### Co najbardziej lubisz w pracy Tech Writera?
 
 Uczenie się nowych rzeczy cały czas oraz kontakt z językiem angielskim.
 
-### Co byś radził osobom, które chciałyby zacząć swoją przygodę z pisaniem dokumentacji?
+#### Co byś radził osobom, które chciałyby zacząć swoją przygodę z pisaniem dokumentacji?
 
 Wierzcie w siebie i swoje umiejętności, nie bójcie się podejmowania wyzwań.
 

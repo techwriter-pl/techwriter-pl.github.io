@@ -23,7 +23,7 @@ Przypominamy, że konferencja odbędzie się w dniach 2-5 kwietnia i będzie
 wypełniona po brzegi zarówno mnóstwem informacji, jak i atrakcjami dodatkowymi,
 o których piszemy poniżej 😉
 
-### Prelekcje i nie tylko
+#### Prelekcje i nie tylko
 
 Konferencja MadWorld łączy w sobie kilka elementów, dzięki którym uczestnicy
 wyjadą z niej bogatsi o szereg informacji z branży tech commu. Standardowo będą
@@ -65,7 +65,7 @@ zawrzeć nowe znajomości, a także dobrze się bawić w gronie ciekawych osób 
 
 ![](images/photo-lounge2-946-1x-e1485467698950.jpg)
 
-### Rejestracja i ceny
+#### Rejestracja i ceny
 
 Poniżej ceny, które pewnie Was teraz najbardziej interesują:
 

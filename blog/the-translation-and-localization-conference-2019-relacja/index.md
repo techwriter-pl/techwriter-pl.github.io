@@ -29,7 +29,7 @@ się jej przyjrzeć i zastanowić się co możemy zrobić by się na nią przygo
 Udało nam się wziąć udział w pierwszym dniu konferencji, dlatego zapraszamy
 serdecznie na nasze sprawozdanie z tego co się działo.
 
-# Nietuzinkowe otwarcie
+## Nietuzinkowe otwarcie
 
 Sposób w jaki organizatorzy rozpoczęli konferencję wpisał się w motyw przewodni
 konferencji. Zamiast przemowy, zafundowali uczestnikom scenkę rodzajową, w
@@ -51,7 +51,7 @@ Conference\[/caption\]
 
 Poniżej przedstawiamy opis prezentacji, które najbardziej przykuły naszą uwagę.
 
-# Przestań narzekać i zacznij działać
+## Przestań narzekać i zacznij działać
 
 Pierwszą prelekcję, o tym jak lepiej prowadzić biznes w 2020, wygłosił Robert
 Etches z firmy Exfluency. Nie trudno zauważyć, że cały świat ulega zmianom,
@@ -105,7 +105,7 @@ Ciekawa prezentacja, w której najbardziej podobało nam się to, że prowadząc
 starał się zwracać naszą uwagę na pozytywne aspekty zachodzących wokół nas zmian
 i na to jak można wyciągnąć z nich korzyści.
 
-# Twoja przyszłość zaczyna się teraz
+## Twoja przyszłość zaczyna się teraz
 
 Temat postępującej w szybkim tempie rewolucji technologicznej kontynuowała w
 swojej prezentacji Beata Strzałka z Sodexo.
@@ -171,7 +171,7 @@ solidna dawka danych, kilka ciekawych spostrzeżeń i wartościowych wskazówek 
 temat otaczającej nas rzeczywistości, które możemy wykorzystać w życiu
 codziennym.
 
-# Warto się zaprzyjaźnić z tłumaczeniem maszynowym
+## Warto się zaprzyjaźnić z tłumaczeniem maszynowym
 
 Areta Kempińska z Bireta Professional Translations mówiła o roli tłumaczenia
 maszynowego w pracy agencji tłumaczeniowej i freelancera. Było to rozszerzenie
@@ -250,7 +250,7 @@ docenić wysiłek prowadzącej, która nie bała się (po raz kolejny) włożyć
 mrowisko. Nie bójmy się poruszać takich tematów, bo tylko dzięki temu możemy iść
 do przodu.
 
-# Co trzeba będzie umieć w 2020?
+## Co trzeba będzie umieć w 2020?
 
 Pierwszy dzień konferencji zakończył panel dyskusyjny moderowany przez Agenora
 Hofmanna-Delbora z udziałem Roberta Etchesa, Arety Kempińskiej i Wojciecha
@@ -306,7 +306,7 @@ Podsumowując, była to owocna dyskusja, która dobrze uzupełniła i zamknęła
 poruszane wcześniej w prelekcjach oraz dała możliwość zastanowienia się nad tym
 jak przetrwać w branży tłumaczeniowej przyszłości.
 
-# Podsumowanie
+## Podsumowanie
 
 Pomimo tego, że The Translation and Localization Conference skierowana była
 głównie do specjalistów związanych z branżą tłumaczeniową, poruszone problemy

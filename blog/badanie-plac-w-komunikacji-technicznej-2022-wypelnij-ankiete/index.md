@@ -17,7 +17,7 @@ Niezbędne informacje poniżej.
 
 <!--truncate-->
 
-### Krótka historia
+#### Krótka historia
 
 Stali Czytelnicy dobrze wiedzą czym jest nasza coroczna akcja z wypełnianiem
 ankiety oraz w jakim celu ją robimy. Jednak dla osób zaglądających tu od
@@ -48,7 +48,7 @@ Zebranymi informacjami oczywiście podzielimy się na łamach portalu.
 
 Ankieta jest dostępna pod tym [linkiem](https://forms.gle/GkgDufeLyd7Qau9VA).
 
-### Dlaczego warto wypełnić tę ankietę?
+#### Dlaczego warto wypełnić tę ankietę?
 
 1. Dane te pomogą Wam przy następnej zmianie pracy – dowiecie się jakich widełek
    płacowych można się spodziewać.
@@ -61,17 +61,17 @@ Ankieta jest dostępna pod tym [linkiem](https://forms.gle/GkgDufeLyd7Qau9VA).
 5. Być może po opublikowaniu wyników będziecie mieli mocny argument aby poprosić
    o podwyżkę!
 
-### Ile zajmie mi wypełnienie ankiety?
+#### Ile zajmie mi wypełnienie ankiety?
 
 Ankieta zawiera kilkanaście prostych pytań. Jej wypełnienie nie zajmie więcej
 niż kilka minut, a jeśli odpowiedzi będzie wystarczająco dużo – każdy z nas może
 mieć z tego wymierną korzyść.
 
-### Jak długo ankieta będzie aktywna?
+#### Jak długo ankieta będzie aktywna?
 
 Na odpowiedzi czekamy do **15 czerwca 2022** roku.
 
-### Gdzie będzie można sprawdzić wyniki ankiety?
+#### Gdzie będzie można sprawdzić wyniki ankiety?
 
 Po zakończeniu badania, wyniki oczywiście opublikujemy na
 [Techwriter.pl](http://techwriter.pl/).

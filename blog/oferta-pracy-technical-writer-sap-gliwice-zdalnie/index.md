@@ -28,9 +28,9 @@ przez tę właśnie stronę.
 
 ---
 
-#### ![](images/Screenshot-2021-07-21-at-11.47.13.png)
+##### ![](images/Screenshot-2021-07-21-at-11.47.13.png)
 
-#### **ABOUT THE ROLE AND PRODUCT**
+##### **ABOUT THE ROLE AND PRODUCT**
 
 Kyma is a fundamental application runtime of SAP BTP, built on top of
 Kubernetes. It allows users to seamlessly run their cloud-native applications
@@ -43,7 +43,7 @@ both its open-source and commercial part.
 As part of a product team, you will participate in the whole lifecycle of the
 product over a long period of time.
 
-#### **EXPECTATIONS AND TASKS**
+##### **EXPECTATIONS AND TASKS**
 
 - Create, maintain and continuously improve our product documentation (in
   English), with the help of a development team
@@ -59,7 +59,7 @@ product over a long period of time.
 - We expect that you also value transparency, communication and collaboration,
   as we do!
 
-#### **REQUIRED SKILLS**
+##### **REQUIRED SKILLS**
 
 - University degree in Information Technologies, Language Studies (with a strong
   interest in modern technologies), or being a recognized expert in technical
@@ -72,7 +72,7 @@ product over a long period of time.
 - Ability to quickly adapt to changing technologies and tools
 - Being proactive and able to work as a member of a self-organized team
 
-#### **PREFERRED SKILLS** 
+##### **PREFERRED SKILLS** 
 
 - Experience in Markdown, HTML
 - Basic knowledge of some modern programming languages (e.g. JavaScript, Go,
@@ -82,7 +82,7 @@ product over a long period of time.
 - Essential understanding of Agile software development
 - A certificate confirming the language level would be an advantage
 
-#### **BENEFITS**
+##### **BENEFITS**
 
 We offer a rich package of benefits including:
 

@@ -29,7 +29,7 @@ techwriterów.  Szesnastoosobowa grupa studentów i studentek jest więc pierws
 która będzie mogła pochwalić się dyplomem z tego zakresu, uzyskanym na polskiej
 uczelni. W tej grupie jestem również ja.
 
-### Skąd się tu wzięłam?
+#### Skąd się tu wzięłam?
 
 Dawno, dawno temu, kiedy jeszcze PR oznaczało dla mnie tylko public relations, a
 nie pull request, ukończyłam magisterskie studia na Wydziale Dziennikarstwa i
@@ -48,7 +48,7 @@ marketingowym jest wiele, ale na palcach obu rąk można policzyć specjalistów
 którzy nie tylko mogą pochwalić się lekkim piórem, ale też biegle opanowali
 terminologię IT. Skoro wiem, że napiszę wszystko, to może także dokumentację?
 
-### Czy na pewno dam sobie radę?
+#### Czy na pewno dam sobie radę?
 
 O tym, że powstaną studia na temat komunikacji technicznej, wiedziałam od dawna.
 Czaiłam się wokół nich przez wiele miesięcy. Długo nie udawało się ich
@@ -66,7 +66,7 @@ natychmiast pojawia się pomoc w postaci informacji, linków, okazji do ćwicze�
 Na korzyść studentek i studentów działa też fakt, że uczymy się wszyscy - nie
 tylko my, uczestnicy, ale też wykładowcy, którzy zadebiutowali w tej roli.
 
-### No dobrze, to w końcu jak jest?
+#### No dobrze, to w końcu jak jest?
 
 Rzecz jasna, pełnej i rzetelnej odpowiedzi na to pytanie będę mogła udzielić
 dopiero po ukończeniu studiów. Subiektywnie? Na ogół bawię się dobrze, zadaję
@@ -107,7 +107,7 @@ sobie radę?” to częste zjawisko wśród kobiet w branży IT. U mnie także s
 pojawia, zwłaszcza, że moja droga do techwritingu była nietypowa - nie mam ani
 doświadczenia tłumaczeniowego, ani ściśle technicznego.
 
-### Ciąg dalszy nastąpi
+#### Ciąg dalszy nastąpi
 
 Przed studentami i studentkami drugi semestr: praca dyplomowa, która będzie mieć
 formę praktycznego projektu, oraz - dla chętnych - podejście do egzaminu

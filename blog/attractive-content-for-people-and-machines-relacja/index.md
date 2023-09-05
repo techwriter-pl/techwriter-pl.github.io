@@ -22,7 +22,7 @@ Od razu zaznaczmy, że mówiąc o maszynach mamy tutaj na myśli wyszukiwarki
 internetowe, które definiują "atrakcyjność" treści przy użyciu odpowiednich
 algorytmów.
 
-## I'm not bad, I'm just drawn this way
+### I'm not bad, I'm just drawn this way
 
 Treści publikowane w sieci są wynikiem pracy wielu różnych ludzi, w tym osób
 zajmujących się komunikacją techniczną, ale niezależnie od tego kto je tworzy,
@@ -42,7 +42,7 @@ czego. Widzowie zauważają potknięcia, kłamstwa i nieścisłości tracąc prz
 zaufanie do reklamowanych marek. Ta forma przekazuje musiała więc dorosnąć wraz
 z jej odbiorcami.
 
-## Od dziecka do wczesnej dorosłości
+### Od dziecka do wczesnej dorosłości
 
 Ale nie tylko odbiorca się rozwija. W przypadku internetu rozwija się też sposób
 wyszukiwania i klasyfikowania materiałów zamieszczonych w sieci. Anne
@@ -62,7 +62,7 @@ technologiczną, a dojrzałością Google, co daje duże pole do manewru dla fir
 organizacji, które powinny rozpocząć otwarty dialog ze swoimi pracownikami w
 celu znalezienia sposobu na zmniejszenie tej różnicy.
 
-## Pióro potrafi więcej niż algorytm
+### Pióro potrafi więcej niż algorytm
 
 To właśnie człowiek jest w tej dogodnej sytuacji, że może nagiąć zasady
 wyszukiwania treści do swoich potrzeb, tworząc je bardziej atrakcyjnymi. Anne

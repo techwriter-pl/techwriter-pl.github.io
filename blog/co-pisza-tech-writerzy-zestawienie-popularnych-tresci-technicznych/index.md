@@ -29,7 +29,7 @@ Jeśli zatem zastanawiasz się,
 i nie wiesz jeszcze jakie treści techwriter opracowuje, przybliżamy kilka
 najczęściej pisanych dokumentów technicznych.
 
-### User Guide, User Manual czyli podręcznik użytkownika
+#### User Guide, User Manual czyli podręcznik użytkownika
 
 Nawet dla osób umiarkowanie obytych z dokumentacją techniczną ten typ
 dokumentacji będzie wyglądać znajomo. To klasyczny podręcznik użytkowania mający
@@ -87,7 +87,7 @@ pokazuje też, że nie tylko użytkownik w tym kontekście może być zielony w
 temacie, bo ileż można oszczędzić drzew decydując się na elektroniczną
 dystrybucję dokumentacji technicznej!
 
-### Quick Start Guide — skrócona instrukcja obsługi
+#### Quick Start Guide — skrócona instrukcja obsługi
 
 Informację o tym jak uzyskać dostęp do elektronicznej wersji instrukcji produktu
 często zawiera się w skróconej instrukcji obsługi. To ten drobny świstek
@@ -121,7 +121,7 @@ ponownym użyciu już wcześniej wydanej treści, chyba że nie doszło do zmian
 wyglądzie produktu, co zdarza się nieczęsto. Autor niniejszego artykułu pracował
 kiedyś przy opracowaniu grafik do instrukcji zmywarek, więc coś tam wie. 😉
 
-### Developer, Administrator, Technician Guide — dla odbiorcy wykwalifikowanego
+#### Developer, Administrator, Technician Guide — dla odbiorcy wykwalifikowanego
 
 W przypadku dokumentu technicznego dedykowanego administratorom, developerom lub
 technikom wchodzimy na wyższy poziom, gdyż nie uczymy tych osób jak dany produkt
@@ -168,7 +168,7 @@ dokumentacji do przeglądnięcia off-line lub specjalnie dedykowany portal
 oferujący dostęp do bazy wiedzy, gdzie oprócz treści pisanych mogą znaleźć się
 również materiały wideo oraz szkolenia.
 
-### API Guide — w ojczystym po prostu dokumentacja API
+#### API Guide — w ojczystym po prostu dokumentacja API
 
 Kolejnym istotnym filarem treści w świecie dokumentacji technicznej jest
 dokumentacja API. Zagadnienie to zostało już poruszone na łamach naszego
@@ -176,7 +176,7 @@ portalu, więc po więcej szczegółów odsyłamy do stosownego artykułu, gdzie
 poznacie jaka jest
 [definicja i rodzaje dokumentacje API](http://techwriter.pl/dokumentacja-api-czesc-1-definicja-i-rodzaje-api/).
 
-### Safety Leaflet — broszura informacyjna dotycząca bezpieczeństwa
+#### Safety Leaflet — broszura informacyjna dotycząca bezpieczeństwa
 
 Tutaj wkraczamy na obszary, w których technical writer/ka działa w służbie
 bezpieczeństwa odbiorcy treści. Ulotka, tudzież broszura informująca o
@@ -193,7 +193,7 @@ regulacje prawne i przepisy. Każda potrzeba edycji takiej zawartości kończy s
 może być tu osobą inicjującą zmianę lub czasami ostatnim ogniwem w łańcuchu
 dyskusji.
 
-### Release Notes — informacje o wersji
+#### Release Notes — informacje o wersji
 
 Release Notes (w skrócie RN lub RNs) tworzy się przy wypuszczaniu kolejnej
 wersji oprogramowania. Informują one o rozwiązanych błędach, usprawnieniach i
@@ -214,7 +214,7 @@ być generowane za pośrednictwem skryptu, lecz zdarza się też, że powstają 
 współdzielonym przez wiele osób dokumencie, do którego dorzuca się kolejne
 informacje istotne dla wydawanej wersji oprogramowania.
 
-### Internal Documentation — dokumentacja dla dokumentacji i nie tylko
+#### Internal Documentation — dokumentacja dla dokumentacji i nie tylko
 
 Istotną część pracy technical writera/ki może stanowić pisanie dokumentacji
 wewnętrznej przeznaczonej do użytku zespołu techwriterskiego lub inżynieryjnego.
@@ -235,7 +235,7 @@ formacie. Może być to wewnętrzna strona internetowa, dysk współdzielony,
 dokument zapisany w przystosowanym do tego narzędziu (np. Confluence) lub po
 prostu arkusz kalkulacyjny.
 
-### To nie wszystko!
+#### To nie wszystko!
 
 Przedstawiliśmy w tym zestawieniu najczęściej spotykane dokumenty pojawiające
 się w pracy tech writera/ki, lecz to z pewnością nie są wszystkie formy treści

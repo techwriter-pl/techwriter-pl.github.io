@@ -29,7 +29,7 @@ była znacznie intensywniejsza pod każdym względem. Zero ściemy, roboty po
 kokardę - oto najkrótsze podsumowanie. Uwaga, w artykule pojawiają się pojęcia
 oznaczone gwiazdką - wyjaśniam je pod koniec, w mini glosariuszu.**
 
-### A jednak techniczna
+#### A jednak techniczna
 
 Po
 [pierwszym tekście](http://techwriter.pl/komunikacja-techniczna-jak-sie-studiuje/),
@@ -77,7 +77,7 @@ narzędzi na zajęciach i mnóstwem projektów klikanych po godzinach. Na
 pocieszenie mogę jednak dodać, że za spóźnienie z dostarczeniem pracy domowej
 nikt nikomu nie urywał głowy.
 
-### Listy z Ameryki
+#### Listy z Ameryki
 
 I jeszcze ciekawostka - podczas drugiego semestru chętne osoby mogły wziąć
 udział w wirtualnej wymianie studenckiej, prowadzonej przez dr Lance’a Cummingsa
@@ -93,7 +93,7 @@ koniec zszedł on na drugi plan i toczył się gdzieś w tle. To dlatego, że na
 przełomie marca i kwietnia wszystkie zasoby mojego procesora zżerała już praca
 zaliczeniowa.
 
-### Le grand finale
+#### Le grand finale
 
 Prace tworzyliśmy etapami. Od wykładowców dostaliśmy kilkanaście tematów do
 wyboru - mogliśmy zdecydować się na jeden z nich lub zaproponować inny.
@@ -125,7 +125,7 @@ już nie na studiach, ale w pracy. Świat, jak wiadomo, jest mały. Pierwsze
 spotkanie absolwentów i absolwentek już się zresztą odbyło - grupka integrowała
 się w jednym z krakowskich pubów.
 
-### Tak to ja mogę studiować
+#### Tak to ja mogę studiować
 
 Jeśli z powyższego artykułu wyszło wam, że podyplomówka z komunikacji
 technicznej to pot, krew i łzy, spieszę wyprowadzić was z błędu. Tak, roboty
@@ -144,7 +144,7 @@ ale jak dobrzy znajomi. I wiem, że w toku dalszej kariery możemy liczyć na
 wsparcie Darka, Marty, Tomka, Daniela i Piotra. Dzięki za wszystko! To co,
 odpalamy kolejną edycję dla zaawansowanych?
 
-### Bonus: ściąga dla humanistów, czyli glosariusz
+#### Bonus: ściąga dla humanistów, czyli glosariusz
 
 - **CAT -** akronim od Computer Aided Translation, czyli narzędzia usprawniające
   pracę tłumacza (np. Trados, MemoQ). Dzięki nowoczesnemu i rozbudowanemu

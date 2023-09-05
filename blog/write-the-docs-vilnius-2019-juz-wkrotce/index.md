@@ -18,7 +18,7 @@ jeszcze skusi 😉
 
 <!--truncate-->
 
-### Co, gdzie i kiedy?
+#### Co, gdzie i kiedy?
 
 Konferencja odbędzie się **2 – 3 czerwca w stolicy Litwy, Wilnie** na
 [Uniwersytecie Nauk Stosowanych SMK](https://www.smk.lt/en/). Szczegółowe
@@ -36,7 +36,7 @@ skrótowy program Write the Docs Vilnius:
   każdego z dni oraz omówienie prelekcji w jakich będziecie mogli wziąć udział
   dostępne są [tutaj](https://www.writethedocs.org/conf/vilnius/2019/schedule/).
 
-### Ceny i rodzaje biletów
+#### Ceny i rodzaje biletów
 
 Wciąż możecie zakupić bilet na wydarzenie na stronie konferencji
 ([link](https://www.writethedocs.org/conf/vilnius/2019/tickets/)).

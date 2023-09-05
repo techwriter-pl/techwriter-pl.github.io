@@ -16,7 +16,7 @@ być szczególnie przydatny twórcom długich, rozbudowanych dokumentów.
 
 <!--truncate-->
 
-## **Hello Word!**
+### **Hello Word!**
 
 **Chyba najbardziej podstawowym narzędziem w pracy Technical Writera jest
 procesor tekstu, zaś wśród tego typu programów od lat niepodzielnie króluje Word
@@ -79,7 +79,7 @@ została zaprojektowana. Oto trzy, które nam wydają się najpoważniejsze.**
    standardowe. Oznacza to, że gdy komuś wyślemy nasz tekst, nigdy nie mamy
    pewności, czy odbiorca w pełni zrozumie ile jeszcze pracy wymaga dokument.
 
-## **Literatura i latte?**
+### **Literatura i latte?**
 
 Odkryliśmy ostatnio narzędzie, które według nas stanowi znakomity zamiennik
 Worda dla ludzi, którzy borykają się z opisanymi wyżej problemami. Program
@@ -106,7 +106,7 @@ tekstu dają mu możliwość efektywnego zarządzania projektem pisania. Sprawia
 one, że Scrivener towarzyszy twórcy od pierwszego, niewyraźnego pomysłu do
 gotowego dzieła.**
 
-## **Dobry plan to elastyczny plan**
+### **Dobry plan to elastyczny plan**
 
 Scrivener pozwala zaplanować dokument, dzieląc go na dowolną ilość mniejszych
 kawałków, a następnie dowolnie modyfikować jego strukturę. Kawałki mogą być
@@ -128,7 +128,7 @@ fragment (w tym trybie każdy kawałek otwierany jako mały, osobny dokument), c
 dokument (wtedy wygląda to bardzo podobnie jak w Wordzie) lub zmieniając jego
 układ przeciągając i upuszczając gotowe fragmenty.**
 
-## **W tym szaleństwie jest metoda**
+### **W tym szaleństwie jest metoda**
 
 Klasyczny edytor (np. Word) zakłada, że długi dokument będziemy pisać tak samo
 jakbyśmy pisali list albo notatkę. Zaczniemy od początku i klawisz za klawiszem
@@ -178,7 +178,7 @@ akapitów, które wcześniej nie były planowane i chcemy widzieć jak wpasowuj�
 w całość? Przechodzimy do widoku zarysu i widzimy ich umiejscowienie i aktualny
 status.**
 
-## Risercz!
+### Risercz!
 
 Kolejne funkcjonalności, których nie sposób przecenić z punktu widzenia
 Technical Writera to zbieranie i zarządzanie notatkami. Nic nie stoi na
@@ -193,7 +193,7 @@ nie trzeba nawet przełączać się pomiędzy dwoma oknami Scrivenera. Dzielimy 
 i możemy wyświetlać notkę, równocześnie dłubiąc w odnoszącym się do niej
 fragmencie tekstu. Jest to znakomite rozwiązanie np. dla tłumaczy.
 
-## Scrivening? Co proszę?
+### Scrivening? Co proszę?
 
 Brzmi ciekawie? Nic dziwnego, gdyż program ten stworzony został przez pisarzy
 specjalnie z myślą o twórcach długich, skomplikowanych tekstów. Pracownicy

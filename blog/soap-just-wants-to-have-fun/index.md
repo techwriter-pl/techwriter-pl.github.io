@@ -34,7 +34,7 @@ and another one shares his daily-work toils with a white terrier, who loves
 chasing after a rubber ball. Curiously enough, none of these oddities disrupted
 the conference flow.
 
-## Here We Come
+### Here We Come
 
 This year we were honoured to be an official media partner of soap!, so we
 didn’t try to be late like the last time (for all those who don’t remember,
@@ -51,7 +51,7 @@ curtains, and raw concrete surfaces which brought to mind a DIY store, were
 adorned with modern elements. Such stylistic approach was pleasing to the eye
 and it corresponded well with the overall vibe of the conference.
 
-## Let’s Start!
+### Let’s Start!
 
 One of the soap!’s co-founders, [Paweł Kowaluk](http://soapconf.com/team/) took
 the floor, as it fell to him to deliver the opening talk for soap! 2014. This
@@ -78,7 +78,7 @@ interesting approach and although it cannot be applied in complicated business
 products, one should not forget that voluminous user manuals aren’t always the
 best solution.
 
-## Meanwhile in the Bathroom
+### Meanwhile in the Bathroom
 
 I must admit, that bathroom doesn’t rank high among the topics that permeate the
 reports from technical communication conferences, but this time we had to make
@@ -94,7 +94,7 @@ but not limited to swimming goggles and a climbing helmet. As it turned out,
 quite a few brave daredevils took up the challenge and the effects could be seen
 on the @SoapConf Twitter profile or using the #soapkrk hashtag.
 
-## Networking Opportunities
+### Networking Opportunities
 
 soap! wasn’t just about the talks and presentations. The conference organisers
 didn’t forget about the less formal part which is the networking. After the
@@ -103,7 +103,7 @@ glass of wine at a nearby wine-bar and the second day was topped with a farewell
 party in one of the clubs. As we all know, nothing binds technical writers
 together better than toasting to good content.
 
-## A Handful of Facts
+### A Handful of Facts
 
 And now for a bunch of solid facts. We have obtained this data from the
 conference organizers, so it’s not a figment of our merry creativity as is the
@@ -118,7 +118,7 @@ Services GmbH, Autodesk, Roche, Motorola Solutions, and Google, among others.
 The talks covered various topics like documentation for API, gamification, UX,
 DITA, storytelling, silos, content management strategies, and Agile.
 
-## Let’s Sum Up
+### Let’s Sum Up
 
 Considering organisational aspects (the talks were covered in separate
 articles), the conference left us with a pleasant impression. Clearly, it is

@@ -17,12 +17,12 @@ kod".
 
 <!--truncate-->
 
-## Data i miejsce
+### Data i miejsce
 
 Spotkanie odbędzie się **5 lutego 2019** o **18:00** w biurze Guidewire Software
 przy [ul. Prądnickiej 20A w Krakowie](https://goo.gl/maps/XVr4ySwRk6y).
 
-## Prezentacja
+### Prezentacja
 
 Prezentację pt. **„Automatyzacja w generowaniu dokumentacji”** poprowadzi nasz
 redakcyjny kolega Michał Skowron, który jest częścią zespołu dokumentacyjnego w
@@ -31,7 +31,7 @@ informacji, które żyją w różnych środowiskach. Postara się też opowiedzi
 technicznej stronie tego co udało się wdrożyć u nich w firmie do tej pory, oraz
 o planach na przyszłość.
 
-## Rejestracja
+### Rejestracja
 
 Uczestnictwo w spotkaniu jest bezpłatne. Chęć przybycia możecie zgłosić za
 pomocą

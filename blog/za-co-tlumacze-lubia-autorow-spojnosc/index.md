@@ -34,7 +34,7 @@ treści przyjaznej dla tłumaczy. Temat okazał się dość obszerny, dlatego au
 postanowiła podzielić go na kilka części. Dzisiaj część pierwsza pt. "Za co
 tłumacze lubią autorów - spójność".
 
-# Kilka słów o autorce
+## Kilka słów o autorce
 
 Marta Bartnicka jest kierowniczką działu tłumaczeń dla Europy Środkowej w IBM. Z
 działem tym związana jest od 20 lat, zajmując się między innymi tłumaczeniem,
@@ -52,7 +52,7 @@ Tatry.[![](images/marta_bartnicka-295x300.jpg)](http://techwriter.pl/wp-content/
 Jeśli chcecie skontaktować się z Martą, możecie wysłać jej maila
 na [martab@kofeina.net](mailto:martab@kofeina.net).
 
-# Za co tłumacze lubią autorów - spójność
+## Za co tłumacze lubią autorów - spójność
 
 Krótki cykl opowieści o tym, za co tłumacze lubią autorów dokumentacji, pomocy i
 interfejsów.
@@ -67,7 +67,7 @@ koniecznością.
 Przyjrzyjmy się zatem kilku zagadnieniom, dzięki którym tłumacze nie będą
 wbijali niczego w laleczki voodoo wyobrażające tech writera.
 
-## Może być różowo, byle jednakowo
+### Może być różowo, byle jednakowo
 
 Wyrażanie tej samej myśli na trzy sposoby miało swoją rolę w wypracowaniach
 szkolnych, kiedy nauczyciel wymagał co najmniej pięciu stóp pergaminu. Znajomość
@@ -116,7 +116,7 @@ nagłowić; nie wiem jak koledzy po fachu – ja zawsze wolałam w tłumaczeniu
 zużywać zasoby wewnętrznego procesora na coś nowego, a nie na mielenie
 wariantów.
 
-## Kantyczka dla STE
+### Kantyczka dla STE
 
 W niemal każdym projekcie obejmującym technical writing znajdziemy jakiś
 zalecany słownik, jakiś rodzaj wytycznych co do stylu i języka – nawet jeśli
@@ -148,7 +148,7 @@ specyfikację z całego serca, to będą to:
    autor tekstu jest Chińczykiem i do szyku zdania ma podejście swobodne, a do
    przyimków - nieufne.
 
-## Przez snippety do gwiazd
+### Przez snippety do gwiazd
 
 Oprócz słowników i poradników stylistycznych, na ratunek autorom – a w dalszej
 perspektywie tłumaczom – śpieszą metody topic-based writing i narzędzia, które

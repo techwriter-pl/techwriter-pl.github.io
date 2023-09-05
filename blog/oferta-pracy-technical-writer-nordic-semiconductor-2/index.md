@@ -25,7 +25,7 @@ chcecie zaaplikować, skontaktujcie się **Magdaleną Osowską** dzwoniąc pod
 +48 608 40 7766 lub pisząc na
 adres [rekrutacja@nordicsemi.no](mailto:rekrutacja@nordicsemi.no).
 
-## _**TECHNICAL WRITER**_
+### _**TECHNICAL WRITER**_
 
 _You are a dedicated technical writer with a passion for delivering high quality
 documentation. You enjoy explaining complex tasks and features by writing clear
@@ -35,7 +35,7 @@ tools. Within the Technical Publications team you will collaborate on reviews
 and support maintenance of our documentation portal. You will directly influence
 how we develop, handle, and maintain our documentation needs in the future._
 
-### _**Qualifications**_
+#### _**Qualifications**_
 
 - _Native level English writing and communication skills_
 - _Ability to quickly grasp new software systems_
@@ -43,13 +43,13 @@ how we develop, handle, and maintain our documentation needs in the future._
 - _Minimum of 2 years work related experience_
 - _Ability to work both independently and in teams_
 
-### _**Nice to have**_
+#### _**Nice to have**_
 
 - _Experience with DITA_
 - _Experience with Git or similar distributed version control system_
 - _Familiarity with a software development languages_
 
-### _**Responsibilities**_
+#### _**Responsibilities**_
 
 - _Write, edit and review software documentation_
 - _Work closely with engineers towards publishing documentation to tight
@@ -57,7 +57,7 @@ how we develop, handle, and maintain our documentation needs in the future._
 - _Identify inconsistency and deviations from language rules and company
   guideline_
 
-### _**We can offer you**_
+#### _**We can offer you**_
 
 - _Bonus and increase every year_
 - _Openness for creative ideas (short decision path)_

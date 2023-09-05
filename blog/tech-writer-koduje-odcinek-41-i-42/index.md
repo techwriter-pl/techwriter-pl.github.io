@@ -18,7 +18,7 @@ dokumentacji. Odcinek 42 to podsumowanie tegorocznej konferencji soap!
 
 <!--truncate-->
 
-### Odcinek 41
+#### Odcinek 41
 
 W tym podcaście Michał i Paweł rozmawiają o tym czy pisanie dokumentacji i
 kodowanie są do siebie podobne. Zastanawiają się też czy kodujący technical
@@ -71,7 +71,7 @@ Jeśli temat dokumentacji i kodowania jest Wam bliski, zachęcam do odsłuchania
 tego odcinka podcastu Tech Writer Koduje. Wbrew pozorom, dziedziny te mają ze
 sobą bardzo wiele wspólnego.
 
-### Odcinek 42
+#### Odcinek 42
 
 Jak słusznie zauważają prowadzący podcast, konferencja soap! to święto każdego
 technical writera. Dlatego też nie mogło się u nich obyć bez podsumowania i

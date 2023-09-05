@@ -39,7 +39,7 @@ i znamy XSLT, możemy napisać swoje.
 
 ![](images/dita-diagram-1.png)
 
-# Jak to działa?
+## Jak to działa?
 
 DITA jest publikowana przez
 [DITA OT](https://en.wikipedia.org/wiki/DITA_Open_Toolkit), który opiera się na
@@ -56,7 +56,7 @@ Transformacja w drugą stronę działa analogicznie. Pliki XML stanowiące jaki�
 dokument można zamienić w pliki DITA. Zaawansowani użytkownicy mogą pokusić się
 o zmienianie plików DOCX lub RTF w pliki XML.
 
-# Przykład
+## Przykład
 
 Poniższy przykład jest dla osób zaznajomionych z XSLT. Gdybyśmy chcieli stworzyć
 diagram z plików DITA, moglibyśmy to zrobić w następujących krokach:
@@ -88,7 +88,7 @@ ale zarysowuje o czym mówimy.
 </xsl:foreach>
 ```
 
-# Dla nie-programistów
+## Dla nie-programistów
 
 Jeżeli nie mamy talentu do kodowania, lub czasu na to, najlepiej zwrócić się do
 osoby, która zaprojektowała nasze arkusze stylów do DITA OT. Albo poprosić

@@ -26,13 +26,13 @@ produktowej. W skład wydarzenia wchodzą następujące sesje:
   warsztacie stworzymy samodzielnie infografikę, a organizatorka obiecuje też
   nagrody dla uczestników
 
-# Gdzie i kiedy
+## Gdzie i kiedy
 
 Warsztaty odbędą się 1 czerwca 2016 w
 [Krakowskim Parku Technologicznym](http://www.kpt.krakow.pl/) przy ulicy Podole
 60 w Krakowie.
 
-# Dla kogo
+## Dla kogo
 
 Uczestnictwo w warsztatach wymaga osobnego biletu, ale jest on darmowy dla tych,
 którzy już opłacili wstęp na dwa dni konferencji. Dla tych, którzy

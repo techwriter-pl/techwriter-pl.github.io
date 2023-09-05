@@ -48,7 +48,7 @@ lub bezpośrednio przez
 
 ---
 
-## Product Technical Writer/Content Manager
+### Product Technical Writer/Content Manager
 
 After a period of rapid growth, we are looking to hire Technical Writer /
 Content Manager who will coordinate production of technical content supporting
@@ -59,7 +59,7 @@ video user guides, training guides, feature demos and walkthroughs.
 We’re looking to hire somebody full-time, but we would also be happy to evaluate
 part-time candidates (at least 3/5).
 
-### What you’ll be doing:
+#### What you’ll be doing:
 
 - #### In this role, you will be responsible for managing technical documentation of Enxoo software product suite, shaping the way it is organized, produced, written and published.
 - You will work together with our product development team: product managers,
@@ -78,7 +78,7 @@ part-time candidates (at least 3/5).
   templates.
 - You will make assessments on documentation needs.
 
-#### What will you need?
+##### What will you need?
 
 - 1 year of technical writing experience from a software development company.
 - Excellent written and verbal technical communication skills in English.
@@ -102,7 +102,7 @@ part-time candidates (at least 3/5).
 - Knowledge of telecommunications industry.
 - Remember to include samples of your work during your application.
 
-#### What we offer:
+##### What we offer:
 
 - Possibility to work completely remotely – till the end of Covid19.
 - Possibility to work completely remotely/hybrid after Covid19 – we are open to

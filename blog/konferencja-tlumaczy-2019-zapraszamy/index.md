@@ -19,7 +19,7 @@ wrześniu w Warszawie. Poniżej najważniejsze informacje.
 
 <!--truncate-->
 
-### Krótki powrót do przeszłości
+#### Krótki powrót do przeszłości
 
 Konferencja Tłumaczy, to według organizatorów, największe wydarzenie w branży
 tłumaczeniowej w Polsce. Jest ona przede wszystkim skierowana do tłumaczy
@@ -34,7 +34,7 @@ W roku 2016 Konferencja Tłumaczy była jednym z wydarzeń organizowanych w rama
 anglojęzycznej konferencji Translation and Localization. Jednak już od 2017 roku
 imprezy te funkcjonują jako osobne wydarzenia.
 
-### Motyw przewodni na 2019 rok
+#### Motyw przewodni na 2019 rok
 
 ![](images/Zrzut-ekranu-2019-08-18-o-23.10.23-e1566163108587.png)
 
@@ -49,7 +49,7 @@ charakterystyczne w dobie nowoczesnej komunikacji światowej. Jak umiejętnie
 kontekście odnosić sukces w branży i ciągle się rozwijać? Na te i wiele innych
 pytań spróbują odpowiedzieć prelegenci wraz z uczestnikami.
 
-### Co nas czeka?
+#### Co nas czeka?
 
 A skoro o prelegentach mowa, czas na przybliżenie Wam programu tegorocznej
 edycji Konferencji Tłumaczy.
@@ -86,7 +86,7 @@ Więcej szczegółów znajdziecie
 Poza zaplanowanymi prelekcjami czeka na Was także wieczorna impreza
 networkingowa, o której szczegółach organizator wkrótce poinformuje.
 
-### Termin i miejsce
+#### Termin i miejsce
 
 Konferencja Tłumaczy odbędzie się **28 września (sobota)** w
 [Centrum Konferencyjnym Zielna](http://www.centrumzielna.pl/) w Warszawie.
@@ -95,7 +95,7 @@ przeczytacie poniżej.
 
 ![](images/collage_kt.png)
 
-### Warsztaty
+#### Warsztaty
 
 Organizatorzy zapraszają również na cykl warsztatów, które odbędą się w dniach
 26 i 27 września.​ Warsztaty są otwarte dla wszystkich (nie trzeba być
@@ -114,7 +114,7 @@ uczestnictwa. Do wyboru są następujące tematy:
   września
   ([więcej informacji](https://www.localize.pl/product-pol-165-UX-w-pigulce-czyli-projektowanie-stron-WWW-dla-tlumaczy-i-biur-tlumaczen-warsztaty.html)).
 
-### Bilety
+#### Bilety
 
 Udział w konferencji, wieczornym networkingu oraz warsztatach wymaga rejestracji
 oraz zakupu biletu. Dodatkowo można wykupić obiad na dzień konferencji

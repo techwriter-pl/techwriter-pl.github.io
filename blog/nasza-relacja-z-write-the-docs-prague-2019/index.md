@@ -26,7 +26,7 @@ W tym artykule postaram się przybliżyć tematy, które pojawiły się w r
 wystąpień, ale także wątki, które udało mi się uchwycić w trakcie rozmów z
 uczestnikami — writerami, managerami, projektantami.
 
-## Writing day
+### Writing day
 
 Tradycją stało się już to, że pierwszy dzień konferencji ma charakter
 warsztatowy. Każdy z uczestników ma okazję zaproponować temat/projekt, nad
@@ -38,7 +38,7 @@ doświadczenie.
 Korzystając z tej możliwości, zorganizowałem grupę, która postawiła sobie za cel
 znalezienie odpowiedzi na pytanie:
 
-### Jak dobra jest twoja dokumentacja (w liczbach)?
+#### Jak dobra jest twoja dokumentacja (w liczbach)?
 
 Temat był na tyle inspirujący i rozległy, że jako jedyna grupa potrzebowaliśmy
 dwóch stołów i jako jedna z nielicznych pracowaliśmy aż do końca zaplanowanego
@@ -67,7 +67,7 @@ budżetem do inwestycji w tym obszarze.
 Writing Day był bardzo intensywnym, kreatywnym dniem, który wielu z nas pozwolił
 na rozwiązanie problemów, z którymi borykamy się na co dzień.
 
-## Conference talks
+### Conference talks
 
 Kolejne dwa dni to głównie wystąpienia omawiające, podkreślające istotne aspekty
 związane z dokumentacją, ale i narzędziami czy podejściem do pracy,
@@ -76,7 +76,7 @@ były najciekawsze, ponieważ odnosiły się do przyszłości, omawiały śc
 którymi powinniśmy podążać, aby odpowiadać na szybko zmieniające się wymagania
 odbiorców dokumentacji.
 
-### Docs as Code rośnie w siłę
+#### Docs as Code rośnie w siłę
 
 Wielu prelegentów omawiając swój proces tworzenia/dostarczania dokumentacji
 mówiło o koncepcji przechowywania/przetwarzania dokumentacji tak, jak kodu
@@ -89,7 +89,7 @@ procesem tworzenia dokumentacji, podejmowane decyzje oraz ich skutki. Historia
 ta pokazuje, że nawet w „trudnych” warunkach — kiedy trzeba mocno argumentować
 potrzeby, konieczność wdrażania nowych narzędzi, docs—as—code zdaje egzamin.
 
-### Nowe role i wyzwania
+#### Nowe role i wyzwania
 
 Bardzo interesującym, momentami kontrowersyjnym, wątkiem, pojawiającym się
 bardzo często była rola technical writera w kontekście nowych wyzwań oraz
@@ -115,7 +115,7 @@ w pełni wykorzystujemy wiedzę i doświadczenie z różnych miejsc w organi
 dzielimy się nią, co sprawia, że na koniec dnia dostarczamy spójne, bardziej
 dojrzałe i lepiej udokumentowane rozwiązanie.
 
-## Klient jest najważniejszy
+### Klient jest najważniejszy
 
 Tworząc oprogramowanie, powinniśmy myśleć przede wszystkim o naszych odbiorcach.
 No dobrze, ale kim oni są? Odpowiedź na to pytanie to klucz, który otwiera drzwi
@@ -131,7 +131,7 @@ pokazała w jaki sposób dotychczasowe przejścia, doświadczenia użytkowni
 wpływać na odbiór dokumentacji, a tym samym jak powinniśmy tworzyć treści, aby
 możliwie szybko rozwiązywać konkretne problemy.
 
-## Podsumowanie
+### Podsumowanie
 
 Tegoroczna konferencja Write The Docs Prague 2019 była świetną okazją do
 zintegrowania się z największą na świecie społecznością wyznaczającą trendy,

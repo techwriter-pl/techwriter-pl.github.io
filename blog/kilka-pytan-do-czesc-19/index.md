@@ -17,7 +17,7 @@ oddziale Motorola Solutions Systems Polska.
 
 <!--truncate-->
 
-### Jak długo pracujesz jako Information Architect i na czym właściwie polega Twoja rola?
+#### Jak długo pracujesz jako Information Architect i na czym właściwie polega Twoja rola?
 
 W październiku miną trzy lata. Information Architect \[dalej IA — przyp. red.\]
 w Motoroli to osoba, która wspiera project managera skupiając się nie na
@@ -29,7 +29,7 @@ pracę technical writerom pracującym w moim zespole. Do tego dochodzi jeszcze
 całe multum pomocy wszystkim, których praca w jakiś sposób może skorzystać na
 tych czynnikach i drugie tyle pracy, nazwijmy to, biurokratycznej.
 
-### W jaki sposób zostałeś Information Architectem?
+#### W jaki sposób zostałeś Information Architectem?
 
 Kiedy zacząłem pracować jako technical writer, bardzo szybko zacząłem
 interesować się tym, jak lepiej wykorzystać moje umiejętności. Samo pisanie i,
@@ -45,7 +45,7 @@ Tak jak to było u mnie, żeby zostać IA, najważniejsze są dwa warunki — ob
 pokrewnych technologiach oraz umiejętność przekazania tego innym w taki sposób,
 żeby ułatwiać pracę, a nie dodatkowo ją komplikować.
 
-### Czy możesz opowiedzieć coś o swojej firmie i zespole, w którym pracujesz?
+#### Czy możesz opowiedzieć coś o swojej firmie i zespole, w którym pracujesz?
 
 Pracuję w Motorola Solutions. Firma zajmuje się tworzeniem systemów komunikacji
 radiowej używanych głównie przez służby publiczne i firmy. Dla przeciętnego
@@ -54,7 +54,7 @@ serwerów i stacji bazowych, które pracują na to, żeby komunikacja odbywała 
 nieprzerwanie i niezawodnie.  Zespół zajmuje się infrastrukturą dla systemów
 DIMETRA, czyli tych certyfikowanych na terenie Unii Europejskiej.
 
-### Jakich narzędzi używasz i co o nich sądzisz?
+#### Jakich narzędzi używasz i co o nich sądzisz?
 
 Moimi ulubionymi narzędziami jest zeszyt i długopis, a oprócz tego wspomagam się
 pakietem biurowym Google i Acrobatem, w którym można wygodnie analizować i
@@ -64,7 +64,7 @@ bezboleśnie połączyć to wszystko. Jeśli zachodzi potrzeba, żebym zobaczył
 kodzie naszej dokumentacji, to wtedy do akcji wkracza easyDITA i Oxygen XML
 Authoring.
 
-### W jaki sposób zdobywasz informacje potrzebne do tworzenia dokumentacji?
+#### W jaki sposób zdobywasz informacje potrzebne do tworzenia dokumentacji?
 
 Każdy \[doświadczony techwriter — przyp. red.\] wie, że w tej pracy
 najważniejsza jest bezpośrednia współpraca z SME. Kiedy tylko się da, najlepiej
@@ -72,7 +72,7 @@ zdobywać informacje bezpośrednio od źródła i budować relację. Oprócz teg
 dokumenty businessowe i designowe, specyfikacje, opisy zadań i inicjatyw w Jirze
 i wszystko, co jestem w stanie znaleźć w naszych zasobach.
 
-### Jakie dokumenty dostarczasz, w jakiej postaci, w jakich językach i jak są one publikowane?
+#### Jakie dokumenty dostarczasz, w jakiej postaci, w jakich językach i jak są one publikowane?
 
 Główna część mojej pracy kończy się tam, gdzie zaczyna się praca technical
 writera. Rzeczy, które dostarczam to opisy zadań w Jirze, zestawienia dotyczące
@@ -87,7 +87,7 @@ zespołu jest zawsze po angielsku, publikowany jako podręczniki wewnątrz
 aplikacji, PDF-y na naszym portalu, a wreszcie, w zależności od klienta,
 tłumaczone lub drukowane dokumenty.
 
-### Jakie produkty opisujesz?
+#### Jakie produkty opisujesz?
 
 Tak jak wspominałem, zajmujemy się infrastrukturą sieci, więc głównie fizycznymi
 lub wirtualnymi serwerami, konsolami dyspozytorskimi, stacjami bazowymi i
@@ -98,7 +98,7 @@ się ze sobą nawet jeśli konwencjonalna sieć komórkowa czy internetowa zosta
 uszkodzona lub wyłączona z powodu przeciążenia, kataklizmu czy po prostu
 nieprzewidzianego wypadku.
 
-### Jakie są największe wyzwania, które napotykasz w swojej pracy?
+#### Jakie są największe wyzwania, które napotykasz w swojej pracy?
 
 Często nie wiadomo w co włożyć ręce i zawsze pojawia się ryzyko, że coś na mnie
 utknie. Oprócz tego nie każdemu będzie odpowiadał fakt, że trzeba oddać
@@ -107,7 +107,7 @@ wpływu na efekt końcowy pracy, którą sam zaczął. Czasami nawet nie widzę 
 wygląda efekt końcowy naszej pracy. A czasami widzę, i wiem, że gdybym to ja
 pisał, dokonałbym innych wyborów, niekoniecznie lepszych.
 
-### Co najbardziej lubisz zatem w pracy Information Architecta?
+#### Co najbardziej lubisz zatem w pracy Information Architecta?
 
 Najbardziej podoba mi się to, że pomagam swoją pracą innym pracownikom, co jest
 bardzo satysfakcjonujące. Poza tym, te najfajniejsze elementy mojej pracy to
@@ -116,7 +116,7 @@ gdy ja kończę pracę i przekazuję moje materiały kolejnej osobie, niekoniecz
 muszę przejmować się zasadami konkretnego styleguide’a. Pod tym kątem treści
 szlifuje już technical writer.
 
-### Co możesz poradzić osobom, które chciałyby zacząć swoją przygodę z pisaniem dokumentacji?
+#### Co możesz poradzić osobom, które chciałyby zacząć swoją przygodę z pisaniem dokumentacji?
 
 Najważniejsze umiejętności to tak zwane czytanie ze zrozumieniem, komunikacja,
 rozwiązywanie problemów i pisany angielski. Jeśli masz wątpliwości, czy się

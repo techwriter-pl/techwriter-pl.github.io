@@ -20,7 +20,7 @@ Szczegóły
 
 ---
 
-# RND DELMIA User Assistance Developer (Intern)
+## RND DELMIA User Assistance Developer (Intern)
 
 Due to the dynamic growth of our Krakow office, we are currently looking for
 candidates for a position:

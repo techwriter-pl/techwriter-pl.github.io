@@ -28,7 +28,7 @@ prawnych.
 
 Brzmi przerażająco?
 
-## Nie taki diabeł straszny, jak go malują
+### Nie taki diabeł straszny, jak go malują
 
 Z dobrych wiadomości, w końcu opracowano standard, który skupił się na tworzeniu
 instrukcji obsługi maszyn.
@@ -44,7 +44,7 @@ wytyczne
 Norma dostępna jest do ściągnięcia w dwóch wersjach językowych angielskiej i
 francuskiej (oczywiście odpłatnie).
 
-## Krótko, o czym jest ISO 20607?
+### Krótko, o czym jest ISO 20607?
 
 Norma określa wymagania dla producenta maszyny w zakresie przygotowania
 istotnych dla bezpieczeństwa części instrukcji obsługi maszyn.
@@ -69,7 +69,7 @@ treści Waszego podręcznika.
 Jednak to nie koniec, spis treści może być bardziej rozbudowany w zależności od
 specyfiki maszyny. Tu znów warto zapoznać się z treścią standardu.
 
-## ...podsumowując
+### ...podsumowując
 
 Jeśli siadacie do tworzenia dokumentacji i przeraża was myśl "od czego zacząć"
 lub "o czym i jak pisać"?

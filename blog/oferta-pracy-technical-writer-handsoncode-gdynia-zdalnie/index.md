@@ -32,7 +32,7 @@ problems. You will collaborate closely with core software developers and
 customers to come up with improvement ideas to our communication and processes.
 You will mentor team members and guide them on how to write better.
 
-##### What you will be doing
+###### What you will be doing
 
 - Identifying and resolving areas to improve in customer-facing software
   documentation, developer guides, and API reference
@@ -45,7 +45,7 @@ You will mentor team members and guide them on how to write better.
   documentation
 - Defining the Style Guide for product and code documentation
 
-##### What we expect from you to have
+###### What we expect from you to have
 
 - 2+ years of experience in planning, writing, and maintaining technical
   documentation
@@ -55,7 +55,7 @@ You will mentor team members and guide them on how to write better.
 - Highly organized, productive and trustworthy
 - Full or partial working hours overlap with CET timezone
 
-##### Nice to have
+###### Nice to have
 
 - Familiarity with JavaScript, HTML5, and CSS3, with a good understanding of web
   development standards
@@ -63,7 +63,7 @@ You will mentor team members and guide them on how to write better.
 - Experience in open-source projects
 - Experience in developer advocacy or developer evangelism
 
-##### What we can offer
+###### What we can offer
 
 - Competitive salary: 50-105/h PLN net B2B or 6200-13000 PLN/month gross
   permanent (UOP)

@@ -18,7 +18,7 @@ _3 Exciting New Developer Portal Trends in 2020_ to **darmowy webinar**
 skierowany zarówno do osób zajmujących się dokumentacją API, ale też wszystkich
 tych, którzy korzystają lub będą korzystać z tzw. devportali.
 
-### Kiedy?
+#### Kiedy?
 
 16 września 2020 roku godzina 15-16 czasu CET
 

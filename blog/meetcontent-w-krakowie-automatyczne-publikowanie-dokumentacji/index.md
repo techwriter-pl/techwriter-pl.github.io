@@ -25,7 +25,7 @@ wydarzeniach MeetContent,
 ale tym razem mamy ogromną przyjemność i zaszczyt ogłosić, że prelekcję wygłosi
 nasz redakcyjny kolega **Michał Skowron**.
 
-## Temat
+### Temat
 
 Michał opowie o temacie, który jest mu od zawsze bliski - automatyzowanie
 procesu publikacji. Pomimo że technical writer działa zazwyczaj w obrębie
@@ -35,13 +35,13 @@ automatyczna publikacja to nie jest domeną wyłącznie kosztownych rozwiązań,
 może być osiągnięta bardzo szybko przy pomocy darmowych narzędzi, jak na
 przykład [Jenkins](https://jenkins.io/).
 
-## Data i miejsce
+### Data i miejsce
 
 Spotkanie odbędzie się **14 listopada 2017** w
 [Artefakt Cafe](https://www.facebook.com/artefakt.cafe/), **ul. Dajwór 3,
 Kraków** o godzinie **19:00**.
 
-## Rejestracja
+### Rejestracja
 
 Udział w spotkaniu jest bezpłatny,  jednak organizatorzy proszą o rejestrację w
 celu weryfikacji liczby uczestników. Rejestracji możecie dokonać za

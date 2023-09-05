@@ -28,7 +28,7 @@ już absolwentką tego kierunku i dzieli się swoimi wrażeniami:
 - [po pierwszym semestrze](http://techwriter.pl/komunikacja-techniczna-jak-sie-studiuje/),
 - [p](http://techwriter.pl/komunikacja-techniczna-drugi-semestr/)[o drugim semestrze](http://techwriter.pl/komunikacja-techniczna-drugi-semestr/).
 
-### Najważniejsze informacje
+#### Najważniejsze informacje
 
 Studia są w 100% zdalne, mogą w nich brać udział osoby z dowolnego miejsca w
 Polsce i na świecie. Pierwsze spotkanie drugiej edycji zaplanowano na **23

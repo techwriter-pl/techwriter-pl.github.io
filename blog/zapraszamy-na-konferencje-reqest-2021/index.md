@@ -36,7 +36,7 @@ możliwości analityków.
 [https://2020.request.pl/](https://2020.request.pl/) oraz Facebookowy fanpage:
 [https://www.facebook.com/reQuestConference/](https://www.facebook.com/reQuestConference/).
 
-### **Najważniejsze informacje**
+#### **Najważniejsze informacje**
 
 Tegoroczna edycja **reQuest** odbędzie się w dniach **15-16 kwietnia 2021**
 **roku**. Tradycyjnie już, wydarzenie to będzie połączeniem wykładów, warsztatów
@@ -47,7 +47,7 @@ nabór osób chętnych wystąpić podczas konferencji. Jeśli jesteście zainter
 udziałem w wydarzeniu w roli prelegenta – formularz zgłoszeniowy znajdziecie
 [tutaj](https://docs.google.com/forms/d/e/1FAIpQLSd5Kq3rAfybB0gmi4i_KIpHG40l6o_EDbqNla5Pg07yf7jSRw/viewform).
 
-### Dla kogo?
+#### Dla kogo?
 
 **reQuest** to miejsce dla każdego - dosłownie! Konferencja po raz pierwszy
 odbędzie się w formule interaktywnych wykładów i warsztatów online, pełnych
@@ -65,7 +65,7 @@ Jeśli jesteś:
 \- to na pewno znajdziesz coś dla siebie pośród różnorodnej agendy, obejmującej
 wiele obszarów i dyscyplin.
 
-### Czego się spodziewać?
+#### Czego się spodziewać?
 
 Jak wspomnieliśmy wyżej, szczegóły wydarzenia nie są jeszcze znane.
 Organizatorzy uchylili jednak nieco rąbka tajemnicy i podzielili się niedawno

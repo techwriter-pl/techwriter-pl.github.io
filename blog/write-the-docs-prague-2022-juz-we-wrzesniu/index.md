@@ -31,7 +31,7 @@ Od siebie możemy dodać, że udział w konferencji Write the Docs jest zawsze w
 uwagi gdyż poza solidną porcją wiedzy, w pakiecie otrzymujecie świetną atmosferę
 oraz spotkanie z rewelacyjnymi ludźmi z branży. Tak, online też dają radę 😉
 
-### Co, gdzie i kiedy?
+#### Co, gdzie i kiedy?
 
 Pomimo zmian związanych z wytycznymi dotyczącymi pandemii organizatorzy
 pozostali w tym roku przy formacie **online**. Termin wydarzenia to **11-13
@@ -76,7 +76,7 @@ konferencji:
 - [Write the Docs Prague 2017](http://techwriter.pl/write-the-docs-prague-2017-relacja/),
 - [Write the Docs Europe 2016](http://techwriter.pl/write-the-docs-europe-2016-relacja/).
 
-### Rodzaje i ceny biletów
+#### Rodzaje i ceny biletów
 
 Osoby zainteresowane kupnem biletów
 odsyłamy [na stronę](https://www.writethedocs.org/conf/prague/2022/tickets/), na

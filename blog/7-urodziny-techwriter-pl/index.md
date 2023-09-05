@@ -17,7 +17,7 @@ pochwalić i zmotywować, ale przede wszystkim, by docenić dotychczasową prac�
 ludzi, którzy zaangażowali się w nasz projekt. I, co najważniejsze, podziękować
 Wam za to, że czytacie, komentujecie i jesteście z nami przez te wszystkie lata.
 
-### techwriter.pl w liczbach
+#### techwriter.pl w liczbach
 
 - Liczba opublikowanych postów - 486
 - Liczba czytelników - ponad 340 000

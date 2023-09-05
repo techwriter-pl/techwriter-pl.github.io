@@ -15,7 +15,7 @@ wiedzę o zarobkach Technical Writerów.
 
 <!--truncate-->
 
-## Wynagrodzenia.pl
+### Wynagrodzenia.pl
 
 Jednym z pierwszych miejsc, które kojarzy się z informacjami o zarobkach jest
 portal [wynagrodzenia.pl](http://wynagrodzenia.pl/). W sekcji
@@ -33,7 +33,7 @@ Jeśli takie ogólne dane nie są dla Was wystarczające, to możecie wziąć ud
 [Ogólnopolskim Badaniu Wynagrodzeń](http://wynagrodzenia.pl/ogolnopolskie-badanie-wynagrodzen)
 w zamian za co otrzymacie pełny raport płacowy dla swojego stanowiska.
 
-## Raport płacowy
+### Raport płacowy
 
 W
 [poprzednim artykule](http://techwriter.pl/ile-zarabia-technical-writer-odslona-druga/)
@@ -55,7 +55,7 @@ brutto Technical Writerów w poszczególnych miastach.
 7. **Poznań** – 4500-5500
 8. **Szczecin** – 4000-5000
 
-## Pracuj.pl
+### Pracuj.pl
 
 Niedawno odkryliśmy w
 [aplikacji Pracuj.pl dla Androida](https://play.google.com/store/apps/details?id=pl.pracuj.android.jobsearcher&hl=pl)

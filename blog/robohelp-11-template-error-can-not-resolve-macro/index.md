@@ -17,7 +17,7 @@ ocalenie chociaż kilku dobrych ludzi przed utratą zmysłów 😉
 
 <!--truncate-->
 
-## Opis problemu
+### Opis problemu
 
 Problem dotyczy RoboHelpa 11 HTML. W trakcie generowania projektów do formatu
 Webhelp za pomocą aplikacji konsolowej RoboHelpa (RHCL.exe) pojawiają się błędy
@@ -29,7 +29,7 @@ Hide Navigation Content.
 
 [![tooltip2](images/tooltip2.png)](http://techwriter.pl/wp-content/uploads/2015/06/tooltip2.png)
 
-## Przyczyna
+### Przyczyna
 
 Problem jest spowodowany tym, że w trakcie generowania projektu, RoboHelp nie
 jest w stanie odnaleźć pliku **RoboHHRE.lng** dla tego projektu i języka, który
@@ -60,7 +60,7 @@ projektu do formatu Webhelp za pomocą aplikacji konsolowej RHCL.exe. Wtedy ta
 ścieżka nie jest dopisywana do pliku PSS i to właśnie powoduje powstawanie
 błędów Template Error.
 
-## Rozwiązanie
+### Rozwiązanie
 
 Niestety na tą chwilę nie istnieje oficjalny sposób na rozwiązanie tego
 problemu. Forum Adobe RoboHelp oraz wsparcie techniczne nie są pomocne w tej

@@ -17,7 +17,7 @@ temat tego co przed nami!
 
 <!--truncate-->
 
-## **Marzec 2023 - Etteplan**
+### **Marzec 2023 - Etteplan**
 
 Marcowy **#MeetContentWRO** zagości w firmie **Etteplan**. Tym razem mamy dla
 Was jedną prezentację, ale opowiadać będą dwie osoby.
@@ -50,7 +50,7 @@ the beast?_**
 
 ![](images/MeetContentWRO18.png)
 
-## **Gdzie i kiedy**
+### **Gdzie i kiedy**
 
 22 marzec 2023 godzina 18:00
 
@@ -59,7 +59,7 @@ Biuro Etteplan ul. Legnicka 48G
 [Formularz zgłoszeniowy](https://forms.gle/BJzFUBxS3Wn56XcU6) - nie zapominijcie
 o jego wypełnieniu, jeśli macie zamiar się stawić 😉.
 
-## **Luty 2023 - DeLaval**
+### **Luty 2023 - DeLaval**
 
 W lutym natomiast meetup odbył się w siedzibie firmy DeLaval we Wrocławiu. Całe
 wydarzenie poświęcone było jednemu tematowi.

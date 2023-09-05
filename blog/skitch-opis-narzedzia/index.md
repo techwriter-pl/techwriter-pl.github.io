@@ -26,7 +26,7 @@ urządzenia, z którego ją otwieramy i automatycznie daje nam link do ściągni
 odpowiedniej wersji. Plik instalacyjny dla Windowsa ma rozmiar 34 MB. Właśnie na
 tej wersji skupimy się w dalszej części artykułu.
 
-## Pierwsze wrażenie
+### Pierwsze wrażenie
 
 Po uruchomieniu programu naszym oczom ukazuje się całkiem przyjemny dla oka i
 przejrzysty interfejs. W górnej części okna znajdziemy menu z opcjami, w prawej
@@ -38,7 +38,7 @@ użytkownika.
 
 [![skitch1](images/skitch1-1024x731.png)](http://techwriter.pl/wp-content/uploads/2015/02/skitch1.png)
 
-## Zrzucanie ekranu
+### Zrzucanie ekranu
 
 Do dyspozycji mamy dwa tryby wykonywania zrzutów ekranu. W pierwszym trybie
 możemy przechwycić albo wycinek ekranu (w tym celu musimy przytrzymać lewy
@@ -58,7 +58,7 @@ obecnie otwartego obrazu. Może być to spore utrudnienie w sytuacji kiedy chcem
 zrobić zrzut całego okna "na raty" przechwytując jego pojedyncze elementy w
 osobnych krokach.
 
-## Edycja zrzutów
+### Edycja zrzutów
 
 Do przechwyconych elementów ekranu można dodawać elementy takie jak tekst,
 strzałki, kształty, zakreślenie, wyróżnienie, różne emblematy graficzne czy...
@@ -75,7 +75,7 @@ zmienić niezależnie wysokości i szerokości ani wybrać jednostek.
 
 [![skitch4](images/skitch4.png)](http://techwriter.pl/wp-content/uploads/2015/02/skitch4.png)
 
-## Zapisywanie i udostępnianie
+### Zapisywanie i udostępnianie
 
 Aplikacja pozwala zachować wykonane zrzuty ekranu do formatów PNG, BMP, JPG,
 TIFF i PDF. Jeśli posiadamy konto w Evernote, to możemy też zachowywać nasze
@@ -92,7 +92,7 @@ Niestety aplikacja nie oferuje możliwości zachowywania warstw, co według nas
 jest dużym brakiem. Oznacza to, że wszystkie obiekty są "spłaszczane" i nie ma
 możliwości późniejszej edycji pojedynczych elementów.
 
-## Ustawienia aplikacji
+### Ustawienia aplikacji
 
 Zestaw dostępnych ustawień jest bardzo skromny. Jedyne opcje jakie mamy do
 dyspozycji to automatyczne uruchamianie aplikacji w trakcie startu systemu,
@@ -102,7 +102,7 @@ szukać ustawień dotyczących łapania kursora czy skrótów klawiszowych.
 
 [![skitch6](images/skitch6.png)](http://techwriter.pl/wp-content/uploads/2015/02/skitch6.png)
 
-## Spolszczenie interfejsu
+### Spolszczenie interfejsu
 
 Wiadomo już, że wyboru języka interfejsu nie dokonamy z poziomu ustawień
 aplikacji. Jednak nie oznacza to, że polska wersja językowa nie jest dostępna.
@@ -110,7 +110,7 @@ Po prostu język aplikacji jest ustawiany automatycznie na podstawie wybranych
 ustawień językowych w systemie operacyjnym. Dla jednych może to być ułatwienie,
 a dla innych ograniczenie.
 
-## Werdykt
+### Werdykt
 
 Skitch bardziej sprawdzi się jako aplikacja do szybkiego dzielenia się obrazkami
 ze znajomymi (np. w celu pokazania gdzie na mapie znajduje się restauracja, o

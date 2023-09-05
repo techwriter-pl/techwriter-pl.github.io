@@ -35,7 +35,7 @@ krytycznie ważny tekst, od którego może zależeć zdrowie i życie ludzi? Jak
 uniknąć wieloznaczności słów, które w setkach różnych dialektów dawno straciły
 swoje pierwotne znaczenie? Z pomocą przyjdzie Simplified Technical English.
 
-### Czym jest Simplified Technical English?
+#### Czym jest Simplified Technical English?
 
 Simplified Technical English (uproszczony język angielski) należy do grupy
 [języków kontrolowanych](https://en.wikipedia.org/wiki/Controlled_natural_language).
@@ -47,7 +47,7 @@ głównym celem Simplified Technical English jest zwiększenie jakości dokument
 oraz takie jej uproszczenie, by mogła być tworzona (przynajmniej częściowo)
 przez automaty tłumaczeniowe.
 
-### Jak i kiedy powstał Simplified Technical English?
+#### Jak i kiedy powstał Simplified Technical English?
 
 Historia Simplified Technical English sięga lat osiemdziesiątych XX wieku.
 Początkowo standard ten nosił nazwę AECMA Simplified English (1986 rok) i został
@@ -60,7 +60,7 @@ Zainteresowanie tym standardem wzrasta także w innych dziedzinach życia. Jedny
 ze znaczących przykładów jest świat naukowy, a zwłaszcza obszar inżynierii i
 językoznawstwa.
 
-### Po co używać Simplified Technical English?
+#### Po co używać Simplified Technical English?
 
 Język angielski jest językiem używanym przez większość firm z branż
 przemysłowych. Jest to także wiodący język, w jakim tworzona jest dokumentacja
@@ -79,7 +79,7 @@ bezpieczeństwa, zmniejszyło barierę językową oraz zminimalizowało wystąpi
 tak zwanego ryzyka czynnika ludzkiego do minimum, co z upływem czasu okazało się
 wartościowe także w innych gałęziach przemysłu.
 
-### Jak działa Simplified Technical English?
+#### Jak działa Simplified Technical English?
 
 Simplified Technical English składa się z grupy reguł oraz słownictwa, jakie
 powinny być stosowane w pisaniu dokumentacji technicznej. Reguły określają

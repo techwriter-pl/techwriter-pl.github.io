@@ -14,7 +14,7 @@ interesującego technical writingu.
 
 <!--truncate-->
 
-## Definicje:
+### Definicje:
 
 [Zarządzanie wiedzą](https://en.wikipedia.org/wiki/Knowledge_management)
 (Knowledge Management) to zespół działań, których celem jest tworzenie,
@@ -67,7 +67,7 @@ powiedzieć, że my, tech writerzy, zajmujemy się również ujawnianiem wiedzy 
 Podobnie jak zarządzanie wiedzą, tak i technical writing stał się popularny wraz
 z rozwojem komputeryzacji i świadomości konsumenckiej.
 
-## Podobieństwa:
+### Podobieństwa:
 
 Wzajemne przenikanie się obydwu dyscyplin - technical writer tworzy treści w
 postaci instrukcji, pomocy, podręczników użytkownika, FAQ, wpisów do baz danych
@@ -94,7 +94,7 @@ Technical writer może pomóc w zapisie i dystrybucji dokumentów poprzez:
   dokumentacji przez technical writera. Dzięki temu ekspert może może ograniczyć
   swoje działania do zapisu swojej wiedzy, pozostawiając obróbkę komuś innemu.
 
-## Praktyka:
+### Praktyka:
 
 Na co dzień często pracujemy z różnego rodzaju bazami wiedzy (knowledge bases),
 które często wypełniamy wiedzą ujawnioną 😉 Pisaliśmy o nich dawno temu:

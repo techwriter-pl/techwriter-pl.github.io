@@ -39,7 +39,7 @@ Aplikacje możecie przesyłać drogą mailową na adres
 
 ---
 
-## Technical Writer for Handsontable
+### Technical Writer for Handsontable
 
 At Handsoncode, we're on a mission to help developers deliver software faster.
 Handsontable, our flagship product, has become one of the world's most popular

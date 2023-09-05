@@ -19,19 +19,19 @@ Zapraszamy!
 
 <!--truncate-->
 
-### Odcinek 30
+#### Odcinek 30
 
 Gościem tego odcinka jest Rafał Pawlicki, IT Documentation Manager, który wraz z
 prowadzącymi rozmawiał na temat feedbacku do dokumentacji.
 
-#### Czy wiecie jak najlepiej przetłumaczyć na polski słowo feedback?
+##### Czy wiecie jak najlepiej przetłumaczyć na polski słowo feedback?
 
 Według słownika Google słowo to należy tłumaczyć jako sprzężenie zwrotne.
 Zdaniem rozmówców, w przypadku dokumentacji, tłumaczenie to nie jest zbyt
 trafione. Dlaczego? Brzmi dość dziwnie i nie oddaje tego, czym w rzeczywistości
 jest feedback dla technical writera.
 
-#### Czym zatem jest feedback?
+##### Czym zatem jest feedback?
 
 Zdaniem Rafała to zestaw informacji z wielu źródeł, które zostają zebrane i
 przeanalizowane na różne sposoby. Wnioski z analizy pozwolą na decyzję w jakim
@@ -42,14 +42,14 @@ oraz potrzeb osoby, która zbiera feedback. W dalszej części podcastu panowie
 omawiają szczegółowo liczne przykłady, tak by słuchacz mógł dobrze zrozumieć
 wielowymiarowość problemu.
 
-#### W jakim celu zbieramy feedback?
+##### W jakim celu zbieramy feedback?
 
 Głównym celem feedbacku, jest według rozmówców, chęć polepszenia jakości
 dostarczanej dokumentacji. Za jego pomocą można też uzyskać informacje czy nasze
 dotychczasowe działania były odpowiednie, a użytkownicy np. narzędzia, są
 zadowoleni.
 
-#### Co wpływa na feedback?
+##### Co wpływa na feedback?
 
 Zbieranie informacji jest procesem złożonym, na który wpływa wiele czynników.
 Spośród nich należy wymienić:
@@ -68,7 +68,7 @@ W dalszej części odcinka rozmówcy analizują różne ryzyka i wyzwania dotycz
 form, jakich można użyć do zbierania feedbacku oraz, która z opcji byłaby
 najlepsza w danej sytuacji.
 
-#### Jakich narzędzi warto użyć do zbierania feedbacku?
+##### Jakich narzędzi warto użyć do zbierania feedbacku?
 
 Głównym narzędziem wartym uwagi jest, zdaniem Rafała, Google Analytics. Jednak,
 jak dalej zauważa, to nie w narzędziu jest klucz do sukcesu, a cel jaki nam
@@ -84,7 +84,7 @@ W odniesieniu do narzędzi zawsze należy brać pod uwagę:
 - licencje,
 - utrzymanie danego narzędzia w przyszłości.
 
-#### Proces zbierania feedbacku
+##### Proces zbierania feedbacku
 
 Na koniec panowie stworzyli listę najważniejszych punktów, jakie należy przejść
 w trakcie procesu zbierania feedbacku:
@@ -104,7 +104,7 @@ wnioski są bardzo interesujące i przydatne w praktyce. Zachęcamy do
 [odsłuchania całego odcinka](https://techwriterkoduje.pl/blog/2021/05/19/feedback-do-dokumentacji),
 szczególnie gdy zajmujecie się zbieraniem feedbacku.
 
-### Odcinek 31
+#### Odcinek 31
 
 Tematem przewodnim tego odcinka jest tworzenie generatora stron statycznych.
 Choć tego typu narzędzi jest sporo, Michał wraz z Pawłem postanowili zbudować

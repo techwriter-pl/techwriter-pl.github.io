@@ -39,20 +39,20 @@ przez
 
 ---
 
-# Technical writer Software Documentation (with German)
+## Technical writer Software Documentation (with German)
 
 Składowa 35, 90-127 Łódź, Poland Full-time Legal Entity: Robert Bosch Sp. z o.o.
 
-## Company Description
+### Company Description
 
 At Bosch, we shape the future by inventing high-quality technologies and
 services that spark enthusiasm and enrich people’s lives. Our promise to our
 associates is rock-solid: we grow together, we enjoy our work, and we inspire
 each other.
 
-## Job Description
+### Job Description
 
-### Your tasks:
+#### Your tasks:
 
 - You are responsible for the documentation (HTML5 online help) of central,
   Bosch-internal software solutions in the area of Identity & Access Management
@@ -71,9 +71,9 @@ each other.
   the software, deployment of new updates or implementation of new requirements
   in alignment with the external vendor and internal operations team.
 
-## Qualifications
+### Qualifications
 
-### Your profile:
+#### Your profile:
 
 - University degree in technical writing, language studies, communication or
   similar
@@ -89,13 +89,13 @@ each other.
 - Open to working in an international environment and to constantly adopting new
   information
 
-## Additional Information
+### Additional Information
 
-### Benefits:
+#### Benefits:
 
 We would like to offer you number of amenities for you and your loved ones.
 
-### Work #LikeABosch:
+#### Work #LikeABosch:
 
 - Contract of employment and a competitive salary (together with annual bonus)
 - Flexible working hours with home office after the pandemic as well
@@ -103,7 +103,7 @@ We would like to offer you number of amenities for you and your loved ones.
 - Copyright costs for IT employees
 - Canteen in the office with co-financed lunches
 
-### Grow #LikeABosch:
+#### Grow #LikeABosch:
 
 - Complex environment of working, professional support and possibility to share
   knowledge and best practices
@@ -111,7 +111,7 @@ We would like to offer you number of amenities for you and your loved ones.
 - Broad access to professional trainings, conferences and webinars
 - Language courses
 
-### Live #LikeABosch:
+#### Live #LikeABosch:
 
 - Private medical care and life insurance
 - Multisport card and sports teams

@@ -27,14 +27,14 @@ Osoby zainteresowane mogą aplikować poprzez formularz zamieszczony
 
 ---
 
-### Zostań trenerem Profesjonalna komunikacja techniczna ITCQF Poziom Podstawowy
+#### Zostań trenerem Profesjonalna komunikacja techniczna ITCQF Poziom Podstawowy
 
 Jesteś fachowym techwriterem i chciałbyś dalej rozwijać się w roli trenera lub
 coacha?
 
 Masz okazję dołączyć do zespołu trenerów testerzy.pl!
 
-### Poznaj tematy, które będziesz poruszać na szkoleniach:
+#### Poznaj tematy, które będziesz poruszać na szkoleniach:
 
 - Podstawy komunikacji technicznej
 - Typy dokumentacji technicznej
@@ -43,7 +43,7 @@ Masz okazję dołączyć do zespołu trenerów testerzy.pl!
 - Zarządzanie komunikacją techniczną
 - Narzędzia wspierające komunikację techniczną.
 
-### Nasze wymagane kompetencje to:
+#### Nasze wymagane kompetencje to:
 
 - Dobra organizacja czasu
 - Doskonałe umiejętności interpersonalne i komunikacyjne
@@ -53,14 +53,14 @@ Masz okazję dołączyć do zespołu trenerów testerzy.pl!
   Podstawowy
 - Umiejętność prowadzenia szkoleń w języku angielskim.
 
-#### Dzięki nauczaniu rozwijasz siebie poprzez rozwój innych:
+##### Dzięki nauczaniu rozwijasz siebie poprzez rozwój innych:
 
 - Podnosisz swoje umiejętności miękkie i interpersonalne
 - Doskonalisz własny warsztat i styl trenerski
 - Nabywasz i doskonalisz umiejętności prezentacji
 - Podnosisz swoją sytuację zawodową i tworzysz swój wizerunek specjalisty.
 
-### Zapewniamy:
+#### Zapewniamy:
 
 - umowę (zlecenie, B2B, umowę o dzieło)
 - atrakcyjne wynagrodzenie w zależności od posiadanych kompetencji

@@ -46,7 +46,7 @@ poczujecie niedosyt i będziecie chcieli dodatkowo pogłębić temat.
 
 **A zatem - jedziemy!**
 
-### Zanim zaczniesz tworzyć dokumentację…
+#### Zanim zaczniesz tworzyć dokumentację…
 
 1. **Ustal**, jaki jest cel tworzonej przez Ciebie dokumentacji oraz kim jest
    jej odbiorca - przestudiuj istniejące persony lub stwórz je od nowa.
@@ -77,7 +77,7 @@ poczujecie niedosyt i będziecie chcieli dodatkowo pogłębić temat.
   [**pomocy**](http://techwriter.pl/tech-writer-w-opalach-gdzie-szukac-pomocy/)
   dla Technical Writera.
 
-### W trakcie tworzenia...
+#### W trakcie tworzenia...
 
 5. Wyrażaj się **prosto** i unikaj żargonu branżowego - dobra dokumentacja nie
    jest zrozumiała tylko dla zarozumiałych 😉 Jej funkcją jest rozwiewanie
@@ -102,7 +102,7 @@ poczujecie niedosyt i będziecie chcieli dodatkowo pogłębić temat.
   [**dokumentacja - cechy i etapy**](http://techwriter.pl/dobra-dokumentacja-cechy-i-etapy-tworzenia/)
   tworzenia
 
-### Przed publikacją...
+#### Przed publikacją...
 
 9. **Czas na recenzję** - nie bój się jej, to nie jest sąd kapturowy. Celem
    recenzji nie jest wytykanie Twoich błędów, ale ulepszenie dokumentacji i

@@ -25,14 +25,14 @@ TomToma, ale wciąż po polsku nie potrafi powiedzieć wiele więcej niż "tak",
 
 Zapraszamy!
 
-#### How long have you been working as an Information Architect?
+##### How long have you been working as an Information Architect?
 
 I’ve been in this role for a little over four years. But I’ve been writing for
 work on the side for much longer. Whenever anyone’s needed something polished,
 or been unable to express themselves clearly in a crucial document, they’ve come
 to me.
 
-#### How did you become an Information Architect?
+##### How did you become an Information Architect?
 
 It wasn’t a normal way of getting the job. But TomTom is not always a normal
 company.
@@ -50,7 +50,7 @@ the problems were, even as I started solving them.
 
 I didn’t have a job description for almost two years. Then I wrote my own.
 
-#### Can you say something about the company you work for and your team?
+##### Can you say something about the company you work for and your team?
 
 TomTom is a tech company. We make software and maps for navigation applications,
 mostly to run in cars. It’s a rarity in that it’s a European-owned tech company.
@@ -75,7 +75,7 @@ You could say that I don’t have a team, but considering how TomTom works, how
 the Documentation Guild is growing, and how many people in my organizational
 unit have learned to be writers at one level or another…I have a _community_.
 
-#### How is your work organized?
+##### How is your work organized?
 
 I organize my work myself. It falls roughly into three streams:
 
@@ -101,7 +101,7 @@ I organize my work myself. It falls roughly into three streams:
   adapting the writing teaching that I used to do in person to online
   instruction.
 
-#### What tools do you use and what do you think about them?
+##### What tools do you use and what do you think about them?
 
 Because a lot of my work is about getting others to write, the tools I use have
 to be ones that they can use as well. This excludes both specialist technical
@@ -126,7 +126,7 @@ platform. It’s very feature-poor…simple, but in a bad way. The search
 functionality is frustrating and hard to use well, and you often have to choose
 between doing things _easily_ and doing them _well_. That’s very painful.
 
-#### How do you get the information you need to prepare/create documentation?
+##### How do you get the information you need to prepare/create documentation?
 
 Since most of our documentation is written by the subject matter experts
 themselves, I don’t need to do a lot of interrogation…excuse me, I mean
@@ -140,7 +140,7 @@ I’ve written up what I’ve learned I send it to them and ask for comments.
 There’s usually another half-hour meeting somewhere in there for clarifications
 that go faster in person.
 
-#### What documents do you deliver, in what form, in which language/languages and how are they published?
+##### What documents do you deliver, in what form, in which language/languages and how are they published?
 
 - The main documents that I deliver, or contribute to the delivery of, are:
 - Product documentation in PDF form that is supplied alongside our software
@@ -154,7 +154,7 @@ that go faster in person.
 
 All of these are in English.
 
-#### Do you participate in any other activities besides documentation writing (e.g. creation of marketing materials)? If yes, what is it and what tools do you use?
+##### Do you participate in any other activities besides documentation writing (e.g. creation of marketing materials)? If yes, what is it and what tools do you use?
 
 I’ve mentioned it above, but there are two that I’d like to explain in more
 detail.
@@ -178,7 +178,7 @@ detail.
   material in webpages. And I’m keeping it all in a repository, so I don’t have
   to worry about versioning.
 
-#### What are the biggest challenges at your work?
+##### What are the biggest challenges at your work?
 
 To be honest, the biggest challenge is the amount that I have to manage my own
 work. That requires a lot of confidence that I’m making the right choices, and
@@ -188,19 +188,19 @@ come from me.
 Most of the time, I trust my instincts, and those instincts are generally good
 (or good enough, anyway.) But it’s definitely the hardest part of my job.
 
-#### What do you like the most in technical writing?
+##### What do you like the most in technical writing?
 
 The feeling when I take someone else’s writing where the _content_ is good but
 the expression is not clear, and turn it into simple, understandable writing.
 
-#### What is your advice for those who want to begin their adventure with writing documentation?
+##### What is your advice for those who want to begin their adventure with writing documentation?
 
 I’m a terrible person to ask this of, because my path into technical writing was
 so strange. But the one thing you really need to do to be a good technical
 writer is be a good writer. So write! Write in your native language, write in
 English. Read good writing, and ask yourself what makes it good.
 
-#### What does the labor market look like for Tech Writers in the Netherlands? Are there any organizations that unite Technical Writers in the Netherlands?
+##### What does the labor market look like for Tech Writers in the Netherlands? Are there any organizations that unite Technical Writers in the Netherlands?
 
 I won’t be able to give good answers about tech writing in the Netherlands. I
 didn’t come to this by the straight path. But the place to go for these kinds of
@@ -211,14 +211,14 @@ place to go. They do an annual salary survey, there’s a channel for tech writi
 jobs, and there are tons of people who can answer questions about getting into
 the business.
 
-#### Do you have any diploma or certificate in technical writing? If yes, did it help you in your career?
+##### Do you have any diploma or certificate in technical writing? If yes, did it help you in your career?
 
 No…I have a bachelor’s degree in classical Latin and a postgraduate certificate
 in software technology. But I grew up in a household that spoke highly educated
 English (both of my parents were lawyers). And I’ve been writing in various
 ways, online and offline, throughout my life.
 
-#### Do you have an idea about how the technical writer role is going to evolve in the near future? Where is it headed, and what are the biggest trends on the horizon?
+##### Do you have an idea about how the technical writer role is going to evolve in the near future? Where is it headed, and what are the biggest trends on the horizon?
 
 I think that the trend of having subject matter experts write the first draft of
 some documents is going to continue, and we need to work with that. Docs as Code
@@ -233,4 +233,4 @@ good at working with their webcams. Note that this doesn’t replace written
 content – some people still prefer to read. It’s that we need to cater for a
 wider range of ways of getting information.
 
-#### Thank you for your insights.
+##### Thank you for your insights.

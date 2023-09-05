@@ -18,7 +18,7 @@ skrót.
 
 <!--truncate-->
 
-### Odcinek #35
+#### Odcinek #35
 
 Czy tech writer, który trochę koduje może kodować więcej? Jakie ma opcje rozwoju
 zawodowego jeśli interesują go głównie skrypty, narzędzia i inne techniczne
@@ -68,7 +68,7 @@ z jakimi problemami może się spotkać,
 Poznacie też odrębne historie rozwoju kariery. Być może któraś z nich będzie tą,
 do której chcielibyście dążyć?
 
-### Odcinek #36
+#### Odcinek #36
 
 Co prawda Halloween już dawno za nami, jednak temat, który wybrali prowadzący
 podcast jest ciągle aktualny.

@@ -16,7 +16,7 @@ garść najważniejszych informacji dotyczących wydarzenia. Może to Was przeko
 
 <!--truncate-->
 
-### Najważniejsze informacje
+#### Najważniejsze informacje
 
 Tegoroczna edycja soap! odbędzie się w dniach **2-3 czerwca**. Tym razem czeka
 nas **forma hybrydowa** czyli w wydarzeniu można wziąć udział osobiście lub
@@ -42,7 +42,7 @@ obecności w wydarzeniu na jego stronie stronie
 [https://www.facebook.com/events/1189233418482227](https://www.facebook.com/events/1189233418482227).
 Dzięki temu będziecie zawsze mieli najświeższe informacje na temat konferencji.
 
-### Rodzaje i ceny biletów
+#### Rodzaje i ceny biletów
 
 Bilety dla osób chcących **osobiście uczestniczyć** w konferencji. Link do
 rejestracji oraz wszelkie potrzebne informacje znajdziecie
@@ -88,7 +88,7 @@ Cena obejmuje:
 - udział w wydarzeniach dwóch dni konferencji (6-7 czerwca), które będą
   transmitowane online
 
-### Warsztaty
+#### Warsztaty
 
 Tradycyjnie już w dniu poprzedzającym konferencję (1 czerwca) odbędą się
 całodniowe warsztaty. Większość z nich jest przeznaczona tylko dla uczestników

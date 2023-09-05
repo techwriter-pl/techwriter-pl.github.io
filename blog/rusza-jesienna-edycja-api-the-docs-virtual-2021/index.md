@@ -19,7 +19,7 @@ dokumentacją API i doświadczeniami w pracy programisty.
 
 <!--truncate-->
 
-## O konferencji
+### O konferencji
 
 [API The Docs](https://apithedocs.org/) zostało zainicjowane cztery lata temu i
 przez ten czas stało się wiodącą konferencją poświęconą dokumentacji API. Ze
@@ -59,34 +59,34 @@ Jeśli chcecie mieć najświeższe informacje dotyczące działań API the Docs
 zaglądajcie na [fanpage](https://www.facebook.com/APItheDocsConferences)
 społeczności.
 
-## Najważniejsze informacje
+### Najważniejsze informacje
 
 Jesienna edycja Api The Docs Virtual odbędzie się w czterech sesjach trwających
 około 2h każda. Poniżej przedstawiamy terminy oraz listę portali, które wezmą
 udział w każdej z nich:
 
-### 6 października 2021 (15:00-17:00 UTC, 17:00-19:00 CET)
+#### 6 października 2021 (15:00-17:00 UTC, 17:00-19:00 CET)
 
 - FourKites Developer Portal
 - Wultra Developer Portal
 - Yoti Developer Portal
 - RingCentral Developers
 
-### 13 października 2021 (15:00-17:00 UTC, 17:00-19:00 CET)
+#### 13 października 2021 (15:00-17:00 UTC, 17:00-19:00 CET)
 
 - KBC Developer Portal
 - Euler Hermes Developer Portal
 - Amadeus For Developers
 - Reonomy Technical Documentation
 
-### 20 Października 2021 **(15:00-17:00 UTC, 17:00-19:00 CET)**
+#### 20 Października 2021 **(15:00-17:00 UTC, 17:00-19:00 CET)**
 
 - ABN AMRO Developer Portal
 - G+D Convego® Connect APIs
 - PlatformOS Developer Portal
 - Onfido Developer Hub
 
-### 3 listopada 2021 **(15:00-17:00 UTC, 17:00-19:00 CET)**
+#### 3 listopada 2021 **(15:00-17:00 UTC, 17:00-19:00 CET)**
 
 - BT API Developer Portal
 - Barclays API Exchange

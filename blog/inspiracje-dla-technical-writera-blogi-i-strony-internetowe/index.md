@@ -21,7 +21,7 @@ dla Was ten temat, by sprawdzić co nowego w sieci piszczy 😉
 
 <!--truncate-->
 
-### Blogi
+#### Blogi
 
 [I’d rather be writing](https://idratherbewriting.com/) - jeden z
 najpopularniejszych blogów w branży, który polecamy Wam już nie pierwszy raz.
@@ -76,7 +76,7 @@ dotyczący narzędzi, jakich używa się w branżach związanych z komunikacją
 techniczną. Poza głównym tematem, na blogu znajdziecie także informacje
 dotyczące bieżących wydarzeń w branży.
 
-### Strony internetowe
+#### Strony internetowe
 
 [Technical Communication Center](https://www.technicalcommunicationcenter.com/) -
 strona zawiera sporo materiałów instruktażowych dotyczących oprogramowania,

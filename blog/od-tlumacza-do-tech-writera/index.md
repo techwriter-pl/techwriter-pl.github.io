@@ -20,7 +20,7 @@ moich doświadczeń.
 
 <!--truncate-->
 
-# Studia na filologii angielskiej
+## Studia na filologii angielskiej
 
 Bardzo dobrze wspominam studenckie lata – nie żałuję wyboru kierunku. Od dawna
 uczenie się języka angielskiego sprawiało mi wielką radość, a same studia
@@ -40,7 +40,7 @@ jest przetłumaczalne?”, "Jakie są granice możliwości przekładu?” – od
 chciałem odnaleźć w praktyce. Zdecydowałem się specjalizować w tekstach
 użytkowych, a nie w literaturze pięknej.
 
-# Projekty
+## Projekty
 
 Początkowo wykonywałem rozmaite zadania w ramach wolontariatu dla organizacji
 pozarządowych. Nie narzekałem na różnorodność tematów: od tłumaczenia ustnego
@@ -60,7 +60,9 @@ książki o kulturystyce w bardzo dużym formacie – jak otrzymałem siedem
 egzemplarzy po wywiązaniu się z umowy, ciężko to było dźwignąć. Wydało mi się to
 ironiczne, biorąc pod uwagę, że były to książki o podnoszeniu ciężarów.
 
-##### [![](images/upload_154-231x300.png)](http://techwriter.pl/wp-content/uploads/2022/04/upload_154.png) `Pod ciężarem woluminów tej książki` `tłumacz zachwiał się, ale nie runął. Tygodnie tłumaczenia o podnoszeniu ciężarów nie poszły na marne.`
+[![](images/upload_154-231x300.png)](http://techwriter.pl/wp-content/uploads/2022/04/upload_154.png)
+`Pod ciężarem woluminów tej książki`
+`tłumacz zachwiał się, ale nie runął. Tygodnie tłumaczenia o podnoszeniu ciężarów nie poszły na marne.`
 
 Najciekawszym tytułem przy jakim przyszło mi pracować był podręcznik treningu
 siłowego niewymagającego użycia przyrządów o wdzięcznej nazwie _Nagi Wojownik._
@@ -69,7 +71,7 @@ Ostatnią książką jaką przetłumaczyłem była encyklopedia zdrowia z które
 dowiedziałem się o wielu symptomach i jednostkach chorobowych. Z pomocą lekarza
 w rodzinie i Wikipedii jakoś udało się doprowadzić projekt do końca 😉
 
-# Rzeczywistość po dyplomie
+## Rzeczywistość po dyplomie
 
 Sporym rozczarowaniem było dla mnie to, że zaraz po studiach nie udało mi się
 znaleźć stałego i ciekawego zajęcia w roli tłumacza. Otrzymywałem sporadyczne
@@ -104,7 +106,7 @@ ale muszę spróbować!_”. Na tamtym etapie nie słyszałem wcześniej określ
 pierwsze ekscytujące kroki nie mogąc narzekać na brak kontaktów z ludźmi, bo
 dużo współpracowałem z programistami i całym zespołem dokumentacji.
 
-# Co ułatwiło mi przejście?
+## Co ułatwiło mi przejście?
 
 Pierwsze kroki w dziedzinie geograficznych systemów informatycznych nie należały
 do najprostszych. Szczęśliwie, w firmie panowała koleżeńska atmosfera, każdy
@@ -138,7 +140,7 @@ techniczny nie tylko dba o jakość instrukcji – może również wpływać na
 doświadczenia użytkownika sugerując ulepszenia interfejsu czy wyłapując błędy w
 działaniu aplikacji.
 
-# Różnice między tłumaczeniem a tworzeniem dokumentacji
+## Różnice między tłumaczeniem a tworzeniem dokumentacji
 
 Jak najbardziej szanuję wysiłki tłumaczy, sam w końcu byłem jednym z nich.
 Porównując proces pracy tłumacza (freelancera) i tech writera nasunęły mi się
@@ -167,7 +169,7 @@ wpasowanie się w tryby machiny, w ramach której tworzona jest dokumentacja, co
 na początku może być stresujące. Z drugiej strony, jest to okazja dowiedzenia
 się czegoś o zarządzaniu projektami.
 
-# Czego musiałem się nauczyć?
+## Czego musiałem się nauczyć?
 
 Podczas rozmowy rekrutacyjnej wskazano mi obszar, który potrzebowałem zgłębić:
 zdolność do myślenia w kategoriach procesu. Chodzi o to, by być w stanie rozbić
@@ -204,7 +206,7 @@ potrzebuję reakcji. Egzekwowanie tych dat zaczęło przynosić rezultaty, a
 współpracownicy też nauczyli się uwzględniać czas na wspieranie dokumentacji w
 swoim harmonogramie.
 
-# Ciąg dalszy
+## Ciąg dalszy
 
 W przeciągu dalszych lat nie narzekałem na brak wyzwań na nowym poletku, m.in.:
 
@@ -230,14 +232,14 @@ trudnym języku, jakim jest polski. Teraz wymieniam uwagi z utalentowanymi
 ludźmi, trzymam rękę na pulsie branży, moja świadomość tej społeczności stale
 się poszerza i mam okazję brać udział w ciekawych inicjatywach.
 
-##### [![](images/upload_004-798x1024.png)](http://techwriter.pl/wp-content/uploads/2022/04/upload_004.png)`Gdyby nie to jedno zdarzenie, nie byłoby mnie tu gdzie teraz jestem. Sprawdź dokąd certyfikat ITCQF doprowadzi w przyszłości Ciebie.`
+[![](images/upload_004-798x1024.png)](http://techwriter.pl/wp-content/uploads/2022/04/upload_004.png)`Gdyby nie to jedno zdarzenie, nie byłoby mnie tu gdzie teraz jestem. Sprawdź dokąd certyfikat ITCQF doprowadzi w przyszłości Ciebie.`
 
 Krótko mówiąc, wybór kursu do ITCQF był brzemienny w skutkach. Nie tylko
 zdobyłem użyteczną wiedzę ale i zyskałem możliwość poszerzenia sieci kontaktów,
 mam też przestrzeń do kreatywnej ekspresji. Gdyby nie ta jedna decyzja,
 ominęłoby mnie wiele dobrych rzeczy 😊
 
-# Podsumowanie
+## Podsumowanie
 
 W międzyczasie, wciąż zdarza mi się przyjmować zlecenia tłumaczeniowe i w głębi
 duszy nadal czuję się tłumaczem. Esencją mojej pracy pozostaje budowanie

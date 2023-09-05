@@ -20,7 +20,7 @@ prezentacjach, dlatego przedstawiamy skrótowo tylko niektóre z nich.
 
 <!--truncate-->
 
-## Zaufanie przede wszystkim
+### Zaufanie przede wszystkim
 
 I to nie tylko w związku. [Rahel Ann Bailie](http://soapconf.com/speakers/)
 mówiła o tym jak ważne jest budowanie zaufania użytkowników. Jest to przede
@@ -53,7 +53,7 @@ użytkownikami. Tylko w taki sposób zdobędziemy ich zaufanie.
 
 [![SoapRahelAnnBailie](images/SoapRahelAnnBailie.png)](http://techwriter.pl/wp-content/uploads/2014/10/SoapRahelAnnBailie.png)
 
-## Źle napisana instrukcja może zabić
+### Źle napisana instrukcja może zabić
 
 Taką drastyczną wizję zaserwował swoim słuchaczom
 [Ray Gallon](http://soapconf.com/speakers/). Swoją prezentację rozpoczął od
@@ -90,7 +90,7 @@ razem kiedy byli pomocni.
 
 [![SoapRayGallon](images/SoapRayGallon.png)](http://techwriter.pl/wp-content/uploads/2014/10/SoapRayGallon.png)
 
-## Autor też człowiek
+### Autor też człowiek
 
 Informacja to droga dwukierunkowa, dlatego nie możemy się skupiać wyłącznie na
 użytkowniku końcowym. Musimy również pamiętać o autorze i jego doświadczeniu
@@ -117,7 +117,7 @@ tylko biznesu, dlatego trzeba ułatwiać ludzki proces zarządzania treścią.
 
 [![SoapRickYagodich](images/SoapRickYagodich.png)](http://techwriter.pl/wp-content/uploads/2014/10/SoapRickYagodich.png)
 
-## Zamiast opowiadać narysuj
+### Zamiast opowiadać narysuj
 
 A dokładniej przedstaw co masz na myśli za pomocą infografiki.
 [Agnieszka Tkaczyk](http://soapconf.com/speakers) opowiadała o swojej przygodzie
@@ -162,7 +162,7 @@ Dokument, który opisywał tą infrastrukturę liczył 457 słów.
 
 [![SoapAgnieszkaTkaczyk](images/SoapAgnieszkaTkaczyk.png)](http://techwriter.pl/wp-content/uploads/2014/10/SoapAgnieszkaTkaczyk.png)
 
-## Znajdź wspólny język
+### Znajdź wspólny język
 
 Kadra kierownicza niekoniecznie widzi taką samą wartość w dobrze zaprojektowanej
 treści jak osoby, które ją tworzą. [Noz Urbina](http://soapconf.com/speakers)

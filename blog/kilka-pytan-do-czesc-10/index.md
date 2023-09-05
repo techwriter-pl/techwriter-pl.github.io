@@ -20,11 +20,11 @@ przygodzie z komunikacją techniczną. Zapraszamy na kolejny odcinek z cyklu
 
 <!--truncate-->
 
-### Jak długo pracujesz jako Tech Writer?
+#### Jak długo pracujesz jako Tech Writer?
 
 Prawie 5 lat.
 
-### W jaki sposób zostałeś Tech Writerem?
+#### W jaki sposób zostałeś Tech Writerem?
 
 Trochę w tym szczęścia, trochę przypadku. Pierwsze lata po studiach pracowałem
 jako nauczyciel języka angielskiego, jednak redukcja zatrudnienia w szkole
@@ -36,7 +36,7 @@ rekrutacji, zostałem zatrudniony z innymi 8-10 osobami i tak zaczęła się moj
 przygoda z technical writingiem. Było to duże wyzwanie i zmiana w moim życiu,
 gdyż musiałem się także przeprowadzić do Krakowa.
 
-### Czy możesz opowiedzieć coś o swojej firmie i zespole w którym pracujesz?
+#### Czy możesz opowiedzieć coś o swojej firmie i zespole w którym pracujesz?
 
 Firma, pod której logiem obecnie pracuję obchodziła w tamtym roku 10. urodziny.
 Trzy lata temu zostaliśmy przejęci przez globalnego potentata zajmującego się
@@ -47,7 +47,7 @@ osób z czego 2 pracują od samego początku. Warto podkreślić że 6 osób zna
 zatrudnienie w ostatnim roku. W skrócie: rozrastamy się jak cała branża IT w
 Krakowie, i nie powiedzieliśmy jeszcze ostatniego słowa.
 
-### W jaki sposób jest zorganizowana praca Twoja i Twojego zespołu?
+#### W jaki sposób jest zorganizowana praca Twoja i Twojego zespołu?
 
 Jesteśmy podzieleni na kilkuosobowe zespoły, w których każdy z dokumentalistów
 opisuje element platformy do zarządzania procesami biznesowymi (główny produkt
@@ -61,14 +61,14 @@ ale jesteśmy pewni, że końcowy produkt jest bardzo dobrej jakości. Jest to n
 po części naszym mottem, aby w procesie tworzenia dokumentacji jakość stawiać
 przed ilością.
 
-### Jakich narzędzi używasz i co o nich sądzisz?
+#### Jakich narzędzi używasz i co o nich sądzisz?
 
 MadCap Flare i Subversion. Produkty MadCap są dość drogie, a ich niezawodność
 niestety jest odwrotnie proporcjonalna do ceny. Z sentymentem i łezką w oku
 wspominam edytor Oxygen i gitowe repozytorium, które po zapamiętaniu (czytaj
 spisaniu w notesiku) kilku komend było moim sprawdzonym orężem pisarskim.
 
-### W jaki sposób zdobywasz informacje potrzebne do tworzenia dokumentacji?
+#### W jaki sposób zdobywasz informacje potrzebne do tworzenia dokumentacji?
 
 Odpowiadając krótko: w różny. Najczęściej biorę udział w demowaniu
 oprogramowania lub oglądam nagrania, na których zespoły developerskie
@@ -85,7 +85,7 @@ alerty. Nieodzownym elementem mojej pracy jest zadawanie dużej ilości pytań. 
 to, jakże by inaczej, ‘oczywiste pytania’ (przynajmniej w mniemaniu zespołów
 developerskich).
 
-### Jakie dokumenty dostarczasz, w jakiej postaci, w jakim języku i jak są one publikowane?
+#### Jakie dokumenty dostarczasz, w jakiej postaci, w jakim języku i jak są one publikowane?
 
 Główny dokument to on-line help, który dołączamy do naszego sztandarowego
 produktu z każdą jego nową wersją. Help jest też dostępny na stronie
@@ -94,11 +94,11 @@ zawiera różnego rodzaju dokumenty w formie artykułów i pdfów. Są to
 ‘walkthroughs’, ‘procedury troubleshooting’, ‘release notes’, itp. Dokumentacja
 pisana jest w American English.
 
-### Jakie produkty opisujesz?
+#### Jakie produkty opisujesz?
 
 Jeden z elementów platformy do zarządzania procesami biznesowymi.
 
-### Czy oprócz tworzenia dokumentacji zajmujesz się czymś jeszcze, np. tworzeniem materiałów marketingowych? Jeśli tak, to czym i jakich narzędzi do tego używasz?
+#### Czy oprócz tworzenia dokumentacji zajmujesz się czymś jeszcze, np. tworzeniem materiałów marketingowych? Jeśli tak, to czym i jakich narzędzi do tego używasz?
 
 Zdarza mi się testować szkolenia na temat naszego produktu. Nim takie
 e-learningowe szkolenie trafi do naszych klientów, jestem ‘pierwszym
@@ -109,7 +109,7 @@ napisałem. W ostatnim czasie, co raz częściej zdarza się, że nowe
 funkcjonalności wpływają na więcej niż jeden element platformy co wymaga
 współpracy dwóch lub kilku tech writerów z różnych stref czasowych.
 
-### Jakie są największe wyzwania, które napotykasz w swojej pracy?
+#### Jakie są największe wyzwania, które napotykasz w swojej pracy?
 
 W wielu rozmowach z innymi kolegami z branży, a także chwilami u siebie w pracy,
 mam wrażenie, że dokumentacja zawsze traktowana jest po macoszemu i nikt
@@ -123,7 +123,7 @@ produktu był zadowolony z tego co jest. No cóż, nie zawsze udaje się dopią�
 wszystko na ostatni guzik w produkcie i trzeba z czegoś zrezygnować, lub
 dostarczyć w późniejszym terminie.
 
-### Co najbardziej lubisz w pracy Tech Writera?
+#### Co najbardziej lubisz w pracy Tech Writera?
 
 Lubię ten moment kiedy zrozumiem nową funkcjonalność produktu, mam wszystkie
 dostępne materiały, nie mam więcej spotkań w kalendarzu i na spokojnie mogę
@@ -136,7 +136,7 @@ Lubię tą różnorodność kultur w pracy i łatwo dostrzegam, że ludzie z Azj
 Europy i Ameryki, z którymi mam przyjemność współpracować oglądają te sam
 seriale, mają podobne poczucie humoru i starają się sobie nawzajem pomóc.
 
-### Co byś radził osobom, które chciałyby zacząć swoją przygodę z pisaniem dokumentacji?
+#### Co byś radził osobom, które chciałyby zacząć swoją przygodę z pisaniem dokumentacji?
 
 Dodać stronkę techwriter.pl do ulubionych i wpaść na
 [konferencję SOAP](http://soapconf.com/) na dobry początek. Zaczynając przygodę

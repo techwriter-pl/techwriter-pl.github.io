@@ -21,27 +21,27 @@ Poniżej przedstawiamy streszczenio-tłumaczenio-interpretację tegoż artykułu
 
 <!--truncate-->
 
-## Postaw się w sytuacji użytkownika
+### Postaw się w sytuacji użytkownika
 
 Po pierwsze, użytkownik nie wie nic na temat produktu, który opisujesz. Po
 drugie, nie poświęci czasu na czytanie całej instrukcji zanim rozpocznie pracę.
 Użytkownik korzysta z Twojego produktu w konkretnym celu.
 
-## Przyjmij do wiadomości, że ludzie nie chcą czytać Twoich tekstów
+### Przyjmij do wiadomości, że ludzie nie chcą czytać Twoich tekstów
 
 Brutalne, ale prawdziwe. Pisanie dobrych instrukcji wymaga uświadomienia sobie,
 że użytkownicy nie chcą się uczyć jak używać produktu, tylko chcą wykonać
 konkretne zadanie. Do dokumentacji sięgają w akcie desperacji, więc na tym
 etapie są już sfustrowani i nie wiedzą co dalej robić.
 
-## Użytkownicy są już sfrustrowani
+### Użytkownicy są już sfrustrowani
 
 Jako twórca instrukcji jesteś w kiepskiej sytuacji, ponieważ użytkownicy,
 których prawdopodobnie nigdy nie spotkasz, na etapie sięgania po dokument są już
 sfrustrowani. Dlatego musisz być dla nich miły i dać im dokładne i przejrzyste
 wskazówki, które pozwolą im jak najszybciej znaleźć właściwą ścieżkę.
 
-## Zanim przystąpisz do pisania
+### Zanim przystąpisz do pisania
 
 Musisz wiedzieć jaki styl należy zastosować w instrukcjach. Rozejrzyj się za
 [podręcznikiem stylu](http://techwriter.pl/podrecznik-stylu-stylrecznik/)
@@ -54,7 +54,7 @@ Słownik i tezaurus nie zaszkodzą. Można je znaleźć w internecie, a firmowy
 podręcznik stylu powinien określać, które z nich wybrać. Jeśli masz wątpliwości,
 użyj słownika _Merriam Webster_.
 
-## Magiczna formuła
+### Magiczna formuła
 
 1. Gdzie jestem? Umieść informację, w którym miejscu systemu rozpoczyna się
    procedura.
@@ -69,7 +69,7 @@ procedura rozwiąże jego problem, dzięki informacji o miejscu, w którym powin
 zacząć wie, które okno otworzyć przed rozpoczęciem, a dzięki opisowi rezultatu,
 wie jak powinien wyglądać wynik poprawnie wykonanej procedury.
 
-## Pisanie czas zacząć
+### Pisanie czas zacząć
 
 Znamy już zasady, więc możemy przystąpić do działania cały czas pamiętając o
 perspektywie użytkownika.
@@ -87,7 +87,7 @@ przedstawionego w tytule. Zastosuj "magiczną formułę", np.
    - Jeśli opcje nie są poprawne, naciśnij **Back**, żeby powrócić do głównego
      okna i wybrać inne opcje.
 
-## Instrukcja gotowa, co dalej?
+### Instrukcja gotowa, co dalej?
 
 Po zakończeniu pisania, sprawdź tekst pod kątem poprawności językowej.
 Następnie, oddaj tekst eskpertowi w kwestiach merytorycznych (SME), a najlpiej
@@ -99,7 +99,7 @@ akceptowane praktycznie w każdym wypadku - w końcu znają się na tym co robi�
 Jeśli zdecydowanie nie zgadzasz się z jakąś zmianą, przedyskutuj ją z ekspertem
 lub edytorem.
 
-## Przetestuj instrukcję
+### Przetestuj instrukcję
 
 Zorganizuj grupę ludzi, którzy przejdą Twoją instrukcję od początku do końca i
 zanotują, w których miejscach mieli wątpliwości albo gdzie kroki były
@@ -108,7 +108,7 @@ użytkownicy produktu. Jeśli nie ma takiej możliwości, wybierz kilka osób w
 firmie, które nie znają Twojej instrukcji. Ich uwagi będą równie wartościowe jak
 uwagi ekspertów, ponieważ te osoby również dobrze znają produkt.
 
-## Wnioski końcowe
+### Wnioski końcowe
 
 Ogólnie, wnioski dotyczące pisania instrukcji dla oprogramowania są następujące:
 

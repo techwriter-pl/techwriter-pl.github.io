@@ -17,7 +17,7 @@ relację.
 
 <!--truncate-->
 
-# Tech writing
+## Tech writing
 
 UA Europe to przede wszystkim stała kadra prezenterów i spora grupa delegatów,
 którzy wracają tu co roku. Konferencja odbywa się zatem w bardzo rodzinnej
@@ -59,7 +59,7 @@ komunikacji technicznej. Dla początkujących i nie tylko miała kilka rad:
 
 [![Sala wystawowa w hotelu konferencyjnym](images/20160609_153158.jpg)](http://techwriter.pl/wp-content/uploads/2016/07/20160609_153158.jpg)
 
-# Gulasz
+## Gulasz
 
 Konferencja to nie tylko wiedza, to jeszcze lokalizacja. Sam Budapeszt jest nie
 lada atrakcją, natomiast hotel, w którym odbywało się wydarzenie znajdował się
@@ -73,7 +73,7 @@ można było dobrze zjeść.
 width="5312"\][![Widok na Margiisziget](images/20160609_072313.jpg)](http://techwriter.pl/wp-content/uploads/2016/07/20160609_072313.jpg)
 Widok na miasto z wyspy Margitsziget\[/caption\]
 
-# Ogień
+## Ogień
 
 Na konferencji były także okazje do poznania innych uczestników czyli tak zwany
 networking. Oprócz typowych wieczornych drinków została zorganizowana ciekawa
@@ -84,7 +84,7 @@ niebezpieczne, że mroziły nam krew w żyłach.
 
 https://youtu.be/Jv\_3oTSbgdI
 
-# Następny rok
+## Następny rok
 
 Organizatorzy już zapowiedzieli kolejną konferencję na rok 2017. Jeszcze nie
 powiedzieli gdzie się ona odbędzie, ale będzie to północ Wielkiej Brytanii.

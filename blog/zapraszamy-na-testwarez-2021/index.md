@@ -20,7 +20,7 @@ patronatem. Poniżej najważniejsze informacje.
 Po rocznej przerwie spowodowanej pandemią do kalendarza wydarzeń IT wraca
 konferencja TestWarez, tym razem w formacie online.
 
-### Kilka słów o TestWarez
+#### Kilka słów o TestWarez
 
 TestWarez to najstarsze wydarzenie testerskie w Polsce. Z tego względu jest już
 bardzo dobrze znane w branży IT, czego najlepszym dowodem jest międzynarodowa
@@ -40,7 +40,7 @@ zaglądajcie na: [testwarez.pl](https://www.testwarez.pl/) oraz
 [Facebookowy fanpage](https://www.facebook.com/testwarez) czy
 [LinkedIn](https://www.linkedin.com/company/testwarez-conference/).
 
-### TestWarez 2021 - najważniejsze informacje
+#### TestWarez 2021 - najważniejsze informacje
 
 Jak już wspomnieliśmy wyżej, konferencja będzie dostępna online, a udział w niej
 jest bezpłatny. Odbędzie się ona w dniach **13-15 października 2021 roku**, a
@@ -60,7 +60,7 @@ co oferuje tegoroczny TestWarez. Zachęcamy jednak do śledzenia strony i medió
 społecznościowych wydarzenia, by nie ominęły Was najświeższe wiadomości. Namiary
 podaliśmy wyżej.
 
-### Dlaczego warto wziąć udział w TestWarez?
+#### Dlaczego warto wziąć udział w TestWarez?
 
 Konferencja skierowana jest do wszystkich osób zajmujących się szeroko
 rozumianym testowaniem oraz tych, którzy są tą tematyką zainteresowani. A jest

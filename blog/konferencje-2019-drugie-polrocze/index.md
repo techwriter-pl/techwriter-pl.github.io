@@ -18,12 +18,12 @@ przedstawić Wam zaplanowane na ten czas konferencje.
 
 <!--truncate-->
 
-## **Czerwiec (uzupełnienie)**
+### **Czerwiec (uzupełnienie)**
 
 28-29 czerwca, Lizbona, Portugalia –
 [Landing Festival Lisbon 2019](https://landingfestival.com/)
 
-## **Lipiec**
+### **Lipiec**
 
 15-19 lipca, Boston, Massachusetts, USA
 – [Boston UX Conference](https://www.nngroup.com/training/boston/)
@@ -48,7 +48,7 @@ przedstawić Wam zaplanowane na ten czas konferencje.
 30 lipca - 2 sierpnia, Rockville, Maryland, USA –
 [Balisage: The Markup Conference 2019](http://www.balisage.net/)
 
-## **Sierpień**
+### **Sierpień**
 
 12-16 sierpnia, Londyn, Wielka Brytania -
 [UX and Digital Design Week](https://futurelondonacademy.co.uk/en/course/ux-and-digital-design)
@@ -59,7 +59,7 @@ przedstawić Wam zaplanowane na ten czas konferencje.
 26-28 sierpnia, Chicago, Illinois, USA –
 [An Event Apart Chicago 2019](https://aneventapart.com/event/chicago-2019)
 
-## **Wrzesień**
+### **Wrzesień**
 
 03-06 września, Cleveland, Ohio, USA –
 [content marketing world 2019](https://www.contentmarketingworld.com/)
@@ -101,7 +101,7 @@ przedstawić Wam zaplanowane na ten czas konferencje.
 [Konferencja Tłumaczy 2019](https://www.konferencjatlumaczy.pl/) **To również
 nasz patronat 😉**
 
-## **Październik**
+### **Październik**
 
 04-06 października, Portland, Oregon, USA –
 [SIGDOC 2019](https://sigdoc.acm.org/conference/2019/)
@@ -122,7 +122,7 @@ nasz patronat 😉**
 27-30 października, Portland, Oregon, USA –
 [LavaCon 2019](https://lavacon.org/2019/)
 
-## **Listopad**
+### **Listopad**
 
 04-07 listopada, Lizbona, Portugalia – [WebSummit 2019](https://websummit.com/)
 
@@ -144,7 +144,7 @@ nasz patronat 😉**
 14-15 listopada, Sydney, Australia –
 [Write the Docs Australia 2019](http://www.writethedocs.org/conf/australia/2019/)
 
-## **Grudzień**
+### **Grudzień**
 
 06 grudnia, Fort Lauderdale, Floryda, USA –
 [UX+DEV Summit](https://uxdsummit.com/)

@@ -24,7 +24,7 @@ uzyskać dostęp do zasobów naszej firmy. Sprawa jest poważna, dlatego też
 poprosiliśmy eksperta od testowania bezpieczeństwa oprogramowania o wpis
 gościnny na temat zagrożeń jakie może nieść dokumentacja.
 
-# Kilka słów o autorze
+## Kilka słów o autorze
 
 [![](images/DSC_7675_fot_klaudyna_schubert-200x300.jpg)](http://techwriter.pl/wp-content/uploads/2018/10/DSC_7675_fot_klaudyna_schubert.jpg)Mateusz
 Olejarka, starszy specjalista ds. bezpieczeństwa IT w krakowskiej firmie
@@ -44,7 +44,7 @@ możecie go znaleźć na [LinkedIn](https://www.linkedin.com/in/molejarka),
 [Twitterze](https://twitter.com/@molejarka) i
 [Medium](https://medium.com/@mateusz.olejarka).
 
-# README.md, czyli historia zbyt pomocnego pliku
+## README.md, czyli historia zbyt pomocnego pliku
 
 README.md to plik, który w założeniu ma pomagać. To pierwsze miejsce, do którego
 zaglądamy jeśli chcemy wypróbować nowe narzędzie z serwisu

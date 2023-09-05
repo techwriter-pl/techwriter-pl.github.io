@@ -28,7 +28,7 @@ dołączony do ogłoszenia.
 
 ---
 
-### Content Specialist
+#### Content Specialist
 
 **Requisition Number:** Marketing/1/202 **Job Category:** Marketing
 **Location:** Bytom
@@ -41,7 +41,7 @@ interested in a long-term cooperation and has the following traits:
 - Work experience in the IT industry as a Content Specialist, Technical Writer,
   or Copywriter is a major plus.
 
-#### Responsibilities:
+##### Responsibilities:
 
 - Create and edit technical as well as creative texts in English for the
   company’s website, marketing campaigns, and social media,
@@ -51,7 +51,7 @@ interested in a long-term cooperation and has the following traits:
 - Collaborate closely with the graphic designer and social media specialist in
   day to day tasks as well as larger projects.
 
-#### Our offer:
+##### Our offer:
 
 - Work in the IT industry / Software Development based on an employment
   contract,

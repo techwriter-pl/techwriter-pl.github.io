@@ -29,7 +29,7 @@ Wrocławia 😊
 
 ---
 
-## Product Education Specialist
+### Product Education Specialist
 
 Jesteśmy firmą produktową rozwijającą własną aplikację webową dla klientów z
 całego świata. Do naszego działu Supportu szukamy zorganizowanej i samodzielnej

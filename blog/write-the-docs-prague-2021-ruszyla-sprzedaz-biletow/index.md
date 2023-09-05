@@ -29,7 +29,7 @@ Osoby, które jeszcze nie znają historii wydarzenia odsyłamy do
 uwagi gdyż poza solidną porcją wiedzy, w pakiecie otrzymujecie świetną atmosferę
 oraz spotkanie z rewelacyjnymi ludźmi z branży. Tak, online też dają radę 😉-.
 
-## **Najważniejsze informacje**
+### **Najważniejsze informacje**
 
 Tegoroczna edycja **Write the Docs Prague** odbędzie się w dniach **3-5
 października 2021 roku**. Podobnie jak w zeszłym roku, przyjęto formułę
@@ -72,7 +72,7 @@ czerwca.
 Pełny program Write the Docs Prague dostępny jest pod tym
 [linkiem](https://www.writethedocs.org/conf/prague/2021/schedule/).
 
-## **Rodzaje i ceny biletów**
+### **Rodzaje i ceny biletów**
 
 Osoby zainteresowane kupnem biletów odsyłamy
 [tutaj](https://www.writethedocs.org/conf/prague/2021/tickets/), gdzie
@@ -84,7 +84,7 @@ znajdziecie szczegółowe informacje dotyczące poniższych rodzajów biletów:
   pracowników – €100.
 - Bilet dla studentów lub osób nieposiadających zatrudnienia – €25.
 
-### **Co gwarantuje cena biletu?**
+#### **Co gwarantuje cena biletu?**
 
 Cena biletu zawiera:
 

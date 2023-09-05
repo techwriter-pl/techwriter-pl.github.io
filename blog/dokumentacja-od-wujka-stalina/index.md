@@ -23,7 +23,7 @@ Dlaczego nawiązujemy do tego okresu i tematyki? Co on ma wspólnego z
 dokumentacją techniczną? Otóż, wiąże się z nim ciekawa historia, która wpłynęła
 na kształtowanie się polskiego automobilizmu.
 
-## Z archiwum
+### Z archiwum
 
 Po II wojnie światowej polska motoryzacja miała się nie najlepiej. Ze względu na
 sytuację polityczną wybór samochodów osobowych w naszym kraju był wąski, a nawet
@@ -54,7 +54,7 @@ niespodzianka, dokumentacja kosztowała nas **130 mln ówczesnych złotych**!!!
 
 ...co się działo dalej?
 
-## Produkcja i eksploatacja
+### Produkcja i eksploatacja
 
 Pierwszy egzemplarz Warszawy został w całości wyprodukowany z podzespołów
 sprowadzonych z ZSRR. Samochód był drogi w utrzymaniu, palił 13 l/100 km, miał
@@ -65,7 +65,7 @@ naprawiono samodzielnie.
 Ponieważ Warszawa już w momencie rozpoczęcia produkcji była autem przestarzałym,
 jeszcze w latach 60. zaczęto szukać modelu, który miał ją zastąpić.
 
-## Ewolucja samochodu
+### Ewolucja samochodu
 
 Pierwowzór auta ''podarowany'' przez Rosjan okazał się na tyle niedopracowany,
 że polscy konstruktorzy nieustannie Warszawę modernizowali (łącznie do
@@ -76,7 +76,7 @@ nowe wersje użytkowe jak sedan czy pickup, a także wersje specjalne. Więcej
 informacji na ten temat znajdziecie
 [(tutaj)](https://pl.wikipedia.org/wiki/FSO_Warszawa).
 
-## Dalsze losy Warszawy
+### Dalsze losy Warszawy
 
 W następnych latach w odpowiedzi na ''potrzeby społeczeństwa'' zaczęto
 wprowadzać na rynek kolejne, stale poprawiane i ulepszane modele, bazujące na
@@ -118,7 +118,7 @@ zachodnimi, które stawały się coraz bardziej popularne w naszym kraju.
 
 Dużo o motoryzacji to może teraz  trochę o dokumentacji.
 
-## Instrukcje obsługi, katalogi i prospekty reklamowe
+### Instrukcje obsługi, katalogi i prospekty reklamowe
 
 Popyt na samochody w okresie PRL był tak duży, że nie było potrzeby ich
 reklamowania, przynajmniej na rynku krajowym. Obywatele byli w stanie czekać
@@ -144,7 +144,7 @@ Jeśli jesteście zainteresowani, zachęcamy do zgłębienia tematu i przegląda
 - [Prospekty reklamowe Polskiego Fiata 125p](https://autoarchiwum.blogspot.com/2014/10/prospekty-polskiego-fiata-125p-czesc-1.html)
 - [Dokumentacja techniczna Polskiego Fiata 126p](https://autoarchiwum.blogspot.com/2014/03/literatura-techniczna-i-serwisowa-126p.html)
 
-## Smutna prawda
+### Smutna prawda
 
 Samochody z czasów PRL nie wyróżniały się niczym szczególnym na tle światowej
 motoryzacji i, z małymi wyjątkami, były dość przestarzałe. Rodzima technologia
@@ -156,7 +156,7 @@ cenowym.
 Niemniej jednak Polska z czasu PRL miała coś, czego już dzisiaj praktycznie nie
 mamy - masowo produkowane auta krajowe.
 
-## ... i na koniec pozytywny akcent
+### ... i na koniec pozytywny akcent
 
 Zagłębianie się w historię PRL wcale nie musi być smutnym doświadczeniem. Wśród
 godnych pochwały rzeczy są dobrze zaprojektowane prototypy samochodów krajowych.

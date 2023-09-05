@@ -38,16 +38,16 @@ przedstawicieli zespołów dokumentacji i e-learning, a także własnoręcznie
 przetestować funkcje niektórych produktów Motorola Solutions. Dla autorów
 najlepszych szkoleń i instrukcji zostały przewidziane nagrody.
 
-## Czas i miejce
+### Czas i miejce
 
 Warsztaty zostały zaplanowane na 27 maja (sobota) w godzinach od 10:00 do 16:00
 na kampusie Motorola Solutions Polska w Krakowie przy ul. Czerwone Maki.
 
-## Wstęp
+### Wstęp
 
 Wstęp na wydarzenie i udział w warsztatach są wolne.
 
-## Więcej informacji
+### Więcej informacji
 
 Jeśli chcesz dowiedzieć się więcej na temat pozostałych atrakcji przewidzianych
 podczas Dnia Otwartego, zapraszamy na

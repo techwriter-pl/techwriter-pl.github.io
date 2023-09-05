@@ -32,7 +32,7 @@ Na początku jednak, z wiadomych względów, trzeba się nastawić na pracę zda
 
 ---
 
-# Technical Writer
+## Technical Writer
 
 Location: **Covid-time remotely** Warsaw, Poland (onsite after the pandemic)
 

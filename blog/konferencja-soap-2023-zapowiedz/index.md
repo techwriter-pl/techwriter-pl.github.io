@@ -16,7 +16,7 @@ dotyczące wydarzenia, a także sporo materiałów z poprzednich edycji.
 
 <!--truncate-->
 
-### Termin i miejsce
+#### Termin i miejsce
 
 Tegoroczna edycja soap! odbędzie się w dniach **2-3 czerwca**. Podobnie jak w
 zeszłym roku, organizatorzy postanowili przeprowadzić konferencję w formie
@@ -29,7 +29,7 @@ Tradycyjnie już, w dniu poprzedzającym konferencję (1 czerwca) odbędą się
 warsztaty, na które trzeba się zarejestrować osobno. Szczegóły znajdziecie w
 sekcji dotyczącej biletów.
 
-### **Temat przewodni**
+#### **Temat przewodni**
 
 Tematem przewodnim soap! 2023 jest szeroko rozumiany kontent. Dołączcie do
 Namydlonych, aby odkryć koncepcję ContentOps, która ma swoje korzenie w
@@ -55,7 +55,7 @@ Ramowy program tegorocznego soap:
   prezentacji z przerwami na kawę oraz obiad. Po prelekcjach nastąpi uroczyste
   zakończenie. Start: 8:00, zakończenie o 17:30.
 
-### Rodzaje i ceny biletów
+#### Rodzaje i ceny biletów
 
 Bilety dla osób chcących osobiście uczestniczyć w konferencji. Link do
 rejestracji oraz wszelkie potrzebne informacje znajdziecie
@@ -109,7 +109,7 @@ Cena obejmuje:
   [kanele You Tube](https://www.youtube.com/@SoapconfPage),
 - dostęp do kanału społeczności na Slacku.
 
-### Warsztaty
+#### Warsztaty
 
 Tradycyjnie już w dniu poprzedzającym konferencję (1 czerwca) odbędą się
 całodniowe warsztaty. Są one przeznaczone tylko dla uczestników, którzy

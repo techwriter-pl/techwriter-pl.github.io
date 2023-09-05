@@ -16,7 +16,7 @@ naszego punktu widzenia warto wiedzieć przed pierwszą rekrutacją.
 
 <!--truncate-->
 
-# **Sprawdź siebie zanim sprawdzisz oferty**
+## **Sprawdź siebie zanim sprawdzisz oferty**
 
 Zanim zaczniesz na poważnie rozglądać się za pracą Technical Writera i aplikować
 na konkretne stanowisko, najpierw zajrzyj w głąb siebie i dobrze się zastanów
@@ -39,7 +39,7 @@ sprawdź
 naszym przekonaniu jednak, wiedza teoretyczna z zakresu komunikacji technicznej
 jest pomocna, lecz na samym początku nie najistotniejsza.
 
-# **Czego wymaga się od Technical Writera?**
+## **Czego wymaga się od Technical Writera?**
 
 Zawód specjalisty ds. dokumentacji technicznej nie ma ściśle określonego zakresu
 obowiązków. Może zawężać się do pisania dokumentów, lecz także wymagać
@@ -74,7 +74,7 @@ będziesz działać, prędzej czy później przyjdzie moment, kiedy wiedzę, kt�
 posiadasz na temat opisywanego produktu będziesz musiał albo zaktualizować, albo
 odrzucić na poczet zupełnie nowej.
 
-# **Miejsce zamieszkania może, ale nie musi mieć znaczenia**
+## **Miejsce zamieszkania może, ale nie musi mieć znaczenia**
 
 W Polsce najwięcej ofert pracy dla Technical Writerów napływa z południowej
 części kraju. Kraków, Wrocław i Katowice to najczęściej pojawiające się miasta w
@@ -98,7 +98,7 @@ odpowiada twojemu. Doświadczenie każe podpowiedzieć jednak, że korzystanie
 trafić do firmy zajmującej się wytwarzaniem software’u, bo docelowo można
 rozwijać się jako manager projektu, scrum master lub nawet programista.
 
-# **O rety! Pierwsze poszukiwania, pierwsza aplikacja**
+## **O rety! Pierwsze poszukiwania, pierwsza aplikacja**
 
 Przede wszystkim przygotuj swoje CV tak, aby pokazywało twoje umiejętności jako
 potencjalny Technical Writer. Jeśli będziesz je tworzyć w np. Wordzie, zadbaj o
@@ -126,7 +126,7 @@ doświadczonego czy nie. Jeżeli się dobrze zaprezentujesz, sukces masz murowan
 tak czy siak. Tylko właśnie, tutaj rodzi się pytanie: Jak dobrze wypaść na
 rozmowie?
 
-# **Czytaj zanim napiszesz, pomyśl zanim odpowiesz**
+## **Czytaj zanim napiszesz, pomyśl zanim odpowiesz**
 
 Proces rekrutacji na stanowisko Technical Writera przebiega różnie w zależności
 od firmy, która rekrutuje, jednakże elementem wspólnym dla wszystkich jest
@@ -174,7 +174,7 @@ będziesz odpowiadać na pytania jest już przykładem tego, jak się komunikuje
 przedstawiasz informacje! I jeszcze jedno: przygotuj się, że rozmowy mogą być
 przeprowadzane zarówno po polsku, jak i po angielsku.
 
-# **Finanse, a jak z finansami?**
+## **Finanse, a jak z finansami?**
 
 W kwestii finansów, na pewno pomocne będą
 [wyniki badania płac w komunikacji technicznej w 2020 r](http://techwriter.pl/wyniki-badania-plac-w-komunikacji-technicznej-2020/).

@@ -21,7 +21,7 @@ jej temat.
 
 <!--truncate-->
 
-### Co, gdzie i kiedy?
+#### Co, gdzie i kiedy?
 
 Pomimo zmian związanych z wytycznymi dotyczącymi pandemii organizatorzy
 pozostali w tym roku przy formacie **online**. Termin wydarzenia to **11-13
@@ -55,7 +55,7 @@ przedstawiamy kilka wystąpień, które wydają się nam najciekawsze. Jesteśmy
 ciekawi czy pokrywają się one z Waszymi wyborami - zachęcamy do dyskusji w
 komentarzach 😉.
 
-### Prelekcje – subiektywny wybór
+#### Prelekcje – subiektywny wybór
 
 Wiadomo już, że podczas dwóch dni konferencji odbędzie się 12 prelekcji. Każda z
 nich ma trwać około 30 minut. Większość prelegentów będzie miała moderowaną
@@ -117,7 +117,7 @@ zapraszamy do naszych relacji z poprzednich edycji konferencji:
 - [Write the Docs Prague 2017](http://techwriter.pl/write-the-docs-prague-2017-relacja/),
 - [Write the Docs Europe 2016](http://techwriter.pl/write-the-docs-europe-2016-relacja/).
 
-### Rodzaje i ceny biletów
+#### Rodzaje i ceny biletów
 
 Osoby zainteresowane kupnem biletów
 odsyłamy [na stronę](https://www.writethedocs.org/conf/prague/2022/tickets/), na

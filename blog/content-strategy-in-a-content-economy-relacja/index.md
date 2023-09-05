@@ -20,7 +20,7 @@ książki [Content Strategy: Connecting the dots between business, brand, and b
 
 <!--truncate-->
 
-## Content Economy
+### Content Economy
 
 Głównym tematem prezentacji było zarządzanie treścią osadzone w szeroko pojętej
 strefie tego co Rahel nazywa gospodarką treści (content economy). Na początku
@@ -35,7 +35,7 @@ sobie sprawę z tego, że treść ma wartość tylko wtedy, gdy ktoś ją zauwa�
 Inaczej gubi się po prostu w natłoku przekazywanych nam informacji. Tym właśnie
 sposobem dochodzimy do _content economy_.
 
-## Kultura użytkownika
+### Kultura użytkownika
 
 Rahel wprowadza też podział treści na taką opartą o lokalizację geograficzną (co
 objawiaja się na przykład blokowaniem treści użytkownikom spoza pewnych
@@ -53,7 +53,7 @@ zarządzanie treścią jako tę część biznesu, w którą warto inwestować. K
 użytkownicy poszukują wartościowych informacji, odpowiedzi na swoje pytania, a
 jeżeli je znajdują, zwiększa to w ich oczach renomę firmy czy produktu.
 
-## Dostosowanie treści
+### Dostosowanie treści
 
 Kolejną kwestią poruszoną przez Rahel było dostosowywanie sposobu przekazywania
 treści w miarę jak rozwija się technologia, a użytkownicy się do niej
@@ -76,7 +76,7 @@ kontekście zarówno
 [cyklu ich życia](http://johnnyholland.org/2010/10/content-lifecycle-closing-the-loop-in-content-strategy/)
 jak i etapów rozwoju przez które przechodzi ich odbiorca.
 
-## Trochę praktyki
+### Trochę praktyki
 
 Ciekawymi punktami prezentacji były bez wątpienia przykłady zaprezentowane przez
 autorkę: model biznesowy [iFixit](http://ifixit.com/ "iFixit") i ich
@@ -85,7 +85,7 @@ bardzo ciekawa analiza projektu, w którym Rahel brała udział polegająca na
 zmianie modelu strony internetowej Vancouver tak, aby czytelnicy łatwiej,
 szybciej i częściej sięgali na niej po interesujące ich informacje.
 
-## Co teraz?
+### Co teraz?
 
 Podsumowując, jakie rady daje nam Rahel? Przede wszystkim, odrzucić silosy
 kompetencyjne i poszukiwać treści z odpowiednich źródeł, dostarczać je na

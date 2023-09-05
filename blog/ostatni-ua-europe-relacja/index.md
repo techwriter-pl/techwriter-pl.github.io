@@ -17,7 +17,7 @@ wieczoru? O tym w dalszej części relacji.
 
 <!--truncate-->
 
-# Ciekawe wystąpienia
+## Ciekawe wystąpienia
 
 Oto podsumowanie najciekawszych, naszym zdaniem, wystąpień.
 
@@ -76,7 +76,7 @@ Oto podsumowanie najciekawszych, naszym zdaniem, wystąpień.
    - Pomoc, która tłumaczy zawsze wszystko od podstaw, tak jakby użytkownik nie
      miał żadnej wiedzy, nie jest pomocna dla nikogo
 
-# Wieczorna rozrywka
+## Wieczorna rozrywka
 
 Wieczorem po wykładach, uczestnicy zebrali się w sali teatralnej w hotelu z
 drinkami w dłoniach. Wszyscy czekali na wielką niespodziankę wieczoru.
@@ -91,7 +91,7 @@ częścią brytyjskiej tradycji estradowej. Dla Polaka na widowni było to
 niewątpliwie zaskakujące doświadczenie, ale jak to ujęła jedna z uczestniczek,
 było to bardzo "kochane" (darling).
 
-# Ostatni raz
+## Ostatni raz
 
 Na koniec Matthew Ellison ogłosił, że nie będzie już kolejnej edycji UA Europe.
 Matthew i jego żona Georgette organizowali wydarzenie przez ostatnie 21 lat,

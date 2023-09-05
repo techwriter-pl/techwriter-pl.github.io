@@ -20,7 +20,7 @@ Narzędzia, z których korzysta technical writer można podzielić na kilka grup
 zależności od ich przeznaczenia. Poniżej przedstawiamy listę różnych narzędzi,
 których używamy lub z innych powodów uznaliśmy za warte uwagi.
 
-### Tworzenie i porównywanie treści
+#### Tworzenie i porównywanie treści
 
 [ClickHelp](https://clickhelp.com/) - to nowoczesne narzędzie do tworzenia
 dokumentacji. Jest niezwykle popularne w firmach z branży IT. Można w nim
@@ -51,7 +51,7 @@ teksty, ale także obrazy i pliki PDF. Dzięki niemu oszczędza się sporo czasu
 wysiłku. Dodatkowo, ma się większą pewność, że coś nie zostało pominięte.
 Podobnie jak poprzednik, dostęp wymaga opłacenia abonamentu.
 
-### Oprawa graficzna dokumentacji
+#### Oprawa graficzna dokumentacji
 
 Na tym polu wybór narzędzi jest przeogromny i każdy użytkownik musi kierować się
 własnymi potrzebami i upodobaniami. Spośród ogromu opcji wybrałam kilka, które
@@ -89,7 +89,7 @@ ma wszystko, czego potrzeba do tworzenia profesjonalnych treści. Jego minusem
 jest fakt, że wymaga trochę czasu, by nauczyć się jego obsługi i funkcji, z
 których warto korzystać.
 
-### Planowanie procesu twórczego
+#### Planowanie procesu twórczego
 
 [Notion](https://www.notion.so/) - to program dla tych, którzy przywiązują dużą
 wagę do planowania. To niesamowite narzędzie do organizowania czasu, pracy i

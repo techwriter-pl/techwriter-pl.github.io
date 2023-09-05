@@ -25,7 +25,7 @@ który publikowaliśmy kilka miesięcy temu i poczuł chęć kontyunowania temat
 narzędzi do sprawdzania tekstu. Dzięki temu, możemy Wam dzisiaj przedstawić wpis
 pt. "Good alternatives to Grammarly in 2018."
 
-# Kilka słów o autorze
+## Kilka słów o autorze
 
 Sunny Agarwal pracuje jako konsultant oraz programista rozwijający
 [GrammarCheck](https://www.mygrammarcheck.com) - narzędzie do sprawdzania tekstu
@@ -39,7 +39,7 @@ codziennym.
 Jeśli chcecie skontaktować się z autorem, piszcie do nas na
 adres [kontakt@techwriter.pl](mailto:kontakt@techwriter.pl).
 
-# Good alternatives to Grammarly in 2018
+## Good alternatives to Grammarly in 2018
 
 Students, bloggers and all types of writers want perfection in their articles
 and blogs. Because of their tough schedules, they usually don’t have enough time
@@ -49,7 +49,7 @@ errors.
 Fortunately, there are some apps that can save you some time and help you
 improve the quality of your writing.
 
-## [**ProWritingAid**](https://prowritingaid.com/)
+### [**ProWritingAid**](https://prowritingaid.com/)
 
 ProWritingAid can be your alternative to Grammarly when pricing becomes your
 primary concern. It is one of the best online tools to help you get rid of
@@ -60,7 +60,7 @@ The most prominent feature that makes it closely related to Grammarly is that it
 has the capability to perform 25 types of tests on text such as grammar,
 pronouns, sentence structure and length, transitions and vague words.
 
-## [**Ginger**](http://www.gingersoftware.com/grammarcheck)
+### [**Ginger**](http://www.gingersoftware.com/grammarcheck)
 
 Ginger is yet another brilliant online tool that has efficient outcomes. It is
 very popular among teachers, students, bloggers and writers. It is a
@@ -69,7 +69,7 @@ typing in search bars of apps like YouTube. Moreover, Ginger can help you detect
 errors by highlighting them. This tool is a good alternative to Grammarly when
 it comes to Mac but the plagiarism check is missing.
 
-## [**WhiteSmoke**](http://www.whitesmoke.com/free-online-checker)
+### [**WhiteSmoke**](http://www.whitesmoke.com/free-online-checker)
 
 WhiteSmoke indicates various errors or mistakes in grammatical sentence framing,
 writing styles and spelling mistakes. This tool is compatible with all the
@@ -78,7 +78,7 @@ condolences and cover letters. An extraordinary feature that makes it stand out
 from other tools is the way an explanation is provided for each word that needs
 correction.
 
-## [**GrammarCheck**](https://www.mygrammarcheck.com)
+### [**GrammarCheck**](https://www.mygrammarcheck.com)
 
 It is an online tool designed for the worldwide community of students, teachers,
 and researchers. GrammarCheck was designed by a professionally proficient team
@@ -87,14 +87,14 @@ errors and plagiarism and to make your writing easy and effective. This tool is
 very closely related to Grammarly in terms of the features and yet it has quite
 affordable premium packages.
 
-## [**PaperRater**](https://www.paperrater.com/)
+### [**PaperRater**](https://www.paperrater.com/)
 
 Last but not least – PaperRater. Its functionality is dependent on the computer
 algorithm named Grendel. The tool indicates errors by underlining them. The free
 version has various limitations. Refer to the application’s website to learn
 about all the features..
 
-## **Conclusion**
+### **Conclusion**
 
 There are many tools that check your text for errors and plagiarism. Among the
 few tools mentioned above, GrammarCheck seems to be a good choice because it
@@ -102,7 +102,7 @@ provides you with accurate data and its free version offers many useful
 features. But don’t take my word for it - go ahead and test these tools yourself
 to pick the one that will meet your requirements.
 
-# Podziękowanie od techwriter.pl
+## Podziękowanie od techwriter.pl
 
 Dziękujemy Sunny'emu za ten artykuł. Opisane narzędzia dobrze uzupełniają listę
 darmowych narzędzi, o których

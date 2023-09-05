@@ -18,7 +18,7 @@ wspierać tę inicjatywę jako patron medialny.
 
 <!--truncate-->
 
-## W jakim celu powstała grupa?
+### W jakim celu powstała grupa?
 
 Grupa powstała po to, aby użykownicy oprogramowania
 [MadCap Flare](http://www.madcapsoftware.com/products/flare/) w Polsce mieli
@@ -29,12 +29,12 @@ zaawansowanym użytkownikiem Flare'a czy dopiero zaczyna swoją przygodę z tym
 narzędziem. Grupa ma na celu stać się dodatkowym źródłem wiedzy i inspiracji
 obok szkoleń i wsparcia technicznego dostarczanych przez firmę MadCap.
 
-## Dla kogo jest ta grupa?
+### Dla kogo jest ta grupa?
 
 Grupa skierowana jest do osób, które pracują na co dzień z Flarem albo słyszały
 o tym narzędziu i chciałyby dowiedzieć się więcej na jego temat.
 
-## Dlaczego warto dołączyć?
+### Dlaczego warto dołączyć?
 
 Spotkania grupy pozwolą Ci:
 
@@ -47,7 +47,7 @@ Uczestnictwo w spotkaniach grupy to także doskonała okazja, aby poznać nowyc
 ludzi z branży tech comm i wspólnie z nimi budować społeczność użytkowników
 Flare’a w Polsce.
 
-## Jaką formę będą miały spotkania?
+### Jaką formę będą miały spotkania?
 
 O tym jak będą wyglądać poszczególne spotkania, będą decydować sami uczestnicy.
 W zależności od poruszanych zagadnień, spotkanie może przyjąć formę prezentacji,
@@ -56,19 +56,19 @@ uczestniczyli w spotkaniach. Elastyczna forma spotkań ma na celu zapewnienie, �
 każdy z uczestników będzie miał szansę w równym stopniu wpływać na to w jakim
 kierunku rozwinie się grupa.
 
-## Na jakich warunkach można dołączyć?
+### Na jakich warunkach można dołączyć?
 
 Jest to otwarta grupa, do której można dołączyć całkowicie za darmo. W celu
 dołączenia, wystarczy skontaktować się z organizatorem
 [mailowo](mailto:plfug@3di.com.pl) lub poprosić o dodanie do
 [grupy na Facebooku](https://web.facebook.com/groups/PLFUG/).
 
-## Gdzie i kiedy odbędzie się pierwsze spotkanie?
+### Gdzie i kiedy odbędzie się pierwsze spotkanie?
 
 Spotkanie inauguracyjne odbędzie się **13 czerwca 2017** (wtorek) o godzinie
 **18:00** w pubie TEA Time przy ul. Dietla 1 w Krakowie.
 
-## Gdzie można uzyskać więcej informacji?
+### Gdzie można uzyskać więcej informacji?
 
 Jeśli chcecie być na bieżąco z tym co dzieje się w Poland MadCap Flare User
 Group, możecie dołączyć do

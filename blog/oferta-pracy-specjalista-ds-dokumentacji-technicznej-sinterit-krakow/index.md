@@ -1,5 +1,6 @@
 ---
-title: "Oferta pracy: Specjalista ds. dokumentacji technicznej (Sinterit) – Kraków"
+title:
+  "Oferta pracy: Specjalista ds. dokumentacji technicznej (Sinterit) – Kraków"
 authors: admin
 date: "2020-12-14"
 tags:
@@ -25,13 +26,13 @@ https://youtu.be/LqBPkKiEYOY
 
 ---
 
-### **SPECJALISTA DS. DOKUMENTACJI TECHNICZNEJ – TECHNICAL WRITER z językiem angielskim**
+#### **SPECJALISTA DS. DOKUMENTACJI TECHNICZNEJ – TECHNICAL WRITER z językiem angielskim**
 
 Jako członek zespołu “Product Management” będziesz aktywnie brał udział w
 tworzeniu produktów poprzez dostarczanie materiałów informacyjnych na temat
 rekomendowanego sposobu ich użytkowania.
 
-### **Do twoich obowiązków należeć będzie:**
+#### **Do twoich obowiązków należeć będzie:**
 
 - Tworzenie instrukcji, “manuali” technicznych i innych materiałów
   informacyjnych dotyczących urządzenia.
@@ -51,7 +52,7 @@ rekomendowanego sposobu ich użytkowania.
 - Współpraca międzydziałowa oraz koordynacja zadań związanych z tworzeniem
   materiałów opisowych dla produktów.
 
-### **Idealnego kandydata charakteryzuje :**
+#### **Idealnego kandydata charakteryzuje :**
 
 - Wykształcenie wyższe
 - Znajomość standardów tworzenia dokumentacji technicznej
@@ -67,7 +68,7 @@ rekomendowanego sposobu ich użytkowania.
 - Mile widziana umiejętność tworzenia modeli 3D
 - Znajomość technologii druku 3D będzie plusem
 
-###  **Oferujemy**:
+####  **Oferujemy**:
 
 - Pracę w zespole pasjonatów
 - Zatrudnienie w oparciu o umowę o pracę

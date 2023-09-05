@@ -26,13 +26,13 @@ doświadczeniem. Jeśli nie mieliście okazji uczestniczyć w poprzednim spotka
 to zachęcamy do przeczytania
 [naszej relacji](http://techwriter.pl/soap-meetcontent-po-raz-drugi-relacja/).
 
-## Data i miejsce
+### Data i miejsce
 
 Spotkanie odbędzie się **21 lutego 2017** o **19:00** w
 [Artefakt Café](https://www.google.pl/maps/place/Artefakt+Cafe/@50.0522161,19.9467543,17z/data=!3m1!4b1!4m5!3m4!1s0x47165b18f5c5bdc1:0x4864fed2dc9a1047!8m2!3d50.0522161!4d19.948943)
 w Krakowie.
 
-## Prezentacja
+### Prezentacja
 
 Prezentację pt. **"Redesign your thinking – can design thinking be of service in
 everyday life?"** poprowadzi Gosia Pytel, która uczestniczyła w takich
@@ -41,7 +41,7 @@ Gosia opowie jak metodologia design thinking zmieniła jej życie nie tylko w
 pracy. To znaczy, że uczestnicy będą mogli poznać praktyczne zastosowania tej
 metodologii w życiu codziennym.
 
-## Rejestracja
+### Rejestracja
 
 Wstęp jest bezpłatny, jednak organizatorzy proszą o rejestrację w celu
 weryfikacji liczby uczestników. Rejestracji możecie dokonać za

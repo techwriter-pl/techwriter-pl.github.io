@@ -18,7 +18,7 @@ dokumentacją API i doświadczeniami w pracy programisty.
 
 <!--truncate-->
 
-### O konferencji
+#### O konferencji
 
 Przez cztery lata istnienia API The Docs stało się wiodącą konferencją
 poświęconą dokumentacji API. Organizatorzy zmienili format konferencji z offline
@@ -53,7 +53,7 @@ Po wszelkie szczegóły dotyczące Api the Docs zaglądajcie na:
 [https://apithedocs.org/](https://apithedocs.org/) oraz Facebookowy fanpage:
 [https://www.facebook.com/APItheDocsConferences](https://www.facebook.com/APItheDocsConferences).
 
-### Najważniejsze informacje
+#### Najważniejsze informacje
 
 Tegoroczna, trzecia edycja, Api The Docs Virtual została podzielona na 5 sesji
 trwających około 1,5h każda. Poniżej przedstawiamy terminy oraz agendę każdej

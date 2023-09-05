@@ -37,7 +37,7 @@ pojawiające się w raporcie:
 Jeśli jednak uznacie, że temat jest już Wam znany a szukacie czegoś innego,
 mocno zachęcamy do zapoznania się z całym raportem!
 
-## #Chat Boty i sztuczna inteligencja
+### #Chat Boty i sztuczna inteligencja
 
 Czy jesteście ciekawi jaki wpływ na komunikację techniczną będą miały nowe
 technologie?
@@ -54,7 +54,7 @@ Poniżej dane zebrane w koliste diagramy 😊
 
 ![](images/ChatbotBenefits.png)
 
-## #Dokumentowanie API
+### #Dokumentowanie API
 
 Co zrobić żeby dokumentacja była wartością dodaną zarówno do oferowanego
 produktu jak i dla zespołu?
@@ -68,7 +68,7 @@ Jakie potrzeby szkoleniowe mają zespoły tworzące dokumentację?
 Co tu dużo pisać liczby nie kłamią, przed menadżerami dokumentacji API stoi nie
 lada wyzwanie.
 
-## #Narzędzia
+### #Narzędzia
 
 Jak zawsze życzeń co do użytych narzędzi jest kilka; uniwersalność, prostota
 użycia, automatyzacja. Co zatem jest najbardziej popularne?... Odsyłamy do

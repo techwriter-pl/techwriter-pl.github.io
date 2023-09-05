@@ -29,7 +29,7 @@ trzymać w jednej i drugiej metodzie.
 
 <!--truncate-->
 
-## Metoda 1 - brak testu pisemnego
+### Metoda 1 - brak testu pisemnego
 
 Jeśli zdecydujecie się nie przeprowadzać testów pisemnych, możecie spróbować
 ocenić umiejętności kandydata używając poniższej listy: 1. Poproście o próbki
@@ -55,7 +55,7 @@ kogoś kto nie tylko umie pisać, ale potrafi też tworzyć filmiki
 instruktażowe. 10. Sprawdźcie czy kandydat wykorzystał style formatując swoje
 CV.
 
-## Metoda 2 - test pisemny
+### Metoda 2 - test pisemny
 
 Jeśli zdecydujecie przeprowadzić się test pismeny, poproście kandydata o
 opisanie jakiegoś typowego modułu rozwijanego w Waszej firmie. Jeśli stworzony

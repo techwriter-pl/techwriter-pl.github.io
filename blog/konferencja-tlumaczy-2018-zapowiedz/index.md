@@ -18,7 +18,7 @@ tłumaczeniową. Poniżej najważniejsze informacje.
 
 <!--truncate-->
 
-### O jakie wydarzenie chodzi?
+#### O jakie wydarzenie chodzi?
 
 Konferencja Tłumaczy, to według organizatorów, największe wydarzenie w branży
 tłumaczeniowej w Polsce. Każdego roku bierze w niej udział około 200
@@ -34,7 +34,7 @@ Ciekawostka: W 2016 roku Konferencja Tłumaczy była jednym z wydarzeń w ramac
 anglojęzycznej konferencji Translation and Localization*.* Jednak już w 2017
 imprezy te zostały rozdzielone i funkcjonują jako osobne wydarzenia.
 
-### Rola tłumacza w globalnym świecie
+#### Rola tłumacza w globalnym świecie
 
 W dzisiejszym, globalnym świecie, rola tłumaczeń sięga właściwe do każdej
 dziedziny życia. Międzynarodowe firmy oferują swe produkty, usługi i wszelakie
@@ -54,12 +54,12 @@ wykorzystanie ich w jak najlepszy sposób dla własnej korzyści.
 
 ![](images/page_1.jpg)
 
-### Termin i miejsce
+#### Termin i miejsce
 
 Konferencja Tłumaczy odbędzie się 29 września (sobota)
 w [Centrum Konferencyjnym Zielna](http://www.centrumzielna.pl/) w Warszawie.
 
-### Program
+#### Program
 
 Podczas konferencji będziecie mogli wziąć udział w dziesięciu wystąpieniach.
 Poniżej kilka tematów, które wzbudziły nasze zainteresowanie:
@@ -84,7 +84,7 @@ przyszłość.
 
 ![](images/page.jpg)
 
-### Warsztaty
+#### Warsztaty
 
 Organizatorzy zapraszają również na cykl warsztatów, które odbędą się w dniach
 27 i 28 września. Do wyboru są następujące tematy:
@@ -100,7 +100,7 @@ Organizatorzy zapraszają również na cykl warsztatów, które odbędą się w 
 
 Wszystkie warsztaty odbywają się w Centrum Konferencyjnym Zielna.
 
-### Bilety
+#### Bilety
 
 | BILET                                   | CENA (w zł) |
 | --------------------------------------- | ----------- |

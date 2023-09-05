@@ -26,7 +26,7 @@ tworzeniu dokumentacji. W drugiej części autorka skupia się na zagrożeniach
 związanych ze stosowaniem zmiennych i fragmentów tekstu do wielokrotnego użycia
 (snippetów).
 
-# Kilka słów o autorce
+## Kilka słów o autorce
 
 Marta Bartnicka jest kierowniczką działu tłumaczeń dla Europy Środkowej w IBM. Z
 działem tym związana jest od 20 lat, zajmując się między innymi tłumaczeniem,
@@ -45,7 +45,7 @@ Hobby w kolejności alfabetycznej: biegówki, dzieci, ogrodnictwo, Tatry.
 Jeśli chcecie skontaktować się z Martą, możecie wysłać jej maila
 na [martab@kofeina.net](mailto:martab@kofeina.net).
 
-# Za co tłumacze lubią autorów - składaki
+## Za co tłumacze lubią autorów - składaki
 
 Krótki cykl opowieści o tym, za co tłumacze lubią autorów dokumentacji, pomocy i
 interfejsów.
@@ -60,7 +60,7 @@ koniecznością.
 Przyjrzyjmy się zatem kilku zagadnieniom, dzięki którym tłumacze nie będą
 wbijali niczego w laleczki voodoo wyobrażające tech writera.
 
-## Jak zaoszczędzić parę bajtów i zepsuć tekst
+### Jak zaoszczędzić parę bajtów i zepsuć tekst
 
 W
 [poprzednim artykule](http://techwriter.pl/za-co-tlumacze-lubia-autorow-spojnosc/)
@@ -125,7 +125,7 @@ Natomiast stanowczo odradzam takie rozwiązania jak:
 - Dodawanie do symboli przedrostków lub przyrostków (w języku angielski: s, ing,
   ed).
 
-## Zmienne bywają konieczne
+### Zmienne bywają konieczne
 
 No dobrze, a co ze zmiennymi, które muszą być wstawione, na przykład do
 komunikatu lub raportu? Mogą to być wszelkie liczby, daty, kwoty, nazwy plików,
@@ -150,7 +150,7 @@ Tłumaczenie na polski – i na wiele innych języków – robi się bezproblemo
 
 _Liczba osób, które wykonały tę czynność: $number._
 
-## Czy wiesz, ile znasz języków fleksyjnych?
+### Czy wiesz, ile znasz języków fleksyjnych?
 
 Mamy to szczęście, że językiem fleksyjnym (takim, gdzie wyrazy się odmienia)
 mówimy od dzieciństwa, co więcej, nasz język ma też rodzaje i w ogóle należy do

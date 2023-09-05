@@ -28,7 +28,7 @@ używają na co dzień Flare'a, ale chciały dowiedzieć się czegoś więcej o 
 narzędziu. A było czego posłuchać. Uczestnicy ochoczo wyciągnęli laptopy i
 notatki i jeden po drugim przedstawiali nam swoje historie.
 
-## Jedno narzędzie, wiele zastosowań
+### Jedno narzędzie, wiele zastosowań
 
 Pierwszy z uczestników, Michał, opowiedział nam o używaniu projektu głównego
 (Global Project) i projektów podrzędnych (child projects). Jest to jedna z
@@ -43,7 +43,7 @@ trzeba było przezwyciężyć. Na koniec dowiedzieliśmy się też, co to jest
 [Jenkins](https://jenkins.io/) i co może mieć wspólnego z budowaniem
 dokumentacji.
 
-## Niełatwo zerwać z Wordem
+### Niełatwo zerwać z Wordem
 
 Kolejny uczestnik, Marcin, przygotował dla nas ciężki kaliber - migrację
 dokumentów z Worda do Flare'a. Pomimo tego, że Flare domyślnie umożliwia
@@ -58,7 +58,7 @@ ciekawy przykład pokazujący, że słowo "technical" w "Technical Writer" nie j
 tylko pustym ozdobnikiem oraz że czasem warto korzystać z know-how i zasobów
 swoich kolegów i koleżanek z innych działów, zamiast wymyślać koło na nowo.
 
-## Duży nie zawsze może więcej
+### Duży nie zawsze może więcej
 
 Na koniec, Piotr opowiedział nam o pracy w projekcie Flare'a, który ma ponad
 8000 topików. Opanowanie takiego giganta nie jest łatwym zadaniem i niekiedy
@@ -69,7 +69,7 @@ zadumą lub potakiwaniem głową. Oprócz opisu samych problemów dostaliśmy te
 kilka wskazówek jak sobie z nimi radzić. Solidna dawka praktycznej wiedzy
 podanej w rozrywkowej formie.
 
-## Podsumowanie
+### Podsumowanie
 
 Pomimo tego, że spotkanie przyjęło format mini prezentacji, nie brakowało
 interakcji między uczestnikami. Były pytania, dyskusje i wymiana pomysłów -

@@ -23,7 +23,7 @@ wirtualnej rzeczywistości i tłumaczeniu maszynowym kończąc.
 
 <!--truncate-->
 
-# Witajcie w tech-commowej dżungli!
+## Witajcie w tech-commowej dżungli!
 
 Organizowanie tech-commowej konferencji w zoo może wydawać się pomysłem nie z
 tej ziemi, okazało się jednak, że
@@ -45,7 +45,7 @@ złapanie oddechu lub zrobienie zdjęcia szympansom, a decyzja o podzieleniu
 konferencji na dwie części (dwudniowy MadWriters i jednodniowy Localization
 Focus) okazała się trafiona, pomimo drobnych zmian w harmonogramie.
 
-# Gmeranie we Flarze
+## Gmeranie we Flarze
 
 Część „MadWriters” skierowana była przede wszystkim do użytkowników Flare’a.
 Jednak nawet uczestnicy niezaznajomieni z tym narzędziem nie mogli narzekać na
@@ -86,7 +86,7 @@ użytkowników Flare’a w Danii (pozdrowienia od
 i zapoznać się z najnowszymi plotkami dotyczącymi kalifornijskiej firmy
 (nadciągają zmiany!).
 
-# Dokumenty kontra ludzie
+## Dokumenty kontra ludzie
 
 Jednak nie samym Flare'em człowiek żyje, dlatego nawet pierwsze dwa dni
 konferencji nie ograniczały się jedynie do tego narzędzia.
@@ -115,7 +115,7 @@ edytorze WordPerfect, chat botach, dokumentacji tworzonej _na czas_ (zamiast _na
 wszelki wypadek_) i używaniu portali takich jak Quora czy Stack Exchange do
 zapewniania użytkownikom wsparcia technicznego.
 
-# VR, MT, ATR i inne typy magii
+## VR, MT, ATR i inne typy magii
 
 Trzecia część konferencji (Localization Focus) była najbardziej zróżnicowanym
 dniem całego wydarzenia.
@@ -159,7 +159,7 @@ Istnieje jednak mnóstwo aspektów technicznych, które również odgrywają wa�
 role, dlatego warto dobrze przemyśleć strategię lokalizacji i detale takie jak
 tłumaczenie adresów URL.
 
-# Duńczycy nie próżnują!
+## Duńczycy nie próżnują!
 
 [![](images/W2Uconf_65A1122_preview-683x1024.jpeg)](http://techwriter.pl/wp-content/uploads/2017/11/W2Uconf_65A1122_preview.jpeg)
 

@@ -19,7 +19,7 @@ wrocławskiego meetupu.
 Ekipa MeetContentWRO ma za sobą kolejny udany meetup. Ale zanim opowiemy o
 styczniowym wydarzeniu, kilka słów na temat tego co przed nami!
 
-## Luty 2023 - DeLaval
+### Luty 2023 - DeLaval
 
 Tym razem, firma DeLaval będzie gościć lutowy MeetContentWRO. Ostatnio mieliście
 bardzo dużo pytań do prowadzących, więc organizatorzy nauczeni doświadczeniem,
@@ -51,7 +51,7 @@ koleżankami z branży.
 
 Tak więc zapraszamy was serdecznie na: **_Markdown: The lesser evil_**.
 
-### **GDZIE I KIEDY**
+#### **GDZIE I KIEDY**
 
 28 February 2023 godzina 18:00
 
@@ -61,7 +61,7 @@ Biuro DeLaval ul. Robotnicza 72
 
 A teraz słów kilka o tym, co działo się na ostatnim, styczniowym meetupie.
 
-## Styczeń 2023 - Ocado
+### Styczeń 2023 - Ocado
 
 W styczniu spotkaliśmy się w siedzibie firmy Ocado we Wrocławiu. Organizatorzy
 zaplanowali dwie prezentacje. Obie dotyczyły dokumentacji jako produktu, choć

@@ -17,7 +17,7 @@ komunikacji technicznej. Szczegóły poniżej.
 
 <!--truncate-->
 
-### O co pytaliśmy?
+#### O co pytaliśmy?
 
 W tym roku zadaliśmy Wam 12 pytań, wśród których znalazły się dwa nowe
 zagadnienia. Jedno z nich odnosi się do płci, a drugie do formalnej nazwy
@@ -27,7 +27,7 @@ jak różnią się pensje w różnych województwach, czy jak na wynagrodzenie w
 doświadczenie. Jeśli ciekawi Was co zmieniło się od 2020 roku, zapraszamy do
 poniższego podsumowania.
 
-### Porównanie z poprzednimi latami
+#### Porównanie z poprzednimi latami
 
 Wyniki poprzednich badań znajdziecie tu:
 
@@ -54,7 +54,7 @@ Pierwsze wnioski jakie możemy wyciągnąć z powyższych danych to:
   liczba odpowiedzi w kolejnych latach była wyższa.
 - zarobki nadal mają tendencję wzrostową, co nas bardzo cieszy.
 
-## Profesje
+### Profesje
 
 Podobnie jak w latach poprzednich, większość osób biorących udział w ankiecie
 identyfikuje się jako Technical Writer (79,8%). W porównaniu do poprzedniego
@@ -94,7 +94,7 @@ pracy? Wniosek z tego taki, że branża komunikacji technicznej pokrywa szeroki
 obszar umiejętności oraz, że tłumaczenie stanowisk na język rodzimy nie zawsze
 ma sens.
 
-## **Wynagrodzenie**
+### **Wynagrodzenie**
 
 Zarobki w poszczególnych grupach kształtują się następująco (posortowane wg
 średniego wynagrodzenia brutto):
@@ -122,7 +122,7 @@ wynagrodzeniem pełni także inne funkcje w firmie, czego nie określiła w
 ankiecie. Po średniej i medianie widać, że skrajne wartości płac występują
 rzadko.
 
-## **Przygotowanie do zawodu, doświadczenie i rozwój**
+### **Przygotowanie do zawodu, doświadczenie i rozwój**
 
 Tak jak w poprzednich latach, większość ankietowanych nauczyło się zawodu w
 pracy - to blisko 85% uczestników badania. Na drugim miejscu - 10,6% - to osoby,
@@ -167,7 +167,7 @@ Naszym zdaniem warto się uczyć 😉
 | Kurs ITCQF bez certyfikatu | 8 150 zł  | 7 550 zł |
 | Kurs ITCQF z certyfikatem  | 11 198 zł | 9 700 zł |
 
-## **Staż pracy w branży**
+### **Staż pracy w branży**
 
 Jeżeli chodzi o staż pracy, to nadal jesteśmy młodym zawodem, choć jak pokazuje
 wykres poniżej, większość respondentów ma od 3 do 5 lat doświadczenia (37,5%).
@@ -186,7 +186,7 @@ upływem lat pracy.
 | 6 – 10 lat (67 – 126 miesięcy) | 11 344 zł | 11 000 zł |
 | więcej niż 10 lat              | 15 433 zł | 16 000 zł |
 
-## **Firma, branża**
+### **Firma, branża**
 
 84,6% z pośród uczestników ankiety pracuje w firmie zagranicznej, a 15,4% w
 firmie polskiej.
@@ -223,7 +223,7 @@ Ogromna większość z nas pisze dokumentację do oprogramowania.
 | Do urządzeń elektronicznych / AGD | 11,5%      | 12                |
 | Do maszyn i pojazdów              | 8,7%       | 9                 |
 
-## **Geografia**
+### **Geografia**
 
 Podobnie jak w zeszłym roku najwięcej uczestników ankiety pochodzi z województw:
 małopolskiego, dolnośląskiego i śląskiego.
@@ -247,7 +247,7 @@ Osoba deklarująca najwyższe zarobki (21 500 zł) pochodzi z województwa
 pomorskiego, w którym zanotowano także najwyższe średnie zarobki (14 250 zł)
 oraz medianę (14 000 zł).
 
-## **Zadowolenie**
+### **Zadowolenie**
 
 Pytaliśmy też o to, jak bardzo jesteś zadowolony/a ze swojej pracy w skali od 1
 (bardzo nie lubię swojej pracy) do 5 (kocham swoją pracę). Jaki był wynik?
@@ -258,7 +258,7 @@ Odpowiedzi ankietowanych pokazują, że ich poziom zadowolenia z pracy jest nada
 na wysokim poziomie. Najczęściej wybieraną oceną była czwórka. Ponownie tylko
 jedna osoba jest bardzo niezadowolona, a dwie dały ocenę 2.
 
-## Tożsamość płciowa
+### Tożsamość płciowa
 
 W tym roku poszerzyliśmy pulę pytań i poprosiliśmy Was o określenie tożsamości
 płciowej. Jak pokazuje poniższy wykres w branży komunikacji technicznej panuje
@@ -292,7 +292,7 @@ na starcie i rośnie wraz z długością stażu na niekorzyść kobiet.
 | więcej niż 10 lat | Kobieta   | 13 846 zł | 12 500 zł |
 |                   | Mężczyzna | 17 020 zł | 18 500 zł |
 
-## **Podsumowanie**
+### **Podsumowanie**
 
 Z uwagi na wciąż niewielką liczbę respondentów (104 w tym roku) ankieta ma
 charakter poglądowy, a nie statystyczny. Cieszymy się, że Wasz odzew jest nadal

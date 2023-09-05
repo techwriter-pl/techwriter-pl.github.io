@@ -26,12 +26,12 @@ technicznej, o którym nie wspomniałam, dajcie znać, a ja przekażę info dale
 
 ---
 
-### Styczeń
+#### Styczeń
 
 25 stycznia –
 [API the Docs Virtual 2023](https://apithedocs.org/virtual-2023) – **online**
 
-### Luty
+#### Luty
 
 01-04 lutego, Shenzhen, Chiny – [IC4E 2023](http://www.ic4e.net/)
 
@@ -59,7 +59,7 @@ in-person**
 27 lutego-01 marca, Denver, Kolorado, USA
 – [Experience Design 2023](https://www.designinnovationglobal.com/events-experience-design)
 
-### Marzec
+#### Marzec
 
 09-10 marca, Raleigh, Karolina Północna, USA –
 [The 12th Symposium on Communicating Complex Information (SCCI)](https://scciannual.wordpress.com/)
@@ -83,7 +83,7 @@ in-person**
 28 marca-01 kwietnia, Nowy Orlean, Luizjana, USA –
 [Information Architecture Conference 2023](https://www.theiaconference.com/)
 
-### Kwiecień
+#### Kwiecień
 
 12-14 kwietnia, Orlando, Floryda, USA –
 [Learning Solutions Conference and Expo 2023](https://learningsolutionscon.com/)
@@ -113,7 +113,7 @@ in-person**
 30 kwietnia-03 maja, Minneapolis, Minnesota, USA –
 [Confab 2023](https://www.confabevents.com/)
 
-### Maj
+#### Maj
 
 02-04 maja – [ConveyUX 2023](https://conveyux.com/) – **online**
 
@@ -159,7 +159,7 @@ in-person**
 **31 maja-2 czerwca, Kraków, Polska** – [soap! 2023](https://soapconf.com/) -
 **ZMIANA DATY** na **01-03 czerwca 2023**
 
-### Czerwiec
+#### Czerwiec
 
 01-03 czerwca, Londyn, Wielka Brytania - [Markup UK 2023](https://markupuk.org/)
 

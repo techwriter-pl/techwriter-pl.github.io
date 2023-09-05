@@ -23,12 +23,12 @@ Oprócz konferencji w USA, wreszcie doczekaliśmy się europejskiej edycji. Dzi�
 temu więcej osób będzie mogło zdobyć cenną wiedzę związaną z Flarem. Poniżej
 przedstawiamy zestawienie najważniejszych informacji na temat obu wydarzeń.
 
-# Termin
+## Termin
 
 MadWorld San Diego odbędzie się w dniach 3-6 czerwca 2018, a MadWorld Prague w
 dniach 11-14 września 2018.
 
-# Miejsce
+## Miejsce
 
 [![](images/MW2018-HotelImage-1024x512-1024x512.jpg)](http://techwriter.pl/wp-content/uploads/2018/04/MW2018-HotelImage-1024x512.jpg)
 
@@ -48,7 +48,7 @@ austriackiego architekta Wolfa w neoklasycystycznym stylu. Dziewiętnastowieczny
 budynek był na początku siedzibą banku, a w trakcie reżimu komunistycznego
 mieściła się tam główna siedziba poczty.
 
-# Agenda
+## Agenda
 
 MadWorld jest jedyną nam znaną konferencją tech comm, która ogłasza pełny
 program na wiele miesięcy przed samym wydarzeniem. Dzięki temu nie "kupujemy
@@ -111,7 +111,7 @@ Polecamy też zaglądać na [MadBlog](https://www.madcapsoftware.com/blog/) gdzi
 pojawiają się wpisy przybliżające sylwetki prezenterów z MadWorld i ich
 prezentacje.
 
-# Ceny
+## Ceny
 
 Poniżej przedstawiamy zestawienie cen biletów.
 
@@ -146,7 +146,7 @@ poniższych stronach:
 - [Ceny MadWorld San Diego](https://www.madcapsoftware.com/conference/madworld-2018/pricing.aspx)
 - [Ceny MadWorld Prague](https://www.madcapsoftware.com/conference/madworld-europe-2018/pricing.aspx).
 
-# Dlaczego warto?
+## Dlaczego warto?
 
 Według nas istnieje kilka powodów, dla których każdy użytkownik narzędzia MadCap
 Flare powinien rozważyć poważnie udział w konferencji MadWorld. Po pierwsze,

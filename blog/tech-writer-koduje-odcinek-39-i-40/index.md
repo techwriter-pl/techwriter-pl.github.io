@@ -21,7 +21,7 @@ ciekawymi tematami. Co Was czeka? Zapraszamy na nasze podsumowanie.
 
 <!--truncate-->
 
-### Odcinek #39
+#### Odcinek #39
 
 W tym odcinku Michał i Paweł wracają do tematu DITA. Tym razem koncentrują się
 na modelu “docs as code” i wdrożeniu go do organizacji.
@@ -48,7 +48,7 @@ Z dalszej części materiału dowiecie się jeszcze:
 - Jakie można napotkać trudności?
 - Jakie podjąć kroki po wprowadzeniu do organizacji DITA as code?
 
-### Odcinek #40
+#### Odcinek #40
 
 Automatyzacja przynajmniej części procesów to ponoć jedno z marzeń technical
 writera. Jeśli jest ono także na Waszej liście pragnień to

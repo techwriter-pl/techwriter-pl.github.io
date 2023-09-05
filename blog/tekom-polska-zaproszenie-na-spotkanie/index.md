@@ -15,7 +15,7 @@ poświęcone informacjom dotyczącym bezpieczeństwa w DTR.
 
 <!--truncate-->
 
-### Kilka słów o organizatorze
+#### Kilka słów o organizatorze
 
 tekom Polska to utworzona formalnie w marcu 2014 roku organizacja wchodząca w
 skład [tekom Europe](https://www.technical-communication.org/), największego
@@ -26,7 +26,7 @@ technicznej lub zajmujące się rozwojem informacji i zarządzaniem nimi.
 W zeszłym roku informowaliśmy o powstaniu tej organizacji w jednym z naszych
 [wpisów](http://techwriter.pl/tekom-polska-witamy/).
 
-### Cel spotkania
+#### Cel spotkania
 
 Organizatorzy mają nadzieję, że to pierwsze spotkanie zapoczątkuje cykl
 regularnych spotkań, które stworzą platformę do rozmowy o dokumentacji
@@ -34,7 +34,7 @@ produktowej dla wszystkich osób zainteresowanych tematem. Jak zapewniają,
 możliwości organizacyjne są spore, dlatego ważne są pomysły i sugestie samych
 uczestników.
 
-### Temat spotkania
+#### Temat spotkania
 
 Dla niewtajemniczonych, zagadkowy skrót **DTR** oznacza
 [dokumentację techniczno-ruchową](https://pl.wikipedia.org/wiki/Dokumentacja_techniczno-ruchowa),
@@ -50,7 +50,7 @@ Poniżej przedstawiamy opis tematu spotkania dostarczony przez organizatorów:
 > produktów. Wprowadza w standardy i dobre praktyki prezentowania komunikatów
 > ostrzegawczych i uwag dotyczących bezpieczeństwa.
 
-### Prowadzący
+#### Prowadzący
 
 Spotkanie poprowadzi **Karsten Voss**, który jest autorem technicznym w firmie
 ZINDEL AG, świadczącej usługi w zakresie komunikacji technicznej. Specjalizuje
@@ -60,7 +60,7 @@ Polsce. Jest członkiem zgromadzenia delegatów tekom Europe.
 Podczas spotkania będzie możliwość zadania własnych pytań i porozmawiania z
 ekspertem.
 
-## Ważne informacje dotyczące spotkania
+### Ważne informacje dotyczące spotkania
 
 - Data: **26.11.2015**
 - Godzina: **18.00**

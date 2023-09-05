@@ -16,7 +16,7 @@ któreś wydarzenie zachęci Was na tyle, by zrobić rezerwację.
 
 <!--truncate-->
 
-## Styczeń
+### Styczeń
 
 5-7 stycznia, Kuala Lumpur, Malezja – [IC4E 2017](http://www.ic4e.net/)
 
@@ -32,7 +32,7 @@ któreś wydarzenie zachęci Was na tyle, by zrobić rezerwację.
 30-31 stycznia, Londyn, Wielka Brytania –
 [Agile Content Conf](https://2017.agilecontentconf.com/)
 
-## Luty
+### Luty
 
 1-2 luty, Londyn, Wielka Brytania –
 [Learning Technologies](http://www.learningtechnologies.co.uk/content/conference-lt)
@@ -71,7 +71,7 @@ któreś wydarzenie zachęci Was na tyle, by zrobić rezerwację.
 
 28 luty – 2 marca, Seattle, Waszyngton, USA – [conveyUX](http://conveyux.com/)
 
-## Marzec
+### Marzec
 
 13-17 marca, Miami, Floryda, USA –
 [Miami UX Conference](https://www.nngroup.com/training/miami/)
@@ -112,7 +112,7 @@ któreś wydarzenie zachęci Was na tyle, by zrobić rezerwację.
 
 30-31 marca, Portland, Oregon, USA – [Writers UA](http://west.writersua.com/)
 
-## Kwiecień
+### Kwiecień
 
 1 kwietnia, Willow Grove, Pensylwania, USA –
 [CONDUIT 2017](http://www.stcpmc.org/2016/10/call-for-presenters-conduit-2017-mid-atlantic-techcomm-conference/) (The
@@ -144,7 +144,7 @@ miło poinformować Was, że techwriter.pl został patronem medialnym konferencj
 
 27-28 kwietnia, Bukareszt, Rumunia – [eLSE](http://elseconference.eu/)
 
-## Maj
+### Maj
 
 7-10 maja, Waszyngton, Dystrykt Kolumbii, USA –
 [Technical Communication Summit 2017](http://summit.stc.org/)
@@ -163,7 +163,7 @@ miło poinformować Was, że techwriter.pl został patronem medialnym konferencj
 
 22-24 maja, Dublin, Irlandia – [LavaCon 2017](https://lavacon.org/2017/)
 
-## Czerwiec
+### Czerwiec
 
 1-2 czerwca, Sofia, Bułgaria –
 [The Evolution of Technical Communication 2017](http://evolution-of-tc.com/)

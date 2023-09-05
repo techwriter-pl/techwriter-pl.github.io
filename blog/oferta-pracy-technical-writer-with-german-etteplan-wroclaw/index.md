@@ -25,7 +25,7 @@ gdzie znajdziecie również magiczny przycisk "Apply".
 
 ---
 
-## Technical Writer with German
+### Technical Writer with German
 
 We are looking for a person who enjoys writing, consulting and managing
 documentation projects for our customers. As a Technical Writer, you maintain
@@ -36,12 +36,12 @@ completion. In short, as an independent and result-driven team worker you have a
 central position in creating technical documentation. You may be working at our
 customers’ site on a secondment basis for shorter or longer periods.
 
-### Education:
+#### Education:
 
 B.Sc. or M.Sc. in engineering field or philology with very good results in
 education.
 
-### Expectations and qualifications:
+#### Expectations and qualifications:
 
 - Experience in **writing documentation for software, machinery, aerospace,
   defense or other industries.**
@@ -55,7 +55,7 @@ education.
 - Experience with working in a content management system is an advantage.
 - A linguistic background and/or affinity for technology are great assets.
 
-### You are someone who…
+#### You are someone who…
 
 - speaks English fluently
 - enjoys challenges
@@ -64,14 +64,14 @@ education.
 - cares about customer and quality
 - is a motivated self-starter always looking to make something better
 
-### We offer:
+#### We offer:
 
 - ’Let’s do it’ attitude
 - Dedicated technical and soft skills training, 'Friday’s Coffee' lectures
 - Work in a variety of projects using different technologies
 - Flexible working hours
 
-### And more:
+#### And more:
 
 - A competitive salary adequate to your skills and performanceAnnual salary
   review
@@ -96,7 +96,7 @@ education.
 - Foreign languages lessons (English, German)
 - Company car policy
 
-### Why work with us?
+#### Why work with us?
 
 Etteplan is a place for people driven by innovation and technology. We like to
 share our passion for trying new things, exchanging ideas and learning new

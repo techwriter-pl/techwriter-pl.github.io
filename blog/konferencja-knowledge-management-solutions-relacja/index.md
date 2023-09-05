@@ -31,7 +31,7 @@ Kluczowe rzeczy, które udało nam się wyłapać z poszczególnych prezentacji
 przedstawiamy poniżej. Niecierpliwych od razu uprzedzamy, że najlepsze było na
 końcu.
 
-## Knowledge Management - jak zdiagnozować czego właściwie potrzebuje nasza firma?
+### Knowledge Management - jak zdiagnozować czego właściwie potrzebuje nasza firma?
 
 Weź pod uwagę:
 
@@ -54,7 +54,7 @@ Pomyśl o tym jaką wiedzę potrzebujesz mieć i STOSOWAĆ w:
 Po czym zadzwoń do MDDP Business Consulting, a światowej klasy specjaliści zajmą
 się całą resztą 😊
 
-## Nowe technologie w zarządzaniu wiedzą.
+### Nowe technologie w zarządzaniu wiedzą.
 
 Bardzo ciekawe wyniki globalnych badań, nam najbardziej zapadły w pamięć dwa
 fakty:
@@ -65,7 +65,7 @@ fakty:
 
 Brzmi znajomo? Firma FINDWISE ma na to rozwiązanie 😊
 
-## Oprogramowanie Knowledge Management jako narzędzie budowania potencjału strategicznego firmy.
+### Oprogramowanie Knowledge Management jako narzędzie budowania potencjału strategicznego firmy.
 
 Po tym wystąpieniu został nam link do strony
 [Knowledge Management World](http://www.kmworld.com/), oraz przemyślenia na
@@ -81,7 +81,7 @@ temat poziomów zaawansowania zarządzania wiedzą w firmach:
 Na jakim poziomie funkcjonuje Wasza firma? Jeżeli chcecie wejść na poziom
 pierwszy - firma BSSG ma dla Was gotowy produkt 😊
 
-## Narzędzia w działaniu. Wykorzystanie rozwiązań KM na przykładzie realizacji globalnego projektu badawczego w TNS.
+### Narzędzia w działaniu. Wykorzystanie rozwiązań KM na przykładzie realizacji globalnego projektu badawczego w TNS.
 
 Ciekawy przykład z życia i ciekawy projekt, w którym zarządzanie wiedzą okazało
 się kluczowe. Wykorzystano takie narzędzia jak:
@@ -99,7 +99,7 @@ kluczem jest uczynienie każdego menedżera odpowiedzialnym za zarządzanie wied
 w jego projekcie i organizacji. Jak to zrobić? Pokazać mu, jaki to może mieć
 wpływ na jego karierę!
 
-## Prawa autorskie i tejemnica przedsiębiorstwa - legalne korzystanie z dokumentów w ramach systemów Knowledge Management.
+### Prawa autorskie i tejemnica przedsiębiorstwa - legalne korzystanie z dokumentów w ramach systemów Knowledge Management.
 
 Prawnik z kancelarii DZP skupił się na dwóch tematach:
 
@@ -111,7 +111,7 @@ Do tej pory zastanawiamy się, co chciał nam przekazać i dochodzimy do wniosku
 że codziennie łamiemy jakieś prawo, a jeśli nawet nie, to na pewno ktoś i tak
 może nas pozwać. Ale z drugiej strony zawsze ktoś inny może nas wybronić.
 
-## Zarządzanie wiedzą w strategiach firm.
+### Zarządzanie wiedzą w strategiach firm.
 
 Tak, istnieją firmy, które robią coś takiego! Można też o tym ciekawie
 opowiadać! Pani profesor Irena Hejduk ze Szkoły Głównej Handlowej szczyci się
@@ -130,7 +130,7 @@ przekazywania wiedzy, koniecznie upewnij się, że w zespole projektowym są nie
 tylko posiadacze wiedzy, ale również odbiorcy. To oni wiedzą najlepiej jakie są
 ich potrzeby!
 
-## Przeładowanie informacyjne (information overload) - wyzwanie dla biznesu.
+### Przeładowanie informacyjne (information overload) - wyzwanie dla biznesu.
 
 Ostatnia prezentacja - profesora Jana Fazlagica z Akademii Finansów i Biznesu
 Vistula - miała najładniejszą szatę graficzną a prowadzący najbardziej się
@@ -157,7 +157,7 @@ wyszukiwanie, ćwiczyć siłę woli, czytać streszczenia. Dokładna diagnoza pr
 i recepty - w dwóch książkach pana profesora, których nie omieszkał polecić
 słuchaczom 😊
 
-## Podsumowanie
+### Podsumowanie
 
 Nasza relacja jest chyba dłuższa niż konferencja 😊, która wydaje się być
 głównie wydarzeniem marketingowo-sprzedażowym. Trudno ją polecać, ale i trudno

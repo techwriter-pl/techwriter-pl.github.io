@@ -20,7 +20,7 @@ potrzebna do zbudowania strony zawiera się w jednym pliku
 
 <!--truncate-->
 
-## Instalacja
+### Instalacja
 
 Zanim zainstalujemy właściwą aplikację, musimy dozbroić nasz system operacyjny w
 następujące komponenty:
@@ -40,7 +40,7 @@ Dzięki temu, że narzędzie opiera się na Pythonie, instalacja na różnych
 platformach nie powinna być problemem. Sami zainstalowaliśmy MkDocs bez problemu
 na Windows 7 i Linux Mint 17 Xfce.
 
-## Pierwszy projekt
+### Pierwszy projekt
 
 Po instalacji musimy stworzyć nasz pierwszy projekt. W tym celu w linii komend
 przechodzimy do lokalizacji, w której chcemy go utworzyć. Następnie wywołujemy
@@ -51,7 +51,7 @@ komendę:
 Zostanie utworzony katalog o nazwie jaką podaliśmy, który będzie zawierał
 elementy opisane w następnej sekcji.
 
-## Struktura projektu
+### Struktura projektu
 
 Każdy projekt to katalog, który zawiera następujące elementy:
 
@@ -62,7 +62,7 @@ Każdy projekt to katalog, który zawiera następujące elementy:
 
 Prosto, przejrzyście i bez zbędnych komplikacji.
 
-## Wbudowany serwer stron WWW
+### Wbudowany serwer stron WWW
 
 MkDocs posiada wbudowany serwer stron WWW, dzięki któremu mamy podgląd tego jak
 będzie wyglądać nasza dokumentacja w formacie docelowym. Żeby zacząć serwować
@@ -77,7 +77,7 @@ każdej modyfikacji w pliku konfiguracyjnym, w katalogu z plikami źródłowymi 
 w katalogu z motywami, strona przebudowuje się automatycznie. Wystarczy
 przeładować stronę w przeglądarce, żeby zobaczyć wprowadzone zmiany.
 
-## Motywy
+### Motywy
 
 Do dyspozycji mamy kilka schludnych
 [motywów](http://www.mkdocs.org/user-guide/styling-your-docs/#built-in-themes).
@@ -97,7 +97,7 @@ własnymi. Szczegóły można znaleźć w
 [dokumentacji](http://www.mkdocs.org/user-guide/configuration/#build-directories)
 narzędzia.
 
-## Budowanie dokumentacji
+### Budowanie dokumentacji
 
 Kiedy nasza treść jest już gotowa, a parametry zostały odpowiednio ustawione w
 pliku konfiguracyjnym, możemy przystąpić do generowania naszej dokumentacji.
@@ -110,7 +110,7 @@ dokumentacja. Są to wyłącznie statyczne strony, dzięku czemu możemy hostowa
 naszą dokumentację na jakimkolwiek serwerze HTTP. Wystarczy umieścić na nim cały
 katalog _site_.
 
-## Werdykt
+### Werdykt
 
 Niewątpliwie mocną stroną tego narzędzia jest jego prostota, zarówno w kwestii
 instalacji jak i obsługi. Dosłownie w kilka minut jesteśmy w stanie zainstalować

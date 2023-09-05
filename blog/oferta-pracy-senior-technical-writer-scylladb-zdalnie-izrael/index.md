@@ -26,13 +26,13 @@ scylladb.technicalwriter\[at\]applynow.io.
 
 ---
 
-### About The Position
+#### About The Position
 
 ScyllaDB, the real-time big data database company is on the quest to create the
 #1 open-source NoSQL database. We are looking for a Senior Technical Writer to
 join our Product Team.
 
-### Job description
+#### Job description
 
 We are looking for a Senior Technical Writer to produce high-quality
 documentation that contributes to ScyllaDB’s overall success. You will work
@@ -42,7 +42,7 @@ make our products easier to use.
 You will be required to have an in-depth understanding of the product from a
 user’s perspective, including hands-on experience.
 
-### Daily and Monthly Responsibilities
+#### Daily and Monthly Responsibilities
 
 - Full ownership of Scylla documentation sites, such as
   [docs.scylladb.com](https://docs.scylladb.com/),
@@ -59,7 +59,7 @@ user’s perspective, including hands-on experience.
 - Generate technical content for blogs, white papers, and online learning as
   needed
 
-### Desired Skills and Experience:
+#### Desired Skills and Experience:
 
 - Superior written and verbal communication skills, with a keen eye for details.
 - Proven experience as a technical writer for complex technical products

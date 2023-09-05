@@ -33,7 +33,7 @@ Skowron i Paweł Kowaluk. W trakcie rozmowy zostało poruszonych mnóstwo kwesti
 dotyczących nie tylko zawodu tech writera, ale całej branży z nim związanej.
 Poniżej skrót najciekawszych, naszym zdaniem, fragmentów rozmowy.
 
-### Kim jest technical writer?
+#### Kim jest technical writer?
 
 Jak już pewnie nie raz słyszeliście czy czytaliście, technical writera trudno
 jest określić w prosty i jednoznaczny sposób. Na ten problem zwrócili uwagę
@@ -49,7 +49,7 @@ Kolejną bolączką zawodu jest nazewnictwo i próby jego tłumaczenia na język
 polski - autor techniczny, specjalista do spraw dokumentacji technicznej czy
 dokumentalista nie są niestety najlepsze.
 
-### Co do zespołu wnosi technical writer?
+#### Co do zespołu wnosi technical writer?
 
 Myśląc o produkcie przychodzi na myśl fakt, że to product manager czy
 programiści najlepiej powinni go znać i być w stanie oddać pewne niuanse i w
@@ -88,14 +88,14 @@ Podsumowując, technical writer posiada wszechstronny wachlarz umiejętności,
 których inne grupy w IT nie mają, bo ich nie potrzebują. Tym właśnie tech writer
 wspiera zespół.
 
-### W jakich branżach występuje zawód technical writera?
+#### W jakich branżach występuje zawód technical writera?
 
 Poza IT, które jest obecnie najpopularniejszą branżą w jakiej ten zawód się
 ujawnia albo przynajmniej jest najbardziej widoczny, jest też branża AGD i RTV.
 Często pojawia się też w firmach produkujących autobusy czy samochody. Branża
 militarna i lotnicza również zatrudnia technical writerów.
 
-### Jaka jest sytuacja technical writingu w Polsce?
+#### Jaka jest sytuacja technical writingu w Polsce?
 
 Technical writing istnieje w Polsce stosunkowo od niedawna, choć głównie tyczy
 się to problemu z nazewnictwem. Michał wspomina sytuację, w której ktoś od wielu
@@ -133,7 +133,7 @@ tegorocznym badaniu to jest jeszcze na to czas do **16 maja**. Wszelkie
 informacje znajdziecie
 [w tym poście](http://techwriter.pl/badanie-plac-w-komunikacji-technicznej-2021-wypelnij-ankiete/).
 
-### Jak zostać technical writerem?
+#### Jak zostać technical writerem?
 
 Dwie najbardziej popularne ścieżki kariery:
 
@@ -173,7 +173,7 @@ zagraniczne, choć należy wspomnieć, że Michał i Paweł prowadzą
 [Tech Writer Koduje](https://techwriterkoduje.pl/) - jedyny podcast z
 komunikacji technicznej po polsku.
 
-### Jak może wyglądać ścieżka rozwoju tech writera?
+#### Jak może wyglądać ścieżka rozwoju tech writera?
 
 Podobnie jak ścieżki kariery i tu można wskazać na dwa typy rozwoju:
 

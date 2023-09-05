@@ -27,7 +27,7 @@ Osoby, które jeszcze nie znają historii wydarzenia odsyłamy do
 solidna porcja wiedzy, ale też gwarancja świetnej atmosfery oraz spotkania z
 rewelacyjnymi ludźmi z branży, nawet w tak trudnych czasach jak obecne.
 
-### Najważniejsze informacje
+#### Najważniejsze informacje
 
 Tegoroczna edycja Write the Docs Prague online odbędzie się w dniach **3-5
 października 2021** **roku**. Jak w zeszłym, tak i w tym roku, organizatorzy
@@ -49,13 +49,13 @@ mediach społecznościowych: [Facebook](https://www.facebook.com/WriteTheDocs),
 [LinkedIn](https://www.linkedin.com/company/write-the-docs/) czy
 [Twitter](https://twitter.com/writethedocs).
 
-### Rodzaje i ceny biletów
+#### Rodzaje i ceny biletów
 
 Szczegóły dotyczące biletów zostaną ogłoszone jeszcze w kwietniu. Jeśli
 jesteście zainteresowani, śledźcie ogłoszenia zamieszczane na stronie
 konferencji lub kanały w mediach społecznościowych podanych powyżej.
 
-### Co gwarantuje cena biletu?
+#### Co gwarantuje cena biletu?
 
 W poprzedniej edycji cena biletu zawierała:
 

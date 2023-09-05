@@ -50,7 +50,7 @@ Jeśli to nie nastąpi, poirytowany odkłada go do pudełka i odnosi do sklepu.
 Ale przejdźmy do sedna, czyli czym jest tych **pięć rzeczy, o których musisz
 pamiętać** w kwestii zadowolenia klienta.
 
-## Net Promoter Score czyli wskaźnik kondycji marki
+### Net Promoter Score czyli wskaźnik kondycji marki
 
 [NPS](http://symetria.pl/blog/artykuly/net-promoter-score-w-badaniach-uzytecznosci/)
 (Net Promoter Score) pozwala firmom na zadanie jednego pytania, które ma na celu
@@ -66,14 +66,14 @@ dokumentacji będzie dużo niższy, będzie to stanowić dobry bodziec do
 zastanowienia się nad wartością dokumentacji i zadaniem sobie pytania: skąd i
 jaką wiedzę czerpie użytkownik skoro towar mu odpowiada, ale nie dokumentacja?
 
-## Ocena innych firm z naszej branży
+### Ocena innych firm z naszej branży
 
 Znać NPS swojej firmy to jedno, ale ważne też jest wiedzieć jak zadowolenie z
 naszej marki ma się do zadowolenia z firm z tej samej branży. Niezależnie od
 wyników trzeba pamiętać, że każda firma za wselką cenę stara się poprawić swój
 wskaźnik NPS.
 
-## Ścieżka zakupowa klienta
+### Ścieżka zakupowa klienta
 
 Ścieżka zakupowa klienta to cały proces przez który przechodzi klient podczas
 interakcji z naszą organizacją. Możemy prześledzić drogę przez którą przechodzi
@@ -87,7 +87,7 @@ gdzie? Jakie hasła będzie wyszukiwał i w jaki sposób. Gdzie kliknie najpierw
 Najważniejsze jednak jest rozdzielenie naszego wyobrażenia o tym co **powinien**
 zrobić z tym co **rzeczywiście zrobi**.
 
-## Kontakt klienta z produktem
+### Kontakt klienta z produktem
 
 Słowem
 [_touchpoint_](http://inquiry.bblog.pl/wpis,co;to;jest;touchpoint;i;dlaczego;powinienes;to;wiedziec,6403.html)
@@ -103,7 +103,7 @@ rozwiązań jakie proponuje Sharon jest umożliwienie użytkownikom zostawianie
 komentarzy i ocenianie treści dokumentacji, czy też używanie narzędzi
 pozwalających na monitorowanie aktywności użytkowników.
 
-## Klient i jego ekosystem
+### Klient i jego ekosystem
 
 Czym jest ekosystem klienta? To wszystkie procesy, w których bierze udział będąc
 w styczności z produktem, łącznie z procesami wewnętrznymi firmy, o których

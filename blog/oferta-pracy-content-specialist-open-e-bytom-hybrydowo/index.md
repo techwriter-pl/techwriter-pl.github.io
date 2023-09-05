@@ -24,7 +24,7 @@ Budżet: 4500- 5500 zł brutto na umowie o pracę.
 
 ---
 
-# Content Specialist
+## Content Specialist
 
 Numer referencyjny: **Marketing/3/21**
 
@@ -37,14 +37,14 @@ za tworzenie oraz edytowanie anglojęzycznych treści kreatywnych i technicznych
 między innymi na potrzeby firmowych stron internetowych, kampanii
 marketingowych, a także mediów społecznościowych.
 
-## Chcielibyśmy zatrudnić osobę, która:
+### Chcielibyśmy zatrudnić osobę, która:
 
 - **bardzo dobrze zna język angielski w mowie i w piśmie**, co potwierdza
   portfolio zrealizowanych zadań anglojęzycznych;
 - ma (mile widziane) doświadczenie zawodowe w branży IT na stanowisku Content
   Specialist, Technical Writer lub Copywriter.
 
-## Oferujemy:
+### Oferujemy:
 
 - zatrudnienie w branży IT / rozwoju oprogramowania na podstawie umowy o pracę;
 - prywatna opieka medyczna Medicover, ubezpieczenie na życie/NNW Uniqa, karta

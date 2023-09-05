@@ -36,7 +36,7 @@ l.pich\[at\]avsystem.com.
 
 ![](images/Zrzut-ekranu-2021-03-31-o-11.26.34-300x120.png)
 
-### About us
+#### About us
 
 Hi! We're a small team of technical writers that supports our company's product
 portfolio with comprehensive documentation to help our customers seamlessly
@@ -51,7 +51,7 @@ We're now looking for another technical writer to join us aboard and support our
 day-to-day work! If you enjoy diving into technical details and are open and
 communicative, you might be exactly the person we're looking for.
 
-### Your tasks will include:
+#### Your tasks will include:
 
 - writing and maintaining user manuals, developer guides and other types of
   product documentation in English using Markdown and reStructuredText
@@ -63,7 +63,7 @@ communicative, you might be exactly the person we're looking for.
 - testing documentation against the product to ensure its accuracy and
   completeness.
 
-### What we expect:
+#### What we expect:
 
 - Fluency in written and spoken English (educational background in English is a
   plus).
@@ -74,7 +74,7 @@ communicative, you might be exactly the person we're looking for.
   and stakeholders.
 - Ability to draw logical conclusions from wide amounts of information/data.
 
-### A big plus:
+#### A big plus:
 
 - Previous experience in writing IT technical documentation.
 - Familiarity with Markdown, reStructuredText, Git, Intellij IDEA.
@@ -83,7 +83,7 @@ communicative, you might be exactly the person we're looking for.
 
 Missing some points from the list? Don't worry and just apply 😊
 
-### What we offer:
+#### What we offer:
 
 - Full-time remote work (although work from office is also possible).
 - Opportunity to grow and flourish in a highly technical but supportive work

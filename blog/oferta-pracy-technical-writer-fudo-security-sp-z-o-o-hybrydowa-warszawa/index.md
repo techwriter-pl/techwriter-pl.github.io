@@ -42,11 +42,11 @@ ten [formularz](https://nofluffjobs.com/pl/job/ZMF369NZ) lub drogą mailową na
 
 ---
 
-## **Technical Writer**
+### **Technical Writer**
 
 Location: Warsaw, Poland/remote work
 
-### What we do?
+#### What we do?
 
 Fudo PAM. Coming with professional explanation - privileged access management
 product enabling session monitoring under active directory environment. You need
@@ -58,7 +58,7 @@ management, analyze work efficiency. We are constantly developing our product.
 
 Currently, we need someone to keep up to date our technical documentation.
 
-### What you'll do:
+#### What you'll do:
 
 - Conducting all of the issues connected with products technical documentation.
 - Documenting new features/ new products.
@@ -71,7 +71,7 @@ Currently, we need someone to keep up to date our technical documentation.
 - Cooperation with Marketing Team on technical content.
 - Cooperation with other Teams, especially Development Team.
 
-### What we're looking for:
+#### What we're looking for:
 
 - Insight into technology and security issues.
 - Being interested in new technologies & IT world.
@@ -88,7 +88,7 @@ Currently, we need someone to keep up to date our technical documentation.
 - Nice to have - experience in working with documentation tools (eg. Sphinx,
   Phabricator).
 
-### What you’ll get:
+#### What you’ll get:
 
 - The possibility to work on a unique product with international outreach.
 - Remote work but also a possibility to work from the office, if you prefer.

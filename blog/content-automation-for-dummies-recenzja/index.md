@@ -18,7 +18,7 @@ szybko.
 
 <!--truncate-->
 
-## To nie jest typowa książka
+### To nie jest typowa książka
 
 Książka **Content Automation for Dummies** to bardzo ciekawy przypadek, z kilku
 względów.
@@ -36,7 +36,7 @@ względów.
 - A najlepsze jest to, że jest dostępna dla każdego w sieci,
   [pod tym adresem](http://content.quark.com/rs/405-HHT-522/images/Content%20Automation%20for%20Dummies.pdf?mkt_tok=eyJpIjoiT0RsbVpUVTJNemN6Wm1NeiIsInQiOiI0VitPbVZIUkd1aFhpYVV6SVh0VlFWKzZna09DYmQ5a2JSRFBGbmFSNGwyUThDWGdVYzByU09jelEzUDROcXZPSkZ0V0dkUE95aWh1cjhhYmE5WGNuNWNGWWxqUHRTdHh5d0VrZVwvaWNYRlJWeHlqMmlISklsQjhFYTFPUW5KWm8ifQ%3D%3D).
 
-## Dlaczego naszym zdaniem warto do niej zajrzeć?
+### Dlaczego naszym zdaniem warto do niej zajrzeć?
 
 Przede wszystkim wydaje się bardzo dobrą propozycją dla organizacji, które
 przymierzają się do wprowadzenia automatyzacji do swojego procesu tworzenia

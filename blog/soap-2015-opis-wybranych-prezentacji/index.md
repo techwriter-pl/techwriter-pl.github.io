@@ -29,7 +29,7 @@ znaleźć obszerną
 
 [![soap_audience](images/soap_audience.jpg)](http://techwriter.pl/wp-content/uploads/2015/10/soap_audience.jpg)
 
-# **Beacony atakują**
+## **Beacony atakują**
 
 **[Marcin Kasz](http://soapconf.com/speaker/)** swoją prezentacją pt. **“Content
 Converts - How to Put Beacons to Work”** wprowadzał nas w świat beaconów. Na
@@ -67,7 +67,7 @@ pytań, np. dotyczących bezpieczeństwa korzystania z beaconów.
 
 https://twitter.com/kmdk/status/652025818990931968
 
-# **Być jak Spielberg**
+## **Być jak Spielberg**
 
 **[Anton Bollen](http://soapconf.com/speaker/)** w trakcie prezentacji
 zatytułowanej **“What Makes a Video Effective? A Look into the Expectations and
@@ -113,7 +113,7 @@ zdecydujemy się na dodanie narracji głosowej to musi ona być dobrej jakości.
 
 https://twitter.com/RayGallon/status/652042813106950144
 
-# **Wyzwanie to globalne treści rozwijanie**
+## **Wyzwanie to globalne treści rozwijanie**
 
 **[Johann Laville i Piotr Peszko](http://soapconf.com/speaker/)** poprowadzili
 prezentację zatytułowaną **“Key Challenges with Global Content Development”**, w
@@ -169,7 +169,7 @@ Slajdy z prezentacji można znaleźć
 
 https://twitter.com/AdamSanyo/status/652105942004297728
 
-# **Produktywność przede wszystkim**
+## **Produktywność przede wszystkim**
 
 Jedna z prezentacji z pierwszego dnia została odwołana z powodu choroby
 prowadzącego. Jednak dzięki szybkiej interwencji uczestnika konferencji,
@@ -211,7 +211,7 @@ prezentacji.
 
 https://twitter.com/AniaTutak/status/652117717336633344
 
-# **Od dokumentalisty do gwiazdy rocka**
+## **Od dokumentalisty do gwiazdy rocka**
 
 [**Erin Vang**](http://soapconf.com/speaker/) w swojej prezentacji **“Rockstars,
 not Typists! Expanding Your Influence in Tech Organizations”** dała nam
@@ -252,7 +252,7 @@ dobrze.
 
 https://twitter.com/jacekkr/status/652387740676452356
 
-# **Wiki i DITA są passé**
+## **Wiki i DITA są passé**
 
 [**Łukasz Górnicki**](http://soapconf.com/speaker/) w swojej prezentacji
 **“Documentation Continuous Delivery: New Approach to Creating Software
@@ -294,7 +294,7 @@ idzie z duchem czasu.
 
 https://twitter.com/kmdk/status/652428465526996992
 
-# **Pisz tak, żeby użytkownicy chcieli to czytać**
+## **Pisz tak, żeby użytkownicy chcieli to czytać**
 
 Niestety **[Kateryna Sasnyk](http://soapconf.com/speaker/)** nie dotarła z
 Ukrainy do Krakowa z powodu problemów z wizą. Dlatego też była zmuszona

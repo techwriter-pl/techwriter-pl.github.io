@@ -19,13 +19,13 @@ sobie kawę i rozsiądźcie się wygodnie, bo jest co czytać. 😊
 
 <!--truncate-->
 
-### Jak długo pracujesz jako Tech Writer?
+#### Jak długo pracujesz jako Tech Writer?
 
 Z dokumentacją techniczną związany jestem osiem lat. Przez pięć lat pracowałem
 jako Tech Writer. Obecnie jestem managerem działu dokumentacji i większość czasu
 zajmują mi głównie kwestie organizacyjne i koordynacyjne.
 
-### W jaki sposób zostałeś Tech Writerem?
+#### W jaki sposób zostałeś Tech Writerem?
 
 Przez przypadek. Ukończyłem Wydział Elektroniki i Telekomunikacji na
 Politechnice Wrocławskiej i rozpocząłem pracę w dziale rozwoju oprogramowania LG
@@ -36,7 +36,7 @@ Networks. Chęć zdobywania wiedzy z branży telekomunikacyjnej była na tyle du
 fantastycznym zespole, który uczył się rzemiosła pisarskiego od bardziej
 doświadczonych kolegów z Finlandii i Niemiec.
 
-### Czy możesz opowiedzieć coś o swojej firmie i zespole, w którym pracujesz?
+#### Czy możesz opowiedzieć coś o swojej firmie i zespole, w którym pracujesz?
 
 Obecnie pracuję we wrocławskim oddziale Unit4. Moja firma to międzynarodowa
 korporacja zajmująca się tworzeniem oprogramowania klasy enterprise (ERP) dla
@@ -45,7 +45,7 @@ osób. Ja zarządzam wirtualnym zespołem kilkunastu Tech Writerów z Polski,
 Hiszpanii, Wielkiej Brytanii i USA. Mój zespół to mieszanka doświadczenia i
 świeżości.
 
-### W jaki sposób jest zorganizowana praca Twoja i Twojego zespołu?
+#### W jaki sposób jest zorganizowana praca Twoja i Twojego zespołu?
 
 Moja firma pracuje w Agile'u, a Technical Writerzy są członkami zespołów
 scrumowych. Każdy Tech Writer wspiera 2-4 zespoły dokumentując różne produkty i
@@ -57,7 +57,7 @@ to również zaleta (czasami i wada 😉) posiadania swojego budżetu. Jako mana
 dokumentacji pełnię także w niektórych projektach rolę project managera i
 koordynatora tłumaczeń.
 
-### Jakich narzędzi używasz i co o nich sądzisz?
+#### Jakich narzędzi używasz i co o nich sądzisz?
 
 Do tworzenia treści obecnie używam MadCap Flare'a, który jest "spięty" z
 Microsoft Team Foundation Serverem (TFS) - systemem kontroli wersji. Flare
@@ -75,7 +75,7 @@ Skype'a, go2meeting i video konferencji. Czasami ta dowolność jest wręcz zbyt
 duża, ale pozwala ona na dostosowanie się do różnych sposobów pracy ludzi, z
 którymi współpracujemy.
 
-### W jaki sposób zdobywasz informacje potrzebne do tworzenia dokumentacji?
+#### W jaki sposób zdobywasz informacje potrzebne do tworzenia dokumentacji?
 
 Tak jak wspomniałem, pracujemy w Agile'u. Tech Writerzy siedzą z zespołami i
 zdobywają informacje bezpośrednio od nich. Uczestniczą w planowaniach sprintów,
@@ -92,7 +92,7 @@ projekcie (Release Managera, Product Managera, Managerów R&D).
 Release Managerami 😊 Ja często przyjmuję zasadę: "ja pomogę Tobie, ale Ty
 pomożesz mi" - u mnie działa.
 
-### Jakie dokumenty dostarczasz, w jakiej postaci, w jakim języku/językach i jak są one publikowane?
+#### Jakie dokumenty dostarczasz, w jakiej postaci, w jakim języku/językach i jak są one publikowane?
 
 Dostarczamy głównie Online Help w wersji HTML-owej oraz zestaw Release Notesów i
 Reference Manuali w wersji PDF (publikowane na portalu klienckim). Technical
@@ -103,7 +103,7 @@ interfejsie użytkownika). UI stringi tłumaczymy na kilkanaście języków.
 Ciekawostką jest fakt, że Technical Writerzy z mojego zespołu współtworzą
 również dialogi dla naszego korporacyjnego chatbota - Wandy.
 
-### Jakie produkty opisujesz?
+#### Jakie produkty opisujesz?
 
 Dokumentujemy kilka produktów klasy ERP o globalnym zasięgu. Jest to
 oprogramowanie dostarczane w chmurze, bądź na środowiskach klienta. Trzeba
@@ -114,12 +114,12 @@ jest tworzone dla użytkownika końcowego, ale dokumentacja jest również używ
 przez wewnętrznych i zewnętrznych konsultantów wdrożeniowych. Z uwagi na to
 definiowanie odbiorcy bardzo często jest utrudnione.
 
-### Czy oprócz tworzenia dokumentacji zajmujesz się czymś jeszcze, np. tworzeniem materiałów marketingowych? Jeśli tak, to czym i jakich narzędzi do tego używasz?
+#### Czy oprócz tworzenia dokumentacji zajmujesz się czymś jeszcze, np. tworzeniem materiałów marketingowych? Jeśli tak, to czym i jakich narzędzi do tego używasz?
 
 Nie. Firma posiada osobny zespół ludzi zajmujący się marketingiem i osobny dział
 tworzący szkolenia.
 
-### Jakie są największe wyzwania, które napotykasz w swojej pracy?
+#### Jakie są największe wyzwania, które napotykasz w swojej pracy?
 
 Jako Tech Writer często spotykałem się z problemem dokumentowania produktów,
 które nie były skończone, lub nie działały jak powinny. Obecnie olbrzymim
@@ -130,7 +130,7 @@ dotyka brak kontaktu z klientami. Jako spore wyzwanie traktuję także mierzenie
 efektywności pracy Tech Writerów i liczbowe podejście do jakości wytwarzanej
 dokumentacji.
 
-### Co najbardziej lubisz w pracy Tech Writera?
+#### Co najbardziej lubisz w pracy Tech Writera?
 
 To, że nigdy się nie nudzę. Jak mówi cytat z Forresta Gumpa: "Życie jest jak
 pudełko czekoladek, nigdy nie wiesz co ci się trafi...". Każdy dzień potrafi
@@ -140,7 +140,7 @@ Szukanie rozwiązania problemu sprawia mi niezmierną radość. Praca z Tech
 Writerami daje mi również możliwość spotkania wspaniałych, ciekawych i
 nietuzinkowych ludzi, co dla mnie jest wartością nie do przecenienia.
 
-### Co byś radził osobom, które chciałyby zacząć swoją przygodę z pisaniem dokumentacji?
+#### Co byś radził osobom, które chciałyby zacząć swoją przygodę z pisaniem dokumentacji?
 
 Żeby spróbowali. Pojawia się coraz więcej nowych ofert, wzrasta świadomość roli
 Tech Writera. Jeśli władasz angielskim i masz wrodzoną ciekawość - moim zdaniem

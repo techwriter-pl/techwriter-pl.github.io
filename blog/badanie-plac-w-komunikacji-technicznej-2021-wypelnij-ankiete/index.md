@@ -36,7 +36,7 @@ informacjami oczywiście się podzielimy.
 
 Ankieta jest dostępna pod tym [linkiem](https://forms.gle/mSjciSe2ubBg7mFN9).
 
-### Dlaczego warto wypełnić tę ankietę?
+#### Dlaczego warto wypełnić tę ankietę?
 
 1. Dane te pomogą Wam przy następnej zmianie pracy – dowiecie się jakich widełek
    płacowych można się spodziewać.
@@ -49,17 +49,17 @@ Ankieta jest dostępna pod tym [linkiem](https://forms.gle/mSjciSe2ubBg7mFN9).
 5. Być może po opublikowaniu wyników będziecie mieli mocny argument aby poprosić
    o podwyżkę!
 
-### Ile zajmie mi wypełnienie ankiety?
+#### Ile zajmie mi wypełnienie ankiety?
 
 Ankieta zawiera kilkanaście prostych pytań. Jej wypełnienie nie zajmie więcej
 niż 3 minuty, a jeśli odpowiedzi będzie wystarczająco dużo – każdy z nas może
 mieć z tego wymierną korzyść.
 
-### Jak długo ankieta będzie aktywna?
+#### Jak długo ankieta będzie aktywna?
 
 Na odpowiedzi czekamy do **16 maja 2021** roku.
 
-### Gdzie będzie można sprawdzić wyniki ankiety?
+#### Gdzie będzie można sprawdzić wyniki ankiety?
 
 Po zakończeniu badania, wyniki oczywiście opublikujemy na
 [techwriter.pl](http://techwriter.pl/).

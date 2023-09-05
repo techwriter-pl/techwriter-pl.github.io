@@ -69,11 +69,11 @@ się nazywa przykładanie wagi do funkcjonalnych detali – myślę, że grono
 dokumentalistów i dokumentalistek docenia dbałość o szczegóły. Ktokolwiek to
 projektował - dobra robota!
 
-# Warsztaty
+## Warsztaty
 
-## Czego znawca retoryki może nauczyć Cię o zapytaniach dla ChatGPT
+### Czego znawca retoryki może nauczyć Cię o zapytaniach dla ChatGPT
 
-## [![](images/upload_0541-1024x1024.png)](http://techwriter.pl/wp-content/uploads/2023/07/upload_0541.png)
+### [![](images/upload_0541-1024x1024.png)](http://techwriter.pl/wp-content/uploads/2023/07/upload_0541.png)
 
 [Dr. Lance Cummings](https://www.linkedin.com/in/lance-cummings-phd/) nie po raz
 pierwszy gościł na [soap!](https://soapconf.com/). W 2022 roku prowadził
@@ -164,7 +164,7 @@ rozwiązań będzie wkrótce jedną z kluczowych umiejętności. W tym temacie s
 kropkę, a właściwie wielokropek, a sam Lance jeszcze nie raz powróci w kolejnych
 częściach tego artykułu.
 
-## Od zera do bohatera – dojrzałość dokumentacyjna projektu i proces przejścia na wyższy poziom
+### Od zera do bohatera – dojrzałość dokumentacyjna projektu i proces przejścia na wyższy poziom
 
 [![](images/upload_0542-300x201.png)](http://techwriter.pl/wp-content/uploads/2023/07/upload_0542.png)
 
@@ -200,9 +200,9 @@ taki wysiłek i przekonać o tym przełożonych.
 
 [![](images/upload_0474-1-265x300.png)](http://techwriter.pl/wp-content/uploads/2023/07/upload_0474-1.png)
 
-# Prezentacje
+## Prezentacje
 
-## Wprowadzenie do Content Operations
+### Wprowadzenie do Content Operations
 
 [Patrick Bosek](https://www.linkedin.com/in/patrickbosek/) z firmy Heretto
 podczas _"Content Operations. What it is, why it's needed, and a high-level
@@ -248,7 +248,7 @@ Serdecznie polecam tę prezentację jeśli chcesz solidnego wytłumaczenia
 podstawowych określeń w połączeniu z globalnym spojrzeniem na bardzo
 wyrafinowane środowiska dokumentacyjne.
 
-## Plan potrzebny od zaraz
+### Plan potrzebny od zaraz
 
 [![](images/upload_0514-1-1024x768.png)](http://techwriter.pl/wp-content/uploads/2023/07/upload_0514-1.png)
 
@@ -289,7 +289,7 @@ sposób poprowadziły solidną prezentację o okiełznaniu dokumentacyjnej hydry
 pomocą planu i metody. Wielu z nas znajdzie w niej dla siebie użyteczne
 wskazówki i pomysły.
 
-## Jaki jest Twój patent na content?
+### Jaki jest Twój patent na content?
 
 [![](images/upload_0479-1024x593.png)](http://techwriter.pl/wp-content/uploads/2023/06/upload_0479.png)
 
@@ -319,7 +319,7 @@ witrynie.
 
 Zdecydowanie warto posłuchać ich wystąpienia.
 
-## Jak sprostać skali
+### Jak sprostać skali
 
 [![](images/upload_0535.png)](http://techwriter.pl/wp-content/uploads/2023/07/upload_0535.png)
 
@@ -339,7 +339,7 @@ dokumentalistów i wykorzystywane przez nich narzędzia. Najważniejsze, moim
 zdaniem, jest wytłumaczenie celu, dla którego się ją stosuje i tego czym
 charakteryzuje się dobrze zaimplementowane Content Ops w organizacji.
 
-## Jak wydobyć cenne klejnoty z morza treści
+### Jak wydobyć cenne klejnoty z morza treści
 
 [![](images/upload_0530-1024x768.png)](http://techwriter.pl/wp-content/uploads/2023/07/upload_0530.png)
 
@@ -352,7 +352,7 @@ analizy, tworzenia content planu, weryfikacji, migracji i restrukturyzacji
 stron. Kojarzy mi się to z kilkoma migracjami dokumentacji między platformami,
 które mam na koncie i tym bardziej szanuję jej dokonanie.
 
-## Jasne, ale i tak przypomnij mi później
+### Jasne, ale i tak przypomnij mi później
 
 [![](images/upload_0515-1024x768.png)](http://techwriter.pl/wp-content/uploads/2023/07/upload_0515.png)
 
@@ -382,7 +382,7 @@ Warto pamiętać o tym, że scrum master i zespół agile potrafią świetnie do
 w różnych kwestiach. Techno skrybo! Nie jesteś sam! Jeśli coś Cię gnębi, pogadaj
 ze swoim zespołem, to potrafi zdziałać cuda!
 
-## Jak odnaleźć się w zwinnym zespole
+### Jak odnaleźć się w zwinnym zespole
 
 [![](images/upload_0526-1024x728.png)](http://techwriter.pl/wp-content/uploads/2023/07/upload_0526.png)
 
@@ -413,7 +413,7 @@ wszystkiego, pozwolimy sobie podkreślić kilka myśli:
   zamówienie. Czasem pracę z treścią może automatyzować stosując odpowiednio
   skonfigurowane rozwiązania typu Grammarly.
 
-## Bo do tanga trzeba czworga
+### Bo do tanga trzeba czworga
 
 [![](images/upload_0510-1024x690.png)](http://techwriter.pl/wp-content/uploads/2023/07/upload_0510.png)
 
@@ -428,7 +428,7 @@ niełatwo jest zebrać takie gremium w jednej sali i trudno ustanowić nową św
 tradycję, jednak naprawdę warto, bo przynosi to dobre rezultaty, które
 użytkownik odczuje w całości doświadczenia z produktem i jego dokumentacją.
 
-## Ilu tech writerów naprawdę potrzeba?
+### Ilu tech writerów naprawdę potrzeba?
 
 [![](images/upload_0518-1024x807.png)](http://techwriter.pl/wp-content/uploads/2023/07/upload_0518.png)
 
@@ -456,7 +456,7 @@ pracy. W codziennym natłoku pracy niekoniecznie mamy czas i sposobność na
 zdobycie szerszego oglądu sytuacji i na zadanie pewnych pytań. Czasem też po
 prostu nie przyjdzie nam do głowy, aby je zadać.
 
-## Jak mierzyć fajność dokumentacji?
+### Jak mierzyć fajność dokumentacji?
 
 [![](images/upload_0536-1024x794.png)](http://techwriter.pl/wp-content/uploads/2023/07/upload_0536.png)
 
@@ -484,7 +484,7 @@ ruchu.
 
 [![](images/Picture3-1024x494.png)](http://techwriter.pl/wp-content/uploads/2023/06/Picture3.png)
 
-## Jak uczyć pisania znajomych z pracy
+### Jak uczyć pisania znajomych z pracy
 
 Czy programiści i reszta inżynierów, którzy niechętnie angażują się w pisanie
 czy recenzowanie dokumentacji to standard? Okazuje się, że niekoniecznie.
@@ -531,7 +531,7 @@ Niech rzuci kamieniem ten, kto ani razu nie pomyślał, że chciałby na takie
 szkolenie wysłać kilka osób ze swojej firmy 😊 A od siebie dodam, że jako
 początkująca tech writerka bardzo chętnie wzięłabym w nim udział.
 
-## Syndrom oszusta
+### Syndrom oszusta
 
 [![](images/upload_0505-1024x768.png)](http://techwriter.pl/wp-content/uploads/2023/07/upload_0505.png)
 
@@ -569,16 +569,16 @@ nie upadać na duchu i nie dać się zniechęceniu, Wojtek poleca zapisywanie
 wszystkich małych i dużych sukcesów, i regularne wracanie do tych zapisków.
 Znam, używam, potwierdzam skuteczność :-)
 
-# **Ciekawostki**
+## **Ciekawostki**
 
-## **Soapbox**
+### **Soapbox**
 
 Po raz pierwszy w historii [soap!](https://soapconf.com/) organizatorzy
 wprowadzili możliwość wyskoczenia na scenę i wygłoszenia pięciominutowej
 opowieści na temat dowolny. Działo się! Oto kilka najbarwniejszych, naszym
 zdaniem, wystąpień.
 
-### **District C**
+#### **District C**
 
 [![](images/upload_0558.png)](http://techwriter.pl/wp-content/uploads/2023/07/upload_0558.png)
 
@@ -603,7 +603,7 @@ zapraszam do kontaktu na LinkedIn. Dodam jeszcze, że jeśli masz problem z trem
 przed wystąpieniami, to nic nie działa lepiej niż wejście na skrzynkę na jabłka.
 Dla mnie będzie to nieodłączny gadżet przy przemówieniach, robi robotę! 😊
 
-### **Wychodźmy z naszych silosów**
+#### **Wychodźmy z naszych silosów**
 
 [![](images/upload_0540-1024x768.png)](http://techwriter.pl/wp-content/uploads/2023/07/upload_0540.png)
 
@@ -622,7 +622,7 @@ czymś, o czym należy pamiętać.
 
 Przekaz krótki i celny, a do tego przekazany w zabawny, spontaniczny sposób.
 
-### Gdzie szukać odtrutki w świecie przesyconym fascynacją technologią?
+#### Gdzie szukać odtrutki w świecie przesyconym fascynacją technologią?
 
 [![](images/upload_0503-298x300.png)](http://techwriter.pl/wp-content/uploads/2023/07/upload_0503.png)
 
@@ -644,7 +644,7 @@ akcentować ludzki komponent w równaniu 😉
 - **E**mpathy – empatia – staraj się zrozumieć perspektywę innych uczestników
   procesu i użytkowników
 
-### **SOAPUSZKA**
+#### **SOAPUSZKA**
 
 [![](images/soapusza_mala.gif)](http://techwriter.pl/wp-content/uploads/2023/07/soapusza_mala.gif)
 
@@ -701,7 +701,7 @@ A więc postanowione! Soapuszka odwiedzi Stany Zjednoczone. Jakie opowieści
 przywiezie? Tego dowiemy się już 1.06.2024. I coś mi mówi, że to nie będzie jej
 ostatnia przygoda.
 
-### **Panel dyskusyjny**
+#### **Panel dyskusyjny**
 
 [![](images/upload_0511-1024x768.png)](http://techwriter.pl/wp-content/uploads/2023/07/upload_0511.png)
 
@@ -712,7 +712,7 @@ tym jak zrekrutować pisarza technicznego, a także jak bumerang wracały pytani
 ChatGPT i technologie AI, co pokazuje, że wielu z nas ten temat frapuje i
 wszyscy są w trakcie ustosunkowywania się do niego.
 
-### **Losowanie**
+#### **Losowanie**
 
 [![](images/upload_0516-1024x683.png)](http://techwriter.pl/wp-content/uploads/2023/07/upload_0516.png)
 
@@ -736,7 +736,7 @@ scenę jest faktycznie tak przerażające jak w jej głowie. Krótko mówiąc, n
 ale także innych uczestników, którzy przyczynili się do niesamowitej atmosfery
 na [soap!](https://soapconf.com/)
 
-# **Podsumowanie**
+## **Podsumowanie**
 
 [![](images/MicrosoftTeams-image-154-1024x768.jpg)](http://techwriter.pl/wp-content/uploads/2023/06/MicrosoftTeams-image-154.jpg)Choć
 może wydać się to mało wykonalne, to wydaje mi się, że w tym roku poprzeczka

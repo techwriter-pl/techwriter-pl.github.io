@@ -18,7 +18,7 @@ Graat)** oraz **Designing Transactions Successfully (Dr Chris Atherton)**.
 
 <!--truncate-->
 
-## [Maximising the Effect of Progressive Disclosure - Jang F.M. Graat](http://www.uaeurope.com/conference/sessions.html#progressivedisclosure)
+### [Maximising the Effect of Progressive Disclosure - Jang F.M. Graat](http://www.uaeurope.com/conference/sessions.html#progressivedisclosure)
 
 [Jang F.M. Graat](http://jang.nl/) przedstawia siebie jako filozofa i
 minimalistę. Takie też były jego slajdy prezentowane podczas konferencji,
@@ -29,7 +29,7 @@ technicznej.
 
 [![confusing-street-signs](images/confusing-street-signs-300x225.jpg)](http://techwriter.pl/wp-content/uploads/2014/06/confusing-street-signs.jpg)
 
-## Powód istnienia dokumentacji technicznej
+### Powód istnienia dokumentacji technicznej
 
 Czy celem użytkownika jest czytanie dokumentacji produktu? Nie, jego celem jest
 używanie tego produktu, działanie. Użytkownicy sięgają po dokumentację dopiero
@@ -50,7 +50,7 @@ dokumentacji, a to osiągnąć można tylko za sprawą metody _progressive
 disclosure_. Poniżej prezentujemy listę porad zebranych przez Janga do
 wykorzystania przy tworzeniu dokumentacji w myśl tej metody.
 
-## Podstawowe techniki
+### Podstawowe techniki
 
 **Tooltipy** - zawierają one minimalną ilość potrzebnych informacji.
 
@@ -76,7 +76,7 @@ uzyskiwania wskazówek. Nie polega on na prezentowaniu informacji slajd po
 slajdzie, ale wykonywaniu czynności, które są akurat opisywane (np. wprowadzaniu
 danych).
 
-## Wskazówki
+### Wskazówki
 
 **Formatowanie tekstu i korzystanie z odpowiedniej nomenklatury w konsekwentny
 sposób** sprawia, że użytkownik zawsze wie, czego się spodziewać patrząc na nasz
@@ -93,7 +93,7 @@ informacji, powinien nadal znajdować się w miejscu, w którym zaczynał. Jeż
 natomiast dajesz użytkownikowi możliwość przejścia w inne miejsce, **zawsze
 zapewnij mu opcję powrotu**.
 
-## Czego unikać
+### Czego unikać
 
 **Oczywista oczywistość** - nie ma konieczności opisywania wszystkiego co
  wyświetla się na ekranie. W końcu produkt powinien zostać stworzony tak, aby
@@ -118,7 +118,7 @@ korzystamy z aplikacji na urządzeniach mobilnych i na nie też tworzymy
 dokumentację, takie minimalistyczne podejście bardzo się sprawdza, z ogromną
 korzyścią dla użytkownika.
 
-## [**Designing Transactions Successfully - Dr Chris Atherton**](http://www.uaeurope.com/conference/sessions.html#successfultransactions)
+### [**Designing Transactions Successfully - Dr Chris Atherton**](http://www.uaeurope.com/conference/sessions.html#successfultransactions)
 
 [Dr Chris Atherton](http://www.equalexperts.com/) uświadamiała słuchaczom od jak
 wielu szczegółów zależy, czy strona jest czytelna i łatwa w obsłudze. Na

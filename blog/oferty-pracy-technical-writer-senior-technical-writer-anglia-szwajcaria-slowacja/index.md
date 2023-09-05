@@ -35,7 +35,7 @@ adres [alyssad@otclih.com](mailto:alyssad@otclih.com).
 
 Powodzenia!
 
-# 2 x Technical Writer, Szwajcaria
+## 2 x Technical Writer, Szwajcaria
 
 **Aviation / Aeronautical Industry – Two Openings for Technical Writer**
 
@@ -65,7 +65,7 @@ specifications.**
   Microsoft Word, FrameMaker + SGML and Arbortext Editor.
 - English mother tongue or to international standard grade C1.
 
-# Senior Technical Writer, Słowacja
+## Senior Technical Writer, Słowacja
 
 **Financial Services / Theft Protection Industry – Opening for Senior Technical
 Writer**
@@ -90,7 +90,7 @@ Writer**
 - Ability to understand highly technical material
 - Ability to work in a team
 
-#  **Technical Writer, Anglia**
+##  **Technical Writer, Anglia**
 
 **Retail Engagement / SaaS (Software as a Service) Industry – Opening for
 Developer-Facing Technical Writer**

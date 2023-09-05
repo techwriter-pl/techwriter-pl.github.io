@@ -24,7 +24,7 @@ koncentrują się na tym, w jaki sposób można zastosować sztuczną inteligenc
 pracy nad dokumentacją techniczną, tak by była ona szybsza, a treść dostarczana
 przez technical writerów stała się jeszcze lepsza.
 
-### Do czego można używać sztucznej inteligencji?
+#### Do czego można używać sztucznej inteligencji?
 
 Paweł wspomina o różnych, już istniejących, zastosowaniach AI w pisaniu tekstów.
 Są to na przykład różne produkty, które umożliwiają generowanie tekstów - od

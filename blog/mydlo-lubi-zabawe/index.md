@@ -28,7 +28,7 @@ Jeden z takich osobników do pracy przyjeżdża na hulajnodze, a drugi dzieli tr
 zarabiania na chleb z white terrierem, który lubi gonić za piłką. O dziwo, te
 ciekawostki nie zakłócały przebiegu konferencji.
 
-## Wchodzimy
+### Wchodzimy
 
 W tym roku mieliśmy zaszczyt być oficjalnym patronem medialnym soap!, dlatego
 nie próbowaliśmy się spóźnić tak jak w zeszłym roku (dla tych, którzy nie
@@ -46,7 +46,7 @@ na myśl magazyn marketu budowlanego zostały okraszone nowoczesnymi elementami.
 Stylistyka modna i przyjemna dla oka, dobrze współgrająca z oprawą graficzną
 konferencji.
 
-## Zaczęło się
+### Zaczęło się
 
 Miejsce w centrum uwagi przejął jeden z twórców soap!,
 [Paweł Kowaluk](http://soapconf.com/team/), któremu przypadła rola wygłoszenia
@@ -73,7 +73,7 @@ podejście można zastosować w przypadku skomplikowanych rozwiązań biznesowyc
 ale warto pamiętać, że opasłe instrukcje opisujące każdy detal produktu nie
 zawsze są pomocne.
 
-## Tymczasem w toalecie
+### Tymczasem w toalecie
 
 Zazwyczaj toaleta nie znajduje się w opisach konferencji dotyczących komunikacji
 technicznej, jednak w wypadku soap! musieliśmy zrobić odstępstwo. Nie mamy tu na
@@ -88,7 +88,7 @@ czy kask rowerowy. Okazało się, że wiele osób podjęło wyzwanie. Efektów m
 szukać na Twitterze na profilu [@SoapConf](https://twitter.com/SoapConf) lub
 używając hashtaga [#soapkrk](https://twitter.com/hashtag/soapkrk).
 
-## Zacny networking
+### Zacny networking
 
 Nie samymi prezentacjami człowiek żyje, dlatego organizatorzy zadbali również o
 mniej formalną stronę konferencji. Po pierwszym dniu można było wymienić
@@ -96,7 +96,7 @@ doświadczenia z innymi uczestnikami przy kieliszku wina, a po drugim dniu w
 trakcie imprezy. Wszyscy wiemy, że nic tak nie łączy jak wspólne toasty za dobry
 [kontent](http://techwriter.pl/langlydz-part-najn/).
 
-## Garść faktów
+### Garść faktów
 
 A teraz czas na trochę twardych faktów. Dane otrzymaliśmy od organizatorów, więc
 nie jest to nasza wesoła twórczość tak jak to co napisaliśmy powyżej 😉 Pierwszy
@@ -111,7 +111,7 @@ GmbH, Autodesk, Roche, Motorola Solutions czy Google. Spektrum poruszonych
 tematów obejmowało m.in. dokumentację dla API, grywalizację, UX, DITA,
 opowiadanie historii, silosy, strategię zarządzania treścią oraz Agile.
 
-## Podsumujmy
+### Podsumujmy
 
 Nasze ogólne odczucia są zdecydowanie pozytywne. Mówimy tu o kwestiach
 organizacyjnych, prezentacje będziemy przedstawiać w kolejnych artykułach.

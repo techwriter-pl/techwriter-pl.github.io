@@ -19,7 +19,7 @@ Poniżej znajdziecie garść najważniejszych informacji.
 
 <!--truncate-->
 
-### **O Evolution of TC 2021**
+#### **O Evolution of TC 2021**
 
 Evolution of TC zostało zapoczątkowane w 2010 roku przez członków grupy, w
 której centrum zainteresowania była, i jest, komunikacja techniczna. Od 2015
@@ -39,7 +39,7 @@ Tematyka Evolution of TC jest zazwyczaj obszerna i bazuje na najnowszych
 trendach w tech commie. Motywem przewodnim konferencji są nowinki w dokumentacji
 oprogramowania.
 
-### **Czego się spodziewać?**
+#### **Czego się spodziewać?**
 
 Podczas wystąpień tegorocznej edycji, międzynarodowa grupa specjalistów
 przybliży nowe rozwiązania, które wkrótce mogą być codziennością dla osób
@@ -56,18 +56,18 @@ Program konferencji jest tak opracowany, by poruszyć następujące tematy:
 - metadane i taksonomia,
 - i wiele więcej.
 
-### **Dla kogo?**
+#### **Dla kogo?**
 
 Konferencja skierowana jest do wszystkich osób związanych z branżą komunikacji
 technicznej, które chcą się doszkolić, a jednocześnie podzielić się z innymi
 swoją wiedzą.
 
-### **Termin**
+#### **Termin**
 
 Konferencja odbędzie się w dniach **9 - 11 czerwca 2021** roku w formacie
 **online**.
 
-### **Program**
+#### **Program**
 
 Program konferencji jest już dostępny tutaj
 ([link](https://evolution-of-tc.com/program/day?cHash=a6761b29fc13307a782c84d35704ccb6)). 
@@ -80,7 +80,7 @@ się do zajęć - na przykład odsłuchanie piosenki. Można także wziąć udzi
 quizie oraz specjalnym panelu, podczas którego można zadawać pytania wybranym
 przez organizatorów ekspertom.
 
-### **Ceny**
+#### **Ceny**
 
 Poniżej przedstawiamy ceny wejściówek na konferencję:
 
@@ -104,7 +104,7 @@ akredytowane przez tekom.
 rabat udzielany jest tylko przy jednoczesnej rezerwacji. Przed rejestracją
 prosimy o kontakt pod adresem anmeldung\[at\]tekom.de.
 
-### **Dlaczego warto wziąć udział?**
+#### **Dlaczego warto wziąć udział?**
 
 Naszym zdaniem jest kilka powodów, dla których warto wziąć udział w Evolution of
 TC 2021. Po pierwsze, międzynarodowi eksperci oraz tematyka konferencji pozwolą

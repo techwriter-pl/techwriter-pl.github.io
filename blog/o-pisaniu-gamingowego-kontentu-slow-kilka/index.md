@@ -27,7 +27,7 @@ tworząc treści. To oczywiste, że na przestrzeni jednego artykułu nie wyczerp
 tematu, ale mamy nadzieję zarysować ramy, w których pisarze treści mogą znaleźć
 swoje miejsce.
 
-### Tekst dla dewelopera, czy tekst dla gracza?
+#### Tekst dla dewelopera, czy tekst dla gracza?
 
 Na sam początek wyeliminujmy jedno niedopatrzenie, które często jest piętnem
 zaangażowanych do pojedynczych zleceń freelancerów. Niezależnie od mnogości
@@ -55,7 +55,7 @@ osobiście, niż ktokolwiek chciałby przyznać.
 
 ![](images/computer-1845880_640.jpg)
 
-### Ten rynek nie znosi teoretyzowania
+#### Ten rynek nie znosi teoretyzowania
 
 Braki praktyczne szybko wyjdą na jaw przy pisaniu o mechanice, a gry są mocno
 zróżnicowane i czasami można potknąć się na największym banale. Jeżeli piszesz o
@@ -83,7 +83,7 @@ najbardziej przydatne dla graczy informacje, podane w suchy, laboratoryjny
 sposób, mogą nie wystarczyć by utrzymać ich zainteresowanie. Przy dzisiejszej
 dostępności źródeł po prostu pójdą szukać gdzie indziej.
 
-### Nie musisz być [1337](https://en.wikipedia.org/wiki/Leet), ale możesz być na czasie
+#### Nie musisz być [1337](https://en.wikipedia.org/wiki/Leet), ale możesz być na czasie
 
 Język, który posłuży do formułowania komunikatów w tematyce gier wideo tworzy
 się na wspólnym polu idiolektu branżowego i współczesnego języka Internetu.
@@ -109,7 +109,7 @@ jest trudne i umiejętność ta może zaważyć na sukcesie twojego tekstu.
 
 ![](images/gaming-2259191_640.jpg)
 
-### Napisy końcowe
+#### Napisy końcowe
 
 Metafora z górą lodową jest wyświechtana, więc powiedzmy, że to dopiero pierwszy
 zestaw misji w pierwszym akcie tej zabawy. Powyższy artykuł to tylko garść

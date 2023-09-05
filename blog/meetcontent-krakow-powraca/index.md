@@ -19,14 +19,14 @@ Po (zbyt) wielu miesiącach nieobecności MeetContentKRK powraca z zupełnie now
 tematami, miejscami spotkań i możliwością poznania twórców związanych z
 technical writingiem.
 
-### **Czas i miejsce**
+#### **Czas i miejsce**
 
 Już 9 maja 2023 o godzinie 18:00 odbędzie się pierwsze, inauguracyjne spotkanie
 zorganizowane przez społeczność techwriterską z Krakowa. Prelegenci będą na Was
 czekać w [Techie’s Space](https://www.facebook.com/techies.krakow/), Na Zjeździe
 11, 30-527 Kraków.
 
-### **Temat**
+#### **Temat**
 
 Na spotkaniu zostanie poruszony jeden z najgorętszych obecnie tematów, a
 mianowicie: sztuczna inteligencja i jej rola w tworzeniu treści.
@@ -39,7 +39,7 @@ technologii?
 
 ![](images/MeetContentKRKGrafika-e1682332531477.png)
 
-### **Prelegenci**
+#### **Prelegenci**
 
 Prezentację poprowadzą założyciele i prowadzący podcast
 [Tech Writer koduje](https://techwriterkoduje.pl/) (a także nasi dawni
@@ -55,7 +55,7 @@ redaktorzy) - Michał Skowron i Paweł Kowaluk.
   narzędzi doc. Obecnie pisze teksty techniczne dla Guidewire Software i jest
   członkiem zarządu ITCQF.
 
-### Kilka słów o sponsorze
+#### Kilka słów o sponsorze
 
 Majowa edycja MeetContentKRK jest sponsorowana przez
 [Codete](https://codete.com/).
@@ -73,7 +73,7 @@ W styczniu 2022 roku Codete otworzyło własny resto-bar Techie’s, w którym
 odbywają się najlepsze imprezy technologiczne w mieście i właśnie tam spotkacie
 się w ramach MeetContent.
 
-### Formularz zgłoszeniowy
+#### Formularz zgłoszeniowy
 
 Podobie jak w przypadku innych spotkań tego typu, i tu organizatorzy proszą o
 rejestrację poprzez dedykowany formularz zgłoszeniowy. Znajdziecie go pod

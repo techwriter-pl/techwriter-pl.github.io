@@ -45,7 +45,7 @@ swój temat i szukać chętnych do współpracy.
 Niedziela upłynęła niezwykle szybko. Popołudnie można było spędzić na zwiedzaniu
 przepięknej Pragi i zbieraniu sił przed główną częścią konferencji.
 
-## Pierwszy dzień prelekcji (poniedziałek)
+### Pierwszy dzień prelekcji (poniedziałek)
 
 Niesamowita przestrzeń modernistycznego budynku Autoklubu świetnie nadaje się na
 organizację konferencji. Sala taneczna została zaadaptowana na potrzeby
@@ -68,7 +68,7 @@ przedstawiamy najciekawsze z nich.
 
 [![](images/image3-1024x645.jpg)](http://techwriter.pl/wp-content/uploads/2019/04/image3.jpg)
 
-### Introduction to Write the Docs - Mikey Ariel
+#### Introduction to Write the Docs - Mikey Ariel
 
 Jako pierwsza na scenę wyszła przedstawicielka Write the Docs, Mikey Ariel, by
 przekazać nam podstawowe informacje na temat wydarzenia. Jeśli nie słyszeliście
@@ -112,7 +112,7 @@ Nie mogliśmy otrząsnąć się z ciężkiego szoku, gdy dowiedzieliśmy się, �
 były pisane przez dwie profesjonalne stenografistki na specjalnej maszynie
 sprzężonej z dedykowanym oprogramowaniem.
 
-### [![](images/image8.png)](http://techwriter.pl/wp-content/uploads/2019/04/image8.png) How to tear down existing documentation and rewrite docs that actually work - Alexandra White
+#### [![](images/image8.png)](http://techwriter.pl/wp-content/uploads/2019/04/image8.png) How to tear down existing documentation and rewrite docs that actually work - Alexandra White
 
 Jeśli nie pracowaliście nigdy nad “legacy docs” (w wolnym tłumaczeniu
 "dokumentami, które dostaliście w spadku" 😊) to tak naprawdę nie wiecie co to
@@ -141,7 +141,7 @@ nich to:
 - Zignorowanie faktu, że różnorodność ma niebagatelne znaczenie dla końcowego
   sukcesu (kultura, doświadczenie, poziom umiejętności)
 
-### A11y-Friendly Documentation - Carolyn Stransky
+#### A11y-Friendly Documentation - Carolyn Stransky
 
 A11y - wymawiane "alli" - czyli accessibility (11 liter w słowie) to obecnie
 jedna z ważniejszych dziedzin w życiu każdego z nas. Dotyczy ona szeroko
@@ -187,7 +187,7 @@ pomocą dostępnych dodatków i walidatorów, takich jak na przykład Wave. Trze
 przyznać, że wystąpienie było naładowane informacjami i praktycznymi
 przykładami, które stosunkowo łatwo zastosować w praktyce.
 
-### "It's a Feature" - Documenting Known Issues and Product Shortcomings - Ivana Devcic
+#### "It's a Feature" - Documenting Known Issues and Product Shortcomings - Ivana Devcic
 
 Ostatnim wystąpieniem dnia była prezentacja Ivany Devcic na temat dokumentowania
 Known issues, czyli problemów z oprogramowaniem, które znane są zespołom
@@ -214,14 +214,14 @@ wystąpień oraz rozmów z niezwykle ciekawymi ludźmi. Wieczorem odbyła się
 impreza, na której jak zawsze była okazja jeszcze lepiej się poznać i pogadać,
 nie tylko o dokumentacji.
 
-## Drugi dzień prelekcji (wtorek)
+### Drugi dzień prelekcji (wtorek)
 
 We wtorek rano pojawiliśmy się żądni jeszcze większej wiedzy. Reguły konferencji
 pozostały niezmienne - część główna odbywała się w sali balowej, Unconference w
 wydzielonej przestrzeni. Dodatkowo, we wtorek miały miejsce pierwsze w historii
 konferencji WTD targi pracy, o których wspomnimy nieco później.
 
-### A Year in the Life of The Better Docs Project - Rowan Cota
+#### A Year in the Life of The Better Docs Project - Rowan Cota
 
 Z prezentacji najbardziej zapadły nam w pamięć podnoszące na duchu słowa o
 istotnej roli jaką odgrywa komunikacja techniczna podczas tworzenia
@@ -249,7 +249,7 @@ organizacji. Opłaca się włączać jak największą ilość osób w firmie w t
 dokumentacji oraz nagradzać najbardziej aktywnych. Jeśli to działa to nie
 zapomnijcie o świętowaniu sukcesów!
 
-### Learning to love release notes - Anne Edwards
+#### Learning to love release notes - Anne Edwards
 
 Kolejne wystąpienie skupiło się na nieco pominiętym typie dokumentacji jakim są
 Noty Wydawcze czyli Release Notes. Okazuje się, że nie jest łatwo znaleźć
@@ -296,7 +296,7 @@ Na koniec rada dla wszystkich. Style Guide jest po to, żeby nam pomóc, a nie
 żeby nas ograniczać, szczególnie w przypadku pisania tak specyficznych
 dokumentów jakimi są Release Notesy.
 
-### Document What Matters: Lean Best Practice for Process Documentation - Gillian von Runte
+#### Document What Matters: Lean Best Practice for Process Documentation - Gillian von Runte
 
 Dość interesującym wystąpieniem była prezentacja Gillian von Runte. Pokazała
 dokumentację z perspektywy Lean: “jeśli tego nie używasz to nadaje się to do
@@ -340,7 +340,7 @@ zmiany. Na koniec warto zadbać o unifikację i standaryzację podejścia, gdyż
 każde działanie odbiegające od wytyczonych reguł powoduje w dalszej perspektywie
 stratę na wielu płaszczyznach.
 
-### Tackling technical debt in the docs - Louise Fahey
+#### Tackling technical debt in the docs - Louise Fahey
 
 Ostatnia prezentacja, o której chcemy wspomnieć mówiła o radzeniu sobie z
 długiem technicznym, przez co wpisywała się w nurt wystąpień inspirowanych prozą
@@ -374,14 +374,14 @@ dokumentacyjnego do backlogu R&D. Na koniec warto pokusić się o pochwalenie si
 rezultatami i zaplanować działania mające na celu utrzymywanie jakości na
 wysokim poziomie.
 
-## Wydarzenia towarzyszące
+### Wydarzenia towarzyszące
 
 Elementami, które wyróżniają WTD na tle innych konferencji (oprócz widowni o
 bardzo zróżnicowanym profilu zawodowym) są bez wątpienia wydarzenia
 towarzyszące. Niektóre z nich mają charakter czysto rozrywkowy, inne dodają dużą
 merytoryczną wartość do całości. Oto one.
 
-### Unconference
+#### Unconference
 
 Równolegle do głównego nurtu konferencji toczyła się seria spotkań o nazwie
 Unconference. W założeniu są to nie tylko dyskusje grupowe, ale również
@@ -395,7 +395,7 @@ wypełniony rozmaitymi zagadnieniami.
 
 [![](images/image4-1024x768.png)](http://techwriter.pl/wp-content/uploads/2019/04/image4.png)
 
-### Monday Night Social
+#### Monday Night Social
 
 Niewątpliwą atrakcją WTD jest impreza konferencyjna. Jak co roku organizatorzy
 postarali się o świetnie dobrane miejsce, pyszne jedzenie i wyjątkowe drinki.
@@ -403,7 +403,7 @@ Można było nawiązać bardzo ciekawe kontakty z nieprzeciętnymi ludźmi.
 
 [![](images/image7-707x1024.png)](http://techwriter.pl/wp-content/uploads/2019/04/image7.png)
 
-### Lightning talks
+#### Lightning talks
 
 Czymś co bardzo przypadło nam do gustu były lightning talks - krótkie,
 5-minutowe wystąpienia (praktycznie bez przygotowania) na głównej scenie. Każdy
@@ -420,7 +420,7 @@ tematyce związanej z dokumentacją.
 
 https://twitter.com/writethedocs/status/1039133977238482949
 
-### Job fairs
+#### Job fairs
 
 Nowością na WTD w 2018 były targi pracy. Było to rozszerzenie powstałego również
 w ubiegłym roku na stronie społeczności
@@ -428,7 +428,7 @@ w ubiegłym roku na stronie społeczności
 że wydarzenie cieszyło się sporym zainteresowaniem i z pewnością inicjatywa
 będzie kontynuowana.
 
-### Badge Flair
+#### Badge Flair
 
 Kolejny raz miał też miejsce konkurs na najlepiej udekorowany konferencyjny
 badge. Organizatorzy udostępnili kolorowe nalepki i etykietki, dzięki którym
@@ -438,7 +438,7 @@ każdy chętny mógł stworzyć swojego niepowtarzalnego badge’a.
 
 https://twitter.com/JanHalacek/status/1039428757747101696
 
-## Podsumowanie
+### Podsumowanie
 
 Niepostrzeżenie konferencja Write the Docs Prague 2018 dobiegła końca. Kolejny
 raz jesteśmy nasyceni treścią wystąpień i tematyką rozmów warsztatowych. Główne

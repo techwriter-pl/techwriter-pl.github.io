@@ -29,7 +29,7 @@ Wszakże od przybytku głowa nie boli. Spróbujmy zatem przyjrzeć się temu
 zagadnieniu w kontekście aspektów powiązanych z dostarczeniem i odbiorem
 dokumentacji technicznej.
 
-### Dostępność offline czy online?
+#### Dostępność offline czy online?
 
 Ale jak to offline, kiedy wszystko dzisiaj odbywa się w Sieci? — zapytacie.
 Wbrew pozorom dostęp do treści technicznej poza zasięgiem Internetu może być
@@ -71,7 +71,7 @@ klienta wynagradza wszystkie tech writerów znoje, czyż nie?
 Przy doborze odpowiedniego formatu może pomóc wzięcie kilku kryteriów opisanych
 poniżej.
 
-### Personalizacja
+#### Personalizacja
 
 Skoro już o zadowolonym kliencie mowa, to dobrze jest wziąć pod uwagę to, w
 jakim zakresie użytkownik dostarczanej przez nas dokumentacji technicznej może
@@ -105,7 +105,7 @@ odbiorców z niepełnosprawnościami, wbudować mechanizm dodawania zakładek, c
 też zadbać o dobrą wyszukiwarkę. Możliwości jest co nie miara. A zaletą jest to,
 że dostępność i mnogość takich funkcjonalności zależy wyłącznie od nas.
 
-### Przeszukiwanie i przeglądanie
+#### Przeszukiwanie i przeglądanie
 
 W przypadku przeszukiwania i przeglądania treści, oba formaty właściwie idą łeb
 w łeb (czy jak ktoś woli — nagłówek w nagłówek). W przypadku PDF-ów korzystamy z
@@ -136,7 +136,7 @@ konieczności przełączania się pomiędzy nawet dwoma PDF-ami istnieje ryzyko
 pogubienia się. A gdzie w tym wszystkim miejsce na jakąkolwiek radość z czytania
 i konfigurowania?
 
-### Przystępność
+#### Przystępność
 
 Skoro już zahaczamy o tematykę interakcji i wygody użytkownika przy konsumpcji
 dokumentacji technicznej, warto też zastanowić się, jak format tej treści wpływa
@@ -171,7 +171,7 @@ Z drugiej jednak strony to z wydrukowaną instrukcją łatwiej podejść do prod
 Nie wyobrażamy sobie raczej też możliwości składania mebli przy użyciu
 instrukcji przeglądanej na telefonie lub tablecie.
 
-### Przechowywanie
+#### Przechowywanie
 
 Oba formaty dobrze czują się w kwestii przechowywania — plik PDF opatrzony
 odpowiednią rewizją lub paczka ZIP zawierająca dokumentację HTML z odpowiednią
@@ -187,7 +187,7 @@ dostęp do pomocy technicznej, a w przypadku formatu dostępnego offline, jaką
 wersję dokumentacji należy pobrać. Jest to praktyka dość popularna i pewnie
 każdy z nas miał już możliwość taką procedurę wykonać.
 
-### Poprawki i aktualizacja
+#### Poprawki i aktualizacja
 
 Unowocześnianie i wprowadzanie poprawek jest jednym z istotniejszych etapów
 życia każdego dokumentu technicznego. Zdecydowanie na tym poletku wygrywa
@@ -207,7 +207,7 @@ nośniku danych, warto na samym początku takiego dokumentu poinsutrować odbior
 aby sprawdził czy nie istnieje jakaś nowsza wersja dokumentu, z którego ma
 zamiar skorzystać.
 
-### Podsumowanie
+#### Podsumowanie
 
 Trudno o jednoznaczną odpowiedź na pytania postawione we wstępie. Forma końcowa
 dokumentacji jest niejako powiązana ze specyfiką opisywanego produktu, sposobem

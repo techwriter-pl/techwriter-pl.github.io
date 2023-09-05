@@ -19,7 +19,7 @@ spędzić wolny czas.
 
 <!--truncate-->
 
-## Sarah O'Keefe i spółka
+### Sarah O'Keefe i spółka
 
 Czyli [Scriptorium Publishing](http://www.scriptorium.com/). Firma składająca
 się z ekspertów w dziedzinie tworzenia treści, działająca od 1997 roku. Być może
@@ -60,7 +60,7 @@ poniżej kilka, oczywiście darmowych, aplikacji do jego odczytu:
 - [Adobe Digital Editions](http://www.adobe.com/pl/products/digital-editions/download.html)
 - [Calibre](http://calibre-ebook.com/)
 
-## Automatyzacja w natarciu
+### Automatyzacja w natarciu
 
 Również podczas konferencji
 [LavaCon w Dublinie](http://lavacon.org/2016/dublin/), wzięliśmy udział w

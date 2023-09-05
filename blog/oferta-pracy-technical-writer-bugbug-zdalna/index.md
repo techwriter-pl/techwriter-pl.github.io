@@ -28,7 +28,7 @@ pawel.bylina\[at\]bugbug.io
 
 ---
 
-### Technical Writer
+#### Technical Writer
 
 Poszukujemy do stałej wspołpracy osoby, która wesprze nas w pisaniu treści
 technicznych o naszym produkcie.

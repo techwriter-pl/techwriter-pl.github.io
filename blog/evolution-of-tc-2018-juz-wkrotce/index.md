@@ -18,7 +18,7 @@ znajdziecie garść najważniejszych informacji.
 
 <!--truncate-->
 
-### O Evolution of TC 2018
+#### O Evolution of TC 2018
 
 Evolution of TC zostało zapoczątkowane w 2010 roku przez członków grupy, w
 której centrum zainteresowania była, i jest, komunikacja techniczna. Od 2015
@@ -34,7 +34,7 @@ warsztatach. Tematyka jest zazwyczaj dość obszerna i bazuje na najnowszych
 trendach w tech commie. W tym roku motywem przewodnim konferencji są nowinki w
 dokumentacji oprogramowania.
 
-### Czego się spodziewać?
+#### Czego się spodziewać?
 
 Podczas wystąpień tegorocznej edycji międzynarodowa grupa specjalistów przybliży
 nam nowe rozwiązania, które wkrótce mogą być codziennością dla osób związanych z
@@ -52,17 +52,17 @@ Program konferencji jest tak opracowany, by poruszyć następujące tematy:
 - Writing standards
 - Content strategy.
 
-### Dla kogo?
+#### Dla kogo?
 
 W centrum zainteresowania organizatorów są profesjonaliści związani z branżą
 komunikacji technicznej, którzy chcą się doszkolić, a jednocześnie podzielić się
 z innymi swoją wiedzą.
 
-### Termin
+#### Termin
 
 Konferencja odbędzie się w dniach 31 maja - 1 czerwca 2018 roku.
 
-### Miejsce
+#### Miejsce
 
 ![](images/csm_2018-03-06_Novotel_Sofia_660_pix_b6b3dadeb5-e1523802045908.jpg)
 
@@ -74,7 +74,7 @@ Starego Miasta czy Teatru Narodowego.
 
 ![](images/csm_2018-03-06_Novotel_Mezzanine_800_pix_3ec94ccde1-e1523802078951.jpg)
 
-### Program
+#### Program
 
 Wstępny program konferencji jest już dostępny, mamy zatem wgląd w to, co będzie
 się działo i już teraz możemy zdecydować w czym weźmiemy udział. Zwróćcie uwagę,
@@ -105,7 +105,7 @@ lunch, a patrząc na legendę opisującą oznaczenia w programie, czeka nas jesz
 impreza oraz uroczyste zamknięcie. Możliwe więc, że program wydarzenia nie jest
 jeszcze w pełni zamknięty.
 
-### Ceny
+#### Ceny
 
 Poniżej przedstawiamy ceny wejściówek na konferencję:
 
@@ -124,7 +124,7 @@ stronie rejestracji, którą znajdziecie
 Dla Czytelników chcących wziąć udział w konferencji mamy kod rabatowy dający
 **10% zniżki**. W formularzu rejestracji wystarczy wpisać **18ETC20.**
 
-### Dlaczego warto wziąć udział?
+#### Dlaczego warto wziąć udział?
 
 Naszym zdaniem jest kilka powodów, dla których warto wziąć udział w Evolution of
 TC 2018. Po pierwsze, międzynarodowi eksperci oraz tematyka konferencji pozwolą

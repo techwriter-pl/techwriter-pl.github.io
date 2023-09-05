@@ -21,7 +21,7 @@ komunikacji wizualnej.
 
 [![](images/upload_409-300x80.png)](http://techwriter.pl/wp-content/uploads/2021/09/upload_409.png)
 
-## Temat
+### Temat
 
 Firma Tech Smith organizuje **darmowy**
 [webinar](https://discover.techsmith.com/level-up-eastern-time/) o nazwie "Level
@@ -50,20 +50,20 @@ interesujące wydają mi się tematy:
 
 [![](images/upload_411-300x200.png)](http://techwriter.pl/wp-content/uploads/2021/09/upload_411.png)
 
-## Kiedy
+### Kiedy
 
 Obie sesje odbywają się **5 października 2021**.
 
-### Sesja 1
+#### Sesja 1
 
-## [![](images/upload_413-300x201.png)](http://techwriter.pl/wp-content/uploads/2021/09/upload_413.png)
+### [![](images/upload_413-300x201.png)](http://techwriter.pl/wp-content/uploads/2021/09/upload_413.png)
 
 12:00 - 16:00 czasu polskiego.
 
 [Link](https://discover.techsmith.com/level-up-eastern-time/?utm_source=lead&utm_medium=email&utm_content=levelup&utm_campaign=brandexp&spMailingID=70609590&spUserID=MzY2MzgxMDgxODQ5S0&spJobID=2201629015&spReportId=MjIwMTYyOTAxNQS2)
 do rejestracji.
 
-### Sesja 2
+#### Sesja 2
 
 [![](images/upload_414-300x200.png)](http://techwriter.pl/wp-content/uploads/2021/09/upload_414.png)
 

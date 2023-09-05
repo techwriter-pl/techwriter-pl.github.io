@@ -18,12 +18,12 @@ garść najważniejszych informacji.
 
 <!--truncate-->
 
-## Termin i miejsce
+### Termin i miejsce
 
 Konferencja odbędzie się w dniach 31 maja – 1 czerwca 2018 roku w stolicy
 Bułgarii, Sofii.
 
-## Rejestracja i ceny
+### Rejestracja i ceny
 
 Do wyboru pozostały jeszcze bilety w cenach:
 
@@ -40,12 +40,12 @@ Przypominamy, że dla naszych Czytelników, chcących wziąć udział w konferen
 obowiązuje kod rabatowy dający **10% zniżki**. W formularzu rejestracji
 wystarczy wpisać **18ETC20.**
 
-## Program - ciekawostki
+### Program - ciekawostki
 
 Na stronie konferencji jest już dostępny
 [pełny program](https://evolution-of-tc.com/program-2018/) wydarzenia.
 
-### Dzień pierwszy
+#### Dzień pierwszy
 
 Rozpoczęcie zaplanowane jest na 8:30 rano, a zakończenie przewidywane jest ok.
 17:30. W trakcie całego dnia czeka nas w sumie 12 prezentacji, podczas których
@@ -65,7 +65,7 @@ uczestników i są to:
    ustrukturyzowany model tworzenia treści z pisaniem jej bez konkretnego modelu
    oraz pokaże dlaczego lepiej jest wybrać pierwszą z omawianych ścieżek.
 
-### Dzień drugi
+#### Dzień drugi
 
 Rozpoczęcie również o 8:30, jednak prawdopodobne zakończenie przewidywane jest o
 14:30. Jest to dzień, w którym czeka Was nieco więcej pracy. Organizatorzy

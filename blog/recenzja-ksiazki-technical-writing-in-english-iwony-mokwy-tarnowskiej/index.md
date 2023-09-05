@@ -18,7 +18,7 @@ Jest to, można by rzec, biały kruk, bo książek polskiego autorstwa o komunik
 technicznej jest jak na lekarstwo. Dlatego tym bardziej zachęcamy Was do lektury
 tej recenzji.
 
-# Kilka słów o autorce
+## Kilka słów o autorce
 
 Aspirujący Technical Writer. Od 2011 związana z branżą IT od strony
 administracyjnej, jako ekspert od porządkowania wszystkiego w tabele i
@@ -36,7 +36,7 @@ na: [milena@milush.pl](mailto:milena@milush.pl).
 
 [![](images/milena.jpg)](http://techwriter.pl/wp-content/uploads/2019/05/milena.jpg)
 
-# Recenzja książki "Technical Writing in English" Iwony Mokwy-Tarnowskiej
+## Recenzja książki "Technical Writing in English" Iwony Mokwy-Tarnowskiej
 
 O książce “Technical Writing in English” przeczytałam na
 [techwriter.pl](http://techwriter.pl/technical-writing-w-polskim-wydaniu/) na
@@ -70,7 +70,7 @@ Dużym plusem książki, jeśli chodzi o język, jest konstrukcja tekstu: proste
 konkretne zdania oraz unikanie frazeologizmów czy potocznych zwrotów, z którymi
 z kolei często można się spotkać w literaturze angielskojęzycznych autorów.
 
-## Struktura książki
+### Struktura książki
 
 Publikacja składa się z 5 rozdziałów oraz materiałów uzupełniających, m.in.
 wspomnianego słownika, a także rozwiązań do niektórych ćwiczeń. Z perspektywy
@@ -98,7 +98,7 @@ teksty techniczne na potrzeby naukowe czy akademickie. Podane tutaj zasady
 cytowania, tworzenia przypisów, odwołań czy bibliografii w szczególności
 przeznaczone są dla piszących prace dyplomowe bądź skrypty naukowe.
 
-## Czy Technical Writer może znaleźć w tej książce coś dla siebie?
+### Czy Technical Writer może znaleźć w tej książce coś dla siebie?
 
 Jeśli miałabym określić książkę ”Technical Writing in English”  w paru słowach i
 zgodnie z pierwszym odczuciem to określiłabym ją jako podręcznik języka

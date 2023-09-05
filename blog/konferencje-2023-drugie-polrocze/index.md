@@ -22,7 +22,7 @@ Jak zawsze, będę śledzić zmiany i uzupełniać dane w miarę ich pojawiania 
 Was mam prośbę – jeśli wiecie o jakimś wydarzeniu związanym z branżą komunikacji
 technicznej, o którym nie wspomniałam, dajcie znać, a ja przekażę info dalej 😉
 
-## Czerwiec
+### Czerwiec
 
 **01-03 czerwca, Kraków, Polska – [soap! 2023](https://soapconf.com/) – online &
 in-person**
@@ -54,7 +54,7 @@ online
 27-29 czerwca, Raleigh, Karolina Północna, USA –
 [The Training Industry Conference & Expo (TICE)](https://tice.trainingindustry.com/event/fad6d949-9a06-49b7-81d3-60f2bbe170bd/summary)
 
-## Lipiec
+### Lipiec
 
 15-17 lipca, Porto, Portugalia –
 [17th International Conference on e-Learning and Digital Learning](https://www.elearning-conf.org/)
@@ -73,7 +73,7 @@ online
 [Balisage: The Markup Conference 2023](https://www.balisage.net/index.html) –
 online
 
-## Sierpień
+### Sierpień
 
 22-25 sierpnia, Sydney, Australia –
 [UX Australia 2023](https://uxaustralia.com.au/conferences/ux-australia-2023) –
@@ -82,7 +82,7 @@ online & in-person
 22-25 sierpnia, Limerick, Irlandia –
 [DocEng 2023](https://doceng.org/doceng2023)
 
-## Wrzesień
+### Wrzesień
 
 10-12 września –
 [Write the Docs Atlantic 2023](https://www.writethedocs.org/conf/atlantic/2023/)
@@ -109,7 +109,7 @@ online
 [Konferencja Tłumaczy 2023](https://konferencja-tlumaczy.pl/) – online &
 in-person**
 
-## Październik
+### Październik
 
 04-06 października, Salt Lake City, Utah, USA –
 [TAUS Annual Conference 2023](https://www.taus.net/events/conferences/annual-conference-2023)
@@ -138,7 +138,7 @@ in-person**
 26-28 października, Orlando, Floryda, USA –
 [SIGDOC'23](https://sigdoc.acm.org/event/sigdoc-23/)
 
-## Listopad
+### Listopad
 
 01-04 listopada, Ottawa, Kanada – [CanUX 2023](https://canux.io/)
 
@@ -151,7 +151,7 @@ in-person**
 
 14-16 listopada, TBC – [UXDX APAC 2023](https://uxdx.com/apac/2023/) – online
 
-## Grudzień
+### Grudzień
 
 07-08 grudnia, Melbourne, Australia –
 [Write the Docs Australia 2023](https://www.writethedocs.org/conf/australia/2023/)

@@ -25,7 +25,7 @@ Poniżej przedstawiamy naszą "skondensowaną" wersję 😊
 
 <!--truncate-->
 
-## Stwórz listę kontrolną
+### Stwórz listę kontrolną
 
 Wielu programistów i kierowników nie ma doświadczenia w sprawdzaniu dokumentacji
 pod kątem merytorycznym. Poniższe punkty warto zawrzeć w liście kontrolnej, żeby
@@ -36,7 +36,7 @@ sprawdzający wiedzieli co mają robić:
 - Sprawdź dokładność wszystkich opisanych kroków.
 - Sprawdź dokładnośc wszystkich zrzutów ekranu.
 
-## Zbuduj poczucie odpowiedzialności
+### Zbuduj poczucie odpowiedzialności
 
 Jednym z powodów dla których recenzje merytoryczne są lekceważone jest brak
 poczucia odpowiedzialności. Takie poczucie można zbudować w następujący sposób:
@@ -48,7 +48,7 @@ poczucia odpowiedzialności. Takie poczucie można zbudować w następujący spo
 - Przypisz konkretne osoby do recenzji dokumentacji w trakcie planowania
   projektu.
 
-## Podnieś poprzeczkę dokumentalistom
+### Podnieś poprzeczkę dokumentalistom
 
 Ile firm, tyle definicji zawodu Technical Writera. Nie zmienia to jednak faktu,
 że osoby piastujące takie stanowisko muszą mieć swój udział w dokładności
@@ -78,7 +78,7 @@ do technologii, którą opisują:
   Javie, zachęcaj dokumentalistów do poszerzania wiedzy na temat programowania w
   tym języku.
 
-## Określ priorytety dla kluczowych programistów
+### Określ priorytety dla kluczowych programistów
 
 Zazwyczaj w stadzie programistów znajduje się jakiś "osobnik alfa", który
 posiada obszerną wiedzę na temat całego projektu, ale ma na głowie sporo rzeczy,

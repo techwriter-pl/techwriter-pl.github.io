@@ -18,7 +18,7 @@ wielka magia tkwi w słowach.
 
 <!--truncate-->
 
-### “Jeśli zajmujesz się pisaniem, to jesteś pisarzem.”
+#### “Jeśli zajmujesz się pisaniem, to jesteś pisarzem.”
 
 Zdaniem Joanny Wryczy-Bekier, autorki książki “Magia słów. Jak pisać teksty,
 które porwą tłumy” każdy, kto zajmuje się pisaniem może uznać się za pisarza.
@@ -28,7 +28,7 @@ tworzymy teksty, gdyż ogromna część dobrych praktyk jest uniwersalna. Dlateg
 adresatem omawianej pozycji może być każdy, dla kogo ważne jest by pisać
 poprawnie, ciekawie, zrozumiale, a przede wszystkim, na temat.
 
-### Co znajdziemy w książce?
+#### Co znajdziemy w książce?
 
 Przede wszystkim mnóstwo konkretów. Joanna Wrycza-Bekier dzieli się z
 czytelnikiem ogromną wiedzą na temat umiejętności pisarskich, które zdobyła jako
@@ -64,7 +64,7 @@ zachęcić do pozostania na dłużej ze swoim dziełem. A jak się okazuje, to
 używając odpowiednio magii zawartej w słowach, nawet niezbyt porywający temat
 może okazać się interesujący.
 
-### Czy jest to książka dla mnie?
+#### Czy jest to książka dla mnie?
 
 Tak, jeśli zajmujesz się pisaniem i chcesz to robić dobrze. Jak już
 wspomnieliśmy autorka kieruje swój poradnik do wszystkich tych, którzy piszą -

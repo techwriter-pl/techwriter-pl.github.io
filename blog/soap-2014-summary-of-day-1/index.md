@@ -22,7 +22,7 @@ during the first day of [the soap! 2014 conference](http://soapconf.com/).
 
 [![soap! 2014 audience](images/DSC6686-1024x489.jpg)](http://techwriter.pl/wp-content/uploads/2014/10/DSC6686.jpg)
 
-## Games not only for kids
+### Games not only for kids
 
 The honour of warming up the audience fell to
 [Monika Konieczny](http://soapconf.com/speakers/). She started her presentation
@@ -59,7 +59,7 @@ the well-known Clippy from MS Office, and the
 
 [![SoapMonikaKonieczny](images/SoapMonikaKonieczny.jpg)](http://techwriter.pl/wp-content/uploads/2014/10/SoapMonikaKonieczny.jpg)
 
-## Plenty is sometimes a plague
+### Plenty is sometimes a plague
 
 As we were told by [Kasia Mrowca](http://soapconf.com/speakers/), the same is
 the case for a surplus of functions in an application. Clients always want to
@@ -84,7 +84,7 @@ want to have the application immediately.
 
 [![SoapKasiaMrowca](images/SoapKasiaMrowca.jpg)](http://techwriter.pl/wp-content/uploads/2014/10/SoapKasiaMrowca.jpg)
 
-## Learning by entertaining
+### Learning by entertaining
 
 E-learning, like life, is all about choices. Not to waste words,
 [Sabina Misiarz-Filipek](http://soapconf.com/speakers/) started her presentation
@@ -112,7 +112,7 @@ situations that we can encounter in everyday life.
 
 [![SoapSabinaMisiarzFilipek](images/SoapSabinaMisiarzFilipek.png)](http://techwriter.pl/wp-content/uploads/2014/10/SoapSabinaMisiarzFilipek.png)
 
-## The power of the diagram
+### The power of the diagram
 
 It has long been known that “a picture is worth a thousand words.” This old
 truth was demonstrated by [Kevin Duncan](http://soapconf.com/speakers/), who
@@ -141,7 +141,7 @@ isn't out of place during a presentation 😉
 
 [![SoapKevinDuncan](images/SoapKevinDuncan.jpg)](http://techwriter.pl/wp-content/uploads/2014/10/SoapKevinDuncan.jpg)
 
-## Valuable experience
+### Valuable experience
 
 Unfortunately, the last presentation wasn’t utterly clear, at least for us.
 [Rajeev Kumar Tiwari and Rajesh Khurana](http://soapconf.com/speakers/) couldn’t

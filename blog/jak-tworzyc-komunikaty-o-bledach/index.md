@@ -34,12 +34,12 @@ tego wpisu). Są one skierowane zarówno do dokumentalistów jak i programistów
 
 <!--truncate-->
 
-## Definicja
+### Definicja
 
 Komunikat o błędzie (error message) to informacja o tym co powoduje, że
 użytkownik lub system nie są w stanie wykonać zadania.
 
-## Treść
+### Treść
 
 Dobrze skonstruowany komunikat powinien zawierać takie informacje:
 
@@ -50,7 +50,7 @@ Dobrze skonstruowany komunikat powinien zawierać takie informacje:
 Ogólnie, komunikat powinien zawierać na tyle dużo informacji o problemie, żeby
 użytkownik mógł go sam rozwiązać.
 
-## Typy
+### Typy
 
 Komunikaty o błędach można podzielić na cztery kategorie:
 
@@ -59,7 +59,7 @@ Komunikaty o błędach można podzielić na cztery kategorie:
 - Potwierdzenie (Confirmation)
 - Powiadomienie (Notification)
 
-## Zasady
+### Zasady
 
 Tworząc komunikaty kieruj się poniższymi wytycznymi:
 
@@ -75,7 +75,7 @@ Tworząc komunikaty kieruj się poniższymi wytycznymi:
 - Używaj prostego języka (spójnego, bez niepotrzebnych słów) i zrozumiałej
   terminologii.
 
-## Popularne błędy
+### Popularne błędy
 
 Unikaj poniższych błędów:
 
@@ -93,7 +93,7 @@ Unikaj poniższych błędów:
   myśli.
 - Unikaj zwrotów, które mogą zostać uznane za obraźliwe w niektórych kulturach.
 
-## Jak tworzyć lepsze komunikaty?
+### Jak tworzyć lepsze komunikaty?
 
 Nasze komunikaty mogą być jeszcze bardziej przyjazne dla użytkowników jeśli
 będziemy trzymać się poniższych zasad:
@@ -109,7 +109,7 @@ będziemy trzymać się poniższych zasad:
   takiej osoby, powierz to zadanie komuś kto najlepiej radzi sobie z pisaniem
   tekstów.
 
-## Proces tworzenia komunikatów
+### Proces tworzenia komunikatów
 
 Komunikaty błędów można tworzyć w następujący sposób:
 
@@ -129,7 +129,7 @@ Komunikaty błędów można tworzyć w następujący sposób:
 - Przeprowadzaj testy akceptacyjne na komunikatach.
 - Okresowo sprawdzaj komunikaty.
 
-## Dobre praktyki
+### Dobre praktyki
 
 Tworząc komunikaty
 
@@ -158,7 +158,7 @@ Tworząc komunikaty
 - Zapisuj błędy krytyczne w dzienniku zdarzeń.
 - Zapisuj osobne komunikaty o błędach dla każdego znanego problemu.
 
-## Co na to koledzy Billa?
+### Co na to koledzy Billa?
 
 Microsoft zaleca następujące rzeczy:
 

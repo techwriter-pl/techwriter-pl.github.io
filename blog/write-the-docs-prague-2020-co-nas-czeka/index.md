@@ -19,7 +19,7 @@ Poniżej znajdziecie garść najważniejszych informacji na jej temat.
 
 <!--truncate-->
 
-### Co, gdzie i kiedy?
+#### Co, gdzie i kiedy?
 
 W tym roku, z uwagi na panującą wciąż pandemię, konferencja odbędzie się w
 formacie online w dniach **18 – 20 października**. Organizatorzy postarali się
@@ -48,7 +48,7 @@ udział są dostępne
 które tematy najbardziej Was zaciekawiły 🙂Poniżej przedstawiamy kilka
 wystąpień, które najbardziej zainteresowały nas.
 
-### Prelekcje - subiektywny wybór
+#### Prelekcje - subiektywny wybór
 
 Wiadomo już, że podczas dwóch dni konferencji odbędzie się 16 prelekcji.
 Poniższe tematy szczególnie zwróciły naszą uwagę.
@@ -95,7 +95,7 @@ zapraszamy do naszych relacji z poprzednich edycji konferencji:
 - [Write the Docs Prague 2017](http://techwriter.pl/write-the-docs-prague-2017-relacja/)
 - [Write the Docs Europe 2016](http://techwriter.pl/write-the-docs-europe-2016-relacja/)
 
-### Rodzaje i ceny biletów
+#### Rodzaje i ceny biletów
 
 Osoby zainteresowane kupnem wejściówek odsyłamy
 [tutaj](https://www.writethedocs.org/conf/prague/2020/tickets/), gdzie

@@ -18,7 +18,7 @@ wielu stycznych, to jednak zupełnie odmienne zawody.
 
 <!--truncate-->
 
-### A gdyby tak był plebiscyt na najlepszą dokumentację techniczną?
+#### A gdyby tak był plebiscyt na najlepszą dokumentację techniczną?
 
 Wydawać by się mogło, że skoro żaden produkt nie może obyć się bez
 najdrobniejszego kawałka papieru z treścią techniczną, to w każdym plebiscycie
@@ -33,7 +33,7 @@ podchodząca z prośbą o autograf osoba wspomina nam ze wzruszeniem i łzami w
 oczach, że procedura dotycząca ustawiania programu wyłącznego wirowania zmieniła
 totalnie życie calej rodziny.
 
-### Dokumentalista i pisarz to nie to samo?
+#### Dokumentalista i pisarz to nie to samo?
 
 Postrzeganie zawodu techwritera przez osoby postronne czasami jest takie, że
 dokumentalista to osoba, która, podobnie jak autor/ka książek, wpada w wir

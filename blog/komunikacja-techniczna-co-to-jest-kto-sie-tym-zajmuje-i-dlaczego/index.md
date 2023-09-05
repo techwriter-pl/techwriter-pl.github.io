@@ -18,7 +18,7 @@ Stosunkowo rzadko zajmujemy się podstawami: czym jest komunikacja techniczna i
 do czego jest nam potrzebna? Postanowiliśmy odświeżyć ten temat, nasz przewodnik
 po temacie znajdziecie poniżej.
 
-### Komunikacja techniczna - definicja
+#### Komunikacja techniczna - definicja
 
 W Polsce funkcjonuje pojęcie “komunikacja techniczna”, jednak nie doczekało się
 ono chyba jeszcze formalnej definicji - w potocznym rozumieniu jest to
@@ -57,7 +57,7 @@ osobom, chcącym osiągnąć konkretny efekt swojego działania. Należą do nie
 - technical training,
 - technical translation.
 
-### Kto realizuje cele komunikacji technicznej?
+#### Kto realizuje cele komunikacji technicznej?
 
 Jak już wspominaliśmy wyżej, tworzenie dokumentacji spełniającej założenia
 komunikacji technicznej czyli jasnej, użytecznej, a do tego przystępnej w
@@ -80,7 +80,7 @@ tworzenia treści koncentrujesz się na odbiorcy swego dzieła, a do tego
 interesujesz się technologią, to może komunikacja techniczna jest branżą właśnie
 dla Ciebie?
 
-### Po co nam komunikacja techniczna
+#### Po co nam komunikacja techniczna
 
 Głównym założeniem komunikacji technicznej jest tworzenie dokumentacji, która
 pozwoli użytkownikom na jak najlepsze korzystanie z posiadanych produktów.
@@ -113,7 +113,7 @@ konsekwencje mogą być kosztowne dla producenta, zarówno pod względem finanso
 jak i karnym. Twórcy dokumentacji technicznej mają zatem na swych barkach spory
 ciężar odpowiedzialności.
 
-### Jakie są jeszcze filary tworzące komunikację techniczną?
+#### Jakie są jeszcze filary tworzące komunikację techniczną?
 
 Poza bezpieczeństwem, komunikacja techniczna dostarcza szeregu reguł i norm,
 które mają na celu ustandaryzowanie przekazywanych informacji. Często są to

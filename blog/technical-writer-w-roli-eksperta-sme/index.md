@@ -31,7 +31,7 @@ ponieważ, w miarę zdobywania kolejnych doświadczeń, umiejętności i wiedzy
 wymaganej do stworzenia dokumentacji, mają okazję stać się cennymi ekspertami w
 danej dziedzinie.
 
-### Technical writer na tymczasowy kontrakt czy stale zatrudniony?
+#### Technical writer na tymczasowy kontrakt czy stale zatrudniony?
 
 Wiele firm, które szukają zewnętrznej pomocy technicznej w pisaniu projektów,
 oczekuje jedynie, że technical writer, którego wprowadzają na pokład, stanie się
@@ -56,7 +56,7 @@ jakość, użyteczność i przydatność tworzonej dokumentacji ulegnie poprawie
 Proces ten wymaga jednak sporo czasu i zaangażowania, zarówno ze strony
 pracownika, jak i pracodawcy.
 
-### Jak technical writerzy mogą zostać ekspertami w danej dziedzinie?
+#### Jak technical writerzy mogą zostać ekspertami w danej dziedzinie?
 
 Jeśli dana organizacja planuje kontynuować outsourcing swoich potrzeb związanych
 z pisaniem dokumentacji, dobrze byłoby rozważyć ponowne zatrudnienie tego samego
@@ -80,7 +80,7 @@ zapewne skrzętnie potwierdzą bardziej doświadczeni z nas, którzy mają konta
 marketingiem, działem produkcyjnym, prawnikami, grafikami, programistami,
 specjalistami od pozyskiwania danych i kto wie z kim jeszcze.
 
-### Od żółtodzioba do SME
+#### Od żółtodzioba do SME
 
 W trakcie trwania projektu dokumentacyjnego konieczne będzie, aby technical
 writerzy konsultowali się z inżynierami, programistami i innymi ekspertami w

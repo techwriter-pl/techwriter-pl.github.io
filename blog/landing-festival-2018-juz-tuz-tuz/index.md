@@ -20,7 +20,7 @@ poniżej.
 
 <!--truncate-->
 
-### Najważniejsze informacje w skrócie
+#### Najważniejsze informacje w skrócie
 
 Landing Festival 2018 to targi pracy połączone z licznymi prelekcjami oraz
 warsztatami dla osób z szeroko rozumianej branży IT. Odbędzie się on 14-15 marca

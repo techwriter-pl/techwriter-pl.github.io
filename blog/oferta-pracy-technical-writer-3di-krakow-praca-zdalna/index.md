@@ -46,7 +46,7 @@ we need your expertise to deliver it.
 3di have a team of around 40 with locations near Guildford, in Edinburgh, and in
 Kraków.
 
-##### Scope of responsibility for this position
+###### Scope of responsibility for this position
 
 - Be part of our growing, professional and relaxed team
 - Learn about new tools, processes, and subject matter
@@ -63,7 +63,7 @@ Kraków.
 - Get private medical insurance
 - Participate in a steady bonus and raise scheme
 
-##### What we expect from candidates
+###### What we expect from candidates
 
 - At least 1 year experience in technical writing
 - Fluent English and Polish
@@ -77,7 +77,7 @@ Kraków.
   as “how”
 - Talent for supporting and encouraging others
 
-##### What we see as an additional advantage in our candidates
+###### What we see as an additional advantage in our candidates
 
 - Experience working in an agile team
 - Knowledge of tech comm tools and practices

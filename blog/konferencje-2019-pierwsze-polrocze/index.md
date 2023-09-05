@@ -18,7 +18,7 @@ na pierwsze półrocze 2019 roku.
 
 <!--truncate-->
 
-## **Styczeń**
+### **Styczeń**
 
 10-13 stycznia, Tokio, Japonia – [IC4E 2019](http://www.ic4e.net/)
 
@@ -29,7 +29,7 @@ na pierwsze półrocze 2019 roku.
 [IDEAS Online Conference](https://ideas.infomanagementcenter.com/) –
 **konferencja online**
 
-## **Luty**
+### **Luty**
 
 3-8 lutego, Seattle, Waszyngton, USA –
 [interaction 19](https://interaction19.ixda.org/)
@@ -69,7 +69,7 @@ na pierwsze półrocze 2019 roku.
 28 lutego - 1 marca, Bangalore, Indie -
 [tcworld India 2019](https://tcworld-india.com/)
 
-## **Marzec**
+### **Marzec**
 
 4-6 marca, Seattle, Waszyngton, USA -
 [An Event Apart Seattle](https://aneventapart.com/event/seattle-2019)
@@ -126,7 +126,7 @@ zapraszamy!**
 30 marca - 5 kwietnia , Londyn, Wielka Brytania –
 [London UX Conference](https://www.nngroup.com/training/london/)
 
-## **Kwiecień**
+### **Kwiecień**
 
 5-6 kwietnia, Philadelphia, Pensylwania, USA –
 [CONDUIT 2019](https://www.stcpmc.org/conferences/conduit-2019/)
@@ -158,7 +158,7 @@ ponownie zostaliśmy patronem medialnym konferencji. Zapraszamy serdecznie!**
 30 kwietnia, Istambuł, Turcja -
 [TAUS Global Content Summit Istambul](https://www.taus.net/events/conferences/74-taus-global-content-summit-istanbul)
 
-## **Maj**
+### **Maj**
 
 5-8 maja, Denver, Kolorado, USA –
 [Technical Communication Summit 2019](https://summit.stc.org/)
@@ -178,7 +178,7 @@ ponownie zostaliśmy patronem medialnym konferencji. Zapraszamy serdecznie!**
 
 30-31 maja, Shanghai, Chiny – [tcworld China](http://tcworld-china.cn/)
 
-## **Czerwiec**
+### **Czerwiec**
 
 4-5 czerwca, Sofia, Bułgaria -
 [Evolution of TC 2019](https://evolution-of-tc.com/)

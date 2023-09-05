@@ -26,7 +26,7 @@ prezentacji w kolejności chronologicznej oraz linki do streszczeń:
 
 <!--truncate-->
 
-## Dzień 1
+### Dzień 1
 
 _"Influ­enc­ing with­out ‘real’ author­ity" - Haydn Thomas (Con­sul­tant,
 Mindavation)_
@@ -48,7 +48,7 @@ _"Repco and DITA – a case study" - Gareth Oakes (Chief archi­tect, Global
 Pub­lish­ing Solu­tions (GPSL))_
 [Streszczenie](http://ffeathers.wordpress.com/2014/10/17/repco-and-dita-at-astc-nsw-2014/)
 
-## Dzień 2
+### Dzień 2
 
 _"Con­tent Strat­egy: How to get it, how to test it?" - Carol Bar­num (Found­ing
 part­ner and Direc­tor of Research, UXFirm, USA)_
@@ -76,7 +76,7 @@ Weaver (Tech­ni­cal com­mu­ni­ca­tor and project man­ager, Melbourne)_
 _"Using dia­grams to improve your writ­ing (and be hap­pier and live longer)" -
 Dr Daniel Moody (Direc­tor, OZe­man­tics Pty Ltd)_
 
-## Podsumowanie
+### Podsumowanie
 
 W ostatnim
 [artykule](http://ffeathers.wordpress.com/2014/10/19/astc-nsw-conference-2014-wrapup/)

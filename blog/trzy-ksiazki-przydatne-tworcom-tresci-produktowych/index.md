@@ -18,7 +18,7 @@ autor tego wpisu gościnnego.
 
 <!--truncate-->
 
-# Kilka słów o autorze
+## Kilka słów o autorze
 
 [![](images/waleksander-foto-300x200.jpg)](http://techwriter.pl/wp-content/uploads/2019/01/waleksander-foto.jpg)Wojtek
 Aleksander to trener UX writing, projektant i strateg treści. Budowanie
@@ -38,7 +38,7 @@ odrabia z dziećmi lekcje. Z Wojtkiem możecie się skontakować na
 [Twitterze](https://twitter.com/inherentq) lub
 [jego stronie](https://www.waleksander.design/kontakt.html).
 
-# Trzy książki przydatne twórcom treści produktowych
+## Trzy książki przydatne twórcom treści produktowych
 
 Tworzenie treści w produktach cyfrowych jeszcze do niedawna traktowane było
 nieco po macoszemu, jeśli patrzeć na ofertę księgarską. Co prawda, wpisów na
@@ -52,7 +52,7 @@ czasie kilka wybitnych pozycji. Jeśli chcesz się w tej dziedzinie pisania
 rozwijać albo postawić tu pierwsze kroki, sięgnij po trzy książki autorek
 rezydujących na trzech różnych krańcach świata (Wielka Brytania, USA, Izrael).
 
-## Sarah Richards - Content design
+### Sarah Richards - Content design
 
 Sarah Richards jest jedną z czołowych postaci dzisiejszego
 _[content designu](https://productvision.pl/2018/projektowanie-tresci/)_. Nie
@@ -114,7 +114,7 @@ zaszczepić odrobinę wrażliwości na to, co mówi się w usługach i interfejs
 Witryna książki:
 [https://contentdesign.london/book/](https://contentdesign.london/book/)
 
-## Erika Hall - Conversational design
+### Erika Hall - Conversational design
 
 Ta książka nie jest o projektowaniu chat botów! Konwersacyjność w dzisiejszym
 twitterverse i blogosferze zagarnięta została przez boty. Na szczęście Erika
@@ -163,7 +163,7 @@ ludziom na świecie obcowanie ze światem cyfrowym.
 Witryna książki:
 [https://abookapart.com/products/conversational-design](https://abookapart.com/products/conversational-design)
 
-## Kinneret Yifrah - Microcopy, the complete guide
+### Kinneret Yifrah - Microcopy, the complete guide
 
 UX writing to bardzo pożądana dziś kompetencja. Książka Kinneret jest wyśmienitą
 pozycją dla każdego, kto chce zacząć rozbudowywać lub usystematyzować wiedzę na

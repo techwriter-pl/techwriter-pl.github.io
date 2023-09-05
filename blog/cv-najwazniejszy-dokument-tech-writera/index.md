@@ -19,7 +19,7 @@ które mają pomagać użytkownikom.
 
 <!--truncate-->
 
-## Trzeba dobrze zacząć
+### Trzeba dobrze zacząć
 
 Najważniejsze jest pierwsze wrażenie, dlatego nasze CV musi od razu wzbudzać
 pozytywne odczucia. Estetyka, minimalizm i czytelność to cechy obowiązkowe. CV
@@ -28,7 +28,7 @@ musi mieć w sobie coś unikalnego, jakiś drobiazg, który zwróci uwagę rekru
 Życiorys przygotowany po linii najmniejszego oporu z tabulacją robioną spacjami
 w Wordzie nie jest na pewno tym czego oczekuje od nas przyszły przełożony.
 
-## Nie każdy lubi kwiatki
+### Nie każdy lubi kwiatki
 
 A w szczególności te językowe. Wiadomo, że poprawność językowa jest wskazana w
 przypadku każdego CV. Jednak o ile pewne rzeczy mogą nam zostać wybaczone kiedy
@@ -48,7 +48,7 @@ CV w języku angielskim, polecamy
 na stronie "The Telegraph" przedstawiający pierwszą dziesiątkę słów, w których
 najczęściej zdarzają się literówki.
 
-## Tylko geniusz panuje nad chaosem
+### Tylko geniusz panuje nad chaosem
 
 A właściwie powinniśmy napisać, że geniusz i Tech Writer. Nasze CV musi być
 zorganizowane w sposób przejrzysty i logiczny. Poszczególne sekcje
@@ -60,7 +60,7 @@ więc skoro nie potrafimy ogarnąć w sposób logiczny jednej czy dwóch stron, 
 raczej z długim i skomplikowanym podręcznikiem instalacji też będziemy mieć
 problemy.
 
-## DITA to nie afrykański krzew z gatunku Alstonia scholaris
+### DITA to nie afrykański krzew z gatunku Alstonia scholaris
 
 Co do znajomości narzędzi i technologii związanych z tworzeniem dokumentacji to
 zdania są podzielone (w zeszłym roku wyraziliśmy nawet swoją opinię w tym
@@ -86,7 +86,7 @@ Chociażby po to, żeby na pytanie o
 zacząć wywodu na temat właściwości leczniczych tego
 [krzewu](http://www.stuartxchange.org/Dita.html) 😉
 
-## Portfolio zawsze w cenie
+### Portfolio zawsze w cenie
 
 Próbki stworzonej przez nas dokumentacji są zawsze mile widziane. Jeśli jesteśmy
 w stanie je dostarczyć, to na pewno będzie to duży plus. Jednak nie zawsze mamy
@@ -123,7 +123,7 @@ PDF. Panie pracujące w kadrach niekoniecznie docenią takie nowatorskie
 rozwiązanie, dlatego może lepiej zachować je na dalsze etapy rekrutacji, dla
 osób, które będą sprawdzały naszą wiedzę i umiejętności.
 
-## Inicjatywa mile widziana
+### Inicjatywa mile widziana
 
 Nasze doświadczenie zawodowe, które nabywamy w trakcie pracy to jedna rzecz.
 Kolejna to nasza własna inicjatywa w zakresie robienia czegoś "ekstra". Wszelkie
@@ -136,7 +136,7 @@ dowiedzieć więcej o swoich kolegach i koleżankach po fachu i o samej branży,
 której pracujemy. Jeśli macie braki w tej części swojego CV, to zawsze możecie
 je łatwo uzupełnić publikując artykuły na techwriter.pl 😊
 
-## Lubię spacery po plaży i komedie romantyczne
+### Lubię spacery po plaży i komedie romantyczne
 
 Jeśli chodzi o umieszczanie w CV informacji o swoich zainteresowaniach to zdania
 są podzielone. Niektórzy twierdzą, że pracodawcę średnio interesuje co robimy w

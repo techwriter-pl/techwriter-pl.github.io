@@ -27,9 +27,9 @@ W naszej relacji koncentrujemy się na części konferencyjnej, pomijamy warszta
 które odbyły się w przeddzień. Może ktoś z Was podzieli się z czytelnikami
 swoimi warsztatowymi reminiscencjami? Zapraszamy do komentowania!
 
-# Dzień 1
+## Dzień 1
 
-## AI, friend or foe for Documentarians? - Chris Ward
+### AI, friend or foe for Documentarians? - Chris Ward
 
 Naszą przygodę z soap! 2019 rozpoczęliśmy od prelekcji dotyczącej sztucznej
 inteligencji. Prelegent przeprowadził ciekawy zabieg i poprosił o pomoc
@@ -50,7 +50,7 @@ są szanse na to że sztuczna inteligencja nas zastąpi".
 
 https://youtu.be/BepELzhX6ao?list=PLUY0lajb-kiaIbF6clQaxTp2lwqmrDDC5
 
-## Documenting the known unknowns - Alison MacNeil
+### Documenting the known unknowns - Alison MacNeil
 
 Jak mówią komentatorzy sportowi - Alison zaprezentowała bardzo dobrą pracę nóg
 😉. Podzieliła się również z nami doświadczeniami z pracy w branży
@@ -65,7 +65,7 @@ podpieramy się poniższym nagraniem, ale na pewno było wesoło 😊
 
 https://youtu.be/r-F4FTNiHXc?list=PLUY0lajb-kiaIbF6clQaxTp2lwqmrDDC5
 
-## Content as Code: A manager’s perspective - Panny Luo
+### Content as Code: A manager’s perspective - Panny Luo
 
 Bardzo ciekawa historia, sięgająca ponad 10 lat wstecz, dodatkowo opowiedziana z
 chińsko-fińskiej perspektywy. Droga od plików Worda, przez XML, CMS, DITA...
@@ -78,14 +78,14 @@ Developera / Engineera. Polecamy!
 
 https://youtu.be/2R-8e\_GtM0Y?list=PLUY0lajb-kiaIbF6clQaxTp2lwqmrDDC5
 
-## Living in Harmony: DITA and Markdown - Patrick Bosek
+### Living in Harmony: DITA and Markdown - Patrick Bosek
 
 Przed tą prezentacją doszliśmy do wniosku że już to widzieliśmy... Ale w Waszym
 przypadku wcale nie musi tak być:
 
 https://youtu.be/RNSvi2x1r-U?list=PLUY0lajb-kiaIbF6clQaxTp2lwqmrDDC5
 
-## How to make your content more accessible? - Kama Jania
+### How to make your content more accessible? - Kama Jania
 
 Kama wprowadziła nas w temat szeroko pojętej dostępności i ograniczeń
 najczęściej spotykanych wśród użytkowników naszych produktów. Są wśród nich:
@@ -96,14 +96,14 @@ dlaczego?
 
 https://youtu.be/svMMxFxbZDY?list=PLUY0lajb-kiaIbF6clQaxTp2lwqmrDDC5
 
-## Doing docs like code in the real world – an interactive case study - Michał Skowron & Paweł Kowaluk
+### Doing docs like code in the real world – an interactive case study - Michał Skowron & Paweł Kowaluk
 
 Zdecydowanie najbardziej dynamiczna prezentacja która wzbudziła ogromny aplauz.
 To po prostu musicie zobaczyć!
 
 https://youtu.be/JkU2n2mpuU0?list=PLUY0lajb-kiaIbF6clQaxTp2lwqmrDDC5
 
-## Cracking the code of visual content - Anton Bollen
+### Cracking the code of visual content - Anton Bollen
 
 Jeden obraz jest wart więcej niż tysiąc słów.
 
@@ -114,7 +114,7 @@ Antona 😊
 
 https://youtu.be/o6x4sUj8L1Y?list=PLUY0lajb-kiaIbF6clQaxTp2lwqmrDDC5
 
-## Content as code. Literally - Basia Szwarc & Łukasz Górnicki
+### Content as code. Literally - Basia Szwarc & Łukasz Górnicki
 
 Doświadczenia z projektu [kyma-project.io](https://kyma-project.io/). Łukasz
 przedstawił punkt widzenia Product Ownera a Basia Technical Writera. Z tej
@@ -125,14 +125,14 @@ zabieracie się za budowanie strony internetowej.
 
 https://youtu.be/ikq-9B\_5x1M?list=PLUY0lajb-kiaIbF6clQaxTp2lwqmrDDC5
 
-## Interactive API documentation made easy, tech writer role made tidy - Jadwiga Sitnicka
+### Interactive API documentation made easy, tech writer role made tidy - Jadwiga Sitnicka
 
 Walka o życie w świecie IoT i platformy [readme](https://readme.com/). Wniosek -
 jedyną metodą przetrwania jest nauka. Nie ma innej możliwości. Mocne.
 
 https://youtu.be/I5oiCJ2NGCA?list=PLUY0lajb-kiaIbF6clQaxTp2lwqmrDDC5
 
-## Docs as code. We did it! Didn’t we? - Rafał Pawlicki
+### Docs as code. We did it! Didn’t we? - Rafał Pawlicki
 
 Jak przejść z 70000 dokumentów na Confluence do ciągłego dostarczania
 dokumentacji i zbierania opinii na temat publikowanych treści? Tak właśnie:
@@ -144,31 +144,31 @@ się na jedną z nich jako nasz wysłannik i
 [zrelacjonował ją dla Was](http://techwriter.pl/nasza-relacja-z-write-the-docs-prague-2019/)
 😊
 
-# Dzień 2
+## Dzień 2
 
 Biorąc udział w kuluarowym networkingu (niezła nazwa na jedzenie ciastek,
 czyżn't?) opuściliśmy niestety pierwszy wykład drugiego dnia, dotyczący
 retoryki. Teraz wspólnie możemy to nadrobić:
 
-## What’s rhetoric gotta do with it? - Lance Cummings
+### What’s rhetoric gotta do with it? - Lance Cummings
 
 https://youtu.be/e6TG\_LzOBaI?list=PLUY0lajb-kiaIbF6clQaxTp2lwqmrDDC5
 
-## How to steal from developers and be praised for it: version control, continuous integration, and unit tests - Aniko Sebestyen
+### How to steal from developers and be praised for it: version control, continuous integration, and unit tests - Aniko Sebestyen
 
 Zdążyliśmy za to na coś, co było właściwie krótkim wprowadzeniem do kontroli
 wersji i ciągłej integracji.
 
 https://youtu.be/s9KuAYaN2ro?list=PLUY0lajb-kiaIbF6clQaxTp2lwqmrDDC5
 
-## The Brain API: Closing the gap between Machine Learning and Human Coding - Ludovico Venturini
+### The Brain API: Closing the gap between Machine Learning and Human Coding - Ludovico Venturini
 
 Ciekawy koncept. Nie mylić z kontentem. Ani z kontekstem. 😉 Daje do myślenia,
 jednak trochę zabrakło nam konkluzji. Może Wy ją odnajdziecie?
 
 https://youtu.be/86eCJu1t2Ic?list=PLUY0lajb-kiaIbF6clQaxTp2lwqmrDDC5
 
-## From products to experiences – and why you (yes, you!) are part of the customer experience! - Stefan Gentz
+### From products to experiences – and why you (yes, you!) are part of the customer experience! - Stefan Gentz
 
 Kiedy ktoś z tytułem Starszego Ogólnoświatowego Ewangelisty przygotowuje dla Was
 prezentację macie tylko dwie możliwości:
@@ -180,7 +180,7 @@ Którą opcję wybraliście?
 
 https://youtu.be/XHjxSh-flLY?list=PLUY0lajb-kiaIbF6clQaxTp2lwqmrDDC5
 
-## Distributed content creation - Anton Kolesnyk
+### Distributed content creation - Anton Kolesnyk
 
 Ta prezentacja zostawiła nas ze sporym niedosytem... Początek i temat obiecują
 wiele, może Antoś dostał po prostu za mało czasu aby zgłębić temat? Sami
@@ -188,21 +188,21 @@ oceńcie:
 
 https://youtu.be/mS8oq0epIGc?list=PLUY0lajb-kiaIbF6clQaxTp2lwqmrDDC5
 
-## Content creation in the multiverse of code – using diversity as an asset - Christian Hamp & Pieterjan Benoit
+### Content creation in the multiverse of code – using diversity as an asset - Christian Hamp & Pieterjan Benoit
 
 Fajne studium przypadku z firmy zajmującej się robieniem fal 😉 Konkretnie, na
 temat, z przykładami i humorem.
 
 https://youtu.be/hfmb1LkjRwY?list=PLUY0lajb-kiaIbF6clQaxTp2lwqmrDDC5
 
-## Guides as a code without magic - Gregory Brzeski & Adam Dobrawy
+### Guides as a code without magic - Gregory Brzeski & Adam Dobrawy
 
 Niech Was nie zmyli forma prezentacji - to nie ojciec z synem poszukujący
 magicznego eliksiru dokumentacji... a może jednak? 😉
 
 https://youtu.be/l4l5-fGctDI
 
-## Micro-content, Chatbots, and Machine Learning – What do they mean for Technical Authoring? - Mike Hamilton
+### Micro-content, Chatbots, and Machine Learning – What do they mean for Technical Authoring? - Mike Hamilton
 
 Spodziewaliśmy się narzędziowo-sprzedażowej prezentacji i byliśmy w błędzie. O
 ile znaliśmy wcześniej Jakoba Nielsena jako twórcę
@@ -212,14 +212,14 @@ i pouczająca prelekcja:
 
 https://youtu.be/ZP1KdJJXWqo?list=PLUY0lajb-kiaIbF6clQaxTp2lwqmrDDC5
 
-## How to make your content more translatable - Marcelina Haftka
+### How to make your content more translatable - Marcelina Haftka
 
 Are you dreaming of going global? Któż nie marzy 😊 Wszyscy! Dlatego wszyscy
 powinni wysłuchać rad Marceliny:
 
 https://youtu.be/tAxqJiCrGVc?list=PLUY0lajb-kiaIbF6clQaxTp2lwqmrDDC5
 
-## Me a coder? Hell no! Oh wait, well maybe - Colum McAndrew
+### Me a coder? Hell no! Oh wait, well maybe - Colum McAndrew
 
 Colum pracuje jako Knowledge Base Manager - już samo to czyni go ciekawym
 rozmówcą. Jego doświadczenie i pozytywne nastawienie czyni go rozmówcą
@@ -227,7 +227,7 @@ wspaniałym, sprawdziliśmy to empirycznie 😊
 
 https://youtu.be/6r0Lkb15CSs?list=PLUY0lajb-kiaIbF6clQaxTp2lwqmrDDC5
 
-## Don’t code the (eLearning) content – content the code instead! - Gosia Pytel
+### Don’t code the (eLearning) content – content the code instead! - Gosia Pytel
 
 Nie jest łatwo prezentować na końcu dwudniowej konferencji - poziom energii
 wśród uczestników często zbliża się wtedy do zera. Po dwóch dobach kodowania

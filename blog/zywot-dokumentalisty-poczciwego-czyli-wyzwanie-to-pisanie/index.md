@@ -26,7 +26,7 @@ ze słomką 😉
 
 <!--truncate-->
 
-## Edukacyjna pustynia
+### Edukacyjna pustynia
 
 Kilkukrotnie ubolewaliśmy (np. w tym
 [wpisie](http://techwriter.pl/naucz-sie-sama-czesc-2/)) nad brakami w edukacji
@@ -39,7 +39,7 @@ konferencjach. Na szczęście istnieją ludzie, którzy chcą rozkręcić komuni
 techniczną w naszym kraju, np. nasi "mydlani" przyjaciele, którzy w tym roku
 organizują już po raz drugi konferencję [soap!](http://soapconf.com/).
 
-## Miękkie serce i twarda...
+### Miękkie serce i twarda...
 
 W stosunku do użytkowników czytających nasze instrukcje trzeba mieć miękkie
 serce, rozumieć ich potrzeby, wczuwać się w ich sytuację. Trzeba ich uspokoić i
@@ -60,7 +60,7 @@ można ugryźć temat inaczej. Warto poprosić osobę, która ma zastrzeżenia d
 naszego stylu o wskazanie instrukcji, które według niej są godne naśladowania.
 Wtedy będziemy mogli stopniowo wchodzić w styl, którego się od nas oczekuje.
 
-## Ostatni będą pierwszymi... albo nie
+### Ostatni będą pierwszymi... albo nie
 
 Brutalna prawda jest taka, że dokumentacja jest gdzieś na dole listy
 priorytetów. Oczywiście nie zawsze i nie wszędzie, ale niestety takie zjawisko
@@ -87,7 +87,7 @@ powiedzieć przełożonemu, że bez tych informacji dokumentacja po prostu nie
 powstanie. Dzięki temu nikt nam nie zarzuci, że widzieliśmy zagrożenia i nic nie
 zrobiliśmy.
 
-## To dawno nieaktualne od wczoraj
+### To dawno nieaktualne od wczoraj
 
 Produkt się zmienia, a to jak często zależy od fazy w jakiej się znajduje.
 Rzadko kiedy dokumentacja zaczyna powstawać w momencie kiedy produkt jest prawie
@@ -110,7 +110,7 @@ wpływają na dokumentację. Dodatkowo można też mieć na oku plan ukończenia
 poszczególnych części systemu przez programistów. Dzięki temu będziemy mogli
 przewidzieć z grubsza ile pracy nas czeka.
 
-## Technical Writer niepotrzebny od zaraz
+### Technical Writer niepotrzebny od zaraz
 
 Nietuzinkowość naszej profesji ma również swoje wady. Najbardziej odczuwalną
 jest bardzo mała ilość ofert pracy w Polsce. Niestety, do poziomu Stanów

@@ -18,7 +18,7 @@ co się wydarzyło w tym temacie przez ostatni rok.
 
 <!--truncate-->
 
-## Nowe kategorie
+### Nowe kategorie
 
 Początkowo informacje na mapie były podzielone na trzy kategorie:
 
@@ -39,7 +39,7 @@ W przeciągu pół roku od uruchomienia mapy zostały dodane kolejne trzy:
 Dodatkowo, kategoria **Konferencje** została podzielona na **Konferencje 2014**
 i **Konferencje 2015**.
 
-## Wygodniejsze dodawanie informacji
+### Wygodniejsze dodawanie informacji
 
 Jednym z ostatnich usprawnień było dodanie
 [formularza online](https://docs.google.com/forms/d/1uIEpAu0vpiDwNqwQcr-912TD1_nG_PND9J3NDCPvEXI/viewform),
@@ -48,7 +48,7 @@ pomyślnej weryfikacji ze strony autorki, są one dodawane do mapy. Przypomnijmy
 tylko, że wcześniej propozycje nowych informacji były zgłaszane za pośrednictwem
 komentarzy do artykułów dotyczących projektu.
 
-## Osadzanie mapy
+### Osadzanie mapy
 
 Za pomocą pływającej ramki (iframe) w języku HTML, można wstawić interaktywną
 wersję mapy na własną stronę. W tym celu można użyć na przykład tego kodu:
@@ -56,7 +56,7 @@ wersję mapy na własną stronę. W tym celu można użyć na przykład tego kod
 `<html>` `<iframe` `width="100%"` `height="98%"` `style="border:0"`
 `src="http://sarahmaddox.github.io/techcomm-map/">` `</iframe>` `</html>`
 
-## Współautorzy
+### Współautorzy
 
 W projekcie regularnie udziela się kilka osób. Wśród nich można znaleźć takie
 nazwiska ze światka tech commu jak
@@ -64,7 +64,7 @@ nazwiska ze światka tech commu jak
 [Ellis Pratt](http://www.cherryleaf.com/blog/author/ellis/) czy
 [Tom Johnson](http://idratherbewriting.com/aboutme/).
 
-## Co słychać na rodzimym podwórku?
+### Co słychać na rodzimym podwórku?
 
 Na tą chwilę w Polsce zgłoszone są następujące obiekty:
 
@@ -75,7 +75,7 @@ Na tą chwilę w Polsce zgłoszone są następujące obiekty:
 
 [![mapa_techcomm_pl](images/mapa_techcomm_pl.png)](http://techwriter.pl/wp-content/uploads/2015/05/mapa_techcomm_pl.png)
 
-## Jedno małe "ale"
+### Jedno małe "ale"
 
 Niestety, zauważyliśmy też jeden "kwiatek" - zdarza się, że przy pierwszym
 załadowaniu mapy nie pojawiają się na niej żadne znaczniki. Często pomaga po

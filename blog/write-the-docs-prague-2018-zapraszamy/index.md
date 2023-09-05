@@ -19,7 +19,7 @@ wydarzeniem.
 
 <!--truncate-->
 
-## Krótki powrót do przeszłości
+### Krótki powrót do przeszłości
 
 Jako patron medialny nie mogło nas zabraknąć podczas zeszłorocznej edycji Write
 the Docs, z której obszerną relację znajdziecie
@@ -32,7 +32,7 @@ spotkanie z rewelacyjnymi ludźmi z branży.
 
 ![](images/page1.jpg)
 
-## Co, gdzie i kiedy?
+### Co, gdzie i kiedy?
 
 Wszystkie niezbędne informacje znajdziecie na
 [stronie konferencji](http://www.writethedocs.org/conf/prague/2018/). Skrótowy
@@ -63,7 +63,7 @@ informacje 😉.
 
 ![](images/page2.jpg)
 
-## Rodzaje i ceny biletów
+### Rodzaje i ceny biletów
 
 Bilety są już dostępne zatem chętnych odsyłamy
 [tutaj](http://www.writethedocs.org/conf/prague/2018/tickets/), gdzie
@@ -76,7 +76,7 @@ znajdziecie szczegółowe informacje dotyczące poniższych rodzajów biletów.
   wolontariacie lub dla firm posiadających mniej niż 10 pracowników - €150
 - Bilet dla studentów lub osób nieposiadających zatrudnienia - €75
 
-### Co zawiera cena biletu?
+#### Co zawiera cena biletu?
 
 Cana biletu zawiera:
 

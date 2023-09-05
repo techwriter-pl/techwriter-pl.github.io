@@ -34,14 +34,14 @@ jest pojęcie Augmented Reality (AR) albo Artificial Intelligence (AI)?
 Jeśli nie, w tym artykule  dowiecie się co dokładnie kryje się pod tymi
 określeniami i jakie korzyści może przynieść użycie ich w dokumentacji.
 
-## Augmented Reality (AR)
+### Augmented Reality (AR)
 
 Rozszerzona rzeczywistość (z ang. Augmented Reality, w skrócie AR) łączy w sobie
 świat rzeczywisty z tym, który generuje oprogramowanie cyfrowe (np. poprzez
 kamerę telefonu lub komputera). AR zmienia sposób myślenia o tym, jak człowiek i
 świat wirtualny mogą się wzajemnie uzupełniać i tworzyć wspólny ekosystem.
 
-## **Artificial Intelligence** (AI)
+### **Artificial Intelligence** (AI)
 
 Sztuczna inteligencja (z ang. Artificial Intelligence, w skrócie AI) jest,
 między innymi, technologią, która opiera się na algorytmach i modelach
@@ -50,9 +50,9 @@ wykonywać ludzkie zadania bez konieczności korzystania z pomocy człowieka.
 Uczenie maszynowe dostarcza danych szkoleniowych, aby nauczyć się wzorców i
 korelacji w celu wykonania określonych zadań.
 
-## Jak AI i AR może ewoluować pracę technical writera?
+### Jak AI i AR może ewoluować pracę technical writera?
 
-### Zacznijmy od sztucznej inteligencji!
+#### Zacznijmy od sztucznej inteligencji!
 
 Jedną z bezpośrednich korzyści, jakie stworzone przez Was dokumenty techniczne
 mogą uzyskać dzięki AI, jest chociażby inteligentne sprawdzanie tekstu. Dzięki
@@ -83,7 +83,7 @@ kluczowymi. Pozwala to zaoszczędzić sporo czasu osobom piszącym teksty
 techniczne - wyszukiwalność nie będzie wymagała niczego poza relatywną i
 użyteczną treścią.
 
-### A co w takim razie z rzeczywistością rozszerzoną i jak ona wpływa na pracę technical writera?
+#### A co w takim razie z rzeczywistością rozszerzoną i jak ona wpływa na pracę technical writera?
 
 Rzeczywistość rozszerzona staje się szczególnie popularna w środowisku
 produkcyjnym. Obsługa techniczna  żeby sprawdzić jak rozwiązać usterkę musi
@@ -93,7 +93,7 @@ instalacja, konfiguracja itp.) musi zostać wykonana. Tak więc, osoba serwisuj�
 musi zinterpretować napisaną treść i dopasować istniejące grafiki do obiektów
 świata rzeczywistego.
 
-### Jaka jest lub będzie rola pisarza?
+#### Jaka jest lub będzie rola pisarza?
 
 Wiele doświadczeń AR pokazuje użytkownikowi, jak coś zrobić. Zawiera instrukcje
 proceduralne oparte na zadaniach. Osoby zaangażowane w tworzenie doświadczeń AR
@@ -120,7 +120,7 @@ musiały być odpowiednio zarządzane. Stąd rola technical writera w tym przypa
 może ewoluować do komunikatora technicznego lub architekta informacji. Może
 warto się do togo przygotować 😊
 
-## Korzyści wykorzystania AI i AR w dokumentacji:
+### Korzyści wykorzystania AI i AR w dokumentacji:
 
 - Nowe technologie mogą skutecznie zastąpić ludzką wyobraźnię. Umieszczając
   przed oczami przedmioty lub urządzenia, które można sobie w odpowiednim
@@ -142,7 +142,7 @@ warto się do togo przygotować 😊
   atrakcyjny mechanizm dostarczania dokumentacji technicznej, szkoleń i pomocy
   dla użytkownika.
 
-## Wnioski?
+### Wnioski?
 
 Automatyzacja procesów może być nie tylko fajna, ale ma potencjał, aby uczynić
 nasze życie i pracę łatwiejszymi.

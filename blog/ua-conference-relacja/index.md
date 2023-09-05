@@ -21,7 +21,7 @@ multilingual environment (Thomas Bro-Rasmussen)**. A to jeszcze nie koniec...
 
 <!--truncate-->
 
-## [Who are we? A mirror for UA professionals - Joe Welinske](http://www.uaeurope.com/conference/sessions.html#whoarewe)
+### [Who are we? A mirror for UA professionals - Joe Welinske](http://www.uaeurope.com/conference/sessions.html#whoarewe)
 
 Na swojej stronie [Joe Welinske](http://www.writersua.com/) każdego roku
 umieszcza ankiety, które mają na celu przybliżenie profilu ludzi zajmujących się
@@ -30,7 +30,7 @@ odpowiedzi na niektóre pytania pochodzące z dwóch ankiet: Skills & Technology
 (2014) oraz Salary (2013). W tym krótkim streszczeniu, my podzielimy się
 najciekawszymi przykładami.
 
-### Umiejętności
+#### Umiejętności
 
 ![OLYMPUS DIGITAL CAMERA](images/camera-150x150.jpg)
 
@@ -45,7 +45,7 @@ filmów instruktażowych.
 Nie zmieniła się również liczba osób, dla których istotne jest testowanie
 użyteczności dokumentacji technicznej, czego Joe jest zaciekłym propagatorem.
 
-### Znajomość kodu
+#### Znajomość kodu
 
 W kategorii c*ode-level expertise* wzrosła liczba głosów oddanych na technologię
 DITA. HTML i CSS cały czas przodują, ale wydaję się że gdyby te dwie technologie
@@ -55,7 +55,7 @@ zaledwie 10%. I tutaj rada od Joe: jeśli umiesz rozczytać kod i umiesz go
 opisać, możesz bez namysłu lecieć do USA, a tam Google, Microsoft, Amazon czy
 inne tego typu wielkie korporacje przyjmą cię z pocałowaniem ręki i od ręki 😊
 
-### Systemy pomocy
+#### Systemy pomocy
 
 Jeśli chodzi o systemy pomocy, to wśród technologii Microsoftu nadal dużą
 popularnością cieszy się HTML Help (.chm). I tu ciekawostka: rokiem, w którym po
@@ -64,13 +64,13 @@ respondentów nadal uważa go za bardzo ważny system. Najpopularniejsza nadal
 pozostaje pomoc użytkownika tworzona w HTMLu lub XMLu i otwierana w
 przeglądarce.
 
-### Platformy
+#### Platformy
 
 Najczęściej wspierane platformy to oczywiście Windows, rośnie też ilość osób
 głosujących na MAC OS X oraz platformy mobilne. Tutaj najwięcej dokumentacji
 piszemy dla aplikacji webowych (44%), na Androida (39%) i iOS (42%).
 
-### Wynagrodzenie i zadowolenie z pracy
+#### Wynagrodzenie i zadowolenie z pracy
 
 Jeśli chodzi o pytania dotyczące wynagrodzeń, nie da się ich zbytnio odnieść do
 polskich warunków. Co jednak ciekawe, na pytanie o doświadczenie zawodowe, aż
@@ -93,7 +93,7 @@ Co sądzicie o tych statystykach? Jak można je odnieść do Waszej pracy? Jeże
 chcecie wziąć udział w ankiecie Joe, najnowszą możecie
 znaleźć [tutaj](https://www.surveymonkey.com/s/ua_tools_survey).
 
-## [Trends in mobile user assistance - Joe Welinske](http://www.uaeurope.com/conference/sessions.html#mobileUAtrends)
+### [Trends in mobile user assistance - Joe Welinske](http://www.uaeurope.com/conference/sessions.html#mobileUAtrends)
 
 [Joe Welinske](http://www.writersua.com/) specjalizuje się w projektowaniu
 dokumentacji na smartfony i tablety. W swojej kolejnej prezentacji skupił się na
@@ -126,7 +126,7 @@ say!_
 książki. Można się z nim skontaktować w tej sprawie wysyłając do niego
 [maila](http://www.welinske.com/contact-us/).
 
-## [Automating and managing multiple projects in a multilingual environment - Thomas Bro-Rasmussen](http://www.uaeurope.com/conference/sessions.html#automating)
+### [Automating and managing multiple projects in a multilingual environment - Thomas Bro-Rasmussen](http://www.uaeurope.com/conference/sessions.html#automating)
 
 Thomas Bro-Rasmussen omawiał podczas swojej sesji w jaki sposób narzędzie MadCap
 Flare ułatwiło pracę tech writerom w jego firmie. Thomas pracuje w branży

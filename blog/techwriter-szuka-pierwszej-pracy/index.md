@@ -43,7 +43,7 @@ ukończenia studiów podyplomowych, ale także certyfikat
 [ITCQF.](https://itcqf.org/) Jeszcze raz uważnie obejrzałam CV, przed nazwiskiem
 z dumą dopisałam "certified" i odpowiedziałam na pierwsze oferty.
 
-## Gdzie szukać ofert?
+### Gdzie szukać ofert?
 
 Szukając pracy, warto mieć świadomość, że zawód techwritera wciąż jest odrobinę
 niszowy. Z tego powodu notorycznie natrafia się na ogłoszenia, które opisują
@@ -67,7 +67,7 @@ Gwoli ścisłości: dostałam też jedną ofertę od headhuntera na priv, ale tu
 kontakt urwał się szybko i zatrzymałam się przed etapem formalnej rekrutacji,
 dlatego nie wliczam jej do puli.
 
-## Czy spełniam wymagania?
+### Czy spełniam wymagania?
 
 Wysyłając CV, nie brałam pod uwagę ofert, w których wymogiem było długie (3 lata
 lub więcej) doświadczenie na stanowisku technical writera w projektach
@@ -92,7 +92,7 @@ angielskiego. Bez tego, drogi techwriterze, po prostu nie ruszysz dalej - 99%
 dokumentacji jest tworzonych po angielsku. Z tego powodu tłumacze oraz
 filologowie mają znakomity atut już na starcie.
 
-## Wszystko zdalnie
+### Wszystko zdalnie
 
 Gdzie można znaleźć potencjalnych pracodawców? W przypadku mojej szczęśliwej
 trzynastki 4 oferty pochodziły z Warszawy, 3 z Krakowa, jedna z Lublina, jedna z
@@ -105,7 +105,7 @@ biura na osobiste spotkanie. Po prostu o umówionej godzinie zdzwanialiśmy się
 Skype, Teamsach lub Zoomie - zawsze z włączoną kamerką, dlatego na wszelki
 wypadek przed spotkaniem dbałam o schludny wygląd.
 
-## Jak wygląda sama rekrutacja?
+### Jak wygląda sama rekrutacja?
 
 Jak już wspomniałam, zareagowałam łącznie na 13 ofert i był to proces rozłożony
 w czasie. Na moje  CV odpowiedziało 6 firm. Żałuję, że pozostałe nie przekazały
@@ -145,7 +145,7 @@ zadań w określonym terminie.
 
 A potem trzeba było już tylko czekać.
 
-## Witamy na pokładzie
+### Witamy na pokładzie
 
 W połowie października, w odstępie dosłownie dwóch dni, zadzwoniły do mnie dwie
 firmy - obie chciały mnie zatrudnić. W obu przypadkach były to firmy, których
@@ -159,7 +159,7 @@ opanowania. Sama nie wiem, czy bardziej się cieszę, czy boję 😉 Na pewno ba
 mi zależy na pokazaniu się z jak najlepszej strony. Zaczynam 2 listopada.
 Trzymajcie za mnie kciuki.
 
-## Podsumowanie
+### Podsumowanie
 
 W ciągu ostatnich miesięcy dostałam od czytelników tej strony kilka wiadomości
 na priv, a ich refrenem było: czy w tym zawodzie jest praca? Czy jest
@@ -178,7 +178,7 @@ produkującej oprogramowanie. Zainteresowanie techwritingiem mnóstwo zmieniło 
 moim życiu. Życzę wam tego samego - i nie poddawajcie się, jeśli pierwsze
 rekrutacje będą zniechęcające. Będzie dobrze!
 
-## Bonus, czyli kolejny glosariusz
+### Bonus, czyli kolejny glosariusz
 
 Nic na to nie poradzę - bardzo lubię pisać glosariusze 😉
 

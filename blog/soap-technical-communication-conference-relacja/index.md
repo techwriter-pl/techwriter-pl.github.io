@@ -24,7 +24,7 @@ oprogramowania, techwriting przez lata pozostawał zupełnie zapomnianym obszare
 Całe szczęście, grupa ludzi stojąca za nazwą Soap! postanowiła wziąć sprawy w
 swoje ręce i zmienić ten stan rzeczy. Jak wyszło? Nasza relacja poniżej.
 
-## Początek
+### Początek
 
 Pierwszy pozytyw odczuliśmy już na samym początku – konferencja miała miejsce w
 samym centrum Krakowa w budynku Wyższej Szkoły Europejskiej im. ks. Józefa
@@ -36,7 +36,7 @@ Zgarnęliśmy jeszcze darmową kawę i po wysłuchaniu krótkiego przywitania od
 jednego z organizatorów byliśmy gotowi na przejście do konkretów, czyli na
 szerokopasmowy transfer wiedzy.
 
-## Progressive Disclosure
+### Progressive Disclosure
 
 Niewdzięczne zadanie prowadzenia pierwszej prezentacji przypadło Agnieszce
 Tkaczyk (Information Developer, IBM), która podzieliła się swoimi
@@ -49,7 +49,7 @@ mniej wyraźne fragmenty slajdów i sprawnie przeprowadziła nas przez przykład
 wyjęte wprost z jej doświadczeń w IBM. Dzielenie się wiedzą w bardzo dobrym
 stylu.
 
-## Urządzenia Mobilne
+### Urządzenia Mobilne
 
 Następnie przyszedł czas na nieco marketingu. Całe szczęście, ewangelista MadCap
 Software Mike Hamilton doskonale rozumie na czym polega „nieinwazyjność” w
@@ -63,7 +63,7 @@ sprawne) można było spokojnie przeprowadzić po wystąpieniu Mike’a przy
 wydzielonym dla jego firmy stanowisku. Dodatkową zachętą były darmowe gadżety
 MadCapa, a nawet losowanie licencji na ich soft.
 
-## Chmura
+### Chmura
 
 Teraz coffee break i ogólne poruszenie, że skończyły się mleko i cukier, woda na
 herbatę jest zimna, a kawa niedobra. Pijemy czarną i mamy niewyszukany gust,
@@ -80,7 +80,7 @@ Prowadząca zmuszona była obrazowo wyjaśniać kontent i odczytywać na głos
 komiksowe żarty, jednak po nierównej walce z projektorem wyszła z opresji
 obronną ręką. Na tyle, że doszliśmy do wniosku: „tak, chmura jest ważna”.
 
-## CMS
+### CMS
 
 Claudia Blaschke (SCHEMA GmbH) nie wykazała się taką subtelnością jak Mike
 Hamilton i swój wykład dotyczący roli systemów CMS w niemieckim przemyśle
@@ -90,7 +90,7 @@ słuchaczy, których codzienne wyzwania nieco różnią się najwyraźniej od ty
 naszych zachodnich sąsiadów. Zapamiętaliśmy, że jest to potężny i złożony soft.
 I że nie jest dla nas.
 
-## Analiza Szkoleń
+### Analiza Szkoleń
 
 Po przerwie na lunch, niezwykle ciekawy temat poruszył Piotr Peszko z
 krakowskiej Motoroli, który podjął się wyjaśnienia pojęcia Tin Can API oraz
@@ -102,7 +102,7 @@ ci mniej doświadczeni na koniec wystąpienia prezentowali wyrazy twarzy
 powszechnie określane pewnym trzyliterowym angielskim skrótem. Jest w tej
 sytuacji pewna ironia, ale pewnie sami ją już dostrzegliście.
 
-## Użyteczność i Standardy
+### Użyteczność i Standardy
 
 Nadszedł czas na gwiazdę dnia (a później wieczoru), w roli której wystąpił Noz
 Urbina, specjalista w zakresie strategii tworzenia treści. Jego wykład
@@ -114,7 +114,7 @@ profesjonalizmu. W czasach nielicznych (jeśli w ogóle) „celebrytów” w obs
 komunikacji technicznej, tego typu prezentacje zdecydowanie należą do
 przyjemności i „trzeba sobie szanować”.
 
-## Zarządzanie Projektem Tłumaczeniowym
+### Zarządzanie Projektem Tłumaczeniowym
 
 Kolejny wykład poprowadził Andrzej Nedoma (LIDO-LANG/XTRF), który z ogromną
 pewnością siebie rozpoczął od wyjaśnień dlaczego posługuje się tytułem Managing
@@ -129,7 +129,7 @@ uczestników konferencji, jednak nie można odmówić logiki w tego typu myślen
 chyba najlepiej dostosować się do nadchodzącej przyszłości, bo jej nieuchronność
 autor na pewno uargumentował aż za dobrze.
 
-## DITA i PowerPoint.
+### DITA i PowerPoint.
 
 Konferencję zamykał Eliot Kimber (Principal Solutions Architect, Contrext
 Solutions), z którym łączyliśmy się zdalnie, jednak wybrany przez niego temat
@@ -138,7 +138,7 @@ miejscu natomiast wspomnieć, że pomijając ten nieszczęsny projektor, z
 technicznego punktu widzenia wszystko przebiegło zadziwiająco sprawnie, co wcale
 nie jest oczywiste przy tego typu przedsięwzięciach.
 
-## Wnioski
+### Wnioski
 
 Zdecydowanie najważniejszym plusem jest fakt, że ta inicjatywa w ogóle powstała.
 Jak zawsze, pojawiły się drobne niedociągnięcia organizacyjne, ale należy

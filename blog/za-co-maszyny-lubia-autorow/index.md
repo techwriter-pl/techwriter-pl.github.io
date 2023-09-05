@@ -24,7 +24,7 @@ autorów", które przez ostatnie miesiące publikowaliśmy na naszych łamach. J
 to krótkie podsumowanie a zarazem przedłużenie wątków, które zostały w nich
 poruszone. Zapraszamy do lektury.
 
-# Kilka słów o autorce
+## Kilka słów o autorce
 
 Marta Bartnicka jest kierowniczką działu tłumaczeń dla Europy Środkowej w IBM. Z
 działem tym związana jest od 20 lat, zajmując się między innymi tłumaczeniem,
@@ -43,7 +43,7 @@ Hobby w kolejności alfabetycznej: biegówki, dzieci, ogrodnictwo, Tatry.
 Jeśli chcecie skontaktować się z Martą, możecie wysłać jej maila
 na [martab@kofeina.net](mailto:martab@kofeina.net).
 
-# Za co maszyny lubią autorów
+## Za co maszyny lubią autorów
 
 Czwarta część trylogii dla autorów dokumentacji, pomocy i interfejsów ?.
 
@@ -75,7 +75,7 @@ roku.
 
 Pisanie z myślą o MT
 
-## WTEM! mamy neural MT
+### WTEM! mamy neural MT
 
 Przez ostatni rok systemy tłumaczenia maszynowego oparte na sieciach neuronowych
 wyszły z laboratoriów i triumfalnie wkroczyły na rynek. W praktyce oznacza to,
@@ -94,7 +94,7 @@ MT zakończył też właśnie system
 [eTranslation](https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/eTranslation)
 – MT finansowane przez Unię Europejską na potrzeby sektora publicznego.
 
-## Maszyna nie pyta
+### Maszyna nie pyta
 
 O tym, jak wydarzenia ostatniego roku przełożyły się na praktykę branży
 lokalizacyjnej, oraz o tym, jak autorzy mogą „pisać pod MT”, opowiadaliśmy

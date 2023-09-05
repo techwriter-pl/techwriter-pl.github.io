@@ -24,7 +24,7 @@ przeciwnie - chcą się załapać w ostatniej chwili:
 - [Localization World](http://www.locworld.com/ "Localization World")  (jakoś
 nam wcześniej umknęło)
 
-## Lipiec
+### Lipiec
 
 15-17 lipca, Limerick, Irlandia -
 [SIGDOC 2015](http://sigdoc.acm.org/conference/2015/ "SIGDOC 2015")
@@ -32,12 +32,12 @@ nam wcześniej umknęło)
 21-24 lipca, Las Palmas de Gran Canaria, Hiszpania
 – [e-Learning](http://elearning-conf.org/ "E-learning")
 
-## Sierpień
+### Sierpień
 
 31 sierpnia - 1 września, Praga, Czechy -
 [Write the Docs Europe 2015](http://www.writethedocs.org/conf/eu/2015/ "Write the Docs 2015")
 
-## Wrzesień
+### Wrzesień
 
 15-25 września, Kopenhaga (Dania), Zurych (Szwajcaria), Linz (Austria), Bolonia
 (Włochy), Bukareszt (Rumunia) -
@@ -55,7 +55,7 @@ nam wcześniej umknęło)
 30 września - 2 pażdziernika, San Jose, Kalifornia, US -
 [Information Development World](https://www.etouches.com/ehome/113382 "IDW 2015")
 
-## Październik
+### Październik
 
 7-9 października, Kraków, **Polska** -
 [soap! 2015](http://soapconf.com/ "soap! 2015") Przypominamy, że TechWriter.pl
@@ -80,7 +80,7 @@ tych którzy nie zdążą do Berlina)
 18-21 października, Nowy Orlean, Luizjana, USA -
 [Lavacon 2015](http://lavacon.org "Lavacon 2015")
 
-## Listopad
+### Listopad
 
 4 listopada, Elsinore (Helsingør), Dania -
 [MadUsers Conference 2015](http://write2users.com/madusers-conference-2015/ "MadUsers 2015")
@@ -91,7 +91,7 @@ tych którzy nie zdążą do Berlina)
 10-12 listopada, Stuttgart, Niemcy -
 [tekom/tcworld conference 2015](http://conferences.tekom.de/tcworld15/tcworld15/ "tcworld 2015")
 
-## Grudzień
+### Grudzień
 
 1-3 grudnia, Boston, Massachusetts, USA -
 [Gilbane Conference 2015](http://gilbaneconference.com/2015/ "Gilbane Conference 2015")

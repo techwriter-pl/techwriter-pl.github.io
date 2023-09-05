@@ -19,7 +19,7 @@ zaplanowane na ten czas konferencje.
 
 <!--truncate-->
 
-## Czerwiec (uzupełnienie)
+### Czerwiec (uzupełnienie)
 
 15-16 czerwca, Dieburg, Niemcy –
 [content strategy camp 2018](http://www.cscamp.de/)
@@ -30,7 +30,7 @@ zaplanowane na ten czas konferencje.
 29-30 czerwca, Lizbona, Portugalia -
 [Landing Festival 2018](https://landingfestival.com/lisbon)
 
-## Lipiec
+### Lipiec
 
 17-19 lipca, Madryt, Hiszpania – [e-Learning 2018](http://elearning-conf.org/)
 
@@ -45,7 +45,7 @@ zaplanowane na ten czas konferencje.
 30 lipca- 01 sierpnia, Washington DC, USA -
 [An Event Apart Washington DC 2018](https://aneventapart.com/event/washington-dc-2018)
 
-## Sierpień
+### Sierpień
 
 03-05 sierpnia, Milwaukee, Wisconsin, USA –
 [SIGDOC 2018](https://sigdoc.acm.org/conference/2018/)
@@ -62,7 +62,7 @@ zaplanowane na ten czas konferencje.
 28-31 sierpnia, Halifax, Nowa Szkocja, Kanada -
 [DocEng 2018](https://doceng.org/doceng2018/index)
 
-## Wrzesień
+### Wrzesień
 
 4-7 września, Cleveland, Ohio, USA -
 [content marketing world 2018](https://www.contentmarketingworld.com/)
@@ -92,7 +92,7 @@ kolejny patronat medialny**
 **29 września, Warszawa, Polska** -
 [Konferencja Tłumaczy 2018](https://www.konferencjatlumaczy.pl/)
 
-## Październik
+### Październik
 
 04-05 października, Raleigh, Północna Karolina, USA -
 [WritersUA East 2018](http://conference.writersua.com/techcomm/)
@@ -112,7 +112,7 @@ kolejny patronat medialny**
 21-24 października, Nowy Orlean, Luizjana, USA -
 [LavaCon 2018](https://lavacon.org/2018/)
 
-## Listopad
+### Listopad
 
 4 listopada, Rotterdam, Holandia -
 [DITA-OT Day 2018](https://www.oxygenxml.com/events/2018/dita-ot_day.html)
@@ -128,7 +128,7 @@ kolejny patronat medialny**
 15-16 listopada, Melbourne, Australia -
 [Write the Docs Australia 2018](http://www.writethedocs.org/conf/australia/2018/)
 
-## Grudzień
+### Grudzień
 
 10-12 grudnia, San Francisco, Kalifornia, USA -
 [An Event Apart San Francisco 2018](https://aneventapart.com/event/san-francisco-2018)

@@ -35,7 +35,7 @@ informacjami oczywiście się podzielimy.
 Ankieta jest dostępna
 [pod tym linkiem](https://docs.google.com/forms/d/e/1FAIpQLSdP1lBx1Wg-QlWN5uiMNO8-nQhQCO5UNbpyr-N2lcaAbS47WQ/viewform).
 
-## Dlaczego warto wypełnić tę ankietę?
+### Dlaczego warto wypełnić tę ankietę?
 
 1. Bo pomoże ona Wam przy następnej zmianie pracy - dowiecie się jakich widełek
    płacowych można się spodziewać.
@@ -46,17 +46,17 @@ Ankieta jest dostępna
 4. Bo będzie to pierwsza ankieta, która pozwoli nam wszystkim za kilka lat
    prześledzić czy zarobki wzrastają czy spadają.
 
-## Ile zajmie mi wypełnienie ankiety?
+### Ile zajmie mi wypełnienie ankiety?
 
 Ankieta zawiera tylko kilka prostych pytań. Jej wypełnienie nie zajmie Ci więcej
 niż 2 minuty, a jeśli odpowiedzi będzie wystarczająco dużo - każdy z nas może
 mieć z tego wymierną korzyść.
 
-## Jak długo ankieta będzie aktywna?
+### Jak długo ankieta będzie aktywna?
 
 Na odpowiedzi czekamy do 15 kwietnia 2019 roku.
 
-## Gdzie będzie można sprawdzić wyniki ankiety?
+### Gdzie będzie można sprawdzić wyniki ankiety?
 
 Po zakończeniu badania, wyniki opublikujemy na techwriter.pl.
 

@@ -1,9 +1,9 @@
-# Kontakt
+## Kontakt
 
 Wszelkie pytania, wnioski, prośby i uwagi prosimy kierować na
 [kontakt@techwriter.pl](mailto:kontakt@techwriter.pl).
 
-## Publikacja ofert pracy
+### Publikacja ofert pracy
 
 Chętnie zamieszczamy wszystkie oferty pracy związane z branżą komunikacji
 technicznej! Wystarczy przesłać do nas:
@@ -28,12 +28,12 @@ Cena takiej publikacji to **250 zł netto** (dla stałych klientów 50 zł zniż
 Potem już tylko trzeba polubić nas w mediach społecznościowych oraz polecać
 znajomym 🙂
 
-## Patronat medialny
+### Patronat medialny
 
 Organizujesz wydarzenie, spotkanie lub konferencję związaną z branżą tech comm?
 Daj nam znać, chętnie pomożemy w promocji.
 
-## Współpraca
+### Współpraca
 
 Jeżeli masz trochę wolnego czasu, który chciałbyś/chciałabyś poświęcić na
 budowanie społeczności tech comm w naszym kraju, to odezwij się do nas.

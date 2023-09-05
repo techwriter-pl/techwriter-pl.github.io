@@ -33,7 +33,7 @@ design and careful analysis. We want to strengthen the third pillar – innovati
 To apply, please send your CV and cover letter at
 [contact@3di-info.com](mailto:contact@3di-info.com)
 
-##### The role
+###### The role
 
 We are looking for a Technical Lead with experience delivering
 technology-centric solutions. The goal is to support our service delivery teams
@@ -44,7 +44,7 @@ translation, testing). If you are technologically-minded and a strong leader,
 this is the position for you. For more information please see the full
 [technical lead job description](https://3di-info.com/technical-lead-job-description/)
 
-##### Key responsibilities
+###### Key responsibilities
 
 As the Technical Lead, your role will include, but is not confined to:
 
@@ -58,7 +58,7 @@ As the Technical Lead, your role will include, but is not confined to:
 - Providing technical expertise to sales and consulting teams to support winning
   new business
 
-##### Competencies
+###### Competencies
 
 - Talent for leading, supporting and encouraging others
 - Talent for analysing, understanding and resolving technological issues
@@ -86,7 +86,7 @@ As the Technical Lead, your role will include, but is not confined to:
   - MadCap Flare and Lingo
   - SVN/Git/etc.
 
-##### Preferably
+###### Preferably
 
 - Experience as a manager
 - Experience leading technological projects support teams, or IT departments

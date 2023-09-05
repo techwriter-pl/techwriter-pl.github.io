@@ -29,7 +29,7 @@ fragmentów tekstu do wielokrotnego użycia (snippetów). Trzeci i zarazem ostat
 wpis w tym cyklu rzuca trochę światła na zagadnienia związane z
 internacjonalizacją.
 
-# Kilka słów o autorce
+## Kilka słów o autorce
 
 Marta Bartnicka jest kierowniczką działu tłumaczeń dla Europy Środkowej w IBM. Z
 działem tym związana jest od 20 lat, zajmując się między innymi tłumaczeniem,
@@ -48,9 +48,9 @@ Hobby w kolejności alfabetycznej: biegówki, dzieci, ogrodnictwo, Tatry.
 Jeśli chcecie skontaktować się z Martą, możecie wysłać jej maila
 na [martab@kofeina.net](mailto:martab@kofeina.net).
 
-# Za co tłumacze lubią autorów - internacjonalizacja
+## Za co tłumacze lubią autorów - internacjonalizacja
 
-## Długość tekstu (w procentach)
+### Długość tekstu (w procentach)
 
 Jednym z aspektów „pisania pod lokalizację” jest długość tekstu, zwłaszcza jeśli
 tworzymy go w języku angielskim. Gdybym miała podać jedną liczbę, to byłoby nią
@@ -78,7 +78,7 @@ developer wziął sobie do serca pozostawienie 30% zapasu, zatem na
 przetłumaczenie tekstu „ALL” dał aż 4 znaki. Można zgadywać, jakie tłumaczenie
 na polski okazało się najbardziej czytelne ?
 
-## Kolor łupkowy oraz czy bać się czerwieni
+### Kolor łupkowy oraz czy bać się czerwieni
 
 Pozostawiając temat interfejsu, przyjrzyjmy się jeszcze kilku zagadnieniom tak
 zwanej internacjonalizacji (względnie globalizacji) tworzonych produktów – czyli
@@ -100,7 +100,7 @@ Wprowadzając do tworzonych treści symbole, trzeba sprawdzać, czy na pewno są
 uniwersalne. Najbezpieczniejsze okazują się podstawowe znaki drogowe i symbole
 matematyczne.
 
-## Zamienię żonę na piłkę plażową
+### Zamienię żonę na piłkę plażową
 
 Internacjonalizując treści, lepiej nie iść na skróty. Pouczających
 (anty)przykładów dostarcza świat reklamy, w którym na rynek amerykański

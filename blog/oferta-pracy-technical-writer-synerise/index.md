@@ -26,7 +26,7 @@ online worlds. It is a powerful and intuitive marketing tool which uses
 artificial intelligence, semantic web, predictive analysis, machine learning
 **and marketing automation** to better understand customers.
 
-#### **Responsibilities include:**
+##### **Responsibilities include:**
 
 - creating and maintaining software documentation, user manuals, API and other
   technical documentation
@@ -40,7 +40,7 @@ artificial intelligence, semantic web, predictive analysis, machine learning
   and documentation
 - supporting developers in ensuring linguistic correctness of the software
 
-#### **Expectations for candidates:**
+##### **Expectations for candidates:**
 
 - at least 2 years' experience in a similar position
 - excellent English-language skills (both spoken and written) - minimum C1 level
@@ -56,14 +56,14 @@ artificial intelligence, semantic web, predictive analysis, machine learning
 - knowledge of issue tracking software (e.g., JIRA)
 - basic knowledge of XML, HTML and CSS
 
-#### **Your assets**
+##### **Your assets**
 
 - experience in working in a digital marketing or software development
   environment
 - familiarity with Confluence
 - formal technical communication certification (e.g., ITCQF)
 
-#### **In return, we offer:**
+##### **In return, we offer:**
 
 - opportunity for professional development and a chance to take part in a
   strategic and ambitious Big Data-related project utilizing new technologies

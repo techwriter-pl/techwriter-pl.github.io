@@ -21,11 +21,11 @@ przepytywanych jest prawdziwym rekordzistą w kategorii "długość stażu".
 
 <!--truncate-->
 
-### **Jak długo pracujesz jako Tech Writer?**
+#### **Jak długo pracujesz jako Tech Writer?**
 
 10 lat.
 
-### **W jaki sposób zostałeś Tech Writerem?**
+#### **W jaki sposób zostałeś Tech Writerem?**
 
 Zanim zostałem writerem, pracowałem (uwaga, niespodzianka!) jako nauczyciel
 angielskiego. Zostałem zwerbowany za pomocą
@@ -35,7 +35,7 @@ TechComm o trzy nowe stanowiska i tradycyjna rekrutacja okazała się nieskutecz
 w dotarciu do osób biegle posługujących się angielskim z technicznym zacięciem
 (w tej kolejności). Wcześniej nie miałem pojęcia, że taki zawód istnieje.
 
-### **Czy możesz opowiedzieć coś o swojej firmie i zespole w którym pracujesz?**
+#### **Czy możesz opowiedzieć coś o swojej firmie i zespole w którym pracujesz?**
 
 Pracuję w dużej, międzynarodowej firmie, która jest światowym liderem na rynku
 oprogramowania do zarządzania wydajnością aplikacji (APM – Application
@@ -45,7 +45,7 @@ writer”. Content tworzy jednak znacznie większe grono – Product Management,
 Support, Sales Engineers, a nawet sami użytkownicy za pośrednictwem Community.
 Mój własny zespół to trzech writerów.
 
-### **W jaki sposób jest zorganizowana praca Twoja i Twojego zespołu?**
+#### **W jaki sposób jest zorganizowana praca Twoja i Twojego zespołu?**
 
 W firmie nie ma oddzielnego działu TechComm. Organizacyjnie jesteśmy częścią
 developmentu. Pracujemy w Agile. Poza taskami dokumentacyjnymi, zajmujemy się
@@ -56,7 +56,7 @@ developmentu. Współpracujemy blisko z supportem, jesteśmy zaangażowani w
 budowanie Community użytkowników, a także dostarczamy pomocy językowej i
 redakcyjnej innym działom firmy, niezwiązanym z developmentem.
 
-### **Jakich narzędzi używasz i co o nich sądzisz?**
+#### **Jakich narzędzi używasz i co o nich sądzisz?**
 
 Przeszliśmy długą drogę od dokumentacji utrzymanej w Wordzie, którą
 transformowaliśmy do DocBooka, dla którego opracowaliśmy nasz własny system
@@ -70,7 +70,7 @@ narzędzia. Obecnie dokumentację utrzymujemy w Confluence. Z jednej strony
 brakuje nam elastyczności jaką dawała nam DITA, z drugiej, uczymy się oszczędnie
 gospodarować słowem i możliwie upraszczać strukturę informacji.
 
-### **W jaki sposób zdobywasz informacje potrzebne do tworzenia dokumentacji?**
+#### **W jaki sposób zdobywasz informacje potrzebne do tworzenia dokumentacji?**
 
 Wszelkimi znanymi techwriterom kanałami – rozmowy z SMEs, spotkania
 planistyczne, spotkania demo, Jira, dokumentacja developerska, kod, forum
@@ -78,7 +78,7 @@ użytkowników, tickety supportowe oraz wszelkie skrawki informacji, które wpad
 w nasze ręce – jak w kawale o studentach, którzy kserują kawałek papieru
 przywianego przez wiatr na ulicy.
 
-### **Jakie dokumenty dostarczasz, w jakiej postaci, w jakim języku i jak są one publikowane?**
+#### **Jakie dokumenty dostarczasz, w jakiej postaci, w jakim języku i jak są one publikowane?**
 
 Za czasów DITY dostarczaliśmy PDFy, czysty HTML, WebHelp, Windows Help, a także
 eksportowaliśmy content wprost do Confluence. Dzisiaj, jedyna forma informacji
@@ -87,7 +87,7 @@ zaawansowany plugin pozwalający na eksport do PDF i HTMLa o jakości zbliżonej
 plików produkowanych przez DITA Open Toolkit. Całość informacji dostarczamy w
 języku angielskim.
 
-### **Jakie produkty opisujesz?**
+#### **Jakie produkty opisujesz?**
 
 Zaawansowane oprogramowanie do monitorowania wydajności aplikacji sieciowych.
 Nasi odbiorcy to pełen przekrój, od zwykłych odbiorców raportów, poprzez
@@ -96,11 +96,11 @@ softwarem, aż po DevOps i zaawansowanych użytkowników, którzy używają nasz
 softu do rozwiązywania problemów w swoich aplikacjach. Ważnym odbiorcą naszej
 pracy są także pracownicy firmy wykonujący zadania u klientów.
 
-### **Czy oprócz tworzenia dokumentacji zajmujesz się czymś jeszcze, np. tworzeniem materiałów marketingowych? Jeśli tak, to czym i jakich narzędzi do tego używasz?**
+#### **Czy oprócz tworzenia dokumentacji zajmujesz się czymś jeszcze, np. tworzeniem materiałów marketingowych? Jeśli tak, to czym i jakich narzędzi do tego używasz?**
 
 Pracuję także nad UX Copywriting.
 
-### **Jakie są największe wyzwania, które napotykasz w swojej pracy?**
+#### **Jakie są największe wyzwania, które napotykasz w swojej pracy?**
 
 Wyzwanie jest tak naprawdę jedno i z niego wywodzą się wszystkie inne. Dostęp do
 informacji. Nasz software jest często używany w środowiskach niedostępnych
@@ -108,13 +108,13 @@ zwykłym śmiertelnikom, więc nie każdą funkcjonalność jesteśmy w stanie
 przetestować samodzielnie w realnych warunkach, a tym samym uzyskać perspektywę
 końcowego użytkownika.
 
-### **Co najbardziej lubisz w pracy Tech Writera?**
+#### **Co najbardziej lubisz w pracy Tech Writera?**
 
 Możliwość obcowania z technologią i wszechstronność zadań, z którymi się mierzę.
 Jestem trochę researcherem, trochę developerem, trochę testerem, trochę
 grafikiem, no i w końcu trochę pisarzem.
 
-### **Co byś radził osobom, które chciałyby zacząć swoją przygodę z pisaniem dokumentacji?**
+#### **Co byś radził osobom, które chciałyby zacząć swoją przygodę z pisaniem dokumentacji?**
 
 Poszukać oferty i odpowiedzieć na nią, nie przejmując się zbytnio brakami w
 litanii oczekiwań od kandydata. Rekrutując na to stanowisko, sprawdza się przede

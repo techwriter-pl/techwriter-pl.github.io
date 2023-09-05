@@ -20,7 +20,7 @@ poniżej. Zapraszamy!
 
 <!--truncate-->
 
-### Linode - informacje ogólne
+#### Linode - informacje ogólne
 
 [Linode](https://www.linode.com/) to amerykańska firma oferująca usługi związane
 z chmurą obliczeniową. Jest obecna na rynku od 2003 roku. Celem firmy jest
@@ -28,7 +28,7 @@ dotarcie do jak najszerszej liczby klientów, którzy w prosty i przyjazny
 użytkownikowi sposób będą mogli korzystać z usług wirtualnej chmury stworzonej
 przez pracowników Linode.
 
-### Linode a technical writing
+#### Linode a technical writing
 
 Firma Linode posiada szeroką ofertę usług związanych z różnymi technologiami
 dlatego jednym z ważnych elementów jej portfolio jest dobra dokumentacja. Jej
@@ -40,7 +40,7 @@ Jeśli posiadacie doświadczenie w tworzeniu dokumentacji technicznej i
 zainteresują Was zasoby wiedzy oferowane przez Linode możecie sami zostać
 członkami zespołu. Jak to zrobić?
 
-### Pisz dla Linode
+#### Pisz dla Linode
 
 [Pisz dla Linode](https://www.linode.com/lp/write-for-linode/) to nazwa programu
 skierowana do freelancerów z doświadczeniem w pisaniu dokumentacji. Osoby
@@ -49,7 +49,7 @@ przeczytacie poniżej. W zależności od rodzaju dostarczonego tekstu, w ramach
 programu można zarobić conajmniej $100 za aktualizację istniejącego dokumentu
 lub minimum $300 za w pełni autorski tekst.
 
-#### Jak dołączyć do programu?
+##### Jak dołączyć do programu?
 
 Wystarczy wypełnić
 [formularz](https://www.linode.com/lp/write-for-linode/#write-for-linode-form),
@@ -74,14 +74,14 @@ Osoby, które będą chciały powtórnie napisać tekst dla Linode nie muszą
 przechodzić weryfikacji. Wystarczy, że zgłoszą się z pomysłem do osoby, z którą
 już współpracowały.
 
-### Biblioteka Linode
+#### Biblioteka Linode
 
 Firma posiada obszerną bazę z dokumentacją techniczną, zawierającą liczne
 przewodniki, oraz dokumenty instruktażowe. Obecnie dysponuje ponad tysiącem
 pozycji, a korzysta z niej ponad milion czytelników miesięcznie. Należy jednak
 zaznaczyć, że aby mieć dostęp do części materiałów należy wykupić subskrypcję.
 
-#### Co znajdziemy w bibliotece?
+##### Co znajdziemy w bibliotece?
 
 W centrum zainteresowania autorów z Linode jest dokumentacja open-source
 dotycząca między innymi:
@@ -118,7 +118,7 @@ Typy dokumentacji w bibliotece Linode:
 Jeśli jesteście zainteresowani zasobami biblioteki Linode to możecie je
 przeglądać [pod tym linkiem](https://www.linode.com/docs/).
 
-### Społeczność Linode
+#### Społeczność Linode
 
 Linode zrzesza wokół siebie ludzi, którzy chętnie dzielą się z innymi swoją
 wiedzą. Członkowie społeczności angażują się w różne projekty, z których mogą

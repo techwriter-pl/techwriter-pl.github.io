@@ -22,7 +22,7 @@ tym artykule!
 
 <!--truncate-->
 
-## Gdzie, ile i jakich ilustracji używać?
+### Gdzie, ile i jakich ilustracji używać?
 
 Wszystko zależy od tematu, branży i grupy docelowej. Poprawne umieszczanie
 elementów wizualnych może pomóc Waszemu odbiorcy z niewielką wiedzą techniczną
@@ -49,7 +49,7 @@ Bardzo ważne jest aby użycie grafiki, zdjęcia czy screenshotu w instrukcji ni
 było przypadkowe. Nie mogą one być interpretowane w niewłaściwy sposób, dlatego
 ważne jest aby ich poprawnie używać!
 
-## Skąd brać ilustracje i inne elementy wizualne?
+### Skąd brać ilustracje i inne elementy wizualne?
 
 W zależności od stopnia złożoności treści technicznej, Wasze ilustracje, które
 będą w dokumentacji, będą powstawały przy współpracy z ekspertami, inżynierami,
@@ -66,7 +66,7 @@ stworzonych przez Międzynarodową Organizację Normalizacyjną
 jakich oznaczeń używać w danej branży, np. oznaczenia graficzne na rysunkach
 architektoniczno-budowlanych lub oznaczenia na diagramach elektrycznych.
 
-## Grafika, obraz, screenshot - jak ich używać i dlaczego?
+### Grafika, obraz, screenshot - jak ich używać i dlaczego?
 
 Poniżej  kilka wskazówek, które pomogą Wam upewnić się, że  elementy wizualne są
 używane odpowiednio.
@@ -152,7 +152,7 @@ używane odpowiednio.
   musieli utrzymać wszystkie zwizualizowane dane co może znacząco wpłynąć na
   ilość pracy do jej aktualizacji.
 
-## Podsumowując
+### Podsumowując
 
 Temat elementów wizualnych jest dość szeroki i można by go jeszcze bardziej
 rozwinąć. Jednak, żeby nie przeładować Was informacjami skończymy tutaj.

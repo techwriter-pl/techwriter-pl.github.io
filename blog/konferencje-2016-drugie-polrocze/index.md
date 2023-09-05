@@ -19,7 +19,7 @@ Jednocześnie przypominamy o możliwości zapisu na niektóre
 [konferencje z pierwszej połowy roku](http://techwriter.pl/konferencje-2016-pierwsze-polrocze/).
 Czerwiec blisko, więc czasu już nie ma zbyt wiele.
 
-## Lipiec
+### Lipiec
 
 1-3 lipca, Funchal, Madera (Portugalia) -
 [e-Learning](http://elearning-conf.org/)
@@ -30,7 +30,7 @@ Czerwiec blisko, więc czasu już nie ma zbyt wiele.
 19-20 lipca -
 [IDEAS Summer Conference 2016](https://ideas.infomanagementcenter.com/) (ONLINE)
 
-## Wrzesień
+### Wrzesień
 
 6-9 września, Cleveland, Ohio, USA -
 [CMWorld 2016](http://www.contentmarketingworld.com/)
@@ -58,7 +58,7 @@ medialnym konferencji :-)**
 21-23 września, Chicago, Illinois, USA -
 [WebVisions Chicago](http://www.webvisionsevent.com/chicago/)
 
-## Październik
+### Październik
 
 2-5 października, Austin, Teksas, USA -
 [ProComm 2016](http://sites.ieee.org/pcs/procomm2016/)
@@ -81,7 +81,7 @@ sprawdzenie, która z podanych dat jest aktualna.
 29 października, Londyn, Wielka Brytania -
 [WebVisions London](http://www.webvisionsevent.com/london/)
 
-## Listopad
+### Listopad
 
 2 listopada, Helsingør, Dania
 - [MadUsers Conference 2016](http://write2users.com/madusers-conference-2016/)

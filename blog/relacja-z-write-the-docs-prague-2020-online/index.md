@@ -23,7 +23,7 @@ online. Nowy charakter Write the Docs nie powstrzymał uczestników od spotkań
 oraz aktywnego angażowania się w dyskusje oraz wystąpienia na wirtualnej scenie
 i poza nią.
 
-## O wirtualnej konferencji
+### O wirtualnej konferencji
 
 W konferencji wzięło udział ponad 300 osób z całego świata. Dla niektórych
 uczestników wiązało się to z niewielkim utrudnieniem - nocnym wstawaniem. Na
@@ -36,14 +36,14 @@ uczestniczyć w sesjach writing days i zadawać pytania. W międzyczasie uczestn
 mogli się bliżej poznać i podzielić swoimi spostrzeżeniami oraz wiedzą z zacisza
 swojego domu 😊.
 
-## [![](images/20201031_230235-1024x645.jpg)](http://techwriter.pl/wp-content/uploads/2020/11/20201031_230235.jpg)
+### [![](images/20201031_230235-1024x645.jpg)](http://techwriter.pl/wp-content/uploads/2020/11/20201031_230235.jpg)
 
 Organizatorzy zadbali o wszystkie aspekty konferencji. Na początek przygotowali
 [Intro](https://youtu.be/aLtnc0ITzok) jak poruszać się po platformie. Uczestnicy
 natomiast mogli wygodnie usiąść w swoich fotelach z kubkiem kawy lub herbaty i
 skupić się na wydarzeniu.
 
-## Atmosfera
+### Atmosfera
 
 Zaletą niewirtualnych konferencji są oczywiście bezpośrednie kontakty z
 uczestnikami, możliwość dołączenia do spontanicznej dyskusji przy kawie, udział
@@ -70,7 +70,7 @@ elastyczność. Po przestawieniu się w nowy tryb, można było wejść w wiele
 interesujących interakcji, posłuchać o narzędziach, rozwiązaniach i dobrze się
 przy tym pośmiać.
 
-## Wystąpienia
+### Wystąpienia
 
 Jak co roku, konferencję rozpoczęła
 [Mikey Ariel](https://www.linkedin.com/in/thatdocslady/?originalSubdomain=cz),
@@ -84,7 +84,7 @@ W głowie najbardziej zapadło mi kilka wystąpień, którymi chciałabym (w imi
 redakcji) się z Wami podzielić. Wszystkie wystąpienia znajdziecie
 [(tutaj)](https://www.youtube.com/watch?v=Vf5f2wBdFXo&list=PLZAeFn6dfHpmRWZJaUwQzsdagW2TtRI2x).
 
-## Czy osoba tworząca graffiti ma coś wspólnego z technical writerem?
+### Czy osoba tworząca graffiti ma coś wspólnego z technical writerem?
 
 [Kruno Golubić](https://onthegosystems.com/team/kruno-golubic/)  w swoim 
 wystąpieniu *["From Graffiti Writer to Technical Writer"](https://youtu.be/HnK_DmUMo-M)*
@@ -100,7 +100,7 @@ To dobra inspiracja zwłaszcza dla osób chcących rozpocząć swoja przygodę z
 tworzeniem dokumentacji. Może w Was również drzemią nieodkryte talenty lub
 posiadacie wiedzę, którą możecie podzielić się z innymi?
 
-## Dlaczego analiza danych i komentarze od klienta są potrzebne?
+### Dlaczego analiza danych i komentarze od klienta są potrzebne?
 
 Bardzo ciekawe wystąpienie
 [Karissy Van Baulen](https://www.linkedin.com/in/karissavb/) -["The Importance of Using Analytics and Feedback for your Documentation"](https://youtu.be/EkPU2afWPDA)*.* Karissa
@@ -113,7 +113,7 @@ i pieniądze.
 
 Ma to sens? Może warto się nad tym zastanowić 🤔?
 
-## Czy to co piszemy w dokumentacji jest zrozumiałe?
+### Czy to co piszemy w dokumentacji jest zrozumiałe?
 
 [Paul Brown](https://www.linkedin.com/in/paul-brown-120bb41) z swojej prelekcji
 ["_Baseline or Technical Writing for Not-Technical Readers"_](https://youtu.be/GVFsjcS6f3I)
@@ -134,7 +134,7 @@ kilka podstawowych zasad, którymi warto się kierować:
 Ułatwi to Waszemu odbiorcy przejść przez dokumentację, a także pomoże mu
 zrozumieć dlaczego i w jaki sposób może użyć produktu.
 
-## Podać przykład? Tak czy nie?
+### Podać przykład? Tak czy nie?
 
 Idąc tropem dobrych praktyk w dokumentacji,
 [Joe Malin](https://www.linkedin.com/in/joemalin) w swoim wystąpieniu
@@ -161,7 +161,7 @@ Co tu dużo pisać 😉
 
 > ”Examples are worth 1000 words”
 
-## Hmmm... a może użyć wideo lub screeshoty?
+### Hmmm... a może użyć wideo lub screeshoty?
 
 Pliki multimedialne, GIF-y czy screeshoty są często dodawane jako materiały
 pomocnicze do dokumentacji. Pomagają klientom oraz użytkownikom zrozumieć
@@ -193,7 +193,7 @@ Podstawowe parametry procesu to:
   jak mają wyglądać i brzmieć multimedia i przygotować materiały pomocnicze dla
   zespołu.
 
-## Czy ta strona budzi Twoją radość?
+### Czy ta strona budzi Twoją radość?
 
 Czy zdarza Wam się przeszukiwać dziesiątki stron z dokumentacją, które
 gromadziły się przez lata w intranecie Waszego firmy? Czy czujecie się czasem
@@ -212,7 +212,7 @@ koncepcyjne i techniczne. Nagrywając materiał na konferencje Abigail bardzo
 zręcznie skorzystała z nagrania na tle zielonego ekranu, co dodatkowo dało
 bardzo ciekawy efekt wizualny.
 
-## Podsumowanie
+### Podsumowanie
 
 Tegoroczna wirtualna konferencja Write The Docs Prague 2020 była wspaniałą
 okazją na sprawdzenie nowych możliwości integrowana się społeczności w sieci.

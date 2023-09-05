@@ -47,7 +47,7 @@ uporządkowanej formie. W poniższym artykule przytaczam kilka moich ulubionych
 fragmentów z krótkimi komentarzami. W tekście zawarłem tłumaczenia mojego
 autorstwa.
 
-## Sekcja 1.2: Wartość biznesowa komunikacji technicznej
+### Sekcja 1.2: Wartość biznesowa komunikacji technicznej
 
 _Technical communication, as a part of product development process has a great
 influence on the way an organization is perceived by customers and partners. A
@@ -62,7 +62,7 @@ marketing tool._
 
 ---
 
-##### `Komunikacja techniczna, będąca częścią procesu rozwoju produktu, ma wielki wpływ na to, jak organizacja odbierana jest przez klientów i partnerów biznesowych. Dobrze udokumentowany produkt dostarczony wraz z kompleksowymi materiałami szkoleniowymi jest bardziej atrakcyjny dla klientów z racji redukcji kosztów i mniejszego wysiłku potrzebnego na wdrożenie, obsługę i utrzymanie produktu w dobrym stanie; nakłady na szkolenia pracownicze okazują się mniejsze. Organizacja potrafiąca dostarczyć takie materiały w ramach dobrze opisanej procedury bazującej na uznanych standardach ma większe szanse na zdobycie zaufania partnerów biznesowych, dlatego komunikacja techniczna może być skutecznie stosowana jako cenne narzędzie marketingowe.`
+###### `Komunikacja techniczna, będąca częścią procesu rozwoju produktu, ma wielki wpływ na to, jak organizacja odbierana jest przez klientów i partnerów biznesowych. Dobrze udokumentowany produkt dostarczony wraz z kompleksowymi materiałami szkoleniowymi jest bardziej atrakcyjny dla klientów z racji redukcji kosztów i mniejszego wysiłku potrzebnego na wdrożenie, obsługę i utrzymanie produktu w dobrym stanie; nakłady na szkolenia pracownicze okazują się mniejsze. Organizacja potrafiąca dostarczyć takie materiały w ramach dobrze opisanej procedury bazującej na uznanych standardach ma większe szanse na zdobycie zaufania partnerów biznesowych, dlatego komunikacja techniczna może być skutecznie stosowana jako cenne narzędzie marketingowe.`
 
 ---
 
@@ -73,7 +73,7 @@ działu dokumentacji bywa trudna do uchwycenia i zaprezentowania. Powyższy akap
 dobrze podsumowuje niektóre z korzyści, jakie płyną z inwestowania w
 dokumentację na odpowiednim poziomie.
 
-## Sekcja 1.4: Psychologiczny aspekt komunikacji technicznej
+### Sekcja 1.4: Psychologiczny aspekt komunikacji technicznej
 
 _It lies in the writers’ best interest to ensure a successful interaction and a
 constructive flow of information with product developers, testers, subject
@@ -85,7 +85,7 @@ pursuing a common goal, that is, the success of their project._
 
 ---
 
-##### `W najlepszym interesie osoby tworzącej dokumentację techniczną jest dbanie o udane interakcje z twórcami produktu, testerami, ekspertami, jak i z przedstawicielami kadry zarządzającej. Potrzebny jest też konstruktywny przepływ informacji. W osiągnięciu tych celów szczególnie pomocnymi cechami okazują się być zarówno spójność i ciekawość, jak i empatia wobec współpracowników i odbiorców tekstów. Najważniejszą kwestią jest uświadamianie tego, że wszyscy zaangażowani wspólnie starają się osiągnąć jeden cel, jakim jest sukces projektu.`
+###### `W najlepszym interesie osoby tworzącej dokumentację techniczną jest dbanie o udane interakcje z twórcami produktu, testerami, ekspertami, jak i z przedstawicielami kadry zarządzającej. Potrzebny jest też konstruktywny przepływ informacji. W osiągnięciu tych celów szczególnie pomocnymi cechami okazują się być zarówno spójność i ciekawość, jak i empatia wobec współpracowników i odbiorców tekstów. Najważniejszą kwestią jest uświadamianie tego, że wszyscy zaangażowani wspólnie starają się osiągnąć jeden cel, jakim jest sukces projektu.`
 
 ---
 
@@ -110,7 +110,7 @@ the psychology of the audience._
 
 ---
 
-##### `Wiele materiałów dostarczanych w ramach komunikacji technicznej stanowi ogniwo bezpośrednio łączące produkt i jego użytkowników. Tworzenie takich treści, oprócz znajomości technologicznych aspektów procesu, wymaga również pełnego zrozumienia psychologii odbiorców.`
+###### `Wiele materiałów dostarczanych w ramach komunikacji technicznej stanowi ogniwo bezpośrednio łączące produkt i jego użytkowników. Tworzenie takich treści, oprócz znajomości technologicznych aspektów procesu, wymaga również pełnego zrozumienia psychologii odbiorców.`
 
 ---
 
@@ -129,13 +129,13 @@ department in terms of_ _reporting any encountered issues._
 
 ---
 
-##### `Na poziomie projektu, działania związane z tworzeniem dokumentacji stanowią wsparcie dla testowania produktu. Specjaliści od dokumentacji technicznej są często jednymi z pierwszych użytkowników i razem z działem zapewniania jakości mają obowiązek zgłaszać napotkane problemy.`
+###### `Na poziomie projektu, działania związane z tworzeniem dokumentacji stanowią wsparcie dla testowania produktu. Specjaliści od dokumentacji technicznej są często jednymi z pierwszych użytkowników i razem z działem zapewniania jakości mają obowiązek zgłaszać napotkane problemy.`
 
 ---
 
 Dokumentacja wpływa na jakość produktu - warto o tym pamiętać.
 
-## Sekcja 1.5: Etyka zawodowa
+### Sekcja 1.5: Etyka zawodowa
 
 _\[...\] apart from practical preparation, technical communication professionals
 need to understand_ _and respect the ethical foundations implied by their
@@ -143,7 +143,7 @@ profession._
 
 ---
 
-##### `[...] poza praktycznymi aspektami przygotowania materiału, specjaliści komunikacji technicznej muszą rozumieć i respektować kwestie etyczne wynikające z ich profesji.`
+###### `[...] poza praktycznymi aspektami przygotowania materiału, specjaliści komunikacji technicznej muszą rozumieć i respektować kwestie etyczne wynikające z ich profesji.`
 
 ---
 

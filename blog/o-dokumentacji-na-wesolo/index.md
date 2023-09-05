@@ -19,7 +19,7 @@ humorystycznym w jakiejkolwiek formie.
 
 <!--truncate-->
 
-## Coś dla fanów humoru rysunkowego
+### Coś dla fanów humoru rysunkowego
 
 Społeczność
 [Adobe Technical Communications Group](https://web.facebook.com/adobetcs/) na
@@ -34,7 +34,7 @@ _Źródło: https://web.facebook.com/adobetcs/_
 
 Szkoda, że galeria już od dawna nie jest aktualizowana.
 
-## Kilka nietuzinkowych instrukcji
+### Kilka nietuzinkowych instrukcji
 
 Na blogu [Technical Writing ToolBox](http://technicalwritingtoolbox.com/) w
 kategorii [humor](http://technicalwritingtoolbox.com/category/humor/) możecie
@@ -45,7 +45,7 @@ to zdecydowanie przedstawiona poniżej metka.
 
 _Żródło: http://technicalwritingtoolbox.com/_
 
-## Byle nie przesadzić
+### Byle nie przesadzić
 
 Jeśli nie do końca wiecie na jaką ilość humoru może sobie pozwolić pisząc
 dokumentację, to polecamy zapoznać się z pracą magisterską pana Davida Robertsa
@@ -78,7 +78,7 @@ skrót pracy w wersji oryginalnej.
 > understanding of how humor affects the credibility and success of
 > documentation.
 
-## Dokumentaliści - niedocenieni bohaterowie
+### Dokumentaliści - niedocenieni bohaterowie
 
 Temat stary jak dowcipy z
 ["Klubu Masztalskiego"](http://lubimyczytac.pl/ksiazka/173272/klub-masztalskiego-1000-dowcipow).
@@ -92,7 +92,7 @@ pieśń (no dobra, piosnka) pochwalna na cześć dokumentalistów. Enjoy respons
 
 https://youtu.be/WiptajAc3VI
 
-## Instrukcja w stylu Brzechwy
+### Instrukcja w stylu Brzechwy
 
 Nie do końca jesteśmy sobie w stanie wyobrazić instrukcję obsługi komputera
 napisaną przez autora "Kaczki dziwaczki" z zachowaniem tej samej konwencji. Ale
@@ -119,7 +119,7 @@ autora książek dla dzieci, który nosi tytuł
 
 Ktoś chętny przełożyć na trzynastozgłoskowca? 😉
 
-## Czym skorupka za młodu...
+### Czym skorupka za młodu...
 
 Pozostajemy w temacie najmłodszych odbiorców. Okazuje się, że nawet bajka o
 rodzinie świnek może pokazywać jak ważna jest dokumentacja. W jednym z odcinków
@@ -148,7 +148,7 @@ tylko wierzchołek góry lodowej 😉
 
 https://www.youtube.com/watch?v=yDkGlKWJUM0
 
-## Promocja przede wszystkim
+### Promocja przede wszystkim
 
 Materiały wideo zachwalające nowe funkcje oprogramowania to powszechna praktyka
 stosowana przed producentów. Ale czy kiedykolwiek widzieliście filmik promujący

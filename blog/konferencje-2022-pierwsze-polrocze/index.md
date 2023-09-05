@@ -28,7 +28,7 @@ Jak zawsze, będę śledzić zmiany i uzupełniać dane w miarę ich pojawiania 
 Was mam prośbę – jeśli wiecie o jakimś wydarzeniu związanym z branżą komunikacji
 technicznej, o którym nie wspomniałam, dajcie znać, a ja przekażę info dalej 😉
 
-### Styczeń
+#### Styczeń
 
 14-17 stycznia, Tokio, Japonia – [IC4E 2022](http://www.ic4e.net/)
 
@@ -36,7 +36,7 @@ technicznej, o którym nie wspomniałam, dajcie znać, a ja przekażę info dale
 [UX Conference January](https://www.nngroup.com/training/january/) – **online**
 (strefy czasowe: obie Ameryki, Azja, Australia)
 
-### Luty
+#### Luty
 
 01-02 lutego – [UX Writer Conference’22](https://uxwriterconference.com/) –
 **online**
@@ -59,7 +59,7 @@ technicznej, o którym nie wspomniałam, dajcie znać, a ja przekażę info dale
 28 lutego-01 marca, Norfolk, Virginia, USA –
 [The 11th Symposium on Communicating Complex Information (SCCI)](https://scciannual.wordpress.com/)
 
-### Marzec
+#### Marzec
 
 02-04 marca – [Interaction22](https://www.interaction22.ixda.org/) – **online**
 
@@ -95,7 +95,7 @@ technicznej, o którym nie wspomniałam, dajcie znać, a ja przekażę info dale
 31 marca - 02 kwietnia, San Antonio, Teksas, USA  -
 [ACES 2022](https://aceseditors.org/conference)
 
-### Kwiecień
+#### Kwiecień
 
 03-04 kwietnia – [Spectrum 2022](https://stc-rochester.org/spectrum/) –
 **online**
@@ -125,7 +125,7 @@ in-person**
 
 27-29 kwietnia – [AIIP 2022](https://www.aiip.org/conference) – **online**
 
-### Maj
+#### Maj
 
 02-04 maja, Tempe, Arizona, USA - 
 [ConVex Tempe 2022](https://convex.infomanagementcenter.com/)
@@ -151,7 +151,7 @@ in-person**
 
 24-27 maja, Lizbona, Portugalia - [UXLx 2022](https://ux-lx.com/)
 
-### Czerwiec
+#### Czerwiec
 
 01-03 czerwca, Kraków, Polska – [soap! 2022](http://soapconf.com/)
 

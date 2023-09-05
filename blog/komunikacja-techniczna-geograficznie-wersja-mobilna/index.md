@@ -28,13 +28,13 @@ lub do specjalnej
 [kategorii](https://ffeathers.wordpress.com/tech-comm-on-a-map/) na blogu
 [ffeathers](https://ffeathers.wordpress.com/).
 
-## Instalacja
+### Instalacja
 
 Aplikację mobilną można pobrać z
 [Google Play](https://play.google.com/store/apps/details?id=com.techcomm.map.mobile&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1).
 Jest ona przeznaczona dla telefonów z systemem Android 4.0 lub nowszym.
 
-## Możliwości
+### Możliwości
 
 Dzięki aplikacji możemy w wygodny sposób wyszukiwać konferencje, grupy, firmy,
 stowarzyszenia i kursy związane z komunikacją techniczną oraz zgłaszać nowe
@@ -43,13 +43,13 @@ w menu aplikacji. Po pomyślnej weryfikacji są one dodawane do mapy.
 
 [![techcommonamapapp](images/techcommonamapapp-e1456521551892.png)](http://techwriter.pl/wp-content/uploads/2016/02/techcommonamapapp-e1456521551892.png)
 
-## Dla programistów
+### Dla programistów
 
 Aplikacja jest projektem z otwartym kodem źródłowym dostępnym na stronie
 [GitHub](https://github.com/sarahmaddox/techcomm-map-android). Może jest wśród
 Was ktoś kto chciałby dodać jakieś nowe opcje?
 
-## Założenie dobre, gorzej z wykonaniem
+### Założenie dobre, gorzej z wykonaniem
 
 Pomimo tego, że bardzo podoba nam się ten projekt, to jednak jego tempo rozwoju
 jest dość kiepskie. Nie mówimy tutaj o rozwoju funkcjonalności, ale o ilości

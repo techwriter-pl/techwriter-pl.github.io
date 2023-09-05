@@ -28,7 +28,7 @@ Od siebie możemy dodać, że udział w konferencji Write the Docs jest wart uwa
 gdyż poza solidną porcją wiedzy, w pakiecie otrzymujecie świetną atmosferę oraz
 spotkanie z rewelacyjnymi ludźmi z branży.
 
-## Najważniejsze informacje
+### Najważniejsze informacje
 
 Tegoroczna edycja **Write the Docs Prague** będzie w pełni **online**, a
 odbędzie się w dniach **18-20 października 2020 roku**. Tradycyjnie już, w
@@ -64,7 +64,7 @@ udziałem w wydarzeniu w roli prelegenta - informacje znajdziecie
 the Docs Prague dostępny jest pod tym
 [linkiem](https://www.writethedocs.org/conf/prague/2020/schedule/).
 
-## Rodzaje i ceny biletów
+### Rodzaje i ceny biletów
 
 Osoby zainteresowane kupnem biletów odsyłamy
 [tutaj](https://www.writethedocs.org/conf/prague/2020/tickets/), gdzie
@@ -76,7 +76,7 @@ znajdziecie szczegółowe informacje dotyczące poniższych rodzajów biletów:
   pracowników – €75.
 - Bilet dla studentów lub osób nieposiadających zatrudnienia – €25.
 
-### Co gwarantuje cena biletu?
+#### Co gwarantuje cena biletu?
 
 Cena biletu zawiera:
 

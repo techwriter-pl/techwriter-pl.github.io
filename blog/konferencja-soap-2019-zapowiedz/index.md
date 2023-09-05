@@ -18,11 +18,11 @@ informacji dotyczących wydarzenia.
 
 <!--truncate-->
 
-### **Termin**
+#### **Termin**
 
-### Siódma edycja soap! odbędzie się w dniach **5-7 czerwca w Krakowie**.
+#### Siódma edycja soap! odbędzie się w dniach **5-7 czerwca w Krakowie**.
 
-### **Miejsce**
+#### **Miejsce**
 
 Jak w ostatnich latach, tak i w tym roku konferencja odbędzie się w
 [Muzeum Sztuki i Techniki Japońskiej Manggha](http://manggha.pl/) zlokalizowanym
@@ -32,7 +32,7 @@ niestety jeszcze znane, zatem zainteresowanych zachęcamy do częstych odwiedzin
 [strony](http://soapconf.com/) lub
 [fanpage'a](https://www.facebook.com/soapconf/) wydarzenia.
 
-### **Program konferencji**
+#### **Program konferencji**
 
 Wstępny program wydarzenia jest już dostępny zatem powoli można planować swój
 udział w konkretnych prelekcjach, tak by wynieść z konferencji jak najwięcej
@@ -61,7 +61,7 @@ Jaki jest zatem ramowy program tegorocznego soap!?
   chętnych odbędzie się after party w [Tea Time](http://www.teatimebrewpub.pl/)
   na Dietla 1.
 
-### **Rejestracja i cena**
+#### **Rejestracja i cena**
 
 Rejestracja już trwa. Obecnie do wyboru są cztery typy biletów. Podane niżej
 ceny obowiązują **do 30 kwietnia**. Od 1 maja ceny biletów ulegną zmianie.
@@ -81,7 +81,7 @@ Sztuki i Techniki Japońskiej Manggha.
 
 Cena nie zawiera noclegu.
 
-### **Warsztaty**
+#### **Warsztaty**
 
 Tradycyjnie już w dniu poprzedzającym konferencję (5 czerwca) odbywać się będą
 całodniowe warsztaty. Dzięki nim poznacie nie tylko teorię, ale także praktykę
@@ -90,7 +90,7 @@ wymagają rejestracji. Cena za każdy z warsztatów wynosi 10 Euro. Szczegółow
 informacje na temat kosztów, rejestracji oraz samych warsztatów pojawią się
 wkrótce na [stronie konferencji](http://soapconf.com/).
 
-### **Więcej informacji**
+#### **Więcej informacji**
 
 Wszelkie informacje na temat konferencji można śledzić na
 [Facebooku](https://www.facebook.com/soapconf/) oraz

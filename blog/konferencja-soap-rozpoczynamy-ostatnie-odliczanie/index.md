@@ -17,13 +17,13 @@ garść najważniejszych informacji.
 
 <!--truncate-->
 
-## Termin i miejsce
+### Termin i miejsce
 
 Konferencja odbędzie się w dniach **7-9 czerwca** w
 [Muzeum Sztuki i Techniki Japońskiej Manggha](http://manggha.pl/) zlokalizowanym
 przy ul. Marii Konopnickiej 26 w Krakowie.
 
-## Rejestracja i ceny
+### Rejestracja i ceny
 
 W puli zostały następujące bilety:
 
@@ -31,7 +31,7 @@ W puli zostały następujące bilety:
 
 Rejestracja i dodatkowe informacje [tutaj](http://soapconf.com/#ticket).
 
-## Warsztaty Edu Summit
+### Warsztaty Edu Summit
 
 Organizatorzy przygotowali dla Was nie tylko dwa dni wypełnione po brzegi
 prezentacjami (więcej info
@@ -69,7 +69,7 @@ trakcie przerwy na lunch.
 Pamiętajcie, by zwrócić uwagę na godzinę w jakiej odbywa się wybrany przez Was
 warsztat, tak by nie pokrywał się on z innym.
 
-## Wolontariat
+### Wolontariat
 
 Jeśli jesteś studentem lub stażystą chętnym pomóc w organizacji wydarzenia (Edu
 summit oraz soap!) i masz czas w dniach 5-9 czerwca 2017 roku zarejestruj się

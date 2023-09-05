@@ -19,7 +19,7 @@ Dziś kilka słów na temat dwóch ostatnich odcinków podcastu
 
 <!--truncate-->
 
-### Odcinek 24
+#### Odcinek 24
 
 W
 [odcinku dwudziestym czwartym](https://techwriterkoduje.pl/blog/2020/12/23/tech-writer-publikuje-inaczej),
@@ -51,7 +51,7 @@ udostępniania zmieniał się wraz ze zmianami wynikającymi z rozwoju
 technologicznego? Jeśli jesteście ciekawi rozwiązania tego problemu, nie
 pozostaje nic innego, jak włączyć podcast 😉.
 
-### Odcinek 25
+#### Odcinek 25
 
 Tematem przewodnim
 [odcinka](https://techwriterkoduje.pl/blog/2021/01/21/tech-writer-koduje-w-dokumentacji)

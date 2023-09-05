@@ -20,11 +20,11 @@ księgowych. To tyle słowem wstępu, zapraszamy do lektury.
 
 <!--truncate-->
 
-### Jak długo pracujesz jako Tech Writer?
+#### Jak długo pracujesz jako Tech Writer?
 
 Prawie 3 lata.
 
-### W jaki sposób zostałaś Tech Writerem?
+#### W jaki sposób zostałaś Tech Writerem?
 
 Skończyłam studia na Politechnice Warszawskiej na wydziale Mechatronika,
 kierunek Mechanika i Budowa Maszyn, specjalizacja Mikromechanika. Dość szybko
@@ -50,7 +50,7 @@ szkolnych, zajmowałam się korektą tekstów znajomych i mojej Mamy. W pierwsze
 pracy dość szybko wszystkie oficjalne teksty i ulotki promocyjne zaczęły być
 kierowane do mnie w celu sprawdzenia poprawności.
 
-### Czy możesz opowiedzieć coś o swojej firmie i zespole, w którym pracujesz?
+#### Czy możesz opowiedzieć coś o swojej firmie i zespole, w którym pracujesz?
 
 Pracuję w dziale produkcji oprogramowania, gdzie tworzymy i utrzymujemy programy
 księgowe. Dział liczy 20 osób i jest podzielony na 4 zespoły. Początkowo nie
@@ -58,7 +58,7 @@ byłam przypisana do konkretnego zespołu, pracowałam „ponad podziałami”. 
 dwa miesiące byłam związana z zespołem, którego zadania najbardziej pokrywały
 się z moimi.
 
-### W jakis sposób jest zorganizowana praca Twoja i Twojego zespołu?
+#### W jakis sposób jest zorganizowana praca Twoja i Twojego zespołu?
 
 Zespoły pracują w lekko zmodyfikowanym scrumie. Moim zadaniem było stworzenie
 całkiem nowej, nowoczesnej instrukcji do istniejącego programu, a także
@@ -74,13 +74,13 @@ mnie.
 Obecnie zostałam na stałe włączona do zespołu pracującego nad nową aplikacją,
 jednak wykonuję zadania dla wszystkich.
 
-### Jakich narzędzi używasz i co o nich sądzisz?
+#### Jakich narzędzi używasz i co o nich sądzisz?
 
 Korzystam z Confluenca. Nie mam do niego jakichś wielkich uwag. Prosty w
 obsłudze, łatwo wprowadzać zmiany. Czasem niektóre elementy graficzno – edycyjne
 zachowują się z sposób niezrozumiały, ale można nauczyć się z tym żyć.
 
-### W jaki sposób zdobywasz informacje potrzebne do tworzenia dokumentacji?
+#### W jaki sposób zdobywasz informacje potrzebne do tworzenia dokumentacji?
 
 Wiadomości merytoryczne (księgowo – kadrowe, produkcyjne, sprzedażowe) czerpałam
 z internetu i od product ownerów, którzy są niesamowitymi specjalistami,
@@ -91,18 +91,18 @@ Czystą obsługę programu zawsze najpierw próbuję opanować sama, chyba że t
 jest wyjątkowo trudny. W przypadku wątpliwości pomagają mi w pierwszej
 kolejności product ownerzy, potem programiści.
 
-### Jakie dokumenty dostarczasz, w jakiej postaci, w jakim języku/językach i jak są one publikowane?
+#### Jakie dokumenty dostarczasz, w jakiej postaci, w jakim języku/językach i jak są one publikowane?
 
 Instrukcja jest dostępna online. Ja piszę bezpośrednio w Confluence i mam stałą
 kontrolę nad wyglądem i formą tekstu. Piszę tylko po polsku, programy, które
 opisuję są skierowane tylko do polskich odbiorców.
 
-### Jakie produkty opisujesz?
+#### Jakie produkty opisujesz?
 
 Program księgowy RAKS SQL, program dla samodzielnych przedsiębiorców TAXEON (w
 ramach oddzielnej pracy)
 
-### Czy oprócz tworzenia dokumentacji zajmujesz się czymś jeszcze, np. tworzeniem materiałów marketingowych? Jeśli tak, to czym i jakich narzędzi do tego używasz?
+#### Czy oprócz tworzenia dokumentacji zajmujesz się czymś jeszcze, np. tworzeniem materiałów marketingowych? Jeśli tak, to czym i jakich narzędzi do tego używasz?
 
 Tak, ostatnio w ramach promocji nowego programu zajmowałam się edytowaniem i
 sprawdzaniem poprawności tekstów znajdujących się w programie i na stronie go
@@ -111,7 +111,7 @@ reklamowe, znajdujące się na stronie, korzystając z programu Camtasia. Jeśli
 poprawiam lub piszę teksty, które potem programiści wprowadzają bezpośrednio do
 programu, to dostarczam je im w zwykłym doc-u.
 
-### Jakie są największe wyzwania, które napotykasz w swojej pracy?
+#### Jakie są największe wyzwania, które napotykasz w swojej pracy?
 
 Przełamanie strachu pytania o wszystko. Pogodzenie się z tym, że w momencie
 kiedy siadam do nowego tematu nie mam o nim zielonego pojęcia (to nawet
@@ -119,13 +119,13 @@ przekułam w zaletę i bardzo lubię dowiadywać się coraz to nowych rzeczy).
 Wyzwaniem też było nauczyć się odbierać uwagi i poprawki od innych osób, nie
 zawsze kompetentnych i „uprawnionych” do dawania uwag.
 
-### Co najbardziej lubisz w pracy Tech Writera?
+#### Co najbardziej lubisz w pracy Tech Writera?
 
 Samodzielność. U mnie w firmie mam praktycznie nieograniczoną władzę nad moją
 (tak o niej myślę) dokumentacją. Spokój (na ogół nie gonią mnie terminy).
 Zdobywanie ciekawych informacji.
 
-### Co byś radziła osobom, które chciałyby zacząć swoją przygodę z pisaniem dokumentacji?
+#### Co byś radziła osobom, które chciałyby zacząć swoją przygodę z pisaniem dokumentacji?
 
 Jeśli są językowymi pedantami – niech się nie wahają! W zasadzie podpisuję się
 pod wszystkimi radami, jakie dają guru od technical writingu. W tej pracy nie

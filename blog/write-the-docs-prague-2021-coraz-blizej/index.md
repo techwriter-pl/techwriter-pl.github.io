@@ -18,7 +18,7 @@ garść najważniejszych informacji.
 
 <!--truncate-->
 
-### Co, gdzie i kiedy?
+#### Co, gdzie i kiedy?
 
 Z uwagi na wciąż panującą pandemię, konferencja ponownie odbędzie się w formacie
 **online**. Termin wydarzenia to **3-5 października**.
@@ -48,7 +48,7 @@ tematyką ich wystąpień. Poniżej zagadnienia, które przypadły nam najbardzi
 gustu. Dajcie znać, które tematy najbardziej Was zaciekawiły 🙂 A może na Waszej
 liście znalazły się inne prelekcje? Zapraszamy do komentarzy.
 
-### Prelekcje – subiektywny wybór
+#### Prelekcje – subiektywny wybór
 
 Wiadomo już, że podczas dwóch dni konferencji odbędzie się 14 prelekcji.
 Poniższe tematy szczególnie zwróciły naszą uwagę, choć trzeba przyznać, że w tym
@@ -115,7 +115,7 @@ konferencji:
 - [Write the Docs Prague 2017](http://techwriter.pl/write-the-docs-prague-2017-relacja/),
 - [Write the Docs Europe 2016](http://techwriter.pl/write-the-docs-europe-2016-relacja/).
 
-### Rodzaje i ceny biletów
+#### Rodzaje i ceny biletów
 
 Osoby zainteresowane kupnem biletów odsyłamy
 [na stronę](https://www.writethedocs.org/conf/prague/2021/tickets/), na której

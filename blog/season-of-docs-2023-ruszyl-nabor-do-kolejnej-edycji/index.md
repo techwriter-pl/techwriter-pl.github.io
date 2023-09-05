@@ -19,7 +19,7 @@ twórcze umiejętności 😉 Poniżej znajdziecie najistotniejsze informacje.
 
 <!--truncate-->
 
-### Czym jest Season of Docs?
+#### Czym jest Season of Docs?
 
 [Google Season of Docs](https://developers.google.com/season-of-docs) to
 inicjatywa, która zapewnia wsparcie dla projektów open source w celu ulepszenia
@@ -53,7 +53,7 @@ jeśli nasuną Wam się dodatkowe pytania, zerknijcie do listy
 [FAQ](https://developers.google.com/season-of-docs/docs/faq), przygotowanej
 przez organizatorów.
 
-### Harmonogram edycji 2023
+#### Harmonogram edycji 2023
 
 Poniżej przedstawiamy listę najważniejszych etapów, z jakich będzie składał się
 tegoroczny Season of Docs:

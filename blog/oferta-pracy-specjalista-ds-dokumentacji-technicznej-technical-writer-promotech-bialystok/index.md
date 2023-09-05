@@ -38,7 +38,7 @@ formularza w
 
 ---
 
-### Specjalista ds. dokumentacji Technicznej / Technical Writer
+#### Specjalista ds. dokumentacji Technicznej / Technical Writer
 
 **Opis stanowiska**
 

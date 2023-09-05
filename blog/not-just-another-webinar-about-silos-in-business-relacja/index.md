@@ -29,14 +29,14 @@ pomiędzy działami w różnego rodzaju organizacjach.
 
 <!--truncate-->
 
-## Silosy w biznesie
+### Silosy w biznesie
 
 Na początku swojej prezentacji Noz opisał typowe problemy wynikające z izolacji
 działów w obrębie organizacji. Podkreślił, że dla klienta bez znaczenia jest
 proces i fazy powstawania produktu, liczy się bowiem efekt końcowy. Klient
 współpracuję z firmą, a nie jej poszczególnymi działami.
 
-## Techcomm vs Marcomm
+### Techcomm vs Marcomm
 
 Ciekawym spostrzeżeniem, szczególnie dla osób tworzących dokumentację
 techniczną, było to, że sprzedawcy w firmach bardzo często posiadają swoje
@@ -52,7 +52,7 @@ daną organizację i jej rozwiązania, czy jest się zadowolonym z danego produk
 i wpływa też na decyzję o jego zakupie. Wniosek? Dokumentacja techniczna stanowi
 świetny materiał marketingowy!
 
-## Silos vs Internet
+### Silos vs Internet
 
 Pozostałą część prezentacji Noz poświęcił opowiadając jak widzi silosy w
 dzisiejszym świecie. W erze internetu, mediów społecznościowych, stron i
@@ -73,7 +73,7 @@ bardzo ciekawy wynalazek:
 w sklepie, które wyświetlają ilość polubień na facebooku wiszących na nich
 ciuchów 😊 To jest dopiero wymiana informacji!
 
-## Co teraz?
+### Co teraz?
 
 Jakie rady daje nam Noz podsumowując swoją prezentację? Po pierwsze dowiedz się
 kim jest użytkownik, dla którego piszesz. Niby oczywiste, ale to jeszcze nie
@@ -86,7 +86,7 @@ Zainwestuj w stworzenie **strategii opracowywania treści**, bo jak mówi Noz:
 > i wiara w nasze podstarzałe umiejętności trzymają nas w miejscu. Stawiając
 > czoła przyszłości musimy być otwarci, ale też pokorni."
 
-## Podsumowując...
+### Podsumowując...
 
 ... można śmiało stwierdzić, że webinarium było dużym sukcesem. Obejrzało go
 naprawdę sporo osób, co bardzo cieszy, bo widać, że społeczność technical

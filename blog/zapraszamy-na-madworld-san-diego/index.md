@@ -18,12 +18,12 @@ nas organizatorzy? Te i inne informacje na temat wydarzenia znajdziecie poniżej
 
 <!--truncate-->
 
-## Termin
+### Termin
 
 MadWorld San Diego odbędzie się w dniach 14-17 kwietnia 2019 roku w San Diego,
 Kalifornia, USA.
 
-## Miejsce
+### Miejsce
 
 W tym roku MadWorld San Diego odbędzie się w innym miejscu niż ostatnio, a
 mianowicie w hotelu [Hard Rock](http://www.hardrockhotelsd.com/). Dla części
@@ -35,7 +35,7 @@ być w centrum najważniejszych wydarzeń organizowanych w San Diego.
 
 ![](images/page2.jpg)
 
-## Program konferencji
+### Program konferencji
 
 Podobnie jak w poprzednich latach, organizatorzy MadWorld zadbali, by pełna
 agenda wydarzenia była znana na długo przed terminem wydarzenia. Dzięki temu
@@ -78,7 +78,7 @@ Osobom chcącym bliżej poznać sylwetki prezenterów oraz tematykę ich wykład
 polecamy [MadBlog](https://www.madcapsoftware.com/blog/) gdzie, poza
 informacjami o prelegentach, znajdziecie sporo ciekawostek ze świata MadCap.
 
-## Ceny
+### Ceny
 
 Poniżej przedstawiamy zestawienie cen biletów.
 
@@ -107,7 +107,7 @@ na stronie
 
 ![](images/page3.jpg)
 
-## Dlaczego warto?
+### Dlaczego warto?
 
 Naszym zdaniem istnieje kilka powodów, dla których każdy użytkownik narzędzia
 MadCap Flare powinien rozważyć udział w konferencji MadWorld.
