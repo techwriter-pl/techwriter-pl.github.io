@@ -15,7 +15,7 @@ Ekipa Technical Writerska z HitachiEnergy Kraków i przyjaciele zapraszają 12 w
 
 Temat spotkania: _Sekrety Technical Writerów Hitachi Energy oraz ciekawostki o japońskim stylu życia i pracy. O wytrwałości, budowaniu harmonii i radzeniu sobie z przeciwnościami oczami sensejów karate._
 
-# Część 1 - Technical writing
+## Część 1 - Technical writing
 
 **Godzina:** 17.00-18.00
 
