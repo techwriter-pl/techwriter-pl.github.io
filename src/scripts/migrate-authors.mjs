@@ -16,7 +16,7 @@ for (const post of posts) {
   const filePath = join(
     blogPath,
     post.link.replace("http://techwriter.pl/", "").slice(0, -1).split("/")[0] +
-      "/index.md"
+      "/index.md",
   );
 
   if (
@@ -36,7 +36,7 @@ for (const postsWithAuthor of postsWithAuthors) {
   const postContents = readFileSync(postsWithAuthor.filePath, "utf-8");
   const updatedContents = postContents.replace(
     "date: ",
-    `authors: ${postsWithAuthor.author}\ndate: `
+    `authors: ${postsWithAuthor.author}\ndate: `,
   );
 
   writeFileSync(postsWithAuthor.filePath, updatedContents);

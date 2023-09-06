@@ -1,6 +1,5 @@
 ---
-title:
-  "Oferta pracy: technical writer (Handsontable) – zdalnie, hybrydowo lub
+title: "Oferta pracy: technical writer (Handsontable) – zdalnie, hybrydowo lub
   stacjonarnie (Gdynia)"
 authors: agnieszka
 date: "2023-08-03"

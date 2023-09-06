@@ -230,7 +230,7 @@ export default function AuthorList({ language }: AuthorListProps) {
       image_url: value.image_url,
       url: value.url,
       id: key,
-    })
+    }),
   );
 
   authorList.sort((a, b) => a.name.localeCompare(b.name));
@@ -240,7 +240,7 @@ export default function AuthorList({ language }: AuthorListProps) {
       {authorList
         .filter(
           (author) =>
-            englishDescriptions[author.id] && polishDescriptions[author.id]
+            englishDescriptions[author.id] && polishDescriptions[author.id],
         )
         .map((author: AuthorProps) => (
           <div key={author.name} className={styles.author}>

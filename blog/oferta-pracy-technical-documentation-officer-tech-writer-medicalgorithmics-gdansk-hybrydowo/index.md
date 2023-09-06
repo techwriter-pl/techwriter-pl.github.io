@@ -1,6 +1,5 @@
 ---
-title:
-  "Oferta pracy: Technical Documentation Officer / Tech Writer
+title: "Oferta pracy: Technical Documentation Officer / Tech Writer
   (Medicalgorithmics) – Gdańsk/Hybrydowo"
 authors: admin
 date: "2021-09-29"
