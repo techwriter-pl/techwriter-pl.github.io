@@ -11,6 +11,7 @@ import clsx from "clsx";
 export default function BlogHome(props): JSX.Element {
   const { pathname, search } = props.history.location;
   const { siteConfig } = useDocusaurusContext();
+  console.log(props)
 
   if (pathname.includes("/page/") || search.includes("feed=true")) {
     return <BlogListPage {...props} />;
@@ -22,15 +23,14 @@ export default function BlogHome(props): JSX.Element {
       description={siteConfig.tagline}
       wrapperClassName={styles.pageWrapper}
     >
+      <HomePageHeader />
       <div className={styles.topWrapper}>
-        <div className={styles.heroWrapper}>
-          <HomePageHeader />
-        </div>
         <div className="container">
+          <h2 className={styles.articleListTitle}>Najnowsze artykuły</h2>
           <div className={styles.items}>
             {props.items.slice(0, 3).map(({ content }) => {
               const { date, permalink } = content.metadata;
-              const { title, coverImage } = content.frontMatter;
+              const { title, coverImage, tags } = content.frontMatter;
               const coverImagePath = `/img/cover/${coverImage}`;
               return (
                 <Link
@@ -38,20 +38,21 @@ export default function BlogHome(props): JSX.Element {
                   key={date}
                   className={clsx(styles.item, "card")}
                 >
+                  <div className={styles.itemLeft}>
+                    <div className={styles.itemTitle}>{title}</div>
+                    <div>{new Date(date).toLocaleDateString('pl', { year:"numeric", month:"short", day:"numeric"})}</div>
+                    <div className={styles.tagList}>{tags.map((tag, tagKey) => <span key={tagKey} className="badge badge--secondary">{tag}</span>)}</div>
+                  </div>
                   <img
                     alt=""
                     src={coverImagePath}
                     className={styles.itemImage}
                   />
-                  <div className={styles.itemTitle}>{title}</div>
                 </Link>
               );
             })}
           </div>
         </div>
-        <div className={styles.backdrop} />
-      </div>
-      <div className="container">
         <div className={styles.buttons}>
           <Link className="button button--secondary button--lg" to="page/2">
             Więcej artykułów
