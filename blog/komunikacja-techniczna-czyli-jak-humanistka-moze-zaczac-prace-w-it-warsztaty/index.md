@@ -1,6 +1,5 @@
 ---
-title:
-  "Komunikacja techniczna, czyli jak humanistka może zacząć pracę w IT -
+title: "Komunikacja techniczna, czyli jak humanistka może zacząć pracę w IT -
   warsztaty"
 authors: agnieszka
 date: "2021-11-05"

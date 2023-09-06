@@ -23,7 +23,7 @@ for (const blogFolder of blogFolders) {
       const oldPath = resolve(
         dirname(postPath),
         "images",
-        coverImageFieldValue
+        coverImageFieldValue,
       );
 
       if (!existsSync(oldPath)) {

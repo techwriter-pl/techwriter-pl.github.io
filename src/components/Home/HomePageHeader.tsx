@@ -11,7 +11,11 @@ export default function HomePageHeader(): JSX.Element {
       <div className={clsx(styles.logoRow)}>
         <img src="/img/Coffee.svg" alt="" className={styles.coffeeImage} />
         <div>
-          <img src="/img/logo-wide.png" alt={siteConfig.title} className={styles.logoImage} />
+          <img
+            src="/img/logo-wide.png"
+            alt={siteConfig.title}
+            className={styles.logoImage}
+          />
           <h1 className={styles.tagline}>{siteConfig.tagline}</h1>
         </div>
       </div>
