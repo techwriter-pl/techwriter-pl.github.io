@@ -13,7 +13,7 @@ tags:
 coverImage: "handsontable.png"
 ---
 
-Technical Content Writer pilnie poszukiwany! Jeśli szukasz pracy i znasz dobrze
+Technical Writer pilnie poszukiwany! Jeśli szukasz pracy i znasz dobrze
 Java Script, być może to oferta dla Ciebie? Szczegóły poniżej.
 
 <!--truncate-->
