@@ -51,7 +51,7 @@ export default function BlogHome(props): JSX.Element {
                   </div>
                   <div>
                     <BlogPostContent />{" "}
-                    <Link to={permalink}>czytaj więcej...</Link>
+                    <Link to={permalink}>...czytaj dalej</Link>
                   </div>
                   <Link to={permalink} className={styles.imageContainer}>
                     <img
