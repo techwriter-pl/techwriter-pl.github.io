@@ -34,7 +34,7 @@ Klienci Handsoncode znajdują się na całym świecie i działają w różnych b
 
 Aplikacje możecie przesyłać drogą mailową na adres
 [careers@handsontable.com](mailto:careers@handsontable.com) lub korzystając z
-[formularza](https://handsontable.traffit.com/public/form/a/VGhNPQ==).
+[formularza](https://handsontable.traffit.com/public/form/a/VGh3PQ==).
 
 ---
 
