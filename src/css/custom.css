@@ -11,7 +11,7 @@
   --ifm-color-primary-lightest: #66d5eb;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
-  --tech-writer-orange: #f5bf03;
+  --tech-writer-impact-color: #f5bf03;
   --nice-heading-font: 'Oswald', sans-serif;
   --subheading-font: 'Averia Serif Libre', cursive;
   --ifm-font-family-base: 'Merriweather', serif;
@@ -37,7 +37,7 @@
 }
 
 .button--secondary {
-  background-color: var(--tech-writer-orange);
+  background-color: var(--tech-writer-impact-color);
 }
 
 .button--secondary:hover {
