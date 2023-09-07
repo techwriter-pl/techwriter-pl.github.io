@@ -33,7 +33,7 @@ export default function BlogHome(props): JSX.Element {
                     <Link to={permalink} className={styles.itemTitle}>
                       {title}
                     </Link>
-                    <div>
+                    <div className={styles.subLine}>
                       {new Date(date).toLocaleDateString("pl", {
                         year: "numeric",
                         month: "short",

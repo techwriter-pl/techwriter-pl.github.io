@@ -11,6 +11,7 @@
   text-align: center;
   color: white;
   margin-bottom: 2rem;
+  font-size: 48px;
 }
 
 .items {
@@ -38,6 +39,10 @@
   gap: 1rem;
 }
 
+.subLine {
+  font-family: var(--subheading-font);
+}
+
 .tagList {
   display: flex;
   flex-direction: row;
@@ -58,9 +63,10 @@
 }
 
 .itemTitle {
-  font-size: 32px;
+  font-size: 38px;
   font-weight: 600;
   line-height: 110%;
+  font-family: var(--nice-heading-font);
 }
 
 .buttons {
