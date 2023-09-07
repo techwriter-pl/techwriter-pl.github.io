@@ -17,7 +17,7 @@ export default function BlogHome(props): JSX.Element {
   }
 
   return (
-    <Layout title={siteConfig.title} description={siteConfig.tagline}>
+    <Layout title="Strona domowa" description={siteConfig.tagline}>
       <HomePageHeader />
       <div className={styles.topWrapper}>
         <div className="container">
