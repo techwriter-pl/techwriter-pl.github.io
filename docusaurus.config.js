@@ -38,18 +38,21 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         blog: {
-          showReadingTime: true,routeBasePath: "/",
+          showReadingTime: true,
+          routeBasePath: "/",
           blogListComponent: "@site/src/components/BlogList/BlogList",
           postsPerPage: 3,
           blogSidebarTitle: "Najnowsze wpisy",
+          editUrl:
+            "https://github.com/techwriter-pl/techwriter-pl.github.io/tree/main",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
         },
         gtag: {
-          trackingID: 'G-0FTS9C7HK4',
-          anonymizeIP: true
-        }
+          trackingID: "G-0FTS9C7HK4",
+          anonymizeIP: true,
+        },
       }),
     ],
   ],
