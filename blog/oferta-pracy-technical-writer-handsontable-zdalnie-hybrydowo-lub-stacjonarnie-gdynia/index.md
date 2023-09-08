@@ -1,5 +1,6 @@
 ---
-title: "Oferta pracy: technical writer (Handsontable) – zdalnie, hybrydowo lub
+title:
+  "Oferta pracy: technical writer (Handsontable) – zdalnie, hybrydowo lub
   stacjonarnie (Gdynia)"
 authors: agnieszka
 date: "2023-08-03"
@@ -12,8 +13,8 @@ tags:
 coverImage: "handsontable.png"
 ---
 
-Technical Writer pilnie poszukiwany! Jeśli szukasz pracy i znasz dobrze
-Java Script, być może to oferta dla Ciebie? Szczegóły poniżej.
+Technical Writer pilnie poszukiwany! Jeśli szukasz pracy i znasz dobrze Java
+Script, być może to oferta dla Ciebie? Szczegóły poniżej.
 
 <!--truncate-->
 
@@ -40,17 +41,24 @@ Aplikacje możecie przesyłać drogą mailową na adres
 
 ### Technical Writer
 
-At Handsoncode, we’re on a mission to help developers deliver software faster. Handsontable, our flagship product, has become one of the world’s most popular JavaScript data grid components. We are now seeking a Technical Writer to join our team. The ideal candidate will have a strong background in JavaScript, technical writing, and a passion for creating clear, concise, and engaging content for the JavaScript community.
+At Handsoncode, we’re on a mission to help developers deliver software faster.
+Handsontable, our flagship product, has become one of the world’s most popular
+JavaScript data grid components. We are now seeking a Technical Writer to join
+our team. The ideal candidate will have a strong background in JavaScript,
+technical writing, and a passion for creating clear, concise, and engaging
+content for the JavaScript community.
 
 **Why you should join us:**
 
 - Our values always put people first. We are curious, bold, and think long-term!
 - We aim to expand our leading role in the developer tools market.
-- We are a team of 20+ people, working together for more than seven years. Wetreat each other with respect, trust, and support.
+- We are a team of 20+ people, working together for more than seven years. We
+  treat each other with respect, trust, and support.
 
 **About you:**
 
-- 3+ years of experience in planning, writing, and maintaining technicaldocumentation
+- 3+ years of experience in planning, writing, and maintaining technical
+  documentation
 - Excellent written and spoken communication in English (native or C1)
 - Familiar with collaborative writing tools for software documentation
 - Team player with strong communication skills
@@ -59,20 +67,23 @@ At Handsoncode, we’re on a mission to help developers deliver software faster.
 
 **Nice to have:**
 
-- Familiarity with JavaScript, HTML5, and CSS3, with a good understanding ofweb development standards
+- Familiarity with JavaScript, HTML5, and CSS3, with a good understanding of web
+  development standards
 - Experience in Git and Markdown
 - Experience in open-source projects
 - Experience in developer advocacy or developer evangelism
 
 **What you will be doing:**
 
-- Identifying and resolving areas to improve in customer-facing software documentation, developer guides, and API reference
+- Identifying and resolving areas to improve in customer-facing software
+  documentation, developer guides, and API reference
 - Supervising any technical writing done by team members
 - Writing “How To” tutorials for developers
 - Writing blog posts about technical concepts of Handsontable
 - Writing announcements for the latest versions of the products
 - Contributing to the internal Handbook
-- Defining the Process Guide for creating and versioning the technical documentation
+- Defining the Process Guide for creating and versioning the technical
+  documentation
 - Defining the Style Guide for product and code documentation
 
 **What we can offer:**
@@ -87,7 +98,8 @@ At Handsoncode, we’re on a mission to help developers deliver software faster.
 - 24 days of paid annual leave
 - B2B employment
 - Work remotely, hybrid, or in our office in Gdynia (Poland)
-- In the office: snacks, cold beverages, weekly team lunch, monthly company brunch
+- In the office: snacks, cold beverages, weekly team lunch, monthly company
+  brunch
 - Apple hardware (preferable) or other, according to your preference
 - Regular open-air team-building retreats
 
@@ -96,14 +108,22 @@ Apply and create a better future for developers with us!
 **Recruitment process:**
 
 1. Apply using the form or by sending an email to careers@handsontable.com
-2. Let’s talk! You will have a quick interview with the CEO in English, using Google Meet. At this meeting, we will discuss fundamental matters such as your expected salary and form of employment.
-3. Whoa, is it a match? You will have an interview with the CEO and Marketing Manager, partly in English, using Google Meet.
-4. A brief background check – we might want to review your previous work or talk to your previous employers
+2. Let’s talk! You will have a quick interview with the CEO in English, using
+   Google Meet. At this meeting, we will discuss fundamental matters such as
+   your expected salary and form of employment.
+3. Whoa, is it a match? You will have an interview with the CEO and Marketing
+   Manager, partly in English, using Google Meet.
+4. A brief background check – we might want to review your previous work or talk
+   to your previous employers
 5. You’re in! Let’s start the journey!
 
-Applicants must hold either a valid Polish work permit or have EU citizenship prior to applying for this position. Applications from candidates who don’t have work permit or EU citizenship requirement will not be processed.
+Applicants must hold either a valid Polish work permit or have EU citizenship
+prior to applying for this position. Applications from candidates who don’t have
+work permit or EU citizenship requirement will not be processed.
 
-We are building a team that is strong in its diversity, representing a mix of different cognitive styles. Please do not include a photo, your date of birth, or your full address in your resume.
+We are building a team that is strong in its diversity, representing a mix of
+different cognitive styles. Please do not include a photo, your date of birth,
+or your full address in your resume.
 
 ---
 
