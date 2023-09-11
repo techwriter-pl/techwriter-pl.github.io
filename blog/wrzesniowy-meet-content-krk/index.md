@@ -77,7 +77,7 @@ Osoby zainteresowane mogą dołączyć do MeetContent na [Slacku](https://meetco
 
 **P:** Zarejestrowałem się, ale nie mogę wziąć udziału. Co powinienem zrobić?
 
-**Odp.** Choć będzie nam Ciebie brakowało, wiemy, że życie stawia na drodze różne przeciwności. Jeśli wiesz, że nie dasz rady przyjść, daj nam znać. Możesz to zrobić pisząc na naszą skrzynkę pocztową ([contact@meetcontent.org]()) lub wysyłając wiadomość na platformie [Slack](https://meetcontent.slack.com/archives/CCZR1KAKF). To będzie bardzo docenione!
+**Odp.** Choć będzie nam Ciebie brakowało, wiemy, że życie stawia na drodze różne przeciwności. Jeśli wiesz, że nie dasz rady przyjść, daj nam znać. Możesz to zrobić pisząc na naszą skrzynkę pocztową ([contact@meetcontent.org](mailto:contact@meetcontent.org)) lub wysyłając wiadomość na platformie [Slack](https://meetcontent.slack.com/archives/CCZR1KAKF). To będzie bardzo docenione!
 
 **P:** Spóźniłem się na wydarzenie i nie mogę wejść. Jak powiadomić organizatorów?
 
