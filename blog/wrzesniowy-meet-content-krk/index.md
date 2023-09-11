@@ -1,6 +1,6 @@
 ---
 title: "Zapraszamy na wrześniowy MeetContentKRK"
-authors: AGaworska
+authors: agnieszka
 date: "2023-09-05"
 tags:
 - "meetup"
