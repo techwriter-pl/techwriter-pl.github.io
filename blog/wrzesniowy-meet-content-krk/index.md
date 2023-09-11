@@ -6,7 +6,7 @@ tags:
 - "meetup"
 - "edukacja"
 - "spolecznosc"
-  coverImage: "15-meet-content.png"
+coverImage: "15-meet-content.png"
 ---
 Wrzesień – dla większości z nas oznacza koniec urlopu i powrót do codziennych obowiązków. Ale zbliżająca się jesień to także powrót MeetContentKRK! Przygotujcie się na nowe tematy i nowe miejsca, w których będziecie mieli okazję poznać społeczność i wymienić się przemyśleniami na temat treści.
 
