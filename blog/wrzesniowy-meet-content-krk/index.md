@@ -1,7 +1,7 @@
 ---
 title: "Zapraszamy na wrześniowy MeetContentKRK"
 authors: agnieszka
-date: "2023-09-05"
+date: "2023-09-11"
 tags:
 - "meetup"
 - "edukacja"
