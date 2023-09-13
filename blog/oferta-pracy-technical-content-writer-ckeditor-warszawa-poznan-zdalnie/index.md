@@ -17,7 +17,7 @@ na [stronie z ogłoszeniem](https://cksource.recruitee.com/o/technical-content-w
 
 <!--truncate-->
 
-# Job description
+## Job description
 
 This position within the Tiugo Marketing Team, creates content for the front-end developer audience
 of [CKEditor](https://ckeditor.com/ckeditor-5/).
@@ -35,7 +35,7 @@ The role comprises three equally important parts:
 3. Ongoing oversight and management of the entire CKE Editorial Calendar, including contributions from other team
    members
 
-## Your role:
+### Your role:
 
 - Execute a content strategy that satisfies the educational needs and problem-solution searches of our developer
   audience
@@ -56,9 +56,9 @@ The role comprises three equally important parts:
 - Develop awareness of front-end developer trends
 - Other responsibilities as requested
 
-# Job requirements
+## Job requirements
 
-## About yourself:
+### About yourself:
 
 - Minimum 3-5 years relevant technical content writing experience
 - Minimum 2 years content production management experience
@@ -71,7 +71,7 @@ The role comprises three equally important parts:
 - Portfolio of English writing samples of technical content
 - Native English speaker/writer, ideally with knowledge/understanding of Polish language
 
-## In return we offer:
+### In return we offer:
 
 - an unprecedented work atmosphere;
 - B2B agreement or equivalent with a contract of employment (annual 26-day leave included);
