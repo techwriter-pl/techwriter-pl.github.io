@@ -1,5 +1,7 @@
 {
-  "cSpell.language": "en,pl-PL",
+  "cSpell.language": "en,pl",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
   "cSpell.words": [
     "Accens",
     "Advocado",

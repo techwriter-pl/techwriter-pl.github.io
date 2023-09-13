@@ -1,5 +1,5 @@
 ---
-title: "Oferta pracy: Technical Content Writer (CKEditor) – Warszawa/Poznań/zdalnie"
+title: "Oferta pracy: Technical Content Writer (CKEditor) – Warszawa, Poznań, zdalnie"
 authors: mojk
 date: "2023-09-13"
 tags:
