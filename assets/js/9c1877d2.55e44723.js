@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[17851],{43430:e=>{e.exports=JSON.parse('{"label":"oferty-pracy","permalink":"/tags/oferty-pracy","allTagsPath":"/tags","count":167}')}}]);
