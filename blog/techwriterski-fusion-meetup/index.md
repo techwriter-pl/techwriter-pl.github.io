@@ -9,9 +9,7 @@ tags:
 coverImage: 'hitachi-meetup-cover.png'
 ---
 
-Ekipa Technical Writerska z HitachiEnergy Kraków i przyjaciele zapraszają 12
-września 17.00-19.30 do siedziby firmy ul. Pawia 7 na techwriterski fusion
-meetup w języku polskim.
+Ekipa Technical Writerska z Hitachi Energy Kraków i przyjaciele zapraszają 12 września 17.00-19.30 do siedziby firmy ul. Pawia 7 na techwriterski fusion meetup w języku polskim.
 
 <!--truncate-->
 
@@ -60,19 +58,8 @@ Zapraszamy na spotkanie, podczas którego Maja i Jakub przybliżą Wam fascynuj�
 
 Oprócz prelegentów, na wydarzeniu złapać na słowo można:
 
-- [**Mateusz (Matt) Barszcz**](https://www.linkedin.com/in/mattbarszcz/)
-  "Kreatywne role, takie jak technical writer, training developer, czy learning
-  portfolio owner pozwoliły mi przekształcać złożone tematy w materiały
-  przyjazne dla użytkownika. Po 12 latach udziału w ciekawych projektach i
-  poznawaniu metod dostarczania treści, wracam do technical writingu jako
-  członek dynamicznie rozwijającego się zespołu w Hitachi Energy."
-- [**Julia Dąbrowska**](https://www.linkedin.com/in/julia-d-19a065114/) "Jako
-  początkująca techwriterka, chętnie porozmawiam o kulisach zmiany zawodu,
-  plusach pracy dla Hitachi Energy, niuansach w języku angielskim i o tym co
-  mistrzowie Zen nazywają "umysłem początkującego"."
-- [**Piotr Sroka**](https://www.linkedin.com/in/piotrsrokatechwriter/) "Chętnie
-  porozmawiam o walorach pracy w Hitachi Energy, o blaskach i cieniach
-  organizowania zespołu writerskiego, o prostym języku, komunikacji biznesowej,
-  ASD-STE100 i Employer Branding."
+- [**Mateusz (Matt) Barszcz:**](https://www.linkedin.com/in/mattbarszcz/) "Kreatywne role, takie jak technical writer, training developer, czy learning portfolio owner pozwoliły mi przekształcać złożone tematy w materiały przyjazne dla użytkownika. Po 12 latach udziału w ciekawych projektach i poznawaniu metod dostarczania treści, wracam do technical writingu jako członek dynamicznie rozwijającego się zespołu w Hitachi Energy."
+- [**Julia Dąbrowska:**](https://www.linkedin.com/in/julia-d-19a065114/) "Jako początkująca techwriterka, chętnie porozmawiam o kulisach zmiany zawodu, plusach pracy dla Hitachi Energy, niuansach w języku angielskim i o tym co mistrzowie Zen nazywają "umysłem początkującego".
+- [**Piotr Sroka:**](https://www.linkedin.com/in/piotrsrokatechwriter/) "Chętnie porozmawiam o walorach pracy w Hitachi Energy, o blaskach i cieniach organizowania zespołu writerskiego, o prostym języku, komunikacji biznesowej, ASD-STE100 i Employer Branding."
 
 ![](images/hitachi-meetup-1.png)
