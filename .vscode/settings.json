@@ -1,5 +1,12 @@
 {
   "cSpell.language": "en,pl",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.rulers": [80],
+  "cSpell.enableFiletypes": ["mdx"],
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
   "cSpell.words": [
     "Accens",
     "Advocado",
@@ -50,6 +57,7 @@
     "kulgawczuk",
     "leada",
     "meetcontent",
+    "meetupu",
     "Megablast",
     "Megasystems",
     "Mikey",
@@ -112,5 +120,6 @@
     "writingiem",
     "Writingu",
     "wygłuszacz"
-  ]
+  ],
+  "git.allowForcePush": true
 }
