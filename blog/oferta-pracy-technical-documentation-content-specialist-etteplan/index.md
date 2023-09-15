@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Editor (Etteplan)"
+title: 'Oferta pracy: Technical Editor (Etteplan)'
 authors: mojk
-date: "2018-12-31"
+date: '2018-12-31'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "Etteplan_logo_CMYK-new.jpg"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'Etteplan_logo_CMYK-new.jpg'
 ---
 
 Na zamknięcie 2018, mamy dla Was jeszcze jedną ofertę pracy.

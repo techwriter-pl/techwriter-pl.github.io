@@ -1,18 +1,18 @@
 ---
-title: "Plain language"
+title: 'Plain language'
 authors: agnieszka
-date: "2015-12-15"
+date: '2015-12-15'
 tags:
-  - "dobre-praktyki"
-  - "warsztat"
-  - "jezyk"
-coverImage: "pl.jpg"
+  - 'dobre-praktyki'
+  - 'warsztat'
+  - 'jezyk'
+coverImage: 'pl.jpg'
 ---
 
 Informacja to coś czego każdy z nas potrzebuje i poszukuje. Każdy z nas - Ty
 przed monitorem, my w redakcji, potencjalnie każda inna osoba na świecie,
 również ta z niepełnosprawnością intelektualną. Jak podaje
-[WHO](http://www.who.int/mediacentre/factsheets/fs352/en/ "WHO Stats"), około
+[WHO](http://www.who.int/mediacentre/factsheets/fs352/en/ 'WHO Stats'), około
 15% światowej populacji cierpi na jakiś rodzaj niepełnosprawności. Dlaczego o
 tym wspominamy?
 
@@ -23,7 +23,7 @@ zrozumieniem czytanej treści z różnych powodów. Mogą do nich należeć zabu
 zdolności poznawczych, niskie wykształcenie, problemy ze wzrokiem, czy czytanie
 tekstu w języku, który nie jest ich ojczystą mową. Aby ułatwić przyswojenie
 treści i jednocześnie ujednolicić standardy
-powstał [plain language](http://www.plainlanguage.gov/whatisPL/index.cfm "Plain Lang")
+powstał [plain language](http://www.plainlanguage.gov/whatisPL/index.cfm 'Plain Lang')
 (prosty język). W oparciu o jego najważniejsze cechy opracowaliśmy listę
 wskazówek, które mogą być pomocne w tworzeniu dokumentacji zrozumiałej i
 przyjemnej w odbiorze przez każdego czytającego.
@@ -77,7 +77,7 @@ może nam przyjść plain language:
   on wykonywać Twoje polecenia. Instrukcja "zaloguj się by sprawdzić wiadomości"
   jest krótka, treściwa, nie pozostawia wątpliwości do kogo jest skierowana.
 - Ogranicz używanie
-  [skrótowców](https://pl.wikipedia.org/wiki/Skr%C3%B3towiec "Skrótowce"), zaś
+  [skrótowców](https://pl.wikipedia.org/wiki/Skr%C3%B3towiec 'Skrótowce'), zaś
   te które muszą się w tekście pojawić zdefiniuj (np. rozwijając w pełną
   nazwę przy pierwszym wystąpieniu). Nie popadaj jednak w przesadę, skrótów
   takich jak PO, PiS czy BMW raczej nie trzeba objaśniać.
@@ -110,7 +110,7 @@ może nam przyjść plain language:
   animacje a nawet krótkie filmy. Wystarczy rzut oka na YouTube, by zobaczyć, że
   znaczna część publikowanego tam materiału to różnego rodzaju samouczki. Więcej
   o infografikach pisaliśmy
-  [tutaj](http://techwriter.pl/infografiki/ "Infografiki").
+  [tutaj](http://techwriter.pl/infografiki/ 'Infografiki').
 - Używaj nagłówków. Dłuższy tekst warto podzielić na sekcje, a tym z kolei
   przydzielić odpowiednie tytuły. Użyteczny nagłówek to taki, który w kilku
   słowach odda sens omawianej poniżej treści. Pomaga to w skanowaniu tekstu, co
@@ -134,8 +134,8 @@ sytuacji, gdy zlecimy komuś tłumaczenie, jest spora szansa, że zapłacimy mni
 gdy tekst będzie krótszy i prostszy i gdy tłumacz nie będzie musiał korzystać ze
 specjalistycznych słowników. Zachęcamy w tym miejscu do przypomnienia sobie
 tekstów na jeden z naszych ulubionych tematów - Less is more -
-([klik](http://techwriter.pl/prostota-glupcze/ "klik"),
-[klik](http://techwriter.pl/less-is-more-strikes-again/ "Less is more 2"))
+([klik](http://techwriter.pl/prostota-glupcze/ 'klik'),
+[klik](http://techwriter.pl/less-is-more-strikes-again/ 'Less is more 2'))
 
 #### **Rozmawiaj ze swoim odbiorcą**
 
@@ -146,7 +146,7 @@ Technical Writerom, zebrać w sensowny i łatwy w odbiorze tekst. Jeśli piszesz
 instrukcję zwróć się bezpośrednio do czytelnika używając formy “ty” (wybierz,
 naciśnij). Zachęcamy do przypomnienia sobie dobrych praktyk przy pisaniu tego
 typu dokumentu - zajrzyjcie
-[tutaj](http://techwriter.pl/jak-pisac-dobre-instrukcje/ "Instrukcje").
+[tutaj](http://techwriter.pl/jak-pisac-dobre-instrukcje/ 'Instrukcje').
 
 #### **Zachowaj porządek**
 
@@ -161,8 +161,8 @@ potrzebnych informacji.
 Mamy pełną świadomość, że powyższy tekst zaledwie nakreśla zagadnienie prostego
 języka. Zachęcamy do zapoznania się z dokumentem zaproponowanym przez wspomnianą
 już organizację The Plain Language Action and Information Network
-([PLAIN](http://www.plainlanguage.gov/ "PLAIN")), noszącym
-tytuł [Federal Plain Language Guidelines](http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/FederalPLGuidelines.pdf "Federal PL Guidline").
+([PLAIN](http://www.plainlanguage.gov/ 'PLAIN')), noszącym
+tytuł [Federal Plain Language Guidelines](http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/FederalPLGuidelines.pdf 'Federal PL Guidline').
 Jest to zbiór reguł promowanych przez amerykańską administrację federalną i jako
 taki sprawdzi się w całości przede wszystkim komuś, kto pisze po angielsku. Dla
 nas był jedną z inspiracji przy tworzeniu ninejszego tekstu i głęboko wierzymy,

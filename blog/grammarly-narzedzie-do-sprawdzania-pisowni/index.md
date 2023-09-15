@@ -1,14 +1,14 @@
 ---
-title: "Grammarly - narzędzie do sprawdzania pisowni"
+title: 'Grammarly - narzędzie do sprawdzania pisowni'
 authors: pensjonatus
-date: "2017-08-09"
+date: '2017-08-09'
 tags:
-  - "narzedzia"
-  - "warsztat"
-  - "aplikacje"
-  - "technologie"
-  - "uzytecznosc"
-coverImage: "grammarly.png"
+  - 'narzedzia'
+  - 'warsztat'
+  - 'aplikacje'
+  - 'technologie'
+  - 'uzytecznosc'
+coverImage: 'grammarly.png'
 ---
 
 Brakuje Wam sprytnego narzędzia do korekty? Spellcheck w przeglądarce zawodzi?

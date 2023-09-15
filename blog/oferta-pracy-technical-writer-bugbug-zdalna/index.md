@@ -1,14 +1,14 @@
 ---
-title: "Oferta pracy: Technical Writer (bugbug) - zdalna"
+title: 'Oferta pracy: Technical Writer (bugbug) - zdalna'
 authors: agnieszka
-date: "2023-05-04"
+date: '2023-05-04'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "oferta-pracy"
-  - "praca"
-coverImage: "bugbug.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'oferta-pracy'
+  - 'praca'
+coverImage: 'bugbug.png'
 ---
 
 Dziś mamy dla Was ofertę pracy na stanowisku Technical Writer. Szczegóły

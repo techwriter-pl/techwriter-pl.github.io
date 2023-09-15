@@ -1,15 +1,15 @@
 ---
-title: "Dekalog Tech Writera"
+title: 'Dekalog Tech Writera'
 authors: mojk
-date: "2014-11-12"
+date: '2014-11-12'
 tags:
-  - "dobre-praktyki"
-  - "warsztat"
-  - "instrukcje"
-  - "manuale"
-  - "on-line-help"
-  - "praca"
-coverImage: "Homer-Simpson-commandments.jpg"
+  - 'dobre-praktyki'
+  - 'warsztat'
+  - 'instrukcje'
+  - 'manuale'
+  - 'on-line-help'
+  - 'praca'
+coverImage: 'Homer-Simpson-commandments.jpg'
 ---
 
 [Tom Johnson](http://idratherbewriting.com/aboutme/) jakiś czas temu pokusił się

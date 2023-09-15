@@ -1,13 +1,13 @@
 ---
-title: "Konferencje 2017 - pierwsze półrocze"
+title: 'Konferencje 2017 - pierwsze półrocze'
 authors: agnieszka
-date: "2017-01-05"
+date: '2017-01-05'
 tags:
-  - "news"
-  - "z-kraju"
-  - "ze-swiata"
-  - "konferencje"
-coverImage: "international-conference-1597531_640-e1483372091957.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'ze-swiata'
+  - 'konferencje'
+coverImage: 'international-conference-1597531_640-e1483372091957.jpg'
 ---
 
 Rozpoczął się kolejny rok, a wraz z nim przyszła pora na garść informacji na
@@ -24,7 +24,7 @@ któreś wydarzenie zachęci Was na tyle, by zrobić rezerwację.
 [Singapore UX Conference](https://www.nngroup.com/training/singapore/)
 
 20-21 stycznia, Santa Clara, Kalifornia, USA  –
-[TCCamp](http://www.tccamp.org/ "TCCamp")
+[TCCamp](http://www.tccamp.org/ 'TCCamp')
 
 24-25 stycznia – [Winter 2017 IDEAS](https://ideas.infomanagementcenter.com/) –
 **konferencja online**
@@ -56,10 +56,10 @@ któreś wydarzenie zachęci Was na tyle, by zrobić rezerwację.
 (International Conference on Information and Computer Technology)
 
 19-22 luty, St. Petersburg, Floryda, USA –
-[eLearning](http://www.itcnetwork.org/aws/ITCN/pt/sp/elearning_home_page "eLearning")
+[eLearning](http://www.itcnetwork.org/aws/ITCN/pt/sp/elearning_home_page 'eLearning')
 
 23-24 luty, Bangalore, Indie –
-[tcworld India](http://conferences.tekom.de/tcworld-india-2017/home/ "tcworld India")
+[tcworld India](http://conferences.tekom.de/tcworld-india-2017/home/ 'tcworld India')
 
 26 luty – 2 marca San Diego, Kalifornia, USA –
 [San Diego UX Conference](https://www.nngroup.com/training/san-diego/)
@@ -140,7 +140,7 @@ miło poinformować Was, że techwriter.pl został patronem medialnym konferencj
 [Collaborate 2017](http://conference.techcomm.nz/)
 
 24-26 kwietnia, San Diego, Kalifornia, USA
-– [CMS/DITA North America](https://cm-strategies.com/ "CM Strategies/DITA")
+– [CMS/DITA North America](https://cm-strategies.com/ 'CM Strategies/DITA')
 
 27-28 kwietnia, Bukareszt, Rumunia – [eLSE](http://elseconference.eu/)
 

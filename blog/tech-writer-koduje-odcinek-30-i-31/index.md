@@ -1,15 +1,15 @@
 ---
-title: "Tech Writer Koduje - odcinek 30 i 31"
+title: 'Tech Writer Koduje - odcinek 30 i 31'
 authors: agnieszka
-date: "2021-07-07"
+date: '2021-07-07'
 tags:
-  - "dobre-praktyki"
-  - "przyklady"
-  - "warsztat"
-  - "dokumentacja"
-  - "podcast"
-  - "technologie"
-coverImage: "Konferencje-2019-6.png"
+  - 'dobre-praktyki'
+  - 'przyklady'
+  - 'warsztat'
+  - 'dokumentacja'
+  - 'podcast'
+  - 'technologie'
+coverImage: 'Konferencje-2019-6.png'
 ---
 
 Pora na skrót ostatnich odcinków podcastu

@@ -1,13 +1,13 @@
 ---
-title: "[NIEAKTUALNE] Oferta pracy: Technical Writer"
+title: '[NIEAKTUALNE] Oferta pracy: Technical Writer'
 authors: admin
-date: "2015-09-30"
+date: '2015-09-30'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "NordicS_smarter-things.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'NordicS_smarter-things.png'
 ---
 
 Dawno nie było oferty z Krakowa. Ta jest bardzo konkretna. Nordic Semiconductor

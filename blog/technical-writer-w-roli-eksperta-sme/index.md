@@ -1,15 +1,15 @@
 ---
-title: "Technical writer w roli eksperta (SME)"
+title: 'Technical writer w roli eksperta (SME)'
 authors: agnieszka
-date: "2022-09-09"
+date: '2022-09-09'
 tags:
-  - "dobre-praktyki"
-  - "warsztat"
-  - "dokumentacja"
-  - "kariera"
-  - "praca"
-  - "praktyki"
-coverImage: "techwriter_jako_sme.png"
+  - 'dobre-praktyki'
+  - 'warsztat'
+  - 'dokumentacja'
+  - 'kariera'
+  - 'praca'
+  - 'praktyki'
+coverImage: 'techwriter_jako_sme.png'
 ---
 
 W swojej codziennej pracy technical writer bardzo często spotyka się z

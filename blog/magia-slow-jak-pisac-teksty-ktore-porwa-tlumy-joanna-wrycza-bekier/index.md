@@ -1,13 +1,13 @@
 ---
-title: "Magia słów. Jak pisać teksty, które porwą tłumy? – Joanna Wrycza-Bekier"
+title: 'Magia słów. Jak pisać teksty, które porwą tłumy? – Joanna Wrycza-Bekier'
 authors: agnieszka
-date: "2020-07-14"
+date: '2020-07-14'
 tags:
-  - "biblioteczka-techwritera"
-  - "warsztat"
-  - "jezyk"
-  - "literatura"
-coverImage: "IMG_0812.jpg"
+  - 'biblioteczka-techwritera'
+  - 'warsztat'
+  - 'jezyk'
+  - 'literatura'
+coverImage: 'IMG_0812.jpg'
 ---
 
 Wakacje to dla wielu z nas czas odpoczynku, łapania oddechu od nadmiaru

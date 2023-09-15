@@ -1,12 +1,12 @@
 ---
-title: "Trend is your friend"
+title: 'Trend is your friend'
 authors: admin
-date: "2014-04-04"
+date: '2014-04-04'
 tags:
-  - "dobre-praktyki"
-  - "warsztat"
-  - "typografia"
-coverImage: "Fonty.jpg"
+  - 'dobre-praktyki'
+  - 'warsztat'
+  - 'typografia'
+coverImage: 'Fonty.jpg'
 ---
 
 Pamiętacie [wpis o typografii](http://alistapart.com/blog/post/web-font-trends)?

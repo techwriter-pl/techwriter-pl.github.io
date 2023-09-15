@@ -1,15 +1,15 @@
 ---
-title: "Badanie płac w komunikacji technicznej 2019 - wypełnij ankietę!"
+title: 'Badanie płac w komunikacji technicznej 2019 - wypełnij ankietę!'
 authors: mojk
-date: "2019-03-11"
+date: '2019-03-11'
 tags:
-  - "badanie-plac"
-  - "praca"
-  - "ankieta"
-  - "kariera"
-  - "praca"
-  - "spolecznosc"
-coverImage: "6.-sample-money.jpg"
+  - 'badanie-plac'
+  - 'praca'
+  - 'ankieta'
+  - 'kariera'
+  - 'praca'
+  - 'spolecznosc'
+coverImage: '6.-sample-money.jpg'
 ---
 
 W tym roku, już po raz trzeci zachęcamy Was do wypełnienia ankiety o zarobkach.

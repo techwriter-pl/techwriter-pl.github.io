@@ -1,13 +1,13 @@
 ---
-title: "Help and Manual - opis narzędzia"
+title: 'Help and Manual - opis narzędzia'
 authors: admin
-date: "2014-01-21"
+date: '2014-01-21'
 tags:
-  - "narzedzia"
-  - "warsztat"
-  - "manuale"
-  - "on-line-help"
-coverImage: "HelpAndManual.jpg"
+  - 'narzedzia'
+  - 'warsztat'
+  - 'manuale'
+  - 'on-line-help'
+coverImage: 'HelpAndManual.jpg'
 ---
 
 Niniejszym otwieramy nową, długo wyczekiwaną kategorię artykułów - opisy

@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer (Intern)"
+title: 'Oferta pracy: Technical Writer (Intern)'
 authors: mojk
-date: "2016-09-15"
+date: '2016-09-15'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "dassault.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'dassault.png'
 ---
 
 Jeśli znasz biegle język angielski, masz zacięcie techniczne i chcesz rozpocząć

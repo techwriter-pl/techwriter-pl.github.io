@@ -1,13 +1,13 @@
 ---
-title: "OFERTA PRACY: CONTENT SPECIALIST - BYTOM (HYBRYDOWO)"
+title: 'OFERTA PRACY: CONTENT SPECIALIST - BYTOM (HYBRYDOWO)'
 authors: agnieszka
-date: "2022-02-16"
+date: '2022-02-16'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "open_e.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'open_e.png'
 ---
 
 Content Specialist pilnie poszukiwany! Zainteresowani? Szczegóły poniżej.

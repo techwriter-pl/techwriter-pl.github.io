@@ -1,17 +1,17 @@
 ---
-title: "Porozmawiajmy o IT: Technical writer"
+title: 'Porozmawiajmy o IT: Technical writer'
 authors: agnieszka
-date: "2021-05-13"
+date: '2021-05-13'
 tags:
-  - "dobre-praktyki"
-  - "przyklady"
-  - "warsztat"
-  - "dokumentacja"
-  - "kariera"
-  - "podcast"
-  - "praca"
-  - "spolecznosc"
-coverImage: "porozmawiajmy_o_it.png"
+  - 'dobre-praktyki'
+  - 'przyklady'
+  - 'warsztat'
+  - 'dokumentacja'
+  - 'kariera'
+  - 'podcast'
+  - 'praca'
+  - 'spolecznosc'
+coverImage: 'porozmawiajmy_o_it.png'
 ---
 
 Znaleźliśmy ostatnio ciekawą rozmowę dotyczącą zawodu technical writera.

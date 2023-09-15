@@ -1,13 +1,13 @@
 ---
-title: "Ankieta Poll the Docs"
+title: 'Ankieta Poll the Docs'
 authors: mojk
-date: "2016-09-26"
+date: '2016-09-26'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "survey-e1474571693358.jpg"
+  - 'news'
+  - 'ze-swiata'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'survey-e1474571693358.jpg'
 ---
 
 Nasz udział w konferencji Write the Docs w Pradze był bardzo udany, o czym

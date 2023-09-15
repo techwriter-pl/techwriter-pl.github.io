@@ -1,14 +1,14 @@
 ---
-title: "Webinaria - Agile w tworzeniu dokumentacji"
+title: 'Webinaria - Agile w tworzeniu dokumentacji'
 authors: mojk
-date: "2016-11-23"
+date: '2016-11-23'
 tags:
-  - "news"
-  - "z-kraju"
-  - "agile"
-  - "spolecznosc"
-  - "webinarium"
-coverImage: "team-1480072_640.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'agile'
+  - 'spolecznosc'
+  - 'webinarium'
+coverImage: 'team-1480072_640.jpg'
 ---
 
 Serdecznie zapraszamy na serię webinariów poruszających tematykę stosowania

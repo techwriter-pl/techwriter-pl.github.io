@@ -1,15 +1,15 @@
 ---
-title: "Tech Writer Koduje - odcinek 34"
+title: 'Tech Writer Koduje - odcinek 34'
 authors: agnieszka
-date: "2021-10-14"
+date: '2021-10-14'
 tags:
-  - "dobre-praktyki"
-  - "warsztat"
-  - "dokumentacja"
-  - "kariera"
-  - "podcast"
-  - "praca"
-coverImage: "tw_koduje_34.png"
+  - 'dobre-praktyki'
+  - 'warsztat'
+  - 'dokumentacja'
+  - 'kariera'
+  - 'podcast'
+  - 'praca'
+coverImage: 'tw_koduje_34.png'
 ---
 
 Dziś mamy dla Was skrót ostatniego, już 34, odcinka podcastu

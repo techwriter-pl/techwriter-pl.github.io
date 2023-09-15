@@ -1,14 +1,14 @@
 ---
-title: "Wszystko co dobre..."
+title: 'Wszystko co dobre...'
 authors: admin
-date: "2014-04-01"
+date: '2014-04-01'
 tags:
-  - "news"
-  - "z-kraju"
-  - "z-przymruzeniem-oka"
-  - "humor"
-  - "kariera"
-coverImage: "koniec.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'z-przymruzeniem-oka'
+  - 'humor'
+  - 'kariera'
+coverImage: 'koniec.jpg'
 ---
 
 ...kiedyś się kończy. Niestety jesteśmy zmuszeni zawiesić działalność

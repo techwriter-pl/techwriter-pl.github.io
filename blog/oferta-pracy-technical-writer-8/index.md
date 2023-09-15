@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer"
+title: 'Oferta pracy: Technical Writer'
 authors: admin
-date: "2015-07-17"
+date: '2015-07-17'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "cpljobslogo.jpg"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'cpljobslogo.jpg'
 ---
 
 Tym razem Wrocław. Oferta pochodzi od firmy rekrutacyjnej, ale udało nam się

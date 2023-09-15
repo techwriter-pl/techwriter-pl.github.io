@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Specjalista ds. dokumentacji IT"
+title: 'Oferta pracy: Specjalista ds. dokumentacji IT'
 authors: admin
-date: "2014-08-26"
+date: '2014-08-26'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "InPost_logo.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'InPost_logo.png'
 ---
 
 Ponownie  mamy dla Was ciekawą ofertę pracy. Ponownie z Krakowa. Interesujące

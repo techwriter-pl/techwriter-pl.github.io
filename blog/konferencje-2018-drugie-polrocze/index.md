@@ -1,17 +1,17 @@
 ---
-title: "Konferencje 2018 - drugie półrocze"
+title: 'Konferencje 2018 - drugie półrocze'
 authors: agnieszka
-date: "2018-06-07"
+date: '2018-06-07'
 tags:
-  - "news"
-  - "z-kraju"
-  - "ze-swiata"
-  - "dita"
-  - "edukacja"
-  - "kariera"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "ian-schneider-66374-unsplash-e1528143818928.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'ze-swiata'
+  - 'dita'
+  - 'edukacja'
+  - 'kariera'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'ian-schneider-66374-unsplash-e1528143818928.jpg'
 ---
 
 Coraz bliżej drugie półrocze 2018 roku zatem nadszedł czas, by przedstawić Wam

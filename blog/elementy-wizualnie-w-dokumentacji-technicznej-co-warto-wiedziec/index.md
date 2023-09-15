@@ -1,17 +1,17 @@
 ---
-title: "Elementy wizualnie w dokumentacji technicznej - co warto wiedzieć!"
+title: 'Elementy wizualnie w dokumentacji technicznej - co warto wiedzieć!'
 authors: toporek
-date: "2022-01-18"
+date: '2022-01-18'
 tags:
-  - "dobre-praktyki"
-  - "warsztat"
-  - "dokumentacja"
-  - "grafika"
-  - "instrukcje"
-  - "manuale"
-  - "praktyki"
-  - "uzytecznosc"
-coverImage: "image-illu-1-e1641890745337.png"
+  - 'dobre-praktyki'
+  - 'warsztat'
+  - 'dokumentacja'
+  - 'grafika'
+  - 'instrukcje'
+  - 'manuale'
+  - 'praktyki'
+  - 'uzytecznosc'
+coverImage: 'image-illu-1-e1641890745337.png'
 ---
 
 Jak i kiedy używać ilustracji, screenshotów i symboli?  Dlaczego warto używać

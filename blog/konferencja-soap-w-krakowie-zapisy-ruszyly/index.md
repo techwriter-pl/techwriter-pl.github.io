@@ -1,12 +1,12 @@
 ---
-title: "Konferencja soap! w Krakowie - zapisy ruszyły!"
+title: 'Konferencja soap! w Krakowie - zapisy ruszyły!'
 authors: admin
-date: "2014-08-12"
+date: '2014-08-12'
 tags:
-  - "news"
-  - "z-kraju"
-  - "konferencje"
-coverImage: "soap.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'konferencje'
+coverImage: 'soap.jpg'
 ---
 
 Druga edycja [soap! conference](http://soapconf.com/) planowana na 2-3

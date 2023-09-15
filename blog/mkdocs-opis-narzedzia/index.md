@@ -1,13 +1,13 @@
 ---
-title: "MkDocs - opis narzędzia"
+title: 'MkDocs - opis narzędzia'
 authors: mojk
-date: "2015-03-06"
+date: '2015-03-06'
 tags:
-  - "narzedzia"
-  - "warsztat"
-  - "aplikacje"
-  - "on-line-help"
-coverImage: "mkdocs.png"
+  - 'narzedzia'
+  - 'warsztat'
+  - 'aplikacje'
+  - 'on-line-help'
+coverImage: 'mkdocs.png'
 ---
 
 Jeśli lubicie proste i darmowe narzędzia, a do tego tworzenie treści w

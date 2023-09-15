@@ -1,15 +1,15 @@
 ---
-title: "MEETCONTENT WROCŁAW – STYCZEŃ 2023"
+title: 'MEETCONTENT WROCŁAW – STYCZEŃ 2023'
 authors: agnieszka
-date: "2023-01-16"
+date: '2023-01-16'
 tags:
-  - "news"
-  - "z-kraju"
-  - "dokumentacja"
-  - "meetcontent"
-  - "meetup"
-  - "spolecznosc"
-coverImage: "meetcontent_styczen.png"
+  - 'news'
+  - 'z-kraju'
+  - 'dokumentacja'
+  - 'meetcontent'
+  - 'meetup'
+  - 'spolecznosc'
+coverImage: 'meetcontent_styczen.png'
 ---
 
 Po sukcesie grudniowego spotkania, organizatorzy MeetContent Wrocław zapraszają

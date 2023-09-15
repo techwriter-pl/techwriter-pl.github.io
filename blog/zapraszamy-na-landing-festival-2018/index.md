@@ -1,15 +1,15 @@
 ---
-title: "Zapraszamy na Landing Festival 2018!"
+title: 'Zapraszamy na Landing Festival 2018!'
 authors: agnieszka
-date: "2018-02-06"
+date: '2018-02-06'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "edukacja"
-  - "kariera"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "cables_banners_v3-2.jpg"
+  - 'news'
+  - 'ze-swiata'
+  - 'edukacja'
+  - 'kariera'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'cables_banners_v3-2.jpg'
 ---
 
 Z ogromną przyjemnością już dziś zapraszamy specjalistów IT do Berlina na

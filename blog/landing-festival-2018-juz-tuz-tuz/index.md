@@ -1,17 +1,17 @@
 ---
-title: "Landing Festival 2018 już tuż tuż"
+title: 'Landing Festival 2018 już tuż tuż'
 authors: agnieszka
-date: "2018-03-09"
+date: '2018-03-09'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "edukacja"
-  - "kariera"
-  - "konferencje"
-  - "praca"
-  - "spolecznosc"
-  - "technologie"
-coverImage: "cables_banners_v3-2.jpg"
+  - 'news'
+  - 'ze-swiata'
+  - 'edukacja'
+  - 'kariera'
+  - 'konferencje'
+  - 'praca'
+  - 'spolecznosc'
+  - 'technologie'
+coverImage: 'cables_banners_v3-2.jpg'
 ---
 
 Dużymi krokami nadchodzi połowa marca, a wraz z nią Landing Festival 2018 w

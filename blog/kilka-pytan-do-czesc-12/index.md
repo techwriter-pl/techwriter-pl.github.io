@@ -1,13 +1,13 @@
 ---
-title: "Kilka pytań do - część 12"
+title: 'Kilka pytań do - część 12'
 authors: admin
-date: "2017-01-20"
+date: '2017-01-20'
 tags:
-  - "warsztat"
-  - "wywiady"
-  - "spolecznosc"
-  - "wywiad"
-coverImage: "interview.jpg"
+  - 'warsztat'
+  - 'wywiady'
+  - 'spolecznosc'
+  - 'wywiad'
+coverImage: 'interview.jpg'
 ---
 
 Witajcie, znamy już dobrze tuzin Technical Writerów. Kiedy zakładaliśmy tę

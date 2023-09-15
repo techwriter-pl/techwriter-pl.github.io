@@ -1,14 +1,14 @@
 ---
-title: "Kilka pytań do - część 23"
+title: 'Kilka pytań do - część 23'
 authors: agnieszka
-date: "2021-02-10"
+date: '2021-02-10'
 tags:
-  - "warsztat"
-  - "wywiady"
-  - "dokumentacja"
-  - "spolecznosc"
-  - "wywiad"
-coverImage: "wywiad_23.png"
+  - 'warsztat'
+  - 'wywiady'
+  - 'dokumentacja'
+  - 'spolecznosc'
+  - 'wywiad'
+coverImage: 'wywiad_23.png'
 ---
 
 Zapraszamy na kolejną odsłonę z naszej serii wywiadów.

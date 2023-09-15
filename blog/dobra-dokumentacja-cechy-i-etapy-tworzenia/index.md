@@ -1,12 +1,12 @@
 ---
-title: "Dobra dokumentacja - cechy i etapy tworzenia"
+title: 'Dobra dokumentacja - cechy i etapy tworzenia'
 authors: agnieszka
-date: "2017-10-17"
+date: '2017-10-17'
 tags:
-  - "dobre-praktyki"
-  - "warsztat"
-  - "dokumentacja"
-coverImage: "student-849825_640-e1504985834598.jpg"
+  - 'dobre-praktyki'
+  - 'warsztat'
+  - 'dokumentacja'
+coverImage: 'student-849825_640-e1504985834598.jpg'
 ---
 
 Dla jednych pisanie dokumentacji to droga przez mękę, dla innych czysta

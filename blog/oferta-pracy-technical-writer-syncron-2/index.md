@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer (Syncron)"
+title: 'Oferta pracy: Technical Writer (Syncron)'
 authors: mojk
-date: "2019-03-13"
+date: '2019-03-13'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "Syncron-Logo_RGB_no-Reg2.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'Syncron-Logo_RGB_no-Reg2.png'
 ---
 
 [Syncron](https://www.syncron.com/) szuka Technical Writera do pracy w

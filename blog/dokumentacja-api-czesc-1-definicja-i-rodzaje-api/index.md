@@ -1,14 +1,14 @@
 ---
-title: "Dokumentacja API – Część 1: Definicja i rodzaje API"
+title: 'Dokumentacja API – Część 1: Definicja i rodzaje API'
 authors: admin
-date: "2018-10-08"
+date: '2018-10-08'
 tags:
-  - "dobre-praktyki"
-  - "przyklady"
-  - "warsztat"
-  - "api"
-  - "dokumentacja"
-coverImage: "ApiMosaic.gif"
+  - 'dobre-praktyki'
+  - 'przyklady'
+  - 'warsztat'
+  - 'api'
+  - 'dokumentacja'
+coverImage: 'ApiMosaic.gif'
 ---
 
 Z otwartymi ramionami witamy na naszych stronach nowego autora a wraz z nim

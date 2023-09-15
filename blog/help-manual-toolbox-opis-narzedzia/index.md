@@ -1,13 +1,13 @@
 ---
-title: "Help & Manual Toolbox - opis narzędzia"
+title: 'Help & Manual Toolbox - opis narzędzia'
 authors: mojk
-date: "2014-07-08"
+date: '2014-07-08'
 tags:
-  - "narzedzia"
-  - "warsztat"
-  - "manuale"
-  - "on-line-help"
-coverImage: "hmtoolbox.png"
+  - 'narzedzia'
+  - 'warsztat'
+  - 'manuale'
+  - 'on-line-help'
+coverImage: 'hmtoolbox.png'
 ---
 
 Help and Manual to aplikacja do tworzenia dokumentacji, która oferuje całkiem

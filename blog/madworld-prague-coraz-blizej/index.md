@@ -1,14 +1,14 @@
 ---
-title: "MadWorld Prague coraz bliżej"
+title: 'MadWorld Prague coraz bliżej'
 authors: agnieszka
-date: "2018-07-12"
+date: '2018-07-12'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "edukacja"
-  - "kariera"
-  - "konferencje"
-coverImage: "madworld.png"
+  - 'news'
+  - 'ze-swiata'
+  - 'edukacja'
+  - 'kariera'
+  - 'konferencje'
+coverImage: 'madworld.png'
 ---
 
 Konferencja MadWorld Prague coraz bliżej, postanowiliśmy więc przypomnieć Wam

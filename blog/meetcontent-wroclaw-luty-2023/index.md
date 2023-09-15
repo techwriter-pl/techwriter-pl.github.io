@@ -1,13 +1,13 @@
 ---
-title: "Meetcontent Wrocław - luty 2023"
+title: 'Meetcontent Wrocław - luty 2023'
 authors: agnieszka
-date: "2023-02-17"
+date: '2023-02-17'
 tags:
-  - "news"
-  - "z-kraju"
-  - "meetcontent"
-  - "spolecznosc"
-coverImage: "meetcontent_luty_2023.png"
+  - 'news'
+  - 'z-kraju'
+  - 'meetcontent'
+  - 'spolecznosc'
+coverImage: 'meetcontent_luty_2023.png'
 ---
 
 Przed nami kolejna edycja MeetContentWRO. Poniżej najważniejsze informacje.

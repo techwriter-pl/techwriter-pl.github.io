@@ -1,14 +1,14 @@
 ---
-title: "Konferencja Tłumaczy 2018 - relacja"
+title: 'Konferencja Tłumaczy 2018 - relacja'
 authors: mojk
-date: "2018-10-25"
+date: '2018-10-25'
 tags:
-  - "news"
-  - "z-kraju"
-  - "konferencje"
-  - "spolecznosc"
-  - "tlumaczenia"
-coverImage: "baner-e1535404907525.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'konferencje'
+  - 'spolecznosc'
+  - 'tlumaczenia'
+coverImage: 'baner-e1535404907525.jpg'
 ---
 
 Niedawno, a dokładniej 29 września 2018, mieliśmy okazję gościć

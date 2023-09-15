@@ -1,14 +1,14 @@
 ---
-title: "Żywot dokumentalisty poczciwego, czyli wyzwanie to pisanie"
+title: 'Żywot dokumentalisty poczciwego, czyli wyzwanie to pisanie'
 authors: mojk
-date: "2014-09-23"
+date: '2014-09-23'
 tags:
-  - "dobre-praktyki"
-  - "przyklady"
-  - "warsztat"
-  - "kariera"
-  - "praca"
-coverImage: "thinking-272677_640-e1411330651949.jpg"
+  - 'dobre-praktyki'
+  - 'przyklady'
+  - 'warsztat'
+  - 'kariera'
+  - 'praca'
+coverImage: 'thinking-272677_640-e1411330651949.jpg'
 ---
 
 Bycie Technical Writerem jest fajne. Przynajmniej według nas. Jest to zawód

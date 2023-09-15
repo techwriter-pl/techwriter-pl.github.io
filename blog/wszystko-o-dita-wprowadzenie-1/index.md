@@ -1,12 +1,12 @@
 ---
-title: "Wszystko o DITA - Wprowadzenie (1)"
+title: 'Wszystko o DITA - Wprowadzenie (1)'
 authors: kulgawczuk
-date: "2019-04-01"
+date: '2019-04-01'
 tags:
-  - "dobre-praktyki"
-  - "narzedzia"
-  - "warsztat"
-coverImage: "darwin.png"
+  - 'dobre-praktyki'
+  - 'narzedzia'
+  - 'warsztat'
+coverImage: 'darwin.png'
 ---
 
 W sieci można natknąć się na całkiem sporo materiałów dotyczących DITA, jednak

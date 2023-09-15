@@ -1,17 +1,17 @@
 ---
-title: "Studia podyplomowe dla technical writerów - edycja II - trwa nabór"
+title: 'Studia podyplomowe dla technical writerów - edycja II - trwa nabór'
 authors: agnieszka
-date: "2021-09-16"
+date: '2021-09-16'
 tags:
-  - "news"
-  - "z-kraju"
-  - "dokumentacja"
-  - "edukacja"
-  - "kariera"
-  - "praca"
-  - "spolecznosc"
-  - "studia"
-coverImage: "Studia_2021.png"
+  - 'news'
+  - 'z-kraju'
+  - 'dokumentacja'
+  - 'edukacja'
+  - 'kariera'
+  - 'praca'
+  - 'spolecznosc'
+  - 'studia'
+coverImage: 'Studia_2021.png'
 ---
 
 Już w październiku startuje druga edycja studiów podyplomowych na kierunku

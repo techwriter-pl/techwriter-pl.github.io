@@ -1,15 +1,15 @@
 ---
-title: "Konferencja UA Europe już wkrótce"
+title: 'Konferencja UA Europe już wkrótce'
 authors: agnieszka
-date: "2017-05-16"
+date: '2017-05-16'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "edukacja"
-  - "kariera"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "UA_Europe_2017_Logo_Square_150.png"
+  - 'news'
+  - 'ze-swiata'
+  - 'edukacja'
+  - 'kariera'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'UA_Europe_2017_Logo_Square_150.png'
 ---
 
 Do kolejnej edycji konferencji UA Europe zostało już tylko kilka tygodni.

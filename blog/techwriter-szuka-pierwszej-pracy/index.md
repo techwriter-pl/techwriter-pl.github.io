@@ -1,15 +1,15 @@
 ---
-title: "Techwriter szuka pierwszej pracy"
+title: 'Techwriter szuka pierwszej pracy'
 authors: niedzwiedzka
-date: "2021-10-22"
+date: '2021-10-22'
 tags:
-  - "praca"
-  - "edukacja"
-  - "kariera"
-  - "praca"
-  - "studia"
-  - "szkolenia"
-coverImage: "Untitled-design.png"
+  - 'praca'
+  - 'edukacja'
+  - 'kariera'
+  - 'praca'
+  - 'studia'
+  - 'szkolenia'
+coverImage: 'Untitled-design.png'
 ---
 
 Studia podyplomowe ukończone, cv zaktualizowane - czas rozejrzeć się za pracą

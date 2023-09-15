@@ -1,15 +1,15 @@
 ---
-title: "Formaty i kanały dystrybucji dokumentacji — jaki wybrać?"
+title: 'Formaty i kanały dystrybucji dokumentacji — jaki wybrać?'
 authors: milc
-date: "2022-03-16"
+date: '2022-03-16'
 tags:
-  - "dobre-praktyki"
-  - "przyklady"
-  - "online"
-  - "pdf"
-  - "poradnik"
-  - "praktyka"
-coverImage: "formaty_i_kanaly_dystrybucji_dokumentacji.png"
+  - 'dobre-praktyki'
+  - 'przyklady'
+  - 'online'
+  - 'pdf'
+  - 'poradnik'
+  - 'praktyka'
+coverImage: 'formaty_i_kanaly_dystrybucji_dokumentacji.png'
 ---
 
 Dziś zajmiemy się tematem formatów i kanałów dystrybucji dokumentacji.

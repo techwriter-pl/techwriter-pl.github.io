@@ -1,13 +1,13 @@
 ---
-title: "Zaproszenie na konferencję tekom Europe Roadshow w Warszawie"
+title: 'Zaproszenie na konferencję tekom Europe Roadshow w Warszawie'
 authors: admin
-date: "2014-09-08"
+date: '2014-09-08'
 tags:
-  - "news"
-  - "z-kraju"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "Tekom_Warsaw.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'Tekom_Warsaw.jpg'
 ---
 
 Kontynuujemy współpracę z tekom Polska. Już niedługo i Wy będziecie mogli

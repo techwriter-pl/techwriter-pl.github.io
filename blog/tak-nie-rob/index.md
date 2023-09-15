@@ -1,15 +1,15 @@
 ---
-title: "Tak nie rób"
+title: 'Tak nie rób'
 authors: admin
-date: "2014-08-01"
+date: '2014-08-01'
 tags:
-  - "dobre-praktyki"
-  - "warsztat"
-  - "humor"
-  - "lokalizacja"
-  - "tlumaczenia"
-  - "uzytecznosc"
-coverImage: "bad.jpg"
+  - 'dobre-praktyki'
+  - 'warsztat'
+  - 'humor'
+  - 'lokalizacja'
+  - 'tlumaczenia'
+  - 'uzytecznosc'
+coverImage: 'bad.jpg'
 ---
 
 Nie tak dawno pisaliśmy o

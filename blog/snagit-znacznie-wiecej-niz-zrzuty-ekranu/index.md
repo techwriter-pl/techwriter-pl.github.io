@@ -1,14 +1,14 @@
 ---
-title: "Snagit – znacznie więcej niż zrzuty ekranu"
+title: 'Snagit – znacznie więcej niż zrzuty ekranu'
 authors: agnieszka
-date: "2020-11-02"
+date: '2020-11-02'
 tags:
-  - "narzedzia"
-  - "warsztat"
-  - "grafika"
-  - "narzedzia"
-  - "praktyki"
-coverImage: "snagit.png"
+  - 'narzedzia'
+  - 'warsztat'
+  - 'grafika'
+  - 'narzedzia'
+  - 'praktyki'
+coverImage: 'snagit.png'
 ---
 
 Dzisiejszy artykuł to prawdziwa perełka, zwłaszcza dla osób poszukujących

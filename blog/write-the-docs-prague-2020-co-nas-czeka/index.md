@@ -1,16 +1,16 @@
 ---
-title: "Write the Docs Prague 2020 - co nas czeka?"
+title: 'Write the Docs Prague 2020 - co nas czeka?'
 authors: agnieszka
-date: "2020-09-03"
+date: '2020-09-03'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "dokumentacja"
-  - "kariera"
-  - "konferencje"
-  - "praca"
-  - "spolecznosc"
-coverImage: "wtd_2020.png"
+  - 'news'
+  - 'ze-swiata'
+  - 'dokumentacja'
+  - 'kariera'
+  - 'konferencje'
+  - 'praca'
+  - 'spolecznosc'
+coverImage: 'wtd_2020.png'
 ---
 
 Powoli zbliża się tegoroczna edycja konferencji Write the Docs Prague. Podobnie

@@ -1,13 +1,13 @@
 ---
-title: "MeetContent Kraków powraca!"
+title: 'MeetContent Kraków powraca!'
 authors: agnieszka
-date: "2023-04-24"
+date: '2023-04-24'
 tags:
-  - "news"
-  - "z-kraju"
-  - "meetcontent"
-  - "spolecznosc"
-coverImage: "MeetContentKRK_maj.png"
+  - 'news'
+  - 'z-kraju'
+  - 'meetcontent'
+  - 'spolecznosc'
+coverImage: 'MeetContentKRK_maj.png'
 ---
 
 Mamy dla Was świetne wieści z Krakowa. Swą działalność wznawia społeczność

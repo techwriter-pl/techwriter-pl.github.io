@@ -1,16 +1,16 @@
 ---
-title: "Kolejna odsłona soap! MeetContent"
+title: 'Kolejna odsłona soap! MeetContent'
 authors: mojk
-date: "2017-01-02"
+date: '2017-01-02'
 tags:
-  - "news"
-  - "z-kraju"
-  - "edukacja"
-  - "kariera"
-  - "spolecznosc"
-  - "szkolenia"
-  - "treningi"
-coverImage: "content-e1483260095507.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'edukacja'
+  - 'kariera'
+  - 'spolecznosc'
+  - 'szkolenia'
+  - 'treningi'
+coverImage: 'content-e1483260095507.jpg'
 ---
 
 Zapraszamy na kolejne spotkanie branżowe organizowane pod szyldem

@@ -1,18 +1,18 @@
 ---
-title: "Attractive Content for People and Machines - relacja"
+title: 'Attractive Content for People and Machines - relacja'
 authors: szablowska
-date: "2014-03-27"
+date: '2014-03-27'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "webinarium"
-  - "zarzadzanie-trescia"
-coverImage: "attractive_content.jpg"
+  - 'news'
+  - 'ze-swiata'
+  - 'webinarium'
+  - 'zarzadzanie-trescia'
+coverImage: 'attractive_content.jpg'
 ---
 
-Z inicjatywy organizacji [Congility](http://www.congility.com/ "Congility"), 12
+Z inicjatywy organizacji [Congility](http://www.congility.com/ 'Congility'), 12
 marca odbyło się webinarium poprowadzone przez
-[Anne Caborn](http://www.inthecontentlab.com/about/ "Anne Caborn"), specjalistkę
+[Anne Caborn](http://www.inthecontentlab.com/about/ 'Anne Caborn'), specjalistkę
 od zarządzania treścią i trenerkę. Opowiadała ona o tym co sprawia, że treść
 staje się atrakcyjna dla użytkownika i dla maszyny.
 

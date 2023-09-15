@@ -1,13 +1,13 @@
 ---
-title: "Święty Mikołaj - co ma wspólnego z technical writerem"
+title: 'Święty Mikołaj - co ma wspólnego z technical writerem'
 authors: toporek
-date: "2020-12-22"
+date: '2020-12-22'
 tags:
-  - "news"
-  - "z-przymruzeniem-oka"
-  - "humor"
-  - "spolecznosc"
-coverImage: "mikolaj.jpg"
+  - 'news'
+  - 'z-przymruzeniem-oka'
+  - 'humor'
+  - 'spolecznosc'
+coverImage: 'mikolaj.jpg'
 ---
 
 W grudniu z reguły każdy myśli już o świętach i prezentach. Pozwoliliśmy sobie

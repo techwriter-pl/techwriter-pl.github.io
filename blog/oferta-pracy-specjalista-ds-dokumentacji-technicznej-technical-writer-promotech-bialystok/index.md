@@ -1,15 +1,15 @@
 ---
 title:
-  "Oferta pracy: Specjalista ds. dokumentacji Technicznej / Technical Writer
-  (Promotech) - Białystok"
+  'Oferta pracy: Specjalista ds. dokumentacji Technicznej / Technical Writer
+  (Promotech) - Białystok'
 authors: agnieszka
-date: "2021-12-08"
+date: '2021-12-08'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "promotech.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'promotech.png'
 ---
 
 Firma PROMOTECH poszukuje technical writera z doświadczeniem w pisaniu

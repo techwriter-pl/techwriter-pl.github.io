@@ -1,15 +1,15 @@
 ---
 title:
-  "Oferty pracy: Technical Writer, Senior Technical Writer (Anglia, Szwajcaria,
-  Słowacja)"
+  'Oferty pracy: Technical Writer, Senior Technical Writer (Anglia, Szwajcaria,
+  Słowacja)'
 authors: mojk
-date: "2018-07-30"
+date: '2018-07-30'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "OTClLogo1-e1532931093221.jpg"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'OTClLogo1-e1532931093221.jpg'
 ---
 
 Dzisiaj mamy nie lada gratkę dla osób, które chcą nabyć tech writerskiego

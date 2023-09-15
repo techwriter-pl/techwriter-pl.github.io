@@ -1,12 +1,12 @@
 ---
-title: "Będąc młodym techwriterem przyszedł do mię tekst..."
+title: 'Będąc młodym techwriterem przyszedł do mię tekst...'
 authors: admin
-date: "2014-08-08"
+date: '2014-08-08'
 tags:
-  - "dobre-praktyki"
-  - "warsztat"
-  - "jezyk"
-coverImage: "gramatyka.jpg"
+  - 'dobre-praktyki'
+  - 'warsztat'
+  - 'jezyk'
+coverImage: 'gramatyka.jpg'
 ---
 
 Bardzo cieszą nas nadsyłane przez Was teksty, szczególnie kiedy można się z nich

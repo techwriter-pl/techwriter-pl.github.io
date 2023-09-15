@@ -1,13 +1,13 @@
 ---
-title: "Langłydż - part fri"
+title: 'Langłydż - part fri'
 authors: admin
-date: "2014-01-17"
+date: '2014-01-17'
 tags:
-  - "warsztat"
-  - "z-przymruzeniem-oka"
-  - "humor"
-  - "jezyk"
-coverImage: "lekcja3.jpg"
+  - 'warsztat'
+  - 'z-przymruzeniem-oka'
+  - 'humor'
+  - 'jezyk'
+coverImage: 'lekcja3.jpg'
 ---
 
 Dziś jedno z naszych ulubionych słówek.  Krótkie, nowoczesne, zrozumiałe dla

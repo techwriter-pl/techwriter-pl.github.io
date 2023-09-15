@@ -1,13 +1,13 @@
 ---
-title: "soap! 2016 - weź udział w konkursie i zgarnij wejściówkę!"
+title: 'soap! 2016 - weź udział w konkursie i zgarnij wejściówkę!'
 authors: mojk
-date: "2016-03-04"
+date: '2016-03-04'
 tags:
-  - "news"
-  - "z-kraju"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "soap2015.png"
+  - 'news'
+  - 'z-kraju'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'soap2015.png'
 ---
 
 Kolejny rok z rzędu mamy zaszczyt być patronem medialnym konferencji

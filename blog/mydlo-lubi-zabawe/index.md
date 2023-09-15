@@ -1,13 +1,13 @@
 ---
-title: "Mydło lubi zabawę"
+title: 'Mydło lubi zabawę'
 authors: mojk
-date: "2014-10-07"
+date: '2014-10-07'
 tags:
-  - "news"
-  - "z-kraju"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "soap.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'soap.jpg'
 ---
 
 Co mają ze sobą wspólnego mydło, kolor różowy, dawna fabryka kabli, white

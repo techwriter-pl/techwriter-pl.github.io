@@ -1,15 +1,15 @@
 ---
-title: "Zapraszamy na TestWarez 2021"
+title: 'Zapraszamy na TestWarez 2021'
 authors: agnieszka
-date: "2021-07-30"
+date: '2021-07-30'
 tags:
-  - "news"
-  - "z-kraju"
-  - "kariera"
-  - "konferencje"
-  - "praca"
-  - "spolecznosc"
-coverImage: "Konferencje-2019-7.png"
+  - 'news'
+  - 'z-kraju'
+  - 'kariera'
+  - 'konferencje'
+  - 'praca'
+  - 'spolecznosc'
+coverImage: 'Konferencje-2019-7.png'
 ---
 
 Serdecznie Was zapraszamy na konferencję **TestWarez 2021**, którą objęliśmy

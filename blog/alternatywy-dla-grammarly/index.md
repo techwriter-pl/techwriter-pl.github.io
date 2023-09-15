@@ -1,16 +1,16 @@
 ---
-title: "Alternatywy dla Grammarly"
+title: 'Alternatywy dla Grammarly'
 authors: mojk
-date: "2018-01-16"
+date: '2018-01-16'
 tags:
-  - "narzedzia"
-  - "warsztat"
-  - "instrukcje"
-  - "jezyk"
-  - "manuale"
-  - "on-line-help"
-  - "pomoc-uzytkownika"
-coverImage: "Grammarlycccheck.png"
+  - 'narzedzia'
+  - 'warsztat'
+  - 'instrukcje'
+  - 'jezyk'
+  - 'manuale'
+  - 'on-line-help'
+  - 'pomoc-uzytkownika'
+coverImage: 'Grammarlycccheck.png'
 ---
 
 Nic nas tak nie cieszy jak wpisy gościnne od naszych czytelników. A kiedy

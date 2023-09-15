@@ -1,16 +1,16 @@
 ---
 title:
-  "Oferta pracy: technical writer (Handsontable) – zdalnie, hybrydowo lub
-  stacjonarnie (Gdynia)"
+  'Oferta pracy: technical writer (Handsontable) – zdalnie, hybrydowo lub
+  stacjonarnie (Gdynia)'
 authors: agnieszka
-date: "2023-08-03"
+date: '2023-08-03'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "oferta-pracy"
-  - "praca"
-coverImage: "handsontable.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'oferta-pracy'
+  - 'praca'
+coverImage: 'handsontable.png'
 ---
 
 Technical Writer pilnie poszukiwany! Jeśli szukasz pracy i znasz dobrze Java

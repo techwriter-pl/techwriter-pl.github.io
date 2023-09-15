@@ -1,15 +1,15 @@
 ---
-title: "Digital Learning Congress - w Warszawie!"
+title: 'Digital Learning Congress - w Warszawie!'
 authors: admin
-date: "2014-07-29"
+date: '2014-07-29'
 tags:
-  - "news"
-  - "z-kraju"
-  - "e-learning"
-  - "konferencje"
-  - "materialy-szkoleniowe"
-  - "treningi"
-coverImage: "DLC.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'e-learning'
+  - 'konferencje'
+  - 'materialy-szkoleniowe'
+  - 'treningi'
+coverImage: 'DLC.jpg'
 ---
 
 Rzadko (zbyt rzadko?) piszemy o e-learningu - a temat to wielce zajmujący.

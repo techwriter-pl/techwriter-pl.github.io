@@ -1,13 +1,13 @@
 ---
-title: "Gdzie jest Twój dom, techwriterze?"
+title: 'Gdzie jest Twój dom, techwriterze?'
 authors: admin
-date: "2014-12-02"
+date: '2014-12-02'
 tags:
-  - "news"
-  - "z-kraju"
-  - "ankieta"
-  - "praca"
-coverImage: "survey.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'ankieta'
+  - 'praca'
+coverImage: 'survey.jpg'
 ---
 
 Jakiś czas temu, na łamach [techwhirl.com](http://techwhirl.com), ukazała się

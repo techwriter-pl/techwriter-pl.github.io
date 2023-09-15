@@ -1,15 +1,15 @@
 ---
-title: "Pierwszy technical writer?"
+title: 'Pierwszy technical writer?'
 authors: admin
-date: "2014-09-05"
+date: '2014-09-05'
 tags:
-  - "news"
-  - "warsztat"
-  - "z-przymruzeniem-oka"
-  - "humor"
-  - "manuale"
-  - "spolecznosc"
-coverImage: "220px-Ada_Lovelace_portrait.jpg"
+  - 'news'
+  - 'warsztat'
+  - 'z-przymruzeniem-oka'
+  - 'humor'
+  - 'manuale'
+  - 'spolecznosc'
+coverImage: '220px-Ada_Lovelace_portrait.jpg'
 ---
 
 W środowisku krążą plotki o tym, że pierwszy techwriter był lowelasem. Nie

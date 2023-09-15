@@ -1,13 +1,13 @@
 ---
-title: "Kilka pytań do - część 1"
+title: 'Kilka pytań do - część 1'
 authors: mojk
-date: "2015-01-27"
+date: '2015-01-27'
 tags:
-  - "warsztat"
-  - "wywiady"
-  - "spolecznosc"
-  - "wywiad"
-coverImage: "hw_ace_press_250.jpg"
+  - 'warsztat'
+  - 'wywiady'
+  - 'spolecznosc'
+  - 'wywiad'
+coverImage: 'hw_ace_press_250.jpg'
 ---
 
 Jak powszechnie wiadomo, jednym z najlepszych źródeł wiedzy jest doświadczenie

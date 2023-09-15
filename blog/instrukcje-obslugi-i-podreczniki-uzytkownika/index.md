@@ -1,14 +1,14 @@
 ---
-title: "Instrukcje obsługi i podręczniki użytkownika"
+title: 'Instrukcje obsługi i podręczniki użytkownika'
 authors: admin
-date: "2013-10-24"
+date: '2013-10-24'
 tags:
-  - "przyklady"
-  - "warsztat"
-  - "instrukcje"
-  - "manuale"
-  - "praca"
-coverImage: "userguide.jpg"
+  - 'przyklady'
+  - 'warsztat'
+  - 'instrukcje'
+  - 'manuale'
+  - 'praca'
+coverImage: 'userguide.jpg'
 ---
 
 Czym zajmują się technical writerzy? Tworzą m.in. instrukcje obsługi lub

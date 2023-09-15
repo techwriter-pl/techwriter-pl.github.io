@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Training Development Specialist"
+title: 'Oferta pracy: Technical Training Development Specialist'
 authors: mojk
-date: "2016-02-23"
+date: '2016-02-23'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "microgen_logo.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'microgen_logo.png'
 ---
 
 Pierwszy kwartał roku obfituje w oferty pracy z branży tech comm. Dzisiaj mamy

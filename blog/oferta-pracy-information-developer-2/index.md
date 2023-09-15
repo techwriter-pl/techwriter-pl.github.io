@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Information Developer"
+title: 'Oferta pracy: Information Developer'
 authors: mojk
-date: "2016-10-14"
+date: '2016-10-14'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "SAP_grad_R_pref.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'SAP_grad_R_pref.png'
 ---
 
 Dzisiaj mamy dla Was ofertę z Górnego Śląska.

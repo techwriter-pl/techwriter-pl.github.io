@@ -1,13 +1,13 @@
 ---
-title: "Word - podstawy - przekaż dalej!"
+title: 'Word - podstawy - przekaż dalej!'
 authors: admin
-date: "2014-04-11"
+date: '2014-04-11'
 tags:
-  - "dobre-praktyki"
-  - "warsztat"
-  - "humor"
-  - "praca"
-coverImage: "word.jpg"
+  - 'dobre-praktyki'
+  - 'warsztat'
+  - 'humor'
+  - 'praca'
+coverImage: 'word.jpg'
 ---
 
 Znacie program Word i wiecie jak go używać? Jesteście w mniejszości, prawda? Co

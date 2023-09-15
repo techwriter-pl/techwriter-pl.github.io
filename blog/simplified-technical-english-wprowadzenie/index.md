@@ -1,14 +1,14 @@
 ---
-title: "Simplified Technical English - wprowadzenie"
+title: 'Simplified Technical English - wprowadzenie'
 authors: agnieszka
-date: "2020-08-28"
+date: '2020-08-28'
 tags:
-  - "dobre-praktyki"
-  - "warsztat"
-  - "ste"
-  - "dokumentacja"
-  - "praktyki"
-coverImage: "STE.png"
+  - 'dobre-praktyki'
+  - 'warsztat'
+  - 'ste'
+  - 'dokumentacja'
+  - 'praktyki'
+coverImage: 'STE.png'
 ---
 
 Mamy dziś dla Was kolejną porcję informacji z zakresu standardów języka

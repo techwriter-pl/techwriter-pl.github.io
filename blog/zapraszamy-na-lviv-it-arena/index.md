@@ -1,13 +1,13 @@
 ---
-title: "Zapraszamy na Lviv IT Arena"
+title: 'Zapraszamy na Lviv IT Arena'
 authors: admin
-date: "2016-09-19"
+date: '2016-09-19'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "konferencje"
-  - "technologie"
-coverImage: "LvivITArena.png"
+  - 'news'
+  - 'ze-swiata'
+  - 'konferencje'
+  - 'technologie'
+coverImage: 'LvivITArena.png'
 ---
 
 Już za niecałe 2 tygodnie we Lwowie odbędzie się konferencja, która zgromadzi

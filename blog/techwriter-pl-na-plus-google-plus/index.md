@@ -1,11 +1,11 @@
 ---
-title: "Techwriter.pl na plus. Google plus."
+title: 'Techwriter.pl na plus. Google plus.'
 authors: admin
-date: "2014-10-14"
+date: '2014-10-14'
 tags:
-  - "news"
-  - "ze-swiata"
-coverImage: "googleplus.png"
+  - 'news'
+  - 'ze-swiata'
+coverImage: 'googleplus.png'
 ---
 
 Jeżeli Facebook i Twitter to nie Wasze klimaty - od pewnego czasu mamy również

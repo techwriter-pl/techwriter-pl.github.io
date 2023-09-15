@@ -1,13 +1,14 @@
 ---
-title: "Oferta pracy: Specjalista ds. dokumentacji technicznej (Sinterit) – Kraków"
+title:
+  'Oferta pracy: Specjalista ds. dokumentacji technicznej (Sinterit) – Kraków'
 authors: admin
-date: "2020-12-14"
+date: '2020-12-14'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "Sinterit-800x400-1.jpg"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'Sinterit-800x400-1.jpg'
 ---
 
 Kolejna oferta z Krakowa, poszukiwany anglojęzyczny Technical Writer. Pracodawca

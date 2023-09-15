@@ -1,13 +1,13 @@
 ---
-title: "Techwriter Koduje - odcinek #53"
+title: 'Techwriter Koduje - odcinek #53'
 authors: agnieszka
-date: "2023-05-19"
+date: '2023-05-19'
 tags:
-  - "dobre-praktyki"
-  - "warsztat"
-  - "dokumentacja"
-  - "podcast"
-coverImage: "techwriter_koduje_53.png"
+  - 'dobre-praktyki'
+  - 'warsztat'
+  - 'dokumentacja'
+  - 'podcast'
+coverImage: 'techwriter_koduje_53.png'
 ---
 
 Dawno nie zaglądaliśmy na nasz zaprzyjaźniony portal z podcastami związanymi z

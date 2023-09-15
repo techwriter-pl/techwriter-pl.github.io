@@ -1,14 +1,14 @@
 ---
-title: "Czy warto znać narzędzia do tworzenia dokumentacji?"
+title: 'Czy warto znać narzędzia do tworzenia dokumentacji?'
 authors: mojk
-date: "2014-07-22"
+date: '2014-07-22'
 tags:
-  - "narzedzia"
-  - "warsztat"
-  - "kariera"
-  - "manuale"
-  - "on-line-help"
-coverImage: "wpid-wp-1404885704998.jpeg"
+  - 'narzedzia'
+  - 'warsztat'
+  - 'kariera'
+  - 'manuale'
+  - 'on-line-help'
+coverImage: 'wpid-wp-1404885704998.jpeg'
 ---
 
 W pracy każdego Technical Writera przychodzi co jakiś czas moment wytchnienia.

@@ -1,14 +1,14 @@
 ---
-title: "OFERTA PRACY: TECHNICAL WRITER (NOBL9) – ZDALNA"
+title: 'OFERTA PRACY: TECHNICAL WRITER (NOBL9) – ZDALNA'
 authors: agnieszka
-date: "2023-03-03"
+date: '2023-03-03'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "oferta-pracy"
-  - "praca"
-coverImage: "nobl9.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'oferta-pracy'
+  - 'praca'
+coverImage: 'nobl9.png'
 ---
 
 Technical writer potrzebny od zaraz. Szczegóły oferty znajdziecie poniżej.

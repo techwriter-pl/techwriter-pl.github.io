@@ -1,14 +1,14 @@
 ---
-title: "Inspiracje dla technical writera - narzędzia"
+title: 'Inspiracje dla technical writera - narzędzia'
 authors: agnieszka
-date: "2021-05-21"
+date: '2021-05-21'
 tags:
-  - "narzedzia"
-  - "warsztat"
-  - "narzedzia"
-  - "praca"
-  - "technologie"
-coverImage: "Konferencje-2019-5.png"
+  - 'narzedzia'
+  - 'warsztat'
+  - 'narzedzia'
+  - 'praca'
+  - 'technologie'
+coverImage: 'Konferencje-2019-5.png'
 ---
 
 Dziś tematem tekstu będą narzędzia, na które warto zwrócić uwagę tworząc

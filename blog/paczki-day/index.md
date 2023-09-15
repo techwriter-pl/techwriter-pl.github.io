@@ -1,12 +1,12 @@
 ---
-title: "Pączki Day"
+title: 'Pączki Day'
 authors: szablowska
-date: "2014-02-27"
+date: '2014-02-27'
 tags:
-  - "news"
-  - "z-przymruzeniem-oka"
-  - "humor"
-coverImage: "paczek-e1393498224922.jpg"
+  - 'news'
+  - 'z-przymruzeniem-oka'
+  - 'humor'
+coverImage: 'paczek-e1393498224922.jpg'
 ---
 
 Z okazji Tłustego Czwartku, coś dla każdego szanującego się dokumentalisty...
@@ -20,4 +20,4 @@ diagramach i tabelkach, zapoznajcie się ze **strukturą pączka**. Smacznego �
 obsługi chyba nikomu nie jest potrzebna?
 
 Źródło obrazka:
-[Polonia Music](http://www.poloniamusic.com/PaczkiDay.html "Paczek")
+[Polonia Music](http://www.poloniamusic.com/PaczkiDay.html 'Paczek')

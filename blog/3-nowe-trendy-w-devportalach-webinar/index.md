@@ -1,13 +1,13 @@
 ---
-title: "3 nowe trendy w devportalach - webinar"
+title: '3 nowe trendy w devportalach - webinar'
 authors: agnieszka
-date: "2020-09-09"
+date: '2020-09-09'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "api"
-  - "webinarium"
-coverImage: "webinar.png"
+  - 'news'
+  - 'ze-swiata'
+  - 'api'
+  - 'webinarium'
+coverImage: 'webinar.png'
 ---
 
 Mamy dziś dla Was propozycję ciekawego webinaru. Szczegóły poniżej.

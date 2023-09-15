@@ -1,15 +1,15 @@
 ---
-title: "Naucz się sam(a) - część 3"
+title: 'Naucz się sam(a) - część 3'
 authors: mojk
-date: "2014-05-27"
+date: '2014-05-27'
 tags:
-  - "dobre-praktyki"
-  - "przyklady"
-  - "warsztat"
-  - "edukacja"
-  - "kariera"
-  - "literatura"
-coverImage: "414JSZMPX8L.jpg"
+  - 'dobre-praktyki'
+  - 'przyklady'
+  - 'warsztat'
+  - 'edukacja'
+  - 'kariera'
+  - 'literatura'
+coverImage: '414JSZMPX8L.jpg'
 ---
 
 Nadszedł czas, żeby zabrać się za zawartość przesyłki, którą opisywaliśmy w

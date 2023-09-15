@@ -1,17 +1,17 @@
 ---
-title: "Upraszczaj komunikację! Banki przecierają szlak"
+title: 'Upraszczaj komunikację! Banki przecierają szlak'
 authors: admin
-date: "2019-11-26"
+date: '2019-11-26'
 tags:
-  - "news"
-  - "warsztat"
-  - "z-kraju"
-  - "dostepnosc"
-  - "jezyk"
-  - "konferencje"
-  - "praktyki"
-  - "technologie"
-coverImage: "Prosto.jpg"
+  - 'news'
+  - 'warsztat'
+  - 'z-kraju'
+  - 'dostepnosc'
+  - 'jezyk'
+  - 'konferencje'
+  - 'praktyki'
+  - 'technologie'
+coverImage: 'Prosto.jpg'
 ---
 
 Równo sześć lat po jednym z naszych

@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Dokumentalista"
+title: 'Oferta pracy: Dokumentalista'
 authors: admin
-date: "2014-06-05"
+date: '2014-06-05'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "hurra_logo.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'hurra_logo.png'
 ---
 
 Hurra! Mamy dla Was kolejną ofertę pracy! I znów Kraków...

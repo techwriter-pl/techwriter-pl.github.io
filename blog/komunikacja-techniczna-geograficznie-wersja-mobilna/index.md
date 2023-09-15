@@ -1,14 +1,14 @@
 ---
-title: "Komunikacja techniczna geograficznie - wersja mobilna"
+title: 'Komunikacja techniczna geograficznie - wersja mobilna'
 authors: mojk
-date: "2016-03-01"
+date: '2016-03-01'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "aplikacje"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "unnamed-e1456523861631.png"
+  - 'news'
+  - 'ze-swiata'
+  - 'aplikacje'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'unnamed-e1456523861631.png'
 ---
 
 Projekt [Tech Comm on a Map](http://sarahmaddox.github.io/techcomm-map/) wkracza

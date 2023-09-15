@@ -1,14 +1,14 @@
 ---
-title: "Dokumentowanie API – Część 2: Dokumentacja referencyjna"
+title: 'Dokumentowanie API – Część 2: Dokumentacja referencyjna'
 authors: admin
-date: "2018-11-20"
+date: '2018-11-20'
 tags:
-  - "dobre-praktyki"
-  - "przyklady"
-  - "warsztat"
-  - "api"
-  - "narzedzia"
-coverImage: "OpenAPI.png"
+  - 'dobre-praktyki'
+  - 'przyklady'
+  - 'warsztat'
+  - 'api'
+  - 'narzedzia'
+coverImage: 'OpenAPI.png'
 ---
 
 Kontynuujemy temat dokumentacji API - przed Wami drugi artykuł Marcina
@@ -59,7 +59,7 @@ dokumentacji API, przyjrzymy się przykładowemu wpisowi w “programistycznym
 słowniku” API Instagrama:
 
 \[caption id="attachment_7337" align="aligncenter"
-width="834"\]![](images/InstagramApi.jpeg "Instagram API") Instagram
+width="834"\]![](images/InstagramApi.jpeg 'Instagram API') Instagram
 API\[/caption\]
 
 Powyższy przykład dokumentuje punkt dostępowy o nazwie users/self/media/recent,

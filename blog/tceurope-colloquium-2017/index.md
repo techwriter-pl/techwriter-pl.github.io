@@ -1,13 +1,13 @@
 ---
-title: "TCeurope Colloquium 2017"
+title: 'TCeurope Colloquium 2017'
 authors: agnieszka
-date: "2016-11-15"
+date: '2016-11-15'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "tceurope-1-e1478815759678.png"
+  - 'news'
+  - 'ze-swiata'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'tceurope-1-e1478815759678.png'
 ---
 
 Drodzy Czytelnicy, już dziś chcielibyśmy zaprosić Was na kolejną konferencję

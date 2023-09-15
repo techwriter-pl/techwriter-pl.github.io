@@ -1,17 +1,17 @@
 ---
-title: "Kilka słów o 3. edycji studiów z Komunikacji technicznej"
+title: 'Kilka słów o 3. edycji studiów z Komunikacji technicznej'
 authors: agnieszka
-date: "2023-06-28"
+date: '2023-06-28'
 tags:
-  - "news"
-  - "z-kraju"
-  - "dokumentacja"
-  - "edukacja"
-  - "kariera"
-  - "komunikacja-techniczna"
-  - "spolecznosc"
-  - "studia"
-coverImage: "3_edycja_studiow.png"
+  - 'news'
+  - 'z-kraju'
+  - 'dokumentacja'
+  - 'edukacja'
+  - 'kariera'
+  - 'komunikacja-techniczna'
+  - 'spolecznosc'
+  - 'studia'
+coverImage: '3_edycja_studiow.png'
 ---
 
 Dziś mamy dla Was podsumowanie kolejnej, już trzeciej, edycji studiów

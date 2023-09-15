@@ -1,13 +1,13 @@
 ---
-title: "[Nieaktualne] Oferta pracy: Technical Writer"
+title: '[Nieaktualne] Oferta pracy: Technical Writer'
 authors: admin
-date: "2018-06-14"
+date: '2018-06-14'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "Novomatic_logo.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'Novomatic_logo.png'
 ---
 
 W Krakowie... no dobra, pod Krakowem 😉. Ale i tak ciekawa oferta. Może jakiś

@@ -1,15 +1,15 @@
 ---
-title: "Tech Writer Koduje - odcinek 32"
+title: 'Tech Writer Koduje - odcinek 32'
 authors: agnieszka
-date: "2021-08-25"
+date: '2021-08-25'
 tags:
-  - "dobre-praktyki"
-  - "przyklady"
-  - "warsztat"
-  - "dokumentacja"
-  - "podcast"
-  - "praca"
-coverImage: "tech_writer_koduje-32.png"
+  - 'dobre-praktyki'
+  - 'przyklady'
+  - 'warsztat'
+  - 'dokumentacja'
+  - 'podcast'
+  - 'praca'
+coverImage: 'tech_writer_koduje-32.png'
 ---
 
 W najnowszym, 32 odcinku podcastu **Tech Writer Koduje** tematem przewodnim jest

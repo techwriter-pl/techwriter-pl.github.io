@@ -1,17 +1,17 @@
 ---
-title: "Już wkrótce Write2Users Conference w Kopenhadze"
+title: 'Już wkrótce Write2Users Conference w Kopenhadze'
 authors: kuba
-date: "2017-10-27"
+date: '2017-10-27'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "edukacja"
-  - "konferencje"
-  - "lokalizacja"
-  - "spolecznosc"
-  - "szkolenia"
-  - "treningi"
-coverImage: "linkedin_W2U_Conference2017_2-e1507660091661.jpg"
+  - 'news'
+  - 'ze-swiata'
+  - 'edukacja'
+  - 'konferencje'
+  - 'lokalizacja'
+  - 'spolecznosc'
+  - 'szkolenia'
+  - 'treningi'
+coverImage: 'linkedin_W2U_Conference2017_2-e1507660091661.jpg'
 ---
 
 Zaledwie kilka dni dzieli nas od konferencji dotyczącej komunikacji technicznej

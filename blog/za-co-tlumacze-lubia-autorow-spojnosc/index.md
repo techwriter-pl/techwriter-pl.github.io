@@ -1,18 +1,18 @@
 ---
-title: "Za co tłumacze lubią autorów - spójność"
+title: 'Za co tłumacze lubią autorów - spójność'
 authors: mojk
-date: "2018-03-07"
+date: '2018-03-07'
 tags:
-  - "dobre-praktyki"
-  - "przyklady"
-  - "warsztat"
-  - "instrukcje"
-  - "jezyk"
-  - "manuale"
-  - "on-line-help"
-  - "pomoc-uzytkownika"
-  - "tlumaczenia"
-coverImage: "box-3144128_640.jpg"
+  - 'dobre-praktyki'
+  - 'przyklady'
+  - 'warsztat'
+  - 'instrukcje'
+  - 'jezyk'
+  - 'manuale'
+  - 'on-line-help'
+  - 'pomoc-uzytkownika'
+  - 'tlumaczenia'
+coverImage: 'box-3144128_640.jpg'
 ---
 
 Nieraz mieliśmy okazję słyszeć Tech Writerów, którzy narzekali na swój ciężki

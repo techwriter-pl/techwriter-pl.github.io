@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Documentation Specialist (Pega)"
+title: 'Oferta pracy: Technical Documentation Specialist (Pega)'
 authors: mojk
-date: "2018-04-06"
+date: '2018-04-06'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "pega_logo_horizontal_positive_rgb_small.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'pega_logo_horizontal_positive_rgb_small.png'
 ---
 
 Firma [Pegasystems](https://www.pega.com/), tworząca strategiczne aplikacje dla

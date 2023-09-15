@@ -1,16 +1,16 @@
 ---
-title: "Relacja z kolejnej edycji krakowskiego MeetContent"
+title: 'Relacja z kolejnej edycji krakowskiego MeetContent'
 authors: kuba
-date: "2017-03-06"
+date: '2017-03-06'
 tags:
-  - "news"
-  - "z-kraju"
-  - "edukacja"
-  - "kariera"
-  - "konferencje"
-  - "spolecznosc"
-  - "treningi"
-coverImage: "hannes-wolf-74352-e1488647507320.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'edukacja'
+  - 'kariera'
+  - 'konferencje'
+  - 'spolecznosc'
+  - 'treningi'
+coverImage: 'hannes-wolf-74352-e1488647507320.jpg'
 ---
 
 Puzzle, design i inspiracja, czyli kolejne spotkanie MeetContent w Krakowie.

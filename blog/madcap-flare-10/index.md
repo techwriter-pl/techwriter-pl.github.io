@@ -1,16 +1,16 @@
 ---
-title: "MadCap Flare 10"
+title: 'MadCap Flare 10'
 authors: admin
-date: "2014-03-10"
+date: '2014-03-10'
 tags:
-  - "narzedzia"
-  - "warsztat"
-  - "knowledge-base"
-  - "on-line-help"
-  - "pomoc-uzytkownika"
-  - "technologie"
-  - "urzadzenia-mobilne"
-coverImage: "MadCapFlare.jpg"
+  - 'narzedzia'
+  - 'warsztat'
+  - 'knowledge-base'
+  - 'on-line-help'
+  - 'pomoc-uzytkownika'
+  - 'technologie'
+  - 'urzadzenia-mobilne'
+coverImage: 'MadCapFlare.jpg'
 ---
 
 Znacie narzędzie Flare? Jeśli nie, to teraz może być dobry moment aby to

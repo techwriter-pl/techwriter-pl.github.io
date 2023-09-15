@@ -1,21 +1,21 @@
 ---
-title: "UA Conference - Agnieszka Tkaczyk"
+title: 'UA Conference - Agnieszka Tkaczyk'
 authors: szablowska
-date: "2014-07-04"
+date: '2014-07-04'
 tags:
-  - "news"
-  - "z-kraju"
-  - "instrukcje"
-  - "kariera"
-  - "konferencje"
-  - "uzytecznosc"
-coverImage: "UA_Conference.png"
+  - 'news'
+  - 'z-kraju'
+  - 'instrukcje'
+  - 'kariera'
+  - 'konferencje'
+  - 'uzytecznosc'
+coverImage: 'UA_Conference.png'
 ---
 
 [**Agnieszka Tkaczyk**](http://www.uaeurope.com/conference/speakers.html#tkaczyk) rozpoczęła
 swoją przygodę z dokumentacją techniczną zaledwie parę lat temu, a już na swoim
 koncie ma dwie prezentacje na branżowych konferencjach. O pierwszej
-pisaliśmy [tutaj](http://techwriter.pl/soap-technical-communication-conference-relacja/ "soap! technical communication conference – relacja"),
+pisaliśmy [tutaj](http://techwriter.pl/soap-technical-communication-conference-relacja/ 'soap! technical communication conference – relacja'),
 teraz możecie przeczytać o
 kolejnej: [**A Technical Writer’s Role in Redesigning the Application UI**](http://www.uaeurope.com/conference/sessions.html#redesignUI).
 

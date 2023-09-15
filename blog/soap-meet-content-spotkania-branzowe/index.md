@@ -1,16 +1,16 @@
 ---
-title: "soap! meet content - spotkania branżowe"
+title: 'soap! meet content - spotkania branżowe'
 authors: agnieszka
-date: "2016-02-24"
+date: '2016-02-24'
 tags:
-  - "news"
-  - "z-kraju"
-  - "edukacja"
-  - "kariera"
-  - "spolecznosc"
-  - "szkolenia"
-  - "treningi"
-coverImage: "soap_meet_content.png"
+  - 'news'
+  - 'z-kraju'
+  - 'edukacja'
+  - 'kariera'
+  - 'spolecznosc'
+  - 'szkolenia'
+  - 'treningi'
+coverImage: 'soap_meet_content.png'
 ---
 
 Organizatorzy krakowskiej konferencji [soap!](http://soapconf.com/) postanowili

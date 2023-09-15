@@ -1,17 +1,17 @@
 ---
-title: "Relacja z Write2Users Conference w Kopenhadze"
+title: 'Relacja z Write2Users Conference w Kopenhadze'
 authors: kuba
-date: "2017-11-24"
+date: '2017-11-24'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "automatyzacja"
-  - "edukacja"
-  - "konferencje"
-  - "lokalizacja"
-  - "spolecznosc"
-  - "szkolenia"
-coverImage: "3-e1511255859976.jpeg"
+  - 'news'
+  - 'ze-swiata'
+  - 'automatyzacja'
+  - 'edukacja'
+  - 'konferencje'
+  - 'lokalizacja'
+  - 'spolecznosc'
+  - 'szkolenia'
+coverImage: '3-e1511255859976.jpeg'
 ---
 
 Piąta edycja

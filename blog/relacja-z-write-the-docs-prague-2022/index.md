@@ -1,13 +1,13 @@
 ---
-title: "Relacja z Write the Docs Prague 2022"
+title: 'Relacja z Write the Docs Prague 2022'
 authors: toporek
-date: "2022-10-20"
+date: '2022-10-20'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "308673646_178834124673335_5366100879339750396_n-e1665933113491.png"
+  - 'news'
+  - 'ze-swiata'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: '308673646_178834124673335_5366100879339750396_n-e1665933113491.png'
 ---
 
 [Write the Docs Prague](https://www.writethedocs.org/conf/prague/2022/) już za

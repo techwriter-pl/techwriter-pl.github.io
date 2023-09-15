@@ -1,13 +1,13 @@
 ---
-title: "Content strategy - treściwa strategia czy strategiczna treść?"
+title: 'Content strategy - treściwa strategia czy strategiczna treść?'
 authors: admin
-date: "2014-08-05"
+date: '2014-08-05'
 tags:
-  - "dobre-praktyki"
-  - "warsztat"
-  - "praca"
-  - "zarzadzanie-trescia"
-coverImage: "Screenshot-2023-03-15-at-20.27.41.png"
+  - 'dobre-praktyki'
+  - 'warsztat'
+  - 'praca'
+  - 'zarzadzanie-trescia'
+coverImage: 'Screenshot-2023-03-15-at-20.27.41.png'
 ---
 
 A może treśtegia? Wbrew pozorom temat jest poważny. Przeczytaj co to jest

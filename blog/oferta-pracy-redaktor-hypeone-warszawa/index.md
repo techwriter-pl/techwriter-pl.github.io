@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Redaktor (HypeOne) – Warszawa"
+title: 'Oferta pracy: Redaktor (HypeOne) – Warszawa'
 authors: admin
-date: "2019-11-13"
+date: '2019-11-13'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "hyperOne-Logo-outline.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'hyperOne-Logo-outline.png'
 ---
 
 Halo! Czy jest tu ktoś z lekkim piórem, zmysłem do pisania i pasją do nowych

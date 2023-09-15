@@ -1,13 +1,13 @@
 ---
-title: "Zostań mówcą - tekom Europe Roadshow 2014"
+title: 'Zostań mówcą - tekom Europe Roadshow 2014'
 authors: admin
-date: "2014-03-24"
+date: '2014-03-24'
 tags:
-  - "news"
-  - "z-kraju"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "TekomRoadshow2014.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'TekomRoadshow2014.jpg'
 ---
 
 Konferencja zaplanowana jest na 18 września, a _call for papers_ trwa do 13

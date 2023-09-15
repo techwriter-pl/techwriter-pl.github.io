@@ -1,13 +1,13 @@
 ---
-title: "Langłydż - specjal edyszyn"
+title: 'Langłydż - specjal edyszyn'
 authors: agnieszka
-date: "2015-11-25"
+date: '2015-11-25'
 tags:
-  - "warsztat"
-  - "z-przymruzeniem-oka"
-  - "humor"
-  - "jezyk"
-coverImage: "redkaptur.jpg"
+  - 'warsztat'
+  - 'z-przymruzeniem-oka'
+  - 'humor'
+  - 'jezyk'
+coverImage: 'redkaptur.jpg'
 ---
 
 _Tego redakcja techwriter.pl się nie spodziewała. Jeden z naszych stałych

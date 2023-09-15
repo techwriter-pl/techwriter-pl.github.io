@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Information Developer (Jorsek LLC)"
+title: 'Oferta pracy: Information Developer (Jorsek LLC)'
 authors: mojk
-date: "2019-05-23"
+date: '2019-05-23'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "jorsek_logo.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'jorsek_logo.png'
 ---
 
 Firma Jorsek LLC, producent oprogramowania [easyDITA](https://easydita.com/),

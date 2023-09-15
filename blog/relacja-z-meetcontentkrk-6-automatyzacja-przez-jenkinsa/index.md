@@ -1,15 +1,15 @@
 ---
-title: "Relacja z MeetContentKRK #6 - Automatyzacja przez Jenkinsa"
+title: 'Relacja z MeetContentKRK #6 - Automatyzacja przez Jenkinsa'
 authors: pensjonatus
-date: "2017-11-20"
+date: '2017-11-20'
 tags:
-  - "news"
-  - "narzedzia"
-  - "warsztat"
-  - "z-kraju"
-  - "meetcontent"
-  - "technologie"
-coverImage: "oliver-wendel-326840.jpg"
+  - 'news'
+  - 'narzedzia'
+  - 'warsztat'
+  - 'z-kraju'
+  - 'meetcontent'
+  - 'technologie'
+coverImage: 'oliver-wendel-326840.jpg'
 ---
 
 Nasz niezastąpiony redakcyjny kolega Michał Skowron wystąpił na

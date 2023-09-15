@@ -1,14 +1,14 @@
 ---
-title: "Inspiracje dla Technical Writera - dokumentacja online"
+title: 'Inspiracje dla Technical Writera - dokumentacja online'
 authors: agnieszka
-date: "2020-10-02"
+date: '2020-10-02'
 tags:
-  - "przyklady"
-  - "warsztat"
-  - "dokumentacja"
-  - "manuale"
-  - "on-line-help"
-coverImage: "inspiracje_doc_online.png"
+  - 'przyklady'
+  - 'warsztat'
+  - 'dokumentacja'
+  - 'manuale'
+  - 'on-line-help'
+coverImage: 'inspiracje_doc_online.png'
 ---
 
 Dziś mamy dla Was kilka konkretnych przykładów dokumentacji online, w ramach

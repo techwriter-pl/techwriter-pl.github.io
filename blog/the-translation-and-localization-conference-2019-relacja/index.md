@@ -1,14 +1,14 @@
 ---
-title: "The Translation and Localization Conference 2019 - relacja"
+title: 'The Translation and Localization Conference 2019 - relacja'
 authors: mojk
-date: "2019-04-24"
+date: '2019-04-24'
 tags:
-  - "news"
-  - "z-kraju"
-  - "konferencje"
-  - "spolecznosc"
-  - "tlumaczenia"
-coverImage: "TLConference-2019.png"
+  - 'news'
+  - 'z-kraju'
+  - 'konferencje'
+  - 'spolecznosc'
+  - 'tlumaczenia'
+coverImage: 'TLConference-2019.png'
 ---
 
 W ramach zacieśniania współpracy ze światem tłumaczeń, w tym roku objęliśmy

@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer (Guidewire)"
+title: 'Oferta pracy: Technical Writer (Guidewire)'
 authors: mojk
-date: "2019-01-09"
+date: '2019-01-09'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "guidewire_logo_new_2color_h_screen.jpg"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'guidewire_logo_new_2color_h_screen.jpg'
 ---
 
 Godna polecenia oferta z Krakowa.

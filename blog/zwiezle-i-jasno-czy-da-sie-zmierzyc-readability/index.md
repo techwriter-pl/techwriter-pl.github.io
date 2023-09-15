@@ -1,13 +1,13 @@
 ---
 title: 'Zwięźle i jasno. Czy da się zmierzyć "readability"'
 authors: admin
-date: "2015-07-07"
+date: '2015-07-07'
 tags:
-  - "dobre-praktyki"
-  - "narzedzia"
-  - "warsztat"
-  - "jezyk"
-coverImage: "simplicity.jpg"
+  - 'dobre-praktyki'
+  - 'narzedzia'
+  - 'warsztat'
+  - 'jezyk'
+coverImage: 'simplicity.jpg'
 ---
 
 Dziś to, co lubimy najbardziej, czyli artykuł naszej czytelniczki. Dzięki

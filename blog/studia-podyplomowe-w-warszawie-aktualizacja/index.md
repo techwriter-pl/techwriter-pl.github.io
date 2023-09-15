@@ -1,14 +1,14 @@
 ---
-title: "Studia podyplomowe w Warszawie - aktualizacja"
+title: 'Studia podyplomowe w Warszawie - aktualizacja'
 authors: admin
-date: "2019-09-25"
+date: '2019-09-25'
 tags:
-  - "news"
-  - "z-kraju"
-  - "edukacja"
-  - "studia"
-  - "szkolenia"
-coverImage: "Vistula_komunikacja_techniczna_podyplomowe-e1569408984531.png"
+  - 'news'
+  - 'z-kraju'
+  - 'edukacja'
+  - 'studia'
+  - 'szkolenia'
+coverImage: 'Vistula_komunikacja_techniczna_podyplomowe-e1569408984531.png'
 ---
 
 Zmieniły się nieco plany uczelni Vistula odnośnie startu naszego kierunku -

@@ -1,13 +1,13 @@
-import React from "react";
-import clsx from "clsx";
-import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
-import styles from "./HomePageHeader.module.css";
-import { FeatureProps } from "@site/src/components/Feature/Feature";
+import React from 'react';
+import clsx from 'clsx';
+import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
+import styles from './HomePageHeader.module.css';
+import { FeatureProps } from '@site/src/components/Feature/Feature';
 
 export default function HomePageHeader(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <header className={clsx("container", styles.heroBanner)}>
+    <header className={clsx('container', styles.heroBanner)}>
       <div className={clsx(styles.logoRow)}>
         <img src="/img/Coffee.svg" alt="" className={styles.coffeeImage} />
         <div>
@@ -25,7 +25,7 @@ export default function HomePageHeader(): JSX.Element {
 
 const features: FeatureProps[] = [
   {
-    title: "Grupa na Facebooku",
+    title: 'Grupa na Facebooku',
     body: (
       <>
         Tech writerzy wymieniający się wiedzą. Dobre miejsce, żeby zadać
@@ -33,16 +33,16 @@ const features: FeatureProps[] = [
       </>
     ),
     link: {
-      label: "Dołącz do grupy",
-      to: "",
+      label: 'Dołącz do grupy',
+      to: '',
     },
   },
   {
-    title: "Partnerzy",
+    title: 'Partnerzy',
     body: <>Tutaj będą partnerzy...</>,
     link: {
-      label: "Zostań partnerem",
-      to: "",
+      label: 'Zostań partnerem',
+      to: '',
     },
   },
 ];

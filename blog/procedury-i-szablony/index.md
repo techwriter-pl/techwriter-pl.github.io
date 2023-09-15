@@ -1,14 +1,14 @@
 ---
-title: "Procedury i szablony"
+title: 'Procedury i szablony'
 authors: admin
-date: "2013-11-21"
+date: '2013-11-21'
 tags:
-  - "przyklady"
-  - "warsztat"
-  - "praca"
-  - "procedury"
-  - "szablony"
-coverImage: "Procedury.jpg"
+  - 'przyklady'
+  - 'warsztat'
+  - 'praca'
+  - 'procedury'
+  - 'szablony'
+coverImage: 'Procedury.jpg'
 ---
 
 Czym zajmują się technical writerzy? Tworzą m.in. procedury i szablony, w

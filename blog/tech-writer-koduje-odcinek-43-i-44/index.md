@@ -1,15 +1,15 @@
 ---
-title: "TECH WRITER KODUJE – ODCINEK #43 I #44"
+title: 'TECH WRITER KODUJE – ODCINEK #43 I #44'
 authors: agnieszka
-date: "2022-08-19"
+date: '2022-08-19'
 tags:
-  - "praca"
-  - "warsztat"
-  - "dokumentacja"
-  - "kariera"
-  - "podcast"
-  - "praca"
-coverImage: "tech_writer_koduje_43_i_44.png"
+  - 'praca'
+  - 'warsztat'
+  - 'dokumentacja'
+  - 'kariera'
+  - 'podcast'
+  - 'praca'
+coverImage: 'tech_writer_koduje_43_i_44.png'
 ---
 
 Z ostatnich podcastów ekipy Tech Writer Koduje dowiecie się jaki jest przepis na

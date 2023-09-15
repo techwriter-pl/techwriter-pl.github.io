@@ -1,19 +1,19 @@
 ---
 title:
-  "Bezpłatne warsztaty tworzenia dokumentacji technicznej i szkoleń e-learning w
-  Krakowie"
+  'Bezpłatne warsztaty tworzenia dokumentacji technicznej i szkoleń e-learning w
+  Krakowie'
 authors: admin
-date: "2017-05-17"
+date: '2017-05-17'
 tags:
-  - "news"
-  - "z-kraju"
-  - "dita"
-  - "e-learning"
-  - "instrukcje"
-  - "kariera"
-  - "manuale"
-  - "treningi"
-coverImage: "z16223142IERCentrum-Motorola-Solutions-Systems-na-Ruczaju.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'dita'
+  - 'e-learning'
+  - 'instrukcje'
+  - 'kariera'
+  - 'manuale'
+  - 'treningi'
+coverImage: 'z16223142IERCentrum-Motorola-Solutions-Systems-na-Ruczaju.jpg'
 ---
 
 Są firmy i ludzie, którzy chętnie nauczą Was podstaw zawodu techwritera. Za

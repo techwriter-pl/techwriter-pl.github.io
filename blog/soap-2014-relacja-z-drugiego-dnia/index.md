@@ -1,15 +1,15 @@
 ---
-title: "soap! 2014 - relacja z drugiego dnia"
+title: 'soap! 2014 - relacja z drugiego dnia'
 authors: mojk
-date: "2014-10-17"
+date: '2014-10-17'
 tags:
-  - "news"
-  - "z-kraju"
-  - "infografiki"
-  - "konferencje"
-  - "spolecznosc"
-  - "uzytecznosc"
-coverImage: "soap.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'infografiki'
+  - 'konferencje'
+  - 'spolecznosc'
+  - 'uzytecznosc'
+coverImage: 'soap.jpg'
 ---
 
 Drugi dzień konferencji [soap!](http://soapconf.com/) przyniósł jeszcze więcej

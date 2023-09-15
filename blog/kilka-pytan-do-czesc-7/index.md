@@ -1,13 +1,13 @@
 ---
-title: "Kilka pytań do - część 7"
+title: 'Kilka pytań do - część 7'
 authors: agnieszka
-date: "2015-10-27"
+date: '2015-10-27'
 tags:
-  - "warsztat"
-  - "wywiady"
-  - "spolecznosc"
-  - "wywiad"
-coverImage: "microphone-17846_640.jpg"
+  - 'warsztat'
+  - 'wywiady'
+  - 'spolecznosc'
+  - 'wywiad'
+coverImage: 'microphone-17846_640.jpg'
 ---
 
 W Polsce zawód Technical Writera to wciąż sprawa dość egzotyczna. Wystarczy

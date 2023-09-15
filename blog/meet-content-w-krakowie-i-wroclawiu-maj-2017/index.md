@@ -1,20 +1,20 @@
 ---
-title: "Meet Content w Krakowie i Wrocławiu - Maj 2017"
+title: 'Meet Content w Krakowie i Wrocławiu - Maj 2017'
 authors: pensjonatus
-date: "2017-05-22"
+date: '2017-05-22'
 tags:
-  - "news"
-  - "z-kraju"
-  - "dita"
-  - "edukacja"
-  - "kariera"
-  - "konferencje"
-  - "meetcontent"
-  - "spolecznosc"
-  - "szkolenia"
-  - "tlumaczenia"
-  - "treningi"
-coverImage: "cover-1.png"
+  - 'news'
+  - 'z-kraju'
+  - 'dita'
+  - 'edukacja'
+  - 'kariera'
+  - 'konferencje'
+  - 'meetcontent'
+  - 'spolecznosc'
+  - 'szkolenia'
+  - 'tlumaczenia'
+  - 'treningi'
+coverImage: 'cover-1.png'
 ---
 
 Jest okazja, żeby nauczyć się nowych rzeczy z dziedziny komunikacji

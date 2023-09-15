@@ -1,19 +1,19 @@
 ---
-title: "Tech Writer koduje - odcinek 26 i 27"
+title: 'Tech Writer koduje - odcinek 26 i 27'
 authors: agnieszka
-date: "2021-02-19"
+date: '2021-02-19'
 tags:
-  - "dobre-praktyki"
-  - "przyklady"
-  - "warsztat"
-  - "api"
-  - "automatyzacja"
-  - "dokumentacja"
-  - "podcast"
-  - "szkolenia"
-  - "technologie"
-  - "treningi"
-coverImage: "tw_koduje_26_27.png"
+  - 'dobre-praktyki'
+  - 'przyklady'
+  - 'warsztat'
+  - 'api'
+  - 'automatyzacja'
+  - 'dokumentacja'
+  - 'podcast'
+  - 'szkolenia'
+  - 'technologie'
+  - 'treningi'
+coverImage: 'tw_koduje_26_27.png'
 ---
 
 Dokumentacja API oraz szkolenie z Pythona - oto tematy ostatnich odcinków

@@ -1,17 +1,17 @@
 ---
-title: "Jesienna edycja API the Docs Virtual 2023 - Zapowiedź"
+title: 'Jesienna edycja API the Docs Virtual 2023 - Zapowiedź'
 authors: agnieszka
-date: "2023-08-18"
+date: '2023-08-18'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "api"
-  - "dokumentacja"
-  - "dostepnosc"
-  - "konferencje"
-  - "praktyki"
-  - "spolecznosc"
-coverImage: "api_the_docs_2023.png"
+  - 'news'
+  - 'ze-swiata'
+  - 'api'
+  - 'dokumentacja'
+  - 'dostepnosc'
+  - 'konferencje'
+  - 'praktyki'
+  - 'spolecznosc'
+coverImage: 'api_the_docs_2023.png'
 ---
 
 Co prawda do października jeszcze sporo czasu, ale już teraz informujemy Was, że

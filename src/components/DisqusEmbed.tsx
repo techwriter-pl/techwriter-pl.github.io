@@ -1,6 +1,6 @@
-import React from "react";
-import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
-import { DiscussionEmbed } from "disqus-react";
+import React from 'react';
+import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
+import { DiscussionEmbed } from 'disqus-react';
 
 type DisqusEmbedProps = {
   relativeUrl: string;
@@ -24,7 +24,7 @@ export default function DisqusEmbed({
           url: `${url}${relativeUrl}`,
           identifier: id,
           title: title,
-          language: "pl",
+          language: 'pl',
         }}
       />
     </div>

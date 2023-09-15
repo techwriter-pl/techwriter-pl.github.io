@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer (Genesis Global Limited) – Gdańsk"
+title: 'Oferta pracy: Technical Writer (Genesis Global Limited) – Gdańsk'
 authors: admin
-date: "2019-10-07"
+date: '2019-10-07'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "Genesis-Global-Logo-e1570441493957.jpg"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'Genesis-Global-Logo-e1570441493957.jpg'
 ---
 
 A może nad morze? Trafiła do nas kolejna ciekawa oferta, raczej dla osoby z

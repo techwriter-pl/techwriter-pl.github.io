@@ -1,16 +1,16 @@
 ---
-title: "Evolution of TC 2021 - najważniejsze informacje"
+title: 'Evolution of TC 2021 - najważniejsze informacje'
 authors: agnieszka
-date: "2021-06-04"
+date: '2021-06-04'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "dokumentacja"
-  - "edukacja"
-  - "kariera"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "Evolution_of_TC_2021.png"
+  - 'news'
+  - 'ze-swiata'
+  - 'dokumentacja'
+  - 'edukacja'
+  - 'kariera'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'Evolution_of_TC_2021.png'
 ---
 
 Macie ostatnią szansę, aby wziąć udział w jednym z ciekawszych wydarzeń w naszej

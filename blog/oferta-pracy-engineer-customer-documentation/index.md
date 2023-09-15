@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Engineer, Customer Documentation"
+title: 'Oferta pracy: Engineer, Customer Documentation'
 authors: admin
-date: "2018-06-11"
+date: '2018-06-11'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "Nokia-logo-e1528727519947.jpg"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'Nokia-logo-e1528727519947.jpg'
 ---
 
 Dziś oferta z Wrocławia, z fińskiej firmy, po angielsku 😊 Raczej dla

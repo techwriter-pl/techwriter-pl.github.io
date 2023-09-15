@@ -1,13 +1,13 @@
 ---
-title: "Konferencja soap! - odliczanie czas zacząć"
+title: 'Konferencja soap! - odliczanie czas zacząć'
 authors: agnieszka
-date: "2018-04-30"
+date: '2018-04-30'
 tags:
-  - "news"
-  - "z-kraju"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "soap2018.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'soap2018.jpg'
 ---
 
 Kolejna odsłona krakowskiej konferencji soap! już wkrótce. Poniżej przypominamy

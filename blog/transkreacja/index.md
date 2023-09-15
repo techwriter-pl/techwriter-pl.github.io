@@ -1,14 +1,14 @@
 ---
-title: "Transkreacja"
+title: 'Transkreacja'
 authors: admin
-date: "2014-11-28"
+date: '2014-11-28'
 tags:
-  - "dobre-praktyki"
-  - "przyklady"
-  - "warsztat"
-  - "lokalizacja"
-  - "tlumaczenia"
-coverImage: "transkreacja.jpg"
+  - 'dobre-praktyki'
+  - 'przyklady'
+  - 'warsztat'
+  - 'lokalizacja'
+  - 'tlumaczenia'
+coverImage: 'transkreacja.jpg'
 ---
 
 Gdybyśmy codziennie uczyli się jednego nowego słowa, to... za tydzień znalibyśmy

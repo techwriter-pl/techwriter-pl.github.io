@@ -1,16 +1,16 @@
 ---
-title: "Help and Manual - niepotrzebne obrazki"
+title: 'Help and Manual - niepotrzebne obrazki'
 authors: mojk
-date: "2014-08-22"
+date: '2014-08-22'
 tags:
-  - "narzedzia"
-  - "warsztat"
-  - "manuale"
-  - "on-line-help"
-coverImage: "hm.gif"
+  - 'narzedzia'
+  - 'warsztat'
+  - 'manuale'
+  - 'on-line-help'
+coverImage: 'hm.gif'
 ---
 
-[Help and Manual](http://techwriter.pl/help-and-manual-opis-narzedzia/ "Help and Manual – opis narzędzia")
+[Help and Manual](http://techwriter.pl/help-and-manual-opis-narzedzia/ 'Help and Manual – opis narzędzia')
 posiada dużo przydatnych funkcji, których nie widać gołym okiem. Jedną z nich
 jest możliwość sprawdzenia, które obrazki nie są używane w projekcie.
 

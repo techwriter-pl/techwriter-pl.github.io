@@ -1,12 +1,12 @@
 ---
-title: "Konferencja reQuest - call for papers"
+title: 'Konferencja reQuest - call for papers'
 authors: admin
-date: "2019-02-21"
+date: '2019-02-21'
 tags:
-  - "news"
-  - "z-kraju"
-  - "konferencje"
-coverImage: "RequestCFP.png"
+  - 'news'
+  - 'z-kraju'
+  - 'konferencje'
+coverImage: 'RequestCFP.png'
 ---
 
 Pokaż, na co Cię stać, poszerz swoje horyzonty i dołącz do reQuest - największej

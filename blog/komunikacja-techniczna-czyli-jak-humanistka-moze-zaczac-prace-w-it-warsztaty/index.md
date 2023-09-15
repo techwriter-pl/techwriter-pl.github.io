@@ -1,16 +1,17 @@
 ---
-title: "Komunikacja techniczna, czyli jak humanistka może zacząć pracę w IT -
-  warsztaty"
+title:
+  'Komunikacja techniczna, czyli jak humanistka może zacząć pracę w IT -
+  warsztaty'
 authors: agnieszka
-date: "2021-11-05"
+date: '2021-11-05'
 tags:
-  - "news"
-  - "z-kraju"
-  - "dokumentacja"
-  - "edukacja"
-  - "kariera"
-  - "szkolenia"
-coverImage: "Warsztaty_AKM.png"
+  - 'news'
+  - 'z-kraju'
+  - 'dokumentacja'
+  - 'edukacja'
+  - 'kariera'
+  - 'szkolenia'
+coverImage: 'Warsztaty_AKM.png'
 ---
 
 Już 9 listopada w Krakowie odbędą się ciekawe warsztaty związane z komunikacją

@@ -1,15 +1,15 @@
 ---
-title: "Szkolenie ITCQF - relacja"
+title: 'Szkolenie ITCQF - relacja'
 authors: mojk
-date: "2015-09-15"
+date: '2015-09-15'
 tags:
-  - "news"
-  - "dobre-praktyki"
-  - "warsztat"
-  - "z-kraju"
-  - "edukacja"
-  - "szkolenia"
-coverImage: "itcqf_logo_black-e1442054514270.jpg"
+  - 'news'
+  - 'dobre-praktyki'
+  - 'warsztat'
+  - 'z-kraju'
+  - 'edukacja'
+  - 'szkolenia'
+coverImage: 'itcqf_logo_black-e1442054514270.jpg'
 ---
 
 W dniach 10-11 września odbyło się pierwsze szkolenie z komunikacji technicznej

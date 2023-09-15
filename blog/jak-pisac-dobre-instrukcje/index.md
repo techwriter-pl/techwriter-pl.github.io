@@ -1,14 +1,14 @@
 ---
-title: "Jak pisać dobre instrukcje?"
+title: 'Jak pisać dobre instrukcje?'
 authors: mojk
-date: "2014-09-02"
+date: '2014-09-02'
 tags:
-  - "dobre-praktyki"
-  - "warsztat"
-  - "edukacja"
-  - "manuale"
-  - "on-line-help"
-coverImage: "computer-problem-152211_640.png"
+  - 'dobre-praktyki'
+  - 'warsztat'
+  - 'edukacja'
+  - 'manuale'
+  - 'on-line-help'
+coverImage: 'computer-problem-152211_640.png'
 ---
 
 Pisanie instrukcji to nic trudnego. Pisanie dobrych instrukcji to całkowicie

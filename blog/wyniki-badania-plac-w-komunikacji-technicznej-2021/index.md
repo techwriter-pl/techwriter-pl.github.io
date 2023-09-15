@@ -1,15 +1,15 @@
 ---
-title: "Wyniki badania płac w komunikacji technicznej 2021"
+title: 'Wyniki badania płac w komunikacji technicznej 2021'
 authors: agnieszka
-date: "2021-06-23"
+date: '2021-06-23'
 tags:
-  - "badanie-plac"
-  - "praca"
-  - "ankieta"
-  - "kariera"
-  - "praca"
-  - "spolecznosc"
-coverImage: "BADANIE_PLAC_wyniki.png"
+  - 'badanie-plac'
+  - 'praca'
+  - 'ankieta'
+  - 'kariera'
+  - 'praca'
+  - 'spolecznosc'
+coverImage: 'BADANIE_PLAC_wyniki.png'
 ---
 
 Nadszedł czas na opublikowanie wyników corocznej ankiety dotyczącej płac w

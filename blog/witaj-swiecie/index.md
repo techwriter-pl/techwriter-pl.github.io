@@ -1,12 +1,12 @@
 ---
-title: "Startujemy!"
+title: 'Startujemy!'
 authors: admin
-date: "2013-09-18"
+date: '2013-09-18'
 tags:
-  - "news"
-  - "z-kraju"
-  - "ze-swiata"
-coverImage: "owca.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'ze-swiata'
+coverImage: 'owca.jpg'
 ---
 
 Właściwie, jako “techniczni”, powinniśmy chyba napisać

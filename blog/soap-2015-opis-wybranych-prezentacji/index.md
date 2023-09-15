@@ -1,17 +1,17 @@
 ---
-title: "soap! 2015 - opis wybranych prezentacji"
+title: 'soap! 2015 - opis wybranych prezentacji'
 authors: mojk
-date: "2015-10-20"
+date: '2015-10-20'
 tags:
-  - "news"
-  - "z-kraju"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "soap_coffee-e1445236483405.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'soap_coffee-e1445236483405.jpg'
 ---
 
 Po ogólnym
-[podsumowaniu](http://techwriter.pl/namydleni-po-raz-trzeci/ "Namydleni po raz trzeci")
+[podsumowaniu](http://techwriter.pl/namydleni-po-raz-trzeci/ 'Namydleni po raz trzeci')
 tegorocznej edycji [soap!](http://soapconf.com/), przedstawiamy skrótowo wybrane
 przez nas prezentacje.
 

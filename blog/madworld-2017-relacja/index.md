@@ -1,13 +1,13 @@
 ---
-title: "MadWorld 2017 - relacja"
+title: 'MadWorld 2017 - relacja'
 authors: mojk
-date: "2017-05-04"
+date: '2017-05-04'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "madworld-image.jpg"
+  - 'news'
+  - 'ze-swiata'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'madworld-image.jpg'
 ---
 
 W tym roku mieliśmy przyjemność być partnerem medialnym konferencji

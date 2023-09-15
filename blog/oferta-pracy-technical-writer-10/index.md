@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer"
+title: 'Oferta pracy: Technical Writer'
 authors: mojk
-date: "2016-02-04"
+date: '2016-02-04'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "XTRF_logo-kolor_700x410px.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'XTRF_logo-kolor_700x410px.png'
 ---
 
 Liczba ofert pracy dla dokumentalistów rośnie w oczach. Dzisiaj mamy dla Was

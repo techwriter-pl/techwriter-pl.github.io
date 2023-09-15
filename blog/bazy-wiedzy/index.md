@@ -1,16 +1,16 @@
 ---
-title: "Bazy wiedzy"
+title: 'Bazy wiedzy'
 authors: admin
-date: "2013-12-18"
+date: '2013-12-18'
 tags:
-  - "przyklady"
-  - "warsztat"
-  - "knowledge-base"
-  - "materialy-szkoleniowe"
-  - "praca"
-  - "spolecznosc"
-  - "technologie"
-coverImage: "BazyWiedzy.jpg"
+  - 'przyklady'
+  - 'warsztat'
+  - 'knowledge-base'
+  - 'materialy-szkoleniowe'
+  - 'praca'
+  - 'spolecznosc'
+  - 'technologie'
+coverImage: 'BazyWiedzy.jpg'
 ---
 
 Czym zajmują się technical writerzy? Budują m.in. knowledge base. A czym zajmują

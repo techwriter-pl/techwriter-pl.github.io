@@ -1,15 +1,15 @@
 ---
-title: "Naucz się sam(a) ?"
+title: 'Naucz się sam(a) ?'
 authors: admin
-date: "2014-03-03"
+date: '2014-03-03'
 tags:
-  - "dobre-praktyki"
-  - "przyklady"
-  - "warsztat"
-  - "edukacja"
-  - "kariera"
-  - "szkolenia"
-coverImage: "wikiversity.png"
+  - 'dobre-praktyki'
+  - 'przyklady'
+  - 'warsztat'
+  - 'edukacja'
+  - 'kariera'
+  - 'szkolenia'
+coverImage: 'wikiversity.png'
 ---
 
 Jak sami stwierdziliście nie ma w Polsce uczelni, która kształciłaby technical
