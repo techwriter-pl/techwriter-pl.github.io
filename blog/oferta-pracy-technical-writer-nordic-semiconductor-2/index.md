@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer (Nordic Semiconductor)"
+title: 'Oferta pracy: Technical Writer (Nordic Semiconductor)'
 authors: mojk
-date: "2018-01-15"
+date: '2018-01-15'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "NordicS_smarter-things.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'NordicS_smarter-things.png'
 ---
 
 Nordic Semiconductor Poland,

@@ -1,13 +1,13 @@
 ---
-title: "Langłydż - part ejt"
+title: 'Langłydż - part ejt'
 authors: admin
-date: "2014-07-25"
+date: '2014-07-25'
 tags:
-  - "warsztat"
-  - "z-przymruzeniem-oka"
-  - "humor"
-  - "jezyk"
-coverImage: "frejmlork.gif"
+  - 'warsztat'
+  - 'z-przymruzeniem-oka'
+  - 'humor'
+  - 'jezyk'
+coverImage: 'frejmlork.gif'
 ---
 
 Dziś kolejne słowo obejmujące swoim znaczeniem cały kosmos znaczeń. Zapnijcie

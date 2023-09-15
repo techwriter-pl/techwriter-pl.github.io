@@ -1,14 +1,14 @@
 ---
-title: "Documentor - opis narzędzia"
+title: 'Documentor - opis narzędzia'
 authors: admin
-date: "2015-09-22"
+date: '2015-09-22'
 tags:
-  - "narzedzia"
-  - "warsztat"
-  - "aplikacje"
-  - "manuale"
-  - "on-line-help"
-coverImage: "Documentor-logo.jpg"
+  - 'narzedzia'
+  - 'warsztat'
+  - 'aplikacje'
+  - 'manuale'
+  - 'on-line-help'
+coverImage: 'Documentor-logo.jpg'
 ---
 
 Podczas szkolenia ITCQF

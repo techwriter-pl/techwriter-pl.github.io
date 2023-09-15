@@ -1,15 +1,15 @@
 ---
-title: "Konferencja MadWorld już niedługo"
+title: 'Konferencja MadWorld już niedługo'
 authors: agnieszka
-date: "2017-01-27"
+date: '2017-01-27'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "edukacja"
-  - "kariera"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "photo-bar1-946-1x-e1485466167851.jpg"
+  - 'news'
+  - 'ze-swiata'
+  - 'edukacja'
+  - 'kariera'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'photo-bar1-946-1x-e1485466167851.jpg'
 ---
 
 Początek kwietnia coraz bliżej, a wraz z nim termin konferencji MadWorld, o

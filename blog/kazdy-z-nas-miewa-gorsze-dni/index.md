@@ -1,14 +1,14 @@
 ---
-title: "Każdy z nas miewa gorsze dni..."
+title: 'Każdy z nas miewa gorsze dni...'
 authors: mojk
-date: "2016-11-25"
+date: '2016-11-25'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "humor"
-  - "praca"
-  - "spolecznosc"
-coverImage: "man-857502_640.jpg"
+  - 'news'
+  - 'ze-swiata'
+  - 'humor'
+  - 'praca'
+  - 'spolecznosc'
+coverImage: 'man-857502_640.jpg'
 ---
 
 Nie mamy wątpliwości, że Technical Writer to jeden z najlepszych, o ile nie

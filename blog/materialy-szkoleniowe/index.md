@@ -1,14 +1,14 @@
 ---
-title: "Materiały szkoleniowe"
+title: 'Materiały szkoleniowe'
 authors: admin
-date: "2013-11-05"
+date: '2013-11-05'
 tags:
-  - "przyklady"
-  - "warsztat"
-  - "materialy-szkoleniowe"
-  - "praca"
-  - "treningi"
-coverImage: "Training.gif"
+  - 'przyklady'
+  - 'warsztat'
+  - 'materialy-szkoleniowe'
+  - 'praca'
+  - 'treningi'
+coverImage: 'Training.gif'
 ---
 
 Czym zajmują się technical writerzy? Tworzą m.in. materiały treningowe, w

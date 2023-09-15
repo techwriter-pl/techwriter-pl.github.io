@@ -1,14 +1,14 @@
 ---
-title: "Data journalism - zawód przyszłości?"
+title: 'Data journalism - zawód przyszłości?'
 authors: admin
-date: "2014-09-30"
+date: '2014-09-30'
 tags:
-  - "news"
-  - "z-kraju"
-  - "ze-swiata"
-  - "infografiki"
-  - "kariera"
-coverImage: "data.png"
+  - 'news'
+  - 'z-kraju'
+  - 'ze-swiata'
+  - 'infografiki'
+  - 'kariera'
+coverImage: 'data.png'
 ---
 
 “A person without data is just another person with an opinion”. Dziennikarstwo
@@ -54,14 +54,14 @@ Prezentacji wprowadzającej:
 
 <iframe style={{border: '1px solid #CCC', borderWidth: '1px', marginBottom: '5px', maxWidth: '100%'}} src="//www.slideshare.net/slideshow/embed_code/29022739" height={356} width={427} allowFullScreen frameBorder={0} marginWidth={0} marginHeight={0} scrolling="no" />
 
-**[ODC BarCamp 2013 - Introduction to Data Journalism](https://www.slideshare.net/opendevcam/odc-barcamp-2013-introduction-to-data-journalism "ODC BarCamp 2013 - Introduction to Data Journalism")**
+**[ODC BarCamp 2013 - Introduction to Data Journalism](https://www.slideshare.net/opendevcam/odc-barcamp-2013-introduction-to-data-journalism 'ODC BarCamp 2013 - Introduction to Data Journalism')**
 from **[Open Development Cambodia](http://www.slideshare.net/opendevcam)**
 
 Prezentacji praktycznej:
 
 <iframe style={{border: '1px solid #CCC', borderWidth: '1px', marginBottom: '5px', maxWidth: '100%'}} src="//www.slideshare.net/slideshow/embed_code/8795039" height={356} width={427} allowFullScreen frameBorder={0} marginWidth={0} marginHeight={0} scrolling="no" />
 
-**[Data Journalism](https://www.slideshare.net/m.lewis/data-journalism-8795039 "Data Journalism")**
+**[Data Journalism](https://www.slideshare.net/m.lewis/data-journalism-8795039 'Data Journalism')**
 from **[Mitzi Lewis](http://www.slideshare.net/m.lewis)**
 
 A teraz, skoro rozpoczęliśmy cytatem to i cytatem zakończmy:

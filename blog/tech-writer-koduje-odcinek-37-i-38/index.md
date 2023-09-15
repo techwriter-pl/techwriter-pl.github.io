@@ -1,13 +1,13 @@
 ---
-title: "Tech Writer koduje - odcinek #37 i #38"
+title: 'Tech Writer koduje - odcinek #37 i #38'
 authors: agnieszka
-date: "2022-02-03"
+date: '2022-02-03'
 tags:
-  - "dobre-praktyki"
-  - "warsztat"
-  - "dokumentacja"
-  - "podcast"
-coverImage: "tw_koduje_37_i_38.png"
+  - 'dobre-praktyki'
+  - 'warsztat'
+  - 'dokumentacja'
+  - 'podcast'
+coverImage: 'tw_koduje_37_i_38.png'
 ---
 
 Zapraszamy na skrót ostatnich odcinków podcastu

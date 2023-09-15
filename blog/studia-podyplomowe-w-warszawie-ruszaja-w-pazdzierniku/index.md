@@ -1,14 +1,14 @@
 ---
-title: "Studia podyplomowe w Warszawie ruszają w październiku!"
+title: 'Studia podyplomowe w Warszawie ruszają w październiku!'
 authors: mojk
-date: "2019-07-17"
+date: '2019-07-17'
 tags:
-  - "news"
-  - "z-kraju"
-  - "edukacja"
-  - "kariera"
-  - "studia"
-coverImage: "VistulaKomunikacjaTechniczna-1-e1563346376984.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'edukacja'
+  - 'kariera'
+  - 'studia'
+coverImage: 'VistulaKomunikacjaTechniczna-1-e1563346376984.jpg'
 ---
 
 Zainteresowanie jest spore, wśród wykładowców praktycy rozpoznawalni w branży,

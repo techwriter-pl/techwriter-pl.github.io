@@ -1,16 +1,16 @@
 ---
-title: "Konferencja Tłumaczy 2019 - zapraszamy!"
+title: 'Konferencja Tłumaczy 2019 - zapraszamy!'
 authors: agnieszka
-date: "2019-08-20"
+date: '2019-08-20'
 tags:
-  - "news"
-  - "z-kraju"
-  - "edukacja"
-  - "kariera"
-  - "konferencje"
-  - "spolecznosc"
-  - "tlumaczenia"
-coverImage: "Zrzut-ekranu-2019-08-18-o-23.00.37-e1566163065518.png"
+  - 'news'
+  - 'z-kraju'
+  - 'edukacja'
+  - 'kariera'
+  - 'konferencje'
+  - 'spolecznosc'
+  - 'tlumaczenia'
+coverImage: 'Zrzut-ekranu-2019-08-18-o-23.00.37-e1566163065518.png'
 ---
 
 Kolejny raz, z wielką przyjemnością, zapraszamy Was na rodzime wydarzenie, które

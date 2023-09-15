@@ -1,15 +1,15 @@
 ---
-title: "Zapraszamy na Write the Docs Prague 2020"
+title: 'Zapraszamy na Write the Docs Prague 2020'
 authors: agnieszka
-date: "2020-06-30"
+date: '2020-06-30'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "kariera"
-  - "konferencje"
-  - "praca"
-  - "spolecznosc"
-coverImage: "wtd_2020.png"
+  - 'news'
+  - 'ze-swiata'
+  - 'kariera'
+  - 'konferencje'
+  - 'praca'
+  - 'spolecznosc'
+coverImage: 'wtd_2020.png'
 ---
 
 Po raz kolejny, z ogromną radością, zapraszamy Was na konferencję Write the Docs

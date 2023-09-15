@@ -1,13 +1,13 @@
 ---
-title: "Evolution of TC 2018 już wkrótce"
+title: 'Evolution of TC 2018 już wkrótce'
 authors: agnieszka
-date: "2018-04-19"
+date: '2018-04-19'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "evolution.jpg"
+  - 'news'
+  - 'ze-swiata'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'evolution.jpg'
 ---
 
 Z wielką przyjemnością zapraszamy Was na jedno z najważniejszych wydarzeń w

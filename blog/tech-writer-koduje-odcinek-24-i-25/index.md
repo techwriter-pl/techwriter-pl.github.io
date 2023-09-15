@@ -1,17 +1,17 @@
 ---
-title: "Tech Writer koduje - odcinek 24 i 25"
+title: 'Tech Writer koduje - odcinek 24 i 25'
 authors: agnieszka
-date: "2021-02-03"
+date: '2021-02-03'
 tags:
-  - "dobre-praktyki"
-  - "narzedzia"
-  - "przyklady"
-  - "warsztat"
-  - "api"
-  - "dokumentacja"
-  - "podcast"
-  - "technologie"
-coverImage: "twk_24_25.png"
+  - 'dobre-praktyki'
+  - 'narzedzia'
+  - 'przyklady'
+  - 'warsztat'
+  - 'api'
+  - 'dokumentacja'
+  - 'podcast'
+  - 'technologie'
+coverImage: 'twk_24_25.png'
 ---
 
 Dziś kilka słów na temat dwóch ostatnich odcinków podcastu

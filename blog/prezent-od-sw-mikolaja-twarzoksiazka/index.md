@@ -1,13 +1,13 @@
 ---
-title: "Prezent od św. Mikołaja - twarzoksiążka"
+title: 'Prezent od św. Mikołaja - twarzoksiążka'
 authors: admin
-date: "2013-12-12"
+date: '2013-12-12'
 tags:
-  - "news"
-  - "z-przymruzeniem-oka"
-  - "humor"
-  - "spolecznosc"
-coverImage: "Facebook.jpg"
+  - 'news'
+  - 'z-przymruzeniem-oka'
+  - 'humor'
+  - 'spolecznosc'
+coverImage: 'Facebook.jpg'
 ---
 
 Dostaliście rózgę? Czy wręcz przeciwnie - byliście grzeczni, pracowici i

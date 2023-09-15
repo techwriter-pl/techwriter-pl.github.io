@@ -1,12 +1,12 @@
 ---
-title: "Konferencja reQuest - szczegóły"
+title: 'Konferencja reQuest - szczegóły'
 authors: admin
-date: "2019-05-29"
+date: '2019-05-29'
 tags:
-  - "news"
-  - "z-kraju"
-  - "konferencje"
-coverImage: "logo_request.png"
+  - 'news'
+  - 'z-kraju'
+  - 'konferencje'
+coverImage: 'logo_request.png'
 ---
 
 Organizatorzy reQuest 2019 opublikowali już agendę wydarzenia i umożliwili

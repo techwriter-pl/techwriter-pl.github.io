@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical writer x5"
+title: 'Oferta pracy: Technical writer x5'
 authors: admin
-date: "2016-11-29"
+date: '2016-11-29'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "EtteplanLogo.jpg"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'EtteplanLogo.jpg'
 ---
 
 Pięciu Technical Writerów poszukiwanych we Wrocławiu lub Krakowie!

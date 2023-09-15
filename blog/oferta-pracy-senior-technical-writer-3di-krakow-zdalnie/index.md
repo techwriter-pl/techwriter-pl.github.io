@@ -1,12 +1,12 @@
 ---
-title: "OFERTA PRACY: SENIOR TECHNICAL WRITER (3DI) – KRAKÓW / ZDALNIE"
+title: 'OFERTA PRACY: SENIOR TECHNICAL WRITER (3DI) – KRAKÓW / ZDALNIE'
 authors: admin
-date: "2022-07-23"
+date: '2022-07-23'
 tags:
-  - "oferty-pracy"
-  - "kariera"
-  - "praca"
-coverImage: "3di_logo.png"
+  - 'oferty-pracy'
+  - 'kariera'
+  - 'praca'
+coverImage: '3di_logo.png'
 ---
 
 Doświadczeni, samodzielni i zorientowani na klienta techwriterzy poszukiwani!

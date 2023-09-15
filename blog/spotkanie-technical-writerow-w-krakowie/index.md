@@ -1,11 +1,11 @@
 ---
-title: "Spotkanie Technical Writerów w Krakowie"
+title: 'Spotkanie Technical Writerów w Krakowie'
 authors: admin
-date: "2019-09-18"
+date: '2019-09-18'
 tags:
-  - "news"
-  - "z-kraju"
-coverImage: "ABB_TW_meetup.jpg"
+  - 'news'
+  - 'z-kraju'
+coverImage: 'ABB_TW_meetup.jpg'
 ---
 
 "Technical writers meetup – jak pisać lepszą dokumentację do oprogramowania?" -

@@ -1,16 +1,16 @@
 ---
-title: "Komunikacja techniczna - jak się studiuje?"
+title: 'Komunikacja techniczna - jak się studiuje?'
 authors: niedzwiedzka
-date: "2021-01-21"
+date: '2021-01-21'
 tags:
-  - "news"
-  - "z-kraju"
-  - "dokumentacja"
-  - "edukacja"
-  - "kariera"
-  - "praca"
-  - "studia"
-coverImage: "komunikacja_techniczna_studia_magda.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'dokumentacja'
+  - 'edukacja'
+  - 'kariera'
+  - 'praca'
+  - 'studia'
+coverImage: 'komunikacja_techniczna_studia_magda.jpg'
 ---
 
 Dziś wrażenia z pierwszej ręki dotyczące studiów podyplomowych z komunikacji

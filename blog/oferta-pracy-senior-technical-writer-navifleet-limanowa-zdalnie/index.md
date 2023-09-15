@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Senior Technical Writer (Navifleet) – Limanowa/zdalnie"
+title: 'Oferta pracy: Senior Technical Writer (Navifleet) – Limanowa/zdalnie'
 authors: admin
-date: "2021-05-27"
+date: '2021-05-27'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "Navifleet_2.jpg"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'Navifleet_2.jpg'
 ---
 
 Bardzo ciekawa oferta - tworzenie dokumentacji w języku polskim (i angielskim).

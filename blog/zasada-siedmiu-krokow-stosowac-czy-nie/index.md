@@ -1,12 +1,12 @@
 ---
-title: "Zasada siedmiu kroków - stosować czy nie?"
+title: 'Zasada siedmiu kroków - stosować czy nie?'
 authors: agnieszka
-date: "2015-07-28"
+date: '2015-07-28'
 tags:
-  - "dobre-praktyki"
-  - "warsztat"
-  - "procedury"
-coverImage: "7_1.jpg"
+  - 'dobre-praktyki'
+  - 'warsztat'
+  - 'procedury'
+coverImage: '7_1.jpg'
 ---
 
 W świecie technical writingu od dawna stosowana jest reguła siedmiu kroków,
@@ -15,7 +15,7 @@ godna polecenia.
 
 <!--truncate-->
 
-[Zasada](https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two "Liczba 7"),
+[Zasada](https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two 'Liczba 7'),
 o której mowa, wywodzi się z koncepcji psychologicznej, stworzonej przez
 George’a Millera w 1956 roku. Udowodnił on w swych badaniach nad zapamiętywaniem
 informacji, że człowiek jest zdolny do zapisania w pamięci siedmiu elementów,
@@ -59,9 +59,9 @@ wakacji. Dlatego, zamiast skupiać się na regule siedmiu kroków, skupmy się n
 poprawnym pisaniu treści 😉.
 
 Chcących pogłębić temat dobrego pisania procedur zapraszamy
-[tutaj](http://techwriter.pl/jak-pisac-dobre-instrukcje/ "Instrukcje"), a osoby
+[tutaj](http://techwriter.pl/jak-pisac-dobre-instrukcje/ 'Instrukcje'), a osoby
 ciekawe tego, jak działa nasz mózg w odniesieniu do pamięci kierujemy
-[tu](http://www.human-memory.net/types_short.html "Pamięć").
+[tu](http://www.human-memory.net/types_short.html 'Pamięć').
 
 **P.S. Jakie są Wasze doświadczenia z procedurami? Czy mieliście kiedyś
 styczność z zasadą siedmiu kroków? Jeśli tak, to jak sprawdziła się ona w

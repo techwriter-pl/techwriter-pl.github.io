@@ -1,16 +1,16 @@
 ---
-title: "Write the Docs Prague 2018 - zapraszamy"
+title: 'Write the Docs Prague 2018 - zapraszamy'
 authors: agnieszka
-date: "2018-06-26"
+date: '2018-06-26'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "edukacja"
-  - "kariera"
-  - "konferencje"
-  - "praca"
-  - "spolecznosc"
-coverImage: "wtd.png"
+  - 'news'
+  - 'ze-swiata'
+  - 'edukacja'
+  - 'kariera'
+  - 'konferencje'
+  - 'praca'
+  - 'spolecznosc'
+coverImage: 'wtd.png'
 ---
 
 Ponownie, z wielką przyjemnością, zapraszamy Was na konferencję Wrire the Docs

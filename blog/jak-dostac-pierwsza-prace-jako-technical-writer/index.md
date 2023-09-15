@@ -1,13 +1,13 @@
 ---
-title: "Jak dostać pierwszą pracę jako Technical Writer?"
+title: 'Jak dostać pierwszą pracę jako Technical Writer?'
 authors: mojk
-date: "2019-03-04"
+date: '2019-03-04'
 tags:
-  - "dobre-praktyki"
-  - "warsztat"
-  - "kariera"
-  - "praca"
-coverImage: "Job-search.png"
+  - 'dobre-praktyki'
+  - 'warsztat'
+  - 'kariera'
+  - 'praca'
+coverImage: 'Job-search.png'
 ---
 
 Jeżeli szukasz drogi dojścia do ścieżki kariery jako Technical Writer, to

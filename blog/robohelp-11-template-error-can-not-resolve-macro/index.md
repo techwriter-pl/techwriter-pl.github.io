@@ -1,12 +1,12 @@
 ---
 title: 'RoboHelp 11 - "Template error: can not resolve macro"'
 authors: mojk
-date: "2015-06-16"
+date: '2015-06-16'
 tags:
-  - "narzedzia"
-  - "warsztat"
-  - "aplikacje"
-coverImage: "error-261888_640-e1433941308851.jpg"
+  - 'narzedzia'
+  - 'warsztat'
+  - 'aplikacje'
+coverImage: 'error-261888_640-e1433941308851.jpg'
 ---
 
 Jeśli spotkaliście się kiedyś z takim błędem podczas generowania dokumentów przy

@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical writer (Astek) - praca zdalna!"
+title: 'Oferta pracy: Technical writer (Astek) - praca zdalna!'
 authors: admin
-date: "2020-01-06"
+date: '2020-01-06'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "ASTEK-Polska-logo-i-hasło.jpg"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'ASTEK-Polska-logo-i-hasło.jpg'
 ---
 
 Oferta pracy z domu, z widełkami płacowymi - prawdziwy rarytas na dobry początek

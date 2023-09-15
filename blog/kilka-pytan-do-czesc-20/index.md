@@ -1,14 +1,14 @@
 ---
-title: "Kilka pytań do - część 20"
+title: 'Kilka pytań do - część 20'
 authors: agnieszka
-date: "2020-11-06"
+date: '2020-11-06'
 tags:
-  - "warsztat"
-  - "wywiady"
-  - "dokumentacja"
-  - "spolecznosc"
-  - "wywiad"
-coverImage: "wywiad_20.png"
+  - 'warsztat'
+  - 'wywiady'
+  - 'dokumentacja'
+  - 'spolecznosc'
+  - 'wywiad'
+coverImage: 'wywiad_20.png'
 ---
 
 Po kolejnej dłuższej przerwie wracamy do cyklu *Kilka pytań do.* Dziś odcinek

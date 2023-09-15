@@ -1,13 +1,13 @@
 ---
-title: "MeetContent Kraków – czerwiec 2023 – relacja"
+title: 'MeetContent Kraków – czerwiec 2023 – relacja'
 authors: niewiarowski
-date: "2023-07-19"
+date: '2023-07-19'
 tags:
-  - "news"
-  - "z-kraju"
-  - "meetcontent"
-  - "spolecznosc"
-coverImage: "upload_0483.png"
+  - 'news'
+  - 'z-kraju'
+  - 'meetcontent'
+  - 'spolecznosc'
+coverImage: 'upload_0483.png'
 ---
 
 Serdecznie zapraszamy do zapoznania się z relacją z czerwcowego MeetContent w

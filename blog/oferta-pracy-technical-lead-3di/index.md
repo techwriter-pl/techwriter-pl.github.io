@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Lead"
+title: 'Oferta pracy: Technical Lead'
 authors: admin
-date: "2018-07-09"
+date: '2018-07-09'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "3di_logo.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: '3di_logo.png'
 ---
 
 Oferta dla ludzi kochających nowe technologie - naprawdę ciekawa! Z Krakowa.

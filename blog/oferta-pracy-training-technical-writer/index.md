@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Training Technical Writer"
+title: 'Oferta pracy: Training Technical Writer'
 authors: admin
-date: "2018-06-15"
+date: '2018-06-15'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "linkgroup_logo.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'linkgroup_logo.png'
 ---
 
 Tydzień kończymy ofertą z Katowic. Otrzymaliśmy ją od firmy rekrutacyjnej, która

@@ -1,15 +1,15 @@
 ---
-title: "Konferencja soap! - rozpoczynamy ostatnie odliczanie"
+title: 'Konferencja soap! - rozpoczynamy ostatnie odliczanie'
 authors: agnieszka
-date: "2017-05-25"
+date: '2017-05-25'
 tags:
-  - "news"
-  - "z-kraju"
-  - "edukacja"
-  - "kariera"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "soap.png"
+  - 'news'
+  - 'z-kraju'
+  - 'edukacja'
+  - 'kariera'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'soap.png'
 ---
 
 Do 5. edycji krakowskiej konferencji soap! został już niespełna miesiąc. Poniżej

@@ -1,13 +1,13 @@
 ---
-title: "Write the Docs Prague 2017 - relacja"
+title: 'Write the Docs Prague 2017 - relacja'
 authors: szablowska
-date: "2017-10-05"
+date: '2017-10-05'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "writethedocs2017-9.jpg"
+  - 'news'
+  - 'ze-swiata'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'writethedocs2017-9.jpg'
 ---
 
 W dniach 10-12 września po raz kolejny odbyła się w Pradze europejska edycja

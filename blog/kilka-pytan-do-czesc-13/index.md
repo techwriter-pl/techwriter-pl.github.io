@@ -1,13 +1,13 @@
 ---
-title: "Kilka pytań do - część 13"
+title: 'Kilka pytań do - część 13'
 authors: mojk
-date: "2017-07-11"
+date: '2017-07-11'
 tags:
-  - "warsztat"
-  - "wywiady"
-  - "spolecznosc"
-  - "wywiad"
-coverImage: "interview-905535_640.png"
+  - 'warsztat'
+  - 'wywiady'
+  - 'spolecznosc'
+  - 'wywiad'
+coverImage: 'interview-905535_640.png'
 ---
 
 Szczęśliwa trzynastka przypada w udziale Vrejowi z Kanady, którego poznaliśmy w

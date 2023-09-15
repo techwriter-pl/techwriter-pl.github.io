@@ -1,12 +1,12 @@
 ---
-title: "Dokumentacja - jak to się je?"
+title: 'Dokumentacja - jak to się je?'
 authors: agnieszka
-date: "2020-10-21"
+date: '2020-10-21'
 tags:
-  - "dobre-praktyki"
-  - "warsztat"
-  - "dokumentacja"
-coverImage: "dokumentacja_goscinny.png"
+  - 'dobre-praktyki'
+  - 'warsztat'
+  - 'dokumentacja'
+coverImage: 'dokumentacja_goscinny.png'
 ---
 
 Dziś temat bliski wszystkim Technical Writerom, a mianowicie **dokumentacja**.

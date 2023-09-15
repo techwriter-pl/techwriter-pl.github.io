@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer"
+title: 'Oferta pracy: Technical Writer'
 authors: admin
-date: "2014-04-26"
+date: '2014-04-26'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "dassault.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'dassault.png'
 ---
 
 Szukasz pracy jako techwriter? A może chcesz zatrudnić najlepszych techwriterów

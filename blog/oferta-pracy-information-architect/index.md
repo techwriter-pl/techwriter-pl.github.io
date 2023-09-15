@@ -1,13 +1,13 @@
 ---
-title: "[NIEAKTUALNE] Oferta pracy: Information Architect"
+title: '[NIEAKTUALNE] Oferta pracy: Information Architect'
 authors: admin
-date: "2017-08-02"
+date: '2017-08-02'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "MSI.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'MSI.png'
 ---
 
 Ta nazwa stanowiska brzmi dumnie! Architekt informacji wśród perełek krakowskiej

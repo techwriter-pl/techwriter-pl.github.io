@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer, Kraków"
+title: 'Oferta pracy: Technical Writer, Kraków'
 authors: pensjonatus
-date: "2017-09-29"
+date: '2017-09-29'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "3di_logo.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: '3di_logo.png'
 ---
 
 Pierwsze dni jesieni to dobry czas na zmiany. Ktoś myśli o nowej pracy? Tym

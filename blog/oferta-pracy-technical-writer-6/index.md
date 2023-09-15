@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer"
+title: 'Oferta pracy: Technical Writer'
 authors: mojk
-date: "2015-02-03"
+date: '2015-02-03'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "Smart4Aviation-e1422947686361.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'Smart4Aviation-e1422947686361.png'
 ---
 
 Jeśli marzyliście kiedyś o zostaniu pilotem to ta oferta jest dla Was. Co prawda

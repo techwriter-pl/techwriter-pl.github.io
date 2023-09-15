@@ -1,13 +1,13 @@
 ---
-title: "3 oferty pracy od 3di (Kraków)"
+title: '3 oferty pracy od 3di (Kraków)'
 authors: pensjonatus
-date: "2018-01-31"
+date: '2018-01-31'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "3di_logo.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: '3di_logo.png'
 ---
 
 3di zatrudni, do pracy w Krakowie, technical writera, junior technical writera i
@@ -23,11 +23,11 @@ się w tech commie dla osób bardziej technicznych.
 Ogłoszenia znajdują się na stronie 3di, kolejno:
 
 - Technical
-  Writer: [https://3di-info.com/technical-writer-krakow/](https://3di-info.com/technical-writer-krakow/ "https://3di-info.com/technical-writer-krakow/")
+  Writer: [https://3di-info.com/technical-writer-krakow/](https://3di-info.com/technical-writer-krakow/ 'https://3di-info.com/technical-writer-krakow/')
 - Junior Technical
-  Writer: [https://3di-info.com/junior-technical-writer-krakow/](https://3di-info.com/junior-technical-writer-krakow/ "https://3di-info.com/junior-technical-writer-krakow/")
+  Writer: [https://3di-info.com/junior-technical-writer-krakow/](https://3di-info.com/junior-technical-writer-krakow/ 'https://3di-info.com/junior-technical-writer-krakow/')
 - Technical
-  Lead: [https://3di-info.com/technical-lead-krakow/](https://3di-info.com/technical-lead-krakow/ "https://3di-info.com/technical-lead-krakow/")
+  Lead: [https://3di-info.com/technical-lead-krakow/](https://3di-info.com/technical-lead-krakow/ 'https://3di-info.com/technical-lead-krakow/')
 
 Szczegółowe informacje dotyczące tych ofert znajdziecie poniżej (kliknijcie
 obrazek, żeby go wyświetlić w pełnej rozdzielczości). Aplikować możecie pisząc

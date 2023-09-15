@@ -1,19 +1,19 @@
 ---
-title: "Prosty język – przykłady i narzędzia"
+title: 'Prosty język – przykłady i narzędzia'
 authors: toporek
-date: "2020-08-05"
+date: '2020-08-05'
 tags:
-  - "dobre-praktyki"
-  - "narzedzia"
-  - "przyklady"
-  - "dokumentacja"
-  - "dostepnosc"
-  - "edukacja"
-  - "jezyk"
-  - "narzedzia"
-  - "praktyki"
-  - "uzytecznosc"
-coverImage: "3753_1.jpg"
+  - 'dobre-praktyki'
+  - 'narzedzia'
+  - 'przyklady'
+  - 'dokumentacja'
+  - 'dostepnosc'
+  - 'edukacja'
+  - 'jezyk'
+  - 'narzedzia'
+  - 'praktyki'
+  - 'uzytecznosc'
+coverImage: '3753_1.jpg'
 ---
 
 Wszyscy jesteśmy zajęci i często nie chcemy tracić czasu na zrozumienie

@@ -1,14 +1,14 @@
 ---
-title: "Konferencja soap! wczoraj i dziś"
+title: 'Konferencja soap! wczoraj i dziś'
 authors: admin
-date: "2014-09-11"
+date: '2014-09-11'
 tags:
-  - "news"
-  - "z-kraju"
-  - "infografiki"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "soap.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'infografiki'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'soap.jpg'
 ---
 
 Organizatorzy zbliżającej się konferencji soap! (2-3 października) zebrali dla

@@ -1,13 +1,13 @@
 ---
-title: "Dokumentacja API - trendy"
+title: 'Dokumentacja API - trendy'
 authors: admin
-date: "2020-02-21"
+date: '2020-02-21'
 tags:
-  - "przyklady"
-  - "ze-swiata"
-  - "api"
-  - "narzedzia"
-coverImage: "API-e1582271331202.png"
+  - 'przyklady'
+  - 'ze-swiata'
+  - 'api'
+  - 'narzedzia'
+coverImage: 'API-e1582271331202.png'
 ---
 
 API nAPIera 😉 Czego się spodziewać i na czym wzorować tworząc tego typu

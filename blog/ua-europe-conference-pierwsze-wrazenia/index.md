@@ -1,12 +1,12 @@
 ---
-title: "UA Europe Conference - pierwsze wrażenia"
+title: 'UA Europe Conference - pierwsze wrażenia'
 authors: szablowska
-date: "2014-06-10"
+date: '2014-06-10'
 tags:
-  - "news"
-  - "z-kraju"
-  - "konferencje"
-coverImage: "UA_Conference.png"
+  - 'news'
+  - 'z-kraju'
+  - 'konferencje'
+coverImage: 'UA_Conference.png'
 ---
 
 Dziewiąta międzynarodowa konferencja

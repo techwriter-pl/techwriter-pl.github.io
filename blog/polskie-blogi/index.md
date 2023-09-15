@@ -1,14 +1,14 @@
 ---
-title: "Polskie blogi"
+title: 'Polskie blogi'
 authors: admin
-date: "2015-03-18"
+date: '2015-03-18'
 tags:
-  - "biblioteczka-techwritera"
-  - "warsztat"
-  - "jezyk"
-  - "spolecznosc"
-  - "tlumaczenia"
-coverImage: "blogi.jpg"
+  - 'biblioteczka-techwritera'
+  - 'warsztat'
+  - 'jezyk'
+  - 'spolecznosc'
+  - 'tlumaczenia'
+coverImage: 'blogi.jpg'
 ---
 
 Po historycznym sukcesie w konkursie na blog roku (13 głosów za które serdecznie

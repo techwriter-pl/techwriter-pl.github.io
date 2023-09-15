@@ -1,14 +1,14 @@
 ---
-title: "Poznajcie naszych partnerów"
+title: 'Poznajcie naszych partnerów'
 authors: agnieszka
-date: "2018-02-13"
+date: '2018-02-13'
 tags:
-  - "news"
-  - "z-kraju"
-  - "ze-swiata"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "shaking-hands-2499628_640.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'ze-swiata'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'shaking-hands-2499628_640.jpg'
 ---
 
 Ten rok zapowiada się dla nas pracowicie pod względem patronatów medialnych. Ale

@@ -1,16 +1,16 @@
 ---
-title: "Soap! MeetContent - czas na Wrocław"
+title: 'Soap! MeetContent - czas na Wrocław'
 authors: mojk
-date: "2017-02-22"
+date: '2017-02-22'
 tags:
-  - "news"
-  - "z-kraju"
-  - "edukacja"
-  - "kariera"
-  - "spolecznosc"
-  - "szkolenia"
-  - "treningi"
-coverImage: "meet_content_wroclaw.png"
+  - 'news'
+  - 'z-kraju'
+  - 'edukacja'
+  - 'kariera'
+  - 'spolecznosc'
+  - 'szkolenia'
+  - 'treningi'
+coverImage: 'meet_content_wroclaw.png'
 ---
 
 Społeczność [MeetContent](http://meetcontent.org/) skupiona wokół szeroko

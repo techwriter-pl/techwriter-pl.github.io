@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer (Infolet)"
+title: 'Oferta pracy: Technical Writer (Infolet)'
 authors: mojk
-date: "2018-02-26"
+date: '2018-02-26'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "infolet-logo.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'infolet-logo.png'
 ---
 
 Firma [Infolet](http://infolet.pl/), zajmująca się outsourcingiem IT, poszukuje

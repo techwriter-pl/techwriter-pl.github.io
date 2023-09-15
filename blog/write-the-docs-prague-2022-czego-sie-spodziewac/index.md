@@ -1,17 +1,17 @@
 ---
-title: "WRITE THE DOCS PRAGUE 2022 – CZEGO SIĘ SPODZIEWAĆ"
+title: 'WRITE THE DOCS PRAGUE 2022 – CZEGO SIĘ SPODZIEWAĆ'
 authors: agnieszka
-date: "2022-08-12"
+date: '2022-08-12'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "dokumentacja"
-  - "edukacja"
-  - "kariera"
-  - "konferencje"
-  - "praca"
-  - "spolecznosc"
-coverImage: "write_the_docs_prague_2022.png"
+  - 'news'
+  - 'ze-swiata'
+  - 'dokumentacja'
+  - 'edukacja'
+  - 'kariera'
+  - 'konferencje'
+  - 'praca'
+  - 'spolecznosc'
+coverImage: 'write_the_docs_prague_2022.png'
 ---
 
 Termin tegorocznej edycji konferencji Write the Docs Prague zbliża się

@@ -1,14 +1,14 @@
 ---
-title: "MeetContent Wrocław - marzec 2023"
+title: 'MeetContent Wrocław - marzec 2023'
 authors: agnieszka
-date: "2023-03-10"
+date: '2023-03-10'
 tags:
-  - "news"
-  - "z-kraju"
-  - "dokumentacja"
-  - "meetcontent"
-  - "spolecznosc"
-coverImage: "meecontent_marzec_2023-1.png"
+  - 'news'
+  - 'z-kraju'
+  - 'dokumentacja'
+  - 'meetcontent'
+  - 'spolecznosc'
+coverImage: 'meecontent_marzec_2023-1.png'
 ---
 
 Spieszymy donieść, że ekipa MeetContentWRO i wrocławscy contentowcy mają za sobą

@@ -1,14 +1,14 @@
 ---
-title: "MEETCONTENT WROCŁAW – KWIECIEŃ 2023"
+title: 'MEETCONTENT WROCŁAW – KWIECIEŃ 2023'
 authors: agnieszka
-date: "2023-04-06"
+date: '2023-04-06'
 tags:
-  - "news"
-  - "z-kraju"
-  - "dokumentacja"
-  - "meetcontent"
-  - "spolecznosc"
-coverImage: "meetcontent_kwiecien.png"
+  - 'news'
+  - 'z-kraju'
+  - 'dokumentacja'
+  - 'meetcontent'
+  - 'spolecznosc'
+coverImage: 'meetcontent_kwiecien.png'
 ---
 
 To już mała tradycja, że co kilka tygodni zapraszamy Was na kolejną edycję

@@ -1,16 +1,16 @@
 ---
-title: "Wszystko o DITA – Narzędzia (4)"
+title: 'Wszystko o DITA – Narzędzia (4)'
 authors: pensjonatus
-date: "2017-02-13"
+date: '2017-02-13'
 tags:
-  - "dobre-praktyki"
-  - "narzedzia"
-  - "warsztat"
-  - "dita"
-  - "technologie"
-  - "zarzadzanie-trescia"
-  - "zarzadzanie-wiedza"
-coverImage: "jak-zaczac.jpg"
+  - 'dobre-praktyki'
+  - 'narzedzia'
+  - 'warsztat'
+  - 'dita'
+  - 'technologie'
+  - 'zarzadzanie-trescia'
+  - 'zarzadzanie-wiedza'
+coverImage: 'jak-zaczac.jpg'
 ---
 
 W sieci można natknąć się na całkiem sporo materiałów dotyczących DITA, jednak

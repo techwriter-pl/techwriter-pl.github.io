@@ -1,13 +1,13 @@
 ---
-title: "Dołącz do grupy i twórz dokumentację na FB!"
+title: 'Dołącz do grupy i twórz dokumentację na FB!'
 authors: admin
-date: "2016-12-15"
+date: '2016-12-15'
 tags:
-  - "news"
-  - "z-kraju"
-  - "praca"
-  - "spolecznosc"
-coverImage: "Facebook.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'praca'
+  - 'spolecznosc'
+coverImage: 'Facebook.jpg'
 ---
 
 Grudzień to czas prezentów, także dla Technical Writerów. Oczywiście tylko tych

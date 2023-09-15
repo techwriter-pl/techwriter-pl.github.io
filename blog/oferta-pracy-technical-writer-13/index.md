@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer"
+title: 'Oferta pracy: Technical Writer'
 authors: mojk
-date: "2016-05-12"
+date: '2016-05-12'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "BNY_logo-02-e1461880870151.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'BNY_logo-02-e1461880870151.png'
 ---
 
 Po krótkim pobycie na wybrzeżu, przenosimy się do południowo-zachodniej Polski.

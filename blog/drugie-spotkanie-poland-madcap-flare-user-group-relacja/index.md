@@ -1,16 +1,16 @@
 ---
-title: "Drugie spotkanie Poland MadCap Flare User Group - relacja"
+title: 'Drugie spotkanie Poland MadCap Flare User Group - relacja'
 authors: mojk
-date: "2017-10-24"
+date: '2017-10-24'
 tags:
-  - "news"
-  - "narzedzia"
-  - "warsztat"
-  - "z-kraju"
-  - "aplikacje"
-  - "spolecznosc"
-  - "technologie"
-coverImage: "black-and-white-2591246_640.jpg"
+  - 'news'
+  - 'narzedzia'
+  - 'warsztat'
+  - 'z-kraju'
+  - 'aplikacje'
+  - 'spolecznosc'
+  - 'technologie'
+coverImage: 'black-and-white-2591246_640.jpg'
 ---
 
 Za nami drugie spotkanie Poland MadCap Flare User Group prowadzonej

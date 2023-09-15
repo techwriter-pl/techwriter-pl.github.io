@@ -1,13 +1,13 @@
 ---
-title: "Prosty język w tekstach naukowych i technicznych"
+title: 'Prosty język w tekstach naukowych i technicznych'
 authors: agnieszka
-date: "2020-07-21"
+date: '2020-07-21'
 tags:
-  - "dobre-praktyki"
-  - "warsztat"
-  - "jezyk"
-  - "praktyki"
-coverImage: "prosty_jezyk.png"
+  - 'dobre-praktyki'
+  - 'warsztat'
+  - 'jezyk'
+  - 'praktyki'
+coverImage: 'prosty_jezyk.png'
 ---
 
 Język to nasz główny środek komunikacji. Za jego pomocą przekazujemy wszystko,

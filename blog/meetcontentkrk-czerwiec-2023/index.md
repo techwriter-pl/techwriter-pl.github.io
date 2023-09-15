@@ -1,14 +1,14 @@
 ---
-title: "MeetContentKRK - czerwiec 2023"
+title: 'MeetContentKRK - czerwiec 2023'
 authors: agnieszka
-date: "2023-05-24"
+date: '2023-05-24'
 tags:
-  - "news"
-  - "z-kraju"
-  - "dokumentacja"
-  - "meetcontent"
-  - "spolecznosc"
-coverImage: "meetcontentkrk_czerwiec_2023.png"
+  - 'news'
+  - 'z-kraju'
+  - 'dokumentacja'
+  - 'meetcontent'
+  - 'spolecznosc'
+coverImage: 'meetcontentkrk_czerwiec_2023.png'
 ---
 
 Za nami pierwsza edycja MeetContent Kraków, która odbyła się po pandemii.

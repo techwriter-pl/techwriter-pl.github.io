@@ -1,19 +1,19 @@
 ---
-title: "UA Conference - relacja"
+title: 'UA Conference - relacja'
 authors: szablowska
-date: "2014-06-17"
+date: '2014-06-17'
 tags:
-  - "news"
-  - "z-kraju"
-  - "kariera"
-  - "konferencje"
-  - "lokalizacja"
-  - "urzadzenia-mobilne"
-coverImage: "UA_Conference.png"
+  - 'news'
+  - 'z-kraju'
+  - 'kariera'
+  - 'konferencje'
+  - 'lokalizacja'
+  - 'urzadzenia-mobilne'
+coverImage: 'UA_Conference.png'
 ---
 
 Dzieliliśmy się z Wami pierwszymi wrażeniami z
-[konferencji](http://techwriter.pl/ua-europe-conference-pierwsze-wrazenia/ "UA Europe Conference – pierwsze wrażenia"),
+[konferencji](http://techwriter.pl/ua-europe-conference-pierwsze-wrazenia/ 'UA Europe Conference – pierwsze wrażenia'),
 dziś kolejna porcja relacji z kilku wybranych prezentacji: **Who are we? A
 mirror of UA professionals (Joe Welinske)**, **Trends in user mobile assistance
 (Joe Welinske)**, oraz **Automating and managing multiple projects in a

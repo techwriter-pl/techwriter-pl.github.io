@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer - praca zdalna!"
+title: 'Oferta pracy: Technical Writer - praca zdalna!'
 authors: admin
-date: "2018-06-12"
+date: '2018-06-12'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "braintribe-logo.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'braintribe-logo.png'
 ---
 
 Wiedeńska firma [Braintribe](https://www.braintribe.com/) zajmująca się

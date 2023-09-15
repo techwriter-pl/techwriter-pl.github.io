@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer"
+title: 'Oferta pracy: Technical Writer'
 authors: mojk
-date: "2016-07-28"
+date: '2016-07-28'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "insys-logo-v2-RGB-infakt.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'insys-logo-v2-RGB-infakt.png'
 ---
 
 Lubicie wyzwania? Jeśli tak, to mamy dla Was idealną ofertę.

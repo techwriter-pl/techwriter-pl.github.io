@@ -1,14 +1,14 @@
 ---
-title: "Oferta (współ)pracy: Redaktor Techwriter.pl"
+title: 'Oferta (współ)pracy: Redaktor Techwriter.pl'
 authors: mojk
-date: "2019-02-05"
+date: '2019-02-05'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-  - "spolecznosc"
-coverImage: "Free-Unique-Join-Us-Vectors-3.jpg"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+  - 'spolecznosc'
+coverImage: 'Free-Unique-Join-Us-Vectors-3.jpg'
 ---
 
 W ostatnim czasie publikowaliśmy sporo ofert pracy, ale ta jest wyjątkowa.

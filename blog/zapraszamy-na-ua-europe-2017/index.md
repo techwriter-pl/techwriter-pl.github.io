@@ -1,14 +1,14 @@
 ---
-title: "Zapraszamy na UA Europe 2017"
+title: 'Zapraszamy na UA Europe 2017'
 authors: agnieszka
-date: "2017-03-28"
+date: '2017-03-28'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "edukacja"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "UA_Europe_2017_Logo_Square_150.png"
+  - 'news'
+  - 'ze-swiata'
+  - 'edukacja'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'UA_Europe_2017_Logo_Square_150.png'
 ---
 
 Miło nam poinformować, że rozpoczęła się rejestracja na konferencję UA Europe
@@ -71,11 +71,11 @@ W dniu poprzedzającym konferencję (07.06.2017) w godzinach 14 - 17 organizowan
 są warsztaty, na których możecie poszerzyć swoją wiedzę w jednym z dwóch
 obszarów:
 
-- [MadCap Flare: Taking control of your HTML5 output with styles, skins, and master pages](http://www.uaconference.eu/workshops.html#MadCapFlare "Shortcut to workshop description on same page")
+- [MadCap Flare: Taking control of your HTML5 output with styles, skins, and master pages](http://www.uaconference.eu/workshops.html#MadCapFlare 'Shortcut to workshop description on same page')
 
 lub
 
-- [DITA Skills Update](http://www.uaconference.eu/workshops.html#DITA "Shortcut to workshop description on same page").
+- [DITA Skills Update](http://www.uaconference.eu/workshops.html#DITA 'Shortcut to workshop description on same page').
 
 Przewidziany czas na każde warsztaty to trzy godziny, w ciągu których będzie
 chwila przerwy na przekąski.

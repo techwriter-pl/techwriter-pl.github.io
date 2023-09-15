@@ -1,13 +1,13 @@
 ---
-title: "Noty wydania"
+title: 'Noty wydania'
 authors: admin
-date: "2013-12-10"
+date: '2013-12-10'
 tags:
-  - "przyklady"
-  - "warsztat"
-  - "praca"
-  - "release-notes"
-coverImage: "ReleaseNotes.jpg"
+  - 'przyklady'
+  - 'warsztat'
+  - 'praca'
+  - 'release-notes'
+coverImage: 'ReleaseNotes.jpg'
 ---
 
 Czym zajmują się technical writerzy? Tworzą m.in. release notes. A czym zajmują

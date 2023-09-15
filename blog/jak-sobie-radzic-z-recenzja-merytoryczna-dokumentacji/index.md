@@ -1,15 +1,15 @@
 ---
-title: "Jak sobie radzić z recenzją merytoryczną dokumentacji?"
+title: 'Jak sobie radzić z recenzją merytoryczną dokumentacji?'
 authors: mojk
-date: "2014-11-25"
+date: '2014-11-25'
 tags:
-  - "dobre-praktyki"
-  - "warsztat"
-  - "edukacja"
-  - "instrukcje"
-  - "manuale"
-  - "pomoc-uzytkownika"
-coverImage: "checklist-154274_640-e1416907820616.png"
+  - 'dobre-praktyki'
+  - 'warsztat'
+  - 'edukacja'
+  - 'instrukcje'
+  - 'manuale'
+  - 'pomoc-uzytkownika'
+coverImage: 'checklist-154274_640-e1416907820616.png'
 ---
 
 Dokumentacja, która jest dokładna pod względem merytorycznym to sprawdzone

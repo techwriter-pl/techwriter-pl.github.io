@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Training Technical Writer (Eurofins)"
+title: 'Oferta pracy: Training Technical Writer (Eurofins)'
 authors: pensjonatus
-date: "2018-01-05"
+date: '2018-01-05'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "logo.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'logo.png'
 ---
 
 Firma [Eurofins](https://www.eurofins.pl/), zajmująca się bezpieczeństwem

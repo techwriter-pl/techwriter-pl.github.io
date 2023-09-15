@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer (Synerise)"
+title: 'Oferta pracy: Technical Writer (Synerise)'
 authors: admin
-date: "2018-11-13"
+date: '2018-11-13'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "synerise_logo_blue.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'synerise_logo_blue.png'
 ---
 
 Dziś mamy dla Was ofertę pracy z zaprzyjaźnionej firmy z Krakowa. Dobra okazja

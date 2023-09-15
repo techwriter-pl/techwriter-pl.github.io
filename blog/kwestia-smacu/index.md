@@ -1,13 +1,13 @@
 ---
-title: "Kwestia SMACu"
+title: 'Kwestia SMACu'
 authors: admin
-date: "2013-12-05"
+date: '2013-12-05'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "praca"
-  - "technologie"
-coverImage: "SMAC.png"
+  - 'news'
+  - 'ze-swiata'
+  - 'praca'
+  - 'technologie'
+coverImage: 'SMAC.png'
 ---
 
 Szef naszego szefa buja w obłokach jak zwykle, ale dodatkowo założył profil na

@@ -1,13 +1,13 @@
 ---
-title: "Jak pisać bardziej efektywnie - wskazówki"
+title: 'Jak pisać bardziej efektywnie - wskazówki'
 authors: agnieszka
-date: "2021-12-15"
+date: '2021-12-15'
 tags:
-  - "dobre-praktyki"
-  - "warsztat"
-  - "narzedzia"
-  - "praktyki"
-coverImage: "Konferencje-2019-10.png"
+  - 'dobre-praktyki'
+  - 'warsztat'
+  - 'narzedzia'
+  - 'praktyki'
+coverImage: 'Konferencje-2019-10.png'
 ---
 
 Każdy, kto tworzy teksty, wie, że przychodzi moment, w którym czas na wykonanie

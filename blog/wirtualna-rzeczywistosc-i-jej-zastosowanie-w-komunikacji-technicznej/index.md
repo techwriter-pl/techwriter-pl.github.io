@@ -1,14 +1,14 @@
 ---
-title: "Wirtualna rzeczywistość i jej zastosowanie w komunikacji technicznej"
+title: 'Wirtualna rzeczywistość i jej zastosowanie w komunikacji technicznej'
 authors: toporek
-date: "2022-05-04"
+date: '2022-05-04'
 tags:
-  - "news"
-  - "narzedzia"
-  - "dokumentacja"
-  - "narzedzia"
-  - "pomoc-uzytkownika"
-coverImage: "VR.jpg"
+  - 'news'
+  - 'narzedzia'
+  - 'dokumentacja'
+  - 'narzedzia'
+  - 'pomoc-uzytkownika'
+coverImage: 'VR.jpg'
 ---
 
 Tworzenie dokumentacji technicznej wiąże się z wieloma wyzwaniami wynikającymi

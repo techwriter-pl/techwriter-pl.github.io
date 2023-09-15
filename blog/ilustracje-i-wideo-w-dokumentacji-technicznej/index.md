@@ -1,17 +1,17 @@
 ---
-title: "Ilustracje i wideo w dokumentacji technicznej"
+title: 'Ilustracje i wideo w dokumentacji technicznej'
 authors: toporek
-date: "2021-07-22"
+date: '2021-07-22'
 tags:
-  - "news"
-  - "bez-kategorii"
-  - "dobre-praktyki"
-  - "przyklady"
-  - "warsztat"
-  - "dokumentacja"
-  - "manuale"
-  - "uzytecznosc"
-coverImage: "wideo-e1626374962289.jpg"
+  - 'news'
+  - 'bez-kategorii'
+  - 'dobre-praktyki'
+  - 'przyklady'
+  - 'warsztat'
+  - 'dokumentacja'
+  - 'manuale'
+  - 'uzytecznosc'
+coverImage: 'wideo-e1626374962289.jpg'
 ---
 
 Zastanawialiście się kiedyś dlaczego istnieje tak duży popyt na przeglądanie

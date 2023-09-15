@@ -1,13 +1,13 @@
 ---
-title: "KONKURS – WYGRAJ WEJŚCIÓWKĘ NA SOAP! 2022"
+title: 'KONKURS – WYGRAJ WEJŚCIÓWKĘ NA SOAP! 2022'
 authors: agnieszka
-date: "2022-05-06"
+date: '2022-05-06'
 tags:
-  - "news"
-  - "z-kraju"
-  - "konkurs"
-  - "konferencje"
-coverImage: "soap_konkurs.png"
+  - 'news'
+  - 'z-kraju'
+  - 'konkurs'
+  - 'konferencje'
+coverImage: 'soap_konkurs.png'
 ---
 
 Konferencja soap! 2022 zbliża się wielkimi krokami, więc najwyższy czas na

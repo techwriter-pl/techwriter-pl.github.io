@@ -1,16 +1,16 @@
 ---
-title: "Komunikacja techniczna - jak upłynął drugi semestr studiów?"
+title: 'Komunikacja techniczna - jak upłynął drugi semestr studiów?'
 authors: niedzwiedzka
-date: "2021-07-13"
+date: '2021-07-13'
 tags:
-  - "news"
-  - "z-kraju"
-  - "dokumentacja"
-  - "edukacja"
-  - "kariera"
-  - "praca"
-  - "studia"
-coverImage: "dyplom-vistula-anonymized_techwriter.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'dokumentacja'
+  - 'edukacja'
+  - 'kariera'
+  - 'praca'
+  - 'studia'
+coverImage: 'dyplom-vistula-anonymized_techwriter.jpg'
 ---
 
 Pod koniec maja pierwsi absolwenci studiów podyplomowych na kierunku Komunikacja

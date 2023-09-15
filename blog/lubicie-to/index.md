@@ -1,14 +1,14 @@
 ---
-title: "Lubicie to?"
+title: 'Lubicie to?'
 authors: admin
-date: "2013-09-27"
+date: '2013-09-27'
 tags:
-  - "news"
-  - "z-kraju"
-  - "ze-swiata"
-  - "humor"
-  - "praca"
-coverImage: "corobimy.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'ze-swiata'
+  - 'humor'
+  - 'praca'
+coverImage: 'corobimy.jpg'
 ---
 
 Na załączonym obrazku widać czym się zajmujemy. Ale co naprawdę robimy kiedy nie

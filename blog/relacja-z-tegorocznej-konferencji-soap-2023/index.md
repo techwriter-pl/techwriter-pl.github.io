@@ -1,13 +1,13 @@
 ---
-title: "Relacja z tegorocznej konferencji soap 2023!"
+title: 'Relacja z tegorocznej konferencji soap 2023!'
 authors: niewiarowski
-date: "2023-07-14"
+date: '2023-07-14'
 tags:
-  - "news"
-  - "z-kraju"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "upload_0522.png"
+  - 'news'
+  - 'z-kraju'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'upload_0522.png'
 ---
 
 Jak co roku, pierwszego czerwca obchodziliśmy Dzień Dziecka. A jako, że w każdym

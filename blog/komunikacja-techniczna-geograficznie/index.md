@@ -1,13 +1,13 @@
 ---
-title: "Komunikacja techniczna geograficznie"
+title: 'Komunikacja techniczna geograficznie'
 authors: mojk
-date: "2014-05-16"
+date: '2014-05-16'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "pins-on-map_Small.jpg"
+  - 'news'
+  - 'ze-swiata'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'pins-on-map_Small.jpg'
 ---
 
 W świecie komunikacji technicznej dzieje się całkiem sporo. Nie tak dawno

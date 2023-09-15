@@ -1,15 +1,15 @@
 ---
-title: "Na podbój IT - nowa konferencja już wkrótce"
+title: 'Na podbój IT - nowa konferencja już wkrótce'
 authors: agnieszka
-date: "2022-02-18"
+date: '2022-02-18'
 tags:
-  - "news"
-  - "z-kraju"
-  - "kariera"
-  - "konferencje"
-  - "praca"
-  - "spolecznosc"
-coverImage: "na_podboj_it.png"
+  - 'news'
+  - 'z-kraju'
+  - 'kariera'
+  - 'konferencje'
+  - 'praca'
+  - 'spolecznosc'
+coverImage: 'na_podboj_it.png'
 ---
 
 Już w maju odbędzie się pierwsza edycja konferencji dla osób zainteresowanych

@@ -1,13 +1,13 @@
 ---
-title: "Typografia - bądź artystą w swoim fachu"
+title: 'Typografia - bądź artystą w swoim fachu'
 authors: admin
-date: "2014-02-21"
+date: '2014-02-21'
 tags:
-  - "dobre-praktyki"
-  - "warsztat"
-  - "infografiki"
-  - "typografia"
-coverImage: "typografia.jpg"
+  - 'dobre-praktyki'
+  - 'warsztat'
+  - 'infografiki'
+  - 'typografia'
+coverImage: 'typografia.jpg'
 ---
 
 Czy wszystkie dokumenty tworzysz używając czcionki fontu Times New Roman? A może

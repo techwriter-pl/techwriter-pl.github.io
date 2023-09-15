@@ -1,15 +1,15 @@
 ---
-title: "Konferencje 2022 - drugie półrocze"
+title: 'Konferencje 2022 - drugie półrocze'
 authors: agnieszka
-date: "2022-05-24"
+date: '2022-05-24'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "kariera"
-  - "konferencje"
-  - "praca"
-  - "spolecznosc"
-coverImage: "Konferencje-2022_2.png"
+  - 'news'
+  - 'ze-swiata'
+  - 'kariera'
+  - 'konferencje'
+  - 'praca'
+  - 'spolecznosc'
+coverImage: 'Konferencje-2022_2.png'
 ---
 
 Zbliża się druga połowa roku, więc najwyższa pora, by przekazać Wam listę

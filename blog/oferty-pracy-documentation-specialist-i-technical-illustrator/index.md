@@ -1,13 +1,13 @@
 ---
-title: "Oferty pracy: Documentation Specialist i Technical Illustrator"
+title: 'Oferty pracy: Documentation Specialist i Technical Illustrator'
 authors: admin
-date: "2017-04-18"
+date: '2017-04-18'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "Etteplan_logo_RGB_150dpi.jpg"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'Etteplan_logo_RGB_150dpi.jpg'
 ---
 
 Witajcie po świątecznej przerwie! Jak brzuchy? Dziś dwie oferty pracy, od zająca

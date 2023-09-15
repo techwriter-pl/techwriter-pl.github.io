@@ -1,14 +1,14 @@
 ---
-title: "Pomoc użytkownika"
+title: 'Pomoc użytkownika'
 authors: admin
-date: "2013-10-31"
+date: '2013-10-31'
 tags:
-  - "przyklady"
-  - "warsztat"
-  - "on-line-help"
-  - "pomoc-uzytkownika"
-  - "praca"
-coverImage: "onlinehelp.jpg"
+  - 'przyklady'
+  - 'warsztat'
+  - 'on-line-help'
+  - 'pomoc-uzytkownika'
+  - 'praca'
+coverImage: 'onlinehelp.jpg'
 ---
 
 Czym zajmują się technical writerzy? Tworzą m.in. kontekstowe pomoce użytkownika

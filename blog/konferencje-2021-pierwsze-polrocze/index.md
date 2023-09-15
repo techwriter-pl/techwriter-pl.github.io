@@ -1,18 +1,18 @@
 ---
-title: "Konferencje 2021 - pierwsze półrocze"
+title: 'Konferencje 2021 - pierwsze półrocze'
 authors: agnieszka
-date: "2020-12-17"
+date: '2020-12-17'
 tags:
-  - "news"
-  - "z-kraju"
-  - "ze-swiata"
-  - "dokumentacja"
-  - "edukacja"
-  - "kariera"
-  - "konferencje"
-  - "praca"
-  - "spolecznosc"
-coverImage: "Konferencje-2021.png"
+  - 'news'
+  - 'z-kraju'
+  - 'ze-swiata'
+  - 'dokumentacja'
+  - 'edukacja'
+  - 'kariera'
+  - 'konferencje'
+  - 'praca'
+  - 'spolecznosc'
+coverImage: 'Konferencje-2021.png'
 ---
 
 Wielkimi krokami zbliża się 2021 rok, a wraz z nim nowe terminy branżowych

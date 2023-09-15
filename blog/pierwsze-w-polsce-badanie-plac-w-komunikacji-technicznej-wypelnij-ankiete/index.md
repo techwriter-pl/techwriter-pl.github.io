@@ -1,15 +1,16 @@
 ---
-title: "Pierwsze w Polsce badanie płac w komunikacji technicznej - wypełnij ankietę!"
+title:
+  'Pierwsze w Polsce badanie płac w komunikacji technicznej - wypełnij ankietę!'
 authors: pensjonatus
-date: "2017-03-01"
+date: '2017-03-01'
 tags:
-  - "badanie-plac"
-  - "praca"
-  - "ankieta"
-  - "kariera"
-  - "praca"
-  - "spolecznosc"
-coverImage: "wypelnij-e1488313966904.jpg"
+  - 'badanie-plac'
+  - 'praca'
+  - 'ankieta'
+  - 'kariera'
+  - 'praca'
+  - 'spolecznosc'
+coverImage: 'wypelnij-e1488313966904.jpg'
 ---
 
 Pisaliśmy już o tym ile zarabiają Technical Writerzy

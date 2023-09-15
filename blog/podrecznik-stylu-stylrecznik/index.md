@@ -1,16 +1,16 @@
 ---
-title: "Podręcznik stylu - stylręcznik?"
+title: 'Podręcznik stylu - stylręcznik?'
 authors: admin
-date: "2014-05-22"
+date: '2014-05-22'
 tags:
-  - "dobre-praktyki"
-  - "przyklady"
-  - "warsztat"
-  - "instrukcje"
-  - "jezyk"
-  - "manuale"
-  - "praca"
-coverImage: "StyleGuide.png"
+  - 'dobre-praktyki'
+  - 'przyklady'
+  - 'warsztat'
+  - 'instrukcje'
+  - 'jezyk'
+  - 'manuale'
+  - 'praca'
+coverImage: 'StyleGuide.png'
 ---
 
 A może po prostu Style Guide lub Style Manual? Dowiedz się co to jest, sprawdź

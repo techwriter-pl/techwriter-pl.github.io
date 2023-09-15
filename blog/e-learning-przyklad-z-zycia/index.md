@@ -1,16 +1,16 @@
 ---
-title: "E-learning - przykład z życia"
+title: 'E-learning - przykład z życia'
 authors: admin
-date: "2020-03-31"
+date: '2020-03-31'
 tags:
-  - "dobre-praktyki"
-  - "przyklady"
-  - "warsztat"
-  - "e-learning"
-  - "studia"
-  - "szkolenia"
-  - "treningi"
-coverImage: "elearning.jpg"
+  - 'dobre-praktyki'
+  - 'przyklady'
+  - 'warsztat'
+  - 'e-learning'
+  - 'studia'
+  - 'szkolenia'
+  - 'treningi'
+coverImage: 'elearning.jpg'
 ---
 
 Zbyt rzadko wspominamy o szkoleniach, będących ważną odmianą komunikacji

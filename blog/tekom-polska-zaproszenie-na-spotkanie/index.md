@@ -1,13 +1,13 @@
 ---
-title: "tekom Polska - zaproszenie na spotkanie"
+title: 'tekom Polska - zaproszenie na spotkanie'
 authors: mojk
-date: "2015-11-20"
+date: '2015-11-20'
 tags:
-  - "news"
-  - "z-kraju"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "tekom_polska-e1447880213134.png"
+  - 'news'
+  - 'z-kraju'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'tekom_polska-e1447880213134.png'
 ---
 
 W imieniu grupy **tekom Polska** chcielibyśmy Was zaprosić na spotkanie

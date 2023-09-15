@@ -1,13 +1,13 @@
 ---
-title: "OFERTA PRACY: TECHNICAL WRITER (PARASOFT) – PRACA ZDALNA"
+title: 'OFERTA PRACY: TECHNICAL WRITER (PARASOFT) – PRACA ZDALNA'
 authors: agnieszka
-date: "2021-11-08"
+date: '2021-11-08'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "parasoft.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'parasoft.png'
 ---
 
 Amerykańska firma Parasoft poszukuje Technical Writera do swojego polskiego

@@ -1,13 +1,13 @@
 ---
-title: "Soap! Just Wants to Have Fun"
+title: 'Soap! Just Wants to Have Fun'
 authors: mojk
-date: "2014-12-09"
+date: '2014-12-09'
 tags:
-  - "news"
-  - "z-kraju"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "soap.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'soap.jpg'
 ---
 
 To make the soap! story complete, we're giving you translation of our general

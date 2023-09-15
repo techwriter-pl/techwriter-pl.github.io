@@ -1,13 +1,13 @@
 ---
-title: "Ile zarabia Technical Writer - odsłona trzecia"
+title: 'Ile zarabia Technical Writer - odsłona trzecia'
 authors: mojk
-date: "2016-12-21"
+date: '2016-12-21'
 tags:
-  - "news"
-  - "z-kraju"
-  - "kariera"
-  - "praca"
-coverImage: "money-256282_640-e1481055653138.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'kariera'
+  - 'praca'
+coverImage: 'money-256282_640-e1481055653138.jpg'
 ---
 
 Dzisiaj po raz kolejny postaramy się Wam podpowiedzieć skąd możecie czerpać

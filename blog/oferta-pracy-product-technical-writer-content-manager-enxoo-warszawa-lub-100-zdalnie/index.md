@@ -1,15 +1,15 @@
 ---
 title:
-  "Oferta pracy: Product Technical Writer/Content Manager (Enxoo) - Warszawa lub
-  100% zdalnie"
+  'Oferta pracy: Product Technical Writer/Content Manager (Enxoo) - Warszawa lub
+  100% zdalnie'
 authors: agnieszka
-date: "2022-04-21"
+date: '2022-04-21'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "enxoo.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'enxoo.png'
 ---
 
 Mamy dla Was kolejną ofertę pracy, tym razem na stanowisko Product Technical

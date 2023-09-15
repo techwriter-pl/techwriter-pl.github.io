@@ -1,15 +1,15 @@
 ---
-title: "Wyniki badania płac w komunikacji technicznej 2018"
+title: 'Wyniki badania płac w komunikacji technicznej 2018'
 authors: pensjonatus
-date: "2018-04-26"
+date: '2018-04-26'
 tags:
-  - "badanie-plac"
-  - "praca"
-  - "ankieta"
-  - "kariera"
-  - "praca"
-  - "spolecznosc"
-coverImage: "Ankieta-2018-SPLASH.png"
+  - 'badanie-plac'
+  - 'praca'
+  - 'ankieta'
+  - 'kariera'
+  - 'praca'
+  - 'spolecznosc'
+coverImage: 'Ankieta-2018-SPLASH.png'
 ---
 
 Ile zarabiają specjaliści w branży komunikacji technicznej? Jak różnią się

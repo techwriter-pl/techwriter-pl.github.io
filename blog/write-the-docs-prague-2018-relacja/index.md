@@ -1,13 +1,13 @@
 ---
-title: "Write the Docs Prague 2018 - relacja"
+title: 'Write the Docs Prague 2018 - relacja'
 authors: mojk
-date: "2019-04-30"
+date: '2019-04-30'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "43895499144_9637dae8e3_k.jpg"
+  - 'news'
+  - 'ze-swiata'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: '43895499144_9637dae8e3_k.jpg'
 ---
 
 Redakcja Techwriter.pl miała przyjemność uczestniczyć w zeszłorocznej,

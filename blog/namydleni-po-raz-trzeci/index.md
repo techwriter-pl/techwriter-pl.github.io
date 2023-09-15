@@ -1,13 +1,13 @@
 ---
-title: "Namydleni po raz trzeci"
+title: 'Namydleni po raz trzeci'
 authors: mojk
-date: "2015-10-14"
+date: '2015-10-14'
 tags:
-  - "news"
-  - "z-kraju"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "koszyk_soap.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'koszyk_soap.jpg'
 ---
 
 Za nami trzecia edycja konferencji [soap!](http://soapconf.com/). Jak było w tym

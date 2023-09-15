@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: technical writer (Atlassian) - Gdańsk"
+title: 'Oferta pracy: technical writer (Atlassian) - Gdańsk'
 authors: agnieszka
-date: "2021-11-22"
+date: '2021-11-22'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "atlassian.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'atlassian.png'
 ---
 
 Dziś kolejna ciekawa oferta pracy dla Technical Writera! Szczegóły poniżej.

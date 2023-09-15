@@ -1,13 +1,13 @@
 ---
-title: "Technical Communication Conference 2020"
+title: 'Technical Communication Conference 2020'
 authors: agnieszka
-date: "2020-10-27"
+date: '2020-10-27'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "tech_com_conf.png"
+  - 'news'
+  - 'ze-swiata'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'tech_com_conf.png'
 ---
 
 Trafiliśmy ostatnio na ciekawie zapowiadające się wydarzenie online. Szczegóły

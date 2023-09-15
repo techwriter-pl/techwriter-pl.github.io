@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: UX Copywriter (Brainly)"
+title: 'Oferta pracy: UX Copywriter (Brainly)'
 authors: mojk
-date: "2019-02-01"
+date: '2019-02-01'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "PL-nauczyciele-4-400x225.jpg"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'PL-nauczyciele-4-400x225.jpg'
 ---
 
 Dzisiaj mamy dla Was nietuzinkową ofertę.

@@ -1,16 +1,16 @@
 ---
-title: "Darmowe narzędzia do sprawdzania tekstu"
+title: 'Darmowe narzędzia do sprawdzania tekstu'
 authors: mojk
-date: "2017-09-19"
+date: '2017-09-19'
 tags:
-  - "narzedzia"
-  - "warsztat"
-  - "instrukcje"
-  - "jezyk"
-  - "manuale"
-  - "on-line-help"
-  - "pomoc-uzytkownika"
-coverImage: "man-29749_640.png"
+  - 'narzedzia'
+  - 'warsztat'
+  - 'instrukcje'
+  - 'jezyk'
+  - 'manuale'
+  - 'on-line-help'
+  - 'pomoc-uzytkownika'
+coverImage: 'man-29749_640.png'
 ---
 
 Z nieukrywaną przyjemnością publikujemy kolejny gościnny wpis od sympatyka

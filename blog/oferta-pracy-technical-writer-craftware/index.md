@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer (Craftware)"
+title: 'Oferta pracy: Technical Writer (Craftware)'
 authors: mojk
-date: "2018-02-04"
+date: '2018-02-04'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "logo_z_claim.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'logo_z_claim.png'
 ---
 
 Nie zwalniamy tempa. Tym razem oferta ze stolicy.

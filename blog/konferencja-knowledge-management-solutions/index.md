@@ -1,14 +1,14 @@
 ---
-title: "Konferencja Knowledge Management Solutions"
+title: 'Konferencja Knowledge Management Solutions'
 authors: admin
-date: "2014-10-03"
+date: '2014-10-03'
 tags:
-  - "news"
-  - "z-kraju"
-  - "knowledge-base"
-  - "konferencje"
-  - "zarzadzanie-wiedza"
-coverImage: "KonferencjaKnowledgeManagementSolutions.png"
+  - 'news'
+  - 'z-kraju'
+  - 'knowledge-base'
+  - 'konferencje'
+  - 'zarzadzanie-wiedza'
+coverImage: 'KonferencjaKnowledgeManagementSolutions.png'
 ---
 
 Jeszcze nie zakończyła się konferencja [soap!](http://soapconf.com/), a tu już

@@ -1,13 +1,13 @@
 ---
-title: "Umiesz pisać?"
+title: 'Umiesz pisać?'
 authors: mojk
-date: "2014-12-19"
+date: '2014-12-19'
 tags:
-  - "dobre-praktyki"
-  - "warsztat"
-  - "edukacja"
-  - "praca"
-coverImage: "superman-typing-300x225.jpg"
+  - 'dobre-praktyki'
+  - 'warsztat'
+  - 'edukacja'
+  - 'praca'
+coverImage: 'superman-typing-300x225.jpg'
 ---
 
 Prawdopodobnie większość z Was odpowiedziała na to pytanie twierdząco. Umieć

@@ -1,15 +1,15 @@
 ---
-title: "Konferencje 2020 - drugie półrocze"
+title: 'Konferencje 2020 - drugie półrocze'
 authors: agnieszka
-date: "2020-08-18"
+date: '2020-08-18'
 tags:
-  - "news"
-  - "z-kraju"
-  - "ze-swiata"
-  - "kariera"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "Konferencje-2020-2.png"
+  - 'news'
+  - 'z-kraju'
+  - 'ze-swiata'
+  - 'kariera'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'Konferencje-2020-2.png'
 ---
 
 Wakacje mijają, a to oznacza, że nadszedł czas na nową porcję informacji na

@@ -1,13 +1,13 @@
 ---
-title: "[NIEAKTUALNE] Oferta pracy: Junior Technical Writer"
+title: '[NIEAKTUALNE] Oferta pracy: Junior Technical Writer'
 authors: pensjonatus
-date: "2016-10-17"
+date: '2016-10-17'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "3di_logo.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: '3di_logo.png'
 ---
 
 Tym razem oferta w Krakowie, dla osób rozpoczynających przygodę z pisaniem

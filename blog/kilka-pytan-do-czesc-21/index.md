@@ -1,14 +1,14 @@
 ---
-title: "Kilka pytań do - część 21"
+title: 'Kilka pytań do - część 21'
 authors: niewiarowski
-date: "2020-12-09"
+date: '2020-12-09'
 tags:
-  - "warsztat"
-  - "wywiady"
-  - "dokumentacja"
-  - "spolecznosc"
-  - "wywiad"
-coverImage: "Wywiad_21.png"
+  - 'warsztat'
+  - 'wywiady'
+  - 'dokumentacja'
+  - 'spolecznosc'
+  - 'wywiad'
+coverImage: 'Wywiad_21.png'
 ---
 
 Pora na kolejny, już 21 odcinek, cyklu _Kilka pytań do_.

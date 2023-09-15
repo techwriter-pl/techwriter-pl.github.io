@@ -1,14 +1,14 @@
 ---
-title: "Write the Docs Prague 2019 już wkrótce"
+title: 'Write the Docs Prague 2019 już wkrótce'
 authors: agnieszka
-date: "2019-08-14"
+date: '2019-08-14'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "kariera"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "Zrzut-ekranu-2019-08-12-o-22.05.47.png"
+  - 'news'
+  - 'ze-swiata'
+  - 'kariera'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'Zrzut-ekranu-2019-08-12-o-22.05.47.png'
 ---
 
 Po raz kolejny, z ogromną radością, zapraszamy Was na konferencję Wrire the Docs

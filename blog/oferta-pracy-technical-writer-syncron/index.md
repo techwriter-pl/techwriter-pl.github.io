@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer (Syncron)"
+title: 'Oferta pracy: Technical Writer (Syncron)'
 authors: pensjonatus
-date: "2018-01-29"
+date: '2018-01-29'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "syncron-logo.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'syncron-logo.png'
 ---
 
 [Syncron](https://www.syncron.com/) szuka technical writerów do pracy w

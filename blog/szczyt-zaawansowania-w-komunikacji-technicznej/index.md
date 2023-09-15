@@ -1,13 +1,13 @@
 ---
-title: "Szczyt zaawansowania w komunikacji technicznej"
+title: 'Szczyt zaawansowania w komunikacji technicznej'
 authors: admin
-date: "2014-12-12"
+date: '2014-12-12'
 tags:
-  - "news"
-  - "z-kraju"
-  - "praca"
-  - "webinarium"
-coverImage: "virtual-summit-acp2014.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'praca'
+  - 'webinarium'
+coverImage: 'virtual-summit-acp2014.jpg'
 ---
 
 ...czyli Advanced Communication Practices Summit 😉. To cykl ciekawych

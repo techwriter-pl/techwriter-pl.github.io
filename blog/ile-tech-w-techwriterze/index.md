@@ -1,13 +1,13 @@
 ---
 title: 'Ile "tech" w techwriterze?'
 authors: admin
-date: "2020-01-31"
+date: '2020-01-31'
 tags:
-  - "news"
-  - "z-kraju"
-  - "kariera"
-  - "start"
-coverImage: "techwriter-tech.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'kariera'
+  - 'start'
+coverImage: 'techwriter-tech.jpg'
 ---
 
 Pytacie nas często o to, jak duża znajomość technologii jest potrzebna aby

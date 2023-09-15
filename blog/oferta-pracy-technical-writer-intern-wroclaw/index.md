@@ -1,14 +1,14 @@
 ---
-title: "Oferta pracy: Technical Writer Intern (Wrocław)"
+title: 'Oferta pracy: Technical Writer Intern (Wrocław)'
 authors: admin
-date: "2019-04-28"
+date: '2019-04-28'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-  - "praktyki"
-coverImage: "unit4-logo-250.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+  - 'praktyki'
+coverImage: 'unit4-logo-250.png'
 ---
 
 Nie pierwszy już raz firma Unit4 daje Wam możliwość wejścia do zawodu. Warto

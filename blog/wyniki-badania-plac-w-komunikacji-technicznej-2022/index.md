@@ -1,15 +1,15 @@
 ---
-title: "WYNIKI BADANIA PŁAC W KOMUNIKACJI TECHNICZNEJ 2022"
+title: 'WYNIKI BADANIA PŁAC W KOMUNIKACJI TECHNICZNEJ 2022'
 authors: agnieszka
-date: "2022-09-19"
+date: '2022-09-19'
 tags:
-  - "badanie-plac"
-  - "praca"
-  - "ankieta"
-  - "kariera"
-  - "praca"
-  - "spolecznosc"
-coverImage: "Badanie_plac_2022_wyniki.png"
+  - 'badanie-plac'
+  - 'praca'
+  - 'ankieta'
+  - 'kariera'
+  - 'praca'
+  - 'spolecznosc'
+coverImage: 'Badanie_plac_2022_wyniki.png'
 ---
 
 Najwyższa pora, by opublikować wyniki corocznej ankiety dotyczącej płac w

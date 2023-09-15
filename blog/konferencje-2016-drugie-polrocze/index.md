@@ -1,13 +1,13 @@
 ---
-title: "Konferencje 2016 - drugie półrocze"
+title: 'Konferencje 2016 - drugie półrocze'
 authors: agnieszka
-date: "2016-05-09"
+date: '2016-05-09'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "luggage-1032998_640-2.jpg"
+  - 'news'
+  - 'ze-swiata'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'luggage-1032998_640-2.jpg'
 ---
 
 Wkrótce kolejne półrocze 2016 roku zatem nadszedł czas, by przedstawić Wam

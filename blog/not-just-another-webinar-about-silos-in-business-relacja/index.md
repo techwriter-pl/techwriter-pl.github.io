@@ -1,25 +1,25 @@
 ---
-title: "Not just another webinar about silos in business - relacja"
+title: 'Not just another webinar about silos in business - relacja'
 authors: szablowska
-date: "2014-02-04"
+date: '2014-02-04'
 tags:
-  - "news"
-  - "z-kraju"
-  - "ze-swiata"
-  - "praca"
-  - "spolecznosc"
-  - "webinarium"
-coverImage: "silos.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'ze-swiata'
+  - 'praca'
+  - 'spolecznosc'
+  - 'webinarium'
+coverImage: 'silos.jpg'
 ---
 
 Z inicjatywy organizatorów konferencji soap!, o której pisaliśmy
-[tutaj](http://techwriter.pl/soap-technical-communication-conference-relacja/ "soap! technical communication conference – relacja"), 30
+[tutaj](http://techwriter.pl/soap-technical-communication-conference-relacja/ 'soap! technical communication conference – relacja'), 30
 stycznia odbyło się webinarium poświęcone silosom w biznesie. Webinarium
 prowadził bardzo dobrze przyjęty na
-konferencji [Noz Urbina](http://urbinaconsulting.com/ "Noz Urbina") -
+konferencji [Noz Urbina](http://urbinaconsulting.com/ 'Noz Urbina') -
 konsultant, trener, specjalista od procesów zarządzania treścią i współautor
 książki
-[Content Strategy: Connecting the dots between business, brand, and benefits](http://thecontentstrategybook.com/ "Content Strategy: Connecting the dots between business, brand, and benefits").Tak
+[Content Strategy: Connecting the dots between business, brand, and benefits](http://thecontentstrategybook.com/ 'Content Strategy: Connecting the dots between business, brand, and benefits').Tak
 jak sugeruje to tytuł webinarium, Noz Urbina przedstawił świeże podejście do
 tematu koncentrowania się tylko na własnych obszarach kompetencji, ilustrując je
 ciekawymi przykładami i podsumowując radami, które rzeczywiście można wdrożyć.
@@ -69,7 +69,7 @@ na przeszkodzie.
 Kolejnym przykładem jest **internet przedmiotów**, czyli możliwość
 identyfikowania rzeczy w sieci w celu wymiany danych i informacji. I tutaj
 bardzo ciekawy wynalazek:
-[wieszaki](http://mashable.com/2012/05/08/hangers-update-facebook-likes/ "wieszaki")
+[wieszaki](http://mashable.com/2012/05/08/hangers-update-facebook-likes/ 'wieszaki')
 w sklepie, które wyświetlają ilość polubień na facebooku wiszących na nich
 ciuchów 😊 To jest dopiero wymiana informacji!
 

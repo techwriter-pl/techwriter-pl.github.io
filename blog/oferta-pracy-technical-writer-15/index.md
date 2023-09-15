@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer"
+title: 'Oferta pracy: Technical Writer'
 authors: mojk
-date: "2016-08-25"
+date: '2016-08-25'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "unit4-logo-250.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'unit4-logo-250.png'
 ---
 
 W tym roku, sytuacja na rynku pracy zdecydowanie sprzyja Technical Writerom, i

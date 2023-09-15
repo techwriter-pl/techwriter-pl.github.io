@@ -1,14 +1,14 @@
 ---
-title: "Tech Writer w opałach. Gdzie szukać pomocy?"
+title: 'Tech Writer w opałach. Gdzie szukać pomocy?'
 authors: mojk
-date: "2017-12-21"
+date: '2017-12-21'
 tags:
-  - "dobre-praktyki"
-  - "narzedzia"
-  - "warsztat"
-  - "aplikacje"
-  - "spolecznosc"
-coverImage: "hustle-and-bustle-1738072_960_720.jpg"
+  - 'dobre-praktyki'
+  - 'narzedzia'
+  - 'warsztat'
+  - 'aplikacje'
+  - 'spolecznosc'
+coverImage: 'hustle-and-bustle-1738072_960_720.jpg'
 ---
 
 Zazwyczaj to Tech Writerzy pomagają innym, jednak zdarzają się sytuacje, w

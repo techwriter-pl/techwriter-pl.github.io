@@ -1,14 +1,14 @@
 ---
-title: "Tworzenie dokumentacji technicznej w środowisku Agile"
+title: 'Tworzenie dokumentacji technicznej w środowisku Agile'
 authors: admin
-date: "2013-10-21"
+date: '2013-10-21'
 tags:
-  - "dobre-praktyki"
-  - "warsztat"
-  - "agile"
-  - "lokalizacja"
-  - "praca"
-coverImage: "agile.jpg"
+  - 'dobre-praktyki'
+  - 'warsztat'
+  - 'agile'
+  - 'lokalizacja'
+  - 'praca'
+coverImage: 'agile.jpg'
 ---
 
 Jeżeli pracujecie w firmie IT, to zapewne słyszeliście o Agile'u... a może nawet

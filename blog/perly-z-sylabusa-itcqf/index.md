@@ -1,17 +1,17 @@
 ---
-title: "Perły z sylabusa ITCQF - najciekawsze fragmenty"
+title: 'Perły z sylabusa ITCQF - najciekawsze fragmenty'
 authors: niewiarowski
-date: "2021-09-21"
+date: '2021-09-21'
 tags:
-  - "biblioteczka-techwritera"
-  - "dobre-praktyki"
-  - "warsztat"
-  - "dokumentacja"
-  - "edukacja"
-  - "kariera"
-  - "literatura"
-  - "materialy-szkoleniowe"
-coverImage: "2021-09-10_00-16-46-1.png"
+  - 'biblioteczka-techwritera'
+  - 'dobre-praktyki'
+  - 'warsztat'
+  - 'dokumentacja'
+  - 'edukacja'
+  - 'kariera'
+  - 'literatura'
+  - 'materialy-szkoleniowe'
+coverImage: '2021-09-10_00-16-46-1.png'
 ---
 
 W dzisiejszym artykule znajdziecie kilka perełek pochodzących z

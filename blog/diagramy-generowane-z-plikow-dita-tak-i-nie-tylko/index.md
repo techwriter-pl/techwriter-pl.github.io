@@ -1,17 +1,17 @@
 ---
-title: "Diagramy generowane z plików DITA? Tak! I nie tylko..."
+title: 'Diagramy generowane z plików DITA? Tak! I nie tylko...'
 authors: pensjonatus
-date: "2017-09-27"
+date: '2017-09-27'
 tags:
-  - "dobre-praktyki"
-  - "narzedzia"
-  - "przyklady"
-  - "warsztat"
-  - "aplikacje"
-  - "automatyzacja"
-  - "dita"
-  - "technologie"
-coverImage: "daniel-mccullough-348488.jpg"
+  - 'dobre-praktyki'
+  - 'narzedzia'
+  - 'przyklady'
+  - 'warsztat'
+  - 'aplikacje'
+  - 'automatyzacja'
+  - 'dita'
+  - 'technologie'
+coverImage: 'daniel-mccullough-348488.jpg'
 ---
 
 W DITA można pisać treść z multimediami a potem generować z niej HMTLe, PDFy i

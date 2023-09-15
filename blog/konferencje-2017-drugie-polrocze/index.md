@@ -1,18 +1,18 @@
 ---
-title: "Konferencje 2017 - drugie półrocze"
+title: 'Konferencje 2017 - drugie półrocze'
 authors: agnieszka
-date: "2017-05-30"
+date: '2017-05-30'
 tags:
-  - "news"
-  - "z-kraju"
-  - "ze-swiata"
-  - "dita"
-  - "e-learning"
-  - "edukacja"
-  - "kariera"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "audience-1677028_640-e1495633374574.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'ze-swiata'
+  - 'dita'
+  - 'e-learning'
+  - 'edukacja'
+  - 'kariera'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'audience-1677028_640-e1495633374574.jpg'
 ---
 
 Zbliża się drugie półrocze 2017 roku zatem nadszedł czas, by przedstawić Wam

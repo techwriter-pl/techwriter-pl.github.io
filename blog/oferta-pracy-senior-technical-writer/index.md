@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Senior Technical Writer"
+title: 'Oferta pracy: Senior Technical Writer'
 authors: mojk
-date: "2016-04-07"
+date: '2016-04-07'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "dassault.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'dassault.png'
 ---
 
 Zespół dokumentalistów krakowskiego oddziału

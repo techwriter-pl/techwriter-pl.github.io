@@ -1,10 +1,10 @@
 ---
-title: "Dowcip"
+title: 'Dowcip'
 authors: admin
-date: "2013-09-18"
+date: '2013-09-18'
 tags:
-  - "z-przymruzeniem-oka"
-  - "humor"
+  - 'z-przymruzeniem-oka'
+  - 'humor'
 ---
 
 Taki żart:

@@ -1,14 +1,14 @@
 ---
-title: "Skitch - opis narzędzia"
+title: 'Skitch - opis narzędzia'
 authors: mojk
-date: "2015-02-17"
+date: '2015-02-17'
 tags:
-  - "narzedzia"
-  - "grafika"
-  - "instrukcje"
-  - "on-line-help"
-  - "pomoc-uzytkownika"
-coverImage: "skitchlogo-e1424155444199.png"
+  - 'narzedzia'
+  - 'grafika'
+  - 'instrukcje'
+  - 'on-line-help'
+  - 'pomoc-uzytkownika'
+coverImage: 'skitchlogo-e1424155444199.png'
 ---
 
 Kolejne narzędzie do robienia zrzutów ekranu. Tym razem bierzemy pod lupę

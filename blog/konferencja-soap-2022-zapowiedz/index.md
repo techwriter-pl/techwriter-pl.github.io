@@ -1,13 +1,13 @@
 ---
-title: "Konferencja soap! 2022 - zapowiedź"
+title: 'Konferencja soap! 2022 - zapowiedź'
 authors: agnieszka
-date: "2022-04-14"
+date: '2022-04-14'
 tags:
-  - "news"
-  - "z-kraju"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "soap2022.png"
+  - 'news'
+  - 'z-kraju'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'soap2022.png'
 ---
 
 Już za kilka tygodni odbędzie się długo oczekiwana krakowska konferencja soap!.

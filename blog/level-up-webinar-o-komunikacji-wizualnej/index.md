@@ -1,17 +1,17 @@
 ---
 title: '"Level Up" - Webinar o komunikacji wizualnej'
 authors: niewiarowski
-date: "2021-09-24"
+date: '2021-09-24'
 tags:
-  - "news"
-  - "bez-kategorii"
-  - "dobre-praktyki"
-  - "narzedzia"
-  - "ze-swiata"
-  - "grafika"
-  - "narzedzia"
-  - "rzuty-ekranu"
-coverImage: "upload_408.png"
+  - 'news'
+  - 'bez-kategorii'
+  - 'dobre-praktyki'
+  - 'narzedzia'
+  - 'ze-swiata'
+  - 'grafika'
+  - 'narzedzia'
+  - 'rzuty-ekranu'
+coverImage: 'upload_408.png'
 ---
 
 Zapraszam do zapoznania się z darmowym webinarem firmy Tech Smith na temat

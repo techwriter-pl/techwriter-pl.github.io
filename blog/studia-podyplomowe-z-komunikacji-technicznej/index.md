@@ -1,14 +1,14 @@
 ---
-title: "Studia podyplomowe z komunikacji technicznej"
+title: 'Studia podyplomowe z komunikacji technicznej'
 authors: agnieszka
-date: "2016-06-13"
+date: '2016-06-13'
 tags:
-  - "news"
-  - "z-kraju"
-  - "edukacja"
-  - "kariera"
-  - "szkolenia"
-coverImage: "VistulaKomunikacjaTechniczna-1-e1563346376984.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'edukacja'
+  - 'kariera'
+  - 'szkolenia'
+coverImage: 'VistulaKomunikacjaTechniczna-1-e1563346376984.jpg'
 ---
 
 Kiedy startowaliśmy z portalem techwriter.pl, od początku przyświecał nam jeden

@@ -1,15 +1,15 @@
 ---
-title: "MEETCONTENT WROCŁAW – MAJ 2023"
+title: 'MEETCONTENT WROCŁAW – MAJ 2023'
 authors: agnieszka
-date: "2023-05-10"
+date: '2023-05-10'
 tags:
-  - "news"
-  - "z-kraju"
-  - "dokumentacja"
-  - "lokalizacja"
-  - "meetcontent"
-  - "spolecznosc"
-coverImage: "meetcontentwro_maj_2023.png"
+  - 'news'
+  - 'z-kraju'
+  - 'dokumentacja'
+  - 'lokalizacja'
+  - 'meetcontent'
+  - 'spolecznosc'
+coverImage: 'meetcontentwro_maj_2023.png'
 ---
 
 Za nami kwietniowa edycja MeetContentWRO. Poniżej podsumowanie oraz zapowiedź

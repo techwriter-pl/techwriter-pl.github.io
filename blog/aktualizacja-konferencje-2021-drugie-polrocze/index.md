@@ -1,16 +1,16 @@
 ---
-title: "[aktualizacja] Konferencje 2021 - drugie półrocze"
+title: '[aktualizacja] Konferencje 2021 - drugie półrocze'
 authors: agnieszka
-date: "2021-09-14"
+date: '2021-09-14'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "edukacja"
-  - "kariera"
-  - "konferencje"
-  - "praca"
-  - "spolecznosc"
-coverImage: "Konferencje-2021-drugie-polrocze-6.png"
+  - 'news'
+  - 'ze-swiata'
+  - 'edukacja'
+  - 'kariera'
+  - 'konferencje'
+  - 'praca'
+  - 'spolecznosc'
+coverImage: 'Konferencje-2021-drugie-polrocze-6.png'
 ---
 
 Z uwagi na pewne zmiany w kalendarzu konferencji postanowiliśmy przygotować

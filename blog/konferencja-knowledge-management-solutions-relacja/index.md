@@ -1,14 +1,14 @@
 ---
-title: "Konferencja Knowledge Management Solutions - relacja"
+title: 'Konferencja Knowledge Management Solutions - relacja'
 authors: admin
-date: "2014-11-04"
+date: '2014-11-04'
 tags:
-  - "news"
-  - "z-kraju"
-  - "knowledge-base"
-  - "konferencje"
-  - "zarzadzanie-wiedza"
-coverImage: "KonferencjaKnowledgeManagementSolutions.png"
+  - 'news'
+  - 'z-kraju'
+  - 'knowledge-base'
+  - 'konferencje'
+  - 'zarzadzanie-wiedza'
+coverImage: 'KonferencjaKnowledgeManagementSolutions.png'
 ---
 
 Jakiś czas temu

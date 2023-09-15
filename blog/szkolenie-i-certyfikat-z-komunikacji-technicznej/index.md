@@ -1,12 +1,12 @@
 ---
-title: "Szkolenie i certyfikat z komunikacji technicznej"
+title: 'Szkolenie i certyfikat z komunikacji technicznej'
 authors: admin
-date: "2015-08-11"
+date: '2015-08-11'
 tags:
-  - "news"
-  - "z-kraju"
-  - "szkolenia"
-coverImage: "itcqf_logo_black-e1442054514270.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'szkolenia'
+coverImage: 'itcqf_logo_black-e1442054514270.jpg'
 ---
 
 Chciałoby się powiedzieć: NARESZCIE! Przez wieeeele lat Technical Writerzy w

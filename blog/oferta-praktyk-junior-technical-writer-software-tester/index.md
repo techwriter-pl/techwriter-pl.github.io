@@ -1,13 +1,13 @@
 ---
-title: "Oferta praktyk: Junior Technical Writer / Software Tester"
+title: 'Oferta praktyk: Junior Technical Writer / Software Tester'
 authors: admin
-date: "2014-12-23"
+date: '2014-12-23'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "230px-ABB_logo.svg_.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: '230px-ABB_logo.svg_.png'
 ---
 
 Dla wierzących w Świętego Mikołaja lub Anioły mamy prezent pod choinkę. Dla

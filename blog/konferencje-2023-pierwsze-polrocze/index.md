@@ -1,14 +1,14 @@
 ---
-title: "KONFERENCJE 2023 – PIERWSZE PÓŁROCZE"
+title: 'KONFERENCJE 2023 – PIERWSZE PÓŁROCZE'
 authors: agnieszka
-date: "2023-01-12"
+date: '2023-01-12'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "kariera"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "Konferencje-2023.png"
+  - 'news'
+  - 'ze-swiata'
+  - 'kariera'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'Konferencje-2023.png'
 ---
 
 Nadszedł 2023 rok, więc najwyższa pora, by przekazać Wam listę nowych terminów

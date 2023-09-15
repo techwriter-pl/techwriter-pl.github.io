@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Specjalista ds. dokumentacji IT / Technical Writer"
+title: 'Oferta pracy: Specjalista ds. dokumentacji IT / Technical Writer'
 authors: admin
-date: "2014-10-21"
+date: '2014-10-21'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "inittec_logo.jpg"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'inittec_logo.jpg'
 ---
 
 Ciekawa oferta pracy z Krakowa. Coś dla Was - szukają ludzi ambitnych,

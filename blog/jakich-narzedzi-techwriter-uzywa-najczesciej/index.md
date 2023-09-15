@@ -1,14 +1,14 @@
 ---
-title: "Jakich narzędzi techwriter używa najczęściej?"
+title: 'Jakich narzędzi techwriter używa najczęściej?'
 authors: admin
-date: "2014-09-16"
+date: '2014-09-16'
 tags:
-  - "news"
-  - "narzedzia"
-  - "warsztat"
-  - "ze-swiata"
-  - "technologie"
-coverImage: "narzedzia.jpg"
+  - 'news'
+  - 'narzedzia'
+  - 'warsztat'
+  - 'ze-swiata'
+  - 'technologie'
+coverImage: 'narzedzia.jpg'
 ---
 
 Ilustracja jest tylko po to, żebyście mogli sobie chwilkę pomarzyć...😊. A już

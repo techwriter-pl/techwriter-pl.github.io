@@ -1,15 +1,15 @@
 ---
-title: "Agile documentation process - ankieta"
+title: 'Agile documentation process - ankieta'
 authors: admin
-date: "2014-08-29"
+date: '2014-08-29'
 tags:
-  - "news"
-  - "z-kraju"
-  - "agile"
-  - "ankieta"
-  - "praca"
-  - "spolecznosc"
-coverImage: "survey.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'agile'
+  - 'ankieta'
+  - 'praca'
+  - 'spolecznosc'
+coverImage: 'survey.jpg'
 ---
 
 Tego typu wpisy cieszą nas najbardziej - ciekawe, odświeżające, pomysłowe, a

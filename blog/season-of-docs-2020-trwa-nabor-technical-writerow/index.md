@@ -1,14 +1,14 @@
 ---
-title: "Season of Docs 2020 - trwa nabór Technical Writerów"
+title: 'Season of Docs 2020 - trwa nabór Technical Writerów'
 authors: agnieszka
-date: "2020-05-27"
+date: '2020-05-27'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "dokumentacja"
-  - "kariera"
-  - "praca"
-coverImage: "season_of_docs.png"
+  - 'news'
+  - 'ze-swiata'
+  - 'dokumentacja'
+  - 'kariera'
+  - 'praca'
+coverImage: 'season_of_docs.png'
 ---
 
 Ruszyła druga edycja inicjatywy Google

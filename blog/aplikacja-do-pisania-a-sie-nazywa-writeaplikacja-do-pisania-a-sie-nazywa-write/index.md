@@ -1,12 +1,12 @@
 ---
-title: "Aplikacja do pisania Write!"
+title: 'Aplikacja do pisania Write!'
 authors: pensjonatus
-date: "2018-01-10"
+date: '2018-01-10'
 tags:
-  - "narzedzia"
-  - "warsztat"
-  - "aplikacje"
-coverImage: "write.png"
+  - 'narzedzia'
+  - 'warsztat'
+  - 'aplikacje'
+coverImage: 'write.png'
 ---
 
 Jest miliard edytorów tekstu. Czym się wyróżnia właśnie ten?

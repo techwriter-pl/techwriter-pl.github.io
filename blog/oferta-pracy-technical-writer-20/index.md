@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer"
+title: 'Oferta pracy: Technical Writer'
 authors: admin
-date: "2016-12-19"
+date: '2016-12-19'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "jamf_logo.jpg"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'jamf_logo.jpg'
 ---
 
 Lubicie jabłka? Firma Jamf – eksperci w zarządzaniu urządzeniami Apple w

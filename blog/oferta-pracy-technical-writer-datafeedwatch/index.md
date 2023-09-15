@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer (DataFeedWatch)"
+title: 'Oferta pracy: Technical Writer (DataFeedWatch)'
 authors: mojk
-date: "2019-05-27"
+date: '2019-05-27'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "DFW-logo_colour_300px.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'DFW-logo_colour_300px.png'
 ---
 
 Firma [DataFeedWatch](http://www.datafeedwatch.pl/) została uruchomiona w 2013

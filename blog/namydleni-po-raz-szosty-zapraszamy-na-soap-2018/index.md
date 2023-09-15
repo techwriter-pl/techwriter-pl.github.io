@@ -1,15 +1,15 @@
 ---
-title: "Namydleni po raz szósty - zapraszamy na soap! 2018"
+title: 'Namydleni po raz szósty - zapraszamy na soap! 2018'
 authors: agnieszka
-date: "2018-02-23"
+date: '2018-02-23'
 tags:
-  - "news"
-  - "z-kraju"
-  - "edukacja"
-  - "kariera"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "soap2018.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'edukacja'
+  - 'kariera'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'soap2018.jpg'
 ---
 
 Z ogromną przyjemnością, już po raz szósty, zapraszamy Was na krakowską

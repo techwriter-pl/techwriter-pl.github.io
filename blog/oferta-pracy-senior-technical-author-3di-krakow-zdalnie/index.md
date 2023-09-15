@@ -1,10 +1,10 @@
 ---
-title: "Oferta pracy: Senior Technical Author (3di) – Kraków/zdalnie"
+title: 'Oferta pracy: Senior Technical Author (3di) – Kraków/zdalnie'
 authors: admin
-date: "2021-05-10"
+date: '2021-05-10'
 tags:
-  - "oferty-pracy"
-coverImage: "3di_logo.png"
+  - 'oferty-pracy'
+coverImage: '3di_logo.png'
 ---
 
 Ciekawa oferta dla doświadczonej osoby z potencjałem na lidera. Ładne biuro w

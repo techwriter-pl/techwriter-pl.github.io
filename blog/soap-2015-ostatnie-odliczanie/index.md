@@ -1,13 +1,13 @@
 ---
-title: "soap! 2015 - ostatnie odliczanie"
+title: 'soap! 2015 - ostatnie odliczanie'
 authors: mojk
-date: "2015-09-24"
+date: '2015-09-24'
 tags:
-  - "news"
-  - "z-kraju"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "soap2015.png"
+  - 'news'
+  - 'z-kraju'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'soap2015.png'
 ---
 
 Kolejna, trzecia już edycja konferencji soap! za pasem. Dlatego przygotowaliśmy

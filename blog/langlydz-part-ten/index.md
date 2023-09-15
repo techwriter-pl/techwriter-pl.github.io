@@ -1,13 +1,13 @@
 ---
-title: "Langłydż - part ten"
+title: 'Langłydż - part ten'
 authors: admin
-date: "2014-11-21"
+date: '2014-11-21'
 tags:
-  - "warsztat"
-  - "z-przymruzeniem-oka"
-  - "humor"
-  - "jezyk"
-coverImage: "Ficzer.jpg"
+  - 'warsztat'
+  - 'z-przymruzeniem-oka'
+  - 'humor'
+  - 'jezyk'
+coverImage: 'Ficzer.jpg'
 ---
 
 Tak, to właśnie ten artykuł - ten namber ten - jubileuszowy wpis z Waszej

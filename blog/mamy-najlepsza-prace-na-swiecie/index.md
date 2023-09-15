@@ -1,13 +1,13 @@
 ---
-title: "Mamy najlepszą pracę na świecie!"
+title: 'Mamy najlepszą pracę na świecie!'
 authors: admin
-date: "2013-10-11"
+date: '2013-10-11'
 tags:
-  - "news"
-  - "warsztat"
-  - "kariera"
-  - "praca"
-coverImage: "relaks.jpg"
+  - 'news'
+  - 'warsztat'
+  - 'kariera'
+  - 'praca'
+coverImage: 'relaks.jpg'
 ---
 
 Sprawdźcie sami. I nie pokazujcie pracodawcy 😉Może nie najlepszą, ale

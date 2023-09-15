@@ -1,12 +1,12 @@
 ---
-title: "Nowe trendy w technical writingu"
+title: 'Nowe trendy w technical writingu'
 authors: agnieszka
-date: "2023-06-23"
+date: '2023-06-23'
 tags:
-  - "warsztat"
-  - "dokumentacja"
-  - "praktyki"
-coverImage: "nowe_trendy.png"
+  - 'warsztat'
+  - 'dokumentacja'
+  - 'praktyki'
+coverImage: 'nowe_trendy.png'
 ---
 
 Odkąd technical writing stał się jednym z wielu pożądanych zawodów, osoby z nim

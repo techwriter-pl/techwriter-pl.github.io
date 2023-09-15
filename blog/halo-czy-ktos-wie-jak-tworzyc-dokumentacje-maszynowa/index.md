@@ -1,16 +1,16 @@
 ---
-title: "Halo! Czy ktoś wie jak tworzyć dokumentację maszynową?"
+title: 'Halo! Czy ktoś wie jak tworzyć dokumentację maszynową?'
 authors: toporek
-date: "2020-07-08"
+date: '2020-07-08'
 tags:
-  - "news"
-  - "dobre-praktyki"
-  - "dokumentacja"
-  - "edukacja"
-  - "instrukcje"
-  - "manuale"
-  - "uzytecznosc"
-coverImage: "iso.png"
+  - 'news'
+  - 'dobre-praktyki'
+  - 'dokumentacja'
+  - 'edukacja'
+  - 'instrukcje'
+  - 'manuale'
+  - 'uzytecznosc'
+coverImage: 'iso.png'
 ---
 
 Ostatnio dużo pisaliśmy o tworzeniu dokumentacji API, wiec teraz dla odmiany

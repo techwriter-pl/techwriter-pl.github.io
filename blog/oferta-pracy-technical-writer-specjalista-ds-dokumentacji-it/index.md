@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer / Specjalista ds. dokumentacji IT"
+title: 'Oferta pracy: Technical Writer / Specjalista ds. dokumentacji IT'
 authors: admin
-date: "2015-06-18"
+date: '2015-06-18'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "INTEGERPL.jpg"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'INTEGERPL.jpg'
 ---
 
 Zbliżają się wakacje, a wraz z nimi ożywienie na rynku pracy, szczególnie w

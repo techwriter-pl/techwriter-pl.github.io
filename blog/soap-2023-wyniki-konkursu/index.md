@@ -1,11 +1,11 @@
 ---
-title: "Soap! 2023 - wyniki konkursu"
+title: 'Soap! 2023 - wyniki konkursu'
 authors: agnieszka
-date: "2023-05-05"
+date: '2023-05-05'
 tags:
-  - "news"
-  - "z-kraju"
-coverImage: "wyniki_konkursu_soap2023.png"
+  - 'news'
+  - 'z-kraju'
+coverImage: 'wyniki_konkursu_soap2023.png'
 ---
 
 Miło nam poinformować, że znamy już zwycięzcę tegorocznego konkursu, w którym do

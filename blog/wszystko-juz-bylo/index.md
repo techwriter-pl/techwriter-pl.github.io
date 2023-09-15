@@ -1,13 +1,13 @@
 ---
-title: "Wszystko już było..."
+title: 'Wszystko już było...'
 authors: admin
-date: "2013-10-01"
+date: '2013-10-01'
 tags:
-  - "news"
-  - "z-kraju"
-  - "praca"
-  - "spolecznosc"
-coverImage: "ksiazki.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'praca'
+  - 'spolecznosc'
+coverImage: 'ksiazki.jpg'
 ---
 
 ...nawet strona polskich technical writerów. Kojarzycie skrót TCPIP?

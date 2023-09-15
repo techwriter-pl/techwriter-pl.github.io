@@ -1,13 +1,13 @@
 ---
-title: "Dokumentaliści w kulturze masowej"
+title: 'Dokumentaliści w kulturze masowej'
 authors: mojk
-date: "2015-04-07"
+date: '2015-04-07'
 tags:
-  - "warsztat"
-  - "z-przymruzeniem-oka"
-  - "humor"
-  - "praca"
-coverImage: "popculture.jpeg"
+  - 'warsztat'
+  - 'z-przymruzeniem-oka'
+  - 'humor'
+  - 'praca'
+coverImage: 'popculture.jpeg'
 ---
 
 Święta, święta i po świętach. Dla wielu z nas oznacza to brutalny powrót do

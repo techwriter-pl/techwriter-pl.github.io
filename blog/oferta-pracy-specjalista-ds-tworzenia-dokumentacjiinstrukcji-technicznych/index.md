@@ -1,13 +1,14 @@
 ---
-title: "Oferta pracy: Specjalista ds. tworzenia dokumentacji/instrukcji technicznych"
+title:
+  'Oferta pracy: Specjalista ds. tworzenia dokumentacji/instrukcji technicznych'
 authors: admin
-date: "2017-07-25"
+date: '2017-07-25'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "CAL_logo.jpg"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'CAL_logo.jpg'
 ---
 
 Tym razem oferta z Katowic, i to od razu dla dwóch osób!

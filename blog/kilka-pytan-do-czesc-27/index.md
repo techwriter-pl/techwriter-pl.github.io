@@ -1,15 +1,15 @@
 ---
-title: "Kilka pytań do - część 27"
+title: 'Kilka pytań do - część 27'
 authors: agnieszka
-date: "2022-07-12"
+date: '2022-07-12'
 tags:
-  - "warsztat"
-  - "wywiady"
-  - "kariera"
-  - "praca"
-  - "spolecznosc"
-  - "wywiad"
-coverImage: "kilka_pytan_do_27.png"
+  - 'warsztat'
+  - 'wywiady'
+  - 'kariera'
+  - 'praca'
+  - 'spolecznosc'
+  - 'wywiad'
+coverImage: 'kilka_pytan_do_27.png'
 ---
 
 Mamy dla Was kolejną odsłonę cyklu Kilka pytań do... Kto tym razem odpowiada na

@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Senior UX Designer (Guidewire)"
+title: 'Oferta pracy: Senior UX Designer (Guidewire)'
 authors: mojk
-date: "2018-02-08"
+date: '2018-02-08'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "guidewire_logo_new_2color_h_screen.jpg"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'guidewire_logo_new_2color_h_screen.jpg'
 ---
 
 Jeśli chcecie zmienić trochę kierunek, ale nadal pozostać w branży komunikacji

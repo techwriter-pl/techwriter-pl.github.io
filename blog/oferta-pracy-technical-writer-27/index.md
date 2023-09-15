@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer"
+title: 'Oferta pracy: Technical Writer'
 authors: mojk
-date: "2017-08-07"
+date: '2017-08-07'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "EXP_BE_Logo_IT_SS_STK_MC_RGB_smaller.jpg"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'EXP_BE_Logo_IT_SS_STK_MC_RGB_smaller.jpg'
 ---
 
 Wakacje w pełni, a ofert przybywa. Po ogłoszeniach ze stolicy i Górnego Śląska,

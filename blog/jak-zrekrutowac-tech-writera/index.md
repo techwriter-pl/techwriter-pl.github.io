@@ -1,13 +1,13 @@
 ---
-title: "Jak zrekrutować Tech Writera?"
+title: 'Jak zrekrutować Tech Writera?'
 authors: mojk
-date: "2014-12-16"
+date: '2014-12-16'
 tags:
-  - "dobre-praktyki"
-  - "warsztat"
-  - "kariera"
-  - "praca"
-coverImage: "job-interview-156130_640-e1418596269464.png"
+  - 'dobre-praktyki'
+  - 'warsztat'
+  - 'kariera'
+  - 'praca'
+coverImage: 'job-interview-156130_640-e1418596269464.png'
 ---
 
 Rozmowy kwalifikacyjne to wyzwanie nie tylko dla kandydatów, ale także dla

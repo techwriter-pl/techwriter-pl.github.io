@@ -1,17 +1,17 @@
 ---
-title: "Co piszą tech writerzy? Zestawienie popularnych treści technicznych"
+title: 'Co piszą tech writerzy? Zestawienie popularnych treści technicznych'
 authors: milc
-date: "2022-02-24"
+date: '2022-02-24'
 tags:
-  - "dobre-praktyki"
-  - "przyklady"
-  - "warsztat"
-  - "dokumentacja"
-  - "knowledge-base"
-  - "praca"
-  - "praktyki"
-  - "release-notes"
-coverImage: "co_pisza_techwriterzy.png"
+  - 'dobre-praktyki'
+  - 'przyklady'
+  - 'warsztat'
+  - 'dokumentacja'
+  - 'knowledge-base'
+  - 'praca'
+  - 'praktyki'
+  - 'release-notes'
+coverImage: 'co_pisza_techwriterzy.png'
 ---
 
 Dziś mamy dla Was sporo informacji związanych z dokumentacją, jaką na co dzień

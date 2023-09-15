@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer x2"
+title: 'Oferta pracy: Technical Writer x2'
 authors: mojk
-date: "2016-12-05"
+date: '2016-12-05'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "3di_logo.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: '3di_logo.png'
 ---
 
 Koniec roku to nie koniec ofert.

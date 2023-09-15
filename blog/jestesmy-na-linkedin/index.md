@@ -1,12 +1,12 @@
 ---
-title: "Jesteśmy na LinkedIn!"
+title: 'Jesteśmy na LinkedIn!'
 authors: admin
-date: "2020-01-15"
+date: '2020-01-15'
 tags:
-  - "news"
-  - "z-kraju"
-  - "spolecznosc"
-coverImage: "LinkedIn.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'spolecznosc'
+coverImage: 'LinkedIn.jpg'
 ---
 
 To już tradycja, że co trzy lata mamy dla Was prezent świąteczny w postaci

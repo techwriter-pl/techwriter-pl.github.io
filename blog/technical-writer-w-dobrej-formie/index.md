@@ -1,13 +1,13 @@
 ---
-title: "Technical writer w dobrej formie"
+title: 'Technical writer w dobrej formie'
 authors: agnieszka
-date: "2015-06-23"
+date: '2015-06-23'
 tags:
-  - "dobre-praktyki"
-  - "warsztat"
-  - "edukacja"
-  - "jezyk"
-coverImage: "rece.jpg"
+  - 'dobre-praktyki'
+  - 'warsztat'
+  - 'edukacja'
+  - 'jezyk'
+coverImage: 'rece.jpg'
 ---
 
 Codziennie idziesz do pracy. Spędzasz w niej najczęściej osiem godzin,
@@ -29,9 +29,9 @@ formie 😉.
 1. **Czytaj o pisaniu.** Internet, biblioteki, księgarnie – można w nich znaleźć
    mnóstwo informacji na temat pisania. Czytaj, a będziesz wciąż uczył się
    czegoś nowego. A jeśli chcesz poznać ciekawe strony w sieci, zaglądnij choćby
-   pod [ten adres](http://techwriter.pl/polskie-blogi/ "Polskie blogi"). I
+   pod [ten adres](http://techwriter.pl/polskie-blogi/ 'Polskie blogi'). I
    oczywiście zaglądaj regularnie na
-   [techwriter.pl](http://techwriter.pl/ "techwriter.pl").
+   [techwriter.pl](http://techwriter.pl/ 'techwriter.pl').
 2. **Cokolwiek czytasz, czytaj ze zrozumieniem.** Codziennie czytamy – w pracy,
    w domu, w autobusie, w kolejce… Są to książki, instrukcje, dokumentacja,
    ulotki i cała masa innych tekstów. Jednak czy zawsze czytamy ze zrozumieniem?
@@ -55,11 +55,11 @@ formie 😉.
    techniczną. Ogrodnik może napisać instrukcję sadzenia paproci, pisarz
    wykorzystać nowe narzędzie do edytowania tekstu, a poeta stworzyć wiersz o
    pracy Technical Writera. Próbki tego ostatniego możecie przeczytać
-   [tutaj](http://techwriter.pl/langlydz-part-najn/ "Fraszki").
+   [tutaj](http://techwriter.pl/langlydz-part-najn/ 'Fraszki').
 4. **Pozwól się czytać.** Masz wiedzę techniczną, którą możesz podzielić się z
    innymi, ciekawe pomysły na teksty i chęć ich realizacji? Dołącz do zespołu
    redakcyjnego, choćby
-   [tu](http://techwriter.pl/kim-jestesmy/ "Napisz do nas").
+   [tu](http://techwriter.pl/kim-jestesmy/ 'Napisz do nas').
 5. **Daj komuś swój tekst do sprawdzenia.** Pozwól komuś czytać swoje teksty, a
    potem wysłuchaj komentarza i wyciągnij z niego wnioski. Nie musi to dotyczyć
    każdego tekstu, jednak raz na jakiś czas byłoby dobrze usłyszeć opinię na

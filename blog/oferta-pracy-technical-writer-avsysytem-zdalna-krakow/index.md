@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer (AVSysytem) - zdalna/Kraków"
+title: 'Oferta pracy: Technical Writer (AVSysytem) - zdalna/Kraków'
 authors: agnieszka
-date: "2021-03-31"
+date: '2021-03-31'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "LogoAVSystem.jpg"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'LogoAVSystem.jpg'
 ---
 
 Technical writer pilnie poszukiwany! Krakowska firma potrzebuje wsparcia w

@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer"
+title: 'Oferta pracy: Technical Writer'
 authors: admin
-date: "2017-07-28"
+date: '2017-07-28'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "IT-Hunters.jpg"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'IT-Hunters.jpg'
 ---
 
 Sezon ogórkowy na rynku pracy dla Technical Writerów nie istnieje. Tym razem

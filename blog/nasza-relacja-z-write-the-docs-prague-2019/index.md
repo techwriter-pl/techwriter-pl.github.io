@@ -1,13 +1,13 @@
 ---
-title: "Relacja z Write The Docs Prague 2019"
+title: 'Relacja z Write The Docs Prague 2019'
 authors: admin
-date: "2019-10-09"
+date: '2019-10-09'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "Konferencja-Write-The-Docs-2019-e1570607083973.jpg"
+  - 'news'
+  - 'ze-swiata'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'Konferencja-Write-The-Docs-2019-e1570607083973.jpg'
 ---
 
 We wrześniu 2019 odbyła się kolejna edycja konferencji

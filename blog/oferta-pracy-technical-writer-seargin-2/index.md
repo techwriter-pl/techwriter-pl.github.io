@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer (Seargin)"
+title: 'Oferta pracy: Technical Writer (Seargin)'
 authors: mojk
-date: "2018-12-20"
+date: '2018-12-20'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "seargin-logo.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'seargin-logo.png'
 ---
 
 Firma [Seargin](https://seargin.com/pl/), specjalizująca się w dostarczaniu

@@ -1,14 +1,14 @@
 ---
-title: "Kilka pytań do - część 26"
+title: 'Kilka pytań do - część 26'
 authors: agnieszka
-date: "2022-05-31"
+date: '2022-05-31'
 tags:
-  - "warsztat"
-  - "wywiady"
-  - "kariera"
-  - "praca"
-  - "wywiad"
-coverImage: "kilka_pytan_do_26.png"
+  - 'warsztat'
+  - 'wywiady'
+  - 'kariera'
+  - 'praca'
+  - 'wywiad'
+coverImage: 'kilka_pytan_do_26.png'
 ---
 
 Przed Wami kolejna odsłona cyklu *Kilka pytań do...* Tym razem na nasze pytania

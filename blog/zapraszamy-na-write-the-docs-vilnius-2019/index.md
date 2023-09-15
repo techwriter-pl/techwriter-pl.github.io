@@ -1,14 +1,14 @@
 ---
-title: "Zapraszamy na Write the Docs Vilnius 2019"
+title: 'Zapraszamy na Write the Docs Vilnius 2019'
 authors: agnieszka
-date: "2019-04-19"
+date: '2019-04-19'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "kariera"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "Zrzut-ekranu-2019-04-17-o-22.38.56-e1555533727865.png"
+  - 'news'
+  - 'ze-swiata'
+  - 'kariera'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'Zrzut-ekranu-2019-04-17-o-22.38.56-e1555533727865.png'
 ---
 
 Z wielką przyjemnością zapraszamy Was na kolejną konferencję organizowaną przez

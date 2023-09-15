@@ -1,14 +1,14 @@
 ---
-title: "MadWorld San Diego już wkrótce"
+title: 'MadWorld San Diego już wkrótce'
 authors: agnieszka
-date: "2019-03-19"
+date: '2019-03-19'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "kariera"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "Untitled-e1551095794387.jpg"
+  - 'news'
+  - 'ze-swiata'
+  - 'kariera'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'Untitled-e1551095794387.jpg'
 ---
 
 Już tylko kilka tygodni dzieli nas od tegorocznej edycji konferencji

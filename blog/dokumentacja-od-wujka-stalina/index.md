@@ -1,14 +1,14 @@
 ---
-title: "Dokumentacja od wujka Stalina"
+title: 'Dokumentacja od wujka Stalina'
 authors: toporek
-date: "2021-04-07"
+date: '2021-04-07'
 tags:
-  - "z-kraju"
-  - "z-przymruzeniem-oka"
-  - "dokumentacja"
-  - "instrukcje"
-  - "uzytecznosc"
-coverImage: "Fotopolska_818966.jpg"
+  - 'z-kraju'
+  - 'z-przymruzeniem-oka'
+  - 'dokumentacja'
+  - 'instrukcje'
+  - 'uzytecznosc'
+coverImage: 'Fotopolska_818966.jpg'
 ---
 
 Cofniemy się w nieco w czasie do okresu PRL.

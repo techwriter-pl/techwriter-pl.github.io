@@ -1,17 +1,17 @@
 ---
-title: "TECHNICAL COMMUNICATION CONFERENCE 2021 już wkrótce"
+title: 'TECHNICAL COMMUNICATION CONFERENCE 2021 już wkrótce'
 authors: agnieszka
-date: "2021-10-20"
+date: '2021-10-20'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "dokumentacja"
-  - "kariera"
-  - "konferencje"
-  - "praca"
-  - "spolecznosc"
-  - "technologie"
-coverImage: "TCC_2021.png"
+  - 'news'
+  - 'ze-swiata'
+  - 'dokumentacja'
+  - 'kariera'
+  - 'konferencje'
+  - 'praca'
+  - 'spolecznosc'
+  - 'technologie'
+coverImage: 'TCC_2021.png'
 ---
 
 Już **13 listopada** odbędzie się kolejna branżowa konferencja. Mowa o

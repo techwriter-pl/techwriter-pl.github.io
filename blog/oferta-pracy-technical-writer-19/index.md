@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer"
+title: 'Oferta pracy: Technical Writer'
 authors: mojk
-date: "2016-11-03"
+date: '2016-11-03'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "softjourn_logo.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'softjourn_logo.png'
 ---
 
 Jeśli szukacie pracy na Dolnym Śląsku, to ta oferta może Was zainteresować.

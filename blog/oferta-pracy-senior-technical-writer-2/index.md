@@ -1,13 +1,13 @@
 ---
-title: "[NIEAKTUALNE] Oferta pracy: Senior Technical Writer"
+title: '[NIEAKTUALNE] Oferta pracy: Senior Technical Writer'
 authors: mojk
-date: "2016-12-12"
+date: '2016-12-12'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "spartez_logo.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'spartez_logo.png'
 ---
 
 Firma [Spartez](https://spartez.com/) z siedzibą w Gdańsku, zajmująca się

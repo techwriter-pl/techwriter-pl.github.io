@@ -1,16 +1,16 @@
 ---
-title: "Kapelusze tech writera"
+title: 'Kapelusze tech writera'
 authors: niewiarowski
-date: "2021-04-28"
+date: '2021-04-28'
 tags:
-  - "warsztat"
-  - "z-przymruzeniem-oka"
-  - "dokumentacja"
-  - "humor"
-  - "kariera"
-  - "praca"
-  - "spolecznosc"
-coverImage: "shakespeare-6102162_6-40-1.jpg"
+  - 'warsztat'
+  - 'z-przymruzeniem-oka'
+  - 'dokumentacja'
+  - 'humor'
+  - 'kariera'
+  - 'praca'
+  - 'spolecznosc'
+coverImage: 'shakespeare-6102162_6-40-1.jpg'
 ---
 
 W tym artykule znajdziecie zbiór luźnych przemyśleń na temat wszechstronnego

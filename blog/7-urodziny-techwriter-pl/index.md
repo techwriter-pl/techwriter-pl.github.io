@@ -1,11 +1,11 @@
 ---
-title: "7 urodziny techwriter.pl"
+title: '7 urodziny techwriter.pl'
 authors: agnieszka
-date: "2020-09-18"
+date: '2020-09-18'
 tags:
-  - "news"
-  - "spolecznosc"
-coverImage: "urodziny_7.png"
+  - 'news'
+  - 'spolecznosc'
+coverImage: 'urodziny_7.png'
 ---
 
 Dziś 7 urodziny techwriter.pl! Kiedy to zleciało?!

@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer (Intern)"
+title: 'Oferta pracy: Technical Writer (Intern)'
 authors: mojk
-date: "2016-03-08"
+date: '2016-03-08'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "dassault.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'dassault.png'
 ---
 
 Właśnie startuje kolejna rekrutacja do krakowskiego oddziału
