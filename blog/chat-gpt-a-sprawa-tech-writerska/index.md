@@ -1,13 +1,13 @@
 ---
-title: "Chat GPT a sprawa tech writerska"
+title: 'Chat GPT a sprawa tech writerska'
 authors: niewiarowski
-date: "2023-04-27"
+date: '2023-04-27'
 tags:
-  - "narzedzia"
-  - "aritificial-intelligence"
-  - "chatgpt"
-  - "technologie"
-coverImage: "czat_gpt.png"
+  - 'narzedzia'
+  - 'aritificial-intelligence'
+  - 'chatgpt'
+  - 'technologie'
+coverImage: 'czat_gpt.png'
 ---
 
 Ostatnimi czasy sztuczna inteligencja nie schodzi z nagłówków gazet, a wręcz

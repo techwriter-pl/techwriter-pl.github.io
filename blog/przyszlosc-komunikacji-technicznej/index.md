@@ -1,15 +1,15 @@
 ---
-title: "Przyszłość komunikacji technicznej?"
+title: 'Przyszłość komunikacji technicznej?'
 authors: admin
-date: "2013-11-08"
+date: '2013-11-08'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "konferencje"
-  - "lokalizacja"
-  - "technologie"
-  - "tlumaczenia"
-coverImage: "technologia.png"
+  - 'news'
+  - 'ze-swiata'
+  - 'konferencje'
+  - 'lokalizacja'
+  - 'technologie'
+  - 'tlumaczenia'
+coverImage: 'technologia.png'
 ---
 
 Ciekawa prezentacja (w języku angielskim) - 5 rewolucyjnych technologii których

@@ -1,14 +1,14 @@
 ---
-title: "KTLC 2022 już wkrótce"
+title: 'KTLC 2022 już wkrótce'
 authors: agnieszka
-date: "2022-09-02"
+date: '2022-09-02'
 tags:
-  - "news"
-  - "z-kraju"
-  - "konferencje"
-  - "spolecznosc"
-  - "tlumaczenia"
-coverImage: "Konferencja-KTLC-2022.png"
+  - 'news'
+  - 'z-kraju'
+  - 'konferencje'
+  - 'spolecznosc'
+  - 'tlumaczenia'
+coverImage: 'Konferencja-KTLC-2022.png'
 ---
 
 Kolejny raz, z wielką przyjemnością, zapraszamy Was na rodzime wydarzenie,

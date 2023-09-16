@@ -1,13 +1,13 @@
 ---
-title: "Diabeł tkwi w szczegółach"
+title: 'Diabeł tkwi w szczegółach'
 authors: mojk
-date: "2014-12-30"
+date: '2014-12-30'
 tags:
-  - "dobre-praktyki"
-  - "warsztat"
-  - "edukacja"
-  - "jezyk"
-coverImage: "annoying-474143_640-e1419883586267.png"
+  - 'dobre-praktyki'
+  - 'warsztat'
+  - 'edukacja'
+  - 'jezyk'
+coverImage: 'annoying-474143_640-e1419883586267.png'
 ---
 
 Język angielski nie jest tak prosty jakby się mogło wydawać. Niektóre słowa i

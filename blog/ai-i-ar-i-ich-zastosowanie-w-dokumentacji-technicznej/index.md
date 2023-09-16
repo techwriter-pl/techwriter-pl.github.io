@@ -1,18 +1,18 @@
 ---
-title: "AI i AR i ich zastosowanie w dokumentacji technicznej"
+title: 'AI i AR i ich zastosowanie w dokumentacji technicznej'
 authors: toporek
-date: "2021-06-15"
+date: '2021-06-15'
 tags:
-  - "narzedzia"
-  - "przyklady"
-  - "warsztat"
-  - "aplikacje"
-  - "automatyzacja"
-  - "dokumentacja"
-  - "narzedzia"
-  - "technologie"
-  - "uzytecznosc"
-coverImage: "AI-i-AR.png"
+  - 'narzedzia'
+  - 'przyklady'
+  - 'warsztat'
+  - 'aplikacje'
+  - 'automatyzacja'
+  - 'dokumentacja'
+  - 'narzedzia'
+  - 'technologie'
+  - 'uzytecznosc'
+coverImage: 'AI-i-AR.png'
 ---
 
 Dziś mierzymy się z szerokim i bardzo ciekawym zagadnieniem jakim są nowoczesne

@@ -1,15 +1,15 @@
 ---
-title: "Konferencje SOAP i Write The Docs - porównanie stylów"
+title: 'Konferencje SOAP i Write The Docs - porównanie stylów'
 authors: niewiarowski
-date: "2022-07-29"
+date: '2022-07-29'
 tags:
-  - "biblioteczka-techwritera"
-  - "z-przymruzeniem-oka"
-  - "edukacja"
-  - "kariera"
-  - "konferencje"
-  - "praca"
-  - "spolecznosc"
+  - 'biblioteczka-techwritera'
+  - 'z-przymruzeniem-oka'
+  - 'edukacja'
+  - 'kariera'
+  - 'konferencje'
+  - 'praca'
+  - 'spolecznosc'
 ---
 
 Rozważasz udział w jednej z konferencji tech writingowych: "Write The Docs" i

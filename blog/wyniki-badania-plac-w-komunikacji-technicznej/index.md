@@ -1,13 +1,13 @@
 ---
-title: "Wyniki badania płac w komunikacji technicznej 2017"
+title: 'Wyniki badania płac w komunikacji technicznej 2017'
 authors: pensjonatus
-date: "2017-04-12"
+date: '2017-04-12'
 tags:
-  - "badanie-plac"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "Slajd2.jpg"
+  - 'badanie-plac'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'Slajd2.jpg'
 ---
 
 Ile zarabiają technical writerzy? Jak różnią się pensje w różnych województwach?

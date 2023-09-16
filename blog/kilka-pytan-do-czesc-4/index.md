@@ -1,13 +1,13 @@
 ---
-title: "Kilka pytań do - część 4"
+title: 'Kilka pytań do - część 4'
 authors: mojk
-date: "2015-03-31"
+date: '2015-03-31'
 tags:
-  - "warsztat"
-  - "wywiady"
-  - "spolecznosc"
-  - "wywiad"
-coverImage: "1981-IBM-PC5150_a-e1425884892248.jpg"
+  - 'warsztat'
+  - 'wywiady'
+  - 'spolecznosc'
+  - 'wywiad'
+coverImage: '1981-IBM-PC5150_a-e1425884892248.jpg'
 ---
 
 W dzisiejszym odcinku pod gradobiciem pytań znalazła się Agnieszka, która od

@@ -1,15 +1,15 @@
 ---
-title: "Write the Docs Prague już tuż tuż"
+title: 'Write the Docs Prague już tuż tuż'
 authors: agnieszka
-date: "2018-08-21"
+date: '2018-08-21'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "edukacja"
-  - "kariera"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "wtd.png"
+  - 'news'
+  - 'ze-swiata'
+  - 'edukacja'
+  - 'kariera'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'wtd.png'
 ---
 
 Do tegorocznej edycji konferencji Write the Docs Prague został już niespełna

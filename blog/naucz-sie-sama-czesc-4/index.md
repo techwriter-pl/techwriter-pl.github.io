@@ -1,15 +1,15 @@
 ---
-title: "Naucz się sam(a) - część 4"
+title: 'Naucz się sam(a) - część 4'
 authors: mojk
-date: "2014-06-03"
+date: '2014-06-03'
 tags:
-  - "dobre-praktyki"
-  - "przyklady"
-  - "warsztat"
-  - "edukacja"
-  - "kariera"
-  - "literatura"
-coverImage: "414JSZMPX8L.jpg"
+  - 'dobre-praktyki'
+  - 'przyklady'
+  - 'warsztat'
+  - 'edukacja'
+  - 'kariera'
+  - 'literatura'
+coverImage: '414JSZMPX8L.jpg'
 ---
 
 Zgodnie z obietnicą, prezentujemy drugą porcję przydatnych informacji z książki

@@ -1,14 +1,14 @@
 ---
-title: "Online Educa Berlin - Relacja"
+title: 'Online Educa Berlin - Relacja'
 authors: szablowska
-date: "2014-01-07"
+date: '2014-01-07'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "konferencje"
-  - "materialy-szkoleniowe"
-  - "treningi"
-coverImage: "online-educa-berlin-2013.png"
+  - 'news'
+  - 'ze-swiata'
+  - 'konferencje'
+  - 'materialy-szkoleniowe'
+  - 'treningi'
+coverImage: 'online-educa-berlin-2013.png'
 ---
 
 W naszym pierwszym wpisie w nowym roku zamieszczamy relację jednego z niewielu

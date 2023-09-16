@@ -1,16 +1,16 @@
 ---
-title: "WikidPad - opis narzędzia"
+title: 'WikidPad - opis narzędzia'
 authors: agnieszka
-date: "2015-06-09"
+date: '2015-06-09'
 tags:
-  - "narzedzia"
-  - "warsztat"
-  - "aplikacje"
-coverImage: "000-tlo-360.jpg"
+  - 'narzedzia'
+  - 'warsztat'
+  - 'aplikacje'
+coverImage: '000-tlo-360.jpg'
 ---
 
 Jakiś
-[czas temu](http://techwriter.pl/nie-tylko-wikipedia-czyli-do-czego-moze-sie-przydac-wiki/ "O wiki")
+[czas temu](http://techwriter.pl/nie-tylko-wikipedia-czyli-do-czego-moze-sie-przydac-wiki/ 'O wiki')
 przekonywaliśmy Was, jak użyteczna dla dokumentalisty może być dobrze prowadzona
 Wiki. Dzisiaj chcielibyśmy przedstawić Wam wikidPada, czyli narzędzie, za pomocą
 którego możecie tę tezę łatwo zweryfikować.
@@ -113,7 +113,7 @@ Python, gratką będzie zapewne możliwość pisania własnych rozszerzeń. Moż
 sposób dodać brakujące funkcje lub zmienić już istniejące. Osoby nie potrafiące
 programować zawsze mogą skorzystać z gotowych rozszerzeń — ich lista znajduje
 się
-[tutaj](http://trac.wikidpad2.webfactional.com/wiki/ListOfUserScripts "Rozszerzenia").
+[tutaj](http://trac.wikidpad2.webfactional.com/wiki/ListOfUserScripts 'Rozszerzenia').
 
 ### Podsumowanie
 

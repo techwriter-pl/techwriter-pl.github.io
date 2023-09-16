@@ -1,18 +1,18 @@
 ---
-title: "soap! 2014 - relacja z pierwszego dnia"
+title: 'soap! 2014 - relacja z pierwszego dnia'
 authors: szablowska
-date: "2014-10-10"
+date: '2014-10-10'
 tags:
-  - "news"
-  - "z-kraju"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "soap.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'soap.jpg'
 ---
 
 Po naszym ogólnym podsumowaniu przyszła pora na trochę konkretów. Dzisiaj
 przedstawiamy skrótowo prezentacje z pierwszego dnia konferencji
-[soap! 2014](http://soapconf.com/ "SoapConf 2014").
+[soap! 2014](http://soapconf.com/ 'SoapConf 2014').
 
 <!--truncate-->
 

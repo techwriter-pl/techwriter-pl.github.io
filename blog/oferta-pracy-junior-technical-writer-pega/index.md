@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Junior Technical Writer (Pega)"
+title: 'Oferta pracy: Junior Technical Writer (Pega)'
 authors: mojk
-date: "2017-10-13"
+date: '2017-10-13'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "Pegasystems_logo-e1474374110381.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'Pegasystems_logo-e1474374110381.png'
 ---
 
 Firma [Pegasystems](https://www.pega.com/), tworząca strategiczne aplikacje dla

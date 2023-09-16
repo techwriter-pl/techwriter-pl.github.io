@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer (Unit4)"
+title: 'Oferta pracy: Technical Writer (Unit4)'
 authors: mojk
-date: "2017-11-17"
+date: '2017-11-17'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "unit4-logo-250.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'unit4-logo-250.png'
 ---
 
 Dzisiaj mamy dla Was ciekawą ofertę z południowo-zachodniej Polski.

@@ -1,18 +1,18 @@
 ---
-title: "Za co maszyny lubią autorów"
+title: 'Za co maszyny lubią autorów'
 authors: mojk
-date: "2018-08-10"
+date: '2018-08-10'
 tags:
-  - "dobre-praktyki"
-  - "przyklady"
-  - "warsztat"
-  - "instrukcje"
-  - "jezyk"
-  - "manuale"
-  - "on-line-help"
-  - "pomoc-uzytkownika"
-  - "tlumaczenia"
-coverImage: "hand-1571851_640.jpg"
+  - 'dobre-praktyki'
+  - 'przyklady'
+  - 'warsztat'
+  - 'instrukcje'
+  - 'jezyk'
+  - 'manuale'
+  - 'on-line-help'
+  - 'pomoc-uzytkownika'
+  - 'tlumaczenia'
+coverImage: 'hand-1571851_640.jpg'
 ---
 
 Po tłumaczach przyszedł czas na maszyny.

@@ -1,16 +1,16 @@
 ---
-title: "Konferencje 2021 - drugie półrocze"
+title: 'Konferencje 2021 - drugie półrocze'
 authors: agnieszka
-date: "2021-06-30"
+date: '2021-06-30'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "edukacja"
-  - "kariera"
-  - "konferencje"
-  - "praca"
-  - "spolecznosc"
-coverImage: "Konferencje-2021-drugie-polrocze-6.png"
+  - 'news'
+  - 'ze-swiata'
+  - 'edukacja'
+  - 'kariera'
+  - 'konferencje'
+  - 'praca'
+  - 'spolecznosc'
+coverImage: 'Konferencje-2021-drugie-polrocze-6.png'
 ---
 
 Przed nami druga połowa 2021 roku, a więc najwyższa pora by zaktualizować

@@ -1,13 +1,13 @@
 ---
-title: "CV - najważniejszy dokument Tech Writera"
+title: 'CV - najważniejszy dokument Tech Writera'
 authors: mojk
-date: "2016-01-12"
+date: '2016-01-12'
 tags:
-  - "dobre-praktyki"
-  - "warsztat"
-  - "kariera"
-  - "praca"
-coverImage: "preview-e1452188058854.jpg"
+  - 'dobre-praktyki'
+  - 'warsztat'
+  - 'kariera'
+  - 'praca'
+coverImage: 'preview-e1452188058854.jpg'
 ---
 
 CV Tech Writera to coś więcej niż tylko zestaw informacji o wykształceniu,

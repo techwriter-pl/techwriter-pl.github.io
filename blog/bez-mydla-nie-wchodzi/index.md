@@ -1,12 +1,12 @@
 ---
-title: "Bez mydła nie wchodzi?"
+title: 'Bez mydła nie wchodzi?'
 authors: admin
-date: "2013-09-25"
+date: '2013-09-25'
 tags:
-  - "news"
-  - "z-kraju"
-  - "konferencje"
-coverImage: "mydlo.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'konferencje'
+coverImage: 'mydlo.jpg'
 ---
 
 Miło nam poinformować, że po kilku latach posuchy pojawiła się w Polsce

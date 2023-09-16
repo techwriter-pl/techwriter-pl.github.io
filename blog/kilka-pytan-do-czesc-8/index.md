@@ -1,13 +1,13 @@
 ---
-title: "Kilka pytań do - część 8"
+title: 'Kilka pytań do - część 8'
 authors: mojk
-date: "2015-12-08"
+date: '2015-12-08'
 tags:
-  - "warsztat"
-  - "wywiady"
-  - "spolecznosc"
-  - "wywiad"
-coverImage: "sg_motor_001a-e1448398858231.jpg"
+  - 'warsztat'
+  - 'wywiady'
+  - 'spolecznosc'
+  - 'wywiad'
+coverImage: 'sg_motor_001a-e1448398858231.jpg'
 ---
 
 W dzisiejszym odcinku na nasze pytania odpowiada Paweł Kowaluk - specjalista z

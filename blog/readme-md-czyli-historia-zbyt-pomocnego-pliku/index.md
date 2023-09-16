@@ -1,14 +1,14 @@
 ---
-title: "README.md, czyli historia zbyt pomocnego pliku"
+title: 'README.md, czyli historia zbyt pomocnego pliku'
 authors: mojk
-date: "2018-10-03"
+date: '2018-10-03'
 tags:
-  - "dobre-praktyki"
-  - "przyklady"
-  - "warsztat"
-  - "dokumentacja"
-  - "pomoc-uzytkownika"
-coverImage: "key-2323278_640.jpg"
+  - 'dobre-praktyki'
+  - 'przyklady'
+  - 'warsztat'
+  - 'dokumentacja'
+  - 'pomoc-uzytkownika'
+coverImage: 'key-2323278_640.jpg'
 ---
 
 Kiedy tworzymy dokumentację przyświeca nam cel, żeby dostarczyć użytkownikowi

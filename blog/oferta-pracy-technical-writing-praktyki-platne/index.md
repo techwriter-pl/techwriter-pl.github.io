@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical writing - praktyki (płatne!)"
+title: 'Oferta pracy: Technical writing - praktyki (płatne!)'
 authors: admin
-date: "2018-04-23"
+date: '2018-04-23'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "IBM-logo.gif"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'IBM-logo.gif'
 ---
 
 Dziś mamy coś dla studentów, z firmy której przedstawiać chyba nie trzeba. IBM

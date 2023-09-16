@@ -1,15 +1,15 @@
 ---
-title: "Konferencja soap! 2017 - 5. edycja coraz bliżej"
+title: 'Konferencja soap! 2017 - 5. edycja coraz bliżej'
 authors: agnieszka
-date: "2017-04-27"
+date: '2017-04-27'
 tags:
-  - "news"
-  - "z-kraju"
-  - "edukacja"
-  - "kariera"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "soap.png"
+  - 'news'
+  - 'z-kraju'
+  - 'edukacja'
+  - 'kariera'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'soap.png'
 ---
 
 Aż trudno uwierzyć, że w tym roku odbędzie się już piąta edycja konferencji

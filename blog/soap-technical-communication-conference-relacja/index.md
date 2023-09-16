@@ -1,12 +1,12 @@
 ---
-title: "soap! technical communication conference - relacja"
+title: 'soap! technical communication conference - relacja'
 authors: admin
-date: "2013-10-06"
+date: '2013-10-06'
 tags:
-  - "news"
-  - "z-kraju"
-  - "konferencje"
-coverImage: "relacja.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'konferencje'
+coverImage: 'relacja.jpg'
 ---
 
 Na tak długo wyczekiwanym wydarzeniu nie mogło nas zabraknąć... i nie zabrakło.

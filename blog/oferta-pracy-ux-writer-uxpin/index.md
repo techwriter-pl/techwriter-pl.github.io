@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: UX Writer (UXPin)"
+title: 'Oferta pracy: UX Writer (UXPin)'
 authors: mojk
-date: "2018-10-29"
+date: '2018-10-29'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "uxpin-logo.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'uxpin-logo.png'
 ---
 
 Świeżutka oferta znad morza.

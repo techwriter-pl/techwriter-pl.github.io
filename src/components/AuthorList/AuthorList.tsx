@@ -1,23 +1,23 @@
-import React from "react";
-import authors from "@site/blog/authors.yml";
-import AuthorAvatar, { AuthorProps } from "@site/src/components/AuthorAvatar";
-import styles from "./AuthorList.module.css";
-import Link from "@docusaurus/Link";
+import React from 'react';
+import authors from '@site/blog/authors.yml';
+import AuthorAvatar, { AuthorProps } from '@site/src/components/AuthorAvatar';
+import styles from './AuthorList.module.css';
+import Link from '@docusaurus/Link';
 
 const polishDescriptions: { [id: string]: JSX.Element } = {
   admin: (
     <>
       Pomysłodawca i współzałożyciel techwriter.pl. Wróg lania wody, zwolennik
       piwa. Cierpi na „ADHD” - tester, trener, konsultant, menadżer, mentor,
-      przedsiębiorca, wykładowca, członek rady{" "}
+      przedsiębiorca, wykładowca, członek rady{' '}
       <Link href="http://itcqf.org/">ITCQF</Link>… Jedna branża to dla niego za
-      mało, dlatego poza komunikacją techniczną zajmuje się{" "}
+      mało, dlatego poza komunikacją techniczną zajmuje się{' '}
       <Link href="https://accens.pl/">dostępnością cyfrową</Link>
-      oraz współtworzy{" "}
+      oraz współtworzy{' '}
       <Link href="https://www.4testers.pl/">
         kurs testowania oprogramowania
       </Link>
-      . Można go spotkać również na turnieju{" "}
+      . Można go spotkać również na turnieju{' '}
       <Link href="https://3x3basket.pl/">koszykówki 3×3</Link>.
     </>
   ),
@@ -55,7 +55,7 @@ const polishDescriptions: { [id: string]: JSX.Element } = {
       Technical writerka, zaprzyjaźniona z branżą IT prawie od zawsze.
       Absolwentka dziennikarstwa na Uniwersytecie Warszawskim oraz studiów
       podyplomowych z komunikacji technicznej na Akademii Finansów i Biznesu
-      Vistula. Wraz z przyjaciółmi tworzy społeczność{" "}
+      Vistula. Wraz z przyjaciółmi tworzy społeczność{' '}
       <Link href="https://girlsjs.pl/">girls.js</Link>, gdzie kobiety mogą za
       darmo stawiać pierwsze kroki w nauce JavaScriptu. W nielicznych wolnych
       chwilach uczy się wielogłosowych pieśni w językach naszych wschodnich
@@ -180,7 +180,7 @@ const englishDescriptions: { [id: string]: JSX.Element } = {
   pensjonatus: (
     <>
       Not an actual real person. He's been in the business of tech content since
-      2008. Has worked as a writer, programmer, and DITA guy. A board member at{" "}
+      2008. Has worked as a writer, programmer, and DITA guy. A board member at{' '}
       <Link href="http://itcqf.org/">ITCQF</Link>, currently at Guidewire
       Software. Sometimes writes flash fiction, reads books or plays computer
       games. Is looking forward to the time when AI will take over so we can all
@@ -219,7 +219,7 @@ const englishDescriptions: { [id: string]: JSX.Element } = {
 };
 
 type AuthorListProps = {
-  language?: "Polish" | "English";
+  language?: 'Polish' | 'English';
 };
 
 export default function AuthorList({ language }: AuthorListProps) {
@@ -230,7 +230,7 @@ export default function AuthorList({ language }: AuthorListProps) {
       image_url: value.image_url,
       url: value.url,
       id: key,
-    }),
+    })
   );
 
   authorList.sort((a, b) => a.name.localeCompare(b.name));
@@ -240,13 +240,13 @@ export default function AuthorList({ language }: AuthorListProps) {
       {authorList
         .filter(
           (author) =>
-            englishDescriptions[author.id] && polishDescriptions[author.id],
+            englishDescriptions[author.id] && polishDescriptions[author.id]
         )
         .map((author: AuthorProps) => (
           <div key={author.name} className={styles.author}>
             <AuthorAvatar {...author} />
             <div>
-              {language && language === "English"
+              {language && language === 'English'
                 ? englishDescriptions[author.id]
                 : polishDescriptions[author.id]}
             </div>

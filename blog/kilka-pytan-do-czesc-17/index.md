@@ -1,13 +1,13 @@
 ---
-title: "Kilka pytań do - część 17"
+title: 'Kilka pytań do - część 17'
 authors: mojk
-date: "2019-02-19"
+date: '2019-02-19'
 tags:
-  - "warsztat"
-  - "wywiady"
-  - "spolecznosc"
-  - "wywiad"
-coverImage: "microphone-1172260_640.jpg"
+  - 'warsztat'
+  - 'wywiady'
+  - 'spolecznosc'
+  - 'wywiad'
+coverImage: 'microphone-1172260_640.jpg'
 ---
 
 Po dłuższej przerwie powracamy do cyklu "Kilka pytań do". Co więcej, ten wywiad

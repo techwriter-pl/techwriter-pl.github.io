@@ -1,15 +1,15 @@
 ---
-title: "KONFERENCJE 2023 - DRUGIE PÓŁROCZE"
+title: 'KONFERENCJE 2023 - DRUGIE PÓŁROCZE'
 authors: agnieszka
-date: "2023-06-01"
+date: '2023-06-01'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "kariera"
-  - "konferencje"
-  - "praca"
-  - "spolecznosc"
-coverImage: "Konferencje-202302.png"
+  - 'news'
+  - 'ze-swiata'
+  - 'kariera'
+  - 'konferencje'
+  - 'praca'
+  - 'spolecznosc'
+coverImage: 'Konferencje-202302.png'
 ---
 
 Zbliża się druga połowa roku, więc najwyższa pora, by przekazać Wam listę

@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer (Diebold Nixdorf)"
+title: 'Oferta pracy: Technical Writer (Diebold Nixdorf)'
 authors: mojk
-date: "2019-05-08"
+date: '2019-05-08'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "diebold_nixdorf_logo.jpeg"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'diebold_nixdorf_logo.jpeg'
 ---
 
 Dzisiaj mamy dla Was ciekawą propozycję z Górnego Śląska.

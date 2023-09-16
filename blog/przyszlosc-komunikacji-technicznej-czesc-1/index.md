@@ -1,13 +1,13 @@
 ---
-title: "Przyszłość komunikacji technicznej - część 1"
+title: 'Przyszłość komunikacji technicznej - część 1'
 authors: mojk
-date: "2014-07-15"
+date: '2014-07-15'
 tags:
-  - "news"
-  - "z-kraju"
-  - "ze-swiata"
-  - "kariera"
-coverImage: "fortune-teller-378w.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'ze-swiata'
+  - 'kariera'
+coverImage: 'fortune-teller-378w.jpg'
 ---
 
 Przeglądając wpisy na różnych blogach dotyczących komunikacji technicznej,

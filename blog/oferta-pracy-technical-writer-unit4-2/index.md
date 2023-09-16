@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer (Unit4)"
+title: 'Oferta pracy: Technical Writer (Unit4)'
 authors: mojk
-date: "2018-05-02"
+date: '2018-05-02'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "unit4-logo-250.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'unit4-logo-250.png'
 ---
 
 Dzisiaj serwujemy Wam ciekawą polsko-hiszpańską ofertę.

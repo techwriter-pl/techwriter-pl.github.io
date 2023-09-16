@@ -1,16 +1,16 @@
 ---
-title: "Konferencje 2018 - pierwsze półrocze"
+title: 'Konferencje 2018 - pierwsze półrocze'
 authors: agnieszka
-date: "2017-12-14"
+date: '2017-12-14'
 tags:
-  - "news"
-  - "z-kraju"
-  - "ze-swiata"
-  - "edukacja"
-  - "kariera"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "konferencje_2018_460.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'ze-swiata'
+  - 'edukacja'
+  - 'kariera'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'konferencje_2018_460.jpg'
 ---
 
 Nowy Rok coraz bliżej a wraz z nim całkiem sporo okazji, by wybrać się na
@@ -32,7 +32,7 @@ półrocze 2018 roku.
 online**
 
 26-27 stycznia, Santa Clara, Kalifornia, USA
- – [TCCamp](http://www.tccamp.org/ "TCCamp")
+ – [TCCamp](http://www.tccamp.org/ 'TCCamp')
 
 29-30 stycznia, Londyn, Wielka Brytania
 – [Agile Content Conf 2018](https://2018.agilecontentconf.com/)
@@ -135,7 +135,7 @@ Mid-Atlantic TechComm Conference)
 19-20 kwietnia, Bukareszt, Rumunia – [eLSE 2018](http://elseconference.eu/)
 
 23-25 kwietnia, Denver, Kolorado, USA
-– [CMS/DITA North America](https://cm-strategies.com/ "CM Strategies/DITA")
+– [CMS/DITA North America](https://cm-strategies.com/ 'CM Strategies/DITA')
 
 26-27 kwietnia, Limerick, Irlandia
 - [European Academic Colloquium 2018 on Technical Communication](https://www.teccom-frame.eu/index.php?id=152)

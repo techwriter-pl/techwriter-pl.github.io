@@ -1,13 +1,13 @@
 ---
-title: "Scrivener - opis narzędzia"
+title: 'Scrivener - opis narzędzia'
 authors: agnieszka
-date: "2015-11-03"
+date: '2015-11-03'
 tags:
-  - "narzedzia"
-  - "warsztat"
-  - "aplikacje"
-  - "technologie"
-coverImage: "scrivener.jpg"
+  - 'narzedzia'
+  - 'warsztat'
+  - 'aplikacje'
+  - 'technologie'
+coverImage: 'scrivener.jpg'
 ---
 
 Nasz zespół redakcyjny niestrudzenie poszukuje nowych narzędzi, które mogłyby
@@ -54,7 +54,7 @@ została zaprojektowana. Oto trzy, które nam wydają się najpoważniejsze.**
    odnośniki, notki, artykuły, grafiki itp. Owszem, można je trzymać w osobnym
    pliku, ale jest to niewygodne i prowadzi dość często do bałaganu. Można też
    użyć jakiejś innej aplikacji (jak np. opisywany przez nas
-   [WikidPad](http://techwriter.pl/wikidpad-opis-narzedzia/ "WikidPad – opis narzędzia")),
+   [WikidPad](http://techwriter.pl/wikidpad-opis-narzedzia/ 'WikidPad – opis narzędzia')),
    ale nie każdy lubi ciągle przełączać się pomiędzy dwoma programami, które
    posiadają różny interfejs i odmienną filozofię działania.
 2. Praca z naprawdę dużym, skomplikowanym tekstem - kiedy mamy do czynienia z
@@ -134,7 +134,7 @@ Klasyczny edytor (np. Word) zakłada, że długi dokument będziemy pisać tak s
 jakbyśmy pisali list albo notatkę. Zaczniemy od początku i klawisz za klawiszem
 będziemy zdążali do końca. Tymczasem dokumentację często tworzy się wyrywkowo,
 uzupełniając poszczególne rozdziały w miarę,
-[jak kolejni SME znajdują czas](http://techwriter.pl/kim-jest-sme/ "Kim jest Subject Matter Expert (SME) i jak z nim rozmawiać?"),
+[jak kolejni SME znajdują czas](http://techwriter.pl/kim-jest-sme/ 'Kim jest Subject Matter Expert (SME) i jak z nim rozmawiać?'),
 żeby nas oświecić. Tutaj w przypadku Worda szwankuje nawigacja. co prawda
 pozwala nam wygodnie przenieść się do rozdziału lub podrozdziału, ale
 odpowiednie paragrafy musimy znaleźć już sami. W Scrivenerze dla jednego

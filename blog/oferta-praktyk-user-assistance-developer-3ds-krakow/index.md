@@ -1,13 +1,13 @@
 ---
-title: "Oferta praktyk: User Assistance Developer (3ds) – Kraków"
+title: 'Oferta praktyk: User Assistance Developer (3ds) – Kraków'
 authors: admin
-date: "2019-12-13"
+date: '2019-12-13'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praktyki"
-coverImage: "dassault.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praktyki'
+coverImage: 'dassault.png'
 ---
 
 Kandydaci na techwriterów w Krakowie mogą wprost przebierać w ofertach. Dziś

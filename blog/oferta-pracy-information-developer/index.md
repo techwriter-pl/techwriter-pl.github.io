@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Information Developer"
+title: 'Oferta pracy: Information Developer'
 authors: mojk
-date: "2015-09-04"
+date: '2015-09-04'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "79479_ruxit.jpg"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: '79479_ruxit.jpg'
 ---
 
 Dzisiaj mamy dla Was coś z północy. Jeśli lubicie szum fal i wieczorne spacery

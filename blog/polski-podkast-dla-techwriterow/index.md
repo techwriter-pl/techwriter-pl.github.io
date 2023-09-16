@@ -1,11 +1,11 @@
 ---
-title: "Polski podkast dla techwriterów!"
+title: 'Polski podkast dla techwriterów!'
 authors: admin
-date: "2019-11-12"
+date: '2019-11-12'
 tags:
-  - "news"
-  - "z-kraju"
-coverImage: "podcast-e1573241469432.jpg"
+  - 'news'
+  - 'z-kraju'
+coverImage: 'podcast-e1573241469432.jpg'
 ---
 
 Z nieukrywaną przyjemnością informujemy o istnieniu kolejnego, bardzo

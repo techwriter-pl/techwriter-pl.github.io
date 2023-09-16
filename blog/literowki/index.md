@@ -1,13 +1,13 @@
 ---
-title: "Literówki"
+title: 'Literówki'
 authors: agnieszka
-date: "2015-05-19"
+date: '2015-05-19'
 tags:
-  - "dobre-praktyki"
-  - "warsztat"
-  - "jezyk"
-  - "praca"
-coverImage: "literowka.jpg"
+  - 'dobre-praktyki'
+  - 'warsztat'
+  - 'jezyk'
+  - 'praca'
+coverImage: 'literowka.jpg'
 ---
 
 Praca z tekstem nie jest tak prosta jak mogłoby się wydawać. Ciągle nowe
@@ -32,11 +32,11 @@ oczach ONA.
 **Literówka**.
 
 Jak podaje nasza
-ulubiona [Wikipedia](http://pl.wikipedia.org/wiki/Liter%C3%B3wka "Literówka"),
+ulubiona [Wikipedia](http://pl.wikipedia.org/wiki/Liter%C3%B3wka 'Literówka'),
 *literówka* jest błędem powstałym podczas pisania czy przepisywania tekstu na
 komputerze (dawniej maszynie do pisania). Wywodzi się ona z niegdysiejszego
 błędu w składzie tekstu
-([zecerstwo](http://pl.wikipedia.org/wiki/Zecerstwo "Zecerstwo")). Literówkami
+([zecerstwo](http://pl.wikipedia.org/wiki/Zecerstwo 'Zecerstwo')). Literówkami
 będą zatem powtórzenia, pominięcia znaków, wstawienie wielkiej litery zamiast
 małej, przestawienie kolejności znaków itp. Literówką nie będzie błąd wynikający
 z niewiedzy osoby zajmującej się tekstem. Należy tu wspomnieć o tak zwanym
@@ -46,15 +46,15 @@ przypadku zostaje zamieniona kolejność znaków, na przykład _nei_ zamiast _ni
 Zdawałoby się, że drobny błąd w tekście to nic takiego. Ot, każdemu się zdarza,
 wszak żaden człowiek nie jest nieomylny. Jednak co wtedy, gdy wraz z drobną
 pomyłką traci się
-[ogromne pieniądze](http://www.bbc.com/news/uk-wales-south-east-wales-30982277 "Spelling error")?
+[ogromne pieniądze](http://www.bbc.com/news/uk-wales-south-east-wales-30982277 'Spelling error')?
 Ból portfela i zaprzepaszczenie rodzinnego interesu z powodu jednej litery to
 dramat, który by nie powstał, gdyby nie literówka. Innym następstwem błędu może
 być [utrata pracy](http://infokolej.pl/download.php?id=2997%20- strata pracy
 przez literówkę "Literówka a zwolnienie"), co przytrafiło się naczelnikowi
 jednego z wydziałów PKP. Nagminne są przykłady błędów na
-[tablicach informacyjnych](http://warszawa.gazeta.pl/warszawa/1,34864,10888558,_Wyiscie__z_dworca__literowka_czy_kolejarska_nowomowa_.html "http://warszawa.gazeta.pl/warszawa/1,34864,10888558,_Wyiscie__z_dworca__literowka_czy_kolejarska_nowomowa_.html") (w
+[tablicach informacyjnych](http://warszawa.gazeta.pl/warszawa/1,34864,10888558,_Wyiscie__z_dworca__literowka_czy_kolejarska_nowomowa_.html 'http://warszawa.gazeta.pl/warszawa/1,34864,10888558,_Wyiscie__z_dworca__literowka_czy_kolejarska_nowomowa_.html') (w
 tym wypadku Dworzec Centralny w Warszawie) czy
-[reklamach sklepowych](http://deser.pl/deser/1,83453,5970268,Nadeslane__Smieszna_literowka_w_sklepie.html "Reklama").
+[reklamach sklepowych](http://deser.pl/deser/1,83453,5970268,Nadeslane__Smieszna_literowka_w_sklepie.html 'Reklama').
 Nawet mocny merytorycznie i ciekawie napisany tekst będzie sprawiał wrażenie
 nieprofesjonalnej dłubaniny jeśli będzie upstrzony literówkami.
 
@@ -94,9 +94,9 @@ obniża wartość nawet najciekawszego tekstu. Pamiętajmy o tym i dbajmy o to, 
 nasze dokumenty były bez zarzutu zarówno w formie, jak i treści.
 
 A na koniec zapraszamy do poczytania kilku zestawień na temat literówek -
-[tu](http://www.toptenz.net/top-10-typos.php "Top 10 typos"),
-[tu](http://grammar.yourdictionary.com/spelling-and-word-lists/misspelled.html "Common misspellings"),
-[tu](http://mentalfloss.com/article/49935/10-very-costly-typos "Very costyly typos"),
-[tu](http://www.cracked.com/article_18517_the-7-most-disastrous-typos-all-time.html "7 typos") oraz
-[tu](http://www.thewire.com/entertainment/2012/12/best-typos-mistakes-corrections-2012/59828/http://www.thewire.com/entertainment/2012/12/best-typos-mistakes-corrections-2012/59828/ "Best typos 0f 2012").
+[tu](http://www.toptenz.net/top-10-typos.php 'Top 10 typos'),
+[tu](http://grammar.yourdictionary.com/spelling-and-word-lists/misspelled.html 'Common misspellings'),
+[tu](http://mentalfloss.com/article/49935/10-very-costly-typos 'Very costyly typos'),
+[tu](http://www.cracked.com/article_18517_the-7-most-disastrous-typos-all-time.html '7 typos') oraz
+[tu](http://www.thewire.com/entertainment/2012/12/best-typos-mistakes-corrections-2012/59828/http://www.thewire.com/entertainment/2012/12/best-typos-mistakes-corrections-2012/59828/ 'Best typos 0f 2012').
 Miłej lektury!

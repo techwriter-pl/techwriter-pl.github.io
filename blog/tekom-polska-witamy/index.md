@@ -1,13 +1,13 @@
 ---
-title: "tekom Polska - witamy!"
+title: 'tekom Polska - witamy!'
 authors: admin
-date: "2014-07-01"
+date: '2014-07-01'
 tags:
-  - "news"
-  - "z-kraju"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "TekomRoadshow2014.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'TekomRoadshow2014.jpg'
 ---
 
 Stowarzyszenie tekom Europe e.V. wzbogaciło się o nową organizację krajową. Z

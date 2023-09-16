@@ -1,13 +1,13 @@
 ---
-title: "Konferencje 2015 - pierwsze półrocze"
+title: 'Konferencje 2015 - pierwsze półrocze'
 authors: mojk
-date: "2015-01-13"
+date: '2015-01-13'
 tags:
-  - "news"
-  - "z-kraju"
-  - "ze-swiata"
-  - "konferencje"
-coverImage: "meeting-83519_640.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'ze-swiata'
+  - 'konferencje'
+coverImage: 'meeting-83519_640.jpg'
 ---
 
 Nowy rok przynosi nam nowe ciekawe wydarzenia związane z komunikacją techniczną.

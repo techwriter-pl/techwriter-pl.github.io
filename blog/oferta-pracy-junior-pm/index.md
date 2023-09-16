@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Junior PM"
+title: 'Oferta pracy: Junior PM'
 authors: pensjonatus
-date: "2017-09-11"
+date: '2017-09-11'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "3di_logo.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: '3di_logo.png'
 ---
 
 Wakacje dobiegają końca, a może ktoś myśli o zmianie pracy? Tym razem ogłoszenie

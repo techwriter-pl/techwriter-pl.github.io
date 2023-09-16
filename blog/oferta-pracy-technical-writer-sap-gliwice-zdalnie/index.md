@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer (SAP) – Gliwice/Zdalnie"
+title: 'Oferta pracy: Technical Writer (SAP) – Gliwice/Zdalnie'
 authors: admin
-date: "2021-07-21"
+date: '2021-07-21'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "SAP_logo.jpg"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'SAP_logo.jpg'
 ---
 
 Największa firma software'owa w Europie poszukuje techwritera. Praca z biura w

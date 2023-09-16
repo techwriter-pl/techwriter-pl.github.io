@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer (zdalnie)"
+title: 'Oferta pracy: Technical Writer (zdalnie)'
 authors: mojk
-date: "2016-09-13"
+date: '2016-09-13'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "twi-master-logo-small.jpg"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'twi-master-logo-small.jpg'
 ---
 
 Dzisiaj mamy dla Was trochę nietypową ofertę pracy.

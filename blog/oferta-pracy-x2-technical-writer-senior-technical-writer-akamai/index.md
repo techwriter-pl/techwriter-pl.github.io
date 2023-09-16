@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy x2: Technical Writer, Senior Technical Writer (Akamai)"
+title: 'Oferta pracy x2: Technical Writer, Senior Technical Writer (Akamai)'
 authors: mojk
-date: "2019-03-20"
+date: '2019-03-20'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "Akamai-Logo-Color.jpg"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'Akamai-Logo-Color.jpg'
 ---
 
 Dwie ciekawe oferty z Małopolski.

@@ -1,10 +1,10 @@
 ---
-title: "Jak ten czas leci..."
+title: 'Jak ten czas leci...'
 authors: admin
-date: "2015-12-23"
+date: '2015-12-23'
 tags:
-  - "news"
-coverImage: "swieta_yoda.jpg"
+  - 'news'
+coverImage: 'swieta_yoda.jpg'
 ---
 
 To już trzecie święta naszej strony. W tym wieku wypada jeszcze wierzyć w

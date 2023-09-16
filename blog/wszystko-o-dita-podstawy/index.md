@@ -1,16 +1,16 @@
 ---
-title: "Wszystko o DITA – Podstawy (2)"
+title: 'Wszystko o DITA – Podstawy (2)'
 authors: pensjonatus
-date: "2016-05-04"
+date: '2016-05-04'
 tags:
-  - "dobre-praktyki"
-  - "narzedzia"
-  - "warsztat"
-  - "dita"
-  - "manuale"
-  - "on-line-help"
-  - "pomoc-uzytkownika"
-coverImage: "Darwin.png"
+  - 'dobre-praktyki'
+  - 'narzedzia'
+  - 'warsztat'
+  - 'dita'
+  - 'manuale'
+  - 'on-line-help'
+  - 'pomoc-uzytkownika'
+coverImage: 'Darwin.png'
 ---
 
 W sieci można natknąć się na całkiem sporo materiałów dotyczących DITA, jednak

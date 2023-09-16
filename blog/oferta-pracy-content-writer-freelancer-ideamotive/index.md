@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Content Writer Freelancer (Ideamotive)"
+title: 'Oferta pracy: Content Writer Freelancer (Ideamotive)'
 authors: mojk
-date: "2018-11-27"
+date: '2018-11-27'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "im_logo_dark_bigger.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'im_logo_dark_bigger.png'
 ---
 
 Dzisiaj mamy ciekawą ofertę dla osób z zacięciem dziennikarskim.

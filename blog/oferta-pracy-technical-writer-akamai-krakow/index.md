@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer (Akamai) – Kraków"
+title: 'Oferta pracy: Technical Writer (Akamai) – Kraków'
 authors: admin
-date: "2020-03-25"
+date: '2020-03-25'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "Akamai_logo_big.jpg"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'Akamai_logo_big.jpg'
 ---
 
 W dzisiejszych czasach trudniej znaleźć firmę od której więcej zależy.

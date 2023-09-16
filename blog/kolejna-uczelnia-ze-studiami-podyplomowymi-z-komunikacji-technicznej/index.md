@@ -1,14 +1,14 @@
 ---
-title: "Kolejna uczelnia ze studiami podyplomowymi z komunikacji technicznej"
+title: 'Kolejna uczelnia ze studiami podyplomowymi z komunikacji technicznej'
 authors: mojk
-date: "2017-02-06"
+date: '2017-02-06'
 tags:
-  - "news"
-  - "z-kraju"
-  - "edukacja"
-  - "kariera"
-  - "szkolenia"
-coverImage: "wsh_logo_podstawowe_rgb.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'edukacja'
+  - 'kariera'
+  - 'szkolenia'
+coverImage: 'wsh_logo_podstawowe_rgb.jpg'
 ---
 
 W zeszłym roku informowaliśmy Was o tym, że warszawska

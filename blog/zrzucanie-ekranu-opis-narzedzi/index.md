@@ -1,15 +1,15 @@
 ---
-title: "“Zrzucanie” ekranu - opis narzędzi"
+title: '“Zrzucanie” ekranu - opis narzędzi'
 authors: admin
-date: "2014-02-10"
+date: '2014-02-10'
 tags:
-  - "narzedzia"
-  - "warsztat"
-  - "grafika"
-  - "instrukcje"
-  - "on-line-help"
-  - "pomoc-uzytkownika"
-coverImage: "Screenshot.jpeg"
+  - 'narzedzia'
+  - 'warsztat'
+  - 'grafika'
+  - 'instrukcje'
+  - 'on-line-help'
+  - 'pomoc-uzytkownika'
+coverImage: 'Screenshot.jpeg'
 ---
 
 Jeden obraz wart jest tysiąc słów, jeden skrinszot - tysiąc strzałów w monitor

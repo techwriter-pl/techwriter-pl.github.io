@@ -1,16 +1,16 @@
 ---
-title: "Korekta w tempie Pendolino"
+title: 'Korekta w tempie Pendolino'
 authors: mojk
-date: "2014-10-24"
+date: '2014-10-24'
 tags:
-  - "dobre-praktyki"
-  - "warsztat"
-  - "instrukcje"
-  - "manuale"
-  - "pomoc-uzytkownika"
-  - "praca"
-  - "procedury"
-coverImage: "keepcalmproofread.jpg"
+  - 'dobre-praktyki'
+  - 'warsztat'
+  - 'instrukcje'
+  - 'manuale'
+  - 'pomoc-uzytkownika'
+  - 'praca'
+  - 'procedury'
+coverImage: 'keepcalmproofread.jpg'
 ---
 
 Termin oddania projektu coraz bliżej, a nasza dokumentacja nie przeszła jeszcze

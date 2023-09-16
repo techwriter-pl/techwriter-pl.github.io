@@ -1,18 +1,18 @@
 ---
-title: "Tech Writer koduje - odcinek 28 i 29"
+title: 'Tech Writer koduje - odcinek 28 i 29'
 authors: agnieszka
-date: "2021-04-22"
+date: '2021-04-22'
 tags:
-  - "dobre-praktyki"
-  - "narzedzia"
-  - "przyklady"
-  - "warsztat"
-  - "aplikacje"
-  - "dokumentacja"
-  - "podcast"
-  - "praktyki"
-  - "technologie"
-coverImage: "tw_koduje_2829.png"
+  - 'dobre-praktyki'
+  - 'narzedzia'
+  - 'przyklady'
+  - 'warsztat'
+  - 'aplikacje'
+  - 'dokumentacja'
+  - 'podcast'
+  - 'praktyki'
+  - 'technologie'
+coverImage: 'tw_koduje_2829.png'
 ---
 
 W najnowszych odcinkach podcastu

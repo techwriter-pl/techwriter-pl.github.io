@@ -1,15 +1,15 @@
 ---
-title: "Konferencja soap! 2018 - relacja"
+title: 'Konferencja soap! 2018 - relacja'
 authors: mojk
-date: "2018-06-20"
+date: '2018-06-20'
 tags:
-  - "news"
-  - "z-kraju"
-  - "edukacja"
-  - "kariera"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "IMG_20180525_103253.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'edukacja'
+  - 'kariera'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'IMG_20180525_103253.jpg'
 ---
 
 W dniach 23-25 maja w Muzeum Sztuki Japońskiej Manggha w Krakowie odbyła się już

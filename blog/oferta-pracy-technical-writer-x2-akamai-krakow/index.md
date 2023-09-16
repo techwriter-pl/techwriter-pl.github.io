@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer x2 (Akamai) - Kraków"
+title: 'Oferta pracy: Technical Writer x2 (Akamai) - Kraków'
 authors: admin
-date: "2019-09-23"
+date: '2019-09-23'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "Akamai_Logo.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'Akamai_Logo.png'
 ---
 
 W krakowskim oddziale Akamai trwają poszukiwania - potrzeba aż dwóch

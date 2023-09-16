@@ -1,16 +1,16 @@
 ---
-title: "Season of Docs 2023 - ruszył nabór do kolejnej edycji"
+title: 'Season of Docs 2023 - ruszył nabór do kolejnej edycji'
 authors: agnieszka
-date: "2023-01-26"
+date: '2023-01-26'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "dokumentacja"
-  - "edukacja"
-  - "kariera"
-  - "praca"
-  - "praktyki"
-coverImage: "season_of_docs_2023.png"
+  - 'news'
+  - 'ze-swiata'
+  - 'dokumentacja'
+  - 'edukacja'
+  - 'kariera'
+  - 'praca'
+  - 'praktyki'
+coverImage: 'season_of_docs_2023.png'
 ---
 
 Ruszyła kolejna edycja inicjatywy Google Season of Docs, której celem jest

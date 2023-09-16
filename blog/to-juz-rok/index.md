@@ -1,18 +1,18 @@
 ---
-title: "To już rok!"
+title: 'To już rok!'
 authors: admin
-date: "2014-09-17"
+date: '2014-09-17'
 tags:
-  - "news"
-  - "z-kraju"
-  - "edukacja"
-  - "humor"
-  - "infografiki"
-  - "kariera"
-  - "praca"
-  - "spolecznosc"
-  - "szkolenia"
-coverImage: "happy_birthday1.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'edukacja'
+  - 'humor'
+  - 'infografiki'
+  - 'kariera'
+  - 'praca'
+  - 'spolecznosc'
+  - 'szkolenia'
+coverImage: 'happy_birthday1.jpg'
 ---
 
 **Dziś są pierwsze urodziny techwriter.pl.** Uwierzycie? Wzruszenie odbiera nam

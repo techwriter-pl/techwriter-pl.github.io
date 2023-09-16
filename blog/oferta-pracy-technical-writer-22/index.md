@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer"
+title: 'Oferta pracy: Technical Writer'
 authors: admin
-date: "2017-04-10"
+date: '2017-04-10'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "Dev_logo.jpg"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'Dev_logo.jpg'
 ---
 
 Jedna firma poprosiła drugą firmę o pomoc w zatrudnieniu doświadczonego

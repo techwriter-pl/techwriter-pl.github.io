@@ -1,13 +1,13 @@
 ---
-title: "Konferencja soap! 2016 - podsumowanie"
+title: 'Konferencja soap! 2016 - podsumowanie'
 authors: admin
-date: "2016-06-22"
+date: '2016-06-22'
 tags:
-  - "news"
-  - "z-kraju"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "soapconf2016_techwriterpl-1.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'soapconf2016_techwriterpl-1.jpg'
 ---
 
 Kolejna edycja krakowskiej konferencji [soap!](http://soapconf.com/) już za

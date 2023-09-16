@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Intern Technical Writer"
+title: 'Oferta pracy: Intern Technical Writer'
 authors: mojk
-date: "2016-10-27"
+date: '2016-10-27'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "unit4-logo-250.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'unit4-logo-250.png'
 ---
 
 Kolejna szansa na rozpoczęcie kariery w komunikacji technicznej.

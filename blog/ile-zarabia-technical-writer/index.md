@@ -1,14 +1,14 @@
 ---
-title: "Ile zarabia technical writer?"
+title: 'Ile zarabia technical writer?'
 authors: admin
-date: "2013-10-13"
+date: '2013-10-13'
 tags:
-  - "news"
-  - "z-kraju"
-  - "ze-swiata"
-  - "kariera"
-  - "praca"
-coverImage: "pieniadze.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'ze-swiata'
+  - 'kariera'
+  - 'praca'
+coverImage: 'pieniadze.jpg'
 ---
 
 I dlaczego tak mało? Na drugie pytanie nie ma łatwej odpowiedzi, ale

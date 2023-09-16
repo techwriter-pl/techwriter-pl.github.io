@@ -1,17 +1,17 @@
 ---
-title: "Pomoc w aplikacjach mobilnych"
+title: 'Pomoc w aplikacjach mobilnych'
 authors: admin
-date: "2014-01-28"
+date: '2014-01-28'
 tags:
-  - "przyklady"
-  - "warsztat"
-  - "manuale"
-  - "on-line-help"
-  - "pomoc-uzytkownika"
-  - "praca"
-  - "technologie"
-  - "urzadzenia-mobilne"
-coverImage: "MobileHelp.jpg"
+  - 'przyklady'
+  - 'warsztat'
+  - 'manuale'
+  - 'on-line-help'
+  - 'pomoc-uzytkownika'
+  - 'praca'
+  - 'technologie'
+  - 'urzadzenia-mobilne'
+coverImage: 'MobileHelp.jpg'
 ---
 
 Czym zajmują się technical writerzy? Tworzą m.in. mobile application helps. A

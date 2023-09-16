@@ -1,16 +1,16 @@
 ---
-title: "Konferencje 2020 - pierwsze półrocze"
+title: 'Konferencje 2020 - pierwsze półrocze'
 authors: agnieszka
-date: "2020-05-21"
+date: '2020-05-21'
 tags:
-  - "news"
-  - "z-kraju"
-  - "ze-swiata"
-  - "edukacja"
-  - "kariera"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "Add-a-subheading-e1582711517143.png"
+  - 'news'
+  - 'z-kraju'
+  - 'ze-swiata'
+  - 'edukacja'
+  - 'kariera'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'Add-a-subheading-e1582711517143.png'
 ---
 
 Po dłuższej przerwie wracamy do cyklicznego zestawienia konferencji branżowych.

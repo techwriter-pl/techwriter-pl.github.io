@@ -1,16 +1,16 @@
 ---
-title: "soap! MeetContent po raz drugi - relacja"
+title: 'soap! MeetContent po raz drugi - relacja'
 authors: mojk
-date: "2017-01-17"
+date: '2017-01-17'
 tags:
-  - "news"
-  - "z-kraju"
-  - "edukacja"
-  - "kariera"
-  - "konferencje"
-  - "spolecznosc"
-  - "treningi"
-coverImage: "uxwriting.png"
+  - 'news'
+  - 'z-kraju'
+  - 'edukacja'
+  - 'kariera'
+  - 'konferencje'
+  - 'spolecznosc'
+  - 'treningi'
+coverImage: 'uxwriting.png'
 ---
 
 10 stycznia 2017 odbyło się kolejne spotkanie branżowe organizowane pod szyldem

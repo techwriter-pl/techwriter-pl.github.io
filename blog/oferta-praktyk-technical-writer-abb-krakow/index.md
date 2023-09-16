@@ -1,13 +1,13 @@
 ---
-title: "Oferta praktyk: Technical Writer (ABB) - Kraków"
+title: 'Oferta praktyk: Technical Writer (ABB) - Kraków'
 authors: admin
-date: "2019-12-12"
+date: '2019-12-12'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praktyki"
-coverImage: "ABB-logo.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praktyki'
+coverImage: 'ABB-logo.png'
 ---
 
 Tym razem mamy dla Was szansę na wejście do zawodu pod okiem doświadczonych

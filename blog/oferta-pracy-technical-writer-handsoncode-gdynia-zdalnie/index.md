@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer (Handsontable) - Gdynia/zdalnie"
+title: 'Oferta pracy: Technical Writer (Handsontable) - Gdynia/zdalnie'
 authors: admin
-date: "2021-01-26"
+date: '2021-01-26'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "Oferta_handsontable.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'Oferta_handsontable.png'
 ---
 
 Wszystkie ręce na... stół 😊 Poszukiwany utalentowany techwriter!

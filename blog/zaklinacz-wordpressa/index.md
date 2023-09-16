@@ -1,14 +1,14 @@
 ---
-title: "Zaklinacz WordPressa"
+title: 'Zaklinacz WordPressa'
 authors: mojk
-date: "2015-03-11"
+date: '2015-03-11'
 tags:
-  - "narzedzia"
-  - "warsztat"
-  - "aplikacje"
-  - "manuale"
-  - "on-line-help"
-coverImage: "hprlogo.png"
+  - 'narzedzia'
+  - 'warsztat'
+  - 'aplikacje'
+  - 'manuale'
+  - 'on-line-help'
+coverImage: 'hprlogo.png'
 ---
 
 [Helpinator](http://www.helpinator.com/) to nie żaden krewny

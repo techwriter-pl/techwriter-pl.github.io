@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer (SpyroSoft)"
+title: 'Oferta pracy: Technical Writer (SpyroSoft)'
 authors: mojk
-date: "2018-05-24"
+date: '2018-05-24'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "spyro_logo_cmyk-01.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'spyro_logo_cmyk-01.png'
 ---
 
 Firma [SpyroSoft](http://www.spyro-soft.com/pl/start/), zajmująca się

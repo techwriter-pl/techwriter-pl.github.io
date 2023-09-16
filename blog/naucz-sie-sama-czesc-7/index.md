@@ -1,15 +1,15 @@
 ---
-title: "Naucz się sam(a) – część 7"
+title: 'Naucz się sam(a) – część 7'
 authors: mojk
-date: "2016-09-01"
+date: '2016-09-01'
 tags:
-  - "dobre-praktyki"
-  - "przyklady"
-  - "warsztat"
-  - "edukacja"
-  - "kariera"
-  - "literatura"
-coverImage: "reading-filtered.jpg"
+  - 'dobre-praktyki'
+  - 'przyklady'
+  - 'warsztat'
+  - 'edukacja'
+  - 'kariera'
+  - 'literatura'
+coverImage: 'reading-filtered.jpg'
 ---
 
 W dzisiejszym odcinku naszej serii, prezentującej materiały do poszerzania

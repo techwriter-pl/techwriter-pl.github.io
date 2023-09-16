@@ -1,11 +1,11 @@
 ---
-title: "Kilka pytań do - część 9"
+title: 'Kilka pytań do - część 9'
 authors: agnieszka
-date: "2016-06-30"
+date: '2016-06-30'
 tags:
-  - "warsztat"
-  - "wywiady"
-coverImage: "graphic.png"
+  - 'warsztat'
+  - 'wywiady'
+coverImage: 'graphic.png'
 ---
 
 Jeśli ktoś śledzi cykl "Kilka pytań do...", zapewne zauważył, że najbardziej

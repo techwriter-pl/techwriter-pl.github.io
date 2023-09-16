@@ -1,17 +1,17 @@
 ---
-title: "Wszystko o DITA – Strategia (3)"
+title: 'Wszystko o DITA – Strategia (3)'
 authors: pensjonatus
-date: "2016-06-08"
+date: '2016-06-08'
 tags:
-  - "dobre-praktyki"
-  - "narzedzia"
-  - "warsztat"
-  - "dita"
-  - "manuale"
-  - "on-line-help"
-  - "pomoc-uzytkownika"
-  - "technologie"
-coverImage: "wszystko-o-dita-strategia.jpg"
+  - 'dobre-praktyki'
+  - 'narzedzia'
+  - 'warsztat'
+  - 'dita'
+  - 'manuale'
+  - 'on-line-help'
+  - 'pomoc-uzytkownika'
+  - 'technologie'
+coverImage: 'wszystko-o-dita-strategia.jpg'
 ---
 
 W sieci można natknąć się na całkiem sporo materiałów dotyczących DITA, jednak

@@ -1,14 +1,14 @@
 ---
-title: "Technical Writer - człowiek renesansu"
+title: 'Technical Writer - człowiek renesansu'
 authors: mojk
-date: "2016-04-21"
+date: '2016-04-21'
 tags:
-  - "dobre-praktyki"
-  - "przyklady"
-  - "warsztat"
-  - "instrukcje"
-  - "manuale"
-coverImage: "man_sitting_with_book-e1461134779202.png"
+  - 'dobre-praktyki'
+  - 'przyklady'
+  - 'warsztat'
+  - 'instrukcje'
+  - 'manuale'
+coverImage: 'man_sitting_with_book-e1461134779202.png'
 ---
 
 Ludzie dzielą się na tych, którzy są Tech Writerami i na tych, którzy nimi nie

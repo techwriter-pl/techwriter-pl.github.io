@@ -1,19 +1,19 @@
 ---
-title: "Od anglisty do dokumentalisty"
+title: 'Od anglisty do dokumentalisty'
 authors: agnieszka
-date: "2023-03-02"
+date: '2023-03-02'
 tags:
-  - "przyklady"
-  - "warsztat"
-  - "dokumentacja"
-  - "edukacja"
-  - "jezyk"
-  - "kariera"
-  - "praca"
-  - "spolecznosc"
-  - "studia"
-  - "tlumaczenia"
-coverImage: "Od-anglisty-do-dokumentalisty.png"
+  - 'przyklady'
+  - 'warsztat'
+  - 'dokumentacja'
+  - 'edukacja'
+  - 'jezyk'
+  - 'kariera'
+  - 'praca'
+  - 'spolecznosc'
+  - 'studia'
+  - 'tlumaczenia'
+coverImage: 'Od-anglisty-do-dokumentalisty.png'
 ---
 
 ...czyli o tym, jak tłumacze wchodzą w buty tech writerów.

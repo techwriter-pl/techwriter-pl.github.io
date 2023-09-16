@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Content Specialist (LiveChat)"
+title: 'Oferta pracy: Technical Content Specialist (LiveChat)'
 authors: mojk
-date: "2019-01-04"
+date: '2019-01-04'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "livechat_logo.jpg"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'livechat_logo.jpg'
 ---
 
 Nowy rok dopiero wystartował, a już mamy dla Was kolejną ofertę pracy.

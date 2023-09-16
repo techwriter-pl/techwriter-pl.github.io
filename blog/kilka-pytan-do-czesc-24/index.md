@@ -1,15 +1,15 @@
 ---
-title: "Kilka pytań do - część 24"
+title: 'Kilka pytań do - część 24'
 authors: agnieszka
-date: "2021-10-06"
+date: '2021-10-06'
 tags:
-  - "warsztat"
-  - "wywiady"
-  - "kariera"
-  - "praca"
-  - "spolecznosc"
-  - "wywiad"
-coverImage: "Kilka-pytan-do_24.png"
+  - 'warsztat'
+  - 'wywiady'
+  - 'kariera'
+  - 'praca'
+  - 'spolecznosc'
+  - 'wywiad'
+coverImage: 'Kilka-pytan-do_24.png'
 ---
 
 Po dość długiej przerwie wracamy do cyklu: _Kilka pytań do_. Tym razem poznacie

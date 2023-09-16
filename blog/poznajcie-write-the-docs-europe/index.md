@@ -1,13 +1,13 @@
 ---
-title: "Poznajcie Write the Docs Europe"
+title: 'Poznajcie Write the Docs Europe'
 authors: agnieszka
-date: "2016-05-31"
+date: '2016-05-31'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "WRITE-the-DOCS-EUROPE-2016_tw.jpg"
+  - 'news'
+  - 'ze-swiata'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'WRITE-the-DOCS-EUROPE-2016_tw.jpg'
 ---
 
 Write the Docs - piszcie dokumenty. To nie tylko hasło zagrzewające do

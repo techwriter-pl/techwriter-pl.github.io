@@ -1,14 +1,14 @@
 ---
-title: "Kilka pytań do - część 29"
+title: 'Kilka pytań do - część 29'
 authors: agnieszka
-date: "2023-02-22"
+date: '2023-02-22'
 tags:
-  - "warsztat"
-  - "wywiady"
-  - "kariera"
-  - "praca"
-  - "wywiad"
-coverImage: "wywiad_29.png"
+  - 'warsztat'
+  - 'wywiady'
+  - 'kariera'
+  - 'praca'
+  - 'wywiad'
+coverImage: 'wywiad_29.png'
 ---
 
 W ramach naszego znanego i lubianego cyklu "Kilka pytań do..." rozmawiamy dziś z

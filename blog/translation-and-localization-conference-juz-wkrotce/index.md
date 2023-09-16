@@ -1,16 +1,16 @@
 ---
-title: "Translation and Localization Conference już wkrótce"
+title: 'Translation and Localization Conference już wkrótce'
 authors: agnieszka
-date: "2019-02-08"
+date: '2019-02-08'
 tags:
-  - "news"
-  - "z-kraju"
-  - "kariera"
-  - "konferencje"
-  - "lokalizacja"
-  - "spolecznosc"
-  - "tlumaczenia"
-coverImage: "39900050_1528970823874429_28095296638550016_o.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'kariera'
+  - 'konferencje'
+  - 'lokalizacja'
+  - 'spolecznosc'
+  - 'tlumaczenia'
+coverImage: '39900050_1528970823874429_28095296638550016_o.jpg'
 ---
 
 Z wielką radością zapraszamy Was na

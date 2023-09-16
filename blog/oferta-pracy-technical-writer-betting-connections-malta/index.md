@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer (Betting Connections, Malta)"
+title: 'Oferta pracy: Technical Writer (Betting Connections, Malta)'
 authors: mojk
-date: "2019-02-27"
+date: '2019-02-27'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "BC-Logo.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'BC-Logo.png'
 ---
 
 Nietuzinkowa oferta z zagranicy.

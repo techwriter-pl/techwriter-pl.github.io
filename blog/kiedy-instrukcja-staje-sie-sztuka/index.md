@@ -1,13 +1,13 @@
 ---
-title: "Kiedy instrukcja staje się sztuką"
+title: 'Kiedy instrukcja staje się sztuką'
 authors: szablowska
-date: "2014-02-25"
+date: '2014-02-25'
 tags:
-  - "news"
-  - "dobre-praktyki"
-  - "warsztat"
-  - "instrukcje"
-coverImage: "origami.jpg"
+  - 'news'
+  - 'dobre-praktyki'
+  - 'warsztat'
+  - 'instrukcje'
+coverImage: 'origami.jpg'
 ---
 
 Na moich pierwszych zajęciach Technical Writing na studiach, wykładowca
@@ -37,7 +37,7 @@ kartkę, włożyć do środka, przytrzymać palcami etc.). Te symbole stanowią
 najważniejsze "słowa" każdej takiej instrukcji.
 
 Pierwsza z moich
-[książek](http://www.origami.art.pl/masakatsu-yoshida-origami "Origami") i
+[książek](http://www.origami.art.pl/masakatsu-yoshida-origami 'Origami') i
 zarazem najstarsza (wydana w 1989 roku) posiada tylko schematy obrazkowe. Każdy
 model ma swoją nazwę, ale żadna z instrukcji nie zawiera słów. Kolejna zawiera
 już okazjonalne słowne objaśnienia w miejscach, które wydają się być trudniejsze
@@ -49,7 +49,7 @@ ostatniej książce połowa instrukcji to obrazek, a połowa objaśnienia słown
 Nie zamierzamy tutaj analizować, które z tych instrukcji są najskuteczniejsze,
 które najlepiej odpowiadają oryginalnemu sposobowi składania papieru, które
 najbardziej działają na wyobraźnię, a które są
-[niedokładne](https://origamiusa.org/thefold/article/all-thats-wrong-world-origami-publishing "Origami")
+[niedokładne](https://origamiusa.org/thefold/article/all-thats-wrong-world-origami-publishing 'Origami')
 i prezentują złe podejście do odbiorcy. To, co nas najbardziej tutaj ciekawi to
 fakt, że te instrukcje stanowią tak integralną część samego "produktu". Nie
 odkłada się ich na dno pudełka, jak po złożeniu mebla, nie ukrywa pod jednym

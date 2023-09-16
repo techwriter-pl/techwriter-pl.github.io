@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: UI Designer (Caspio)"
+title: 'Oferta pracy: UI Designer (Caspio)'
 authors: mojk
-date: "2018-09-24"
+date: '2018-09-24'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "caspio-logo.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'caspio-logo.png'
 ---
 
 Mogło umknąć Waszej uwadze, że w 2017 roku na krakowskim rynku pojawiła się

@@ -1,18 +1,18 @@
 ---
-title: "Dokumentacja techniczna dla daltonistów"
+title: 'Dokumentacja techniczna dla daltonistów'
 authors: toporek
-date: "2021-03-08"
+date: '2021-03-08'
 tags:
-  - "dobre-praktyki"
-  - "narzedzia"
-  - "przyklady"
-  - "dokumentacja"
-  - "dostepnosc"
-  - "edukacja"
-  - "grafika"
-  - "instrukcje"
-  - "uzytecznosc"
-coverImage: "1.1.jpg"
+  - 'dobre-praktyki'
+  - 'narzedzia'
+  - 'przyklady'
+  - 'dokumentacja'
+  - 'dostepnosc'
+  - 'edukacja'
+  - 'grafika'
+  - 'instrukcje'
+  - 'uzytecznosc'
+coverImage: '1.1.jpg'
 ---
 
 Dokumentacja techniczna powinna być dostępna dla każdego. Ale czy to oznacza, że

@@ -1,13 +1,13 @@
 ---
-title: "Oferta Pracy: Technical Writer for Software Documentation"
+title: 'Oferta Pracy: Technical Writer for Software Documentation'
 authors: pensjonatus
-date: "2016-09-28"
+date: '2016-09-28'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "mapp-cover.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'mapp-cover.png'
 ---
 
 Pracodawcy w Krakowie wciąż poszukują Technical Writerów.

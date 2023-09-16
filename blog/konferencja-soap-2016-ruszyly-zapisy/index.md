@@ -1,13 +1,13 @@
 ---
-title: "Konferencja soap! 2016 - ruszyły zapisy"
+title: 'Konferencja soap! 2016 - ruszyły zapisy'
 authors: mojk
-date: "2016-02-18"
+date: '2016-02-18'
 tags:
-  - "news"
-  - "z-kraju"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "soap2015.png"
+  - 'news'
+  - 'z-kraju'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'soap2015.png'
 ---
 
 Miło nam poinformować, że rozpoczęły się zapisy na konferencję soap! 2016.

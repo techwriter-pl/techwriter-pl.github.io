@@ -1,13 +1,13 @@
 ---
-title: "Kilka pytań do - część 15"
+title: 'Kilka pytań do - część 15'
 authors: mojk
-date: "2017-11-09"
+date: '2017-11-09'
 tags:
-  - "warsztat"
-  - "wywiady"
-  - "spolecznosc"
-  - "wywiad"
-coverImage: "nik-macmillan-280300.jpg"
+  - 'warsztat'
+  - 'wywiady'
+  - 'spolecznosc'
+  - 'wywiad'
+coverImage: 'nik-macmillan-280300.jpg'
 ---
 
 W kolejnej odsłonie naszego cyklu gościmy Tomka Prusa, jednego ze starych

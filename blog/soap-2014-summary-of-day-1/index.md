@@ -1,13 +1,13 @@
 ---
-title: "soap! 2014 - summary of day 1"
+title: 'soap! 2014 - summary of day 1'
 authors: mojk
-date: "2014-11-18"
+date: '2014-11-18'
 tags:
-  - "news"
-  - "z-kraju"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "soap.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'soap.jpg'
 ---
 
 Our soapy friends were kind enough to prepare an English version of

@@ -1,13 +1,13 @@
 ---
-title: "Langłydż - part najn"
+title: 'Langłydż - part najn'
 authors: admin
-date: "2014-09-26"
+date: '2014-09-26'
 tags:
-  - "warsztat"
-  - "z-przymruzeniem-oka"
-  - "humor"
-  - "jezyk"
-coverImage: "kontent.jpg"
+  - 'warsztat'
+  - 'z-przymruzeniem-oka'
+  - 'humor'
+  - 'jezyk'
+coverImage: 'kontent.jpg'
 ---
 
 Część dziewiąta naszego słownika ukontentuje każdego techwritera. Właściwie cały

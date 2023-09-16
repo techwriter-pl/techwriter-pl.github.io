@@ -1,12 +1,12 @@
 ---
-title: "Konferencja soap! 2019 - (wideo)relacja"
+title: 'Konferencja soap! 2019 - (wideo)relacja'
 authors: admin
-date: "2019-11-03"
+date: '2019-11-03'
 tags:
-  - "news"
-  - "z-kraju"
-  - "konferencje"
-coverImage: "soap-e1563527191399.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'konferencje'
+coverImage: 'soap-e1563527191399.jpg'
 ---
 
 Jeśli nie byliście na tegorocznym soap! to przeczytajcie jak było. Jeśli

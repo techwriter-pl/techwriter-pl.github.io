@@ -1,15 +1,15 @@
 ---
-title: "Write the Docs Prague już wkrótce"
+title: 'Write the Docs Prague już wkrótce'
 authors: agnieszka
-date: "2017-08-22"
+date: '2017-08-22'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "edukacja"
-  - "kariera"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "WriteTheDocsPrague-e1501772951385.jpg"
+  - 'news'
+  - 'ze-swiata'
+  - 'edukacja'
+  - 'kariera'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'WriteTheDocsPrague-e1501772951385.jpg'
 ---
 
 Write the Docs Prague już tuż tuż! Zapominalskim przypominamy, że zostało

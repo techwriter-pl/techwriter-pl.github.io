@@ -1,12 +1,12 @@
 ---
-title: "STC Summit 2014 - podsumowanie"
+title: 'STC Summit 2014 - podsumowanie'
 authors: admin
-date: "2014-05-30"
+date: '2014-05-30'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "konferencje"
-coverImage: "STCSummit.jpg"
+  - 'news'
+  - 'ze-swiata'
+  - 'konferencje'
+coverImage: 'STCSummit.jpg'
 ---
 
 Jeżeli nie macie jeszcze planów na weekend to zachęcamy Was do sprawdzenia co

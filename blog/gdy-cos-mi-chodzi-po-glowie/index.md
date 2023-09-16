@@ -1,13 +1,13 @@
 ---
-title: "Gdy coś mi chodzi po głowie"
+title: 'Gdy coś mi chodzi po głowie'
 authors: agnieszka
-date: "2016-01-26"
+date: '2016-01-26'
 tags:
-  - "narzedzia"
-  - "warsztat"
-  - "aplikacje"
-  - "technologie"
-coverImage: "sc_mm.jpg"
+  - 'narzedzia'
+  - 'warsztat'
+  - 'aplikacje'
+  - 'technologie'
+coverImage: 'sc_mm.jpg'
 ---
 
 Znacie to uczucie, gdy w Waszym umyśle formuje się ogólny zarys jakiegoś tekstu,

@@ -1,16 +1,16 @@
 ---
-title: "Write the Docs Prague 2021 - ruszyła sprzedaż biletów"
+title: 'Write the Docs Prague 2021 - ruszyła sprzedaż biletów'
 authors: agnieszka
-date: "2021-06-02"
+date: '2021-06-02'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "dokumentacja"
-  - "kariera"
-  - "konferencje"
-  - "praca"
-  - "spolecznosc"
-coverImage: "W-t-D_2021.png"
+  - 'news'
+  - 'ze-swiata'
+  - 'dokumentacja'
+  - 'kariera'
+  - 'konferencje'
+  - 'praca'
+  - 'spolecznosc'
+coverImage: 'W-t-D_2021.png'
 ---
 
 Po raz kolejny, z ogromną radością, zapraszamy Was na konferencję Write the Docs

@@ -1,14 +1,14 @@
 ---
-title: "Landing Festival 2018 - relacja"
+title: 'Landing Festival 2018 - relacja'
 authors: mojk
-date: "2018-04-17"
+date: '2018-04-17'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "konferencje"
-  - "praca"
-  - "spolecznosc"
-coverImage: "landing_festival_berlin.png"
+  - 'news'
+  - 'ze-swiata'
+  - 'konferencje'
+  - 'praca'
+  - 'spolecznosc'
+coverImage: 'landing_festival_berlin.png'
 ---
 
 W dniach 14-15 marca 2018 odbył się Landing Festival, na który zostaliśmy

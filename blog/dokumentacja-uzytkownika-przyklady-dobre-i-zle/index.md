@@ -1,20 +1,20 @@
 ---
-title: "Dokumentacja użytkownika - przykłady dobre i złe"
+title: 'Dokumentacja użytkownika - przykłady dobre i złe'
 authors: admin
-date: "2014-07-18"
+date: '2014-07-18'
 tags:
-  - "dobre-praktyki"
-  - "warsztat"
-  - "edukacja"
-  - "instrukcje"
-  - "manuale"
-  - "materialy-szkoleniowe"
-  - "on-line-help"
-  - "praca"
-  - "treningi"
-  - "uzytecznosc"
-  - "webinarium"
-coverImage: "example.jpg"
+  - 'dobre-praktyki'
+  - 'warsztat'
+  - 'edukacja'
+  - 'instrukcje'
+  - 'manuale'
+  - 'materialy-szkoleniowe'
+  - 'on-line-help'
+  - 'praca'
+  - 'treningi'
+  - 'uzytecznosc'
+  - 'webinarium'
+coverImage: 'example.jpg'
 ---
 
 Wyszperane w sieci... a właściwie na stronach małej, rodzinnej firmy

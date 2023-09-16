@@ -1,18 +1,18 @@
 ---
-title: "Ile zarabia Technical Writer - odsłona druga"
+title: 'Ile zarabia Technical Writer - odsłona druga'
 authors: admin
-date: "2014-04-29"
+date: '2014-04-29'
 tags:
-  - "news"
-  - "z-kraju"
-  - "kariera"
-  - "praca"
-coverImage: "Pile-of-money-007.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'kariera'
+  - 'praca'
+coverImage: 'Pile-of-money-007.jpg'
 ---
 
 Nieważne jak bardzo lubimy swoją pracę, to jednak z czegoś trzeba żyć. Jest to
 kwestia dużej wagi, dlatego wracamy do niej po kilku miesiącach od ostatniego
-[postu](http://techwriter.pl/ile-zarabia-technical-writer/ "Ile zarabia technical writer?")
+[postu](http://techwriter.pl/ile-zarabia-technical-writer/ 'Ile zarabia technical writer?')
 w tym temacie. Dzisiaj pytamy jak się żyło dokumentalistom w roku 2013.
 
 <!--truncate-->

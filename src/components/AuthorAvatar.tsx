@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 
 export type AuthorProps = {
   id: string;
@@ -22,7 +22,7 @@ export default function AuthorAvatar({
       >
         <img
           alt={`kliknij, żeby przeczytać więcej o redaktorze ${name}`}
-          src={image_url || "https://github.com/techwriter-pl.png"}
+          src={image_url || 'https://github.com/techwriter-pl.png'}
         />
       </a>
       <div className="avatar__intro">

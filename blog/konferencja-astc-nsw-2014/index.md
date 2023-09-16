@@ -1,14 +1,14 @@
 ---
-title: "Konferencja ASTC (NSW) 2014"
+title: 'Konferencja ASTC (NSW) 2014'
 authors: mojk
-date: "2014-10-31"
+date: '2014-10-31'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "konferencje"
-  - "spolecznosc"
-  - "zarzadzanie-trescia"
-coverImage: "ConferenceLogoV2-01-e1414702761912.png"
+  - 'news'
+  - 'ze-swiata'
+  - 'konferencje'
+  - 'spolecznosc'
+  - 'zarzadzanie-trescia'
+coverImage: 'ConferenceLogoV2-01-e1414702761912.png'
 ---
 
 Tym razem coś z innej części globu, a dokładniej z Australii. W dniach 17 i 18

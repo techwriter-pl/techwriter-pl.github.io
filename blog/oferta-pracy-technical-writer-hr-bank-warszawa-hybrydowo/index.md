@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer (HR Bank) – Warszawa/hybrydowo"
+title: 'Oferta pracy: Technical Writer (HR Bank) – Warszawa/hybrydowo'
 authors: admin
-date: "2021-05-31"
+date: '2021-05-31'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "hrbank_logo.jpg"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'hrbank_logo.jpg'
 ---
 
 Na dobry początek tygodnia mamy dla Was kolejną ofertę pracy, tym razem z

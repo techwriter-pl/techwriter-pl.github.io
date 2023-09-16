@@ -1,13 +1,13 @@
 ---
-title: "Konferencje 2014 - pierwsze półrocze"
+title: 'Konferencje 2014 - pierwsze półrocze'
 authors: admin
-date: "2014-01-14"
+date: '2014-01-14'
 tags:
-  - "news"
-  - "z-kraju"
-  - "ze-swiata"
-  - "konferencje"
-coverImage: "konferencja.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'ze-swiata'
+  - 'konferencje'
+coverImage: 'konferencja.jpg'
 ---
 
 O tej porze roku budżet Waszego działu jest jeszcze świeży, pachnący i aż prosi

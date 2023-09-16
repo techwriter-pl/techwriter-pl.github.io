@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer (GOG.com) - Warszawa"
+title: 'Oferta pracy: Technical Writer (GOG.com) - Warszawa'
 authors: admin
-date: "2019-08-30"
+date: '2019-08-30'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "GOG.com_logo-e1567154768904.jpg"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'GOG.com_logo-e1567154768904.jpg'
 ---
 
 Być może słyszeliście o firmie CD PROJEKT RED? To twórcy gier Wiedźmin i

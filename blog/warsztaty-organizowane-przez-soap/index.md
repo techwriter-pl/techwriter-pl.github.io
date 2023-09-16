@@ -1,11 +1,11 @@
 ---
-title: "Warsztaty organizowane przez soap!"
+title: 'Warsztaty organizowane przez soap!'
 authors: pensjonatus
-date: "2016-04-28"
+date: '2016-04-28'
 tags:
-  - "news"
-  - "z-kraju"
-coverImage: "edusummit-long-09-09.jpg"
+  - 'news'
+  - 'z-kraju'
+coverImage: 'edusummit-long-09-09.jpg'
 ---
 
 Organizatorzy soap! dodali [warsztaty](http://soapconf.com/edu-summit/), które

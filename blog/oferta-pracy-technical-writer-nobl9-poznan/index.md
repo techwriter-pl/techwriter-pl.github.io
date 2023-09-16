@@ -1,11 +1,11 @@
 ---
-title: "Oferta pracy: Technical Writer (Nobl9) – Poznań"
+title: 'Oferta pracy: Technical Writer (Nobl9) – Poznań'
 authors: admin
-date: "2021-06-21"
+date: '2021-06-21'
 tags:
-  - "oferty-pracy"
-  - "praca"
-coverImage: "Nobl9_logo.jpg"
+  - 'oferty-pracy'
+  - 'praca'
+coverImage: 'Nobl9_logo.jpg'
 ---
 
 [Nobl9](https://nobl9.com/), amerykański startup z zespołem developerskim w

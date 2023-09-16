@@ -1,15 +1,15 @@
 ---
-title: "Evolution of TC 2018 tuż tuż"
+title: 'Evolution of TC 2018 tuż tuż'
 authors: agnieszka
-date: "2018-05-16"
+date: '2018-05-16'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "edukacja"
-  - "kariera"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "evolution.jpg"
+  - 'news'
+  - 'ze-swiata'
+  - 'edukacja'
+  - 'kariera'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'evolution.jpg'
 ---
 
 Wielkimi krokami zbliża się termin sporego wydarzenia w branży komunikacji

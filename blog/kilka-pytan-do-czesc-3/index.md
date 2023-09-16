@@ -1,13 +1,13 @@
 ---
-title: "Kilka pytań do - część 3"
+title: 'Kilka pytań do - część 3'
 authors: mojk
-date: "2015-02-24"
+date: '2015-02-24'
 tags:
-  - "warsztat"
-  - "wywiady"
-  - "spolecznosc"
-  - "wywiad"
-coverImage: "peppershaker-e1424725523734.jpg"
+  - 'warsztat'
+  - 'wywiady'
+  - 'spolecznosc'
+  - 'wywiad'
+coverImage: 'peppershaker-e1424725523734.jpg'
 ---
 
 Dzisiaj o swojej przygodzie z tworzeniem dokumentacji opowiada Piotrek. Życzymy

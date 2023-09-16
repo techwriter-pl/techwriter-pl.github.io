@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Specjalista ds. dokumentacji technicznej"
+title: 'Oferta pracy: Specjalista ds. dokumentacji technicznej'
 authors: mojk
-date: "2015-12-04"
+date: '2015-12-04'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "Ericpol-logo-e1449144629296.jpg"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'Ericpol-logo-e1449144629296.jpg'
 ---
 
 Końcówka roku nie oznacza spowolnienia na rynku pracy dla dokumentalistów.

@@ -1,13 +1,13 @@
 ---
-title: "Langłydż - part tu"
+title: 'Langłydż - part tu'
 authors: admin
-date: "2013-12-16"
+date: '2013-12-16'
 tags:
-  - "warsztat"
-  - "z-przymruzeniem-oka"
-  - "humor"
-  - "jezyk"
-coverImage: "Langlydz2.jpg"
+  - 'warsztat'
+  - 'z-przymruzeniem-oka'
+  - 'humor'
+  - 'jezyk'
+coverImage: 'Langlydz2.jpg'
 ---
 
 Dziś  kolejne słówko, a właściwie dwa:

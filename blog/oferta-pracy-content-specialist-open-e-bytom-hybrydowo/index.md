@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Content Specialist (open-e) – Bytom/hybrydowo"
+title: 'Oferta pracy: Content Specialist (open-e) – Bytom/hybrydowo'
 authors: admin
-date: "2021-06-10"
+date: '2021-06-10'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "open_e_logo.jpg"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'open_e_logo.jpg'
 ---
 
 Interesująca oferta, również dla osób bez technicznego doświadczenia.

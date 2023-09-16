@@ -1,15 +1,15 @@
 ---
-title: "Tech Writer koduje odcinek 22"
+title: 'Tech Writer koduje odcinek 22'
 authors: agnieszka
-date: "2020-11-09"
+date: '2020-11-09'
 tags:
-  - "dobre-praktyki"
-  - "warsztat"
-  - "api"
-  - "dita"
-  - "dokumentacja"
-  - "narzedzia"
-coverImage: "tw_koduje_22.png"
+  - 'dobre-praktyki'
+  - 'warsztat'
+  - 'api'
+  - 'dita'
+  - 'dokumentacja'
+  - 'narzedzia'
+coverImage: 'tw_koduje_22.png'
 ---
 
 Dziś kilka słów na temat ostatniego odcinka podcastu

@@ -1,15 +1,15 @@
 ---
-title: "Write the Docs Vilnius 2019 już wkrótce"
+title: 'Write the Docs Vilnius 2019 już wkrótce'
 authors: agnieszka
-date: "2019-05-21"
+date: '2019-05-21'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "edukacja"
-  - "kariera"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "Zrzut-ekranu-2019-04-17-o-22.38.56-e1555533727865.png"
+  - 'news'
+  - 'ze-swiata'
+  - 'edukacja'
+  - 'kariera'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'Zrzut-ekranu-2019-04-17-o-22.38.56-e1555533727865.png'
 ---
 
 Już za niespełna dwa tygodnie czeka nas pierwsza edycja konferencji Write the

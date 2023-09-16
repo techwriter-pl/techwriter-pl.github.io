@@ -1,14 +1,14 @@
 ---
-title: "Jesteś hardkorem?"
+title: 'Jesteś hardkorem?'
 authors: mojk
-date: "2014-06-20"
+date: '2014-06-20'
 tags:
-  - "news"
-  - "z-kraju"
-  - "ze-swiata"
-  - "praca"
-  - "webinarium"
-coverImage: "apisdkcodesamples.png"
+  - 'news'
+  - 'z-kraju'
+  - 'ze-swiata'
+  - 'praca'
+  - 'webinarium'
+coverImage: 'apisdkcodesamples.png'
 ---
 
 Nie boisz się wyzwań jakie stawia dokumentacja techniczna? Jeśli tak, to na

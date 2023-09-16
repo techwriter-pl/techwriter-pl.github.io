@@ -1,14 +1,14 @@
 ---
-title: "Pierwszy meetup na wybrzeżu"
+title: 'Pierwszy meetup na wybrzeżu'
 authors: mojk
-date: "2016-06-20"
+date: '2016-06-20'
 tags:
-  - "news"
-  - "z-kraju"
-  - "edukacja"
-  - "kariera"
-  - "spolecznosc"
-coverImage: "meetup.png"
+  - 'news'
+  - 'z-kraju'
+  - 'edukacja'
+  - 'kariera'
+  - 'spolecznosc'
+coverImage: 'meetup.png'
 ---
 
 Legenda głosi, że na wybrzeżu nie ma ludzi pracujących z szeroko pojętym

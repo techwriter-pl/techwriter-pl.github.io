@@ -1,15 +1,15 @@
 ---
-title: "Simplified Technical English (STE) - jak go używać w praktyce"
+title: 'Simplified Technical English (STE) - jak go używać w praktyce'
 authors: toporek
-date: "2020-10-13"
+date: '2020-10-13'
 tags:
-  - "dobre-praktyki"
-  - "przyklady"
-  - "ste"
-  - "instrukcje"
-  - "manuale"
-  - "uzytecznosc"
-coverImage: "ASD1000-e1601654326708.jpg"
+  - 'dobre-praktyki'
+  - 'przyklady'
+  - 'ste'
+  - 'instrukcje'
+  - 'manuale'
+  - 'uzytecznosc'
+coverImage: 'ASD1000-e1601654326708.jpg'
 ---
 
 Jakiś czas temu pisaliśmy o

@@ -1,18 +1,18 @@
 ---
-title: "TECH WRITER KODUJE – ODCINEK #39 I #40"
+title: 'TECH WRITER KODUJE – ODCINEK #39 I #40'
 authors: agnieszka
-date: "2022-03-24"
+date: '2022-03-24'
 tags:
-  - "dobre-praktyki"
-  - "narzedzia"
-  - "przyklady"
-  - "warsztat"
-  - "dita"
-  - "dokumentacja"
-  - "narzedzia"
-  - "podcast"
-  - "praktyki"
-coverImage: "Tech_writer_koduje_3940.png"
+  - 'dobre-praktyki'
+  - 'narzedzia'
+  - 'przyklady'
+  - 'warsztat'
+  - 'dita'
+  - 'dokumentacja'
+  - 'narzedzia'
+  - 'podcast'
+  - 'praktyki'
+coverImage: 'Tech_writer_koduje_3940.png'
 ---
 
 W najnowszych odcinkach podcastu

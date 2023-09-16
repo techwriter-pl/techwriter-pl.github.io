@@ -1,15 +1,15 @@
 ---
-title: "Soap! 2017 już za nami - relacja"
+title: 'Soap! 2017 już za nami - relacja'
 authors: kuba
-date: "2017-06-26"
+date: '2017-06-26'
 tags:
-  - "news"
-  - "z-kraju"
-  - "edukacja"
-  - "konferencje"
-  - "spolecznosc"
-  - "treningi"
-coverImage: "FullSizeRender-2.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'edukacja'
+  - 'konferencje'
+  - 'spolecznosc'
+  - 'treningi'
+coverImage: 'FullSizeRender-2.jpg'
 ---
 
 Piąta edycja polskiego święta tech commu minęła w błyskawicznym tempie. Za nami

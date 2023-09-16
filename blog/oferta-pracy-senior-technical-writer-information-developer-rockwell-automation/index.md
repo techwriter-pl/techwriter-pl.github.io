@@ -1,14 +1,15 @@
 ---
-title: "Oferta pracy: Senior Technical Writer/Information Developer (Rockwell
-  Automation)"
+title:
+  'Oferta pracy: Senior Technical Writer/Information Developer (Rockwell
+  Automation)'
 authors: mojk
-date: "2019-02-17"
+date: '2019-02-17'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "rockwell_logo.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'rockwell_logo.png'
 ---
 
 Firma

@@ -2,6 +2,11 @@
   "cSpell.language": "en,pl",
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.rulers": [80],
+  "cSpell.enableFiletypes": ["mdx"],
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
   "cSpell.words": [
     "Accens",
     "Advocado",
@@ -45,16 +50,19 @@
     "Handsontable",
     "Hyperformula",
     "Inconsolata",
+    "interesariuszy",
     "Iosif",
     "ITCQF",
     "Jirze",
     "jkula",
     "Khen",
+    "KOYAMA",
     "KTLC",
     "kulgawczuk",
     "leada",
     "Medicover",
     "meetcontent",
+    "meetupu",
     "Megablast",
     "Megasystems",
     "Mikey",
@@ -80,6 +88,7 @@
     "Requesty",
     "resto",
     "rozkminieniu",
+    "sensejów",
     "shortdesc",
     "Snagit",
     "spolecznosc",
@@ -101,6 +110,7 @@
     "techwritera",
     "techwriterka",
     "Techwriterowe",
+    "techwriterski",
     "techwriterzy",
     "Tiugo",
     "topicref",
@@ -115,9 +125,12 @@
     "wersjonowania",
     "writerka",
     "Writerki",
+    "Writerska",
+    "writerskiego",
     "writethedocs",
     "writingiem",
     "Writingu",
     "wygłuszacz"
-  ]
+  ],
+  "git.allowForcePush": true
 }

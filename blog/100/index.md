@@ -1,10 +1,10 @@
 ---
-title: "100!"
+title: '100!'
 authors: agnieszka
-date: "2015-07-16"
+date: '2015-07-16'
 tags:
-  - "news"
-coverImage: "twlike.jpg"
+  - 'news'
+coverImage: 'twlike.jpg'
 ---
 
 W imieniu całej redakcji techwriter.pl pragniemy podziękować wszystkim, którzy

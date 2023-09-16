@@ -1,13 +1,13 @@
 ---
-title: "Konferencje 2014 - drugie półrocze"
+title: 'Konferencje 2014 - drugie półrocze'
 authors: admin
-date: "2014-05-06"
+date: '2014-05-06'
 tags:
-  - "news"
-  - "z-kraju"
-  - "ze-swiata"
-  - "konferencje"
-coverImage: "konferencja2.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'ze-swiata'
+  - 'konferencje'
+coverImage: 'konferencja2.jpg'
 ---
 
 Półrocze za pasem... Sprawdźmy jakie propozycje ma dla nas druga część tego

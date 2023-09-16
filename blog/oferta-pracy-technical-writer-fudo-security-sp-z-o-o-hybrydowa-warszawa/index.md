@@ -1,14 +1,14 @@
 ---
-title: "OFERTA PRACY: Technical Writer (Fudo Security) – HYBRYDOWA (Warszawa)"
+title: 'OFERTA PRACY: Technical Writer (Fudo Security) – HYBRYDOWA (Warszawa)'
 authors: agnieszka
-date: "2022-11-07"
+date: '2022-11-07'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "dokumentacja"
-  - "kariera"
-  - "praca"
-coverImage: "logo-fudo-security-red-black.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'dokumentacja'
+  - 'kariera'
+  - 'praca'
+coverImage: 'logo-fudo-security-red-black.png'
 ---
 
 Warszawska firma informatyczna pilnie poszukuje pracownika na stanowisko

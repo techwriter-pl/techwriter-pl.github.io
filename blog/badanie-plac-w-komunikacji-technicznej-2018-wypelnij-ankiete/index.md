@@ -1,15 +1,15 @@
 ---
-title: "Badanie płac w komunikacji technicznej 2018 - wypełnij ankietę!"
+title: 'Badanie płac w komunikacji technicznej 2018 - wypełnij ankietę!'
 authors: pensjonatus
-date: "2018-03-01"
+date: '2018-03-01'
 tags:
-  - "badanie-plac"
-  - "praca"
-  - "ankieta"
-  - "kariera"
-  - "praca"
-  - "spolecznosc"
-coverImage: "alain-pham-248578.jpg"
+  - 'badanie-plac'
+  - 'praca'
+  - 'ankieta'
+  - 'kariera'
+  - 'praca'
+  - 'spolecznosc'
+coverImage: 'alain-pham-248578.jpg'
 ---
 
 Zeszłoroczne badanie płac cieszyło się sporym zainteresowaniem. Dlatego w tym

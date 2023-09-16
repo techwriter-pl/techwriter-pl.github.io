@@ -1,15 +1,15 @@
 ---
-title: "Every Page is Page One - recenzja niepoprawnie pozytywna"
+title: 'Every Page is Page One - recenzja niepoprawnie pozytywna'
 authors: kuba
-date: "2017-08-16"
+date: '2017-08-16'
 tags:
-  - "biblioteczka-techwritera"
-  - "warsztat"
-  - "literatura"
-  - "materialy-szkoleniowe"
-  - "recenzja"
-  - "zarzadzanie-trescia"
-coverImage: "patrick-tomasso-71909.png"
+  - 'biblioteczka-techwritera'
+  - 'warsztat'
+  - 'literatura'
+  - 'materialy-szkoleniowe'
+  - 'recenzja'
+  - 'zarzadzanie-trescia'
+coverImage: 'patrick-tomasso-71909.png'
 ---
 
 Są książki, które biorą rzeczywistość za rogi i (cytując klasyka) „mówią, jak

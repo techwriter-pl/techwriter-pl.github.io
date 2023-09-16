@@ -1,14 +1,14 @@
 ---
-title: "Konferencja soap! 2019 - zapowiedź"
+title: 'Konferencja soap! 2019 - zapowiedź'
 authors: agnieszka
-date: "2019-04-09"
+date: '2019-04-09'
 tags:
-  - "news"
-  - "z-kraju"
-  - "kariera"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "Zrzut-ekranu-2019-04-8-o-22.20.52-e1554754998324.png"
+  - 'news'
+  - 'z-kraju'
+  - 'kariera'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'Zrzut-ekranu-2019-04-8-o-22.20.52-e1554754998324.png'
 ---
 
 Tradycyjnie już zapraszamy Was na kolejną edycję krakowskiej konferencji soap!.

@@ -1,11 +1,11 @@
 ---
-title: "Tech writer - ujawniacz wiedzy"
+title: 'Tech writer - ujawniacz wiedzy'
 authors: agnieszka
-date: "2022-04-06"
+date: '2022-04-06'
 tags:
-  - "warsztat"
-  - "zarzadzanie-wiedza"
-coverImage: "tech_writer-ujawniacz_wiedzy.png"
+  - 'warsztat'
+  - 'zarzadzanie-wiedza'
+coverImage: 'tech_writer-ujawniacz_wiedzy.png'
 ---
 
 Dziś trochę teorii i ogólnych założeń związanych z szeroko rozumianym

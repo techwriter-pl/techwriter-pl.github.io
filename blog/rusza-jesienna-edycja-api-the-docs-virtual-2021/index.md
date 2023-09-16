@@ -1,17 +1,17 @@
 ---
-title: "Rusza jesienna edycja API the Docs Virtual 2021"
+title: 'Rusza jesienna edycja API the Docs Virtual 2021'
 authors: agnieszka
-date: "2021-09-30"
+date: '2021-09-30'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "api"
-  - "dokumentacja"
-  - "kariera"
-  - "praca"
-  - "praktyki"
-  - "spolecznosc"
-coverImage: "api_the_docs.png"
+  - 'news'
+  - 'ze-swiata'
+  - 'api'
+  - 'dokumentacja'
+  - 'kariera'
+  - 'praca'
+  - 'praktyki'
+  - 'spolecznosc'
+coverImage: 'api_the_docs.png'
 ---
 
 Już w październiku rusza kolejna edycja cyklu wirtualnych spotkań związanych z

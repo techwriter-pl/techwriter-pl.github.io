@@ -1,13 +1,13 @@
 ---
-title: "Zawody dla przyszłych techwriterów"
+title: 'Zawody dla przyszłych techwriterów'
 authors: admin
-date: "2013-10-17"
+date: '2013-10-17'
 tags:
-  - "news"
-  - "z-kraju"
-  - "jezyk"
-  - "tlumaczenia"
-coverImage: "olimpiada.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'jezyk'
+  - 'tlumaczenia'
+coverImage: 'olimpiada.jpg'
 ---
 
 Czy Wy również w dzieciństwie braliście udział w różnych szkolnych i

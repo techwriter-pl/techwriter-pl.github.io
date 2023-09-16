@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Product Education Specialist (Woodpecker) – Wrocław"
+title: 'Oferta pracy: Product Education Specialist (Woodpecker) – Wrocław'
 authors: admin
-date: "2021-06-17"
+date: '2021-06-17'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "Woodpecker_logo.jpg"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'Woodpecker_logo.jpg'
 ---
 
 W skrócie PES, czyli Piszący Ekstra Specjalista 😉 Warto zapoznać się z tą

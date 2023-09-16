@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer"
+title: 'Oferta pracy: Technical Writer'
 authors: mojk
-date: "2017-01-31"
+date: '2017-01-31'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "logoTechland_czerwone-e1485850377579.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'logoTechland_czerwone-e1485850377579.png'
 ---
 
 Na dobry początek roku mamy ciekawą ofertę dla fanów gier komputerowych.

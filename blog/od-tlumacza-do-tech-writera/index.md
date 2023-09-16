@@ -1,15 +1,15 @@
 ---
-title: "Od Tłumacza do Tech Writera"
+title: 'Od Tłumacza do Tech Writera'
 authors: niewiarowski
-date: "2022-04-27"
+date: '2022-04-27'
 tags:
-  - "przyklady"
-  - "warsztat"
-  - "dokumentacja"
-  - "kariera"
-  - "praca"
-  - "tlumaczenia"
-coverImage: "origin-mode1-760x362-1.jpg"
+  - 'przyklady'
+  - 'warsztat'
+  - 'dokumentacja'
+  - 'kariera'
+  - 'praca'
+  - 'tlumaczenia'
+coverImage: 'origin-mode1-760x362-1.jpg'
 ---
 
 Pozwólcie, że opowiem Wam jak przebiegały początki mojej zawodowej podróży i jak

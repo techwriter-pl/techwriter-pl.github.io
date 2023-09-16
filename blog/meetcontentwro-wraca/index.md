@@ -1,16 +1,16 @@
 ---
-title: "MeetContentWRO wraca"
+title: 'MeetContentWRO wraca'
 authors: niedzwiedzka
-date: "2022-12-20"
+date: '2022-12-20'
 tags:
-  - "news"
-  - "praca"
-  - "z-kraju"
-  - "kariera"
-  - "meetcontent"
-  - "praca"
-  - "spolecznosc"
-coverImage: "pizza-1.png"
+  - 'news'
+  - 'praca'
+  - 'z-kraju'
+  - 'kariera'
+  - 'meetcontent'
+  - 'praca'
+  - 'spolecznosc'
+coverImage: 'pizza-1.png'
 ---
 
 Na pizzę i pogaduchy do Wrocławia? Czemu nie, zwłaszcza jeśli i jedno, i drugie

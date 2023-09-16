@@ -1,14 +1,15 @@
 ---
-title: "[NIEAKTUALNE] Oferty pracy: Technical Writer, Senior Technical Writer,
-  Project Manager"
+title:
+  '[NIEAKTUALNE] Oferty pracy: Technical Writer, Senior Technical Writer,
+  Project Manager'
 authors: mojk
-date: "2016-01-07"
+date: '2016-01-07'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "3di_logo.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: '3di_logo.png'
 ---
 
 Za nami dopiero kilka dni nowego roku, a krakowski rynek pracy dla Tech Writerów

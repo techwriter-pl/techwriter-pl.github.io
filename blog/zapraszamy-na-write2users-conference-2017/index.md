@@ -1,17 +1,17 @@
 ---
-title: "Zapraszamy na Write2Users Conference 2017!"
+title: 'Zapraszamy na Write2Users Conference 2017!'
 authors: kuba
-date: "2017-10-12"
+date: '2017-10-12'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "edukacja"
-  - "konferencje"
-  - "lokalizacja"
-  - "spolecznosc"
-  - "szkolenia"
-  - "treningi"
-coverImage: "linkedin_W2U_Conference2017_2-e1507660091661.jpg"
+  - 'news'
+  - 'ze-swiata'
+  - 'edukacja'
+  - 'konferencje'
+  - 'lokalizacja'
+  - 'spolecznosc'
+  - 'szkolenia'
+  - 'treningi'
+coverImage: 'linkedin_W2U_Conference2017_2-e1507660091661.jpg'
 ---
 
 Już niedługo (1 listopada), odbędzie się skandynawska konferencja dotycząca

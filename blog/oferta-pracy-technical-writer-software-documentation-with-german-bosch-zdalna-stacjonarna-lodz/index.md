@@ -1,16 +1,16 @@
 ---
 title:
-  "OFERTA PRACY: Technical writer Software Documentation (with German) [BOSCH] -
-  ZDALNA/STACJONARNA (ŁÓDŹ)"
+  'OFERTA PRACY: Technical writer Software Documentation (with German) [BOSCH] -
+  ZDALNA/STACJONARNA (ŁÓDŹ)'
 authors: agnieszka
-date: "2023-01-18"
+date: '2023-01-18'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "oferta-pracy"
-  - "praca"
-coverImage: "bosch.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'oferta-pracy'
+  - 'praca'
+coverImage: 'bosch.png'
 ---
 
 Kolejna oferta pracy czeka na technical writera. Tym razem poszukiwany jest

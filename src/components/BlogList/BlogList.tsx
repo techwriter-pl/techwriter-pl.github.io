@@ -1,18 +1,18 @@
-import Layout from "@theme/Layout";
-import React from "react";
-import HomePageHeader from "../Home/HomePageHeader";
-import Link from "@docusaurus/Link";
-import styles from "./BlogList.module.css";
-import BlogListPage from "@theme/BlogListPage";
-import Partners from "../Partners/Partners";
-import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
-import clsx from "clsx";
+import Layout from '@theme/Layout';
+import React from 'react';
+import HomePageHeader from '../Home/HomePageHeader';
+import Link from '@docusaurus/Link';
+import styles from './BlogList.module.css';
+import BlogListPage from '@theme/BlogListPage';
+import Partners from '../Partners/Partners';
+import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
+import clsx from 'clsx';
 
 export default function BlogHome(props): JSX.Element {
   const { pathname, search } = props.history.location;
   const { siteConfig } = useDocusaurusContext();
 
-  if (pathname.includes("/page/") || search.includes("feed=true")) {
+  if (pathname.includes('/page/') || search.includes('feed=true')) {
     return <BlogListPage {...props} />;
   }
 
@@ -28,18 +28,18 @@ export default function BlogHome(props): JSX.Element {
               const { title, coverImage, tags } = BlogPostContent.frontMatter;
               const coverImagePath = `/img/cover/${coverImage}`;
               return (
-                <div key={date} className={clsx(styles.item, "card")}>
+                <div key={date} className={clsx(styles.item, 'card')}>
                   <div className={styles.itemLeft}>
                     <Link to={permalink} className={styles.itemTitle}>
                       {title}
                     </Link>
                     <div className={styles.subLine}>
-                      {new Date(date).toLocaleDateString("pl", {
-                        year: "numeric",
-                        month: "short",
-                        day: "numeric",
+                      {new Date(date).toLocaleDateString('pl', {
+                        year: 'numeric',
+                        month: 'short',
+                        day: 'numeric',
                       })}
-                      , {authors.map((author) => author.name).join(", ")}
+                      , {authors.map((author) => author.name).join(', ')}
                     </div>
                     <div className={styles.tagList}>
                       {tags.map((tag, tagKey) => (
@@ -50,7 +50,7 @@ export default function BlogHome(props): JSX.Element {
                     </div>
                   </div>
                   <div>
-                    <BlogPostContent />{" "}
+                    <BlogPostContent />{' '}
                     <Link to={permalink}>...czytaj dalej</Link>
                   </div>
                   <Link to={permalink} className={styles.imageContainer}>

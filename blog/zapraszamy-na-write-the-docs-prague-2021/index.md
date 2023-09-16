@@ -1,15 +1,15 @@
 ---
-title: "ZAPRASZAMY NA WRITE THE DOCS PRAGUE 2021"
+title: 'ZAPRASZAMY NA WRITE THE DOCS PRAGUE 2021'
 authors: agnieszka
-date: "2021-04-15"
+date: '2021-04-15'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "kariera"
-  - "konferencje"
-  - "praca"
-  - "spolecznosc"
-coverImage: "W-t-D_2021.png"
+  - 'news'
+  - 'ze-swiata'
+  - 'kariera'
+  - 'konferencje'
+  - 'praca'
+  - 'spolecznosc'
+coverImage: 'W-t-D_2021.png'
 ---
 
 Tradycyjnie już, zapraszamy Was na konferencję Write the Docs Prague. Podobnie

@@ -1,14 +1,14 @@
 ---
-title: "Technical Writing w polskim wydaniu"
+title: 'Technical Writing w polskim wydaniu'
 authors: mojk
-date: "2015-04-15"
+date: '2015-04-15'
 tags:
-  - "biblioteczka-techwritera"
-  - "warsztat"
-  - "edukacja"
-  - "kariera"
-  - "literatura"
-coverImage: "books-683901_640-e1428524210368.jpg"
+  - 'biblioteczka-techwritera'
+  - 'warsztat'
+  - 'edukacja'
+  - 'kariera'
+  - 'literatura'
+coverImage: 'books-683901_640-e1428524210368.jpg'
 ---
 
 Całkiem niedawno ubolewaliśmy w jednym z naszych

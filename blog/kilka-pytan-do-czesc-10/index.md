@@ -1,13 +1,13 @@
 ---
-title: "Kilka pytań do - część 10"
+title: 'Kilka pytań do - część 10'
 authors: mojk
-date: "2016-10-24"
+date: '2016-10-24'
 tags:
-  - "warsztat"
-  - "wywiady"
-  - "spolecznosc"
-  - "wywiad"
-coverImage: "microphone-1185958_640-e1476909932864.jpg"
+  - 'warsztat'
+  - 'wywiady'
+  - 'spolecznosc'
+  - 'wywiad'
+coverImage: 'microphone-1185958_640-e1476909932864.jpg'
 ---
 
 Redukcja zatrudnienia nie zawsze jest czymś negatywnym. Czasami jest to szansa

@@ -1,14 +1,14 @@
 ---
-title: "Infografiki"
+title: 'Infografiki'
 authors: admin
-date: "2013-11-13"
+date: '2013-11-13'
 tags:
-  - "dobre-praktyki"
-  - "przyklady"
-  - "warsztat"
-  - "grafika"
-  - "infografiki"
-coverImage: "Infografika.jpg"
+  - 'dobre-praktyki'
+  - 'przyklady'
+  - 'warsztat'
+  - 'grafika'
+  - 'infografiki'
+coverImage: 'Infografika.jpg'
 ---
 
 Czym zajmują się technical writerzy? Raczej nie tworzą infografik... A szkoda,

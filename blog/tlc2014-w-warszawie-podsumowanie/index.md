@@ -1,14 +1,14 @@
 ---
 title: "TLC'2014 w Warszawie - podsumowanie"
 authors: admin
-date: "2014-04-17"
+date: '2014-04-17'
 tags:
-  - "news"
-  - "z-kraju"
-  - "ze-swiata"
-  - "konferencje"
-  - "tlumaczenia"
-coverImage: "TranslationLocalizationConference.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'ze-swiata'
+  - 'konferencje'
+  - 'tlumaczenia'
+coverImage: 'TranslationLocalizationConference.jpg'
 ---
 
 Nie pisaliśmy wcześniej o The Translation and Localization Conference, mimo że

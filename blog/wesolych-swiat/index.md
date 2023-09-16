@@ -1,13 +1,13 @@
 ---
-title: "Wesołych Świąt!"
+title: 'Wesołych Świąt!'
 authors: admin
-date: "2013-12-20"
+date: '2013-12-20'
 tags:
-  - "news"
-  - "z-przymruzeniem-oka"
-  - "humor"
-  - "infografiki"
-coverImage: "WesolychSwiat.jpg"
+  - 'news'
+  - 'z-przymruzeniem-oka'
+  - 'humor'
+  - 'infografiki'
+coverImage: 'WesolychSwiat.jpg'
 ---
 
 Nawet redakcja techwriter.pl musi czasem odpocząć. Od jutra udajemy się więc na

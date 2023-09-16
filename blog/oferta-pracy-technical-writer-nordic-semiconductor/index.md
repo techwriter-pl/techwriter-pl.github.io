@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer (Nordic Semiconductor)"
+title: 'Oferta pracy: Technical Writer (Nordic Semiconductor)'
 authors: mojk
-date: "2017-11-07"
+date: '2017-11-07'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "NordicS_smarter-things.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'NordicS_smarter-things.png'
 ---
 
 Nordic Semiconductor Poland, oddział norweskiej firmy projektującej i

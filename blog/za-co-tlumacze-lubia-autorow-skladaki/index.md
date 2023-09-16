@@ -1,18 +1,18 @@
 ---
-title: "Za co tłumacze lubią autorów - składaki"
+title: 'Za co tłumacze lubią autorów - składaki'
 authors: mojk
-date: "2018-05-07"
+date: '2018-05-07'
 tags:
-  - "dobre-praktyki"
-  - "przyklady"
-  - "warsztat"
-  - "instrukcje"
-  - "jezyk"
-  - "manuale"
-  - "on-line-help"
-  - "pomoc-uzytkownika"
-  - "tlumaczenia"
-coverImage: "duplo-1981724_640.jpg"
+  - 'dobre-praktyki'
+  - 'przyklady'
+  - 'warsztat'
+  - 'instrukcje'
+  - 'jezyk'
+  - 'manuale'
+  - 'on-line-help'
+  - 'pomoc-uzytkownika'
+  - 'tlumaczenia'
+coverImage: 'duplo-1981724_640.jpg'
 ---
 
 Z przyjemnością publikujemy kolejny wpis gościnny traktujący o tym w jaki sposób

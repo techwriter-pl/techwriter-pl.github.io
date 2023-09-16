@@ -1,14 +1,14 @@
 ---
-title: "Oferta pracy: trener szkoleń (testerzy.pl)"
+title: 'Oferta pracy: trener szkoleń (testerzy.pl)'
 authors: agnieszka
-date: "2022-02-10"
+date: '2022-02-10'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "edukacja"
-  - "praca"
-  - "szkolenia"
-coverImage: "Konferencje-2019-11.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'edukacja'
+  - 'praca'
+  - 'szkolenia'
+coverImage: 'Konferencje-2019-11.png'
 ---
 
 Ciekawa oferta dla doświadczonych technical writerów, którzy mają ochotę

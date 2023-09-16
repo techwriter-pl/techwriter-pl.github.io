@@ -1,12 +1,12 @@
 ---
-title: "Nie tylko Wikipedia, czyli do czego może się przydać wiki?"
+title: 'Nie tylko Wikipedia, czyli do czego może się przydać wiki?'
 authors: admin
-date: "2015-01-20"
+date: '2015-01-20'
 tags:
-  - "przyklady"
-  - "warsztat"
-  - "zarzadzanie-wiedza"
-coverImage: "wiki.jpg"
+  - 'przyklady'
+  - 'warsztat'
+  - 'zarzadzanie-wiedza'
+coverImage: 'wiki.jpg'
 ---
 
 Wikipedię zna każdy. Większość uczniów nie potrafi napisać bez niej

@@ -1,15 +1,15 @@
 ---
 title: 'Studia podyplomowe "Komunikacja techniczna" - w wersji online'
 authors: admin
-date: "2020-10-06"
+date: '2020-10-06'
 tags:
-  - "news"
-  - "z-kraju"
-  - "edukacja"
-  - "kariera"
-  - "spolecznosc"
-  - "studia"
-coverImage: "Podplomowe-Vistula-Online-2020.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'edukacja'
+  - 'kariera'
+  - 'spolecznosc'
+  - 'studia'
+coverImage: 'Podplomowe-Vistula-Online-2020.jpg'
 ---
 
 Mamy interesujące wieści. Studia podyplomowe z technical writingu startują już 7

@@ -1,17 +1,17 @@
 ---
-title: "DITA conkeyref - Pracuj sprytnie a nie ciężko"
+title: 'DITA conkeyref - Pracuj sprytnie a nie ciężko'
 authors: pensjonatus
-date: "2016-10-12"
+date: '2016-10-12'
 tags:
-  - "dobre-praktyki"
-  - "przyklady"
-  - "warsztat"
-  - "dita"
-  - "manuale"
-  - "on-line-help"
-  - "pomoc-uzytkownika"
-  - "technologie"
-coverImage: "na-gleboka.jpg"
+  - 'dobre-praktyki'
+  - 'przyklady'
+  - 'warsztat'
+  - 'dita'
+  - 'manuale'
+  - 'on-line-help'
+  - 'pomoc-uzytkownika'
+  - 'technologie'
+coverImage: 'na-gleboka.jpg'
 ---
 
 Pisaliśmy już o [podstawach](http://techwriter.pl/wszystko-o-dita-podstawy/) i

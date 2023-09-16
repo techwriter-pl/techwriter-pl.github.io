@@ -1,16 +1,16 @@
 ---
-title: "Jak przygotować tekst do tłumaczeń?"
+title: 'Jak przygotować tekst do tłumaczeń?'
 authors: toporek
-date: "2021-09-02"
+date: '2021-09-02'
 tags:
-  - "dobre-praktyki"
-  - "narzedzia"
-  - "przyklady"
-  - "dokumentacja"
-  - "lokalizacja"
-  - "tlumaczenia"
-  - "uzytecznosc"
-coverImage: "2.jpg"
+  - 'dobre-praktyki'
+  - 'narzedzia'
+  - 'przyklady'
+  - 'dokumentacja'
+  - 'lokalizacja'
+  - 'tlumaczenia'
+  - 'uzytecznosc'
+coverImage: '2.jpg'
 ---
 
 Praca technical writera oprócz pisania tekstów zgodnie z najlepszymi praktykami,

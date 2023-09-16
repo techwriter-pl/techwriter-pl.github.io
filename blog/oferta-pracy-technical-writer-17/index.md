@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer"
+title: 'Oferta pracy: Technical Writer'
 authors: mojk
-date: "2016-09-22"
+date: '2016-09-22'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "Pegasystems_logo-e1474374110381.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'Pegasystems_logo-e1474374110381.png'
 ---
 
 Dla tych, którzy do tej pory nie znaleźli dla siebie odpowiedniej oferty pracy

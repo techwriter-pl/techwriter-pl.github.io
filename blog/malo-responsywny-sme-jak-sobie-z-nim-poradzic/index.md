@@ -1,13 +1,13 @@
 ---
-title: "Mało responsywny SME? Jak sobie z nim poradzić."
+title: 'Mało responsywny SME? Jak sobie z nim poradzić.'
 authors: agnieszka
-date: "2023-01-31"
+date: '2023-01-31'
 tags:
-  - "dobre-praktyki"
-  - "warsztat"
-  - "praca"
-  - "praktyki"
-coverImage: "malo_responsywny_sme.png"
+  - 'dobre-praktyki'
+  - 'warsztat'
+  - 'praca'
+  - 'praktyki'
+coverImage: 'malo_responsywny_sme.png'
 ---
 
 Domyślam się, że skoro czytasz ten post, jesteś Technical Writerem. Co więcej,
