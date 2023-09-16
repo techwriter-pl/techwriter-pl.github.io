@@ -1,13 +1,13 @@
 ---
-title: "Noty wydania (Release Notes) - co, jak, dla kogo?"
+title: 'Noty wydania (Release Notes) - co, jak, dla kogo?'
 authors: mojk
-date: "2017-06-14"
+date: '2017-06-14'
 tags:
-  - "przyklady"
-  - "warsztat"
-  - "praca"
-  - "release-notes"
-coverImage: "adult-2242164_640.jpg"
+  - 'przyklady'
+  - 'warsztat'
+  - 'praca'
+  - 'release-notes'
+coverImage: 'adult-2242164_640.jpg'
 ---
 
 Dość dawno temu [pisaliśmy](http://techwriter.pl/noty-wydania/) pokrótce o

@@ -1,15 +1,15 @@
 ---
-title: "Konferencja MadWorld"
+title: 'Konferencja MadWorld'
 authors: agnieszka
-date: "2016-07-14"
+date: '2016-07-14'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "edukacja"
-  - "kariera"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "madworld-small-e1485268107113.jpg"
+  - 'news'
+  - 'ze-swiata'
+  - 'edukacja'
+  - 'kariera'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'madworld-small-e1485268107113.jpg'
 ---
 
 Uważni czytelnicy zapewne zauważyli, że w sekcji Patronat Medialny pojawiło się

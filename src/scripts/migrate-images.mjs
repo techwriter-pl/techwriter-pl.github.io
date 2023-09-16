@@ -4,26 +4,26 @@ import {
   existsSync,
   renameSync,
   mkdirSync,
-} from "fs";
-import { dirname, resolve } from "path";
-import { blogPath, __dirname } from "./helpers.mjs";
+} from 'fs';
+import { dirname, resolve } from 'path';
+import { blogPath, __dirname } from './helpers.mjs';
 
-const coverImagesDir = resolve(__dirname, "../../static/img/cover");
+const coverImagesDir = resolve(__dirname, '../../static/img/cover');
 
 const blogFolders = readdirSync(blogPath);
 
 for (const blogFolder of blogFolders) {
-  const postPath = resolve(blogPath, blogFolder, "index.md");
+  const postPath = resolve(blogPath, blogFolder, 'index.md');
   if (existsSync(postPath)) {
-    const postContents = readFileSync(postPath, "utf-8");
+    const postContents = readFileSync(postPath, 'utf-8');
     const coverImageMatch = postContents.match(/coverImage: ([^\r\n]+)/);
     if (coverImageMatch) {
-      const coverImageFieldValue = coverImageMatch[1].replace(/"/g, "");
+      const coverImageFieldValue = coverImageMatch[1].replace(/"/g, '');
 
       const oldPath = resolve(
         dirname(postPath),
-        "images",
-        coverImageFieldValue,
+        'images',
+        coverImageFieldValue
       );
 
       if (!existsSync(oldPath)) {

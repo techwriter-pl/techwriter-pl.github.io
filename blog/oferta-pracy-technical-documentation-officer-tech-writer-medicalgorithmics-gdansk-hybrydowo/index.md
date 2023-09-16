@@ -1,12 +1,13 @@
 ---
-title: "Oferta pracy: Technical Documentation Officer / Tech Writer
-  (Medicalgorithmics) – Gdańsk/Hybrydowo"
+title:
+  'Oferta pracy: Technical Documentation Officer / Tech Writer
+  (Medicalgorithmics) – Gdańsk/Hybrydowo'
 authors: admin
-date: "2021-09-29"
+date: '2021-09-29'
 tags:
-  - "oferty-pracy"
-  - "praca"
-coverImage: "MedicalAlgorithmics_logo.jpg"
+  - 'oferty-pracy'
+  - 'praca'
+coverImage: 'MedicalAlgorithmics_logo.jpg'
 ---
 
 Dziś oferta z branży MedTech. Dobrze, że są w Polsce takie firmy. Jeszcze

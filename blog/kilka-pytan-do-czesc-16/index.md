@@ -1,13 +1,13 @@
 ---
-title: "Kilka pytań do – część 16"
+title: 'Kilka pytań do – część 16'
 authors: admin
-date: "2018-04-04"
+date: '2018-04-04'
 tags:
-  - "warsztat"
-  - "wywiady"
-  - "spolecznosc"
-  - "wywiad"
-coverImage: "Bułgaria.jpg"
+  - 'warsztat'
+  - 'wywiady'
+  - 'spolecznosc'
+  - 'wywiad'
+coverImage: 'Bułgaria.jpg'
 ---
 
 Dziś mamy dla Was kolejny wywiad, tym razem z koleżanką, która przedstawi nam

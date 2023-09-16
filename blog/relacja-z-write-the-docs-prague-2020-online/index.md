@@ -1,15 +1,15 @@
 ---
-title: "Relacja z Write the Docs Prague 2020 online"
+title: 'Relacja z Write the Docs Prague 2020 online'
 authors: toporek
-date: "2020-11-12"
+date: '2020-11-12'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "dokumentacja"
-  - "edukacja"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "20201031_230557.jpg"
+  - 'news'
+  - 'ze-swiata'
+  - 'dokumentacja'
+  - 'edukacja'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: '20201031_230557.jpg'
 ---
 
 Stało się! 18-20 października odbyła się konferencja

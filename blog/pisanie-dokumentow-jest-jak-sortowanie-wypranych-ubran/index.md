@@ -1,14 +1,14 @@
 ---
-title: "Pisanie dokumentów jest jak sortowanie wypranych ubrań"
+title: 'Pisanie dokumentów jest jak sortowanie wypranych ubrań'
 authors: mojk
-date: "2015-02-10"
+date: '2015-02-10'
 tags:
-  - "dobre-praktyki"
-  - "warsztat"
-  - "instrukcje"
-  - "manuale"
-  - "pomoc-uzytkownika"
-coverImage: "laundry.jpg"
+  - 'dobre-praktyki'
+  - 'warsztat'
+  - 'instrukcje'
+  - 'manuale'
+  - 'pomoc-uzytkownika'
+coverImage: 'laundry.jpg'
 ---
 
 Umiecie odpowiednio posortować wyprane ubrania? Jeśli tak, to prawdopodobnie

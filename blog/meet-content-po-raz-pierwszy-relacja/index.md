@@ -1,16 +1,16 @@
 ---
-title: "Meet Content po raz pierwszy - relacja"
+title: 'Meet Content po raz pierwszy - relacja'
 authors: mojk
-date: "2016-03-24"
+date: '2016-03-24'
 tags:
-  - "news"
-  - "z-kraju"
-  - "edukacja"
-  - "kariera"
-  - "konferencje"
-  - "spolecznosc"
-  - "treningi"
-coverImage: "diy-usability-testing-presentation-e1458820562993.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'edukacja'
+  - 'kariera'
+  - 'konferencje'
+  - 'spolecznosc'
+  - 'treningi'
+coverImage: 'diy-usability-testing-presentation-e1458820562993.jpg'
 ---
 
 15 marca 2016 odbyło się spotkanie inaugurujące cykl

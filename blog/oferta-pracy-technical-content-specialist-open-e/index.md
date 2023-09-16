@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Content Specialist (Open-E)"
+title: 'Oferta pracy: Technical Content Specialist (Open-E)'
 authors: mojk
-date: "2019-03-21"
+date: '2019-03-21'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "logo_open_e.jpg"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'logo_open_e.jpg'
 ---
 
 Województwo śląskie potrzebuje kolejnego specjalisty tech comm.

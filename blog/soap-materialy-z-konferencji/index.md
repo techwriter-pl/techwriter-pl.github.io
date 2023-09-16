@@ -1,12 +1,12 @@
 ---
-title: "SOAP! - materiały z konferencji"
+title: 'SOAP! - materiały z konferencji'
 authors: admin
-date: "2013-10-29"
+date: '2013-10-29'
 tags:
-  - "news"
-  - "z-kraju"
-  - "konferencje"
-coverImage: "powerpoint.gif"
+  - 'news'
+  - 'z-kraju'
+  - 'konferencje'
+coverImage: 'powerpoint.gif'
 ---
 
 Skoro już jesteśmy przy konferencjach: materiały z konferencji SOAP!

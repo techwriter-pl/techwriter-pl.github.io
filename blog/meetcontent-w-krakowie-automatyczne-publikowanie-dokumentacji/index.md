@@ -1,15 +1,15 @@
 ---
-title: "MeetContentKRK #6 - automatyczne publikowanie dokumentacji"
+title: 'MeetContentKRK #6 - automatyczne publikowanie dokumentacji'
 authors: pensjonatus
-date: "2017-11-06"
+date: '2017-11-06'
 tags:
-  - "news"
-  - "z-kraju"
-  - "edukacja"
-  - "konferencje"
-  - "spolecznosc"
-  - "technologie"
-coverImage: "22730161_846665912170145_5052329604003373238_n.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'edukacja'
+  - 'konferencje'
+  - 'spolecznosc'
+  - 'technologie'
+coverImage: '22730161_846665912170145_5052329604003373238_n.jpg'
 ---
 
 Już 14 listopada 2017 w Krakowie kolejne spotkanie MeetContent, tym razem na

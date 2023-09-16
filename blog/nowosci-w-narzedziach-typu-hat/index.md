@@ -1,16 +1,16 @@
 ---
-title: "Nowości w narzędziach typu HAT"
+title: 'Nowości w narzędziach typu HAT'
 authors: mojk
-date: "2015-10-06"
+date: '2015-10-06'
 tags:
-  - "news"
-  - "narzedzia"
-  - "warsztat"
-  - "ze-swiata"
-  - "aplikacje"
-  - "manuale"
-  - "on-line-help"
-coverImage: "new-143095_640-e1443734857643.jpg"
+  - 'news'
+  - 'narzedzia'
+  - 'warsztat'
+  - 'ze-swiata'
+  - 'aplikacje'
+  - 'manuale'
+  - 'on-line-help'
+coverImage: 'new-143095_640-e1443734857643.jpg'
 ---
 
 Bieżący rok przyniósł nowe wersje dwóch popularnych narzędzi do tworzenia

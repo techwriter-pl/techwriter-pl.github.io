@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer"
+title: 'Oferta pracy: Technical Writer'
 authors: admin
-date: "2017-07-14"
+date: '2017-07-14'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "guidewire_logo_new_2color_h_screen.jpg"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'guidewire_logo_new_2color_h_screen.jpg'
 ---
 
 Dawno nie było oferty pracy z Krakowa... Co prawda jest w języku angielskim, ale

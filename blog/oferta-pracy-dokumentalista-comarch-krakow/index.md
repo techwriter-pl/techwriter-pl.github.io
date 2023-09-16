@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: dokumentalista (Comarch) - Kraków"
+title: 'Oferta pracy: dokumentalista (Comarch) - Kraków'
 authors: admin
-date: "2019-10-21"
+date: '2019-10-21'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "comarch_logo-e1571665808637.jpg"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'comarch_logo-e1571665808637.jpg'
 ---
 
 Świetna oferta dla anglistów pragnących wejść do świata nowych technologii,

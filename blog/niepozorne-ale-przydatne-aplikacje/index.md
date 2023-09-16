@@ -1,12 +1,12 @@
 ---
-title: "Niepozorne, ale przydatne aplikacje"
+title: 'Niepozorne, ale przydatne aplikacje'
 authors: mojk
-date: "2015-06-30"
+date: '2015-06-30'
 tags:
-  - "narzedzia"
-  - "warsztat"
-  - "aplikacje"
-coverImage: "toolbox-304894_640-e1435412819757.png"
+  - 'narzedzia'
+  - 'warsztat'
+  - 'aplikacje'
+coverImage: 'toolbox-304894_640-e1435412819757.png'
 ---
 
 Jak już zapewne zdążyliście zauważyć, bardzo lubimy darmowe narzędzia. Dzisiaj

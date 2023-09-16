@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer (SoftwarePlant) - Warszawa"
+title: 'Oferta pracy: Technical Writer (SoftwarePlant) - Warszawa'
 authors: admin
-date: "2020-12-21"
+date: '2020-12-21'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "SoftwarePlant.jpg"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'SoftwarePlant.jpg'
 ---
 
 Dynamicznie rozwijająca się polska firma sprzedaje swoje produkty na całym

@@ -1,14 +1,14 @@
 ---
-title: "Rusza Poland MadCap Flare User Group"
+title: 'Rusza Poland MadCap Flare User Group'
 authors: mojk
-date: "2017-06-01"
+date: '2017-06-01'
 tags:
-  - "news"
-  - "z-kraju"
-  - "aplikacje"
-  - "edukacja"
-  - "spolecznosc"
-coverImage: "PLFUG-logo-small.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'aplikacje'
+  - 'edukacja'
+  - 'spolecznosc'
+coverImage: 'PLFUG-logo-small.jpg'
 ---
 
 Firma [3di Polska](http://3di.com.pl/) przy współpracy z

@@ -1,7 +1,7 @@
-import React from "react";
-import OriginalBlogPostFooter from "@theme-original/BlogPostItem/Footer";
-import { useBlogPost } from "@docusaurus/theme-common/internal";
-import DisqusEmbed from "@site/src/components/DisqusEmbed";
+import React from 'react';
+import OriginalBlogPostFooter from '@theme-original/BlogPostItem/Footer';
+import { useBlogPost } from '@docusaurus/theme-common/internal';
+import DisqusEmbed from '@site/src/components/DisqusEmbed';
 
 export default function Footer() {
   const { metadata, isBlogPostPage } = useBlogPost();

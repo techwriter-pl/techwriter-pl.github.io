@@ -1,15 +1,15 @@
 ---
-title: "Zapraszamy na konferencję reQest 2021!"
+title: 'Zapraszamy na konferencję reQest 2021!'
 authors: agnieszka
-date: "2021-02-24"
+date: '2021-02-24'
 tags:
-  - "news"
-  - "z-kraju"
-  - "kariera"
-  - "konferencje"
-  - "spolecznosc"
-  - "technologie"
-coverImage: "request-9-e1613722678451.png"
+  - 'news'
+  - 'z-kraju'
+  - 'kariera'
+  - 'konferencje'
+  - 'spolecznosc'
+  - 'technologie'
+coverImage: 'request-9-e1613722678451.png'
 ---
 
 Z ogromną radością zapraszamy Was na konferencję **reQuest 2021**, którą

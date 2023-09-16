@@ -1,13 +1,13 @@
 ---
-title: "15 sposobów, by poprawić swój warsztat"
+title: '15 sposobów, by poprawić swój warsztat'
 authors: agnieszka
-date: "2022-10-14"
+date: '2022-10-14'
 tags:
-  - "dobre-praktyki"
-  - "warsztat"
-  - "dokumentacja"
-  - "praktyki"
-coverImage: "15_sposobow.png"
+  - 'dobre-praktyki'
+  - 'warsztat'
+  - 'dokumentacja'
+  - 'praktyki'
+coverImage: '15_sposobow.png'
 ---
 
 Czy chcesz poznać wskazówki, które pomogą Ci poprawić swój technicalwriterski

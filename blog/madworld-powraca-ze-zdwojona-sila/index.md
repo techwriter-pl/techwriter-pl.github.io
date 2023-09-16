@@ -1,13 +1,13 @@
 ---
-title: "MadWorld powraca ze zdwojoną siłą"
+title: 'MadWorld powraca ze zdwojoną siłą'
 authors: mojk
-date: "2018-04-12"
+date: '2018-04-12'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "madworld.png"
+  - 'news'
+  - 'ze-swiata'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'madworld.png'
 ---
 
 W zeszłym roku, jako partner medialny, mieliśmy okazję uczestniczyć w 5. edycji

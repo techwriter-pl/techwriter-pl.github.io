@@ -1,13 +1,13 @@
 ---
-title: "Dowiedz się w końcu co to znaczy"
+title: 'Dowiedz się w końcu co to znaczy'
 authors: admin
-date: "2014-03-13"
+date: '2014-03-13'
 tags:
-  - "narzedzia"
-  - "warsztat"
-  - "grafika"
-  - "typografia"
-coverImage: "LoremIpsum.jpg"
+  - 'narzedzia'
+  - 'warsztat'
+  - 'grafika'
+  - 'typografia'
+coverImage: 'LoremIpsum.jpg'
 ---
 
 *Lorem ipsum dolor sit amet...* gdzieś już to widzieliście, prawda? To jedno z

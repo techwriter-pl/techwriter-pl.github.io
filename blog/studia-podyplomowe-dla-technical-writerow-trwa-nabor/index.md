@@ -1,15 +1,15 @@
 ---
-title: "STUDIA PODYPLOMOWE DLA TECHNICAL WRITERÓW – TRWA NABÓR"
+title: 'STUDIA PODYPLOMOWE DLA TECHNICAL WRITERÓW – TRWA NABÓR'
 authors: agnieszka
-date: "2022-09-30"
+date: '2022-09-30'
 tags:
-  - "news"
-  - "z-kraju"
-  - "edukacja"
-  - "kariera"
-  - "praca"
-  - "studia"
-coverImage: "Studia_2021.png"
+  - 'news'
+  - 'z-kraju'
+  - 'edukacja'
+  - 'kariera'
+  - 'praca'
+  - 'studia'
+coverImage: 'Studia_2021.png'
 ---
 
 Już **5 listopada** startuje trzecia edycja studiów podyplomowych na kierunku

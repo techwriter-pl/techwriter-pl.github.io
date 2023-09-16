@@ -1,15 +1,15 @@
 ---
-title: "Jak tworzyć komunikaty o błędach?"
+title: 'Jak tworzyć komunikaty o błędach?'
 authors: mojk
-date: "2015-05-05"
+date: '2015-05-05'
 tags:
-  - "dobre-praktyki"
-  - "przyklady"
-  - "warsztat"
-  - "aplikacje"
-  - "pomoc-uzytkownika"
-  - "uzytecznosc"
-coverImage: "error-102075_640-e1430287810378.jpg"
+  - 'dobre-praktyki'
+  - 'przyklady'
+  - 'warsztat'
+  - 'aplikacje'
+  - 'pomoc-uzytkownika'
+  - 'uzytecznosc'
+coverImage: 'error-102075_640-e1430287810378.jpg'
 ---
 
 Czy do Was też przychodzą programiści z pytaniami co napisać w wyskakującym

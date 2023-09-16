@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer (Flip) – praca zdalna!"
+title: 'Oferta pracy: Technical Writer (Flip) – praca zdalna!'
 authors: admin
-date: "2020-02-03"
+date: '2020-02-03'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "Flip-color@2x.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'Flip-color@2x.png'
 ---
 
 W pełni zdalna praca w firmie z Los Angeles? To możliwe! Sprawdźcie najnowszą

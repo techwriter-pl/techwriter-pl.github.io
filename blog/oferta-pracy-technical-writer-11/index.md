@@ -1,13 +1,13 @@
 ---
-title: "[NIEAKTUALNE] Oferta pracy: Technical Writer"
+title: '[NIEAKTUALNE] Oferta pracy: Technical Writer'
 authors: mojk
-date: "2016-03-15"
+date: '2016-03-15'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "medius.jpg"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'medius.jpg'
 ---
 
 Rynek pracy dla dokumentalistów nabiera coraz większego rozpędu.

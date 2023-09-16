@@ -1,14 +1,14 @@
 ---
-title: "Nowa polska publikacja o komunikacji technicznej"
+title: 'Nowa polska publikacja o komunikacji technicznej'
 authors: agnieszka
-date: "2020-05-04"
+date: '2020-05-04'
 tags:
-  - "biblioteczka-techwritera"
-  - "warsztat"
-  - "kariera"
-  - "literatura"
-  - "praktyki"
-coverImage: "Untitled-design.png"
+  - 'biblioteczka-techwritera'
+  - 'warsztat'
+  - 'kariera'
+  - 'literatura'
+  - 'praktyki'
+coverImage: 'Untitled-design.png'
 ---
 
 Takie informacje nie pojawiają się często w polskim tech commie. Właśnie ukazała

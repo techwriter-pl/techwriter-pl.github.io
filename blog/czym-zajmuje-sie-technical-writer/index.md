@@ -1,14 +1,14 @@
 ---
-title: "Czym zajmuje się technical writer?"
+title: 'Czym zajmuje się technical writer?'
 authors: admin
-date: "2014-10-28"
+date: '2014-10-28'
 tags:
-  - "przyklady"
-  - "warsztat"
-  - "instrukcje"
-  - "pomoc-uzytkownika"
-  - "praca"
-coverImage: "TechnicalAutor.jpg"
+  - 'przyklady'
+  - 'warsztat'
+  - 'instrukcje'
+  - 'pomoc-uzytkownika'
+  - 'praca'
+coverImage: 'TechnicalAutor.jpg'
 ---
 
 Dziś na chwilę wrócimy do podstaw. Szczególnie, że mamy okazję podać je w łatwo

@@ -1,16 +1,16 @@
 ---
-title: "Doniesienia z tegorocznej konferencji Soap 2022!"
+title: 'Doniesienia z tegorocznej konferencji Soap 2022!'
 authors: toporek
-date: "2022-07-17"
+date: '2022-07-17'
 tags:
-  - "news"
-  - "z-kraju"
-  - "edukacja"
-  - "kariera"
-  - "konferencje"
-  - "praca"
-  - "spolecznosc"
-coverImage: "IMG-7721-scaled.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'edukacja'
+  - 'kariera'
+  - 'konferencje'
+  - 'praca'
+  - 'spolecznosc'
+coverImage: 'IMG-7721-scaled.jpg'
 ---
 
 Lato trwa, a konferencja soap! już za nami. Jak było? Czy coś się zmieniło? A

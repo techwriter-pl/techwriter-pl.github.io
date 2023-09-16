@@ -1,15 +1,15 @@
 ---
-title: "Konferencja Tłumaczy 2018 - zapowiedź"
+title: 'Konferencja Tłumaczy 2018 - zapowiedź'
 authors: agnieszka
-date: "2018-08-27"
+date: '2018-08-27'
 tags:
-  - "news"
-  - "z-kraju"
-  - "edukacja"
-  - "kariera"
-  - "konferencje"
-  - "tlumaczenia"
-coverImage: "baner-e1535404907525.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'edukacja'
+  - 'kariera'
+  - 'konferencje'
+  - 'tlumaczenia'
+coverImage: 'baner-e1535404907525.jpg'
 ---
 
 Z ogromną przyjemnością przedstawiamy Wam kolejne wydarzenie, nad którym

@@ -1,13 +1,13 @@
 ---
-title: "Jenkins - opis narzędzia"
+title: 'Jenkins - opis narzędzia'
 authors: admin
-date: "2014-03-20"
+date: '2014-03-20'
 tags:
-  - "narzedzia"
-  - "warsztat"
-  - "aplikacje"
-  - "automatyzacja"
-coverImage: "Jenkins.jpg"
+  - 'narzedzia'
+  - 'warsztat'
+  - 'aplikacje'
+  - 'automatyzacja'
+coverImage: 'Jenkins.jpg'
 ---
 
 Wasi koledzy programiści i testerzy używają Jenkinsa do budowania i testowania

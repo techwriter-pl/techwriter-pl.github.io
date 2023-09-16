@@ -1,14 +1,14 @@
 ---
-title: "Kilka pytań do – część 25: Od tech writera do scrum mastera"
+title: 'Kilka pytań do – część 25: Od tech writera do scrum mastera'
 authors: niewiarowski
-date: "2021-11-15"
+date: '2021-11-15'
 tags:
-  - "warsztat"
-  - "wywiady"
-  - "agile"
-  - "scrum"
-  - "wywiad"
-coverImage: "kilka_pytan_do_25.png"
+  - 'warsztat'
+  - 'wywiady'
+  - 'agile'
+  - 'scrum'
+  - 'wywiad'
+coverImage: 'kilka_pytan_do_25.png'
 ---
 
 W najnowszej odsłonie cyklu _Kilka pytań do..._ rozmowa z człowiekiem, którego

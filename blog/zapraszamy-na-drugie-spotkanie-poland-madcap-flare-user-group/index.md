@@ -1,17 +1,17 @@
 ---
-title: "Zapraszamy na drugie spotkanie Poland MadCap Flare User Group"
+title: 'Zapraszamy na drugie spotkanie Poland MadCap Flare User Group'
 authors: mojk
-date: "2017-08-30"
+date: '2017-08-30'
 tags:
-  - "news"
-  - "narzedzia"
-  - "warsztat"
-  - "z-kraju"
-  - "aplikacje"
-  - "edukacja"
-  - "spolecznosc"
-  - "technologie"
-coverImage: "laughing-children.jpg"
+  - 'news'
+  - 'narzedzia'
+  - 'warsztat'
+  - 'z-kraju'
+  - 'aplikacje'
+  - 'edukacja'
+  - 'spolecznosc'
+  - 'technologie'
+coverImage: 'laughing-children.jpg'
 ---
 
 Okres wakacyjny oznacza wszechobecne rozluźnienie, nie tylko w branży tech comm.

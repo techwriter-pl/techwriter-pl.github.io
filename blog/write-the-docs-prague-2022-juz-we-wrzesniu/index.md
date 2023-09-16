@@ -1,17 +1,17 @@
 ---
-title: "Write the Docs Prague 2022 już we wrześniu"
+title: 'Write the Docs Prague 2022 już we wrześniu'
 authors: agnieszka
-date: "2022-06-30"
+date: '2022-06-30'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "dokumentacja"
-  - "edukacja"
-  - "kariera"
-  - "konferencje"
-  - "praca"
-  - "spolecznosc"
-coverImage: "write_the_docs_prague_2022.png"
+  - 'news'
+  - 'ze-swiata'
+  - 'dokumentacja'
+  - 'edukacja'
+  - 'kariera'
+  - 'konferencje'
+  - 'praca'
+  - 'spolecznosc'
+coverImage: 'write_the_docs_prague_2022.png'
 ---
 
 Lato w pełni, a my już myślami jesteśmy przy kolejnej edycji **Write the Docs

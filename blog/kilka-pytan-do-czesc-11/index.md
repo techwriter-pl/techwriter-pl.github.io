@@ -1,13 +1,13 @@
 ---
-title: "Kilka pytań do - część 11"
+title: 'Kilka pytań do - część 11'
 authors: mojk
-date: "2016-12-08"
+date: '2016-12-08'
 tags:
-  - "warsztat"
-  - "wywiady"
-  - "spolecznosc"
-  - "wywiad"
-coverImage: "press-1015988_640.jpg"
+  - 'warsztat'
+  - 'wywiady'
+  - 'spolecznosc'
+  - 'wywiad'
+coverImage: 'press-1015988_640.jpg'
 ---
 
 Podczas naszej ostatniej wizyty w Pradze (z której relację możecie przeczytać

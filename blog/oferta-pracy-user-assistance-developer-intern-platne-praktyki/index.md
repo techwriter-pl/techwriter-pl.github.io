@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: User Assistance Developer (Intern) - płatne praktyki"
+title: 'Oferta pracy: User Assistance Developer (Intern) - płatne praktyki'
 authors: admin
-date: "2018-06-06"
+date: '2018-06-06'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "dassault.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'dassault.png'
 ---
 
 Warta rozważenia opcja na początek w zawodzie. Wiele nie trzeba wiedzieć, za to

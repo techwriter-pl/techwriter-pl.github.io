@@ -1,16 +1,16 @@
 ---
-title: "Trzecia odsłona soap! MeetContent"
+title: 'Trzecia odsłona soap! MeetContent'
 authors: pensjonatus
-date: "2017-02-15"
+date: '2017-02-15'
 tags:
-  - "news"
-  - "z-kraju"
-  - "edukacja"
-  - "kariera"
-  - "spolecznosc"
-  - "szkolenia"
-  - "treningi"
-coverImage: "design-thinkin.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'edukacja'
+  - 'kariera'
+  - 'spolecznosc'
+  - 'szkolenia'
+  - 'treningi'
+coverImage: 'design-thinkin.jpg'
 ---
 
 Zapraszamy na kolejne spotkanie branżowe organizowane pod szyldem

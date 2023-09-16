@@ -1,13 +1,13 @@
 ---
-title: "Jak zostać technical writerem?"
+title: 'Jak zostać technical writerem?'
 authors: admin
-date: "2014-01-09"
+date: '2014-01-09'
 tags:
-  - "news"
-  - "z-kraju"
-  - "ze-swiata"
-  - "kariera"
-coverImage: "Start.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'ze-swiata'
+  - 'kariera'
+coverImage: 'Start.jpg'
 ---
 
 Jeżeli znacie kogoś, kto w ramach noworocznego postanowienia stwierdził, że musi

@@ -1,15 +1,15 @@
 ---
-title: "Ten dokument warto mieć pod ręką"
+title: 'Ten dokument warto mieć pod ręką'
 authors: admin
-date: "2013-11-25"
+date: '2013-11-25'
 tags:
-  - "news"
-  - "warsztat"
-  - "z-przymruzeniem-oka"
-  - "humor"
-  - "instrukcje"
-  - "manuale"
-coverImage: "StarWars.jpg"
+  - 'news'
+  - 'warsztat'
+  - 'z-przymruzeniem-oka'
+  - 'humor'
+  - 'instrukcje'
+  - 'manuale'
+coverImage: 'StarWars.jpg'
 ---
 
 Nie lubicie poniedziałków? Pogoda za oknem zachęca tylko do pracy, a praca

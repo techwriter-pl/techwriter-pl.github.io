@@ -1,13 +1,13 @@
 ---
-title: "Kilka pytań do - część 5"
+title: 'Kilka pytań do - część 5'
 authors: mojk
-date: "2015-07-21"
+date: '2015-07-21'
 tags:
-  - "warsztat"
-  - "wywiady"
-  - "spolecznosc"
-  - "wywiad"
-coverImage: "interviewer-150450_640-e1437427605915.png"
+  - 'warsztat'
+  - 'wywiady'
+  - 'spolecznosc'
+  - 'wywiad'
+coverImage: 'interviewer-150450_640-e1437427605915.png'
 ---
 
 Z nieukrywaną radością publikujemy kolejny wywiad. W dzisiejszym odcinku

@@ -1,13 +1,13 @@
 ---
-title: "The 5 things you must know about customer experience - relacja"
+title: 'The 5 things you must know about customer experience - relacja'
 authors: szablowska
-date: "2014-05-13"
+date: '2014-05-13'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "webinarium"
-  - "zarzadzanie-trescia"
-coverImage: "Five.jpg"
+  - 'news'
+  - 'ze-swiata'
+  - 'webinarium'
+  - 'zarzadzanie-trescia'
+coverImage: 'Five.jpg'
 ---
 
 Ponownie mieliśmy okazję wziąć udział w webinarium zorganizowanym przez

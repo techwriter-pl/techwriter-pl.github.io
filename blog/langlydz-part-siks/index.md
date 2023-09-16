@@ -1,13 +1,13 @@
 ---
-title: "Langłydż - part siks"
+title: 'Langłydż - part siks'
 authors: admin
-date: "2014-04-25"
+date: '2014-04-25'
 tags:
-  - "warsztat"
-  - "z-przymruzeniem-oka"
-  - "humor"
-  - "jezyk"
-coverImage: "lesson6.jpg"
+  - 'warsztat'
+  - 'z-przymruzeniem-oka'
+  - 'humor'
+  - 'jezyk'
+coverImage: 'lesson6.jpg'
 ---
 
 Jeżeli marzysz o karierze menedżera w korporacji to musisz zapamiętać to słowo.

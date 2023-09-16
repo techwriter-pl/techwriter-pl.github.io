@@ -1,15 +1,15 @@
 ---
-title: "Konferencje 2019 - pierwsze półrocze"
+title: 'Konferencje 2019 - pierwsze półrocze'
 authors: agnieszka
-date: "2019-01-03"
+date: '2019-01-03'
 tags:
-  - "news"
-  - "z-kraju"
-  - "ze-swiata"
-  - "kariera"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "Konferencje-2019.png"
+  - 'news'
+  - 'z-kraju'
+  - 'ze-swiata'
+  - 'kariera'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'Konferencje-2019.png'
 ---
 
 Rozpoczął się kolejny rok, a wraz z nim pojawiło się całkiem sporo okazji, by

@@ -1,13 +1,13 @@
 ---
-title: "Langłydż - part fajf"
+title: 'Langłydż - part fajf'
 authors: admin
-date: "2014-02-14"
+date: '2014-02-14'
 tags:
-  - "warsztat"
-  - "z-przymruzeniem-oka"
-  - "humor"
-  - "jezyk"
-coverImage: "Lesson5.jpg"
+  - 'warsztat'
+  - 'z-przymruzeniem-oka'
+  - 'humor'
+  - 'jezyk'
+coverImage: 'Lesson5.jpg'
 ---
 
 Jak fiksować ale nie sfiksować i dlaczego kanselowanie jest lepsze od

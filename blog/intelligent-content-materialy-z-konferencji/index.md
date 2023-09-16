@@ -1,12 +1,12 @@
 ---
-title: "Intelligent Content - materiały z konferencji"
+title: 'Intelligent Content - materiały z konferencji'
 authors: admin
-date: "2014-03-18"
+date: '2014-03-18'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "konferencje"
-coverImage: "IntelligentContent2014.jpg"
+  - 'news'
+  - 'ze-swiata'
+  - 'konferencje'
+coverImage: 'IntelligentContent2014.jpg'
 ---
 
 Slajdy z wystąpień, które można było obejrzeć na żywo 26-28 lutego, w San Jose w
@@ -37,18 +37,18 @@ technicznej. Miłej lektury.
 
 A poniżej kilka przykładów, które dla Was wybraliśmy:
 
-**[Preparing content for anyone, anywhere, on any device](https://www.slideshare.net/IntelligentContent/preparing-content-for-anyone-anywhere-on-any-device-rockley-keynote-cs-applied-uk "Preparing content for anyone, anywhere, on any device rockley keynote cs applied uk"):**
+**[Preparing content for anyone, anywhere, on any device](https://www.slideshare.net/IntelligentContent/preparing-content-for-anyone-anywhere-on-any-device-rockley-keynote-cs-applied-uk 'Preparing content for anyone, anywhere, on any device rockley keynote cs applied uk'):**
 
 <iframe style={{borderStyle: 'solid', borderColor: '#cccccc', borderBottomWidth: '0px', marginBottom: '5px', maxWidth: '100%'}} src="http://www.slideshare.net/slideshow/embed_code/28453694" height={356} width={427} allowFullScreen frameBorder={0} marginWidth={0} marginHeight={0} scrolling="no" />
 
-**[Content Saves Lives](https://www.slideshare.net/IntelligentContent/twb-intelligent-content-conference-presentation "Content Saves Lives"):\*\***[](http://www.slideshare.net/IntelligentContent)\*\*
+**[Content Saves Lives](https://www.slideshare.net/IntelligentContent/twb-intelligent-content-conference-presentation 'Content Saves Lives'):\*\***[](http://www.slideshare.net/IntelligentContent)\*\*
 
 <iframe style={{border: '1px solid #CCC', borderWidth: '1px 1px 0', marginBottom: '5px', maxWidth: '100%'}} src="http://www.slideshare.net/slideshow/embed_code/16985311" height={356} width={427} allowFullScreen frameBorder={0} marginWidth={0} marginHeight={0} scrolling="no" />
 
-**[Dita for Marketing Content](https://www.slideshare.net/IntelligentContent/dita-for-marketing-content "Dita for Marketing Content"):\*\***[](http://www.slideshare.net/IntelligentContent)\*\*
+**[Dita for Marketing Content](https://www.slideshare.net/IntelligentContent/dita-for-marketing-content 'Dita for Marketing Content'):\*\***[](http://www.slideshare.net/IntelligentContent)\*\*
 
 <iframe style={{border: '1px solid #CCC', borderWidth: '1px 1px 0', marginBottom: '5px', maxWidth: '100%'}} src="http://www.slideshare.net/slideshow/embed_code/32412507" height={356} width={427} allowFullScreen frameBorder={0} marginWidth={0} marginHeight={0} scrolling="no" />
 
-**[Content Engineering at Nikon: How They Do That](https://www.slideshare.net/IntelligentContent/content-engineering-at-nikon-how-they-do-that "Content Engineering at Nikon: How They Do That"):\*\***[](http://www.slideshare.net/IntelligentContent)\*\*
+**[Content Engineering at Nikon: How They Do That](https://www.slideshare.net/IntelligentContent/content-engineering-at-nikon-how-they-do-that 'Content Engineering at Nikon: How They Do That'):\*\***[](http://www.slideshare.net/IntelligentContent)\*\*
 
 <iframe style={{border: '1px solid #CCC', borderWidth: '1px 1px 0', marginBottom: '5px', maxWidth: '100%'}} src="http://www.slideshare.net/slideshow/embed_code/31964552" height={356} width={427} allowFullScreen frameBorder={0} marginWidth={0} marginHeight={0} scrolling="no" />

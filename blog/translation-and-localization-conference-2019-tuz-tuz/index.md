@@ -1,16 +1,16 @@
 ---
-title: "Translation and Localization Conference 2019 tuż, tuż"
+title: 'Translation and Localization Conference 2019 tuż, tuż'
 authors: agnieszka
-date: "2019-03-08"
+date: '2019-03-08'
 tags:
-  - "news"
-  - "z-kraju"
-  - "edukacja"
-  - "kariera"
-  - "konferencje"
-  - "spolecznosc"
-  - "tlumaczenia"
-coverImage: "39900050_1528970823874429_28095296638550016_o.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'edukacja'
+  - 'kariera'
+  - 'konferencje'
+  - 'spolecznosc'
+  - 'tlumaczenia'
+coverImage: '39900050_1528970823874429_28095296638550016_o.jpg'
 ---
 
 Do tegorocznej edycji Translation and Localization Conference pozostały już

@@ -1,15 +1,15 @@
 ---
-title: "Naucz się sam(a) - część 5"
+title: 'Naucz się sam(a) - część 5'
 authors: mojk
-date: "2014-06-13"
+date: '2014-06-13'
 tags:
-  - "dobre-praktyki"
-  - "przyklady"
-  - "warsztat"
-  - "edukacja"
-  - "jezyk"
-  - "kariera"
-coverImage: "editing-marks.jpg"
+  - 'dobre-praktyki'
+  - 'przyklady'
+  - 'warsztat'
+  - 'edukacja'
+  - 'jezyk'
+  - 'kariera'
+coverImage: 'editing-marks.jpg'
 ---
 
 Jedną z cech dobrego Technical Writera jest umiejętność pisania. Na tą

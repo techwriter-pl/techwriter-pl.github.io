@@ -1,11 +1,11 @@
 ---
-title: "Startujemy w konkursie!"
+title: 'Startujemy w konkursie!'
 authors: admin
-date: "2015-02-07"
+date: '2015-02-07'
 tags:
-  - "news"
-  - "z-kraju"
-coverImage: "blogroku2014-logo2.png"
+  - 'news'
+  - 'z-kraju'
+coverImage: 'blogroku2014-logo2.png'
 ---
 
 Ponieważ nie ma jeszcze konkursu na blagę roku, a my kochamy rywalizację -

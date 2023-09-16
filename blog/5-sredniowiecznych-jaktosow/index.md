@@ -1,14 +1,14 @@
 ---
-title: "5 średniowiecznych jaktosów"
+title: '5 średniowiecznych jaktosów'
 authors: admin
-date: "2014-01-24"
+date: '2014-01-24'
 tags:
-  - "warsztat"
-  - "z-przymruzeniem-oka"
-  - "humor"
-  - "instrukcje"
-  - "manuale"
-coverImage: "Jaktos.jpg"
+  - 'warsztat'
+  - 'z-przymruzeniem-oka'
+  - 'humor'
+  - 'instrukcje'
+  - 'manuale'
+coverImage: 'Jaktos.jpg'
 ---
 
 Pisaliśmy już o

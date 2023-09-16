@@ -1,17 +1,17 @@
 ---
-title: "Konferencje 2022 - pierwsze półrocze"
+title: 'Konferencje 2022 - pierwsze półrocze'
 authors: agnieszka
-date: "2022-01-10"
+date: '2022-01-10'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "edukacja"
-  - "kariera"
-  - "konferencje"
-  - "praca"
-  - "spolecznosc"
-  - "technologie"
-coverImage: "Konferencje-2022.png"
+  - 'news'
+  - 'ze-swiata'
+  - 'edukacja'
+  - 'kariera'
+  - 'konferencje'
+  - 'praca'
+  - 'spolecznosc'
+  - 'technologie'
+coverImage: 'Konferencje-2022.png'
 ---
 
 Za nami początek 2022 roku, więc najwyższa pora, by przekazać Wam listę nowych

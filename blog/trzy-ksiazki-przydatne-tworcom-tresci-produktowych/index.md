@@ -1,14 +1,14 @@
 ---
-title: "Trzy książki przydatne twórcom treści produktowych"
+title: 'Trzy książki przydatne twórcom treści produktowych'
 authors: mojk
-date: "2019-01-22"
+date: '2019-01-22'
 tags:
-  - "biblioteczka-techwritera"
-  - "warsztat"
-  - "edukacja"
-  - "kariera"
-  - "literatura"
-coverImage: "idea-1876659_640.jpg"
+  - 'biblioteczka-techwritera'
+  - 'warsztat'
+  - 'edukacja'
+  - 'kariera'
+  - 'literatura'
+coverImage: 'idea-1876659_640.jpg'
 ---
 
 Tworzenie treści bezpośrednio w produktach cyfrowych staje się coraz

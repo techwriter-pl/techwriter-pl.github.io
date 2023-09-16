@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer (ExpertSender)"
+title: 'Oferta pracy: Technical Writer (ExpertSender)'
 authors: mojk
-date: "2018-08-01"
+date: '2018-08-01'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "logo_expertsender_rgb_white-002.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'logo_expertsender_rgb_white-002.png'
 ---
 
 A może by tak rzucić wszystko i wyjechać... nad morze?

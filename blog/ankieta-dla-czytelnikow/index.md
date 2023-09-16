@@ -1,11 +1,11 @@
 ---
-title: "Ankieta dla czytelników"
+title: 'Ankieta dla czytelników'
 authors: agnieszka
-date: "2021-11-04"
+date: '2021-11-04'
 tags:
-  - "news"
-  - "ankieta"
-coverImage: "Konferencje-2019-8.png"
+  - 'news'
+  - 'ankieta'
+coverImage: 'Konferencje-2019-8.png'
 ---
 
 Drodzy Czytelnicy! Dzisiejszy wpis ma inny charakter niż zazwyczaj.

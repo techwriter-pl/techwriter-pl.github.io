@@ -1,12 +1,12 @@
 ---
-title: "SOAP! 2023 – WEŹ UDZIAŁ W KONKURSIE I ZGARNIJ WEJŚCIÓWKĘ!"
+title: 'SOAP! 2023 – WEŹ UDZIAŁ W KONKURSIE I ZGARNIJ WEJŚCIÓWKĘ!'
 authors: agnieszka
-date: "2023-04-18"
+date: '2023-04-18'
 tags:
-  - "news"
-  - "z-kraju"
-  - "konkurs"
-coverImage: "soap2023_konkurs.png"
+  - 'news'
+  - 'z-kraju'
+  - 'konkurs'
+coverImage: 'soap2023_konkurs.png'
 ---
 
 Kolejny raz mamy zaszczyt być patronem medialnym konferencji

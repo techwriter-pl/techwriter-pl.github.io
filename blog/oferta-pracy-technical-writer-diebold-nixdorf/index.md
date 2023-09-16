@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer (Diebold Nixdorf)"
+title: 'Oferta pracy: Technical Writer (Diebold Nixdorf)'
 authors: mojk
-date: "2018-02-02"
+date: '2018-02-02'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "image001.jpg"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'image001.jpg'
 ---
 
 Wygląda na to, że rynek ofert pracy dla Technical Writerów ma się całkiem

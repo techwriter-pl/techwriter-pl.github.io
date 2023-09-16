@@ -1,16 +1,16 @@
 ---
-title: "Naucz się sam(a) - część 2"
+title: 'Naucz się sam(a) - część 2'
 authors: admin
-date: "2014-04-02"
+date: '2014-04-02'
 tags:
-  - "dobre-praktyki"
-  - "przyklady"
-  - "warsztat"
-  - "edukacja"
-  - "kariera"
-  - "literatura"
-  - "szkolenia"
-coverImage: "ksiazki.jpg"
+  - 'dobre-praktyki'
+  - 'przyklady'
+  - 'warsztat'
+  - 'edukacja'
+  - 'kariera'
+  - 'literatura'
+  - 'szkolenia'
+coverImage: 'ksiazki.jpg'
 ---
 
 Skąd czerpać wiedzę o komunikacji technicznej? Prezentujemy kolejną ciekawą

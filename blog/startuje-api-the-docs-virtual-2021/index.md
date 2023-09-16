@@ -1,16 +1,16 @@
 ---
-title: "Startuje API the Docs Virtual 2021!"
+title: 'Startuje API the Docs Virtual 2021!'
 authors: agnieszka
-date: "2021-04-09"
+date: '2021-04-09'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "api"
-  - "dokumentacja"
-  - "kariera"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "api_the_docs.png"
+  - 'news'
+  - 'ze-swiata'
+  - 'api'
+  - 'dokumentacja'
+  - 'kariera'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'api_the_docs.png'
 ---
 
 Dziś kilka słów o cyklu wirtualnych spotkań związanych, przede wszystkim, z

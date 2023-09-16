@@ -1,22 +1,22 @@
 ---
-title: "Content Strategy in a Content Economy - relacja"
+title: 'Content Strategy in a Content Economy - relacja'
 authors: szablowska
-date: "2014-04-15"
+date: '2014-04-15'
 tags:
-  - "news"
-  - "z-kraju"
-  - "ze-swiata"
-  - "webinarium"
-  - "zarzadzanie-trescia"
-coverImage: "content_economy.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'ze-swiata'
+  - 'webinarium'
+  - 'zarzadzanie-trescia'
+coverImage: 'content_economy.jpg'
 ---
 
 Za nami kolejne webinarium zorganizowane
-przez [soap!](http://www.soapconf.com/ "soap!") Odbyło się ono 9 kwietnia i
+przez [soap!](http://www.soapconf.com/ 'soap!') Odbyło się ono 9 kwietnia i
 poprowadziła
-je [Rahel Anne Bailie](http://intentionaldesign.ca/profile/ "Rahel Anne Bailie"),
+je [Rahel Anne Bailie](http://intentionaldesign.ca/profile/ 'Rahel Anne Bailie'),
 specjalistka od procesów zarządzania treścią i współautorka
-książki [Content Strategy: Connecting the dots between business, brand, and benefits](http://thecontentstrategybook.com/ "Content Strategy").
+książki [Content Strategy: Connecting the dots between business, brand, and benefits](http://thecontentstrategybook.com/ 'Content Strategy').
 
 <!--truncate-->
 
@@ -79,7 +79,7 @@ jak i etapów rozwoju przez które przechodzi ich odbiorca.
 ### Trochę praktyki
 
 Ciekawymi punktami prezentacji były bez wątpienia przykłady zaprezentowane przez
-autorkę: model biznesowy [iFixit](http://ifixit.com/ "iFixit") i ich
+autorkę: model biznesowy [iFixit](http://ifixit.com/ 'iFixit') i ich
 doświadczenia ze strategią przekazywania treści, strona internetowa HP oraz
 bardzo ciekawa analiza projektu, w którym Rahel brała udział polegająca na
 zmianie modelu strony internetowej Vancouver tak, aby czytelnicy łatwiej,
@@ -98,4 +98,4 @@ do czego gorąco zachęcamy. Rahel Anne Bailie opowiada ciekawie, wyraźnie sł
 ze posiada dużo praktycznej, a nie tylko teoretycznej wiedzy, używa też
 interesujących, z życia wziętych przykładów. W paździeniku będziemy mogli
 obejrzeć ją na żywo podczas drugiej konferencji
-[soap!](http://www.soapconf.com/2014-conference/ "soap!")
+[soap!](http://www.soapconf.com/2014-conference/ 'soap!')

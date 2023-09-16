@@ -1,13 +1,13 @@
 ---
-title: "Konferencja Write the Docs już za miesiąc w Pradze!"
+title: 'Konferencja Write the Docs już za miesiąc w Pradze!'
 authors: admin
-date: "2017-08-04"
+date: '2017-08-04'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "WriteTheDocsPrague-e1501772951385.jpg"
+  - 'news'
+  - 'ze-swiata'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'WriteTheDocsPrague-e1501772951385.jpg'
 ---
 
 Jedno z najlepszych wydarzeń z naszej branży w Europie zbliża się dużymi

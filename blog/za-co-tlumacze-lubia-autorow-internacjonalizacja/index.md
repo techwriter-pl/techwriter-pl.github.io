@@ -1,18 +1,18 @@
 ---
-title: "Za co tłumacze lubią autorów - internacjonalizacja"
+title: 'Za co tłumacze lubią autorów - internacjonalizacja'
 authors: mojk
-date: "2018-07-02"
+date: '2018-07-02'
 tags:
-  - "dobre-praktyki"
-  - "przyklady"
-  - "warsztat"
-  - "instrukcje"
-  - "jezyk"
-  - "manuale"
-  - "on-line-help"
-  - "pomoc-uzytkownika"
-  - "tlumaczenia"
-coverImage: "countries-1301799_640-e1530121311958.png"
+  - 'dobre-praktyki'
+  - 'przyklady'
+  - 'warsztat'
+  - 'instrukcje'
+  - 'jezyk'
+  - 'manuale'
+  - 'on-line-help'
+  - 'pomoc-uzytkownika'
+  - 'tlumaczenia'
+coverImage: 'countries-1301799_640-e1530121311958.png'
 ---
 
 Z przyjemnością publikujemy kolejny wpis gościnny traktujący o tym w jaki sposób

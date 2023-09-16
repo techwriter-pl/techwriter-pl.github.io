@@ -1,15 +1,15 @@
 ---
-title: "Minimalizm - poziom ekspert"
+title: 'Minimalizm - poziom ekspert'
 authors: mojk
-date: "2014-08-19"
+date: '2014-08-19'
 tags:
-  - "dobre-praktyki"
-  - "warsztat"
-  - "instrukcje"
-  - "manuale"
-  - "pomoc-uzytkownika"
-  - "uzytecznosc"
-coverImage: "minimalism-241876_640-e1407077037789.png"
+  - 'dobre-praktyki'
+  - 'warsztat'
+  - 'instrukcje'
+  - 'manuale'
+  - 'pomoc-uzytkownika'
+  - 'uzytecznosc'
+coverImage: 'minimalism-241876_640-e1407077037789.png'
 ---
 
 Podejście minimalistyczne w pisaniu dokumentacji jest jak najbardziej wskazane,

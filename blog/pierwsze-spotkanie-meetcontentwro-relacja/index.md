@@ -1,16 +1,16 @@
 ---
-title: "Pierwsze spotkanie MeetContentWRO - relacja"
+title: 'Pierwsze spotkanie MeetContentWRO - relacja'
 authors: mojk
-date: "2017-03-24"
+date: '2017-03-24'
 tags:
-  - "news"
-  - "z-kraju"
-  - "edukacja"
-  - "kariera"
-  - "konferencje"
-  - "spolecznosc"
-  - "treningi"
-coverImage: "Wroclaw-Most_Grunwaldzki.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'edukacja'
+  - 'kariera'
+  - 'konferencje'
+  - 'spolecznosc'
+  - 'treningi'
+coverImage: 'Wroclaw-Most_Grunwaldzki.jpg'
 ---
 
 Dopiero

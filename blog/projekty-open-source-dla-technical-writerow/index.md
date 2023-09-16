@@ -1,14 +1,14 @@
 ---
-title: "Projekty open source dla technical writerów"
+title: 'Projekty open source dla technical writerów'
 authors: agnieszka
-date: "2021-05-26"
+date: '2021-05-26'
 tags:
-  - "dobre-praktyki"
-  - "warsztat"
-  - "dokumentacja"
-  - "kariera"
-  - "praca"
-coverImage: "Konferencje-2019-4.png"
+  - 'dobre-praktyki'
+  - 'warsztat'
+  - 'dokumentacja'
+  - 'kariera'
+  - 'praca'
+coverImage: 'Konferencje-2019-4.png'
 ---
 
 Dziś temat, który może zainteresować początkujących technical writerów.

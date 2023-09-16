@@ -1,16 +1,16 @@
 ---
-title: "Test dla nowego tech writera"
+title: 'Test dla nowego tech writera'
 authors: niewiarowski
-date: "2023-01-17"
+date: '2023-01-17'
 tags:
-  - "bez-kategorii"
-  - "dobre-praktyki"
-  - "praca"
-  - "przyklady"
-  - "kariera"
-  - "praca"
-  - "rekrutacja"
-coverImage: "test-300x199-1.jpg"
+  - 'bez-kategorii'
+  - 'dobre-praktyki'
+  - 'praca'
+  - 'przyklady'
+  - 'kariera'
+  - 'praca'
+  - 'rekrutacja'
+coverImage: 'test-300x199-1.jpg'
 ---
 
 Decyzja o przyjęciu nowej osoby do zespołu nie należy do łatwych, szczególnie w

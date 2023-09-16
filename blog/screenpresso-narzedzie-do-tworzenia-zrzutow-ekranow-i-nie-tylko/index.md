@@ -1,13 +1,13 @@
 ---
-title: "Screenpresso - narzędzie do tworzenia zrzutów ekranów i nie tylko"
+title: 'Screenpresso - narzędzie do tworzenia zrzutów ekranów i nie tylko'
 authors: toporek
-date: "2020-09-10"
+date: '2020-09-10'
 tags:
-  - "narzedzia"
-  - "grafika"
-  - "narzedzia"
-  - "uzytecznosc"
-coverImage: "Screenpresso-Pro.gif"
+  - 'narzedzia'
+  - 'grafika'
+  - 'narzedzia'
+  - 'uzytecznosc'
+coverImage: 'Screenpresso-Pro.gif'
 ---
 
 Czy przypadkiem nie szukacie narzędzia do tworzenia zrzutów ekranu, które

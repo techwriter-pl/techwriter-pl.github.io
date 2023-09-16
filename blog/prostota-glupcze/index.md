@@ -1,15 +1,15 @@
 ---
-title: "Prostota, głupcze!"
+title: 'Prostota, głupcze!'
 authors: admin
-date: "2013-11-28"
+date: '2013-11-28'
 tags:
-  - "dobre-praktyki"
-  - "warsztat"
-  - "instrukcje"
-  - "manuale"
-  - "pomoc-uzytkownika"
-  - "uzytecznosc"
-coverImage: "usability.jpg"
+  - 'dobre-praktyki'
+  - 'warsztat'
+  - 'instrukcje'
+  - 'manuale'
+  - 'pomoc-uzytkownika'
+  - 'uzytecznosc'
+coverImage: 'usability.jpg'
 ---
 
 Pięć zasad użytecznej dokumentacji według User Experience Magazine. A może tylko

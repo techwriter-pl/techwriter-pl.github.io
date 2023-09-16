@@ -1,13 +1,13 @@
 ---
-title: "Write The Docs coraz bliżej"
+title: 'Write The Docs coraz bliżej'
 authors: agnieszka
-date: "2016-08-16"
+date: '2016-08-16'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "sticker-wtd-colors.jpg"
+  - 'news'
+  - 'ze-swiata'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'sticker-wtd-colors.jpg'
 ---
 
 Wrzesień coraz bliżej, a wraz z nim zbliża się konferencja Write The Docs, na

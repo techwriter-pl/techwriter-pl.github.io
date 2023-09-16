@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Senior Technical Writer (Pega)"
+title: 'Oferta pracy: Senior Technical Writer (Pega)'
 authors: mojk
-date: "2017-12-19"
+date: '2017-12-19'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "pega_logo_horizontal_positive_rgb_small.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'pega_logo_horizontal_positive_rgb_small.png'
 ---
 
 Firma [Pegasystems](https://www.pega.com/), tworząca strategiczne aplikacje dla

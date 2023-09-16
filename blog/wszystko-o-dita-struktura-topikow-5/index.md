@@ -1,14 +1,14 @@
 ---
-title: "Wszystko o DITA – Struktura topików (5)"
+title: 'Wszystko o DITA – Struktura topików (5)'
 authors: kulgawczuk
-date: "2019-06-21"
+date: '2019-06-21'
 tags:
-  - "dobre-praktyki"
-  - "narzedzia"
-  - "warsztat"
-  - "dita"
-  - "topic"
-coverImage: "evolution-206670_1920.jpg"
+  - 'dobre-praktyki'
+  - 'narzedzia'
+  - 'warsztat'
+  - 'dita'
+  - 'topic'
+coverImage: 'evolution-206670_1920.jpg'
 ---
 
 W sieci można natknąć się na całkiem sporo materiałów dotyczących DITA, jednak

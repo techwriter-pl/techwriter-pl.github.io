@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer (Intern)"
+title: 'Oferta pracy: Technical Writer (Intern)'
 authors: mojk
-date: "2015-04-10"
+date: '2015-04-10'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "dassault.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'dassault.png'
 ---
 
 Krakowski oddział [Dassault Systemes](http://www.3ds.com/pl-pl/) nabieru

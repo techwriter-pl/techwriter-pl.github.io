@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: technical writer (Devire)"
+title: 'Oferta pracy: technical writer (Devire)'
 authors: pensjonatus
-date: "2017-11-03"
+date: '2017-11-03'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "Devire_logotyp_kolor_rgb_web.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'Devire_logotyp_kolor_rgb_web.png'
 ---
 
 Firma rekrutacyjna Devire szuka kandydatów dla swojego klienta w branży Telco.

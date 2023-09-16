@@ -1,17 +1,17 @@
 ---
-title: "Podstawy podstaw - dekalog techwritera/techwriterki"
+title: 'Podstawy podstaw - dekalog techwritera/techwriterki'
 authors: niedzwiedzka
-date: "2021-03-16"
+date: '2021-03-16'
 tags:
-  - "biblioteczka-techwritera"
-  - "dobre-praktyki"
-  - "przyklady"
-  - "dokumentacja"
-  - "edukacja"
-  - "materialy-szkoleniowe"
-  - "podstawy"
-  - "uzytecznosc"
-coverImage: "dekalog_techwritera.png"
+  - 'biblioteczka-techwritera'
+  - 'dobre-praktyki'
+  - 'przyklady'
+  - 'dokumentacja'
+  - 'edukacja'
+  - 'materialy-szkoleniowe'
+  - 'podstawy'
+  - 'uzytecznosc'
+coverImage: 'dekalog_techwritera.png'
 ---
 
 Podstawy? Dekalog? Tak, wiem, główną grupą docelową tej strony są raczej tzw.

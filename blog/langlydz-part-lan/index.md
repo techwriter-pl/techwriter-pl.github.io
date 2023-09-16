@@ -1,13 +1,13 @@
 ---
-title: "Langłydż - part łan"
+title: 'Langłydż - part łan'
 authors: admin
-date: "2013-12-03"
+date: '2013-12-03'
 tags:
-  - "warsztat"
-  - "z-przymruzeniem-oka"
-  - "humor"
-  - "jezyk"
-coverImage: "langlydz1.jpg"
+  - 'warsztat'
+  - 'z-przymruzeniem-oka'
+  - 'humor'
+  - 'jezyk'
+coverImage: 'langlydz1.jpg'
 ---
 
 Otwieramy cykl artykułów na temat naszych ulubionych określeń i zwrotów,

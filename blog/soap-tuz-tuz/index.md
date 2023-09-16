@@ -1,14 +1,14 @@
 ---
-title: "Soap! tuż tuż"
+title: 'Soap! tuż tuż'
 authors: agnieszka
-date: "2019-05-16"
+date: '2019-05-16'
 tags:
-  - "news"
-  - "z-kraju"
-  - "kariera"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "Zrzut-ekranu-2019-04-8-o-22.20.52-e1554754998324.png"
+  - 'news'
+  - 'z-kraju'
+  - 'kariera'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'Zrzut-ekranu-2019-04-8-o-22.20.52-e1554754998324.png'
 ---
 
 Już tylko kilka tygodni dzieli nas od kolejnej edycji krakowskiej konferencji

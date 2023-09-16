@@ -1,13 +1,13 @@
 ---
-title: "Komunikacja techniczna - co jest na topie"
+title: 'Komunikacja techniczna - co jest na topie'
 authors: admin
-date: "2020-05-13"
+date: '2020-05-13'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "spolecznosc"
-  - "technologie"
-coverImage: "Screenshot-2020-05-06-at-17.59.28.png"
+  - 'news'
+  - 'ze-swiata'
+  - 'spolecznosc'
+  - 'technologie'
+coverImage: 'Screenshot-2020-05-06-at-17.59.28.png'
 ---
 
 W czasach zarazy można usiąść z filiżanką kawy lub zimnego piwa i obserwować co

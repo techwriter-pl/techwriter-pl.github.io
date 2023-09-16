@@ -1,16 +1,16 @@
 ---
-title: "Konferencje 2019 - drugie półrocze"
+title: 'Konferencje 2019 - drugie półrocze'
 authors: agnieszka
-date: "2019-05-31"
+date: '2019-05-31'
 tags:
-  - "news"
-  - "z-kraju"
-  - "ze-swiata"
-  - "edukacja"
-  - "kariera"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "Konferencje-2019.png"
+  - 'news'
+  - 'z-kraju'
+  - 'ze-swiata'
+  - 'edukacja'
+  - 'kariera'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'Konferencje-2019.png'
 ---
 
 Nieubłaganie zbliża się drugie półrocze 2019 roku zatem nadszedł czas, by

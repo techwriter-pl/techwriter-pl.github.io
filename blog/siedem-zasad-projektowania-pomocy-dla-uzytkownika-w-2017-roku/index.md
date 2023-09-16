@@ -1,16 +1,16 @@
 ---
-title: "Siedem zasad projektowania pomocy dla użytkownika w 2017 roku"
+title: 'Siedem zasad projektowania pomocy dla użytkownika w 2017 roku'
 authors: pensjonatus
-date: "2017-02-01"
+date: '2017-02-01'
 tags:
-  - "dobre-praktyki"
-  - "warsztat"
-  - "instrukcje"
-  - "knowledge-base"
-  - "konferencje"
-  - "on-line-help"
-  - "pomoc-uzytkownika"
-coverImage: "7-zasad.jpg"
+  - 'dobre-praktyki'
+  - 'warsztat'
+  - 'instrukcje'
+  - 'knowledge-base'
+  - 'konferencje'
+  - 'on-line-help'
+  - 'pomoc-uzytkownika'
+coverImage: '7-zasad.jpg'
 ---
 
 Dziś na naszych łamach gościnny wpis przygotowany przez Matthew Ellisona.

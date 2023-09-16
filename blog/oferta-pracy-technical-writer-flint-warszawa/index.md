@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer (Flint) – Warszawa"
+title: 'Oferta pracy: Technical Writer (Flint) – Warszawa'
 authors: admin
-date: "2020-01-28"
+date: '2020-01-28'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "flint.jpg"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'flint.jpg'
 ---
 
 Poszukiwany doświadczony techwriter! Oferowane wynagrodzenie: 11000 – 13000

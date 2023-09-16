@@ -1,13 +1,13 @@
 ---
-title: "Komunikacja techniczna geograficznie v2"
+title: 'Komunikacja techniczna geograficznie v2'
 authors: mojk
-date: "2015-05-26"
+date: '2015-05-26'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "map-525349_640-e1432019946248.png"
+  - 'news'
+  - 'ze-swiata'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'map-525349_640-e1432019946248.png'
 ---
 
 Minęło całkiem sporo czasu odkąd

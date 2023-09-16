@@ -1,13 +1,13 @@
 ---
-title: "Jak nauczyłem się wszystkiego co wiem o DITA"
+title: 'Jak nauczyłem się wszystkiego co wiem o DITA'
 authors: mojk
-date: "2016-01-19"
+date: '2016-01-19'
 tags:
-  - "narzedzia"
-  - "przyklady"
-  - "warsztat"
-  - "technologie"
-coverImage: "dita-logo.png"
+  - 'narzedzia'
+  - 'przyklady'
+  - 'warsztat'
+  - 'technologie'
+coverImage: 'dita-logo.png'
 ---
 
 Nie tak dawno publikowaliśmy

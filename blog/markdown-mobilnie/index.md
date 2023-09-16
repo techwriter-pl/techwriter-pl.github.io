@@ -1,12 +1,12 @@
 ---
-title: "Markdown mobilnie"
+title: 'Markdown mobilnie'
 authors: mojk
-date: "2014-05-09"
+date: '2014-05-09'
 tags:
-  - "narzedzia"
-  - "warsztat"
-  - "aplikacje"
-coverImage: "smartphone-blue-w-hand-illustration-e1399318639963.jpg"
+  - 'narzedzia'
+  - 'warsztat'
+  - 'aplikacje'
+coverImage: 'smartphone-blue-w-hand-illustration-e1399318639963.jpg'
 ---
 
 Markdown jest popularnym językiem znaczników. Niektórzy używają go do tworzenia

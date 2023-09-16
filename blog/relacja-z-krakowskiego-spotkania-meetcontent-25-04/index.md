@@ -1,13 +1,13 @@
 ---
-title: "Relacja z krakowskiego spotkania MeetContent (25.04)"
+title: 'Relacja z krakowskiego spotkania MeetContent (25.04)'
 authors: kuba
-date: "2017-05-09"
+date: '2017-05-09'
 tags:
-  - "news"
-  - "z-kraju"
-  - "meetcontent"
-  - "spolecznosc"
-coverImage: "oscar-keys-58399-e1493737693921.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'meetcontent'
+  - 'spolecznosc'
+coverImage: 'oscar-keys-58399-e1493737693921.jpg'
 ---
 
 We wtorek 25 kwietnia, piwnica Artefakt Café po raz kolejny ugościła krakowską

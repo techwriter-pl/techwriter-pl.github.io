@@ -1,13 +1,13 @@
 ---
-title: "Langłydż - part sewen"
+title: 'Langłydż - part sewen'
 authors: admin
-date: "2014-06-26"
+date: '2014-06-26'
 tags:
-  - "warsztat"
-  - "z-przymruzeniem-oka"
-  - "humor"
-  - "jezyk"
-coverImage: "review.jpg"
+  - 'warsztat'
+  - 'z-przymruzeniem-oka'
+  - 'humor'
+  - 'jezyk'
+coverImage: 'review.jpg'
 ---
 
 Jeśli siedzisz właśnie na nudnym spotkaniu to temat powinien Cię zainteresować.

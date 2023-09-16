@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy x2: Head of Technology, Tools Specialist (3di)"
+title: 'Oferta pracy x2: Head of Technology, Tools Specialist (3di)'
 authors: admin
-date: "2018-12-14"
+date: '2018-12-14'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "3di_logo.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: '3di_logo.png'
 ---
 
 Zaprzyjaźniona firma z Krakowa poszukuje ludzi z naszej branży, z mocnymi

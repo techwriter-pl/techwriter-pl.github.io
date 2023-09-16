@@ -1,13 +1,13 @@
 ---
-title: "Wyższe koszty uzyskania przychodu dla Technical Writerów?"
+title: 'Wyższe koszty uzyskania przychodu dla Technical Writerów?'
 authors: mojk
-date: "2015-08-04"
+date: '2015-08-04'
 tags:
-  - "news"
-  - "z-kraju"
-  - "kariera"
-  - "praca"
-coverImage: "tax-468440_640-e1437310570838.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'kariera'
+  - 'praca'
+coverImage: 'tax-468440_640-e1437310570838.jpg'
 ---
 
 Technical Writerzy nie są powszechnie uważani za artystów, jednak nie można

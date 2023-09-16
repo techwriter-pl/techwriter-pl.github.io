@@ -1,13 +1,13 @@
 ---
-title: "Kilka pytań do - część 2"
+title: 'Kilka pytań do - część 2'
 authors: admin
-date: "2015-02-05"
+date: '2015-02-05'
 tags:
-  - "warsztat"
-  - "wywiady"
-  - "spolecznosc"
-  - "wywiad"
-coverImage: "HIS.jpg"
+  - 'warsztat'
+  - 'wywiady'
+  - 'spolecznosc'
+  - 'wywiad'
+coverImage: 'HIS.jpg'
 ---
 
 Przed Wami kolejny wywiad i kolejny potencjalny kolega na całe życie - Marcin -

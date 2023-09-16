@@ -1,13 +1,13 @@
 ---
-title: "[NIEAKTUALNE] Oferta pracy: Lead Technical Writer"
+title: '[NIEAKTUALNE] Oferta pracy: Lead Technical Writer'
 authors: mojk
-date: "2016-01-21"
+date: '2016-01-21'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "3di_logo.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: '3di_logo.png'
 ---
 
 [Firma 3di](http://www.3di-info.com/) poszukuje kolejnej osoby do swojego nowego

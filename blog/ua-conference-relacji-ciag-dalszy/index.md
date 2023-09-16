@@ -1,15 +1,15 @@
 ---
-title: "UA Conference - Relacji Ciąg Dalszy"
+title: 'UA Conference - Relacji Ciąg Dalszy'
 authors: szablowska
-date: "2014-06-24"
+date: '2014-06-24'
 tags:
-  - "news"
-  - "z-kraju"
-  - "instrukcje"
-  - "kariera"
-  - "konferencje"
-  - "uzytecznosc"
-coverImage: "UA_Conference.png"
+  - 'news'
+  - 'z-kraju'
+  - 'instrukcje'
+  - 'kariera'
+  - 'konferencje'
+  - 'uzytecznosc'
+coverImage: 'UA_Conference.png'
 ---
 
 Zapraszamy na kolejną relację z UA Conference. Dzisiaj nasze podsumowanie dwóch

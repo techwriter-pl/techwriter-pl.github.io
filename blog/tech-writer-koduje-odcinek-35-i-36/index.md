@@ -1,14 +1,14 @@
 ---
-title: "Tech Writer Koduje - odcinek 35 i 36"
+title: 'Tech Writer Koduje - odcinek 35 i 36'
 authors: agnieszka
-date: "2021-12-01"
+date: '2021-12-01'
 tags:
-  - "dobre-praktyki"
-  - "warsztat"
-  - "dokumentacja"
-  - "podcast"
-  - "praktyki"
-coverImage: "twk_35_i_36.png"
+  - 'dobre-praktyki'
+  - 'warsztat'
+  - 'dokumentacja'
+  - 'podcast'
+  - 'praktyki'
+coverImage: 'twk_35_i_36.png'
 ---
 
 _Tech Writer chce kodować więcej_ i _Tech Writer się boi, czyli Halloween

@@ -1,14 +1,14 @@
 ---
-title: "Google Technical Writing Courses - nauka bez wychodzenia z domu"
+title: 'Google Technical Writing Courses - nauka bez wychodzenia z domu'
 authors: agnieszka
-date: "2020-03-30"
+date: '2020-03-30'
 tags:
-  - "warsztat"
-  - "edukacja"
-  - "materialy-szkoleniowe"
-  - "spolecznosc"
-  - "treningi"
-coverImage: "Add-a-subheading-1-e1585213376985.png"
+  - 'warsztat'
+  - 'edukacja'
+  - 'materialy-szkoleniowe'
+  - 'spolecznosc'
+  - 'treningi'
+coverImage: 'Add-a-subheading-1-e1585213376985.png'
 ---
 
 W dobie powszechnej kwarantanny i akcji #zostańwdomu mamy dla Was propozycję

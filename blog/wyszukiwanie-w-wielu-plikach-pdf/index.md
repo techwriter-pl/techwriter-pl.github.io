@@ -1,12 +1,12 @@
 ---
-title: "Wyszukiwanie w wielu plikach PDF"
+title: 'Wyszukiwanie w wielu plikach PDF'
 authors: mojk
-date: "2014-09-10"
+date: '2014-09-10'
 tags:
-  - "narzedzia"
-  - "warsztat"
-  - "manuale"
-coverImage: "files-27717_640-e1410098985552.png"
+  - 'narzedzia'
+  - 'warsztat'
+  - 'manuale'
+coverImage: 'files-27717_640-e1410098985552.png'
 ---
 
 Jak wyszukać jakieś wyrażenie w wielu plikach PDF naraz? Można otworzyć każdy

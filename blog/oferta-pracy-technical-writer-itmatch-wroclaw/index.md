@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer (itMatch) – Wrocław"
+title: 'Oferta pracy: Technical Writer (itMatch) – Wrocław'
 authors: admin
-date: "2020-08-10"
+date: '2020-08-10'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "Logo-itMatch-duze.jpg"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'Logo-itMatch-duze.jpg'
 ---
 
 Poszukiwany Techwriter z doświadczeniem. Praca w branży IT. Będziesz tworzyć

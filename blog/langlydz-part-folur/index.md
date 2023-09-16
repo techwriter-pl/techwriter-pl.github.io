@@ -1,13 +1,13 @@
 ---
-title: "Langłydż - part fołur"
+title: 'Langłydż - part fołur'
 authors: admin
-date: "2014-01-31"
+date: '2014-01-31'
 tags:
-  - "warsztat"
-  - "z-przymruzeniem-oka"
-  - "humor"
-  - "jezyk"
-coverImage: "Lekcja4.jpg"
+  - 'warsztat'
+  - 'z-przymruzeniem-oka'
+  - 'humor'
+  - 'jezyk'
+coverImage: 'Lekcja4.jpg'
 ---
 
 Istnieją słowa, którymi można wyrazić wszystko. Budować zdania wielokrotnie

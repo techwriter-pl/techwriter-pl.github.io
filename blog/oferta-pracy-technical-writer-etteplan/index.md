@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer (Etteplan)"
+title: 'Oferta pracy: Technical Writer (Etteplan)'
 authors: mojk
-date: "2019-01-18"
+date: '2019-01-18'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "Etteplan_logo_CMYK-new.jpg"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'Etteplan_logo_CMYK-new.jpg'
 ---
 
 Kolejna oferta z Dolnego Śląska.

@@ -1,8 +1,8 @@
-import React from "react";
-import OriginalBlogPostItems from "@theme-original/BlogPostItems";
-import styles from "./BlogPostItems.module.css";
-import Tag from "@theme/Tag";
-import Link from "@docusaurus/Link";
+import React from 'react';
+import OriginalBlogPostItems from '@theme-original/BlogPostItems';
+import styles from './BlogPostItems.module.css';
+import Tag from '@theme/Tag';
+import Link from '@docusaurus/Link';
 
 type PopularFilterProps = {
   label: string;
@@ -10,10 +10,10 @@ type PopularFilterProps = {
 };
 
 const popularFilters: PopularFilterProps[] = [
-  { label: "oferty pracy", permalink: "/tags/oferty-pracy" },
-  { label: "badanie plac", permalink: "/tags/badanie-plac" },
-  { label: "narzedzia", permalink: "/tags/narzedzia" },
-  { label: "konferencje", permalink: "/tags/konferencje" },
+  { label: 'oferty pracy', permalink: '/tags/oferty-pracy' },
+  { label: 'badanie plac', permalink: '/tags/badanie-plac' },
+  { label: 'narzedzia', permalink: '/tags/narzedzia' },
+  { label: 'konferencje', permalink: '/tags/konferencje' },
 ];
 
 export default function BlogPostItems(props): JSX.Element {

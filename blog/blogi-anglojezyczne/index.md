@@ -1,14 +1,14 @@
 ---
-title: "Blogi anglojęzyczne"
+title: 'Blogi anglojęzyczne'
 authors: admin
-date: "2016-03-11"
+date: '2016-03-11'
 tags:
-  - "biblioteczka-techwritera"
-  - "warsztat"
-  - "edukacja"
-  - "literatura"
-  - "spolecznosc"
-coverImage: "rss_blog.jpg"
+  - 'biblioteczka-techwritera'
+  - 'warsztat'
+  - 'edukacja'
+  - 'literatura'
+  - 'spolecznosc'
+coverImage: 'rss_blog.jpg'
 ---
 
 Jakiś czas temu

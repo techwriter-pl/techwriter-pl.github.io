@@ -1,13 +1,13 @@
 ---
-title: "Dokumentacja techniczna w przyszłości"
+title: 'Dokumentacja techniczna w przyszłości'
 authors: szablowska
-date: "2014-02-06"
+date: '2014-02-06'
 tags:
-  - "news"
-  - "z-kraju"
-  - "ze-swiata"
-  - "kariera"
-coverImage: "typewriter.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'ze-swiata'
+  - 'kariera'
+coverImage: 'typewriter.jpg'
 ---
 
 Zastanawialiście się kiedyś nad przyszłością zawodu technical writera? Pewnie

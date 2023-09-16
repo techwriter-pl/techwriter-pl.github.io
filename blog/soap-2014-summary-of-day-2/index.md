@@ -1,13 +1,13 @@
 ---
-title: "soap! 2014 - summary of day 2"
+title: 'soap! 2014 - summary of day 2'
 authors: mojk
-date: "2014-12-05"
+date: '2014-12-05'
 tags:
-  - "news"
-  - "z-kraju"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "soap.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'soap.jpg'
 ---
 
 Today, we've got another translation provided by the soapy team. It's the day 2

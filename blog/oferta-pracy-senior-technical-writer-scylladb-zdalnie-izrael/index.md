@@ -1,11 +1,11 @@
 ---
-title: "Oferta pracy: Senior Technical Writer (ScyllaDB) – Zdalnie/Izrael"
+title: 'Oferta pracy: Senior Technical Writer (ScyllaDB) – Zdalnie/Izrael'
 authors: admin
-date: "2021-09-27"
+date: '2021-09-27'
 tags:
-  - "oferty-pracy"
-  - "praca"
-coverImage: "Scylla_logo.jpg"
+  - 'oferty-pracy'
+  - 'praca'
+coverImage: 'Scylla_logo.jpg'
 ---
 
 Jedna z ciekawszych ofert jakie przewinęły się przez nasz portal. Zaawansowany

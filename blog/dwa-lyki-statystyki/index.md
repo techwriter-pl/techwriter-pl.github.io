@@ -1,15 +1,15 @@
 ---
-title: "Dwa łyki statystyki"
+title: 'Dwa łyki statystyki'
 authors: admin
-date: "2015-01-09"
+date: '2015-01-09'
 tags:
-  - "news"
-  - "warsztat"
-  - "ze-swiata"
-  - "jezyk"
-  - "praca"
-  - "tlumaczenia"
-coverImage: "a_the.png"
+  - 'news'
+  - 'warsztat'
+  - 'ze-swiata'
+  - 'jezyk'
+  - 'praca'
+  - 'tlumaczenia'
+coverImage: 'a_the.png'
 ---
 
 Dziś kilka słów o... słowach. Czy zastanawialiście się kiedyś których słów

@@ -1,17 +1,17 @@
 ---
-title: "Pisz dla Linode - program stworzony z myślą o freelancerach z branży"
+title: 'Pisz dla Linode - program stworzony z myślą o freelancerach z branży'
 authors: agnieszka
-date: "2020-06-04"
+date: '2020-06-04'
 tags:
-  - "oferty-pracy"
-  - "przyklady"
-  - "warsztat"
-  - "dokumentacja"
-  - "edukacja"
-  - "knowledge-base"
-  - "praca"
-  - "spolecznosc"
-coverImage: "Konferencje-2019.png"
+  - 'oferty-pracy'
+  - 'przyklady'
+  - 'warsztat'
+  - 'dokumentacja'
+  - 'edukacja'
+  - 'knowledge-base'
+  - 'praca'
+  - 'spolecznosc'
+coverImage: 'Konferencje-2019.png'
 ---
 
 Mamy dziś dla Was propozycję ciekawej, wirtualnej biblioteki, której zasoby

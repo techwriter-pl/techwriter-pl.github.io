@@ -1,13 +1,13 @@
 ---
-title: "Dzyń dzyń dzyń, idą święta"
+title: 'Dzyń dzyń dzyń, idą święta'
 authors: niedzwiedzka
-date: "2021-12-22"
+date: '2021-12-22'
 tags:
-  - "news"
-  - "z-przymruzeniem-oka"
-  - "humor"
-  - "spolecznosc"
-coverImage: "Untitled-design.png"
+  - 'news'
+  - 'z-przymruzeniem-oka'
+  - 'humor'
+  - 'spolecznosc'
+coverImage: 'Untitled-design.png'
 ---
 
 Czego można życzyć techcommowi i branżom pokrewnym u progu kolejnego roku?

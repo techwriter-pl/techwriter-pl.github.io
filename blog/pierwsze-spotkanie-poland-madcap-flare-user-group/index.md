@@ -1,16 +1,16 @@
 ---
-title: "Pierwsze spotkanie Poland MadCap Flare User Group"
+title: 'Pierwsze spotkanie Poland MadCap Flare User Group'
 authors: kuba
-date: "2017-07-03"
+date: '2017-07-03'
 tags:
-  - "news"
-  - "narzedzia"
-  - "warsztat"
-  - "z-kraju"
-  - "aplikacje"
-  - "spolecznosc"
-  - "technologie"
-coverImage: "PLFUG-logo-small.jpg"
+  - 'news'
+  - 'narzedzia'
+  - 'warsztat'
+  - 'z-kraju'
+  - 'aplikacje'
+  - 'spolecznosc'
+  - 'technologie'
+coverImage: 'PLFUG-logo-small.jpg'
 ---
 
 Kilka tygodni temu

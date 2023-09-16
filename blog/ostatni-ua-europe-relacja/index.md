@@ -1,13 +1,13 @@
 ---
-title: "Ostatni UA Europe - relacja"
+title: 'Ostatni UA Europe - relacja'
 authors: pensjonatus
-date: "2017-06-20"
+date: '2017-06-20'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "edukacja"
-  - "konferencje"
-coverImage: "Crown_Hotel_Harrogate_640.jpg"
+  - 'news'
+  - 'ze-swiata'
+  - 'edukacja'
+  - 'konferencje'
+coverImage: 'Crown_Hotel_Harrogate_640.jpg'
 ---
 
 No i stało się. UA Europe, który odbył się w dniach 8-9 czerwca 2017 w

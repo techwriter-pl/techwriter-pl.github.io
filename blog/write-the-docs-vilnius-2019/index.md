@@ -1,12 +1,12 @@
 ---
-title: "Write the Docs Wilno 2019 — relacja"
+title: 'Write the Docs Wilno 2019 — relacja'
 authors: milc
-date: "2019-08-09"
+date: '2019-08-09'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "write-the-docs"
-coverImage: "Zrzut-ekranu-2019-04-17-o-22.38.56-e1555533727865.png"
+  - 'news'
+  - 'ze-swiata'
+  - 'write-the-docs'
+coverImage: 'Zrzut-ekranu-2019-04-17-o-22.38.56-e1555533727865.png'
 ---
 
 Jak pewnie dobrze wiecie, dostępne

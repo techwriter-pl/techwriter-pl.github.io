@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer"
+title: 'Oferta pracy: Technical Writer'
 authors: admin
-date: "2018-06-22"
+date: '2018-06-22'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "2linesfusionlogo.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: '2linesfusionlogo.png'
 ---
 
 Dziś oferta z Trójmiasta, a dokładniej z Gdyni, szukają Technical Writera z

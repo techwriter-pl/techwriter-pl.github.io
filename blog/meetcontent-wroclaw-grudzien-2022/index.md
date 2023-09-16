@@ -1,15 +1,15 @@
 ---
-title: "MeetContent Wrocław - grudzień 2022"
+title: 'MeetContent Wrocław - grudzień 2022'
 authors: agnieszka
-date: "2022-11-15"
+date: '2022-11-15'
 tags:
-  - "news"
-  - "z-kraju"
-  - "kariera"
-  - "meetcontent"
-  - "praca"
-  - "spolecznosc"
-coverImage: "MeetContent_2022.png"
+  - 'news'
+  - 'z-kraju'
+  - 'kariera'
+  - 'meetcontent'
+  - 'praca'
+  - 'spolecznosc'
+coverImage: 'MeetContent_2022.png'
 ---
 
 Mamy dla Was dobre wieści z Wrocławia! Po ponad dwuletniej przerwie wraca

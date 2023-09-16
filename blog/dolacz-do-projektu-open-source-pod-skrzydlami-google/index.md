@@ -1,15 +1,15 @@
 ---
-title: "Dołącz do projektu Open Source pod skrzydłami Google!"
+title: 'Dołącz do projektu Open Source pod skrzydłami Google!'
 authors: mojk
-date: "2019-04-17"
+date: '2019-04-17'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "instrukcje"
-  - "kariera"
-  - "open-source"
-  - "praca"
-coverImage: "season_of_docs_grafika.png"
+  - 'news'
+  - 'ze-swiata'
+  - 'instrukcje'
+  - 'kariera'
+  - 'open-source'
+  - 'praca'
+coverImage: 'season_of_docs_grafika.png'
 ---
 
 Na początku kwietnia, Google rozpoczął nowy program pod nazwą, **Season of

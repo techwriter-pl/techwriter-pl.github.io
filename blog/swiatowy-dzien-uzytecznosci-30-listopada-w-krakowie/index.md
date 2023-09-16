@@ -1,13 +1,13 @@
 ---
-title: "Światowy dzień użyteczności - 30 listopada w Krakowie"
+title: 'Światowy dzień użyteczności - 30 listopada w Krakowie'
 authors: admin
-date: "2013-11-18"
+date: '2013-11-18'
 tags:
-  - "news"
-  - "z-kraju"
-  - "konferencje"
-  - "uzytecznosc"
-coverImage: "WorldUsabilityDay1.png"
+  - 'news'
+  - 'z-kraju'
+  - 'konferencje'
+  - 'uzytecznosc'
+coverImage: 'WorldUsabilityDay1.png'
 ---
 
 Kolejna (mamy nadzieję) ciekawa konferencja w Krakowie - World Usability

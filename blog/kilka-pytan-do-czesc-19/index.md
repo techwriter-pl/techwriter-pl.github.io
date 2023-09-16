@@ -1,14 +1,14 @@
 ---
-title: "Kilka pytań do — część 19"
+title: 'Kilka pytań do — część 19'
 authors: milc
-date: "2020-05-08"
+date: '2020-05-08'
 tags:
-  - "warsztat"
-  - "wywiady"
-  - "dokumentacja"
-  - "spolecznosc"
-  - "wywiad"
-coverImage: "Kilka.png"
+  - 'warsztat'
+  - 'wywiady'
+  - 'dokumentacja'
+  - 'spolecznosc'
+  - 'wywiad'
+coverImage: 'Kilka.png'
 ---
 
 Serwujemy kolejny wywiad w ramach cyklu „Kilka pytań do…”. Tym razem rozmawiamy

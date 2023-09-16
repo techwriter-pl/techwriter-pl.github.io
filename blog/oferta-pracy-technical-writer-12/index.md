@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer"
+title: 'Oferta pracy: Technical Writer'
 authors: mojk
-date: "2016-05-26"
+date: '2016-05-26'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "Dynatrace_Logo_RGB_CPV_1024x1024px-e1461612504627.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'Dynatrace_Logo_RGB_CPV_1024x1024px-e1461612504627.png'
 ---
 
 Dla zrównoważenia ostatniego napływu ofert z południa Polski, mamy dzisiaj dla

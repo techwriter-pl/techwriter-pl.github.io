@@ -1,13 +1,13 @@
 ---
-title: "Konkurs - wygraj wejściówkę na soap! 2019"
+title: 'Konkurs - wygraj wejściówkę na soap! 2019'
 authors: mojk
-date: "2019-05-10"
+date: '2019-05-10'
 tags:
-  - "news"
-  - "z-kraju"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "soap_konkurs-1.png"
+  - 'news'
+  - 'z-kraju'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'soap_konkurs-1.png'
 ---
 
 Konferencja soap! 2019 zbliża się wielkimi krokami, więc najwyższy czas na

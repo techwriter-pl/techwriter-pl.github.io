@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: User Manual Author (Technical Writer)"
+title: 'Oferta pracy: User Manual Author (Technical Writer)'
 authors: admin
-date: "2015-06-12"
+date: '2015-06-12'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "Electrolux_2015.svg_.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'Electrolux_2015.svg_.png'
 ---
 
 Dziś znów mamy dla Was ofertę pracy - znana firma z tradycjami - Electrolux. Kto

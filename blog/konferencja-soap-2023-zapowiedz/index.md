@@ -1,13 +1,13 @@
 ---
-title: "KONFERENCJA SOAP! 2023 – ZAPOWIEDŹ"
+title: 'KONFERENCJA SOAP! 2023 – ZAPOWIEDŹ'
 authors: agnieszka
-date: "2023-03-28"
+date: '2023-03-28'
 tags:
-  - "news"
-  - "z-kraju"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "soap_2023.png"
+  - 'news'
+  - 'z-kraju'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'soap_2023.png'
 ---
 
 Do czerwca zostało jeszcze trochę czasu, ale już dziś zapraszamy Was na

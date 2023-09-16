@@ -1,12 +1,12 @@
 ---
-title: "Pozdrawiamy z Pragi!"
+title: 'Pozdrawiamy z Pragi!'
 authors: admin
-date: "2016-09-18"
+date: '2016-09-18'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "spolecznosc"
-coverImage: "TechwriterPl3.jpg"
+  - 'news'
+  - 'ze-swiata'
+  - 'spolecznosc'
+coverImage: 'TechwriterPl3.jpg'
 ---
 
 Czy wiecie, że dziś są trzecie urodziny Techwriter.pl? Nas też to zaskoczyło...

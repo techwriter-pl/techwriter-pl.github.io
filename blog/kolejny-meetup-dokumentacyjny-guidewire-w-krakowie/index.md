@@ -1,14 +1,14 @@
 ---
-title: "Kolejny meetup dokumentacyjny Guidewire w Krakowie"
+title: 'Kolejny meetup dokumentacyjny Guidewire w Krakowie'
 authors: mojk
-date: "2019-01-15"
+date: '2019-01-15'
 tags:
-  - "news"
-  - "z-kraju"
-  - "automatyzacja"
-  - "edukacja"
-  - "spolecznosc"
-coverImage: "dokumentacja_jako_kod.jpeg"
+  - 'news'
+  - 'z-kraju'
+  - 'automatyzacja'
+  - 'edukacja'
+  - 'spolecznosc'
+coverImage: 'dokumentacja_jako_kod.jpeg'
 ---
 
 Firma [Guidewire Software](https://www.guidewire.com/) organizuje kolejny meetup

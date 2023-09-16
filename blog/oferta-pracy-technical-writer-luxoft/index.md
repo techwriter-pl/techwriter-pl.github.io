@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer (Luxoft)"
+title: 'Oferta pracy: Technical Writer (Luxoft)'
 authors: mojk
-date: "2018-08-23"
+date: '2018-08-23'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "Luxoft-logo-2015.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'Luxoft-logo-2015.png'
 ---
 
 Na odmianę mamy dla Was ofertę ze stolicy.

@@ -1,13 +1,13 @@
 ---
-title: "Konferencja UA Europe - w Polsce!"
+title: 'Konferencja UA Europe - w Polsce!'
 authors: admin
-date: "2013-10-25"
+date: '2013-10-25'
 tags:
-  - "news"
-  - "z-kraju"
-  - "ze-swiata"
-  - "konferencje"
-coverImage: "krakow.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'ze-swiata'
+  - 'konferencje'
+coverImage: 'krakow.jpg'
 ---
 
 Miło nam poinformować, że kolejna konferencja UA Europe odbędzie się w dniach

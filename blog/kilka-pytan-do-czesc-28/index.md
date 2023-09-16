@@ -1,14 +1,14 @@
 ---
-title: "Kilka pytań do - część 28"
+title: 'Kilka pytań do - część 28'
 authors: niewiarowski
-date: "2023-02-09"
+date: '2023-02-09'
 tags:
-  - "warsztat"
-  - "wywiady"
-  - "kariera"
-  - "praca"
-  - "wywiad"
-coverImage: "wywiad_28.png"
+  - 'warsztat'
+  - 'wywiady'
+  - 'kariera'
+  - 'praca'
+  - 'wywiad'
+coverImage: 'wywiad_28.png'
 ---
 
 Przed Wami kolejna odsłona cyklu *Kilka pytań do...* Tym razem na nasze pytania

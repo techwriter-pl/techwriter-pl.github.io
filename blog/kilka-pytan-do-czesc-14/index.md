@@ -1,13 +1,13 @@
 ---
-title: "Kilka pytań do - część 14"
+title: 'Kilka pytań do - część 14'
 authors: mojk
-date: "2017-09-06"
+date: '2017-09-06'
 tags:
-  - "warsztat"
-  - "wywiady"
-  - "spolecznosc"
-  - "wywiad"
-coverImage: "jonathan-velasquez-160775-640.jpg"
+  - 'warsztat'
+  - 'wywiady'
+  - 'spolecznosc'
+  - 'wywiad'
+coverImage: 'jonathan-velasquez-160775-640.jpg'
 ---
 
 Nasz dzisiejszy rozmówca powiązany jest z firmą Volvo. Co prawda, to nie on brał

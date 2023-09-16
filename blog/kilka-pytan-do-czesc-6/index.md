@@ -1,13 +1,13 @@
 ---
-title: "Kilka pytań do - część 6"
+title: 'Kilka pytań do - część 6'
 authors: admin
-date: "2015-09-01"
+date: '2015-09-01'
 tags:
-  - "warsztat"
-  - "wywiady"
-  - "spolecznosc"
-  - "wywiad"
-coverImage: "wywiad.jpg"
+  - 'warsztat'
+  - 'wywiady'
+  - 'spolecznosc'
+  - 'wywiad'
+coverImage: 'wywiad.jpg'
 ---
 
 Marek napisał do nas mail z tematem "Okazuje się, że w sieci w końcu nie jestem

@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer (AVSystem) – Kraków/częściowo zdalnie"
+title: 'Oferta pracy: Technical Writer (AVSystem) – Kraków/częściowo zdalnie'
 authors: agnieszka
-date: "2021-10-25"
+date: '2021-10-25'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "LogoAVSystem.jpg"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'LogoAVSystem.jpg'
 ---
 
 Nowy tydzień zaczynamy od oferty pracy. Jedna z krakowskich firm potrzebuje

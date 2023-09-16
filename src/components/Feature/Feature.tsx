@@ -1,7 +1,7 @@
-import React from "react";
-import Link from "@docusaurus/Link";
-import clsx from "clsx";
-import styles from "./Feature.module.css";
+import React from 'react';
+import Link from '@docusaurus/Link';
+import clsx from 'clsx';
+import styles from './Feature.module.css';
 
 export type FeatureProps = {
   title: string;
@@ -18,7 +18,7 @@ export default function Feature({
   link,
 }: FeatureProps): JSX.Element {
   return (
-    <div className={clsx("card", styles.featureCard)}>
+    <div className={clsx('card', styles.featureCard)}>
       <h2>{title}</h2>
       <div>{body}</div>
       <div>

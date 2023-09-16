@@ -1,14 +1,14 @@
 ---
-title: "Kilka pytań do - Część 22"
+title: 'Kilka pytań do - Część 22'
 authors: niewiarowski
-date: "2021-01-11"
+date: '2021-01-11'
 tags:
-  - "warsztat"
-  - "wywiady"
-  - "dokumentacja"
-  - "spolecznosc"
-  - "wywiad"
-coverImage: "wywiad-22.png"
+  - 'warsztat'
+  - 'wywiady'
+  - 'dokumentacja'
+  - 'spolecznosc'
+  - 'wywiad'
+coverImage: 'wywiad-22.png'
 ---
 
 Witajcie w nowym roku! Rozpoczynamy od wywiadu numer 22 😉.

@@ -1,12 +1,12 @@
 ---
-title: "Relacja z krakowskiego MeetContent (30.05.17)"
+title: 'Relacja z krakowskiego MeetContent (30.05.17)'
 authors: kuba
-date: "2017-06-05"
+date: '2017-06-05'
 tags:
-  - "news"
-  - "z-kraju"
-  - "meetcontent"
-coverImage: "markus-spiske-207946.jpg"
+  - 'news'
+  - 'z-kraju'
+  - 'meetcontent'
+coverImage: 'markus-spiske-207946.jpg'
 ---
 
 MeetContent 30.05 już za nami! Dzięki wystąpieniu Tomasza Treli mogliśmy

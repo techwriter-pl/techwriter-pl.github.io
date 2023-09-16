@@ -1,13 +1,13 @@
 ---
-title: "Write the Docs Europe 2016 - relacja"
+title: 'Write the Docs Europe 2016 - relacja'
 authors: mojk
-date: "2016-10-04"
+date: '2016-10-04'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "29760161775_868d72d023_z-e1475185286934.jpg"
+  - 'news'
+  - 'ze-swiata'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: '29760161775_868d72d023_z-e1475185286934.jpg'
 ---
 
 W tym roku mieliśmy zaszczyt być patronem medialnym europejskiej edycji

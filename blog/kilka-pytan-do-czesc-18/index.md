@@ -1,14 +1,14 @@
 ---
-title: "Kilka pytań do – część 18"
+title: 'Kilka pytań do – część 18'
 authors: admin
-date: "2020-04-15"
+date: '2020-04-15'
 tags:
-  - "warsztat"
-  - "wywiady"
-  - "dokumentacja"
-  - "spolecznosc"
-  - "wywiad"
-coverImage: "MartynaWywiad.jpg"
+  - 'warsztat'
+  - 'wywiady'
+  - 'dokumentacja'
+  - 'spolecznosc'
+  - 'wywiad'
+coverImage: 'MartynaWywiad.jpg'
 ---
 
 Zapraszamy na wywiad z naszą nową koleżanką 😊 Poznajcie Martynę Toporek!

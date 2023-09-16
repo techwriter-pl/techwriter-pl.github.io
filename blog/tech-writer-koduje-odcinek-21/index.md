@@ -1,13 +1,13 @@
 ---
-title: "Tech writer koduje odcinek 21"
+title: 'Tech writer koduje odcinek 21'
 authors: agnieszka
-date: "2020-09-22"
+date: '2020-09-22'
 tags:
-  - "dobre-praktyki"
-  - "warsztat"
-  - "podcast"
-  - "praktyki"
-coverImage: "Konferencje-2019-1.png"
+  - 'dobre-praktyki'
+  - 'warsztat'
+  - 'podcast'
+  - 'praktyki'
+coverImage: 'Konferencje-2019-1.png'
 ---
 
 Jeśli lubicie podcasty to mamy dziś dla Was coś ciekawego do posłuchania 😉.

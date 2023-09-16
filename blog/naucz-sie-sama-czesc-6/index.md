@@ -1,15 +1,15 @@
 ---
-title: "Naucz się sam(a) - część 6"
+title: 'Naucz się sam(a) - część 6'
 authors: agnieszka
-date: "2015-11-17"
+date: '2015-11-17'
 tags:
-  - "dobre-praktyki"
-  - "przyklady"
-  - "warsztat"
-  - "edukacja"
-  - "kariera"
-  - "literatura"
-coverImage: "techwri_book_small.jpg"
+  - 'dobre-praktyki'
+  - 'przyklady'
+  - 'warsztat'
+  - 'edukacja'
+  - 'kariera'
+  - 'literatura'
+coverImage: 'techwri_book_small.jpg'
 ---
 
 Bez względu na to czy jesteście chwilowo zainteresowani tematyką komunikacji

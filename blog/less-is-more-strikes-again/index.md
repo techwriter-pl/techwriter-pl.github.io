@@ -1,13 +1,13 @@
 ---
-title: "Less is more strikes again!"
+title: 'Less is more strikes again!'
 authors: admin
-date: "2015-04-24"
+date: '2015-04-24'
 tags:
-  - "dobre-praktyki"
-  - "warsztat"
-  - "infografiki"
-  - "jezyk"
-coverImage: "simplicity.gif"
+  - 'dobre-praktyki'
+  - 'warsztat'
+  - 'infografiki'
+  - 'jezyk'
+coverImage: 'simplicity.gif'
 ---
 
 Nasz ulubiony temat - jak przekazać więcej pisząc mniej -

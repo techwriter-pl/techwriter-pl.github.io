@@ -1,16 +1,16 @@
 ---
-title: "UA Conference - Matthew Ellison"
+title: 'UA Conference - Matthew Ellison'
 authors: szablowska
-date: "2014-07-11"
+date: '2014-07-11'
 tags:
-  - "news"
-  - "z-kraju"
-  - "konferencje"
-  - "pomoc-uzytkownika"
-  - "technologie"
-  - "urzadzenia-mobilne"
-  - "uzytecznosc"
-coverImage: "UA_Conference.png"
+  - 'news'
+  - 'z-kraju'
+  - 'konferencje'
+  - 'pomoc-uzytkownika'
+  - 'technologie'
+  - 'urzadzenia-mobilne'
+  - 'uzytecznosc'
+coverImage: 'UA_Conference.png'
 ---
 
 **[Matthew Ellison](http://www.uaeurope.com/conference/speakers.html#ellison)**,

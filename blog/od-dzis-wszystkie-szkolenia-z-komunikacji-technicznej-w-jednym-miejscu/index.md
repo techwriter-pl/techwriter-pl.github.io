@@ -1,14 +1,14 @@
 ---
-title: "Od dziś wszystkie szkolenia z komunikacji technicznej w jednym miejscu!"
+title: 'Od dziś wszystkie szkolenia z komunikacji technicznej w jednym miejscu!'
 authors: admin
-date: "2017-09-12"
+date: '2017-09-12'
 tags:
-  - "news"
-  - "warsztat"
-  - "z-kraju"
-  - "edukacja"
-  - "szkolenia"
-coverImage: "SZKOLENIA.jpg"
+  - 'news'
+  - 'warsztat'
+  - 'z-kraju'
+  - 'edukacja'
+  - 'szkolenia'
+coverImage: 'SZKOLENIA.jpg'
 ---
 
 Witajcie, już za tydzień czwarte urodziny naszego portalu, z tej okazji mamy dla

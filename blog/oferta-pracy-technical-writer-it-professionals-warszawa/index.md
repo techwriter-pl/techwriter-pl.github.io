@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer (IT Professionals) - Warszawa"
+title: 'Oferta pracy: Technical Writer (IT Professionals) - Warszawa'
 authors: admin
-date: "2019-09-16"
+date: '2019-09-16'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "logo_it_professionals.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'logo_it_professionals.png'
 ---
 
 Dzień dobry, dziś oferta ze stolicy, ciekawa!

@@ -1,15 +1,15 @@
 ---
-title: "Zapraszamy na MadWorld San Diego"
+title: 'Zapraszamy na MadWorld San Diego'
 authors: agnieszka
-date: "2019-02-26"
+date: '2019-02-26'
 tags:
-  - "news"
-  - "ze-swiata"
-  - "edukacja"
-  - "kariera"
-  - "konferencje"
-  - "spolecznosc"
-coverImage: "Untitled-e1551095794387.jpg"
+  - 'news'
+  - 'ze-swiata'
+  - 'edukacja'
+  - 'kariera'
+  - 'konferencje'
+  - 'spolecznosc'
+coverImage: 'Untitled-e1551095794387.jpg'
 ---
 
 Tradycyjnie już zapraszamy Was do San Diego, gdzie wkrótce odbędzie się 6.

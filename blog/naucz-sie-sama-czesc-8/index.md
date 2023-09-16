@@ -1,17 +1,17 @@
 ---
-title: "Naucz się sam(a) - część 8"
+title: 'Naucz się sam(a) - część 8'
 authors: mojk
-date: "2018-03-29"
+date: '2018-03-29'
 tags:
-  - "dobre-praktyki"
-  - "przyklady"
-  - "warsztat"
-  - "dokumentacja"
-  - "edukacja"
-  - "instrukcje"
-  - "kariera"
-  - "pomoc-uzytkownika"
-coverImage: "statue-1558457_640.jpg"
+  - 'dobre-praktyki'
+  - 'przyklady'
+  - 'warsztat'
+  - 'dokumentacja'
+  - 'edukacja'
+  - 'instrukcje'
+  - 'kariera'
+  - 'pomoc-uzytkownika'
+coverImage: 'statue-1558457_640.jpg'
 ---
 
 Żyjecie w biegu i coraz częściej doskwiera Wam tzw. "niedoczas". Ciągle gdzieś

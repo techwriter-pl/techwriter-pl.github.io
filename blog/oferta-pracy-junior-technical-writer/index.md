@@ -1,13 +1,13 @@
 ---
-title: "[NIEAKTUALNE] Oferta pracy: Junior Technical Writer"
+title: '[NIEAKTUALNE] Oferta pracy: Junior Technical Writer'
 authors: pensjonatus
-date: "2016-05-30"
+date: '2016-05-30'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "3di_logo.png"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: '3di_logo.png'
 ---
 
 [Firma 3di](http://www.3di.com.pl) poszukuje kolejnej osoby do swojego biura w

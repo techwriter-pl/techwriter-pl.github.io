@@ -1,13 +1,13 @@
 ---
-title: "Oferta pracy: Technical Writer (Cisco)"
+title: 'Oferta pracy: Technical Writer (Cisco)'
 authors: mojk
-date: "2017-11-27"
+date: '2017-11-27'
 tags:
-  - "oferty-pracy"
-  - "praca"
-  - "kariera"
-  - "praca"
-coverImage: "EXP_BE_Logo_IT_SS_STK_MC_RGB_smaller.jpg"
+  - 'oferty-pracy'
+  - 'praca'
+  - 'kariera'
+  - 'praca'
+coverImage: 'EXP_BE_Logo_IT_SS_STK_MC_RGB_smaller.jpg'
 ---
 
 W ostatnim kwartale 2017 rynek pracy dla Tech Writerów nie zwalnia tempa.
