@@ -40,13 +40,13 @@ mojk:
 
 tprus:
   name: Tomek Prus
-  title: Administrator
+  role: Administrator
   url: https://github.com/tomekprus
   image_url: https://github.com/tomekprus.png
 
 jkula:
   name: Justyna Kula
-  title: Autor
+  role: Autor
   url: https://github.com/JustynaKula
   image_url: https://github.com/JustynaKula.png
 
