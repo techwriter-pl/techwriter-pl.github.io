@@ -14,8 +14,8 @@ Notable topics below:
 Your post is a Markdown file with a `.md` extension, usually along with some
 graphics. The post is identified by a title, date, author, and tags.
 
-**Super helpful hint:** Before you add your first post, set up your codespace
-and VS Code. See the relevant sections below.
+**Prerequisite:** Before you add your first post, set up your codespace and VS
+Code. See the relevant sections below.
 
 To add a post:
 
@@ -56,8 +56,8 @@ coverImage: 'CKSource-logo-2.jpg'
 ```
 
 - `title`: Look at the home page. The title will be displayed there prominently.
-  It wil encourage people to read or not to read the article. Make sure it's the
-  proper length.
+  It wil encourage people to read or not to read the article. Make sure it's not
+  too long, more than 7 words is really pushing it. Don't use all caps.
 - `authors`: What is your author ID? You can check in `blog/authors.yml`.
   (**HINT:** Press Ctrl+P or Cmd+P to open a file more easily, just type in the
   file name in the field that pops up and select the file you want to open.)
@@ -91,35 +91,33 @@ coverImage: 'CKSource-logo-2.jpg'
    <!--truncate-->
    ```
 
-7. We use using Code Spell Checker (cSpell). If you use unfamiliar words in your
-   post, cSpell will underline them. If it's actually a word you want to use,
-   hover over it with your mouse and select **Quick actions**, and select **Add
-   to workspace settings**. This saves the word to be used in other posts and by
+7. We use Code Spell Checker (cSpell). If you use unfamiliar words in your post,
+   cSpell will underline them. If it's actually a word you want to use, hover
+   over it with your mouse and select **Quick actions**, and select **Add to
+   workspace settings**. This saves the word to be used in other posts and by
    other users of the project.
 
    **HINT:** Instead of hovering with your mouse, you can press Ctrl+P or Cmd+P.
 
-8. If you have want to add images, in the folder where you created your
-   `index.md` file, create an `images` folder and place them there. Remember
-   that file paths in this environment are **case sensitive**.
+8. If you want to add images, in the folder where you created your `index.md`
+   file, create an `images` folder and place them there. Remember that file
+   paths in this environment are **case sensitive**.
 
    If you are working in VS Code in the browser, you can drag-and-drop images
    from your file explorer into the browser window.
 
-When you're done editing, it's time to create a PR.
-
-To create a Pull Request (PR). Your teammates can review the PR and give you
-helpful hints. The PR will also trigger a validation build which can help you
-catch problems with broken links, etc.
+When you're done editing, it's time to create a **Pull Request (PR)**. Your
+teammates can review the PR and give you helpful hints. The PR will also trigger
+a validation build which can help you catch problems with broken links, etc.
 
 1. Stage your changes. In VS Code, switch to the **Version control** tab (the
    little Git icon, looks like a graph). Hover over the list of changed files.
    If you hover over the top part, of the list, you should see a **+** (plus)
    icon. When you click it, all files are staged.
-1. In the box above the list of staged files, type in the commit message. make
+2. In the box above the list of staged files, type in the commit message. make
    is descriptive.
-1. Click **Synchronize** (or Push).
-1. Once your changes are pushed, VS Code will pop up a message to create a Pull
+3. Click **Synchronize** (or Push).
+4. Once your changes are pushed, VS Code will pop up a message to create a Pull
    Request. Click it and follow the onscreen guide.
 
    Don't forget to add reviewers by clicking **Request review**.
@@ -145,13 +143,13 @@ one-time only.
 To set up a new codespace:
 
 1. In GitHub, click your user avatar and select **Your Codespaces**.
-1. Click **New codespace**.
-1. Select the `techwriter-pl/techwriter-pl.github.io` repository.
-1. Leave the rest as is, or change machine type to a stronger one 💪.
-1. Click **Create codespace**.
-1. Back on your codespaces dashboard, click the little ribbon that says "Keep
+2. Click **New codespace**.
+3. Select the `techwriter-pl/techwriter-pl.github.io` repository.
+4. Leave the rest as is, or change machine type to a stronger one 💪.
+5. Click **Create codespace**.
+6. Back on your codespaces dashboard, click the little ribbon that says "Keep
    codespace". This saves your codespace for later.
-1. [Optional]: Rename the codespace.
+7. [Optional]: Rename the codespace.
 
 Doing all this, also opens a browser tab with VS Code running.
 
