@@ -28,17 +28,27 @@ To add a post:
    changes. Click the branch name and select **Create new branch**. Name your
    branch something appropriate.
 
-1. In the `blog` directory, create a new folder. The name of the folder is going
+1. Start a preview:
+
+   ```bash
+   yarn install
+   yarn start
+   ```
+
+   The preview should open in a new browser tab. Look out for messages from VS
+   Code, there might be something there for you to enable, etc.
+
+2. In the `blog` directory, create a new folder. The name of the folder is going
    to be the URL of your blog post.
 
    **HINT:** You can create a file and a folder in one go. Just select **Add
    file** and type in the folder name, slash, and then file name. VS Code
    creates the entire path. For example, `soap-2045-recap/index.md`.
 
-2. Inside the folder, create a file called `index.md`. This file will contain
+3. Inside the folder, create a file called `index.md`. This file will contain
    your post contents.
 
-3. At the top of the file, create a Markdown prolog with all the necessary
+4. At the top of the file, create a Markdown prolog with all the necessary
    metadata. For example:
 
 ```md
@@ -76,14 +86,14 @@ coverImage: 'CKSource-logo-2.jpg'
 - `coverImage`: this image will be displayed on the home page preview of your
   post. Note that this image is located in the `static/img/cover` folder.
 
-4. Add a cover image to the `static/img/cover` folder. When your VS Code is open
+5. Add a cover image to the `static/img/cover` folder. When your VS Code is open
    in your browser, you can drag-and-drop the image from your local file
    explorer into the folder in the browser window.
 
-5. Add your post contents. Read about Markdown features in
+6. Add your post contents. Read about Markdown features in
    [the official Docusaurus Markdown guide](https://docusaurus.io/docs/markdown-features).
 
-6. Every post needs a preview section. This preview section appears as the
+7. Every post needs a preview section. This preview section appears as the
    summary of the blog post, and there's a "read more" link underneath. To mark
    where the preview section ends, add the following as a separate line:
 
@@ -91,7 +101,7 @@ coverImage: 'CKSource-logo-2.jpg'
    <!--truncate-->
    ```
 
-7. We use Code Spell Checker (cSpell). If you use unfamiliar words in your post,
+8. We use Code Spell Checker (cSpell). If you use unfamiliar words in your post,
    cSpell will underline them. If it's actually a word you want to use, hover
    over it with your mouse and select **Quick actions**, and select **Add to
    workspace settings**. This saves the word to be used in other posts and by
@@ -99,12 +109,14 @@ coverImage: 'CKSource-logo-2.jpg'
 
    **HINT:** Instead of hovering with your mouse, you can press Ctrl+P or Cmd+P.
 
-8. If you want to add images, in the folder where you created your `index.md`
+9. If you want to add images, in the folder where you created your `index.md`
    file, create an `images` folder and place them there. Remember that file
    paths in this environment are **case sensitive**.
 
    If you are working in VS Code in the browser, you can drag-and-drop images
    from your file explorer into the browser window.
+
+## Creating a PR
 
 When you're done editing, it's time to create a **Pull Request (PR)**. Your
 teammates can review the PR and give you helpful hints. The PR will also trigger
