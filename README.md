@@ -22,13 +22,13 @@ To add a post:
 0. Create a branch. You may be working from a GitHub issue. If so,
    [read about creating branches here](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-a-branch-for-an-issue).
 
-   If you are not working form a GitHub issue (why not? 🤷), you can manually
-   create a branch. In VS Code, check the branch name at the bottom left. The
-   branch name at this point should be `main` and you should have the latest
-   changes. Click the branch name and select **Create new branch**. Name your
-   branch something appropriate.
+   If you are not working from a GitHub issue, you can manually create a branch.
+   In VS Code, check the branch name at the bottom left. The branch name at this
+   point should be `main` and you should have the latest changes. Click the
+   branch name and select **Create new branch**. Name your branch something
+   appropriate.
 
-1. Start a preview:
+1. Start a preview. Open the terminal in VS Code and run the following commands:
 
    ```bash
    yarn install
@@ -176,7 +176,7 @@ Install the following extensions:
 - Code Spell Checker
 - Polish - Code Spell Checker
 - ESLint
-- GitHub Actions
+- GitHub Actions (from the publisher called GitHub)
 - MDX
 - Prettier - Code formatter
 
