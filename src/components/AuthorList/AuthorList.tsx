@@ -95,7 +95,7 @@ const polishDescriptions: { [id: string]: JSX.Element } = {
   ),
   tprus: (
     <>
-      Absolwent Politechniki Wrocławskiej, technical writer w firmie Atlassian.
+      Absolwent Politechniki Wrocławskiej, Experience Design Manager w firmie Atlassian.
       Doświadczenie w obszarze komunikacji technicznej budował również jako
       wieloletni pracownik Nokii i Unit4. Trener ITCQF, współtwórca wrocławskiej
       społeczności MeetContent, prelegent i uczestnik konferencji związanych z
@@ -198,7 +198,7 @@ const englishDescriptions: { [id: string]: JSX.Element } = {
   ),
   tprus: (
     <>
-      Graduated from Politechnika Wrocławska, technical writer at Atlassian. Got
+      Graduated from Politechnika Wrocławska, Experience Design Manager at Atlassian. Got
       his tech writing chops and extensive experience at Nokia and Unit4. ITCQF
       instructor, co-founder of MeetContent Wrocław, speaker and avid goer to
       tech writing conferences.
