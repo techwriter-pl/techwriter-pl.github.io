@@ -1,6 +1,6 @@
 ---
 title: 'Od anglisty do dokumentalisty'
-authors: agnieszka
+authors: justynakula
 date: '2023-03-02'
 tags:
   - 'przyklady'
