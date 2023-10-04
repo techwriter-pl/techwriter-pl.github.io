@@ -1,6 +1,6 @@
 ---
 title: 'Od anglisty do dokumentalisty'
-authors: agnieszka
+authors: justynakula
 date: '2023-03-02'
 tags:
   - 'przyklady'
@@ -222,8 +222,3 @@ które w bardzo profesjonalny, ciekawy i przystępny sposób przybliżają wykł
 na studiach podyplomowych na kierunku
 [Komunikacja techniczna](https://vistula.edu.pl/kierunki-studiow/komunikacja-techniczna)
 na [Akademii Finansów i Biznesu Vistula](https://vistula.edu.pl/).
-
----
-
-Autorką powyższego tekstu jest Justyna Kula, która już wkrótce zasili szeregi
-naszej redakcji.
