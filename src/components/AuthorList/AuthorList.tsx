@@ -40,13 +40,13 @@ const polishDescriptions: { [id: string]: JSX.Element } = {
   ),
   niewiarowski: (
     <>
-      Absolwent filologii angielskiej ze sporym dorobkiem tłumaczeniowym. Od 10
-      lat jest tech writerem w branży nawigacji samochodowej i pojazdów
-      autonomicznych. Zawodowo miał dużą styczność z instrukcjami,
+      Absolwent filologii angielskiej ze sporym dorobkiem tłumaczeniowym. Od ponad dekady
+      jest tech writerem, obecnie specjalizuje się w dziedzinie Industrial Internet of Things 
+      w branży energetycznej. Zawodowo miał dużą styczność z instrukcjami,
       e-learningiem, ciekawi się coachingiem. Fan aplikacji Snagit firmy
       TechSmith. Prywatnie interesuje się filmem, muzyką rockowo-metalową, lubi
       czytać książki i jeździć na nartach. Od piątego roku życia zafascynowany
-      dinozaurami i tak mu już pozostało. Drugą grupą zwierząt, którą ceni
+      dinozaurami i tak już mu zostało. Drugą grupą zwierząt, którą ceni
       szczególnie są żółwie.
     </>
   ),
