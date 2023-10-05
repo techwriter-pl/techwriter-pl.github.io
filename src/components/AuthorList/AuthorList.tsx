@@ -151,9 +151,9 @@ const englishDescriptions: { [id: string]: JSX.Element } = {
       experience. For well over a decade he has been a tech writer. 
       He currently specializes in the Industrial Internet of Things domain for the energy sector. 
       He designed instructions, procedures, e-learning material, and is interested in coaching.
-      Fan of TechSmith’s Snagit app. His afterwork hobbies include watching films and listening to rock
-      and metal music. He also likes reading and skiing. From the age of five,
-      he was fascinated with dinosaurs and it stayed that way. The second group
+      A fan of TechSmith’s Snagit app. His afterwork hobbies include watching films and listening to rock
+      and metal music. He also likes reading and skiing. Since the age of five,
+      he has been fascinated with dinosaurs and it stayed that way. The second group
       of animals that he especially admires are turtles (tortoises too!!!).
     </>
   ),
