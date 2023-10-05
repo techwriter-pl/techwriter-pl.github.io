@@ -40,13 +40,13 @@ const polishDescriptions: { [id: string]: JSX.Element } = {
   ),
   niewiarowski: (
     <>
-      Absolwent filologii angielskiej ze sporym dorobkiem tłumaczeniowym. Od 10
-      lat jest tech writerem w branży nawigacji samochodowej i pojazdów
-      autonomicznych. Zawodowo miał dużą styczność z instrukcjami,
+      Absolwent filologii angielskiej ze sporym dorobkiem tłumaczeniowym. Od ponad dekady
+      jest tech writere. Obecnie specjalizuje się w dziedzinie Industrial Internet of Things 
+      w branży energetycznej. Zawodowo miał dużą styczność z instrukcjami,
       e-learningiem, ciekawi się coachingiem. Fan aplikacji Snagit firmy
       TechSmith. Prywatnie interesuje się filmem, muzyką rockowo-metalową, lubi
       czytać książki i jeździć na nartach. Od piątego roku życia zafascynowany
-      dinozaurami i tak mu już pozostało. Drugą grupą zwierząt, którą ceni
+      dinozaurami i tak już mu zostało. Drugą grupą zwierząt, którą ceni
       szczególnie są żółwie.
     </>
   ),
@@ -148,13 +148,13 @@ const englishDescriptions: { [id: string]: JSX.Element } = {
   niewiarowski: (
     <>
       A graduate of English Philology with considerable translation
-      achievements. For 10 years he has been a tech writer in the automotive
-      navigation and autonomous vehicles industry. Professionally, he had a lot
-      of contact with instructions, e-learning, and is interested in coaching.
-      Fan of TechSmith’s Snagit app. Privately, he is interested in film, rock
-      and metal music. He also likes reading and skiing. From the age of five,
-      he was fascinated with dinosaurs and it stayed that way. The second group
-      of animals that he especially admires are turtles and tortoises.
+      experience. For well over a decade he has been a tech writer. 
+      He currently specializes in the Industrial Internet of Things domain for the energy sector. 
+      He designed instructions, procedures, e-learning material, and is interested in coaching.
+      A fan of TechSmith’s Snagit app. His afterwork hobbies include watching films and listening to rock
+      and metal music. He also likes reading and skiing. Since the age of five,
+      he has been fascinated with dinosaurs and it stayed that way. The second group
+      of animals that he especially admires are turtles (tortoises too!!!).
     </>
   ),
   niedzwiedzka: (
