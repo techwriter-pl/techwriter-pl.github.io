@@ -41,7 +41,7 @@ const polishDescriptions: { [id: string]: JSX.Element } = {
   niewiarowski: (
     <>
       Absolwent filologii angielskiej ze sporym dorobkiem tłumaczeniowym. Od ponad dekady
-      jest tech writerem, obecnie specjalizuje się w dziedzinie Industrial Internet of Things 
+      jest tech writere. Obecnie specjalizuje się w dziedzinie Industrial Internet of Things 
       w branży energetycznej. Zawodowo miał dużą styczność z instrukcjami,
       e-learningiem, ciekawi się coachingiem. Fan aplikacji Snagit firmy
       TechSmith. Prywatnie interesuje się filmem, muzyką rockowo-metalową, lubi
