@@ -148,13 +148,13 @@ const englishDescriptions: { [id: string]: JSX.Element } = {
   niewiarowski: (
     <>
       A graduate of English Philology with considerable translation
-      achievements. For 10 years he has been a tech writer in the automotive
-      navigation and autonomous vehicles industry. Professionally, he had a lot
-      of contact with instructions, e-learning, and is interested in coaching.
-      Fan of TechSmith’s Snagit app. Privately, he is interested in film, rock
+      experience. For well over a decade he has been a tech writer. 
+      He currently specializes in the Industrial Internet of Things domain for the energy sector. 
+      He designed instructions, procedures, e-learning material, and is interested in coaching.
+      Fan of TechSmith’s Snagit app. His afterwork hobbies include watching films and listening to rock
       and metal music. He also likes reading and skiing. From the age of five,
       he was fascinated with dinosaurs and it stayed that way. The second group
-      of animals that he especially admires are turtles and tortoises.
+      of animals that he especially admires are turtles (tortoises too!!!).
     </>
   ),
   niedzwiedzka: (
