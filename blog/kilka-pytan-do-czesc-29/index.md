@@ -1,6 +1,6 @@
 ---
 title: 'Kilka pytań do - część 29'
-authors: justynakula
+authors: jkula
 date: '2023-02-22'
 tags:
   - 'warsztat'
