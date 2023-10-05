@@ -20,7 +20,7 @@ coverImage: 'Od-anglisty-do-dokumentalisty.png'
 
 <!--truncate-->
 
-#### **„Za naszych czasów to było inaczej…”**
+### **„Za naszych czasów to było inaczej…”**
 
 Ile razy słyszeliśmy te słowa od naszych dziadków. Teraz to my, angliści,
 tłumacze, sami możemy powiedzieć, że za naszych czasów, kiedy zaczynaliśmy
@@ -35,7 +35,7 @@ Ale studia, choćby najlepsze, przygotowywały tylko od strony teoretycznej i ni
 dawały zaplecza praktycznego. Mieliśmy wiedzę, mieliśmy narzędzia, ale nie
 mieliśmy doświadczenia. Odwieczny problem świeżo upieczonych absolwentów.
 
-#### **Początki nie były łatwe.**
+### **Początki nie były łatwe.**
 
 Właśnie przez brak doświadczenia. Owszem biuro tłumaczeń wciągało na listę
 swoich podwykonawców, ale było się jednym z CV, które zajmowały kilka
@@ -50,7 +50,7 @@ kształtowały. Plany z czasem się zmieniały, tak samo jak pracodawcy. Niektó
 zostali w pierwszej firmie, inni poszli dalej, jeszcze inni zdobywali
 doświadczenie na innych polach, realizując przy okazji swoje pasje.
 
-#### **A rynek niepostrzeżenie się zmieniał.**
+### **A rynek niepostrzeżenie się zmieniał.**
 
 Weszły nowe technologie, tłumaczenia maszynowe, które miały automatyzować i
 przyspieszać pracę, a być może z czasem zastąpić człowieka-tłumacza. Prestiż
@@ -64,7 +64,7 @@ z różnych dziedzin takich jak prawo, medycyna, budownictwo, IT czy ochrona
 znających bardzo dobrze angielski, a posiadających inne umiejętności, z którymi
 mogą nas wyprzedzić w wyścigu o pracę.
 
-#### **Zachodzące zmiany i rozwój branży IT przyniosły nową nadzieję.**
+### **Zachodzące zmiany i rozwój branży IT przyniosły nową nadzieję.**
 
 Pojawiło się zapotrzebowanie na technical writerów, dokumentalistów, pisarzy
 technicznych, które otworzyło dla nas drzwi do nowych możliwości. Bardzo cenni
