@@ -1,6 +1,6 @@
 ---
 title: 'Kilka słów o 3. edycji studiów z Komunikacji technicznej'
-authors: agnieszka
+authors: justynakula
 date: '2023-06-28'
 tags:
   - 'news'
@@ -18,9 +18,6 @@ Dziś mamy dla Was podsumowanie kolejnej, już trzeciej, edycji studiów
 podyplomowych na kierunku Komunikacja Techniczna. Zapraszamy!
 
 <!--truncate-->
-
-Mamy szczęście, bo kolejna z naszych redaktorek jest absolwentką tego kierunku,
-dzięki czemu możecie przeczytać poniższy artykuł. Justyna, bardzo dziękujemy!
 
 ---
 
@@ -170,6 +167,3 @@ przetrwają długi czas.
 
 ![](images/zdjecie_4.jpg)
 
----
-
-Autorką tekstu jest Justyna Kula, nasza redakcyjna koleżanka.
