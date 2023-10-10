@@ -1,6 +1,6 @@
 ---
 title: 'BADANIE PŁAC W KOMUNIKACJI TECHNICZNEJ 2022 – WYPEŁNIJ ANKIETĘ!'
-authors: agnieszka
+authors: tprus
 date: '2023-10-10'
 tags:
   - 'badanie-plac'
