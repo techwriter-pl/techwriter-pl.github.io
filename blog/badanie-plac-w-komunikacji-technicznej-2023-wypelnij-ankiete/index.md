@@ -44,7 +44,7 @@ Waszych zarobków, ścieżki kariery, wykształcenia czy innych znaczących aspe
 
 Zebranymi informacjami oczywiście podzielimy się na łamach portalu.
 
-[![](images/kliknij-aby-wypełnić-ankietę-2.png)](https://forms.gle/iCNkAVcTkUKL5FYX8)
+[![](images/kliknij-aby-wypełnić-ankietę-23.png)](https://forms.gle/iCNkAVcTkUKL5FYX8)
 
 Ankieta jest dostępna pod tym [linkiem](https://forms.gle/iCNkAVcTkUKL5FYX8).
 
