@@ -154,7 +154,9 @@ one-time only.
 
 To set up a new codespace:
 
-1. In GitHub, click your user avatar and select **Your Codespaces**.
+1. In GitHub, click your user avatar and select **Your Codespaces**. If you
+   don't see that option, go directly to
+   [https://github.com/codespaces](https://github.com/codespaces).
 2. Click **New codespace**.
 3. Select the `techwriter-pl/techwriter-pl.github.io` repository.
 4. Leave the rest as is, or change machine type to a stronger one 💪.
