@@ -41,7 +41,7 @@ Prezentację prowadzi **Michał Olender**, od 2021 technical writer z wyboru, pa
 ## Kilka słów o sponsorach
 16 spotkanie MeetContentKRK jest sponsorowane przez Box i Forte Digital.
 
-#### Box
+### Box
 Box po raz pierwszy zaistniał na rynku w 2005 roku. Oferuje dostęp do informacji z każdego miejsca i ułatwia współpracę przy wykorzystaniu narzędzi do zarządzania zawartością online, która umożliwia organizacjom usprawnienie procesów biznesowych i wspiera codzienną pracę. Dzisiaj baza klientów Box liczy 97,000 firm – a to dopiero początek. 
 
 #### Forte Digital
