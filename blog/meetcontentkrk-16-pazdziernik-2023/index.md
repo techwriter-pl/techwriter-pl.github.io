@@ -48,7 +48,7 @@ Box po raz pierwszy zaistniał na rynku w 2005 roku. Oferuje dostęp do informac
 W DNA Forte Digital  znajdziesz pierwiastek polski, skandynawski i oczywiście technologiczny. Forte Digital powstało w 2017 roku jako owoc udanej współpracy polskich i norweskich założycieli. Od tego czasu z powodzeniem czerpie to co najlepsze ze swoich kultur, a od niedawna w swoich szeregach ma koleżanki i kolegów z Danii oraz Niemiec.
 Forte Digital skupia się  najczęściej na projektach dotyczących obszaru e-commerce w pełnym zakresie realizacji – development i consulting IT oraz design. 
 
-#### Formularz rejestracji
+## Formularz rejestracji
 Aby zapisać się na wydarzenie, skorzystaj z [formularza](https://forms.gle/8ykC4YWErUhh6Xx4A).
 
 ## Dlaczego te spotkania mogą być dla Ciebie?
