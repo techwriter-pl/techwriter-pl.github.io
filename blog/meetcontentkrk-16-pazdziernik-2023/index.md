@@ -44,7 +44,7 @@ Prezentację prowadzi **Michał Olender**, od 2021 technical writer z wyboru, pa
 ### Box
 Box po raz pierwszy zaistniał na rynku w 2005 roku. Oferuje dostęp do informacji z każdego miejsca i ułatwia współpracę przy wykorzystaniu narzędzi do zarządzania zawartością online, która umożliwia organizacjom usprawnienie procesów biznesowych i wspiera codzienną pracę. Dzisiaj baza klientów Box liczy 97,000 firm – a to dopiero początek. 
 
-#### Forte Digital
+### Forte Digital
 W DNA Forte Digital  znajdziesz pierwiastek polski, skandynawski i oczywiście technologiczny. Forte Digital powstało w 2017 roku jako owoc udanej współpracy polskich i norweskich założycieli. Od tego czasu z powodzeniem czerpie to co najlepsze ze swoich kultur, a od niedawna w swoich szeregach ma koleżanki i kolegów z Danii oraz Niemiec.
 Forte Digital skupia się  najczęściej na projektach dotyczących obszaru e-commerce w pełnym zakresie realizacji – development i consulting IT oraz design. 
 
