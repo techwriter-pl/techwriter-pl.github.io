@@ -9,7 +9,7 @@ tags:
   - 'kariera'
   - 'praca'
   - 'spolecznosc'
-coverImage: 'badanie_plac_2022.png'
+coverImage: 'badanie_plac_2023.png'
 ---
 
 Nadszedł czas, aby zaprosić Was do wypełnienia corocznej ankiety o zarobkach w
