@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[48212],{70954:e=>{e.exports=JSON.parse('{"permalink":"/tags/z-kraju/page/27","page":27,"postsPerPage":3,"totalPages":53,"totalCount":158,"previousPage":"/tags/z-kraju/page/26","nextPage":"/tags/z-kraju/page/28","blogDescription":"Blog","blogTitle":"Blog"}')}}]);
