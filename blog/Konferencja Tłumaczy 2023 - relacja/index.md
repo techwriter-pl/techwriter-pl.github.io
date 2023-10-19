@@ -7,7 +7,7 @@ tags:
   - 'z-kraju'
   - 'konferencje'
   - 'społecznosc'
-coverImage: 'KT2023-logo.png'
+coverImage: 'KT2023_logo_2.PNG'
 ---
 
 Konferencja Tłumaczy 2023 już za nami. Ale poniżej czeka na Was relacja.
