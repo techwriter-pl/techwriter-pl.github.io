@@ -101,6 +101,8 @@ następnie Agenor Hoffmann-Delbor, który jest znaną postacią nie tylko w bran
 tłumaczeniowej, ale również, a może przede wszystkim, lokalizacyjnej. Dzień
 wcześniej poprowadził warsztaty tematycznie powiązane z sobotnią prelekcją.
 
+![](images/thisisengineering.PNG)
+
 ## Zastosowanie AI w tłumaczeniach
 
 Agenor Hoffmann-Delbor podszedł do tematu bardzo technicznie i rzeczowo. Było
@@ -266,6 +268,8 @@ wzorców – stwierdził na koniec Agenor.
 
 ## MT a Jack Sparrow
 
+![](images/pirate_captain_at_computer.png)
+
 Równie ciekawą prelekcją była prezentacja Janusza Mrzigoda o tajemniczym tytule
 „MT a Jack Sparrow”. Prelegent próbował odpowiedzieć na pytanie, do czego nadaje
 się obecnie tłumaczenie mechaniczne, a do czego nie. Zastanawiał się, czego
@@ -391,7 +395,7 @@ Jest to słowotwórstwo, które miesza jedno z drugim.
 
 ### Im dalej od angielszczyzny, tym gorzej
 
-- W obszarze języka angielskiego jest jeszcze spokojnie. Jak w parze językowej
+– W obszarze języka angielskiego jest jeszcze spokojnie. Jak w parze językowej
   nie ma angielszczyzny, to AI niestety mocno głupieje – mówił prelegent.
   Spójrzmy na przykład tłumaczenia maszynowego innych języków.
 
@@ -482,6 +486,8 @@ nie możesz kogoś pokonać, przyłącz się do niego”. Jest to pragmatyczne
 podsumowanie wystąpienia.
 
 ## Tłumaczenia certyfikowane odporne na AI?!
+
+![](images/pexels_conference.jpg)
 
 Kolejna prelekcja, która była bardziej dyskusją między uczestnikami i
 prowadzącymi niż suchą prelekcją, oscylowała wokół tematu sztucznej inteligencji
