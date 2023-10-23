@@ -41,7 +41,7 @@
 }
 
 .button--secondary:hover {
-  background-color: var(--ifm-color-primary);
+  color: white;
 }
 
 a,
