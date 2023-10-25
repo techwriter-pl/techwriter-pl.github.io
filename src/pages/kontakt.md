@@ -1,5 +1,7 @@
 ## Kontakt
 
+Wszystkiego najlepszego!
+
 Wszelkie pytania, wnioski, prośby i uwagi prosimy kierować na
 [kontakt@techwriter.pl](mailto:kontakt@techwriter.pl).
 
