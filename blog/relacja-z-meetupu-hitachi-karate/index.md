@@ -77,7 +77,7 @@ Podziękowania dla [Piotra Sroki](https://www.linkedin.com/in/piotrsrokatechwrit
 ![](images/team_he.png)
 Po długim i pełnym wrażeń wieczorze, gospodarze i goście mogli poczęstować się przekąskami, powymieniać się uwagami i poznać nowych ludzi. Każdy mógł zabrać do domu wybrany gadżet z logo Hitachi Energy. W tym miejscu podziękowania dla [Sandry Cieniawskiej](https://www.linkedin.com/in/sandracieniawska/) i [Klaudii Sucharzewskiej](https://www.linkedin.com/in/klaudia-sucharzewska-048ba721a/), która pomogły w zorganizowaniu kateringu i gadżetów.
 
-Słyszałem, że uczestnicy chwalili sobie to wydarzenie i odbiło się ono w firmie pewnym echem :)
+Słyszałem, że uczestnicy chwalili sobie to wydarzenie i odbiło się ono w firmie pewnym echem 😊
 
 Jestem po dużym wrażeniem zespołu, który wybrał tak nieoczywisty pomysł i kreatywnie rozwinął go, dzięki czemu mogliśmy podzielić się doświadczeniami i poznać naprawdę zacną widownię.
 
