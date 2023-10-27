@@ -63,7 +63,7 @@ Wisienką na torcie była rozmowa z sensei Mają Wójcik i sensei Jakubem Piasec
 * o tym jak znajdować w sobie wewnętrzną siłę, by systematycznie rozwijać swoje umiejętności
 * o tym, jak przekonać siebie samego do pójścia na pierwszy trening
 
-Mieliśmy przyjemność posłuchać opowieści młodych, ambitnych trenerów, a ich rozważania na temat samodoskonalenia i sposobów radzenia sobie z trudnościami mają również zastosowanie w kontekście technical writingu. Ważnym przesłaniem tamtego wieczora było to, że uprawianie sportu jest dobrą metodą na zagwarantowanie sobie właściwego stanu mentalnego. Aktywność fizyczna jest świetnym remedium na pracę umysłową w świecie IT: pozwala na zachowanie wewnętrznej równowagi i wydobycie pełni swojego potencjału.
+Mieliśmy przyjemność posłuchać opowieści młodych, ambitnych trenerów, a ich rozważania na temat samodoskonalenia i sposobów radzenia sobie z trudnościami mają również zastosowanie w kontekście technical writingu. Ważnym przesłaniem tamtego wieczoru było to, że uprawianie sportu jest dobrą metodą na zagwarantowanie sobie właściwego stanu mentalnego. Aktywność fizyczna jest świetnym remedium na pracę umysłową w świecie IT: pozwala na zachowanie wewnętrznej równowagi i wydobycie pełni swojego potencjału.
 
 ![](images/sensei.jpg)
 
