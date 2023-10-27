@@ -47,7 +47,7 @@ Warto tu zaznaczyć, że choć tematyka prac Cialdiniego niektórym może przywo
 
 ![](images/andy_prez.jpg)
 
-Mimo opornego projektora, który przestał działać jak tylko do niego poszedłem (mam tę moc, mam tę moc!), udało mi się wyświetlić slajdy i opowiedzieć o zarządzaniu priorytetami projektów dokumentacyjnych. Podczas mojej blisko rocznej przygody w firmie Hitachi Energy miałem okazję przećwiczyć dostosowywanie priorytetów w dynamicznym środowisku, w którym tech writer ma więcej niż jeden projekt pod swoją pieczą. Cieszę się, że mogłem podzielić się obserwacjami, które mogą być pomocne również w kontekstach pozadokumentacyjnych, a także zaprezentowałem parę czerstwych memów własnego autorstwa.
+Mimo opornego projektora, który przestał działać jak tylko do niego podszedłem (mam tę moc, mam tę moc!), udało mi się wyświetlić slajdy i opowiedzieć o zarządzaniu priorytetami projektów dokumentacyjnych. Podczas mojej blisko rocznej przygody w firmie Hitachi Energy miałem okazję przećwiczyć dostosowywanie priorytetów w dynamicznym środowisku, w którym tech writer ma więcej niż jeden projekt pod swoją pieczą. Cieszę się, że mogłem podzielić się obserwacjami, które mogą być pomocne również w kontekstach pozadokumentacyjnych, a także zaprezentowałem parę czerstwych memów własnego autorstwa.
 
 ![](images/lee.png)
 
