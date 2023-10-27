@@ -51,7 +51,7 @@ Mimo opornego projektora, który przestał działać jak tylko do niego podszed�
 
 ![](images/lee.png)
 
-Uczestnicy i uczestniczki zdarzenia okazywali zainteresowanie, zadali nawet pytania, a po zapaleniu świateł wszyscy byli obudzeni ;-) Dla mnie to definicja sukcesu.
+Uczestnicy i uczestniczki zdarzenia okazywali zainteresowanie, zadali nawet pytania, a po zapaleniu świateł wszyscy byli obudzeni 😉 Dla mnie to definicja sukcesu.
 
 ### Wejście Smoków
 
