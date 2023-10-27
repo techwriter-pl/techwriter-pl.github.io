@@ -41,7 +41,7 @@ Arigatō, Patrycja!
 ![](images/1694696569715.jpg)
 
 W trakcie Meetupu [Monika Dąbrowska](https://www.linkedin.com/in/monika-klimek1/) opowiedziała o tym, co profesor Cialdini - specjalista na skalę światową w dziedzinie wywierania wpływu - może doradzić pisarzom technicznym, którzy mają problem z uzyskaniem uwag ekspertów domenowych co do opracowanego dokumentu. W codziennych bojach, często zwracamy uwagę na narzędzia, problemy techniczne i organizację pracy, a nie należy zapominać również o budowaniu zdrowych relacji ze współpracownikami. Monika przedstawiła nam perspektywę na mechanizmy rządzące budowaniem relacji między ludźmi. Otrzymaliśmy kilka praktycznych wskazówek, które mogą pomóc podczas codziennej pracy dokumentalisty. 
-Warto tu zaznaczyć, że choć tematyka prac Cialdiniego niektórym może przywodzić na myśl techniki makiawelicznej manipulacji, to znajomość uniwersalnych zasad, którymi rządzi się ludzka natura, pomaga nam lepiej rozumieć samych siebie i tę drugą osobę odgrywającą rolę *Subject Matter Expert*. Można spokojnie korzystać z tej wiedzy, mając krystalicznie czyste intencje i bez robienia kogokolwiek w bambuko :) 
+Warto tu zaznaczyć, że choć tematyka prac Cialdiniego niektórym może przywodzić na myśl techniki makiawelicznej manipulacji, to znajomość uniwersalnych zasad, którymi rządzi się ludzka natura, pomaga nam lepiej rozumieć samych siebie i tę drugą osobę odgrywającą rolę *Subject Matter Expert*. Można spokojnie korzystać z tej wiedzy, mając krystalicznie czyste intencje i bez robienia kogokolwiek w bambuko 😊
 
 ### Wszystko ma swoje priorytety
 
