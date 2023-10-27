@@ -19,7 +19,7 @@ Jako ekipa techwriterów i techwriterek z [Hitachi Energy](https://www.linkedin.
 
 ![](images/meta_prez.png)
 
-12.09.2023 w siedzibie Hitachi Energy w Krakowie odbył się meetup dla pracowników firmy i gości z poza niej. Na spotkaniu stawiło się 40 osób. Piotr wziął na siebie dużą część obowiązków organizacyjnych, w czym ma już dużą wprawę, bo ma już na koncie przeprowadzenie writerskiego meetupu w 2019. Dla naszego zespołu ten fusion meetup to już drugie wspólne wydarzenie, bo w obecnym roku Anno Domini 2023 zorganizowaliśmy spotkanie z [Lance Cummings](https://www.linkedin.com/in/lance-cummings-phd/), który w krakowskiej siedzibie firmy opowiadał o tym, jak wykorzystywać *prompt engingeering* w arsenale pisarza technicznego.
+12.09.2023 w siedzibie Hitachi Energy w Krakowie odbył się meetup dla pracowników firmy i gości spoza niej. Na spotkaniu stawiło się 40 osób. Piotr wziął na siebie dużą część obowiązków organizacyjnych, w czym ma już dużą wprawę, bo ma już na koncie przeprowadzenie writerskiego meetupu w 2019. Dla naszego zespołu ten fusion meetup to już drugie wspólne wydarzenie, bo w obecnym roku Anno Domini 2023 zorganizowaliśmy spotkanie z [Lance Cummings](https://www.linkedin.com/in/lance-cummings-phd/), który w krakowskiej siedzibie firmy opowiadał o tym, jak wykorzystywać *prompt engingeering* w arsenale pisarza technicznego.
 
 ### Dlaczego Japonia?
 
