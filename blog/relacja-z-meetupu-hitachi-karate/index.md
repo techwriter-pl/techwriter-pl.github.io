@@ -31,7 +31,7 @@ Niecodzienna fuzja tematów tego meetupu przypadła naszym gościom do gustu.
 
 ![](images/patrycja_jap.jpg)
 
-[Patrycja Pyrek](https://www.linkedin.com/in/patrycja-pyrek/), jako znawczyni tematu, wprowadziła nas we frapujące meandry kultury japońskiej, którą poznała z pierwszej ręki, kilkakrotnie odwiedzając Kraj Kwitnącej Wiśni i zgłębiając miejscowe zwyczaje. Słuchacze dowiedzieli się między innymi o tym, dlaczego nie należy wbijać pałeczek w ryż podczas posiłku oraz jak rozumieć szyld z godzinami otwarcia japońskiego sklepu od "23:00 - 25:00" :-)
+[Patrycja Pyrek](https://www.linkedin.com/in/patrycja-pyrek/), jako znawczyni tematu, wprowadziła nas we frapujące meandry kultury japońskiej, którą poznała z pierwszej ręki, kilkakrotnie odwiedzając Kraj Kwitnącej Wiśni i zgłębiając miejscowe zwyczaje. Słuchacze dowiedzieli się między innymi o tym, dlaczego nie należy wbijać pałeczek w ryż podczas posiłku oraz jak rozumieć szyld z godzinami otwarcia japońskiego sklepu od "23:00 - 25:00" 😊
 
 Arigatō, Patrycja!
 
