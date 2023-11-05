@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[36029],{6073:s=>{s.exports=JSON.parse('{"label":"spo\u0142ecznosc","permalink":"/tags/spolecznosc","allTagsPath":"/tags","count":207}')}}]);
