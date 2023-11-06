@@ -12,7 +12,7 @@ const polishDescriptions: { [id: string]: JSX.Element } = {
       przedsiębiorca, wykładowca, członek rady{' '}
       <Link href="http://itcqf.org/">ITCQF</Link>… Jedna branża to dla niego za
       mało, dlatego poza komunikacją techniczną zajmuje się{' '}
-      <Link href="https://accens.pl/">dostępnością cyfrową</Link>
+      <Link href="https://accens.pl/">dostępnością cyfrową</Link> 
       oraz współtworzy{' '}
       <Link href="https://www.4testers.pl/">
         kurs testowania oprogramowania
@@ -41,7 +41,7 @@ const polishDescriptions: { [id: string]: JSX.Element } = {
   niewiarowski: (
     <>
       Absolwent filologii angielskiej ze sporym dorobkiem tłumaczeniowym. Od ponad dekady
-      jest tech writere. Obecnie specjalizuje się w dziedzinie Industrial Internet of Things 
+      jest tech writerem. Obecnie specjalizuje się w dziedzinie Industrial Internet of Things 
       w branży energetycznej. Zawodowo miał dużą styczność z instrukcjami,
       e-learningiem, ciekawi się coachingiem. Fan aplikacji Snagit firmy
       TechSmith. Prywatnie interesuje się filmem, muzyką rockowo-metalową, lubi
