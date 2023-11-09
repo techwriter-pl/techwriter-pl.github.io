@@ -23,7 +23,7 @@ organizatorzy zastosowali podejście "eko" i w pakiecie rejestracyjnym nie było
 żadnych drukowanych materiałów promocyjnych ani przyborów piśmienniczych. Tylko
 identyfikator oraz program okiełznane smyczą.
 
-[![soap! conf 2015 program](images/CQxt7skWgAAKyEU-768x1024.jpg)](http://techwriter.pl/wp-content/uploads/2015/10/CQxt7skWgAAKyEU.jpg)
+![soap! conf 2015 program](images/CQxt7skWgAAKyEU-768x1024.jpg)
 
 _Źródło: https://twitter.com/rahelab_
 
@@ -38,7 +38,7 @@ toalecie również cisza i spokój. Przyznajemy, że brak stanowiska do selfie b
 dla nas lekkim rozczarowaniem 😉 Za to mogliśmy podziwiać przyjemne widoki z
 okna.
 
-[![Cracow](images/CQzfkmWXAAAIIyO-1024x614.jpg)](http://techwriter.pl/wp-content/uploads/2015/10/CQzfkmWXAAAIIyO.jpg)
+![Cracow](images/CQzfkmWXAAAIIyO-1024x614.jpg)
 
 _Źródło: https://twitter.com/Railwaymen\_org_
 
@@ -57,7 +57,7 @@ Guaranę Maj**, nastąpiło otwarcie konferencji. W tym roku ten zaszczyt przypa
 **[Gosi Radymiak](http://soapconf.com/team/)**, która jest współtwórczynią
 konferencji. Jej przemowa była zatytułowana “What’s Content?”.
 
-[![gosia_radymiak](images/gosia_radymiak.jpg)](http://techwriter.pl/wp-content/uploads/2015/10/gosia_radymiak.jpg)
+![gosia_radymiak](images/gosia_radymiak.jpg)
 
 _Źródło: http://spotkania-it.pl_
 
@@ -112,7 +112,7 @@ niebieska i różowa. Padło na tą drugą.
 
 W taki oto sposób pojawiło się różowe mydło. Ot, cała historia 😊
 
-[![pink_soap](images/pink_soap-300x225.jpg)](http://techwriter.pl/wp-content/uploads/2015/10/pink_soap.jpg)
+![pink_soap](images/pink_soap-300x225.jpg)
 
 _Źródło: https://twitter.com/m\_kasz_
 
@@ -135,7 +135,7 @@ talent oraz pasję z jaką podchodzi do swojej pracy.
 Więcej informacji o tym co robi Natalia możecie znaleźć na stronie
 [jadzkarysuje.pl](http://jadzkarysuje.pl/).
 
-[![IMG_20151008_163236632_HDR](images/IMG_20151008_163236632_HDR.jpg)](http://techwriter.pl/wp-content/uploads/2015/10/IMG_20151008_163236632_HDR.jpg)
+![IMG_20151008_163236632_HDR](images/IMG_20151008_163236632_HDR.jpg)
 
 ### Ogłoszenia parafialne
 
@@ -190,7 +190,7 @@ Rosja i Kanada. Polscy goście przyjechali z Krakowa, Rzeszowa, Warszawy, Łodzi
 Wrocławia, Gdańska, Okocimia, Katowic, Tarnowa, Torunia i Bytomia. Spektrum
 poruszonych tematów przedstawione jest na plakacie konferencji poniżej.
 
-[![plakat_soap](images/plakat_soap-731x1024.png)](http://techwriter.pl/wp-content/uploads/2015/10/plakat_soap.png)
+![plakat_soap](images/plakat_soap-731x1024.png)
 
 ### Podsumujmy
 

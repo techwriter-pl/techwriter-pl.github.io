@@ -53,7 +53,7 @@ wykwalifikowanej wiedzy, bez której to zabawa w speca może skończyć się
 uszczerbkiem na zdrowiu, a w najlepszej sytuacji uszkodzeniem produktu.
 
 \[caption id="attachment_9708" align="aligncenter"
-width="1013"\][![Opis rozdziałów w instrukcji do aparatów Canon, źródło: canon.pl](images/canon_powershot.jpg)](http://techwriter.pl/wp-content/uploads/2021/01/canon_powershot.jpg)
+width="1013"\]![Opis rozdziałów w instrukcji do aparatów Canon, źródło: canon.pl](images/canon_powershot.jpg)
 Opis rozdziałów w instrukcji do aparatów Canon, źródło: canon.pl\[/caption\]
 
 Od strony warsztatu pisarskiego bywa, że tego typu treść daje się generować dość
@@ -73,7 +73,7 @@ cenne, bo mogą zaważyć na dalszej sympatii wobec produktu oraz producenta.
 Stawia się tu zatem na przystępność, atrakcyjność i nowoczesny wygląd.
 
 \[caption id="attachment_9721" align="aligncenter"
-width="1024"\][![Instrukcja do iPhone'a 12 dostępna na stronie producenta. Źródło: apple.com](images/appl_iphone12_user_guide.jpg)](http://techwriter.pl/wp-content/uploads/2021/01/appl_iphone12_user_guide.jpg)
+width="1024"\]![Instrukcja do iPhone'a 12 dostępna na stronie producenta. Źródło: apple.com](images/appl_iphone12_user_guide.jpg)
 Instrukcja do iPhone'a 12 dostępna na stronie producenta. Źródło:
 apple.com\[/caption\]
 
@@ -102,7 +102,7 @@ naszej uwagi. Zawartość najczęściej zawęża się do ponumerowanych grafik
 pokazujących montaż, rozkład elementów produktu, itp.
 
 \[caption id="attachment_9705" align="aligncenter"
-width="590"\][![Samsung Galaxy Note20 5G Quick Reference Guide](images/samsng_note20_qckstrtg-1024x423.jpg)](http://techwriter.pl/wp-content/uploads/2021/01/samsng_note20_qckstrtg.jpg)
+width="590"\]![Samsung Galaxy Note20 5G Quick Reference Guide](images/samsng_note20_qckstrtg-1024x423.jpg)
 Samsung Galaxy Note20 5G Quick Reference Guide Źródło: samsung.com\[/caption\]
 
 Krótka, przystępna i elegancka -- cóż tutaj może pójść źle? Sporo, jak pokazuje
@@ -141,7 +141,7 @@ specyfikacje, pojedyncze procedury lub rodziny procedur (zwane procesami),
 sekcje rozwiązywania problemów, a nawet glosariusze.
 
 \[caption id="attachment_9716" align="aligncenter"
-width="742"\][![Fragment dokumentacji do Symfony 5.2, źródło: https://symfony.com](images/symphony_doc.jpg)](http://techwriter.pl/wp-content/uploads/2021/01/symphony_doc.jpg)
+width="742"\]![Fragment dokumentacji do Symfony 5.2, źródło: https://symfony.com](images/symphony_doc.jpg)
 Fragment dokumentacji do Symfony 5.2. Źródło: symfony.com\[/caption\]
 
 Co ciekawe, czasami odbiorca tych dokumentów przewyższa swą wiedzą osoby
@@ -202,7 +202,7 @@ punktu widzenia zarówno przeciętnego użytkownika, jak i developera obsługuj�
 dane oprogramowanie po stronie klienta.
 
 \[caption id="attachment_9729" align="aligncenter"
-width="476"\][![Przykład release notek aplikacji Orange Flex.](images/RNs_flex.jpg)](http://techwriter.pl/wp-content/uploads/2021/01/RNs_flex.jpg)
+width="476"\]![Przykład release notek aplikacji Orange Flex.](images/RNs_flex.jpg)
 Przykład release notek aplikacji Orange Flex.\[/caption\]
 
 Nie jest powiedziane, że przygotowaniem takiej informacji z definicji musi

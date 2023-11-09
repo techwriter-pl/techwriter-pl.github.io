@@ -64,7 +64,7 @@ I milion pomysłów na więcej!
 
 Przez ten czas strona została odwiedzona przez **kilka tysięcy użytkowników:**
 
-[![users1rok](images/users1rok.jpg)](http://techwriter.pl/wp-content/uploads/2014/09/users1rok.jpg)
+![users1rok](images/users1rok.jpg)
 
 ...a listę najbardziej popularnych artykułów otwierają:
 
@@ -90,7 +90,7 @@ ucząc - bawi”. Teraz nazywa się to chyba
 "[edutainment](http://pl.wikipedia.org/wiki/Edutainment)", ale my pamiętamy też
 o rodzimych wzorcach:
 
-[![bawiacuczy](images/bawiacuczy.jpg)](http://techwriter.pl/wp-content/uploads/2014/09/bawiacuczy.jpg)
+![bawiacuczy](images/bawiacuczy.jpg)
 
 Chcieliśmy stworzyć coś, co pomoże rozwijać się tym z Was, którzy - jak my - już
 wybrali swoją zawodową drogę. Coś, co pokaże innym, że istnieje profesja
@@ -98,7 +98,7 @@ wybrali swoją zawodową drogę. Coś, co pokaże innym, że istnieje profesja
 którą warto się zainteresować, poznać ją, a może nawet uczynić z niej sposób na
 swoje zawodowe życie.
 
-[![rozwazania](images/rozwazania.jpg)](http://techwriter.pl/wp-content/uploads/2014/09/rozwazania.jpg)
+![rozwazania](images/rozwazania.jpg)
 
 Wam pozostawiamy ocenę czy udało się osiągnąć ten cel. Na pewno będziemy dalej
 próbować. Tworzenie tej strony ciągle nas bawi. I uczy jednocześnie.

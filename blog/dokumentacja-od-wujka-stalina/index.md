@@ -45,7 +45,7 @@ miłościwy Stalin zaoferował ''darmową'' licencję na samochód
 [Pobieda M-20](https://pl.wikipedia.org/wiki/GAZ-M20_Pobieda)  - w późniejszym
 czasie nazwany Warszawą.
 
-[![](images/Warszawa.jpg)](http://techwriter.pl/wp-content/uploads/2021/03/Warszawa.jpg)
+![](images/Warszawa.jpg)
 
 Na mocy podpisanej umowy polsko-radzieckiej, przekazano plany konstrukcyjne
 samochodu GAZ Pobieda M-20. Mieliśmy zapłacić jedynie za dokumentację techniczną
@@ -96,14 +96,14 @@ tak, następcą Warszawy zostało auto klasy średniej
 zapewniła szybki transfer względnie nowej technologii w naszym kraju. Produkcję
 rozpoczęto już w 1967 roku.
 
-[![](images/fiat-125p.jpg)](http://techwriter.pl/wp-content/uploads/2021/03/fiat-125p.jpg)
+![](images/fiat-125p.jpg)
 
 Kilka lat później, w 1971 roku, podpisano kolejną umowę licencyjną z Włochami,
 tym razem na produkcję samochodu małolitrażowego.
 [Polski Fiat 126p](https://pl.wikipedia.org/wiki/Fiat_126), zwany ''Maluchem'',
 uznawany jest za samochód, który zmotoryzował nasze społeczeństwo 😊.
 
-[![](images/maluch.jpeg)](http://techwriter.pl/wp-content/uploads/2021/03/maluch.jpeg)
+![](images/maluch.jpeg)
 
 Jako następca Polskiego Fiata 125p pojawił się
 [Polonez](https://pl.wikipedia.org/wiki/FSO_Polonez). Jego produkcja przypadła
@@ -111,7 +111,7 @@ na okres kryzysu gospodarczego w latach 80-tych, co nie pozwoliło na wdrożenie
 większej ilości nowoczesnych rozwiązań. Nie był on w stanie konkurować z autami
 zachodnimi, które stawały się coraz bardziej popularne w naszym kraju.
 
-[![](images/fso_polonez_78.jpg)](http://techwriter.pl/wp-content/uploads/2021/03/fso_polonez_78.jpg)
+![](images/fso_polonez_78.jpg)
 
 ...i tutaj w wielkim skrócie historię polskiej motoryzacji należałoby zakończyć
 😉.

@@ -27,4 +27,4 @@ wyświetlić w pełnej rozdzielczości) albo
 
 Powodzenia!
 
-[![intern_tech_writer_unit4](images/intern_tech_writer_unit4.png)](http://techwriter.pl/wp-content/uploads/2016/10/intern_tech_writer_unit4.png)
+![intern_tech_writer_unit4](images/intern_tech_writer_unit4.png)

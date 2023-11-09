@@ -27,4 +27,4 @@ obrazek, żeby go wyświetlić w pełnej rozdzielczości) albo
 [bezpośrednio u źródła](https://www.pracuj.pl/praca/technical-writer-warszawa,oferta,5330788)
 (w pełnej krasie graficznej i z przyciskiem do aplikowania).
 
-[![](images/ogloszenie_tech_writer_ttms.png)](http://techwriter.pl/wp-content/uploads/2017/06/ogloszenie_tech_writer_ttms.png)
+![](images/ogloszenie_tech_writer_ttms.png)

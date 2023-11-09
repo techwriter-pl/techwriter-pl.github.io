@@ -34,7 +34,7 @@ miłośniczka przyrody, literatury psychologicznej i rodzinnych wycieczek.
 Jeśli chcielibyście skontaktować się z Mileną piszcie
 na: [milena@milush.pl](mailto:milena@milush.pl).
 
-[![](images/milena.jpg)](http://techwriter.pl/wp-content/uploads/2019/05/milena.jpg)
+![](images/milena.jpg)
 
 ## Recenzja książki "Technical Writing in English" Iwony Mokwy-Tarnowskiej
 

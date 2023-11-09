@@ -93,7 +93,7 @@ użycia możecie przeczytać
 
 Nawiążemy trochę do matematyki i wzoru jak to można wyliczyć 😊.
 
-[![](images/Indeks-Flescha-1.png)](http://techwriter.pl/wp-content/uploads/2020/07/Indeks-Flescha-1.png)
+![](images/Indeks-Flescha-1.png)
 
 Otrzymany rezultat można zinterpretować jak poniżej:
 
@@ -115,7 +115,7 @@ Jak to zrobić?
 Wybierz fragment (najlepiej cały akapit) składający się z około 100 słów. Nie
 pomijaj żadnych zdań. Aby wyliczyć indeks FOG, zastosuj wzór:
 
-[![](images/Index-FOG-1.png)](http://techwriter.pl/wp-content/uploads/2020/07/Index-FOG-1.png)
+![](images/Index-FOG-1.png)
 
 … i teraz możecie ocenić jak bardzo Wasz tekst jest przystępny:
 

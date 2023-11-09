@@ -35,7 +35,7 @@ regularnych odcinków.
 
 ### Write the Docs Podcast
 
-[![](images/sticker-wtd-colors-e1463047950528.png)](http://techwriter.pl/wp-content/uploads/2016/05/sticker-wtd-colors-e1463047950528.png)
+![](images/sticker-wtd-colors-e1463047950528.png)
 
 [http://podcast.writethedocs.org](http://podcast.writethedocs.org)
 
@@ -53,7 +53,7 @@ zgłosić chęć udziału.
 
 ### Content Content Podcast
 
-[![](images/Complimentary_sandwich_featuring_Todd_DeLuca_Content_Content_episode_9-mp3-image-150x150.jpg)](http://techwriter.pl/wp-content/uploads/2018/03/Complimentary_sandwich_featuring_Todd_DeLuca_Content_Content_episode_9-mp3-image.jpg)
+![](images/Complimentary_sandwich_featuring_Todd_DeLuca_Content_Content_episode_9-mp3-image-150x150.jpg)
 
 [http://edmarsh.com/content-content-podcast](http://edmarsh.com/content-content-podcast)
 
@@ -62,7 +62,7 @@ zaprasza specjalistów zajmujących się szeroko pojętą treścią. Podcasty s�
 prowadzone w formie luźnych pogawędek z gośćmi, ale nie oznacza to, że nie
 będziecie w stanie z nich wyciągnąć wartościowych informacji.
 
-### The CherryLeaf Podcast[![](images/cherrysquare-150x150.jpg)](http://techwriter.pl/wp-content/uploads/2018/03/cherrysquare.jpg)
+### The CherryLeaf Podcast![](images/cherrysquare-150x150.jpg)
 
 [https://cherryleaf.podbean.com](https://cherryleaf.podbean.com)
 
@@ -75,7 +75,7 @@ biznesowych.
 
 ### The Content Strategy Experts Podcast
 
-[![](images/podcast_featured_image-150x150.png)](http://techwriter.pl/wp-content/uploads/2018/03/podcast_featured_image.png)
+![](images/podcast_featured_image-150x150.png)
 
 [https://www.scriptorium.com/content-strategy-experts-podcast](https://www.scriptorium.com/content-strategy-experts-podcast)
 
@@ -88,7 +88,7 @@ z [ich strony](https://www.scriptorium.com/books/).
 
 ### 10-Minute Tech Comm
 
-[![](images/10minutetechcomm-150x150.png)](http://techwriter.pl/wp-content/uploads/2018/03/10minutetechcomm.png)
+![](images/10minutetechcomm-150x150.png)
 
 [https://www.podbean.com/podcast-detail/36ttb-52a6a/10-Minute+Tech+Comm](https://www.podbean.com/podcast-detail/36ttb-52a6a/10-Minute+Tech+Comm)
 
@@ -101,7 +101,7 @@ związane z naszą branżą.
 
 ### The Not-Boring Tech Writer Podcast
 
-[![](images/itunes-image1-150x150.jpg)](http://techwriter.pl/wp-content/uploads/2018/03/itunes-image1.jpg)
+![](images/itunes-image1-150x150.jpg)
 
 [https://www.thenotboringtechwriter.com/](https://www.thenotboringtechwriter.com/)
 
@@ -146,7 +146,7 @@ popularne czytniki PDF [Foxit Reader](https://www.foxitsoftware.com/pdf-reader/)
 i [Adobe Reader](https://acrobat.adobe.com/pl/pl/acrobat/pdf-reader.html) mają
 wbudowaną opcję czytania tekstu na głos. Jeśli używacie Androida to mamy dla Was
 jedną aplikację, która całkiem dobrze sobie radzi z odczytywaniem tekstu
-- [@Voice Aloud Reader](https://play.google.com/store/apps/details?id=com.hyperionics.avar&hl=pl).[![](images/unnamed-150x150.png)](http://techwriter.pl/wp-content/uploads/2018/03/unnamed.png)
+- [@Voice Aloud Reader](https://play.google.com/store/apps/details?id=com.hyperionics.avar&hl=pl).![](images/unnamed-150x150.png)
 
 Małą niedogodnością jest to, że darmowa wersja wyświetla nam reklamy. Ale za
 niewiele ponad 20 zł możecie kupić wersję bez reklam. Po zainstalowaniu,
@@ -157,7 +157,7 @@ sobie listę artykułów do przeczytania, wkleić tekst bezpośrednio do aplikac
 lub załadować plik PDF z pamięci telefonu. Interfejs graficzny programu nie
 powala, ale nie dajcie się zwieść - aplikacja ma spore możliwości.
 
-[![](images/Screenshot_20180324-182341-169x300.png)](http://techwriter.pl/wp-content/uploads/2018/03/Screenshot_20180324-182341.png)
+![](images/Screenshot_20180324-182341-169x300.png)
 
 Istnieje wiele innych aplikacji, które być może są lepsze lub tańsze, ale
 wspominamy akurat o tej, ponieważ od jakiegoś czasu sami jej używamy. Wiele razy

@@ -31,4 +31,4 @@ pełnej krasie graficznej i z przyciskiem do aplikowania).
 Jeśli potrzebujecie więcej szczegółów, swoje pytania kierujcie na
 adres: [Piotr.Sroka@pega.com](mailto:Piotr.Sroka@pega.com).
 
-[![](images/pega-junior-tech-writer.png)](http://techwriter.pl/wp-content/uploads/2017/10/pega-junior-tech-writer.png)
+![](images/pega-junior-tech-writer.png)

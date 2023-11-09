@@ -27,7 +27,7 @@ polecamy prześledzenie wpisów na Twitterze oznaczonych hashtagiem
 znaleźć obszerną
 [galerię zdjęć](https://www.facebook.com/media/set/?set=a.509081215928618.1073741835.191277601042316&type=1&l=4ccaf46fe2).
 
-[![soap_audience](images/soap_audience.jpg)](http://techwriter.pl/wp-content/uploads/2015/10/soap_audience.jpg)
+![soap_audience](images/soap_audience.jpg)
 
 ## **Beacony atakują**
 

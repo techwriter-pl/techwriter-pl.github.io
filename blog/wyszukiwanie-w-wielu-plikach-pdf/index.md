@@ -26,30 +26,30 @@ przykładzie **Adobe Reader XI**.
 1.  Otwórz aplikację Adobe Reader. 2) W górnym pasku, otwórz menu Edycja i
     wybierz opcję **Wyszukiwanie zaawansowane**.
 
-[![menuedycja](images/menuedycja.png)](http://techwriter.pl/wp-content/uploads/2014/09/menuedycja.png)
+![menuedycja](images/menuedycja.png)
 
 Pojawi się okno wyszukiwania.
 
 3. W oknie, zaznacz opcję **Wszystkie dokumenty PDF w** po czym z menu
    rozwijanego wybierz lokalizację z plikami PDF, które mają zostać przeszukane.
 
-[![szukajokno1popraw](images/szukajokno1popraw.png)](http://techwriter.pl/wp-content/uploads/2014/09/szukajokno1popraw.png)
+![szukajokno1popraw](images/szukajokno1popraw.png)
 
 4. W polu **Jakiego wyrazu lub wyrażenia chciałbyś poszukać?** wpisz tekst,
    który chcesz wyszukać, np. imię.
 
-[![szukajokno2](images/szukajokno2.png)](http://techwriter.pl/wp-content/uploads/2014/09/szukajokno2.png)
+![szukajokno2](images/szukajokno2.png)
 
 Opcjonalnie, zmień pozostałe parametry wyszukiwania. Naciśnij _Szukaj_.
 
 5. Jeśli pojawi się poniższe okno z ostrzeżeniem, naciśnij _Zezwalaj_.
 
-[![ostrzezeniepopr](images/ostrzezeniepopr.png)](http://techwriter.pl/wp-content/uploads/2014/09/ostrzezeniepopr.png)
+![ostrzezeniepopr](images/ostrzezeniepopr.png)
 
 Po zakończeniu wyszukiwania, rezultat zostanie wyświetlony w oknie wyszukiwania
 w sekcji **Wyniki**.
 
-[![szukajwyniki](images/szukajwyniki.png)](http://techwriter.pl/wp-content/uploads/2014/09/szukajwyniki.png)
+![szukajwyniki](images/szukajwyniki.png)
 
 6. Żeby przejść do miejsca, w którym tekst został znaleziony, kliknij na żądany
    plik.

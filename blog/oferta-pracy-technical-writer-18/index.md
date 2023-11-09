@@ -29,4 +29,4 @@ referencyjny ogłoszenia: DEMS03710).
 
 Powodzenia!
 
-[![devonshire_tech_writer](images/devonshire_tech_writer.png)](http://techwriter.pl/wp-content/uploads/2016/10/devonshire_tech_writer.png)
+![devonshire_tech_writer](images/devonshire_tech_writer.png)

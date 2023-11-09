@@ -26,6 +26,6 @@ stronie pracodawcy (gdzie znajdziecie również link do aplikowania):
 - [Technical Writer](https://akamaijobs.referrals.selectminds.com/jobs/technical-writer-10637)
 - [Senior Technical Writer](https://akamaijobs.referrals.selectminds.com/jobs/senior-technical-writer-10620)
 
-[![](images/tech_writer_akamai-1.png)](http://techwriter.pl/wp-content/uploads/2019/03/tech_writer_akamai-1.png)
+![](images/tech_writer_akamai-1.png)
 
-[![](images/senior_tech_writer_akamai-1.png)](http://techwriter.pl/wp-content/uploads/2019/03/senior_tech_writer_akamai-1.png)
+![](images/senior_tech_writer_akamai-1.png)

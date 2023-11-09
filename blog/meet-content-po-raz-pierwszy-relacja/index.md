@@ -35,7 +35,7 @@ dotyczące odbiorców oraz celu instrukcji dostarczanych przez firmę. Ponieważ
 mogła uzyskać na nie zadowalających odpowiedzi, sama zaczęła zajmować się
 badaniem użytkowników i po pewnym czasie stało się to jej pracą.
 
-[![](images/meetcontent1_1.jpg)](http://techwriter.pl/wp-content/uploads/2017/05/meetcontent1_1.jpg)
+![](images/meetcontent1_1.jpg)
 
 Celem prezentacji było ogólne przedstawienie zagadnienia testowania
 użyteczności, bez wchodzenia w szczegóły dotyczące narzędzi i sposobów
@@ -54,7 +54,7 @@ zrozumieć tą definicję, prowadząca pokazała nam obrazek przedstawiający ps
 który wyglądał jakby robił coś na komputerze oraz napis "Nie mam pojęcia co
 robię". Krótko, zwięźle i na temat.
 
-[![](images/meetcontent1_2.jpg)](http://techwriter.pl/wp-content/uploads/2017/05/meetcontent1_2.jpg)
+![](images/meetcontent1_2.jpg)
 
 ### Dlaczego powinniśmy to robić?
 

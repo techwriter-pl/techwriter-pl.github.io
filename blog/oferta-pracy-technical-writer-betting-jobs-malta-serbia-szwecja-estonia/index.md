@@ -29,4 +29,4 @@ Swoją kandydaturę możecie też zgłaszać poprzez wysłanie CV w języku angi
 danych kontaktowych na
 adres [mark@bettingjobs.com](mailto:mark@bettingjobs.com).
 
-[![](images/betting_jobs_tech_writer.png)](http://techwriter.pl/wp-content/uploads/2019/03/betting_jobs_tech_writer.png)
+![](images/betting_jobs_tech_writer.png)

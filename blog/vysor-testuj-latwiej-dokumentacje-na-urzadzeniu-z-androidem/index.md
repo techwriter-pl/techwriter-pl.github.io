@@ -96,23 +96,22 @@ Następnie, wykonaj poniższe kroki:
 6. Na komputerze, otwórz Google Chrome i uruchom aplikację Vysor. Do
    zainstalowanych aplikacji możesz się dostać wpisując adres chrome://apps/.
 7. W oknie aplikacji Vysor wybierz **Find devices**.
-   [![vysor_find_devices](images/vysor_find_devices.png)](http://techwriter.pl/wp-content/uploads/2016/07/vysor_find_devices.png)
+   ![vysor_find_devices](images/vysor_find_devices.png)
 8. Po tym jak Twój telefon zostanie znaleziony, zaznacz go na liście i wybierz
-   **Select**.
-   [![vysor_select_device](images/vysor_select_device.png)](http://techwriter.pl/wp-content/uploads/2016/07/vysor_select_device.png)Na
+   **Select**. ![vysor_select_device](images/vysor_select_device.png)Na
    telefonie pojawi się komunikat z prośbą o zezwolenie na debugowanie USB przez
    podłączony komputer. Poniżej znajduje się przykład komunikatu.
-   [![vysor_zezwol_debugowanie](images/vysor_zezwol_debugowanie.png)](http://techwriter.pl/wp-content/uploads/2016/07/vysor_zezwol_debugowanie.png)
+   ![vysor_zezwol_debugowanie](images/vysor_zezwol_debugowanie.png)
 9. Wybierz **OK**. Na komputerze pojawi się okno ekranu telefonu, a w telefonie
    zostanie zainstalowana aplikacja Vysor. Po zakończonej instalacji zostanie
    podjęta próba nawiązania połączenia z telefonem. Jeśli próba się powiedzie,
    na telefonie pojawi się potwierdzenie połączenia.
-   [![vysor_connected](images/vysor_connected.png)](http://techwriter.pl/wp-content/uploads/2016/07/vysor_connected.png)
+   ![vysor_connected](images/vysor_connected.png)
 10. Wybierz **OK** lub **NEVER SHOW THIS AGAIN** w zależności od preferencji. W
     oknie na komputerze wyświetli się ekran Twojego telefonu. Teraz możesz
     obsługiwać swój telefon za pomocą myszki i klawiatury komputera.
 
-[![vysor_ekran_telefonu](images/vysor_ekran_telefonu.png)](http://techwriter.pl/wp-content/uploads/2016/07/vysor_ekran_telefonu.png)
+![vysor_ekran_telefonu](images/vysor_ekran_telefonu.png)
 
 Na koniec mamy dla Was jeszcze jedną wskazówkę. Żeby ekran telefonu nie wygaszał
 się automatycznie, otwórz w telefonie **Ustawienia > Opcje programisty** i

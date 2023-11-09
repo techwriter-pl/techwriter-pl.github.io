@@ -85,4 +85,4 @@ sprawozdania z poszczególnych prezentacji już wkrótce!
 
 Na koniec jeszcze raz powtórzymy, **czy było warto**? Tak, było warto!
 
-[![like](images/like.png)](http://techwriter.pl/wp-content/uploads/2014/06/like.png)
+![like](images/like.png)

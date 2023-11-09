@@ -25,7 +25,7 @@ Na początek, z kronikarskiego obowiązku, kilka informacji organizacyjnych:
 - Liczba uczestników: około 50
 - Agenda:
 
-[![KMS_agenda](images/KMS_agenda-576x1024.jpg)](http://techwriter.pl/wp-content/uploads/2014/11/KMS_agenda.jpg)
+![KMS_agenda](images/KMS_agenda-576x1024.jpg)
 
 Kluczowe rzeczy, które udało nam się wyłapać z poszczególnych prezentacji
 przedstawiamy poniżej. Niecierpliwych od razu uprzedzamy, że najlepsze było na
@@ -122,7 +122,7 @@ konferencji.
 Dowiedzieliśmy się czym różnią się dane od informacji, co to jest wiedza, czym
 różni się od pozostałych dwóch i dlaczego wiedza to nie mądrość. Odświeżające.
 
-[![wiedza_madrosc](images/wiedza_madrosc.jpg)](http://techwriter.pl/wp-content/uploads/2014/11/wiedza_madrosc.jpg)
+![wiedza_madrosc](images/wiedza_madrosc.jpg)
 
 Wystąpienie na dużym poziomie (również abstrakcji). Ale można było wychwycić
 także bardzo praktyczne wskazówki. Na przykład taką - planując projekt dotyczący

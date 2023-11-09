@@ -42,6 +42,6 @@ Znamy kilka przykładów istniejących frejmłorków, ale znamy również najbar
 strzeżoną tajemnicę ich twórców: Nikt nie wie jak tych frejmłorków używać! Może
 dlatego, że są żle udokumentowane?
 
-[![framework](images/framework.jpg)](http://techwriter.pl/wp-content/uploads/2014/07/framework.jpg)
+![framework](images/framework.jpg)
 
 Patrz też: _dewelopment_

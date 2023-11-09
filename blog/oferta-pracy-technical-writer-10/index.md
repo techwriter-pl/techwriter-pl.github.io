@@ -31,4 +31,4 @@ Aplikować można poprzez wysłanie CV (format A4) w języku angielskim na adres
 
 Powodzenia!
 
-[![xtrf_tech_writer](images/xtrf_tech_writer.png)](http://techwriter.pl/wp-content/uploads/2016/02/xtrf_tech_writer.png)
+![xtrf_tech_writer](images/xtrf_tech_writer.png)

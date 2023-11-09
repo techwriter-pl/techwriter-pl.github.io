@@ -41,4 +41,4 @@ Aplikować można również poprzez wysłanie CV w języku angielskim na adres:
 
 Powodzenia!
 
-[![medius_tech_writer](images/medius_tech_writer.png)](http://techwriter.pl/wp-content/uploads/2016/03/medius_tech_writer.png)
+![medius_tech_writer](images/medius_tech_writer.png)

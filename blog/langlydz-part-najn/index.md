@@ -20,7 +20,7 @@ usatysfakcjonowany techwriter. Obecnie firma produkująca namioty.
 [Cyrkowe](http://www.kontent.pl/). Udało nam się również znaleźć
 [zastosowanie tego słowa do wyrobów czekoladopodobnych](http://www.brzoskowski.pl/2009/07/dobry-kontent-kontra-zly-kontent/).
 
-[![czekoladopodobne](images/czekoladopodobne.jpg)](http://techwriter.pl/wp-content/uploads/2014/09/czekoladopodobne.jpg)
+![czekoladopodobne](images/czekoladopodobne.jpg)
 
 Etymologia: prawdopodobnie pochodzi od skrócenia i połączenia dwóch wyrazów
 "koński tętent" (kreska nad ń z upływem lat zagubiła się w galopie).

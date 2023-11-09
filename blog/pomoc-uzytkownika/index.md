@@ -26,7 +26,7 @@ do czynienia z tzw. kontekstową pomocą użytkownika (_context-sensitive help_)
 wyświetlane informacje pomocy zależą od tego z której części systemu aktualnie
 korzystamy.
 
-[![Wordhelp](images/Wordhelp.jpg)](http://techwriter.pl/wp-content/uploads/2013/10/Wordhelp.jpg)
+![Wordhelp](images/Wordhelp.jpg)
 
 On-line help ma to do siebie, że jest w całości dostępny dla wszystkich
 użytkowników oprogramowania a jednocześnie nikt nigdy go w całości nie czyta 😊.

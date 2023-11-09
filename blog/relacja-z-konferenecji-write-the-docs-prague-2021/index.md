@@ -77,8 +77,8 @@ _[''Customer Feedback is the Fuel in our Engine''](https://www.youtube.com/watch
 opowiedział jak budować relacje z klientem, aby otrzymać od niego informację
 zwrotną i na jej podstawie rozwijać swój produkt.
 
-[![](images/37-1024x724.jpg)](http://techwriter.pl/wp-content/uploads/2021/10/37-scaled.jpg)Autorką
-tego szkicu, jak i pozostałych użytych w tym artykule, jest utalentowana
+![](images/37-1024x724.jpg)Autorką tego szkicu, jak i pozostałych użytych w tym
+artykule, jest utalentowana
 [Linette Voller.](https://www.linkedin.com/in/linettevoller/)
 
 Praca technical writera nie polega tylko na gromadzeniu informacji,
@@ -124,9 +124,8 @@ wolnego czasu, ale za to więcej doświadczenia, więcej pieniędzy, możliwoś�
 uczenia się poprzez ciekawe projekty 😉 .
 
 Oczywiście nie zapominajcie o higienie umysłu! Odpowiedni wypoczynek i przerwy
-uchronią Was przed
-wypaleniem![![](images/35-1024x724.jpg)](http://techwriter.pl/wp-content/uploads/2021/10/35-scaled.jpg)Co
-należy zrobić zaczynając jako freelancer?
+uchronią Was przed wypaleniem!![](images/35-1024x724.jpg)Co należy zrobić
+zaczynając jako freelancer?
 
 - Upewnić się, że możecie prowadzić działalność gospodarczą.
 - Zapoznać się z umową z poprzednim pracodawcą, czy przypadkiem nie ma w niej
@@ -173,7 +172,7 @@ międzynarodowym. Wyjaśniła również co to jest
 [lingwistyka stosowana](https://pl.wikipedia.org/wiki/Lingwistyka_stosowana)
 oraz przedstawiła praktyczne przykłady jak się lepiej komunikować i rozumieć.
 
-[![](images/33-1024x724.jpg)](http://techwriter.pl/wp-content/uploads/2021/10/33-scaled.jpg)
+![](images/33-1024x724.jpg)
 
 Kilka wskazówek jak radzić sobie z rozwiązywaniem problemów językowych:
 
@@ -209,7 +208,7 @@ w swojej prelekcji
 postanowiła podzielić się swoimi cennymi wskazówkami, z których dowiecie się co
 można zrobić dla siebie i zespołu, aby praca nas nie przytłoczyła oraz jak
 radzić sobie z trudnościami w niestabilnych okolicznościach
-lockdownu.[![](images/38-1024x724.jpg)](http://techwriter.pl/wp-content/uploads/2021/10/38-scaled.jpg)
+lockdownu.![](images/38-1024x724.jpg)
 
 Czego dotyczy problem?
 
@@ -254,7 +253,7 @@ która cieszy się dużą popularnością wśród pisarzy technicznych, nerdów,
 programistów 😉 . Sam tytuł z niezłym skutkiem został przełożony na język filmu
 komediowego:
 
-[![](images/hitchhikers-guide-1024x576.jpeg)](http://techwriter.pl/wp-content/uploads/2021/10/hitchhikers-guide.jpeg)[`Douglas Adams`](https://pl.wikipedia.org/wiki/Douglas_Adams)
+![](images/hitchhikers-guide-1024x576.jpeg)[`Douglas Adams`](https://pl.wikipedia.org/wiki/Douglas_Adams)
 `był satyrykiem, pisarzem, entuzjastą nowych technologii i wielkim fanem marki Apple Macintosh,`
 `scenarzystą, autorem jednego skeczu dla "Latającego Cyrku Monty Pythona", prowadził kampanie na rzecz ochrony`
 `zagrożonych gatunków.`
@@ -266,7 +265,7 @@ ręczniki, które są przecież niezbędne do międzygalaktycznych podróży sto
 Osoby zaintrygowane zapraszamy do zapoznania się z twórczością Douglasa Adamsa,
 jak i samą prezentacją o tłumaczeniu maszynowym.
 
-[![](images/upload_013.png)](http://techwriter.pl/wp-content/uploads/2021/10/upload_013.png)
+![](images/upload_013.png)
 
 Wracając do materiału opracowanego przez Lukasa, zastosowana analogia pasowała
 jak ulał. To kompletny przewodnik, który w niemal naukowy sposób analizuje
@@ -274,7 +273,7 @@ różnorodne wymagania stawiane dokumentacji i prezentuje dostępne możliwe
 podejścia do tworzenia treści. Wytłumaczone jest to tak przejrzyście, że nawet
 przybysz z obcej planety by zrozumiał 😉 .
 
-[![](images/1633339503059-1024x724.jpeg)](http://techwriter.pl/wp-content/uploads/2021/10/1633339503059.jpeg)
+![](images/1633339503059-1024x724.jpeg)
 
 Uważamy, że ten materiał jest pomocny dla osób nowych w branży, gdyż dowiedzą
 się z niego sporo o dostępnych kategoriach narzędzi do tworzenia dokumentacji. Z
@@ -298,7 +297,7 @@ potrafią jeszcze wyżej podnieść nam ciśnienie, gdy podczas kluczowej operac
 naszym oczom ukazuje się wiadomość taka, jak ta w tym
 [znakomitym skeczu HRejterów](https://youtu.be/4V2C0X4qqLY?t=105):
 
-[![](images/upload_016-300x229.png)](http://techwriter.pl/wp-content/uploads/2021/10/upload_016.png)
+![](images/upload_016-300x229.png)
 
 Ryan odkrywa przed nami kilka kluczowych faktów na temat tego, jak działamy pod
 wpływem stresu i jak ta wiedza umożliwia nam pisanie komunikatów z większą dozą
@@ -306,7 +305,7 @@ empatii. Biorąc pod uwagę szczególne stany emocjonalne odbiorców, można stw
 tekst, który zamiast irytować będzie po prostu efektywnie przekazywać kluczową
 informację.
 
-[![](images/1633345502686-1024x724.jpeg)](http://techwriter.pl/wp-content/uploads/2021/10/1633345502686.jpeg)
+![](images/1633345502686-1024x724.jpeg)
 
 Nawet jeśli nie zajmujecie się _User Experience_ i nie tworzycie takich
 komunikatów błędów, warto zastanowić się czy Wasza dokumentacja jest klarowna na
@@ -336,7 +335,7 @@ w nowo powstających dziedzinach takich jak
 wskazówkami na temat tego, jak dobierać terminologię i jak sprawić, żeby nowe
 określenia zamieszkały w świadomości odbiorców.
 
-[![](images/1633431903820-1024x724.jpeg)](http://techwriter.pl/wp-content/uploads/2021/10/1633431903820.jpeg)
+![](images/1633431903820-1024x724.jpeg)
 
 Również i z tej prezentacji dowiemy się czegoś o pracy mózgu - w tym wypadku
 wspomniane są dwa systemy: szybkiego i wolnego myślenia. Kolejny raz
@@ -362,12 +361,11 @@ wpływ na cały zespół i procedury dokumentacji. Jenn przybliża proces rozwij
 zespołu: od garstki pisarzy technicznych po rozbudowaną grupę ze szczególnymi
 specjalnościami. Dowiecie się, jak tworzone są plany w perspektywie kilku lat,
 by stopniowo rozbudowywać zespół i wyposażyć go w odpowiednio dojrzały
-proces.[![](images/1633445703626-1024x724.jpeg)](http://techwriter.pl/wp-content/uploads/2021/10/1633445703626.jpeg)Dodatkowym
-atutem tej prezentacji jest zastosowanie się autorki do nadrzędnej zasady: by
-osiągnąć sukces, należy wpleść dostatecznie dużo zdjęć kotów 😉 I piszemy to bez
-szyderstwa, bo warstwa wizualna tych slajdów ma bardzo staranie opracowany styl
-graficzny. Uczta dla ucha i
-oka.[![](images/upload_019.png)](http://techwriter.pl/wp-content/uploads/2021/10/upload_019.png)
+proces.![](images/1633445703626-1024x724.jpeg)Dodatkowym atutem tej prezentacji
+jest zastosowanie się autorki do nadrzędnej zasady: by osiągnąć sukces, należy
+wpleść dostatecznie dużo zdjęć kotów 😉 I piszemy to bez szyderstwa, bo warstwa
+wizualna tych slajdów ma bardzo staranie opracowany styl graficzny. Uczta dla
+ucha i oka.![](images/upload_019.png)
 
 ### Lightning talks
 

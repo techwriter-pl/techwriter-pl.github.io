@@ -49,7 +49,7 @@ ramach komunikacji technicznej.
 
 Dokładniej mówiąc, respondenci zaznaczyli następujące kategorie:
 
-[![](images/image6.png)](http://techwriter.pl/wp-content/uploads/2018/04/image6.png)
+![](images/image6.png)
 
 | Technical writer (specjalista ds. dokumentacji technicznej)      | 63                  |
 | ---------------------------------------------------------------- | ------------------- |
@@ -76,13 +76,13 @@ wzrosła liczba szkoleń z ITCQF. Chociaż to może oznaczać, że ludzie nie tr
 tego szkolenia jako swojego głównego przygotowania do zawodu, a jedynie jako
 opcjonalny kurs w ścieżce kariery.
 
-[![](images/image3.png)](http://techwriter.pl/wp-content/uploads/2018/04/image3.png)
+![](images/image3.png)
 
 Większość respondentów ma do pięciu lat doświadczenia w branży. Tylko trzy osoby
 wskazały, że mają więcej niż 10 lat doświadczenia. Jesteśmy więc wciąż młodym
 zawodem w Polsce.
 
-[![](images/image5.png)](http://techwriter.pl/wp-content/uploads/2018/04/image5.png)
+![](images/image5.png)
 
 Jeśli chodzi o dalszy rozwój zawodowy, to tylko 21% respondentów nie bierze
 udziału w żadnych wydarzeniach. Pozostali dzielą swój czas między różne
@@ -92,7 +92,7 @@ respondentów mniej interesujące, czy że jest ich mniej? Na pewno nie brakuje
 webinarów, ale może ich tematyka lub godziny w jakich się odbywają nie
 odpowiadają naszym ankietowanym.
 
-[![](images/image4.png)](http://techwriter.pl/wp-content/uploads/2018/04/image4.png)
+![](images/image4.png)
 
 ## **Firma, branża**
 
@@ -120,7 +120,7 @@ koleżanek pisze dokumentację do oprogramowania i API.
 
 Zdecydowana większość badanych identyfikuje się z województwem małopolskim.
 
-[![](images/image1.png)](http://techwriter.pl/wp-content/uploads/2018/04/image1.png)
+![](images/image1.png)
 
 To może wskazywać na popularność naszego portalu w tym regionie, ale prawdą jest
 też, że większość inicjatyw związanych z branżą zdaje się koncentrować w tym
@@ -191,7 +191,7 @@ Wśród osób, które identyfikują się ze stanowiskiem technical writer:
 Jeżeli spojrzymy na średnią i medianę per województwo, to wizualnie, wygląda to
 tak:
 
-[![](images/image2.png)](http://techwriter.pl/wp-content/uploads/2018/04/image2.png)
+![](images/image2.png)
 
 A szczegółowe dane są takie:
 
@@ -227,7 +227,7 @@ Większość respondentów pracuje dla firm zagranicznych, i tam też mediana i
 Staż pracy wydaje się być najprostszym predyktorem wynagrodzenia - im dłużej
 ktoś pracuje, tym wyższe wynagrodzenie.
 
-[![](images/image7.png)](http://techwriter.pl/wp-content/uploads/2018/04/image7.png)
+![](images/image7.png)
 
 ### **Według rodzaju dokumentacji**
 

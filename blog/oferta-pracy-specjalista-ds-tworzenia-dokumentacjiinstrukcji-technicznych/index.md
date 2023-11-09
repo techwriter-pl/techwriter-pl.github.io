@@ -28,6 +28,6 @@ Szczegóły ogłoszenia wraz z adresem mailowym na który można wysłać swoje 
 znajdziecie poniżej (po kliknięciu na obrazek otworzy się
 [strona z ogłoszeniem](http://cad.pl/component/jobs/pokaz/28318-specjalista-ds-tworzenia-dokumentacjiinstrukcji-technicznych.html)):
 
-[![](images/Oferta_CAL.jpg)](http://cad.pl/component/jobs/pokaz/28318-specjalista-ds-tworzenia-dokumentacjiinstrukcji-technicznych.html)
+![](images/Oferta_CAL.jpg)
 
 Powodzenia!

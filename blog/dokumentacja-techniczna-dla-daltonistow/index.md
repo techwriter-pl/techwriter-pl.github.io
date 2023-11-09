@@ -72,7 +72,7 @@ Zwykle zakładamy, że kolor zielony kojarzy się z pozytywnym wynikiem a czerwo
 z negatywnym. Jednak poleganie wyłącznie na kolorach może być problematyczne dla
 użytkowników z daltonizmem.
 
-[![](images/example-form-poor_1.png)](http://techwriter.pl/wp-content/uploads/2021/02/example-form-poor_1.png)
+![](images/example-form-poor_1.png)
 
 _Słaby przykład projektu formularza_
 
@@ -81,7 +81,7 @@ zwykłego użytkownika oraz przez daltonistę.
 
 Jak można poprawić ten formularz?
 
-[![](images/example-form-better_2.png)](http://techwriter.pl/wp-content/uploads/2021/02/example-form-better_2.png)
+![](images/example-form-better_2.png)
 
 _Lepszy przykład projektu formularza_
 
@@ -93,14 +93,14 @@ Podobną wskazówkę możecie zastosować w przypadku wykresów. Jeśli Wasz odb
 jest daltonistą może mieć problem z dopasowaniem kolorów z legendy do ich
 odpowiedników na wykresie.
 
-[![](images/example-pie-chart-poor_1.png)](http://techwriter.pl/wp-content/uploads/2021/02/example-pie-chart-poor_1.png)
+![](images/example-pie-chart-poor_1.png)
 
 _Słaby przykład projektu wykresu_
 
 W tym przypadku można zobaczyć, jak kolory mieszają się ze sobą i stają się nie
 do odróżnienia.
 
-[![](images/example-pie-chart-better_2.png)](http://techwriter.pl/wp-content/uploads/2021/02/example-pie-chart-better_2.png)
+![](images/example-pie-chart-better_2.png)
 
 _Lepszy przykład projektu wykresu_
 
@@ -121,7 +121,7 @@ kontrastu, tym lepsza jest czytelność obrazu dla osób z daltonizmem jak i
 ślepotą barw. Reasumując, dobór kolorów i kontrast odgrywają ważną rolę w
 spełnieniu tych wytycznych.
 
-[![](images/crux-pov-july-contrast-fail_1.png)](http://techwriter.pl/wp-content/uploads/2021/02/crux-pov-july-contrast-fail_1.png)
+![](images/crux-pov-july-contrast-fail_1.png)
 
 _Słaby przykład doboru kontrastu_
 
@@ -133,7 +133,7 @@ Jak można to zmienić?
 Zacznij używać odcieni lub cieni, aby zmodyfikować kolor na tyle, aby uzyskać
 przemijający współczynnik kontrastu.
 
-[![](images/crux-pov-july-contrast-pass_2.png)](http://techwriter.pl/wp-content/uploads/2021/02/crux-pov-july-contrast-pass_2.png)
+![](images/crux-pov-july-contrast-pass_2.png)
 
 _Lepszy przykład doboru kontrastu_
 
@@ -153,7 +153,7 @@ czytelność, możecie modyfikować kolor tła, rozmiar i kolor tekstu.
 Podany przykład pokazuje jak nałożony tekst na grafikę wpływa na jego
 czytelność.
 
-[![](images/text-overlay-bad-large-opt_1-1024x573.jpg)](http://techwriter.pl/wp-content/uploads/2021/02/text-overlay-bad-large-opt_1.jpg)
+![](images/text-overlay-bad-large-opt_1-1024x573.jpg)
 
 _Tekst nałożony na obraz bez maski_
 
@@ -161,7 +161,7 @@ Poprzez zmniejszenie krycia tła można zwiększyć kontrast. Efekt?
 
 Na oko dużo lepszy 😉
 
-[![](images/text-overlay-good-large-opt_2-1024x573.jpg)](http://techwriter.pl/wp-content/uploads/2021/02/text-overlay-good-large-opt_2.jpg)
+![](images/text-overlay-good-large-opt_2-1024x573.jpg)
 
 _Tekst nałożony na obraz z maską_
 
@@ -171,7 +171,7 @@ Poniższy przykład pokazuje w jaki sposób można rozwiązać przedstawianie ko
 dla osób z deuteranopią (czyli osób mających problem w rozróżnianiu barwy
 zielonej).
 
-[![](images/example-color-wheels_1.png)](http://techwriter.pl/wp-content/uploads/2021/02/example-color-wheels_1.png)
+![](images/example-color-wheels_1.png)
 
 _Najczęstsze deficyty koloru czerwono-zielonego_
 
@@ -188,8 +188,7 @@ Linki powinny być łatwe do wykrycia bez polegania na kolorze.
 
 Poniższy zrzut ekranu symuluje widzenie osoby z achromatopsją (nie widzi
 koloru). Link ten jest trudny do zauważenia. Aby znaleźć łącze, użytkownik musi
-najeżdżać myszą mając nadzieje, że znajdzie
-link.[![](images/text_1.png)](http://techwriter.pl/wp-content/uploads/2021/02/text_1.png)
+najeżdżać myszą mając nadzieje, że znajdzie link.![](images/text_1.png)
 
 _Tekst widziany przez osobę z achromatopsją_
 
@@ -197,7 +196,7 @@ Dobrym pomysłem byłoby dodanie podkreślenia… 😊
 
 I tu lekcja również dla nas, którą od razu postanowiliśmy wcielić w życie.
 
-[![](images/text_2.png)](http://techwriter.pl/wp-content/uploads/2021/02/text_2.png)
+![](images/text_2.png)
 
 _Podkreślone linki są łatwe do zauważenia przez osobę z achromatopsją_
 
@@ -214,7 +213,7 @@ różnych kolorach, należy unikać łączenia na jednym obrazie, na przykład,
 pomarańczowego i zielonego. Warto też dodać opis do ilustracji lub odnośnik, co
 znacznie ułatwi jej interpretację.
 
-[![](images/6.jpg)](http://techwriter.pl/wp-content/uploads/2021/02/6.jpg)
+![](images/6.jpg)
 
 _Sposoby zestawiania kolorów - kompozycja groszku i marchewki_
 
@@ -226,7 +225,7 @@ użytkownicy z dysfunkcjami wzroku mogą nie widzieć różnic.
 Oprócz tego możesz rozważyć oznaczanie wymaganych pól gwiazdką lub dodanie
 opisu, np: To pole jest wymagane
 
-[![](images/7.png)](http://techwriter.pl/wp-content/uploads/2021/02/7.png)
+![](images/7.png)
 
 _Przykład formularza z zostosowaniem koloru i dodatkowego opisu_
 

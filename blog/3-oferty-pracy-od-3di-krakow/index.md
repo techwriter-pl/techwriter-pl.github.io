@@ -34,8 +34,8 @@ obrazek, żeby go wyświetlić w pełnej rozdzielczości). Aplikować możecie p
 na adres [contact@3di-info.com](mailto:contact@3di-info.com). Pod tym adresem
 uzyskacie też odpowiedzi na wszystkie pytania.
 
-[![](images/writer.png)](http://techwriter.pl/wp-content/uploads/2018/01/writer.png)
+![](images/writer.png)
 
-[![](images/junior.png)](http://techwriter.pl/wp-content/uploads/2018/01/junior.png)
+![](images/junior.png)
 
-[![](images/technical-lead.png)](http://techwriter.pl/wp-content/uploads/2018/01/technical-lead.png)
+![](images/technical-lead.png)

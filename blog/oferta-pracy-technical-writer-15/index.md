@@ -29,4 +29,4 @@ wyświetlić w pełnej rozdzielczości) albo
 
 Powodzenia!
 
-[![unit4_tech_writer](images/unit4_tech_writer.png)](http://techwriter.pl/wp-content/uploads/2016/08/unit4_tech_writer.png)
+![unit4_tech_writer](images/unit4_tech_writer.png)

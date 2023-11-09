@@ -21,7 +21,7 @@ A przede wszystkim napiszcie nam w komentarzach 😊.
 
 Aktualne wyniki ankiety opublikowanej miesiąc temu wyglądają tak:
 
-[![AnkietaMiejsceWOrganizacji](images/AnkietaMiejsceWOrganizacji.jpg)](http://techwriter.pl/wp-content/uploads/2014/12/AnkietaMiejsceWOrganizacji.jpg)
+![AnkietaMiejsceWOrganizacji](images/AnkietaMiejsceWOrganizacji.jpg)
 
 My - redakcja techwriter.pl - po zastanowieniu wybraliśmy opcję "Somewhere else"
 😉 A Wy?

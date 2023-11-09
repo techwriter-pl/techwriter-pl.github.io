@@ -29,8 +29,8 @@ przywitanie oraz podziękowania dla partnerów i zespołu organizacyjnego były
 dobrą rozgrzewką przed pierwszymi prelekcjami.
 
 \[caption id="attachment_7288" align="aligncenter"
-width="590"\][![](images/konf_tlum_otwarcie-1024x576.jpg)](http://techwriter.pl/wp-content/uploads/2018/10/konf_tlum_otwarcie.jpg)
-Źródło: zasoby organizatora Konferencji Tłumaczy\[/caption\]
+width="590"\]![](images/konf_tlum_otwarcie-1024x576.jpg) Źródło: zasoby
+organizatora Konferencji Tłumaczy\[/caption\]
 
 ## Technologie tłumaczeniowe z innej perspektywy
 
@@ -113,8 +113,8 @@ automatyzacji w tłumaczeniu. Średnia prędkość tłumaczenia to 2000-3000 sł
 dziennie, a średnia prędkość postedycji to 4000-5000 słów dziennie.
 
 \[caption id="attachment_7282" align="aligncenter"
-width="590"\][![](images/areta_kempinska_prez-1024x576.jpg)](http://techwriter.pl/wp-content/uploads/2018/10/areta_kempinska_prez.jpg)
-Źródło: zasoby organizatora Konferencji Tłumaczy\[/caption\]
+width="590"\]![](images/areta_kempinska_prez-1024x576.jpg) Źródło: zasoby
+organizatora Konferencji Tłumaczy\[/caption\]
 
 Po prezentacji wywiązała się ożywiona dyskusja, co dowodzi iż wśród tłumaczy
 temat ten budzi sporo emocji. Nie brakowało zarówno zwolenników, jak i
@@ -169,8 +169,8 @@ stronę [Schronisko dla słów](http://www.schroniskodlaslow.pl/), na której
 znajdziecie więcej przykładów.
 
 \[caption id="attachment_7280" align="aligncenter"
-width="590"\][![](images/katarzyna_klosinska_prez-1024x576.jpg)](http://techwriter.pl/wp-content/uploads/2018/10/katarzyna_klosinska_prez.jpg)
-Źródło: zasoby organizatora Konferencji Tłumaczy\[/caption\]
+width="590"\]![](images/katarzyna_klosinska_prez-1024x576.jpg) Źródło: zasoby
+organizatora Konferencji Tłumaczy\[/caption\]
 
 Symplyfikacja to trzeci filar tabloidyzacji. Jest to korzystanie z technik
 słowotwórczych, które nie wymagają wysiłku. Ten trend widać we wzroście liczby
@@ -207,8 +207,8 @@ potrzebujecie bardziej wyszukanej definicji, to możecie sięgnąć do normy ISO
 9241-210:2010.
 
 \[caption id="attachment_7278" align="aligncenter"
-width="590"\][![](images/ewa_dacko_prez-1024x576.jpg)](http://techwriter.pl/wp-content/uploads/2018/10/ewa_dacko_prez.jpg)
-Źródło: zasoby organizatora Konferencji Tłumaczy\[/caption\]
+width="590"\]![](images/ewa_dacko_prez-1024x576.jpg) Źródło: zasoby organizatora
+Konferencji Tłumaczy\[/caption\]
 
 Im bardziej personalizujemy produkt, tym drożej i łatwiej można go sprzedać.
 Producenci zorientowali się, że to kura znosząca złote jaja i że warto
@@ -258,8 +258,8 @@ zasiedli również Marta Bartnicka z firmy IBM, Areta Kempińska z Bireta
 Professional Translations oraz nasz dobry znajomy, Tomasz Prus z Unit4.
 
 \[caption id="attachment_7279" align="aligncenter"
-width="590"\][![](images/panel-1024x576.jpg)](http://techwriter.pl/wp-content/uploads/2018/10/panel.jpg)
-Źródło: zasoby organizatora Konferencji Tłumaczy\[/caption\]
+width="590"\]![](images/panel-1024x576.jpg) Źródło: zasoby organizatora
+Konferencji Tłumaczy\[/caption\]
 
 Po ożywionej dyskusji, w której brali aktywnie udział również uczestnicy
 konferencji, wysnuł się jeden główny wniosek - tłumacze i tech writerzy powinni
@@ -312,8 +312,8 @@ którym uczestnicy musieli wykazać się nie tylko wiedzą na temat naszego port
 ale również kreatywnością.
 
 \[caption id="attachment_7277" align="aligncenter"
-width="590"\][![](images/grupowe-1024x576.jpg)](http://techwriter.pl/wp-content/uploads/2018/10/grupowe.jpg)
-Źródło: zasoby organizatora Konferencji Tłumaczy\[/caption\]
+width="590"\]![](images/grupowe-1024x576.jpg) Źródło: zasoby organizatora
+Konferencji Tłumaczy\[/caption\]
 
 Zdjęcia z wydarzenia znajdziecie pod linkami poniżej:
 

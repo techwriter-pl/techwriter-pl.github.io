@@ -42,10 +42,10 @@ kontekstowego wybrać **Search at Google for \[...\]** lub użyć skrótu
 **Ctrl+G**. Program otworzy naszą domyślną przeglądarkę i wyszuka zaznaczony
 tekst przez www.google.com.
 
-[![simple_sticky_notes](images/simple_sticky_notes.png)](http://techwriter.pl/wp-content/uploads/2015/06/simple_sticky_notes.png)
-Aplikacja oparta jest na bazie danych [SQLite](https://www.sqlite.org/), dzięki
-czemu mamy możliwość tworzenia i przywracania lokalnej kopii zapasowej. Program
-można zainstalować tylko na Windowsie.
+![simple_sticky_notes](images/simple_sticky_notes.png) Aplikacja oparta jest na
+bazie danych [SQLite](https://www.sqlite.org/), dzięki czemu mamy możliwość
+tworzenia i przywracania lokalnej kopii zapasowej. Program można zainstalować
+tylko na Windowsie.
 
 ## Coś do śledzenia czasu
 
@@ -59,20 +59,19 @@ wymagana jest wcześniejsza instalacja Adobe Air. Żeby zacząć śledzić czas 
 nowego zadania, wystarczy wpisać nazwę zadania w polu "TRACK TIME ON" i kliknąć
 START.
 
-[![new_task_vertabase_timer](images/new_task_vertabase_timer.png)](http://techwriter.pl/wp-content/uploads/2015/06/new_task_vertabase_timer.png)
-Przyciskiem PAUSE możemy wstrzymać pomiar czasu. Przyciskiem STOP zatrzymujemy
-mierzenie czasu, co powoduje stworzenie wpisu w dzienniku. Program daje nam
-możliwość ustawienia, żeby pomiar czasu był wstrzymywany automatycznie po
-określonym czasie bezczynności. Wszystkie odcinki czasu zapisane w dzienniku
-możemy edytować, eksportować do plików CSV i XML oraz wyświetlać w formie
-wykresów czasu lub kosztów.
+![new_task_vertabase_timer](images/new_task_vertabase_timer.png) Przyciskiem
+PAUSE możemy wstrzymać pomiar czasu. Przyciskiem STOP zatrzymujemy mierzenie
+czasu, co powoduje stworzenie wpisu w dzienniku. Program daje nam możliwość
+ustawienia, żeby pomiar czasu był wstrzymywany automatycznie po określonym
+czasie bezczynności. Wszystkie odcinki czasu zapisane w dzienniku możemy
+edytować, eksportować do plików CSV i XML oraz wyświetlać w formie wykresów
+czasu lub kosztów.
 
-[![time_log_vertabase_timer](images/time_log_vertabase_timer.png)](http://techwriter.pl/wp-content/uploads/2015/06/time_log_vertabase_timer.png)
-Dla każdego zadania możemy określić osobną stawkę godzinową, dzięki czemu po
-zakończeniu możemy od razu sprawdzić jego całkowity koszt za pomocą wykresu
-kosztów.
+![time_log_vertabase_timer](images/time_log_vertabase_timer.png) Dla każdego
+zadania możemy określić osobną stawkę godzinową, dzięki czemu po zakończeniu
+możemy od razu sprawdzić jego całkowity koszt za pomocą wykresu kosztów.
 
-[![cost_chart_vertabase_timer](images/cost_chart_vertabase_timer.png)](http://techwriter.pl/wp-content/uploads/2015/06/cost_chart_vertabase_timer.png)
+![cost_chart_vertabase_timer](images/cost_chart_vertabase_timer.png)
 
 ## Coś dla zdrowia
 
@@ -89,11 +88,11 @@ rodzaj oświetlenia jaki jest używany w pomieszczeniu oraz podać swoją
 lokalizację, dzięki czemu aplikacja będzie wiedzieć kiedy ma miejsce wschód i
 zachód słońca.
 
-[![flux_settings](images/flux_settings.png)](http://techwriter.pl/wp-content/uploads/2015/06/flux_settings.png)
-Ponadto, aplikacja ma kilka "szybkich" ustawień, m.in. możliwość wyłączenia
-aplikacji na godzinę albo do wschodu słońca, kiedy musimy popracować nad jakąś
-grafiką i nie chcemy, żeby kolory ekranu zmieniały się. Program można
-zainstalować na systemach Windows, Mac OS, Linux oraz iOS.
+![flux_settings](images/flux_settings.png) Ponadto, aplikacja ma kilka
+"szybkich" ustawień, m.in. możliwość wyłączenia aplikacji na godzinę albo do
+wschodu słońca, kiedy musimy popracować nad jakąś grafiką i nie chcemy, żeby
+kolory ekranu zmieniały się. Program można zainstalować na systemach Windows,
+Mac OS, Linux oraz iOS.
 
 ## Podsumowanie
 

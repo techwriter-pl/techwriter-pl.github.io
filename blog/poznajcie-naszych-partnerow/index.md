@@ -25,7 +25,7 @@ publikować w niedalekiej przyszłości.
 
 ## Landing Festival
 
-[![](images/cables_banners_v3-2.jpg)](http://techwriter.pl/wp-content/uploads/2018/01/cables_banners_v3-2.jpg)
+![](images/cables_banners_v3-2.jpg)
 
 - Gdzie: Berlin, Niemcy
 - Kiedy: 14-15 marca 2018
@@ -41,7 +41,7 @@ na to wydarzenie.
 
 ## soap!
 
-[![](images/P1011347soap-urodziny-jasia-1.jpg)](http://techwriter.pl/wp-content/uploads/2018/02/P1011347soap-urodziny-jasia-1.jpg)
+![](images/P1011347soap-urodziny-jasia-1.jpg)
 
 - Gdzie: Kraków, Polska
 - Kiedy: 23-25 maja 2018
@@ -59,7 +59,7 @@ Masterów. Naszą relację z zeszłorocznej edycji znajdziecie
 
 ## MadWorld San Diego
 
-[![](images/MW2018-HotelImage-1024x512.jpg)](http://techwriter.pl/wp-content/uploads/2018/02/MW2018-HotelImage-1024x512.jpg)
+![](images/MW2018-HotelImage-1024x512.jpg)
 
 - Gdzie: San Diego, Stany Zjednoczone
 - Kiedy: 3-6 czerwca 2018
@@ -76,7 +76,7 @@ znajdziecie [tutaj](http://techwriter.pl/madworld-2017-relacja/).
 
 ## Write the Docs Prague
 
-[![](images/wtd_docs.png)](http://techwriter.pl/wp-content/uploads/2018/02/wtd_docs.png)
+![](images/wtd_docs.png)
 
 - Gdzie: Praga, Czechy
 - Kiedy: 9-11 września 2018
@@ -93,7 +93,7 @@ perspektywy. Naszą relację z zeszłorocznej edycji znajdziecie
 
 ## MadWorld Prague
 
-[![](images/MWEU2018-Image1-1024x512.jpg)](http://techwriter.pl/wp-content/uploads/2018/02/MWEU2018-Image1-1024x512.jpg)
+![](images/MWEU2018-Image1-1024x512.jpg)
 
 - Gdzie: Praga, Czechy
 - Kiedy: 11-14 września 2018

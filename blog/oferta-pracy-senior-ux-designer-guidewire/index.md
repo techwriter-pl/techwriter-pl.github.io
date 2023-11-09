@@ -29,4 +29,4 @@ pełnej krasie graficznej i z przyciskiem do aplikowania).
 
 Powodzenia!
 
-[![](images/Guidewire-senior-ux-designer.png)](http://techwriter.pl/wp-content/uploads/2018/02/Guidewire-senior-ux-designer.png)
+![](images/Guidewire-senior-ux-designer.png)

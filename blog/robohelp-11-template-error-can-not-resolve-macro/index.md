@@ -27,7 +27,7 @@ podpowiedź (tooltip), która pojawia się po najechaniu kursorem na przycisk
 **Hide Navigation** zawiera tekst %%%WH_LNG_Hide_Navigation_Content%%%, zamiast
 Hide Navigation Content.
 
-[![tooltip2](images/tooltip2.png)](http://techwriter.pl/wp-content/uploads/2015/06/tooltip2.png)
+![tooltip2](images/tooltip2.png)
 
 ### Przyczyna
 
@@ -47,7 +47,7 @@ poniżej. Dodatkowo, należy upewnić się, że katalog z plikami dla danego ję
 posiada swój własny plik FPJ określający jego strukturę. Na przykład, dla języka
 English (US), katalog `!Language!\en_US` musi zawierać plik **en_US.fpj**.
 
-[![language_fpj](images/language_fpj.png)](http://techwriter.pl/wp-content/uploads/2015/06/language_fpj.png)
+![language_fpj](images/language_fpj.png)
 
 Żeby RoboHelp mógł odnaleźć plik LNG, po pierwsze musi on znajdować się
 odpowiedniej lokalizaji, a po drugie w pliku PSS projektu musi znajdować się
@@ -71,7 +71,7 @@ projektu, w którym będzie znajdować się tylko nazwa odpowiedniej sekcji z
 ustawieniami oraz ścieżka do pliku RoboHHREE.lng. Poniżej zawartość takiego
 przykładowego pliku:
 
-[![PSS_file](images/PSS_file.png)](http://techwriter.pl/wp-content/uploads/2015/06/PSS_file.png)
+![PSS_file](images/PSS_file.png)
 
 **WAŻNE!** Ścieżka do pliku RoboHHRE.lng musi być bezwzględna.
 

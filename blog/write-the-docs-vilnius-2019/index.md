@@ -51,7 +51,7 @@ problem rozwiązaliby w swoim środowisku pracy, czego ich uczono i wiele innych
 Widać było, że oprócz współpracy, nawiązują się tu znajomości. A między wymianą
 uśmiechów i spostrzeżeń dochodzi też do barteru wiedzy.
 
-[![](images/WTD_Wilno_2019_WritingDay-1024x576.jpg)](http://techwriter.pl/wp-content/uploads/2019/07/WTD_Wilno_2019_WritingDay.jpg)
+![](images/WTD_Wilno_2019_WritingDay-1024x576.jpg)
 
 Po oficjalnym zakończeniu warsztatów wszyscy mogli przenieść się na mniej
 oficjalną część konferencji. Zostaliśmy zaproszeni na social event, który miał
@@ -148,7 +148,7 @@ naszego produktu — obszar dla niego zupełnie nieznany.
 
 #### Chris Ward — Decentralised Documentation – Defining Standards for an Ecosystem
 
-[![](images/WTD_Wilno_2019_WardsChris-1024x792.jpg)](http://techwriter.pl/wp-content/uploads/2019/07/WTD_Wilno_2019_WardsChris.jpg)
+![](images/WTD_Wilno_2019_WardsChris-1024x792.jpg)
 
 [Chris Ward](https://www.writethedocs.org/conf/vilnius/2019/speakers/#speaker-vilnius-2019-chris-ward),
 doświadczony specjalista w branży komunikacji technicznej, autor nie tylko

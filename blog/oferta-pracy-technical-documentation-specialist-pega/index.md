@@ -27,5 +27,4 @@ pełnej krasie graficznej i z przyciskiem do aplikowania).
 
 Jeśli potrzebujecie więcej szczegółów, możecie pisać na
 adres **[Piotr.Sroka@pega.com](mailto:Piotr.Sroka@pega.com)** lub dzwonić na
-numer **516 182
-504**.[![](images/tech-doc-specialist-pega.png)](http://techwriter.pl/wp-content/uploads/2018/03/tech-doc-specialist-pega.png)
+numer **516 182 504**.![](images/tech-doc-specialist-pega.png)

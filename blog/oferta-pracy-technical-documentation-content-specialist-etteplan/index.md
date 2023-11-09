@@ -23,4 +23,4 @@ Więcej szczegółów na temat oferty znajdziecie poniżej albo
 w [ogłoszeniu na stronie pracodawcy](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1522&ProjectId=145669&DepartmentId=18983&MediaId=5&SkipAdvertisement=False) (gdzie
 znajdziecie również link do aplikowania).
 
-[![](images/tech_editor_etteplan.png)](http://techwriter.pl/wp-content/uploads/2018/12/tech_editor_etteplan.png)
+![](images/tech_editor_etteplan.png)

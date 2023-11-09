@@ -26,12 +26,12 @@ Często nawet wcześniej niż u nas, oraz z dodatkową informacją o wynagrodzen
 Więcej szczegółów na temat oferty firmy Etteplan po kliknięciu w obrazki lub
 linki pod nimi:
 
-[![](images/DocumentationSpecialistEtteplan.jpg)](http://www.etteplaniot.com/documents/10182/35008/170323_Documentation_Specialist_Etteplan.pdf/28552179-32f3-4e3a-a663-bd50762cac28)
+![](images/DocumentationSpecialistEtteplan.jpg)
 
 [http://www.etteplaniot.com/documents/10182/35008/170323_Documentation_Specialist_Etteplan.pdf/28552179-32f3-4e3a-a663-bd50762cac28](http://www.etteplaniot.com/documents/10182/35008/170323_Documentation_Specialist_Etteplan.pdf/28552179-32f3-4e3a-a663-bd50762cac28)
 
-[![](/img/cover/Etteplan_logo_RGB_150dpi.jpg)](http://www.etteplaniot.com/documents/10182/35008/170328_Technical_Illustrator_Etteplan.pdf/42655e68-40cf-48f0-a58a-b44e25ead3ca)
-[![](images/TechnicalIllustratorEtteplan.jpg)](http://www.etteplaniot.com/documents/10182/35008/170328_Technical_Illustrator_Etteplan.pdf/42655e68-40cf-48f0-a58a-b44e25ead3ca)
+![](/img/cover/Etteplan_logo_RGB_150dpi.jpg)
+![](images/TechnicalIllustratorEtteplan.jpg)
 
 [http://www.etteplaniot.com/documents/10182/35008/170328_Technical_Illustrator_Etteplan.pdf/42655e68-40cf-48f0-a58a-b44e25ead3ca](http://www.etteplaniot.com/documents/10182/35008/170328_Technical_Illustrator_Etteplan.pdf/42655e68-40cf-48f0-a58a-b44e25ead3ca)
 

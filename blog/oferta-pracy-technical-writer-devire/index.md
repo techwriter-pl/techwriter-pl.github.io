@@ -31,4 +31,4 @@ pełnej krasie graficznej i z przyciskiem do aplikowania).
 Aplikować można przez stronę lub pisząc na
 adres [awitkiewicz@devire.pl](mailto:awitkiewicz@devire.pl).
 
-[![zrzut ekranu z ofertą pracy devire](images/devire-tech-writer-oferta.png)](http://techwriter.pl/wp-content/uploads/2017/11/devire-tech-writer-oferta.png)
+![zrzut ekranu z ofertą pracy devire](images/devire-tech-writer-oferta.png)

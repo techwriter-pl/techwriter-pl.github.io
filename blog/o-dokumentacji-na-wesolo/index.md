@@ -28,7 +28,7 @@ swoim profilu na Facebooku posiada ciekawy
 przedstawiających naszą profesję w krzywym zwierciadle. Najbardziej spodobała
 nam się poniższa historyjka.
 
-[![I need topic](images/I-need-topic1.jpg)](http://techwriter.pl/wp-content/uploads/2015/11/I-need-topic1.jpg)
+![I need topic](images/I-need-topic1.jpg)
 
 _Źródło: https://web.facebook.com/adobetcs/_
 
@@ -41,7 +41,7 @@ kategorii [humor](http://technicalwritingtoolbox.com/category/humor/) możecie
 znaleźć kolejne śmieszne przykłady związane z dokumentacją. Dla nas numero uno
 to zdecydowanie przedstawiona poniżej metka.
 
-[![speaking_about_instructions](images/speaking_about_instructions.jpg)](http://techwriter.pl/wp-content/uploads/2015/11/speaking_about_instructions.jpg)
+![speaking_about_instructions](images/speaking_about_instructions.jpg)
 
 _Żródło: http://technicalwritingtoolbox.com/_
 

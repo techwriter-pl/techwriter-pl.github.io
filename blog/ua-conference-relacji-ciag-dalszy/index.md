@@ -27,7 +27,7 @@ minimalizm prowadzi do metody postępującego ujawniania informacji
 (ang. *progressive disclosure*), minimalizm musi istnieć w dokumentacji
 technicznej.
 
-[![confusing-street-signs](images/confusing-street-signs-300x225.jpg)](http://techwriter.pl/wp-content/uploads/2014/06/confusing-street-signs.jpg)
+![confusing-street-signs](images/confusing-street-signs-300x225.jpg)
 
 ### Powód istnienia dokumentacji technicznej
 

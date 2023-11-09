@@ -35,7 +35,7 @@ Dlaczego warto wypełnić tę ankietę?
 4. Bo będzie to pierwsza ankieta, która pozwoli nam wszystkim za kilka lat
    prześledzić czy zarobki wzrastają czy spadają
 
-[![](images/wypelnij-ankiete-link-1.jpg)](https://goo.gl/forms/OkRGlCtG82lV52wT2)
+![](images/wypelnij-ankiete-link-1.jpg)
 
 Ankieta jest dostępna [pod tym linkiem](https://goo.gl/forms/OkRGlCtG82lV52wT2).
 To tylko kilka prostych pytań, nie zajmie Ci to więcej niż 2 minuty, a jeśli

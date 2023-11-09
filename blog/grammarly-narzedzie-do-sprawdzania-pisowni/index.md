@@ -37,8 +37,8 @@ będzie zależało od tego gdzie i jak piszemy. Dostępne są:
   [dostępny tutaj](https://www.grammarly.com/plagiarism-checker)
 
 \[caption id="attachment_6011" align="aligncenter"
-width="735"\][![](images/grammarly-screen-online.png)](http://techwriter.pl/wp-content/uploads/2017/08/grammarly-screen-online.png)
-Aplikacja Grammarly na Mac OS\[/caption\]
+width="735"\]![](images/grammarly-screen-online.png) Aplikacja Grammarly na Mac
+OS\[/caption\]
 
 ## Wersja darmowa i płatna
 

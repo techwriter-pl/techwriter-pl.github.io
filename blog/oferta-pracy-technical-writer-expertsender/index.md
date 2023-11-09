@@ -28,4 +28,4 @@ Aplikować możecie przez wysłanie swojego CV, listu motywacyjnego oraz
 przykładowych próbek swoich wcześniejszych prac na
 adres [praca@expertsender.com](mailto:praca@expertsender.com).
 
-[![](images/expertsender-tech-writer.png)](http://techwriter.pl/wp-content/uploads/2018/08/expertsender-tech-writer.png)
+![](images/expertsender-tech-writer.png)

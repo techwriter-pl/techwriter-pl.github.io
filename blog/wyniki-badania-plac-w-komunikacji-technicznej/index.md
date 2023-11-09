@@ -25,7 +25,7 @@ ale pokazuje pewnie przykłady, albo ilustruje przynajmniej wycinek rynku.
 
 Na początek ogólne cyfry:
 
-[![Liczba odpowiedzi: 70, Średnia pensja brutto: 6969 zł, Mediana pensji brutto: 6000 zł, Najniższe wynagrodzenie: 1970 zł, Najwyższe wynagrodzenie: 15 000 zł](images/podsumowanie-ankiety.jpg)](http://techwriter.pl/wp-content/uploads/2017/04/podsumowanie-ankiety.jpg)
+![Liczba odpowiedzi: 70, Średnia pensja brutto: 6969 zł, Mediana pensji brutto: 6000 zł, Najniższe wynagrodzenie: 1970 zł, Najwyższe wynagrodzenie: 15 000 zł](images/podsumowanie-ankiety.jpg)
 
 Najwyższe wynagrodzenie (15,000 zł brutto) wskazały dwie osoby pracujące w
 województwie małopolskim. Obydwie mają 5-10 lat doświadczenia w branży, z czego
@@ -35,29 +35,29 @@ jako technical writer (specjalista ds. dokumentacji technicznej).
 Poniżej diagramy pokazujące ogólne liczby dotyczące wynagrodzeń, a analiza
 zarobków w dalszej części artykułu.
 
-[![](images/stanowisko.gif)](http://techwriter.pl/wp-content/uploads/2017/04/stanowisko.gif)
+![](images/stanowisko.gif)
 
 Większość respondentów to technical writerzy
 
-[![](images/przygotowanie.gif)](http://techwriter.pl/wp-content/uploads/2017/04/przygotowanie.gif)
+![](images/przygotowanie.gif)
 
 Większość zdobyła wiedzę i umiejętności w pracy.
 
-[![](images/rodzaj-firmy.gif)](http://techwriter.pl/wp-content/uploads/2017/04/rodzaj-firmy.gif)
+![](images/rodzaj-firmy.gif)
 
 Większość respondentów pracuje w firmie zagranicznej...
 
-[![](images/wielkosc-firmy.gif)](http://techwriter.pl/wp-content/uploads/2017/04/wielkosc-firmy.gif)
+![](images/wielkosc-firmy.gif)
 
 ...zatrudniającej powyżej 1000 osób
 
-[![](images/staz.gif)](http://techwriter.pl/wp-content/uploads/2017/04/staz.gif)
+![](images/staz.gif)
 
 Zdecydowana większość badanych ma doświadczenie poniżej 5 lat, tylko jeden
 respondent ma więcej niż 10 lat doświadczenia.
 
-[![](images/reprezentacja-województw.png)](http://techwriter.pl/wp-content/uploads/2017/04/reprezentacja-województw.png)Najliczniej
-reprezentowane są województwa małopolskie, śląskie i dolnośląskie.
+![](images/reprezentacja-województw.png)Najliczniej reprezentowane są
+województwa małopolskie, śląskie i dolnośląskie.
 
 Liczba odpowiedzi na województwo:
 
@@ -81,7 +81,7 @@ przeanalizowaliśmy wyniki ankiety pod kilkoma kątami.
 technical writerów. Pozostałe grupy wymienione w badaniu miały po jednym
 respondencie.
 
-[![](images/stanowisko.png)](http://techwriter.pl/wp-content/uploads/2017/04/stanowisko.png)
+![](images/stanowisko.png)
 
 ### Staż pracy
 
@@ -90,7 +90,7 @@ Staż pracy przekłada się na wyższe wynagrodzenie, natomiast przekroczenie pr
 wynagrodzenia. Być może jest to związane z tym jak rzadko spotyka się takie
 osoby wśród naszych respondentów.
 
-[![](images/staz.png)](http://techwriter.pl/wp-content/uploads/2017/04/staz.png)
+![](images/staz.png)
 
 ### Region
 
@@ -101,7 +101,7 @@ W kolejności od najlepiej zarabiających widzimy następujące województwa:
 3. Pomorskie i dolnośląskie
 4. Śląskie
 
-[![](images/wojewodztwo.png)](http://techwriter.pl/wp-content/uploads/2017/04/wojewodztwo.png)
+![](images/wojewodztwo.png)
 
 ### Rodzaj i wielkość firmy
 
@@ -109,15 +109,15 @@ Zarówno średnia jak i mediana pensji jest wyższa dla pracowników firm
 zagranicznych. Natomiast jeśli chodzi o wielkość firmy, najlepiej płacą firmy od
 2 do 10 osób.
 
-[![](images/rodzaj-firmy.png)](http://techwriter.pl/wp-content/uploads/2017/04/rodzaj-firmy.png)
+![](images/rodzaj-firmy.png)
 
-### [![](images/wielkosc-firmy.png)](http://techwriter.pl/wp-content/uploads/2017/04/wielkosc-firmy.png)Przygotowanie
+### ![](images/wielkosc-firmy.png)Przygotowanie
 
 Osoby, które ukończyły kurs ITCQF znajdują się wśród najlepiej zarabiających.
 Czy to oznacza, że kurs przygotowuje najlepiej płatnych specjalistów, czy
 właśnie ci specjaliści wzięli udział w kursie?
 
-## [![](images/przygotowanie.png)](http://techwriter.pl/wp-content/uploads/2017/04/przygotowanie.png)Podsumowanie
+## ![](images/przygotowanie.png)Podsumowanie
 
 Wyniki badania nie dają pełnego statystycznego obrazu w branży w Polsce, ale
 pokazują pewne przykłady. Innymi słowy, możemy wywnioskować, że są ludzie w

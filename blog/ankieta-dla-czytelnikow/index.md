@@ -21,7 +21,9 @@ odpowiedzi były szczere i zgodne z prawdą. Wasze odpowiedzi będą dla nas cen
 poprawić jego funkcjonalność oraz jakość prezentowanych publikacji.
 
 Aby wypełnić ankietę, wystarczy kliknąć w baner znajdujący się
-poniżej:[![](images/kliknij-aby-wypełnić-ankiete.png)](https://forms.gle/WtwPvXRG9dn4B7uZ6)
+poniżej:
+
+[![](images/kliknij-aby-wypełnić-ankiete.png)](https://forms.gle/WtwPvXRG9dn4B7uZ6)
 
 #### O ankiecie:
 

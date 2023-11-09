@@ -25,11 +25,11 @@ przejrzysty, intuicyjny i ergonomiczny.
 
 W idealnym świecie guru UX każdy rozumie poniższy zapis tak samo jak powyższy:
 
-[![LessIsMore1](images/LessIsMore1.jpg)](http://techwriter.pl/wp-content/uploads/2013/11/LessIsMore1.jpg)
+![LessIsMore1](images/LessIsMore1.jpg)
 
 I ten również:
 
-[![LessIsMore2](images/LessIsMore2-300x170.jpg)](http://techwriter.pl/wp-content/uploads/2013/11/LessIsMore2.jpg)
+![LessIsMore2](images/LessIsMore2-300x170.jpg)
 
 Świat nie jest jednak idealny i dlatego wciąż jest dla nas wiele pracy😊. Ale o
 tych pięciu zasadach warto pamiętać.

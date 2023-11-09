@@ -56,9 +56,8 @@ tech writingu. Więcej szczegółów o przebiegu i zasadach znajdziecie w tym
 W finale zwycięska drużyna otrzymała bilety wstępu na kolejną edycję
 konferencji!
 
-[![](images/IMG-7810-768x1024.jpg)](http://techwriter.pl/wp-content/uploads/2022/06/IMG-7810-scaled.jpg)Nasz
-kolega redakcyjny - Andrzej - został urzeczony ideą S.U.P.E.R G.A.M.E od momentu
-obejrzenia tego
+![](images/IMG-7810-768x1024.jpg)Nasz kolega redakcyjny - Andrzej - został
+urzeczony ideą S.U.P.E.R G.A.M.E od momentu obejrzenia tego
 [zwiastuna na Linkedin](https://www.linkedin.com/posts/soap-techcomm_excitingnewsalert-supergame-soapconf-activity-6920791703234699264-6mUf).
 
 Trafił on do drużyny o wdzięcznej nazwie _Marzipans_ - "Marcepany" :-)
@@ -76,7 +75,7 @@ Także obie drużyny pojedynkowały się ze sobą, a prowadzący z krnąbrną, s
 inteligencją 😊  Nieprzewidywalność algorytmu dodawała rozgrywce jeszcze więcej
 rumieńców.
 
-###### [![](images/upload_033-1024x546.png)](http://techwriter.pl/wp-content/uploads/2022/07/upload_033.png)Smok mistrzem trzeciego planu.
+###### ![](images/upload_033-1024x546.png)Smok mistrzem trzeciego planu.
 
 W finale koleżanka z Marcepanów -
 [Barbara Czyż](https://www.linkedin.com/in/barbara-szwarc/) - odpowiadała na
@@ -89,12 +88,12 @@ muzyki heavy metalowego zespołu
 i ich coveru "_I Can't Get No (Satisfaction)_" została podwojona, dzięki użyciu
 przycisku "_Super bass boost"_.
 
-[![](images/upload_027-248x300.png)](http://techwriter.pl/wp-content/uploads/2022/07/upload_027.png)[![](images/z25665535IBGAcid-Drinkers-300x225.jpg)](http://techwriter.pl/wp-content/uploads/2022/07/z25665535IBGAcid-Drinkers.jpg)
+![](images/upload_027-248x300.png)![](images/z25665535IBGAcid-Drinkers-300x225.jpg)
 
 Moc nostalgii pomogła w zdobyciu kluczowych punktów. Pozdrowienia dla wszystkich
 uczestników zabawy! Po prostu super teleturniej! SUUUPER GRA!!!
 
-[![Rok 2042, teleturniej "Familiada", odcinek 4815. "Podaj nazwę popularnego](images/upload_024-300x157.png)](http://techwriter.pl/wp-content/uploads/2022/07/upload_024.png)
+![Rok 2042, teleturniej "Familiada", odcinek 4815. "Podaj nazwę popularnego](images/upload_024-300x157.png)
 
 ###### Rok 2042, teleturniej "Familiada", odcinek 4815. "Podaj nazwę popularnego zawodu". Tak będzie!
 
@@ -139,7 +138,7 @@ poruszył kwestie budowania zaufania, relacji między prawdą a _fake newsami_ o
 naszej interpretacji wiadomości z mediów i tego, jak to na nas wpływa. Mówił też
 o znaczeniu bycia transparentnym i etycznym.
 
-[![](images/IMG_Hero_ImgName_Large@2x-1024x576.jpg)](http://techwriter.pl/wp-content/uploads/2022/07/IMG_Hero_ImgName_Large@2x.jpg)
+![](images/IMG_Hero_ImgName_Large@2x-1024x576.jpg)
 
 Dziś, w dobie mediów społecznościowych, otrzymujemy wiadomości nie tylko za
 pośrednictwem poczty elektronicznej, ale także na wielu innych platformach
@@ -176,7 +175,7 @@ także zachęcili wszystkich do bycia bardziej kreatywnymi, pomagając ludziom
 wspólnie rozwijać własne pomysły i realizować je bez pytania o zgodę, wchodzić w
 interakcję z czytelnikami i słuchaczami.
 
-[![](images/influencer-culture.jpg)](http://techwriter.pl/wp-content/uploads/2022/07/influencer-culture.jpg)
+![](images/influencer-culture.jpg)
 
 A jak zostać takim kreatorem? Kierujcie się tymi trzema magicznymi zasadami:
 
@@ -208,7 +207,7 @@ wyodrębnić kilka istotnych punktów z prezentacji:
   tłumaczeniowych - co tu dużo pisać, praca   zautomatyzuje się, a zainwestowany
   na początku czas zwróci się w postaci lepszej jakości.
 
-[![](images/IMG-7850-1-1024x768.jpg)](http://techwriter.pl/wp-content/uploads/2022/07/IMG-7850-1-scaled.jpg)
+![](images/IMG-7850-1-1024x768.jpg)
 
 Dla niektórych STE może być tekstem bez emocji, dziwnym lub nudnym. Shumin
 przekonywała, że poprzez uproszczenie języka może stać się on bardziej czytelny
@@ -241,7 +240,7 @@ Jeśli chcecie wiedzieć więcej o STE zajrzyjcie
 Czy roboty zabiorą nam pracę? Czy można wybrać kandydata za pomocą algorytmu?
 Jak odnaleźć się w nowej rzeczywistości?
 
-[![](images/11PRE-superJumbo-1024x683.jpg)](http://techwriter.pl/wp-content/uploads/2022/07/11PRE-superJumbo.jpg)
+![](images/11PRE-superJumbo-1024x683.jpg)
 
 Podczas swojego wystąpienia
 ["_Content's part in the Fourth Industrial Revolution"_](https://www.youtube.com/watch?v=p_t2E-Nj6ts&list=PLUY0lajb-kiaMB8XEOrdqE-BBLQmSfvCB&index=14)
@@ -317,7 +316,7 @@ poprowadzony przez Gosię stał w kontraście do tego, o czym mówiła Kasia.
 Ciekawie przedstawiła perspektywę tego, co jeszcze może nie działać lub nie
 będzie działać w prowadzeniu szkoleń online.
 
-[![](images/cartoon.jpg)](http://techwriter.pl/wp-content/uploads/2022/07/cartoon.jpg)
+![](images/cartoon.jpg)
 
 Do kwestii, które w przeważającej liczbie przypadków są wadami można zaliczyć:
 
@@ -338,7 +337,7 @@ Do kwestii, które w przeważającej liczbie przypadków są wadami można zalic
   zastanowić się czy przekazywane informacje są dostosowane i zrozumiale
   przedstawione.
 
-[![](images/IMG-7923-1024x768.jpg)](http://techwriter.pl/wp-content/uploads/2022/07/IMG-7923-scaled.jpg)
+![](images/IMG-7923-1024x768.jpg)
 
 Wnioski dotyczące e-learningu: aby szkolenie okazało się skuteczne, konieczne są
 interakcje pomiędzy konkretnym nauczycielem (trenerem) a uczniem. Dialog jest
@@ -356,7 +355,7 @@ dostosowujcie swoje podejście do dynamicznie zmieniającej się rzeczywistości
 
 #### [Szkolenia traktowane niczym kod](https://youtu.be/by4v-L7rono) czyli jak dynamicznie generować materiały szkoleniowe
 
-[![](images/IMG-7738-1024x768.jpg)](http://techwriter.pl/wp-content/uploads/2022/07/IMG-7738-scaled.jpg)
+![](images/IMG-7738-1024x768.jpg)
 
 Jednym z powodów dla których cenię konferencję soap! jest to, że w trakcie
 każdej edycji można zapoznać się z przykładami ciekawych rozwiązań problemów,
@@ -488,13 +487,13 @@ możliwość podejmowania optymalnych decyzji projektowych 😊 .
 Zachęcamy do dzielenia się doświadczeniami, dobrymi czy tymi gorszymi bo dzięki
 temu wszyscy uczymy się jak wyciągać lepsze wnioski na przyszłość.
 
-[![Zgroza! Zgroza! Pod tymi niewinnie prezentującymi się gwiazdkami kryje się dramatyczny obraz bardzo wymagającego planu. W zwykłych okolicznościach wybór narzędzia do tworzenie dokumentacji potrafi zająć sporo czasu, ale zastosowano tu z zasadę króla Juliana z filmu animowanego „Madakaskar”: „nie ma czasu się zastanawiać – należy biec, zanim do nas dotrze, że biegniemy w złym kierunku”. A jednak się udało](images/upload_031-1024x459.png)](http://techwriter.pl/wp-content/uploads/2022/07/upload_031.png)
+![Zgroza! Zgroza! Pod tymi niewinnie prezentującymi się gwiazdkami kryje się dramatyczny obraz bardzo wymagającego planu. W zwykłych okolicznościach wybór narzędzia do tworzenie dokumentacji potrafi zająć sporo czasu, ale zastosowano tu z zasadę króla Juliana z filmu animowanego „Madakaskar”: „nie ma czasu się zastanawiać – należy biec, zanim do nas dotrze, że biegniemy w złym kierunku”. A jednak się udało](images/upload_031-1024x459.png)
 
 ###### Zgroza! Zgroza! Pod tymi niewinnie prezentującymi się gwiazdkami kryje się dramatyczny obraz skrajnie wymagającego planu. W zwykłych okolicznościach wybór narzędzia do tworzenie dokumentacji potrafi zająć sporo czasu, ale zastosowano tu z zasadę króla Juliana z filmu animowanego „Madakaskar”: „_nie ma czasu się zastanawiać – należy biec, zanim do nas dotrze, że biegniemy w złym kierunku_”. A jednak się udało!
 
 #### Dla miłośników danych i statystyk - czyli europejska branża technical writingu w liczbach
 
-[![](images/upload_032-1024x576.png)](http://techwriter.pl/wp-content/uploads/2022/07/upload_032.png)
+![](images/upload_032-1024x576.png)
 
 [Paweł Kowaluk i Michał Skowron](https://techwriterkoduje.pl/) potrafiliby w
 zajmujący sposób zaprezentować treść z opakowania proszku do prania albo kostki

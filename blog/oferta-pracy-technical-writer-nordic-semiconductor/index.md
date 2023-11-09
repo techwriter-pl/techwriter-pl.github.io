@@ -24,4 +24,4 @@ wyświetlić w pełnej rozdzielczości)
 albo [bezpośrednio u źródła](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=278&ProjectId=175649&MediaId=5) (w
 pełnej krasie graficznej i z przyciskiem do aplikowania).
 
-[![](images/nordic_tech_writer.png)](http://techwriter.pl/wp-content/uploads/2017/11/nordic_tech_writer.png)
+![](images/nordic_tech_writer.png)

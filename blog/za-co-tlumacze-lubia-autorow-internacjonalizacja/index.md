@@ -43,7 +43,7 @@ korporacyjnej i lokalnych norm oraz zwyczajów. Z wykształcenia mgr inż.
 informatyki (Systemy Informacji Naukowo-Technicznej, Politechnika Wrocławska).
 Hobby w kolejności alfabetycznej: biegówki, dzieci, ogrodnictwo, Tatry.
 
-[![](images/marta_bartnicka-295x300.jpg)](http://techwriter.pl/wp-content/uploads/2018/03/marta_bartnicka.jpg)
+![](images/marta_bartnicka-295x300.jpg)
 
 Jeśli chcecie skontaktować się z Martą, możecie wysłać jej maila
 na [martab@kofeina.net](mailto:martab@kofeina.net).
@@ -65,8 +65,7 @@ nie tylko ograniczeń narzuconych w kodzie (limit długości tekstu powinien by�
 przynajmniej o 30% większy niż faktyczny tekst angielski), ale również projektu
 interfejsu. Najlepiej, żeby etykiety czy przyciski mogły się rozszerzać nie
 zachodząc na inne pola – jak ilustruje to świetny przykład, który zaczerpnęłam
-od Angeliki
-Zerfass:[![](images/Picture1.png)](http://techwriter.pl/wp-content/uploads/2018/06/Picture1.png)
+od Angeliki Zerfass:![](images/Picture1.png)
 
 Więcej szczegółów na ten temat można znaleźć w
 [IBM Globalization Guidelines](https://www-01.ibm.com/software/globalization/guidelines/a3.html)

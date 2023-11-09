@@ -30,4 +30,4 @@ Aplikować można poprzez wysłanie CV na adres: :
 
 Powodzenia!
 
-[![tekst oferty pracy Mapp, Kraków w obrazku](images/mapp-oferta-514x1024.png)](http://techwriter.pl/wp-content/uploads/2016/09/mapp-oferta.png)
+![tekst oferty pracy Mapp, Kraków w obrazku](images/mapp-oferta-514x1024.png)

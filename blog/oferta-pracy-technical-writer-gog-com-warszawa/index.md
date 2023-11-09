@@ -27,7 +27,7 @@ Szukają Technical Writera i sami piszą o sobie tak:
 A tak wygląda ich oferta dla Was (po kliknięciu na obrazek przeniesiecie się
 bezpośrednio na stronę z ogłoszeniem):
 
-[![](images/GOG-Technical-Writer2.png)](https://www.gog.com/work/quality-assurance-technical-writer)
+![](images/GOG-Technical-Writer2.png)
 
 Link do aplikowania znajdziecie
 [tutaj](https://system.erecruiter.pl/FormTemplates/RecruitmentForm.aspx?WebID=7c0f6e7e3e494dae8e991473521cdca2).

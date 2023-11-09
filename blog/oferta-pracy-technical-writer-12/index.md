@@ -32,4 +32,4 @@ W razie problemów możecie skorzystać z
 
 Powodzenia!
 
-[![tech_writer_dynatrace](images/tech_writer_dynatrace.png)](http://techwriter.pl/wp-content/uploads/2016/04/tech_writer_dynatrace.png)
+![tech_writer_dynatrace](images/tech_writer_dynatrace.png)

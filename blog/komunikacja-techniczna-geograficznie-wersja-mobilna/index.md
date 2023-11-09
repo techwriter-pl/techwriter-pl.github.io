@@ -41,7 +41,7 @@ stowarzyszenia i kursy związane z komunikacją techniczną oraz zgłaszać nowe
 obiekty do zaznaczenia na mapie za pomocą opcji "Add event", która dostępna jest
 w menu aplikacji. Po pomyślnej weryfikacji są one dodawane do mapy.
 
-[![techcommonamapapp](images/techcommonamapapp-e1456521551892.png)](http://techwriter.pl/wp-content/uploads/2016/02/techcommonamapapp-e1456521551892.png)
+![techcommonamapapp](images/techcommonamapapp-e1456521551892.png)
 
 ### Dla programistów
 
@@ -59,7 +59,7 @@ na której znalazło się całkiem sporo europejskich konferencji. W momencie
 tworzenia tego wpisu (koniec lutego) na mapie zaznaczone były zaledwie dwie
 konferencje w Europie na ten rok.
 
-[![conferences2016onamap](images/conferences2016onamap.png)](http://techwriter.pl/wp-content/uploads/2016/02/conferences2016onamap.png)
+![conferences2016onamap](images/conferences2016onamap.png)
 
 Najwyraźniej w niespełna dwa lata od uruchomienia projektu nie udało się zebrać
 pokaźnej grupy użytkowników przez co liczba dodawanych obiektów jest znikoma.

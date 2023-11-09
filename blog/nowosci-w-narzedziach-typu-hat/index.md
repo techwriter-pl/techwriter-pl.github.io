@@ -20,18 +20,17 @@ dokumentacji. Przyjrzyjmy się co ciekawego kryje się pod nowymi "numerkami".
 
 ## Help+Manual
 
-[![hm7](images/hm7.png)](http://techwriter.pl/wp-content/uploads/2015/10/hm7.png)
-To już siódma wersja narzędzia od firmy EC Software GmbH. Od wydania wersji 6,
-którą [opisywaliśmy](http://techwriter.pl/help-and-manual-opis-narzedzia/) na
-łamach techwriter.pl w zeszłym roku, minęło już całkiem sporo czasu - z naszych
+![hm7](images/hm7.png) To już siódma wersja narzędzia od firmy EC Software GmbH.
+Od wydania wersji 6, którą
+[opisywaliśmy](http://techwriter.pl/help-and-manual-opis-narzedzia/) na łamach
+techwriter.pl w zeszłym roku, minęło już całkiem sporo czasu - z naszych
 wyliczeń wynika, że prawie 4 lata. Pierwszą, może nie do końca rzucającą się w
 oczy zmianą jest mała modyfikacja nazwy - zamiast "&" mamy teraz "+". Druga,
 dużo bardziej widoczna aktualizacja, to zmiana stylu wstążki na ten znany z MS
 Office 2013 oraz reorganizacja pewnych opcji. Oprócz takiej kosmetyki, pojawiły
 się też bardziej istotne usprawnienia.
 
-[![Help-Manual_7](images/Help-Manual_7-1024x723.png)](http://techwriter.pl/wp-content/uploads/2015/10/Help-Manual_7.png)
-_Źródło: www.softpedia.com_
+![Help-Manual_7](images/Help-Manual_7-1024x723.png) _Źródło: www.softpedia.com_
 
 #### Nowe formaty publikacji
 
@@ -94,15 +93,14 @@ testujemy. Tak jak być powinno 😊
 
 ## RoboHelp
 
-[![box_rh2015_150x150](images/box_rh2015_150x150.png)](http://techwriter.pl/wp-content/uploads/2015/10/box_rh2015_150x150.png)
-Konkurencja nie śpi. W obozie Adobe także nastąpiły zmiany w kwestii
-oprogramowania do tworzenia dokumentacji. Tutaj również pojawiła się modyfikacja
-nazwy produktu, wynikająca ze zmiany polityki firmy dotyczącej oznaczania
-wersji - teraz będzie to rok, zamiast numeru wersji. Dlatego nowa wersja
-RoboHelpa nosi oznaczenie 2015, a nie 12.
+![box_rh2015_150x150](images/box_rh2015_150x150.png) Konkurencja nie śpi. W
+obozie Adobe także nastąpiły zmiany w kwestii oprogramowania do tworzenia
+dokumentacji. Tutaj również pojawiła się modyfikacja nazwy produktu, wynikająca
+ze zmiany polityki firmy dotyczącej oznaczania wersji - teraz będzie to rok,
+zamiast numeru wersji. Dlatego nowa wersja RoboHelpa nosi oznaczenie 2015, a
+nie 12.
 
-[![rh2015](images/rh2015.png)](http://techwriter.pl/wp-content/uploads/2015/10/rh2015.png)
-_Źródło: www.techwhirl.com_
+![rh2015](images/rh2015.png) _Źródło: www.techwhirl.com_
 
 #### Nowy interfejs
 

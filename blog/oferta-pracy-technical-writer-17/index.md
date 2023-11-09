@@ -29,4 +29,4 @@ Jeśli potrzebujecie więcej szczegółów, swoje pytania kierujcie na adres:
 
 Powodzenia!
 
-[![pega_tech_writer](images/pega_tech_writer.png)](http://techwriter.pl/wp-content/uploads/2016/09/pega_tech_writer.png)
+![pega_tech_writer](images/pega_tech_writer.png)

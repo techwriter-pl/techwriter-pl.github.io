@@ -54,7 +54,7 @@ może być i czy należy się jej obawiać. Na długo zanim mogliśmy korzystać
 owoców takich technologii, nasza zbiorowa wyobraźnia była już dawno
 zagospodarowana przez koncepcje rodem z popkultury.
 
-[![](images/937_gif2.gif)](http://techwriter.pl/wp-content/uploads/2023/04/937_gif2.gif)
+![](images/937_gif2.gif)
 
 `W filmie "Obcy" Ridleya Scotta z 1979, komunikacja z komputerem pokładowym "Matka" jest konwersacyjna, podobnie jak interakcja z ChatGPT. Oby na tym podobieństwa się skończyły.`
 
@@ -122,7 +122,7 @@ Poniżej pomocna grafika z
 [prezentacji](https://www.youtube.com/watch?v=ug80fWghrP0) Naomi Papoushado z
 SOAP 2022:
 
-[![](images/upload_0409-300x231.png)](http://techwriter.pl/wp-content/uploads/2023/04/upload_0409.png)
+![](images/upload_0409-300x231.png)
 
 Z punktu widzenia użytkownika aplikacja ta działa nieco jak wyszukiwarka
 internetowa, której zadajemy pytania pełnymi zdaniami i w odpowiedzi otrzymujemy
@@ -134,7 +134,7 @@ wirtualnym asystentem.
 Pamiętam czasy, gdy wprowadzenie wirtualnego asystenta nie cieszyło się takim
 uznaniem.
 
-[![](images/upload_0408-300x300.png)](http://techwriter.pl/wp-content/uploads/2023/04/upload_0408.png)
+![](images/upload_0408-300x300.png)
 
 `Najlepszym pytaniem jakie można było zadać Clippiemu z Microsoft Office 97 było "Jaki jest sens życia?". Odpowiedzią było "Wklejanie clip artów do PowerPointa". Po tym nastała całkowita jasność w temacie.`
 
@@ -149,7 +149,7 @@ wzorce. Po wielu iteracjach sztuczna sieć neuronowa stała się naprawdę dobra
 odgadywaniu odpowiedzi, jakich człowiek oczekuje, dzięki znajomości
 statystycznie prawdopodobnych słów, które powinny paść.
 
-### [![](images/Snag_7e3b9c.png)](http://techwriter.pl/wp-content/uploads/2023/03/Snag_7e3b9c.png)Czy nauczono go gramatyki?
+### ![](images/Snag_7e3b9c.png)Czy nauczono go gramatyki?
 
 Model przemielił dużą ilość danych i wykrył zależności między słowami, szyk,
 zasady gramatyczne. W odróżnieniu od innych modeli, zasady gramatyczne nie
@@ -186,7 +186,7 @@ wyjątkowy efekt:
 
 [https://github.com/f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 
-[![](images/image-1024x297.png)](http://techwriter.pl/wp-content/uploads/2023/04/image.png)
+![](images/image-1024x297.png)
 
 ## Określenia trafne i nieco mniej
 
@@ -244,7 +244,7 @@ dostałem odpowiedź.
 Na koniec poprosiłem o uproszczenie na poziomie 6-letniego dziecka - dostałem
 opis dziwnej zabawy piłko-granatem 😉 Dzieci! Nie róbcie tego w domu!
 
-[![](images/upload_0422-150x150.png)](http://techwriter.pl/wp-content/uploads/2023/04/upload_0422.png)
+![](images/upload_0422-150x150.png)
 
 ## Zagrożenia
 
@@ -265,8 +265,7 @@ skończy się na potrzebie nauczenia się obsługiwania narzędzi AI. Trudno
 przewidzieć jak technologie się rozwiną i jakie będą tego społeczne reperkusje.
 
 Kolejny problem - mechanizm działania sztucznej inteligencji wymaga dużej ilości
-prądu, a prąd jest drogi
-😊[![](images/download-12-1-1024x1024.png)](http://techwriter.pl/wp-content/uploads/2023/04/download-12-1.png)
+prądu, a prąd jest drogi 😊![](images/download-12-1-1024x1024.png)
 
 ## Zastosowania
 
@@ -345,10 +344,9 @@ przewidujący następny prawdopodobny wyraz.
 ChatGPT nie ma prawdziwej wiedzy o świecie, ludzkiej egzystencji. Nie chcę
 pastwić się nad biednym algorytmem, ale dla celów edukacyjnych pokazuję poniższy
 screen, bo jest komiczny i dobrze pokazuje istniejące
-ograniczenia:[![](images/upload_0415-300x121.png)](http://techwriter.pl/wp-content/uploads/2023/04/upload_0415.png)Wiem,
-że pytanie zostało zadane niedbale. Niemniej bawi mnie, że na pytanie "_czy
-olejować nogi od stołu_" dowiaduje się, że jeśli je zaolejuję, to będą
-zaolejowane. I amen. 😉
+ograniczenia:![](images/upload_0415-300x121.png)Wiem, że pytanie zostało zadane
+niedbale. Niemniej bawi mnie, że na pytanie "_czy olejować nogi od stołu_"
+dowiaduje się, że jeśli je zaolejuję, to będą zaolejowane. I amen. 😉
 
 Domyślam się, że w bazie danych były głównie artykuły o olejowaniu blatów stołów
 i model nie potrafił utworzyć oryginalnej odpowiedzi na zadany problem. I jak
@@ -391,8 +389,7 @@ sami będziemy się pocić nad opisaniem wewnątrzfirmowych patentów. Może prz
 ChatGPT pomoże upewnić się, że tekst spełnia normy
 [Simplified Technical English](https://pl.wikipedia.org/wiki/J%C4%99zyk_angielski_uproszczony)?
 
-Przykład konwersacji w
-temacie:[![](images/upload_0416-455x1024.png)](http://techwriter.pl/wp-content/uploads/2023/04/upload_0416.png)Niezależnie
+Przykład konwersacji w temacie:![](images/upload_0416-455x1024.png)Niezależnie
 od tego, czy aplikacja może posłużyć do sprawdzania tekstu pod kątem STE, i tak
 zamierzam uzyskać certyfikat STE w tym roku 😉
 
@@ -561,8 +558,7 @@ listy zawodów zagrożonych należy też dodać prawników? Czas pokaże.
 
 Co za ekscytujący technologicznie czas! Myślę, że w przeciągu tego roku jeszcze
 wiele nas zaskoczy, a sposób, w jaki będziemy wchodzić w interakcje z
-technologią, z pewnością się
-zmieni.[![](images/download-11-1024x1024.png)](http://techwriter.pl/wp-content/uploads/2023/04/download-11.png)
+technologią, z pewnością się zmieni.![](images/download-11-1024x1024.png)
 
 ## Podziękowania
 

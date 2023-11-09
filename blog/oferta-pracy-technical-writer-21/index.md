@@ -27,4 +27,4 @@ obrazek, żeby go wyświetlić w pełnej rozdzielczości) albo
 
 Powodzenia!
 
-[![](images/tech_writer_techland.png)](http://techwriter.pl/wp-content/uploads/2017/01/tech_writer_techland.png)
+![](images/tech_writer_techland.png)

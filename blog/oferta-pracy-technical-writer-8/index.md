@@ -22,6 +22,6 @@ Szczegółowe informacje poniżej, albo bezpośrednio u źródła:
 
 [http://cpljobs.pl/job/details/Technical-Writer/45775/](http://cpljobs.pl/job/details/Technical-Writer/45775/)
 
-[![cpljobsofertatechnicalwriter](images/cpljobsofertatechnicalwriter.jpg)](http://techwriter.pl/wp-content/uploads/2015/07/cpljobsofertatechnicalwriter.jpg)
+![cpljobsofertatechnicalwriter](images/cpljobsofertatechnicalwriter.jpg)
 
 Powodzenia!

@@ -20,11 +20,11 @@ siebie. Mam nadzieję, że artykuł pomoże Ci w tym trudnym zadaniu.
 
 <!--truncate-->
 
-[![](images/upload_037-300x291.png)](http://techwriter.pl/wp-content/uploads/2022/07/upload_037.png)
+![](images/upload_037-300x291.png)
 
 ###### Mikey Ariel podczas konferencji Write The Docs.
 
-[![](images/upload_038.png)](http://techwriter.pl/wp-content/uploads/2022/07/upload_038.png)
+![](images/upload_038.png)
 
 ###### Rafał Pawlicki podczas konferencji SOAP.
 
@@ -87,9 +87,9 @@ Skoro wyjaśniłem moje krystaliczne intencje zatem - do dzieła!
 | Integracja          | Drugiego dnia zwykle robione jest after party po zakończeniu. Najczęściej jest to lokal T.E.A. Time na ulicy Dietla 1, w Krakowie 😉                                                                                                                                                                                                                                                 | Do późnych godzin można korzystać z wirtualnych stolików, gdzie można pisać na czacie, przysłuchiwać się dyskusjom i zabierać w nich głos.Planowane są też specjalne, wirtualne sesje integracyjne.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | Elementy szczególne | W cenie biletu otrzymujesz wejście do Muzeum Sztuki i Techniki Japońskiej "Mangha".W 2022 wprowadzono wersję Familiady dla techno skrybów.Osoba która zada pytanie z widowni otrzymuje różowe mydło 😊                                                                                                                                                                               | WTD posiada logo w wersji metalowej, którego autorem jest Christofe Szpajdel. Szanuję!W edycji stacjonarnej do dyspozycji odwiedzających był Quiet Room - ciche pomieszczenie dla osób chcących odreagować konferencyjny rejwach.Po konferencji udostępniane są rysunkowe podsumowania wykładów.Organizatorzy w trakcie trwania wiele razy wspominają o Code of Conduct - regulaminie uprzejmego zachowania. Wedle niego należy zachowywać się kulturalnie i nikogo nie urazić.WTD ma stale funkcjonujące forum dyskusyjne na Slack, gdzie można szybko uzyskać opinię o każdym aspekcie dokumentacji.                                                                                                                                                                                                                                     |
 
-[![](images/upload_036.png)](http://techwriter.pl/wp-content/uploads/2022/07/upload_036.png)
+![](images/upload_036.png)
 
-[![](images/upload_039.png)](http://techwriter.pl/wp-content/uploads/2022/07/upload_039.png)
+![](images/upload_039.png)
 
 ## Podsumowanie
 

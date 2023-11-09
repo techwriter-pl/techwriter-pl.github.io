@@ -34,4 +34,4 @@ temacie wpiszcie "Technical Writer").
 Oferowane przez firmę benefity możecie sprawdzić
 [tutaj](http://www.insys.pl/praca/index.html#benefit). Powodzenia!
 
-[![insys_technical_writer](images/insys_technical_writer.png)](http://techwriter.pl/wp-content/uploads/2016/07/insys_technical_writer.png)
+![insys_technical_writer](images/insys_technical_writer.png)

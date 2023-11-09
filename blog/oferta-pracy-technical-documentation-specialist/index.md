@@ -33,4 +33,4 @@ pytania 😉
 
 Powodzenia!
 
-[![pega_tech_doc_spec](images/pega_tech_doc_spec.png)](http://techwriter.pl/wp-content/uploads/2016/12/pega_tech_doc_spec.png)
+![pega_tech_doc_spec](images/pega_tech_doc_spec.png)

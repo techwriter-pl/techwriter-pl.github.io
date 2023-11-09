@@ -54,7 +54,7 @@ scenariusze:
 4. Riwiu mody, jak na poniższym przykładzie. Zwróćcie uwagę, że prezentowany
    zespół miałby ogromne szanse na zwycięstwo również w scenariuszu nr 2 😉
 
-[![rewia_mody](images/rewia_mody.jpg)](http://techwriter.pl/wp-content/uploads/2014/06/rewia_mody.jpg)
+![rewia_mody](images/rewia_mody.jpg)
 
 Oczywiście to nie wszystkie rodzaje występowania riwiu w przyrodzie, ale
 większość znanych nam zastosowań jest kombinacją powyższych 4 głównych typów.

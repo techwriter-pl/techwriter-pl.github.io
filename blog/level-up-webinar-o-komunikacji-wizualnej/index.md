@@ -19,7 +19,7 @@ komunikacji wizualnej.
 
 <!--truncate-->
 
-[![](images/upload_409-300x80.png)](http://techwriter.pl/wp-content/uploads/2021/09/upload_409.png)
+![](images/upload_409-300x80.png)
 
 ### Temat
 
@@ -37,7 +37,7 @@ obrazów i filmów.
 
 Tworzenie memów stanie się jeszcze prostsze! 😉
 
-[![](images/upload_415-300x200.png)](http://techwriter.pl/wp-content/uploads/2021/09/upload_415.png)
+![](images/upload_415-300x200.png)
 
 W trakcie webinaru zaprezentowanych zostanie sześć wystąpień. Najbardziej
 interesujące wydają mi się tematy:
@@ -48,7 +48,7 @@ interesujące wydają mi się tematy:
   filmów na bazie obrazów"** (Daniel Foster, Allison Boatman)
 - **"Użyj odpowiedniego rodzaju filmu dla danego zadania"** (Matt Pierce)
 
-[![](images/upload_411-300x200.png)](http://techwriter.pl/wp-content/uploads/2021/09/upload_411.png)
+![](images/upload_411-300x200.png)
 
 ### Kiedy
 
@@ -56,7 +56,7 @@ Obie sesje odbywają się **5 października 2021**.
 
 #### Sesja 1
 
-### [![](images/upload_413-300x201.png)](http://techwriter.pl/wp-content/uploads/2021/09/upload_413.png)
+### ![](images/upload_413-300x201.png)
 
 12:00 - 16:00 czasu polskiego.
 
@@ -65,13 +65,13 @@ do rejestracji.
 
 #### Sesja 2
 
-[![](images/upload_414-300x200.png)](http://techwriter.pl/wp-content/uploads/2021/09/upload_414.png)
+![](images/upload_414-300x200.png)
 
 18:00-22:00 czasu polskiego.
 
 [Link](https://discover.techsmith.com/level-up-greenwich-mean-time/?utm_source=lead&utm_medium=email&utm_content=levelup&utm_campaign=brandexp&spMailingID=70609590&spUserID=MzY2MzgxMDgxODQ5S0&spJobID=2201629015&spReportId=MjIwMTYyOTAxNQS2)
 do rejestracji.
 
-[![](images/ea0f389cdfff6e3.png)](http://techwriter.pl/wp-content/uploads/2021/09/ea0f389cdfff6e3.png)
+![](images/ea0f389cdfff6e3.png)
 
 Zapraszam do udziału!

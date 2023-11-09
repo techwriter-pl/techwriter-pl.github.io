@@ -36,7 +36,7 @@ uczestniczyć w sesjach writing days i zadawać pytania. W międzyczasie uczestn
 mogli się bliżej poznać i podzielić swoimi spostrzeżeniami oraz wiedzą z zacisza
 swojego domu 😊.
 
-### [![](images/20201031_230235-1024x645.jpg)](http://techwriter.pl/wp-content/uploads/2020/11/20201031_230235.jpg)
+### ![](images/20201031_230235-1024x645.jpg)
 
 Organizatorzy zadbali o wszystkie aspekty konferencji. Na początek przygotowali
 [Intro](https://youtu.be/aLtnc0ITzok) jak poruszać się po platformie. Uczestnicy
@@ -94,7 +94,7 @@ którym jest produkt końcowy. Czasem drogi wcielenia projektu w życie mogą by
 rożne, dlatego ważne jest aby umieć korzystać z dostępnych zasobów i
 współpracować z innymi, aby móc wykonać zadnie 😊.
 
-[![](images/20201031_232904-1024x504.jpg)](http://techwriter.pl/wp-content/uploads/2020/11/20201031_232904.jpg)
+![](images/20201031_232904-1024x504.jpg)
 
 To dobra inspiracja zwłaszcza dla osób chcących rozpocząć swoja przygodę z
 tworzeniem dokumentacji. Może w Was również drzemią nieodkryte talenty lub
@@ -175,7 +175,7 @@ efektownie je dostarczyć i żeby było to opłacalne dla zespołu i klienta.
 
 Podstawowe parametry procesu to:
 
-[![](images/20201031_225909-1024x566.jpg)](http://techwriter.pl/wp-content/uploads/2020/11/20201031_225909.jpg)
+![](images/20201031_225909-1024x566.jpg)
 
 - Modułowość *-* zapisywanie plików tak, aby można było je łatwo edytować. Ważne
   jest aby ocenić nad czym można już pracować przed _releasem_ oraz czy pliki i

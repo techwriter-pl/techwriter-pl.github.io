@@ -16,7 +16,7 @@ Drugi dzień konferencji [soap!](http://soapconf.com/) przyniósł jeszcze więc
 prezentacji, które podzielone zostały na dwie ścieżki. Każdy mógł wybierać i
 przebierać w tematach. Niestety nie byliśmy w stanie uczestniczyć we wszystkich
 prezentacjach, dlatego przedstawiamy skrótowo tylko niektóre z nich.
-[![noz2ndday](images/noz2ndday.jpg)](http://techwriter.pl/wp-content/uploads/2014/10/noz2ndday.jpg)
+![noz2ndday](images/noz2ndday.jpg)
 
 <!--truncate-->
 
@@ -51,7 +51,7 @@ ludzie. Rahel przytoczyła
 Wrzucanie nowych treści nie jest wystarczające, trzeba rozmawiać z
 użytkownikami. Tylko w taki sposób zdobędziemy ich zaufanie.
 
-[![SoapRahelAnnBailie](images/SoapRahelAnnBailie.png)](http://techwriter.pl/wp-content/uploads/2014/10/SoapRahelAnnBailie.png)
+![SoapRahelAnnBailie](images/SoapRahelAnnBailie.png)
 
 ### Źle napisana instrukcja może zabić
 
@@ -88,7 +88,7 @@ pomocą produktu i mają realny wpływ na jego kształt. Włączając użytkowni
 decyzje dotyczące produktu budujemy ich lojalność. Podziękujmy im za każdym
 razem kiedy byli pomocni.
 
-[![SoapRayGallon](images/SoapRayGallon.png)](http://techwriter.pl/wp-content/uploads/2014/10/SoapRayGallon.png)
+![SoapRayGallon](images/SoapRayGallon.png)
 
 ### Autor też człowiek
 
@@ -115,7 +115,7 @@ system do obsługi magazynu współpracuje bezpośrednio ze stroną internetową
 zamawiania towaru. Pamiętajmy, że zarządzanie treścią nie dotyczy technologii,
 tylko biznesu, dlatego trzeba ułatwiać ludzki proces zarządzania treścią.
 
-[![SoapRickYagodich](images/SoapRickYagodich.png)](http://techwriter.pl/wp-content/uploads/2014/10/SoapRickYagodich.png)
+![SoapRickYagodich](images/SoapRickYagodich.png)
 
 ### Zamiast opowiadać narysuj
 
@@ -160,7 +160,7 @@ Dokument, który opisywał ten sam proces zawierał 329 słów. Innym przykłade
 infografika z kodowaniem kolorami, która przedstawiała infrastrukturę sieci.
 Dokument, który opisywał tą infrastrukturę liczył 457 słów.
 
-[![SoapAgnieszkaTkaczyk](images/SoapAgnieszkaTkaczyk.png)](http://techwriter.pl/wp-content/uploads/2014/10/SoapAgnieszkaTkaczyk.png)
+![SoapAgnieszkaTkaczyk](images/SoapAgnieszkaTkaczyk.png)
 
 ### Znajdź wspólny język
 
@@ -199,4 +199,4 @@ nie ilość stworzonych instrukcji, ale stopień w jakim odpowiada na potrzeby
 użytkownika. Treść wpływa w bardzo dużym stopniu na postrzeganie marki przez
 klientów, dlatego jej jakość jest tak ważna.
 
-[![SoapNozUrbina](images/SoapNozUrbina.png)](http://techwriter.pl/wp-content/uploads/2014/10/SoapNozUrbina.png)
+![SoapNozUrbina](images/SoapNozUrbina.png)

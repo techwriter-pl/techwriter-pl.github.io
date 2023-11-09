@@ -25,7 +25,7 @@ nazwą "specjalista ds. dokumentacji technicznej". Mediana zarobków dla tego
 stanowiska wynosi **4 307 zł brutto**. Ta kwota została ustalona na podstawie
 odpowiedzi 714 osób. Dane były ostatnio aktualizowane w styczniu 2016.
 
-[![zarobki_wynagrodzenia_pl](images/zarobki_wynagrodzenia_pl.png)](http://techwriter.pl/wp-content/uploads/2016/12/zarobki_wynagrodzenia_pl.png)
+![zarobki_wynagrodzenia_pl](images/zarobki_wynagrodzenia_pl.png)
 
 Więcej szczegółów znajdziecie
 [tutaj](http://wynagrodzenia.pl/moja-placa/ile-zarabia-specjalista-ds-dokumentacji-technicznej).
@@ -70,19 +70,19 @@ dla specjalisty ds. dokumentacji technicznej w woj. mazowieckim otrzymaliśmy
 dwie zupełnie różne kwoty. Być może różnica wynika z tego, że osoby raportujące
 swoje wynagrodzenie używały w różny sposób wielkich i małych liter.
 
-[![junior_tech_writer_malopolska](images/junior_tech_writer_malopolska.png)](http://techwriter.pl/wp-content/uploads/2016/12/junior_tech_writer_malopolska.png)
+![junior_tech_writer_malopolska](images/junior_tech_writer_malopolska.png)
 
-[![tech_writer_dolny_slask](images/tech_writer_dolny_slask.png)](http://techwriter.pl/wp-content/uploads/2016/12/tech_writer_dolny_slask.png)
+![tech_writer_dolny_slask](images/tech_writer_dolny_slask.png)
 
-[![tech_writer_wielkopolska](images/tech_writer_wielkopolska.png)](http://techwriter.pl/wp-content/uploads/2016/12/tech_writer_wielkopolska.png)
+![tech_writer_wielkopolska](images/tech_writer_wielkopolska.png)
 
-[![tech_writer_mazowsze](images/tech_writer_mazowsze.png)](http://techwriter.pl/wp-content/uploads/2016/12/tech_writer_mazowsze.png)
+![tech_writer_mazowsze](images/tech_writer_mazowsze.png)
 
-[![spec_dok_tech_warmia](images/spec_dok_tech_warmia.png)](http://techwriter.pl/wp-content/uploads/2016/12/spec_dok_tech_warmia.png)
+![spec_dok_tech_warmia](images/spec_dok_tech_warmia.png)
 
-[![spec_dok_tech_mazowsze3](images/spec_dok_tech_mazowsze3.png)](http://techwriter.pl/wp-content/uploads/2016/12/spec_dok_tech_mazowsze3.png)
+![spec_dok_tech_mazowsze3](images/spec_dok_tech_mazowsze3.png)
 
-[![spec_dok_tech_mazowsze](images/spec_dok_tech_mazowsze.png)](http://techwriter.pl/wp-content/uploads/2016/12/spec_dok_tech_mazowsze.png)
+![spec_dok_tech_mazowsze](images/spec_dok_tech_mazowsze.png)
 
 Jak oceniacie przedstawione przez nas dane? Czy są według Was bliskie
 rzeczywistości czy raczej mają z nią niewiele wspólnego? Czekamy na Wasze

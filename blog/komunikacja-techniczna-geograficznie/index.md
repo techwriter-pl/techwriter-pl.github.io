@@ -30,7 +30,7 @@ technicznej na całym świecie. Informacje zostały podzielone na trzy kategorie
 - stowarzyszenia i organizacje (oznaczone żółtym kółkami)
 - cała reszta (oznaczona niebieskimi kółkami)
 
-[![Tech Comm on a Map](images/Tech-Comm-on-a-Map.png)](http://techwriter.pl/wp-content/uploads/2014/05/Tech-Comm-on-a-Map.png)
+![Tech Comm on a Map](images/Tech-Comm-on-a-Map.png)
 
 Po kliknięciu na kółko, mapa przybliża się i zostają wyświetlone szczegółowe
 informacje na jego temat. Można też skorzystać z pola wyszukiwania, w celu

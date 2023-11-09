@@ -60,4 +60,4 @@ najlepszy. Comic Sans.
 
 Nigdy go nie używajcie.
 
-[![ComicSans](images/ComicSans-300x225.jpg)](http://techwriter.pl/wp-content/uploads/2014/03/ComicSans.jpg)
+![ComicSans](images/ComicSans-300x225.jpg)

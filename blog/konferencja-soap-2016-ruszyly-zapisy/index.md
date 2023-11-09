@@ -39,7 +39,7 @@ obowiązuje taryfa **"early bird"**. Warto się pośpieszyć, bo takich wejści�
 jest tylko 25. Po tym terminie cena będzie stopniowo wzrastać. Poniżej
 prezentujemy pełny cennik.
 
-[![soap_registration_fees](images/soap_registration_fees.png)](http://techwriter.pl/wp-content/uploads/2016/02/soap_registration_fees.png)
+![soap_registration_fees](images/soap_registration_fees.png)
 
 ### Prezentacje
 

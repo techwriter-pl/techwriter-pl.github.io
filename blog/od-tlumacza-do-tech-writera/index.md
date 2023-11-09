@@ -60,8 +60,7 @@ książki o kulturystyce w bardzo dużym formacie – jak otrzymałem siedem
 egzemplarzy po wywiązaniu się z umowy, ciężko to było dźwignąć. Wydało mi się to
 ironiczne, biorąc pod uwagę, że były to książki o podnoszeniu ciężarów.
 
-[![](images/upload_154-231x300.png)](http://techwriter.pl/wp-content/uploads/2022/04/upload_154.png)
-`Pod ciężarem woluminów tej książki`
+![](images/upload_154-231x300.png) `Pod ciężarem woluminów tej książki`
 `tłumacz zachwiał się, ale nie runął. Tygodnie tłumaczenia o podnoszeniu ciężarów nie poszły na marne.`
 
 Najciekawszym tytułem przy jakim przyszło mi pracować był podręcznik treningu
@@ -232,7 +231,7 @@ trudnym języku, jakim jest polski. Teraz wymieniam uwagi z utalentowanymi
 ludźmi, trzymam rękę na pulsie branży, moja świadomość tej społeczności stale
 się poszerza i mam okazję brać udział w ciekawych inicjatywach.
 
-[![](images/upload_004-798x1024.png)](http://techwriter.pl/wp-content/uploads/2022/04/upload_004.png)`Gdyby nie to jedno zdarzenie, nie byłoby mnie tu gdzie teraz jestem. Sprawdź dokąd certyfikat ITCQF doprowadzi w przyszłości Ciebie.`
+![](images/upload_004-798x1024.png)`Gdyby nie to jedno zdarzenie, nie byłoby mnie tu gdzie teraz jestem. Sprawdź dokąd certyfikat ITCQF doprowadzi w przyszłości Ciebie.`
 
 Krótko mówiąc, wybór kursu do ITCQF był brzemienny w skutkach. Nie tylko
 zdobyłem użyteczną wiedzę ale i zyskałem możliwość poszerzenia sieci kontaktów,
@@ -254,7 +253,7 @@ Jestem przekonany, że świat tłumaczeń i tworzenia dokumentacji, z którą je
 zawodowo związany, mocno się zazębiają. Wskazuje na to ankieta jaką
 przeprowadziłem kiedyś na łamach LinkedIN:
 
-[![](images/2022-05-11_16-36-55.png)](http://techwriter.pl/wp-content/uploads/2022/04/2022-05-11_16-36-55.png)
+![](images/2022-05-11_16-36-55.png)
 
 W wielu przypadkach ta sama osoba może przygotowywać instrukcje i samodzielnie
 przeprowadzać ich lokalizację lub przygotowywać je pod tłumaczenie maszynowe.

@@ -45,7 +45,7 @@ konferencji był jak co roku Sam Wright, który bardzo błyskotliwie wprowadzał
 słuchaczy w nastrój kolejnych prezentacji. Nie będziemy próbować powtarzać jego
 żartów, ale zdecydowanie polecamy posłuchać ich na żywo.
 
-[![Write the Docs 2017](images/writethedocs2017-3-1024x768.jpg)](http://techwriter.pl/wp-content/uploads/2017/10/writethedocs2017-3.jpg)
+![Write the Docs 2017](images/writethedocs2017-3-1024x768.jpg)
 
 ## Po trzecie, networking!
 
@@ -60,7 +60,7 @@ to, żeby prowadzić rozmowy w kuluarach, a nie żeby słuchać wystąpień.
 Networkingowi sprzyja też idea niekonferencji (unconference), podczas których
 uczestnicy siadają przy stole i dyskutują na jeden, ustalony temat.
 
-[![Write the Docs 2017](images/writethedocs2017-8.jpg)](http://techwriter.pl/wp-content/uploads/2017/10/writethedocs2017-8.jpg)
+![Write the Docs 2017](images/writethedocs2017-8.jpg)
 
 ## Po czwarte, prezentacje!
 
@@ -135,7 +135,7 @@ Dzięki temu wyczulamy się na różnych odbiorców i uczymy pisać dla szerszej
 gamy. Jeżeli chcielibyście sprawdzić efekt pracy Thomasa, książkę można nabyć na
 [Amazonie](https://www.amazon.fr/Node-js-pratiques-programmation-JavaScript-applicative/dp/2212139934/ref=sr_1_1?ie=UTF8&qid=1506976882&sr=8-1&keywords=node.js+bonnes+pratiques).
 
-[![Write the Docs 2017](images/writethedocs2017-5-1024x697.jpg)](http://techwriter.pl/wp-content/uploads/2017/10/writethedocs2017-5.jpg)
+![Write the Docs 2017](images/writethedocs2017-5-1024x697.jpg)
 
 ## Po piąte, czy wrócimy?
 
@@ -147,4 +147,4 @@ przyjazna, miasto piękne, pogoda (zazwyczaj) słoneczna. Także zapiszcie sobie
 kalendarzach przypominajkę na kwiecień, wtedy zazwyczaj rozpoczyna się sprzedaż
 biletów, no i widzimy się za rok, w Pradze!
 
-[![Write the Docs 2017](images/writethedocs2017-2.jpg)](http://techwriter.pl/wp-content/uploads/2017/10/writethedocs2017-2.jpg)
+![Write the Docs 2017](images/writethedocs2017-2.jpg)

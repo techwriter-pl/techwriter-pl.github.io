@@ -28,4 +28,4 @@ Jeśli potrzebujecie więcej szczegółów, swoje pytania kierujcie na adres:
 
 Powodzenia!
 
-[![inf_dev_sap_gliwice](images/inf_dev_sap_gliwice.png)](http://techwriter.pl/wp-content/uploads/2016/10/inf_dev_sap_gliwice.png)
+![inf_dev_sap_gliwice](images/inf_dev_sap_gliwice.png)

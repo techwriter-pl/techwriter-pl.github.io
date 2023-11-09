@@ -16,6 +16,6 @@ Tym razem z Górnego Śląska. Sprawdź, może to akurat coś dla Ciebie?
 
 Szczegóły oferty:
 
-[![hybrisoferta](images/hybrisoferta.jpg)](http://techwriter.pl/wp-content/uploads/2014/05/hybrisoferta.jpg)
+![hybrisoferta](images/hybrisoferta.jpg)
 
 Powodzenia!

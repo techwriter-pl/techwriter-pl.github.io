@@ -35,4 +35,4 @@ angielskim na adres: **praca-tw(at)microgen.com**.
 
 Powodzenia!
 
-[![oferta_microgen](images/oferta_microgen.png)](http://techwriter.pl/wp-content/uploads/2016/02/oferta_microgen.png)
+![oferta_microgen](images/oferta_microgen.png)

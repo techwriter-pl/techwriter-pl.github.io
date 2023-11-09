@@ -22,7 +22,7 @@ Dokarmiają pracowników.
 
 Szczegóły oferty:
 
-[![AVSystemsTechnicalWriter](images/AVSystemsTechnicalWriter.jpg)](http://techwriter.pl/wp-content/uploads/2015/03/AVSystemsTechnicalWriter.jpg)
+![AVSystemsTechnicalWriter](images/AVSystemsTechnicalWriter.jpg)
 
 Kilka dodatkowych informacji o firmie znajdziecie na
 stronie: [www.workwiththebest.pl](http://www.workwiththebest.pl/). Powodzenia!

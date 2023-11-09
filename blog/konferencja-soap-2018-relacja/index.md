@@ -64,7 +64,7 @@ wyjaśnili jak wygląda podstawowy workflow w GitHubie. Dowiedzieliśmy się m.i
   Markdown. Można o nim przeczytać
   [tutaj](https://github.com/georgebina/ghd-wiki).
 
-[![](images/IMG_20180523_101315-2-1024x768.jpg)](http://techwriter.pl/wp-content/uploads/2018/06/IMG_20180523_101315-2.jpg)
+![](images/IMG_20180523_101315-2-1024x768.jpg)
 
 Warsztaty były dobrym wstępem do zagadnień związanych z Gitem i GitHubem.
 Zabrakło nam jednak trochę bardziej obiektywnego spojrzenia na temat. Trenerzy
@@ -95,10 +95,10 @@ properties, które mogą być zawarte w pliku build lub w zewnętrznym pliku. Ni
 będziemy się za dużo rozpisywać, ponieważ cały warsztat zawierał w sobie dużo
 technicznych zagadnień, które ciężko zrelacjonować.
 
-[![](images/IMG_20180523_142736-2-1024x768.jpg)](http://techwriter.pl/wp-content/uploads/2018/06/IMG_20180523_142736-2.jpg)
-Ogólnie, warsztat był bardzo solidnym wstępem do Anta, z którego sporo się
-dowiedzieliśmy. Postaramy się sprawdzić w praktyce czy rzeczywiście to narzędzie
-pozwoli nam na kilka kaw i memów więcej w ciągu dnia pracy 😉
+![](images/IMG_20180523_142736-2-1024x768.jpg) Ogólnie, warsztat był bardzo
+solidnym wstępem do Anta, z którego sporo się dowiedzieliśmy. Postaramy się
+sprawdzić w praktyce czy rzeczywiście to narzędzie pozwoli nam na kilka kaw i
+memów więcej w ciągu dnia pracy 😉
 
 ## Dzień drugi i trzeci - wykłady
 
@@ -373,8 +373,8 @@ nowe kontakty, posłuchać muzyki na żywo i napić się dobrego piwa. Podczas
 nieoficjalnej części jak zwykle panowała luźna atmosfera i widać było, że
 wszyscy dobrze się bawili.
 
-[![](images/34558545_972223846281017_2214674545875353600_o-1024x683.jpg)](http://techwriter.pl/wp-content/uploads/2018/06/34558545_972223846281017_2214674545875353600_o.jpg)
-[![](images/34610558_972220826281319_1467938367718031360_o.jpg)](http://techwriter.pl/wp-content/uploads/2018/06/34610558_972220826281319_1467938367718031360_o.jpg)
+![](images/34558545_972223846281017_2214674545875353600_o-1024x683.jpg)
+![](images/34610558_972220826281319_1467938367718031360_o.jpg)
 
 ## Podsumowanie
 

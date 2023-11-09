@@ -22,8 +22,8 @@ wyprawa była okazją do poznania organizatorów, nawiązania nowych znajomości
 prostu dobrej zabawy.
 
 \[caption id="" align="aligncenter"
-width="590"\][![](images/43851628064_8f23bf499a_k-1024x473.jpg)](http://techwriter.pl/wp-content/uploads/2019/04/43851628064_8f23bf499a_k.jpg)
-Źródło: zasoby organizatora Write the Docs Prague 2018\[/caption\]
+width="590"\]![](images/43851628064_8f23bf499a_k-1024x473.jpg) Źródło: zasoby
+organizatora Write the Docs Prague 2018\[/caption\]
 
 W niedzielę główna arena wydarzeń Write the Docs przeniosła się do siedziby
 Czeskiego Autoklubu. Jest to miejsce wyjątkowej urody, posiadające swój
@@ -32,18 +32,17 @@ Zaraz po rejestracji i krótkiej wycieczce z Welcome Wagonem - specjalną grupą
 wolontariuszy, którzy przedstawili historię Autoklubu, opowiedzieli o mieście i
 samej konferencji - rozpoczął się oficjalnie Writing Day.
 
-[![](images/image5-892x1024.png)](http://techwriter.pl/wp-content/uploads/2019/04/image5.png)
-Ideą Writing Day jest znalezienie grupy ludzi zainteresowanych daną tematyką i
-popracowanie nad wspólnym celem. Tym celem niekoniecznie musi być dokument,
-artykuł, czy gotowe rozwiązanie zdefiniowanego problemu. Czasami jest nim
-wymiana doświadczeń, przedstawienie swoich racji czy po prostu poszukanie
-inspiracji. Ilość i różnorodność pomysłów pozwala znaleźć coś dla siebie.
-Ponadto, jeśli propozycje innych nie przypadną nam do gustu, możemy zdefiniować
-swój temat i szukać chętnych do współpracy.
+![](images/image5-892x1024.png) Ideą Writing Day jest znalezienie grupy ludzi
+zainteresowanych daną tematyką i popracowanie nad wspólnym celem. Tym celem
+niekoniecznie musi być dokument, artykuł, czy gotowe rozwiązanie zdefiniowanego
+problemu. Czasami jest nim wymiana doświadczeń, przedstawienie swoich racji czy
+po prostu poszukanie inspiracji. Ilość i różnorodność pomysłów pozwala znaleźć
+coś dla siebie. Ponadto, jeśli propozycje innych nie przypadną nam do gustu,
+możemy zdefiniować swój temat i szukać chętnych do współpracy.
 
-[![](images/image1-768x1024.png)](http://techwriter.pl/wp-content/uploads/2019/04/image1.png)
-Niedziela upłynęła niezwykle szybko. Popołudnie można było spędzić na zwiedzaniu
-przepięknej Pragi i zbieraniu sił przed główną częścią konferencji.
+![](images/image1-768x1024.png) Niedziela upłynęła niezwykle szybko. Popołudnie
+można było spędzić na zwiedzaniu przepięknej Pragi i zbieraniu sił przed główną
+częścią konferencji.
 
 ### Pierwszy dzień prelekcji (poniedziałek)
 
@@ -54,8 +53,8 @@ również można śledzić prezentacje. Stamtąd prowadzona była również rela
 żywo.
 
 \[caption id="" align="aligncenter"
-width="590"\][![](images/43685540195_bc81563880_k-1024x683.jpg)](http://techwriter.pl/wp-content/uploads/2019/04/43685540195_bc81563880_k.jpg)
-Źródło: zasoby organizatora Write the Docs Prague 2018\[/caption\]
+width="590"\]![](images/43685540195_bc81563880_k-1024x683.jpg) Źródło: zasoby
+organizatora Write the Docs Prague 2018\[/caption\]
 
 Uczestnicy licznie zapełnili główną arenę wydarzeń tworząc iście konferencyjny
 klimat. Koszulka naszego portalu zdecydowanie pomagała nam nawiązywać nowe
@@ -66,7 +65,7 @@ oficjalnie się rozpoczęła.
 Poniedziałek był niezwykle intensywny jeśli chodzi o same prezentacje. Poniżej
 przedstawiamy najciekawsze z nich.
 
-[![](images/image3-1024x645.jpg)](http://techwriter.pl/wp-content/uploads/2019/04/image3.jpg)
+![](images/image3-1024x645.jpg)
 
 #### Introduction to Write the Docs - Mikey Ariel
 
@@ -107,12 +106,11 @@ Jeśli chodzi o konferencję w Pradze to zasady są proste:
 
 Ciekawostką WTD 2018 była transkrypcja treści mówionych live. Wszystkie
 przemówienia prezenterów były wyświetlane na ekranie w czasie rzeczywistym.
-[![](images/image2-1024x760.png)](http://techwriter.pl/wp-content/uploads/2019/04/image2.png)
-Nie mogliśmy otrząsnąć się z ciężkiego szoku, gdy dowiedzieliśmy się, że teksty
-były pisane przez dwie profesjonalne stenografistki na specjalnej maszynie
-sprzężonej z dedykowanym oprogramowaniem.
+![](images/image2-1024x760.png) Nie mogliśmy otrząsnąć się z ciężkiego szoku,
+gdy dowiedzieliśmy się, że teksty były pisane przez dwie profesjonalne
+stenografistki na specjalnej maszynie sprzężonej z dedykowanym oprogramowaniem.
 
-#### [![](images/image8.png)](http://techwriter.pl/wp-content/uploads/2019/04/image8.png) How to tear down existing documentation and rewrite docs that actually work - Alexandra White
+#### ![](images/image8.png) How to tear down existing documentation and rewrite docs that actually work - Alexandra White
 
 Jeśli nie pracowaliście nigdy nad “legacy docs” (w wolnym tłumaczeniu
 "dokumentami, które dostaliście w spadku" 😊) to tak naprawdę nie wiecie co to
@@ -393,7 +391,7 @@ niezliczoną ilość tematów. Warto dodać, że w 2018 roku największą popula
 cieszyła się tematyka API, której poświęcono praktycznie cały jednodniowy wątek
 wypełniony rozmaitymi zagadnieniami.
 
-[![](images/image4-1024x768.png)](http://techwriter.pl/wp-content/uploads/2019/04/image4.png)
+![](images/image4-1024x768.png)
 
 #### Monday Night Social
 
@@ -401,7 +399,7 @@ Niewątpliwą atrakcją WTD jest impreza konferencyjna. Jak co roku organizatorz
 postarali się o świetnie dobrane miejsce, pyszne jedzenie i wyjątkowe drinki.
 Można było nawiązać bardzo ciekawe kontakty z nieprzeciętnymi ludźmi.
 
-[![](images/image7-707x1024.png)](http://techwriter.pl/wp-content/uploads/2019/04/image7.png)
+![](images/image7-707x1024.png)
 
 #### Lightning talks
 
@@ -434,7 +432,7 @@ Kolejny raz miał też miejsce konkurs na najlepiej udekorowany konferencyjny
 badge. Organizatorzy udostępnili kolorowe nalepki i etykietki, dzięki którym
 każdy chętny mógł stworzyć swojego niepowtarzalnego badge’a.
 
-[![](images/image6-1024x848.png)](http://techwriter.pl/wp-content/uploads/2019/04/image6.png)
+![](images/image6-1024x848.png)
 
 https://twitter.com/JanHalacek/status/1039428757747101696
 

@@ -35,7 +35,7 @@ instalować aplikację na dowolnej liczbie urządzeń.
 Co ciekawe, twórcy aplikacji oferują stypendium dla studentów w USA, Kanadzie,
 Australii i Wielkiej Brytanii w wysokości 1000 USD. Więcej szczegółów
 [na stronie](https://writeapp.co/write-app-scholarship).
-[![](images/wfite-app-windows.png)](http://techwriter.pl/wp-content/uploads/2017/12/wfite-app-windows.png)
+![](images/wfite-app-windows.png)
 
 Mieliśmy okazję potestować aplikację przez jakiś czas i poniżej umieszczamy małą
 listę plusów i drobnych minusów.
@@ -51,7 +51,7 @@ listę plusów i drobnych minusów.
 - spellcheck po polsku!
 - autocomplete, czyli autouzupełnianie w czasie pisania, które zgaduje jakie
   słowo chcemy napisać (chociaż dla niektórych może to być minus, a nie
-  plus)[![](images/write-autocomplete.png)](http://techwriter.pl/wp-content/uploads/2017/12/write-autocomplete.png)
+  plus)![](images/write-autocomplete.png)
 - eksport do wielu formatów
   - HTML
   - PDF

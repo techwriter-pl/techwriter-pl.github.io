@@ -26,4 +26,4 @@ znajdziecie również link do aplikowania).
 
 Powodzenia!
 
-[![](images/open-e_tech_content_spec.png)](http://techwriter.pl/wp-content/uploads/2018/09/open-e_tech_content_spec.png)
+![](images/open-e_tech_content_spec.png)

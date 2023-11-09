@@ -57,7 +57,7 @@ zadawanie pytań pomoże Wam nie tylko znaleźć właściwą odpowiedź, ale ró
 ułatwi przedstawienie wiedzy w logiczny sposób i pozwoli na dogłębne zrozumienie
 tematu. Dlatego ważne jest, aby nie bać się zadawać pytań!
 
-[![](images/52377282937_e8412821fe_o.png)](http://techwriter.pl/wp-content/uploads/2022/10/52377282937_e8412821fe_o.png)
+![](images/52377282937_e8412821fe_o.png)
 
 Co więc robić? W swoim  wystąpieniu Jeffrey podał kilka sposobów na rozwijanie
 tych umiejętności oraz motywował do bycia proaktywnym.
@@ -121,7 +121,7 @@ jak firmy w Afryce komunikują się ze swoimi odbiorcami, jak zbierane są i
 wdrażane informacje zwrotne, jakie występują trudności i jaki jest poziom wiedzy
 odbiorców dokumentacji technicznej.
 
-[![](images/52378456393_1246791dfc_o.png)](http://techwriter.pl/wp-content/uploads/2022/10/52378456393_1246791dfc_o.png)
+![](images/52378456393_1246791dfc_o.png)
 
 A jakie narzędzia są wykorzystywane?
 
@@ -183,7 +183,7 @@ biznesowego. Dobrze zatem na spokojnie zastanowić się, które kwestie są
 najważniejsze. Powinno to pozwolić na zbudowanie listy zadań, na której znajdą
 się w pierwszej kolejności najpilniejsze rzeczy.
 
-[![](images/52378456433_86373cdeb0_o.png)](http://techwriter.pl/wp-content/uploads/2022/10/52378456433_86373cdeb0_o.png)
+![](images/52378456433_86373cdeb0_o.png)
 
 Jeśli potrzebujecie poprosić o dodatkową osobę lub osoby w Waszym zespole, warto
 na początek rozważyć te kwestie:
@@ -245,7 +245,7 @@ się jeszcze trudniejsze. W swojej prezentacji
 omówił zagadnienie lintingu i podał kilka dobrych przykładów, jak można osiągnąć
 dobre wyniki i szybciej wychwycić błędy w dokumentacji.
 
-[![](images/52377282607_c7d8698101_o.png)](http://techwriter.pl/wp-content/uploads/2022/10/52377282607_c7d8698101_o.png)
+![](images/52377282607_c7d8698101_o.png)
 
 No to zaczynamy! Co to jest **linting**?
 

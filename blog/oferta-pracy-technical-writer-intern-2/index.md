@@ -32,4 +32,4 @@ rozdzielczości)
 Aplikować można poprzez wysłanie CV w języku angielskim na adres:
 **monika.pudlo(at)3ds.com**.
 
-[![dassault_systemes_techwriter_intern](images/dassault_systemes_techwriter_intern.png)](http://techwriter.pl/wp-content/uploads/2016/03/dassault_systemes_techwriter_intern.png)
+![dassault_systemes_techwriter_intern](images/dassault_systemes_techwriter_intern.png)

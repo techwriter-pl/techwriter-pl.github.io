@@ -80,4 +80,4 @@ Agnieszki Tkaczyk.
 [Chris Atherton](http://www.uaeurope.com/conference/speakers.html#atherton)
 zaćwierkała:
 
-[![Chris_Atherton_Twitter](images/Chris_Atherton_Twitter-300x192.png)](http://techwriter.pl/wp-content/uploads/2014/07/Chris_Atherton_Twitter.png)
+![Chris_Atherton_Twitter](images/Chris_Atherton_Twitter-300x192.png)

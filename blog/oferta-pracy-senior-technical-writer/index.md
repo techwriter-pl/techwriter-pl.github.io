@@ -31,4 +31,4 @@ Aplikować można poprzez wysłanie CV w języku angielskim na adres:
 **monika.pudlo(at)3ds.com**. W temacie wiadomości należy podać nazwę stanowiska.
 Powodzenia!
 
-[![senior_techwriter_3ds](images/senior_techwriter_3ds.png)](http://techwriter.pl/wp-content/uploads/2016/04/senior_techwriter_3ds.png)
+![senior_techwriter_3ds](images/senior_techwriter_3ds.png)

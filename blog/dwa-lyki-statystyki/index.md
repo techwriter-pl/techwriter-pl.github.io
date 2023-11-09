@@ -32,7 +32,7 @@ nam podobno prawie 20 minut każdego dnia!
 Jeżeli jesteście ciekawi jakie są następne słowa w kolejce, albo gdzie w
 rankingu plasuje się Wasze ulubione słówko to kliknijcie w poniższy obrazek:
 
-[![the_of_and_to](images/the_of_and_to.jpg)](http://www.wordcount.org/main.php)
+![the_of_and_to](images/the_of_and_to.jpg)
 
 Dla tych którzy nie mają swoich ulubionych słówek, albo wstydzą się je wpisać,
 polecamy zawsze politycznie poprawne zwroty publikowane w serii

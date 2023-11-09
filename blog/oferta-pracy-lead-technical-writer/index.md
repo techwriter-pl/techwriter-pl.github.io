@@ -29,4 +29,4 @@ adres: **pawel.kowaluk(at)3di-info.com**.
 Pozostałe oferty pracy z 3di znajdziecie
 [tutaj](http://techwriter.pl/oferty-pracy-technical-writer-senior-technical-writer-project-manager/).
 
-[![leadtechwriter_3di](images/leadtechwriter_3di.png)](http://techwriter.pl/wp-content/uploads/2016/01/leadtechwriter_3di.png)
+![leadtechwriter_3di](images/leadtechwriter_3di.png)

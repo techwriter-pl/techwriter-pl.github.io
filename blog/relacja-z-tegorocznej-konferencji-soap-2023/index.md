@@ -34,7 +34,7 @@ przekazała mikrofon znów w ręce Gosi Radymiak. Oprócz bezpośredniego udzia�
 wydarzeniu, była też możliwość dołączenia z zacisza swojego domu, dzięki opcji
 wirtualnej konferencji.
 
-[![](images/upload_0543-1024x693.png)](http://techwriter.pl/wp-content/uploads/2023/07/upload_0543.png)
+![](images/upload_0543-1024x693.png)
 
 Tym razem tematem przewodnim było _Content Operations_ czyli zestaw założeń i
 praktyk, dzięki którym proces dokumentacji przebiega w sposób zwinny, przy
@@ -55,7 +55,7 @@ pierwszej i – jak zapowiada - z pewnością nie jej ostatniej konferencji soap
 
 **Zawieszki z programem**
 
-[![](images/MicrosoftTeams-image-165.jpg)](http://techwriter.pl/wp-content/uploads/2023/07/MicrosoftTeams-image-165.jpg)
+![](images/MicrosoftTeams-image-165.jpg)
 
 Chciałem w paru słowach zwrócić uwagę na jeden mały, acz istotny detal,
 charakterystyczny dla [soap!](https://soapconf.com/): zawieszka na szyję z listą
@@ -73,7 +73,7 @@ projektował - dobra robota!
 
 ### Czego znawca retoryki może nauczyć Cię o zapytaniach dla ChatGPT
 
-### [![](images/upload_0541-1024x1024.png)](http://techwriter.pl/wp-content/uploads/2023/07/upload_0541.png)
+### ![](images/upload_0541-1024x1024.png)
 
 [Dr. Lance Cummings](https://www.linkedin.com/in/lance-cummings-phd/) nie po raz
 pierwszy gościł na [soap!](https://soapconf.com/). W 2022 roku prowadził
@@ -166,7 +166,7 @@ częściach tego artykułu.
 
 ### Od zera do bohatera – dojrzałość dokumentacyjna projektu i proces przejścia na wyższy poziom
 
-[![](images/upload_0542-300x201.png)](http://techwriter.pl/wp-content/uploads/2023/07/upload_0542.png)
+![](images/upload_0542-300x201.png)
 
 Większość osób parających się komunikacją techniczną ma świadomość poziomu
 dojrzałości projektu w jakim się znajduje. Mogą o tym opowiedzieć, ale czy
@@ -198,7 +198,7 @@ może się z inwestycją w nowe narzędzia, infrastrukturę czy niezbędne będz
 zatrudnienie dodatkowych specjalistów. Model dojrzałości pomoże Ci uzasadnić
 taki wysiłek i przekonać o tym przełożonych.
 
-[![](images/upload_0474-1-265x300.png)](http://techwriter.pl/wp-content/uploads/2023/07/upload_0474-1.png)
+![](images/upload_0474-1-265x300.png)
 
 ## Prezentacje
 
@@ -230,7 +230,7 @@ W prezentacji Patricka podstawowym pojęciem jest "doświadczenie" a nie
 stanowi „doświadczenie”, które ma na celu osiągnięcie przez klienta założonego
 celu. Im doświadczenie płynniej przybliża kogoś do realizacji celu, tym lepiej.
 
-[![](images/upload_0537-1024x683.png)](http://techwriter.pl/wp-content/uploads/2023/07/upload_0537.png)
+![](images/upload_0537-1024x683.png)
 
 Ciekawym pojęciem jest też _omni experience_ – chodzi o patrzenie na
 doświadczenia klientów jak na bardzo indywidualne doznania, zamiast zbierać je w
@@ -250,7 +250,7 @@ wyrafinowane środowiska dokumentacyjne.
 
 ### Plan potrzebny od zaraz
 
-[![](images/upload_0514-1-1024x768.png)](http://techwriter.pl/wp-content/uploads/2023/07/upload_0514-1.png)
+![](images/upload_0514-1-1024x768.png)
 
 Duet tech writerek [Barbary Czyż](https://www.linkedin.com/in/barbara-szwarc/)
 (z Box) i [Edyty Rakowskiej](https://www.linkedin.com/in/edyta-rakowska/) (z
@@ -291,7 +291,7 @@ wskazówki i pomysły.
 
 ### Jaki jest Twój patent na content?
 
-[![](images/upload_0479-1024x593.png)](http://techwriter.pl/wp-content/uploads/2023/06/upload_0479.png)
+![](images/upload_0479-1024x593.png)
 
 _"Keeping the plates spinning: ContentOps at Dolby"_ to studium przypadku
 wymagającego tworzenia i utrzymywania dokumentacji do 200 produktów, a jeśli
@@ -321,7 +321,7 @@ Zdecydowanie warto posłuchać ich wystąpienia.
 
 ### Jak sprostać skali
 
-[![](images/upload_0535.png)](http://techwriter.pl/wp-content/uploads/2023/07/upload_0535.png)
+![](images/upload_0535.png)
 
 [Jarek Orłowski](https://www.linkedin.com/in/jarek-or%C5%82owski-37aba6115/) w
 _"How to scale docs in a fast-growing organization"_ dobrze zarysowuje sytuację,
@@ -341,7 +341,7 @@ charakteryzuje się dobrze zaimplementowane Content Ops w organizacji.
 
 ### Jak wydobyć cenne klejnoty z morza treści
 
-[![](images/upload_0530-1024x768.png)](http://techwriter.pl/wp-content/uploads/2023/07/upload_0530.png)
+![](images/upload_0530-1024x768.png)
 
 [Daria Boiko](https://www.linkedin.com/in/daria-boiko-2aab3089/) w _"Content Ops
 and Content Strategy"_ opowiada o tym, jak w ramach projektu zorganizowała ponad
@@ -354,7 +354,7 @@ które mam na koncie i tym bardziej szanuję jej dokonanie.
 
 ### Jasne, ale i tak przypomnij mi później
 
-[![](images/upload_0515-1024x768.png)](http://techwriter.pl/wp-content/uploads/2023/07/upload_0515.png)
+![](images/upload_0515-1024x768.png)
 
 Po wielu świetnych prezentacjach o tworzeniu sprawnych machin do zarządzania
 dokumentacją, [Denise Marshall](https://www.linkedin.com/in/dnwood/) z firmy 3di
@@ -384,7 +384,7 @@ ze swoim zespołem, to potrafi zdziałać cuda!
 
 ### Jak odnaleźć się w zwinnym zespole
 
-[![](images/upload_0526-1024x728.png)](http://techwriter.pl/wp-content/uploads/2023/07/upload_0526.png)
+![](images/upload_0526-1024x728.png)
 
 Mimo, że nie każdy z nas odpowiada za budowanie zespołu, to zrozumienie
 mechanizmów działania w danej grupie pozwala lepiej się w niej odnaleźć i
@@ -415,7 +415,7 @@ wszystkiego, pozwolimy sobie podkreślić kilka myśli:
 
 ### Bo do tanga trzeba czworga
 
-[![](images/upload_0510-1024x690.png)](http://techwriter.pl/wp-content/uploads/2023/07/upload_0510.png)
+![](images/upload_0510-1024x690.png)
 
 [Katarzyna Markiewicz](https://www.linkedin.com/in/katarzyna-markiewicz18/),
 content designer z IBM, w _"4-in-a-box: Content’s meaningful impact on the UX"_
@@ -430,7 +430,7 @@ użytkownik odczuje w całości doświadczenia z produktem i jego dokumentacją.
 
 ### Ilu tech writerów naprawdę potrzeba?
 
-[![](images/upload_0518-1024x807.png)](http://techwriter.pl/wp-content/uploads/2023/07/upload_0518.png)
+![](images/upload_0518-1024x807.png)
 
 Każdy technical writer, czy to pracujący samodzielnie, czy zarządzający takim
 zespołem, prędzej czy później staje przed tym problemem: jak przekonać
@@ -458,7 +458,7 @@ prostu nie przyjdzie nam do głowy, aby je zadać.
 
 ### Jak mierzyć fajność dokumentacji?
 
-[![](images/upload_0536-1024x794.png)](http://techwriter.pl/wp-content/uploads/2023/07/upload_0536.png)
+![](images/upload_0536-1024x794.png)
 
 Skąd wiemy, że dokumentacja, którą tworzymy jest tym, czego potrzebują jej
 użytkownicy? Czy są w stanie szybko znaleźć informacje, których szukają? Czego
@@ -482,7 +482,7 @@ Analiza zapytań w wyszukiwarce również uplasowała się wysoko. Z kolei najs�
 w testach Aleksandry wypadły: ocenianie treści bezpośrednio na stronie i analiza
 ruchu.
 
-[![](images/Picture3-1024x494.png)](http://techwriter.pl/wp-content/uploads/2023/06/Picture3.png)
+![](images/Picture3-1024x494.png)
 
 ### Jak uczyć pisania znajomych z pracy
 
@@ -503,7 +503,7 @@ Maria ewidentnie lubi uczyć i chętnie dzieli się wskazówkami jak to robić
 skutecznie. Dla tych osób, które zastanawiają się nad tym, czy uczenie innych
 pisania dokumentacji to dobry pomysł, również ma odpowiedź.
 
-[![](images/Picture4.png)](http://techwriter.pl/wp-content/uploads/2023/06/Picture4.png)
+![](images/Picture4.png)
 
 Nie wiem jak Was, ale mnie takie powody przekonują.
 
@@ -533,7 +533,7 @@ początkująca tech writerka bardzo chętnie wzięłabym w nim udział.
 
 ### Syndrom oszusta
 
-[![](images/upload_0505-1024x768.png)](http://techwriter.pl/wp-content/uploads/2023/07/upload_0505.png)
+![](images/upload_0505-1024x768.png)
 
 [Wojtek Aleksander](https://www.linkedin.com/in/waleksander/) w swojej
 prezentacji _"Imposter Syndrome"_ stawia tezę, że przyczyny dobrze znanego
@@ -580,7 +580,7 @@ zdaniem, wystąpień.
 
 #### **District C**
 
-[![](images/upload_0558.png)](http://techwriter.pl/wp-content/uploads/2023/07/upload_0558.png)
+![](images/upload_0558.png)
 
 Miałem okazję spontanicznie wskoczyć na scenę (i na skrzynkę po jabłkach!), by
 razem z [Lancem Cummingsem](https://www.linkedin.com/in/lance-cummings-phd/) i
@@ -605,7 +605,7 @@ Dla mnie będzie to nieodłączny gadżet przy przemówieniach, robi robotę! �
 
 #### **Wychodźmy z naszych silosów**
 
-[![](images/upload_0540-1024x768.png)](http://techwriter.pl/wp-content/uploads/2023/07/upload_0540.png)
+![](images/upload_0540-1024x768.png)
 
 W wielu wystąpieniach przewijały się postulaty dotyczące angażowania różnych
 działów i ludzi w procesy dokumentacyjne i wypracowanie technical writerom
@@ -624,7 +624,7 @@ Przekaz krótki i celny, a do tego przekazany w zabawny, spontaniczny sposób.
 
 #### Gdzie szukać odtrutki w świecie przesyconym fascynacją technologią?
 
-[![](images/upload_0503-298x300.png)](http://techwriter.pl/wp-content/uploads/2023/07/upload_0503.png)
+![](images/upload_0503-298x300.png)
 
 W trakcie konferencji często rozmawialiśmy o ChatGPT i innych wynalazkach z
 dziedziny sztucznej inteligencji. Mocno skupiamy się na znalezieniu dla nich
@@ -646,11 +646,10 @@ akcentować ludzki komponent w równaniu 😉
 
 #### **SOAPUSZKA**
 
-[![](images/soapusza_mala.gif)](http://techwriter.pl/wp-content/uploads/2023/07/soapusza_mala.gif)
+![](images/soapusza_mala.gif)
 
-[![](images/MicrosoftTeams-image-157-300x243.jpg)](http://techwriter.pl/wp-content/uploads/2023/06/MicrosoftTeams-image-157.jpg)Kolejnym
-wydarzeniem, które było na ustach wszystkich, był występ grupy zwanej jako
-„Soapuszka Crew”.
+![](images/MicrosoftTeams-image-157-300x243.jpg)Kolejnym wydarzeniem, które było
+na ustach wszystkich, był występ grupy zwanej jako „Soapuszka Crew”.
 
 Dla niewtajemniczonych: „Soapuszka” to starożytny artefakt, odziedziczony po
 Sumerach, którzy organizowali własne eventy poświęcone tworzeniu contentu w
@@ -668,28 +667,27 @@ nad nią pieczę. Grupę trzymającą poduszkę tworzą:
 [Ekaterina Pervezentseva](https://www.linkedin.com/in/ekaterina-pervezentseva-b75767156/),
 [Marcin Broda](https://www.linkedin.com/in/marcin-broda-1b6878a6/).
 
-[![](images/MicrosoftTeams-image-155-245x300.jpg)](http://techwriter.pl/wp-content/uploads/2023/06/MicrosoftTeams-image-155.jpg)Co
-działo się z poduszką przez ten pamiętny rok? Soapuszka chciała być sławna od
-samego początku i ekipa we Wrocławiu ciężko cały rok nad tym pracowała, żeby ją
-do tej popularności przygotować. Soapuszka podróżowała otwarcie, pokazując swoją
-"twarz", jak i incognito (patrz zdjęcie w okularach i kapeluszu). Była na
-wycieczce w górach. Odwiedzała często biuro Infor, jadła lunch i pierogi, wypiła
-parę kawek, uczestniczyła nawet w szkoleniu z Excela i jest teraz masterem
-_pivotów_ (tabel przestawnych). Jednym słowem zasmakowała korpożycia i czekała z
-niecierpliwością na swój wielki dzień na tegorocznym soapie i nowego
-właściciela.
+![](images/MicrosoftTeams-image-155-245x300.jpg)Co działo się z poduszką przez
+ten pamiętny rok? Soapuszka chciała być sławna od samego początku i ekipa we
+Wrocławiu ciężko cały rok nad tym pracowała, żeby ją do tej popularności
+przygotować. Soapuszka podróżowała otwarcie, pokazując swoją "twarz", jak i
+incognito (patrz zdjęcie w okularach i kapeluszu). Była na wycieczce w górach.
+Odwiedzała często biuro Infor, jadła lunch i pierogi, wypiła parę kawek,
+uczestniczyła nawet w szkoleniu z Excela i jest teraz masterem _pivotów_ (tabel
+przestawnych). Jednym słowem zasmakowała korpożycia i czekała z niecierpliwością
+na swój wielki dzień na tegorocznym soapie i nowego właściciela.
 
-[![](images/MicrosoftTeams-image-161-300x225.jpg)](http://techwriter.pl/wp-content/uploads/2023/06/MicrosoftTeams-image-161.jpg)
+![](images/MicrosoftTeams-image-161-300x225.jpg)
 
-[![](images/MicrosoftTeams-image-159-300x225.jpg)](http://techwriter.pl/wp-content/uploads/2023/06/MicrosoftTeams-image-159.jpg)
+![](images/MicrosoftTeams-image-159-300x225.jpg)
 
-[![](images/MicrosoftTeams-image-156-224x300.jpg)](http://techwriter.pl/wp-content/uploads/2023/06/MicrosoftTeams-image-156.jpg)
+![](images/MicrosoftTeams-image-156-224x300.jpg)
 
 Po roku szalonych przygód, o których można by było nakręcić lepszy film niż
 „Road Trip” czy „EuroTrip” razem wzięte, Soapuszka powędrowała do rąk kolejnego
 szczęśliwca, który chwycił ją po tym, jak została rzucona w konferencyjny tłum.
 
-[![](images/upload_0534-768x1024.png)](http://techwriter.pl/wp-content/uploads/2023/07/upload_0534.png)
+![](images/upload_0534-768x1024.png)
 
 Był nim [Lance Cummings](https://www.linkedin.com/in/lance-cummings-phd/).
 Świadom praw i obowiązków przyjął wyzwanie opieki nad rzutką poduszką. Lance i
@@ -703,7 +701,7 @@ ostatnia przygoda.
 
 #### **Panel dyskusyjny**
 
-[![](images/upload_0511-1024x768.png)](http://techwriter.pl/wp-content/uploads/2023/07/upload_0511.png)
+![](images/upload_0511-1024x768.png)
 
 Nową, spontanicznie zrodzoną inicjatywą był panel dyskusyjny składający się z
 Lance’a, Patricka, Maaret i Denise, którzy odpowiadali na bardzo wymagające
@@ -714,7 +712,7 @@ wszyscy są w trakcie ustosunkowywania się do niego.
 
 #### **Losowanie**
 
-[![](images/upload_0516-1024x683.png)](http://techwriter.pl/wp-content/uploads/2023/07/upload_0516.png)
+![](images/upload_0516-1024x683.png)
 
 W trakcie konferencji można było wziąć udział w losowaniu nagród dla
 uczestników. Warunkiem było podanie swojego imienia i nazwiska oraz obecność na
@@ -722,12 +720,12 @@ sali podczas wyczytywania zwycięzców. Jedna z wylosowanych osób, która nie
 wygrała nagrody, postąpiła dosłownie zgodnie z instrukcją „enter your name and
 surname” podpisała się jako „Your Name, Surname”. Czyżby to napisał Everyman?
 
-[![](images/upload_0539-1-207x300.png)](http://techwriter.pl/wp-content/uploads/2023/07/upload_0539-1.png)Natomiast
-jedną z osób do których los się uśmiechnął była współautorka tego artykułu,
-Julia Dąbrowska. Nagrodą był powerbank ze świecącym logo ekipy podcastu
-„Techwriter Koduje”. Myślę, że w powerbanku zmagazynuje zapas pozytywnej energii
-na cały następny rok przed kolejnym [soap!](https://soapconf.com/). Nie powinno
-to dziwić, w końcu pracuje w Hitachi Energy 😊
+![](images/upload_0539-1-207x300.png)Natomiast jedną z osób do których los się
+uśmiechnął była współautorka tego artykułu, Julia Dąbrowska. Nagrodą był
+powerbank ze świecącym logo ekipy podcastu „Techwriter Koduje”. Myślę, że w
+powerbanku zmagazynuje zapas pozytywnej energii na cały następny rok przed
+kolejnym [soap!](https://soapconf.com/). Nie powinno to dziwić, w końcu pracuje
+w Hitachi Energy 😊
 
 Julia jest zachwycona wygraną, bo tak bajeranckiego powerbanku jeszcze nie
 miała! A przy okazji odbierania prezentu miała okazję sprawdzić czy wyjście na
@@ -738,12 +736,11 @@ na [soap!](https://soapconf.com/)
 
 ## **Podsumowanie**
 
-[![](images/MicrosoftTeams-image-154-1024x768.jpg)](http://techwriter.pl/wp-content/uploads/2023/06/MicrosoftTeams-image-154.jpg)Choć
-może wydać się to mało wykonalne, to wydaje mi się, że w tym roku poprzeczka
-została zawieszona jeszcze wyżej niż zwykle. Z wydarzenia przywieźliśmy solidną
-porcję praktycznej wiedzy, która pomoże nam spojrzeć świeżym okiem na to, jak
-piszemy, zarządzamy wiedzą, publikujemy treści, jak wchodzimy z interakcje ze
-współwinnymi dokumentacji 😉
+![](images/MicrosoftTeams-image-154-1024x768.jpg)Choć może wydać się to mało
+wykonalne, to wydaje mi się, że w tym roku poprzeczka została zawieszona jeszcze
+wyżej niż zwykle. Z wydarzenia przywieźliśmy solidną porcję praktycznej wiedzy,
+która pomoże nam spojrzeć świeżym okiem na to, jak piszemy, zarządzamy wiedzą,
+publikujemy treści, jak wchodzimy z interakcje ze współwinnymi dokumentacji 😉
 
 To, co się nie zmienia to fantastyczna atmosfera, przyjazne środowisko, w którym
 każdy czuje się mile widziany i wysłuchany, niezależnie od tego czy jesteś
@@ -761,10 +758,10 @@ Należy tutaj wspomnieć o tym, że była to **9 edycja**
 [soap!](https://soapconf.com/) i niemal minęło **10 lat** od pierwszego
 wydarzenia.
 
-[![](images/upload_0506-1-1024x683.png)](http://techwriter.pl/wp-content/uploads/2023/07/upload_0506-1.png)
+![](images/upload_0506-1-1024x683.png)
 
 Soapers – tak trzymajcie! Jesteśmy pod niesamowitym wrażeniem zarówno
 organizatorów, którzy zainicjowali platformę do dzielenia się wiedzą, jak i
 uczestników którzy zarażają wszystkich pozytywną energią i dobrym humorem.
 
-[![](images/MicrosoftTeams-image-153-1024x768.jpg)](http://techwriter.pl/wp-content/uploads/2023/07/MicrosoftTeams-image-153.jpg)
+![](images/MicrosoftTeams-image-153-1024x768.jpg)

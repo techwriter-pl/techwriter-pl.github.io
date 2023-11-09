@@ -16,7 +16,7 @@ summary. The Polish version is available
 the soap! conference brought even more presentations that were divided into two
 tracks. Everyone could find something for themselves. Unfortunately, we weren’t
 able to attend all the presentations, so we describe in short only some of them.
-[![noz2ndday](images/noz2ndday.jpg)](http://techwriter.pl/wp-content/uploads/2014/10/noz2ndday.jpg)
+![noz2ndday](images/noz2ndday.jpg)
 
 <!--truncate-->
 
@@ -48,7 +48,7 @@ mentioned
 Adding new content isn’t enough, we need to talk with the users. Only then we
 can gain their trust.
 
-[![SoapRahelAnnBailie](images/SoapRahelAnnBailie.png)](http://techwriter.pl/wp-content/uploads/2014/10/SoapRahelAnnBailie.png)
+![SoapRahelAnnBailie](images/SoapRahelAnnBailie.png)
 
 ### Badly Written Instructions Can Kill
 
@@ -84,7 +84,7 @@ and have a real influence on its shape. By including users in the decisions
 about the product, we build their loyalty. We should thank them every time they
 help us.
 
-[![SoapRayGallon](images/SoapRayGallon.png)](http://techwriter.pl/wp-content/uploads/2014/10/SoapRayGallon.png)
+![SoapRayGallon](images/SoapRayGallon.png)
 
 ### The Author Is Also Human
 
@@ -108,7 +108,7 @@ warehouse system is linked with the website that is used for ordering the goods.
 We must remember that content management isn’t about technology but about
 business. That’s why it’s necessary to make content management easy.
 
-[![SoapRickYagodich](images/SoapRickYagodich.png)](http://techwriter.pl/wp-content/uploads/2014/10/SoapRickYagodich.png)
+![SoapRickYagodich](images/SoapRickYagodich.png)
 
 ### Draw Instead of Saying
 
@@ -150,7 +150,7 @@ installation procedure. The same process was described in the related
 documentation in 329 words. Another example was a color-coded infographic about
 the product infrastructure. The related documentation consisted of 457 words.
 
-[![SoapAgnieszkaTkaczyk](images/SoapAgnieszkaTkaczyk.png)](http://techwriter.pl/wp-content/uploads/2014/10/SoapAgnieszkaTkaczyk.png)
+![SoapAgnieszkaTkaczyk](images/SoapAgnieszkaTkaczyk.png)
 
 ### Find a Common Language
 
@@ -188,6 +188,6 @@ the number of created instructions but in the level to which it meets the needs
 of the users. To a large extent, content influences the perception of the brand.
 That’s why it’s so important.
 
-[![SoapNozUrbina](images/SoapNozUrbina.png)](http://techwriter.pl/wp-content/uploads/2014/10/SoapNozUrbina.png)
+![SoapNozUrbina](images/SoapNozUrbina.png)
 
 Translated: Agnieszka Tkaczyk Proofread: Paweł Kowaluk

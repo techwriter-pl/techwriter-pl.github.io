@@ -51,7 +51,7 @@ dojrzewania.Stwierdziła, że Google wkracza właśnie w dorosłość, i bardzie
 stawia na jakość niż na ilość. Było to o tyle ciekawe porównanie, że zakończyło
 się pytaniem do widowni. Zostaliśmy poproszeni o odpowiedź na poniższe pytanie:
 
-[![webinarium-vote](images/webinarium-vote.png)](http://techwriter.pl/wp-content/uploads/2014/03/webinarium-vote.png)
+![webinarium-vote](images/webinarium-vote.png)
 
 Według 33% osób tworzone przez nich materiały są na poziomie dziecka, a 44%
 porównało je do nastolatka. Wyniki o tyle ciekawe, że przeprowadzona wcześniej

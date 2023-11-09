@@ -28,4 +28,4 @@ Aplikować można również poprzez wysłanie CV na adres: **jobs(at)avsystem.co
 
 Powodzenia!
 
-[![ogloszenie_avsystem](images/ogloszenie_avsystem.png)](http://techwriter.pl/wp-content/uploads/2016/09/ogloszenie_avsystem.png)
+![ogloszenie_avsystem](images/ogloszenie_avsystem.png)

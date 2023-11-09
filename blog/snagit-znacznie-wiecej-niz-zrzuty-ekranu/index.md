@@ -799,8 +799,7 @@ zakładkami, możesz zrobić zdjęcie dla każdej aktywnej zakładki osobno. O w
 łatwiej jednak nagrać film pokazujący panel z kolejno aktywowanymi zakładkami, a
 następnie wyciągnąć statyczne obrazy z filmu za pomocą poniższych przycisków:
 
-[![](images/right_left.png)](http://techwriter.pl/wp-content/uploads/2020/10/right_left.png)\-
-wybór klatki
+![](images/right_left.png)\- wybór klatki
 
 ![](images/gifpng.png)\- zapis klatki.
 
@@ -897,7 +896,7 @@ Window** lub w **OneClick**.
 Są to miniatury ostatnio otwartych i edytowanych plików, dające do nich szybki
 dostęp.
 
-[![](images/upload_007-300x51.png)](http://techwriter.pl/wp-content/uploads/2020/10/upload_007.png)
+![](images/upload_007-300x51.png)
 
 Kliknięcie na przycisk **Recent** ukrywa panel. Kliknij prawym przyciskiem obok
 miniatury, by dostosować rozmiar miniatur. Kliknięcie prawym przyciskiem na

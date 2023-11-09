@@ -26,4 +26,4 @@ wyświetlić w pełnej rozdzielczości) albo
 [bezpośrednio u źródła](http://www.pracuj.pl/praca/technical-writer-intern-krakow%2Coferta%2C4802235,oferta,4802235)
 (w pełnej krasie graficznej i z przyciskiem do aplikowania).
 
-[![tech_writer_intern_3ds](images/tech_writer_intern_3ds.png)](http://techwriter.pl/wp-content/uploads/2016/09/tech_writer_intern_3ds.png)
+![tech_writer_intern_3ds](images/tech_writer_intern_3ds.png)

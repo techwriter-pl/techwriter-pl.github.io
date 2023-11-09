@@ -77,4 +77,4 @@ A jeżeli chcecie zostać tylko przy starej, dobrej Wikipedii -
 
 Pamiętajcie jednak, że korzystanie z Wikipedii może być niebezpieczne! 😉
 
-[![Wikipedia](images/Wikipedia.jpeg)](http://techwriter.pl/wp-content/uploads/2015/01/Wikipedia.jpeg)
+![Wikipedia](images/Wikipedia.jpeg)

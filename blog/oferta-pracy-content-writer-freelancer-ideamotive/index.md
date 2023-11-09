@@ -26,4 +26,4 @@ znajdziecie również link do aplikowania). Aplikować możecie również poprze
 wysłanie swojego CV na
 adres [newhero@ideamotive.co](mailto:newhero@ideamotive.co).
 
-[![](images/Content-Writer_ideamotive.png)](http://techwriter.pl/wp-content/uploads/2018/11/Content-Writer_ideamotive.png)
+![](images/Content-Writer_ideamotive.png)

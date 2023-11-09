@@ -26,8 +26,8 @@ gościnny na temat zagrożeń jakie może nieść dokumentacja.
 
 ## Kilka słów o autorze
 
-[![](images/DSC_7675_fot_klaudyna_schubert-200x300.jpg)](http://techwriter.pl/wp-content/uploads/2018/10/DSC_7675_fot_klaudyna_schubert.jpg)Mateusz
-Olejarka, starszy specjalista ds. bezpieczeństwa IT w krakowskiej firmie
+![](images/DSC_7675_fot_klaudyna_schubert-200x300.jpg)Mateusz Olejarka, starszy
+specjalista ds. bezpieczeństwa IT w krakowskiej firmie
 [SecuRing](https://www.securing.pl). Zawodowo zajmuje się testowaniem
 bezpieczeństwa aplikacji webowych oraz mobilnych. Wcześniej, stał po drugiej
 stronie barykady. Jako programista brał udział w rozwoju i utrzymaniu platformy

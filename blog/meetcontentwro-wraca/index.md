@@ -40,7 +40,7 @@ przebranżowienia się, przez budowanie CV i szukanie potencjalnych pracodawców
 aż po przygotowanie się do samej rozmowy. Było też o najlepszych pytaniach,
 które warto zadać rekrutującemu.
 
-[![](images/meet_content_wro-300x169.jpg)](http://techwriter.pl/wp-content/uploads/2022/12/meet_content_wro-scaled.jpg)
+![](images/meet_content_wro-300x169.jpg)
 
 Swoimi refleksjami podzielili się uczestnicy i uczestniczki panelu, doświadczeni
 specjaliści: Magda Miąc, Martyna Gatner-Siemieniuch, Monika Mrozek i Tomek Prus.

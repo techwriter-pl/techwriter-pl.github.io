@@ -24,29 +24,28 @@ niezwykle krótka lista tego co udało się zebrać.
 
 <!--truncate-->
 
-[![andy_richter](images/andy_richter-225x300.jpg)](http://techwriter.pl/wp-content/uploads/2015/04/andy_richter.jpg)
+![andy_richter](images/andy_richter-225x300.jpg)
 **[Andy Richter Controls the Universe](http://www.imdb.com/title/tt0307716/?ref_=nv_sr_2)
 (serial telewizyjny)** Andy pracuje w dużej firmie w Chicago i zarabia na życie
 tworząc dokumentację techniczną.
 
-[![tina](images/tina.gif)](http://techwriter.pl/wp-content/uploads/2015/04/tina.gif)
-**[Dilbert](http://dilbert.com/) (komiks)**
+![tina](images/tina.gif) **[Dilbert](http://dilbert.com/) (komiks)**
 [Tina](http://search.dilbert.com/comic/Tina), która jest Technical Writerem,
 pojawia się w ponad 170 odcinkach.
 
-[![AmbroseMonk1](images/AmbroseMonk1-300x220.png)](http://techwriter.pl/wp-content/uploads/2015/04/AmbroseMonk1.png)
+![AmbroseMonk1](images/AmbroseMonk1-300x220.png)
 **[Monk](http://www.imdb.com/title/tt0312172/?ref_=fn_al_tt_1) (serial
 telewizyjny)** [Ambrose Monk](http://www.imdb.com/character/ch0101229/bio), brat
 głównego bohatera Adriana Monka, jest Technical Writerem, który pisze instrukcje
 obsługi blenderów, tosterów i pistoletów.
 
-[![jessup_technical_writer](images/jessup_technical_writer.jpg)](http://techwriter.pl/wp-content/uploads/2015/04/jessup_technical_writer.jpg)
+![jessup_technical_writer](images/jessup_technical_writer.jpg)
 **[The Technical Writer](http://www.imdb.com/title/tt0328515/?ref_=fn_al_tt_1)
 (film)** Slim (Tatum O'Neal), znudzona życiem gospodyni domowa, stara się
 wywabić z mieszkania Jessupa (Michael Harris), cierpiącego na agorafobię
 Technical Writera, w samo serce Nowego Jorku.
 
-[![wallace_whatif](images/wallace_whatif-215x300.jpg)](http://techwriter.pl/wp-content/uploads/2015/04/wallace_whatif.jpg)
+![wallace_whatif](images/wallace_whatif-215x300.jpg)
 **[What If](http://www.imdb.com/title/tt1486834/?ref_=fn_al_tt_1) (film)**
 Wallace (Daniel Radcliffe), po tym jak został wyrzucony ze szkoły medycznej,
 zarabia na życie pisząc instrukcje.

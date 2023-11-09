@@ -20,20 +20,20 @@ autor tego wpisu gościnnego.
 
 ## Kilka słów o autorze
 
-[![](images/waleksander-foto-300x200.jpg)](http://techwriter.pl/wp-content/uploads/2019/01/waleksander-foto.jpg)Wojtek
-Aleksander to trener UX writing, projektant i strateg treści. Budowanie
-doświadczeń słowem to jego żywioł. Od niemal 20 lat wkręcony w interakcje,
-struktury i systemy. Obecnie jest liderem zespołu projektującego treści w jednej
-z gdańskich firm. W przeszłości zajmował się technical writingiem, architekturą
-informacji, projektowaniem interakcji, a także składem i łamaniem tekstów.
-Wspiera projekty enterprise, SMB i startupy. Udziela się online jako autor
-tekstów o projektowaniu treści. W realu działa jako trener UX writing i content
-design. Występował m.in. na konferencjach soap! i WUD Trójmiasto oraz
-spotkaniach MeetContent i Tipi UX. Jest autorem pierwszego w Polsce
-[kursu UX writing](https://www.waleksander.design/ux-writing.html). Na dodatek
-prowadzi jeszcze meetup [uContentowani](https://facebook.com/uContentowani) dla
-twórców treści z rejonu Trójmiasta. Po godzinach trwoni czas na Instagramie lub
-odrabia z dziećmi lekcje. Z Wojtkiem możecie się skontakować na
+![](images/waleksander-foto-300x200.jpg)Wojtek Aleksander to trener UX writing,
+projektant i strateg treści. Budowanie doświadczeń słowem to jego żywioł. Od
+niemal 20 lat wkręcony w interakcje, struktury i systemy. Obecnie jest liderem
+zespołu projektującego treści w jednej z gdańskich firm. W przeszłości zajmował
+się technical writingiem, architekturą informacji, projektowaniem interakcji, a
+także składem i łamaniem tekstów. Wspiera projekty enterprise, SMB i startupy.
+Udziela się online jako autor tekstów o projektowaniu treści. W realu działa
+jako trener UX writing i content design. Występował m.in. na konferencjach soap!
+i WUD Trójmiasto oraz spotkaniach MeetContent i Tipi UX. Jest autorem pierwszego
+w Polsce [kursu UX writing](https://www.waleksander.design/ux-writing.html). Na
+dodatek prowadzi jeszcze meetup
+[uContentowani](https://facebook.com/uContentowani) dla twórców treści z rejonu
+Trójmiasta. Po godzinach trwoni czas na Instagramie lub odrabia z dziećmi
+lekcje. Z Wojtkiem możecie się skontakować na
 [Linkedin](https://www.linkedin.com/in/waleksander/),
 [Twitterze](https://twitter.com/inherentq) lub
 [jego stronie](https://www.waleksander.design/kontakt.html).

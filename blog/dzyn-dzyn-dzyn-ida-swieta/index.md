@@ -20,19 +20,18 @@ nasze specjalne pozdrowienia z dedykacją.
 Dla początkujących techwriterów - abyście nie przejmowali się trudnościami,
 ponieważ w drodze do mistrzostwa liczą się także pierwsze kroki 😉
 
-[![](images/piesek-246x300.jpg)](http://techwriter.pl/wp-content/uploads/2021/12/piesek.jpg)
+![](images/piesek-246x300.jpg)
 
 Dla tłumaczy i specjalistów lokalizacji, ponieważ tłumaczenia maszynowe nigdy
 Was nie zastąpią.
 
-[![](images/tlumoczenie.jpg)](http://techwriter.pl/wp-content/uploads/2021/12/tlumoczenie.jpg)Dla
-zmieniających pracę:
+![](images/tlumoczenie.jpg)Dla zmieniających pracę:
 
-[![](images/nowapraca-300x268.jpg)](http://techwriter.pl/wp-content/uploads/2021/12/nowapraca.jpg)
+![](images/nowapraca-300x268.jpg)
 
 Dla nas wszystkich, aby sens i wartość naszej pracy były rozumiane i doceniane:
 
-[![](images/czytanie-300x300.jpg)](http://techwriter.pl/wp-content/uploads/2021/12/czytanie.jpg)
+![](images/czytanie-300x300.jpg)
 
 A jeśli chcecie sobie przypomnieć, co wspólnego ma święty Mikołaj z technical
 writerem, zajrzyjcie

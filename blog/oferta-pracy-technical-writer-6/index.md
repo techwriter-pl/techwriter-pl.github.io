@@ -19,4 +19,4 @@ ogłoszenia można znaleźć
 
 <!--truncate-->
 
-[![ofertapracysmart4aviation](images/ofertapracysmart4aviation.png)](http://techwriter.pl/wp-content/uploads/2015/02/ofertapracysmart4aviation.png)
+![ofertapracysmart4aviation](images/ofertapracysmart4aviation.png)

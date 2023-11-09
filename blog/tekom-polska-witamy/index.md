@@ -98,4 +98,4 @@ minęło wiele czasu, a dostaliśmy taki list:
 
 Podejmiecie wyzwanie?
 
-[![ciezarowe](images/ciezarowe.jpg)](http://techwriter.pl/wp-content/uploads/2014/06/ciezarowe.jpg)
+![ciezarowe](images/ciezarowe.jpg)
