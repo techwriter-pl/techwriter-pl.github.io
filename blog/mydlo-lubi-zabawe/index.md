@@ -118,9 +118,8 @@ organizacyjnych, prezentacje będziemy przedstawiać w kolejnych artykułach.
 Widać, że organizatorzy angażują się z zapałem w całe wydarzenie i podchodzą do
 tego profesjonalnie, ale bez tzw. kołka w... co doskonale widać poniżej.
 
-[![_DSC7032](images/DSC7032.jpg)](http://techwriter.pl/wp-content/uploads/2014/10/DSC7032.jpg)
-Były drobne niedociągnięcia, ale nic takiego o czym warto byłoby się rozpisywać.
-Poza tym takie techniczne potknięcia są wpisane w obraz tego typu wydarzeń.
-Krótko mówiąc, kawa dobra, jadło smaczne, ludzie fajni, atmosfera luźna i
-przyjazna. Potwierdzamy to o czym śpiewały Fasolki, mydło zdecydowanie lubi
-zabawę. Na pewno wrócimy w przyszłym roku.
+![_DSC7032](images/DSC7032.jpg) Były drobne niedociągnięcia, ale nic takiego o
+czym warto byłoby się rozpisywać. Poza tym takie techniczne potknięcia są
+wpisane w obraz tego typu wydarzeń. Krótko mówiąc, kawa dobra, jadło smaczne,
+ludzie fajni, atmosfera luźna i przyjazna. Potwierdzamy to o czym śpiewały
+Fasolki, mydło zdecydowanie lubi zabawę. Na pewno wrócimy w przyszłym roku.

@@ -49,7 +49,7 @@ Niedługo potem miałem zresztą okazję do zebrania nowych przemyśleń, w prak
 sposób obcując z tematem z pozycji kandydata. Po latach udanej kariery
 postanowiłem poszukać dla siebie nowej przystani, wziąłem więc udział w kilku
 procesach rekrutacyjnych, co ostatecznie zaowocowało angażem w Hitachi
-Energy.[![](images/upload_041.png)](http://techwriter.pl/wp-content/uploads/2022/08/upload_041.png)
+Energy.![](images/upload_041.png)
 
 Jak wybrać najlepszego technical writera? Czy ten kandydat najlepiej poradzi
 sobie z e-learningiem, API, tool manualami, instrukcjami do software'u,
@@ -109,7 +109,7 @@ tego, jak pracodawcy do tego podchodzą.
 
 ## Potrzebny pisemny sprawdzian - pomysły na testy
 
-[![](/img/cover/test-300x199-1.jpg)](http://techwriter.pl/wp-content/uploads/2022/12/test-300x199-1.jpg)
+![](/img/cover/test-300x199-1.jpg)
 
 Przegląd pomysłów rozpoczniemy od tych najbardziej odbiegających od codziennych
 obowiązków technical writera, aż po najbardziej realistyczne symulacje
@@ -280,11 +280,11 @@ nie jest to celowa pułapka, a tylko drobna kwestia do wyjaśnienia. Inicjatywa
 jest dobrze oceniana. Brak wyjaśnienia może utrudnić Ci wykonanie testu i
 obniżyć liczbę zdobytych punktów.
 
-[![](images/upload_0238-1024x725.png)](http://techwriter.pl/wp-content/uploads/2022/12/upload_0238.png)
+![](images/upload_0238-1024x725.png)
 
 ## Wynik może być tylko jeden:
 
-[![](images/upload_0245-1024x749.png)](http://techwriter.pl/wp-content/uploads/2022/12/upload_0245.png)
+![](images/upload_0245-1024x749.png)
 
 Tworząc ten mem uświadomiłem sobie, że niewiele wspominałem o sprawdzaniu
 znajomości specjalistycznych narzędzi tech writingowych (HAT - Help Authoring

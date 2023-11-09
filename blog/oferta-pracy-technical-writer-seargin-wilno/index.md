@@ -22,4 +22,4 @@ na umowę B2B na okres trzech miesięcy, z możliwością przedłużenia. Stawk
 
 Więcej szczegółów na temat oferty znajdziecie poniżej. Aplikować możecie poprzez
 wysłanie CV w języku angielskim na
-adres [liliya.savytska@seargin.com](mailto:liliya.savytska@seargin.com).[![](images/Technical-Writer..-1.png)](http://techwriter.pl/wp-content/uploads/2018/12/Technical-Writer..-1.png)
+adres [liliya.savytska@seargin.com](mailto:liliya.savytska@seargin.com).![](images/Technical-Writer..-1.png)

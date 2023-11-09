@@ -23,6 +23,6 @@ Na stronie [ditawriter.com](http://www.ditawriter.com/) natknęliśmy się na
 Poniżej wklejamy tylko pierwszą trzydziestkę - warto zajrzeć na stronę i
 przejrzeć całą listę oraz zrozumieć w jaki sposób została stworzona.
 
-[![TechWritingToolsRanking](images/TechWritingToolsRanking.jpg)](http://techwriter.pl/wp-content/uploads/2014/09/TechWritingToolsRanking.jpg)
+![TechWritingToolsRanking](images/TechWritingToolsRanking.jpg)
 
 Wnioski wyciągnijcie sami.

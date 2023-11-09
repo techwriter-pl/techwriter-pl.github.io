@@ -56,7 +56,7 @@ interesującą nas zawartość. Nową sekcją może być:
 - Jedna lub więcej Stron
 - Link
 
-[![Documentor Guide creation](images/Documentor-Guide-creation-1024x452.png)](http://techwriter.pl/wp-content/uploads/2015/09/Documentor-Guide-creation.png)_Tworzenie
+![Documentor Guide creation](images/Documentor-Guide-creation-1024x452.png)_Tworzenie
 Guide Documentora_
 
 Przykładowo: by dodać sekcje z użyciem istniejących Postów, wchodzimy do menu
@@ -71,8 +71,8 @@ sekcji „Manage” podglądamy „Shortcode” przy wybranym dokumencie, znajd
 kod potrzebny do osadzenia i wklejamy bezpośrednio do zawartości naszej strony.
 Documentor wygeneruje potrzebny wygląd dokumentu.
 
-[![documentor view](images/documentor-view-1024x795.png)](http://techwriter.pl/wp-content/uploads/2015/09/documentor-view.png)_Wygenerowany
-dokument na stronie_
+![documentor view](images/documentor-view-1024x795.png)_Wygenerowany dokument na
+stronie_
 
 ## Opcje
 

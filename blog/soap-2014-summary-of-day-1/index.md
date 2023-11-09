@@ -20,7 +20,7 @@ After our general summary, it’s time to get down to the nitty-gritty. Today we
 are providing you with a short overview of the presentations that were delivered
 during the first day of [the soap! 2014 conference](http://soapconf.com/).
 
-[![soap! 2014 audience](images/DSC6686-1024x489.jpg)](http://techwriter.pl/wp-content/uploads/2014/10/DSC6686.jpg)
+![soap! 2014 audience](images/DSC6686-1024x489.jpg)
 
 ### Games not only for kids
 
@@ -57,7 +57,7 @@ programmers, [Ribbon Hero 2](http://www.ribbonhero.com/) – the great return of
 the well-known Clippy from MS Office, and the
 [Stack Overflow portal](http://stackoverflow.com/).
 
-[![SoapMonikaKonieczny](images/SoapMonikaKonieczny.jpg)](http://techwriter.pl/wp-content/uploads/2014/10/SoapMonikaKonieczny.jpg)
+![SoapMonikaKonieczny](images/SoapMonikaKonieczny.jpg)
 
 ### Plenty is sometimes a plague
 
@@ -82,7 +82,7 @@ times. At the end, a warning from the presentation: never show a model of an
 application that is too similar to the final version because the clients will
 want to have the application immediately.
 
-[![SoapKasiaMrowca](images/SoapKasiaMrowca.jpg)](http://techwriter.pl/wp-content/uploads/2014/10/SoapKasiaMrowca.jpg)
+![SoapKasiaMrowca](images/SoapKasiaMrowca.jpg)
 
 ### Learning by entertaining
 
@@ -110,7 +110,7 @@ of a game. Another example was [Lifesaver](https://life-saver.org.uk) – a game
 in the form of a movie that teaches how to make proper choices in emergency
 situations that we can encounter in everyday life.
 
-[![SoapSabinaMisiarzFilipek](images/SoapSabinaMisiarzFilipek.png)](http://techwriter.pl/wp-content/uploads/2014/10/SoapSabinaMisiarzFilipek.png)
+![SoapSabinaMisiarzFilipek](images/SoapSabinaMisiarzFilipek.png)
 
 ### The power of the diagram
 
@@ -139,7 +139,7 @@ presentation, Kevin gave many other examples that came from his book
 diagrams, we’ve also learned one more important thing. Using the word s\*\*t
 isn't out of place during a presentation 😉
 
-[![SoapKevinDuncan](images/SoapKevinDuncan.jpg)](http://techwriter.pl/wp-content/uploads/2014/10/SoapKevinDuncan.jpg)
+![SoapKevinDuncan](images/SoapKevinDuncan.jpg)
 
 ### Valuable experience
 
@@ -154,6 +154,6 @@ part that isn’t limited to a particular technology. Then, the speakers present
 the process of creating user experience and showed how the role of a technical
 writer changed in that process.
 
-[![SoapRajeevRajesh](images/SoapRajeevRajesh.jpg)](http://techwriter.pl/wp-content/uploads/2014/10/SoapRajeevRajesh.jpg)
+![SoapRajeevRajesh](images/SoapRajeevRajesh.jpg)
 
 Translated: Agnieszka Tkaczyk Proofread: Paweł Kowaluk

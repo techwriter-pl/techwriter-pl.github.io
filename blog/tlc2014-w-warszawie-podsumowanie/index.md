@@ -75,12 +75,12 @@ Załączamy zdjęcia, abyście lepiej mogli poczuć klimat.
 
 Widok na audytorium podczas jednej z prelekcji:
 
-[![TLC2014prelekcja](images/TLC2014prelekcja-300x168.jpg)](http://techwriter.pl/wp-content/uploads/2014/04/TLC2014prelekcja.jpg)
+![TLC2014prelekcja](images/TLC2014prelekcja-300x168.jpg)
 
 CEO Tekom Europe, Michael Fritz podczas swojego wykładu o branży
 dokumentacyjnej:
 
-[![TLC2014Fritz](images/TLC2014Fritz-300x168.jpg)](http://techwriter.pl/wp-content/uploads/2014/04/TLC2014Fritz.jpg)
+![TLC2014Fritz](images/TLC2014Fritz-300x168.jpg)
 
 Warto dodać, że w czasie trwania konferencji oficjalnie ogłoszono rozpoczęcie
 działalności tekom Polska - polskiej gałęzi organizacji o której

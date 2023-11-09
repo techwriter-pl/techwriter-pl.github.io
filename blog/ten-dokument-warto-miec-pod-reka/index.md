@@ -32,4 +32,4 @@ Czekamy na instrukcje obsługi oka Saurona i materiały treningowe dla Rocky'ego
 
 A na poprawę humoru od wtorku - ciasteczka:
 
-[![GwiazdaSmierci](images/GwiazdaSmierci-300x278.jpg)](http://techwriter.pl/wp-content/uploads/2013/11/GwiazdaSmierci.jpg)
+![GwiazdaSmierci](images/GwiazdaSmierci-300x278.jpg)

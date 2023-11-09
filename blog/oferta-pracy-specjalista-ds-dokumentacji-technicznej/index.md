@@ -33,4 +33,4 @@ aplikacyjnego: [https://praca.ericpol.com/1099](https://praca.ericpol.com/1099)
 
 Powodzenia!
 
-[![ericpol_techwriter_updated](images/ericpol_techwriter_updated.png)](http://techwriter.pl/wp-content/uploads/2016/01/ericpol_techwriter_updated.png)
+![ericpol_techwriter_updated](images/ericpol_techwriter_updated.png)

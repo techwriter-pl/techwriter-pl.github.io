@@ -34,7 +34,7 @@ płacowe. Mamy nadzieję, że zaoszczędzi to trochę czasu i nerwów wszystkim
 czytelnikom.
 
 Dołączajcie śmiało, przeczytajcie opis i krótki regulamin i napiszcie chociaż
-"Cześć, jestem z <nazwa Waszej miejscowości>!" 😊. Niczym nie ryzykujecie (z
+"Cześć, jestem z `<nazwa Waszej miejscowości>`!" 😊. Niczym nie ryzykujecie (z
 grupy zawsze można się wypisać), a jest szansa, że razem znów uda nam się zrobić
 coś pożytecznego i zabawnego 😊.
 

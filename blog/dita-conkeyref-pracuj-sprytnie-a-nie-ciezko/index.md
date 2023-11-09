@@ -37,13 +37,13 @@ rozjaśnić o co chodzi.
 Załóżmy, że mamy topik wymieniający produkty, które sprzedajemy. Ten topik jest
 używany we wszystkich naszych publikacjach i wygląda tak:
 
-[![generic-products-we-sell](images/generic-products-we-sell.png)](http://techwriter.pl/wp-content/uploads/2016/09/generic-products-we-sell.png)
+![generic-products-we-sell](images/generic-products-we-sell.png)
 
 Nasze produkty nazywają się F-class G600 Router i F-class S9000 Switch. Jednak
 nasz zespół marketingowy na Europę stwierdził, że to nudne nazwy i postanowił
 sprzedawać te same produkty jako Sparrowhawk i Athena Rising.
 
-[![european-products-we-sell](images/european-products-we-sell.png)](http://techwriter.pl/wp-content/uploads/2016/09/european-products-we-sell.png)
+![european-products-we-sell](images/european-products-we-sell.png)
 
 Co teraz? W tej sytuacji możemy właśnie wykorzystać conkeyref do wstawienia nazw
 produktów, dzięki czemu będziemy mogli używać nowych nazw na rynku europejskim a
@@ -74,7 +74,7 @@ bibliotekami, bo zawierają zasoby wykorzystywane przez mechanizmy DITA. Nie są
 to topiki, które czytają nasi użytkownicy. Ich struktura wygląda dość roboczo,
 na przykład tak:
 
-[![topik w easyDITA, zawiera tabelkę z nazwami produktów](images/topic.png)](http://techwriter.pl/wp-content/uploads/2016/09/topic.png)
+![topik w easyDITA, zawiera tabelkę z nazwami produktów](images/topic.png)
 
 Topik, który rzeczywiście trafi do naszego manuala to inny topik opisany
 poniżej. Jest on wpięty do mapy na samym początku pierwszego rozdziału.

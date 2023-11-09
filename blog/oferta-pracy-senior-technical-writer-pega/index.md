@@ -28,4 +28,4 @@ Jeśli potrzebujecie więcej szczegółów, możecie pisać na
 adres **[Piotr.Sroka@pega.com](mailto:Piotr.Sroka@pega.com)** lub dzwonić na
 numer **516 182 504**.
 
-[![](images/senior_tech_writer_pega.png)](http://techwriter.pl/wp-content/uploads/2017/12/senior_tech_writer_pega.png)
+![](images/senior_tech_writer_pega.png)

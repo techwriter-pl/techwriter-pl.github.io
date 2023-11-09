@@ -57,7 +57,7 @@ komunikacji technicznej. Dla początkujących i nie tylko miała kilka rad:
   się z nimi żyć i bądź na bieżąco. Jesteśmy w końcu **technical**
   communicators, więc technologia to część naszej pracy.
 
-[![Sala wystawowa w hotelu konferencyjnym](images/20160609_153158.jpg)](http://techwriter.pl/wp-content/uploads/2016/07/20160609_153158.jpg)
+![Sala wystawowa w hotelu konferencyjnym](images/20160609_153158.jpg)
 
 ## Gulasz
 
@@ -70,8 +70,8 @@ innych ciekawych miejsc, na które jednak nie mieliśmy już czasu. No i oczywi�
 można było dobrze zjeść.
 
 \[caption id="attachment_4611" align="aligncenter"
-width="5312"\][![Widok na Margiisziget](images/20160609_072313.jpg)](http://techwriter.pl/wp-content/uploads/2016/07/20160609_072313.jpg)
-Widok na miasto z wyspy Margitsziget\[/caption\]
+width="5312"\]![Widok na Margiisziget](images/20160609_072313.jpg) Widok na
+miasto z wyspy Margitsziget\[/caption\]
 
 ## Ogień
 

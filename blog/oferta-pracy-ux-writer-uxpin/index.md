@@ -33,4 +33,4 @@ wysłanie swojego CV i portfolio na
 adres [join@uxpin.com](mailto:join@uxpin.com) (w temacie wiadomości wpiszcie "UX
 Writer").
 
-[![](images/uxpin-tech-writer-1.png)](http://techwriter.pl/wp-content/uploads/2018/10/uxpin-tech-writer-1.png)
+![](images/uxpin-tech-writer-1.png)

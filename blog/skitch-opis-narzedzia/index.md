@@ -36,7 +36,7 @@ zrzutu ekranu jest dobrze wyróżniona, więc nie ma problemu z jej znalezieniem
 Poruszanie się po aplikacji jest intuicyjne i nie powoduje frustracji u nowego
 użytkownika.
 
-[![skitch1](images/skitch1-1024x731.png)](http://techwriter.pl/wp-content/uploads/2015/02/skitch1.png)
+![skitch1](images/skitch1-1024x731.png)
 
 ### Zrzucanie ekranu
 
@@ -50,7 +50,7 @@ ułatwia trafienie we właściwy fragment ekranu. Jest to zaskakujące, poniewa�
 taka opcja wydaje się być standardem nawet w darmowych aplikacjach tego typu.
 Jedynym ułatwieniem jest pozycja kursora w pionie i poziomie.
 
-[![skitch2](images/skitch2.png)](http://techwriter.pl/wp-content/uploads/2015/02/skitch2.png)
+![skitch2](images/skitch2.png)
 
 Ponadto zrobienie nowego zrzutu ekranu powoduje zamknięcie obecnie otwartego
 obrazu. Przez to nie ma możliwości zrobienia zrzutu i dołożenia go od razu do
@@ -65,7 +65,7 @@ strzałki, kształty, zakreślenie, wyróżnienie, różne emblematy graficzne c
 pikselozę 😊 Tak właśnie w programie została przetłumaczona na polski opcja
 pozwalająca na rozmycie części obrazu.
 
-[![skitch3](images/skitch3.png)](http://techwriter.pl/wp-content/uploads/2015/02/skitch3.png)
+![skitch3](images/skitch3.png)
 
 Podstawowa paleta daje nam do wyboru kilka dobrze wyróżniających się kolorów. W
 trybie zaawansowanym możemy wybrać już dowolny kolor. Obrazki można łatwo
@@ -73,7 +73,7 @@ przycinać i skalować. Jednak sama opcja zmiany rozmiaru obrazka jest uboga.
 Można tylko użyć suwaka, który skaluje obraz z zachowaniem proporcji. Nie można
 zmienić niezależnie wysokości i szerokości ani wybrać jednostek.
 
-[![skitch4](images/skitch4.png)](http://techwriter.pl/wp-content/uploads/2015/02/skitch4.png)
+![skitch4](images/skitch4.png)
 
 ### Zapisywanie i udostępnianie
 
@@ -85,7 +85,7 @@ przeciągnąć obrazek w żądane miejsce. Na przykład można go przeciągnąć
 co spowoduje zachowanie go do pliku w formacie JPG lub do programu pocztowego
 dzięki czemu zostanie on wstawiony od razu do e-maila.
 
-[![skitch55](images/skitch55-1024x276.png)](http://techwriter.pl/wp-content/uploads/2015/02/skitch55.png)
+![skitch55](images/skitch55-1024x276.png)
 
 Nasze obrazki możemy też udostępniać na Facebooku, Twitterze czy LinkedIn.
 Niestety aplikacja nie oferuje możliwości zachowywania warstw, co według nas
@@ -100,7 +100,7 @@ minimalizowanie okna aplikacji do paska zadań po jej zamknięciu, automatyczne
 sprawdzanie aktualizacji oraz łączenie się do internetu za pomocą proxy. Próżno
 szukać ustawień dotyczących łapania kursora czy skrótów klawiszowych.
 
-[![skitch6](images/skitch6.png)](http://techwriter.pl/wp-content/uploads/2015/02/skitch6.png)
+![skitch6](images/skitch6.png)
 
 ### Spolszczenie interfejsu
 

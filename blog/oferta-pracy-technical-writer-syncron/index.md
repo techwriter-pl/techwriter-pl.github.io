@@ -33,5 +33,4 @@ Dodatkowe informacje o firmie:
 Szczegółowe informacje dotyczące tej oferty znajdziecie poniżej (kliknijcie
 obrazek, żeby go wyświetlić w pełnej rozdzielczości). Aplikować możecie pisząc
 na adres [rekrutacja@syncron.com](mailto:rekrutacja@syncron.com). Pod tym
-adresem uzyskacie też odpowiedzi na wszystkie
-pytania.[![](images/syncron-1.png)](http://techwriter.pl/wp-content/uploads/2018/01/syncron-1.png)
+adresem uzyskacie też odpowiedzi na wszystkie pytania.![](images/syncron-1.png)

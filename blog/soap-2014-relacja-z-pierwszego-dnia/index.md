@@ -16,7 +16,7 @@ przedstawiamy skrótowo prezentacje z pierwszego dnia konferencji
 
 <!--truncate-->
 
-[![soap! 2014 audience](images/DSC6686-1024x489.jpg)](http://techwriter.pl/wp-content/uploads/2014/10/DSC6686.jpg)
+![soap! 2014 audience](images/DSC6686-1024x489.jpg)
 
 ### Gry nie tylko dla dzieci
 
@@ -52,7 +52,7 @@ podała komiks dla programistów Ruby,
 [Ribbon Hero 2](http://www.ribbonhero.com/), czyli wielki powrót spinacza z
 pakietu Office, oraz portal [Stack Overflow](http://stackoverflow.com/).
 
-[![SoapMonikaKonieczny](images/SoapMonikaKonieczny.jpg)](http://techwriter.pl/wp-content/uploads/2014/10/SoapMonikaKonieczny.jpg)
+![SoapMonikaKonieczny](images/SoapMonikaKonieczny.jpg)
 
 ### Od przybytku głowa czasem boli
 
@@ -75,7 +75,7 @@ pamiętajmy o wspólnym celu. A na koniec przestroga z prezentacji: nigdy nie
 pokazujmy klientowi modelu aplikacji, która wygląda podobnie do finalnej wersji,
 bo klient będzie chciał mieć aplikację na jutro 😊
 
-[![SoapKasiaMrowca](images/SoapKasiaMrowca.jpg)](http://techwriter.pl/wp-content/uploads/2014/10/SoapKasiaMrowca.jpg)
+![SoapKasiaMrowca](images/SoapKasiaMrowca.jpg)
 
 ### Uczyć bawiąc
 
@@ -104,7 +104,7 @@ był kurs wprowadzający dla nowych pracowników w formie gry. Kolejny to
 nauczyć widzów dokonywania właściwych wyborów w sytuacjach awaryjnych, które
 mogą mieć miejsce w życiu codziennym.
 
-[![SoapSabinaMisiarzFilipek](images/SoapSabinaMisiarzFilipek.png)](http://techwriter.pl/wp-content/uploads/2014/10/SoapSabinaMisiarzFilipek.png)
+![SoapSabinaMisiarzFilipek](images/SoapSabinaMisiarzFilipek.png)
 
 ### Moc płynąca z diagramu
 
@@ -133,7 +133,7 @@ które pochodziły z jego książki
 diagrami, nauczyliśmy się jeszcze jednej ważnej rzeczy. Użycie słowa s\*\*t
 podczas prezentacji nie jest niczym zdrożnym 😉
 
-[![SoapKevinDuncan](images/SoapKevinDuncan.jpg)](http://techwriter.pl/wp-content/uploads/2014/10/SoapKevinDuncan.jpg)
+![SoapKevinDuncan](images/SoapKevinDuncan.jpg)
 
 ### Cenne doświadczenie
 
@@ -150,6 +150,6 @@ technologii. W dalszej części prezentacji, prowadzący przedstawili proces
 tworzenia user experience, na którym pokazali jak zmienił się udział technical
 writera w całym procesie.
 
-[![SoapRajeevRajesh](images/SoapRajeevRajesh.jpg)](http://techwriter.pl/wp-content/uploads/2014/10/SoapRajeevRajesh.jpg)
+![SoapRajeevRajesh](images/SoapRajeevRajesh.jpg)
 
 Już wkrótce relacja z drugiego dnia konferencji.

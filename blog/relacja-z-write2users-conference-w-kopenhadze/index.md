@@ -35,7 +35,7 @@ otrzymał darmową, nielimitowaną wejściówkę do zoo na czas trwania konferen
 Jednak żeby zobaczyć wielbłądy, wystarczyło spojrzeć za okno w trakcie
 warsztatów.
 
-[![](images/lew-e1511220921437-1024x683.jpg)](http://techwriter.pl/wp-content/uploads/2017/11/lew-e1511220921437.jpg)
+![](images/lew-e1511220921437-1024x683.jpg)
 
 Właściwie wszystkie drugoplanowe detale organizacyjne (królewski bufet,
 atrakcyjne lunche, materiały promocyjne, czy nawet oficjalna oprawa
@@ -66,7 +66,7 @@ niż zwykliśmy sądzić.
 
 Scott to świetny wybór na energiczny początek konferencji.
 
-[![](images/W2Uconf_65A0940_preview-1024x683.jpeg)](http://techwriter.pl/wp-content/uploads/2017/11/W2Uconf_65A0940_preview.jpeg)
+![](images/W2Uconf_65A0940_preview-1024x683.jpeg)
 
 Część _MadWriters_ zawierała również warsztaty z Flare’a, prowadzone przez
 [Per Harbo Sorensena](https://twitter.com/perhsorensen), energetycznego
@@ -98,7 +98,7 @@ typowej dla technical writerów tendencji do przedkładania teorii nad praktykę
 Mogliśmy na przykład przekonać się, jak bezlitośni bywają użytkownicy dla źle
 działających wyszukiwarek.
 
-[![](images/IMG_2945-1024x768.jpg)](http://techwriter.pl/wp-content/uploads/2017/11/IMG_2945-e1511221047925.jpg)
+![](images/IMG_2945-1024x768.jpg)
 
 Ellis Pratt z [Cherryleaf](https://www.cherryleaf.com/) zastanawiał się nad
 wpływem metodologii Agile na poczciwe życie technical writera. Za przykład
@@ -107,7 +107,7 @@ możliwości (i utrapienia) związane z tworzeniem dokumentacji na "agile'ową
 modłę". Wspomniał też, że technical writerzy są naprawdę kiepscy w mierzeniu
 wartości swojej własnej pracy (czy aby nie ma trochę racji?).
 
-[![](images/1-1024x683.jpeg)](http://techwriter.pl/wp-content/uploads/2017/11/1.jpeg)
+![](images/1-1024x683.jpeg)
 
 Pod nieobecność Mattiasa Sandersa, Ellis wystąpił również z inną prezentacją,
 zatytułowaną _Documentation as self-service support_, w której mówił o starym
@@ -134,7 +134,7 @@ daleką drogę. Anders wyjaśniał, na czym polegają wciąż nierozwiązane pro
 MT, a także pokazał, dlaczego trenowanie sieci neuronowych nie jest tak proste,
 jakie się wydaje.
 
-[![](images/7518837728_IMG_1494-e1511220538255.jpg)](http://techwriter.pl/wp-content/uploads/2017/11/7518837728_IMG_1494-e1511220538255.jpg)
+![](images/7518837728_IMG_1494-e1511220538255.jpg)
 
 Po prezentacjach przyszła pora na warsztaty, na przykład dotyczące Automatic
 Terminology Extraction (ATR), czyli automatycznego wyciągania terminologii z
@@ -146,7 +146,7 @@ się z darmowym narzędziem
 całej zawartości Wikipedii we wszystkich dostępnych językach i przedyskutować
 praktyczne aspekty różnych narzędzi ATR.
 
-[![](images/W2Uconf_65A1187_preview-1024x683.jpeg)](http://techwriter.pl/wp-content/uploads/2017/11/W2Uconf_65A1187_preview-e1511255964723.jpeg)
+![](images/W2Uconf_65A1187_preview-1024x683.jpeg)
 
 Na wzmiankę z pewnością zasługuje też prezentacja Steena Schnacka z
 [LanguageWire](https://www.languagewire.com/en), który podzielił się z nami
@@ -161,7 +161,7 @@ tłumaczenie adresów URL.
 
 ## Duńczycy nie próżnują!
 
-[![](images/W2Uconf_65A1122_preview-683x1024.jpeg)](http://techwriter.pl/wp-content/uploads/2017/11/W2Uconf_65A1122_preview.jpeg)
+![](images/W2Uconf_65A1122_preview-683x1024.jpeg)
 
 Wygląda na to, że Write2Users Conference zasługuje na miano jednego z
 najjaśniejszych punktów na tech-commowej mapie Europy. Świetnie zorganizowana,

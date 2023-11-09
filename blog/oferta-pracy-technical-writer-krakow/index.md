@@ -26,4 +26,4 @@ przez wysłanie swojego CV na adres
 
 Powodzenia!
 
-[![](images/Technical-Writers-mid-level.png)](http://techwriter.pl/wp-content/uploads/2017/09/Technical-Writers-mid-level.png)
+![](images/Technical-Writers-mid-level.png)

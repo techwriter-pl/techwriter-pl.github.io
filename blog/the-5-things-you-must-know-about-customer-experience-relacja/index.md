@@ -40,7 +40,7 @@ zakupione urządzenia bez podawania powodu. Jednocześnie inne badania wykazują
 nieudanych prób jego obsługi. Koszty jakie firmy ponoszą przez takie zwroty są
 ogromne.
 
-[![Angry_with_phone](images/Angry_with_phone.jpg)](http://techwriter.pl/wp-content/uploads/2014/05/Angry_with_phone.jpg)
+![Angry_with_phone](images/Angry_with_phone.jpg)
 
 Co dzieje się podczas tych 20 minut? Według Sharon rozstrzyga się kwestia czy
 klient czuje się pewny danego produktu, czy widzi w nim rozwiązanie swojego

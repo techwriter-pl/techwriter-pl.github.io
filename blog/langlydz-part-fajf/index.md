@@ -41,12 +41,11 @@ się urodzi?
 
 Powyższy opis często przedstawia się w formie prostego diagramu:
 
-[![isiuflol](images/isiuflol-300x231.gif)](http://techwriter.pl/wp-content/uploads/2014/02/isiuflol.gif)Skomplikowane?
-Bez trwogi, z każdej sytuacji istnieje wyjście, a cykl życia isiusów nie jest
-tutaj wyjątkiem. Wzorem Aleksandra Macedońskiego możecie wybrnąć z tej sytuacji
-jednym zgrabnym pociągnięciem myszki.
+![isiuflol](images/isiuflol-300x231.gif)Skomplikowane? Bez trwogi, z każdej
+sytuacji istnieje wyjście, a cykl życia isiusów nie jest tutaj wyjątkiem. Wzorem
+Aleksandra Macedońskiego możecie wybrnąć z tej sytuacji jednym zgrabnym
+pociągnięciem myszki.
 
-[![kansel](images/kansel-300x199.jpg)](http://techwriter.pl/wp-content/uploads/2014/02/kansel.jpg)Kanselując
-(_anulując, odwołując_) isiusa pozbywacie się problemu i odzyskujecie wigor,
-świeżość spojrzenia oraz wzmożoną chęć do pracy twórczej. Przynajmniej do czasu
-pojawienia się następnego 😊.
+![kansel](images/kansel-300x199.jpg)Kanselując (_anulując, odwołując_) isiusa
+pozbywacie się problemu i odzyskujecie wigor, świeżość spojrzenia oraz wzmożoną
+chęć do pracy twórczej. Przynajmniej do czasu pojawienia się następnego 😊.

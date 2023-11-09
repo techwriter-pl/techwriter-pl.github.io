@@ -31,7 +31,7 @@ pewne trendy.
 Chcemy prosić Was o anonimowe podanie danych o Waszych zarobkach. Zebranymi
 informacjami oczywiście się podzielimy.
 
-[![](images/kliknij-aby-wypełnić-ankietę.png)](https://docs.google.com/forms/d/e/1FAIpQLSehWlQ0DA4HAtR-VN3PD-y16_Cohzyispu_-zAFf7hlzQxcUg/viewform)
+[![](images/kliknij-aby-wypełnić-ankiete.png)](https://docs.google.com/forms/d/e/1FAIpQLSehWlQ0DA4HAtR-VN3PD-y16_Cohzyispu_-zAFf7hlzQxcUg/viewform)
 
 Ankieta jest
 dostępna [pod tym linkiem](https://docs.google.com/forms/d/e/1FAIpQLSehWlQ0DA4HAtR-VN3PD-y16_Cohzyispu_-zAFf7hlzQxcUg/viewform).

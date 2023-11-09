@@ -29,4 +29,4 @@ krasie graficznej i z przyciskiem do aplikowania).
 Aplikować można również pisząc na
 adres **[praca@infolet.pl](mailto:praca@infolet.pl)**.
 
-[![](images/infolet_tech_writer.png)](http://techwriter.pl/wp-content/uploads/2018/02/infolet_tech_writer.png)
+![](images/infolet_tech_writer.png)

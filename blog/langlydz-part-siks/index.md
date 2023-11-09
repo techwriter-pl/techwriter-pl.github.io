@@ -37,7 +37,7 @@ Generalnie jednak, jeżeli chcecie robić w pracy coś sensownego, to im mniej
 dependencji tym lepiej. Uniknąć ich raczej się nie da. Co prawda istnieją znane
 marki zbudowane wokół mitu braku dependencji ...
 
-[![TheIndependent](images/TheIndependent.jpg)](http://www.independent.co.uk/)
+![TheIndependent](images/TheIndependent.jpg)
 
 ... [ale to tylko pozory](http://pl.wikipedia.org/wiki/The_Independent) 😊.
 

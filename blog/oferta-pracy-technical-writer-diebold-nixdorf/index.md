@@ -26,4 +26,4 @@ obrazek, żeby go wyświetlić w pełnej rozdzielczości)
 albo [bezpośrednio u źródła](https://www.pracuj.pl/praca/technical-writer-katowice%2Coferta%2C5821467) (w
 pełnej krasie graficznej i z przyciskiem do aplikowania).
 
-[![](images/diebold-nixdorf-tw.png)](http://techwriter.pl/wp-content/uploads/2018/01/diebold-nixdorf-tw.png)
+![](images/diebold-nixdorf-tw.png)

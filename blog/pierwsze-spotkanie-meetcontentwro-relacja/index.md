@@ -36,7 +36,7 @@ Pierwszy meetup dotyczący pracy z contentem został zorganizowany przez
 koordynatorów wrocławskiej edycji meetupów MeetContent, Daniela Barrio Fierro,
 Wojtka Baranowskiego i Tomka Prusa.
 
-[![](images/MeetContentWRO1_2.jpg)](http://techwriter.pl/wp-content/uploads/2017/03/MeetContentWRO1_2.jpg)
+![](images/MeetContentWRO1_2.jpg)
 
 Klimat krakowskiego „Artefakt Cafe” udało się odnaleźć we wrocławskiej
 „Mleczarni”, a liczba gości pokazała, że we Wrocławiu jest spore zainteresowanie
@@ -49,7 +49,7 @@ communication (soapconf.com i meetcontent.org), **Wojtek Aleksander** –
 specjalista od UX w GetResponse oraz **Tomek Prus** – menedżer w dziale
 dokumentacji w Unit4.
 
-[![](images/MeetContentWRO1_1.jpg)](http://techwriter.pl/wp-content/uploads/2017/03/MeetContentWRO1_1.jpg)
+![](images/MeetContentWRO1_1.jpg)
 
 W formularzu rejestracyjnym goście odpowiadali na pytanie czym jest dla nich
 content:
@@ -90,7 +90,7 @@ wspólną powinno być „detektywistyczne” podejście do pracy. Gosia zwróci
 również uwagę, jak znajomość języka obcego otwiera szerokie możliwości w
 karierze związanej z contentem.
 
-[![](images/MeetContentWRO1_3.jpg)](http://techwriter.pl/wp-content/uploads/2017/03/MeetContentWRO1_3.jpg)
+![](images/MeetContentWRO1_3.jpg)
 
 Ciężkim tematem, z którym musieli zmierzyć się paneliści było pytanie o
 najtrudniejsze wyzwanie z jakim spotkali się w trakcie swojej kariery.

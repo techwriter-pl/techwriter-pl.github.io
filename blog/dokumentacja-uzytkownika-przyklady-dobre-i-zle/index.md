@@ -30,7 +30,7 @@ ich strony internetowe zdecydowanie nam się podobają. Można tam znaleźć
 tutorial
 "[How to Create Killer Documentation](http://docs.bluemangolearning.com/m/docs-that-rock)".
 
-[![killer_documentation](images/killer_documentation.jpg)](http://techwriter.pl/wp-content/uploads/2014/06/killer_documentation.jpg)
+![killer_documentation](images/killer_documentation.jpg)
 
 Ale nie o tym chcieliśmy... to co najbardziej przyciągnęło naszą uwagę to:
 

@@ -31,7 +31,7 @@ stała na wysokim poziomie. Proces rejestracji przebiegł bardzo sprawnie i po
 kilku minutach mogliśmy się już cieszyć naszym pakietem rejestracyjnym, w którym
 można było znaleźć m.in. koszulkę oraz kubek termiczny.
 
-[![](images/IMG_20170402_160115-768x1024.jpg)](http://techwriter.pl/wp-content/uploads/2017/05/IMG_20170402_160115.jpg)
+![](images/IMG_20170402_160115-768x1024.jpg)
 
 Jeśli chodzi o organizatorów, to byli bardzo otwarci i przyjaźni w stosunku do
 uczestników. W powietrzu można było wyczuć “amerykański luz”, który zachęcał,
@@ -50,11 +50,11 @@ ostatnio o integrację ze Slackiem, a
 [Flare](http://www.madcapsoftware.com/products/flare/), np. o nowości w skórce
 Top Nav i integrację z wyszukiwarką Google.
 
-[![](images/IMG_20170403_083744-1024x768.jpg)](http://techwriter.pl/wp-content/uploads/2017/05/IMG_20170403_083744.jpg)Następnie
-mikrofon przejęła **Jennifer Morse**, Product Evangelist w MadCap. Po omówieniu
-rzeczy organizacyjnych oddała scenę prelegentom. Każdy z nich pokrótce opowiadał
-o sobie i prezentacjach oraz warsztatach, które miał poprowadzić. Niekiedy były
-to mini stand-upy, które wzbudzały salwę śmiechu na sali. Poza rozrywkowym
+![](images/IMG_20170403_083744-1024x768.jpg)Następnie mikrofon przejęła
+**Jennifer Morse**, Product Evangelist w MadCap. Po omówieniu rzeczy
+organizacyjnych oddała scenę prelegentom. Każdy z nich pokrótce opowiadał o
+sobie i prezentacjach oraz warsztatach, które miał poprowadzić. Niekiedy były to
+mini stand-upy, które wzbudzały salwę śmiechu na sali. Poza rozrywkowym
 aspektem, ta część konferencji była świetną okazją, żeby przyjrzeć się
 dokładniej prezentacjom i oswoić się z prelegentami. Widząc tylko nazwisko na
 papierze możemy czasem czuć się onieśmieleni autorytetem i pozycją prowadzącego
@@ -105,7 +105,7 @@ układy okien (Layouts). Na przykład, możemy sobie stworzyć inny układ okien
 pracy na małym i dużym ekranie. Zasugerował nam też korzystanie z makr do
 wykonywania często powtarzanych operacji.
 
-[![](images/IMG_20170403_101100-1024x768.jpg)](http://techwriter.pl/wp-content/uploads/2017/05/IMG_20170403_101100.jpg)
+![](images/IMG_20170403_101100-1024x768.jpg)
 
 Po obfitym lunchu, powróciliśmy do sali na prezentację
 [**Daniela Fergusona**](http://www.madcapsoftware.com/events/madworld/speakers/daniel-ferguson/)
@@ -153,7 +153,7 @@ tagi są użyte. Taki raport jest eksportowany do CSV i na bieżąco aktualizowa
 czasu wypełniły pytania i dyskusja. Wygląda na to, że dla wielu osób proces
 recenzowania treści jest bardzo problematyczny.
 
-[![](images/IMG_20170403_110913-1024x768.jpg)](http://techwriter.pl/wp-content/uploads/2017/05/IMG_20170403_110913.jpg)
+![](images/IMG_20170403_110913-1024x768.jpg)
 
 Krótka przerwa, a po niej nastąpiła ostatnia poniedziałkowa prezentacja - **One
 Year with MadCap Flare: Problems, Solutions, & Other Fun Innovations**.
@@ -224,7 +224,7 @@ tego conceptu na stronie. Była to świetna prezentacja zarówno pod względem
 tematyki jak i sposobu przedstawienia. Na pewno będziemy przyglądać się bliżej
 temu zagadnieniu.
 
-[![](images/IMG_20170404_111507-1024x768.jpg)](http://techwriter.pl/wp-content/uploads/2017/05/IMG_20170404_111507.jpg)
+![](images/IMG_20170404_111507-1024x768.jpg)
 
 Po jQuery przyszedł czas na Page Layouts, czyli układy stron, których używamy do
 generowania dokumentacji przeznaczonej do druku, np. PDF.
@@ -284,7 +284,7 @@ wygenerowane jako jedna dokumentacja. Jest to całkiem interesująca opcja, jedn
 ma spore ograniczenie. Na tę chwilę działa tylko dla formatu HTML5 w układzie
 tri-pane (trzy okna).
 
-[![](images/IMG_20170405_080244-1024x768.jpg)](http://techwriter.pl/wp-content/uploads/2017/05/IMG_20170405_080244.jpg)
+![](images/IMG_20170405_080244-1024x768.jpg)
 
 Kolejne warsztaty nosiły nazwę **Advanced CSS: Using CSS Design Elegant
 Solutions to Everyday HTML Problems**.
@@ -331,7 +331,7 @@ chciało się tam zostać jeszcze na jedną sesję. W dużej części była to z
 prowadzących, którzy potrafili utrzymać nasze zainteresowanie od początku do
 końca.
 
-[![](images/IMG_20170405_143922-1024x768.jpg)](http://techwriter.pl/wp-content/uploads/2017/05/IMG_20170405_143922.jpg)
+![](images/IMG_20170405_143922-1024x768.jpg)
 
 Na koniec wypełniliśmy test, taki jaki muszą zdać osoby ubiegające się o
 certyfikat Flare. Byliśmy przekonani, że to był test próbny, ale spotkała nas
@@ -365,12 +365,12 @@ przed wydarzeniami, które dodaliśmy do naszego harmonogramu. Było to szczegó
 pomocne kiedy w przerwie między prezentacjami wdawaliśmy się w ożywioną dyskusję
 z innymi uczestnikami tracąc poczucie czasu.
 
-[![](images/MadWorld-app1-576x1024.png)](http://techwriter.pl/wp-content/uploads/2017/04/MadWorld-app1.png)
+![](images/MadWorld-app1-576x1024.png)
 
 Oprócz tego, aplikacja spełniała też funkcję wewnętrznego Twittera. Uczestnicy
 na gorąco wrzucali zdjęcia i komentowali wydarzenia.
 
-[![](images/MadWorld-app2-576x1024.png)](http://techwriter.pl/wp-content/uploads/2017/04/MadWorld-app2.png)
+![](images/MadWorld-app2-576x1024.png)
 
 Był nawet konkurs na najbardziej aktywnych użytkowników. Za każdą aktywność
 przyznawane były punkty. Na koniec konferencji, zwycięzcy otrzymali od
@@ -389,7 +389,7 @@ Uczestnicy byli bardzo skorzy do interakcji, dlatego za każdym razem w miejscu
 spotkania było gwarno i wesoło. Jedna z imprez odbyła się w pobliskim barze
 country.
 
-[![](images/IMG_20170403_185706-1024x768.jpg)](http://techwriter.pl/wp-content/uploads/2017/05/IMG_20170403_185706.jpg)
+![](images/IMG_20170403_185706-1024x768.jpg)
 
 Główną atrakcją była nauka amerykańskiego tańca liniowego. Musimy przyznać, że
 kilka rzędów Tech Writerów wykonujących te same ruchy taneczne to dość
@@ -403,16 +403,15 @@ historycznej dzielnicy Gaslamp. Według nas był to dobry wybór. Główną zale
 była lokalizacja hotelu w centrum miasta, przez co łatwo było się do niego
 dostać.
 
-[![](images/IMG_20170404_084040-768x1024.jpg)](http://techwriter.pl/wp-content/uploads/2017/05/IMG_20170404_084040.jpg)
+![](images/IMG_20170404_084040-768x1024.jpg)
 
-[![](images/IMG_20170401_144803-1024x768.jpg)](http://techwriter.pl/wp-content/uploads/2017/05/IMG_20170401_144803.jpg)Wynajęte
-sale konferencyjne były przestronne i komfortowe. Przy wejściu do każdej sali
-był wyświetlacz pokazujący jej numer oraz plan prezentacji. Dzięki temu łatwiej
-było się odnaleźć. Jedyną niedogodnością był niedobór gniazdek w salach, który
-był szczególnie odczuwalny podczas warsztatów, kiedy to laptopy były bardzo
-potrzebne.
+![](images/IMG_20170401_144803-1024x768.jpg)Wynajęte sale konferencyjne były
+przestronne i komfortowe. Przy wejściu do każdej sali był wyświetlacz pokazujący
+jej numer oraz plan prezentacji. Dzięki temu łatwiej było się odnaleźć. Jedyną
+niedogodnością był niedobór gniazdek w salach, który był szczególnie odczuwalny
+podczas warsztatów, kiedy to laptopy były bardzo potrzebne.
 
-[![](images/IMG_20170402_143618-1024x768.jpg)](http://techwriter.pl/wp-content/uploads/2017/05/IMG_20170402_143618.jpg)
+![](images/IMG_20170402_143618-1024x768.jpg)
 
 Pracownicy hotelu zapewnili uczestnikom profesjonalną obsługę oraz świetny
 catering. Uczestnicy w cenie wejściówki mieli śniadanie i lunch. Podczas dni
@@ -430,7 +429,7 @@ od pięciu lat odbywa się w San Diego. Co tu dużo pisać - miasto jest piękne
 ciężko się w nim nudzić. Są muzea, parki, plaże, restauracje i browary
 rzemieślnicze.
 
-[![](images/IMG_20170331_190024-1024x768.jpg)](http://techwriter.pl/wp-content/uploads/2017/05/IMG_20170331_190024.jpg)[![](images/IMG_20170401_143036-1024x768.jpg)](http://techwriter.pl/wp-content/uploads/2017/05/IMG_20170401_143036.jpg)[![](images/IMG_20170401_151917-1024x768.jpg)](http://techwriter.pl/wp-content/uploads/2017/05/IMG_20170401_151917.jpg)Pogoda
+![](images/IMG_20170331_190024-1024x768.jpg)![](images/IMG_20170401_143036-1024x768.jpg)![](images/IMG_20170401_151917-1024x768.jpg)Pogoda
 zdecydowanie sprzyja aktywnemu spędzaniu wolnego czasu. Polecamy przemierzanie
 miasta na piechotę. Wbrew powszechnemu przekonaniu, miasta w Ameryce potrafią
 być przyjazne pieszym ? Możecie też wypożyczyć rower i pojeździć po okolicy.
@@ -440,7 +439,7 @@ Kolejna opcja to wypuszczenie się kilka kilometrów za miasto i pochodzenie po
 górkach. Naprawdę warto – można się solidnie zmęczyć podziwiając przepiękne
 widoki.
 
-[![](images/IMG_20170406_141059-1024x768.jpg)](http://techwriter.pl/wp-content/uploads/2017/05/IMG_20170406_141059.jpg)[![](images/IMG_20170407_091438-1024x768.jpg)](http://techwriter.pl/wp-content/uploads/2017/05/IMG_20170407_091438.jpg)[![](images/IMG_20170407_125902-1024x768.jpg)](http://techwriter.pl/wp-content/uploads/2017/05/IMG_20170407_125902.jpg)Jeśli
+![](images/IMG_20170406_141059-1024x768.jpg)![](images/IMG_20170407_091438-1024x768.jpg)![](images/IMG_20170407_125902-1024x768.jpg)Jeśli
 wszystkie opisane propozycje to dla Was ciągle za mało, wystarczy kupić bilet na
 pociąg i w niecałe 3 godziny będziecie w Los Angeles. A tam czeka na Was kolejna
 porcja atrakcji.
@@ -491,4 +490,4 @@ uczestnicy, odsyłamy do linków poniżej:
 Na koniec, dziękujemy serdecznie organizatorom za ciepłe przyjęcie i mamy
 nadzieję, że w następnym roku uda nam się wrócić do San Diego.
 
-[![](images/IMG_20170404_181518-1024x768.jpg)](http://techwriter.pl/wp-content/uploads/2017/05/IMG_20170404_181518.jpg)
+![](images/IMG_20170404_181518-1024x768.jpg)

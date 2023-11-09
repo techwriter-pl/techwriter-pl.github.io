@@ -17,7 +17,7 @@ konsekwentnych i pracowitych 😊.
 
 Szczegóły oferty:
 
-[![Inittec_oferta](images/Inittec_oferta.jpg)](http://techwriter.pl/wp-content/uploads/2014/10/Inittec_oferta.jpg)
+![Inittec_oferta](images/Inittec_oferta.jpg)
 
 A wspomniany przycisk
 znajdziecie [tutaj](http://www.pracuj.pl/praca/specjalista-ds-dokumentacji-it-krakow,oferta,3596902).

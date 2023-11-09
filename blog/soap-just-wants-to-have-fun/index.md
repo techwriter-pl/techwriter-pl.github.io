@@ -68,15 +68,14 @@ to him, it’s main focus should be on the client instead of the product. The
 users expect information, that will allow them to quickly start using the
 product, that will display only when needed, and is easily searchable. Paweł
 even risked a thesis, that sometimes products could do without any documentation
-whatsoever. As an example, he provided the developers of the <a
-href="https://www.omnipasteapp.com/" target="\_blank>Omnipaste application. They
-have set themselves a goal to create a user interface so clear and intuitive to
-use, that it didn’t require any conventional documentation. Instead, they have
-embedded short multimedia presentations into the product website itself, that
-concisely illustrate the capabilities of their product. Surely it is an
-interesting approach and although it cannot be applied in complicated business
-products, one should not forget that voluminous user manuals aren’t always the
-best solution.
+whatsoever. As an example, he provided the developers of the
+[Omnipaste application](https://www.omnipasteapp.com/). They have set themselves
+a goal to create a user interface so clear and intuitive to use, that it didn’t
+require any conventional documentation. Instead, they have embedded short
+multimedia presentations into the product website itself, that concisely
+illustrate the capabilities of their product. Surely it is an interesting
+approach and although it cannot be applied in complicated business products, one
+should not forget that voluminous user manuals aren’t always the best solution.
 
 ### Meanwhile in the Bathroom
 
@@ -125,7 +124,7 @@ articles), the conference left us with a pleasant impression. Clearly, it is
 created by people who do it with lots of passion and commitment, yet without
 having a stick up their... (which is perfectly illustrated by the photo below).
 
-[![_DSC7032](images/DSC7032.jpg)](http://techwriter.pl/wp-content/uploads/2014/10/DSC7032.jpg)
+![_DSC7032](images/DSC7032.jpg)
 
 There were a couple of minor shortcomings but nothing serious enough to make it
 worth mentioning. Besides, such trivial technical flaws are a part of every

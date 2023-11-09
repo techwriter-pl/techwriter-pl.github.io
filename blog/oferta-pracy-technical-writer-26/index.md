@@ -20,6 +20,6 @@ swojego Klienta – firmy, która jest oficjalnym rejestratorem domen. Więcej
 szczegółów oraz możliwość aplikowania po kliknięciu w obrazek poniżej lub
 [pod linkiem](http://www.goldenline.pl/praca/oferta/technical-writer_warszawa,1008778?engine=latest_offers&context=new_block).
 
-[![](images/ITHuntersTechnicalWriterWarszawa.jpg)](http://www.goldenline.pl/praca/oferta/technical-writer_warszawa,1008778?engine=latest_offers&context=new_block)
+![](images/ITHuntersTechnicalWriterWarszawa.jpg)
 
 Powodzenia!

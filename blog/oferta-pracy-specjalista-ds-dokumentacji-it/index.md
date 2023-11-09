@@ -17,7 +17,7 @@ miejsce, interesująca firma. Warto rozważyć.
 
 Szczegóły oferty:
 
-[![Inpost_oferta1](images/Inpost_oferta1.jpg)](http://techwriter.pl/wp-content/uploads/2014/08/Inpost_oferta1.jpg)
+![Inpost_oferta1](images/Inpost_oferta1.jpg)
 
 A wspomniany przycisk znajdziecie
 [tutaj](http://www.pracuj.pl/praca/specjalista-ds-dokumentacji-it-krakow,oferta,3520998).

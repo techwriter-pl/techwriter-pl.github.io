@@ -24,4 +24,4 @@ Więcej szczegółów na temat oferty znajdziecie poniżej albo
 w [ogłoszeniu na stronie pracodawcy](https://www.livechatinc.com/careers/jobs/technical-content-specialist/) (gdzie
 znajdziecie również link do aplikowania).
 
-[![](images/tech_content_spec_livechat.png)](http://techwriter.pl/wp-content/uploads/2019/01/tech_content_spec_livechat.png)
+![](images/tech_content_spec_livechat.png)

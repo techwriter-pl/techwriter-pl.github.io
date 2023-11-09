@@ -34,7 +34,7 @@ dziedzinie, tak samo jak w programowaniu, jest dużo miejsca na innowacje. Sunny
 lubi czytać książki i wykorzystywać zdobytą w ten sposób wiedzę w życiu
 codziennym.
 
-[![](images/profilepic-200x300.jpg)](http://techwriter.pl/wp-content/uploads/2018/01/profilepic.jpg)
+![](images/profilepic-200x300.jpg)
 
 Jeśli chcecie skontaktować się z autorem, piszcie do nas na
 adres [kontakt@techwriter.pl](mailto:kontakt@techwriter.pl).

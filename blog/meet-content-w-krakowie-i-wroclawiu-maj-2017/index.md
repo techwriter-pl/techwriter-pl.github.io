@@ -26,7 +26,7 @@ Wrocławiu i 30 maja w Krakowie.
 
 ## Jak narzędzia CAT wpływają na pisanie - Wrocław
 
-[![meet content wrocław, click here to stop zero ing, by Marta Bartnicka and Ryszard Jarża, 7pm, 23 may 2017, Mleczarnia, ulica Pawła Włodkowica 5, wrocław](images/wro-1024x486.png)](http://techwriter.pl/wp-content/uploads/2017/05/wro.png)
+![meet content wrocław, click here to stop zero ing, by Marta Bartnicka and Ryszard Jarża, 7pm, 23 may 2017, Mleczarnia, ulica Pawła Włodkowica 5, wrocław](images/wro-1024x486.png)
 
 Marta Bartnicka i Ryszard Jarża opowiedzą co się dzieje z treścią kiedy trafia
 do narzędzi tłumaczeniowych. Podadzą przykłady treści DITA, interfejsu aplikacji
@@ -41,7 +41,7 @@ wymagana jest rejestracja. Więcej szczegółów
 
 ## Wpływ technical writera na rozwój produktu - Kraków
 
-[![documentation-driven development by Tomasz Trela, 7pm, 30 May, Krakow, Artefakt Cafe, Dajwór 3, kraków](images/krk-1024x410.png)](http://techwriter.pl/wp-content/uploads/2017/05/krk.png)Tomasz
+![documentation-driven development by Tomasz Trela, 7pm, 30 May, Krakow, Artefakt Cafe, Dajwór 3, kraków](images/krk-1024x410.png)Tomasz
 Trela, Technical Writer w Dassault Systèmes, opowie o tym jak udawało mu się
 wpłynąć na zespół tworzący produkt. Pokaże na przykładach, że Technical Writer
 nie musi wcale być na końcu łańcucha pokarmowego.

@@ -26,14 +26,14 @@ o tej zasadzie. Firma posiada w swojej ofercie zestaw oświetlenia przedstawiony
 na obrazku poniżej (w celu uniknięcia kosztownych procesów sądowych
 postanowiliśmy nie ujawniać nazwy firmy i produktu 😊).
 
-[![oswietlenie](images/oswietlenie-300x210.png)](http://techwriter.pl/wp-content/uploads/2014/08/oswietlenie.png)
+![oswietlenie](images/oswietlenie-300x210.png)
 
 Jak widać zestaw składa się z lampki przedniej i tylnej oraz uchwytów do montażu
 na kierownicy i pod siodełkiem. Lampki można wypinać z tych uchwytów. W zestawie
 dostarczane są również baterie oraz instrukcja, która jest wzorem minimalizmu.
 Zresztą zobaczcie sami.
 
-[![instrukcja_oswietlenie](images/instrukcja_oswietlenie-300x227.png)](http://techwriter.pl/wp-content/uploads/2014/08/instrukcja_oswietlenie.png)
+![instrukcja_oswietlenie](images/instrukcja_oswietlenie-300x227.png)
 
 Tak, to wszystko, karteczka w rozmiarze 8x6 cm. Brakuje informacji o tym jak
 zamontować uchwyty oraz jak włożyć baterie do tylnej lampki. Być może założenie

@@ -29,4 +29,4 @@ adres [tomasz.prus@unit4.com](mailto:tomasz.prus@unit4.com).
 
 Powodzenia!
 
-[![](images/unit4-tech-writer-wroclaw-granada.png)](http://techwriter.pl/wp-content/uploads/2018/04/unit4-tech-writer-wroclaw-granada.png)
+![](images/unit4-tech-writer-wroclaw-granada.png)

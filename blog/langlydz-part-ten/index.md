@@ -68,7 +68,7 @@ rozmiary typowe dla epidemii.
 
 Pewne rodzaje pluskiew posiadają zdolność podszywania się pod ficzery.
 
-[![bug-vs-feature](images/bug-vs-feature.gif)](http://techwriter.pl/wp-content/uploads/2014/11/bug-vs-feature.gif)
+![bug-vs-feature](images/bug-vs-feature.gif)
 
 Nie są jednak tak zaraźliwe i kuracja zazwyczaj jest mniej kosztowna
 (patrz. *[fiks](http://techwriter.pl/langlydz-part-fajf/)*).

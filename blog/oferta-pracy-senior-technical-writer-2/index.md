@@ -28,4 +28,4 @@ krasie graficznej i z przyciskiem do aplikowania).
 
 Powodzenia!
 
-[![oferta_tech_writer_spartez](images/oferta_tech_writer_spartez.png)](http://techwriter.pl/wp-content/uploads/2016/08/oferta_tech_writer_spartez.png)
+![oferta_tech_writer_spartez](images/oferta_tech_writer_spartez.png)

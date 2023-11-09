@@ -24,4 +24,4 @@ Więcej szczegółów na temat oferty znajdziecie poniżej albo
 w [ogłoszeniu na stronie pracodawcy](https://boards.greenhouse.io/brainly/jobs/1532736)
 (gdzie znajdziecie również link do aplikowania).
 
-[![](images/brainly_ux_copywriter.png)](http://techwriter.pl/wp-content/uploads/2019/02/brainly_ux_copywriter.png)
+![](images/brainly_ux_copywriter.png)

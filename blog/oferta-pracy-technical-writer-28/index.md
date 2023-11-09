@@ -21,4 +21,4 @@ adres **[biuro.polska@halton.com](mailto:biuro.polska@halton.com)**.
 
 Powodzenia!
 
-[![](images/OfertaTechnicalWriterHalton.jpeg)](https://www.pracuj.pl/praca/technical-writer-warszawa,oferta,5919938)
+![](images/OfertaTechnicalWriterHalton.jpeg)

@@ -45,9 +45,8 @@ przyszłość branży tłumaczeniowej oraz wprowadziło nas w klimat nadchodząc
 prelekcji.
 
 \[caption id="attachment_7780" align="aligncenter"
-width="590"\][![](images/tlc-intro-1024x576.jpg)](http://techwriter.pl/wp-content/uploads/2019/04/tlc-intro.jpg)
-Źródło: zasoby organizatora The Translation and Localization
-Conference\[/caption\]
+width="590"\]![](images/tlc-intro-1024x576.jpg) Źródło: zasoby organizatora The
+Translation and Localization Conference\[/caption\]
 
 Poniżej przedstawiamy opis prezentacji, które najbardziej przykuły naszą uwagę.
 
@@ -71,7 +70,7 @@ o tym co robimy jako specjaliści od przekładu. Zamiast przedstawiać siebie ja
 pasywnych rzemieślników rzeźbiących tekst, pozycjonujemy się jako proaktywni
 eksperci, którzy podchodzą do problemu kreatywnie.
 
-[![](images/Twitter_20190329_092645-1024x576.jpg)](http://techwriter.pl/wp-content/uploads/2019/04/Twitter_20190329_092645.jpg)
+![](images/Twitter_20190329_092645-1024x576.jpg)
 
 Ciekawym punktem prezentacji było zwrócenie uwagi na to, że sposób wyceniania
 pracy tłumaczeniowej jest niewłaściwy. Tłumacze sprzedają swoją pracę jak
@@ -133,14 +132,13 @@ produktywność sukcesywnie spada. Powodem może być to, że tylko 15% osób je
 zadowolonych ze swojej pracy oraz brak poczucia sensu tego co robimy i wypalenie
 zawodowe.
 
-[![](images/IMG_20190329_110414-1024x768.jpg)](http://techwriter.pl/wp-content/uploads/2019/04/IMG_20190329_110414.jpg)
-Jak się przygotować na nadchodzącą przyszłość? Możemy zacząć od spojrzenia na
-umiejętności, które według World Economic Forum były nam potrzebne w 2018, żeby
-przetrwać "inwazję robotów". W porównaniu do roku 2015, umiejętność aktywnego
-słuchania została zastąpiona inteligencją emocjonalną, kreatywność awansowała
-na 3. miejsce (z 10. pozycji), a na 10. miejscu pojawiła się elastyczność
-poznawcza. Polecamy również zapoznać się z zestawem umiejętności, które będą nam
-potrzebne w
+![](images/IMG_20190329_110414-1024x768.jpg) Jak się przygotować na nadchodzącą
+przyszłość? Możemy zacząć od spojrzenia na umiejętności, które według World
+Economic Forum były nam potrzebne w 2018, żeby przetrwać "inwazję robotów". W
+porównaniu do roku 2015, umiejętność aktywnego słuchania została zastąpiona
+inteligencją emocjonalną, kreatywność awansowała na 3. miejsce (z 10. pozycji),
+a na 10. miejscu pojawiła się elastyczność poznawcza. Polecamy również zapoznać
+się z zestawem umiejętności, które będą nam potrzebne w
 [2020](https://www.weforum.org/agenda/2018/07/the-skills-needed-to-survive-the-robot-invasion-of-the-workplace).
 Warto też, skupić się na kształtowaniu w sobie umiejętności takich jak
 kreatywność, krytyczne myślenie, współpraca i komunikacja, zamiast na uczeniu
@@ -220,9 +218,8 @@ mechanizmu zostaną zapisane na serwerach dostawcy oprogramowania i nie mamy nad
 nimi kontroli.
 
 \[caption id="attachment_7778" align="aligncenter"
-width="590"\][![](images/tlc-areta-kempinska-1024x576.jpg)](http://techwriter.pl/wp-content/uploads/2019/04/tlc-areta-kempinska.jpg)
-Źródło: zasoby organizatora The Translation and Localization
-Conference\[/caption\]
+width="590"\]![](images/tlc-areta-kempinska-1024x576.jpg) Źródło: zasoby
+organizatora The Translation and Localization Conference\[/caption\]
 
 Po części opisowej, przeszliśmy do dyskusji. Areta zapytała uczestników co myślą
 o pracy z tłumaczeniem maszynowym, jakie mają doświadczenie w kwestii wydajności
@@ -269,9 +266,8 @@ w ankiecie, ponieważ widać gołym okiem, że musimy jeszcze bardziej się star
 jeśli chodzi o promowanie profesji z dziedziny komunikacji technicznej 😊
 
 \[caption id="attachment_7790" align="aligncenter"
-width="590"\][![](images/tlc_panel-1024x576.jpg)](http://techwriter.pl/wp-content/uploads/2019/04/tlc_panel.jpg)
-Źródło: zasoby organizatora The Translation and Localization
-Conference\[/caption\]
+width="590"\]![](images/tlc_panel-1024x576.jpg) Źródło: zasoby organizatora The
+Translation and Localization Conference\[/caption\]
 
 Po przedstawieniu wyników ankiety przeszliśmy do dyskusji. Nawiązując do
 wcześniejszych prelekcji i do tego, że jesteśmy negatywnie nastawieni do rozwoju
@@ -326,6 +322,5 @@ Zdjęcia z wydarzenia znajdziecie pod
 [tym linkiem](https://www.facebook.com/pg/TheTranslationConference/photos/?tab=album&album_id=1814162512021924&__xts__%5B0%5D=68.ARAyMTxGY4q6Z5kDd1TZJyzZhXq3JO7Bcjeala7OG0RLc9D0PBXmXEaDsP2EEEIHnB8dj8zvbDZKKuw5o8NyGnZMTmsdb7G8kALlzh2GgZ4GG2lT8fWFHZelUOlKDMJiJwSZHxIXGHIWWNcSeUMe3Ed6w6laAfhWB4wZb5JCmL9iuDHH8nL4MllHYSnhHU6Y8nzMUd24nWvg9ggEe3ymTIP_PsH8fTA8-p-PWh4O_QmLMvvQIe8Cvx4yNwiU-DnnpGnUV-lcOtDtvYSLf4FSNhy68hPJ0Zzp4iQL18ZzkTzfYSiHfTlg75aOXKiILy6-l7oE_DH-EoukKF9Z-mi3zgj4M8qPMi9XxhoQr5uCXx_7huH77bnu5RTDNVyrZnbYTCxhpeehfs_4xlbb_8LScVshbybl8qSxXa_4OU_x_dtUFPNgWWLHCFJdwYhFTVIjcjs9Ln-nrWLsTQvQ7ZzL&__tn__=-UC-R).
 
 \[caption id="attachment_7792" align="aligncenter"
-width="590"\][![](images/tlc_lobby_2-1024x576.jpg)](http://techwriter.pl/wp-content/uploads/2019/04/tlc_lobby_2.jpg)
-Źródło: zasoby organizatora The Translation and Localization
-Conference\[/caption\]
+width="590"\]![](images/tlc_lobby_2-1024x576.jpg) Źródło: zasoby organizatora
+The Translation and Localization Conference\[/caption\]

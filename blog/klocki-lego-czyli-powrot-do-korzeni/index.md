@@ -55,7 +55,7 @@ pudełko klocków Lego.
 
 Zdecydowanie jest to coś, nad czym można się czasem zastanowić 😊
 
-[![lego2](images/lego2-1024x768.jpg)](http://techwriter.pl/wp-content/uploads/2014/02/lego2.jpg)
+![lego2](images/lego2-1024x768.jpg)
 
 Ciekawą recenzję The Lego Movie możecie przeczytać w
 [New York Timesie](http://www.nytimes.com/2014/02/07/movies/the-lego-movie-toys-with-thinking-outside-the-manual.html?smid=tw-share&_r=1 'The Lego Movie - New York Times').

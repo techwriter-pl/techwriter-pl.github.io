@@ -64,7 +64,7 @@ Oto podsumowanie najciekawszych, naszym zdaniem, wystąpień.
      sformułowany link do helpa
    - Można oszczędzić miejsce na formularzu, wpisując czego się oczekuje prosto
      w text box, podając nawet przykład, format daty, itp.
-     [![formularz z podpowiedziami w polach tekstowych](images/form-data-1024x407.png)](http://techwriter.pl/wp-content/uploads/2017/06/form-data.png)
+     ![formularz z podpowiedziami w polach tekstowych](images/form-data-1024x407.png)
    - Pomoc kontekstową można też umieścić w bocznym panelu aplikacji
 5. **Every Page is Page One** (Mark Baker) - jak pisać pomoc użytkownika w dobie
    Google'a

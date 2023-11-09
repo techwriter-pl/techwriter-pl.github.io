@@ -20,4 +20,4 @@ Poniżej najważniejsze fakty dotyczące pierwszej i drugiej edycji konferencji 
 jednej dużej pigule - świetne! Więcej informacji znajdziecie na stronie
 [soapconf.com](http://soapconf.com/).
 
-[![soap-2013-2014mini](images/soap-2013-2014mini.png)](http://techwriter.pl/wp-content/uploads/2014/09/soap-2013-2014mini.png)
+![soap-2013-2014mini](images/soap-2013-2014mini.png)

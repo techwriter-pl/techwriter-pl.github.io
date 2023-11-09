@@ -30,7 +30,7 @@ slajdach.
 
 ## Kim jest Michał?
 
-[![](images/DSC6781-01-512x512-150x150.jpeg)](http://techwriter.pl/wp-content/uploads/2017/11/DSC6781-01-512x512.jpeg)
+![](images/DSC6781-01-512x512-150x150.jpeg)
 
 Michał Skowron pracuje w świecie dokumentacji od 2012 roku i cały czas rozwija
 dwa tematy: technologię i społeczność.
@@ -69,7 +69,7 @@ zainstalować i uruchomić. Poza tym, automatyzacja nie wymaga zaawansowanych
 umiejętności programistycznych, bo podstawowe skrypty można pisać używając
 Windows CMD (Batch files) czy Uniksowych skryptów powłoki.
 
-[![](images/automate-documentation-publishing-with-jenkins-27-1024-1024x576.jpg)](http://techwriter.pl/wp-content/uploads/2017/11/automate-documentation-publishing-with-jenkins-27-1024.jpg)
+![](images/automate-documentation-publishing-with-jenkins-27-1024-1024x576.jpg)
 
 ## Kto następny?
 

@@ -93,4 +93,4 @@ Polecamy też ciekawą stronę, na której możecie  przeprowadzić symulację
 wyświetlania witryn internetowych na różnych
 urządzeniach: [http://www.responsinator.com/](http://www.responsinator.com/)
 
-[![matthew_ellison](images/matthew_ellison.jpg)](http://techwriter.pl/wp-content/uploads/2014/07/matthew_ellison.jpg)
+![matthew_ellison](images/matthew_ellison.jpg)

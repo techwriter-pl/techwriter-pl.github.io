@@ -28,4 +28,4 @@ Aplikować możecie też poprzez wysłanie CV w języku angielskim i danych
 kontaktowych na
 adres [sonia@bettingconnections.com](mailto:sonia@bettingconnections.com).
 
-[![](images/ux_writer_german_malta.png)](http://techwriter.pl/wp-content/uploads/2019/03/ux_writer_german_malta.png)
+![](images/ux_writer_german_malta.png)

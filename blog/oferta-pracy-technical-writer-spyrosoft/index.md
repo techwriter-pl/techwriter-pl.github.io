@@ -37,4 +37,4 @@ pełnej krasie graficznej i z przyciskiem do aplikowania). Aplikować możecie t
 przez wysłanie swojego CV na
 adres [sdziedziak@spyro-soft.com](mailto:sdziedziak@spyro-soft.com).
 
-[![](images/spyrosoft_tech_writer.png)](http://techwriter.pl/wp-content/uploads/2018/05/spyrosoft_tech_writer.png)
+![](images/spyrosoft_tech_writer.png)

@@ -38,7 +38,7 @@ ułożone w takiej kolejności, a ostatnia stanowi kulminację zmian.
 
 #### Recent Captures Tray i inne ulepszenia interfejsu
 
-[![](images/upload_025-300x70.png)](http://techwriter.pl/wp-content/uploads/2020/11/upload_025.png)
+![](images/upload_025-300x70.png)
 
 Panel z ostatnio wykonanymi screenami wygląda jeszcze lepiej i jest bardziej
 praktyczny. Przeciąganie miniatur i zamienianie ich miejscami stało się
@@ -46,14 +46,14 @@ wizualnie bardziej klarowne. Dobrze widać co, dokąd przeciągasz. Po
 przeciągnięciu widać mikro-animację, żeby nie było wątpliwości co do efektu
 końcowego.
 
-[![](images/2-1024x124.png)](http://techwriter.pl/wp-content/uploads/2020/11/2.png)
+![](images/2-1024x124.png)
 
 Same miniatury wyglądają estetyczniej i jasno pokazują dodatkowe informacje,
 takie jak rodzaj i format pliku, długość filmu czy gifu.
 
 Po kliknięciu prawym na miniaturę doszła nowa komenda _Close Other Captures._
 
-### [![](images/3-300x275.png)](http://techwriter.pl/wp-content/uploads/2020/11/3.png)
+### ![](images/3-300x275.png)
 
 Znajdziesz też małe usprawnienia w innych obszarach. W **Select** suwak do
 przeciągania czułości „Snap to Object” nie jest stale widoczny, a tylko wtedy,
@@ -93,7 +93,7 @@ uaktualnieniu, nie przepuszczę okazji, by z niego korzystać.
 Po pierwsze, doszła możliwość wybrania innych kształtów niż koło. Teraz dostępny
 jest zwykły prostokąt i prostokąt z zaokrąglonymi rogami.
 
-[![](images/2020-11-05_23-18-48-300x164.png)](http://techwriter.pl/wp-content/uploads/2020/11/2020-11-05_23-18-48.png)
+![](images/2020-11-05_23-18-48-300x164.png)
 
 Poziom zaokrąglenia można dostosować przeciągając żółty punkt, aż do uzyskania
 owalu. Z okręgu też uzyskasz owal, co wcześniej nie było możliwe.
@@ -107,7 +107,7 @@ fragmentu.
 W **Magnify 2.0** wystarczy kliknąć na krzyżyk na środku lupy, by przeciągnąć
 powiększenie z dala od tego, co pod spodem.
 
-### [![](images/2020-11-05_23-50-09-300x71.png)](http://techwriter.pl/wp-content/uploads/2020/11/2020-11-05_23-50-09.png)
+### ![](images/2020-11-05_23-50-09-300x71.png)
 
 Wtedy powiększenie nie zasłania oryginalnego fragmentu z jego otoczeniem, a
 czytelnik nie traci kontekstu.
@@ -117,7 +117,7 @@ czytelnik nie traci kontekstu.
 Tutaj mamy kolejne kroki w dobrym kierunku. **Themes 1.0** pozwalają na
 definiowanie podstawowych kolorów dla tworzonych obiektów.
 
-### [![](images/7.png)](http://techwriter.pl/wp-content/uploads/2020/11/7.png)
+### ![](images/7.png)
 
 Dla każdego unikalnego stylu obiektu można kliknąć „+” i w ten sposób dodaje się
 on do obecnie wybranego theme. Po wyeksportowaniu, możesz podzielić się tym
@@ -135,7 +135,7 @@ mogę stworzyć theme, który będzie bez cieni. Dzięki, TechSmith!
 Doszła też funkcja podglądu: wybierając kolory i czcionki zobaczysz na bieżąco
 jak wyglądają obiekty po wprowadzonej zmianie.
 
-### [![](images/9-300x177.png)](http://techwriter.pl/wp-content/uploads/2020/11/9.png)
+### ![](images/9-300x177.png)
 
 #### Simplify 2.0
 
@@ -174,7 +174,7 @@ Ewentualnie możesz kliknąć umieszczony na górze ekranu **Create => Image fro
 Template**. Wtedy otrzymujesz pusty szablon z napisami do dodania i obrazami do
 przeciągnięcia z **Recent Captures Tray**.
 
-### [![](images/10-292x300.png)](http://techwriter.pl/wp-content/uploads/2020/11/10.png)
+### ![](images/10-292x300.png)
 
 Nowością w **2.0** jest to, że po przejściu wszystkich kroków _Combine in
 Template_ możesz dostosowywać i rozwijać sekwencję obrazów bezpośrednio w

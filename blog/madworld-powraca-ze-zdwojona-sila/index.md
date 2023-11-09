@@ -30,7 +30,7 @@ dniach 11-14 września 2018.
 
 ## Miejsce
 
-[![](images/MW2018-HotelImage-1024x512-1024x512.jpg)](http://techwriter.pl/wp-content/uploads/2018/04/MW2018-HotelImage-1024x512.jpg)
+![](images/MW2018-HotelImage-1024x512-1024x512.jpg)
 
 MadWorld San Diego odbędzie się w innym miejscu niż ostatnio. Na tegoroczną
 edycję, organizatorzy wybrali [Hotel del Coronado](https://hoteldel.com/) -
@@ -39,7 +39,7 @@ momencie otwarcia w 1888 roku był największym ośrodkiem wczasowym na świecie
 Obecnie jest to druga co do wielkości drewniana konstrukcja w Stanach
 Zjednoczonych.
 
-[![](images/MWEU2018-Image3-1024x512-1024x512.jpg)](http://techwriter.pl/wp-content/uploads/2018/04/MWEU2018-Image3-1024x512.jpg)
+![](images/MWEU2018-Image3-1024x512-1024x512.jpg)
 
 Pierwsza edycja MadWorld Prague zagości
 w [Carlo IV, The Dedica Anthology, Autograph Collection](https://www.marriott.com/hotels/travel/prgak-carlo-iv-the-dedica-anthology-autograph-collection/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2).
@@ -69,7 +69,7 @@ Schemat obu konferencji jest podobny:
 - Czwarty dzień - seria zaawansowanych warsztatów zakończona Happy Hour - czyli
   rozmowami przy piwie lub innym drinku
 
-[![](images/MW2018-Image1-1024x512-1024x512.jpg)](http://techwriter.pl/wp-content/uploads/2018/04/MW2018-Image1-1024x512.jpg)
+![](images/MW2018-Image1-1024x512-1024x512.jpg)
 
 Miło widzieć, że uczestnicy konferencji stają się w kolejnych latach
 prelegentami. Tak stało się np. w przypadku
@@ -155,14 +155,14 @@ drugie, dostajemy bezpośredni dostęp do specjalistów wsparcia technicznego
 (Hospitality Lounge). Dzięki temu w dość krótkim czasie możemy rozwiązać całkiem
 sporo problemów, które nas trapią. Dla niektórych uczestników jest to główny
 powód, dla którego decydują się na udział w
-konferencji.[![](images/MW2018-Image3-1024x512-1024x512.jpg)](http://techwriter.pl/wp-content/uploads/2018/04/MW2018-Image3-1024x512.jpg)
+konferencji.![](images/MW2018-Image3-1024x512-1024x512.jpg)
 
 Po trzecie, na MadWorld panuje świetna atmosfera, a organizacja wydarzenia stoi
 na wysokim poziomie. Dodatkowo, dostajemy możliwość zwiedzenia ciekawych miejsc,
 a w przypadku MadWorld San Diego skorzystania również ze słonecznej pogody i
 plaż.
 
-[![](images/MWEU2018-Image2-1024x512-1024x512.jpg)](http://techwriter.pl/wp-content/uploads/2018/04/MWEU2018-Image2-1024x512.jpg)
+![](images/MWEU2018-Image2-1024x512-1024x512.jpg)
 
 Według informacji podanej na stronie MadWorld San Diego, 95% uczestników
 konferencji planuje powrócić w kolejnym roku. Dane te pochodzą z ankiety

@@ -30,4 +30,4 @@ znajdziecie również link do aplikowania). Jeśli zdecydujecie się spróbować
 swoich sił, dopiszcie w aplikacji, że ogłoszenie znaleźliście na naszym portalu.
 Z góry dzięki i powodzenia!
 
-[![](images/caspio-ui-designer.png)](http://techwriter.pl/wp-content/uploads/2018/09/caspio-ui-designer.png)
+![](images/caspio-ui-designer.png)

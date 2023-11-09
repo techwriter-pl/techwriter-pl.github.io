@@ -28,4 +28,4 @@ pełnej krasie graficznej i z przyciskiem do aplikowania).
 Aplikować można również pisząc na
 adres **[arosa@craftware.biz](mailto:arosa@craftware.biz)**.
 
-[![](images/Craftware-Technical-Writer.png)](http://techwriter.pl/wp-content/uploads/2018/02/Craftware-Technical-Writer.png)
+![](images/Craftware-Technical-Writer.png)

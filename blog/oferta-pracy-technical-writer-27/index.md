@@ -28,4 +28,4 @@ adres [diana.barenfeld@pl.experis.com](mailto:diana.barenfeld@pl.experis.com).
 
 Powodzenia!
 
-[![](images/experis_it_tech_writer_cisco.png)](http://techwriter.pl/wp-content/uploads/2017/08/experis_it_tech_writer_cisco.png)
+![](images/experis_it_tech_writer_cisco.png)

@@ -26,4 +26,4 @@ maila na
 adres [aleksandra.kieczmer@seargin.com](mailto:aleksandra.kieczmer@seargin.com) z
 CV w języku angielskim, propozycją stawki miesięcznej brutto oraz informacją o
 swojej dostępności (okresie
-wypowiedzenia).[![](images/seargin_tech_writer_katowice.png)](http://techwriter.pl/wp-content/uploads/2018/12/seargin_tech_writer_katowice.png)
+wypowiedzenia).![](images/seargin_tech_writer_katowice.png)

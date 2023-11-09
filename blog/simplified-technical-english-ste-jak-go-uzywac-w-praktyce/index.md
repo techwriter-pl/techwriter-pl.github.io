@@ -112,7 +112,7 @@ mają bezpośrednie i wyraźne znaczenie.
 
 Poniżej wycinek tabeli i wyjaśnienie.
 
-[![](images/STE-300x138.png)](http://techwriter.pl/wp-content/uploads/2020/10/STE.png)
+![](images/STE-300x138.png)
 
 Co jest ważne? ...Dwa przykazania 😉.
 

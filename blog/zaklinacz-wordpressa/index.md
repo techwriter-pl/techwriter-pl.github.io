@@ -48,7 +48,7 @@ wystarczy podać tylko adres naszego WordPressa, nazwę użytkownika i hasło. W
 wariancie rozszerzonym możemy opcjonalnie wybrać jeden z dostępnych szablonów
 strony oraz lokalizację strony nadrzędnej.
 
-[![account_thumb](images/account_thumb.png)](http://techwriter.pl/wp-content/uploads/2015/03/account_thumb.png)
+![account_thumb](images/account_thumb.png)
 
 _Źródło: http://www.helpinator.com/blog_
 

@@ -28,4 +28,4 @@ adres [paulina.hinz@pl.experis.com](mailto:paulina.hinz@pl.experis.com).
 
 Powodzenia!
 
-[![Oferta Tech Writer Cisco Experis IT](images/cisco_experis_tech_writer.png)](http://techwriter.pl/wp-content/uploads/2017/11/cisco_experis_tech_writer.png)
+![Oferta Tech Writer Cisco Experis IT](images/cisco_experis_tech_writer.png)

@@ -104,7 +104,7 @@ odbiorcy:
   obsługi dla ''przeciętnego'' odbiorcy, zawierają one proste symbole i
   terminologię, która może być zrozumiana przez każdego.
 
-[![](images/fabbf5049c47bd2b63ade46edba908a4-300x267.jpg)](http://techwriter.pl/wp-content/uploads/2021/07/fabbf5049c47bd2b63ade46edba908a4.jpg)
+![](images/fabbf5049c47bd2b63ade46edba908a4-300x267.jpg)
 
 _Przykład\_\_: Wektorowy rysunek pralki_
 
@@ -112,7 +112,7 @@ _Przykład\_\_: Wektorowy rysunek pralki_
   specjalizują się w danym zakresie. Ilustracje specjalistyczne zawierają
   zazwyczaj złożoną terminologię i symbole zrozumiałe dla danej grupy odbiorców.
 
-[![](images/d4019e063acb42d2338d1d96b5504021-300x197.jpg)](http://techwriter.pl/wp-content/uploads/2021/07/d4019e063acb42d2338d1d96b5504021.jpg)
+![](images/d4019e063acb42d2338d1d96b5504021-300x197.jpg)
 
 _Przykład:_ _Rysunek przekrojowy lampy_
 
@@ -121,7 +121,7 @@ _Przykład:_ _Rysunek przekrojowy lampy_
   i umiejętności w danym temacie. Takie ilustracje można znaleźć w dokumentacji
   użytkownika / operatora.
 
-[![](images/19d7d1993203680f2bdc0868a44f6bd1-300x192.jpg)](http://techwriter.pl/wp-content/uploads/2021/07/19d7d1993203680f2bdc0868a44f6bd1.jpg)
+![](images/19d7d1993203680f2bdc0868a44f6bd1-300x192.jpg)
 
 _Przykład: Rysunek zawierający szczegóły specjalistyczne_
 
@@ -132,7 +132,7 @@ technicznej:
   zakrzywionych linii bez gradacji odcienia lub barwy w celu przedstawienia
   dwuwymiarowych lub trójwymiarowych obiektów
 
-[![](images/Capture-1-300x219.png)](http://techwriter.pl/wp-content/uploads/2021/07/Capture-1.png)
+![](images/Capture-1-300x219.png)
 
 _Przykład: Rysunek przedstawiający składane łóżko_
 
@@ -140,7 +140,7 @@ _Przykład: Rysunek przedstawiający składane łóżko_
   rozłożonego obiektu i wyjaśnienie związku pomiędzy jego częściami lub ich
   zamierzonej kolejności
 
-[![](images/a1b6228b66455d07788635408aa28b94-e1626290775276-300x210.jpg)](http://techwriter.pl/wp-content/uploads/2021/07/a1b6228b66455d07788635408aa28b94.jpg)
+![](images/a1b6228b66455d07788635408aa28b94-e1626290775276-300x210.jpg)
 
 _Przykład: Rysunek przedstawiający widok poszczególnych części_
 
@@ -148,7 +148,7 @@ _Przykład: Rysunek przedstawiający widok poszczególnych części_
   których elementy powierzchniowe modelu trójwymiarowego są selektywnie usuwane,
   aby uwidocznić cechy wewnętrzne
 
-[![](images/images.jpg)](http://techwriter.pl/wp-content/uploads/2021/07/images.jpg)
+![](images/images.jpg)
 
 _Przykład: Rysunek przedstawiający widok wnętrza śmigła_
 
@@ -157,14 +157,14 @@ _Przykład: Rysunek przedstawiający widok wnętrza śmigła_
   używane w wielu branżach. Włączenie symboli i ikon do dokumentacji technicznej
   może znacznie zmniejszyć liczbę słów potrzebnych do opisania czegoś.
 
-[![](images/56309dac-5e51-457c-bdfd-5b62dfc687ea_200-e1626274672717.png)](http://techwriter.pl/wp-content/uploads/2021/07/56309dac-5e51-457c-bdfd-5b62dfc687ea_200-e1626274672717.png)
+![](images/56309dac-5e51-457c-bdfd-5b62dfc687ea_200-e1626274672717.png)
 
 _Przykład: Symbol kierunku wyjścia ewakuacyjnego_
 
 - **zrzuty ekranu lub zdjęcia** - wykorzystanie fotografii w dokumentacji
   technicznej  nadaje dokumentowi realizmu i wiarygodności
 
-[![](images/mac-300x138.png)](http://techwriter.pl/wp-content/uploads/2021/07/mac.png)
+![](images/mac-300x138.png)
 
 _Przykład: Jak zrobic zrzut ekranu na komputerze Mac_
 

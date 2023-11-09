@@ -28,4 +28,4 @@ adres: **pawel.kowaluk(at)3di-info.com**.
 
 Pozostałe oferty pracy z 3di znajdziecie [tutaj](http://3di.com.pl/career/).
 
-[![Oferta pracy Junior Technical Writer 3di](images/junior-technical-writer-3di-june-2016.png)](http://techwriter.pl/wp-content/uploads/2016/05/junior-technical-writer-3di-june-2016.png)
+![Oferta pracy Junior Technical Writer 3di](images/junior-technical-writer-3di-june-2016.png)

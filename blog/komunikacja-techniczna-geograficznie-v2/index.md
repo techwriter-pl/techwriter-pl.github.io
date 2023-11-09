@@ -73,7 +73,7 @@ Na tą chwilę w Polsce zgłoszone są następujące obiekty:
 - 1 konferencja z 2015
 - 1 firma
 
-[![mapa_techcomm_pl](images/mapa_techcomm_pl.png)](http://techwriter.pl/wp-content/uploads/2015/05/mapa_techcomm_pl.png)
+![mapa_techcomm_pl](images/mapa_techcomm_pl.png)
 
 ### Jedno małe "ale"
 

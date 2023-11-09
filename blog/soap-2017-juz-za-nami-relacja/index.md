@@ -32,7 +32,7 @@ poczynając od świetnego kateringu i konferencyjnego Wi-Fi, a kończąc na
 "twitterowej" ścianie, na której na bieżąco można było śledzić reakcje
 uczestników.
 
-[![](images/soap_2017_tweet2.png)](http://techwriter.pl/wp-content/uploads/2017/06/soap_2017_tweet2.png)
+![](images/soap_2017_tweet2.png)
 
 Konferencji towarzyszyła cała masa konkursów zorganizowanych przez partnerów i
 organizatorów. Techwriter.pl rozdawał firmowe kubki, sponsorzy przyznawali
@@ -77,7 +77,7 @@ zresztą powtórzony kilkukrotnie przez innych prezenterów). Migracja odbyła s
 przy pomocy skryptu, co jednak nie pozwoliło uniknąć dwóch miesięcy pracy przy
 „ręcznym sprzątaniu” treści.
 
-[![](images/IMG_2445-2-1024x768.jpg)](http://techwriter.pl/wp-content/uploads/2017/06/IMG_2445-2.jpg)
+![](images/IMG_2445-2-1024x768.jpg)
 
 Samo hasło „move to DITA” przewijało się przez całą konferencję i wygląda na to,
 że z problemami związanymi z migracją treści boryka się naprawdę sporo osób, co
@@ -103,7 +103,7 @@ i dynamicznej prezentacji poruszył tematy takie jak kurczący się "attention
 span" użytkownika, czy też związek treści marketingowej z dokumentacją
 techniczną.
 
-[![](images/soap_2017_tweet3.png)](http://techwriter.pl/wp-content/uploads/2017/06/soap_2017_tweet3.png)
+![](images/soap_2017_tweet3.png)
 
 Łukasz Górnicki opowiadał o zacieśniającej się współpracy Technical Writerów i
 programistów, którzy mogą działać w jednym zespole. Szymon Serwatka i Gosia
@@ -135,7 +135,7 @@ prowadzenia narracji UX i wielu innych.
 Zdecydowanie było w czym wybierać. Warsztaty różniły się zarówno tematyką, jak i
 czasem trwania, a nam udało się wziąć udział w dwóch z nich.
 
-[![](images/soap_2017_tweet1.png)](http://techwriter.pl/wp-content/uploads/2017/06/soap_2017_tweet1.png)
+![](images/soap_2017_tweet1.png)
 
 Daniel Barrio Fierro, podczas zajęć *The Joy of Coding Slides*, wprowadzał nas w
 tajniki przygotowywania prezentacji na modłę deweloperską. Najpierw
@@ -151,7 +151,7 @@ opensourcowej biblioteki [reveal.js](http://lab.hakim.se/reveal-js/). Efekt?
 Schludne, szybkie, niezawodne slajdy, które kontrolujesz w 100%, przechowujesz
 na GitHubie, odpalasz w przeglądarce i sterujesz... smartfonem.
 
-### [![](images/IMG_2434-2-1024x768.jpg)](http://techwriter.pl/wp-content/uploads/2017/06/IMG_2434-2.jpg)
+### ![](images/IMG_2434-2-1024x768.jpg)
 
 Tymczasem warsztat o "UX narrative", prowadzony przez znanego nam już z
 MeetContent

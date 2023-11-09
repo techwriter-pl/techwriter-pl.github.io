@@ -39,11 +39,11 @@ Podobno pisała dokumentację do jednego z
 [pierwszych komputerów](http://en.wikipedia.org/wiki/Analytical_Engine) (mechanicznego!),
 który wyglądał mniej więcej tak:
 
-[![AnalyticalMachine_Babbage_London](images/AnalyticalMachine_Babbage_London.jpg)](http://techwriter.pl/wp-content/uploads/2014/09/AnalyticalMachine_Babbage_London.jpg)
+![AnalyticalMachine_Babbage_London](images/AnalyticalMachine_Babbage_London.jpg)
 
 Dla czytelników nowej generacji zamieszczamy również zdjęcie wersji mobajl:
 
-[![BabbageDifferenceEngine](images/BabbageDifferenceEngine.jpg)](http://techwriter.pl/wp-content/uploads/2014/09/BabbageDifferenceEngine.jpg)
+![BabbageDifferenceEngine](images/BabbageDifferenceEngine.jpg)
 
 Nie udało nam się niestety dotrzeć do potwierdzonych informacji czy Ada była
 bezpośrednio spokrewniona z prototypem współczesnego lowelasa, czyli Robertem

@@ -30,4 +30,4 @@ obrazek, żeby go wyświetlić w pełnej rozdzielczości) albo
 
 Powodzenia!
 
-[![bny_mellon_techwriter](images/bny_mellon_ogloszenie.png)](http://techwriter.pl/wp-content/uploads/2016/05/bny_mellon_ogloszenie.png)
+![bny_mellon_techwriter](images/bny_mellon_ogloszenie.png)

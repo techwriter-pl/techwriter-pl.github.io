@@ -28,7 +28,7 @@ kosmosem znaczeń. Najczęściej oznacza (nie)przewidziany problem. Czasem kwest
 którą trzeba się zająć - omówić, przedyskutować, podjąć, rozstrzygnąć lub
 załatwić:
 
-[![Issue](images/Issue-280x300.jpg)](http://techwriter.pl/wp-content/uploads/2014/01/Issue.jpg)
+![Issue](images/Issue-280x300.jpg)
 
 Isiu może również oznaczać to, że po prostu komuś nie chciało się czegoś zrobić.
 W firmach w których nie ma problemów isiu oznacza oczywiście kolejne wyzwanie.

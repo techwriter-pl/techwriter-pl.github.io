@@ -42,4 +42,4 @@ pełnej krasie graficznej i z przyciskiem do aplikowania).
 Aplikować można również pisząc na
 adres **[HalynaBut@eurofins.com](mailto:HalynaBut@eurofins.com)**.
 
-[![](images/eurofins-job-offer-1.png)](http://techwriter.pl/wp-content/uploads/2018/01/eurofins-job-offer-1.png)
+![](images/eurofins-job-offer-1.png)

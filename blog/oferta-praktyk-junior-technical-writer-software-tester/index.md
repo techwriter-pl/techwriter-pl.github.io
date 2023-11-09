@@ -26,7 +26,7 @@ Oferta bardzo ciekawa, z dwóch powodów:
 
 Szczegóły:
 
-[![JuniorTechWriterTesterABB](images/JuniorTechWriterTesterABB.jpg)](http://techwriter.pl/wp-content/uploads/2014/12/JuniorTechWriterTesterABB.jpg)
+![JuniorTechWriterTesterABB](images/JuniorTechWriterTesterABB.jpg)
 
 Powodzenia!
 

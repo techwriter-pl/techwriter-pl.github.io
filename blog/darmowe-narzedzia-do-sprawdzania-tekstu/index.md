@@ -37,7 +37,7 @@ czytania i pisania oraz produktywność. Jack już na studiach rozpoczął swoj�
 karierę jako niezależny pisarz i wciąż podąża tą samą ścieżką. W swojej pracy
 lubi najbardziej to, że może ją łączyć z podróżowaniem po świecie.
 
-[![](images/Jack-Milgram.jpg)](http://techwriter.pl/wp-content/uploads/2017/09/Jack-Milgram.jpg)
+![](images/Jack-Milgram.jpg)
 
 Jeśli chcecie skontaktować się z Jackiem, możecie to zrobić za pośrednictwem
 jego profilu na

@@ -29,4 +29,4 @@ Aplikować możecie też poprzez wysłanie CV w języku angielskim i danych
 kontaktowych na
 adres [sonia@bettingconnections.com](mailto:sonia@bettingconnections.com).
 
-[![](images/tech_writer_betting_connections.png)](http://techwriter.pl/wp-content/uploads/2019/02/tech_writer_betting_connections.png)
+![](images/tech_writer_betting_connections.png)

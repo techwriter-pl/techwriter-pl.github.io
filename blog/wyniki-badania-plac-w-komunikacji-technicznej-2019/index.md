@@ -59,7 +59,7 @@ Tak jak w poprzednich latach, większość ankietowanych identyfikuje się jako
 technical writer (74%). Ten udział procentowy zdaje się spadać w ostatnich
 latach. Być może klarują się role specjalistyczne.
 
-[![](images/percentage-of-technical-writers.png)](http://techwriter.pl/wp-content/uploads/2019/04/percentage-of-technical-writers.png)
+![](images/percentage-of-technical-writers.png)
 
 Zarobki w poszczególnych grupach kształtują się następująco (posortowane wg
 średniego wynagrodzenia brutto):
@@ -110,7 +110,7 @@ Pomału rośnie liczba osób z certyfikatem [ITCQF](http://itcqf.org/).
 Jeżeli chodzi o staż pracy, jesteśmy młodym zawodem. 65% ankietowanych ma od 0
 to 5 lat doświadczenia. Tylko 9 osób ma więcej niż 10 lat doświadczenia.
 
-[![](images/Staz-pracy.png)](http://techwriter.pl/wp-content/uploads/2019/04/Staz-pracy.png)
+![](images/Staz-pracy.png)
 
 Najpopularniejszą formą poszerzania horyzontów jest udział w wydarzeniach takich
 jak konferencje czy meetupy (63%) oraz czytanie stron lub blogów branżowych
@@ -124,8 +124,8 @@ Prawie 90% ankietowanych pracuje w firmie zagranicznej. Nie ma wśród nas
 freelancerów, ogromna większość pracuje w firmie zatrudniającej powyżej 100
 osób.
 
-[![](images/wielkosc-firmy.png)](http://techwriter.pl/wp-content/uploads/2019/04/wielkosc-firmy.png)Jednocześnie
-ogromna większość z nas pisze dokumentację do oprogramowania.
+![](images/wielkosc-firmy.png)Jednocześnie ogromna większość z nas pisze
+dokumentację do oprogramowania.
 
 | Rodzaj dokumentacji         | Liczba respondentów |
 | --------------------------- | ------------------- |
@@ -164,7 +164,7 @@ Bardzo lubimy swoją pracę! Najpopularniejszą oceną była czwórka, bo aż 61
 zagłosowało. Tylko jedna osoba jest bardzo niezadowolona, a trzy kolejne dały
 ocenę 2.
 
-[![](images/happiness.png)](http://techwriter.pl/wp-content/uploads/2019/04/happiness.png)
+![](images/happiness.png)
 
 ### Podsumowanie
 

@@ -42,7 +42,7 @@ danej niszy masz wiele mniejszych ról do odegrania. Jednym z wyzwań, lecz tak�
 zalet tego zawodu jest potrzeba wszechstronności, dzięki czemu masz okazję, by
 zmieniać punkty widzenia jak kapelusze.
 
-[![](images/2021-04-19_21-33-47-300x134.png)](http://techwriter.pl/wp-content/uploads/2021/04/2021-04-19_21-33-47.png)
+![](images/2021-04-19_21-33-47-300x134.png)
 
 Dlaczego akurat kapelusze? Zaczerpnąłem je z koncepcji dr Edwarda de Bono, który
 opracował koncepcję sześciu odmiennych "kapeluszy" myślowych, wedle której w
@@ -60,11 +60,11 @@ rozpozna wśród nich swoje własne.
 
 ---
 
-## [![](images/upload_053-1.png)](http://techwriter.pl/wp-content/uploads/2021/04/upload_053-1.png)
+## ![](images/upload_053-1.png)
 
 ### Detektyw
 
-[![](images/Sherlock-Holmes-287x300-1.jpg)](http://techwriter.pl/wp-content/uploads/2021/04/Sherlock-Holmes-287x300-1.jpg)
+![](images/Sherlock-Holmes-287x300-1.jpg)
 
 W opinii większości nie-dokumentalistów lwią część czasu dokumentalista spędza
 na pisaniu i szlifowaniu tekstów. Nic bardziej mylnego. Powiedziałbym, że dobre
@@ -84,7 +84,7 @@ mogę.
 
 ### Archeolog
 
-[![](images/upload_023-300x215.png)](http://techwriter.pl/wp-content/uploads/2021/04/upload_023.png)
+![](images/upload_023-300x215.png)
 
 Jest to rola zbliżona do detektywa, ale jeszcze trudniejsza do odegrania i
 często bywa niewdzięczna. Wyzwania są tu podobne, z jedną kluczową różnicą: osób
@@ -97,7 +97,7 @@ szóstym zmysłem i jest w stanie wydobyć takie wykopaliska spod ziemi.
 
 ### Dziennikarz
 
-[![](images/Old-reporter.jpeg)](http://techwriter.pl/wp-content/uploads/2021/04/Old-reporter.jpeg)
+![](images/Old-reporter.jpeg)
 
 W pewnych projektach nie otrzymujesz gotowych zleceń. Masz aktywnie obserwować
 sytuację i szukać nowych, obiecujących tematów. Niektóre wątki okazują się mniej
@@ -115,7 +115,7 @@ niezainteresowany udzieleniem wyczerpującego wywiadu.
 
 ### Gospodarz programu telewizyjnego
 
-[![](images/m4Obs-1544211212-1070-quiz_question_image_-70talk_13-300x157.jpg)](http://techwriter.pl/wp-content/uploads/2021/04/m4Obs-1544211212-1070-quiz_question_image_-70talk_13.jpg)
+![](images/m4Obs-1544211212-1070-quiz_question_image_-70talk_13-300x157.jpg)
 
 Na spotkaniach dotyczących kwestii technicznych, podczas których trzeba znaleźć
 odpowiedź na skomplikowany problem, zazwyczaj potrzebny jest moderator. Jeśli go
@@ -126,7 +126,7 @@ atmosferę, jeśli emocje zaczynają udzielać się wszystkim.
 
 ### Protokolant
 
-[![](images/SpeedTypists-e1463645027603-300x214.png)](http://techwriter.pl/wp-content/uploads/2021/04/SpeedTypists-e1463645027603.png)
+![](images/SpeedTypists-e1463645027603-300x214.png)
 
 Robienie notatek po spotkaniach jest niezmiernie ważne. Dobre podsumowanie
 dyskusji na skomplikowany temat może zająć w przybliżeniu tyle co samo
@@ -137,7 +137,7 @@ dzięki czemu łatwiej jest o podjęcie rozsądnej decyzji.
 
 ### Nauczyciel
 
-[![](images/unnamed-287x300.jpg)](http://techwriter.pl/wp-content/uploads/2021/04/unnamed.jpg)
+![](images/unnamed-287x300.jpg)
 
 Nawet jeśli nie tworzysz e-learningu, każda pisana instrukcja ma wymiar
 dydaktyczny. Zależy Ci na tym, by przekazana informacja była zrozumiała i
@@ -176,7 +176,7 @@ miejsce w skomplikowanej całości.
 
 ### Architekt informacji
 
-[![](images/maxresdefault-300x169.jpg)](http://techwriter.pl/wp-content/uploads/2021/04/maxresdefault.jpg)
+![](images/maxresdefault-300x169.jpg)
 
 Architekt informacji - brzmi to groźnie. Jednak wielu z nas udziela się na tym
 polu, nawet o tym nie wiedząc. Architekt systemowy decyduje o projekcie systemu
@@ -190,7 +190,7 @@ głowach odbiorców.
 
 ### Ogrodnik
 
-[![](images/garden-300x199.png)](http://techwriter.pl/wp-content/uploads/2021/04/garden.png)
+![](images/garden-300x199.png)
 
 Rola ta zazębia się z rolą architekta. Poniżej przykłady reprezentujące dwie
 biblioteki dokumentów.
@@ -198,12 +198,12 @@ biblioteki dokumentów.
 **1\. Starannie zaprojektowany zestaw dokumentów, które są odświeżane i
 pielęgnowane:**
 
-[![](images/Parterre-garden-Bodysgallen-Hall-Wales-Llandudno-300x178.jpg)](http://techwriter.pl/wp-content/uploads/2021/04/Parterre-garden-Bodysgallen-Hall-Wales-Llandudno.jpg)
+![](images/Parterre-garden-Bodysgallen-Hall-Wales-Llandudno-300x178.jpg)
 
 **2\. Gąszcz nieaktualnych stron i popsutych linków, wśród których ukryte są
 przydatne strony, ułożone w nieprzemyślanej strukturze:**
 
-[![](images/image-300x199.jpg)](http://techwriter.pl/wp-content/uploads/2021/04/image.jpg)
+![](images/image-300x199.jpg)
 
 Dokumentalista jest dobrym duchem projektu, otacza swoje twory opieką niczym
 ogrodnik. Od jego samozaparcia i inicjatywy zależy czy dokumentacja stopniowo

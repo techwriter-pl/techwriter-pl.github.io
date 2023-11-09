@@ -28,4 +28,4 @@ adres [tomasz.prus@unit4.com](mailto:tomasz.prus@unit4.com).
 
 Powodzenia!
 
-[![](images/unit4_technical_writer.png)](http://techwriter.pl/wp-content/uploads/2017/11/unit4_technical_writer.png)
+![](images/unit4_technical_writer.png)

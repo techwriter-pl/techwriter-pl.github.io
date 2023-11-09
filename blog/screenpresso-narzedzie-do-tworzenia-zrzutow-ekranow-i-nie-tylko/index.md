@@ -28,7 +28,7 @@ zastosowanie. Resztę na jego temat znajdziecie
 
 ### Co to za narzędzie?
 
-[![](images/2020-09-07_20h34_42-1024x717.png)](http://techwriter.pl/wp-content/uploads/2020/09/2020-09-07_20h34_42.png)
+![](images/2020-09-07_20h34_42-1024x717.png)
 
 Screenpresso jest darmowym narzędziem do tworzenia zrzutów ekranu, GIF-ów i
 nagrań ekranu oraz prostych dokumentów do Waszych prac projektowych, raportów
@@ -51,7 +51,7 @@ wideo, dostępna jest wersja Pro - z koniecznością wykupienia licencji.
 
 ### Jak to działa?
 
-[![](images/shot-f224a47b2becce29ef5fb30e9f584ba7.png)](http://techwriter.pl/wp-content/uploads/2020/09/shot-f224a47b2becce29ef5fb30e9f584ba7.png)
+![](images/shot-f224a47b2becce29ef5fb30e9f584ba7.png)
 
 Zastosowanie jest bardzo proste.
 

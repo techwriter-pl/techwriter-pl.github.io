@@ -28,4 +28,4 @@ poprzez wysłanie swojego CV na adres
 
 Powodzenia!
 
-[![](images/3di_com_pl_junior-project-manager.png)](http://techwriter.pl/wp-content/uploads/2017/09/3di_com_pl_junior-project-manager.png)
+![](images/3di_com_pl_junior-project-manager.png)

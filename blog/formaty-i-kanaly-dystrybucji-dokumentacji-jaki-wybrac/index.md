@@ -89,7 +89,7 @@ Odpowiednio oznaczone zmiany zamieszczone w pliku PDF można podesłać do oceny
 związanemu z tematem zmian _Subject Matter Expertowi_.
 
 \[caption id="attachment*10766" align="aligncenter"
-width="820"\][![Narzędzia do zaznaczania i przeglądania treści dostępne w Adobe Reader](images/pdf_markup.png)](http://techwriter.pl/wp-content/uploads/2019/08/pdf_markup.png)
+width="820"\]![Narzędzia do zaznaczania i przeglądania treści dostępne w Adobe Reader](images/pdf_markup.png)
 \_Narzędzia do zaznaczania i przeglądania treści dostępne w Adobe
 Reader*\[/caption\]
 
@@ -117,7 +117,7 @@ bardziej rozbudowanego narzędzia przeszukiwania, które usprawni pracę z
 dokumentem technicznym.
 
 \[caption id="attachment*10773" align="aligncenter"
-width="590"\][![Zaawansowana wyszukiwarka Acrobat Readera](images/pdf_search-1024x430.png)](http://techwriter.pl/wp-content/uploads/2019/08/pdf_search.png)
+width="590"\]![Zaawansowana wyszukiwarka Acrobat Readera](images/pdf_search-1024x430.png)
 \_Zaawansowana wyszukiwarka Acrobat Readera*\[/caption\]
 
 Pomoc online w gruncie rzeczy nie ustępuje tu niczym PDF-owi. Przy korzystaniu z
@@ -148,7 +148,7 @@ użytkownika, kiedy nie tylko tworzymy treść, ale też mamy wpływ na to jak m
 ją przeglądać.
 
 \[caption id="attachment*10764" align="aligncenter"
-width="831"\][![Elementy strony WWW ułatwiające przeglądanie](images/html_interactive.png)](http://techwriter.pl/wp-content/uploads/2019/08/html_interactive.png)
+width="831"\]![Elementy strony WWW ułatwiające przeglądanie](images/html_interactive.png)
 \_Elementy strony WWW ułatwiające przeglądanie*\[/caption\]
 
 W przypadku PDF-a takich możliwości jest zdecydowanie mniej, bo z reguły takie

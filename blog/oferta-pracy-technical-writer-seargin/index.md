@@ -30,4 +30,4 @@ zaproponować stawkę miesięczną brutto oraz poinformować o swojej dostępno
 
 Powodzenia!
 
-[![](images/seargin-tech-writer.png)](http://techwriter.pl/wp-content/uploads/2018/04/seargin-tech-writer.png)
+![](images/seargin-tech-writer.png)

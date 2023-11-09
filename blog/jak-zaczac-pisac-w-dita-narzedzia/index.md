@@ -177,8 +177,8 @@ Drugi mechanizm przenosi pliki wynikowe na serwer FTP, serwer webowy, wysyła je
 mailem, itp.
 
 \[caption id="attachment_5327" align="aligncenter"
-width="1280"\][![](images/publikacja-techwriter-pl-1.jpg)](http://techwriter.pl/wp-content/uploads/2017/01/publikacja-techwriter-pl-1.jpg)
-Schemat publikacji DITA\[/caption\]
+width="1280"\]![](images/publikacja-techwriter-pl-1.jpg) Schemat publikacji
+DITA\[/caption\]
 
 Najpopularniejszym narzędziem do publikacji dity jest DITA Open Toolkit. Nie ma
 on dedykowanego interfejsu, choć takie istnieją, np. w CMSach, albo

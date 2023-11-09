@@ -25,4 +25,4 @@ obrazek, żeby go wyświetlić w pełnej rozdzielczości) albo
 Aplikować można poprzez wysłanie CV i listu motywacyjnego w języku angielskim na
 adres: **[pawel.kowaluk(at)3di-info.com](mailto:pawel.kowaluk@3di-info.com)**.
 
-[![tech_writer_3di](images/tech_writer_3di.png)](http://techwriter.pl/wp-content/uploads/2016/12/tech_writer_3di.png)
+![tech_writer_3di](images/tech_writer_3di.png)

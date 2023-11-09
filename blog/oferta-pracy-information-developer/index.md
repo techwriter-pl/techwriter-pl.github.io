@@ -34,4 +34,4 @@ rozdzielczości) albo bezpośrednio u źródła (w pełnej krasie graficznej i z
 działającym przyciskiem do aplikowania):
 [http://jobs.dynatrace.pl/information-developer](http://jobs.dynatrace.pl/information-developer/)
 
-[![ruxit_ogloszenie](images/ruxit_ogloszenie.png)](http://techwriter.pl/wp-content/uploads/2015/09/ruxit_ogloszenie.png)
+![ruxit_ogloszenie](images/ruxit_ogloszenie.png)

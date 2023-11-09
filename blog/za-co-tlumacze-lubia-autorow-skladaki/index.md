@@ -40,7 +40,7 @@ korporacyjnej i lokalnych norm oraz zwyczajów. Z wykształcenia mgr inż.
 informatyki (Systemy Informacji Naukowo-Technicznej, Politechnika Wrocławska).
 Hobby w kolejności alfabetycznej: biegówki, dzieci, ogrodnictwo, Tatry.
 
-[![](images/marta_bartnicka-295x300.jpg)](http://techwriter.pl/wp-content/uploads/2018/03/marta_bartnicka.jpg)
+![](images/marta_bartnicka-295x300.jpg)
 
 Jeśli chcecie skontaktować się z Martą, możecie wysłać jej maila
 na [martab@kofeina.net](mailto:martab@kofeina.net).

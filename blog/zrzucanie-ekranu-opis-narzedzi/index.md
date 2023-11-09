@@ -29,7 +29,7 @@ Windowsie narzędzia “Wycinanie” (“Snipping Tool”), poprzez darmowe narz
 kończąc na płatnych programach. Dzisiaj chciałbym opisać dwa programy, których
 używam w swojej pracy: Impict i Greenshot.
 
-[![Impict](images/Impict.png)](http://techwriter.pl/wp-content/uploads/2014/02/Impict.png)
+![Impict](images/Impict.png)
 
 Impict dostajemy razem z programem do pisania dokumentacji Help and Manual,
 który opisywałem [tutaj](http://techwriter.pl/help-and-manual-opis-narzedzia/)
@@ -80,7 +80,7 @@ Jeszcze jedna ciekawostka. Ze strony
 program TNT Screen Capture, który jest jakby obciętą wersją Impicta. Główne
 funkcje są prawie takie same, tylko np. niektóre formaty zapisu nie są dostępne.
 
-[![Greenshot](images/Greenshot.png)](http://techwriter.pl/wp-content/uploads/2014/02/Greenshot.png)
+![Greenshot](images/Greenshot.png)
 
 Jak już wspomniałem braki Impicta rekompensuję sobie programem Greenshot.
 Uważam, że jest to świetne narzędzie z trzech powodów. Po pierwsze jest darmowe
@@ -107,7 +107,7 @@ Office lub w programie graficznym, jak np. Paint.NET lub wrzucić gdzieś w
 zależności od zainstalowanych wtyczek. Poniżej obrazek poglądowy menu
 kontekstowego.
 
-[![GreenshotMenu](images/GreenshotMenu-222x300.png)](http://techwriter.pl/wp-content/uploads/2014/02/GreenshotMenu.png)
+![GreenshotMenu](images/GreenshotMenu-222x300.png)
 
 Sam edytor pozwala nam na dodawanie różnych elementów, takich jak tekst,
 kształty czy zaznaczenie obszaru, oraz na docinanie obrazka, które tutaj działa

@@ -29,4 +29,4 @@ finansowe - tyle udało nam się wydusić z naszego zaufanego "źródła" 😊 J
 chcesz dowiedzieć się więcej to nie zwlekaj tylko aplikuj. Liczba miejsc
 ograniczona 😉 Powodzenia!
 
-[![techwriter_intern_dassault](images/techwriter_intern_dassault.png)](http://techwriter.pl/wp-content/uploads/2015/05/techwriter_intern_dassault.png)
+![techwriter_intern_dassault](images/techwriter_intern_dassault.png)

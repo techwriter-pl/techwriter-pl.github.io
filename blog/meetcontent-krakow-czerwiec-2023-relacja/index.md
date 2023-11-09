@@ -21,7 +21,7 @@ i Developer Advocate.
 
 ### Pierwsze spotkanie z Contentem
 
-[![](images/meetContent14_3-1024x768.jpeg)](http://techwriter.pl/wp-content/uploads/2023/07/meetContent14_3.jpeg)
+![](images/meetContent14_3-1024x768.jpeg)
 
 Dla Andrzeja i Julii Dąbrowskiej krakowska odsłona MeetContent nr 14 była
 pierwszym spotkaniem tego rodzaju. Zdarzenie to miało miejsce 20.06.2023 w
@@ -62,7 +62,7 @@ specjalność.
 
 ### Okiem Technical Writerki
 
-[![](images/meetContent14-2-1024x768.jpeg)](http://techwriter.pl/wp-content/uploads/2023/07/meetContent14-2.jpeg)
+![](images/meetContent14-2-1024x768.jpeg)
 
 W ostatnim czasie był to niejedyny występ Basi. Około trzy tygodnie wcześniej
 mieliśmy przyjemność słuchać jej na dużej scenie [soap!](https://soapconf.com/)
@@ -80,7 +80,7 @@ współpracy z wieloma specjalistami, zwłaszcza z Developer Advocate.
 
 ### Kim jest Developer Advocate?
 
-[![](images/MicrosoftTeams-image-164-768x1024.jpg)](http://techwriter.pl/wp-content/uploads/2023/07/MicrosoftTeams-image-164-scaled.jpg)
+![](images/MicrosoftTeams-image-164-768x1024.jpg)
 
 Olga rozpoczęła opowieścią o nieformalnym określeniu krążącym w gronie podobnych
 jej specjalistów. Otóż, na stronie internetowej opisującej stanowiska różnych
@@ -137,7 +137,7 @@ możliwości.
 
 ### Kim nie jest Developer Advocate?
 
-[![](images/meetContent14-1-1024x768.jpeg)](http://techwriter.pl/wp-content/uploads/2023/07/meetContent14-1.jpeg)
+![](images/meetContent14-1-1024x768.jpeg)
 
 Mimo pewnych nachodzących na siebie obszarów, rolę Developer Advocate można
 odróżnić od Developer Evangelist. Ewangelista często postrzegany jest bardziej

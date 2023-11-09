@@ -32,4 +32,4 @@ Aplikować można również poprzez wysłanie CV i listu motywacyjnego na adres:
 
 Powodzenia!
 
-[![tech_writer_softjourn](images/tech_writer_softjourn.png)](http://techwriter.pl/wp-content/uploads/2016/11/tech_writer_softjourn.png)
+![tech_writer_softjourn](images/tech_writer_softjourn.png)

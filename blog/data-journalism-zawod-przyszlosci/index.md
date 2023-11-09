@@ -32,7 +32,7 @@ przyswojenia, graficznej formie. Często w formie
 
 Np. takich jak ta:
 
-[![dane_infografika](images/dane_infografika.gif)](http://techwriter.pl/wp-content/uploads/2014/09/dane_infografika.gif)
+![dane_infografika](images/dane_infografika.gif)
 
 Nie każdy może być "żurnalistą danych", ale też... dla chcącego nic trudnego!
 Nam, techwriterom, zawód ten wydaje się bardzo bliskim - wymaga połączenia

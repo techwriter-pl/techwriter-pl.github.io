@@ -76,8 +76,7 @@ używane odpowiednio.
   bezużyteczne dla czytelników. Instruując Waszego odbiorcę zwiększacie szanse
   na lepsze zrozumienie podanych informacji, zwłaszcza jeśli odbiorca nie ma
   wiedzy w danej dziedzinie lub jest nowy. \[caption id="attachment_10690"
-  align="aligncenter"
-  width="700"\][![](images/Packaging-design-symbols.png)](http://techwriter.pl/wp-content/uploads/2022/01/Packaging-design-symbols.png)
+  align="aligncenter" width="700"\]![](images/Packaging-design-symbols.png)
   dobra praktyka - grafiki z opisami\[/caption\]
 - Używaj tylko czytelnych grafik - jeśli czytelnik ledwo rozumie, w jakim celu
   użyta jest grafika lub obraz - psuje to ideę przejrzystości i prostoty tekstu.
@@ -110,12 +109,10 @@ używane odpowiednio.
   odrębne ilustracje zamiast jednej. Dlaczego? Po pierwsze, opisana zostanie
   tylko jedna czynność. Po drugie, pojedyncza ilustracja z jedną czynnością
   motywuje do dalszego działania 😉 . \[caption id="attachment_10691"
-  align="aligncenter"
-  width="251"\][![](images/im_2.png)](http://techwriter.pl/wp-content/uploads/2022/01/im_2.png)
-  dobra praktyka - grafika przedstawiająca  krok 1\[/caption\] \[caption
-  id="attachment_10692" align="aligncenter"
-  width="229"\][![](images/im_3.png)](http://techwriter.pl/wp-content/uploads/2022/01/im_3.png)
-  dobra praktyka - grafika przedstawiająca krok 2               \[/caption\]
+  align="aligncenter" width="251"\]![](images/im_2.png) dobra praktyka - grafika
+  przedstawiająca  krok 1\[/caption\] \[caption id="attachment_10692"
+  align="aligncenter" width="229"\]![](images/im_3.png) dobra praktyka - grafika
+  przedstawiająca krok 2               \[/caption\]
 - Zwróć uwagę na kolorystykę grafik - często są one czarno-białe lub
   szaro-białe. Jeśli jednak grafika będzie kolorowa – ważne jest aby czytelnicy
   zinterpretowali ja poprawnie. W niektórych kulturach kolor czerwony może być
@@ -131,8 +128,8 @@ używane odpowiednio.
   krajach odbiorcy będą czytać je od lewej do prawej. W innych może być
   odwrotnie. Jeśli jest to konieczne ponumeruj swoje grafiki. \[caption
   id="attachment_10700" align="aligncenter"
-  width="1200"\][![](images/3ea36f59243041.5bea906e6f176.png)](http://techwriter.pl/wp-content/uploads/2022/01/3ea36f59243041.5bea906e6f176.png)
-  dobra praktyka - numeracja kroków\[/caption\]
+  width="1200"\]![](images/3ea36f59243041.5bea906e6f176.png) dobra praktyka -
+  numeracja kroków\[/caption\]
 - Używaj tylko neutralnych grafik - unikaj przedstawiania rzeczy, które są
   uważane za obraźliwe w różnych kulturach.
 - Utwórz standardowy styl lub szablon ilustracji - ustal najlepszy format
@@ -141,8 +138,8 @@ używane odpowiednio.
   dokumentacja jest taka sama, niezależnie od tego, kto jest jej autorem. Pomaga
   to również nowym członkom zespołu w ich szybkim włączeniu w proces tworzenia
   treści. \[caption id="attachment_10693" align="aligncenter"
-  width="549"\][![](images/ill_4.png)](http://techwriter.pl/wp-content/uploads/2022/01/ill_4.png)
-  dobra praktyka - użycie standardowych linii i stylu\[/caption\]
+  width="549"\]![](images/ill_4.png) dobra praktyka - użycie standardowych linii
+  i stylu\[/caption\]
 - Użyj zdrowego rozsądku - przemyśl, gdzie wizualna reprezentacja danych jest
   ważna, a gdzie zbędna. Na przykład, jeśli macie kilka tematów dotyczących
   podobnych danych dla różnych rozdziałów, w instrukcji będziecie musieli
@@ -156,7 +153,7 @@ używane odpowiednio.
 
 Temat elementów wizualnych jest dość szeroki i można by go jeszcze bardziej
 rozwinąć. Jednak, żeby nie przeładować Was informacjami skończymy tutaj.
-[![](images/a42d1-300x267-1.jpg)](http://techwriter.pl/wp-content/uploads/2022/01/a42d1-300x267-1.jpg)
+![](images/a42d1-300x267-1.jpg)
 
 Mamy nadzieję, że w przedstawionych przykładach i wskazówkach przekazaliśmy
 kilka przydatnych informacji, które będziecie mogli wdrożyć w Waszej

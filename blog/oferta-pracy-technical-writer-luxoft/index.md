@@ -28,4 +28,4 @@ najlepiej wysłać swoje CV do osoby prowadzącej rekrutację na
 
 Powodzenia!
 
-[![](images/tech_writer_luxoft.png)](http://techwriter.pl/wp-content/uploads/2018/08/tech_writer_luxoft.png)
+![](images/tech_writer_luxoft.png)

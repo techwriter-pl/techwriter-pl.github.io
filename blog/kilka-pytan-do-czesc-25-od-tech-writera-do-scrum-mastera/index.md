@@ -56,7 +56,7 @@ w Wordzie też było sporo po drodze. Natomiast teraz spędzam czas głównie
 wlepiając wzrok w narzędzia do zarządzania projektami zwinnymi pokroju Jiry czy
 Azure DevOps.
 
-[![](images/piotr-300x264.jpg)](http://techwriter.pl/wp-content/uploads/2021/11/piotr.jpg)`Piotr dyskutuje z użytkownikiem końcowym o usability, simplicity i user experience.`
+![](images/piotr-300x264.jpg)`Piotr dyskutuje z użytkownikiem końcowym o usability, simplicity i user experience.`
 
 #### Co sprawiło, że zacząłeś interesować się rolą scrum mastera?
 

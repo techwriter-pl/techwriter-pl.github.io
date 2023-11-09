@@ -31,4 +31,4 @@ adres: **[pawel.kowaluk(at)3di-info.com](mailto:pawel.kowaluk@3di-info.com)**.
 
 Powodzenia!
 
-[![junior_tech_writer_3di](images/junior_tech_writer_3di.jpg)](http://techwriter.pl/wp-content/uploads/2016/10/junior_tech_writer_3di.jpg)
+![junior_tech_writer_3di](images/junior_tech_writer_3di.jpg)

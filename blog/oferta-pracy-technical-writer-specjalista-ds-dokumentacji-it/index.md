@@ -19,4 +19,4 @@ Szczegółowe informacje poniżej, albo bezpośrednio u źródła:
 
 [http://panel.talentbridge.pl/podglad/918/Technical-Writer--Specjalista-ds--dokumentacji.html](http://panel.talentbridge.pl/podglad/918/Technical-Writer--Specjalista-ds--dokumentacji.html)
 
-[![Integer_oferta_pracy](images/Integer_oferta_pracy.jpg)](http://techwriter.pl/wp-content/uploads/2015/06/Integer_oferta_pracy.jpg)
+![Integer_oferta_pracy](images/Integer_oferta_pracy.jpg)
