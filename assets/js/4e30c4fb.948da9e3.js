@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[13516],{36871:e=>{e.exports=JSON.parse('{"label":"rzuty-ekranu","permalink":"/tags/rzuty-ekranu","allTagsPath":"/tags","count":1,"unlisted":false}')}}]);

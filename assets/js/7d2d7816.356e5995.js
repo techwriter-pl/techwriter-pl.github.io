@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[10839],{54699:a=>{a.exports=JSON.parse('{"label":"zarzadzanie-trescia","permalink":"/tags/zarzadzanie-trescia","allTagsPath":"/tags","count":9,"unlisted":false}')}}]);

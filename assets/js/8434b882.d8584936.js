@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[9742],{23871:e=>{e.exports=JSON.parse('{"label":"z-przymruzeniem-oka","permalink":"/tags/z-przymruzeniem-oka","allTagsPath":"/tags","count":28}')}}]);

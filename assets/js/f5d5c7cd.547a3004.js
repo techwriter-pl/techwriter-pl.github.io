@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[63451],{78831:e=>{e.exports=JSON.parse('{"label":"pomoc-uzytkownika","permalink":"/tags/pomoc-uzytkownika","allTagsPath":"/tags","count":27,"unlisted":false}')}}]);

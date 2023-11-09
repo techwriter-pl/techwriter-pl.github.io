@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[46057],{61309:e=>{e.exports=JSON.parse('{"label":"bez-kategorii","permalink":"/tags/bez-kategorii","allTagsPath":"/tags","count":3,"unlisted":false}')}}]);
