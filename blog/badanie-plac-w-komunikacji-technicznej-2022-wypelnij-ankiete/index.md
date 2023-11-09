@@ -44,7 +44,7 @@ pracujecie.
 
 Zebranymi informacjami oczywiście podzielimy się na łamach portalu.
 
-[![](images/kliknij-aby-wypełnić-ankietę-2.png)](https://forms.gle/GkgDufeLyd7Qau9VA)
+[![](images/kliknij-aby-wypełnić-ankiete-2.png)](https://forms.gle/GkgDufeLyd7Qau9VA)
 
 Ankieta jest dostępna pod tym [linkiem](https://forms.gle/GkgDufeLyd7Qau9VA).
 

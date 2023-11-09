@@ -59,7 +59,7 @@ na bieżąco publikuje jej rezultaty:
 Przykładowe rezultaty dotyczące narzędzi wykorzystywanych podczas tworzenia
 dokumentacji dla programistów:
 
-![](images/Narzędzia-API-dokumentacja.png)
+![](images/Narzedzia-API-dokumentacja.png)
 
 Ależ Przydatne Informacje (API) chciałoby się krzyknąć! 😊
 
