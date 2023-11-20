@@ -13,9 +13,9 @@ coverImage: 'MeetContentKRK1123.png'
 # Zapraszamy na listopadowy MeetContentKRK!
 
 Choć zimny listopad nie zachęca do wyjść, kolejne spotkanie MeetContentKRK
-zdecydowanie jest warte założenia czapki i rękawic 🙂 Tym razem porozmawiamy o
+zdecydowanie warte jest założenia czapki i rękawic 🙂 Tym razem porozmawiamy o
 temacie niezwykle ważnym w tworzeniu treści - **dostępności**, a naszą
-przewodniczką po temacie będzie
+przewodniczką będzie
 [**Patrycja Guzik**](https://www.linkedin.com/in/patrycja-guzik-12155a96/).
 
 <!--truncate-->
@@ -24,23 +24,24 @@ Pamiętajcie o rejestracji, to pozwoli nam na wybór odpowiedniej sali i
 zaplanowanie poczęstunku. Link do formularza znajdziecie
 [tutaj](https://forms.gle/6NwB1c9vBh9Rverx8).
 
-**A w tym miesiącu:**
+## Temat
 
 _Alt tekst: Cichy bohater w służbie dostępności_
 
-Podczas naszego listopadowego spotkania dowiecie się czym jest alt tekst oraz
-czemu i jak go używać. Innymi słowy, nauczycie się jak sprawić, źeby wszyscy
+Podczas naszego listopadowego spotkania dowiecie się czym jest tekst alternatywny,
+jak go używać, i, przede wszystkim, dlaczego. Innymi słowy, dowiecie się jak sprawić, źeby wszyscy
 zrozumieli żart, nawet jezeli nie mogą zobaczyć mema.
 
 Naszą prelegentką jest **Patrycja Guzik**, technical writerka z prawie
 dziewięcioletnim stażem. Z tworzeniem dokumentacji zetknęła się przypadkiem, ale
-wraz z upływam lat odkryła w sobie pasję do pisania. Celem Patrycji jest przedstawienie złożonych tematów w sposób łatwy zrozumienia dla użytkownika, a
-pomagają jej w tym eksperymenty z materiałami wizualnymi i strukturą informacji.
+wraz z upływam lat odkryła w sobie pasję do pisania. Celem Patrycji jest przedstawianie złożonych
+treści w sposób przystępny (i dostępny) dla użytkownika, a
+pomagają jej w tym eksperymenty z materiałami wizualnymi i architekturą informacji.
 
 ## Kiedy i gdzie
 
-**Data**: 28.11.2023 
-**Czas**: 18:00 
+**Data**: 28.11.2023 <br />
+**Czas**: 18:00 <br />
 **Miejsce**: Collegium Paderevianum, Sala
 A02, al. Mickiewicza 9, Kraków
 
@@ -49,7 +50,7 @@ A02, al. Mickiewicza 9, Kraków
 17 spotkanie MeetContentKRK jest sponsorowane przez Box i Instytut Filologii
 Angielskiej Uniwersytetu Jagiellońskiego.
 
-**Box**
+### Box
 
 Box po raz pierwszy zaistniał na rynku w 2005 roku. Oferuje dostęp do informacji
 z każdego miejsca i ułatwia współpracę przy wykorzystaniu narzędzi do
@@ -57,7 +58,7 @@ zarządzania zawartością online, która umożliwia organizacjom usprawnienie
 procesów biznesowych i wspiera codzienną pracę. Dzisiaj baza klientów Box liczy
 97,000 firm – a to dopiero początek.
 
-**Uniwersytet Jagielloński, Instytut Filologii Angielskiej**
+### Uniwersytet Jagielloński, Instytut Filologii Angielskiej
 
 Instytucie Filologii Angielskiej jest najstarszą placówką anglistyczną w Polsce.
 Główne obiekty Wydziału Filologicznego zlokalizowane są w centrum Krakowa, w
