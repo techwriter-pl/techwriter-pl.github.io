@@ -84,7 +84,7 @@ Poniżej szczegółowe zagadnienia, które zostaną poruszone w trakcie zajęć:
 - Tworzenie treści przy pomocy narzędzi AI
 - Github Pages
 - Lokalizacja treści
-- Audyt istniejącej dokumentacji.
+- Audyt istniejącej dokumentacji
 
 **Podstawy technologii webowych:**
 
