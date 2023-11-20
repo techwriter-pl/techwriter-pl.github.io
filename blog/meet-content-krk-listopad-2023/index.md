@@ -29,8 +29,8 @@ zaplanowanie poczęstunku. Link do formularza znajdziecie
 _Alt tekst: Cichy bohater w służbie dostępności_
 
 Podczas naszego listopadowego spotkania dowiecie się czym jest tekst alternatywny,
-jak go używać, i, przede wszystkim, dlaczego. Innymi słowy, dowiecie się jak sprawić, źeby wszyscy
-zrozumieli żart, nawet jezeli nie mogą zobaczyć mema.
+oraz jak i dlaczego go używać. Innymi słowy, dowiecie się jak sprawić żeby wszyscy
+zrozumieli żart nawet jezeli nie mogą zobaczyć mema.
 
 Naszą prelegentką jest **Patrycja Guzik**, technical writerka z prawie
 dziewięcioletnim stażem. Z tworzeniem dokumentacji zetknęła się przypadkiem, ale
@@ -60,7 +60,7 @@ procesów biznesowych i wspiera codzienną pracę. Dzisiaj baza klientów Box li
 
 ### Uniwersytet Jagielloński, Instytut Filologii Angielskiej
 
-Instytucie Filologii Angielskiej jest najstarszą placówką anglistyczną w Polsce.
+Instytut Filologii Angielskiej jest najstarszą placówką anglistyczną w Polsce.
 Główne obiekty Wydziału Filologicznego zlokalizowane są w centrum Krakowa, w
 nowoczesnym kompleksie budynków Collegium Paderevianum wyposażonym w laboratoria
 językowe oraz strefy wypoczynkowe. Biblioteka Wydziału Filologicznego zapewnia
@@ -88,16 +88,13 @@ z nadchodzącymi wydarzeniami i proponować nowe tematy.
 ### Często zadawane pytania
 
 P: Czy wydarzenie będzie nagrywane czy transmitowane na żywo? <br /> O: Na
-chwilę obecną nie, pomysł i format tych spotkań jest taki, że mają one charakter
-wydarzeń osobistych.
+chwilę obecną nie.
 
-P: Czy można udostępnić prezentacje prelegentów? <br /> O: Niektórzy prelegenci
-mogą chcieć udostępnić swój zestaw slajdów, inni mogą nie chcieć tego robić.
-Podczas wydarzenia można jednak zadawać pytania i robić zdjęcia.
+P: Czy można udostępnić prezentacje prelegentów? <br /> O: To zależy od prelegenta.
+Podczas wydarzenia można jednak zadawać pytania i robić zdjęcia, można też zapytać o udostępnienie slajdów.
 
 P: Zarejestrowałem/am się, ale nie mogę wziąć udziału. Co powinienem/nnam
-zrobić? <br /> O: Choć będzie nam Ciebie brakowało, wiemy, że życie stawia na
-drodze różne przeciwności. Jeśli wiesz, że nie dasz rady przyjść, daj nam znać.
+zrobić? <br /> O: Jeśli wiesz, że nie dasz rady przyjść, daj nam znać.
 Możesz to zrobić pisząc na naszą skrzynkę pocztową (contact@meetcontent.org) lub
 wysyłając wiadomość na platformie Slack.
 
