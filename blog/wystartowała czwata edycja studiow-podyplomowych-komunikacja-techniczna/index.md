@@ -104,7 +104,7 @@ Poniżej szczegółowe zagadnienia, które zostaną poruszone w trakcie zajęć:
 **Techniki i narzędzia stosowane w dokumentacji technicznej:**
 
 - Single sourcing, szablony i zmienne
-- Wstęp do DITA, narzędzie oXygen XML editor
+- Wstęp do DITA, narzędzie Oxygen XML Editor
 - Praktyczne zastosowanie narzędzia MadCap Flare
 - Przygotowanie treści do lokalizacji, zapoznanie z narzędziem memoQ
 - Publikacja projektów dokumentacyjnych
