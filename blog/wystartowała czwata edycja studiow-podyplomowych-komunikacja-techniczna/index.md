@@ -45,7 +45,7 @@ kierunku „Writing in Intercultural and Global Contexts”. To doskonała okazj
 zdobyć nowe doświadczenie, szersze perspektywy, nowe znajomości i cenny wpis do
 CV. Szczegóły [tutaj](https://www.craft.do/s/VOd7B47ytH4bhA).
 
-Kadrę zasilił Lance'a Cummings znany z corocznych wystąpień na konferencji Soap!. Wykładowcy to tylko i wyłącznie praktycy, którzy
+Kadrę zasilił Lance'a Cummings znany z corocznych wystąpień na [konferencji soap!](https://soapconf.com/). Wykładowcy to tylko i wyłącznie praktycy, którzy
 są rozpoznawalni na międzynarodowej scenie techcommu. 
 
 ### Partnerzy
