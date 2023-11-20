@@ -27,7 +27,7 @@ koleżanki Magdy, która jest już absolwentką tego kierunku i dzieli się swoi
 wrażeniami:
 
 - [po pierwszym semestrze](http://techwriter.pl/komunikacja-techniczna-jak-sie-studiuje/)
-- [po drugim semestrze](http://techwriter.pl/komunikacja-techniczna-drugi-semestr/).
+- [po drugim semestrze](http://techwriter.pl/komunikacja-techniczna-drugi-semestr/)
 
 Wiemy również, że część studentów znalazła pracę w trakcie lub zaraz po obronach prac, jak choćby [Paweł](https://www.linkedin.com/posts/pawel-woznikowski_this-is-probably-my-most-personal-professional-activity-7114579776916353024-kC8e/).   
 
