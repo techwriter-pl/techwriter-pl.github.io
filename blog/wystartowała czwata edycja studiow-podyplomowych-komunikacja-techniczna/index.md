@@ -99,7 +99,7 @@ Poniżej szczegółowe zagadnienia, które zostaną poruszone w trakcie zajęć:
 - Formaty dokumentacji
 - Profesjonalne narzędzia do tworzenia treści
 - Techniki wizualnego przedstawiania treści
-- Wprowadzenie do statycznych generatorów stron.
+- Wprowadzenie do statycznych generatorów stron
 
 **Techniki i narzędzia stosowane w dokumentacji technicznej:**
 
