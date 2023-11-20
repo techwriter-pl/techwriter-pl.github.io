@@ -34,7 +34,7 @@ Wiemy również, że część studentów znalazła pracę w trakcie lub zaraz po
 ### Co się zmienia a co pozostaje?
 
 Prowadzący nieustannie dostosowują program odpowiadając na feedback studentów. Zwiększono liczbę praktycznych zajęć w pierwszym semestrze oraz wprowadzono zajęcia z pisania przy użyciu AI. Studenci będą mogli dzięki temu więcej czasu w drugim semestrze poświęcić na projekt końcowy, który będzie ich wizytówką i głównym elementem ich profesjonalnego portfolio.
-Warto podkreślić, e w programie znajduje się pełny kurs przygotowujący do certyfikacji ITCQF – koszt szkolenia na wolnym
+Warto podkreślić, że w programie znajduje się pełny kurs przygotowujący do certyfikacji ITCQF – koszt szkolenia na wolnym
 rynku to właściwie połowa kosztu całych studiów. Naszym zdaniem stosunek jakości
 do ceny przedstawia się bardzo korzystnie.
 
