@@ -19,22 +19,22 @@ Szczegóły poniżej.
 
 # Studia z naszej perspektywy
 
-Kolejny rok objęliśmy patronatem kierunek 
+Kolejny rok z rzędu objęliśmy patronatem kierunek 
 [Komunikacja Techniczna na Akademii Finansów i Biznesu Vistula](https://www.vistula.edu.pl/kierunki-studiow/studia-podyplomowe/informatyka/komunikacja-techniczna). Nieustannie nas cieszy spore zainteresowanie i nie mamy wątpliwości, że przyczynia się do tego pozytywny odbiór poprzednich edycji.
 
 Zachęcamy Was do przeczytania artykułów naszej redakcyjnej
 koleżanki Magdy, która jest już absolwentką tego kierunku i dzieli się swoimi
 wrażeniami:
 
-- [po pierwszym semestrze](http://techwriter.pl/komunikacja-techniczna-jak-sie-studiuje/),
-- [po drugim semestrze](http://techwriter.pl/komunikacja-techniczna-drugi-semestr/).
+- [po pierwszym semestrze](http://techwriter.pl/komunikacja-techniczna-jak-sie-studiuje/)
+- [po drugim semestrze](http://techwriter.pl/komunikacja-techniczna-drugi-semestr/)
 
 Wiemy również, że część studentów znalazła pracę w trakcie lub zaraz po obronach prac, jak choćby [Paweł](https://www.linkedin.com/posts/pawel-woznikowski_this-is-probably-my-most-personal-professional-activity-7114579776916353024-kC8e/).   
 
 ### Co się zmienia a co pozostaje?
 
 Prowadzący nieustannie dostosowują program odpowiadając na feedback studentów. Zwiększono liczbę praktycznych zajęć w pierwszym semestrze oraz wprowadzono zajęcia z pisania przy użyciu AI. Studenci będą mogli dzięki temu więcej czasu w drugim semestrze poświęcić na projekt końcowy, który będzie ich wizytówką i głównym elementem ich profesjonalnego portfolio.
-Warto podkreślić, e w programie znajduje się pełny kurs przygotowujący do certyfikacji ITCQF – koszt szkolenia na wolnym
+Warto podkreślić, że w programie znajduje się pełny kurs przygotowujący do certyfikacji ITCQF – koszt szkolenia na wolnym
 rynku to właściwie połowa kosztu całych studiów. Naszym zdaniem stosunek jakości
 do ceny przedstawia się bardzo korzystnie.
 
@@ -45,7 +45,7 @@ kierunku „Writing in Intercultural and Global Contexts”. To doskonała okazj
 zdobyć nowe doświadczenie, szersze perspektywy, nowe znajomości i cenny wpis do
 CV. Szczegóły [tutaj](https://www.craft.do/s/VOd7B47ytH4bhA).
 
-Kadrę zasilił Lance'a Cummings znany z corocznych wystąpień na konferencji Soap!. Wykładowcy to tylko i wyłącznie praktycy, którzy
+Kadrę zasilił Lance'a Cummings znany z corocznych wystąpień na [konferencji soap!](https://soapconf.com/). Wykładowcy to tylko i wyłącznie praktycy, którzy
 są rozpoznawalni na międzynarodowej scenie techcommu. 
 
 ### Partnerzy
@@ -57,7 +57,7 @@ narzędzi wykorzystywanych przez profesjonalnych technical writerów. Komunikacj
 # Najważniejsze informacje o studiach
 
 Studia są w 100% zdalne, mogą w nich brać udział osoby z dowolnego miejsca w
-Polsce i na świecie. Nadal mona dołączyć.
+Polsce i na świecie. Nadal można dołączyć.
 
 Zajęcia trwają dwa semestry i kosztują 6800 zł. Na zajęcia organizatorzy
 przewidzieli 170 godzin wykładów i warsztatów. Każdy absolwent studiów będzie miał możliwość
@@ -73,7 +73,7 @@ Poniżej szczegółowe zagadnienia, które zostaną poruszone w trakcie zajęć:
 - Komunikacja techniczna w przykładach
 - Zawód Technical Writer
 - Rola dokumentacji w procesie wytwarzania produktu
-- Sposoby pozyskiwania informacji źródłowych.
+- Sposoby pozyskiwania informacji źródłowych
 
 **Praca z tekstem technicznym:**
 
@@ -82,9 +82,9 @@ Poniżej szczegółowe zagadnienia, które zostaną poruszone w trakcie zajęć:
 - Identyfikacja odbiorców i analiza przypadków użycia
 - Strategia tworzenia i publikowania treści (content strategy)
 - Tworzenie treści przy pomocy narzędzi AI
-- Github pages
+- Github Pages
 - Lokalizacja treści
-- Audyt istniejącej dokumentacji.
+- Audyt istniejącej dokumentacji
 
 **Podstawy technologii webowych:**
 
@@ -92,19 +92,19 @@ Poniżej szczegółowe zagadnienia, które zostaną poruszone w trakcie zajęć:
 - Narzędzia deweloperskie w przeglądarce
 - Tworzenie prostej strony internetowej w HTML
 - Formatowanie utworzonej strony przy pomocy arkuszy styli CSS
-- Publikowanie strony na GitHub Pages.
+- Publikowanie strony na GitHub Pages
 
 **Podstawowe technologie komunikacji technicznej:**
 
 - Formaty dokumentacji
 - Profesjonalne narzędzia do tworzenia treści
 - Techniki wizualnego przedstawiania treści
-- Wprowadzenie do statycznych generatorów stron.
+- Wprowadzenie do statycznych generatorów stron
 
 **Techniki i narzędzia stosowane w dokumentacji technicznej:**
 
 - Single sourcing, szablony i zmienne
-- Wstęp do DITA, narzędzie oXygen XML editor
+- Wstęp do DITA, narzędzie Oxygen XML Editor
 - Praktyczne zastosowanie narzędzia MadCap Flare
 - Przygotowanie treści do lokalizacji, zapoznanie z narzędziem memoQ
 - Publikacja projektów dokumentacyjnych
@@ -119,7 +119,7 @@ oparciu o akredytowane materiały szkoleniowe ITCQF.
 - Estymowanie pracy
 - Wprowadzanie recenzji i korekty
 - Praktyczne przygotowanie prac zaliczeniowych
-- Prezentacje końcowe projektów.
+- Prezentacje końcowe projektów
 
 Wszystkie potrzebne informacje znajdziecie na
 [stronie kierunku.](https://www.vistula.edu.pl/kierunki-studiow/kontynuacja-edukacji/studia-podyplomowe/informatyka/komunikacja-techniczna)
