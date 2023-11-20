@@ -51,7 +51,7 @@ są rozpoznawalni na międzynarodowej scenie techcommu.
 ### Partnerzy
 
 Dzięki współpracy z partnerami (memoQ, MadCap oraz Atlassian) uczestnicy mają możliwość poznania najpopularniejszych i często bardzo drogich
-narzędzi wykorzystywanych przez profesjonalnych technical writerów. Komunikacja na studiach odbywa się na Confluence a wszystkie zadania śledzone są w Jira. Zajęcia prowadzone są na platformie Microsoft Teams. Projekty tworzone są przy użyciu MadCap Flare, Oxygena, czy narzędzi i technik wspierających DocAsCode.
+narzędzi wykorzystywanych przez profesjonalnych technical writerów. Komunikacja na studiach odbywa się na Confluence, a wszystkie zadania śledzone są w Jira. Zajęcia prowadzone są na platformie Microsoft Teams. Projekty tworzone są przy użyciu MadCap Flare, Oxygena, czy narzędzi i technik wspierających DocAsCode.
 
 
 # Najważniejsze informacje o studiach
