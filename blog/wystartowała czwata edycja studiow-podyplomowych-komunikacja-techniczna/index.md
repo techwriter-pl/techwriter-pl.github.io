@@ -119,7 +119,7 @@ oparciu o akredytowane materiały szkoleniowe ITCQF.
 - Estymowanie pracy
 - Wprowadzanie recenzji i korekty
 - Praktyczne przygotowanie prac zaliczeniowych
-- Prezentacje końcowe projektów.
+- Prezentacje końcowe projektów
 
 Wszystkie potrzebne informacje znajdziecie na
 [stronie kierunku.](https://www.vistula.edu.pl/kierunki-studiow/kontynuacja-edukacji/studia-podyplomowe/informatyka/komunikacja-techniczna)
