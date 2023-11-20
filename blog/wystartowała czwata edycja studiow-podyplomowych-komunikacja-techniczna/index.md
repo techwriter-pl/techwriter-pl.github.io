@@ -92,7 +92,7 @@ Poniżej szczegółowe zagadnienia, które zostaną poruszone w trakcie zajęć:
 - Narzędzia deweloperskie w przeglądarce
 - Tworzenie prostej strony internetowej w HTML
 - Formatowanie utworzonej strony przy pomocy arkuszy styli CSS
-- Publikowanie strony na GitHub Pages.
+- Publikowanie strony na GitHub Pages
 
 **Podstawowe technologie komunikacji technicznej:**
 
