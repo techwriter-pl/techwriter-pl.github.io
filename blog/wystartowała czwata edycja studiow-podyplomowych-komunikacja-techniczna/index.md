@@ -19,7 +19,7 @@ Szczegóły poniżej.
 
 # Studia z naszej perspektywy
 
-Kolejny rok objęliśmy patronatem kierunek 
+Kolejny rok z rzędu objęliśmy patronatem kierunek 
 [Komunikacja Techniczna na Akademii Finansów i Biznesu Vistula](https://www.vistula.edu.pl/kierunki-studiow/studia-podyplomowe/informatyka/komunikacja-techniczna). Nieustannie nas cieszy spore zainteresowanie i nie mamy wątpliwości, że przyczynia się do tego pozytywny odbiór poprzednich edycji.
 
 Zachęcamy Was do przeczytania artykułów naszej redakcyjnej
