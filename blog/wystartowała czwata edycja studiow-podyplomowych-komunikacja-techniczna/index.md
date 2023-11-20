@@ -73,7 +73,7 @@ Poniżej szczegółowe zagadnienia, które zostaną poruszone w trakcie zajęć:
 - Komunikacja techniczna w przykładach
 - Zawód Technical Writer
 - Rola dokumentacji w procesie wytwarzania produktu
-- Sposoby pozyskiwania informacji źródłowych.
+- Sposoby pozyskiwania informacji źródłowych
 
 **Praca z tekstem technicznym:**
 
