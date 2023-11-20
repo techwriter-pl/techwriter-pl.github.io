@@ -57,7 +57,7 @@ narzędzi wykorzystywanych przez profesjonalnych technical writerów. Komunikacj
 # Najważniejsze informacje o studiach
 
 Studia są w 100% zdalne, mogą w nich brać udział osoby z dowolnego miejsca w
-Polsce i na świecie. Nadal mona dołączyć.
+Polsce i na świecie. Nadal można dołączyć.
 
 Zajęcia trwają dwa semestry i kosztują 6800 zł. Na zajęcia organizatorzy
 przewidzieli 170 godzin wykładów i warsztatów. Każdy absolwent studiów będzie miał możliwość
