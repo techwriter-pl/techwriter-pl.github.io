@@ -82,7 +82,7 @@ Poniżej szczegółowe zagadnienia, które zostaną poruszone w trakcie zajęć:
 - Identyfikacja odbiorców i analiza przypadków użycia
 - Strategia tworzenia i publikowania treści (content strategy)
 - Tworzenie treści przy pomocy narzędzi AI
-- Github pages
+- Github Pages
 - Lokalizacja treści
 - Audyt istniejącej dokumentacji.
 
