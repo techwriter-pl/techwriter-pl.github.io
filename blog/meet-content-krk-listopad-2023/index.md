@@ -30,7 +30,7 @@ _Alt tekst: Cichy bohater w służbie dostępności_
 
 Podczas naszego listopadowego spotkania dowiecie się czym jest tekst alternatywny,
 oraz jak i dlaczego go używać. Innymi słowy, dowiecie się jak sprawić żeby wszyscy
-zrozumieli żart nawet jezeli nie mogą zobaczyć mema.
+zrozumieli żart nawet jeżeli nie mogą zobaczyć mema.
 
 Naszą prelegentką jest **Patrycja Guzik**, technical writerka z prawie
 dziewięcioletnim stażem. Z tworzeniem dokumentacji zetknęła się przypadkiem, ale
@@ -60,11 +60,11 @@ procesów biznesowych i wspiera codzienną pracę. Dzisiaj baza klientów Box li
 
 ### Uniwersytet Jagielloński, Instytut Filologii Angielskiej
 
-Instytut Filologii Angielskiej jest najstarszą placówką anglistyczną w Polsce.
-Główne obiekty Wydziału Filologicznego zlokalizowane są w centrum Krakowa, w
+Instytut Filologii Angielskiej jest najstarszym wydziałem Filologii Angielskiej w Polsce.
+Główne obiekty Wydziału zlokalizowane są w centrum Krakowa, w
 nowoczesnym kompleksie budynków Collegium Paderevianum wyposażonym w laboratoria
 językowe oraz strefy wypoczynkowe. Biblioteka Wydziału Filologicznego zapewnia
-użytkownikom dostęp do krajowych i światowych zasobów informacji – stanowi
+studentom dostęp do krajowych i światowych zasobów informacji – stanowi
 bowiem nowoczesne centrum informacji dotyczące filologii obcych, historii
 literatury, językoznawstwa, metodyki nauczania, historii, kultury, sztuki oraz
 przekładoznawstwa.
@@ -95,8 +95,8 @@ Podczas wydarzenia można jednak zadawać pytania i robić zdjęcia, można też
 
 P: Zarejestrowałem/am się, ale nie mogę wziąć udziału. Co powinienem/nnam
 zrobić? <br /> O: Jeśli wiesz, że nie dasz rady przyjść, daj nam znać.
-Możesz to zrobić pisząc na naszą skrzynkę pocztową (contact@meetcontent.org) lub
-wysyłając wiadomość na platformie Slack.
+Możesz to zrobić pisząc na adres contact@meetcontent.org lub
+wysyłając wiadomość na [Slacku](https://meetcontent.slack.com/).
 
 P: Spóźniłem/am się na wydarzenie i nie mogę wejść. Jak powiadomić
 organizatorów? <br /> O: Możesz napisać do nas na Slacku, będziemy monitorować
