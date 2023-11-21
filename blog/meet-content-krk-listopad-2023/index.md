@@ -30,7 +30,7 @@ _Alt tekst: Cichy bohater w służbie dostępności_
 
 Podczas naszego listopadowego spotkania dowiecie się czym jest tekst
 alternatywny, oraz jak i dlaczego go używać. Innymi słowy, dowiecie się jak
-sprawić żeby wszyscy zrozumieli żart nawet jeżeli nie mogą zobaczyć mema.
+sprawić, żeby wszyscy zrozumieli żart nawet jeżeli nie mogą zobaczyć mema.
 
 Naszą prelegentką jest **Patrycja Guzik**, technical writerka z prawie
 dziewięcioletnim stażem. Z tworzeniem dokumentacji zetknęła się przypadkiem, ale
@@ -60,7 +60,7 @@ procesów biznesowych i wspiera codzienną pracę. Dzisiaj baza klientów Box li
 ### Uniwersytet Jagielloński, Instytut Filologii Angielskiej
 
 Instytut Filologii Angielskiej jest najstarszym wydziałem Filologii Angielskiej
-w Polsce. Główne obiekty Wydziału zlokalizowane są w centrum Krakowa, w
+w Polsce. Główne obiekty wydziału zlokalizowane są w centrum Krakowa, w
 nowoczesnym kompleksie budynków Collegium Paderevianum wyposażonym w laboratoria
 językowe oraz strefy wypoczynkowe. Biblioteka Wydziału Filologicznego zapewnia
 studentom dostęp do krajowych i światowych zasobów informacji – stanowi bowiem
@@ -81,13 +81,13 @@ dla Was interesujące. Możecie zgłosić temat, a my dołożymy wszelkich stara
 znaleźć prelegentów, którzy będą mogli o nim porozmawiać. Możecie także sami
 zostać prelegentami na jednym z naszych spotkań.
 
-Osoby zainteresowane mogą dołączyć do MeetContent na Slacku, aby być na bieżąco
+Osoby zainteresowane mogą dołączyć do MeetContent na [Slacku](https://meetcontent.slack.com/), aby być na bieżąco
 z nadchodzącymi wydarzeniami i proponować nowe tematy.
 
 ### Często zadawane pytania
 
-P: Czy wydarzenie będzie nagrywane czy transmitowane na żywo? <br /> O: Na
-chwilę obecną nie, stawiamy na spotkania na miejscu gdzie możesz osobiście
+P: Czy wydarzenie będzie nagrywane lub transmitowane na żywo? <br /> O: Na
+chwilę obecną nie. Stawiamy na spotkania na miejscu gdzie możesz osobiście
 poznać inne osoby zainteresowane contentem.
 
 P: Czy można udostępnić prezentacje prelegentów? <br /> O: To zależy od
@@ -100,5 +100,5 @@ zrobić pisząc na adres contact@meetcontent.org lub wysyłając wiadomość na
 [Slacku](https://meetcontent.slack.com/).
 
 P: Spóźniłem/am się na wydarzenie i nie mogę wejść. Jak powiadomić
-organizatorów? <br /> O: Możesz napisać do nas na Slacku, będziemy monitorować
-kanał przez pierwsze 30 minut od rozpoczęcia wydarzenia.
+organizatorów? <br /> O: Możesz napisać do nas na Slacku.
+Podczas każdego wydarzenia, przez pierwsze 30 minut od rozpoczęcia na bieżąco sprawdzamy wiadomości na naszym kanale .
