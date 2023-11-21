@@ -23,7 +23,7 @@ Kolejny rok z rzędu objęliśmy patronatem kierunek
 [Komunikacja Techniczna na Akademii Finansów i Biznesu Vistula](https://www.vistula.edu.pl/kierunki-studiow/studia-podyplomowe/informatyka/komunikacja-techniczna). Nieustannie nas cieszy spore zainteresowanie i nie mamy wątpliwości, że przyczynia się do tego pozytywny odbiór poprzednich edycji.
 
 Zachęcamy Was do przeczytania artykułów naszej redakcyjnej
-koleżanki Magdy, która jest już absolwentką tego kierunku i dzieli się swoimi
+koleżanki Magdy, absolwentki tego kierunku, która dzieli się swoimi
 wrażeniami:
 
 - [po pierwszym semestrze](http://techwriter.pl/komunikacja-techniczna-jak-sie-studiuje/)
