@@ -28,22 +28,21 @@ zaplanowanie poczęstunku. Link do formularza znajdziecie
 
 _Alt tekst: Cichy bohater w służbie dostępności_
 
-Podczas naszego listopadowego spotkania dowiecie się czym jest tekst alternatywny,
-oraz jak i dlaczego go używać. Innymi słowy, dowiecie się jak sprawić żeby wszyscy
-zrozumieli żart nawet jeżeli nie mogą zobaczyć mema.
+Podczas naszego listopadowego spotkania dowiecie się czym jest tekst
+alternatywny, oraz jak i dlaczego go używać. Innymi słowy, dowiecie się jak
+sprawić żeby wszyscy zrozumieli żart nawet jeżeli nie mogą zobaczyć mema.
 
 Naszą prelegentką jest **Patrycja Guzik**, technical writerka z prawie
 dziewięcioletnim stażem. Z tworzeniem dokumentacji zetknęła się przypadkiem, ale
-wraz z upływam lat odkryła w sobie pasję do pisania. Celem Patrycji jest przedstawianie złożonych
-treści w sposób przystępny (i dostępny) dla użytkownika, a
-pomagają jej w tym eksperymenty z materiałami wizualnymi i architekturą informacji.
+wraz z upływam lat odkryła w sobie pasję do pisania. Celem Patrycji jest
+przedstawianie złożonych treści w sposób przystępny (i dostępny) dla
+użytkownika, a pomagają jej w tym eksperymenty z materiałami wizualnymi i
+architekturą informacji.
 
 ## Kiedy i gdzie
 
-**Data**: 28.11.2023 <br />
-**Czas**: 18:00 <br />
-**Miejsce**: Collegium Paderevianum, Sala
-A02, al. Mickiewicza 9, Kraków
+**Data**: 28.11.2023 <br /> **Czas**: 18:00 <br /> **Miejsce**: Collegium
+Paderevianum, Sala A02, al. Mickiewicza 9, Kraków
 
 ## Kilka słów o sponsorach
 
@@ -60,13 +59,13 @@ procesów biznesowych i wspiera codzienną pracę. Dzisiaj baza klientów Box li
 
 ### Uniwersytet Jagielloński, Instytut Filologii Angielskiej
 
-Instytut Filologii Angielskiej jest najstarszym wydziałem Filologii Angielskiej w Polsce.
-Główne obiekty Wydziału zlokalizowane są w centrum Krakowa, w
+Instytut Filologii Angielskiej jest najstarszym wydziałem Filologii Angielskiej
+w Polsce. Główne obiekty Wydziału zlokalizowane są w centrum Krakowa, w
 nowoczesnym kompleksie budynków Collegium Paderevianum wyposażonym w laboratoria
 językowe oraz strefy wypoczynkowe. Biblioteka Wydziału Filologicznego zapewnia
-studentom dostęp do krajowych i światowych zasobów informacji – stanowi
-bowiem nowoczesne centrum informacji dotyczące filologii obcych, historii
-literatury, językoznawstwa, metodyki nauczania, historii, kultury, sztuki oraz
+studentom dostęp do krajowych i światowych zasobów informacji – stanowi bowiem
+nowoczesne centrum informacji dotyczące filologii obcych, historii literatury,
+językoznawstwa, metodyki nauczania, historii, kultury, sztuki oraz
 przekładoznawstwa.
 
 ## Poznaj MeetContentKRK
@@ -88,15 +87,17 @@ z nadchodzącymi wydarzeniami i proponować nowe tematy.
 ### Często zadawane pytania
 
 P: Czy wydarzenie będzie nagrywane czy transmitowane na żywo? <br /> O: Na
-chwilę obecną nie.
+chwilę obecną nie, stawiamy na spotkania na miejscu gdzie możesz osobiście
+poznać inne osoby zainteresowane contentem.
 
-P: Czy można udostępnić prezentacje prelegentów? <br /> O: To zależy od prelegenta.
-Podczas wydarzenia można jednak zadawać pytania i robić zdjęcia, można też zapytać o udostępnienie slajdów.
+P: Czy można udostępnić prezentacje prelegentów? <br /> O: To zależy od
+prelegenta. Podczas wydarzenia można jednak zadawać pytania i robić zdjęcia,
+można też zapytać o udostępnienie slajdów.
 
 P: Zarejestrowałem/am się, ale nie mogę wziąć udziału. Co powinienem/nnam
-zrobić? <br /> O: Jeśli wiesz, że nie dasz rady przyjść, daj nam znać.
-Możesz to zrobić pisząc na adres contact@meetcontent.org lub
-wysyłając wiadomość na [Slacku](https://meetcontent.slack.com/).
+zrobić? <br /> O: Jeśli wiesz, że nie dasz rady przyjść, daj nam znać. Możesz to
+zrobić pisząc na adres contact@meetcontent.org lub wysyłając wiadomość na
+[Slacku](https://meetcontent.slack.com/).
 
 P: Spóźniłem/am się na wydarzenie i nie mogę wejść. Jak powiadomić
 organizatorów? <br /> O: Możesz napisać do nas na Slacku, będziemy monitorować
