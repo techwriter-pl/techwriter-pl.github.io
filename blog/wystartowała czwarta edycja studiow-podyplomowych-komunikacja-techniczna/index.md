@@ -124,7 +124,7 @@ oparciu o akredytowane materiały szkoleniowe ITCQF.
 Wszystkie potrzebne informacje znajdziecie na
 [stronie kierunku.](https://www.vistula.edu.pl/kierunki-studiow/kontynuacja-edukacji/studia-podyplomowe/informatyka/komunikacja-techniczna)
 
-Jeśli ukończyliście podobne kierunki studiów, dajcie znać w komentarzu, jakie są Wasze wrażenia i doświadczenia. 
+Jeśli ukończyliście podobne kierunki studiów, dajcie znać w komentarzu jakie są Wasze wrażenia i doświadczenia. 
 
 Życzymy powodzenia studentom. Trzymamy kciuki za ciekawe, praktyczne zajęcia oraz szybkie znalezienie pracy po
 ich ukończeniu!
