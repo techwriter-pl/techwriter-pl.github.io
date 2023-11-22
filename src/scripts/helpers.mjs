@@ -1,6 +1,6 @@
-import { dirname, resolve } from 'path';
+import { dirname, join, resolve } from 'path';
 import { fileURLToPath } from 'url';
-import { readdirSync, existsSync } from 'fs';
+import { readdirSync, existsSync, statSync } from 'fs';
 
 const __filename = fileURLToPath(import.meta.url);
 
@@ -22,3 +22,23 @@ function getBlogPostPaths() {
 }
 
 export const allPostPaths = getBlogPostPaths();
+
+export function getAllFilesRecursively(rootDir, arrayOfFiles, extension) {
+  const files = readdirSync(rootDir);
+
+  files.forEach(function (file) {
+    if (statSync(rootDir + '/' + file).isDirectory()) {
+      arrayOfFiles = getAllFilesRecursively(
+        rootDir + '/' + file,
+        arrayOfFiles,
+        extension
+      );
+    } else {
+      if (file.endsWith(extension)) {
+        arrayOfFiles.push(join(rootDir, '/', file));
+      }
+    }
+  });
+
+  return arrayOfFiles;
+}
