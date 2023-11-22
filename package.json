@@ -29,8 +29,10 @@
     "@docusaurus/module-type-aliases": "^3.0.0",
     "@docusaurus/tsconfig": "3.0.0",
     "@docusaurus/types": "^3.0.0",
+    "@types/gm": "^1",
     "@types/react": "^18.2.29",
     "fast-xml-parser": "4.2.7",
+    "gm": "^1.25.0",
     "prettier": "3.0.2",
     "typescript": "~5.2.2",
     "yaml-loader": "^0.8.0"
