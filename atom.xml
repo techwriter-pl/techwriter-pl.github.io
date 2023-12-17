@@ -2,11 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://techwriter.pl/</id>
     <title>techwriter.pl Blog</title>
-    <updated>2023-11-20T00:00:00.000Z</updated>
+    <updated>2023-12-14T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://techwriter.pl/"/>
     <subtitle>techwriter.pl Blog</subtitle>
     <icon>https://techwriter.pl/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MeetContentWRO grudzień 2023 - Podsumowanie]]></title>
+        <id>https://techwriter.pl/meetcontent-wroclaw-grudzien-2023-podsumowanie</id>
+        <link href="https://techwriter.pl/meetcontent-wroclaw-grudzien-2023-podsumowanie"/>
+        <updated>2023-12-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Wrocławski oddział MeetContent zatoczył w grudniu koło: dokładnie rok temu wystartowaliśmy z postpandemiczną reaktywacją meetupów! Co więcej dokładnie rok temu gościliśmy w firmie Infor, czyli tej samej w której odbył się nasz ostatni w tym roku MeetContentWRO.]]></summary>
+        <content type="html"><![CDATA[<p>Wrocławski oddział MeetContent zatoczył w grudniu koło: dokładnie rok temu wystartowaliśmy z postpandemiczną reaktywacją meetupów! Co więcej dokładnie rok temu gościliśmy w firmie <strong>Infor</strong>, czyli tej samej w której odbył się nasz ostatni w tym roku MeetContentWRO.</p>
+<p>Grudniowy meetup upłynął nam w atmosferze przedświątecznej - i choć w ojczystym języku unboxing nie brzmi tak zgrabnie, gubimy również subtelną grę językową gdyż nasza prelegentka, <a href="https://www.linkedin.com/in/barbara-szwarc/" target="_blank" rel="noopener noreferrer">Basia Czyż</a>, pracuje w firmie Box, to jej prezentacja zatytułowana: UnBOXing API Documentation dała nam dużo radości 😉</p>
+<p>5 grudnia w siedzibie firmy Infor, Basia Czyż, na co dzień <em>Senior Technical Writer</em> w firmie Box oraz jedna z krakowskich organizatorek MeetContentKRK przybliżyła nam temat dokumentacji API.</p>
+<p>Basia zaczęła swoją prezentację od tego co to jest API i dlaczego potrzebuje dokumentacji? Pozostając w świątecznym klimacie, koncept został wytłumaczony na przykładzie zapytań (GET) o prezenty w świątecznym worku.</p>
+<p>W kolejnym kroku mogliśmy dopytywać o szczegóły dotyczące konkretnych prezentów (atrybuty), dodawać lub usuwać prezenty z worka (zasobu). Używając zapytań z metodą , POST lub DELETE można było też odpowiednio: dodać nowy prezent albo całkowicie prezent z worka usunąć.</p>
+<p>Na zapytania przychodzą odpowiedzi, które zwracają na przykład konkretny kolor, rodzaj lub rozmiar czyli wartości atrybutów, w zależności o co pytaliśmy.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="po-co-dokumentować-api">Po co dokumentować API?<a href="https://techwriter.pl/meetcontent-wroclaw-grudzien-2023-podsumowanie#po-co-dokumentowa%C4%87-api" class="hash-link" aria-label="Bezpośredni link do Po co dokumentować API?" title="Bezpośredni link do Po co dokumentować API?">​</a></h3>
+<p>Cel dokumentacji API jest dość jasny: bez niej użytkownicy byliby skazani na metodę prób i błędów i szybkość współpracy i integracji z nowym API pozostawiałby wiele do życzenia.</p>
+<p>API nie ma interfejsu, a dokumentacja jest jedyną widoczną wskazówką w zakresie:</p>
+<ul>
+<li>Jak to działa?</li>
+<li>Jakie ścieżki prowadzą do jakich zasobów?</li>
+<li>Jakie zasoby są w ogóle dostępne do odpytania?</li>
+<li>Jakich parametrów użyć w zapytaniu oraz jak odczytać to co zostanie zwrócone?</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="api-w-boxie">API w BOXie<a href="https://techwriter.pl/meetcontent-wroclaw-grudzien-2023-podsumowanie#api-w-boxie" class="hash-link" aria-label="Bezpośredni link do API w BOXie" title="Bezpośredni link do API w BOXie">​</a></h3>
+<p>Basia opowiedziała nam nieco o procesie powstawania nowych API oraz o procesie dokumentacyjnym.
+Dokumentacja API firmy Box dostępna jest publicznie pod <a href="https://developer.box.com/reference/" target="_blank" rel="noopener noreferrer">TYM LINKIEM</a>. Dokumentacja jest podzielona na tematyczne grupy, pozwalając szybko odnaleźć zasoby które interesują użytkowników a także dostępne endpointy, których z kolei można użyć, żeby uzyskać konkretne informacje dotyczące danego zasobu.</p>
+<p>Każdy z zasobów opisany jest w szczegółach i zawiera informacje o parametrach zapytania, opisy atrybutów, kody błedu, przykładowe zapytanie i odpowiedź.</p>
+<p>Podlinkowane są też materiały pomocnicze, dodające kontekst i ułatwiające użytkownikom zintegrowanie się z API.</p>
+<p>Często API jest skomplikowane i wymaga wykonania całej litanii zapytań w określonej kolejności. Materiały pomocnicze, tzw. <em>integration guides</em>, nie należą bezpośrednio do dokumentacji danego zasobu ale są niezbędne żeby poprawnie API używać i pozwalają na odtworzenie rekomendowanej ścieżki działań.</p>
+<p>API, które dokumentuje Basia, obejmuje także dodatkowe, reużywalne atrybuty, których można użyć do skonstruowania zapytania i odpowiedzi. Jeżeli zaistnieje taka potrzeba, atrybuty mogą mieć kilka wersji.
+Takie podejście pozwala na ponowne używanie istniejących parametrów (content reuse) i zachowanie spójności nazewnictwa i opisów.</p>
+<p>Zasoby, endpointy i atrybuty dokumentowane są w osobnych plikach .yml, z których potem budowana jest specyfikacja - jeden duży plik JSON.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="wyzwania">Wyzwania<a href="https://techwriter.pl/meetcontent-wroclaw-grudzien-2023-podsumowanie#wyzwania" class="hash-link" aria-label="Bezpośredni link do Wyzwania" title="Bezpośredni link do Wyzwania">​</a></h3>
+<p>Oczywiście dokumentacja API ma swoje wyzwania, które różne firmy starają się przezwyciężyć na różne sposoby. Wyzwania dla dokumentalisty biorą się również z samych założeń wyjściowych jakie firma przyjmie.</p>
+<p>I tak w przypadku dokumentacji do Box API, dużym wyzwaniem są tak zwane breaking changes, czyli zmiany w API, które zmuszają klientów do ponownej integracji. Na przykład zmianą typu breaking change jest usunięcie atrybutu, który już jest wykorzystywany w integracjach.</p>
+<p>Kolejnym wyzwaniem jest też wersjonowanie API i utrzymywanie (lub nie - w zależności od użytkowników i polityki firmy) starych wersji.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="dokumentacja-api---jak-to-ugryźć">Dokumentacja API - jak to ugryźć?<a href="https://techwriter.pl/meetcontent-wroclaw-grudzien-2023-podsumowanie#dokumentacja-api---jak-to-ugry%C5%BA%C4%87" class="hash-link" aria-label="Bezpośredni link do Dokumentacja API - jak to ugryźć?" title="Bezpośredni link do Dokumentacja API - jak to ugryźć?">​</a></h3>
+<p>Basia miała kilka cennych wskazówek dla dokumentalistów chcących zająć się dokumentowaniem API:</p>
+<ul>
+<li>Po pierwsze, trzeba API poznać, a to najlepiej wychodzi poprzez rozmowę z programistami, którzy to je tworzą.</li>
+<li>Kolejna sprawa to nie skakanie od razu na głęboką wodę i zaczęcie od wysokopoziomowych integration guides, żeby dać sobie szansę zapoznać się z dostępnymi zasobami, ich przeznaczeniem i tym jak wpasowują się w szerszy ekosystem produktu.</li>
+<li>Jak już nabierzemy wprawy, to dobrze jest też być blisko zespołów kiedy nowe dopiero API powstaje, żeby widzieć jego przeznaczenie i funkcje od samego początku.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="źródła">Źródła<a href="https://techwriter.pl/meetcontent-wroclaw-grudzien-2023-podsumowanie#%C5%BAr%C3%B3d%C5%82a" class="hash-link" aria-label="Bezpośredni link do Źródła" title="Bezpośredni link do Źródła">​</a></h3>
+<p>Basia postanowiła podzielić się swoją prezentacją, którą znajdziecie <a href="https://docs.google.com/presentation/d/1Fnu2R4MOmnrevXZIL6IocnxRp5TMpjg4/edit#slide=id.p1" target="_blank" rel="noopener noreferrer">TUTAJ</a> 🤩
+W prezentacji są również przetestowane i polecane kursy i źródła wiedzy do nauki o API.</p>
+<p>Oceniając po dużej ilośc pytań do naszej prelegentki wnioskujemy, że temat cieszy się dużym zainteresowaniem.</p>
+<p>Dziękujemy i do zobaczenia następnym razem!</p>
+<p><img loading="lazy" src="https://techwriter.pl/assets/images/Basia2-c6127d78e25f76eee1386e02adf347e3.jpg" width="3024" height="1529" class="img_ev3q">
+<img loading="lazy" src="https://techwriter.pl/assets/images/Basia3-bd345f2f05ad084b3027b47f3bd8134e.jpg" width="3273" height="2296" class="img_ev3q">
+<img loading="lazy" src="https://techwriter.pl/assets/images/Basia1-3d266c05d1464d797fbcea4eb4e1216a.jpg" width="4032" height="2101" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Monika Mrozek</name>
+            <uri>https://www.linkedin.com/in/monika-mrozek/</uri>
+        </author>
+        <category label="meetup" term="meetup"/>
+        <category label="api" term="api"/>
+        <category label="dokuemntacja developerska" term="dokuemntacja developerska"/>
+        <category label="spolecznosc" term="spolecznosc"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MeetContentKRK listopad 2023]]></title>
         <id>https://techwriter.pl/meet-content-krk-listopad-2023</id>
@@ -2549,7 +2607,7 @@ zakwaterowania i dojazdu – o to musicie zadbać sami.</p>
 <h5 class="anchor anchorWithStickyNavbar_LWe7" id="na-miejscu-dla-studentów--35000-pln-brutto---rejestracja-do-30092023-do-godz-1000">NA MIEJSCU dla studentów – 350,00 PLN brutto - rejestracja do 30.09.2023 do godz. 10:00<a href="https://techwriter.pl/konferencja-tlumaczy-2023-juz-we-wrzesniu#na-miejscu-dla-student%C3%B3w--35000-pln-brutto---rejestracja-do-30092023-do-godz-1000" class="hash-link" aria-label="Bezpośredni link do NA MIEJSCU dla studentów – 350,00 PLN brutto - rejestracja do 30.09.2023 do godz. 10:00" title="Bezpośredni link do NA MIEJSCU dla studentów – 350,00 PLN brutto - rejestracja do 30.09.2023 do godz. 10:00">​</a></h5>
 </li>
 <li>
-<h5 class="anchor anchorWithStickyNavbar_LWe7" id="online--30750-pln-brutto---rejestracja-do-30092023-do-godz-1000">ONLINE&nbsp; – 307,50 PLN brutto - rejestracja do 30.09.2023 do godz. 10:00<a href="https://techwriter.pl/konferencja-tlumaczy-2023-juz-we-wrzesniu#online--30750-pln-brutto---rejestracja-do-30092023-do-godz-1000" class="hash-link" aria-label="Bezpośredni link do ONLINE&nbsp; – 307,50 PLN brutto - rejestracja do 30.09.2023 do godz. 10:00" title="Bezpo�średni link do ONLINE&nbsp; – 307,50 PLN brutto - rejestracja do 30.09.2023 do godz. 10:00">​</a></h5>
+<h5 class="anchor anchorWithStickyNavbar_LWe7" id="online--30750-pln-brutto---rejestracja-do-30092023-do-godz-1000">ONLINE&nbsp; – 307,50 PLN brutto - rejestracja do 30.09.2023 do godz. 10:00<a href="https://techwriter.pl/konferencja-tlumaczy-2023-juz-we-wrzesniu#online--30750-pln-brutto---rejestracja-do-30092023-do-godz-1000" class="hash-link" aria-label="Bezpośredni link do ONLINE&nbsp; – 307,50 PLN brutto - rejestracja do 30.09.2023 do godz. 10:00" title="Bezpośredni link do ONLINE&nbsp; – 307,50 PLN brutto - rejestracja do 30.09.2023 do godz. 10:00">​</a></h5>
 </li>
 </ul>
 <p>Szczegóły dotyczące biletów oraz linki do rejestracji
@@ -2886,118 +2944,6 @@ naturalnie ‘wpasował’ się w dany rynek.</p>
         <category label="news" term="news"/>
         <category label="ze-swiata" term="ze-swiata"/>
         <category label="meetcontent" term="meetcontent"/>
-        <category label="spolecznosc" term="spolecznosc"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KONFERENCJE 2023 - DRUGIE PÓŁROCZE]]></title>
-        <id>https://techwriter.pl/konferencje-2023-drugie-polrocze</id>
-        <link href="https://techwriter.pl/konferencje-2023-drugie-polrocze"/>
-        <updated>2023-06-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Zbliża się druga połowa roku, więc najwyższa pora, by przekazać Wam listę]]></summary>
-        <content type="html"><![CDATA[<p>Zbliża się druga połowa roku, więc najwyższa pora, by przekazać Wam listę
-branżowych konferencji. Zapraszam do zapoznania się z kalendarium na drugie
-półrocze 2023 roku.</p>
-<p>Jak zawsze, będę śledzić zmiany i uzupełniać dane w miarę ich pojawiania się. Do
-Was mam prośbę – jeśli wiecie o jakimś wydarzeniu związanym z branżą komunikacji
-technicznej, o którym nie wspomniałam, dajcie znać, a ja przekażę info dalej 😉</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="czerwiec">Czerwiec<a href="https://techwriter.pl/konferencje-2023-drugie-polrocze#czerwiec" class="hash-link" aria-label="Bezpośredni link do Czerwiec" title="Bezpośredni link do Czerwiec">​</a></h3>
-<p><strong>01-03 czerwca, Kraków, Polska – <a href="https://soapconf.com/" target="_blank" rel="noopener noreferrer">soap! 2023</a> – online &amp;
-in-person</strong></p>
-<p>01-03 czerwca, Londyn, Wielka Brytania – <a href="https://markupuk.org/" target="_blank" rel="noopener noreferrer">Markup UK</a></p>
-<p>06-07 czerwca, Sofia, Bułgaria –
-<a href="https://evolution-of-tc.com/" target="_blank" rel="noopener noreferrer">Evolution of TC 2023</a></p>
-<p>05-07 czerwca, Amsterdam, Królestwo Niderlandów –
-<a href="https://uxstrat.com/europe/" target="_blank" rel="noopener noreferrer">UX Strat Europe</a></p>
-<p>06-08 czerwca, Malmo, Szwecja –
-<a href="https://locworld.com/events/locworld49-malmo-2023/" target="_blank" rel="noopener noreferrer">LocWorldWide49</a></p>
-<p>13-16 czerwca, Amsterdam, Królestwo Niderlandów –
-<a href="https://www.agilealliance.org/xp2023/" target="_blank" rel="noopener noreferrer">XP 2023</a></p>
-<p>13-16 czerwca, Delft, Królestwo Niderlandów –
-<a href="https://agile-online.org/conference-2023" target="_blank" rel="noopener noreferrer">Agile 2023</a></p>
-<p>14 czerwca –
-<a href="https://uxaustralia.com.au/conferences/women-in-ux-2021-meet-up" target="_blank" rel="noopener noreferrer">Women in UX</a> –
-online</p>
-<p>20-22 czerwca, Austin, Texas, USA –
-<a href="https://uxpa2023.org/" target="_blank" rel="noopener noreferrer">UXPA International 2023</a></p>
-<p>27-29 czerwca, Raleigh, Karolina Północna, USA –
-<a href="https://tice.trainingindustry.com/event/fad6d949-9a06-49b7-81d3-60f2bbe170bd/summary" target="_blank" rel="noopener noreferrer">The Training Industry Conference &amp; Expo (TICE)</a></p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="lipiec">Lipiec<a href="https://techwriter.pl/konferencje-2023-drugie-polrocze#lipiec" class="hash-link" aria-label="Bezpośredni link do Lipiec" title="Bezpośredni link do Lipiec">​</a></h3>
-<p>15-17 lipca, Porto, Portugalia –
-<a href="https://www.elearning-conf.org/" target="_blank" rel="noopener noreferrer">17th International Conference on e-Learning and Digital Learning</a></p>
-<p>17-19 lipca – <a href="https://ideas.infomanagementcenter.com/" target="_blank" rel="noopener noreferrer">ConVEx Ideas 2023</a> –
-online</p>
-<p>17-20 lipca, Ithaca, New York, USA –
-<a href="https://conferences.ieee.org/conferences_events/conferences/conferencedetails/57838" target="_blank" rel="noopener noreferrer">IEEE ProComm 2023</a>
-–&nbsp;online &amp; in-person</p>
-<p>24-28 lipca, Orlando, Floryda, USA –
-<a href="https://www.agilealliance.org/agile2023/" target="_blank" rel="noopener noreferrer">Agile 2023</a></p>
-<p>31 lipca-04 sierpnia –
-<a href="https://www.balisage.net/index.html" target="_blank" rel="noopener noreferrer">Balisage: The Markup Conference 2023</a> –
-online</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="sierpień">Sierpień<a href="https://techwriter.pl/konferencje-2023-drugie-polrocze#sierpie%C5%84" class="hash-link" aria-label="Bezpośredni link do Sierpień" title="Bezpośredni link do Sierpień">​</a></h3>
-<p>22-25 sierpnia, Sydney, Australia –
-<a href="https://uxaustralia.com.au/conferences/ux-australia-2023" target="_blank" rel="noopener noreferrer">UX Australia 2023</a> –
-online &amp; in-person</p>
-<p>22-25 sierpnia, Limerick, Irlandia –
-<a href="https://doceng.org/doceng2023" target="_blank" rel="noopener noreferrer">DocEng 2023</a></p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="wrzesień">Wrzesień<a href="https://techwriter.pl/konferencje-2023-drugie-polrocze#wrzesie%C5%84" class="hash-link" aria-label="Bezpośredni link do Wrzesień" title="Bezpośredni link do Wrzesień">​</a></h3>
-<p>10-12 września –
-<a href="https://www.writethedocs.org/conf/atlantic/2023/" target="_blank" rel="noopener noreferrer">Write the Docs Atlantic 2023</a>
-– online</p>
-<p>11-13 września, Boulder, Kolorado USA – <a href="https://uxstrat.com/usa/" target="_blank" rel="noopener noreferrer">UX Strat USA</a></p>
-<p>19-20 września – <a href="https://uxwriterconference.com/" target="_blank" rel="noopener noreferrer">UX Writer Conference</a> –
-online</p>
-<p>19-20 września, Rochester, Nowy Jork, USA&nbsp;&nbsp; –
-<a href="https://stc-rochester.org/spectrum/" target="_blank" rel="noopener noreferrer">Spectrum 2023</a></p>
-<p>20-21 września, Kopenhaga, Dania -
-<a href="https://dk.nordic-techkomm.com/" target="_blank" rel="noopener noreferrer">Nordic TechKomm 2023</a></p>
-<p>27-29 września, Waszyngton D.C, USA –
-<a href="https://www.contentmarketingworld.com/" target="_blank" rel="noopener noreferrer">Content Marketing World 2023</a></p>
-<p>27-29 września –
-<a href="https://aceseditors.org/conference/aces-vcon-2023" target="_blank" rel="noopener noreferrer">ACES 2023 Virtual Conference</a></p>
-<p><strong>30 września, Warszawa, Polska –
-<a href="https://konferencja-tlumaczy.pl/" target="_blank" rel="noopener noreferrer">Konferencja Tłumaczy 2023</a> – online &amp;
-in-person</strong></p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="październik">Październik<a href="https://techwriter.pl/konferencje-2023-drugie-polrocze#pa%C5%BAdziernik" class="hash-link" aria-label="Bezpośredni link do Październik" title="Bezpośredni link do Październik">​</a></h3>
-<p>04-06 października, Salt Lake City, Utah, USA –
-<a href="https://www.taus.net/events/conferences/annual-conference-2023" target="_blank" rel="noopener noreferrer">TAUS Annual Conference 2023</a></p>
-<p>08-11 października, San Diego, Kalifornia, USA –
-<a href="https://www.madcapsoftware.com/madworld-conferences/madworld-2023/#content" target="_blank" rel="noopener noreferrer">MadWorld 2023</a></p>
-<p>10-12 października –
-<a href="https://locworld.com/call-for-papers-locworld50-silicon-valley/" target="_blank" rel="noopener noreferrer">LocWorld50 Silicon Valley</a></p>
-<p>10-12 października, Graz, Austria –
-<a href="https://worldusabilitycongress.com/" target="_blank" rel="noopener noreferrer">The World Usability Congress 2023</a></p>
-<p>11-13 października, Dublin, Irlandia –
-<a href="https://uxdx.com/emea/2023/" target="_blank" rel="noopener noreferrer">UXDX EMEA 2023</a> – online &amp; in-person</p>
-<p>12 października, Londyn, Wielka Brytania –
-<a href="https://interactconf.com/" target="_blank" rel="noopener noreferrer">Interact London 2023</a></p>
-<p>14-17 października, San Diego, Kalifornia, USA –
-<a href="https://lavacon.org/" target="_blank" rel="noopener noreferrer">LavaCon 2023</a></p>
-<p>25-27 października, Las Vegas, Newada, USA –
-<a href="https://devlearn.com/" target="_blank" rel="noopener noreferrer">DevLearn 2023</a></p>
-<p>26-28 października, Orlando, Floryda, USA –
-<a href="https://sigdoc.acm.org/event/sigdoc-23/" target="_blank" rel="noopener noreferrer">SIGDOC'23</a></p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="listopad">Listopad<a href="https://techwriter.pl/konferencje-2023-drugie-polrocze#listopad" class="hash-link" aria-label="Bezpośredni link do Listopad" title="Bezpośredni link do Listopad">​</a></h3>
-<p>01-04 listopada, Ottawa, Kanada – <a href="https://canux.io/" target="_blank" rel="noopener noreferrer">CanUX 2023</a></p>
-<p>13-15 listopada, Rzym, Włochy - <a href="https://kmis.scitevents.org/" target="_blank" rel="noopener noreferrer">KMIS 2023</a></p>
-<p>13-16 listopada, Lizbona, Portugalia – <a href="https://websummit.com/" target="_blank" rel="noopener noreferrer">WebSummit 2023</a></p>
-<p>14-16 listopada, Stuttgart, Niemcy –
-<a href="https://tcworldconference.tekom.de/" target="_blank" rel="noopener noreferrer">TCWorld Conference 2023</a></p>
-<p>14-16 listopada, TBC – <a href="https://uxdx.com/apac/2023/" target="_blank" rel="noopener noreferrer">UXDX APAC 2023</a> – online</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="grudzień">Grudzień<a href="https://techwriter.pl/konferencje-2023-drugie-polrocze#grudzie%C5%84" class="hash-link" aria-label="Bezpośredni link do Grudzień" title="Bezpośredni link do Grudzień">​</a></h3>
-<p>07-08 grudnia, Melbourne, Australia –
-<a href="https://www.writethedocs.org/conf/australia/2023/" target="_blank" rel="noopener noreferrer">Write the Docs Australia 2023</a></p>
-<p>Jak zawsze czekam na Wasz komentarz, o tym które wydarzenia najbardziej Was
-interesują.</p>]]></content>
-        <author>
-            <name>Agnieszka Gaworska</name>
-            <uri>https://github.com/AGaworska</uri>
-        </author>
-        <category label="news" term="news"/>
-        <category label="ze-swiata" term="ze-swiata"/>
-        <category label="kariera" term="kariera"/>
-        <category label="konferencje" term="konferencje"/>
-        <category label="praca" term="praca"/>
         <category label="spolecznosc" term="spolecznosc"/>
     </entry>
 </feed>

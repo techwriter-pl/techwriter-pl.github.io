@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[5227],{17733:e=>{e.exports=JSON.parse('{"permalink":"/tags/dokuemntacja-developerska","page":1,"postsPerPage":3,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
