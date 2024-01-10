@@ -56,9 +56,9 @@ miejscowe zwyczaje.
 
 Słuchacze dowiedzieli się między innymi o tym, dlaczego nie należy wbijać
 pałeczek w ryż podczas posiłku oraz jak rozumieć szyld z godzinami otwarcia
-japońskiego sklepu od "23:00 - 25:00". Wyjaśnienie tego zapisu jest takie, że
-jeśli sklep jest czynny do 1:00 to do godziny 24:00 dodajemy jedną i otrzymujemy
-25:00 😊
+japońskiego sklepu od "23:00 - 25:00". Wyjaśnienie takiego zapisu jest
+następujące: jeśli sklep jest czynny do 1:00 to do godziny 24:00 dodajemy jedną
+i otrzymujemy 25:00 😊
 
 Arigatō, Patrycja!
 
