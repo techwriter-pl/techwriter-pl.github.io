@@ -57,11 +57,11 @@ Uczestnicy i uczestniczki zdarzenia okazywali zainteresowanie, zadali nawet pyta
 
 ![](images/1694696568105.jpg)
 
-Wisienką na torcie była rozmowa z sensei Mają Wójcik i sensei Jakubem Piaseckim, którzy opowiadali:
-* o dążeniu do mistrzostwa w dziedzinie karate Oyama
-* o pozytywnych wartościach sportowych jakie niesie ze sobą karate
-* o tym jak znajdować w sobie wewnętrzną siłę, by systematycznie rozwijać swoje umiejętności
-* o tym, jak przekonać siebie samego do pójścia na pierwszy trening
+Wisienką na torcie była rozmowa z sensei Mają Wójcik i sensei Jakubem Piaseckim, którzy opowiadali dążeniu do mistrzostwa w dziedzinie karate Oyama oraz pozytywnych wartościach sportowych jakie niesie ze sobą ten sport.
+
+Dowiedzieliśmy się również o tym jak:
+* Znajdować w sobie wewnętrzną siłę, by systematycznie rozwijać swoje umiejętności
+* Przekonać siebie samego do pójścia na pierwszy trening
 
 Mieliśmy przyjemność posłuchać opowieści młodych, ambitnych trenerów, a ich rozważania na temat samodoskonalenia i sposobów radzenia sobie z trudnościami mają również zastosowanie w kontekście technical writingu. Ważnym przesłaniem tamtego wieczoru było to, że uprawianie sportu jest dobrą metodą na zagwarantowanie sobie właściwego stanu mentalnego. Aktywność fizyczna jest świetnym remedium na pracę umysłową w świecie IT: pozwala na zachowanie wewnętrznej równowagi i wydobycie pełni swojego potencjału.
 
