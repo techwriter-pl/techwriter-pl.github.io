@@ -1,14 +1,14 @@
 ---
 title: 'Kilka pytań do - część 30: Tech writing spotyka marketing'
 authors: niewiarowski
-date: '2024-01-11'
+date: '2024-01-15'
 tags:
   - 'warsztat'
   - 'wywiady'
   - 'kariera'
   - 'praca'
   - 'wywiad'
-coverImage: ''
+coverImage: 'kilka_pytan_30.png'
 ---
 
 W dzisiejszym wywiadzie mam przyjemność rozmawiać z
@@ -27,7 +27,6 @@ tam wartościowe wpisy na temat product marketingu, storytellingu i kreatywnośc
 
 ## About Oksana
 
-
 ### 1. Hi Oksana, I'm glad you accepted my invitation. Please tell us a bit about yourself. Let us know your current interests, projects, hobbies, and whatever's on your mind right now.
 
 Thank you for getting in touch, Andrzej! I'm truly honored to have the
@@ -45,7 +44,6 @@ items, creating digital illustrations, and I have recently started learning how
 to play the piano.
 
 ## Technical Writing
-
 
 ### 2. What's your educational background?
 
@@ -87,7 +85,6 @@ Technical Communication Suite, MadCap Flare, Microsoft tools, Snagit, Adobe
 Captivate, Adobe Illustrator, and others.
 
 ## The Transition
-
 
 ### 6. When did you realize that content writing and product marketing management might be right up your alley?
 
@@ -159,7 +156,6 @@ page, allowing ample room for creative expression.
 
 ## Basic concepts of Content Writing and Product Marketing Management
 
-
 ### 9. To those not familiar with the marketing component, can you outline the aims and activities of a product marketing manager?
 
 I can't think of a better definition than the one provided by Yasmeen Turayhi, a
@@ -185,13 +181,13 @@ I vividly recall a conversation I had with one of the CMOs when I re-entered the
 world of marketing. We discussed how to become a professional marketer, and I
 admitted:
 
-_"I still have a lot to_ _learn."_
+> "I still have a lot to learn."
 
 He responded:
 
-_"In my 20 years of journey, I'm still learning. It's_ _a continuous and
-exciting path that constantly offers new_ _perspectives. Experience is the
-lifelong degree you'll attain."_
+> "In my 20 years of journey, I'm still learning. It's a continuous and exciting
+> path that constantly offers new perspectives. Experience is the lifelong
+> degree you'll attain."
 
 This is how I perceive it.
 
@@ -240,11 +236,11 @@ readers about complex topics or processes.
 However, I believe that high-quality content writing should integrate effective
 technical writing principles. This is because the primary objective should
 always be to educate customers about how to use a product and address their
-business needs. I refer to this as the convergence of the technical writing and
-marketing writing worlds.
+business needs. **I refer to this as the convergence of the technical writing and
+ marketing writing worlds**.
+
 
 ## Work of a marketing content writer
-
 
 ### 14. What is the toolset of a product marketer?
 
@@ -300,54 +296,50 @@ narratives and bringing value in understanding how a service or a product works.
 When your creative ideas flow, your passion for writing becomes unmistakable.
 It's a feeling you can't miss — the joy of turning thoughts into words on a
 page. It's whenever you find yourself in a state of flow, and you might not
-notice it at first. 
+notice it at first.
 
-There may be other hints - you may be creative in drawing,
-in knitting, in capturing photos. There's this creative part of you that you
-definitely know about. This is the magic of creativity, where your imagination
-comes to life. 
+There may be other hints - you may be creative in drawing, in knitting, in
+capturing photos. There's this creative part of you that you definitely know
+about. This is the magic of creativity, where your imagination comes to life.
 
-I strongly believe that this might be a great hint for you to
-consider becoming a content writer or a product marketer.
+I strongly believe that this might be a great hint for you to consider becoming
+a content writer or a product marketer.
 
 ### 19. How's your profession affected by artificial intelligence based tools?
 
 It's unavoidable; AI is already here, and we might not fully comprehend its
 reach. I strongly believe AI holds great potential, but we must exercise wisdom
-in its application. 
+in its application.
 
-While it can be valuable for idea generation and perhaps
-editing, entrusting it entirely, such as content creation, is a misstep. Relying
-solely on AI risks diluting your brand, erasing your distinctiveness, and making
-you indistinguishable from the rest.
+While it can be valuable for idea generation and perhaps editing, entrusting it
+entirely, such as content creation, is a misstep. Relying solely on AI risks
+diluting your brand, erasing your distinctiveness, and making you
+indistinguishable from the rest.
 
 ### 20. What are the possible further career options?
 
 I believe that if you have a true passion for something, you're likely to stay
 in the same field. You might progress to higher positions, or you might find it
-less important, and that's entirely your choice. 
+less important, and that's entirely your choice.
 
-Currently, I don't see myself
-becoming a CMO or a higher-level manager, mainly due to my current personality
-and values. However, that could change over time, as we all naturally evolve.
-Change is a constant in life.
+Currently, I don't see myself becoming a CMO or a higher-level manager, mainly
+due to my current personality and values. However, that could change over time,
+as we all naturally evolve. Change is a constant in life.
 
 ## Wellbeing
-
 
 ### 21. How do maintain a healthy work-life balance?
 
 From my own work experience, I've encountered numerous stressful situations that
-eventually took a toll on my health. 
+eventually took a toll on my health.
 
-One instance, in particular, involved my
-inability to voice my concerns and my constant fear of saying no. This led to
-throat constrictions and chronic sore throats, resulting in frequent visits to a
-medical clinic. Only after addressing this issue did my health improve. 
+One instance, in particular, involved my inability to voice my concerns and my
+constant fear of saying no. This led to throat constrictions and chronic sore
+throats, resulting in frequent visits to a medical clinic. Only after addressing
+this issue did my health improve.
 
-I firmly
-believe in the profound connection between the mind and the body, and that this
-connection is essential.
+I firmly believe in the profound connection between the mind and the body, and
+that this connection is essential.
 
 To effectively combat burnout, it's important to cleanse every aspect of your
 energy. With that in mind, I highly recommend delving into the pages of this
@@ -360,7 +352,6 @@ life.
 
 ## Predictions
 
-
 ### 22. What do you think, how your specialization going to evolve?
 
 I strongly believe that the convergence of these two worlds, technical writing
@@ -370,21 +361,19 @@ realms can set your business apart. You might wonder, what do I mean by that?
 
 As mentioned earlier, technical writers, acting as user advocates who provide
 crucial information, add significant value when describing the product. They
-focus on technical aspects and provide a comprehensive product explanation. 
+focus on technical aspects and provide a comprehensive product explanation.
 
-This
-can be further enhanced by product marketers who analyze customers' business
-needs and transform product information into solutions and value creators. 
+This can be further enhanced by product marketers who analyze customers'
+business needs and transform product information into solutions and value
+creators.
 
-In my
-LinkedIn
+In my LinkedIn
 [article](https://www.linkedin.com/pulse/rational-vs-emotional-product-marketing-oksana-pervenonok-aixke),
 I explore various scenarios for promoting a product using technical information
 about the products. This collaboration is a remarkable synergy, which is why I
 refer to it as the convergence of worlds.
 
 ## The burning question
-
 
 ### 23. If you were to choose a prehistoric creature as an avatar for your professional persona, what would it be?
 
@@ -395,5 +384,5 @@ creative content can have a strong impact.
 
 **Thank you Oksana for your time and energy devoted to this interview.**
 
-If any of our readers feels inspired to share their story and experiences, please
-contact us: [kontakt@techwriter.pl](mailto:kontakt@techwriter.pl).
+If any of our readers feels inspired to share their story and experiences,
+please contact us: [kontakt@techwriter.pl](mailto:kontakt@techwriter.pl).
