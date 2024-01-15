@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[62918],{95048:e=>{e.exports=JSON.parse('{"permalink":"/tags/wywiady/page/9","page":9,"postsPerPage":3,"totalPages":10,"totalCount":30,"previousPage":"/tags/wywiady/page/8","nextPage":"/tags/wywiady/page/10","blogDescription":"Blog","blogTitle":"Blog"}')}}]);
