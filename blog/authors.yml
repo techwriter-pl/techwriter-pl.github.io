@@ -1,7 +1,7 @@
 admin:
   name: Darek Drezno
   role: Administrator
-  image_url: https://media.licdn.com/dms/image/C4E03AQGZiA4dcmTlyQ/profile-displayphoto-shrink_800_800/0/1655570299536?e=1698883200&v=beta&t=SLVMi9yYgP3ef66ISxUs5CleeyFXRkYjB9Ff2_jWe7c
+  image_url: /img/avatars/darek-drezno.png
 
 agnieszka:
   name: Agnieszka Gaworska
@@ -11,14 +11,14 @@ agnieszka:
 
 bczyz:
   name: Barbara Czyż
-  role: Author
+  role: Autor
   url: https://github.com/bszwarc
   image_url: https://github.com/bszwarc.png
 
 toporek:
   name: Martyna Toporek
   role: Autor
-  image_url: https://media.licdn.com/dms/image/C4E03AQFf10GLmsisuQ/profile-displayphoto-shrink_800_800/0/1610709480331?e=1698883200&v=beta&t=5SDNu4CJyaljZgze_WuPupzM-vkvwNgE1YyXrQHIArg
+  image_url: /img/avatars/martyna-toporek.png
 
 niewiarowski:
   name: Andrzej Niewiarowski
@@ -60,12 +60,12 @@ kulgawczuk:
   name: Radosław Kulgawczuk
   role: Autor
   url: https://www.linkedin.com/in/rados%C5%82aw-kulgawczuk-96378a178/
-  image_url: https://media.licdn.com/dms/image/C5603AQHX3ERFKUDlWw/profile-displayphoto-shrink_800_800/0/1551870573975?e=1698278400&v=beta&t=MxaVGMPwL0D4QFXnD3DD1ZBcRfufSn8sRLm9TUFM4Pg
+  image_url: /img/avatars/radoslaw-kulgawczuk.png
 
 szablowska:
   name: Sabina Szablowska
   role: Autor
-  image_url: https://media.licdn.com/dms/image/C4D03AQGK43xEXeTlXQ/profile-displayphoto-shrink_800_800/0/1523125033625?e=1698883200&v=beta&t=V0thHVMP155JoGxA-YhTqrybIA1cG5A5DfEcxGYS6vs
+  image_url: /img/avatars/sabina-szablowska.png
 
 milc:
   name: Florian Milc
@@ -83,6 +83,11 @@ piechowicz:
   role: Autor
 
 mrozek:
-  name: Monika Mrozek 
+  name: Monika Mrozek
   role: Autor
   url: https://www.linkedin.com/in/monika-mrozek/
+
+keith-stewart:
+  name: Keith Stewart
+  role: Autor
+  image_url: /img/avatars/keith-stewart.png
