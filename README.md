@@ -88,7 +88,8 @@ coverImage: 'CKSource-logo-2.jpg'
 
 5. Add a cover image to the `static/img/cover` folder. When your VS Code is open
    in your browser, you can drag-and-drop the image from your local file
-   explorer into the folder in the browser window.
+   explorer into the folder in the browser window. The optimal image dimension
+   is 900x600 px.
 
 6. Add your post contents. Read about Markdown features in
    [the official Docusaurus Markdown guide](https://docusaurus.io/docs/markdown-features).
@@ -109,12 +110,17 @@ coverImage: 'CKSource-logo-2.jpg'
 
    **HINT:** Instead of hovering with your mouse, you can press Ctrl+P or Cmd+P.
 
-9. If you want to add images, in the folder where you created your `index.md`
-   file, create an `images` folder and place them there. Remember that file
-   paths in this environment are **case sensitive**.
+9. We use Prettier to format code. It makes it easier for others to add comments
+   to code fragments.
 
-   If you are working in VS Code in the browser, you can drag-and-drop images
-   from your file explorer into the browser window.
+   **HINT:** Use Ctrl+S or Cmd+S shortcut.
+
+10. If you want to add images, in the folder where you created your `index.md`
+    file, create an `images` folder and place them there. Remember that file
+    paths in this environment are **case sensitive**.
+
+If you are working in VS Code in the browser, you can drag-and-drop images from
+your file explorer into the browser window.
 
 ## Creating a PR
 
