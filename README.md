@@ -116,8 +116,8 @@ coverImage: 'CKSource-logo-2.jpg'
    **HINT:** Use Ctrl+S or Cmd+S shortcut.
 
 10. If you want to add images, in the folder where you created your `index.md`
-    file, create an `images` folder and place them there. Remember that file
-    paths in this environment are **case sensitive**.
+ file, create an `images` folder and place them there. Remember that file
+ paths in this environment are **case sensitive**.
 
 If you are working in VS Code in the browser, you can drag-and-drop images from
 your file explorer into the browser window.
