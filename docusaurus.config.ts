@@ -69,6 +69,7 @@ const config: Config = {
       },
       items: [
         { to: '/?feed=true', label: 'Blog', position: 'right' },
+        { to: '/tags/articles-in-english', label: 'English', position: 'right' },
         { to: '/szkolenia', label: 'Szkolenia', position: 'right' },
         {
           to: '/kim-jestesmy',
