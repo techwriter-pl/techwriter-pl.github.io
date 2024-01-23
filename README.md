@@ -83,6 +83,7 @@ coverImage: 'CKSource-logo-2.jpg'
 - `date`: notice the date format: `YYYY-MM-DD`. The date becomes the ID for
   Disqus.
 - `tags`: look at the list of used tags. Which ones suit your needs the most?
+Use `articles-in-english` tag for articles written by our English speaking friends. 
 - `coverImage`: this image will be displayed on the home page preview of your
   post. Note that this image is located in the `static/img/cover` folder.
 
@@ -116,11 +117,11 @@ coverImage: 'CKSource-logo-2.jpg'
    **HINT:** Use Ctrl+S or Cmd+S shortcut.
 
 10. If you want to add images, in the folder where you created your `index.md`
- file, create an `images` folder and place them there. Remember that file
- paths in this environment are **case sensitive**.
+   file, create an `images` folder and place them there. Remember that file
+   paths in this environment are **case sensitive**.
 
-If you are working in VS Code in the browser, you can drag-and-drop images from
-your file explorer into the browser window.
+   If you are working in VS Code in the browser, you can drag-and-drop images
+   from your file explorer into the browser window.
 
 ## Creating a PR
 
