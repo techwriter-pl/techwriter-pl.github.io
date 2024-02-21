@@ -13,8 +13,8 @@ coverImage: 'meetcontentkrk0224.png'
 # Zapraszamy na lutowy MeetContentKRK!
 
 Witamy w lutym, miesiącu miłości! 
-Jak wiadomo, nic nie rozpala serc technical writerów tak, jak dyskusje o narzędziach do tworzenia treści.
-Dlatego tym miesiącu zapraszamy do [Forte Spaces](https://fortedigital.com/pl), gdzie [Paweł Kowaluk](https://www.linkedin.com/in/pawel-kowaluk/) porówna narzędzia open source i enterprise i przedstawi możliwości ich wykorzystania.
+Jak wiadomo, nic nie rozpala serc technical writerów tak jak dyskusje o narzędziach do tworzenia treści.
+Dlatego tym miesiącu zapraszamy do [Forte Spaces](https://fortedigital.com/pl), gdzie [Paweł Kowaluk](https://www.linkedin.com/in/pawel-kowaluk/) porówna narzędzia open source i enterprise a następnie przedstawi możliwości ich wykorzystania.
 
 <!--truncate-->
 
@@ -29,10 +29,10 @@ _Emancypacja. Po co Technical Writerowi rozwiązania enterprise?_
 Podczas najbliższego meetupu rozważymy sytuacje, w których narzędzia dostępne publicznie mogą stanowić poważną konkurencję dla 
 potężnych rozwiązań enterprise. A może jednak warto zainwestować w „dokumentacyjny kombajn”?
 
-Naszym prelegentem będzie **Paweł Kowaluk** którego znacie jako jednego z założycieli i prowadzących podcast
+Naszym prelegentem będzie **Paweł Kowaluk**, którego znacie jako jednego z założycieli i prowadzących podcast
 [Tech Writer koduje](https://techwriterkoduje.pl/).
 
-Paweł pracuje w branży tech writingu od 2008 roku. Pracował jako tech writer, manager, kierownik projektu, konsultant, sprzedawca, instruktor i doc tools developer. Obecnie pisze teksty techniczne dla Guide wire Software i jest członkiem zarządu ITCQF.
+Paweł pracuje w branży tech writingu od 2008 roku. Był już tech writerem, managerem, kierownikiem projektu, konsultantem, sprzedawcą oraz instruktorem. Obecnie pisze teksty techniczne dla Guidewire Software, rozwija narzędzia do dokumentacji, a także jest członkiem zarządu ITCQF.
 
 ## Kiedy i gdzie
 
@@ -50,7 +50,7 @@ Apify udostępnia ponad 1500 gotowych narzędzi, pozwalając na uzyskanie dodatk
 
 ### Guidewire
 
-Platforma Guidewire jest dostępna jako usługa w chmurze i stanowi połączenie technologii cyfrowych, systemu podstawowego, rozwiązań analitycznych i sztucznej inteligencji. Dzięki największemu w branży zespołowi badawczo-rozwojowemu, zespołowi ds. usług i partnerskiemu ekosystemowi Guidewire nieustannie rozwija się i wprowadza innowacje, odpowiadając na pojawiające się potrzeb.
+Platforma Guidewire jest dostępna jako usługa w chmurze i stanowi połączenie technologii cyfrowych, systemu podstawowego, rozwiązań analitycznych i sztucznej inteligencji. Dzięki największemu w branży zespołowi badawczo-rozwojowemu, zespołowi ds. usług i partnerskiemu ekosystemowi Guidewire nieustannie rozwija się i wprowadza innowacje, odpowiadając na pojawiające się potrzeby użytkowników.
 
 ### Forte Digital
 
