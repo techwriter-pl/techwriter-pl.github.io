@@ -2,11 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://techwriter.pl/</id>
     <title>techwriter.pl Blog</title>
-    <updated>2024-02-04T00:00:00.000Z</updated>
+    <updated>2024-02-27T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://techwriter.pl/"/>
     <subtitle>techwriter.pl Blog</subtitle>
     <icon>https://techwriter.pl/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MeetContentKRK luty 2024]]></title>
+        <id>https://techwriter.pl/meet-content-krk-luty-2024</id>
+        <link href="https://techwriter.pl/meet-content-krk-luty-2024"/>
+        <updated>2024-02-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Witamy w lutym, miesiącu miłości!]]></summary>
+        <content type="html"><![CDATA[<p>Witamy w lutym, miesiącu miłości!
+Jak wiadomo, nic nie rozpala serc technical writerów tak jak dyskusje o narzędziach do tworzenia treści.
+Dlatego tym miesiącu zapraszamy do <a href="https://fortedigital.com/pl" target="_blank" rel="noopener noreferrer">Forte Spaces</a>, gdzie <a href="https://www.linkedin.com/in/pawel-kowaluk/" target="_blank" rel="noopener noreferrer">Paweł Kowaluk</a> porówna narzędzia open source i enterprise a następnie przedstawi możliwości ich wykorzystania.</p>
+<p>Pamiętajcie o rejestracji, to pozwoli nam na wybór odpowiedniej sali i
+zaplanowanie poczęstunku. Link do formularza znajdziecie
+<a href="https://forms.gle/6hc8cMrsAtjgDHeLA" target="_blank" rel="noopener noreferrer">tutaj</a>.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="temat">Temat<a href="https://techwriter.pl/meet-content-krk-luty-2024#temat" class="hash-link" aria-label="Bezpośredni link do Temat" title="Bezpośredni link do Temat">​</a></h2>
+<p><em>Emancypacja. Po co Technical Writerowi rozwiązania enterprise?</em></p>
+<p>Podczas najbliższego meetupu rozważymy sytuacje, w których narzędzia dostępne publicznie mogą stanowić poważną konkurencję dla
+potężnych rozwiązań enterprise. A może jednak warto zainwestować w „dokumentacyjny kombajn”?</p>
+<p>Naszym prelegentem będzie <strong>Paweł Kowaluk</strong>, którego znacie jako jednego z założycieli i prowadzących podcast
+<a href="https://techwriterkoduje.pl/" target="_blank" rel="noopener noreferrer">Tech Writer koduje</a>.</p>
+<p>Paweł pracuje w branży tech writingu od 2008 roku. Był już tech writerem, managerem, kierownikiem projektu, konsultantem, sprzedawcą oraz instruktorem. Obecnie pisze teksty techniczne dla Guidewire Software, rozwija narzędzia do dokumentacji, a także jest członkiem zarządu ITCQF.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="kiedy-i-gdzie">Kiedy i gdzie<a href="https://techwriter.pl/meet-content-krk-luty-2024#kiedy-i-gdzie" class="hash-link" aria-label="Bezpośredni link do Kiedy i gdzie" title="Bezpośredni link do Kiedy i gdzie">​</a></h2>
+<p><strong>Data</strong>: 27.02.2024 <br> <strong>Czas</strong>: 18:00 <br> <strong>Miejsce</strong>: Forte Spaces,
+Krupnicza 3, Kraków</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="kilka-słów-o-sponsorach">Kilka słów o sponsorach<a href="https://techwriter.pl/meet-content-krk-luty-2024#kilka-s%C5%82%C3%B3w-o-sponsorach" class="hash-link" aria-label="Bezpośredni link do Kilka słów o sponsorach" title="Bezpośredni link do Kilka słów o sponsorach">​</a></h2>
+<ol start="20">
+<li>spotkanie MeetContentKRK jest sponsorowane przez Guidewire, Apify i Forte Digital.</li>
+</ol>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="apify">Apify<a href="https://techwriter.pl/meet-content-krk-luty-2024#apify" class="hash-link" aria-label="Bezpośredni link do Apify" title="Bezpośredni link do Apify">​</a></h3>
+<p>Apify jest platformą, którą programiści mogą wykorzystać do budowania, wdrażania i publikowania narzędzi do web scrapingu, ekstrakcji danych i automatyzacji.
+Apify udostępnia ponad 1500 gotowych narzędzi, pozwalając na uzyskanie dodatkowego przychodu poprzez udostępnianie je innym użytkownikom. Dodatkowo, Apify odpowiada za Crawlee, publiczną bibliotekę do web scrapingu.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="guidewire">Guidewire<a href="https://techwriter.pl/meet-content-krk-luty-2024#guidewire" class="hash-link" aria-label="Bezpośredni link do Guidewire" title="Bezpośredni link do Guidewire">​</a></h3>
+<p>Platforma Guidewire jest dostępna jako usługa w chmurze i stanowi połączenie technologii cyfrowych, systemu podstawowego, rozwiązań analitycznych i sztucznej inteligencji. Dzięki największemu w branży zespołowi badawczo-rozwojowemu, zespołowi ds. usług i partnerskiemu ekosystemowi Guidewire nieustannie rozwija się i wprowadza innowacje, odpowiadając na pojawiające się potrzeby użytkowników.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="forte-digital">Forte Digital<a href="https://techwriter.pl/meet-content-krk-luty-2024#forte-digital" class="hash-link" aria-label="Bezpośredni link do Forte Digital" title="Bezpośredni link do Forte Digital">​</a></h3>
+<p>W DNA Forte Digital znajdziesz pierwiastek polski, skandynawski i oczywiście
+technologiczny. Forte Digital powstało w 2017 roku jako owoc udanej współpracy
+polskich i norweskich założycieli. Od tego czasu z powodzeniem czerpie to co
+najlepsze ze swoich kultur, a od niedawna w swoich szeregach ma koleżanki i
+kolegów z Danii oraz Niemiec. Forte Digital skupia się najczęściej na projektach
+dotyczących obszaru e-commerce w pełnym zakresie realizacji – development i
+consulting IT oraz design.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="poznaj-meetcontentkrk">Poznaj MeetContentKRK<a href="https://techwriter.pl/meet-content-krk-luty-2024#poznaj-meetcontentkrk" class="hash-link" aria-label="Bezpośredni link do Poznaj MeetContentKRK" title="Bezpośredni link do Poznaj MeetContentKRK">​</a></h2>
+<p>MeetContentKRK to odgałęzienie dobrze znanej konferencji soap!. Wspólnie z
+MeetContentWRO dążymy do stworzenia społeczności profesjonalistów pracujących z
+treściami produktowymi w obszarach Tech i IT.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="skontaktuj-się-z-organizatorem">Skontaktuj się z organizatorem<a href="https://techwriter.pl/meet-content-krk-luty-2024#skontaktuj-si%C4%99-z-organizatorem" class="hash-link" aria-label="Bezpośredni link do Skontaktuj się z organizatorem" title="Bezpośredni link do Skontaktuj się z organizatorem">​</a></h3>
+<p>Organizatorom zależy, by spotkania były istotne i przybliżały tematy, które są
+dla Was interesujące. Możecie zgłosić temat, a my dołożymy wszelkich starań, aby
+znaleźć prelegentów, którzy będą mogli o nim porozmawiać. Możecie także sami
+zostać prelegentami na jednym z naszych spotkań.</p>
+<p>Osoby zainteresowane mogą dołączyć do MeetContent na
+<a href="https://meetcontent.slack.com/" target="_blank" rel="noopener noreferrer">Slacku</a>, aby być na bieżąco z nadchodzącymi
+wydarzeniami i proponować nowe tematy.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="często-zadawane-pytania">Często zadawane pytania<a href="https://techwriter.pl/meet-content-krk-luty-2024#cz%C4%99sto-zadawane-pytania" class="hash-link" aria-label="Bezpośredni link do Często zadawane pytania" title="Bezpośredni link do Często zadawane pytania">​</a></h3>
+<p>P: Czy wydarzenie będzie nagrywane lub transmitowane na żywo? <br> O: Na
+chwilę obecną nie. Stawiamy na spotkania na miejscu gdzie możesz osobiście
+poznać inne osoby zainteresowane contentem.</p>
+<p>P: Czy można udostępnić prezentacje prelegentów? <br> O: To zależy od
+prelegenta. Podczas wydarzenia można jednak zadawać pytania i robić zdjęcia,
+można też zapytać o udostępnienie slajdów.</p>
+<p>P: Zarejestrowałem/am się, ale nie mogę wziąć udziału. Co powinienem/nnam
+zrobić? <br> O: Jeśli wiesz, że nie dasz rady przyjść, daj nam znać. Możesz to
+zrobić pisząc na adres <a href="mailto:contact@meetcontent.org" target="_blank" rel="noopener noreferrer">contact@meetcontent.org</a> lub wysyłając wiadomość na
+<a href="https://meetcontent.slack.com/" target="_blank" rel="noopener noreferrer">Slacku</a>.</p>
+<p>P: Spóźniłem/am się na wydarzenie i nie mogę wejść. Jak powiadomić
+organizatorów? <br> O: Możesz napisać do nas na Slacku. Podczas każdego
+wydarzenia, przez pierwsze 30 minut od rozpoczęcia na bieżąco sprawdzamy
+wiadomości na naszym kanale.</p>]]></content>
+        <author>
+            <name>Barbara Czyż</name>
+            <uri>https://github.com/bszwarc</uri>
+        </author>
+        <category label="news" term="news"/>
+        <category label="z-kraju" term="z-kraju"/>
+        <category label="meetcontent" term="meetcontent"/>
+        <category label="spolecznosc" term="spolecznosc"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jak podnieść visibility Tech Commsów?]]></title>
         <id>https://techwriter.pl/jak-podnieść-visibility-tech-commsow</id>
@@ -2544,158 +2619,5 @@ or your full address in your resume.</p>
         <category label="praca" term="praca"/>
         <category label="kariera" term="kariera"/>
         <category label="oferta-pracy" term="oferta-pracy"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MeetContent Kraków – czerwiec 2023 – relacja]]></title>
-        <id>https://techwriter.pl/meetcontent-krakow-czerwiec-2023-relacja</id>
-        <link href="https://techwriter.pl/meetcontent-krakow-czerwiec-2023-relacja"/>
-        <updated>2023-07-19T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Serdecznie zapraszamy do zapoznania się z relacją z czerwcowego MeetContent w]]></summary>
-        <content type="html"><![CDATA[<p>Serdecznie zapraszamy do zapoznania się z relacją z czerwcowego MeetContent w
-Krakowie. Nasz redakcyjny kolega Andrzej i jego koleżanka z Hitachi Energy -
-Julia wzięli udział w tym spotkaniu i postanowili podzielić się wrażeniami i
-tym, co udało im się dowiedzieć o projekcie skupionym na dokumentacji API, SDK w
-którym bardzo wiele zależy od zgrania i współpracy dwóch ról: Technical Writera
-i Developer Advocate.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="pierwsze-spotkanie-z-contentem">Pierwsze spotkanie z Contentem<a href="https://techwriter.pl/meetcontent-krakow-czerwiec-2023-relacja#pierwsze-spotkanie-z-contentem" class="hash-link" aria-label="Bezpośredni link do Pierwsze spotkanie z Contentem" title="Bezpośredni link do Pierwsze spotkanie z Contentem">​</a></h3>
-<p><img loading="lazy" src="https://techwriter.pl/assets/images/meetContent14_3-1024x768-5ecfa78f58a6c51cd6c334022633277c.jpeg" width="1024" height="768" class="img_ev3q"></p>
-<p>Dla Andrzeja i Julii Dąbrowskiej krakowska odsłona MeetContent nr 14 była
-pierwszym spotkaniem tego rodzaju. Zdarzenie to miało miejsce 20.06.2023 w
-Techie’s Space – jest to resto-bar stworzony przez firmę informatyczną Codete.
-Jest to lokal o wyjątkowym wystroju, z licznymi odwołaniami do subkultury
-programistów i pokrewnych im dusz. W Techie’s Space odbywają się różne MeetUpy,
-nie tylko na tematy dokumentacyjne.</p>
-<p>Fantastyczne miejsce, ale mamy jedno zastrzeżenie. Otóż, podczas żywiołowej
-dyskusji uczestników, strumień świadomości Julii został totalnie zaburzony przez
-niewinnie wyglądającą instalację na pobliskiej ścianie. Cóż takiego zawierała
-owa instalacja, że uwaga Julii poszybowała jak ptak w jej stronę? Otóż... były
-to płyty główne od PC-tów. Kompletny brak podzielności uwagi w połączeniu z
-trudno skrywaną fascynacją płytami wzięły górę, szczególnie, że Julia ma na
-swoim koncie epizod, gdy takowe skręcała. Jeśli fascynujesz się technologią, to
-pobyt w Techie's Space może przyprawić Cie o zawrót głowy! I jak tu się skupić
-na rozmowie, gdy na telebimie ludzie grają w Super Mario Bros?</p>
-<p>Andrzej wpadł na spotkanie niedługo po odbytej zabawie integracyjnej z zespołem
-z Hitachi Energy, która polegała na rozwiązywaniu zagadek podczas spacerowania
-po Krakowie. Po rozkminieniu wszystkich detektywistycznych łamigłówek w tamten
-upalny dzień, i po wstępnym rozruszaniu szarych komórek, był gotów na poznanie
-nowych dla niego faktów z branży komunikacji.</p>
-<p>Julia i Andrzej przybyli na spotkanie pełni dobrych przeczuć, a także… pytań,
-które wymagały odpowiedzi.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="pytania">Pytania<a href="https://techwriter.pl/meetcontent-krakow-czerwiec-2023-relacja#pytania" class="hash-link" aria-label="Bezpośredni link do Pytania" title="Bezpośredni link do Pytania">​</a></h3>
-<p>Julia zdecydowała się wziąć udział w wydarzeniu, bo przywiodła ją ciekawość, bo
-chciała się dowiedzieć, kim jest specjalista od Developer Relations. Andrzej
-miał niejasne wyobrażenie takiej roli i chciał ustalić podstawowe fakty.</p>
-<p>Nie ma w tym nic dziwnego -&nbsp; rola jaką pełni Olga Stefaniuk jest dość egzotyczna
-i niszowa, nawet dla technical writerów, którzy sami rezydują w wąskiej niszy.
-Mam nadzieję, że ten krótki artykuł pomoże choć trochę rzucić światło na tę
-specjalność.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="okiem-technical-writerki">Okiem Technical Writerki<a href="https://techwriter.pl/meetcontent-krakow-czerwiec-2023-relacja#okiem-technical-writerki" class="hash-link" aria-label="Bezpośredni link do Okiem Technical Writerki" title="Bezpośredni link do Okiem Technical Writerki">​</a></h3>
-<p><img loading="lazy" src="https://techwriter.pl/assets/images/meetContent14-2-1024x768-81ab63223eebb3d839aa9614fc85d516.jpeg" width="1024" height="768" class="img_ev3q"></p>
-<p>W ostatnim czasie był to niejedyny występ Basi. Około trzy tygodnie wcześniej
-mieliśmy przyjemność słuchać jej na dużej scenie <a href="https://soapconf.com/" target="_blank" rel="noopener noreferrer">soap!</a>
-gdzie razem z Edytą Rakowską przedstawiły temat: „There’s no ContentOps without
-a ContentPlan”, który został bardzo ciepło przyjęty. Jeśli chcesz przeczytać
-podsumowanie tego i innych wystąpień, zapraszam do zapoznania się
-z&nbsp;<a href="http://techwriter.pl/relacja-z-tegorocznej-konferencji-soap-2023/" target="_blank" rel="noopener noreferrer">Relacją z konferencji Soap 2023</a></p>
-<p>Na mniejszej scenie MeetContent, Basia przybliżyła nam wysiłki nielicznego, ale
-świetnie zorganizowanego zespołu technical writerów, którzy w firmie Box mierzą
-się z opisywaniem 30 produktów, które wymagają tworzenia dokumentacji API, SDK,
-CLI (<em>Command Line Interface</em>) i
-<a href="https://developer.box.com/guides/embed/ui-elements/" target="_blank" rel="noopener noreferrer">Elementów UI</a>, przy
-współpracy z wieloma specjalistami, zwłaszcza z Developer Advocate.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="kim-jest-developer-advocate">Kim jest Developer Advocate?<a href="https://techwriter.pl/meetcontent-krakow-czerwiec-2023-relacja#kim-jest-developer-advocate" class="hash-link" aria-label="Bezpośredni link do Kim jest Developer Advocate?" title="Bezpośredni link do Kim jest Developer Advocate?">​</a></h3>
-<p><img loading="lazy" src="https://techwriter.pl/assets/images/MicrosoftTeams-image-164-768x1024-80c33a0d82cab843dc2aba3977a38469.jpg" width="375" height="500" class="img_ev3q"></p>
-<p>Olga rozpoczęła opowieścią o nieformalnym określeniu krążącym w gronie podobnych
-jej specjalistów. Otóż, na stronie internetowej opisującej stanowiska różnych
-osób pewnej firmy pojawiła się zabawna literówka w nazwie roli - <strong>Advocado</strong>, a
-następnie jedna z osób przyjęła takie określenie i zaczęła z niego korzystać na
-Twitterze. Tak narodził się pomysł na maskotkę ich drużyny.</p>
-<p>Wyjaśnijmy najpierw podstawy przyjętego nazewnictwa. Podstawowym określeniem
-stanowiska jest "Developer Advocate". Osoba wykonująca tę rolę działa w ramach
-zespołu lub działu "Developer Relations" (w skrócie "DevRel"). "Developer
-Relations" to również określenie obszaru działań w firmie. Uff. Skoro mamy za
-sobą fundamenty określenia, przejdźmy do samej definicji.</p>
-<p>Developer Advocate zwraca baczną uwagę na problemy techniczne, z którymi
-borykają się developerzy zewnętrzni integrujący rozwiązania firmy Box w swoich
-produktach.</p>
-<p>Celem Olgi jest poznanie potrzeb, blokerów i problemów - kluczowe jest poznanie
-tych trudności i rozwiązanie ich, co wpływa na lepsze doświadczenia developerów
-(<em>developer experience</em>).</p>
-<p>Developer Advocate zbiera techniczny feedback i przekuwa go w konkretne
-działania:</p>
-<ul>
-<li>tworzenie treści, które publikowane są w formie bloga</li>
-<li>usprawnianie portalu dla developerów</li>
-<li>zarządzanie forum developerów</li>
-<li>obecność na konferencjach i mediach społecznościowych</li>
-<li>wydawanie newslettera (informowanie o zmianach i nowych wersjach, itd.)</li>
-<li>zlecanie aktualizacja dokumentacji</li>
-<li>przygotowywanie prezentacji o produkcie</li>
-<li>opracowywanie materiałów edukacyjnych.</li>
-</ul>
-<p>Jednym z zadań Developer Advocate jest analiza <em>user journey</em> dla konkretnej
-persony np.: developer lub administrator. We współpracy z technical writerem
-opracowywana jest cała ścieżka edukacyjna jaką dana persona musi przejść, by
-postawić pierwsze kroki. W ścieżce edukacyjnej zawierają się wszystkie materiały
-i instrukcje z wiedzą niezbędną do rozpoczęcia pracy z rozwiązaniami firmy Box.</p>
-<p>Developer Advocate, żeby móc wejść w buty innych developerów również potrzebuje
-znać technologie - Olga uczy się Node.js, a za pomocą React stworzyła katalog
-przykładowych próbek kodu w różnych językach programowania.</p>
-<p>Dla zespołu Developer Relations kluczowe jest zapewnienie dwustronnej
-komunikacji między developerami tworzącymi rozwiązania Box a developerami,
-którzy z nich korzystają.</p>
-<p>Developerzy-klienci nie chcą zakrzywiających rzeczywistość marketingowych
-sloganów, potrzebują klarownych instrukcji jak użyć rozwiązanie i jak odnaleźć
-się w gąszczu dokumentów w bazie wiedzy. Jeśli zobaczą, że ich głos jest
-wysłuchiwany, a witryna i produkty zmieniają się dla nich na lepsze, większa
-szansa, że zainwestują swój czas i pieniądze w rozwiązania dające im największe
-możliwości.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="kim-nie-jest-developer-advocate">Kim nie jest Developer Advocate?<a href="https://techwriter.pl/meetcontent-krakow-czerwiec-2023-relacja#kim-nie-jest-developer-advocate" class="hash-link" aria-label="Bezpośredni link do Kim nie jest Developer Advocate?" title="Bezpośredni link do Kim nie jest Developer Advocate?">​</a></h3>
-<p><img loading="lazy" src="https://techwriter.pl/assets/images/meetContent14-1-1024x768-3b1b4c27e35c99fbb322bc689237b28a.jpeg" width="1024" height="768" class="img_ev3q"></p>
-<p>Mimo pewnych nachodzących na siebie obszarów, rolę Developer Advocate można
-odróżnić od Developer Evangelist. Ewangelista często postrzegany jest bardziej
-jako wybijająca się jednostka występująca na różnych konferencjach, która głosi
-dobrą nowinę o produktach i technologiach. Czasami jednak nazwy tych stanowisk
-są używane zamiennie, ponieważ te terminy są dość płynne, a obowiązki często się
-pokrywają.</p>
-<p>Developer Advocate bynajmniej nie jest osobą reprezentującą w firmie
-developerów, która negocjuje dla nich najwyższe podwyżki 😉 Wobec jeszcze
-słabego nagłośnienia tego stanowiska, niektórzy słysząc samą nazwę potrafią snuć
-bardzo ciekawe domysły 😉</p>
-<p>Mam nadzieję, że ten artykuł choć w minimalnym stopniu przyczyni się do lepszego
-rozumienia tej wymagającej roli.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="sesja-qa">Sesja Q&amp;A<a href="https://techwriter.pl/meetcontent-krakow-czerwiec-2023-relacja#sesja-qa" class="hash-link" aria-label="Bezpośredni link do Sesja Q&amp;A" title="Bezpośredni link do Sesja Q&amp;A">​</a></h3>
-<p>Po opowieściach padło wiele rzeczowych pytań, a publika zdawała się nie mieć
-dość i chciała dowiedzieć się jak najwięcej. Utwierdziliśmy się w przekonaniu,
-że Developer Advocate wykazuje się szerokim wachlarzem talentów, żongluje
-wieloma aktywnościami i mało ma okazji do nudzenia się podczas powtarzalnych,
-schematycznych działań. Osoba taka działa w skomplikowanym ekosystemie i stale
-współpracuje z technical writerem.</p>
-<p>Sama branża API dynamicznie się rozwija, coraz więcej ludzi będzie opracowywać
-dokumentację dla developerów. Utrzymanie konstruktywnej relacji z developerami
-stojącymi po obu stronach produktu będzie tylko zyskiwać na znaczeniu.</p>
-<p>Choć opisywanie API stanowi dla Andrzeja dalszą perspektywę, ta prezentacja
-dobrze wyjaśniła mu dynamikę pracy z produktem adresowanym do programistów.</p>
-<p>Dziękujemy serdecznie <a href="https://www.linkedin.com/in/barbara-szwarc/" target="_blank" rel="noopener noreferrer">Basi</a> i
-<a href="https://www.linkedin.com/in/olgastefaniuk/" target="_blank" rel="noopener noreferrer">Oldze</a> za poświęcony czas i
-pozytywną energię. Życzymy im dalszych sukcesów. Zainteresowanych efektami ich
-pracy zapraszam do obejrzenia portalu
-<a href="https://developer.box.com/" target="_blank" rel="noopener noreferrer">https://developer.box.com</a>. Dodatkowo, jeśli chcesz
-się dowiedzieć więcej o Developer Relations, zapraszamy na tę stronę z bardziej
-szczegółowym opracowaniem:
-<a href="https://developerrelations.com/what-is-developer-relations" target="_blank" rel="noopener noreferrer">https://developerrelations.com/what-is-developer-relations</a>.</p>
-<p>Może ktoś z widowni zechce w przyszłości rozpocząć karierę jako <strong>Developer
-Advocate</strong> vel <strong>Advocado</strong>? Kto wie, być może jako tech writerzy i tech
-writerki kiedyś będziecie współpracować z Developer Advocate?</p>
-<p>Życzymy udanego okresu wakacyjnego - w sezonie urlopowym nie będzie wydarzeń
-MeetContent. Powrócą one od września. Trzymajcie się!</p>]]></content>
-        <author>
-            <name>Andrzej Niewiarowski</name>
-            <uri>https://github.com/andrzejniewiaro</uri>
-        </author>
-        <category label="news" term="news"/>
-        <category label="z-kraju" term="z-kraju"/>
-        <category label="meetcontent" term="meetcontent"/>
-        <category label="spolecznosc" term="spolecznosc"/>
     </entry>
 </feed>
