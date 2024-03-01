@@ -45,8 +45,8 @@ Krupnicza 3, Kraków
 
 ### Apify
 
-Apify jest platformą, którą programiści mogą wykorzystać do budowania, wdrażania i publikowania narzędzi do web scrapingu, ekstrakcji danych i automatyzacji.
-Apify udostępnia ponad 1500 gotowych narzędzi, pozwalając na uzyskanie dodatkowego przychodu poprzez udostępnianie je innym użytkownikom. Dodatkowo, Apify odpowiada za Crawlee, publiczną bibliotekę do web scrapingu.
+[Apify](https://apify.com/) jest platformą, którą programiści mogą wykorzystać do budowania, wdrażania i publikowania narzędzi do web scrapingu, ekstrakcji danych i automatyzacji.
+Apify udostępnia ponad 1500 gotowych narzędzi, pozwalając na uzyskanie dodatkowego przychodu poprzez udostępnianie je innym użytkownikom. Dodatkowo, Apify odpowiada za [Crawlee](https://crawlee.dev/), publiczną bibliotekę do web scrapingu.
 
 ### Guidewire
 
