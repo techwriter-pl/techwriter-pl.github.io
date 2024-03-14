@@ -2,11 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://techwriter.pl/</id>
     <title>techwriter.pl Blog</title>
-    <updated>2024-02-27T00:00:00.000Z</updated>
+    <updated>2024-03-14T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://techwriter.pl/"/>
     <subtitle>techwriter.pl Blog</subtitle>
     <icon>https://techwriter.pl/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MeetContentWRO luty 2024 - Relacja]]></title>
+        <id>https://techwriter.pl/meet-content-wro-luty-2024-relacja</id>
+        <link href="https://techwriter.pl/meet-content-wro-luty-2024-relacja"/>
+        <updated>2024-03-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[27 lutego spotkaliśmy się niestandardowo - w słynnej wrocławskiej klubokawiarni Mleczarnia, żeby posłuchać o tym, jak robi się filmiki produktowe.]]></summary>
+        <content type="html"><![CDATA[<p>27 lutego spotkaliśmy się niestandardowo - w słynnej wrocławskiej klubokawiarni Mleczarnia, żeby posłuchać o tym, jak robi się filmiki produktowe.</p>
+<p>Naszym gospodarzem tym razem była, skądinąd znana i umiejąca w filmiki, firma z branży IT - <strong>CodeTwo</strong>.</p>
+<p>Prezentację na temat: <em>Creating product videos - a team challenge</em> brawurowo i z humorem dostarczyli:</p>
+<ul>
+<li><a href="https://www.linkedin.com/in/mkrolewicz/" target="_blank" rel="noopener noreferrer">Michał Królewicz</a>, który jest Technical Marketing Managerem,</li>
+<li><a href="https://www.linkedin.com/in/kacpertomaszewski/" target="_blank" rel="noopener noreferrer">Kacper Tomaszewski</a>, który jest Senior Graphic &amp; UI/UX Designerem, oraz</li>
+<li><a href="https://www.linkedin.com/in/kamil-glaser-92b91482/" target="_blank" rel="noopener noreferrer">Kamil Glaser</a>, który jest Senior Technical Marketing Specialist</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="po-co-tworzyć-filmy-produktowe">Po co tworzyć filmy produktowe?<a href="https://techwriter.pl/meet-content-wro-luty-2024-relacja#po-co-tworzy%C4%87-filmy-produktowe" class="hash-link" aria-label="Bezpośredni link do Po co tworzyć filmy produktowe?" title="Bezpośredni link do Po co tworzyć filmy produktowe?">​</a></h2>
+<p>Ekipa z CodeTwo zaczęła od podstaw - czyli od <em>dlaczego</em>.</p>
+<p>Otóż okazuje się, że treści video są wyżej indeksowane przez wyszukiwarki, a więc mają większą szansę pojawić się w wynikach wyszukiwania niż treści pisane. Ponadto, wszyscy wiemy, że coraz mniej ludzi chce czytać i jeśli ma do wyboru filmik lub manual, wybiorą filmik.</p>
+<p>Video produktowe pomagają również w marketingu firmy, promocji produktu i danej funkcjonalności.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="o-czym-robić-filmiki-produktowe">O czym robić filmiki produktowe?<a href="https://techwriter.pl/meet-content-wro-luty-2024-relacja#o-czym-robi%C4%87-filmiki-produktowe" class="hash-link" aria-label="Bezpośredni link do O czym robić filmiki produktowe?" title="Bezpośredni link do O czym robić filmiki produktowe?">​</a></h3>
+<p>Jak już zdecydujemy, że chcemy je robić, trzeba zastanowić się i wybrać, jakie funkcjonalności najlepiej w tych filmikach pokazać.</p>
+<p>W CodeTwo filmowe scenariusze przychodzą z wielu miejsc - z nowymi wydaniami programów na czele. Inspiracji dostarcza również zespół Customer Success, będący najbliżej klientów i dobrze znający ich potrzeby. Swoje sugestie daje też zespół Technical Marketingu podczas cyklicznych burz mózgów, oraz sam CEO.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="strona-praktyczna">Strona praktyczna<a href="https://techwriter.pl/meet-content-wro-luty-2024-relacja#strona-praktyczna" class="hash-link" aria-label="Bezpośredni link do Strona praktyczna" title="Bezpośredni link do Strona praktyczna">​</a></h2>
+<p>Od czego zacząć realizację filmiku?</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="koncept-skrypt-i-weryfikacja">Koncept, skrypt i weryfikacja<a href="https://techwriter.pl/meet-content-wro-luty-2024-relacja#koncept-skrypt-i-weryfikacja" class="hash-link" aria-label="Bezpośredni link do Koncept, skrypt i weryfikacja" title="Bezpośredni link do Koncept, skrypt i weryfikacja">​</a></h3>
+<p>Jeśli chcemy, aby nasze video wyglądało profesjonalnie, trzeba się odpowiednio przygotować. W CodeTwo zaczynają od napisania skryptu, propozycji tytułu i ustalenia, które elementy UI będą brały udział w instrukcji video.</p>
+<p>Następnie przychodzi czas na weryfikację skryptu pod kątem poprawności językowej i odpowiedniego przygotowania środowiska, czyli dostosowania rozdzielczości i formatu, ale i stworzenie przykładowych danych i użytkowników. Nie chcemy przecież pokazywać przypadkowych danych na środowisku testowym w stylu: “jakiś klient 123” (albo gorzej 😀).</p>
+<p>Potem nagrywana jest kopia robocza. Tu padła bardzo praktyczna rada: przed nagrywaniem akcji na swoim pulpicie, wyłącz notyfikacje 😅</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="planowanie-warstwy-graficznej">Planowanie warstwy graficznej<a href="https://techwriter.pl/meet-content-wro-luty-2024-relacja#planowanie-warstwy-graficznej" class="hash-link" aria-label="Bezpośredni link do Planowanie warstwy graficznej" title="Bezpośredni link do Planowanie warstwy graficznej">​</a></h3>
+<p>Trzeba też zdecydować, czy chcemy pokazywać osobę mówiącą o produkcie i funkcjonalności czy tylko interfejs, no i oczywiście w jakiej formie będzie pokazywany ten interfejs: na dole ekranu, po prawej, etc? Koniecznie trzeba obliczyć, ile czasu każdy ekran pokazywać, jak długi powinien być narzut czasowy, żeby użytkownik próbujący odtworzyć akcje na swojej maszynie, mógł się odnaleźć.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="nagrywanie">Nagrywanie<a href="https://techwriter.pl/meet-content-wro-luty-2024-relacja#nagrywanie" class="hash-link" aria-label="Bezpośredni link do Nagrywanie" title="Bezpośredni link do Nagrywanie">​</a></h3>
+<p>CodeTwo postawiło na zbudowanie małego studia nagrań u siebie w biurze. Ich CEO, Szymon Szczęśniak, podkłada głos do większości ich filmików, co daje też element budowania zaufania do marki. Czego nie da się osiągnąć, na przykład, zlecając nagrania firmie zewnętrznej.</p>
+<p>Oczywiście, sama realizacja wymaga sporej liczby powtórzeń, ale według prelegentów, im lepiej wykonane są czynności przygotowawcze, tym mniejsza jest liczba prób.</p>
+<p>Bardzo ważna jest precyzyjna synchronizacja głosu lektora z tym, co dzieje się na interfejsie. Trzeba też usunąć wszelkie głębsze wdechy, mlaśnięcia, czy przejeżdżającą obok karetkę na sygnale 😉</p>
+<p>Mając na uwadze różne formaty, w których użytkownicy mogą chcieć odtwarzać filmiki, warto nagrywać video w wersji poziomej oraz dodatkowo w wersji pionowej, na potrzeby urządzeń mobilnych i reels na Instagramie i YouTube.
+Trzeba też pomyśleć o wybraniu thumbnails, pod kątem korzystności kadru i spójności z marką i innymi treściami na stronie.</p>
+<p>Narzędzi do tworzenia video i nagrywania UI jest wiele. Popularne są np. Camtasia i Adobe After Effects.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="montaż-filmu-i-przygotowanie-do-publikacji">Montaż filmu i przygotowanie do publikacji<a href="https://techwriter.pl/meet-content-wro-luty-2024-relacja#monta%C5%BC-filmu-i-przygotowanie-do-publikacji" class="hash-link" aria-label="Bezpośredni link do Montaż filmu i przygotowanie do publikacji" title="Bezpośredni link do Montaż filmu i przygotowanie do publikacji">​</a></h3>
+<p>To kolejny krok na długiej drodze do publikacji dwuminutowego video 😉
+Filmiki produktowe w CodeTwo uploadowane są bezpośrednio na YouTube, a następnie są embedowane na ich własnej stronie.</p>
+<p>Na tym etapie dodawane są też napisy, do czego CodeTwo używa Happy Scribe.
+Dodawane są również timestamps, które pozwalają odesłać użytkownika do konkretnego momentu w video.</p>
+<p>Jeśli myśleliście, że to już koniec - no to nie tak szybko! 😆</p>
+<p>Trzeba jeszcze zbudować flow, tak zwany user journey, czyli jeśli obejrzałeś filmik A, to teraz logicznie będzie, jeśli zasugerujemy ci filmik B.</p>
+<p>Teraz można publikować! 🤩 🥁</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="pytania-uczestników">Pytania uczestników<a href="https://techwriter.pl/meet-content-wro-luty-2024-relacja#pytania-uczestnik%C3%B3w" class="hash-link" aria-label="Bezpośredni link do Pytania uczestników" title="Bezpośredni link do Pytania uczestników">​</a></h2>
+<p>Jak możecie podejrzewać, po prezentacji pojawiło się mnóstwo pytań.</p>
+<p>Najbardziej chyba nurtującym problemem było: co zrobić, kiedy pojawiają się jakieś zmiany w interfejsie i film traci na aktualności?</p>
+<p>CodeTwo radzi, aby dzielić filmiki na sekcje i tworzyć playlistę z małych fragmentów, co pozwala na łatwiejsze podmienianie treści w razie zmian.</p>
+<p>Również po prezentacji temat cieszył się ciągłym zainteresowaniem, bo kiedy już pałaszowaliśmy pyszne bruschetty, padały dodatkowe pytania. Wielu uczestników wspominało, że w ich pracy też nagrywają lub zamierzają nagrywać filmili produktowe.</p>
+<hr>
+<p>Serdecznie dziękujemy zarówno CodeTwo za bycie wspaniałym gospodarzem, jak i wszystkim uczestnikom 🙌</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="co-dalej">Co dalej?<a href="https://techwriter.pl/meet-content-wro-luty-2024-relacja#co-dalej" class="hash-link" aria-label="Bezpośredni link do Co dalej?" title="Bezpośredni link do Co dalej?">​</a></h2>
+<p>MeetContentWRO zaprasza na kolejne wydarzenie we Wrocławiu: najbliższe już <strong>20 marca</strong> w <strong>Nokia Garage</strong>.</p>
+<p>Temat: <em>Smart search results with Natural Language Understanding (NLU)</em>.</p>
+<p>Więcej o wydarzeniu można poczytać na naszej stronie <a href="https://meetcontent.github.io/events/wroclaw/2024/26" target="_blank" rel="noopener noreferrer">MeetContent</a>.</p>
+<p>Zapisy w formularzu pod <a href="https://forms.gle/Ehg9dcD6ruex2VRU8" target="_blank" rel="noopener noreferrer">TYM LINKIEM</a>!</p>
+<p>Do zobaczenia! 👋</p>
+<p><img loading="lazy" src="https://techwriter.pl/assets/images/mle_codetwo_3-b945ca283e72f73f4ec450c8e4ec8d77.jpg" width="4000" height="3000" class="img_ev3q"> <img loading="lazy" src="https://techwriter.pl/assets/images/mle_codetwo_2-77d1136d9054e00772f9799d0ea15581.jpg" width="3024" height="4032" class="img_ev3q"> <img loading="lazy" src="https://techwriter.pl/assets/images/mle_codetwo_1-08c563a8dd7dc5b563a9bd4befa31605.jpg" width="3024" height="4032" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Monika Mrozek</name>
+            <uri>https://www.linkedin.com/in/monika-mrozek/</uri>
+        </author>
+        <category label="meetup" term="meetup"/>
+        <category label="video produktowe" term="video produktowe"/>
+        <category label="spolecznosc" term="spolecznosc"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MeetContentKRK luty 2024]]></title>
         <id>https://techwriter.pl/meet-content-krk-luty-2024</id>
@@ -510,7 +576,7 @@ invaluable in my collaboration with subject matter experts.</p>
 <p>I also really loved this amazing corporate culture. This led me to the decision
 to remain within the company and return to the marketing department as a Service
 Marketing Lead.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="8-what-skills-were-applicable-to-the-new-domain-and-what-new-skills-you-had-to-acquire">8. What skills were applicable to the new domain and what new skills you had to acquire?<a href="https://techwriter.pl/kilka-pytan-do-czesc-30-marketing#8-what-skills-were-applicable-to-the-new-domain-and-what-new-skills-you-had-to-acquire" class="hash-link" aria-label="Bezpośredni link do 8. What skills were applicable to the new domain and what new skills you had to acquire?" title="Bezpośredni link do 8. What skills were applicable to the new domain and what new skills you had to acquire?">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="8-what-skills-were-applicable-to-the-new-domain-and-what-new-skills-you-had-to-acquire">8. What skills were applicable to the new domain and what new skills you had to acquire?<a href="https://techwriter.pl/kilka-pytan-do-czesc-30-marketing#8-what-skills-were-applicable-to-the-new-domain-and-what-new-skills-you-had-to-acquire" class="hash-link" aria-label="Bezpo�średni link do 8. What skills were applicable to the new domain and what new skills you had to acquire?" title="Bezpośredni link do 8. What skills were applicable to the new domain and what new skills you had to acquire?">​</a></h3>
 <p>I want to emphasize that the technical writing skills I acquired through my time
 in the Technical Communication Office at SoftServe are of exceptionally high
 quality. I am profoundly grateful to this department for the numerous growth and
@@ -898,7 +964,7 @@ Takie podejście pozwala na ponowne używanie istniejących parametrów (content
 <p>Oczywiście dokumentacja API ma swoje wyzwania, które różne firmy starają się przezwyciężyć na różne sposoby. Wyzwania dla dokumentalisty biorą się również z samych założeń wyjściowych jakie firma przyjmie.</p>
 <p>I tak w przypadku dokumentacji do Box API, dużym wyzwaniem są tak zwane breaking changes, czyli zmiany w API, które zmuszają klientów do ponownej integracji. Na przykład zmianą typu breaking change jest usunięcie atrybutu, który już jest wykorzystywany w integracjach.</p>
 <p>Kolejnym wyzwaniem jest też wersjonowanie API i utrzymywanie (lub nie - w zależności od użytkowników i polityki firmy) starych wersji.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="dokumentacja-api---jak-to-ugryźć">Dokumentacja API - jak to ugryźć?<a href="https://techwriter.pl/meetcontent-wroclaw-grudzien-2023-podsumowanie#dokumentacja-api---jak-to-ugry%C5%BA%C4%87" class="hash-link" aria-label="Bezpośredni link do Dokumentacja API - jak to ugryźć?" title="Bezpośredni link do Dokumentacja API - jak to ugryźć?">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="dokumentacja-api---jak-to-ugryźć">Dokumentacja API - jak to ugryźć?<a href="https://techwriter.pl/meetcontent-wroclaw-grudzien-2023-podsumowanie#dokumentacja-api---jak-to-ugry%C5%BA%C4%87" class="hash-link" aria-label="Bezpośredni link do Dokumentacja API - jak to ugryźć?" title="Bezpo�średni link do Dokumentacja API - jak to ugryźć?">​</a></h3>
 <p>Basia miała kilka cennych wskazówek dla dokumentalistów chcących zająć się dokumentowaniem API:</p>
 <ul>
 <li>Po pierwsze, trzeba API poznać, a to najlepiej wychodzi poprzez rozmowę z programistami, którzy to je tworzą.</li>
@@ -2501,123 +2567,5 @@ dlatego zachęcamy do zaglądania na stronę wydarzenia oraz podany wyżej fanpa
         <category label="konferencje" term="konferencje"/>
         <category label="praktyki" term="praktyki"/>
         <category label="spolecznosc" term="spolecznosc"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[NIEAKTUALNE] Oferta pracy: technical writer (Handsontable) – zdalnie, hybrydowo lub stacjonarnie (Gdynia)]]></title>
-        <id>https://techwriter.pl/oferta-pracy-technical-writer-handsontable-zdalnie-hybrydowo-lub-stacjonarnie-gdynia</id>
-        <link href="https://techwriter.pl/oferta-pracy-technical-writer-handsontable-zdalnie-hybrydowo-lub-stacjonarnie-gdynia"/>
-        <updated>2023-08-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Technical Writer pilnie poszukiwany! Jeśli szukasz pracy i znasz dobrze Java]]></summary>
-        <content type="html"><![CDATA[<p>Technical Writer pilnie poszukiwany! Jeśli szukasz pracy i znasz dobrze Java
-Script, być może to oferta dla Ciebie? Szczegóły poniżej.</p>
-<p><a href="https://handsoncode.net/" target="_blank" rel="noopener noreferrer">Handsoncode</a> to firma produkująca komponenty
-programistyczne wykorzystywane przy tworzeniu aplikacji biznesowych. Jest obecna
-na rynku od 2015 roku. W swojej ofercie posiada następujące produkty:</p>
-<ul>
-<li>Handsontable - podobny do arkusza kalkulacyjnego komponent siatki danych dla
-aplikacji internetowych, który jest łatwy do wdrożenia, elastyczny,
-konfigurowalny i idealny do pracy z dużymi ilościami danych.</li>
-<li>Przeglądarka arkuszy kalkulacyjnych — samoobsługowy komponent JavaScript,
-który umożliwia podgląd plików arkuszy kalkulacyjnych bezpośrednio w
-przeglądarce.</li>
-<li>Hyperformula - szybki, podobny do Excela silnik obliczeniowy dla aplikacji
-internetowych.</li>
-</ul>
-<p>Klienci Handsoncode znajdują się na całym świecie i działają w różnych branżach.</p>
-<p>Aplikacje możecie przesyłać drogą mailową na adres
-<a href="mailto:careers@handsontable.com" target="_blank" rel="noopener noreferrer">careers@handsontable.com</a> lub korzystając z
-<a href="https://handsontable.traffit.com/public/form/a/VGh3PQ==" target="_blank" rel="noopener noreferrer">formularza</a>.</p>
-<hr>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="technical-writer">Technical Writer<a href="https://techwriter.pl/oferta-pracy-technical-writer-handsontable-zdalnie-hybrydowo-lub-stacjonarnie-gdynia#technical-writer" class="hash-link" aria-label="Bezpośredni link do Technical Writer" title="Bezpośredni link do Technical Writer">​</a></h3>
-<p>At Handsoncode, we’re on a mission to help developers deliver software faster.
-Handsontable, our flagship product, has become one of the world’s most popular
-JavaScript data grid components. We are now seeking a Technical Writer to join
-our team. The ideal candidate will have a strong background in JavaScript,
-technical writing, and a passion for creating clear, concise, and engaging
-content for the JavaScript community.</p>
-<p><strong>Why you should join us:</strong></p>
-<ul>
-<li>Our values always put people first. We are curious, bold, and think long-term!</li>
-<li>We aim to expand our leading role in the developer tools market.</li>
-<li>We are a team of 20+ people, working together for more than seven years. We
-treat each other with respect, trust, and support.</li>
-</ul>
-<p><strong>About you:</strong></p>
-<ul>
-<li>3+ years of experience in planning, writing, and maintaining technical
-documentation</li>
-<li>Excellent written and spoken communication in English (native or C1)</li>
-<li>Familiar with collaborative writing tools for software documentation</li>
-<li>Team player with strong communication skills</li>
-<li>Highly organized, productive and trustworthy</li>
-<li>Full or partial working hours overlap with CET timezone</li>
-</ul>
-<p><strong>Nice to have:</strong></p>
-<ul>
-<li>Familiarity with JavaScript, HTML5, and CSS3, with a good understanding of web
-development standards</li>
-<li>Experience in Git and Markdown</li>
-<li>Experience in open-source projects</li>
-<li>Experience in developer advocacy or developer evangelism</li>
-</ul>
-<p><strong>What you will be doing:</strong></p>
-<ul>
-<li>Identifying and resolving areas to improve in customer-facing software
-documentation, developer guides, and API reference</li>
-<li>Supervising any technical writing done by team members</li>
-<li>Writing “How To” tutorials for developers</li>
-<li>Writing blog posts about technical concepts of Handsontable</li>
-<li>Writing announcements for the latest versions of the products</li>
-<li>Contributing to the internal Handbook</li>
-<li>Defining the Process Guide for creating and versioning the technical
-documentation</li>
-<li>Defining the Style Guide for product and code documentation</li>
-</ul>
-<p><strong>What we can offer:</strong></p>
-<ul>
-<li>Competitive salary of 9 000 – 15 000 PLN (net B2B)</li>
-<li>Private English language lessons with a native speaker during working hours</li>
-<li>Flexible working hours and time-off</li>
-<li>A yearly training budget of 5000 PLN</li>
-<li>Private medical care</li>
-<li>Extended life insurance</li>
-<li>Co-financing of a Multisport fitness card</li>
-<li>24 days of paid annual leave</li>
-<li>B2B employment</li>
-<li>Work remotely, hybrid, or in our office in Gdynia (Poland)</li>
-<li>In the office: snacks, cold beverages, weekly team lunch, monthly company
-brunch</li>
-<li>Apple hardware (preferable) or other, according to your preference</li>
-<li>Regular open-air team-building retreats</li>
-</ul>
-<p>Apply and create a better future for developers with us!</p>
-<p><strong>Recruitment process:</strong></p>
-<ol>
-<li>Apply using the form or by sending an email to <a href="mailto:careers@handsontable.com" target="_blank" rel="noopener noreferrer">careers@handsontable.com</a></li>
-<li>Let’s talk! You will have a quick interview with the CEO in English, using
-Google Meet. At this meeting, we will discuss fundamental matters such as
-your expected salary and form of employment.</li>
-<li>Whoa, is it a match? You will have an interview with the CEO and Marketing
-Manager, partly in English, using Google Meet.</li>
-<li>A brief background check – we might want to review your previous work or talk
-to your previous employers</li>
-<li>You’re in! Let’s start the journey!</li>
-</ol>
-<p>Applicants must hold either a valid Polish work permit or have EU citizenship
-prior to applying for this position. Applications from candidates who don’t have
-work permit or EU citizenship requirement will not be processed.</p>
-<p>We are building a team that is strong in its diversity, representing a mix of
-different cognitive styles. Please do not include a photo, your date of birth,
-or your full address in your resume.</p>
-<hr>
-<p>Zainteresowanym życzymy powodzenia!</p>]]></content>
-        <author>
-            <name>Agnieszka Gaworska</name>
-            <uri>https://github.com/AGaworska</uri>
-        </author>
-        <category label="oferty-pracy" term="oferty-pracy"/>
-        <category label="praca" term="praca"/>
-        <category label="kariera" term="kariera"/>
-        <category label="oferta-pracy" term="oferta-pracy"/>
     </entry>
 </feed>
