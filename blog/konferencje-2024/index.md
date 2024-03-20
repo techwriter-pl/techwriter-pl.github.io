@@ -8,19 +8,19 @@ tags:
   - 'kariera'
   - 'konferencje'
   - 'spolecznosc'
-coverImage: ''
+coverImage: 'konferencje-2024.jpg'
 ---
 
-Prezentujemy listę konferencji, które mogą być interesujące dla specjalistów z branzy
+Prezentujemy listę konferencji, które mogą być interesujące dla specjalistów z branży
 komunikacji technicznej w 2024.
 
 <!--truncate-->
 
 W tym roku postanowiliśmy podejść do tematu bardziej praktycznie. Zamiast kompilować listę
-wszystkich wydarzeń jakie udało nam się znaleźć, wybraliśmy tylko wydarzenia,
+wszystkich wydarzeń, które udało nam się znaleźć, wybraliśmy tylko wydarzenia,
 które odbywają się blisko Polski i takie, które oferują opcję dołączenia
 wirtualnie. Na odległych kontynentach dzieją się ciekawe rzeczy, ale raczej
-mało kto z nas będzie będzie potrafił przekonać swojego przełozonego do udziału
+mało kto z nas będzie potrafił przekonać swojego przełożonego do udziału
 w takim wydarzeniu :) Mamy nadzieję, ze taka formuła będzie dla Was bardziej 
 przydatna. Dajcie nam znać w komentarzach.
 
@@ -48,7 +48,7 @@ przydatna. Dajcie nam znać w komentarzach.
 - Helsinki, Finlandia
 - https://ditaeurope.infomanagementcenter.com/
 
-## Nordic TechComm
+## Nordic TechKomm (Szwecja)
 
 - 06-07.03.2024
 - Sztokholm, Szwecja
@@ -114,7 +114,7 @@ przydatna. Dajcie nam znać w komentarzach.
 ## COMtecnica
 
 - 29-30.05.2024
-- Bolognia, Włochy
+- Bolonia, Włochy
 - https://www.comtecnica.eu/en/diventa-speaker/
 
 ## Evolution of TC
@@ -142,15 +142,16 @@ przydatna. Dajcie nam znać w komentarzach.
 ## soap!
 
 - *Konferencja odbywała się w czerwcu, ale w 2024 została odwołana. 
-Umieszczamy ją w zestawieniu z sentymentu i zebyście o niej nie zapomnieli. 
+Umieszczamy ją w zestawieniu z sentymentu i żebyście o niej nie zapomnieli. 
 Trzymamy kciuki za powrót w 2025*. 
 - Kraków, Polska
 - https://soapconf.com/
 
-## Nordic TechKomm
+## Nordic TechKomm (Dania)
 
 - 18-19.09.2024
 - Kopenhaga, Dania
+- https://dk.nordic-techkomm.com/
 
 ## KTLC Conference
 
@@ -170,7 +171,7 @@ Trzymamy kciuki za powrót w 2025*.
 - Graz, Austria
 - https://worldusabilitycongress.com/
 
-## TCworld Conference
+## tcworld conference
 - 05-07.11.2024
 - Stuttgart, Germany
 - https://tcworldconference.tekom.de/
