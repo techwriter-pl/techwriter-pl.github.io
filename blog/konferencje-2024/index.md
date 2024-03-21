@@ -1,7 +1,7 @@
 ---
 title: 'Konferencje 2024'
 authors: mojk
-date: '2024-03-19'
+date: '2024-03-21'
 tags:
   - 'news'
   - 'ze-swiata'
