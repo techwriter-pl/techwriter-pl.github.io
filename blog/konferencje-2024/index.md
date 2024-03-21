@@ -106,16 +106,17 @@ przydatna. Dajcie nam znać co myślicie w komentarzach.
 - Sztokholm, Szwecja
 - https://frombusinesstobuttons.com/
 
+## COMtecnica
+
+- 29-30.05.2024
+- Bolonia, Włochy
+- https://www.comtecnica.eu/en/
+
 ## UX Scotland
 - 29-31.05.2024 
 - Edynburg, Szkocja
 - https://uxscotland.net/ 
 
-## COMtecnica
-
-- 29-30.05.2024
-- Bolonia, Włochy
-- https://www.comtecnica.eu/en/diventa-speaker/
 
 ## Evolution of TC
 - 04-05.06.2024
@@ -126,7 +127,7 @@ przydatna. Dajcie nam znać co myślicie w komentarzach.
 
 - 04-07.06.2024
 - Glasgow, Szkocja
-- https://agile-gi.eu/ 
+- https://agile-gi.eu/conference-2024
 
 ## LocWorld51
 - 05-07.06.2024
