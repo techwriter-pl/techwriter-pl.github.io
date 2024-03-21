@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[20250],{13020:e=>{e.exports=JSON.parse('{"label":"ze-swiata","permalink":"/tags/ze-swiata","allTagsPath":"/tags","count":114,"unlisted":false}')}}]);

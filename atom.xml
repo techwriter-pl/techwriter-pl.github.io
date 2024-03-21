@@ -2,11 +2,218 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://techwriter.pl/</id>
     <title>techwriter.pl Blog</title>
-    <updated>2024-03-14T00:00:00.000Z</updated>
+    <updated>2024-03-21T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://techwriter.pl/"/>
     <subtitle>techwriter.pl Blog</subtitle>
     <icon>https://techwriter.pl/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Konferencje 2024]]></title>
+        <id>https://techwriter.pl/konferencje-2024</id>
+        <link href="https://techwriter.pl/konferencje-2024"/>
+        <updated>2024-03-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Prezentujemy listę konferencji, które mogą być interesujące dla specjalistów z branży]]></summary>
+        <content type="html"><![CDATA[<p>Prezentujemy listę konferencji, które mogą być interesujące dla specjalistów z branży
+komunikacji technicznej w 2024.</p>
+<p>W tym roku postanowiliśmy podejść do tematu bardziej praktycznie. Zamiast kompilować listę
+wszystkich wydarzeń, które udało nam się&nbsp;znaleźć, wybraliśmy tylko takie,
+które odbywają się blisko Polski i takie, które oferują opcję dołączenia
+wirtualnie. Na odległych kontynentach dzieją się ciekawe rzeczy, ale raczej
+mało kto z nas będzie potrafił przekonać swojego przełożonego do udziału
+w takim wydarzeniu :) Mamy nadzieję, że ta formuła będzie dla Was bardziej
+przydatna. Dajcie nam znać co myślicie w komentarzach.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ux360-virtual">UX360 Virtual<a href="https://techwriter.pl/konferencje-2024#ux360-virtual" class="hash-link" aria-label="Bezpośredni link do UX360 Virtual" title="Bezpośredni link do UX360 Virtual">​</a></h2>
+<ul>
+<li>30-31.01.2024</li>
+<li>Online</li>
+<li><a href="https://www.virtual.ux360summit.com/" target="_blank" rel="noopener noreferrer">https://www.virtual.ux360summit.com/</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="megacomm">MEGAComm<a href="https://techwriter.pl/konferencje-2024#megacomm" class="hash-link" aria-label="Bezpośredni link do MEGAComm" title="Bezpośredni link do MEGAComm">​</a></h2>
+<ul>
+<li>07-08.02.2024</li>
+<li>Online</li>
+<li><a href="https://megacomm.org/" target="_blank" rel="noopener noreferrer">https://megacomm.org/</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="dita-ot-day">DITA-OT Day<a href="https://techwriter.pl/konferencje-2024#dita-ot-day" class="hash-link" aria-label="Bezpośredni link do DITA-OT Day" title="Bezpośredni link do DITA-OT Day">​</a></h2>
+<ul>
+<li>11.02.2024</li>
+<li>Helsinki, Finlandia</li>
+<li><a href="https://www.oxygenxml.com/events/2024/dita-ot_day.html" target="_blank" rel="noopener noreferrer">https://www.oxygenxml.com/events/2024/dita-ot_day.html</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="dita-europe">DITA Europe<a href="https://techwriter.pl/konferencje-2024#dita-europe" class="hash-link" aria-label="Bezpośredni link do DITA Europe" title="Bezpośredni link do DITA Europe">​</a></h2>
+<ul>
+<li>12-13.02.2024</li>
+<li>Helsinki, Finlandia</li>
+<li><a href="https://ditaeurope.infomanagementcenter.com/" target="_blank" rel="noopener noreferrer">https://ditaeurope.infomanagementcenter.com/</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="nordic-techkomm-szwecja">Nordic TechKomm (Szwecja)<a href="https://techwriter.pl/konferencje-2024#nordic-techkomm-szwecja" class="hash-link" aria-label="Bezpośredni link do Nordic TechKomm (Szwecja)" title="Bezpośredni link do Nordic TechKomm (Szwecja)">​</a></h2>
+<ul>
+<li>06-07.03.2024</li>
+<li>Sztokholm, Szwecja</li>
+<li><a href="https://se.nordic-techkomm.com/" target="_blank" rel="noopener noreferrer">https://se.nordic-techkomm.com/</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ai-the-docs">AI the Docs<a href="https://techwriter.pl/konferencje-2024#ai-the-docs" class="hash-link" aria-label="Bezpośredni link do AI the Docs" title="Bezpośredni link do AI the Docs">​</a></h2>
+<ul>
+<li>03.04.2024</li>
+<li>Online</li>
+<li><a href="https://apithedocs.org/ai-2024" target="_blank" rel="noopener noreferrer">https://apithedocs.org/ai-2024</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="tekom-frühjahrstagung">tekom-Frühjahrstagung<a href="https://techwriter.pl/konferencje-2024#tekom-fr%C3%BChjahrstagung" class="hash-link" aria-label="Bezpośredni link do tekom-Frühjahrstagung" title="Bezpośredni link do tekom-Frühjahrstagung">​</a></h2>
+<ul>
+<li>11-12.04.2024</li>
+<li>Freiburg, Niemcy</li>
+<li><a href="https://fruehjahrstagung.tekom.de/" target="_blank" rel="noopener noreferrer">https://fruehjahrstagung.tekom.de/</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="learning-technologies">Learning Technologies<a href="https://techwriter.pl/konferencje-2024#learning-technologies" class="hash-link" aria-label="Bezpośredni link do Learning Technologies" title="Bezpośredni link do Learning Technologies">​</a></h2>
+<ul>
+<li>17-18.04.2024</li>
+<li>Londyn, Anglia</li>
+<li><a href="https://www.learningtechnologies.co.uk/" target="_blank" rel="noopener noreferrer">https://www.learningtechnologies.co.uk/</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ddx-innovation--ux-conference">DDX Innovation &amp; UX Conference<a href="https://techwriter.pl/konferencje-2024#ddx-innovation--ux-conference" class="hash-link" aria-label="Bezpośredni link do DDX Innovation &amp; UX Conference" title="Bezpośredni link do DDX Innovation &amp; UX Conference">​</a></h2>
+<ul>
+<li>11.05.2024</li>
+<li>Monachium, Niemcy</li>
+<li><a href="https://www.ddxconference.com/ddx-24-munich" target="_blank" rel="noopener noreferrer">https://www.ddxconference.com/ddx-24-munich</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ux-writer-conference">UX Writer Conference<a href="https://techwriter.pl/konferencje-2024#ux-writer-conference" class="hash-link" aria-label="Bezpośredni link do UX Writer Conference" title="Bezpośredni link do UX Writer Conference">​</a></h2>
+<ul>
+<li>13-14.05.2024</li>
+<li>Online</li>
+<li><a href="https://uxwriterconference.com/" target="_blank" rel="noopener noreferrer">https://uxwriterconference.com/</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="uxdx-usa">UXDX USA<a href="https://techwriter.pl/konferencje-2024#uxdx-usa" class="hash-link" aria-label="Bezpośredni link do UXDX USA" title="Bezpośredni link do UXDX USA">​</a></h2>
+<ul>
+<li>15-17.05.2024</li>
+<li>Nowy Jork, USA i online</li>
+<li><a href="https://uxdx.com/usa/2024/" target="_blank" rel="noopener noreferrer">https://uxdx.com/usa/2024/</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ux360-in-person">UX360 In-Person<a href="https://techwriter.pl/konferencje-2024#ux360-in-person" class="hash-link" aria-label="Bezpośredni link do UX360 In-Person" title="Bezpośredni link do UX360 In-Person">​</a></h2>
+<ul>
+<li>16-17.05.2024</li>
+<li>Berlin, Niemcy</li>
+<li><a href="https://www.eu.ux360summit.com/" target="_blank" rel="noopener noreferrer">https://www.eu.ux360summit.com/</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ux-lisbon">UX Lisbon<a href="https://techwriter.pl/konferencje-2024#ux-lisbon" class="hash-link" aria-label="Bezpośredni link do UX Lisbon" title="Bezpośredni link do UX Lisbon">​</a></h2>
+<ul>
+<li>21-24.05.2024</li>
+<li>Lizbona, Portugalia</li>
+<li><a href="https://www.ux-lx.com/" target="_blank" rel="noopener noreferrer">https://www.ux-lx.com/</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="from-business-to-buttons">From Business to Buttons<a href="https://techwriter.pl/konferencje-2024#from-business-to-buttons" class="hash-link" aria-label="Bezpośredni link do From Business to Buttons" title="Bezpośredni link do From Business to Buttons">​</a></h2>
+<ul>
+<li>24.05.2024</li>
+<li>Sztokholm, Szwecja</li>
+<li><a href="https://frombusinesstobuttons.com/" target="_blank" rel="noopener noreferrer">https://frombusinesstobuttons.com/</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="comtecnica">COMtecnica<a href="https://techwriter.pl/konferencje-2024#comtecnica" class="hash-link" aria-label="Bezpośredni link do COMtecnica" title="Bezpośredni link do COMtecnica">​</a></h2>
+<ul>
+<li>29-30.05.2024</li>
+<li>Bolonia, Włochy</li>
+<li><a href="https://www.comtecnica.eu/en/" target="_blank" rel="noopener noreferrer">https://www.comtecnica.eu/en/</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ux-scotland">UX Scotland<a href="https://techwriter.pl/konferencje-2024#ux-scotland" class="hash-link" aria-label="Bezpośredni link do UX Scotland" title="Bezpośredni link do UX Scotland">​</a></h2>
+<ul>
+<li>29-31.05.2024</li>
+<li>Edynburg, Szkocja</li>
+<li><a href="https://uxscotland.net/" target="_blank" rel="noopener noreferrer">https://uxscotland.net/</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="evolution-of-tc">Evolution of TC<a href="https://techwriter.pl/konferencje-2024#evolution-of-tc" class="hash-link" aria-label="Bezpośredni link do Evolution of TC" title="Bezpośredni link do Evolution of TC">​</a></h2>
+<ul>
+<li>04-05.06.2024</li>
+<li>Sofia, Bułgaria</li>
+<li><a href="https://evolution-of-tc.com/" target="_blank" rel="noopener noreferrer">https://evolution-of-tc.com/</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="agile-conference">AGILE Conference<a href="https://techwriter.pl/konferencje-2024#agile-conference" class="hash-link" aria-label="Bezpośredni link do AGILE Conference" title="Bezpośredni link do AGILE Conference">​</a></h2>
+<ul>
+<li>04-07.06.2024</li>
+<li>Glasgow, Szkocja</li>
+<li><a href="https://agile-gi.eu/conference-2024" target="_blank" rel="noopener noreferrer">https://agile-gi.eu/conference-2024</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="locworld51">LocWorld51<a href="https://techwriter.pl/konferencje-2024#locworld51" class="hash-link" aria-label="Bezpośredni link do LocWorld51" title="Bezpośredni link do LocWorld51">​</a></h2>
+<ul>
+<li>05-07.06.2024</li>
+<li>Dublin, Irlandia</li>
+<li><a href="https://locworld.com/events/locworld51-dublin-2024/" target="_blank" rel="noopener noreferrer">https://locworld.com/events/locworld51-dublin-2024/</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="xml-prague">XML Prague<a href="https://techwriter.pl/konferencje-2024#xml-prague" class="hash-link" aria-label="Bezpośredni link do XML Prague" title="Bezpośredni link do XML Prague">​</a></h2>
+<ul>
+<li>06-08.06.2024</li>
+<li>Praga, Czechy</li>
+<li><a href="https://www.xmlprague.cz/" target="_blank" rel="noopener noreferrer">https://www.xmlprague.cz/</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="soap">soap!<a href="https://techwriter.pl/konferencje-2024#soap" class="hash-link" aria-label="Bezpośredni link do soap!" title="Bezpośredni link do soap!">​</a></h2>
+<ul>
+<li><em>Konferencja odbywała się w czerwcu, ale w 2024 została odwołana.
+Umieszczamy ją w zestawieniu z sentymentu i żebyście o niej nie zapomnieli.
+Trzymamy kciuki za powrót w 2025</em>.</li>
+<li>Kraków, Polska</li>
+<li><a href="https://soapconf.com/" target="_blank" rel="noopener noreferrer">https://soapconf.com/</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="nordic-techkomm-dania">Nordic TechKomm (Dania)<a href="https://techwriter.pl/konferencje-2024#nordic-techkomm-dania" class="hash-link" aria-label="Bezpośredni link do Nordic TechKomm (Dania)" title="Bezpośredni link do Nordic TechKomm (Dania)">​</a></h2>
+<ul>
+<li>18-19.09.2024</li>
+<li>Kopenhaga, Dania</li>
+<li><a href="https://dk.nordic-techkomm.com/" target="_blank" rel="noopener noreferrer">https://dk.nordic-techkomm.com/</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ktlc-conference">KTLC Conference<a href="https://techwriter.pl/konferencje-2024#ktlc-conference" class="hash-link" aria-label="Bezpośredni link do KTLC Conference" title="Bezpośredni link do KTLC Conference">​</a></h2>
+<ul>
+<li>27-28.09.2024</li>
+<li>Warszawa, Polska</li>
+<li><a href="https://translation-conference.com/" target="_blank" rel="noopener noreferrer">https://translation-conference.com/</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="uxdx-emea">UXDX EMEA<a href="https://techwriter.pl/konferencje-2024#uxdx-emea" class="hash-link" aria-label="Bezpośredni link do UXDX EMEA" title="Bezpośredni link do UXDX EMEA">​</a></h2>
+<ul>
+<li>09-11.10.2024</li>
+<li>Dublin, Irlandia i online</li>
+<li><a href="https://uxdx.com/emea/2024/" target="_blank" rel="noopener noreferrer">https://uxdx.com/emea/2024/</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="world-usability-congress">World Usability Congress<a href="https://techwriter.pl/konferencje-2024#world-usability-congress" class="hash-link" aria-label="Bezpośredni link do World Usability Congress" title="Bezpośredni link do World Usability Congress">​</a></h2>
+<ul>
+<li>15-17.10.2024</li>
+<li>Graz, Austria</li>
+<li><a href="https://worldusabilitycongress.com/" target="_blank" rel="noopener noreferrer">https://worldusabilitycongress.com/</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="tcworld-conference">tcworld conference<a href="https://techwriter.pl/konferencje-2024#tcworld-conference" class="hash-link" aria-label="Bezpośredni link do tcworld conference" title="Bezpośredni link do tcworld conference">​</a></h2>
+<ul>
+<li>05-07.11.2024</li>
+<li>Stuttgart, Germany</li>
+<li><a href="https://tcworldconference.tekom.de/" target="_blank" rel="noopener noreferrer">https://tcworldconference.tekom.de/</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="leading-design-london">Leading Design London<a href="https://techwriter.pl/konferencje-2024#leading-design-london" class="hash-link" aria-label="Bezpośredni link do Leading Design London" title="Bezpośredni link do Leading Design London">​</a></h2>
+<ul>
+<li>06-07.11.2024</li>
+<li>Londyn, Anglia</li>
+<li><a href="https://leadingdesign.com/conferences/london-2024" target="_blank" rel="noopener noreferrer">https://leadingdesign.com/conferences/london-2024</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="web-summit">Web Summit<a href="https://techwriter.pl/konferencje-2024#web-summit" class="hash-link" aria-label="Bezpośredni link do Web Summit" title="Bezpośredni link do Web Summit">​</a></h2>
+<ul>
+<li>11-14.11.2024</li>
+<li>Lizbona, Portugalia</li>
+<li><a href="https://websummit.com/" target="_blank" rel="noopener noreferrer">https://websummit.com/</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ux-writing-conference">UX writing conference<a href="https://techwriter.pl/konferencje-2024#ux-writing-conference" class="hash-link" aria-label="Bezpośredni link do UX writing conference" title="Bezpośredni link do UX writing conference">​</a></h2>
+<ul>
+<li>13.11.2024</li>
+<li>Londyn, Anglia</li>
+<li><a href="https://techcircus.io/en/events/ux-writing-conference-london#" target="_blank" rel="noopener noreferrer">https://techcircus.io/en/events/ux-writing-conference-london#</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="kmis">KMIS<a href="https://techwriter.pl/konferencje-2024#kmis" class="hash-link" aria-label="Bezpośredni link do KMIS" title="Bezpośredni link do KMIS">​</a></h2>
+<ul>
+<li>17-19.11.2024</li>
+<li>Porto, Portugalia</li>
+<li><a href="https://kmis.scitevents.org/" target="_blank" rel="noopener noreferrer">https://kmis.scitevents.org/</a></li>
+</ul>]]></content>
+        <author>
+            <name>Michał Skowron</name>
+            <uri>https://github.com/docdeveloper</uri>
+        </author>
+        <category label="news" term="news"/>
+        <category label="ze-swiata" term="ze-swiata"/>
+        <category label="kariera" term="kariera"/>
+        <category label="konferencje" term="konferencje"/>
+        <category label="spolecznosc" term="spolecznosc"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MeetContentWRO luty 2024 - Relacja]]></title>
         <id>https://techwriter.pl/meet-content-wro-luty-2024-relacja</id>
@@ -576,7 +783,7 @@ invaluable in my collaboration with subject matter experts.</p>
 <p>I also really loved this amazing corporate culture. This led me to the decision
 to remain within the company and return to the marketing department as a Service
 Marketing Lead.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="8-what-skills-were-applicable-to-the-new-domain-and-what-new-skills-you-had-to-acquire">8. What skills were applicable to the new domain and what new skills you had to acquire?<a href="https://techwriter.pl/kilka-pytan-do-czesc-30-marketing#8-what-skills-were-applicable-to-the-new-domain-and-what-new-skills-you-had-to-acquire" class="hash-link" aria-label="Bezpo�średni link do 8. What skills were applicable to the new domain and what new skills you had to acquire?" title="Bezpośredni link do 8. What skills were applicable to the new domain and what new skills you had to acquire?">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="8-what-skills-were-applicable-to-the-new-domain-and-what-new-skills-you-had-to-acquire">8. What skills were applicable to the new domain and what new skills you had to acquire?<a href="https://techwriter.pl/kilka-pytan-do-czesc-30-marketing#8-what-skills-were-applicable-to-the-new-domain-and-what-new-skills-you-had-to-acquire" class="hash-link" aria-label="Bezpośredni link do 8. What skills were applicable to the new domain and what new skills you had to acquire?" title="Bezpośredni link do 8. What skills were applicable to the new domain and what new skills you had to acquire?">​</a></h3>
 <p>I want to emphasize that the technical writing skills I acquired through my time
 in the Technical Communication Office at SoftServe are of exceptionally high
 quality. I am profoundly grateful to this department for the numerous growth and
@@ -964,7 +1171,7 @@ Takie podejście pozwala na ponowne używanie istniejących parametrów (content
 <p>Oczywiście dokumentacja API ma swoje wyzwania, które różne firmy starają się przezwyciężyć na różne sposoby. Wyzwania dla dokumentalisty biorą się również z samych założeń wyjściowych jakie firma przyjmie.</p>
 <p>I tak w przypadku dokumentacji do Box API, dużym wyzwaniem są tak zwane breaking changes, czyli zmiany w API, które zmuszają klientów do ponownej integracji. Na przykład zmianą typu breaking change jest usunięcie atrybutu, który już jest wykorzystywany w integracjach.</p>
 <p>Kolejnym wyzwaniem jest też wersjonowanie API i utrzymywanie (lub nie - w zależności od użytkowników i polityki firmy) starych wersji.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="dokumentacja-api---jak-to-ugryźć">Dokumentacja API - jak to ugryźć?<a href="https://techwriter.pl/meetcontent-wroclaw-grudzien-2023-podsumowanie#dokumentacja-api---jak-to-ugry%C5%BA%C4%87" class="hash-link" aria-label="Bezpośredni link do Dokumentacja API - jak to ugryźć?" title="Bezpo�średni link do Dokumentacja API - jak to ugryźć?">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="dokumentacja-api---jak-to-ugryźć">Dokumentacja API - jak to ugryźć?<a href="https://techwriter.pl/meetcontent-wroclaw-grudzien-2023-podsumowanie#dokumentacja-api---jak-to-ugry%C5%BA%C4%87" class="hash-link" aria-label="Bezpośredni link do Dokumentacja API - jak to ugryźć?" title="Bezpośredni link do Dokumentacja API - jak to ugryźć?">​</a></h3>
 <p>Basia miała kilka cennych wskazówek dla dokumentalistów chcących zająć się dokumentowaniem API:</p>
 <ul>
 <li>Po pierwsze, trzeba API poznać, a to najlepiej wychodzi poprzez rozmowę z programistami, którzy to je tworzą.</li>
@@ -2379,7 +2586,7 @@ mają czas na zadawanie pytań, dyskusję lub po prostu nawiązanie kontaktów.<
 <a href="https://soapconf.com/" target="_blank" rel="noopener noreferrer">soap!</a>. Wspólnie z MeetContentWRO dążymy do stworzenia
 społeczności profesjonalistów pracujących z treściami produktowymi w obszarach
 Tech i IT.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="skontaktuj-się-z-organizatorem">Skontaktuj się z organizatorem<a href="https://techwriter.pl/wrzesniowy-meet-content-krk#skontaktuj-si%C4%99-z-organizatorem" class="hash-link" aria-label="Bezpośredni link do Skontaktuj się z organizatorem" title="Bezpośredni link do Skontaktuj się z organizatorem">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="skontaktuj-się-z-organizatorem">Skontaktuj się z organizatorem<a href="https://techwriter.pl/wrzesniowy-meet-content-krk#skontaktuj-si%C4%99-z-organizatorem" class="hash-link" aria-label="Bezpośredni link do Skontaktuj si�ę z organizatorem" title="Bezpośredni link do Skontaktuj się z organizatorem">​</a></h2>
 <p>Organizatorom zależy, by spotkania były istotne i przybliżały tematy, które są
 dla Was interesujące. Możecie zgłosić temat, a organizatorzy dołożą wszelkich
 starań, aby znaleźć prelegentów, którzy będą mogli o nim porozmawiać. Możecie
@@ -2488,84 +2695,6 @@ ASD-STE100 i Employer Branding."</li>
         </author>
         <category label="meetup" term="meetup"/>
         <category label="edukacja" term="edukacja"/>
-        <category label="spolecznosc" term="spolecznosc"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jesienna edycja API the Docs Virtual 2023 - Zapowiedź]]></title>
-        <id>https://techwriter.pl/jesienna-edycja-api-the-docs-virtual-2023-zapowiedz</id>
-        <link href="https://techwriter.pl/jesienna-edycja-api-the-docs-virtual-2023-zapowiedz"/>
-        <updated>2023-08-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Co prawda do października jeszcze sporo czasu, ale już teraz informujemy Was, że]]></summary>
-        <content type="html"><![CDATA[<p>Co prawda do października jeszcze sporo czasu, ale już teraz informujemy Was, że
-rusza wtedy kolejna edycja cyklu wirtualnych spotkań związanych z dokumentacją
-API i doświadczeniami w pracy programisty. Szczegóły poniżej.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="o-konferencji">O konferencji<a href="https://techwriter.pl/jesienna-edycja-api-the-docs-virtual-2023-zapowiedz#o-konferencji" class="hash-link" aria-label="Bezpośredni link do O konferencji" title="Bezpośredni link do O konferencji">​</a></h3>
-<p><a href="https://apithedocs.org/" target="_blank" rel="noopener noreferrer">API The Docs</a> zostało zainicjowane kilka lat temu i
-przez ten czas stało się wiodącą konferencją poświęconą dokumentacji API.
-Początkowo odbywała się stacjonarnie, jednak w wyniku pandemii, która
-przetoczyła się przez świat organizatorzy zmienili format konferencji z offline
-na online w kwietniu 2020 roku i uruchomili API The Docs Virtual. Spotkania
-wirtualne są <strong>bezpłatne i dostępne dla wszystkich</strong>, wymagana jest jednak
-rejestracja, do której bezpośredni link znajdziecie
-<a href="https://www.eventbrite.com/e/showcase-your-developer-portal-online-series-tickets-684667267227" target="_blank" rel="noopener noreferrer">tutaj</a>.
-Chociaż wydarzenie jest bezpłatne, mile widziane jest wsparcie finansowe dla
-dalszych inicjatyw społeczności API The Docs, które pojawią się w przyszłości.
-Szczegóły znajdziecie na stronie głównej API the Docs, którą podaliśmy wyżej.</p>
-<p>API The Docs Virtual to seria konferencji skierowana do technical writerów,
-programistów API, product ownerów oraz wszystkich osób, które traktują
-dokumentację jako kluczowy element pracy. Udział w wydarzeniu to świetna okazja
-do podzielenia się informacjami na temat najnowszych i najlepszych praktyk,
-strategii oraz trendów związanych z dokumentacją API, a także doświadczeniem w
-zawodzie programisty. W październiku rusza jesienna edycja prelekcji, podczas
-których uczestnicy wraz z prelegentami będą próbowali znaleźć odpowiedzi na
-liczne pytania związane z dokumentacją API oraz portalem dla programistów.</p>
-<p>Podobnie jak w poprzednich latach, do tegorocznej edycji API the Docs Virtual
-zostały zaproszone zespoły portali deweloperskich, które otrzymały nominację do
-plebiscytu <a href="https://devportalawards.org/nominees" target="_blank" rel="noopener noreferrer">2023 DevPortal Awards</a>.
-Członkowie tych zespołów podzielą się z uczestnikami najlepszymi praktykami,
-podpowiadając najnowocześniejsze rozwiązania w drodze do doskonałości
-dokumentacji API. Usłyszycie też o wyzwaniach, którym pomyślnie stawili czoła,
-bieżących zadaniach, a także dokonaniach zawodowych, z których są szczególnie
-dumni.</p>
-<p>Jeśli chcecie mieć najświeższe informacje dotyczące działań API the Docs
-zaglądajcie
-na&nbsp;<a href="https://www.facebook.com/APItheDocsConferences" target="_blank" rel="noopener noreferrer">fanpage</a>&nbsp;społeczności.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="najważniejsze-informacje">Najważniejsze informacje<a href="https://techwriter.pl/jesienna-edycja-api-the-docs-virtual-2023-zapowiedz#najwa%C5%BCniejsze-informacje" class="hash-link" aria-label="Bezpośredni link do Najważniejsze informacje" title="Bezpośredni link do Najważniejsze informacje">​</a></h3>
-<p>Jesienna edycja Api The Docs Virtual odbędzie się w czterech sesjach, które
-odbędą się w dniach: <strong>4, 11, 18 i 25 października</strong>.</p>
-<p>Ponieważ nie ma jeszcze szczegółowych informacji na temat programu, poniżej
-podajemy ramową tematykę na każdy dzień:</p>
-<ul>
-<li>4 października - Onboarding,</li>
-<li>11 października - Business alignment,</li>
-<li>18 października - Accessibility,</li>
-<li>25 października - DX innovation.</li>
-</ul>
-<p>Pamiętajcie, że udział w prelekcjach jest <strong>bezpłatny</strong>, ale wymaga
-<strong>rejestracji</strong>. Zauważcie, że jedno z wydarzeń zostało w całości poświęcone
-dostępności dokumentacji. Dostępność cyfrowa, w szczególności dostępność
-dokumentacji to będzie naszym zdaniem w najbliższym czasie gorący temat.
-Wszystkim zainteresowanym tematyką dostępności polecamy
-<a href="https://accens.pl/blog/pl/" target="_blank" rel="noopener noreferrer">blog o dostępności</a> lub
-<a href="https://accens.pl/newsletter/" target="_blank" rel="noopener noreferrer">newsletter o dostępności</a> regularnie publikowane
-przez naszego partnera, firmę Accens. Wiemy również, że niedługo w ofercie
-<a href="https://accens.pl/" target="_blank" rel="noopener noreferrer">Accens</a> pojawią się szkolenia dotyczące dostępności
-dokumentacji technicznej stworzone właśnie z myślą o technical writerach, czyli
-o nas 😊</p>
-<p>Jak wspomnieliśmy, opis prelekcji oraz szczegółowy program nie są jeszcze znane
-dlatego zachęcamy do zaglądania na stronę wydarzenia oraz podany wyżej fanpage.</p>
-<p>Życzymy dobrych wrażeń 😉.</p>]]></content>
-        <author>
-            <name>Agnieszka Gaworska</name>
-            <uri>https://github.com/AGaworska</uri>
-        </author>
-        <category label="news" term="news"/>
-        <category label="ze-swiata" term="ze-swiata"/>
-        <category label="api" term="api"/>
-        <category label="dokumentacja" term="dokumentacja"/>
-        <category label="dostepnosc" term="dostepnosc"/>
-        <category label="konferencje" term="konferencje"/>
-        <category label="praktyki" term="praktyki"/>
         <category label="spolecznosc" term="spolecznosc"/>
     </entry>
 </feed>
