@@ -58,13 +58,7 @@ przydatna. Dajcie nam znać co myślicie w komentarzach.
 
 - 03.04.2024 
 - Online
-- https://apithedocs.org/ai-2024 
-
-## UX Writer Conference
-
-- 13-14.05.2024 
-- Online
-- https://uxwriterconference.com/
+- https://apithedocs.org/ai-2024
 
 ## tekom-Frühjahrstagung
 
@@ -82,6 +76,12 @@ przydatna. Dajcie nam znać co myślicie w komentarzach.
 - 11.05.2024
 - Monachium, Niemcy
 - https://www.ddxconference.com/ddx-24-munich
+
+## UX Writer Conference
+
+- 13-14.05.2024 
+- Online
+- https://uxwriterconference.com/
 
 ## UXDX USA
 
