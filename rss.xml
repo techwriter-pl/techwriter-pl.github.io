@@ -4,10 +4,83 @@
         <title>techwriter.pl Blog</title>
         <link>https://techwriter.pl/</link>
         <description>techwriter.pl Blog</description>
-        <lastBuildDate>Thu, 21 Mar 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Apr 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>pl</language>
+        <item>
+            <title><![CDATA[MeetContentWRO marzec 2024 - Relacja]]></title>
+            <link>https://techwriter.pl/meet-content-wro-marzec-2024-relacja</link>
+            <guid>https://techwriter.pl/meet-content-wro-marzec-2024-relacja</guid>
+            <pubDate>Thu, 04 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[20 marca MeetContentWRO ponownie gościł w inspirującym wnętrzu przy Szybowcowej 2, czyli w Nokia Garage.]]></description>
+            <content:encoded><![CDATA[<p>20 marca MeetContentWRO ponownie gościł w inspirującym wnętrzu przy Szybowcowej 2, czyli w Nokia Garage.</p>
+<p>Prezentację pod tytułem <em>"Smart search results with Natural Language Understanding (NLU)"</em> dostarczyło wspólnie trzech prelegentów z Nokii:</p>
+<ul>
+<li>Magdalena Jałówko, Product Owner</li>
+<li><a href="https://www.linkedin.com/in/adam-kakol-14753b135/" target="_blank" rel="noopener noreferrer">Adam Kąkol</a>, Manager obszaru AI-Driven Knowledge Solutions</li>
+<li><a href="https://www.linkedin.com/in/natalia-rusin-237930221/" target="_blank" rel="noopener noreferrer">Natalia Rusin</a>, UX/UI Designer</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="język-naturalny---cel-i-perspektywa">Język naturalny - cel i perspektywa<a href="https://techwriter.pl/meet-content-wro-marzec-2024-relacja#j%C4%99zyk-naturalny---cel-i-perspektywa" class="hash-link" aria-label="Bezpośredni link do Język naturalny - cel i perspektywa" title="Bezpośredni link do Język naturalny - cel i perspektywa">​</a></h2>
+<p>Nokia zajmuje się tworzeniem urządzeń do komunikacji, na przykład różnych urządzeń radiowych czy nadajników. W związku z tym potrzebuje udokumentować swoje produkty w sposób ustandaryzowany i umożliwiający tysiącom pracowników, klientów i użytkowników rozeznanie się w ogromie sprzętu.</p>
+<p>NLU, czyli Natural Language Understanding, to obszar sztucznej inteligencji odpowiedzialny za interakcję między człowiekiem a komputerem, w szczególności za rozumienie i przetwarzanie języka naturalnego.</p>
+<p>Nic dziwnego, że potrzebne było zaangażowanie nie-ludzkich 😉 zasobów, żeby to wszystko ogarnąć i uczynić ‘przyjaznym’ dla użytkownika.</p>
+<p>Zespół Adama określił cel i przyjął pewne założenia.</p>
+<p>Określono dwie istotne perspektywy rozumienia języka naturalnego:</p>
+<ul>
+<li>Użytkownika</li>
+<li>Twórcy treści technicznych</li>
+</ul>
+<p>Cel z kolei był jasny: Poprawa wyników wyszukiwania w portalu dokumentacyjnym.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="intencje">Intencje<a href="https://techwriter.pl/meet-content-wro-marzec-2024-relacja#intencje" class="hash-link" aria-label="Bezpośredni link do Intencje" title="Bezpośredni link do Intencje">​</a></h2>
+<p>Za każdym pytaniem (search query) czai się jakaś potrzeba użytkownika, tak zwana intencja.</p>
+<p>Żeby tę intencję zidentyfikować, zespół Adama:</p>
+<ul>
+<li>Zorganizował serię wywiadów z użytkownikami</li>
+<li>Przeanalizował wyszukiwane terminy</li>
+</ul>
+<p>Swoje odkrycia przetłumaczyli na strukturę grafową, zidentyfikowali tak zwane ‘named entities’ oraz relacje między nimi, a następnie stworzyli grafową bazę danych.</p>
+<p>Czym zatem jest intencja? Okazuje się, że nieważne jak zadajemy nasze pytania, informacje, których tak naprawdę potrzebujemy da się sprowadzić do pewnych powtarzalnych kategorii.</p>
+<p>Prosty przykład użyty przez naszych prelegentów to:</p>
+<ul>
+<li>Czy jutro będzie padać?</li>
+<li>Czy jutro pogoda będzie dobra na piknik?</li>
+<li>Temperatura jutro we Wrocławiu</li>
+</ul>
+<p>Wszystkie te zapytania dotyczą prognozy pogody. I to ona staje się intencją, która je łączy.</p>
+<p>Każda intencja ma swoje parametry. Kontynuując przykład prognozy pogody, możemy wyodrębnić takie parametry jak lokalizacja czy data.</p>
+<p>W Nokii zidentyfikowano 10 kluczowych intencji, które stały za zapytaniami użytkowników. Przykładowo, jeśli ktoś szukał informacji o wadze jakiegoś sprzętu, jego zapytanie było klasyfikowane jako intencja WYMIARY.</p>
+<p>Często też użytkownicy chcieli porównać podobne sprzęty. Te zapytania były z kolei klasyfikowane jako PORÓWNANIE.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="grafowe-bazy-danych">Grafowe bazy danych<a href="https://techwriter.pl/meet-content-wro-marzec-2024-relacja#grafowe-bazy-danych" class="hash-link" aria-label="Bezpośredni link do Grafowe bazy danych" title="Bezpośredni link do Grafowe bazy danych">​</a></h2>
+<p>Proste wyszukiwanie po tak zwanych słowach kluczowych nie radzi sobie z dużymi zestawami danych. Poza tym potrzebuje ścisłej i przewidywalnej struktury danych. Takie wymagania sprawiają, że wyszukiwanie staje się niewydajne i często nie generuje właściwych rezultatów.</p>
+<p>Grafowe bazy danych przekładają dane na tak zwane wierzchołki (entities lub nodes). Wierzchołki mają swoje atrybuty (properties), które z kolei niosą kolejne informacje. Każdy wierzchołek może łączyć się z innym wierzchołkiem za pomocą relacji.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="semantic-search---o-co-chodzi">Semantic search - o co chodzi?<a href="https://techwriter.pl/meet-content-wro-marzec-2024-relacja#semantic-search---o-co-chodzi" class="hash-link" aria-label="Bezpośredni link do Semantic search - o co chodzi?" title="Bezpośredni link do Semantic search - o co chodzi?">​</a></h2>
+<p>Semantyczny czyli znaczeniowy, a więc ‘semantic search’ to nic innego jak wyszukiwanie znaczeń, zamiast klasycznego dopasowania słów kluczowych. Dlaczego jest bardziej efektywne? Bo bierze pod uwagę kontekst i znaczenie słów.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="semantyczna-grafowa-baza-danych">Semantyczna grafowa baza danych<a href="https://techwriter.pl/meet-content-wro-marzec-2024-relacja#semantyczna-grafowa-baza-danych" class="hash-link" aria-label="Bezpośredni link do Semantyczna grafowa baza danych" title="Bezpośredni link do Semantyczna grafowa baza danych">​</a></h2>
+<p>W Nokii dokonano obróbki dokumentacji produktowej w taki sposób, że każdy dokument został zaanotowany tagami XML. To pozwoliło na sprzęgnięcie wszystkich elementów: zidentyfikowanie wierzchołków, ich atrybutów i wartości oraz relacji.</p>
+<p>Powstała baza danych, która pozwala użytkownikom precyzyjnie przeszukiwać zasoby i sprawniej manipulować danymi, zgodnie z intencją zapytania.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="i-wtedy-wchodzi-ux">I wtedy wchodzi UX...<a href="https://techwriter.pl/meet-content-wro-marzec-2024-relacja#i-wtedy-wchodzi-ux" class="hash-link" aria-label="Bezpośredni link do I wtedy wchodzi UX..." title="Bezpośredni link do I wtedy wchodzi UX...">​</a></h2>
+<p>Jak się domyślacie, trzeba było ten skomplikowany kłębek połączeń przedstawić użytkownikowi w sposób zrozumiały i przejrzysty.  Znowu potrzebne były wywiady z użytkownikami a rezultat to przyjazny interfejs, który w prosty sposób pozwala nawigować poprzez kompleksowość produktów Nokii. Czego byliśmy świadkami podczas demo 🤩</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="pytania-od-uczestników">Pytania od uczestników<a href="https://techwriter.pl/meet-content-wro-marzec-2024-relacja#pytania-od-uczestnik%C3%B3w" class="hash-link" aria-label="Bezpośredni link do Pytania od uczestników" title="Bezpośredni link do Pytania od uczestników">​</a></h2>
+<p>Po prezentacji, uczestnicy mieli kilka pytań.</p>
+<p>Szczególnie interesowała ich kwestia aktualizowania bazy danych. Okazuje się, że w grafowej bazie danych informacje są zawsze aktualne, bo są powiązane bezpośrednio ze źródłem. Jeśli źródło zostało zaktualizowane, ten stan będzie odzwierciedlony w wynikach wyszukiwania.</p>
+<p>Kolejną kwestią był dostęp do treści, czyli kto powinien widzieć co i jak tym sterować?</p>
+<p>Otóż grafowe bazy danych umożliwiają różne poziomy dostępu. Po otrzymaniu zapytania, baza danych identyfikuje poziom dostępu pytającego i pokazuje mu TYLKO te wierzchołki, do których pytający ma dostęp.</p>
+<hr>
+<p>Serdecznie dziękujemy marcowym prelegentom oraz naszym niezawodnym uczestnikom 🙌</p>
+<p>Jednocześnie zapraszamy na kolejne wydarzenia MeetContent we Wrocławiu. Najbliższe już <strong>24 kwietnia</strong> w <strong>Ocado</strong>.</p>
+<p>Będziemy mieli dla Was aż dwie prezentacje:</p>
+<ul>
+<li><a href="https://www.linkedin.com/in/monika-mrozek/" target="_blank" rel="noopener noreferrer">Monika Mrozek</a> opowie o estymacji w zespole Tech Writerskim</li>
+<li><a href="https://www.linkedin.com/in/pawel-martin/" target="_blank" rel="noopener noreferrer">Paweł Martin</a> nakreśli temat tworzenia wewnętrznego portalu developerskiego</li>
+</ul>
+<p>Zapisy w formularzu pod <a href="https://forms.gle/EdBRk7avUJ8QHjre7" target="_blank" rel="noopener noreferrer">TYM LINKIEM</a>! 👋</p>
+<p>Do zobaczenia!</p>
+<p><img loading="lazy" src="https://techwriter.pl/assets/images/MC26-b39177a4901ce493c94d45691f8f9a6a.jpg" width="4000" height="3000" class="img_ev3q"> <img loading="lazy" src="https://techwriter.pl/assets/images/MC26_2-324b81c220ce30c578352c5a35695eff.jpg" width="4000" height="3000" class="img_ev3q"> <img loading="lazy" src="https://techwriter.pl/assets/images/MC26_1-d312bc531300d69ab59e84bcf87361f3.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content:encoded>
+            <category>meetup</category>
+            <category>nlu</category>
+            <category>smart search results</category>
+        </item>
         <item>
             <title><![CDATA[Konferencje 2024]]></title>
             <link>https://techwriter.pl/konferencje-2024</link>
@@ -2516,7 +2589,7 @@ mają czas na zadawanie pytań, dyskusję lub po prostu nawiązanie kontaktów.<
 <a href="https://soapconf.com/" target="_blank" rel="noopener noreferrer">soap!</a>. Wspólnie z MeetContentWRO dążymy do stworzenia
 społeczności profesjonalistów pracujących z treściami produktowymi w obszarach
 Tech i IT.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="skontaktuj-się-z-organizatorem">Skontaktuj się z organizatorem<a href="https://techwriter.pl/wrzesniowy-meet-content-krk#skontaktuj-si%C4%99-z-organizatorem" class="hash-link" aria-label="Bezpośredni link do Skontaktuj si�ę z organizatorem" title="Bezpośredni link do Skontaktuj się z organizatorem">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="skontaktuj-się-z-organizatorem">Skontaktuj się z organizatorem<a href="https://techwriter.pl/wrzesniowy-meet-content-krk#skontaktuj-si%C4%99-z-organizatorem" class="hash-link" aria-label="Bezpośredni link do Skontaktuj się z organizatorem" title="Bezpośredni link do Skontaktuj się z organizatorem">​</a></h2>
 <p>Organizatorom zależy, by spotkania były istotne i przybliżały tematy, które są
 dla Was interesujące. Możecie zgłosić temat, a organizatorzy dołożą wszelkich
 starań, aby znaleźć prelegentów, którzy będą mogli o nim porozmawiać. Możecie
@@ -2545,76 +2618,6 @@ organizatorów?</p>
 <p><strong>Odp.:</strong> Możesz napisać do nas na Slacku, będziemy monitorować kanał przez
 pierwsze 30 minut od rozpoczęcia wydarzenia.</p>
 <p>Wszystkim uczestnikom życzymy dobrych wrażeń!</p>]]></content:encoded>
-            <category>meetup</category>
-            <category>edukacja</category>
-            <category>spolecznosc</category>
-        </item>
-        <item>
-            <title><![CDATA[Zapraszamy na techwriterski fusion meetup]]></title>
-            <link>https://techwriter.pl/techwriterski-fusion-meetup</link>
-            <guid>https://techwriter.pl/techwriterski-fusion-meetup</guid>
-            <pubDate>Tue, 05 Sep 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Ekipa Technical Writerska z Hitachi Energy Kraków i przyjaciele zapraszają 12]]></description>
-            <content:encoded><![CDATA[<p>Ekipa Technical Writerska z Hitachi Energy Kraków i przyjaciele zapraszają 12
-września 17.00-19.30 do siedziby firmy ul. Pawia 7 na techwriterski fusion
-meetup w języku polskim.</p>
-<p>Temat spotkania: <em>Sekrety Technical Writerów Hitachi Energy oraz ciekawostki o
-japońskim stylu życia i pracy. O wytrwałości, budowaniu harmonii i radzeniu
-sobie z przeciwnościami oczami sensejów karate.</em></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="część-1---technical-writing">Część 1 - Technical writing<a href="https://techwriter.pl/techwriterski-fusion-meetup#cz%C4%99%C5%9B%C4%87-1---technical-writing" class="hash-link" aria-label="Bezpośredni link do Część 1 - Technical writing" title="Bezpośredni link do Część 1 - Technical writing">​</a></h2>
-<p><strong>Godzina:</strong> 17.00-18.00</p>
-<ul>
-<li><em>Gdy feedbacku brak - Jak radzić sobie z nieuchwytnym SME?</em> –
-<a href="https://www.linkedin.com/in/monika-klimek1/" target="_blank" rel="noopener noreferrer">Monika Dąbrowska</a></li>
-<li><em>Zarządzanie priorytetami projektu dokumentacyjnego</em> –
-<a href="https://www.linkedin.com/in/andrzej-niewiarowski-tech-writer/" target="_blank" rel="noopener noreferrer">Andrzej Niewiarowski</a></li>
-</ul>
-<p>Nasze prezentacje to doskonała okazja aby poznać nie tylko najlepsze praktyki w
-tworzeniu dokumentacji, ale także dowiedzieć się jak skutecznie pozyskiwać
-niezbędne informacje od zespołu i interesariuszy projektu.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="część-2---kultura-japońska">Część 2 - Kultura japońska<a href="https://techwriter.pl/techwriterski-fusion-meetup#cz%C4%99%C5%9B%C4%87-2---kultura-japo%C5%84ska" class="hash-link" aria-label="Bezpośredni link do Część 2 - Kultura japońska" title="Bezpośredni link do Część 2 - Kultura japońska">​</a></h2>
-<p><strong>Godzina:</strong> ok 18.15-19.15</p>
-<ul>
-<li>Podróż przez kulturę Japonii z pasjonatką i lektorką języka japońskiego, a na
-co dzień QA-ką w Hitachi Energy –
-<a href="https://www.linkedin.com/in/patrycja-pyrek/" target="_blank" rel="noopener noreferrer">Patrycją Pyrek</a>. Ta prezentacja
-to efekt kilku podróży i miesięcy spędzonych w sercu Japonii. Przygotujcie się
-na opowieści pełne ciekawostek i inspiracji prosto z Kraju Kwitnącej Wiśni.</li>
-<li>Pasja, wytrwałość, mistrzostwo: Panel dyskusyjny o świecie karate i wystawa
-zdjęć z cyklu Walka z Cieniem.</li>
-</ul>
-<p>Maja Wójcik i Jakub Piasecki to dwójka utalentowanych sensejów karate z
-Małopolskiego Klubu Sportowego KOYAMA, którzy poprzez lata treningu, zdobywania
-doświadczenia i szkolenia swoich uczniów osiągnęli stopień mistrzowski. Nikomu
-chyba nie trzeba tłumaczyć, że w dobie coraz bardziej siedzącego trybu pracy,
-karate stanowi doskonały sposób na utrzymanie aktywnego trybu życia. Karate to
-nie tylko ćwiczenia fizyczne, lecz także trening umysłu. Karate wymaga
-skupienia, dyscypliny i cierpliwości, co może przekładać się na lepszą zdolność
-koncentracji w życiu codziennym oraz umiejętność radzenia sobie ze stresem.
-Zapraszamy na spotkanie, podczas którego Maja i Jakub przybliżą Wam fascynujący
-świat karate oraz pokażą jak pozytywnie może ono wpłynąć na Wasze życie.</p>
-<blockquote>
-<p>Ważne: <strong>Liczba miejsc ograniczona, zapisy przez wiadomość do
-<a href="https://www.linkedin.com/in/piotrsrokatechwriter/" target="_blank" rel="noopener noreferrer">Piotr Sroka</a></strong></p>
-</blockquote>
-<p>Oprócz prelegentów, na wydarzeniu złapać na słowo można:</p>
-<ul>
-<li><a href="https://www.linkedin.com/in/mattbarszcz/" target="_blank" rel="noopener noreferrer"><strong>Mateusz (Matt) Barszcz:</strong></a>
-"Kreatywne role, takie jak technical writer, training developer, czy learning
-portfolio owner pozwoliły mi przekształcać złożone tematy w materiały
-przyjazne dla użytkownika. Po 12 latach udziału w ciekawych projektach i
-poznawaniu metod dostarczania treści, wracam do technical writingu jako
-członek dynamicznie rozwijającego się zespołu w Hitachi Energy."</li>
-<li><a href="https://www.linkedin.com/in/julia-d-19a065114/" target="_blank" rel="noopener noreferrer"><strong>Julia Dąbrowska:</strong></a> "Jako
-początkująca techwriterka, chętnie porozmawiam o kulisach zmiany zawodu,
-plusach pracy dla Hitachi Energy, niuansach w języku angielskim i o tym co
-mistrzowie Zen nazywają "umysłem początkującego".</li>
-<li><a href="https://www.linkedin.com/in/piotrsrokatechwriter/" target="_blank" rel="noopener noreferrer"><strong>Piotr Sroka:</strong></a> "Chętnie
-porozmawiam o walorach pracy w Hitachi Energy, o blaskach i cieniach
-organizowania zespołu writerskiego, o prostym języku, komunikacji biznesowej,
-ASD-STE100 i Employer Branding."</li>
-</ul>
-<p><img loading="lazy" src="https://techwriter.pl/assets/images/hitachi-meetup-1-df4029f8df936a6ac69ca7db2eaee3c1.png" width="500" height="271" class="img_ev3q"></p>]]></content:encoded>
             <category>meetup</category>
             <category>edukacja</category>
             <category>spolecznosc</category>

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[36348],{47774:s=>{s.exports=JSON.parse('{"label":"smart search results","permalink":"/tags/smart-search-results","allTagsPath":"/tags","count":1,"unlisted":false}')}}]);
