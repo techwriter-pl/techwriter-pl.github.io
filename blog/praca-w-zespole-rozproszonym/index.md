@@ -64,27 +64,18 @@ związane. Jednak odpowiedzialność za domenę nie oznacza, że właściciel b�
 
 ### Dzielenie się wiedzą
 
-Żeby móc efektywnie rozprowadzić odpowiedzialność po całym zespole, musisz
+Żeby móc efektywnie rozprowadzić odpowiedzialność po całym zespole, trzeba
 dzielić się wiedzą. Wprowadziliśmy więc kilka zasad wokół tego tematu.
 
-Jeśli ma to sens, podziel się informacją o tym jak rozwiązałeś problem z innymi.
-Wykorzystujemy do tego czasem spotkania teamowe, ale dużo lepiej jeżeli
-podzielisz się tą wiedzą na piśmie, na przykład na Slacku albo najlepiej w
-komentarzu pod rozwiązaną historyjką w Jirze.
+Jeśli ma to sens, podziel się informacją o rozwiązaniu problemu z innymi. Wykorzystaj do tego spotkanie zespołowe albo podziel się tą wiedzą na piśmie, na przykład na Slacku albo w komentarzu pod rozwiązaną historyjką w Jirze.
 
-Co prowadzi nas do kolejnej zasady: prowadź dokumentację. Dobra dokumentacja to
-najlepsze źródło wiedzy więc staraj się ją aktualizować na bieżąco. Kiedy to
-robisz, stosuj starą zasadę biwakowania: “Pozostaw to miejsce lepszym niż go
-zastałeś”. Poprawiaj i ulepszaj jak się tylko da. Prowadząc tę dokumentację,
-pamiętaj, żeby opisywać tematy przydatne dla innych. Znasz swoją publikę dośc
-dobrze, jest to w końcu Twój zespół.
+To prowadzi nas do kolejnej zasady: zadbaj o dokumentację. Dobra dokumentacja to najlepsze źródło wiedzy, więc staraj się ją aktualizować na bieżąco. Kiedy to robisz, stosuj starą zasadę biwakowania: “Pozostaw to miejsce lepszym niż go
+zastałeś”. Poprawiaj i ulepszaj jak się tylko da. Prowadząc dokumentację,
+pamiętaj, żeby opisywać tematy przydatne dla innych. Znasz swoją publikę dośc dobrze, jest to w końcu Twój zespół.
 
-Przy okazji nauczyliśmy się, że robienie dobrych notatek w commitach i ticketach
-ułatwia potem zrobienie dokumentacji.
+Przy okazji nauczyliśmy się, że robienie dobrych notatek w commitach i ticketach ułatwia późniejsze zrobienie dokumentacji.
 
-Ostatnim filarem dzielenia się wiedzą jest dla nas praca w parach. Jeśli ma to
-sens, pracuj z inną osobą i staraj się to robić regularnie. Przy tym postaraj
-się popracować chociaż trochę z każdym.
+Ostatnim filarem dzielenia się wiedzą jest dla nas praca w parach. Jeśli ma to sens, pracuj z inną osobą i staraj się to robić regularnie. Przy czym postaraj się popracować chociaż trochę z każdym.
 
 ### Praca asynchroniczna
 
