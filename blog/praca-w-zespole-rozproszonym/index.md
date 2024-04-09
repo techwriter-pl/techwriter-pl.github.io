@@ -105,43 +105,33 @@ Jeśli spotkanie nie spełnia swojej roli, może warto je podzielić na dwa kró
 
 ### Narzędzia
 
-Narzędzia zawsze odgrywają rolę w pracy, a w pracy synchronicznej mogą zrobić naprawdę dużą różnicę. Odkryliśmy kilka dobrych praktyk, które wiążą się ściśle z pracą asynchroniczną.
+Narzędzia zawsze odgrywają rolę w pracy, a w pracy asynchronicznej mogą zrobić naprawdę dużą różnicę. Odkryliśmy kilka dobrych praktyk, które wiążą się ściśle z tym typem pracy.
 
 Po pierwsze, testuj automatycznie co tylko się da. Dzięki temu można pracować szybciej, bez czekania na zatwierdzanie zmian przez innych.
 
-Upewnij się, że każdy ma dobrze skonfigurowane lokalne środowisko do pracy.
-Dzięki temu wasze zmiany będą bardziej przewidywalne. Jeżeli u mnie coś działa, to powinno działać u koleżanki i powinno działać na środowisku
-produkcyjnym.
+Upewnij się, że każdy ma dobrze skonfigurowane lokalne środowisko do pracy. Dzięki temu wasze zmiany będą bardziej przewidywalne. Jeżeli u mnie coś działa, to powinno działać u koleżanki i powinno działać na środowisku produkcyjnym.
 
-Jeżeli używasz formattera, np. Prettier, podziel się konfiguracją z całym
-zespołem i niech formatowanie będzie częścią commita. Wtedy przeglądanie zmian od innych będzie czytelniejsze, bo nie będzie zawierało “przypadkowych” zmian.
+Jeżeli używasz formattera, np. Prettier, podziel się konfiguracją z całym zespołem i niech formatowanie będzie częścią commita. Wtedy przeglądanie zmian od innych będzie czytelniejsze, bo nie będzie zawierało “przypadkowych” elementów.
 
 Korzystaj z komunikatorów, żeby informować na bieżąco innych nad czym pracujesz. Wyobraź sobie, że już kończysz pracę nad fantastyczną nową funkcjonalnością, a tu nagle ktoś wrzuca PR z tym samym. A mógłby pracować nad czymś innym gdyby tylko wiedział.
 
-Wykorzystuj narzędzia do organizacji pracy, takie jak jak Jira, i włącz opcje takie jak automatyczne przypisywanie zadań na podstawie domeny, automatyczne przypisywanie reviewerów, w zależności od nazwy brancha. Niby mała rzecz, ale w dłuższej perspektywie oszczędza czas.
+Wykorzystuj narzędzia do organizacji pracy, takie jak Jira, i włącz opcje takie jak automatyczne przypisywanie zadań na podstawie domeny, automatyczne przypisywanie reviewerów, w zależności od nazwy brancha. Niby mała rzecz, ale w dłuższej perspektywie oszczędza czas.
 
 ## Co dalej?
 
 Myślisz sobie: "My mamy podobny zespół i podobne trudności. Co powinniśmy robić?"
 
-Każdy dobrze działający zespół jest podobny, ale każdy zespół z problemami jest inny. Nie mamy jednej recepty na uzdrowienie każdego z nich, ale
-wierzymy, że opis naszej drogi może posłużyć Wam za drogowskaz.
+Każdy dobrze działający zespół jest podobny, ale każdy zespół z problemami jest inny. Nie mamy jednej recepty na uzdrowienie każdego z nich, ale wierzymy, że opis naszej drogi może posłużyć Wam za drogowskaz.
 
 A więc co robimy?
 
-Po pierwsze, robimy rachunek sumienia i opracowujemy plan działania. Dzielimy listę
-problemów na kawałki, które są strawne. Dzięki temu łatwiej nam będzie zacząć.
+Po pierwsze, robimy rachunek sumienia i opracowujemy plan działania. Dzielimy listę problemów na kawałki, które są strawne. Dzięki temu łatwiej nam będzie zacząć.
 
-Po drugie, poszerzamy wiedzę w zakresie pracy w zespole, nie tylko
-rozproszonym. W tej kwestii mogą Wam się przydać następujące źródła:
+Po drugie, poszerzamy wiedzę w zakresie pracy w zespole, nie tylko rozproszonym. W tej kwestii mogą Wam się przydać następujące źródła:
 
-- Książka "Software Engineering at Google" (autorzy: Titus Winters, Tom
-  Manshreck, Hyrum Wright)
-- Artykuł z garścią rekomendacji:
-  https://jacobian.org/2023/sep/29/rto-wfh/?utm_source=changelog-news
-- Odcinki naszego podcastu “Tech Writer koduje”: “#56 Tech Writer robi
-  inżynierię oprogramowania, czyli dobre praktyki prosto od Google” oraz “#58
-  Tech Writer pracuje w zespole rozproszonym - wyzwania i rozwiązania”
+- Książka "Software Engineering at Google" (autorzy: Titus Winters, Tom Manshreck, Hyrum Wright)
+- Artykuł z garścią rekomendacji: https://jacobian.org/2023/sep/29/rto-wfh/?utm_source=changelog-news
+- Odcinki naszego podcastu “Tech Writer koduje”: “#56 Tech Writer robi inżynierię oprogramowania, czyli dobre praktyki prosto od Google” oraz “#58 Tech Writer pracuje w zespole rozproszonym - wyzwania i rozwiązania”
 
 Po trzecie, zaczynamy działać.
 
