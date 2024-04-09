@@ -43,39 +43,24 @@ rozchodzimy się i nie mamy listy zadań do zrobienia oraz wspólnego zrozumieni
 
 ### Zbyt rzadkie i zdawkowe aktualizacje dotyczące wykonywanych zadań
 
-Niska częstotliwość aktualizacji zadań w systemie, niewystarczająca komunikacja
-z innymi członkami zespołu. W przypadku zespołów rozproszonych
+Niska częstotliwość aktualizacji zadań w systemie, niewystarczająca komunikacja z innymi członkami zespołu. W przypadku zespołów rozproszonych
 “overcommunication” jest kluczowe ze względu na brak możliwości zdobycia
-informacji “przypadkowo”, co ma miejsce w przypadku zespołów pracujących ze sobą
+informacji “przypadkowo”, co ma miejsce w zespołach pracujących ze sobą
 na miejscu.
 
 ## Co robimy, żeby było lepiej
 
 ### Odpowiedzialność za domenę wiedzy
 
-Za domenę wiedzy moglibyśmy uznać wspomniane wcześniej zagadnienia jak
-infrastruktura, DITA, czy frontend. Ale też mogą to być bardziej
-wyspecjalizowane sprawy, jak autentykacja, czy na przykład kontakty z zespołem
-globalizacji. Takie domeny wykształcają się naturalnie w miarę pracy i
-kształtuje je krajobraz pracy otaczający zespół, ale mają na nie wpływ także
-indywidualne preferencje poszczególnych osób oraz ich styl pracy. Jeżeli tylko
-jedna osoba jest odpowiedzialna za daną domenę, to kiedy jej nie ma, praca stoi.
-A jeżeli podczas jej nieobecności wydarzy się coś niespodziewanego to zespół
-jest w tarapatach.
+Za domenę wiedzy moglibyśmy uznać wspomniane wcześniej zagadnienia, takie jak infrastruktura, DITA, czy frontend. Jednak mogą to też być bardziej
+wyspecjalizowane sprawy, jak autentykacja, czy na przykład kontakty z zespołem globalizacji. Takie domeny wykształcają się naturalnie z biegiem czasu pod wpływem krajobrazu zadań otaczających zespół, ale mają na nie wpływ także
+indywidualne preferencje poszczególnych osób oraz ich styl pracy. Jeżeli tylko jedna osoba jest odpowiedzialna za daną domenę, to kiedy jej nie ma, praca stoi. Jeżeli podczas jej nieobecności wydarzy się coś niespodziewanego to zespół jest w tarapatach.
 
 Żeby zapobiegać tego typu problemom, ustaliliśmy kilka zasad związanych z
 prowadzeniem domeny.
 
 Po pierwsze, właściciel danej domeny jest odpowiedzialny za zadania z nią
-związane. Ale odpowiedzialność za domenę nie oznacza, że właściciel będzie sam
-zajmował się tymi zadaniami. Oznacza to, że ma on się zaopiekować danym tematem
-od momentu zgłoszenia do rozwiązania. W zależności od sytuacji, może on
-podzielić zadanie na mniejsze, oddelegować zadanie, sparować się z innym
-członkiem zespołu, itp. Po drugie, jako właściciel, jesteś odpowiedzialny za to,
-żeby mieć backup, który przejmie Twoje zadania podczas Twojej nieobecności.
-Dzięki temu każdy może wziąć urlop i w pełni się odłączyć od pracy nie martwiąc
-się, że w każdej chwili może zadzwonić telefon, albo że musi trzymać rękę na
-pulsie, bo ktoś gdzieś czeka na pomoc
+związane. Jednak odpowiedzialność za domenę nie oznacza, że właściciel będzie sam zajmował się tymi zadaniami. Oznacza to, że ma on się zaopiekować danym tematem od momentu zgłoszenia do rozwiązania. W zależności od sytuacji, może on podzielić zadanie na mniejsze, oddelegować zadanie, sparować się z innym członkiem zespołu, itp. Po drugie, właściciel jest również odpowiedzialny za to, żeby mieć backup, który przejmie jego zadania podczas nieobecności. Dzięki temu każdy może wziąć urlop i w pełni się odłączyć od pracy nie martwiąc się, że w każdej chwili może zadzwonić telefon, albo że musi trzymać rękę na pulsie, bo ktoś gdzieś czeka na pomoc.
 
 ### Dzielenie się wiedzą
 
