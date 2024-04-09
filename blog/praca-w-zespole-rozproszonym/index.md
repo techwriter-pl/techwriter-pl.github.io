@@ -29,34 +29,17 @@ więc nie było większych powodów do zmartwień. Jednak z biegiem czasu zaczę
 ### Wiedza zamknięta w głowach poszczególnych osób
 
 Problem stary jak świat, omawiany miliony razy. Wydawałoby się, że wszyscy
-wiedzą, że istnieje, więc powinni przeciwdziałać jego wystąpieniu. Niestety, tak
-nie jest i my też staliśmy się jego ofiarami. Z biegiem czasu, każdy z nas
-wyspecjalizował się w jakiejś dziedzinie. Jedna osoba jest ekspertem od dity i
-wszelkich tematów z tym związanych. Inna osoba jest specjalistą od
-infrastruktury, automatyzacji i deploymentu w chmurze. Jeszcze inne osoby bardzo
-dobrze radzą sobie z technologiami frontendowymi. Dobrze jest mieć ekspertów w
-danej dziedzinie, ale powoduje to sytuacje, w których zadania z konkretnego
-zakresu zawsze trafiają do tych samych osób. Przez to w zespole mamy single
-points of failure. Jeśli dana osoba pójdzie na urlop albo nie ma czasu, praca
-stoi. Ktoś inny nie jest w stanie przejąć obowiązków i pociągnąć tematu ze
-względu na zbyt małą wiedzę.
+wiedzą, że istnieje, więc powinni przeciwdziałać jego występowaniu. Niestety, tak nie jest i my też staliśmy się jego ofiarami. Z biegiem czasu, każdy z nas wyspecjalizował się w jakiejś dziedzinie. Jedna osoba jest ekspertem od dity i wszelkich tematów z tym związanych. Inna osoba jest specjalistą od infrastruktury, automatyzacji i deploymentu w chmurze. Jeszcze inne osoby bardzo dobrze radzą sobie z technologiami frontendowymi. Dobrze jest mieć ekspertów w danej dziedzinie, ale powoduje to sytuacje, w których zadania z konkretnego zakresu zawsze trafiają do tych samych osób. Przez to w zespole mamy single points of failure. Jeśli dana osoba pójdzie na urlop albo nie ma czasu, praca stoi. Ktoś inny nie jest w stanie przejąć obowiązków i pociągnąć tematu ze względu na zbyt małą wiedzę.
 
 ### Zbyt mała samowystarczalność w zakresie lokalnego środowiska deweloperskiego
 
-Nie wypracowaliśmy jeszcze wytycznych i współdzielonych konfiguracji, które
-umożliwiałyby szybkie i sprawne rozwijanie i testowanie zmian lokalnie. Przez to
-tracimy czas na wspieranie siebie nawzajem, debugowanie problemów i wykrywanie
-różnic w konfiguracji narzędzi.
+Nie wypracowaliśmy jeszcze całkowicie wytycznych i współdzielonych konfiguracji, które umożliwiałyby szybkie i sprawne rozwijanie i testowanie zmian lokalnie. Przez to tracimy czas na wspieranie siebie nawzajem, debugowanie problemów i wykrywanie różnic w konfiguracji narzędzi.
 
 ### Spotkania
 
-Dobrze się rozmawia w miłym towarzystwie, ale nie o to chodzi. Zapewne każdy z
-nas brał udział w spotkaniach podczas których miło się rozmawiało, ale nie
+Dobrze się rozmawia w miłym towarzystwie, ale nie taki jest cel organizowania spotkań. Zapewne każdy z nas brał udział w takich spotkaniach, podczas których miło się rozmawiało, ale nie
 wynikały z nich konkretne rzeczy do zrobienia. Po godzinnym spotkaniu,
-rozchodzimy się i nie mamy listy zadań do zrobienia oraz wspólnego zrozumienia
-tego czym się powinniśmy zajmować w nadchodzącym tygodniu. Kolejny problem to
-tematy omawiane na spotkaniu. Są tematy techniczne i “biznesowe”, które nie
-zawsze są istotne dla każdego.
+rozchodzimy się i nie mamy listy zadań do zrobienia oraz wspólnego zrozumienia tego czym powinniśmy się zajmować w nadchodzącym tygodniu. Kolejny problem to tematy omawiane na spotkaniu. Są tematy techniczne i “biznesowe”, które nie zawsze są istotne dla każdego.
 
 ### Zbyt rzadkie i zdawkowe aktualizacje dotyczące wykonywanych zadań
 
