@@ -37,24 +37,18 @@ Dobrze się rozmawia w miłym towarzystwie, ale nie taki jest cel organizowania 
 
 ### Zbyt rzadkie i zdawkowe aktualizacje dotyczące wykonywanych zadań
 
-Niska częstotliwość aktualizacji zadań w systemie, niewystarczająca komunikacja z innymi członkami zespołu. W przypadku zespołów rozproszonych
-“overcommunication” jest kluczowe ze względu na brak możliwości zdobycia
-informacji “przypadkowo”, co ma miejsce w zespołach pracujących ze sobą
-na miejscu.
+Niska częstotliwość aktualizacji zadań w systemie, niewystarczająca komunikacja z innymi członkami zespołu. W przypadku zespołów rozproszonych “overcommunication” jest kluczowe ze względu na brak możliwości zdobycia informacji “przypadkowo”, co ma miejsce w zespołach pracujących ze sobą na miejscu.
 
 ## Co robimy, żeby było lepiej
 
 ### Odpowiedzialność za domenę wiedzy
 
-Za domenę wiedzy moglibyśmy uznać wspomniane wcześniej zagadnienia, takie jak infrastruktura, DITA, czy frontend. Jednak mogą to też być bardziej
-wyspecjalizowane sprawy, jak autentykacja, czy na przykład kontakty z zespołem globalizacji. Takie domeny wykształcają się naturalnie z biegiem czasu pod wpływem krajobrazu zadań otaczających zespół, ale mają na nie wpływ także
-indywidualne preferencje poszczególnych osób oraz ich styl pracy. Jeżeli tylko jedna osoba jest odpowiedzialna za daną domenę, to kiedy jej nie ma, praca stoi. Jeżeli podczas jej nieobecności wydarzy się coś niespodziewanego to zespół jest w tarapatach.
+Za domenę wiedzy moglibyśmy uznać wspomniane wcześniej zagadnienia, takie jak infrastruktura, DITA, czy frontend. Jednak mogą to też być bardziej wyspecjalizowane sprawy, jak autentykacja, czy na przykład kontakty z zespołem globalizacji. Takie domeny wykształcają się naturalnie z biegiem czasu pod wpływem krajobrazu zadań otaczających zespół, ale mają na nie wpływ także indywidualne preferencje poszczególnych osób oraz ich styl pracy. Jeżeli tylko jedna osoba jest odpowiedzialna za daną domenę, to kiedy jej nie ma, praca stoi. Jeżeli podczas jej nieobecności wydarzy się coś niespodziewanego to zespół jest w tarapatach.
 
-Żeby zapobiegać tego typu problemom, ustaliliśmy kilka zasad związanych z
-prowadzeniem domeny.
+Żeby zapobiegać tego typu problemom, ustaliliśmy pewne zasaday związane z prowadzeniem domeny.
 
 Po pierwsze, właściciel danej domeny jest odpowiedzialny za zadania z nią
-związane. Jednak odpowiedzialność za domenę nie oznacza, że właściciel będzie sam zajmował się tymi zadaniami. Oznacza to, że ma on się zaopiekować danym tematem od momentu zgłoszenia do rozwiązania. W zależności od sytuacji, może on podzielić zadanie na mniejsze, oddelegować zadanie, sparować się z innym członkiem zespołu, itp. Po drugie, właściciel jest również odpowiedzialny za to, żeby mieć backup, który przejmie jego zadania podczas nieobecności. Dzięki temu każdy może wziąć urlop i w pełni się odłączyć od pracy nie martwiąc się, że w każdej chwili może zadzwonić telefon, albo że musi trzymać rękę na pulsie, bo ktoś gdzieś czeka na pomoc.
+związane. Jednak odpowiedzialność ta nie oznacza, że będzie on zajmował się sam wszystkimi zadaniami. Ma on się zaopiekować jedynie danym tematem od momentu zgłoszenia do rozwiązania. W zależności od sytuacji, może on podzielić zadanie na mniejsze, oddelegować zadanie, sparować się z innym członkiem zespołu, itp. Po drugie, właściciel jest również odpowiedzialny za to, żeby mieć backup, który przejmie jego zadania podczas nieobecności. Dzięki temu każdy może wziąć urlop i w pełni się odłączyć od pracy nie martwiąc się, że w każdej chwili może zadzwonić telefon, albo że musi trzymać rękę na pulsie, bo ktoś gdzieś czeka na pomoc.
 
 ### Dzielenie się wiedzą
 
@@ -63,9 +57,7 @@ dzielić się wiedzą. Wprowadziliśmy więc kilka zasad wokół tego tematu.
 
 Jeśli ma to sens, podziel się informacją o rozwiązaniu problemu z innymi. Wykorzystaj do tego spotkanie zespołowe albo podziel się tą wiedzą na piśmie, na przykład na Slacku albo w komentarzu pod rozwiązaną historyjką w Jirze.
 
-To prowadzi nas do kolejnej zasady: zadbaj o dokumentację. Dobra dokumentacja to najlepsze źródło wiedzy, więc staraj się ją aktualizować na bieżąco. Kiedy to robisz, stosuj starą zasadę biwakowania: “Pozostaw to miejsce lepszym niż go
-zastałeś”. Poprawiaj i ulepszaj jak się tylko da. Prowadząc dokumentację,
-pamiętaj, żeby opisywać tematy przydatne dla innych. Znasz swoją publikę dośc dobrze, jest to w końcu Twój zespół.
+To prowadzi nas do kolejnej zasady: zadbaj o dokumentację. Dobra dokumentacja to najlepsze źródło wiedzy, więc staraj się ją aktualizować na bieżąco. Kiedy to robisz, stosuj starą zasadę biwakowania: “Pozostaw to miejsce lepszym niż je zastałeś”. Poprawiaj i ulepszaj jak się tylko da. Prowadząc dokumentację, pamiętaj, żeby opisywać tematy przydatne dla innych. Znasz swoją publikę dość dobrze, jest to w końcu Twój zespół.
 
 Przy okazji nauczyliśmy się, że robienie dobrych notatek w commitach i ticketach ułatwia późniejsze zrobienie dokumentacji.
 
@@ -73,29 +65,24 @@ Ostatnim filarem dzielenia się wiedzą jest dla nas praca w parach. Jeśli ma t
 
 ### Praca asynchroniczna
 
-Ja pracuję teraz, ale kolega poszedł pobiegać i będzie pracował po południu. Jeszcze inny kolega śpi, bo jest u niego teraz noc, a koleżanka ma teraz akurat wizytę u lekarza. Nasza praca asynchroniczna
-doprowadziła do sformułowania całego szeregu zasad i prawideł.
+Ja pracuję teraz, ale kolega poszedł pobiegać i będzie pracował po południu. Ktoś inny śpi, bo jest u niego noc, a koleżanka ma teraz akurat wizytę u lekarza. Nasza praca asynchroniczna doprowadziła do sformułowania całego szeregu zasad i prawideł.
 
-Jeśli potrzebujesz odpowiedzi natychmiast, jasno o tym powiedz. Nie możesz
-oczekiwać od innych, że zajmą się Twoim pytaniem od razu.
+Jeśli potrzebujesz odpowiedzi natychmiast, jasno o tym powiedz. Nie możesz oczekiwać od innych, że zajmą się Twoim pytaniem od razu.
 
 Potrzebujesz, żeby inni sprawdzili Twoją pracę, ale nie chcesz też marnować ich czasu na znajdowanie oczywistych niedoróbek. Dlatego testuj lokalnie przed wystawieniem PRa.
 
 Z drugiej strony, dziel się swoją pracą od razu, nie czekaj aż wszystko będzie idealne. Może Ci się wydawać, że opracowujesz magnum opus i potrzebujesz czasu.
-Możesz się też wstydzić i obawiać krytyki ze strony innych. Jednak pamiętaj, że jesteście jednym zespołem i powinniście nauczyć się komunikować na tematy
-związane z pracą bez niepotrzebnych napięć. Nawet jeżeli nie prosisz od razu o review, opublikuj przynajmniej brancha, żeby inni mogli się do niego odwołać w razie potrzeby.
+Możesz się też wstydzić i obawiać krytyki ze strony innych. Jednak pamiętaj, że jesteście jednym zespołem i powinniście nauczyć się komunikować na tematy związane z pracą bez niepotrzebnych napięć. Nawet jeżeli nie prosisz od razu o review, opublikuj przynajmniej brancha, żeby inni mogli się do niego odwołać w razie potrzeby.
 
 Żeby usprawnić komunikację wokół wspólnej pracy, korzystaj z możliwości jakie dają Ci narzędzia typu Bitbucket czy GitHub - pull requesty, komentarze, sugestie, itp. Ich dodatkową zaletą, oprócz komunikacji, jest to, że pozostawiają historię. Jeśli za kilka miesięcy będziesz mieć podobny problem, możesz się do niej odwołać, żeby przypomnieć sobie jak go rozwiązaliście.
 
-Rób review zmian innych. Jest to istotny element dzielenia się wiedzą. Nawet
-jeśli zmiana została już zaakceptowana, przejrzyj ją, żeby dowiedzieć się co się wydarzyło.
+Rób review zmian innych. Jest to istotny element dzielenia się wiedzą. Nawet jeśli zmiana została już zaakceptowana, przejrzyj ją, żeby dowiedzieć się co się wydarzyło.
 
 Używaj systemu do zadań, żeby po Twojej pracy pozostał ślad. Dzięki temu inni będą wiedzieć czym się zajmujesz, a w przyszłości będzie można łatwo przypomnieć sobie dlaczego dana zmiana została zrobiona.
 
 ### Spotkania
 
-Mogłoby się wydawać, że w pracy asynchronicznej spotkania to samo dobro. Ale
-jedna z pierwszych zasad którą chcemy się tu podzielić to: jeśli spotkanie nie jest potrzebne, odwołaj je. Niepotrzebne spotkanie to strata czasu, który mógłbyś spędzić dużo lepiej.
+Mogłoby się wydawać, że w pracy asynchronicznej spotkania to samo dobro. Ale jedna z pierwszych zasad którą chcemy się tu podzielić to: jeśli spotkanie nie jest potrzebne, odwołaj je. Niepotrzebne spotkanie to strata czasu, który mógłbyś spędzić dużo lepiej.
 
 Oczywiście spotkania są potrzebne, więc organizuj je i przychodź na te zorganizowane przez innych. Ale kiedy już na nich jesteś, skup się na rzeczach, które trzeba omówić. Pogawędka jest dobra na rozgrzewkę, ale potem trzeba trzymać dygresje w ryzach.
 
