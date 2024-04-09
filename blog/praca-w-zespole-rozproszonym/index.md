@@ -11,25 +11,21 @@ coverImage: 'together-is-the-way.png'
 
 # Praca w zespole rozproszonym - wyzwania i rozwiązania
 
-Elastyczność w kwestii lokalizacji i godzin pracy to niewątpliwie duży przywilej, który pozwala nam łatwiej zarządzać pracą i życiem prywatnym. Jednak praca w zespole rozproszonym wiąże się również z szeregiem wyzwań. Dlatego postanowiliśmy się podzielić z Wami naszym studium przypadku. Mamy nadzieję, że nasze obserwacje i pomysły okażą się dla Was przydatne i że zainspirują Was do działania.
+Elastyczność w kwestii lokalizacji i godzin pracy to niewątpliwie duży przywilej, który pozwala nam łatwiej zarządzać pracą i życiem prywatnym. Jednak praca w zespole rozproszonym wiąże się również z szeregiem wyzwań. Dlatego postanowiliśmy podzielić się z Wami naszym studium przypadku. Mamy nadzieję, że nasze obserwacje i pomysły okażą się dla Was przydatne i że zainspirują Was do działania.
 
 <!--truncate-->
 
 ## Kim jesteśmy
 
-Jesteśmy 4-osobowym zespołem, który w większości pracuje asynchronicznie. Myśląc o pracy asynchronicznej, często skupiamy się na tym, że ktoś jest w innym miejscu na świecie i w innej strefie czasowej. Jednak nawet przebywanie w tej samej strefie czasowej nie gwarantuje pracy synchronicznej, ponieważ mamy różny tryb pracy, różne obowiązki prywatne oraz różne pory, w których możemy i chcemy pracować. Dodatkowo, dochodzi aspekt pracy zdalnej. W naszym przypadku 3 z 4 osób pracuje z domu. Dlatego “przypadkowe” interakcje między członkami naszego zespołu właściwie nie występują. Czasami zdarza się, że spotykamy się w biurze, ale jest to sytuacja sporadyczna i zazwyczaj jest podyktowana koniecznością
-wspólnej pracy nad jakimś zagadnieniem.
+Jesteśmy 4-osobowym zespołem, który w większości pracuje asynchronicznie. Myśląc o pracy asynchronicznej, często skupiamy się na tym, że ktoś jest w innym miejscu na świecie i w innej strefie czasowej. Jednak nawet przebywanie w tej samej strefie czasowej nie gwarantuje pracy synchronicznej, ponieważ mamy różny tryb pracy, różne obowiązki prywatne oraz różne pory, w których możemy i chcemy pracować. Dodatkowo, dochodzi aspekt pracy zdalnej. W naszym przypadku 3 z 4 osób pracuje z domu. Dlatego “przypadkowe” interakcje między członkami naszego zespołu właściwie nie występują. Czasami zdarza się, że spotykamy się w biurze, ale jest to sytuacja sporadyczna i zazwyczaj jest podyktowana koniecznością wspólnej pracy nad jakimś zagadnieniem.
 
 ## Z czym się borykamy
 
-Na początku wszystko wydawało się super, trochę taki miesiąc miodowy. Każdy
-pracował według własnych preferencji i dostępności. Praca szła do przodu,
-więc nie było większych powodów do zmartwień. Jednak z biegiem czasu zaczęliśmy zauważać pewne mniejsze i większe problemy, które negatywnie wpływały na naszą wydajność i osiąganie celów jako zespół.
+Na początku wszystko wydawało się super, trochę taki miesiąc miodowy. Każdy pracował według własnych preferencji i dostępności. Praca szła do przodu, więc nie było większych powodów do zmartwień. Jednak z biegiem czasu zaczęliśmy zauważać pewne mniejsze i większe problemy, które negatywnie wpływały na naszą wydajność i osiąganie celów jako zespół.
 
 ### Wiedza zamknięta w głowach poszczególnych osób
 
-Problem stary jak świat, omawiany miliony razy. Wydawałoby się, że wszyscy
-wiedzą, że istnieje, więc powinni przeciwdziałać jego występowaniu. Niestety, tak nie jest i my też staliśmy się jego ofiarami. Z biegiem czasu, każdy z nas wyspecjalizował się w jakiejś dziedzinie. Jedna osoba jest ekspertem od dity i wszelkich tematów z tym związanych. Inna osoba jest specjalistą od infrastruktury, automatyzacji i deploymentu w chmurze. Jeszcze inne osoby bardzo dobrze radzą sobie z technologiami frontendowymi. Dobrze jest mieć ekspertów w danej dziedzinie, ale powoduje to sytuacje, w których zadania z konkretnego zakresu zawsze trafiają do tych samych osób. Przez to w zespole mamy single points of failure. Jeśli dana osoba pójdzie na urlop albo nie ma czasu, praca stoi. Ktoś inny nie jest w stanie przejąć obowiązków i pociągnąć tematu ze względu na zbyt małą wiedzę.
+Problem stary jak świat, omawiany miliony razy. Wydawałoby się, że wszyscy wiedzą, że istnieje, więc powinni przeciwdziałać jego występowaniu. Niestety, tak nie jest i my też staliśmy się jego ofiarami. Z biegiem czasu, każdy z nas wyspecjalizował się w jakiejś dziedzinie. Jedna osoba jest ekspertem od dity i wszelkich tematów z tym związanych. Inna jest specjalistą od infrastruktury, automatyzacji i deploymentu w chmurze. Jeszcze inne bardzo dobrze radzą sobie z technologiami frontendowymi. Dobrze jest mieć ekspertów w danej dziedzinie, ale powoduje to sytuacje, w których zadania z konkretnego zakresu zawsze trafiają do tych samych osób. Przez to w zespole mamy single points of failure. Jeśli dana osoba pójdzie na urlop albo nie ma czasu, praca stoi. Ktoś inny nie jest w stanie przejąć obowiązków i pociągnąć tematu ze względu na zbyt małą wiedzę.
 
 ### Zbyt mała samowystarczalność w zakresie lokalnego środowiska deweloperskiego
 
@@ -37,9 +33,7 @@ Nie wypracowaliśmy jeszcze całkowicie wytycznych i współdzielonych konfigura
 
 ### Spotkania
 
-Dobrze się rozmawia w miłym towarzystwie, ale nie taki jest cel organizowania spotkań. Zapewne każdy z nas brał udział w takich spotkaniach, podczas których miło się rozmawiało, ale nie
-wynikały z nich konkretne rzeczy do zrobienia. Po godzinnym spotkaniu,
-rozchodzimy się i nie mamy listy zadań do zrobienia oraz wspólnego zrozumienia tego czym powinniśmy się zajmować w nadchodzącym tygodniu. Kolejny problem to tematy omawiane na spotkaniu. Są tematy techniczne i “biznesowe”, które nie zawsze są istotne dla każdego.
+Dobrze się rozmawia w miłym towarzystwie, ale nie taki jest cel organizowania spotkań. Zapewne każdy z nas brał udział w takich spotkaniach, podczas których miło się rozmawiało, ale nie wynikały z nich konkretne rzeczy do zrobienia. Po godzinnym spotkaniu, rozchodzimy się i nie mamy listy zadań do zrobienia oraz wspólnego zrozumienia tego czym powinniśmy się zajmować w nadchodzącym tygodniu. Kolejny problem to tematy omawiane na spotkaniu. Są zagadnienia techniczne i “biznesowe”, które nie zawsze są istotne dla każdego.
 
 ### Zbyt rzadkie i zdawkowe aktualizacje dotyczące wykonywanych zadań
 
@@ -122,7 +116,7 @@ produkcyjnym.
 Jeżeli używasz formattera, np. Prettier, podziel się konfiguracją z całym
 zespołem i niech formatowanie będzie częścią commita. Wtedy przeglądanie zmian od innych będzie czytelniejsze, bo nie będzie zawierało “przypadkowych” zmian.
 
-Korzystaj z komunikatorów, żeby informować na bieżąco innych nad czym pracujesz. Wyobraź sobie, że już już kończysz pracę nad fantastyczną nową funkcjonalnością, a tu nagle ktoś wrzuca PR z tym samym. A mógłby pracować nad czymś innym gdyby tylko wiedział.
+Korzystaj z komunikatorów, żeby informować na bieżąco innych nad czym pracujesz. Wyobraź sobie, że już kończysz pracę nad fantastyczną nową funkcjonalnością, a tu nagle ktoś wrzuca PR z tym samym. A mógłby pracować nad czymś innym gdyby tylko wiedział.
 
 Wykorzystuj narzędzia do organizacji pracy, takie jak jak Jira, i włącz opcje takie jak automatyczne przypisywanie zadań na podstawie domeny, automatyczne przypisywanie reviewerów, w zależności od nazwy brancha. Niby mała rzecz, ale w dłuższej perspektywie oszczędza czas.
 
