@@ -1,12 +1,12 @@
 ---
 title:
   'Praca w zespole rozproszonym'
-authors: ['mojk', 'pensjonatus`]
+authors: ['mojk', 'pensjonatus']
 date: '2024-01-31'
 tags:
   - 'dobre-praktyki'
   - 'praca'
-coverImage: 'placeholder.jpg'
+coverImage: 'together-is-the-way.png'
 ---
 
 # Praca w zespole rozproszonym - wyzwania i rozwiązania
@@ -151,4 +151,4 @@ rozproszonym. W tej kwestii mogą Wam się przydać następujące źródła:
 
 Po trzecie, zaczynamy działać.
 
-Proste, prawda? ;) 
+Proste, prawda? 😉
