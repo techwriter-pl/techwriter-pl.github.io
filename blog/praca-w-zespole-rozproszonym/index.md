@@ -6,7 +6,7 @@ date: '2024-01-31'
 tags:
   - 'dobre-praktyki'
   - 'praca'
-coverImage: ''
+coverImage: 'placeholder.jpg'
 ---
 
 # Praca w zespole rozproszonym - wyzwania i rozwiązania
