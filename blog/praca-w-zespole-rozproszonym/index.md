@@ -79,61 +79,35 @@ Ostatnim filarem dzielenia się wiedzą jest dla nas praca w parach. Jeśli ma t
 
 ### Praca asynchroniczna
 
-Ja pracuję teraz, ale kolega poszedł pobiegać i będzie pracował po południu, a
-jeszcze jeden kolega śpi, bo jest u niego teraz noc. Nasza praca asynchroniczna
+Ja pracuję teraz, ale kolega poszedł pobiegać i będzie pracował po południu. Jeszcze inny kolega śpi, bo jest u niego teraz noc, a koleżanka ma teraz akurat wizytę u lekarza. Nasza praca asynchroniczna
 doprowadziła do sformułowania całego szeregu zasad i prawideł.
 
 Jeśli potrzebujesz odpowiedzi natychmiast, jasno o tym powiedz. Nie możesz
 oczekiwać od innych, że zajmą się Twoim pytaniem od razu.
 
-Potrzebujesz, żeby inni sprawdzili Twoją pracę, ale nie chcesz też marnować ich
-czasu na znajdowanie oczywistych niedoróbek. Dlatego testuj lokalnie przed
-wystawieniem PRa.
+Potrzebujesz, żeby inni sprawdzili Twoją pracę, ale nie chcesz też marnować ich czasu na znajdowanie oczywistych niedoróbek. Dlatego testuj lokalnie przed wystawieniem PRa.
 
-Z drugiej strony: dziel się swoją pracą od razu, nie czekaj aż wszystko będzie
-idealne. Może Ci się wydawać, że opracowujesz magnum opus i potrzebujesz czasu.
-Możesz się też wstydzić i obawiać krytyki ze strony innych. Ale pamiętaj, że
-jesteście jednym zespołem i powinniście nauczyć się komunikować na tematy
-związane z pracą bez niepotrzebnych napięć. Nawet jeżeli nie prosisz od razu o
-review, wystaw przynajmniej brancha, żeby inni mogli się do niego odwołać w
-razie potrzeby.
+Z drugiej strony, dziel się swoją pracą od razu, nie czekaj aż wszystko będzie idealne. Może Ci się wydawać, że opracowujesz magnum opus i potrzebujesz czasu.
+Możesz się też wstydzić i obawiać krytyki ze strony innych. Jednak pamiętaj, że jesteście jednym zespołem i powinniście nauczyć się komunikować na tematy
+związane z pracą bez niepotrzebnych napięć. Nawet jeżeli nie prosisz od razu o review, opublikuj przynajmniej brancha, żeby inni mogli się do niego odwołać w razie potrzeby.
 
-Żeby usprawnić komunikację wokół wspólnej pracy, korzystaj z możliwości jakie
-dają Ci narzędzia typu Bitbucket czy GitHub - pull requesty, komentarze,
-sugestie, itp. Ich dodatkową zaletą, oprócz komunikacji, jest to, że
-pozostawiają historię. Jeśli za kilka miesięcy będziesz mieć podobny problem,
-możesz odwołać się do historii, żeby przypomnieć sobie jak go rozwiązaliście.
+Żeby usprawnić komunikację wokół wspólnej pracy, korzystaj z możliwości jakie dają Ci narzędzia typu Bitbucket czy GitHub - pull requesty, komentarze, sugestie, itp. Ich dodatkową zaletą, oprócz komunikacji, jest to, że pozostawiają historię. Jeśli za kilka miesięcy będziesz mieć podobny problem, możesz się do niej odwołać, żeby przypomnieć sobie jak go rozwiązaliście.
 
 Rób review zmian innych. Jest to istotny element dzielenia się wiedzą. Nawet
-jeśli zmiana została już zaakceptowana, przejrzyj ją, żeby dowiedzieć się co się
-wydarzyło.
+jeśli zmiana została już zaakceptowana, przejrzyj ją, żeby dowiedzieć się co się wydarzyło.
 
-Używaj systemu do zadań, żeby po Twojej pracy pozostał ślad. Dzięki temu innymi
-będą wiedzieć czym się zajmujesz, a w przyszłości będzie można łatwo przypomnieć
-sobie dlaczego dana zmiana została zrobiona.
+Używaj systemu do zadań, żeby po Twojej pracy pozostał ślad. Dzięki temu inni będą wiedzieć czym się zajmujesz, a w przyszłości będzie można łatwo przypomnieć sobie dlaczego dana zmiana została zrobiona.
 
 ### Spotkania
 
 Mogłoby się wydawać, że w pracy asynchronicznej spotkania to samo dobro. Ale
-jedna z pierwszych zasad którą chcemy się tu podzielić to: jeśli spotkanie nie
-jest potrzebne, odwołaj je. Niepotrzebne spotkanie to strata czasu, który
-mógłbyś spędzić dużo lepiej.
+jedna z pierwszych zasad którą chcemy się tu podzielić to: jeśli spotkanie nie jest potrzebne, odwołaj je. Niepotrzebne spotkanie to strata czasu, który mógłbyś spędzić dużo lepiej.
 
-Oczywiście spotkania są potrzebne, więc organizuj je i przychodź na spotkania
-zorganizowane przez innych. Ale kiedy już na nich jesteś, skup się na rzeczach,
-które trzeba omówić. Small talk jest dobry na rozgrzewkę, ale potem trzeba
-trzymać dygresje w ryzach.
+Oczywiście spotkania są potrzebne, więc organizuj je i przychodź na te zorganizowane przez innych. Ale kiedy już na nich jesteś, skup się na rzeczach, które trzeba omówić. Pogawędka jest dobra na rozgrzewkę, ale potem trzeba trzymać dygresje w ryzach.
 
-Żeby każde spotkanie było produktywne, zakończ je listą zadań i priorytetów na
-najbliższy czas. Każdy z uczestników musi wiedzieć czym ma się zajmować.
+Żeby każde spotkanie było produktywne, zakończ je listą zadań i priorytetów na najbliższy czas. Każdy z uczestników musi wiedzieć czym ma się zajmować.
 
-Jeśli spotkanie nie spełnia swojej roli, może warto je podzielić na dwa krótsze.
-Na przykład, jedno poświęcone technicznym zagadnieniom, a jedno poświęcone celom
-biznesowym. Wyobraź sobie, że planujecie skomplikowany projekt, ale nie możecie
-wyklarować pełnej wizji od początku do końca, bo na każdym kroku zaczynacie
-wnikać w szczegóły techniczne. Na pierwszym spotkaniu skup się tylko na wizji i
-ucinaj dyskusje o szczegółach. Kiedy już wszystkie etapy są zarysowane, poświęć
-następne spotkania na omówienie szczegółów każdego z nich.
+Jeśli spotkanie nie spełnia swojej roli, może warto je podzielić na dwa krótsze. Na przykład, jedno poświęcone technicznym zagadnieniom, a jedno poświęcone celom biznesowym. Wyobraź sobie, że planujecie skomplikowany projekt, ale nie możecie wyklarować pełnej wizji od początku do końca, bo na każdym kroku zaczynacie wnikać w szczegóły techniczne. Na pierwszym spotkaniu skup się tylko na wizji i ucinaj dyskusje o szczegółach. Kiedy już wszystkie etapy są zarysowane, poświęć następne spotkania na omówienie szczegółów każdego z nich.
 
 ### Narzędzia
 
