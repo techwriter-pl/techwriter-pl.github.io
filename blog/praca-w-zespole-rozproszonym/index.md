@@ -11,34 +11,20 @@ coverImage: ''
 
 # Praca w zespole rozproszonym - wyzwania i rozwiązania
 
-Elastyczność w kwestii lokalizacji i godzin pracy to piękna sprawa. Jednak praca
-w zespole rozproszonym wiąże się również z szeregiem wyzwań. Dlatego
-postanowiliśmy się podzielić z Wami naszym studium przypadku. Mamy nadzieję, że
-nasze obserwacje i pomysły okażą się dla Was przydatne i że zainspirują Was do
-działania.
+Elastyczność w kwestii lokalizacji i godzin pracy to niewątpliwie duży przywilej, który pozwala nam łatwiej zarządzać pracą i życiem prywatnym. Jednak praca w zespole rozproszonym wiąże się również z szeregiem wyzwań. Dlatego postanowiliśmy się podzielić z Wami naszym studium przypadku. Mamy nadzieję, że nasze obserwacje i pomysły okażą się dla Was przydatne i że zainspirują Was do działania.
 
 <!--truncate-->
 
 ## Kim jesteśmy
 
-Jesteśmy 4-osobowym zespołem, który w większości pracuje asynchronicznie. Myśląc
-o pracy asynchronicznej, często skupiamy się na problemie, że ktoś jest w innym
-miejscu na świecie i w innej strefie czasowej. Jednak nawet przebywanie w tej
-samej strefie czasowej nie gwarantuje pracy synchronicznej ponieważ mamy różny
-tryb pracy, różne obowiązki prywatne, różne pory, w których możemy i chcemy
-pracować. Dodatkowo, dochodzi aspekt pracy zdalnej. W naszym przypadku 3 z 4
-osób pracuje z domu. Dlatego “przypadkowe” interakcje między członkami naszego
-zespołu właściwie nie występują. Czasami zdarza się, że spotykamy się w biurze,
-ale jest to sytuacja sporadyczna i zazwyczaj jest podyktowana koniecznością
+Jesteśmy 4-osobowym zespołem, który w większości pracuje asynchronicznie. Myśląc o pracy asynchronicznej, często skupiamy się na tym, że ktoś jest w innym miejscu na świecie i w innej strefie czasowej. Jednak nawet przebywanie w tej samej strefie czasowej nie gwarantuje pracy synchronicznej, ponieważ mamy różny tryb pracy, różne obowiązki prywatne oraz różne pory, w których możemy i chcemy pracować. Dodatkowo, dochodzi aspekt pracy zdalnej. W naszym przypadku 3 z 4 osób pracuje z domu. Dlatego “przypadkowe” interakcje między członkami naszego zespołu właściwie nie występują. Czasami zdarza się, że spotykamy się w biurze, ale jest to sytuacja sporadyczna i zazwyczaj jest podyktowana koniecznością
 wspólnej pracy nad jakimś zagadnieniem.
 
 ## Z czym się borykamy
 
-Na początku wszystko wydawało się super. Trochę taki miesiąc miodowy. Każdy
-pracował sobie według własnych preferencji i dostępności. Robota szła do przodu,
-więc nie było większych powodów do zmartwień. Jednak z biegiem czasu zaczęliśmy
-zauważać pewne mniejsze i większe problemy, które negatywnie wpływały na naszą
-wydajność i osiąganie celów jako zespół.
+Na początku wszystko wydawało się super, trochę taki miesiąc miodowy. Każdy
+pracował według własnych preferencji i dostępności. Praca szła do przodu,
+więc nie było większych powodów do zmartwień. Jednak z biegiem czasu zaczęliśmy zauważać pewne mniejsze i większe problemy, które negatywnie wpływały na naszą wydajność i osiąganie celów jako zespół.
 
 ### Wiedza zamknięta w głowach poszczególnych osób
 
