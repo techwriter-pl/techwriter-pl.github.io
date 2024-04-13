@@ -266,6 +266,16 @@ ma wyglądać książka a jednocześnie ten dość niestandardowy sposób przeka
 robotę’ i treść dociera do czytelnika efektywniej niż gdyby miała być
 przedstawiona w sposób konwencjonalny.
 
+## Narzędzia
+
+Można w klasycznym edytorze tekstu, można użyć automatycznych szablonów proponowanych przez LinkedIn - tu jednak warto zwrócić uwagę na formaty, które mogę zwyczajnie się 'rozjechać'. Dostępnych jest też sporo różnych kreatorów CV, które pomogą nadać naszemu dokumentowi nieco bardziej współczesny wygląd i odzwierciedlić nasz indywidualny styl. 
+
+Jednym z nich jest darmowy program graficzny Canva. Ten funkcjonalny kreator CV jest prosty w obsłudze, a jednocześnie oferuje ogromne możliwości. Użytkownik może utworzyć CV "od zera" lub wybierać z bogatego katalogu szablonów i w prosty sposób dostosowywać je do swoich oczekiwań. 
+
+Dokładną instrukcję tworzenia CV w programie Canva oraz szereg porad ułatwiających szybką edycję takich dokumentów znajdziecie na stronie [Canva](https://www.canva.com/pl_pl/tworzyc/cv/).
+
+
+
 ## Parting words
 
 Podchodząc do swojego CV jak do dokumentacji (produktu) można by jeszcze pewnie
