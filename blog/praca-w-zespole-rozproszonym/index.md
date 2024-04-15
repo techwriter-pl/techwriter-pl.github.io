@@ -2,7 +2,7 @@
 title:
   'Praca w zespole rozproszonym'
 authors: ['mojk', 'pensjonatus']
-date: '2024-01-31'
+date: '2024-04-15'
 tags:
   - 'dobre-praktyki'
   - 'praca'
