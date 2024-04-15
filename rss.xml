@@ -4,10 +4,79 @@
         <title>techwriter.pl Blog</title>
         <link>https://techwriter.pl/</link>
         <description>techwriter.pl Blog</description>
-        <lastBuildDate>Thu, 04 Apr 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Apr 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>pl</language>
+        <item>
+            <title><![CDATA[Praca w zespole rozproszonym]]></title>
+            <link>https://techwriter.pl/praca-w-zespole-rozproszonym</link>
+            <guid>https://techwriter.pl/praca-w-zespole-rozproszonym</guid>
+            <pubDate>Mon, 15 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Elastyczność w kwestii lokalizacji i godzin pracy to niewątpliwie duży przywilej, który pozwala nam łatwiej zarządzać pracą i życiem prywatnym. Jednak praca w zespole rozproszonym wiąże się również z szeregiem wyzwań. Dlatego postanowiliśmy podzielić się z Wami naszym studium przypadku. Mamy nadzieję, że nasze obserwacje i pomysły okażą się dla Was przydatne i że zainspirują Was do działania.]]></description>
+            <content:encoded><![CDATA[<p>Elastyczność w kwestii lokalizacji i godzin pracy to niewątpliwie duży przywilej, który pozwala nam łatwiej zarządzać pracą i życiem prywatnym. Jednak praca w zespole rozproszonym wiąże się również z szeregiem wyzwań. Dlatego postanowiliśmy podzielić się z Wami naszym studium przypadku. Mamy nadzieję, że nasze obserwacje i pomysły okażą się dla Was przydatne i że zainspirują Was do działania.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="kim-jesteśmy">Kim jesteśmy<a href="https://techwriter.pl/praca-w-zespole-rozproszonym#kim-jeste%C5%9Bmy" class="hash-link" aria-label="Bezpośredni link do Kim jesteśmy" title="Bezpośredni link do Kim jesteśmy">​</a></h2>
+<p>Jesteśmy 4-osobowym zespołem, który w większości pracuje asynchronicznie. Myśląc o pracy asynchronicznej, często skupiamy się na tym, że ktoś jest w innym miejscu na świecie i w innej strefie czasowej. Jednak nawet przebywanie w tej samej strefie czasowej nie gwarantuje pracy synchronicznej, ponieważ mamy różny tryb pracy, różne obowiązki prywatne oraz różne pory, w których możemy i chcemy pracować. Dodatkowo, dochodzi aspekt pracy zdalnej. W naszym przypadku 3 z 4 osób pracuje z domu. Dlatego przypadkowe interakcje między członkami naszego zespołu właściwie nie występują. Czasami zdarza się, że spotykamy się w biurze, ale jest to sytuacja sporadyczna i zazwyczaj jest podyktowana koniecznością wspólnej pracy nad jakimś zagadnieniem.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="z-czym-się-borykamy">Z czym się borykamy<a href="https://techwriter.pl/praca-w-zespole-rozproszonym#z-czym-si%C4%99-borykamy" class="hash-link" aria-label="Bezpośredni link do Z czym się borykamy" title="Bezpośredni link do Z czym się borykamy">​</a></h2>
+<p>Na początku wszystko wydawało się super, trochę taki miesiąc miodowy. Każdy pracował według własnych preferencji i dostępności. Praca szła do przodu, więc nie było większych powodów do zmartwień. Jednak z biegiem czasu zaczęliśmy zauważać pewne mniejsze i większe problemy, które negatywnie wpływały na naszą wydajność i osiąganie celów jako zespół.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="wiedza-zamknięta-w-głowach-poszczególnych-osób">Wiedza zamknięta w głowach poszczególnych osób<a href="https://techwriter.pl/praca-w-zespole-rozproszonym#wiedza-zamkni%C4%99ta-w-g%C5%82owach-poszczeg%C3%B3lnych-os%C3%B3b" class="hash-link" aria-label="Bezpośredni link do Wiedza zamknięta w głowach poszczególnych osób" title="Bezpośredni link do Wiedza zamknięta w głowach poszczególnych osób">​</a></h3>
+<p>Problem stary jak świat, omawiany miliony razy. Wydawałoby się, że wszyscy wiedzą, że istnieje, więc powinni przeciwdziałać jego występowaniu. Niestety, tak nie jest i my też staliśmy się jego ofiarami. Z biegiem czasu, każdy z nas wyspecjalizował się w jakiejś dziedzinie. Jedna osoba jest ekspertem od DITY i wszelkich tematów z tym związanych. Inna jest specjalistą od infrastruktury, automatyzacji i deploymentu w chmurze. Jeszcze inne bardzo dobrze radzą sobie z technologiami frontendowymi. Dobrze jest mieć ekspertów w danej dziedzinie, ale powoduje to sytuacje, w których zadania z konkretnego zakresu zawsze trafiają do tych samych osób. Przez to w zespole mamy <em>single points of failure</em>. Jeśli dana osoba pójdzie na urlop albo nie ma czasu, praca stoi. Ktoś inny nie jest w stanie przejąć obowiązków i pociągnąć tematu ze względu na zbyt małą wiedzę.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="zbyt-mała-samowystarczalność-w-zakresie-lokalnego-środowiska-deweloperskiego">Zbyt mała samowystarczalność w zakresie lokalnego środowiska deweloperskiego<a href="https://techwriter.pl/praca-w-zespole-rozproszonym#zbyt-ma%C5%82a-samowystarczalno%C5%9B%C4%87-w-zakresie-lokalnego-%C5%9Brodowiska-deweloperskiego" class="hash-link" aria-label="Bezpośredni link do Zbyt mała samowystarczalność w zakresie lokalnego środowiska deweloperskiego" title="Bezpośredni link do Zbyt mała samowystarczalność w zakresie lokalnego środowiska deweloperskiego">​</a></h3>
+<p>Nie wypracowaliśmy jeszcze całkowicie wytycznych i współdzielonych konfiguracji, które umożliwiałyby szybkie i sprawne rozwijanie i testowanie zmian lokalnie. Przez to tracimy czas na wspieranie siebie nawzajem, debugowanie problemów i wykrywanie różnic w konfiguracji narzędzi.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="spotkania">Spotkania<a href="https://techwriter.pl/praca-w-zespole-rozproszonym#spotkania" class="hash-link" aria-label="Bezpośredni link do Spotkania" title="Bezpośredni link do Spotkania">​</a></h3>
+<p>Dobrze się rozmawia w miłym towarzystwie, ale nie taki jest cel organizowania spotkań. Zapewne każdy z nas brał udział w takich spotkaniach, podczas których miło się rozmawiało, ale nie wynikały z nich konkretne rzeczy do zrobienia. Po godzinnym spotkaniu, rozchodzimy się i nie mamy listy zadań do zrobienia oraz wspólnego zrozumienia tego, czym powinniśmy się zajmować w nadchodzącym tygodniu. Kolejny problem to tematy omawiane na spotkaniu. Są zagadnienia techniczne i biznesowe, które nie zawsze są istotne dla każdego.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="zbyt-rzadkie-i-zdawkowe-aktualizacje-dotyczące-wykonywanych-zadań">Zbyt rzadkie i zdawkowe aktualizacje dotyczące wykonywanych zadań<a href="https://techwriter.pl/praca-w-zespole-rozproszonym#zbyt-rzadkie-i-zdawkowe-aktualizacje-dotycz%C4%85ce-wykonywanych-zada%C5%84" class="hash-link" aria-label="Bezpośredni link do Zbyt rzadkie i zdawkowe aktualizacje dotyczące wykonywanych zadań" title="Bezpośredni link do Zbyt rzadkie i zdawkowe aktualizacje dotyczące wykonywanych zadań">​</a></h3>
+<p>Niska częstotliwość aktualizacji zadań w systemie, niewystarczająca komunikacja z innymi członkami zespołu. W przypadku zespołów rozproszonych <em>overcommunication</em> jest kluczowe ze względu na brak możliwości zdobycia informacji przypadkowo, co ma miejsce w zespołach pracujących ze sobą na miejscu.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="co-robimy-żeby-było-lepiej">Co robimy, żeby było lepiej<a href="https://techwriter.pl/praca-w-zespole-rozproszonym#co-robimy-%C5%BCeby-by%C5%82o-lepiej" class="hash-link" aria-label="Bezpośredni link do Co robimy, żeby było lepiej" title="Bezpośredni link do Co robimy, żeby było lepiej">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="odpowiedzialność-za-domenę-wiedzy">Odpowiedzialność za domenę wiedzy<a href="https://techwriter.pl/praca-w-zespole-rozproszonym#odpowiedzialno%C5%9B%C4%87-za-domen%C4%99-wiedzy" class="hash-link" aria-label="Bezpośredni link do Odpowiedzialność za domenę wiedzy" title="Bezpośredni link do Odpowiedzialność za domenę wiedzy">​</a></h3>
+<p>Za domenę wiedzy moglibyśmy uznać wspomniane wcześniej zagadnienia, takie jak infrastruktura, DITA, czy frontend. Jednak mogą to też być bardziej wyspecjalizowane sprawy, jak autentykacja, czy na przykład kontakty z zespołem, który zajmuje się globalizacją oprogramowania i dokumentacji. Takie domeny wykształcają się naturalnie z biegiem czasu pod wpływem krajobrazu zadań otaczających zespół, ale mają na nie wpływ także indywidualne preferencje poszczególnych osób oraz ich styl pracy. Jeżeli tylko jedna osoba jest odpowiedzialna za daną domenę, to kiedy jej nie ma, praca stoi. Jeżeli podczas jej nieobecności wydarzy się coś niespodziewanego to zespół jest w tarapatach.</p>
+<p>Żeby zapobiegać tego typu problemom, ustaliliśmy pewne zasady związane z prowadzeniem domeny.</p>
+<p>Po pierwsze, właściciel danej domeny jest odpowiedzialny za zadania z nią
+związane. Jednak odpowiedzialność ta nie oznacza, że będzie on zajmował się sam wszystkimi zadaniami. Ma on się zaopiekować jedynie danym tematem od momentu zgłoszenia do rozwiązania. W zależności od sytuacji, może on podzielić zadanie na mniejsze, oddelegować je, dobrać się w parę z innym członkiem zespołu, itp. Po drugie, właściciel jest również odpowiedzialny za to, żeby mieć <em>backup</em>, który przejmie jego zadania podczas nieobecności. Dzięki temu każdy może wziąć urlop i w pełni się odłączyć od pracy nie martwiąc się, że w każdej chwili może zadzwonić telefon, albo że musi trzymać rękę na pulsie, bo ktoś gdzieś czeka na pomoc.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="dzielenie-się-wiedzą">Dzielenie się wiedzą<a href="https://techwriter.pl/praca-w-zespole-rozproszonym#dzielenie-si%C4%99-wiedz%C4%85" class="hash-link" aria-label="Bezpośredni link do Dzielenie się wiedzą" title="Bezpośredni link do Dzielenie się wiedzą">​</a></h3>
+<p>Żeby móc efektywnie rozprowadzić odpowiedzialność po całym zespole, trzeba
+dzielić się wiedzą. Wprowadziliśmy więc kilka zasad wokół tego tematu.</p>
+<p>Jeśli ma to sens, podziel się informacją o rozwiązaniu problemu z innymi. Wykorzystaj do tego spotkanie zespołowe albo zakomunikuj to na piśmie, na przykład na Slacku albo w komentarzu pod rozwiązaną historyjką w Jirze.</p>
+<p>To prowadzi nas do kolejnej zasady: zadbaj o dokumentację. Dobra dokumentacja to najlepsze źródło wiedzy, więc staraj się ją aktualizować na bieżąco. Kiedy to robisz, stosuj starą zasadę biwakowania: “Pozostaw to miejsce lepszym niż je zastałeś”. Poprawiaj i ulepszaj jak się tylko da. Prowadząc dokumentację, pamiętaj, żeby opisywać tematy przydatne dla innych. Znasz swoją publikę dość dobrze, jest to w końcu Twój zespół.</p>
+<p>Przy okazji nauczyliśmy się, że robienie dobrych notatek w commitach i ticketach ułatwia późniejsze zrobienie dokumentacji.</p>
+<p>Ostatnim filarem propagowania wiedzy jest dla nas praca w parach. Jeśli ma to sens, pracuj z inną osobą i staraj się to robić regularnie. Przy czym postaraj się popracować chociaż trochę z każdym.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="praca-asynchroniczna">Praca asynchroniczna<a href="https://techwriter.pl/praca-w-zespole-rozproszonym#praca-asynchroniczna" class="hash-link" aria-label="Bezpośredni link do Praca asynchroniczna" title="Bezpośredni link do Praca asynchroniczna">​</a></h3>
+<p>Ja pracuję teraz, ale kolega poszedł pobiegać i będzie pracował po południu. Ktoś inny śpi, bo jest u niego noc, a koleżanka ma teraz akurat wizytę u lekarza. Nasza praca asynchroniczna doprowadziła do sformułowania całego szeregu zasad i prawideł.</p>
+<p>Jeśli potrzebujesz odpowiedzi natychmiast, jasno o tym powiedz. Nie możesz oczekiwać od innych, że zajmą się Twoim pytaniem od razu.</p>
+<p>Potrzebujesz, żeby inni sprawdzili Twoją pracę, ale nie chcesz też marnować ich czasu na znajdowanie oczywistych niedoróbek. Dlatego testuj lokalnie przed wystawieniem PRa.</p>
+<p>Z drugiej strony, dziel się swoją pracą od razu, nie czekaj aż wszystko będzie idealne. Może Ci się wydawać, że opracowujesz magnum opus i potrzebujesz czasu.
+Możesz się też wstydzić i obawiać krytyki ze strony innych. Jednak pamiętaj, że jesteście jednym zespołem i powinniście nauczyć się komunikować na tematy związane z pracą bez niepotrzebnych napięć. Nawet jeżeli nie prosisz od razu o review, opublikuj przynajmniej brancha, żeby inni mogli się do niego odwołać w razie potrzeby.</p>
+<p>Żeby usprawnić komunikację wokół wspólnej pracy, korzystaj z możliwości jakie dają Ci narzędzia typu Bitbucket czy GitHub - pull requesty, komentarze, sugestie, itp. Ich dodatkową zaletą, oprócz komunikacji, jest to, że pozostawiają historię. Jeśli za kilka miesięcy będziesz mieć podobny problem, możesz się&nbsp;do niej odwołać, żeby przypomnieć sobie jak go rozwiązaliście.</p>
+<p>Rób <em>review</em> zmian innych. Jest to istotny element dzielenia się wiedzą. Nawet jeśli zmiana została już zaakceptowana, przejrzyj ją, żeby dowiedzieć się co się wydarzyło.</p>
+<p>Używaj systemu do zadań, żeby po Twojej pracy pozostał ślad. Dzięki temu inni będą wiedzieć czym się zajmujesz, a w przyszłości będzie można łatwo przypomnieć sobie, dlaczego dana zmiana została zrobiona.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="spotkania-1">Spotkania<a href="https://techwriter.pl/praca-w-zespole-rozproszonym#spotkania-1" class="hash-link" aria-label="Bezpośredni link do Spotkania" title="Bezpośredni link do Spotkania">​</a></h3>
+<p>Mogłoby się wydawać, że w pracy asynchronicznej spotkania to samo dobro. Ale jedną z pierwszych zasad którą chcemy się tu podzielić to: jeśli spotkanie nie jest potrzebne, odwołaj je. Niepotrzebne spotkanie to strata czasu, który mógłbyś spędzić dużo lepiej.</p>
+<p>Oczywiście spotkania są potrzebne, więc organizuj je i przychodź na te zorganizowane przez innych. Ale kiedy już na nich jesteś, skup się na rzeczach, które trzeba omówić. Pogawędka jest dobra na rozgrzewkę, ale potem trzeba trzymać dygresje w ryzach.</p>
+<p>Żeby każde spotkanie było produktywne, zakończ je listą zadań i priorytetów na najbliższy czas. Każdy z uczestników musi wiedzieć czym ma się zajmować.</p>
+<p>Jeśli spotkanie nie spełnia swojej roli, może warto je podzielić na dwa krótsze. Na przykład, jedno poświęcone technicznym zagadnieniom, a drugie poświęcone celom biznesowym. Wyobraź sobie, że planujecie skomplikowany projekt, ale nie możecie wyklarować pełnej wizji od początku do końca, bo na każdym kroku zaczynacie wnikać w szczegóły techniczne. Na pierwszym spotkaniu skup się tylko na wizji i ucinaj dyskusje o szczegółach. Kiedy już wszystkie etapy są zarysowane, poświęć następne spotkania na omówienie szczegółów każdego z nich.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="narzędzia">Narzędzia<a href="https://techwriter.pl/praca-w-zespole-rozproszonym#narz%C4%99dzia" class="hash-link" aria-label="Bezpośredni link do Narzędzia" title="Bezpośredni link do Narzędzia">​</a></h3>
+<p>Narzędzia zawsze odgrywają rolę w pracy, a w pracy asynchronicznej mogą zrobić naprawdę dużą różnicę. Odkryliśmy kilka dobrych praktyk, które wiążą się ściśle z tym typem pracy.</p>
+<p>Po pierwsze, testuj automatycznie co tylko się da. Dzięki temu można pracować szybciej, bez czekania na zatwierdzanie zmian przez innych.</p>
+<p>Upewnij się, że każdy ma dobrze skonfigurowane lokalne środowisko do pracy. Dzięki temu wasze zmiany będą bardziej przewidywalne. Jeżeli u mnie coś działa, to powinno działać u koleżanki i powinno działać na środowisku produkcyjnym.</p>
+<p>Jeżeli używasz formattera, np. Prettier, podziel się konfiguracją z całym zespołem i niech formatowanie będzie częścią commita. Wtedy przeglądanie zmian od innych będzie czytelniejsze, bo nie będzie zawierało przypadkowych elementów.</p>
+<p>Korzystaj z komunikatorów, żeby informować na bieżąco innych nad czym pracujesz. Wyobraź sobie, że już kończysz pracę nad fantastyczną nową funkcjonalnością, a tu nagle ktoś wrzuca PR z tym samym. A mógłby pracować nad czymś innym, gdyby tylko wiedział.</p>
+<p>Wykorzystuj narzędzia do organizacji pracy, takie jak Jira, i włącz opcje takie jak automatyczne przypisywanie zadań na podstawie domeny, automatyczne przypisywanie reviewerów, w zależności od nazwy brancha. Niby mała rzecz, ale w dłuższej perspektywie oszczędza czas.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="co-dalej">Co dalej?<a href="https://techwriter.pl/praca-w-zespole-rozproszonym#co-dalej" class="hash-link" aria-label="Bezpośredni link do Co dalej?" title="Bezpośredni link do Co dalej?">​</a></h2>
+<p>Myślisz sobie: "My mamy podobny zespół i podobne trudności. Co powinniśmy robić?"</p>
+<p>Każdy dobrze działający zespół jest podobny, ale każdy zespół z problemami jest inny. Nie mamy jednej recepty na uzdrowienie każdego z nich, ale wierzymy, że opis naszej drogi może posłużyć Wam za drogowskaz.</p>
+<p>A więc co robimy?</p>
+<p>Po pierwsze, robimy rachunek sumienia i opracowujemy plan działania. Dzielimy listę problemów na kawałki, które są strawne. Dzięki temu łatwiej nam będzie zacząć.</p>
+<p>Po drugie, poszerzamy wiedzę w zakresie pracy w zespole, nie tylko rozproszonym. W tej kwestii mogą Wam się przydać następujące źródła:</p>
+<ul>
+<li>Książka "Software Engineering at Google" (autorzy: Titus Winters, Tom Manshreck, Hyrum Wright)</li>
+<li>Artykuł z garścią rekomendacji: <a href="https://jacobian.org/2023/sep/29/rto-wfh/?utm_source=changelog-news" target="_blank" rel="noopener noreferrer">https://jacobian.org/2023/sep/29/rto-wfh/?utm_source=changelog-news</a></li>
+<li>Odcinki naszego podcastu “Tech Writer koduje”: “#56 Tech Writer robi inżynierię oprogramowania, czyli dobre praktyki prosto od Google” oraz “#58 Tech Writer pracuje w zespole rozproszonym - wyzwania i rozwiązania”</li>
+</ul>
+<p>Po trzecie, zaczynamy działać.</p>
+<p>Proste, prawda? 😉</p>]]></content:encoded>
+            <category>dobre-praktyki</category>
+            <category>praca</category>
+        </item>
         <item>
             <title><![CDATA[MeetContentWRO marzec 2024 - Relacja]]></title>
             <link>https://techwriter.pl/meet-content-wro-marzec-2024-relacja</link>
@@ -2531,100 +2600,6 @@ no open space, chill room with foosball and ping pong table).</li>
             <category>oferty-pracy</category>
             <category>praca</category>
             <category>kariera</category>
-        </item>
-        <item>
-            <title><![CDATA[Zapraszamy na wrześniowy MeetContentKRK]]></title>
-            <link>https://techwriter.pl/wrzesniowy-meet-content-krk</link>
-            <guid>https://techwriter.pl/wrzesniowy-meet-content-krk</guid>
-            <pubDate>Mon, 11 Sep 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Wrzesień – dla większości z nas oznacza koniec urlopu i powrót do codziennych]]></description>
-            <content:encoded><![CDATA[<p>Wrzesień – dla większości z nas oznacza koniec urlopu i powrót do codziennych
-obowiązków. Ale zbliżająca się jesień to także powrót MeetContentKRK!
-Przygotujcie się na nowe tematy i nowe miejsca, w których będziecie mieli okazję
-poznać społeczność i wymienić się przemyśleniami na temat treści.</p>
-<p>Nowy sezon rozpoczniemy z <strong>Ringier Axel Springer Tech</strong> przy al. 29 Listopada
-20 w Krakowie.</p>
-<p>Dołączcie do społeczności MeetContent i weźcie udział w prowokującej do myślenia
-rozmowie, po której nastąpi pizza, napoje i (oczywiście) ekscytujące dyskusje!
-Pamiętajcie o obowiązku rejestracji. Link do formularza znajdziecie poniżej.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="co-nas-czeka">Co nas czeka?<a href="https://techwriter.pl/wrzesniowy-meet-content-krk#co-nas-czeka" class="hash-link" aria-label="Bezpośredni link do Co nas czeka?" title="Bezpośredni link do Co nas czeka?">​</a></h2>
-<p><em>Dokumenty wysokiej jakości tworzą produkty wysokiej jakości.</em></p>
-<p>Jak ktoś kiedyś powiedział: “<em>Produkt jest dokumentacją</em>”. Wiemy już, że związek
-między nimi jest silny, ale jak zadbać o to, aby był on korzystny dla obu stron?</p>
-<p>Podczas najbliższego spotkania będziecie mogli porozmawiać o tym, jak
-dokumentacja może poprawić ogólną jakość produktu. Przyjrzycie się różnym
-rodzajom dokumentów powstających w procesie tworzenia oprogramowania i temu, jak
-mogą nam one pomóc w tworzeniu lepszych produktów. Wszystko to poparte
-przykładami wziętymi z życia.</p>
-<p>Prezentację prowadzi <strong>Rafał Pawlicki</strong>, który po ponad 10 latach doskonalenia
-umiejętności programowania i zgłębiania tajników tworzenia oprogramowania,
-znalazł swoje prawdziwe powołanie i został Menedżerem Dokumentacji. W Ringier
-Axel Springer Tech koordynuje proces dokumentacji, dba o bazę wiedzy oraz o to,
-by programiści posiadali wszystkie niezbędne narzędzia do pisania świetnej
-dokumentacji.</p>
-<p>Jeśli znacie konferencję soap!, być może znacie Rafała jako jednego z częstych
-prelegentów i głos programistów, którzy nie tylko piszą kod, ale także
-dokumentację.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="kiedy-i-gdzie">Kiedy i gdzie<a href="https://techwriter.pl/wrzesniowy-meet-content-krk#kiedy-i-gdzie" class="hash-link" aria-label="Bezpośredni link do Kiedy i gdzie" title="Bezpośredni link do Kiedy i gdzie">​</a></h2>
-<p><strong>Data:</strong> 20.09.2023</p>
-<p><strong>Czas:</strong> 18:00</p>
-<p><strong>Miejsce:</strong> Ringier Axel Springer Tech, al. 29 Listopada 20, 31-401 Kraków</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="kilka-słów-o-sponsorze">Kilka słów o sponsorze<a href="https://techwriter.pl/wrzesniowy-meet-content-krk#kilka-s%C5%82%C3%B3w-o-sponsorze" class="hash-link" aria-label="Bezpośredni link do Kilka słów o sponsorze" title="Bezpośredni link do Kilka słów o sponsorze">​</a></h2>
-<p>15 spotkanie MeetContentKRK jest sponsorowane przez <strong>Ringier Axel Springer
-Tech</strong>.</p>
-<p>Ringier Axel Springer Tech to centrum technologiczne Ringier Axel Springer
-Polska, wiodącej firmy z branży mediów i technologii w Europie
-Środkowo-Wschodniej. Firma działa w trzech miastach w Polsce i zdalnie,
-dysponując 50 zespołami złożonymi z ponad 300 specjalistów IT tworzących wiele
-usług, które docierają do 40 milionów osób.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="formularz-rejestracji">Formularz rejestracji<a href="https://techwriter.pl/wrzesniowy-meet-content-krk#formularz-rejestracji" class="hash-link" aria-label="Bezpośredni link do Formularz rejestracji" title="Bezpośredni link do Formularz rejestracji">​</a></h2>
-<p>Aby zapisać się na wydarzenie, skorzystaj z
-<a href="https://forms.gle/s745oZFSDGXsV9GP8" target="_blank" rel="noopener noreferrer">formularza</a>.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="dlaczego-te-spotkania-mogą-być-dla-ciebie">Dlaczego te spotkania mogą być dla Ciebie?<a href="https://techwriter.pl/wrzesniowy-meet-content-krk#dlaczego-te-spotkania-mog%C4%85-by%C4%87-dla-ciebie" class="hash-link" aria-label="Bezpośredni link do Dlaczego te spotkania mogą być dla Ciebie?" title="Bezpośredni link do Dlaczego te spotkania mogą być dla Ciebie?">​</a></h2>
-<p>Każde ze spotkań ma na celu pogłębianie wiedzy uczestników, wymianę doświadczeń
-i ciekawych pomysłów z szeroko pojętej branży tworzenia treści.</p>
-<p>Rozumiemy, że nie wszyscy jesteśmy obdarzeni prężnym zespołem, który tworzy
-społeczność praktyków w naszych dziedzinach, dlatego staramy się stać czymś tego
-rodzaju, aby wypełnić tę lukę.</p>
-<p>Po każdym spotkaniu następuje część nieformalna, dzięki czemu wszyscy uczestnicy
-mają czas na zadawanie pytań, dyskusję lub po prostu nawiązanie kontaktów.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="meetcontentkrk---o-nas">MeetContentKRK - o nas<a href="https://techwriter.pl/wrzesniowy-meet-content-krk#meetcontentkrk---o-nas" class="hash-link" aria-label="Bezpośredni link do MeetContentKRK - o nas" title="Bezpośredni link do MeetContentKRK - o nas">​</a></h2>
-<p>MeetContentKRK to odgałęzienie dobrze znanej konferencji
-<a href="https://soapconf.com/" target="_blank" rel="noopener noreferrer">soap!</a>. Wspólnie z MeetContentWRO dążymy do stworzenia
-społeczności profesjonalistów pracujących z treściami produktowymi w obszarach
-Tech i IT.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="skontaktuj-się-z-organizatorem">Skontaktuj się z organizatorem<a href="https://techwriter.pl/wrzesniowy-meet-content-krk#skontaktuj-si%C4%99-z-organizatorem" class="hash-link" aria-label="Bezpośredni link do Skontaktuj się z organizatorem" title="Bezpośredni link do Skontaktuj się z organizatorem">​</a></h2>
-<p>Organizatorom zależy, by spotkania były istotne i przybliżały tematy, które są
-dla Was interesujące. Możecie zgłosić temat, a organizatorzy dołożą wszelkich
-starań, aby znaleźć prelegentów, którzy będą mogli o nim porozmawiać. Możecie
-także sami zostać prelegentami na jednym ze spotkań.</p>
-<p>Osoby zainteresowane mogą dołączyć do MeetContent na
-<a href="https://meetcontent.slack.com/archives/CCZR1KAKF" target="_blank" rel="noopener noreferrer">Slacku</a>, aby być na bieżąco z
-nadchodzącymi wydarzeniami i proponować nowe tematy.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="często-zadawane-pytania">Często zadawane pytania<a href="https://techwriter.pl/wrzesniowy-meet-content-krk#cz%C4%99sto-zadawane-pytania" class="hash-link" aria-label="Bezpośredni link do Często zadawane pytania" title="Bezpośredni link do Często zadawane pytania">​</a></h2>
-<p><strong>P:</strong> Czy wydarzenie będzie nagrywane czy transmitowane na żywo?</p>
-<p><strong>Odp.:</strong> Nie, pomysł i format tych spotkań jest taki, że mają one charakter
-wydarzeń osobistych.</p>
-<p><strong>P:</strong> Czy można udostępnić prezentacje prelegentów?</p>
-<p><strong>Odp.:</strong> Niektórzy prelegenci mogą chcieć udostępnić swój zestaw slajdów, inni
-mogą nie chcieć tego robić. Podczas wydarzenia można jednak zadawać pytania i
-robić zdjęcia.</p>
-<p><strong>P:</strong> Zarejestrowałem się, ale nie mogę wziąć udziału. Co powinienem zrobić?</p>
-<p><strong>Odp.</strong> Choć będzie nam Ciebie brakowało, wiemy, że życie stawia na drodze
-różne przeciwności. Jeśli wiesz, że nie dasz rady przyjść, daj nam znać. Możesz
-to zrobić pisząc na naszą skrzynkę pocztową
-(<a href="mailto:contact@meetcontent.org" target="_blank" rel="noopener noreferrer">contact@meetcontent.org</a>) lub wysyłając
-wiadomość na platformie
-<a href="https://meetcontent.slack.com/archives/CCZR1KAKF" target="_blank" rel="noopener noreferrer">Slack</a>. To będzie bardzo
-docenione!</p>
-<p><strong>P:</strong> Spóźniłem się na wydarzenie i nie mogę wejść. Jak powiadomić
-organizatorów?</p>
-<p><strong>Odp.:</strong> Możesz napisać do nas na Slacku, będziemy monitorować kanał przez
-pierwsze 30 minut od rozpoczęcia wydarzenia.</p>
-<p>Wszystkim uczestnikom życzymy dobrych wrażeń!</p>]]></content:encoded>
-            <category>meetup</category>
-            <category>edukacja</category>
-            <category>spolecznosc</category>
         </item>
     </channel>
 </rss>
