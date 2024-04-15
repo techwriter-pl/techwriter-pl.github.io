@@ -43,12 +43,12 @@ Niska częstotliwość aktualizacji zadań w systemie, niewystarczająca komunik
 
 ### Odpowiedzialność za domenę wiedzy
 
-Za domenę wiedzy moglibyśmy uznać wspomniane wcześniej zagadnienia, takie jak infrastruktura, DITA, czy frontend. Jednak mogą to też być bardziej wyspecjalizowane sprawy, jak autentykacja, czy na przykład kontakty z zespołem globalizacji. Takie domeny wykształcają się naturalnie z biegiem czasu pod wpływem krajobrazu zadań otaczających zespół, ale mają na nie wpływ także indywidualne preferencje poszczególnych osób oraz ich styl pracy. Jeżeli tylko jedna osoba jest odpowiedzialna za daną domenę, to kiedy jej nie ma, praca stoi. Jeżeli podczas jej nieobecności wydarzy się coś niespodziewanego to zespół jest w tarapatach.
+Za domenę wiedzy moglibyśmy uznać wspomniane wcześniej zagadnienia, takie jak infrastruktura, DITA, czy frontend. Jednak mogą to też być bardziej wyspecjalizowane sprawy, jak autentykacja, czy na przykład kontakty z zespołem, który zajmuje się globalizacją oprogramowania i dokumentacji. Takie domeny wykształcają się naturalnie z biegiem czasu pod wpływem krajobrazu zadań otaczających zespół, ale mają na nie wpływ także indywidualne preferencje poszczególnych osób oraz ich styl pracy. Jeżeli tylko jedna osoba jest odpowiedzialna za daną domenę, to kiedy jej nie ma, praca stoi. Jeżeli podczas jej nieobecności wydarzy się coś niespodziewanego to zespół jest w tarapatach.
 
-Żeby zapobiegać tego typu problemom, ustaliliśmy pewne zasaday związane z prowadzeniem domeny.
+Żeby zapobiegać tego typu problemom, ustaliliśmy pewne zasady związane z prowadzeniem domeny.
 
 Po pierwsze, właściciel danej domeny jest odpowiedzialny za zadania z nią
-związane. Jednak odpowiedzialność ta nie oznacza, że będzie on zajmował się sam wszystkimi zadaniami. Ma on się zaopiekować jedynie danym tematem od momentu zgłoszenia do rozwiązania. W zależności od sytuacji, może on podzielić zadanie na mniejsze, oddelegować zadanie, sparować się z innym członkiem zespołu, itp. Po drugie, właściciel jest również odpowiedzialny za to, żeby mieć backup, który przejmie jego zadania podczas nieobecności. Dzięki temu każdy może wziąć urlop i w pełni się odłączyć od pracy nie martwiąc się, że w każdej chwili może zadzwonić telefon, albo że musi trzymać rękę na pulsie, bo ktoś gdzieś czeka na pomoc.
+związane. Jednak odpowiedzialność ta nie oznacza, że będzie on zajmował się sam wszystkimi zadaniami. Ma on się zaopiekować jedynie danym tematem od momentu zgłoszenia do rozwiązania. W zależności od sytuacji, może on podzielić zadanie na mniejsze, oddelegować je, dobrać się w parę z innym członkiem zespołu, itp. Po drugie, właściciel jest również odpowiedzialny za to, żeby mieć _backup_, który przejmie jego zadania podczas nieobecności. Dzięki temu każdy może wziąć urlop i w pełni się odłączyć od pracy nie martwiąc się, że w każdej chwili może zadzwonić telefon, albo że musi trzymać rękę na pulsie, bo ktoś gdzieś czeka na pomoc.
 
 ### Dzielenie się wiedzą
 
