@@ -34,8 +34,13 @@ const partners: PartnerProps[] = [
 
 const mediaPartners: PartnerProps[] = [
   {
+    label: 'Strona konferencji Code Europe 2024',
+    link: 'https://www.codeeurope.pl/',
+    imageSrc: require('./img/code-europe-2024-banner.png'),
+  },
+  {
     label: 'Strona konferencji soap!',
-    link: 'http://soapconf.com/',
+    link: 'https://soapconf.com/',
     imageSrc: require('./img/soap_conf_logo_2019_150px.png').default,
   },
   {
@@ -70,7 +75,7 @@ const mediaPartners: PartnerProps[] = [
         .default,
   },
   {
-    label: 'Strona KTLC2022',
+    label: 'Strona czeskiego TW Guild',
     link: 'https://www.twguild.cz/',
     imageSrc: require('./img/tw-guild.png').default,
   },
