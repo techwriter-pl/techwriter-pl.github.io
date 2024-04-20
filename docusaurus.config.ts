@@ -97,7 +97,7 @@ const config: Config = {
           href: 'http://x.com/techwriterpl',
         },
         {
-          label: 'Linkedin',
+          label: 'LinkedIn',
           href: 'https://www.linkedin.com/company/techwriter-pl/',
         },
       ],
