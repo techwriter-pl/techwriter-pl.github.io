@@ -36,7 +36,7 @@ const mediaPartners: PartnerProps[] = [
   {
     label: 'Strona konferencji Code Europe 2024',
     link: 'https://www.codeeurope.pl/',
-    imageSrc: require('./img/code-europe-2024-banner.png'),
+    imageSrc: require('./img/code-europe-2024-banner.png').default,
   },
   {
     label: 'Strona konferencji soap!',
@@ -73,11 +73,6 @@ const mediaPartners: PartnerProps[] = [
     imageSrc:
       require('./img/MadCap-Software-Trial-Banner-2023-e1685527735174.png')
         .default,
-  },
-  {
-    label: 'Strona czeskiego TW Guild',
-    link: 'https://www.twguild.cz/',
-    imageSrc: require('./img/tw-guild.png').default,
   },
 ];
 
