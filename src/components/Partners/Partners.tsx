@@ -36,7 +36,7 @@ const mediaPartners: PartnerProps[] = [
   {
     label: 'Strona konferencji Code Europe 2024',
     link: 'https://www.codeeurope.pl/',
-    imageSrc: require('./img/code-europe-2024-banner.png').default,
+    imageSrc: require('./img/code-europe-2024-banner-150px.png').default,
   },
   {
     label: 'Strona konferencji soap!',
