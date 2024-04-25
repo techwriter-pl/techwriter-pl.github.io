@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[5828],{60256:e=>{e.exports=JSON.parse('{"permalink":"/tags/konferencje/page/48","page":48,"postsPerPage":3,"totalPages":51,"totalCount":153,"previousPage":"/tags/konferencje/page/47","nextPage":"/tags/konferencje/page/49","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

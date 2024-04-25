@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[88135],{79252:e=>{e.exports=JSON.parse('{"permalink":"/tags/kariera/page/72","page":72,"postsPerPage":3,"totalPages":105,"totalCount":314,"previousPage":"/tags/kariera/page/71","nextPage":"/tags/kariera/page/73","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

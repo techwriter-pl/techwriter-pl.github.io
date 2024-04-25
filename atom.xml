@@ -2,11 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://techwriter.pl/</id>
     <title>techwriter.pl Blog</title>
-    <updated>2024-04-15T00:00:00.000Z</updated>
+    <updated>2024-04-25T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://techwriter.pl/"/>
     <subtitle>techwriter.pl Blog</subtitle>
     <icon>https://techwriter.pl/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Zapraszamy na Code Europe 2024]]></title>
+        <id>https://techwriter.pl/zapraszamy-na-code-europe-2024</id>
+        <link href="https://techwriter.pl/zapraszamy-na-code-europe-2024"/>
+        <updated>2024-04-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Z ogromną radością zapraszamy Was na największy festiwal technologiczny w Polsce, który w tym roku objęliśmy patronatem medialnym. Poniżej znajdziecie najważniejsze informacje.]]></summary>
+        <content type="html"><![CDATA[<p>Z ogromną radością zapraszamy Was na największy festiwal technologiczny w Polsce, który w tym roku objęliśmy patronatem medialnym. Poniżej znajdziecie najważniejsze informacje.</p>
+<p>Zespół stojący za <a href="https://www.codeeurope.pl/pl/" target="_blank" rel="noopener noreferrer">Code Europe</a> to ludzie, którzy czerpią inspirację z technologii i widzą ogromną wartość w możliwości wymiany wiedzy i doświadczeń. Dlatego właśnie w 2016 roku stworzyli wydarzenie Code Europe, które do tej pory doczekało się kilku edycji.</p>
+<p>Celem wydarzenia jest zainteresowanie uczestników światem technologii i możliwościami, jakie daje. Wysoka jakość prelekcji i warsztatów oraz pozytywna atmosfera wyróżniają Code Europe na tle podobnych konferencji.</p>
+<p>Uczestnicząc w tym wydarzeniu macie szansę odkryć najnowsze trendy i zdobyć kontakty, które mogą pomóc w kształtowaniu Waszej przyszłości w branży technologicznej. Na pokładzie jest już ponad 15 000 uczestników, co pokazuje jak dużym zainteresowaniem cieszy się festiwal.</p>
+<h1>Dla kogo?</h1>
+<p>Festiwal jest przeznaczony dla wszystkich zainteresowanych technologią, programistów, architektów oprogramowania, DevOps, miłośników bezpieczeństwa, profesjonalistów zajmujących się produktami, specjalistów od danych i entuzjastów kontroli jakości.</p>
+<h1>Dlaczego warto być częścią Code Europe?</h1>
+<ul>
+<li>Ucz się od najlepszych mówców, takich jak Venkat Subramaniam, José Valim, Sébastien Chopin, Sven Peters czy Michelle Sandford</li>
+<li>Nawiąż relacje z innymi entuzjastami technologii, które mogą mieć wpływ na Twoją ścieżkę kariery.</li>
+<li>Odkryj najgorętsze trendy technologiczne oraz poznaj gigantów branży IT</li>
+</ul>
+<p><img loading="lazy" alt="CE2024_Linkedin_Cover" src="https://techwriter.pl/assets/images/CE2024_Linkedin_Cover-edd839f490f143938a2d9853e75b4fae.png" width="1128" height="191" class="img_ev3q"></p>
+<h1>Najważniejsze informacje</h1>
+<p>Code Europe odbędzie się <strong>10–11 czerwca 2024 r. w ICE Kraków</strong>. Topowi prelegenci z branży IT przez 2 dni będą się z Wami dzielić swoją wiedzą i doświadczeniem podczas ponad 50 warsztatów.</p>
+<p>Oficjalne rozpoczęcie Code Europe odbędzie się o godzinie 9:30. Ostatnia sesja zacznie się około 16:00 pierwszego dnia i 16:00 drugiego dnia.</p>
+<p>Po zakończeniu pierwszego dnia festiwalu odbędzie się impreza Afterparty, dla wszystkich uczestników, partnerów oraz prelegentów.</p>
+<p>Szczegółowy harmonogram znajdziecie <a href="https://www.codeeurope.pl/pl/agenda" target="_blank" rel="noopener noreferrer">na stronie wydarzenia</a>.</p>
+<p><img loading="lazy" alt="CE2024_Promo_Code" src="https://techwriter.pl/assets/images/CE2024_Promo_Code-4b452d819e5e789d19c1640e306c4e3c.png" width="900" height="449" class="img_ev3q"></p>
+<p>W ramach patronatu mamy dla Was <strong>20% zniżki</strong> na kod <strong>techwriter20</strong>.</p>
+<p>Rodzaje biletów i cennik znajdziecie <a href="https://www.codeeurope.pl/pl/kup-bilet" target="_blank" rel="noopener noreferrer">na stronie wydarzenia</a>.</p>
+<p>Wszystkim uczestnikom życzymy dobrych wrażeń!</p>]]></content>
+        <author>
+            <name>Agnieszka Gaworska</name>
+            <uri>https://github.com/AGaworska</uri>
+        </author>
+        <category label="news" term="news"/>
+        <category label="z-kraju" term="z-kraju"/>
+        <category label="kariera" term="kariera"/>
+        <category label="konferencje" term="konferencje"/>
+        <category label="spolecznosc" term="spolecznosc"/>
+        <category label="technologie" term="technologie"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Praca w zespole rozproszonym]]></title>
         <id>https://techwriter.pl/praca-w-zespole-rozproszonym</id>
@@ -2583,104 +2622,5 @@ może Was zabraknąć!</p>
         <category label="meetup" term="meetup"/>
         <category label="edukacja" term="edukacja"/>
         <category label="spolecznosc" term="spolecznosc"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oferta pracy: Technical Content Writer (CKEditor) – Warszawa, Poznań, zdalnie]]></title>
-        <id>https://techwriter.pl/oferta-pracy-technical-content-writer-ckeditor-warszawa-poznan-zdalnie</id>
-        <link href="https://techwriter.pl/oferta-pracy-technical-content-writer-ckeditor-warszawa-poznan-zdalnie"/>
-        <updated>2023-09-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ciekawa oferta pracy w dziale marketingu dla osób, które wiedzą jak tworzyć]]></summary>
-        <content type="html"><![CDATA[<p>Ciekawa oferta pracy w dziale marketingu dla osób, które wiedzą jak tworzyć
-dobre treści techniczne i znają technologie frontendowe.</p>
-<p>Szczegóły znajdziecie poniżej oraz na
-<a href="https://cksource.recruitee.com/o/technical-content-writer-ckeditor" target="_blank" rel="noopener noreferrer">stronie z ogłoszeniem</a>,
-gdzie możecie aplikować.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="job-description">Job description<a href="https://techwriter.pl/oferta-pracy-technical-content-writer-ckeditor-warszawa-poznan-zdalnie#job-description" class="hash-link" aria-label="Bezpośredni link do Job description" title="Bezpośredni link do Job description">​</a></h2>
-<p>This position within the Tiugo Marketing Team, creates content for the front-end
-developer audience of <a href="https://ckeditor.com/ckeditor-5/" target="_blank" rel="noopener noreferrer">CKEditor</a>.</p>
-<p>To fulfill the role requirements, you will inhabit the places where developers
-search for solutions to their rich text editor problems (e.g. Stack Overflow,
-Github, Google), and use your own experience and team-based SEO insights to
-develop and publish instructional, educational and helpful content for relevant
-global developer audiences.</p>
-<p>The role comprises three equally important parts:</p>
-<ol>
-<li>Researching and writing SEO-based technical content, including the creation
-of demos and code snippets</li>
-<li>Self-organization and management of the scheduling and 8-wk content
-production process for each article – from conception through SEO and
-writing, to design – as well as the timely uploading and publishing of all
-posts via the blog’s CMS</li>
-<li>Ongoing oversight and management of the entire CKE Editorial Calendar,
-including contributions from other team members</li>
-</ol>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="your-role">Your role:<a href="https://techwriter.pl/oferta-pracy-technical-content-writer-ckeditor-warszawa-poznan-zdalnie#your-role" class="hash-link" aria-label="Bezpośredni link do Your role:" title="Bezpośredni link do Your role:">​</a></h3>
-<ul>
-<li>Execute a content strategy that satisfies the educational needs and
-problem-solution searches of our developer audience</li>
-<li>Ability to write clean, clear, concise articles that answer the specific
-technical problems that our developers have ( or search)</li>
-<li>Produce supportive demos and/or code snippets for relevant technical articles</li>
-<li>Meet the publish deadlines as set on the CKEditor Editorial Calendar</li>
-<li>On an ongoing basis, write 2-3 technical how-to’s, or other similar technical
-content per week</li>
-<li>Establish your own method of workflow management to adhere to the 8-wk,
-20-step production process</li>
-<li>Expertly manage multiple articles/tasks through the production process on a
-daily and weekly basis</li>
-<li>Establish a close working relationship with the CKEditor and CKBox engineering
-teams to access their knowledge base and assistance</li>
-<li>Work to and provide input into content plans aligned with campaigns,
-updates/releases and launches</li>
-<li>Develop a deep understanding of our key personas (front-end developers and
-business decision-makers) to identify insights and angle content accordingly</li>
-<li>Attend appropriate product and engineering meetings to understand the release
-schedule in order to craft timely and suitable articles</li>
-<li>Develop awareness of front-end developer trends</li>
-<li>Other responsibilities as requested</li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="job-requirements">Job requirements<a href="https://techwriter.pl/oferta-pracy-technical-content-writer-ckeditor-warszawa-poznan-zdalnie#job-requirements" class="hash-link" aria-label="Bezpośredni link do Job requirements" title="Bezpośredni link do Job requirements">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="about-yourself">About yourself:<a href="https://techwriter.pl/oferta-pracy-technical-content-writer-ckeditor-warszawa-poznan-zdalnie#about-yourself" class="hash-link" aria-label="Bezpośredni link do About yourself:" title="Bezpośredni link do About yourself:">​</a></h3>
-<ul>
-<li>Minimum 3-5 years relevant technical content writing experience</li>
-<li>Minimum 2 years content production management experience</li>
-<li>Outstanding fact-based writing, content, and editing experience</li>
-<li>Demonstrated ability to produce high volumes of blog posts and articles</li>
-<li>Experience in SaaS B2B enterprise environment</li>
-<li>Knowledge of front-end technologies (especially JavaScript) required</li>
-<li>Demonstrated ability to develop audience, platforms, and organizations to
-support a large community of developers</li>
-<li>Experience in open-source communities preferred</li>
-<li>Portfolio of English writing samples of technical content</li>
-<li>Native English speaker/writer, ideally with knowledge/understanding of Polish
-language</li>
-</ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="in-return-we-offer">In return we offer:<a href="https://techwriter.pl/oferta-pracy-technical-content-writer-ckeditor-warszawa-poznan-zdalnie#in-return-we-offer" class="hash-link" aria-label="Bezpośredni link do In return we offer:" title="Bezpośredni link do In return we offer:">​</a></h3>
-<ul>
-<li>an unprecedented work atmosphere;</li>
-<li>B2B agreement or equivalent with a contract of employment (annual 26-day leave
-included);</li>
-<li>flexible working hours - you start at the time that suits you. If you need to
-go out somewhere - no problem;</li>
-<li>tasks tailored to your predispositions;</li>
-<li>quarterly and annual financial bonus depending on the company's performance;</li>
-<li>additional days off and financial resources for personal development (up to 5
-days and 6.000 PLN yearly, depending on the work experience);</li>
-<li>English lessons with a native speaker and an online language platform with the
-possibility to learn English, Spanish, and German;</li>
-<li>all necessary equipment such as laptop, additional monitor, and accessories;</li>
-<li>private medical care (Enel Med or Medicover) and Multisport card;</li>
-<li>access to mental health support and personal growth resources through
-Mindgram;</li>
-<li>you can work 100% remotely or from our Warsaw/Poznań offices (no dress code,
-no open space, chill room with foosball and ping pong table).</li>
-</ul>]]></content>
-        <author>
-            <name>Michał Skowron</name>
-            <uri>https://github.com/docdeveloper</uri>
-        </author>
-        <category label="oferty-pracy" term="oferty-pracy"/>
-        <category label="praca" term="praca"/>
-        <category label="kariera" term="kariera"/>
     </entry>
 </feed>
