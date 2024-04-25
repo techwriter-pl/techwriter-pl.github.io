@@ -20,7 +20,7 @@ Z ogromną radością zapraszamy Was na największy festiwal technologiczny w Po
 
 # O Code Europe
 
-Zespół stojący za Code Europe to ludzie, którzy czerpią inspirację z technologii i widzą ogromną wartość w możliwości wymiany wiedzy i doświadczeń w jej rozwoju. Dlatego właśnie w 2016 roku stworzyli wydarzenie Code Europe, które do tej pory doczekało się kilku edycji.
+Zespół stojący za [Code Europe](https://www.codeeurope.pl/pl/) to ludzie, którzy czerpią inspirację z technologii i widzą ogromną wartość w możliwości wymiany wiedzy i doświadczeń. Dlatego właśnie w 2016 roku stworzyli wydarzenie Code Europe, które do tej pory doczekało się kilku edycji.
 
 To, co wyróżnia Code Europe, to focus na tworzeniu pozytywnego, inkluzywnego doświadczenia dla uczestników - od jakości prelekcji i warsztatów po ogólną atmosferę wydarzenia, którego celem jest zainteresowanie uczestników światem technologii i możliwościami, jakie daje.
 
