@@ -17,7 +17,6 @@ Z ogromną radością zapraszamy Was na największy festiwal technologiczny w Po
 
 <!--truncate-->
 
-Przygotujcie się na [Code Europe](https://www.codeeurope.pl/pl/) – największy festiwal technologiczny w Polsce!
 
 # O Code Europe
 
