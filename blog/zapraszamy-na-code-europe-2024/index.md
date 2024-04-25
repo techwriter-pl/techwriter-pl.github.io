@@ -13,7 +13,7 @@ tags:
 coverImage: 'CE2024_Cover.png'
 ---
 
-Z ogromną radością zapraszamy Was na konferencję Code Europe, którą objęliśmy patronatem. Poniżej znajdziecie najważniejsze informacje.
+Z ogromną radością zapraszamy Was na największy festiwal technologiczny w Polsce, który w tym roku objęliśmy patronatem medialnym. Poniżej znajdziecie najważniejsze informacje.
 
 <!--truncate-->
 
