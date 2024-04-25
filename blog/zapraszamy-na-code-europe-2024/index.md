@@ -34,7 +34,7 @@ Festiwal jest przeznaczony dla wszystkich zainteresowanych technologią, program
 # Dlaczego warto być częścią Code Europe?
 
 - Ucz się od najlepszych mówców, takich jak Venkat Subramaniam, José Valim, Sébastien Chopin, Sven Peters czy Michelle Sandford
-- Nawiąż kontakt z innymi entuzjastami technologii, współpracuj nad pomysłami i nawiązuj relacje, które mogą mieć wpływ na Twoją ścieżkę kariery.
+- Nawiąż relacje z innymi entuzjastami technologii, które mogą mieć wpływ na Twoją ścieżkę kariery.
 - Odkryj najgorętsze trendy technologiczne oraz poznaj gigantów branży IT
 - Przygotuj się na imponujący skład z liderami technologii, takimi jak Venkat Subramaniam, José Valim, Sébastien Chopin, Sven Peters, Michelle Sandford na czele.
 
