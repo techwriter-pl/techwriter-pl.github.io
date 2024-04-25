@@ -29,7 +29,7 @@ Uczestnicząc w tym wydarzeniu macie szansę, aby wyprzedzić konkurencję, odkr
 
 # Dla kogo?
 
-Festiwal jest przeznaczony dla wszystkich zainteresowanych technologią, programistów, architektów oprogramowania, DevOps, miłośników bezpieczeństwa, profesjonalistów zajmujących się produktami, specjalistów od danych i entuzjastów kontroli jakości, aby mogli dzielić się wiedzą i wspólnie poszukiwać wiedzy.
+Festiwal jest przeznaczony dla wszystkich zainteresowanych technologią, programistów, architektów oprogramowania, DevOps, miłośników bezpieczeństwa, profesjonalistów zajmujących się produktami, specjalistów od danych i entuzjastów kontroli jakości.
 
 # Dlaczego warto być częścią Code Europe?
 
