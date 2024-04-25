@@ -35,7 +35,7 @@ Festiwal jest przeznaczony dla wszystkich zainteresowanych technologią, program
 
 - Ucz się od najlepszych mówców, którzy przedstawiają najnowsze spostrzeżenia i doświadczenia z branży technologicznej.
 - Nawiąż kontakt z innymi entuzjastami technologii, współpracuj nad pomysłami i nawiązuj relacje, które mogą mieć wpływ na Twoją ścieżkę kariery.
-- Odkrywaj możliwości, nawiązuj kontakty z gigantami branży i zdobywaj wgląd w najgorętsze trendy i możliwości w branży IT i technologii.
+- Odkryj najgorętsze trendy technologiczne oraz poznaj gigantów branży IT
 - Przygotuj się na imponujący skład z liderami technologii, takimi jak Venkat Subramaniam, José Valim, Sébastien Chopin, Sven Peters, Michelle Sandford na czele.
 
 ![CE2024_Linkedin_Cover](images/CE2024_Linkedin_Cover.png)
