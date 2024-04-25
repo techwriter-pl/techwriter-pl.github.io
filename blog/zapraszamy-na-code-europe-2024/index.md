@@ -25,7 +25,7 @@ Zespół stojący za [Code Europe](https://www.codeeurope.pl/pl/) to ludzie, kt�
 Celem wydarzenia jest zainteresowanie uczestników światem technologii i możliwościami, jakie daje. Wysoka jakość prelekcji i warsztatów oraz pozytywna atmosfera wyróżniają Code Europe na tle podobnych konferencji.
 
 
-Uczestnicząc w tym wydarzeniu macie szansę, aby wyprzedzić konkurencję, odkryć najnowsze trendy i zdobyć kontakty, które mogą kształtować Waszą przyszłość w branży technologicznej. Na pokładzie jest już ponad 15 000 uczestników, co pokazuje jak dużym zainteresowaniem cieszy się festiwal. 
+Uczestnicząc w tym wydarzeniu macie szansę odkryć najnowsze trendy i zdobyć kontakty, które mogą pomóc w kształtowaniu Waszej przyszłości w branży technologicznej. Na pokładzie jest już ponad 15 000 uczestników, co pokazuje jak dużym zainteresowaniem cieszy się festiwal. 
 
 # Dla kogo?
 
