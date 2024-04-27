@@ -23,7 +23,7 @@ export default function SurveyTable({ data, question }: SurveyTableProps) {
   }
 
   return (
-    <TableContainer component={Paper} sx={{ p: 1 }}>
+    <TableContainer component={Paper} sx={{ p: 1, my: 2 }}>
       <Typography variant="subtitle1">{question}</Typography>
       <Table
         sx={{ minWidth: 650 }}

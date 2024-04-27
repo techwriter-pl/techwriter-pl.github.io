@@ -14,7 +14,9 @@ export default function SurveyAnswerList({
   question,
 }: SurveyAnswerListProps) {
   return (
-    <Paper sx={{ p: 1, gap: 2, display: 'flex', flexDirection: 'column' }}>
+    <Paper
+      sx={{ p: 1, my: 2, gap: 2, display: 'flex', flexDirection: 'column' }}
+    >
       <Typography variant="subtitle1">{question}</Typography>
       {data.map((row, index) => (
         <Stack key={index} gap={1}>
