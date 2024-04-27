@@ -28,14 +28,14 @@ type ProfessionalTitlesMedianDataPoint = {
 export const professionalTitlesMedian: ProfessionalTitlesMedianDataPoint[] = [
   {
     'opis stanowiska':
-      'Technical writer (specjalista ds. dokumentacji technicznej)',
+      'Technical writer',
     'liczba osób': 90,
     mediana: currencyValueFormatter(10500),
     minimalne: currencyValueFormatter(5000),
     maksymalne: currencyValueFormatter(26291),
   },
   {
-    'opis stanowiska': 'Documentation team leader (szef zespołu dokumentacji)',
+    'opis stanowiska': 'Documentation team leader',
     'liczba osób': 16,
     mediana: currencyValueFormatter(21500),
     minimalne: currencyValueFormatter(5500),
@@ -70,7 +70,7 @@ export const professionalTitlesMedian: ProfessionalTitlesMedianDataPoint[] = [
     maksymalne: currencyValueFormatter(32000),
   },
   {
-    'opis stanowiska': 'Training content developer (specjalista ds. szkoleń)',
+    'opis stanowiska': 'Training content developer',
     'liczba osób': 1,
     mediana: currencyValueFormatter(9400),
     minimalne: '---',
