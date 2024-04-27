@@ -44,77 +44,33 @@ podsumowania.
 
 ## Pierwsze wnioski
 
-import YearlyComparisonChart from '@site/src/components/YearlyComparison/Chart.tsx';
+import YearlyComparisonChart from '@site/src/components/Survey/YearlyComparison/Chart';
 
 <YearlyComparisonChart />
 
-- tutaj napisać porównanie zarobków z rokiem 2022
-- liczba uczestników ankiety utrzymuje się w okolicach 100, a w tym roku prawie
-  osiągnęliśmy rekord z 2020 roku (111 odpowiedzi). Osobom, które udzieliły
-  odpowiedzi serdecznie dziękujemy! Zastanawia nas, co możemy zrobić, by liczba
-  odpowiedzi w kolejnych latach była wyższa. Będziemy wdzięczni za wszelkie
-  sugestie w komentarzach 😉.
-- zarobki nadal mają tendencję wzrostową, co nas bardzo cieszy.
+- Mamy aż 133 odpowiedzi! Bardzo nas cieszy, że tak wiele osób jest
+  zainteresowanych ankietą. Ciekawe ile jest wszystkich tech writerów w kraju.
+  🤔
+- Zarobki nadal mają tendencję wzrostową, co nas bardzo cieszy.
 
 ## Profesje
 
+import SurveyTable from '@site/src/components/Survey/SurveyTable';
+
+<SurveyTable
+  data={require('./data').professionalTitlesMedian}
+  dataLabel="ile osób"
+  question="Który opis najbardziej pasuje do wykonywanej przez Ciebie pracy?"
+/>
+
 Podobnie jak w latach poprzednich, większość osób biorących udział w ankiecie
-identyfikuje się jako Technical Writer (79,1%). W porównaniu do poprzedniego
-roku można zaobserwować niewielki spadek procentowy tej profesji (o 0,7%).
-Dodatkowo warto zauważyć, że wśród innych stanowisk, podobnie jak w zeszłych
-latach, dominuje Documentation Team Leader, co może świadczyć o dalszym rozwoju
-większych projektów związanych z dokumentacją.
+identyfikuje się jako Technical Writer (specjalista ds. dokumentacji
+technicznej). Zobaczyliśmy też bardzo ciekawy tytuł "Content Wrangler", ale
+zakwalifikowaliśmy go jako "technical writer".
 
-Poniżej tabela ze szczegółowym zestawieniem stanowisk w ramach branży wraz z
-ilością udzielonych przez respondentów odpowiedzi:
-
-| STANOWISKO                                                                | LICZBA ODPOWIEDZI |
-| ------------------------------------------------------------------------- | ----------------- |
-| Technical writer (specjalista ds. dokumentacji technicznej)               | 87                |
-| Documentation team leader (szef zespołu dokumentacji)                     | 13                |
-| Product owner / Business Analyst (menadżer produktu / analityk systemowy) | 4                 |
-
-Wśród odpowiedzi pojawiły się także pojedyncze przykłady innych profesji,
-których nie braliśmy pod uwagę w powyższym zestawieniu. Były to na przykład
-stanowiska:
-
-- Lead Content Developer (17 400 zł),
-- Information architect (11 000 zł),
-- Technical Documentation Coordinator (9 000 zł),
-- Design manager (22 000 zł),
-- IT support Specialist (6 500 zł),
-- Technical Writer z elementami sysadmina (dla celów docs) oraz programowania
-  (również dla celów docs) (20 200 zł).
-
-## Wynagrodzenie
-
-Zarobki w poszczególnych grupach kształtują się następująco (posortowane wg
-średniego wynagrodzenia brutto):
-
-| PROFESJA                                                                  | ODPOWIEDZI | ŚREDNIA   | MEDIANA   |
-| ------------------------------------------------------------------------- | ---------- | --------- | --------- |
-| Technical writer (specjalista ds. dokumentacji technicznej)               | 87         | 10 405 zł | 9 666 zł  |
-| Documentation team leader (szef zespołu dokumentacji)                     | 13         | 17 155 zł | 14 000 zł |
-| Product owner / Business Analyst (menadżer produktu / analityk systemowy) | 4          | 11 593 zł | 11 186 zł |
-
-Przedziały wynagrodzenia według profesji wyglądają tak:
-
-| PROFESJA                                                                  | NAJNIŻSZA | NAJWYŻSZA |
-| ------------------------------------------------------------------------- | --------- | --------- |
-| Technical writer (specjalista ds. dokumentacji technicznej)               | 4 500 zł  | 23 000 zł |
-| Documentation Team Leader (szef zespołu dokumentacji)                     | 9 450 zł  | 31 000 zł |
-| Product owner / Business Analyst (menadżer produktu / analityk systemowy) | 8 000 zł  | 16 000 zł |
-
-Po raz kolejny możemy zaobserwować spory rozstrzał wysokości pensji na
-stanowiskach Technical Writer (od 4 500 zł po 23 000 zł) oraz Documentation Team
-Leader (od 9 450 zł po 31 000 zł). W tym roku tendencję tą można także zauważyć
-w przypadku osób pracujących jako Product Owner/Business Analyst, choć różnica
-nie jest aż tak wielka (od 8 000 zł po 16 000 zł). W przypadku Technical Writera
-rozbieżność zarobków wynika z różnych poziomów stanowisk (Junior, Senior,
-Principal). W przypadku Documentation Team Leadera nie jest to już tak widoczne.
-Być może osoba z tak wysokim wynagrodzeniem pełni także inne funkcje w firmie,
-czego nie określiła w ankiecie. Po średniej i medianie widać, że skrajne
-wartości płac występują rzadko.
+Co nas cieszy, w odpowiedziach pojawiały się też feminatywy z jednoczesnym
+spolszczeniem typu "technical writerka" co, jako znawców języka, bardzo nas
+cieszy.
 
 ## Przygotowanie do zawodu, doświadczenie i rozwój
 
@@ -291,4 +247,5 @@ Liczymy, że w przyszłym roku zgłoszeń będzie więcej, co pozwoli nam opisa�
 kolejne zmiany zachodzące w naszej branży.
 
 Mamy nadzieję, że informacje wynikające z badania są dla Was przydatne. Jeśli
-macie uwagi lub sugestie – jak zawsze czekamy na komentarze.
+macie uwagi lub sugestie – jak zawsze czekamy na
+komentarze.@site/src/components/Survey/SurveyPieChart@site/src/components/Survey/YearlyComparison/Chart

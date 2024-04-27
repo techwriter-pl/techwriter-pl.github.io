@@ -15,24 +15,24 @@ export default function ChartSelect({
   values,
   selectedValue,
 }: ChartSelectProps) {
+  const label = 'Pytanie';
+
   return (
-    <Box sx={{ minWidth: 120 }}>
-      <FormControl fullWidth>
-        <InputLabel id="chart-select-label">Pytanie</InputLabel>
-        <Select
-          labelId="chart-select-label"
-          id="chart-select"
-          value={selectedValue}
-          label="Age"
-          onChange={handleChange}
-        >
-          {values.map((value) => (
-            <MenuItem value={value} key={value}>
-              {value}
-            </MenuItem>
-          ))}
-        </Select>
-      </FormControl>
-    </Box>
+    <FormControl fullWidth>
+      <InputLabel id="chart-select-label">{label}</InputLabel>
+      <Select
+        labelId="chart-select-label"
+        id="chart-select"
+        value={selectedValue}
+        label={label}
+        onChange={handleChange}
+      >
+        {values.map((value) => (
+          <MenuItem value={value} key={value}>
+            {value}
+          </MenuItem>
+        ))}
+      </Select>
+    </FormControl>
   );
 }
