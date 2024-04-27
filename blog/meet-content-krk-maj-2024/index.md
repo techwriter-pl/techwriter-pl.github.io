@@ -10,21 +10,20 @@ tags:
 coverImage: 'meetcontentkrk0524.png'
 ---
 
-# MeetContentKRK#22: Czy istnieje przepis na uniwersalny style guide? 
+# MeetContentKRK#22: Czy istnieje przepis na uniwersalny style guide?
 
-Jako technical writerzy dążymy tworzenia dokumentacji, która
-cechuje się jednolitym stylem i spójnością.
-W tych dążeniach wspomagają nas przeróżne zestawy standardów,
-jednak ich liczba często potrafi być 
-dość przytłaczająca i sprawia, że marzymy o jednym, kompletnym przewodniku po stylu
-i standardach pisania.
+Jako technical writerzy dążymy tworzenia dokumentacji, która cechuje się
+jednolitym stylem i spójnością. W tych dążeniach wspomagają nas przeróżne
+zestawy standardów, jednak ich liczba często potrafi być dość przytłaczająca i
+sprawia, że marzymy o jednym, kompletnym przewodniku po stylu i standardach
+pisania.
 
-Jeżeli poszukiwania idealnego style guide'a spędzają Wam sen z powiek albo 
-chcielibyście poszerzyć swoją wiedzę w tym zakresie,
-zapraszamy do **Forte Spaces** w dniu 09.05.2024.
-Podczas spotkania tematykę standardów i wytycznych przybliży nam
-[**Adam Turlej**](https://www.linkedin.com/in/adam-turlej-468222254/), a po prezentacji
-zapraszamy na wymianę opinii przy pizzy i napojach.
+Jeżeli poszukiwania idealnego style guide'a spędzają Wam sen z powiek albo
+chcielibyście poszerzyć swoją wiedzę w tym zakresie, zapraszamy do **Forte
+Spaces** w dniu 09.05.2024. Podczas spotkania tematykę standardów i wytycznych
+przybliży nam
+[**Adam Turlej**](https://www.linkedin.com/in/adam-turlej-468222254/), a po
+prezentacji zapraszamy na wymianę opinii przy pizzy i napojach.
 
 <!--truncate-->
 
@@ -34,18 +33,20 @@ zaplanowanie poczęstunku. Link do formularza znajdziecie
 
 ## Temat
 
-_Wspólny mianownik: W poszukiwaniu uniwersalnych standardów tworzenia dokumentacji_
+_Wspólny mianownik: W poszukiwaniu uniwersalnych standardów tworzenia
+dokumentacji_
 
 Podczas majowego spotkania weźmiemy pod lupę trzy zestawy standardów,
-rozpatrując określone przez nie zasady tworzenia dokumentacji i użycia języka. 
-Wspólnie zastanowimy się, czy można na ich podstawie 
-stworzyć uniwersalny zestaw wytycznych pomocnych w codziennej pracy technical writera.
+rozpatrując określone przez nie zasady tworzenia dokumentacji i użycia języka.
+Wspólnie zastanowimy się, czy można na ich podstawie stworzyć uniwersalny zestaw
+wytycznych pomocnych w codziennej pracy technical writera.
 
 Naszym prelegentem będzie **Adam Turlej**, który tworzeniem dokumentacji
-technicznej zajmuje się od 2020 roku. Technical writing zainteresował go w trakcie studiów
-filologicznych na Uniwersytecie Jagiellońskim.
-W tworzeniu treści ceni sobie minimalizm i modułowość. Kiedy nie pisze dokumentacji,
-Adam zajmuje się tworzeniem muzyki. Jego utworów możecie posłuchać w [serwisie Soundcloud](soundcloud.com/adamturlej).
+technicznej zajmuje się od 2020 roku. Technical writing zainteresował go w
+trakcie studiów filologicznych na Uniwersytecie Jagiellońskim. W tworzeniu
+treści ceni sobie minimalizm i modułowość. Kiedy nie pisze dokumentacji, Adam
+zajmuje się tworzeniem muzyki. Jego utworów możecie posłuchać w
+[serwisie Soundcloud](https://soundcloud.com/adamturlej).
 
 ## Kiedy i gdzie
 
@@ -54,21 +55,27 @@ Krupnicza 3, Kraków
 
 ## Kilka słów o sponsorach
 
-22. spotkanie MeetContentKRK jest sponsorowane przez **Forte Digital** i **Apify**.
+22. spotkanie MeetContentKRK jest sponsorowane przez **Forte Digital** i
+    **Apify**.
 
 ### Forte Digital
 
-W DNA Forte Digital znajdziesz pierwiastek polski, skandynawski i oczywiście technologiczny.
-Forte Digital powstało w 2017 roku jako owoc udanej współpracy polskich i norweskich założycieli.
-Od tego czasu z powodzeniem czerpie to, co najlepsze ze swoich kultur,
-a od niedawna w swoich szeregach ma koleżanki i kolegów z Danii oraz Niemiec.
-Forte Digital skupia się najczęściej na projektach dotyczących obszaru
-e-commerce w pełnym zakresie realizacji – development i consulting IT oraz design.
+W DNA Forte Digital znajdziesz pierwiastek polski, skandynawski i oczywiście
+technologiczny. Forte Digital powstało w 2017 roku jako owoc udanej współpracy
+polskich i norweskich założycieli. Od tego czasu z powodzeniem czerpie to, co
+najlepsze ze swoich kultur, a od niedawna w swoich szeregach ma koleżanki i
+kolegów z Danii oraz Niemiec. Forte Digital skupia się najczęściej na projektach
+dotyczących obszaru e-commerce w pełnym zakresie realizacji – development i
+consulting IT oraz design.
 
 ### Apify
 
-[Apify](https://apify.com/) jest platformą, którą programiści mogą wykorzystać do budowania, wdrażania i publikowania narzędzi do web scrapingu, ekstrakcji danych i automatyzacji.
-Apify udostępnia ponad 1500 gotowych narzędzi, pozwalając na uzyskanie dodatkowego przychodu poprzez udostępnianie je innym użytkownikom. Dodatkowo Apify odpowiada za [Crawlee](https://crawlee.dev/), publiczną bibliotekę do web scrapingu.
+[Apify](https://apify.com/) jest platformą, którą programiści mogą wykorzystać
+do budowania, wdrażania i publikowania narzędzi do web scrapingu, ekstrakcji
+danych i automatyzacji. Apify udostępnia ponad 1500 gotowych narzędzi,
+pozwalając na uzyskanie dodatkowego przychodu poprzez udostępnianie je innym
+użytkownikom. Dodatkowo Apify odpowiada za [Crawlee](https://crawlee.dev/),
+publiczną bibliotekę do web scrapingu.
 
 ## Poznaj MeetContentKRK
 
