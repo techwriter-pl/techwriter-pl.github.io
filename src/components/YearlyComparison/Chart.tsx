@@ -1,10 +1,19 @@
-import React from 'react';
 import Box from '@mui/material/Box';
+import { SelectChangeEvent } from '@mui/material/Select';
 import Typography from '@mui/material/Typography';
-import { yearlyStats } from './data';
 import { BarChart } from '@mui/x-charts/BarChart';
+import { useState } from 'react';
+import ChartSelect from './ChartSelect';
+import { yearlyStats } from './data';
 
 export default function YearlyComparisonChart() {
+  const questions = Object.keys(yearlyStats);
+  const [selectedQuestion, setSelectedQuestion] = useState(questions[0]);
+
+  const handleChange = (event: SelectChangeEvent) => {
+    setSelectedQuestion(event.target.value as string);
+  };
+
   return (
     <Box
       sx={{
@@ -14,21 +23,25 @@ export default function YearlyComparisonChart() {
       <Typography variant="h5" component="div">
         Porównanie!
       </Typography>
+      <ChartSelect
+        handleChange={handleChange}
+        selectedValue={selectedQuestion}
+        values={questions}
+      />
       <BarChart
         xAxis={[
           {
             id: 'barCategories',
-            data: Object.keys(yearlyStats['Liczba odpowiedzi']),
+            data: Object.keys(yearlyStats[selectedQuestion]),
             scaleType: 'band',
           },
         ]}
         series={[
           {
-            data: Object.values(yearlyStats['Liczba odpowiedzi']),
+            data: Object.values(yearlyStats[selectedQuestion]),
           },
         ]}
-        width={500}
-        height={300}
+        height={400}
       />
     </Box>
   );
