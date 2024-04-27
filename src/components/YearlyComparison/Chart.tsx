@@ -14,6 +14,14 @@ export default function YearlyComparisonChart() {
     setSelectedQuestion(event.target.value as string);
   };
 
+  // const currencyValueFormatter = (value: number | null) => `${value} zł`;
+  const currencyValueFormatter = (value: number | null) =>
+    new Intl.NumberFormat('pl-PL', {
+      style: 'currency',
+      currency: 'PLN',
+      maximumFractionDigits: 0,
+    }).format(value);
+
   return (
     <Box
       sx={{
@@ -39,6 +47,10 @@ export default function YearlyComparisonChart() {
         series={[
           {
             data: Object.values(yearlyStats[selectedQuestion]),
+            valueFormatter:
+              questions.indexOf(selectedQuestion) === 0
+                ? undefined
+                : currencyValueFormatter,
           },
         ]}
         height={400}
