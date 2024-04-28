@@ -1,9 +1,11 @@
+import { SurveyBarChartProps } from '@site/src/components/Survey/SurveyBarChart';
+import { SurveyTableProps } from '@site/src/components/Survey/SurveyTable';
 import {
   currencyValueFormatter,
-  median,
+  getMedian,
 } from '@site/src/components/Survey/helpers';
+import { Dataset, Question } from '@site/src/components/Survey/types';
 import rawData from './rawData.json';
-import { SurveyBarChartProps } from '@site/src/components/Survey/SurveyBarChart';
 
 type ProfessionalTitlesDataPoint = {
   'opis stanowiska': string;
@@ -13,46 +15,60 @@ type ProfessionalTitlesDataPoint = {
   maksymalne: string;
 };
 
+function getEarningsForMatchingAnswer(
+  question: Question,
+  answer: string
+): {
+  length: number;
+  minimum: string;
+  maximum: string;
+  median: string;
+  average: string;
+} {
+  const earnings = rawData
+    .filter((response) => response[question] === answer)
+    .map(
+      (i) => i['Ile wynosi Twoje miesięczne wynagrodzenie brutto?']
+    ) as number[];
+
+  const sum = earnings.reduce((a, b) => a + b, 0);
+  const average = currencyValueFormatter(sum / earnings.length || 0);
+  const median = currencyValueFormatter(getMedian(earnings));
+  const minimum = currencyValueFormatter(Math.min(...earnings));
+  const maximum = currencyValueFormatter(Math.max(...earnings));
+
+  return {
+    length: earnings.length,
+    average,
+    maximum,
+    minimum,
+    median,
+  };
+}
+
 function getProfessionalTitlesNumbers(): ProfessionalTitlesDataPoint[] {
   const results: ProfessionalTitlesDataPoint[] = [];
+  const question: Question =
+    'Który opis najbardziej pasuje do wykonywanej przez Ciebie pracy?';
 
   for (const item of rawData) {
-    const value =
-      item['Który opis najbardziej pasuje do wykonywanej przez Ciebie pracy?'];
+    const value = item[question];
     const matchingResult = results.find(
       (result) => result['opis stanowiska'] === value
     );
 
     if (!matchingResult) {
-      const earningsForMatchingResponses = rawData
-        .filter(
-          (response) =>
-            response[
-              'Który opis najbardziej pasuje do wykonywanej przez Ciebie pracy?'
-            ] === value
-        )
-        .map(
-          (i) => i['Ile wynosi Twoje miesięczne wynagrodzenie brutto?']
-        ) as number[];
-
-      const mediana = currencyValueFormatter(
-        median(earningsForMatchingResponses)
-      );
-
-      const minimalne = currencyValueFormatter(
-        Math.min(...earningsForMatchingResponses)
-      );
-
-      const maksymalne = currencyValueFormatter(
-        Math.max(...earningsForMatchingResponses)
+      const { median, minimum, maximum, length } = getEarningsForMatchingAnswer(
+        question,
+        value
       );
 
       results.push({
         'opis stanowiska': value,
-        'liczba osób': earningsForMatchingResponses.length,
-        mediana,
-        minimalne: minimalne === mediana ? '---' : minimalne,
-        maksymalne: maksymalne === mediana ? '---' : maksymalne,
+        'liczba osób': length,
+        mediana: median,
+        minimalne: minimum === median ? '---' : minimum,
+        maksymalne: maximum === median ? '---' : maximum,
       });
     }
   }
@@ -62,10 +78,15 @@ function getProfessionalTitlesNumbers(): ProfessionalTitlesDataPoint[] {
   return results;
 }
 
-export const professionalTitlesNumbers = getProfessionalTitlesNumbers();
+const professionalTitlesNumbers = getProfessionalTitlesNumbers();
+
+export const professionalTitlesNumbersTableProps: SurveyTableProps = {
+  data: professionalTitlesNumbers,
+  question: 'Który opis najbardziej pasuje do wykonywanej przez Ciebie pracy?',
+};
 
 function getBarChartDataForQuestionWithCommaSeparatedValues(
-  question: string
+  question: Question
 ): SurveyBarChartProps['dataset'] {
   const results: SurveyBarChartProps['dataset'] = [];
 
@@ -90,16 +111,57 @@ function getBarChartDataForQuestionWithCommaSeparatedValues(
 
   results.sort((a, b) => (a.count > b.count ? -1 : 1));
 
-  return results.filter((i) => i.count > 1);
+  return results;
 }
 
-const trainingBarChartDataset =
+export const trainingBarChartDataset =
   getBarChartDataForQuestionWithCommaSeparatedValues(
     'Jakie masz przygotowanie do pracy w branży?'
   );
 
 export const trainingBarChartProps: SurveyBarChartProps = {
-  dataset: trainingBarChartDataset,
+  dataset: trainingBarChartDataset.filter((i) => i.count > 1),
   question: 'Jakie masz przygotowanie do pracy w branży?',
   totalNumberOfResponses: rawData.length,
+};
+
+function getEarningsForQuestion(question: Question): Dataset {
+  const results: Dataset = [];
+
+  const uniqueAnswers = Array.from(
+    new Set(rawData.map((response) => response[question]))
+  );
+
+  for (const answer of uniqueAnswers) {
+    const { average, median, length } = getEarningsForMatchingAnswer(
+      question,
+      answer as string
+    );
+    results.push({
+      [question]: answer,
+      'liczba osób': length,
+      średnia: average,
+      mediana: median,
+    });
+  }
+
+  return results;
+}
+
+const experienceAndEarnings = getEarningsForQuestion(
+  'Ile wynosi Twój staż pracy w branży komunikacji technicznej?'
+);
+
+export const experienceAndEarningsTableProps: SurveyTableProps = {
+  data: experienceAndEarnings,
+  question: 'Ile wynosi Twój staż pracy w branży komunikacji technicznej?',
+};
+
+const educationEarnings = getEarningsForQuestion(
+  'Jakie jest Twoje główne wykształcenie?'
+);
+
+export const educationEarningsTableProps: SurveyTableProps = {
+  data: educationEarnings,
+  question: 'Jakie jest Twoje główne wykształcenie?',
 };

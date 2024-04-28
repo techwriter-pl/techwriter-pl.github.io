@@ -57,11 +57,7 @@ import YearlyComparisonChart from '@site/src/components/Survey/YearlyComparison/
 
 import SurveyTable from '@site/src/components/Survey/SurveyTable';
 
-<SurveyTable
-  data={require('./data').professionalTitlesNumbers}
-  dataLabel="ile osób"
-  question="Który opis najbardziej pasuje do wykonywanej przez Ciebie pracy?"
-/>
+<SurveyTable {...require('./data').professionalTitlesNumbersTableProps} />
 
 Podobnie jak w latach poprzednich, większość osób biorących udział w ankiecie
 identyfikuje się jako Technical Writer (specjalista ds. dokumentacji
@@ -75,44 +71,40 @@ cieszy.
 ## Przygotowanie do zawodu, doświadczenie i rozwój
 
 Większość ankietowanych nauczyło się zawodu w pracy (87%). Co ciekawe, na
-trzecim miejscu pojawił się kurs ITCQF - aż 20 osób się nim pochwaliło. To duży
-skok w porównaniu z poprzednim rokiem, kiedy ten kurs wspomniało tylko 8 osób.
+trzecim miejscu pojawił się kurs ITCQF - aż 28 osób się nim pochwaliło. To duży
+skok w porównaniu z poprzednim rokiem, kiedy ten kurs wspomniało tylko 9 osób.
 
 import SurveyBarChart from '@site/src/components/Survey/SurveyBarChart';
 
 <SurveyBarChart {...require('./data').trainingBarChartProps} />
 
-Tak jak w poprzednich latach, większość ankietowanych nauczyło się zawodu w
-pracy – to blisko 81% uczestników badania. Na drugim miejscu – blisko 20% – to
-osoby bez doświadczenia. W tym roku trzecie miejsce zajęła grupa osób, które
-ukończyły studia z Technical Writingu lub pokrewne - jest Was już ponad 14,5%.
+12 osób wybrało opcję "Inny kurs lub certyfikat", oto ich odpowiedzi:
 
-| PRZYGOTOWANIE                         | PROCENTOWO | LICZBA ODPOWIEDZI |
-| ------------------------------------- | ---------- | ----------------- |
-| Szkolenie i doświadczenie w pracy     | 80,91%     | 89                |
-| Bez doświadczenia                     | 19,09%     | 21                |
-| Studia technical writing lub pokrewne | 14,55%     | 16                |
-| Inny kurs lub certyfikat              | 8,18%      | 9                 |
-| Kurs ITCQF z certyfikatem             | 7,27%      | 8                 |
-| Kurs ITCQF bez certyfikatu            | 0,91%      | 1                 |
+import SurveyBulletedList from '@site/src/components/Survey/SurveyBulletedList';
+import { Filter } from '@mui/icons-material';
+
+<SurveyBulletedList
+  entries={require('./data').trainingBarChartDataset.filter(
+    (item) => item.count === 1
+  )}
+/>
 
 Jak zatem doświadczenie w zawodzie wpływa na zarobki? Jak widać poniżej, ma ono
 dość znaczący i pozytywny wpływ na to jakie otrzymujemy wynagrodzenie za pracę.
 
-| DOŚWIADCZENIE             | ŚREDNIA   | MEDIANA   |
-| ------------------------- | --------- | --------- |
-| Nie posiada doświadczenia | 8 448 zł  | 8 500 zł  |
-| Posiada doświadczenie     | 12 172 zł | 11 200 zł |
+<SurveyTable {...require('./data').experienceAndEarningsTableProps} />
 
-Sprawdziliśmy także jak na wysokość pensji wpływa nasze przygotowania do zawodu
-czyli posiadanie studiów kierunkowych czy kursu zawodowego – szczegóły poniżej.
-Pierwszy raz otrzymaliśmy wynik, który wskazuje na to, że kursy oraz studia nie
-mają znaczenia. Naszym zdaniem ma na to wpływ spora liczba ankietowanych, którzy
-zaznaczyli w odpowiedziach brak doświadczenia w branży - patrząc na przestrzeni
-lat po raz pierwszy mamy aż tak wysoki odzew z tej grupy (blisko 20%). Może to
-świadczyć o dwóch rzeczach - sporo osób z innych branż technicznych postanowiło
-się przebranżowić lub są to osoby dopiero mające w planie rozpoczęcie kariery
-zawodowej.
+Czy wykształcenie ma wpływ na zarobki? Poniższa tabelka sugeruje po jakich
+studiach są najlepiej zarabiający spośród nas.
+
+<SurveyTable {...require('./data').educationEarningsTableProps} />
+
+Wygląda na to, że:
+
+- Przeważają humaniści
+- Nie ma znaczącej różnicy między zarobkami osób po studiach technicznych a osób
+  po studiach humanistycznych
+- Osoby o wykształceniu technicznym i humanistycznym nie zarabiają więcej
 
 | STUDIA                      | ŚREDNIA   | MEDIANA   |
 | --------------------------- | --------- | --------- |
@@ -255,5 +247,4 @@ Liczymy, że w przyszłym roku zgłoszeń będzie więcej, co pozwoli nam opisa�
 kolejne zmiany zachodzące w naszej branży.
 
 Mamy nadzieję, że informacje wynikające z badania są dla Was przydatne. Jeśli
-macie uwagi lub sugestie – jak zawsze czekamy na
-komentarze.@site/src/components/Survey/SurveyPieChart@site/src/components/Survey/YearlyComparison/Chart./TrainingBarChart../../src/components/Survey/TrainingBarChart
+macie uwagi lub sugestie – jak zawsze czekamy na komentarze.

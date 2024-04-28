@@ -12,7 +12,7 @@ export function currencyValueFormatter(value: number | null) {
   }).format(value);
 }
 
-export function median(values: number[]): number {
+export function getMedian(values: number[]): number {
   if (values.length === 0) {
     throw new Error('Input array is empty');
   }

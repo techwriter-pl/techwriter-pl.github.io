@@ -1,4 +1,3 @@
-import Paper from '@mui/material/Paper';
 import Table from '@mui/material/Table';
 import TableBody from '@mui/material/TableBody';
 import TableCell from '@mui/material/TableCell';
@@ -6,14 +5,14 @@ import TableContainer from '@mui/material/TableContainer';
 import TableHead from '@mui/material/TableHead';
 import TableRow from '@mui/material/TableRow';
 import Typography from '@mui/material/Typography';
+import ChartWrapper from './ChartWrapper';
 import SurveyAnswerList from './SurveyAnswerList';
 import { useIsMobile } from './helpers';
-import { Dataset } from './types';
-import ChartWrapper from './ChartWrapper';
+import { Dataset, Question } from './types';
 
-type SurveyTableProps = {
+export type SurveyTableProps = {
   data: Dataset;
-  question: string;
+  question: Question;
 };
 
 export default function SurveyTable({ data, question }: SurveyTableProps) {

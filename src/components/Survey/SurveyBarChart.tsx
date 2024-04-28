@@ -1,12 +1,10 @@
 import Paper from '@mui/material/Paper';
 import Typography from '@mui/material/Typography';
 import { BarChart, BarChartProps } from '@mui/x-charts/BarChart';
+import { ResponseWithCount } from './types';
 
 export type SurveyBarChartProps = {
-  dataset: {
-    response: string;
-    count: number;
-  }[];
+  dataset: ResponseWithCount[];
   question: string;
   totalNumberOfResponses: number;
 };
