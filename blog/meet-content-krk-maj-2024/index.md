@@ -1,5 +1,6 @@
 ---
-title: 'MeetContentKRK maj 2024'
+title: 'MeetContentKRK#22: W poszukiwaniu uniwersalnych standardów tworzenia
+dokumentacji'
 authors: bczyz
 date: '2024-05-09'
 tags:
@@ -10,9 +11,9 @@ tags:
 coverImage: 'meetcontentkrk0524.png'
 ---
 
-# MeetContentKRK#22: Czy istnieje przepis na uniwersalny style guide?
+# MeetContentKRK#22: W poszukiwaniu uniwersalnych standardów tworzenia dokumentacji
 
-Jako technical writerzy dążymy tworzenia dokumentacji, która cechuje się
+Jako technical writerzy dążymy do tworzenia dokumentacji, która cechuje się
 jednolitym stylem i spójnością. W tych dążeniach wspomagają nas przeróżne
 zestawy standardów, jednak ich liczba często potrafi być dość przytłaczająca i
 sprawia, że marzymy o jednym, kompletnym przewodniku po stylu i standardach
