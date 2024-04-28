@@ -1,11 +1,11 @@
-import Paper from '@mui/material/Paper';
-import Typography from '@mui/material/Typography';
-import { ColumnQuestion } from './types';
-import Stack from '@mui/material/Stack';
 import Box from '@mui/material/Box';
+import Stack from '@mui/material/Stack';
+import Typography from '@mui/material/Typography';
+import ChartWrapper from './ChartWrapper';
+import { Dataset } from './types';
 
 type SurveyAnswerListProps = {
-  data: ColumnQuestion;
+  data: Dataset;
   question: string;
 };
 
@@ -14,7 +14,7 @@ export default function SurveyAnswerList({
   question,
 }: SurveyAnswerListProps) {
   return (
-    <Paper
+    <ChartWrapper
       sx={{ p: 1, my: 2, gap: 2, display: 'flex', flexDirection: 'column' }}
     >
       <Typography variant="subtitle1">{question}</Typography>
@@ -28,6 +28,6 @@ export default function SurveyAnswerList({
           ))}
         </Stack>
       ))}
-    </Paper>
+    </ChartWrapper>
   );
 }

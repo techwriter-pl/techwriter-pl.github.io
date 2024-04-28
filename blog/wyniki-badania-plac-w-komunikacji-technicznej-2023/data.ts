@@ -1,23 +1,11 @@
-import { currencyValueFormatter } from '@site/src/components/Survey/helpers';
+import {
+  currencyValueFormatter,
+  median,
+} from '@site/src/components/Survey/helpers';
+import rawData from './rawData.json';
+import { SurveyBarChartProps } from '@site/src/components/Survey/SurveyBarChart';
 
-export const professionalTitles = {
-  'Technical writer (specjalista ds. dokumentacji technicznej)': 96,
-  'Documentation team leader (szef zespołu dokumentacji)': 14,
-  'Content designer': 8,
-  'UX writer': 3,
-  'Product Owner': 2,
-  'Doc tools developer': 2,
-  'Technical writerka i team leadera zespołu TW': 1,
-  'Training content developer (specjalista ds. szkoleń)': 1,
-  'Technical Leader of Technical Writers': 1,
-  'Technical editor': 1,
-  'Medical & Technical Writer': 1,
-  'Technical writer/web developer': 1,
-  'Content wrangler': 1,
-  'Information Developer ': 1,
-};
-
-type ProfessionalTitlesMedianDataPoint = {
+type ProfessionalTitlesDataPoint = {
   'opis stanowiska': string;
   'liczba osób': number;
   mediana: string;
@@ -25,76 +13,93 @@ type ProfessionalTitlesMedianDataPoint = {
   maksymalne: string;
 };
 
-export const professionalTitlesMedian: ProfessionalTitlesMedianDataPoint[] = [
-  {
-    'opis stanowiska':
-      'Technical writer',
-    'liczba osób': 90,
-    mediana: currencyValueFormatter(10500),
-    minimalne: currencyValueFormatter(5000),
-    maksymalne: currencyValueFormatter(26291),
-  },
-  {
-    'opis stanowiska': 'Documentation team leader',
-    'liczba osób': 16,
-    mediana: currencyValueFormatter(21500),
-    minimalne: currencyValueFormatter(5500),
-    maksymalne: currencyValueFormatter(32000),
-  },
-  {
-    'opis stanowiska': 'Content designer',
-    'liczba osób': 8,
-    mediana: currencyValueFormatter(11750),
-    minimalne: currencyValueFormatter(6000),
-    maksymalne: currencyValueFormatter(15400),
-  },
-  {
-    'opis stanowiska': 'UX writer',
-    'liczba osób': 3,
-    mediana: currencyValueFormatter(12000),
-    minimalne: currencyValueFormatter(10800),
-    maksymalne: currencyValueFormatter(13500),
-  },
-  {
-    'opis stanowiska': 'Product Owner',
-    'liczba osób': 2,
-    mediana: currencyValueFormatter(18000),
-    minimalne: currencyValueFormatter(14500),
-    maksymalne: currencyValueFormatter(21500),
-  },
-  {
-    'opis stanowiska': 'Doc tools developer',
-    'liczba osób': 2,
-    mediana: currencyValueFormatter(32000),
-    minimalne: currencyValueFormatter(32000),
-    maksymalne: currencyValueFormatter(32000),
-  },
-  {
-    'opis stanowiska': 'Training content developer',
-    'liczba osób': 1,
-    mediana: currencyValueFormatter(9400),
-    minimalne: '---',
-    maksymalne: '---',
-  },
-  {
-    'opis stanowiska': 'Technical editor',
-    'liczba osób': 1,
-    mediana: currencyValueFormatter(10500),
-    minimalne: '---',
-    maksymalne: '---',
-  },
-  {
-    'opis stanowiska': 'Medical & Technical Writer',
-    'liczba osób': 1,
-    mediana: currencyValueFormatter(13000),
-    minimalne: '---',
-    maksymalne: '---',
-  },
-  {
-    'opis stanowiska': 'Technical writer/web developer',
-    'liczba osób': 1,
-    mediana: currencyValueFormatter(25000),
-    minimalne: '---',
-    maksymalne: '---',
-  },
-];
+function getProfessionalTitlesNumbers(): ProfessionalTitlesDataPoint[] {
+  const results: ProfessionalTitlesDataPoint[] = [];
+
+  for (const item of rawData) {
+    const value =
+      item['Który opis najbardziej pasuje do wykonywanej przez Ciebie pracy?'];
+    const matchingResult = results.find(
+      (result) => result['opis stanowiska'] === value
+    );
+
+    if (!matchingResult) {
+      const earningsForMatchingResponses = rawData
+        .filter(
+          (response) =>
+            response[
+              'Który opis najbardziej pasuje do wykonywanej przez Ciebie pracy?'
+            ] === value
+        )
+        .map(
+          (i) => i['Ile wynosi Twoje miesięczne wynagrodzenie brutto?']
+        ) as number[];
+
+      const mediana = currencyValueFormatter(
+        median(earningsForMatchingResponses)
+      );
+
+      const minimalne = currencyValueFormatter(
+        Math.min(...earningsForMatchingResponses)
+      );
+
+      const maksymalne = currencyValueFormatter(
+        Math.max(...earningsForMatchingResponses)
+      );
+
+      results.push({
+        'opis stanowiska': value,
+        'liczba osób': earningsForMatchingResponses.length,
+        mediana,
+        minimalne: minimalne === mediana ? '---' : minimalne,
+        maksymalne: maksymalne === mediana ? '---' : maksymalne,
+      });
+    }
+  }
+
+  results.sort((a, b) => (a['liczba osób'] > b['liczba osób'] ? -1 : 1));
+
+  return results;
+}
+
+export const professionalTitlesNumbers = getProfessionalTitlesNumbers();
+
+function getBarChartDataForQuestionWithCommaSeparatedValues(
+  question: string
+): SurveyBarChartProps['dataset'] {
+  const results: SurveyBarChartProps['dataset'] = [];
+
+  for (const value of rawData.map((response) => response[question])) {
+    const subValues = (value as string).split(',');
+    for (const subValue of subValues) {
+      const cleanSubValue = subValue.trim();
+      const matchingResultValue = results.find(
+        (existing) => existing['response'] === cleanSubValue
+      );
+      if (matchingResultValue) {
+        matchingResultValue['count'] =
+          (matchingResultValue['count'] as number) + 1;
+      } else {
+        results.push({
+          response: cleanSubValue,
+          count: 1,
+        });
+      }
+    }
+  }
+
+  results.sort((a, b) => (a.count > b.count ? -1 : 1));
+
+  return results.filter((i) => i.count > 1);
+}
+
+const trainingBarChartDataset =
+  getBarChartDataForQuestionWithCommaSeparatedValues(
+    'Jakie masz przygotowanie do pracy w branży?'
+  );
+
+export const trainingBarChartProps: SurveyBarChartProps = {
+  dataset: trainingBarChartDataset,
+  question: 'Jakie masz przygotowanie do pracy w branży?',
+  totalNumberOfResponses: rawData.length,
+};

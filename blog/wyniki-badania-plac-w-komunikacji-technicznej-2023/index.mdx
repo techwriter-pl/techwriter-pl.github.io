@@ -58,7 +58,7 @@ import YearlyComparisonChart from '@site/src/components/Survey/YearlyComparison/
 import SurveyTable from '@site/src/components/Survey/SurveyTable';
 
 <SurveyTable
-  data={require('./data').professionalTitlesMedian}
+  data={require('./data').professionalTitlesNumbers}
   dataLabel="ile osób"
   question="Który opis najbardziej pasuje do wykonywanej przez Ciebie pracy?"
 />
@@ -73,6 +73,14 @@ spolszczeniem typu "technical writerka" co, jako znawców języka, bardzo nas
 cieszy.
 
 ## Przygotowanie do zawodu, doświadczenie i rozwój
+
+Większość ankietowanych nauczyło się zawodu w pracy (87%). Co ciekawe, na
+trzecim miejscu pojawił się kurs ITCQF - aż 20 osób się nim pochwaliło. To duży
+skok w porównaniu z poprzednim rokiem, kiedy ten kurs wspomniało tylko 8 osób.
+
+import SurveyBarChart from '@site/src/components/Survey/SurveyBarChart';
+
+<SurveyBarChart {...require('./data').trainingBarChartProps} />
 
 Tak jak w poprzednich latach, większość ankietowanych nauczyło się zawodu w
 pracy – to blisko 81% uczestników badania. Na drugim miejscu – blisko 20% – to
@@ -248,4 +256,4 @@ kolejne zmiany zachodzące w naszej branży.
 
 Mamy nadzieję, że informacje wynikające z badania są dla Was przydatne. Jeśli
 macie uwagi lub sugestie – jak zawsze czekamy na
-komentarze.@site/src/components/Survey/SurveyPieChart@site/src/components/Survey/YearlyComparison/Chart
+komentarze.@site/src/components/Survey/SurveyPieChart@site/src/components/Survey/YearlyComparison/Chart./TrainingBarChart../../src/components/Survey/TrainingBarChart

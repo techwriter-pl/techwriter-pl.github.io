@@ -2,6 +2,6 @@ export type NumericQuestion = {
   [label: string]: number;
 };
 
-export type ColumnQuestion = {
+export type Dataset = {
   [header: string]: number | string;
 }[];

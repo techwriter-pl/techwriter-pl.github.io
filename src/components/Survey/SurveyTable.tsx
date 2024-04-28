@@ -8,10 +8,11 @@ import TableRow from '@mui/material/TableRow';
 import Typography from '@mui/material/Typography';
 import SurveyAnswerList from './SurveyAnswerList';
 import { useIsMobile } from './helpers';
-import { ColumnQuestion } from './types';
+import { Dataset } from './types';
+import ChartWrapper from './ChartWrapper';
 
 type SurveyTableProps = {
-  data: ColumnQuestion;
+  data: Dataset;
   question: string;
 };
 
@@ -23,7 +24,7 @@ export default function SurveyTable({ data, question }: SurveyTableProps) {
   }
 
   return (
-    <TableContainer component={Paper} sx={{ p: 1, my: 2 }}>
+    <TableContainer component={ChartWrapper}>
       <Typography variant="subtitle1">{question}</Typography>
       <Table
         sx={{ minWidth: 650 }}
@@ -32,16 +33,16 @@ export default function SurveyTable({ data, question }: SurveyTableProps) {
       >
         <TableHead>
           <TableRow>
-            {Object.keys(data[0]).map((label) => (
-              <TableCell key={label}>{label}</TableCell>
+            {Object.keys(data[0]).map((label, headerItemIndex) => (
+              <TableCell key={headerItemIndex}>{label}</TableCell>
             ))}
           </TableRow>
         </TableHead>
         <TableBody>
-          {data.map((row, index) => (
-            <TableRow key={index}>
-              {Object.values(row).map((value) => (
-                <TableCell>{value}</TableCell>
+          {data.map((row, rowIndex) => (
+            <TableRow key={rowIndex}>
+              {Object.values(row).map((value, cellIndex) => (
+                <TableCell key={cellIndex}>{value}</TableCell>
               ))}
             </TableRow>
           ))}
