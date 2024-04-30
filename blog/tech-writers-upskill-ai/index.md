@@ -138,6 +138,6 @@ Facing AI with a sense of agency and belonging can drastically alter your overal
 
 I’m looking forward to hearing about what you learn in your adventures with AI!
 
-## About the author
+## About the Author
 
 Lance Cummings is a seasoned educator and thought leader, currently serving as a professor of English in the Professional Writing program at the University of North Carolina Wilmington. His research and teaching focus on leveraging structured content and rhetorical strategies to enhance generative AI tools for technical communication. You can follow his work at http://www.isophist.com.
