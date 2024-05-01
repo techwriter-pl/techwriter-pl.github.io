@@ -25,3 +25,10 @@ export type Question =
   | 'Jakie jest Twoje główne wykształcenie?'
   | 'Czy dla Twojego wynagrodzenia zastosowanie mają autorskie koszty uzyskania przychodu (tzw. tax break)?'
   | 'Czy pracujesz zdalnie?';
+
+export type NumberOfPeopleAndEarnings = {
+  [responseLabel: string]: string;
+  mediana: string;
+  minimalne: string;
+  maksymalne: string;
+};

@@ -11,15 +11,15 @@ import { useIsMobile } from './helpers';
 import { Dataset, Question } from './types';
 
 export type SurveyTableProps = {
-  data: Dataset;
+  dataset: Dataset;
   question: Question;
 };
 
-export default function SurveyTable({ data, question }: SurveyTableProps) {
+export default function SurveyTable({ dataset, question }: SurveyTableProps) {
   const isMobile = useIsMobile();
 
   if (isMobile) {
-    return <SurveyAnswerList data={data} question={question} />;
+    return <SurveyAnswerList data={dataset} question={question} />;
   }
 
   return (
@@ -32,13 +32,13 @@ export default function SurveyTable({ data, question }: SurveyTableProps) {
       >
         <TableHead>
           <TableRow>
-            {Object.keys(data[0]).map((label, headerItemIndex) => (
+            {Object.keys(dataset[0]).map((label, headerItemIndex) => (
               <TableCell key={headerItemIndex}>{label}</TableCell>
             ))}
           </TableRow>
         </TableHead>
         <TableBody>
-          {data.map((row, rowIndex) => (
+          {dataset.map((row, rowIndex) => (
             <TableRow key={rowIndex}>
               {Object.values(row).map((value, cellIndex) => (
                 <TableCell key={cellIndex}>{value}</TableCell>

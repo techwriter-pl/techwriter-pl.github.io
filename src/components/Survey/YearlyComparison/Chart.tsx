@@ -24,8 +24,8 @@ export default function YearlyComparisonChart() {
         gap: 2,
       }}
     >
-      <Typography variant="h5" component="div">
-        Porównanie!
+      <Typography variant="subtitle1" component="div">
+        Porównaj wyniki ankiety rok do roku
       </Typography>
       <ChartSelect
         handleChange={handleChange}

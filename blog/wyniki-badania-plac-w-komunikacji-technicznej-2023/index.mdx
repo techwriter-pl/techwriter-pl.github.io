@@ -42,11 +42,13 @@ Nowe pytania to:
 Jeśli ciekawi Was co zmieniło się od 2022 roku, zapraszamy do poniższego
 podsumowania.
 
-## Pierwsze wnioski
+## Porównanie z poprzednimi latami
 
 import YearlyComparisonChart from '@site/src/components/Survey/YearlyComparison/Chart';
 
 <YearlyComparisonChart />
+
+## Pierwsze wnioski
 
 - Mamy aż 133 odpowiedzi! Bardzo nas cieszy, że tak wiele osób jest
   zainteresowanych ankietą. Ciekawe ile jest wszystkich tech writerów w kraju.
@@ -68,15 +70,13 @@ Co nas cieszy, w odpowiedziach pojawiały się też feminatywy z jednoczesnym
 spolszczeniem typu "technical writerka" co, jako znawców języka, bardzo nas
 cieszy.
 
-## Przygotowanie do zawodu, doświadczenie i rozwój
+## Przygotowanie do zawodu
 
-Większość ankietowanych nauczyło się zawodu w pracy (87%). Co ciekawe, na
-trzecim miejscu pojawił się kurs ITCQF - aż 28 osób się nim pochwaliło. To duży
-skok w porównaniu z poprzednim rokiem, kiedy ten kurs wspomniało tylko 9 osób.
+Większość ankietowanych nauczyło się zawodu w pracy (87%).
 
 import SurveyBarChart from '@site/src/components/Survey/SurveyBarChart';
 
-<SurveyBarChart {...require('./data').trainingBarChartProps} />
+<SurveyTable {...require('./data').trainingTableProps} />
 
 12 osób wybrało opcję "Inny kurs lub certyfikat", oto ich odpowiedzi:
 
@@ -89,10 +89,22 @@ import { Filter } from '@mui/icons-material';
   )}
 />
 
+### Kurs ITCQF
+
+Co ciekawe, na trzecim miejscu pojawił się kurs ITCQF - aż 28 osób się nim
+pochwaliło. To duży skok w porównaniu z poprzednim rokiem, kiedy ten kurs
+wspomniało tylko 9 osób.
+
+<SurveyTable {...require('./data').itcqfTableProps} />
+
+### Doświadczenie
+
 Jak zatem doświadczenie w zawodzie wpływa na zarobki? Jak widać poniżej, ma ono
 dość znaczący i pozytywny wpływ na to jakie otrzymujemy wynagrodzenie za pracę.
 
 <SurveyTable {...require('./data').experienceAndEarningsTableProps} />
+
+### Wykształcenie
 
 Czy wykształcenie ma wpływ na zarobki? Poniższa tabelka sugeruje po jakich
 studiach są najlepiej zarabiający spośród nas.
@@ -104,38 +116,8 @@ Wygląda na to, że:
 - Przeważają humaniści
 - Nie ma znaczącej różnicy między zarobkami osób po studiach technicznych a osób
   po studiach humanistycznych
-- Osoby o wykształceniu technicznym i humanistycznym nie zarabiają więcej
-
-| STUDIA                      | ŚREDNIA   | MEDIANA   |
-| --------------------------- | --------- | --------- |
-| Brak studiów kierunkowych   | 11 750 zł | 11 000 zł |
-| Ukończone studia kierunkowe | 9 764 zł  | 9 000 zł  |
-
-| KURS ITCQF                 | ŚREDNIA   | MEDIANA   |
-| -------------------------- | --------- | --------- |
-| Brak kursu                 | 11 541 zł | 10 500 zł |
-| Kurs ITCQF bez certyfikatu | 8 000 zł  | 8 000 zł  |
-| Kurs ITCQF z certyfikatem  | 10 886 zł | 10 700 zł |
-
-Warto zauważyć, że znacząca większość uczestników ankiety nie posiada
-wykształcenia technicznego. Szczegóły na poniższym wykresie:
-
-## Staż pracy w branży
-
-Jeżeli chodzi o staż pracy, to nadal jesteśmy młodym zawodem, choć jak pokazuje
-wykres poniżej, większość respondentów ma od 3 do 5 lat doświadczenia (31,8%).
-19,1% zadeklarowało staż pracy dłuższy niż 10 lat.
-
-Jakie jest więc odzwierciedlenie długości stażu pracy w zarobkach? Podobnie jak
-w przypadku posiadanego doświadczenia i tu widać znaczący wzrost pensji wraz z
-upływem lat pracy.
-
-| STAŻ PRACY                     | ŚREDNIA   | MEDIANA   |
-| ------------------------------ | --------- | --------- |
-| 0 – 2 lat (0 – 30 miesięcy)    | 7 641 zł  | 7 650 zł  |
-| 3 – 5 lat (31 – 66 miesięcy)   | 11 189 zł | 10 250 zł |
-| 6 – 10 lat (67 – 126 miesięcy) | 12 997 zł | 12 900 zł |
-| więcej niż 10 lat              | 15 107 zł | 13 100 zł |
+- Osoby, które mają jednocześnie wykształcenie techniczne i humanistyczne nie
+  zarabiają więcej ale jednocześnie jest to bardzo mała próbka)
 
 ## Firma, branża
 
