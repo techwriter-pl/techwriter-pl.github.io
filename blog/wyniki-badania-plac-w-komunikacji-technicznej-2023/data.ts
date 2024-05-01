@@ -133,3 +133,8 @@ export const satisfactionBarChartProps: SurveyBarChartProps = {
   title: 'Jak bardzo jesteś zadowolony/a ze swojej pracy w skali od 1 do 5?',
   totalNumberOfResponses: rawData.length,
 };
+
+export const remoteWorkPieChartProps: SurveyPieChartProps = {
+  dataset: getPieChartDataset('Czy pracujesz zdalnie?', rawData),
+  title: 'Czy pracujesz zdalnie?',
+};
