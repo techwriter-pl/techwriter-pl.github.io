@@ -1,17 +1,22 @@
 import useMediaQuery from '@mui/material/useMediaQuery';
 import { SurveyBarChartProps } from './SurveyBarChart';
-import { NumberOfPeopleAndEarnings, Question } from './types';
+import { Dataset, NumberOfPeopleAndEarnings, Question } from './types';
+import { SurveyPieChartProps } from './SurveyPieChart';
 
 export function useIsMobile() {
   return useMediaQuery('(max-width: 996px)');
 }
 
-export function currencyValueFormatter(value: number | null) {
+export function currencyFormatter(value: number | null) {
   return new Intl.NumberFormat('pl-PL', {
     style: 'currency',
     currency: 'PLN',
     maximumFractionDigits: 0,
   }).format(value);
+}
+
+export function percentageFormatter(value: number, total) {
+  return `${value} (${Math.round((value / total) * 100)}%)`;
 }
 
 export function getMedian(values: number[]): number {
@@ -78,10 +83,10 @@ export function getEarningsForMatchingAnswer(
     ) as number[];
 
   const sum = earnings.reduce((a, b) => a + b, 0);
-  const average = currencyValueFormatter(sum / earnings.length || 0);
-  const median = currencyValueFormatter(getMedian(earnings));
-  const minimum = currencyValueFormatter(Math.min(...earnings));
-  const maximum = currencyValueFormatter(Math.max(...earnings));
+  const average = currencyFormatter(sum / earnings.length || 0);
+  const median = currencyFormatter(getMedian(earnings));
+  const minimum = currencyFormatter(Math.min(...earnings));
+  const maximum = currencyFormatter(Math.max(...earnings));
 
   return {
     length: earnings.length,
@@ -123,6 +128,49 @@ export function getNumberOfPeopleAndEarnings(
   }
 
   results.sort((a, b) => (a['liczba osób'] > b['liczba osób'] ? -1 : 1));
+
+  return results;
+}
+
+export function getPieChartDataset(
+  question: Question,
+  allData: object[]
+): SurveyPieChartProps['dataset'] {
+  const allResponses = allData.map((item) => item[question]);
+  const uniqueResponses = new Set(allResponses);
+  const responsesWithCount = Array.from(uniqueResponses).map((item) => [
+    item,
+    allResponses.filter((response) => response === item).length,
+  ]);
+
+  const result = Object.fromEntries(responsesWithCount);
+
+  return result;
+}
+
+export function getEarningsForQuestion(
+  question: Question,
+  allData: object[]
+): Dataset {
+  const results: Dataset = [];
+
+  const uniqueAnswers = Array.from(
+    new Set(allData.map((response) => response[question]))
+  );
+
+  for (const answer of uniqueAnswers) {
+    const { average, median, length } = getEarningsForMatchingAnswer(
+      question,
+      answer as string,
+      allData
+    );
+    results.push({
+      [question]: answer,
+      'liczba osób': length,
+      średnia: average,
+      mediana: median,
+    });
+  }
 
   return results;
 }

@@ -1,27 +1,24 @@
-import Paper from '@mui/material/Paper';
-import Typography from '@mui/material/Typography';
-import { BarChart, BarChartProps } from '@mui/x-charts/BarChart';
-import { ResponseWithCount } from './types';
+import { BarChart } from '@mui/x-charts/BarChart';
+import ChartWrapper from './ChartWrapper';
+import { percentageFormatter } from './helpers';
+import { Question, ResponseWithCount } from './types';
 
 export type SurveyBarChartProps = {
   dataset: ResponseWithCount[];
-  question: string;
+  title: Question;
   totalNumberOfResponses: number;
 };
 
 export default function SurveyBarChart({
-  question,
+  title,
   dataset,
   totalNumberOfResponses,
 }: SurveyBarChartProps) {
   const valueFormatter = (value) =>
-    `${value} (${Math.round((value / totalNumberOfResponses) * 100)}%)`;
+    percentageFormatter(value, totalNumberOfResponses);
 
   return (
-    <Paper
-      sx={{ p: 1, my: 2, display: 'flex', flexDirection: 'column', gap: 2 }}
-    >
-      <Typography variant="subtitle1">{question}</Typography>
+    <ChartWrapper title={title}>
       <BarChart
         dataset={dataset}
         xAxis={[{ scaleType: 'band', dataKey: 'response' }]}
@@ -33,6 +30,6 @@ export default function SurveyBarChart({
         ]}
         height={500}
       />
-    </Paper>
+    </ChartWrapper>
   );
 }

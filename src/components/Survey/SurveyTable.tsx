@@ -4,7 +4,6 @@ import TableCell from '@mui/material/TableCell';
 import TableContainer from '@mui/material/TableContainer';
 import TableHead from '@mui/material/TableHead';
 import TableRow from '@mui/material/TableRow';
-import Typography from '@mui/material/Typography';
 import ChartWrapper from './ChartWrapper';
 import SurveyAnswerList from './SurveyAnswerList';
 import { useIsMobile } from './helpers';
@@ -12,19 +11,18 @@ import { Dataset, Question } from './types';
 
 export type SurveyTableProps = {
   dataset: Dataset;
-  question: Question;
+  title: Question;
 };
 
-export default function SurveyTable({ dataset, question }: SurveyTableProps) {
+export default function SurveyTable({ dataset, title }: SurveyTableProps) {
   const isMobile = useIsMobile();
 
   if (isMobile) {
-    return <SurveyAnswerList data={dataset} question={question} />;
+    return <SurveyAnswerList data={dataset} title={title} />;
   }
 
   return (
-    <TableContainer component={ChartWrapper}>
-      <Typography variant="subtitle1">{question}</Typography>
+    <TableContainer component={ChartWrapper} title={title}>
       <Table
         sx={{ minWidth: 650 }}
         aria-label="tabela ze statystyką dotyczącą pytania"

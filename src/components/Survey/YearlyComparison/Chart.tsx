@@ -4,9 +4,10 @@ import Stack from '@mui/material/Stack';
 import Typography from '@mui/material/Typography';
 import { BarChart } from '@mui/x-charts/BarChart';
 import { useState } from 'react';
-import { currencyValueFormatter } from '../helpers';
+import { currencyFormatter } from '../helpers';
 import ChartSelect from './ChartSelect';
 import { yearlyStats } from './data';
+import ChartWrapper from '../ChartWrapper';
 
 export default function YearlyComparisonChart() {
   const questions = Object.keys(yearlyStats);
@@ -17,16 +18,7 @@ export default function YearlyComparisonChart() {
   };
 
   return (
-    <Stack
-      sx={{
-        py: 2,
-        flexDirection: 'column',
-        gap: 2,
-      }}
-    >
-      <Typography variant="subtitle1" component="div">
-        Porównaj wyniki ankiety rok do roku
-      </Typography>
+    <ChartWrapper title="Porównaj wyniki ankiety rok do roku">
       <ChartSelect
         handleChange={handleChange}
         selectedValue={selectedQuestion}
@@ -46,11 +38,11 @@ export default function YearlyComparisonChart() {
             valueFormatter:
               questions.indexOf(selectedQuestion) === 0
                 ? undefined
-                : currencyValueFormatter,
+                : currencyFormatter,
           },
         ]}
         height={400}
       />
-    </Stack>
+    </ChartWrapper>
   );
 }

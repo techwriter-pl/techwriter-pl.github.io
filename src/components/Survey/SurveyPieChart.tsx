@@ -1,31 +1,46 @@
-import { PieChart } from '@mui/x-charts/PieChart';
-import { NumericQuestion } from './types';
+import { PieChart, pieArcLabelClasses } from '@mui/x-charts/PieChart';
+import ChartWrapper from './ChartWrapper';
+import { percentageFormatter } from './helpers';
+import { NumericQuestion as NumericDataset, Question } from './types';
 
-type SurveyPieChartProps = {
-  data: NumericQuestion;
+export type SurveyPieChartProps = {
+  dataset: NumericDataset;
+  title: Question;
+  hideArcLabels?: boolean;
 };
 
-export default function SurveyPieChart({ data }: SurveyPieChartProps) {
+export default function SurveyPieChart({
+  dataset,
+  title,
+  hideArcLabels,
+}: SurveyPieChartProps) {
+  const total = Object.values(dataset).reduce(
+    (accumulator, currentValue) => accumulator + currentValue,
+    0
+  );
   return (
-    <PieChart
-      series={[
-        {
-          data: Object.entries(data).map(([label, value], index) => ({
-            id: index,
-            label,
-            value,
-          })),
-          innerRadius: 30,
-          outerRadius: 100,
-          paddingAngle: 5,
-          cornerRadius: 5,
-          startAngle: -90,
-          endAngle: 180,
-          cx: 150,
-          cy: 150,
-        },
-      ]}
-      height={200}
-    />
+    <ChartWrapper title={title}>
+      <PieChart
+        series={[
+          {
+            data: Object.entries(dataset).map(([label, value], index) => ({
+              id: index,
+              label,
+              value,
+            })),
+            arcLabel: hideArcLabels
+              ? undefined
+              : (item) => percentageFormatter(item.value, total),
+          },
+        ]}
+        height={300}
+        sx={{
+          [`& .${pieArcLabelClasses.root}`]: {
+            fill: 'white',
+            fontWeight: 'bold',
+          },
+        }}
+      />
+    </ChartWrapper>
   );
 }

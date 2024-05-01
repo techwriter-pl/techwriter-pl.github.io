@@ -12,6 +12,13 @@ tags:
 coverImage: ''
 ---
 
+import YearlyComparisonChart from '@site/src/components/Survey/YearlyComparison/Chart';
+import SurveyTable from '@site/src/components/Survey/SurveyTable';
+import SurveyBarChart from '@site/src/components/Survey/SurveyBarChart';
+import SurveyBulletedList from '@site/src/components/Survey/SurveyBulletedList';
+import SurveyPieChart from '@site/src/components/Survey/SurveyPieChart';
+import { companySizeTableProps } from './data';
+
 Najwyższa pora, by opublikować wyniki corocznej ankiety dotyczącej płac w
 komunikacji technicznej. Szczegóły poniżej.
 
@@ -44,8 +51,6 @@ podsumowania.
 
 ## Porównanie z poprzednimi latami
 
-import YearlyComparisonChart from '@site/src/components/Survey/YearlyComparison/Chart';
-
 <YearlyComparisonChart />
 
 ## Pierwsze wnioski
@@ -56,8 +61,6 @@ import YearlyComparisonChart from '@site/src/components/Survey/YearlyComparison/
 - Zarobki nadal mają tendencję wzrostową, co nas bardzo cieszy.
 
 ## Profesje
-
-import SurveyTable from '@site/src/components/Survey/SurveyTable';
 
 <SurveyTable {...require('./data').professionalTitlesNumbersTableProps} />
 
@@ -74,14 +77,9 @@ cieszy.
 
 Większość ankietowanych nauczyło się zawodu w pracy (87%).
 
-import SurveyBarChart from '@site/src/components/Survey/SurveyBarChart';
-
 <SurveyTable {...require('./data').trainingTableProps} />
 
 12 osób wybrało opcję "Inny kurs lub certyfikat", oto ich odpowiedzi:
-
-import SurveyBulletedList from '@site/src/components/Survey/SurveyBulletedList';
-import { Filter } from '@mui/icons-material';
 
 <SurveyBulletedList
   entries={require('./data').trainingBarChartDataset.filter(
@@ -121,20 +119,22 @@ Wygląda na to, że:
 
 ## Firma, branża
 
-90,9% z pośród uczestników ankiety pracuje w firmie międzynarodowej, a 9,1% w
-firmie polskiej.
+<SurveyPieChart {...require('./data').companyTypePieChartProps} />
 
-Poniżej odzwierciedlenie tego czynnika w wynagrodzeniu:
+Ogromna większość uczestników ankiety pracuje w firmie międzynarodowej, bo aż
+86%. Ten podział ma też odzwierciedlenie w wysokości zarobków i są one trochę
+wyższe w firmach zagranicznych.
 
-| RODZAJ FIRMY         | ŚREDNIA   | MEDIANA   |
-| -------------------- | --------- | --------- |
-| Firma międzynarodowa | 11 593 zł | 10 700 zł |
-| Firma polska         | 10 145 zł | 8 225 zł  |
+<SurveyTable {...require('./data').companyTableProps} />
+
+<SurveyPieChart {...require('./data').companySizePieChartProps} />
 
 Jak pokazuje powyższy wykres, większość z nas pracuje w dużych firmach, w
 których jest ponad 1000 pracowników (58,2%). Tylko jedna osoba zadeklarowała
 pracę jako freelancer. Również w tym roku nikt nie zaznaczył przedziału 2-10
 osób. Jak te dane wpływają na zarobki? Oto wyniki:
+
+<SurveyTable {...require('./data').companySizeTableProps} />
 
 | WIELKOŚĆ FIRMY  | ŚREDNIA   | MEDIANA   |
 | --------------- | --------- | --------- |
