@@ -27,6 +27,13 @@ function getDisplayLabel(label: string) {
   }
 }
 
+function zlotyToNumber(zlotyString: string) {
+  const cleanedUpString = zlotyString.replace(/[^0-9]/g, '');
+  const valueAsNumber = parseInt(cleanedUpString);
+
+  return valueAsNumber;
+}
+
 export default function SurveyTable({ dataset, title }: SurveyTableProps) {
   const isMobile = useIsMobile();
   const [sortSettings, setSortSettings] = useState({
@@ -43,20 +50,22 @@ export default function SurveyTable({ dataset, title }: SurveyTableProps) {
   }
 
   useEffect(() => {
+    // pensjonatus: I apologize for this sort function
     const copyOfDataset = [...dataset];
-    // copyOfDataset.sort((a, b) =>
-    //   (a[sortSettings.sortLabel] as string).localeCompare(
-    //     b[sortSettings.sortLabel] as string
-    //   )
-    //     ? -1
-    //     : 1
-    // );
     copyOfDataset.sort((a, b) => {
       const aValue = a[sortSettings.sortLabel];
       const bValue = b[sortSettings.sortLabel];
       const multiplier = sortSettings.sortDescending ? 1 : -1;
       const numericCompare = (left, right) =>
         (left > right ? -1 : 1) * multiplier;
+
+      if (
+        typeof aValue === 'string' &&
+        typeof bValue === 'string' &&
+        aValue.endsWith('zł')
+      ) {
+        return numericCompare(zlotyToNumber(aValue), zlotyToNumber(bValue));
+      }
 
       return numericCompare(aValue, bValue);
     });
