@@ -12,14 +12,12 @@ import rawData from './rawData.json';
 // At the time of creating this data set, there is not proper support for Typescript in .mdx
 // so using a .ts file helps us catch type errors
 
-const professionalTitlesNumbers = getNumberOfPeopleAndEarnings(
-  'Który opis najbardziej pasuje do wykonywanej przez Ciebie pracy?',
-  rawData,
-  'opis stanowiska'
-);
-
 export const professionalTitlesNumbersTableProps: SurveyTableProps = {
-  dataset: professionalTitlesNumbers,
+  dataset: getNumberOfPeopleAndEarnings(
+    'Który opis najbardziej pasuje do wykonywanej przez Ciebie pracy?',
+    rawData,
+    'opis stanowiska'
+  ),
   title: 'Który opis najbardziej pasuje do wykonywanej przez Ciebie pracy?',
 };
 
@@ -45,23 +43,19 @@ export const trainingTableProps: SurveyTableProps = {
   title: 'Jakie masz przygotowanie do pracy w branży?',
 };
 
-const experienceAndEarnings = getEarningsForQuestion(
-  'Ile wynosi Twój staż pracy w branży komunikacji technicznej?',
-  rawData
-);
-
 export const experienceAndEarningsTableProps: SurveyTableProps = {
-  dataset: experienceAndEarnings,
+  dataset: getEarningsForQuestion(
+    'Ile wynosi Twój staż pracy w branży komunikacji technicznej?',
+    rawData
+  ),
   title: 'Ile wynosi Twój staż pracy w branży komunikacji technicznej?',
 };
 
-const educationEarnings = getEarningsForQuestion(
-  'Jakie jest Twoje główne wykształcenie?',
-  rawData
-);
-
 export const educationEarningsTableProps: SurveyTableProps = {
-  dataset: educationEarnings,
+  dataset: getEarningsForQuestion(
+    'Jakie jest Twoje główne wykształcenie?',
+    rawData
+  ),
   title: 'Jakie jest Twoje główne wykształcenie?',
 };
 
