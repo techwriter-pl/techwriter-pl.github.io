@@ -4,7 +4,9 @@ import TableCell from '@mui/material/TableCell';
 import TableContainer from '@mui/material/TableContainer';
 import TableHead from '@mui/material/TableHead';
 import TableRow from '@mui/material/TableRow';
+import { useEffect, useState } from 'react';
 import ChartWrapper from './ChartWrapper';
+import ColumnSortButton from './ColumnSortButton';
 import SurveyAnswerList from './SurveyAnswerList';
 import { useIsMobile } from './helpers';
 import { Dataset, Question } from './types';
@@ -27,9 +29,42 @@ function getDisplayLabel(label: string) {
 
 export default function SurveyTable({ dataset, title }: SurveyTableProps) {
   const isMobile = useIsMobile();
+  const [sortSettings, setSortSettings] = useState({
+    sortLabel: undefined,
+    sortDescending: true,
+  });
+  const [dataToDisplay, setDataToDisplay] = useState(dataset);
+
+  function handleSort(label: string) {
+    setSortSettings((currentSortSettings) => ({
+      sortLabel: label,
+      sortDescending: !currentSortSettings.sortDescending,
+    }));
+  }
+
+  useEffect(() => {
+    const copyOfDataset = [...dataset];
+    // copyOfDataset.sort((a, b) =>
+    //   (a[sortSettings.sortLabel] as string).localeCompare(
+    //     b[sortSettings.sortLabel] as string
+    //   )
+    //     ? -1
+    //     : 1
+    // );
+    copyOfDataset.sort((a, b) => {
+      const aValue = a[sortSettings.sortLabel];
+      const bValue = b[sortSettings.sortLabel];
+      const multiplier = sortSettings.sortDescending ? 1 : -1;
+      const numericCompare = (left, right) =>
+        (left > right ? -1 : 1) * multiplier;
+
+      return numericCompare(aValue, bValue);
+    });
+    setDataToDisplay(copyOfDataset);
+  }, [sortSettings]);
 
   if (isMobile) {
-    return <SurveyAnswerList data={dataset} title={title} />;
+    return <SurveyAnswerList data={dataToDisplay} title={title} />;
   }
 
   return (
@@ -41,15 +76,20 @@ export default function SurveyTable({ dataset, title }: SurveyTableProps) {
       >
         <TableHead>
           <TableRow>
-            {Object.keys(dataset[0]).map((label, headerItemIndex) => (
+            {Object.keys(dataToDisplay[0]).map((label, headerItemIndex) => (
               <TableCell key={headerItemIndex}>
-                {getDisplayLabel(label)}
+                <ColumnSortButton
+                  label={getDisplayLabel(label)}
+                  isActive={sortSettings.sortLabel === label}
+                  isSortingDescending={sortSettings.sortDescending}
+                  onClick={handleSort}
+                />
               </TableCell>
             ))}
           </TableRow>
         </TableHead>
         <TableBody>
-          {dataset.map((row, rowIndex) => (
+          {dataToDisplay.map((row, rowIndex) => (
             <TableRow key={rowIndex}>
               {Object.values(row).map((value, cellIndex) => (
                 <TableCell key={cellIndex}>{value}</TableCell>
