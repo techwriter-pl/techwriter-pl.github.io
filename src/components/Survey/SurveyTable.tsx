@@ -14,6 +14,17 @@ export type SurveyTableProps = {
   title: Question;
 };
 
+function getDisplayLabel(label: string) {
+  switch (label) {
+    case 'response':
+      return 'Odpowiedź';
+    case 'count':
+      return 'Liczba osób';
+    default:
+      return label;
+  }
+}
+
 export default function SurveyTable({ dataset, title }: SurveyTableProps) {
   const isMobile = useIsMobile();
 
@@ -31,7 +42,9 @@ export default function SurveyTable({ dataset, title }: SurveyTableProps) {
         <TableHead>
           <TableRow>
             {Object.keys(dataset[0]).map((label, headerItemIndex) => (
-              <TableCell key={headerItemIndex}>{label}</TableCell>
+              <TableCell key={headerItemIndex}>
+                {getDisplayLabel(label)}
+              </TableCell>
             ))}
           </TableRow>
         </TableHead>

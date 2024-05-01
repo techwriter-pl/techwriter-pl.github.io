@@ -117,75 +117,66 @@ Wygląda na to, że:
 - Osoby, które mają jednocześnie wykształcenie techniczne i humanistyczne nie
   zarabiają więcej ale jednocześnie jest to bardzo mała próbka)
 
-## Firma, branża
+## Firma
 
 <SurveyPieChart {...require('./data').companyTypePieChartProps} />
 
 Ogromna większość uczestników ankiety pracuje w firmie międzynarodowej, bo aż
-86%. Ten podział ma też odzwierciedlenie w wysokości zarobków i są one trochę
-wyższe w firmach zagranicznych.
+86%. Ten podział ma odzwierciedlenie w wysokości zarobków i są one trochę wyższe
+w firmach zagranicznych.
 
 <SurveyTable {...require('./data').companyTableProps} />
 
 <SurveyPieChart {...require('./data').companySizePieChartProps} />
 
-Jak pokazuje powyższy wykres, większość z nas pracuje w dużych firmach, w
-których jest ponad 1000 pracowników (58,2%). Tylko jedna osoba zadeklarowała
-pracę jako freelancer. Również w tym roku nikt nie zaznaczył przedziału 2-10
-osób. Jak te dane wpływają na zarobki? Oto wyniki:
+Jak pokazuje powyższy wykres, większość (choć nieznaczna) z nas pracuje w dużych
+firmach, w których jest ponad 1000 pracowników.
+
+Jak te dane wpływają na zarobki? Oto wyniki:
 
 <SurveyTable {...require('./data').companySizeTableProps} />
 
-| WIELKOŚĆ FIRMY  | ŚREDNIA   | MEDIANA   |
-| --------------- | --------- | --------- |
-| Freelance       | 9 442 zł  | 9 442 zł  |
-| 11-100 osób     | 10 567 zł | 10 250 zł |
-| 101 – 1000 osób | 10 999 zł | 8 500 zł  |
-| ponad 1000 osób | 11 946 zł | 11 600 zł |
+Wygląda na to, że najlepiej zarabia się w firmach od 11 do 100 osób, a więc
+raczej małych.
 
-W tym roku zadaliśmy Wam także dwa nowe pytania. Celem pierwszego było
-określenie najpopularniejszego typu umowy jaki obowiązuje w branży. Ponad 85% z
-ankietowanych zadeklarowało pracę na etacie.
+## Rodzaj umowy
 
-Drugie pytanie dotyczyło korzystania z autorskich kosztów uzyskania przychodu.
-Formę tę wybrało blisko 45% ankietowanych.
+<SurveyTable {...require('./data').contractTypeTableProps} />
 
-Ostatnie pytanie z działu _Firma, branża_ dotyczyło rodzaju dokumentacji jaką
-tworzycie. Wciąż najpopularniejsza jest dokumentacja związana z oprogramowaniem.
+W tym roku nadal najpopularniejsza jest umowa o pracę, chociaż na umowie B2B
+zarabiacie **znacznie** więcej brutto.
+
+Czy macie możliwość rozliczania tzw.
+["autorskich kosztów uzyskania przychodu"](https://www.e-pity.pl/autorskie-koszty-uzyskania-przychodu/)?
+W tym roku 44% ankietowanych zadeklarowało "tak".
+
+<SurveyPieChart {...require('./data').taxBreakPieChartProps} />
+
+## Typ dokumentacji
+
+Jeśli chodzi o rodzaj tworzonej dokumentacji, to zdecydowania większość tworzy
+dokumentację do oprogramowania. W tabeli poniżej wymieniamy wszystkie Wasze
+odpowiedzi.
+
+<SurveyTable {...require('./data').documentationTypeChartProps} />
 
 ## Geografia
 
 Podobnie jak w zeszłym roku najwięcej uczestników ankiety pochodzi z województw:
 małopolskiego, dolnośląskiego i śląskiego.
 
-| WOJEWÓDZTWO        | LICZBA ANKIETOWANYCH |
-| ------------------ | -------------------- |
-| małopolskie        | 44                   |
-| dolnośląskie       | 26                   |
-| mazowieckie        | 12                   |
-| śląskie            | 9                    |
-| łódzkie            | 5                    |
-| pomorskie          | 3                    |
-| praca za granicą   | 3                    |
-| podlaskie          | 2                    |
-| podkarpackie       | 2                    |
-| wielkopolskie      | 1                    |
-| lubelskie          | 1                    |
-| świętokrzyskie     | 1                    |
-| zachodniopomorskie | 1                    |
-
-Osoba deklarująca najwyższe zarobki (31 000 zł) pochodzi z województwa
-małopolskiego. Najwyższe średnie zarobki (14 333 zł) oraz medianę (13 000 zł)
-plasują się nadal w województwie pomorskim.
+<SurveyTable {...require('./data').regionEarnings} />
 
 ## Zadowolenie
 
 Pytaliśmy też o to, jak bardzo jesteś zadowolony/a ze swojej pracy w skali od 1
 (bardzo nie lubię swojej pracy) do 5 (kocham swoją pracę). Jaki był wynik?
 
+<SurveyBarChart {...require('./data').satisfactionBarChartProps} />
+
 Odpowiedzi ankietowanych pokazują, że ich poziom zadowolenia z pracy jest nadal
-na wysokim poziomie. Najczęściej wybieraną oceną była czwórka. Ponownie tylko
-jedna osoba jest bardzo niezadowolona, a dwie dały ocenę 2.
+na wysokim poziomie. Najczęściej wybieraną oceną była czwórka. Tylko jedna osoba
+jest bardzo niezadowolona, a dwie dały ocenę 2.
 
 ## Tożsamość płciowa
 

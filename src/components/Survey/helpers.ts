@@ -1,7 +1,13 @@
 import useMediaQuery from '@mui/material/useMediaQuery';
 import { SurveyBarChartProps } from './SurveyBarChart';
-import { Dataset, NumberOfPeopleAndEarnings, Question } from './types';
+import {
+  Dataset,
+  NumberOfPeopleAndEarnings,
+  Question,
+  ResponseWithCount,
+} from './types';
 import { SurveyPieChartProps } from './SurveyPieChart';
+import { SurveyTableProps } from './SurveyTable';
 
 export function useIsMobile() {
   return useMediaQuery('(max-width: 996px)');
@@ -35,34 +41,57 @@ export function getMedian(values: number[]): number {
     : (values[half - 1] + values[half]) / 2;
 }
 
-export function getBarChartDataForQuestionWithCommaSeparatedValues(
-  question: Question,
-  allData: object[]
+type SortFunction = (a: ResponseWithCount, b: ResponseWithCount) => number;
+
+function getSurveyBarChartDataset(
+  allResponses: string[],
+  customSortFunction?: SortFunction
 ): SurveyBarChartProps['dataset'] {
   const results: SurveyBarChartProps['dataset'] = [];
 
-  for (const value of allData.map((response) => response[question])) {
-    const subValues = (value as string).split(',');
-    for (const subValue of subValues) {
-      const cleanSubValue = subValue.trim();
-      const matchingResultValue = results.find(
-        (existing) => existing['response'] === cleanSubValue
-      );
-      if (matchingResultValue) {
-        matchingResultValue['count'] =
-          (matchingResultValue['count'] as number) + 1;
-      } else {
-        results.push({
-          response: cleanSubValue,
-          count: 1,
-        });
-      }
+  for (const response of allResponses) {
+    const matchingResultValue = results.find(
+      (existing) => existing['response'] === response
+    );
+
+    if (matchingResultValue) {
+      matchingResultValue['count'] =
+        (matchingResultValue['count'] as number) + 1;
+    } else {
+      results.push({
+        response,
+        count: 1,
+      });
     }
   }
 
-  results.sort((a, b) => (a.count > b.count ? -1 : 1));
+  if (customSortFunction) {
+    results.sort(customSortFunction);
+  } else {
+    results.sort((a, b) => (a.count > b.count ? -1 : 1));
+  }
 
   return results;
+}
+
+export function getBarChartDataForQuestion(
+  question: Question,
+  allData: object[],
+  commaSeparatedSubValues?: boolean,
+  customSortFunction?: SortFunction
+): SurveyBarChartProps['dataset'] {
+  const allResponses = allData.map((response) => response[question]);
+
+  if (!commaSeparatedSubValues) {
+    return getSurveyBarChartDataset(allResponses, customSortFunction);
+  }
+
+  const allSubResponses = allResponses
+    .map((subValue) => subValue.split(','))
+    .flat()
+    .map((item) => item.trim());
+
+  return getSurveyBarChartDataset(allSubResponses, customSortFunction);
 }
 
 export function getEarningsForMatchingAnswer(
@@ -171,6 +200,8 @@ export function getEarningsForQuestion(
       mediana: median,
     });
   }
+
+  results.sort((a, b) => (a['liczba osób'] > b['liczba osób'] ? -1 : 1));
 
   return results;
 }
