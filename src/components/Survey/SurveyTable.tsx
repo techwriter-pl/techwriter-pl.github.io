@@ -38,7 +38,7 @@ export default function SurveyTable({ dataset, title }: SurveyTableProps) {
   const isMobile = useIsMobile();
   const [sortSettings, setSortSettings] = useState({
     sortLabel: undefined,
-    sortDescending: true,
+    sortDescending: false,
   });
   const [dataToDisplay, setDataToDisplay] = useState(dataset);
 
