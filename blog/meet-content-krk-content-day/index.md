@@ -33,12 +33,16 @@ swoich sił przed publicznością.
 Jeżeli masz w głowie temat, którym chcesz się podzielić, wypełnij 
 nasz [formularz](https://forms.gle/QCsjfx57XKqh1KLe8).
 
-## Kiedy i gdzie
+### Kiedy i gdzie
 
 **Data**: 08.06.2024 <br /> **Miejsce**: Collegium
 Paderevianum, al. Mickiewicza 9, Kraków
 
 Dokładne informacje podamy wraz z agendą spotkania.
+
+### Słowo o sponsorach
+
+#ContentDay sponsorują [Apify](https://apify.com/) oraz [Box](https://www.box.com).
 
 ## Poznaj MeetContentKRK
 
@@ -72,5 +76,6 @@ zrobić pisząc na adres contact@meetcontent.org lub wysyłając wiadomość na
 [Slacku](https://meetcontent.slack.com/).
 
 P: Spóźniłem/am się na wydarzenie i nie mogę wejść. Jak powiadomić
-organizatorów? <br /> O: Możesz napisać do nas na Slacku.
+organizatorów?
+O: Możesz napisać do nas na Slacku.
 Podczas każdego wydarzenia, przez pierwsze 30 minut od rozpoczęcia na bieżąco sprawdzamy wiadomości na naszym kanale .
