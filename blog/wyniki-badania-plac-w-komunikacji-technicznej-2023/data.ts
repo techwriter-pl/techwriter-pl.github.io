@@ -51,6 +51,14 @@ export const experienceAndEarningsTableProps: SurveyTableProps = {
   title: 'Ile wynosi Twój staż pracy w branży komunikacji technicznej?',
 };
 
+export const satisfactionAndEarningsTableProps: SurveyTableProps = {
+  dataset: getEarningsForQuestion(
+    'Jak bardzo jesteś zadowolony/a ze swojej pracy w skali od 1 do 5?',
+    rawData
+  ),
+  title:  'Jak bardzo jesteś zadowolony/a ze swojej pracy w skali od 1 do 5?'
+}
+
 export const educationEarningsTableProps: SurveyTableProps = {
   dataset: getEarningsForQuestion(
     'Jakie jest Twoje główne wykształcenie?',
