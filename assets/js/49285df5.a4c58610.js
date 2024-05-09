@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[39075],{7057:e=>{e.exports=JSON.parse('{"permalink":"/tags/news/page/40","page":40,"postsPerPage":3,"totalPages":90,"totalCount":268,"previousPage":"/tags/news/page/39","nextPage":"/tags/news/page/41","blogDescription":"Blog","blogTitle":"Blog"}')}}]);
