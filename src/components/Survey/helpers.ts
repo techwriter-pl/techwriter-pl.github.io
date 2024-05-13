@@ -1,16 +1,15 @@
 import useMediaQuery from '@mui/material/useMediaQuery';
 import { SurveyBarChartProps } from './SurveyBarChart';
+import { SurveyPieChartProps } from './SurveyPieChart';
 import {
   Dataset,
   NumberOfPeopleAndEarnings,
   Question,
   ResponseWithCount,
 } from './types';
-import { SurveyPieChartProps } from './SurveyPieChart';
-import { SurveyTableProps } from './SurveyTable';
 
 export function useIsMobile() {
-  return useMediaQuery('(max-width: 996px)');
+  return useMediaQuery('(max-width: 1445px)');
 }
 
 export function currencyFormatter(value: number | null) {
@@ -18,6 +17,7 @@ export function currencyFormatter(value: number | null) {
     style: 'currency',
     currency: 'PLN',
     maximumFractionDigits: 0,
+    useGrouping: true,
   }).format(value);
 }
 

@@ -78,11 +78,7 @@ export default function SurveyTable({ dataset, title }: SurveyTableProps) {
 
   return (
     <TableContainer component={ChartWrapper} title={title}>
-      <Table
-        sx={{ minWidth: 650 }}
-        aria-label="tabela ze statystyką dotyczącą pytania"
-        size="small"
-      >
+      <Table aria-label="tabela ze statystyką dotyczącą pytania" size="small">
         <TableHead>
           <TableRow>
             {Object.keys(dataToDisplay[0]).map((label, headerItemIndex) => (
