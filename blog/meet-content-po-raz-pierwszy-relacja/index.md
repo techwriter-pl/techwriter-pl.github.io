@@ -46,7 +46,7 @@ informacji. Agenda przedstawiała się następująco:
 - [Dlaczego powinniśmy to robić?](#agenda2)
 - [Jak to robić?](#agenda3)
 
-### Czym jest testowanie użyteczności?
+### Czym jest testowanie użyteczności? {#agenda1}
 
 Mówiąc prosto, testowanie użyteczności polega na obserwowaniu użytkowników,
 którzy starają się używać produktu i myślą przy tym na głos. Abyśmy mogli lepiej
@@ -56,7 +56,7 @@ robię". Krótko, zwięźle i na temat.
 
 ![](images/meetcontent1_2.jpg)
 
-### Dlaczego powinniśmy to robić?
+### Dlaczego powinniśmy to robić? {#agenda2}
 
 Przede wszystkim dlatego, że sami nie jesteśmy użytkownikami i nie myślimy jak
 oni, przez co nie jesteśmy w stanie zidentyfikować problemów z jakimi się
@@ -90,7 +90,7 @@ kodował niż testował. Jednak może być to zgubne podejście, ponieważ zmian
 oprogramowania, które jest już dostępne na rynku jest dużo bardziej kosztowna
 niż zrobienie tego we wczesnej fazie jego rozwoju.
 
-### Jak to robić?
+### Jak to robić? {#agenda3}
 
 W ostatniej części prezentacji, prowadząca dała nam kilka wskazówek jak zabrać
 się za testowanie użyteczności.

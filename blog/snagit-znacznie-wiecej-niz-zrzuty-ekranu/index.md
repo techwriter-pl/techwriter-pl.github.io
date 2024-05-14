@@ -177,7 +177,7 @@ problemu, którego większość użytkowników może nie dostrzegać. Aktualizac
 skutkuje ułatwieniem pracy i usprawnieniem działania. Czasem potrzeba trochę
 czasu, by pokonać wcześniejsze przyzwyczajenia, ale warto się przekonać.
 
-##### Autofill – automatyczne wypełnianie
+##### Autofill – automatyczne wypełnianie {#Snagit2020-max}
 
 Tu również mamy genialne usprawnienie. Powiedzmy, że edytujesz interfejs
 użytkownika na obrazku i wycinasz przycisk. Pozostaje przezroczysty obszar, po

@@ -20,16 +20,16 @@ pierwszej ręki.
 <!--truncate-->
 
 Konferencja rozpoczęła się w niedzielę (2 kwietnia). W ten dzień można było się
-zarejestrować, odwiedzić ekspertów od produktów MadCap
-w [Hospitality Lounge](#hospitality_lounge) i wziąć udział w przyjęciu
-powitalnym. W poniedziałek i wtorek (3-4 kwietnia) miały miejsce prezentacje. W
-ciągu tych dwóch dni również można było porozmawiać z ekspertami w Hospitality
-Lounge. Każdy dzień zakończony był imprezą. Środa (5 kwietnia) była przeznaczona
-dla osób, które wykupiły osobną wejściówkę na warsztaty. Ten dzień zakończył się
-krótkim spotkaniem przy piwie (lub czymś mocniejszym). Organizacja wydarzenia
-stała na wysokim poziomie. Proces rejestracji przebiegł bardzo sprawnie i po
-kilku minutach mogliśmy się już cieszyć naszym pakietem rejestracyjnym, w którym
-można było znaleźć m.in. koszulkę oraz kubek termiczny.
+zarejestrować, odwiedzić ekspertów od produktów MadCap w Hospitality Lounge i
+wziąć udział w przyjęciu powitalnym. W poniedziałek i wtorek (3-4 kwietnia)
+miały miejsce prezentacje. W ciągu tych dwóch dni również można było porozmawiać
+z ekspertami w Hospitality Lounge. Każdy dzień zakończony był imprezą. Środa (5
+kwietnia) była przeznaczona dla osób, które wykupiły osobną wejściówkę na
+warsztaty. Ten dzień zakończył się krótkim spotkaniem przy piwie (lub czymś
+mocniejszym). Organizacja wydarzenia stała na wysokim poziomie. Proces
+rejestracji przebiegł bardzo sprawnie i po kilku minutach mogliśmy się już
+cieszyć naszym pakietem rejestracyjnym, w którym można było znaleźć m.in.
+koszulkę oraz kubek termiczny.
 
 ![](images/IMG_20170402_160115-768x1024.jpg)
 
@@ -68,10 +68,10 @@ posunięcie ze strony organizatorów.
 
 Każdy z dwóch dni prezentacji oferował uczestnikom 5 sesji, z której każda miała
 4 wątki (tracks), dlatego czasami ciężko było się zdecydować, który wybrać.
-Pomocna tutaj była [prezentacja otwierająca](#otwarcie), podczas której
-poznaliśmy bliżej tematy prelekcji. Oprócz tego mogliśmy się posiłkować
-harmonogramem, w którym przy każdej prezentacji była informacja o jej poziomie
-zaawansowania i o narzędziu lub dziedzinie, której dotyczyła.
+Pomocna tutaj była prezentacja otwierająca, podczas której poznaliśmy bliżej
+tematy prelekcji. Oprócz tego mogliśmy się posiłkować harmonogramem, w którym
+przy każdej prezentacji była informacja o jej poziomie zaawansowania i o
+narzędziu lub dziedzinie, której dotyczyła.
 
 Pierwsza prezentacja, w której uczestniczyliśmy nosiła tytuł **Maximizing Re-use
 within MadCap Flare**. Poprowadził ją
