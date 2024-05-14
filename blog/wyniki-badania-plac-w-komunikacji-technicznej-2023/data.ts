@@ -82,8 +82,7 @@ export const companyTableProps: SurveyTableProps = {
 
 export const companySizePieChartProps: SurveyPieChartProps = {
   dataset: getPieChartDataset('Jak duża jest Twoja firma?', rawData),
-  title: 'Jak duża jest Twoja firma?',
-  hideArcLabels: true,
+  title: 'Jak duża jest Twoja firma?'
 };
 
 export const companySizeTableProps: SurveyTableProps = {
