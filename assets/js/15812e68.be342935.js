@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[68822],{14379:e=>{e.exports=JSON.parse('{"label":"snippet reuse","permalink":"/tags/snippet-reuse","allTagsPath":"/tags","count":1,"unlisted":false}')}}]);

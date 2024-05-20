@@ -4,10 +4,91 @@
         <title>techwriter.pl Blog</title>
         <link>https://techwriter.pl/</link>
         <description>techwriter.pl Blog</description>
-        <lastBuildDate>Wed, 15 May 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 May 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>pl</language>
+        <item>
+            <title><![CDATA[MeetContentWRO kwiecień 2024 - Relacja]]></title>
+            <link>https://techwriter.pl/meet-content-wro-kwiecien-2024-relacja</link>
+            <guid>https://techwriter.pl/meet-content-wro-kwiecien-2024-relacja</guid>
+            <pubDate>Mon, 20 May 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[W kwietniu MeetContentWRO gościł w Ocado Technology. W tym nowoczesnym biurze w centrum Wrocławia spotkaliśmy się  już drugi raz.]]></description>
+            <content:encoded><![CDATA[<p>W kwietniu MeetContentWRO gościł w Ocado Technology. W tym nowoczesnym biurze w centrum Wrocławia spotkaliśmy się  już drugi raz.</p>
+<p>Na ocadowskiej scenie wystąpiła dwójka pracowników firmy:</p>
+<ul>
+<li><a href="https://www.linkedin.com/in/monika-mrozek/" target="_blank" rel="noopener noreferrer">Monika Mrozek</a>, Lead Technical Writer, z prezentacją <em>To commit or not to commit: Reflection on estimation</em>, oraz</li>
+<li><a href="https://www.linkedin.com/in/pawel-martin/" target="_blank" rel="noopener noreferrer">Paweł Martin</a>, Technical Writer, z wystąpieniem <em>Hats, snakes, and portals or: How to DITA without DITA</em></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="saiit">SAiIT<a href="https://techwriter.pl/meet-content-wro-kwiecien-2024-relacja#saiit" class="hash-link" aria-label="Bezpośredni link do SAiIT" title="Bezpośredni link do SAiIT">​</a></h2>
+<p>Jednak zanim zaczęły się prezentacje, wystąpił <a href="https://www.linkedin.com/in/%C5%82ukasz-rybka-364a81190/" target="_blank" rel="noopener noreferrer">Łukasz Rybka</a> i zaprezentował inicjatywę utworzenia <strong>Stowarzyszenia Autorów i Ilustratorów Technicznych</strong>.</p>
+<p>Stowarzyszenie ma na celu między innymi rejestrację zawodów z dziedziny komunikacji technicznej w GUS i ZUS czy też opracowanie założeń, wymagań i standardów zawodowych.</p>
+<p>O rozwoju <a href="https://www.linkedin.com/in/saiit-polska-03a008308/" target="_blank" rel="noopener noreferrer">SAiIT</a> możecie już teraz przeczytać na LinkedIn.</p>
+<p>Niedługo z pewnością napiszemy więcej o tej inicjatywie na łamach TechWriterPL.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="estymacja">Estymacja<a href="https://techwriter.pl/meet-content-wro-kwiecien-2024-relacja#estymacja" class="hash-link" aria-label="Bezpośredni link do Estymacja" title="Bezpośredni link do Estymacja">​</a></h2>
+<p>Monika opowiedziała, jak ona i jej zespół postanowili znaleźć sposób aby efektywnie mierzyć i prognozować obłożenie pracą.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="po-co">Po co?<a href="https://techwriter.pl/meet-content-wro-kwiecien-2024-relacja#po-co" class="hash-link" aria-label="Bezpośredni link do Po co?" title="Bezpośredni link do Po co?">​</a></h3>
+<p>Brakowało im efektywnego sposobu na śledzenie zmian w obciążeniu Tech Writerów. Nie mieli metody na porównywanie wielkości zadań. Wierzyli też, że lepsze planowanie uczyni ich przewidywalnym partnerem dla innych działów w firmie.</p>
+<p>W perspektywie, chcieli też mieć czym argumentować ewentualną konieczność rozbudowania zespołu.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="jak-sie-za-to-zabrali">Jak sie za to zabrali?<a href="https://techwriter.pl/meet-content-wro-kwiecien-2024-relacja#jak-sie-za-to-zabrali" class="hash-link" aria-label="Bezpośredni link do Jak sie za to zabrali?" title="Bezpośredni link do Jak sie za to zabrali?">​</a></h3>
+<p>Poprzez warsztaty, w które zaangażowany był cały zespół. Wyszli z założenia, że ich praca obejmuje powtarzalne elementy i czynności, które można zidentyfikować i wyodrębnić.</p>
+<p>Zidentyfikowali więc rodzaje zadań, np. dokumentacja nowego atrybutu w istniejącym API, czy nowej funkcjonalności w aplikacji mobilnej.</p>
+<p>Na każde takie zadanie składają się powtarzalne komponenty, które Monika i jej zespół zidentyfikowali. Między innymi wyodrębnili: spotkanie z SME, zapoznanie się z rezultatem tzw. <em>product discovery</em> lub wynikami <em>user research</em>, no i oczywiście - samo pisanie!</p>
+<p>Następnie, wspólnie ustalili, jaki czas średnio przeznaczają na każdy z takich komponentów - w zależności od stopnia skomplikowania zadania. Na przykład, rozmowa z SME może być wyraźnie dłuższa jeśli do udokumentowania jest przekrojowa funkcjonalność w porównaniu z drobną aktualizacją istniejącej funkcjonalności.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="co-z-tego-wynikło">Co z tego wynikło?<a href="https://techwriter.pl/meet-content-wro-kwiecien-2024-relacja#co-z-tego-wynik%C5%82o" class="hash-link" aria-label="Bezpośredni link do Co z tego wynikło?" title="Bezpośredni link do Co z tego wynikło?">​</a></h3>
+<p>Zespół przyjął podział zadań według rozmiarów t-shirtów (XS, S, M, L i XL).</p>
+<p>A więc, jeśli każdy rodzaj zadania składa się z określonych komponentów, w wyniku warsztatu mają one teraz przypisany szacowany czas, jaki zajmie Tech Writerowi ukończenie tego zadania - w zależności czy mamy do czynienia z zadaniem ocenionym przez zespół na przykład jako  S lub L.</p>
+<p>W ramach tego eksperymentu, ocadowscy Tech Writerzy zaczęli też rejestrować czas poświęcony na peer review.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="efekt">Efekt?<a href="https://techwriter.pl/meet-content-wro-kwiecien-2024-relacja#efekt" class="hash-link" aria-label="Bezpośredni link do Efekt?" title="Bezpośredni link do Efekt?">​</a></h3>
+<p>Na tamten moment eksperyment trwał zaledwia dwa kwartały ale były już pierwsze wnioski. Na przykład: poziom obciążenia pracą się zmienia. Ale kiedy zmniejsza się ilość zadań związanych z rozwojem produktu (<em>development-related</em>), zwiększa się ilość zadań nakierowanych na ulepszanie samej dokumentacji i odwrotnie.</p>
+<p>Rejestrowanie godzin poświęconych na wzajemne sprawdzanie swojej pracy, przyniosło konkretne liczby, które również dają do myślenia. Szczególnie w kontekście ewentualnych rozmów na temat zaprzęgnięcia narzędzi wykorzystujących AI.</p>
+<p>Eksperyment wciąż trwa, a zespół zgodził się że aktualne podejście będzie wymagało kalibracji. Jednak już teraz zespół ma większą pewność w określaniu swoich zobowiązań i ram czasowych na ich wykonanie.</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="how-to-dita-without-dita">How to DITA without DITA<a href="https://techwriter.pl/meet-content-wro-kwiecien-2024-relacja#how-to-dita-without-dita" class="hash-link" aria-label="Bezpośredni link do How to DITA without DITA" title="Bezpośredni link do How to DITA without DITA">​</a></h2>
+<p>Następnie Paweł Martin przedstawił, w jaki sposób osiągnąć funkcjonalności znane z architektury DITA w Markdownie.</p>
+<p>Paweł jest częścią zespołu Internal Tech Comms, tworzącego dokumentację dla deweloperów. Aktualnie tworzą część dokumentacyjną portalu dla deweloperów opartego na technologii Backstage od Spotify.</p>
+<p>Aby zbudować sprawny portal, potrzebowali:</p>
+<ul>
+<li>Wtyczki <em>kroki</em> - do tworzenia diagramów</li>
+<li>Monorepo - czyli repozytorium przechowującego kod wielu projektów</li>
+<li>A gdy już mieli jedno repozytorium - sposobu na powtórne użycie elementów, czyli <em>reuse</em></li>
+</ul>
+<p>Udało im się znaleźć sposób na odtworzenie funkcji <em>reuse</em> w Markdownie za pomocą <em>snippetów</em>. <em>Snippet</em> to plik Markdownowy, który można osadzić w innym pliku <em>.md</em>.</p>
+<p>Umieszcza się go przy pomocy takiego kodu:</p>
+<p><code>--8&lt;-- "snippet.md"</code></p>
+<p>W efekcie treść pliku <em>snippet.md</em> jest wyświetlana w dokumencie docelowym.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="zalety">Zalety<a href="https://techwriter.pl/meet-content-wro-kwiecien-2024-relacja#zalety" class="hash-link" aria-label="Bezpośredni link do Zalety" title="Bezpośredni link do Zalety">​</a></h3>
+<p>Do największych należy fakt, że <em>content reuse</em> w ogóle jest możliwy. A więc treść snippeta aktualizujemy raz, a każde miejsce w dokumentacji, które ten snippet wykorzystuje pokaże nam już zaktualizowaną wersję.</p>
+<p>Snippety można wykorzystywać na przykład do automatyzacji wersjonowania, zarządzania zmianą nazw produktów czy powielania standardowych, powtarzalnych elementów dokumentacji.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="wady">Wady<a href="https://techwriter.pl/meet-content-wro-kwiecien-2024-relacja#wady" class="hash-link" aria-label="Bezpośredni link do Wady" title="Bezpośredni link do Wady">​</a></h3>
+<p>Do wad należą następujące ograniczenia:</p>
+<ul>
+<li>Nie da się umieszczać snippetów w snippetach</li>
+<li>Nagłówki w snippecie nie są kontynuacją nagłówków docelowego dokumentu</li>
+<li>Zamieszczanie ilustracji w snippecie jest... skomplikowane</li>
+</ul>
+<p>Zespół Pawła wciąż jednak pracuje nad usprawnieniem tej metody. A już teraz snippety pozwalają im korzystać z funkcji DITA bez faktycznego używania DITA.</p>
+<p>Rzecz jasna meetup zakończył się pizza party 🍕 🍹 🤩</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="co-dalej">Co dalej?<a href="https://techwriter.pl/meet-content-wro-kwiecien-2024-relacja#co-dalej" class="hash-link" aria-label="Bezpośredni link do Co dalej?" title="Bezpośredni link do Co dalej?">​</a></h2>
+<p>Wrocławski sezon contentowy zamkniemy już <strong>22 maja</strong>.</p>
+<p>Tym razem widzimy się w siedzibie firmy Etteplan.</p>
+<p>Żeby solidnie wejść w contentowy sezon ogórkowy 😉, w Etteplan czekają nas również dwie prezentacje:</p>
+<ul>
+<li><a href="https://www.linkedin.com/in/barbara-kardel-piatkowska/" target="_blank" rel="noopener noreferrer">Basia Kardel-Piątkowska</a> i Knowledge transfer and retention in a Technical Communication team</li>
+<li><a href="https://www.linkedin.com/in/maciekchudanski/" target="_blank" rel="noopener noreferrer">Maciek Chudański</a> i Visual Design in Technical Communication</li>
+</ul>
+<p>Zapisy w formularzu pod <a href="https://forms.gle/b6YrWoYG7teRorT38" target="_blank" rel="noopener noreferrer">TYM LINKIEM</a>! 👋</p>
+<p>Do zobaczenia!</p>
+<hr>
+<p>Artykuł powstał przy współpracy z Janem Sosną</p>
+<p><img decoding="async" loading="lazy" src="https://techwriter.pl/assets/images/ocado_1-7595e8f5e210a3a94ea1a6e23468e395.jpg" width="4000" height="3000" class="img_ev3q"> <img decoding="async" loading="lazy" src="https://techwriter.pl/assets/images/ocado_2-1065b684d51870301c9e723e7f3eaac5.jpg" width="4000" height="3000" class="img_ev3q"> <img decoding="async" loading="lazy" src="https://techwriter.pl/assets/images/ocado_3-7c8bc61b085cd8112b3d822c5bf6dd10.jpg" width="826" height="427" class="img_ev3q"></p>]]></content:encoded>
+            <category>meetup</category>
+            <category>estymacja</category>
+            <category>spolecznosc</category>
+            <category>markdown</category>
+            <category>snippet reuse</category>
+        </item>
         <item>
             <title><![CDATA[Wyniki badania płac w komunikacji technicznej 2023]]></title>
             <link>https://techwriter.pl/wyniki-badania-plac-w-komunikacji-technicznej-2023</link>
@@ -2119,534 +2200,6 @@ pisanie CV.</p>]]></content:encoded>
             <category>rekrutacja</category>
             <category>praca</category>
             <category>spolecznosc</category>
-        </item>
-        <item>
-            <title><![CDATA[Konferencja Tłumaczy 2023 – relacja]]></title>
-            <link>https://techwriter.pl/Konferencja Tłumaczy 2023 - relacja</link>
-            <guid>https://techwriter.pl/Konferencja Tłumaczy 2023 - relacja</guid>
-            <pubDate>Thu, 19 Oct 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Konferencja Tłumaczy 2023 już za nami. Ale poniżej czeka na Was relacja.]]></description>
-            <content:encoded><![CDATA[<p>Konferencja Tłumaczy 2023 już za nami. Ale poniżej czeka na Was relacja.
-Zapraszamy do lektury!</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="w-dniu-św-hieronima-patrona-tłumaczy">W dniu św. Hieronima, patrona tłumaczy<a href="https://techwriter.pl/Konferencja%20T%C5%82umaczy%202023%20-%20relacja#w-dniu-%C5%9Bw-hieronima-patrona-t%C5%82umaczy" class="hash-link" aria-label="Bezpośredni link do W dniu św. Hieronima, patrona tłumaczy" title="Bezpośredni link do W dniu św. Hieronima, patrona tłumaczy">​</a></h2>
-<p>Co roku, 30 września, w dniu św. Hieronima, tłumacza Biblii, uznawanego za
-patrona tłumaczy, obchodzony jest Międzynarodowy Dzień Tłumacza. I w tym samym
-terminie, już od kilku lat, organizowana jest Konferencja Tłumaczy. Nie inaczej
-było i w tym roku.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="motyw-przewodni">Motyw przewodni<a href="https://techwriter.pl/Konferencja%20T%C5%82umaczy%202023%20-%20relacja#motyw-przewodni" class="hash-link" aria-label="Bezpośredni link do Motyw przewodni" title="Bezpośredni link do Motyw przewodni">​</a></h2>
-<p>Motywem przewodnim tegorocznej Konferencji Tłumaczy była INTELIGENCJA. Dyskusje
-toczyły się wokół inteligencji językowej (czyli czegoś, co każdy lingwista
-posiada, ale musi też o to dbać), społecznej (czyli umiejętności współpracy z
-innymi osobami), emocjonalnej (czyli umiejętności zarządzania sobą z perspektywy
-własnej osobowości i emocji odczuwanych w trakcie tłumaczenia) oraz sztucznej
-(czyli wokół narzędzi takich jak ChatGPT, ChatSonic, Chinchilla, DeepL).</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="piątkowe-warsztaty">Piątkowe warsztaty<a href="https://techwriter.pl/Konferencja%20T%C5%82umaczy%202023%20-%20relacja#pi%C4%85tkowe-warsztaty" class="hash-link" aria-label="Bezpośredni link do Piątkowe warsztaty" title="Bezpośredni link do Piątkowe warsztaty">​</a></h2>
-<p>Jako przedsmak samej konferencji w piątek, 29 września, odbyły się warsztaty z
-ekspertami, poruszającymi zarówno odwieczne, jak i aktualne kwestie nurtujące
-branżę tłumaczeniową.</p>
-<p>Dyskutowano więc o kwestiach takich jak stawki za tłumaczenia, reklamowanie
-swoich usług tłumaczeniowych w sieci czy emisja głosu. Gratką dla uczestników
-były warsztaty dotyczące zastosowania ChatGPT i AI w tłumaczeniach. Było o
-wielkich modelach językowych (tzw. LLM-ach), prompt engineeringu, łączeniu
-CAT-ów (czyli narzędzi wspomagających tłumaczenie), NMT (neuronowego tłumaczenia
-maszynowego) i LLM (wielkich modeli językowych). Dyskutowano o anonimizacji,
-poufności i ochronie danych wrażliwych w ChatGPT.</p>
-<p>Na koniec chętni uczestnicy mogli zobaczyć, jak działa narzędzie Juremy
-ułatwiające wyszukiwanie różnorakich terminów w 24 językach unijnych. Szkolenie
-to było skierowanie przede wszystkim do tłumaczy zajmujących się tłumaczeniem
-tekstów unijnych i prawniczych.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sobotnia-konferencja">Sobotnia konferencja<a href="https://techwriter.pl/Konferencja%20T%C5%82umaczy%202023%20-%20relacja#sobotnia-konferencja" class="hash-link" aria-label="Bezpośredni link do Sobotnia konferencja" title="Bezpośredni link do Sobotnia konferencja">​</a></h2>
-<p>Właściwa konferencja odbyła się w sobotę, 30 września. Na wykładach i
-prelekcjach pojawiło się mnóstwo tłumaczy i osób związanych z branżą
-tłumaczeniową. Kto nie mógł pojawić się osobiście, miał szansę uczestniczyć w
-konferencji online. Podobnie zresztą jak i niektórzy prelegenci, którym
-zobowiązania zawodowe czy rodzinne nie pozwoliły wziąć udziału w wydarzeniu
-osobiście.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="inteligencja-i-inne-tematy-okołotłumaczeniowe">Inteligencja i inne tematy okołotłumaczeniowe<a href="https://techwriter.pl/Konferencja%20T%C5%82umaczy%202023%20-%20relacja#inteligencja-i-inne-tematy-oko%C5%82ot%C5%82umaczeniowe" class="hash-link" aria-label="Bezpośredni link do Inteligencja i inne tematy okołotłumaczeniowe" title="Bezpośredni link do Inteligencja i inne tematy okołotłumaczeniowe">​</a></h2>
-<p>Jak przystało na temat przewodni dyskutowano o szeroko pojętej inteligencji.
-Było więc i o neurobiologii inteligencji, i o inteligencji emocjonalnej – czyli
-o tym jak tłumacze ustni radzą sobie w trakcie tłumaczeń konferencyjnych i
-środowiskowych wywołujących duże i skrajne emocje. Znalazło się też miejsce na
-rozmowy o tym, jak rozpoznać u siebie mocne i słabe strony, jak osiągnąć
-satysfakcję z pracy, jak nauczyć się kontrolować stres, a także jak unikać
-rozczarowań i skutecznie się relaksować.</p>
-<p>Dyskutowano również o praktycznych kwestiach z życia tłumaczy. Było o różnych
-formach pracy z innymi, czyli o tzw. co-workingu, fizjologicznej emisji głosu na
-co dzień oraz zarządzaniu procesami i projektami. Prelegenci dzielili się
-również swoją wiedzą i doświadczeniem w kwestii tego, jak się przebranżowić oraz
-jak wcześniej podnieść swoje kompetencje, żeby zmiana branży i zawodu poszła
-gładko i bezproblemowo.</p>
-<p>Nie zabrakło też zabawnych historii wpadek językowych z życia tłumacza
-konferencyjnego, który często natrafia na rafy kulturowe czy językowe podczas
-tłumaczenia. Było też i o języku inkluzywnym, który coraz częściej pojawia się w
-dyskusjach w przestrzeni publicznej.</p>
-<p>Gościem tegorocznej konferencji było również ukraińskie biuro tłumaczeń Task
-Force, którego przedstawiciele opowiadali o zmieniającej się branży
-tłumaczeniowej w Ukrainie, tendencjach i wyzwaniach stojących przed nimi.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ai-i-mt-na-tapecie">AI i MT na tapecie<a href="https://techwriter.pl/Konferencja%20T%C5%82umaczy%202023%20-%20relacja#ai-i-mt-na-tapecie" class="hash-link" aria-label="Bezpośredni link do AI i MT na tapecie" title="Bezpośredni link do AI i MT na tapecie">​</a></h2>
-<p>Jednak tegoroczna Konferencja Tłumaczy 2023 została zdominowana przez kwestie,
-które wywołują od jakiegoś czasu spore emocje, rodzą nadzieje i obawy nie tylko
-w przestrzeni publicznej, ale też w branży tłumaczeniowej. Chodzi mianowicie o
-tłumaczenie maszynowe i sztuczną inteligencję.</p>
-<p>Temat AI widziany oczami biura tłumaczeń rozpoczęła Magdalena Pluta z biura
-tłumaczeń Skrivanek. Opowiedziała o tym, jak biuro wykorzystuje
-narzędzia AI, jak zmieniają się potrzeby klientów i jak w związku z tym zmienia się zakres procesów, używanego oprogramowania i innych rozwiązań
-oraz jak dostawcy radzą sobie z technologiami AI. Pałeczkę przejął
-następnie Agenor Hoffmann-Delbor, który jest znaną postacią nie tylko w branży
-tłumaczeniowej, ale również, a może przede wszystkim, lokalizacyjnej. Dzień
-wcześniej poprowadził warsztaty tematycznie powiązane z sobotnią prelekcją.</p>
-<p><img decoding="async" loading="lazy" src="https://techwriter.pl/assets/images/thisisengineering-ada8b66550a5668d0f4e3890781510a2.PNG" width="7330" height="4889" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="zastosowanie-ai-w-tłumaczeniach">Zastosowanie AI w tłumaczeniach<a href="https://techwriter.pl/Konferencja%20T%C5%82umaczy%202023%20-%20relacja#zastosowanie-ai-w-t%C5%82umaczeniach" class="hash-link" aria-label="Bezpośredni link do Zastosowanie AI w tłumaczeniach" title="Bezpośredni link do Zastosowanie AI w tłumaczeniach">​</a></h2>
-<p>Agenor Hoffmann-Delbor podszedł do tematu bardzo technicznie i rzeczowo. Było
-nie tylko o AI w tłumaczeniach, ale przede wszystkim ogólnie o sztucznej
-inteligencji, silnikach korzystających z niej, jej zastosowaniach, mocnych i
-słabych stronach.</p>
-<p>Samo określenie „sztuczna inteligencja” pojawiło się już w latach 50. XX wieku i
-zostało spopularyzowane przez literaturę science-fiction wraz ze wzrostem jej
-popularności. Dlatego można powiedzieć, że nie jest to nowy twór, ale twór w
-nowej odsłonie, dający możliwości, których wcześniej nie było. A same prace nad
-AI, czyli zdolnością rozpoznawania pewnych wzorców, wyciągania z tych wzorców
-wniosków i stosowania ich w praktyce, trwają od dawna. Podobnie jest z
-obecnością AI w branży tłumaczeniowej.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="ai-w-tłumaczeniach-to-nic-nowego">AI w tłumaczeniach to nic nowego<a href="https://techwriter.pl/Konferencja%20T%C5%82umaczy%202023%20-%20relacja#ai-w-t%C5%82umaczeniach-to-nic-nowego" class="hash-link" aria-label="Bezpośredni link do AI w tłumaczeniach to nic nowego" title="Bezpośredni link do AI w tłumaczeniach to nic nowego">​</a></h3>
-<p>Nie jest prawdą, że w branży tłumaczeniowej przez dziesięciolecia sztucznej
-inteligencji nie było, a pojawiła się nagle dopiero w ostatnim roku. Bo od dawna
-istnieją rozwiązania, które były wykorzystywane w branży tłumaczeniowej już
-wcześniej, np. rozpoznawanie tagów w CAT-ach, wybór tłumaczy przez AI zaszyte w
-TMS, wyodrębnianie terminologii, wspomaganie weryfikacji i redakcji, testy
-językowe w kontekście treści wrażliwych, alignment, rozpoznawanie
-nietłumaczalnych elementów, MT/SMT/NMT, czy ocena jakości MT (MTQE).</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="llm-y-w-tłumaczeniach">LLM-y w tłumaczeniach<a href="https://techwriter.pl/Konferencja%20T%C5%82umaczy%202023%20-%20relacja#llm-y-w-t%C5%82umaczeniach" class="hash-link" aria-label="Bezpośredni link do LLM-y w tłumaczeniach" title="Bezpośredni link do LLM-y w tłumaczeniach">​</a></h3>
-<p>Agenor opowiadał o zastosowaniach LLM-ów (czyli wielkich modeli językowych) w
-tłumaczeniach wg Custom.mt, których jest ponad 39. Wyróżniamy tu
-przygotowanie danych do tłumaczenia, ocenę jakości tekstu źródłowego,
-tłumaczenia, dalszą obróbkę, sprawdzenie jakości i wiele innych.</p>
-<p>Prelegent mówił o tym, że w ciągu ostatniego roku zaobserwowano skok jakości
-tłumaczeń przy użyciu LLM-ów. Rozpoznawały one poprawnie 5 na 6 słów w
-tłumaczonym zdaniu, a co najważniejsze nie wymagało to poprawek przez
-postedytora. W październiku 2022 były to 2 na 3 słowa. Jest to skok jakości z
-66% do 83%. – Tak więc tempo, w którym wielkie modele językowe zyskują na
-jakości tłumaczeniowej jest spore, ale to było do przewidzenia – stwierdził
-Agenor.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="openai-translator">OpenAI Translator<a href="https://techwriter.pl/Konferencja%20T%C5%82umaczy%202023%20-%20relacja#openai-translator" class="hash-link" aria-label="Bezpośredni link do OpenAI Translator" title="Bezpośredni link do OpenAI Translator">​</a></h3>
-<p>Wskazując na obecność sztucznej inteligencji w tłumaczeniach Agenor opowiadał o
-dodatku do Tradosa, czyli jednego z narzędzi wspomagających tłumaczenie, tzw.
-CAT-ów. Dodatek ten ma zaszytą w sobie pewną liczbę promptów, czyli zapytań. Co
-to oznacza? Ni mniej, ni więcej to, że za jego pomocą można zrobić różne
-przeróbki techniczne tekstu. Zalicza się do tego: anonimizację, zmianę płci w tłumaczeniu,
-podsumowanie, skrócanie tekstu, zmianę terminologii, wiele wersji tłumaczenia,
-sprawdzenie gramatyki, sprawdzenie jakości podpowiedzi z różnych silników,
-sprawdzenie „stosowności” tłumaczenia, dokańczanie podpowiedzi z pamięci
-tłumaczeń i poprawianie ich.</p>
-<p>Jak twierdzi prelegent, nie jest to najlepsze rozwiązanie. Po pierwsze dlatego,
-że bazuje na pracy z fragmentami tekstu, oderwanymi od całego dokumentu, od
-czego się dzisiaj odchodzi. Zwłaszcza, że modele językowe są w stanie pracować z
-całym dokumentem i w nim odnaleźć kontekst. Po drugie dlatego, że dodatek ten
-pozwala zaznaczyć i przeanalizować tylko jeden tekst – albo źródło, albo
-tłumaczenie. Nie możemy wybrać jednocześnie i źródła, i tłumaczenia i zbadać,
-czy źródło zostało dobrze przetłumaczone.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="trados-i-wtyczka-custommt">Trados i wtyczka Custom.MT<a href="https://techwriter.pl/Konferencja%20T%C5%82umaczy%202023%20-%20relacja#trados-i-wtyczka-custommt" class="hash-link" aria-label="Bezpośredni link do Trados i wtyczka Custom.MT" title="Bezpośredni link do Trados i wtyczka Custom.MT">​</a></h3>
-<p>Ciekawostką jest wtyczka Custom.MT do Tradosa, która jest podłączona do wielu
-różnych silników. I jeśli jest to ChatGPT, który korzysta z translatora DeepL,
-to, jak twierdzi Agenor, możemy wrzucić do DeepL’a swój słownik ze swoją
-terminologią, a potem możemy jeszcze to, co wygeneruje DeepL za pomocą prompta
-dodatkowo udoskonalić.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="chatgpt">ChatGPT<a href="https://techwriter.pl/Konferencja%20T%C5%82umaczy%202023%20-%20relacja#chatgpt" class="hash-link" aria-label="Bezpośredni link do ChatGPT" title="Bezpośredni link do ChatGPT">​</a></h3>
-<p>Tematem, który przewijał się przez całą prezentację był ChatGPT – jak działa,
-jak nim sterować, jak go uczyć, jakie ma źródła informacji (nie tylko
-Wikipedia), jak znaleźć idealne zapytanie dla czata, jak zwiększyć skuteczność
-zapytań, czy warto uczyć się „prompt engineering”.</p>
-<p>Było o łamaniu modelu (poprzez zapytania typu jak zbudować bombę, czy jak porwać
-kogoś dla okupu czy polecenia mu napisania wirusa). Jest to coraz trudniejsze,
-bo wprowadza się coraz więcej zabezpieczeń przed tego typu zapytaniami.
-Prelegent wspominał o ChatGPT na komórkę (można się z nim porozumiewać głosowo,
-nie trzeba pisać promptów), poruszył temat poufności ChatGPT (przechowywanie
-danych z promptów do celów nauki czata jest domyślnie wyłączone), przeglądania
-Internetu w ChatGPT. Mówił, że istnieje ponad 1000 pluginów do ChatGPT.
-Wspominał też o tym, że OpenAI udostępnia detektor tekstu pisanego – można
-sprawdzić czy tekst (np. oddawany przez kogoś jako oryginalna praca autorska)
-został napisany przez model.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="wpływ-ai-na-rynek-pracy">Wpływ AI na rynek pracy<a href="https://techwriter.pl/Konferencja%20T%C5%82umaczy%202023%20-%20relacja#wp%C5%82yw-ai-na-rynek-pracy" class="hash-link" aria-label="Bezpośredni link do Wpływ AI na rynek pracy" title="Bezpośredni link do Wpływ AI na rynek pracy">​</a></h3>
-<p>„AI będzie potrzebować 10-15 lat, aby zastąpić dzisiejsze zawody. W tym czasie
-powstanie podobna liczba nowych.” (Yann LeCun, Chief AI Scientist, Meta)</p>
-<p>Prelegent mówił o tym, że wpływ AI na rynek pracy jest widoczny już dziś.
-Istnieje wiele raportów, które podają, jaki wpływ na rynek pracy ma lub będzie
-mieć sztuczna inteligencja.</p>
-<p>I tak, Goldman Sachs przewiduje, że na skutek popularyzacji AI pracę straci 300
-milionów osób. Ale też jest gros osób, które pracy nie stracą, a będą korzystać
-z AI, żeby ją usprawnić. Prelegent podkreślał, że na rynku widoczny jest trend,
-że firmy wstrzymują duże rekrutacje, redukują zespoły, szczególnie w świecie IT.
-Trudno jest w tej chwili powiedzieć, na kogo firmy postawią, kto będzie
-korzystać z copilotów, wspomagaczy. Ale firmy będą stawiać raczej na
-doświadczone osoby, które będą w stanie ocenić rzetelność informacji, które
-modele wytwarzają.</p>
-<p>Ponadto według przeanalizowanych raportów około 18% pracy na świecie da się
-skomputeryzować. A efekty są już widoczne na rynkach rozwiniętych. A ponad 66%
-zawodów w USA jest podatne na wprowadzenie AI: 7% zostanie całkiem zastąpionych,
-63% będzie pracować wspólnie z AI, 30% pozostanie bez zmian.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="rozwiązania-ai-są-wszędzie">Rozwiązania AI są wszędzie<a href="https://techwriter.pl/Konferencja%20T%C5%82umaczy%202023%20-%20relacja#rozwi%C4%85zania-ai-s%C4%85-wsz%C4%99dzie" class="hash-link" aria-label="Bezpośredni link do Rozwiązania AI są wszędzie" title="Bezpośredni link do Rozwiązania AI są wszędzie">​</a></h3>
-<ul>
-<li>
-<p>Microsoft Copilot w aplikacjach Office</p>
-</li>
-<li>
-<p>Przeglądarki, np. Bing</p>
-</li>
-<li>
-<p>Facebook</p>
-</li>
-<li>
-<p>Google Bard – alternatywa dla ChatGPT</p>
-</li>
-<li>
-<p>Claude – dostępny w Wielkiej Brytanii, USA, jeszcze nie w Europie, świetnie
-sobie radzi z tekstami prawnymi, wyciąga pułapki, które prawnicy zastawili na
-użytkownika np. w warunkach licencyjnych</p>
-</li>
-<li>
-<p>HuggingFace - darmowa platforma, rozwiązanie m.in. Whisper, czyli rozwiązanie
-do rozpoznawania mowy</p>
-</li>
-</ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="istnieją-darmowe-modele-open-source-llms-takie-jak">Istnieją darmowe modele (open-source LLMs) takie jak:<a href="https://techwriter.pl/Konferencja%20T%C5%82umaczy%202023%20-%20relacja#istniej%C4%85-darmowe-modele-open-source-llms-takie-jak" class="hash-link" aria-label="Bezpośredni link do Istnieją darmowe modele (open-source LLMs) takie jak:" title="Bezpośredni link do Istnieją darmowe modele (open-source LLMs) takie jak:">​</a></h3>
-<ul>
-<li>
-<p>LLaMa – posiada 65 mld parametrów</p>
-</li>
-<li>
-<p>Alpaca (Uniwersytet Stanford) – za 600 USD można osiągnąć efekt porównywalny z
-GPT3</p>
-</li>
-</ul>
-<p>Powstały one dzięki temu, że z Facebooka/Meta wyciekły parametry, które powstały
-podczas trenowania dużego modelu językowego. Rozwiązania te szybko zyskują na
-jakości.</p>
-<p>– I można sobie taką LLaMę czy Alpakę „postawić” na swoim komputerze za
-600 dolarów – mówił Agenor. – Nie trzeba już trenować tego silnika tak, jak był
-trenowany duży model. Można mieć coś takiego we własnym zakresie.</p>
-<p>Agenor wspominał też o modelach, które działają na telefonach komórkowych.
-Możemy więc wygenerować swój awatar. Możemy nagrać własny głos, który zostanie
-następnie zmapowany, a model będzie potem mówił naszym głosem przybierając różne
-emocje.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="stan-ai-na-koniec-września-2023">Stan AI na koniec września 2023<a href="https://techwriter.pl/Konferencja%20T%C5%82umaczy%202023%20-%20relacja#stan-ai-na-koniec-wrze%C5%9Bnia-2023" class="hash-link" aria-label="Bezpośredni link do Stan AI na koniec września 2023" title="Bezpośredni link do Stan AI na koniec września 2023">​</a></h3>
-<p>Na zakończenie prelekcji Agenor przedstawił kilka wypowiedzi, które świetnie
-podsumowują stan AI na koniec września 2023.</p>
-<p><img decoding="async" loading="lazy" src="https://techwriter.pl/assets/images/stan_AI_na_koniec_wrzesnia-ab5ff96f6028cdb8db39d94d40db45a3.PNG" width="1288" height="772" class="img_ev3q"></p>
-<p>Dodał, że firmy mają swoją motywację, żeby wprowadzać zastosowanie AI. W branży
-tłumaczeniowej trendy te też są już odczuwalne albo widoczne. Na pewnym etapie
-poprawianie po maszynie nie będzie miało sensu. Postedycja, weryfikacja
-tłumaczeń wykonanych przez maszynę jest ślepą uliczką, a funkcjonuje tylko
-dlatego, że tłumaczenia nie są jeszcze wystarczająco dobrej jakości, bo to co
-robią silniki nie jest wystarczająco dobre.</p>
-<p>– Być może trzeba będzie pójść w tym kierunku. Trzeba być najlepszym w obszarze
-kreatywności. Albo zawęzić swoją specjalizację do czegoś, co wymaga dużo więcej
-niż tylko zerknięcia na ogromną porcję danych i wyciągnięcia z tego jakichś
-wzorców – stwierdził na koniec Agenor.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="mt-a-jack-sparrow">MT a Jack Sparrow<a href="https://techwriter.pl/Konferencja%20T%C5%82umaczy%202023%20-%20relacja#mt-a-jack-sparrow" class="hash-link" aria-label="Bezpośredni link do MT a Jack Sparrow" title="Bezpośredni link do MT a Jack Sparrow">​</a></h2>
-<p><img decoding="async" loading="lazy" src="https://techwriter.pl/assets/images/pirate_captain_at_computer-a0fc740048655738b0105c1a9a0c12d0.png" width="500" height="500" class="img_ev3q"></p>
-<p>Równie ciekawą prelekcją była prezentacja Janusza Mrzigoda o tajemniczym tytule
-„MT a Jack Sparrow”. Prelegent próbował odpowiedzieć na pytanie, do czego nadaje
-się obecnie tłumaczenie mechaniczne, a do czego nie. Zastanawiał się, czego
-brakuje sztucznej inteligencji w tej kwestii. Inspiracją do rozważań były
-zmagania z tłumaczeniem mechanicznym skryptów gier, które – może wbrew pozorom –
-zaliczają się do tekstów specjalistycznych. Prezentacja była okraszona licznymi
-przykładami tłumaczeń MT, często zabawnymi, pochodzącymi z tekstów gier.
-Pojawiły się też nawiązania do innych tekstów, do których zrozumienia potrzeba
-wiedzy ogólnej i specjalistycznej.</p>
-<p>Na początek prelegent zaserwował uczestnikom garść przykładów tłumaczenia, jak
-mogłoby się wydawać, prostych wyrażeń. Jednak okazało się, że dla MT nie było to
-takie proste, nawet po podaniu kontekstu.</p>
-<p>I tak oto „murder of crows” stało się „morderstwem wron”, „pride of lions” –
-„dumą lwów” a „stand of flamingos” – „stojakiem na flamingi”. Dla
-niewtajemniczonych: murder, pride i stand w odniesieniu do ww. zwierząt to po
-prostu stare dobre polskie „stado”.</p>
-<p>Można powiedzieć, że takie „kwiatki” serwowane przez Google Translate (GT)
-wychodzą bez kontekstu, ale po podaniu kontekstu wcale nie jest lepiej:</p>
-<p>“A stand of flamingos flew over the lake” wg GT oznacza, że: „Nad jeziorem
-przeleciało stoisko flamingów” [prawidłowo: stado flamingów]</p>
-<p>Nie tylko Google Translate, ale każdy system tłumaczący ma problemy z
-nietypowymi wyrażeniami. Czasem maszyna tłumaczy tekst odwrotnie niż się
-spodziewamy.</p>
-<p>I tak oto „mint state” wg GT to „stan miętowy” [prawidłowo: stan idealny]</p>
-<p>Natomiast „mint condition” [termin nieco zmieniony] wg GT to już „stan menniczy”</p>
-<p>A „car in a mint state/condition” [po podaniu kontekstu] wg GT to „auto w
-opłakanym stanie” [prawidłowo: w stanie idealnym]</p>
-<p>A ten sam termin, tylko w innym kontekście w tłumaczeniu wygląda tak: „the book
-was in a mint state” wg GT oznacza: „książka była w stanie idealnym”</p>
-<p>To wyrażenie zostało akurat prawidłowo przetłumaczone. Ale, jak zaznaczył
-prelegent, problemem jest to, że wiele błędnych tłumaczeń figuruje w GT jako
-tłumaczenia zatwierdzone przez społeczność.</p>
-<p>Przykładowo „capital crime” wg GT to „przestępstwo kapitałowe” [prawidłowo:
-przestępstwo zagrożone karą śmierci]</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="co-z-tym-sparrowem">Co z tym Sparrowem?<a href="https://techwriter.pl/Konferencja%20T%C5%82umaczy%202023%20-%20relacja#co-z-tym-sparrowem" class="hash-link" aria-label="Bezpośredni link do Co z tym Sparrowem?" title="Bezpośredni link do Co z tym Sparrowem?">​</a></h3>
-<p>Parafrazując wypowiedź jednego ze swoich ulubionych bohaterów, czyli Jacka
-Sparrowa z „Piratów z Karaibów”, prelegent zadał takie oto pytanie: „What MT can
-do, and what MT can’t do?”</p>
-<p>Zapewnił uczestników, że nie jest przeciwnikiem ani AI, ani MT, bo w wielu
-przypadkach mogą okazać się przydatne. Jeśli bardziej stawiamy na użyteczność, a
-nie na jakość, to tłumaczenie mechaniczne jest przydatne i daje akceptowalne
-wyniki. Problem pojawia się wtedy, gdy tłumaczenie mechaniczne się nie sprawdza.</p>
-<p>Jak w przytoczonych przez Janusza przykładach pochodzących z systemu
-specjalistycznego szkolonego do tłumaczenia gier, a konkretnie sekcji szkolonej
-do tłumaczenia gier wyścigowych.</p>
-<p>I tak:</p>
-<p>„Epic Games Support” wg systemu to „Obsługa epickich gier” [prawidłowo: Obsługa
-związana ze sklepem Epic Games]</p>
-<p>„UK (Italian, Iranian, Jamaican)” wg systemu to „Wielka Brytania (włoski,
-irański, zuchwiany)”</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="postedytor-na-edenie">Postedytor na Edenie<a href="https://techwriter.pl/Konferencja%20T%C5%82umaczy%202023%20-%20relacja#postedytor-na-edenie" class="hash-link" aria-label="Bezpośredni link do Postedytor na Edenie" title="Bezpośredni link do Postedytor na Edenie">​</a></h3>
-<p>– Czasem, gdy robię postediting, to mam wrażenie, że jestem bohaterem powieści
-Stanisława Lema – zwierzył się prelegent. Miał na myśli książkę Stanisława Lema
-pt. „Eden”, w której ziemski statek rozbija się na planecie, gdzie żyje
-cywilizacja, z którą ludzie próbują się porozumieć. Następuje to za pomocą
-tłumaczącego komputera zwanego kalkulatorem. Przekłada on słowa opierając się na
-tzw. widmie semantycznym (jak sobie to wówczas wyobrażał Lem). Czyli w słowach
-jest schowane znaczenie tych słów. Kosmonauci z planety Ziemia przełączają się
-na kalkulatora w tzw. tryb poliwalencyjny. Tryb ten oznacza, że kiedy brak jest
-w słowniku kalkulatora słowa, którego widmo znaczeniowe odpowiada temu z
-oryginału, to on takie słowo zbuduje na podstawie tego widma.</p>
-<p>Jaki jest tego efekt? Otóż taki:</p>
-<p>„Dubelt praca fizyczna nie. Pauza. Organ elektryczny praca tak, ale
-akceleroinwolucja degeneracja nadużycie. Pauza. Południe to egzemplifikacja
-prokrustyki samosterownej pauza. Biosocjozwarcie antyśmierć pauza. Izolacja
-społeczna nie siła, nie przymus, pauza. Dobrowolność pauza. Mikroadaptacja grupy
-centrosamociąg produkcja tak nie pauza.”</p>
-<p>– Lem wszystko przewidział, ponieważ sztuczna inteligencja robi podobne rzeczy z
-polskim tekstem – podsumowuje prelegent. Chociaż nie wiadomo, dlaczego, bo nie
-powinno się tak dziać. Nastąpił wielki postęp w generowaniu obrazów przez AI.
-Tworzy ona wizerunki ludzi, których nie można odróżnić od zwykłych zdjęć. Np.
-zdjęcie papieża z kosmitami, myśliwych z upolowanym gorylem gigantem, mutantów
-itp. wyglądają jak autentyczne fotografie. Oczywiście pod warunkiem, że nie
-widać rąk, stóp, ani zębów. Bo AI nie radzi sobie dobrze z generowaniem tych
-części ciała.</p>
-<p>Przykładowo:</p>
-<p>„Soft cap” wg MT to „Miękkie kręciki” [chodzi o wartość progową, którą można
-przekroczyć w grze, czyli limit]</p>
-<p>„engine breaking” wg MT to „łamanie silnika” [chodzi o hamowanie silnikiem, co
-człowiek będzie wiedział]</p>
-<p>W powyższych przykładach widać wyższość człowieka nad AI, ponieważ AI nie zawsze
-zauważy, że jest jakiś błąd w tekście. Słowa się zgadzają, ale tutaj
-chodzi o hamowanie silnikiem, co człowiek będzie wiedział, a AI już nie.</p>
-<p>W przypadku dłuższych tekstów jest jeszcze gorzej.</p>
-<p>„Devon was an easy target whenever they got into a scrape with one another.” Wg
-MT oznacza to, że: „Devon był łatwym celem, gdy wjechał w szrapkę ze sobą.”
-[chodzi o to, gdy się ze sobą kłócili, były między nimi tarcia]</p>
-<p>„Stillwater Designs” wg MT to „Wzory w nadalwaterze” [chodzi o nazwę własną
-firmy]</p>
-<p>Jest to słowotwórstwo, które miesza jedno z drugim.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="im-dalej-od-angielszczyzny-tym-gorzej">Im dalej od angielszczyzny, tym gorzej<a href="https://techwriter.pl/Konferencja%20T%C5%82umaczy%202023%20-%20relacja#im-dalej-od-angielszczyzny-tym-gorzej" class="hash-link" aria-label="Bezpośredni link do Im dalej od angielszczyzny, tym gorzej" title="Bezpośredni link do Im dalej od angielszczyzny, tym gorzej">​</a></h3>
-<p>– W obszarze języka angielskiego jest jeszcze spokojnie. Jak w parze językowej
-nie ma angielszczyzny, to AI niestety mocno głupieje – mówił prelegent.
-Spójrzmy na przykład tłumaczenia maszynowego innych języków.</p>
-<p><img decoding="async" loading="lazy" alt="MT_other_lngs" src="https://techwriter.pl/assets/images/MT_other_lngs-6065b8a92fb02de0a1b9a3d8781fc9e1.PNG" width="1602" height="691" class="img_ev3q"></p>
-<p>Jak się okazuje problematyczne dla MT jest też tłumaczenie tytułów obrazów, czy
-z języka angielskiego czy innych języków.</p>
-<p>I tak „Original sin” Salvadora Dali wg MT to „Oryginalny bez”</p>
-<p>„La Belle Dame Sans Merci” Franka Cadogana Cowpera (1926) wg MT to „Piękna dama
-bez podziękowania” [prawidłowo: Piękna pani bezlitosna, bo „sans merci” oznacza
-„bez litości”]</p>
-<p>– AI nie łapie tła kulturowego. Jest to niezrozumiałe, bo żeby złapać tło
-kulturowe wystarczyłoby, żeby AI „przeczytała” Wikipedię, bo tam prawie wszystko
-jest – dodał prelegent.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="teksty-twórcze-a-ai">Teksty twórcze a AI<a href="https://techwriter.pl/Konferencja%20T%C5%82umaczy%202023%20-%20relacja#teksty-tw%C3%B3rcze-a-ai" class="hash-link" aria-label="Bezpośredni link do Teksty twórcze a AI" title="Bezpośredni link do Teksty twórcze a AI">​</a></h3>
-<p>Na tym polu wcale nie jest lepiej. Szyk w zdaniu jest zaburzony, pojawiają się
-niejasności czy dwuznaczności. Interpunkcja jest niewłaściwa. W teście źródłowym
-mamy synonimy, a w tekście tłumaczenia zostało użyte to samo słowo. Konstrukcja
-jest nieskładna. AI nie wyłapuje skrótów myślowych.</p>
-<p>„Lando był jednym z tych kierowców, którzy wyrzeźli szuler przez scenę kartingu
-[prawidłowo: wybili się albo przebili się w kartingu], zbierając tytuły przez
-garstek [prawidłowo: całą garścią], podczas gdy w dużej mierze brakuje ogona ich
-szkoły [prawidłowo: ominęli większość końcówki swojego szkolenia], gdy płakali
-[prawidłowo: śmigając] przez Europę.”</p>
-<p>A tekst oryginalny brzmiał tak:</p>
-<p>„Lando was one of those drivers who carved a swathe through the karting scene,
-gathering titles by the handful while largely missing the tail end of their
-schooling as they criss-crossed Europe.”</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="inne-kwiatki">Inne kwiatki<a href="https://techwriter.pl/Konferencja%20T%C5%82umaczy%202023%20-%20relacja#inne-kwiatki" class="hash-link" aria-label="Bezpośredni link do Inne kwiatki" title="Bezpośredni link do Inne kwiatki">​</a></h3>
-<p>Prelegent postawił tezę, że MT jest stosowane tam, do czego się jeszcze nie
-nadaje. - Jestem przekonany, że będzie się nadawać, może trochę później niż chcą
-entuzjaści, ale będzie – dodał. Jest to kwestia odpowiedniego skomplikowania
-silników tłumaczących.</p>
-<p>Dla zilustrowania jego tezy:</p>
-<p>„He dug deep for that performance.” wg MT oznacza to, że: „Dupnął głęboko po tym
-występie.” [prawidłowo: Sięgnął głęboko, żeby jechać tak dobrze.]</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="wyższość-człowieka-nad-maszyną">Wyższość człowieka nad maszyną<a href="https://techwriter.pl/Konferencja%20T%C5%82umaczy%202023%20-%20relacja#wy%C5%BCszo%C5%9B%C4%87-cz%C5%82owieka-nad-maszyn%C4%85" class="hash-link" aria-label="Bezpośredni link do Wyższość człowieka nad maszyną" title="Bezpośredni link do Wyższość człowieka nad maszyną">​</a></h3>
-<p>W czym się ona przejawia? Czego maszyna nie widzi, co łatwo może dostrzec
-człowiek? Otóż, jak przekonywał Janusz, maszyna nie rozumie kontekstu (np.
-dostajemy takie tłumaczenie z gry golf: „… naucz się atakować każdą dziurę jak
-profesjonalista” [„hole” w golfie to „dołek”, nie „dziura”), kolokwializmów (np.
-„spring cleaning” wg MT to „wiosna – czyszczenie sprężyn” [zamiast „wiosenne
-porządki”]), metafor (np. zdanie „Put one in the back of the net!” w tłumaczeniu
-maszynowym brzmi: „Włóż jedną z tyłu siatki!” [a powinno brzmieć: „Wpakuj piłkę
-do siatki”]) czy tła kulturowego (np. tytuł obrazu Gian Lorenzo Berniniego „Ill
-ratto di Proserpina” w tłumaczeniu maszynowym brzmi: „Szczur Proserpina” [a
-powinno brzmieć: „Porwanie Proserpiny”]).</p>
-<p>AI trzeba nauczyć kolokwializmów, metafor itp., żeby można było ją stosować. -
-Skoro ona tego nie umie, to nie należy jej stosować jeszcze i forsować, żeby
-tłumacze robili postedycję. – stwierdził prelegent.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="co-możemy-z-tym-zrobić">Co możemy z tym zrobić?<a href="https://techwriter.pl/Konferencja%20T%C5%82umaczy%202023%20-%20relacja#co-mo%C5%BCemy-z-tym-zrobi%C4%87" class="hash-link" aria-label="Bezpośredni link do Co możemy z tym zrobić?" title="Bezpośredni link do Co możemy z tym zrobić?">​</a></h3>
-<p>Niestety niewiele. Działa tu czynnik ekonomiczny, bo tłumaczenie mechaniczne
-jest szybsze i tańsze od tłumaczenia wykonanego przez człowieka. Będzie gorsze,
-a czasem w ogóle nie będzie mieć sensu, ale jest to rzecz drugorzędna. Firmy
-dążą do maksymalizacji zysków i pieniędzy poprzez cięcie kosztów.</p>
-<p>Na koniec prelegent przedstawił smutną wizję losu tłumaczy, którzy zostaną
-sprowadzeni do roli poprawiaczy MTP. Nie miał złudzeń, że prędzej czy później
-tak się stanie. A z tłumaczy pisemnych ostaną się tylko tłumacze literatury
-pięknej, wysokiej, niszowej, beletrystyki, poezji. Ich sztuczna inteligencja
-jeszcze długo nie zastąpi.</p>
-<p>Janusz sugerował, że możemy spróbować obrócić to na naszą korzyść. Czyli zacząć
-samemu wykorzystywać AI do pomocy w naszej pracy, do przyspieszenia jej. Chociaż
-większość z nas już to robi – bo używa CAT-ów, które pomagają w tłumaczeniu
-mechanicznym. Do CAT-ów można podłączać pluginy (mówił o tym Agenor w swoim
-wystąpieniu w odniesieniu do Tradosa i OpenAI Translator).</p>
-<p>Na koniec prelegent przytoczył takie przysłowie indiańskie, które mówi: „Jeśli
-nie możesz kogoś pokonać, przyłącz się do niego”. Jest to pragmatyczne
-podsumowanie wystąpienia.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="tłumaczenia-certyfikowane-odporne-na-ai">Tłumaczenia certyfikowane odporne na AI?!<a href="https://techwriter.pl/Konferencja%20T%C5%82umaczy%202023%20-%20relacja#t%C5%82umaczenia-certyfikowane-odporne-na-ai" class="hash-link" aria-label="Bezpośredni link do Tłumaczenia certyfikowane odporne na AI?!" title="Bezpośredni link do Tłumaczenia certyfikowane odporne na AI?!">​</a></h2>
-<p><img decoding="async" loading="lazy" src="https://techwriter.pl/assets/images/pexels_conference-a1bd6b5e22ded1e441913524c7d85c5f.jpg" width="500" height="333" class="img_ev3q"></p>
-<p>Kolejne wystąpienie, które było bardziej dyskusją między uczestnikami i
-prowadzącymi niż suchą prelekcją, oscylowało wokół tematu sztucznej inteligencji
-i tego, czy AI jest zagrożeniem dla tłumaczy przysięgłych. Dlaczego zawód
-tłumacza ustnego nie wyginie w obliczu nowinek technologicznych?</p>
-<p>Opinie dyskutujących były podzielone. Byli tacy, którzy twierdzili, że AI
-zastąpi tłumaczy (ba, to już się dzieje), inni przeciwstawiali się temu
-twierdząc, że żywego tłumacza maszyna nigdy nie zastąpi, byli też tacy, którzy
-widzieli przyszłość we współpracy tłumacza z „maszynką” jak żartobliwie
-określali silnik do tłumaczenia maszynowego.</p>
-<p>Zachęcając do dyskusji prelegenci stawiali przed sobą i uczestnikami pytania,
-którym przyglądamy się poniżej.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="żywy-tłumacz--bo-człowiek-może-więcej">Żywy tłumacz – bo człowiek może więcej?<a href="https://techwriter.pl/Konferencja%20T%C5%82umaczy%202023%20-%20relacja#%C5%BCywy-t%C5%82umacz--bo-cz%C5%82owiek-mo%C5%BCe-wi%C4%99cej" class="hash-link" aria-label="Bezpośredni link do Żywy tłumacz – bo człowiek może więcej?" title="Bezpośredni link do Żywy tłumacz – bo człowiek może więcej?">​</a></h3>
-<p>Zastanawiano się, co to znaczy „może więcej”?</p>
-<p>Czy to znaczy, że może więcej ilościowo czy jakościowo? Jaka jest wartość dodana
-człowieka w zestawieniu go z maszyną? Dotyczy to oczywiście tłumaczeń ustnych.
-Czy człowiek może więcej w kontekście tłumaczeń ustnych niż maszyna?</p>
-<p>Wypowiadający się uczestnicy byli zgodni co do tego, że maszyna będzie lepsza od
-człowieka pod względem ilościowym – czyli jeśli chodzi np. o liczbę słów
-tłumaczonych na godzinę. Ma większy zasięg, jest łatwiej dostępna, może dotrzeć
-do większej liczby osób, które nie mają środków, aby inwestować w tłumaczy. Z
-maszyny można skorzystać tu i teraz, gdy człowiek jest w trudnej sytuacji, a pod
-ręką ma tylko komórkę.</p>
-<p>Jednak pod względem jakościowym, na chwilę obecną, jeśli chodzi o język polski,
-to maszyna nie będzie lepsza od człowieka. Nie będzie też wiedziała, czy
-wypowiedź człowieka stojącego na scenie (którego tłumacz tłumaczy) można
-przełożyć dokładnie tak, jak ona wybrzmiała. Czy publiczność nie zostanie
-przypadkiem obrażona. Bo dosłowne tłumaczenie może prowadzić do problemów nawet
-na skalę polityczną. W tym momencie maszyna może więcej, ale wcale nie lepiej.</p>
-<p>Pojawiły się też głosy, że idealną sytuacją by było, gdyby tłumacz był wspierany
-przez maszynę. Bo chociaż możemy być świetnymi tłumaczami, każdy może mieć
-gorszy dzień, każdy może nie zdążyć pojawić się na tłumaczeniu, a każdy ma prawo
-do dobrego tłumaczenia. I z uwagi na to tłumaczenie przez człowieka powinno iść
-w parze z tłumaczeniem maszynowym.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="tłumacz-w-sądzie-i-w-prokuraturze--bo-język-prawa-nie-jest-łatwy">Tłumacz w sądzie i w prokuraturze – bo język prawa nie jest łatwy?<a href="https://techwriter.pl/Konferencja%20T%C5%82umaczy%202023%20-%20relacja#t%C5%82umacz-w-s%C4%85dzie-i-w-prokuraturze--bo-j%C4%99zyk-prawa-nie-jest-%C5%82atwy" class="hash-link" aria-label="Bezpośredni link do Tłumacz w sądzie i w prokuraturze – bo język prawa nie jest łatwy?" title="Bezpośredni link do Tłumacz w sądzie i w prokuraturze – bo język prawa nie jest łatwy?">​</a></h3>
-<p>Prowadzący rozpoczęli tę część dyskusji od tego, że istnieją języki, które mają
-dużo różnych wariantów. Albo są pełne dialektów i np. w każdej wsi w danym kraju mówi
-się inaczej. Tak więc jeśli tłumacz zna dany język, to zna też powiązane z nim
-konteksty historyczne, kulturowe, dialekty czy warianty, to taki tłumacz „może
-więcej”. A silnik czy telefon użyty do tłumaczenia maszynowego może wyrządzić
-więcej szkody niż pożytku takiej osobie, która potrzebuje pomocy czy to w sądzie
-czy w prokuraturze.</p>
-<p>Bo maszyna, nawet najbardziej inteligentna nie wyjaśni i nie pomoże zrozumieć
-temu, komu tłumaczy albo kogo tłumaczy zawiłej formułki prawniczej czy terminów
-specjalistycznych. Czasem terminologia specjalistyczna wymaga sparafrazowania,
-opowiedzenia. Trudno maszynę wytrenować w takim zakresie i dostarczyć jej takie
-dane wejściowe. Wbrew temu, co niektórzy sugerowali, że maszynę można „nakarmić”
-danymi wejściowymi typu konteksty kulturowe, historyczne czy dialekty.</p>
-<p>Ponadto zdarzają się sytuacje, że język, którym posługuje się dana osoba nie
-jest nawet czystym dialektem, tylko czymś pomiędzy językiem ojczystym a językiem
-kraju jej zamieszkania. Albo połączeniem 3 języków sąsiadujących ze sobą krajów.
-Często jest to niezrozumiałe nawet dla samego tłumacza. A tym bardziej byłoby to
-dla maszyny. A dodatkowo, jeśli chodzi o języki rzadsze, to musimy jeszcze długo
-zaczekać, zanim maszyny nauczą się je dobrze tłumaczyć. Może radzą sobie z
-prostym angielskim, ewentualnie chińskim, rosyjskim czy hiszpańskim. Ale nie
-poradzą sobie z dialektem np. Turków pochodzenia bułgarskiego, którzy mówią
-specyficznym bardzo prostym dialektem.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="tłumacz-na-policji--bo-można-coś-przekręcić">Tłumacz na policji – bo można coś przekręcić?<a href="https://techwriter.pl/Konferencja%20T%C5%82umaczy%202023%20-%20relacja#t%C5%82umacz-na-policji--bo-mo%C5%BCna-co%C5%9B-przekr%C4%99ci%C4%87" class="hash-link" aria-label="Bezpośredni link do Tłumacz na policji – bo można coś przekręcić?" title="Bezpośredni link do Tłumacz na policji – bo można coś przekręcić?">​</a></h3>
-<p>Przy tym pytaniu pojawiły się opinie, że maszyna czasem przekręca i tłumaczy na
-odwrót. Może dojść do kuriozalnych sytuacji, gdy podczas przesłuchania na
-policji padnie pytanie ze strony śledczego: Ukradłeś? Na co podejrzany odpowie:
-Nie. A maszyna przetłumaczy: Tak.</p>
-<p>Nawiązano też do kwestii empatii w trakcie tłumaczenia. Pytano, czy empatia np.
-podczas trudnych tłumaczeń zeznań ofiar przestępstw jest potrzebna. Bo ważne
-jest, aby tak przetłumaczyć terminologię używaną przez funkcjonariuszy, żeby to
-nie brzmiało bezosobowo i instrumentalnie. Bo ofiara nie jest przygotowana na
-taki suchy i bezosobowy przekaz. Empatia okazana przez drugiego człowieka jest
-wtedy potrzeba. I jeszcze bardzo długo będzie.</p>
-<p>Wbrew zarzutom niektórych uczestników nie jest to ingerencja, tylko tłumaczenie
-na poziomie lingwistycznym. Chodzi o dobieranie kilku dostępnych odpowiedników w
-języku, na który tłumaczymy. Nie chodzi tutaj o bawienie się w psychologa, tylko
-odpowiednie dobieranie słów. Trzeba mieć z tyłu głowy, że obok siedzi żywa
-osoba, która jest zapłakana, rozedrgana, niekoniecznie jest przygotowana na
-generowany przez maszynę bezosobowy język, który nie będzie empatyczny.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="tłumacz-na-granicy--bo-w-tłumaczeniu-są-emocje">Tłumacz na granicy – bo w tłumaczeniu są emocje?<a href="https://techwriter.pl/Konferencja%20T%C5%82umaczy%202023%20-%20relacja#t%C5%82umacz-na-granicy--bo-w-t%C5%82umaczeniu-s%C4%85-emocje" class="hash-link" aria-label="Bezpośredni link do Tłumacz na granicy – bo w tłumaczeniu są emocje?" title="Bezpośredni link do Tłumacz na granicy – bo w tłumaczeniu są emocje?">​</a></h3>
-<p>– To, czego maszyna na pewno nie ma to empatia, której maszyna w sytuacji
-tłumaczeń wywołujących duże emocje nie okaże – stwierdził jeden z uczestników.</p>
-<p>Tu jest przewaga człowieka nad maszyną. Maszyny nie można nakarmić wyczuciem
-stanu emocjonalnego, tym, w jakim stanie psychicznym jest np. osoba, która jest
-przesłuchiwana w prokuraturze, nawet w charakterze świadka. Bo dla wielu osób
-jest to ogromny stres i tym osobom trzeba wytłumaczyć w jakiej sytuacji się
-znalazły.</p>
-<p>Pojawiły się głosy, że oczywiście maszyna nie odczuwa empatii, ale też nikt od
-niej tego nie oczekuje. A nawet jeśli, to patrząc na rozwój technologiczny jest
-to kwestia miesięcy, żeby maszyna się tego nauczyła. Od 2015 roku firmy uczą
-maszyny rozpoznawać emocje. To nie jest kwestia paru lat. To już teraz się
-dzieje. A poza tym, jeśli maszyna nie ma empatii, to nie ma też stronniczości
-politycznej.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="tłumacz-w-kontekstach-tajne-przez-poufne--bo-sekretów-trzeba-strzec">Tłumacz w kontekstach tajne przez poufne – bo sekretów trzeba strzec?<a href="https://techwriter.pl/Konferencja%20T%C5%82umaczy%202023%20-%20relacja#t%C5%82umacz-w-kontekstach-tajne-przez-poufne--bo-sekret%C3%B3w-trzeba-strzec" class="hash-link" aria-label="Bezpośredni link do Tłumacz w kontekstach tajne przez poufne – bo sekretów trzeba strzec?" title="Bezpośredni link do Tłumacz w kontekstach tajne przez poufne – bo sekretów trzeba strzec?">​</a></h3>
-<p>Przy tym pytaniu zastanawiano się, co z danymi poufnymi, którymi zostanie
-nakarmiona „maszynka”. Bo są informacje (np. tajemnice państwowe), które nie
-mogą wydostać się poza krąg danych osób. I człowiek sobie z tym radzi. A jak ma
-wyglądać w takim kontekście zastosowanie takiej maszyny.</p>
-<p>Pojawiły się głosy, że trudno sobie wyobrazić, aby rozmowy dyplomatyczne były
-tłumaczone przez maszynę. Bo tłumaczenia na najwyższym szczeblu muszą być
-wykonywane przez ludzi z uwagi na to, że ludzie mogą wyłapać kontekst. I często
-dzięki tłumaczom właśnie nie dochodzi do skandali właśnie np. dyplomatycznych.</p>
-<p>Wspomniano też o tajemnicy adwokackiej. Bo tłumaczone jest nie tylko
-przesłuchanie, ale też rozmowy adwokata z oskarżonym. Adwokat ustalający np.
-strategię obrony z klientem nie będzie chętny do korzystania z maszyny do
-tłumaczenia. Bo strony wymieniają między sobą informacje, które nie powinny
-nigdzie wypłynąć.</p>
-<p>Pojawiły się głosy, że nie będzie możliwości, aby maszyny zastąpiły tłumaczy w
-miejscach, gdzie nie ma Internetu. Jest to podstawowy problem przy tłumaczeniach
-online – czy jest Internet? Natomiast jeśli chodzi o tłumaczenia tajne, to nikt
-w takiej sytuacji nie dopuści do tego, żeby był Internet. Zwłaszcza, że przy
-takich tłumaczeniach podejmowane są wszelkie środki ostrożności – zostawia się
-komórki w innej sali, osoby mające uczestniczyć w spotkaniu są przeszukiwanie, a
-dopiero potem są wpuszczane na salę właściwą.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="to-co-z-tymi-maszynami-mającymi-zastąpić-człowieka">To co z tymi maszynami mającymi zastąpić człowieka?<a href="https://techwriter.pl/Konferencja%20T%C5%82umaczy%202023%20-%20relacja#to-co-z-tymi-maszynami-maj%C4%85cymi-zast%C4%85pi%C4%87-cz%C5%82owieka" class="hash-link" aria-label="Bezpośredni link do To co z tymi maszynami mającymi zastąpić człowieka?" title="Bezpośredni link do To co z tymi maszynami mającymi zastąpić człowieka?">​</a></h3>
-<p>Jak stwierdził jeden z uczestników, maszyny nie zastąpią całkowicie tłumaczy.
-Będzie raczej następować ich separacja, czyli do danej sytuacji, do konkretnego zakresu wykorzystane będzie albo jedno albo drugie. Powstaje pytanie, na ile ludzie, nie tłumacze,
-tylko ludzie korzystający z usług tłumaczy będą chcieli rozmawiać z maszyną.
-Przy jakich tekstach czy w jakich kontekstach będą chcieli używać maszyny do
-tłumaczenia.</p>
-<p>– Takie porównanie: były tramwaje w mieście, potem ich nie było, a
-potem powróciły, bo się okazało, że są potrzebne, więc może bez tych naszych
-tramwajów tłumaczeniowych też się obyć nie będzie można – dodał na koniec.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="podsumowanie">Podsumowanie<a href="https://techwriter.pl/Konferencja%20T%C5%82umaczy%202023%20-%20relacja#podsumowanie" class="hash-link" aria-label="Bezpośredni link do Podsumowanie" title="Bezpośredni link do Podsumowanie">​</a></h2>
-<p>Konferencja przebiegała w sympatycznej i przyjaznej atmosferze. Dyskusje, które
-toczyły się w salach prelekcyjnych można było przenieść w warunki bardziej
-nieformalne do jednego z warszawskich pubów, gdzie uczestnicy spotkali się po
-konferencji. Była to okazja do spędzenia czasu z kolegami i koleżankami z
-branży, wymiany doświadczeń zawodowych, porozmawiania na luźniejsze tematy, czy
-po prostu do miłego spędzenia czasu w gronie znajomych, z którymi nie ma się
-kontaktu osobistego na co dzień.</p>
-<p>Niektórzy patrzą z niepokojem w przyszłość i zastanawiają się, czy nie staną się
-przeżytkami w dobie tłumaczenia maszynowego i coraz szerszych zastosowań
-sztucznej inteligencji. Jednak gros tłumaczy jest zgodne co do tego, że
-maszyny ich tak szybko nie zastąpią.</p>
-<p>Są one z nami od jakiegoś czasu, ale stosunkowo jest to nowość, tak jak kiedyś
-CAT-y (czyli narzędzia wspomagające tłumaczenie), co do których również obawiano
-się, że zastąpią tłumaczy. A tymczasem, jak sama nazwa na to wskazuje, ich
-zadaniem było pomóc tłumaczom w ich pracy. Zwłaszcza przy wielostronicowych
-powtarzalnych dokumentach jak np. instrukcje obsługi. Ale nigdy nie zastąpiły
-one człowieka.</p>
-<p>Tak samo w przypadku tłumaczenia maszynowego czy AI. Mogą pomóc w pracy
-tłumacza, ale istnieją sytuacje i konteksty, w których maszyna nie będzie lepsza
-od człowieka. Albo nie będzie wskazane jej użycie. Dlatego tłumacze mogą spać
-spokojnie, przynajmniej przez kilkanaście kolejnych lat.</p>]]></content:encoded>
-            <category>news</category>
-            <category>z-kraju</category>
-            <category>konferencje</category>
-            <category>społecznosc</category>
         </item>
     </channel>
 </rss>
