@@ -16,7 +16,7 @@ coverImage: 'krk-content-day.png'
 Przygotowaliśmy dla was dwie opcje do wyboru:
 
 * **Design (thinking) a doc site**: Paweł Kowaluk pokaże wam jak wykorzystać podejście Design Thinking w tworzeniu dokumentacji.
-* **Designing and writing**: Wraz z Paweł Chłodnickim stworzycie design do aplikacji mobilnej.
+* **Designing and writing**: Wraz z Pawłem Chłodnickim stworzycie design do aplikacji mobilnej.
 
 Więcej informacji o warsztatach znajdziecie [tutaj](https://meetcontent.github.io/full-day#workshops).
 
