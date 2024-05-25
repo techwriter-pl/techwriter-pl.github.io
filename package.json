@@ -16,8 +16,8 @@
     "prettier": "prettier . --write"
   },
   "dependencies": {
-    "@docusaurus/core": "^3.2.1",
-    "@docusaurus/preset-classic": "^3.2.1",
+    "@docusaurus/core": "^3.3.2",
+    "@docusaurus/preset-classic": "^3.3.2",
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.5",
     "@mdx-js/react": "^3.0.0",
@@ -31,9 +31,9 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "^3.2.1",
-    "@docusaurus/tsconfig": "^3.2.1",
-    "@docusaurus/types": "^3.2.1",
+    "@docusaurus/module-type-aliases": "^3.3.2",
+    "@docusaurus/tsconfig": "^3.3.2",
+    "@docusaurus/types": "^3.3.2",
     "@types/gm": "^1",
     "@types/react": "^18.2.29",
     "fast-xml-parser": "4.2.7",
@@ -57,5 +57,5 @@
   "engines": {
     "node": ">=16.14"
   },
-  "packageManager": "yarn@4.0.1"
+  "packageManager": "yarn@4.2.2"
 }
