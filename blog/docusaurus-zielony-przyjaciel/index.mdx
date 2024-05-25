@@ -1,0 +1,309 @@
+---
+title: 'Docusaurus - zielony przyjaciel tech writera'
+authors: pensjonatus
+date: '2024-05-28'
+tags:
+  - 'warsztat'
+  - 'narzędzia'
+coverImage: 'docusaurus-zielony-przyjaciel.png'
+---
+
+Generator stron statycznych stworzony z myślą o dokumentacji. Czy się faktycznie
+nadaje? Oto nasze wrażenia.
+
+{/* truncate */}
+
+## Co to jest Docusaurus?
+
+Docusaurus to Static Site Generator, czyli aplikacja do generowania stron
+statycznych. Przedstawicielem tej grupy jest na przykład DITA OT, ale jest ich
+[znacznie więcej](https://jamstack.org/generators/). Podobnie jak DITA OT,
+Docusaurus został stworzony do dokumentacji, ale nie ma on nic wspólnego z ditą.
+W Docusaurusie piszemy w formacie Markdown, a konkretnie MDX.
+
+W dużym skrócie, projekt strony z Docusaurusem ma folder "docs" w którym piszemy
+swoje strony (topiki, artykuły) i plik, który pozwala nam zarządzać nawigacją.
+
+Jeżeli korzystacie z narzędzi wokół programowania front-end, to na pewno
+widzieliście już Docusaurusa, na przykład na stronie
+[Yarn](https://yarnpkg.com/) albo
+[Testing Library](https://testing-library.com/). Jeżeli nie, to może
+zauważyliście, że w (w momencie publikacji tego artykułu) Docusaurus zasila
+strony [MeetContent](https://meetcontent.github.io/) i stronę, która aktualnie
+czytasz.
+
+## Dlaczego do dokumentacji?
+
+Docusaurus od początku był stworzony z myślą o dokumentacji do projektów open
+source dla firmy Meta (ówcześnie Google Open Source). Joel Marcey, ich
+_developer advocate_,
+[napisał w 2017](https://docusaurus.io/blog/2017/12/14/introducing-docusaurus),
+że Docusaurus powstał po to, aby:
+
+1. Skupić sie na pisaniu dobrej dokumentacji zamiast martwić się infrastrukturę
+   strony.
+1. Dać stronom dokumentacyjnym najważniejsze funkcjonalności, czyli
+   wersjonowanie, wyszukiwanie i blogowanie.
+1. Dzielić się ze społecznością open source najnowszymi funkcjonalnościami i bug
+   fixami w przystepny sposób. Osiągnęli to publikując Docusaurusa jako
+   biblioteki NPMowe.
+1. Żeby stronki o ich projektach open source miały wspólny wygląd i
+   funkcjonalność.
+
+Ta ostatni cecha przysłużyła się szerszej społeczności i stała się swego rodzaju
+standardem w pewnych kręgach.
+
+Docusaurus ma typowe cech strony z dokumentacją:
+
+- Strona domowa z linkami do najważniejszych miejsc.
+- Podstronki z dokumentacją i nawigacja po lewej, która pozwala się po nich
+  swobodnie poruszać.
+- Pole wyszukiwania w górnym prawym rogu.
+- Sekcja "blog".
+- Strona z wersjami i linkami do release note'ów.
+- Numer wersji w górnym pasku strony i możliwość przełaczania się między
+  wersjami.
+- Możliwość przełączania się między językami.
+
+Dodatkowo, na stronach z dokumentacją można używać wszelkich dobrodziejstw
+Markdowna. Oprócz typowych list, tabel, linków i obrazków, możesz znaleźć takie
+rzeczy jak:
+
+Bloki kodu (_code blocks_) z pokolorowanymi literkami i przyciskiem do
+kopiowania.Można je też wzbogacić o działający podgląd, jeżeli próbka kodu jest
+na przykład napisana w Reakcie. Co więcej, można pozwolić użytkownikowi edytować
+ten podgląd, tak jak poniżej.
+
+```jsx live
+function FruitMachine(props) {
+  const [fruit, setFruit] = useState([]);
+
+  // tutaj wpisz swoje imię:
+  const name = 'Balthazar';
+
+  function addFruit(value) {
+    setFruit((existingFruit) => [...existingFruit, value]);
+  }
+
+  return (
+    <div
+      style={{
+        margin: '1rem 0',
+      }}
+    >
+      <div style={{ display: 'flex', flexDirection: 'column', gap: '6px' }}>
+        <button
+          role="button"
+          onClick={() => addFruit('🍌')}
+          className="button button--primary"
+        >
+          Add banana
+        </button>
+        <button
+          role="button"
+          onClick={() => addFruit('🍎')}
+          className="button button--primary"
+        >
+          Add apple
+        </button>
+        <button
+          role="button"
+          onClick={() => addFruit('🍑')}
+          className="button button--primary"
+        >
+          Add peach
+        </button>
+        <button
+          role="button"
+          onClick={() => addFruit('🥦')}
+          className="button button--primary"
+        >
+          Add broccoli (technically, a vegetable)
+        </button>
+      </div>
+      <div className="card padding--lg" style={{ flex: 1 }}>
+        <h3>
+          Hello, {name}! You currently have {fruit.length} fruit.
+        </h3>
+        <div>You have: {fruit.join(' ')}</div>
+      </div>
+    </div>
+  );
+}
+```
+
+Wyróżnione notki typu "ważne", "uwaga", "niebezpieczeństwo", itp. (tzw.
+_admonitions_).
+
+:::danger Uwaga: NUDA!
+
+Osiągnięcie **zbyt wysokiego** poziomu umiejętności może sprawić, że większość
+zadań będzie Cię **nudzić**. Dlatego rób rzeczy byle jak.
+
+:::
+
+Taby do wyświetlania różnych wersji tej samej rzeczy.
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs>
+  <TabItem value="windows" label="Windows" default>
+
+```bash
+format C:
+```
+
+  </TabItem>
+  <TabItem value="macos" label="MacOS">
+
+```bash
+mkfs.(anything)
+```
+
+  </TabItem>
+  <TabItem value="linux" label="Linux">
+
+```bash
+rm -rf /
+```
+
+  </TabItem>
+</Tabs>
+
+Sekcje zwijane (tzw. "zwijaki").
+
+import { CollapseMe } from './collapse';
+
+<details>
+  <summary>Rozwiń</summary>
+  <div>
+    <div>Tutaj więcej szczegółów</div>
+    <br />
+    <details>
+      <summary>Ciekawe co jest dalej? 🤔</summary>
+      <CollapseMe />
+    </details>
+  </div>
+</details>
+
+## Wersjonowanie
+
+Docusaurus pozwala na stworzenie
+[strony, która zawiera w sobie wiele wersji](https://docusaurus.io/docs/versioning).
+To dobre podejście dla małych, zamkniętych projektów i pozwala użytkownikowi na
+wgląd w dowolną wersję w zależności od potrzeb. Mechanizm wersjonowania jest
+dosyć prosty w obsłudze i jest w pełni opcjonalny. Cała strona może być
+skonstruowana tak. że reprezentuje tylko jedną najnowszą wersję.
+
+## Wyszukiwanie
+
+Docusaurus pozwala na prosta integrację z serwisem Algolia. To dobra opcja,
+jeżeli nasza strona jest powszechni dostepna w Internecie bo Algolia wymaga
+otwartego dostępu, żeby zindeksować stronę. Jeżeli to nie pasuje do naszej
+sytuacji, możemy skorzystać z innej z
+[dostępnych opcji](https://docusaurus.io/docs/search), w tym dołączyć swój
+własny mechanizm wyszukiwania.
+
+## Reuse
+
+Docusaurus pozwala na reużywać fragmenty stron za pomocą
+[importów w pliku Markdown](https://docusaurus.io/docs/markdown-features/react#importing-markdown).
+Ta opcja pozwala nam użyć ten sam fragment strony z opcjonalnymi parametrami. Na
+przykład taki fragment:
+
+```markdown title="_fruit.mdx"
+Mój ulubiony owoc to {props.fruit}!
+```
+
+Używamy go w taki sposób:
+
+```markdown
+import Fruit from './\_fruit.mdx';
+
+<Fruit fruit="🍌" />
+
+<Fruit fruit="🥦" />
+```
+
+import Fruit from './_fruit.mdx';
+
+<Fruit fruit="🍌" />
+
+<Fruit fruit="🥦" />
+
+## Tłumaczenie
+
+Docusaurus ma cały
+[wbudowany mechanizm tłumaczenia](https://docusaurus.io/docs/i18n/introduction),
+który pozwala przetłumaczyć większość stron w większości przypadków. Jedyny
+wyjątek stanowi skomplikowane użycie plików MDX, które jeszcze nie jest do końca
+proste do przetłumaczenia. Ale są sposoby, żeby to obejść.
+
+Podstawą mechanizmu tłumaczenia są dwa aspekty:
+
+- Pliki MDX są tłumaczone jak pliki Markdown. Większość agencji tłumaczeniowych
+  i narzędzi do tłumaczeń powinna sobie z tym poradzić.
+- Tłumaczenie customowych stron JSX/TSX i innego kodu możemy osiągnąć używając
+  wbudowanych komend, które ekstrahują tekst do plików JSON.
+
+## Blogowanie
+
+Jeżeli chcecie publikować nowości o Waszym projekcie, Docusaurus proponuje
+zrobić to przez moduł do blogowania. Każdy post na blogu jest plikiem MDX i
+zachowuje się bardzo podobnie do strony z docsami, ale dodatkowo ma datę.
+Posiada też tagi, które pozwalają wyświetlić listę podobnych wpisów.
+
+## JSX, React i Node.js
+
+Format MDX używany w Docusaurusie pozwala na używanie komponentów JSX lub TSX
+(Typescript), czyli elementów strony napisanych w Reakcie. Jeżeli potrafisz
+programować, lub znasz kogoś kto potrafi, to otwiera całą masę możliwości:
+
+- Konfigurowalne formularze
+- Tabele, list, lub sekcje, których treść pochodzi ze źródła danych
+- Strony generowanie w czasie budowania, na przykład zawierające listy błędów
+  lub parametrów
+- Interaktywne próbki kodu z plików, które sa testowane, żeby upewnić się, że
+  próbka działa
+- Pięknie wystylizowanie karty, galerie, karuzele i tym podobne.
+
+Docusaurus jest budowany za pomocą Node.js. To oznacza, że w momencie budowania
+mamy pełną władzę nad tym skąd pochodzi treść i możemy automatyzować. Możemy
+wszystko napisać ręcznie, ale możemy też niektóre lub wszystkie strony
+`wygenerować`. Na przykład możemy pobrać dane z bazy i wygenerować z nich
+tabele, albo zebrać wpisy na bloga z CMSa, lub release notes z Jiry. Dla
+majsterkowicza z odrobiną zapału nic nie jest niemożliwe.
+
+## Cena
+
+W momencie publikacji artykułu, Docusaurus jest "za darmo" i można go
+wykorzystywać dowolnie, ale zapoznajcie się z warunkami licencji zanim skoczycie
+na głęboką wodę. Ten wpis na blogu nie stanowi porady prawnej, oferty handlowej,
+ani nie może byc użyty jako kupon zniżkowy w sklepie z rowerami.
+
+## Hostowanie
+
+Magia stron statycznych polega na tym, że można je hostować praktycznie
+wszędzie! Co to oznacza? Poradzi sobie z nimi dowolny serwer o architekturze
+podobnej do Apache Web Server, dowolny CDN, czy serwis taki jak Amazon S3.
+Docusaurus generuje pliki HTML, CSS i Javascript czyli absolutny standard.
+
+Dobrą opcją na hostowanie Docusaurusa sa GitHub pages, ale możecie skorzystać z
+bardzo wielu innych, o czym przeczytacie na stronie
+["Deployment"](https://docusaurus.io/docs/deployment).
+
+## Jak zacząć
+
+Wszystko jest opisane [tutaj](https://docusaurus.io/docs/installation). Ale z
+grubsza wygląda to tak:
+
+1. Zainstaluj Node.js (np. przez NVM)
+1. Zainstaluj Docusaurusa, to tworzy lokalny folder projektu
+1. Napisz docsy w Markdownie
+1. Wypchnij do source control
+1. Opublikuj
+1. Czerp korzyści i zyskaj niezależność finansową.
+
+A Wy korzystaliście z Docusaurusa? Jakie są jego słabe strony? Podzielcie się z
+nami w komentarzach.
