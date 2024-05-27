@@ -16,7 +16,8 @@ nadaje? Oto nasze wrażenia.
 ## Co to jest Docusaurus?
 
 Docusaurus to Static Site Generator, czyli aplikacja do generowania stron
-statycznych. Przedstawicielem tej grupy jest na przykład DITA OT, ale jest ich
+statycznych. Przedstawicielem tej grupy jest na przykład
+[DITA OT](https://www.dita-ot.org/), ale jest ich
 [znacznie więcej](https://jamstack.org/generators/). Podobnie jak DITA OT,
 Docusaurus został stworzony do dokumentacji, ale nie ma on nic wspólnego z ditą.
 W Docusaurusie piszemy w formacie Markdown, a konkretnie MDX.
@@ -28,20 +29,19 @@ Jeżeli korzystacie z narzędzi wokół programowania front-end, to na pewno
 widzieliście już Docusaurusa, na przykład na stronie
 [Yarn](https://yarnpkg.com/) albo
 [Testing Library](https://testing-library.com/). Jeżeli nie, to może
-zauważyliście, że w (w momencie publikacji tego artykułu) Docusaurus zasila
-strony [MeetContent](https://meetcontent.github.io/) i stronę, która aktualnie
-czytasz.
+zauważyliście, że (w momencie publikacji tego artykułu) Docusaurus zasila strony
+[MeetContent](https://meetcontent.github.io/) i stronę, którą aktualnie czytasz.
 
 ## Dlaczego do dokumentacji?
 
 Docusaurus od początku był stworzony z myślą o dokumentacji do projektów open
-source dla firmy Meta (ówcześnie Google Open Source). Joel Marcey, ich
+source dla firmy Meta (ówcześnie Facebook Open Source). Joel Marcey, ich
 _developer advocate_,
 [napisał w 2017](https://docusaurus.io/blog/2017/12/14/introducing-docusaurus),
 że Docusaurus powstał po to, aby:
 
-1. Skupić sie na pisaniu dobrej dokumentacji zamiast martwić się infrastrukturę
-   strony.
+1. Skupić się na pisaniu dobrej dokumentacji zamiast martwić się o
+   infrastrukturę strony.
 1. Dać stronom dokumentacyjnym najważniejsze funkcjonalności, czyli
    wersjonowanie, wyszukiwanie i blogowanie.
 1. Dzielić się ze społecznością open source najnowszymi funkcjonalnościami i bug
@@ -53,24 +53,24 @@ _developer advocate_,
 Ta ostatni cecha przysłużyła się szerszej społeczności i stała się swego rodzaju
 standardem w pewnych kręgach.
 
-Docusaurus ma typowe cech strony z dokumentacją:
+Docusaurus ma typowe cechy strony z dokumentacją:
 
 - Strona domowa z linkami do najważniejszych miejsc.
-- Podstronki z dokumentacją i nawigacja po lewej, która pozwala się po nich
+- Podstronki z dokumentacją i nawigacją po lewej, która pozwala się po nich
   swobodnie poruszać.
-- Pole wyszukiwania w górnym prawym rogu.
+- Pole wyszukiwania w prawym górnym rogu.
 - Sekcja "blog".
 - Strona z wersjami i linkami do release note'ów.
-- Numer wersji w górnym pasku strony i możliwość przełaczania się między
+- Numer wersji w górnym pasku strony i możliwość przełączania się między
   wersjami.
 - Możliwość przełączania się między językami.
 
 Dodatkowo, na stronach z dokumentacją można używać wszelkich dobrodziejstw
 Markdowna. Oprócz typowych list, tabel, linków i obrazków, możesz znaleźć takie
-rzeczy jak:
+rzeczy jak bloki kodu, wyróżnione notki, czy sekcje zwijane. Zobacz nasze
+przykłady poniżej.
 
-Bloki kodu (_code blocks_) z pokolorowanymi literkami i przyciskiem do
-kopiowania.Można je też wzbogacić o działający podgląd, jeżeli próbka kodu jest
+kopiowania. Można je też wzbogacić o działający podgląd, jeżeli próbka kodu jest
 na przykład napisana w Reakcie. Co więcej, można pozwolić użytkownikowi edytować
 ten podgląd, tak jak poniżej.
 
@@ -191,26 +191,26 @@ import { CollapseMe } from './collapse';
 
 Docusaurus pozwala na stworzenie
 [strony, która zawiera w sobie wiele wersji](https://docusaurus.io/docs/versioning).
-To dobre podejście dla małych, zamkniętych projektów i pozwala użytkownikowi na
-wgląd w dowolną wersję w zależności od potrzeb. Mechanizm wersjonowania jest
-dosyć prosty w obsłudze i jest w pełni opcjonalny. Cała strona może być
-skonstruowana tak. że reprezentuje tylko jedną najnowszą wersję.
+To dobre podejście dla małych, zamkniętych projektów, które pozwala
+użytkownikowi na wgląd w dowolną wersję w zależności od potrzeb. Mechanizm
+wersjonowania jest dosyć prosty w obsłudze i jest w pełni opcjonalny. Cała
+strona może być skonstruowana tak, że reprezentuje tylko jedną najnowszą wersję.
 
 ## Wyszukiwanie
 
-Docusaurus pozwala na prosta integrację z serwisem Algolia. To dobra opcja,
-jeżeli nasza strona jest powszechni dostepna w Internecie bo Algolia wymaga
-otwartego dostępu, żeby zindeksować stronę. Jeżeli to nie pasuje do naszej
-sytuacji, możemy skorzystać z innej z
-[dostępnych opcji](https://docusaurus.io/docs/search), w tym dołączyć swój
-własny mechanizm wyszukiwania.
+Docusaurus pozwala na prostą integrację z serwisem
+[Algolia](https://www.algolia.com/). To dobra opcja, jeżeli nasza strona jest
+powszechnie dostępna w Internecie, bo Algolia wymaga otwartego dostępu, żeby
+zindeksować stronę. Jeżeli to nie pasuje do naszej sytuacji, możemy skorzystać z
+innej z [dostępnych opcji](https://docusaurus.io/docs/search), w tym dołączyć
+swój własny mechanizm wyszukiwania.
 
 ## Reuse
 
-Docusaurus pozwala na reużywać fragmenty stron za pomocą
+Docusaurus posiada opcję wielokrotnego użycia tego samego fragmentu za pomocą
 [importów w pliku Markdown](https://docusaurus.io/docs/markdown-features/react#importing-markdown).
-Ta opcja pozwala nam użyć ten sam fragment strony z opcjonalnymi parametrami. Na
-przykład taki fragment:
+Co więcej, takie fragmenty mogą mieć parametry, dzięki czemu stają się jeszcze
+bardziej uniwersalne. Na przykład:
 
 ```markdown title="_fruit.mdx"
 Mój ulubiony owoc to {props.fruit}!
@@ -234,8 +234,8 @@ import Fruit from './_fruit.mdx';
 
 ## Tłumaczenie
 
-Docusaurus ma cały
-[wbudowany mechanizm tłumaczenia](https://docusaurus.io/docs/i18n/introduction),
+Docusaurus ma
+[wbudowany kompletny mechanizm](https://docusaurus.io/docs/i18n/introduction),
 który pozwala przetłumaczyć większość stron w większości przypadków. Jedyny
 wyjątek stanowi skomplikowane użycie plików MDX, które jeszcze nie jest do końca
 proste do przetłumaczenia. Ale są sposoby, żeby to obejść.
@@ -256,31 +256,32 @@ Posiada też tagi, które pozwalają wyświetlić listę podobnych wpisów.
 
 ## JSX, React i Node.js
 
-Format MDX używany w Docusaurusie pozwala na używanie komponentów JSX lub TSX
-(Typescript), czyli elementów strony napisanych w Reakcie. Jeżeli potrafisz
-programować, lub znasz kogoś kto potrafi, to otwiera całą masę możliwości:
+[Format MDX](https://mdxjs.com/) używany w Docusaurusie pozwala na używanie
+komponentów JSX lub TSX (TypeScript), czyli elementów strony napisanych w
+Reakcie. Jeżeli potrafisz programować, lub znasz kogoś kto potrafi, to otwiera
+całą masę możliwości:
 
 - Konfigurowalne formularze
-- Tabele, list, lub sekcje, których treść pochodzi ze źródła danych
+- Tabele, listy, lub sekcje, których treść pochodzi ze źródła danych
 - Strony generowanie w czasie budowania, na przykład zawierające listy błędów
   lub parametrów
-- Interaktywne próbki kodu z plików, które sa testowane, żeby upewnić się, że
-  próbka działa
+- Interaktywne próbki kodu z plików, które mogą być testowane pod kątem
+  poprawności
 - Pięknie wystylizowanie karty, galerie, karuzele i tym podobne.
 
-Docusaurus jest budowany za pomocą Node.js. To oznacza, że w momencie budowania
-mamy pełną władzę nad tym skąd pochodzi treść i możemy automatyzować. Możemy
-wszystko napisać ręcznie, ale możemy też niektóre lub wszystkie strony
-`wygenerować`. Na przykład możemy pobrać dane z bazy i wygenerować z nich
-tabele, albo zebrać wpisy na bloga z CMSa, lub release notes z Jiry. Dla
-majsterkowicza z odrobiną zapału nic nie jest niemożliwe.
+Docusaurus jest budowany za pomocą [Node.js](https://nodejs.org/en). To oznacza,
+że w momencie budowania mamy pełną władzę nad tym skąd pochodzi treść co daje
+nam sporo opcji automatyzacji. Możemy wszystko napisać ręcznie, ale możemy też
+niektóre lub wszystkie strony `wygenerować`. Na przykład możemy pobrać dane z
+bazy i wygenerować z nich tabele, albo zebrać wpisy na bloga z CMSa, lub release
+notes z Jiry. Dla majsterkowicza z odrobiną zapału wszystko jest możliwe.
 
 ## Cena
 
-W momencie publikacji artykułu, Docusaurus jest "za darmo" i można go
-wykorzystywać dowolnie, ale zapoznajcie się z warunkami licencji zanim skoczycie
-na głęboką wodę. Ten wpis na blogu nie stanowi porady prawnej, oferty handlowej,
-ani nie może byc użyty jako kupon zniżkowy w sklepie z rowerami.
+W momencie publikacji artykułu, Docusaurus jest darmowy i można go wykorzystywać
+dowolnie, ale zapoznajcie się z warunkami licencji zanim skoczycie na głęboką
+wodę. Ten wpis na blogu nie stanowi porady prawnej, oferty handlowej, ani nie
+może byc użyty jako kupon zniżkowy w sklepie z rowerami.
 
 ## Hostowanie
 
@@ -289,8 +290,9 @@ wszędzie! Co to oznacza? Poradzi sobie z nimi dowolny serwer o architekturze
 podobnej do Apache Web Server, dowolny CDN, czy serwis taki jak Amazon S3.
 Docusaurus generuje pliki HTML, CSS i Javascript czyli absolutny standard.
 
-Dobrą opcją na hostowanie Docusaurusa sa GitHub pages, ale możecie skorzystać z
-bardzo wielu innych, o czym przeczytacie na stronie
+Dobrą opcją na hostowanie Docusaurusa są
+[GitHub Pages](https://pages.github.com/), ale możecie skorzystać z bardzo wielu
+innych, o czym przeczytacie na stronie
 ["Deployment"](https://docusaurus.io/docs/deployment).
 
 ## Jak zacząć
@@ -298,12 +300,12 @@ bardzo wielu innych, o czym przeczytacie na stronie
 Wszystko jest opisane [tutaj](https://docusaurus.io/docs/installation). Ale z
 grubsza wygląda to tak:
 
-1. Zainstaluj Node.js (np. przez NVM)
-1. Zainstaluj Docusaurusa, to tworzy lokalny folder projektu
-1. Napisz docsy w Markdownie
-1. Wypchnij do source control
-1. Opublikuj
+1. Zainstaluj Node.js (np. przez NVM).
+1. Zainstaluj Docusaurusa, żeby stworzyć lokalny folder projektu.
+1. Napisz docsy w Markdownie.
+1. Wypchnij zmiany do systemu kontroli wersji.
+1. Opublikuj.
 1. Czerp korzyści i zyskaj niezależność finansową.
 
-A Wy korzystaliście z Docusaurusa? Jakie są jego słabe strony? Podzielcie się z
-nami w komentarzach.
+A Wy korzystaliście już z Docusaurusa? Jeśli tak, dajcie nam znać w komentarzach
+co sądzicie o tym narzędziu.
