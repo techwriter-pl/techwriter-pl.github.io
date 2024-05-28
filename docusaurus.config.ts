@@ -115,6 +115,7 @@ const config: Config = {
     },
   } satisfies Preset.ThemeConfig,
   plugins: [techWriterWebpackPlugin],
+  themes: ['@docusaurus/theme-live-codeblock']
 };
 
 export default config;
