@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[5517],{82902:e=>{e.exports=JSON.parse('{"permalink":"/tags/biblioteczka-techwritera/page/5","page":5,"postsPerPage":3,"totalPages":5,"totalCount":14,"previousPage":"/tags/biblioteczka-techwritera/page/4","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

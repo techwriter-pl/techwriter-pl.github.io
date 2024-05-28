@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[56434],{17950:a=>{a.exports=JSON.parse('{"permalink":"/tags/lokalizacja/page/3","page":3,"postsPerPage":3,"totalPages":4,"totalCount":11,"previousPage":"/tags/lokalizacja/page/2","nextPage":"/tags/lokalizacja/page/4","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

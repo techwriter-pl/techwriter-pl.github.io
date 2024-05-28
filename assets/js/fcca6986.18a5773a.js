@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[39148],{77337:e=>{e.exports=JSON.parse('{"permalink":"/tags/ankieta","page":1,"postsPerPage":3,"totalPages":6,"totalCount":16,"nextPage":"/tags/ankieta/page/2","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

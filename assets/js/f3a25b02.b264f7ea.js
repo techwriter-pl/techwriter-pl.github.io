@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[88632],{90755:e=>{e.exports=JSON.parse('{"permalink":"/tags/z-przymruzeniem-oka/page/5","page":5,"postsPerPage":3,"totalPages":10,"totalCount":28,"previousPage":"/tags/z-przymruzeniem-oka/page/4","nextPage":"/tags/z-przymruzeniem-oka/page/6","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

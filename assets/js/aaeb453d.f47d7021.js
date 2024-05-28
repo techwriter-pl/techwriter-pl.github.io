@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[58463],{79975:e=>{e.exports=JSON.parse('{"label":"konferencje","permalink":"/tags/konferencje","allTagsPath":"/tags","count":154,"unlisted":false}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[28530],{90121:a=>{a.exports=JSON.parse('{"label":"komunikacja-techniczna","permalink":"/tags/komunikacja-techniczna","allTagsPath":"/tags","count":2,"unlisted":false}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[49869],{58760:e=>{e.exports=JSON.parse('{"permalink":"/tags/materialy-szkoleniowe/page/3","page":3,"postsPerPage":3,"totalPages":3,"totalCount":9,"previousPage":"/tags/materialy-szkoleniowe/page/2","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

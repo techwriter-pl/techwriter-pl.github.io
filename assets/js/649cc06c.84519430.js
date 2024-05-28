@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[76506],{91021:e=>{e.exports=JSON.parse('{"label":"dokuemntacja developerska","permalink":"/tags/dokuemntacja-developerska","allTagsPath":"/tags","count":1,"unlisted":false}')}}]);

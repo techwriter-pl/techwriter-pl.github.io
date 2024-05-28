@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[34807],{40659:e=>{e.exports=JSON.parse('{"permalink":"/tags/tlumaczenia/page/4","page":4,"postsPerPage":3,"totalPages":8,"totalCount":23,"previousPage":"/tags/tlumaczenia/page/3","nextPage":"/tags/tlumaczenia/page/5","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

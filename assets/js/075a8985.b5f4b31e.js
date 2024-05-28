@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[70401],{93521:e=>{e.exports=JSON.parse('{"label":"dzie\u0144 z \u017cycia","permalink":"/tags/dzien-z-zycia","allTagsPath":"/tags","count":1,"unlisted":false}')}}]);

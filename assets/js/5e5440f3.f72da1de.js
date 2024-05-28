@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[50673],{86948:e=>{e.exports=JSON.parse('{"permalink":"/tags/pomoc-uzytkownika/page/8","page":8,"postsPerPage":3,"totalPages":9,"totalCount":27,"previousPage":"/tags/pomoc-uzytkownika/page/7","nextPage":"/tags/pomoc-uzytkownika/page/9","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

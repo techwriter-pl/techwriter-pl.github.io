@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[78825],{66529:e=>{e.exports=JSON.parse('{"label":"video produktowe","permalink":"/tags/video-produktowe","allTagsPath":"/tags","count":1,"unlisted":false}')}}]);
