@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Averia+Serif+Libre&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Oswald&display=swap');
 
 /* You can override the default Infima variables here. */
 :root {
@@ -13,7 +13,7 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
   --tech-writer-impact-color: #f5bf03;
   --nice-heading-font: 'Oswald', sans-serif;
-  --subheading-font: 'Averia Serif Libre', cursive;
+  --subheading-font: serif;
   --ifm-font-family-base: 'Merriweather', serif;
 }
 
