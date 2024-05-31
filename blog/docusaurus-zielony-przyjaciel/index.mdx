@@ -82,6 +82,25 @@ function FruitMachine(props) {
   // tutaj wpisz swoje imię:
   const name = 'Balthazar';
 
+  const fruitList = [
+    {
+      fruitEmoji: '🍌',
+      label: 'Add banana',
+    },
+    {
+      fruitEmoji: '🍎',
+      label: 'Add apple',
+    },
+    {
+      fruitEmoji: '🍑',
+      label: 'Add peach',
+    },
+    {
+      fruitEmoji: '🥦',
+      label: 'Add broccoli (technically, a vegetable)',
+    },
+  ];
+
   function addFruit(value) {
     setFruit((existingFruit) => [...existingFruit, value]);
   }
@@ -93,34 +112,16 @@ function FruitMachine(props) {
       }}
     >
       <div style={{ display: 'flex', flexDirection: 'column', gap: '6px' }}>
-        <button
-          role="button"
-          onClick={() => addFruit('🍌')}
-          className="button button--primary"
-        >
-          Add banana
-        </button>
-        <button
-          role="button"
-          onClick={() => addFruit('🍎')}
-          className="button button--primary"
-        >
-          Add apple
-        </button>
-        <button
-          role="button"
-          onClick={() => addFruit('🍑')}
-          className="button button--primary"
-        >
-          Add peach
-        </button>
-        <button
-          role="button"
-          onClick={() => addFruit('🥦')}
-          className="button button--primary"
-        >
-          Add broccoli (technically, a vegetable)
-        </button>
+        {fruitList.map(({ fruitEmoji, label }) => (
+          <button
+            key={label}
+            role="button"
+            onClick={() => addFruit(fruitEmoji)}
+            className="button button--primary"
+          >
+            {label}
+          </button>
+        ))}
       </div>
       <div className="card padding--lg" style={{ flex: 1 }}>
         <h3>
