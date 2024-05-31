@@ -67,7 +67,8 @@ wersjami.</li>
 Markdowna. Oprócz typowych list, tabel, linków i obrazków, możesz znaleźć takie
 rzeczy jak bloki kodu, wyróżnione notki, czy sekcje zwijane. Zobacz nasze
 przykłady poniżej.</p>
-<p>kopiowania. Można je też wzbogacić o działający podgląd, jeżeli próbka kodu jest
+<p>Bloki kodu (<em>code blocks</em>) z pokolorowanymi literkami i przyciskiem do
+kopiowania. Można je też wzbogacić o działający podgląd, jeżeli próbka kodu jest
 na przykład napisana w Reakcie. Co więcej, można pozwolić użytkownikowi edytować
 ten podgląd, tak jak poniżej.</p>
 <div class="playgroundContainer_X_Ta"><div class="playgroundHeader_dyrN">Edytor live</div><div class="playgroundEditor_Q6Y7"><pre class="prism-code language-tsx" style="margin:0;outline:none;padding:10px;font-family:inherit;color:#393A34;background-color:#f6f8fa" spellcheck="false"><span class="token-line" style="color:#393A34"><span class="token keyword" style="color:#00009f">function</span><span class="token plain"> </span><span class="token function" style="color:#d73a49">FruitMachine</span><span class="token punctuation" style="color:#393A34">(</span><span class="token plain">props</span><span class="token punctuation" style="color:#393A34">)</span><span class="token plain"> </span><span class="token punctuation" style="color:#393A34">{</span><span class="token plain"></span>
