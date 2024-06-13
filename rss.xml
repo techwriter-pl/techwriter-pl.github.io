@@ -4,10 +4,70 @@
         <title>techwriter.pl Blog</title>
         <link>https://techwriter.pl/</link>
         <description>techwriter.pl Blog</description>
-        <lastBuildDate>Fri, 31 May 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jun 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>pl</language>
+        <item>
+            <title><![CDATA[MeetContentWRO maj 2024 - Relacja]]></title>
+            <link>https://techwriter.pl/meet-content-wro-maj-2024-relacja</link>
+            <guid>https://techwriter.pl/meet-content-wro-maj-2024-relacja</guid>
+            <pubDate>Sun, 16 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[22 maja spotkaliśmy się biurze firmy Etteplan.  #28 MeetContentWRO i tym razem składał się z dwóch prezentacji.]]></description>
+            <content:encoded><![CDATA[<p>22 maja spotkaliśmy się biurze firmy Etteplan.  #28 MeetContentWRO i tym razem składał się z dwóch prezentacji.</p>
+<p>Na pierwszy ogień poszła <a href="https://www.linkedin.com/in/barbara-kardel-piatkowska/" target="_blank" rel="noopener noreferrer">Basia Kardel-Piątkowska</a>, która opowiedziała nam o transferze i retencji wiedzy w zespole dokumentacyjnym.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="transfer-i-retencja-wiedzy">Transfer i retencja wiedzy<a href="https://techwriter.pl/meet-content-wro-maj-2024-relacja#transfer-i-retencja-wiedzy" class="hash-link" aria-label="Bezpośredni link do Transfer i retencja wiedzy" title="Bezpośredni link do Transfer i retencja wiedzy">​</a></h2>
+<p>Basia zaczęła od nakreślenia specyficznych warunków, w jakich pracują Tech Writerzy w Etteplan. Firma świadczy usługi dokumentacyjne dla innych firm. Czasem jest to dokumentacja do urządzeń lub maszyn, a czasem do oprogramowania. Specyfika pracy Tech Writerów polega na tym, że są przypisywani do różnych projektów lub produktów. Bywa, że projekty lub produkty zmieniają się dość często.</p>
+<p>Oznacza to, że transfer i retencja wiedzy między dokumentalistami stają się kluczowe. Oczywiście, nietrudno sobie wyobrazić, że zachowanie wiedzy i jej skuteczne przekazywanie są konieczne w każdej organizacji.</p>
+<p>Basia zaczęła od zdefiniowania, czym jest wiedza. Metafora góry lodowej była bardzo pomocna, gdyż wiedza to jedynie jej przysłowiowy „czubek”.</p>
+<p>Najniższa warstwa, zazwyczaj niewidoczna, to <strong>dane</strong> (raw data). Ponad tą warstwą znajdują się <strong>informacje</strong>. Dopiero na samym szczycie jest <strong>wiedza</strong>.</p>
+<p>Pozostając przy metaforach, Basia wyjaśniła, że wiedza może mieć różne rodzaje:</p>
+<ul>
+<li>Wiedza jawna (<em>explicit</em>) - to przykładowo przepis na pizzę z ogólnodostępnej książki kucharskiej lub internetu</li>
+<li>Wiedza niejawna (<em>implicit</em>) - to specjalne sposoby lub sztuczki, które można zastosować żeby ciasto było lepsze</li>
+<li>Wiedza milcząca (<em>tacit</em>) -  to tajna receptura na ciasto od babci Francesci 🙃</li>
+</ul>
+<p>Na wiedzę zgromadzoną w organizacji czyha wiele niebezpieczeństw. Mogą to być na przykład:</p>
+<ul>
+<li>Utrata - nieoczekiwana choroba lub dłuższa nieobecność pracownika</li>
+<li>Zagarnianie lub gromadzenie - (<em>knowledge hoarding</em>) - kiedy jeden pracownik gromadzi wiedzę dla siebie i nie chce się dzielić z innymi</li>
+<li>Utrata produktywności - czyli kiedy wiedza nie jest udostępniania i dochodzi do sytuacji, kiedy zespoły i ich członkowie zaczynają wymyślać koło na nowo</li>
+</ul>
+<p>Basia miała kilka rad, jak można zapobiegać tym niebezpieczeństwom, lub przynajmniej ograniczyć ich skutki, jeśli już się wydarzą:</p>
+<ul>
+<li>Zidentyfikowanie kluczowych lub strategicznych obszarów wiedzy</li>
+<li>Zidentyfikowanie braków w tej wiedzy</li>
+<li>Mapowanie wiedzy, np. w postaci mapy projektu</li>
+<li>Exit plan - czyli ustrukturyzowany plan na uzyskanie wiedzy od odchodzącego pracownika</li>
+<li>Sesje <em>lessons learned</em></li>
+<li>Wspólne lub dzielone repozytorium projektu</li>
+</ul>
+<p>Uczestnicy mieli sporo pytań do Basi. Jak nietrudno się domyślić, wielu z nas boryka się z podobnymi problemami w naszych organizacjach.</p>
+<p>Pytania dotyczyły polecanych narzędzi. I tu padło kilka nazw. Jednak po krótkiej dyskusji uczestnicy zgodzili się, że nawet najlepsze narzędzia nie zastąpią kultury pielęgnowania wiedzy i zachowania informacji w organizacji.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="visual-design-w-komunikacji-technicznej">Visual Design w komunikacji technicznej<a href="https://techwriter.pl/meet-content-wro-maj-2024-relacja#visual-design-w-komunikacji-technicznej" class="hash-link" aria-label="Bezpośredni link do Visual Design w komunikacji technicznej" title="Bezpośredni link do Visual Design w komunikacji technicznej">​</a></h2>
+<p>Druga prezentacja tego wieczoru dotyczyła strony wizualnej dokumentacji. <a href="https://www.linkedin.com/in/maciekchudanski/" target="_blank" rel="noopener noreferrer">Maciek Chudański</a> opowiedział (i pokazał 😀) nam jak ważna jest graficzna prezentacja treści, obrazów, rysunków i schematów.</p>
+<p>Maciek zdobył publiczność już na samym początku odważną tezą, że projektowanie graficzne kroczy <strong>PRZED</strong> słowem pisanym: otóż pokazał nam malunki naścienne w jaskini, uważane za najstarsze rysunki wykonane przez człowieka.</p>
+<p>Potem było już tylko lepiej 😀</p>
+<p>W Etteplan, sekcja visual design nie ma łatwo. Grafikę trzeba dosłownie zsynchronizować z dokumentacją, umieścić ja w kontekście układu strony, wziąć pod uwagę możliwe formaty i przewidzieć warunki, w jakich dokumentacja może być użytkowana.</p>
+<p>Graficzna warstwa zwykle przygotowywana jest z myślą o nośniku, czyli trzeba podjąć decyzję, czy projektuje się pod ekran czy papier.</p>
+<p>Maciek mówił o podstawowej zasadzie: im oszczędniej z efektami wizualnymi, tym lepiej dla czytelności dokumentacji. Co za tym idzie, wystarczą de facto 4 kolory: czerwony, żółty, niebieski i zielony, żeby stworzyć grafiki do dokumentacji technicznej i przekazać każdy rodzaj komunikatu.</p>
+<p>Podstawowe zasady dobrej grafiki w dokumentacji technicznej to duży kontrast, który zwiększa dostępność i ułatwia odbiór tekstu.
+Lepiej również używać przeciwstawnych barw, niż pochodzących z tej samej palety.</p>
+<p>Jednak kolory bywają zależne od kontekstu kulturowego. Przykładowo, niebieski w kręgu kultury zachodniej wzbudza zaufanie, podczas gdy czerwony ogólnie odbierany jest jako odpowiedni do zakomunikowania zagrożenia. Tak już jednak nie jest na przykład w kulturze azjatyckiej, co dodaje kompleksowości w różnorodnych projektach realizowanych w Etteplan.</p>
+<p>Jak się jednak okazuje, wszystkie zasady, którym powinna podlegać dobra dokumentacja papierowa tracą swoją moc, jeśli zmienimy nośnik.
+W przypadku dokumentacji przeznaczonej na ekran, prawdziwym game changerem okazuje się RUCH. Obiekty w ruchu zawsze wygrywają walkę o uwagę użytkownika.</p>
+<p>Maciek opowiedział nam też o projektowaniu graficznym opartym o siatkę, gdzie każdy element ma swoje miejsce. Tego typu podejście sprawia, że dokumentacja jest bardziej ustrukturyzowana, czytelna i przewidywalna dla użytkownika.</p>
+<p>Prezentacja, jak nietrudno się domyślić, obfitowała w wizualne przykłady idealnie obrazując różnice między czytelne - nieczytelne.</p>
+<hr>
+<p>Tym samym wrocławski MeetContent zakończył sezon 😀</p>
+<p>Powracamy już we wrześniu z nową porcją wiedzy, praktyki i doświadczeń!</p>
+<p>Dziękujemy Wam za uczestnictwo i do zobaczenia po wakacjach! 🌴 👋</p>
+<p><img decoding="async" loading="lazy" src="https://techwriter.pl/assets/images/ette1-25289d5d821801e5c3a2d3ad6cbf4dca.jpg" width="3648" height="2736" class="img_ev3q"> <img decoding="async" loading="lazy" src="https://techwriter.pl/assets/images/ette2-d7331d561239db3eca816adba4b65255.jpg" width="4000" height="3000" class="img_ev3q"> <img decoding="async" loading="lazy" src="https://techwriter.pl/assets/images/ette3-389821de65a3acb15ed5844008bf60fa.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content:encoded>
+            <category>meetup</category>
+            <category>visual design</category>
+            <category>grafika produktowa</category>
+            <category>ilustracje techniczne</category>
+        </item>
         <item>
             <title><![CDATA[#ContentDay: Program wydarzenia ]]></title>
             <link>https://techwriter.pl/meet-content-krk-content-day-agenda</link>
@@ -2057,60 +2117,6 @@ laurach.</p>]]></content:encoded>
             <category>news</category>
             <category>z-kraju</category>
             <category>meetcontent</category>
-            <category>spolecznosc</category>
-        </item>
-        <item>
-            <title><![CDATA[MeetContentWRO grudzień 2023 - Podsumowanie]]></title>
-            <link>https://techwriter.pl/meetcontent-wroclaw-grudzien-2023-podsumowanie</link>
-            <guid>https://techwriter.pl/meetcontent-wroclaw-grudzien-2023-podsumowanie</guid>
-            <pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Wrocławski oddział MeetContent zatoczył w grudniu koło: dokładnie rok temu wystartowaliśmy z postpandemiczną reaktywacją meetupów! Co więcej dokładnie rok temu gościliśmy w firmie Infor, czyli tej samej w której odbył się nasz ostatni w tym roku MeetContentWRO.]]></description>
-            <content:encoded><![CDATA[<p>Wrocławski oddział MeetContent zatoczył w grudniu koło: dokładnie rok temu wystartowaliśmy z postpandemiczną reaktywacją meetupów! Co więcej dokładnie rok temu gościliśmy w firmie <strong>Infor</strong>, czyli tej samej w której odbył się nasz ostatni w tym roku MeetContentWRO.</p>
-<p>Grudniowy meetup upłynął nam w atmosferze przedświątecznej - i choć w ojczystym języku unboxing nie brzmi tak zgrabnie, gubimy również subtelną grę językową gdyż nasza prelegentka, <a href="https://www.linkedin.com/in/barbara-szwarc/" target="_blank" rel="noopener noreferrer">Basia Czyż</a>, pracuje w firmie Box, to jej prezentacja zatytułowana: UnBOXing API Documentation dała nam dużo radości 😉</p>
-<p>5 grudnia w siedzibie firmy Infor, Basia Czyż, na co dzień <em>Senior Technical Writer</em> w firmie Box oraz jedna z krakowskich organizatorek MeetContentKRK przybliżyła nam temat dokumentacji API.</p>
-<p>Basia zaczęła swoją prezentację od tego co to jest API i dlaczego potrzebuje dokumentacji? Pozostając w świątecznym klimacie, koncept został wytłumaczony na przykładzie zapytań (GET) o prezenty w świątecznym worku.</p>
-<p>W kolejnym kroku mogliśmy dopytywać o szczegóły dotyczące konkretnych prezentów (atrybuty), dodawać lub usuwać prezenty z worka (zasobu). Używając zapytań z metodą , POST lub DELETE można było też odpowiednio: dodać nowy prezent albo całkowicie prezent z worka usunąć.</p>
-<p>Na zapytania przychodzą odpowiedzi, które zwracają na przykład konkretny kolor, rodzaj lub rozmiar czyli wartości atrybutów, w zależności o co pytaliśmy.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="po-co-dokumentować-api">Po co dokumentować API?<a href="https://techwriter.pl/meetcontent-wroclaw-grudzien-2023-podsumowanie#po-co-dokumentowa%C4%87-api" class="hash-link" aria-label="Bezpośredni link do Po co dokumentować API?" title="Bezpośredni link do Po co dokumentować API?">​</a></h3>
-<p>Cel dokumentacji API jest dość jasny: bez niej użytkownicy byliby skazani na metodę prób i błędów i szybkość współpracy i integracji z nowym API pozostawiałby wiele do życzenia.</p>
-<p>API nie ma interfejsu, a dokumentacja jest jedyną widoczną wskazówką w zakresie:</p>
-<ul>
-<li>Jak to działa?</li>
-<li>Jakie ścieżki prowadzą do jakich zasobów?</li>
-<li>Jakie zasoby są w ogóle dostępne do odpytania?</li>
-<li>Jakich parametrów użyć w zapytaniu oraz jak odczytać to co zostanie zwrócone?</li>
-</ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="api-w-boxie">API w BOXie<a href="https://techwriter.pl/meetcontent-wroclaw-grudzien-2023-podsumowanie#api-w-boxie" class="hash-link" aria-label="Bezpośredni link do API w BOXie" title="Bezpośredni link do API w BOXie">​</a></h3>
-<p>Basia opowiedziała nam nieco o procesie powstawania nowych API oraz o procesie dokumentacyjnym.
-Dokumentacja API firmy Box dostępna jest publicznie pod <a href="https://developer.box.com/reference/" target="_blank" rel="noopener noreferrer">TYM LINKIEM</a>. Dokumentacja jest podzielona na tematyczne grupy, pozwalając szybko odnaleźć zasoby które interesują użytkowników a także dostępne endpointy, których z kolei można użyć, żeby uzyskać konkretne informacje dotyczące danego zasobu.</p>
-<p>Każdy z zasobów opisany jest w szczegółach i zawiera informacje o parametrach zapytania, opisy atrybutów, kody błedu, przykładowe zapytanie i odpowiedź.</p>
-<p>Podlinkowane są też materiały pomocnicze, dodające kontekst i ułatwiające użytkownikom zintegrowanie się z API.</p>
-<p>Często API jest skomplikowane i wymaga wykonania całej litanii zapytań w określonej kolejności. Materiały pomocnicze, tzw. <em>integration guides</em>, nie należą bezpośrednio do dokumentacji danego zasobu ale są niezbędne żeby poprawnie API używać i pozwalają na odtworzenie rekomendowanej ścieżki działań.</p>
-<p>API, które dokumentuje Basia, obejmuje także dodatkowe, reużywalne atrybuty, których można użyć do skonstruowania zapytania i odpowiedzi. Jeżeli zaistnieje taka potrzeba, atrybuty mogą mieć kilka wersji.
-Takie podejście pozwala na ponowne używanie istniejących parametrów (content reuse) i zachowanie spójności nazewnictwa i opisów.</p>
-<p>Zasoby, endpointy i atrybuty dokumentowane są w osobnych plikach .yml, z których potem budowana jest specyfikacja - jeden duży plik JSON.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="wyzwania">Wyzwania<a href="https://techwriter.pl/meetcontent-wroclaw-grudzien-2023-podsumowanie#wyzwania" class="hash-link" aria-label="Bezpośredni link do Wyzwania" title="Bezpośredni link do Wyzwania">​</a></h3>
-<p>Oczywiście dokumentacja API ma swoje wyzwania, które różne firmy starają się przezwyciężyć na różne sposoby. Wyzwania dla dokumentalisty biorą się również z samych założeń wyjściowych jakie firma przyjmie.</p>
-<p>I tak w przypadku dokumentacji do Box API, dużym wyzwaniem są tak zwane breaking changes, czyli zmiany w API, które zmuszają klientów do ponownej integracji. Na przykład zmianą typu breaking change jest usunięcie atrybutu, który już jest wykorzystywany w integracjach.</p>
-<p>Kolejnym wyzwaniem jest też wersjonowanie API i utrzymywanie (lub nie - w zależności od użytkowników i polityki firmy) starych wersji.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="dokumentacja-api---jak-to-ugryźć">Dokumentacja API - jak to ugryźć?<a href="https://techwriter.pl/meetcontent-wroclaw-grudzien-2023-podsumowanie#dokumentacja-api---jak-to-ugry%C5%BA%C4%87" class="hash-link" aria-label="Bezpośredni link do Dokumentacja API - jak to ugryźć?" title="Bezpośredni link do Dokumentacja API - jak to ugryźć?">​</a></h3>
-<p>Basia miała kilka cennych wskazówek dla dokumentalistów chcących zająć się dokumentowaniem API:</p>
-<ul>
-<li>Po pierwsze, trzeba API poznać, a to najlepiej wychodzi poprzez rozmowę z programistami, którzy to je tworzą.</li>
-<li>Kolejna sprawa to nie skakanie od razu na głęboką wodę i zaczęcie od wysokopoziomowych integration guides, żeby dać sobie szansę zapoznać się z dostępnymi zasobami, ich przeznaczeniem i tym jak wpasowują się w szerszy ekosystem produktu.</li>
-<li>Jak już nabierzemy wprawy, to dobrze jest też być blisko zespołów kiedy nowe dopiero API powstaje, żeby widzieć jego przeznaczenie i funkcje od samego początku.</li>
-</ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="źródła">Źródła<a href="https://techwriter.pl/meetcontent-wroclaw-grudzien-2023-podsumowanie#%C5%BAr%C3%B3d%C5%82a" class="hash-link" aria-label="Bezpośredni link do Źródła" title="Bezpośredni link do Źródła">​</a></h3>
-<p>Basia postanowiła podzielić się swoją prezentacją, którą znajdziecie <a href="https://docs.google.com/presentation/d/1Fnu2R4MOmnrevXZIL6IocnxRp5TMpjg4/edit#slide=id.p1" target="_blank" rel="noopener noreferrer">TUTAJ</a> 🤩
-W prezentacji są również przetestowane i polecane kursy i źródła wiedzy do nauki o API.</p>
-<p>Oceniając po dużej ilośc pytań do naszej prelegentki wnioskujemy, że temat cieszy się dużym zainteresowaniem.</p>
-<p>Dziękujemy i do zobaczenia następnym razem!</p>
-<p><img decoding="async" loading="lazy" src="https://techwriter.pl/assets/images/Basia2-c6127d78e25f76eee1386e02adf347e3.jpg" width="3024" height="1529" class="img_ev3q">
-<img decoding="async" loading="lazy" src="https://techwriter.pl/assets/images/Basia3-bd345f2f05ad084b3027b47f3bd8134e.jpg" width="3273" height="2296" class="img_ev3q">
-<img decoding="async" loading="lazy" src="https://techwriter.pl/assets/images/Basia1-3d266c05d1464d797fbcea4eb4e1216a.jpg" width="4032" height="2101" class="img_ev3q"></p>]]></content:encoded>
-            <category>meetup</category>
-            <category>api</category>
-            <category>dokuemntacja developerska</category>
             <category>spolecznosc</category>
         </item>
     </channel>
