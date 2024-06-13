@@ -79,16 +79,6 @@ const englishDescriptions: { [id: string]: JSX.Element } = {
       travelling, photography, and reading.
     </>
   ),
-  toporek: (
-    <>
-      Martyna works with technical documentation every day. Complicated
-      machines, production lines and food technology are her favourite things.
-      In her spare time, Martyna loves traveling, riding bike, climbing, walking
-      in the mountains, crocheting and reading books. She likes sophistication
-      and experimentation. From time-to-time she writes articles and draws
-      pictures.
-    </>
-  ),
   niewiarowski: (
     <>
       A graduate of English Philology with considerable translation
