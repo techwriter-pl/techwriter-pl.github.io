@@ -5,25 +5,21 @@ Wszelkie pytania, wnioski, prośby i uwagi prosimy kierować na
 
 ## Publikacja ofert pracy
 
-Chętnie zamieszczamy wszystkie oferty pracy z branży komunikacji
-technicznej.
+Chętnie zamieszczamy wszystkie oferty pracy z branży komunikacji technicznej.
 
 ### Ile to kosztuje?
 
-Oferty publikujemy całkowicie **za darmo**. Nie ma tutaj żadnych haczyków. 
+Oferty publikujemy całkowicie **za darmo**. Nie ma tutaj żadnych haczyków.
 
-Od zawsze najważniejsze jest dla nas dzielenie się informacjami w ramach 
-otwartej wymiany wiedzy oraz działanie na rzecz naszej społeczności. 
-Umożliwienie naszym czytelnikom nieograniczonego dostępu do ofert pracy 
-doskonale wpisuje się w tę wizję. W takim otwartym modelu każdy zyskuje.
-Nasza społeczność ma łatwiejszy dostęp do ciekawych ofert, a firmy mogą dotrzeć 
-do najlepszych możliwych kandydatów.
+Od zawsze najważniejsze jest dla nas dzielenie się informacjami w ramach
+otwartej wymiany wiedzy oraz działanie na rzecz naszej społeczności.
+Umożliwienie naszym czytelnikom nieograniczonego dostępu do ofert pracy
+doskonale wpisuje się w tę wizję. W takim otwartym modelu każdy zyskuje. Nasza
+społeczność ma łatwiejszy dostęp do ciekawych ofert, a firmy mogą dotrzeć do
+najlepszych możliwych kandydatów.
 
-Dodatkowo, jeśli oferta pracy zawiera widełki płacowe, możecie ją opublikować 
-w naszej grupie na Facebooku, "Tworzenie dokumentacji".
-
-Czego oczekujemy w zamian? Według nas niewiele. Wystarczy polubić nas 
-w mediach społecznościowych oraz polecać znajomym 🙂
+Czego oczekujemy w zamian? Według nas niewiele. Wystarczy polubić nas w mediach
+społecznościowych oraz polecać znajomym 🙂
 
 ### Jak to zrobić?
 
@@ -35,8 +31,13 @@ Wyślij nam na [kontakt@techwriter.pl](mailto:kontakt@techwriter.pl):
 - Wszelkie dodatkowe informacje o firmie, które mogą być przydatne dla
   kandydatów
 
-My zajmiemy się resztą i damy Ci znać jak oferta będzie już dostępna
-na naszym portalu.
+My zajmiemy się resztą i damy Ci znać jak oferta będzie już dostępna na naszym
+portalu.
+
+Dodatkowo, jeśli oferta pracy zawiera widełki płacowe, możecie dołączyć do
+naszej grupy facebookowej,
+["Tworzenie dokumentacji"](https://www.facebook.com/groups/tworzeniedokumentacji),
+i tam ją opublikować.
 
 ## Patronat medialny
 
