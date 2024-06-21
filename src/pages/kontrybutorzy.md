@@ -1,4 +1,4 @@
-## Napisz artykuł
+# Napisz artykuł
 
 Chcesz napisać artykuł? Nic prostszego. Napisz na
 [kontakt@techwriter.pl](mailto:kontakt@techwriter.pl) i powiedz nam o czym

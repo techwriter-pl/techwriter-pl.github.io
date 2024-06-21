@@ -1,14 +1,14 @@
-## Kontakt
+# Kontakt
 
 Wszelkie pytania, wnioski, prośby i uwagi prosimy kierować na
 [kontakt@techwriter.pl](mailto:kontakt@techwriter.pl).
 
-### Publikacja ofert pracy
+## Publikacja ofert pracy
 
 Chętnie zamieszczamy wszystkie oferty pracy z branży komunikacji
 technicznej.
 
-#### Ile to kosztuje?
+### Ile to kosztuje?
 
 Oferty publikujemy całkowicie **za darmo**. Nie ma tutaj żadnych haczyków. 
 
@@ -25,7 +25,7 @@ w naszej grupie na Facebooku, "Tworzenie dokumentacji".
 Czego oczekujemy w zamian? Według nas niewiele. Wystarczy polubić nas 
 w mediach społecznościowych oraz polecać znajomym 🙂
 
-#### Jak to zrobić?
+### Jak to zrobić?
 
 Wyślij nam na [kontakt@techwriter.pl](mailto:kontakt@techwriter.pl):
 
@@ -38,12 +38,12 @@ Wyślij nam na [kontakt@techwriter.pl](mailto:kontakt@techwriter.pl):
 My zajmiemy się resztą i damy Ci znać jak oferta będzie już dostępna
 na naszym portalu.
 
-### Patronat medialny
+## Patronat medialny
 
 Organizujesz wydarzenie, spotkanie lub konferencję związaną z komunikacją
 techniczną? Daj nam znać, chętnie pomożemy w promocji.
 
-### Współpraca
+## Współpraca
 
 Jeżeli masz trochę wolnego czasu, który chciałbyś/chciałabyś poświęcić na
 budowanie społeczności tech comm w naszym kraju, to odezwij się do nas.
