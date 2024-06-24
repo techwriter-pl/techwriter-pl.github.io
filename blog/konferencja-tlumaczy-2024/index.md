@@ -1,6 +1,6 @@
 ---
 title: 'Konferencja tłumaczy 2024 - patronujemy!'
-authors: niedzwiecka
+authors: niedzwiedzka
 date: '2024-06-25'
 tags:
   - 'news'
