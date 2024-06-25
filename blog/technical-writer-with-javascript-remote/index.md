@@ -1,5 +1,5 @@
 ---
-title: 'Oferta pracy: technical writer with JavaScript (zdalnie)'
+title: 'Oferta pracy: Technical Writer with JavaScript (Handsoncode) - zdalnie'
 authors: pensjonatus
 date: '2024-06-25'
 tags:
