@@ -8,7 +8,10 @@ tags:
   - 'konferencje'
   - 'tlumaczenia'
 ---
-Kolejny rok i kolejna [Konferencja Tłumaczy (KTLC)](https://konferencjatlumaczy.pl/). Już od kilku lat jesteśmy jej dumnym patronem - nie inaczej jest w tym roku. I nie tylko patronem - uczestniczymy w konferencji (czasami nawet jako prelegenci i prelegentki) i możemy ją wam polecić z absolutnym spokojem o wysoką merytoryczną jakość oraz świetną atmosferę. 
+Kolejny rok i kolejna [Konferencja Tłumaczy (KTLC)](https://konferencjatlumaczy.pl/). Już od kilku lat jesteśmy jej dumnym patronem - nie inaczej jest w tym roku. 
+
+Poza patronatem również aktywnie uczestniczymy w konferencji (czasami nawet jako prelegenci i prelegentki). Dlatego możemy ją wam polecić z absolutnym spokojem o wysoką merytoryczną jakość oraz świetną atmosferę. 
+
 
 <!--truncate-->
 
