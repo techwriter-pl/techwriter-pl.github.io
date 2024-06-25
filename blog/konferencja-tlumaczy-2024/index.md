@@ -21,7 +21,8 @@ Tegoroczna edycja odbędzie się 28 września w Warszawie, a towarzyszyć jej b�
 
 #### **Dla kogo?**
 
-Konferencja, jak sama nazwa sugeruje, jest adresowana do osób związanych z szeroko pojętą branżą tłumaczeniową, zajmujących się pracą z tekstem i językiem, przedstawicieli biur tłumaczeniowych, filologów, prawników, naukowców, twórców narzędzi CAT. Mile widziani są oczywiście techwriterzy oraz specjaliści od lokalizacji produktu. Każdy znajdzie coś dla siebie w bogatym programie. Wstępny harmonogram znajdziecie [tu](https://konferencja-tlumaczy.pl/?page_id=2121).
+Konferencja, jak sama nazwa sugeruje, jest adresowana do osób związanych z szeroko pojętą branżą tłumaczeniową, zajmujących się pracą z tekstem i językiem, przedstawicieli biur tłumaczeniowych, filologów, prawników, naukowców, twórców narzędzi CAT. Mile widziani są oczywiście tech writerzy oraz specjaliści od lokalizacji produktu. Wstępna lista prelegentów dostępna jest [pod tym linkiem](https://konferencja-tlumaczy.pl/?page_id=2121). Z doświadczenia wiemy, że program konferencji jest na tyle urozmaicony, że każdy znajdzie coś dla siebie.
+
 
 
 #### **Motyw przewodni**
