@@ -18,12 +18,15 @@ Poza patronatem również aktywnie uczestniczymy w konferencji (czasami nawet ja
 
 ## **Gdzie i kiedy?**
 
-Tegoroczna edycja odbędzie się 28 września w Warszawie, a towarzyszyć jej będzie Translation and Localization Conference – dwudniowe wydarzenie, zaplanowane na 27-28 września. Podobnie jak w ubiegłym roku, konferencja będzie miała formę hybrydową: stacjonarnie w Golden Tulip Warsaw Center oraz online na platformie Gridaly. Organizatorzy zadbali także o imprezy towarzyszące - warto przybyć do Warszawy już w czwartek, 26 września, wypić powitalnego drinka i wziąć udział w panelu dyskusyjnym. W niedzielę natomiast, po zakończeniu części merytorycznej, na uczestniczki i uczestników czeka gra miejska i zwiedzanie stolicy. 
+Tegoroczna edycja odbędzie się 28 września w Warszawie, a towarzyszyć jej będzie Translation and Localization Conference – dwudniowe wydarzenie, zaplanowane na 27-28 września. Każde z wydarzeń ma osobny program i osobną listę prelegentów - oba programy w równym stopniu godne polecenia. Podobnie jak w ubiegłym roku, konferencja będzie miała formę hybrydową: stacjonarnie w Golden Tulip Warsaw Center oraz online na platformie Gridaly. 
+
+## **Dodatkowe atrakcje**
+
+Organizatorzy zadbali także o imprezy towarzyszące - warto przybyć do Warszawy już w czwartek, 26 września, wypić powitalnego drinka i wziąć udział w panelu dyskusyjnym. W niedzielę natomiast, po zakończeniu części merytorycznej, na uczestniczki i uczestników czeka gra miejska i zwiedzanie stolicy. 
 
 ## **Dla kogo?**
 
 Konferencja, jak sama nazwa sugeruje, jest adresowana do osób związanych z szeroko pojętą branżą tłumaczeniową, zajmujących się pracą z tekstem i językiem, przedstawicieli biur tłumaczeniowych, filologów, prawników, naukowców, twórców narzędzi CAT. Mile widziani są oczywiście tech writerzy oraz specjaliści od lokalizacji produktu. Wstępna lista prelegentów dostępna jest [pod tym linkiem](https://konferencja-tlumaczy.pl/?page_id=2121). Z doświadczenia wiemy, że program konferencji jest na tyle urozmaicony, że każdy znajdzie coś dla siebie.
-
 
 
 ## **Motyw przewodni**
@@ -46,7 +49,6 @@ Jak rozumieć ten motyw? Pomyśl o poniższych zagadnieniach:
 Bilety na tegoroczną konferencję możesz kupić [tu](https://ktlc-2024.gridaly.com/registration).
 
 **Do końca czerwca** możecie skorzystać z rabatu 25% na wszystkie warianty udziału. Podczas rejestracji wystarczy wpisać na dole formularza kod: `WCZESNYPTAK`.
-Kod obowiązuje do końca czerwca. 
 
 Warto też śledzić [konferencję na FB](https://www.facebook.com/KonferencjaTlumaczy), aby być na bieżąco.
 
