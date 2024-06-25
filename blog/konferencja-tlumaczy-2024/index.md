@@ -44,7 +44,7 @@ Jak rozumieć ten motyw? Pomyśl o poniższych zagadnieniach:
 
 Bilety na tegoroczną konferencję możesz kupić [tu](https://ktlc-2024.gridaly.com/registration).
 
-Dla naszych czytelników mamy kod rabatowy, który daje Wam 25% na wszystkie warianty udziału. Wystarczy podczas rejestracji wpisać na dole formularza: WCZESNYPTAK
+**Do końca czerwca** możecie skorzystać z rabatu 25% na wszystkie warianty udziału. Podczas rejestracji wystarczy wpisać na dole formularza kod: `WCZESNYPTAK`.
 Kod obowiązuje do końca czerwca. 
 
 Warto też śledzić [konferencję na FB](https://www.facebook.com/KonferencjaTlumaczy), aby być na bieżąco.
