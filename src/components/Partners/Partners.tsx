@@ -30,9 +30,19 @@ const partners: PartnerProps[] = [
     link: 'https://www.4testers.pl/',
     imageSrc: require('./img/4_testers_logo.png').default,
   },
+  {
+    label: 'Tech Writer Koduje',
+    link: 'https://techwriterkoduje.pl/',
+    imageSrc: require('./img/Tech-Writer-koduje-logo-2021.png').default,
+  },
 ];
 
 const mediaPartners: PartnerProps[] = [
+  {
+    label: 'Konferencja Tłumaczy',
+    link: 'https://translation-conference.com/',
+    imageSrc: require('./img/KTLC-klocki-kwadratM.png').default,
+  },
   {
     label: 'Strona konferencji Code Europe 2024',
     link: 'https://www.codeeurope.pl/',
@@ -79,7 +89,7 @@ const mediaPartners: PartnerProps[] = [
 function Partner({ label, link, imageSrc }: PartnerProps) {
   return (
     <Link href={link} title={label} className={styles.partner}>
-      <img src={imageSrc} alt={label} />
+      <img src={imageSrc} alt={label} style={{ maxWidth: 150 }} />
     </Link>
   );
 }
