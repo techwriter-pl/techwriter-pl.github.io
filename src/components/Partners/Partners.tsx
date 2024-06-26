@@ -58,32 +58,6 @@ const mediaPartners: PartnerProps[] = [
     link: 'https://www.facebook.com/meetcontentcommunity/',
     imageSrc: require('./img/MeetContent_logo_blue-e1680790803920.png').default,
   },
-  {
-    label: 'MadCap Central',
-    link: 'https://www.madcapsoftware.com/madcap-central-2023/?utm_source=techwriterpl&utm_medium=banner&utm_campaign=madcap-software',
-    imageSrc: require('./img/MadCap-Central-Banner-2023-e1685527700878.png')
-      .default,
-  },
-  {
-    label: 'MadCap Central Support',
-    link: 'https://www.madcapsoftware.com/products/central/?utm_source=techwriterpl&utm_medium=banner&utm_campaign=central2022',
-    imageSrc:
-      require('./img/MadCap-Software-Release-Banner-2023-e1685527677456.png')
-        .default,
-  },
-  {
-    label: 'MadCap Flare',
-    link: 'https://www.madcapsoftware.com/products/flare/?utm_source=techwriterpl&utm_medium=banner&utm_campaign=central2022',
-    imageSrc: require('./img/MadCap-Flare-Banner-2023-e1685527717692.png')
-      .default,
-  },
-  {
-    label: 'MadCap Free Trial',
-    link: 'https://www.madcapsoftware.com/free-trials/?utm_source=techwriterpl&utm_medium=banner&utm_campaign=madcap-software',
-    imageSrc:
-      require('./img/MadCap-Software-Trial-Banner-2023-e1685527735174.png')
-        .default,
-  },
 ];
 
 function Partner({ label, link, imageSrc }: PartnerProps) {
