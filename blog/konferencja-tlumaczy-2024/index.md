@@ -19,7 +19,7 @@ Poza patronatem również aktywnie uczestniczymy w konferencji (czasami nawet ja
 
 ## **Gdzie i kiedy?**
 
-Tegoroczna edycja odbędzie się 28 września w Warszawie, a towarzyszyć jej będzie Translation and Localization Conference – dwudniowe wydarzenie, zaplanowane na 27-28 września. Każde z wydarzeń ma osobny program i osobną listę prelegentów - oba programy w równym stopniu godne polecenia. Podobnie jak w ubiegłym roku, konferencja będzie miała formę hybrydową: stacjonarnie w Golden Tulip Warsaw Center oraz online na platformie Gridaly. 
+Tegoroczna edycja [Konferencji Tłumaczy](https://konferencjatlumaczy.pl/) odbędzie się 28 września w Warszawie, a towarzyszyć jej będzie [Translation and Localization Conference](https://translation-conference.com/) – dwudniowe wydarzenie, zaplanowane na 27-28 września. Każde z wydarzeń ma osobny program i osobną listę prelegentów - obie propozycje w równym stopniu godne polecenia. Podobnie jak w ubiegłym roku, konferencja będzie miała formę hybrydową: stacjonarnie w Golden Tulip Warsaw Center oraz online na platformie Gridaly. 
 
 ## **Dodatkowe atrakcje**
 
