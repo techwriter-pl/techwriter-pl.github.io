@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[69381],{28382:e=>{e.exports=JSON.parse('{"tag":{"label":"online","permalink":"/tags/online","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/online","page":1,"postsPerPage":3,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
