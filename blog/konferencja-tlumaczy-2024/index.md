@@ -1,5 +1,5 @@
 ---
-title: 'Konferencja tłumaczy 2024 - patronujemy!'
+title: 'Konferencja Tłumaczy 2024 - patronujemy!'
 authors: niedzwiedzka
 date: '2024-06-25'
 tags:
