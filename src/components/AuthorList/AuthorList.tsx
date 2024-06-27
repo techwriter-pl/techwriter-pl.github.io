@@ -68,6 +68,13 @@ const polishDescriptions: { [id: string]: JSX.Element } = {
       zajmować szeroko pojętym prowadzeniem portalu.
     </>
   ),
+  mrozek: (
+    <>
+      Technical writerka, managerka i liderka zespołu tech writerskiego.
+      Z zaangażowaniem działam na rzecz promocji roli autora technicznego w organizacji, jego wyjątkowej pozycji w cyklu rozwoju produktu oraz wartości jaką dodajemy do produktu, który opisujemy. 
+      Współorganizuję wrocławską społeczność tech writerską w ramach cyklicznych spotkań pod szyldem MeetContentWRO.
+    </>
+  ),
 };
 
 const englishDescriptions: { [id: string]: JSX.Element } = {
