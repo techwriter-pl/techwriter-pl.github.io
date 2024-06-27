@@ -22,7 +22,7 @@ Nie zabrakło również czasu na networking, wymianę doświadczeń i opinii.
 
 ## Warsztaty 
 
-Dzień rozpoczęliśmy od warszatów prowadzonych przez dwóch Pawłów. 
+Dzień rozpoczęliśmy od warsztatów prowadzonych przez dwóch Pawłów. 
 
 [**Paweł Kowaluk**](https://www.linkedin.com/in/pawel-kowaluk/) wprowadził nas w tajniki Design Thinking. 
 Podczas pracy nad projektem o nazwie **Smart Home**, prowadziliśmy wywiady z użytkownikami oraz
