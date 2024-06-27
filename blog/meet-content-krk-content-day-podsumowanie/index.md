@@ -31,8 +31,7 @@ W trakcie warsztatów poznaliśmy założenia metody Design Thinking i nauczyli�
 wykorzystać je w swoich projektach.
 
 Z kolei [**Paweł Chłodnicki**](https://www.linkedin.com/in/pawelchlodnicki/) wykorzystał swoją wiedzę designera i pokazał nam jak
-zaprojektować aplikację mobilną. Mieliśmy szansę zapoznać się funkcjonalnościami,
-jakie posiada Figma i stworzyli swój pierwszy prototyp.
+zaprojektować aplikację mobilną. Tworząc swój pierwszy prototyp, mieliśmy szansę zapoznać się z funkcjonalnościami Figmy.
 
 
 ## Visual design w komunikacji technicznej
