@@ -39,8 +39,8 @@ zaprojektować aplikację mobilną. Tworząc swój pierwszy prototyp, mieliśmy 
 Po warsztatach i przerwie nadszedł czas na drugą część programu, czyli prezentacje.
 
 Rozpoczęliśmy od omówienia roli projektów graficznych w dokumentacji.
-[Maciek Chudański](https://www.linkedin.com/in/maciekchudanski/) zaprezentował  (i
-pokazał 😀) nam jak ważna jest graficzna prezentacja treści, obrazów, rysunków i
+[Maciek Chudański](https://www.linkedin.com/in/maciekchudanski/)
+pokazał nam jak ważna jest graficzna prezentacja treści, obrazów, rysunków i
 schematów.
 
 Zasady dotyczące tworzenia grafik Maciek zilustrował wieloma przykładami. Między
@@ -48,10 +48,10 @@ innymi, dowiedzieliśmy się jaką rolę elementy wizualne odgrywają w dokument
 jak dobór elementów wiąże się z kontekstem kulturowym, a także jak dokumentacja
 którą czytamy na ekranie różni się od tej drukowanej.
 
-Mnóstwo przykładów i porównań zawartych w prezentacji Maćka spotkało się z
-zainteresowaniem publiczności oraz z wieloma pytaniami.
+Mnóstwo przykładów i porównań zawartych w prezentacji spotkało się z
+zainteresowaniem publiczności oraz wieloma pytaniami.
 
-A jeżeli kogoś interesują detale, zapraszamy na [relację z wrocławskiego spotkania MeetContent](https://techwriter.pl/meet-content-wro-maj-2024-relacja#visual-design-w-komunikacji-technicznej)!
+A jeżeli chcesz dowiedzieć się więcej o prezentacji Maćka, zapraszamy na [relację z wrocławskiego spotkania MeetContent](https://techwriter.pl/meet-content-wro-maj-2024-relacja#visual-design-w-komunikacji-technicznej)!
 
 ## Rola estymacji w zespole tech writerskim
 
@@ -72,7 +72,7 @@ miałoby na celu nie tylko stworzenie wspólnych standardów i najlepszych prakt
 
 Prezentację zakończyliśmy dyskusją na temat założeń stowarzyszenia oraz kroków, które należy podjąć, żeby wdrożyć je w życie.
 
-Więcej o **SAiIT Polska** możecie przeczytać [tutaj](https://www.linkedin.com/in/saiit-polska-03a008308/).
+Więcej o **SAiIT Polska** możecie przeczytać w [wywiadzie udzielonym przez Łukasza](https://techwriter.pl/saiit-wywiad) oraz [na portalu LinkedIn](https://www.linkedin.com/in/saiit-polska-03a008308/).
 
 ## ... a teraz coś z zupełnie innej beczki
 
@@ -104,4 +104,4 @@ Wszystkim uczestnikom serdecznie dziękujemy za liczne przybycie! Cieszymy się,
 Dziękujemy naszym prezenterom oraz trenerom za poświęcony czas i chęć dzielenia się swoją wiedzą z uczestnikami.
 Dziękujemy także doktorowi **Andrzejowi Kurtyce** z Uniwersytetu Jagiellońskiego za pomoc w organizacji wydarzenia, gdyż bez niego **#ContentDay** nie doszedłby do skutku.
 
-![](images/warsztaty.jpg) ![](images/maciek_prez.jpg) ![](images/monika_prez.jpg) ![](images/people.jpg) ![](images/networking.jpg) ![](images/łukasz_prez.jpg) ![](images/dominika_prez.jpg)
+![Uczestnicy wydarzenia w trakcie warsztatów.](images/warsztaty.jpg) ![Maciek prezentujący swój temat.](images/maciek_prez.jpg) ![Monika odpowiadająca na pytania publiczności.](images/monika_prez.jpg) ![Publiczność słuchająca prezentacji.](images/people.jpg) ![Uczestnicy wydarzenia w trakcie przerwy kawowej.](images/networking.jpg) ![Łukasz prezentujący slajd o powodach powstania stowarzyszenia.](images/łukasz_prez.jpg) ![Dominika prezentująca swój temat.](images/dominika_prez.jpg)
