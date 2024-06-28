@@ -105,4 +105,4 @@ Dziękujemy naszym prezenterom oraz trenerom za poświęcony czas i chęć dziel
 Dziękujemy także doktorowi **Andrzejowi Kurtyce** z Uniwersytetu Jagiellońskiego za pomoc w organizacji wydarzenia, gdyż bez niego **#ContentDay** nie doszedłby do skutku.
 
 
-![Uczestnicy wydarzenia w trakcie warsztatów](images/warsztaty.jpg) ![Maciek prezentujący swój temat](images/maciek_prez.jpg) ![Monika odpowiadająca na pytania publiczności](images/monika_prez.jpg) ![Publiczność słuchająca prezentacji](images/people.jpg) ![Uczestnicy wydarzenia w trakcie przerwy kawowej](images/networking.jpg) ![Łukasz prezentujący slajd o powodach powstania stowarzyszenia](images/łukasz_prez.jpg) ![Dominika prezentująca swój temat](images/dominika_prez.jpg)
+![](images/warsztaty.jpg) ![](images/maciek-prez.jpg) ![](images/monika-prez.jpg) ![](images/people.jpg) ![](images/networking.jpg) ![](images/lukasz-prez.jpg) ![](images/dominika-prez.jpg)
