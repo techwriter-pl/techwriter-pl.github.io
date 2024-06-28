@@ -103,6 +103,3 @@ Wszystkim uczestnikom serdecznie dziękujemy za liczne przybycie! Cieszymy się,
 
 Dziękujemy naszym prezenterom oraz trenerom za poświęcony czas i chęć dzielenia się swoją wiedzą z uczestnikami.
 Dziękujemy także doktorowi **Andrzejowi Kurtyce** z Uniwersytetu Jagiellońskiego za pomoc w organizacji wydarzenia, gdyż bez niego **#ContentDay** nie doszedłby do skutku.
-
-
-![](images/warsztaty.jpg) ![](images/maciek-prez.jpg) ![](images/monika-prez.jpg) ![](images/people.jpg) ![](images/networking.jpg) ![](images/lukasz-prez.jpg) ![](images/dominika-prez.jpg)
