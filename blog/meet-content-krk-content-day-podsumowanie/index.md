@@ -106,4 +106,4 @@ Dziękujemy także doktorowi **Andrzejowi Kurtyce** z Uniwersytetu Jagielloński
 
 ## Zdjęcia
 
-![Uczestnicy wydarzenia w trakcie warsztatów](./images/warsztaty.jpg)
+![Uczestnicy wydarzenia w trakcie warsztatów](images/workshops.jpg) ![Maciek prezentujący swój temat](images/maciek_presentation.jpg) ![Monika odpowiadająca na pytania publiczności](images/monika_presentation.jpg) ![Publiczność słuchająca prezentacji](images/audience.jpg) ![Uczestnicy wydarzenia w trakcie przerwy kawowej](images/networking-time.jpg) ![Łukasz prezentujący slajd o powodach powstania stowarzyszenia](images/lukasz_presentation.jpg) ![Dominika prezentująca swój temat](images/dominika_presentation.jpg)
