@@ -4,10 +4,62 @@
         <title>techwriter.pl Blog</title>
         <link>https://techwriter.pl/</link>
         <description>techwriter.pl Blog</description>
-        <lastBuildDate>Thu, 27 Jun 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jul 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>pl</language>
+        <item>
+            <title><![CDATA[Oferta pracy: Content Management Systems Business System Analyst (Seargin, zdalnie)]]></title>
+            <link>https://techwriter.pl/oferta-pracy-cms-business-system-analyst</link>
+            <guid>https://techwriter.pl/oferta-pracy-cms-business-system-analyst</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Firma Seargin, specjalizująca się w dostarczaniu]]></description>
+            <content:encoded><![CDATA[<p>Firma <a href="https://seargin.com/pl/" target="_blank" rel="noopener noreferrer">Seargin</a>, specjalizująca się w dostarczaniu
+swoim klientom profesjonalnych zespołów IT w oparciu o różne modele współpracy,
+poszukuje kandydatów na zdalne stanowisko Content Management Systems Business System Analyst.</p>
+<p>Klientem końcowym jest firma z branży farmaceutycznej. Zatrudnienie na umowę B2B.</p>
+<p>Więcej szczegółów na temat oferty znajdziecie poniżej i w&nbsp;<a href="https://www.linkedin.com/jobs/view/3976810131" target="_blank" rel="noopener noreferrer">ogłoszeniu na LinkedIn</a>.
+Aplikować możecie przez LinkedIn lub wysyłając maila&nbsp;na adres&nbsp;<a href="mailto:daniel.cieplowski@seargin.com" target="_blank" rel="noopener noreferrer">daniel.cieplowski@seargin.com</a>.</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="content-management-systems-business-system-analyst">Content Management Systems Business System Analyst<a class="hash-link" aria-label="Bezpośredni link do Content Management Systems Business System Analyst" title="Bezpośredni link do Content Management Systems Business System Analyst" href="https://techwriter.pl/oferta-pracy-cms-business-system-analyst#content-management-systems-business-system-analyst">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="skillsrequirements">Skills/Requirements:<a class="hash-link" aria-label="Bezpośredni link do Skills/Requirements:" title="Bezpośredni link do Skills/Requirements:" href="https://techwriter.pl/oferta-pracy-cms-business-system-analyst#skillsrequirements">​</a></h3>
+<ul>
+<li>Bachelor's degree in a relevant field (e.g., Information Science, Technical Communication, Computer Science) or equivalent work experience</li>
+<li>Proven experience with Ixiasoft CCMS and Antidot Fluidtopics platforms, including configuration and content management.</li>
+<li>Knowledge of Quanos Schema ST4 CMS system is a plus</li>
+<li>Strong understanding of content management principles, including structured authoring, metadata management, and content reuse</li>
+<li>Familiarity with configuration management tools and techniques</li>
+<li>Excellent analytical and problem-solving skills, with the ability to troubleshoot and resolve technical issues</li>
+<li>Effective communication and interpersonal skills, with the ability to collaborate cross-functionally and communicate complex concepts to diverse audiences</li>
+<li>Certification in Ixiasoft CCMS and/or Antidot Fluidtopics would be a nice to have</li>
+<li>Experience with other content management systems and related tools</li>
+<li>Knowledge of XML, DITA, and other markup languages</li>
+<li>Experience in project management or Agile methodologies</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="responsibilities">Responsibilities<a class="hash-link" aria-label="Bezpośredni link do Responsibilities" title="Bezpośredni link do Responsibilities" href="https://techwriter.pl/oferta-pracy-cms-business-system-analyst#responsibilities">​</a></h3>
+<ul>
+<li>Configuration Management. Configure and maintain the Ixiasoft CCMS platform according to business requirements. Customize workflows, templates, and metadata schemas to align with content management best practices.Ensure proper version control and configuration management of content assets.</li>
+<li>Content Management. Oversee the end-to-end content lifecycle, from creation to publication, using Ixiasoft CCMS and Antidot Fluidtopics platforms. Collaborate with content creators, subject matter experts, and other stakeholders to develop content strategies and guidelines. Manage content repositories, ensuring organization, accessibility, and security of content assets.</li>
+<li>Integration and Optimization. Leverage integration capabilities between Ixiasoft CCMS and Antidot Fluidtopics to streamline content workflows and maximize system efficiency.Identify opportunities for process optimization and automation to improve content management workflows. Monitor system performance and user feedback to continuously optimize configuration and content management processes.</li>
+<li>Training and Support. Provide training and support to users of Ixiasoft CCMS and Antidot Fluidtopics platforms. Develop documentation and training materials to educate users on best practices for content creation, management, and publication. Serve as a subject matter expert and primary point of contact for configuration and content management inquiries.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="system-description">System Description<a class="hash-link" aria-label="Bezpośredni link do System Description" title="Bezpośredni link do System Description" href="https://techwriter.pl/oferta-pracy-cms-business-system-analyst#system-description">​</a></h3>
+<p>Diagnostics Content Factory - provides SaaS tool for Content creation and management services. Tool provides the functionality to manage content creation, review and approval workflow process for the product information for customers.</p>
+<p>The following content types are in scope:</p>
+<ul>
+<li>Intended use of the product - official claim about the purpose of the product and how to use the product</li>
+<li>Troubleshooting - provides the solutions to fix the issue/problem</li>
+<li>Operations - provides the procedures to operate the product/system</li>
+<li>Maintenance - provides the procedures to maintain the product/system</li>
+<li>Configuration - to inform how to configure the product/system</li>
+<li>Safety - mitigate the product risks</li>
+<li>Reusable Service procedures - provides the procedures for service technicians</li>
+</ul>]]></content:encoded>
+            <category>oferty-pracy</category>
+            <category>praca</category>
+            <category>kariera</category>
+            <category>praca</category>
+        </item>
         <item>
             <title><![CDATA[#ContentDay - Relacja]]></title>
             <link>https://techwriter.pl/meet-content-krk-content-day-podsumowanie</link>
@@ -127,7 +179,7 @@ Stowarzyszenie ma głównie pomagać autorom i ilustratorom aby podnosić ich ko
 <p>Jak już wspominałem wcześniej, będąc członkiem stowarzyszenia, będzie nam łatwiej reprezentować całą grupę zawodową niż występować osobno do instytucji w kraju, by reprezentować swoje interesy.</p>
 <p>Lepiej lobbuje się w grupie, niż samemu, a im nas więcej, tym bardziej jesteśmy widoczni jako grupa zawodowa z bogatym doświadczeniem i wysoko wyspecjalizowaną wiedzą. Bycie członkiem stowarzyszenia daje też realny wpływ na tworzenie standardów, które ułatwią pracodawcom ustalenie zakresu obowiązków i wymaganych umiejętności.</p>
 <p>Poza tym stowarzyszenie jest też formą wsparcia zawodowego czy prawnego dla jego członka.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="rodzaje-członków-stowarzyszenia">Rodzaje członków stowarzyszenia<a class="hash-link" aria-label="Bezpośredni link do Rodzaje członków stowarzyszenia" title="Bezpośredni link do Rodzaje członków stowarzyszenia" href="https://techwriter.pl/saiit-wywiad#rodzaje-cz%C5%82onk%C3%B3w-stowarzyszenia">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="rodzaje-członków-stowarzyszenia">Rodzaje członków stowarzyszenia<a class="hash-link" aria-label="Bezpośredni link do Rodzaje członków stowarzyszenia" title="Bezpośredni link do Rodzaje członków stowarzyszenia" href="https://techwriter.pl/saiit-wywiad#rodzaje-cz%C5%82onk%EF%BF%BD%C3%B3w-stowarzyszenia">​</a></h2>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="projekt-statutu-przewiduje-kilka-rodzajów-członków-czy-możesz-pokrótce-opowiedzieć-czym-się-różnią">Projekt statutu przewiduje kilka rodzajów członków. Czy możesz pokrótce opowiedzieć czym się różnią?<a class="hash-link" aria-label="Bezpośredni link do Projekt statutu przewiduje kilka rodzajów członków. Czy możesz pokrótce opowiedzieć czym się różnią?" title="Bezpośredni link do Projekt statutu przewiduje kilka rodzajów członków. Czy możesz pokrótce opowiedzieć czym się różnią?" href="https://techwriter.pl/saiit-wywiad#projekt-statutu-przewiduje-kilka-rodzaj%C3%B3w-cz%C5%82onk%C3%B3w-czy-mo%C5%BCesz-pokr%C3%B3tce-opowiedzie%C4%87-czym-si%C4%99-r%C3%B3%C5%BCni%C4%85">​</a></h3>
 <p>Obecnie jest to koncept, który będzie pewnie podlegał modyfikacjom. Sami musimy ustalić, czy taka różnorodność w rodzaju członkostwa jest potrzebna.</p>
 <p>Projektowany statut przewiduje kilka rodzajów członkostwa w stowarzyszeniu:</p>
@@ -1653,84 +1705,6 @@ wiadomości na naszym kanale.</p>]]></content:encoded>
             <category>z-kraju</category>
             <category>meetcontent</category>
             <category>spolecznosc</category>
-        </item>
-        <item>
-            <title><![CDATA[Jak podnieść visibility Tech Commsów?]]></title>
-            <link>https://techwriter.pl/jak-podnieść-visibility-tech-commsow</link>
-            <guid>https://techwriter.pl/jak-podnieść-visibility-tech-commsow</guid>
-            <pubDate>Sun, 04 Feb 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Jeśli jesteś Tech Writerem wystarczająco długo, z pewnością jest dla ciebie jasne, że nie wiedzieć czemu pozostajemy nieco w cieniu 🤔]]></description>
-            <content:encoded><![CDATA[<p>Jeśli jesteś Tech Writerem wystarczająco długo, z pewnością jest dla ciebie jasne, że nie wiedzieć czemu pozostajemy nieco w cieniu 🤔</p>
-<p>Dlatego dziś będzie o wychodzeniu z cienia.</p>
-<p>Temat podniosła nie tak dawno temu <a href="https://www.linkedin.com/in/nicoletells/" target="_blank" rel="noopener noreferrer">Nicole Alexandra Michaelis</a>, w swoim poście <a href="https://uxdesign.cc/why-i-no-longer-believe-in-content-design-e71aeb5f060c" target="_blank" rel="noopener noreferrer">Why I no longer believe in Content design</a>. Nicole rozwija swoją myśl dalej w podcaście <a href="https://open.spotify.com/episode/2i6rIMP8ZIeMNbABzwIpx7" target="_blank" rel="noopener noreferrer">Content rookie</a>.</p>
-<p>Temat samotności i niezrozumienia roli contentowca mocno wybrzmiewał również podczas zeszłorocznej konferencji Soap.</p>
-<p>Podczas jednego z lightning boxów, <a href="https://www.linkedin.com/in/cynthiapeter/" target="_blank" rel="noopener noreferrer">Cynthia Peter</a> wystąpiła z rewolucyjną wręcz odezwą do wszystkich zgromadzonych, abyśmy wzięli sprawy w swoje ręce i zaczęli się wreszcie promować. Takie zawołanie widocznie zelektryzowało publiczność. Wszyscy zgadzali się, że czas już najwyższy i potrzeba jest paląca 🔥</p>
-<p>Cynthia jako rozwiązanie sugerowała udział w konferencjach developerskich, żeby przybliżyć naszą pracę temu środowisku. I takie inicjatywy są z całą pewnością słuszne.</p>
-<p>Wymagają one jednak:</p>
-<ul>
-<li>dostania się na taką konferencję</li>
-<li>umiejętności speakerskich</li>
-<li>wysokiej odporności na stres</li>
-</ul>
-<p>Jeśli więc nie czujemy się całkowicie pewnie na scenie w sali wypełnionej programistami, nie traćmy nadziei! 😉</p>
-<p>Możemy zacząć wdrażać zmianę w mniejszej skali, powiedzmy na poziomie firmy, w której pracujemy.</p>
-<p>Jak? Na to być może każdy z nas ma jakieś swoje metody. Ja opowiem wam o swoich.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="demo">Demo<a class="hash-link" aria-label="Bezpośredni link do Demo" title="Bezpośredni link do Demo" href="https://techwriter.pl/jak-podnie%C5%9B%C4%87-visibility-tech-commsow#demo">​</a></h2>
-<p>Jeśli pracujesz w IT, jest duża szansa, że zespoły z którymi współpracujesz organizują sesję Demo, gdzie pokazują co udało im się zbudować przez jakiś okres czasu, sprint, kwartał, etc.</p>
-<p>Możesz poprosić osoby prezentujące żeby dołączyły slajd z linkami do miejsc gdzie funkcjonalność, o której będzie mowa jest udokumentowana. Najlepiej jednak sam stwórz taki slajd, żeby maksymalnie ułatwić sprawę dla prezentera.</p>
-<p>A skoro to Demo, dorzuć też jakiś zrzut ekranu z dokumentacji, żeby nie pokazać samych linków, ale zaprezentować się bardziej wizualnie. Na przykład, zrób zrzut nagłówka i pierwszych dwóch paragrafów. Możesz dodać też swoje zdjęcie, a co! 😉</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="podziękowania">Podziękowania<a class="hash-link" aria-label="Bezpośredni link do Podziękowania" title="Bezpośredni link do Podziękowania" href="https://techwriter.pl/jak-podnie%C5%9B%C4%87-visibility-tech-commsow#podzi%C4%99kowania">​</a></h3>
-<p>Zazwyczaj osoba prezentująca na Demo nie będzie miała nic przeciwko. Co więcej, z czym spotykam się bardzo często, podczas samej prezentacji, Tech Writer który udokumentował funkcjonalność jest wspomniany razem z ogólnym podziękowaniem za dobrą współpracę 🙂</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="podsumowanie-kwartału">Podsumowanie kwartału<a class="hash-link" aria-label="Bezpośredni link do Podsumowanie kwartału" title="Bezpośredni link do Podsumowanie kwartału" href="https://techwriter.pl/jak-podnie%C5%9B%C4%87-visibility-tech-commsow#podsumowanie-kwarta%C5%82u">​</a></h2>
-<p>W zależności w jakich interwałach czasowych funkcjonuje twoja firma, możesz też zapoczątkować wysyłanie maili z aktualnościami z twojego działu. Klasycznie, rzeczy, które warto podkreślić to między innymi:</p>
-<ul>
-<li>Wdrożone funkcjonalności, które twój dział dokumentował wraz z linkami do tej dokumentacji, jeśli ktoś chciałby poczytać więcej.</li>
-<li>Nowi Tech Writerzy dołączający do zespołu.</li>
-<li>Linki do ciekawie zrobionych i ogólnodostępnych portali dokumentacyjnych innych firm.</li>
-<li>Użyteczną poradę pisarską - pamiętaj, że nie tylko my w firmach piszemy! Możesz dodać link do waszego style guide’a.</li>
-</ul>
-<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>wskazówka</div><div class="admonitionContent_BuS1"><p>Kiedyś pracowałam w firmie, w której współtworzyłam cotygodniowy branżowy newsletter.</p><p>Wiecie kiedy jest największa szansa, że ludzie taki newsletter zauważą i otworzą? Po lunchu w piątki!</p><p>Wszyscy generalnie szykują się już do zakończenia tygodnia. A jeśli wtedy nie zajrzą, to zajrzą w poniedziałek do porannej kawy 😀</p></div></div>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="niech-liczby-mówią-same-za-siebie">Niech liczby mówią same za siebie<a class="hash-link" aria-label="Bezpośredni link do Niech liczby mówią same za siebie" title="Bezpośredni link do Niech liczby mówią same za siebie" href="https://techwriter.pl/jak-podnie%C5%9B%C4%87-visibility-tech-commsow#niech-liczby-m%C3%B3wi%C4%85-same-za-siebie">​</a></h3>
-<p>Znajdź sposób, żeby przedstawić swoją pracę w liczbach. Na przykład:</p>
-<ul>
-<li>Ile funkcjonalności udokumentowałeś w danym przedziale czasowym? (uśrednij, policz zamknięte taski)</li>
-<li>Z iloma SMEs musiałeś się skontaktować, żeby w pełni zrozumieć i opisać nową funkcjonalność?</li>
-<li>Ile bugów dokumentacyjnych udało ci się rozwiązać?</li>
-</ul>
-<p>A najlepiej, jeśli przedstawisz to w jakimś zgrabnym pie charcie! 🤩</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="slack-teamsy-i-kariera-w-kinematografii">Slack, Teamsy i kariera w kinematografii<a class="hash-link" aria-label="Bezpośredni link do Slack, Teamsy i kariera w kinematografii" title="Bezpośredni link do Slack, Teamsy i kariera w kinematografii" href="https://techwriter.pl/jak-podnie%C5%9B%C4%87-visibility-tech-commsow#slack-teamsy-i-kariera-w-kinematografii">​</a></h2>
-<p>Używaj ogólnych kanałów, gdzie gromadzą się produktowcy czy programiści z obszaru którym się zajmujesz. Publikuj tam zwięzłe opowieści o twojej pracy i warsztacie.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="z-życia-tech-writera">Z życia Tech Writera<a class="hash-link" aria-label="Bezpośredni link do Z życia Tech Writera" title="Bezpośredni link do Z życia Tech Writera" href="https://techwriter.pl/jak-podnie%C5%9B%C4%87-visibility-tech-commsow#z-%C5%BCycia-tech-writera">​</a></h3>
-<p>Przypuśćmy, że zespół poprosił cię o wymyślenie nazwy dla nowego atrybutu. Możesz krótko opisać co robisz, żeby na końcu powstała krótka lista z sugestiami.</p>
-<p>To jest nie lada wyzwanie i jako takie powinieneś to opisać! Są trudy i przeciwności i świat musi o tym usłyszeć. Każdy nowy pomysł ma wady i zalety.</p>
-<p>Możesz opisać na przykład:</p>
-<ul>
-<li>Czy robisz burzę mózgów? Jeśli tak, to solo czy prosisz o udział innych Tech Writerów?</li>
-<li>Jakich kryteriów potem używasz robiąc selekcję?</li>
-<li>Czy używasz jakichś narzędzi?</li>
-<li>Czy masz ulubiony Thesaurus?</li>
-</ul>
-<p>Możesz też podlinkować ogólnodostępne wytyczne i dobre praktyki z dziedziny UX copy lub  poprosić o ocenę trzech wersji jednego komunikatu błędu. Niech zagłosują który podoba im się bardziej.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="chodź-tam-gdzie-produktowcy-i-uxsi">Chodź tam gdzie Produktowcy i UXsi<a class="hash-link" aria-label="Bezpośredni link do Chodź tam gdzie Produktowcy i UXsi" title="Bezpośredni link do Chodź tam gdzie Produktowcy i UXsi" href="https://techwriter.pl/jak-podnie%C5%9B%C4%87-visibility-tech-commsow#chod%C5%BA-tam-gdzie-produktowcy-i-uxsi">​</a></h3>
-<p>Kiedy ktoś publikuje post o funkcjonalności, którą opisywałeś ty lub ktoś z twojego zespołu, na przykład, że właśnie wydali jakąś konkretną zmianę, w tym samym wątku wklej link do dokumentacji.</p>
-<p>Opatrz go oczywiście odpowiednim intro: <em>Hej, w razie gdybyście potrzebowali więcej informacji, dokumentację która jest już dostępna dla klienta możesz znaleźć pod TYM LINKIEM. Feedback mile widziany!</em></p>
-<p>Chwalmy się tym co robimy!</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="co-wy-tam-w-ogóle-robicie-w-tych-tech-commsach">Co wy tam w ogóle robicie w tych Tech Commsach?<a class="hash-link" aria-label="Bezpośredni link do Co wy tam w ogóle robicie w tych Tech Commsach?" title="Bezpośredni link do Co wy tam w ogóle robicie w tych Tech Commsach?" href="https://techwriter.pl/jak-podnie%C5%9B%C4%87-visibility-tech-commsow#co-wy-tam-w-og%C3%B3le-robicie-w-tych-tech-commsach">​</a></h3>
-<p>Nagraj filmik opisujący proces tworzenia dokumentacji. Innym razem opowiedz o narzędziach, których używacie. Pokaż różnie smaczki, które twój CMS umożliwia.</p>
-<p>A może macie skomplikowany proces publikowania treści? Kto wie, może jakiś programista znajdzie trochę czasu żeby pomóc ci co nieco usprawnić? 🤔</p>
-<p>Postuj to wszystko na jakimś kanale przeznaczonym do dzielenia się wiedzą, jeśli taki istnieje.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="wszystko-pięknie-ładnie">Wszystko pięknie ładnie...<a class="hash-link" aria-label="Bezpośredni link do Wszystko pięknie ładnie..." title="Bezpośredni link do Wszystko pięknie ładnie..." href="https://techwriter.pl/jak-podnie%C5%9B%C4%87-visibility-tech-commsow#wszystko-pi%C4%99knie-%C5%82adnie">​</a></h2>
-<p>Jak ze wszystkim w życiu, jest pewna granica. Wszyscy dobrze wiemy, że właściwie każdy Tech Writer ma masę roboty, żeby nadążyć za developmentem. Nie wspominając o dodatkowym wysiłku poświęconym na promocję swojej pracy.</p>
-<p>I to jest całkowicie zrozumiałe.</p>
-<p>Jeśli czujesz się na siłach, możesz zacząć od małych zmian, zaplanować je i zbierać materiał w tak zwanym między czasie, na przykład w trakcie kwartału.</p>
-<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>wskazówka</div><div class="admonitionContent_BuS1"><p>Zrób sobie dedykowany plik i zapisuj pomysły. Jeśli jesteś częścią większego zespołu, możecie to przedyskutować i być może podzielić się pracą.</p></div></div>
-<p>Potem zarezerwuj sobie czas w spokojniejszym okresie (dosłownie: blokuj kalendarz 😉) żeby stworzyć konkretne posty.</p>
-<p>Każda taka inicjatywa pomaga w promocji naszej funkcji, uświadamia innych o wartości jaką dodajemy do produktu i firmy.</p>
-<p>I pozwala mieć nadzieję, że pewnego dnia, za siedmioma górami, zaangażują nas odpowiednio wcześnie i dadzą pełen kontekst na pierwszym spotkaniu 😀</p>
-<p>A tak poważnie, jeśli tylko mamy możliwość, przypominajmy sobie od czasu do czasu, że nasza praca nie polega tylko na zamykaniu tasków.</p>
-<p>Pielęgnujmy w sobie pasję do efektywnej komunikacji! 💪</p>]]></content:encoded>
-            <category>visibility</category>
-            <category>dzień z życia</category>
         </item>
     </channel>
 </rss>
