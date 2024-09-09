@@ -21,6 +21,6 @@ Oto lista konferencji, do których warto dołączyć:
 - [Expert Summit 2024 - All about Microsoft Technologies (online)](https://expertsummit.pl/) - 7 listopada 2024 r., konferencja o technologiach Microsoft
 - [Pytech Summit 2024 (online) Winter Edition](https://pytechsummit.pl/) - 10 grudnia 2024 r. - konferencja dla pythonowców
 
-Każdej z konferencji będą towarzyszyły Wirtualne Targi Pracy. No i - jak to na podobnych wydarzeniach bywa - każde z nich jest świetną okazją, aby poszerzyć sieć kontaktów, poznać ciekawych ludzi i dać się im poznać. My z pewnością skorzystamy z tej okazji, aby szerzyć świadomość istnienia tej pozornie niszowej dziedziny, jaką jest techwriting. 
+Każdej z konferencji będą towarzyszyły Wirtualne Targi Pracy. Ponadto, jak to na podobnych wydarzeniach bywa, każde z nich jest świetną okazją, aby poszerzyć sieć kontaktów i poznać ciekawych ludzi. My z pewnością skorzystamy z tej okazji, aby szerzyć świadomość istnienia tej pozornie niszowej dziedziny, jaką jest technical writing.
 
 Konferencje odbywają się od września do grudnia. Rejestracja i udział są bezpłatne. Nic nie tracisz, a możesz zyskać kontakty, inspiracje i wiedzę. Polecamy! 
