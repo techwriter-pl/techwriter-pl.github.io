@@ -8,7 +8,8 @@ tags:
   - 'konferencje'
 coverImage: 'konferencyjna_jesien_x_5.jpg'
 ---
-Co jest lepsze od jednej konferencji? Pięć konferencji :-)
+Co jest lepsze od jednej konferencji? Kilka darmowych konferencji :-)
+
 
 Żarty na bok. Wspieramy i rekomendujemy cykl pięciu konferencji online, które pozwolą uczestniczkom i uczestnikom poznać nieco lepiej jeden z wybranych obszarów IT.
 
