@@ -23,4 +23,10 @@ Oto lista konferencji, do których warto dołączyć:
 
 Każdej z konferencji będą towarzyszyły Wirtualne Targi Pracy. Ponadto, jak to na podobnych wydarzeniach bywa, każde z nich jest świetną okazją, aby poszerzyć sieć kontaktów i poznać ciekawych ludzi. My z pewnością skorzystamy z tej okazji, aby szerzyć świadomość istnienia tej pozornie niszowej dziedziny, jaką jest technical writing.
 
-Konferencje odbywają się od września do grudnia. Rejestracja i udział są bezpłatne. Nic nie tracisz, a możesz zyskać kontakty, inspiracje i wiedzę. Polecamy! 
+Podsumujmy:
+
+- Konferencje odbywają się **od września do grudnia**
+- Rejestracja i udział są **bezpłatne**
+- Warto dołączyć - nic nie tracisz, a możesz zyskać kontakty, inspiracje i wiedzę.
+
+ Serdecznie zapraszamy w imieniu organizatorów!
