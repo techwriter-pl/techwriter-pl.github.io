@@ -15,7 +15,6 @@ Co jest lepsze od jednej konferencji? Pięć konferencji :-)
 <!--truncate-->
 Oto lista konferencji, do których warto dołączyć:
 
-
 - [Women TechStyle Summit 2024 (online) Autumn Edition](https://womentechstyle.pl/) - 19 września 2024 r., konferencja dla kobiet w IT
 - [Javeloper 2024 (online) Autumn Edition](https://javeloper.pl/) - 26 września 2024 r., konferencja dla specjalistów Javy i architektury oprogramowania 
 - [dev.js Summit 2024 (online) Autumn Edition](https://devjssummit.pl/) - 17 października 2024 r., konferencja o technologiach front-endowych i JavaScripcie
