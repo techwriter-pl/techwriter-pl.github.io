@@ -11,7 +11,7 @@ coverImage: 'konferencyjna_jesien_x_5.jpg'
 Co jest lepsze od jednej konferencji? Kilka darmowych konferencji :-)
 
 
-Żarty na bok. Wspieramy i rekomendujemy cykl pięciu konferencji online, które pozwolą uczestniczkom i uczestnikom poznać nieco lepiej jeden z wybranych obszarów IT.
+Żarty na bok. Wspieramy i rekomendujemy cykl pięciu wydarzeń online, które pozwolą uczestniczkom i uczestnikom poznać nieco lepiej jeden z wybranych obszarów IT.
 
 <!--truncate-->
 Oto lista konferencji, do których warto dołączyć:
