@@ -17,7 +17,7 @@ Poniżej przedstawiamy szczegóły dotyczące wydarzenia dostarczone przez organ
 
 ## Webinar „HowTo Create i HowTo Deliver – wynieś dokumentację na wyższy poziom”
 
- Czy wiesz, że pracownicy, którzy mają łatwy dostęp do informacji, są o 20-25% bardziej wydajni (badania"The social economy: Unlocking value and productivity through social technologies"). Co więcej, 60% użytkowników oprogramowania stwierdziło, że ich zadowolenie z produktu znacznie wzrasta, gdy mogą szybko znaleźć potrzebne informacje (badania Forrester Research). 
+ Czy wiesz, że pracownicy, którzy mają łatwy dostęp do informacji, są o 20-25% bardziej wydajni (badania "The social economy: Unlocking value and productivity through social technologies"). Co więcej, 60% użytkowników oprogramowania stwierdziło, że ich zadowolenie z produktu znacznie wzrasta, gdy mogą szybko znaleźć potrzebne informacje (badania Forrester Research). 
 
  Jak widać, uzyskanie niezbędnych informacji w łatwy i szybki sposób jest kluczowe zarówno dla organizacji, jak i użytkownika końcowego. Chcesz dowiedzieć się, jak przygotować dokumentację techniczną, aby spełniała swoje funkcje jak najlepiej?
  
