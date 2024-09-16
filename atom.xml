@@ -2,11 +2,128 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://techwriter.pl/</id>
     <title>techwriter.pl Blog</title>
-    <updated>2024-09-11T00:00:00.000Z</updated>
+    <updated>2024-09-16T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://techwriter.pl/"/>
     <subtitle>techwriter.pl Blog</subtitle>
     <icon>https://techwriter.pl/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Estymacja w zespole dokumentacyjnym - tak czy nie?]]></title>
+        <id>https://techwriter.pl/estymacja</id>
+        <link href="https://techwriter.pl/estymacja"/>
+        <updated>2024-09-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Estymacja w IT jest dobrze wszystkim znana, szczególnie w świecie programistów. Dostępne są przeróżne metody dochodzenia do odpowiedzi na zasadnicze pytanie: ile potrzebuję czasu, żeby ukończyć to zadanie?]]></summary>
+        <content type="html"><![CDATA[<p>Estymacja w IT jest dobrze wszystkim znana, szczególnie w świecie programistów. Dostępne są przeróżne metody dochodzenia do odpowiedzi na zasadnicze pytanie: ile potrzebuję czasu, żeby ukończyć to zadanie?</p>
+<p>W świecie Technical Writerów sprawa wygląda nieco inaczej. Dostajemy funkcjonalność, którą trzeba opisać i nie wybieramy sobie zazwyczaj, że w danym sprincie sobie to opiszemy. Wynika to z tego, że może nas gonić termin releasu i po prostu musimy skończyć dane zadanie w określonym przedziale czasowym.</p>
+<p>Wszyscy zasadniczo wiemy po co się estymuje - przynajmniej tak się wydaje. Jednak, żeby robić to rozsądnie, powinniśmy zastanowić się czy problemy, z którymi się borykamy mogą być rzeczywiście rozwiązane przy pomocy estymacji, czy lepiej szukać innego narzędzia?</p>
+<p>W zależności od modelu, w którym pracujemy, estymacja może pomóc nam odpowiedzieć na pytanie: czy jestem w stanie realnie się zobowiązać, że wykonam to zadanie na czas?</p>
+<p>Estymacja może też oferować bardziej przejrzyste i obiektywne kryteria raportowania ryzyka, czyli informacji, że jednak nie jestem w stanie dostarczyć dokumentacji zgodnie z wcześniejszą deklaracją.</p>
+<p>Ponadto, możemy spróbować poszukać odpowiedzi na następujące pytania:</p>
+<ul>
+<li>Ile godzin tak naprawdę Technical Writer spędza na tworzeniu dokumentacji?</li>
+<li>Czy zostaje czas na inne zajęcia, takie jak: szkolenia, ulepszanie istniejącej dokumentacji, czy inicjatywy wewnętrzne?</li>
+</ul>
+<p>Pośrednio, odpowiedzi na te pytania mogą pomóc w diagnozie, kiedy przydałoby się zatrudnić nową osobę oraz jak zmienia się nakład pracy w czasie.</p>
+<p>Jako manager zespołu dokumentacyjnego, wielokrotnie zmagałam się z wyzwaniem określenia możliwości mojego zespołu.</p>
+<p>Było to bardzo trudne, szczególnie, że pracowaliśmy w systemie <em>continous delivery</em>, a więc nie mieliśmy określonego czasu releasu, na przykład kwartalnego. Releasy funkcjonalności nad którymi pracowali pisarze mogły zdarzać się nawet kilka razy dziennie.</p>
+<p>W moim zespole, który składa się z czterech Technical Writerów, każdy był odpowiedzialny za dokumentację z innego obszaru. Czasem terminy goniły tylko po to, żeby raptownie zwolnić po wykryciu nieoczekiwanych bugów w funkcjonalności.</p>
+<p>Ciężko nam było też określić jak zmienia się nakład pracy z kwartału na kwartał. Proste porównanie ilości zamkniętych zadań na koniec kwartału nie było zbyt dokładne, ponieważ nie uwzględniało różnic w nakładzie pracy niezbędnym do ukończenia poszczególnych zadań.</p>
+<p>Postanowiliśmy to ogarnąć 💪</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="proces">Proces<a class="hash-link" aria-label="Bezpośredni link do Proces" title="Bezpośredni link do Proces" href="https://techwriter.pl/estymacja#proces">​</a></h2>
+<p>Inicjatywa wyszła ode mnie. Po szybkiej rozmowie z Agile Coachem, który pomógł mi nazwać i doprecyzować moje problemy, zabraliśmy się do pracy.</p>
+<p>Pracę zorganizowaliśmy w formie warsztatu. Niestety, każdy z nas uczestniczył w tym warsztacie zdalnie, ale dzięki narzędziom do kolaboracji, daliśmy radę go skutecznie przeprowadzić.</p>
+<p>Przyjęliśmy kilka założeń wyjściowych, które dla wszystkich były akceptowalne:</p>
+<ul>
+<li>Niektóre zadania dokumentacyjne wymagają więcej pracy niż inne.</li>
+<li>Jesteśmy w stanie stworzyć listę czynności, które stale przewijają się w pracy każdego Writera.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="krok-1-lista-zadań-dokumentacyjnych">KROK 1: Lista zadań dokumentacyjnych<a class="hash-link" aria-label="Bezpośredni link do KROK 1: Lista zadań dokumentacyjnych" title="Bezpośredni link do KROK 1: Lista zadań dokumentacyjnych" href="https://techwriter.pl/estymacja#krok-1-lista-zada%C5%84-dokumentacyjnych">​</a></h3>
+<p>Stworzyliśmy listę różnych zadań dokumentacyjnych, które powtarzają się w naszej pracy. Na przykład:</p>
+<ul>
+<li>Nowy atrybut dodany do istniejącego endpointa w API</li>
+<li>Customowy event Google Analytics</li>
+<li>Ulepszenie istniejącej funkcjonalności</li>
+<li>Nowe pole w aplikacji webowej wspierające nową funkcjonalność</li>
+</ul>
+<p>Do każdego z tych zadań dodaliśmy również stworzenie dokumentu Release Note, ponieważ każda zmiana w naszym produkcie wymagała bezpośredniego poinformowania klientów.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="krok-2-lista-czynności-które-powtarzają-się-w-naszej-pracy">KROK 2: Lista czynności, które powtarzają się w naszej pracy<a class="hash-link" aria-label="Bezpośredni link do KROK 2: Lista czynności, które powtarzają się w naszej pracy" title="Bezpośredni link do KROK 2: Lista czynności, które powtarzają się w naszej pracy" href="https://techwriter.pl/estymacja#krok-2-lista-czynno%C5%9Bci-kt%C3%B3re-powtarzaj%C4%85-si%C4%99-w-naszej-pracy">​</a></h3>
+<p>Możemy zidentyfikować i wyodrębnić powtarzalne czynności w naszej pracy, które stanowią części składowe różnych zadań dokumentacyjnych.</p>
+<p>Z pewnością zaraz po tym jak dowiesz się, że jest nowa funkcjonalność do opisania, nie zabierasz się za pisanie!</p>
+<p>Co więc robisz?</p>
+<p>Najpierw musisz się nieco rozeznać w temacie! A więc czytasz opis w Jirze lub innym systemie.
+Potem z pewnością będziesz chciał choćby przez chwilę porozmawiać ze swoim SME, czy to z Product Managerem czy z Deweloperem, aby potwierdzić, że dobrze rozumiesz wymagania i dowiedzieć się czy mają coś więcej do dodania. Dopiero potem tworzysz pierwszy szkic swojego dokumentu. I tak dalej…</p>
+<p>My też zabraliśmy się za tworzenie takiej listy. Umieściliśmy na niej między innymi:</p>
+<ul>
+<li>Własny research - na podstawie dostępnych informacji, czyli opisu w Jirze, różnych dokumentów i prezentacji, stworzonych przez Product Managera czy wręcz raportu z UX research.
+Dodaliśmy tu również research domeny w Internecie, jeśli na przykład musisz napisać o nowej funkcji w obszarze SEO, o którym nic nie wiesz - dobrze by było trochę poczytać, prawda? 😉</li>
+<li>Rozmowa z SME</li>
+<li>Tworzenie projektu dokumentacji wraz z Release Note</li>
+<li>Stworzenie nazwy dla nowego atrybutu w API lub pola w interfejsie</li>
+<li>Sprawdzenie tekstów dodanych przez Deweloperów na nowych ekranach aplikacji</li>
+<li>I tak dalej</li>
+</ul>
+<p>Naturalnie, nie każde zadanie wymaga zaliczenia wszystkich tych czynności. Niektóre zadania wymagają  ukończenia tylko kilku, inne, bardziej skomplikowane nawet kilkunastu. To wszystko oczywiście będzie zależało od specyfiki twojego produktu i sposobu pracy w danej firmie.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="krok-3-połączenie-zadań-z-czynnościami">KROK 3: Połączenie zadań z czynnościami<a class="hash-link" aria-label="Bezpośredni link do KROK 3: Połączenie zadań z czynnościami" title="Bezpośredni link do KROK 3: Połączenie zadań z czynnościami" href="https://techwriter.pl/estymacja#krok-3-po%C5%82%C4%85czenie-zada%C5%84-z-czynno%C5%9Bciami">​</a></h3>
+<p>Następnie wzięliśmy na warsztat każde z zadań dokumentacyjnych, jedno po drugim i przypisywaliśmy do każdego z nich listę czynności, które musi wykonać pisarz, aby ukończyć dane zadanie.</p>
+<p>Każde zadanie opisaliśmy w takim formacie:</p>
+<p><img decoding="async" loading="lazy" src="https://techwriter.pl/assets/images/img1-d6966be632bd059e4d162fdce764cf3c.jpg" width="652" height="395" class="img_ev3q"></p>
+<p>Do tej pory szło gładko, nie pojawiały się żadne kwestie sporne 😉</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="krok-4-dodanie-czynnika-czasu">KROK 4: Dodanie czynnika czasu<a class="hash-link" aria-label="Bezpośredni link do KROK 4: Dodanie czynnika czasu" title="Bezpośredni link do KROK 4: Dodanie czynnika czasu" href="https://techwriter.pl/estymacja#krok-4-dodanie-czynnika-czasu">​</a></h3>
+<p>W kolejnym kroku, mieliśmy podjąć próbę wyceny każdej czynności w kontekście zadania w ramach którego będzie wykonywana.</p>
+<p>Oczywiście, jeśli mamy całkiem nową aplikację umożliwiającą klientom konfigurację jakiegoś obszaru, to czynność polegająca na sprawdzeniu <em>UI copy</em> zajmie znacznie dłużej niż w przypadku, gdy zespół dodał jedno nowe pole w istniejącym interfejsie.</p>
+<p>Ku mojemu zaskoczeniu, i tu byliśmy całkiem zgodni. Tam gdzie pojawiały się rozbieżności, w stylu: "ale mi ta czynność zajmuje więcej czasu" - głosowaliśmy i wyciągaliśmy średnią.</p>
+<p>Na koniec tego kroku, każde z zadań dokumentacyjnych mieliśmy opracowane mniej więcej w takiej postaci:</p>
+<p><img decoding="async" loading="lazy" src="https://techwriter.pl/assets/images/img2-05c06686fb8b4de9d79439cd96933119.jpg" width="727" height="428" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="krok-5-zsumowanie-ilości-godzin-dla-każdego-zadania">KROK 5: Zsumowanie ilości godzin dla każdego zadania<a class="hash-link" aria-label="Bezpośredni link do KROK 5: Zsumowanie ilości godzin dla każdego zadania" title="Bezpośredni link do KROK 5: Zsumowanie ilości godzin dla każdego zadania" href="https://techwriter.pl/estymacja#krok-5-zsumowanie-ilo%C5%9Bci-godzin-dla-ka%C5%BCdego-zadania">​</a></h3>
+<p>Zsumowaliśmy czas zadeklarowany na wykonanie danego zadania.
+Następnie ułożyliśmy nasze zdania dokumentacyjne w kolejności, od najmniej do najbardziej czasochłonnych.</p>
+<p>Okazało się, że mamy typy zadań dokumentacyjnych, które zajmują odpowiednio: 3, 5, 15 i 25 godzin. No dobra, nie wyszło tak równo, trochę zaokrągliliśmy 😉</p>
+<p>Użyliśmy rozmiarów koszulek (<em>t-shirt size</em>) i przyporządkowaliśmy każdemu rozmiarowi odpowiednią estymatę. W rezultacie otrzymaliśmy listę rozmiarów zadań z ich prawdopodobną czasochłonnością:</p>
+<ul>
+<li>XS - 3 godziny</li>
+<li>S - 5 godzin</li>
+<li>M - 15 godzin</li>
+<li>L - 25 godzin</li>
+</ul>
+<p>Rozmiary koszulek były najbardziej intuicyjne, a dodatkowym atutem był fakt, że Jira pozwala na dodanie takiej estymacji z automatu, bez zbędnych zabiegów konfiguracyjnych.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="koszulki-w-praniu">Koszulki w praniu<a class="hash-link" aria-label="Bezpośredni link do Koszulki w praniu" title="Bezpośredni link do Koszulki w praniu" href="https://techwriter.pl/estymacja#koszulki-w-praniu">​</a></h2>
+<p>Po warsztacie pełni zapału ruszyliśmy estymować. Dodatkowo uzgodniliśmy, że:</p>
+<ul>
+<li>Nie będziemy rejestrować godzin faktycznie spędzonych na danym zadaniu - wystarczy określić jaki to typ zadania dokumentacyjnego i przyporządkować mu rozmiar.
+Uznaliśmy, że rejestrowanie godzin zbytnio nas obciąży, szczególnie gdy nasza praca wymaga częstego przełączania się między zadaniami.</li>
+<li>Jeśli w trakcie pracy okaże się, że przeszacowaliśmy lub niedoszacowaliśmy, poprawialiśmy oryginalną estymatę tak, żeby była bliższa rzeczywistości.</li>
+<li>Będziemy patrzeć na rezultaty kwartalnie.</li>
+</ul>
+<p>Po pierwszym kwartale wyszło nam, że potrafimy już zmierzyć ile czasu poświęciliśmy na zadania dokumentacyjne łącznie.</p>
+<p>Po drugim kwartale zaobserwowaliśmy nie tylko znaczny wzrost zadań, ale też i ich rozmiarów.</p>
+<p>Trzeci kwartał przyniósł nam więcej na temat tego ile średnio zadań i jakiej wielkości jesteśmy w stanie wykonać w ciągu kwartału.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="rekalibracja">Rekalibracja<a class="hash-link" aria-label="Bezpośredni link do Rekalibracja" title="Bezpośredni link do Rekalibracja" href="https://techwriter.pl/estymacja#rekalibracja">​</a></h3>
+<p>Ponadto, ustaliliśmy z zespołem, że potrzebna będzie rekalibracja naszego oryginalnego systemu.
+Na przykład doszliśmy do wniosku, że mamy za duży przeskok pomiędzy zadaniem S (5 godzin) a M (15 godzin).
+Planujemy kolejny warsztat 😅</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="tak-czy-nie-wnioski">Tak czy nie? (wnioski)<a class="hash-link" aria-label="Bezpośredni link do Tak czy nie? (wnioski)" title="Bezpośredni link do Tak czy nie? (wnioski)" href="https://techwriter.pl/estymacja#tak-czy-nie-wnioski">​</a></h2>
+<p>Ten eksperyment nadal trwa, ale już stał się stałym elementem naszego procesu. Daje nam, jako zespołowi informacje, które z czasem będzie można wykorzystać w rozmowach z różnymi <em>stakeholderami</em>.</p>
+<p>Znamy rozmiar zadań ukończonych i zadań w przygotowaniu oraz ich wartość godzinową.</p>
+<p>Znamy również realne obłożenie pracą - w wymiarze godzinowym. To daje nam możliwość dalszej analizy, czy to się wszystko jeszcze spina, po uwzględnieniu liczby godzin dostępnych na pracę (odejmując urlopy, spotkania zespołowe, 1:1, itd.).</p>
+<p>Nadal jednak, zaczynając nowy kwartał nie mamy pełnej pewności jak ostatecznie się on rozwinie. Budowa produktu przebiega wielotorowo i często zależymy od precyzji planowania i estymacji zespołów produktowych i deweloperskich.</p>
+<p>Co innego w krótszej perspektywie, kiedy wiemy:</p>
+<ul>
+<li>Ile mamy dostępnego czasu Technical Writera?</li>
+<li>Ile jakiego typu zadań jest do udokumentowania?</li>
+<li>Na kiedy?</li>
+</ul>
+<p>Wtedy jak najbardziej możemy lepiej określić czy jest ryzyko opóźnień, czy też damy radę zrealizować wszystko na czas.</p>
+<p>Estymacja może być niezwykle przydatnym procesem, jeśli wiemy po co chcemy ją wdrożyć. W naszym przypadku, pierwotna potrzeba czyli zdolność określenia czy zobowiązujemy się do dostarczenia dokumentacji okazała się niemożliwa w perspektywie kwartału, ale zadziałała w kontekście krótszych ram czasowych i bliższych deadlinów.</p>
+<p>Dodatkowo mamy mocne, obiektywne, bo oparte na danych argumenty przydatne w przypadku rozmów dotyczących zatrudnienia nowych Writerów.</p>
+<p>Pewnym nieplanowanym elementem było również to, że zespół miał okazję wspólnie skatalogować i przedyskutować każdy typ zadania dokumentacyjnego, wypowiedzieć się na temat czasu jaki im on zajmuje, porównać swoje argumenty z innymi i wymienić się <em>best practices</em> na optymalizację poszczególnych etapów 🙌</p>]]></content>
+        <author>
+            <name>Monika Mrozek</name>
+            <uri>https://www.linkedin.com/in/monika-mrozek/</uri>
+        </author>
+        <category label="estymacja" term="estymacja"/>
+        <category label="wycena pracy" term="wycena pracy"/>
+        <category label="szacowanie wysiłku" term="szacowanie wysiłku"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[„HowTo Create i HowTo Deliver – wynieś dokumentację na wyższy poziom” - webinar]]></title>
         <id>https://techwriter.pl/etteplan-webinar-dokumentacja</id>
@@ -263,7 +380,7 @@ Stowarzyszenie ma głównie pomagać autorom i ilustratorom aby podnosić ich ko
 <p>Jak już wspominałem wcześniej, będąc członkiem stowarzyszenia, będzie nam łatwiej reprezentować całą grupę zawodową niż występować osobno do instytucji w kraju, by reprezentować swoje interesy.</p>
 <p>Lepiej lobbuje się w grupie, niż samemu, a im nas więcej, tym bardziej jesteśmy widoczni jako grupa zawodowa z bogatym doświadczeniem i wysoko wyspecjalizowaną wiedzą. Bycie członkiem stowarzyszenia daje też realny wpływ na tworzenie standardów, które ułatwią pracodawcom ustalenie zakresu obowiązków i wymaganych umiejętności.</p>
 <p>Poza tym stowarzyszenie jest też formą wsparcia zawodowego czy prawnego dla jego członka.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="rodzaje-członków-stowarzyszenia">Rodzaje członków stowarzyszenia<a class="hash-link" aria-label="Bezpośredni link do Rodzaje członków stowarzyszenia" title="Bezpośredni link do Rodzaje członków stowarzyszenia" href="https://techwriter.pl/saiit-wywiad#rodzaje-cz%EF%BF%BD%C5%82onk%C3%B3w-stowarzyszenia">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="rodzaje-członków-stowarzyszenia">Rodzaje członków stowarzyszenia<a class="hash-link" aria-label="Bezpośredni link do Rodzaje członków stowarzyszenia" title="Bezpośredni link do Rodzaje członków stowarzyszenia" href="https://techwriter.pl/saiit-wywiad#rodzaje-cz%C5%82onk%C3%B3w-stowarzyszenia">​</a></h2>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="projekt-statutu-przewiduje-kilka-rodzajów-członków-czy-możesz-pokrótce-opowiedzieć-czym-się-różnią">Projekt statutu przewiduje kilka rodzajów członków. Czy możesz pokrótce opowiedzieć czym się różnią?<a class="hash-link" aria-label="Bezpośredni link do Projekt statutu przewiduje kilka rodzajów członków. Czy możesz pokrótce opowiedzieć czym się różnią?" title="Bezpośredni link do Projekt statutu przewiduje kilka rodzajów członków. Czy możesz pokrótce opowiedzieć czym się różnią?" href="https://techwriter.pl/saiit-wywiad#projekt-statutu-przewiduje-kilka-rodzaj%C3%B3w-cz%C5%82onk%C3%B3w-czy-mo%C5%BCesz-pokr%C3%B3tce-opowiedzie%C4%87-czym-si%C4%99-r%C3%B3%C5%BCni%C4%85">​</a></h3>
 <p>Obecnie jest to koncept, który będzie pewnie podlegał modyfikacjom. Sami musimy ustalić, czy taka różnorodność w rodzaju członkostwa jest potrzebna.</p>
 <p>Projektowany statut przewiduje kilka rodzajów członkostwa w stowarzyszeniu:</p>
@@ -1521,212 +1638,5 @@ Możesz się też wstydzić i obawiać krytyki ze strony innych. Jednak pamięta
         <category label="meetup" term="meetup"/>
         <category label="nlu" term="nlu"/>
         <category label="smart search results" term="smart search results"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Konferencje 2024]]></title>
-        <id>https://techwriter.pl/konferencje-2024</id>
-        <link href="https://techwriter.pl/konferencje-2024"/>
-        <updated>2024-03-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Prezentujemy listę konferencji, które mogą być interesujące dla specjalistów z branży]]></summary>
-        <content type="html"><![CDATA[<p>Prezentujemy listę konferencji, które mogą być interesujące dla specjalistów z branży
-komunikacji technicznej w 2024.</p>
-<p>W tym roku postanowiliśmy podejść do tematu bardziej praktycznie. Zamiast kompilować listę
-wszystkich wydarzeń, które udało nam się&nbsp;znaleźć, wybraliśmy tylko takie,
-które odbywają się blisko Polski i takie, które oferują opcję dołączenia
-wirtualnie. Na odległych kontynentach dzieją się ciekawe rzeczy, ale raczej
-mało kto z nas będzie potrafił przekonać swojego przełożonego do udziału
-w takim wydarzeniu :) Mamy nadzieję, że ta formuła będzie dla Was bardziej
-przydatna. Dajcie nam znać co myślicie w komentarzach.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ux360-virtual">UX360 Virtual<a class="hash-link" aria-label="Bezpośredni link do UX360 Virtual" title="Bezpośredni link do UX360 Virtual" href="https://techwriter.pl/konferencje-2024#ux360-virtual">​</a></h2>
-<ul>
-<li>30-31.01.2024</li>
-<li>Online</li>
-<li><a href="https://www.virtual.ux360summit.com/" target="_blank" rel="noopener noreferrer">https://www.virtual.ux360summit.com/</a></li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="megacomm">MEGAComm<a class="hash-link" aria-label="Bezpośredni link do MEGAComm" title="Bezpośredni link do MEGAComm" href="https://techwriter.pl/konferencje-2024#megacomm">​</a></h2>
-<ul>
-<li>07-08.02.2024</li>
-<li>Online</li>
-<li><a href="https://megacomm.org/" target="_blank" rel="noopener noreferrer">https://megacomm.org/</a></li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="dita-ot-day">DITA-OT Day<a class="hash-link" aria-label="Bezpośredni link do DITA-OT Day" title="Bezpośredni link do DITA-OT Day" href="https://techwriter.pl/konferencje-2024#dita-ot-day">​</a></h2>
-<ul>
-<li>11.02.2024</li>
-<li>Helsinki, Finlandia</li>
-<li><a href="https://www.oxygenxml.com/events/2024/dita-ot_day.html" target="_blank" rel="noopener noreferrer">https://www.oxygenxml.com/events/2024/dita-ot_day.html</a></li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="dita-europe">DITA Europe<a class="hash-link" aria-label="Bezpośredni link do DITA Europe" title="Bezpośredni link do DITA Europe" href="https://techwriter.pl/konferencje-2024#dita-europe">​</a></h2>
-<ul>
-<li>12-13.02.2024</li>
-<li>Helsinki, Finlandia</li>
-<li><a href="https://ditaeurope.infomanagementcenter.com/" target="_blank" rel="noopener noreferrer">https://ditaeurope.infomanagementcenter.com/</a></li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="nordic-techkomm-szwecja">Nordic TechKomm (Szwecja)<a class="hash-link" aria-label="Bezpośredni link do Nordic TechKomm (Szwecja)" title="Bezpośredni link do Nordic TechKomm (Szwecja)" href="https://techwriter.pl/konferencje-2024#nordic-techkomm-szwecja">​</a></h2>
-<ul>
-<li>06-07.03.2024</li>
-<li>Sztokholm, Szwecja</li>
-<li><a href="https://se.nordic-techkomm.com/" target="_blank" rel="noopener noreferrer">https://se.nordic-techkomm.com/</a></li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ai-the-docs">AI the Docs<a class="hash-link" aria-label="Bezpośredni link do AI the Docs" title="Bezpośredni link do AI the Docs" href="https://techwriter.pl/konferencje-2024#ai-the-docs">​</a></h2>
-<ul>
-<li>03.04.2024</li>
-<li>Online</li>
-<li><a href="https://apithedocs.org/ai-2024" target="_blank" rel="noopener noreferrer">https://apithedocs.org/ai-2024</a></li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="tekom-frühjahrstagung">tekom-Frühjahrstagung<a class="hash-link" aria-label="Bezpośredni link do tekom-Frühjahrstagung" title="Bezpośredni link do tekom-Frühjahrstagung" href="https://techwriter.pl/konferencje-2024#tekom-fr%C3%BChjahrstagung">​</a></h2>
-<ul>
-<li>11-12.04.2024</li>
-<li>Freiburg, Niemcy</li>
-<li><a href="https://fruehjahrstagung.tekom.de/" target="_blank" rel="noopener noreferrer">https://fruehjahrstagung.tekom.de/</a></li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="learning-technologies">Learning Technologies<a class="hash-link" aria-label="Bezpośredni link do Learning Technologies" title="Bezpośredni link do Learning Technologies" href="https://techwriter.pl/konferencje-2024#learning-technologies">​</a></h2>
-<ul>
-<li>17-18.04.2024</li>
-<li>Londyn, Anglia</li>
-<li><a href="https://www.learningtechnologies.co.uk/" target="_blank" rel="noopener noreferrer">https://www.learningtechnologies.co.uk/</a></li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ddx-innovation--ux-conference">DDX Innovation &amp; UX Conference<a class="hash-link" aria-label="Bezpośredni link do DDX Innovation &amp; UX Conference" title="Bezpośredni link do DDX Innovation &amp; UX Conference" href="https://techwriter.pl/konferencje-2024#ddx-innovation--ux-conference">​</a></h2>
-<ul>
-<li>11.05.2024</li>
-<li>Monachium, Niemcy</li>
-<li><a href="https://www.ddxconference.com/ddx-24-munich" target="_blank" rel="noopener noreferrer">https://www.ddxconference.com/ddx-24-munich</a></li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ux-writer-conference">UX Writer Conference<a class="hash-link" aria-label="Bezpośredni link do UX Writer Conference" title="Bezpośredni link do UX Writer Conference" href="https://techwriter.pl/konferencje-2024#ux-writer-conference">​</a></h2>
-<ul>
-<li>13-14.05.2024</li>
-<li>Online</li>
-<li><a href="https://uxwriterconference.com/" target="_blank" rel="noopener noreferrer">https://uxwriterconference.com/</a></li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="uxdx-usa">UXDX USA<a class="hash-link" aria-label="Bezpośredni link do UXDX USA" title="Bezpośredni link do UXDX USA" href="https://techwriter.pl/konferencje-2024#uxdx-usa">​</a></h2>
-<ul>
-<li>15-17.05.2024</li>
-<li>Nowy Jork, USA i online</li>
-<li><a href="https://uxdx.com/usa/2024/" target="_blank" rel="noopener noreferrer">https://uxdx.com/usa/2024/</a></li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ux360-in-person">UX360 In-Person<a class="hash-link" aria-label="Bezpośredni link do UX360 In-Person" title="Bezpośredni link do UX360 In-Person" href="https://techwriter.pl/konferencje-2024#ux360-in-person">​</a></h2>
-<ul>
-<li>16-17.05.2024</li>
-<li>Berlin, Niemcy</li>
-<li><a href="https://www.eu.ux360summit.com/" target="_blank" rel="noopener noreferrer">https://www.eu.ux360summit.com/</a></li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ux-lisbon">UX Lisbon<a class="hash-link" aria-label="Bezpośredni link do UX Lisbon" title="Bezpośredni link do UX Lisbon" href="https://techwriter.pl/konferencje-2024#ux-lisbon">​</a></h2>
-<ul>
-<li>21-24.05.2024</li>
-<li>Lizbona, Portugalia</li>
-<li><a href="https://www.ux-lx.com/" target="_blank" rel="noopener noreferrer">https://www.ux-lx.com/</a></li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="from-business-to-buttons">From Business to Buttons<a class="hash-link" aria-label="Bezpośredni link do From Business to Buttons" title="Bezpośredni link do From Business to Buttons" href="https://techwriter.pl/konferencje-2024#from-business-to-buttons">​</a></h2>
-<ul>
-<li>24.05.2024</li>
-<li>Sztokholm, Szwecja</li>
-<li><a href="https://frombusinesstobuttons.com/" target="_blank" rel="noopener noreferrer">https://frombusinesstobuttons.com/</a></li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="comtecnica">COMtecnica<a class="hash-link" aria-label="Bezpośredni link do COMtecnica" title="Bezpośredni link do COMtecnica" href="https://techwriter.pl/konferencje-2024#comtecnica">​</a></h2>
-<ul>
-<li>29-30.05.2024</li>
-<li>Bolonia, Włochy</li>
-<li><a href="https://www.comtecnica.eu/en/" target="_blank" rel="noopener noreferrer">https://www.comtecnica.eu/en/</a></li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ux-scotland">UX Scotland<a class="hash-link" aria-label="Bezpośredni link do UX Scotland" title="Bezpośredni link do UX Scotland" href="https://techwriter.pl/konferencje-2024#ux-scotland">​</a></h2>
-<ul>
-<li>29-31.05.2024</li>
-<li>Edynburg, Szkocja</li>
-<li><a href="https://uxscotland.net/" target="_blank" rel="noopener noreferrer">https://uxscotland.net/</a></li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="evolution-of-tc">Evolution of TC<a class="hash-link" aria-label="Bezpośredni link do Evolution of TC" title="Bezpośredni link do Evolution of TC" href="https://techwriter.pl/konferencje-2024#evolution-of-tc">​</a></h2>
-<ul>
-<li>04-05.06.2024</li>
-<li>Sofia, Bułgaria</li>
-<li><a href="https://evolution-of-tc.com/" target="_blank" rel="noopener noreferrer">https://evolution-of-tc.com/</a></li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="agile-conference">AGILE Conference<a class="hash-link" aria-label="Bezpośredni link do AGILE Conference" title="Bezpośredni link do AGILE Conference" href="https://techwriter.pl/konferencje-2024#agile-conference">​</a></h2>
-<ul>
-<li>04-07.06.2024</li>
-<li>Glasgow, Szkocja</li>
-<li><a href="https://agile-gi.eu/conference-2024" target="_blank" rel="noopener noreferrer">https://agile-gi.eu/conference-2024</a></li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="locworld51">LocWorld51<a class="hash-link" aria-label="Bezpośredni link do LocWorld51" title="Bezpośredni link do LocWorld51" href="https://techwriter.pl/konferencje-2024#locworld51">​</a></h2>
-<ul>
-<li>05-07.06.2024</li>
-<li>Dublin, Irlandia</li>
-<li><a href="https://locworld.com/events/locworld51-dublin-2024/" target="_blank" rel="noopener noreferrer">https://locworld.com/events/locworld51-dublin-2024/</a></li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="xml-prague">XML Prague<a class="hash-link" aria-label="Bezpośredni link do XML Prague" title="Bezpośredni link do XML Prague" href="https://techwriter.pl/konferencje-2024#xml-prague">​</a></h2>
-<ul>
-<li>06-08.06.2024</li>
-<li>Praga, Czechy</li>
-<li><a href="https://www.xmlprague.cz/" target="_blank" rel="noopener noreferrer">https://www.xmlprague.cz/</a></li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="soap">soap!<a class="hash-link" aria-label="Bezpośredni link do soap!" title="Bezpośredni link do soap!" href="https://techwriter.pl/konferencje-2024#soap">​</a></h2>
-<ul>
-<li><em>Konferencja odbywała się w czerwcu, ale w 2024 została odwołana.
-Umieszczamy ją w zestawieniu z sentymentu i żebyście o niej nie zapomnieli.
-Trzymamy kciuki za powrót w 2025</em>.</li>
-<li>Kraków, Polska</li>
-<li><a href="https://soapconf.com/" target="_blank" rel="noopener noreferrer">https://soapconf.com/</a></li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="nordic-techkomm-dania">Nordic TechKomm (Dania)<a class="hash-link" aria-label="Bezpośredni link do Nordic TechKomm (Dania)" title="Bezpośredni link do Nordic TechKomm (Dania)" href="https://techwriter.pl/konferencje-2024#nordic-techkomm-dania">​</a></h2>
-<ul>
-<li>18-19.09.2024</li>
-<li>Kopenhaga, Dania</li>
-<li><a href="https://dk.nordic-techkomm.com/" target="_blank" rel="noopener noreferrer">https://dk.nordic-techkomm.com/</a></li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ktlc-conference">KTLC Conference<a class="hash-link" aria-label="Bezpośredni link do KTLC Conference" title="Bezpośredni link do KTLC Conference" href="https://techwriter.pl/konferencje-2024#ktlc-conference">​</a></h2>
-<ul>
-<li>27-28.09.2024</li>
-<li>Warszawa, Polska</li>
-<li><a href="https://translation-conference.com/" target="_blank" rel="noopener noreferrer">https://translation-conference.com/</a></li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="uxdx-emea">UXDX EMEA<a class="hash-link" aria-label="Bezpośredni link do UXDX EMEA" title="Bezpośredni link do UXDX EMEA" href="https://techwriter.pl/konferencje-2024#uxdx-emea">​</a></h2>
-<ul>
-<li>09-11.10.2024</li>
-<li>Dublin, Irlandia i online</li>
-<li><a href="https://uxdx.com/emea/2024/" target="_blank" rel="noopener noreferrer">https://uxdx.com/emea/2024/</a></li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="world-usability-congress">World Usability Congress<a class="hash-link" aria-label="Bezpośredni link do World Usability Congress" title="Bezpośredni link do World Usability Congress" href="https://techwriter.pl/konferencje-2024#world-usability-congress">​</a></h2>
-<ul>
-<li>15-17.10.2024</li>
-<li>Graz, Austria</li>
-<li><a href="https://worldusabilitycongress.com/" target="_blank" rel="noopener noreferrer">https://worldusabilitycongress.com/</a></li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="tcworld-conference">tcworld conference<a class="hash-link" aria-label="Bezpośredni link do tcworld conference" title="Bezpośredni link do tcworld conference" href="https://techwriter.pl/konferencje-2024#tcworld-conference">​</a></h2>
-<ul>
-<li>05-07.11.2024</li>
-<li>Stuttgart, Germany</li>
-<li><a href="https://tcworldconference.tekom.de/" target="_blank" rel="noopener noreferrer">https://tcworldconference.tekom.de/</a></li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="leading-design-london">Leading Design London<a class="hash-link" aria-label="Bezpośredni link do Leading Design London" title="Bezpośredni link do Leading Design London" href="https://techwriter.pl/konferencje-2024#leading-design-london">​</a></h2>
-<ul>
-<li>06-07.11.2024</li>
-<li>Londyn, Anglia</li>
-<li><a href="https://leadingdesign.com/conferences/london-2024" target="_blank" rel="noopener noreferrer">https://leadingdesign.com/conferences/london-2024</a></li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="web-summit">Web Summit<a class="hash-link" aria-label="Bezpośredni link do Web Summit" title="Bezpośredni link do Web Summit" href="https://techwriter.pl/konferencje-2024#web-summit">​</a></h2>
-<ul>
-<li>11-14.11.2024</li>
-<li>Lizbona, Portugalia</li>
-<li><a href="https://websummit.com/" target="_blank" rel="noopener noreferrer">https://websummit.com/</a></li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ux-writing-conference">UX writing conference<a class="hash-link" aria-label="Bezpośredni link do UX writing conference" title="Bezpośredni link do UX writing conference" href="https://techwriter.pl/konferencje-2024#ux-writing-conference">​</a></h2>
-<ul>
-<li>13.11.2024</li>
-<li>Londyn, Anglia</li>
-<li><a href="https://techcircus.io/en/events/ux-writing-conference-london#" target="_blank" rel="noopener noreferrer">https://techcircus.io/en/events/ux-writing-conference-london#</a></li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="kmis">KMIS<a class="hash-link" aria-label="Bezpośredni link do KMIS" title="Bezpośredni link do KMIS" href="https://techwriter.pl/konferencje-2024#kmis">​</a></h2>
-<ul>
-<li>17-19.11.2024</li>
-<li>Porto, Portugalia</li>
-<li><a href="https://kmis.scitevents.org/" target="_blank" rel="noopener noreferrer">https://kmis.scitevents.org/</a></li>
-</ul>]]></content>
-        <author>
-            <name>Michał Skowron</name>
-            <uri>https://github.com/docdeveloper</uri>
-        </author>
-        <category label="news" term="news"/>
-        <category label="ze-swiata" term="ze-swiata"/>
-        <category label="kariera" term="kariera"/>
-        <category label="konferencje" term="konferencje"/>
-        <category label="spolecznosc" term="spolecznosc"/>
     </entry>
 </feed>
