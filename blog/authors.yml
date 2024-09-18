@@ -1,100 +1,126 @@
-admin:
-  name: Darek Drezno
+mojk:
+  name: Michał Skowron
   role: Administrator
-  image_url: /img/avatars/darek-drezno.png
+  image_url: https://github.com/docdeveloper.png
+  page: true
+  socials:
+    github: docdeveloper
 
 agnieszka:
   name: Agnieszka Gaworska
   role: Administrator
-  url: https://github.com/AGaworska
   image_url: https://github.com/AGaworska.png
+  page: true
+  socials:
+    github: AGaworska
 
 bczyz:
   name: Barbara Czyż
   role: Autor
-  url: https://github.com/bszwarc
   image_url: https://github.com/bszwarc.png
+  page: true
+  socials:
+    github: bszwarc
 
 toporek:
   name: Martyna Toporek
   role: Autor
   image_url: /img/avatars/martyna-toporek.png
+  page: true
 
 niewiarowski:
   name: Andrzej Niewiarowski
   role: Autor
-  url: https://github.com/andrzejniewiaro
   image_url: https://github.com/andrzejniewiaro.png
+  page: true
+  socials:
+    github: andrzejniewiaro
 
 niedzwiedzka:
   name: Magda Niedźwiecka
   role: Autor
-  url: https://github.com/morvenn
   image_url: https://github.com/morvenn.png
+  page: true
+  socials:
+    github: morvenn
 
 pensjonatus:
   name: Paweł Kowaluk
   role: Webmaster
-  url: https://github.com/pensjonatus
   image_url: https://github.com/pensjonatus.png
-
-mojk:
-  name: Michał Skowron
-  role: Administrator
-  url: https://github.com/docdeveloper
-  image_url: https://github.com/docdeveloper.png
+  page: true
+  socials:
+    github: pensjonatus
+    linkedin: pawel-kowaluk
 
 tprus:
   name: Tomek Prus
   role: Administrator
-  url: https://github.com/tomekprus
   image_url: https://github.com/tomekprus.png
+  page: true
+  socials:
+    github: tomekprus
 
 jkula:
   name: Justyna Kula
   role: Autor
-  url: https://github.com/JustynaKula
   image_url: https://github.com/JustynaKula.png
+  page: true
+  socials:
+    github: JustynaKula
 
 kulgawczuk:
   name: Radosław Kulgawczuk
   role: Autor
-  url: https://www.linkedin.com/in/rados%C5%82aw-kulgawczuk-96378a178/
   image_url: /img/avatars/radoslaw-kulgawczuk.png
+  page: true
+  socials:
+    linkedin: rados%C5%82aw-kulgawczuk-96378a178
 
 szablowska:
   name: Sabina Szablowska
   role: Autor
   image_url: /img/avatars/sabina-szablowska.png
+  page: true
 
 milc:
   name: Florian Milc
   role: Autor
   image_url: https://github.com/techwriter-pl.png
+  page: true
 
 kuba:
   name: Jakub Wiśniewski
   role: Autor
-  url: https://www.linkedin.com/in/jakubmwisniewski/
   image_url: https://s.lubimyczytac.pl/upload/authors/231380/997866-352x500.jpg
-
-piechowicz:
-  name: Piotr Piechowicz
-  role: Autor
+  page: true
+  socials:
+    linkedin: jakubmwisniewski
 
 mrozek:
   name: Monika Mrozek
   role: Autor
-  url: https://www.linkedin.com/in/monika-mrozek/
   image_url: /img/avatars/mm1.png
+  page: true
+  socials:
+    linkedin: https://www.linkedin.com/in/monika-mrozek/
 
 keith-stewart:
   name: Keith Stewart
   role: Autor
   image_url: /img/avatars/keith-stewart.png
+  page: true
 
 lance-cummings:
   name: Lance Cummings
   role: Autor
-  url: https://www.linkedin.com/in/lance-cummings-phd/
   image_url: /img/avatars/lance-cummings.png
+  page: true
+  socials:
+    linkedin: lance-cummings-phd
+
+admin:
+  name: Darek Drezno
+  role: Administrator
+  image_url: /img/avatars/darek-drezno.png
+  page: true
