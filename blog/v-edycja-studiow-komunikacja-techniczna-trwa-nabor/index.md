@@ -26,7 +26,7 @@ Zainteresowanych zachęcamy do przeczytania artykułów naszych redakcyjnych kol
 
 Wiemy również, że część studentów znalazła pracę w trakcie lub zaraz po obronach prac, jak choćby [Paweł](https://www.linkedin.com/posts/pawel-woznikowski_this-is-probably-my-most-personal-professional-activity-7114579776916353024-kC8e/).
 
-# Co pozostaje, a co się zmienia
+## Co pozostaje, a co się zmienia
 
 Podobnie jak w poprzednich latach, prowadzący podążają za głosem studentów i wciąż udoskonalają program zajęć. Jako jeden z przykładów należy podać wydzielenie jako osobny blok tematyczny zagadnienia AI w komunikacji technicznej. Część zagadnień kursu została inaczej zgrupowana, by cały zakres studiów był bardziej spójny i klarowny.
 
