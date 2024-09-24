@@ -15,7 +15,7 @@ W ostatni weekend października 2024 rusza V edycja studiów podyplomowych na ki
 
 <!--truncate-->
 
-# Studia okiem absolwentów
+## Studia okiem absolwentów
 
 Jak w poprzednich latach, i w tym roku objęliśmy patronatem kierunek studiów [Komunikacja Techniczna na Akademii Finansów i Biznesu Vistula](https://www.vistula.edu.pl/kierunki-studiow/studia-podyplomowe/informatyka/komunikacja-techniczna). Cieszy nas bardzo fakt, że dzięki poprzednim, bardzo pozytywnie odebranym przez absolwentów edycjom, studia te nadal wzbudzają spore zainteresowanie.
 
