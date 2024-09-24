@@ -11,7 +11,7 @@ tags:
   - 'edukacja'
 ---
 
-W ostatni weekend października rusza V edycja studiów podyplomowych na kierunku Komunikacja Techniczna. Na chętnych wciąż czekają miejsca. Czego nauczą się tegoroczni studenci? Szczegóły poniżej.
+W ostatni weekend października 2024 rusza V edycja studiów podyplomowych na kierunku Komunikacja Techniczna. Na chętnych wciąż czekają miejsca. Czego nauczą się tegoroczni studenci? Szczegóły poniżej.
 
 <!--truncate-->
 
