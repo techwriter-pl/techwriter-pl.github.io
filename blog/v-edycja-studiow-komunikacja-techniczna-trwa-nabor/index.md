@@ -34,7 +34,7 @@ Program studiów obejmuje również podstawowe zagadnienia z obszarów automatyz
 
 Wraz ze zmianami programu nastąpiła także zmiana kadry. Tym razem zespół szkolący zasilą: Aleksandra Wieczorek i Agata Rygielska.
 
-# Partnerzy
+## Partnerzy
 
 Kierunek kontynuuje współpracę z University of North Carolina Wilmington. Studenci, wraz z kolegami i koleżankami z USA, mogą współpracować przy projektach prowadzonych w ramach kierunku „Writing in Intercultural and Global Contexts”. To doskonała okazja, by zdobyć nowe doświadczenie, nowe znajomości i wartościowy wpis do CV. Szczegóły [tutaj](https://www.craft.do/s/VOd7B47ytH4bhA).
 
