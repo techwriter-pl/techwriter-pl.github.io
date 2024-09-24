@@ -40,7 +40,7 @@ Kierunek kontynuuje współpracę z University of North Carolina Wilmington. Stu
 
 Poza współpracą naukową z amerykańską uczelnią kierunek od lat wspierany jest przez wielu partnerów z branży (memoQ, MadCap oraz Atlassian). Dzięki temu uczestnicy zajęć mają możliwość poznania najpopularniejszych i często bardzo drogich narzędzi wykorzystywanych przez profesjonalnych technical writerów.
 
-# Najważniejsze informacje
+## Najważniejsze informacje
 
 Studia są zdalne, mogą w nich brać udział osoby z dowolnego miejsca w Polsce i na świecie. Rekrutacja nadal trwa, więc jeśli jesteście zainteresowani to jest najwyższa pora, by złożyć aplikację.
 
