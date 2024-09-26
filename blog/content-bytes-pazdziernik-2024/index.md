@@ -96,7 +96,7 @@ dla Was interesujące. Możecie zgłosić temat, a my dołożymy wszelkich stara
 znaleźć prelegentów, którzy będą mogli o nim porozmawiać. Możecie także sami
 zostać prelegentami na jednym z naszych spotkań.
 
-Jeżeli jesteście zainteresowani, napiszcie do nas: [contentbytes.krk@gmail.com](contentbytes.krk@gmail.com).
+Jeżeli jesteście zainteresowani, napiszcie do nas: **contentbytes.krk@gmail.com**.
 
 ### Często zadawane pytania
 
@@ -109,5 +109,5 @@ prelegenta. Podczas wydarzenia można jednak zadawać pytania i robić zdjęcia,
 można też zapytać o udostępnienie slajdów.
 
 P: Zarejestrowałem/am się, ale nie mogę wziąć udziału. Co powinienem/nnam
-zrobić? <br /> O: Jeśli wiesz, że nie dasz rady przyjść, daj nam znać pisząc na adres [contentbytes.krk@gmail.com](contentbytes.krk@gmail.com).
+zrobić? <br /> O: Jeśli wiesz, że nie dasz rady przyjść, daj nam znać pisząc na adres **contentbytes.krk@gmail.com**.
 
