@@ -4,10 +4,95 @@
         <title>techwriter.pl Blog</title>
         <link>https://techwriter.pl/</link>
         <description>techwriter.pl Blog</description>
-        <lastBuildDate>Mon, 23 Sep 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Sep 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>pl</language>
+        <item>
+            <title><![CDATA[ContentBytes: Nowe wydarzenie na contentowej mapie!]]></title>
+            <link>https://techwriter.pl/content-bytes-pazdziernik-2024</link>
+            <guid>https://techwriter.pl/content-bytes-pazdziernik-2024</guid>
+            <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Upalne lato już za nami, ale ekipa ContentBytes nie próżnuje, dbając o skuteczne podgrzanie atmosfery tej jesieni.]]></description>
+            <content:encoded><![CDATA[<p>Upalne lato już za nami, ale ekipa <strong>ContentBytes</strong> nie próżnuje, dbając o skuteczne podgrzanie atmosfery tej jesieni.
+Już za tydzień mamy dla was nie jeden, a dwa tematy :)
+Podczas spotkania porozmawiamy o dokumentacji API oraz przyszłości twórców contentu w świecie dynamicznie zmieniających się produktów.
+Ugości nas <strong>Forte Spaces</strong>, a dyskusje uprzyjemnią nam przekąski <!-- -->🍕<!-- --> od <strong>Apify</strong>.</p>
+<p>Tematy przybliżą wam <a href="https://www.linkedin.com/in/barbara-szwarc" target="_blank" rel="noopener noreferrer"><strong>Barbara Czyż</strong></a> oraz <a href="https://www.linkedin.com/in/pawelchlodnicki/" target="_blank" rel="noopener noreferrer"><strong>Paweł Chłodnicki</strong></a>.</p>
+<p>Pamiętajcie o rejestracji, to pozwoli nam na wybór odpowiedniej sali i
+zaplanowanie poczęstunku. Link do formularza znajdziecie
+<a href="https://forms.gle/NzEDRbvS1gWDZY3D8" target="_blank" rel="noopener noreferrer">tutaj</a>.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="tematy">Tematy<a href="https://techwriter.pl/content-bytes-pazdziernik-2024#tematy" class="hash-link" aria-label="Bezpośredni link do Tematy" title="Bezpośredni link do Tematy">​</a></h2>
+<p><strong><em>Dokumentacja API: Z czym to się je?</em></strong></p>
+<p>Dokumentacja API to temat, wokół którego krąży obecnie wiele pytań:</p>
+<ul>
+<li>Kto powinien dokumentować API?</li>
+<li>Jak zaplanować content, żeby dokumentacja była pomocna i sensownie ustrukturyzowana?</li>
+<li>Jakimi standardami powinni się kierować technical writerzy?</li>
+</ul>
+<p>Opierając się na przykładach, omówimy proces, w którym pomysł na nowe API staje się udokumentowaną specyfikacją.
+Podczas prezentacji zapoznacie się z narzędziami, praktykami oraz technikami współpracy, które pomagają nam tworzyć dokumentację do API.</p>
+<p><strong><em>Rola i przyszłość twórców contentu w tworzeniu produktu</em></strong></p>
+<p>Pojęcie <strong>content</strong> przywołuje różne skojarzenia, często zależne od kontekstu, w którym zostało użyte.
+W swojej prezentacji, Paweł opowie nam jak content jest postrzegany przez pryzmat firmy, zespołu, momentu w rozwoju produktu, a także wcześniej wspomnianego <strong>kontekstu</strong>.
+Wspólnie zastanowimy się, jak te okoliczności mogą mieć pozytywny wpływ zarówno na twórców, jak i odbiorców tworzonych treści.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="prelegenci">Prelegenci<a href="https://techwriter.pl/content-bytes-pazdziernik-2024#prelegenci" class="hash-link" aria-label="Bezpośredni link do Prelegenci" title="Bezpośredni link do Prelegenci">​</a></h2>
+<p>Podczas pierwszego spotkania ContentBytes prezentacje poprowadzą:</p>
+<ul>
+<li>
+<p><strong>Barbara Czyż</strong>: Barbara jest dociekliwą technical writerką, pasjonującą się
+podejściem docs-as-code i światem API. Po przygodach z DITA i Markdown dołączyła
+do Boxa, by tworzyć dokumentację programistyczną i zacieśniać relacje z API i
+kodem.</p>
+</li>
+<li>
+<p><strong>Paweł Chłodnicki</strong>: Paweł swoją karierę rozpoczął na stanowisku technical writera, a obecnie pracuje jako Content Designer w Docplanner,
+Doświadczenie zdobywa od 15 lat, zaczynając od tłumaczeń i lokalizacji, aby po czasie odnaleźć się w obszarze UX oraz product designu.</p>
+</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="kiedy-i-gdzie">Kiedy i gdzie<a href="https://techwriter.pl/content-bytes-pazdziernik-2024#kiedy-i-gdzie" class="hash-link" aria-label="Bezpośredni link do Kiedy i gdzie" title="Bezpośredni link do Kiedy i gdzie">​</a></h2>
+<p><strong>Data</strong>: 03.10.2024 <br> <strong>Godzina</strong>: 18:00 <br> <strong>Miejsce</strong>: Forte Spaces,
+Krupnicza 3, Kraków</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="kilka-słów-o-sponsorach">Kilka słów o sponsorach<a href="https://techwriter.pl/content-bytes-pazdziernik-2024#kilka-s%C5%82%C3%B3w-o-sponsorach" class="hash-link" aria-label="Bezpośredni link do Kilka słów o sponsorach" title="Bezpośredni link do Kilka słów o sponsorach">​</a></h2>
+<p>Pierwsze spotkanie ContentBytes jest sponsorowane przez <strong>Forte Digital</strong> i <strong>Apify</strong>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="forte-digital">Forte Digital<a href="https://techwriter.pl/content-bytes-pazdziernik-2024#forte-digital" class="hash-link" aria-label="Bezpośredni link do Forte Digital" title="Bezpośredni link do Forte Digital">​</a></h3>
+<p>W DNA Forte Digital znajdziesz pierwiastek polski, skandynawski i oczywiście
+technologiczny. Forte Digital powstało w 2017 roku jako owoc udanej współpracy
+polskich i norweskich założycieli. Od tego czasu z powodzeniem czerpie to, co
+najlepsze ze swoich kultur, a od niedawna w swoich szeregach ma koleżanki i
+kolegów z Danii oraz Niemiec. Forte Digital skupia się najczęściej na projektach
+dotyczących obszaru e-commerce w pełnym zakresie realizacji – development i
+consulting IT oraz design.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="apify">Apify<a href="https://techwriter.pl/content-bytes-pazdziernik-2024#apify" class="hash-link" aria-label="Bezpośredni link do Apify" title="Bezpośredni link do Apify">​</a></h3>
+<p><a href="https://apify.com/" target="_blank" rel="noopener noreferrer">Apify</a> jest platformą, którą programiści mogą wykorzystać
+do budowania, wdrażania i publikowania narzędzi do web scrapingu, ekstrakcji
+danych i automatyzacji. Apify udostępnia ponad 1500 gotowych narzędzi,
+pozwalając na uzyskanie dodatkowego przychodu poprzez udostępnianie je innym
+użytkownikom. Dodatkowo Apify odpowiada za <a href="https://crawlee.dev/" target="_blank" rel="noopener noreferrer">Crawlee</a>,
+publiczną bibliotekę do web scrapingu.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="o-nas">O nas<a href="https://techwriter.pl/content-bytes-pazdziernik-2024#o-nas" class="hash-link" aria-label="Bezpośredni link do O nas" title="Bezpośredni link do O nas">​</a></h2>
+<p>Celem <strong>ContentBytes</strong> jest stworzenie przestrzeni, w której twórcy contentu
+mogą wymieniać się doświadczeniami i omawiać tematy związane z tworzeniem treści.
+Według nas, content to nie tylko sam proces pisania, ale tak naprawdę&nbsp;cały ekosystem uwzględniający UX, UI, design, a także zagadnienia dostępności, zarządzania i związanej z nimi technologii.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="skontaktuj-się-z-organizatorem">Skontaktuj się z organizatorem<a href="https://techwriter.pl/content-bytes-pazdziernik-2024#skontaktuj-si%C4%99-z-organizatorem" class="hash-link" aria-label="Bezpośredni link do Skontaktuj się z organizatorem" title="Bezpośredni link do Skontaktuj się z organizatorem">​</a></h3>
+<p>Organizatorom zależy, by spotkania były istotne i przybliżały tematy, które są
+dla Was interesujące. Możecie zgłosić temat, a my dołożymy wszelkich starań, aby
+znaleźć prelegentów, którzy będą mogli o nim porozmawiać. Możecie także sami
+zostać prelegentami na jednym z naszych spotkań.</p>
+<p>Jeżeli jesteście zainteresowani, napiszcie do nas: <strong><a href="mailto:contentbytes.krk@gmail.com" target="_blank" rel="noopener noreferrer">contentbytes.krk@gmail.com</a></strong>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="często-zadawane-pytania">Często zadawane pytania<a href="https://techwriter.pl/content-bytes-pazdziernik-2024#cz%C4%99sto-zadawane-pytania" class="hash-link" aria-label="Bezpośredni link do Często zadawane pytania" title="Bezpośredni link do Często zadawane pytania">​</a></h3>
+<p>P: Czy wydarzenie będzie nagrywane lub transmitowane na żywo? <br> O: Na
+chwilę obecną nie. Stawiamy na spotkania na miejscu, gdzie możesz osobiście
+poznać inne osoby zainteresowane contentem.</p>
+<p>P: Czy można udostępnić prezentacje prelegentów? <br> O: To zależy od
+prelegenta. Podczas wydarzenia można jednak zadawać pytania i robić zdjęcia,
+można też zapytać o udostępnienie slajdów.</p>
+<p>P: Zarejestrowałem/am się, ale nie mogę wziąć udziału. Co powinienem/nnam
+zrobić? <br> O: Jeśli wiesz, że nie dasz rady przyjść, daj nam znać pisząc na adres <strong><a href="mailto:contentbytes.krk@gmail.com" target="_blank" rel="noopener noreferrer">contentbytes.krk@gmail.com</a></strong>.</p>]]></content:encoded>
+            <category>news</category>
+            <category>meetup</category>
+            <category>spolecznosc</category>
+        </item>
         <item>
             <title><![CDATA[V edycja studiów Komunikacja techniczna - trwa nabór]]></title>
             <link>https://techwriter.pl/v-edycja-studiow-komunikacja-techniczna-trwa-nabor</link>
@@ -1329,7 +1414,7 @@ Podczas każdego wydarzenia, przez pierwsze 30 minut od rozpoczęcia na bieżąc
 <p>AI is a tool, and like any tool, it's here to help us. It can automate the repetitive tasks that take up so much of our time, freeing us up to focus on the more complex and creative aspects of our work. It can generate content, helping us produce more in less time.</p>
 <p>But AI isn't just about making our jobs easier. It's also about improving the quality of our work. With AI, we can analyze our content in ways that were previously impossible, identifying patterns and insights that can help us improve our writing.</p>
 <p>So, the first step in upskilling in an AI world? Don't freak out. Instead, recognize the potential of AI and learn how to harness it to your advantage. It's not about competing with AI, but collaborating with it.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="embrace-the-new-ways-of-thinking">Embrace the New Ways of Thinking<a href="https://techwriter.pl/tech-writers-upskill-ai#embrace-the-new-ways-of-thinking" class="hash-link" aria-label="Bezpośredni link do Embrace the New Ways of Thinking" title="Bezpośredni link do Embrace the New Ways of Thinking">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="embrace-the-new-ways-of-thinking">Embrace the New Ways of Thinking<a href="https://techwriter.pl/tech-writers-upskill-ai#embrace-the-new-ways-of-thinking" class="hash-link" aria-label="Bezpo�średni link do Embrace the New Ways of Thinking" title="Bezpośredni link do Embrace the New Ways of Thinking">​</a></h2>
 <p>Change can be scary, but it's also an opportunity for growth.</p>
 <p>In the world of tech writing, AI is that change. It's not just a new tool, but a new way of thinking about our work. It's about shifting from a mindset of creation to one of collaboration, working with AI to produce content that's more efficient, effective, and engaging.</p>
 <p>Take prompt design, for instance. It's a skill that involves crafting specific instructions to guide AI in generating desired content. It's like teaching a new colleague how to write in your company's style, but the colleague is an AI. Mastering this skill can help you produce high-quality content quickly and consistently.</p>
@@ -1506,75 +1591,6 @@ wiadomości na naszym kanale.</p>]]></content:encoded>
             <category>konferencje</category>
             <category>spolecznosc</category>
             <category>technologie</category>
-        </item>
-        <item>
-            <title><![CDATA[Praca w zespole rozproszonym]]></title>
-            <link>https://techwriter.pl/praca-w-zespole-rozproszonym</link>
-            <guid>https://techwriter.pl/praca-w-zespole-rozproszonym</guid>
-            <pubDate>Mon, 15 Apr 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Elastyczność w kwestii lokalizacji i godzin pracy to niewątpliwie duży przywilej, który pozwala nam łatwiej zarządzać pracą i życiem prywatnym. Jednak praca w zespole rozproszonym wiąże się również z szeregiem wyzwań. Dlatego postanowiliśmy podzielić się z Wami naszym studium przypadku. Mamy nadzieję, że nasze obserwacje i pomysły okażą się dla Was przydatne i że zainspirują Was do działania.]]></description>
-            <content:encoded><![CDATA[<p>Elastyczność w kwestii lokalizacji i godzin pracy to niewątpliwie duży przywilej, który pozwala nam łatwiej zarządzać pracą i życiem prywatnym. Jednak praca w zespole rozproszonym wiąże się również z szeregiem wyzwań. Dlatego postanowiliśmy podzielić się z Wami naszym studium przypadku. Mamy nadzieję, że nasze obserwacje i pomysły okażą się dla Was przydatne i że zainspirują Was do działania.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="kim-jesteśmy">Kim jesteśmy<a href="https://techwriter.pl/praca-w-zespole-rozproszonym#kim-jeste%C5%9Bmy" class="hash-link" aria-label="Bezpośredni link do Kim jesteśmy" title="Bezpośredni link do Kim jesteśmy">​</a></h2>
-<p>Jesteśmy 4-osobowym zespołem, który w większości pracuje asynchronicznie. Myśląc o pracy asynchronicznej, często skupiamy się na tym, że ktoś jest w innym miejscu na świecie i w innej strefie czasowej. Jednak nawet przebywanie w tej samej strefie czasowej nie gwarantuje pracy synchronicznej, ponieważ mamy różny tryb pracy, różne obowiązki prywatne oraz różne pory, w których możemy i chcemy pracować. Dodatkowo, dochodzi aspekt pracy zdalnej. W naszym przypadku 3 z 4 osób pracuje z domu. Dlatego przypadkowe interakcje między członkami naszego zespołu właściwie nie występują. Czasami zdarza się, że spotykamy się w biurze, ale jest to sytuacja sporadyczna i zazwyczaj jest podyktowana koniecznością wspólnej pracy nad jakimś zagadnieniem.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="z-czym-się-borykamy">Z czym się borykamy<a href="https://techwriter.pl/praca-w-zespole-rozproszonym#z-czym-si%C4%99-borykamy" class="hash-link" aria-label="Bezpośredni link do Z czym się borykamy" title="Bezpośredni link do Z czym się borykamy">​</a></h2>
-<p>Na początku wszystko wydawało się super, trochę taki miesiąc miodowy. Każdy pracował według własnych preferencji i dostępności. Praca szła do przodu, więc nie było większych powodów do zmartwień. Jednak z biegiem czasu zaczęliśmy zauważać pewne mniejsze i większe problemy, które negatywnie wpływały na naszą wydajność i osiąganie celów jako zespół.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="wiedza-zamknięta-w-głowach-poszczególnych-osób">Wiedza zamknięta w głowach poszczególnych osób<a href="https://techwriter.pl/praca-w-zespole-rozproszonym#wiedza-zamkni%C4%99ta-w-g%C5%82owach-poszczeg%C3%B3lnych-os%C3%B3b" class="hash-link" aria-label="Bezpośredni link do Wiedza zamknięta w głowach poszczególnych osób" title="Bezpośredni link do Wiedza zamknięta w głowach poszczególnych osób">​</a></h3>
-<p>Problem stary jak świat, omawiany miliony razy. Wydawałoby się, że wszyscy wiedzą, że istnieje, więc powinni przeciwdziałać jego występowaniu. Niestety, tak nie jest i my też staliśmy się jego ofiarami. Z biegiem czasu, każdy z nas wyspecjalizował się w jakiejś dziedzinie. Jedna osoba jest ekspertem od DITY i wszelkich tematów z tym związanych. Inna jest specjalistą od infrastruktury, automatyzacji i deploymentu w chmurze. Jeszcze inne bardzo dobrze radzą sobie z technologiami frontendowymi. Dobrze jest mieć ekspertów w danej dziedzinie, ale powoduje to sytuacje, w których zadania z konkretnego zakresu zawsze trafiają do tych samych osób. Przez to w zespole mamy <em>single points of failure</em>. Jeśli dana osoba pójdzie na urlop albo nie ma czasu, praca stoi. Ktoś inny nie jest w stanie przejąć obowiązków i pociągnąć tematu ze względu na zbyt małą wiedzę.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="zbyt-mała-samowystarczalność-w-zakresie-lokalnego-środowiska-deweloperskiego">Zbyt mała samowystarczalność w zakresie lokalnego środowiska deweloperskiego<a href="https://techwriter.pl/praca-w-zespole-rozproszonym#zbyt-ma%C5%82a-samowystarczalno%C5%9B%C4%87-w-zakresie-lokalnego-%C5%9Brodowiska-deweloperskiego" class="hash-link" aria-label="Bezpośredni link do Zbyt mała samowystarczalność w zakresie lokalnego środowiska deweloperskiego" title="Bezpośredni link do Zbyt mała samowystarczalność w zakresie lokalnego środowiska deweloperskiego">​</a></h3>
-<p>Nie wypracowaliśmy jeszcze całkowicie wytycznych i współdzielonych konfiguracji, które umożliwiałyby szybkie i sprawne rozwijanie i testowanie zmian lokalnie. Przez to tracimy czas na wspieranie siebie nawzajem, debugowanie problemów i wykrywanie różnic w konfiguracji narzędzi.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="spotkania">Spotkania<a href="https://techwriter.pl/praca-w-zespole-rozproszonym#spotkania" class="hash-link" aria-label="Bezpośredni link do Spotkania" title="Bezpośredni link do Spotkania">​</a></h3>
-<p>Dobrze się rozmawia w miłym towarzystwie, ale nie taki jest cel organizowania spotkań. Zapewne każdy z nas brał udział w takich spotkaniach, podczas których miło się rozmawiało, ale nie wynikały z nich konkretne rzeczy do zrobienia. Po godzinnym spotkaniu, rozchodzimy się i nie mamy listy zadań do zrobienia oraz wspólnego zrozumienia tego, czym powinniśmy się zajmować w nadchodzącym tygodniu. Kolejny problem to tematy omawiane na spotkaniu. Są zagadnienia techniczne i biznesowe, które nie zawsze są istotne dla każdego.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="zbyt-rzadkie-i-zdawkowe-aktualizacje-dotyczące-wykonywanych-zadań">Zbyt rzadkie i zdawkowe aktualizacje dotyczące wykonywanych zadań<a href="https://techwriter.pl/praca-w-zespole-rozproszonym#zbyt-rzadkie-i-zdawkowe-aktualizacje-dotycz%C4%85ce-wykonywanych-zada%C5%84" class="hash-link" aria-label="Bezpośredni link do Zbyt rzadkie i zdawkowe aktualizacje dotyczące wykonywanych zadań" title="Bezpośredni link do Zbyt rzadkie i zdawkowe aktualizacje dotyczące wykonywanych zadań">​</a></h3>
-<p>Niska częstotliwość aktualizacji zadań w systemie, niewystarczająca komunikacja z innymi członkami zespołu. W przypadku zespołów rozproszonych <em>overcommunication</em> jest kluczowe ze względu na brak możliwości zdobycia informacji przypadkowo, co ma miejsce w zespołach pracujących ze sobą na miejscu.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="co-robimy-żeby-było-lepiej">Co robimy, żeby było lepiej<a href="https://techwriter.pl/praca-w-zespole-rozproszonym#co-robimy-%C5%BCeby-by%C5%82o-lepiej" class="hash-link" aria-label="Bezpośredni link do Co robimy, żeby było lepiej" title="Bezpośredni link do Co robimy, żeby było lepiej">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="odpowiedzialność-za-domenę-wiedzy">Odpowiedzialność za domenę wiedzy<a href="https://techwriter.pl/praca-w-zespole-rozproszonym#odpowiedzialno%C5%9B%C4%87-za-domen%C4%99-wiedzy" class="hash-link" aria-label="Bezpośredni link do Odpowiedzialność za domenę wiedzy" title="Bezpośredni link do Odpowiedzialność za domenę wiedzy">​</a></h3>
-<p>Za domenę wiedzy moglibyśmy uznać wspomniane wcześniej zagadnienia, takie jak infrastruktura, DITA, czy frontend. Jednak mogą to też być bardziej wyspecjalizowane sprawy, jak autentykacja, czy na przykład kontakty z zespołem, który zajmuje się globalizacją oprogramowania i dokumentacji. Takie domeny wykształcają się naturalnie z biegiem czasu pod wpływem krajobrazu zadań otaczających zespół, ale mają na nie wpływ także indywidualne preferencje poszczególnych osób oraz ich styl pracy. Jeżeli tylko jedna osoba jest odpowiedzialna za daną domenę, to kiedy jej nie ma, praca stoi. Jeżeli podczas jej nieobecności wydarzy się coś niespodziewanego to zespół jest w tarapatach.</p>
-<p>Żeby zapobiegać tego typu problemom, ustaliliśmy pewne zasady związane z prowadzeniem domeny.</p>
-<p>Po pierwsze, właściciel danej domeny jest odpowiedzialny za zadania z nią
-związane. Jednak odpowiedzialność ta nie oznacza, że będzie on zajmował się sam wszystkimi zadaniami. Ma on się zaopiekować jedynie danym tematem od momentu zgłoszenia do rozwiązania. W zależności od sytuacji, może on podzielić zadanie na mniejsze, oddelegować je, dobrać się w parę z innym członkiem zespołu, itp. Po drugie, właściciel jest również odpowiedzialny za to, żeby mieć <em>backup</em>, który przejmie jego zadania podczas nieobecności. Dzięki temu każdy może wziąć urlop i w pełni się odłączyć od pracy nie martwiąc się, że w każdej chwili może zadzwonić telefon, albo że musi trzymać rękę na pulsie, bo ktoś gdzieś czeka na pomoc.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="dzielenie-się-wiedzą">Dzielenie się wiedzą<a href="https://techwriter.pl/praca-w-zespole-rozproszonym#dzielenie-si%C4%99-wiedz%C4%85" class="hash-link" aria-label="Bezpośredni link do Dzielenie się wiedzą" title="Bezpośredni link do Dzielenie się wiedzą">​</a></h3>
-<p>Żeby móc efektywnie rozprowadzić odpowiedzialność po całym zespole, trzeba
-dzielić się wiedzą. Wprowadziliśmy więc kilka zasad wokół tego tematu.</p>
-<p>Jeśli ma to sens, podziel się informacją o rozwiązaniu problemu z innymi. Wykorzystaj do tego spotkanie zespołowe albo zakomunikuj to na piśmie, na przykład na Slacku albo w komentarzu pod rozwiązaną historyjką w Jirze.</p>
-<p>To prowadzi nas do kolejnej zasady: zadbaj o dokumentację. Dobra dokumentacja to najlepsze źródło wiedzy, więc staraj się ją aktualizować na bieżąco. Kiedy to robisz, stosuj starą zasadę biwakowania: “Pozostaw to miejsce lepszym niż je zastałeś”. Poprawiaj i ulepszaj jak się tylko da. Prowadząc dokumentację, pamiętaj, żeby opisywać tematy przydatne dla innych. Znasz swoją publikę dość dobrze, jest to w końcu Twój zespół.</p>
-<p>Przy okazji nauczyliśmy się, że robienie dobrych notatek w commitach i ticketach ułatwia późniejsze zrobienie dokumentacji.</p>
-<p>Ostatnim filarem propagowania wiedzy jest dla nas praca w parach. Jeśli ma to sens, pracuj z inną osobą i staraj się to robić regularnie. Przy czym postaraj się popracować chociaż trochę z każdym.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="praca-asynchroniczna">Praca asynchroniczna<a href="https://techwriter.pl/praca-w-zespole-rozproszonym#praca-asynchroniczna" class="hash-link" aria-label="Bezpośredni link do Praca asynchroniczna" title="Bezpośredni link do Praca asynchroniczna">​</a></h3>
-<p>Ja pracuję teraz, ale kolega poszedł pobiegać i będzie pracował po południu. Ktoś inny śpi, bo jest u niego noc, a koleżanka ma teraz akurat wizytę u lekarza. Nasza praca asynchroniczna doprowadziła do sformułowania całego szeregu zasad i prawideł.</p>
-<p>Jeśli potrzebujesz odpowiedzi natychmiast, jasno o tym powiedz. Nie możesz oczekiwać od innych, że zajmą się Twoim pytaniem od razu.</p>
-<p>Potrzebujesz, żeby inni sprawdzili Twoją pracę, ale nie chcesz też marnować ich czasu na znajdowanie oczywistych niedoróbek. Dlatego testuj lokalnie przed wystawieniem PRa.</p>
-<p>Z drugiej strony, dziel się swoją pracą od razu, nie czekaj aż wszystko będzie idealne. Może Ci się wydawać, że opracowujesz magnum opus i potrzebujesz czasu.
-Możesz się też wstydzić i obawiać krytyki ze strony innych. Jednak pamiętaj, że jesteście jednym zespołem i powinniście nauczyć się komunikować na tematy związane z pracą bez niepotrzebnych napięć. Nawet jeżeli nie prosisz od razu o review, opublikuj przynajmniej brancha, żeby inni mogli się do niego odwołać w razie potrzeby.</p>
-<p>Żeby usprawnić komunikację wokół wspólnej pracy, korzystaj z możliwości jakie dają Ci narzędzia typu Bitbucket czy GitHub - pull requesty, komentarze, sugestie, itp. Ich dodatkową zaletą, oprócz komunikacji, jest to, że pozostawiają historię. Jeśli za kilka miesięcy będziesz mieć podobny problem, możesz się&nbsp;do niej odwołać, żeby przypomnieć sobie jak go rozwiązaliście.</p>
-<p>Rób <em>review</em> zmian innych. Jest to istotny element dzielenia się wiedzą. Nawet jeśli zmiana została już zaakceptowana, przejrzyj ją, żeby dowiedzieć się co się wydarzyło.</p>
-<p>Używaj systemu do zadań, żeby po Twojej pracy pozostał ślad. Dzięki temu inni będą wiedzieć czym się zajmujesz, a w przyszłości będzie można łatwo przypomnieć sobie, dlaczego dana zmiana została zrobiona.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="spotkania-1">Spotkania<a href="https://techwriter.pl/praca-w-zespole-rozproszonym#spotkania-1" class="hash-link" aria-label="Bezpośredni link do Spotkania" title="Bezpośredni link do Spotkania">​</a></h3>
-<p>Mogłoby się wydawać, że w pracy asynchronicznej spotkania to samo dobro. Ale jedną z pierwszych zasad którą chcemy się tu podzielić to: jeśli spotkanie nie jest potrzebne, odwołaj je. Niepotrzebne spotkanie to strata czasu, który mógłbyś spędzić dużo lepiej.</p>
-<p>Oczywiście spotkania są potrzebne, więc organizuj je i przychodź na te zorganizowane przez innych. Ale kiedy już na nich jesteś, skup się na rzeczach, które trzeba omówić. Pogawędka jest dobra na rozgrzewkę, ale potem trzeba trzymać dygresje w ryzach.</p>
-<p>Żeby każde spotkanie było produktywne, zakończ je listą zadań i priorytetów na najbliższy czas. Każdy z uczestników musi wiedzieć czym ma się zajmować.</p>
-<p>Jeśli spotkanie nie spełnia swojej roli, może warto je podzielić na dwa krótsze. Na przykład, jedno poświęcone technicznym zagadnieniom, a drugie poświęcone celom biznesowym. Wyobraź sobie, że planujecie skomplikowany projekt, ale nie możecie wyklarować pełnej wizji od początku do końca, bo na każdym kroku zaczynacie wnikać w szczegóły techniczne. Na pierwszym spotkaniu skup się tylko na wizji i ucinaj dyskusje o szczegółach. Kiedy już wszystkie etapy są zarysowane, poświęć następne spotkania na omówienie szczegółów każdego z nich.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="narzędzia">Narzędzia<a href="https://techwriter.pl/praca-w-zespole-rozproszonym#narz%C4%99dzia" class="hash-link" aria-label="Bezpośredni link do Narzędzia" title="Bezpośredni link do Narzędzia">​</a></h3>
-<p>Narzędzia zawsze odgrywają rolę w pracy, a w pracy asynchronicznej mogą zrobić naprawdę dużą różnicę. Odkryliśmy kilka dobrych praktyk, które wiążą się ściśle z tym typem pracy.</p>
-<p>Po pierwsze, testuj automatycznie co tylko się da. Dzięki temu można pracować szybciej, bez czekania na zatwierdzanie zmian przez innych.</p>
-<p>Upewnij się, że każdy ma dobrze skonfigurowane lokalne środowisko do pracy. Dzięki temu wasze zmiany będą bardziej przewidywalne. Jeżeli u mnie coś działa, to powinno działać u koleżanki i powinno działać na środowisku produkcyjnym.</p>
-<p>Jeżeli używasz formattera, np. Prettier, podziel się konfiguracją z całym zespołem i niech formatowanie będzie częścią commita. Wtedy przeglądanie zmian od innych będzie czytelniejsze, bo nie będzie zawierało przypadkowych elementów.</p>
-<p>Korzystaj z komunikatorów, żeby informować na bieżąco innych nad czym pracujesz. Wyobraź sobie, że już kończysz pracę nad fantastyczną nową funkcjonalnością, a tu nagle ktoś wrzuca PR z tym samym. A mógłby pracować nad czymś innym, gdyby tylko wiedział.</p>
-<p>Wykorzystuj narzędzia do organizacji pracy, takie jak Jira, i włącz opcje takie jak automatyczne przypisywanie zadań na podstawie domeny, automatyczne przypisywanie reviewerów, w zależności od nazwy brancha. Niby mała rzecz, ale w dłuższej perspektywie oszczędza czas.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="co-dalej">Co dalej?<a href="https://techwriter.pl/praca-w-zespole-rozproszonym#co-dalej" class="hash-link" aria-label="Bezpośredni link do Co dalej?" title="Bezpośredni link do Co dalej?">​</a></h2>
-<p>Myślisz sobie: "My mamy podobny zespół i podobne trudności. Co powinniśmy robić?"</p>
-<p>Każdy dobrze działający zespół jest podobny, ale każdy zespół z problemami jest inny. Nie mamy jednej recepty na uzdrowienie każdego z nich, ale wierzymy, że opis naszej drogi może posłużyć Wam za drogowskaz.</p>
-<p>A więc co robimy?</p>
-<p>Po pierwsze, robimy rachunek sumienia i opracowujemy plan działania. Dzielimy listę problemów na kawałki, które są strawne. Dzięki temu łatwiej nam będzie zacząć.</p>
-<p>Po drugie, poszerzamy wiedzę w zakresie pracy w zespole, nie tylko rozproszonym. W tej kwestii mogą Wam się przydać następujące źródła:</p>
-<ul>
-<li>Książka "Software Engineering at Google" (autorzy: Titus Winters, Tom Manshreck, Hyrum Wright)</li>
-<li>Artykuł z garścią rekomendacji: <a href="https://jacobian.org/2023/sep/29/rto-wfh/?utm_source=changelog-news" target="_blank" rel="noopener noreferrer">https://jacobian.org/2023/sep/29/rto-wfh/?utm_source=changelog-news</a></li>
-<li>Odcinki naszego podcastu “Tech Writer koduje”: “#56 Tech Writer robi inżynierię oprogramowania, czyli dobre praktyki prosto od Google” oraz “#58 Tech Writer pracuje w zespole rozproszonym - wyzwania i rozwiązania”</li>
-</ul>
-<p>Po trzecie, zaczynamy działać.</p>
-<p>Proste, prawda? 😉</p>]]></content:encoded>
-            <category>dobre-praktyki</category>
-            <category>praca</category>
         </item>
     </channel>
 </rss>
