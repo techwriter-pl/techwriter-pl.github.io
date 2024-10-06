@@ -9,7 +9,15 @@ type PartnerProps = {
   imageSrc: string;
 };
 
+export const contentBytesUrl =
+  'https://www.linkedin.com/company/content-bytes/about/';
+
 const partners: PartnerProps[] = [
+  {
+    label: 'Content Bytes - link do strony',
+    link: contentBytesUrl,
+    imageSrc: require('./img/content-bytes.png').default,
+  },
   {
     label: 'ITCQF - link do strony',
     link: 'https://itcqf.org/',
