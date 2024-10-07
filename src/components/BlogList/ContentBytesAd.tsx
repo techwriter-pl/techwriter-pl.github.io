@@ -22,9 +22,10 @@ export default function ContentBytesAd() {
           flexDirection: 'column',
           alignItems: 'center',
           padding: 8,
+          fontFamily: 'Oswald, sans-serif',
         }}
       >
-        <span>słyszeliście o</span>
+        <span>Sprawdź nową serię meetupów</span>
         <img
           src={require('../Partners/img/content-bytes.png').default}
           alt="Content Bytes - link do strony"
