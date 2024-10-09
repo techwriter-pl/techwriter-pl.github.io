@@ -17,9 +17,9 @@ wyjaśniamy, czym są tooltipy i jak z nich korzystać.
 
 <!--truncate-->
 
-Ten artykuł będzie przewodnikiem krok po kroku, w jaki sposób tooltipy mogą
-pomóc użytkownikom uniknąć rozczarowania i pozwolić im kontynuować naukę i
-korzystanie z funkcji. Na początek, małe wprowadzenie.
+Dowiecie się też w jaki sposób tooltipy mogą pomóc użytkownikom uniknąć
+rozczarowania i pozwolić im kontynuować naukę i korzystanie z funkcji. Na
+początek, małe wprowadzenie.
 
 ## Czym dokładnie są tooltipy?
 
@@ -61,9 +61,9 @@ nich zaliczyć zaliczyć między innymi:
   aplikacji, może odbyć wycieczkę po aplikacji. Wyświetlane w aplikacji
   podpowiedzi pokazują każdy aspekt danej funkcji i dostarczają informacji o
   tym, co robi dana ikona.
-  - interaktywne przewodniki, czyli podpowiedzi pojawiają się dopiero po
-    interakcji użytkownika z poprzednią podpowiedzią, dzięki czemu są bardziej
-    angażujące niż ogólna wycieczka po aplikacji.
+- interaktywne przewodniki, czyli podpowiedzi pojawiają się dopiero po
+  interakcji użytkownika z poprzednią podpowiedzią, dzięki czemu są bardziej
+  angażujące niż ogólna wycieczka po aplikacji.
 - wprowadzanie nowych funkcji – z których użytkownicy jeszcze nie korzystali -
   za pomocą podpowiedzi możesz wyróżnić funkcje, które nie były jeszcze używane
   i nauczyć użytkowników, jak z nich korzystać
@@ -123,9 +123,9 @@ No i na koniec do znudzenia powtarzana złota zasada.
   różnych elementów aplikacji, dlatego ważne jest, aby wszystkie osoby kierowały
   się tymi samymi zaleceniami, aby uniknąć rozbieżności, na przykład w
   terminologii czy stylu tworzenia. W przypadku osób niedowidzących, należy
-  zadbać o ich zgodność z zasadami dostępności cyfrowej [WCAG]
-  (https://pl.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines). Warto
-  wziąć pod uwagę kontrast kolorów, możliwość powiększenia tekstu czy czas
+  zadbać o ich zgodność z zasadami dostępności cyfrowej
+  [WCAG](https://pl.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines).
+  Warto wziąć pod uwagę kontrast kolorów, możliwość powiększenia tekstu czy czas
   wyświetlania tooltipów. 😉
 
 ## Kiedy dodawać tooltipy?
