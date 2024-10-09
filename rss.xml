@@ -94,6 +94,165 @@ zrobić? <br> O: Jeśli wiesz, że nie dasz rady przyjść, daj nam znać piszą
             <category>spolecznosc</category>
         </item>
         <item>
+            <title><![CDATA[Tooltips w teorii i praktyce]]></title>
+            <link>https://techwriter.pl/tooltip-w-teorii-i-praktyce</link>
+            <guid>https://techwriter.pl/tooltip-w-teorii-i-praktyce</guid>
+            <pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Jeśli chcecie udoskonalić działanie Waszej aplikacji, wprowadzić nową funkcję]]></description>
+            <content:encoded><![CDATA[<p>Jeśli chcecie udoskonalić działanie Waszej aplikacji, wprowadzić nową funkcję
+lub ulepszyć istniejącą, tooltipy mogą Wam w tym pomóc. Tooltipy mogą odegrać
+kluczową rolę w poprawie użyteczności aplikacji, zmniejszając dezorientację
+użytkowników i ułatwiając efektywne wykonywanie zadań. W tym artykule
+wyjaśniamy, czym są tooltipy i jak z nich korzystać.</p>
+<p>Dowiecie się też w jaki sposób tooltipy mogą pomóc użytkownikom uniknąć
+rozczarowania i pozwolić im kontynuować naukę i korzystanie z funkcji. Na
+początek, małe wprowadzenie.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="czym-dokładnie-są-tooltipy">Czym dokładnie są tooltipy?<a href="https://techwriter.pl/tooltip-w-teorii-i-praktyce#czym-dok%C5%82adnie-s%C4%85-tooltipy" class="hash-link" aria-label="Bezpośredni link do Czym dokładnie są tooltipy?" title="Bezpośredni link do Czym dokładnie są tooltipy?">​</a></h2>
+<p><a href="https://pl.wikipedia.org/wiki/Tooltip" target="_blank" rel="noopener noreferrer">Tooltipy</a> (podpowiedzi), to krótkie
+komunikaty wyświetlane przez użytkownika, które dostarczają dodatkowych
+informacji o wybranym elemencie strony i zachęcają użytkowników do podjęcia
+działań. Tooltipy są zwykle wyświetlane poprzez naprowadzenie kursora myszy lub
+poprzez odpowiednie użycie klawiatury.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="dlaczego-warto-ich-używać">Dlaczego warto ich używać?<a href="https://techwriter.pl/tooltip-w-teorii-i-praktyce#dlaczego-warto-ich-u%C5%BCywa%C4%87" class="hash-link" aria-label="Bezpośredni link do Dlaczego warto ich używać?" title="Bezpośredni link do Dlaczego warto ich używać?">​</a></h2>
+<p>Istnieje wiele powodów, dla których warto używać toolipów w aplikacji, oto
+niektóre z nich:</p>
+<ul>
+<li>zajmują niewielką ilość miejsca na ekranie, więc nie są uciążliwą formą
+przesyłania wiadomości w aplikacji.</li>
+<li>poprawiają użyteczność i ułatwiają wykonywanie określonych zadań.</li>
+<li>zapewniają użytkownikom informacje na żądanie w momencie, gdy są potrzebne,
+dzięki czemu użytkownicy mogą podejmować decyzje, skuteczniej poruszać się po
+interfejsach i rozumieć funkcjonalność elementów interaktywnych.</li>
+<li>wyświetlają się tylko kontekstowo, dostarczając dodatkowych wyjaśnień i
+wskazówek. Swoją drogą, jeśli byłyby wyświetlane na stałe, zaśmiecałyby
+interfejs użytkownika 😉.</li>
+<li>mogą być nieocenionym wsparciem dla nowych użytkowników, ułatwiając im
+zrozumienie funkcji, poszczególnych elementów interfejsu oraz umożliwiają
+użytkownikom interakcję z treściami internetowymi. A jak? Na przykład poprzez
+przypomnienie, co robi dana ikona lub gdy jakaś funkcja jest trudna do
+wyjaśnienia są pomocne w nawigowaniu.</li>
+<li>można je stosować zarówno do prezentacji produktów, wdrażania funkcji, czy też
+szkolenia użytkowników.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="gdzie-warto-je-stosować">Gdzie warto je stosować?<a href="https://techwriter.pl/tooltip-w-teorii-i-praktyce#gdzie-warto-je-stosowa%C4%87" class="hash-link" aria-label="Bezpośredni link do Gdzie warto je stosować?" title="Bezpośredni link do Gdzie warto je stosować?">​</a></h2>
+<p>Tooltipy można wszechstronne wykorzystywać w różnych biznesach, ale skupmy się
+skupmy się na kilku typowych zastosowaniach w branży technologicznej. Można do
+nich zaliczyć zaliczyć między innymi:</p>
+<ul>
+<li>wycieczki wdrożeniowe – gdy użytkownik po raz pierwszy loguje się do
+aplikacji, może odbyć wycieczkę po aplikacji. Wyświetlane w aplikacji
+podpowiedzi pokazują każdy aspekt danej funkcji i dostarczają informacji o
+tym, co robi dana ikona.</li>
+<li>interaktywne przewodniki, czyli podpowiedzi pojawiają się dopiero po
+interakcji użytkownika z poprzednią podpowiedzią, dzięki czemu są bardziej
+angażujące niż ogólna wycieczka po aplikacji.</li>
+<li>wprowadzanie nowych funkcji – z których użytkownicy jeszcze nie korzystali -
+za pomocą podpowiedzi możesz wyróżnić funkcje, które nie były jeszcze używane
+i nauczyć użytkowników, jak z nich korzystać</li>
+<li>zapowiadanie nowych funkcji i zmian w produktach – podpowiedzi doskonale
+nadają się do ogłaszania zmian w aplikacji czy dodawania nowych funkcji.</li>
+<li>zapewnienie pomocy, gdy użytkownik utknie w martwym punkcie – jeśli użytkownik
+nie może ruszyć dalej, tooltipy mogą pomoc w wykonaniu konkretnych czynności
+lub skierować użytkownika do źródeł „samopomocy”. Jeśli użytkownicy potrzebują
+więcej informacji, wówczas mogą skorzystać z podpowiedzi zamiast kontaktować
+się z pomocą techniczną.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="co-jest-ważne-podczas-tworzenia-tooltipów">Co jest ważne podczas tworzenia tooltipów?<a href="https://techwriter.pl/tooltip-w-teorii-i-praktyce#co-jest-wa%C5%BCne-podczas-tworzenia-tooltip%C3%B3w" class="hash-link" aria-label="Bezpośredni link do Co jest ważne podczas tworzenia tooltipów?" title="Bezpośredni link do Co jest ważne podczas tworzenia tooltipów?">​</a></h2>
+<p>Chociaż tooltipy nie są nowością w sieci, często są one niewłaściwie stosowane
+lub zaimplementowane. Na co zatem warto zwrócić uwagę przy ich tworzeniu?</p>
+<ul>
+<li>dodawajcie krótki tekst – tooltipy z oczywistym lub zbędnym tekstem nie
+przynoszą korzyści użytkownikom. Jeśli nie możecie wymyślić pomocnej treści,
+nie oferujcie podpowiedzi. Dodana podpowiedź powinna być zwięźle opisana i nie
+blokować powiązanych treści… w przeciwnym razie zmarnujecie czas użytkownika,
+który będzie miał pecha aktywować tę podpowiedź ☹.</li>
+<li>używajcie podpowiedzi ze strzałkami – gdy elementy znajdują się blisko siebie
+strzałki pomagają uniknąć nieporozumień.</li>
+<li>używajcie tooltipów konsekwentnie w całej aplikacji. Niektóre elementy
+aplikacji są trudne do znalezienia, ponieważ brakuje im wizualnych wskazówek.
+Jeśli podpowiedzi są wyświetlane nieregularnie w całej aplikacji, użytkownicy
+mogą nigdy ich nie odkryć. Ważne jest, aby być konsekwentnym i zapewniać
+podpowiedzi dla wszystkich elementów projektu, a nie tylko wybranych. Jeśli
+tylko niektóre elementy wymagają dodatkowych wyjaśnień, użyj wyskakujących
+podpowiedzi dla tych elementów.</li>
+<li>używajcie podpowiedzi dla niejednoznacznych ikon – ikony mają pewien poziom
+niejednoznaczności, warto więc przemyśleć czy użyć tooltipy dla wszystkich
+ikon lub zapewnić użytkownikowi wersje opisową przycisku.</li>
+<li>zadbajcie o to, aby tooltipy miały tło, które nie jest zbyt jasne, ciemne ani
+krzykliwe 😉 i czcionkę, która nie jest zbyt dekoracyjna ani trudna do
+odczytania, aby użytkownicy mogli zobaczyć tekst w podpowiedziach. Ponadto
+użytkownicy z dysfunkcjami wzroku mogą mieć trudności z odczytaniem
+podpowiedzi, jeśli tekst i tło mają zbliżone kolory lub tekst jest wyjątkowo
+mały i nieczytelny.</li>
+<li>umieszczajcie tooltipy w taki sposób, aby nie blokowały powiązanej treści nie
+były zbyt rozciągnięte – warto upewnić się czy treść nie zasłania innych
+istotnych informacji związanych z celem użytkownika i nie jest zbyt
+rozciągnięta.</li>
+<li>pokazujcie tylko kontekstowe podpowiedzi, których użytkownicy będą używać
+podczas korzystania z danego elementu - uruchamianie tooltipów które będą
+potrzebne dopiero później, powoduje tylko niepotrzebny bałagan w Waszej
+aplikacji.</li>
+<li>zezwalajcie użytkownikom na zamykanie podpowiedzi w dowolnym momencie - można
+użyć znaku (x) lub kliknięcia w wolnym polu aplikacji, który zamknie
+podpowiedź. W każdym razie dobrze, żeby użytkownik widział co ma zrobić. 😉</li>
+</ul>
+<p>No i na koniec do znudzenia powtarzana złota zasada.</p>
+<ul>
+<li>ważne, żeby tooltipy były zwięzłe, spójne z resztą projektu i zbudowane z
+myślą o dostępności, zgodne z wewnętrznymi lub zewnętrznymi standardami oraz
+przewodnikami stylu - często zdarza się, że całe zespoły pracują nad rozwojem
+różnych elementów aplikacji, dlatego ważne jest, aby wszystkie osoby kierowały
+się tymi samymi zaleceniami, aby uniknąć rozbieżności, na przykład w
+terminologii czy stylu tworzenia. W przypadku osób niedowidzących, należy
+zadbać o ich zgodność z zasadami dostępności cyfrowej
+<a href="https://pl.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines" target="_blank" rel="noopener noreferrer">WCAG</a>.
+Warto wziąć pod uwagę kontrast kolorów, możliwość powiększenia tekstu czy czas
+wyświetlania tooltipów. 😉</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="kiedy-dodawać-tooltipy">Kiedy dodawać tooltipy?<a href="https://techwriter.pl/tooltip-w-teorii-i-praktyce#kiedy-dodawa%C4%87-tooltipy" class="hash-link" aria-label="Bezpośredni link do Kiedy dodawać tooltipy?" title="Bezpośredni link do Kiedy dodawać tooltipy?">​</a></h2>
+<p>Opisaliśmy już czym są podpowiedzi oraz jak i gdzie ich używać. To już połowa
+sukcesu, jednak najważniejsze i najtrudniejsze do rozwiązania są kwestie drobne
+i pozornie błahe, dlatego dodajemy kilka praktycznych wskazówek:</p>
+<ul>
+<li>weźcie pod uwagę pochodzenie użytkowników – zaplanujcie strategię, jak często
+będą używać podpowiedzi i w jakim celu. Jeśli Wasi użytkownicy znają już waszą
+aplikacje, może nie być konieczne dalsze wyjaśnianie każdej funkcji lub
+działania. Jeśli użytkownicy są początkujący lub zróżnicowani, możecie dodać
+więcej podpowiedzi.</li>
+<li>wczujcie się w rolę użytkowników – możemy śmiało napisać, że jako Tech
+Writerzy jesteście najbliżej sposobu myślenia użytkowników, ponieważ
+postrzegacie produkty jako historie, a nie elementy.</li>
+<li>zapomnijcie o tym co wiecie, o parametrach technicznych, możliwościach
+programistycznych – przejdźcie przez Wasz aplikacje i zastanówcie się, gdzie
+się zatrzymaliście lub utknęliście? Lub co jest jeszcze niejasne?</li>
+<li>zorganizujcie sesję użyteczności – warto zdobyć informacje jak użytkownicy
+korzystają z Waszego produktu. Gdzie napotykają na trudności lub w których
+momentach zatrzymują się, próbując coś zrozumieć. To będzie pewnie to miejsce,
+w którym warto dodać wskazówkę 😉.</li>
+<li>skupcie się na funkcjonalności i korzyściach płynących z danej funkcji – jeśli
+próbujecie wyjaśnić działanie produktu, prawdopodobnie nie tędy droga.
+Skuteczny tooltip przechodzi prosto do sedna i pozwala użytkownikom na
+korzystanie z funkcji. Jeśli zastanawiacie się, czy użyć tooltipów warto zadać
+sobie pytanie, czy informacje zawarte w podpowiedzi są niezbędne użytkownikowi
+do wykonania zadania.</li>
+<li>nie zapomnijcie o innych wytycznych projektowych (na przykład, oznaczania
+ikon) – ważne informacje powinny zawsze znajdować się na stronie; dlatego
+podpowiedzi nie powinny być niezbędne do wykonywania zadań, które użytkownicy
+muszą wykonać w witrynie.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="podsumowując">Podsumowując<a href="https://techwriter.pl/tooltip-w-teorii-i-praktyce#podsumowuj%C4%85c" class="hash-link" aria-label="Bezpośredni link do Podsumowując" title="Bezpośredni link do Podsumowując">​</a></h2>
+<p>Prawidłowo użyte tooltipy są niezwykle efektywną pomocą. Sprawiają, że
+korzystanie z aplikacji jest płynne, profesjonalne i łatwe. Prowadzi to do
+zadowalania użytkowników oraz buduje ich zaufanie do Waszego produktu. Mamy
+nadzieję, że ten artykuł pozwolił Wam zapoznać się z różnymi sposobami tworzenia
+kontekstowych i angażujących podpowiedzi.</p>
+<p>Co tu dużo pisać, zachęcamy do komentowania i dzielenia się Waszymi
+przemyśleniami.</p>]]></content:encoded>
+            <category>z kraju</category>
+            <category>edukacja</category>
+            <category>dobre-praktyki</category>
+        </item>
+        <item>
             <title><![CDATA[V edycja studiów Komunikacja techniczna - trwa nabór]]></title>
             <link>https://techwriter.pl/v-edycja-studiow-komunikacja-techniczna-trwa-nabor</link>
             <guid>https://techwriter.pl/v-edycja-studiow-komunikacja-techniczna-trwa-nabor</guid>
@@ -1414,7 +1573,7 @@ Podczas każdego wydarzenia, przez pierwsze 30 minut od rozpoczęcia na bieżąc
 <p>AI is a tool, and like any tool, it's here to help us. It can automate the repetitive tasks that take up so much of our time, freeing us up to focus on the more complex and creative aspects of our work. It can generate content, helping us produce more in less time.</p>
 <p>But AI isn't just about making our jobs easier. It's also about improving the quality of our work. With AI, we can analyze our content in ways that were previously impossible, identifying patterns and insights that can help us improve our writing.</p>
 <p>So, the first step in upskilling in an AI world? Don't freak out. Instead, recognize the potential of AI and learn how to harness it to your advantage. It's not about competing with AI, but collaborating with it.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="embrace-the-new-ways-of-thinking">Embrace the New Ways of Thinking<a href="https://techwriter.pl/tech-writers-upskill-ai#embrace-the-new-ways-of-thinking" class="hash-link" aria-label="Bezpo�średni link do Embrace the New Ways of Thinking" title="Bezpośredni link do Embrace the New Ways of Thinking">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="embrace-the-new-ways-of-thinking">Embrace the New Ways of Thinking<a href="https://techwriter.pl/tech-writers-upskill-ai#embrace-the-new-ways-of-thinking" class="hash-link" aria-label="Bezpośredni link do Embrace the New Ways of Thinking" title="Bezpośredni link do Embrace the New Ways of Thinking">​</a></h2>
 <p>Change can be scary, but it's also an opportunity for growth.</p>
 <p>In the world of tech writing, AI is that change. It's not just a new tool, but a new way of thinking about our work. It's about shifting from a mindset of creation to one of collaboration, working with AI to produce content that's more efficient, effective, and engaging.</p>
 <p>Take prompt design, for instance. It's a skill that involves crafting specific instructions to guide AI in generating desired content. It's like teaching a new colleague how to write in your company's style, but the colleague is an AI. Mastering this skill can help you produce high-quality content quickly and consistently.</p>
@@ -1556,41 +1715,6 @@ wiadomości na naszym kanale.</p>]]></content:encoded>
             <category>z-kraju</category>
             <category>meetcontent</category>
             <category>spolecznosc</category>
-        </item>
-        <item>
-            <title><![CDATA[Zapraszamy na Code Europe 2024]]></title>
-            <link>https://techwriter.pl/zapraszamy-na-code-europe-2024</link>
-            <guid>https://techwriter.pl/zapraszamy-na-code-europe-2024</guid>
-            <pubDate>Thu, 25 Apr 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Z ogromną radością zapraszamy Was na największy festiwal technologiczny w Polsce, który w tym roku objęliśmy patronatem medialnym. Poniżej znajdziecie najważniejsze informacje.]]></description>
-            <content:encoded><![CDATA[<p>Z ogromną radością zapraszamy Was na największy festiwal technologiczny w Polsce, który w tym roku objęliśmy patronatem medialnym. Poniżej znajdziecie najważniejsze informacje.</p>
-<p>Zespół stojący za <a href="https://www.codeeurope.pl/pl/" target="_blank" rel="noopener noreferrer">Code Europe</a> to ludzie, którzy czerpią inspirację z technologii i widzą ogromną wartość w możliwości wymiany wiedzy i doświadczeń. Dlatego właśnie w 2016 roku stworzyli wydarzenie Code Europe, które do tej pory doczekało się kilku edycji.</p>
-<p>Celem wydarzenia jest zainteresowanie uczestników światem technologii i możliwościami, jakie daje. Wysoka jakość prelekcji i warsztatów oraz pozytywna atmosfera wyróżniają Code Europe na tle podobnych konferencji.</p>
-<p>Uczestnicząc w tym wydarzeniu macie szansę odkryć najnowsze trendy i zdobyć kontakty, które mogą pomóc w kształtowaniu Waszej przyszłości w branży technologicznej. Na pokładzie jest już ponad 15 000 uczestników, co pokazuje jak dużym zainteresowaniem cieszy się festiwal.</p>
-<h1>Dla kogo?</h1>
-<p>Festiwal jest przeznaczony dla wszystkich zainteresowanych technologią, programistów, architektów oprogramowania, DevOps, miłośników bezpieczeństwa, profesjonalistów zajmujących się produktami, specjalistów od danych i entuzjastów kontroli jakości.</p>
-<h1>Dlaczego warto być częścią Code Europe?</h1>
-<ul>
-<li>Ucz się od najlepszych mówców, takich jak Venkat Subramaniam, José Valim, Sébastien Chopin, Sven Peters czy Michelle Sandford</li>
-<li>Nawiąż relacje z innymi entuzjastami technologii, które mogą mieć wpływ na Twoją ścieżkę kariery.</li>
-<li>Odkryj najgorętsze trendy technologiczne oraz poznaj gigantów branży IT</li>
-</ul>
-<p><img decoding="async" loading="lazy" alt="CE2024_Linkedin_Cover" src="https://techwriter.pl/assets/images/CE2024_Linkedin_Cover-edd839f490f143938a2d9853e75b4fae.png" width="1128" height="191" class="img_ev3q"></p>
-<h1>Najważniejsze informacje</h1>
-<p>Code Europe odbędzie się <strong>10–11 czerwca 2024 r. w ICE Kraków</strong>. Topowi prelegenci z branży IT przez 2 dni będą się z Wami dzielić swoją wiedzą i doświadczeniem podczas ponad 50 warsztatów.</p>
-<p>Oficjalne rozpoczęcie Code Europe odbędzie się o godzinie 9:30. Ostatnia sesja zacznie się około 16:00 pierwszego dnia i 16:00 drugiego dnia.</p>
-<p>Po zakończeniu pierwszego dnia festiwalu odbędzie się impreza Afterparty, dla wszystkich uczestników, partnerów oraz prelegentów.</p>
-<p>Szczegółowy harmonogram znajdziecie <a href="https://www.codeeurope.pl/pl/agenda" target="_blank" rel="noopener noreferrer">na stronie wydarzenia</a>.</p>
-<p><img decoding="async" loading="lazy" alt="CE2024_Promo_Code" src="https://techwriter.pl/assets/images/CE2024_Promo_Code-4b452d819e5e789d19c1640e306c4e3c.png" width="900" height="449" class="img_ev3q"></p>
-<p>W ramach patronatu mamy dla Was <strong>20% zniżki</strong> na kod <strong>techwriter20</strong>.</p>
-<p>Rodzaje biletów i cennik znajdziecie <a href="https://www.codeeurope.pl/pl/kup-bilet" target="_blank" rel="noopener noreferrer">na stronie wydarzenia</a>.</p>
-<p>Wszystkim uczestnikom życzymy dobrych wrażeń!</p>]]></content:encoded>
-            <category>news</category>
-            <category>z-kraju</category>
-            <category>kariera</category>
-            <category>konferencje</category>
-            <category>spolecznosc</category>
-            <category>technologie</category>
         </item>
     </channel>
 </rss>
