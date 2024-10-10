@@ -19,7 +19,7 @@ Pomimo tego, że jest to nowa inicjatywa, stoją za nią osoby, które już dał
 
 ## Mocny start
 
-Pierwsze spotkanie pod szyldem Content Bytes miało miejsce 3 października 2024 w Krakowie. Kolejne planowane jest na 30 października 2024\. Długofalowe plany zakładają jeden meetup na miesiąc.   
+[Pierwsze spotkanie](https://techwriter.pl/content-bytes-pazdziernik-2024) pod szyldem Content Bytes miało miejsce 3 października 2024 w Krakowie. Kolejne planowane jest na 30 października 2024. Długofalowe plany zakładają jeden meetup na miesiąc.   
 Póki co, inicjatywa działa na terenie Krakowa, ale niewykluczone, że w przyszłości rozszerzy swój zakres działania na kolejne miasta.  
 Plany są ambitne, ale wierzymy, że znajdą się zarówno prelegenci jak i partnerzy, dzięki którym uda się je zrealizować.
 
