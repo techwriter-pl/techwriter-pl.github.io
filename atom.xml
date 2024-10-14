@@ -2,11 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://techwriter.pl/</id>
     <title>techwriter.pl Blog</title>
-    <updated>2024-10-10T00:00:00.000Z</updated>
+    <updated>2024-10-25T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://techwriter.pl/"/>
     <subtitle>techwriter.pl Blog</subtitle>
     <icon>https://techwriter.pl/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Stowarzyszenie Autorów i Ilustratorów Technicznych (SAIiT) - Spotkanie założycielskie]]></title>
+        <id>https://techwriter.pl/saiit-spotkanie-zalozycielskie</id>
+        <link href="https://techwriter.pl/saiit-spotkanie-zalozycielskie"/>
+        <updated>2024-10-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tej jesieni kalendarz contentowych spotkań zapełni się jeszcze bardziej!]]></summary>
+        <content type="html"><![CDATA[<p>Tej jesieni kalendarz contentowych spotkań zapełni się jeszcze bardziej!</p>
+<p>Częściowo za sprawą spotkania założycielskiego <strong>Stowarzyszenia Autorów i Ilustratorów Technicznych (SAiIT)</strong>, które jest zaplanowane na 24 października we Wrocławiu.</p>
+<p>Inicjator stowarzyszenia, Łukasz Rybka, opowiadał o przedsięwzięciu na naszych łamach już w czerwcu. O głównych założeniach i pierwszych planach, możecie przeczytać w artykule: <a href="https://techwriter.pl/saiit-wywiad/" target="_blank" rel="noopener noreferrer">Stowarzyszenie Autorów i Ilustratorów Technicznych (SAIiT) - Wywiad z Łukaszem Rybką</a>.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="kiedy-i-gdzie">Kiedy i gdzie?<a href="https://techwriter.pl/saiit-spotkanie-zalozycielskie#kiedy-i-gdzie" class="hash-link" aria-label="Bezpośredni link do Kiedy i gdzie?" title="Bezpośredni link do Kiedy i gdzie?">​</a></h2>
+<p>Data: 24 października
+Godzina: 17:30
+Siedziba firmy <strong>Etteplan</strong>
+Ul. Legnicka 48 G, Wrocław</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="jak-wziąć-udział-w-spotkaniu">Jak wziąć udział w spotkaniu?<a href="https://techwriter.pl/saiit-spotkanie-zalozycielskie#jak-wzi%C4%85%C4%87-udzia%C5%82-w-spotkaniu" class="hash-link" aria-label="Bezpośredni link do Jak wziąć udział w spotkaniu?" title="Bezpośredni link do Jak wziąć udział w spotkaniu?">​</a></h2>
+<p>Jeśli chcesz poznać szczegóły stowarzyszenia lub zaangażować się w jego przyszłe prace lub po prostu chcesz dowiedzieć się więcej o przedsięwzięciu i jego inicjatorach, zapisz się korzystając z formularza pod <a href="https://forms.gle/gL26MFmH6Hf56K9w7" target="_blank" rel="noopener noreferrer">tym linkiem</a> i weź udział 🙂</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="bądź-na-bieżąco">Bądź na bieżąco<a href="https://techwriter.pl/saiit-spotkanie-zalozycielskie#b%C4%85d%C5%BA-na-bie%C5%BC%C4%85co" class="hash-link" aria-label="Bezpośredni link do Bądź na bieżąco" title="Bezpośredni link do Bądź na bieżąco">​</a></h2>
+<p>Jeśli chcesz śledzić rozwój stowarzyszenia i otrzymać aktualizacje dotyczące spotkania, polub <a href="https://www.linkedin.com/in/saiit-polska-03a008308/" target="_blank" rel="noopener noreferrer">profil SAiIT</a> na LinkedIn.</p>]]></content>
+        <author>
+            <name>Monika Mrozek</name>
+        </author>
+        <category label="stowarzyszenie" term="stowarzyszenie"/>
+        <category label="zrzeszenia branżowe" term="zrzeszenia branżowe"/>
+        <category label="promocja branży" term="promocja branży"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Content Bytes - nowe oblicze spotkań dla specjalistów od treści]]></title>
         <id>https://techwriter.pl/content-bytes-promo</id>
@@ -1637,83 +1662,5 @@ Podczas każdego wydarzenia, przez pierwsze 30 minut od rozpoczęcia na bieżąc
         <category label="z-kraju" term="z-kraju"/>
         <category label="meetcontent" term="meetcontent"/>
         <category label="spolecznosc" term="spolecznosc"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Tech Writers Can Upskill in an AI World Without Freaking Out]]></title>
-        <id>https://techwriter.pl/tech-writers-upskill-ai</id>
-        <link href="https://techwriter.pl/tech-writers-upskill-ai"/>
-        <updated>2024-04-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Many people ask me, "What are the best resources available to help tech writers upskill in an AI world"?]]></summary>
-        <content type="html"><![CDATA[<p>Many people ask me, "What are the best resources available to help tech writers upskill in an AI world"?</p>
-<p>You might be surprised to hear my usual&nbsp;answer, "I don't know."</p>
-<p>Of course, I could shamelessly promote my newsletter Cyborg's Writing or my prompt engineering course with Firehead Digital Communications, but that seems self-serving... and doesn't really answer the question.</p>
-<p>Why the uncertainty? The truth is, there are no core resources that I consistently turn to for upskilling in AI. For the past three years, my learning has been largely experiential, playing around with AI in my everyday life, solving content problems, and getting things done.</p>
-<p>So the best way to upskill in AI is to use it. When you have a problem to solve, consider trying an AI tool. And when you have a question, research it.&nbsp;And when you discover something cool, share it.</p>
-<p>The best resource we have for upskilling in AI is each other.</p>
-<p>Like writing, developing our AI experience is best done in a community.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="first-dont-freak-out">First, Don't Freak Out<a href="https://techwriter.pl/tech-writers-upskill-ai#first-dont-freak-out" class="hash-link" aria-label="Bezpośredni link do First, Don't Freak Out" title="Bezpośredni link do First, Don't Freak Out">​</a></h2>
-<p>AI might seem intimidating, but there's no need to panic.</p>
-<p>Yes, it's about creating machines that can think and learn like humans. Yes, it can process vast amounts of data at lightning speed.</p>
-<p>But here's the thing: AI isn't here to replace us, especially not in the world of tech writing.</p>
-<p>AI is a tool, and like any tool, it's here to help us. It can automate the repetitive tasks that take up so much of our time, freeing us up to focus on the more complex and creative aspects of our work. It can generate content, helping us produce more in less time.</p>
-<p>But AI isn't just about making our jobs easier. It's also about improving the quality of our work. With AI, we can analyze our content in ways that were previously impossible, identifying patterns and insights that can help us improve our writing.</p>
-<p>So, the first step in upskilling in an AI world? Don't freak out. Instead, recognize the potential of AI and learn how to harness it to your advantage. It's not about competing with AI, but collaborating with it.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="embrace-the-new-ways-of-thinking">Embrace the New Ways of Thinking<a href="https://techwriter.pl/tech-writers-upskill-ai#embrace-the-new-ways-of-thinking" class="hash-link" aria-label="Bezpośredni link do Embrace the New Ways of Thinking" title="Bezpośredni link do Embrace the New Ways of Thinking">​</a></h2>
-<p>Change can be scary, but it's also an opportunity for growth.</p>
-<p>In the world of tech writing, AI is that change. It's not just a new tool, but a new way of thinking about our work. It's about shifting from a mindset of creation to one of collaboration, working with AI to produce content that's more efficient, effective, and engaging.</p>
-<p>Take prompt design, for instance. It's a skill that involves crafting specific instructions to guide AI in generating desired content. It's like teaching a new colleague how to write in your company's style, but the colleague is an AI. Mastering this skill can help you produce high-quality content quickly and consistently.</p>
-<p>Or consider the use of copilot AI tools like <a href="http://lex.page/" target="_blank" rel="noopener noreferrer">Lex.page</a> or Herretto’s Etto , which integrate into your writing and content management systems. These tools don’t write for you, they help you come up with ideas, double-check your work, and solve content problems.</p>
-<p>Just like any other colleague. This just happens to be a machines.</p>
-<p>But embracing the change isn't just about learning new skills or using new tools. It's also about adapting your existing skills to new contexts.</p>
-<p>For example, tech writers are experts at understanding users and user contexts. This can be invaluable in fine-tuning AI outputs, ensuring they meet the high standards of professional writing.</p>
-<p>So stay curious and open-minded. Don't be afraid to dive in, play around, and see what you can discover.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="gaining-practical-experience">Gaining Practical Experience<a href="https://techwriter.pl/tech-writers-upskill-ai#gaining-practical-experience" class="hash-link" aria-label="Bezpośredni link do Gaining Practical Experience" title="Bezpośredni link do Gaining Practical Experience">​</a></h2>
-<p>While understanding the theory behind AI and tech writing is important, nothing beats hands-on experience. It's through practical application that we truly understand how to collaborate with AI and see its potential.</p>
-<p>Remember, the goal is not to become an AI expert overnight, but to start exploring and learning. So, don't be afraid to dive in, make mistakes, and learn as you go. The journey may be challenging, but it's also exciting and full of potential. Let's embrace it and see where it takes us.</p>
-<p>So, how can you gain this experience? Here are a few project ideas to kickstart your AI learning journey.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="experiment-with-ai-writing-tools">Experiment with AI Writing Tools<a href="https://techwriter.pl/tech-writers-upskill-ai#experiment-with-ai-writing-tools" class="hash-link" aria-label="Bezpośredni link do Experiment with AI Writing Tools" title="Bezpośredni link do Experiment with AI Writing Tools">​</a></h3>
-<p>Start by getting familiar with AI writing tools like lex.page or Microsoft Copilot. Use them to generate content, experiment with different prompts, and see how the AI responds. This will give you a feel for how AI can enhance your writing process.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="collaborate-with-ai-on-a-blog-post">Collaborate with AI on a Blog Post<a href="https://techwriter.pl/tech-writers-upskill-ai#collaborate-with-ai-on-a-blog-post" class="hash-link" aria-label="Bezpośredni link do Collaborate with AI on a Blog Post" title="Bezpośredni link do Collaborate with AI on a Blog Post">​</a></h3>
-<p>Try writing a blog post in collaboration with AI. Use the AI to generate a first draft, then refine and edit the content yourself. This will give you a taste of what it's like to work with AI on a real project.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="create-a-prompt-library">Create a Prompt Library<a href="https://techwriter.pl/tech-writers-upskill-ai#create-a-prompt-library" class="hash-link" aria-label="Bezpośredni link do Create a Prompt Library" title="Bezpośredni link do Create a Prompt Library">​</a></h3>
-<p>Develop a library of prompts for different types of content. This will help you understand how to guide AI effectively and see how different prompts produce different results.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="analyze-ai-generated-content">Analyze AI-Generated Content<a href="https://techwriter.pl/tech-writers-upskill-ai#analyze-ai-generated-content" class="hash-link" aria-label="Bezpośredni link do Analyze AI-Generated Content" title="Bezpośredni link do Analyze AI-Generated Content">​</a></h3>
-<p>Take some time to analyze the content generated by AI. Look at what works, what doesn't, and why. This will help you understand how to refine your prompts and improve the quality of AI-generated content … and to know when not to use AI</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="share-your-experiences">Share Your Experiences<a href="https://techwriter.pl/tech-writers-upskill-ai#share-your-experiences" class="hash-link" aria-label="Bezpośredni link do Share Your Experiences" title="Bezpośredni link do Share Your Experiences">​</a></h3>
-<p>Finally, share your experiences with others. Write about your experiments, discuss your findings, and exchange ideas with other tech writers. This will not only deepen your understanding but also contribute to the collective knowledge of our community.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="key-resources-for-upskilling-in-ai">Key Resources for Upskilling in AI<a href="https://techwriter.pl/tech-writers-upskill-ai#key-resources-for-upskilling-in-ai" class="hash-link" aria-label="Bezpośredni link do Key Resources for Upskilling in AI" title="Bezpośredni link do Key Resources for Upskilling in AI">​</a></h2>
-<p>You shouldn't feel like you need to take a bunch of courses, read tons of books, or constantly be watching various blogs.</p>
-<p>You will never keep up with the pace of AI development. But don't let that discourage you!</p>
-<p>The key is to think about your goals as a tech writer, the problems you want to solve, and laser-target resources that help you get there.</p>
-<p>Here are some places to start, depending on your specific goals:</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="i-want-to-understand-the-basics-of-generative-ai-technology">I want to understand the basics of generative AI technology.<a href="https://techwriter.pl/tech-writers-upskill-ai#i-want-to-understand-the-basics-of-generative-ai-technology" class="hash-link" aria-label="Bezpośredni link do I want to understand the basics of generative AI technology." title="Bezpośredni link do I want to understand the basics of generative AI technology.">​</a></h3>
-<p>You shouldn’t have to pay to learn the basics. Here are some great, free resources.</p>
-<p><strong>AI For Everyone</strong> by Andrew Ng on Coursera: This course is designed for non-technical audiences and gives a broad overview of the capabilities and limitations of AI. (<a href="https://www.coursera.org/learn/ai-for-everyone" target="_blank" rel="noopener noreferrer">https://www.coursera.org/learn/ai-for-everyone</a>)</p>
-<p><strong>Elements of AI:</strong> This free online course gives a fantastic primer on the basics of AI, its concepts, and its potential impact on the world. (<a href="https://www.elementsofai.com/" target="_blank" rel="noopener noreferrer">https://www.elementsofai.com/</a>)</p>
-<p><strong>Introduction to Artificial Intelligence:</strong> This beginner-level course is offered by Coursera in partnership with IBM. The course aims to provide a comprehensive understanding of AI, its applications, use cases, and how it is transforming our lives. <a href="https://www.coursera.org/learn/introduction-to-ai" target="_blank" rel="noopener noreferrer">(https://www.coursera.org/learn/introduction-to-a</a>i?)</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="i-want-to-find-tools-to-experiment-with">I want to find tools to experiment with.<a href="https://techwriter.pl/tech-writers-upskill-ai#i-want-to-find-tools-to-experiment-with" class="hash-link" aria-label="Bezpośredni link do I want to find tools to experiment with." title="Bezpośredni link do I want to find tools to experiment with.">​</a></h3>
-<p>The amount of tools out there is ridiculous … many of them are just “GPT wrappers” or interfaces wrapped around the same genAI technlogy.</p>
-<p>In many cases, you can eventually build these yourselves, but it’s good to see what’s out there.</p>
-<p><strong>There’s An AI for That:</strong> This is a pretty robust database of AI tools, organized by purpose. There are a lot of terrible ones, but a great place to start. (<a href="https://theresanaiforthat.com/" target="_blank" rel="noopener noreferrer">https://theresanaiforthat.com/</a>)</p>
-<p><strong>UX Tigers:</strong> A well-curated list of tools specifically for UX design. (<a href="https://www.uxtigers.com/post/top-ai-tools-for-ux" target="_blank" rel="noopener noreferrer">https://www.uxtigers.com/post/top-ai-tools-for-ux</a>)</p>
-<p><strong>App Sumo:</strong> Not solely for AI tools, many of the best get started here. The few tools that I’ve paid, I received excellent deals here. The best part? You can try these apps for 60 days and get your money back, if it turns out to be a dud.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="i-want-explore-prompt-design-techniques">I want explore prompt design techniques.<a href="https://techwriter.pl/tech-writers-upskill-ai#i-want-explore-prompt-design-techniques" class="hash-link" aria-label="Bezpośredni link do I want explore prompt design techniques." title="Bezpośredni link do I want explore prompt design techniques.">​</a></h2>
-<p><strong>Prompt Engineering Guide:</strong> This goes over nearly all of the prompting techniques that have entered the mainstream, introducing you to the vocabulary and examples that can be transferred to technical writing. <a href="https://www.promptingguide.ai/" target="_blank" rel="noopener noreferrer">(https://www.promptingguide.ai/</a>)</p>
-<p><strong>ChatGPT Prompt Engineering for Developers:</strong> This is a very basic course that shows you the key tasks that AI works best for and how they integrate into a development workflow. <a href="https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/" target="_blank" rel="noopener noreferrer">(https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/</a>)</p>
-<p><strong>Structured Prompting for Technical Communicators &amp; Content Developers:</strong> Well, I have to mention this, right? This is my course on managing prompts as technical writers, from prompt design to prompt management. (<a href="https://firehead-training.net/course/structuring-chat-gpt-prompts-for-technical-communicators" target="_blank" rel="noopener noreferrer">https://firehead-training.net/course/structuring-chat-gpt-prompts-for-technical-communicators</a>)</p>
-<p>This isn’t even the tip of the iceberg, but should serve as a great place to get started from ground zero.</p>
-<p>Remember, though, there is no such thing as an AI expert. No one knows everything there is to know about AI, because AI is a collaborative technology.</p>
-<p>AI is incomplete without you.</p>
-<p>The only expert you need is the one right in front of you … yourself.</p>
-<p>You’re the most important person crafting your interaction with AI; ensuring it complements and enhances your work in the right ways.</p>
-<p>Facing AI with a sense of agency and belonging can drastically alter your overall journey of upskilling in an ever-evolving AI world.</p>
-<p>I’m looking forward to hearing about what you learn in your adventures with AI!</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="about-the-author">About the Author<a href="https://techwriter.pl/tech-writers-upskill-ai#about-the-author" class="hash-link" aria-label="Bezpośredni link do About the Author" title="Bezpośredni link do About the Author">​</a></h2>
-<p>Lance Cummings is a seasoned educator and thought leader, currently serving as a professor of English in the Professional Writing program at the University of North Carolina Wilmington. His research and teaching focus on leveraging structured content and rhetorical strategies to enhance generative AI tools for technical communication. You can follow his work at <a href="http://www.isophist.com/" target="_blank" rel="noopener noreferrer">http://www.isophist.com</a>.</p>]]></content>
-        <author>
-            <name>Lance Cummings</name>
-        </author>
-        <category label="warsztat" term="warsztat"/>
-        <category label="articles-in-english" term="articles-in-english"/>
     </entry>
 </feed>
