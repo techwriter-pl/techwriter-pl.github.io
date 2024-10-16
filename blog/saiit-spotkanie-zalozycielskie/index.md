@@ -1,5 +1,5 @@
 ---
-title: 'Stowarzyszenie Autorów i Ilustratorów Technicznych (SAIiT) - Spotkanie założycielskie'
+title: 'Stowarzyszenie Autorów i Ilustratorów Technicznych (SAiIT) - Spotkanie założycielskie'
 authors: mrozek
 date: '2024-10-25'
 tags:
@@ -26,7 +26,7 @@ Ul. Legnicka 48 G, Wrocław
 
 ## Jak wziąć udział w spotkaniu? 
 
-Jeśli chcesz poznać szczegóły stowarzyszenia lub zaangażować się w jego przyszłe prace lub po prostu chcesz dowiedzieć się więcej o przedsięwzięciu i jego inicjatorach, zapisz się korzystając z formularza pod [tym linkiem](https://forms.gle/gL26MFmH6Hf56K9w7) i weź udział 🙂
+Jeśli chcesz poznać cele stowarzyszenia lub zaangażować się w jego przyszłe prace lub po prostu chcesz dowiedzieć się więcej o przedsięwzięciu i jego inicjatorach, zapisz się korzystając z formularza pod [tym linkiem](https://forms.gle/gL26MFmH6Hf56K9w7) i weź udział 🙂
 
 ## Bądź na bieżąco
 
