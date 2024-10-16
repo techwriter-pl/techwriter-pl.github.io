@@ -26,9 +26,7 @@ often their first experience presenting a business case to stakeholders. Read
 the story of the collaboration between District C and Hitachi Energy in Krakow,
 written from the perspective of Andrzej, a member of the Technical Writing Team.
 
-![](images/students.png)
-**Participants brainstorm over Zoom.**_
-
+![](images/students.png) **Participants brainstorm over Zoom.**\_
 
 Our Technical Writing Team consisted of four people, out of which two were new
 joiners. Each of us had a different set of experiences and knowledge to share.
@@ -42,14 +40,14 @@ analyze, find opportunities, gather suggestions, and present them.
 
 We shared our experiences that gave the students an idea of what makes technical
 writing rewarding and challenging:
-* Complex products and systems
-* Volume of information
-* Gathering insights from experts and seeking feedback
-* Building knowledge about the Hitachi Energy products
 
-![](images/soap_box.jpg)
-**Lance, Quinn, and Andrzej tell a story about the project at the soap! content
-conference in June, 2023.**
+- Complex products and systems
+- Volume of information
+- Gathering insights from experts and seeking feedback
+- Building knowledge about the Hitachi Energy products
+
+![](images/soap_box.jpg) **Lance, Quinn, and Andrzej tell a story about the
+project at the soap! content conference in June, 2023.**
 
 ## How it was done
 
@@ -81,8 +79,8 @@ then presented during the final **pitch meeting** held over Zoom.
 
 ![](images/hitachi_crew.png)
 
-**Pitch meeting** is a presentation where an individual or a team presents
-a business idea or concept to potential investors, stakeholders, or clients to
+**Pitch meeting** is a presentation where an individual or a team presents a
+business idea or concept to potential investors, stakeholders, or clients to
 secure funding, support, or interest in the project. The presentation usually
 includes an overview of the product or service and the proposed solution.
 
@@ -99,9 +97,9 @@ Writers and the Subject Matter Experts (SME).
 
 They then explored many valid questions:
 
-* What is the most efficient way to get SME insights and build product
+- What is the most efficient way to get SME insights and build product
   knowledge?
-* Are multiple team members often asked the same questions?
+- Are multiple team members often asked the same questions?
 
 One suggestion was to invite all SMEs to a single session to get all their
 answers. Alternatively, this could be resolved asynchronously through Teams or a
@@ -114,11 +112,12 @@ meeting invites. The same content appears in multiple places and can be edited
 instantly by me and the SMEs involved.
 
 Other recommendations included:
-* Conducting dedicated workshops to get product insights
-* Incorporating short videos to distribute knowledge and information
-* Using Scrum Master's advice to optimize the collaboration between the Tech
-* Writers and the Dev team
-* Establishing a more formalized review process
+
+- Conducting dedicated workshops to get product insights
+- Incorporating short videos to distribute knowledge and information
+- Using Scrum Master's advice to optimize the collaboration between the Tech
+- Writers and the Dev team
+- Establishing a more formalized review process
 
 Though we have not used every recommendation, we gained a clearer picture of our
 needs and possibilities. The challenge allowed for the analysis of how we
@@ -130,8 +129,8 @@ As part of continuous improvement, I regularly reevaluate my approach to
 documentation process and collaboration. Even a year later, I still actively use
 the good ideas I picked up during the District C project.
 
-![](images/group_photo.jpg)
-**Happy participants at the Hitachi Energy Office in Krakow.**
+![](images/group_photo.jpg) **Happy participants at the Hitachi Energy Office in
+Krakow.**
 
 ## Cross-cultural collaboration
 
@@ -140,32 +139,31 @@ Krakow office and asked about their experiences.
 
 The American view by Quinn Williams:
 
-> _This program was especially helpful in understanding how different people with
-> different backgrounds can approach business issues. We got to work with Polish
-> students, and sharing ideas required us to keep our communication skills at
-> the forefront. If we had not practiced effective communication, we would not
-> have successfully conveyed some implied thoughts from our American point of
-> view. This foundation helped us understand the importance of creating a strong
-> team bond and interpersonal practices. I also enjoyed experiencing the
-> program\'s professional side, where we communicated with the Hitachi Energy
-> team members. It was interesting to see where the Polish work culture differed
-> from the American culture and where there was an overlap. I think our teams
-> were able to use essential pieces from both sides to create an effective
-> workflow._
+> _This program was especially helpful in understanding how different people
+> with different backgrounds can approach business issues. We got to work with
+> Polish students, and sharing ideas required us to keep our communication
+> skills at the forefront. If we had not practiced effective communication, we
+> would not have successfully conveyed some implied thoughts from our American
+> point of view. This foundation helped us understand the importance of creating
+> a strong team bond and interpersonal practices.<br></br><br></br> I also
+> enjoyed experiencing the program\'s professional side, where we communicated
+> with the Hitachi Energy team members. It was interesting to see where the
+> Polish work culture differed from the American culture and where there was an
+> overlap. I think our teams were able to use essential pieces from both sides
+> to create an effective workflow._
 
 The Polish view by Monika Dąbrowska, a participant in the technical writing
 postgraduate studies at Vistula non-public university:
 
 > _What I particularly liked about District C was that we could exchange our
- experiences regarding learning and creating projects.
- The Polish education system and culture lead to a general mindset somewhat
- contrasting to that of American students._
-
- Also, the American view of the Poles is far from what we showed during the
- project. Similarly, the Poles also have certain misconceptions about the
- Americans. These assumptions and presuppositions were discussed and challenged
-  during our cooperation, and we found power in our variety, creativity,
- exchanging experiences, and understanding one another.
+> experiences regarding learning and creating projects. The Polish education
+> system and culture lead to a general mindset somewhat contrasting to that of
+> American students._<br></br><br></br> _Also, the American view of the Poles is
+> far from what we showed during the project. Similarly, the Poles also have
+> certain misconceptions about the Americans. These assumptions and
+> presuppositions were discussed and challenged during our cooperation, and we
+> found power in our variety, creativity, exchanging experiences, and
+> understanding one another._
 
 ## Kudos
 
@@ -174,8 +172,8 @@ the practitioners of the obscure art of tech writing. One can always count on
 the students to come up with fresh ideas! They were bright, open-minded, and not
 burdened with presumptions. We wish you all the best!
 
-And thank you, Dr. Cummings, for creating such a fruitful initiative — we
-really enjoy being a part of it.
+And thank you, Dr. Cummings, for creating such a fruitful initiative — we really
+enjoy being a part of it.
 
 ## The 2024 Edition
 
