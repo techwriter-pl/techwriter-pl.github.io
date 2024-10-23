@@ -85,7 +85,7 @@ partnerują nam **girls.js**.
 
 ### GPC Global Technology Center
 
-[Genuine Parts Company (GPC)](genpt.com) jest globalnym liderem dystrybucji
+[Genuine Parts Company (GPC)](https://www.genpt.com/) jest globalnym liderem dystrybucji
 części samochodowych i przemysłowych. Globalne Centrum Technologii GPC w
 Krakowie, powstałe w 2022 roku, pełni rolę centrum badań i rozwoju, wspierając
 GPC w zakresie transformacji cyfrowej. Inżynierowie GCP pracują nad
