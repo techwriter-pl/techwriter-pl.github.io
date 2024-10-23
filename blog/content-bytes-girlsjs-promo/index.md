@@ -13,14 +13,14 @@ coverImage: 'contentbytes-girlsjs.png'
 
 Choć na zewnątrz robi się już coraz ciemniej (i straszniej :ghost:), ekipa
 Content Bytes nie boi się nowych wyzwań, zwłaszcza gdy u boku mamy **girls.js**!
-Ta niezwykle owocna współpraca pozwala nam jeszcze w tym miesiącu powrócić z
+Współpraca ta pozwala nam jeszcze w tym miesiącu powrócić z
 kolejnym wydarzeniem, tym razem poświęconym tematyce **dostępności treści**.
 
 Podczas spotkania [Olga Stefaniuk](https://www.linkedin.com/in/olgastefaniuk),
-[Justi Sztyper](https://www.linkedin.com/in/justi-sztyper-134520a5/), oraz
+[Justi Sztyper](https://www.linkedin.com/in/justi-sztyper-134520a5/) oraz
 [Zuzanna Szott](https://www.linkedin.com/in/zuzanna-szott/) opowiedzą między
 innymi o tym, czy tworzone treści mogą być dostępne dla wszystkich, jak
-neuroróżnorodni użytkownicy pracują z contentem i aplikacjami, oraz jak
+neuroróżnorodni użytkownicy pracują z contentem i aplikacjami oraz jak
 dostępność wpływa zarówno na twórców treści i tych, którzy z nich korzystają.
 
 Po prezentacjach zapraszamy na mały poczęstunek oraz wymianę doświadczeń i
@@ -45,7 +45,7 @@ odpowiednio na nie reagować.
 **_Dostępność kognitywna i neuroróżnorodność w pracy z treścią i aplikacjami
 webowymi_**
 
-W swojej prezentacji Olga and Justi poruszą zagadnienia neuroróżnorodności oraz
+W swojej prezentacji Olga i Justi poruszą zagadnienia neuroróżnorodności oraz
 dostępności kognitywnej. Dowiecie się, jak neuroróżnorodni użytkownicy pracują z
 tresciami i aplikacjami webowymi, co może być dla nich problematyczne i jak temu
 zaradzić. Dodatkowo, poznacie najlepsze praktyki stosowane w tworzeniu
@@ -60,8 +60,8 @@ Prezentacje poprowadzą:
   wiedzą, tworzenia społeczności i programowania, a także zainteresowania w
   obszarach dostępności w aplikacjach webowych oraz kognitywistyki. Olga jest
   również team leaderką w girls.js, gdzie wspiera kobiety wchodzące w świat IT.
-- **Justi Sztyper**: Justi zajmuje się tworzeniem dokumentacji od wielu lat,
-  sprawiając, aby tworzone treści były jak najbardziej dostępne dla
+- **Justi Sztyper**: Justi zajmuje się dokumentacją od wielu lat,
+  dbając o to, aby tworzone treści były jak najbardziej dostępne dla
   użytkowników. W pracy technical writera Justi najbardziej ceni sobie podejście
   docs-as-code.
 - **Zuzanna Szott**: Projektantka, badaczka i socjolożka na co dzień pracująca w
