@@ -49,7 +49,7 @@ W swojej prezentacji Olga i Justi poruszą zagadnienia neuroróżnorodności ora
 dostępności kognitywnej. Dowiecie się, jak neuroróżnorodni użytkownicy pracują z
 tresciami i aplikacjami webowymi, co może być dla nich problematyczne i jak temu
 zaradzić. Dodatkowo, poznacie najlepsze praktyki stosowane w tworzeniu
-dostępnych aplikacji i treści, oraz zalecenia Web Content Accessibility
+dostępnych aplikacji i treści oraz zalecenia Web Content Accessibility
 Guidelines (WCAG) w kontekście dostępności.
 
 ## Prelegenci
