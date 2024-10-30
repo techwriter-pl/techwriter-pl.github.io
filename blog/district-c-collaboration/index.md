@@ -97,7 +97,7 @@ Writers and the Subject Matter Experts (SME).
 
 They then explored many valid questions:
 
-- What is the most efficient way to get SME insights and build product
+- What is the most efficient way to get insights from an SME and build product
   knowledge?
 - Are multiple team members often asked the same questions?
 
