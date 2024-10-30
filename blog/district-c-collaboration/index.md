@@ -5,7 +5,6 @@ title:
 authors: niewiarowski
 date: '2024-10-17'
 tags:
-  - 'bez-kategorii'
   - 'dobre-praktyki'
   - 'warsztat'
   - 'praktyki'
@@ -13,20 +12,19 @@ tags:
 coverImage: 'group_photo.jpg'
 ---
 
-In 2023, the Technical Writing Team at Hitachi Energy in Kraków participated in 
-District C. It was a project run by the University of North Carolina Wilmington (UNCW)
+In 2023, the Hitachi Energy Technical Writing Team in Kraków participated in
+District C, a project run by the University of North Carolina Wilmington (UNCW)
 to inspire the next generation of energy professionals.
 
 <!--truncate-->
 
-District C lets students explore a real-life company\'s business operations.
+District C lets students explore a real-life company's business operations.
 They learn about the unique aspects of an industry hands-on. In the end,
 students offer practical advice to the given problem during a pitch meeting,
 often their first experience presenting a business case to stakeholders. Read
-the story of the collaboration between District C and Hitachi Energy in Krakow,
-written from the perspective of Andrzej, a member of the Technical Writing Team.
+the story of the collaboration between District C and Hitachi Energy in Kraków,
 
-![](images/students.png) **Participants brainstorm over Zoom.**\_
+![](images/students.png) **Participants brainstorming over Zoom.**
 
 Our Technical Writing Team consisted of four people, out of which two were new
 joiners. Each of us had a different set of experiences and knowledge to share.
@@ -50,7 +48,7 @@ project at the soap! content conference in June 2023.**
 
 ## How it was done
 
-First, there were two rounds of Zoom meetings and presenting information.
+First, there were two rounds of Zoom meetings where information was shared.
 
 The members of the Hitachi Energy Team explained what it is like to be a
 Technical Writer and why this role requires specialized expertise. Concise and
@@ -72,7 +70,7 @@ clear formulation.
 ## The big event
 
 Student groups learned what operating in a modern global corporate workplace is
-like. They gathered input, applied design thinking principles to empathize,
+like. They gathered input, applied design thinking principles,
 identified opportunities for growth, and suggested sound solutions, which were
 then presented during the final **pitch meeting** held over Zoom.
 
@@ -88,7 +86,7 @@ includes an overview of the product or service and the proposed solution.
 Each group presented its assessment of the opportunities and provided practical
 recommendations. Fresh perspectives and solutions were appreciated, as they
 logically tied to the identified areas for improvement. At the same time, the
-Hitachi Energy team offered practical feedback, rooting in business operations,
+Hitachi Energy Team offered practical feedback, rooting in business operations,
 experience, and practice.
 
 Students focused mainly on the nature of the interactions between the Technical
@@ -102,8 +100,8 @@ They then explored many valid questions:
 
 One suggestion was to invite all SMEs to a single session to get all their
 answers. Alternatively, this could be resolved asynchronously through Teams or a
-survey.\
-\
+survey.
+
 Personally, District C inspired me to use Microsoft Loop, allowing me to engage
 multiple Subject Matter Experts quickly. I can reuse my Loop notes in bigger
 collections. I can embed them in MS Teams chats, channels, Outlook e-mails, and
@@ -114,14 +112,13 @@ Other recommendations included:
 
 - Conducting dedicated workshops to get product insights
 - Incorporating short videos to distribute knowledge and information
-- Using Scrum Master's advice to optimize the collaboration between the Tech
-- Writers and the Dev team
+- Using Scrum Master's advice to optimize the collaboration between the Tech Writers and the Dev team
 - Establishing a more formalized review process
 
 Though we have not used every recommendation, we gained a clearer picture of our
 needs and possibilities. The challenge allowed for the analysis of how we
 operate on a daily basis, and it emphasized the strategic and business
-objectives that are key to the effectiveness of the processes we run in Krakow
+objectives that are key to the effectiveness of the processes we run in Kraków
 and for the global organization.
 
 As part of continuous improvement, I regularly reevaluate my approach to
@@ -129,40 +126,40 @@ documentation process and collaboration. Even a year later, I still actively use
 the good ideas I picked up during the District C project.
 
 ![](images/group_photo.jpg) **Happy participants at the Hitachi Energy Office in
-Krakow.**
+Kraków.**
 
 ## Cross-cultural collaboration
 
 Shortly after the project was completed, we met the US participants in the
-Krakow office and asked about their experiences.
+Kraków office and asked about their experiences.
 
 The American view by Quinn Williams:
 
-> _This program was especially helpful in understanding how different people
+> This program was especially helpful in understanding how different people
 > with different backgrounds can approach business issues. We got to work with
 > Polish students, and sharing ideas required us to keep our communication
 > skills at the forefront. If we had not practiced effective communication, we
 > would not have successfully conveyed some implied thoughts from our American
 > point of view. This foundation helped us understand the importance of creating
 > a strong team bond and interpersonal practices.<br></br><br></br> I also
-> enjoyed experiencing the program\'s professional side, where we communicated
+> enjoyed experiencing the program's professional side, where we communicated
 > with the Hitachi Energy team members. It was interesting to see where the
 > Polish work culture differed from the American culture and where there was an
 > overlap. I think our teams were able to use essential pieces from both sides
-> to create an effective workflow._
+> to create an effective workflow.
 
 The Polish view by Monika Dąbrowska, a participant in the technical writing
 postgraduate studies at Vistula non-public university:
 
-> _What I particularly liked about District C was that we could exchange our
+> What I particularly liked about District C was that we could exchange our
 > experiences regarding learning and creating projects. The Polish education
 > system and culture lead to a general mindset somewhat contrasting to that of
-> American students._<br></br><br></br> _Also, the American view of the Poles is
+> American students.<br></br><br></br> Also, the American view of the Poles is
 > far from what we showed during the project. Similarly, the Poles also have
 > certain misconceptions about the Americans. These assumptions and
 > presuppositions were discussed and challenged during our cooperation, and we
 > found power in our variety, creativity, exchanging experiences, and
-> understanding one another._
+> understanding one another.
 
 ## Kudos
 
@@ -172,7 +169,7 @@ the students to come up with fresh ideas! They were bright, open-minded, and not
 burdened with presumptions. We wish you all the best!
 
 And thank you, Dr. Cummings, for creating such a fruitful initiative — we really
-enjoy being a part of it.
+enjoyed being a part of it.
 
 ## The 2024 Edition
 
@@ -180,16 +177,16 @@ In 2024, District C returned to Hitachi Energy. This time, it was led by
 Karolina Harazim, our Internal Communications Senior Specialist, and supported
 by the Tech Writing Team.
 
-Something tells me this won't be the last time Hitachi Energy collaborates with
+Something tells me this wasn't the last time Hitachi Energy collaborated with
 the University of North Carolina Wilmington. Until the next time!
 
 ## More details about District C
-
-The District C program at UNCW (English Studies) aims to introduce students to
+Something tells me this wasn't the last time Hitachi Energy collaborated with
+the University of North Carolina Wilmington. Until the next time!
 diverse career paths and opportunities while providing valuable real-world
 experience collaborating with international companies. As an English professor
 and a certified District C coach, Dr. Lance Cummings has been instrumental in
-connecting his students with the vibrant tech writing community in Krakow,
+connecting his students with the vibrant tech writing community in Kraków,
 Poland.
 
 For more information about the program, visit the
