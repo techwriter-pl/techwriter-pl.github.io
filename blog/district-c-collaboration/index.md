@@ -58,7 +58,7 @@ Technical Writer and why this role requires specialized expertise. Concise and
 clear data gave insight into the organization's daily work and critical focus
 areas.
 
-Then, students pondered what was said and came back with additional questions to
+Then, students reflected on what was said and came back with additional questions to
 dig deeper. Each student group had a specific amount of time to ask strategic
 questions. These were intense, focused sessions in which both sides tried to use
 the available time as best they could.
