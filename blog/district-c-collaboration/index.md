@@ -47,7 +47,7 @@ writing rewarding and challenging:
 - Building knowledge about the Hitachi Energy products
 
 ![](images/soap_box.jpg) **Lance, Quinn, and Andrzej tell a story about the
-project at the soap! content conference in June, 2023.**
+project at the soap! content conference in June 2023.**
 
 ## How it was done
 
