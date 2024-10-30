@@ -13,8 +13,8 @@ tags:
 coverImage: 'group_photo.jpg'
 ---
 
-In 2023, the Hitachi Energy Technical Writing Team in Krakow participated in
-District C, a project run by the University of North Carolina Wilmington (UNCW)
+In 2023, the Technical Writing Team at Hitachi Energy in Kraków participated in 
+District C. It was a project run by the University of North Carolina Wilmington (UNCW)
 to inspire the next generation of energy professionals.
 
 <!--truncate-->
