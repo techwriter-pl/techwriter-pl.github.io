@@ -41,10 +41,9 @@ analyze, find opportunities, gather suggestions, and present them.
 We shared our experiences that gave the students an idea of what makes technical
 writing rewarding and challenging:
 
-- Complex products and systems
-- Volume of information
+- Processing high volume of information
 - Gathering insights from experts and seeking feedback
-- Building knowledge about the Hitachi Energy products
+- Building knowledge about complex products and systems developed at Hitachi Energy
 
 ![](images/soap_box.jpg) **Lance, Quinn, and Andrzej tell a story about the
 project at the soap! content conference in June 2023.**
