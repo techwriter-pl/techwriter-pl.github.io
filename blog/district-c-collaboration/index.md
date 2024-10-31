@@ -18,11 +18,12 @@ to inspire the next generation of energy professionals.
 
 <!--truncate-->
 
-District C lets students explore a real-life company's business operations.
-They learn about the unique aspects of an industry hands-on. In the end,
-students offer practical advice to the given problem during a pitch meeting,
-often their first experience presenting a business case to stakeholders. Read
-the story of the collaboration between District C and Hitachi Energy in Kraków,
+District C lets students explore a real-life company's business operations. They
+learn about the unique aspects of an industry hands-on. In the end, students
+offer practical advice to the given problem during a pitch meeting, often their
+first experience presenting a business case to stakeholders. Read the story of
+the collaboration between District C and Hitachi Energy in Kraków. The story is
+told by Andrzej, on behalf of the Technical Writing Team.
 
 ![](images/students.png) **Participants brainstorming over Zoom.**
 
@@ -41,9 +42,10 @@ writing rewarding and challenging:
 
 - Processing high volume of information
 - Gathering insights from experts and seeking feedback
-- Building knowledge about complex products and systems developed at Hitachi Energy
+- Building knowledge about complex products and systems developed at Hitachi
+  Energy
 
-![](images/soap_box.jpg) **Lance, Quinn, and Andrzej tell a story about the
+![](images/soap_box.jpg) **Lance, Quinn, and Andrzej telling a story about the
 project at the soap! content conference in June 2023.**
 
 ## How it was done
@@ -55,12 +57,12 @@ Technical Writer and why this role requires specialized expertise. Concise and
 clear data gave insight into the organization's daily work and critical focus
 areas.
 
-Then, students reflected on what was said and came back with additional questions to
-dig deeper. Each student group had a specific amount of time to ask strategic
-questions. These were intense, focused sessions in which both sides tried to use
-the available time as best they could.
+Then, students reflected on what was said and came back with additional
+questions to dig deeper. Each student group had a specific amount of time to ask
+strategic questions. These were intense, focused sessions in which both sides
+tried to use the available time as best they could.
 
-At that point, this exercise was already beneficial to the Hitachi Energy Team.
+This exercise was already beneficial to the Hitachi Energy Team.
 We all knew the specifics of our daily operations well. Still, it was a useful
 exercise to describe our role to someone outside of our working environment.
 Explaining without relying on jargon, project names, and mental shortcuts was
@@ -70,9 +72,9 @@ clear formulation.
 ## The big event
 
 Student groups learned what operating in a modern global corporate workplace is
-like. They gathered input, applied design thinking principles,
-identified opportunities for growth, and suggested sound solutions, which were
-then presented during the final **pitch meeting** held over Zoom.
+like. They gathered input, applied design thinking principles, identified
+opportunities for growth, and suggested sound solutions, which were then
+presented during the final **pitch meeting** held over Zoom.
 
 ![](images/hitachi_crew.png)
 
@@ -81,49 +83,54 @@ business idea or concept to potential investors, stakeholders, or clients to
 secure funding, support, or interest in the project. The presentation usually
 includes an overview of the product or service and the proposed solution.
 
-## Examples of solutions
+## Recommendations
 
 Each group presented its assessment of the opportunities and provided practical
 recommendations. Fresh perspectives and solutions were appreciated, as they
 logically tied to the identified areas for improvement. At the same time, the
-Hitachi Energy Team offered practical feedback, rooting in business operations,
+Hitachi Energy Team offered practical feedback that was rooted in business operations,
 experience, and practice.
 
 Students focused mainly on the nature of the interactions between the Technical
 Writers and the Subject Matter Experts (SME).
 
-They then explored many valid questions:
-
-- What is the most efficient way to get insights from an SME and build product
-  knowledge?
-- Are multiple team members often asked the same questions?
+They then explored questions, such as: "What is the most efficient way to get
+insights from an SME and build product knowledge?" and "Are multiple team
+members often asked the same questions?".
 
 One suggestion was to invite all SMEs to a single session to get all their
 answers. Alternatively, this could be resolved asynchronously through Teams or a
 survey.
 
-Personally, District C inspired me to use Microsoft Loop, allowing me to engage
-multiple Subject Matter Experts quickly. I can reuse my Loop notes in bigger
-collections. I can embed them in MS Teams chats, channels, Outlook e-mails, and
-meeting invites. The same content appears in multiple places and can be edited
-instantly by me and the SMEs involved.
-
 Other recommendations included:
 
 - Conducting dedicated workshops to get product insights
 - Incorporating short videos to distribute knowledge and information
-- Using Scrum Master's advice to optimize the collaboration between the Tech Writers and the Dev team
+- Using Scrum Master's advice to optimize the collaboration between the Tech
+  Writers and the Dev team
 - Establishing a more formalized review process
+
+## The take-aways
 
 Though we have not used every recommendation, we gained a clearer picture of our
 needs and possibilities. The challenge allowed for the analysis of how we
-operate on a daily basis, and it emphasized the strategic and business
-objectives that are key to the effectiveness of the processes we run in Kraków
-and for the global organization.
+operate on a daily basis. It emphasized the strategic and business objectives
+that are key to the effectiveness of the processes we run in Kraków and for the
+global organization.
 
-As part of continuous improvement, I regularly reevaluate my approach to
-documentation process and collaboration. Even a year later, I still actively use
-the good ideas I picked up during the District C project.
+As part of continuous improvement, we regularly reevaluate our approach to
+documentation process and collaboration. Even a year later, we still actively
+use the good ideas we picked up during the District C project.
+
+For example, District C inspired us to try Microsoft Loop to engage multiple
+Subject Matter Experts quickly. 
+
+(For those interested in the tool itself, we can say that we find it
+useful for gathering information, as it allows you to reuse the notes and group
+them into bigger collections. You can embed them in MS Teams chats, channels,
+Outlook e-mails, and meeting invites. The same content appears in multiple
+places and can be edited instantly by the Technical Writer and the SMEs
+involved. Do check it out, if you haven't already).
 
 ![](images/group_photo.jpg) **Happy participants at the Hitachi Energy Office in
 Kraków.**
@@ -135,18 +142,18 @@ Kraków office and asked about their experiences.
 
 The American view by Quinn Williams:
 
-> This program was especially helpful in understanding how different people
-> with different backgrounds can approach business issues. We got to work with
-> Polish students, and sharing ideas required us to keep our communication
-> skills at the forefront. If we had not practiced effective communication, we
-> would not have successfully conveyed some implied thoughts from our American
-> point of view. This foundation helped us understand the importance of creating
-> a strong team bond and interpersonal practices.<br></br><br></br> I also
-> enjoyed experiencing the program's professional side, where we communicated
-> with the Hitachi Energy team members. It was interesting to see where the
-> Polish work culture differed from the American culture and where there was an
-> overlap. I think our teams were able to use essential pieces from both sides
-> to create an effective workflow.
+> This program was especially helpful in understanding how different people with
+> different backgrounds can approach business issues. We got to work with Polish
+> students, and sharing ideas required us to keep our communication skills at
+> the forefront. If we had not practiced effective communication, we would not
+> have successfully conveyed some implied thoughts from our American point of
+> view. This foundation helped us understand the importance of creating a strong
+> team bond and interpersonal practices.<br></br><br></br> I also enjoyed
+> experiencing the program's professional side, where we communicated with the
+> Hitachi Energy team members. It was interesting to see where the Polish work
+> culture differed from the American culture and where there was an overlap. I
+> think our teams were able to use essential pieces from both sides to create an
+> effective workflow.
 
 The Polish view by Monika Dąbrowska, a participant in the technical writing
 postgraduate studies at Vistula non-public university:
@@ -175,14 +182,16 @@ enjoyed being a part of it.
 
 In 2024, District C returned to Hitachi Energy. This time, it was led by
 Karolina Harazim, our Internal Communications Senior Specialist, and supported
-by the Tech Writing Team.
+by the Technical Writing Team.
+
+## Prospects
 
 Something tells me this wasn't the last time Hitachi Energy collaborated with
 the University of North Carolina Wilmington. Until the next time!
 
-## More details about District C
-Something tells me this wasn't the last time Hitachi Energy collaborated with
-the University of North Carolina Wilmington. Until the next time!
+## Additional information about District C
+
+The District C program at UNCW (English Studies) aims to introduce students to
 diverse career paths and opportunities while providing valuable real-world
 experience collaborating with international companies. As an English professor
 and a certified District C coach, Dr. Lance Cummings has been instrumental in
