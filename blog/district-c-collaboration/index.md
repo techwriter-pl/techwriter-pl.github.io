@@ -17,6 +17,7 @@ District C, a project run by the University of North Carolina Wilmington (UNCW)
 to inspire the next generation of energy professionals.
 
 <!--truncate-->
+## Introduction
 
 District C lets students explore a real-life company's business operations. They
 learn about the unique aspects of an industry hands-on. In the end, students
@@ -27,6 +28,8 @@ told by Andrzej, on behalf of the Technical Writing Team.
 
 ![](images/students.png) **Participants brainstorming over Zoom.**
 
+## Background information
+
 Our Technical Writing Team consisted of four people, out of which two were new
 joiners. Each of us had a different set of experiences and knowledge to share.
 It was in our best interest to think about how to collaborate better and align
@@ -36,6 +39,8 @@ The American and Polish students participating in the project could interview
 the Technical Writing Team about our team's role at Hitachi Energy. Students
 used design thinking principles to examine our work environment, aiming to
 analyze, find opportunities, gather suggestions, and present them.
+
+## Knowledge sharing
 
 We shared our experiences that gave the students an idea of what makes technical
 writing rewarding and challenging:
@@ -48,7 +53,7 @@ writing rewarding and challenging:
 ![](images/soap_box.jpg) **Lance, Quinn, and Andrzej telling a story about the
 project at the soap! content conference in June 2023.**
 
-## How it was done
+## Project execution
 
 First, there were two rounds of Zoom meetings where information was shared.
 
@@ -186,7 +191,7 @@ by the Technical Writing Team.
 
 ## Prospects
 
-Something tells me this wasn't the last time Hitachi Energy collaborated with
+Something tells us this wasn't the last time Hitachi Energy collaborated with
 the University of North Carolina Wilmington. Until the next time!
 
 ## Additional information about District C
@@ -201,6 +206,6 @@ Poland.
 For more information about the program, visit the
 [official District C website](https://www.districtc.co/).
 
-That is all we have prepared for you. Would you be interested in participating
+Would you be interested in participating
 in a similar initiative? If so, please get in touch with
 [Dr. Lance Cummings](https://www.linkedin.com/in/lance-cummings-phd/).
