@@ -118,7 +118,7 @@ Other recommendations included:
   Writers and the Dev team
 - Establishing a more formalized review process
 
-## The take aways
+## The takeaways
 
 Though we have not used every recommendation, we gained a clearer picture of our
 needs and possibilities. The challenge allowed for the analysis of how we
@@ -184,13 +184,11 @@ burdened with presumptions. We wish you all the best!
 And thank you, Dr. Cummings, for creating such a fruitful initiative — we really
 enjoyed being a part of it.
 
-## The 2024 Edition
+## The 2024 edition and the prospects
 
 In 2024, District C returned to Hitachi Energy. This time, it was led by
 Karolina Harazim, our Internal Communications Senior Specialist, and supported
 by the Technical Writing Team.
-
-## Prospects
 
 Something tells us this wasn't the last time Hitachi Energy collaborated with
 the University of North Carolina Wilmington. Until the next time!
