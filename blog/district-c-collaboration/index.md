@@ -3,18 +3,27 @@ title:
   'Student insights - the Hitachi Energy and District C technical writing
   initiative'
 authors: niewiarowski
-date: '2024-10-17'
+date: '2024-11-14'
 tags:
   - 'dobre-praktyki'
   - 'warsztat'
-  - 'praktyki'
+  - 'edukacja'
   - 'articles-in-english'
 coverImage: 'group_photo.jpg'
 ---
 
-In 2023, the Technical Writing Team at Hitachi Energy in Kraków participated in
-District C, a project run by the University of North Carolina Wilmington (UNCW)
-to inspire the next generation of energy professionals.
+In 2023, the Technical Writing Team at
+[Hitachi Energy](https://www.hitachienergy.com/pl/pl/about-us/company-profile/centrum-technologiczne)
+in Kraków participated in [District C](https://www.districtc.co/), a project run
+by the
+[University of North Carolina Wilmington](https://www.linkedin.com/school/uncw/)
+(UNCW) to inspire the next generation of energy professionals. This project was
+a perfect storm of teamwork, where the Hitachi Energy employees gave the
+students the glimpses of the day-to-day experiences of documentation developers.
+The collaboration provided valuable insights into technical writing,
+cross-cultural teamwork, and continuous improvement, which makes this story a
+compelling read for those interested in education, design thinking, or
+professional development.
 
 <!--truncate-->
 
@@ -29,19 +38,26 @@ told by Andrzej, on behalf of the Technical Writing Team.
 
 ![](images/students.png) **Participants brainstorming over Zoom.**
 
-## Background information
+## The participants
 
 In 2023, our Technical Writing Team consisted of four people, out of which two
 were new joiners. Each of us had a different set of experiences and knowledge to
 share. It was in our best interest to think about how to collaborate better and
-align our efforts.
+align our efforts.<br></br> We were happy to exchange thoughts with a group of
+American students of the English Studies at the
+[UNCW](https://www.linkedin.com/school/uncw/) and the Polish post-graduate
+students taking a technical writing course at the
+[Vistula](https://vistula.edu.pl/kierunki-studiow/komunikacja-techniczna)
+non-public university.<br></br> The students participating in the project could
+interview the Technical Writing Team about our team's role at Hitachi Energy.
+Students used design thinking principles to examine our work environment, aiming
+to analyze, find opportunities, gather suggestions, and present them. All of
+that happened under the watchful eye of
+[Dr. Lance Cummings](https://www.linkedin.com/in/lance-cummings-phd/), an
+English professor who specializes in applying AI in the realm of writing. He was
+the originator of this unusual project.
 
-The American and Polish students participating in the project could interview
-the Technical Writing Team about our team's role at Hitachi Energy. Students
-used design thinking principles to examine our work environment, aiming to
-analyze, find opportunities, gather suggestions, and present them.
-
-## Knowledge sharing
+## Intricacies of technical writing
 
 We shared our experiences that gave the students an idea of what makes technical
 writing rewarding and challenging:
@@ -100,7 +116,7 @@ Hitachi Energy Team offered practical feedback that was rooted in business
 operations, experience, and practice.
 
 Students focused mainly on the nature of the interactions between the Technical
-Writers and the Subject Matter Experts (SME).
+Writers and the Subject Matter Experts (SMEs).
 
 They then explored questions, such as: "What is the most efficient way to get
 insights from an SME and build product knowledge?" and "Are multiple team
@@ -174,7 +190,26 @@ non-public university:
 > found power in our variety, creativity, exchanging experiences, and
 > understanding one another.
 
-## Kudos
+The Technical Writing Team was happy to meet and get to know the US participants
+during their visit to the Kraków office and at the soap! content conference,
+where we also met some of the Polish students. After the intense cooperation it
+was fun being able to bond during that event.
+
+## Conclusion
+
+The collaboration between Hitachi Energy and District C was a truly enlightening
+experience. Students gained a deeper understanding of the technical writing
+profession and the complexities of the energy sector. They provided valuable
+recommendations to improve collaboration between Technical Writers and SMEs,
+such as conducting dedicated workshops and using short videos for knowledge
+distribution. <br></br>The project also highlighted the benefits of
+cross-cultural collaboration, with both American and Polish participants gaining
+insights into different work cultures and communication styles. <br></br>The
+Hitachi Energy Team benefited from the fresh perspectives and practical
+solutions provided by the students, emphasizing the importance of continuous
+improvement. The ongoing impact of the collaboration is evident in the continued
+use of some recommendations, such as using Microsoft Loop to engage multiple
+SMEs quickly.
 
 We are grateful to the students willing to listen to our stories and support us,
 the practitioners of the obscure art of tech writing. One can always count on
@@ -184,11 +219,12 @@ burdened with presumptions. We wish you all the best!
 And thank you, Dr. Cummings, for creating such a fruitful initiative — we really
 enjoyed being a part of it.
 
-## The 2024 edition and the prospects
+## The 2024 edition and future prospects
 
 In 2024, District C returned to Hitachi Energy. This time, it was led by
-Karolina Harazim, our Internal Communications Senior Specialist, and supported
-by the Technical Writing Team.
+[Karolina Harazim](https://www.linkedin.com/in/karolina-harazim-she-her/), our
+Internal Communications Senior Specialist, and supported by the Technical
+Writing Team.
 
 Something tells us this wasn't the last time Hitachi Energy collaborated with
 the University of North Carolina Wilmington. Until the next time!
