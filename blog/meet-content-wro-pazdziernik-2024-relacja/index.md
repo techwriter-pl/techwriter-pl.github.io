@@ -21,7 +21,7 @@ Tym razem jednak temat był niezwykle praktyczny i śmiało można powiedzieć, 
 
 Nasza prelegentka [Ania Józala](https://www.linkedin.com/in/anna-j%C3%B3zala-5008a453/) z wielkim wdziękiem zaprezentowała słuchaczom przegląd najbardziej efektywnych form organizacji i pracy. 
 
-Ania wyszła od tezy, iż pomimo, że podstawowym biznesem każdego pisarza (technicznego również) jest pisanie, to mamy jednocześnie ogrom zadań nie związanych z pisaniem. Przykłady? Tworzenie i aktualizowanie zadań w Jirze, spotkania z zespołem, powiadomienia ze Slack’a czy Teams’ów, które domagają się naszej uwagi już teraz - można je mnożyć!
+Ania wyszła od tezy, iż pomimo, że podstawowym biznesem każdego pisarza (technicznego również) jest pisanie, to mamy jednocześnie ogrom zadań nie związanych z pisaniem. Przykłady? Tworzenie i aktualizowanie zadań w Jirze, spotkania z zespołem, powiadomienia ze Slacka czy Teamsów, które domagają się naszej uwagi już teraz - można je mnożyć!
 
 ## Odzyskaj kontrolę nad wydarzeniami
 
