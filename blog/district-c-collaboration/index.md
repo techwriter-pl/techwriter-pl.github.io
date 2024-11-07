@@ -43,16 +43,19 @@ told by Andrzej, on behalf of the Technical Writing Team.
 In 2023, our Technical Writing Team consisted of four people, out of which two
 were new joiners. Each of us had a different set of experiences and knowledge to
 share. It was in our best interest to think about how to collaborate better and
-align our efforts.<br></br> We were happy to exchange thoughts with a group of
-American students of the English Studies at the
-[UNCW](https://www.linkedin.com/school/uncw/) and the Polish post-graduate
-students taking a technical writing course at the
+align our efforts.
+
+We were happy to exchange thoughts with a group of American students of the
+English Studies at the [UNCW](https://www.linkedin.com/school/uncw/) and the
+Polish post-graduate students taking a technical writing course at the
 [Vistula](https://vistula.edu.pl/kierunki-studiow/komunikacja-techniczna)
-non-public university.<br></br> The students participating in the project could
-interview the Technical Writing Team about our team's role at Hitachi Energy.
-Students used design thinking principles to examine our work environment, aiming
-to analyze, find opportunities, gather suggestions, and present them. All of
-that happened under the watchful eye of
+non-public university.
+They used design thinking principles to examine our work environment, aiming
+The students participating in the project could interview the Technical Writing
+Team about our team's role at Hitachi Energy. Students used design thinking
+principles to examine our work environment, aiming to analyze, find
+opportunities, gather suggestions, and present them. All of that happened under
+the watchful eye of
 [Dr. Lance Cummings](https://www.linkedin.com/in/lance-cummings-phd/), an
 English professor who specializes in applying AI in the realm of writing. He was
 the originator of this unusual project.
@@ -102,10 +105,10 @@ presented during the final **pitch meeting** held over Zoom.
 
 ![](images/hitachi_crew.png)
 
-(**Pitch meeting** is a presentation where an individual or a team presents a
+**Pitch meeting** is a presentation where an individual or a team presents a
 business idea or concept to potential investors, stakeholders, or clients to
 secure funding, support, or interest in the project. The presentation usually
-includes an overview of the product or service and the proposed solution).
+includes an overview of the product or service and the proposed solution.
 
 ## Recommendations
 
@@ -167,12 +170,13 @@ The American view by
 > the forefront. If we had not practiced effective communication, we would not
 > have successfully conveyed some implied thoughts from our American point of
 > view. This foundation helped us understand the importance of creating a strong
-> team bond and interpersonal practices.<br></br><br></br> I also enjoyed
-> experiencing the program's professional side, where we communicated with the
-> Hitachi Energy team members. It was interesting to see where the Polish work
-> culture differed from the American culture and where there was an overlap. I
-> think our teams were able to use essential pieces from both sides to create an
-> effective workflow.
+> team bond and interpersonal practices.
+
+> I also enjoyed experiencing the program's professional side, where we
+> communicated with the Hitachi Energy team members. It was interesting to see
+> where the Polish work culture differed from the American culture and where
+> there was an overlap. I think our teams were able to use essential pieces from
+> both sides to create an effective workflow.
 
 We also received insights from the Polish perspective, provided by
 [Monika Dąbrowska](https://www.linkedin.com/in/monika-dabrowska1/), a
@@ -183,12 +187,13 @@ non-public university:
 > What I particularly liked about District C was that we could exchange our
 > experiences regarding learning and creating projects. The Polish education
 > system and culture lead to a general mindset somewhat contrasting to that of
-> American students.<br></br><br></br> Also, the American view of the Poles is
-> far from what we showed during the project. Similarly, the Poles also have
-> certain misconceptions about the Americans. These assumptions and
-> presuppositions were discussed and challenged during our cooperation, and we
-> found power in our variety, creativity, exchanging experiences, and
-> understanding one another.
+> American students.
+
+> Also, the American view of the Poles is far from what we showed during the
+> project. Similarly, the Poles also have certain misconceptions about the
+> Americans. These assumptions and presuppositions were discussed and challenged
+> during our cooperation, and we found power in our variety, creativity,
+> exchanging experiences, and understanding one another.
 
 The Technical Writing Team was happy to meet and get to know the US participants
 during their visit to the Kraków office and at the soap! content conference,
@@ -202,10 +207,13 @@ experience. Students gained a deeper understanding of the technical writing
 profession and the complexities of the energy sector. They provided valuable
 recommendations to improve collaboration between Technical Writers and SMEs,
 such as conducting dedicated workshops and using short videos for knowledge
-distribution. <br></br>The project also highlighted the benefits of
-cross-cultural collaboration, with both American and Polish participants gaining
-insights into different work cultures and communication styles. <br></br>The
-Hitachi Energy Team benefited from the fresh perspectives and practical
+distribution.
+
+The project also highlighted the benefits of cross-cultural collaboration, with
+both American and Polish participants gaining insights into different work
+cultures and communication styles.
+
+The Hitachi Energy Team benefited from the fresh perspectives and practical
 solutions provided by the students, emphasizing the importance of continuous
 improvement. The ongoing impact of the collaboration is evident in the continued
 use of some recommendations, such as using Microsoft Loop to engage multiple
