@@ -249,6 +249,6 @@ Poland.
 For more information about the program, visit the
 [official District C website](https://www.districtc.co/).
 
-Would you be interested in participating in a similar initiative? If so, please
+Would you be interested in participating in a similar initiative? If so, 
 get in touch with
 [Dr. Lance Cummings](https://www.linkedin.com/in/lance-cummings-phd/).
