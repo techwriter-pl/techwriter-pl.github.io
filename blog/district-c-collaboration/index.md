@@ -50,13 +50,11 @@ We were happy to exchange thoughts with a group of American students of the
 English Studies at the [UNCW](https://www.linkedin.com/school/uncw/) and the
 Polish post-graduate students taking a technical writing course at the
 [Vistula](https://vistula.edu.pl/kierunki-studiow/komunikacja-techniczna)
-non-public university.
-They used design thinking principles to examine our work environment, aiming
-The students participating in the project could interview the Technical Writing
-Team about our team's role at Hitachi Energy. Students used design thinking
-principles to examine our work environment, aiming to analyze, find
-opportunities, gather suggestions, and present them. All of that happened under
-the watchful eye of
+non-public university. The students participating in the project could interview
+the Technical Writing Team about our team's role at Hitachi Energy. They used
+design thinking principles to examine our work environment, aiming to analyze,
+find opportunities, gather suggestions, and present them. All of that happened
+under the watchful eye of
 [Dr. Lance Cummings](https://www.linkedin.com/in/lance-cummings-phd/), an
 English professor who specializes in applying AI in the realm of writing. He was
 the originator of this unusual project.
@@ -250,6 +248,6 @@ Poland.
 For more information about the program, visit the
 [official District C website](https://www.districtc.co/).
 
-Would you be interested in participating in a similar initiative? If so, 
-get in touch with
+Would you be interested in participating in a similar initiative? If so, get in
+touch with
 [Dr. Lance Cummings](https://www.linkedin.com/in/lance-cummings-phd/).
