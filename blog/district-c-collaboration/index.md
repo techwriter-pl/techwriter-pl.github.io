@@ -102,7 +102,7 @@ like. They gathered input, applied design thinking principles, identified
 opportunities for growth, and suggested sound solutions, which were then
 presented during the final **pitch meeting** held over Zoom.
 
-![](images/hitachi_crew.png)
+![](images/hitachi_crew.png)**Proud contributors of the District C initiative.**
 
 **Pitch meeting** is a presentation where an individual or a team presents a
 business idea or concept to potential investors, stakeholders, or clients to
