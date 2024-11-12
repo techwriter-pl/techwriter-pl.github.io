@@ -4,7 +4,7 @@ authors: mrozek
 date: '2024-02-04'
 tags:
   - 'visibility'
-  - 'dzień z życia'
+  - 'dzień-z-życia'
 coverImage: 'shadow.jpg' 
 ---
 

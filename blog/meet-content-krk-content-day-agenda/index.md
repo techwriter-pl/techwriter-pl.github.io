@@ -5,7 +5,7 @@ date: '2024-05-31'
 tags:
   - 'meetcontent'
   - 'spolecznosc'
-  - 'meetups'
+  - 'meetup'
 coverImage: 'krk-content-day.png'
 ---
 

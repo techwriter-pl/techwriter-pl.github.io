@@ -4,9 +4,9 @@ authors: mrozek
 date: '2024-06-16'
 tags:
   - 'meetup'
-  - 'visual design'
-  - 'grafika produktowa'
-  - 'ilustracje techniczne'
+  - 'visual-design'
+  - 'grafika-produktowa'
+  - 'ilustracje-techniczne'
 coverImage: '28MeetContentWRO.png'
 ---
 
