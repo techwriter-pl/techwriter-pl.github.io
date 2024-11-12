@@ -9,6 +9,7 @@ tags:
   - 'warsztat'
   - 'edukacja'
   - 'articles-in-english'
+  - 'design-thinking'
 coverImage: 'group_photo.jpg'
 ---
 
