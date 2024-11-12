@@ -3,7 +3,7 @@ title:
   'Student insights - the Hitachi Energy and District C technical writing
   initiative'
 authors: niewiarowski
-date: '2024-11-14'
+date: '2024-11-12'
 tags:
   - 'dobre-praktyki'
   - 'warsztat'
@@ -41,14 +41,14 @@ told by Andrzej, on behalf of the Technical Writing Team.
 
 ## The participants
 
-In 2023, our Technical Writing Team consisted of four people, out of which two
-were new joiners. Each of us had a different set of experiences and knowledge to
+In 2023, our Technical Writing Team consisted of four people, two of whom were
+new joiners. Each of us had a different set of experiences and knowledge to
 share. It was in our best interest to think about how to collaborate better and
 align our efforts.
 
-We were happy to exchange thoughts with a group of American students of the
-English Studies at the [UNCW](https://www.linkedin.com/school/uncw/) and the
-Polish post-graduate students taking a technical writing course at the
+We were happy to exchange thoughts with a group of American students of English
+Studies at [UNCW](https://www.linkedin.com/school/uncw/) and the Polish
+post-graduate students taking a technical writing course at the
 [Vistula](https://vistula.edu.pl/kierunki-studiow/komunikacja-techniczna)
 non-public university. The students participating in the project could interview
 the Technical Writing Team about our team's role at Hitachi Energy. They used
@@ -120,7 +120,7 @@ operations, experience, and practice.
 Students focused mainly on the nature of the interactions between the Technical
 Writers and the Subject Matter Experts (SMEs).
 
-They then explored questions, such as: "What is the most efficient way to get
+They then explored questions such as: "What is the most efficient way to get
 insights from an SME and build product knowledge?" and "Are multiple team
 members often asked the same questions?".
 
@@ -141,7 +141,7 @@ Other recommendations included:
 Though we have not used every recommendation, we gained a clearer picture of our
 needs and possibilities. The challenge allowed for the analysis of how we
 operate on a daily basis. It emphasized the strategic and business objectives
-that are key to the effectiveness of the processes we run in Kraków and for the
+that are key to the effectiveness of the processes we run in Kraków and the
 global organization.
 
 As part of continuous improvement, we regularly reevaluate our approach to
@@ -185,7 +185,7 @@ non-public university:
 
 > What I particularly liked about District C was that we could exchange our
 > experiences regarding learning and creating projects. The Polish education
-> system and culture lead to a general mindset somewhat contrasting to that of
+> system and culture lead to a general mindset somewhat contrasting that of
 > American students.
 
 > Also, the American view of the Poles is far from what we showed during the
@@ -196,8 +196,8 @@ non-public university:
 
 The Technical Writing Team was happy to meet and get to know the US participants
 during their visit to the Kraków office and at the soap! content conference,
-where we also met some of the Polish students. After the intense cooperation it
-was fun being able to bond during that event.
+where we also met some of the Polish students. After the intense cooperation,
+bonding during that event was fun.
 
 ## Conclusion
 
@@ -209,8 +209,8 @@ such as conducting dedicated workshops and using short videos for knowledge
 distribution.
 
 The project also highlighted the benefits of cross-cultural collaboration, with
-both American and Polish participants gaining insights into different work
-cultures and communication styles.
+American and Polish participants gaining insights into different work cultures
+and communication styles.
 
 The Hitachi Energy Team benefited from the fresh perspectives and practical
 solutions provided by the students, emphasizing the importance of continuous
@@ -226,7 +226,7 @@ burdened with presumptions. We wish you all the best!
 And thank you, Dr. Cummings, for creating such a fruitful initiative — we really
 enjoyed being a part of it.
 
-## The 2024 edition and future prospects
+## The 2024 edition and prospects
 
 In 2024, District C returned to Hitachi Energy. This time, it was led by
 [Karolina Harazim](https://www.linkedin.com/in/karolina-harazim-she-her/), our
