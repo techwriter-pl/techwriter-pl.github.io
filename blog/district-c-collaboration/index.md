@@ -3,7 +3,7 @@ title:
   'Student insights - the Hitachi Energy and District C technical writing
   initiative'
 authors: niewiarowski
-date: '2024-11-12'
+date: '2024-11-13'
 tags:
   - 'dobre-praktyki'
   - 'warsztat'
