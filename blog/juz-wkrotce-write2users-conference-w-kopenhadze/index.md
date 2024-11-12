@@ -4,11 +4,11 @@ authors: kuba
 date: '2017-10-27'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'edukacja'
   - 'konferencje'
   - 'lokalizacja'
-  - 'spolecznosc'
+  - 'społeczność'
   - 'szkolenia'
   - 'treningi'
 coverImage: 'linkedin_W2U_Conference2017_2-e1507660091661.jpg'

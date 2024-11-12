@@ -3,13 +3,13 @@ title: 'Darmowe narzędzia do sprawdzania tekstu'
 authors: mojk
 date: '2017-09-19'
 tags:
-  - 'narzedzia'
+  - 'narzędzia'
   - 'warsztat'
   - 'instrukcje'
-  - 'jezyk'
+  - 'język'
   - 'manuale'
   - 'on-line-help'
-  - 'pomoc-uzytkownika'
+  - 'pomoc-użytkownika'
 coverImage: 'man-29749_640.png'
 ---
 

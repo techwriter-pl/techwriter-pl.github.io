@@ -4,12 +4,12 @@ authors: niewiarowski
 date: '2022-07-29'
 tags:
   - 'biblioteczka-techwritera'
-  - 'z-przymruzeniem-oka'
+  - 'z-przymrużeniem-oka'
   - 'edukacja'
   - 'kariera'
   - 'konferencje'
   - 'praca'
-  - 'spolecznosc'
+  - 'społeczność'
 ---
 
 Rozważasz udział w jednej z konferencji tech writingowych: "Write The Docs" i

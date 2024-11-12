@@ -7,7 +7,7 @@ tags:
   - 'z-kraju'
   - 'edukacja'
   - 'kariera'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'meetup.png'
 ---
 

@@ -3,7 +3,7 @@ title: 'Help and Manual - opis narzędzia'
 authors: admin
 date: '2014-01-21'
 tags:
-  - 'narzedzia'
+  - 'narzędzia'
   - 'warsztat'
   - 'manuale'
   - 'on-line-help'

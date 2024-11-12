@@ -10,7 +10,7 @@ tags:
   - 'kariera'
   - 'podcast'
   - 'praca'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'porozmawiajmy_o_it.png'
 ---
 

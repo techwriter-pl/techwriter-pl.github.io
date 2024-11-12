@@ -4,9 +4,9 @@ authors: szablowska
 date: '2014-03-27'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'webinarium'
-  - 'zarzadzanie-trescia'
+  - 'zarządzanie-treścią'
 coverImage: 'attractive_content.jpg'
 ---
 

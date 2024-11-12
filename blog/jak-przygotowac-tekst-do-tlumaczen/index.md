@@ -4,12 +4,12 @@ authors: toporek
 date: '2021-09-02'
 tags:
   - 'dobre-praktyki'
-  - 'narzedzia'
+  - 'narzędzia'
   - 'przyklady'
   - 'dokumentacja'
   - 'lokalizacja'
   - 'tlumaczenia'
-  - 'uzytecznosc'
+  - 'użyteczność'
 coverImage: '2.jpg'
 ---
 

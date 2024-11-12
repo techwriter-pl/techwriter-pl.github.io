@@ -7,10 +7,10 @@ tags:
   - 'warsztat'
   - 'manuale'
   - 'on-line-help'
-  - 'pomoc-uzytkownika'
+  - 'pomoc-użytkownika'
   - 'praca'
   - 'technologie'
-  - 'urzadzenia-mobilne'
+  - 'urządzenia-mobilne'
 coverImage: 'MobileHelp.jpg'
 ---
 

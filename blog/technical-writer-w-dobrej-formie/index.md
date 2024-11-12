@@ -6,7 +6,7 @@ tags:
   - 'dobre-praktyki'
   - 'warsztat'
   - 'edukacja'
-  - 'jezyk'
+  - 'język'
 coverImage: 'rece.jpg'
 ---
 

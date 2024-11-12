@@ -5,7 +5,7 @@ date: '2015-09-01'
 tags:
   - 'warsztat'
   - 'wywiady'
-  - 'spolecznosc'
+  - 'społeczność'
   - 'wywiad'
 coverImage: 'wywiad.jpg'
 ---

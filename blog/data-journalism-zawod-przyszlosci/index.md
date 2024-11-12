@@ -5,7 +5,7 @@ date: '2014-09-30'
 tags:
   - 'news'
   - 'z-kraju'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'infografiki'
   - 'kariera'
 coverImage: 'data.png'

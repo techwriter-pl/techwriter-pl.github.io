@@ -5,7 +5,7 @@ date: '2017-01-05'
 tags:
   - 'news'
   - 'z-kraju'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'konferencje'
 coverImage: 'international-conference-1597531_640-e1483372091957.jpg'
 ---

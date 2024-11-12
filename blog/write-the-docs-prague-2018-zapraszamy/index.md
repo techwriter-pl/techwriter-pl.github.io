@@ -4,12 +4,12 @@ authors: agnieszka
 date: '2018-06-26'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'edukacja'
   - 'kariera'
   - 'konferencje'
   - 'praca'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'wtd.png'
 ---
 

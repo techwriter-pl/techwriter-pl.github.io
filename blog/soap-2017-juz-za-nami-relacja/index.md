@@ -7,7 +7,7 @@ tags:
   - 'z-kraju'
   - 'edukacja'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
   - 'treningi'
 coverImage: 'FullSizeRender-2.jpg'
 ---

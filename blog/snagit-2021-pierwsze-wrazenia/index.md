@@ -3,10 +3,10 @@ title: 'Snagit 2021 - pierwsze wrażenia'
 authors: niewiarowski
 date: '2020-11-17'
 tags:
-  - 'narzedzia'
+  - 'narzędzia'
   - 'warsztat'
   - 'grafika'
-  - 'narzedzia'
+  - 'narzędzia'
   - 'praktyki'
 coverImage: 'snagit-before-e1605530919587.png'
 ---

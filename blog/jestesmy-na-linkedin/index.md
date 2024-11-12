@@ -5,7 +5,7 @@ date: '2020-01-15'
 tags:
   - 'news'
   - 'z-kraju'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'LinkedIn.jpg'
 ---
 

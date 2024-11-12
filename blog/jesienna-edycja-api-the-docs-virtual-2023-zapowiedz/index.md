@@ -4,13 +4,13 @@ authors: agnieszka
 date: '2023-08-18'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'api'
   - 'dokumentacja'
-  - 'dostepnosc'
+  - 'dostępność'
   - 'konferencje'
   - 'praktyki'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'api_the_docs_2023.png'
 ---
 

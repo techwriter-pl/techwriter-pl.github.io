@@ -5,8 +5,8 @@ date: '2015-03-18'
 tags:
   - 'biblioteczka-techwritera'
   - 'warsztat'
-  - 'jezyk'
-  - 'spolecznosc'
+  - 'język'
+  - 'społeczność'
   - 'tlumaczenia'
 coverImage: 'blogi.jpg'
 ---

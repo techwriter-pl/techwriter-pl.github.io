@@ -6,7 +6,7 @@ tags:
   - 'news'
   - 'z-kraju'
   - 'meetcontent'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'upload_0483.png'
 ---
 

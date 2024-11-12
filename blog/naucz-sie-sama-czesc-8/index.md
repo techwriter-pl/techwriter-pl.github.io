@@ -10,7 +10,7 @@ tags:
   - 'edukacja'
   - 'instrukcje'
   - 'kariera'
-  - 'pomoc-uzytkownika'
+  - 'pomoc-użytkownika'
 coverImage: 'statue-1558457_640.jpg'
 ---
 

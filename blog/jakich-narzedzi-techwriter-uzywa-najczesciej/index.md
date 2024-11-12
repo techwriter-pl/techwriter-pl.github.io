@@ -4,9 +4,9 @@ authors: admin
 date: '2014-09-16'
 tags:
   - 'news'
-  - 'narzedzia'
+  - 'narzędzia'
   - 'warsztat'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'technologie'
 coverImage: 'narzedzia.jpg'
 ---

@@ -7,8 +7,8 @@ tags:
   - 'warsztat'
   - 'instrukcje'
   - 'manuale'
-  - 'pomoc-uzytkownika'
-  - 'uzytecznosc'
+  - 'pomoc-użytkownika'
+  - 'użyteczność'
 coverImage: 'minimalism-241876_640-e1407077037789.png'
 ---
 

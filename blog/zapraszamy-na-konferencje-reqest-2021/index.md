@@ -7,7 +7,7 @@ tags:
   - 'z-kraju'
   - 'kariera'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
   - 'technologie'
 coverImage: 'request-9-e1613722678451.png'
 ---

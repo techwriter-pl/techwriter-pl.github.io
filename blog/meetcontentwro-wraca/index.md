@@ -9,7 +9,7 @@ tags:
   - 'kariera'
   - 'meetcontent'
   - 'praca'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'pizza-1.png'
 ---
 

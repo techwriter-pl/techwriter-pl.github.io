@@ -6,7 +6,7 @@ tags:
   - 'news'
   - 'z-kraju'
   - 'meetcontent'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'oscar-keys-58399-e1493737693921.jpg'
 ---
 

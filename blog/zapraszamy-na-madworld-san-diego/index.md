@@ -4,11 +4,11 @@ authors: agnieszka
 date: '2019-02-26'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'edukacja'
   - 'kariera'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'Untitled-e1551095794387.jpg'
 ---
 

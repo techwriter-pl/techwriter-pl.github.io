@@ -4,12 +4,12 @@ authors: agnieszka
 date: '2021-06-04'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'dokumentacja'
   - 'edukacja'
   - 'kariera'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'Evolution_of_TC_2021.png'
 ---
 

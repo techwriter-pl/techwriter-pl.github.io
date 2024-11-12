@@ -6,7 +6,7 @@ tags:
   - 'dobre-praktyki'
   - 'warsztat'
   - 'infografiki'
-  - 'jezyk'
+  - 'język'
 coverImage: 'simplicity.gif'
 ---
 

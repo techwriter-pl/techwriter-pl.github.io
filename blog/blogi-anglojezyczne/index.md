@@ -7,7 +7,7 @@ tags:
   - 'warsztat'
   - 'edukacja'
   - 'literatura'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'rss_blog.jpg'
 ---
 

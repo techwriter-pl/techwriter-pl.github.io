@@ -7,7 +7,7 @@ tags:
   - 'przyklady'
   - 'warsztat'
   - 'instrukcje'
-  - 'jezyk'
+  - 'język'
   - 'manuale'
   - 'praca'
 coverImage: 'StyleGuide.png'

@@ -3,12 +3,12 @@ title: '“Zrzucanie” ekranu - opis narzędzi'
 authors: admin
 date: '2014-02-10'
 tags:
-  - 'narzedzia'
+  - 'narzędzia'
   - 'warsztat'
   - 'grafika'
   - 'instrukcje'
   - 'on-line-help'
-  - 'pomoc-uzytkownika'
+  - 'pomoc-użytkownika'
 coverImage: 'Screenshot.jpeg'
 ---
 

@@ -4,9 +4,9 @@ authors: admin
 date: '2014-09-26'
 tags:
   - 'warsztat'
-  - 'z-przymruzeniem-oka'
+  - 'z-przymrużeniem-oka'
   - 'humor'
-  - 'jezyk'
+  - 'język'
 coverImage: 'kontent.jpg'
 ---
 

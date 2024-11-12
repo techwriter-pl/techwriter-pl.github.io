@@ -4,9 +4,9 @@ authors: admin
 date: '2013-12-12'
 tags:
   - 'news'
-  - 'z-przymruzeniem-oka'
+  - 'z-przymrużeniem-oka'
   - 'humor'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'Facebook.jpg'
 ---
 

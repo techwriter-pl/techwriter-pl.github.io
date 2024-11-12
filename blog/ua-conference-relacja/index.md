@@ -8,7 +8,7 @@ tags:
   - 'kariera'
   - 'konferencje'
   - 'lokalizacja'
-  - 'urzadzenia-mobilne'
+  - 'urządzenia-mobilne'
 coverImage: 'UA_Conference.png'
 ---
 

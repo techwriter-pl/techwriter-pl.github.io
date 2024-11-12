@@ -3,13 +3,13 @@ title: 'Alternatywy dla Grammarly'
 authors: mojk
 date: '2018-01-16'
 tags:
-  - 'narzedzia'
+  - 'narzędzia'
   - 'warsztat'
   - 'instrukcje'
-  - 'jezyk'
+  - 'język'
   - 'manuale'
   - 'on-line-help'
-  - 'pomoc-uzytkownika'
+  - 'pomoc-użytkownika'
 coverImage: 'Grammarlycccheck.png'
 ---
 

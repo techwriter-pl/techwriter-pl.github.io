@@ -6,7 +6,7 @@ tags:
   - 'news'
   - 'z-kraju'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'Tekom_Warsaw.jpg'
 ---
 

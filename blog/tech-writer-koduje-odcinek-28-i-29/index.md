@@ -4,7 +4,7 @@ authors: agnieszka
 date: '2021-04-22'
 tags:
   - 'dobre-praktyki'
-  - 'narzedzia'
+  - 'narzędzia'
   - 'przyklady'
   - 'warsztat'
   - 'aplikacje'

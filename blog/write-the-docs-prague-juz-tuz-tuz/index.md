@@ -4,11 +4,11 @@ authors: agnieszka
 date: '2018-08-21'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'edukacja'
   - 'kariera'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'wtd.png'
 ---
 

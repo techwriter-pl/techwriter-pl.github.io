@@ -5,7 +5,7 @@ date: '2015-12-08'
 tags:
   - 'warsztat'
   - 'wywiady'
-  - 'spolecznosc'
+  - 'społeczność'
   - 'wywiad'
 coverImage: 'sg_motor_001a-e1448398858231.jpg'
 ---

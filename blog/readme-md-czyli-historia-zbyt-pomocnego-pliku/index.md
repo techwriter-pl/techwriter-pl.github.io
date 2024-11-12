@@ -7,7 +7,7 @@ tags:
   - 'przyklady'
   - 'warsztat'
   - 'dokumentacja'
-  - 'pomoc-uzytkownika'
+  - 'pomoc-użytkownika'
 coverImage: 'key-2323278_640.jpg'
 ---
 

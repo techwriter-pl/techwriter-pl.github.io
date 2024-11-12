@@ -4,12 +4,12 @@ authors: pensjonatus
 date: '2016-06-08'
 tags:
   - 'dobre-praktyki'
-  - 'narzedzia'
+  - 'narzędzia'
   - 'warsztat'
   - 'dita'
   - 'manuale'
   - 'on-line-help'
-  - 'pomoc-uzytkownika'
+  - 'pomoc-użytkownika'
   - 'technologie'
 coverImage: 'wszystko-o-dita-strategia.jpg'
 ---

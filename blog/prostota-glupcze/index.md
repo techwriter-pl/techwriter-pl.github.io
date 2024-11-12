@@ -7,8 +7,8 @@ tags:
   - 'warsztat'
   - 'instrukcje'
   - 'manuale'
-  - 'pomoc-uzytkownika'
-  - 'uzytecznosc'
+  - 'pomoc-użytkownika'
+  - 'użyteczność'
 coverImage: 'usability.jpg'
 ---
 

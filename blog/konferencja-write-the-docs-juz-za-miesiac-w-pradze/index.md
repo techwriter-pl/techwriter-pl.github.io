@@ -4,9 +4,9 @@ authors: admin
 date: '2017-08-04'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'WriteTheDocsPrague-e1501772951385.jpg'
 ---
 

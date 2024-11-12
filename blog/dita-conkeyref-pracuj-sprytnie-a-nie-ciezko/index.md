@@ -9,7 +9,7 @@ tags:
   - 'dita'
   - 'manuale'
   - 'on-line-help'
-  - 'pomoc-uzytkownika'
+  - 'pomoc-użytkownika'
   - 'technologie'
 coverImage: 'na-gleboka.jpg'
 ---

@@ -8,7 +8,7 @@ tags:
   - 'edukacja'
   - 'kariera'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
   - 'tlumaczenia'
 coverImage: 'Zrzut-ekranu-2019-08-18-o-23.00.37-e1566163065518.png'
 ---

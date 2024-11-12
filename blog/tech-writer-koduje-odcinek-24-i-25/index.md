@@ -4,7 +4,7 @@ authors: agnieszka
 date: '2021-02-03'
 tags:
   - 'dobre-praktyki'
-  - 'narzedzia'
+  - 'narzędzia'
   - 'przyklady'
   - 'warsztat'
   - 'api'

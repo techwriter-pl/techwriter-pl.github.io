@@ -5,7 +5,7 @@ date: '2016-10-24'
 tags:
   - 'warsztat'
   - 'wywiady'
-  - 'spolecznosc'
+  - 'społeczność'
   - 'wywiad'
 coverImage: 'microphone-1185958_640-e1476909932864.jpg'
 ---

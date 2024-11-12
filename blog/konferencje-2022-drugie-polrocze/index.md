@@ -4,11 +4,11 @@ authors: agnieszka
 date: '2022-05-24'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'kariera'
   - 'konferencje'
   - 'praca'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'Konferencje-2022_2.png'
 ---
 

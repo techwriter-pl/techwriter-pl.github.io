@@ -4,11 +4,11 @@ authors: agnieszka
 date: '2017-01-27'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'edukacja'
   - 'kariera'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'photo-bar1-946-1x-e1485466167851.jpg'
 ---
 

@@ -5,7 +5,7 @@ date: '2015-03-31'
 tags:
   - 'warsztat'
   - 'wywiady'
-  - 'spolecznosc'
+  - 'społeczność'
   - 'wywiad'
 coverImage: '1981-IBM-PC5150_a-e1425884892248.jpg'
 ---

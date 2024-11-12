@@ -5,7 +5,7 @@ date: '2014-08-08'
 tags:
   - 'dobre-praktyki'
   - 'warsztat'
-  - 'jezyk'
+  - 'język'
 coverImage: 'gramatyka.jpg'
 ---
 

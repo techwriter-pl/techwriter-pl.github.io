@@ -8,7 +8,7 @@ tags:
   - 'edukacja'
   - 'kariera'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'IMG_20180525_103253.jpg'
 ---
 

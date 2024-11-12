@@ -4,15 +4,15 @@ authors: toporek
 date: '2020-08-05'
 tags:
   - 'dobre-praktyki'
-  - 'narzedzia'
+  - 'narzędzia'
   - 'przyklady'
   - 'dokumentacja'
-  - 'dostepnosc'
+  - 'dostępność'
   - 'edukacja'
-  - 'jezyk'
-  - 'narzedzia'
+  - 'język'
+  - 'narzędzia'
   - 'praktyki'
-  - 'uzytecznosc'
+  - 'użyteczność'
 coverImage: '3753_1.jpg'
 ---
 

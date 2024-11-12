@@ -4,11 +4,11 @@ authors: kuba
 date: '2017-07-03'
 tags:
   - 'news'
-  - 'narzedzia'
+  - 'narzędzia'
   - 'warsztat'
   - 'z-kraju'
   - 'aplikacje'
-  - 'spolecznosc'
+  - 'społeczność'
   - 'technologie'
 coverImage: 'PLFUG-logo-small.jpg'
 ---

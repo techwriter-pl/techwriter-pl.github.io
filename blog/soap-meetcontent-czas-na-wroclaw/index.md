@@ -7,7 +7,7 @@ tags:
   - 'z-kraju'
   - 'edukacja'
   - 'kariera'
-  - 'spolecznosc'
+  - 'społeczność'
   - 'szkolenia'
   - 'treningi'
 coverImage: 'meet_content_wroclaw.png'

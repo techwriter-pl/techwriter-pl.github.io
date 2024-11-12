@@ -10,7 +10,7 @@ tags:
   - 'kariera'
   - 'konferencje'
   - 'meetcontent'
-  - 'spolecznosc'
+  - 'społeczność'
   - 'szkolenia'
   - 'tlumaczenia'
   - 'treningi'

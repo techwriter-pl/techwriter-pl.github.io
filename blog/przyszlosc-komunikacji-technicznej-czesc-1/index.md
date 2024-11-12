@@ -5,7 +5,7 @@ date: '2014-07-15'
 tags:
   - 'news'
   - 'z-kraju'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'kariera'
 coverImage: 'fortune-teller-378w.jpg'
 ---

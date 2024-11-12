@@ -3,15 +3,15 @@ title: 'AI i AR i ich zastosowanie w dokumentacji technicznej'
 authors: toporek
 date: '2021-06-15'
 tags:
-  - 'narzedzia'
+  - 'narzędzia'
   - 'przyklady'
   - 'warsztat'
   - 'aplikacje'
   - 'automatyzacja'
   - 'dokumentacja'
-  - 'narzedzia'
+  - 'narzędzia'
   - 'technologie'
-  - 'uzytecznosc'
+  - 'użyteczność'
 coverImage: 'AI-i-AR.png'
 ---
 

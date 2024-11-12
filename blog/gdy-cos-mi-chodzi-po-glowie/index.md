@@ -3,7 +3,7 @@ title: 'Gdy coś mi chodzi po głowie'
 authors: agnieszka
 date: '2016-01-26'
 tags:
-  - 'narzedzia'
+  - 'narzędzia'
   - 'warsztat'
   - 'aplikacje'
   - 'technologie'

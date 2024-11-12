@@ -4,7 +4,7 @@ authors: agnieszka
 date: '2020-09-09'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'api'
   - 'webinarium'
 coverImage: 'webinar.png'

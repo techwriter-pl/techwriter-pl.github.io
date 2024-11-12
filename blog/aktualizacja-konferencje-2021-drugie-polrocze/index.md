@@ -4,12 +4,12 @@ authors: agnieszka
 date: '2021-09-14'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'edukacja'
   - 'kariera'
   - 'konferencje'
   - 'praca'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'Konferencje-2021-drugie-polrocze-6.png'
 ---
 

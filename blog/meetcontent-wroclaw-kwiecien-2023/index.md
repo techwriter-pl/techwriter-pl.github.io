@@ -7,7 +7,7 @@ tags:
   - 'z-kraju'
   - 'dokumentacja'
   - 'meetcontent'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'meetcontent_kwiecien.png'
 ---
 

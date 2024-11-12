@@ -5,7 +5,7 @@ date: '2019-02-19'
 tags:
   - 'warsztat'
   - 'wywiady'
-  - 'spolecznosc'
+  - 'społeczność'
   - 'wywiad'
 coverImage: 'microphone-1172260_640.jpg'
 ---

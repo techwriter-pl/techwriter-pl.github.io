@@ -4,10 +4,10 @@ authors: agnieszka
 date: '2023-01-12'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'kariera'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'Konferencje-2023.png'
 ---
 

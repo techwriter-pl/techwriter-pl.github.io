@@ -4,12 +4,12 @@ authors: agnieszka
 date: '2022-01-10'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'edukacja'
   - 'kariera'
   - 'konferencje'
   - 'praca'
-  - 'spolecznosc'
+  - 'społeczność'
   - 'technologie'
 coverImage: 'Konferencje-2022.png'
 ---

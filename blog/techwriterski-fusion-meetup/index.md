@@ -5,7 +5,7 @@ date: '2023-09-05'
 tags:
   - 'meetup'
   - 'edukacja'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'hitachi-meetup-cover.png'
 ---
 

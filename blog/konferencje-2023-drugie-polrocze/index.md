@@ -4,11 +4,11 @@ authors: agnieszka
 date: '2023-06-01'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'kariera'
   - 'konferencje'
   - 'praca'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'Konferencje-202302.png'
 ---
 

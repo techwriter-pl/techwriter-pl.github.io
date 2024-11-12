@@ -5,10 +5,10 @@ date: '2014-09-05'
 tags:
   - 'news'
   - 'warsztat'
-  - 'z-przymruzeniem-oka'
+  - 'z-przymrużeniem-oka'
   - 'humor'
   - 'manuale'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: '220px-Ada_Lovelace_portrait.jpg'
 ---
 

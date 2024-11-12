@@ -7,7 +7,7 @@ tags:
   - 'z-kraju'
   - 'dokumentacja'
   - 'meetcontent'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'meetcontentkrk_czerwiec_2023.png'
 ---
 

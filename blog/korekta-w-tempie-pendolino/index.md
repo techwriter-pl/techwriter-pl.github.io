@@ -7,7 +7,7 @@ tags:
   - 'warsztat'
   - 'instrukcje'
   - 'manuale'
-  - 'pomoc-uzytkownika'
+  - 'pomoc-użytkownika'
   - 'praca'
   - 'procedury'
 coverImage: 'keepcalmproofread.jpg'

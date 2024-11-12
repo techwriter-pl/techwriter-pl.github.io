@@ -5,7 +5,7 @@ date: '2014-05-06'
 tags:
   - 'news'
   - 'z-kraju'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'konferencje'
 coverImage: 'konferencja2.jpg'
 ---

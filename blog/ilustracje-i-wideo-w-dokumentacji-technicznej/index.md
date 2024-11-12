@@ -10,7 +10,7 @@ tags:
   - 'warsztat'
   - 'dokumentacja'
   - 'manuale'
-  - 'uzytecznosc'
+  - 'użyteczność'
 coverImage: 'wideo-e1626374962289.jpg'
 ---
 

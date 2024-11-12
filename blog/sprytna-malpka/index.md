@@ -3,7 +3,7 @@ title: 'Sprytna małpka'
 authors: admin
 date: '2014-04-22'
 tags:
-  - 'narzedzia'
+  - 'narzędzia'
   - 'warsztat'
   - 'aplikacje'
 coverImage: 'monkeys-typing.jpg'

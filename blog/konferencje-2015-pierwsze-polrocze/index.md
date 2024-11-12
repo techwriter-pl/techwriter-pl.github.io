@@ -5,7 +5,7 @@ date: '2015-01-13'
 tags:
   - 'news'
   - 'z-kraju'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'konferencje'
 coverImage: 'meeting-83519_640.jpg'
 ---

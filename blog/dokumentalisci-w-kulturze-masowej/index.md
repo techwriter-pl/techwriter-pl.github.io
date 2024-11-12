@@ -4,7 +4,7 @@ authors: mojk
 date: '2015-04-07'
 tags:
   - 'warsztat'
-  - 'z-przymruzeniem-oka'
+  - 'z-przymrużeniem-oka'
   - 'humor'
   - 'praca'
 coverImage: 'popculture.jpeg'

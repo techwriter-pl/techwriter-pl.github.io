@@ -12,7 +12,7 @@ type PopularFilterProps = {
 const popularFilters: PopularFilterProps[] = [
   { label: 'oferty pracy', permalink: '/tags/oferty-pracy' },
   { label: 'badanie plac', permalink: '/tags/badanie-plac' },
-  { label: 'narzedzia', permalink: '/tags/narzedzia' },
+  { label: 'narzędzia', permalink: '/tags/narzedzia' },
   { label: 'konferencje', permalink: '/tags/konferencje' },
 ];
 

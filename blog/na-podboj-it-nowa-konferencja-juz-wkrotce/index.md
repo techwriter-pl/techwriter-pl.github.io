@@ -8,7 +8,7 @@ tags:
   - 'kariera'
   - 'konferencje'
   - 'praca'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'na_podboj_it.png'
 ---
 

@@ -4,9 +4,9 @@ authors: mojk
 date: '2019-04-30'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: '43895499144_9637dae8e3_k.jpg'
 ---
 

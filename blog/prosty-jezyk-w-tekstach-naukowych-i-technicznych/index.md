@@ -5,7 +5,7 @@ date: '2020-07-21'
 tags:
   - 'dobre-praktyki'
   - 'warsztat'
-  - 'jezyk'
+  - 'język'
   - 'praktyki'
 coverImage: 'prosty_jezyk.png'
 ---
