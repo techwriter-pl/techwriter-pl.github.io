@@ -3,7 +3,7 @@ title: 'BADANIE PŁAC W KOMUNIKACJI TECHNICZNEJ 2023 – WYPEŁNIJ ANKIETĘ!'
 authors: tprus
 date: '2023-10-10'
 tags:
-  - 'badanie-plac'
+  - 'badanie-płac'
   - 'praca'
   - 'ankieta'
   - 'kariera'

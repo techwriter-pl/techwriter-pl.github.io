@@ -4,7 +4,7 @@ title:
 authors: pensjonatus
 date: '2017-03-01'
 tags:
-  - 'badanie-plac'
+  - 'badanie-płac'
   - 'praca'
   - 'ankieta'
   - 'kariera'

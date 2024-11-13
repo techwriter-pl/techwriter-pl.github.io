@@ -11,7 +11,7 @@ type PopularFilterProps = {
 
 const popularFilters: PopularFilterProps[] = [
   { label: 'oferty pracy', permalink: '/tags/oferty-pracy' },
-  { label: 'badanie plac', permalink: '/tags/badanie-plac' },
+  { label: 'badanie plac', permalink: '/tags/badanie-płac' },
   { label: 'narzędzia', permalink: '/tags/narzedzia' },
   { label: 'konferencje', permalink: '/tags/konferencje' },
 ];

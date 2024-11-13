@@ -131,7 +131,7 @@ Michale, dziękujemy za wspomnienie naszego badania płac i w tym miejscu zwraca
 się z prośbą do wszystkich Czytelników - jeśli jeszcze nie wzięliście udziału w
 tegorocznym badaniu to jest jeszcze na to czas do **16 maja**. Wszelkie
 informacje znajdziecie
-[w tym poście](http://techwriter.pl/badanie-plac-w-komunikacji-technicznej-2021-wypelnij-ankiete/).
+[w tym poście](http://techwriter.pl/badanie-płac-w-komunikacji-technicznej-2021-wypelnij-ankiete/).
 
 #### Jak zostać technical writerem?
 

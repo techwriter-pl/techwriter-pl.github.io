@@ -3,7 +3,7 @@ title: 'BADANIE PŁAC W KOMUNIKACJI TECHNICZNEJ 2021 – WYPEŁNIJ ANKIETĘ!'
 authors: agnieszka
 date: '2021-04-12'
 tags:
-  - 'badanie-plac'
+  - 'badanie-płac'
   - 'praca'
   - 'ankieta'
   - 'kariera'

@@ -3,7 +3,7 @@ title: 'Wyniki badania płac w komunikacji technicznej 2018'
 authors: pensjonatus
 date: '2018-04-26'
 tags:
-  - 'badanie-plac'
+  - 'badanie-płac'
   - 'praca'
   - 'ankieta'
   - 'kariera'

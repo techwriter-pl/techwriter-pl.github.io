@@ -3,7 +3,7 @@ title: 'Badanie płac w komunikacji technicznej 2018 - wypełnij ankietę!'
 authors: pensjonatus
 date: '2018-03-01'
 tags:
-  - 'badanie-plac'
+  - 'badanie-płac'
   - 'praca'
   - 'ankieta'
   - 'kariera'
