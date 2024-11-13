@@ -5,7 +5,7 @@ date: '2024-10-23'
 tags:
   - 'news'
   - 'meetup'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'contentbytes-girlsjs.png'
 ---
 

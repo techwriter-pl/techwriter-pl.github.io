@@ -5,7 +5,7 @@ date: '2024-10-10'
 tags:
   - 'news'
   - 'meetup'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'content-bytes-logo.svg'
 ---
 Lubicie meetupy? My je wręcz uwielbiamy. Dlatego z nieukrywaną radością witamy nowego gracza na rynku spotkań dla contentowców - **Content Bytes**.  
