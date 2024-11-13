@@ -5,7 +5,7 @@ date: '2024-04-04'
 tags:
   - 'meetup'
   - 'nlu'
-  - 'smart search results'
+  - 'smart-search-results'
 coverImage: '26MeetContentWRO.png'
 ---
 

@@ -7,7 +7,7 @@ tags:
   - 'estymacja'
   - 'społeczność'
   - 'markdown'
-  - 'snippet reuse'
+  - 'snippet-reuse'
 coverImage: '27MeetContentWRO.png'
 ---
 

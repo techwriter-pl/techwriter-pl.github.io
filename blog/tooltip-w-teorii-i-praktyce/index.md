@@ -3,7 +3,7 @@ title: 'Tooltips w teorii i praktyce'
 authors: [toporek]
 date: '2024-09-25'
 tags:
-  - 'z kraju'
+  - 'z-kraju'
   - 'edukacja'
   - 'dobre-praktyki'
 coverImage: 'tooltips cover.png'
