@@ -7,6 +7,7 @@ tags:
   - 'ze-świata'
   - 'konferencje'
   - 'społeczność'
+  - 'write-the-docs'
 coverImage: 'WRITE-the-DOCS-EUROPE-2016_tw.jpg'
 ---
 

@@ -7,6 +7,7 @@ tags:
   - 'ze-świata'
   - 'konferencje'
   - 'społeczność'
+  - 'write-the-docs'
 coverImage: 'WriteTheDocsPrague-e1501772951385.jpg'
 ---
 

@@ -9,6 +9,7 @@ tags:
   - 'konferencje'
   - 'praca'
   - 'społeczność'
+  - 'write-the-docs'
 coverImage: 'wtd_2020.png'
 ---
 

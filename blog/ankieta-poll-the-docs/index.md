@@ -7,6 +7,7 @@ tags:
   - 'ze-świata'
   - 'konferencje'
   - 'społeczność'
+  - 'write-the-docs'
 coverImage: 'survey-e1474571693358.jpg'
 ---
 

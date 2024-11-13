@@ -7,6 +7,7 @@ tags:
   - 'ze-świata'
   - 'konferencje'
   - 'społeczność'
+  - 'write-the-docs'
 coverImage: 'Konferencja-Write-The-Docs-2019-e1570607083973.jpg'
 ---
 

@@ -11,6 +11,7 @@ tags:
   - 'konferencje'
   - 'praca'
   - 'społeczność'
+  - 'write-the-docs'
 coverImage: 'write_the_docs_prague_2022.png'
 ---
 

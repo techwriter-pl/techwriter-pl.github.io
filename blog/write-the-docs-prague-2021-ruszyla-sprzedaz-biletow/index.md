@@ -10,6 +10,7 @@ tags:
   - 'konferencje'
   - 'praca'
   - 'społeczność'
+  - 'write-the-docs'
 coverImage: 'W-t-D_2021.png'
 ---
 
