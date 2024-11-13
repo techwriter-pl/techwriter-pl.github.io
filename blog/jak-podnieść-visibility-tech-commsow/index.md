@@ -5,7 +5,7 @@ date: '2024-02-04'
 tags:
   - 'visibility'
   - 'dzień-z-życia'
-coverImage: 'shadow.jpg'
+coverImage: 'shadow.jpg' 
 ---
 
 Jeśli jesteś Tech Writerem wystarczająco długo, z pewnością jest dla ciebie
