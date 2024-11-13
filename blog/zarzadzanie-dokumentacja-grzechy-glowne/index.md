@@ -5,7 +5,7 @@ date: '2015-09-10'
 tags:
   - 'dobre-praktyki'
   - 'warsztat'
-  - 'zarzadzanie-trescia'
+  - 'zarządzanie-treścią'
 coverImage: 'chaos-485493_640.jpg'
 ---
 

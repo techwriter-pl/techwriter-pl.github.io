@@ -3,9 +3,9 @@ title: 'Poznajcie Stacey'
 authors: admin
 date: '2014-04-08'
 tags:
-  - 'narzedzia'
+  - 'narzędzia'
   - 'warsztat'
-  - 'zarzadzanie-trescia'
+  - 'zarządzanie-treścią'
 coverImage: 'stacey.png'
 ---
 

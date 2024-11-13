@@ -3,7 +3,7 @@ title: 'Documentor - opis narzędzia'
 authors: admin
 date: '2015-09-22'
 tags:
-  - 'narzedzia'
+  - 'narzędzia'
   - 'warsztat'
   - 'aplikacje'
   - 'manuale'

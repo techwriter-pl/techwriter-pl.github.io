@@ -6,7 +6,8 @@ tags:
   - 'news'
   - 'z-kraju'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
+  - 'soap'
 coverImage: 'upload_0522.png'
 ---
 

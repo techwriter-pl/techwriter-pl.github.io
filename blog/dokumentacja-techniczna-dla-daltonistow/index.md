@@ -4,14 +4,14 @@ authors: toporek
 date: '2021-03-08'
 tags:
   - 'dobre-praktyki'
-  - 'narzedzia'
+  - 'narzędzia'
   - 'przyklady'
   - 'dokumentacja'
-  - 'dostepnosc'
+  - 'dostępność'
   - 'edukacja'
   - 'grafika'
   - 'instrukcje'
-  - 'uzytecznosc'
+  - 'użyteczność'
 coverImage: '1.1.jpg'
 ---
 

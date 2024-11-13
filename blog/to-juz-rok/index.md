@@ -10,7 +10,7 @@ tags:
   - 'infografiki'
   - 'kariera'
   - 'praca'
-  - 'spolecznosc'
+  - 'społeczność'
   - 'szkolenia'
 coverImage: 'happy_birthday1.jpg'
 ---

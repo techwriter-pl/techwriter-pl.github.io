@@ -5,7 +5,7 @@ date: '2013-09-18'
 tags:
   - 'news'
   - 'z-kraju'
-  - 'ze-swiata'
+  - 'ze-świata'
 coverImage: 'owca.jpg'
 ---
 

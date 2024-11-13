@@ -4,9 +4,10 @@ authors: mojk
 date: '2016-09-26'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
+  - 'write-the-docs'
 coverImage: 'survey-e1474571693358.jpg'
 ---
 

@@ -8,7 +8,7 @@ tags:
   - 'knowledge-base'
   - 'materialy-szkoleniowe'
   - 'praca'
-  - 'spolecznosc'
+  - 'społeczność'
   - 'technologie'
 coverImage: 'BazyWiedzy.jpg'
 ---

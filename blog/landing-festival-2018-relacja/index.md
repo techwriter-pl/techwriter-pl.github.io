@@ -4,10 +4,10 @@ authors: mojk
 date: '2018-04-17'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'konferencje'
   - 'praca'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'landing_festival_berlin.png'
 ---
 

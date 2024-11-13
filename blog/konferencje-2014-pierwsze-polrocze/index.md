@@ -5,7 +5,7 @@ date: '2014-01-14'
 tags:
   - 'news'
   - 'z-kraju'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'konferencje'
 coverImage: 'konferencja.jpg'
 ---

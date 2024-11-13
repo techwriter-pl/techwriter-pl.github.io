@@ -3,11 +3,11 @@ title: 'Grammarly - narzędzie do sprawdzania pisowni'
 authors: pensjonatus
 date: '2017-08-09'
 tags:
-  - 'narzedzia'
+  - 'narzędzia'
   - 'warsztat'
   - 'aplikacje'
   - 'technologie'
-  - 'uzytecznosc'
+  - 'użyteczność'
 coverImage: 'grammarly.png'
 ---
 

@@ -4,11 +4,12 @@ authors: toporek
 date: '2020-11-12'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'dokumentacja'
   - 'edukacja'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
+  - 'write-the-docs'
 coverImage: '20201031_230557.jpg'
 ---
 

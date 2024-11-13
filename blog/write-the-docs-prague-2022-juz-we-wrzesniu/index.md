@@ -4,13 +4,14 @@ authors: agnieszka
 date: '2022-06-30'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'dokumentacja'
   - 'edukacja'
   - 'kariera'
   - 'konferencje'
   - 'praca'
-  - 'spolecznosc'
+  - 'społeczność'
+  - 'write-the-docs'
 coverImage: 'write_the_docs_prague_2022.png'
 ---
 

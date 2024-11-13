@@ -5,7 +5,7 @@ date: '2015-07-21'
 tags:
   - 'warsztat'
   - 'wywiady'
-  - 'spolecznosc'
+  - 'społeczność'
   - 'wywiad'
 coverImage: 'interviewer-150450_640-e1437427605915.png'
 ---

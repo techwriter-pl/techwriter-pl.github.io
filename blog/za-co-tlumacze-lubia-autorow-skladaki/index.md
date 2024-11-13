@@ -7,10 +7,10 @@ tags:
   - 'przyklady'
   - 'warsztat'
   - 'instrukcje'
-  - 'jezyk'
+  - 'język'
   - 'manuale'
   - 'on-line-help'
-  - 'pomoc-uzytkownika'
+  - 'pomoc-użytkownika'
   - 'tlumaczenia'
 coverImage: 'duplo-1981724_640.jpg'
 ---

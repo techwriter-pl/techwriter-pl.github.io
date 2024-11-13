@@ -3,13 +3,13 @@ title: 'MadCap Flare 10'
 authors: admin
 date: '2014-03-10'
 tags:
-  - 'narzedzia'
+  - 'narzędzia'
   - 'warsztat'
   - 'knowledge-base'
   - 'on-line-help'
-  - 'pomoc-uzytkownika'
+  - 'pomoc-użytkownika'
   - 'technologie'
-  - 'urzadzenia-mobilne'
+  - 'urządzenia-mobilne'
 coverImage: 'MadCapFlare.jpg'
 ---
 

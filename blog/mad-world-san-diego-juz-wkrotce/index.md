@@ -4,10 +4,10 @@ authors: agnieszka
 date: '2019-03-19'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'kariera'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'Untitled-e1551095794387.jpg'
 ---
 

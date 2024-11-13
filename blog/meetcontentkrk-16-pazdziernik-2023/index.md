@@ -7,7 +7,7 @@ tags:
   - 'z-kraju'
   - 'dokumentacja'
   - 'meetcontent'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'MeetContentKRK_pazdziernik.png'
 ---
 

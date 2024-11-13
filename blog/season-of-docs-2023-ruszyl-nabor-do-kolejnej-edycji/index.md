@@ -4,7 +4,7 @@ authors: agnieszka
 date: '2023-01-26'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'dokumentacja'
   - 'edukacja'
   - 'kariera'

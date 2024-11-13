@@ -4,9 +4,9 @@ authors: mojk
 date: '2014-05-16'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'pins-on-map_Small.jpg'
 ---
 

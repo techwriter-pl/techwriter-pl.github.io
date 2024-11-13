@@ -5,11 +5,11 @@ date: '2020-05-21'
 tags:
   - 'news'
   - 'z-kraju'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'edukacja'
   - 'kariera'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'Add-a-subheading-e1582711517143.png'
 ---
 

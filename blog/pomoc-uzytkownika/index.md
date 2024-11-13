@@ -6,7 +6,7 @@ tags:
   - 'przyklady'
   - 'warsztat'
   - 'on-line-help'
-  - 'pomoc-uzytkownika'
+  - 'pomoc-użytkownika'
   - 'praca'
 coverImage: 'onlinehelp.jpg'
 ---

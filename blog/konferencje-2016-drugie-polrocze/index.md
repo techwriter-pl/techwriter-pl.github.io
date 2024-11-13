@@ -4,9 +4,9 @@ authors: agnieszka
 date: '2016-05-09'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'luggage-1032998_640-2.jpg'
 ---
 

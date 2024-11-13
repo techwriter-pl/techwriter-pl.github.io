@@ -8,7 +8,7 @@ tags:
   - 'dokumentacja'
   - 'meetcontent'
   - 'meetup'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'meetcontent_styczen.png'
 ---
 

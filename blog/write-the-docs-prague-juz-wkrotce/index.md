@@ -4,11 +4,12 @@ authors: agnieszka
 date: '2017-08-22'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'edukacja'
   - 'kariera'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
+  - 'write-the-docs'
 coverImage: 'WriteTheDocsPrague-e1501772951385.jpg'
 ---
 

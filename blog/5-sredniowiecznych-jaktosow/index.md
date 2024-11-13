@@ -4,7 +4,7 @@ authors: admin
 date: '2014-01-24'
 tags:
   - 'warsztat'
-  - 'z-przymruzeniem-oka'
+  - 'z-przymrużeniem-oka'
   - 'humor'
   - 'instrukcje'
   - 'manuale'

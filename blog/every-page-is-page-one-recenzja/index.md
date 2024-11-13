@@ -8,7 +8,7 @@ tags:
   - 'literatura'
   - 'materialy-szkoleniowe'
   - 'recenzja'
-  - 'zarzadzanie-trescia'
+  - 'zarządzanie-treścią'
 coverImage: 'patrick-tomasso-71909.png'
 ---
 

@@ -4,9 +4,9 @@ authors: admin
 date: '2020-02-21'
 tags:
   - 'przyklady'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'api'
-  - 'narzedzia'
+  - 'narzędzia'
 coverImage: 'API-e1582271331202.png'
 ---
 

@@ -9,7 +9,7 @@ tags:
   - 'edukacja'
   - 'kariera'
   - 'komunikacja-techniczna'
-  - 'spolecznosc'
+  - 'społeczność'
   - 'studia'
 coverImage: '3_edycja_studiow.png'
 ---
@@ -166,5 +166,3 @@ osób zmieniło pracę), a także kontakty i być może przyjaźnie, które mam 
 przetrwają długi czas.
 
 ![](images/zdjecie_4.jpg)
-
-

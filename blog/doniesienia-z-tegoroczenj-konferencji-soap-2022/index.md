@@ -9,7 +9,8 @@ tags:
   - 'kariera'
   - 'konferencje'
   - 'praca'
-  - 'spolecznosc'
+  - 'społeczność'
+  - 'soap'
 coverImage: 'IMG-7721-scaled.jpg'
 ---
 

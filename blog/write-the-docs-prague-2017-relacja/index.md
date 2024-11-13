@@ -4,9 +4,10 @@ authors: szablowska
 date: '2017-10-05'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
+  - 'write-the-docs'
 coverImage: 'writethedocs2017-9.jpg'
 ---
 

@@ -4,8 +4,8 @@ authors: mrozek
 date: '2024-06-27'
 tags:
   - 'stowarzyszenie'
-  - 'zrzeszenia branżowe'
-  - 'promocja branży'
+  - 'zrzeszenia-branżowe'
+  - 'promocja-branży'
 coverImage: 'saiit.png'
 toc_max_heading_level: '2'
 ---

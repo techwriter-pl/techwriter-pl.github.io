@@ -6,7 +6,7 @@ tags:
   - 'news'
   - 'z-kraju'
   - 'meetcontent'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'meetcontent_luty_2023.png'
 ---
 

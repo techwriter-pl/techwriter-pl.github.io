@@ -8,7 +8,7 @@ tags:
   - 'humor'
   - 'lokalizacja'
   - 'tlumaczenia'
-  - 'uzytecznosc'
+  - 'użyteczność'
 coverImage: 'bad.jpg'
 ---
 

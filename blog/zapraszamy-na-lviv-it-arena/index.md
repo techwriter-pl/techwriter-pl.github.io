@@ -4,7 +4,7 @@ authors: admin
 date: '2016-09-19'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'konferencje'
   - 'technologie'
 coverImage: 'LvivITArena.png'

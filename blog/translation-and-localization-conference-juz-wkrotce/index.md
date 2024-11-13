@@ -8,7 +8,7 @@ tags:
   - 'kariera'
   - 'konferencje'
   - 'lokalizacja'
-  - 'spolecznosc'
+  - 'społeczność'
   - 'tlumaczenia'
 coverImage: '39900050_1528970823874429_28095296638550016_o.jpg'
 ---

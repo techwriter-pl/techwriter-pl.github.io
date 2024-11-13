@@ -4,7 +4,7 @@ authors: agnieszka
 date: '2022-04-06'
 tags:
   - 'warsztat'
-  - 'zarzadzanie-wiedza'
+  - 'zarządzanie-wiedzą'
 coverImage: 'tech_writer-ujawniacz_wiedzy.png'
 ---
 

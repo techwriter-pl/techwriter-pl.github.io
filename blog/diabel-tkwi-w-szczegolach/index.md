@@ -6,7 +6,7 @@ tags:
   - 'dobre-praktyki'
   - 'warsztat'
   - 'edukacja'
-  - 'jezyk'
+  - 'język'
 coverImage: 'annoying-474143_640-e1419883586267.png'
 ---
 

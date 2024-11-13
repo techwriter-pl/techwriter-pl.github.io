@@ -3,10 +3,10 @@ title: 'Snagit – znacznie więcej niż zrzuty ekranu'
 authors: niewiarowski
 date: '2020-11-02'
 tags:
-  - 'narzedzia'
+  - 'narzędzia'
   - 'warsztat'
   - 'grafika'
-  - 'narzedzia'
+  - 'narzędzia'
   - 'praktyki'
 coverImage: 'snagit.png'
 ---

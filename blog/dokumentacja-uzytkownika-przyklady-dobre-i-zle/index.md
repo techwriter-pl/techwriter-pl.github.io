@@ -12,7 +12,7 @@ tags:
   - 'on-line-help'
   - 'praca'
   - 'treningi'
-  - 'uzytecznosc'
+  - 'użyteczność'
   - 'webinarium'
 coverImage: 'example.jpg'
 ---

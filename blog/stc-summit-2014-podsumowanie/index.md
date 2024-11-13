@@ -4,7 +4,7 @@ authors: admin
 date: '2014-05-30'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'konferencje'
 coverImage: 'STCSummit.jpg'
 ---

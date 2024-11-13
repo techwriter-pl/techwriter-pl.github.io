@@ -4,9 +4,10 @@ authors: toporek
 date: '2022-10-20'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
+  - 'write-the-docs'
 coverImage: '308673646_178834124673335_5366100879339750396_n-e1665933113491.png'
 ---
 

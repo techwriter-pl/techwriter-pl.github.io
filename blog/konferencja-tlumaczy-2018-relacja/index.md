@@ -6,7 +6,7 @@ tags:
   - 'news'
   - 'z-kraju'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
   - 'tlumaczenia'
 coverImage: 'baner-e1535404907525.jpg'
 ---

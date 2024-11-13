@@ -7,7 +7,7 @@ tags:
   - 'z-kraju'
   - 'automatyzacja'
   - 'edukacja'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'dokumentacja_jako_kod.jpeg'
 ---
 

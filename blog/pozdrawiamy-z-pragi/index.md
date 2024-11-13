@@ -4,8 +4,8 @@ authors: admin
 date: '2016-09-18'
 tags:
   - 'news'
-  - 'ze-swiata'
-  - 'spolecznosc'
+  - 'ze-świata'
+  - 'społeczność'
 coverImage: 'TechwriterPl3.jpg'
 ---
 

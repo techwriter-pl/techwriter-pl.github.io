@@ -5,10 +5,10 @@ date: '2020-08-18'
 tags:
   - 'news'
   - 'z-kraju'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'kariera'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'Konferencje-2020-2.png'
 ---
 

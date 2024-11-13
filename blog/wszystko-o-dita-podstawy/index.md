@@ -4,12 +4,12 @@ authors: pensjonatus
 date: '2016-05-04'
 tags:
   - 'dobre-praktyki'
-  - 'narzedzia'
+  - 'narzędzia'
   - 'warsztat'
   - 'dita'
   - 'manuale'
   - 'on-line-help'
-  - 'pomoc-uzytkownika'
+  - 'pomoc-użytkownika'
 coverImage: 'Darwin.png'
 ---
 

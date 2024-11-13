@@ -8,7 +8,7 @@ tags:
   - 'ankieta'
   - 'kariera'
   - 'praca'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'BADANIE_PLAC_wyniki.png'
 ---
 

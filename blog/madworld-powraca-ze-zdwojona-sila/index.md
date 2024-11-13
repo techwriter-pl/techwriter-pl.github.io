@@ -4,9 +4,9 @@ authors: mojk
 date: '2018-04-12'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'madworld.png'
 ---
 

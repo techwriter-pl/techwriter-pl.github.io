@@ -8,7 +8,7 @@ tags:
   - 'kariera'
   - 'konferencje'
   - 'praca'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'Konferencje-2019-7.png'
 ---
 

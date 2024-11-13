@@ -5,7 +5,7 @@ date: '2024-09-16'
 tags:
   - 'estymacja'
   - 'wycena-pracy'
-  - 'szacowaniewysiłku'
+  - 'szacowanie-wysiłku'
 coverImage: 'greg-rosenke-hWdzH8YY8kk-unsplash.jpg'
 ---
 

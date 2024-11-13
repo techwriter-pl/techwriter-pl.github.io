@@ -6,6 +6,7 @@ tags:
   - 'news'
   - 'z-kraju'
   - 'konferencje'
+  - 'soap'
 coverImage: 'soap-e1563527191399.jpg'
 ---
 

@@ -3,11 +3,11 @@ title: 'Skitch - opis narzędzia'
 authors: mojk
 date: '2015-02-17'
 tags:
-  - 'narzedzia'
+  - 'narzędzia'
   - 'grafika'
   - 'instrukcje'
   - 'on-line-help'
-  - 'pomoc-uzytkownika'
+  - 'pomoc-użytkownika'
 coverImage: 'skitchlogo-e1424155444199.png'
 ---
 

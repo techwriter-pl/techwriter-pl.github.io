@@ -7,7 +7,7 @@ tags:
   - 'z-kraju'
   - 'edukacja'
   - 'kariera'
-  - 'spolecznosc'
+  - 'społeczność'
   - 'szkolenia'
   - 'treningi'
 coverImage: 'content-e1483260095507.jpg'

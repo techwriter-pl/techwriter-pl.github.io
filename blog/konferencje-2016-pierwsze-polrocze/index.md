@@ -5,9 +5,9 @@ date: '2016-01-05'
 tags:
   - 'news'
   - 'z-kraju'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'konfer.jpg'
 ---
 

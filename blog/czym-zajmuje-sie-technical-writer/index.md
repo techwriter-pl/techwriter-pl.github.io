@@ -6,7 +6,7 @@ tags:
   - 'przyklady'
   - 'warsztat'
   - 'instrukcje'
-  - 'pomoc-uzytkownika'
+  - 'pomoc-użytkownika'
   - 'praca'
 coverImage: 'TechnicalAutor.jpg'
 ---

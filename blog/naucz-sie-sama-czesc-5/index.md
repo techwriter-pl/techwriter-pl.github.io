@@ -7,7 +7,7 @@ tags:
   - 'przyklady'
   - 'warsztat'
   - 'edukacja'
-  - 'jezyk'
+  - 'język'
   - 'kariera'
 coverImage: 'editing-marks.jpg'
 ---

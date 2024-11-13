@@ -6,7 +6,7 @@ tags:
   - 'warsztat'
   - 'wywiady'
   - 'dokumentacja'
-  - 'spolecznosc'
+  - 'społeczność'
   - 'wywiad'
 coverImage: 'wywiad-22.png'
 ---

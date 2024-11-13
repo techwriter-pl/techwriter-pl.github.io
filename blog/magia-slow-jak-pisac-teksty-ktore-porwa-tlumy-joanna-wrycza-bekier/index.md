@@ -5,7 +5,7 @@ date: '2020-07-14'
 tags:
   - 'biblioteczka-techwritera'
   - 'warsztat'
-  - 'jezyk'
+  - 'język'
   - 'literatura'
 coverImage: 'IMG_0812.jpg'
 ---

@@ -7,8 +7,9 @@ tags:
   - 'z-kraju'
   - 'edukacja'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
   - 'treningi'
+  - 'soap'
 coverImage: 'FullSizeRender-2.jpg'
 ---
 

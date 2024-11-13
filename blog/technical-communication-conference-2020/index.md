@@ -4,9 +4,9 @@ authors: agnieszka
 date: '2020-10-27'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'tech_com_conf.png'
 ---
 

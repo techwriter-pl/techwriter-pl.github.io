@@ -7,7 +7,7 @@ tags:
   - 'z-kraju'
   - 'edukacja'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
   - 'technologie'
 coverImage: '22730161_846665912170145_5052329604003373238_n.jpg'
 ---

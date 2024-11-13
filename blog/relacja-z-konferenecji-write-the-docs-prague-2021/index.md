@@ -1,12 +1,13 @@
 ---
-title: 'Relacja z konferenecji Write the Docs Prague 2021'
+title: 'Relacja z konferencji Write the Docs Prague 2021'
 authors: toporek
 date: '2021-10-26'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
+  - 'write-the-docs'
 coverImage: '34495135662_d0f045f4a5_o-scaled.jpg'
 ---
 

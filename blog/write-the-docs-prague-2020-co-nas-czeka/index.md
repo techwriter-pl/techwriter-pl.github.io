@@ -4,12 +4,13 @@ authors: agnieszka
 date: '2020-09-03'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'dokumentacja'
   - 'kariera'
   - 'konferencje'
   - 'praca'
-  - 'spolecznosc'
+  - 'społeczność'
+  - 'write-the-docs'
 coverImage: 'wtd_2020.png'
 ---
 

@@ -4,7 +4,7 @@ authors: kulgawczuk
 date: '2019-06-21'
 tags:
   - 'dobre-praktyki'
-  - 'narzedzia'
+  - 'narzędzia'
   - 'warsztat'
   - 'dita'
   - 'topic'

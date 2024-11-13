@@ -5,7 +5,7 @@ date: '2017-07-11'
 tags:
   - 'warsztat'
   - 'wywiady'
-  - 'spolecznosc'
+  - 'społeczność'
   - 'wywiad'
 coverImage: 'interview-905535_640.png'
 ---

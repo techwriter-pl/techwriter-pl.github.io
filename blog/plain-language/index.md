@@ -5,7 +5,7 @@ date: '2015-12-15'
 tags:
   - 'dobre-praktyki'
   - 'warsztat'
-  - 'jezyk'
+  - 'język'
 coverImage: 'pl.jpg'
 ---
 

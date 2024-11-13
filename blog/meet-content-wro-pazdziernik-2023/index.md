@@ -8,7 +8,7 @@ tags:
   - 'kariera'
   - 'meetcontent'
   - 'praca'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'MeetContentWRO23.png'
 ---
 

@@ -4,9 +4,9 @@ authors: mojk
 date: '2015-05-26'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'map-525349_640-e1432019946248.png'
 ---
 

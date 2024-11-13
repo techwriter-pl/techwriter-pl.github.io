@@ -4,11 +4,12 @@ authors: agnieszka
 date: '2020-06-30'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'kariera'
   - 'konferencje'
   - 'praca'
-  - 'spolecznosc'
+  - 'społeczność'
+  - 'write-the-docs'
 coverImage: 'wtd_2020.png'
 ---
 

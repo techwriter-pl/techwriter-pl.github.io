@@ -10,7 +10,7 @@ tags:
   - 'instrukcje'
   - 'manuale'
   - 'praktyki'
-  - 'uzytecznosc'
+  - 'użyteczność'
 coverImage: 'image-illu-1-e1641890745337.png'
 ---
 

@@ -4,12 +4,12 @@ authors: agnieszka
 date: '2021-10-20'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'dokumentacja'
   - 'kariera'
   - 'konferencje'
   - 'praca'
-  - 'spolecznosc'
+  - 'społeczność'
   - 'technologie'
 coverImage: 'TCC_2021.png'
 ---

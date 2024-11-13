@@ -4,11 +4,11 @@ authors: agnieszka
 date: '2016-07-14'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'edukacja'
   - 'kariera'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'madworld-small-e1485268107113.jpg'
 ---
 

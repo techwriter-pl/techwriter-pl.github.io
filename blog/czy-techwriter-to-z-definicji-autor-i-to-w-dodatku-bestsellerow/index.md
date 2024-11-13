@@ -5,7 +5,7 @@ date: '2021-01-29'
 tags:
   - 'przyklady'
   - 'warsztat'
-  - 'z-przymruzeniem-oka'
+  - 'z-przymrużeniem-oka'
   - 'dokumentacja'
   - 'humor'
   - 'kariera'

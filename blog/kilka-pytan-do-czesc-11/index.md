@@ -5,7 +5,7 @@ date: '2016-12-08'
 tags:
   - 'warsztat'
   - 'wywiady'
-  - 'spolecznosc'
+  - 'społeczność'
   - 'wywiad'
 coverImage: 'press-1015988_640.jpg'
 ---

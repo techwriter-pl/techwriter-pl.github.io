@@ -5,10 +5,11 @@ date: '2014-02-04'
 tags:
   - 'news'
   - 'z-kraju'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'praca'
-  - 'spolecznosc'
+  - 'społeczność'
   - 'webinarium'
+  - 'soap'
 coverImage: 'silos.jpg'
 ---
 

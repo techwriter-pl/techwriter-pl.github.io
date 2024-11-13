@@ -8,7 +8,8 @@ tags:
   - 'edukacja'
   - 'kariera'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
+  - 'soap'
 coverImage: 'soap2018.jpg'
 ---
 

@@ -5,7 +5,7 @@ date: '2014-01-09'
 tags:
   - 'news'
   - 'z-kraju'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'kariera'
 coverImage: 'Start.jpg'
 ---

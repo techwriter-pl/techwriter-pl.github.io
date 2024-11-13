@@ -8,7 +8,7 @@ tags:
   - 'ankieta'
   - 'kariera'
   - 'praca'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'alain-pham-248578.jpg'
 ---
 

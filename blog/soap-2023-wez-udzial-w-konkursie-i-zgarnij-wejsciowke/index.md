@@ -6,6 +6,7 @@ tags:
   - 'news'
   - 'z-kraju'
   - 'konkurs'
+  - 'soap'
 coverImage: 'soap2023_konkurs.png'
 ---
 

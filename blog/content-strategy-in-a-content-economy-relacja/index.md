@@ -5,9 +5,10 @@ date: '2014-04-15'
 tags:
   - 'news'
   - 'z-kraju'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'webinarium'
-  - 'zarzadzanie-trescia'
+  - 'zarządzanie-treścią'
+  - 'soap'
 coverImage: 'content_economy.jpg'
 ---
 

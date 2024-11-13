@@ -5,7 +5,7 @@ date: '2013-09-27'
 tags:
   - 'news'
   - 'z-kraju'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'humor'
   - 'praca'
 coverImage: 'corobimy.jpg'

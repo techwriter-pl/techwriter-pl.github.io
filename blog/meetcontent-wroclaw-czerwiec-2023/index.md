@@ -4,9 +4,9 @@ authors: agnieszka
 date: '2023-06-15'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'meetcontent'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'meetcontent_wro_06_2023.png'
 ---
 

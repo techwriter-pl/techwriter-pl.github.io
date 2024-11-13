@@ -7,10 +7,10 @@ tags:
   - 'przyklady'
   - 'warsztat'
   - 'instrukcje'
-  - 'jezyk'
+  - 'język'
   - 'manuale'
   - 'on-line-help'
-  - 'pomoc-uzytkownika'
+  - 'pomoc-użytkownika'
   - 'tlumaczenia'
 coverImage: 'countries-1301799_640-e1530121311958.png'
 ---

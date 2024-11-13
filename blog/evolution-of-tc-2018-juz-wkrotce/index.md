@@ -4,9 +4,9 @@ authors: agnieszka
 date: '2018-04-19'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'evolution.jpg'
 ---
 
