@@ -8,6 +8,7 @@ tags:
   - 'ze-świata'
   - 'webinarium'
   - 'zarządzanie-treścią'
+  - 'soap'
 coverImage: 'content_economy.jpg'
 ---
 

@@ -10,6 +10,7 @@ tags:
   - 'konferencje'
   - 'praca'
   - 'społeczność'
+  - 'soap'
 coverImage: 'IMG-7721-scaled.jpg'
 ---
 

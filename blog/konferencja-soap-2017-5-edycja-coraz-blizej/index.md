@@ -9,6 +9,7 @@ tags:
   - 'kariera'
   - 'konferencje'
   - 'społeczność'
+  - 'soap'
 coverImage: 'soap.png'
 ---
 

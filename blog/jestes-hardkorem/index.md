@@ -8,6 +8,7 @@ tags:
   - 'ze-świata'
   - 'praca'
   - 'webinarium'
+  - 'soap'
 coverImage: 'apisdkcodesamples.png'
 ---
 

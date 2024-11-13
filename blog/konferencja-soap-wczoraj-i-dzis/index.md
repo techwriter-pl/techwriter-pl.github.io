@@ -8,6 +8,7 @@ tags:
   - 'infografiki'
   - 'konferencje'
   - 'społeczność'
+  - 'soap'
 coverImage: 'soap.jpg'
 ---
 

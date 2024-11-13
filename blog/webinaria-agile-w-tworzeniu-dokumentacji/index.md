@@ -8,6 +8,7 @@ tags:
   - 'agile'
   - 'społeczność'
   - 'webinarium'
+  - 'soap'
 coverImage: 'team-1480072_640.jpg'
 ---
 

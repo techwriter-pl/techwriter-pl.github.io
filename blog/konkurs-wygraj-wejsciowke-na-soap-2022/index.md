@@ -7,6 +7,7 @@ tags:
   - 'z-kraju'
   - 'konkurs'
   - 'konferencje'
+  - 'soap'
 coverImage: 'soap_konkurs.png'
 ---
 

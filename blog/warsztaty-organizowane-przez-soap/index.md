@@ -5,6 +5,7 @@ date: '2016-04-28'
 tags:
   - 'news'
   - 'z-kraju'
+  - 'soap'
 coverImage: 'edusummit-long-09-09.jpg'
 ---
 

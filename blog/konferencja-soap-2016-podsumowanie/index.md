@@ -7,6 +7,7 @@ tags:
   - 'z-kraju'
   - 'konferencje'
   - 'społeczność'
+  - 'soap'
 coverImage: 'soapconf2016_techwriterpl-1.jpg'
 ---
 

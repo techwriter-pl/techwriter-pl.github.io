@@ -9,6 +9,7 @@ tags:
   - 'kariera'
   - 'konferencje'
   - 'społeczność'
+  - 'soap'
 coverImage: 'IMG_20180525_103253.jpg'
 ---
 
