@@ -4,11 +4,11 @@ authors: mojk
 date: '2017-10-24'
 tags:
   - 'news'
-  - 'narzedzia'
+  - 'narzędzia'
   - 'warsztat'
   - 'z-kraju'
   - 'aplikacje'
-  - 'spolecznosc'
+  - 'społeczność'
   - 'technologie'
 coverImage: 'black-and-white-2591246_640.jpg'
 ---

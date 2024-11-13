@@ -4,12 +4,12 @@ authors: agnieszka
 date: '2018-03-09'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'edukacja'
   - 'kariera'
   - 'konferencje'
   - 'praca'
-  - 'spolecznosc'
+  - 'społeczność'
   - 'technologie'
 coverImage: 'cables_banners_v3-2.jpg'
 ---

@@ -4,12 +4,12 @@ authors: agnieszka
 date: '2021-06-02'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'dokumentacja'
   - 'kariera'
   - 'konferencje'
   - 'praca'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'W-t-D_2021.png'
 ---
 

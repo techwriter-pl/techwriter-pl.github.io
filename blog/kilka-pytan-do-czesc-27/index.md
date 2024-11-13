@@ -7,7 +7,7 @@ tags:
   - 'wywiady'
   - 'kariera'
   - 'praca'
-  - 'spolecznosc'
+  - 'społeczność'
   - 'wywiad'
 coverImage: 'kilka_pytan_do_27.png'
 ---

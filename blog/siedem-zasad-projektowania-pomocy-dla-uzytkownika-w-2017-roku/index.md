@@ -9,7 +9,7 @@ tags:
   - 'knowledge-base'
   - 'konferencje'
   - 'on-line-help'
-  - 'pomoc-uzytkownika'
+  - 'pomoc-użytkownika'
 coverImage: '7-zasad.jpg'
 ---
 

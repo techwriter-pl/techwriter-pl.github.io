@@ -4,9 +4,9 @@ authors: mojk
 date: '2015-10-06'
 tags:
   - 'news'
-  - 'narzedzia'
+  - 'narzędzia'
   - 'warsztat'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'aplikacje'
   - 'manuale'
   - 'on-line-help'

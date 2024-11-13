@@ -6,11 +6,11 @@ tags:
   - 'news'
   - 'bez-kategorii'
   - 'dobre-praktyki'
-  - 'narzedzia'
-  - 'ze-swiata'
+  - 'narzędzia'
+  - 'ze-świata'
   - 'grafika'
-  - 'narzedzia'
-  - 'rzuty-ekranu'
+  - 'narzędzia'
+  - 'zrzuty-ekranu'
 coverImage: 'upload_408.png'
 ---
 

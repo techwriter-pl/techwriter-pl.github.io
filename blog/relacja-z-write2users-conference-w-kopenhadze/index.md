@@ -4,12 +4,12 @@ authors: kuba
 date: '2017-11-24'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'automatyzacja'
   - 'edukacja'
   - 'konferencje'
   - 'lokalizacja'
-  - 'spolecznosc'
+  - 'społeczność'
   - 'szkolenia'
 coverImage: '3-e1511255859976.jpeg'
 ---

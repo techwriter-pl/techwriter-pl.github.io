@@ -4,10 +4,10 @@ authors: mojk
 date: '2016-11-25'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'humor'
   - 'praca'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'man-857502_640.jpg'
 ---
 

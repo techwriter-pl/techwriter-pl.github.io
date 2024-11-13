@@ -4,24 +4,24 @@ authors: mojk
 date: '2024-03-21'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'kariera'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'konferencje-2024.jpg'
 ---
 
-Prezentujemy listę konferencji, które mogą być interesujące dla specjalistów z branży
-komunikacji technicznej w 2024.
+Prezentujemy listę konferencji, które mogą być interesujące dla specjalistów z
+branży komunikacji technicznej w 2024.
 
 <!--truncate-->
 
-W tym roku postanowiliśmy podejść do tematu bardziej praktycznie. Zamiast kompilować listę
-wszystkich wydarzeń, które udało nam się znaleźć, wybraliśmy tylko takie,
-które odbywają się blisko Polski i takie, które oferują opcję dołączenia
-wirtualnie. Na odległych kontynentach dzieją się ciekawe rzeczy, ale raczej
-mało kto z nas będzie potrafił przekonać swojego przełożonego do udziału
-w takim wydarzeniu :) Mamy nadzieję, że ta formuła będzie dla Was bardziej 
+W tym roku postanowiliśmy podejść do tematu bardziej praktycznie. Zamiast
+kompilować listę wszystkich wydarzeń, które udało nam się znaleźć, wybraliśmy
+tylko takie, które odbywają się blisko Polski i takie, które oferują opcję
+dołączenia wirtualnie. Na odległych kontynentach dzieją się ciekawe rzeczy, ale
+raczej mało kto z nas będzie potrafił przekonać swojego przełożonego do udziału
+w takim wydarzeniu :) Mamy nadzieję, że ta formuła będzie dla Was bardziej
 przydatna. Dajcie nam znać co myślicie w komentarzach.
 
 ## UX360 Virtual
@@ -56,7 +56,7 @@ przydatna. Dajcie nam znać co myślicie w komentarzach.
 
 ## AI the Docs
 
-- 03.04.2024 
+- 03.04.2024
 - Online
 - https://apithedocs.org/ai-2024
 
@@ -70,16 +70,17 @@ przydatna. Dajcie nam znać co myślicie w komentarzach.
 
 - 17-18.04.2024
 - Londyn, Anglia
-- https://www.learningtechnologies.co.uk/ 
+- https://www.learningtechnologies.co.uk/
 
 ## DDX Innovation & UX Conference
+
 - 11.05.2024
 - Monachium, Niemcy
 - https://www.ddxconference.com/ddx-24-munich
 
 ## UX Writer Conference
 
-- 13-14.05.2024 
+- 13-14.05.2024
 - Online
 - https://uxwriterconference.com/
 
@@ -96,6 +97,7 @@ przydatna. Dajcie nam znać co myślicie w komentarzach.
 - https://www.eu.ux360summit.com/
 
 ## UX Lisbon
+
 - 21-24.05.2024
 - Lizbona, Portugalia
 - https://www.ux-lx.com/
@@ -113,12 +115,13 @@ przydatna. Dajcie nam znać co myślicie w komentarzach.
 - https://www.comtecnica.eu/en/
 
 ## UX Scotland
-- 29-31.05.2024 
-- Edynburg, Szkocja
-- https://uxscotland.net/ 
 
+- 29-31.05.2024
+- Edynburg, Szkocja
+- https://uxscotland.net/
 
 ## Evolution of TC
+
 - 04-05.06.2024
 - Sofia, Bułgaria
 - https://evolution-of-tc.com/
@@ -130,6 +133,7 @@ przydatna. Dajcie nam znać co myślicie w komentarzach.
 - https://agile-gi.eu/conference-2024
 
 ## LocWorld51
+
 - 05-07.06.2024
 - Dublin, Irlandia
 - https://locworld.com/events/locworld51-dublin-2024/
@@ -142,9 +146,9 @@ przydatna. Dajcie nam znać co myślicie w komentarzach.
 
 ## soap!
 
-- *Konferencja odbywała się w czerwcu, ale w 2024 została odwołana. 
-Umieszczamy ją w zestawieniu z sentymentu i żebyście o niej nie zapomnieli. 
-Trzymamy kciuki za powrót w 2025*. 
+- _Konferencja odbywała się w czerwcu, ale w 2024 została odwołana. Umieszczamy
+  ją w zestawieniu z sentymentu i żebyście o niej nie zapomnieli. Trzymamy
+  kciuki za powrót w 2025_.
 - Kraków, Polska
 - https://soapconf.com/
 
@@ -156,9 +160,9 @@ Trzymamy kciuki za powrót w 2025*.
 
 ## KTLC Conference
 
-- 27-28.09.2024 
+- 27-28.09.2024
 - Warszawa, Polska
-- https://translation-conference.com/ 
+- https://translation-conference.com/
 
 ## UXDX EMEA
 
@@ -173,19 +177,20 @@ Trzymamy kciuki za powrót w 2025*.
 - https://worldusabilitycongress.com/
 
 ## tcworld conference
+
 - 05-07.11.2024
 - Stuttgart, Germany
 - https://tcworldconference.tekom.de/
 
 ## Leading Design London
 
-- 06-07.11.2024 
+- 06-07.11.2024
 - Londyn, Anglia
-- https://leadingdesign.com/conferences/london-2024 
+- https://leadingdesign.com/conferences/london-2024
 
 ## Web Summit
 
-- 11-14.11.2024 
+- 11-14.11.2024
 - Lizbona, Portugalia
 - https://websummit.com/
 
@@ -193,7 +198,7 @@ Trzymamy kciuki za powrót w 2025*.
 
 - 13.11.2024
 - Londyn, Anglia
-- https://techcircus.io/en/events/ux-writing-conference-london# 
+- https://techcircus.io/en/events/ux-writing-conference-london#
 
 ## KMIS
 

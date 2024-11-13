@@ -4,11 +4,11 @@ authors: agnieszka
 date: '2018-05-16'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'edukacja'
   - 'kariera'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'evolution.jpg'
 ---
 

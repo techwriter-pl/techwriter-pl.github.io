@@ -6,7 +6,7 @@ tags:
   - 'news'
   - 'z-kraju'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
   - 'tlumaczenia'
 coverImage: 'TLConference-2019.png'
 ---

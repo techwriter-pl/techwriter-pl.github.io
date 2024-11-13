@@ -4,10 +4,10 @@ authors: mojk
 date: '2016-03-01'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'aplikacje'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'unnamed-e1456523861631.png'
 ---
 

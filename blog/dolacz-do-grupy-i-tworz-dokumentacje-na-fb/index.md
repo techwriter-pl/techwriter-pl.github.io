@@ -6,7 +6,7 @@ tags:
   - 'news'
   - 'z-kraju'
   - 'praca'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'Facebook.jpg'
 ---
 

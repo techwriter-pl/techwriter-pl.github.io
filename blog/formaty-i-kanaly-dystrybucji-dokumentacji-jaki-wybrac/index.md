@@ -8,7 +8,7 @@ tags:
   - 'online'
   - 'pdf'
   - 'poradnik'
-  - 'praktyka'
+  - 'praktyki'
 coverImage: 'formaty_i_kanaly_dystrybucji_dokumentacji.png'
 ---
 

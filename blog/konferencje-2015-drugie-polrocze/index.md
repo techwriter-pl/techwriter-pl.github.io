@@ -5,7 +5,7 @@ date: '2015-05-12'
 tags:
   - 'news'
   - 'z-kraju'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'konferencje'
 coverImage: 'konfer.jpg'
 ---

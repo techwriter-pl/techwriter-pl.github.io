@@ -7,7 +7,7 @@ tags:
   - 'z-kraju'
   - 'aplikacje'
   - 'edukacja'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'PLFUG-logo-small.jpg'
 ---
 

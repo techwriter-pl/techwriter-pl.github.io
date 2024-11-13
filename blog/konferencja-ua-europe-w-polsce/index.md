@@ -5,7 +5,7 @@ date: '2013-10-25'
 tags:
   - 'news'
   - 'z-kraju'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'konferencje'
 coverImage: 'krakow.jpg'
 ---

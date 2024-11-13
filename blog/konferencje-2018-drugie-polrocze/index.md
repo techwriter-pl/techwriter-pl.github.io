@@ -5,12 +5,12 @@ date: '2018-06-07'
 tags:
   - 'news'
   - 'z-kraju'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'dita'
   - 'edukacja'
   - 'kariera'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'ian-schneider-66374-unsplash-e1528143818928.jpg'
 ---
 

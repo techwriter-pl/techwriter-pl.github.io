@@ -10,7 +10,7 @@ tags:
   - 'edukacja'
   - 'knowledge-base'
   - 'praca'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'Konferencje-2019.png'
 ---
 

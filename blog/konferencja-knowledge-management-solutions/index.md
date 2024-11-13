@@ -7,7 +7,7 @@ tags:
   - 'z-kraju'
   - 'knowledge-base'
   - 'konferencje'
-  - 'zarzadzanie-wiedza'
+  - 'zarządzanie-wiedzą'
 coverImage: 'KonferencjaKnowledgeManagementSolutions.png'
 ---
 

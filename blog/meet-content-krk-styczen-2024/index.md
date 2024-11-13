@@ -6,7 +6,7 @@ tags:
   - 'news'
   - 'z-kraju'
   - 'meetcontent'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'meetcontentkrk0124.png'
 ---
 
@@ -39,8 +39,8 @@ między innymi poniższe pytania:
 
 Naszym prelegentem będzie **Jan Sosna**, obecnie Information Developer w
 Heretto. Jan zajmuje się tworzeniem treści od 2018 roku, realizując się nie
-tylko w pisaniu dokumentacji, ale także w tworzeniu ilustracji i katalogów części, oraz w
-prowadzeniu szkoleń.
+tylko w pisaniu dokumentacji, ale także w tworzeniu ilustracji i katalogów
+części, oraz w prowadzeniu szkoleń.
 
 ## Kiedy i gdzie
 

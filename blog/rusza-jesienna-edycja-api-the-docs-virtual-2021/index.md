@@ -4,13 +4,13 @@ authors: agnieszka
 date: '2021-09-30'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'api'
   - 'dokumentacja'
   - 'kariera'
   - 'praca'
   - 'praktyki'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'api_the_docs.png'
 ---
 

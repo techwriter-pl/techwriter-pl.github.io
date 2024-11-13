@@ -4,12 +4,12 @@ authors: pensjonatus
 date: '2017-02-13'
 tags:
   - 'dobre-praktyki'
-  - 'narzedzia'
+  - 'narzędzia'
   - 'warsztat'
   - 'dita'
   - 'technologie'
-  - 'zarzadzanie-trescia'
-  - 'zarzadzanie-wiedza'
+  - 'zarządzanie-treścią'
+  - 'zarządzanie-wiedzą'
 coverImage: 'jak-zaczac.jpg'
 ---
 

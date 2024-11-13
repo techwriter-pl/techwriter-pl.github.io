@@ -8,7 +8,7 @@ tags:
   - 'dokumentacja'
   - 'lokalizacja'
   - 'meetcontent'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'meetcontentwro_maj_2023.png'
 ---
 

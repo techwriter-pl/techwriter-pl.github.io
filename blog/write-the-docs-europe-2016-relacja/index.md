@@ -4,9 +4,9 @@ authors: mojk
 date: '2016-10-04'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: '29760161775_868d72d023_z-e1475185286934.jpg'
 ---
 

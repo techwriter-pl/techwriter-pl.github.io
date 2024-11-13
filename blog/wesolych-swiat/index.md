@@ -4,7 +4,7 @@ authors: admin
 date: '2013-12-20'
 tags:
   - 'news'
-  - 'z-przymruzeniem-oka'
+  - 'z-przymrużeniem-oka'
   - 'humor'
   - 'infografiki'
 coverImage: 'WesolychSwiat.jpg'

@@ -9,7 +9,7 @@ tags:
   - 'kariera'
   - 'konferencje'
   - 'praca'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'IMG-7721-scaled.jpg'
 ---
 

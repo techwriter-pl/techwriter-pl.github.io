@@ -5,7 +5,7 @@ date: '2013-11-25'
 tags:
   - 'news'
   - 'warsztat'
-  - 'z-przymruzeniem-oka'
+  - 'z-przymrużeniem-oka'
   - 'humor'
   - 'instrukcje'
   - 'manuale'

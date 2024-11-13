@@ -3,9 +3,8 @@ title: 'Inspiracje dla technical writera - narzędzia'
 authors: agnieszka
 date: '2021-05-21'
 tags:
-  - 'narzedzia'
+  - 'narzędzia'
   - 'warsztat'
-  - 'narzedzia'
   - 'praca'
   - 'technologie'
 coverImage: 'Konferencje-2019-5.png'

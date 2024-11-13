@@ -7,8 +7,8 @@ tags:
   - 'przyklady'
   - 'warsztat'
   - 'aplikacje'
-  - 'pomoc-uzytkownika'
-  - 'uzytecznosc'
+  - 'pomoc-użytkownika'
+  - 'użyteczność'
 coverImage: 'error-102075_640-e1430287810378.jpg'
 ---
 

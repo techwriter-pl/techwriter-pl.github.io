@@ -8,7 +8,7 @@ tags:
   - 'ste'
   - 'instrukcje'
   - 'manuale'
-  - 'uzytecznosc'
+  - 'użyteczność'
 coverImage: 'ASD1000-e1601654326708.jpg'
 ---
 

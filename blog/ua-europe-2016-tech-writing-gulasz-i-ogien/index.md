@@ -4,9 +4,9 @@ authors: pensjonatus
 date: '2016-07-07'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'konferencje'
-  - 'pomoc-uzytkownika'
+  - 'pomoc-użytkownika'
 coverImage: 'ua-europe.png'
 ---
 

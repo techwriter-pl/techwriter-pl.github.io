@@ -9,7 +9,7 @@ tags:
   - 'edukacja'
   - 'instrukcje'
   - 'manuale'
-  - 'uzytecznosc'
+  - 'użyteczność'
 coverImage: 'iso.png'
 ---
 

@@ -4,9 +4,9 @@ authors: agnieszka
 date: '2016-11-15'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'tceurope-1-e1478815759678.png'
 ---
 

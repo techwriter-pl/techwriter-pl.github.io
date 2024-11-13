@@ -8,7 +8,7 @@ tags:
   - 'edukacja'
   - 'kariera'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
   - 'treningi'
 coverImage: 'diy-usability-testing-presentation-e1458820562993.jpg'
 ---

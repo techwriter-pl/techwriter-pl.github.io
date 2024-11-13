@@ -4,7 +4,7 @@ authors: admin
 date: '2014-03-18'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'konferencje'
 coverImage: 'IntelligentContent2014.jpg'
 ---

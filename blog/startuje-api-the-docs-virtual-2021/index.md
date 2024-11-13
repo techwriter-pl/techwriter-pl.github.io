@@ -4,12 +4,12 @@ authors: agnieszka
 date: '2021-04-09'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'api'
   - 'dokumentacja'
   - 'kariera'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'api_the_docs.png'
 ---
 

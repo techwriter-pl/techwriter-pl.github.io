@@ -4,7 +4,7 @@ authors: pensjonatus
 date: '2017-11-20'
 tags:
   - 'news'
-  - 'narzedzia'
+  - 'narzędzia'
   - 'warsztat'
   - 'z-kraju'
   - 'meetcontent'

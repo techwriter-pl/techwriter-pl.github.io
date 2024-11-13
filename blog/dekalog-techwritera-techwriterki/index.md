@@ -10,7 +10,7 @@ tags:
   - 'edukacja'
   - 'materialy-szkoleniowe'
   - 'podstawy'
-  - 'uzytecznosc'
+  - 'użyteczność'
 coverImage: 'dekalog_techwritera.png'
 ---
 

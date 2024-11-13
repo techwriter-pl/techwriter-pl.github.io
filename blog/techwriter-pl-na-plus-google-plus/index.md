@@ -4,7 +4,7 @@ authors: admin
 date: '2014-10-14'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
 coverImage: 'googleplus.png'
 ---
 

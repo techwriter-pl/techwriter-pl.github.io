@@ -6,7 +6,7 @@ tags:
   - 'news'
   - 'z-kraju'
   - 'konferencje'
-  - 'uzytecznosc'
+  - 'użyteczność'
 coverImage: 'WorldUsabilityDay1.png'
 ---
 

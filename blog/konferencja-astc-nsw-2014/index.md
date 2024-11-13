@@ -4,10 +4,10 @@ authors: mojk
 date: '2014-10-31'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'konferencje'
-  - 'spolecznosc'
-  - 'zarzadzanie-trescia'
+  - 'społeczność'
+  - 'zarządzanie-treścią'
 coverImage: 'ConferenceLogoV2-01-e1414702761912.png'
 ---
 

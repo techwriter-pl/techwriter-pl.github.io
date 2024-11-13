@@ -7,7 +7,7 @@ tags:
   - 'przyklady'
   - 'warsztat'
   - 'api'
-  - 'narzedzia'
+  - 'narzędzia'
 coverImage: 'OpenAPI.png'
 ---
 

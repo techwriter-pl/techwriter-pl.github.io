@@ -4,7 +4,7 @@ authors: agnieszka
 date: '2020-09-18'
 tags:
   - 'news'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'urodziny_7.png'
 ---
 

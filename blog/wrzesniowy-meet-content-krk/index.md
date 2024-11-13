@@ -5,7 +5,7 @@ date: '2023-09-11'
 tags:
   - 'meetup'
   - 'edukacja'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: '15-meet-content.png'
 ---
 

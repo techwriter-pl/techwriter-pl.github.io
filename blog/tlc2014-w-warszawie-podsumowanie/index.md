@@ -5,7 +5,7 @@ date: '2014-04-17'
 tags:
   - 'news'
   - 'z-kraju'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'konferencje'
   - 'tlumaczenia'
 coverImage: 'TranslationLocalizationConference.jpg'

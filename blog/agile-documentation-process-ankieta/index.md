@@ -8,7 +8,7 @@ tags:
   - 'agile'
   - 'ankieta'
   - 'praca'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'survey.jpg'
 ---
 

@@ -9,7 +9,7 @@ tags:
   - 'ankieta'
   - 'kariera'
   - 'praca'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'wypelnij-e1488313966904.jpg'
 ---
 

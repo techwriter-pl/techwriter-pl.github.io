@@ -5,7 +5,7 @@ date: '2013-10-13'
 tags:
   - 'news'
   - 'z-kraju'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'kariera'
   - 'praca'
 coverImage: 'pieniadze.jpg'

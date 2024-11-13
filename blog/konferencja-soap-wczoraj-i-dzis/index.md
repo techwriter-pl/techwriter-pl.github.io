@@ -7,7 +7,7 @@ tags:
   - 'z-kraju'
   - 'infografiki'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'soap.jpg'
 ---
 

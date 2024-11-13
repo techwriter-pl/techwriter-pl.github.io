@@ -6,7 +6,7 @@ tags:
   - 'news'
   - 'z-kraju'
   - 'meetcontent'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'MeetContentKRK1123.png'
 ---
 
@@ -81,8 +81,9 @@ dla Was interesujące. Możecie zgłosić temat, a my dołożymy wszelkich stara
 znaleźć prelegentów, którzy będą mogli o nim porozmawiać. Możecie także sami
 zostać prelegentami na jednym z naszych spotkań.
 
-Osoby zainteresowane mogą dołączyć do MeetContent na [Slacku](https://meetcontent.slack.com/), aby być na bieżąco
-z nadchodzącymi wydarzeniami i proponować nowe tematy.
+Osoby zainteresowane mogą dołączyć do MeetContent na
+[Slacku](https://meetcontent.slack.com/), aby być na bieżąco z nadchodzącymi
+wydarzeniami i proponować nowe tematy.
 
 ### Często zadawane pytania
 
@@ -100,5 +101,6 @@ zrobić pisząc na adres contact@meetcontent.org lub wysyłając wiadomość na
 [Slacku](https://meetcontent.slack.com/).
 
 P: Spóźniłem/am się na wydarzenie i nie mogę wejść. Jak powiadomić
-organizatorów? <br /> O: Możesz napisać do nas na Slacku.
-Podczas każdego wydarzenia, przez pierwsze 30 minut od rozpoczęcia na bieżąco sprawdzamy wiadomości na naszym kanale .
+organizatorów? <br /> O: Możesz napisać do nas na Slacku. Podczas każdego
+wydarzenia, przez pierwsze 30 minut od rozpoczęcia na bieżąco sprawdzamy
+wiadomości na naszym kanale .

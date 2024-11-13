@@ -4,7 +4,7 @@ authors: agnieszka
 date: '2020-05-27'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'dokumentacja'
   - 'kariera'
   - 'praca'

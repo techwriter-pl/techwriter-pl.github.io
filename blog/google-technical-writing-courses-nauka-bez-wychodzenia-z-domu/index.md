@@ -6,7 +6,7 @@ tags:
   - 'warsztat'
   - 'edukacja'
   - 'materialy-szkoleniowe'
-  - 'spolecznosc'
+  - 'społeczność'
   - 'treningi'
 coverImage: 'Add-a-subheading-1-e1585213376985.png'
 ---

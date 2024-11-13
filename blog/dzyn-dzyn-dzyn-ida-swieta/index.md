@@ -4,9 +4,9 @@ authors: niedzwiedzka
 date: '2021-12-22'
 tags:
   - 'news'
-  - 'z-przymruzeniem-oka'
+  - 'z-przymrużeniem-oka'
   - 'humor'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'Untitled-design.png'
 ---
 

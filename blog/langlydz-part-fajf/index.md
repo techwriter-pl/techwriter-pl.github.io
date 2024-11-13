@@ -4,9 +4,9 @@ authors: admin
 date: '2014-02-14'
 tags:
   - 'warsztat'
-  - 'z-przymruzeniem-oka'
+  - 'z-przymrużeniem-oka'
   - 'humor'
-  - 'jezyk'
+  - 'język'
 coverImage: 'Lesson5.jpg'
 ---
 

@@ -7,7 +7,7 @@ tags:
   - 'praca'
   - 'kariera'
   - 'praca'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'Free-Unique-Join-Us-Vectors-3.jpg'
 ---
 

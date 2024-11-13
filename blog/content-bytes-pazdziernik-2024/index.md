@@ -5,7 +5,7 @@ date: '2024-09-26'
 tags:
   - 'news'
   - 'meetup'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'ContentBytesKrk1.png'
 ---
 
@@ -16,7 +16,9 @@ Już za tydzień mamy dla was nie jeden, a dwa tematy :)
 Podczas spotkania porozmawiamy o dokumentacji API oraz przyszłości twórców contentu w świecie dynamicznie zmieniających się produktów.
 Ugości nas **Forte Spaces**, a dyskusje uprzyjemnią nam przekąski :pizza: od **Apify**.
 
-Tematy przybliżą wam [**Barbara Czyż**](https://www.linkedin.com/in/barbara-szwarc) oraz [**Paweł Chłodnicki**](https://www.linkedin.com/in/pawelchlodnicki/).
+Tematy przybliżą wam
+[**Barbara Czyż**](https://www.linkedin.com/in/barbara-szwarc) oraz
+[**Paweł Chłodnicki**](https://www.linkedin.com/in/pawelchlodnicki/).
 
 <!--truncate-->
 
@@ -30,30 +32,38 @@ zaplanowanie poczęstunku. Link do formularza znajdziecie
 
 Dokumentacja API to temat, wokół którego krąży obecnie wiele pytań:
 
-* Kto powinien dokumentować API?
-* Jak zaplanować content, żeby dokumentacja była pomocna i sensownie ustrukturyzowana?
-* Jakimi standardami powinni się kierować technical writerzy?
+- Kto powinien dokumentować API?
+- Jak zaplanować content, żeby dokumentacja była pomocna i sensownie
+  ustrukturyzowana?
+- Jakimi standardami powinni się kierować technical writerzy?
 
-Opierając się na przykładach, omówimy proces, w którym pomysł na nowe API staje się udokumentowaną specyfikacją.
-Podczas prezentacji zapoznacie się z narzędziami, praktykami oraz technikami współpracy, które pomagają nam tworzyć dokumentację do API.
+Opierając się na przykładach, omówimy proces, w którym pomysł na nowe API staje
+się udokumentowaną specyfikacją. Podczas prezentacji zapoznacie się z
+narzędziami, praktykami oraz technikami współpracy, które pomagają nam tworzyć
+dokumentację do API.
 
 **_Rola i przyszłość twórców contentu w tworzeniu produktu_**
 
-Pojęcie **content** przywołuje różne skojarzenia, często zależne od kontekstu, w którym zostało użyte.
-W swojej prezentacji, Paweł opowie nam jak content jest postrzegany przez pryzmat firmy, zespołu, momentu w rozwoju produktu, a także wcześniej wspomnianego **kontekstu**.
-Wspólnie zastanowimy się, jak te okoliczności mogą mieć pozytywny wpływ zarówno na twórców, jak i odbiorców tworzonych treści.
+Pojęcie **content** przywołuje różne skojarzenia, często zależne od kontekstu, w
+którym zostało użyte. W swojej prezentacji, Paweł opowie nam jak content jest
+postrzegany przez pryzmat firmy, zespołu, momentu w rozwoju produktu, a także
+wcześniej wspomnianego **kontekstu**. Wspólnie zastanowimy się, jak te
+okoliczności mogą mieć pozytywny wpływ zarówno na twórców, jak i odbiorców
+tworzonych treści.
 
 ## Prelegenci
 
 Podczas pierwszego spotkania Content Bytes prezentacje poprowadzą:
 
-* **Barbara Czyż**: Barbara jest dociekliwą technical writerką, pasjonującą się
-podejściem docs-as-code i światem API. Po przygodach z DITA i Markdown dołączyła
-do Boxa, by tworzyć dokumentację programistyczną i zacieśniać relacje z API i
-kodem.
+- **Barbara Czyż**: Barbara jest dociekliwą technical writerką, pasjonującą się
+  podejściem docs-as-code i światem API. Po przygodach z DITA i Markdown
+  dołączyła do Boxa, by tworzyć dokumentację programistyczną i zacieśniać
+  relacje z API i kodem.
 
-* **Paweł Chłodnicki**: Paweł swoją karierę rozpoczął na stanowisku technical writera, a obecnie pracuje jako Content Designer w Docplanner, 
-Doświadczenie zdobywa od 15 lat, zaczynając od tłumaczeń i lokalizacji, aby po czasie odnaleźć się w obszarze UX oraz product designu.
+- **Paweł Chłodnicki**: Paweł swoją karierę rozpoczął na stanowisku technical
+  writera, a obecnie pracuje jako Content Designer w Docplanner, Doświadczenie
+  zdobywa od 15 lat, zaczynając od tłumaczeń i lokalizacji, aby po czasie
+  odnaleźć się w obszarze UX oraz product designu.
 
 ## Kiedy i gdzie
 
@@ -96,7 +106,8 @@ dla Was interesujące. Możecie zgłosić temat, a my dołożymy wszelkich stara
 znaleźć prelegentów, którzy będą mogli o nim porozmawiać. Możecie także sami
 zostać prelegentami na jednym z naszych spotkań.
 
-Jeżeli jesteście zainteresowani, napiszcie do nas: **contentbytes.krk@gmail.com**.
+Jeżeli jesteście zainteresowani, napiszcie do nas:
+**contentbytes.krk@gmail.com**.
 
 ### Często zadawane pytania
 
@@ -110,4 +121,3 @@ można też zapytać o udostępnienie slajdów.
 
 P: Zarejestrowałem/am się, ale nie mogę wziąć udziału. Co powinienem/nnam
 zrobić? <br /> O: Jeśli wiesz, że nie dasz rady przyjść, daj nam znać pisząc na adres [contentbytes.krk@gmail.com](mailto:contentbytes.krk@gmail.com).
-

@@ -5,9 +5,9 @@ date: '2018-02-13'
 tags:
   - 'news'
   - 'z-kraju'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'shaking-hands-2499628_640.jpg'
 ---
 

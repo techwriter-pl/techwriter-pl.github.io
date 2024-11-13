@@ -5,7 +5,7 @@ date: '2017-09-06'
 tags:
   - 'warsztat'
   - 'wywiady'
-  - 'spolecznosc'
+  - 'społeczność'
   - 'wywiad'
 coverImage: 'jonathan-velasquez-160775-640.jpg'
 ---

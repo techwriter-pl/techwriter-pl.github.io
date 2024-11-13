@@ -4,9 +4,9 @@ authors: agnieszka
 date: '2016-08-16'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'sticker-wtd-colors.jpg'
 ---
 

@@ -4,7 +4,7 @@ authors: mojk
 date: '2019-04-17'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'instrukcje'
   - 'kariera'
   - 'open-source'

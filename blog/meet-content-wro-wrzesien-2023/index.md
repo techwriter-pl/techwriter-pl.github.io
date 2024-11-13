@@ -5,7 +5,7 @@ date: '2023-09-15'
 tags:
   - 'meetup'
   - 'edukacja'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'meet-content-wro-22.png'
 ---
 

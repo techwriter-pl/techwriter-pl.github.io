@@ -7,7 +7,7 @@ tags:
   - 'z-kraju'
   - 'kariera'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'Zrzut-ekranu-2019-04-8-o-22.20.52-e1554754998324.png'
 ---
 

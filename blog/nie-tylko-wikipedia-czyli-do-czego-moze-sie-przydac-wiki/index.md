@@ -5,7 +5,7 @@ date: '2015-01-20'
 tags:
   - 'przyklady'
   - 'warsztat'
-  - 'zarzadzanie-wiedza'
+  - 'zarządzanie-wiedzą'
 coverImage: 'wiki.jpg'
 ---
 

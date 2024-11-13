@@ -5,7 +5,7 @@ date: '2014-02-06'
 tags:
   - 'news'
   - 'z-kraju'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'kariera'
 coverImage: 'typewriter.jpg'
 ---

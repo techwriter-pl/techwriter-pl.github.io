@@ -4,7 +4,7 @@ authors: kulgawczuk
 date: '2019-04-01'
 tags:
   - 'dobre-praktyki'
-  - 'narzedzia'
+  - 'narzędzia'
   - 'warsztat'
 coverImage: 'darwin.png'
 ---

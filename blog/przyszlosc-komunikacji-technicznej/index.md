@@ -4,7 +4,7 @@ authors: admin
 date: '2013-11-08'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'konferencje'
   - 'lokalizacja'
   - 'technologie'

@@ -5,7 +5,7 @@ date: '2015-05-19'
 tags:
   - 'dobre-praktyki'
   - 'warsztat'
-  - 'jezyk'
+  - 'język'
   - 'praca'
 coverImage: 'literowka.jpg'
 ---

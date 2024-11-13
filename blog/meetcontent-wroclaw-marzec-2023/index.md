@@ -7,7 +7,7 @@ tags:
   - 'z-kraju'
   - 'dokumentacja'
   - 'meetcontent'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'meecontent_marzec_2023-1.png'
 ---
 

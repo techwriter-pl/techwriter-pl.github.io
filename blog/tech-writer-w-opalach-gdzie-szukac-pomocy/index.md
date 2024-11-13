@@ -4,10 +4,10 @@ authors: mojk
 date: '2017-12-21'
 tags:
   - 'dobre-praktyki'
-  - 'narzedzia'
+  - 'narzędzia'
   - 'warsztat'
   - 'aplikacje'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'hustle-and-bustle-1738072_960_720.jpg'
 ---
 

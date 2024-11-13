@@ -5,13 +5,13 @@ date: '2017-05-30'
 tags:
   - 'news'
   - 'z-kraju'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'dita'
   - 'e-learning'
   - 'edukacja'
   - 'kariera'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'audience-1677028_640-e1495633374574.jpg'
 ---
 

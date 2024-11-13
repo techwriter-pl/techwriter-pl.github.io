@@ -9,7 +9,7 @@ tags:
   - 'edukacja'
   - 'kariera'
   - 'knowledge-base'
-  - 'spolecznosc'
+  - 'społeczność'
   - 'technologie'
 coverImage: 'Konferencje-2019-3.png'
 ---

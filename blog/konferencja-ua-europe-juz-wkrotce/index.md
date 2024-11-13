@@ -4,11 +4,11 @@ authors: agnieszka
 date: '2017-05-16'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'edukacja'
   - 'kariera'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'UA_Europe_2017_Logo_Square_150.png'
 ---
 

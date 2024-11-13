@@ -3,7 +3,7 @@ title: 'WikidPad - opis narzędzia'
 authors: agnieszka
 date: '2015-06-09'
 tags:
-  - 'narzedzia'
+  - 'narzędzia'
   - 'warsztat'
   - 'aplikacje'
 coverImage: '000-tlo-360.jpg'

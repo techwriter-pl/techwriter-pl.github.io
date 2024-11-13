@@ -7,7 +7,7 @@ tags:
   - 'z-kraju'
   - 'edukacja'
   - 'kariera'
-  - 'spolecznosc'
+  - 'społeczność'
   - 'studia'
 coverImage: 'Podplomowe-Vistula-Online-2020.jpg'
 ---

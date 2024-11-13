@@ -4,11 +4,11 @@ authors: agnieszka
 date: '2021-08-18'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'kariera'
   - 'konferencje'
   - 'praca'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'W-t-D_2021.png'
 ---
 

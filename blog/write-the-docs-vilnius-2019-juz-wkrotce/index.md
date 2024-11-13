@@ -4,11 +4,11 @@ authors: agnieszka
 date: '2019-05-21'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'edukacja'
   - 'kariera'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'Zrzut-ekranu-2019-04-17-o-22.38.56-e1555533727865.png'
 ---
 

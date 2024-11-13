@@ -3,7 +3,7 @@ title: 'Niepozorne, ale przydatne aplikacje'
 authors: mojk
 date: '2015-06-30'
 tags:
-  - 'narzedzia'
+  - 'narzędzia'
   - 'warsztat'
   - 'aplikacje'
 coverImage: 'toolbox-304894_640-e1435412819757.png'

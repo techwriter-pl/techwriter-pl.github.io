@@ -9,7 +9,7 @@ tags:
   - 'edukacja'
   - 'kariera'
   - 'praca'
-  - 'spolecznosc'
+  - 'społeczność'
   - 'studia'
 coverImage: 'Studia_2021.png'
 ---

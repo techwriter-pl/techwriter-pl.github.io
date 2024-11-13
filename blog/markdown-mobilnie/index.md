@@ -3,7 +3,7 @@ title: 'Markdown mobilnie'
 authors: mojk
 date: '2014-05-09'
 tags:
-  - 'narzedzia'
+  - 'narzędzia'
   - 'warsztat'
   - 'aplikacje'
 coverImage: 'smartphone-blue-w-hand-illustration-e1399318639963.jpg'

@@ -4,12 +4,12 @@ authors: mojk
 date: '2017-08-30'
 tags:
   - 'news'
-  - 'narzedzia'
+  - 'narzędzia'
   - 'warsztat'
   - 'z-kraju'
   - 'aplikacje'
   - 'edukacja'
-  - 'spolecznosc'
+  - 'społeczność'
   - 'technologie'
 coverImage: 'laughing-children.jpg'
 ---

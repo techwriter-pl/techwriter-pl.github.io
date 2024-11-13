@@ -7,7 +7,7 @@ tags:
   - 'warsztat'
   - 'instrukcje'
   - 'manuale'
-  - 'pomoc-uzytkownika'
+  - 'pomoc-użytkownika'
 coverImage: 'laundry.jpg'
 ---
 
