@@ -10,6 +10,8 @@ tags:
   - 'konferencje'
   - 'praca'
   - 'społeczność'
+  - 'write-the-docs'
+  - 'soap'
 ---
 
 Rozważasz udział w jednej z konferencji tech writingowych: "Write The Docs" i

@@ -9,6 +9,7 @@ tags:
   - 'konferencje'
   - 'społeczność'
   - 'treningi'
+  - 'soap'
 coverImage: 'FullSizeRender-2.jpg'
 ---
 

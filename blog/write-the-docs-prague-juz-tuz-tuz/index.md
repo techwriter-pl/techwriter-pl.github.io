@@ -9,6 +9,7 @@ tags:
   - 'kariera'
   - 'konferencje'
   - 'społeczność'
+  - 'write-the-docs'
 coverImage: 'wtd.png'
 ---
 

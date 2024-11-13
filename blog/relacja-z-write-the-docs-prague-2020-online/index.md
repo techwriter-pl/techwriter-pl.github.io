@@ -9,6 +9,7 @@ tags:
   - 'edukacja'
   - 'konferencje'
   - 'społeczność'
+  - 'write-the-docs'
 coverImage: '20201031_230557.jpg'
 ---
 

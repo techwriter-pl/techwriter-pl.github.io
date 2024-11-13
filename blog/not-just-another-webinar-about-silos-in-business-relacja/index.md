@@ -9,6 +9,7 @@ tags:
   - 'praca'
   - 'społeczność'
   - 'webinarium'
+  - 'soap'
 coverImage: 'silos.jpg'
 ---
 

@@ -9,6 +9,7 @@ tags:
   - 'kariera'
   - 'konferencje'
   - 'społeczność'
+  - 'write-the-docs'
 coverImage: 'Zrzut-ekranu-2019-04-17-o-22.38.56-e1555533727865.png'
 ---
 

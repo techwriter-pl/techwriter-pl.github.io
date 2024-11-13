@@ -9,6 +9,7 @@ tags:
   - 'konferencje'
   - 'społeczność'
   - 'użyteczność'
+  - 'soap'
 coverImage: 'soap.jpg'
 ---
 

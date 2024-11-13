@@ -7,6 +7,7 @@ tags:
   - 'z-kraju'
   - 'konferencje'
   - 'społeczność'
+  - 'soap'
 coverImage: 'soap2022.png'
 ---
 

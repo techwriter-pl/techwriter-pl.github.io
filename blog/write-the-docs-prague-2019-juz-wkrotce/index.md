@@ -8,6 +8,7 @@ tags:
   - 'kariera'
   - 'konferencje'
   - 'społeczność'
+  - 'write-the-docs'
 coverImage: 'Zrzut-ekranu-2019-08-12-o-22.05.47.png'
 ---
 

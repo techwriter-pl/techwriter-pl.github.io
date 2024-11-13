@@ -5,6 +5,7 @@ date: '2023-05-05'
 tags:
   - 'news'
   - 'z-kraju'
+  - 'soap'
 coverImage: 'wyniki_konkursu_soap2023.png'
 ---
 

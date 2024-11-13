@@ -10,6 +10,7 @@ tags:
   - 'konferencje'
   - 'praca'
   - 'społeczność'
+  - 'write-the-docs'
 coverImage: 'Konferencje-2021-drugie-polrocze-6.png'
 ---
 

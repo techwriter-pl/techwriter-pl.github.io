@@ -7,6 +7,7 @@ tags:
   - 'z-kraju'
   - 'konferencje'
   - 'społeczność'
+  - 'soap'
 coverImage: 'soap_coffee-e1445236483405.jpg'
 ---
 
