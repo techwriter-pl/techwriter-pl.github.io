@@ -59,10 +59,10 @@ A żeby mieć już całkiem czyste sumienie, można też ustawić sobie opis na 
 <p>Wstąpiły w nas nowe organizacyjne siły! 💪</p>
 <p><img decoding="async" loading="lazy" src="https://techwriter.pl/assets/images/MC29_1-f2cddfbf1d9049a247dbe3d1fe0b771d.jpg" width="4080" height="3060" class="img_ev3q"> <img decoding="async" loading="lazy" src="https://techwriter.pl/assets/images/MC29_2-b9eaa311c96dbf47fada1598d665dcba.jpg" width="4000" height="3000" class="img_ev3q"> <img decoding="async" loading="lazy" src="https://techwriter.pl/assets/images/MC29_3-7ade8dabb96a5840acc77e96a7146282.jpg" width="4080" height="3060" class="img_ev3q"> <img decoding="async" loading="lazy" src="https://techwriter.pl/assets/images/MC29_4-faf5b09e105565a080d3d4e03816331f.jpg" width="3000" height="4000" class="img_ev3q"></p>]]></content:encoded>
             <category>meetup</category>
-            <category>producktywność</category>
-            <category>organizacja pracy</category>
-            <category>praca głęboka</category>
-            <category>context switching</category>
+            <category>produktywność</category>
+            <category>organizacja-pracy</category>
+            <category>praca-głęboka</category>
+            <category>context-switching</category>
         </item>
         <item>
             <title><![CDATA[Stowarzyszenie Autorów i Ilustratorów Technicznych (SAiIT) - Spotkanie założycielskie]]></title>
@@ -83,8 +83,8 @@ Ul. Legnicka 48 G, Wrocław</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="bądź-na-bieżąco">Bądź na bieżąco<a href="https://techwriter.pl/saiit-spotkanie-zalozycielskie#b%C4%85d%C5%BA-na-bie%C5%BC%C4%85co" class="hash-link" aria-label="Bezpośredni link do Bądź na bieżąco" title="Bezpośredni link do Bądź na bieżąco">​</a></h2>
 <p>Jeśli chcesz śledzić rozwój stowarzyszenia i otrzymać aktualizacje dotyczące spotkania, polub <a href="https://www.linkedin.com/in/saiit-polska-03a008308/" target="_blank" rel="noopener noreferrer">profil SAiIT</a> na LinkedIn.</p>]]></content:encoded>
             <category>stowarzyszenie</category>
-            <category>zrzeszenia branżowe</category>
-            <category>promocja branży</category>
+            <category>zrzeszenia-branżowe</category>
+            <category>promocja-branży</category>
         </item>
         <item>
             <title><![CDATA[Content Bytes x girls.js: Porozmawiajmy o dostępności]]></title>
@@ -467,7 +467,7 @@ nadzieję, że ten artykuł pozwolił Wam zapoznać się z różnymi sposobami t
 kontekstowych i angażujących podpowiedzi.</p>
 <p>Co tu dużo pisać, zachęcamy do komentowania i dzielenia się Waszymi
 przemyśleniami.</p>]]></content:encoded>
-            <category>z kraju</category>
+            <category>z-kraju</category>
             <category>edukacja</category>
             <category>dobre-praktyki</category>
         </item>
@@ -1206,9 +1206,9 @@ W przypadku dokumentacji przeznaczonej na ekran, prawdziwym game changerem okazu
 <p>Dziękujemy Wam za uczestnictwo i do zobaczenia po wakacjach! 🌴 👋</p>
 <p><img decoding="async" loading="lazy" src="https://techwriter.pl/assets/images/ette1-25289d5d821801e5c3a2d3ad6cbf4dca.jpg" width="3648" height="2736" class="img_ev3q"> <img decoding="async" loading="lazy" src="https://techwriter.pl/assets/images/ette2-d7331d561239db3eca816adba4b65255.jpg" width="4000" height="3000" class="img_ev3q"> <img decoding="async" loading="lazy" src="https://techwriter.pl/assets/images/ette3-389821de65a3acb15ed5844008bf60fa.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content:encoded>
             <category>meetup</category>
-            <category>visual design</category>
-            <category>grafika produktowa</category>
-            <category>ilustracje techniczne</category>
+            <category>visual-design</category>
+            <category>grafika-produktowa</category>
+            <category>ilustracje-techniczne</category>
         </item>
         <item>
             <title><![CDATA[#ContentDay: Program wydarzenia ]]></title>
@@ -1672,7 +1672,7 @@ Design in Technical Communication</li>
             <category>estymacja</category>
             <category>społeczność</category>
             <category>markdown</category>
-            <category>snippet reuse</category>
+            <category>snippet-reuse</category>
         </item>
     </channel>
 </rss>

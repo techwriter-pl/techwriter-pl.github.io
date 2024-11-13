@@ -61,10 +61,10 @@ A żeby mieć już całkiem czyste sumienie, można też ustawić sobie opis na 
             <name>Monika Mrozek</name>
         </author>
         <category label="meetup" term="meetup"/>
-        <category label="producktywność" term="producktywność"/>
-        <category label="organizacja pracy" term="organizacja pracy"/>
-        <category label="praca głęboka" term="praca głęboka"/>
-        <category label="context switching" term="context switching"/>
+        <category label="produktywność" term="produktywność"/>
+        <category label="organizacja-pracy" term="organizacja-pracy"/>
+        <category label="praca-głęboka" term="praca-głęboka"/>
+        <category label="context-switching" term="context-switching"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stowarzyszenie Autorów i Ilustratorów Technicznych (SAiIT) - Spotkanie założycielskie]]></title>
@@ -88,8 +88,8 @@ Ul. Legnicka 48 G, Wrocław</p>
             <name>Monika Mrozek</name>
         </author>
         <category label="stowarzyszenie" term="stowarzyszenie"/>
-        <category label="zrzeszenia branżowe" term="zrzeszenia branżowe"/>
-        <category label="promocja branży" term="promocja branży"/>
+        <category label="zrzeszenia-branżowe" term="zrzeszenia-branżowe"/>
+        <category label="promocja-branży" term="promocja-branży"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Content Bytes x girls.js: Porozmawiajmy o dostępności]]></title>
@@ -484,7 +484,7 @@ przemyśleniami.</p>]]></content>
         <author>
             <name>Martyna Toporek</name>
         </author>
-        <category label="z kraju" term="z kraju"/>
+        <category label="z-kraju" term="z-kraju"/>
         <category label="edukacja" term="edukacja"/>
         <category label="dobre-praktyki" term="dobre-praktyki"/>
     </entry>
@@ -1253,9 +1253,9 @@ W przypadku dokumentacji przeznaczonej na ekran, prawdziwym game changerem okazu
             <name>Monika Mrozek</name>
         </author>
         <category label="meetup" term="meetup"/>
-        <category label="visual design" term="visual design"/>
-        <category label="grafika produktowa" term="grafika produktowa"/>
-        <category label="ilustracje techniczne" term="ilustracje techniczne"/>
+        <category label="visual-design" term="visual-design"/>
+        <category label="grafika-produktowa" term="grafika-produktowa"/>
+        <category label="ilustracje-techniczne" term="ilustracje-techniczne"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[#ContentDay: Program wydarzenia ]]></title>
@@ -1731,6 +1731,6 @@ Design in Technical Communication</li>
         <category label="estymacja" term="estymacja"/>
         <category label="społeczność" term="społeczność"/>
         <category label="markdown" term="markdown"/>
-        <category label="snippet reuse" term="snippet reuse"/>
+        <category label="snippet-reuse" term="snippet-reuse"/>
     </entry>
 </feed>
