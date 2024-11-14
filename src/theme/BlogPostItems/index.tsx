@@ -7,13 +7,30 @@ import Link from '@docusaurus/Link';
 type PopularFilterProps = {
   label: string;
   permalink: string;
+  description: string;
 };
 
 const popularFilters: PopularFilterProps[] = [
-  { label: 'oferty pracy', permalink: '/tags/oferty-pracy' },
-  { label: 'badanie plac', permalink: '/tags/badanie-płac' },
-  { label: 'narzędzia', permalink: '/tags/narzedzia' },
-  { label: 'konferencje', permalink: '/tags/konferencje' },
+  {
+    label: 'oferty pracy',
+    permalink: '/tags/oferty-pracy',
+    description: 'Ogłoszenia o pracę',
+  },
+  {
+    label: 'badanie plac',
+    permalink: '/tags/badanie-plac',
+    description: 'Ankieta o zarobkach w komunikacji technicznej',
+  },
+  {
+    label: 'narzędzia',
+    permalink: '/tags/narzedzia',
+    description: 'Narzędzia przydatne w pracy technical writera i writerki',
+  },
+  {
+    label: 'konferencje',
+    permalink: '/tags/konferencje',
+    description: 'Duże wydarzenia branżowe, w których warto uczestniczyć',
+  },
 ];
 
 export default function BlogPostItems(props): JSX.Element {
