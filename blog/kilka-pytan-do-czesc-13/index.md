@@ -6,7 +6,6 @@ tags:
   - 'warsztat'
   - 'wywiady'
   - 'społeczność'
-  - 'wywiad'
 coverImage: 'interview-905535_640.png'
 ---
 

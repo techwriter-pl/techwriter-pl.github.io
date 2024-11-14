@@ -6,7 +6,6 @@ tags:
   - 'warsztat'
   - 'wywiady'
   - 'społeczność'
-  - 'wywiad'
 coverImage: 'sg_motor_001a-e1448398858231.jpg'
 ---
 

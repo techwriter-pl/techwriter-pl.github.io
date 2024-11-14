@@ -7,7 +7,7 @@ tags:
   - 'z-kraju'
   - 'ze-świata'
   - 'konferencje'
-  - 'tlumaczenia'
+  - 'tłumaczenia'
 coverImage: 'TranslationLocalizationConference.jpg'
 ---
 

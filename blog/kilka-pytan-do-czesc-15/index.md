@@ -6,7 +6,6 @@ tags:
   - 'warsztat'
   - 'wywiady'
   - 'społeczność'
-  - 'wywiad'
 coverImage: 'nik-macmillan-280300.jpg'
 ---
 

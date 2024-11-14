@@ -7,7 +7,6 @@ tags:
   - 'wywiady'
   - 'agile'
   - 'scrum'
-  - 'wywiad'
 coverImage: 'kilka_pytan_do_25.png'
 ---
 

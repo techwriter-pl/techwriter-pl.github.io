@@ -6,7 +6,6 @@ tags:
   - 'warsztat'
   - 'wywiady'
   - 'społeczność'
-  - 'wywiad'
 coverImage: 'peppershaker-e1424725523734.jpg'
 ---
 

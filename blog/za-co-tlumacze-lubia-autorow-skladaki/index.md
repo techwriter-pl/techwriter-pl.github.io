@@ -11,7 +11,7 @@ tags:
   - 'manuale'
   - 'on-line-help'
   - 'pomoc-użytkownika'
-  - 'tlumaczenia'
+  - 'tłumaczenia'
 coverImage: 'duplo-1981724_640.jpg'
 ---
 

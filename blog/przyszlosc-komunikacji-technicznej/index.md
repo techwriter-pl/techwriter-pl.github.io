@@ -8,7 +8,7 @@ tags:
   - 'konferencje'
   - 'lokalizacja'
   - 'technologie'
-  - 'tlumaczenia'
+  - 'tłumaczenia'
 coverImage: 'technologia.png'
 ---
 

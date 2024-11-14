@@ -7,7 +7,7 @@ tags:
   - 'warsztat'
   - 'humor'
   - 'lokalizacja'
-  - 'tlumaczenia'
+  - 'tłumaczenia'
   - 'użyteczność'
 coverImage: 'bad.jpg'
 ---

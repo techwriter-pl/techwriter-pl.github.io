@@ -7,7 +7,7 @@ tags:
   - 'z-kraju'
   - 'konferencje'
   - 'społeczność'
-  - 'tlumaczenia'
+  - 'tłumaczenia'
 coverImage: 'Konferencja-KTLC-2022.png'
 ---
 

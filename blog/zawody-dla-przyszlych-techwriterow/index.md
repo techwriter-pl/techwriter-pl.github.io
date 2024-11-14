@@ -6,7 +6,7 @@ tags:
   - 'news'
   - 'z-kraju'
   - 'język'
-  - 'tlumaczenia'
+  - 'tłumaczenia'
 coverImage: 'olimpiada.jpg'
 ---
 

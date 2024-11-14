@@ -8,7 +8,7 @@ tags:
   - 'dokumentacja'
   - 'kariera'
   - 'praca'
-  - 'tlumaczenia'
+  - 'tłumaczenia'
 coverImage: 'origin-mode1-760x362-1.jpg'
 ---
 

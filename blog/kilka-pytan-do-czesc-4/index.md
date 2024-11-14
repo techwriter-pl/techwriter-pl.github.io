@@ -6,7 +6,6 @@ tags:
   - 'warsztat'
   - 'wywiady'
   - 'społeczność'
-  - 'wywiad'
 coverImage: '1981-IBM-PC5150_a-e1425884892248.jpg'
 ---
 

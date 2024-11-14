@@ -11,7 +11,7 @@ tags:
   - 'manuale'
   - 'on-line-help'
   - 'pomoc-użytkownika'
-  - 'tlumaczenia'
+  - 'tłumaczenia'
 coverImage: 'box-3144128_640.jpg'
 ---
 

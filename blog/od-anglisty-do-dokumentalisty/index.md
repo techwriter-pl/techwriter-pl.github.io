@@ -12,7 +12,7 @@ tags:
   - 'praca'
   - 'społeczność'
   - 'studia'
-  - 'tlumaczenia'
+  - 'tłumaczenia'
 coverImage: 'Od-anglisty-do-dokumentalisty.png'
 ---
 

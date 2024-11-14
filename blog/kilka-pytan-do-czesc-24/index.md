@@ -8,7 +8,6 @@ tags:
   - 'kariera'
   - 'praca'
   - 'społeczność'
-  - 'wywiad'
 coverImage: 'Kilka-pytan-do_24.png'
 ---
 

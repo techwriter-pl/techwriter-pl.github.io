@@ -11,7 +11,7 @@ tags:
   - 'manuale'
   - 'on-line-help'
   - 'pomoc-użytkownika'
-  - 'tlumaczenia'
+  - 'tłumaczenia'
 coverImage: 'hand-1571851_640.jpg'
 ---
 

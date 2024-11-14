@@ -12,7 +12,7 @@ tags:
   - 'meetcontent'
   - 'społeczność'
   - 'szkolenia'
-  - 'tlumaczenia'
+  - 'tłumaczenia'
   - 'treningi'
 coverImage: 'cover-1.png'
 ---

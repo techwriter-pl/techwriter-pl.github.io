@@ -8,7 +8,7 @@ tags:
   - 'przyklady'
   - 'dokumentacja'
   - 'lokalizacja'
-  - 'tlumaczenia'
+  - 'tłumaczenia'
   - 'użyteczność'
 coverImage: '2.jpg'
 ---

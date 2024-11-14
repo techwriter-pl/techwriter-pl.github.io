@@ -7,7 +7,6 @@ tags:
   - 'wywiady'
   - 'kariera'
   - 'praca'
-  - 'wywiad'
 coverImage: 'kilka_pytan_do_26.png'
 ---
 

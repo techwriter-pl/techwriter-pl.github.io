@@ -7,7 +7,6 @@ tags:
   - 'wywiady'
   - 'dokumentacja'
   - 'społeczność'
-  - 'wywiad'
 coverImage: 'wywiad_23.png'
 ---
 

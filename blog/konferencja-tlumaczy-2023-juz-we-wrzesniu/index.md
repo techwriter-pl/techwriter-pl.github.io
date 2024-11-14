@@ -6,7 +6,7 @@ tags:
   - 'news'
   - 'z-kraju'
   - 'konferencje'
-  - 'tlumaczenia'
+  - 'tłumaczenia'
 coverImage: 'konferencja_tlumaczy_2023.png'
 ---
 

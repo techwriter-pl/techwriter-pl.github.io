@@ -8,7 +8,7 @@ tags:
   - 'edukacja'
   - 'kariera'
   - 'konferencje'
-  - 'tlumaczenia'
+  - 'tłumaczenia'
 coverImage: 'baner-e1535404907525.jpg'
 ---
 

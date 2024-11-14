@@ -7,7 +7,6 @@ tags:
   - 'wywiady'
   - 'kariera'
   - 'praca'
-  - 'wywiad'
 coverImage: 'wywiad_29.png'
 ---
 

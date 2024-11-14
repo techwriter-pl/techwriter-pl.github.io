@@ -3,7 +3,7 @@ title: 'CV - Jak pisać żeby było skuteczne?'
 authors: mrozek
 date: '2023-11-05'
 tags:
-  - 'CV'
+  - 'cv'
   - 'kariera'
   - 'rekrutacja'
   - 'praca'

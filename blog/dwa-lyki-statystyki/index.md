@@ -8,7 +8,7 @@ tags:
   - 'ze-świata'
   - 'język'
   - 'praca'
-  - 'tlumaczenia'
+  - 'tłumaczenia'
 coverImage: 'a_the.png'
 ---
 

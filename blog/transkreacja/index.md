@@ -7,7 +7,7 @@ tags:
   - 'przyklady'
   - 'warsztat'
   - 'lokalizacja'
-  - 'tlumaczenia'
+  - 'tłumaczenia'
 coverImage: 'transkreacja.jpg'
 ---
 

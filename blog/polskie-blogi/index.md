@@ -7,7 +7,7 @@ tags:
   - 'warsztat'
   - 'język'
   - 'społeczność'
-  - 'tlumaczenia'
+  - 'tłumaczenia'
 coverImage: 'blogi.jpg'
 ---
 
