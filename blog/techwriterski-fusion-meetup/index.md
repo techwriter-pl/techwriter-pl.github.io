@@ -3,7 +3,7 @@ title: 'Zapraszamy na techwriterski fusion meetup'
 authors: niewiarowski
 date: '2023-09-05'
 tags:
-  - 'meetup'
+  - 'meetups'
   - 'edukacja'
   - 'społeczność'
 coverImage: 'hitachi-meetup-cover.png'

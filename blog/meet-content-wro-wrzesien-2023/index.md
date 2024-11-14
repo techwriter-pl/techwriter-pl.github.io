@@ -3,7 +3,7 @@ title: 'MeetContentWRO wrzesień 2023'
 authors: agnieszka
 date: '2023-09-15'
 tags:
-  - 'meetup'
+  - 'meetups'
   - 'edukacja'
   - 'społeczność'
 coverImage: 'meet-content-wro-22.png'

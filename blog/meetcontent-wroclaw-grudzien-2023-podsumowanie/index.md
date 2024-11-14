@@ -3,7 +3,7 @@ title: 'MeetContentWRO grudzień 2023 - Podsumowanie'
 authors: mrozek
 date: '2023-12-14'
 tags:
-  - 'meetup'
+  - 'meetups'
   - 'api'
   - 'dokumentacja-developerska'
   - 'społeczność'

@@ -12,12 +12,12 @@ type PopularFilterProps = {
 
 const popularFilters: PopularFilterProps[] = [
   {
-    label: 'oferty pracy',
+    label: 'oferty-pracy',
     permalink: '/tags/oferty-pracy',
     description: 'Ogłoszenia o pracę',
   },
   {
-    label: 'badanie plac',
+    label: 'badanie-płac',
     permalink: '/tags/badanie-plac',
     description: 'Ankieta o zarobkach w komunikacji technicznej',
   },

@@ -6,7 +6,7 @@ tags:
   - 'oferty-pracy'
   - 'praca'
   - 'kariera'
-  - 'oferta-pracy'
+  - 'oferty-pracy'
   - 'praca'
 coverImage: 'nobl9.png'
 ---

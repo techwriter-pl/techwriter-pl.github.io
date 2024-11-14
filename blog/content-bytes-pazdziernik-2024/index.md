@@ -4,17 +4,20 @@ authors: bczyz
 date: '2024-09-26'
 tags:
   - 'news'
-  - 'meetup'
+  - 'meetups'
   - 'społeczność'
+  - 'content-bytes'
 coverImage: 'ContentBytesKrk1.png'
 ---
 
 # Content Bytes: Nowe wydarzenie na contentowej mapie!
 
-Upalne lato już za nami, ale ekipa **Content Bytes** nie próżnuje, dbając o skuteczne podgrzanie atmosfery tej jesieni.
-Już za tydzień mamy dla was nie jeden, a dwa tematy :)
-Podczas spotkania porozmawiamy o dokumentacji API oraz przyszłości twórców contentu w świecie dynamicznie zmieniających się produktów.
-Ugości nas **Forte Spaces**, a dyskusje uprzyjemnią nam przekąski :pizza: od **Apify**.
+Upalne lato już za nami, ale ekipa **Content Bytes** nie próżnuje, dbając o
+skuteczne podgrzanie atmosfery tej jesieni. Już za tydzień mamy dla was nie
+jeden, a dwa tematy :) Podczas spotkania porozmawiamy o dokumentacji API oraz
+przyszłości twórców contentu w świecie dynamicznie zmieniających się produktów.
+Ugości nas **Forte Spaces**, a dyskusje uprzyjemnią nam przekąski :pizza: od
+**Apify**.
 
 Tematy przybliżą wam
 [**Barbara Czyż**](https://www.linkedin.com/in/barbara-szwarc) oraz
@@ -72,7 +75,8 @@ Krupnicza 3, Kraków
 
 ## Kilka słów o sponsorach
 
-Pierwsze spotkanie Content Bytes jest sponsorowane przez **Forte Digital** i **Apify**.
+Pierwsze spotkanie Content Bytes jest sponsorowane przez **Forte Digital** i
+**Apify**.
 
 ### Forte Digital
 
@@ -96,8 +100,10 @@ publiczną bibliotekę do web scrapingu.
 ## O nas
 
 Celem **Content Bytes** jest stworzenie przestrzeni, w której twórcy contentu
-mogą wymieniać się doświadczeniami i omawiać tematy związane z tworzeniem treści.
-Według nas, content to nie tylko sam proces pisania, ale tak naprawdę cały ekosystem uwzględniający UX, UI, design, a także zagadnienia dostępności, zarządzania i związanej z nimi technologii.
+mogą wymieniać się doświadczeniami i omawiać tematy związane z tworzeniem
+treści. Według nas, content to nie tylko sam proces pisania, ale tak
+naprawdę cały ekosystem uwzględniający UX, UI, design, a także zagadnienia
+dostępności, zarządzania i związanej z nimi technologii.
 
 ### Skontaktuj się z organizatorem
 
@@ -120,4 +126,5 @@ prelegenta. Podczas wydarzenia można jednak zadawać pytania i robić zdjęcia,
 można też zapytać o udostępnienie slajdów.
 
 P: Zarejestrowałem/am się, ale nie mogę wziąć udziału. Co powinienem/nnam
-zrobić? <br /> O: Jeśli wiesz, że nie dasz rady przyjść, daj nam znać pisząc na adres [contentbytes.krk@gmail.com](mailto:contentbytes.krk@gmail.com).
+zrobić? <br /> O: Jeśli wiesz, że nie dasz rady przyjść, daj nam znać pisząc na
+adres [contentbytes.krk@gmail.com](mailto:contentbytes.krk@gmail.com).

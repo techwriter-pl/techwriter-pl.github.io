@@ -7,7 +7,7 @@ tags:
   - 'z-kraju'
   - 'dokumentacja'
   - 'meetcontent'
-  - 'meetup'
+  - 'meetups'
   - 'społeczność'
 coverImage: 'meetcontent_styczen.png'
 ---

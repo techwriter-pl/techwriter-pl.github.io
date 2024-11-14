@@ -4,8 +4,9 @@ authors: bczyz
 date: '2024-10-23'
 tags:
   - 'news'
-  - 'meetup'
+  - 'meetups'
   - 'społeczność'
+  - 'content-bytes'
 coverImage: 'contentbytes-girlsjs.png'
 ---
 
@@ -13,8 +14,8 @@ coverImage: 'contentbytes-girlsjs.png'
 
 Choć na zewnątrz robi się już coraz ciemniej (i straszniej :ghost:), ekipa
 Content Bytes nie boi się nowych wyzwań, zwłaszcza gdy u boku mamy **girls.js**!
-Współpraca ta pozwala nam jeszcze w tym miesiącu powrócić z
-kolejnym wydarzeniem, tym razem poświęconym tematyce **dostępności treści**.
+Współpraca ta pozwala nam jeszcze w tym miesiącu powrócić z kolejnym
+wydarzeniem, tym razem poświęconym tematyce **dostępności treści**.
 
 Podczas spotkania [Olga Stefaniuk](https://www.linkedin.com/in/olgastefaniuk),
 [Justi Sztyper](https://www.linkedin.com/in/justi-sztyper-134520a5/) oraz
@@ -60,10 +61,9 @@ Prezentacje poprowadzą:
   wiedzą, tworzenia społeczności i programowania, a także zainteresowania w
   obszarach dostępności w aplikacjach webowych oraz kognitywistyki. Olga jest
   również team leaderką w girls.js, gdzie wspiera kobiety wchodzące w świat IT.
-- **Justi Sztyper**: Justi zajmuje się dokumentacją od wielu lat,
-  dbając o to, aby tworzone treści były jak najbardziej dostępne dla
-  użytkowników. W pracy technical writera Justi najbardziej ceni sobie podejście
-  docs-as-code.
+- **Justi Sztyper**: Justi zajmuje się dokumentacją od wielu lat, dbając o to,
+  aby tworzone treści były jak najbardziej dostępne dla użytkowników. W pracy
+  technical writera Justi najbardziej ceni sobie podejście docs-as-code.
 - **Zuzanna Szott**: Projektantka, badaczka i socjolożka na co dzień pracująca w
   agencji projektowo-badawczej Mobee Dick. W swojej pracy wdraża inkluzywne i
   dostępne rozwiązania do produktów cyfrowych, dba o neutralny i włączający
@@ -80,15 +80,15 @@ Technology Center, Lubicz 23/a, Kraków
 
 ## Kilka słów o sponsorach i partnerach
 
-Październikowe spotkanie sponsorowane jest przez **GPC Global Technology Center**, a
-partnerują nam **girls.js**.
+Październikowe spotkanie sponsorowane jest przez **GPC Global Technology
+Center**, a partnerują nam **girls.js**.
 
 ### GPC Global Technology Center
 
-[Genuine Parts Company (GPC)](https://www.genpt.com/) jest globalnym liderem dystrybucji
-części samochodowych i przemysłowych. Globalne Centrum Technologii GPC w
-Krakowie, powstałe w 2022 roku, pełni rolę centrum badań i rozwoju, wspierając
-GPC w zakresie transformacji cyfrowej. Inżynierowie GCP pracują nad
+[Genuine Parts Company (GPC)](https://www.genpt.com/) jest globalnym liderem
+dystrybucji części samochodowych i przemysłowych. Globalne Centrum Technologii
+GPC w Krakowie, powstałe w 2022 roku, pełni rolę centrum badań i rozwoju,
+wspierając GPC w zakresie transformacji cyfrowej. Inżynierowie GCP pracują nad
 zaawansowanymi technologiami i rozwiązaniami usprawniającymi działalność i
 rozwój GPC. Ich praca obejmuje różne obszary, w tym handel elektroniczny i
 platformy danych, rozwiązania w zakresie łańcucha dostaw, systemy sprzedaży i

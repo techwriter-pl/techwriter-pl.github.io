@@ -1,14 +1,14 @@
 ---
 title:
-  '[NIEAKTUALNE] Oferta pracy: technical writer (Handsontable) – zdalnie, hybrydowo lub
-  stacjonarnie (Gdynia)'
+  '[NIEAKTUALNE] Oferta pracy: technical writer (Handsontable) – zdalnie,
+  hybrydowo lub stacjonarnie (Gdynia)'
 authors: agnieszka
 date: '2023-08-03'
 tags:
   - 'oferty-pracy'
   - 'praca'
   - 'kariera'
-  - 'oferta-pracy'
+  - 'oferty-pracy'
   - 'praca'
 coverImage: 'handsontable.png'
 ---

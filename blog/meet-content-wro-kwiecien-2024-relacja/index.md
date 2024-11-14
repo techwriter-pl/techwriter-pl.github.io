@@ -3,7 +3,7 @@ title: 'MeetContentWRO kwiecień 2024 - Relacja'
 authors: mrozek
 date: '2024-05-20'
 tags:
-  - 'meetup'
+  - 'meetups'
   - 'estymacja'
   - 'społeczność'
   - 'markdown'

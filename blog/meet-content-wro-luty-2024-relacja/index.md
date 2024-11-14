@@ -3,7 +3,7 @@ title: 'MeetContentWRO luty 2024 - Relacja'
 authors: mrozek
 date: '2024-03-14'
 tags:
-  - 'meetup'
+  - 'meetups'
   - 'video-produktowe'
   - 'społeczność'
 coverImage: '25MeetContentWRO.png'
