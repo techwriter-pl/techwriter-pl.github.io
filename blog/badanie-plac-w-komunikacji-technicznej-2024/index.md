@@ -1,7 +1,7 @@
 ---
 title: 'Badanie płac w komunikacji technicznej 2024 – wypełnij ankietę!'
 authors: mojk
-date: '2024-11-20'
+date: '2024-11-18'
 tags:
   - 'badanie-płac'
   - 'praca'
@@ -9,11 +9,11 @@ tags:
   - 'kariera'
   - 'praca'
   - 'społeczność'
-coverImage: 'badanie_plac_2023.png'
+coverImage: 'badanie_plac_2024.png'
 ---
 
-Zapraszamy do wypełnienia corocznej ankiety o zarobkach w
-naszej zacnej branży. Wszystkie niezbędne informacje znajdziecie poniżej.
+Zapraszamy do wypełnienia corocznej ankiety o zarobkach w naszej zacnej branży.
+Wszystkie niezbędne informacje znajdziecie poniżej.
 
 <!--truncate-->
 
@@ -36,11 +36,12 @@ W tym roku również zachęcamy do udziału w badaniu.
 
 ## Kilka słów o badaniu
 
-Nasze badanie przeprowadzamy w celu pokazania Wam pewnych trendów oraz ewentualnych
-zmian charakterystycznych dla komunikacji technicznej w Polsce.
+Nasze badanie przeprowadzamy w celu pokazania Wam pewnych trendów oraz
+ewentualnych zmian charakterystycznych dla komunikacji technicznej w Polsce.
 
-Szanujemy Waszą prywatność, dlatego odpowiedzi na pytania są **w pełni anonimowe**. 
-Nie zbieramy żadnych danych personalnych, które pozwoliłyby nam na ustalenie tożsamości respondentów.
+Szanujemy Waszą prywatność, dlatego odpowiedzi na pytania są **w pełni
+anonimowe**. Nie zbieramy żadnych danych personalnych, które pozwoliłyby nam na
+ustalenie tożsamości respondentów.
 
 ## Dlaczego warto wypełnić tę ankietę?
 
@@ -54,16 +55,18 @@ Nie zbieramy żadnych danych personalnych, które pozwoliłyby nam na ustalenie 
    zarobki wzrastają czy spadają.
 5. Być może po opublikowaniu wyników będziecie mieli mocny argument aby poprosić
    o podwyżkę.
-6. Im więcej osób wypełni ankietę, tym lepiej będziemy w stanie przeanalizować co się dzieje w polskiej komunikacji technicznej, a to z kolei jest wymierna korzyść dla nas wszystkich.
+6. Im więcej osób wypełni ankietę, tym lepiej będziemy w stanie przeanalizować
+   co się dzieje w polskiej komunikacji technicznej, a to z kolei jest wymierna
+   korzyść dla nas wszystkich.
 
 ## Ile zajmie mi wypełnienie ankiety?
 
-Ankieta zawiera kilkanaście krótkich pytań. Jej wypełnienie nie powinno zająć więcej
-niż kilka minut.
+Ankieta zawiera kilkanaście krótkich pytań. Jej wypełnienie nie powinno zająć
+więcej niż kilka minut.
 
 ## Jak długo ankieta będzie aktywna?
 
-Na odpowiedzi czekamy do **20 grudnia 2024** roku.
+Na odpowiedzi czekamy do **20 grudnia 2024** roku.
 
 ## Gdzie będzie można sprawdzić wyniki ankiety?
 
@@ -72,9 +75,9 @@ Po zakończeniu badania, wyniki opublikujemy na
 
 ## Chcę wypełnić ankietę
 
-Dziękujemy, że chcesz poświęcić swój czas i dołożyć cegiełkę do budowania
-naszej społeczności. Zatem, do dzieła!
+Dziękujemy, że chcesz poświęcić swój czas i dołożyć cegiełkę do budowania naszej
+społeczności. Zatem, do dzieła!
 
-[![](img/kliknij-aby-wypelnic-ankiete-23.png)](https://forms.gle/2eyAXAL8fyuLF7fH9)
+[![](img/kliknij-aby-wypelnic-ankiete-24.png)](https://forms.gle/2eyAXAL8fyuLF7fH9)
 
-Ankieta jest dostępna pod tym [linkiem](https://forms.gle/2eyAXAL8fyuLF7fH9).
+Ankieta jest dostępna pod tym [linkiem](https://forms.gle/2eyAXAL8fyuLF7fH9).
