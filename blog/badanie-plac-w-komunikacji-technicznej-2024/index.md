@@ -53,7 +53,7 @@ ustalenie tożsamości respondentów.
    będą wiedzieć ile kosztują najlepsi specjaliści w branży, czyli Wy 🙂.
 4. Jest to ankieta, która za kilka lat pozwoli nam wszystkim prześledzić czy
    zarobki wzrastają czy spadają.
-5. Być może po opublikowaniu wyników będziecie mieli mocny argument aby poprosić
+5. Być może po opublikowaniu wyników będziecie mieli mocny argument, aby poprosić
    o podwyżkę.
 6. Im więcej osób wypełni ankietę, tym lepiej będziemy w stanie przeanalizować
    co się dzieje w polskiej komunikacji technicznej, a to z kolei jest wymierna
