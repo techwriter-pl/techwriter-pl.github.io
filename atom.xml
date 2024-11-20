@@ -2,11 +2,136 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://techwriter.pl/</id>
     <title>techwriter.pl Blog</title>
-    <updated>2024-11-18T00:00:00.000Z</updated>
+    <updated>2024-11-20T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://techwriter.pl/"/>
     <subtitle>techwriter.pl Blog</subtitle>
     <icon>https://techwriter.pl/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Content Bytes #3: Porozmawiajmy o wiedzy i umiejętnościach]]></title>
+        <id>https://techwriter.pl/content-bytes-listopad-2024</id>
+        <link href="https://techwriter.pl/content-bytes-listopad-2024"/>
+        <updated>2024-11-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Choć jesienno-zimowa zawierucha za oknem sprzyja zagrzebaniu się w fotelu z]]></summary>
+        <content type="html"><![CDATA[<p>Choć jesienno-zimowa zawierucha za oknem sprzyja zagrzebaniu się w fotelu z
+ciepłą herbatą, gwarantujemy, że kolejne spotkanie <strong>Content Bytes</strong> jest warte
+wynurzenia się spod kocyka.</p>
+<p>Ponownie szykujemy dla Was dwa tematy, tym razem w obszarze wiedzy i
+umiejętności. Wzbogacanie wiedzy i wykorzystywanie jej z pożytkiem dla siebie i
+innych stanowi ważną częścią kariery, obojętnie, czy właśnie rozpoczynasz swoją
+przygodę z tworzeniem treści, czy też „siedzisz w temacie” od lat.</p>
+<p>Nasi prezenterzy spojrzą na ten temat z dwóch perspektyw:
+<a href="https://www.linkedin.com/in/lis-malgorzata/" target="_blank" rel="noopener noreferrer">Małgorzata Lis</a> opowie jak to jest
+być świeżo upieczoną technical writerką w świecie IT, a
+<a href="https://www.linkedin.com/in/aleksanderpiskorz/" target="_blank" rel="noopener noreferrer">Aleksander Piskorz</a> zdradzi nam
+jak przekuć swoją wiedzę w biznesowe korzyści.</p>
+<p>Tym razem gości nas <strong>Uniwersytet Jagielloński</strong>, a dyskusje uprzyjemnią nam
+przekąski <!-- -->🍕<!-- --> od <strong>Apify</strong>.</p>
+<p>Pamiętajcie o rejestracji, to pozwoli nam na wybór odpowiedniej sali i
+zaplanowanie poczęstunku. Link do formularza znajdziecie
+<a href="https://forms.gle/jNPKssKkdxeuCqMJ6" target="_blank" rel="noopener noreferrer">tutaj</a>.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="tematy">Tematy<a href="https://techwriter.pl/content-bytes-listopad-2024#tematy" class="hash-link" aria-label="Bezpośredni link do Tematy" title="Bezpośredni link do Tematy">​</a></h2>
+<p><strong><em>Okiem początkującej tech writerki: Moja przygoda ze stażem oraz wskazówki dla
+mentorów</em></strong></p>
+<p>Wejście do świata komunikacji technicznej może wydawać się przytłaczające,
+zwłaszcza dla tych, którzy dopiero rozpoczynają karierę. Aby nieco złagodzić to
+wrażenie, opowiem Wam o moich początkach w zawodzie tech writerki. Pomogą nam w
+tym moje doświadczenia ze stażu. To z nich dowiecie się jak wykorzystać
+najlepsze praktyki w tworzeniu dokumentacji, jakie narzędzia wykorzystać oraz
+jak nabyć umiejętności, które mają znaczenie dla tej roli.</p>
+<p>Prezentację kieruję zarówno do osób nowych w branży, jak i do starszych stażem
+mentorów. Początkujący technical writerzy będą mogli zdobyć nowe doświadczenia,
+a mentorzy zrozumieć oczekiwania i wyzwania, z którymi muszą się mierzyć osoby
+wchodzące w branżę.</p>
+<p><strong><em>Jak przekuć wiedzę w realną wartość biznesową (i nie zwariować)</em></strong></p>
+<p>Powiedzmy sobie szczerze: samo posiadanie wiedzy to za mało. Twój umysł może być
+wypełniony wiedzą, ale nic nie zyskujesz gdy nie dzielisz się nią z innymi. Moja
+prezentacja pokaże Wam jak proste taktyki, działajace nawet jeżeli jesteście
+przysypani górą zadań, pozwolą na przekucie Waszej wiedzy w korzyści biznesowe i
+finansowe. Korzystając z własnych doświadczeń, pokażę Wam jak wykorzystać
+narzędzia i technologie, AI oraz to, co przemawia do mnie najbardziej: jak
+zmienić swój sposób myślenia i nastawienie do zadań.</p>
+<p>Żadnej teorii. Żadnych skomplikowanych strategii. Stawiam na praktyczne
+przykłady, które pozwoliły mnie i moim klientom przejść od sterty
+niedokończonych dokumentów i poczucia, że wszystko co innowacyjne już zostało
+zrobione, do bycia widocznym i cenionym.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="prelegenci">Prelegenci<a href="https://techwriter.pl/content-bytes-listopad-2024#prelegenci" class="hash-link" aria-label="Bezpośredni link do Prelegenci" title="Bezpośredni link do Prelegenci">​</a></h2>
+<p>Podczas trzeciego spotkania Content Bytes prezentacje poprowadzą:</p>
+<p><strong>Małgorzata Lis</strong></p>
+<p>Małgorzata jest studentką pierwszego roku studiów magisterskich na kierunku
+informatyka stosowana. Stażystką w dziale dokumentacji została na drugim roku
+studiów licencjackich pomimo braku wcześniejszego doświadczenia w komunikacji
+technicznej. Po kolejnym stażu została pełnoprawną technical writerką w IBM i
+pracuje tam już ponad rok. Małgorzata interesuje się językiem, wyszukiwaniem
+informacji oraz kreatywnym podejściem do tworzenia treści. W połączeniu z
+wiedzą zdobytą podczas studiów, te umiejętności i pasje stanowią mieszankę
+perfekcyjną. W wolnym czasie Małgorzata lubi oglądać koreańskie dramy, co pomaga
+w nauce nowego języka, a także maluje pejzaże po numerach.</p>
+<p><strong>Aleksander Piskorz</strong></p>
+<p>Aleksander od ponad dekady zajmuje się dziennikarstwem technologicznym, łącząc
+technologię, ludzi i biznes. Publikuje w wiodących środkach masowego przekazu w
+Polsce, a jego współpraca z firmami takimi jak Meta, Google oraz Huawei,
+pozwoliła mu na odwiedzenie prawie każdego kontynentu i spojrzenie na globalne
+trendy technologiczne z perspektywy “insidera”. Ostatnie pięć lat Aleksandra to
+praca na styku środowiska startupowego i marketingu.</p>
+<p>Aleksander pomaga przedsiębiorcom i ekspertom w dziedzinie technologii przekuć
+umiejętności w treści, które napędzają biznes. Ponadto doradza w tematach
+związanych ze strategią treści i edukuje w zakresie pracy z AI.</p>
+<p>W <a href="https://aihero.pl/" target="_blank" rel="noopener noreferrer">AI Hero</a> Aleksander nadzoruje komunikację biznesową od
+koncepcji do momentu wdrożenia produktu.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="kiedy-i-gdzie">Kiedy i gdzie<a href="https://techwriter.pl/content-bytes-listopad-2024#kiedy-i-gdzie" class="hash-link" aria-label="Bezpośredni link do Kiedy i gdzie" title="Bezpośredni link do Kiedy i gdzie">​</a></h2>
+<p><strong>Data</strong>: 26.11.2024 <br> <strong>Godzina</strong>: 18:00 <br> <strong>Miejsce</strong>: Filologia
+Angielska Uniwersytetu Jagiellońskiego, ul. Adama Mickiewicza 9A, pokój 105.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="kilka-słów-o-sponsorach">Kilka słów o sponsorach<a href="https://techwriter.pl/content-bytes-listopad-2024#kilka-s%C5%82%C3%B3w-o-sponsorach" class="hash-link" aria-label="Bezpośredni link do Kilka słów o sponsorach" title="Bezpośredni link do Kilka słów o sponsorach">​</a></h2>
+<p>Trzecie spotkanie Content Bytes sponsoruje <strong>Uniwersytet Jagielloński</strong> i
+<strong>Apify</strong>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="instytut-filologii-angielskiej-uniwersytet-jagielloński">Instytut Filologii Angielskiej, Uniwersytet Jagielloński<a href="https://techwriter.pl/content-bytes-listopad-2024#instytut-filologii-angielskiej-uniwersytet-jagiello%C5%84ski" class="hash-link" aria-label="Bezpośredni link do Instytut Filologii Angielskiej, Uniwersytet Jagielloński" title="Bezpośredni link do Instytut Filologii Angielskiej, Uniwersytet Jagielloński">​</a></h3>
+<p>Instytut Filologii Angielskiej jest najstarszą placówką anglistyczną w Polsce.
+Główne obiekty Wydziału Filologicznego zlokalizowane są w centrum Krakowa, w
+nowoczesnym kompleksie budynków Collegium Paderevianum wyposażonym w laboratoria
+językowe oraz strefy wypoczynkowe. Biblioteka Wydziału Filologicznego zapewnia
+użytkownikom dostęp do krajowych i światowych zasobów informacji – stanowi
+bowiem nowoczesne centrum informacji dotyczące filologii obcych, historii
+literatury, językoznawstwa, metodyki nauczania, historii, kultury, sztuki oraz
+przekładoznawstwa.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="apify">Apify<a href="https://techwriter.pl/content-bytes-listopad-2024#apify" class="hash-link" aria-label="Bezpośredni link do Apify" title="Bezpośredni link do Apify">​</a></h3>
+<p><a href="https://apify.com/" target="_blank" rel="noopener noreferrer">Apify</a> jest platformą, którą programiści mogą wykorzystać
+do budowania, wdrażania i publikowania narzędzi do web scrapingu, ekstrakcji
+danych i automatyzacji. Apify udostępnia ponad 1500 gotowych narzędzi,
+pozwalając na uzyskanie dodatkowego przychodu poprzez udostępnianie je innym
+użytkownikom. Dodatkowo Apify odpowiada za <a href="https://crawlee.dev/" target="_blank" rel="noopener noreferrer">Crawlee</a>,
+publiczną bibliotekę do web scrapingu.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="o-nas">O nas<a href="https://techwriter.pl/content-bytes-listopad-2024#o-nas" class="hash-link" aria-label="Bezpośredni link do O nas" title="Bezpośredni link do O nas">​</a></h2>
+<p>Celem <strong>Content Bytes</strong> jest stworzenie przestrzeni, w której twórcy contentu
+mogą wymieniać się doświadczeniami i omawiać tematy związane z tworzeniem
+treści. Według nas content to nie tylko sam proces pisania, ale tak
+naprawdę&nbsp;cały ekosystem uwzględniający UX, UI, design, a także zagadnienia
+dostępności, zarządzania i związanej z nimi technologii.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="skontaktuj-się-z-organizatorem">Skontaktuj się z organizatorem<a href="https://techwriter.pl/content-bytes-listopad-2024#skontaktuj-si%C4%99-z-organizatorem" class="hash-link" aria-label="Bezpośredni link do Skontaktuj się z organizatorem" title="Bezpośredni link do Skontaktuj się z organizatorem">​</a></h3>
+<p>Organizatorom zależy, by spotkania były istotne i przybliżały tematy, które są
+dla Was interesujące. Możecie zgłosić temat, a my dołożymy wszelkich starań, aby
+znaleźć prelegentów, którzy będą mogli o nim porozmawiać. Możecie także sami
+zostać prelegentami na jednym z naszych spotkań.</p>
+<p>Jeżeli jesteście zainteresowani, napiszcie do nas:
+<strong><a href="mailto:contentbytes.krk@gmail.com" target="_blank" rel="noopener noreferrer">contentbytes.krk@gmail.com</a></strong>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="często-zadawane-pytania">Często zadawane pytania<a href="https://techwriter.pl/content-bytes-listopad-2024#cz%C4%99sto-zadawane-pytania" class="hash-link" aria-label="Bezpośredni link do Często zadawane pytania" title="Bezpośredni link do Często zadawane pytania">​</a></h3>
+<p>P: Czy wydarzenie będzie nagrywane lub transmitowane na żywo? <br> O: Na
+chwilę obecną nie. Stawiamy na spotkania na miejscu, gdzie możesz osobiście
+poznać inne osoby zainteresowane contentem.</p>
+<p>P: Czy można udostępnić prezentacje prelegentów? <br> O: To zależy od
+prelegenta. Podczas wydarzenia można jednak zadawać pytania i robić zdjęcia,
+można też zapytać o udostępnienie slajdów.</p>
+<p>P: Zarejestrowałem/am się, ale nie mogę wziąć udziału. Co powinienem/nnam
+zrobić? <br> O: Jeśli wiesz, że nie dasz rady przyjść, daj nam znać pisząc na
+adres <a href="mailto:contentbytes.krk@gmail.com" target="_blank" rel="noopener noreferrer">contentbytes.krk@gmail.com</a>.</p>]]></content>
+        <author>
+            <name>Barbara Czyż</name>
+        </author>
+        <category label="news" term="news"/>
+        <category label="meetups" term="meetups"/>
+        <category label="społeczność" term="społeczność"/>
+        <category label="content-bytes" term="content-bytes"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Badanie płac w komunikacji technicznej 2024 – wypełnij ankietę!]]></title>
         <id>https://techwriter.pl/badanie-plac-w-komunikacji-technicznej-2024</id>
@@ -1767,231 +1892,5 @@ naszym kanale .</p>]]></content>
         <category label="meetcontent" term="meetcontent"/>
         <category label="społeczność" term="społeczność"/>
         <category label="meetups" term="meetups"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Docusaurus - zielony przyjaciel tech writera]]></title>
-        <id>https://techwriter.pl/docusaurus-zielony-przyjaciel</id>
-        <link href="https://techwriter.pl/docusaurus-zielony-przyjaciel"/>
-        <updated>2024-05-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Generator stron statycznych stworzony z myślą o dokumentacji. Czy się faktycznie]]></summary>
-        <content type="html"><![CDATA[<p>Generator stron statycznych stworzony z myślą o dokumentacji. Czy się faktycznie
-nadaje? Oto nasze wrażenia.</p>
-<!-- -->
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="co-to-jest-docusaurus">Co to jest Docusaurus?<a href="https://techwriter.pl/docusaurus-zielony-przyjaciel#co-to-jest-docusaurus" class="hash-link" aria-label="Bezpośredni link do Co to jest Docusaurus?" title="Bezpośredni link do Co to jest Docusaurus?">​</a></h2>
-<p>Docusaurus to Static Site Generator, czyli aplikacja do generowania stron
-statycznych. Przedstawicielem tej grupy jest na przykład
-<a href="https://www.dita-ot.org/" target="_blank" rel="noopener noreferrer">DITA OT</a>, ale jest ich
-<a href="https://jamstack.org/generators/" target="_blank" rel="noopener noreferrer">znacznie więcej</a>. Podobnie jak DITA OT,
-Docusaurus został stworzony do dokumentacji, ale nie ma on nic wspólnego z ditą.
-W Docusaurusie piszemy w formacie Markdown, a konkretnie MDX.</p>
-<p>W dużym skrócie, projekt strony z Docusaurusem ma folder "docs" w którym piszemy
-swoje strony (topiki, artykuły) i plik, który pozwala nam zarządzać nawigacją.</p>
-<p>Jeżeli korzystacie z narzędzi wokół programowania front-end, to na pewno
-widzieliście już Docusaurusa, na przykład na stronie
-<a href="https://yarnpkg.com/" target="_blank" rel="noopener noreferrer">Yarn</a> albo
-<a href="https://testing-library.com/" target="_blank" rel="noopener noreferrer">Testing Library</a>. Jeżeli nie, to może
-zauważyliście, że (w momencie publikacji tego artykułu) Docusaurus zasila strony
-<a href="https://meetcontent.github.io/" target="_blank" rel="noopener noreferrer">MeetContent</a> i stronę, którą aktualnie czytasz.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="dlaczego-do-dokumentacji">Dlaczego do dokumentacji?<a href="https://techwriter.pl/docusaurus-zielony-przyjaciel#dlaczego-do-dokumentacji" class="hash-link" aria-label="Bezpośredni link do Dlaczego do dokumentacji?" title="Bezpośredni link do Dlaczego do dokumentacji?">​</a></h2>
-<p>Docusaurus od początku był stworzony z myślą o dokumentacji do projektów open
-source dla firmy Meta (ówcześnie Facebook Open Source). Joel Marcey, ich
-<em>developer advocate</em>,
-<a href="https://docusaurus.io/blog/2017/12/14/introducing-docusaurus" target="_blank" rel="noopener noreferrer">napisał w 2017</a>,
-że Docusaurus powstał po to, aby:</p>
-<ol>
-<li>Skupić się na pisaniu dobrej dokumentacji zamiast martwić się o
-infrastrukturę strony.</li>
-<li>Dać stronom dokumentacyjnym najważniejsze funkcjonalności, czyli
-wersjonowanie, wyszukiwanie i blogowanie.</li>
-<li>Dzielić się ze społecznością open source najnowszymi funkcjonalnościami i bug
-fixami w przystepny sposób. Osiągnęli to publikując Docusaurusa jako
-biblioteki NPMowe.</li>
-<li>Żeby stronki o ich projektach open source miały wspólny wygląd i
-funkcjonalność.</li>
-</ol>
-<p>Ta ostatni cecha przysłużyła się szerszej społeczności i stała się swego rodzaju
-standardem w pewnych kręgach.</p>
-<p>Docusaurus ma typowe cechy strony z dokumentacją:</p>
-<ul>
-<li>Strona domowa z linkami do najważniejszych miejsc.</li>
-<li>Podstronki z dokumentacją i nawigacją po lewej, która pozwala się po nich
-swobodnie poruszać.</li>
-<li>Pole wyszukiwania w prawym górnym rogu.</li>
-<li>Sekcja "blog".</li>
-<li>Strona z wersjami i linkami do release note'ów.</li>
-<li>Numer wersji w górnym pasku strony i możliwość przełączania się między
-wersjami.</li>
-<li>Możliwość przełączania się między językami.</li>
-</ul>
-<p>Dodatkowo, na stronach z dokumentacją można używać wszelkich dobrodziejstw
-Markdowna. Oprócz typowych list, tabel, linków i obrazków, możesz znaleźć takie
-rzeczy jak bloki kodu, wyróżnione notki, czy sekcje zwijane. Zobacz nasze
-przykłady poniżej.</p>
-<p>Bloki kodu (<em>code blocks</em>) z pokolorowanymi literkami i przyciskiem do
-kopiowania. Można je też wzbogacić o działający podgląd, jeżeli próbka kodu jest
-na przykład napisana w Reakcie. Co więcej, można pozwolić użytkownikowi edytować
-ten podgląd, tak jak poniżej.</p>
-<div class="playgroundContainer_X_Ta"><div class="playgroundHeader_dyrN">Edytor live</div><div class="playgroundEditor_Q6Y7"><pre class="prism-code language-tsx" style="margin:0;outline:none;padding:10px;font-family:inherit;color:#393A34;background-color:#f6f8fa" spellcheck="false"><span class="token-line" style="color:#393A34"><span class="token keyword" style="color:#00009f">function</span><span class="token plain"> </span><span class="token function" style="color:#d73a49">FruitMachine</span><span class="token punctuation" style="color:#393A34">(</span><span class="token plain">props</span><span class="token punctuation" style="color:#393A34">)</span><span class="token plain"> </span><span class="token punctuation" style="color:#393A34">{</span><span class="token plain"></span>
-</span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token keyword" style="color:#00009f">const</span><span class="token plain"> </span><span class="token punctuation" style="color:#393A34">[</span><span class="token plain">fruit</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"> setFruit</span><span class="token punctuation" style="color:#393A34">]</span><span class="token plain"> </span><span class="token operator" style="color:#393A34">=</span><span class="token plain"> </span><span class="token function" style="color:#d73a49">useState</span><span class="token punctuation" style="color:#393A34">(</span><span class="token punctuation" style="color:#393A34">[</span><span class="token punctuation" style="color:#393A34">]</span><span class="token punctuation" style="color:#393A34">)</span><span class="token punctuation" style="color:#393A34">;</span><span class="token plain"></span>
-</span><span class="token-line" style="color:#393A34">
-</span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token comment" style="color:#999988;font-style:italic">// tutaj wpisz swoje imię:</span><span class="token plain"></span>
-</span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token keyword" style="color:#00009f">const</span><span class="token plain"> name </span><span class="token operator" style="color:#393A34">=</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">'Balthazar'</span><span class="token punctuation" style="color:#393A34">;</span><span class="token plain"></span>
-</span><span class="token-line" style="color:#393A34">
-</span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token keyword" style="color:#00009f">const</span><span class="token plain"> fruitList </span><span class="token operator" style="color:#393A34">=</span><span class="token plain"> </span><span class="token punctuation" style="color:#393A34">[</span><span class="token plain"></span>
-</span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token punctuation" style="color:#393A34">{</span><span class="token plain"></span>
-</span><span class="token-line" style="color:#393A34"><span class="token plain">      fruitEmoji</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">'🍌'</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span>
-</span><span class="token-line" style="color:#393A34"><span class="token plain">      label</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">'Add banana'</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span>
-</span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token punctuation" style="color:#393A34">}</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span>
-</span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token punctuation" style="color:#393A34">{</span><span class="token plain"></span>
-</span><span class="token-line" style="color:#393A34"><span class="token plain">      fruitEmoji</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">'🍎'</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span>
-</span><span class="token-line" style="color:#393A34"><span class="token plain">      label</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">'Add apple'</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span>
-</span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token punctuation" style="color:#393A34">}</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span>
-</span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token punctuation" style="color:#393A34">{</span><span class="token plain"></span>
-</span><span class="token-line" style="color:#393A34"><span class="token plain">      fruitEmoji</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">'🍑'</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span>
-</span><span class="token-line" style="color:#393A34"><span class="token plain">      label</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">'Add peach'</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span>
-</span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token punctuation" style="color:#393A34">}</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span>
-</span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token punctuation" style="color:#393A34">{</span><span class="token plain"></span>
-</span><span class="token-line" style="color:#393A34"><span class="token plain">      fruitEmoji</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">'🥦'</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span>
-</span><span class="token-line" style="color:#393A34"><span class="token plain">      label</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">'Add broccoli (technically, a vegetable)'</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span>
-</span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token punctuation" style="color:#393A34">}</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span>
-</span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token punctuation" style="color:#393A34">]</span><span class="token punctuation" style="color:#393A34">;</span><span class="token plain"></span>
-</span><span class="token-line" style="color:#393A34">
-</span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token keyword" style="color:#00009f">function</span><span class="token plain"> </span><span class="token function" style="color:#d73a49">addFruit</span><span class="token punctuation" style="color:#393A34">(</span><span class="token plain">value</span><span class="token punctuation" style="color:#393A34">)</span><span class="token plain"> </span><span class="token punctuation" style="color:#393A34">{</span><span class="token plain"></span>
-</span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token function" style="color:#d73a49">setFruit</span><span class="token punctuation" style="color:#393A34">(</span><span class="token punctuation" style="color:#393A34">(</span><span class="token plain">existingFruit</span><span class="token punctuation" style="color:#393A34">)</span><span class="token plain"> </span><span class="token arrow operator" style="color:#393A34">=&gt;</span><span class="token plain"> </span><span class="token punctuation" style="color:#393A34">[</span><span class="token spread operator" style="color:#393A34">...</span><span class="token plain">existingFruit</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"> value</span><span class="token punctuation" style="color:#393A34">]</span><span class="token punctuation" style="color:#393A34">)</span><span class="token punctuation" style="color:#393A34">;</span><span class="token plain"></span>
-</span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token punctuation" style="color:#393A34">}</span><span class="token plain"></span>
-</span><span class="token-line" style="color:#393A34">
-</span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token keyword" style="color:#00009f">return</span><span class="token plain"> </span><span class="token punctuation" style="color:#393A34">(</span><span class="token plain"></span>
-</span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag" style="color:#00009f">div</span><span class="token tag" style="color:#00009f"></span>
-</span><span class="token-line" style="color:#393A34"><span class="token tag" style="color:#00009f">      </span><span class="token tag attr-name" style="color:#00a4db">style</span><span class="token tag script language-javascript script-punctuation punctuation" style="color:#393A34">=</span><span class="token tag script language-javascript punctuation" style="color:#393A34">{</span><span class="token tag script language-javascript punctuation" style="color:#393A34">{</span><span class="token tag script language-javascript" style="color:#00009f"></span>
-</span><span class="token-line" style="color:#393A34"><span class="token tag script language-javascript" style="color:#00009f">        margin</span><span class="token tag script language-javascript operator" style="color:#393A34">:</span><span class="token tag script language-javascript" style="color:#00009f"> </span><span class="token tag script language-javascript string" style="color:#e3116c">'1rem 0'</span><span class="token tag script language-javascript punctuation" style="color:#393A34">,</span><span class="token tag script language-javascript" style="color:#00009f"></span>
-</span><span class="token-line" style="color:#393A34"><span class="token tag script language-javascript" style="color:#00009f">      </span><span class="token tag script language-javascript punctuation" style="color:#393A34">}</span><span class="token tag script language-javascript punctuation" style="color:#393A34">}</span><span class="token tag" style="color:#00009f"></span>
-</span><span class="token-line" style="color:#393A34"><span class="token tag" style="color:#00009f">    </span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain-text"></span>
-</span><span class="token-line" style="color:#393A34"><span class="token plain-text">      </span><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag" style="color:#00009f">div</span><span class="token tag" style="color:#00009f"> </span><span class="token tag attr-name" style="color:#00a4db">style</span><span class="token tag script language-javascript script-punctuation punctuation" style="color:#393A34">=</span><span class="token tag script language-javascript punctuation" style="color:#393A34">{</span><span class="token tag script language-javascript punctuation" style="color:#393A34">{</span><span class="token tag script language-javascript" style="color:#00009f"> display</span><span class="token tag script language-javascript operator" style="color:#393A34">:</span><span class="token tag script language-javascript" style="color:#00009f"> </span><span class="token tag script language-javascript string" style="color:#e3116c">'flex'</span><span class="token tag script language-javascript punctuation" style="color:#393A34">,</span><span class="token tag script language-javascript" style="color:#00009f"> flexDirection</span><span class="token tag script language-javascript operator" style="color:#393A34">:</span><span class="token tag script language-javascript" style="color:#00009f"> </span><span class="token tag script language-javascript string" style="color:#e3116c">'column'</span><span class="token tag script language-javascript punctuation" style="color:#393A34">,</span><span class="token tag script language-javascript" style="color:#00009f"> gap</span><span class="token tag script language-javascript operator" style="color:#393A34">:</span><span class="token tag script language-javascript" style="color:#00009f"> </span><span class="token tag script language-javascript string" style="color:#e3116c">'6px'</span><span class="token tag script language-javascript" style="color:#00009f"> </span><span class="token tag script language-javascript punctuation" style="color:#393A34">}</span><span class="token tag script language-javascript punctuation" style="color:#393A34">}</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain-text"></span>
-</span><span class="token-line" style="color:#393A34"><span class="token plain-text">        </span><span class="token punctuation" style="color:#393A34">{</span><span class="token plain">fruitList</span><span class="token punctuation" style="color:#393A34">.</span><span class="token method function property-access" style="color:#d73a49">map</span><span class="token punctuation" style="color:#393A34">(</span><span class="token punctuation" style="color:#393A34">(</span><span class="token punctuation" style="color:#393A34">{</span><span class="token plain"> fruitEmoji</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"> label </span><span class="token punctuation" style="color:#393A34">}</span><span class="token punctuation" style="color:#393A34">)</span><span class="token plain"> </span><span class="token arrow operator" style="color:#393A34">=&gt;</span><span class="token plain"> </span><span class="token punctuation" style="color:#393A34">(</span><span class="token plain"></span>
-</span><span class="token-line" style="color:#393A34"><span class="token plain">          </span><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag" style="color:#00009f">button</span><span class="token tag" style="color:#00009f"></span>
-</span><span class="token-line" style="color:#393A34"><span class="token tag" style="color:#00009f">            </span><span class="token tag attr-name" style="color:#00a4db">key</span><span class="token tag script language-javascript script-punctuation punctuation" style="color:#393A34">=</span><span class="token tag script language-javascript punctuation" style="color:#393A34">{</span><span class="token tag script language-javascript" style="color:#00009f">label</span><span class="token tag script language-javascript punctuation" style="color:#393A34">}</span><span class="token tag" style="color:#00009f"></span>
-</span><span class="token-line" style="color:#393A34"><span class="token tag" style="color:#00009f">            </span><span class="token tag attr-name" style="color:#00a4db">role</span><span class="token tag attr-value punctuation attr-equals" style="color:#393A34">=</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag attr-value" style="color:#e3116c">button</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag" style="color:#00009f"></span>
-</span><span class="token-line" style="color:#393A34"><span class="token tag" style="color:#00009f">            </span><span class="token tag attr-name" style="color:#00a4db">onClick</span><span class="token tag script language-javascript script-punctuation punctuation" style="color:#393A34">=</span><span class="token tag script language-javascript punctuation" style="color:#393A34">{</span><span class="token tag script language-javascript punctuation" style="color:#393A34">(</span><span class="token tag script language-javascript punctuation" style="color:#393A34">)</span><span class="token tag script language-javascript" style="color:#00009f"> </span><span class="token tag script language-javascript arrow operator" style="color:#393A34">=&gt;</span><span class="token tag script language-javascript" style="color:#00009f"> </span><span class="token tag script language-javascript function" style="color:#d73a49">addFruit</span><span class="token tag script language-javascript punctuation" style="color:#393A34">(</span><span class="token tag script language-javascript" style="color:#00009f">fruitEmoji</span><span class="token tag script language-javascript punctuation" style="color:#393A34">)</span><span class="token tag script language-javascript punctuation" style="color:#393A34">}</span><span class="token tag" style="color:#00009f"></span>
-</span><span class="token-line" style="color:#393A34"><span class="token tag" style="color:#00009f">            </span><span class="token tag attr-name" style="color:#00a4db">className</span><span class="token tag attr-value punctuation attr-equals" style="color:#393A34">=</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag attr-value" style="color:#e3116c">button button--primary</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag" style="color:#00009f"></span>
-</span><span class="token-line" style="color:#393A34"><span class="token tag" style="color:#00009f">          </span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain-text"></span>
-</span><span class="token-line" style="color:#393A34"><span class="token plain-text">            </span><span class="token punctuation" style="color:#393A34">{</span><span class="token plain">label</span><span class="token punctuation" style="color:#393A34">}</span><span class="token plain-text"></span>
-</span><span class="token-line" style="color:#393A34"><span class="token plain-text">          </span><span class="token tag punctuation" style="color:#393A34">&lt;/</span><span class="token tag" style="color:#00009f">button</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain"></span>
-</span><span class="token-line" style="color:#393A34"><span class="token plain">        </span><span class="token punctuation" style="color:#393A34">)</span><span class="token punctuation" style="color:#393A34">)</span><span class="token punctuation" style="color:#393A34">}</span><span class="token plain-text"></span>
-</span><span class="token-line" style="color:#393A34"><span class="token plain-text">      </span><span class="token tag punctuation" style="color:#393A34">&lt;/</span><span class="token tag" style="color:#00009f">div</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain-text"></span>
-</span><span class="token-line" style="color:#393A34"><span class="token plain-text">      </span><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag" style="color:#00009f">div</span><span class="token tag" style="color:#00009f"> </span><span class="token tag attr-name" style="color:#00a4db">className</span><span class="token tag attr-value punctuation attr-equals" style="color:#393A34">=</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag attr-value" style="color:#e3116c">card padding--lg</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag" style="color:#00009f"> </span><span class="token tag attr-name" style="color:#00a4db">style</span><span class="token tag script language-javascript script-punctuation punctuation" style="color:#393A34">=</span><span class="token tag script language-javascript punctuation" style="color:#393A34">{</span><span class="token tag script language-javascript punctuation" style="color:#393A34">{</span><span class="token tag script language-javascript" style="color:#00009f"> flex</span><span class="token tag script language-javascript operator" style="color:#393A34">:</span><span class="token tag script language-javascript" style="color:#00009f"> </span><span class="token tag script language-javascript number" style="color:#36acaa">1</span><span class="token tag script language-javascript" style="color:#00009f"> </span><span class="token tag script language-javascript punctuation" style="color:#393A34">}</span><span class="token tag script language-javascript punctuation" style="color:#393A34">}</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain-text"></span>
-</span><span class="token-line" style="color:#393A34"><span class="token plain-text">        </span><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag" style="color:#00009f">h3</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain-text"></span>
-</span><span class="token-line" style="color:#393A34"><span class="token plain-text">          Hello, </span><span class="token punctuation" style="color:#393A34">{</span><span class="token plain">name</span><span class="token punctuation" style="color:#393A34">}</span><span class="token plain-text">! You currently have </span><span class="token punctuation" style="color:#393A34">{</span><span class="token plain">fruit</span><span class="token punctuation" style="color:#393A34">.</span><span class="token property-access">length</span><span class="token punctuation" style="color:#393A34">}</span><span class="token plain-text"> fruit.</span>
-</span><span class="token-line" style="color:#393A34"><span class="token plain-text">        </span><span class="token tag punctuation" style="color:#393A34">&lt;/</span><span class="token tag" style="color:#00009f">h3</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain-text"></span>
-</span><span class="token-line" style="color:#393A34"><span class="token plain-text">        </span><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag" style="color:#00009f">div</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain-text">You have: </span><span class="token punctuation" style="color:#393A34">{</span><span class="token plain">fruit</span><span class="token punctuation" style="color:#393A34">.</span><span class="token method function property-access" style="color:#d73a49">join</span><span class="token punctuation" style="color:#393A34">(</span><span class="token string" style="color:#e3116c">' '</span><span class="token punctuation" style="color:#393A34">)</span><span class="token punctuation" style="color:#393A34">}</span><span class="token tag punctuation" style="color:#393A34">&lt;/</span><span class="token tag" style="color:#00009f">div</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain-text"></span>
-</span><span class="token-line" style="color:#393A34"><span class="token plain-text">      </span><span class="token tag punctuation" style="color:#393A34">&lt;/</span><span class="token tag" style="color:#00009f">div</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain-text"></span>
-</span><span class="token-line" style="color:#393A34"><span class="token plain-text">    </span><span class="token tag punctuation" style="color:#393A34">&lt;/</span><span class="token tag" style="color:#00009f">div</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain"></span>
-</span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token punctuation" style="color:#393A34">)</span><span class="token punctuation" style="color:#393A34">;</span><span class="token plain"></span>
-</span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token punctuation" style="color:#393A34">}</span>
-</span></pre></div><div class="playgroundHeader_dyrN">Rezultat</div><div class="playgroundPreview_DzOI"><div>Loading...</div></div></div>
-<p>Wyróżnione notki typu "ważne", "uwaga", "niebezpieczeństwo", itp. (tzw.
-<em>admonitions</em>).</p>
-<div class="theme-admonition theme-admonition-danger admonition_xJq3 alert alert--danger"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M5.05.31c.81 2.17.41 3.38-.52 4.31C3.55 5.67 1.98 6.45.9 7.98c-1.45 2.05-1.7 6.53 3.53 7.7-2.2-1.16-2.67-4.52-.3-6.61-.61 2.03.53 3.33 1.94 2.86 1.39-.47 2.3.53 2.27 1.67-.02.78-.31 1.44-1.13 1.81 3.42-.59 4.78-3.42 4.78-5.56 0-2.84-2.53-3.22-1.25-5.61-1.52.13-2.03 1.13-1.89 2.75.09 1.08-1.02 1.8-1.86 1.33-.67-.41-.66-1.19-.06-1.78C8.18 5.31 8.68 2.45 5.05.32L5.03.3l.02.01z"></path></svg></span>Uwaga: NUDA!</div><div class="admonitionContent_BuS1"><p>Osiągnięcie <strong>zbyt wysokiego</strong> poziomu umiejętności może sprawić, że większość
-zadań będzie Cię <strong>nudzić</strong>. Dlatego rób rzeczy byle jak.</p></div></div>
-<p>Taby do wyświetlania różnych wersji tej samej rzeczy.</p>
-<!-- -->
-<div class="tabs-container tabList__CuJ"><ul role="tablist" aria-orientation="horizontal" class="tabs"><li role="tab" tabindex="0" aria-selected="true" class="tabs__item tabItem_LNqP tabs__item--active">Windows</li><li role="tab" tabindex="-1" aria-selected="false" class="tabs__item tabItem_LNqP">MacOS</li><li role="tab" tabindex="-1" aria-selected="false" class="tabs__item tabItem_LNqP">Linux</li></ul><div class="margin-top--md"><div role="tabpanel" class="tabItem_Ymn6"><div class="language-bash codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-bash codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">format C:</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Kopiuj do schowka" title="Kopiuj" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div></div><div role="tabpanel" class="tabItem_Ymn6" hidden=""><div class="language-bash codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-bash codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">mkfs.(anything)</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Kopiuj do schowka" title="Kopiuj" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div></div><div role="tabpanel" class="tabItem_Ymn6" hidden=""><div class="language-bash codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-bash codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">rm -rf /</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Kopiuj do schowka" title="Kopiuj" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div></div></div></div>
-<p>Sekcje zwijane (tzw. "zwijaki").</p>
-<!-- -->
-<details class="details_lb9f alert alert--info details_b_Ee" data-collapsed="true"><summary>Rozwiń</summary><div><div class="collapsibleContent_i85q"><div><div>Tutaj więcej szczegółów</div><br><details class="details_lb9f alert alert--info details_b_Ee" data-collapsed="true"><summary>Ciekawe co jest dalej? 🤔</summary><div><div class="collapsibleContent_i85q"><style data-emotion="css vu4c39">.css-vu4c39{overflow:hidden;padding:16px;}</style><style data-emotion="css jxf6vc">.css-jxf6vc{background-color:#fff;color:rgba(0, 0, 0, 0.87);-webkit-transition:box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;border-radius:4px;box-shadow:0px 3px 1px -2px rgba(0,0,0,0.2),0px 2px 2px 0px rgba(0,0,0,0.14),0px 1px 5px 0px rgba(0,0,0,0.12);overflow:hidden;padding:16px;}</style><div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation2 MuiCard-root css-jxf6vc"><img src="https://techwriter.pl/assets/images/docusaurus-zielony-przyjaciel-683c7a7a8176c95a96c118b7ce258968.png" alt=""></div></div></div></details></div></div></div></details>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="wersjonowanie">Wersjonowanie<a href="https://techwriter.pl/docusaurus-zielony-przyjaciel#wersjonowanie" class="hash-link" aria-label="Bezpośredni link do Wersjonowanie" title="Bezpośredni link do Wersjonowanie">​</a></h2>
-<p>Docusaurus pozwala na stworzenie
-<a href="https://docusaurus.io/docs/versioning" target="_blank" rel="noopener noreferrer">strony, która zawiera w sobie wiele wersji</a>.
-To dobre podejście dla małych, zamkniętych projektów, które pozwala
-użytkownikowi na wgląd w dowolną wersję w zależności od potrzeb. Mechanizm
-wersjonowania jest dosyć prosty w obsłudze i jest w pełni opcjonalny. Cała
-strona może być skonstruowana tak, że reprezentuje tylko jedną najnowszą wersję.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="wyszukiwanie">Wyszukiwanie<a href="https://techwriter.pl/docusaurus-zielony-przyjaciel#wyszukiwanie" class="hash-link" aria-label="Bezpośredni link do Wyszukiwanie" title="Bezpośredni link do Wyszukiwanie">​</a></h2>
-<p>Docusaurus pozwala na prostą integrację z serwisem
-<a href="https://www.algolia.com/" target="_blank" rel="noopener noreferrer">Algolia</a>. To dobra opcja, jeżeli nasza strona jest
-powszechnie dostępna w Internecie, bo Algolia wymaga otwartego dostępu, żeby
-zindeksować stronę. Jeżeli to nie pasuje do naszej sytuacji, możemy skorzystać z
-innej z <a href="https://docusaurus.io/docs/search" target="_blank" rel="noopener noreferrer">dostępnych opcji</a>, w tym dołączyć
-swój własny mechanizm wyszukiwania.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="reuse">Reuse<a href="https://techwriter.pl/docusaurus-zielony-przyjaciel#reuse" class="hash-link" aria-label="Bezpośredni link do Reuse" title="Bezpośredni link do Reuse">​</a></h2>
-<p>Docusaurus posiada opcję wielokrotnego użycia tego samego fragmentu za pomocą
-<a href="https://docusaurus.io/docs/markdown-features/react#importing-markdown" target="_blank" rel="noopener noreferrer">importów w pliku Markdown</a>.
-Co więcej, takie fragmenty mogą mieć parametry, dzięki czemu stają się jeszcze
-bardziej uniwersalne. Na przykład:</p>
-<div class="language-markdown codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockTitle_Ktv7">_fruit.mdx</div><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-markdown codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">Mój ulubiony owoc to {props.fruit}!</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Kopiuj do schowka" title="Kopiuj" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
-<p>Używamy go w taki sposób:</p>
-<div class="language-markdown codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-markdown codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">import Fruit from './\_fruit.mdx';</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag" style="color:#00009f">Fruit</span><span class="token tag" style="color:#00009f"> </span><span class="token tag attr-name" style="color:#00a4db">fruit</span><span class="token tag attr-value punctuation attr-equals" style="color:#393A34">=</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag attr-value" style="color:#e3116c">🍌</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag" style="color:#00009f"> </span><span class="token tag punctuation" style="color:#393A34">/&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag" style="color:#00009f">Fruit</span><span class="token tag" style="color:#00009f"> </span><span class="token tag attr-name" style="color:#00a4db">fruit</span><span class="token tag attr-value punctuation attr-equals" style="color:#393A34">=</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag attr-value" style="color:#e3116c">🥦</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag" style="color:#00009f"> </span><span class="token tag punctuation" style="color:#393A34">/&gt;</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Kopiuj do schowka" title="Kopiuj" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
-<!-- -->
-<p>Mój ulubiony owoc to <!-- -->🍌<!-- -->!</p>
-<p>Mój ulubiony owoc to <!-- -->🥦<!-- -->!</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="tłumaczenie">Tłumaczenie<a href="https://techwriter.pl/docusaurus-zielony-przyjaciel#t%C5%82umaczenie" class="hash-link" aria-label="Bezpośredni link do Tłumaczenie" title="Bezpośredni link do Tłumaczenie">​</a></h2>
-<p>Docusaurus ma
-<a href="https://docusaurus.io/docs/i18n/introduction" target="_blank" rel="noopener noreferrer">wbudowany kompletny mechanizm</a>,
-który pozwala przetłumaczyć większość stron w większości przypadków. Jedyny
-wyjątek stanowi skomplikowane użycie plików MDX, które jeszcze nie jest do końca
-proste do przetłumaczenia. Ale są sposoby, żeby to obejść.</p>
-<p>Podstawą mechanizmu tłumaczenia są dwa aspekty:</p>
-<ul>
-<li>Pliki MDX są tłumaczone jak pliki Markdown. Większość agencji tłumaczeniowych
-i narzędzi do tłumaczeń powinna sobie z tym poradzić.</li>
-<li>Tłumaczenie customowych stron JSX/TSX i innego kodu możemy osiągnąć używając
-wbudowanych komend, które ekstrahują tekst do plików JSON.</li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="blogowanie">Blogowanie<a href="https://techwriter.pl/docusaurus-zielony-przyjaciel#blogowanie" class="hash-link" aria-label="Bezpośredni link do Blogowanie" title="Bezpośredni link do Blogowanie">​</a></h2>
-<p>Jeżeli chcecie publikować nowości o Waszym projekcie, Docusaurus proponuje
-zrobić to przez moduł do blogowania. Każdy post na blogu jest plikiem MDX i
-zachowuje się bardzo podobnie do strony z docsami, ale dodatkowo ma datę.
-Posiada też tagi, które pozwalają wyświetlić listę podobnych wpisów.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="jsx-react-i-nodejs">JSX, React i Node.js<a href="https://techwriter.pl/docusaurus-zielony-przyjaciel#jsx-react-i-nodejs" class="hash-link" aria-label="Bezpośredni link do JSX, React i Node.js" title="Bezpośredni link do JSX, React i Node.js">​</a></h2>
-<p><a href="https://mdxjs.com/" target="_blank" rel="noopener noreferrer">Format MDX</a> używany w Docusaurusie pozwala na używanie
-komponentów JSX lub TSX (TypeScript), czyli elementów strony napisanych w
-Reakcie. Jeżeli potrafisz programować, lub znasz kogoś kto potrafi, to otwiera
-całą masę możliwości:</p>
-<ul>
-<li>Konfigurowalne formularze</li>
-<li>Tabele, listy, lub sekcje, których treść pochodzi ze źródła danych</li>
-<li>Strony generowanie w czasie budowania, na przykład zawierające listy błędów
-lub parametrów</li>
-<li>Interaktywne próbki kodu z plików, które mogą być testowane pod kątem
-poprawności</li>
-<li>Pięknie wystylizowanie karty, galerie, karuzele i tym podobne.</li>
-</ul>
-<p>Docusaurus jest budowany za pomocą <a href="https://nodejs.org/en" target="_blank" rel="noopener noreferrer">Node.js</a>. To oznacza,
-że w momencie budowania mamy pełną władzę nad tym skąd pochodzi treść co daje
-nam sporo opcji automatyzacji. Możemy wszystko napisać ręcznie, ale możemy też
-niektóre lub wszystkie strony <code>wygenerować</code>. Na przykład możemy pobrać dane z
-bazy i wygenerować z nich tabele, albo zebrać wpisy na bloga z CMSa, lub release
-notes z Jiry. Dla majsterkowicza z odrobiną zapału wszystko jest możliwe.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="cena">Cena<a href="https://techwriter.pl/docusaurus-zielony-przyjaciel#cena" class="hash-link" aria-label="Bezpośredni link do Cena" title="Bezpośredni link do Cena">​</a></h2>
-<p>W momencie publikacji artykułu, Docusaurus jest darmowy i można go wykorzystywać
-dowolnie, ale zapoznajcie się z warunkami licencji zanim skoczycie na głęboką
-wodę. Ten wpis na blogu nie stanowi porady prawnej, oferty handlowej, ani nie
-może byc użyty jako kupon zniżkowy w sklepie z rowerami.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="hostowanie">Hostowanie<a href="https://techwriter.pl/docusaurus-zielony-przyjaciel#hostowanie" class="hash-link" aria-label="Bezpośredni link do Hostowanie" title="Bezpośredni link do Hostowanie">​</a></h2>
-<p>Magia stron statycznych polega na tym, że można je hostować praktycznie
-wszędzie! Co to oznacza? Poradzi sobie z nimi dowolny serwer o architekturze
-podobnej do Apache Web Server, dowolny CDN, czy serwis taki jak Amazon S3.
-Docusaurus generuje pliki HTML, CSS i Javascript czyli absolutny standard.</p>
-<p>Dobrą opcją na hostowanie Docusaurusa są
-<a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer">GitHub Pages</a>, ale możecie skorzystać z bardzo wielu
-innych, o czym przeczytacie na stronie
-<a href="https://docusaurus.io/docs/deployment" target="_blank" rel="noopener noreferrer">"Deployment"</a>.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="jak-zacząć">Jak zacząć<a href="https://techwriter.pl/docusaurus-zielony-przyjaciel#jak-zacz%C4%85%C4%87" class="hash-link" aria-label="Bezpośredni link do Jak zacząć" title="Bezpośredni link do Jak zacząć">​</a></h2>
-<p>Wszystko jest opisane <a href="https://docusaurus.io/docs/installation" target="_blank" rel="noopener noreferrer">tutaj</a>. Ale z
-grubsza wygląda to tak:</p>
-<ol>
-<li>Zainstaluj Node.js (np. przez NVM).</li>
-<li>Zainstaluj Docusaurusa, żeby stworzyć lokalny folder projektu.</li>
-<li>Napisz docsy w Markdownie.</li>
-<li>Wypchnij zmiany do systemu kontroli wersji.</li>
-<li>Opublikuj.</li>
-<li>Czerp korzyści i zyskaj niezależność finansową.</li>
-</ol>
-<p>A Wy korzystaliście już z Docusaurusa? Jeśli tak, dajcie nam znać w komentarzach
-co sądzicie o tym narzędziu.</p>]]></content>
-        <author>
-            <name>Paweł Kowaluk</name>
-        </author>
-        <category label="warsztat" term="warsztat"/>
-        <category label="narzędzia" term="narzędzia"/>
     </entry>
 </feed>
