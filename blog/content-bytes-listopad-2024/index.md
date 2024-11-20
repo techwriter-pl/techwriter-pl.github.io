@@ -19,7 +19,7 @@ wynurzenia się spod kocyka.
 Ponownie szykujemy dla Was dwa tematy, tym razem w obszarze wiedzy i
 umiejętności. Wzbogacanie wiedzy i wykorzystywanie jej z pożytkiem dla siebie i
 innych stanowi ważną częścią kariery, obojętnie, czy właśnie rozpoczynasz swoją
-przygodę z tworzeniem treści, czy też "siedzisz w temacie" od lat.
+przygodę z tworzeniem treści, czy też „siedzisz w temacie” od lat.
 
 Nasi prezenterzy spojrzą na ten temat z dwóch perspektyw:
 [Małgorzata Lis](https://www.linkedin.com/in/lis-malgorzata/) opowie jak to jest
@@ -45,7 +45,7 @@ Wejście do świata komunikacji technicznej może wydawać się przytłaczające
 zwłaszcza dla tych, którzy dopiero rozpoczynają karierę. Aby nieco złagodzić to
 wrażenie, opowiem Wam o moich początkach w zawodzie tech writerki. Pomogą nam w
 tym moje doświadczenia ze stażu. To z nich dowiecie się jak wykorzystać
-najlepsze praktykami w tworzeniu dokumentacji, jakie narzędzia wykorzystać, oraz
+najlepsze praktyki w tworzeniu dokumentacji, jakie narzędzia wykorzystać oraz
 jak nabyć umiejętności, które mają znaczenie dla tej roli.
 
 Prezentację kieruję zarówno do osób nowych w branży, jak i do starszych stażem
@@ -60,7 +60,7 @@ wypełniony wiedzą, ale nic nie zyskujesz gdy nie dzielisz się nią z innymi. 
 prezentacja pokaże Wam jak proste taktyki, działajace nawet jeżeli jesteście
 przysypani górą zadań, pozwolą na przekucie Waszej wiedzy w korzyści biznesowe i
 finansowe. Korzystając z własnych doświadczeń, pokażę Wam jak wykorzystać
-narzędzia i technologie, AI, oraz to, co przemawia do mnie najbardziej: jak
+narzędzia i technologie, AI oraz to, co przemawia do mnie najbardziej: jak
 zmienić swój sposób myślenia i nastawienie do zadań.
 
 Żadnej teorii. Żadnych skomplikowanych strategii. Stawiam na praktyczne
@@ -70,7 +70,7 @@ zrobione, do bycia widocznym i cenionym.
 
 ## Prelegenci
 
-Podczas pierwszego spotkania Content Bytes prezentacje poprowadzą:
+Podczas trzeciego spotkania Content Bytes prezentacje poprowadzą:
 
 **Małgorzata Lis**
 
@@ -79,16 +79,16 @@ informatyka stosowana. Stażystką w dziale dokumentacji została na drugim roku
 studiów licencjackich pomimo braku wcześniejszego doświadczenia w komunikacji
 technicznej. Po kolejnym stażu została pełnoprawną technical writerką w IBM i
 pracuje tam już ponad rok. Małgorzata interesuje się językiem, wyszukiwaniem
-informacji, oraz kreatywnym podejściem do tworzenia treści. W połączeniu z
+informacji oraz kreatywnym podejściem do tworzenia treści. W połączeniu z
 wiedzą zdobytą podczas studiów, te umiejętności i pasje stanowią mieszankę
-perfekcyjną. W wolnym czasie Małgorzata lubi oglądać koreańskie dramy co pomaga
+perfekcyjną. W wolnym czasie Małgorzata lubi oglądać koreańskie dramy, co pomaga
 w nauce nowego języka, a także maluje pejzaże po numerach.
 
 **Aleksander Piskorz**
 
 Aleksander od ponad dekady zajmuje się dziennikarstwem technologicznym, łącząc
-technologię, ludzi, i biznes. Publikuje w wiodących środkach masowego przekazu w
-Polsce, a jego współpraca z firmami takimi jak Meta, Google, oraz Huawei,
+technologię, ludzi i biznes. Publikuje w wiodących środkach masowego przekazu w
+Polsce, a jego współpraca z firmami takimi jak Meta, Google oraz Huawei,
 pozwoliła mu na odwiedzenie prawie każdego kontynentu i spojrzenie na globalne
 trendy technologiczne z perspektywy “insidera”. Ostatnie pięć lat Aleksandra to
 praca na styku środowiska startupowego i marketingu.
