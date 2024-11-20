@@ -7,7 +7,7 @@ tags:
   - 'meetups'
   - 'społeczność'
   - 'content-bytes'
-coverImage: 'ContentBytesKRK3.png'
+coverImage: 'ContentBytesKRK3.jpeg'
 ---
 
 # Content Bytes #3: Porozmawiajmy o wiedzy i umiejętnościach!
