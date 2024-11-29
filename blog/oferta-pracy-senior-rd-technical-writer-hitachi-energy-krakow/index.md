@@ -42,7 +42,7 @@ Joining [Mariusz Kaczmarek's](https://www.linkedin.com/in/mariuszkaczmarek-pl/)
 team you will cooperate with experienced colleagues from Poland and Switzerland.
 
 More about our product:
-[FOX Multiservice Platform | Hitachi Energy](<(https://www.hitachienergy.com/products-and-solutions/communication-networks/wired-networks/fox-multiservice-platform)>)
+[FOX Multiservice Platform | Hitachi Energy](https://www.hitachienergy.com/products-and-solutions/communication-networks/wired-networks/fox-multiservice-platform)
 
 ### Your Responsibilities
 
