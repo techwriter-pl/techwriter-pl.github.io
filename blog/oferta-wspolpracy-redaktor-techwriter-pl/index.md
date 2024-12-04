@@ -1,7 +1,7 @@
 ---
 title: 'Oferta (współ)pracy: Redaktor Techwriter.pl'
 authors: mojk
-date: '2019-02-05'
+date: '2024-12-04'
 tags:
   - 'oferty-pracy'
   - 'praca'
@@ -62,7 +62,6 @@ niefinansowe benefity:
 ## Jak się zgłosić?
 
 Jeśli uważasz, że ta oferta jest dla Ciebie, wyślij nam maila na
-[kontakt@techwriter.pl](mailto:kontakt@techwriter.pl) lub wyślij nam wiadomość
-na [Facebooku](https://www.facebook.com/techwriterpl/).
+[kontakt@techwriter.pl](mailto:kontakt@techwriter.pl).
 
 _Grafika pochodzi z serwisu [Vecteezy](https://vecteezy.com)_
