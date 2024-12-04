@@ -11,13 +11,11 @@ tags:
 coverImage: 'Free-Unique-Join-Us-Vectors-3.jpg'
 ---
 
-W ostatnim czasie publikowaliśmy sporo ofert pracy, ale ta jest wyjątkowa.
+Wyjątkowa oferta (współ)pracy dla wszystkich pasjonatów komunikacji technicznej.
 
 <!--truncate-->
 
-Chociaż właściwie określenie "oferta pracy" może nie jest tutaj odpowiednie, bo
-tworzenie Techwriter.pl to bardziej pasja. Poszukujemy osób, które chciałaby
-dołączyć do naszego grona redakcyjnego.
+Poszukujemy osób, które chciałaby dołączyć do naszego grona redakcyjnego.
 
 ## Kogo szukamy
 
@@ -26,7 +24,7 @@ Chcielibyśmy z Tobą współpracować, jeśli:
 - Żywo interesujesz się komunikacją techniczną
 - Jakkolwiek dziwnie to brzmi, szeroko pojęta dokumentacja powoduje u Ciebie
   podekscytowanie
-- Chciałbyś mieć wpływ na to jak wygląda nasza rodzima scena tech comm
+- Chcesz mieć wpływ na to jak wygląda nasza rodzima scena tech comm
 - Masz doświadczenie w branży i nie zawahasz się go użyć w swoich postach. Jeśli
   dopiero zaczynasz swoją przygodę z tech commem, też się odezwij. Twoja chęć
   uczenia się i zdobywania wiedzy jest równie wartościowa, a do tego możesz
