@@ -19,7 +19,7 @@ Przypomnijmy - do tej pory odbyły się:
 
 Byliśmy, sprawdziliśmy, polecamy!
 
-W kolejce czeka jeszcze:
+W kolejce czeka jeszcze [Pytech Summit 2024 (online) Winter Edition](https://pytechsummit.pl/). Ta konferencja dla pythonowców odbędzie się już za kilka dni, a dokładniej 10 grudnia 2024. 
 
 - [Pytech Summit 2024 (online) Winter Edition](https://pytechsummit.pl/) - 10 grudnia 2024 r. - konferencja dla pythonowców
 
