@@ -2,11 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://techwriter.pl/</id>
     <title>techwriter.pl Blog</title>
-    <updated>2024-12-04T00:00:00.000Z</updated>
+    <updated>2024-12-05T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://techwriter.pl/"/>
     <subtitle>techwriter.pl Blog</subtitle>
     <icon>https://techwriter.pl/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Konferencje online - patronujemy]]></title>
+        <id>https://techwriter.pl/konferencje-online-patronujemy</id>
+        <link href="https://techwriter.pl/konferencje-online-patronujemy"/>
+        <updated>2024-12-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Pamiętacie, jak we wrześniu rekomendowaliśmy Wam serię darmowych konferencji online, połączonych z Wirtualnymi Targami Pracy? Cykl zbliża się właśnie do końca - czeka nas jeszcze jedna konferencja, ale za to jaka!]]></summary>
+        <content type="html"><![CDATA[<p>Pamiętacie, jak we wrześniu rekomendowaliśmy Wam serię darmowych konferencji online, połączonych z Wirtualnymi Targami Pracy? Cykl zbliża się właśnie do końca - czeka nas jeszcze jedna konferencja, ale za to jaka!</p>
+<p>Przypomnijmy - do tej pory odbyły się:</p>
+<ul>
+<li><a href="https://womentechstyle.pl/" target="_blank" rel="noopener noreferrer">Women TechStyle Summit 2024 (online) Autumn Edition</a> - 19 września 2024 r., konferencja dla kobiet w IT</li>
+<li><a href="https://javeloper.pl/" target="_blank" rel="noopener noreferrer">Javeloper 2024 (online) Autumn Edition</a> - 26 września 2024 r., konferencja dla specjalistów Javy i architektury oprogramowania</li>
+<li><a href="https://devjssummit.pl/" target="_blank" rel="noopener noreferrer">dev.js Summit 2024 (online) Autumn Edition</a> - 17 października 2024 r., konferencja o technologiach front-endowych i JavaScripcie</li>
+<li><a href="https://expertsummit.pl/" target="_blank" rel="noopener noreferrer">Expert Summit 2024 - All about Microsoft Technologies (online)</a> - 7 listopada 2024 r., konferencja o technologiach Microsoft</li>
+</ul>
+<p>Byliśmy, sprawdziliśmy, polecamy!</p>
+<p>W kolejce czeka jeszcze <a href="https://pytechsummit.pl/" target="_blank" rel="noopener noreferrer">Pytech Summit 2024 (online) Winter Edition</a>. Ta konferencja dla pythonowców odbędzie się już za kilka dni, a dokładniej 10 grudnia 2024.</p>
+<p>Z naszego techwriterskiego punktu widzenia konferencja to wydarzenie jest szczególnie warte uwagi. Python to wszechstronny język programowania, używany m.in. do tworzenia stron z projektami dokumentacyjnymi, analizy danych i automatyzacji powtarzalnych, czasochłonnych zadań typu kopiuj-wklej. Pozwala też tworzyć wizualizacje i diagramy oraz ma dobre narzędzia do transformacji plików, np. z formatu HTML na Markdown. Brzmi znajomo? Tak, społeczność techwriterska oraz programiści Pythona mogą podać sobie ręce. Co więcej, na konferencji dobrze odnajdą się także osoby z wykształceniem lingwistycznym - w programie znalazła się m.in. prezentacja o praktycznym wykorzystaniu dużych modeli językowych.</p>
+<p>Wciąż możecie się zarejestrować na to wydarzenie. Udział jest całkowicie <strong>darmowy</strong>. Zapraszamy w imieniu organizatorów!</p>]]></content>
+        <author>
+            <name>Magda Niedźwiecka</name>
+        </author>
+        <category label="news" term="news"/>
+        <category label="z-kraju" term="z-kraju"/>
+        <category label="konferencje" term="konferencje"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oferta (współ)pracy: Redaktor Techwriter.pl]]></title>
         <id>https://techwriter.pl/oferta-wspolpracy-redaktor-techwriter-pl</id>
@@ -1808,59 +1833,5 @@ idealnie obrazując różnice między czytelne - nieczytelne.</p>
         <category label="visual-design" term="visual-design"/>
         <category label="grafika-produktowa" term="grafika-produktowa"/>
         <category label="ilustracje-techniczne" term="ilustracje-techniczne"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#ContentDay: Program wydarzenia ]]></title>
-        <id>https://techwriter.pl/meet-content-krk-content-day-agenda</id>
-        <link href="https://techwriter.pl/meet-content-krk-content-day-agenda"/>
-        <updated>2024-05-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Zapraszamy do zapoznania się z]]></summary>
-        <content type="html"><![CDATA[<p>Zapraszamy do zapoznania się z
-<a href="https://meetcontent.github.io/full-day/#schedule" target="_blank" rel="noopener noreferrer">agendą</a> #ContentDay.
-Znajdziecie w niej informacje o prezentacjach, warsztatach oraz przebiegu
-wydarzenia.</p>
-<p>Nadal możecie zapisać się na warsztat
-<a href="https://meetcontent.github.io/full-day/#workshops" target="_blank" rel="noopener noreferrer"><strong>Designing and writing</strong></a>
-oraz prezentacje. Zapraszamy!</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="kiedy-i-gdzie">Kiedy i gdzie<a href="https://techwriter.pl/meet-content-krk-content-day-agenda#kiedy-i-gdzie" class="hash-link" aria-label="Bezpośredni link do Kiedy i gdzie" title="Bezpośredni link do Kiedy i gdzie">​</a></h3>
-<p><strong>Data</strong>: 08.06.2024 <br> <strong>Miejsce</strong>: Collegium Paderevianum, al. Mickiewicza
-9, Kraków</p>
-<p>Dokładne informacje o salach podamy przed wydarzeniem.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="słowo-o-sponsorach">Słowo o sponsorach<a href="https://techwriter.pl/meet-content-krk-content-day-agenda#s%C5%82owo-o-sponsorach" class="hash-link" aria-label="Bezpośredni link do Słowo o sponsorach" title="Bezpośredni link do Słowo o sponsorach">​</a></h3>
-<p>#ContentDay sponsorują <a href="https://apify.com/" target="_blank" rel="noopener noreferrer">Apify</a> oraz
-<a href="https://www.box.com/" target="_blank" rel="noopener noreferrer">Box</a>.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="poznaj-meetcontentkrk">Poznaj MeetContentKRK<a href="https://techwriter.pl/meet-content-krk-content-day-agenda#poznaj-meetcontentkrk" class="hash-link" aria-label="Bezpośredni link do Poznaj MeetContentKRK" title="Bezpośredni link do Poznaj MeetContentKRK">​</a></h2>
-<p>MeetContentKRK to odgałęzienie dobrze znanej konferencji soap!. Wspólnie z
-MeetContentWRO dążymy do stworzenia społeczności profesjonalistów pracujących z
-treściami produktowymi w obszarach Tech i IT.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="skontaktuj-się-z-organizatorem">Skontaktuj się z organizatorem<a href="https://techwriter.pl/meet-content-krk-content-day-agenda#skontaktuj-si%C4%99-z-organizatorem" class="hash-link" aria-label="Bezpośredni link do Skontaktuj się z organizatorem" title="Bezpośredni link do Skontaktuj się z organizatorem">​</a></h3>
-<p>Organizatorom zależy, by spotkania były istotne i przybliżały tematy, które są
-dla Was interesujące. Możecie zgłosić temat, a my dołożymy wszelkich starań, aby
-znaleźć prelegentów, którzy będą mogli o nim porozmawiać. Możecie także sami
-zostać prelegentami na jednym z naszych spotkań.</p>
-<p>Osoby zainteresowane mogą dołączyć do MeetContent na
-<a href="https://meetcontent.slack.com/" target="_blank" rel="noopener noreferrer">Slacku</a>, aby być na bieżąco z nadchodzącymi
-wydarzeniami i proponować nowe tematy.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="często-zadawane-pytania">Często zadawane pytania<a href="https://techwriter.pl/meet-content-krk-content-day-agenda#cz%C4%99sto-zadawane-pytania" class="hash-link" aria-label="Bezpośredni link do Często zadawane pytania" title="Bezpośredni link do Często zadawane pytania">​</a></h3>
-<p>P: Czy wydarzenie będzie nagrywane lub transmitowane na żywo? <br> O: Na
-chwilę obecną nie. Stawiamy na spotkania na miejscu gdzie możesz osobiście
-poznać inne osoby zainteresowane contentem.</p>
-<p>P: Czy można udostępnić prezentacje prelegentów? <br> O: To zależy od
-prelegenta. Podczas wydarzenia można jednak zadawać pytania i robić zdjęcia,
-można też zapytać o udostępnienie slajdów.</p>
-<p>P: Zarejestrowałem/am się, ale nie mogę wziąć udziału. Co powinienem/nnam
-zrobić? <br> O: Jeśli wiesz, że nie dasz rady przyjść, daj nam znać. Możesz to
-zrobić pisząc na adres <a href="mailto:contact@meetcontent.org" target="_blank" rel="noopener noreferrer">contact@meetcontent.org</a> lub wysyłając wiadomość na
-<a href="https://meetcontent.slack.com/" target="_blank" rel="noopener noreferrer">Slacku</a>.</p>
-<p>P: Spóźniłem/am się na wydarzenie i nie mogę wejść. Jak powiadomić
-organizatorów? O: Możesz napisać do nas na Slacku. Podczas każdego wydarzenia,
-przez pierwsze 30 minut od rozpoczęcia na bieżąco sprawdzamy wiadomości na
-naszym kanale .</p>]]></content>
-        <author>
-            <name>Barbara Czyż</name>
-        </author>
-        <category label="meetcontent" term="meetcontent"/>
-        <category label="społeczność" term="społeczność"/>
-        <category label="meetups" term="meetups"/>
     </entry>
 </feed>
