@@ -20,7 +20,6 @@ Przypomnijmy - do tej pory odbyły się:
 Byliśmy, sprawdziliśmy, polecamy!
 
 W kolejce czeka jeszcze [Pytech Summit 2024 (online) Winter Edition](https://pytechsummit.pl/). Ta konferencja dla pythonowców odbędzie się już za kilka dni, a dokładniej 10 grudnia 2024. 
-- [Pytech Summit 2024 (online) Winter Edition](https://pytechsummit.pl/) - 10 grudnia 2024 r. - konferencja dla pythonowców
 
 Z naszego techwriterskiego punktu widzenia konferencja ta jest szczególnie cenna. Python to wszechstronny język programowania, używany m.in. do tworzenia stron z projektami dokumentacyjnymi, analizy danych i automatyzacji powtarzalnych, czasochłonnych zadań typu kopiuj - wklej. Pozwala też tworzyć wizualizacje i diagramy, ma dobre narzędzia do transformacji plików, np. pozwala szybko zrobić html z markdowna. Brzmi znajomo? Tak, społeczność techwriterska oraz programiści Pythona mogą podać sobie ręce. Co więcej, na konferencji dobrze odnajdą się także osoby z wykształceniem lingwistycznym - w programie znalazła się m.in. prezentacja o praktycznym wykorzystaniu dużych modeli językowych.
 
