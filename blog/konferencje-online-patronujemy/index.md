@@ -6,6 +6,7 @@ tags:
   - 'news'
   - 'z-kraju'
   - 'konferencje'
+coverImage: 'PytechSummit2024.png' 
 ---
 Pamiętacie, jak we wrześniu rekomendowaliśmy Wam serię darmowych konferencji online, połączonych z Wirtualnymi Targami Pracy? Cykl zbliża się właśnie do końca - czeka nas jeszcze jedna konferencja, ale za to jaka! 
 
