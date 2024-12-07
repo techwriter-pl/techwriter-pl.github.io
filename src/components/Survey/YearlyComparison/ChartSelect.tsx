@@ -1,7 +1,6 @@
-import Box from '@mui/material/Box';
+import FormControl from '@mui/material/FormControl';
 import InputLabel from '@mui/material/InputLabel';
 import MenuItem from '@mui/material/MenuItem';
-import FormControl from '@mui/material/FormControl';
 import Select, { SelectChangeEvent } from '@mui/material/Select';
 
 type ChartSelectProps = {
@@ -27,8 +26,8 @@ export default function ChartSelect({
         label={label}
         onChange={handleChange}
       >
-        {values.map((value) => (
-          <MenuItem value={value} key={value}>
+        {values.map((value, idx) => (
+          <MenuItem value={value} key={idx}>
             {value}
           </MenuItem>
         ))}

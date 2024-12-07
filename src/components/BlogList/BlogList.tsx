@@ -31,6 +31,7 @@ export default function BlogHome(props): JSX.Element {
               const { date, permalink, authors } = BlogPostContent.metadata;
               const { title, coverImage, tags } = BlogPostContent.frontMatter;
               const coverImagePath = `/img/cover/${coverImage}`;
+              
               return (
                 <div key={date} className={clsx(styles.item, 'card')}>
                   <div className={styles.itemLeft}>
