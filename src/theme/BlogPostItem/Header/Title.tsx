@@ -18,9 +18,8 @@ export default function Footer() {
       <Link href={postLink}>
         <div
           style={{
-            // backgroundColor: 'var(--ifm-color-primary)',
             backgroundColor: 'black',
-            padding: '1rem',
+            padding: '4px 1rem',
             display: 'flex',
             justifyContent: 'center',
             marginBottom: '1rem',
