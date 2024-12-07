@@ -1,15 +1,4 @@
----
-title: 'Konferencje 2024'
-authors: mojk
-date: '2024-03-21'
-tags:
-  - 'news'
-  - 'ze-świata'
-  - 'kariera'
-  - 'konferencje'
-  - 'społeczność'
-coverImage: 'konferencje-2024.jpg'
----
+# Konferencje 2024
 
 Prezentujemy listę konferencji, które mogą być interesujące dla specjalistów z
 branży komunikacji technicznej w 2024.
@@ -17,11 +6,11 @@ branży komunikacji technicznej w 2024.
 <!--truncate-->
 
 W tym roku postanowiliśmy podejść do tematu bardziej praktycznie. Zamiast
-kompilować listę wszystkich wydarzeń, które udało nam się znaleźć, wybraliśmy
+kompilować listę wszystkich wydarzeń, które udało nam się znaleźć, wybraliśmy
 tylko takie, które odbywają się blisko Polski i takie, które oferują opcję
 dołączenia wirtualnie. Na odległych kontynentach dzieją się ciekawe rzeczy, ale
 raczej mało kto z nas będzie potrafił przekonać swojego przełożonego do udziału
-w takim wydarzeniu :) Mamy nadzieję, że ta formuła będzie dla Was bardziej
+w takim wydarzeniu 😊 Mamy nadzieję, że ta formuła będzie dla Was bardziej
 przydatna. Dajcie nam znać co myślicie w komentarzach.
 
 ## UX360 Virtual
