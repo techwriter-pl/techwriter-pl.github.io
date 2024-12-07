@@ -60,7 +60,7 @@ async function findUsedCoverImages() {
     }
 
     // Report results
-    console.log('Used Cover Images:', [...usedCoverImages]);
+    console.log('Used Cover Images:', [...usedCoverImages].length);
     console.log(
       'Deleted Unused Images:',
       deletedImages.length,
