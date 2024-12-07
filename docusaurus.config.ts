@@ -69,7 +69,11 @@ const config: Config = {
       },
       items: [
         { to: '/?feed=true', label: 'Blog', position: 'right' },
-        { to: '/tags/articles-in-english', label: 'English', position: 'right' },
+        {
+          to: '/tags/articles-in-english',
+          label: 'English',
+          position: 'right',
+        },
         { to: '/szkolenia', label: 'Szkolenia', position: 'right' },
         {
           to: '/kim-jestesmy',
@@ -116,7 +120,7 @@ const config: Config = {
     },
   } satisfies Preset.ThemeConfig,
   plugins: [techWriterWebpackPlugin],
-  themes: ['@docusaurus/theme-live-codeblock']
+  themes: ['@docusaurus/theme-live-codeblock'],
 };
 
 export default config;
