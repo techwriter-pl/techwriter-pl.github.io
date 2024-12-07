@@ -77,6 +77,7 @@ const config: Config = {
           position: 'right',
         },
         { to: '/kontrybutorzy', label: 'Napisz artykuł', position: 'right' },
+        { to: '/konferencje', label: 'Konferencje 2024', position: 'right' },
         {
           to: 'https://www.facebook.com/groups/tworzeniedokumentacji',
           label: 'Grupa facebookowa',

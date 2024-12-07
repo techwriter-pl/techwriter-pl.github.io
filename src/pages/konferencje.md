@@ -1,15 +1,4 @@
----
-title: 'Konferencje 2024'
-authors: mojk
-date: '2024-03-21'
-tags:
-  - 'news'
-  - 'ze-świata'
-  - 'kariera'
-  - 'konferencje'
-  - 'społeczność'
-coverImage: 'konferencje-2024.jpg'
----
+# Konferencje 2024
 
 Prezentujemy listę konferencji, które mogą być interesujące dla specjalistów z
 branży komunikacji technicznej w 2024.
