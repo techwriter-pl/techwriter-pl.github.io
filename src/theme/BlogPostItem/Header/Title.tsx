@@ -7,7 +7,6 @@ export default function Footer() {
   const { frontMatter, metadata } = useBlogPost();
   const { permalink } = metadata;
   const isBrowser = useIsBrowser();
-  console.log({ permalink });
 
   // @ts-ignore
   const coverImagePath = `/img/cover/${frontMatter.coverImage}`;
