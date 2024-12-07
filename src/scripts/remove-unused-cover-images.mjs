@@ -14,7 +14,10 @@ async function findUsedCoverImages() {
       if (entry.isDirectory()) {
         // Recursively search subdirectories
         files.push(...(await findMarkdownFiles(res)));
-      } else if (entry.isFile() && path.extname(res) === '.md') {
+      } else if (
+        entry.isFile() &&
+        (path.extname(res) === '.md' || path.extname(res) === '.mdx')
+      ) {
         files.push(res);
       }
     }
