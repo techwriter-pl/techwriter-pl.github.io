@@ -10,8 +10,3 @@ chcesz napisać.
 - Pokaż sobie, że umiesz pisać
 - Szlifuj warsztat pisarski dzięki radom i pomocy od innych redaktorów
 - Napisz artykuł, który możesz dodać do portfolio
-
-### Artykuł reklamowy?
-
-Jeśli chcesz napisać artykuł, który coś reklamuje, skontaktuj się z nami a
-przedstawimy Ci ofertę.
