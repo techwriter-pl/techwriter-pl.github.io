@@ -18,11 +18,14 @@ export default function Footer() {
       <Link href={postLink}>
         <div
           style={{
-            backgroundColor: 'black',
-            padding: '4px 1rem',
+            padding: '2rem',
             display: 'flex',
             justifyContent: 'center',
             marginBottom: '1rem',
+            backgroundImage: `url(${coverImagePath})`,
+            backgroundSize: '2rem',
+            backgroundBlendMode: 'multiply',
+            backgroundColor: 'var(--ifm-color-primary)',
           }}
         >
           <img alt="" src={coverImagePath} />
