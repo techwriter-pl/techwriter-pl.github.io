@@ -137,6 +137,13 @@ const englishDescriptions: { [id: string]: JSX.Element } = {
       June 2019.
     </>
   ),
+  mrozek: (
+    <>
+    Monika is first and foremost a Technical Writer, at heart. She loves well written content and is a fan of user centric design. She is also a tireless advocate for the value that a good technical documentation adds to the product. She believes that Technical Writers occupy a very unique position in every organization that decides to have them: a busy intersection between Developers, Product, Marketing, Support…
+    Monika is also a team manager, helping people achieve their best and to take pride in what they do.
+    She is an active technical content community member and a public speaker. She co-organizes local meetups in Wrocław to help Writers network, exchange ideas and inspire each other.
+    </>
+  ),
 };
 
 type AuthorListProps = {
