@@ -66,7 +66,7 @@ więcej niż kilka minut.
 
 ## Jak długo ankieta będzie aktywna?
 
-Na odpowiedzi czekamy do **20 grudnia 2024** roku.
+Na odpowiedzi czekamy do **31 grudnia 2024** roku.
 
 ## Gdzie będzie można sprawdzić wyniki ankiety?
 
