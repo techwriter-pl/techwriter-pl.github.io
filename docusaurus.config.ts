@@ -75,6 +75,7 @@ const config: Config = {
           position: 'right',
         },
         { to: '/konferencje', label: 'Konferencje 2024', position: 'right' },
+        { to: '/oferty-pracy', label: 'Oferty pracy', position: 'right' },
         { to: '/szkolenia', label: 'Szkolenia', position: 'right' },
         {
           to: 'https://www.facebook.com/groups/tworzeniedokumentacji',
