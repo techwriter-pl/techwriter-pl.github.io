@@ -60,7 +60,7 @@ Jeśli tematy znajdują się blisko siebie, oznacza to, że są w jakiś sposób
 związane. Za pomocą kolorów i innych metod mogę podkreślać powiązane tematy. Z
 lubością wykreślam zamknięte sprawy. Kiedy na arkuszu robi się zbyt tłoczno albo
 większość kwestii jest rozwiązanych, wydzieram kartkę i biorę się do zapisywania
-kolejnej. Stare zapiski zachowuję, bo stanowią wizualny zapis stanu rzeczy z
+kolejnej. Stare notatki zachowuję, bo stanowią wizualny zapis stanu rzeczy z
 danego momentu projektu. Czasem do pewnych szczegółów warto wrócić.
 
 ## W czym pomagają mi wizualne notatki
