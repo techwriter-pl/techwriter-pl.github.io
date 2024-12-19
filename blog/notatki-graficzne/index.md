@@ -66,7 +66,7 @@ danego momentu projektu. Czasem do pewnych szczegółów warto wrócić.
 ## W czym pomagają mi wizualne notatki
 
 Notatki wizualne wspierają mnie w zapamiętywaniu nazw projektów, komponentów,
-dat i powiązań. Tak jak notatka na lodówce, wzrok często spoczywa na arkuszu i
+dat i powiązań. Arkusz z zapiskami jest jak notatka na lodówce. Wystarczy na nią spojrzeć, żeby odświeżyć sobie kluczowe informacje.
 pomaga mi to odświeżać kluczowe informacje. Im bardziej złożona struktura tego
 nad czym pracujesz, tym bardziej wizualizacja pomaga Ci ułożyć to sobie w
 głowie. Jest to szczególnie pomocne podczas etapu analizy. Dodatkowym plusem
