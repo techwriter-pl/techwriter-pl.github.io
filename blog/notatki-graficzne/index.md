@@ -55,7 +55,7 @@ odręczne rysunki i listę zadań.
 zadań, mapy tematów i sieć połączeń miedzy nimi. Rysunki i zapiski pomagają mi
 spamiętać rzeczy, które aktualnie biorę na tapet. Zapisuję sobie główne tagi,
 którymi kategoryzuję notatki w formacie markdown, w narzędziu Obsidian, któremu poświęcę
-przyszły artykuł :) Rysunki "pączkują" i z biegiem czasu tworzy się mozaika.
+Rysunki "pączkują" i z biegiem czasu tworzy się z nich mozaika.
 Jeśli tematy znajdują się blisko siebie, oznacza to, że są w jakiś sposób ze sobą
 związane. Za pomocą kolorów i innych metod mogę podkreślać powiązane tematy. Z
 lubością wykreślam zamknięte sprawy. Kiedy na arkuszu robi się zbyt tłoczno albo
