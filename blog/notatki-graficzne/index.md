@@ -37,6 +37,7 @@ nauczyć jak pisać na plakatach dostatecznie wyraźnie. Dowiedziałem się też
 graficznych facylitatorach prowadzących warsztaty z użyciem własnoręcznie
 narysowanych materiałów, a także o ilustratorach spotkań i wydarzeń, tworzących
 wizualne podsumowania, które są świetnymi materiałami edukacyjnymi.
+Przykładami konferencji techwritingowych które uświetnione zostały zapisami graficznymi są [soap! 2015](https://techwriter.pl/namydleni-po-raz-trzeci/#my-tu-gadu-gadu-a-jad%C5%BAka-rysuje) i [Write the Docs 2021](https://techwriter.pl/relacja-z-konferenecji-write-the-docs-prague-2021/).
 
 ## I co dalej zrobić z tą wiedzą?
 
@@ -44,7 +45,7 @@ wizualne podsumowania, które są świetnymi materiałami edukacyjnymi.
 dłuższy czas nie tykałem flamastra, aż pewnego pięknego dnia stwierdziłem, że
 wypróbuję te umiejętności w codziennej praktyce speca od dokumentacji i autora
 radosnej twórczości po godzinach. Poszerzyłem mój zestaw pisaków, zakupiłem
-[biuwar (moje nowe ulubione słowo ;)](https://sjp.pwn.pl/slowniki/biuwar.html) i
+[biuwar (moje nowe ulubione słowo ;)](https://kalendarzecsk.pl/blog/52,biuwary---co-to-jest-i-jak-mozna-ich-uzywac) i
 zacząłem eksperymenty z pisanymi i rysowanymi notatkami. Dla mniej
 zorientowanych, biuwar to duży arkusz papieru z kalendarzem, miejscem na
 odręczne rysunki i listę zadań.
@@ -57,6 +58,9 @@ spamiętać rzeczy, które aktualnie biorę na tapet. Zapisuję sobie główne t
 którymi kategoryzuję notatki w formacie markdown, w narzędziu Obsidian, któremu poświęcę
 Rysunki "pączkują" i z biegiem czasu tworzy się z nich mozaika.
 Jeśli tematy znajdują się blisko siebie, oznacza to, że są w jakiś sposób ze sobą
+którymi kategoryzuję notatki w narzędziu Obsidian. Postaram się napisać więcej o tej aplikacji w jednym z moich przyszłych artykułów.
+Rysunki "pączkują" i z biegiem czasu tworzy się mozaika.
+Jeśli tematy znajdują się blisko siebie, znaczy to, że są w jakiś sposób ze sobą
 związane. Za pomocą kolorów i innych metod mogę podkreślać powiązane tematy. Z
 lubością wykreślam zamknięte sprawy. Kiedy na arkuszu robi się zbyt tłoczno albo
 większość kwestii jest rozwiązanych, wydzieram kartkę i biorę się do zapisywania
