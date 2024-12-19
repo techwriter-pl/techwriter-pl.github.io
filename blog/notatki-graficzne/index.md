@@ -56,7 +56,7 @@ zadań, mapy tematów i sieć połączeń miedzy nimi. Rysunki i zapiski pomagaj
 spamiętać rzeczy, które aktualnie biorę na tapet. Zapisuję sobie główne tagi,
 którymi kategoryzuję notatki w formacie markdown, w narzędziu Obsidian, któremu poświęcę
 przyszły artykuł :) Rysunki "pączkują" i z biegiem czasu tworzy się mozaika.
-Jeśli tematy znajdują się blisko siebie, znaczy to, że są w jakiś sposób ze sobą
+Jeśli tematy znajdują się blisko siebie, oznacza to, że są w jakiś sposób ze sobą
 związane. Za pomocą kolorów i innych metod mogę podkreślać powiązane tematy. Z
 lubością wykreślam zamknięte sprawy. Kiedy na arkuszu robi się zbyt tłoczno albo
 większość kwestii jest rozwiązanych, wydzieram kartkę i biorę się do zapisywania
