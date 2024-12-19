@@ -52,3 +52,56 @@ Nieustannie poszukujemy osób, które mogłyby zasilić szeregi naszego zespołu
 redakcyjnego lub wspierać nas pisząc artykuły jako niezależny autor.
 
 Więcej szczegółów [tutaj](/oferta-wspolpracy-redaktor-techwriter-pl).
+
+## O nas
+
+[English version](/about-us)
+
+### Dlaczego to robimy?
+
+Przede wszystkim dlatego, że komunikacja techniczna to nie tylko nasza praca,
+ale też pasja. Zawsze brakowało nam strony z nowościami z branży, opisem
+narzędzi, dobrych praktyk, informacjami o konferencjach, szkoleniach i innych
+wydarzeniach związanych z komunikacją techniczną. Dlatego w chwili słabości
+postanowiliśmy ją stworzyć.
+
+Przyświecają nam takie cele:
+
+- Przekazywanie informacji na temat polskiej i zagranicznej sceny komunikacji
+  technicznej,
+- Śledzenie bieżących wydarzeń,
+- Pisanie o „tech commie” na poważnie i na wesoło,
+- Tworzenie polskiej bazy wiedzy na temat komunikacji technicznej, która
+  nowicjuszom pomoże rozpocząć karierę w naszym zawodzie, a bardziej
+  doświadczonym – poszerzyć wiedzę,
+- Poszerzanie świadomości na temat zawodu Technical Writera w Polsce,
+- Budowanie społeczności i dzielenie się doświadczeniem.
+
+### Kim jesteśmy?
+
+Jesteśmy grupką osób, które zajmują się zawodowo tworzeniem, dystrybuowaniem i
+zarządzaniem szeroko pojętą dokumentacją techniczną. Część z nas to humaniści,
+którzy trafili do tej pracy dzięki bardzo dobrej znajomości języków obcych i
+ciągle próbują zrozumieć techniczne niuanse. Inni są po studiach technicznych,
+ale lubią pisać, choć niekoniecznie potrafią. Pracowaliśmy i pracujemy w
+ogromnych korporacjach, firmach, firemkach i jako freelancerzy. Lubimy tą pracę
+a ona lubi nas 🙂
+
+Obecnie zespół redakcyjny tworzą:
+
+import AuthorList from '@site/src/components/AuthorList/AuthorList';
+
+<AuthorList />
+
+## Napisz artykuł
+
+Chcesz napisać artykuł? Nic prostszego. Napisz na
+[kontakt@techwriter.pl](mailto:kontakt@techwriter.pl) i powiedz nam o czym
+chcesz napisać.
+
+### Dlaczego warto pisać
+
+- Podziel się swoją pasją z innymi
+- Pokaż sobie, że umiesz pisać
+- Szlifuj warsztat pisarski dzięki radom i pomocy od innych redaktorów
+- Napisz artykuł, który możesz dodać do portfolio

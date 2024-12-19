@@ -68,7 +68,7 @@ const config: Config = {
         src: 'img/logo-square.png',
       },
       items: [
-        { to: '/?feed=true', label: 'Blog', position: 'right' },
+        { to: '/?feed=true', label: 'Artykuły', position: 'right' },
         {
           to: '/tags/articles-in-english',
           label: 'English',
@@ -77,17 +77,6 @@ const config: Config = {
         { to: '/konferencje', label: 'Konferencje 2024', position: 'right' },
         { to: '/oferty-pracy', label: 'Oferty pracy', position: 'right' },
         { to: '/szkolenia', label: 'Szkolenia', position: 'right' },
-        {
-          to: 'https://www.facebook.com/groups/tworzeniedokumentacji',
-          label: 'Grupa facebookowa',
-          position: 'right',
-        },
-        { to: '/kontrybutorzy', label: 'Napisz artykuł', position: 'right' },
-        {
-          to: '/kim-jestesmy',
-          label: 'O nas',
-          position: 'right',
-        },
         { to: '/kontakt', label: 'Kontakt', position: 'right' },
       ],
     },
