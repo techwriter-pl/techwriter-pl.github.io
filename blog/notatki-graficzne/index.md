@@ -27,7 +27,7 @@ Otrzymałem solidną porcję wiedzy o technikach tworzenia różnego rodzaju nap
 elementów dekoracyjnych, liter i rysunków. Są to umiejętności pomocne zwłaszcza
 dla scrum masterów podsumowujących wizualnie spotkania, warsztaty i spontaniczne
 burze mózgów. Szkolenie, w którym wziąłem udział z innymi pracownikami Hitachi
-Energy, było bardzo sympatyczne i intensywne. Mieliśmy okazję podkręcić
+Energy, było przyjemne i intensywne. Mieliśmy okazję podkręcić
 kreatywność na wyższe obroty. Ubawiłem się przednio, szczególnie, że ostatni raz
 z takim zapałem rysowałem w liceum, a później było coraz mniej do tego okazji.
 Sam temat był dla mnie ważny o tyle, że moją odwieczną bolączką był charakter
