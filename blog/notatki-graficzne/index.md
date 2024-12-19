@@ -78,7 +78,7 @@ zaprojektować diagram? Do dzieła, papier wszystko przyjmie!
 
 ## Dlaczego uważam, że warto notować i rysować
 
-![](images/upload_0089.png) Graficzne notatki mogą urozmaicić Twój dzień, jeśli
+![](images/upload_0089.png) Notatki wizualne to doskonałe urozmaicenie pracy biurowej, która polega głównie na patrzeniu w monitor i klepaniu na klawiaturze.
 czujesz pewien przesyt od patrzenia w monitor i stukania na klawiaturze. Uważam,
 że rysowanie jest rozwijającą czynnością, która angażuje dodatkowe obszary
 mózgu, wspierając kreatywność, wyobraźnie i myślenie. Najlepsze rzeczy w życiu
