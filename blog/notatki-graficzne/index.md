@@ -28,7 +28,7 @@ elementów dekoracyjnych, liter i rysunków. Są to umiejętności pomocne zwła
 dla scrum masterów podsumowujących wizualnie spotkania, warsztaty i spontaniczne
 burze mózgów. Szkolenie, w którym wziąłem udział z innymi pracownikami Hitachi
 Energy, było przyjemne i intensywne. Mieliśmy okazję podkręcić
-kreatywność na wyższe obroty. Ubawiłem się przednio, szczególnie, że ostatni raz
+naszą kreatywność bawiąc się przy tym wyśmienicie.
 Muszę przyznać, że z takim zapałem rysowałem ostatnio w liceum. Niestety z biegiem czasu było do tego coraz mniej okazji.
 Sam temat był dla mnie ważny o tyle, że moją odwieczną bolączką był charakter
 pisma zbliżony do szyfru lub recepty wypisanej przez lekarza. Było to krzepiące,
