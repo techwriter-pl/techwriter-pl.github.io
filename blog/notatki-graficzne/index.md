@@ -67,7 +67,7 @@ danego momentu projektu. Czasem do pewnych szczegółów warto wrócić.
 
 Notatki wizualne wspierają mnie w zapamiętywaniu nazw projektów, komponentów,
 dat i powiązań. Arkusz z zapiskami jest jak notatka na lodówce. Wystarczy na nią spojrzeć, żeby odświeżyć sobie kluczowe informacje.
-pomaga mi to odświeżać kluczowe informacje. Im bardziej złożona struktura tego
+Im bardziej złożona struktura tego
 nad czym pracujesz, tym bardziej wizualizacja pomaga Ci ułożyć to sobie w
 głowie. Jest to szczególnie pomocne podczas etapu analizy. Dodatkowym plusem
 jest to, że kiedy masz niezapowiedzianą rozmowę na Teams na temat danego
