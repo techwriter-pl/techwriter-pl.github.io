@@ -55,7 +55,7 @@ odręczne rysunki i listę zadań.
 ![](images/upload_0088.png) Zarówno w pracy jak i po godzinach tworzę listy
 zadań, mapy tematów i sieć połączeń miedzy nimi. Rysunki i zapiski pomagają mi
 spamiętać rzeczy, które aktualnie biorę na tapet. Zapisuję sobie główne tagi,
-którymi kategoryzuję notatki w formacie markdown, w narzędziu Obsidian, któremu poświęcę
+którymi kategoryzuję notatki w narzędziu Obsidian. Postaram się napisać więcej o tej aplikacji w jednym z moich przyszłych artykułów.
 Rysunki "pączkują" i z biegiem czasu tworzy się z nich mozaika.
 Jeśli tematy znajdują się blisko siebie, oznacza to, że są w jakiś sposób ze sobą
 którymi kategoryzuję notatki w narzędziu Obsidian. Postaram się napisać więcej o tej aplikacji w jednym z moich przyszłych artykułów.
