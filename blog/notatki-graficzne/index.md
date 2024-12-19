@@ -116,7 +116,7 @@ nich korzystam. Można powiedzieć, że różne rodzaje notatek wspólnie tworz�
 na kształt ekosystemu. Notatki cyfrowe (Obsidian) potrafią się dobrze
 uzupełniać z odręcznymi zapiskami. Zależnie od sytuacji, raz wybieram
 rozwiązanie analogowe a raz cyfrowe. Czasem potrzebuję przepisać odręczne
-notatki do Obsidian, żeby zasilić moją wirtualną skarbnicę wiedzy ;) Gdy jestem
+notatki do Obsidian, żeby zasilić moją wirtualną skarbnicę wiedzy. Gdy jestem
 bardzo leniwy, robię zdjęcie notatce i umieszczam ją w systemie. Też tak można.
 
 ## Komu mogę to polecić
