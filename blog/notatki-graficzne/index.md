@@ -86,7 +86,7 @@ zaprojektować diagram? Do dzieła, papier wszystko przyjmie!
 czujesz pewien przesyt od patrzenia w monitor i stukania na klawiaturze. Uważam,
 że rysowanie jest rozwijającą czynnością, która angażuje dodatkowe obszary
 mózgu, wspierając kreatywność, wyobraźnie i myślenie. Najlepsze rzeczy w życiu
-są najprostsze. Rysowanie jest niezwykle relaksującą i rozwijającą czynnością.
+są najprostsze.
 Jest w tym czysta radość tworzenia. Nie bez powodu dzieci w wieku
 przedszkolnym i szkolnym spędzają masę czasu na rysowaniu. Jeśli Ty spędzisz
 chociaż 15 minut w ciągu dnia, nie pożałujesz. Odręczne notatki to bardzo
