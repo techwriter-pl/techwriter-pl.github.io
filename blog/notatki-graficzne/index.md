@@ -100,7 +100,7 @@ być aktywizacja i współpraca kilku obszarów mózgu na raz. Tłumaczenie myś
 koncepcji na obrazy wspiera tworzenie nowych połączeń neuronowych, co pomaga
 lepiej rozumieć i zapamiętywać. Rysowanie odgrywa rolę we wspieraniu osób w
 spektrum autyzmu oraz osób z demencją. Zastosowań dla rysowania i korzyści z
-niego płynących jest naprawdę mnóstwo. Jest to temat rzeka, udostępniam linki do
+niego płynących jest naprawdę mnóstwo. Jest to temat rzeka, dlatego udostępniam linki do
 dodatkowych źródeł dla osób zainteresowanych:
 
 - [The Drawing Effect Evidence for Reliable and Robust Memory Benefits in Free Recall](https://www.researchgate.net/publication/282658904_The_Drawing_Effect_Evidence_for_Reliable_and_Robust_Memory_Benefits_in_Free_Recall)
