@@ -96,7 +96,7 @@ Nie powinno być zaskoczeniem, że istnieją badania naukowe wskazujące na
 dobroczynny wpływ rysowania na rozwój dzieci. Dowiedziono również, że robienie
 rysowanych notatek czy nawet gryzmolenie na brzegu zeszytu ma pozytywny wpływ na
 koncentrację, przetwarzanie i zapamiętywanie informacji. Jedną z przyczyn może
-być aktywizacja i współpraca kilku obszarów mózgu na raz. Tłumaczenie myśli i
+być aktywizacja i współpraca kilku obszarów mózgu jednocześnie. Tłumaczenie myśli i
 koncepcji na obrazy wspiera tworzenie nowych połączeń neuronowych, co pomaga
 lepiej rozumieć i zapamiętywać. Rysowanie odgrywa rolę we wspieraniu osób w
 spektrum autyzmu oraz osób z demencją. Zastosowań dla rysowania i korzyści z
