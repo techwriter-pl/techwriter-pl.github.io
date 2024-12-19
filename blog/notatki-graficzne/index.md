@@ -1,5 +1,5 @@
 ---
-title: 'Odręczne notatki graficzne w warsztacie technical writera'
+title: 'Notatki wizualne w warsztacie technical writera'
 authors: niewiarowski
 date: '2024-12-19'
 tags:
@@ -8,16 +8,17 @@ tags:
   - 'notatki'
   - 'facylitacja-graficzna'
   - 'grafika'
+  - 'notatki-wizualne'
 coverImage: 'upload_0085.png'
 ---
 
 Czy analogowe notatki mają prawo bytu w dzisiejszym cyfrowym świecie? Uważam, że
 tak, a przynajmniej "u mnie to działa" :). Zapraszam do zapoznania się z metodą
-tworzenia graficznych notatek.
+tworzenia notatek wizualnych.
 
 <!--truncate-->
 
-## Szkolenie z tworzenia graficznych notatek
+## Szkolenie z tworzenia notatek wizualnych
 
 ![](images/upload_0086.png)
 
@@ -125,7 +126,7 @@ bardzo leniwy, robię zdjęcie notatce i umieszczam ją w systemie. Też tak mo�
 
 ## Komu mogę to polecić
 
-Myślę, że graficzne notowanie jest dobre dla osób, które lubiły rysować i
+Myślę, że notowanie wizualne jest dobre dla osób, które lubiły rysować i
 szukają urozmaicenia w robieniu notatek. Jeśli jesteś wzrokowcem a aspekt
 wizualny ma dla Ciebie znaczenie podczas nauki i organizacji informacji,
 zdecydowanie możesz na takich notatkach skorzystać.
