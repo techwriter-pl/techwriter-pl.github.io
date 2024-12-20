@@ -38,7 +38,7 @@ const config: Config = {
           showReadingTime: true,
           routeBasePath: '/',
           blogListComponent: '@site/src/components/BlogList/BlogList',
-          postsPerPage: 3,
+          postsPerPage: 5,
           blogSidebarTitle: 'Najnowsze wpisy',
           editUrl:
             'https://github.com/techwriter-pl/techwriter-pl.github.io/tree/main',
