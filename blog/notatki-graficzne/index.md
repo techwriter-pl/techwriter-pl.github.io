@@ -38,7 +38,7 @@ nauczyć jak pisać na plakatach dostatecznie wyraźnie. Dowiedziałem się też
 graficznych facylitatorach prowadzących warsztaty z użyciem własnoręcznie
 narysowanych materiałów, a także o ilustratorach spotkań i wydarzeń, tworzących
 wizualne podsumowania, które są świetnymi materiałami edukacyjnymi.
-Przykładami konferencji techwritingowych które uświetnione zostały zapisami graficznymi są [soap! 2015](https://techwriter.pl/namydleni-po-raz-trzeci/#my-tu-gadu-gadu-a-jad%C5%BAka-rysuje) i [Write the Docs 2021](https://techwriter.pl/relacja-z-konferenecji-write-the-docs-prague-2021/).
+Przykładami wydarzeń tech writingowych które uświetnione zostały zapisami graficznymi były [soap! 2015](https://techwriter.pl/namydleni-po-raz-trzeci/#my-tu-gadu-gadu-a-jad%C5%BAka-rysuje) i [Write the Docs 2021](https://techwriter.pl/relacja-z-konferenecji-write-the-docs-prague-2021/).
 
 ## I co dalej zrobić z tą wiedzą?
 
@@ -59,12 +59,9 @@ spamiętać rzeczy, które aktualnie biorę na tapet. Zapisuję sobie główne t
 którymi kategoryzuję notatki w narzędziu Obsidian. Postaram się napisać więcej o tej aplikacji w jednym z moich przyszłych artykułów.
 Rysunki "pączkują" i z biegiem czasu tworzy się z nich mozaika.
 Jeśli tematy znajdują się blisko siebie, oznacza to, że są w jakiś sposób ze sobą
-którymi kategoryzuję notatki w narzędziu Obsidian. Postaram się napisać więcej o tej aplikacji w jednym z moich przyszłych artykułów.
-Rysunki "pączkują" i z biegiem czasu tworzy się mozaika.
-Jeśli tematy znajdują się blisko siebie, znaczy to, że są w jakiś sposób ze sobą
 związane. Za pomocą kolorów i innych metod mogę podkreślać powiązane tematy. Z
 lubością wykreślam zamknięte sprawy. Kiedy na arkuszu robi się zbyt tłoczno albo
-większość kwestii jest rozwiązanych, wydzieram kartkę i biorę się do zapisywania
+większość kwestii jest rozwiązana, wydzieram kartkę i biorę się do zapisywania
 kolejnej. Stare notatki zachowuję, bo stanowią wizualny zapis stanu rzeczy z
 danego momentu projektu. Czasem do pewnych szczegółów warto wrócić.
 
@@ -84,7 +81,7 @@ zaprojektować diagram? Do dzieła, papier wszystko przyjmie!
 ## Dlaczego uważam, że warto notować i rysować
 
 ![](images/upload_0089.png) Notatki wizualne to doskonałe urozmaicenie pracy biurowej, która polega głównie na patrzeniu w monitor i klepaniu na klawiaturze.
-czujesz pewien przesyt od patrzenia w monitor i stukania na klawiaturze. Uważam,
+Uważam,
 że rysowanie jest relaksującą i rozwijającą czynnością, która angażuje dodatkowe obszary
 mózgu, wspierając kreatywność, wyobraźnie i myślenie. Najlepsze rzeczy w życiu
 są najprostsze.
