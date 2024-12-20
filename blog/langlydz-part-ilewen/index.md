@@ -23,11 +23,11 @@ przydatnego: **żargon**.
 Żargon, w tym żargon oparty o zapożyczenia, jest jak najbardziej w porządku.
 Ułatwia i przyspiesza komunikację, a dodatkowo służy do identyfikacji zawodowej
 (mówimy i czujemy się jak członkowie grupy). Żargon jest ładny, tak jak żółty
-kask jest ładny: bo pasuje do okazji. Na budowie używasz żółtego kasku, a w
+kask jest ładny, bo pasuje do okazji. Na budowie używasz żółtego kasku, a w
 pracy używasz żargonu.
 
-Przykład: Robimy PRy do repo, żeby rozwiązać issue. Jak nafarmimy quick winów, to
-będzie o czym opowiadać na meetupie. Dobrze się składa, bo otworzyli call for
+Przykład: Robimy PRy do repo, żeby rozwiązać issue. Jak nafarmimy quick winów,
+to będzie o czym opowiadać na meetupie. Dobrze się składa, bo otworzyli call for
 papers.
 
 Jak jest _call for papers_ po polsku? Nie wiem, bo nie brałem udziału w
@@ -45,9 +45,11 @@ wojną, ale może oznaczać pozytywny wkład. Pasjonat nie musi wpadać w złoś
 po prostu bardzo coś lubić. A kolaboracja nie musi oznaczać przejścia na stronę
 wroga.
 
-Mam silne przekonanie, że mój punkt
-widzenia nie wymaga obrony. To już było, to już przerabialiśmy, wiele wiele
-razy. Zapożyczenia sprawiają, że język żyje.
+Mam silne przekonanie, że mój punkt widzenia nie wymaga obrony. Może wynika z to
+faktu, że ukończyłem studia językoznawcze, a może z przekonania o własnej
+nieomylności w pewnych kwestiach 😉. Tak czy siak, nie da się zaprzeczyć, że to
+już było, to już przerabialiśmy, wiele wiele razy. Zapożyczenia sprawiają, że
+język żyje.
 
 Polglisz też na pewno wzbogaca język, co nie zmienia faktu, **że mam kilka
 pytań**. Dlatego też napisałem ten mini artykulik: bo mam kilka pytań o
