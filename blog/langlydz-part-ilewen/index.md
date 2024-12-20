@@ -16,7 +16,7 @@ przydatnego: **żargon**.
 
 <!--truncate-->
 
-## Po co jest żargon
+## Po co nam żargon
 
 ![Dwaj przyjaciele na wakacjach, jeden mówi "co mamy dzisiaj na agendzie?" a drugi odpowiada śmiejąc się: "hahaha, nie wiem"](./images/agenda.png)
 
