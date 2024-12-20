@@ -6,9 +6,7 @@ tags:
   - 'dobre-praktyki'
   - 'warsztat'
   - 'notatki'
-  - 'facylitacja-graficzna'
   - 'grafika'
-  - 'notatki-wizualne'
 coverImage: 'upload_0085.png'
 ---
 
