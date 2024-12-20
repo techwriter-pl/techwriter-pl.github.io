@@ -50,3 +50,5 @@ Jeżeli masz trochę wolnego czasu, który chciałbyś/chciałabyś poświęcić
 budowanie społeczności tech comm w naszym kraju, to odezwij się do nas.
 Nieustannie poszukujemy osób, które mogłyby zasilić szeregi naszego zespołu
 redakcyjnego lub wspierać nas pisząc artykuły jako niezależny autor.
+
+Więcej szczegółów [tutaj](/oferta-wspolpracy-redaktor-techwriter-pl).

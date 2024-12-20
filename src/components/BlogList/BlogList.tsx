@@ -7,7 +7,6 @@ import BlogListPage from '@theme/BlogListPage';
 import Partners from '../Partners/Partners';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import clsx from 'clsx';
-import ContentBytesAd from './ContentBytesAd';
 
 export default function BlogHome(props): JSX.Element {
   const { pathname, search } = props.history.location;
@@ -24,7 +23,6 @@ export default function BlogHome(props): JSX.Element {
         <div className="container">
           <div style={{ position: 'relative' }}>
             <h2 className={styles.articleListTitle}>Najnowsze artykuły</h2>
-            <ContentBytesAd />
           </div>
           <div className={styles.items}>
             {props.items.slice(0, 3).map(({ content: BlogPostContent }) => {
