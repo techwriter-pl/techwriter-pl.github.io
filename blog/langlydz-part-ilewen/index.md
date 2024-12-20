@@ -26,7 +26,7 @@ Ułatwia i przyspiesza komunikację, a dodatkowo służy do identyfikacji zawodo
 kask jest ładny: bo pasuje do okazji. Na budowie używasz żółtego kasku, a w
 pracy używasz żargonu.
 
-Przykład: Robimy PRy do repo żeby rozwiązać issue. Jak nafarmimy quick winów, to
+Przykład: Robimy PRy do repo, żeby rozwiązać issue. Jak nafarmimy quick winów, to
 będzie o czym opowiadać na meetupie. Dobrze się składa, bo otworzyli call for
 papers.
 
