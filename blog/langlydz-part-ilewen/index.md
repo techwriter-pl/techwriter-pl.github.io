@@ -45,7 +45,7 @@ wojną, ale może oznaczać pozytywny wkład. Pasjonat nie musi wpadać w złoś
 po prostu bardzo coś lubić. A kolaboracja nie musi oznaczać przejścia na stronę
 wroga.
 
-Jestem po studiach językoznawczych i mam silne przekonanie, że mój punkt
+Mam silne przekonanie, że mój punkt
 widzenia nie wymaga obrony. To już było, to już przerabialiśmy, wiele wiele
 razy. Zapożyczenia sprawiają, że język żyje.
 
