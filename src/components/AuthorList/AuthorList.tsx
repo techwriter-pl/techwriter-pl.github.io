@@ -15,14 +15,14 @@ const polishDescriptions: { [id: string]: JSX.Element } = {
   ),
   niewiarowski: (
     <>
-      Absolwent filologii angielskiej ze sporym dorobkiem tłumaczeniowym. Od ponad dekady
-      jest tech writerem. Obecnie specjalizuje się w dziedzinie Industrial Internet of Things 
-      w branży energetycznej. Zawodowo miał dużą styczność z instrukcjami,
-      e-learningiem, ciekawi się coachingiem. Fan aplikacji Snagit firmy
-      TechSmith. Prywatnie interesuje się filmem, muzyką rockowo-metalową, lubi
-      czytać książki i jeździć na nartach. Od piątego roku życia zafascynowany
-      dinozaurami i tak już mu zostało. Drugą grupą zwierząt, którą ceni
-      szczególnie są żółwie.
+      Absolwent filologii angielskiej ze sporym dorobkiem tłumaczeniowym. Od
+      ponad dekady jest tech writerem. Obecnie specjalizuje się w dziedzinie
+      Industrial Internet of Things w branży energetycznej. Zawodowo miał dużą
+      styczność z instrukcjami, e-learningiem, ciekawi się coachingiem. Fan
+      aplikacji Snagit firmy TechSmith. Prywatnie interesuje się filmem, muzyką
+      rockowo-metalową, lubi czytać książki i jeździć na nartach. Od piątego
+      roku życia zafascynowany dinozaurami i tak już mu zostało. Drugą grupą
+      zwierząt, którą ceni szczególnie są żółwie.
     </>
   ),
   niedzwiedzka: (
@@ -52,11 +52,10 @@ const polishDescriptions: { [id: string]: JSX.Element } = {
   pensjonatus: (
     <>
       Działa w branży od 2008 roku. Zaczynał jako Technical Writer, potem
-      zajmował się narzędziami do dokumentacji, oraz wdrażaniem dity. Członek
-      rady <Link href="http://itcqf.org/">ITCQF</Link>, obecnie pracuje w
-      polskim oddziale Guidewire Software. W wolnych chwilach lubi pisać flash
-      fiction, czytać książki i grać na komputerze. Czeka aż roboty nas
-      zastąpią, żebyśmy mogli wreszcie wziąć urlop. Nigdy nie jeździł na
+      zajmował się narzędziami do dokumentacji, oraz wdrażaniem dity. Obecnie
+      pracuje w polskim oddziale Guidewire Software. W wolnych chwilach lubi
+      pisać flash fiction, czytać książki i grać na komputerze. Czeka aż roboty
+      nas zastąpią, żebyśmy mogli wreszcie wziąć urlop. Nigdy nie jeździł na
       nartach, ale zawsze sobie mówi, że w tym sezonie spróbuje.
     </>
   ),
@@ -70,9 +69,12 @@ const polishDescriptions: { [id: string]: JSX.Element } = {
   ),
   mrozek: (
     <>
-      Technical writerka, managerka i liderka zespołu tech writerskiego.
-      Z zaangażowaniem działam na rzecz promocji roli autora technicznego w organizacji, jego wyjątkowej pozycji w cyklu rozwoju produktu oraz wartości jaką dodajemy do produktu, który opisujemy. 
-      Współorganizuję wrocławską społeczność tech writerską w ramach cyklicznych spotkań pod szyldem MeetContentWRO.
+      Technical writerka, managerka i liderka zespołu tech writerskiego. Z
+      zaangażowaniem działam na rzecz promocji roli autora technicznego w
+      organizacji, jego wyjątkowej pozycji w cyklu rozwoju produktu oraz
+      wartości jaką dodajemy do produktu, który opisujemy. Współorganizuję
+      wrocławską społeczność tech writerską w ramach cyklicznych spotkań pod
+      szyldem MeetContentWRO.
     </>
   ),
 };
@@ -88,14 +90,15 @@ const englishDescriptions: { [id: string]: JSX.Element } = {
   ),
   niewiarowski: (
     <>
-      A graduate of English Philology with considerable translation
-      experience. For well over a decade he has been a tech writer. 
-      He currently specializes in the Industrial Internet of Things domain for the energy sector. 
-      He designed instructions, procedures, e-learning material, and is interested in coaching.
-      A fan of TechSmith’s Snagit app. His afterwork hobbies include watching films and listening to rock
-      and metal music. He also likes reading and skiing. Since the age of five,
-      he has been fascinated with dinosaurs and it stayed that way. The second group
-      of animals that he especially admires are turtles (tortoises too!!!).
+      A graduate of English Philology with considerable translation experience.
+      For well over a decade he has been a tech writer. He currently specializes
+      in the Industrial Internet of Things domain for the energy sector. He
+      designed instructions, procedures, e-learning material, and is interested
+      in coaching. A fan of TechSmith’s Snagit app. His afterwork hobbies
+      include watching films and listening to rock and metal music. He also
+      likes reading and skiing. Since the age of five, he has been fascinated
+      with dinosaurs and it stayed that way. The second group of animals that he
+      especially admires are turtles (tortoises too!!!).
     </>
   ),
   niedzwiedzka: (
@@ -120,12 +123,11 @@ const englishDescriptions: { [id: string]: JSX.Element } = {
   ),
   pensjonatus: (
     <>
-      Not an actual real person. He's been in the business of tech content since
-      2008. Has worked as a writer, programmer, and DITA guy. A board member at{' '}
-      <Link href="http://itcqf.org/">ITCQF</Link>, currently at Guidewire
-      Software. Sometimes writes flash fiction, reads books or plays computer
-      games. Is looking forward to the time when AI will take over so we can all
-      take a break.
+      He's been in the business of tech content since 2008. Has worked as a
+      writer, programmer, and DITA guy. Currently at Guidewire Software.
+      Sometimes writes flash fiction, reads books or plays computer games. He's
+      looking forward to the time when AI will take over so we can all take a
+      break.
     </>
   ),
   mojk: (

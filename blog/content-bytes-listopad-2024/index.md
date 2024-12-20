@@ -16,6 +16,8 @@ Choć jesienno-zimowa zawierucha za oknem sprzyja zagrzebaniu się w fotelu z
 ciepłą herbatą, gwarantujemy, że kolejne spotkanie **Content Bytes** jest warte
 wynurzenia się spod kocyka.
 
+<!--truncate-->
+
 Ponownie szykujemy dla Was dwa tematy, tym razem w obszarze wiedzy i
 umiejętności. Wzbogacanie wiedzy i wykorzystywanie jej z pożytkiem dla siebie i
 innych stanowi ważną częścią kariery, obojętnie, czy właśnie rozpoczynasz swoją
@@ -29,8 +31,6 @@ jak przekuć swoją wiedzę w biznesowe korzyści.
 
 Tym razem gości nas **Uniwersytet Jagielloński**, a dyskusje uprzyjemnią nam
 przekąski :pizza: od **Apify**.
-
-<!--truncate-->
 
 Pamiętajcie o rejestracji, to pozwoli nam na wybór odpowiedniej sali i
 zaplanowanie poczęstunku. Link do formularza znajdziecie
@@ -79,10 +79,10 @@ informatyka stosowana. Stażystką w dziale dokumentacji została na drugim roku
 studiów licencjackich pomimo braku wcześniejszego doświadczenia w komunikacji
 technicznej. Po kolejnym stażu została pełnoprawną technical writerką w IBM i
 pracuje tam już ponad rok. Małgorzata interesuje się językiem, wyszukiwaniem
-informacji oraz kreatywnym podejściem do tworzenia treści. W połączeniu z
-wiedzą zdobytą podczas studiów, te umiejętności i pasje stanowią mieszankę
-perfekcyjną. W wolnym czasie Małgorzata lubi oglądać koreańskie dramy, co pomaga
-w nauce nowego języka, a także maluje pejzaże po numerach.
+informacji oraz kreatywnym podejściem do tworzenia treści. W połączeniu z wiedzą
+zdobytą podczas studiów, te umiejętności i pasje stanowią mieszankę perfekcyjną.
+W wolnym czasie Małgorzata lubi oglądać koreańskie dramy, co pomaga w nauce
+nowego języka, a także maluje pejzaże po numerach.
 
 **Aleksander Piskorz**
 
