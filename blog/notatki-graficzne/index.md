@@ -27,7 +27,9 @@ W marcu 2023 wziąłem udział w szkoleniu prowadzonym przez
 Otrzymałem solidną porcję wiedzy o technikach tworzenia różnego rodzaju napisów,
 elementów dekoracyjnych, liter i rysunków. Są to umiejętności pomocne zwłaszcza
 dla scrum masterów podsumowujących wizualnie spotkania, warsztaty i spontaniczne
-burze mózgów. Szkolenie, w którym wziąłem udział z innymi pracownikami Hitachi
+burze mózgów. 
+
+Szkolenie, w którym wziąłem udział z innymi pracownikami Hitachi
 Energy, było przyjemne i intensywne. Mieliśmy okazję podkręcić naszą kreatywność
 bawiąc się przy tym wyśmienicie. Muszę przyznać, że z takim zapałem rysowałem
 ostatnio w liceum. Niestety z biegiem czasu było do tego coraz mniej okazji. Sam
@@ -57,10 +59,13 @@ odręczne rysunki i listę zadań.
 ## Jak korzystam z wizualnych notatek
 
 ![](images/upload_0088.png) Zarówno w pracy jak i po godzinach tworzę listy
-zadań, mapy tematów i sieć połączeń miedzy nimi. Rysunki i zapiski pomagają mi
+zadań, mapy tematów i sieć połączeń między nimi. 
+Rysunki i zapiski pomagają mi
 spamiętać rzeczy, które aktualnie biorę na tapet. Zapisuję sobie główne tagi,
 którymi kategoryzuję notatki w narzędziu Obsidian. Postaram się napisać więcej o
-tej aplikacji w jednym z moich przyszłych artykułów. Rysunki "pączkują" i z
+tej aplikacji w jednym z moich przyszłych artykułów. 
+
+Rysunki "pączkują" i z
 biegiem czasu tworzy się z nich mozaika. Jeśli tematy znajdują się blisko
 siebie, oznacza to, że są w jakiś sposób ze sobą związane. Za pomocą kolorów i
 innych metod mogę podkreślać powiązane tematy. Z lubością wykreślam zamknięte
@@ -90,7 +95,7 @@ Uważam, że rysowanie jest relaksującą i rozwijającą czynnością, która a
 dodatkowe obszary mózgu, wspierając kreatywność, wyobraźnie i myślenie.
 Najlepsze rzeczy w życiu są najprostsze. Jest w tym czysta radość tworzenia. Nie
 bez powodu dzieci w wieku przedszkolnym i szkolnym spędzają masę czasu na
-rysowaniu. Jeśli Ty spędzisz chociaż 15 minut w ciągu dnia, nie pożałujesz.
+rysowaniu. Jeśli i Ty spędzisz na tym chociaż 15 minut w ciągu dnia, nie pożałujesz.
 Odręczne notatki to bardzo elastyczna metoda - możliwości ekspresji są ogromne.
 Kółko, kreska, przekreślenie czy falista linia potrafią w kilka sekund uchwycić
 wiele ulotnych koncepcji na papierze.
