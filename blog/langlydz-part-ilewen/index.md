@@ -32,7 +32,7 @@ papers.
 
 Jak jest _call for papers_ po polsku? Nie wiem, bo nie brałem udziału w
 konferencji akademickiej od czasów studiów. Szybciej jest powiedzieć call for
-papers, niż tworzyć sztuczne zamienniki, albo robić yyy i aaa próbując sobie
+papers, niż tworzyć sztuczne zamienniki, albo robić "yyy" i "aaa" próbując sobie
 przypomnieć jakieś archaiczne polskie słowo.
 
 ## Przepraszam, czy mogę pożyczyć słówko?
