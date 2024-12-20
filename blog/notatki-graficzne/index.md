@@ -25,23 +25,30 @@ W marcu 2023 wziąłem udział w szkoleniu prowadzonym przez
 Otrzymałem solidną porcję wiedzy o technikach tworzenia różnego rodzaju napisów,
 elementów dekoracyjnych, liter i rysunków. Są to umiejętności pomocne zwłaszcza
 dla scrum masterów podsumowujących wizualnie spotkania, warsztaty i spontaniczne
-burze mózgów. 
+burze mózgów.
 
-Szkolenie, w którym wziąłem udział z innymi pracownikami Hitachi
-Energy, było przyjemne i intensywne. Mieliśmy okazję podkręcić naszą kreatywność
-bawiąc się przy tym wyśmienicie. Muszę przyznać, że z takim zapałem rysowałem
-ostatnio w liceum. Niestety z biegiem czasu było do tego coraz mniej okazji. Sam
-temat był dla mnie ważny o tyle, że moją odwieczną bolączką był charakter pisma
-zbliżony do szyfru lub recepty wypisanej przez lekarza. Było to krzepiące, że
-mimo mojego awangardowego stylu pisania, również i ja byłem w stanie się nauczyć
-jak pisać na plakatach dostatecznie wyraźnie. Dowiedziałem się też o graficznych
-facylitatorach prowadzących warsztaty z użyciem własnoręcznie narysowanych
-materiałów, a także o ilustratorach spotkań i wydarzeń, tworzących wizualne
-podsumowania, które są świetnymi materiałami edukacyjnymi. Przykładami wydarzeń
-tech writingowych które uświetnione zostały zapisami graficznymi były
+Szkolenie, w którym wziąłem udział z innymi pracownikami Hitachi Energy, było
+przyjemne i intensywne. Mieliśmy okazję podkręcić naszą kreatywność bawiąc się
+przy tym wyśmienicie. Muszę przyznać, że z takim zapałem rysowałem ostatnio w
+liceum. Niestety z biegiem czasu było do tego coraz mniej okazji. Sam temat był
+dla mnie ważny o tyle, że moją odwieczną bolączką był charakter pisma zbliżony
+do szyfru lub recepty wypisanej przez lekarza. Było to krzepiące, że mimo mojego
+awangardowego stylu pisania, również i ja byłem w stanie się nauczyć jak pisać
+na plakatach dostatecznie wyraźnie. Dowiedziałem się też o
+[graficznych facylitatorach](https://flipowanie.pl/blog/rozwoj-osobisty/kto-to-jest-i-czym-sie-zajmuje-facylitator/)
+prowadzących warsztaty z użyciem własnoręcznie narysowanych materiałów, a także
+o ilustratorach spotkań i wydarzeń, tworzących wizualne podsumowania, które są
+świetnymi materiałami edukacyjnymi. Przykładami wydarzeń tech writingowych
+uświetnionych zapisami graficznymi są
 [soap! 2015](https://techwriter.pl/namydleni-po-raz-trzeci/#my-tu-gadu-gadu-a-jad%C5%BAka-rysuje)
 i
-[Write the Docs 2021](https://techwriter.pl/relacja-z-konferenecji-write-the-docs-prague-2021/).
+[Write the Docs 2021](https://techwriter.pl/relacja-z-konferenecji-write-the-docs-prague-2021/)
+z których relacje możesz przeczytać na Techwriter.pl.
+
+Jeśli poszukujesz szerszych definicji notatek wizualnych i powiązanych z nimi
+tematów, zajrzyj na
+[blog Gabrieli](https://flipowanie.pl/blog/flipowanie-i-facylitacja-graficzna/co-to-jest-sketchnoting/),
+którego dodatkowym atutem są piękne rysunki.
 
 ## I co dalej zrobić z tą wiedzą?
 
@@ -57,20 +64,18 @@ odręczne rysunki i listę zadań.
 ## Jak korzystam z wizualnych notatek
 
 ![](images/upload_0088.png) Zarówno w pracy jak i po godzinach tworzę listy
-zadań, mapy tematów i sieć połączeń między nimi. 
-Rysunki i zapiski pomagają mi
+zadań, mapy tematów i sieć połączeń między nimi. Rysunki i zapiski pomagają mi
 spamiętać rzeczy, które aktualnie biorę na tapet. Zapisuję sobie główne tagi,
 którymi kategoryzuję notatki w narzędziu Obsidian. Postaram się napisać więcej o
-tej aplikacji w jednym z moich przyszłych artykułów. 
+tej aplikacji w jednym z moich przyszłych artykułów.
 
-Rysunki "pączkują" i z
-biegiem czasu tworzy się z nich mozaika. Jeśli tematy znajdują się blisko
-siebie, oznacza to, że są w jakiś sposób ze sobą związane. Za pomocą kolorów i
-innych metod mogę podkreślać powiązane tematy. Z lubością wykreślam zamknięte
-sprawy. Kiedy na arkuszu robi się zbyt tłoczno albo większość kwestii jest
-rozwiązana, wydzieram kartkę i biorę się do zapisywania kolejnej. Stare notatki
-zachowuję, bo stanowią wizualny zapis stanu rzeczy z danego momentu projektu.
-Czasem do pewnych szczegółów warto wrócić.
+Rysunki "pączkują" i z biegiem czasu tworzy się z nich mozaika. Jeśli tematy
+znajdują się blisko siebie, oznacza to, że są w jakiś sposób ze sobą związane.
+Za pomocą kolorów i innych metod mogę podkreślać powiązane tematy. Z lubością
+wykreślam zamknięte sprawy. Kiedy na arkuszu robi się zbyt tłoczno albo
+większość kwestii jest rozwiązana, wydzieram kartkę i biorę się do zapisywania
+kolejnej. Stare notatki zachowuję, bo stanowią wizualny zapis stanu rzeczy z
+danego momentu projektu. Czasem do pewnych szczegółów warto wrócić.
 
 ## W czym pomagają mi wizualne notatki
 
@@ -93,10 +98,10 @@ Uważam, że rysowanie jest relaksującą i rozwijającą czynnością, która a
 dodatkowe obszary mózgu, wspierając kreatywność, wyobraźnie i myślenie.
 Najlepsze rzeczy w życiu są najprostsze. Jest w tym czysta radość tworzenia. Nie
 bez powodu dzieci w wieku przedszkolnym i szkolnym spędzają masę czasu na
-rysowaniu. Jeśli i Ty spędzisz na tym chociaż 15 minut w ciągu dnia, nie pożałujesz.
-Odręczne notatki to bardzo elastyczna metoda - możliwości ekspresji są ogromne.
-Kółko, kreska, przekreślenie czy falista linia potrafią w kilka sekund uchwycić
-wiele ulotnych koncepcji na papierze.
+rysowaniu. Jeśli i Ty spędzisz na tym chociaż 15 minut w ciągu dnia, nie
+pożałujesz. Odręczne notatki to bardzo elastyczna metoda - możliwości ekspresji
+są ogromne. Kółko, kreska, przekreślenie czy falista linia potrafią w kilka
+sekund uchwycić wiele ulotnych koncepcji na papierze.
 
 ## Co na to nauka?
 
