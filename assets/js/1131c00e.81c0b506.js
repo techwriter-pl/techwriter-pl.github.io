@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[1409],{12057:a=>{a.exports=JSON.parse('{"tag":{"label":"estymacja","permalink":"/tags/estymacja","allTagsPath":"/tags","count":2,"unlisted":false},"listMetadata":{"permalink":"/tags/estymacja","page":1,"postsPerPage":5,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

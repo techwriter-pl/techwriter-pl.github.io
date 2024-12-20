@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[93354],{22813:a=>{a.exports=JSON.parse('{"tag":{"label":"typografia","permalink":"/tags/typografia","allTagsPath":"/tags","count":3,"unlisted":false},"listMetadata":{"permalink":"/tags/typografia","page":1,"postsPerPage":3,"totalPages":1,"totalCount":3,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

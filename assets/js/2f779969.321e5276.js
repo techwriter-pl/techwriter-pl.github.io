@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[36548],{99402:e=>{e.exports=JSON.parse('{"tag":{"label":"gry","permalink":"/tags/gry","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/gry","page":1,"postsPerPage":3,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
