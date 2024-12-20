@@ -117,14 +117,14 @@ dodatkowych źródeł dla osób zainteresowanych:
 nich korzystam. Można powiedzieć, że różne rodzaje notatek wspólnie tworzą coś
 na kształt ekosystemu. Notatki cyfrowe (Obsidian) potrafią się dobrze
 uzupełniać z odręcznymi zapiskami. Zależnie od sytuacji, raz wybieram
-rozwiązanie analogowe a raz cyfrowe. Czasem potrzebuję przepisać odręczne
+rozwiązanie analogowe, a raz cyfrowe. Czasem potrzebuję przepisać odręczne
 notatki do Obsidian, żeby zasilić moją wirtualną skarbnicę wiedzy. Gdy jestem
 bardzo leniwy, robię zdjęcie notatce i umieszczam ją w systemie. Też tak można.
 
 ## Komu mogę to polecić
 
 Myślę, że notowanie wizualne jest dobre dla osób, które lubiły rysować i
-szukają urozmaicenia w robieniu notatek. Jeśli jesteś wzrokowcem a aspekt
+szukają urozmaicenia w robieniu notatek. Jeśli jesteś wzrokowcem, a aspekt
 wizualny ma dla Ciebie znaczenie podczas nauki i organizacji informacji,
 zdecydowanie możesz na takich notatkach skorzystać.
 
