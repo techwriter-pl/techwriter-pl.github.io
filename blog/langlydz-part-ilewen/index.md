@@ -46,7 +46,7 @@ po prostu bardzo coś lubić. A kolaboracja nie musi oznaczać przejścia na str
 wroga.
 
 Jestem po studiach językoznawczych i mam silne przekonanie, że mój punkt
-widzenia nie wymaga obrony. To już było, to już przerabialiśmy,, wiele wiele
+widzenia nie wymaga obrony. To już było, to już przerabialiśmy, wiele wiele
 razy. Zapożyczenia sprawiają, że język żyje.
 
 Polglisz też na pewno wzbogaca język, co nie zmienia faktu, **że mam kilka
