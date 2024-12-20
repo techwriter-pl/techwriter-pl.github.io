@@ -141,11 +141,9 @@ const englishDescriptions: { [id: string]: JSX.Element } = {
   ),
   mrozek: (
     <>
-      Technical writer, manager and tech writing team leader. I am passionately
-      working to promote the role of technical writers in organizations, their
-      unique position in the product development cycle, and the value we add to
-      the products we document. I co-organize the Wrocław tech writing community
-      through regular meetings under the MeetContentWRO banner.
+    Monika is first and foremost a Technical Writer, at heart. She loves well written content and is a fan of user centric design. She is also a tireless advocate for the value that a good technical documentation adds to the product. She believes that Technical Writers occupy a very unique position in every organization that decides to have them: a busy intersection between Developers, Product, Marketing, Support…
+    Monika is also a team manager, helping people achieve their best and to take pride in what they do.
+    She is an active technical content community member and a public speaker. She co-organizes local meetups in Wrocław to help Writers network, exchange ideas and inspire each other.
     </>
   ),
 };
