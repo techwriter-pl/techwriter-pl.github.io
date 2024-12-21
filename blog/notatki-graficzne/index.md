@@ -56,7 +56,7 @@ którego dodatkowym atutem są piękne rysunki.
 dłuższy czas nie tykałem flamastra, aż pewnego pięknego dnia stwierdziłem, że
 wypróbuję te umiejętności w codziennej praktyce speca od dokumentacji i autora
 radosnej twórczości po godzinach. Poszerzyłem mój zestaw pisaków, zakupiłem
-[biuwar (moje nowe ulubione słowo ;)](https://sjp.pwn.pl/poradnia/haslo/Zagadkowy-biwuar;17365.html)
+[biuwar](https://sjp.pwn.pl/poradnia/haslo/Zagadkowy-biwuar;17365.html) (moje nowe ulubione słowo 😉)
 i zacząłem eksperymenty z pisanymi i rysowanymi notatkami. Dla mniej
 zorientowanych, biuwar to duży arkusz papieru z kalendarzem, miejscem na
 odręczne rysunki i listę zadań.
