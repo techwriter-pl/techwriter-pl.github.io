@@ -116,7 +116,7 @@ w spektrum autyzmu oraz osób z demencją. Zastosowań dla rysowania i korzyści
 niego płynących jest naprawdę mnóstwo. Jest to temat rzeka, dlatego udostępniam
 linki do dodatkowych źródeł dla osób zainteresowanych:
 
-- [The Drawing Effect Evidence for Reliable and Robust Memory Benefits in Free Recall](https://www.researchgate.net/publication/282658904_The_Drawing_Effect_Evidence_for_Reliable_and_Robust_Memory_Benefits_in_Free_Recall)
+- [The drawing effect evidence for reliable and robust memory benefits in free recall](https://www.researchgate.net/publication/282658904_The_Drawing_Effect_Evidence_for_Reliable_and_Robust_Memory_Benefits_in_Free_Recall)
 - [Drawing and memory](https://www.edutopia.org/article/science-drawing-and-memory)
 - [Unlocking cognitive benefits - drawing makes you smarter](https://drawdrawing.com/unlocking-cognitive-benefits-does-drawing-make-you-smarter/)
 - [Visualization in mathematics](https://www.edutopia.org/article/power-visualization-math)
