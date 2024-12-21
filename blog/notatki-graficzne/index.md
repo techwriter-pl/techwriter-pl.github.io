@@ -11,7 +11,7 @@ coverImage: 'upload_0085.png'
 ---
 
 Czy analogowe notatki mają prawo bytu w dzisiejszym cyfrowym świecie? Uważam, że
-tak, a przynajmniej "u mnie to działa" :). Zapraszam do zapoznania się z metodą
+tak, a przynajmniej "u mnie to działa" 🙂 Zapraszam do zapoznania się z metodą
 tworzenia notatek wizualnych.
 
 <!--truncate-->
