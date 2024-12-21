@@ -1,7 +1,7 @@
 ---
 title: 'Notatki wizualne w warsztacie technical writera'
 authors: niewiarowski
-date: '2024-12-20'
+date: '2024-12-21'
 tags:
   - 'dobre-praktyki'
   - 'warsztat'
