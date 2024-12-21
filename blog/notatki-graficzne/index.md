@@ -43,7 +43,7 @@ uświetnionych zapisami graficznymi są
 [soap! 2015](https://techwriter.pl/namydleni-po-raz-trzeci/#my-tu-gadu-gadu-a-jad%C5%BAka-rysuje)
 i
 [Write the Docs 2021](https://techwriter.pl/relacja-z-konferenecji-write-the-docs-prague-2021/)
-z których relacje możesz przeczytać na Techwriter.pl.
+z których relacje możesz przeczytać na techwriter.pl.
 
 Jeśli poszukujesz szerszych definicji notatek wizualnych i powiązanych z nimi
 tematów, zajrzyj na
