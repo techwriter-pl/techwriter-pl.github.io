@@ -2,6 +2,7 @@ import Link from '@docusaurus/Link';
 import { useBlogPost } from '@docusaurus/plugin-content-blog/client';
 import OriginalBlogPostTitle from '@theme-original/BlogPostItem/Header/Title';
 import useIsBrowser from '@docusaurus/useIsBrowser';
+import Head from '@docusaurus/Head';
 
 export default function Footer() {
   const { frontMatter, metadata } = useBlogPost();
@@ -15,6 +16,12 @@ export default function Footer() {
 
   return (
     <>
+      <Head>
+        <meta
+          property="og:image"
+          content={`https://techwriter.pl${coverImagePath}`}
+        />
+      </Head>
       <Link href={postLink}>
         <div
           style={{

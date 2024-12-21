@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "Artykuły",
+    "description": "The title for the blog used in SEO"
+  },
+  "description": {
+    "message": "Artykuły",
+    "description": "The description for the blog used in SEO"
+  },
+  "sidebar.title": {
+    "message": "Najnowsze artykuły",
+    "description": "The label for the left sidebar"
+  }
+}
