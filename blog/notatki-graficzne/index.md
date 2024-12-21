@@ -144,7 +144,7 @@ na takich notatkach skorzystać.
 ![](images/upload_0091.png)
 
 - Możesz czuć opór wewnętrzny, może pomyślisz, że to dziecinada. Pamiętaj, że
-  nikt nie ocenia piękna Twoich wytworów, a flamaster nie gryzie :)
+  nikt nie ocenia piękna Twoich wytworów, a flamaster nie gryzie 🙂
 - Przejdź porządne szkolenie. Energia płynąca z pracy w grupie doda Ci skrzydeł.
 - Nie przejmuj się perfekcjonizmem. Linia wyszła krzywo, rysunek nie zmieścił
   się przy brzegu kartki? Przekreśl i zaadaptuj to, bo, cytując Gabrielę
