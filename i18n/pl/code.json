@@ -430,11 +430,11 @@
     "description": "The unlisted content banner message"
   },
   "theme.contentVisibility.draftBanner.title": {
-    "message": "Draft page",
+    "message": "Szkic strony",
     "description": "The draft content banner title"
   },
   "theme.contentVisibility.draftBanner.message": {
-    "message": "This page is a draft. It will only be visible in dev and be excluded from the production build.",
+    "message": "Ta strona to szkic. Będzie ją widać tylko w podglądzie developerskim (dev, hot reload) i nie będzie jej w zbudowanej stronce.",
     "description": "The draft content banner message"
   },
   "theme.ErrorPageContent.tryAgain": {
