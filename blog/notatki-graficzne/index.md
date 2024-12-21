@@ -32,7 +32,7 @@ przyjemne i intensywne. Mieliśmy okazję podkręcić naszą kreatywność bawi�
 przy tym wyśmienicie. Muszę przyznać, że z takim zapałem rysowałem ostatnio w
 liceum. Niestety z biegiem czasu było do tego coraz mniej okazji. Sam temat był
 dla mnie ważny o tyle, że moją odwieczną bolączką był charakter pisma zbliżony
-do szyfru lub recepty wypisanej przez lekarza. Było to krzepiące, że mimo mojego
+do szyfru lub recepty wypisanej przez lekarza. Było to pokrzepiające, że mimo mojego
 awangardowego stylu pisania, również i ja byłem w stanie się nauczyć jak pisać
 na plakatach dostatecznie wyraźnie. Dowiedziałem się też o
 [graficznych facylitatorach](https://flipowanie.pl/blog/rozwoj-osobisty/kto-to-jest-i-czym-sie-zajmuje-facylitator/)
