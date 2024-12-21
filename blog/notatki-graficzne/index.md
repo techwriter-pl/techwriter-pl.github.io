@@ -18,7 +18,7 @@ tworzenia notatek wizualnych.
 
 ## Szkolenie z tworzenia notatek wizualnych
 
-![](images/upload_0086.png)
+![Arkusz papieru z rysunkami pokazującymi narysowany diagram z mapą myśli i tematów.](images/upload_0086.png)
 
 W marcu 2023 wziąłem udział w szkoleniu prowadzonym przez
 [Gabrielę Borowczyk](https://www.linkedin.com/in/gabriela-borowczyk-%E2%9C%8F-55558126/).
@@ -30,11 +30,14 @@ burze mózgów.
 Szkolenie, w którym wziąłem udział z innymi pracownikami Hitachi Energy, było
 przyjemne i intensywne. Mieliśmy okazję podkręcić naszą kreatywność bawiąc się
 przy tym wyśmienicie. Muszę przyznać, że z takim zapałem rysowałem ostatnio w
-liceum. Niestety z biegiem czasu było do tego coraz mniej okazji. Sam temat był
-dla mnie ważny o tyle, że moją odwieczną bolączką był charakter pisma zbliżony
-do szyfru lub recepty wypisanej przez lekarza. Było to pokrzepiające, że mimo mojego
-awangardowego stylu pisania, również i ja byłem w stanie się nauczyć jak pisać
-na plakatach dostatecznie wyraźnie. Dowiedziałem się też o
+liceum. Niestety z biegiem czasu było do tego coraz mniej okazji.
+
+Sam temat był dla mnie ważny o tyle, że moją odwieczną bolączką był charakter
+pisma zbliżony do szyfru lub recepty wypisanej przez lekarza. Było to
+pokrzepiające, że mimo mojego awangardowego stylu pisania, również i ja byłem w
+stanie się nauczyć jak pisać na plakatach dostatecznie wyraźnie.
+
+Dowiedziałem się też o
 [graficznych facylitatorach](https://flipowanie.pl/blog/rozwoj-osobisty/kto-to-jest-i-czym-sie-zajmuje-facylitator/)
 prowadzących warsztaty z użyciem własnoręcznie narysowanych materiałów, a także
 o ilustratorach spotkań i wydarzeń, tworzących wizualne podsumowania, które są
@@ -52,22 +55,24 @@ którego dodatkowym atutem są piękne rysunki.
 
 ## I co dalej zrobić z tą wiedzą?
 
-![](images/upload_0087.png) Warsztaty ukończyłem, dyplom otrzymałem. Przez
-dłuższy czas nie tykałem flamastra, aż pewnego pięknego dnia stwierdziłem, że
-wypróbuję te umiejętności w codziennej praktyce speca od dokumentacji i autora
-radosnej twórczości po godzinach. Poszerzyłem mój zestaw pisaków, zakupiłem
-[biuwar](https://sjp.pwn.pl/poradnia/haslo/Zagadkowy-biwuar;17365.html) (moje nowe ulubione słowo 😉)
-i zacząłem eksperymenty z pisanymi i rysowanymi notatkami. Dla mniej
-zorientowanych, biuwar to duży arkusz papieru z kalendarzem, miejscem na
-odręczne rysunki i listę zadań.
+![Arkusz papieru z rysunkami pokazującymi narysowany diagram z mapą myśli i tematów.](images/upload_0087.png)
+Warsztaty ukończyłem, dyplom otrzymałem. Przez dłuższy czas nie tykałem
+flamastra, aż pewnego pięknego dnia stwierdziłem, że wypróbuję te umiejętności w
+codziennej praktyce speca od dokumentacji i autora radosnej twórczości po
+godzinach. Poszerzyłem mój zestaw pisaków, zakupiłem
+[biuwar](https://sjp.pwn.pl/poradnia/haslo/Zagadkowy-biwuar;17365.html) (moje
+nowe ulubione słowo 😉) i zacząłem eksperymenty z pisanymi i rysowanymi
+notatkami. Dla mniej zorientowanych, biuwar to duży arkusz papieru z
+kalendarzem, miejscem na odręczne rysunki i listę zadań.
 
 ## Jak korzystam z wizualnych notatek
 
-![](images/upload_0088.png) Zarówno w pracy jak i po godzinach tworzę listy
-zadań, mapy tematów i sieć połączeń między nimi. Rysunki i zapiski pomagają mi
-spamiętać rzeczy, które aktualnie biorę na tapet. Zapisuję sobie główne tagi,
-którymi kategoryzuję notatki w narzędziu Obsidian. Postaram się napisać więcej o
-tej aplikacji w jednym z moich przyszłych artykułów.
+![Arkusz papieru z rysunkami pokazującymi narysowany diagram z mapą myśli i tematów.](images/upload_0088.png)
+Zarówno w pracy jak i po godzinach tworzę listy zadań, mapy tematów i sieć
+połączeń między nimi. Rysunki i zapiski pomagają mi spamiętać rzeczy, które
+aktualnie biorę na tapet. Zapisuję sobie główne tagi, którymi kategoryzuję
+notatki w narzędziu Obsidian. Postaram się napisać więcej o tej aplikacji w
+jednym z moich przyszłych artykułów.
 
 Rysunki "pączkują" i z biegiem czasu tworzy się z nich mozaika. Jeśli tematy
 znajdują się blisko siebie, oznacza to, że są w jakiś sposób ze sobą związane.
@@ -92,16 +97,17 @@ zaprojektować diagram? Do dzieła, papier wszystko przyjmie!
 
 ## Dlaczego uważam, że warto notować i rysować
 
-![](images/upload_0089.png) Notatki wizualne to doskonałe urozmaicenie pracy
-biurowej, która polega głównie na patrzeniu w monitor i klepaniu na klawiaturze.
-Uważam, że rysowanie jest relaksującą i rozwijającą czynnością, która angażuje
-dodatkowe obszary mózgu, wspierając kreatywność, wyobraźnie i myślenie.
-Najlepsze rzeczy w życiu są najprostsze. Jest w tym czysta radość tworzenia. Nie
-bez powodu dzieci w wieku przedszkolnym i szkolnym spędzają masę czasu na
-rysowaniu. Jeśli i Ty spędzisz na tym chociaż 15 minut w ciągu dnia, nie
-pożałujesz. Odręczne notatki to bardzo elastyczna metoda - możliwości ekspresji
-są ogromne. Kółko, kreska, przekreślenie czy falista linia potrafią w kilka
-sekund uchwycić wiele ulotnych koncepcji na papierze.
+![Arkusz papieru z rysunkami pokazującymi narysowany diagram z mapą myśli i tematów.](images/upload_0089.png)
+Notatki wizualne to doskonałe urozmaicenie pracy biurowej, która polega głównie
+na patrzeniu w monitor i klepaniu na klawiaturze. Uważam, że rysowanie jest
+relaksującą i rozwijającą czynnością, która angażuje dodatkowe obszary mózgu,
+wspierając kreatywność, wyobraźnie i myślenie. Najlepsze rzeczy w życiu są
+najprostsze. Jest w tym czysta radość tworzenia. Nie bez powodu dzieci w wieku
+przedszkolnym i szkolnym spędzają masę czasu na rysowaniu. Jeśli i Ty spędzisz
+na tym chociaż 15 minut w ciągu dnia, nie pożałujesz. Odręczne notatki to bardzo
+elastyczna metoda - możliwości ekspresji są ogromne. Kółko, kreska,
+przekreślenie czy falista linia potrafią w kilka sekund uchwycić wiele ulotnych
+koncepcji na papierze.
 
 ## Co na to nauka?
 
@@ -116,21 +122,22 @@ w spektrum autyzmu oraz osób z demencją. Zastosowań dla rysowania i korzyści
 niego płynących jest naprawdę mnóstwo. Jest to temat rzeka, dlatego udostępniam
 linki do dodatkowych źródeł dla osób zainteresowanych:
 
-- [The drawing effect evidence for reliable and robust memory benefits in free recall](https://www.researchgate.net/publication/282658904_The_Drawing_Effect_Evidence_for_Reliable_and_Robust_Memory_Benefits_in_Free_Recall)
-- [Drawing and memory](https://www.edutopia.org/article/science-drawing-and-memory)
-- [Unlocking cognitive benefits - drawing makes you smarter](https://drawdrawing.com/unlocking-cognitive-benefits-does-drawing-make-you-smarter/)
-- [Visualization in mathematics](https://www.edutopia.org/article/power-visualization-math)
+- [The drawing effect: evidence for reliable and robust memory benefits in free recall](https://www.researchgate.net/publication/282658904_The_Drawing_Effect_Evidence_for_Reliable_and_Robust_Memory_Benefits_in_Free_Recall)
+- [The science of drawing and memory](https://www.edutopia.org/article/science-drawing-and-memory)
+- [Unlocking cognitive benefits - does drawing makes you smarter?](https://drawdrawing.com/unlocking-cognitive-benefits-does-drawing-make-you-smarter/)
+- [The power of visualization in maths](https://www.edutopia.org/article/power-visualization-math)
 - [Art therapy for children with autism spectrum disorder](https://www.neurologia.com.pl/artykul.php?a=1251)
 
 ## A co z cyfrowymi notatkami?
 
-![](images/upload_0090.png) Nie odżegnuję się od cyfrowych notatek - również z
-nich korzystam. Można powiedzieć, że różne rodzaje notatek wspólnie tworzą coś
-na kształt ekosystemu. Notatki cyfrowe (Obsidian) potrafią się dobrze uzupełniać
-z odręcznymi zapiskami. Zależnie od sytuacji, raz wybieram rozwiązanie
-analogowe, a raz cyfrowe. Czasem potrzebuję przepisać odręczne notatki do
-Obsidian, żeby zasilić moją wirtualną skarbnicę wiedzy. Gdy jestem bardzo
-leniwy, robię zdjęcie notatce i umieszczam ją w systemie. Też tak można.
+![Arkusz papieru z rysunkami pokazującymi narysowany diagram z mapą myśli i tematów.](images/upload_0090.png)
+Nie odżegnuję się od cyfrowych notatek - również z nich korzystam. Można
+powiedzieć, że różne rodzaje notatek wspólnie tworzą coś na kształt ekosystemu.
+Notatki cyfrowe (Obsidian) potrafią się dobrze uzupełniać z odręcznymi
+zapiskami. Zależnie od sytuacji, raz wybieram rozwiązanie analogowe, a raz
+cyfrowe. Czasem potrzebuję przepisać odręczne notatki do Obsidian, żeby zasilić
+moją wirtualną skarbnicę wiedzy. Gdy jestem bardzo leniwy, robię zdjęcie notatce
+i umieszczam ją w systemie. Też tak można.
 
 ## Komu mogę to polecić
 
@@ -141,7 +148,7 @@ na takich notatkach skorzystać.
 
 ## Wskazówki
 
-![](images/upload_0091.png)
+![Rysunek żółwia i dinozaura wykonany flamastrem i zakreślaczem.](images/upload_0091.png)
 
 - Możesz czuć opór wewnętrzny, może pomyślisz, że to dziecinada. Pamiętaj, że
   nikt nie ocenia piękna Twoich wytworów, a flamaster nie gryzie 🙂
