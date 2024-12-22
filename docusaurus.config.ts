@@ -39,7 +39,7 @@ const config: Config = {
           routeBasePath: '/',
           blogListComponent: '@site/src/components/BlogList/BlogList',
           postsPerPage: 5,
-          blogSidebarTitle: 'Najnowsze wpisy',
+          blogSidebarTitle: 'Najnowsze artykuły',
           editUrl:
             'https://github.com/techwriter-pl/techwriter-pl.github.io/tree/main',
         },
@@ -68,7 +68,6 @@ const config: Config = {
         src: 'img/logo-square.png',
       },
       items: [
-        { to: '/?feed=true', label: 'Artykuły', position: 'right' },
         {
           to: '/tags/articles-in-english',
           label: 'English',

@@ -12,11 +12,6 @@ type PopularFilterProps = {
 
 const popularFilters: PopularFilterProps[] = [
   {
-    label: 'oferty-pracy',
-    permalink: '/tags/oferty-pracy',
-    description: 'Ogłoszenia o pracę',
-  },
-  {
     label: 'badanie-płac',
     permalink: '/tags/badanie-plac',
     description: 'Ankieta o zarobkach w komunikacji technicznej',
@@ -38,11 +33,11 @@ export default function BlogPostItems(props): JSX.Element {
     <div className={styles.wrapper}>
       <div className={styles.background}>
         <div className={styles.filterRow}>
-          <b>Popularne tematy:</b>
+          <b>Popularne tagi:</b>
           {popularFilters.map((filter, idx) => (
             <Tag {...filter} key={idx} />
           ))}
-          <Link to="/tags">...wyświetl więcej tematów</Link>
+          <Link to="/tags">...wyświetl więcej tagów</Link>
         </div>
         <div></div>
       </div>
