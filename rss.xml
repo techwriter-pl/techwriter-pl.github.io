@@ -4,10 +4,153 @@
         <title>techwriter.pl Blog</title>
         <link>https://techwriter.pl/</link>
         <description>techwriter.pl Blog</description>
-        <lastBuildDate>Sat, 21 Dec 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Dec 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>pl</language>
+        <item>
+            <title><![CDATA[Notatki wizualne w warsztacie technical writera]]></title>
+            <link>https://techwriter.pl/notatki-graficzne</link>
+            <guid>https://techwriter.pl/notatki-graficzne</guid>
+            <pubDate>Mon, 30 Dec 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Czy analogowe notatki mają prawo bytu w dzisiejszym cyfrowym świecie? Uważam, że]]></description>
+            <content:encoded><![CDATA[<p>Czy analogowe notatki mają prawo bytu w dzisiejszym cyfrowym świecie? Uważam, że
+tak, a przynajmniej "u mnie to działa" 🙂 Zapraszam do zapoznania się z metodą
+tworzenia notatek wizualnych.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="szkolenie-z-tworzenia-notatek-wizualnych">Szkolenie z tworzenia notatek wizualnych<a href="https://techwriter.pl/notatki-graficzne#szkolenie-z-tworzenia-notatek-wizualnych" class="hash-link" aria-label="Bezpośredni link do Szkolenie z tworzenia notatek wizualnych" title="Bezpośredni link do Szkolenie z tworzenia notatek wizualnych">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="Arkusz papieru z rysunkami pokazującymi narysowany diagram z mapą myśli i tematów." src="https://techwriter.pl/assets/images/upload_0086-c6032f57406f1c5872ec2fb4a0a919c4.png" width="900" height="629" class="img_ev3q"></p>
+<p>W marcu 2023 wziąłem udział w szkoleniu prowadzonym przez
+<a href="https://www.linkedin.com/in/gabriela-borowczyk-%E2%9C%8F-55558126/" target="_blank" rel="noopener noreferrer">Gabrielę Borowczyk</a>.
+Otrzymałem solidną porcję wiedzy o technikach tworzenia różnego rodzaju napisów,
+elementów dekoracyjnych, liter i rysunków. Są to umiejętności pomocne zwłaszcza
+dla scrum masterów podsumowujących wizualnie spotkania, warsztaty i spontaniczne
+burze mózgów.</p>
+<p>Szkolenie, w którym wziąłem udział z innymi pracownikami Hitachi Energy, było
+przyjemne i intensywne. Mieliśmy okazję podkręcić naszą kreatywność bawiąc się
+przy tym wyśmienicie. Muszę przyznać, że z takim zapałem rysowałem ostatnio w
+liceum. Niestety z biegiem czasu było do tego coraz mniej okazji.</p>
+<p>Sam temat był dla mnie ważny o tyle, że moją odwieczną bolączką był charakter
+pisma zbliżony do szyfru lub recepty wypisanej przez lekarza. Było to
+pokrzepiające, że mimo mojego awangardowego stylu pisania, również i ja byłem w
+stanie się nauczyć jak pisać na plakatach dostatecznie wyraźnie.</p>
+<p>Dowiedziałem się też o
+<a href="https://flipowanie.pl/blog/rozwoj-osobisty/kto-to-jest-i-czym-sie-zajmuje-facylitator/" target="_blank" rel="noopener noreferrer">graficznych facylitatorach</a>
+prowadzących warsztaty z użyciem własnoręcznie narysowanych materiałów, a także
+o ilustratorach spotkań i wydarzeń, tworzących wizualne podsumowania, które są
+świetnymi materiałami edukacyjnymi. Przykładami wydarzeń tech writingowych
+uświetnionych zapisami graficznymi są
+<a href="https://techwriter.pl/namydleni-po-raz-trzeci/#my-tu-gadu-gadu-a-jad%C5%BAka-rysuje" target="_blank" rel="noopener noreferrer">soap! 2015</a>
+i
+<a href="https://techwriter.pl/relacja-z-konferenecji-write-the-docs-prague-2021/" target="_blank" rel="noopener noreferrer">Write the Docs 2021</a>
+z których relacje możesz przeczytać na techwriter.pl.</p>
+<p>Jeśli poszukujesz szerszych definicji notatek wizualnych i powiązanych z nimi
+tematów, zajrzyj na
+<a href="https://flipowanie.pl/blog/flipowanie-i-facylitacja-graficzna/co-to-jest-sketchnoting/" target="_blank" rel="noopener noreferrer">blog Gabrieli</a>,
+którego dodatkowym atutem są piękne rysunki.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="i-co-dalej-zrobić-z-tą-wiedzą">I co dalej zrobić z tą wiedzą?<a href="https://techwriter.pl/notatki-graficzne#i-co-dalej-zrobi%C4%87-z-t%C4%85-wiedz%C4%85" class="hash-link" aria-label="Bezpośredni link do I co dalej zrobić z tą wiedzą?" title="Bezpośredni link do I co dalej zrobić z tą wiedzą?">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="Arkusz papieru z rysunkami pokazującymi narysowany diagram z mapą myśli i tematów." src="https://techwriter.pl/assets/images/upload_0087-98063206ef607cb7b1dc01c8ccd421e9.png" width="900" height="675" class="img_ev3q">
+Warsztaty ukończyłem, dyplom otrzymałem. Przez dłuższy czas nie tykałem
+flamastra, aż pewnego pięknego dnia stwierdziłem, że wypróbuję te umiejętności w
+codziennej praktyce speca od dokumentacji i autora radosnej twórczości po
+godzinach. Poszerzyłem mój zestaw pisaków, zakupiłem
+<a href="https://sjp.pwn.pl/poradnia/haslo/Zagadkowy-biwuar;17365.html" target="_blank" rel="noopener noreferrer">biuwar</a> (moje
+nowe ulubione słowo 😉) i zacząłem eksperymenty z pisanymi i rysowanymi
+notatkami. Dla mniej zorientowanych, biuwar to duży arkusz papieru z
+kalendarzem, miejscem na odręczne rysunki i listę zadań.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="jak-korzystam-z-wizualnych-notatek">Jak korzystam z wizualnych notatek<a href="https://techwriter.pl/notatki-graficzne#jak-korzystam-z-wizualnych-notatek" class="hash-link" aria-label="Bezpośredni link do Jak korzystam z wizualnych notatek" title="Bezpośredni link do Jak korzystam z wizualnych notatek">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="Arkusz papieru z rysunkami pokazującymi narysowany diagram z mapą myśli i tematów." src="https://techwriter.pl/assets/images/upload_0088-828987e3d9b2c03934d0775fc1bf7116.png" width="891" height="619" class="img_ev3q">
+Zarówno w pracy jak i po godzinach tworzę listy zadań, mapy tematów i sieć
+połączeń między nimi. Rysunki i zapiski pomagają mi spamiętać rzeczy, które
+aktualnie biorę na tapet. Zapisuję sobie główne tagi, którymi kategoryzuję
+notatki w narzędziu Obsidian. Postaram się napisać więcej o tej aplikacji w
+jednym z moich przyszłych artykułów.</p>
+<p>Rysunki "pączkują" i z biegiem czasu tworzy się z nich mozaika. Jeśli tematy
+znajdują się blisko siebie, oznacza to, że są w jakiś sposób ze sobą związane.
+Za pomocą kolorów i innych metod mogę podkreślać powiązane tematy. Z lubością
+wykreślam zamknięte sprawy. Kiedy na arkuszu robi się zbyt tłoczno albo
+większość kwestii jest rozwiązana, wydzieram kartkę i biorę się do zapisywania
+kolejnej. Stare notatki zachowuję, bo stanowią wizualny zapis stanu rzeczy z
+danego momentu projektu. Czasem do pewnych szczegółów warto wrócić.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="w-czym-pomagają-mi-wizualne-notatki">W czym pomagają mi wizualne notatki<a href="https://techwriter.pl/notatki-graficzne#w-czym-pomagaj%C4%85-mi-wizualne-notatki" class="hash-link" aria-label="Bezpośredni link do W czym pomagają mi wizualne notatki" title="Bezpośredni link do W czym pomagają mi wizualne notatki">​</a></h2>
+<p>Notatki wizualne wspierają mnie w zapamiętywaniu nazw projektów, komponentów,
+dat i powiązań. Arkusz z zapiskami jest jak notatka na lodówce. Wystarczy na nią
+spojrzeć, żeby odświeżyć sobie kluczowe informacje. Im bardziej złożona
+struktura tego nad czym pracujesz, tym bardziej wizualizacja pomaga Ci ułożyć to
+sobie w głowie. Jest to szczególnie pomocne podczas etapu analizy. Dodatkowym
+plusem jest to, że kiedy masz niezapowiedzianą rozmowę na Teams na temat danego
+projektu, masz przed oczami kluczowe fakty. No i oczywiście masz miejsce na
+arkuszu na zrobienie szybkich notatek w trakcie rozmowy. Czasem za status mojego
+projektu wystarcza zdjęcie rysunku podsumowującego moje działania. Potrzebujesz
+zaprojektować diagram? Do dzieła, papier wszystko przyjmie!</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="dlaczego-uważam-że-warto-notować-i-rysować">Dlaczego uważam, że warto notować i rysować<a href="https://techwriter.pl/notatki-graficzne#dlaczego-uwa%C5%BCam-%C5%BCe-warto-notowa%C4%87-i-rysowa%C4%87" class="hash-link" aria-label="Bezpośredni link do Dlaczego uważam, że warto notować i rysować" title="Bezpośredni link do Dlaczego uważam, że warto notować i rysować">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="Arkusz papieru z rysunkami pokazującymi narysowany diagram z mapą myśli i tematów." src="https://techwriter.pl/assets/images/upload_0089-f858ae4ffd452af1c92498be15c47c76.png" width="895" height="634" class="img_ev3q">
+Notatki wizualne to doskonałe urozmaicenie pracy biurowej, która polega głównie
+na patrzeniu w monitor i klepaniu na klawiaturze. Uważam, że rysowanie jest
+relaksującą i rozwijającą czynnością, która angażuje dodatkowe obszary mózgu,
+wspierając kreatywność, wyobraźnie i myślenie. Najlepsze rzeczy w życiu są
+najprostsze. Jest w tym czysta radość tworzenia. Nie bez powodu dzieci w wieku
+przedszkolnym i szkolnym spędzają masę czasu na rysowaniu. Jeśli i Ty spędzisz
+na tym chociaż 15 minut w ciągu dnia, nie pożałujesz. Odręczne notatki to bardzo
+elastyczna metoda - możliwości ekspresji są ogromne. Kółko, kreska,
+przekreślenie czy falista linia potrafią w kilka sekund uchwycić wiele ulotnych
+koncepcji na papierze.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="co-na-to-nauka">Co na to nauka?<a href="https://techwriter.pl/notatki-graficzne#co-na-to-nauka" class="hash-link" aria-label="Bezpośredni link do Co na to nauka?" title="Bezpośredni link do Co na to nauka?">​</a></h2>
+<p>Nie powinno być zaskoczeniem, że istnieją badania naukowe wskazujące na
+dobroczynny wpływ rysowania na rozwój dzieci. Dowiedziono również, że robienie
+rysowanych notatek czy nawet gryzmolenie na brzegu zeszytu ma pozytywny wpływ na
+koncentrację, przetwarzanie i zapamiętywanie informacji. Jedną z przyczyn może
+być aktywizacja i współpraca kilku obszarów mózgu jednocześnie. Tłumaczenie
+myśli i koncepcji na obrazy wspiera tworzenie nowych połączeń neuronowych, co
+pomaga lepiej rozumieć i zapamiętywać. Rysowanie odgrywa rolę we wspieraniu osób
+w spektrum autyzmu oraz osób z demencją. Zastosowań dla rysowania i korzyści z
+niego płynących jest naprawdę mnóstwo. Jest to temat rzeka, dlatego udostępniam
+linki do dodatkowych źródeł dla osób zainteresowanych:</p>
+<ul>
+<li><a href="https://www.researchgate.net/publication/282658904_The_Drawing_Effect_Evidence_for_Reliable_and_Robust_Memory_Benefits_in_Free_Recall" target="_blank" rel="noopener noreferrer">The drawing effect: evidence for reliable and robust memory benefits in free recall</a></li>
+<li><a href="https://www.edutopia.org/article/science-drawing-and-memory" target="_blank" rel="noopener noreferrer">The science of drawing and memory</a></li>
+<li><a href="https://drawdrawing.com/unlocking-cognitive-benefits-does-drawing-make-you-smarter/" target="_blank" rel="noopener noreferrer">Unlocking cognitive benefits - does drawing makes you smarter?</a></li>
+<li><a href="https://www.edutopia.org/article/power-visualization-math" target="_blank" rel="noopener noreferrer">The power of visualization in maths</a></li>
+<li><a href="https://www.neurologia.com.pl/artykul.php?a=1251" target="_blank" rel="noopener noreferrer">Art therapy for children with autism spectrum disorder</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="a-co-z-cyfrowymi-notatkami">A co z cyfrowymi notatkami?<a href="https://techwriter.pl/notatki-graficzne#a-co-z-cyfrowymi-notatkami" class="hash-link" aria-label="Bezpośredni link do A co z cyfrowymi notatkami?" title="Bezpośredni link do A co z cyfrowymi notatkami?">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="Arkusz papieru z rysunkami pokazującymi narysowany diagram z mapą myśli i tematów." src="https://techwriter.pl/assets/images/upload_0090-47d7ca638428f1c1a77a0f6f631b9a79.png" width="900" height="675" class="img_ev3q">
+Nie odżegnuję się od cyfrowych notatek - również z nich korzystam. Można
+powiedzieć, że różne rodzaje notatek wspólnie tworzą coś na kształt ekosystemu.
+Notatki cyfrowe (Obsidian) potrafią się dobrze uzupełniać z odręcznymi
+zapiskami. Zależnie od sytuacji, raz wybieram rozwiązanie analogowe, a raz
+cyfrowe. Czasem potrzebuję przepisać odręczne notatki do Obsidian, żeby zasilić
+moją wirtualną skarbnicę wiedzy. Gdy jestem bardzo leniwy, robię zdjęcie notatce
+i umieszczam ją w systemie. Też tak można.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="komu-mogę-to-polecić">Komu mogę to polecić<a href="https://techwriter.pl/notatki-graficzne#komu-mog%C4%99-to-poleci%C4%87" class="hash-link" aria-label="Bezpośredni link do Komu mogę to polecić" title="Bezpośredni link do Komu mogę to polecić">​</a></h2>
+<p>Myślę, że notowanie wizualne jest dobre dla osób, które lubiły rysować i szukają
+urozmaicenia w robieniu notatek. Jeśli jesteś wzrokowcem, a aspekt wizualny ma
+dla Ciebie znaczenie podczas nauki i organizacji informacji, zdecydowanie możesz
+na takich notatkach skorzystać.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="wskazówki">Wskazówki<a href="https://techwriter.pl/notatki-graficzne#wskaz%C3%B3wki" class="hash-link" aria-label="Bezpośredni link do Wskazówki" title="Bezpośredni link do Wskazówki">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="Rysunek żółwia i dinozaura wykonany flamastrem i zakreślaczem." src="https://techwriter.pl/assets/images/upload_0091-1dda5552c06217d28ab87571a9873d7b.png" width="800" height="563" class="img_ev3q"></p>
+<ul>
+<li>Możesz czuć opór wewnętrzny, może pomyślisz, że to dziecinada. Pamiętaj, że
+nikt nie ocenia piękna Twoich wytworów, a flamaster nie gryzie 🙂</li>
+<li>Przejdź porządne szkolenie. Energia płynąca z pracy w grupie doda Ci skrzydeł.</li>
+<li>Nie przejmuj się perfekcjonizmem. Linia wyszła krzywo, rysunek nie zmieścił
+się przy brzegu kartki? Przekreśl i zaadaptuj to, bo, cytując Gabrielę
+Borowczyk: "Tak miało być i koniec".</li>
+<li>Chętnie się wraca do estetycznych i dobrze zaprojektowanych notatek. Nie
+musisz być artystą i spędzać nad rysunkiem całego dnia. Minimalna chlujność
+jest konieczna, żeby oczy nie bolały przy oglądaniu.</li>
+<li>Rysunki mogą być minimalistyczne.</li>
+<li>Daj sobie czas na nabranie doświadczenia. Po jakimś czasie znajdziesz triki,
+by szybko wyrazić to, na czym Ci zależy.</li>
+<li>Internet jest pełen przepisów na tworzenie uproszczonych grafik czy symboli.
+Wpisz w wyszukiwarkę obrazów: "Jak narysować X".</li>
+<li>Przede wszystkim rysuj i baw się dobrze.</li>
+</ul>
+<p><img decoding="async" loading="lazy" src="https://techwriter.pl/assets/images/podziekowanie-d46e9c8d4b54543dd672b52deddcf7fd.png" width="800" height="596" class="img_ev3q"></p>]]></content:encoded>
+            <category>dobre-praktyki</category>
+            <category>warsztat</category>
+            <category>notatki</category>
+            <category>grafika</category>
+        </item>
         <item>
             <title><![CDATA[Langłydż - part ilewen: żargon, zapożyczenia i polglisz]]></title>
             <link>https://techwriter.pl/langlydz-part-ilewen</link>
@@ -1643,69 +1786,6 @@ Stowarzyszenie ma głównie pomagać autorom i ilustratorom aby podnosić ich ko
             <category>stowarzyszenie</category>
             <category>zrzeszenia-branżowe</category>
             <category>promocja-branży</category>
-        </item>
-        <item>
-            <title><![CDATA[Konferencja Tłumaczy 2024 - patronujemy!]]></title>
-            <link>https://techwriter.pl/konferencja-tlumaczy-2024</link>
-            <guid>https://techwriter.pl/konferencja-tlumaczy-2024</guid>
-            <pubDate>Tue, 25 Jun 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Kolejny rok i kolejna Konferencja Tłumaczy (KTLC). Już od kilku lat jesteśmy jej]]></description>
-            <content:encoded><![CDATA[<p>Kolejny rok i kolejna Konferencja Tłumaczy (KTLC). Już od kilku lat jesteśmy jej
-dumnym patronem - nie inaczej jest w tym roku.</p>
-<p>Poza patronatem również aktywnie uczestniczymy w konferencji (czasami nawet jako
-prelegenci i prelegentki). Dlatego możemy ją Wam polecić z absolutnym spokojem o
-wysoką merytoryczną jakość oraz świetną atmosferę.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="gdzie-i-kiedy"><strong>Gdzie i kiedy?</strong><a href="https://techwriter.pl/konferencja-tlumaczy-2024#gdzie-i-kiedy" class="hash-link" aria-label="Bezpośredni link do gdzie-i-kiedy" title="Bezpośredni link do gdzie-i-kiedy">​</a></h2>
-<p>Tegoroczna edycja <a href="https://konferencjatlumaczy.pl/" target="_blank" rel="noopener noreferrer">Konferencji Tłumaczy</a>
-odbędzie się 28 września w Warszawie, a towarzyszyć jej będzie
-<a href="https://translation-conference.com/" target="_blank" rel="noopener noreferrer">Translation and Localization Conference</a> –
-dwudniowe wydarzenie, zaplanowane na 27-28 września. Każde z wydarzeń ma osobny
-program i osobną listę prelegentów - obie propozycje w równym stopniu godne
-polecenia. Podobnie jak w ubiegłym roku, konferencja będzie miała formę
-hybrydową: stacjonarnie w Golden Tulip Warsaw Center oraz online na platformie
-Gridaly.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="dodatkowe-atrakcje"><strong>Dodatkowe atrakcje</strong><a href="https://techwriter.pl/konferencja-tlumaczy-2024#dodatkowe-atrakcje" class="hash-link" aria-label="Bezpośredni link do dodatkowe-atrakcje" title="Bezpośredni link do dodatkowe-atrakcje">​</a></h2>
-<p>Organizatorzy zadbali także o imprezy towarzyszące - warto przybyć do Warszawy
-już w czwartek, 26 września, wypić powitalnego drinka i wziąć udział w panelu
-dyskusyjnym. W niedzielę natomiast, po zakończeniu części merytorycznej, na
-uczestniczki i uczestników czeka gra miejska i zwiedzanie stolicy.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="dla-kogo"><strong>Dla kogo?</strong><a href="https://techwriter.pl/konferencja-tlumaczy-2024#dla-kogo" class="hash-link" aria-label="Bezpośredni link do dla-kogo" title="Bezpośredni link do dla-kogo">​</a></h2>
-<p>Konferencja, jak sama nazwa sugeruje, jest adresowana do osób związanych z
-szeroko pojętą branżą tłumaczeniową, zajmujących się pracą z tekstem i językiem,
-przedstawicieli biur tłumaczeniowych, filologów, prawników, naukowców, twórców
-narzędzi CAT. Mile widziani są oczywiście tech writerzy oraz specjaliści od
-lokalizacji produktu. Wstępna lista prelegentów dostępna jest
-<a href="https://konferencja-tlumaczy.pl/?page_id=2121" target="_blank" rel="noopener noreferrer">pod tym linkiem</a>. Z
-doświadczenia wiemy, że program konferencji jest na tyle urozmaicony, że każdy
-znajdzie coś dla siebie.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="motyw-przewodni"><strong>Motyw przewodni</strong><a href="https://techwriter.pl/konferencja-tlumaczy-2024#motyw-przewodni" class="hash-link" aria-label="Bezpośredni link do motyw-przewodni" title="Bezpośredni link do motyw-przewodni">​</a></h2>
-<p>Czy boisz się zmian i oswajasz je powoli? A może wręcz przeciwnie, jesteś
-człowiekiem zmiany i wierzysz, że twoja branża może na niej zyskać? Tegoroczna
-edycja jest właśnie dla Was, ponieważ jej temat przewodni to:</p>
-<p><strong>Ludzie (!) Zmiany (!) – Ludzie zmiany!</strong></p>
-<p>Jak rozumieć ten motyw? Pomyśl o poniższych zagadnieniach:</p>
-<ul>
-<li>Jakie zmiany obserwujecie w swoim otoczeniu zawodowym w ostatnim roku?</li>
-<li>Czy te zmiany były do przewidzenia, czy też Was zaskoczyły?</li>
-<li>Jak możemy być katalizatorami zmian?</li>
-<li>Jak być „ludźmi zmian”, którzy wyprzedzają rzeczywistość, by ją kształtować?</li>
-<li>Gdzie w naszej zmieniającej się rzeczywistości zawodowej są ludzie i ludzkie
-umiejętności?</li>
-<li>A może nie takie te zmiany straszne, jak je malują?</li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="jak-dołączyć"><strong>Jak dołączyć?</strong><a href="https://techwriter.pl/konferencja-tlumaczy-2024#jak-do%C5%82%C4%85czy%C4%87" class="hash-link" aria-label="Bezpośredni link do jak-dołączyć" title="Bezpośredni link do jak-dołączyć">​</a></h2>
-<p>Bilety na tegoroczną konferencję możesz kupić
-<a href="https://ktlc-2024.gridaly.com/registration" target="_blank" rel="noopener noreferrer">tu</a>.</p>
-<p><strong>Do 15 lipca</strong> możecie skorzystać z rabatu 25% na wszystkie warianty udziału.
-Podczas rejestracji wystarczy wpisać na dole formularza kod: <code>WCZESNYPTAK</code>.</p>
-<p>Warto też śledzić
-<a href="https://www.facebook.com/KonferencjaTlumaczy" target="_blank" rel="noopener noreferrer">konferencję na FB</a>, aby być na
-bieżąco.</p>
-<p><strong>Do zobaczenia we wrześniu!</strong></p>]]></content:encoded>
-            <category>news</category>
-            <category>z-kraju</category>
-            <category>konferencje</category>
-            <category>tłumaczenia</category>
         </item>
     </channel>
 </rss>
