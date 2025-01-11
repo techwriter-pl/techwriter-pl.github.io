@@ -25,20 +25,24 @@ export function percentageFormatter(value: number, total) {
   return `${value} (${Math.round((value / total) * 100)}%)`;
 }
 
-export function getMedian(values: number[]): number {
-  if (values.length === 0) {
-    throw new Error('Input array is empty');
+function getMedian(values: number[]): number {
+  // Handle empty array or undefined
+  if (!values || values.length === 0) {
+    throw new Error('Cannot calculate median of an empty array');
   }
 
-  // Sorting values, preventing original array
-  // from being mutated.
-  values = [...values].sort((a, b) => a - b);
+  // Create a copy and sort the array
+  const sorted = [...values].sort((a, b) => a - b);
+  const length = sorted.length;
 
-  const half = Math.floor(values.length / 2);
+  // If odd length, return middle value
+  if (length % 2 === 1) {
+    return sorted[Math.floor(length / 2)];
+  }
 
-  return values.length % 2
-    ? values[half]
-    : (values[half - 1] + values[half]) / 2;
+  // If even length, return average of two middle values
+  const midIndex = length / 2;
+  return (sorted[midIndex - 1] + sorted[midIndex]) / 2;
 }
 
 type SortFunction = (a: ResponseWithCount, b: ResponseWithCount) => number;
@@ -150,8 +154,8 @@ export function getNumberOfPeopleAndEarnings(
         [responseLabel]: value,
         'liczba osób': length,
         mediana: median,
-        minimalne: minimum === median ? '---' : minimum,
-        maksymalne: maximum === median ? '---' : maximum,
+        minimalne: minimum,
+        maksymalne: maximum,
       });
     }
   }

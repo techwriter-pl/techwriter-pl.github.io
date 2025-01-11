@@ -1,0 +1,216 @@
+---
+title: 'Wyniki badania płac w komunikacji technicznej 2024'
+authors: pensjonatus
+date: '2025-01-13'
+tags:
+  - 'badanie-płac'
+  - 'praca'
+  - 'ankieta'
+  - 'kariera'
+  - 'praca'
+  - 'społeczność'
+coverImage: 'badanie_plac_2024.png'
+---
+
+import YearlyComparisonChart from '@site/src/components/Survey/YearlyComparison/Chart';
+import SurveyTable from '@site/src/components/Survey/SurveyTable';
+import SurveyBarChart from '@site/src/components/Survey/SurveyBarChart';
+import SurveyBulletedList from '@site/src/components/Survey/SurveyBulletedList';
+import SurveyPieChart from '@site/src/components/Survey/SurveyPieChart';
+import { companySizeTableProps } from './data';
+
+Najwyższa pora, by opublikować wyniki corocznej ankiety dotyczącej płac w
+komunikacji technicznej. Szczegóły poniżej.
+
+{/* truncate */}
+
+## O co pytaliśmy?
+
+1. Który opis najbardziej pasuje do wykonywanej przez Ciebie pracy?
+1. W jakim modelu pracujesz?
+1. W jakiego rodzaju firmie pracujesz?
+1. Jak duża jest Twoja firma?
+1. W którym województwie jest siedziba Twojej firmy?
+1. Jaka jest Twoja forma zatrudnienia?
+1. Ile wynosi Twój staż pracy w branży komunikacji technicznej?
+1. Jakie jest Twoje główne wykształcenie?
+1. Jakie masz przygotowanie do pracy w branży?
+1. Jakiego rodzaju dokumentację tworzysz?
+1. Ile wynosi Twoje miesięczne wynagrodzenie brutto?
+1. Czy dla Twojego wynagrodzenia zastosowanie mają autorskie koszty uzyskania
+   przychodu (tzw. tax break)?
+1. Czy w roku 2024 Twoje całkowite wynagrodzenie brutto:
+1. W roku 2024, przez ile miesięcy dotknęło Cię bezrobocie?
+1. Jak oceniasz zadowolenie ze swojej pracy w skali od 1 do 5?
+1. Płeć
+
+## Porównanie z poprzednimi latami
+
+Jeśli ciekawi Was co zmieniło się od naszego pierwszego badania, sprawdźcie
+zestawienie poniżej.
+
+<YearlyComparisonChart />
+
+## Pierwsze wnioski
+
+- W tym roku zebraliśmy aż 132 odpowiedzi! Bardzo nas cieszy, że tak wiele osób
+  jest zainteresowanych naszą ankietą. Ciekawe jaki to procent wszystkich tech
+  writerów w Polsce. 🤔
+- Zarobki nadal mają tendencję wzrostową. 💰
+
+## Profesje
+
+Podobnie jak w latach poprzednich, większość osób biorących udział w ankiecie
+identyfikuje się jako Technical Writer (specjalista ds. dokumentacji
+technicznej).
+
+<SurveyTable {...require('./data').professionalTitlesNumbersTableProps} />
+
+## Przygotowanie do zawodu
+
+Większość ankietowanych nauczyło się zawodu w pracy (87%).
+
+<SurveyTable {...require('./data').trainingTableProps} />
+
+10 osób wybrało opcję "Inny kurs lub certyfikat", oto ich odpowiedzi:
+
+<SurveyBulletedList
+  entries={require('./data').trainingBarChartDataset.filter(
+    (item) => item.count === 1
+  )}
+/>
+
+### Kurs ITCQF
+
+W odpowiedziach ankietowanych pojawił się kurs ITCQF - 24 osoby się nim
+pochwaliły.
+
+<SurveyTable {...require('./data').itcqfTableProps} />
+
+### Doświadczenie
+
+Jak widać poniżej, doświadczenie ma dość znaczący i pozytywny wpływ na to jakie
+otrzymujemy wynagrodzenie.
+
+<SurveyTable {...require('./data').experienceAndEarningsTableProps} />
+
+### Wykształcenie
+
+Poniższa tabelka odpowiada na pytanie czy rodzaj wykształcenia wpływa na
+zarobki.
+
+<SurveyTable {...require('./data').educationEarningsTableProps} />
+
+Wygląda na to, że:
+
+- Przeważają humaniści
+- Osoby po studiach technicznych zarabiają nieco więcej niż osoby po studiach
+  humanistycznych
+
+## Firma
+
+<SurveyPieChart {...require('./data').companyTypePieChartProps} />
+
+Ogromna większość uczestników ankiety pracuje w firmie międzynarodowej, bo aż
+91%. Zarobki są nieco wyższe w firmach zagranicznych.
+
+<SurveyTable {...require('./data').companyTableProps} />
+
+<SurveyPieChart {...require('./data').companySizePieChartProps} />
+
+Jak pokazuje powyższy wykres, większość z nas pracuje w dużych firmach, w
+których jest ponad 1000 pracowników.
+
+Co ciekawe, nikt nie wybrał odpowiedzi "prywatna działalność" i "2-10 osób". Czy
+to oznacza, że takie firmy raczej nie zatrudniają tech writerów, czy bardziej
+to, że nasze zasięgi nie docierają do takiego typu organizacji? 🤔
+
+Jak te dane wpływają na zarobki? Oto wyniki:
+
+<SurveyTable {...require('./data').companySizeTableProps} />
+
+Wygląda na to, że najlepiej zarabia się w firmach od 11 do 100 osób, a więc
+raczej małych.
+
+## Rodzaj umowy
+
+<SurveyTable {...require('./data').contractTypeTableProps} />
+
+W tym roku nadal najpopularniejsza jest umowa o pracę, chociaż na umowie B2B
+zarabiacie **znacznie** więcej brutto.
+
+Czy macie możliwość rozliczania tzw.
+["autorskich kosztów uzyskania przychodu"](https://www.e-pity.pl/autorskie-koszty-uzyskania-przychodu/)?
+W tym roku 53% ankietowanych zadeklarowało, że "tak".
+
+<SurveyPieChart {...require('./data').taxBreakPieChartProps} />
+
+## Typ dokumentacji
+
+Jeśli chodzi o rodzaj tworzonej dokumentacji, to zdecydowana większość tworzy
+dokumentację do oprogramowania. W tabeli poniżej wymieniamy wszystkie Wasze
+odpowiedzi.
+
+<SurveyTable {...require('./data').documentationTypeChartProps} />
+
+## Geografia
+
+Najwięcej uczestników ankiety pochodzi z województw: małopolskiego,
+dolnośląskiego i mazowieckiego. W zeszłym roku na trzecim miejscu było
+województwo śląskie.
+
+<SurveyTable {...require('./data').regionEarnings} />
+
+## Płeć
+
+W ankiecie znalazły się tylko dwie osoby niebinarne, co jest za małą próbką,
+żeby porównać ich zarobki z resztą.
+
+Mediana dla mężczyzn jest wyższa a luka płacowa (pay gap) wynosi 12,22%.
+
+<SurveyTable {...require('./data').genderEarnings} />
+
+## Zadowolenie
+
+Pytaliśmy też o to, jak bardzo jesteś zadowolony/a ze swojej pracy w skali od 1
+(bardzo nie lubię swojej pracy) do 5 (kocham swoją pracę). Jaki był wynik?
+
+<SurveyBarChart {...require('./data').satisfactionBarChartProps} />
+
+Odpowiedzi ankietowanych pokazują, że ich poziom zadowolenia z pracy jest nadal
+na wysokim poziomie. Najczęściej wybieraną oceną była czwórka. Tylko jedna osoba
+jest bardzo niezadowolona, a dwie dały ocenę 2.
+
+Jako ciekawostkę, postanowiliśmy zestawić ze sobą poziom zadowolenia z
+zarobkami. Osoby odpowiadające "4" mają najwyższą medianą i średnie
+wynagrodzenie.
+
+<SurveyTable {...require('./data').satisfactionAndEarningsTableProps} />
+
+## Bezrobocie
+
+Zapytaliśmy czy w roku 2024 dotknęło Was bezrobocie. Niestety 8 osób znalazło
+się w tej sytuacji.
+
+<SurveyTable {...require('./data').unemploymentTableProps} />
+
+## Tendencje wynagrodzenia
+
+Zapytaliśmy też czy Wasze wynagrodzenie się zmieniło. Cieszymy się, że dla
+większości z Was wynagrodzenie wzrosło.
+
+<SurveyTable {...require('./data').earningsTrendTableProps} />
+
+## Podsumowanie
+
+Z uwagi na wciąż niewielką liczbę respondentów (132 w tym roku) ankieta ma
+charakter poglądowy, a nie statystyczny. Cieszymy się, że Wasz odzew jest nadal
+na tyle duży, że warto jest przeprowadzać badanie.
+
+Raz jeszcze dziękujemy wszystkim, którzy zdecydowali się poświęcić czas na
+wypełnienie formularza. Liczymy, że w przyszłym roku zgłoszeń będzie więcej, co
+pozwoli nam opisać kolejne zmiany zachodzące w naszej branży.
+
+Mamy nadzieję, że informacje wynikające z badania są dla Was przydatne. Jeśli
+macie uwagi lub sugestie, dajcie nam znać w komentarzach, na mediach
+społecznościowych albo napiszcie do nas na kontakt@techwriter.pl.
