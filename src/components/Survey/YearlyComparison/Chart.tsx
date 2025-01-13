@@ -1,13 +1,10 @@
-import Box from '@mui/material/Box';
 import { SelectChangeEvent } from '@mui/material/Select';
-import Stack from '@mui/material/Stack';
-import Typography from '@mui/material/Typography';
 import { BarChart } from '@mui/x-charts/BarChart';
 import { useState } from 'react';
+import ChartWrapper from '../ChartWrapper';
 import { currencyFormatter } from '../helpers';
 import ChartSelect from './ChartSelect';
 import { yearlyStats } from './data';
-import ChartWrapper from '../ChartWrapper';
 
 export default function YearlyComparisonChart() {
   const questions = Object.keys(yearlyStats);
@@ -36,7 +33,7 @@ export default function YearlyComparisonChart() {
           {
             data: Object.values(yearlyStats[selectedQuestion]),
             valueFormatter:
-              questions.indexOf(selectedQuestion) === 0
+              questions.indexOf(selectedQuestion) === questions.length - 1
                 ? undefined
                 : currencyFormatter,
           },

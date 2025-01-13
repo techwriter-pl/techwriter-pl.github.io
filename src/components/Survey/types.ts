@@ -24,7 +24,11 @@ export type Question =
   | 'Jak bardzo jesteś zadowolony/a ze swojej pracy w skali od 1 do 5?'
   | 'Jakie jest Twoje główne wykształcenie?'
   | 'Czy dla Twojego wynagrodzenia zastosowanie mają autorskie koszty uzyskania przychodu (tzw. tax break)?'
-  | 'Czy pracujesz zdalnie?';
+  | 'Czy pracujesz zdalnie?'
+  | 'Płeć'
+  | 'Jak oceniasz zadowolenie ze swojej pracy w skali od 1 do 5?'
+  | 'W roku 2024, przez ile miesięcy dotknęło Cię bezrobocie?'
+  | 'Czy w roku 2024 Twoje całkowite wynagrodzenie brutto się zmieniło?';
 
 export type NumberOfPeopleAndEarnings = {
   [responseLabel: string]: string;
