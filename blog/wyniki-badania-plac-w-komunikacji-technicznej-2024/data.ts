@@ -148,10 +148,10 @@ export const unemploymentTableProps: SurveyTableProps = {
   title: 'W roku 2024, przez ile miesięcy dotknęło Cię bezrobocie?',
 };
 
-export const earningsTrendTableProps: SurveyTableProps = {
-  dataset: getBarChartDataForQuestion(
-    'Czy w roku 2024 Twoje całkowite wynagrodzenie brutto:',
+export const earningsTrendProps: SurveyPieChartProps = {
+  dataset: getPieChartDataset(
+    'Czy w roku 2024 Twoje całkowite wynagrodzenie brutto się zmieniło?',
     rawData
   ),
-  title: 'Czy w roku 2024 Twoje całkowite wynagrodzenie brutto:',
+  title: 'Czy w roku 2024 Twoje całkowite wynagrodzenie brutto się zmieniło?',
 };

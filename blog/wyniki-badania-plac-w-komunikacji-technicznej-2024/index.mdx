@@ -19,8 +19,8 @@ import SurveyBulletedList from '@site/src/components/Survey/SurveyBulletedList';
 import SurveyPieChart from '@site/src/components/Survey/SurveyPieChart';
 import { companySizeTableProps } from './data';
 
-Najwyższa pora, by opublikować wyniki corocznej ankiety dotyczącej płac w
-komunikacji technicznej. Szczegóły poniżej.
+Zapraszamy do zapoznania się z wynikami badania płac w komunikacji technicznej
+za rok 2024.
 
 {/* truncate */}
 
@@ -80,13 +80,6 @@ Większość ankietowanych nauczyło się zawodu w pracy (87%).
   )}
 />
 
-### Kurs ITCQF
-
-W odpowiedziach ankietowanych pojawił się kurs ITCQF - 24 osoby się nim
-pochwaliły.
-
-<SurveyTable {...require('./data').itcqfTableProps} />
-
 ### Doświadczenie
 
 Jak widać poniżej, doświadczenie ma dość znaczący i pozytywny wpływ na to jakie
@@ -112,7 +105,8 @@ Wygląda na to, że:
 <SurveyPieChart {...require('./data').companyTypePieChartProps} />
 
 Ogromna większość uczestników ankiety pracuje w firmie międzynarodowej, bo aż
-91%. Zarobki są nieco wyższe w firmach zagranicznych.
+91%. Porównanie średniej i mediany może nie oddawać w pełni rzeczywistości ze
+względu na niską liczbę respondentów z polskich firm.
 
 <SurveyTable {...require('./data').companyTableProps} />
 
@@ -129,8 +123,8 @@ Jak te dane wpływają na zarobki? Oto wyniki:
 
 <SurveyTable {...require('./data').companySizeTableProps} />
 
-Wygląda na to, że najlepiej zarabia się w firmach od 11 do 100 osób, a więc
-raczej małych.
+Wygląda na to, że najwyższa mediana jest w firmach od 11 do 100 osób, a
+najwyższa średnia w firmach powyżej 1000 osób.
 
 ## Rodzaj umowy
 
@@ -138,6 +132,8 @@ raczej małych.
 
 W tym roku nadal najpopularniejsza jest umowa o pracę, chociaż na umowie B2B
 zarabiacie **znacznie** więcej brutto.
+
+## Tax break
 
 Czy macie możliwość rozliczania tzw.
 ["autorskich kosztów uzyskania przychodu"](https://www.e-pity.pl/autorskie-koszty-uzyskania-przychodu/)?
@@ -155,20 +151,10 @@ odpowiedzi.
 
 ## Geografia
 
-Najwięcej uczestników ankiety pochodzi z województw: małopolskiego,
-dolnośląskiego i mazowieckiego. W zeszłym roku na trzecim miejscu było
-województwo śląskie.
+Najwięcej ankietowanych pochodzi z województw: małopolskiego, dolnośląskiego i
+mazowieckiego. W zeszłym roku na trzecim miejscu było województwo śląskie.
 
 <SurveyTable {...require('./data').regionEarnings} />
-
-## Płeć
-
-W ankiecie znalazły się tylko dwie osoby niebinarne, co jest za małą próbką,
-żeby porównać ich zarobki z resztą.
-
-Mediana dla mężczyzn jest wyższa a luka płacowa (pay gap) wynosi 12,22%.
-
-<SurveyTable {...require('./data').genderEarnings} />
 
 ## Zadowolenie
 
@@ -178,11 +164,11 @@ Pytaliśmy też o to, jak bardzo jesteś zadowolony/a ze swojej pracy w skali od
 <SurveyBarChart {...require('./data').satisfactionBarChartProps} />
 
 Odpowiedzi ankietowanych pokazują, że ich poziom zadowolenia z pracy jest nadal
-na wysokim poziomie. Najczęściej wybieraną oceną była czwórka. Tylko jedna osoba
-jest bardzo niezadowolona, a dwie dały ocenę 2.
+na wysokim poziomie. Najczęściej wybieraną oceną był0 4. Tylko jedna osoba jest
+bardzo niezadowolona, a dwie dały ocenę 2.
 
 Jako ciekawostkę, postanowiliśmy zestawić ze sobą poziom zadowolenia z
-zarobkami. Osoby odpowiadające "4" mają najwyższą medianą i średnie
+zarobkami. Osoby odpowiadające "4" mają najwyższą medianę i średnie
 wynagrodzenie.
 
 <SurveyTable {...require('./data').satisfactionAndEarningsTableProps} />
@@ -199,7 +185,17 @@ się w tej sytuacji.
 Zapytaliśmy też czy Wasze wynagrodzenie się zmieniło. Cieszymy się, że dla
 większości z Was wynagrodzenie wzrosło.
 
-<SurveyTable {...require('./data').earningsTrendTableProps} />
+<SurveyPieChart {...require('./data').earningsTrendProps} />
+
+## Płeć
+
+W ankiecie znalazły się tylko dwie osoby niebinarne, co jest za małą próbką,
+żeby porównać ich zarobki z resztą.
+
+Mediana dla mężczyzn jest wyższa a luka płacowa (pay gap) wynosi 13,33% (w
+oparciu o medianę).
+
+<SurveyTable {...require('./data').genderEarnings} />
 
 ## Podsumowanie
 
