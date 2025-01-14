@@ -47,6 +47,11 @@ export const experienceAndEarningsTableProps: SurveyTableProps = {
   dataset: getEarningsForQuestion(
     'Ile wynosi Twój staż pracy w branży komunikacji technicznej?',
     rawData
+  ).sort((a, b) =>
+    a['Ile wynosi Twój staż pracy w branży komunikacji technicznej?'] >
+    b['Ile wynosi Twój staż pracy w branży komunikacji technicznej?']
+      ? -1
+      : 1
   ),
   title: 'Ile wynosi Twój staż pracy w branży komunikacji technicznej?',
 };
