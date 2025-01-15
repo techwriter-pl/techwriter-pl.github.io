@@ -10,7 +10,7 @@ tags:
 coverImage: 'ContentBytesKRK4.jpeg'
 ---
 
-# Content Bytes #3: Porozmawiajmy języku!
+# Content Bytes #3: Porozmawiajmy o języku!
 
 Nowy rok oznacza nowe contentowe wyzwania!
 
