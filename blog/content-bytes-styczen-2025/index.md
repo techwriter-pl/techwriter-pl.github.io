@@ -15,12 +15,12 @@ coverImage: 'ContentBytesKRK4.jpeg'
 Nowy rok oznacza nowe contentowe wyzwania!
 
 Naszym noworocznym postanowieniem jest zapewnić Wam najciekawsze tematy i najlepszych prezenterów. A jakie są wasze postanowienia? 
-Jeżeli jednym z nich jest „odwiedzić jak najwięcej meetupów”  to jego realizację możecie zacząć od zaraz! 
-Już 20. stycznia zapraszamy do **Forte Spaces** na kolejne spotkanie podczas którego skupimy się na roli języka w tworzeniu treści.
+Jeżeli jednym z nich jest „odwiedzić jak najwięcej meetupów”, to jego realizację możecie zacząć od zaraz! 
+Już 20 stycznia zapraszamy do **Forte Spaces** na kolejne spotkanie, podczas którego skupimy się na roli języka w tworzeniu treści.
 
 <!--truncate-->
 
-W [Forte Spaces](https://www.instagram.com/forte_spaces_krakow/) będziemy gościć [Anję Wedberg](https://www.linkedin.com/in/anja-wedberg-11361321/) i [Kalinę Tyrkiel](https://www.linkedin.com/in/kalinatyrkiel/), które wyjaśnią nam jak znajomość angielskiego jako drugiego języka wpływa na tworzenie anglojęzycznych treści oraz jak wykorzystać wielojęzyczność w pracy z contentem.
+W [Forte Spaces](https://www.instagram.com/forte_spaces_krakow/) będziemy gościć [Anję Wedberg](https://www.linkedin.com/in/anja-wedberg-11361321/) i [Kalinę Tyrkiel](https://www.linkedin.com/in/kalinatyrkiel/), które wyjaśnią nam, jak znajomość angielskiego jako drugiego języka wpływa na tworzenie anglojęzycznych treści oraz jak wykorzystać wielojęzyczność w pracy z contentem.
 
 Pamiętajcie o rejestracji, to pozwoli nam na wybór odpowiedniej sali i
 zaplanowanie poczęstunku. Link do formularza znajdziecie
@@ -31,12 +31,12 @@ zaplanowanie poczęstunku. Link do formularza znajdziecie
 **_Non-native speaker w świecie anglojęzycznej treści_**
 
 Jak odnaleźć się jako non-native speaker na rynku zdominowanym przez język angielski? Czy twórcy treści powinni dążyć do poziomu osób anglojęzycznych?
-Czy AI służy nam pomocą czy przeszkadza w tworzeniu contentu? W swojej prezentacji **Anja Wedberg** odpowie na te i wiele innych pytań, przybliżając nam rolę języka w zmaganiach z contentowymi zagwozdkami.
+Czy AI służy nam pomocą, czy przeszkadza w tworzeniu contentu? W swojej prezentacji **Anja Wedberg** odpowie na te i wiele innych pytań, przybliżając nam rolę języka w zmaganiach z contentowymi zagwozdkami.
 
 **_Polski or English: Jak wykorzystać swój potencjał jako wielojęzyczny twórca treści_**
 
-Czy zajmujesz się tworzeniem treści jako non-native speaker? Wspaniale! A teraz zastanówmy się jak możesz wykorzystać znajomość nie jednego, ale wielu języków które masz w swoim arsenale.
-W swojej prezentacji, **Kalina Tyrkiel** opowie jak łączy znajomość polskiego, angielskiego i hiszpańskiego w swojej pracy a także podzieli się wskazówkami, które pozwolą Wam w pełni wykorzystać swoje językowe umiejętności.
+Czy zajmujesz się tworzeniem treści jako non-native speaker? Wspaniale! A teraz zastanówmy się, jak możesz wykorzystać znajomość nie jednego, ale wielu języków, które masz w swoim arsenale.
+Nasza druga prezenterkam, **Kalina Tyrkiel**, opowie jak łączy znajomość polskiego, angielskiego i hiszpańskiego w swojej pracy, a także podzieli się wskazówkami, które pozwolą Wam w pełni wykorzystać swoje językowe umiejętności.
 
 ## Prelegenci
 
