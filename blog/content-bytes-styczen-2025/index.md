@@ -7,20 +7,20 @@ tags:
   - 'meetups'
   - 'społeczność'
   - 'content-bytes'
-coverImage: 'ContentBytesKRK4.jpeg'
+coverImage: 'ContentBytesKRK4.png'
 ---
 
-# Content Bytes #3: Porozmawiajmy o języku!
+# Content Bytes #4: Porozmawiajmy o języku!
 
-Nowy rok oznacza nowe contentowe wyzwania!
+Nowy rok to nowe contentowe wyzwania!
 
 Naszym noworocznym postanowieniem jest zapewnić Wam najciekawsze tematy i najlepszych prezenterów. A jakie są wasze postanowienia? 
 Jeżeli jednym z nich jest „odwiedzić jak najwięcej meetupów”, to jego realizację możecie zacząć od zaraz! 
-Już 20 stycznia zapraszamy do **Forte Spaces** na kolejne spotkanie, podczas którego skupimy się na roli języka w tworzeniu treści.
+Już 20 stycznia zapraszamy do [Forte Spaces](https://www.instagram.com/forte_spaces_krakow/) na kolejne spotkanie, podczas którego skupimy się na roli języka w tworzeniu treści.
 
 <!--truncate-->
 
-W [Forte Spaces](https://www.instagram.com/forte_spaces_krakow/) będziemy gościć [Anję Wedberg](https://www.linkedin.com/in/anja-wedberg-11361321/) i [Kalinę Tyrkiel](https://www.linkedin.com/in/kalinatyrkiel/), które wyjaśnią nam, jak znajomość angielskiego jako drugiego języka wpływa na tworzenie anglojęzycznych treści oraz jak wykorzystać wielojęzyczność w pracy z contentem.
+Tym razem w Forte Spaces będziemy gościć [Anję Wedberg](https://www.linkedin.com/in/anja-wedberg-11361321/) i [Kalinę Tyrkiel](https://www.linkedin.com/in/kalinatyrkiel/), które wyjaśnią nam, jak znajomość angielskiego jako drugiego języka wpływa na tworzenie anglojęzycznych treści oraz jak wykorzystać wielojęzyczność w pracy z contentem.
 
 Pamiętajcie o rejestracji, to pozwoli nam na wybór odpowiedniej sali i
 zaplanowanie poczęstunku. Link do formularza znajdziecie
@@ -36,7 +36,7 @@ Czy AI służy nam pomocą, czy przeszkadza w tworzeniu contentu? W swojej preze
 **_Polski or English: Jak wykorzystać swój potencjał jako wielojęzyczny twórca treści_**
 
 Czy zajmujesz się tworzeniem treści jako non-native speaker? Wspaniale! A teraz zastanówmy się, jak możesz wykorzystać znajomość nie jednego, ale wielu języków, które masz w swoim arsenale.
-Nasza druga prezenterkam, **Kalina Tyrkiel**, opowie jak łączy znajomość polskiego, angielskiego i hiszpańskiego w swojej pracy, a także podzieli się wskazówkami, które pozwolą Wam w pełni wykorzystać swoje językowe umiejętności.
+Nasza druga prezenterka, **Kalina Tyrkiel**, opowie jak łączy znajomość polskiego, angielskiego i hiszpańskiego w swojej pracy, a także podzieli się wskazówkami, które pozwolą Wam w pełni wykorzystać swoje językowe umiejętności.
 
 ## Prelegenci
 
@@ -59,12 +59,12 @@ Dodatkowo zajmuje się szkoleniami z dziedziny UX writingu, prowadzi wykłady i 
 
 ## Kilka słów o sponsorach
 
-Trzecie spotkanie Content Bytes sponsoruje **Forte Digital** i
+Czwarte spotkanie Content Bytes sponsoruje **Forte Digital** i
 **Apify**.
 
 ### Forte Digital
 
-W DNA Forte Digital znajdziesz pierwiastek polski, skandynawski i oczywiście technologiczny. Forte Digital powstało w 2017 roku jako owoc udanej współpracy polskich i norweskich założycieli. Od tego czasu z powodzeniem czerpie to co najlepsze ze swoich kultur, a od niedawna w swoich szeregach ma koleżanki i kolegów z Danii oraz Niemiec. Forte Digital skupia się najczęściej na projektach dotyczących obszaru e-commerce w pełnym zakresie realizacji – development i consulting IT oraz design.
+W DNA [Forte Digital](https://fortedigital.com/pl/) znajdziesz pierwiastek polski, skandynawski i oczywiście technologiczny. Forte Digital powstało w 2017 roku jako owoc udanej współpracy polskich i norweskich założycieli. Od tego czasu z powodzeniem czerpie to co najlepsze ze swoich kultur, a od niedawna w swoich szeregach ma koleżanki i kolegów z Danii oraz Niemiec. Forte Digital skupia się najczęściej na projektach dotyczących obszaru e-commerce w pełnym zakresie realizacji – development i consulting IT oraz design.
 
 ### Apify
 
