@@ -1,196 +1,192 @@
-# Konferencje 2024
+# Konferencje 2025
 
 Prezentujemy listę konferencji, które mogą być interesujące dla specjalistów z
-branży komunikacji technicznej w 2024.
+branży komunikacji technicznej w 2025.
 
 <!--truncate-->
 
-W tym roku postanowiliśmy podejść do tematu bardziej praktycznie. Zamiast
-kompilować listę wszystkich wydarzeń, które udało nam się znaleźć, wybraliśmy
-tylko takie, które odbywają się blisko Polski i takie, które oferują opcję
-dołączenia wirtualnie. Na odległych kontynentach dzieją się ciekawe rzeczy, ale
-raczej mało kto z nas będzie potrafił przekonać swojego przełożonego do udziału
-w takim wydarzeniu 😊 Mamy nadzieję, że ta formuła będzie dla Was bardziej
-przydatna. Dajcie nam znać co myślicie w komentarzach.
+## Styczeń
 
-## UX360 Virtual
+### UX Writer Conference
 
-- 30-31.01.2024
+- 28.01.2025
 - Online
-- https://www.virtual.ux360summit.com/
+- https://uxwriterconference.com
 
-## MEGAComm
+## Luty
 
-- 07-08.02.2024
+### MEGAComm
+
+- 12-13.02.2025
 - Online
 - https://megacomm.org/
 
-## DITA-OT Day
+### DITA-OT Day
 
-- 11.02.2024
-- Helsinki, Finlandia
-- https://www.oxygenxml.com/events/2024/dita-ot_day.html
+- 16.02.2025
+- Kopenhaga, Dania
+- https://www.oxygenxml.com/events/2025/dita-ot_day.html
 
-## DITA Europe
+### DITA Europe
 
-- 12-13.02.2024
-- Helsinki, Finlandia
-- https://ditaeurope.infomanagementcenter.com/
+- 17-18.02.2025
+- Kopenhaga, Dania
+- https://ditaeurope.infomanagementcenter.com
 
-## Nordic TechKomm (Szwecja)
+### UX360 virtual
 
-- 06-07.03.2024
+- 19-20.02.2025
+- Online
+- https://www.virtual.ux360summit.com/
+
+### Web Summit Qatar
+
+- 23-26.02.2025
+- Doha, Katar
+- https://qatar.websummit.com
+
+## Marzec
+
+### Nordic TechKomm	
+
+- 12-13.03.2025
 - Sztokholm, Szwecja
-- https://se.nordic-techkomm.com/
+- https://se.nordic-techkomm.com 	
 
-## AI the Docs
+### Leading Design New York
 
-- 03.04.2024
+- 27.03.2025	
+- Nowy Jork, USA
+- https://leadingdesign.com/conferences/leading-design-new-york-2025
+
+## Kwiecień
+
+### Information Energy
+
+- 2-4.04.2025
 - Online
-- https://apithedocs.org/ai-2024
+- https://www.informationenergy.org/de/
 
-## tekom-Frühjahrstagung
+### Learning Technologies
 
-- 11-12.04.2024
-- Freiburg, Niemcy
-- https://fruehjahrstagung.tekom.de/
-
-## Learning Technologies
-
-- 17-18.04.2024
+- 23-24.04.2025
 - Londyn, Anglia
-- https://www.learningtechnologies.co.uk/
+- https://www.learningtechnologies.co.uk
 
-## DDX Innovation & UX Conference
+### Web Summit Rio
 
-- 11.05.2024
+- 27-30.04.2025
+- Rio De Janeiro, Brazylia
+- https://rio.websummit.com
+
+## Maj
+
+### Write The Docs
+
+- 4-6.05.2025
+- Portland, USA
+- https://www.writethedocs.org/conf/portland/2025/
+
+### DDX Innovation & UX Conference
+
+- 10.05.2025
 - Monachium, Niemcy
-- https://www.ddxconference.com/ddx-24-munich
+- https://www.ddxconference.com/munich
 
-## UX Writer Conference
+### UXDX USA
 
-- 13-14.05.2024
-- Online
-- https://uxwriterconference.com/
-
-## UXDX USA
-
-- 15-17.05.2024
+- 12-14.05.2025
 - Nowy Jork, USA i online
-- https://uxdx.com/usa/2024/
+- https://uxdx.com/usa/2025/
 
-## UX360 In-Person
+### UX360 Europe
 
-- 16-17.05.2024
+- 14-15.05.2025
 - Berlin, Niemcy
 - https://www.eu.ux360summit.com/
 
-## UX Lisbon
+### UXDX EMEA
 
-- 21-24.05.2024
+- 19-21.05.2025
+- https://uxdx.com/berlin/2025/
+- Berlin, Niemcy i online
+
+### UX LX
+
+- 20-23.05.2025
 - Lizbona, Portugalia
-- https://www.ux-lx.com/
+- https://www.ux-lx.com
 
-## From Business to Buttons
+### Evolution of TC
 
-- 24.05.2024
-- Sztokholm, Szwecja
-- https://frombusinesstobuttons.com/
+- 27-28.05.2025
+- Sofia, Bułgaria
+- https://evolution-of-tc.com
 
-## COMtecnica
+### Web Summit Vancouver
 
-- 29-30.05.2024
-- Bolonia, Włochy
-- https://www.comtecnica.eu/en/
+- 27-30.05.2025
+- Vancouver, Kanada
+- https://vancouver.websummit.com
 
-## UX Scotland
+## Czerwiec
 
-- 29-31.05.2024
+### LocWorld53
+
+- 3-5.06.2025
+- Malmo, Szwecja
+- https://locworld.com/events/locworld53-malmo-2025/
+
+### Markup UK
+
+- 5-7.06.2025
+- Londyn, Anglia
+- https://markupuk.org/index.html
+
+### AGILE Conference
+
+- 10-13.2025
+- Drezno, Niemcy
+- https://agile-gi.eu/conference-2025
+
+### UX Scotland
+
+- 11-12.06.2025
 - Edynburg, Szkocja
 - https://uxscotland.net/
 
-## Evolution of TC
+## Sierpień
 
-- 04-05.06.2024
-- Sofia, Bułgaria
-- https://evolution-of-tc.com/
+### Balisage: The Markup Conference	
 
-## AGILE Conference
+- 4-8.08.2025
+- Online
+- https://www.balisage.net/index.html
 
-- 04-07.06.2024
-- Glasgow, Szkocja
-- https://agile-gi.eu/conference-2024
+## Październik
 
-## LocWorld51
+### World Usability Congress
 
-- 05-07.06.2024
-- Dublin, Irlandia
-- https://locworld.com/events/locworld51-dublin-2024/
-
-## XML Prague
-
-- 06-08.06.2024
-- Praga, Czechy
-- https://www.xmlprague.cz/
-
-## soap!
-
-- _Konferencja odbywała się w czerwcu, ale w 2024 została odwołana. Umieszczamy
-  ją w zestawieniu z sentymentu i żebyście o niej nie zapomnieli. Trzymamy
-  kciuki za powrót w 2025_.
-- Kraków, Polska
-- https://soapconf.com/
-
-## Nordic TechKomm (Dania)
-
-- 18-19.09.2024
-- Kopenhaga, Dania
-- https://dk.nordic-techkomm.com/
-
-## KTLC Conference
-
-- 27-28.09.2024
-- Warszawa, Polska
-- https://translation-conference.com/
-
-## UXDX EMEA
-
-- 09-11.10.2024
-- Dublin, Irlandia i online
-- https://uxdx.com/emea/2024/
-
-## World Usability Congress
-
-- 15-17.10.2024
+- 14-16.10.2025
 - Graz, Austria
-- https://worldusabilitycongress.com/
+- https://worldusabilitycongress.com
 
-## tcworld conference
+### KMIS
 
-- 05-07.11.2024
-- Stuttgart, Germany
-- https://tcworldconference.tekom.de/
+- 20-22.10.2025
+- Marbella, Hiszpania
+- https://kmis.scitevents.org
 
-## Leading Design London
+## Listopad
 
-- 06-07.11.2024
+### tctworld conference
+
+- 11-13.11.2025
+- Stuttgart, Niemcy
+- https://tcworldconference.tekom.de
+
+### Leading Design London
+
+- 12-13.11.2025
 - Londyn, Anglia
-- https://leadingdesign.com/conferences/london-2024
-
-## Web Summit
-
-- 11-14.11.2024
-- Lizbona, Portugalia
-- https://websummit.com/
-
-## UX writing conference
-
-- 13.11.2024
-- Londyn, Anglia
-- https://techcircus.io/en/events/ux-writing-conference-london#
-
-## KMIS
-
-- 17-19.11.2024
-- Porto, Portugalia
-- https://kmis.scitevents.org/
+- https://leadingdesign.com/conferences/london-2025
