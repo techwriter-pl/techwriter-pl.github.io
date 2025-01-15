@@ -14,7 +14,7 @@ coverImage: 'ContentBytesKRK4.png'
 
 Nowy rok to nowe contentowe wyzwania!
 
-Naszym noworocznym postanowieniem jest zapewnić Wam najciekawsze tematy i najlepszych prezenterów. A jakie są wasze postanowienia? 
+Naszym noworocznym postanowieniem jest zapewnić Wam najciekawsze tematy i najlepszych prezenterów podczas wydarzeń Content Bytes. A jakie są wasze postanowienia? 
 Jeżeli jednym z nich jest „odwiedzić jak najwięcej meetupów”, to jego realizację możecie zacząć od zaraz! 
 Już 20 stycznia zapraszamy do [Forte Spaces](https://www.instagram.com/forte_spaces_krakow/) na kolejne spotkanie, podczas którego skupimy się na roli języka w tworzeniu treści.
 
