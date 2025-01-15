@@ -56,7 +56,7 @@ export const yearlyStats: Stats = {
     2021: 21500,
     2022: 31000,
     2023: 32000,
-    2024: 65555,
+    2024: 35000,
   },
   'Liczba odpowiedzi': {
     2017: 70,
