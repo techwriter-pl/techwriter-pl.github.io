@@ -73,7 +73,7 @@ const config: Config = {
           label: 'English',
           position: 'right',
         },
-        { to: '/konferencje', label: 'Konferencje 2024', position: 'right' },
+        { to: '/konferencje', label: 'Konferencje 2025', position: 'right' },
         { to: '/oferty-pracy', label: 'Oferty pracy', position: 'right' },
         { to: '/szkolenia', label: 'Szkolenia', position: 'right' },
         { to: '/kontakt', label: 'Kontakt', position: 'right' },
