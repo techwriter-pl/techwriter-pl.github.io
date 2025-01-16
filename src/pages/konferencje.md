@@ -108,8 +108,8 @@ branży komunikacji technicznej w 2025.
 ### UXDX EMEA
 
 - 19-21.05.2025
-- https://uxdx.com/berlin/2025/
 - Berlin, Niemcy i online
+- https://uxdx.com/berlin/2025/
 
 ### UX LX
 
