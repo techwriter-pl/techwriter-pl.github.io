@@ -5,7 +5,6 @@ date: '2023-12-14'
 tags:
   - 'meetups'
   - 'api'
-  - 'dokumentacja-developerska'
   - 'społeczność'
 coverImage: '24MeetContentWRO.png'
 ---

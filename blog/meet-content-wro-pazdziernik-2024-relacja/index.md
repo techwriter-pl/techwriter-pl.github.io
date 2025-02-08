@@ -4,10 +4,6 @@ authors: mrozek
 date: '2024-11-10'
 tags:
   - 'meetups'
-  - 'produktywność'
-  - 'organizacja-pracy'
-  - 'praca-głęboka'
-  - 'context-switching'
 coverImage: '29MeetContentWRO.png'
 ---
 

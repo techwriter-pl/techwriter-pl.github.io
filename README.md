@@ -58,7 +58,6 @@ title:
 authors: mojk
 date: '2023-09-13'
 tags:
-  - 'oferty-pracy'
   - 'praca'
   - 'kariera'
 coverImage: 'CKSource-logo-2.jpg'

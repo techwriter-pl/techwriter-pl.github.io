@@ -7,7 +7,6 @@ tags:
   - 'ze-świata'
   - 'instrukcje'
   - 'kariera'
-  - 'open-source'
   - 'praca'
 coverImage: 'season_of_docs_grafika.png'
 ---

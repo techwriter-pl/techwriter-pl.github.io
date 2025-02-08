@@ -5,7 +5,6 @@ date: '2022-03-16'
 tags:
   - 'dobre-praktyki'
   - 'przyklady'
-  - 'pdf'
   - 'praktyki'
 coverImage: 'formaty_i_kanaly_dystrybucji_dokumentacji.png'
 ---

@@ -7,7 +7,6 @@ tags:
   - 'narzędzia'
   - 'warsztat'
   - 'dita'
-  - 'topic'
 coverImage: 'evolution-206670_1920.jpg'
 ---
 

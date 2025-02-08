@@ -6,7 +6,6 @@ tags:
   - 'warsztat'
   - 'wywiady'
   - 'agile'
-  - 'scrum'
 coverImage: 'kilka_pytan_do_25.png'
 ---
 

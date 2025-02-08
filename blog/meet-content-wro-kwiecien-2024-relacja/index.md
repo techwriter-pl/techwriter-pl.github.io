@@ -6,8 +6,6 @@ tags:
   - 'meetups'
   - 'estymacja'
   - 'społeczność'
-  - 'markdown'
-  - 'snippet-reuse'
 coverImage: '27MeetContentWRO.png'
 ---
 

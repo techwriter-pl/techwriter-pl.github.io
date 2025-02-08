@@ -3,8 +3,7 @@ title: 'Jak podnieść visibility Tech Commsów?'
 authors: mrozek
 date: '2024-02-04'
 tags:
-  - 'visibility'
-  - 'dzień-z-życia'
+  - 'dobre-praktyki'
 coverImage: 'shadow.jpg' 
 ---
 

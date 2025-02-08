@@ -6,7 +6,6 @@ tags:
   - 'stowarzyszenie'
   - 'zrzeszenia-branżowe'
   - 'promocja-branży'
-  - 'organizacja'
 coverImage: 'saiit.png'
 ---
 
