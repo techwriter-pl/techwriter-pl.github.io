@@ -9,7 +9,6 @@ tags:
   - 'dokumentacja'
   - 'edukacja'
   - 'materialy-szkoleniowe'
-  - 'podstawy'
   - 'użyteczność'
 coverImage: 'dekalog_techwritera.png'
 ---

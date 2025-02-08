@@ -4,8 +4,6 @@ authors: mrozek
 date: '2024-04-04'
 tags:
   - 'meetups'
-  - 'nlu'
-  - 'smart-search-results'
 coverImage: '26MeetContentWRO.png'
 ---
 

@@ -5,7 +5,6 @@ date: '2024-12-30'
 tags:
   - 'dobre-praktyki'
   - 'warsztat'
-  - 'notatki'
   - 'grafika'
 coverImage: 'upload_0085.png'
 ---

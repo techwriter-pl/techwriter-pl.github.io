@@ -7,7 +7,6 @@ tags:
   - 'warsztat'
   - 'praca'
   - 'procedury'
-  - 'szablony'
 coverImage: 'Procedury.jpg'
 ---
 

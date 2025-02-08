@@ -4,8 +4,6 @@ authors: niewiarowski
 date: '2023-04-27'
 tags:
   - 'narzędzia'
-  - 'aritificial-intelligence'
-  - 'chatgpt'
   - 'technologie'
 coverImage: 'czat_gpt.png'
 ---

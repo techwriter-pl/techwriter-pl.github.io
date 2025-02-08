@@ -10,7 +10,6 @@ tags:
   - 'ze-świata'
   - 'grafika'
   - 'narzędzia'
-  - 'zrzuty-ekranu'
 coverImage: 'upload_408.png'
 ---
 

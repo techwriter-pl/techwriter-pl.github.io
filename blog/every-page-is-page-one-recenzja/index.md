@@ -7,7 +7,6 @@ tags:
   - 'warsztat'
   - 'literatura'
   - 'materialy-szkoleniowe'
-  - 'recenzja'
   - 'zarządzanie-treścią'
 coverImage: 'patrick-tomasso-71909.png'
 ---

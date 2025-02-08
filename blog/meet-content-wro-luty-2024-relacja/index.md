@@ -4,7 +4,6 @@ authors: mrozek
 date: '2024-03-14'
 tags:
   - 'meetups'
-  - 'video-produktowe'
   - 'społeczność'
 coverImage: '25MeetContentWRO.png'
 ---

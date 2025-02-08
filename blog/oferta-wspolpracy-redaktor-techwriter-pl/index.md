@@ -3,7 +3,6 @@ title: 'Oferta (współ)pracy: Redaktor Techwriter.pl'
 authors: mojk
 date: '2024-12-04'
 tags:
-  - 'oferty-pracy'
   - 'praca'
   - 'kariera'
   - 'praca'

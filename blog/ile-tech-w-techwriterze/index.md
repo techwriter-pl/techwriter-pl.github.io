@@ -6,7 +6,6 @@ tags:
   - 'news'
   - 'z-kraju'
   - 'kariera'
-  - 'start'
 coverImage: 'techwriter-tech.jpg'
 ---
 

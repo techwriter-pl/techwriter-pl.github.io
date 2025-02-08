@@ -4,7 +4,6 @@ authors: agnieszka
 date: '2020-03-09'
 tags:
   - 'przyklady'
-  - 'gry'
 coverImage: 'minecraft-wiki.jpg'
 ---
 

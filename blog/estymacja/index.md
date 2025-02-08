@@ -4,8 +4,7 @@ authors: mrozek
 date: '2024-09-16'
 tags:
   - 'estymacja'
-  - 'wycena-pracy'
-  - 'szacowanie-wysiłku'
+  - 'dobre-praktyki'
 coverImage: 'greg-rosenke-hWdzH8YY8kk-unsplash.jpg'
 ---
 
