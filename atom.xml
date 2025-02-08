@@ -367,7 +367,6 @@ Wpisz w wyszukiwarkę obrazów: "Jak narysować X".</li>
         </author>
         <category label="dobre-praktyki" term="dobre-praktyki"/>
         <category label="warsztat" term="warsztat"/>
-        <category label="notatki" term="notatki"/>
         <category label="grafika" term="grafika"/>
     </entry>
     <entry>
@@ -481,7 +480,6 @@ Stowarzyszenie zarejestrowano pod numerem KRS: 0001139342.</p>
         <category label="stowarzyszenie" term="stowarzyszenie"/>
         <category label="zrzeszenia-branżowe" term="zrzeszenia-branżowe"/>
         <category label="promocja-branży" term="promocja-branży"/>
-        <category label="organizacja" term="organizacja"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Konferencje online - patronujemy]]></title>
@@ -560,7 +558,6 @@ pracy redakcyjnej</li>
         <author>
             <name>Michał Skowron</name>
         </author>
-        <category label="oferty-pracy" term="oferty-pracy"/>
         <category label="praca" term="praca"/>
         <category label="kariera" term="kariera"/>
         <category label="praca" term="praca"/>
@@ -1077,10 +1074,6 @@ przemeblowaniu kalendarza!</p>
             <name>Monika Mrozek</name>
         </author>
         <category label="meetups" term="meetups"/>
-        <category label="produktywność" term="produktywność"/>
-        <category label="organizacja-pracy" term="organizacja-pracy"/>
-        <category label="praca-głęboka" term="praca-głęboka"/>
-        <category label="context-switching" term="context-switching"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stowarzyszenie Autorów i Ilustratorów Technicznych (SAiIT) - Spotkanie założycielskie]]></title>
@@ -1771,8 +1764,7 @@ Planujemy kolejny warsztat 😅</p>
             <name>Monika Mrozek</name>
         </author>
         <category label="estymacja" term="estymacja"/>
-        <category label="wycena-pracy" term="wycena-pracy"/>
-        <category label="szacowanie-wysiłku" term="szacowanie-wysiłku"/>
+        <category label="dobre-praktyki" term="dobre-praktyki"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[„HowTo Create i HowTo Deliver – wynieś dokumentację na wyższy poziom” - webinar]]></title>
