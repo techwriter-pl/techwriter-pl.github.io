@@ -36,10 +36,8 @@ const config: Config = {
       'classic',
       {
         docs: {
-                remarkPlugins: [
-                    remarkDefList,
-                ],
-            },
+          remarkPlugins: [remarkDefList],
+        },
         blog: {
           showReadingTime: true,
           routeBasePath: '/',
@@ -48,6 +46,10 @@ const config: Config = {
           blogSidebarTitle: 'Najnowsze artykuły',
           editUrl:
             'https://github.com/techwriter-pl/techwriter-pl.github.io/tree/main',
+          remarkPlugins: [remarkDefList],
+        },
+        pages: {
+          remarkPlugins: [remarkDefList],
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
