@@ -12,10 +12,9 @@ export const jobOffers: JobOfferProps[] = [
     title: 'Redaktor',
     company: 'Techwriter.pl',
     link: '/oferta-wspolpracy-redaktor-techwriter-pl',
-    location: 'Cały świat',
+    location: 'cały świat',
     type: 'zdalna',
-    description:
-      `Chcesz pisać dla techwriter.pl i tym samym mieć wpływ na rozwój polskiej społeczności komunikacji technicznej? 
+    description: `Chcesz pisać dla techwriter.pl i tym samym mieć wpływ na rozwój polskiej społeczności komunikacji technicznej? 
       Nie jest to oferta płatnej pracy, ale może dać Ci dużo innych korzyści.`,
   },
   {
