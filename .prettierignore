@@ -2,3 +2,4 @@ node_modules
 .docusaurus
 .yarn
 build
+src/pages/linki.md
