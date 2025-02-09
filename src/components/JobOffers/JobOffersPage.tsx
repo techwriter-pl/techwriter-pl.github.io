@@ -13,13 +13,10 @@ export function JobOffersPage() {
           technicznej.
         </p>
         <p>
-          Chcesz umieścić tutaj swoją ofertę pracy? Napisz do nas na{' '}
-          <Link href="mailto:kontakt@techwriter.pl">kontakt@techwriter.pl</Link>
-        </p>
-        <p>
-          Chcesz pisać dla techwriter.pl? Nie jest to oferta płatnej pracy, ale
-          zawsze miło nam gościć kontrybutorów. Więcej szczegółów znajdziesz{' '}
-          <Link href="/oferta-wspolpracy-redaktor-techwriter-pl">tutaj</Link>.
+          Chcesz umieścić tutaj swoje ogłoszenie? Więcej informacji znajdziesz w{' '}
+          <Link href="/kontakt#publikacja-ofert-pracy">
+            sekcji o publikacji ofert pracy.
+          </Link>
         </p>
       </section>
       <hr />
