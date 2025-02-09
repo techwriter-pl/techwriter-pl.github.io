@@ -7,6 +7,7 @@ import BlogListPage from '@theme/BlogListPage';
 import Partners from '../Partners/Partners';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import clsx from 'clsx';
+import SiteHighlights from '../SiteHighlights/SiteHighlights';
 
 export default function BlogHome(props): JSX.Element {
   const { pathname, search } = props.history.location;
@@ -74,6 +75,7 @@ export default function BlogHome(props): JSX.Element {
           </Link>
         </div>
       </div>
+      <SiteHighlights />
       <div className="container">
         <Partners />
       </div>
