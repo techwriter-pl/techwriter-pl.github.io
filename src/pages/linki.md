@@ -61,7 +61,7 @@
 [Awesome technical writing](https://github.com/BolajiAyodeji/awesome-technical-writing/blob/master/README.md)
 : Zestawienie przeróżnych źródeł przydatnych technical writerom. Znajdziecie tu listę książek, zasobów wideo czy artykułów związanych z naszą branżą. To prawdziwa kopalnia wiedzy.
 
-### Społeczności i fora
+## Społeczności i fora
 
 [Write the Docs](https://www.writethedocs.org/)
 
@@ -89,7 +89,9 @@
 
 [Inside Tech Comm with Zohra Mutabanna](https://open.spotify.com/show/3N7tBawAgk81il2GZAMGmU?si=70fef1856ffd4589)
 
-## Kursy bezpłatne
+## Kursy
+
+### Bezpłatne
 
 [Google - Technical Writing Courses](https://developers.google.com/tech-writing)
 
@@ -99,6 +101,6 @@
 
 [Dozuki - Tech Writing Handbook](https://help.dozuki.com/Tech_Writing)
 
-## Kursy płatne
+### Płatne
 
 [JPDocu School of Technical Writing](https://www.udemy.com/user/jordanstanchev/)
