@@ -61,10 +61,14 @@ const polishDescriptions: { [id: string]: JSX.Element } = {
   ),
   mojk: (
     <>
-      Przygodę z komunikacją techniczną rozpoczął w 2012 roku. Wraz z kolegami i
-      koleżankami stara się rozkręcać polską branżę tech comm. Na początku 2014
-      dołączył do techwriter.pl jako redaktor, a z biegiem czasu zaczął się też
-      zajmować szeroko pojętym prowadzeniem portalu.
+      Przygodę z komunikacją techniczną rozpoczął w 2012 roku, po tym jak
+      porzucił nigdy nierozpoczętą karierę modela. Dwa lata później dołączył do
+      techwriter.pl i tak już został (z krótką przerwą na reset). Wraz z
+      kolegami i koleżankami po fachu stara się rozkręcać polską branżę tech
+      comm. Obecnie realizuje się jako kodujący Tech Writer w polskim oddziale
+      Guidewire Software oraz współtwórca podcastu "Tech Writer koduje".
+      Interesują go mało popularne dyscypliny sportu, takie jak bieganie i jazda
+      na rowerze. Gdyby nie związał się z dokumentacją, zostałby strażakiem.
     </>
   ),
   mrozek: (
@@ -132,18 +136,28 @@ const englishDescriptions: { [id: string]: JSX.Element } = {
   ),
   mojk: (
     <>
-      His adventure with technical communication started in 2012.Together with
-      his colleagues, he tries to grow the Polish tech comm scene. At the
-      beginning of 2014, he joined techwriter.pl as an editor and later he also
-      became responsible for running the entire portal. He left the staff in
-      June 2019.
+      He began his technical communication journey in 2012, after abandoning a
+      never-started modeling career. Two years later, he joined techwriter.pl
+      and has stayed ever since (with a short break to reset). Together with his
+      colleagues, he strives to rock the Polish tech comm scene. Currently, he
+      works as a coding Tech Writer at the Polish branch of Guidewire Software
+      and co-creates the "Tech Writer koduje" podcast. He is interested in
+      not-so-popular sports, such as running and cycling. Had he not become
+      involved in documentation, he would have become a firefighter.
     </>
   ),
   mrozek: (
     <>
-    Monika is first and foremost a Technical Writer, at heart. She loves well written content and is a fan of user centric design. She is also a tireless advocate for the value that a good technical documentation adds to the product. She believes that Technical Writers occupy a very unique position in every organization that decides to have them: a busy intersection between Developers, Product, Marketing, Support…
-    Monika is also a team manager, helping people achieve their best and to take pride in what they do.
-    She is an active technical content community member and a public speaker. She co-organizes local meetups in Wrocław to help Writers network, exchange ideas and inspire each other.
+      Monika is first and foremost a Technical Writer, at heart. She loves well
+      written content and is a fan of user centric design. She is also a
+      tireless advocate for the value that a good technical documentation adds
+      to the product. She believes that Technical Writers occupy a very unique
+      position in every organization that decides to have them: a busy
+      intersection between Developers, Product, Marketing, Support… Monika is
+      also a team manager, helping people achieve their best and to take pride
+      in what they do. She is an active technical content community member and a
+      public speaker. She co-organizes local meetups in Wrocław to help Writers
+      network, exchange ideas and inspire each other.
     </>
   ),
 };
