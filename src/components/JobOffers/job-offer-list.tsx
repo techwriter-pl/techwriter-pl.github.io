@@ -9,6 +9,21 @@ export type JobOfferProps = {
 
 export const jobOffers: JobOfferProps[] = [
   {
+    title: 'Senior Technical Writer - Developer Content',
+    company: 'Splunk',
+    link: 'https://www.splunk.com/en_us/careers/jobs/senior-technical-writer-developer-31867.html',
+    location: 'Kraków',
+    type: 'hybrydowo',
+    description: `Splunk tworzy oprogramowanie do monitorowania i analizy dużej ilości danych w czasie rzeczywistym. 
+  Splunk również skrupulatnie buduje swoją obecność w Krakowie intensywnie rekrutując. 
+
+  Kogo szukają? 
+
+  Jeśli jesteś doświadczonym Technical Writerem, ale zawsze ciągnęło Cię w stronę kodu, jeśli do tego dobrze rozumiesz się z programistami i udzielasz się w projektach open sourceowych - jest duża szansa, że szukasz właśnie takiej oferty!
+  
+  P.S. Nie będziesz jedynym Tech Writerem na miejscu. I choć większość zespołu dokumentalistów znajduje się w Stanach, w Polsce mamy już 5 pisarzy, którzy wspierają lokalne zespoły developerskie.`,
+  },
+  {
     title: 'Redaktor',
     company: 'Techwriter.pl',
     link: '/oferta-wspolpracy-redaktor-techwriter-pl',
