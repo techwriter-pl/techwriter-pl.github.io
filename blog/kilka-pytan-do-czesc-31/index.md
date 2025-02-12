@@ -24,6 +24,8 @@ technicznej, jak i ciekawe dla tych, którym już jest ona bliska.
 
 ![A technical writer sitting in a car](images/upload_0099.png)
 
+## Przedstawienie
+
 ### Cześć Mateuszu, dziękuję, że zgodziłeś się na ten wywiad. Na początek, opowiedz nam proszę coś o sobie.
 
 Nazywam się [Mateusz Barszcz](https://www.linkedin.com/in/mattbarszcz/) i
@@ -49,8 +51,8 @@ albo plik tekstowy z opisem obsługi programu (readme).
 ### Jak streściłbyś istotę roli technical writera lub specjalisty ds. komunikacji technicznej?
 
 Dla mnie jest to głównie rola technicznego tłumacza. Jest to osoba, która zbiera
-informacje od inżynierów - a wypowiedź taka może być pełna emocji, zdawkowa albo
-pełna żargonu - i tłumaczy je na ogólnie zrozumiały i czytelny język, który
+informacje od inżynierów - a ich wypowiedzi mogą być pełne emocji, zdawkowe albo
+pełne żargonu - i tłumaczy je na ogólnie zrozumiały i czytelny język, który
 można łatwo przyswoić i wykorzystać do własnych potrzeb.
 
 Najważniejszymi elementami pisania technicznego są: zrozumienie kontekstu
@@ -66,9 +68,9 @@ zacząłem karierę techniczną. Jest ona przeplatana różnymi rolami, ale zada
 którymi się mierzyłem, zawsze wiązały się z pisanymi treściami technicznymi oraz
 graficznym przekazem informacji.
 
-Stricte technical writingiem zajmuję się od ponad pięciu lat, od 2010 roku;
-e-learningiem zajmowałem się przez ponad trzy lata, a pracując przez sześć lat w
-Google miałem okazję łączyć oba te nurty.
+Stricte technical writingiem zajmuję się od 2010 roku; e-learningiem zajmowałem
+się przez ponad trzy lata, a pracując przez sześć lat w Google miałem okazję
+łączyć oba te nurty.
 
 ### W jaki sposób zostałeś technical writerem?
 
@@ -79,10 +81,11 @@ doświadczenia, a mnie w miarę czytania tego ogłoszenia bardzo zainteresowało
 czym zajmuje się technical writer. Mam wykształcenie techniczne, zawsze lubiłem
 bawić się technologiami. Dodatkowo moja dwujęzyczność -- jestem _native
 speaker'em_ angielskiego i polskiego. Te wszystkie bliskie mi aspekty wtedy
-zgrały się i złożyłem aplikację.Przeszedłem rekrutację i dostałem tę pracę. Taki
-więc był mój początek w tym obszarze.
+zgrały się i złożyłem aplikację. Przeszedłem rekrutację i dostałem tę pracę.
+Taki więc był mój początek w tym obszarze.
 
 ### Czyli czytając tę ofertę budowałeś swoją świadomość tego, kim jest technical writer?
+
 Tak. Podobnie jak wiele osób i ja korzystałem z instrukcji, ale nigdy nie
 myślałem o tym, kto i w jaki sposób właściwie je tworzy, kto jest za nie
 odpowiedzialny. Wcześniej nie miałem świadomości, że są ludzie i zespoły
@@ -96,14 +99,13 @@ W mojej karierze podoba mi się to, że od samego początku było dynamicznie. C
 pół roku coś się zmieniało - nie mogłem narzekać na stagnację. Zacząłem od
 produktów Motoroli Solutions związanych z infrastrukturą radiową. W zespole było
 kilkanaścioro osób odpowiedzialnych za dokumentację techniczną i każde z nas
-trzymało pieczę na daną funkcją systemu. Po dwóch latach zacząłem opisywać
+trzymało pieczę nad daną funkcją systemu. Po dwóch latach zacząłem opisywać
 urządzenia radiowe zamontowane w radiowozach policyjnych, dzięki czemu poznałem
 kolejny aspekt komunikacji radiowej.
 
-![A police officer holding a radio set Description automatically
-generated](images/upload_0100.png)
-**Urządzenie radiokomunikacyjne w radiowozie policyjnym, podobne do tego, którym
-zajmował się Mateusz**.
+![A police officer holding a radio set](images/upload_0100.png) **Urządzenie
+radiokomunikacyjne w radiowozie policyjnym, podobne do tego, którym zajmował się
+Mateusz**.
 [Link do oryginału](https://www.flickr.com/photos/peigov/31808990565/in/photostream/).
 Autor zdjęcia:
 [Government of Prince Edward Island](https://www.flickr.com/photos/peigov/).
@@ -148,8 +150,7 @@ Czasami czuję się, jakbym pisał pracę doktorską lub coś podobnie złożone
 to dokumenty dla użytkownika końcowego, z treścią związaną z postawieniem
 backendu funkcjonalności czy produktu oraz opisem jego działania, np.:
 kalkulacje zmian w natężeniu prądu, przesunięcia fazowe napięć i jakie są
-odchylenia w odczytach. Tworzę też mniejsze dokumenty, takie jak release
-notes.
+odchylenia w odczytach. Tworzę też mniejsze dokumenty, takie jak release notes.
 
 ### Z jakich narzędzi korzystasz i jakie masz wrażenia z ich używania?
 
