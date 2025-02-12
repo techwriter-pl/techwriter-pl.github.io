@@ -79,8 +79,7 @@ coverImage: 'CKSource-logo-2.jpg'
   authors: ['mojk', 'pensjonatus`]
   ```
 
-- `date`: notice the date format: `YYYY-MM-DD`. The date becomes the ID for
-  Disqus.
+- `date`: notice the date format: `YYYY-MM-DD`.
 - `tags`: look at the list of used tags. Which ones suit your needs the most?
   Use `articles-in-english` tag for articles written by our English speaking
   friends. If you need to create a new tag, use lower case letters and hyphens,
