@@ -1,7 +1,7 @@
 ---
 title: 'Kilka pytań do - część 31: Wywiad z Mateuszem Barszczem'
 authors: niewiarowski
-date: '2025-02-11'
+date: '2025-02-12'
 tags:
   - 'warsztat'
   - 'wywiady'
@@ -12,7 +12,7 @@ coverImage: 'kilka_pytan_31.png'
 
 Naszym dzisiejszym gościem jest Mateusz Barszcz, główny specjalista ds.
 dokumentacji technicznej oprogramowania (Chief Software Technical Writer) w
-Hitachi Energy w Polsce.
+Hitachi Energy w Polsce. 
 
 Z wywiadu dowiecie się o jego bogatym doświadczeniu oraz o tym, w czym technical
 writing (tworzenie dokumentacji technicznej) przypomina sport wyczynowy. Mateusz
