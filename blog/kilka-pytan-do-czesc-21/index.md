@@ -7,6 +7,7 @@ tags:
   - 'wywiady'
   - 'dokumentacja'
   - 'społeczność'
+  - 'articles-in-english'
 coverImage: 'Wywiad_21.png'
 ---
 

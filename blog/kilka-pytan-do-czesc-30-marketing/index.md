@@ -7,6 +7,7 @@ tags:
   - 'wywiady'
   - 'kariera'
   - 'praca'
+  - 'articles-in-english'
 coverImage: 'kilka_pytan_30.png'
 ---
 

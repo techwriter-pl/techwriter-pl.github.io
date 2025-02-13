@@ -100,7 +100,7 @@ zaprojektować diagram? Do dzieła, papier wszystko przyjmie!
 Notatki wizualne to doskonałe urozmaicenie pracy biurowej, która polega głównie
 na patrzeniu w monitor i klepaniu na klawiaturze. Uważam, że rysowanie jest
 relaksującą i rozwijającą czynnością, która angażuje dodatkowe obszary mózgu,
-wspierając kreatywność, wyobraźnie i myślenie. Najlepsze rzeczy w życiu są
+wspierając kreatywność, wyobraźnię i myślenie. Najlepsze rzeczy w życiu są
 najprostsze. Jest w tym czysta radość tworzenia. Nie bez powodu dzieci w wieku
 przedszkolnym i szkolnym spędzają masę czasu na rysowaniu. Jeśli i Ty spędzisz
 na tym chociaż 15 minut w ciągu dnia, nie pożałujesz. Odręczne notatki to bardzo
