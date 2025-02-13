@@ -6,7 +6,7 @@ tags:
   - 'warsztat'
   - 'wywiady'
   - 'społeczność'
-  - 'articles-in-english
+  - 'articles-in-english'
 coverImage: 'press-1015988_640.jpg'
 ---
 
