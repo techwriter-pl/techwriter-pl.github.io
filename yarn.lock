@@ -7906,16 +7906,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"disqus-react@npm:^1.1.5":
-  version: 1.1.5
-  resolution: "disqus-react@npm:1.1.5"
-  peerDependencies:
-    react: ^15.6.1 || ^16.0.0 || ^17.0.0 || ^18.0.0
-    react-dom: ^15.6.1 || ^16.0.0 || ^17.0.0 || ^18.0.0
-  checksum: 10/6839ddd77f61e108b8db6e6be185a6384fa0b8098126f04bc9f9f359b89a16a40694ecfd7b4ee0edb58a7eeecb4b81246bcd319ddc2c516ddd1a0e9da0a66054
-  languageName: node
-  linkType: hard
-
 "dns-equal@npm:^1.0.0":
   version: 1.0.0
   resolution: "dns-equal@npm:1.0.0"
@@ -15853,7 +15843,6 @@ __metadata:
     "@types/gm": "npm:^1"
     "@types/react": "npm:^18.2.29"
     clsx: "npm:^1.2.1"
-    disqus-react: "npm:^1.1.5"
     fast-xml-parser: "npm:4.2.7"
     gm: "npm:^1.25.0"
     prettier: "npm:3.0.2"

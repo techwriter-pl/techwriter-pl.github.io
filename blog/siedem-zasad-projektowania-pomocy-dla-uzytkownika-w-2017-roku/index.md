@@ -10,6 +10,7 @@ tags:
   - 'konferencje'
   - 'on-line-help'
   - 'pomoc-użytkownika'
+  - 'articles-in-english'
 coverImage: '7-zasad.jpg'
 ---
 

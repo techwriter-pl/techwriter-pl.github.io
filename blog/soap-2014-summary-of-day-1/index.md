@@ -8,6 +8,7 @@ tags:
   - 'konferencje'
   - 'społeczność'
   - 'soap'
+  - 'articles-in-english'
 coverImage: 'soap.jpg'
 ---
 
