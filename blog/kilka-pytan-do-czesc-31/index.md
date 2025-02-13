@@ -1,5 +1,5 @@
 ---
-title: 'Kilka pytań do - część 31: Wywiad z Mateuszem Barszczem'
+title: 'Kilka pytań do – część 31: Wywiad z Mateuszem Barszczem'
 authors: niewiarowski
 date: '2025-02-12'
 tags:
@@ -51,8 +51,8 @@ albo plik tekstowy z opisem obsługi programu (readme).
 ### Jak streściłbyś istotę roli technical writera lub specjalisty ds. komunikacji technicznej?
 
 Dla mnie jest to głównie rola technicznego tłumacza. Jest to osoba, która zbiera
-informacje od inżynierów - a ich wypowiedzi mogą być pełne emocji, zdawkowe albo
-pełne żargonu - i tłumaczy je na ogólnie zrozumiały i czytelny język, który
+informacje od inżynierów – a ich wypowiedzi mogą być pełne emocji, zdawkowe albo
+pełne żargonu – i tłumaczy je na ogólnie zrozumiały i czytelny język, który
 można łatwo przyswoić i wykorzystać do własnych potrzeb.
 
 Najważniejszymi elementami pisania technicznego są: zrozumienie kontekstu
@@ -79,7 +79,7 @@ co robić dalej. W 2010 roku znalazłem ofertę pracy dla kontraktora na roczne
 zadanie do Motorola Solutions. Szukali tzw. juniora, czyli kogoś bez
 doświadczenia, a mnie w miarę czytania tego ogłoszenia bardzo zainteresowało,
 czym zajmuje się technical writer. Mam wykształcenie techniczne, zawsze lubiłem
-bawić się technologiami. Dodatkowo moja dwujęzyczność -- jestem _native
+bawić się technologiami. Dodatkowo moja dwujęzyczność – jestem _native
 speaker'em_ angielskiego i polskiego. Te wszystkie bliskie mi aspekty wtedy
 zgrały się i złożyłem aplikację. Przeszedłem rekrutację i dostałem tę pracę.
 Taki więc był mój początek w tym obszarze.
@@ -96,7 +96,7 @@ pochłonęło.
 ### W jakich projektach brałeś udział i jakie doświadczenia w nich zdobyłeś?
 
 W mojej karierze podoba mi się to, że od samego początku było dynamicznie. Co
-pół roku coś się zmieniało - nie mogłem narzekać na stagnację. Zacząłem od
+pół roku coś się zmieniało – nie mogłem narzekać na stagnację. Zacząłem od
 produktów Motoroli Solutions związanych z infrastrukturą radiową. W zespole było
 kilkanaścioro osób odpowiedzialnych za dokumentację techniczną i każde z nas
 trzymało pieczę nad daną funkcją systemu. Po dwóch latach zacząłem opisywać
@@ -230,8 +230,8 @@ motoryzacja i gotowanie. To ostatnie też nawiązuje do instrukcji!
 ### _A propos_ gotowania: czy kiedy kupujesz nowy sprzęt AGD, na przykład robota kuchennego, idziesz na żywioł i spontanicznie zaczynasz go używać, czy też czytasz całą instrukcję od deski do deski?
 
 Na pewno idę na żywioł, bo jestem z natury osobą, która woli coś wypróbować.
-Retencja pamięci jest lepsza jeżeli czegoś praktycznie użyję, ewentualnie -
-zepsuję 😉. Ale kiedy zachodzi taka potrzeba, sięgam po instrukcję - i wtedy
+Retencja pamięci jest lepsza jeżeli czegoś praktycznie użyję, ewentualnie –
+zepsuję 😉. Ale kiedy zachodzi taka potrzeba, sięgam po instrukcję – i wtedy
 czytam ją od deski do deski.
 
 ### Jakie są Twoje zainteresowania związane z technologią i naukami ścisłymi?
@@ -250,7 +250,7 @@ Czasami pomaga mi w tym zmiana zadania. Jeżeli czuję zastój, staram się skup
 na innej jego części, takiej, która sprawia mi przyjemność lub pozwoli na szybki
 i namacalny sukces. Ważne jest też, żeby nie zawsze starać się zrobić na raz
 100% wszystkiego, co jest do zrobienia. Po wypuszczeniu materiału może być coś
-do poprawienia -- i to jest ok. Lepiej opracować coś, co jest w 80-90% gotowe i
+do poprawienia – i to jest ok. Lepiej opracować coś, co jest w 80–90% gotowe i
 wprowadzić poprawki później niż uparcie walczyć o perfekcję.
 
 ### Każdy ma lepsze i gorsze dni. Czy masz jakieś spostrzeżenia na temat tego, co można zrobić, aby czuć się lepiej w pracy? A może są rzeczy, których warto unikać?
@@ -267,7 +267,7 @@ energią.
 ### To, co mówisz uzmysławia, że dokumentacja jest iteracyjna.
 
 Jest jakieś prawo, które mówi, że ostatnie 10% doskonalenia materiału może zająć
-90% czasu. To jest tzw. dopieszczanie szczegółów. Tam, gdzie 10-20% twoich
+90% czasu. To jest tzw. dopieszczanie szczegółów. Tam, gdzie 10–20% twoich
 wysiłków generuje 80% zysku, reszta jest mniej ważna. Skupienie się na
 kluczowych sprawach jest istotne. _[Chodzi o
 [zasadę Pareta](https://pl.wikipedia.org/wiki/Zasada_Pareta)]_. Czasem dobrze
@@ -281,7 +281,7 @@ wkładają w to by je zdobyć, to lata ciężkiej pracy.
 ### Tak, są to lata ciężkiej pracy, ale nie każdego dnia każdy sportowiec dokonuje maksymalnego wysiłku. Rozkładają to tak, że ćwiczą też na średnim poziomie intensywności i odpoczywają, by zrobić coś dużego na samym końcu. Czasami myślimy tylko o momentach maksymalnego wysiłku, ale by do tego doszło, trzeba też trenować na niskiej intensywności i realnie odpoczywać.
 
 Warto myśleć długoterminowo. Nie jest to łatwe i może być to nawet wbrew naszej
-naturze, bo skupiamy się na tym, co się dzieje w danej chwili - ale widzenie
+naturze, bo skupiamy się na tym, co się dzieje w danej chwili – ale widzenie
 dłuższej perspektywy pomaga.
 
 ## Wskazówki dla początkujących

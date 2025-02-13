@@ -6,6 +6,7 @@ tags:
   - 'warsztat'
   - 'wywiady'
   - 'społeczność'
+  - 'articles-in-english'
 coverImage: 'microphone-17846_640.jpg'
 ---
 
