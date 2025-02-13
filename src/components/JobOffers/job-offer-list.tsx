@@ -19,7 +19,7 @@ export const jobOffers: JobOfferProps[] = [
 
   Kogo szukają? 
 
-  Jeśli jesteś doświadczonym Technical Writerem, ale zawsze ciągnęło Cię w stronę kodu, jeśli do tego dobrze rozumiesz się z programistami i udzielasz się w projektach open sourceowych - jest duża szansa, że szukasz właśnie takiej oferty!
+  Jeśli jesteś doświadczonym Technical Writerem, ale zawsze ciągnęło Cię w stronę kodu, jeśli do tego dobrze rozumiesz się z programistami i udzielasz się w projektach open source'owych - jest duża szansa, że szukasz właśnie takiej oferty!
   
   P.S. Nie będziesz jedynym Tech Writerem na miejscu. I choć większość zespołu dokumentalistów znajduje się w Stanach, w Polsce mamy już 5 pisarzy, którzy wspierają lokalne zespoły developerskie.`,
   },
