@@ -10,15 +10,15 @@ tags:
 coverImage: 'ContentBytesKRK5.png'
 ---
 
-# Content Bytes #4: Porozmawiajmy o style guides!
+# Content Bytes #5: Porozmawiajmy o style guides!
 
 Luty, miesiąc miłości!
 
-Content Bytes darzy uczuciem nie tylko wszystko, co związane z tworzeniem treści, ale także pasjonatów zawsze chętnych do dzielenia się swoją wiedzą i inspirowania nas do działania. Takimi osobami są nasi wrocławscy prelegenci, których gościmy w Krakowie już 26 lutego w **Ocado**!
+Content Bytes darzy uczuciem wszystko, co związane z tworzeniem treści. Uwielbiamy także pasjonatów chętnych do dzielenia się swoją wiedzą i inspirowania nas do działania. Takimi osobami są nasi wrocławscy prelegenci, których będziemy gościć w Krakowie już 26 lutego w **Ocado**!
 
 <!--truncate-->
 
-[Jan Sosna](https://www.linkedin.com/in/jan-sosna/) i [Paweł Martin](https://www.linkedin.com/in/pawel-martin/) podsuną wam kilka pomysłów na style guide, który całkowicie rozpieści waszych programistów i pozwoli im na sprawne tworzenie dokumentacji. \
+[Jan Sosna](https://www.linkedin.com/in/jan-sosna/) i [Paweł Martin](https://www.linkedin.com/in/pawel-martin/) podsuną wam kilka pomysłów na style guide, który całkowicie rozpieści waszych programistów i pozwoli im na sprawne tworzenie dokumentacji.
 [Łukasz Rybka](https://www.linkedin.com/in/lukasztomaszrybka/) podsumuje działalność [Stowarzyszenia Autorów i Ilustratorów Technicznych (SAiIT)](https://saiit.odoo.com/info) w roku 2024 oraz podzieli się planami na przyszłość.
 
 Pamiętajcie o rejestracji, to pozwoli nam na wybór odpowiedniej sali i
@@ -39,12 +39,12 @@ Jeżeli siedzisz głęboko w kodzie, ale chcesz podszlifować swoje zdolności p
 
 **_Stowarzyszenie Autorów i Ilustratorów Technicznych (SAiIT): podsumowanie 2024 i plany na 2025_**
 
-Od momentu założenia w 2024 roku, Stowarzyszenie Autorów i Ilustratorów Technicznych (SAiIT) pracuje nad rozwiązaniami, które zwiększą widoczność i pozycję technical writerów, ilustratorów oraz designerów na rynku pracy, a także zapewnią odpowiednie warunki do zdobywania i dzielenia się wiedzą.
-Łukasz Rybka, prezes SAiIT, opowie nam o dotychczasowych osiągnięciach Stowarzyszenia oraz planach na 2025.
+Od momentu założenia w 2024 roku, Stowarzyszenie Autorów i Ilustratorów Technicznych (SAiIT) pracuje nad rozwiązaniami, które zwiększą widoczność i pozycję technical writerów, ilustratorów oraz designerów na rynku pracy, a także zapewnią odpowiednie warunki do zdobywania wiedzy i dzielenia się nią.
+Łukasz Rybka, prezes SAiIT, opowie nam o dotychczasowych osiągnięciach Stowarzyszenia oraz planach na rok 2025.
 
 ## Prelegenci
 
-Tym razem odwiedziło nas aż trzech prezenterów:
+Tym razem odwiedzi nas aż trzech prezenterów:
 
 **Jan Sosna**
 
@@ -64,9 +64,9 @@ Paweł na co dzień pracuje w hermetycznym teamie Internal Tech Comms. Jest mił
 
 ## Kilka słów o sponsorach
 
-Piąte spotkanie Content Bytes sponsoruje **Ocado**.
+Piąte spotkanie Content Bytes sponsoruje **Ocado Technology**.
 
-### Ocado technology
+### Ocado Technology
 
 [Ocado Technology](https://careers.ocadogroup.com/locations/europe/development-centre-poland) tworzy produkty dostosowane do unikalnych potrzeb swoich partnerów na całym świecie. Poprzez oprogramowanie e-commerce, zautomatyzowane rozwiązania magazynowe, robotykę i zoptymalizowaną dostawę, Ocado kształtuje obszar zakupów spożywczych online. W Polsce Ocado działa w Krakowie i Wrocławiu, gdzie skupia ponad 700 specjalistów w dziedzinie technologii.
 
