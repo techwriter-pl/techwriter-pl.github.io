@@ -4,10 +4,75 @@
         <title>techwriter.pl Blog</title>
         <link>https://techwriter.pl/</link>
         <description>techwriter.pl Blog</description>
-        <lastBuildDate>Wed, 12 Feb 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Feb 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>pl</language>
+        <item>
+            <title><![CDATA[Content Bytes #5: Porozmawiajmy o style guides]]></title>
+            <link>https://techwriter.pl/content-bytes-luty-2025</link>
+            <guid>https://techwriter.pl/content-bytes-luty-2025</guid>
+            <pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Luty, miesiąc miłości!]]></description>
+            <content:encoded><![CDATA[<p>Luty, miesiąc miłości!</p>
+<p>Content Bytes darzy uczuciem wszystko, co związane z tworzeniem treści. Uwielbiamy także pasjonatów chętnych do dzielenia się swoją wiedzą i inspirowania nas do działania. Takimi osobami są nasi wrocławscy prelegenci, których będziemy gościć w Krakowie już 26 lutego w <strong>Ocado</strong>!</p>
+<p><a href="https://www.linkedin.com/in/jan-sosna/" target="_blank" rel="noopener noreferrer">Jan Sosna</a> i <a href="https://www.linkedin.com/in/pawel-martin/" target="_blank" rel="noopener noreferrer">Paweł Martin</a> podsuną wam kilka pomysłów na style guide, który całkowicie rozpieści waszych programistów i pozwoli im na sprawne tworzenie dokumentacji.
+<a href="https://www.linkedin.com/in/lukasztomaszrybka/" target="_blank" rel="noopener noreferrer">Łukasz Rybka</a> podsumuje działalność <a href="https://saiit.odoo.com/info" target="_blank" rel="noopener noreferrer">Stowarzyszenia Autorów i Ilustratorów Technicznych (SAiIT)</a> w roku 2024 oraz podzieli się planami na przyszłość.</p>
+<p>Pamiętajcie o rejestracji, to pozwoli nam na wybór odpowiedniej sali i
+zaplanowanie poczęstunku. Link do formularza znajdziecie
+<a href="https://forms.gle/prUVHCcG67ArJA4K8" target="_blank" rel="noopener noreferrer">tutaj</a>.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="tematy">Tematy<a href="https://techwriter.pl/content-bytes-luty-2025#tematy" class="hash-link" aria-label="Bezpośredni link do Tematy" title="Bezpośredni link do Tematy">​</a></h2>
+<p><strong><em>To nie jest style guide twojego starego: The Content Design Guide</em></strong></p>
+<p>Czy programiści lubią pisać dokumentację? Czy technical writerzy stosują się do własnych wytycznych w zakresie stylu i formy?
+Czy style guide powinien uwzględniać konfigurację narzędzi? Co jest absolutnym <em>must-have</em> w pisaniu w sposób przejrzysty i efektywny?
+Kim są ci tajemniczy <em>language geeks</em> i czy ich jedynym zajęciem jest kolekcjonowanie gramatycznych memów?</p>
+<p>No i o co chodzi z tymi kotami?</p>
+<p>Jeżeli siedzisz głęboko w kodzie, ale chcesz podszlifować swoje zdolności pisarskie, albo jesteś technical writerem, który chce wspomóc programistów - dobry style guide to twój przyjaciel. Podczas swojej prezentacji Jan i Paweł pokażą, że dokumentacja wcale nie musi być taka straszna, jak ją malują, ale za to może stanowić narzędzie podnoszące efektywność pracy.</p>
+<p><strong><em>Stowarzyszenie Autorów i Ilustratorów Technicznych (SAiIT): podsumowanie 2024 i plany na 2025</em></strong></p>
+<p>Od momentu założenia w 2024 roku, Stowarzyszenie Autorów i Ilustratorów Technicznych (SAiIT) pracuje nad rozwiązaniami, które zwiększą widoczność i pozycję technical writerów, ilustratorów oraz designerów na rynku pracy, a także zapewnią odpowiednie warunki do zdobywania wiedzy i dzielenia się&nbsp;nią.
+Łukasz Rybka, prezes SAiIT, opowie nam o dotychczasowych osiągnięciach Stowarzyszenia oraz planach na rok 2025.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="prelegenci">Prelegenci<a href="https://techwriter.pl/content-bytes-luty-2025#prelegenci" class="hash-link" aria-label="Bezpośredni link do Prelegenci" title="Bezpośredni link do Prelegenci">​</a></h2>
+<p>Tym razem odwiedzi nas aż trzech prezenterów:</p>
+<p><strong>Jan Sosna</strong></p>
+<p>Jan jest technical writerem w Ocado, a także pasjonatem zdobywania wiedzy i dzielenia się nią. Posiada doświadczenie w wielu dziedzinach: od designu, przez publiczne wystąpienia, aż do napraw motocykli.</p>
+<p><strong>Paweł Martin</strong></p>
+<p>Paweł na co dzień pracuje w hermetycznym teamie Internal Tech Comms. Jest miłośnikiem sporych repozytoriów, cyberpunka, rocka, deskorolek oraz kimchi.</p>
+<p><strong>Łukasz Rybka</strong></p>
+<p>Łukasz zajmuje się tworzeniem treści od 15 lat. Obecnie rozwija swoją własną firmę zajmującą się tworzeniem i rozwojem dokumentacji technicznej, a także konsultacjami w obrębie tworzenia treści. Łukasz jest jednym z założycieli Stowarzyszenia Autorów i Ilustratorów Techniczych (SAiIT), a po godzinach spędza czas gotując, jeżdżąc na nartach lub grając w gry symulacyjne.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="kiedy-i-gdzie">Kiedy i gdzie<a href="https://techwriter.pl/content-bytes-luty-2025#kiedy-i-gdzie" class="hash-link" aria-label="Bezpośredni link do Kiedy i gdzie" title="Bezpośredni link do Kiedy i gdzie">​</a></h2>
+<p><strong>Data</strong>: 26.02.2025 <br> <strong>Godzina</strong>: 18:00 <br> <strong>Miejsce</strong>: Ocado, Pawia 21, High5ive Building "FOUR" B</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="kilka-słów-o-sponsorach">Kilka słów o sponsorach<a href="https://techwriter.pl/content-bytes-luty-2025#kilka-s%C5%82%C3%B3w-o-sponsorach" class="hash-link" aria-label="Bezpośredni link do Kilka słów o sponsorach" title="Bezpośredni link do Kilka słów o sponsorach">​</a></h2>
+<p>Piąte spotkanie Content Bytes sponsoruje <strong>Ocado Technology</strong>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="ocado-technology">Ocado Technology<a href="https://techwriter.pl/content-bytes-luty-2025#ocado-technology" class="hash-link" aria-label="Bezpośredni link do Ocado Technology" title="Bezpośredni link do Ocado Technology">​</a></h3>
+<p><a href="https://careers.ocadogroup.com/locations/europe/development-centre-poland" target="_blank" rel="noopener noreferrer">Ocado Technology</a> tworzy produkty dostosowane do unikalnych potrzeb swoich partnerów na całym świecie. Poprzez oprogramowanie e-commerce, zautomatyzowane rozwiązania magazynowe, robotykę i zoptymalizowaną dostawę, Ocado kształtuje obszar zakupów spożywczych online. W Polsce Ocado działa w Krakowie i Wrocławiu, gdzie skupia ponad 700 specjalistów w dziedzinie technologii.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="o-nas">O nas<a href="https://techwriter.pl/content-bytes-luty-2025#o-nas" class="hash-link" aria-label="Bezpośredni link do O nas" title="Bezpośredni link do O nas">​</a></h2>
+<p>Celem <strong>Content Bytes</strong> jest stworzenie przestrzeni, w której twórcy contentu
+mogą wymieniać się doświadczeniami i omawiać tematy związane z tworzeniem
+treści. Według nas content to nie tylko sam proces pisania, ale tak
+naprawdę&nbsp;cały ekosystem uwzględniający UX, UI, design, a także zagadnienia
+dostępności, zarządzania i związanej z nimi technologii.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="skontaktuj-się-z-organizatorem">Skontaktuj się z organizatorem<a href="https://techwriter.pl/content-bytes-luty-2025#skontaktuj-si%C4%99-z-organizatorem" class="hash-link" aria-label="Bezpośredni link do Skontaktuj się z organizatorem" title="Bezpośredni link do Skontaktuj się z organizatorem">​</a></h3>
+<p>Organizatorom zależy, by spotkania były istotne i przybliżały tematy, które są
+dla Was interesujące. Możecie zgłosić temat, a my dołożymy wszelkich starań, aby
+znaleźć prelegentów, którzy będą mogli o nim porozmawiać. Możecie także sami
+zostać prelegentami na jednym z naszych spotkań.</p>
+<p>Jeżeli jesteście zainteresowani, napiszcie do nas:
+<strong><a href="mailto:contentbytes.krk@gmail.com" target="_blank" rel="noopener noreferrer">contentbytes.krk@gmail.com</a></strong>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="często-zadawane-pytania">Często zadawane pytania<a href="https://techwriter.pl/content-bytes-luty-2025#cz%C4%99sto-zadawane-pytania" class="hash-link" aria-label="Bezpośredni link do Często zadawane pytania" title="Bezpośredni link do Często zadawane pytania">​</a></h3>
+<p>P: Czy wydarzenie będzie nagrywane lub transmitowane na żywo? <br> O: Na
+chwilę obecną nie. Stawiamy na spotkania na miejscu, gdzie możesz osobiście
+poznać inne osoby zainteresowane contentem.</p>
+<p>P: Czy można udostępnić prezentacje prelegentów? <br> O: To zależy od
+prelegenta. Podczas wydarzenia można jednak zadawać pytania i robić zdjęcia,
+można też zapytać o udostępnienie slajdów.</p>
+<p>P: Zarejestrowałem/am się, ale nie mogę wziąć udziału. Co powinienem/nnam
+zrobić? <br> O: Jeśli wiesz, że nie dasz rady przyjść, daj nam znać pisząc na
+adres <a href="mailto:contentbytes.krk@gmail.com" target="_blank" rel="noopener noreferrer">contentbytes.krk@gmail.com</a>.</p>]]></content:encoded>
+            <category>news</category>
+            <category>meetups</category>
+            <category>społeczność</category>
+            <category>content-bytes</category>
+        </item>
         <item>
             <title><![CDATA[Kilka pytań do – część 31: Wywiad z Mateuszem Barszczem]]></title>
             <link>https://techwriter.pl/kilka-pytan-do-czesc-31</link>
@@ -1974,63 +2039,6 @@ Planujemy kolejny warsztat 😅</p>
 <p>Pewnym nieplanowanym elementem było również to, że zespół miał okazję wspólnie skatalogować i przedyskutować każdy typ zadania dokumentacyjnego, wypowiedzieć się na temat czasu jaki im on zajmuje, porównać swoje argumenty z innymi i wymienić się <em>best practices</em> na optymalizację poszczególnych etapów 🙌</p>]]></content:encoded>
             <category>estymacja</category>
             <category>dobre-praktyki</category>
-        </item>
-        <item>
-            <title><![CDATA[„HowTo Create i HowTo Deliver – wynieś dokumentację na wyższy poziom” - webinar]]></title>
-            <link>https://techwriter.pl/etteplan-webinar-dokumentacja</link>
-            <guid>https://techwriter.pl/etteplan-webinar-dokumentacja</guid>
-            <pubDate>Wed, 11 Sep 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[W imieniu firmy Etteplan, zapraszamy na webinar poświęcony dokumentacji]]></description>
-            <content:encoded><![CDATA[<p>W imieniu firmy Etteplan, zapraszamy na webinar poświęcony dokumentacji
-technicznej. Poniżej przedstawiamy szczegóły dotyczące wydarzenia dostarczone
-przez organizatora.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="webinar-howto-create-i-howto-deliver--wynieś-dokumentację-na-wyższy-poziom">Webinar „HowTo Create i HowTo Deliver – wynieś dokumentację na wyższy poziom”<a href="https://techwriter.pl/etteplan-webinar-dokumentacja#webinar-howto-create-i-howto-deliver--wynie%C5%9B-dokumentacj%C4%99-na-wy%C5%BCszy-poziom" class="hash-link" aria-label="Bezpośredni link do Webinar „HowTo Create i HowTo Deliver – wynieś dokumentację na wyższy poziom”" title="Bezpośredni link do Webinar „HowTo Create i HowTo Deliver – wynieś dokumentację na wyższy poziom”">​</a></h2>
-<p>Czy wiesz, że pracownicy, którzy mają łatwy dostęp do informacji, są o 20-25%
-bardziej wydajni (badania "The social economy: Unlocking value and productivity
-through social technologies"). Co więcej, 60% użytkowników oprogramowania
-stwierdziło, że ich zadowolenie z produktu znacznie wzrasta, gdy mogą szybko
-znaleźć potrzebne informacje (badania Forrester Research).</p>
-<p>Jak widać, uzyskanie niezbędnych informacji w łatwy i szybki sposób jest
-kluczowe zarówno dla organizacji, jak i użytkownika końcowego. Chcesz dowiedzieć
-się, jak przygotować dokumentację techniczną, aby spełniała swoje funkcje jak
-najlepiej?</p>
-<p>O tym opowie <strong>Barbara Kardel - Piątkowska</strong> podczas webinaru pt. „HowTo Create
-i HowTo Deliver – wynieś dokumentację na wyższy poziom”, który odbędzie się w
-<strong>dniu 25.09.2024 o godzinie 11.00</strong>.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="agenda">Agenda<a href="https://techwriter.pl/etteplan-webinar-dokumentacja#agenda" class="hash-link" aria-label="Bezpośredni link do Agenda" title="Bezpośredni link do Agenda">​</a></h3>
-<ol>
-<li>
-<p>Dojrzałość dokumentacji. Przyjrzymy się etapom rozwoju dokumentacji w erze
-informacji cyfrowej, przechodząc od tradycyjnych dokumentów w Wordzie do
-dynamicznych systemów dostarczania treści.</p>
-</li>
-<li>
-<p>Jak tworzymy dokumentację. Przedstawimy etapy procesu, w tym:</p>
-<ul>
-<li>Tworzenie architektury informacji</li>
-<li>Opracowywanie treści</li>
-<li>Zarządzanie treścią poprzez metadane</li>
-<li>Publikacja, prezentacja i dostarczanie treści</li>
-</ul>
-</li>
-<li>
-<p>Wsparcie HowTo w tworzeniu materiałów. Zaprezentujemy kompleksowe rozwiązanie
-HowTo, w tym:</p>
-<ul>
-<li>HowTo Create – wsparcie procesu tworzenia treści i weryfikacji przez
-ekspertów, a także publikacji</li>
-<li>HowTo Deliver – naszą platformę chmurową, która umożliwia efektywne
-dostarczanie przygotowanych treści oraz obsługuje różne formaty danych dla
-łatwego dostępu do instrukcji użytkownika.</li>
-</ul>
-</li>
-</ol>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="rejestracja">Rejestracja<a href="https://techwriter.pl/etteplan-webinar-dokumentacja#rejestracja" class="hash-link" aria-label="Bezpośredni link do Rejestracja" title="Bezpośredni link do Rejestracja">​</a></h3>
-<p>Link do rejestracji: <a href="https://www.lyyti.in/HowToCreateIHowToDeliver" target="_blank" rel="noopener noreferrer">https://www.lyyti.in/HowToCreateIHowToDeliver</a></p>]]></content:encoded>
-            <category>news</category>
-            <category>edukacja</category>
-            <category>webinarium</category>
-            <category>webinarium</category>
         </item>
     </channel>
 </rss>
