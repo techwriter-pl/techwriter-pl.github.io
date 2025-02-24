@@ -64,7 +64,7 @@
 [Online Technical Writing: Contents](https://mcmassociates.io/textbook/) 
 : Darmowa książka na temat technical writingu, dostępna w wersji webowej.
 
-[Awesome technical writing](https://github.com/BolajiAyodeji/awesome-technical-writing/blob/master/README.md)
+[Awesome Technical Writing](https://github.com/BolajiAyodeji/awesome-technical-writing/blob/master/README.md)
 : Zestawienie przeróżnych źródeł przydatnych technical writerom. Znajdziecie tu listę książek, zasobów wideo czy artykułów związanych z naszą branżą. To prawdziwa kopalnia wiedzy.
 
 [DocToolHub](https://tools.doctoolhub.com/)
