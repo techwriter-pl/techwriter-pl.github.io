@@ -62,7 +62,8 @@ async function main(startDir) {
     const allMarkdownFiles = await getAllMarkdownFiles(startDir);
     console.log(`Found ${allMarkdownFiles.length} markdown files`);
 
-    if (allMarkdownFiles.length === 10) {
+    const limit = 7;
+    if (allMarkdownFiles.length === limit) {
       console.log('Only 10 files remaining. Nothing to delete!');
       return;
     }
@@ -72,8 +73,8 @@ async function main(startDir) {
 
     fileData.sort((a, b) => b.date - a.date);
 
-    const filesToKeep = fileData.slice(0, 10);
-    const filesToDelete = fileData.slice(10);
+    const filesToKeep = fileData.slice(0, limit);
+    const filesToDelete = fileData.slice(limit);
 
     console.log(`Keeping ${filesToKeep.length} latest files:`);
     filesToKeep.forEach((file) =>

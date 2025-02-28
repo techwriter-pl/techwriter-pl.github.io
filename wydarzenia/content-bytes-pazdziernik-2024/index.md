@@ -1,7 +1,7 @@
 ---
 title: 'Content Bytes: Nowe wydarzenie na contentowej mapie!'
 authors: bczyz
-date: '2024-09-26'
+date: '2024-10-03'
 tags:
   - 'news'
   - 'meetups'

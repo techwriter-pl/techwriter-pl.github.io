@@ -1,7 +1,7 @@
 ---
 title: 'Content Bytes #5: Porozmawiajmy o style guides'
 authors: bczyz
-date: '2025-02-20'
+date: '2025-02-26'
 tags:
   - 'news'
   - 'meetups'

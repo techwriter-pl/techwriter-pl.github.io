@@ -1,7 +1,7 @@
 ---
 title: 'Content Bytes #4: Porozmawiajmy o języku'
 authors: bczyz
-date: '2025-01-15'
+date: '2025-01-20'
 tags:
   - 'news'
   - 'meetups'

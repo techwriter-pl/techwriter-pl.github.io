@@ -1,7 +1,7 @@
 ---
 title: '#ContentDay: Program wydarzenia '
 authors: bczyz
-date: '2024-05-31'
+date: '2024-06-08'
 tags:
   - 'meetcontent'
   - 'społeczność'

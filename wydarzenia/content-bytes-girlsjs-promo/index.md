@@ -1,7 +1,7 @@
 ---
 title: 'Content Bytes x girls.js: Porozmawiajmy o dostępności'
 authors: bczyz
-date: '2024-10-23'
+date: '2024-10-20'
 tags:
   - 'news'
   - 'meetups'

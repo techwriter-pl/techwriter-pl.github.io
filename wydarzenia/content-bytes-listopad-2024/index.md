@@ -1,7 +1,7 @@
 ---
 title: 'Content Bytes #3: Porozmawiajmy o wiedzy i umiejętnościach'
 authors: bczyz
-date: '2024-11-20'
+date: '2024-11-26'
 tags:
   - 'news'
   - 'meetups'
