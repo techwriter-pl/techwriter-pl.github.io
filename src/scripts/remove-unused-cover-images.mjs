@@ -1,8 +1,10 @@
 import fs from 'fs/promises';
 import path from 'path';
 
-async function findUsedCoverImages() {
-  const blogFolder = './blog';
+const generalBlog = './blog';
+const eventBlog = './wydarzenia';
+
+async function findUsedCoverImages(blogFolder) {
   const coverImageFolder = './static/img/cover';
 
   async function findMarkdownFiles(dir) {
@@ -72,4 +74,5 @@ async function findUsedCoverImages() {
 }
 
 // Run the script
-findUsedCoverImages();
+findUsedCoverImages(generalBlog);
+findUsedCoverImages(eventBlog);

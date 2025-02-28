@@ -1,0 +1,22 @@
+.wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.badge {
+  transform: rotate(-20deg);
+  animation: pulse-animation 2s infinite;
+}
+
+@keyframes pulse-animation {
+  0% {
+    transform: rotate(-20deg) scale(1);
+  }
+  50% {
+    transform: rotate(-20deg) scale(1.1);
+  }
+  100% {
+    transform: rotate(-20deg) scale(1);
+  }
+}

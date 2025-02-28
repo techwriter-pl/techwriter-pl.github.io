@@ -54,8 +54,8 @@ export default function SiteHighlights() {
         Co jeszcze znajdziesz na tej stronie?
       </h2>
       <div className="row">
-        {highlights.map(({ title, description, linkUrl, linkLabel }) => (
-          <div className="col">
+        {highlights.map(({ title, description, linkUrl, linkLabel }, key) => (
+          <div className="col" key={key}>
             <div
               className="card padding--lg"
               style={{

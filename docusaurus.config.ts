@@ -81,6 +81,7 @@ const config: Config = {
           label: 'English',
           position: 'right',
         },
+        { to: '/wydarzenia', label: 'Wydarzenia', position: 'right' },
         { to: '/konferencje', label: 'Konferencje 2025', position: 'right' },
         { to: '/oferty-pracy', label: 'Oferty pracy', position: 'right' },
         { to: '/linki', label: 'Linki', position: 'right' },
@@ -117,7 +118,20 @@ const config: Config = {
       darkTheme: prismThemes.dracula,
     },
   } satisfies Preset.ThemeConfig,
-  plugins: [techWriterWebpackPlugin],
+  plugins: [
+    techWriterWebpackPlugin,
+    [
+      '@docusaurus/plugin-content-blog',
+      {
+        id: 'wydarzenia',
+        routeBasePath: 'wydarzenia',
+        path: './wydarzenia',
+        authorsMapPath: '../blog/authors.yml',
+        blogListComponent:
+          '@site/src/components/EventsBlogList/EventsBlogList.tsx',
+      },
+    ],
+  ],
   themes: ['@docusaurus/theme-live-codeblock'],
 };
 
