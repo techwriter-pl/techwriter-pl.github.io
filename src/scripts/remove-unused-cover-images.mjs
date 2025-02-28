@@ -1,10 +1,8 @@
 import fs from 'fs/promises';
 import path from 'path';
 
-const generalBlog = './blog';
-const eventBlog = './wydarzenia';
-
-async function findUsedCoverImages(blogFolder) {
+async function findUsedCoverImages() {
+  const dirsToParse = ['./blog', './wydarzenia'];
   const coverImageFolder = './static/img/cover';
 
   async function findMarkdownFiles(dir) {
@@ -29,7 +27,11 @@ async function findUsedCoverImages(blogFolder) {
 
   try {
     // Recursively find all markdown files
-    const mdFiles = await findMarkdownFiles(blogFolder);
+    const mdFiles = [];
+    for (const dir of dirsToParse) {
+      const filesInDir = await findMarkdownFiles(dir);
+      mdFiles.push(...filesInDir);
+    }
 
     // Set to store used cover images
     const usedCoverImages = new Set();
@@ -73,6 +75,4 @@ async function findUsedCoverImages(blogFolder) {
   }
 }
 
-// Run the script
-findUsedCoverImages(generalBlog);
-findUsedCoverImages(eventBlog);
+findUsedCoverImages();
