@@ -77,18 +77,4 @@ Są znani z takich gier jak The Call of Juarez i Dying Light. Ale na tym nie pop
 Obecnie Techland poszukuje osoby na stanowisko Technical Writera, 
 która będzie odpowiedzialna za pisanie i ulepszanie dokumentacji technicznej dla twórców treści i deweloperów.`,
   },
-  {
-    title: 'Technical Writer',
-    company: 'Guidewire Software',
-    link: 'https://www.linkedin.com/jobs/view/4102277170',
-    location: 'Kraków',
-    type: 'hybrydowo',
-    description: `Guidewire poszukuje osoby, która pomoże tworzyć dokumentację
-do ich design systemu i platformy cyfrowej. Guidewire dostarcza platformę dla
-firm ubezpieczeniowych.
-
-Rzeczoną dokumentację możecie zobaczyć [tutaj](https://docs.guidewire.com/jutro/documentation/10.9/).
-Co ciekawe, platforma Guidewire nazywa się Jutro. Mimo, że firma jest amerykańska
-jak hamburgery i 4 lipca, to nazwa platformy wzięła się z języka polskiego.`,
-  },
 ];
