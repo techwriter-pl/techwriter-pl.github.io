@@ -100,4 +100,4 @@ można będzie poznać się lepiej i oczywiście nawiązać nowe kontakty, nie t
 zawodowe. Będzie ona płatna oraz wymagać będzie dodatkowej rejestracji. Wszelkie
 informacje na ten temat pojawią się wkrótce.
 
-W imieniu organizatora, zapraszamy serdecznie do Finlandii :-).
+W imieniu organizatora, zapraszamy serdecznie do Finlandii 😊.

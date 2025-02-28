@@ -122,6 +122,6 @@ materiały z każdej wypalonej w twoim kierunku salwy. Może się okazać, że s
 uzbierasz niezły arsenał do pisania treści o grach!
 
 P.S. Ciekawi nas bardzo, czy jest wśród Was ktoś z branży gier komputerowych?
-Jeśli tak - odezwijcie się w komentarzach :-)
+Jeśli tak - odezwijcie się w komentarzach 😊
 
 _Grafika: https://www.youtube.com/watch?v=GCUppNQ\_W6U_

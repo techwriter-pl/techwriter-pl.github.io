@@ -37,7 +37,7 @@ program wydarzenia wygląda następująco:
 Szczegółowy program każdego z dni oraz omówienie prelekcji i warsztatów w jakich
 będziecie mogli wziąć udział są dostępne
 [tutaj](http://www.writethedocs.org/conf/prague/2018/schedule/). Dajcie znać,
-które tematy najbardziej Was zaciekawiły :-)
+które tematy najbardziej Was zaciekawiły 😊
 
 #### Bilety
 

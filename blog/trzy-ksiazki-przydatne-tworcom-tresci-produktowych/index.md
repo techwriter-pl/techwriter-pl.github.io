@@ -200,7 +200,7 @@ części ostatniej to próba podpowiedzi, jak wszystkie wcześniej opisane zasad
 ułożyć w dający się używać system.
 
 Doświadczeni _UX writers_ pewnie tę książkę przekartkują, skupiając się na
-wybranych zagadnieniach (lub utrapieniach :-)). Projektanci interfejsów
+wybranych zagadnieniach (lub utrapieniach 😊). Projektanci interfejsów
 graficznych, adepci pracy ze słowem zdecydowanie powinni mieć tę książkę u boku
 w trakcie swojej codziennej pracy. To bardzo dobrze poukładany i opisany
 materiał referencyjny.

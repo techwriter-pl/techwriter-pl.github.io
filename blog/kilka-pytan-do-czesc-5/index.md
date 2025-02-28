@@ -47,7 +47,7 @@ różnymi deweloperami. Projekty są zarządzane w różny sposób, często scru
 Confluence jako baza wiedzy, Jira do organizacji projektów i zadań, Visio do
 schematów, klasyczny Office, kiedyś Screen Shooter do szybkich zrzutów i
 Camtasia do demonstracji, teraz testuję Snagit, który poznałam dzięki
-techwriter.pl. :-)
+techwriter.pl. 😊
 
 #### W jaki sposób zdobywasz informacje potrzebne do tworzenia dokumentacji?
 

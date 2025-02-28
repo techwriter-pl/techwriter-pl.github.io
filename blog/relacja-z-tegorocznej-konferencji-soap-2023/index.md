@@ -498,7 +498,7 @@ programistów jak lepiej pisać dokumentację. Co ciekawe, swoją przygodę ze
 szkoleniami z pisania w swojej firmie rozpoczęła na wniosek współpracowników.
 Nikogo nie musiała do tego namawiać, bo ludzie sami się zgłaszają na jej
 szkolenia. Zapytani o powody, podają na przykład taki: "koledzy mówią, że moją
-dokumentację ciężko się czyta" :-)
+dokumentację ciężko się czyta" 😊
 
 Maria ewidentnie lubi uczyć i chętnie dzieli się wskazówkami jak to robić
 skutecznie. Dla tych osób, które zastanawiają się nad tym, czy uczenie innych
@@ -568,7 +568,7 @@ To samo tyczy się jego rady udzielonej w trakcie sesji pytań i odpowiedzi już
 samej prezentacji. Syndrom oszusta czyni nas ślepymi na nasze osiągnięcia. Aby
 nie upadać na duchu i nie dać się zniechęceniu, Wojtek poleca zapisywanie
 wszystkich małych i dużych sukcesów, i regularne wracanie do tych zapisków.
-Znam, używam, potwierdzam skuteczność :-)
+Znam, używam, potwierdzam skuteczność 😊
 
 ## **Ciekawostki**
 
