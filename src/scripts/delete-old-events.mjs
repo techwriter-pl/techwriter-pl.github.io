@@ -62,9 +62,11 @@ async function main(startDir) {
     const allMarkdownFiles = await getAllMarkdownFiles(startDir);
     console.log(`Found ${allMarkdownFiles.length} markdown files`);
 
-    const limit = 7;
+    const limit = 6;
     if (allMarkdownFiles.length === limit) {
-      console.log('Only 10 files remaining. Nothing to delete!');
+      console.log(
+        `Only ${allMarkdownFiles.length} out of the allowed ${limit} files remaining. Nothing to delete!`
+      );
       return;
     }
 
