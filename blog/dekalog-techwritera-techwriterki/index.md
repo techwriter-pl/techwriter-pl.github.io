@@ -34,7 +34,7 @@ zaawansowanych dokumentalistów. Po przesłaniu tekstu do wykładowcy (pozdrawia
 ewentualnej publikacji. Ponieważ wykładowcom się nie odmawia 😉 artykuł ląduje
 niniejszym na gościnnych łamach Techwritera. Dla większości z was nie ma w nim
 zapewne niczego przełomowego, ale warto, aby nawet zaawansowani wrócili do
-korzeni :-)
+korzeni 😊
 
 Dla wzbogacenia całości znajdziecie tu także linki do starszych artykułów na ten
 temat - na pewno z przyjemnością je sobie przypomnicie. No i last but not least:
@@ -120,4 +120,4 @@ poczujecie niedosyt i będziecie chcieli dodatkowo pogłębić temat.
 
 **Koniec! Tworzenie dokumentacji to tylko tyle i aż tyle. A może chcecie coś
 dodać do powyższych punktów? Co waszym zdaniem jest najważniejsze, jakiej rady
-chcielibyście udzielić początkującym? Piszcie w komentarzach :-)**
+chcielibyście udzielić początkującym? Piszcie w komentarzach 😊**

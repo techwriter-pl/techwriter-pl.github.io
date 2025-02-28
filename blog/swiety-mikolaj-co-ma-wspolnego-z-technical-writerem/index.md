@@ -23,7 +23,7 @@ W zasadzie duża część pisarzy technicznych ma niecodzienne zainteresowania, 
 ich historie jak trafili do zawodu są dość nietypowe. Prawie każdy technical
 writer w swojej karierze doświadczył mierzenia się z trudnymi zadaniami,
 wymagającymi heroicznej postawy i ogromnego zaangażowania, co można określić
-jako coś niecodziennego :-).
+jako coś niecodziennego 😊.
 
 ### **Odrobina magii**
 
@@ -130,7 +130,7 @@ Nie oszukujmy się, święta bez Mikołaja nie byłyby takie same. Z kolei dobra
 dokumentacja nie powstałaby bez ciężkiej pracy technical writera.
 
 Skąd też wzięła się „wiara” w to, że to on pomoże kiedy potrzeba, tak jak święty
-Mikołaj :-).
+Mikołaj 😊.
 
 > Merry Christmas!
 >

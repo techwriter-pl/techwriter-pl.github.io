@@ -25,7 +25,7 @@ Na jej podstawie przyjęto, że ilość kroków w procedurach powinna być nie w
 niż dziewięć, ale nie mniejsza niż pięć, a najlepiej, gdy będzie to siedem
 punktów. Jeśli zdarza się, że instrukcja ma więcej niż dziewięć kroków zazwyczaj
 Technical Writer będzie starał się rozbić ją na kilka mniejszych procedur lub
-wewnątrz kroku zrobić listę kroczków :-) (substeps). Jednak czy ta praktyka ma
+wewnątrz kroku zrobić listę kroczków 😊 (substeps). Jednak czy ta praktyka ma
 nadal sens?
 
 Prawda jest taka, że większość użytkowników wykonujących procedury nie stara się

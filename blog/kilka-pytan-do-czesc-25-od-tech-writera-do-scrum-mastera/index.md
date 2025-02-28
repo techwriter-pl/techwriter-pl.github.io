@@ -43,7 +43,7 @@ bardzo dużym skrócie, zarządzania kontami użytkowników i ich dostępem do z
 w organizacji. Tam również pracowałem jako tech writer, tym razem jednak nie w
 ramach odrębnego doc teamu, a jako pełnoprawny członek zespołów scrumowych. To
 właśnie tutaj zmieniłem ścieżkę kariery z dokumentalisty na tzw. mistrza młyna,
-pomimo absolutnego braku umiejętności sportowych. :-)
+pomimo absolutnego braku umiejętności sportowych. 😊
 
 #### Z jakich korzystałeś narzędzi?
 
@@ -154,7 +154,7 @@ efektywnym “odbywaniu” wydarzeń scrumowych i powoli wdrażać się w inne
 obowiązki. Tu na pewno przydadzą się kursy, szkolenia, artykuły, a najlepiej
 inny scrum master, chętny by podzielić się doświadczeniem - ale przecież
 zdobywanie wiedzy to chleb powszedni tech writera, więc nie powinno to stanowić
-dużego problemu. :-)
+dużego problemu. 😊
 
 #### Czy masz coś jeszcze do dodania?
 

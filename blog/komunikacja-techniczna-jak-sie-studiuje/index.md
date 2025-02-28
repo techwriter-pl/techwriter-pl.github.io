@@ -14,7 +14,7 @@ coverImage: 'komunikacja_techniczna_studia_magda.jpg'
 ---
 
 Dziś wrażenia z pierwszej ręki dotyczące studiów podyplomowych z komunikacji
-technicznej :-)
+technicznej 😊
 
 <!--truncate-->
 
@@ -77,11 +77,11 @@ dużo pytań, łapczywie pochłaniam serwowane treści. A obiektywnie:
   kierunkiem wykładowców w mniejszych grupach. Najsilniejszy akcent kładzie się
   właśnie na praktyczne przygotowanie do pracy (i rekrutacji!) techwritera.
 - Używamy Teamsów. Niezbędna jest kamera i słuchawki.
-- Dostajemy sporo prac domowych. Są deadliny. Można je negocjować :-)
+- Dostajemy sporo prac domowych. Są deadliny. Można je negocjować 😊
 - Od partnerów kierunku (czyli firm MadCap, Atlassian, Syncro Soft, DREDAR,
   organizacji ITCQF oraz, tadam tadam, portalu Techwriter.pl) otrzymaliśmy
   licencje studenckie na przydatne oprogramowanie, np. Jirę, Camtasię czy
-  Snagita :-)
+  Snagita 😊
 - Nie zetknęłam się jeszcze z wykładowcami/wykładowczyniami, którzy nie byliby
   pomocni. Do tego stopnia, że poświęcają swój prywatny czas na… analizę naszych
   CV.

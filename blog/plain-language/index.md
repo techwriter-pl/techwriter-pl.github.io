@@ -63,8 +63,7 @@ może nam przyjść plain language:
 - Staraj się by znaczenie czasowników wynikało ściśle z kontekstu.
 - Unikaj słów znanych tylko wąskiej grupie specjalistów (czyli tak zwanego
   technicznego żargonu), zastępując je słowami z języka potocznego gdy tylko
-  jest to możliwe. Zamiast "impulsywnik kinetyczny" napisz po prostu "młotek"
-  :-)
+  jest to możliwe. Zamiast "impulsywnik kinetyczny" napisz po prostu "młotek" 😊
 - W miarę możliwości pisz w czasie teraźniejszym ("czerwony guzik uruchamia
   samodestrukcję") zamiast stosować skomplikowane konstrukcje ("naciśnięcie
   czerwonego przycisku spowoduje uruchomienie procedury samodestrukcji").
