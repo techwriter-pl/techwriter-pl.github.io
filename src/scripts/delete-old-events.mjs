@@ -65,7 +65,7 @@ async function main(startDir) {
     const limit = 10;
     if (allMarkdownFiles.length <= limit) {
       console.log(
-        `Only ${allMarkdownFiles.length} out of the allowed ${limit} files remaining. Nothing to delete!`
+        `✅ Only ${allMarkdownFiles.length} out of the allowed ${limit} files remaining. Nothing to delete!`
       );
       return;
     }
@@ -98,11 +98,13 @@ async function main(startDir) {
         );
 
         if (!keepingFilesInSameDir) {
-          console.log(`Will delete: ${file.parentDir} (contains ${file.path})`);
+          console.log(
+            `✅ Will delete: ${file.parentDir} (contains ${file.path})`
+          );
           await deleteDirectory(file.parentDir);
         } else {
           console.log(
-            `Skipping deletion of ${file.parentDir} as it contains files we want to keep`
+            `🙅‍♀️ Skipping deletion of ${file.parentDir} as it contains files we want to keep`
           );
         }
       }
