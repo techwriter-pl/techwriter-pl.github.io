@@ -53,6 +53,12 @@ branży komunikacji technicznej w 2025.
 - Sztokholm, Szwecja
 - https://se.nordic-techkomm.com 	
 
+### Women TechStyle Summit
+
+- 20.03.2025	
+- online
+- https://womentechstyle.pl/
+
 ### Leading Design New York
 
 - 27.03.2025	
