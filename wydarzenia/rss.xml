@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>techwriter.pl Blog</title>
+        <link>https://techwriter.pl/wydarzenia</link>
+        <description>techwriter.pl Blog</description>
+        <lastBuildDate>Wed, 26 Feb 2025 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>pl</language>
+        <item>
+            <title><![CDATA[Content Bytes #5: Porozmawiajmy o style guides]]></title>
+            <link>https://techwriter.pl/wydarzenia/content-bytes-luty-2025</link>
+            <guid>https://techwriter.pl/wydarzenia/content-bytes-luty-2025</guid>
+            <pubDate>Wed, 26 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Luty, miesiąc miłości!]]></description>
+            <content:encoded><![CDATA[<p>Luty, miesiąc miłości!</p>
+<p>Content Bytes darzy uczuciem wszystko, co związane z tworzeniem treści.
+Uwielbiamy także pasjonatów chętnych do dzielenia się swoją wiedzą i
+inspirowania nas do działania. Takimi osobami są nasi wrocławscy prelegenci,
+których będziemy gościć w Krakowie już 26 lutego w <strong>Ocado</strong>!</p>
+<p><a href="https://www.linkedin.com/in/jan-sosna/" target="_blank" rel="noopener noreferrer">Jan Sosna</a> i
+<a href="https://www.linkedin.com/in/pawel-martin/" target="_blank" rel="noopener noreferrer">Paweł Martin</a> podsuną wam kilka
+pomysłów na style guide, który całkowicie rozpieści waszych programistów i
+pozwoli im na sprawne tworzenie dokumentacji.
+<a href="https://www.linkedin.com/in/lukasztomaszrybka/" target="_blank" rel="noopener noreferrer">Łukasz Rybka</a> podsumuje
+działalność
+<a href="https://saiit.odoo.com/info" target="_blank" rel="noopener noreferrer">Stowarzyszenia Autorów i Ilustratorów Technicznych (SAiIT)</a>
+w roku 2024 oraz podzieli się planami na przyszłość.</p>
+<p>Pamiętajcie o rejestracji, to pozwoli nam na wybór odpowiedniej sali i
+zaplanowanie poczęstunku. Link do formularza znajdziecie
+<a href="https://forms.gle/prUVHCcG67ArJA4K8" target="_blank" rel="noopener noreferrer">tutaj</a>.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="tematy">Tematy<a href="https://techwriter.pl/wydarzenia/content-bytes-luty-2025#tematy" class="hash-link" aria-label="Bezpośredni link do Tematy" title="Bezpośredni link do Tematy">​</a></h2>
+<p><strong><em>To nie jest style guide twojego starego: The Content Design Guide</em></strong></p>
+<p>Czy programiści lubią pisać dokumentację? Czy technical writerzy stosują się do
+własnych wytycznych w zakresie stylu i formy? Czy style guide powinien
+uwzględniać konfigurację narzędzi? Co jest absolutnym <em>must-have</em> w pisaniu w
+sposób przejrzysty i efektywny? Kim są ci tajemniczy <em>language geeks</em> i czy ich
+jedynym zajęciem jest kolekcjonowanie gramatycznych memów?</p>
+<p>No i o co chodzi z tymi kotami?</p>
+<p>Jeżeli siedzisz głęboko w kodzie, ale chcesz podszlifować swoje zdolności
+pisarskie, albo jesteś technical writerem, który chce wspomóc programistów -
+dobry style guide to twój przyjaciel. Podczas swojej prezentacji Jan i Paweł
+pokażą, że dokumentacja wcale nie musi być taka straszna, jak ją malują, ale za
+to może stanowić narzędzie podnoszące efektywność pracy.</p>
+<p><strong><em>Stowarzyszenie Autorów i Ilustratorów Technicznych (SAiIT): podsumowanie 2024
+i plany na 2025</em></strong></p>
+<p>Od momentu założenia w 2024 roku, Stowarzyszenie Autorów i Ilustratorów
+Technicznych (SAiIT) pracuje nad rozwiązaniami, które zwiększą widoczność i
+pozycję technical writerów, ilustratorów oraz designerów na rynku pracy, a także
+zapewnią odpowiednie warunki do zdobywania wiedzy i dzielenia się&nbsp;nią. Łukasz
+Rybka, prezes SAiIT, opowie nam o dotychczasowych osiągnięciach Stowarzyszenia
+oraz planach na rok 2025.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="prelegenci">Prelegenci<a href="https://techwriter.pl/wydarzenia/content-bytes-luty-2025#prelegenci" class="hash-link" aria-label="Bezpośredni link do Prelegenci" title="Bezpośredni link do Prelegenci">​</a></h2>
+<p>Tym razem odwiedzi nas aż trzech prezenterów:</p>
+<p><strong>Jan Sosna</strong></p>
+<p>Jan jest technical writerem w Ocado, a także pasjonatem zdobywania wiedzy i
+dzielenia się nią. Posiada doświadczenie w wielu dziedzinach: od designu, przez
+publiczne wystąpienia, aż do napraw motocykli.</p>
+<p><strong>Paweł Martin</strong></p>
+<p>Paweł na co dzień pracuje w hermetycznym teamie Internal Tech Comms. Jest
+miłośnikiem sporych repozytoriów, cyberpunka, rocka, deskorolek oraz kimchi.</p>
+<p><strong>Łukasz Rybka</strong></p>
+<p>Łukasz zajmuje się tworzeniem treści od 15 lat. Obecnie rozwija swoją własną
+firmę zajmującą się tworzeniem i rozwojem dokumentacji technicznej, a także
+konsultacjami w obrębie tworzenia treści. Łukasz jest jednym z założycieli
+Stowarzyszenia Autorów i Ilustratorów Techniczych (SAiIT), a po godzinach spędza
+czas gotując, jeżdżąc na nartach lub grając w gry symulacyjne.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="kiedy-i-gdzie">Kiedy i gdzie<a href="https://techwriter.pl/wydarzenia/content-bytes-luty-2025#kiedy-i-gdzie" class="hash-link" aria-label="Bezpośredni link do Kiedy i gdzie" title="Bezpośredni link do Kiedy i gdzie">​</a></h2>
+<p><strong>Data</strong>: 26.02.2025 <br> <strong>Godzina</strong>: 18:00 <br> <strong>Miejsce</strong>: Ocado, Pawia
+21, High5ive Building "FOUR" B</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="kilka-słów-o-sponsorach">Kilka słów o sponsorach<a href="https://techwriter.pl/wydarzenia/content-bytes-luty-2025#kilka-s%C5%82%C3%B3w-o-sponsorach" class="hash-link" aria-label="Bezpośredni link do Kilka słów o sponsorach" title="Bezpośredni link do Kilka słów o sponsorach">​</a></h2>
+<p>Piąte spotkanie Content Bytes sponsoruje <strong>Ocado Technology</strong>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="ocado-technology">Ocado Technology<a href="https://techwriter.pl/wydarzenia/content-bytes-luty-2025#ocado-technology" class="hash-link" aria-label="Bezpośredni link do Ocado Technology" title="Bezpośredni link do Ocado Technology">​</a></h3>
+<p><a href="https://careers.ocadogroup.com/locations/europe/development-centre-poland" target="_blank" rel="noopener noreferrer">Ocado Technology</a>
+tworzy produkty dostosowane do unikalnych potrzeb swoich partnerów na całym
+świecie. Poprzez oprogramowanie e-commerce, zautomatyzowane rozwiązania
+magazynowe, robotykę i zoptymalizowaną dostawę, Ocado kształtuje obszar zakupów
+spożywczych online. W Polsce Ocado działa w Krakowie i Wrocławiu, gdzie skupia
+ponad 700 specjalistów w dziedzinie technologii.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="o-nas">O nas<a href="https://techwriter.pl/wydarzenia/content-bytes-luty-2025#o-nas" class="hash-link" aria-label="Bezpośredni link do O nas" title="Bezpośredni link do O nas">​</a></h2>
+<p>Celem <strong>Content Bytes</strong> jest stworzenie przestrzeni, w której twórcy contentu
+mogą wymieniać się doświadczeniami i omawiać tematy związane z tworzeniem
+treści. Według nas content to nie tylko sam proces pisania, ale tak
+naprawdę&nbsp;cały ekosystem uwzględniający UX, UI, design, a także zagadnienia
+dostępności, zarządzania i związanej z nimi technologii.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="skontaktuj-się-z-organizatorem">Skontaktuj się z organizatorem<a href="https://techwriter.pl/wydarzenia/content-bytes-luty-2025#skontaktuj-si%C4%99-z-organizatorem" class="hash-link" aria-label="Bezpośredni link do Skontaktuj się z organizatorem" title="Bezpośredni link do Skontaktuj się z organizatorem">​</a></h3>
+<p>Organizatorom zależy, by spotkania były istotne i przybliżały tematy, które są
+dla Was interesujące. Możecie zgłosić temat, a my dołożymy wszelkich starań, aby
+znaleźć prelegentów, którzy będą mogli o nim porozmawiać. Możecie także sami
+zostać prelegentami na jednym z naszych spotkań.</p>
+<p>Jeżeli jesteście zainteresowani, napiszcie do nas:
+<strong><a href="mailto:contentbytes.krk@gmail.com" target="_blank" rel="noopener noreferrer">contentbytes.krk@gmail.com</a></strong>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="często-zadawane-pytania">Często zadawane pytania<a href="https://techwriter.pl/wydarzenia/content-bytes-luty-2025#cz%C4%99sto-zadawane-pytania" class="hash-link" aria-label="Bezpośredni link do Często zadawane pytania" title="Bezpośredni link do Często zadawane pytania">​</a></h3>
+<p>P: Czy wydarzenie będzie nagrywane lub transmitowane na żywo? <br> O: Na
+chwilę obecną nie. Stawiamy na spotkania na miejscu, gdzie możesz osobiście
+poznać inne osoby zainteresowane contentem.</p>
+<p>P: Czy można udostępnić prezentacje prelegentów? <br> O: To zależy od
+prelegenta. Podczas wydarzenia można jednak zadawać pytania i robić zdjęcia,
+można też zapytać o udostępnienie slajdów.</p>
+<p>P: Zarejestrowałem/am się, ale nie mogę wziąć udziału. Co powinienem/nnam
+zrobić? <br> O: Jeśli wiesz, że nie dasz rady przyjść, daj nam znać pisząc na
+adres <a href="mailto:contentbytes.krk@gmail.com" target="_blank" rel="noopener noreferrer">contentbytes.krk@gmail.com</a>.</p>]]></content:encoded>
+            <category>news</category>
+            <category>meetups</category>
+            <category>społeczność</category>
+            <category>content-bytes</category>
+        </item>
+        <item>
+            <title><![CDATA[Content Bytes #4: Porozmawiajmy o języku]]></title>
+            <link>https://techwriter.pl/wydarzenia/content-bytes-styczen-2025</link>
+            <guid>https://techwriter.pl/wydarzenia/content-bytes-styczen-2025</guid>
+            <pubDate>Mon, 20 Jan 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Nowy rok to nowe contentowe wyzwania!]]></description>
+            <content:encoded><![CDATA[<p>Nowy rok to nowe contentowe wyzwania!</p>
+<p>Naszym noworocznym postanowieniem jest zapewnić Wam najciekawsze tematy i najlepszych prezenterów podczas wydarzeń Content Bytes. A jakie są wasze postanowienia?
+Jeżeli jednym z nich jest „odwiedzić jak najwięcej meetupów”, to jego realizację możecie zacząć od zaraz!
+Już 20 stycznia zapraszamy do <a href="https://www.instagram.com/forte_spaces_krakow/" target="_blank" rel="noopener noreferrer">Forte Spaces</a> na kolejne spotkanie, podczas którego skupimy się na roli języka w tworzeniu treści.</p>
+<p>Tym razem w Forte Spaces będziemy gościć <a href="https://www.linkedin.com/in/anja-wedberg-11361321/" target="_blank" rel="noopener noreferrer">Anję Wedberg</a> i <a href="https://www.linkedin.com/in/kalinatyrkiel/" target="_blank" rel="noopener noreferrer">Kalinę Tyrkiel</a>, które wyjaśnią nam, jak znajomość angielskiego jako drugiego języka wpływa na tworzenie anglojęzycznych treści oraz jak wykorzystać wielojęzyczność w pracy z contentem.</p>
+<p>Pamiętajcie o rejestracji, to pozwoli nam na wybór odpowiedniej sali i
+zaplanowanie poczęstunku. Link do formularza znajdziecie
+<a href="https://forms.gle/6dFGs5Y1U29dS4bw5" target="_blank" rel="noopener noreferrer">tutaj</a>.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="tematy">Tematy<a href="https://techwriter.pl/wydarzenia/content-bytes-styczen-2025#tematy" class="hash-link" aria-label="Bezpośredni link do Tematy" title="Bezpośredni link do Tematy">​</a></h2>
+<p><strong><em>Non-native speaker w świecie anglojęzycznej treści</em></strong></p>
+<p>Jak odnaleźć się jako non-native speaker na rynku zdominowanym przez język angielski? Czy twórcy treści powinni dążyć do poziomu osób anglojęzycznych?
+Czy AI służy nam pomocą, czy przeszkadza w tworzeniu contentu? W swojej prezentacji <strong>Anja Wedberg</strong> odpowie na te i wiele innych pytań, przybliżając nam rolę języka w zmaganiach z contentowymi zagwozdkami.</p>
+<p><strong><em>Polski or English: Jak wykorzystać swój potencjał jako wielojęzyczny twórca treści</em></strong></p>
+<p>Czy zajmujesz się tworzeniem treści jako non-native speaker? Wspaniale! A teraz zastanówmy się, jak możesz wykorzystać znajomość nie jednego, ale wielu języków, które masz w swoim arsenale.
+Nasza druga prezenterka, <strong>Kalina Tyrkiel</strong>, opowie jak łączy znajomość polskiego, angielskiego i hiszpańskiego w swojej pracy, a także podzieli się wskazówkami, które pozwolą Wam w pełni wykorzystać swoje językowe umiejętności.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="prelegenci">Prelegenci<a href="https://techwriter.pl/wydarzenia/content-bytes-styczen-2025#prelegenci" class="hash-link" aria-label="Bezpośredni link do Prelegenci" title="Bezpośredni link do Prelegenci">​</a></h2>
+<p>Tym razem gościmy u nas dwie prezenterki:</p>
+<p><strong>Anja Wedberg</strong></p>
+<p>Anja pracuje jako Senior UX Writer w firmie Dyson, gdzie wspiera rozwój aplikacji do produktów audio i użytku domowego.
+Jak sama mówi, jej ojczystym językiem jest szwedzki, ale to pisanie po angielsku wspomaga jej budżet :)</p>
+<p><strong>Kalina Tyrkiel</strong></p>
+<p>Kalina jest UX writerką z wykształceniem psychologicznym. Obecnie pracuje jako Senior Content Designer w firmie Zendesk.
+Dodatkowo zajmuje się szkoleniami z dziedziny UX writingu, prowadzi wykłady i konsultacje.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="kiedy-i-gdzie">Kiedy i gdzie<a href="https://techwriter.pl/wydarzenia/content-bytes-styczen-2025#kiedy-i-gdzie" class="hash-link" aria-label="Bezpośredni link do Kiedy i gdzie" title="Bezpośredni link do Kiedy i gdzie">​</a></h2>
+<p><strong>Data</strong>: 20.01.2025 <br> <strong>Godzina</strong>: 18:30 <br> <strong>Miejsce</strong>: Forte Spaces, Krupnicza 3, Kraków</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="kilka-słów-o-sponsorach">Kilka słów o sponsorach<a href="https://techwriter.pl/wydarzenia/content-bytes-styczen-2025#kilka-s%C5%82%C3%B3w-o-sponsorach" class="hash-link" aria-label="Bezpośredni link do Kilka słów o sponsorach" title="Bezpośredni link do Kilka słów o sponsorach">​</a></h2>
+<p>Czwarte spotkanie Content Bytes sponsoruje <strong>Forte Digital</strong> i
+<strong>Apify</strong>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="forte-digital">Forte Digital<a href="https://techwriter.pl/wydarzenia/content-bytes-styczen-2025#forte-digital" class="hash-link" aria-label="Bezpośredni link do Forte Digital" title="Bezpośredni link do Forte Digital">​</a></h3>
+<p>W DNA <a href="https://fortedigital.com/pl/" target="_blank" rel="noopener noreferrer">Forte Digital</a> znajdziesz pierwiastek polski, skandynawski i oczywiście technologiczny. Forte Digital powstało w 2017 roku jako owoc udanej współpracy polskich i norweskich założycieli. Od tego czasu z powodzeniem czerpie to co najlepsze ze swoich kultur, a od niedawna w swoich szeregach ma koleżanki i kolegów z Danii oraz Niemiec. Forte Digital skupia się najczęściej na projektach dotyczących obszaru e-commerce w pełnym zakresie realizacji – development i consulting IT oraz design.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="apify">Apify<a href="https://techwriter.pl/wydarzenia/content-bytes-styczen-2025#apify" class="hash-link" aria-label="Bezpośredni link do Apify" title="Bezpośredni link do Apify">​</a></h3>
+<p><a href="https://apify.com/" target="_blank" rel="noopener noreferrer">Apify</a> jest platformą, którą programiści mogą wykorzystać
+do budowania, wdrażania i publikowania narzędzi do web scrapingu, ekstrakcji
+danych i automatyzacji. Apify udostępnia ponad 1500 gotowych narzędzi,
+pozwalając na uzyskanie dodatkowego przychodu poprzez udostępnianie je innym
+użytkownikom. Dodatkowo Apify odpowiada za <a href="https://crawlee.dev/" target="_blank" rel="noopener noreferrer">Crawlee</a>,
+publiczną bibliotekę do web scrapingu.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="o-nas">O nas<a href="https://techwriter.pl/wydarzenia/content-bytes-styczen-2025#o-nas" class="hash-link" aria-label="Bezpośredni link do O nas" title="Bezpośredni link do O nas">​</a></h2>
+<p>Celem <strong>Content Bytes</strong> jest stworzenie przestrzeni, w której twórcy contentu
+mogą wymieniać się doświadczeniami i omawiać tematy związane z tworzeniem
+treści. Według nas content to nie tylko sam proces pisania, ale tak
+naprawdę&nbsp;cały ekosystem uwzględniający UX, UI, design, a także zagadnienia
+dostępności, zarządzania i związanej z nimi technologii.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="skontaktuj-się-z-organizatorem">Skontaktuj się z organizatorem<a href="https://techwriter.pl/wydarzenia/content-bytes-styczen-2025#skontaktuj-si%C4%99-z-organizatorem" class="hash-link" aria-label="Bezpośredni link do Skontaktuj się z organizatorem" title="Bezpośredni link do Skontaktuj się z organizatorem">​</a></h3>
+<p>Organizatorom zależy, by spotkania były istotne i przybliżały tematy, które są
+dla Was interesujące. Możecie zgłosić temat, a my dołożymy wszelkich starań, aby
+znaleźć prelegentów, którzy będą mogli o nim porozmawiać. Możecie także sami
+zostać prelegentami na jednym z naszych spotkań.</p>
+<p>Jeżeli jesteście zainteresowani, napiszcie do nas:
+<strong><a href="mailto:contentbytes.krk@gmail.com" target="_blank" rel="noopener noreferrer">contentbytes.krk@gmail.com</a></strong>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="często-zadawane-pytania">Często zadawane pytania<a href="https://techwriter.pl/wydarzenia/content-bytes-styczen-2025#cz%C4%99sto-zadawane-pytania" class="hash-link" aria-label="Bezpośredni link do Często zadawane pytania" title="Bezpośredni link do Często zadawane pytania">​</a></h3>
+<p>P: Czy wydarzenie będzie nagrywane lub transmitowane na żywo? <br> O: Na
+chwilę obecną nie. Stawiamy na spotkania na miejscu, gdzie możesz osobiście
+poznać inne osoby zainteresowane contentem.</p>
+<p>P: Czy można udostępnić prezentacje prelegentów? <br> O: To zależy od
+prelegenta. Podczas wydarzenia można jednak zadawać pytania i robić zdjęcia,
+można też zapytać o udostępnienie slajdów.</p>
+<p>P: Zarejestrowałem/am się, ale nie mogę wziąć udziału. Co powinienem/nnam
+zrobić? <br> O: Jeśli wiesz, że nie dasz rady przyjść, daj nam znać pisząc na
+adres <a href="mailto:contentbytes.krk@gmail.com" target="_blank" rel="noopener noreferrer">contentbytes.krk@gmail.com</a>.</p>]]></content:encoded>
+            <category>news</category>
+            <category>meetups</category>
+            <category>społeczność</category>
+            <category>content-bytes</category>
+        </item>
+        <item>
+            <title><![CDATA[Content Bytes #3: Porozmawiajmy o wiedzy i umiejętnościach]]></title>
+            <link>https://techwriter.pl/wydarzenia/content-bytes-listopad-2024</link>
+            <guid>https://techwriter.pl/wydarzenia/content-bytes-listopad-2024</guid>
+            <pubDate>Tue, 26 Nov 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Choć jesienno-zimowa zawierucha za oknem sprzyja zagrzebaniu się w fotelu z]]></description>
+            <content:encoded><![CDATA[<p>Choć jesienno-zimowa zawierucha za oknem sprzyja zagrzebaniu się w fotelu z
+ciepłą herbatą, gwarantujemy, że kolejne spotkanie <strong>Content Bytes</strong> jest warte
+wynurzenia się spod kocyka.</p>
+<p>Ponownie szykujemy dla Was dwa tematy, tym razem w obszarze wiedzy i
+umiejętności. Wzbogacanie wiedzy i wykorzystywanie jej z pożytkiem dla siebie i
+innych stanowi ważną częścią kariery, obojętnie, czy właśnie rozpoczynasz swoją
+przygodę z tworzeniem treści, czy też „siedzisz w temacie” od lat.</p>
+<p>Nasi prezenterzy spojrzą na ten temat z dwóch perspektyw:
+<a href="https://www.linkedin.com/in/lis-malgorzata/" target="_blank" rel="noopener noreferrer">Małgorzata Lis</a> opowie jak to jest
+być świeżo upieczoną technical writerką w świecie IT, a
+<a href="https://www.linkedin.com/in/aleksanderpiskorz/" target="_blank" rel="noopener noreferrer">Aleksander Piskorz</a> zdradzi nam
+jak przekuć swoją wiedzę w biznesowe korzyści.</p>
+<p>Tym razem gości nas <strong>Uniwersytet Jagielloński</strong>, a dyskusje uprzyjemnią nam
+przekąski <!-- -->🍕<!-- --> od <strong>Apify</strong>.</p>
+<p>Pamiętajcie o rejestracji, to pozwoli nam na wybór odpowiedniej sali i
+zaplanowanie poczęstunku. Link do formularza znajdziecie
+<a href="https://forms.gle/jNPKssKkdxeuCqMJ6" target="_blank" rel="noopener noreferrer">tutaj</a>.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="tematy">Tematy<a href="https://techwriter.pl/wydarzenia/content-bytes-listopad-2024#tematy" class="hash-link" aria-label="Bezpośredni link do Tematy" title="Bezpośredni link do Tematy">​</a></h2>
+<p><strong><em>Okiem początkującej tech writerki: Moja przygoda ze stażem oraz wskazówki dla
+mentorów</em></strong></p>
+<p>Wejście do świata komunikacji technicznej może wydawać się przytłaczające,
+zwłaszcza dla tych, którzy dopiero rozpoczynają karierę. Aby nieco złagodzić to
+wrażenie, opowiem Wam o moich początkach w zawodzie tech writerki. Pomogą nam w
+tym moje doświadczenia ze stażu. To z nich dowiecie się jak wykorzystać
+najlepsze praktyki w tworzeniu dokumentacji, jakie narzędzia wykorzystać oraz
+jak nabyć umiejętności, które mają znaczenie dla tej roli.</p>
+<p>Prezentację kieruję zarówno do osób nowych w branży, jak i do starszych stażem
+mentorów. Początkujący technical writerzy będą mogli zdobyć nowe doświadczenia,
+a mentorzy zrozumieć oczekiwania i wyzwania, z którymi muszą się mierzyć osoby
+wchodzące w branżę.</p>
+<p><strong><em>Jak przekuć wiedzę w realną wartość biznesową (i nie zwariować)</em></strong></p>
+<p>Powiedzmy sobie szczerze: samo posiadanie wiedzy to za mało. Twój umysł może być
+wypełniony wiedzą, ale nic nie zyskujesz gdy nie dzielisz się nią z innymi. Moja
+prezentacja pokaże Wam jak proste taktyki, działajace nawet jeżeli jesteście
+przysypani górą zadań, pozwolą na przekucie Waszej wiedzy w korzyści biznesowe i
+finansowe. Korzystając z własnych doświadczeń, pokażę Wam jak wykorzystać
+narzędzia i technologie, AI oraz to, co przemawia do mnie najbardziej: jak
+zmienić swój sposób myślenia i nastawienie do zadań.</p>
+<p>Żadnej teorii. Żadnych skomplikowanych strategii. Stawiam na praktyczne
+przykłady, które pozwoliły mnie i moim klientom przejść od sterty
+niedokończonych dokumentów i poczucia, że wszystko co innowacyjne już zostało
+zrobione, do bycia widocznym i cenionym.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="prelegenci">Prelegenci<a href="https://techwriter.pl/wydarzenia/content-bytes-listopad-2024#prelegenci" class="hash-link" aria-label="Bezpośredni link do Prelegenci" title="Bezpośredni link do Prelegenci">​</a></h2>
+<p>Podczas trzeciego spotkania Content Bytes prezentacje poprowadzą:</p>
+<p><strong>Małgorzata Lis</strong></p>
+<p>Małgorzata jest studentką pierwszego roku studiów magisterskich na kierunku
+informatyka stosowana. Stażystką w dziale dokumentacji została na drugim roku
+studiów licencjackich pomimo braku wcześniejszego doświadczenia w komunikacji
+technicznej. Po kolejnym stażu została pełnoprawną technical writerką w IBM i
+pracuje tam już ponad rok. Małgorzata interesuje się językiem, wyszukiwaniem
+informacji oraz kreatywnym podejściem do tworzenia treści. W połączeniu z wiedzą
+zdobytą podczas studiów, te umiejętności i pasje stanowią mieszankę perfekcyjną.
+W wolnym czasie Małgorzata lubi oglądać koreańskie dramy, co pomaga w nauce
+nowego języka, a także maluje pejzaże po numerach.</p>
+<p><strong>Aleksander Piskorz</strong></p>
+<p>Aleksander od ponad dekady zajmuje się dziennikarstwem technologicznym, łącząc
+technologię, ludzi i biznes. Publikuje w wiodących środkach masowego przekazu w
+Polsce, a jego współpraca z firmami takimi jak Meta, Google oraz Huawei,
+pozwoliła mu na odwiedzenie prawie każdego kontynentu i spojrzenie na globalne
+trendy technologiczne z perspektywy “insidera”. Ostatnie pięć lat Aleksandra to
+praca na styku środowiska startupowego i marketingu.</p>
+<p>Aleksander pomaga przedsiębiorcom i ekspertom w dziedzinie technologii przekuć
+umiejętności w treści, które napędzają biznes. Ponadto doradza w tematach
+związanych ze strategią treści i edukuje w zakresie pracy z AI.</p>
+<p>W <a href="https://aihero.pl/" target="_blank" rel="noopener noreferrer">AI Hero</a> Aleksander nadzoruje komunikację biznesową od
+koncepcji do momentu wdrożenia produktu.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="kiedy-i-gdzie">Kiedy i gdzie<a href="https://techwriter.pl/wydarzenia/content-bytes-listopad-2024#kiedy-i-gdzie" class="hash-link" aria-label="Bezpośredni link do Kiedy i gdzie" title="Bezpośredni link do Kiedy i gdzie">​</a></h2>
+<p><strong>Data</strong>: 26.11.2024 <br> <strong>Godzina</strong>: 18:00 <br> <strong>Miejsce</strong>: Filologia
+Angielska Uniwersytetu Jagiellońskiego, ul. Adama Mickiewicza 9A, pokój 105.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="kilka-słów-o-sponsorach">Kilka słów o sponsorach<a href="https://techwriter.pl/wydarzenia/content-bytes-listopad-2024#kilka-s%C5%82%C3%B3w-o-sponsorach" class="hash-link" aria-label="Bezpośredni link do Kilka słów o sponsorach" title="Bezpośredni link do Kilka słów o sponsorach">​</a></h2>
+<p>Trzecie spotkanie Content Bytes sponsoruje <strong>Uniwersytet Jagielloński</strong> i
+<strong>Apify</strong>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="instytut-filologii-angielskiej-uniwersytet-jagielloński">Instytut Filologii Angielskiej, Uniwersytet Jagielloński<a href="https://techwriter.pl/wydarzenia/content-bytes-listopad-2024#instytut-filologii-angielskiej-uniwersytet-jagiello%C5%84ski" class="hash-link" aria-label="Bezpośredni link do Instytut Filologii Angielskiej, Uniwersytet Jagielloński" title="Bezpośredni link do Instytut Filologii Angielskiej, Uniwersytet Jagielloński">​</a></h3>
+<p>Instytut Filologii Angielskiej jest najstarszą placówką anglistyczną w Polsce.
+Główne obiekty Wydziału Filologicznego zlokalizowane są w centrum Krakowa, w
+nowoczesnym kompleksie budynków Collegium Paderevianum wyposażonym w laboratoria
+językowe oraz strefy wypoczynkowe. Biblioteka Wydziału Filologicznego zapewnia
+użytkownikom dostęp do krajowych i światowych zasobów informacji – stanowi
+bowiem nowoczesne centrum informacji dotyczące filologii obcych, historii
+literatury, językoznawstwa, metodyki nauczania, historii, kultury, sztuki oraz
+przekładoznawstwa.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="apify">Apify<a href="https://techwriter.pl/wydarzenia/content-bytes-listopad-2024#apify" class="hash-link" aria-label="Bezpośredni link do Apify" title="Bezpośredni link do Apify">​</a></h3>
+<p><a href="https://apify.com/" target="_blank" rel="noopener noreferrer">Apify</a> jest platformą, którą programiści mogą wykorzystać
+do budowania, wdrażania i publikowania narzędzi do web scrapingu, ekstrakcji
+danych i automatyzacji. Apify udostępnia ponad 1500 gotowych narzędzi,
+pozwalając na uzyskanie dodatkowego przychodu poprzez udostępnianie je innym
+użytkownikom. Dodatkowo Apify odpowiada za <a href="https://crawlee.dev/" target="_blank" rel="noopener noreferrer">Crawlee</a>,
+publiczną bibliotekę do web scrapingu.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="o-nas">O nas<a href="https://techwriter.pl/wydarzenia/content-bytes-listopad-2024#o-nas" class="hash-link" aria-label="Bezpośredni link do O nas" title="Bezpośredni link do O nas">​</a></h2>
+<p>Celem <strong>Content Bytes</strong> jest stworzenie przestrzeni, w której twórcy contentu
+mogą wymieniać się doświadczeniami i omawiać tematy związane z tworzeniem
+treści. Według nas content to nie tylko sam proces pisania, ale tak
+naprawdę&nbsp;cały ekosystem uwzględniający UX, UI, design, a także zagadnienia
+dostępności, zarządzania i związanej z nimi technologii.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="skontaktuj-się-z-organizatorem">Skontaktuj się z organizatorem<a href="https://techwriter.pl/wydarzenia/content-bytes-listopad-2024#skontaktuj-si%C4%99-z-organizatorem" class="hash-link" aria-label="Bezpośredni link do Skontaktuj się z organizatorem" title="Bezpośredni link do Skontaktuj się z organizatorem">​</a></h3>
+<p>Organizatorom zależy, by spotkania były istotne i przybliżały tematy, które są
+dla Was interesujące. Możecie zgłosić temat, a my dołożymy wszelkich starań, aby
+znaleźć prelegentów, którzy będą mogli o nim porozmawiać. Możecie także sami
+zostać prelegentami na jednym z naszych spotkań.</p>
+<p>Jeżeli jesteście zainteresowani, napiszcie do nas:
+<strong><a href="mailto:contentbytes.krk@gmail.com" target="_blank" rel="noopener noreferrer">contentbytes.krk@gmail.com</a></strong>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="często-zadawane-pytania">Często zadawane pytania<a href="https://techwriter.pl/wydarzenia/content-bytes-listopad-2024#cz%C4%99sto-zadawane-pytania" class="hash-link" aria-label="Bezpośredni link do Często zadawane pytania" title="Bezpośredni link do Często zadawane pytania">​</a></h3>
+<p>P: Czy wydarzenie będzie nagrywane lub transmitowane na żywo? <br> O: Na
+chwilę obecną nie. Stawiamy na spotkania na miejscu, gdzie możesz osobiście
+poznać inne osoby zainteresowane contentem.</p>
+<p>P: Czy można udostępnić prezentacje prelegentów? <br> O: To zależy od
+prelegenta. Podczas wydarzenia można jednak zadawać pytania i robić zdjęcia,
+można też zapytać o udostępnienie slajdów.</p>
+<p>P: Zarejestrowałem/am się, ale nie mogę wziąć udziału. Co powinienem/nnam
+zrobić? <br> O: Jeśli wiesz, że nie dasz rady przyjść, daj nam znać pisząc na
+adres <a href="mailto:contentbytes.krk@gmail.com" target="_blank" rel="noopener noreferrer">contentbytes.krk@gmail.com</a>.</p>]]></content:encoded>
+            <category>news</category>
+            <category>meetups</category>
+            <category>społeczność</category>
+            <category>content-bytes</category>
+        </item>
+        <item>
+            <title><![CDATA[Content Bytes x girls.js: Porozmawiajmy o dostępności]]></title>
+            <link>https://techwriter.pl/wydarzenia/content-bytes-girlsjs-promo</link>
+            <guid>https://techwriter.pl/wydarzenia/content-bytes-girlsjs-promo</guid>
+            <pubDate>Sun, 20 Oct 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Choć na zewnątrz robi się już coraz ciemniej (i straszniej), ekipa]]></description>
+            <content:encoded><![CDATA[<p>Choć na zewnątrz robi się już coraz ciemniej (i straszniej <!-- -->👻<!-- -->), ekipa
+Content Bytes nie boi się nowych wyzwań, zwłaszcza gdy u boku mamy <strong>girls.js</strong>!
+Współpraca ta pozwala nam jeszcze w tym miesiącu powrócić z kolejnym
+wydarzeniem, tym razem poświęconym tematyce <strong>dostępności treści</strong>.</p>
+<p>Podczas spotkania <a href="https://www.linkedin.com/in/olgastefaniuk" target="_blank" rel="noopener noreferrer">Olga Stefaniuk</a>,
+<a href="https://www.linkedin.com/in/justi-sztyper-134520a5/" target="_blank" rel="noopener noreferrer">Justi Sztyper</a> oraz
+<a href="https://www.linkedin.com/in/zuzanna-szott/" target="_blank" rel="noopener noreferrer">Zuzanna Szott</a> opowiedzą między
+innymi o tym, czy tworzone treści mogą być dostępne dla wszystkich, jak
+neuroróżnorodni użytkownicy pracują z contentem i aplikacjami oraz jak
+dostępność wpływa zarówno na twórców treści i tych, którzy z nich korzystają.</p>
+<p>Po prezentacjach zapraszamy na mały poczęstunek oraz wymianę doświadczeń i
+opinii <!-- -->🍕<!-- -->.</p>
+<p>Pamiętajcie o rejestracji, to pozwoli nam na wybór odpowiedniej sali i
+zaplanowanie poczęstunku. Link do formularza znajdziecie
+<a href="https://forms.gle/zrkjELLFSufHaZEb6" target="_blank" rel="noopener noreferrer">tutaj</a>.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="tematy">Tematy<a href="https://techwriter.pl/wydarzenia/content-bytes-girlsjs-promo#tematy" class="hash-link" aria-label="Bezpośredni link do Tematy" title="Bezpośredni link do Tematy">​</a></h2>
+<p><strong><em>Moje prawo to twoje lewo. Czy istnieją treści użyteczne dla wszystkich?</em></strong></p>
+<p>Słowa kształtują rzeczywistość – tę cyfrową również. Z ich pomocą możemy
+wspierać lub wykluczać całe grupy użytkowników naszych produktów, dlatego warto
+robić to świadomie. Podczas prelekcji porozmawiamy o tym, jak identyfikować
+językowe potrzeby i problemy użytkowników oraz jakich narzędzi używać, żeby
+odpowiednio na nie reagować.</p>
+<p><strong><em>Dostępność kognitywna i neuroróżnorodność w pracy z treścią i aplikacjami
+webowymi</em></strong></p>
+<p>W swojej prezentacji Olga i Justi poruszą zagadnienia neuroróżnorodności oraz
+dostępności kognitywnej. Dowiecie się, jak neuroróżnorodni użytkownicy pracują z
+tresciami i aplikacjami webowymi, co może być dla nich problematyczne i jak temu
+zaradzić. Dodatkowo, poznacie najlepsze praktyki stosowane w tworzeniu
+dostępnych aplikacji i treści oraz zalecenia Web Content Accessibility
+Guidelines (WCAG) w kontekście dostępności.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="prelegenci">Prelegenci<a href="https://techwriter.pl/wydarzenia/content-bytes-girlsjs-promo#prelegenci" class="hash-link" aria-label="Bezpośredni link do Prelegenci" title="Bezpośredni link do Prelegenci">​</a></h2>
+<p>Prezentacje poprowadzą:</p>
+<ul>
+<li><strong>Olga Stefaniuk</strong>: Jako developer advocate, Olga łączy pasję do dzielenia się
+wiedzą, tworzenia społeczności i programowania, a także zainteresowania w
+obszarach dostępności w aplikacjach webowych oraz kognitywistyki. Olga jest
+również team leaderką w girls.js, gdzie wspiera kobiety wchodzące w świat IT.</li>
+<li><strong>Justi Sztyper</strong>: Justi zajmuje się dokumentacją od wielu lat, dbając o to,
+aby tworzone treści były jak najbardziej dostępne dla użytkowników. W pracy
+technical writera Justi najbardziej ceni sobie podejście docs-as-code.</li>
+<li><strong>Zuzanna Szott</strong>: Projektantka, badaczka i socjolożka na co dzień pracująca w
+agencji projektowo-badawczej Mobee Dick. W swojej pracy wdraża inkluzywne i
+dostępne rozwiązania do produktów cyfrowych, dba o neutralny i włączający
+język oraz edukuje innych o tym, jak nie dyskryminować za pomocą języka. W
+swojej pracy łączy wymagania biznesowe i technologiczne z dbałością o
+końcowych, różnorodnych użytkowników i użytkowniczki projektowanych produktów.
+Związana z AGH organizatorka wydarzeń z zakresu edukacji i kultury, prywatnie
+zainteresowana technologią, literaturą i polityką.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="kiedy-i-gdzie">Kiedy i gdzie<a href="https://techwriter.pl/wydarzenia/content-bytes-girlsjs-promo#kiedy-i-gdzie" class="hash-link" aria-label="Bezpośredni link do Kiedy i gdzie" title="Bezpośredni link do Kiedy i gdzie">​</a></h2>
+<p><strong>Data</strong>: 30.10.2024 <br> <strong>Godzina</strong>: 18:00 <br> <strong>Miejsce</strong>: GPC Global
+Technology Center, Lubicz 23/a, Kraków</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="kilka-słów-o-sponsorach-i-partnerach">Kilka słów o sponsorach i partnerach<a href="https://techwriter.pl/wydarzenia/content-bytes-girlsjs-promo#kilka-s%C5%82%C3%B3w-o-sponsorach-i-partnerach" class="hash-link" aria-label="Bezpośredni link do Kilka słów o sponsorach i partnerach" title="Bezpośredni link do Kilka słów o sponsorach i partnerach">​</a></h2>
+<p>Październikowe spotkanie sponsorowane jest przez <strong>GPC Global Technology
+Center</strong>, a partnerują nam <strong>girls.js</strong>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="gpc-global-technology-center">GPC Global Technology Center<a href="https://techwriter.pl/wydarzenia/content-bytes-girlsjs-promo#gpc-global-technology-center" class="hash-link" aria-label="Bezpośredni link do GPC Global Technology Center" title="Bezpośredni link do GPC Global Technology Center">​</a></h3>
+<p><a href="https://www.genpt.com/" target="_blank" rel="noopener noreferrer">Genuine Parts Company (GPC)</a> jest globalnym liderem
+dystrybucji części samochodowych i przemysłowych. Globalne Centrum Technologii
+GPC w Krakowie, powstałe w 2022 roku, pełni rolę centrum badań i rozwoju,
+wspierając GPC w zakresie transformacji cyfrowej. Inżynierowie GCP pracują nad
+zaawansowanymi technologiami i rozwiązaniami usprawniającymi działalność i
+rozwój GPC. Ich praca obejmuje różne obszary, w tym handel elektroniczny i
+platformy danych, rozwiązania w zakresie łańcucha dostaw, systemy sprzedaży i
+bezpieczeństwo cybernetyczne.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="girlsjs">girls.js<a href="https://techwriter.pl/wydarzenia/content-bytes-girlsjs-promo#girlsjs" class="hash-link" aria-label="Bezpośredni link do girls.js" title="Bezpośredni link do girls.js">​</a></h3>
+<p><a href="https://girlsjs.pl/" target="_blank" rel="noopener noreferrer">girls.js</a> to inicjatywa, której celem jest przyciągnięcie
+kobiet do IT. Poprzez zachęcenie do kodowania, organizatorzy chcą zaszczepić w
+kobietach pasję do nowych technologii i pokazać, że świat IT stoi przed nimi
+otworem. Założenia inicjatywy realizowane są poprzez spotkania i warsztaty dla
+kobiet.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="o-nas">O nas<a href="https://techwriter.pl/wydarzenia/content-bytes-girlsjs-promo#o-nas" class="hash-link" aria-label="Bezpośredni link do O nas" title="Bezpośredni link do O nas">​</a></h2>
+<p>Celem <strong>Content Bytes</strong> jest stworzenie przestrzeni, w której twórcy contentu
+mogą wymieniać się doświadczeniami i omawiać tematy związane z tworzeniem
+treści. Według nas, content to nie tylko sam proces pisania, ale tak
+naprawdę&nbsp;cały ekosystem uwzględniający UX, UI, design, a także zagadnienia
+dostępności, zarządzania i związanej z nimi technologii.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="skontaktuj-się-z-organizatorem">Skontaktuj się z organizatorem<a href="https://techwriter.pl/wydarzenia/content-bytes-girlsjs-promo#skontaktuj-si%C4%99-z-organizatorem" class="hash-link" aria-label="Bezpośredni link do Skontaktuj się z organizatorem" title="Bezpośredni link do Skontaktuj się z organizatorem">​</a></h3>
+<p>Organizatorom zależy, by spotkania były istotne i przybliżały tematy, które są
+dla Was interesujące. Możecie zgłosić temat, a my dołożymy wszelkich starań, aby
+znaleźć prelegentów, którzy będą mogli o nim porozmawiać. Możecie także sami
+zostać prelegentami na jednym z naszych spotkań.</p>
+<p>Jeżeli jesteście zainteresowani, napiszcie do nas:
+<a href="mailto:contentbytes.krk@gmail.com" target="_blank" rel="noopener noreferrer">contentbytes.krk@gmail.com</a>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="często-zadawane-pytania">Często zadawane pytania<a href="https://techwriter.pl/wydarzenia/content-bytes-girlsjs-promo#cz%C4%99sto-zadawane-pytania" class="hash-link" aria-label="Bezpośredni link do Często zadawane pytania" title="Bezpośredni link do Często zadawane pytania">​</a></h3>
+<p>P: Czy wydarzenie będzie nagrywane lub transmitowane na żywo? <br> O: Na
+chwilę obecną nie. Stawiamy na spotkania na miejscu, gdzie możesz osobiście
+poznać inne osoby zainteresowane contentem.</p>
+<p>P: Czy można udostępnić prezentacje prelegentów? <br> O: To zależy od
+prelegenta. Podczas wydarzenia można jednak zadawać pytania i robić zdjęcia,
+można też zapytać o udostępnienie slajdów.</p>
+<p>P: Zarejestrowałem/am się, ale nie mogę wziąć udziału. Co powinienem/nnam
+zrobić? <br> O: Jeśli wiesz, że nie dasz rady przyjść, daj nam znać pisząc na
+adres <a href="mailto:contentbytes.krk@gmail.com" target="_blank" rel="noopener noreferrer">contentbytes.krk@gmail.com</a>.</p>]]></content:encoded>
+            <category>news</category>
+            <category>meetups</category>
+            <category>społeczność</category>
+            <category>content-bytes</category>
+        </item>
+        <item>
+            <title><![CDATA[Content Bytes: Nowe wydarzenie na contentowej mapie!]]></title>
+            <link>https://techwriter.pl/wydarzenia/content-bytes-pazdziernik-2024</link>
+            <guid>https://techwriter.pl/wydarzenia/content-bytes-pazdziernik-2024</guid>
+            <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Upalne lato już za nami, ale ekipa Content Bytes nie próżnuje, dbając o]]></description>
+            <content:encoded><![CDATA[<p>Upalne lato już za nami, ale ekipa <strong>Content Bytes</strong> nie próżnuje, dbając o
+skuteczne podgrzanie atmosfery tej jesieni. Już za tydzień mamy dla was nie
+jeden, a dwa tematy :) Podczas spotkania porozmawiamy o dokumentacji API oraz
+przyszłości twórców contentu w świecie dynamicznie zmieniających się produktów.
+Ugości nas <strong>Forte Spaces</strong>, a dyskusje uprzyjemnią nam przekąski <!-- -->🍕<!-- --> od
+<strong>Apify</strong>.</p>
+<p>Tematy przybliżą wam
+<a href="https://www.linkedin.com/in/barbara-szwarc" target="_blank" rel="noopener noreferrer"><strong>Barbara Czyż</strong></a> oraz
+<a href="https://www.linkedin.com/in/pawelchlodnicki/" target="_blank" rel="noopener noreferrer"><strong>Paweł Chłodnicki</strong></a>.</p>
+<p>Pamiętajcie o rejestracji, to pozwoli nam na wybór odpowiedniej sali i
+zaplanowanie poczęstunku. Link do formularza znajdziecie
+<a href="https://forms.gle/NzEDRbvS1gWDZY3D8" target="_blank" rel="noopener noreferrer">tutaj</a>.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="tematy">Tematy<a href="https://techwriter.pl/wydarzenia/content-bytes-pazdziernik-2024#tematy" class="hash-link" aria-label="Bezpośredni link do Tematy" title="Bezpośredni link do Tematy">​</a></h2>
+<p><strong><em>Dokumentacja API: Z czym to się je?</em></strong></p>
+<p>Dokumentacja API to temat, wokół którego krąży obecnie wiele pytań:</p>
+<ul>
+<li>Kto powinien dokumentować API?</li>
+<li>Jak zaplanować content, żeby dokumentacja była pomocna i sensownie
+ustrukturyzowana?</li>
+<li>Jakimi standardami powinni się kierować technical writerzy?</li>
+</ul>
+<p>Opierając się na przykładach, omówimy proces, w którym pomysł na nowe API staje
+się udokumentowaną specyfikacją. Podczas prezentacji zapoznacie się z
+narzędziami, praktykami oraz technikami współpracy, które pomagają nam tworzyć
+dokumentację do API.</p>
+<p><strong><em>Rola i przyszłość twórców contentu w tworzeniu produktu</em></strong></p>
+<p>Pojęcie <strong>content</strong> przywołuje różne skojarzenia, często zależne od kontekstu, w
+którym zostało użyte. W swojej prezentacji, Paweł opowie nam jak content jest
+postrzegany przez pryzmat firmy, zespołu, momentu w rozwoju produktu, a także
+wcześniej wspomnianego <strong>kontekstu</strong>. Wspólnie zastanowimy się, jak te
+okoliczności mogą mieć pozytywny wpływ zarówno na twórców, jak i odbiorców
+tworzonych treści.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="prelegenci">Prelegenci<a href="https://techwriter.pl/wydarzenia/content-bytes-pazdziernik-2024#prelegenci" class="hash-link" aria-label="Bezpośredni link do Prelegenci" title="Bezpośredni link do Prelegenci">​</a></h2>
+<p>Podczas pierwszego spotkania Content Bytes prezentacje poprowadzą:</p>
+<ul>
+<li>
+<p><strong>Barbara Czyż</strong>: Barbara jest dociekliwą technical writerką, pasjonującą się
+podejściem docs-as-code i światem API. Po przygodach z DITA i Markdown
+dołączyła do Boxa, by tworzyć dokumentację programistyczną i zacieśniać
+relacje z API i kodem.</p>
+</li>
+<li>
+<p><strong>Paweł Chłodnicki</strong>: Paweł swoją karierę rozpoczął na stanowisku technical
+writera, a obecnie pracuje jako Content Designer w Docplanner, Doświadczenie
+zdobywa od 15 lat, zaczynając od tłumaczeń i lokalizacji, aby po czasie
+odnaleźć się w obszarze UX oraz product designu.</p>
+</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="kiedy-i-gdzie">Kiedy i gdzie<a href="https://techwriter.pl/wydarzenia/content-bytes-pazdziernik-2024#kiedy-i-gdzie" class="hash-link" aria-label="Bezpośredni link do Kiedy i gdzie" title="Bezpośredni link do Kiedy i gdzie">​</a></h2>
+<p><strong>Data</strong>: 03.10.2024 <br> <strong>Godzina</strong>: 18:00 <br> <strong>Miejsce</strong>: Forte Spaces,
+Krupnicza 3, Kraków</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="kilka-słów-o-sponsorach">Kilka słów o sponsorach<a href="https://techwriter.pl/wydarzenia/content-bytes-pazdziernik-2024#kilka-s%C5%82%C3%B3w-o-sponsorach" class="hash-link" aria-label="Bezpośredni link do Kilka słów o sponsorach" title="Bezpośredni link do Kilka słów o sponsorach">​</a></h2>
+<p>Pierwsze spotkanie Content Bytes jest sponsorowane przez <strong>Forte Digital</strong> i
+<strong>Apify</strong>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="forte-digital">Forte Digital<a href="https://techwriter.pl/wydarzenia/content-bytes-pazdziernik-2024#forte-digital" class="hash-link" aria-label="Bezpośredni link do Forte Digital" title="Bezpośredni link do Forte Digital">​</a></h3>
+<p>W DNA Forte Digital znajdziesz pierwiastek polski, skandynawski i oczywiście
+technologiczny. Forte Digital powstało w 2017 roku jako owoc udanej współpracy
+polskich i norweskich założycieli. Od tego czasu z powodzeniem czerpie to, co
+najlepsze ze swoich kultur, a od niedawna w swoich szeregach ma koleżanki i
+kolegów z Danii oraz Niemiec. Forte Digital skupia się najczęściej na projektach
+dotyczących obszaru e-commerce w pełnym zakresie realizacji – development i
+consulting IT oraz design.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="apify">Apify<a href="https://techwriter.pl/wydarzenia/content-bytes-pazdziernik-2024#apify" class="hash-link" aria-label="Bezpośredni link do Apify" title="Bezpośredni link do Apify">​</a></h3>
+<p><a href="https://apify.com/" target="_blank" rel="noopener noreferrer">Apify</a> jest platformą, którą programiści mogą wykorzystać
+do budowania, wdrażania i publikowania narzędzi do web scrapingu, ekstrakcji
+danych i automatyzacji. Apify udostępnia ponad 1500 gotowych narzędzi,
+pozwalając na uzyskanie dodatkowego przychodu poprzez udostępnianie je innym
+użytkownikom. Dodatkowo Apify odpowiada za <a href="https://crawlee.dev/" target="_blank" rel="noopener noreferrer">Crawlee</a>,
+publiczną bibliotekę do web scrapingu.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="o-nas">O nas<a href="https://techwriter.pl/wydarzenia/content-bytes-pazdziernik-2024#o-nas" class="hash-link" aria-label="Bezpośredni link do O nas" title="Bezpośredni link do O nas">​</a></h2>
+<p>Celem <strong>Content Bytes</strong> jest stworzenie przestrzeni, w której twórcy contentu
+mogą wymieniać się doświadczeniami i omawiać tematy związane z tworzeniem
+treści. Według nas, content to nie tylko sam proces pisania, ale tak
+naprawdę&nbsp;cały ekosystem uwzględniający UX, UI, design, a także zagadnienia
+dostępności, zarządzania i związanej z nimi technologii.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="skontaktuj-się-z-organizatorem">Skontaktuj się z organizatorem<a href="https://techwriter.pl/wydarzenia/content-bytes-pazdziernik-2024#skontaktuj-si%C4%99-z-organizatorem" class="hash-link" aria-label="Bezpośredni link do Skontaktuj się z organizatorem" title="Bezpośredni link do Skontaktuj się z organizatorem">​</a></h3>
+<p>Organizatorom zależy, by spotkania były istotne i przybliżały tematy, które są
+dla Was interesujące. Możecie zgłosić temat, a my dołożymy wszelkich starań, aby
+znaleźć prelegentów, którzy będą mogli o nim porozmawiać. Możecie także sami
+zostać prelegentami na jednym z naszych spotkań.</p>
+<p>Jeżeli jesteście zainteresowani, napiszcie do nas:
+<strong><a href="mailto:contentbytes.krk@gmail.com" target="_blank" rel="noopener noreferrer">contentbytes.krk@gmail.com</a></strong>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="często-zadawane-pytania">Często zadawane pytania<a href="https://techwriter.pl/wydarzenia/content-bytes-pazdziernik-2024#cz%C4%99sto-zadawane-pytania" class="hash-link" aria-label="Bezpośredni link do Często zadawane pytania" title="Bezpośredni link do Często zadawane pytania">​</a></h3>
+<p>P: Czy wydarzenie będzie nagrywane lub transmitowane na żywo? <br> O: Na
+chwilę obecną nie. Stawiamy na spotkania na miejscu, gdzie możesz osobiście
+poznać inne osoby zainteresowane contentem.</p>
+<p>P: Czy można udostępnić prezentacje prelegentów? <br> O: To zależy od
+prelegenta. Podczas wydarzenia można jednak zadawać pytania i robić zdjęcia,
+można też zapytać o udostępnienie slajdów.</p>
+<p>P: Zarejestrowałem/am się, ale nie mogę wziąć udziału. Co powinienem/nnam
+zrobić? <br> O: Jeśli wiesz, że nie dasz rady przyjść, daj nam znać pisząc na
+adres <a href="mailto:contentbytes.krk@gmail.com" target="_blank" rel="noopener noreferrer">contentbytes.krk@gmail.com</a>.</p>]]></content:encoded>
+            <category>news</category>
+            <category>meetups</category>
+            <category>społeczność</category>
+            <category>content-bytes</category>
+        </item>
+        <item>
+            <title><![CDATA[#ContentDay: Program wydarzenia ]]></title>
+            <link>https://techwriter.pl/wydarzenia/meet-content-krk-content-day-agenda</link>
+            <guid>https://techwriter.pl/wydarzenia/meet-content-krk-content-day-agenda</guid>
+            <pubDate>Sat, 08 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Zapraszamy do zapoznania się z]]></description>
+            <content:encoded><![CDATA[<p>Zapraszamy do zapoznania się z
+<a href="https://meetcontent.github.io/full-day/#schedule" target="_blank" rel="noopener noreferrer">agendą</a> #ContentDay.
+Znajdziecie w niej informacje o prezentacjach, warsztatach oraz przebiegu
+wydarzenia.</p>
+<p>Nadal możecie zapisać się na warsztat
+<a href="https://meetcontent.github.io/full-day/#workshops" target="_blank" rel="noopener noreferrer"><strong>Designing and writing</strong></a>
+oraz prezentacje. Zapraszamy!</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="kiedy-i-gdzie">Kiedy i gdzie<a href="https://techwriter.pl/wydarzenia/meet-content-krk-content-day-agenda#kiedy-i-gdzie" class="hash-link" aria-label="Bezpośredni link do Kiedy i gdzie" title="Bezpośredni link do Kiedy i gdzie">​</a></h3>
+<p><strong>Data</strong>: 08.06.2024 <br> <strong>Miejsce</strong>: Collegium Paderevianum, al. Mickiewicza
+9, Kraków</p>
+<p>Dokładne informacje o salach podamy przed wydarzeniem.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="słowo-o-sponsorach">Słowo o sponsorach<a href="https://techwriter.pl/wydarzenia/meet-content-krk-content-day-agenda#s%C5%82owo-o-sponsorach" class="hash-link" aria-label="Bezpośredni link do Słowo o sponsorach" title="Bezpośredni link do Słowo o sponsorach">​</a></h3>
+<p>#ContentDay sponsorują <a href="https://apify.com/" target="_blank" rel="noopener noreferrer">Apify</a> oraz
+<a href="https://www.box.com/" target="_blank" rel="noopener noreferrer">Box</a>.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="poznaj-meetcontentkrk">Poznaj MeetContentKRK<a href="https://techwriter.pl/wydarzenia/meet-content-krk-content-day-agenda#poznaj-meetcontentkrk" class="hash-link" aria-label="Bezpośredni link do Poznaj MeetContentKRK" title="Bezpośredni link do Poznaj MeetContentKRK">​</a></h2>
+<p>MeetContentKRK to odgałęzienie dobrze znanej konferencji soap!. Wspólnie z
+MeetContentWRO dążymy do stworzenia społeczności profesjonalistów pracujących z
+treściami produktowymi w obszarach Tech i IT.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="skontaktuj-się-z-organizatorem">Skontaktuj się z organizatorem<a href="https://techwriter.pl/wydarzenia/meet-content-krk-content-day-agenda#skontaktuj-si%C4%99-z-organizatorem" class="hash-link" aria-label="Bezpośredni link do Skontaktuj się z organizatorem" title="Bezpośredni link do Skontaktuj się z organizatorem">​</a></h3>
+<p>Organizatorom zależy, by spotkania były istotne i przybliżały tematy, które są
+dla Was interesujące. Możecie zgłosić temat, a my dołożymy wszelkich starań, aby
+znaleźć prelegentów, którzy będą mogli o nim porozmawiać. Możecie także sami
+zostać prelegentami na jednym z naszych spotkań.</p>
+<p>Osoby zainteresowane mogą dołączyć do MeetContent na
+<a href="https://meetcontent.slack.com/" target="_blank" rel="noopener noreferrer">Slacku</a>, aby być na bieżąco z nadchodzącymi
+wydarzeniami i proponować nowe tematy.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="często-zadawane-pytania">Często zadawane pytania<a href="https://techwriter.pl/wydarzenia/meet-content-krk-content-day-agenda#cz%C4%99sto-zadawane-pytania" class="hash-link" aria-label="Bezpośredni link do Często zadawane pytania" title="Bezpośredni link do Często zadawane pytania">​</a></h3>
+<p>P: Czy wydarzenie będzie nagrywane lub transmitowane na żywo? <br> O: Na
+chwilę obecną nie. Stawiamy na spotkania na miejscu gdzie możesz osobiście
+poznać inne osoby zainteresowane contentem.</p>
+<p>P: Czy można udostępnić prezentacje prelegentów? <br> O: To zależy od
+prelegenta. Podczas wydarzenia można jednak zadawać pytania i robić zdjęcia,
+można też zapytać o udostępnienie slajdów.</p>
+<p>P: Zarejestrowałem/am się, ale nie mogę wziąć udziału. Co powinienem/nnam
+zrobić? <br> O: Jeśli wiesz, że nie dasz rady przyjść, daj nam znać. Możesz to
+zrobić pisząc na adres <a href="mailto:contact@meetcontent.org" target="_blank" rel="noopener noreferrer">contact@meetcontent.org</a> lub wysyłając wiadomość na
+<a href="https://meetcontent.slack.com/" target="_blank" rel="noopener noreferrer">Slacku</a>.</p>
+<p>P: Spóźniłem/am się na wydarzenie i nie mogę wejść. Jak powiadomić
+organizatorów? O: Możesz napisać do nas na Slacku. Podczas każdego wydarzenia,
+przez pierwsze 30 minut od rozpoczęcia na bieżąco sprawdzamy wiadomości na
+naszym kanale .</p>]]></content:encoded>
+            <category>meetcontent</category>
+            <category>społeczność</category>
+            <category>meetups</category>
+        </item>
+    </channel>
+</rss>

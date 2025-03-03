@@ -2,79 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://techwriter.pl/</id>
     <title>techwriter.pl Blog</title>
-    <updated>2025-02-20T00:00:00.000Z</updated>
+    <updated>2025-02-12T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://techwriter.pl/"/>
     <subtitle>techwriter.pl Blog</subtitle>
     <icon>https://techwriter.pl/img/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Content Bytes #5: Porozmawiajmy o style guides]]></title>
-        <id>https://techwriter.pl/content-bytes-luty-2025</id>
-        <link href="https://techwriter.pl/content-bytes-luty-2025"/>
-        <updated>2025-02-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Luty, miesiąc miłości!]]></summary>
-        <content type="html"><![CDATA[<p>Luty, miesiąc miłości!</p>
-<p>Content Bytes darzy uczuciem wszystko, co związane z tworzeniem treści. Uwielbiamy także pasjonatów chętnych do dzielenia się swoją wiedzą i inspirowania nas do działania. Takimi osobami są nasi wrocławscy prelegenci, których będziemy gościć w Krakowie już 26 lutego w <strong>Ocado</strong>!</p>
-<p><a href="https://www.linkedin.com/in/jan-sosna/" target="_blank" rel="noopener noreferrer">Jan Sosna</a> i <a href="https://www.linkedin.com/in/pawel-martin/" target="_blank" rel="noopener noreferrer">Paweł Martin</a> podsuną wam kilka pomysłów na style guide, który całkowicie rozpieści waszych programistów i pozwoli im na sprawne tworzenie dokumentacji.
-<a href="https://www.linkedin.com/in/lukasztomaszrybka/" target="_blank" rel="noopener noreferrer">Łukasz Rybka</a> podsumuje działalność <a href="https://saiit.odoo.com/info" target="_blank" rel="noopener noreferrer">Stowarzyszenia Autorów i Ilustratorów Technicznych (SAiIT)</a> w roku 2024 oraz podzieli się planami na przyszłość.</p>
-<p>Pamiętajcie o rejestracji, to pozwoli nam na wybór odpowiedniej sali i
-zaplanowanie poczęstunku. Link do formularza znajdziecie
-<a href="https://forms.gle/prUVHCcG67ArJA4K8" target="_blank" rel="noopener noreferrer">tutaj</a>.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="tematy">Tematy<a href="https://techwriter.pl/content-bytes-luty-2025#tematy" class="hash-link" aria-label="Bezpośredni link do Tematy" title="Bezpośredni link do Tematy">​</a></h2>
-<p><strong><em>To nie jest style guide twojego starego: The Content Design Guide</em></strong></p>
-<p>Czy programiści lubią pisać dokumentację? Czy technical writerzy stosują się do własnych wytycznych w zakresie stylu i formy?
-Czy style guide powinien uwzględniać konfigurację narzędzi? Co jest absolutnym <em>must-have</em> w pisaniu w sposób przejrzysty i efektywny?
-Kim są ci tajemniczy <em>language geeks</em> i czy ich jedynym zajęciem jest kolekcjonowanie gramatycznych memów?</p>
-<p>No i o co chodzi z tymi kotami?</p>
-<p>Jeżeli siedzisz głęboko w kodzie, ale chcesz podszlifować swoje zdolności pisarskie, albo jesteś technical writerem, który chce wspomóc programistów - dobry style guide to twój przyjaciel. Podczas swojej prezentacji Jan i Paweł pokażą, że dokumentacja wcale nie musi być taka straszna, jak ją malują, ale za to może stanowić narzędzie podnoszące efektywność pracy.</p>
-<p><strong><em>Stowarzyszenie Autorów i Ilustratorów Technicznych (SAiIT): podsumowanie 2024 i plany na 2025</em></strong></p>
-<p>Od momentu założenia w 2024 roku, Stowarzyszenie Autorów i Ilustratorów Technicznych (SAiIT) pracuje nad rozwiązaniami, które zwiększą widoczność i pozycję technical writerów, ilustratorów oraz designerów na rynku pracy, a także zapewnią odpowiednie warunki do zdobywania wiedzy i dzielenia się&nbsp;nią.
-Łukasz Rybka, prezes SAiIT, opowie nam o dotychczasowych osiągnięciach Stowarzyszenia oraz planach na rok 2025.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="prelegenci">Prelegenci<a href="https://techwriter.pl/content-bytes-luty-2025#prelegenci" class="hash-link" aria-label="Bezpośredni link do Prelegenci" title="Bezpośredni link do Prelegenci">​</a></h2>
-<p>Tym razem odwiedzi nas aż trzech prezenterów:</p>
-<p><strong>Jan Sosna</strong></p>
-<p>Jan jest technical writerem w Ocado, a także pasjonatem zdobywania wiedzy i dzielenia się nią. Posiada doświadczenie w wielu dziedzinach: od designu, przez publiczne wystąpienia, aż do napraw motocykli.</p>
-<p><strong>Paweł Martin</strong></p>
-<p>Paweł na co dzień pracuje w hermetycznym teamie Internal Tech Comms. Jest miłośnikiem sporych repozytoriów, cyberpunka, rocka, deskorolek oraz kimchi.</p>
-<p><strong>Łukasz Rybka</strong></p>
-<p>Łukasz zajmuje się tworzeniem treści od 15 lat. Obecnie rozwija swoją własną firmę zajmującą się tworzeniem i rozwojem dokumentacji technicznej, a także konsultacjami w obrębie tworzenia treści. Łukasz jest jednym z założycieli Stowarzyszenia Autorów i Ilustratorów Techniczych (SAiIT), a po godzinach spędza czas gotując, jeżdżąc na nartach lub grając w gry symulacyjne.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="kiedy-i-gdzie">Kiedy i gdzie<a href="https://techwriter.pl/content-bytes-luty-2025#kiedy-i-gdzie" class="hash-link" aria-label="Bezpośredni link do Kiedy i gdzie" title="Bezpośredni link do Kiedy i gdzie">​</a></h2>
-<p><strong>Data</strong>: 26.02.2025 <br> <strong>Godzina</strong>: 18:00 <br> <strong>Miejsce</strong>: Ocado, Pawia 21, High5ive Building "FOUR" B</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="kilka-słów-o-sponsorach">Kilka słów o sponsorach<a href="https://techwriter.pl/content-bytes-luty-2025#kilka-s%C5%82%C3%B3w-o-sponsorach" class="hash-link" aria-label="Bezpośredni link do Kilka słów o sponsorach" title="Bezpośredni link do Kilka słów o sponsorach">​</a></h2>
-<p>Piąte spotkanie Content Bytes sponsoruje <strong>Ocado Technology</strong>.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="ocado-technology">Ocado Technology<a href="https://techwriter.pl/content-bytes-luty-2025#ocado-technology" class="hash-link" aria-label="Bezpośredni link do Ocado Technology" title="Bezpośredni link do Ocado Technology">​</a></h3>
-<p><a href="https://careers.ocadogroup.com/locations/europe/development-centre-poland" target="_blank" rel="noopener noreferrer">Ocado Technology</a> tworzy produkty dostosowane do unikalnych potrzeb swoich partnerów na całym świecie. Poprzez oprogramowanie e-commerce, zautomatyzowane rozwiązania magazynowe, robotykę i zoptymalizowaną dostawę, Ocado kształtuje obszar zakupów spożywczych online. W Polsce Ocado działa w Krakowie i Wrocławiu, gdzie skupia ponad 700 specjalistów w dziedzinie technologii.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="o-nas">O nas<a href="https://techwriter.pl/content-bytes-luty-2025#o-nas" class="hash-link" aria-label="Bezpośredni link do O nas" title="Bezpośredni link do O nas">​</a></h2>
-<p>Celem <strong>Content Bytes</strong> jest stworzenie przestrzeni, w której twórcy contentu
-mogą wymieniać się doświadczeniami i omawiać tematy związane z tworzeniem
-treści. Według nas content to nie tylko sam proces pisania, ale tak
-naprawdę&nbsp;cały ekosystem uwzględniający UX, UI, design, a także zagadnienia
-dostępności, zarządzania i związanej z nimi technologii.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="skontaktuj-się-z-organizatorem">Skontaktuj się z organizatorem<a href="https://techwriter.pl/content-bytes-luty-2025#skontaktuj-si%C4%99-z-organizatorem" class="hash-link" aria-label="Bezpośredni link do Skontaktuj się z organizatorem" title="Bezpośredni link do Skontaktuj się z organizatorem">​</a></h3>
-<p>Organizatorom zależy, by spotkania były istotne i przybliżały tematy, które są
-dla Was interesujące. Możecie zgłosić temat, a my dołożymy wszelkich starań, aby
-znaleźć prelegentów, którzy będą mogli o nim porozmawiać. Możecie także sami
-zostać prelegentami na jednym z naszych spotkań.</p>
-<p>Jeżeli jesteście zainteresowani, napiszcie do nas:
-<strong><a href="mailto:contentbytes.krk@gmail.com" target="_blank" rel="noopener noreferrer">contentbytes.krk@gmail.com</a></strong>.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="często-zadawane-pytania">Często zadawane pytania<a href="https://techwriter.pl/content-bytes-luty-2025#cz%C4%99sto-zadawane-pytania" class="hash-link" aria-label="Bezpośredni link do Często zadawane pytania" title="Bezpośredni link do Często zadawane pytania">​</a></h3>
-<p>P: Czy wydarzenie będzie nagrywane lub transmitowane na żywo? <br> O: Na
-chwilę obecną nie. Stawiamy na spotkania na miejscu, gdzie możesz osobiście
-poznać inne osoby zainteresowane contentem.</p>
-<p>P: Czy można udostępnić prezentacje prelegentów? <br> O: To zależy od
-prelegenta. Podczas wydarzenia można jednak zadawać pytania i robić zdjęcia,
-można też zapytać o udostępnienie slajdów.</p>
-<p>P: Zarejestrowałem/am się, ale nie mogę wziąć udziału. Co powinienem/nnam
-zrobić? <br> O: Jeśli wiesz, że nie dasz rady przyjść, daj nam znać pisząc na
-adres <a href="mailto:contentbytes.krk@gmail.com" target="_blank" rel="noopener noreferrer">contentbytes.krk@gmail.com</a>.</p>]]></content>
-        <author>
-            <name>Barbara Czyż</name>
-        </author>
-        <category label="news" term="news"/>
-        <category label="meetups" term="meetups"/>
-        <category label="społeczność" term="społeczność"/>
-        <category label="content-bytes" term="content-bytes"/>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Kilka pytań do – część 31: Wywiad z Mateuszem Barszczem]]></title>
         <id>https://techwriter.pl/kilka-pytan-do-czesc-31</id>
@@ -339,80 +271,6 @@ przemyśleniami.</strong></p>]]></content>
         <category label="wywiady" term="wywiady"/>
         <category label="kariera" term="kariera"/>
         <category label="praca" term="praca"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Content Bytes #4: Porozmawiajmy o języku]]></title>
-        <id>https://techwriter.pl/content-bytes-styczen-2025</id>
-        <link href="https://techwriter.pl/content-bytes-styczen-2025"/>
-        <updated>2025-01-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Nowy rok to nowe contentowe wyzwania!]]></summary>
-        <content type="html"><![CDATA[<p>Nowy rok to nowe contentowe wyzwania!</p>
-<p>Naszym noworocznym postanowieniem jest zapewnić Wam najciekawsze tematy i najlepszych prezenterów podczas wydarzeń Content Bytes. A jakie są wasze postanowienia?
-Jeżeli jednym z nich jest „odwiedzić jak najwięcej meetupów”, to jego realizację możecie zacząć od zaraz!
-Już 20 stycznia zapraszamy do <a href="https://www.instagram.com/forte_spaces_krakow/" target="_blank" rel="noopener noreferrer">Forte Spaces</a> na kolejne spotkanie, podczas którego skupimy się na roli języka w tworzeniu treści.</p>
-<p>Tym razem w Forte Spaces będziemy gościć <a href="https://www.linkedin.com/in/anja-wedberg-11361321/" target="_blank" rel="noopener noreferrer">Anję Wedberg</a> i <a href="https://www.linkedin.com/in/kalinatyrkiel/" target="_blank" rel="noopener noreferrer">Kalinę Tyrkiel</a>, które wyjaśnią nam, jak znajomość angielskiego jako drugiego języka wpływa na tworzenie anglojęzycznych treści oraz jak wykorzystać wielojęzyczność w pracy z contentem.</p>
-<p>Pamiętajcie o rejestracji, to pozwoli nam na wybór odpowiedniej sali i
-zaplanowanie poczęstunku. Link do formularza znajdziecie
-<a href="https://forms.gle/6dFGs5Y1U29dS4bw5" target="_blank" rel="noopener noreferrer">tutaj</a>.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="tematy">Tematy<a href="https://techwriter.pl/content-bytes-styczen-2025#tematy" class="hash-link" aria-label="Bezpośredni link do Tematy" title="Bezpośredni link do Tematy">​</a></h2>
-<p><strong><em>Non-native speaker w świecie anglojęzycznej treści</em></strong></p>
-<p>Jak odnaleźć się jako non-native speaker na rynku zdominowanym przez język angielski? Czy twórcy treści powinni dążyć do poziomu osób anglojęzycznych?
-Czy AI służy nam pomocą, czy przeszkadza w tworzeniu contentu? W swojej prezentacji <strong>Anja Wedberg</strong> odpowie na te i wiele innych pytań, przybliżając nam rolę języka w zmaganiach z contentowymi zagwozdkami.</p>
-<p><strong><em>Polski or English: Jak wykorzystać swój potencjał jako wielojęzyczny twórca treści</em></strong></p>
-<p>Czy zajmujesz się tworzeniem treści jako non-native speaker? Wspaniale! A teraz zastanówmy się, jak możesz wykorzystać znajomość nie jednego, ale wielu języków, które masz w swoim arsenale.
-Nasza druga prezenterka, <strong>Kalina Tyrkiel</strong>, opowie jak łączy znajomość polskiego, angielskiego i hiszpańskiego w swojej pracy, a także podzieli się wskazówkami, które pozwolą Wam w pełni wykorzystać swoje językowe umiejętności.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="prelegenci">Prelegenci<a href="https://techwriter.pl/content-bytes-styczen-2025#prelegenci" class="hash-link" aria-label="Bezpośredni link do Prelegenci" title="Bezpośredni link do Prelegenci">​</a></h2>
-<p>Tym razem gościmy u nas dwie prezenterki:</p>
-<p><strong>Anja Wedberg</strong></p>
-<p>Anja pracuje jako Senior UX Writer w firmie Dyson, gdzie wspiera rozwój aplikacji do produktów audio i użytku domowego.
-Jak sama mówi, jej ojczystym językiem jest szwedzki, ale to pisanie po angielsku wspomaga jej budżet :)</p>
-<p><strong>Kalina Tyrkiel</strong></p>
-<p>Kalina jest UX writerką z wykształceniem psychologicznym. Obecnie pracuje jako Senior Content Designer w firmie Zendesk.
-Dodatkowo zajmuje się szkoleniami z dziedziny UX writingu, prowadzi wykłady i konsultacje.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="kiedy-i-gdzie">Kiedy i gdzie<a href="https://techwriter.pl/content-bytes-styczen-2025#kiedy-i-gdzie" class="hash-link" aria-label="Bezpośredni link do Kiedy i gdzie" title="Bezpośredni link do Kiedy i gdzie">​</a></h2>
-<p><strong>Data</strong>: 20.01.2025 <br> <strong>Godzina</strong>: 18:30 <br> <strong>Miejsce</strong>: Forte Spaces, Krupnicza 3, Kraków</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="kilka-słów-o-sponsorach">Kilka słów o sponsorach<a href="https://techwriter.pl/content-bytes-styczen-2025#kilka-s%C5%82%C3%B3w-o-sponsorach" class="hash-link" aria-label="Bezpośredni link do Kilka słów o sponsorach" title="Bezpośredni link do Kilka słów o sponsorach">​</a></h2>
-<p>Czwarte spotkanie Content Bytes sponsoruje <strong>Forte Digital</strong> i
-<strong>Apify</strong>.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="forte-digital">Forte Digital<a href="https://techwriter.pl/content-bytes-styczen-2025#forte-digital" class="hash-link" aria-label="Bezpośredni link do Forte Digital" title="Bezpośredni link do Forte Digital">​</a></h3>
-<p>W DNA <a href="https://fortedigital.com/pl/" target="_blank" rel="noopener noreferrer">Forte Digital</a> znajdziesz pierwiastek polski, skandynawski i oczywiście technologiczny. Forte Digital powstało w 2017 roku jako owoc udanej współpracy polskich i norweskich założycieli. Od tego czasu z powodzeniem czerpie to co najlepsze ze swoich kultur, a od niedawna w swoich szeregach ma koleżanki i kolegów z Danii oraz Niemiec. Forte Digital skupia się najczęściej na projektach dotyczących obszaru e-commerce w pełnym zakresie realizacji – development i consulting IT oraz design.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="apify">Apify<a href="https://techwriter.pl/content-bytes-styczen-2025#apify" class="hash-link" aria-label="Bezpośredni link do Apify" title="Bezpośredni link do Apify">​</a></h3>
-<p><a href="https://apify.com/" target="_blank" rel="noopener noreferrer">Apify</a> jest platformą, którą programiści mogą wykorzystać
-do budowania, wdrażania i publikowania narzędzi do web scrapingu, ekstrakcji
-danych i automatyzacji. Apify udostępnia ponad 1500 gotowych narzędzi,
-pozwalając na uzyskanie dodatkowego przychodu poprzez udostępnianie je innym
-użytkownikom. Dodatkowo Apify odpowiada za <a href="https://crawlee.dev/" target="_blank" rel="noopener noreferrer">Crawlee</a>,
-publiczną bibliotekę do web scrapingu.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="o-nas">O nas<a href="https://techwriter.pl/content-bytes-styczen-2025#o-nas" class="hash-link" aria-label="Bezpośredni link do O nas" title="Bezpośredni link do O nas">​</a></h2>
-<p>Celem <strong>Content Bytes</strong> jest stworzenie przestrzeni, w której twórcy contentu
-mogą wymieniać się doświadczeniami i omawiać tematy związane z tworzeniem
-treści. Według nas content to nie tylko sam proces pisania, ale tak
-naprawdę&nbsp;cały ekosystem uwzględniający UX, UI, design, a także zagadnienia
-dostępności, zarządzania i związanej z nimi technologii.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="skontaktuj-się-z-organizatorem">Skontaktuj się z organizatorem<a href="https://techwriter.pl/content-bytes-styczen-2025#skontaktuj-si%C4%99-z-organizatorem" class="hash-link" aria-label="Bezpośredni link do Skontaktuj się z organizatorem" title="Bezpośredni link do Skontaktuj się z organizatorem">​</a></h3>
-<p>Organizatorom zależy, by spotkania były istotne i przybliżały tematy, które są
-dla Was interesujące. Możecie zgłosić temat, a my dołożymy wszelkich starań, aby
-znaleźć prelegentów, którzy będą mogli o nim porozmawiać. Możecie także sami
-zostać prelegentami na jednym z naszych spotkań.</p>
-<p>Jeżeli jesteście zainteresowani, napiszcie do nas:
-<strong><a href="mailto:contentbytes.krk@gmail.com" target="_blank" rel="noopener noreferrer">contentbytes.krk@gmail.com</a></strong>.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="często-zadawane-pytania">Często zadawane pytania<a href="https://techwriter.pl/content-bytes-styczen-2025#cz%C4%99sto-zadawane-pytania" class="hash-link" aria-label="Bezpośredni link do Często zadawane pytania" title="Bezpośredni link do Często zadawane pytania">​</a></h3>
-<p>P: Czy wydarzenie będzie nagrywane lub transmitowane na żywo? <br> O: Na
-chwilę obecną nie. Stawiamy na spotkania na miejscu, gdzie możesz osobiście
-poznać inne osoby zainteresowane contentem.</p>
-<p>P: Czy można udostępnić prezentacje prelegentów? <br> O: To zależy od
-prelegenta. Podczas wydarzenia można jednak zadawać pytania i robić zdjęcia,
-można też zapytać o udostępnienie slajdów.</p>
-<p>P: Zarejestrowałem/am się, ale nie mogę wziąć udziału. Co powinienem/nnam
-zrobić? <br> O: Jeśli wiesz, że nie dasz rady przyjść, daj nam znać pisząc na
-adres <a href="mailto:contentbytes.krk@gmail.com" target="_blank" rel="noopener noreferrer">contentbytes.krk@gmail.com</a>.</p>]]></content>
-        <author>
-            <name>Barbara Czyż</name>
-        </author>
-        <category label="news" term="news"/>
-        <category label="meetups" term="meetups"/>
-        <category label="społeczność" term="społeczność"/>
-        <category label="content-bytes" term="content-bytes"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wyniki badania płac w komunikacji technicznej 2024]]></title>
@@ -897,131 +755,6 @@ pracy redakcyjnej</li>
         <category label="społeczność" term="społeczność"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Content Bytes #3: Porozmawiajmy o wiedzy i umiejętnościach]]></title>
-        <id>https://techwriter.pl/content-bytes-listopad-2024</id>
-        <link href="https://techwriter.pl/content-bytes-listopad-2024"/>
-        <updated>2024-11-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Choć jesienno-zimowa zawierucha za oknem sprzyja zagrzebaniu się w fotelu z]]></summary>
-        <content type="html"><![CDATA[<p>Choć jesienno-zimowa zawierucha za oknem sprzyja zagrzebaniu się w fotelu z
-ciepłą herbatą, gwarantujemy, że kolejne spotkanie <strong>Content Bytes</strong> jest warte
-wynurzenia się spod kocyka.</p>
-<p>Ponownie szykujemy dla Was dwa tematy, tym razem w obszarze wiedzy i
-umiejętności. Wzbogacanie wiedzy i wykorzystywanie jej z pożytkiem dla siebie i
-innych stanowi ważną częścią kariery, obojętnie, czy właśnie rozpoczynasz swoją
-przygodę z tworzeniem treści, czy też „siedzisz w temacie” od lat.</p>
-<p>Nasi prezenterzy spojrzą na ten temat z dwóch perspektyw:
-<a href="https://www.linkedin.com/in/lis-malgorzata/" target="_blank" rel="noopener noreferrer">Małgorzata Lis</a> opowie jak to jest
-być świeżo upieczoną technical writerką w świecie IT, a
-<a href="https://www.linkedin.com/in/aleksanderpiskorz/" target="_blank" rel="noopener noreferrer">Aleksander Piskorz</a> zdradzi nam
-jak przekuć swoją wiedzę w biznesowe korzyści.</p>
-<p>Tym razem gości nas <strong>Uniwersytet Jagielloński</strong>, a dyskusje uprzyjemnią nam
-przekąski <!-- -->🍕<!-- --> od <strong>Apify</strong>.</p>
-<p>Pamiętajcie o rejestracji, to pozwoli nam na wybór odpowiedniej sali i
-zaplanowanie poczęstunku. Link do formularza znajdziecie
-<a href="https://forms.gle/jNPKssKkdxeuCqMJ6" target="_blank" rel="noopener noreferrer">tutaj</a>.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="tematy">Tematy<a href="https://techwriter.pl/content-bytes-listopad-2024#tematy" class="hash-link" aria-label="Bezpośredni link do Tematy" title="Bezpośredni link do Tematy">​</a></h2>
-<p><strong><em>Okiem początkującej tech writerki: Moja przygoda ze stażem oraz wskazówki dla
-mentorów</em></strong></p>
-<p>Wejście do świata komunikacji technicznej może wydawać się przytłaczające,
-zwłaszcza dla tych, którzy dopiero rozpoczynają karierę. Aby nieco złagodzić to
-wrażenie, opowiem Wam o moich początkach w zawodzie tech writerki. Pomogą nam w
-tym moje doświadczenia ze stażu. To z nich dowiecie się jak wykorzystać
-najlepsze praktyki w tworzeniu dokumentacji, jakie narzędzia wykorzystać oraz
-jak nabyć umiejętności, które mają znaczenie dla tej roli.</p>
-<p>Prezentację kieruję zarówno do osób nowych w branży, jak i do starszych stażem
-mentorów. Początkujący technical writerzy będą mogli zdobyć nowe doświadczenia,
-a mentorzy zrozumieć oczekiwania i wyzwania, z którymi muszą się mierzyć osoby
-wchodzące w branżę.</p>
-<p><strong><em>Jak przekuć wiedzę w realną wartość biznesową (i nie zwariować)</em></strong></p>
-<p>Powiedzmy sobie szczerze: samo posiadanie wiedzy to za mało. Twój umysł może być
-wypełniony wiedzą, ale nic nie zyskujesz gdy nie dzielisz się nią z innymi. Moja
-prezentacja pokaże Wam jak proste taktyki, działajace nawet jeżeli jesteście
-przysypani górą zadań, pozwolą na przekucie Waszej wiedzy w korzyści biznesowe i
-finansowe. Korzystając z własnych doświadczeń, pokażę Wam jak wykorzystać
-narzędzia i technologie, AI oraz to, co przemawia do mnie najbardziej: jak
-zmienić swój sposób myślenia i nastawienie do zadań.</p>
-<p>Żadnej teorii. Żadnych skomplikowanych strategii. Stawiam na praktyczne
-przykłady, które pozwoliły mnie i moim klientom przejść od sterty
-niedokończonych dokumentów i poczucia, że wszystko co innowacyjne już zostało
-zrobione, do bycia widocznym i cenionym.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="prelegenci">Prelegenci<a href="https://techwriter.pl/content-bytes-listopad-2024#prelegenci" class="hash-link" aria-label="Bezpośredni link do Prelegenci" title="Bezpośredni link do Prelegenci">​</a></h2>
-<p>Podczas trzeciego spotkania Content Bytes prezentacje poprowadzą:</p>
-<p><strong>Małgorzata Lis</strong></p>
-<p>Małgorzata jest studentką pierwszego roku studiów magisterskich na kierunku
-informatyka stosowana. Stażystką w dziale dokumentacji została na drugim roku
-studiów licencjackich pomimo braku wcześniejszego doświadczenia w komunikacji
-technicznej. Po kolejnym stażu została pełnoprawną technical writerką w IBM i
-pracuje tam już ponad rok. Małgorzata interesuje się językiem, wyszukiwaniem
-informacji oraz kreatywnym podejściem do tworzenia treści. W połączeniu z wiedzą
-zdobytą podczas studiów, te umiejętności i pasje stanowią mieszankę perfekcyjną.
-W wolnym czasie Małgorzata lubi oglądać koreańskie dramy, co pomaga w nauce
-nowego języka, a także maluje pejzaże po numerach.</p>
-<p><strong>Aleksander Piskorz</strong></p>
-<p>Aleksander od ponad dekady zajmuje się dziennikarstwem technologicznym, łącząc
-technologię, ludzi i biznes. Publikuje w wiodących środkach masowego przekazu w
-Polsce, a jego współpraca z firmami takimi jak Meta, Google oraz Huawei,
-pozwoliła mu na odwiedzenie prawie każdego kontynentu i spojrzenie na globalne
-trendy technologiczne z perspektywy “insidera”. Ostatnie pięć lat Aleksandra to
-praca na styku środowiska startupowego i marketingu.</p>
-<p>Aleksander pomaga przedsiębiorcom i ekspertom w dziedzinie technologii przekuć
-umiejętności w treści, które napędzają biznes. Ponadto doradza w tematach
-związanych ze strategią treści i edukuje w zakresie pracy z AI.</p>
-<p>W <a href="https://aihero.pl/" target="_blank" rel="noopener noreferrer">AI Hero</a> Aleksander nadzoruje komunikację biznesową od
-koncepcji do momentu wdrożenia produktu.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="kiedy-i-gdzie">Kiedy i gdzie<a href="https://techwriter.pl/content-bytes-listopad-2024#kiedy-i-gdzie" class="hash-link" aria-label="Bezpośredni link do Kiedy i gdzie" title="Bezpośredni link do Kiedy i gdzie">​</a></h2>
-<p><strong>Data</strong>: 26.11.2024 <br> <strong>Godzina</strong>: 18:00 <br> <strong>Miejsce</strong>: Filologia
-Angielska Uniwersytetu Jagiellońskiego, ul. Adama Mickiewicza 9A, pokój 105.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="kilka-słów-o-sponsorach">Kilka słów o sponsorach<a href="https://techwriter.pl/content-bytes-listopad-2024#kilka-s%C5%82%C3%B3w-o-sponsorach" class="hash-link" aria-label="Bezpośredni link do Kilka słów o sponsorach" title="Bezpośredni link do Kilka słów o sponsorach">​</a></h2>
-<p>Trzecie spotkanie Content Bytes sponsoruje <strong>Uniwersytet Jagielloński</strong> i
-<strong>Apify</strong>.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="instytut-filologii-angielskiej-uniwersytet-jagielloński">Instytut Filologii Angielskiej, Uniwersytet Jagielloński<a href="https://techwriter.pl/content-bytes-listopad-2024#instytut-filologii-angielskiej-uniwersytet-jagiello%C5%84ski" class="hash-link" aria-label="Bezpośredni link do Instytut Filologii Angielskiej, Uniwersytet Jagielloński" title="Bezpośredni link do Instytut Filologii Angielskiej, Uniwersytet Jagielloński">​</a></h3>
-<p>Instytut Filologii Angielskiej jest najstarszą placówką anglistyczną w Polsce.
-Główne obiekty Wydziału Filologicznego zlokalizowane są w centrum Krakowa, w
-nowoczesnym kompleksie budynków Collegium Paderevianum wyposażonym w laboratoria
-językowe oraz strefy wypoczynkowe. Biblioteka Wydziału Filologicznego zapewnia
-użytkownikom dostęp do krajowych i światowych zasobów informacji – stanowi
-bowiem nowoczesne centrum informacji dotyczące filologii obcych, historii
-literatury, językoznawstwa, metodyki nauczania, historii, kultury, sztuki oraz
-przekładoznawstwa.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="apify">Apify<a href="https://techwriter.pl/content-bytes-listopad-2024#apify" class="hash-link" aria-label="Bezpośredni link do Apify" title="Bezpośredni link do Apify">​</a></h3>
-<p><a href="https://apify.com/" target="_blank" rel="noopener noreferrer">Apify</a> jest platformą, którą programiści mogą wykorzystać
-do budowania, wdrażania i publikowania narzędzi do web scrapingu, ekstrakcji
-danych i automatyzacji. Apify udostępnia ponad 1500 gotowych narzędzi,
-pozwalając na uzyskanie dodatkowego przychodu poprzez udostępnianie je innym
-użytkownikom. Dodatkowo Apify odpowiada za <a href="https://crawlee.dev/" target="_blank" rel="noopener noreferrer">Crawlee</a>,
-publiczną bibliotekę do web scrapingu.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="o-nas">O nas<a href="https://techwriter.pl/content-bytes-listopad-2024#o-nas" class="hash-link" aria-label="Bezpośredni link do O nas" title="Bezpośredni link do O nas">​</a></h2>
-<p>Celem <strong>Content Bytes</strong> jest stworzenie przestrzeni, w której twórcy contentu
-mogą wymieniać się doświadczeniami i omawiać tematy związane z tworzeniem
-treści. Według nas content to nie tylko sam proces pisania, ale tak
-naprawdę&nbsp;cały ekosystem uwzględniający UX, UI, design, a także zagadnienia
-dostępności, zarządzania i związanej z nimi technologii.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="skontaktuj-się-z-organizatorem">Skontaktuj się z organizatorem<a href="https://techwriter.pl/content-bytes-listopad-2024#skontaktuj-si%C4%99-z-organizatorem" class="hash-link" aria-label="Bezpośredni link do Skontaktuj się z organizatorem" title="Bezpośredni link do Skontaktuj się z organizatorem">​</a></h3>
-<p>Organizatorom zależy, by spotkania były istotne i przybliżały tematy, które są
-dla Was interesujące. Możecie zgłosić temat, a my dołożymy wszelkich starań, aby
-znaleźć prelegentów, którzy będą mogli o nim porozmawiać. Możecie także sami
-zostać prelegentami na jednym z naszych spotkań.</p>
-<p>Jeżeli jesteście zainteresowani, napiszcie do nas:
-<strong><a href="mailto:contentbytes.krk@gmail.com" target="_blank" rel="noopener noreferrer">contentbytes.krk@gmail.com</a></strong>.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="często-zadawane-pytania">Często zadawane pytania<a href="https://techwriter.pl/content-bytes-listopad-2024#cz%C4%99sto-zadawane-pytania" class="hash-link" aria-label="Bezpośredni link do Często zadawane pytania" title="Bezpośredni link do Często zadawane pytania">​</a></h3>
-<p>P: Czy wydarzenie będzie nagrywane lub transmitowane na żywo? <br> O: Na
-chwilę obecną nie. Stawiamy na spotkania na miejscu, gdzie możesz osobiście
-poznać inne osoby zainteresowane contentem.</p>
-<p>P: Czy można udostępnić prezentacje prelegentów? <br> O: To zależy od
-prelegenta. Podczas wydarzenia można jednak zadawać pytania i robić zdjęcia,
-można też zapytać o udostępnienie slajdów.</p>
-<p>P: Zarejestrowałem/am się, ale nie mogę wziąć udziału. Co powinienem/nnam
-zrobić? <br> O: Jeśli wiesz, że nie dasz rady przyjść, daj nam znać pisząc na
-adres <a href="mailto:contentbytes.krk@gmail.com" target="_blank" rel="noopener noreferrer">contentbytes.krk@gmail.com</a>.</p>]]></content>
-        <author>
-            <name>Barbara Czyż</name>
-        </author>
-        <category label="news" term="news"/>
-        <category label="meetups" term="meetups"/>
-        <category label="społeczność" term="społeczność"/>
-        <category label="content-bytes" term="content-bytes"/>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Student insights - the Hitachi Energy and District C technical writing initiative]]></title>
         <id>https://techwriter.pl/district-c-collaboration</id>
         <link href="https://techwriter.pl/district-c-collaboration"/>
@@ -1366,113 +1099,6 @@ Ul. Legnicka 48 G, Wrocław</p>
         <category label="promocja-branży" term="promocja-branży"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Content Bytes x girls.js: Porozmawiajmy o dostępności]]></title>
-        <id>https://techwriter.pl/content-bytes-girlsjs-promo</id>
-        <link href="https://techwriter.pl/content-bytes-girlsjs-promo"/>
-        <updated>2024-10-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Choć na zewnątrz robi się już coraz ciemniej (i straszniej), ekipa]]></summary>
-        <content type="html"><![CDATA[<p>Choć na zewnątrz robi się już coraz ciemniej (i straszniej <!-- -->👻<!-- -->), ekipa
-Content Bytes nie boi się nowych wyzwań, zwłaszcza gdy u boku mamy <strong>girls.js</strong>!
-Współpraca ta pozwala nam jeszcze w tym miesiącu powrócić z kolejnym
-wydarzeniem, tym razem poświęconym tematyce <strong>dostępności treści</strong>.</p>
-<p>Podczas spotkania <a href="https://www.linkedin.com/in/olgastefaniuk" target="_blank" rel="noopener noreferrer">Olga Stefaniuk</a>,
-<a href="https://www.linkedin.com/in/justi-sztyper-134520a5/" target="_blank" rel="noopener noreferrer">Justi Sztyper</a> oraz
-<a href="https://www.linkedin.com/in/zuzanna-szott/" target="_blank" rel="noopener noreferrer">Zuzanna Szott</a> opowiedzą między
-innymi o tym, czy tworzone treści mogą być dostępne dla wszystkich, jak
-neuroróżnorodni użytkownicy pracują z contentem i aplikacjami oraz jak
-dostępność wpływa zarówno na twórców treści i tych, którzy z nich korzystają.</p>
-<p>Po prezentacjach zapraszamy na mały poczęstunek oraz wymianę doświadczeń i
-opinii <!-- -->🍕<!-- -->.</p>
-<p>Pamiętajcie o rejestracji, to pozwoli nam na wybór odpowiedniej sali i
-zaplanowanie poczęstunku. Link do formularza znajdziecie
-<a href="https://forms.gle/zrkjELLFSufHaZEb6" target="_blank" rel="noopener noreferrer">tutaj</a>.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="tematy">Tematy<a href="https://techwriter.pl/content-bytes-girlsjs-promo#tematy" class="hash-link" aria-label="Bezpośredni link do Tematy" title="Bezpośredni link do Tematy">​</a></h2>
-<p><strong><em>Moje prawo to twoje lewo. Czy istnieją treści użyteczne dla wszystkich?</em></strong></p>
-<p>Słowa kształtują rzeczywistość – tę cyfrową również. Z ich pomocą możemy
-wspierać lub wykluczać całe grupy użytkowników naszych produktów, dlatego warto
-robić to świadomie. Podczas prelekcji porozmawiamy o tym, jak identyfikować
-językowe potrzeby i problemy użytkowników oraz jakich narzędzi używać, żeby
-odpowiednio na nie reagować.</p>
-<p><strong><em>Dostępność kognitywna i neuroróżnorodność w pracy z treścią i aplikacjami
-webowymi</em></strong></p>
-<p>W swojej prezentacji Olga i Justi poruszą zagadnienia neuroróżnorodności oraz
-dostępności kognitywnej. Dowiecie się, jak neuroróżnorodni użytkownicy pracują z
-tresciami i aplikacjami webowymi, co może być dla nich problematyczne i jak temu
-zaradzić. Dodatkowo, poznacie najlepsze praktyki stosowane w tworzeniu
-dostępnych aplikacji i treści oraz zalecenia Web Content Accessibility
-Guidelines (WCAG) w kontekście dostępności.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="prelegenci">Prelegenci<a href="https://techwriter.pl/content-bytes-girlsjs-promo#prelegenci" class="hash-link" aria-label="Bezpośredni link do Prelegenci" title="Bezpośredni link do Prelegenci">​</a></h2>
-<p>Prezentacje poprowadzą:</p>
-<ul>
-<li><strong>Olga Stefaniuk</strong>: Jako developer advocate, Olga łączy pasję do dzielenia się
-wiedzą, tworzenia społeczności i programowania, a także zainteresowania w
-obszarach dostępności w aplikacjach webowych oraz kognitywistyki. Olga jest
-również team leaderką w girls.js, gdzie wspiera kobiety wchodzące w świat IT.</li>
-<li><strong>Justi Sztyper</strong>: Justi zajmuje się dokumentacją od wielu lat, dbając o to,
-aby tworzone treści były jak najbardziej dostępne dla użytkowników. W pracy
-technical writera Justi najbardziej ceni sobie podejście docs-as-code.</li>
-<li><strong>Zuzanna Szott</strong>: Projektantka, badaczka i socjolożka na co dzień pracująca w
-agencji projektowo-badawczej Mobee Dick. W swojej pracy wdraża inkluzywne i
-dostępne rozwiązania do produktów cyfrowych, dba o neutralny i włączający
-język oraz edukuje innych o tym, jak nie dyskryminować za pomocą języka. W
-swojej pracy łączy wymagania biznesowe i technologiczne z dbałością o
-końcowych, różnorodnych użytkowników i użytkowniczki projektowanych produktów.
-Związana z AGH organizatorka wydarzeń z zakresu edukacji i kultury, prywatnie
-zainteresowana technologią, literaturą i polityką.</li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="kiedy-i-gdzie">Kiedy i gdzie<a href="https://techwriter.pl/content-bytes-girlsjs-promo#kiedy-i-gdzie" class="hash-link" aria-label="Bezpośredni link do Kiedy i gdzie" title="Bezpośredni link do Kiedy i gdzie">​</a></h2>
-<p><strong>Data</strong>: 30.10.2024 <br> <strong>Godzina</strong>: 18:00 <br> <strong>Miejsce</strong>: GPC Global
-Technology Center, Lubicz 23/a, Kraków</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="kilka-słów-o-sponsorach-i-partnerach">Kilka słów o sponsorach i partnerach<a href="https://techwriter.pl/content-bytes-girlsjs-promo#kilka-s%C5%82%C3%B3w-o-sponsorach-i-partnerach" class="hash-link" aria-label="Bezpośredni link do Kilka słów o sponsorach i partnerach" title="Bezpośredni link do Kilka słów o sponsorach i partnerach">​</a></h2>
-<p>Październikowe spotkanie sponsorowane jest przez <strong>GPC Global Technology
-Center</strong>, a partnerują nam <strong>girls.js</strong>.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="gpc-global-technology-center">GPC Global Technology Center<a href="https://techwriter.pl/content-bytes-girlsjs-promo#gpc-global-technology-center" class="hash-link" aria-label="Bezpośredni link do GPC Global Technology Center" title="Bezpośredni link do GPC Global Technology Center">​</a></h3>
-<p><a href="https://www.genpt.com/" target="_blank" rel="noopener noreferrer">Genuine Parts Company (GPC)</a> jest globalnym liderem
-dystrybucji części samochodowych i przemysłowych. Globalne Centrum Technologii
-GPC w Krakowie, powstałe w 2022 roku, pełni rolę centrum badań i rozwoju,
-wspierając GPC w zakresie transformacji cyfrowej. Inżynierowie GCP pracują nad
-zaawansowanymi technologiami i rozwiązaniami usprawniającymi działalność i
-rozwój GPC. Ich praca obejmuje różne obszary, w tym handel elektroniczny i
-platformy danych, rozwiązania w zakresie łańcucha dostaw, systemy sprzedaży i
-bezpieczeństwo cybernetyczne.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="girlsjs">girls.js<a href="https://techwriter.pl/content-bytes-girlsjs-promo#girlsjs" class="hash-link" aria-label="Bezpośredni link do girls.js" title="Bezpośredni link do girls.js">​</a></h3>
-<p><a href="https://girlsjs.pl/" target="_blank" rel="noopener noreferrer">girls.js</a> to inicjatywa, której celem jest przyciągnięcie
-kobiet do IT. Poprzez zachęcenie do kodowania, organizatorzy chcą zaszczepić w
-kobietach pasję do nowych technologii i pokazać, że świat IT stoi przed nimi
-otworem. Założenia inicjatywy realizowane są poprzez spotkania i warsztaty dla
-kobiet.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="o-nas">O nas<a href="https://techwriter.pl/content-bytes-girlsjs-promo#o-nas" class="hash-link" aria-label="Bezpośredni link do O nas" title="Bezpośredni link do O nas">​</a></h2>
-<p>Celem <strong>Content Bytes</strong> jest stworzenie przestrzeni, w której twórcy contentu
-mogą wymieniać się doświadczeniami i omawiać tematy związane z tworzeniem
-treści. Według nas, content to nie tylko sam proces pisania, ale tak
-naprawdę&nbsp;cały ekosystem uwzględniający UX, UI, design, a także zagadnienia
-dostępności, zarządzania i związanej z nimi technologii.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="skontaktuj-się-z-organizatorem">Skontaktuj się z organizatorem<a href="https://techwriter.pl/content-bytes-girlsjs-promo#skontaktuj-si%C4%99-z-organizatorem" class="hash-link" aria-label="Bezpośredni link do Skontaktuj się z organizatorem" title="Bezpośredni link do Skontaktuj się z organizatorem">​</a></h3>
-<p>Organizatorom zależy, by spotkania były istotne i przybliżały tematy, które są
-dla Was interesujące. Możecie zgłosić temat, a my dołożymy wszelkich starań, aby
-znaleźć prelegentów, którzy będą mogli o nim porozmawiać. Możecie także sami
-zostać prelegentami na jednym z naszych spotkań.</p>
-<p>Jeżeli jesteście zainteresowani, napiszcie do nas:
-<a href="mailto:contentbytes.krk@gmail.com" target="_blank" rel="noopener noreferrer">contentbytes.krk@gmail.com</a>.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="często-zadawane-pytania">Często zadawane pytania<a href="https://techwriter.pl/content-bytes-girlsjs-promo#cz%C4%99sto-zadawane-pytania" class="hash-link" aria-label="Bezpośredni link do Często zadawane pytania" title="Bezpośredni link do Często zadawane pytania">​</a></h3>
-<p>P: Czy wydarzenie będzie nagrywane lub transmitowane na żywo? <br> O: Na
-chwilę obecną nie. Stawiamy na spotkania na miejscu, gdzie możesz osobiście
-poznać inne osoby zainteresowane contentem.</p>
-<p>P: Czy można udostępnić prezentacje prelegentów? <br> O: To zależy od
-prelegenta. Podczas wydarzenia można jednak zadawać pytania i robić zdjęcia,
-można też zapytać o udostępnienie slajdów.</p>
-<p>P: Zarejestrowałem/am się, ale nie mogę wziąć udziału. Co powinienem/nnam
-zrobić? <br> O: Jeśli wiesz, że nie dasz rady przyjść, daj nam znać pisząc na
-adres <a href="mailto:contentbytes.krk@gmail.com" target="_blank" rel="noopener noreferrer">contentbytes.krk@gmail.com</a>.</p>]]></content>
-        <author>
-            <name>Barbara Czyż</name>
-        </author>
-        <category label="news" term="news"/>
-        <category label="meetups" term="meetups"/>
-        <category label="społeczność" term="społeczność"/>
-        <category label="content-bytes" term="content-bytes"/>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Content Bytes - nowe oblicze spotkań dla specjalistów od treści]]></title>
         <id>https://techwriter.pl/content-bytes-promo</id>
         <link href="https://techwriter.pl/content-bytes-promo"/>
@@ -1542,112 +1168,6 @@ społecznościowych (<a href="https://www.linkedin.com/company/content-bytes/" t
 gdzie możecie także śledzić ich poczynania.</p>]]></content>
         <author>
             <name>Michał Skowron</name>
-        </author>
-        <category label="news" term="news"/>
-        <category label="meetups" term="meetups"/>
-        <category label="społeczność" term="społeczność"/>
-        <category label="content-bytes" term="content-bytes"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Content Bytes: Nowe wydarzenie na contentowej mapie!]]></title>
-        <id>https://techwriter.pl/content-bytes-pazdziernik-2024</id>
-        <link href="https://techwriter.pl/content-bytes-pazdziernik-2024"/>
-        <updated>2024-09-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Upalne lato już za nami, ale ekipa Content Bytes nie próżnuje, dbając o]]></summary>
-        <content type="html"><![CDATA[<p>Upalne lato już za nami, ale ekipa <strong>Content Bytes</strong> nie próżnuje, dbając o
-skuteczne podgrzanie atmosfery tej jesieni. Już za tydzień mamy dla was nie
-jeden, a dwa tematy :) Podczas spotkania porozmawiamy o dokumentacji API oraz
-przyszłości twórców contentu w świecie dynamicznie zmieniających się produktów.
-Ugości nas <strong>Forte Spaces</strong>, a dyskusje uprzyjemnią nam przekąski <!-- -->🍕<!-- --> od
-<strong>Apify</strong>.</p>
-<p>Tematy przybliżą wam
-<a href="https://www.linkedin.com/in/barbara-szwarc" target="_blank" rel="noopener noreferrer"><strong>Barbara Czyż</strong></a> oraz
-<a href="https://www.linkedin.com/in/pawelchlodnicki/" target="_blank" rel="noopener noreferrer"><strong>Paweł Chłodnicki</strong></a>.</p>
-<p>Pamiętajcie o rejestracji, to pozwoli nam na wybór odpowiedniej sali i
-zaplanowanie poczęstunku. Link do formularza znajdziecie
-<a href="https://forms.gle/NzEDRbvS1gWDZY3D8" target="_blank" rel="noopener noreferrer">tutaj</a>.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="tematy">Tematy<a href="https://techwriter.pl/content-bytes-pazdziernik-2024#tematy" class="hash-link" aria-label="Bezpośredni link do Tematy" title="Bezpośredni link do Tematy">​</a></h2>
-<p><strong><em>Dokumentacja API: Z czym to się je?</em></strong></p>
-<p>Dokumentacja API to temat, wokół którego krąży obecnie wiele pytań:</p>
-<ul>
-<li>Kto powinien dokumentować API?</li>
-<li>Jak zaplanować content, żeby dokumentacja była pomocna i sensownie
-ustrukturyzowana?</li>
-<li>Jakimi standardami powinni się kierować technical writerzy?</li>
-</ul>
-<p>Opierając się na przykładach, omówimy proces, w którym pomysł na nowe API staje
-się udokumentowaną specyfikacją. Podczas prezentacji zapoznacie się z
-narzędziami, praktykami oraz technikami współpracy, które pomagają nam tworzyć
-dokumentację do API.</p>
-<p><strong><em>Rola i przyszłość twórców contentu w tworzeniu produktu</em></strong></p>
-<p>Pojęcie <strong>content</strong> przywołuje różne skojarzenia, często zależne od kontekstu, w
-którym zostało użyte. W swojej prezentacji, Paweł opowie nam jak content jest
-postrzegany przez pryzmat firmy, zespołu, momentu w rozwoju produktu, a także
-wcześniej wspomnianego <strong>kontekstu</strong>. Wspólnie zastanowimy się, jak te
-okoliczności mogą mieć pozytywny wpływ zarówno na twórców, jak i odbiorców
-tworzonych treści.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="prelegenci">Prelegenci<a href="https://techwriter.pl/content-bytes-pazdziernik-2024#prelegenci" class="hash-link" aria-label="Bezpośredni link do Prelegenci" title="Bezpośredni link do Prelegenci">​</a></h2>
-<p>Podczas pierwszego spotkania Content Bytes prezentacje poprowadzą:</p>
-<ul>
-<li>
-<p><strong>Barbara Czyż</strong>: Barbara jest dociekliwą technical writerką, pasjonującą się
-podejściem docs-as-code i światem API. Po przygodach z DITA i Markdown
-dołączyła do Boxa, by tworzyć dokumentację programistyczną i zacieśniać
-relacje z API i kodem.</p>
-</li>
-<li>
-<p><strong>Paweł Chłodnicki</strong>: Paweł swoją karierę rozpoczął na stanowisku technical
-writera, a obecnie pracuje jako Content Designer w Docplanner, Doświadczenie
-zdobywa od 15 lat, zaczynając od tłumaczeń i lokalizacji, aby po czasie
-odnaleźć się w obszarze UX oraz product designu.</p>
-</li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="kiedy-i-gdzie">Kiedy i gdzie<a href="https://techwriter.pl/content-bytes-pazdziernik-2024#kiedy-i-gdzie" class="hash-link" aria-label="Bezpośredni link do Kiedy i gdzie" title="Bezpośredni link do Kiedy i gdzie">​</a></h2>
-<p><strong>Data</strong>: 03.10.2024 <br> <strong>Godzina</strong>: 18:00 <br> <strong>Miejsce</strong>: Forte Spaces,
-Krupnicza 3, Kraków</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="kilka-słów-o-sponsorach">Kilka słów o sponsorach<a href="https://techwriter.pl/content-bytes-pazdziernik-2024#kilka-s%C5%82%C3%B3w-o-sponsorach" class="hash-link" aria-label="Bezpośredni link do Kilka słów o sponsorach" title="Bezpośredni link do Kilka słów o sponsorach">​</a></h2>
-<p>Pierwsze spotkanie Content Bytes jest sponsorowane przez <strong>Forte Digital</strong> i
-<strong>Apify</strong>.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="forte-digital">Forte Digital<a href="https://techwriter.pl/content-bytes-pazdziernik-2024#forte-digital" class="hash-link" aria-label="Bezpośredni link do Forte Digital" title="Bezpośredni link do Forte Digital">​</a></h3>
-<p>W DNA Forte Digital znajdziesz pierwiastek polski, skandynawski i oczywiście
-technologiczny. Forte Digital powstało w 2017 roku jako owoc udanej współpracy
-polskich i norweskich założycieli. Od tego czasu z powodzeniem czerpie to, co
-najlepsze ze swoich kultur, a od niedawna w swoich szeregach ma koleżanki i
-kolegów z Danii oraz Niemiec. Forte Digital skupia się najczęściej na projektach
-dotyczących obszaru e-commerce w pełnym zakresie realizacji – development i
-consulting IT oraz design.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="apify">Apify<a href="https://techwriter.pl/content-bytes-pazdziernik-2024#apify" class="hash-link" aria-label="Bezpośredni link do Apify" title="Bezpośredni link do Apify">​</a></h3>
-<p><a href="https://apify.com/" target="_blank" rel="noopener noreferrer">Apify</a> jest platformą, którą programiści mogą wykorzystać
-do budowania, wdrażania i publikowania narzędzi do web scrapingu, ekstrakcji
-danych i automatyzacji. Apify udostępnia ponad 1500 gotowych narzędzi,
-pozwalając na uzyskanie dodatkowego przychodu poprzez udostępnianie je innym
-użytkownikom. Dodatkowo Apify odpowiada za <a href="https://crawlee.dev/" target="_blank" rel="noopener noreferrer">Crawlee</a>,
-publiczną bibliotekę do web scrapingu.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="o-nas">O nas<a href="https://techwriter.pl/content-bytes-pazdziernik-2024#o-nas" class="hash-link" aria-label="Bezpośredni link do O nas" title="Bezpośredni link do O nas">​</a></h2>
-<p>Celem <strong>Content Bytes</strong> jest stworzenie przestrzeni, w której twórcy contentu
-mogą wymieniać się doświadczeniami i omawiać tematy związane z tworzeniem
-treści. Według nas, content to nie tylko sam proces pisania, ale tak
-naprawdę&nbsp;cały ekosystem uwzględniający UX, UI, design, a także zagadnienia
-dostępności, zarządzania i związanej z nimi technologii.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="skontaktuj-się-z-organizatorem">Skontaktuj się z organizatorem<a href="https://techwriter.pl/content-bytes-pazdziernik-2024#skontaktuj-si%C4%99-z-organizatorem" class="hash-link" aria-label="Bezpośredni link do Skontaktuj się z organizatorem" title="Bezpośredni link do Skontaktuj się z organizatorem">​</a></h3>
-<p>Organizatorom zależy, by spotkania były istotne i przybliżały tematy, które są
-dla Was interesujące. Możecie zgłosić temat, a my dołożymy wszelkich starań, aby
-znaleźć prelegentów, którzy będą mogli o nim porozmawiać. Możecie także sami
-zostać prelegentami na jednym z naszych spotkań.</p>
-<p>Jeżeli jesteście zainteresowani, napiszcie do nas:
-<strong><a href="mailto:contentbytes.krk@gmail.com" target="_blank" rel="noopener noreferrer">contentbytes.krk@gmail.com</a></strong>.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="często-zadawane-pytania">Często zadawane pytania<a href="https://techwriter.pl/content-bytes-pazdziernik-2024#cz%C4%99sto-zadawane-pytania" class="hash-link" aria-label="Bezpośredni link do Często zadawane pytania" title="Bezpośredni link do Często zadawane pytania">​</a></h3>
-<p>P: Czy wydarzenie będzie nagrywane lub transmitowane na żywo? <br> O: Na
-chwilę obecną nie. Stawiamy na spotkania na miejscu, gdzie możesz osobiście
-poznać inne osoby zainteresowane contentem.</p>
-<p>P: Czy można udostępnić prezentacje prelegentów? <br> O: To zależy od
-prelegenta. Podczas wydarzenia można jednak zadawać pytania i robić zdjęcia,
-można też zapytać o udostępnienie slajdów.</p>
-<p>P: Zarejestrowałem/am się, ale nie mogę wziąć udziału. Co powinienem/nnam
-zrobić? <br> O: Jeśli wiesz, że nie dasz rady przyjść, daj nam znać pisząc na
-adres <a href="mailto:contentbytes.krk@gmail.com" target="_blank" rel="noopener noreferrer">contentbytes.krk@gmail.com</a>.</p>]]></content>
-        <author>
-            <name>Barbara Czyż</name>
         </author>
         <category label="news" term="news"/>
         <category label="meetups" term="meetups"/>
@@ -2090,5 +1610,418 @@ dostarczanie przygotowanych treści oraz obsługuje różne formaty danych dla
         <category label="edukacja" term="edukacja"/>
         <category label="webinarium" term="webinarium"/>
         <category label="webinarium" term="webinarium"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Konferencyjna jesień x 5 - patronujemy]]></title>
+        <id>https://techwriter.pl/konferencyjna-jesien-x-5</id>
+        <link href="https://techwriter.pl/konferencyjna-jesien-x-5"/>
+        <updated>2024-09-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Co jest lepsze od jednej konferencji? Kilka darmowych konferencji 😊]]></summary>
+        <content type="html"><![CDATA[<p>Co jest lepsze od jednej konferencji? Kilka darmowych konferencji 😊</p>
+<p>Żarty na bok. Wspieramy i rekomendujemy cykl pięciu wydarzeń online, które
+pozwolą uczestniczkom i uczestnikom poznać nieco lepiej jeden z wybranych
+obszarów IT.</p>
+<p>Oto lista konferencji, do których warto dołączyć:</p>
+<ul>
+<li><a href="https://womentechstyle.pl/" target="_blank" rel="noopener noreferrer">Women TechStyle Summit 2024 (online) Autumn Edition</a> -
+19 września 2024 r., konferencja dla kobiet w IT</li>
+<li><a href="https://javeloper.pl/" target="_blank" rel="noopener noreferrer">Javeloper 2024 (online) Autumn Edition</a> - 26 września
+2024 r., konferencja dla specjalistów Javy i architektury oprogramowania</li>
+<li><a href="https://devjssummit.pl/" target="_blank" rel="noopener noreferrer">dev.js Summit 2024 (online) Autumn Edition</a> - 17
+października 2024 r., konferencja o technologiach front-endowych i
+JavaScripcie</li>
+<li><a href="https://expertsummit.pl/" target="_blank" rel="noopener noreferrer">Expert Summit 2024 - All about Microsoft Technologies (online)</a> -
+7 listopada 2024 r., konferencja o technologiach Microsoft</li>
+<li><a href="https://pytechsummit.pl/" target="_blank" rel="noopener noreferrer">Pytech Summit 2024 (online) Winter Edition</a> - 10
+grudnia 2024 r. - konferencja dla pythonowców</li>
+</ul>
+<p>Każdej z konferencji będą towarzyszyły Wirtualne Targi Pracy. Ponadto, jak to na
+podobnych wydarzeniach bywa, każde z nich jest świetną okazją, aby poszerzyć
+sieć kontaktów i poznać ciekawych ludzi. My z pewnością skorzystamy z tej
+okazji, aby szerzyć świadomość istnienia tej pozornie niszowej dziedziny, jaką
+jest technical writing.</p>
+<p>Podsumujmy:</p>
+<ul>
+<li>Konferencje odbywają się <strong>od września do grudnia</strong></li>
+<li>Rejestracja i udział są <strong>bezpłatne</strong></li>
+<li>Warto dołączyć - nic nie tracisz, a możesz zyskać kontakty, inspiracje i
+wiedzę.</li>
+</ul>
+<p>Serdecznie zapraszamy w imieniu organizatorów!</p>]]></content>
+        <author>
+            <name>Magda Niedźwiecka</name>
+        </author>
+        <category label="news" term="news"/>
+        <category label="z-kraju" term="z-kraju"/>
+        <category label="konferencje" term="konferencje"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#ContentDay - Relacja]]></title>
+        <id>https://techwriter.pl/meet-content-krk-content-day-podsumowanie</id>
+        <link href="https://techwriter.pl/meet-content-krk-content-day-podsumowanie"/>
+        <updated>2024-06-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Pierwszy #ContentDay już za nami, czas więc na krótkie podsumowanie 😊]]></summary>
+        <content type="html"><![CDATA[<p>Pierwszy <strong>#ContentDay</strong> już za nami, czas więc na krótkie podsumowanie 😊
+Czerwcowe wydarzenie odwiedziła spora grupa contentowych pasjonatów, a sale
+Uniwersytetu Jagiellońskiego pozwoliły nam na przeprowadzenie warsztatów i
+prezentacji.</p>
+<p>Nie zabrakło również czasu na networking, wymianę doświadczeń i opinii.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="warsztaty">Warsztaty<a href="https://techwriter.pl/meet-content-krk-content-day-podsumowanie#warsztaty" class="hash-link" aria-label="Bezpośredni link do Warsztaty" title="Bezpośredni link do Warsztaty">​</a></h2>
+<p>Dzień rozpoczęliśmy od warsztatów prowadzonych przez dwóch Pawłów.</p>
+<p><a href="https://www.linkedin.com/in/pawel-kowaluk/" target="_blank" rel="noopener noreferrer"><strong>Paweł Kowaluk</strong></a> wprowadził nas w
+tajniki Design Thinking. Podczas pracy nad projektem o nazwie <strong>Smart Home</strong>,
+prowadziliśmy wywiady z użytkownikami oraz stworzyliśmy personę, a całość
+zwieńczyliśmy projektem strony z dokumentacją. W trakcie warsztatów poznaliśmy
+założenia metody Design Thinking i nauczyliśmy się, jak można wykorzystać je w
+swoich projektach.</p>
+<p>Z kolei <a href="https://www.linkedin.com/in/pawelchlodnicki/" target="_blank" rel="noopener noreferrer"><strong>Paweł Chłodnicki</strong></a>
+wykorzystał swoją wiedzę designera i pokazał nam jak zaprojektować aplikację
+mobilną. Tworząc swój pierwszy prototyp, mieliśmy szansę zapoznać się z
+funkcjonalnościami Figmy.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="visual-design-w-komunikacji-technicznej">Visual design w komunikacji technicznej<a href="https://techwriter.pl/meet-content-krk-content-day-podsumowanie#visual-design-w-komunikacji-technicznej" class="hash-link" aria-label="Bezpośredni link do Visual design w komunikacji technicznej" title="Bezpośredni link do Visual design w komunikacji technicznej">​</a></h2>
+<p>Po warsztatach i przerwie nadszedł czas na drugą część programu, czyli
+prezentacje.</p>
+<p>Rozpoczęliśmy od omówienia roli projektów graficznych w dokumentacji.
+<a href="https://www.linkedin.com/in/maciekchudanski/" target="_blank" rel="noopener noreferrer">Maciek Chudański</a> pokazał nam jak
+ważna jest graficzna prezentacja treści, obrazów, rysunków i schematów.</p>
+<p>Zasady dotyczące tworzenia grafik Maciek zilustrował wieloma przykładami. Między
+innymi, dowiedzieliśmy się jaką rolę elementy wizualne odgrywają w dokumentacji,
+jak dobór elementów wiąże się z kontekstem kulturowym, a także jak dokumentacja
+którą czytamy na ekranie różni się od tej drukowanej.</p>
+<p>Mnóstwo przykładów i porównań zawartych w prezentacji spotkało się z
+zainteresowaniem publiczności oraz wieloma pytaniami.</p>
+<p>A jeżeli chcesz dowiedzieć się więcej o prezentacji Maćka, zapraszamy na
+<a href="https://techwriter.pl/meet-content-wro-maj-2024-relacja#visual-design-w-komunikacji-technicznej" target="_blank" rel="noopener noreferrer">relację z wrocławskiego spotkania MeetContent</a>!</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="rola-estymacji-w-zespole-tech-writerskim">Rola estymacji w zespole tech writerskim<a href="https://techwriter.pl/meet-content-krk-content-day-podsumowanie#rola-estymacji-w-zespole-tech-writerskim" class="hash-link" aria-label="Bezpośredni link do Rola estymacji w zespole tech writerskim" title="Bezpośredni link do Rola estymacji w zespole tech writerskim">​</a></h2>
+<p>Następna prezentacja również obfitowała w grafiki i diagramy ilustrujące wyniki
+projektu <a href="https://www.linkedin.com/in/monika-mrozek/" target="_blank" rel="noopener noreferrer">Moniki Mrozek</a> i jej
+zespołu. Monika opowiedziała nam jak wraz z zespołem przeanalizowała codzienne
+zadania, aby oszacować pracę technical writera i prognozować obłożenie
+zadaniami.</p>
+<p>Dodatkowym benefitem tego projektu było zdobycie argumentów przemawiających za
+rozszerzeniem zespołu.</p>
+<p>Jako że nie była to pierwsza prezentacja Moniki na ten temat, możecie zapoznać
+się ze szczegółami
+<a href="https://techwriter.pl/meet-content-wro-kwiecien-2024-relacja#estymacja" target="_blank" rel="noopener noreferrer">w tej relacji</a>.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="stowarzyszenie-autorów-i-ilustratorów-technicznych">Stowarzyszenie Autorów i Ilustratorów Technicznych<a href="https://techwriter.pl/meet-content-krk-content-day-podsumowanie#stowarzyszenie-autor%C3%B3w-i-ilustrator%C3%B3w-technicznych" class="hash-link" aria-label="Bezpośredni link do Stowarzyszenie Autorów i Ilustratorów Technicznych" title="Bezpośredni link do Stowarzyszenie Autorów i Ilustratorów Technicznych">​</a></h2>
+<p>Po krótkiej przerwie poświęconej networkingowi przy kawie i ciasteczkach
+powróciliśmy do sali, żeby posłuchać o <strong>Stowarzyszeniu Autorów i Ilustratorów
+Technicznych</strong>.
+<a href="https://www.linkedin.com/in/%C5%82ukasz-rybka-364a81190/" target="_blank" rel="noopener noreferrer">Łukasz Rybka</a>
+wystąpił z propozycją utworzenia stowarzyszenia gromadzącego twórców treści i
+ilustracji, które miałoby na celu nie tylko stworzenie wspólnych standardów i
+najlepszych praktyk w zakresie tworzenia treści, ale także ochronę i promocję
+technical writerów i designerów.</p>
+<p>Prezentację zakończyliśmy dyskusją na temat założeń stowarzyszenia oraz kroków,
+które należy podjąć, żeby wdrożyć je w życie.</p>
+<p>Więcej o <strong>SAiIT Polska</strong> możecie przeczytać w
+<a href="https://techwriter.pl/saiit-wywiad" target="_blank" rel="noopener noreferrer">wywiadzie udzielonym przez Łukasza</a> oraz
+<a href="https://www.linkedin.com/in/saiit-polska-03a008308/" target="_blank" rel="noopener noreferrer">na portalu LinkedIn</a>.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-a-teraz-coś-z-zupełnie-innej-beczki">... a teraz coś z zupełnie innej beczki<a href="https://techwriter.pl/meet-content-krk-content-day-podsumowanie#-a-teraz-co%C5%9B-z-zupe%C5%82nie-innej-beczki" class="hash-link" aria-label="Bezpośredni link do ... a teraz coś z zupełnie innej beczki" title="Bezpośredni link do ... a teraz coś z zupełnie innej beczki">​</a></h2>
+<p><strong>#ContentDay</strong> stawia nie tylko na merytorykę, ale także na humor.</p>
+<p>Dlatego też krótkie wystąpienie
+<a href="https://www.linkedin.com/in/jan-sosna/" target="_blank" rel="noopener noreferrer"><strong>Jana Sosny</strong></a> poświęcone żartom z AI
+spotkało się z niezwykle entuzjastycznym przyjęciem.</p>
+<p>Janowi wróżymy karierę w stand-upie i czekamy na więcej!</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="enterprise-ux-jak-zaprojektować-oprogramowanie-przydatne-użytkownikom-w-codziennej-pracy">Enterprise UX. Jak zaprojektować oprogramowanie przydatne użytkownikom w codziennej pracy<a href="https://techwriter.pl/meet-content-krk-content-day-podsumowanie#enterprise-ux-jak-zaprojektowa%C4%87-oprogramowanie-przydatne-u%C5%BCytkownikom-w-codziennej-pracy" class="hash-link" aria-label="Bezpośredni link do Enterprise UX. Jak zaprojektować oprogramowanie przydatne użytkownikom w codziennej pracy" title="Bezpośredni link do Enterprise UX. Jak zaprojektować oprogramowanie przydatne użytkownikom w codziennej pracy">​</a></h2>
+<p>Wydarzenie zakończyliśmy patrząc na content z perspektywy UX designerów.</p>
+<p><a href="https://www.linkedin.com/in/dominikalacheta/" target="_blank" rel="noopener noreferrer">Dominika Łacheta</a> opowiedziała
+nam o wyzwaniach, jakie stoją przed UX designerami projektującymi oprogramowanie
+przyjazne użytkownikom.</p>
+<p>Dominika przybliżyła nam różnice w wykorzystaniu oprogramowania przez
+indywidualnych użytkowników i duże przedsiębiorstwa, co przekłada się na proces
+projektowania oprogramowania. Następnie przeszliśmy wspólnie przez etapy
+projektu od rozpoznania potrzeb użytkownika, aż po dostarczenie rozwiązania. To
+pozwoliło nam zrozumieć co dla UX designera może być wyzwaniem oraz jak takim
+wyzwaniom sprostać.</p>
+<p>Prezentację dodatkowo wzbogaciły liczne memy, bo w końcu:</p>
+<p><em>Interfejs użytkownika jest jak żart - jeżeli trzeba go tłumaczyć, to znaczy, że
+nie jest trafiony</em>.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="podziękowania">Podziękowania<a href="https://techwriter.pl/meet-content-krk-content-day-podsumowanie#podzi%C4%99kowania" class="hash-link" aria-label="Bezpośredni link do Podziękowania" title="Bezpośredni link do Podziękowania">​</a></h2>
+<p>Wszystkim uczestnikom serdecznie dziękujemy za liczne przybycie! Cieszymy się,
+że razem tworzymy wspaniałą contentową społeczność, która poprzez spotkania i
+wymianę doświadczeń ma szansę na rozwój i kształtowanie podejścia do tworzenia
+treści.</p>
+<p>Dziękujemy naszym prezenterom oraz trenerom za poświęcony czas i chęć dzielenia
+się swoją wiedzą z uczestnikami. Dziękujemy także doktorowi <strong>Andrzejowi
+Kurtyce</strong> z Uniwersytetu Jagiellońskiego za pomoc w organizacji wydarzenia, gdyż
+bez niego <strong>#ContentDay</strong> nie doszedłby do skutku.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="zdjęcia">Zdjęcia<a href="https://techwriter.pl/meet-content-krk-content-day-podsumowanie#zdj%C4%99cia" class="hash-link" aria-label="Bezpośredni link do Zdjęcia" title="Bezpośredni link do Zdjęcia">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="Uczestnicy wydarzenia w trakcie warsztatów" src="https://techwriter.pl/assets/images/workshops-67d4f0da77fc1745cd2ecf24c3735f58.jpg" width="3008" height="2000" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="Maciek prezentujący swój temat" src="https://techwriter.pl/assets/images/maciek-presentation-9f18cafd9be041b1bf0e88045130b89f.jpg" width="3008" height="2000" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="Monika odpowiadająca na pytania publiczności" src="https://techwriter.pl/assets/images/monika-presentation-f46c1ff9bcf9bb4f85d78e247b126590.jpg" width="3008" height="2000" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="Publiczność słuchająca prezentacji" src="https://techwriter.pl/assets/images/audience-a3e38ed9e111524893c34fc1ea591c7c.jpg" width="3008" height="2000" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="Uczestnicy wydarzenia w trakcie przerwy kawowej" src="https://techwriter.pl/assets/images/networking-time-6bf0bbf42bf89dccaa9bfd9da2cfe4e3.jpg" width="3008" height="2000" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="Łukasz prezentujący slajd o powodach powstania stowarzyszenia" src="https://techwriter.pl/assets/images/lukasz-presentation-98717bf1d773fb1eefb349348676fcff.jpg" width="3008" height="2000" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="Dominika prezentująca swój temat" src="https://techwriter.pl/assets/images/dominika-presentation-854373bbe9215852ae26985f22a65196.jpg" width="3008" height="2000" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Barbara Czyż</name>
+        </author>
+        <category label="news" term="news"/>
+        <category label="meetcontent" term="meetcontent"/>
+        <category label="społeczność" term="społeczność"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stowarzyszenie Autorów i Ilustratorów Technicznych (SAIiT) - Wywiad z Łukaszem Rybką]]></title>
+        <id>https://techwriter.pl/saiit-wywiad</id>
+        <link href="https://techwriter.pl/saiit-wywiad"/>
+        <updated>2024-06-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Czy autorzy techniczni stanowią osobną grupę zawodową? 🤔 Dla wszystkich pracujących w tej branży z pewnością odpowiedź jest oczywista 💡]]></summary>
+        <content type="html"><![CDATA[<p>Czy autorzy techniczni stanowią osobną grupę zawodową? 🤔 Dla wszystkich pracujących w tej branży z pewnością odpowiedź jest oczywista 💡</p>
+<p>Okazuje się jednak, że poza branżą nie jest to już takie pewne. W Polsce Technical Writerzy nie są postrzegani w kategoriach samodzielnej profesji. Nasza praca często zaliczana jest do bardziej ogólnej kategorii: "usługi w sektorze IT".</p>
+<p>A to niesie za sobą pewne konsekwencje.</p>
+<p>I o tym dziś będziemy rozmawiać z <a href="https://www.linkedin.com/in/%C5%82ukasz-rybka-364a81190/" target="_blank" rel="noopener noreferrer">Łukaszem Rybką</a>, pomysłodawcą i założycielem Stowarzyszenia Autorów i Ilustratorów Technicznych (SAIiT), który działa bardzo aktywnie, promując ideę stowarzyszenia wśród społeczności dokumentalistów.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="o-inicjatorze">O inicjatorze<a href="https://techwriter.pl/saiit-wywiad#o-inicjatorze" class="hash-link" aria-label="Bezpośredni link do O inicjatorze" title="Bezpośredni link do O inicjatorze">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="opowiedz-nam-o-sobie-w-kilku-zdaniach-jak-długo-zajmujesz-się-komunikacją-techniczną-jaka-była-twoja-droga-do-tego-zawodu-i-co-teraz-robisz">Opowiedz nam o sobie w kilku zdaniach, jak długo zajmujesz się komunikacją techniczną, jaka była Twoja droga do tego zawodu i co teraz robisz?<a href="https://techwriter.pl/saiit-wywiad#opowiedz-nam-o-sobie-w-kilku-zdaniach-jak-d%C5%82ugo-zajmujesz-si%C4%99-komunikacj%C4%85-techniczn%C4%85-jaka-by%C5%82a-twoja-droga-do-tego-zawodu-i-co-teraz-robisz" class="hash-link" aria-label="Bezpośredni link do Opowiedz nam o sobie w kilku zdaniach, jak długo zajmujesz się komunikacją techniczną, jaka była Twoja droga do tego zawodu i co teraz robisz?" title="Bezpośredni link do Opowiedz nam o sobie w kilku zdaniach, jak długo zajmujesz się komunikacją techniczną, jaka była Twoja droga do tego zawodu i co teraz robisz?">​</a></h3>
+<p>Najtrudniejsze pytanie na początek? 🙂 Zawodowo przygodę z dokumentacją techniczną zacząłem w 2011 roku. Swoje pierwsze kroki w tej branży stawiałem w firmie Whirlpool, gdzie tworzyliśmy instrukcje do zmywarek, zarządzaliśmy tłumaczeniami, rysunkami czy sprawdzaliśmy prawidłowość zamówień, tak zwanych <em>BOMów</em> (BOM materiałowy to z angielskiego <em>Bill of Materials</em>, czyli dokument opisujący wszystkie niezbędne środki do wykonania konkretnego procesu produkcyjnego), itp.</p>
+<p>Tam zetknąłem się z procesami okołoprodukcyjnymi w dużej firmie. W 2017 roku zacząłem pracę w firmie Etteplan, gdzie zajmowałem się różnymi rodzajami dokumentacji a także outsourcingiem dokumentacji technicznej. W ciągu tych prawie 7 lat było mi dane pracować z dokumentacją do niezliczonej liczby urządzeń, oprogramowania i maszyn. To też była przygoda z wieloma narzędziami do tworzenia i zarządzania treścią. Od tych najprostszych, aż po wielkie “kombajny” 🙂</p>
+<p>Od marca br. prowadzę własną działalność gospodarczą w zakresie tworzenia dokumentacji, doradzam klientom w tej dziedzinie i prowadzę szkolenia z zakresu obsługi oprogramowania i pisania.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="idea">Idea<a href="https://techwriter.pl/saiit-wywiad#idea" class="hash-link" aria-label="Bezpośredni link do Idea" title="Bezpośredni link do Idea">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="opowiedz-nam-o-początkach-projektu-stowarzyszenia-jak-to-się-stało-że-zacząłeś-myśleć-o-takiej-formie-organizacyjnej">Opowiedz nam o początkach projektu stowarzyszenia. Jak to się stało, że zacząłeś myśleć o takiej formie organizacyjnej?<a href="https://techwriter.pl/saiit-wywiad#opowiedz-nam-o-pocz%C4%85tkach-projektu-stowarzyszenia-jak-to-si%C4%99-sta%C5%82o-%C5%BCe-zacz%C4%85%C5%82e%C5%9B-my%C5%9Ble%C4%87-o-takiej-formie-organizacyjnej" class="hash-link" aria-label="Bezpośredni link do Opowiedz nam o początkach projektu stowarzyszenia. Jak to się stało, że zacząłeś myśleć o takiej formie organizacyjnej?" title="Bezpośredni link do Opowiedz nam o początkach projektu stowarzyszenia. Jak to się stało, że zacząłeś myśleć o takiej formie organizacyjnej?">​</a></h3>
+<p>Moje pierwsze pomysły powstania takiego stowarzyszenia narodziły się w 2017 roku, gdy okazało się, że zawód autora technicznego w Polsce formalnie nie istnieje.</p>
+<p>Z tego powodu, nie do końca jasne było, jak zakwalifikować naszą profesję i ją zgłosić do Urzędu Pracy czy do ZUS. Kiedy ktoś pytał o mój zawód, odpowiedź niejednokrotnie wywoływała zdziwienie w oczach ludzi: co to za profesja?</p>
+<p>Pamiętam, jak wiele trudności sprawiało i nadal sprawia, rekrutowanie. Spore rozbieżności w nazywaniu stanowisk potrafią wyprowadzić z równowagi niejedną osobę z dużym doświadczeniem w rekrutacji. Pamiętam jak wiele czasu i rozmów poświęciliśmy w zespole na wypracowanie standardów i kryteriów jakie powinni spełniać kandydaci na stanowisko autora technicznego.</p>
+<p>Wiele problemów przyniosła zmiana interpretacji “pracy twórczej” przez Krajową Administrację Skarbową (KAS), kilka lat temu. Okazało się, że są duże rozbieżności w interpretowaniu pracy specjalisty, w zależności od głównej działalności firmy, czy projektu. Nie było, i nadal nie ma spójnego stanowiska w tej sprawie.</p>
+<p>W 2019 postanowiłem zająć się tym problemem w mojej pracy licencjackiej, w której przeprowadziłem analizę problematyki prawa autorskiego w pracy specjalisty od dokumentacji. Pozwoliło mi to na dogłębną ocenę sytuacji prawnej zawodu autora technicznego w Polsce i porównać ją do sytuacji w innych krajach, takich jak Niemcy, Włochy, Francja, gdzie ten zawód posiada długoletnią tradycję.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="forma">Forma<a href="https://techwriter.pl/saiit-wywiad#forma" class="hash-link" aria-label="Bezpośredni link do Forma" title="Bezpośredni link do Forma">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="dlaczego-forma-stowarzyszenia-i-czym-ono-będzie-się-zajmować">Dlaczego forma stowarzyszenia i czym ono będzie się zajmować?<a href="https://techwriter.pl/saiit-wywiad#dlaczego-forma-stowarzyszenia-i-czym-ono-b%C4%99dzie-si%C4%99-zajmowa%C4%87" class="hash-link" aria-label="Bezpośredni link do Dlaczego forma stowarzyszenia i czym ono będzie się zajmować?" title="Bezpośredni link do Dlaczego forma stowarzyszenia i czym ono będzie się zajmować?">​</a></h3>
+<p>Jest to obecnie najszybsza i najprostsza droga do zarejestrowania profesji w “Wykazie zawodów” Ministerstwa Pracy. To na jego podstawie ZUS kwalifikuje zawody po swojej stronie.</p>
+<p>Stowarzyszenie jest też formą najbardziej demokratyczną w wyborze klasyfikacji umiejętności zawodowych, bo nie ukrywajmy, w tej profesji każdy z nas jest “skądś”. Nikt z nas nie wykształcił się od razu w kierunku autora czy ilustratora technicznego.</p>
+<p>Od paru lat obserwuję działania organizacji <a href="https://itcqf.org/" target="_blank" rel="noopener noreferrer">ITCQF</a> w kierunku propagowania zawodu autora technicznego i próby odpowiedzi na rzeczywiste potrzeby rynku w tym kierunku. Jako stowarzyszenie, możemy efektywniej wpływać na świadomość pracodawców w obszarze potrzeb związanych z dokumentacją techniczną.</p>
+<p>Będziemy mieli większą siłę przebicia w przypadku ustandaryzowania nazwy zawodu, kwalifikacji potrzebnych do jego wykonywania, znajomości metodyk, a co za tym idzie ustandaryzowania stawek za wykonywaną pracę.</p>
+<p>Z pewnością warto również nawiązać współpracę z pokrewnymi organizacjami z naszej branży, na przykład z Tekom, które jest obecnie największym stowarzyszeniem autorów technicznych w Europie. Z pewnością miłe też będzie posiadać własną konferencję lub być częścią działań takich jak <em>soap!</em></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="postęp-prac">Postęp prac<a href="https://techwriter.pl/saiit-wywiad#post%C4%99p-prac" class="hash-link" aria-label="Bezpośredni link do Postęp prac" title="Bezpośredni link do Postęp prac">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="na-jakim-etapie-aktualnie-znajduje-się-ten-projekt">Na jakim etapie aktualnie znajduje się ten projekt?<a href="https://techwriter.pl/saiit-wywiad#na-jakim-etapie-aktualnie-znajduje-si%C4%99-ten-projekt" class="hash-link" aria-label="Bezpośredni link do Na jakim etapie aktualnie znajduje się ten projekt?" title="Bezpośredni link do Na jakim etapie aktualnie znajduje się ten projekt?">​</a></h3>
+<p>Obecnie z kilkoma osobami pracujemy nad statutem stowarzyszenia. Jest to pierwszy krok niezbędny do jego rejestracji w sądzie.</p>
+<p>Im więcej osób byłoby zaangażowanych w nagłośnienie sprawy lub w pomoc promującą inicjatywę w social mediach - tym lepiej.</p>
+<p>Serdecznie więc zapraszam do kontaktu. Obecnie staram się ogarnąć to sam, a doba ma niestety tylko 24h.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="dla-kogo">Dla kogo?<a href="https://techwriter.pl/saiit-wywiad#dla-kogo" class="hash-link" aria-label="Bezpośredni link do Dla kogo?" title="Bezpośredni link do Dla kogo?">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="na-jakie-potrzeby-odpowiada-ta-inicjatywa">Na jakie potrzeby odpowiada ta inicjatywa?<a href="https://techwriter.pl/saiit-wywiad#na-jakie-potrzeby-odpowiada-ta-inicjatywa" class="hash-link" aria-label="Bezpośredni link do Na jakie potrzeby odpowiada ta inicjatywa?" title="Bezpośredni link do Na jakie potrzeby odpowiada ta inicjatywa?">​</a></h3>
+<p>Z pewnością chcemy ustandaryzować zawód dokumentalisty i ilustratora technicznego.</p>
+<p>Jak wiemy z doświadczenia czy rozmów prowadzonych na spotkaniach branżowych, wiele firm działa trochę po omacku i zakres obowiązków Technical Writera często bardzo różni się pomiędzy firmami.</p>
+<p>Wydarzenia  organizowane przez <em>MeetContent</em> lub <em>soap!</em> pozwalają na dużą wymianę wiedzy i doświadczeń, ale takie podejście się nie skaluje ani nie wspiera powszechnej adopcji dobrych praktyk.</p>
+<p>Zauważyłem, że jest rozbieżność w prowadzeniu projektów w zależności od rodzaju produktu, dla jakiego powstaje dokumentacja. Inaczej pisze się dokumentację dla oprogramowania, a inaczej dla przemysłu maszynowego, precyzyjnego czy AGD. O takiej wisience na torcie, jak branża lotnicza czy militarna nie wspomina się wcale, a wiele standardów przyszło właśnie z tamtej strony. Z pewnością przyda się uświadamianie, że autor techniczny nie powinien się ograniczać do jednej branży czy produktu. To nie one cechują umiejętności.</p>
+<p>To jest trochę, jak z szewcem. Szewc na podstawie zdobytej wiedzy, potrafi zrobić czy naprawić każdy rodzaj buta. To, czy dany szewc specjalizuje się w mokasynach, a inny w szpilkach to już ich wybór. Obaj jednak potrafią naprawić i zrobić każdy but.</p>
+<p>Niektórzy autorzy nie czują się dobrze poza swoim ogródkiem i uważają że skoro pisali dla softu, to nie napiszą instrukcji dla piekarnika. Z własnego doświadczenia wiem, że to duży mit i warto go obalić.</p>
+<p>Rozwój sztucznej inteligencji, trochę kładzie się cieniem na naszą profesję, ale tutaj pozostaję optymistą, co do przyszłości naszego zawodu. Ktoś tą niepokorną AI musi jakoś wytresować i nakarmić odpowiednimi treściami.</p>
+<p>Wiemy jak zarządzać metadanymi i sądzę, że to właśnie jest przyszłość naszego zawodu, ale nie wybiegajmy zanadto w przyszłość.
+Stowarzyszenie ma głównie pomagać autorom i ilustratorom aby podnosić ich kompetencje twarde, w taki sposób aby potrafili sobie poradzić w każdej z branż, która potrzebuje dokumentacji.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="korzyści-z-członkostwa">Korzyści z członkostwa<a href="https://techwriter.pl/saiit-wywiad#korzy%C5%9Bci-z-cz%C5%82onkostwa" class="hash-link" aria-label="Bezpośredni link do Korzyści z członkostwa" title="Bezpośredni link do Korzyści z członkostwa">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="jakie-widzisz-korzyści-dla-dokumentalistów-i-ilustratorów-technicznych-z-bycia-członkiem-stowarzyszenia">Jakie widzisz korzyści dla dokumentalistów i ilustratorów technicznych z bycia członkiem stowarzyszenia?<a href="https://techwriter.pl/saiit-wywiad#jakie-widzisz-korzy%C5%9Bci-dla-dokumentalist%C3%B3w-i-ilustrator%C3%B3w-technicznych-z-bycia-cz%C5%82onkiem-stowarzyszenia" class="hash-link" aria-label="Bezpośredni link do Jakie widzisz korzyści dla dokumentalistów i ilustratorów technicznych z bycia członkiem stowarzyszenia?" title="Bezpośredni link do Jakie widzisz korzyści dla dokumentalistów i ilustratorów technicznych z bycia członkiem stowarzyszenia?">​</a></h3>
+<p>No cóż, przynależność do swego rodzaju elity zawodowej sama w sobie jest korzyścią 🙂</p>
+<p>Jak już wspominałem wcześniej, będąc członkiem stowarzyszenia, będzie nam łatwiej reprezentować całą grupę zawodową niż występować osobno do instytucji w kraju, by reprezentować swoje interesy.</p>
+<p>Lepiej lobbuje się w grupie, niż samemu, a im nas więcej, tym bardziej jesteśmy widoczni jako grupa zawodowa z bogatym doświadczeniem i wysoko wyspecjalizowaną wiedzą. Bycie członkiem stowarzyszenia daje też realny wpływ na tworzenie standardów, które ułatwią pracodawcom ustalenie zakresu obowiązków i wymaganych umiejętności.</p>
+<p>Poza tym stowarzyszenie jest też formą wsparcia zawodowego czy prawnego dla jego członka.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="rodzaje-członków-stowarzyszenia">Rodzaje członków stowarzyszenia<a href="https://techwriter.pl/saiit-wywiad#rodzaje-cz%C5%82onk%C3%B3w-stowarzyszenia" class="hash-link" aria-label="Bezpośredni link do Rodzaje członków stowarzyszenia" title="Bezpośredni link do Rodzaje członków stowarzyszenia">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="projekt-statutu-przewiduje-kilka-rodzajów-członków-czy-możesz-pokrótce-opowiedzieć-czym-się-różnią">Projekt statutu przewiduje kilka rodzajów członków. Czy możesz pokrótce opowiedzieć czym się różnią?<a href="https://techwriter.pl/saiit-wywiad#projekt-statutu-przewiduje-kilka-rodzaj%C3%B3w-cz%C5%82onk%C3%B3w-czy-mo%C5%BCesz-pokr%C3%B3tce-opowiedzie%C4%87-czym-si%C4%99-r%C3%B3%C5%BCni%C4%85" class="hash-link" aria-label="Bezpośredni link do Projekt statutu przewiduje kilka rodzajów członków. Czy możesz pokrótce opowiedzieć czym się różnią?" title="Bezpośredni link do Projekt statutu przewiduje kilka rodzajów członków. Czy możesz pokrótce opowiedzieć czym się różnią?">​</a></h3>
+<p>Obecnie jest to koncept, który będzie pewnie podlegał modyfikacjom. Sami musimy ustalić, czy taka różnorodność w rodzaju członkostwa jest potrzebna.</p>
+<p>Projektowany statut przewiduje kilka rodzajów członkostwa w stowarzyszeniu:</p>
+<ul>
+<li>
+<p><strong>Zwykłe</strong> - Tu wymagane będzie minimum trzyletnie doświadczenie w zawodzie autora lub ilustratora technicznego. Posiadając taki rodzaj członkostwa mamy pewność, że nasze interesy są odpowiednio reprezentowane przez stowarzyszenie. Mamy też realny wpływ na działalność stowarzyszenia przez głosowanie na walnym zgromadzeniu.</p>
+</li>
+<li>
+<p><strong>Nadzwyczajne/specjalne</strong> - Daje te same prawa co członkostwo zwykłe, warunkiem jest jednak posiadanie dłuższego stażu pracy w zawodzie (z pewnością będziemy dyskutować nad stażem dłuższym niż 5 lat) i odpowiednio wysokimi kwalifikacjami.</p>
+</li>
+<li>
+<p><strong>Honorowe</strong> - Ten rodzaj członkostwa nadawany jest przez stowarzyszenie i jest przewidziane dla osób czynnie wspierających jego działania. Jest przeznaczone dla osób, które nie są autorami lub ilustratorami technicznymi. Takie członkostwo jest bardziej opiniotwórcze i symboliczne, nie daje ono prawa głosu na walnym zgromadzeniu.</p>
+</li>
+<li>
+<p><strong>Wspierające</strong> - Członkostwo wspierające jest stworzone z myślą o instytucjach lub organizacjach posiadających osobowość prawną, które będą wspierały stowarzyszenie medialnie czy finansowo. Oczywiście takie członkostwo jest pozbawione możliwości udziału i głosowaniu w walnym zgromadzeniu.</p>
+</li>
+</ul>
+<p>Jak już wspomniałem czeka nas jeszcze praca nad wieloma aspektami statutu, więc niektóre z rodzajów członkostwa mogą ulec zmianie.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="kontakt">Kontakt<a href="https://techwriter.pl/saiit-wywiad#kontakt" class="hash-link" aria-label="Bezpośredni link do Kontakt" title="Bezpośredni link do Kontakt">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="jak-można-się-włączyć-w-prace-stowarzyszenia">Jak można się włączyć w prace Stowarzyszenia?<a href="https://techwriter.pl/saiit-wywiad#jak-mo%C5%BCna-si%C4%99-w%C5%82%C4%85czy%C4%87-w-prace-stowarzyszenia" class="hash-link" aria-label="Bezpośredni link do Jak można się włączyć w prace Stowarzyszenia?" title="Bezpośredni link do Jak można się włączyć w prace Stowarzyszenia?">​</a></h3>
+<p>Z pewnością zbliża się spotkanie na którym będziemy dyskutować o zapisach statutu i myślę że nastąpi to po wakacjach. Jeżeli się uda, to wstępnie do końca roku powinniśmy zdążyć z założeniem stowarzyszenia.</p>
+<p>Zapraszam wszystkich chętnych do współdziałania.</p>
+<p>Zawsze jest tak, że ktoś musi zacząć, a potem wszystko nabiera rozpędu 😉</p>
+<p>Zachęcam do dołączenia do grona “założycieli”. Można się ze mną kontaktować przez LinkedIn lub drogą mailową:</p>
+<ul>
+<li>
+<p><a href="https://www.linkedin.com/in/saiit-polska-03a008308/" target="_blank" rel="noopener noreferrer">LinkedIn</a></p>
+</li>
+<li>
+<p>Email: <a href="mailto:biuro.saiit@gmail.com" target="_blank" rel="noopener noreferrer">biuro.saiit@gmail.com</a></p>
+</li>
+</ul>
+<p>Serdecznie dziękuję za rozmowę 🙂</p>]]></content>
+        <author>
+            <name>Monika Mrozek</name>
+        </author>
+        <category label="stowarzyszenie" term="stowarzyszenie"/>
+        <category label="zrzeszenia-branżowe" term="zrzeszenia-branżowe"/>
+        <category label="promocja-branży" term="promocja-branży"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Konferencja Tłumaczy 2024 - patronujemy!]]></title>
+        <id>https://techwriter.pl/konferencja-tlumaczy-2024</id>
+        <link href="https://techwriter.pl/konferencja-tlumaczy-2024"/>
+        <updated>2024-06-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Kolejny rok i kolejna Konferencja Tłumaczy (KTLC). Już od kilku lat jesteśmy jej]]></summary>
+        <content type="html"><![CDATA[<p>Kolejny rok i kolejna Konferencja Tłumaczy (KTLC). Już od kilku lat jesteśmy jej
+dumnym patronem - nie inaczej jest w tym roku.</p>
+<p>Poza patronatem również aktywnie uczestniczymy w konferencji (czasami nawet jako
+prelegenci i prelegentki). Dlatego możemy ją Wam polecić z absolutnym spokojem o
+wysoką merytoryczną jakość oraz świetną atmosferę.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="gdzie-i-kiedy"><strong>Gdzie i kiedy?</strong><a href="https://techwriter.pl/konferencja-tlumaczy-2024#gdzie-i-kiedy" class="hash-link" aria-label="Bezpośredni link do gdzie-i-kiedy" title="Bezpośredni link do gdzie-i-kiedy">​</a></h2>
+<p>Tegoroczna edycja <a href="https://konferencjatlumaczy.pl/" target="_blank" rel="noopener noreferrer">Konferencji Tłumaczy</a>
+odbędzie się 28 września w Warszawie, a towarzyszyć jej będzie
+<a href="https://translation-conference.com/" target="_blank" rel="noopener noreferrer">Translation and Localization Conference</a> –
+dwudniowe wydarzenie, zaplanowane na 27-28 września. Każde z wydarzeń ma osobny
+program i osobną listę prelegentów - obie propozycje w równym stopniu godne
+polecenia. Podobnie jak w ubiegłym roku, konferencja będzie miała formę
+hybrydową: stacjonarnie w Golden Tulip Warsaw Center oraz online na platformie
+Gridaly.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="dodatkowe-atrakcje"><strong>Dodatkowe atrakcje</strong><a href="https://techwriter.pl/konferencja-tlumaczy-2024#dodatkowe-atrakcje" class="hash-link" aria-label="Bezpośredni link do dodatkowe-atrakcje" title="Bezpośredni link do dodatkowe-atrakcje">​</a></h2>
+<p>Organizatorzy zadbali także o imprezy towarzyszące - warto przybyć do Warszawy
+już w czwartek, 26 września, wypić powitalnego drinka i wziąć udział w panelu
+dyskusyjnym. W niedzielę natomiast, po zakończeniu części merytorycznej, na
+uczestniczki i uczestników czeka gra miejska i zwiedzanie stolicy.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="dla-kogo"><strong>Dla kogo?</strong><a href="https://techwriter.pl/konferencja-tlumaczy-2024#dla-kogo" class="hash-link" aria-label="Bezpośredni link do dla-kogo" title="Bezpośredni link do dla-kogo">​</a></h2>
+<p>Konferencja, jak sama nazwa sugeruje, jest adresowana do osób związanych z
+szeroko pojętą branżą tłumaczeniową, zajmujących się pracą z tekstem i językiem,
+przedstawicieli biur tłumaczeniowych, filologów, prawników, naukowców, twórców
+narzędzi CAT. Mile widziani są oczywiście tech writerzy oraz specjaliści od
+lokalizacji produktu. Wstępna lista prelegentów dostępna jest
+<a href="https://konferencja-tlumaczy.pl/?page_id=2121" target="_blank" rel="noopener noreferrer">pod tym linkiem</a>. Z
+doświadczenia wiemy, że program konferencji jest na tyle urozmaicony, że każdy
+znajdzie coś dla siebie.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="motyw-przewodni"><strong>Motyw przewodni</strong><a href="https://techwriter.pl/konferencja-tlumaczy-2024#motyw-przewodni" class="hash-link" aria-label="Bezpośredni link do motyw-przewodni" title="Bezpośredni link do motyw-przewodni">​</a></h2>
+<p>Czy boisz się zmian i oswajasz je powoli? A może wręcz przeciwnie, jesteś
+człowiekiem zmiany i wierzysz, że twoja branża może na niej zyskać? Tegoroczna
+edycja jest właśnie dla Was, ponieważ jej temat przewodni to:</p>
+<p><strong>Ludzie (!) Zmiany (!) – Ludzie zmiany!</strong></p>
+<p>Jak rozumieć ten motyw? Pomyśl o poniższych zagadnieniach:</p>
+<ul>
+<li>Jakie zmiany obserwujecie w swoim otoczeniu zawodowym w ostatnim roku?</li>
+<li>Czy te zmiany były do przewidzenia, czy też Was zaskoczyły?</li>
+<li>Jak możemy być katalizatorami zmian?</li>
+<li>Jak być „ludźmi zmian”, którzy wyprzedzają rzeczywistość, by ją kształtować?</li>
+<li>Gdzie w naszej zmieniającej się rzeczywistości zawodowej są ludzie i ludzkie
+umiejętności?</li>
+<li>A może nie takie te zmiany straszne, jak je malują?</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="jak-dołączyć"><strong>Jak dołączyć?</strong><a href="https://techwriter.pl/konferencja-tlumaczy-2024#jak-do%C5%82%C4%85czy%C4%87" class="hash-link" aria-label="Bezpośredni link do jak-dołączyć" title="Bezpośredni link do jak-dołączyć">​</a></h2>
+<p>Bilety na tegoroczną konferencję możesz kupić
+<a href="https://ktlc-2024.gridaly.com/registration" target="_blank" rel="noopener noreferrer">tu</a>.</p>
+<p><strong>Do 15 lipca</strong> możecie skorzystać z rabatu 25% na wszystkie warianty udziału.
+Podczas rejestracji wystarczy wpisać na dole formularza kod: <code>WCZESNYPTAK</code>.</p>
+<p>Warto też śledzić
+<a href="https://www.facebook.com/KonferencjaTlumaczy" target="_blank" rel="noopener noreferrer">konferencję na FB</a>, aby być na
+bieżąco.</p>
+<p><strong>Do zobaczenia we wrześniu!</strong></p>]]></content>
+        <author>
+            <name>Magda Niedźwiecka</name>
+        </author>
+        <category label="news" term="news"/>
+        <category label="z-kraju" term="z-kraju"/>
+        <category label="konferencje" term="konferencje"/>
+        <category label="tłumaczenia" term="tłumaczenia"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MeetContentWRO maj 2024 - Relacja]]></title>
+        <id>https://techwriter.pl/meet-content-wro-maj-2024-relacja</id>
+        <link href="https://techwriter.pl/meet-content-wro-maj-2024-relacja"/>
+        <updated>2024-06-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[22 maja spotkaliśmy się biurze firmy Etteplan. #28 MeetContentWRO i tym razem]]></summary>
+        <content type="html"><![CDATA[<p>22 maja spotkaliśmy się biurze firmy Etteplan. #28 MeetContentWRO i tym razem
+składał się z dwóch prezentacji.</p>
+<p>Na pierwszy ogień poszła
+<a href="https://www.linkedin.com/in/barbara-kardel-piatkowska/" target="_blank" rel="noopener noreferrer">Basia Kardel-Piątkowska</a>,
+która opowiedziała nam o transferze i retencji wiedzy w zespole dokumentacyjnym.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="transfer-i-retencja-wiedzy">Transfer i retencja wiedzy<a href="https://techwriter.pl/meet-content-wro-maj-2024-relacja#transfer-i-retencja-wiedzy" class="hash-link" aria-label="Bezpośredni link do Transfer i retencja wiedzy" title="Bezpośredni link do Transfer i retencja wiedzy">​</a></h2>
+<p>Basia zaczęła od nakreślenia specyficznych warunków, w jakich pracują Tech
+Writerzy w Etteplan. Firma świadczy usługi dokumentacyjne dla innych firm.
+Czasem jest to dokumentacja do urządzeń lub maszyn, a czasem do oprogramowania.
+Specyfika pracy Tech Writerów polega na tym, że są przypisywani do różnych
+projektów lub produktów. Bywa, że projekty lub produkty zmieniają się dość
+często.</p>
+<p>Oznacza to, że transfer i retencja wiedzy między dokumentalistami stają się
+kluczowe. Oczywiście, nietrudno sobie wyobrazić, że zachowanie wiedzy i jej
+skuteczne przekazywanie są konieczne w każdej organizacji.</p>
+<p>Basia zaczęła od zdefiniowania, czym jest wiedza. Metafora góry lodowej była
+bardzo pomocna, gdyż wiedza to jedynie jej przysłowiowy „czubek”.</p>
+<p>Najniższa warstwa, zazwyczaj niewidoczna, to <strong>dane</strong> (raw data). Ponad tą
+warstwą znajdują się <strong>informacje</strong>. Dopiero na samym szczycie jest <strong>wiedza</strong>.</p>
+<p>Pozostając przy metaforach, Basia wyjaśniła, że wiedza może mieć różne rodzaje:</p>
+<ul>
+<li>Wiedza jawna (<em>explicit</em>) - to przykładowo przepis na pizzę z ogólnodostępnej
+książki kucharskiej lub internetu</li>
+<li>Wiedza niejawna (<em>implicit</em>) - to specjalne sposoby lub sztuczki, które można
+zastosować żeby ciasto było lepsze</li>
+<li>Wiedza milcząca (<em>tacit</em>) - to tajna receptura na ciasto od babci Francesci 🙃</li>
+</ul>
+<p>Na wiedzę zgromadzoną w organizacji czyha wiele niebezpieczeństw. Mogą to być na
+przykład:</p>
+<ul>
+<li>Utrata - nieoczekiwana choroba lub dłuższa nieobecność pracownika</li>
+<li>Zagarnianie lub gromadzenie - (<em>knowledge hoarding</em>) - kiedy jeden pracownik
+gromadzi wiedzę dla siebie i nie chce się dzielić z innymi</li>
+<li>Utrata produktywności - czyli kiedy wiedza nie jest udostępniania i dochodzi
+do sytuacji, kiedy zespoły i ich członkowie zaczynają wymyślać koło na nowo</li>
+</ul>
+<p>Basia miała kilka rad, jak można zapobiegać tym niebezpieczeństwom, lub
+przynajmniej ograniczyć ich skutki, jeśli już się wydarzą:</p>
+<ul>
+<li>Zidentyfikowanie kluczowych lub strategicznych obszarów wiedzy</li>
+<li>Zidentyfikowanie braków w tej wiedzy</li>
+<li>Mapowanie wiedzy, np. w postaci mapy projektu</li>
+<li>Exit plan - czyli ustrukturyzowany plan na uzyskanie wiedzy od odchodzącego
+pracownika</li>
+<li>Sesje <em>lessons learned</em></li>
+<li>Wspólne lub dzielone repozytorium projektu</li>
+</ul>
+<p>Uczestnicy mieli sporo pytań do Basi. Jak nietrudno się domyślić, wielu z nas
+boryka się z podobnymi problemami w naszych organizacjach.</p>
+<p>Pytania dotyczyły polecanych narzędzi. I tu padło kilka nazw. Jednak po krótkiej
+dyskusji uczestnicy zgodzili się, że nawet najlepsze narzędzia nie zastąpią
+kultury pielęgnowania wiedzy i zachowania informacji w organizacji.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="visual-design-w-komunikacji-technicznej">Visual Design w komunikacji technicznej<a href="https://techwriter.pl/meet-content-wro-maj-2024-relacja#visual-design-w-komunikacji-technicznej" class="hash-link" aria-label="Bezpośredni link do Visual Design w komunikacji technicznej" title="Bezpośredni link do Visual Design w komunikacji technicznej">​</a></h2>
+<p>Druga prezentacja tego wieczoru dotyczyła strony wizualnej dokumentacji.
+<a href="https://www.linkedin.com/in/maciekchudanski/" target="_blank" rel="noopener noreferrer">Maciek Chudański</a> opowiedział (i
+pokazał 😀) nam jak ważna jest graficzna prezentacja treści, obrazów, rysunków i
+schematów.</p>
+<p>Maciek zdobył publiczność już na samym początku odważną tezą, że projektowanie
+graficzne kroczy <strong>PRZED</strong> słowem pisanym: otóż pokazał nam malunki naścienne w
+jaskini, uważane za najstarsze rysunki wykonane przez człowieka.</p>
+<p>Potem było już tylko lepiej 😀</p>
+<p>W Etteplan, sekcja visual design nie ma łatwo. Grafikę trzeba dosłownie
+zsynchronizować z dokumentacją, umieścić ja w kontekście układu strony, wziąć
+pod uwagę możliwe formaty i przewidzieć warunki, w jakich dokumentacja może być
+użytkowana.</p>
+<p>Graficzna warstwa zwykle przygotowywana jest z myślą o nośniku, czyli trzeba
+podjąć decyzję, czy projektuje się pod ekran czy papier.</p>
+<p>Maciek mówił o podstawowej zasadzie: im oszczędniej z efektami wizualnymi, tym
+lepiej dla czytelności dokumentacji. Co za tym idzie, wystarczą de facto 4
+kolory: czerwony, żółty, niebieski i zielony, żeby stworzyć grafiki do
+dokumentacji technicznej i przekazać każdy rodzaj komunikatu.</p>
+<p>Podstawowe zasady dobrej grafiki w dokumentacji technicznej to duży kontrast,
+który zwiększa dostępność i ułatwia odbiór tekstu. Lepiej również używać
+przeciwstawnych barw, niż pochodzących z tej samej palety.</p>
+<p>Jednak kolory bywają zależne od kontekstu kulturowego. Przykładowo, niebieski w
+kręgu kultury zachodniej wzbudza zaufanie, podczas gdy czerwony ogólnie
+odbierany jest jako odpowiedni do zakomunikowania zagrożenia. Tak już jednak nie
+jest na przykład w kulturze azjatyckiej, co dodaje kompleksowości w różnorodnych
+projektach realizowanych w Etteplan.</p>
+<p>Jak się jednak okazuje, wszystkie zasady, którym powinna podlegać dobra
+dokumentacja papierowa tracą swoją moc, jeśli zmienimy nośnik. W przypadku
+dokumentacji przeznaczonej na ekran, prawdziwym game changerem okazuje się RUCH.
+Obiekty w ruchu zawsze wygrywają walkę o uwagę użytkownika.</p>
+<p>Maciek opowiedział nam też o projektowaniu graficznym opartym o siatkę, gdzie
+każdy element ma swoje miejsce. Tego typu podejście sprawia, że dokumentacja
+jest bardziej ustrukturyzowana, czytelna i przewidywalna dla użytkownika.</p>
+<p>Prezentacja, jak nietrudno się domyślić, obfitowała w wizualne przykłady
+idealnie obrazując różnice między czytelne - nieczytelne.</p>
+<hr>
+<p>Tym samym wrocławski MeetContent zakończył sezon 😀</p>
+<p>Powracamy już we wrześniu z nową porcją wiedzy, praktyki i doświadczeń!</p>
+<p>Dziękujemy Wam za uczestnictwo i do zobaczenia po wakacjach! 🌴 👋</p>
+<p><img decoding="async" loading="lazy" src="https://techwriter.pl/assets/images/ette1-25289d5d821801e5c3a2d3ad6cbf4dca.jpg" width="3648" height="2736" class="img_ev3q"> <img decoding="async" loading="lazy" src="https://techwriter.pl/assets/images/ette2-d7331d561239db3eca816adba4b65255.jpg" width="4000" height="3000" class="img_ev3q"> <img decoding="async" loading="lazy" src="https://techwriter.pl/assets/images/ette3-389821de65a3acb15ed5844008bf60fa.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Monika Mrozek</name>
+        </author>
+        <category label="meetups" term="meetups"/>
+        <category label="grafika" term="grafika"/>
     </entry>
 </feed>
