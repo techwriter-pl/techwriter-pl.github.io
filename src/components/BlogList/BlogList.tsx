@@ -1,13 +1,13 @@
-import Layout from '@theme/Layout';
-import React from 'react';
-import HomePageHeader from '../Home/HomePageHeader';
 import Link from '@docusaurus/Link';
-import styles from './BlogList.module.css';
-import BlogListPage from '@theme/BlogListPage';
-import Partners from '../Partners/Partners';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
+import BlogListPage from '@theme/BlogListPage';
+import Layout from '@theme/Layout';
 import clsx from 'clsx';
+import CoverImage from '../CoverImage/CoverImage';
+import HomePageHeader from '../Home/HomePageHeader';
+import Partners from '../Partners/Partners';
 import SiteHighlights from '../SiteHighlights/SiteHighlights';
+import styles from './BlogList.module.css';
 
 export default function BlogHome(props): JSX.Element {
   const { pathname, search } = props.history.location;
@@ -29,7 +29,6 @@ export default function BlogHome(props): JSX.Element {
             {props.items.slice(0, 5).map(({ content: BlogPostContent }) => {
               const { date, permalink, authors } = BlogPostContent.metadata;
               const { title, coverImage, tags } = BlogPostContent.frontMatter;
-              const coverImagePath = `/img/cover/${coverImage}`;
 
               return (
                 <div key={date} className={clsx(styles.item, 'card')}>
@@ -57,13 +56,7 @@ export default function BlogHome(props): JSX.Element {
                     <BlogPostContent />{' '}
                     <Link to={permalink}>...czytaj dalej</Link>
                   </div>
-                  <Link to={permalink} className={styles.imageContainer}>
-                    <img
-                      alt=""
-                      src={coverImagePath}
-                      className={styles.itemImage}
-                    />
-                  </Link>
+                  <CoverImage permalink={permalink} coverImage={coverImage} />
                 </div>
               );
             })}
