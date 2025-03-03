@@ -81,6 +81,22 @@ const polishDescriptions: { [id: string]: JSX.Element } = {
       szyldem MeetContentWRO.
     </>
   ),
+  mtrojanowski: (
+    <>
+      Absolwent filologii angielskiej. Z zawodu asystent w korporacji konsultingowej.
+      Miłośnik przekazywania treści w sposób prosty, klarowny i jednoznaczny. 
+      W wolnych chwilach basista, tancerz i (okazjonalnie) snowboardzista.
+    </>
+  ),
+  sgorski: (
+    <>
+      Od ponad 20 lat żyje z pisania o technologiach (obecnie dla CHIP Polska i Magazynu Focus). 
+      W tej branży zdobywał pierwsze szlify w pisaniu poradników o sprzęcie, oprogramowaniu oraz usługach.
+      Teraz wychodzi ze swojej bańki i stawia pierwsze kroki w świecie dokumentacji technicznej. 
+      W godzinach pracy (głównie poza nimi) uzależniony od szperania po YouTubie, słuchania muzyki, podcastów i audiobooków. 
+      Rozgląda się dookoła i zagląda do wnętrza. Lubi wiedzieć co, jak i dlaczego.
+    </>
+  ),
 };
 
 const englishDescriptions: { [id: string]: JSX.Element } = {
@@ -158,6 +174,22 @@ const englishDescriptions: { [id: string]: JSX.Element } = {
       in what they do. She is an active technical content community member and a
       public speaker. She co-organizes local meetups in Wrocław to help Writers
       network, exchange ideas and inspire each other.
+    </>
+  ),
+  mtrojanowski: (
+    <>
+      BA in English Philology. Working as an assistant at a management consulting firm.
+      A fan of simple, clear and unambiguous content. 
+      In his free time a bass player, dancer and (occasionally) a snowboarder.
+    </>
+  ),
+  sgorski: (
+    <>
+      For over 20 years, he has been making a living writing about technology (currently for CHIP Polska and Focus Magazine).
+      In this industry, he earned his first stripes writing guides about hardware, software, and services.
+      Now, he's stepping out of his bubble and taking his first steps into the world of technical documentation.
+      During work hours (and mostly outside of them), he's addicted to browsing YouTube, listening to music, podcasts, and audiobooks.
+      He looks around and peers inside. He likes to know what, how, and why.
     </>
   ),
 };
