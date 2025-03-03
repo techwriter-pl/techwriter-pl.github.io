@@ -11,7 +11,7 @@ coverImage: 'krk-content-day.png'
 
 # #ContentDay - Relacja
 
-Pierwszy **#ContentDay** już za nami, czas więc na krótkie podsumowanie :)
+Pierwszy **#ContentDay** już za nami, czas więc na krótkie podsumowanie 😊
 Czerwcowe wydarzenie odwiedziła spora grupa contentowych pasjonatów, a sale
 Uniwersytetu Jagiellońskiego pozwoliły nam na przeprowadzenie warsztatów i
 prezentacji.

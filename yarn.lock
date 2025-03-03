@@ -15845,6 +15845,7 @@ __metadata:
     clsx: "npm:^1.2.1"
     fast-xml-parser: "npm:4.2.7"
     gm: "npm:^1.25.0"
+    gray-matter: "npm:^4.0.3"
     prettier: "npm:3.0.2"
     prism-react-renderer: "npm:^2.1.0"
     react: "npm:^18.2.0"

@@ -52,17 +52,6 @@
   gap: 6px;
 }
 
-.imageContainer {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.itemImage {
-  width: 100%;
-  border: 1px solid var(--ifm-color-primary);
-}
-
 .itemTitle {
   font-size: 28px;
   font-weight: 600;
