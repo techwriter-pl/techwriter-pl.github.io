@@ -129,6 +129,7 @@ const config: Config = {
         authorsMapPath: '../blog/authors.yml',
         blogListComponent:
           '@site/src/components/EventsBlogList/EventsBlogList.tsx',
+        blogSidebarTitle: 'Wydarzenia',
       },
     ],
   ],
