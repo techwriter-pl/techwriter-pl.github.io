@@ -2,11 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://techwriter.pl/wydarzenia</id>
     <title>techwriter.pl Blog</title>
-    <updated>2025-02-26T00:00:00.000Z</updated>
+    <updated>2025-03-20T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://techwriter.pl/wydarzenia"/>
     <subtitle>techwriter.pl Blog</subtitle>
     <icon>https://techwriter.pl/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Women TechStyle Summit 2025]]></title>
+        <id>https://techwriter.pl/wydarzenia/women-techstyle-2025</id>
+        <link href="https://techwriter.pl/wydarzenia/women-techstyle-2025"/>
+        <updated>2025-03-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Rok zaledwie się zaczął a tymczasem za oknem i na mapie wydarzeń branżowych]]></summary>
+        <content type="html"><![CDATA[<p>Rok zaledwie się zaczął a tymczasem za oknem i na mapie wydarzeń branżowych
+pojawiają się pierwsze oznaki wiosny. Jednym słowem: zaczyna się dziać! 😉</p>
+<p>Tym razem przychodzimy do Was z zapowiedzią jednej z największych w Polsce
+konferencji z branży IT poświęconej kobietom - <strong>Women TechStyle Summit</strong>.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="kiedy-i-dla-kogo">Kiedy i dla kogo?<a href="https://techwriter.pl/wydarzenia/women-techstyle-2025#kiedy-i-dla-kogo" class="hash-link" aria-label="Bezpośredni link do Kiedy i dla kogo?" title="Bezpośredni link do Kiedy i dla kogo?">​</a></h2>
+<p>Wydarzenie, które odbędzie się już <strong>20 marca</strong>, adresowane jest do osób już
+pracujących w IT, szukających ciekawych opcji zmiany ścieżki kariery lub takich,
+które dopiero chcą wejść do tej branży.</p>
+<p>Naturalnie, na wydarzenie zaproszeni są wszyscy, nie tylko kobiety!</p>
+<p>Co ciekawe, wydarzenie odbywa się całkowicie zdalnie a w jego trakcie
+zaplanowane są Wirtualne Targi Pracy, podczas których, jak zapowiadają
+organizatorzy, będzie można nawiązać kontakt z potencjalnymi pracodawcami.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="o-czym">O czym?<a href="https://techwriter.pl/wydarzenia/women-techstyle-2025#o-czym" class="hash-link" aria-label="Bezpośredni link do O czym?" title="Bezpośredni link do O czym?">​</a></h2>
+<p>Tematyka konferencji jest bardzo różnorodna, między innymi będą prelekcje z
+następujących obszarów:</p>
+<ul>
+<li>Product Management</li>
+<li>Engineering Management</li>
+<li>Innowacje technologiczne</li>
+<li>Cyfrowa dostępność</li>
+<li>Data Quality</li>
+<li>AI</li>
+</ul>
+<p><strong>Bonus</strong> 🎁</p>
+<p>Będzie też akcent o dokumentalistach!</p>
+<p>Będę miała zaszczyt wystąpić na tej konferencji i przybliżyć nasz zawód
+uczestnikom. Tym bardziej serdecznie Was zapraszam.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="rejestracja-i-bilety">Rejestracja i bilety<a href="https://techwriter.pl/wydarzenia/women-techstyle-2025#rejestracja-i-bilety" class="hash-link" aria-label="Bezpośredni link do Rejestracja i bilety" title="Bezpośredni link do Rejestracja i bilety">​</a></h2>
+<p>Bilety są bezpłatne, ale trzeba się zarejestrować.</p>
+<p>Więcej informacji i rejestracja na stronie wydarzenia:
+<a href="https://womentechstyle.pl/" target="_blank" rel="noopener noreferrer">womentechstyle.pl</a>.</p>
+<p>Rzuć okiem na agendę i już dziś zablokuj kalendarz w pracy! 🙌</p>
+<p>Do zobaczenia!</p>]]></content>
+        <author>
+            <name>Monika Mrozek</name>
+        </author>
+        <category label="kariera" term="kariera"/>
+        <category label="konferencje" term="konferencje"/>
+        <category label="społeczność" term="społeczność"/>
+        <category label="women in it" term="women in it"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Content Bytes #5: Porozmawiajmy o style guides]]></title>
         <id>https://techwriter.pl/wydarzenia/content-bytes-luty-2025</id>
