@@ -6,7 +6,6 @@ tags:
   - 'news'
   - 'meetups'
   - 'społeczność'
-  - 'content-bytes'
 coverImage: 'content-bytes-logo.svg'
 ---
 
