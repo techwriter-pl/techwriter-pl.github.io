@@ -59,11 +59,11 @@ uznałam za najciekawsze.
 [Snagit](https://www.techsmith.com/screen-capture.html) - o tym narzędziu
 napisał bardzo wyczerpująco nasz kolega z zespołu, dlatego, jeśli interesują Was
 szczegóły zapraszam
-[tutaj](http://techwriter.pl/snagit-znacznie-wiecej-niz-zrzuty-ekranu/) i
-[tutaj](http://techwriter.pl/snagit-2021-pierwsze-wrazenia/). Ten, z pozoru
-niepozorny program, po bliższym poznaniu okazuje się niezwykle funkcjonalny i
-przydatny. Warto zwrócić na niego uwagę zwłaszcza, gdy tworzona dokumentacja ma
-zawierać liczne zrzuty ekranu.
+[tutaj](../snagit-znacznie-wiecej-niz-zrzuty-ekranu/index.md) i
+[tutaj](../snagit-2021-pierwsze-wrazenia/index.md). Ten, z pozoru niepozorny
+program, po bliższym poznaniu okazuje się niezwykle funkcjonalny i przydatny.
+Warto zwrócić na niego uwagę zwłaszcza, gdy tworzona dokumentacja ma zawierać
+liczne zrzuty ekranu.
 
 [GIMP](https://www.gimp.org/) - jeśli Twoja dokumentacja wymaga wielu zdjęć,
 które z kolei wcześniej trzeba do niej dostosować to GIMP świetnie się do tego

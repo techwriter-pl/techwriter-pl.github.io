@@ -42,9 +42,9 @@ prowadzących warsztaty z użyciem własnoręcznie narysowanych materiałów, a 
 o ilustratorach spotkań i wydarzeń, tworzących wizualne podsumowania, które są
 świetnymi materiałami edukacyjnymi. Przykładami wydarzeń tech writingowych
 uświetnionych zapisami graficznymi są
-[soap! 2015](https://techwriter.pl/namydleni-po-raz-trzeci/#my-tu-gadu-gadu-a-jad%C5%BAka-rysuje)
+[soap! 2015](../namydleni-po-raz-trzeci/index.md#my-tu-gadu-gadu-a-jad%C5%BAka-rysuje)
 i
-[Write the Docs 2021](https://techwriter.pl/relacja-z-konferenecji-write-the-docs-prague-2021/)
+[Write the Docs 2021](../relacja-z-konferenecji-write-the-docs-prague-2021/index.md)
 z których relacje możesz przeczytać na techwriter.pl.
 
 Jeśli poszukujesz szerszych definicji notatek wizualnych i powiązanych z nimi

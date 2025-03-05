@@ -15,8 +15,9 @@ coverImage: 'UA_Conference.png'
 [**Agnieszka Tkaczyk**](http://www.uaeurope.com/conference/speakers.html#tkaczyk) rozpoczęła
 swoją przygodę z dokumentacją techniczną zaledwie parę lat temu, a już na swoim
 koncie ma dwie prezentacje na branżowych konferencjach. O pierwszej
-pisaliśmy [tutaj](http://techwriter.pl/soap-technical-communication-conference-relacja/ 'soap! technical communication conference – relacja'),
-teraz możecie przeczytać o
+pisaliśmy [tutaj](../soap-technical-communication-conference-relacja/ 'soap!
+technical communication conference – relacja'index.md), teraz możecie przeczytać
+o
 kolejnej: [**A Technical Writer’s Role in Redesigning the Application UI**](http://www.uaeurope.com/conference/sessions.html#redesignUI).
 
 <!--truncate-->
@@ -36,9 +37,9 @@ regularnie gdy opowiadała o swoich starciach z programistami.
 Agnieszka jest bardzo zainteresowana udoskonalaniem interfejsu użytkownika i
 widać, że cały czas kieruje się ona metodą postępującego ujawniania informacji
 (ang. _progressive disclosure_), o której opowiadała podczas konferencji
-[soap!](http://techwriter.pl/soap-technical-communication-conference-relacja/).
-Podczas prezentacji wymieniła kilka **źródeł inspiracji**, z jakich korzysta
-przy czerpaniu pomysłów na zmiany w interfejsie użytkownika:
+[soap!](../soap-technical-communication-conference-relacja/index.md). Podczas
+prezentacji wymieniła kilka **źródeł inspiracji**, z jakich korzysta przy
+czerpaniu pomysłów na zmiany w interfejsie użytkownika:
 
 - tworzenie dokumentacji,
 - nagrywanie filmików szkoleniowych,

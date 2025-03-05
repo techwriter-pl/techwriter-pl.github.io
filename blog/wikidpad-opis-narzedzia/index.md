@@ -9,11 +9,10 @@ tags:
 coverImage: '000-tlo-360.jpg'
 ---
 
-Jakiś
-[czas temu](http://techwriter.pl/nie-tylko-wikipedia-czyli-do-czego-moze-sie-przydac-wiki/ 'O wiki')
-przekonywaliśmy Was, jak użyteczna dla dokumentalisty może być dobrze prowadzona
-Wiki. Dzisiaj chcielibyśmy przedstawić Wam wikidPada, czyli narzędzie, za pomocą
-którego możecie tę tezę łatwo zweryfikować.
+Jakiś [czas temu](../nie-tylko-wikipedia-czyli-do-czego-moze-sie-przydac-wiki/
+'O wiki'index.md) przekonywaliśmy Was, jak użyteczna dla dokumentalisty może być
+dobrze prowadzona Wiki. Dzisiaj chcielibyśmy przedstawić Wam wikidPada, czyli
+narzędzie, za pomocą którego możecie tę tezę łatwo zweryfikować.
 
 <!--truncate-->
 
@@ -112,8 +111,7 @@ Dla użytkowników z zacięciem programistycznym znających język programowania
 Python, gratką będzie zapewne możliwość pisania własnych rozszerzeń. Można w ten
 sposób dodać brakujące funkcje lub zmienić już istniejące. Osoby nie potrafiące
 programować zawsze mogą skorzystać z gotowych rozszerzeń — ich lista znajduje
-się
-[tutaj](http://trac.wikidpad2.webfactional.com/wiki/ListOfUserScripts 'Rozszerzenia').
+się [tutaj](http://trac.wikidpad2.webfactional.com/wiki/ListOfUserScripts).
 
 ### Podsumowanie
 

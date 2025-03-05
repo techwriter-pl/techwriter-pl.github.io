@@ -6,7 +6,6 @@ tags:
   - 'news'
   - 'meetups'
   - 'społeczność'
-  - 'content-bytes'
 coverImage: 'content-bytes-logo.svg'
 ---
 
@@ -28,8 +27,7 @@ MeetContentKRK. [Basia Czyż](https://www.linkedin.com/in/barbara-szwarc),
 mają na swoim koncie całkiem sporo udanych spotkań, które zorganizowali przy
 współpracy z różnymi firmami i instytucjami, np. Wydziałem Anglistyki
 Uniwersytetu Jagiellońskiego. Największym przedsięwzięciem z jakim się zmierzyli
-był
-[Content Day](https://techwriter.pl/meet-content-krk-content-day-podsumowanie/) -
+był [Content Day](../meet-content-krk-content-day-podsumowanie/index.md) -
 całodniowy meetup, który był połączeniem warsztatów i wykładów. Jak widać, ekipa
 Content Bytes jest mocno zaprawiona w bojach i jesteśmy pewni, że jeszcze nieraz
 nas zaskoczy. Tym bardziej, że w ostatnim czasie zespół zyskał dodatkowego
@@ -39,10 +37,9 @@ pisać - z taką grupą zapaleńców można konie kraść.
 
 ## Mocny start
 
-[Pierwsze spotkanie](https://techwriter.pl/content-bytes-pazdziernik-2024) pod
-szyldem Content Bytes miało miejsce 3 października 2024 w Krakowie. Kolejne
-planowane jest na 30 października 2024. Długofalowe plany zakładają jeden meetup
-na miesiąc.  
+Pierwsze spotkanie pod szyldem Content Bytes miało miejsce 3 października 2024 w
+Krakowie. Kolejne planowane jest na 30 października 2024. Długofalowe plany
+zakładają jeden meetup na miesiąc.  
 Póki co, inicjatywa działa na terenie Krakowa, ale niewykluczone, że w
 przyszłości rozszerzy swój zakres działania na kolejne miasta.  
 Plany są ambitne, ale wierzymy, że znajdą się zarówno prelegenci jak i

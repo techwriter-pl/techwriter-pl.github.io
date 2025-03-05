@@ -13,10 +13,10 @@ coverImage: '414JSZMPX8L.jpg'
 ---
 
 Nadszedł czas, żeby zabrać się za zawartość przesyłki, którą opisywaliśmy w
-poprzednim [wpisie](http://techwriter.pl/naucz-sie-sama-czesc-2/) z cyklu
-**"Naucz się sam(a)"**. Zaczynamy od książki **"Technical Writing 101: A
-Real-World Guide to Planning and Writing Technical Documentation"** autorstwa
-**Alana S. Pringle** i **Sarah S. O'Keefe**.
+poprzednim [wpisie](../naucz-sie-sama-czesc-2/index.md) z cyklu **"Naucz się
+sam(a)"**. Zaczynamy od książki **"Technical Writing 101: A Real-World Guide to
+Planning and Writing Technical Documentation"** autorstwa **Alana S. Pringle** i
+**Sarah S. O'Keefe**.
 
 <!--truncate-->
 
@@ -197,9 +197,9 @@ nie przygotować.
      niezbędne do prawidłowej komunikacji, ale jest to mniej ważne od
      dokładności pod względem technicznym
    - Trzymanie się
-     [przewodnika stylu](http://techwriter.pl/podrecznik-stylu-stylrecznik) -
-     sprawia, że dokumenty są bardziej spójne, jednak wytłuszczenie wszystkich
-     nazw menu powinno być ostatnim zmartwieniem kiedy terminy są napięte.
+     [przewodnika stylu](../podrecznik-stylu-stylrecznik/index.md) - sprawia, że
+     dokumenty są bardziej spójne, jednak wytłuszczenie wszystkich nazw menu
+     powinno być ostatnim zmartwieniem kiedy terminy są napięte.
    - Przygotowanie do druku - czyli sprawdzenie czy dokument nadaje się do
      publikacji (podziały wierszy i stron, nagłówki, stopki, itd.). Ten proces
      sprawia, że dokument wygląda profesjonalnie, ale nie zastąpi on opisu

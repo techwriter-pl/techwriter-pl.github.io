@@ -14,8 +14,8 @@ Przeglądając wpisy na różnych blogach dotyczących komunikacji technicznej,
 zauważyliśmy ostatnimi czasy sporo informacji, które wieszczą powolny schyłek
 naszej profesji. Powodem takiego stanu rzeczy nie jest chęć zastąpienia
 człowieka maszyną, o czym wspominaliśmy jakiś czas temu w jednych z
-[artykułów](http://techwriter.pl/dokumentacja-techniczna-w-przyszlosci/), ale
-ogólna tendencja w produkcji oprogramowania.
+[artykułów](../dokumentacja-techniczna-w-przyszlosci/index.md), ale ogólna
+tendencja w produkcji oprogramowania.
 
 <!--truncate-->
 
@@ -23,20 +23,19 @@ Na jednym z naszych ulubionych blogów
 [I'd Rather Be Writing](http://idratherbewriting.com/) pojawił się niedawno
 [wpis](http://idratherbewriting.com/2014/06/03/the-future-of-tech-comm-is-developer-doc/)
 dotyczący przyszłości komunikacji technicznej. Autor nawiązuje do prezentacji
-Andrew Davisa z
-[STC Summit 2014](http://techwriter.pl/stc-summit-2014-podsumowanie/), podczas
-której wywiązała się ożywiona dyskusja na temat przyszłości Technical Writerów.
-Spora ilość osób sugerowała, że ta profesja zaczyna odchodzić do lamusa. Jednym
-z powodów takiego stanu rzeczy jest to, że użytkownicy oczekują coraz bardziej
-przyjaznych interfejów aplikacji, które są proste w użyciu i intuicyjne. Jeśli
-użytkownik musi sięgnąć po instrukcję, żeby wykonać podstawowe operacje, to
-oznacza to, że producent oprogramowania nie spełnił tych oczekiwań. Ale nie ma
-się co martwić na zapas, bo okazuje się, że jest światełko w tunelu. Jeden z
-uczestników dyskusji zwrócił uwagę, że co prawda zapotrzebowanie na dokumentację
-dla użytkowników jest coraz mniejsze, jednak zapotrzebowanie na dokumentację dla
-programistów rośnie w szybkim tempie. Dzieje się tak dlatego, że za coraz
-prostszymi interfejsami użytkownika stoi coraz bardziej skomplikowana
-technologia, której nie widać gołym okiem.
+Andrew Davisa z [STC Summit 2014](../stc-summit-2014-podsumowanie/index.md),
+podczas której wywiązała się ożywiona dyskusja na temat przyszłości Technical
+Writerów. Spora ilość osób sugerowała, że ta profesja zaczyna odchodzić do
+lamusa. Jednym z powodów takiego stanu rzeczy jest to, że użytkownicy oczekują
+coraz bardziej przyjaznych interfejów aplikacji, które są proste w użyciu i
+intuicyjne. Jeśli użytkownik musi sięgnąć po instrukcję, żeby wykonać podstawowe
+operacje, to oznacza to, że producent oprogramowania nie spełnił tych oczekiwań.
+Ale nie ma się co martwić na zapas, bo okazuje się, że jest światełko w tunelu.
+Jeden z uczestników dyskusji zwrócił uwagę, że co prawda zapotrzebowanie na
+dokumentację dla użytkowników jest coraz mniejsze, jednak zapotrzebowanie na
+dokumentację dla programistów rośnie w szybkim tempie. Dzieje się tak dlatego,
+że za coraz prostszymi interfejsami użytkownika stoi coraz bardziej
+skomplikowana technologia, której nie widać gołym okiem.
 
 Jest to potencjalna szansa dla dokumentalistów na pozostanie w branży. Trzeba
 jednak pamiętać, że tworzenie dokumentacji dla programistów, np. dokumentacji

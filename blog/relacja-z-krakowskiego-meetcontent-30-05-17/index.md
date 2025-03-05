@@ -23,8 +23,8 @@ Często jednak zakasuje rękawy i sam bierze się za pisanie kodu.
 Wystąpienie miało obalić mit głoszący, że Technical Writer jest na szarym końcu
 „łańcucha pokarmowego” firmy i tam właśnie musi pozostać. Jego prezentacja była
 więc płynnym przejściem z ostatniego MeetContent, o którym możecie przeczytać
-[tutaj](http://techwriter.pl/relacja-z-krakowskiego-spotkania-meetcontent-25-04/).
-W jaki sposób Tomek zabrał się do argumentacji?
+[tutaj](../relacja-z-krakowskiego-spotkania-meetcontent-25-04/index.md). W jaki
+sposób Tomek zabrał się do argumentacji?
 
 Na początek podzielił się własną historią zawodową i oficjalną nazwą swojego
 stanowiska, brzmiącą „User Assistance Developer”. Interesujący kryptonim na

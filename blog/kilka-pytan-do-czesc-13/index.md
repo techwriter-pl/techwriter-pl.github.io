@@ -11,7 +11,7 @@ coverImage: 'interview-905535_640.png'
 ---
 
 Szczęśliwa trzynastka przypada w udziale Vrejowi z Kanady, którego poznaliśmy w
-trakcie [MadWorld 2017](http://techwriter.pl/madworld-2017-relacja/).
+trakcie [MadWorld 2017](../madworld-2017-relacja/index.md).
 
 <!--truncate-->
 

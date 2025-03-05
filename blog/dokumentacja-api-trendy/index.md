@@ -16,7 +16,7 @@ dokumentację? Wygrzebaliśmy dla Was trochę przydatnych informacji.
 <!--truncate-->
 
 Jeśli nie zetknęliście się jeszcze z tematyką - nieskromnie polecamy
-[nasze wprowadzenie](http://techwriter.pl/dokumentacja-api-czesc-1-definicja-i-rodzaje-api/).
+[nasze wprowadzenie](../dokumentacja-api-czesc-1-definicja-i-rodzaje-api/index.md).
 
 Będziemy o tym pisać coraz częściej. Dlaczego? Dlatego, że Application
 Programming Interfaces to w tej chwili jeden z najbardziej gorących trendów w

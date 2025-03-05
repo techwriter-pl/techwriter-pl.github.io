@@ -30,8 +30,7 @@ scenariusze:
     sądzi o tym co właśnie spłodziliście. Riwiułer zapomina o Waszej prośbie,
    pół godziny przed terminem (albo już po) otwiera wysłany dokument, przewija
    go do samego końca nie czytając i zgłasza Wam 1-2 błędy odnoszące się do
-   literówek lub użycia starego
-   [szablonu](http://techwriter.pl/procedury-i-szablony/).
+   literówek lub użycia starego [szablonu](../procedury-i-szablony/index.md).
 2. Wysoko postawiony menedżer odpowiedzialny za pracę kilkudziesięciu osób chce
    im pokazać jak bardzo interesuje się ich pracą i chwilę poudawać, że wie o co
    w tym wszystkim chodzi. Organizuje więc spotkanie (**prodżekts riwiu**), na

@@ -19,10 +19,10 @@ narzędzia. Trzymamy kciuki!
 
 Nie jest to pierwsze podejście do tematu, o studiach w Warszawie pisaliśmy już
 kilkukrotnie,
-[ostatnio we wrześniu](http://techwriter.pl/studia-dla-techwriterow-aktualizacja/).
-Tym razem jednak wydaje się, że studia rzeczywiście wystartują - z informacji
-jakie uzyskaliśmy na uczelni wynika, że na liście chętnych jest już kilkanaście
-osób (!). Akademia Finansów i Biznesu Vistula bardzo mocno liczy na to że już w
+[ostatnio we wrześniu](../studia-dla-techwriterow-aktualizacja/index.md). Tym
+razem jednak wydaje się, że studia rzeczywiście wystartują - z informacji jakie
+uzyskaliśmy na uczelni wynika, że na liście chętnych jest już kilkanaście osób
+(!). Akademia Finansów i Biznesu Vistula bardzo mocno liczy na to że już w
 październiku pierwsze tego typu studia w Polsce będzie można uważać za otwarte.
 
 [Oficjalną stronę kierunku znajdziecie tutaj.](https://www.vistula.edu.pl/kierunki-studiow/kontynuacja-edukacji/studia-podyplomowe/informatyka/komunikacja-techniczna)
@@ -32,8 +32,7 @@ Barrio Fierro, Marta Bartnicka. Są to osoby z wieloletnim, praktycznym stażem 
 komunikacji technicznej. Co ważne, w swoich firmach często odpowiadają za
 rekrutację nowych osób i jako liderzy swoich zespołów najlepiej wiedzą jakie są
 potrzeby rynku i jakich umiejętności potrzebują pracodawcy. A
-[ofert pracy](http://techwriter.pl/category/news/oferty-pracy/) wciąż jest
-więcej niż wykwalifikowanych chętnych.
+[ofert pracy](/oferty-pracy) wciąż jest więcej niż wykwalifikowanych chętnych.
 
 Na liście technologicznych i merytorycznych partnerów kierunku znajdziecie
 m.in.:

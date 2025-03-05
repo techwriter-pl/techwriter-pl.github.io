@@ -65,5 +65,5 @@ podcastu Tech Writer Koduje.
 A może interesuje Was jeszcze szersze spojrzenie na wykorzystanie sztucznej
 inteligencji w dokumentacji technicznej? Jeśli tak, to zachęcamy do zapoznania
 się
-[z naszym artykułem](http://techwriter.pl/ai-i-ar-i-ich-zastosowanie-w-dokumentacji-technicznej/)
+[z naszym artykułem](../ai-i-ar-i-ich-zastosowanie-w-dokumentacji-technicznej/index.md)
 na ten temat.

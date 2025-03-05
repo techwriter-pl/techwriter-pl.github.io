@@ -16,8 +16,7 @@ Zgodnie z obietnicą, prezentujemy drugą porcję przydatnych informacji z ksią
 **„Technical Writing 101: A Real-World Guide to Planning and Writing Technical
 Documentation”** autorstwa **Alana S. Pringle** i **Sarah S. O’Keefe**. Jest to
 kontynuacja dobrych rad, które przedstawiliśmy w poprzednim
-[wpisie](http://techwriter.pl/naucz-sie-sama-czesc-3/) z cyklu **"Naucz się
-sam(a)"**.
+[wpisie](../naucz-sie-sama-czesc-3/index.md) z cyklu **"Naucz się sam(a)"**.
 
 <!--truncate-->
 

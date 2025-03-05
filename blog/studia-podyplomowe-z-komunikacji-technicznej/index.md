@@ -26,11 +26,11 @@ udzielających się na
 rośnie w siłę ekipa portalu.
 Wspieramy [konferencję soap!](http://soapconf.com/), powoli stajemy się też
 widoczni poza granicami naszego kraju (chociażby obejmując patronat medialny nad
-[tegoroczną edycją Write the Docs](http://techwriter.pl/poznajcie-write-the-docs-europe/)).
-Niedawno relacjonowaliśmy przełomowe wydarzenie, jakim był
-[debiut certyfikatu ITCQF](http://techwriter.pl/szkolenie-itcqf-relacja/).
-Poznaliśmy sporo ludzi z branży (wcześniej do głowy nam nie przyszło, że jest
-nas aż tylu!). Słowem, dzieje się!
+tegoroczną edycją Write the Docs). Niedawno relacjonowaliśmy przełomowe
+wydarzenie, jakim był
+[debiut certyfikatu ITCQF](../szkolenie-itcqf-relacja/index.md). Poznaliśmy
+sporo ludzi z branży (wcześniej do głowy nam nie przyszło, że jest nas aż
+tylu!). Słowem, dzieje się!
 
 **Jest nam bardzo miło ogłosić kolejne wydarzenie będące kamieniem milowym w
 rozwoju polskiego tech commu. Otóż warszawska

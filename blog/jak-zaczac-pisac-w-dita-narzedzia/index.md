@@ -172,8 +172,8 @@ transformację, i drugiego, który **opublikuje** pliki w docelowej lokalizacji.
 Pierwszy mechanizm może być plikiem bat, na który musimy kliknąć, guzikiem na
 stronie, albo skryptem, który uruchamia się automatycznie w określonym czasie
 (dwie ostanie opcje pozwoli nam spełnić na przykład
-[Jenkins, o którym już pisaliśmy](http://techwriter.pl/jenkins-opis-narzedzia/)).
-Drugi mechanizm przenosi pliki wynikowe na serwer FTP, serwer webowy, wysyła je
+[Jenkins, o którym już pisaliśmy](../jenkins-opis-narzedzia/index.md)). Drugi
+mechanizm przenosi pliki wynikowe na serwer FTP, serwer webowy, wysyła je
 mailem, itp.
 
 \[caption id="attachment_5327" align="aligncenter"
@@ -230,8 +230,8 @@ najtańszych, ale wersja trial powinna wystarczyć, żeby przećwiczyć podstawy
 ani żadnego innego narzędzia. Rekomendacje narzędzi opierają się na naszych
 opiniach i preferencjach.)
 
-- [Wszystko o DITA — Wprowadzenie (1)](http://techwriter.pl/wszystko-o-dita-wprowadzenie-1/)
-- [Wszystko o DTA — Podstawy (2)](http://techwriter.pl/wszystko-o-dita-podstawy/)
-- [Wszystko o DITA — Strategia (3)](http://techwriter.pl/wszystko-o-dita-strategia/)
+- [Wszystko o DITA — Wprowadzenie (1)](../wszystko-o-dita-wprowadzenie-1/index.md)
+- [Wszystko o DTA — Podstawy (2)](../wszystko-o-dita-podstawy/index.md)
+- [Wszystko o DITA — Strategia (3)](../wszystko-o-dita-strategia/index.md)
 - Wszystko o DITA — Narzędzia (4)
-- [Wszystko o DITA — Struktura topików (5)](http://techwriter.pl/wszystko-o-dita-struktura-topikow-5/)
+- [Wszystko o DITA — Struktura topików (5)](../wszystko-o-dita-struktura-topikow-5/index.md)

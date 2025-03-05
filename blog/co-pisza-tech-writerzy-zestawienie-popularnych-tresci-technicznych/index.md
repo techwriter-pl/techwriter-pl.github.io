@@ -25,7 +25,7 @@ nawet może pojawić się pomidor. Podobnie jest z treścią techniczną -- nie 
 jednej postaci, powstaje w różnych warunkach, a przy tym różni się formą w
 zależności od produktu, który opisuje lub potrzeb, jakie ma docelowo spełnić.
 Jeśli zatem zastanawiasz się,
-[jak dostać pracę jako Technical Writer](http://techwriter.pl/jak-dostac-pierwsza-prace-jako-technical-writer/)
+[jak dostać pracę jako Technical Writer](../jak-dostac-pierwsza-prace-jako-technical-writer/index.md)
 i nie wiesz jeszcze jakie treści techwriter opracowuje, przybliżamy kilka
 najczęściej pisanych dokumentów technicznych.
 
@@ -174,7 +174,7 @@ Kolejnym istotnym filarem treści w świecie dokumentacji technicznej jest
 dokumentacja API. Zagadnienie to zostało już poruszone na łamach naszego
 portalu, więc po więcej szczegółów odsyłamy do stosownego artykułu, gdzie
 poznacie jaka jest
-[definicja i rodzaje dokumentacje API](http://techwriter.pl/dokumentacja-api-czesc-1-definicja-i-rodzaje-api/).
+[definicja i rodzaje dokumentacje API](../dokumentacja-api-czesc-1-definicja-i-rodzaje-api/index.md).
 
 #### Safety Leaflet — broszura informacyjna dotycząca bezpieczeństwa
 

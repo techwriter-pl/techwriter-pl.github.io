@@ -16,7 +16,7 @@ Pierzchały. Tym razem skupiamy się na części referencyjnej dokumentacji.
 
 <!--truncate-->
 
-[W poprzedniej części cyklu omówiliśmy definicję API](http://techwriter.pl/dokumentacja-api-czesc-1-definicja-i-rodzaje-api/)
+[W poprzedniej części cyklu omówiliśmy definicję API](../dokumentacja-api-czesc-1-definicja-i-rodzaje-api/index.md)
 i wprowadziliśmy rozróżnienie na API webowe i natywne. Przyjrzeliśmy się także
 prostemu zapytaniu HTTP, które wysłaliśmy do usługi Google Maps, co pozwoliło
 nam wygenerować i zagnieździć na stronie mapkę wskazanego obszaru. W
@@ -59,8 +59,7 @@ dokumentacji API, przyjrzymy się przykładowemu wpisowi w “programistycznym
 słowniku” API Instagrama:
 
 \[caption id="attachment_7337" align="aligncenter"
-width="834"\]![](images/InstagramApi.jpeg 'Instagram API') Instagram
-API\[/caption\]
+width="834"\]![](images/InstagramApi.jpeg) Instagram API\[/caption\]
 
 Powyższy przykład dokumentuje punkt dostępowy o nazwie users/self/media/recent,
 który, zgodnie z opisem, zwraca ostatnie media opublikowane przez konto, z

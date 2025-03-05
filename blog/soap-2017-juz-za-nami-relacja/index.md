@@ -109,7 +109,7 @@ techniczną.
 Łukasz Górnicki opowiadał o zacieśniającej się współpracy Technical Writerów i
 programistów, którzy mogą działać w jednym zespole. Szymon Serwatka i Gosia
 Pytel (znana m.in. z
-[MeetContent](http://techwriter.pl/relacja-z-kolejnej-edycji-krakowskiego-meetcontent/))
+[MeetContent](../relacja-z-kolejnej-edycji-krakowskiego-meetcontent/index.md))
 mówili o ewolucji szkoleń, przedstawiając skomplikowany proces porzucania
 drukowanych materiałów treningowych i przenoszenia ich do sieci. Prześmieszne
 wystąpienie Paddy'ego McShane'a z powodzeniem można było odebrać jako irlandzki
@@ -156,8 +156,8 @@ na GitHubie, odpalasz w przeglądarce i sterujesz... smartfonem.
 
 Tymczasem warsztat o "UX narrative", prowadzony przez znanego nam już z
 MeetContent
-[Wojciecha Aleksandra](http://techwriter.pl/soap-meetcontent-po-raz-drugi-relacja/),
-był zgoła odmienny. Było mnóstwo dyskusji, pomysłów, kreatywności, eksperymentów
+[Wojciecha Aleksandra](../soap-meetcontent-po-raz-drugi-relacja/index.md), był
+zgoła odmienny. Było mnóstwo dyskusji, pomysłów, kreatywności, eksperymentów
 myślowych i odgrywania ról. Mogły się przydać nawet umiejętności aktorskie.
 Dlaczego? Bo próbowaliśmy spojrzeć na design jak na dialog z użytkownikiem,
 narrację, którą należy przeprowadzić w jak najlepszy sposób. Okazuje się, że

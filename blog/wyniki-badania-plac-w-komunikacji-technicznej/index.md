@@ -128,9 +128,8 @@ zatrudnionych.
 
 To pierwsza tego typu ankieta w Polsce i siłą rzeczy dotarła do niewielu
 respondentów, ale mamy nadzieję, że w kolejnych latach to się poprawi.
-Inspiracją do tej ankiety były działania naszych kolegów z Finlandii
-([o ich konferencji niedawno pisaliśmy](http://techwriter.pl/tceurope-colloquium-2017/)),
-i oni tez w pierwszym roku mieli niewiele odpowiedzi, ale w kolejnych latach
-liczba respondentów ustabilizowała się na poziomie ok. 200. Mamy nadzieję, że to
-samo spotka i nas w kolejnych latach, i że będziemy mogli porównywać wyniki z
-roku na rok.
+Inspiracją do tej ankiety były działania naszych kolegów z Finlandii, i oni tez
+w pierwszym roku mieli niewiele odpowiedzi, ale w kolejnych latach liczba
+respondentów ustabilizowała się na poziomie ok. 200. Mamy nadzieję, że to samo
+spotka i nas w kolejnych latach, i że będziemy mogli porównywać wyniki z roku na
+rok.

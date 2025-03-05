@@ -157,8 +157,8 @@ artykułów.
 
 Cała seria składa się z następujących wpisów:
 
-- [Wszystko o DITA – Wprowadzenie (1)](http://techwriter.pl/wszystko-o-dita-wprowadzenie-1/)
-- [Wszystko o DITA – Podstawy (2)](http://techwriter.pl/wszystko-o-dita-podstawy/)
-- [Wszystko o DITA – Strategia (3)](http://techwriter.pl/wszystko-o-dita-strategia/)
-- [Wszystko o DITA – Narzędzia (4)](http://techwriter.pl/jak-zaczac-pisac-w-dita-narzedzia/)
+- [Wszystko o DITA – Wprowadzenie (1)](../wszystko-o-dita-wprowadzenie-1/index.md)
+- [Wszystko o DITA – Podstawy (2)](../wszystko-o-dita-podstawy/index.md)
+- [Wszystko o DITA – Strategia (3)](../wszystko-o-dita-strategia/index.md)
+- [Wszystko o DITA – Narzędzia (4)](../jak-zaczac-pisac-w-dita-narzedzia/index.md)
 - Wszystko o DITA – Struktura topików (5)

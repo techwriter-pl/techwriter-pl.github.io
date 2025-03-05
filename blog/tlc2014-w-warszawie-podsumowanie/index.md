@@ -83,8 +83,8 @@ dokumentacyjnej:
 ![TLC2014Fritz](images/TLC2014Fritz-300x168.jpg)
 
 Warto dodać, że w czasie trwania konferencji oficjalnie ogłoszono rozpoczęcie
-działalności tekom Polska - polskiej gałęzi organizacji o której
-[pisaliśmy jakiś czas temu](http://techwriter.pl/zostan-mowca-tekom-europe-roadshow-2014/).
+działalności tekom Polska - polskiej gałęzi organizacji o której pisaliśmy jakiś
+czas temu.
 
 Dokładny program tej i poprzednich konferencji znajdziecie oczywiście na stronie
 głównej

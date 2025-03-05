@@ -32,7 +32,7 @@ techwriterów poświęcona jest właśnie
 poprawianiu/przerabianiu/tworzeniu/publikowaniu kontentu. Pierwsza wzmianka na
 ten temat pojawiła się już we fraszkach Kochanowskiego 😉:
 
-> _Gdy kontent [reużywany](http://techwriter.pl/langlydz-part-fri/),_
+> _Gdy kontent [reużywany](../langlydz-part-fri/index.md),_
 >
 > _techwriter ukontentowany._
 
@@ -52,7 +52,7 @@ mylenia z kontestowaniem.
 <iframe src="//www.youtube.com/embed/SAKMsmP1WCA" height={315} width={420} allowFullScreen frameBorder={0} />
 
 Wbrew pozorom temat kontentu jest jednak bardzo złożony i wymaga
-[systematycznego podejścia](http://techwriter.pl/content-strategy-tresciwa-strategia-czy-strategiczna-tresc/).
+[systematycznego podejścia](../content-strategy-tresciwa-strategia-czy-strategiczna-tresc/index.md).
 Co nie znaczy, że nie można się przy kontentowaniu dobrze bawić.
 
 A spragnionym poważnej definicji

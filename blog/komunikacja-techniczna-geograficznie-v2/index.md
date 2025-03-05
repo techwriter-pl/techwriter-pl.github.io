@@ -11,10 +11,9 @@ coverImage: 'map-525349_640-e1432019946248.png'
 ---
 
 Minęło całkiem sporo czasu odkąd
-[pisaliśmy](http://techwriter.pl/komunikacja-techniczna-geograficznie/) o
-projekcie pod nazwą
-[Tech Comm on a Map](http://sarahmaddox.github.io/techcomm-map/). Pora sprawdzić
-co się wydarzyło w tym temacie przez ostatni rok.
+[pisaliśmy](../komunikacja-techniczna-geograficznie/index.md) o projekcie pod
+nazwą [Tech Comm on a Map](http://sarahmaddox.github.io/techcomm-map/). Pora
+sprawdzić co się wydarzyło w tym temacie przez ostatni rok.
 
 <!--truncate-->
 

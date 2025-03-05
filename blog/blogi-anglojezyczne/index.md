@@ -12,18 +12,15 @@ coverImage: 'rss_blog.jpg'
 ---
 
 Jakiś czas temu
-[obiecaliśmy napisać co nieco o anglojęzycznej blogosferze z zakresu komunikacji technicznej](http://techwriter.pl/polskie-blogi/).
+[obiecaliśmy napisać co nieco o anglojęzycznej blogosferze z zakresu komunikacji technicznej](../polskie-blogi/index.md).
 A ponieważ obietnic należy dotrzymywać, przedstawiamy dziś kilka miejsc w sieci,
 które zdecydowanie warto odwiedzić, albo przynajmniej dodać do swojego czytnika
 RSS.
 
 <!--truncate-->
 
-Dla tych, którzy (jeszcze) nie wiedzą co to jest RSS polecamy dwa króciutkie
-artykuły:
-
-- [What the heck is RSS?](http://www.copyblogger.com/what-the-heck-is-rss/)
-- [What are webfeeds (RSS) and why should you care?](http://www.contentious.com/2003/10/18/what-are-webfeeds-rss-and-why-should-you-care-2/)
+Dla tych, którzy (jeszcze) nie wiedzą co to jest RSS polecamy jeden artykuł:
+[What the heck is RSS?](http://www.copyblogger.com/what-the-heck-is-rss/)
 
 A dla poszukujących fajnego czytnika RSS -
 [Top 10 Free Online RSS Readers](http://sixrevisions.com/tools/free-rss-readers/).
@@ -34,9 +31,7 @@ dwóch wersjach:
 
 ### Wersja dla leniwych
 
-[Techcomm Superfeed](http://technicalwritingworld.com/page/techcomm-superfeed%20)
-
-I już 😊. Używając tego agregatora blogów, dostarczonego przez twórców strony
+Używając tego agregatora blogów, dostarczonego przez twórców strony
 [Technical Writing World](http://technicalwritingworld.com/) macie dość dużą
 pewność, że nie ominą Was ważne informacje ze świata _tech comm_. Niestety nie
 ominą Was też mniej wartościowe, reklamowe, sponsorowane, zduplikowane czy
@@ -62,20 +57,15 @@ ale zawsze możecie je opuścić - lektury wystarczy na wiele dni.
 poprzednika, ale zdecydowanie podążający za trendami. Autorka bardzo zasłużona w
 naszej branży, często bywa na światowych konferencjach i dzieli się wrażeniami.
 
-[The Content Wrangler](http://thecontentwrangler.com/blog/) - zdecydowana
-czołówka, imponujące archiwum, szczególnie dla osób patrzących na temat szerzej
-i bardziej strategicznie. Szeroki przekrój tematów, od życia codziennego po
-ciekawe oferty pracy za granicą.
-
 [Cherryleaf Blog](http://www.cherryleaf.com/blog/) - blog firmowy prowadzony
 przez jedną z bardziej rozpoznawalnych osób w branży - Ellisa Pratta. Od czasu
 do czasu pojawia się coś ciekawego, często promocja własnych usług.
 
 [Daily Writing Tips](http://www.dailywritingtips.com/) - już o nich
-[wspominaliśmy](http://techwriter.pl/naucz-sie-sama-czesc-5/). Artykuły o
-codziennych i niecodziennych problemach ludzi piszących w języku angielskim.
-Czasem piszą o narzędziach a czasem o... synonimach słowa "sofa". Warto -
-codziennie nowy, zazwyczaj krótki wpis.
+[wspominaliśmy](../naucz-sie-sama-czesc-5/index.md). Artykuły o codziennych i
+niecodziennych problemach ludzi piszących w języku angielskim. Czasem piszą o
+narzędziach a czasem o... synonimach słowa "sofa". Warto - codziennie nowy,
+zazwyczaj krótki wpis.
 
 [Every Page is Page One](http://everypageispageone.com/) - blog autora książki o
 tym samym tytule. Technologiczno-strategiczno-filozoficznie a przez to czasem
@@ -113,7 +103,7 @@ przesadzili, ale reszta się zgadza.
 [Opensource.com](https://opensource.com/tags/doc-dish) - a właściwie część
 zajmująca się dokumentacją do oprogramowania open source. Bardzo konkretnie i
 ciekawie, szczególnie dla tych którzy szukają pomysłu na to
-[jak zacząć](http://techwriter.pl/open-techwriting-sposob-na-start-i-rozwoj-kariery/).
+[jak zacząć](../open-techwriting-sposob-na-start-i-rozwoj-kariery/index.md).
 
 [Noz Urbina](http://urbinaconsulting.com/blog/) - kolejna porcja przemyśleń na
 temat "content strategy" podana często w ciekawej formie.
@@ -143,7 +133,7 @@ Autorka pracuje nad [OpenStack](https://www.openstack.org/), który sam w sobie
 jest ciekawym projektem.
 
 [Writing.Rocks](http://writing.rocks/blog/) - jak pisać krótko i na temat.
-[Less is more](http://techwriter.pl/less-is-more-strikes-again/). Fajne!
+[Less is more](../less-is-more-strikes-again/index.md). Fajne!
 
 [Writing Associates](http://writingassociates.com/blog/) - ogólne przemyślenia
 na temat zawodu techwritera, kariery, certyfikacji i autopromocji.

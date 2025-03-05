@@ -19,7 +19,7 @@ Dziś mamy dla Was skrót ostatniego, już 34, odcinka podcastu
 
 Gościem najnowszej odsłony podcastu jest Patrycja Pyrek, z którą rozmawialiśmy w
 naszym ostatnim wywiadzie. Możecie go przeczytać
-[tutaj](http://techwriter.pl/kilka-pytan-do-czesc-24/).
+[tutaj](../kilka-pytan-do-czesc-24/index.md).
 
 Patrycja jest osobą o wszechstronnych zainteresowaniach. Studiuje informatykę i
 ekonometrię, uczy języka japońskiego, a dodatkowo zdobywa doświadczenie zawodowe

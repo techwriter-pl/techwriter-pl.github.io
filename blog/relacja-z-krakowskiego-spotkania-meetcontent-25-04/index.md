@@ -13,15 +13,13 @@ coverImage: 'oscar-keys-58399-e1493737693921.jpg'
 We wtorek 25 kwietnia, piwnica Artefakt Café po raz kolejny ugościła krakowską
 społeczność [MeetContent](http://meetcontent.org/). Tym razem swoimi
 przemyśleniami, odkryciami (i, jak się okazało, pasją do memów) dzielił się nasz
-redakcyjny kolega – [Paweł Kowaluk](http://techwriter.pl/kim-jestesmy/).
+redakcyjny kolega – Paweł Kowaluk.
 
 <!--truncate-->
 
 MeetContent wyrósł na podwórku [soap!](http://soapconf.com/), na początku
 spotkania nie mogło więc zabraknąć wzmianki o tegorocznej, piątej już edycji
-konferencji, o której
-[pisaliśmy](http://techwriter.pl/konferencja-soap-2017-5-edycja-coraz-blizej/)
-kilka dni temu.
+konferencji, o której pisaliśmy kilka dni temu.
 
 Paweł z nieskrywaną dumą reprezentował również naszego bloga, występując w
 koszulce z logiem Techwritera i opowiadając o tym, co tu wyprawiamy.

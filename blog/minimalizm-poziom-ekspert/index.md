@@ -13,9 +13,9 @@ coverImage: 'minimalism-241876_640-e1407077037789.png'
 ---
 
 Podejście minimalistyczne w pisaniu dokumentacji jest jak najbardziej wskazane,
-o czym wspominaliśmy w jednym z [postów](http://techwriter.pl/prostota-glupcze/)
-jakiś czas temu. Długie, skomplikowane i przeładowane informacjami instrukcje to
-samo zło, którego należy unikać.
+o czym wspominaliśmy w jednym z [postów](../prostota-glupcze/index.md) jakiś
+czas temu. Długie, skomplikowane i przeładowane informacjami instrukcje to samo
+zło, którego należy unikać.
 
 <!--truncate-->
 

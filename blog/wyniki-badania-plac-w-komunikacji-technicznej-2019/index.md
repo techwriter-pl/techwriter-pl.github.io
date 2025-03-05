@@ -23,8 +23,8 @@ jego wyniki.
 
 Wyniki poprzednich badań znajdziecie tu:
 
-- [Wyniki 2018](http://techwriter.pl/wyniki-badania-plac-w-komunikacji-technicznej-2018/)
-- [Wyniki 2017](http://techwriter.pl/wyniki-badania-plac-w-komunikacji-technicznej/)
+- [Wyniki 2018](../wyniki-badania-plac-w-komunikacji-technicznej-2018/index.md)
+- [Wyniki 2017](../wyniki-badania-plac-w-komunikacji-technicznej/index.md)
 
 Oto jak sytuacja zmieniła się na przestrzeni lat.
 

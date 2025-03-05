@@ -49,8 +49,8 @@ osób stawiających pierwsze kroki w pisaniu dokumentacji. Dla bardziej
 doświadczonych dokumentalistów jest to z kolei dobre uzupełnienie braków w
 podstawach oraz sprawdzenie czy stosowane przez nich zasady są właściwe. Jeśli
 nie macie sił albo czasu czytać całej książki, to polecamy nasze streszczenie
-publikowane w odcinkach [3](http://techwriter.pl/naucz-sie-sama-czesc-3/) i
-[4](http://techwriter.pl/naucz-sie-sama-czesc-4/) serii Naucz się sam(a).
+publikowane w odcinkach [3](../naucz-sie-sama-czesc-3/index.md) i
+[4](../naucz-sie-sama-czesc-4/index.md) serii Naucz się sam(a).
 
 Dla tych, którzy nie mieli nigdy okazji korzystać z formatu EPUB, prezentujemy
 poniżej kilka, oczywiście darmowych, aplikacji do jego odczytu:

@@ -22,7 +22,7 @@ dokumentacji. Przyjrzyjmy się co ciekawego kryje się pod nowymi "numerkami".
 
 ![hm7](images/hm7.png) To już siódma wersja narzędzia od firmy EC Software GmbH.
 Od wydania wersji 6, którą
-[opisywaliśmy](http://techwriter.pl/help-and-manual-opis-narzedzia/) na łamach
+[opisywaliśmy](../help-and-manual-opis-narzedzia/index.md) na łamach
 techwriter.pl w zeszłym roku, minęło już całkiem sporo czasu - z naszych
 wyliczeń wynika, że prawie 4 lata. Pierwszą, może nie do końca rzucającą się w
 oczy zmianą jest mała modyfikacja nazwy - zamiast "&" mamy teraz "+". Druga,

@@ -57,6 +57,5 @@ oraz
 "Evening at the Phoenix Art Museum" 😉
 
 A to tylko pięć przykładów ze stu czterdziestu możliwości... Cóż, pozostaje mieć
-nadzieję, że uda się uczestniczyć w innych wydarzeniach,
-[które jeszcze przed nami](http://techwriter.pl/konferencje-2014-drugie-polrocze/).
-Najbliższe już za niecały tydzień.
+nadzieję, że uda się uczestniczyć w innych wydarzeniach, które jeszcze przed
+nami. Najbliższe już za niecały tydzień.

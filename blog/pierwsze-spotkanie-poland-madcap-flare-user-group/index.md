@@ -14,17 +14,17 @@ coverImage: 'PLFUG-logo-small.jpg'
 ---
 
 Kilka tygodni temu
-[pisaliśmy](http://techwriter.pl/rusza-poland-madcap-flare-user-group/), że w
-Polsce powstała oficjalna grupa użytkowników programu MadCap Flare. We wtorek 13
+[pisaliśmy](../rusza-poland-madcap-flare-user-group/index.md), że w Polsce
+powstała oficjalna grupa użytkowników programu MadCap Flare. We wtorek 13
 czerwca, w krakowskim T.E.A. Time BrewPub, odbyło się pierwsze, organizacyjne
 spotkanie grupy.
 
 <!--truncate-->
 
 Mogliśmy na nim wysłuchać relacji z konferencji
-[MadWorld 2017](http://techwriter.pl/madworld-2017-relacja/) (która, naturalnie,
-była kopalnią wiedzy na temat Flare'a), przejrzeć grupy użytkowników istniejące
-na całym świecie, przedyskutować sposób, w jaki działać będzie grupa w Polsce,
+[MadWorld 2017](../madworld-2017-relacja/index.md) (która, naturalnie, była
+kopalnią wiedzy na temat Flare'a), przejrzeć grupy użytkowników istniejące na
+całym świecie, przedyskutować sposób, w jaki działać będzie grupa w Polsce,
 napić się lokalnie warzonego piwa, a nawet chwycić kawałek pizzy zapewnionej
 przez organizatorów.
 

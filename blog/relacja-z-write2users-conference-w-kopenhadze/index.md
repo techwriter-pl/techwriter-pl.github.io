@@ -82,7 +82,7 @@ cech Flare’a.
 
 Mogliśmy też usłyszeć o Danish Flare User Group, czyli grupie zrzeszającej
 użytkowników Flare’a w Danii (pozdrowienia od
-[Polish Flare User Group](http://techwriter.pl/drugie-spotkanie-poland-madcap-flare-user-group-relacja/)!)
+[Polish Flare User Group](../drugie-spotkanie-poland-madcap-flare-user-group-relacja/index.md)!)
 i zapoznać się z najnowszymi plotkami dotyczącymi kalifornijskiej firmy
 (nadciągają zmiany!).
 

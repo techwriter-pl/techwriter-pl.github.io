@@ -9,12 +9,10 @@ tags:
 coverImage: 'Zrzut-ekranu-2019-04-17-o-22.38.56-e1555533727865.png'
 ---
 
-Jak pewnie dobrze wiecie, dostępne
-[konferencje w 2019 — drugie półrocze](http://techwriter.pl/konferencje-2019-drugie-polrocze/)
-zwłaszcza — zaskakują mnogością oraz szerokim wachlarzem poruszanej tematyki. My
-zdecydowaliśmy się wziąć udział w **Write the Docs Vilnius 2019**. Choć sam
-format jest już dość popularny, to po raz pierwszy wydarzenie zostało
-zorganizowane w stolicy Litwy.
+Jak pewnie dobrze wiecie, dostępne konferencje w 2019 zaskakują mnogością oraz
+szerokim wachlarzem poruszanej tematyki. My zdecydowaliśmy się wziąć udział w
+**Write the Docs Vilnius 2019**. Choć sam format jest już dość popularny, to po
+raz pierwszy wydarzenie zostało zorganizowane w stolicy Litwy.
 
 <!--truncate-->
 

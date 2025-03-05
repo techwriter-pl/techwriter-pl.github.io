@@ -22,11 +22,10 @@ Słyszeliście o [Wikiversity](http://www.wikiversity.org/)? Bardzo ciekawy
 projekt, ale najwyraźniej jak na razie nieudany. Może właśnie dlatego, że nikt o
 nim nie słyszał 😉
 
-Zainspirowani
-[komentarzami do jednego z poprzednich wpisów](http://techwriter.pl/kiedy-instrukcja-staje-sie-sztuka/#comments),
-zaczęliśmy się zastanawiać gdzie właściwie takich podstawowych informacji o
-techwritingu można szukać. Odszukaliśmy kilkanaście amerykańskich uniwersytetów
-na których można znaleźć pokrewne przedmioty, np. takie jak na
+Zainspirowani komentarzami do jednego z poprzednich wpisów, zaczęliśmy się
+zastanawiać gdzie właściwie takich podstawowych informacji o techwritingu można
+szukać. Odszukaliśmy kilkanaście amerykańskich uniwersytetów na których można
+znaleźć pokrewne przedmioty, np. takie jak na
 [tej liście](http://extension.berkeley.edu/public/category/programStream.do?method=load&selectedProgramAreaId=15550&selectedProgramStreamId=15615#),
 ale właściwie nigdzie nie znaleźliśmy całościowego podejścia do tematu i
 uporządkowania w jednym miejscu ogromnej dziedziny wiedzy jaką jest komunikacja

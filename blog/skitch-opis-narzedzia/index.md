@@ -117,7 +117,7 @@ ze znajomymi (np. w celu pokazania gdzie na mapie znajduje się restauracja, o
 której wspominaliśmy podczas ostatniego spotkania) niż jako konkretne narzędzie
 do tworzenia zrzutów ekranu na potrzeby dokumentacji. Według nas istnieją lepsze
 i też darmowe narzędzia, chociażby opisywany przez nas
-[Greenshot](http://techwriter.pl/zrzucanie-ekranu-opis-narzedzi/), które oferują
+[Greenshot](../zrzucanie-ekranu-opis-narzedzi/index.md), które oferują
 zdecydowanie więcej możliwości. Poza nowoczesnym interfejsem nie dostrzegamy
 żadnego aspektu, w którym Skitch miałby przewagę nad innymi tego typu
 aplikacjami. Chyba, że nie rozstajecie się z aplikacją Evernote, to wtedy Skitch
