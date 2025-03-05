@@ -98,7 +98,7 @@ Technical writer może pomóc w zapisie i dystrybucji dokumentów poprzez:
 
 Na co dzień często pracujemy z różnego rodzaju bazami wiedzy (knowledge bases),
 które często wypełniamy wiedzą ujawnioną 😉 Pisaliśmy o nich dawno temu:
-[http://techwriter.pl/bazy-wiedzy/](http://techwriter.pl/bazy-wiedzy/)
+[../bazy-wiedzy/](../bazy-wiedzy/index.md)
 
 Dlaczego zarządzanie wiedzą jest ważne? Poniżej lista pozytywów, które
 znaleźliśmy. Może dodacie do niej coś od siebie 😉

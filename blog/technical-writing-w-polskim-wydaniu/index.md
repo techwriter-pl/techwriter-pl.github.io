@@ -12,14 +12,14 @@ coverImage: 'books-683901_640-e1428524210368.jpg'
 ---
 
 Całkiem niedawno ubolewaliśmy w jednym z naszych
-[wpisów](http://techwriter.pl/polskie-blogi/) nad brakiem polskich blogów o
-Technical Writingu. Dużo wcześniej
-[pisaliśmy](http://techwriter.pl/naucz-sie-sama-czesc-2/) z kolei o tym, że w
-naszym pięknym kraju brakuje formalnej edukacji i kursów dla dokumentalistów.
-Dlatego nie podejrzewaliśmy, że w czeluściach internetu znajdziemy coś takiego.
-Całkowicie przypadkiem natrafiliśmy na polskie publikacje związane z Technical
-Writingiem! Ich autorką jest **dr Iwona Mokwa-Tarnowska**. Jak udało nam się
-ustalić Pani Doktor jest starszym wykładowcą języka angielskiego w
+[wpisów](../polskie-blogi/index.md) nad brakiem polskich blogów o Technical
+Writingu. Dużo wcześniej [pisaliśmy](../naucz-sie-sama-czesc-2/index.md) z kolei
+o tym, że w naszym pięknym kraju brakuje formalnej edukacji i kursów dla
+dokumentalistów. Dlatego nie podejrzewaliśmy, że w czeluściach internetu
+znajdziemy coś takiego. Całkowicie przypadkiem natrafiliśmy na polskie
+publikacje związane z Technical Writingiem! Ich autorką jest **dr Iwona
+Mokwa-Tarnowska**. Jak udało nam się ustalić Pani Doktor jest starszym
+wykładowcą języka angielskiego w
 [Centrum Języków Obcych](http://cjo.pg.edu.pl/ektorzy) przy Politechnice
 Gdańskiej oraz członkiem zarządu
 [Stowarzyszenia E-learningu Akademickiego](http://www.sea.edu.pl/struktura.php).

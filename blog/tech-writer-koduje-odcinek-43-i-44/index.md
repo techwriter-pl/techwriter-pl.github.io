@@ -118,5 +118,5 @@ firmach zatrudniających technical writerów zapraszamy do odsłuchania tego
 [odcinka](https://techwriterkoduje.pl/blog/2022/08/01/rekrutacja-tech-writerow).
 
 Dodatkowo zapraszamy do zapoznania się z
-[artykułem](http://techwriter.pl/techwriter-szuka-pierwszej-pracy/), w którym
-nasza redakcyjna koleżanka dzieli się doświadczeniami z szukania pracy.
+[artykułem](../techwriter-szuka-pierwszej-pracy/index.md), w którym nasza
+redakcyjna koleżanka dzieli się doświadczeniami z szukania pracy.

@@ -127,12 +127,6 @@ corocznej ankiety techwriter.pl:
 > dwóch lat to jest 25,2 procent. Jak widać, branża relatywnie młoda, jeśli
 > chodzi o staż pracy.”
 
-Michale, dziękujemy za wspomnienie naszego badania płac i w tym miejscu zwracamy
-się z prośbą do wszystkich Czytelników - jeśli jeszcze nie wzięliście udziału w
-tegorocznym badaniu to jest jeszcze na to czas do **16 maja**. Wszelkie
-informacje znajdziecie
-[w tym poście](http://techwriter.pl/badanie-płac-w-komunikacji-technicznej-2021-wypelnij-ankiete/).
-
 #### Jak zostać technical writerem?
 
 Dwie najbardziej popularne ścieżki kariery:

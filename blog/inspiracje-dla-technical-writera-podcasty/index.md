@@ -20,16 +20,16 @@ razem stawiamy na podcasty.
 Zanim jednak przejdziemy do meritum, poniżej lista poprzednich artykułów z
 naszej serii:
 
-- [Dokumentacja online](http://techwriter.pl/inspiracje-dla-technical-writera-dokumentacja-online/),
-- [Blogi i strony internetowe](http://techwriter.pl/inspiracje-dla-technical-writera-blogi-i-strony-internetowe/),
-- [Narzędzia](http://techwriter.pl/inspiracje-dla-technical-writera-narzedzia/).
+- [Dokumentacja online](../inspiracje-dla-technical-writera-dokumentacja-online/index.md),
+- [Blogi i strony internetowe](../inspiracje-dla-technical-writera-blogi-i-strony-internetowe/index.md),
+- [Narzędzia](../inspiracje-dla-technical-writera-narzedzia/index.md).
 
 W coraz bardziej zabieganym świecie trudniej jest pogodzić ze sobą życie
 zawodowe, prywatne, dbanie o formę i zdrowie oraz ciągły rozwój umiejętności czy
 hobby. Jeśli brakuje Wam czasu na czytanie branżowych artykułów z pomocą może
 przyjść podcast. Temat ten, poruszaliśmy już kiedyś - chętnych do przeczytania
-zapraszamy [tutaj](http://techwriter.pl/naucz-sie-sama-czesc-8/). Postanowiliśmy
-jednak go odświeżyć i poinformować Was o nowościach.
+zapraszamy [tutaj](../naucz-sie-sama-czesc-8/index.md). Postanowiliśmy jednak go
+odświeżyć i poinformować Was o nowościach.
 
 Poniżej lista propozycji, która może okazać się pomocna dla osób
 zainteresowanych komunikacją techniczną.

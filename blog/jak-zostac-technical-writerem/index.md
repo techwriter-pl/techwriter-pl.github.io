@@ -13,7 +13,7 @@ coverImage: 'Start.jpg'
 Jeżeli znacie kogoś, kto w ramach noworocznego postanowienia stwierdził, że musi
 w końcu znaleźć fajną pracę - oto artykuł idealny dla tej osoby! Jeżeli nie
 znacie - oto artykuł dla Was. Co zrobić, aby rozpocząć pracę w
-[najlepszym zawodzie świata](http://techwriter.pl/mamy-najlepsza-prace-na-swiecie/)?
+[najlepszym zawodzie świata](../mamy-najlepsza-prace-na-swiecie/index.md)?
 
 <!--truncate-->
 
@@ -22,8 +22,6 @@ writerem przez przypadek. Tak, na pewno można. Znamy takie przypadki...
 Właściwie większość dokumentalistów jakich znamy znalazła się w tym zawodzie
 przypadkiem, choć teraz oczywiście twierdzą, że była to precyzyjnie zaplanowana
 ścieżka kariery 😊.
-[Typowy przykład jednego z naszych czytelników znajdziecie w komentarzach do poprzednich wpisów](http://techwriter.pl/ile-zarabia-technical-writer/#comment-465) -
-dziękujemy!.
 
 Ale na pewno trzeba lubić pisać, kontaktować się z ludźmi, pisać, poznawać nowe
 produkty i technologie, pisać, uczyć się, pisać, pisać, pisać... 😉
@@ -71,12 +69,10 @@ jeszcze trochę za wcześnie i należy wrócić do punktu pierwszego (nauka jęz
 Pierwsza praca nie będzie zapewne świetnie płatna (patrz wyżej - w tym zawodzie
 liczy się doświadczenie), ale... będzie już pracą w zawodzie technical writera
 😊. Później pójdzie już z górki (jakiś czas temu pisaliśmy o tym
-[ile zarabia techwriter](http://techwriter.pl/ile-zarabia-technical-writer/)). O
-ile Wam się spodoba i troszkę się postaracie. A czym będziecie się zajmować?
+[ile zarabia techwriter](../ile-zarabia-technical-writer/index.md)). O ile Wam
+się spodoba i troszkę się postaracie. A czym będziecie się zajmować?
 
 [Na przykład tym](http://en.wikipedia.org/wiki/Technical_writer).
-
-[A tak bardziej praktycznie to tym](http://techwriter.pl/category/warsztat/przyklady/).
 
 Albo tym, co akurat będzie w firmie potrzebne 😉. Może się zdarzyć tak, że
 traficie w miejsce gdzie do tej pory nie było technical writerów a dokumentacja,

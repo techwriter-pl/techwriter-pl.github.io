@@ -19,7 +19,7 @@ oficjalne rozpoczęcie przesunęło się z października na listopad.
 Aktualny plan przewiduje rozpoczęcie zajęć w weekend 16-17 listopada. Oczywiście
 o ile zbierze się wystarczająca ilość chętnych. Więcej o tej inicjatywie
 pisaliśmy jakiś czas temu -
-[tu znajdziecie wszystkie potrzebne szczegóły](http://techwriter.pl/studia-podyplomowe-w-warszawie-ruszaja-w-pazdzierniku/).
+[tu znajdziecie wszystkie potrzebne szczegóły](../studia-podyplomowe-w-warszawie-ruszaja-w-pazdzierniku/index.md).
 A poniżej ulotka promocyjna 😊
 
 ![](images/A5-komunikacja-techniczna2-1.jpg)

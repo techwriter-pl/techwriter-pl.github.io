@@ -21,8 +21,8 @@ propozycję kształcenia w modelu Adama Słodowego. I mojka.
 Ostatnimi czasy zacząłem wgryzać się w temat samodokształcania w dziedzinie
 Technical Writingu. Jak już zostało ustalone, kursów, które mogłyby rozwinąć
 naszą wiedzę w tej materii jest jak na lekarstwo (albo ja słabo szukałem). Poza
-wspomnianym w poprzednim [poście](http://techwriter.pl/naucz-sie-sama/) kursem
-na Wikiversity, ciężko znaleźć coś sensownego w sieci.
+wspomnianym w poprzednim [poście](../naucz-sie-sama/index.md) kursem na
+Wikiversity, ciężko znaleźć coś sensownego w sieci.
 
 Jeśli chodzi o tradycyjne szkolenia, to możemy wziąć udział w dwudniowym
 szkoleniu w Katowicach, które kosztuje “tylko” 2500 zł netto
@@ -50,8 +50,7 @@ odsyłam do wpisu na blogu
 
 Natrafiłem również na ciekawy wątek na forum
 [Technical Writing World](http://www.technicalwritingworld.com/). Można z niego
-wyłuskać parę ciekawych pozycji. Można go znaleźć pod tym linkiem
-[http://technicalwritingworld.com/forum/topics/list-of-books-every-technical?id=6394117%3ATopic%3A5485&page=1#comments](http://technicalwritingworld.com/forum/topics/list-of-books-every-technical?id=6394117%3ATopic%3A5485&page=1#comments).
+wyłuskać parę ciekawych pozycji.
 
 Im dłużej drążyłem temat, tym większy miałem mętlik w głowie - tyle ciekawych
 pozycji do ogarnięcia, kiedy to zrobić? W końcu przestałem szukać i z materiału,

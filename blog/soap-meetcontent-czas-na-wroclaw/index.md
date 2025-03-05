@@ -14,10 +14,9 @@ coverImage: 'meet_content_wroclaw.png'
 ---
 
 Społeczność [MeetContent](http://meetcontent.org/) skupiona wokół szeroko
-pojętej treści nabiera rozpędu. Jeszcze nie opadł kurz po
-[trzecim spotkaniu branżowym w Krakowie](http://techwriter.pl/trzecia-odslona-soap-meetcontent/),
-a już mamy dla Was kolejną propozycję na spędzenie wolnego czasu w towarzystwie
-koleżanek i kolegów po fachu.
+pojętej treści nabiera rozpędu. Jeszcze nie opadł kurz po trzecim spotkaniu
+branżowym w Krakowie, a już mamy dla Was kolejną propozycję na spędzenie wolnego
+czasu w towarzystwie koleżanek i kolegów po fachu.
 
 <!--truncate-->
 
@@ -28,7 +27,7 @@ oś spotkania, odbędzie się panel dyskusyjny z udziałem specjalistów z bran�
 tech comm: **Erin Vang** z Dolby, **Gosi Radymiak** z soap!, **Tomka Prusa** z
 Unit4 oraz **Wojtka Aleksandra** z GetResponse, który poprowadził prezentację na
 temat UX Writing podczas
-[drugiego spotkania MeetContent w Krakowie](http://techwriter.pl/soap-meetcontent-po-raz-drugi-relacja/).
+[drugiego spotkania MeetContent w Krakowie](../soap-meetcontent-po-raz-drugi-relacja/index.md).
 
 ### Temat dyskusji
 

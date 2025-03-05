@@ -28,12 +28,12 @@ Prawie 5 lat.
 Trochę w tym szczęścia, trochę przypadku. Pierwsze lata po studiach pracowałem
 jako nauczyciel języka angielskiego, jednak redukcja zatrudnienia w szkole
 zmusiła mnie do szukania innego zajęcia. Traf chciał, że w firmie gdzie pracował
-[mój przyjaciel](http://techwriter.pl/kilka-pytan-do-czesc-8/) rozpoczęła się
-duża rekrutacja do zespołu dokumentacyjnego. Do końca nie zdawałem sobie sprawy
-o co w tej pracy chodzi, ale wydawało mi się to ciekawe. Wziąłem udział w
-rekrutacji, zostałem zatrudniony z innymi 8-10 osobami i tak zaczęła się moja
-przygoda z technical writingiem. Było to duże wyzwanie i zmiana w moim życiu,
-gdyż musiałem się także przeprowadzić do Krakowa.
+[mój przyjaciel](../kilka-pytan-do-czesc-8/index.md) rozpoczęła się duża
+rekrutacja do zespołu dokumentacyjnego. Do końca nie zdawałem sobie sprawy o co
+w tej pracy chodzi, ale wydawało mi się to ciekawe. Wziąłem udział w rekrutacji,
+zostałem zatrudniony z innymi 8-10 osobami i tak zaczęła się moja przygoda z
+technical writingiem. Było to duże wyzwanie i zmiana w moim życiu, gdyż musiałem
+się także przeprowadzić do Krakowa.
 
 #### Czy możesz opowiedzieć coś o swojej firmie i zespole w którym pracujesz?
 

@@ -24,7 +24,7 @@ docelową tekom Polska są wszystkie osoby aktywne w obszarze komunikacji
 technicznej lub zajmujące się rozwojem informacji i zarządzaniem nimi.
 
 W zeszłym roku informowaliśmy o powstaniu tej organizacji w jednym z naszych
-[wpisów](http://techwriter.pl/tekom-polska-witamy/).
+[wpisów](../tekom-polska-witamy/index.md).
 
 #### Cel spotkania
 

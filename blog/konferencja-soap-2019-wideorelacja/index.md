@@ -142,7 +142,7 @@ https://youtu.be/4qyzEx7fgtA?list=PLUY0lajb-kiaIbF6clQaxTp2lwqmrDDC5
 
 Przy okazji, Rafałowi tak spodobały się techcommowe konferencje, że sam wybrał
 się na jedną z nich jako nasz wysłannik i
-[zrelacjonował ją dla Was](http://techwriter.pl/nasza-relacja-z-write-the-docs-prague-2019/)
+[zrelacjonował ją dla Was](../nasza-relacja-z-write-the-docs-prague-2019/index.md)
 😊
 
 ## Dzień 2

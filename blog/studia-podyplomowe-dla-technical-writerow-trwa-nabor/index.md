@@ -29,8 +29,8 @@ Zainteresowanych zachęcamy do przeczytania artykułów naszej redakcyjnej
 koleżanki Magdy, która jest już absolwentką tego kierunku i dzieli się swoimi
 wrażeniami:
 
-- [po pierwszym semestrze](http://techwriter.pl/komunikacja-techniczna-jak-sie-studiuje/),
-- [po drugim semestrze](http://techwriter.pl/komunikacja-techniczna-drugi-semestr/).
+- [po pierwszym semestrze](../komunikacja-techniczna-jak-sie-studiuje/index.md),
+- [po drugim semestrze](../komunikacja-techniczna-drugi-semestr/index.md).
 
 Po pierwszej edycji prowadzący zdecydowali się na zmiany w programie, które
 znacząco podniosły wartość tego kierunku studiów. Wszystko po to, by lepiej

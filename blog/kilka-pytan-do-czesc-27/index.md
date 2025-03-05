@@ -248,4 +248,4 @@ jest piękne!
 Anno, bardzo dziękujemy za poświęcony czas.
 
 Jeśli ktoś z Was miałby ochotę odpowiedzieć na nasze pytania, zapraszamy.
-Informacje kontaktowe znajdziecie [tutaj](http://techwriter.pl/kontakt/).
+Informacje kontaktowe znajdziecie [tutaj](/kontakt).

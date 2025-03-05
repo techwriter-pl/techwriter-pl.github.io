@@ -26,9 +26,9 @@ Jako pomysłodawcy i partnerzy tej inicjatywy czujemy się zobowiązanie do
 szerzenia informacji o takiej możliwości wejścia w zawód (dla początkujących)
 lub profesjonalnego rozwoju (dla już pracujących w zawodzie). O studiach
 podyplomowych w Warszawie
-[pisaliśmy już na naszych łamach](http://techwriter.pl/studia-podyplomowe-z-komunikacji-technicznej/),
+[pisaliśmy już na naszych łamach](../studia-podyplomowe-z-komunikacji-technicznej/index.md),
 podobnie jak o ich
-[wrocławskiej odmianie](http://techwriter.pl/kolejna-uczelnia-ze-studiami-podyplomowymi-z-komunikacji-technicznej/).
+[wrocławskiej odmianie](../kolejna-uczelnia-ze-studiami-podyplomowymi-z-komunikacji-technicznej/index.md).
 Jak wygląda aktualna sytuacja?
 
 W Warszawie, jeżeli nie zbierze się odpowiednia liczba uczestników, studia

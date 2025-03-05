@@ -35,10 +35,10 @@ zachowały swój oryginalny przekaz (znaczenie, styl, kontekst, intonację) po
 przetłumaczeniu na inny język lub przeniesieniu do innego kraju lub kręgu
 kulturowego.
 
-Hmm..., może jednak to słowo powinno trafić do serii
-[langłydż](http://techwriter.pl/category/langlydz/)? Prawdę mówiąc, firmy które
-zajmują się tłumaczeniami opisały transkreację już wcześniej, często lepiej niż
-my, np. [w tym miejscu](http://www.kontekst.pl/pl/oferta/transkreacja). Albo
+Hmm..., może jednak to słowo powinno trafić do serii langłydż? Prawdę mówiąc,
+firmy które zajmują się tłumaczeniami opisały transkreację już wcześniej, często
+lepiej niż my, np.
+[w tym miejscu](http://www.kontekst.pl/pl/oferta/transkreacja). Albo
 [tu](http://pl-pl.lionbridge.com/solutions/transcreation/). Albo
 [tam](http://mlingua.pl/pol/uslugi/globalizacja/transkreacja.html). I jeszcze
 [tam](http://hello-blackbird.com/tlumaczenia/teksty-kreatywne/).

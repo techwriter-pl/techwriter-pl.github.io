@@ -76,12 +76,12 @@ Ogólnie rzecz biorąc, bez problemu przedstawiła swój koncept w atrakcyjnym,
 „TEDowym” stylu.
 
 Spotkanie trwało krócej
-niż [poprzednie](http://techwriter.pl/soap-meetcontent-po-raz-drugi-relacja/), siłą
-rzeczy było więc mocniej skondensowane i bardziej dynamiczne. Nie wywołało
-wprawdzie dyskusji na śmierć i życie (przynajmniej nie na forum), ale frekwencja
+niż [poprzednie](../soap-meetcontent-po-raz-drugi-relacja/index.md), siłą rzeczy
+było więc mocniej skondensowane i bardziej dynamiczne. Nie wywołało wprawdzie
+dyskusji na śmierć i życie (przynajmniej nie na forum), ale frekwencja
 dopisała - pojawiły się nawet osoby z Trójmiasta. Wygląda na to, że MeetContent
 zaczyna zdobywać popularność poza Krakowem, co potwierdza
-również [wydarzenie organizowane we Wrocławiu](http://techwriter.pl/soap-meetcontent-czas-na-wroclaw/).
+również [wydarzenie organizowane we Wrocławiu](../soap-meetcontent-czas-na-wroclaw/index.md).
 
 Metodologia design _thinking_ brzmi pociągająco, ale czy może się przydać
 Technical Writerom? Spójrzmy prawdzie w oczy: nie zawsze. Koniec końców, jest to

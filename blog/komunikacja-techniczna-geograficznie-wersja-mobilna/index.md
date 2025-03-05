@@ -22,8 +22,8 @@ Przypomnijmy, Tech Comm on a Map to interaktywna mapa stworzona przez
 się w tym co się dzieje w komunikacji technicznej na całym świecie. Jeśli
 chcielibyście dowiedzieć się więcej na ten temat, możecie zajrzeć do naszych
 wcześniejszych wpisów o tym projekcie
-([Komunikacja techniczna geograficznie](http://techwriter.pl/komunikacja-techniczna-geograficznie/),
-[Komunikacja techniczna geograficznie v2](http://techwriter.pl/komunikacja-techniczna-geograficznie-v2/))
+([Komunikacja techniczna geograficznie](../komunikacja-techniczna-geograficznie/index.md),
+[Komunikacja techniczna geograficznie v2](../komunikacja-techniczna-geograficznie-v2/index.md))
 lub do specjalnej
 [kategorii](https://ffeathers.wordpress.com/tech-comm-on-a-map/) na blogu
 [ffeathers](https://ffeathers.wordpress.com/).
@@ -53,11 +53,10 @@ Was ktoś kto chciałby dodać jakieś nowe opcje?
 
 Pomimo tego, że bardzo podoba nam się ten projekt, to jednak jego tempo rozwoju
 jest dość kiepskie. Nie mówimy tutaj o rozwoju funkcjonalności, ale o ilości
-dostępnych danych. Na początku roku opublikowaliśmy
-[listę konferencji z pierwszego półrocza 2016](http://techwriter.pl/konferencje-2016-pierwsze-polrocze/),
-na której znalazło się całkiem sporo europejskich konferencji. W momencie
-tworzenia tego wpisu (koniec lutego) na mapie zaznaczone były zaledwie dwie
-konferencje w Europie na ten rok.
+dostępnych danych. Na początku roku opublikowaliśmy listę konferencji z
+pierwszego półrocza 2016, na której znalazło się całkiem sporo europejskich
+konferencji. W momencie tworzenia tego wpisu (koniec lutego) na mapie zaznaczone
+były zaledwie dwie konferencje w Europie na ten rok.
 
 ![conferences2016onamap](images/conferences2016onamap.png)
 

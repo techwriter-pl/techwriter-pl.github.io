@@ -25,14 +25,13 @@ komunikacji wizualnej.
 Firma Tech Smith organizuje **darmowy**
 [webinar](https://discover.techsmith.com/level-up-eastern-time/) o nazwie "Level
 Up", poświęcony codziennej komunikacji wizualnej. Za pomocą narzędzia Snagit
-(mój opis znajdziecie
-[tutaj](http://techwriter.pl/snagit-2021-pierwsze-wrazenia/)) do robienia rzutów
-ekranu można nie tylko tworzyć dobrze wyglądające ilustracje do wykorzystania w
-dokumentacji. Efektem ubocznym korzystania z tej aplikacji jest również poprawa
-codziennej komunikacji na tematy projektowe. Pewne rzeczy łatwiej jest przekazać
-obrazem niż słowem. Dlatego też spodziewam się, że na tym webinarze będziecie
-mogli/mogły poznać wiele trików dotyczących wizualnej komunikacji za pomocą
-obrazów i filmów.
+(mój opis znajdziecie [tutaj](../snagit-2021-pierwsze-wrazenia/index.md)) do
+robienia rzutów ekranu można nie tylko tworzyć dobrze wyglądające ilustracje do
+wykorzystania w dokumentacji. Efektem ubocznym korzystania z tej aplikacji jest
+również poprawa codziennej komunikacji na tematy projektowe. Pewne rzeczy
+łatwiej jest przekazać obrazem niż słowem. Dlatego też spodziewam się, że na tym
+webinarze będziecie mogli/mogły poznać wiele trików dotyczących wizualnej
+komunikacji za pomocą obrazów i filmów.
 
 Tworzenie memów stanie się jeszcze prostsze! 😉
 

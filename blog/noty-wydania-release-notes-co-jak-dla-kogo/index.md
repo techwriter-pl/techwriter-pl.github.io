@@ -10,8 +10,8 @@ tags:
 coverImage: 'adult-2242164_640.jpg'
 ---
 
-Dość dawno temu [pisaliśmy](http://techwriter.pl/noty-wydania/) pokrótce o
-notach wydania (release notes). Dzisiaj przyjrzymy się im trochę bliżej.
+Dość dawno temu [pisaliśmy](../noty-wydania/index.md) pokrótce o notach wydania
+(release notes). Dzisiaj przyjrzymy się im trochę bliżej.
 
 <!--truncate-->
 

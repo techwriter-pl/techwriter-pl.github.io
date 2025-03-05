@@ -48,8 +48,8 @@ uporządkowany i możemy przystąpić do pisania właściwego tekstu.
 Ale, ale… Taka organizacja tekstu coś nam przypomina…
 
 Uważni czytelnicy zapewne pamiętają opisywane przez nas narzędzie
-[Scrivener](http://techwriter.pl/scrivener-opis-narzedzia/). Pozwalał on dzielić
-tekst na drobne kawałki, a następnie dowolnie je reorganizować podczas pracy nad
+[Scrivener](../scrivener-opis-narzedzia/index.md). Pozwalał on dzielić tekst na
+drobne kawałki, a następnie dowolnie je reorganizować podczas pracy nad
 tekstem - zasada bardzo podobna do wspomnianych powyżej map. Odpaliliśmy program
 (no dobra, najpierw wyguglaliśmy co i jak…) i... okazało się, że może on
 najzwyczajniej w świecie zaimportować plik o rozszerzeniu “mm” stworzony w
@@ -65,8 +65,8 @@ pozwala wygodnie wizualizować zagadnienie, umożliwiając jednocześnie efektyw
 pracę nad tekstem, gdy już go zaplanujemy. Jeżeli ktoś jest zwolennikiem
 stosowania map umysłu (a są one dość popularne choćby w branży IT), może teraz
 korzystać z nich efektywniej. Dodatkowo, jeżeli uda się przekonać naszego
-[SME](http://techwriter.pl/kim-jest-sme/), żeby zrobił dla nas taki diagram,
-zalążek tekstu dostajemy niejako w bonusie.
+[SME](../kim-jest-sme/index.md), żeby zrobił dla nas taki diagram, zalążek
+tekstu dostajemy niejako w bonusie.
 
 Nie zapomniano również o osobach, które chciałyby urządzić burzę mózgu w
 odniesieniu do już istniejących dokumentów Scrivenera. Istnieje możliwość

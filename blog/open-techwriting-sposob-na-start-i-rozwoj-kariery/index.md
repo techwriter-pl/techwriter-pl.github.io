@@ -25,7 +25,7 @@ zwiększyć swoje szanse na udany start kariery nie mając szans na zdobycie
 realnego doświadczenia?
 
 Nasz pomysł to pisanie dokumentacji dla projektów
-[open source](http://en.wikipedia.org/wiki/Open_source 'Open source').
+[open source](http://en.wikipedia.org/wiki/Open_source).
 
 Open-source movement to międzynarodowy ruch zapoczątkowany w 1998 roku, mający
 na celu stworzenie alternatywy dla zamkniętego, komercyjnego oprogramowania.
@@ -56,7 +56,7 @@ Co da nam udział w tworzeniu dokumentacji dla open source:
   temat.
 - Mnogość tematyki — każdy jest w stanie znaleźć jakiś projekt, który współgra z
   jego pasją albo hobby. Przykładowa lista projektów z różnych dziedzin
-  [tutaj](http://en.wikipedia.org/wiki/List_of_free_and_open-source_software_packages 'Lista projektów').
+  [tutaj](http://en.wikipedia.org/wiki/List_of_free_and_open-source_software_packages).
 
 Większość z projektów open source poszukuje dokumentalistów. Wystarczy znaleźć
 projekt, dołączyć do niego i pomóc, jednocześnie ucząc się warsztatu. Jest to
@@ -67,27 +67,27 @@ Jak szukać projektów:
 
 - Strona projektu, który nas zainteresował, zazwyczaj zawiera jakąś informację o
   tym, kogo projekt potrzebuje. Przykładowo, sprawdzając jak można pomóc twórcom
-  [GIMP](http://www.gimp.org/ 'GIMP')\-a, dowiadujemy się, że szukają kogoś, kto
+  [GIMP](http://www.gimp.org/)\-a, dowiadujemy się, że szukają kogoś, kto
   rozbuduje istniejącą dokumentację albo przetłumaczy ją na swój rodzimy język,
   weźmie udział w tłumaczeniu samego programu albo napisze jakiś samouczek.
 - Można szukać na tablicach ogłoszeń, które towarzyszą organizacjom wspierającym
   open source —
-  przykład [SourceForge](http://sourceforge.net/p/forge/helpwanted/ 'SourceForge').
+  przykład [SourceForge](http://sourceforge.net/p/forge/helpwanted/).
 - Można poszukać jakiejś organizacji zajmującej się dokumentacją dla wolnego
   oprogramowania, przykładem niech będzie
-  [FLOSS Manuals](http://www.flossmanuals.org/%20 'Floss Manuals') — baza
-  manuali, którą można uzupełniać o własne instrukcje.
+  [FLOSS Manuals](http://www.flossmanuals.org/%20) — baza manuali, którą można
+  uzupełniać o własne instrukcje.
 
 Minus, jaki dostrzegamy to oczywiście brak wynagrodzenia, ale zdarzają się
 ludzie, którzy budują swój sukces zawodowy pracując dla środowiska open source.
 Przykład takiej osoby to Sven Dowedit, uczestnik
-[Writing Openly](http://www.stc-aus.org.au/watch-the-talks-from-the-writing-openly-miniconf-at-lca2015/ 'WO miniconf')
+[Writing Openly](http://www.stc-aus.org.au/watch-the-talks-from-the-writing-openly-miniconf-at-lca2015/)
 miniconf towarzyszącej
-[LCA2015](https://www.youtube.com/user/linuxconfau2015/feed 'LCA 2015'), który w
-nieco chaotyczny, ale bardzo sympatyczny sposób mówi o swojej drodze od
-ochotnika do pracownika tworzącego dokumentację dla
-[Dockera](https://www.docker.com/ 'Docker'). Prezentację można zobaczyć
-[pod tym adresem.](https://www.youtube.com/watch?v=MBljpRkwbgM 'Sven Dowedit')
+[LCA2015](https://www.youtube.com/user/linuxconfau2015/feed), który w nieco
+chaotyczny, ale bardzo sympatyczny sposób mówi o swojej drodze od ochotnika do
+pracownika tworzącego dokumentację dla [Dockera](https://www.docker.com/).
+Prezentację można zobaczyć
+[pod tym adresem.](https://www.youtube.com/watch?v=MBljpRkwbgM)
 
 Może ktoś z Was ma już jakieś doświadczenia z tworzeniem otwartej dokumentacji?
 Jeśli tak, podzielcie się wrażeniami w komentarzach.

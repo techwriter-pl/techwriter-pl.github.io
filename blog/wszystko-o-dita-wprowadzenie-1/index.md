@@ -108,7 +108,7 @@ Jeżeli chcecie się dowiedzieć więcej, zachęcamy do przeczytania kolejnych
 artykułów. Cała seria składa się z następujących wpisów:
 
 - Wszystko o DITA — Wprowadzenie (1)
-- [Wszystko o DITA — Podstawy (2)](http://techwriter.pl/wszystko-o-dita-podstawy/)
-- [Wszystko o DITA — Strategia (3)](http://techwriter.pl/wszystko-o-dita-strategia/)
-- [Wszystko o DITA — Narzędzia (4)](http://techwriter.pl/jak-zaczac-pisac-w-dita-narzedzia/)
-- [Wszystko o DITA — Struktura topików (5)](http://techwriter.pl/wszystko-o-dita-struktura-topikow-5/)
+- [Wszystko o DITA — Podstawy (2)](../wszystko-o-dita-podstawy/index.md)
+- [Wszystko o DITA — Strategia (3)](../wszystko-o-dita-strategia/index.md)
+- [Wszystko o DITA — Narzędzia (4)](../jak-zaczac-pisac-w-dita-narzedzia/index.md)
+- [Wszystko o DITA — Struktura topików (5)](../wszystko-o-dita-struktura-topikow-5/index.md)

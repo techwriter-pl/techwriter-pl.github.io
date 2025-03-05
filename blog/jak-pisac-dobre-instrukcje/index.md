@@ -44,11 +44,11 @@ wskazówki, które pozwolą im jak najszybciej znaleźć właściwą ścieżkę.
 ### Zanim przystąpisz do pisania
 
 Musisz wiedzieć jaki styl należy zastosować w instrukcjach. Rozejrzyj się za
-[podręcznikiem stylu](http://techwriter.pl/podrecznik-stylu-stylrecznik/)
-używanym w Twojej firmie i zdobądź najnowszą wersję _Microsoft Manual of Style
-for Technical Publications_. A co z użytkownikami Apple? Albo już znają styl
-pisania Microsoftu albo nie będą zagubieni, ponieważ będzie on stosowany
-konsekwentnie w całym dokumencie.
+[podręcznikiem stylu](../podrecznik-stylu-stylrecznik/index.md) używanym w
+Twojej firmie i zdobądź najnowszą wersję _Microsoft Manual of Style for
+Technical Publications_. A co z użytkownikami Apple? Albo już znają styl pisania
+Microsoftu albo nie będą zagubieni, ponieważ będzie on stosowany konsekwentnie w
+całym dokumencie.
 
 Słownik i tezaurus nie zaszkodzą. Można je znaleźć w internecie, a firmowy
 podręcznik stylu powinien określać, które z nich wybrać. Jeśli masz wątpliwości,

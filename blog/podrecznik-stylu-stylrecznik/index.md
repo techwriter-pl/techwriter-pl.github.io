@@ -61,8 +61,7 @@ swój [Manual of Style](http://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style)
 Schodząc na ziemię, jeżeli Wasze oprogramowanie ściśle współpracuje z
 technologiami Microsoft'u, to powinniście się zapoznać z
 [Microsoft Manual of Style](http://www.amazon.com/Microsoft-Manual-Style-Corporation/dp/0735648719),
-o którym zresztą
-[już kiedyś wspominaliśmy](http://techwriter.pl/naucz-sie-sama-czesc-2/).
+o którym zresztą [już kiedyś wspominaliśmy](../naucz-sie-sama-czesc-2/index.md).
 Klasyka którą warto znać, niezależnie od branży (o ile oczywiście piszecie w
 języku angielskim), to
 [The Elements of Style](http://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X/ref=sr_1_1?s=books&ie=UTF8&qid=1396863409&sr=1-1&keywords=The+Elements+of+Style%2C+Fourth+Edition).

@@ -11,7 +11,7 @@ coverImage: 'powerpoint.gif'
 ---
 
 Skoro już jesteśmy przy konferencjach: materiały z konferencji SOAP!
-([przeczytaj naszą relację](http://techwriter.pl/soap-technical-communication-conference-relacja/)),
+([przeczytaj naszą relację](../soap-technical-communication-conference-relacja/index.md)),
 są już dostępne na
 [stronie organizatorów](http://www.soapconf.com/p/speakers.html). Sami
 sprawdźcie co Was ominęło...

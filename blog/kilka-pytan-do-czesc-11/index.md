@@ -11,8 +11,8 @@ coverImage: 'press-1015988_640.jpg'
 ---
 
 Podczas naszej ostatniej wizyty w Pradze (z której relację możecie przeczytać
-[tutaj](http://techwriter.pl/write-the-docs-europe-2016-relacja/)) poznaliśmy
-wiele ciekawych osób. Jedną z nich jest Brad Schmidt - kiedyś tester w Dolinie
+[tutaj](../write-the-docs-europe-2016-relacja/index.md)) poznaliśmy wiele
+ciekawych osób. Jedną z nich jest Brad Schmidt - kiedyś tester w Dolinie
 Krzemowej, a obecnie Tech Writer w stolicy Czech. Zobaczcie jak to się robi u
 naszych południowych sąsiadów.
 

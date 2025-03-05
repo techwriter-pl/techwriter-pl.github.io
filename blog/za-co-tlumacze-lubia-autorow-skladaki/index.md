@@ -20,11 +20,10 @@ specjaliści tworzący dokumentację mogą ułatwić życie tłumaczom.
 
 <!--truncate-->
 
-[Pierwszy wpis](http://techwriter.pl/za-co-tlumacze-lubia-autorow-spojnosc/) z
-cyklu "Za co tłumacze lubią autorów" podkreślał jak ważna jest spójność w
-tworzeniu dokumentacji. W drugiej części autorka skupia się na zagrożeniach
-związanych ze stosowaniem zmiennych i fragmentów tekstu do wielokrotnego użycia
-(snippetów).
+[Pierwszy wpis](../za-co-tlumacze-lubia-autorow-spojnosc/index.md) z cyklu "Za
+co tłumacze lubią autorów" podkreślał jak ważna jest spójność w tworzeniu
+dokumentacji. W drugiej części autorka skupia się na zagrożeniach związanych ze
+stosowaniem zmiennych i fragmentów tekstu do wielokrotnego użycia (snippetów).
 
 ## Kilka słów o autorce
 
@@ -62,12 +61,11 @@ wbijali niczego w laleczki voodoo wyobrażające tech writera.
 
 ### Jak zaoszczędzić parę bajtów i zepsuć tekst
 
-W
-[poprzednim artykule](http://techwriter.pl/za-co-tlumacze-lubia-autorow-spojnosc/)
-na temat pisania przyjaznego tłumaczom zachwalałam snippety i stałe tekstowe
-jako dobre praktyki w zakresie wstawiania do tekstu fragmentów, które będą się w
-nim powtarzać. Jest tu jedno małe ale, które z perspektywy tłumacza okazuje się
-ALE całkiem potężnym. Zanim mu się przyjrzymy, umówmy się na taki oto sposób
+W [poprzednim artykule](../za-co-tlumacze-lubia-autorow-spojnosc/index.md) na
+temat pisania przyjaznego tłumaczom zachwalałam snippety i stałe tekstowe jako
+dobre praktyki w zakresie wstawiania do tekstu fragmentów, które będą się w nim
+powtarzać. Jest tu jedno małe ale, które z perspektywy tłumacza okazuje się ALE
+całkiem potężnym. Zanim mu się przyjrzymy, umówmy się na taki oto sposób
 zapisywania elementów dynamicznie wstawianych do tekstu: $string, $number. W
 rzeczywistości może to być programistyczne {0} względnie starsze %s lub %d,
 conref w formacie DITA czy jakikolwiek inny sposób odniesienia; z punktu

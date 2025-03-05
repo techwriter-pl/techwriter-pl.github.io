@@ -12,7 +12,7 @@ coverImage: 'rss_blog.jpg'
 ---
 
 Jakiś czas temu
-[obiecaliśmy napisać co nieco o anglojęzycznej blogosferze z zakresu komunikacji technicznej](http://techwriter.pl/polskie-blogi/).
+[obiecaliśmy napisać co nieco o anglojęzycznej blogosferze z zakresu komunikacji technicznej](../polskie-blogi/index.md).
 A ponieważ obietnic należy dotrzymywać, przedstawiamy dziś kilka miejsc w sieci,
 które zdecydowanie warto odwiedzić, albo przynajmniej dodać do swojego czytnika
 RSS.
@@ -72,10 +72,10 @@ przez jedną z bardziej rozpoznawalnych osób w branży - Ellisa Pratta. Od czas
 do czasu pojawia się coś ciekawego, często promocja własnych usług.
 
 [Daily Writing Tips](http://www.dailywritingtips.com/) - już o nich
-[wspominaliśmy](http://techwriter.pl/naucz-sie-sama-czesc-5/). Artykuły o
-codziennych i niecodziennych problemach ludzi piszących w języku angielskim.
-Czasem piszą o narzędziach a czasem o... synonimach słowa "sofa". Warto -
-codziennie nowy, zazwyczaj krótki wpis.
+[wspominaliśmy](../naucz-sie-sama-czesc-5/index.md). Artykuły o codziennych i
+niecodziennych problemach ludzi piszących w języku angielskim. Czasem piszą o
+narzędziach a czasem o... synonimach słowa "sofa". Warto - codziennie nowy,
+zazwyczaj krótki wpis.
 
 [Every Page is Page One](http://everypageispageone.com/) - blog autora książki o
 tym samym tytule. Technologiczno-strategiczno-filozoficznie a przez to czasem
@@ -113,7 +113,7 @@ przesadzili, ale reszta się zgadza.
 [Opensource.com](https://opensource.com/tags/doc-dish) - a właściwie część
 zajmująca się dokumentacją do oprogramowania open source. Bardzo konkretnie i
 ciekawie, szczególnie dla tych którzy szukają pomysłu na to
-[jak zacząć](http://techwriter.pl/open-techwriting-sposob-na-start-i-rozwoj-kariery/).
+[jak zacząć](../open-techwriting-sposob-na-start-i-rozwoj-kariery/index.md).
 
 [Noz Urbina](http://urbinaconsulting.com/blog/) - kolejna porcja przemyśleń na
 temat "content strategy" podana często w ciekawej formie.
@@ -143,7 +143,7 @@ Autorka pracuje nad [OpenStack](https://www.openstack.org/), który sam w sobie
 jest ciekawym projektem.
 
 [Writing.Rocks](http://writing.rocks/blog/) - jak pisać krótko i na temat.
-[Less is more](http://techwriter.pl/less-is-more-strikes-again/). Fajne!
+[Less is more](../less-is-more-strikes-again/index.md). Fajne!
 
 [Writing Associates](http://writingassociates.com/blog/) - ogólne przemyślenia
 na temat zawodu techwritera, kariery, certyfikacji i autopromocji.
