@@ -54,7 +54,7 @@ została zaprojektowana. Oto trzy, które nam wydają się najpoważniejsze.**
    odnośniki, notki, artykuły, grafiki itp. Owszem, można je trzymać w osobnym
    pliku, ale jest to niewygodne i prowadzi dość często do bałaganu. Można też
    użyć jakiejś innej aplikacji (jak np. opisywany przez nas
-   [WikidPad](http://techwriter.pl/wikidpad-opis-narzedzia/ 'WikidPad – opis narzędzia')),
+   [WikidPad](../wikidpad-opis-narzedzia/index.md)),
    ale nie każdy lubi ciągle przełączać się pomiędzy dwoma programami, które
    posiadają różny interfejs i odmienną filozofię działania.
 2. Praca z naprawdę dużym, skomplikowanym tekstem - kiedy mamy do czynienia z
@@ -134,11 +134,11 @@ Klasyczny edytor (np. Word) zakłada, że długi dokument będziemy pisać tak s
 jakbyśmy pisali list albo notatkę. Zaczniemy od początku i klawisz za klawiszem
 będziemy zdążali do końca. Tymczasem dokumentację często tworzy się wyrywkowo,
 uzupełniając poszczególne rozdziały w miarę,
-[jak kolejni SME znajdują czas](http://techwriter.pl/kim-jest-sme/ 'Kim jest Subject Matter Expert (SME) i jak z nim rozmawiać?'),
-żeby nas oświecić. Tutaj w przypadku Worda szwankuje nawigacja. co prawda
-pozwala nam wygodnie przenieść się do rozdziału lub podrozdziału, ale
-odpowiednie paragrafy musimy znaleźć już sami. W Scrivenerze dla jednego
-dokumentu mamy aż trzy różne widoki - klasyczny, tablica korkowa i zarys.
+[jak kolejni SME znajdują czas](../kim-jest-sme/index.md), żeby nas oświecić.
+Tutaj w przypadku Worda szwankuje nawigacja. co prawda pozwala nam wygodnie
+przenieść się do rozdziału lub podrozdziału, ale odpowiednie paragrafy musimy
+znaleźć już sami. W Scrivenerze dla jednego dokumentu mamy aż trzy różne
+widoki - klasyczny, tablica korkowa i zarys.
 
 Widok klasyczny nie odbiega od tego, do czego przyzwyczaiły nas inne edytory.
 Osoba, która lubi “wyrzucić” z siebie ciurkiem pierwszą wersję tekstu, a potem

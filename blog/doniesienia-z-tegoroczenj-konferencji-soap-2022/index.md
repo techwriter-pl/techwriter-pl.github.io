@@ -234,7 +234,7 @@ A jeśli chcecie wiedzieć co jest ważne, warto zwrócić uwagę na trzy aspekt
 > Derek Thompson
 
 Jeśli chcecie wiedzieć więcej o STE zajrzyjcie
-[tutaj](http://techwriter.pl/simplified-technical-english-ste-jak-go-uzywac-w-praktyce/)!
+[tutaj](../simplified-technical-english-ste-jak-go-uzywac-w-praktyce/index.md)!
 
 #### Praca w dobie postępującego rozwoju sztucznej inteligencji i robotów
 

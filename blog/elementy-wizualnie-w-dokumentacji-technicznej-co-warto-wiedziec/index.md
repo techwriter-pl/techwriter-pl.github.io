@@ -30,7 +30,7 @@ uchwycić złożoną koncepcję projektu dużo szybciej i łatwiej, niż przy u�
 samego tekstu. Jeśli już wiecie kto jest Waszym odbiorcą, warto zastanowić się,
 do czego potrzebne Wam są ilustracje oraz jaki ich typ będzie najbardziej
 pożądany. Pomocne do tego mogą być wskazówki opisane
-[tutaj](http://techwriter.pl/ilustracje-i-wideo-w-dokumentacji-technicznej/).
+[tutaj](../ilustracje-i-wideo-w-dokumentacji-technicznej/index.md).
 
 Liczba elementów wizualnych, których potrzebujecie, zależy nie tylko od
 docelowego odbiorcy, ale również od rodzaju treści, którą piszecie i powodu, dla
@@ -89,8 +89,8 @@ używane odpowiednio.
   Jednym ze sposobów, który pomoże uzyskać ten efekt jest powiększenie fragmentu
   ekranu, tak aby tekst był wystarczająco duży. Przydatne mogą okazać się
   narzędzia do tworzenia zrzutów ekranu. O kilku z nich pisaliśmy
-  [tutaj](http://techwriter.pl/snagit-znacznie-wiecej-niz-zrzuty-ekranu/) i
-  [tutaj](http://techwriter.pl/screenpresso-narzedzie-do-tworzenia-zrzutow-ekranow-i-nie-tylko/).
+  [tutaj](../snagit-znacznie-wiecej-niz-zrzuty-ekranu/index.md) i
+  [tutaj](../screenpresso-narzedzie-do-tworzenia-zrzutow-ekranow-i-nie-tylko/index.md).
 - Używaj tylko grafik o wysokiej jakości - źle zaprojektowana grafika wygląda
   nieprofesjonalnie i niedbale - Wasza dokumentacja powinna być zrozumiała i
   przyciągać uwagę czytelników. W zależności od potrzeb możecie używać różnych
@@ -121,9 +121,9 @@ używane odpowiednio.
   [tutaj](https://www.colormatters.com/). Innym aspektem doboru kolorów w
   grafice jest dostępność. Jest to szczególne istotne gdy czytelnicy mogą mieć
   problemy ze wzrokiem, o czym więcej pisaliśmy
-  [tutaj](http://techwriter.pl/dokumentacja-techniczna-dla-daltonistow/).
-  Dlatego należy dokładnie sprawdzić, które kombinacje kolorów i kontrast
-  powinny być użyte dla Waszych czytelników.
+  [tutaj](../dokumentacja-techniczna-dla-daltonistow/index.md). Dlatego należy
+  dokładnie sprawdzić, które kombinacje kolorów i kontrast powinny być użyte dla
+  Waszych czytelników.
 - Zwróć uwagę na kolejność grafik i ich ogólne rozmieszczenie - w niektórych
   krajach odbiorcy będą czytać je od lewej do prawej. W innych może być
   odwrotnie. Jeśli jest to konieczne ponumeruj swoje grafiki. \[caption

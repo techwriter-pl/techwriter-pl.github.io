@@ -13,10 +13,9 @@ stronę na Google+. Niech Wam służy.
 
 <!--truncate-->
 
-[Mikołaj chyba o tym zapomniał](http://techwriter.pl/prezent-od-sw-mikolaja-twarzoksiazka/),
-ale co się odwlecze... Na
-[pierwsze urodziny](http://techwriter.pl/to-juz-rok/) dostaliśmy w prezencie
-kolejną możliwość przesyłania Wam ciekawych informacji:
+[Mikołaj chyba o tym zapomniał](../prezent-od-sw-mikolaja-twarzoksiazka/index.md),
+ale co się odwlecze... Na [pierwsze urodziny](../to-juz-rok/index.md) dostaliśmy
+w prezencie kolejną możliwość przesyłania Wam ciekawych informacji:
 
 [Techwriter.pl na google+](https://plus.google.com/103594524509520250360).
 

@@ -23,8 +23,7 @@ Społeczność powstała z inicjatywy organizatorów
 [konferencji soap!](http://soapconf.com/) i istnieje dzięki lokalnie
 organizowanym spotkaniom, podczas których uczestnicy dzielą się swoją wiedzą i
 doświadczeniem. Jeśli nie mieliście okazji uczestniczyć w poprzednim spotkaniu
-to zachęcamy do przeczytania
-[naszej relacji](http://techwriter.pl/meet-content-po-raz-pierwszy-relacja/).
+to zachęcamy do przeczytania naszej relacji.
 
 ### Data i miejsce
 

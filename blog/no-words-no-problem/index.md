@@ -19,7 +19,7 @@ wszystkim.
 <!--truncate-->
 
 Ciekawy eksperyment przeprowadzili twórcy
-[Text Free Browsing](https://chrome.google.com/webstore/detail/text-free-browsing/ioglfbphilinnhdmfbmfljmhemegfcdg 'Text Free Browsing'), wtyczki
+[Text Free Browsing](https://chrome.google.com/webstore/detail/text-free-browsing/ioglfbphilinnhdmfbmfljmhemegfcdg), wtyczki
 do przeglądarki Chrome, która usuwa cały tekst ze stron internetowych. Gdy
 znikną słowa pozostaje tylko grafika, co pozwala przyjrzeć się strukturze danego
 serwisu. Z drugiej strony daje to też do myślenia, ile treści rzeczywiście
@@ -28,7 +28,7 @@ wyrażamy słowami na różnego rodzaju portalach.
 Gdyby usunąć słowa z interfejsu niejednej aplikacji, od razu zauważylibyśmy na
 ile jest on intuicyjny, a na ile musimy go wspomóc.
 
-[Tutaj](https://www.yahoo.com/tech/hate-reading-but-love-the-internet-text-free-76461431180.html 'Text Free Browsing')
+[Tutaj](https://www.yahoo.com/tech/hate-reading-but-love-the-internet-text-free-76461431180.html)
 możecie przeczytać krótki opis tej aplikacji. Sam opis nie jest wciągający, ale
 zwróćcie uwagę jak wyklucza się on z zamieszczoną na końcu zbyt długą i zbyt
 dokładną instrukcją instalacji i obsługi tej niezwykle prostej wtyczki...

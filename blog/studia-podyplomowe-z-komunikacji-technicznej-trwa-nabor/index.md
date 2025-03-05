@@ -25,8 +25,8 @@ bardzo nas raduje, że pierwsza edycja okazała się sukcesem i przedsięwzięci
 będzie miało kontynuację. Przeczytajcie wpisy naszej koleżanki Magdy, która jest
 już absolwentką tego kierunku i dzieli się swoimi wrażeniami:
 
-- [po pierwszym semestrze](http://techwriter.pl/komunikacja-techniczna-jak-sie-studiuje/),
-- [p](http://techwriter.pl/komunikacja-techniczna-drugi-semestr/)[o drugim semestrze](http://techwriter.pl/komunikacja-techniczna-drugi-semestr/).
+- [po pierwszym semestrze](../komunikacja-techniczna-jak-sie-studiuje/index.md),
+- [p](../komunikacja-techniczna-drugi-semestr/index.md)[o drugim semestrze](../komunikacja-techniczna-drugi-semestr/index.md).
 
 #### Najważniejsze informacje
 
@@ -43,9 +43,8 @@ Po pierwszej edycji prowadzący zdecydowali się na niewielkie, ale znaczące
 zmiany w programie, wszystko po to, aby lepiej przygotować studentów na wyzwania
 czekające ich na rynku pracy. Duży plus za wbudowanie w program zakresu
 certyfikacji [ITCQF](http://itcqf.org/) – koszt szkolenia na
-[wolnym rynku](http://techwriter.pl/szkolenia/) to właściwie połowa kosztu
-całych studiów. Naszym zdaniem stosunek jakości do ceny przedstawia się bardzo
-korzystnie.
+[wolnym rynku](/szkolenia/) to właściwie połowa kosztu całych studiów. Naszym
+zdaniem stosunek jakości do ceny przedstawia się bardzo korzystnie.
 
 Bardzo dobre wrażenie robi też długa lista partnerów kierunku - dzięki
 współpracy z firmami memoQ, MadCap, Atlassian, Syncro Soft, czy TechSmith

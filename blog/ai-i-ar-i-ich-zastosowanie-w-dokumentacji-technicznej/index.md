@@ -57,9 +57,9 @@ korelacji w celu wykonania określonych zadań.
 Jedną z bezpośrednich korzyści, jakie stworzone przez Was dokumenty techniczne
 mogą uzyskać dzięki AI, jest chociażby inteligentne sprawdzanie tekstu. Dzięki
 aplikacjom takim jak
-[Grammarly](http://techwriter.pl/grammarly-narzedzie-do-sprawdzania-pisowni/)
-sprawdzanie pisowni przeniosło się na inny poziom 😊. Już teraz widać, że
-nowoczesne sprawdzanie pisowni potrafi więcej niż tylko naprawiać literówki.
+[Grammarly](../grammarly-narzedzie-do-sprawdzania-pisowni/index.md) sprawdzanie
+pisowni przeniosło się na inny poziom 😊. Już teraz widać, że nowoczesne
+sprawdzanie pisowni potrafi więcej niż tylko naprawiać literówki.
 
 Za pomocą nowoczesnych technologii, narzędzia stają się bardziej zorientowane na
 kontekst, a co za tym idzie, mogą zapewnić lepszą pomoc w pisaniu i zaoszczędzić
@@ -71,8 +71,8 @@ Innym dobrym dodatkiem do zestawu narzędzi dla technical writerów jest usługa
 oceny czytelności. Uczenie maszynowe jest wykorzystywane do analizy tekstu
 pisanego i dostarczania informacji zwrotnej na temat jego zrozumiałości. Więcej
 informacji o narzędziach do sprawdzania czytelności tekstu w języku polskim
-znajdziecie [(tutaj)](http://techwriter.pl/prosty-jezyk-przyklady-i-narzedzia/),
-a  języku angielskim
+znajdziecie [(tutaj)](../prosty-jezyk-przyklady-i-narzedzia/index.md), a  języku
+angielskim
 [(tutaj)](https://readabilityformulas.com/free-readability-calculators.php).
 
 Uczenie maszynowe może wnieść jeszcze jedną cudowną rzecz! Inteligentniejsze i

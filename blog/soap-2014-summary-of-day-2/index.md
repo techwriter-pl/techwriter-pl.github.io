@@ -14,10 +14,10 @@ coverImage: 'soap.jpg'
 
 Today, we've got another translation provided by the soapy team. It's the day 2
 summary. The Polish version is available
-[here](http://techwriter.pl/soap-2014-relacja-z-drugiego-dnia/). Enjoy! Day 2 of
-the soap! conference brought even more presentations that were divided into two
-tracks. Everyone could find something for themselves. Unfortunately, we weren’t
-able to attend all the presentations, so we describe in short only some of them.
+[here](../soap-2014-relacja-z-drugiego-dnia/index.md). Enjoy! Day 2 of the soap!
+conference brought even more presentations that were divided into two tracks.
+Everyone could find something for themselves. Unfortunately, we weren’t able to
+attend all the presentations, so we describe in short only some of them.
 ![noz2ndday](images/noz2ndday.jpg)
 
 <!--truncate-->

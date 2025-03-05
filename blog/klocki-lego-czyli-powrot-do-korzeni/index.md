@@ -15,9 +15,9 @@ układanie jednej całości z wielu małych elementów... czyli o klockach Lego.
 <!--truncate-->
 
 Kilka miesięcy temu Lego wypuściło na rynek nowy zestaw klocków,
-[Architecture Studio](http://shop.lego.com/en-US/Studio-21050#shopxlink 'Lego Architecture Studio').
-Co ciekawe, w zestawie nie ma instrukcji opisujących, co i jak można z tych
-klocków zbudować. Zamiast tego, znajduje się w nim książka zawierająca opisy i
+[Architecture Studio](http://shop.lego.com/en-US/Studio-21050#shopxlink). Co
+ciekawe, w zestawie nie ma instrukcji opisujących, co i jak można z tych klocków
+zbudować. Zamiast tego, znajduje się w nim książka zawierająca opisy i
 prezentacje koncepcji architektonicznych oraz prawdziwych wnętrz i budynków
 wykonanych przez znane pracownie architektoniczne. Jest więc koncepcja, są
 narzędzia, a co się zrodzi z ich połączenia zależy już tylko od nas.
@@ -35,11 +35,11 @@ Producenci tej ponadczasowej zabawki wracają więc do korzeni, chcą aktywować
 wyobraźnię dzieci wyraźnie stwierdzając, że instrukcje ją ograniczają.
 
 Co ciekawe, twórcy Lego manifestują ten pomysł również w inny sposób. W filmie
-[The Lego Movie](http://www.thelegomovie.com/ 'The Lego Movie') mieszkańcy
-fikcyjnego miasta żyją według instrukcji, powtarzając codziennie te same nudne,
-z góry narzucone im czynności. Historia przestawiona w filmie dąży do prostego
-morału, że należy wyrzucić wszelkie podręczniki mówiące nam jak się zachowywać i
-konstruować naszą rzeczywistość używając własnej wyobraźni i pomysłów.
+[The Lego Movie](http://www.thelegomovie.com/) mieszkańcy fikcyjnego miasta żyją
+według instrukcji, powtarzając codziennie te same nudne, z góry narzucone im
+czynności. Historia przestawiona w filmie dąży do prostego morału, że należy
+wyrzucić wszelkie podręczniki mówiące nam jak się zachowywać i konstruować naszą
+rzeczywistość używając własnej wyobraźni i pomysłów.
 
 Czemu piszemy o tym na naszej stronie? Nie tylko dlatego, że lubimy układać
 klocki Lego (chociaż to jest główny powód...), ale też dlatego, że jest to
@@ -58,10 +58,9 @@ Zdecydowanie jest to coś, nad czym można się czasem zastanowić 😊
 ![lego2](images/lego2-1024x768.jpg)
 
 Ciekawą recenzję The Lego Movie możecie przeczytać w
-[New York Timesie](http://www.nytimes.com/2014/02/07/movies/the-lego-movie-toys-with-thinking-outside-the-manual.html?smid=tw-share&_r=1 'The Lego Movie - New York Times').
+[New York Timesie](http://www.nytimes.com/2014/02/07/movies/the-lego-movie-toys-with-thinking-outside-the-manual.html?smid=tw-share&_r=1).
 Natomiast więcej o filozofii "Lego engineering" (mniej i bardziej zaawansowanej)
 znajdziecie w interesujących artykułach na blogu Matthew Helmke:
-[Lego Books for All](http://matthewhelmke.net/2012/12/lego-books-for-all/ 'Lego Books for All')
-oraz
-[The Lego Adventure Book, Volume 2](http://matthewhelmke.net/2013/12/the-lego-adventure-book-volume-2/ 'The Lego Adventure Book, Volume 2').
+[Lego Books for All](http://matthewhelmke.net/2012/12/lego-books-for-all/) oraz
+[The Lego Adventure Book, Volume 2](http://matthewhelmke.net/2013/12/the-lego-adventure-book-volume-2/).
 Czy ktoś z Was miał kiedyś w ręku którąś z tych książek?

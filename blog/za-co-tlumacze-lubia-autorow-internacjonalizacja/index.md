@@ -20,14 +20,13 @@ specjaliści tworzący dokumentację mogą ułatwić życie tłumaczom.
 
 <!--truncate-->
 
-[Pierwszy wpis](http://techwriter.pl/za-co-tlumacze-lubia-autorow-spojnosc/) z
-cyklu "Za co tłumacze lubią autorów" podkreślał jak ważna jest spójność w
-tworzeniu dokumentacji. W
-[drugiej części](http://techwriter.pl/za-co-tlumacze-lubia-autorow-skladaki/)
-autorka skupiła się na zagrożeniach związanych ze stosowaniem zmiennych i
-fragmentów tekstu do wielokrotnego użycia (snippetów). Trzeci i zarazem ostatni
-wpis w tym cyklu rzuca trochę światła na zagadnienia związane z
-internacjonalizacją.
+[Pierwszy wpis](../za-co-tlumacze-lubia-autorow-spojnosc/index.md) z cyklu "Za
+co tłumacze lubią autorów" podkreślał jak ważna jest spójność w tworzeniu
+dokumentacji. W
+[drugiej części](../za-co-tlumacze-lubia-autorow-skladaki/index.md) autorka
+skupiła się na zagrożeniach związanych ze stosowaniem zmiennych i fragmentów
+tekstu do wielokrotnego użycia (snippetów). Trzeci i zarazem ostatni wpis w tym
+cyklu rzuca trochę światła na zagadnienia związane z internacjonalizacją.
 
 ## Kilka słów o autorce
 

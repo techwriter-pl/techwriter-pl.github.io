@@ -12,8 +12,8 @@ coverImage: 'hmtoolbox.png'
 
 Help and Manual to aplikacja do tworzenia dokumentacji, która oferuje całkiem
 sporo możliwości. Jakiś czas temu opisywaliśmy to
-[narzędzie](http://techwriter.pl/help-and-manual-opis-narzedzia/). Tym, którzy
-szukają dodatkowych funkcji proponujemy zapoznanie się z aplikacją Help & Manual
+[narzędzie](../help-and-manual-opis-narzedzia/index.md). Tym, którzy szukają
+dodatkowych funkcji proponujemy zapoznanie się z aplikacją Help & Manual
 Toolbox.
 
 <!--truncate-->
@@ -44,7 +44,7 @@ plików. Autor narzędzia poleca popularny i ceniony, darmowy edytor
 [Notepad++](http://notepad-plus-plus.org/). Oprócz tego, potrzebny jest edytor
 plików graficznych, który będzie używany do obróbki plików dołączonych do
 projektów (baggage files). Domyślnie ustawiony jest program Impict, który
-opisywaliśmy [tutaj](http://techwriter.pl/zrzucanie-ekranu-opis-narzedzi/).
+opisywaliśmy [tutaj](../zrzucanie-ekranu-opis-narzedzi/index.md).
 
 ### Ograniczenia
 

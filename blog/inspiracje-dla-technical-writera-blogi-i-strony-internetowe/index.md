@@ -15,9 +15,9 @@ coverImage: 'Konferencje-2019-3.png'
 ---
 
 Sporo czasu upłynęło od naszego
-[ostatniego postu](http://techwriter.pl/blogi-anglojezyczne/) dotyczącego
-sprawdzonych miejsc w Internecie dla Technical Writerów. Postanowiłam odświeżyć
-dla Was ten temat, by sprawdzić co nowego w sieci piszczy 😉
+[ostatniego postu](../blogi-anglojezyczne/index.md) dotyczącego sprawdzonych
+miejsc w Internecie dla Technical Writerów. Postanowiłam odświeżyć dla Was ten
+temat, by sprawdzić co nowego w sieci piszczy 😉
 
 <!--truncate-->
 

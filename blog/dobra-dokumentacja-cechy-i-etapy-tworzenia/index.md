@@ -39,7 +39,7 @@ komentowania.
 
 A jeśli macie ochotę poszerzyć temat cech dobrej dokumentacji zapraszamy do
 zapoznania się z artykułem
-[Siedem zasad projektowania pomocy dla użytkownika w 2017 roku](http://techwriter.pl/siedem-zasad-projektowania-pomocy-dla-uzytkownika-w-2017-roku/).
+[Siedem zasad projektowania pomocy dla użytkownika w 2017 roku](../siedem-zasad-projektowania-pomocy-dla-uzytkownika-w-2017-roku/index.md).
 
 ### Etapy tworzenia dokumentacji
 
@@ -80,9 +80,8 @@ początku. Poniżej lista kroków, jakie warto zrobić, by stworzyć porządny t
    struktury w łatwy sposób pokazuje postępy w pracy - miejsca, które są już
    gotowe oraz te, które wymagają uzupełnienia lub zupełnie stoją w miejscu.
    Przykładem narzędzia, które umożliwia taką nieliniową edycję tekstu jest
-   opisywany przez nas Scrivener
-   ([link 1](http://techwriter.pl/scrivener-opis-narzedzia/) i
-   [link 2](http://techwriter.pl/gdy-cos-mi-chodzi-po-glowie/) do poprzednich
+   opisywany przez nas Scrivener ([link 1](../scrivener-opis-narzedzia/index.md)
+   i [link 2](../gdy-cos-mi-chodzi-po-glowie/index.md) do poprzednich
    artykułów).
 4. Weryfikacja stworzonego tekstu. Poprzez weryfikację rozumiemy sprawdzenie
    pisanego tekstu pod kątem błędów (zarówno stylistycznych jak i

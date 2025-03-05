@@ -31,9 +31,9 @@ szkoleniowe,  artykuły na konkretne tematy, odpowiedzi na często zadawane
 pytanie (FAQ), fora użytkowników, release notes dla kolejnych wersji produktu, a
 nawet udostępnione do ściągnięcia hotfixy, poprawki, itd., itp...
 
-Jak widać, niemal wszystko, czym zajmują się techwriterzy (i co
-[opisujemy na naszych stronach](http://techwriter.pl/category/warsztat/przyklady/)),
-może wylądować w bazie wiedzy naszego produktu czy naszej firmy.
+Jak widać, niemal wszystko, czym zajmują się techwriterzy (i co opisujemy na
+naszych stronach), może wylądować w bazie wiedzy naszego produktu czy naszej
+firmy.
 
 - Przykład pierwszy -
   [baza wiedzy dla użytkowników oprogramowania Microsoft](http://support.microsoft.com)**.**

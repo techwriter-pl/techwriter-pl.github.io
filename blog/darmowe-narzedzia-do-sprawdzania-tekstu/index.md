@@ -20,8 +20,7 @@ naszego portalu.
 
 Jack natrafił na naszą stronę szukając informacji na temat pisania. Los (albo
 może bardziej Google) zdecydował, że znalazł on jeden z naszych
-[wpisów](http://techwriter.pl/less-is-more-strikes-again/), w którym
-wspominaliśmy o
+[wpisów](../less-is-more-strikes-again/index.md), w którym wspominaliśmy o
 [infografice](http://writing.rocks/how-to-write-a-sentence-infographic/) "How to
 write a sentence". Infografika bardzo przypadła mu do gustu, więc postanowił do
 nas napisać. A że ogólnie lubi pisać, bardzo szybko dał się namówić na gościnny
@@ -221,7 +220,7 @@ productivity.
 Dziękujemy Jackowi za ten artykuł. Nam najbardziej przypadły do gustu oczywiście
 narzędzia, które wspierają język polski, czyli Language Tool i Sentence Checker.
 W zestawieniu na pierwszym miejscu znalazło się narzędzie Grammarly, o którym
-[pisaliśmy jakiś czas temu](http://techwriter.pl/grammarly-narzedzie-do-sprawdzania-pisowni/).
+[pisaliśmy jakiś czas temu](../grammarly-narzedzie-do-sprawdzania-pisowni/index.md).
 Warto też wymienić Hemingway Editora, o którym nie tak dawno w swoim
 [poście](http://idratherbewriting.com/2017/07/27/why-simple-language-isnt-so-simple/)
 wspominał też Tom Johnson. To narzędzie nie tylko sprawdza pisownię, ale pomaga

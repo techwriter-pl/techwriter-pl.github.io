@@ -13,7 +13,7 @@ coverImage: 'soap.jpg'
 
 Po naszym ogólnym podsumowaniu przyszła pora na trochę konkretów. Dzisiaj
 przedstawiamy skrótowo prezentacje z pierwszego dnia konferencji
-[soap! 2014](http://soapconf.com/ 'SoapConf 2014').
+[soap! 2014](http://soapconf.com/).
 
 <!--truncate-->
 

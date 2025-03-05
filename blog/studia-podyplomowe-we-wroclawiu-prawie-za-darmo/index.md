@@ -21,13 +21,12 @@ A to dzięki umowie zawartej pomiędzy [uczelnią](http://handlowa.eu/pl/) i
 której możecie uzyskać aż do 90% dofinansowania (limit to 6000 zł). Zachęcamy
 szczególnie osoby które próbują znaleźć sobie nowe miejsce na rynku pracy,
 szczególnie w IT. Techwriter.pl jest partnerem studiów,
-[pisaliśmy zresztą już o nich](http://techwriter.pl/kolejna-uczelnia-ze-studiami-podyplomowymi-z-komunikacji-technicznej/),
+[pisaliśmy zresztą już o nich](../kolejna-uczelnia-ze-studiami-podyplomowymi-z-komunikacji-technicznej/index.md),
 pamiętacie?
 
 Więcej szczegółow dotyczących dofinansowania znajdziecie na stronie
 [dawg.pl/aktywizacja](http://dawg.pl/pl/page/51/AKTYWIZACJA-DOLNOSLASKIEGO-RYNKU-PRACY).
 
-Tym z Was, którym do Wrocławia za daleko, przypominamy o
-[studiach podyplomowych tego samego typu dostępnych w Warszawie](http://techwriter.pl/pierwsze-w-polsce-studia-podyplomowe-z-komunikacji-technicznej/).
-W obu miastach trwa aktualnie rekrutacja, studia ruszą jeżeli zbierze się
-odpowiednio duża grupa słuchaczy.
+Tym z Was, którym do Wrocławia za daleko, przypominamy o studiach podyplomowych
+tego samego typu dostępnych w Warszawie. W obu miastach trwa aktualnie
+rekrutacja, studia ruszą jeżeli zbierze się odpowiednio duża grupa słuchaczy.

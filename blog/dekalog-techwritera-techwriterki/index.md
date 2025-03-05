@@ -20,7 +20,7 @@ dzisiejszego artykułu.
 <!--truncate-->
 
 Jeśli czytaliście
-[mój poprzedni tekst](http://techwriter.pl/komunikacja-techniczna-jak-sie-studiuje/),
+[mój poprzedni tekst](../komunikacja-techniczna-jak-sie-studiuje/index.md),
 wiecie, że od jakiegoś czasu jestem adeptką sztuki techwriterskiej. Jej arkana
 przyswajam na kierunku
 [komunikacja techniczna](https://www.vistula.edu.pl/kierunki-studiow/kontynuacja-edukacji/studia-podyplomowe/informatyka/komunikacja-techniczna)
@@ -39,9 +39,9 @@ korzeni 😊
 Dla wzbogacenia całości znajdziecie tu także linki do starszych artykułów na ten
 temat - na pewno z przyjemnością je sobie przypomnicie. No i last but not least:
 na tej stronie ukazał się już kiedyś
-[Dekalog Techwritera](http://techwriter.pl/dekalog-tech-writera/) - dłuższy i
-bardziej wyczerpujący. Zajrzyjcie do niego, jeśli po poniższej lekturze
-poczujecie niedosyt i będziecie chcieli dodatkowo pogłębić temat.
+[Dekalog Techwritera](../dekalog-tech-writera/index.md) - dłuższy i bardziej
+wyczerpujący. Zajrzyjcie do niego, jeśli po poniższej lekturze poczujecie
+niedosyt i będziecie chcieli dodatkowo pogłębić temat.
 
 **A zatem - jedziemy!**
 
@@ -61,19 +61,17 @@ poczujecie niedosyt i będziecie chcieli dodatkowo pogłębić temat.
 **Więcej...**
 
 - O książce na temat planowania i pisania dokumentacji -
-  [**część 1**](http://techwriter.pl/naucz-sie-sama-czesc-3/) i
-  [**część 2**](http://techwriter.pl/naucz-sie-sama-czesc-4/)
+  [**część 1**](../naucz-sie-sama-czesc-3/index.md) i
+  [**część 2**](../naucz-sie-sama-czesc-4/index.md)
 - Tu jest porównanie
-  **[pisania dokumentacji do prania.](http://techwriter.pl/pisanie-dokumentow-jest-jak-sortowanie-wypranych-ubran/)**
-- Kilka **[tekstów](http://techwriter.pl/prosty-jezyk-przyklady-i-narzedzia/)**
-  na temat [**prostego**](http://techwriter.pl/plain-language/) pisania oraz
-  Simplified Technical English
-  ([**pierwszy**](http://techwriter.pl/simplified-technical-english-wprowadzenie/),
-  **[drugi](http://techwriter.pl/simplified-technical-english-ste-jak-go-uzywac-w-praktyce/)**).
-- Tekst o tym, kim jest
-  **[Subject Matter Expert](http://techwriter.pl/kim-jest-sme/)**.
-- Tekst o
-  [**pomocy**](http://techwriter.pl/tech-writer-w-opalach-gdzie-szukac-pomocy/)
+  **[pisania dokumentacji do prania.](../pisanie-dokumentow-jest-jak-sortowanie-wypranych-ubran/index.md)**
+- Kilka **[tekstów](../prosty-jezyk-przyklady-i-narzedzia/index.md)** na temat
+  [**prostego**](../plain-language/index.md) pisania oraz Simplified Technical
+  English
+  ([**pierwszy**](../simplified-technical-english-wprowadzenie/index.md),
+  **[drugi](../simplified-technical-english-ste-jak-go-uzywac-w-praktyce/index.md)**).
+- Tekst o tym, kim jest **[Subject Matter Expert](../kim-jest-sme/index.md)**.
+- Tekst o [**pomocy**](../tech-writer-w-opalach-gdzie-szukac-pomocy/index.md)
   dla Technical Writera.
 
 #### W trakcie tworzenia...
@@ -95,10 +93,9 @@ poczujecie niedosyt i będziecie chcieli dodatkowo pogłębić temat.
 
 **Więcej...**
 
-- Style **[Guide](http://techwriter.pl/podrecznik-stylu-stylrecznik/)** w
-  organizacji
+- Style **[Guide](../podrecznik-stylu-stylrecznik/index.md)** w organizacji
 - Dobra
-  [**dokumentacja - cechy i etapy**](http://techwriter.pl/dobra-dokumentacja-cechy-i-etapy-tworzenia/)
+  [**dokumentacja - cechy i etapy**](../dobra-dokumentacja-cechy-i-etapy-tworzenia/index.md)
   tworzenia
 
 #### Przed publikacją...
@@ -113,10 +110,10 @@ poczujecie niedosyt i będziecie chcieli dodatkowo pogłębić temat.
 
 **Więcej...**
 
-- Tekst na temat [**korekty**](http://techwriter.pl/korekta-w-tempie-pendolino/)
-  i kilka słów o [**literówkach**](http://techwriter.pl/literowki/)
+- Tekst na temat [**korekty**](../korekta-w-tempie-pendolino/index.md) i kilka
+  słów o [**literówkach**](../literowki/index.md)
 - Tekst dla
-  [**recenzenta**](http://techwriter.pl/jak-sobie-radzic-z-recenzja-merytoryczna-dokumentacji/)
+  [**recenzenta**](../jak-sobie-radzic-z-recenzja-merytoryczna-dokumentacji/index.md)
 
 **Koniec! Tworzenie dokumentacji to tylko tyle i aż tyle. A może chcecie coś
 dodać do powyższych punktów? Co waszym zdaniem jest najważniejsze, jakiej rady

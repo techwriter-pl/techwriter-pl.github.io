@@ -21,23 +21,20 @@ naszego punktu widzenia warto wiedzieć przed pierwszą rekrutacją.
 Zanim zaczniesz na poważnie rozglądać się za pracą Technical Writera i aplikować
 na konkretne stanowisko, najpierw zajrzyj w głąb siebie i dobrze się zastanów
 czy pisanie dokumentacji technicznej jest czymś dla ciebie. Zdecydowanie
-[poczytaj jak to robią inni](http://techwriter.pl/tag/wywiad/), bo dzięki temu
-dowiesz się na czym ta praca polega i jakie cechy trzeba posiadać. Zastanów się,
-które z wymienionych umiejętności już teraz  posiadasz, a nad zdobyciem których
-należałoby jeszcze popracować.
+poczytaj jak to robią inni, bo dzięki temu dowiesz się na czym ta praca polega i
+jakie cechy trzeba posiadać. Zastanów się, które z wymienionych umiejętności już
+teraz  posiadasz, a nad zdobyciem których należałoby jeszcze popracować.
 
 Jeżeli nie ukończyłeś studiów technicznych, nie znasz się na programowaniu czy
 różnych technologiach, lecz dobrze władasz językiem angielskim i posiadasz
 smykałkę do nowinek technologicznych, to już masz silną podstawę do tego, żeby
 sprawdzić się w zawodzie Technical Writera. Oczywiście, im większe zaplecze
 dydaktyczne, tym lepiej. Rozejrzyj się za różnymi kursami on-line lub dowiedz
-się, jakie
-[szkolenia z komunikacji technicznej](http://techwriter.pl/szkolenia/) są
-dostępne w Polsce; dużo pożywnej wiedzy ma do zaoferowania też literatura,
-sprawdź
-[nasz dział czytelnia](http://techwriter.pl/category/warsztat/czytelnia/). W
-naszym przekonaniu jednak, wiedza teoretyczna z zakresu komunikacji technicznej
-jest pomocna, lecz na samym początku nie najistotniejsza.
+się, jakie [szkolenia z komunikacji technicznej](/szkolenia/) są dostępne w
+Polsce; dużo pożywnej wiedzy ma do zaoferowania też literatura, sprawdź nasz
+dział czytelnia. W naszym przekonaniu jednak, wiedza teoretyczna z zakresu
+komunikacji technicznej jest pomocna, lecz na samym początku nie
+najistotniejsza.
 
 ## **Czego wymaga się od Technical Writera?**
 
@@ -106,12 +103,11 @@ poprawność użycia spacji, tabulatorów i przejść do kolejnych linii wersów
 sekcji. Wyrównaj wszelkie wylistowane elementy, posegreguj dobrze sekcje –
 słowem pochwal się, że potrafisz porządkować i przystępnie zaprezentować
 informacje. Potraktuj swoje CV jak
-[pierwszy dokument techniczny](http://techwriter.pl/cv-najwazniejszy-dokument-tech-writera/),
+[pierwszy dokument techniczny](../cv-najwazniejszy-dokument-tech-writera/index.md),
 który przygotowujesz. W większości przypadków CV wymagane jest w języku
 angielskim, ale wyposaż się też w wersję polską.
 
-Gdzie szukać pracy? Polecamy naszą sekcję
-[oferty pracy](http://techwriter.pl/category/news/oferty-pracy/), ale też
+Gdzie szukać pracy? Polecamy naszą sekcję [oferty pracy](/oferty-pracy), ale też
 całkiem sporo ciekawych ogłoszeń znajdziesz na LinkedIn lub na portalach pracy.
 Możesz też przeklikać się przez oferty dostępne na stronie konkretnej firmy.
 Słowa klucze to najczęściej: _t\_\_echnical writer_, _technical documentation
@@ -177,7 +173,7 @@ przeprowadzane zarówno po polsku, jak i po angielsku.
 ## **Finanse, a jak z finansami?**
 
 W kwestii finansów, na pewno pomocne będą
-[wyniki badania płac w komunikacji technicznej w 2020 r](http://techwriter.pl/wyniki-badania-plac-w-komunikacji-technicznej-2020/).
+[wyniki badania płac w komunikacji technicznej w 2020 r](../wyniki-badania-plac-w-komunikacji-technicznej-2020/index.md).
 Tu także nie ma reguły. Wszystko zależy od twoich umiejętności, wielkości firmy,
 branży w której działa i stopnia skomplikowania opisywanego produktu. Zdaj się
 na swoją intuicję, weź pod uwagę dotychczasowe zarobki lub popytaj znajomych

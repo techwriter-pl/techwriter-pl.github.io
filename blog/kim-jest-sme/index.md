@@ -14,13 +14,11 @@ pisać teksty, których treść jest zazwyczaj ściśle związana z
 doświadczeniem innych osób. Dokumentacji nie wymyślamy sami, tylko opieramy
 nasze teksty na wiedzy współpracowników, będących specjalistami w danej
 dziedzinie (z ang.
-[_Subject Matter Expert_](https://en.wikipedia.org/wiki/Subject-matter_expert 'SME'),
-SME). Wystarczy odwiedzić nasz
-[dział z wywiadami](http://techwriter.pl/tag/wywiad/), żeby przekonać się, że
-każdy rozmówca podkreśla ich rolę. Musimy od ekspertów umiejętnie, a zarazem
-niezbyt natarczywie, wydobyć wszystkie potrzebne informacje. Jak to robić
-skutecznie, szybko i w możliwie najprzyjemniejszy (dla nas i dla rozmówcy)
-sposób?
+[_Subject Matter Expert_](https://en.wikipedia.org/wiki/Subject-matter_expert),
+SME). Wystarczy odwiedzić nasz dział z wywiadami, żeby przekonać się, że każdy
+rozmówca podkreśla ich rolę. Musimy od ekspertów umiejętnie, a zarazem niezbyt
+natarczywie, wydobyć wszystkie potrzebne informacje. Jak to robić skutecznie,
+szybko i w możliwie najprzyjemniejszy (dla nas i dla rozmówcy) sposób?
 
 <!--truncate-->
 
@@ -65,7 +63,7 @@ we współpracy z SME, zachęcamy do skorzystania z poniższych kroków:
    marnujmy, każąc sobie tłumaczyć podstawowe pojęcia.
 4. \***\*Dwoje uszu, jedne usta\*\*** Słuchajmy uważnie i uczmy się od naszego
    eksperta.
-   [Aktywne słuchanie](http://edukacja-medialna.wyklady.org/wyklad/458_aktywne-sluchanie.html 'Aktywne słuchanie') pokaże
+   [Aktywne słuchanie](http://edukacja-medialna.wyklady.org/wyklad/458_aktywne-sluchanie.html) pokaże
    SME jak **ważna jest dla nas informacja przez niego przekazywana** oraz czas
    nam poświęcony. Jeżeli podczas rozmowy zadajemy sensowne pytania, świadczy to
    o tym, że słuchamy tego, co nasz rozmówca nam przekazuje (trudno zadać
@@ -99,7 +97,7 @@ wywiadzie z SME stał się nie tylko produktywny, ale też przyjemny dla obu str
 - Dyktafon (lub inne urządzenie zapisujące dźwięk) - jeśli posiadacie smartfon
   takie urządzenie jest ciągle z Wami. Aplikacji tego typu jest mnóstwo -  osoby
   zainteresowane odsyłamy do
-  rankingów [dla Androida](http://www.androidauthority.com/best-voice-recorder-apps-for-android-615332/ 'Android') i [dla iOS](http://www.iphoneness.com/iphone-apps/best-voice-recorder-iphone-apps/ 'iOS') oraz
+  rankingów [dla Androida](http://www.androidauthority.com/best-voice-recorder-apps-for-android-615332/) oraz
   do
   [zestawienia](https://www.musicinstrumentscenter.com/best-voice-recorder-app/)
   prezentującego 25 najlepszych aplikacji do nagrywania głosu. **Ważne** **-

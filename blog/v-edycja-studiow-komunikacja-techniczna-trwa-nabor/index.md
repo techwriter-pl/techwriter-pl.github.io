@@ -21,9 +21,9 @@ W ostatni weekend października 2024 rusza V edycja studiów podyplomowych na ki
 Jak w poprzednich latach, i w tym roku objęliśmy patronatem kierunek studiów [Komunikacja Techniczna na Akademii Finansów i Biznesu Vistula](https://www.vistula.edu.pl/kierunki-studiow/studia-podyplomowe/informatyka/komunikacja-techniczna). Cieszy nas bardzo fakt, że dzięki poprzednim, bardzo pozytywnie odebranym przez absolwentów edycjom, studia te nadal wzbudzają spore zainteresowanie.
 
 Zainteresowanych zachęcamy do przeczytania artykułów naszych redakcyjnych koleżanek, Magdy i Justyny, absolwentek tego kierunku, które dzielą się z Wami swoimi wrażeniami:
-- [po pierwszym semestrze](http://techwriter.pl/komunikacja-techniczna-jak-sie-studiuje/)
-- [po drugim semestrze](http://techwriter.pl/komunikacja-techniczna-drugi-semestr/)
-- [o 3. edycji studiów](https://techwriter.pl/kilka-slow-o-3-edycji-studiow-z-komunikacji-technicznej/)
+- [po pierwszym semestrze](../komunikacja-techniczna-jak-sie-studiuje/index.md)
+- [po drugim semestrze](../komunikacja-techniczna-drugi-semestr/index.md)
+- [o 3. edycji studiów](../kilka-slow-o-3-edycji-studiow-z-komunikacji-technicznej/index.md)
 
 Wiemy również, że część studentów znalazła pracę w trakcie lub zaraz po obronach prac, jak choćby [Paweł](https://www.linkedin.com/posts/pawel-woznikowski_this-is-probably-my-most-personal-professional-activity-7114579776916353024-kC8e/).
 

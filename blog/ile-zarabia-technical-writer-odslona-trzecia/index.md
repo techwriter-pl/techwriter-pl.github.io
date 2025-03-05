@@ -35,8 +35,7 @@ w zamian za co otrzymacie pełny raport płacowy dla swojego stanowiska.
 
 ### Raport płacowy
 
-W
-[poprzednim artykule](http://techwriter.pl/ile-zarabia-technical-writer-odslona-druga/)
+W [poprzednim artykule](../ile-zarabia-technical-writer-odslona-druga/index.md)
 opisującym zarobki Technical Writerów, powoływaliśmy się na
 [raport płacowy za rok 2013](http://cpljobs.pl/Documents/CPL%20Jobs%20-%20Raport%20P%C5%82acowy%202014%20-%20Podsumowanie%202013.pdf),
 przygotowany przez CPL Jobs. Sprawdziliśmy czy istnieje nowsza wersja tego

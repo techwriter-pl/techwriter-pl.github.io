@@ -90,9 +90,9 @@ również od klientów.
   to w zupełności wystarcza mi do tego, co potrzebuję osiągnąć, a jest przy tym
   szybki i wygodny. Jeśli chcecie dowiedzieć się o nim więcej, zapraszam do
   przeczytania:
-  [Snagit: Znacznie więcej niż zrzuty ekranu](http://techwriter.pl/snagit-znacznie-wiecej-niz-zrzuty-ekranu/)
+  [Snagit: Znacznie więcej niż zrzuty ekranu](../snagit-znacznie-wiecej-niz-zrzuty-ekranu/index.md)
   i
-  [Snagit 2021 – pierwsze wrażenia](http://techwriter.pl/snagit-2021-pierwsze-wrazenia/).
+  [Snagit 2021 – pierwsze wrażenia](../snagit-2021-pierwsze-wrazenia/index.md).
 - Korzystam z szablonów w MS Word. Przestrzenią, w której współpracujemy jest
   OneDrive z Office 365. Gotowe dokumenty publikuję do PDF i udostępniam na
   Sharepoint. Jestem zadowolony z platform z których korzystamy, szczególnie, że

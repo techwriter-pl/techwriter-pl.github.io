@@ -54,7 +54,7 @@ Mnóstwo przykładów i porównań zawartych w prezentacji spotkało się z
 zainteresowaniem publiczności oraz wieloma pytaniami.
 
 A jeżeli chcesz dowiedzieć się więcej o prezentacji Maćka, zapraszamy na
-[relację z wrocławskiego spotkania MeetContent](https://techwriter.pl/meet-content-wro-maj-2024-relacja#visual-design-w-komunikacji-technicznej)!
+[relację z wrocławskiego spotkania MeetContent](../meet-content-wro-maj-2024-relacja/index.md#visual-design-w-komunikacji-technicznej)!
 
 ## Rola estymacji w zespole tech writerskim
 
@@ -66,10 +66,6 @@ zadaniami.
 
 Dodatkowym benefitem tego projektu było zdobycie argumentów przemawiających za
 rozszerzeniem zespołu.
-
-Jako że nie była to pierwsza prezentacja Moniki na ten temat, możecie zapoznać
-się ze szczegółami
-[w tej relacji](https://techwriter.pl/meet-content-wro-kwiecien-2024-relacja#estymacja).
 
 ## Stowarzyszenie Autorów i Ilustratorów Technicznych
 
@@ -86,7 +82,7 @@ Prezentację zakończyliśmy dyskusją na temat założeń stowarzyszenia oraz k
 które należy podjąć, żeby wdrożyć je w życie.
 
 Więcej o **SAiIT Polska** możecie przeczytać w
-[wywiadzie udzielonym przez Łukasza](https://techwriter.pl/saiit-wywiad) oraz
+[wywiadzie udzielonym przez Łukasza](../saiit-wywiad/index.md) oraz
 [na portalu LinkedIn](https://www.linkedin.com/in/saiit-polska-03a008308/).
 
 ## ... a teraz coś z zupełnie innej beczki

@@ -25,8 +25,8 @@ Stacey poznałem niedawno. Potrzebowałem kogoś kto wykona dla mnie pewne zadan
 Chodziło o stronę, która wyświetlałaby paczki dokumentacji - ich nazwy, linki do
 przeglądania i ściągania oraz informacje o tym co się w nich znajduje.
 Dostarczaniem treści dla strony oraz paczek miał się zająć mój dobry kolega
-[Jenkins](http://techwriter.pl/jenkins-opis-narzedzia/ 'Jenkins'), z którym
-współpracuję od jakiegoś czasu.
+[Jenkins](../jenkins-opis-narzedzia/index.md), z którym współpracuję od jakiegoś
+czasu.
 
 Najpierw trafiłem na Stacey 2.3.0. Niełatwo było ją znaleźć. Ktoś kiedyś o niej
 wspomniał przy okazji innych lekkich CMSów. Wzbudziła moją ciekawość. Udało mi
@@ -58,26 +58,25 @@ od jakiejś cyfry. Na tej podstawie Stacey decyduje w jakiej kolejności pokazuj
 swoje strony. Po cyfrze powinna znaleźć się kropka, a następnie już właściwa
 nazwa strony. Każdy katalog strony musi zawierać plik o rozszerzeniu YML. W tym
 pliku znajduje się treść strony, zapisana w języku
-[YAML](http://www.yaml.org 'YAML'). Nazwa pliku musi zawierać nazwę szablonu, za
-pomocą którego zostanie wygenerowana strona. Co poradzić, takie ma fanaberie.
-Swoje wdzięki i uroki w postaci szablonów, Stacey ukrywa w
-katalogu **templates**. Szablony korzystają z silnika
-[Twig](http://twig.sensiolabs.org 'Twig'). Jak już wspomniałem, Stacey nie
-została obdarzona zbytnią urodą, dlatego też owe szablony pozostawiają wiele do
-życzenia. Cóż, taki jej urok (lub jego brak).
+[YAML](http://www.yaml.org). Nazwa pliku musi zawierać nazwę szablonu, za pomocą
+którego zostanie wygenerowana strona. Co poradzić, takie ma fanaberie. Swoje
+wdzięki i uroki w postaci szablonów, Stacey ukrywa w katalogu **templates**.
+Szablony korzystają z silnika [Twig](http://twig.sensiolabs.org). Jak już
+wspomniałem, Stacey nie została obdarzona zbytnią urodą, dlatego też owe
+szablony pozostawiają wiele do życzenia. Cóż, taki jej urok (lub jego brak).
 
 Szkoda mi było bidulki. Zacząłem się martwić, że zostanie sama jak palec z
 powodu swoich nikłych walorów estetycznych. Jednak na horyzoncie pojawił się
 pewien osobnik gotowy ją wziąć pod swoje opiekuńcze skrzydła. Na imię mu
-[Bootstrap](http://getbootstrap.com/ 'Bootstrap'). Przedstawił się jako
-platforma do budowy stron. Na początku byłem sceptyczny. Taki elegancik, ładny,
-zwiewny i powabny. Mówił, że łatwo się z nim dogadać, że też jest prosty, więc
-łatwo znajdą wspólny język. Dałem mu szansę i poznałem go ze Stacey. Od razu
-przypadli sobie do gustu, dlatego bardzo szybko pozbyła się starych szablonów.
-Bootstrap wniósł w jej życie piękne style CSS okraszone odrobiną JavaScriptu.
-Jednak nie przytłoczył jej nadmiarem piękna, do którego nie była przyzwyczajona.
-Poznałem ich z Jenkinsem. Wygląda na to, że znajomość będzie się rozwijać,
-chociaż muszą się jeszcze "dotrzeć".
+[Bootstrap](http://getbootstrap.com/). Przedstawił się jako platforma do budowy
+stron. Na początku byłem sceptyczny. Taki elegancik, ładny, zwiewny i powabny.
+Mówił, że łatwo się z nim dogadać, że też jest prosty, więc łatwo znajdą wspólny
+język. Dałem mu szansę i poznałem go ze Stacey. Od razu przypadli sobie do
+gustu, dlatego bardzo szybko pozbyła się starych szablonów. Bootstrap wniósł w
+jej życie piękne style CSS okraszone odrobiną JavaScriptu. Jednak nie
+przytłoczył jej nadmiarem piękna, do którego nie była przyzwyczajona. Poznałem
+ich z Jenkinsem. Wygląda na to, że znajomość będzie się rozwijać, chociaż muszą
+się jeszcze "dotrzeć".
 
 Stacey i Bootstrap są chętni do pracy. Nie mają dużych wymagań, więc jeśli macie
 wolny kąt na serwerze WWW, to możecie ich tam zaprosić. Kto wie, może zostaną na

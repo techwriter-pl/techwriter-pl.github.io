@@ -176,10 +176,9 @@ https://twitter.com/jacekkr/status/738643865821937664
 [**Magdalena Olszewska**](http://soapconf.com/speakers/) z trójmiejskiej firmy
 UXPin wystąpiła jako trzecia. Magda na co dzień zajmuje się obsługą
 użytkowników  końcowych (Technical Support). Miło było posłuchać o tym, jak dużą
-wartością jest dla jej klientów
-[baza wiedzy](http://techwriter.pl/bazy-wiedzy/), którą w UXPin stanowią
-tutoriale, filmy, FAQ oraz forum. Uporządkowanie i udostępnienie treści w tej
-formie pomogło firmie m.in. poprawić współczynniki
+wartością jest dla jej klientów [baza wiedzy](../bazy-wiedzy/index.md), którą w
+UXPin stanowią tutoriale, filmy, FAQ oraz forum. Uporządkowanie i udostępnienie
+treści w tej formie pomogło firmie m.in. poprawić współczynniki
 [CHURN](https://en.wikipedia.org/wiki/Churn_rate) oraz "odBoracić" (unBorat)
 kilka zawikłanych spraw.
 

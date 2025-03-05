@@ -39,11 +39,11 @@ na: [milena@milush.pl](mailto:milena@milush.pl).
 ## Recenzja książki "Technical Writing in English" Iwony Mokwy-Tarnowskiej
 
 O książce “Technical Writing in English” przeczytałam na
-[techwriter.pl](http://techwriter.pl/technical-writing-w-polskim-wydaniu/) na
-początku tego roku, a po pewnym czasie udało mi się znaleźć ją w...
-antykwariacie internetowym (zapewne  z powodu roku wydania: 2006). Do zakupu
-ostatecznie przekonał mnie fakt, że jest to publikacja z rodzimego podwórka, a
-nawet - z mojego miasta.
+[techwriter.pl](../technical-writing-w-polskim-wydaniu/index.md) na początku
+tego roku, a po pewnym czasie udało mi się znaleźć ją w... antykwariacie
+internetowym (zapewne  z powodu roku wydania: 2006). Do zakupu ostatecznie
+przekonał mnie fakt, że jest to publikacja z rodzimego podwórka, a nawet - z
+mojego miasta.
 
 Autorką książki jest wykładowczyni języka angielskiego na Politechnice
 Gdańskiej, doktor Iwona Mokwa - Tarnowska. Z dostępnej na stronach PG
@@ -123,10 +123,10 @@ paragrafów czy tytuł tabeli nie powinny być dziełem przypadku, a wyrazem
 znajomości właśnie zasad stylu. W sieci można znaleźć mnóstwo informacji na
 temat aktualnych podręczników stylu, tworzonych przez korporacje czy instytucje
 rządowe głównie na własny użytek. Więcej o podręcznikach stylu także w tym
-[artykule](http://techwriter.pl/podrecznik-stylu-stylrecznik/). “Technical
-Writing in English” sam w sobie również stanowi pewien rodzaj podręcznika stylu
-dla tekstów technicznych i biznesowych, choć raczej jako punkt wyjścia do
-szukania bardziej aktualnych reguł.
+[artykule](../podrecznik-stylu-stylrecznik/index.md). “Technical Writing in
+English” sam w sobie również stanowi pewien rodzaj podręcznika stylu dla tekstów
+technicznych i biznesowych, choć raczej jako punkt wyjścia do szukania bardziej
+aktualnych reguł.
 
 Drugą rzeczą, która może być przydatna z punktu widzenia osoby początkującej to
 bardzo szczegółowe wyjaśnienie wielu zasad gramatycznych obowiązujących w

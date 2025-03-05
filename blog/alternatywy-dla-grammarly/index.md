@@ -20,7 +20,7 @@ większe mamy powody do radości.
 <!--truncate-->
 
 Tak było w tym wypadku. Sunny Agarwal natrafił na
-[poprzedni wpis gościnny jednego z naszych sympatyków](http://techwriter.pl/darmowe-narzedzia-do-sprawdzania-tekstu/),
+[poprzedni wpis gościnny jednego z naszych sympatyków](../darmowe-narzedzia-do-sprawdzania-tekstu/index.md),
 który publikowaliśmy kilka miesięcy temu i poczuł chęć kontyunowania tematu
 narzędzi do sprawdzania tekstu. Dzięki temu, możemy Wam dzisiaj przedstawić wpis
 pt. "Good alternatives to Grammarly in 2018."
@@ -106,7 +106,7 @@ to pick the one that will meet your requirements.
 
 Dziękujemy Sunny'emu za ten artykuł. Opisane narzędzia dobrze uzupełniają listę
 darmowych narzędzi, o których
-[pisał na naszych łamach](http://techwriter.pl/darmowe-narzedzia-do-sprawdzania-tekstu/)
+[pisał na naszych łamach](../darmowe-narzedzia-do-sprawdzania-tekstu/index.md)
 Jack Milgram. Teraz naprawdę macie z czego wybierać 😉 Dajcie znać w
 komentarzach, które narzędzie wydaje się dla Was najbardziej odpowiednie.
 

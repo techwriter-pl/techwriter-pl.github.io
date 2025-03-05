@@ -16,7 +16,7 @@ ostatnie znalezisko, [WriteMonkey](http://writemonkey.com/) w wersji 2.6.0.3.
 <!--truncate-->
 
 Jest to darmowa aplikacja
-[zenware](http://searchunifiedcommunications.techtarget.com/definition/zenware 'zenware') do
+[zenware](http://searchunifiedcommunications.techtarget.com/definition/zenware) do
 tworzenia tekstu, która stawia przede wszystkim na prostotę interfejsu, dzięki
 czemu autor skupia się tylko i wyłącznie na swoich myślach i słowach. Z tego co
 zdołałem się zorientować, program promuje filozofię "pisania wolnego od

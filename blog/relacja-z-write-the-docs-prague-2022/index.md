@@ -361,7 +361,7 @@ temat będzie ważny dla Waszej organizacji.
 
 Jeśli chcecie dowiedzieć się więcej na ten temat, kliknijcie
 [tutaj](https://accens.pl/) i
-[tutaj](http://techwriter.pl/dokumentacja-techniczna-dla-daltonistow/).
+[tutaj](../dokumentacja-techniczna-dla-daltonistow/index.md).
 
 ### Kilka słów na zakończenie
 

@@ -12,8 +12,9 @@ coverImage: 'Pile-of-money-007.jpg'
 
 Nieważne jak bardzo lubimy swoją pracę, to jednak z czegoś trzeba żyć. Jest to
 kwestia dużej wagi, dlatego wracamy do niej po kilku miesiącach od ostatniego
-[postu](http://techwriter.pl/ile-zarabia-technical-writer/ 'Ile zarabia technical writer?')
-w tym temacie. Dzisiaj pytamy jak się żyło dokumentalistom w roku 2013.
+[postu](../ile-zarabia-technical-writer/ 'Ile zarabia technical
+writer?'index.md) w tym temacie. Dzisiaj pytamy jak się żyło dokumentalistom w
+roku 2013.
 
 <!--truncate-->
 

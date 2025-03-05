@@ -18,10 +18,9 @@ okazja. 24 października, na Stadionie Narodowym w Warszawie.
 
 <!--truncate-->
 
-Październik obfituje w
-[konferencje bezpośrednio związane z komunikacją techniczną](http://techwriter.pl/konferencje-2014-drugie-polrocze/),
-ale ta jest tak blisko, że warto jej poświęcić osobny wpis. Na początek oddajmy
-głos organizatorom:
+Październik obfituje w konferencje bezpośrednio związane z komunikacją
+techniczną, ale ta jest tak blisko, że warto jej poświęcić osobny wpis. Na
+początek oddajmy głos organizatorom:
 
 > Digital Learning Congress to największe środkowoeuropejskie spotkanie branży
 > technologicznej i zarządzania wiedzą w biznesie. Porusza tematykę dynamicznych

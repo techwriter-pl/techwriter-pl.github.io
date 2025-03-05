@@ -11,12 +11,10 @@ coverImage: 'pins-on-map_Small.jpg'
 ---
 
 W świecie komunikacji technicznej dzieje się całkiem sporo. Nie tak dawno
-pisaliśmy o
-[konferencjach branżowych](http://techwriter.pl/konferencje-2014-drugie-polrocze),
-które będą miały miejsce w drugiej połowie tego roku. Do tego dochodzą różne
-organizacje i stowarzyszenia. W tym gąszczu informacji pomocna może okazać się
-mapa dla komunikacji technicznej, którą zaprezentowała
-[Sarah Maddox](http://www.linkedin.com/in/sarahmaddox).
+pisaliśmy o konferencjach branżowych, które będą miały miejsce w drugiej połowie
+tego roku. Do tego dochodzą różne organizacje i stowarzyszenia. W tym gąszczu
+informacji pomocna może okazać się mapa dla komunikacji technicznej, którą
+zaprezentowała [Sarah Maddox](http://www.linkedin.com/in/sarahmaddox).
 
 <!--truncate-->
 

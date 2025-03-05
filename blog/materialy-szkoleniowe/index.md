@@ -18,11 +18,11 @@ są?
 <!--truncate-->
 
 Załóżmy, że nasz produkt jest już wyposażony w
-[podręcznik użytkownika](http://techwriter.pl/instrukcje-obslugi-i-podreczniki-uzytkownika/)
-i [on-line help](http://techwriter.pl/pomoc-uzytkownika/). To już dużo. Ale nie
-zawsze wystarcza. Niestety, założenie że użytkownicy końcowi nauczą się
-obsługiwać nasz produkt z instrukcji, czy pomocy, jest równie optymistyczne co
-nierealistyczne. Od czasu do czasu trzeba jeszcze zorganizować SZKOLENIE.
+[podręcznik użytkownika](../instrukcje-obslugi-i-podreczniki-uzytkownika/index.md)
+i [on-line help](../pomoc-uzytkownika/index.md). To już dużo. Ale nie zawsze
+wystarcza. Niestety, założenie że użytkownicy końcowi nauczą się obsługiwać nasz
+produkt z instrukcji, czy pomocy, jest równie optymistyczne co nierealistyczne.
+Od czasu do czasu trzeba jeszcze zorganizować SZKOLENIE.
 
 Za zorganizowanie i przeprowadzenie szkolenia odpowiada zazwyczaj trener
 (szkoleniowiec). Żeby przeprowadzić je efektywnie potrzebuje jednak materiałów

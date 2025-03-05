@@ -14,9 +14,9 @@ nowego kanału social media 😊
 
 <!--truncate-->
 
-[W roku 2013 dołączyliśmy do Facebooka i Twittera](http://techwriter.pl/prezent-od-sw-mikolaja-twarzoksiazka/).
+[W roku 2013 dołączyliśmy do Facebooka i Twittera](../prezent-od-sw-mikolaja-twarzoksiazka/index.md).
 
-[Trzy lata później](http://techwriter.pl/dolacz-do-grupy-i-tworz-dokumentacje-na-fb/)
+[Trzy lata później](../dolacz-do-grupy-i-tworz-dokumentacje-na-fb/index.md)
 stworzyliśmy dość prężnie działającą grupę
 "[Tworzenie dokumentacji](https://www.facebook.com/groups/342747819400007/)" na
 pierwszej z tych platform.

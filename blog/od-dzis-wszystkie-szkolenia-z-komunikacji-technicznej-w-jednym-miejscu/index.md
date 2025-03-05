@@ -22,10 +22,9 @@ czy nie lepiej byłoby mieć wszystko dostępne od razu na wyciągnięcie myszki
 Stwierdziliśmy, że warto spróbować...
 
 Spójrzcie teraz trochę wyżej, na nasze główne menu. Pomiędzy "Warsztat" a
-"Oferty pracy". Tak, właśnie tam! Podstrona
-[Szkolenia](http://techwriter.pl/szkolenia/) to miejsce gdzie będziemy
-publikować informacje o wszystkich znanych nam szkoleniach, które mogą Was
-zainteresować. Postaramy się ją nawet aktualizować na bieżąco 😉
+"Oferty pracy". Tak, właśnie tam! Podstrona [Szkolenia](/szkolenia/) to miejsce
+gdzie będziemy publikować informacje o wszystkich znanych nam szkoleniach, które
+mogą Was zainteresować. Postaramy się ją nawet aktualizować na bieżąco 😉
 
 Zachęcamy do korzystania, komentowania, przesyłania nam uwag a także informacji
 o szkoleniach które moglibyśmy tam dodać.
