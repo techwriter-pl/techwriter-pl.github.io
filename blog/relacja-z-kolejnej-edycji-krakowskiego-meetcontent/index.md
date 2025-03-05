@@ -80,8 +80,8 @@ niż [poprzednie](../soap-meetcontent-po-raz-drugi-relacja/index.md), siłą r
 było więc mocniej skondensowane i bardziej dynamiczne. Nie wywołało wprawdzie
 dyskusji na śmierć i życie (przynajmniej nie na forum), ale frekwencja
 dopisała - pojawiły się nawet osoby z Trójmiasta. Wygląda na to, że MeetContent
-zaczyna zdobywać popularność poza Krakowem, co potwierdza
-również [wydarzenie organizowane we Wrocławiu](../soap-meetcontent-czas-na-wroclaw/index.md).
+zaczyna zdobywać popularność poza Krakowem, co potwierdza również wydarzenie
+organizowane we Wrocławiu.
 
 Metodologia design _thinking_ brzmi pociągająco, ale czy może się przydać
 Technical Writerom? Spójrzmy prawdzie w oczy: nie zawsze. Koniec końców, jest to

@@ -19,11 +19,8 @@ RSS.
 
 <!--truncate-->
 
-Dla tych, którzy (jeszcze) nie wiedzą co to jest RSS polecamy dwa króciutkie
-artykuły:
-
-- [What the heck is RSS?](http://www.copyblogger.com/what-the-heck-is-rss/)
-- [What are webfeeds (RSS) and why should you care?](http://www.contentious.com/2003/10/18/what-are-webfeeds-rss-and-why-should-you-care-2/)
+Dla tych, którzy (jeszcze) nie wiedzą co to jest RSS polecamy jeden artykuł:
+[What the heck is RSS?](http://www.copyblogger.com/what-the-heck-is-rss/)
 
 A dla poszukujących fajnego czytnika RSS -
 [Top 10 Free Online RSS Readers](http://sixrevisions.com/tools/free-rss-readers/).
@@ -34,9 +31,7 @@ dwóch wersjach:
 
 ### Wersja dla leniwych
 
-[Techcomm Superfeed](http://technicalwritingworld.com/page/techcomm-superfeed%20)
-
-I już 😊. Używając tego agregatora blogów, dostarczonego przez twórców strony
+Używając tego agregatora blogów, dostarczonego przez twórców strony
 [Technical Writing World](http://technicalwritingworld.com/) macie dość dużą
 pewność, że nie ominą Was ważne informacje ze świata _tech comm_. Niestety nie
 ominą Was też mniej wartościowe, reklamowe, sponsorowane, zduplikowane czy
@@ -61,11 +56,6 @@ ale zawsze możecie je opuścić - lektury wystarczy na wiele dni.
 [FFEATHERS](https://ffeathers.wordpress.com/) - trochę mniej konkretny od
 poprzednika, ale zdecydowanie podążający za trendami. Autorka bardzo zasłużona w
 naszej branży, często bywa na światowych konferencjach i dzieli się wrażeniami.
-
-[The Content Wrangler](http://thecontentwrangler.com/blog/) - zdecydowana
-czołówka, imponujące archiwum, szczególnie dla osób patrzących na temat szerzej
-i bardziej strategicznie. Szeroki przekrój tematów, od życia codziennego po
-ciekawe oferty pracy za granicą.
 
 [Cherryleaf Blog](http://www.cherryleaf.com/blog/) - blog firmowy prowadzony
 przez jedną z bardziej rozpoznawalnych osób w branży - Ellisa Pratta. Od czasu
