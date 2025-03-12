@@ -18,6 +18,17 @@ export const jobOffers: JobOfferProps[] = [
       Nie jest to oferta płatnej pracy, ale może dać Ci dużo innych korzyści.`,
   },
   {
+    title: 'Senior R&D Technical Writer',
+    company: 'Hitachi Energy',
+    link: 'https://www.hitachienergy.com/careers/open-jobs/details/JID3-121956',
+    location: 'Łódź',
+    type: 'hybrydowo',
+    description: `Najważniejsze informacje o ofercie:
+- Branża: energetyczna, transformatory
+- Kluczowe wymagania: bardzo dobra znajomość języka angielskiego, doświadczenie w tworzeniu zrozumiałej dokumentacji technicznej, 
+- Mile widziana znajomość: podręczników stylu i standardów pisania w języku angielskim, podejścia docs-as-code, narzędzi do tworzenia dokumentacji i systemów zarządzania treścią, Git, Azure DevOps.`,
+  },
+  {
     title: 'Technical Writer with German',
     company: 'Etteplan',
     link: 'https://emp.jobylon.com/jobs/271520-etteplan-technical-writer-with-german/',
