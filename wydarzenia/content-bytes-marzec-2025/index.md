@@ -29,7 +29,7 @@ Zapraszamy 27 marca do [Forte Spaces](https://www.fortespaces.pl/)!
 **_Od silosu do synergii_**
 
 Branża IT stale się rozwija, tak samo jak rola contentu w tworzeniu produktów cyfrowych. Firmy zatrudniają coraz więcej specjalistów do spraw komunikacji, zwiększa się liczba wytycznych językowych, a UX writing staje się jednym z głównych obszarów w wielu organizacjach. Wraz z rosnącą niezależnością ról związanych z tworzeniem treści wzrasta też ryzyko wystąpienia silosów, w których gromadzi się wiedza.
-W jaki sposób content designerzy mogą współpracować z innymi rolami w IT? Czy silosy może zastąpić synergia? Na te i inne pytania odpowie wam Zuzanna.
+W jaki sposób content designerzy mogą współpracować z innymi rolami w IT? Czy silosy może zastąpić synergia? 
 
 **_Szokujące odkrycie: samoorganizujące się rozdystrybuowane zespoły naprawdę istnieją!_**: 
 
@@ -44,7 +44,7 @@ Zuzanna jest content designerką, researcherką i socjolożką. W ciągu dnia za
 
 **Michał Skowron**
 
-Michał rozpoczął swoją przygodę z komunikacją techniczną w 2012 roku, porzucając tym samym karierę modela, która tak naprawdę nigdy się nie rozpoczęła. Wraz z prężnie działającym zespołem dąży do podbicia polskiej sceny tech commu. Obecnie jest kodującym tech writerem w polskim oddziale Guidewire Software, współtwórcą podcastu [**Tech Writer koduje**](https://techwriterkoduje.pl/), oraz jednym z administratorów portalu [**techwriter.pl**](https://techwriter.pl/). Michał interesuje się mało popularnymi sportami: bieganiem i kolarstwem. Gdyby nie kariera w tworzeniu dokumentacji, zostałby strażakiem.
+Michał rozpoczął swoją przygodę z komunikacją techniczną w 2012 roku, porzucając tym samym karierę modela, która tak naprawdę nigdy się nie rozpoczęła. Wraz z prężnie działającym zespołem dąży do podbicia polskiej sceny tech commu. Obecnie jest kodującym tech writerem w polskim oddziale Guidewire Software, współtwórcą podcastu [**Tech Writer koduje**](https://techwriterkoduje.pl/) oraz jednym z administratorów portalu [**techwriter.pl**](https://techwriter.pl/). Michał interesuje się mało popularnymi sportami: bieganiem i kolarstwem. Gdyby nie kariera w tworzeniu dokumentacji, zostałby strażakiem.
 
 ## Kiedy i gdzie
 
