@@ -31,10 +31,15 @@ instrukcjami. Używamy więc systemu, który pozwoli nam opisać każdą funkcj�
 a potem poskładać książeczki z kawałków treści jak z klocków. Każdy reusowany
 fragment to klocek tego samego typu.
 
+## Gdzie się sprawdza?
+
 Takie rozwiązanie świetnie się sprawdza kiedy przygotowujemy książeczki do
 druku, bo każda z nich zawiera komplet informacji. Niczego w niej nie brakuje.
 Jednocześnie nie ma w niej informacji o funkcjach, które są niedostępne w naszym
 modelu pralki.
+
+Ten sposób publikacji jest tak powszechny, że wręcz niezauważalny dla
+użytkownika końcowego. Co wskazuje na to, że sprawdza się bardzo dobrze.
 
 ## Dlaczego psuje wyszukiwanie?
 
@@ -57,14 +62,17 @@ wynikami. Poza tym każda będzie w dwunastu kopiach.
 Więc w tym wypadku to co dobre dla drukowania jest niedobre dla wyświetlania w
 internecie.
 
-## Jakieś źródła?
+## Jak rozwiązać ten problem?
 
 Próbowałem znaleźć jakieś przykłady opisujące ten problem. Miałem nadzieję
 znaleźć jakieś pomysły na jego rozwiązanie. Niestety, nie udało mi się. Być może
 takie artykuły gdzieś istnieją, ale w moich wyszukiwaniach znajdowałem tylko
 reklamy narzędzi, które pomagają organizować reuse.
 
-## Publikować strony tylko raz
+W kolejnych sekcjach opisuję rozwiązania, które stosowałem do tej pory w swojej
+pracy. Do każdego dodaję komentarz wynikający z doświadczenia.
+
+## Publikowanie strony tylko raz
 
 Najprostsze rozwiązanie to opublikować każdą stronę tylko raz. Wtedy pojawi się
 ona w wynikach tylko jeden raz i będzie ją łatwiej spozycjonować. Poza tym
@@ -74,15 +82,79 @@ Ja osobiście widzę dwa sposoby na osiągnięcie tego celu. Przybliżę je na
 przykładzie dokumentów w formacie DITA, ale to samo odnosi się do innych
 generatorow stron statycznych.
 
+### Bez reusu
+
 Pierwszy to konstruować nasze dokumenty tak, żeby każda strona występowała w
 nich tylko raz. Jeżeli mamy wiele map DITA, które tworzą nasze rozliczne
-dokumenty, nie możemy powtarzać topików między mapami.
+dokumenty, **nie możemy powtarzać topików między mapami**.
 
-Drugi to użyć mechanizmu publikacji, który wykracza poza typowe generowanie
-stron statycznych. Nie możemy polegać na prostym transformowaniu mapy DITA na
-strony HTML. Zamiast tego musimy zbudować system, który w jakiś sposób posortuje
-z zdeduplikuje nasze strony. Taki system to nie lada wyzwanie i nie sądzę, żeby
-taki gdziekolwiek istniał. Przynajmniej ja takiego nie widziałem.
+Czyli tworzymy osobne mapy dla każdego PDFa i jedną mapę dla naszego portalu
+HTML. Jeżeli są jakieś elementy wspólne, na przykład nasza strona o płukaniu, to
+umieszczany ją w mapie dla HTMLa tylko raz. To oznacza, że opublikujemy jedną
+paczkę stron, która opisuje wszystkie możliwe funkcje wszystkich modeli pralek.
+Żeby pomóc użytkownikowi, na każdej stronie piszemy do których modeli pralek ta
+strona się odnosi.
+
+Taka forma publikacji może jednak czasem namieszać użytkownikowi w głowie. Może
+to efektywnie doprowadzić do takiej sytuacji jak drukowanie jednej instrukcji
+dla wszystkich modeli pralek i zaznaczanie przy każdej funkcji listy modeli, w
+których jest dostępna. Nie jest to idealne rozwiązanie, ale dosyć często
+spotykane w materiałach drukowanych.
+
+Skoro jesteśmy online, to możemy dać użytkownikowi przyciski z filtrami, które
+"ukryją" strony do "innych modeli". Ale to wymaga od naszych użytkowników
+głębokiej znajomości naszych produktów i eksperckiego podejścia do korzystania z
+naszej strony (power user!). A to z kolei nie jest coś, czego powinniśmy wymagać
+od naszych użytkowników.
+
+### Single sourcing
+
+Drugi to przetwarzać mapy DITA inaczej dla druku (PDF) a inaczej do internetu
+(HTML). Dla PDFa, powtarzamy tę stronę w każdej mapie, która jej potrzebuje. W
+tego powstają oczywiście osobne PDFy i powtarzająca się strona nie przeszkadza
+użytkownikowi.
+
+Natomiast dla HTMLa używamy warunków w mapie, które nie powtarzają tej strony
+tylko umieszczają link do niej. Czyli wygenerujemy osobną paczkę stron dla
+każdego modelu, ale w żadnej paczce nie będzie naszej strony o płukaniu. Ta
+będzie w osobnej paczce zawierającej wszystkie funkcje wspólne.
+
+```xml
+<topicref href="plukanie.dita" platform="print" />
+<reltable>
+  <relheader>
+    <relcolspec type="task"/>
+    <relcolspec type="reference"/>
+  </relheader>
+  <relrow>
+    <relcell>
+      <topicref href="plukanie.dita"/>
+    </relcell>
+    <relcell linking="targetonly">
+      <topicref href="uzyteczne-linki.dita"/>
+    </relcell>
+  </relrow>
+</reltable>
+```
+
+To trochę karkołomne rozwiązanie, ale powinno zadziałać. W tym przykładzie,
+`topicref` kierujący do `plukanie.dita` pojawi się tylko jeśli akurat budujemy
+PDFa a nie pojawi się w HTMLu.
+
+`reltable` i zawarty w niej atrybut `linking="targetonly"` sprawi, że na stronie
+"Użyteczne linki" pojawi się link do "Płukanie", ale nie odwrotnie.
+
+### BONUS: magiczna technologia
+
+Trzeci, magiczny sposób to użyć mechanizmu publikacji, który wykracza poza
+typowe generowanie stron statycznych. Nie możemy polegać na prostym
+transformowaniu mapy DITA na strony HTML. Zamiast tego musimy zbudować system,
+który w jakiś sposób posortuje z zdeduplikuje nasze strony.
+
+Taki system to nie lada wyzwanie i nie sądzę, żeby taki gdziekolwiek istniał.
+Przynajmniej ja takiego jeszcze nie widziałem, chociaż możliwe, że wkrótce
+rozpoczniemy nad nim pracę w moim obecnym zespole. Jeżeli to się uda, to
+postaram się podzielić ze światem naszym osiągnięciem.
 
 ## Filtrowanie
 
