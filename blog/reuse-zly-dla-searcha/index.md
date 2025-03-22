@@ -26,22 +26,22 @@ bądź strony.
 Na przykład, tworzymy dokumentację do pralek. Nasze pralki to 12 modeli, z
 których każdy ma od 5 do 30 funkcji. Podstawowe 5 funkcji jest dostępne w każdej
 pralce a pozostałe to misterna mozaika powtarzających się lub unikalnych funkcji
-w różnych wariantach. Dla każdego z 12 modeli musimy wydrukować książeczkę z instrukcjami.
-Używamy więc systemu, który pozwoli nam opisać każdą funkcję raz, a
-potem poskładać książeczki z kawałków treści jak z klocków. Każdy reusowany
+w różnych wariantach. Dla każdego z 12 modeli musimy wydrukować książeczkę z
+instrukcjami. Używamy więc systemu, który pozwoli nam opisać każdą funkcję raz,
+a potem poskładać książeczki z kawałków treści jak z klocków. Każdy reusowany
 fragment to klocek tego samego typu.
 
 Takie rozwiązanie świetnie się sprawdza kiedy przygotowujemy książeczki do
-druku, bo każda z nich zawiera komplet informacji. Niczego w niej nie
-brakuje. Jednocześnie nie ma w niej informacji o funkcjach, które są niedostępne
-w naszym modelu pralki.
+druku, bo każda z nich zawiera komplet informacji. Niczego w niej nie brakuje.
+Jednocześnie nie ma w niej informacji o funkcjach, które są niedostępne w naszym
+modelu pralki.
 
 ## Dlaczego psuje wyszukiwanie?
 
-Wyobraźmy sobie, że instrukcje do pralek są teraz dostępne online. Zostały wrzucone na portal
-z dokumentacją jako podstrony. Każda książeczka ma nawigację po lewej i jest w
-pełni kompletnym mini portalem ze wszystkim, czego potrzebuje użytkownik danego
-modelu.
+Wyobraźmy sobie, że instrukcje do pralek są teraz dostępne online. Zostały
+wrzucone na portal z dokumentacją jako podstrony. Każda książeczka ma nawigację
+po lewej i jest w pełni kompletnym mini portalem ze wszystkim, czego potrzebuje
+użytkownik danego modelu.
 
 Jeżeli jedną z podstawowych funkcji **każdej** pralki jest płukanie, to na
 naszym portalu mamy stronkę o płukaniu powtórzoną 12 razy. Jeżeli użytkownik
@@ -51,8 +51,8 @@ wpisze w wyszukiwarkę "płukanie" to te 12 stron będzie konkurować o jego uwa
 
 Być może oprócz strony o tytule "Płukanie" jest następna, na przykład "Problemy
 z płukaniem" albo "Kod błędu: płukanie", ale użytkownik ich tak łatwo nie
-znajdzie, bo będą dużo niżej albo nawet na drugiej czy trzeciej stronie z wynikami. Poza
-tym każda będzie w dwunastu kopiach.
+znajdzie, bo będą dużo niżej albo nawet na drugiej czy trzeciej stronie z
+wynikami. Poza tym każda będzie w dwunastu kopiach.
 
 Więc w tym wypadku to co dobre dla drukowania jest niedobre dla wyświetlania w
 internecie.
@@ -60,10 +60,9 @@ internecie.
 ## Jakieś źródła?
 
 Próbowałem znaleźć jakieś przykłady opisujące ten problem. Miałem nadzieję
-znaleźć jakieś pomysły na jego rozwiązanie. Niestety, nie udało mi się.
-Być może takie artykuły gdzieś istnieją, ale w moich
-wyszukiwaniach znajdowałem tylko reklamy narzędzi, które pomagają organizować
-reuse.
+znaleźć jakieś pomysły na jego rozwiązanie. Niestety, nie udało mi się. Być może
+takie artykuły gdzieś istnieją, ale w moich wyszukiwaniach znajdowałem tylko
+reklamy narzędzi, które pomagają organizować reuse.
 
 ## Publikować strony tylko raz
 
@@ -91,10 +90,10 @@ Jeśli nie możemy publikować stron tylko raz, kolejną najlepszą opcją jest
 filtrowanie. Dodajmy po lewej stronie panel z checkboxami i pozwólmy
 użytkownikowi wybrać, o której wersji pralki chce poczytać. To nie jest idealne
 rozwiązanie, bo o ile w wypadku pralki, użytkownik prawdopodobnie wie jaki model
-posiada, o tyle w bardziej skomplikowanych systemach wybory filtrów stają
-się trudniejsze. Może dojść do tego, że użytkownik nie będzie
-wiedział jaki "produkt" wybrać, ani co mamy na myśli rozróżniając "wersję" od
-"wydania". Albo czym się różni "komponent" od "części".
+posiada, o tyle w bardziej skomplikowanych systemach wybory filtrów stają się
+trudniejsze. Może dojść do tego, że użytkownik nie będzie wiedział jaki
+"produkt" wybrać, ani co mamy na myśli rozróżniając "wersję" od "wydania". Albo
+czym się różni "komponent" od "części".
 
 ## Kolaps
 
@@ -103,6 +102,19 @@ Czyli jeden wynik o tytule "Płukanie" a pod spodem zwijany akordeon z listą
 innych wersji strony o płukaniu.
 
 ![Ekran ilustrujący powyższy paragraf: każdy wynik wyszukiwania ma po spodem zwijaną sekcję z napisem "podobne wyniki" a w niej listę stron o tym samym tytule, ale innej wersji](./images/search-zwijane-sekcje.png)
+
+To rozwiązanie ma swoje słabe strony. na przykład to, że rozwijana sekcja może
+stać się bardzo długo i przez to mało pomocna. Jeżeli spróbujemy ją wyposażyć w
+jakieś kontrolki pozwalające wybrać model pralki, to znacznie zwiększymy jej
+poziom skomplikowania.
+
+Innym problemem jest to, że użytkownicy moga nie zrozumieć co daje ta sekcja i
+jak jej powinni używać. Dla nas jest oczywiste, że są w niej wymienione
+wszystkie inne instancje tej samej strony w innych modelach pralki. Ale to co
+dla nas jest oczywiste wynika z tego, ze znamy strukturę własnej dokumentacji.
+
+Generalnie to rozwiązanie nie jest absolutnie najgorsze. Warto go spróbować i
+zebrać feedback od użytkowników.
 
 ## Nie ma złotego środka
 
