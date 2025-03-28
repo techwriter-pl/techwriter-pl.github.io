@@ -8,6 +8,7 @@ import HomePageHeader from '../Home/HomePageHeader';
 import Partners from '../Partners/Partners';
 import SiteHighlights from '../SiteHighlights/SiteHighlights';
 import styles from './BlogList.module.css';
+import { UpcomingEvents } from '../UpcomingEvents/UpcomingEvents';
 
 export default function BlogHome(props): JSX.Element {
   const { pathname, search } = props.history.location;
@@ -20,6 +21,7 @@ export default function BlogHome(props): JSX.Element {
   return (
     <Layout title="Strona domowa" description={siteConfig.tagline}>
       <HomePageHeader />
+      <UpcomingEvents />
       <div className={styles.topWrapper}>
         <div className="container">
           <div style={{ position: 'relative' }}>

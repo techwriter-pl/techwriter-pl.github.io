@@ -4,7 +4,7 @@ import Layout from '@theme/Layout';
 import CoverImage from '../CoverImage/CoverImage';
 import ComingSoonBadge from './ComingSoonBadge';
 
-function isDateInFuture(dateString: string): boolean {
+export function isDateInFuture(dateString: string): boolean {
   const inputDate = new Date(dateString);
 
   if (isNaN(inputDate.getTime())) {
