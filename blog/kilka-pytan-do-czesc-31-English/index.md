@@ -1,14 +1,14 @@
 ---
 title: 'Interview with Mateusz Barszcz'
 authors: niewiarowski
-date: '2025-02-12'
+date: '2025-03-31'
 tags:
   - 'warsztat'
   - 'wywiady'
   - 'kariera'
   - 'praca'
   - 'articles-in-english'
-coverImage: 'kilka_pytan_31.png'
+coverImage: 'upload_0007.png'
 ---
 
 Our guest today is [Mateusz Barszcz](https://www.linkedin.com/in/mattbarszcz/),
@@ -35,12 +35,13 @@ technical documentation. I have been a member of the Technical Writers team
 since late 2022, when I joined as a Senior Technical Writer. Initially, I worked
 on a smaller project called
 [Network Manager Wide Area Monitoring System (WAMS)](https://www.hitachienergy.com/products-and-solutions/grid-and-generation-management-network-manager/network-manager-wide-area-monitoring-system-wams),
-a backend solution for monitoring the state of the power grid. Currently, I’m
-involved in a much larger project with five development teams engaged in the
-process, serving as the lead technical writer. In that role, I create the
-documentation plan and ensure we have all the essential information needed to
-proceed with writing. As a writer, I describe user documentation for our
-internal teams and the end customers receiving the solution. These documents
+a backend solution for monitoring the state of the power grid.
+
+Currently, I’m involved in a much larger project with five development teams
+engaged in the process, serving as the lead technical writer. In that role, I
+create the documentation plan and ensure we have all the essential information
+needed to proceed with writing. As a writer, I describe user documentation for
+our internal teams and the end customers receiving the solution. These documents
 include installation guides, functional descriptions, and release notes. I also
 support the creation of engineering documentation that lives alongside the code,
 such as administration guides or readme files.
@@ -110,13 +111,15 @@ in a different format. I created materials for self-paced learning and
 instructor-led training about the radio infrastructure I learned initially. I
 was managing well-known content in a different format. As an instructional
 designer, I designed trainings for enablement and business topics. The scope of
-content I operated on changed dynamically. Then, I accepted an offer to work as
-a contractor at Google. I joined a small team writing technical content and
-creating online training for internal project management products. It was a new
-and completely unknown area for me. I needed to learn many tools designed for
-employees. It was a dynamic role which I spent over six years in. As the product
-portfolio developed, my responsibilities expanded. Ultimately, the contracted
-project ended, and I had to look for something new.
+content I operated on changed dynamically.
+
+Then, I accepted an offer to work as a contractor at Google. I joined a small
+team writing technical content and creating online training for internal project
+management products. It was a new and completely unknown area for me. I needed
+to learn many tools designed for employees. It was a dynamic role which I spent
+over six years in. As the product portfolio developed, my responsibilities
+expanded. Ultimately, the contracted project ended, and I had to look for
+something new.
 
 ## Career at Hitachi Energy
 
@@ -150,8 +153,10 @@ I work with various tools depending on the needs. Initially, I used Word –
 mainly because it allowed collaboration on the document with the engineers.
 Still, I’m not a fan of this tool due to problems with style templates,
 formatting, and sometimes loss of content. I try to use it as little as
-possible. Currently, when I have gathered the content and want to publish the
-material, I work in [Markdown](https://en.wikipedia.org/wiki/Markdown) and
+possible.
+
+Currently, when I have gathered the content and want to publish the material, I
+work in [Markdown](https://en.wikipedia.org/wiki/Markdown) and
 [MadCap Flare](https://en.wikipedia.org/wiki/MadCap_Software#MadCap_Flare).
 MadCap Flare is excellent, although learning it takes some time and effort.
 However, once you master the basics, prepare style templates, and set up the
@@ -169,14 +174,15 @@ Engineers are willing to contribute to the documentation. They are often
 necessary links for creating documentation because I do not understand certain
 aspects. As a technical writer, I constantly learn about technology and
 products, and eventually, I become an expert. This reduces the amount of
-involvement needed from engineers as the project advances. However, in the
-beginning, new technologies used in the product require more reliance on what
-someone tells me. Initially, my task is to piece it together into sentences and
-achieve the appropriate order of information to get the message across.
-Sometimes, I find content in repositories that I later include in my
-documentation. Such discoveries give me great satisfaction.
+involvement needed from engineers as the project advances.
 
-### What is your superpower as a technical writer??
+However, in the beginning, new technologies used in the product require more
+reliance on what someone tells me. Initially, my task is to piece it together
+into sentences and achieve the appropriate order of information to get the
+message across. Sometimes, I find content in repositories that I later include
+in my documentation. Such discoveries give me great satisfaction.
+
+### What is your superpower as a technical writer?
 
 I write witty e-mails that are acceptable in a corporate environment. This skill
 comes in handy both in technical writing and daily communication.
@@ -245,9 +251,9 @@ with the previously started thread.
 A principle says the last 10 percent of perfecting the material can take 90
 percent of the time. It is about refining details. Where 10-20 percent of your
 efforts generate 80 percent of the gains, the rest is less important. Focusing
-on the key issues is crucial. [**_It’s about the [Pareto
-principle]_**(https://en.wikipedia.org/wiki/Pareto_principle)]. Sometimes, it is
-good to leave some room for later improvements. The rules that apply in
+on the key issues is crucial. _[It’s about the
+[Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle)]_. Sometimes,
+it is good to leave some room for later improvements. The rules that apply in
 technical writing can be observed even in sports. The best athletes fight for
 tenths and hundredths of a second, and the effort they have to make to achieve
 them takes years of hard work.
@@ -270,6 +276,7 @@ Usually, candidates do not have a sample showing how someone thinks and
 approaches the documentation. I recommend trying your hand and posting samples
 on the Internet (for example, on [GitHub](https://github.com/) or your website)
 to showcase your knowledge of technology, share this work, and take pride in it.
+
 Also, do not worry about not being an English major. I know many people in the
 industry with various backgrounds, such as biologists or theater studies’
 graduates. It is worth seeing how you feel about it if it interests you. The
