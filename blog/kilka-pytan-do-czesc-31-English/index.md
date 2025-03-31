@@ -215,7 +215,7 @@ Recipes also relate to instructions.
 ### Speaking of cooking, when you buy new household appliances, such as a kitchen robot, do you go with the flow and spontaneously start using it, or do you read the entire manual from cover to cover?
 
 I go with the flow because I prefer to try something out. My memory retention is
-better if I use something practically or possibly break it. When needed, I reach
+better if I use something practically or possibly break it 😉. When needed, I reach
 for the manual, and then I read it from cover to cover.
 
 ### What are your interests related to technology and science?
