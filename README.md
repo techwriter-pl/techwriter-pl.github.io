@@ -123,6 +123,21 @@ coverImage: 'CKSource-logo-2.jpg'
 If you are working in VS Code in the browser, you can drag-and-drop images from
 your file explorer into the browser window.
 
+11. Image attribution.
+
+- As much as possible, rely on graphics and illustrations you create and have
+  rights to.
+- If you need someone else's images, choose from sets that have clearly defined
+  usage licenses. Obey the attribution practices. In the article, include
+  necessary info: Source, Author, Title, License type, etc.
+- If you need an image that does not have an explicit usage license, at least
+  give a link to the Source. We want to be fair towards the graphics' creators.
+- If you generate image using GenAI, mention the tool in the caption.
+- If you create an image using a free to use software, verify if its usage
+  license complies with pro bono blog posting.
+- If you create an image with a tool you paid for, no need to mention the tool
+  in the caption.
+
 ## Creating a PR
 
 When you're done editing, it's time to create a **Pull Request (PR)**. Your
