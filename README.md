@@ -135,7 +135,7 @@ your file explorer into the browser window.
 - If you generate image using GenAI, mention the tool in the caption.
 - If you create an image using a free to use software, verify if its usage
   license complies with pro bono blog posting.
-- If you create an image with a tool you paid for, no need to mention the tool
+- If you create an image with a tool you paid for, you don't need to mention the tool
   in the caption.
 
 ## Creating a PR
