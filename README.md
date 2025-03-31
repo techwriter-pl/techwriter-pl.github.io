@@ -129,7 +129,7 @@ your file explorer into the browser window.
   rights to.
 - If you need someone else's images, choose from sets that have clearly defined
   usage licenses. Obey the attribution practices. In the article, include
-  necessary info: Source, Author, Title, License type, etc.
+  necessary info: source, author, title, license type, etc.
 - If you need an image that does not have an explicit usage license, at least
   give a link to the Source. We want to be fair towards the graphics' creators.
 - If you generate image using GenAI, mention the tool in the caption.
