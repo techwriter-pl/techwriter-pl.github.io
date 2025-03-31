@@ -131,7 +131,7 @@ your file explorer into the browser window.
   usage licenses. Obey the attribution practices. In the article, include
   necessary info: source, author, title, license type, etc.
 - If you need an image that does not have an explicit usage license, at least
-  give a link to the Source. We want to be fair towards the graphics' creators.
+  give a link to the source. We want to be fair towards the graphics' creators.
 - If you generate image using GenAI, mention the tool in the caption.
 - If you create an image using a free to use software, verify if its usage
   license complies with pro bono blog posting.
