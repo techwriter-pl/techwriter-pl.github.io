@@ -16,7 +16,7 @@ a Chief Software Technical Writer at
 [Hitachi Energy](https://www.linkedin.com/company/hitachienergy/) in Krakow,
 Poland. Let's hear his story, this time in English. For the Polish version,
 [click here](https://techwriter.pl/kilka-pytan-do-czesc-31). In this interview,
-you will learn about his extensive experience in technical writing and the
+you will learn about his extensive experience in technical writing and how
 how technical writing is like competitive sports. Mateusz shares his
 invaluable observations and insights, which will be helpful for those
 who want to get started with technical communication, nut also for anyone else interested
