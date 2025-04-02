@@ -40,7 +40,7 @@ a backend solution for monitoring the state of the power grid.
 Currently, I’m involved in a much larger project with five development teams
 engaged in the process, serving as the lead technical writer. In that role, I
 create the documentation plan and ensure we have all the essential information
-needed to proceed with writing. As a writer, I describe user documentation for
+needed to proceed with writing. As a writer, I write user documentation for
 our internal teams and the end customers receiving the solution. These documents
 include installation guides, functional descriptions, and release notes. I also
 support the creation of engineering documentation that lives alongside the code,
