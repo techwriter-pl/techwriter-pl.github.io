@@ -123,7 +123,7 @@ something new.
 
 ## Career at Hitachi Energy
 
-### Let’s return to your current role at Hitachi Energy, which you mentioned at the beginning. How is your work organized?
+### Let’s return to your current role at Hitachi Energy. How is your work organized?
 
 Teams work based on the
 [Scrum](<https://en.wikipedia.org/wiki/Scrum_(software_development)>)
