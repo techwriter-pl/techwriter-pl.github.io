@@ -1,7 +1,7 @@
 ---
 title: 'Interview with Mateusz Barszcz'
 authors: niewiarowski
-date: '2025-03-31'
+date: '2025-04-02'
 tags:
   - 'warsztat'
   - 'wywiady'
@@ -17,10 +17,9 @@ a Chief Software Technical Writer at
 Poland. Let's hear his story, this time in English. For the Polish version,
 [click here](https://techwriter.pl/kilka-pytan-do-czesc-31). In this interview,
 you will learn about his extensive experience in technical writing and how
-how technical writing is like competitive sports. Mateusz shares his
-invaluable observations and insights, which will be helpful for those
-who want to get started with technical communication, nut also for anyone else interested
-in it.
+technical writing is like competitive sports. Mateusz shares his invaluable
+observations and insights, which will be helpful for those who want to get
+started with technical communication, and also for anyone else interested in it.
 
 <!--truncate-->
 
@@ -40,8 +39,8 @@ a backend solution for monitoring the state of the power grid.
 Currently, I’m involved in a much larger project with five development teams
 engaged in the process, serving as the lead technical writer. In that role, I
 create the documentation plan and ensure we have all the essential information
-needed to proceed with writing. As a writer, I write user documentation for
-our internal teams and the end customers receiving the solution. These documents
+needed to proceed with writing. As a writer, I write user documentation for our
+internal teams and the end customers receiving the solution. These documents
 include installation guides, functional descriptions, and release notes. I also
 support the creation of engineering documentation that lives alongside the code,
 such as administration guides or readme files.
@@ -215,8 +214,8 @@ Recipes also relate to instructions.
 ### Speaking of cooking, when you buy new household appliances, such as a food processor, do you go with the flow and spontaneously start using it, or do you read the entire manual from cover to cover?
 
 I go with the flow because I prefer to try something out. My memory retention is
-better if I use something practically or possibly break it 😉. When needed, I reach
-for the manual, and then I read it from cover to cover.
+better if I use something practically or possibly break it 😉. When needed, I
+reach for the manual, and then I read it from cover to cover.
 
 ### What are your interests related to technology and science?
 
