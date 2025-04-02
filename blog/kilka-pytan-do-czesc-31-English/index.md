@@ -19,7 +19,7 @@ Poland. Let's hear his story, this time in English. For the Polish version,
 you will learn about his extensive experience in technical writing and the
 how technical writing is like competitive sports. Mateusz shares his
 invaluable observations and insights, which will be helpful for those
-considering a step toward technical communication as well as anyone interested
+who want to get started with technical communication, nut also for anyone else interested
 in it.
 
 <!--truncate-->
