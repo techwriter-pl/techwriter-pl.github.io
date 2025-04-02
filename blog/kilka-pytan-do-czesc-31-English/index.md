@@ -212,7 +212,7 @@ solutions that can be built on Markdown.
 My passions are traveling, reading (sci-fi especially), automotive, and cooking.
 Recipes also relate to instructions.
 
-### Speaking of cooking, when you buy new household appliances, such as a kitchen robot, do you go with the flow and spontaneously start using it, or do you read the entire manual from cover to cover?
+### Speaking of cooking, when you buy new household appliances, such as a food processor, do you go with the flow and spontaneously start using it, or do you read the entire manual from cover to cover?
 
 I go with the flow because I prefer to try something out. My memory retention is
 better if I use something practically or possibly break it 😉. When needed, I reach
