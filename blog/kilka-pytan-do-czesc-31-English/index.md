@@ -17,7 +17,7 @@ a Chief Software Technical Writer at
 Poland. Let's hear his story, this time in English. For the Polish version,
 [click here](https://techwriter.pl/kilka-pytan-do-czesc-31). In this interview,
 you will learn about his extensive experience in technical writing and the
-respects in which this domain resembles competitive sports. Mateusz shares his
+how technical writing is like competitive sports. Mateusz shares his
 invaluable observations and insights, which will be helpful for those
 considering a step toward technical communication as well as anyone interested
 in it.
