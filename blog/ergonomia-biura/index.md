@@ -13,12 +13,13 @@ coverImage: 'upload_0005.png'
 Swego czasu epidemiologiczne zawirowania sprawiły, że wiele osób poznało pracę
 zdalną w większym zakresie niż kiedykolwiek wcześniej. Dla niektórych jest to
 zapomniany epizod, a inni zaś świadomie postawili na taki styl pracy i życia.
-Jak dostosować swój gabinet, żeby zapewnić sobie jak najbardziej komfortową
-pracę zdalną i hybrydową?
+Jak dostosować swój gabinet, żeby zapewnić sobie jak bardziej komfortową pracę
+zdalną i hybrydową?
 
 Dla mnie praca zdalna to codzienna rzeczywistość. Chętnie opowiem o tym, czego
 dowiedziałem się o biurkach elektrycznych i innych akcesoriach ułatwiających
 życie w biurze.
+
 
 <!--truncate-->
 
@@ -27,6 +28,12 @@ mieć biurko elektryczne i na co zwrócić uwagę, jeśli interesuje Cię taki z
 Temat ergonomii pracy jest bardzo rozległy i ten artykuł z pewnością go nie
 wyczerpie. Dostaniesz garść obserwacji i odniesień do źródeł, z którymi możesz
 się zapoznać, jeśli potrzebujesz więcej informacji.
+
+Zaznaczam też, że nie jestem fizjoterapeutą, dzielę się garścią wskazówek, z
+którymi się zetknąłem. Podejmuj decyzje dotyczące ergonomii biura w oparciu o
+swój research i wiedzę specjalisty, zwłaszcza jeśli jesteś pod opieką
+fizjoterapeuty. Mam nadzieję, że artykuł ten pomoże Ci w zrobieniu właściwego
+rozeznania i podjęciu słusznych decyzji.
 
 ## Wstęp
 
@@ -38,7 +45,7 @@ Widzę dwie drogi 🙂. Którą wybierzesz?
 
 **Przykładowa ścieżka decyzyjna w kwestii ergonomii biura. Nie każdy gadżet jest
 obowiązkowy, a doposażanie odbywa się stopniowo, na przestrzeni kilku lat.
-Narysowane w DrawIO.**
+Narysowałem to w DrawIO.**
 
 Jeśli wybierzesz się tę długą, ekscytującą i finansowo nieobojętną podróż,
 zapraszam Cię do przeglądu rozmaitych gadżetów, w które możesz wyposażyć swoje
