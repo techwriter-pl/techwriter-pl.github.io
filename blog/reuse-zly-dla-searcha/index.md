@@ -1,7 +1,7 @@
 ---
 title: 'Kurde! Reuse popsuł mi searcha'
 authors: pensjonatus
-date: '2025-03-25'
+date: '2025-04-12'
 tags:
   - 'dobre-praktyki'
   - 'pomoc-użytkownika'
@@ -10,7 +10,7 @@ coverImage: 'kurde-reuse.png'
 ---
 
 Reuse wydaje się być Świętym Graalem technical writingu, ale w tym artykule
-chciałbym pokazać, że reuse może zepsuć wyniki wyszukiwania.
+chciałbym pokazać, ta popularna praktyka może zepsuć wyniki wyszukiwania.
 
 <!-- truncate -->
 
@@ -20,8 +20,8 @@ Zacznijmy od początku.
 
 Reuse, ponowne użycie, lub reużycie, to praktyka pisania raz i używania w wielu
 miejscach. Stosuje się ją w programowaniu i tworzeniu treści, w tym treści
-technicznych. Technical writerzy reusują bloki tekstu i całe topiki, artykuły,
-bądź strony.
+technicznych. Technical writerzy ponownie używają bloki tekstu, artykuły, bądź
+strony.
 
 Na przykład, tworzymy dokumentację do pralek. Nasze pralki to 12 modeli, z
 których każdy ma od 5 do 30 funkcji. Podstawowe 5 funkcji jest dostępne w każdej
@@ -59,7 +59,7 @@ z płukaniem" albo "Kod błędu: płukanie", ale użytkownik ich tak łatwo nie
 znajdzie, bo będą dużo niżej albo nawet na drugiej czy trzeciej stronie z
 wynikami. Poza tym każda będzie w dwunastu kopiach.
 
-Więc w tym wypadku to co dobre dla drukowania jest niedobre dla wyświetlania w
+Więc w tym wypadku to, co dobre dla drukowania jest niedobre dla wyświetlania w
 internecie.
 
 ## Jak rozwiązać ten problem?
@@ -110,7 +110,7 @@ od naszych użytkowników.
 ### Single sourcing
 
 Drugi to przetwarzać mapy DITA inaczej dla druku (PDF) a inaczej do internetu
-(HTML). Dla PDFa, powtarzamy tę stronę w każdej mapie, która jej potrzebuje. W
+(HTML). Dla PDFa, powtarzamy tę stronę w każdej mapie, która jej potrzebuje. Z
 tego powstają oczywiście osobne PDFy i powtarzająca się strona nie przeszkadza
 użytkownikowi.
 
@@ -176,11 +176,11 @@ innych wersji strony o płukaniu.
 ![Ekran ilustrujący powyższy paragraf: każdy wynik wyszukiwania ma po spodem zwijaną sekcję z napisem "podobne wyniki" a w niej listę stron o tym samym tytule, ale innej wersji](./images/search-zwijane-sekcje.png)
 
 To rozwiązanie ma swoje słabe strony. na przykład to, że rozwijana sekcja może
-stać się bardzo długo i przez to mało pomocna. Jeżeli spróbujemy ją wyposażyć w
+stać się bardzo długa i przez to mało pomocna. Jeżeli spróbujemy ją wyposażyć w
 jakieś kontrolki pozwalające wybrać model pralki, to znacznie zwiększymy jej
 poziom skomplikowania.
 
-Innym problemem jest to, że użytkownicy moga nie zrozumieć co daje ta sekcja i
+Innym problemem jest to, że użytkownicy mogą nie zrozumieć co daje ta sekcja i
 jak jej powinni używać. Dla nas jest oczywiste, że są w niej wymienione
 wszystkie inne instancje tej samej strony w innych modelach pralki. Ale to co
 dla nas jest oczywiste wynika z tego, ze znamy strukturę własnej dokumentacji.
