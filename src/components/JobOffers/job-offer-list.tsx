@@ -18,6 +18,20 @@ export const jobOffers: JobOfferProps[] = [
       Nie jest to oferta płatnej pracy, ale może dać Ci dużo innych korzyści.`,
   },
   {
+    title: 'Open Source Technical Writer',
+    company: 'Antmicro',
+    link: 'https://careers.antmicro.com/jobs/technical-writer/',
+    location: 'Poznan, Wroclaw, Gdansk, Gothenburg',
+    type: 'w biurze',
+    description: `Oferta dla osób zajawionych na technologie open source. Tym razem, tech writer jest częścią zespołu marketingowego.
+
+Firma pisze o obie tak:
+
+> We enable Artificial Intelligence at the edge, create complex IoT systems and build robots, drones and other intelligent devices for customers around the globe thanks to our extensive in-house R&D.
+ 
+Z ciekawszych wymagań, oferta wymienia dobrą znajomość zasad naukowych (scientific principles). Dodatkowym plusem będzie znajomość Pythona i Gita, chociaż nie jest to absolutnie wymagane.`,
+  },
+  {
     title: 'Senior R&D Technical Writer',
     company: 'Hitachi Energy',
     link: 'https://www.hitachienergy.com/careers/open-jobs/details/JID3-121956',
@@ -42,50 +56,5 @@ Etteplan oferuje:
 - Pakiet benefitów (opieka medyczna, Multisport, ubezpieczenie grupowe)
 - Elastyczne godziny pracy 
 - Szkolenia i możliwości rozwoju`,
-  },
-  {
-    title: 'Technical Writer',
-    company: 'Etteplan',
-    link: 'https://emp.jobylon.com/jobs/273798-etteplan-technical-writer-hybrydowo-szczecin/',
-    location: 'Szczecin (3 dni w fabryce, 2 dni zdalnie)',
-    type: 'hybrydowo',
-    description: `Najważniejsze informacje o ofercie:
-- Branża: turbiny wiatrowe 
-- Kluczowe wymagania: bardzo dobra znajomość języka angielskiego, doświadczenie w dokumentacji technicznej, znajomość XML/DITA/S1000D 
-
-Etteplan oferuje:
-- Pracę w międzynarodowym środowisku 
-- Pakiet benefitów (opieka medyczna, Multisport, ubezpieczenie grupowe)
-- Elastyczne godziny pracy 
-- Szkolenia i możliwości rozwoju`,
-  },
-  {
-    title: 'Senior Technical Writer - Developer Content',
-    company: 'Splunk',
-    link: 'https://www.splunk.com/en_us/careers/jobs/senior-technical-writer-developer-31867.html',
-    location: 'Kraków',
-    type: 'hybrydowo',
-    description: `Splunk tworzy oprogramowanie do monitorowania i analizy dużej ilości danych w czasie rzeczywistym. 
-  Splunk również skrupulatnie buduje swoją obecność w Krakowie intensywnie rekrutując. 
-
-  Kogo szukają? 
-
-  Jeśli jesteś doświadczonym Technical Writerem, ale zawsze ciągnęło Cię w stronę kodu, jeśli do tego dobrze rozumiesz się z programistami i udzielasz się w projektach open sourceowych - jest duża szansa, że szukasz właśnie takiej oferty!
-  
-  P.S. Nie będziesz jedynym Tech Writerem na miejscu. I choć większość zespołu dokumentalistów znajduje się w Stanach, w Polsce mamy już 5 pisarzy, którzy wspierają lokalne zespoły developerskie.`,
-  },
-  {
-    title: 'Technical Writer',
-    company: 'Techland',
-    link: 'https://techland.net/job-offers/technical-writer-15',
-    location: 'Warszawa, Wrocław',
-    type: 'w biurze',
-    description: `Techland to firma z wieloletnią historią w branży gier. 
-Dzięki ponad 30-letniemu doświadczeniu na rynku wie, jak dostarczać niezapomniane wrażenia.
-Ich międzynarodowy zespół z siedzibą w Polsce składa się z ponad 500 profesjonalistów. 
-Są znani z takich gier jak The Call of Juarez i Dying Light. Ale na tym nie poprzestają. Chcą nadal tworzyć fascynujące tytuły AAA oparte na nowatorskiej rozgrywce.
-
-Obecnie Techland poszukuje osoby na stanowisko Technical Writera, 
-która będzie odpowiedzialna za pisanie i ulepszanie dokumentacji technicznej dla twórców treści i deweloperów.`,
   },
 ];
