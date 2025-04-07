@@ -2,11 +2,148 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://techwriter.pl/</id>
     <title>techwriter.pl Blog</title>
-    <updated>2025-02-12T00:00:00.000Z</updated>
+    <updated>2025-04-07T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://techwriter.pl/"/>
     <subtitle>techwriter.pl Blog</subtitle>
     <icon>https://techwriter.pl/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Kurde! Reuse popsuł mi searcha]]></title>
+        <id>https://techwriter.pl/reuse-zly-dla-searcha</id>
+        <link href="https://techwriter.pl/reuse-zly-dla-searcha"/>
+        <updated>2025-04-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Reuse wydaje się być Świętym Graalem technical writingu, ale w tym artykule]]></summary>
+        <content type="html"><![CDATA[<p>Reuse wydaje się być Świętym Graalem technical writingu, ale w tym artykule
+chciałbym pokazać, ta popularna praktyka może zepsuć wyniki wyszukiwania.</p>
+<p>Zacznijmy od początku.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="co-to-jest-reuse">Co to jest reuse?<a href="https://techwriter.pl/reuse-zly-dla-searcha#co-to-jest-reuse" class="hash-link" aria-label="Bezpośredni link do Co to jest reuse?" title="Bezpośredni link do Co to jest reuse?">​</a></h2>
+<p>Reuse, ponowne użycie, lub reużycie, to praktyka pisania raz i używania w wielu
+miejscach. Stosuje się ją w programowaniu i tworzeniu treści, w tym treści
+technicznych. Technical writerzy ponownie używają bloki tekstu, artykuły, bądź
+strony.</p>
+<p>Na przykład, tworzymy dokumentację do pralek. Nasze pralki to 12 modeli, z
+których każdy ma od 5 do 30 funkcji. Podstawowe 5 funkcji jest dostępne w każdej
+pralce a pozostałe to misterna mozaika powtarzających się lub unikalnych funkcji
+w różnych wariantach. Dla każdego z 12 modeli musimy wydrukować książeczkę z
+instrukcjami. Używamy więc systemu, który pozwoli nam opisać każdą funkcję raz,
+a potem poskładać książeczki z kawałków treści jak z klocków. Każdy reusowany
+fragment to klocek tego samego typu.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="gdzie-się-sprawdza">Gdzie się sprawdza?<a href="https://techwriter.pl/reuse-zly-dla-searcha#gdzie-si%C4%99-sprawdza" class="hash-link" aria-label="Bezpośredni link do Gdzie się sprawdza?" title="Bezpośredni link do Gdzie się sprawdza?">​</a></h2>
+<p>Takie rozwiązanie świetnie się sprawdza kiedy przygotowujemy książeczki do
+druku, bo każda z nich zawiera komplet informacji. Niczego w niej nie brakuje.
+Jednocześnie nie ma w niej informacji o funkcjach, które są niedostępne w naszym
+modelu pralki.</p>
+<p>Ten sposób publikacji jest tak powszechny, że wręcz niezauważalny dla
+użytkownika końcowego. Co wskazuje na to, że sprawdza się bardzo dobrze.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="dlaczego-psuje-wyszukiwanie">Dlaczego psuje wyszukiwanie?<a href="https://techwriter.pl/reuse-zly-dla-searcha#dlaczego-psuje-wyszukiwanie" class="hash-link" aria-label="Bezpośredni link do Dlaczego psuje wyszukiwanie?" title="Bezpośredni link do Dlaczego psuje wyszukiwanie?">​</a></h2>
+<p>Wyobraźmy sobie, że instrukcje do pralek są teraz dostępne online. Zostały
+wrzucone na portal z dokumentacją jako podstrony. Każda książeczka ma nawigację
+po lewej i jest w pełni kompletnym mini portalem ze wszystkim, czego potrzebuje
+użytkownik danego modelu.</p>
+<p>Jeżeli jedną z podstawowych funkcji <strong>każdej</strong> pralki jest płukanie, to na
+naszym portalu mamy stronkę o płukaniu powtórzoną 12 razy. Jeżeli użytkownik
+wpisze w wyszukiwarkę "płukanie" to te 12 stron będzie konkurować o jego uwagę.</p>
+<p><img decoding="async" loading="lazy" alt="Strona z wynikami wyszukiwania. Od góry do dołu widać siedem kart z identycznym wynikiem wyszukiwania. Tytuł każdej karty to &amp;quot;płukanie&amp;quot; a pod spodem fragment pierwszych słów strony, taki sam na każdej karcie. Jedyne czym się różnią karty to wymieniony po tytule model pralki: M-1, MT-1146, itp." src="https://techwriter.pl/assets/images/search-plukanie-d0081770461d9940dc38dfcd2fb347e0.png" width="1366" height="768" class="img_ev3q"></p>
+<p>Być może oprócz strony o tytule "Płukanie" jest następna, na przykład "Problemy
+z płukaniem" albo "Kod błędu: płukanie", ale użytkownik ich tak łatwo nie
+znajdzie, bo będą dużo niżej albo nawet na drugiej czy trzeciej stronie z
+wynikami. Poza tym każda będzie w dwunastu kopiach.</p>
+<p>Więc w tym wypadku to, co dobre dla drukowania jest niedobre dla wyświetlania w
+internecie.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="jak-rozwiązać-ten-problem">Jak rozwiązać ten problem?<a href="https://techwriter.pl/reuse-zly-dla-searcha#jak-rozwi%C4%85za%C4%87-ten-problem" class="hash-link" aria-label="Bezpośredni link do Jak rozwiązać ten problem?" title="Bezpośredni link do Jak rozwiązać ten problem?">​</a></h2>
+<p>Próbowałem znaleźć jakieś przykłady opisujące ten problem. Miałem nadzieję
+znaleźć jakieś pomysły na jego rozwiązanie. Niestety, nie udało mi się. Być może
+takie artykuły gdzieś istnieją, ale w moich wyszukiwaniach znajdowałem tylko
+reklamy narzędzi, które pomagają organizować reuse.</p>
+<p>W kolejnych sekcjach opisuję rozwiązania, które stosowałem do tej pory w swojej
+pracy. Do każdego dodaję komentarz wynikający z doświadczenia.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="publikowanie-strony-tylko-raz">Publikowanie strony tylko raz<a href="https://techwriter.pl/reuse-zly-dla-searcha#publikowanie-strony-tylko-raz" class="hash-link" aria-label="Bezpośredni link do Publikowanie strony tylko raz" title="Bezpośredni link do Publikowanie strony tylko raz">​</a></h2>
+<p>Najprostsze rozwiązanie to opublikować każdą stronę tylko raz. Wtedy pojawi się
+ona w wynikach tylko jeden raz i będzie ją łatwiej spozycjonować. Poza tym
+użytkownik będzie miał mniej problemów z przeglądaniem wyników wyszukiwania.</p>
+<p>Ja osobiście widzę dwa sposoby na osiągnięcie tego celu. Przybliżę je na
+przykładzie dokumentów w formacie DITA, ale to samo odnosi się do innych
+generatorow stron statycznych.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="bez-reusu">Bez reusu<a href="https://techwriter.pl/reuse-zly-dla-searcha#bez-reusu" class="hash-link" aria-label="Bezpośredni link do Bez reusu" title="Bezpośredni link do Bez reusu">​</a></h3>
+<p>Pierwszy to konstruować nasze dokumenty tak, żeby każda strona występowała w
+nich tylko raz. Jeżeli mamy wiele map DITA, które tworzą nasze rozliczne
+dokumenty, <strong>nie możemy powtarzać topików między mapami</strong>.</p>
+<p>Czyli tworzymy osobne mapy dla każdego PDFa i jedną mapę dla naszego portalu
+HTML. Jeżeli są jakieś elementy wspólne, na przykład nasza strona o płukaniu, to
+umieszczany ją w mapie dla HTMLa tylko raz. To oznacza, że opublikujemy jedną
+paczkę stron, która opisuje wszystkie możliwe funkcje wszystkich modeli pralek.
+Żeby pomóc użytkownikowi, na każdej stronie piszemy do których modeli pralek ta
+strona się odnosi.</p>
+<p>Taka forma publikacji może jednak czasem namieszać użytkownikowi w głowie. Może
+to efektywnie doprowadzić do takiej sytuacji jak drukowanie jednej instrukcji
+dla wszystkich modeli pralek i zaznaczanie przy każdej funkcji listy modeli, w
+których jest dostępna. Nie jest to idealne rozwiązanie, ale dosyć często
+spotykane w materiałach drukowanych.</p>
+<p>Skoro jesteśmy online, to możemy dać użytkownikowi przyciski z filtrami, które
+"ukryją" strony do "innych modeli". Ale to wymaga od naszych użytkowników
+głębokiej znajomości naszych produktów i eksperckiego podejścia do korzystania z
+naszej strony (power user!). A to z kolei nie jest coś, czego powinniśmy wymagać
+od naszych użytkowników.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="single-sourcing">Single sourcing<a href="https://techwriter.pl/reuse-zly-dla-searcha#single-sourcing" class="hash-link" aria-label="Bezpośredni link do Single sourcing" title="Bezpośredni link do Single sourcing">​</a></h3>
+<p>Drugi to przetwarzać mapy DITA inaczej dla druku (PDF) a inaczej do internetu
+(HTML). Dla PDFa, powtarzamy tę stronę w każdej mapie, która jej potrzebuje. Z
+tego powstają oczywiście osobne PDFy i powtarzająca się strona nie przeszkadza
+użytkownikowi.</p>
+<p>Natomiast dla HTMLa używamy warunków w mapie, które nie powtarzają tej strony
+tylko umieszczają link do niej. Czyli wygenerujemy osobną paczkę stron dla
+każdego modelu, ale w żadnej paczce nie będzie naszej strony o płukaniu. Ta
+będzie w osobnej paczce zawierającej wszystkie funkcje wspólne.</p>
+<div class="language-xml codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-xml codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag" style="color:#00009f">topicref</span><span class="token tag" style="color:#00009f"> </span><span class="token tag attr-name" style="color:#00a4db">href</span><span class="token tag attr-value punctuation attr-equals" style="color:#393A34">=</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag attr-value" style="color:#e3116c">plukanie.dita</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag" style="color:#00009f"> </span><span class="token tag attr-name" style="color:#00a4db">platform</span><span class="token tag attr-value punctuation attr-equals" style="color:#393A34">=</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag attr-value" style="color:#e3116c">print</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag" style="color:#00009f"> </span><span class="token tag punctuation" style="color:#393A34">/&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag" style="color:#00009f">reltable</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag" style="color:#00009f">relheader</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag" style="color:#00009f">relcolspec</span><span class="token tag" style="color:#00009f"> </span><span class="token tag attr-name" style="color:#00a4db">type</span><span class="token tag attr-value punctuation attr-equals" style="color:#393A34">=</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag attr-value" style="color:#e3116c">task</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag punctuation" style="color:#393A34">/&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag" style="color:#00009f">relcolspec</span><span class="token tag" style="color:#00009f"> </span><span class="token tag attr-name" style="color:#00a4db">type</span><span class="token tag attr-value punctuation attr-equals" style="color:#393A34">=</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag attr-value" style="color:#e3116c">reference</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag punctuation" style="color:#393A34">/&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token tag punctuation" style="color:#393A34">&lt;/</span><span class="token tag" style="color:#00009f">relheader</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag" style="color:#00009f">relrow</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag" style="color:#00009f">relcell</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">      </span><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag" style="color:#00009f">topicref</span><span class="token tag" style="color:#00009f"> </span><span class="token tag attr-name" style="color:#00a4db">href</span><span class="token tag attr-value punctuation attr-equals" style="color:#393A34">=</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag attr-value" style="color:#e3116c">plukanie.dita</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag punctuation" style="color:#393A34">/&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token tag punctuation" style="color:#393A34">&lt;/</span><span class="token tag" style="color:#00009f">relcell</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag" style="color:#00009f">relcell</span><span class="token tag" style="color:#00009f"> </span><span class="token tag attr-name" style="color:#00a4db">linking</span><span class="token tag attr-value punctuation attr-equals" style="color:#393A34">=</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag attr-value" style="color:#e3116c">targetonly</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">      </span><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag" style="color:#00009f">topicref</span><span class="token tag" style="color:#00009f"> </span><span class="token tag attr-name" style="color:#00a4db">href</span><span class="token tag attr-value punctuation attr-equals" style="color:#393A34">=</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag attr-value" style="color:#e3116c">uzyteczne-linki.dita</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag punctuation" style="color:#393A34">/&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token tag punctuation" style="color:#393A34">&lt;/</span><span class="token tag" style="color:#00009f">relcell</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token tag punctuation" style="color:#393A34">&lt;/</span><span class="token tag" style="color:#00009f">relrow</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token tag punctuation" style="color:#393A34">&lt;/</span><span class="token tag" style="color:#00009f">reltable</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Kopiuj do schowka" title="Kopiuj" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<p>To trochę karkołomne rozwiązanie, ale powinno zadziałać. W tym przykładzie,
+<code>topicref</code> kierujący do <code>plukanie.dita</code> pojawi się tylko jeśli akurat budujemy
+PDFa a nie pojawi się w HTMLu.</p>
+<p><code>reltable</code> i zawarty w niej atrybut <code>linking="targetonly"</code> sprawi, że na stronie
+"Użyteczne linki" pojawi się link do "Płukanie", ale nie odwrotnie.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="bonus-magiczna-technologia">BONUS: magiczna technologia<a href="https://techwriter.pl/reuse-zly-dla-searcha#bonus-magiczna-technologia" class="hash-link" aria-label="Bezpośredni link do BONUS: magiczna technologia" title="Bezpośredni link do BONUS: magiczna technologia">​</a></h3>
+<p>Trzeci, magiczny sposób to użyć mechanizmu publikacji, który wykracza poza
+typowe generowanie stron statycznych. Nie możemy polegać na prostym
+transformowaniu mapy DITA na strony HTML. Zamiast tego musimy zbudować system,
+który w jakiś sposób posortuje z zdeduplikuje nasze strony.</p>
+<p>Taki system to nie lada wyzwanie i nie sądzę, żeby taki gdziekolwiek istniał.
+Przynajmniej ja takiego jeszcze nie widziałem, chociaż możliwe, że wkrótce
+rozpoczniemy nad nim pracę w moim obecnym zespole. Jeżeli to się uda, to
+postaram się podzielić ze światem naszym osiągnięciem.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="filtrowanie">Filtrowanie<a href="https://techwriter.pl/reuse-zly-dla-searcha#filtrowanie" class="hash-link" aria-label="Bezpośredni link do Filtrowanie" title="Bezpośredni link do Filtrowanie">​</a></h2>
+<p>Jeśli nie możemy publikować stron tylko raz, kolejną najlepszą opcją jest
+filtrowanie. Dodajmy po lewej stronie panel z checkboxami i pozwólmy
+użytkownikowi wybrać, o której wersji pralki chce poczytać. To nie jest idealne
+rozwiązanie, bo o ile w wypadku pralki, użytkownik prawdopodobnie wie jaki model
+posiada, o tyle w bardziej skomplikowanych systemach wybory filtrów stają się
+trudniejsze. Może dojść do tego, że użytkownik nie będzie wiedział jaki
+"produkt" wybrać, ani co mamy na myśli rozróżniając "wersję" od "wydania". Albo
+czym się różni "komponent" od "części".</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="kolaps">Kolaps<a href="https://techwriter.pl/reuse-zly-dla-searcha#kolaps" class="hash-link" aria-label="Bezpośredni link do Kolaps" title="Bezpośredni link do Kolaps">​</a></h2>
+<p>Ostatnie rozwiązanie, które widziałem w akcji, to zgrupowanie podobnych wyników.
+Czyli jeden wynik o tytule "Płukanie" a pod spodem zwijany akordeon z listą
+innych wersji strony o płukaniu.</p>
+<p><img decoding="async" loading="lazy" alt="Ekran ilustrujący powyższy paragraf: każdy wynik wyszukiwania ma po spodem zwijaną sekcję z napisem &amp;quot;podobne wyniki&amp;quot; a w niej listę stron o tym samym tytule, ale innej wersji" src="https://techwriter.pl/assets/images/search-zwijane-sekcje-6c3b82fafd02f34861e932fdaa8dfc28.png" width="1366" height="768" class="img_ev3q"></p>
+<p>To rozwiązanie ma swoje słabe strony. na przykład to, że rozwijana sekcja może
+stać się bardzo długa i przez to mało pomocna. Jeżeli spróbujemy ją wyposażyć w
+jakieś kontrolki pozwalające wybrać model pralki, to znacznie zwiększymy jej
+poziom skomplikowania.</p>
+<p>Innym problemem jest to, że użytkownicy mogą nie zrozumieć co daje ta sekcja i
+jak jej powinni używać. Dla nas jest oczywiste, że są w niej wymienione
+wszystkie inne instancje tej samej strony w innych modelach pralki. Ale to co
+dla nas jest oczywiste wynika z tego, ze znamy strukturę własnej dokumentacji.</p>
+<p>Generalnie to rozwiązanie nie jest absolutnie najgorsze. Warto go spróbować i
+zebrać feedback od użytkowników.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="nie-ma-złotego-środka">Nie ma złotego środka<a href="https://techwriter.pl/reuse-zly-dla-searcha#nie-ma-z%C5%82otego-%C5%9Brodka" class="hash-link" aria-label="Bezpośredni link do Nie ma złotego środka" title="Bezpośredni link do Nie ma złotego środka">​</a></h2>
+<p>Poradzenie sobie z tym problemem na pewno będzie wymagało głębokiej analizy i
+dostosowania się do wymagań użytkownika. Nie będziemy w stanie znaleźć
+uniwersalnego rozwiązania dla każdego zbioru dokumentacji. Więc jeżeli ktoś
+twierdzi, że ma uniwersalne rozwiązanie, podejdźmy do niego z odrobiną rezerwy.</p>]]></content>
+        <author>
+            <name>Paweł Kowaluk</name>
+        </author>
+        <category label="dobre-praktyki" term="dobre-praktyki"/>
+        <category label="pomoc-użytkownika" term="pomoc-użytkownika"/>
+        <category label="zarządzanie-treścią" term="zarządzanie-treścią"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kilka pytań do – część 31: Wywiad z Mateuszem Barszczem]]></title>
         <id>https://techwriter.pl/kilka-pytan-do-czesc-31</id>
@@ -2434,64 +2571,5 @@ społecznościowych albo napiszcie do nas na <a href="mailto:kontakt@techwriter.
         </author>
         <category label="warsztat" term="warsztat"/>
         <category label="articles-in-english" term="articles-in-english"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zapraszamy na Code Europe 2024]]></title>
-        <id>https://techwriter.pl/zapraszamy-na-code-europe-2024</id>
-        <link href="https://techwriter.pl/zapraszamy-na-code-europe-2024"/>
-        <updated>2024-04-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Z ogromną radością zapraszamy Was na największy festiwal technologiczny w]]></summary>
-        <content type="html"><![CDATA[<p>Z ogromną radością zapraszamy Was na największy festiwal technologiczny w
-Polsce, który w tym roku objęliśmy patronatem medialnym. Poniżej znajdziecie
-najważniejsze informacje.</p>
-<p>Zespół stojący za <a href="https://www.codeeurope.pl/pl/" target="_blank" rel="noopener noreferrer">Code Europe</a> to ludzie, którzy
-czerpią inspirację z technologii i widzą ogromną wartość w możliwości wymiany
-wiedzy i doświadczeń. Dlatego właśnie w 2016 roku stworzyli wydarzenie Code
-Europe, które do tej pory doczekało się kilku edycji.</p>
-<p>Celem wydarzenia jest zainteresowanie uczestników światem technologii i
-możliwościami, jakie daje. Wysoka jakość prelekcji i warsztatów oraz pozytywna
-atmosfera wyróżniają Code Europe na tle podobnych konferencji.</p>
-<p>Uczestnicząc w tym wydarzeniu macie szansę odkryć najnowsze trendy i zdobyć
-kontakty, które mogą pomóc w kształtowaniu Waszej przyszłości w branży
-technologicznej. Na pokładzie jest już ponad 15 000 uczestników, co pokazuje jak
-dużym zainteresowaniem cieszy się festiwal.</p>
-<h1>Dla kogo?</h1>
-<p>Festiwal jest przeznaczony dla wszystkich zainteresowanych technologią,
-programistów, architektów oprogramowania, DevOps, miłośników bezpieczeństwa,
-profesjonalistów zajmujących się produktami, specjalistów od danych i
-entuzjastów kontroli jakości.</p>
-<h1>Dlaczego warto być częścią Code Europe?</h1>
-<ul>
-<li>Ucz się od najlepszych mówców, takich jak Venkat Subramaniam, José Valim,
-Sébastien Chopin, Sven Peters czy Michelle Sandford</li>
-<li>Nawiąż relacje z innymi entuzjastami technologii, które mogą mieć wpływ na
-Twoją ścieżkę kariery.</li>
-<li>Odkryj najgorętsze trendy technologiczne oraz poznaj gigantów branży IT</li>
-</ul>
-<p><img decoding="async" loading="lazy" alt="CE2024_Linkedin_Cover" src="https://techwriter.pl/assets/images/CE2024_Linkedin_Cover-edd839f490f143938a2d9853e75b4fae.png" width="1128" height="191" class="img_ev3q"></p>
-<h1>Najważniejsze informacje</h1>
-<p>Code Europe odbędzie się <strong>10–11 czerwca 2024 r. w ICE Kraków</strong>. Topowi
-prelegenci z branży IT przez 2 dni będą się z Wami dzielić swoją wiedzą i
-doświadczeniem podczas ponad 50 warsztatów.</p>
-<p>Oficjalne rozpoczęcie Code Europe odbędzie się o godzinie 9:30. Ostatnia sesja
-zacznie się około 16:00 pierwszego dnia i 16:00 drugiego dnia.</p>
-<p>Po zakończeniu pierwszego dnia festiwalu odbędzie się impreza Afterparty, dla
-wszystkich uczestników, partnerów oraz prelegentów.</p>
-<p>Szczegółowy harmonogram znajdziecie
-<a href="https://www.codeeurope.pl/pl/agenda" target="_blank" rel="noopener noreferrer">na stronie wydarzenia</a>.</p>
-<p><img decoding="async" loading="lazy" alt="CE2024_Promo_Code" src="https://techwriter.pl/assets/images/CE2024_Promo_Code-4b452d819e5e789d19c1640e306c4e3c.png" width="900" height="449" class="img_ev3q"></p>
-<p>W ramach patronatu mamy dla Was <strong>20% zniżki</strong> na kod <strong>techwriter20</strong>.</p>
-<p>Rodzaje biletów i cennik znajdziecie
-<a href="https://www.codeeurope.pl/pl/kup-bilet" target="_blank" rel="noopener noreferrer">na stronie wydarzenia</a>.</p>
-<p>Wszystkim uczestnikom życzymy dobrych wrażeń!</p>]]></content>
-        <author>
-            <name>Agnieszka Gaworska</name>
-        </author>
-        <category label="news" term="news"/>
-        <category label="z-kraju" term="z-kraju"/>
-        <category label="kariera" term="kariera"/>
-        <category label="konferencje" term="konferencje"/>
-        <category label="społeczność" term="społeczność"/>
-        <category label="technologie" term="technologie"/>
     </entry>
 </feed>
