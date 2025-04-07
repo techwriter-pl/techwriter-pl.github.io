@@ -1,7 +1,7 @@
 ---
 title: 'Kurde! Reuse popsuł mi searcha'
 authors: pensjonatus
-date: '2025-04-12'
+date: '2025-04-07'
 tags:
   - 'dobre-praktyki'
   - 'pomoc-użytkownika'
