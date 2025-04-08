@@ -10,7 +10,7 @@ coverImage: 'kurde-reuse.png'
 ---
 
 Reuse wydaje się być Świętym Graalem technical writingu, ale w tym artykule
-chciałbym pokazać, ta popularna praktyka może zepsuć wyniki wyszukiwania.
+chciałbym pokazać, jak ta popularna praktyka może zepsuć wyniki wyszukiwania.
 
 <!-- truncate -->
 
