@@ -1,7 +1,7 @@
 ---
 title: 'Interview with Mateusz Barszcz'
 authors: niewiarowski
-date: '2025-04-04'
+date: '2025-04-15'
 tags:
   - 'warsztat'
   - 'wywiady'
