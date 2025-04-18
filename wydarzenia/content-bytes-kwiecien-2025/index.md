@@ -34,7 +34,7 @@ W swojej prezentacji Paweł przedstawi ContentOps jako wspólny mianownik dla wi
 
 **Paweł Kowaluk**
 
-Paweł zajmuje się szeroko pojętym contentem od 2008 roku, obecnie pracując jako doc tool developer w Guidewire Software. W swojej karierze był już technical writerem, product ownerem, team leaderem, programistą, kierownikiem technicznym, konsultantem oraz architektem informacji. Obecnie jego praca skupia się na ContentOps oraz powiązanych tematach. Paweł jest także współwłaścicielem i twórcą [techwriter.pl](https://techwriter.pl) oraz [techwriterkoduje.pl](https://techwriterkoduje.pl).
+Paweł zajmuje się szeroko pojętym contentem od 2008 roku, obecnie pracując jako doc tool developer w Guidewire Software. W swojej karierze był już technical writerem, product ownerem, team leaderem, programistą, kierownikiem technicznym, konsultantem oraz architektem informacji. Obecnie jego praca skupia się na ContentOps oraz powiązanych tematach. Paweł jest także współwłaścicielem [techwriter.pl](https://techwriter.pl) oraz [techwriterkoduje.pl](https://techwriterkoduje.pl).
 
 ## Kiedy i gdzie
 
