@@ -12,8 +12,8 @@ coverImage: 'ContentBytesKRK7.png'
 
 # Content Bytes #7: Porozmawiajmy o ContentOps!
 
-Osobom żyjącym w świecie IT termin „DevOps” z pewnością nie jest obcy. Fani filmów akcji kojarzą też nieustraszone oddziały SpecialOps. A jak do tego wszystkiego ma się ContentOps?
-Jeżeli już zaczęliście sobie wyobrażać twórców contentu szturmujących tajną siedzibę przeciwników Microsoft Manual of Style, to najwyższy czas na odwiedzenie kolejnego meetupu Content Bytes!
+Osobom obracającym się w świecie IT termin „DevOps” z pewnością nie jest obcy. Fani filmów akcji kojarzą też nieustraszone oddziały SpecialOps. A jak do tego wszystkiego ma się ContentOps?
+Jeżeli już zaczęliście sobie wyobrażać twórców contentu szturmujących tajną siedzibę przeciwników Microsoft Manual of Style, to koniecznie wpadnijcie na kolejny meetup Content Bytes!
 
 Nie zapomnijcie się zapisać, pomoże nam to w zaplanowaniu poczęstunku. [Zapisz się!](https://lu.ma/c6p3ckg5).
 
@@ -28,7 +28,7 @@ Zapraszamy do [Forte Spaces](https://www.fortespaces.pl/)!
 **_Czym jest ContentOps i co ja z tego będę mieć?_**
 
 Publikowanie treści można rozpatrywać pod wieloma kątami, biorąc pod uwagę wiele ról zaangażowanych w to przedsięwzięcie.
-W swojej prezentacji Paweł przedstawi ContentOps jako wspólny mianownik dla wielu contentowych procesów, a potem pokaże wam jak wiedza w tym temacie przekłada się na tworzenie lepszych treści oraz podejście do pracy i rozwoju kariery.
+W swojej prezentacji Paweł przedstawi ContentOps jako wspólny mianownik dla wielu contentowych procesów, a potem pokaże jak wiedza w tym temacie przekłada się na tworzenie lepszych treści oraz podejście do pracy i rozwoju kariery.
 
 ## Prelegenci
 
