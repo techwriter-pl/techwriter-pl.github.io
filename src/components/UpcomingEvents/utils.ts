@@ -14,7 +14,6 @@ function getEventDetails(
   const parser = new XMLParser({ ignoreAttributes: false });
   const output = parser.parse(xml);
 
-  console.log({ feed: output.feed.entry });
   const events: EventDetails[] = output.feed.entry
     .slice(0, 3)
     .map((entryInfo) => ({
