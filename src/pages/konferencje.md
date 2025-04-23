@@ -169,6 +169,14 @@ branży komunikacji technicznej w 2025.
 - Online
 - https://www.balisage.net/index.html
 
+## Wrzesień
+
+### CAKE conf
+
+- 19-20.09.2025
+- Kraków, Poland
+- https://cakeconf.contentbytes.pl/
+
 ## Październik
 
 ### World Usability Congress
