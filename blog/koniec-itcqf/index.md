@@ -36,7 +36,7 @@ związanych z tworzeniem dokumentacji technicznej.
 
 ## Co dalej?
 
-Zapewne zastanawiacie się co się dalej stanie z programem certyfikacji spod
+Zapewne zastanawiacie się, co się dalej stanie z programem certyfikacji spod
 znaku ITCQF.
 
 Materiały edukacyjne zostaną udostępnione za darmo, żeby każdy mógł z nich
