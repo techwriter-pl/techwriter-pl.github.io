@@ -19,11 +19,6 @@ const partners: PartnerProps[] = [
     imageSrc: require('./img/content-bytes.png').default,
   },
   {
-    label: 'ITCQF - link do strony',
-    link: 'https://itcqf.org/',
-    imageSrc: require('./img/itcqf.png').default,
-  },
-  {
     label: 'Komunikacja techniczna - link do strony Vistula',
     link: 'https://www.vistula.edu.pl/kierunki-studiow/kontynuacja-edukacji/studia-podyplomowe/informatyka/komunikacja-techniczna',
     imageSrc: require('./img/vistula_logo.jpg').default,
