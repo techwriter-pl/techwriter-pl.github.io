@@ -16,7 +16,7 @@ Po 10 latach, International Technical Communication Qualifications Foundation
 <!-- truncate -->
 
 Przyjąłem tę wiadomość z dużym smutkiem, ponieważ od samego początku z bliska
-obserwowałem poczynania fundacji. Najpierw jako trener, miałem szansę dzielić
+obserwowałem poczynania fundacji. Najpierw jako trener miałem szansę dzielić
 się swoją wiedzą z uczestnikami szkoleń, a następnie jako członek zarządu miałem
 zaszczyt pomagać w promocji fundacji. Ta działalność pozwoliła mi zobaczyć w
 praktyce jak bardzo wartościowe i potrzebne było (i nadal jest) szkolenie
