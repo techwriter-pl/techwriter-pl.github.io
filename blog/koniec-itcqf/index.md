@@ -30,7 +30,7 @@ fundacja podjęła decyzję o zakończeniu działalności, ponieważ nie była w
 osiągnąć założonych celów w obszarze edukacji i certyfikacji w komunikacji
 technicznej.
 
-Brzmi to dość pesymistycznie, ale według mnie ITCQF odegrał ważną rolę w
+Brzmi to dość pesymistycznie, ale według mnie ITCQF odegrała ważną rolę w
 szerzeniu wiedzy na temat naszej branży oraz standardów i dobrych praktyk
 związanych z tworzeniem dokumentacji technicznej.
 
