@@ -10,7 +10,7 @@ type PartnerProps = {
 };
 
 export const contentBytesUrl =
-  'https://www.linkedin.com/company/content-bytes/about/';
+  'https://contentbytes.pl/';
 
 const partners: PartnerProps[] = [
   {
