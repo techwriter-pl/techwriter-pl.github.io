@@ -56,7 +56,12 @@ export default function BlogHome(props): JSX.Element {
                   </div>
                   <div>
                     <BlogPostContent />{' '}
-                    <Link to={permalink}>...czytaj dalej</Link>
+                    <Link
+                      to={permalink}
+                      className="button button--primary button--sm"
+                    >
+                      ...czytaj dalej
+                    </Link>
                   </div>
                   <CoverImage permalink={permalink} coverImage={coverImage} />
                 </div>

@@ -269,7 +269,10 @@ function ConferenceList({ conferences, archived }: ConferenceListProps) {
         margin: '2rem 0',
         background: archived
           ? 'linear-gradient(90deg,rgba(150, 150, 150, 1) 0%, rgba(94, 99, 95, 1) 50%, rgba(36, 36, 33, 1) 100%)'
-          : 'linear-gradient(90deg,var(--tech-writer-blue) 0%, rgba(148, 168, 155, 1) 50%, var(--tech-writer-impact-color) 100%)',
+          : 'linear-gradient(70deg,var(--tech-writer-blue) 0%, rgba(148, 168, 155, 1) 50%, var(--tech-writer-yellow) 100%)',
+        borderImage:
+          'linear-gradient(var(--angle), var(--tech-writer-yellow), var(--tech-writer-blue)) 1',
+        borderWidth: '4px',
       }}
     >
       {conferences.map(

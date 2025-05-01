@@ -3,7 +3,8 @@
 /* You can override the default Infima variables here. */
 :root {
   --tech-writer-blue: #0dc7ed;
-  --tech-writer-impact-color: #f5bf03;
+  --tech-writer-yellow: #f5bf03;
+  --tech-writer-yellow-light: #fdd851;
   --ifm-color-primary: var(--tech-writer-blue);
   --ifm-color-primary-dark: #0baccc;
   --ifm-color-primary-darker: #0aa0be;
@@ -30,6 +31,18 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
+@property --angle {
+  syntax: '<angle>';
+  initial-value: 0deg;
+  inherits: false;
+}
+
+@keyframes rotate {
+  to {
+    --angle: 360deg;
+  }
+}
+
 .button {
   text-transform: uppercase;
   font-weight: 600;
@@ -37,12 +50,49 @@
   color: black;
 }
 
+.button--primary {
+  --angle: 0deg;
+  background: linear-gradient(
+    30deg,
+    var(--ifm-color-primary-dark) 0%,
+    var(--ifm-color-primary-lighter) 50%,
+    var(--tech-writer-yellow) 100%
+  );
+  border-image: linear-gradient(
+      var(--angle),
+      var(--tech-writer-yellow),
+      var(--tech-writer-blue)
+    )
+    1;
+  border-width: 4px;
+}
+
+.button--primary:hover {
+  transform: scale(1.1);
+  animation: 4s rotate linear infinite;
+}
+
 .button--secondary {
-  background-color: var(--tech-writer-impact-color);
+  --angle: 0deg;
+  background: linear-gradient(
+    120deg,
+    var(--tech-writer-yellow),
+    var(--tech-writer-yellow-light),
+    var(--tech-writer-blue)
+  );
+  border-image: linear-gradient(
+      var(--angle),
+      var(--tech-writer-blue),
+      var(--tech-writer-yellow)
+    )
+    1;
+  border-width: 4px;
 }
 
 .button--secondary:hover {
   color: white;
+  transform: scale(1.1);
+  animation: 4s rotate linear infinite;
 }
 
 a,
