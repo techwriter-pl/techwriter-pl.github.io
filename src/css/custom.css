@@ -54,9 +54,8 @@
   --angle: 0deg;
   background: linear-gradient(
     30deg,
-    var(--ifm-color-primary-dark) 0%,
-    var(--ifm-color-primary-lighter) 50%,
-    var(--tech-writer-yellow) 100%
+    var(--ifm-color-primary-dark) 45%,
+    var(--tech-writer-yellow)
   );
   border-image: linear-gradient(
       var(--angle),
