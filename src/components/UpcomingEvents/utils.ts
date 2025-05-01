@@ -1,5 +1,5 @@
+import { isDateInFuture } from '@site/src/lib/date-utils';
 import { XMLParser } from 'fast-xml-parser';
-import { isDateInFuture } from '../EventsBlogList/EventsBlogList';
 
 export type EventDetails = {
   title: string;
@@ -23,7 +23,7 @@ function getEventDetails(
     }));
 
   if (onlyFutureEvents) {
-    return events.filter((event) => isDateInFuture(event.date.toString()));
+    return events.filter((event) => isDateInFuture(event.date));
   }
 
   return events;
