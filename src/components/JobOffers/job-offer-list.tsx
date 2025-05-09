@@ -18,6 +18,29 @@ export const jobOffers: JobOfferProps[] = [
       Nie jest to oferta płatnej pracy, ale może dać Ci dużo innych korzyści.`,
   },
   {
+    title: 'Specjalista ds. Dokumentacji Technicznej – Technical Writer',
+    company: 'GREY PARTNERS POLAND SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ',
+    link: 'https://www.pracuj.pl/praca/specjalista-ds-dokumentacji-technicznej-technical-writer-poznan,oferta,1004085858',
+    location: 'Poznań',
+    type: 'hybrydowo',
+    description: `#### Tworzenie, aktualizacja i redagowanie dokumentacji technicznej, w tym:
+    
+- instrukcji użytkowania,
+- etykiet,
+- dokumentów produktowych.
+
+#### Wymagania:
+
+- Znajomość języka angielskiego,
+- Doświadczenie w dokumentacji technicznej,
+- Znajomość narzędzi takich jak XML, Adobe InDesign, MS Office.
+
+#### Mile widziane:
+
+- Doświadczenie z CAD,
+- Znajomość "Technical Simplified English".`,
+  },
+  {
     title: 'Open Source Technical Writer',
     company: 'Antmicro',
     link: 'https://careers.antmicro.com/jobs/technical-writer/',
@@ -41,20 +64,5 @@ Z ciekawszych wymagań, oferta wymienia dobrą znajomość zasad naukowych (scie
 - Branża: energetyczna, transformatory
 - Kluczowe wymagania: bardzo dobra znajomość języka angielskiego, doświadczenie w tworzeniu zrozumiałej dokumentacji technicznej, 
 - Mile widziana znajomość: podręczników stylu i standardów pisania w języku angielskim, podejścia docs-as-code, narzędzi do tworzenia dokumentacji i systemów zarządzania treścią, Git, Azure DevOps.`,
-  },
-  {
-    title: 'Technical Writer with German',
-    company: 'Etteplan',
-    link: 'https://emp.jobylon.com/jobs/271520-etteplan-technical-writer-with-german/',
-    location: 'Wrocław, Katowice, Poznań, Gdańsk',
-    type: 'hybrydowo',
-    description: `Najważniejsze informacje o ofercie:
-- Kluczowe wymagania: biegła znajomość języka niemieckiego i angielskiego, doświadczenie w dokumentacji technicznej, znajomość XML/DITA/S1000D
-
-Etteplan oferuje:
-- Pracę w międzynarodowym środowisku 
-- Pakiet benefitów (opieka medyczna, Multisport, ubezpieczenie grupowe)
-- Elastyczne godziny pracy 
-- Szkolenia i możliwości rozwoju`,
   },
 ];
