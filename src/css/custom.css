@@ -116,3 +116,7 @@ h5,
 h6 {
   font-family: var(--nice-heading-font) !important;
 }
+
+.DocSearch-Button-Placeholder {
+  color: black;
+}
