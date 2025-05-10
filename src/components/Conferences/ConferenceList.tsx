@@ -1,7 +1,7 @@
 import Link from '@docusaurus/Link';
 import logo from '@site/static/img/logo-square.png';
 import { ConferenceDateDisplay } from './ConferenceDateDisplay';
-import { Conference } from './ListOfConferences';
+import { Conference } from './Conferences';
 
 type ConferenceListProps = {
   conferences: Conference[];

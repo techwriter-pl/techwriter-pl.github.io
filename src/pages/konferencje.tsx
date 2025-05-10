@@ -1,12 +1,15 @@
 import { ConferenceList } from '@site/src/components/Conferences/ConferenceList';
-import { conferences } from '@site/src/components/Conferences/ListOfConferences';
+import { conferences } from '@site/src/components/Conferences/Conferences';
 import Layout from '@theme/Layout';
 import { CSSProperties, useState } from 'react';
 import { isDateInFuture } from '../lib/date-utils';
 
+type TypeFilter = 'all' | 'online' | 'in-person';
+type LocationFilter = 'all' | 'poland' | 'international';
+
 export default function Konferencje() {
-  const [filterType, setFilterType] = useState('all');
-  const [filterLocation, setFilterLocation] = useState('all');
+  const [filterType, setFilterType] = useState<TypeFilter>('all');
+  const [filterLocation, setFilterLocation] = useState<LocationFilter>('all');
 
   const filteredConferences = conferences.filter((conf) => {
     const matchesType =
@@ -25,13 +28,12 @@ export default function Konferencje() {
   const pastConferences = filteredConferences.filter(
     (conf) => !isDateInFuture(conf.endDate)
   );
+  pastConferences.sort((a, b) => (a.startDate > b.endDate ? -1 : 1));
 
   const futureConferences = filteredConferences.filter((conf) =>
     isDateInFuture(conf.endDate)
   );
-
   futureConferences.sort((a, b) => (a.startDate > b.endDate ? 1 : -1));
-  pastConferences.sort((a, b) => (a.startDate > b.endDate ? -1 : 1));
 
   const filterStyles: CSSProperties = { display: 'flex', gap: '1rem' };
 
@@ -54,7 +56,7 @@ export default function Konferencje() {
               Typ konferencji:
               <select
                 value={filterType}
-                onChange={(e) => setFilterType(e.target.value)}
+                onChange={(e) => setFilterType(e.target.value as TypeFilter)}
               >
                 <option value="all">Wszystkie</option>
                 <option value="online">Online</option>
@@ -66,7 +68,9 @@ export default function Konferencje() {
               Lokalizacja:
               <select
                 value={filterLocation}
-                onChange={(e) => setFilterLocation(e.target.value)}
+                onChange={(e) =>
+                  setFilterLocation(e.target.value as LocationFilter)
+                }
               >
                 <option value="all">Wszystkie</option>
                 <option value="poland">Polska</option>
