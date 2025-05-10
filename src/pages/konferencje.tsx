@@ -28,12 +28,12 @@ export default function Konferencje() {
   const pastConferences = filteredConferences.filter(
     (conf) => !isDateInFuture(conf.endDate)
   );
-  pastConferences.sort((a, b) => (a.startDate > b.endDate ? -1 : 1));
+  pastConferences.sort((a, b) => (a.startDate > b.startDate ? -1 : 1));
 
   const futureConferences = filteredConferences.filter((conf) =>
     isDateInFuture(conf.endDate)
   );
-  futureConferences.sort((a, b) => (a.startDate > b.endDate ? 1 : -1));
+  futureConferences.sort((a, b) => (a.startDate > b.startDate ? 1 : -1));
 
   const filterStyles: CSSProperties = { display: 'flex', gap: '1rem' };
 
