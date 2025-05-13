@@ -53,16 +53,5 @@ Firma pisze o obie tak:
 > We enable Artificial Intelligence at the edge, create complex IoT systems and build robots, drones and other intelligent devices for customers around the globe thanks to our extensive in-house R&D.
  
 Z ciekawszych wymagań, oferta wymienia dobrą znajomość zasad naukowych (scientific principles). Dodatkowym plusem będzie znajomość Pythona i Gita, chociaż nie jest to absolutnie wymagane.`,
-  },
-  {
-    title: 'Senior R&D Technical Writer',
-    company: 'Hitachi Energy',
-    link: 'https://www.hitachienergy.com/careers/open-jobs/details/JID3-121956',
-    location: 'Łódź',
-    type: 'hybrydowo',
-    description: `Najważniejsze informacje o ofercie:
-- Branża: energetyczna, transformatory
-- Kluczowe wymagania: bardzo dobra znajomość języka angielskiego, doświadczenie w tworzeniu zrozumiałej dokumentacji technicznej, 
-- Mile widziana znajomość: podręczników stylu i standardów pisania w języku angielskim, podejścia docs-as-code, narzędzi do tworzenia dokumentacji i systemów zarządzania treścią, Git, Azure DevOps.`,
-  },
+  }
 ];
