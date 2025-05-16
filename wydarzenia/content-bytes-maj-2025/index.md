@@ -23,7 +23,7 @@ Wydarzenie odbędzie się 21 maja na Uniwersytecie Jagiellońskim.
 
 [Barbara](https://www.linkedin.com/in/barbura-adamska/) zapewni nam sporą dozę superbohaterskiej energii, pokazując, że tworzenie treści to prawdziwa supermoc w walce o cyfrową dostępność i lepsze doświadczenie użytkownika.
 
-Nie zapomnijcie się zapisać - pomoże nam to w zapewnieniu odpowiedniej ilości pizzy: [Link do zapisów](https://lu.ma/vnnxohf3).
+Nie zapomnijcie się zapisać - pomoże nam to w zapewnieniu odpowiedniej ilości pizzy. [Zapisz się!](https://lu.ma/vnnxohf3).
 
 ## Tematy
 
