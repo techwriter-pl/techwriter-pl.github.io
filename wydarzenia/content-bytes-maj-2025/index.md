@@ -46,7 +46,7 @@ Michał to technical writer z wyboru, pasjonat dobrego jedzenia, gier komputerow
 
 **Barbara Adamska**
 
-Barbara pracuje jako Service Design Lead w CCC Group. Na codzień UX writerka, a także propagatorka i championka dostępności cyfrowej. Po pracy - wielbicielka gier i piosenkarka.
+Barbara pracuje jako Service Design Lead w CCC Group. Na co dzień UX writerka, a także propagatorka i championka dostępności cyfrowej. Po pracy - wielbicielka gier i piosenkarka.
 
 ## Kiedy i gdzie
 
