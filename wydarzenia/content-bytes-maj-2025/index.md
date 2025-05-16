@@ -35,7 +35,7 @@ Jeśli wy też bronicie dokumentacyjnego fortu w pojedynkę, ta prezentacja zdec
 
 **_Tworzenie contentu twoją supermocą w walce o dostępność treści_**
 
-Twórcy treści mają potencjał, by stać się bohaterami cyfrowej dostępności sprawiając, że serwisy internetowe uwzględnią różnorodne potrzeby użytkowników. Słyszeliśmy już o dostępnej dokumentacji czy wykorzystaniu uproszczonego języka, ale czasem zapominamy, że po niektóre rozwiązania trzeba sięgnąć głęboko do kodu. W trakcie prezentacji porozmawiamy o niewidzialnym na pierwszy rzut oka microcopy, na którym polegają nasi użytkownicy, poznamy szczegóły procesu lokalizacji oraz sprawdzimy, jak wytyczne Web Content Accessibility Guidelines (WCAG) pomogą nam w tworzeniu treści.
+Twórcy treści mają potencjał, by stać się bohaterami cyfrowej dostępności i sprawić, że serwisy internetowe uwzględnią różnorodne potrzeby użytkowników. Słyszeliśmy już o dostępnej dokumentacji czy wykorzystaniu uproszczonego języka, ale czasem zapominamy, że po niektóre rozwiązania trzeba sięgnąć głęboko do kodu. W trakcie prezentacji porozmawiamy o niewidzialnym na pierwszy rzut oka microcopy, na którym polegają nasi użytkownicy, poznamy szczegóły procesu lokalizacji oraz sprawdzimy, jak wytyczne Web Content Accessibility Guidelines (WCAG) pomogą nam w tworzeniu treści.
 
 
 ## Prelegenci
