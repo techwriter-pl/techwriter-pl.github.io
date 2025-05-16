@@ -29,7 +29,7 @@ Nie zapomnijcie się zapisać - pomoże nam to w zapewnieniu odpowiedniej ilośc
 
 **_Okiełznać startupowy chaos: Jak ujednolicić treść, ton i narzędzia dokumentacyjne_**
 
-Rola pierwszego i jedynego technical writera przypomina puzzle z brakującą połową elementów, a druga połowa właśnie zaczyna płonąć. W swojej prezentacji Michał pokaże wam, jak udało mu się uporządkować ten dokumentacyjny rozgardiasz, nadać mu jednolity ton oraz wdrożyć narzędzia, które skutecznie zapobiegają dalszemu pogrążaniu się w chaosie. Porządki to często kwesta kilku(nastu) iteracji i niekończący się proces, ale to chyba też część zabawy ¯\_(ツ)_/¯.
+Rola pierwszego i jedynego technical writera przypomina układanie puzzli, przy czym połowy elementów brakuje, a druga połowa właśnie zaczyna płonąć. W swojej prezentacji Michał pokaże wam, jak udało mu się uporządkować ten dokumentacyjny rozgardiasz, nadać mu jednolity ton oraz wdrożyć narzędzia, które skutecznie zapobiegają dalszemu pogrążaniu się w chaosie. Porządki to często kwesta kilku(nastu) iteracji i niekończący się proces, ale to chyba też część zabawy ¯\_(ツ)_/¯.
 Jeśli wy też bronicie dokumentacyjnego fortu w pojedynkę, ta prezentacja zdecydowanie jest dla was!
 
 
