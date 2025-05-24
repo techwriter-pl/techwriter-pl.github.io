@@ -2,11 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://techwriter.pl/</id>
     <title>techwriter.pl Blog</title>
-    <updated>2025-05-01T00:00:00.000Z</updated>
+    <updated>2025-05-23T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://techwriter.pl/"/>
     <subtitle>techwriter.pl Blog</subtitle>
     <icon>https://techwriter.pl/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[CAKE conf: Call for speakers]]></title>
+        <id>https://techwriter.pl/cakeconf-call-for-speakers</id>
+        <link href="https://techwriter.pl/cakeconf-call-for-speakers"/>
+        <updated>2025-05-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Zastanawiacie się, kto wystąpi na CAKE conf? Zajrzyjcie na stronę cakeconf.contentbytes.pl i poznajcie prelegentów, którzy podzielą się z Wami swoją wiedzą. Lista cały czas rośnie, bo zależy nam na różnorodnej tematyce z obszaru tworzenia treści.]]></summary>
+        <content type="html"><![CDATA[<p>Zastanawiacie się, kto wystąpi na CAKE conf? Zajrzyjcie na stronę <a href="https://cakeconf.contentbytes.pl/#speakers" target="_blank" rel="noopener noreferrer">cakeconf.contentbytes.pl</a> i poznajcie prelegentów, którzy podzielą się z Wami swoją wiedzą. Lista cały czas rośnie, bo zależy nam na różnorodnej tematyce z obszaru tworzenia treści.</p>
+<p>A może to właśnie Ty chcesz wystąpić na scenie CAKE conf?</p>
+<p>To idealna okazja, aby w przyjaznej atomosferze przedstawić swój temat contentowej społeczności.
+Wypełnij <a href="https://forms.gle/H2Qm7T7ijvifD9hy8" target="_blank" rel="noopener noreferrer">formularz dla prelegentów</a> i podziel się z nami tym, co Cię inspiruje.</p>
+<p>Na zgłoszenia czekamy do <strong>30 czerwca</strong>.</p>
+<p>Przypominamy, że nadal możecie kupić <a href="https://cakeconf.contentbytes.pl/tickets" target="_blank" rel="noopener noreferrer">bilety z puli regular birds</a>.</p>]]></content>
+        <author>
+            <name>Barbara Czyż</name>
+        </author>
+        <category label="konferencja" term="konferencja"/>
+        <category label="warsztat" term="warsztat"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zapraszamy na Code Europe 2025]]></title>
         <id>https://techwriter.pl/code-europe-2025</id>
@@ -2260,97 +2278,5 @@ bez niego <strong>#ContentDay</strong> nie doszedłby do skutku.</p>
         <category label="news" term="news"/>
         <category label="meetcontent" term="meetcontent"/>
         <category label="społeczność" term="społeczność"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stowarzyszenie Autorów i Ilustratorów Technicznych (SAIiT) - Wywiad z Łukaszem Rybką]]></title>
-        <id>https://techwriter.pl/saiit-wywiad</id>
-        <link href="https://techwriter.pl/saiit-wywiad"/>
-        <updated>2024-06-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Czy autorzy techniczni stanowią osobną grupę zawodową? 🤔 Dla wszystkich pracujących w tej branży z pewnością odpowiedź jest oczywista 💡]]></summary>
-        <content type="html"><![CDATA[<p>Czy autorzy techniczni stanowią osobną grupę zawodową? 🤔 Dla wszystkich pracujących w tej branży z pewnością odpowiedź jest oczywista 💡</p>
-<p>Okazuje się jednak, że poza branżą nie jest to już takie pewne. W Polsce Technical Writerzy nie są postrzegani w kategoriach samodzielnej profesji. Nasza praca często zaliczana jest do bardziej ogólnej kategorii: "usługi w sektorze IT".</p>
-<p>A to niesie za sobą pewne konsekwencje.</p>
-<p>I o tym dziś będziemy rozmawiać z <a href="https://www.linkedin.com/in/%C5%82ukasz-rybka-364a81190/" target="_blank" rel="noopener noreferrer">Łukaszem Rybką</a>, pomysłodawcą i założycielem Stowarzyszenia Autorów i Ilustratorów Technicznych (SAIiT), który działa bardzo aktywnie, promując ideę stowarzyszenia wśród społeczności dokumentalistów.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="o-inicjatorze">O inicjatorze<a href="https://techwriter.pl/saiit-wywiad#o-inicjatorze" class="hash-link" aria-label="Bezpośredni link do O inicjatorze" title="Bezpośredni link do O inicjatorze">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="opowiedz-nam-o-sobie-w-kilku-zdaniach-jak-długo-zajmujesz-się-komunikacją-techniczną-jaka-była-twoja-droga-do-tego-zawodu-i-co-teraz-robisz">Opowiedz nam o sobie w kilku zdaniach, jak długo zajmujesz się komunikacją techniczną, jaka była Twoja droga do tego zawodu i co teraz robisz?<a href="https://techwriter.pl/saiit-wywiad#opowiedz-nam-o-sobie-w-kilku-zdaniach-jak-d%C5%82ugo-zajmujesz-si%C4%99-komunikacj%C4%85-techniczn%C4%85-jaka-by%C5%82a-twoja-droga-do-tego-zawodu-i-co-teraz-robisz" class="hash-link" aria-label="Bezpośredni link do Opowiedz nam o sobie w kilku zdaniach, jak długo zajmujesz się komunikacją techniczną, jaka była Twoja droga do tego zawodu i co teraz robisz?" title="Bezpośredni link do Opowiedz nam o sobie w kilku zdaniach, jak długo zajmujesz się komunikacją techniczną, jaka była Twoja droga do tego zawodu i co teraz robisz?">​</a></h3>
-<p>Najtrudniejsze pytanie na początek? 🙂 Zawodowo przygodę z dokumentacją techniczną zacząłem w 2011 roku. Swoje pierwsze kroki w tej branży stawiałem w firmie Whirlpool, gdzie tworzyliśmy instrukcje do zmywarek, zarządzaliśmy tłumaczeniami, rysunkami czy sprawdzaliśmy prawidłowość zamówień, tak zwanych <em>BOMów</em> (BOM materiałowy to z angielskiego <em>Bill of Materials</em>, czyli dokument opisujący wszystkie niezbędne środki do wykonania konkretnego procesu produkcyjnego), itp.</p>
-<p>Tam zetknąłem się z procesami okołoprodukcyjnymi w dużej firmie. W 2017 roku zacząłem pracę w firmie Etteplan, gdzie zajmowałem się różnymi rodzajami dokumentacji a także outsourcingiem dokumentacji technicznej. W ciągu tych prawie 7 lat było mi dane pracować z dokumentacją do niezliczonej liczby urządzeń, oprogramowania i maszyn. To też była przygoda z wieloma narzędziami do tworzenia i zarządzania treścią. Od tych najprostszych, aż po wielkie “kombajny” 🙂</p>
-<p>Od marca br. prowadzę własną działalność gospodarczą w zakresie tworzenia dokumentacji, doradzam klientom w tej dziedzinie i prowadzę szkolenia z zakresu obsługi oprogramowania i pisania.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="idea">Idea<a href="https://techwriter.pl/saiit-wywiad#idea" class="hash-link" aria-label="Bezpośredni link do Idea" title="Bezpośredni link do Idea">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="opowiedz-nam-o-początkach-projektu-stowarzyszenia-jak-to-się-stało-że-zacząłeś-myśleć-o-takiej-formie-organizacyjnej">Opowiedz nam o początkach projektu stowarzyszenia. Jak to się stało, że zacząłeś myśleć o takiej formie organizacyjnej?<a href="https://techwriter.pl/saiit-wywiad#opowiedz-nam-o-pocz%C4%85tkach-projektu-stowarzyszenia-jak-to-si%C4%99-sta%C5%82o-%C5%BCe-zacz%C4%85%C5%82e%C5%9B-my%C5%9Ble%C4%87-o-takiej-formie-organizacyjnej" class="hash-link" aria-label="Bezpośredni link do Opowiedz nam o początkach projektu stowarzyszenia. Jak to się stało, że zacząłeś myśleć o takiej formie organizacyjnej?" title="Bezpośredni link do Opowiedz nam o początkach projektu stowarzyszenia. Jak to się stało, że zacząłeś myśleć o takiej formie organizacyjnej?">​</a></h3>
-<p>Moje pierwsze pomysły powstania takiego stowarzyszenia narodziły się w 2017 roku, gdy okazało się, że zawód autora technicznego w Polsce formalnie nie istnieje.</p>
-<p>Z tego powodu, nie do końca jasne było, jak zakwalifikować naszą profesję i ją zgłosić do Urzędu Pracy czy do ZUS. Kiedy ktoś pytał o mój zawód, odpowiedź niejednokrotnie wywoływała zdziwienie w oczach ludzi: co to za profesja?</p>
-<p>Pamiętam, jak wiele trudności sprawiało i nadal sprawia, rekrutowanie. Spore rozbieżności w nazywaniu stanowisk potrafią wyprowadzić z równowagi niejedną osobę z dużym doświadczeniem w rekrutacji. Pamiętam jak wiele czasu i rozmów poświęciliśmy w zespole na wypracowanie standardów i kryteriów jakie powinni spełniać kandydaci na stanowisko autora technicznego.</p>
-<p>Wiele problemów przyniosła zmiana interpretacji “pracy twórczej” przez Krajową Administrację Skarbową (KAS), kilka lat temu. Okazało się, że są duże rozbieżności w interpretowaniu pracy specjalisty, w zależności od głównej działalności firmy, czy projektu. Nie było, i nadal nie ma spójnego stanowiska w tej sprawie.</p>
-<p>W 2019 postanowiłem zająć się tym problemem w mojej pracy licencjackiej, w której przeprowadziłem analizę problematyki prawa autorskiego w pracy specjalisty od dokumentacji. Pozwoliło mi to na dogłębną ocenę sytuacji prawnej zawodu autora technicznego w Polsce i porównać ją do sytuacji w innych krajach, takich jak Niemcy, Włochy, Francja, gdzie ten zawód posiada długoletnią tradycję.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="forma">Forma<a href="https://techwriter.pl/saiit-wywiad#forma" class="hash-link" aria-label="Bezpośredni link do Forma" title="Bezpośredni link do Forma">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="dlaczego-forma-stowarzyszenia-i-czym-ono-będzie-się-zajmować">Dlaczego forma stowarzyszenia i czym ono będzie się zajmować?<a href="https://techwriter.pl/saiit-wywiad#dlaczego-forma-stowarzyszenia-i-czym-ono-b%C4%99dzie-si%C4%99-zajmowa%C4%87" class="hash-link" aria-label="Bezpośredni link do Dlaczego forma stowarzyszenia i czym ono będzie się zajmować?" title="Bezpośredni link do Dlaczego forma stowarzyszenia i czym ono będzie się zajmować?">​</a></h3>
-<p>Jest to obecnie najszybsza i najprostsza droga do zarejestrowania profesji w “Wykazie zawodów” Ministerstwa Pracy. To na jego podstawie ZUS kwalifikuje zawody po swojej stronie.</p>
-<p>Stowarzyszenie jest też formą najbardziej demokratyczną w wyborze klasyfikacji umiejętności zawodowych, bo nie ukrywajmy, w tej profesji każdy z nas jest “skądś”. Nikt z nas nie wykształcił się od razu w kierunku autora czy ilustratora technicznego.</p>
-<p>Od paru lat obserwuję działania organizacji <a href="https://itcqf.org/" target="_blank" rel="noopener noreferrer">ITCQF</a> w kierunku propagowania zawodu autora technicznego i próby odpowiedzi na rzeczywiste potrzeby rynku w tym kierunku. Jako stowarzyszenie, możemy efektywniej wpływać na świadomość pracodawców w obszarze potrzeb związanych z dokumentacją techniczną.</p>
-<p>Będziemy mieli większą siłę przebicia w przypadku ustandaryzowania nazwy zawodu, kwalifikacji potrzebnych do jego wykonywania, znajomości metodyk, a co za tym idzie ustandaryzowania stawek za wykonywaną pracę.</p>
-<p>Z pewnością warto również nawiązać współpracę z pokrewnymi organizacjami z naszej branży, na przykład z Tekom, które jest obecnie największym stowarzyszeniem autorów technicznych w Europie. Z pewnością miłe też będzie posiadać własną konferencję lub być częścią działań takich jak <em>soap!</em></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="postęp-prac">Postęp prac<a href="https://techwriter.pl/saiit-wywiad#post%C4%99p-prac" class="hash-link" aria-label="Bezpośredni link do Postęp prac" title="Bezpośredni link do Postęp prac">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="na-jakim-etapie-aktualnie-znajduje-się-ten-projekt">Na jakim etapie aktualnie znajduje się ten projekt?<a href="https://techwriter.pl/saiit-wywiad#na-jakim-etapie-aktualnie-znajduje-si%C4%99-ten-projekt" class="hash-link" aria-label="Bezpośredni link do Na jakim etapie aktualnie znajduje się ten projekt?" title="Bezpośredni link do Na jakim etapie aktualnie znajduje się ten projekt?">​</a></h3>
-<p>Obecnie z kilkoma osobami pracujemy nad statutem stowarzyszenia. Jest to pierwszy krok niezbędny do jego rejestracji w sądzie.</p>
-<p>Im więcej osób byłoby zaangażowanych w nagłośnienie sprawy lub w pomoc promującą inicjatywę w social mediach - tym lepiej.</p>
-<p>Serdecznie więc zapraszam do kontaktu. Obecnie staram się ogarnąć to sam, a doba ma niestety tylko 24h.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="dla-kogo">Dla kogo?<a href="https://techwriter.pl/saiit-wywiad#dla-kogo" class="hash-link" aria-label="Bezpośredni link do Dla kogo?" title="Bezpośredni link do Dla kogo?">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="na-jakie-potrzeby-odpowiada-ta-inicjatywa">Na jakie potrzeby odpowiada ta inicjatywa?<a href="https://techwriter.pl/saiit-wywiad#na-jakie-potrzeby-odpowiada-ta-inicjatywa" class="hash-link" aria-label="Bezpośredni link do Na jakie potrzeby odpowiada ta inicjatywa?" title="Bezpośredni link do Na jakie potrzeby odpowiada ta inicjatywa?">​</a></h3>
-<p>Z pewnością chcemy ustandaryzować zawód dokumentalisty i ilustratora technicznego.</p>
-<p>Jak wiemy z doświadczenia czy rozmów prowadzonych na spotkaniach branżowych, wiele firm działa trochę po omacku i zakres obowiązków Technical Writera często bardzo różni się pomiędzy firmami.</p>
-<p>Wydarzenia  organizowane przez <em>MeetContent</em> lub <em>soap!</em> pozwalają na dużą wymianę wiedzy i doświadczeń, ale takie podejście się nie skaluje ani nie wspiera powszechnej adopcji dobrych praktyk.</p>
-<p>Zauważyłem, że jest rozbieżność w prowadzeniu projektów w zależności od rodzaju produktu, dla jakiego powstaje dokumentacja. Inaczej pisze się dokumentację dla oprogramowania, a inaczej dla przemysłu maszynowego, precyzyjnego czy AGD. O takiej wisience na torcie, jak branża lotnicza czy militarna nie wspomina się wcale, a wiele standardów przyszło właśnie z tamtej strony. Z pewnością przyda się uświadamianie, że autor techniczny nie powinien się ograniczać do jednej branży czy produktu. To nie one cechują umiejętności.</p>
-<p>To jest trochę, jak z szewcem. Szewc na podstawie zdobytej wiedzy, potrafi zrobić czy naprawić każdy rodzaj buta. To, czy dany szewc specjalizuje się w mokasynach, a inny w szpilkach to już ich wybór. Obaj jednak potrafią naprawić i zrobić każdy but.</p>
-<p>Niektórzy autorzy nie czują się dobrze poza swoim ogródkiem i uważają że skoro pisali dla softu, to nie napiszą instrukcji dla piekarnika. Z własnego doświadczenia wiem, że to duży mit i warto go obalić.</p>
-<p>Rozwój sztucznej inteligencji, trochę kładzie się cieniem na naszą profesję, ale tutaj pozostaję optymistą, co do przyszłości naszego zawodu. Ktoś tą niepokorną AI musi jakoś wytresować i nakarmić odpowiednimi treściami.</p>
-<p>Wiemy jak zarządzać metadanymi i sądzę, że to właśnie jest przyszłość naszego zawodu, ale nie wybiegajmy zanadto w przyszłość.
-Stowarzyszenie ma głównie pomagać autorom i ilustratorom aby podnosić ich kompetencje twarde, w taki sposób aby potrafili sobie poradzić w każdej z branż, która potrzebuje dokumentacji.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="korzyści-z-członkostwa">Korzyści z członkostwa<a href="https://techwriter.pl/saiit-wywiad#korzy%C5%9Bci-z-cz%C5%82onkostwa" class="hash-link" aria-label="Bezpośredni link do Korzyści z członkostwa" title="Bezpośredni link do Korzyści z członkostwa">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="jakie-widzisz-korzyści-dla-dokumentalistów-i-ilustratorów-technicznych-z-bycia-członkiem-stowarzyszenia">Jakie widzisz korzyści dla dokumentalistów i ilustratorów technicznych z bycia członkiem stowarzyszenia?<a href="https://techwriter.pl/saiit-wywiad#jakie-widzisz-korzy%C5%9Bci-dla-dokumentalist%C3%B3w-i-ilustrator%C3%B3w-technicznych-z-bycia-cz%C5%82onkiem-stowarzyszenia" class="hash-link" aria-label="Bezpośredni link do Jakie widzisz korzyści dla dokumentalistów i ilustratorów technicznych z bycia członkiem stowarzyszenia?" title="Bezpośredni link do Jakie widzisz korzyści dla dokumentalistów i ilustratorów technicznych z bycia członkiem stowarzyszenia?">​</a></h3>
-<p>No cóż, przynależność do swego rodzaju elity zawodowej sama w sobie jest korzyścią 🙂</p>
-<p>Jak już wspominałem wcześniej, będąc członkiem stowarzyszenia, będzie nam łatwiej reprezentować całą grupę zawodową niż występować osobno do instytucji w kraju, by reprezentować swoje interesy.</p>
-<p>Lepiej lobbuje się w grupie, niż samemu, a im nas więcej, tym bardziej jesteśmy widoczni jako grupa zawodowa z bogatym doświadczeniem i wysoko wyspecjalizowaną wiedzą. Bycie członkiem stowarzyszenia daje też realny wpływ na tworzenie standardów, które ułatwią pracodawcom ustalenie zakresu obowiązków i wymaganych umiejętności.</p>
-<p>Poza tym stowarzyszenie jest też formą wsparcia zawodowego czy prawnego dla jego członka.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="rodzaje-członków-stowarzyszenia">Rodzaje członków stowarzyszenia<a href="https://techwriter.pl/saiit-wywiad#rodzaje-cz%C5%82onk%C3%B3w-stowarzyszenia" class="hash-link" aria-label="Bezpośredni link do Rodzaje członków stowarzyszenia" title="Bezpośredni link do Rodzaje członków stowarzyszenia">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="projekt-statutu-przewiduje-kilka-rodzajów-członków-czy-możesz-pokrótce-opowiedzieć-czym-się-różnią">Projekt statutu przewiduje kilka rodzajów członków. Czy możesz pokrótce opowiedzieć czym się różnią?<a href="https://techwriter.pl/saiit-wywiad#projekt-statutu-przewiduje-kilka-rodzaj%C3%B3w-cz%C5%82onk%C3%B3w-czy-mo%C5%BCesz-pokr%C3%B3tce-opowiedzie%C4%87-czym-si%C4%99-r%C3%B3%C5%BCni%C4%85" class="hash-link" aria-label="Bezpośredni link do Projekt statutu przewiduje kilka rodzajów członków. Czy możesz pokrótce opowiedzieć czym się różnią?" title="Bezpośredni link do Projekt statutu przewiduje kilka rodzajów członków. Czy możesz pokrótce opowiedzieć czym się różnią?">​</a></h3>
-<p>Obecnie jest to koncept, który będzie pewnie podlegał modyfikacjom. Sami musimy ustalić, czy taka różnorodność w rodzaju członkostwa jest potrzebna.</p>
-<p>Projektowany statut przewiduje kilka rodzajów członkostwa w stowarzyszeniu:</p>
-<ul>
-<li>
-<p><strong>Zwykłe</strong> - Tu wymagane będzie minimum trzyletnie doświadczenie w zawodzie autora lub ilustratora technicznego. Posiadając taki rodzaj członkostwa mamy pewność, że nasze interesy są odpowiednio reprezentowane przez stowarzyszenie. Mamy też realny wpływ na działalność stowarzyszenia przez głosowanie na walnym zgromadzeniu.</p>
-</li>
-<li>
-<p><strong>Nadzwyczajne/specjalne</strong> - Daje te same prawa co członkostwo zwykłe, warunkiem jest jednak posiadanie dłuższego stażu pracy w zawodzie (z pewnością będziemy dyskutować nad stażem dłuższym niż 5 lat) i odpowiednio wysokimi kwalifikacjami.</p>
-</li>
-<li>
-<p><strong>Honorowe</strong> - Ten rodzaj członkostwa nadawany jest przez stowarzyszenie i jest przewidziane dla osób czynnie wspierających jego działania. Jest przeznaczone dla osób, które nie są autorami lub ilustratorami technicznymi. Takie członkostwo jest bardziej opiniotwórcze i symboliczne, nie daje ono prawa głosu na walnym zgromadzeniu.</p>
-</li>
-<li>
-<p><strong>Wspierające</strong> - Członkostwo wspierające jest stworzone z myślą o instytucjach lub organizacjach posiadających osobowość prawną, które będą wspierały stowarzyszenie medialnie czy finansowo. Oczywiście takie członkostwo jest pozbawione możliwości udziału i głosowaniu w walnym zgromadzeniu.</p>
-</li>
-</ul>
-<p>Jak już wspomniałem czeka nas jeszcze praca nad wieloma aspektami statutu, więc niektóre z rodzajów członkostwa mogą ulec zmianie.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="kontakt">Kontakt<a href="https://techwriter.pl/saiit-wywiad#kontakt" class="hash-link" aria-label="Bezpośredni link do Kontakt" title="Bezpośredni link do Kontakt">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="jak-można-się-włączyć-w-prace-stowarzyszenia">Jak można się włączyć w prace Stowarzyszenia?<a href="https://techwriter.pl/saiit-wywiad#jak-mo%C5%BCna-si%C4%99-w%C5%82%C4%85czy%C4%87-w-prace-stowarzyszenia" class="hash-link" aria-label="Bezpośredni link do Jak można się włączyć w prace Stowarzyszenia?" title="Bezpośredni link do Jak można się włączyć w prace Stowarzyszenia?">​</a></h3>
-<p>Z pewnością zbliża się spotkanie na którym będziemy dyskutować o zapisach statutu i myślę że nastąpi to po wakacjach. Jeżeli się uda, to wstępnie do końca roku powinniśmy zdążyć z założeniem stowarzyszenia.</p>
-<p>Zapraszam wszystkich chętnych do współdziałania.</p>
-<p>Zawsze jest tak, że ktoś musi zacząć, a potem wszystko nabiera rozpędu 😉</p>
-<p>Zachęcam do dołączenia do grona “założycieli”. Można się ze mną kontaktować przez LinkedIn lub drogą mailową:</p>
-<ul>
-<li>
-<p><a href="https://www.linkedin.com/in/saiit-polska-03a008308/" target="_blank" rel="noopener noreferrer">LinkedIn</a></p>
-</li>
-<li>
-<p>Email: <a href="mailto:biuro.saiit@gmail.com" target="_blank" rel="noopener noreferrer">biuro.saiit@gmail.com</a></p>
-</li>
-</ul>
-<p>Serdecznie dziękuję za rozmowę 🙂</p>]]></content>
-        <author>
-            <name>Monika Mrozek</name>
-        </author>
-        <category label="stowarzyszenie" term="stowarzyszenie"/>
-        <category label="zrzeszenia-branżowe" term="zrzeszenia-branżowe"/>
-        <category label="promocja-branży" term="promocja-branży"/>
     </entry>
 </feed>
