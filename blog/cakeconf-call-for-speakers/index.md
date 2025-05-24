@@ -8,7 +8,7 @@ tags:
 coverImage: 'cfp.png'
 ---
 
-Zastanawiacie się, kto wystąpi na CAKE conf? Zajrzyjcie na [stronę](https://cakeconf.contentbytes.pl/#speakers) i poznajcie prelegentów, którzy podzielą się z Wami swoją wiedzą. Lista cały czas rośnie, bo zależy nam na różnorodnej tematyce z obszaru tworzenia treści.
+Zastanawiacie się, kto wystąpi na CAKE conf? Zajrzyjcie na [stronę cakeconf.contentbytes.pl](https://cakeconf.contentbytes.pl/#speakers) i poznajcie prelegentów, którzy podzielą się z Wami swoją wiedzą. Lista cały czas rośnie, bo zależy nam na różnorodnej tematyce z obszaru tworzenia treści.
 
 A może to właśnie Ty chcesz wystąpić na scenie CAKE conf?
 
