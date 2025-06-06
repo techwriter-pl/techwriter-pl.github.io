@@ -10,7 +10,7 @@ tags:
 coverImage: 'ContentBytesKRK9.png'
 ---
 
-# Content Bytes #8: Porozmawiajmy o jakości
+# Content Bytes #9: Porozmawiajmy o jakości
 
 12 czerwca zapraszamy do [Forte Spaces](https://www.fortespaces.pl/) na ostatni meetup przed przerwą wakacyjną. Przygotowaliśmy dla Was tematy, które sprawią, że wasze myśli krążyć będą wokół contentu nawet wtedy, gdy będziecie wypoczywać na plaży 🏖️. Tym razem prelegenci z [neptune.ai](https://neptune.ai/) pokażą Wam jak wykorzystanie metryk, analizy danych i AI może pozytywnie wpłynąć na jakość Waszej dokumentacji.
 
@@ -29,7 +29,7 @@ Tworzenie treści często rodzi więcej pytań niż odpowiedzi. Jednym ze sposob
 W swojej prezentacji Edyta pokaże, jak narzędzia do analizy danych zmieniły podejście do dokumentacji w neptune.ai.
 
 
-**_I boty mogą pisać: AI w dokumentacji deweloperskiej_**
+**_Boty też mogą pisać: AI w dokumentacji deweloperskiej_**
 
 Jako technical writerzy i developer advocates tworzymy instrukcje oraz przykłady kodu, często spędzając wiele czasu nad elementami powtarzalnymi i generycznymi. A gdyby tak AI mogłoby nam pomóc położyć fundamenty, podczas gdy my skupimy się na wykończeniu - poprawności i jasności przekazu naszej dokumentacji?
 
@@ -52,7 +52,7 @@ Z wykształcenia inżynier lotnictwa, Leo pracuje obecnie jako Customer Experien
 
 ## Kilka słów o sponsorach
 
-Ósme spotkanie Content Bytes sponsorują **Forte Spaces** oraz **neptune.ai**.
+Ósme spotkanie Content Bytes sponsorują **neptune.ai** oraz **Forte Spaces**.
 
 ### neptune.ai
 
