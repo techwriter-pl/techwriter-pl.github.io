@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[23861],{63290:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/wydarzenia/page/2","page":2,"postsPerPage":10,"totalPages":2,"totalCount":11,"previousPage":"/wydarzenia","blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
