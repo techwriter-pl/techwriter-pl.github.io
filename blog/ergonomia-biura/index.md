@@ -2,7 +2,7 @@
 title:
   'Jak wyposażyć gabinet do pracy zdalnej? Biurka elektryczne i inne wynalazki'
 authors: niewiarowski
-date: '2025-03-23'
+date: '2025-06-03'
 tags:
   - 'organizacja-pracy'
   - 'ergonomia'
