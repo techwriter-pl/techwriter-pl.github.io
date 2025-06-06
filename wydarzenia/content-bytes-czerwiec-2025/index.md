@@ -52,7 +52,7 @@ Z wykształcenia inżynier lotnictwa, Leo pracuje obecnie jako Customer Experien
 
 ## Kilka słów o sponsorach
 
-Ósme spotkanie Content Bytes sponsorują **neptune.ai** oraz **Forte Spaces**.
+Dziewiąte spotkanie Content Bytes sponsorują **neptune.ai** oraz **Forte Spaces**.
 
 ### neptune.ai
 
