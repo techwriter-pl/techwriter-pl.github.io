@@ -12,10 +12,10 @@ coverImage: 'ContentBytesKRK9.png'
 
 # Content Bytes #9: Porozmawiajmy o jakości
 
-12 czerwca zapraszamy do [Forte Spaces](https://www.fortespaces.pl/) na ostatni meetup przed przerwą wakacyjną. Przygotowaliśmy dla Was tematy, które sprawią, że wasze myśli krążyć będą wokół contentu nawet wtedy, gdy będziecie wypoczywać na plaży 🏖️. Tym razem prelegenci z [neptune.ai](https://neptune.ai/) pokażą Wam jak wykorzystanie metryk, analizy danych i AI może pozytywnie wpłynąć na jakość Waszej dokumentacji.
+12 czerwca zapraszamy do [Forte Spaces](https://www.fortespaces.pl/) na ostatni meetup przed przerwą wakacyjną. Przygotowaliśmy dla Was tematy, które sprawią, że wasze myśli krążyć będą wokół contentu nawet wtedy, gdy będziecie wypoczywać na plaży 🏖️. Tym razem prelegenci z [neptune.ai](https://neptune.ai/) pokażą Wam jak wykorzystanie metryk, analizy danych i AI może pozytywnie wpłynąć na jakość dokumentacji.
 
-[Edyta](https://www.linkedin.com/in/edyta-rakowska/) zaprezentuje, jak wykorzystanie metryk w analizie treści może pomóc Wam w podniesieniu jakości Waszej dokumentacji.
-[Leo](https://www.linkedin.com/in/leo-rocco-breedt-736b98111/) zapozna Was z rolą AI w tworzeniu dokumentacji deweloperskiej. Przygotujcie się na dyskusję o tym jak AI może być naszym sprzymierzeńcem w tworzeniu przykładów kodu dla użytkowników.
+[Edyta](https://www.linkedin.com/in/edyta-rakowska/) omówi sposoby wykorzystania narzędzi analitycznych do podniesieniu jakości dokumentacji.
+[Leo](https://www.linkedin.com/in/leo-rocco-breedt-736b98111/) zapozna Was z rolą AI w tworzeniu dokumentacji deweloperskiej. Przygotujcie się na dyskusję o tym, jak sztuczna inteligencja może stać się naszym sprzymierzeńcem w tworzeniu przykładów kodu dla użytkowników.
 
 Nie zapomnijcie się zapisać - pomoże nam to w zapewnieniu odpowiedniej ilości pizzy. [Zapisz się!](https://lu.ma/gjmlponl)
 
@@ -33,18 +33,18 @@ W swojej prezentacji Edyta pokaże, jak narzędzia do analizy danych zmieniły p
 
 Jako technical writerzy i developer advocates tworzymy instrukcje oraz przykłady kodu, często spędzając wiele czasu nad elementami powtarzalnymi i generycznymi. A gdyby tak AI mogłoby nam pomóc położyć fundamenty, podczas gdy my skupimy się na wykończeniu - poprawności i jasności przekazu naszej dokumentacji?
 
-Podczas prezentacji przyjrzymy narzędziom takim jak ChatGPT oraz Cursor i ich roli w procesie tworzenia przykładów kodu w dokumentacji deweloperskiej. Nauczycie się, jak wdrożyć procesy w których to AI zajmuje się powtarzalnymi elementami, a Wy możecie poświęcić swój czas na kreatywną pracę. Niezależnie od tego, czy pracujecie nad dokumentacją do SDK, API, czy też notatnikami opartymi na AI, zaprezentowane strategie i techniki pozwolą Wam na tworzenie dokumentacji z pomocą AI bez uszczerbku na jakości.
+Podczas prezentacji przyjrzymy się narzędziom takim jak ChatGPT oraz Cursor i ich roli w procesie tworzenia przykładów kodu w dokumentacji deweloperskiej. Zobaczymy, jak wdrożyć procesy, w których to AI zajmuje się powtarzalnymi elementami, a Wy możecie poświęcić swój czas na kreatywną pracę. Niezależnie od tego, czy pracujecie nad dokumentacją do SDK, API, czy też notatnikami opartymi na AI, zaprezentowane strategie i techniki pozwolą Wam na tworzenie dokumentacji z pomocą AI bez uszczerbku na jakości.
 
 ## Prelegenci
 
 **Edyta Rakowska**
 
-Po kilku latach tłumaczenia technicznych schematów kotłów oraz innych, równie fascynujących tekstów, Edyta zdecydowała się nieco zmienić branżę i zajęła się tworzeniem dokumentacji technicznej.
-Obecnie pracuje jako Senior Technical Writer w neptune.ai. Po godzinach, Edyta współorganizuje meetupy Content Bytes i nadchodzącą konferencję CAKE conf.
+Po kilku latach tłumaczenia technicznych schematów kotłów oraz podobnych, równie fascynujących tekstów, Edyta zdecydowała się nieco zmienić branżę i zajęła się tworzeniem dokumentacji technicznej.
+Obecnie pracuje jako Senior Technical Writer w neptune.ai. Po godzinach, Edyta współorganizuje meetupy Content Bytes, a także nadchodzącą konferencję CAKE conf.
 
 **Leo Breedt**
 
-Z wykształcenia inżynier lotnictwa, Leo pracuje obecnie jako Customer Experience Engineer w startupie tworzącym narzędzie do śledzenia eksperymentów w procesach związanych z uczeniem maszynowym. Leo ściśle współpracuje z użytkownikami, aby poprawić ich relacje z produktem, a także tworzy przykłady dla programistów, dokumentację techniczną i rozwiązania, które łączą produkt z oczekiwaniami klientów. Leo doskonale odnajduje się w łączeniu wiedzy technicznej z empatią wobec użytkownika, osiągając namacalne rezultaty.
+Leo, z wykształcenia inżynier lotnictwa, pracuje obecnie jako Customer Experience Engineer w startupie tworzącym narzędzie do śledzenia eksperymentów w procesach związanych z uczeniem maszynowym. Leo ściśle współpracuje z użytkownikami, aby poprawić ich relacje z produktem, a także tworzy przykłady dla programistów, dokumentację techniczną i rozwiązania, które łączą produkt z oczekiwaniami klientów. Leo doskonale odnajduje się w łączeniu wiedzy technicznej z empatią wobec użytkownika, osiągając namacalne rezultaty.
 
 ## Kiedy i gdzie
 
@@ -56,7 +56,7 @@ Dziewiąte spotkanie Content Bytes sponsorują **neptune.ai** oraz **Forte Space
 
 ### neptune.ai
 
-[neptune.ai](https://neptune.ai/) powstał z inicjatywy zespołu [deepsense.ai](https://deepsense.ai) w 2018 roku, po zwycięstwie w konkursie Right Whale Recognition na platformie Kaggle. Stworzenie neptune.ai miało na celu rozwiązanie rosnącej złożoności zarządzania eksperymentami w uczeniu maszynowym. Obecne narzędzie do śledzenia eksperymentów, stworzone z myślą o rozwoju modeli fundamentalnych w AI, jest rozwiązaniem któremu zaufały firmy takie jak InstaDeep, Poolside, Bioptimus, Navier AI, Play AI i inne. Dzięki dofinansowaniu w wysokości 18 milionów dolarów i wyróżnieniu na liście „Top 100 AI Startups” według CB Insights w latach 2021 i 2022, Neptune umożliwia zespołom skuteczne monitorowanie, ocenianie i skalowanie procesu trenowania modeli.
+[neptune.ai](https://neptune.ai/) powstał z inicjatywy zespołu [deepsense.ai](https://deepsense.ai) w 2018 roku, po zwycięstwie w konkursie Right Whale Recognition na platformie Kaggle. Stworzenie neptune.ai miało na celu rozwiązanie rosnącej złożoności zarządzania eksperymentami w uczeniu maszynowym. Obecne narzędzie do śledzenia eksperymentów, stworzone z myślą o rozwoju modeli fundamentalnych w AI, jest rozwiązaniem któremu zaufały firmy między innymi takie jak InstaDeep, Poolside, Bioptimus, Navier AI, Play AI. Dzięki dofinansowaniu w wysokości 18 milionów dolarów i wyróżnieniu na liście „Top 100 AI Startups” według CB Insights w latach 2021 i 2022, Neptune umożliwia zespołom skuteczne monitorowanie, ocenianie i skalowanie procesu trenowania modeli.
 
 ### Forte Spaces
 
