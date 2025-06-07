@@ -18,74 +18,40 @@ export const jobOffers: JobOfferProps[] = [
       Nie jest to oferta płatnej pracy, ale może dać Ci dużo innych korzyści.`,
   },
   {
-    title: 'Senior R&D Technical Writer',
-    company: 'Hitachi Energy',
-    link: 'https://www.hitachienergy.com/careers/open-jobs/details/JID3-121956',
-    location: 'Łódź',
+    title: 'Specjalista ds. Dokumentacji Technicznej – Technical Writer',
+    company: 'GREY PARTNERS POLAND SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ',
+    link: 'https://www.pracuj.pl/praca/specjalista-ds-dokumentacji-technicznej-technical-writer-poznan,oferta,1004085858',
+    location: 'Poznań',
     type: 'hybrydowo',
-    description: `Najważniejsze informacje o ofercie:
-- Branża: energetyczna, transformatory
-- Kluczowe wymagania: bardzo dobra znajomość języka angielskiego, doświadczenie w tworzeniu zrozumiałej dokumentacji technicznej, 
-- Mile widziana znajomość: podręczników stylu i standardów pisania w języku angielskim, podejścia docs-as-code, narzędzi do tworzenia dokumentacji i systemów zarządzania treścią, Git, Azure DevOps.`,
+    description: `#### Tworzenie, aktualizacja i redagowanie dokumentacji technicznej, w tym:
+    
+- instrukcji użytkowania,
+- etykiet,
+- dokumentów produktowych.
+
+#### Wymagania:
+
+- Znajomość języka angielskiego,
+- Doświadczenie w dokumentacji technicznej,
+- Znajomość narzędzi takich jak XML, Adobe InDesign, MS Office.
+
+#### Mile widziane:
+
+- Doświadczenie z CAD,
+- Znajomość "Technical Simplified English".`,
   },
   {
-    title: 'Technical Writer with German',
-    company: 'Etteplan',
-    link: 'https://emp.jobylon.com/jobs/271520-etteplan-technical-writer-with-german/',
-    location: 'Wrocław, Katowice, Poznań, Gdańsk',
-    type: 'hybrydowo',
-    description: `Najważniejsze informacje o ofercie:
-- Kluczowe wymagania: biegła znajomość języka niemieckiego i angielskiego, doświadczenie w dokumentacji technicznej, znajomość XML/DITA/S1000D
-
-Etteplan oferuje:
-- Pracę w międzynarodowym środowisku 
-- Pakiet benefitów (opieka medyczna, Multisport, ubezpieczenie grupowe)
-- Elastyczne godziny pracy 
-- Szkolenia i możliwości rozwoju`,
-  },
-  {
-    title: 'Technical Writer',
-    company: 'Etteplan',
-    link: 'https://emp.jobylon.com/jobs/273798-etteplan-technical-writer-hybrydowo-szczecin/',
-    location: 'Szczecin (3 dni w fabryce, 2 dni zdalnie)',
-    type: 'hybrydowo',
-    description: `Najważniejsze informacje o ofercie:
-- Branża: turbiny wiatrowe 
-- Kluczowe wymagania: bardzo dobra znajomość języka angielskiego, doświadczenie w dokumentacji technicznej, znajomość XML/DITA/S1000D 
-
-Etteplan oferuje:
-- Pracę w międzynarodowym środowisku 
-- Pakiet benefitów (opieka medyczna, Multisport, ubezpieczenie grupowe)
-- Elastyczne godziny pracy 
-- Szkolenia i możliwości rozwoju`,
-  },
-  {
-    title: 'Senior Technical Writer - Developer Content',
-    company: 'Splunk',
-    link: 'https://www.splunk.com/en_us/careers/jobs/senior-technical-writer-developer-31867.html',
-    location: 'Kraków',
-    type: 'hybrydowo',
-    description: `Splunk tworzy oprogramowanie do monitorowania i analizy dużej ilości danych w czasie rzeczywistym. 
-  Splunk również skrupulatnie buduje swoją obecność w Krakowie intensywnie rekrutując. 
-
-  Kogo szukają? 
-
-  Jeśli jesteś doświadczonym Technical Writerem, ale zawsze ciągnęło Cię w stronę kodu, jeśli do tego dobrze rozumiesz się z programistami i udzielasz się w projektach open sourceowych - jest duża szansa, że szukasz właśnie takiej oferty!
-  
-  P.S. Nie będziesz jedynym Tech Writerem na miejscu. I choć większość zespołu dokumentalistów znajduje się w Stanach, w Polsce mamy już 5 pisarzy, którzy wspierają lokalne zespoły developerskie.`,
-  },
-  {
-    title: 'Technical Writer',
-    company: 'Techland',
-    link: 'https://techland.net/job-offers/technical-writer-15',
-    location: 'Warszawa, Wrocław',
+    title: 'Open Source Technical Writer',
+    company: 'Antmicro',
+    link: 'https://careers.antmicro.com/jobs/technical-writer/',
+    location: 'Poznan, Wroclaw, Gdansk, Gothenburg',
     type: 'w biurze',
-    description: `Techland to firma z wieloletnią historią w branży gier. 
-Dzięki ponad 30-letniemu doświadczeniu na rynku wie, jak dostarczać niezapomniane wrażenia.
-Ich międzynarodowy zespół z siedzibą w Polsce składa się z ponad 500 profesjonalistów. 
-Są znani z takich gier jak The Call of Juarez i Dying Light. Ale na tym nie poprzestają. Chcą nadal tworzyć fascynujące tytuły AAA oparte na nowatorskiej rozgrywce.
+    description: `Oferta dla osób zajawionych na technologie open source. Tym razem, tech writer jest częścią zespołu marketingowego.
 
-Obecnie Techland poszukuje osoby na stanowisko Technical Writera, 
-która będzie odpowiedzialna za pisanie i ulepszanie dokumentacji technicznej dla twórców treści i deweloperów.`,
-  },
+Firma pisze o obie tak:
+
+> We enable Artificial Intelligence at the edge, create complex IoT systems and build robots, drones and other intelligent devices for customers around the globe thanks to our extensive in-house R&D.
+ 
+Z ciekawszych wymagań, oferta wymienia dobrą znajomość zasad naukowych (scientific principles). Dodatkowym plusem będzie znajomość Pythona i Gita, chociaż nie jest to absolutnie wymagane.`,
+  }
 ];

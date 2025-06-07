@@ -20,7 +20,11 @@
 .coffeeImage {
   width: 150px;
   height: 150px;
-  background-color: var(--tech-writer-impact-color);
+  background: linear-gradient(
+    70deg,
+    var(--tech-writer-yellow) 30%,
+    var(--tech-writer-blue)
+  );
   border-radius: 50%;
 }
 

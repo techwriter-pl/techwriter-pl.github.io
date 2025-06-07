@@ -52,8 +52,8 @@
 [Information Developers Foundation](https://www.informationdevelopers.in/)
 : Strona poświęcona technical writingowi oraz content writingowi. Znajdziecie tu kursy związane z tą tematyką, a także trochę ciekawych informacji na temat DITA, Agile oraz dokumentacji API. Jest też osobny dział dla osób, które dopiero rozpoczynają swoją przygodę z branżą.
 
-[Tech Writer koduje](https://techwriterkoduje.pl/)
-: Strona, którą już dobrze znacie. Michał i Paweł tworzą podcasty na temat tworzenia dokumentacji technicznej dla branży IT. Posłuchacie tu wywiadów z osobami związanymi z branżą, opinii dotyczących narzędzi, z których (nie)warto korzystać w codziennej pracy, dowiecie się sporo na temat dokumentacji w API, a co najważniejsze, poznacie pracę Technical Writera od kuchni.
+[Tech Writer Koduje](https://techwriterkoduje.pl/)
+: Strona, którą już dobrze znacie. Michał i Paweł tworzą podcast na temat tworzenia dokumentacji technicznej dla branży IT. Posłuchacie tu wywiadów z osobami związanymi z branżą, opinii dotyczących narzędzi, z których (nie)warto korzystać w codziennej pracy, dowiecie się sporo na temat dokumentacji w API, a co najważniejsze, poznacie pracę Technical Writera od kuchni.
 
 [tekom Europe](https://www.technical-communication.org/)
 : Strona największego stowarzyszenia zawodowego komunikacji technicznej w Europie. Stowarzyszenie czynnie angażuje się w zwiększanie znaczenia komunikacji technicznej i rozwój zawodu. Na swojej platformie stowarzyszenie oferuję możliwość wymiany informacjii doświadczeń, promuje edukację i szkolenia oraz wspiera rozwój zawodowy swoich członków.
@@ -95,7 +95,7 @@
 [Technical Writing Success](https://open.spotify.com/show/2tFWJSw4sPk7S5O4Yl3d38?si=6b4143340c004f1b)
 : Prowadzony w formie krótkich odcinków program, w którym prowadzący Daphne i Fred przybliżają słuchaczowi tematykę tech writingu oraz powiązanych zagadnień np. sztucznej inteligencji.
 
-[Tech Writer koduje](https://open.spotify.com/show/2jhQ1Z1nAOY686RVok7O9I?si=e7d8c6e6045747bd)
+[Tech Writer Koduje](https://open.spotify.com/show/2jhQ1Z1nAOY686RVok7O9I?si=e7d8c6e6045747bd)
 : Podcast o technicznej stronie tworzenia dokumentacji w IT, skupiający się na pokazaniu jak tech writer może wpasować się w środowisko programistów pod kątem sposobu pracy, używanych technologii, narzędzi i rozwiązań. 
 
 [Tech Writing Podcast](https://open.spotify.com/show/6UAQWn4asiUrPQfAYw21je?si=059cdb746abb4b53)

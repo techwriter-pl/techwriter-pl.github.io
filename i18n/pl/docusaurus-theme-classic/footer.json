@@ -10,9 +10,5 @@
   "link.item.label.LinkedIn": {
     "message": "LinkedIn",
     "description": "The label of footer link with label=LinkedIn linking to https://www.linkedin.com/company/techwriter-pl/"
-  },
-  "copyright": {
-    "message": "Copyright © 2024 techwriter.pl",
-    "description": "The footer copyright"
   }
 }

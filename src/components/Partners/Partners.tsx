@@ -10,18 +10,13 @@ type PartnerProps = {
 };
 
 export const contentBytesUrl =
-  'https://www.linkedin.com/company/content-bytes/about/';
+  'https://contentbytes.pl/';
 
 const partners: PartnerProps[] = [
   {
     label: 'Content Bytes - link do strony',
     link: contentBytesUrl,
     imageSrc: require('./img/content-bytes.png').default,
-  },
-  {
-    label: 'ITCQF - link do strony',
-    link: 'https://itcqf.org/',
-    imageSrc: require('./img/itcqf.png').default,
   },
   {
     label: 'Komunikacja techniczna - link do strony Vistula',
@@ -47,22 +42,22 @@ const partners: PartnerProps[] = [
 
 const mediaPartners: PartnerProps[] = [
   {
-    label: 'Konferencja Tłumaczy',
+    label: 'CAKE conf - link do strony',
+    link: 'https://cakeconf.contentbytes.pl/',
+    imageSrc: require('./img/cake-conf-logo.png').default,
+  },
+  {
+    label: 'Konferencja Tłumaczy - link do strony',
     link: 'https://translation-conference.com/',
     imageSrc: require('./img/KTLC-klocki-kwadratM.png').default,
   },
   {
-    label: 'Strona konferencji Code Europe 2024',
+    label: 'Konferencja Code Europe 2024 - link do strony',
     link: 'https://www.codeeurope.pl/',
     imageSrc: require('./img/code-europe-2024-banner-150px.png').default,
   },
   {
-    label: 'Strona konferencji soap!',
-    link: 'https://soapconf.com/',
-    imageSrc: require('./img/soap_conf_logo_2019_150px.png').default,
-  },
-  {
-    label: 'MeetContent Facebook fan page',
+    label: 'MeetContent - link do profilu na Facebooku',
     link: 'https://www.facebook.com/meetcontentcommunity/',
     imageSrc: require('./img/MeetContent_logo_blue-e1680790803920.png').default,
   },

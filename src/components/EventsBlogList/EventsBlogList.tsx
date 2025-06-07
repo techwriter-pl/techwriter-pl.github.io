@@ -1,19 +1,9 @@
 import Link from '@docusaurus/Link';
+import { isDateInFuture } from '@site/src/lib/date-utils';
 import { Props } from '@theme/BlogListPage';
 import Layout from '@theme/Layout';
 import CoverImage from '../CoverImage/CoverImage';
 import ComingSoonBadge from './ComingSoonBadge';
-
-function isDateInFuture(dateString: string): boolean {
-  const inputDate = new Date(dateString);
-
-  if (isNaN(inputDate.getTime())) {
-    throw new Error('Invalid date format');
-  }
-
-  const currentDate = new Date();
-  return inputDate > currentDate;
-}
 
 export default function ({ items }: Props) {
   return (
@@ -25,7 +15,7 @@ export default function ({ items }: Props) {
             {items.map(({ content: BlogPostContent }, key) => {
               const { permalink, title, date } = BlogPostContent.metadata;
               const { coverImage } = BlogPostContent.frontMatter as any;
-              const isUpcoming = isDateInFuture(date);
+              const isUpcoming = isDateInFuture(new Date(date));
 
               return (
                 <div key={key} className="row margin-bottom--xl">
