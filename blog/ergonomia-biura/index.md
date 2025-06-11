@@ -95,6 +95,10 @@ najdroższych opcji należy blat z drewna dębowego.
 
 ### Przycięcie blatu
 
+![Blat biurka z wyciętym fragmentem brzegu blatu. Przycięcie pozwala dosunąć biurko i prowadzić kable pomiędzy ścianą a biurkiem, przy pełnym jego dosunięciu do ściany.](images/podciecie.png)
+
+**[Źródło obrazka.](https://mobiusdesk.pl/)**
+
 Ja zdecydowałem się na przycięcie blatu od strony ściany, żeby można było
 poprowadzić kable nawet jeśli biurko jest mocno dosunięte. Jeśli po Twoim domu
 biegają dzieci, być może warto pomyśleć nad wyborem zaokrąglonych narożników
