@@ -40,7 +40,8 @@ Czy warto zainwestować w biurko elektryczne i dodatki, które będą Ci służy
 gabinecie?
 
 Widzę dwie drogi 🙂. Którą wybierzesz?
-![](images/Pasted_image_20250323115915.png)
+![Diagram przedstawia ścieżki decyzyjne na temat wyposażania gabinetu. Punkt startowy: "Ergonomia Gabinetu" z pytaniem: "Czy inwestujesz w nią?". Ścieżka negatywna: "Nie inwestuję w nią". Komentarz: "Brawo! Brawo! Oszczędziłeś / oszczędziłaś sporo pieniędzy".
+Ścieżka pozytywna z serią kroków: "Tak, inwestuję w Ergonomię Gabinetu", "Jestem tego wart, warta!", "Kup biurko elektryczne", "Zadbaj o monitory", "Zadbaj o oświetlenie naturalne i sztuczne", "Kup ramię do monitora", "Wybierz podstawkę pod laptop", "Kup biuwar i mazaki", "Kup słuchawki wygłuszające", "Wybierz ergonomiczne krzesło", "Kup ergonomiczną mysz z klawiaturą", "Kup matę relaksacyjną, żeby wygodnie się stało", "Jak głęboko sięga ta królicza nora gadżetów???", "Ciesz się z wygodnej i efektywnej pracy!😃".](images/Pasted_image_20250323115915.png)
 
 **Przykładowa ścieżka decyzyjna w kwestii ergonomii biura. Nie każdy gadżet jest
 obowiązkowy, a doposażanie odbywa się stopniowo, na przestrzeni kilku lat.
@@ -74,8 +75,8 @@ to od Ciebie zależy czy faktycznie wykorzystujesz okazje by zmienić pozycję.
 
 Na początek potrzebujesz wybrać kształt biurka. Zależnie od Twoich potrzeb,
 preferencji i dostępnego miejsca w pokoju, decydujesz czy biurko ma być proste,
-w kształcie litery L, czy zakrzywione. Trafiłem gdzieś na informację, że biurka w
-kształcie litery L nie są ergonomiczne, choć mają swoje zalety takie jak duża
+w kształcie litery L, czy zakrzywione. Trafiłem gdzieś na informację, że biurka
+w kształcie litery L nie są ergonomiczne, choć mają swoje zalety takie jak duża
 przestrzeń blatu i możliwość wykorzystania ograniczonej przestrzeni w pokoju. Ja
 wybrałem biurko proste.
 
@@ -108,14 +109,25 @@ tylko na monitorach zewnętrznych.
 
 ### Prowadzenie przewodów, organizer
 
-Podstawowa zasada jest taka, że nie chcemy trzymać na widoku kabli, ładowarek,
-stacji dokujących. W biurku konieczny jest organizer, czyli rodzaj koszyka pod
-blatem, gdzie możesz bezpiecznie odłożyć stację dokującą i ładowarkę. Często pod
-blatem zamocowana jest listwa zasilająca z wieloma gniazdami, do których
-podłączysz laptop, monitory, lampkę i inne sprzęty, z jakich będziesz korzystać.
-Do poprowadzenia kabli pomocne jest przycięcie biurka z tyłu lub otwory w
-blacie, dzięki którym łatwo przeciągniesz kable od monitorów. Zwróć uwagę na ich
-bezpieczne i estetyczne poprowadzenie.
+Z powodów bezpieczeństwa i estetyki, dobrze jest ograniczyć ilość kabli,
+ładowarek, stacji dokujących jakie widzimy na biurku. Do takich wniosków
+zainspirował mnie [kanał YouTube Matthew
+Moniza](https://youtube.com/playlist?list=PLpJp7C9f0ZkQPB91ug26SAaUgbGCyYOnJ&si=C_kfeCkbH-elr3WT),
+gdzie kwestię aranżacji biurka podniesiono do rangi sztuki. 
+
+![Super wysmakowana aranżacja biurka przez osobę manifestującą zainteresowanie muzyką.](images/moniz.png)
+
+Biurko wolne od kabli i ukrywanie sprzętów, które nie muszą leżeć na widoku, to jedne z żelaznych postulatów Matthew. 
+
+A Ty jak zaaranżujesz swoją przestrzeń roboczą?
+
+Kolejna sprawa: w biurku konieczny jest organizer, czyli rodzaj koszyka pod blatem, gdzie możesz
+bezpiecznie odłożyć stację dokującą i ładowarkę. Często pod blatem zamocowana
+jest listwa zasilająca z wieloma gniazdami, do których podłączysz laptop,
+monitory, lampkę i inne sprzęty, z jakich będziesz korzystać. Do poprowadzenia
+kabli pomocne jest przycięcie biurka z tyłu lub otwory w blacie, dzięki którym
+łatwo przeciągniesz kable od monitorów. Zwróć uwagę na ich bezpieczne i
+estetyczne poprowadzenie.
 
 ### Moduł z gniazdami
 
@@ -178,7 +190,9 @@ wymiany silnika.
 
 ### Instrukcja stania przy biurku
 
-![](images/upload_0002.png)
+![Kobieta stoi przy biurku elektrycznym. 
+Podkreślony jest kąt patrzenia. 
+Monitor powinien być ustawiony minimalnie poniżej linii wzroku.](images/upload_0002.png)
 
 **[Źródło obrazka.](https://workriteergo.com/facts-about-standing-desks/)**
 
@@ -211,7 +225,7 @@ wprost, a po prawej masz materiał do porównywania z główna treścią. Monito
 ustawione są po półkolu i te boczne są pod kątem, żeby obracając głowę mieć
 monitory w podobnej odległości od oczu.
 
-![](images/Pasted_image_20250121001726.png)
+![Widok z góry, pokazujący mężczyznę patrzącego w przód. Na wprost stoi jeden monitor.Pod kątem po prawej stronie stoi drugi monitor.](images/Pasted_image_20250121001726.png)
 
 **[Źródło obrazka.](https://conwork.pl/pns-15-stanowisko-pracy-z-wieloma-monitorami/)**
 
@@ -231,7 +245,7 @@ czas recenzji materiału? Czas obrócić monitor! 😉
 
 ### Wysokość monitora względem oczu
 
-![](images/Pasted_image_20250121001131.png)
+![Porównanie poprawnej pozycji siedzenia przed laptopem przy biurku. 1. Zła pozycja z laptopem stojącym na biurku, gdzie użytkownik mocno musi zginać kark, by widzieć ekran. 2. Poprawna postawa użytkownika, który korzysta z podstawki pod laptopem.](images/Pasted_image_20250121001131.png)
 **[Źródło obrazka.](https://www.gvsu.edu/officeergonomics/computer-monitor-8.htm)**
 
 Ważne, żeby górne krawędzie monitorów były nieco poniżej linii wzroku. Ma to
@@ -252,10 +266,11 @@ ten problem Cię dotyczy, warto rozważyć regulowane ramiona do monitorów.
 
 O ile nie pracujesz w piwnicy, musisz wziąć pod uwagę okno. Wiadomo, że każdy ma
 różne warunki lokalowe, warto natomiast pamiętać, że monitor na tle okna będzie
-problematyczny. Latem światło będzie wpadać i będzie różnica jasności między
-monitorem i tłem, co jest męczące dla wzroku. Można stosować zasłony i rolety,
-ale wtedy siedzisz w ciemni, bo unikasz problematycznych blasków światła. Lepiej
-jeśli okno masz po lewej lub prawej stronie od Twoich monitorów.
+problematyczny. Latem silne światło będzie wpadać i będzie znaczna różnica
+jasności między monitorem i tłem, co jest męczące dla wzroku. Można stosować
+zasłony i rolety, co pozwoli uniknąć problematycznych blasków ale skutek jest
+taki, że siedzisz w ciemni. Lepiej jeśli okno masz po lewej lub prawej stronie
+od Twoich monitorów.
 
 ## Pozostałe akcesoria
 
@@ -270,23 +285,33 @@ pytania:
 - Klawiatura ze wszystkimi klawiszami, 85%, 70% a może 65%?
 - Klawiatura membranowa (cicha) czy mechaniczna (bardzo głośna)?
 - Jak wysokie powinny być klawisze i jaki powinny mieć kształt?
-- W przypadku klawiatur mechanicznych: jaki wybierasz typ mechanizmu klawisza?
-  [Switch](https://www.pcmag.com/explainers/guide-to-mechanical-key-switches-which-kind-is-right-for-you)
-  niebieski, czerwony czy niebieski?
+- W przypadku klawiatur mechanicznych: jaki wybierasz typ przełącznika klawisza?
+
+  **Niebieski** (najgłośniejszy z odczuwalnym kliknięciem),
+
+  **czerwony** (najcichszy z najlżejszym kliknięciem)
+
+  czy **brązowy** (opcja kompromisowa w porównaniu z dwiema poprzednimi)?
+
+  Więcej informacji o przełącznikach klawiszy (z angielska _switch_)
+  [znajdziesz tutaj](https://www.pcmag.com/explainers/guide-to-mechanical-key-switches-which-kind-is-right-for-you).
+
 - Czy potrzebujesz podświetlenia klawiszy, jeśli tak, to w ilu kolorach?
 
-Ostatecznie wybrałem mechaniczną klawiature z głośnym klikiem i podświetleniem
-jak choinka na święta. Dźwięk kliknięcia i odczucie wciśnięcia klawisza
-informują Cię o tym, że faktycznie poprawnie wcisnąłeś klawisz. Ma to znaczenie
-przy szybszym pisaniu, kiedy jest większe ryzyko, że omsknie Ci się palec. Teraz
-wygodniej robi mi się notatki i rysunki na biuwarze, bo klawiatura jest bardziej
-kompaktowa.
+Ostatecznie wybrałem mechaniczną klawiaturę z głośnym klikiem i podświetleniem
+jak choinka na święta. Oprócz świątecznego nastroju na co dzień, umożliwia to
+też pracę po ciemku, kiedy jestem w pomieszczeniu gdzie nie chcę zapalać świateł
+bo np.: śpi tam członek rodziny 🙂. Dźwięk kliknięcia i odczucie wciśnięcia
+klawisza informują Cię o tym, że faktycznie poprawnie wcisnąłeś klawisz. Ma to
+znaczenie przy szybszym pisaniu, kiedy jest większe ryzyko, że omsknie Ci się
+palec. Teraz wygodniej robi mi się notatki i rysunki na biuwarze, bo klawiatura
+jest bardziej kompaktowa.
 
-![](images/upload_0006.png)
+![Porównanie klawiatur w zależności od liczby klawiszy. 108 klawiszy to 100%, 87 klawiszy to 80%, 82 klawisze to 75%.](images/upload_0006.png)
 
 **[Źródło obrazka.](https://goblintechkeys.com/blogs/news/type-of-keyboard-and-sizes)**
 
-Gdzie ustawić klawiature na blacie? Powinna być blisko krawędzi, litera V
+Gdzie ustawić klawiaturę na blacie? Powinna być blisko krawędzi, litera V
 wycelowana w pępek.
 
 ### Mysz
@@ -300,7 +325,7 @@ przewijaniem ekranu i moim życiem.
 
 Mysz jest też wyposażona w dwa dodatkowe przyciski, które skrzętnie ustawiłem,
 by uruchamiały aplikacje Obsidian i Snagit (zaznaczanie obszaru zrzutu ekranu)
-🙂. Nie próbowałem jeszcze mysz pionowych, nie odczuwam zresztą problemów z
+🙂. Nie próbowałem jeszcze myszy pionowych, nie odczuwam zresztą problemów z
 nadgarstkami. Podstawową sprawą gdy korzystasz z myszy i klawiatury jest
 zapewnienie neutralnej pozycji nadgarstka.
 
@@ -320,7 +345,7 @@ Ciekawą propozycją jest produkt o nazwie Dragonfly, pozwalający na aktywne
 siedzenie i przyjmowanie różnych pozycji, dzięki czemu możesz rozciągać i
 wzmacniać różne partie mięśni.
 
-![](images/upload_0001.png)
+![Krzesło specjalistyczne Dragonfly. Rodzaj siedzenia bez oparcia dla pleców, które pozwala przybierać zdrowe pozycje ciała](images/upload_0001.png)
 
 **[Źródło zdjęcia](https://www.dragonflychair.com/dragonflychair-classic-black).**
 
@@ -365,7 +390,8 @@ z wieloma filmami o ustawiania wielu monitorów i ergonomia pracy przy biurku.
 
 Szczególnie warto zwrócić uwagę na film
 ["Best Way to Setup My Dual Monitors?"](https://www.youtube.com/watch?v=l1N3jlgqcQ4)
-Davida Zhanga: ![](images/Pasted_image_20250121001319.png)
+Davida Zhanga:
+![Ilustracja z filmu na YouTube pokazująca różne układy aranżowania dwóch monitorów.](images/Pasted_image_20250121001319.png)
 
 Polecam kanał YouTube
 [Oliviera Girarda](https://www.youtube.com/@OlivierGirard), który jest
