@@ -128,7 +128,7 @@ mikrofon.
 Za element ergonomii uważam też leżący na blacie arkusz papieru, na którym robię
 notatki i rysunki poglądowe. Jeśli interesuje Cię ten aspekt, zapraszam do
 przeczytania artykułu Techwriter.pl o
-[robieniu notatek wizualnych](https://techwriter.pl/notatki-graficzne/).
+[robieniu notatek wizualnych](../notatki-graficzne/index.md).
 
 ## Silniki
 
