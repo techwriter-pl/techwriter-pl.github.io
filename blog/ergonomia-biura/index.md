@@ -74,7 +74,7 @@ to od Ciebie zależy czy faktycznie wykorzystujesz okazje by zmienić pozycję.
 
 Na początek potrzebujesz wybrać kształt biurka. Zależnie od Twoich potrzeb,
 preferencji i dostępnego miejsca w pokoju, decydujesz czy biurko ma być proste,
-w kształcie litery L czy zakrzywione. Trafiłem gdzieś na informację, że biurka w
+w kształcie litery L, czy zakrzywione. Trafiłem gdzieś na informację, że biurka w
 kształcie litery L nie są ergonomiczne, choć mają swoje zalety takie jak duża
 przestrzeń blatu i możliwość wykorzystania ograniczonej przestrzeni w pokoju. Ja
 wybrałem biurko proste.
