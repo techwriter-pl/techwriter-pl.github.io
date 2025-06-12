@@ -18,6 +18,22 @@ export const jobOffers: JobOfferProps[] = [
       Nie jest to oferta płatnej pracy, ale może dać Ci dużo innych korzyści.`,
   },
   {
+    title: 'Senior Technical Writer',
+    company: 'On The Spot Development',
+    link: 'https://onthespotdev.com/positions/senior-technical-writer-orca-security?utm_source=techwriter.pl&utm_medium=Technical%20Writer&utm_campaign=11.06.2025',
+    location: 'Polska (zdalnie)',
+    type: 'zdalna',
+    description: `#### O roli:
+Dołącz do innowacyjnego i dynamicznego zespołu Orca Security, lidera w branży bezpieczeństwa chmury. Poszukujemy wyjątkowego i utalentowanego Technical Writera, który wniesie jasność i precyzję do naszych nowoczesnych produktów. W tej roli będziesz ściśle współpracować z zespołami inżynierów i produktowymi, tworząc wyjątkową dokumentację, która pomoże naszym klientom zrozumieć i w pełni wykorzystać nasze rozwiązania. To świetna okazja do pracy w przyjaznym, wspierającym kreatywność i innowacyjność środowisku, które sprzyja rozwojowi.
+
+#### Twoje zadania:
+- Współpraca z inżynierami, menedżerami produktu i ekspertami merytorycznymi w celu dokumentowania nowych funkcji, aktualizacji i najnowszych technologii
+- Projektowanie, tworzenie i utrzymywanie artykułów bazy wiedzy, które w przystępny sposób wyjaśniają złożone zagadnienia naszym użytkownikom
+- Zapewnienie, że nasza dokumentacja jest jasna, zwięzła i dokładna, stanowiąc kompleksowe źródło wiedzy zarówno dla odbiorców technicznych, jak i nietechnicznych
+- Proaktywne aktualizowanie i ulepszanie istniejącej dokumentacji na podstawie feedbacku, zmian w produktach i trendów rynkowych
+- Pełna odpowiedzialność za projekty dokumentacyjne od początku do końca, z wkładem w ciągłe doskonalenie naszych procesów dokumentacyjnych`,
+  },
+  {
     title: 'Specjalista ds. Dokumentacji Technicznej – Technical Writer',
     company: 'GREY PARTNERS POLAND SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ',
     link: 'https://www.pracuj.pl/praca/specjalista-ds-dokumentacji-technicznej-technical-writer-poznan,oferta,1004085858',
@@ -53,5 +69,5 @@ Firma pisze o obie tak:
 > We enable Artificial Intelligence at the edge, create complex IoT systems and build robots, drones and other intelligent devices for customers around the globe thanks to our extensive in-house R&D.
  
 Z ciekawszych wymagań, oferta wymienia dobrą znajomość zasad naukowych (scientific principles). Dodatkowym plusem będzie znajomość Pythona i Gita, chociaż nie jest to absolutnie wymagane.`,
-  }
+  },
 ];
