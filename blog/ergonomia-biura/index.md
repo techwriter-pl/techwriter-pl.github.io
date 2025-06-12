@@ -1,0 +1,462 @@
+---
+title:
+  'Jak wyposażyć gabinet do pracy zdalnej? Biurka elektryczne i inne wynalazki'
+authors: niewiarowski
+date: '2025-06-11'
+tags:
+  - 'organizacja-pracy'
+  - 'ergonomia'
+  - 'praca-zdalna'
+coverImage: 'upload_0005.png'
+---
+
+Swego czasu epidemiologiczne zawirowania sprawiły, że wiele osób poznało pracę
+zdalną w większym zakresie niż kiedykolwiek wcześniej. Dla niektórych jest to
+zapomniany epizod, a inni zaś świadomie postawili na taki styl pracy i życia.
+Jak dostosować swój gabinet, żeby zapewnić sobie komfortową pracę zdalną i
+hybrydową?
+
+Dla mnie praca zdalna to codzienna rzeczywistość. Chętnie opowiem o tym, czego
+dowiedziałem się o biurkach elektrycznych i innych akcesoriach ułatwiających
+życie w biurze. Stoi za mną 15 lat doświadczenia pracy biurowej 😉.
+
+<!--truncate-->
+
+Mam nadzieję, że po przeczytaniu tego artykułu łatwiej zdecydujesz czy warto
+mieć biurko elektryczne i na co zwrócić uwagę, jeśli się na nie zdecydujesz.
+Temat ergonomii pracy jest bardzo rozległy i ten artykuł z pewnością go nie
+wyczerpie. Dostaniesz garść obserwacji i odniesień do źródeł, z którymi możesz
+się zapoznać.
+
+Zaznaczam też, że nie jestem fizjoterapeutą, dzielę się wskazówkami, z którymi
+się zetknąłem. Podejmuj decyzje dotyczące ergonomii gabinetu w oparciu o swój
+research i wiedzę specjalisty, zwłaszcza jeśli jesteś pod opieką fizjoterapeuty.
+Mam nadzieję, że artykuł ten pomoże Ci w zrobieniu właściwego rozeznania i
+podjęciu słusznych decyzji.
+
+## Wstęp
+
+Czy warto zainwestować w biurko elektryczne i dodatki, które będą Ci służyły w
+gabinecie?
+
+Widzę dwie drogi 🙂. Którą wybierzesz?
+![Diagram przedstawia ścieżki decyzyjne na temat wyposażania gabinetu. Punkt startowy: "Ergonomia Gabinetu" z pytaniem: "Czy inwestujesz w nią?". Ścieżka negatywna: "Nie inwestuję w nią". Komentarz: "Brawo! Brawo! Oszczędziłeś / oszczędziłaś sporo pieniędzy".
+Ścieżka pozytywna z serią kroków: "Tak, inwestuję w Ergonomię Gabinetu", "Jestem tego wart, warta!", "Kup biurko elektryczne", "Zadbaj o monitory", "Zadbaj o oświetlenie naturalne i sztuczne", "Kup ramię do monitora", "Wybierz podstawkę pod laptop", "Kup biuwar i mazaki", "Kup słuchawki wygłuszające", "Wybierz ergonomiczne krzesło", "Kup ergonomiczną mysz z klawiaturą", "Kup matę relaksacyjną, żeby wygodnie się stało", "Jak głęboko sięga ta królicza nora gadżetów???", "Ciesz się z wygodnej i efektywnej pracy!😃".](images/Pasted_image_20250323115915.png)
+
+**Przykładowa ścieżka decyzyjna w kwestii ergonomii biura. Nie każdy gadżet jest
+obowiązkowy, a doposażanie odbywa się stopniowo, na przestrzeni kilku lat.
+Narysowałem to w DrawIO.**
+
+Jeśli wybierzesz się tę długą, ekscytującą i finansowo nieobojętną podróż,
+zapraszam Cię do przeglądu rozmaitych gadżetów, w które możesz wyposażyć swoje
+biuro. Zacznijmy od największego gabarytowo sprzętu, czyli biurka. Opowiem o
+aspektach, na które warto zwrócić uwagę i wrażeniach z użytkowania.
+
+## Biurko elektryczne
+
+### Aspekty zdrowotne i czy warto
+
+Biurko elektryczne traktuję jako uzupełnienie zdrowego stylu życia. Doceniam
+możliwość jednoczesnej pracy i pełnego wyprostowania się. Daje to urozmaicenie w
+czasie dnia pracy. W wielu sytuacjach pozycja stojąca przychodzi naturalnie,
+np.: podczas wideokonferencji lub webinarów. Do pewnych zadań jednak wolę
+usiąść. Może to kwestia przyzwyczajenia i pewna bariera mentalna. Często mówię
+sobie w myślach: "Muszę do tego przysiąść". Podczas tworzenia notatek
+graficznych na biuwarze czy gdy piszę dokumentację najczęściej siedzę. Przy
+sprawdzaniu tego co napisałem, częściej podnoszę biurko. Webinary i
+telekonferencje to kolejne okazje, by rozprostować kości.
+
+Elektryczne biurko na niewiele zda się, jeśli prowadzisz niezdrowy tryb życia.
+Jeśli masz słabe mięśnie, praca na stojąco będzie Cię szybko męczyć. Jest to
+tylko jeden z elementów, który może mieć pozytywny wpływ na Twoje zdrowie, ale
+to od Ciebie zależy czy faktycznie wykorzystujesz okazje by zmienić pozycję.
+
+### Kształt biurka
+
+Na początek potrzebujesz wybrać kształt biurka. Zależnie od Twoich potrzeb,
+preferencji i dostępnego miejsca w pokoju, decydujesz czy biurko ma być proste,
+w kształcie litery L, czy zakrzywione. Trafiłem gdzieś na informację, że biurka
+w kształcie litery L nie są ergonomiczne, choć mają swoje zalety takie jak duża
+przestrzeń blatu i możliwość wykorzystania ograniczonej przestrzeni w pokoju. Ja
+wybrałem biurko proste.
+
+### Szerokość i głębokość blatu
+
+Tu nie ma wielkiej filozofii. Na bazie tego ile masz sprzętu, monitorów i
+dostępnego miejsca w pokoju, wybierasz odpowiednią szerokość blatu. Głębokość
+nie powinna być mniejsza niż 70 cm. Moje biurko na którym spokojnie mieszczą się
+dwa monitory zewnętrzne i laptop ma wymiary 80 cm na 160 cm.
+
+### Grubość i rodzaj blatu
+
+Na rynku jest bardzo duży wybór materiałów. Ja wybrałem blat grubości 1,5 cm z
+odpornego tworzywa sztucznego. Opcją tańszą byłaby płyta pilśniowa. Do
+najdroższych opcji należy blat z drewna dębowego.
+
+### Przycięcie blatu
+
+![Blat biurka z wyciętym fragmentem brzegu blatu. Przycięcie pozwala dosunąć biurko i prowadzić kable pomiędzy ścianą a biurkiem, przy pełnym jego dosunięciu do ściany.](images/podciecie.png)
+
+**[Źródło obrazka.](https://mobiusdesk.pl/)**
+
+Ja zdecydowałem się na przycięcie blatu od strony ściany, żeby można było
+poprowadzić kable nawet jeśli biurko jest mocno dosunięte. Jeśli po Twoim domu
+biegają dzieci, być może warto pomyśleć nad wyborem zaokrąglonych narożników
+blatu. Bezpieczeństwo ponad wszystko!
+
+### Szuflady i półki
+
+Można też wybrać blat z szufladą lub podwieszaną półką, na której możesz ustawić
+komputer stacjonarny. Warto przemyśleć gdzie będziesz trzymać laptopa czy
+komputer. Niektórzy trzymają zamknięty laptop na półce pod blatem i polegają
+tylko na monitorach zewnętrznych.
+
+### Prowadzenie przewodów, organizer
+
+Z powodów bezpieczeństwa i estetyki, dobrze jest ograniczyć ilość kabli,
+ładowarek, stacji dokujących jakie widzimy na biurku. Do takich wniosków
+zainspirował mnie [kanał YouTube Matthew
+Moniza](https://youtube.com/playlist?list=PLpJp7C9f0ZkQPB91ug26SAaUgbGCyYOnJ&si=C_kfeCkbH-elr3WT),
+gdzie kwestię aranżacji biurka podniesiono do rangi sztuki. 
+
+![Super wysmakowana aranżacja biurka przez osobę manifestującą zainteresowanie muzyką.](images/moniz.png)
+
+Biurko wolne od kabli i ukrywanie sprzętów, które nie muszą leżeć na widoku, to jedne z żelaznych postulatów Matthew. 
+
+A Ty jak zaaranżujesz swoją przestrzeń roboczą?
+
+Kolejna sprawa: w biurku konieczny jest organizer, czyli rodzaj koszyka pod blatem, gdzie możesz
+bezpiecznie odłożyć stację dokującą i ładowarkę. Często pod blatem zamocowana
+jest listwa zasilająca z wieloma gniazdami, do których podłączysz laptop,
+monitory, lampkę i inne sprzęty, z jakich będziesz korzystać. Do poprowadzenia
+kabli pomocne jest przycięcie biurka z tyłu lub otwory w blacie, dzięki którym
+łatwo przeciągniesz kable od monitorów. Zwróć uwagę na ich bezpieczne i
+estetyczne poprowadzenie.
+
+### Moduł z gniazdami
+
+Dodatkowo, na powierzchni biurka możesz mieć wyjście z gniazdami. Dzięki temu
+możesz wygodnie skorzystać z ładowarki do telefonu, podłączyć lampkę czy
+mikrofon.
+
+### Biuwar i mazaki
+
+Za element ergonomii uważam też leżący na blacie arkusz papieru, na którym robię
+notatki i rysunki poglądowe. Jeśli interesuje Cię ten aspekt, zapraszam do
+przeczytania artykułu Techwriter.pl o
+[robieniu notatek wizualnych](../notatki-graficzne/index.md).
+
+## Silniki
+
+Jest to najdroższy i najistotniejszy element biurka, warto przemyśleć parę
+kwestii zanim zdecydujesz się na zakup.
+
+### Udźwig
+
+Weź pod uwagę liczbę monitorów, wagę komputera i innych akcesoriów. Niektóre
+silniki potrafią dźwignąć 70 kg! Mimo ich dużej siły, proszę nie używaj ich jako
+windy i nie siadaj na blacie, zwłaszcza gdy jest on w ruchu 😉.
+
+### Szybkość
+
+Niby trywialny aspekt ale ważny. Niektóre silniki biurek działają powoli i długo
+czekasz aż osiągnięta zostanie właściwa wysokość.
+
+### Zakres wysokości
+
+To jeden z ważniejszych parametrów. Pamiętaj, że dla ergonomicznego ustawienia
+potrzebujesz móc pracować z łokciami pod kątem prostym. Jeśli będziesz wspólnie
+z kimś korzystał z biurka, zwróć uwagę czy dostępny zakres wysokości pozwala obu
+osobom wygodnie pracować na siedząco i na stojąco.
+
+### Kontrola wysokości, nastawy
+
+To wygodna opcja. Zamiast trzymać przycisk góra/dół tak długo aż blat osiągnie
+właściwą wysokość, możesz zdefiniować kilka potrzebnych wysokości. Wciskasz
+przycisk z numerem, a blat wędruje na zdefiniowaną wysokość. Nie wyobrażam sobie
+biurka bez tej opcji 🙂.
+
+### System antykolizyjny
+
+To bardzo ważna opcja, szczególnie, jeśli po domu kręcą się zwierzęta lub
+dzieci. Gdy w trakcie opuszczania blatu wykryty zostanie opór, urządzenie
+zatrzyma się i cofnie. Jest to ważne z punktu widzenia bezpieczeństwa. Już kilka
+razy zdarzyło mi się postawić kubek na szafce pod blatem i opuszczając biurko
+prawie go zmiażdżyłem. Trudniej się zresztą zorientować o takiej sytuacji, gdy
+masz założone słuchawki wygłuszające. Na szczęście jednak dla mnie i dla kubka,
+system antykolizyjny za każdym razem zadziałał jak należy.
+
+### Gwarancja
+
+Warto też zwrócić uwagę na gwarancję, żeby się nie okazało, że po roku
+użytkowania silnik wyzionie ducha i nie będziesz móc dostosować blatu bez
+wymiany silnika.
+
+### Instrukcja stania przy biurku
+
+![Kobieta stoi przy biurku elektrycznym. 
+Podkreślony jest kąt patrzenia. 
+Monitor powinien być ustawiony minimalnie poniżej linii wzroku.](images/upload_0002.png)
+
+**[Źródło obrazka.](https://workriteergo.com/facts-about-standing-desks/)**
+
+To ciekawe, ale okazuje się, że większość ludzi nie potrafi stać prawidłowo
+przez dłuższy czas na dwóch nogach. Garbią się, stoją na jednej nodze,
+przekrzywiają się i wyciągają szyję do przodu, bo ustawili monitor za daleko od
+oczu i mają klawiaturę zbytnio wysuniętą w przód. Łokcie powinny być pod kątem
+prostym (większość ludzi ma je uniesione wyżej co skutkuje nadmiernym napięciem
+mięśni). Najlepiej wystawić jedną nogę w przód i delikatnie balansować
+przód-tył. Po jakimś czasie zamień nogi. Staraj się nie przeciążać jednej ze
+stron. Barki powinny być trzymane naturalnie, bez przesadnego wypinania klatki i
+nadmiernego ściągania łopatek. Odpowiednie ustawienie odcinka szyjnego zależy od
+wysokości na jakiej znajduje się monitor, co omówimy za chwilę.
+
+## Monitory
+
+Większość osób pracujących nad dokumentacją potrzebuje więcej niż jednego
+monitora. Ile ich potrzeba i jak je ustawić? Dowiesz się tego z następnego
+rozdziału.
+
+### Więcej niż jeden
+
+Dużo czasu zajęło mi wybranie odpowiednie ustawienia monitorów. Korzystam z
+monitora laptopa po lewej stronie i dwóch monitorów na statywach: jeden
+ustawiony na wprost i drugi po prawej. Czasem na początku można się pogubić, bo
+nie wiesz gdzie patrzeć i zdarzy Ci się dłużej szukać odpowiedniej aplikacji na
+jednym z monitorów. Dobrze jeśli monitory mają specjalizację, np.: większość
+komunikatorów obsługujesz na laptopie, główną treść oglądasz na monitorze na
+wprost, a po prawej masz materiał do porównywania z główna treścią. Monitory
+ustawione są po półkolu i te boczne są pod kątem, żeby obracając głowę mieć
+monitory w podobnej odległości od oczu.
+
+![Widok z góry, pokazujący mężczyznę patrzącego w przód. Na wprost stoi jeden monitor.Pod kątem po prawej stronie stoi drugi monitor.](images/Pasted_image_20250121001726.png)
+
+**[Źródło obrazka.](https://conwork.pl/pns-15-stanowisko-pracy-z-wieloma-monitorami/)**
+
+### A może jeden ale za to duży?
+
+Podobno lepszą opcją niż mieć obszar roboczy podzielony między wieloma ekranami,
+jest mieć jeden bardzo szeroki monitor. Są też dostępne monitory o zakrzywionej
+powierzchni, niemniej nie testowałem ich. Podobno też dobrze się na nich gra w
+gry komputerowe.
+
+### Monitor w orientacji pionowej
+
+Większość nowych monitorów można obrócić do orientacji pionowej. Ta opcja dobrze
+sprawdza się przy czytaniu PDFów. Treść główną czytam na monitorze z przodu i
+porównuję PDF po prawej stronie - przyjemnie się to wtedy wyświetla. Zbliża się
+czas recenzji materiału? Czas obrócić monitor! 😉
+
+### Wysokość monitora względem oczu
+
+![Porównanie poprawnej pozycji siedzenia przed laptopem przy biurku. 1. Zła pozycja z laptopem stojącym na biurku, gdzie użytkownik mocno musi zginać kark, by widzieć ekran. 2. Poprawna postawa użytkownika, który korzysta z podstawki pod laptopem.](images/Pasted_image_20250121001131.png)
+**[Źródło obrazka.](https://www.gvsu.edu/officeergonomics/computer-monitor-8.htm)**
+
+Ważne, żeby górne krawędzie monitorów były nieco poniżej linii wzroku. Ma to
+wpływ na mięśnie karku i zmęczenie mięśni poruszających oczami. Jeśli korzystasz
+z monitora laptopa, postaraj się ustawić go na podobnej wysokości co reszta
+monitorów. Pomoże Ci w tym podstawka pod laptopa albo kilka encyklopedii 🙂 W
+przypadku monitorów zewnętrznych można zakupić ramię dla lepszej regulacji
+wysokości.
+
+### Odległość blatu od łokci
+
+Podczas pisania łokcie powinny być pod kątem prostym, nadgarstki proste. Czasem
+ciężko jest osiągnąć optymalną wysokość blatu i monitorów jeśli korzystasz z
+tradycyjnego biurka i statywów dostarczonych przez producenta monitorów. Jeśli
+ten problem Cię dotyczy, warto rozważyć regulowane ramiona do monitorów.
+
+### Ustawienie monitorów względem okna
+
+O ile nie pracujesz w piwnicy, musisz wziąć pod uwagę okno. Wiadomo, że każdy ma
+różne warunki lokalowe, warto natomiast pamiętać, że monitor na tle okna będzie
+problematyczny. Latem silne światło będzie wpadać i będzie znaczna różnica
+jasności między monitorem i tłem, co jest męczące dla wzroku. Można stosować
+zasłony i rolety, co pozwoli uniknąć problematycznych blasków ale skutek jest
+taki, że siedzisz w ciemni. Lepiej jeśli okno masz po lewej lub prawej stronie
+od Twoich monitorów.
+
+## Pozostałe akcesoria
+
+### Klawiatura
+
+Swego czasu uświadomiłem sobie, że nie byłem zadowolony z ówczesnej klawiatury.
+Zajmowała dużo miejsca, klawisze były płaskie i bolały mnie palce po całym dniu
+pisania. Poszukałem klawiatury bez sekcji klawiszy numerycznych, bo z nich nie
+korzystałem. Musiałem przewartościować moje życie i odpowiedzieć sobie na takie
+pytania:
+
+- Klawiatura ze wszystkimi klawiszami, 85%, 70% a może 65%?
+- Klawiatura membranowa (cicha) czy mechaniczna (bardzo głośna)?
+- Jak wysokie powinny być klawisze i jaki powinny mieć kształt?
+- W przypadku klawiatur mechanicznych: jaki wybierasz typ przełącznika klawisza?
+
+  **Niebieski** (najgłośniejszy z odczuwalnym kliknięciem),
+
+  **czerwony** (najcichszy z najlżejszym kliknięciem)
+
+  czy **brązowy** (opcja kompromisowa w porównaniu z dwiema poprzednimi)?
+
+  Więcej informacji o przełącznikach klawiszy (z angielska _switch_)
+  [znajdziesz tutaj](https://www.pcmag.com/explainers/guide-to-mechanical-key-switches-which-kind-is-right-for-you).
+
+- Czy potrzebujesz podświetlenia klawiszy, jeśli tak, to w ilu kolorach?
+
+Ostatecznie wybrałem mechaniczną klawiaturę z głośnym klikiem i podświetleniem
+jak choinka na święta. Oprócz świątecznego nastroju na co dzień, umożliwia to
+też pracę po ciemku, kiedy jestem w pomieszczeniu gdzie nie chcę zapalać świateł
+bo np.: śpi tam członek rodziny 🙂. Dźwięk kliknięcia i odczucie wciśnięcia
+klawisza informują Cię o tym, że faktycznie poprawnie wcisnąłeś klawisz. Ma to
+znaczenie przy szybszym pisaniu, kiedy jest większe ryzyko, że omsknie Ci się
+palec. Teraz wygodniej robi mi się notatki i rysunki na biuwarze, bo klawiatura
+jest bardziej kompaktowa.
+
+![Porównanie klawiatur w zależności od liczby klawiszy. 108 klawiszy to 100%, 87 klawiszy to 80%, 82 klawisze to 75%.](images/upload_0006.png)
+
+**[Źródło obrazka.](https://goblintechkeys.com/blogs/news/type-of-keyboard-and-sizes)**
+
+Gdzie ustawić klawiaturę na blacie? Powinna być blisko krawędzi, litera V
+wycelowana w pępek.
+
+### Mysz
+
+Miałem ten prozaiczny problem, że pod dłuższym użytkowaniu przycisk przewijania
+stracił swoją dokładność. Gdy przewijałem strony internetowe i PDFy
+przeskakiwałem na daleko, albo mysz nie rejestrowała moich ruchów w ogóle.
+Wybrałem jakąś mysz gamingową, co poprawiło moje doświadczenia w tym zakresie.
+Kółko myszy znów zaczęło mnie słuchać i odzyskałem pełną kontrolę nad
+przewijaniem ekranu i moim życiem.
+
+Mysz jest też wyposażona w dwa dodatkowe przyciski, które skrzętnie ustawiłem,
+by uruchamiały aplikacje Obsidian i Snagit (zaznaczanie obszaru zrzutu ekranu)
+🙂. Nie próbowałem jeszcze myszy pionowych, nie odczuwam zresztą problemów z
+nadgarstkami. Podstawową sprawą gdy korzystasz z myszy i klawiatury jest
+zapewnienie neutralnej pozycji nadgarstka.
+
+### Krzesło
+
+Przed zakupem krzesła warto je wypróbować. Gdy je prawidłowo ustawisz, nogi będą
+pod kątem prostym. Z tego co się dowiedziałem, kiedy pracujesz, ręce nie powinny
+spoczywać na podłokietnikach. Podłokietniki dają oparcie gdy odchylasz się do
+tyłu. Podczas odchylania się można użyć zagłówka, jeśli Twój model krzesła jest
+w niego wyposażony. Im więcej opcji regulacji ma Twoje krzesło, tym wyższa jego
+cena. Dobrym urozmaiceniem jest też usiąść na nadmuchanej poduszce, co pozwala
+plecom na większy zakres ruchu. Niektórzy na jakiś czas siadają na piłce
+fitness. Są też na rynku różne narzędzia tortur, takie jak klęcznik, które
+podobno nie są wcale takie zdrowe.
+
+Ciekawą propozycją jest produkt o nazwie Dragonfly, pozwalający na aktywne
+siedzenie i przyjmowanie różnych pozycji, dzięki czemu możesz rozciągać i
+wzmacniać różne partie mięśni.
+
+![Krzesło specjalistyczne Dragonfly. Rodzaj siedzenia bez oparcia dla pleców, które pozwala przybierać zdrowe pozycje ciała](images/upload_0001.png)
+
+**[Źródło zdjęcia](https://www.dragonflychair.com/dragonflychair-classic-black).**
+
+### Mata antyzmęczeniowa
+
+Do czego potrzebujesz maty antyzmęczeniowej? Każdy kto pracował cały dzień za
+stojąco za kontuarem wie jak po tym bolą stopy. Podłoga jest twarda i po jakimś
+czasie wywiera swój wpływ na Twoje stopy. Miękka gumowa mata antystresowa
+sprawia, że przyjemniej się stoi. Niektóre modele wyposażone są w wypustki,
+które dodatkowo masują stopy. Dzięki macie możesz dłużej i bardziej komfortowo
+pracować na stojąco.
+
+### Słuchawki wygłuszające
+
+Korzystam ze słuchawek z opcją wygłuszania hałasu. Nie wiem czy zdrowe dla uszu
+jest bombardowanie ich szumem, który niweluje hałas. Efekt uboczny jest taki, że
+jak zdejmiesz słuchawki to zaczynasz słyszeć każde najmniejsze stuknięcie. Tak
+czy inaczej, słuchawki takie pomagają Ci przetrwać dzień, gdy za oknem ogrodnik
+kosi trawę albo słyszysz hałas pobliskiej budowy czy też sasiad z kolegami
+testują nowe wiertła.
+
+## Zakończenie
+
+W tym miejscu stawiam kropkę. Mam nadzieję, że dostarczyłem przydatnych
+informacji. Życzę Wam wielu lat wygodnej i zdrowej pracy. Zapraszam do dalszego
+poznawania tajników ergonomii pracy. Jeśli jeszcze czujesz niedosyt, zapoznaj
+się z poniższymi materiałami.
+
+## Linki do materiałów
+
+Poniżej znajdziesz pogrupowane linki.
+
+### Playlista
+
+Wiedza w pigułce:
+[film edukacyjno-szkoleniowy "Ergonomia w biurze"](https://www.youtube.com/watch?v=RkfwYQhsAeQ)
+dobrze przedstawia wszystkie zagadnienia. Może co do jednej rzeczy bym się
+przyczepił, jest to wciąż solidny materiał.
+
+[Playlista na YouTube](https://www.youtube.com/watch?v=GywwAnQj-kA&list=PLWT2ANgf6EmKgfeF2dvwPZxDxEjII2UuC&pp=gAQB)
+z wieloma filmami o ustawiania wielu monitorów i ergonomia pracy przy biurku.
+
+Szczególnie warto zwrócić uwagę na film
+["Best Way to Setup My Dual Monitors?"](https://www.youtube.com/watch?v=l1N3jlgqcQ4)
+Davida Zhanga:
+![Ilustracja z filmu na YouTube pokazująca różne układy aranżowania dwóch monitorów.](images/Pasted_image_20250121001319.png)
+
+Polecam kanał YouTube
+[Oliviera Girarda](https://www.youtube.com/@OlivierGirard), który jest
+fizjoterapeutą i dzieli się fachową wiedzą na każdy możliwy temat związany z
+pracą przy biurku. W wielu miejscach tego artykułu oparłem się o jego zalecenia.
+
+Nie wiesz czy potrzebujesz zagłówka w fotelu? Czy potrzebujesz podłokietników i
+jak z nich korzystać? Jak wybrać podnóżek? Jak prawidłowo siedzieć przy biurku i
+przy nim stać? Jak ustawić monitory dla najlepszego widzenia i postawy? Na te i
+inne pytania znajdziecie odpowiedzi na jego kanale.
+
+### Artykuły
+
+Lista w większości angielskich artykułów, które okazały się pomocne.
+
+#### Genialny przewodnik o ustawianiu wielu monitorów obok siebie
+
+https://www.crypticbutter.com/arrange-dual-monitors-ergonomics
+
+#### Pozostałe artykuły o ustawianiu wielu monitorów
+
+https://www.autonomous.ai/ourblog/full-guide-for-a-triple-monitor-desk-setup
+
+https://thenaturehero.com/triple-monitor-desk-setup/
+
+https://homeofficeapproved.com/desk-size-for-two-or-three-monitors/
+
+https://www.brateck.com/en/news&blog-detail/2024-diy-workspace-upgrade-step-by-step-guide-to-achieving-the-optimal-monitor-positioning
+
+https://conwork.pl/stanowisko-pracy-z-wieloma-monitorami/
+
+#### Postawa przy biurku
+
+https://www.gvsu.edu/officeergonomics/computer-monitor-8.htm
+
+#### Ustawienie biurka względem okna
+
+https://www.thesmarterhomeoffice.com/home-office-desk-facing-the-window-no/
+
+https://thenaturehero.com/desk-facing-window/
+
+#### Fakty o staniu przy biurku i badania
+
+https://workriteergo.com/facts-about-standing-desks/
+
+https://workriteergo.com/sit-stand-study/
+
+https://workriteergo.com/ergonomics-research/
+
+https://workriteergo.com/good-posture-guide/
+
+https://workriteergo.com/workrite-care/
+
+#### Przewodnik po rodzajach klawiszy do klawiatury
+
+https://keebnews.com/keycap-profiles/
+
+#### Rodzaje klawiatur
+
+https://keyspace.store/blogs/blog/keyboard-size-guide
+
+#### Działanie słuchawek wygłuszających
+
+https://produktowranking.pl/guide/sluchawki-wygluszajace/
