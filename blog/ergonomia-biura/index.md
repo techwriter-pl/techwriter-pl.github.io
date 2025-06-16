@@ -52,6 +52,9 @@ biuro. Zacznijmy od największego gabarytowo sprzętu, czyli biurka.
 
 ## Biurko elektryczne
 
+Przyjrzyjmy się różnym parametrom i zaleceniom dotyczącym regulowanych biurek
+elektrycznych.
+
 ### Aspekty zdrowotne i czy warto
 
 Doceniam możliwość jednoczesnej pracy i pełnego wyprostowania się. Stanowi to
@@ -224,6 +227,8 @@ czas recenzji materiału? Czas obrócić monitor! 😉
 
 ## Zdrowe warunki pracy i właściwa postawa
 
+Jak dbać o prawidłową postawę, z zgodzie z zasadami BHP.
+
 ### Ustawienie monitorów względem okna
 
 O ile nie pracujesz w piwnicy, musisz wziąć pod uwagę okno. Zwróć uwagę na
@@ -298,6 +303,9 @@ dłużej i bardziej komfortowo pracować na stojąco. Niektóre modele wyposażo
 w wypustki, które dodatkowo masują stopy.
 
 ## Pozostałe akcesoria
+
+Na koniec o ostatnich sprzętach bez których nie ma pracy biurowej, choć czasem
+zwraca się na nie mało uwagi.
 
 ### Klawiatura
 
@@ -398,7 +406,7 @@ Poniżej znajdziesz pogrupowane linki.
   zalecenia.
 
   - [Playlista na YouTube](https://www.youtube.com/watch?v=GywwAnQj-kA&list=PLWT2ANgf6EmKgfeF2dvwPZxDxEjII2UuC&pp=gAQB)
-o ustawianiu kilku monitorów i ergonomii pracy przy biurku.
+    o ustawianiu kilku monitorów i ergonomii pracy przy biurku.
 
 ### Do przeczytania
 
