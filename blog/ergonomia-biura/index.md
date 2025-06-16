@@ -64,7 +64,7 @@ przyzwyczajenia i pewna bariera mentalna. Często mówię sobie w myślach: "Mus
 do tego przysiąść". Hmm. Może pora zacząć mówić sobie: "Czas **stanąć** na
 wysokości zadania?"😉.
 
-Podczas tworzenia notatek graficznych na biuwarze czy gdy piszę dokumentację
+Podczas tworzenia notatek graficznych na biuwarze, czy gdy piszę dokumentację
 najczęściej siedzę. Przy sprawdzaniu tego co napisałem, częściej podnoszę
 biurko. Webinary i wideokonferencje to kolejne okazje, by rozprostować kości.
 
@@ -80,7 +80,7 @@ na informację, że biurka w kształcie litery L nie są ergonomiczne.
 
 ### Szerokość i głębokość blatu
 
-Tu nie ma wielkiej filozofii. Na podstawie tego ile masz sprzętu, monitorów i
+Tu nie ma wielkiej filozofii. Na podstawie tego, ile masz sprzętu, monitorów i
 dostępnego miejsca w pokoju, wybierasz odpowiednią szerokość blatu. Głębokość
 nie powinna być mniejsza niż 70 cm. Na moim biurku 80 cm na 160 cm spokojnie
 mieszczą się dwa monitory zewnętrzne i laptop.
@@ -375,7 +375,7 @@ Korzystam ze słuchawek z opcją wygłuszania hałasu. Działają na zasadzie
 emitowania "antyszumu", który niweluje hałas. Efekt uboczny jest taki, że jak
 zdejmiesz słuchawki to zaczynasz słyszeć każde najmniejsze stuknięcie. Tak czy
 inaczej, słuchawki takie pomagają Ci przetrwać dzień, gdy za oknem ogrodnik kosi
-trawę albo słyszysz hałas pobliskiej budowy czy też sasiad z kolegami testują
+trawę albo słyszysz hałas pobliskiej budowy czy też sąsiad z kolegami testują
 nowe wiertła.
 
 ## Zakończenie
