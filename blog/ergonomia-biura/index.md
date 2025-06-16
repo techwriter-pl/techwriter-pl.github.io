@@ -250,8 +250,8 @@ wysokości.
 
 Przed zakupem krzesła warto je wypróbować. Gdy je prawidłowo ustawisz, nogi będą
 pod kątem prostym. Kiedy pracujesz, ręce nie powinny spoczywać na
-podłokietnikach. Podłokietniki służą do oparcia rąk podczas odpoczynku i powinny
-być ustawione poniżej wysokości blatu.
+podłokietnikach. Podłokietniki służą tylko do opierania rąk podczas odpoczynku i
+powinny być ustawione poniżej wysokości blatu.
 
 Podczas odchylania się dobrze jak możesz oprzeć głowę o zagłówek. Im więcej
 elementów i opcji regulacji ma Twoje krzesło, tym wyższa jego cena. Zwróć też
@@ -379,17 +379,14 @@ niedosyt, zapoznaj się z poniższymi materiałami.
 
 Poniżej znajdziesz pogrupowane linki.
 
-### Playlista
+### Do obejrzenia
 
 - Wiedza w pigułce:
-  [film edukacyjno-szkoleniowy "Ergonomia w biurze"](https://www.youtube.com/watch?v=RkfwYQhsAeQ)
+  [film edukacyjny "Ergonomia w biurze"](https://www.youtube.com/watch?v=RkfwYQhsAeQ)
   dobrze przedstawia wszystkie zagadnienia. Może co do jednej rzeczy bym się
   przyczepił, jest to wciąż solidny materiał.
 
-- [Playlista na YouTube](https://www.youtube.com/watch?v=GywwAnQj-kA&list=PLWT2ANgf6EmKgfeF2dvwPZxDxEjII2UuC&pp=gAQB)
-  z wieloma filmami o ustawianiu kilku monitorów i ergonomii pracy przy biurku.
-
-- Szczególnie polecam film:
+- Polecam film:
   ["Best Way to Setup My Dual Monitors?"](https://www.youtube.com/watch?v=l1N3jlgqcQ4)
   Davida Zhanga:
   ![Ilustracja z filmu na YouTube pokazująca różne układy aranżowania dwóch monitorów.](images/Pasted_image_20250121001319.png)
@@ -400,7 +397,10 @@ Poniżej znajdziesz pogrupowane linki.
   pracą przy biurku. W wielu miejscach tego artykułu oparłem się o jego
   zalecenia.
 
-### Artykuły
+  - [Playlista na YouTube](https://www.youtube.com/watch?v=GywwAnQj-kA&list=PLWT2ANgf6EmKgfeF2dvwPZxDxEjII2UuC&pp=gAQB)
+o ustawianiu kilku monitorów i ergonomii pracy przy biurku.
+
+### Do przeczytania
 
 Lista w większości angielskich artykułów, które okazały się pomocne.
 
@@ -420,15 +420,15 @@ https://www.brateck.com/en/news&blog-detail/2024-diy-workspace-upgrade-step-by-s
 
 https://conwork.pl/stanowisko-pracy-z-wieloma-monitorami/
 
-#### Postawa przy biurku
-
-https://www.gvsu.edu/officeergonomics/computer-monitor-8.htm
-
 #### Ustawienie biurka względem okna
 
 https://www.thesmarterhomeoffice.com/home-office-desk-facing-the-window-no/
 
 https://thenaturehero.com/desk-facing-window/
+
+#### Postawa przy biurku
+
+https://www.gvsu.edu/officeergonomics/computer-monitor-8.htm
 
 #### Fakty o staniu przy biurku i badania
 
@@ -442,13 +442,13 @@ https://workriteergo.com/good-posture-guide/
 
 https://workriteergo.com/workrite-care/
 
-#### Przewodnik po rodzajach klawiszy do klawiatury
-
-https://keebnews.com/keycap-profiles/
-
 #### Rodzaje klawiatur
 
 https://keyspace.store/blogs/blog/keyboard-size-guide
+
+#### Przewodnik po rodzajach klawiszy do klawiatury
+
+https://keebnews.com/keycap-profiles/
 
 #### Działanie słuchawek wygłuszających
 
