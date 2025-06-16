@@ -235,7 +235,7 @@ boczne są pod kątem, żeby obracając głowę mieć monitory w podobnej odleg�
 oczu. Upewnij się, że możesz dotknąć czubkami palców do górnych krawędzi każdego
 z monitorów.
 
-![Widok z góry, pokazujący mężczyznę patrzącego w przód. Na wprost stoi jeden monitor.Pod kątem po prawej stronie stoi drugi monitor.](images/Pasted_image_20250121001726.png)
+![Widok z góry, pokazujący mężczyznę patrzącego w przód. Na wprost stoi jeden monitor. Pod kątem po prawej stronie stoi drugi monitor.](images/Pasted_image_20250121001726.png)
 
 **[Źródło obrazka.](https://conwork.pl/pns-15-stanowisko-pracy-z-wieloma-monitorami/)**
 
