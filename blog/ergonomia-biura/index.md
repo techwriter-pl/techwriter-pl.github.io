@@ -2,7 +2,7 @@
 title:
   'Jak wyposażyć gabinet do pracy zdalnej? Biurka elektryczne i inne wynalazki'
 authors: niewiarowski
-date: '2025-06-11'
+date: '2025-06-17'
 tags:
   - 'organizacja-pracy'
   - 'ergonomia'
@@ -62,7 +62,7 @@ dla mnie urozmaicenie w czasie dnia pracy. W wielu sytuacjach pozycja stojąca
 przychodzi naturalnie. Do pewnych zadań jednak wolę usiąść. Może to kwestia
 przyzwyczajenia i pewna bariera mentalna. Często mówię sobie w myślach: "Muszę
 do tego przysiąść". Hmm. Może pora zacząć mówić sobie: "Czas **stanąć** na
-wysokości zadania?"😉
+wysokości zadania?"😉.
 
 Podczas tworzenia notatek graficznych na biuwarze czy gdy piszę dokumentację
 najczęściej siedzę. Przy sprawdzaniu tego co napisałem, częściej podnoszę
@@ -80,7 +80,7 @@ na informację, że biurka w kształcie litery L nie są ergonomiczne.
 
 ### Szerokość i głębokość blatu
 
-Tu nie ma wielkiej filozofii. Na bazie tego ile masz sprzętu, monitorów i
+Tu nie ma wielkiej filozofii. Na podstawie tego ile masz sprzętu, monitorów i
 dostępnego miejsca w pokoju, wybierasz odpowiednią szerokość blatu. Głębokość
 nie powinna być mniejsza niż 70 cm. Na moim biurku 80 cm na 160 cm spokojnie
 mieszczą się dwa monitory zewnętrzne i laptop.
@@ -98,7 +98,7 @@ pilśniowa. Do najdroższych opcji należy blat z drewna dębowego.
 
 **[Źródło obrazka.](https://mobiusdesk.pl/)**
 
-Ja zdecydowałem się na przycięcie blatu od strony ściany, żeby można było
+Zdecydowałem się na przycięcie blatu od strony ściany, żeby można było
 poprowadzić kable z tyłu nawet gdy biurko jest mocno dosunięte. Jeśli po Twoim
 domu biegają dzieci, być może warto pomyśleć nad wyborem zaokrąglonych
 narożników blatu. Bezpieczeństwo ponad wszystko!
@@ -112,7 +112,7 @@ tylko na monitorach zewnętrznych.
 
 ### Prowadzenie przewodów, organizer
 
-Dobrze jest minimalizować ilość kabli, ładowarek, stacji dokujących jakie
+Dobrze jest minimalizować ilość kabli, ładowarek i stacji dokujących jakie
 widzisz na biurku. Do takich wniosków zainspirował mnie
 [kanał YouTube Matthew Moniza](https://youtube.com/playlist?list=PLpJp7C9f0ZkQPB91ug26SAaUgbGCyYOnJ&si=C_kfeCkbH-elr3WT),
 gdzie kwestię aranżacji biurka podniesiono do rangi sztuki.
@@ -197,11 +197,11 @@ Dużo czasu zajęło mi wybranie odpowiedniego ustawienia monitorów. Korzystam 
 monitora laptopa po lewej stronie i dwóch monitorów na podstawkach od
 producenta: jeden ustawiony na wprost i drugi po prawej.
 
-Na początku można się pogubić, bo zdarza Ci się dłużej szukać odpowiedniej
-aplikacji czy informacji na Twoich monitorach. Dobrze jeśli monitory są
-przeznaczone do określonych celów, np.: większość komunikatorów obsługujesz na
-laptopie, główną treść oglądasz na monitorze na wprost, a po prawej masz
-materiał do porównywania.
+Na początku możesz gubić, bo zdarzy Ci się szukać wzrokiem potrzebnej aplikacji
+czy informacji na Twoich monitorach. Dobrze jeśli monitory są przeznaczone do
+określonych celów, np.: większość komunikatorów obsługujesz na laptopie, główną
+treść oglądasz na monitorze na wprost, a po prawej masz materiał do
+porównywania.
 
 Monitory ustawione są po półkolu i te boczne są pod kątem, żeby obracając głowę
 mieć monitory w podobnej odległości od oczu. Upewnij się, że możesz dotknąć
@@ -232,12 +232,13 @@ Jak dbać o prawidłową postawę, z zgodzie z zasadami BHP.
 ### Ustawienie monitorów względem okna
 
 O ile nie pracujesz w piwnicy, musisz wziąć pod uwagę okno. Zwróć uwagę na
-warunki lokalowe, bo warto natomiast pamiętać, że widok monitora na tle okna
-będzie problematyczny. Latem silne światło będzie wpadać i będzie znaczna
-różnica jasności między monitorem i tłem, co jest męczące dla wzroku. Można
-stosować zasłony i rolety, co pozwoli uniknąć problematycznych blasków ale
-skutek jest taki, że siedzisz w ciemni. Lepiej jeśli okno jest prostopadle
-względem monitorów, po lewej lub prawej stronie.
+warunki lokalowe, bo widok monitora na tle okna będzie problematyczny. Latem
+silne światło będzie wpadać i będzie znaczna różnica jasności między monitorem i
+tłem, co jest męczące dla wzroku. Można stosować zasłony i rolety, co pozwoli
+uniknąć problematycznych blasków ale skutek jest taki, że siedzisz w ciemni.
+
+Lepiej jeśli okno jest prostopadle względem monitorów, po lewej lub prawej
+stronie.
 
 ### Wysokość monitora względem oczu
 
@@ -248,7 +249,7 @@ Ważne, żeby górne krawędzie monitorów były nieco poniżej linii wzroku.
 Nieprawidłowo dobrana wysokość skutkuje zmęczeniem karku i oczu. Jeśli
 korzystasz z monitora laptopa, postaraj się ustawić go na podobnej wysokości co
 reszta monitorów. Pomoże Ci w tym podstawka pod laptopa albo kilka encyklopedii
-🙂 W przypadku monitorów zewnętrznych można zakupić ramię dla lepszej regulacji
+🙂. W przypadku monitorów zewnętrznych można zakupić ramię dla lepszej regulacji
 wysokości.
 
 ### Na czym siedzieć? I jak robić to zdrowo?
@@ -342,8 +343,8 @@ też pracę po ciemku, kiedy jestem w pomieszczeniu gdzie nie chcę zapalać św
 bo np.: śpi tam członek rodziny 🙂.
 
 Dźwięk kliknięcia i odczucie wciśnięcia klawisza informują Cię o tym, że
-faktycznie poprawnie wcisnąłeś klawisz. Ma to znaczenie przy szybszym pisaniu,
-kiedy jest większe ryzyko, że omsknie Ci się palec.
+poprawnie wcisnąłeś klawisz. Ma to znaczenie przy szybszym pisaniu,
+kiedy jest ryzyko, że omsknie Ci się palec.
 
 Teraz wygodniej robi mi się notatki i rysunki na biuwarze, bo klawiatura jest
 bardziej kompaktowa.
@@ -380,7 +381,7 @@ nowe wiertła.
 ## Zakończenie
 
 W tym miejscu stawiam kropkę. Życzę Ci wielu lat wygodnej i zdrowej pracy.
-Zapraszam do dalszego poznawania tajników ergonomii pracy. Jeśli jeszcze czujesz
+Zapraszam do dalszego poznawania tajników ergonomii pracy. Jeśli czujesz
 niedosyt, zapoznaj się z poniższymi materiałami.
 
 ## Polecane materiały
@@ -391,7 +392,7 @@ Poniżej znajdziesz pogrupowane linki.
 
 - Wiedza w pigułce:
   [film edukacyjny "Ergonomia w biurze"](https://www.youtube.com/watch?v=RkfwYQhsAeQ)
-  dobrze przedstawia wszystkie zagadnienia. Może co do jednej rzeczy bym się
+  zwięźle przedstawia kluczowe zagadnienia. Może co do jednej rzeczy bym się
   przyczepił, jest to wciąż solidny materiał.
 
 - Polecam film:
@@ -454,7 +455,7 @@ https://workriteergo.com/workrite-care/
 
 https://keyspace.store/blogs/blog/keyboard-size-guide
 
-#### Przewodnik po rodzajach klawiszy do klawiatury
+#### Rodzaje klawiszy do klawiatury
 
 https://keebnews.com/keycap-profiles/
 
