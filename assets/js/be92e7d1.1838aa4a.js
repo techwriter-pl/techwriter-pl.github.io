@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[83320],{48752:e=>{e.exports=JSON.parse('{"tag":{"label":"ergonomia","permalink":"/tags/ergonomia","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/ergonomia","page":1,"postsPerPage":5,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
