@@ -404,8 +404,8 @@ Poniżej znajdziesz pogrupowane linki.
   pracą przy biurku. W wielu miejscach tego artykułu oparłem się o jego
   zalecenia.
 
-  - [Playlista na YouTube](https://www.youtube.com/watch?v=GywwAnQj-kA&list=PLWT2ANgf6EmKgfeF2dvwPZxDxEjII2UuC&pp=gAQB)
-    o ustawianiu kilku monitorów i ergonomii pracy przy biurku.
+- [Playlista na YouTube](https://www.youtube.com/watch?v=GywwAnQj-kA&list=PLWT2ANgf6EmKgfeF2dvwPZxDxEjII2UuC&pp=gAQB)
+  o ustawianiu kilku monitorów i ergonomii pracy przy biurku.
 
 ### Do przeczytania
 
