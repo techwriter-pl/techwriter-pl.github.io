@@ -257,7 +257,7 @@ pod kątem prostym. Kiedy pracujesz, ręce nie powinny spoczywać na
 podłokietnikach. Podłokietniki służą tylko do opierania rąk podczas odpoczynku i
 powinny być ustawione poniżej wysokości blatu.
 
-Podczas odchylania się dobrze jak możesz oprzeć głowę o zagłówek. Im więcej
+Podczas odchylania się, dobrze jak możesz oprzeć głowę o zagłówek. Im więcej
 elementów i opcji regulacji ma Twoje krzesło, tym wyższa jego cena. Zwróć też
 uwagę na dobre wsparcie dolnej partii pleców.
 
