@@ -85,6 +85,11 @@ dostępnego miejsca w pokoju, wybierasz odpowiednią szerokość blatu. Głębok
 nie powinna być mniejsza niż 70 cm. Na moim biurku 80 cm na 160 cm spokojnie
 mieszczą się dwa monitory zewnętrzne i laptop.
 
+Oprócz tego, na blacie jest też miejsce na biuwar, na którym mazakami robię
+notatki i rysunki poglądowe. Jeśli interesuje Cię ten aspekt, zapraszam do
+przeczytania artykułu na Techwriter.pl o
+[robieniu notatek wizualnych](../notatki-graficzne/index.md).
+
 ### Grubość i rodzaj blatu
 
 Na rynku jest bardzo duży wybór materiałów. Ja wybrałem blat grubości 1,5 cm z
@@ -130,13 +135,6 @@ otwór w środkowej części w blatu.
 Dodatkowo, na powierzchni biurka możesz mieć wyjście z gniazdami. Dzięki temu
 możesz wygodnie skorzystać z ładowarki do telefonu, podłączyć lampkę czy
 mikrofon.
-
-### Biuwar i mazaki
-
-Za element ergonomii uważam też leżący na blacie arkusz papieru, na którym robię
-notatki i rysunki poglądowe. Jeśli interesuje Cię ten aspekt, zapraszam do
-przeczytania artykułu na Techwriter.pl o
-[robieniu notatek wizualnych](../notatki-graficzne/index.md).
 
 ## Silniki
 
@@ -197,8 +195,8 @@ Dużo czasu zajęło mi wybranie odpowiedniego ustawienia monitorów. Korzystam 
 monitora laptopa po lewej stronie i dwóch monitorów na podstawkach od
 producenta: jeden ustawiony na wprost i drugi po prawej.
 
-Na początku możesz gubić, bo zdarzy Ci się szukać wzrokiem potrzebnej aplikacji
-czy informacji na Twoich monitorach. Dobrze jeśli monitory są przeznaczone do
+Na początku możesz się gubić, bo zdarzy Ci się szukać wzrokiem potrzebnej
+aplikacji czy informacji na monitorach. Dobrze jeśli monitory są przeznaczone do
 określonych celów, np.: większość komunikatorów obsługujesz na laptopie, główną
 treść oglądasz na monitorze na wprost, a po prawej masz materiał do
 porównywania.
@@ -343,8 +341,8 @@ też pracę po ciemku, kiedy jestem w pomieszczeniu gdzie nie chcę zapalać św
 bo np.: śpi tam członek rodziny 🙂.
 
 Dźwięk kliknięcia i odczucie wciśnięcia klawisza informują Cię o tym, że
-poprawnie wcisnąłeś klawisz. Ma to znaczenie przy szybszym pisaniu,
-kiedy jest ryzyko, że omsknie Ci się palec.
+poprawnie wcisnąłeś klawisz. Ma to znaczenie przy szybszym pisaniu, kiedy jest
+ryzyko, że omsknie Ci się palec.
 
 Teraz wygodniej robi mi się notatki i rysunki na biuwarze, bo klawiatura jest
 bardziej kompaktowa.
