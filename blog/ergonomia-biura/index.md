@@ -86,8 +86,8 @@ nie powinna być mniejsza niż 70 cm. Na moim biurku 80 cm na 160 cm spokojnie
 mieszczą się dwa monitory zewnętrzne i laptop.
 
 Oprócz tego, na blacie mam też miejsce na biuwar, na którym mazakami robię
-notatki i rysunki poglądowe. Jeśli interesuje Cię ten aspekt, zapraszam do
-przeczytania artykułu na Techwriter.pl o
+notatki i rysunki poglądowe. Jeśli interesuje Cię ten aspekt ergonomii pracy, 
+zapraszam do przeczytania artykułu na Techwriter.pl o
 [robieniu notatek wizualnych](../notatki-graficzne/index.md).
 
 ### Grubość i rodzaj blatu
