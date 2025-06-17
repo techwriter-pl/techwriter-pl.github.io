@@ -10,6 +10,15 @@ export type Conference = {
 
 export const conferences: Conference[] = [
   {
+    title: 'Konferencja Tłumaczy',
+    startDate: new Date('26 September 2025'),
+    endDate: new Date('27 September 2025'),
+    location: 'Warszawa, Polska',
+    type: ['in-person', 'online'],
+    link: 'https://konferencja-tlumaczy.pl/',
+    isPartner: true,
+  },
+  {
     title: 'Write The Docs Berlin',
     startDate: new Date('27 Oct 2025'),
     endDate: new Date('28 Oct 2025'),
