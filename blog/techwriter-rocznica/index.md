@@ -364,7 +364,7 @@ Wam w niej samych sukcesów. Trzymajcie się!
 
 ## Źródła
 
-- [Artykuł na blogu Toma Johnsona w 2017](https://idratherbewriting.com/2017/10/31/untold-story-of-techwriter-pl-poland/)
+- [Artykuł Michała Skowrona i Jakuba Wiśniewskiego na blogu Toma Johnsona w 2017](https://idratherbewriting.com/2017/10/31/untold-story-of-techwriter-pl-poland/)
 - [Wywiad na Youtube z Darkiem Write the Docs (ENG)](https://www.youtube.com/watch?v=QTdlv6KQiEo)
 - [Wpis Darka na LinkedIn w 10 rocznice Techwriter.pl](https://www.linkedin.com/feed/update/urn:li:activity:7109489713899593728/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7109489713899593728%29)
 
