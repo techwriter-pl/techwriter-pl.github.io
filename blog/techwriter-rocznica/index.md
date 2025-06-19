@@ -55,12 +55,12 @@ testerem, managerem, wykładowcą i przedsiębiorcą. W swojej firmie miał styc
 z wieloma technical writerami, którzy pytali go o obowiązujące standardy,
 szkolenia, certyfikaty i materiały szkoleniowe. Zainspirowany inicjatywą
 [Radosława Smiglina](https://www.linkedin.com/in/smilgin/) i jego
-[testerzy.pl](https://www.linkedin.com/company/testerzy/) postanowił zrobić coś
-podobnego, ale dla technical writerów.
+[testerzy.pl](https://www.linkedin.com/company/testerzy/), Darek postanowił
+zrobić coś podobnego, ale dla technical writerów.
 
 Darek pokazał mi swój biznes plan - zapis koncepcji i założeń dotyczących
 tworzenia tego portalu. W tamtym czasie, Darek zauważał brak polskojęzycznej
-strony branżowej i ubogą ofertę szkoleniową na polskim rynku.
+strony branżowej i nieistniejącą ofertę szkoleniową na polskim rynku.
 
 W tamtym czasie, Darkowi na LinkedIn udawało się wyszukać profile 133 osób w
 Polsce, które określały swoje stanowisko jako "technical writer". Ja w 2025 jak
@@ -94,6 +94,20 @@ Pierwszym merytorycznym artykułem była
 [relacja z pierwszej odsłony soap!](../soap-technical-communication-conference-relacja/index.md)
 autorstwa Michała, który później poświęcił się w ramach projektu ITCQF.
 
+### Jak wygląda działalność redakcji od kuchni?
+
+Odbywają się wideokonferencje żeby pogadać i podzielić się pomysłami na
+artykuły. Dość sprawnie komunikujemy się zdalnie i ustalamy plany na najbliższy
+czas. Każdy pisze dla przyjemności w swoim wolnym czasie, dlatego każdy rozumie,
+że zobowiązania prywatne i zawodowe mogą skutkować opóźnieniem w opracowaniu
+artykułu. Każdy artykuł podlega recenzji.
+
+Wspomnę w tym miejscu Agnieszkę Gaworską, która od 2015 pełni rolę
+administratorki i korektorki. Przez jej ręce przeszły dziesiątki artykułów i
+wychwyciła setki literówek. Bywały okresy, gdy to Agnieszka była osobą, która
+najczęściej publikowała nowe treści na stronie. Dzięki jej zaangażowaniu łódka
+zwana Techwriter.pl wciąż płynie dalej. Dziękujemy!
+
 ### Wartości
 
 Michał Skowron:
@@ -102,7 +116,7 @@ Michał Skowron:
 > tworzenia treści, w której będą dobrze się czuć i z którą będą się
 > identyfikować, gotowość do bezinteresownej pomocy.
 
-Z artykułu Toma Johnsona:
+Michał Skowron:
 
 > _Why do it then? To meet new people, stay motivated and keep learning new
 > things — there’s no better way to learn than explaining things to others.
@@ -138,7 +152,57 @@ Darek Drezno:
 > Przede wszystkim wiele osób poznało się i zaprzyjaźniło dzięki tej
 > inicjatywie. Studia podyplomowe zmieniły życie zawodowe sporej grupy osób.
 
-## Rozwój
+## Kamienie milowe portalu
+
+Przyjrzyjmy się wybranym zdarzeniom z historii Techwriter.pl.
+
+### Oferty pracy
+
+W początkowej fazie rozwoju portalu, największa popularnością cieszyły się
+oferty pracy.
+
+Jeśli potrzebujesz zamieścić takie ogłoszenie, zgłoś się do nas i opublikujemy
+je nieodpłatnie.
+
+### Relacje z konferencji
+
+W 2013 opublikowana została relacja z pierwszej konferencji soap!, a w 2016
+pojawiła się pierwsza relacja z Write the Docs. Tego typu materiały pozostają
+popularne, ponieważ:
+
+- Podsumowują najświeższe trendy branżowe
+- Służą pomocą osobom, które osób chcą odświeżyć sobie kluczowe fakty
+- Dają pojęcie o konferencji tym, którzy w nie mogli w niej wziąć udziału
+
+Na Techwriter.pl znaleźć też można relacje z MadWorld, Konferencji Tłumaczy, UA
+Europe, tekom.
+
+### Wywiady
+
+W 2015 ukazał się pierwszy wywiad z technical writerką. Cykl wywiadów stał się
+popularną formą prezentowania sylwetek osób aktywnych na scenie tech commu. Jest
+to dobry sposób by przedstawić swoją unikalną perspektywę, zainteresowania i
+doświadczenia. Buduje się też w ten sposób społeczność, bo jeśli zdradzisz w
+wywiadzie, że posiadasz unikalną wiedzę, możesz mieć pewność, że ktoś
+skontaktuje się z Tobą by Cię poznać i uzyskać wskazówkę w danym temacie 🙂.
+
+Była nawet jedna osoba, której tak spodobało się udzielanie wywiadu, że
+popełniła recydywę opowiadając o swojej karierze dwukrotnie, na różnych etapach
+kariery.
+
+### Ankieta badania płac
+
+W 2017 opublikowana została pierwsza ankieta płac. Po dziś dzień cykl ten cieszy
+się wielką popularnością - była to pierwsza strona na którą trafiłem. Choć
+liczba respondentów nie przekroczyła 133 osób, ankieta daje pewną wiedzę o
+ewolucji płac osób związanych z technical writingiem.
+
+### Artykuły o narzędziach
+
+Poradniki z wiedzą o narzędziach i podejściach są jednymi najbardziej
+wartościowych pozycji na blogu. Jeśli szukasz informacji na jakiś temat, wpisz
+słowo kluczowe do wyszukiwarki strony. Jest duża szansa, że temat był
+adresowany.
 
 ### Wyzwania
 
@@ -153,23 +217,6 @@ Michał Skowron:
 > kogoś do takiego “wolontariatu” nie zawsze jest łatwe i nawet jeśli to się
 > uda, to potem pojawia się problem utrzymania motywacji do działania w dłuższej
 > perspektywie.
-
-## Cykle artykułów
-
-W początkowej fazie rozwoju portalu, największa popularnością cieszyły się
-oferty pracy. 
-
-### Wywiady
-
-### Oferty pracy
-
-### Ankieta badania płac
-
-### Relacje z konferencji soap!
-
-### Relacje z konferencji Write the Docs
-
-### Artykuły o narzędziach
 
 ## Inicjatywy, które narodziły się z pomocą Techwriter.pl
 
@@ -197,10 +244,9 @@ Madcap
 Dziesiątki znajomości i przyjaźni w ramach szeroko pojętej społeczności
 technical writerów w kraju i za granicą.
 
-## Wartość dodana oczami odbiorców
+## Wartość dodana według czytelników
 
-O to chyba najlepiej zapytać czytelników :) Może warto zadać takie pytanie w
-grupie na FB. Fajnie byłoby usłyszeć jak to widzą followersi portalu.
+`O to chyba najlepiej zapytać czytelników :) Może warto zadać takie pytanie w grupie na FB. Fajnie byłoby usłyszeć jak to widzą followersi portalu.`
 
 ## Rynek contentu wtedy i dziś
 
@@ -242,7 +288,7 @@ Michał Skowron:
 W 2023 Darek przekazał stery w zakresie prowadzenia portalu Michałowi Skowronowi
 i Pawłowi Kowalukowi. Pożegnaliśmy Wordpress i przywitaliśmy podejście
 "Docs-as-Code" w oparciu o Docusaurusa i Github Codespaces. Praca nad blogiem
-stała się dynamiczna i przyjemna.
+stała się dynamiczna i przyjemna. Pojawiło się więcej artykułów po angielsku.
 
 ## Źródła
 
@@ -254,90 +300,100 @@ stała się dynamiczna i przyjemna.
 
 ### Materiały rocznicowe
 
-- [Wpis na pierwszy roczek](../to-juz-rok/index.md)
-- [Wpis na trzecie urodziny](../pozdrawiamy-z-pragi/index.md)
-- [Wpis na czwarte urodziny](../od-dzis-wszystkie-szkolenia-z-komunikacji-technicznej-w-jednym-miejscu/index.md)
-- [Wpis na siódme urodziny](../7-urodziny-techwriter-pl/index.md)
-- [Wywiad na Youtube z Darkiem po angielsku dla Write The Docs w 2021](https://www.youtube.com/watch?v=QTdlv6KQiEo)
+- 2021:
+  [Wywiad na Youtube z Darkiem po angielsku dla Write The Docs](https://www.youtube.com/watch?v=QTdlv6KQiEo)
   ![Fakty o rynku technical writingowym z 2021](images/7lat.png)
+- 2021: [Wpis na siódme urodziny](../7-urodziny-techwriter-pl/index.md)
+- 2017:
+  [Wpis na czwarte urodziny](../od-dzis-wszystkie-szkolenia-z-komunikacji-technicznej-w-jednym-miejscu/index.md)
+- 2016: [Wpis na trzecie urodziny](../pozdrawiamy-z-pragi/index.md)
+- 2014: [Wpis na pierwszy roczek](../to-juz-rok/index.md)
+- 2013: [Pierwszy wpis](../witaj-swiecie/index.md)
 
 ### Wywiady
 
-- [Wywiad 31 ENG](../kilka-pytan-do-czesc-31-English/index.md)
-- [Wywiad 31 PL](../kilka-pytan-do-czesc-31/index.md)
-- [Wywiad 30](../kilka-pytan-do-czesc-30-marketing/index.md)
-- [Wywiad 29](../kilka-pytan-do-czesc-29/index.md)
-- [Wywiad 28](../kilka-pytan-do-czesc-28/index.md)
-- [Wywiad 27](../kilka-pytan-do-czesc-27/index.md)
-- [Wywiad 26](../kilka-pytan-do-czesc-26/index.md)
-- [Wywiad 25](../kilka-pytan-do-czesc-25-od-tech-writera-do-scrum-mastera/index.md)
-- [Wywiad 24](../kilka-pytan-do-czesc-24/index.md)
-- [Wywiad 23](../kilka-pytan-do-czesc-23/index.md)
-- [Wywiad 22](../kilka-pytan-do-czesc-22/index.md)
-- [Wywiad 21](../kilka-pytan-do-czesc-21/index.md)
-- [Wywiad 20](../kilka-pytan-do-czesc-20/index.md)
-- [Wywiad 19](../kilka-pytan-do-czesc-19/index.md)
-- [Wywiad 18](../kilka-pytan-do-czesc-18/index.md)
-- [Wywiad 17](../kilka-pytan-do-czesc-17/index.md)
-- [Wywiad 16](../kilka-pytan-do-czesc-16/index.md)
-- [Wywiad 15](../kilka-pytan-do-czesc-15/index.md)
-- [Wywiad 14](../kilka-pytan-do-czesc-14/index.md)
-- [Wywiad 13](../kilka-pytan-do-czesc-13/index.md)
-- [Wywiad 12](../kilka-pytan-do-czesc-12/index.md)
-- [Wywiad 11](../kilka-pytan-do-czesc-11/index.md)
-- [Wywiad 10](../kilka-pytan-do-czesc-10/index.md)
-- [Wywiad 9](../kilka-pytan-do-czesc-9/index.md)
-- [Wywiad 8](../kilka-pytan-do-czesc-8/index.md)
-- [Wywiad 7](../kilka-pytan-do-czesc-7/index.md)
-- [Wywiad 6](../kilka-pytan-do-czesc-6/index.md)
-- [Wywiad 5](../kilka-pytan-do-czesc-5/index.md)
-- [Wywiad 4](../kilka-pytan-do-czesc-4/index.md)
-- [Wywiad 3](../kilka-pytan-do-czesc-3/index.md)
-- [Wywiad 2](../kilka-pytan-do-czesc-2/index.md)
-- [Wywiad 1](../kilka-pytan-do-czesc-1/index.md)
+- 2025: [Wywiad 31 - po polsku](../kilka-pytan-do-czesc-31-English/index.md)
+- 2025: [Wywiad 31 - po angielsku](../kilka-pytan-do-czesc-31/index.md)
+- 2024: [Wywiad 30](../kilka-pytan-do-czesc-30-marketing/index.md)
+- 2023: [Wywiad 29](../kilka-pytan-do-czesc-29/index.md)
+- 2023: [Wywiad 28](../kilka-pytan-do-czesc-28/index.md)
+- 2022: [Wywiad 27](../kilka-pytan-do-czesc-27/index.md)
+- 2022: [Wywiad 26](../kilka-pytan-do-czesc-26/index.md)
+- 2021:
+  [Wywiad 25](../kilka-pytan-do-czesc-25-od-tech-writera-do-scrum-mastera/index.md)
+- 2021: [Wywiad 24](../kilka-pytan-do-czesc-24/index.md)
+- 2021: [Wywiad 23](../kilka-pytan-do-czesc-23/index.md)
+- 2021: [Wywiad 22](../kilka-pytan-do-czesc-22/index.md)
+- 2020: [Wywiad 21](../kilka-pytan-do-czesc-21/index.md)
+- 2020: [Wywiad 20](../kilka-pytan-do-czesc-20/index.md)
+- 2020: [Wywiad 19](../kilka-pytan-do-czesc-19/index.md)
+- 2020: [Wywiad 18](../kilka-pytan-do-czesc-18/index.md)
+- 2019: [Wywiad 17](../kilka-pytan-do-czesc-17/index.md)
+- 2018: [Wywiad 16](../kilka-pytan-do-czesc-16/index.md)
+- 2017: [Wywiad 15](../kilka-pytan-do-czesc-15/index.md)
+- 2017: [Wywiad 14](../kilka-pytan-do-czesc-14/index.md)
+- 2017: [Wywiad 13](../kilka-pytan-do-czesc-13/index.md)
+- 2017: [Wywiad 12](../kilka-pytan-do-czesc-12/index.md)
+- 2016: [Wywiad 11](../kilka-pytan-do-czesc-11/index.md)
+- 2016: [Wywiad 10](../kilka-pytan-do-czesc-10/index.md)
+- 2016: [Wywiad 9](../kilka-pytan-do-czesc-9/index.md)
+- 2015: [Wywiad 8](../kilka-pytan-do-czesc-8/index.md)
+- 2015: [Wywiad 7](../kilka-pytan-do-czesc-7/index.md)
+- 2015: [Wywiad 6](../kilka-pytan-do-czesc-6/index.md)
+- 2015: [Wywiad 5](../kilka-pytan-do-czesc-5/index.md)
+- 2015: [Wywiad 4](../kilka-pytan-do-czesc-4/index.md)
+- 2015: [Wywiad 3](../kilka-pytan-do-czesc-3/index.md)
+- 2015: [Wywiad 2](../kilka-pytan-do-czesc-2/index.md)
+- 2015: [Wywiad 1](../kilka-pytan-do-czesc-1/index.md)
 
 ### Ankiety płacowe
 
-- [Wyniki badania płac 2024](../wyniki-badania-plac-w-komunikacji-technicznej-2024/index.md)
-- [Wyniki badania płac 2023](../wyniki-badania-plac-w-komunikacji-technicznej-2023/index.md)
-- [Wyniki badania płac 2022](../wyniki-badania-plac-w-komunikacji-technicznej-2022/index.md)
-- [Wyniki badania płac 2021](../wyniki-badania-plac-w-komunikacji-technicznej-2021/index.md)
-- [Wyniki badania płac 2020](../wyniki-badania-plac-w-komunikacji-technicznej-2020/index.md)
-- [Wyniki badania płac 2019](../wyniki-badania-plac-w-komunikacji-technicznej-2019/index.md)
-- [Wyniki badania płac 2018](../wyniki-badania-plac-w-komunikacji-technicznej-2018/index.md)
-- [Wyniki badania płac 2017](../kwyniki-badania-plac-w-komunikacji-technicznej/index.md)
+- 2024:
+  [Wyniki badania płac](../wyniki-badania-plac-w-komunikacji-technicznej-2024/index.mdx)
+- 2023:
+  [Wyniki badania płac](../wyniki-badania-plac-w-komunikacji-technicznej-2023/index.mdx)
+- 2022:
+  [Wyniki badania płac](../wyniki-badania-plac-w-komunikacji-technicznej-2022/index.md)
+- 2021:
+  [Wyniki badania płac](../wyniki-badania-plac-w-komunikacji-technicznej-2021/index.md)
+- 2020:
+  [Wyniki badania płac](../wyniki-badania-plac-w-komunikacji-technicznej-2020/index.md)
+- 2019:
+  [Wyniki badania płac](../wyniki-badania-plac-w-komunikacji-technicznej-2019/index.md)
+- 2018:
+  [Wyniki badania płac](../wyniki-badania-plac-w-komunikacji-technicznej-2018/index.md)
+- 2017:
+  [Wyniki badania płac](../wyniki-badania-plac-w-komunikacji-technicznej/index.md)
 
 ### Relacje z soap!
 
-- 2013:
-  [soap! technical communication conference - relacja](../soap-technical-communication-conference-relacja/index.md)
-- 2014: [Mydło lubi zabawę](../mydlo-lubi-zabawe/index.md)
-- 2014:
-  [soap! 2014 - relacja z pierwszego dnia](../soap-2014-relacja-z-pierwszego-dnia/index.md)
-- 2014:
-  [soap! 2014 - relacja z drugiego dnia](../soap-2014-relacja-z-drugiego-dnia/index.md)
+- 2023:
+  [Relacja z tegorocznej konferencji soap 2023!](../relacja-z-tegorocznej-konferencji-soap-2023/index.md)
+- 2022:
+  [Doniesienia z tegorocznej konferencji Soap 2022!](../doniesienia-z-tegoroczenj-konferencji-soap-2022/index.md)
+- 2019:
+  [Konferencja soap! 2019 - (wideo)relacja](../konferencja-soap-2019-wideorelacja/index.md)
+- 2018:
+  [Konferencja soap! 2018 - relacja](../konferencja-soap-2018-relacja/index.md)
+- 2017:
+  [Soap! 2017 już za nami - relacja](../soap-2017-juz-za-nami-relacja/index.md)
+- 2016:
+  [Konferencja soap! 2016 - podsumowanie](../konferencja-soap-2016-podsumowanie/index.md)
+- 2015: [Namydleni po raz trzeci](../namydleni-po-raz-trzeci/index.md)
 - 2014: [Soap! Just Wants to Have Fun](../soap-just-wants-to-have-fun/index.md)
 - 2014: [soap! 2014 - summary of day 1](../soap-2014-summary-of-day-1/index.md)
 - 2014: [soap! 2014 - summary of day 2](../soap-2014-summary-of-day-2/index.md)
-- 2015: [Namydleni po raz trzeci](../namydleni-po-raz-trzeci/index.md)
-- 2016:
-  [Konferencja soap! 2016 - podsumowanie](../konferencja-soap-2016-podsumowanie/index.md)
-- 2017:
-  [Soap! 2017 już za nami - relacja](../soap-2017-juz-za-nami-relacja/index.md)
-- 2018:
-  [Konferencja soap! 2018 - relacja](../konferencja-soap-2018-relacja/index.md)
-- 2019:
-  [Konferencja soap! 2019 - (wideo)relacja](../konferencja-soap-2019-wideorelacja/index.md)
-- 2022:
-  [Doniesienia z tegorocznej konferencji Soap 2022!](../doniesienia-z-tegoroczenj-konferencji-soap-2022/index.md)
-- 2023:
-  [Relacja z tegorocznej konferencji soap 2023!](../relacja-z-tegorocznej-konferencji-soap-2023/index.md)
+- 2013:
+  [soap! technical communication conference - relacja](../soap-technical-communication-conference-relacja/index.md)
 
 ### Write the Docs
 
-- [Write the Docs Prague 2021 (online)](../relacja-z-konferenecji-write-the-docs-prague-2021/index.md)
-- [Write the Docs Prague 2020 (online)](../relacja-z-write-the-docs-prague-2020-online/index.md)
-- [Write the Docs Prague 2019](../nasza-relacja-z-write-the-docs-prague-2019/index.md)
-- [Write the Docs Prague 2018](../write-the-docs-prague-2018-relacja/index.md)
-- [Write the Docs Prague 2017](../write-the-docs-prague-2017-relacja/index.md)
-- [Write the Docs Europe 2016](../write-the-docs-europe-2016-relacja/index.md)
+- 2021:
+  [Write the Docs Prague (online)](../relacja-z-konferenecji-write-the-docs-prague-2021/index.md)
+- 2020:
+  [Write the Docs Prague (online)](../relacja-z-write-the-docs-prague-2020-online/index.md)
+- 2019:
+  [Write the Docs Prague](../nasza-relacja-z-write-the-docs-prague-2019/index.md)
+- 2018: [Write the Docs Prague](../write-the-docs-prague-2018-relacja/index.md)
+- 2017: [Write the Docs Prague](../write-the-docs-prague-2017-relacja/index.md)
+- 2016: [Write the Docs Europe](../write-the-docs-europe-2016-relacja/index.md)
