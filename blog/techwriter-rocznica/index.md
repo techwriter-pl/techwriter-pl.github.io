@@ -48,39 +48,6 @@ Przejdźmy zatem do faktów, które udało mi się ustalić.
 
 ## Początki
 
-### Jak wyglądał rynek contentu w 2012 roku?
-
-Michał Skowron:
-
-> Było zdecydowanie mniej ofert pracy. Swoją pierwszą pracę jako Tech Writer
-> rozpocząłem na początku 2012 roku. Mieszkałem wtedy w Dąbrowie Górniczej i
-> udało mi się znaleźć 1 ofertę pracy dla Tech Writera w Katowicach. W Gliwicach
-> była jedna firma, która zatrudniała wtedy większą liczbę writerów, ale była to
-> za duża odległość. Zaaplikowałem na tę jedną ofertę i dostałem pracę.
-> Najwięcej ofert było wtedy w Krakowie. Poza samą liczbą ofert pracy, warto
-> zwrócić uwagę na świadomość tego zawodu w Polsce. Ja sam na początku, nie
-> miałem pojęcia, że tech comm to działka, która ma swoje zasady, dobre
-> praktyki, szkolenia, itp. Zacząłem szukać, interesować się, i za pierwszym
-> podejściem znalazłem tylko zagraniczne materiały. Po paru miesiącach, wróciłem
-> do idei szukania materiałów w języku polskim i wtedy trafiłem na
-> Techwriter.pl. Byłem tak podekscytowany tym, że pojawił się taki portal w
-> języku polskim, że dość szybko zdecydowałem się dołączyć. soap! stawiał wtedy
-> pierwsze kroki, a meetupy tech commowe nie istniały.
-
-### Jak rynek contentu wygląda w 2025 roku?
-
-Michał Skowron:
-
-> Wszystko to co opisałem w punkcie poprzednim zmieniło się na lepsze - liczba
-> ofert pracy, świadomość zawodu, itp. Widać to nawet po tym jak prężnie
-> działają teraz grupy MeetContent we Wrocławiu i Krakowie, udowadniając, że
-> jest potrzeba spotkań, wymiany wiedzy i poczucia przynależności do
-> społeczności. Chcielibyśmy, żeby branża tech comm rozwijała się jeszcze
-> dynamiczniej i może czujemy mały niedosyt jeśli chodzi o tempo tego rozwoju na
-> przestrzenie lat (obstawialiśmy “wybuch” podobny do tego jaki nastąpił w
-> branży testerskiej), ale myślę, że możemy być zadowoleni z tego gdzie teraz
-> jesteśmy.
-
 ### Założyciel i pomysłodawca
 
 Ojcem tej inicjatywy jest Darek Drezno, związany z branżą testerską. Jest
@@ -97,9 +64,8 @@ strony branżowej i ubogą ofertę szkoleniową na polskim rynku.
 
 W tamtym czasie, Darkowi na LinkedIn udawało się wyszukać profile 133 osób w
 Polsce, które określały swoje stanowisko jako "technical writer". Ja w 2025 jak
-użyłem filtru kraju i stanowiska to LinkedIn zwróciło mi 830 wyników. _Nie mam
-LinkedIn Premium więc nie wiem czy to byli wyłącznie moi znajomi. Sprawdzę z
-kimś kto ma dostęp do LinkedIn Premium._
+użyłem filtru kraju i stanowiska to LinkedIn zwróciło mi 830 wyników.
+`Nie mam LinkedIn Premium więc nie wiem czy to byli wyłącznie moi znajomi. Sprawdzę z kimś kto ma dostęp do LinkedIn Premium.`
 
 Podsumowując, Darek dostrzegł lukę i postanowił ją zagospodarować w
 konstruktywny sposób. Później ruszyło to na zasadzie kuli śniegowej 🙂.
@@ -119,10 +85,10 @@ Marcin Górski, Sabina Szablowska i Michał Skowron.
 
 ### Pierwsze wpisy
 
-Darek dodał [pierwszy wpis](../witaj-swiecie/index.md) 18.09.2013. Wynika z
-tego, że w 2023 portal skończył 10 lat, a w chwili publikacji tego artykułu w
-2025 ma już 12 lat 👍. Skoro Techwriter.pl ma urodziny we wrześniu, to
-powinniśmy je świętować podczas konferencji Cake 😀.
+Darek dodał [pierwszy wpis](../witaj-swiecie/index.md) 18.09.2013. W 2023 portal
+skończył 10 lat, a w chwili publikacji tego artykułu w 2025 ma już 12 lat 👍.
+Skoro Techwriter.pl ma urodziny we wrześniu, to powinniśmy je świętować podczas
+konferencji Cake 😀.
 
 Pierwszym merytorycznym artykułem była
 [relacja z pierwszej odsłony soap!](../soap-technical-communication-conference-relacja/index.md)
@@ -188,11 +154,10 @@ Michał Skowron:
 > uda, to potem pojawia się problem utrzymania motywacji do działania w dłuższej
 > perspektywie.
 
-
-
-## Technologia serwisu
-
 ## Cykle artykułów
+
+W początkowej fazie rozwoju portalu, największa popularnością cieszyły się
+oferty pracy. 
 
 ### Wywiady
 
@@ -225,6 +190,8 @@ Grupa 700 osób.
 
 ### Partnerstwa z konferencjami i wydarzeniami
 
+Madcap
+
 ### Przyjaźnie
 
 Dziesiątki znajomości i przyjaźni w ramach szeroko pojętej społeczności
@@ -235,15 +202,51 @@ technical writerów w kraju i za granicą.
 O to chyba najlepiej zapytać czytelników :) Może warto zadać takie pytanie w
 grupie na FB. Fajnie byłoby usłyszeć jak to widzą followersi portalu.
 
+## Rynek contentu wtedy i dziś
+
+### Jak wyglądał rynek contentu w 2012 roku?
+
+Michał Skowron:
+
+> Było zdecydowanie mniej ofert pracy. Swoją pierwszą pracę jako Tech Writer
+> rozpocząłem na początku 2012 roku. Mieszkałem wtedy w Dąbrowie Górniczej i
+> udało mi się znaleźć 1 ofertę pracy dla Tech Writera w Katowicach. W Gliwicach
+> była jedna firma, która zatrudniała wtedy większą liczbę writerów, ale była to
+> za duża odległość. Zaaplikowałem na tę jedną ofertę i dostałem pracę.
+> Najwięcej ofert było wtedy w Krakowie. Poza samą liczbą ofert pracy, warto
+> zwrócić uwagę na świadomość tego zawodu w Polsce. Ja sam na początku, nie
+> miałem pojęcia, że tech comm to działka, która ma swoje zasady, dobre
+> praktyki, szkolenia, itp. Zacząłem szukać, interesować się, i za pierwszym
+> podejściem znalazłem tylko zagraniczne materiały. Po paru miesiącach, wróciłem
+> do idei szukania materiałów w języku polskim i wtedy trafiłem na
+> Techwriter.pl. Byłem tak podekscytowany tym, że pojawił się taki portal w
+> języku polskim, że dość szybko zdecydowałem się dołączyć. soap! stawiał wtedy
+> pierwsze kroki, a meetupy tech commowe nie istniały.
+
+### Jak rynek contentu wygląda w 2025 roku?
+
+Michał Skowron:
+
+> Wszystko to co opisałem w punkcie poprzednim zmieniło się na lepsze - liczba
+> ofert pracy, świadomość zawodu, itp. Widać to nawet po tym jak prężnie
+> działają teraz grupy MeetContent we Wrocławiu i Krakowie, udowadniając, że
+> jest potrzeba spotkań, wymiany wiedzy i poczucia przynależności do
+> społeczności. Chcielibyśmy, żeby branża tech comm rozwijała się jeszcze
+> dynamiczniej i może czujemy mały niedosyt jeśli chodzi o tempo tego rozwoju na
+> przestrzenie lat (obstawialiśmy “wybuch” podobny do tego jaki nastąpił w
+> branży testerskiej), ale myślę, że możemy być zadowoleni z tego gdzie teraz
+> jesteśmy.
+
 ## Dokąd zmierza Techwriter.pl?
 
 W 2023 Darek przekazał stery w zakresie prowadzenia portalu Michałowi Skowronowi
 i Pawłowi Kowalukowi. Pożegnaliśmy Wordpress i przywitaliśmy podejście
-"Docs-as-Code" w oparciu o Docusaurusa i Github Codespaces. Praca nad 
+"Docs-as-Code" w oparciu o Docusaurusa i Github Codespaces. Praca nad blogiem
+stała się dynamiczna i przyjemna.
 
 ## Źródła
 
-- [Wpis na blogu Toma Johnsona w 2017](https://idratherbewriting.com/2017/10/31/untold-story-of-techwriter-pl-poland/)
+- [Artykuł na blogu Toma Johnsona w 2017](https://idratherbewriting.com/2017/10/31/untold-story-of-techwriter-pl-poland/)
 - [Wywiad na Youtube z Darkiem po angielsku dla Write the Docs](https://www.youtube.com/watch?v=QTdlv6KQiEo)
 - [Wpis Darka na LinkedIn na 10 rocznice Techwriter.pl](https://www.linkedin.com/feed/update/urn:li:activity:7109489713899593728/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7109489713899593728%29)
 
@@ -258,32 +261,83 @@ i Pawłowi Kowalukowi. Pożegnaliśmy Wordpress i przywitaliśmy podejście
 - [Wywiad na Youtube z Darkiem po angielsku dla Write The Docs w 2021](https://www.youtube.com/watch?v=QTdlv6KQiEo)
   ![Fakty o rynku technical writingowym z 2021](images/7lat.png)
 
+### Wywiady
+
+- [Wywiad 31 ENG](../kilka-pytan-do-czesc-31-English/index.md)
+- [Wywiad 31 PL](../kilka-pytan-do-czesc-31/index.md)
+- [Wywiad 30](../kilka-pytan-do-czesc-30-marketing/index.md)
+- [Wywiad 29](../kilka-pytan-do-czesc-29/index.md)
+- [Wywiad 28](../kilka-pytan-do-czesc-28/index.md)
+- [Wywiad 27](../kilka-pytan-do-czesc-27/index.md)
+- [Wywiad 26](../kilka-pytan-do-czesc-26/index.md)
+- [Wywiad 25](../kilka-pytan-do-czesc-25-od-tech-writera-do-scrum-mastera/index.md)
+- [Wywiad 24](../kilka-pytan-do-czesc-24/index.md)
+- [Wywiad 23](../kilka-pytan-do-czesc-23/index.md)
+- [Wywiad 22](../kilka-pytan-do-czesc-22/index.md)
+- [Wywiad 21](../kilka-pytan-do-czesc-21/index.md)
+- [Wywiad 20](../kilka-pytan-do-czesc-20/index.md)
+- [Wywiad 19](../kilka-pytan-do-czesc-19/index.md)
+- [Wywiad 18](../kilka-pytan-do-czesc-18/index.md)
+- [Wywiad 17](../kilka-pytan-do-czesc-17/index.md)
+- [Wywiad 16](../kilka-pytan-do-czesc-16/index.md)
+- [Wywiad 15](../kilka-pytan-do-czesc-15/index.md)
+- [Wywiad 14](../kilka-pytan-do-czesc-14/index.md)
+- [Wywiad 13](../kilka-pytan-do-czesc-13/index.md)
+- [Wywiad 12](../kilka-pytan-do-czesc-12/index.md)
+- [Wywiad 11](../kilka-pytan-do-czesc-11/index.md)
+- [Wywiad 10](../kilka-pytan-do-czesc-10/index.md)
+- [Wywiad 9](../kilka-pytan-do-czesc-9/index.md)
+- [Wywiad 8](../kilka-pytan-do-czesc-8/index.md)
+- [Wywiad 7](../kilka-pytan-do-czesc-7/index.md)
+- [Wywiad 6](../kilka-pytan-do-czesc-6/index.md)
+- [Wywiad 5](../kilka-pytan-do-czesc-5/index.md)
+- [Wywiad 4](../kilka-pytan-do-czesc-4/index.md)
+- [Wywiad 3](../kilka-pytan-do-czesc-3/index.md)
+- [Wywiad 2](../kilka-pytan-do-czesc-2/index.md)
+- [Wywiad 1](../kilka-pytan-do-czesc-1/index.md)
+
+### Ankiety płacowe
+
+- [Wyniki badania płac 2024](../wyniki-badania-plac-w-komunikacji-technicznej-2024/index.md)
+- [Wyniki badania płac 2023](../wyniki-badania-plac-w-komunikacji-technicznej-2023/index.md)
+- [Wyniki badania płac 2022](../wyniki-badania-plac-w-komunikacji-technicznej-2022/index.md)
+- [Wyniki badania płac 2021](../wyniki-badania-plac-w-komunikacji-technicznej-2021/index.md)
+- [Wyniki badania płac 2020](../wyniki-badania-plac-w-komunikacji-technicznej-2020/index.md)
+- [Wyniki badania płac 2019](../wyniki-badania-plac-w-komunikacji-technicznej-2019/index.md)
+- [Wyniki badania płac 2018](../wyniki-badania-plac-w-komunikacji-technicznej-2018/index.md)
+- [Wyniki badania płac 2017](../kwyniki-badania-plac-w-komunikacji-technicznej/index.md)
+
 ### Relacje z soap!
-- 2013: [soap! technical communication conference - relacja | techwriter.pl](https://techwriter.pl/soap-technical-communication-conference-relacja)
 
-- 2014: [Mydło lubi zabawę | techwriter.pl](https://techwriter.pl/mydlo-lubi-zabawe/)
+- 2013:
+  [soap! technical communication conference - relacja](../soap-technical-communication-conference-relacja/index.md)
+- 2014: [Mydło lubi zabawę](../mydlo-lubi-zabawe/index.md)
+- 2014:
+  [soap! 2014 - relacja z pierwszego dnia](../soap-2014-relacja-z-pierwszego-dnia/index.md)
+- 2014:
+  [soap! 2014 - relacja z drugiego dnia](../soap-2014-relacja-z-drugiego-dnia/index.md)
+- 2014: [Soap! Just Wants to Have Fun](../soap-just-wants-to-have-fun/index.md)
+- 2014: [soap! 2014 - summary of day 1](../soap-2014-summary-of-day-1/index.md)
+- 2014: [soap! 2014 - summary of day 2](../soap-2014-summary-of-day-2/index.md)
+- 2015: [Namydleni po raz trzeci](../namydleni-po-raz-trzeci/index.md)
+- 2016:
+  [Konferencja soap! 2016 - podsumowanie](../konferencja-soap-2016-podsumowanie/index.md)
+- 2017:
+  [Soap! 2017 już za nami - relacja](../soap-2017-juz-za-nami-relacja/index.md)
+- 2018:
+  [Konferencja soap! 2018 - relacja](../konferencja-soap-2018-relacja/index.md)
+- 2019:
+  [Konferencja soap! 2019 - (wideo)relacja](../konferencja-soap-2019-wideorelacja/index.md)
+- 2022:
+  [Doniesienia z tegorocznej konferencji Soap 2022!](../doniesienia-z-tegoroczenj-konferencji-soap-2022/index.md)
+- 2023:
+  [Relacja z tegorocznej konferencji soap 2023!](../relacja-z-tegorocznej-konferencji-soap-2023/index.md)
 
-- 2014: [soap! 2014 - relacja z pierwszego dnia | techwriter.pl](https://techwriter.pl/soap-2014-relacja-z-pierwszego-dnia/)
+### Write the Docs
 
-- 2014: [soap! 2014 - relacja z drugiego dnia | techwriter.pl](https://techwriter.pl/soap-2014-relacja-z-drugiego-dnia/)
-
-- 2014: [Soap! Just Wants to Have Fun | techwriter.pl](https://techwriter.pl/soap-just-wants-to-have-fun/)
-
-- 2014: [soap! 2014 - summary of day 1 | techwriter.pl](https://techwriter.pl/soap-2014-summary-of-day-1/)
-
-- 2014: [soap! 2014 - summary of day 2 | techwriter.pl](https://techwriter.pl/soap-2014-summary-of-day-2/)
-
-- 2015: [Namydleni po raz trzeci](https://techwriter.pl/namydleni-po-raz-trzeci/)
-
-- 2016: [Konferencja soap! 2016 - podsumowanie](https://techwriter.pl/konferencja-soap-2016-podsumowanie/)
-
-- 2017: [Soap! 2017 już za nami - relacja](https://techwriter.pl/soap-2017-juz-za-nami-relacja/)
-
-- 2018: [Konferencja soap! 2018 - relacja](https://techwriter.pl/konferencja-soap-2018-relacja/)
-
-- 2019: [Konferencja soap! 2019 - (wideo)relacja](https://techwriter.pl/konferencja-soap-2019-wideorelacja/)
-
-- 2022: [Doniesienia z tegorocznej konferencji Soap 2022!](https://techwriter.pl/doniesienia-z-tegoroczenj-konferencji-soap-2022)
-
-- 2023: [Relacja z tegorocznej konferencji soap 2023!](https://techwriter.pl/relacja-z-tegorocznej-konferencji-soap-2023/)
-
+- [Write the Docs Prague 2021 (online)](../relacja-z-konferenecji-write-the-docs-prague-2021/index.md)
+- [Write the Docs Prague 2020 (online)](../relacja-z-write-the-docs-prague-2020-online/index.md)
+- [Write the Docs Prague 2019](../nasza-relacja-z-write-the-docs-prague-2019/index.md)
+- [Write the Docs Prague 2018](../write-the-docs-prague-2018-relacja/index.md)
+- [Write the Docs Prague 2017](../write-the-docs-prague-2017-relacja/index.md)
+- [Write the Docs Europe 2016](../write-the-docs-europe-2016-relacja/index.md)
