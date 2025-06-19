@@ -109,8 +109,8 @@ konstruktywny sposób. Później ruszyło to na zasadzie kuli śniegowej 🙂.
 ![Logo techwriter.pl](images/logo.png)
 
 Niewiele wiadomo o tym, kto wymyślił nazwę i charakterystycznego "Pacmana".
-Przyczyny wyboru nazwy mogły być pragmatyczne: Darek wybrał taką ją,
-bo taka była dostępna domena strony internetowej 🙂.
+Przyczyny wyboru nazwy mogły być pragmatyczne: Darek wybrał taką ją, bo taka
+była dostępna domena strony internetowej 🙂.
 
 ### Pierwsi współpracownicy
 
@@ -130,7 +130,7 @@ autorstwa Michała, który później poświęcił się w ramach projektu ITCQF.
 
 ### Wartości
 
-Michal Skowron:
+Michał Skowron:
 
 > Dzielenie się wiedzą, zbudowanie przestrzeni/społeczności dla specjalistów od
 > tworzenia treści, w której będą dobrze się czuć i z którą będą się
@@ -188,21 +188,6 @@ Michał Skowron:
 > uda, to potem pojawia się problem utrzymania motywacji do działania w dłuższej
 > perspektywie.
 
-## Kamienie milowe
-
-### 1 rok
-- [Wpis na pierwszy roczek](../to-juz-rok/index.md)
-
-### 3 rok
-- [Wpis na trzecie urodziny](../pozdrawiamy-z-pragi/index.md)
-
-### 4 rok
-- [Wpis na czwarte urodziny](../od-dzis-wszystkie-szkolenia-z-komunikacji-technicznej-w-jednym-miejscu/index.md)
-
-### 7 rok
-- [Wpis na siódme urodziny](../7-urodziny-techwriter-pl/index.md)
-
-- [Wywiad na Youtube z Darkiem po angielsku dla WTD w 2021 gdy portal mial 7 lat](https://www.youtube.com/watch?v=QTdlv6KQiEo)
 
 
 ## Technologia serwisu
@@ -216,41 +201,6 @@ Michał Skowron:
 ### Ankieta badania płac
 
 ### Relacje z konferencji soap!
-
-2013
-[soap! technical communication conference - relacja | techwriter.pl](https://techwriter.pl/soap-technical-communication-conference-relacja)
-
-2014
-[Mydło lubi zabawę | techwriter.pl](https://techwriter.pl/mydlo-lubi-zabawe/)
-[soap! 2014 - relacja z pierwszego dnia | techwriter.pl](https://techwriter.pl/soap-2014-relacja-z-pierwszego-dnia/)
-[soap! 2014 - relacja z drugiego dnia | techwriter.pl](https://techwriter.pl/soap-2014-relacja-z-drugiego-dnia/)
-
-[Soap! Just Wants to Have Fun | techwriter.pl](https://techwriter.pl/soap-just-wants-to-have-fun/)
-[soap! 2014 - summary of day 1 | techwriter.pl](https://techwriter.pl/soap-2014-summary-of-day-1/)
-[soap! 2014 - summary of day 2 | techwriter.pl](https://techwriter.pl/soap-2014-summary-of-day-2/)
-
-2015
-[Namydleni po raz trzeci | techwriter.pl](https://techwriter.pl/namydleni-po-raz-trzeci/)
-
-2016
-[Konferencja soap! 2016 - podsumowanie | techwriter.pl](https://techwriter.pl/konferencja-soap-2016-podsumowanie/)
-
-2017
-[Soap! 2017 już za nami - relacja | techwriter.pl](https://techwriter.pl/soap-2017-juz-za-nami-relacja/)
-
-2018
-[Konferencja soap! 2018 - relacja | techwriter.pl](https://techwriter.pl/konferencja-soap-2018-relacja/)
-
-2019
-[Konferencja soap! 2019 - (wideo)relacja | techwriter.pl](https://techwriter.pl/konferencja-soap-2019-wideorelacja/)
-
-2020-2021 - covid break
-
-2022
-[Doniesienia z tegorocznej konferencji Soap 2022! | techwriter.pl](https://techwriter.pl/doniesienia-z-tegoroczenj-konferencji-soap-2022)
-
-2023
-[Relacja z tegorocznej konferencji soap 2023! | techwriter.pl](https://techwriter.pl/relacja-z-tegorocznej-konferencji-soap-2023/)
 
 ### Relacje z konferencji Write the Docs
 
@@ -285,8 +235,55 @@ technical writerów w kraju i za granicą.
 O to chyba najlepiej zapytać czytelników :) Może warto zadać takie pytanie w
 grupie na FB. Fajnie byłoby usłyszeć jak to widzą followersi portalu.
 
+## Dokąd zmierza Techwriter.pl?
+
+W 2023 Darek przekazał stery w zakresie prowadzenia portalu Michałowi Skowronowi
+i Pawłowi Kowalukowi. Pożegnaliśmy Wordpress i przywitaliśmy podejście
+"Docs-as-Code" w oparciu o Docusaurusa i Github Codespaces. Praca nad 
+
 ## Źródła
 
 - [Wpis na blogu Toma Johnsona w 2017](https://idratherbewriting.com/2017/10/31/untold-story-of-techwriter-pl-poland/)
 - [Wywiad na Youtube z Darkiem po angielsku dla Write the Docs](https://www.youtube.com/watch?v=QTdlv6KQiEo)
 - [Wpis Darka na LinkedIn na 10 rocznice Techwriter.pl](https://www.linkedin.com/feed/update/urn:li:activity:7109489713899593728/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7109489713899593728%29)
+
+## Dalsza lektura
+
+### Materiały rocznicowe
+
+- [Wpis na pierwszy roczek](../to-juz-rok/index.md)
+- [Wpis na trzecie urodziny](../pozdrawiamy-z-pragi/index.md)
+- [Wpis na czwarte urodziny](../od-dzis-wszystkie-szkolenia-z-komunikacji-technicznej-w-jednym-miejscu/index.md)
+- [Wpis na siódme urodziny](../7-urodziny-techwriter-pl/index.md)
+- [Wywiad na Youtube z Darkiem po angielsku dla Write The Docs w 2021](https://www.youtube.com/watch?v=QTdlv6KQiEo)
+  ![Fakty o rynku technical writingowym z 2021](images/7lat.png)
+
+### Relacje z soap!
+- 2013: [soap! technical communication conference - relacja | techwriter.pl](https://techwriter.pl/soap-technical-communication-conference-relacja)
+
+- 2014: [Mydło lubi zabawę | techwriter.pl](https://techwriter.pl/mydlo-lubi-zabawe/)
+
+- 2014: [soap! 2014 - relacja z pierwszego dnia | techwriter.pl](https://techwriter.pl/soap-2014-relacja-z-pierwszego-dnia/)
+
+- 2014: [soap! 2014 - relacja z drugiego dnia | techwriter.pl](https://techwriter.pl/soap-2014-relacja-z-drugiego-dnia/)
+
+- 2014: [Soap! Just Wants to Have Fun | techwriter.pl](https://techwriter.pl/soap-just-wants-to-have-fun/)
+
+- 2014: [soap! 2014 - summary of day 1 | techwriter.pl](https://techwriter.pl/soap-2014-summary-of-day-1/)
+
+- 2014: [soap! 2014 - summary of day 2 | techwriter.pl](https://techwriter.pl/soap-2014-summary-of-day-2/)
+
+- 2015: [Namydleni po raz trzeci](https://techwriter.pl/namydleni-po-raz-trzeci/)
+
+- 2016: [Konferencja soap! 2016 - podsumowanie](https://techwriter.pl/konferencja-soap-2016-podsumowanie/)
+
+- 2017: [Soap! 2017 już za nami - relacja](https://techwriter.pl/soap-2017-juz-za-nami-relacja/)
+
+- 2018: [Konferencja soap! 2018 - relacja](https://techwriter.pl/konferencja-soap-2018-relacja/)
+
+- 2019: [Konferencja soap! 2019 - (wideo)relacja](https://techwriter.pl/konferencja-soap-2019-wideorelacja/)
+
+- 2022: [Doniesienia z tegorocznej konferencji Soap 2022!](https://techwriter.pl/doniesienia-z-tegoroczenj-konferencji-soap-2022)
+
+- 2023: [Relacja z tegorocznej konferencji soap 2023!](https://techwriter.pl/relacja-z-tegorocznej-konferencji-soap-2023/)
+
