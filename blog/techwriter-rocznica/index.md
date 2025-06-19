@@ -183,6 +183,12 @@ wartościowych pozycji na blogu. Jeśli szukasz informacji na jakiś temat, wpis
 słowo kluczowe do wyszukiwarki strony. Jest duża szansa, że temat był
 adresowany.
 
+### Langłydż
+
+Techwriter.pl to nie tylko poważne artykuły branżowe. Dużym powodzeniem cieszy
+się seria Langłydż, w której obserwujemy co śmieszniejsze i kreatywniejsze zapożyczenia z angielskiego. 
+Warto wrzucić ją sobie na backlog.
+
 ## O co chodzi i dlaczego?
 
 Przyjrzyjmy się temu, co napędza redakcję i jakie są jej cele.
@@ -273,15 +279,15 @@ Skowron, Paweł Kowaluk, Marcin Górski.
 Studia podyplomowe kształcące specjalistów od komunikacji technicznej odbyły się
 pięć razy i wydano X certyfikatów.
 
-### Grupa na Facebooku i strona na LinkedIn
-
-- Grupa Tworzenie Dokumentacji liczy 700 osób.
-- 800 osób śledzi aktualizacje publikowane przez Techwriter.pl na LinkedIn.
-
 ### Partnerstwa z konferencjami i wydarzeniami
 
 Techwriter.pl patronował konferencjom i wydarzeniom takim jak MadWorld, soap!,
 Write the Docs, Meet Content (obecnie Content Bytes).
+
+### Grupa na Facebooku i strona na LinkedIn
+
+- Grupa Tworzenie Dokumentacji liczy 700 osób.
+- 800 osób śledzi aktualizacje publikowane przez Techwriter.pl na LinkedIn.
 
 ### Przyjaźnie
 
@@ -469,3 +475,16 @@ Wam w niej samych sukcesów. Trzymajcie się!
 - 2018: [Write the Docs Prague](../write-the-docs-prague-2018-relacja/index.md)
 - 2017: [Write the Docs Prague](../write-the-docs-prague-2017-relacja/index.md)
 - 2016: [Write the Docs Europe](../write-the-docs-europe-2016-relacja/index.md)
+
+### Langłydż
+- 2014: [Part ilewen](../langlydz-part-ilewen/index.md)
+- 2014: [Part ten](../langlydz-part-ten/index.md)
+- 2014: [Part najn](../langlydz-part-najn/index.md)
+- 2014: [Part ejt](../langlydz-part-ejt/index.md)
+- 2014: [Part sewen](../langlydz-part-sewen/index.md)
+- 2014: [Part siks](../langlydz-part-siks/index.md)
+- 2014: [Part fajf](../langlydz-part-fajf/index.md)
+- 2014: [Part fołur](../langlydz-part-folur/index.md)
+- 2014: [Part fri](../langlydz-part-fri/index.md)
+- 2013: [Part tu](../langlydz-part-tu/index.md)
+- 2013: [Part łan](../langlydz-part-lan/index.md)
