@@ -358,7 +358,7 @@ Dzięki Techwriter.pl miałem też okazję uczestniczenia w ciekawych wydarzenia
 konferencjach. Podczas tych wydarzeń i w samej redakcji poznałem bardzo
 sympatycznych, pomocnych ludzi.
 
-Mam nadzieję, że artykuł ten będzie pretekstem do przypomnienia sobie osiągnięć
+Mam nadzieję, że artykuł ten jest pretekstem do przypomnienia sobie osiągnięć
 naszej społeczności. Patrzę z optymizmem na dalszy rozwój naszej branży i życzę
 Wam w niej samych sukcesów. Trzymajcie się!
 
