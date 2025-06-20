@@ -19,15 +19,15 @@ kontynucja
 
 A blood black nothingness.
 
-A system of cells.
+  A system of cells.
 
-Within cells interlinked.
+     Within cells interlinked.
 
-Within one stem.
+      Within one stem.
 
-And dreadfully distinct.
+        And dreadfully distinct.
 
-Against the dark.
+          Against the dark.
 
 Nabokov’s Pale Fire poem i Blade Runner 2049.
 
