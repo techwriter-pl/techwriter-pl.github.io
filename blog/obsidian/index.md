@@ -4,9 +4,9 @@ title:
 authors: niewiarowski
 date: '2025-06-21'
 tags:
-  - 'organizacja-pracy'
-  - 'ergonomia'
-  - 'praca-zdalna'
+  - 'narzędzia'
+  - 'zarządzanie-treścią'
+  - 'zarządzanie-wiedzą'
 coverImage: 'obsidian.png'
 ---
 
