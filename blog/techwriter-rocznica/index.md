@@ -115,7 +115,8 @@ Przyjrzyjmy się wybranym zdarzeniom z historii Techwriter.pl.
 ### Oferty pracy
 
 W początkowej fazie rozwoju portalu, największa popularnością cieszyły się
-oferty pracy. 
+oferty pracy. Wciaz jest to miejsce chetnie odwiedzane przez poszukujacych
+pracy.
 
 Jeśli potrzebujesz zamieścić takie ogłoszenie, zgłoś się do nas i opublikujemy
 je nieodpłatnie.
@@ -177,15 +178,17 @@ Techwriter.pl doczekał się nawet gadżetów takich jak:
 - Koszulka: "I’m the One Who Docs"
 - Koszulki z logo
 - Kubek
-- Parasolka Były to bardzo limitowane edycje, a kto jest posiadaczem jednego z
-  artefaktów, może uznać się za szczęśliwca. Wiąże się z tym zabawna historia.
-  Kilka lat po tym jak dołączyłem do redakcji, podczas konferencji Michał
-  zagadnął mnie, by przekazać mi prawie nieużywaną koszulkę z logo
-  Techwriter.pl. W tamtym czasie Michał już dłuższy czas realizował się poza
-  szeregami redakcji. Ironia losu polegała na tym, że w przeciągu roku Michał na
-  nowo dołączył do zespołu jako redaktor naczelny, więc może i odzienie z
-  brandingiem mu się przydało 😁. Koszulkę zachowałem, czasem nawet zakładam ją
-  na wyjątkowe okazje (ostatnio był to Content Day).
+- Parasolka
+
+Były to bardzo limitowane edycje, a kto jest posiadaczem jednego z artefaktów,
+może uznać się za szczęśliwca. Wiąże się z tym zabawna historia. Kilka lat po
+tym jak dołączyłem do redakcji, podczas konferencji Michał zagadnął mnie, by
+przekazać mi prawie nieużywaną koszulkę z logo Techwriter.pl. W tamtym czasie
+Michał już dłuższy czas realizował się poza szeregami redakcji. Ironia losu
+polegała na tym, że w przeciągu roku Michał na nowo dołączył do zespołu jako
+redaktor naczelny, więc może i odzienie z brandingiem mu się przydało 😁.
+Koszulkę zachowałem, czasem nawet zakładam ją na wyjątkowe okazje (ostatnio był
+to Content Day).
 
 ### Jak wygląda działalność redakcji od kuchni?
 
@@ -366,7 +369,7 @@ Michał Skowron:
 > nastąpił w branży testerskiej), ale myślę, że możemy być zadowoleni z tego,
 > gdzie teraz jesteśmy.
 
-## Dokąd zmierza Techwriter.pl?
+## Techwriter.pl obecnie
 
 W 2023 Darek przekazał stery w zakresie prowadzenia portalu Michałowi Skowronowi
 i Pawłowi Kowalukowi.
@@ -396,7 +399,13 @@ sympatycznych, kreatywnych, pomocnych ludzi.
 
 Mam nadzieję, że artykuł ten jest pretekstem do przypomnienia sobie osiągnięć
 naszej społeczności. Patrzę z optymizmem na dalszy rozwój naszej branży i życzę
-Wam w niej samych sukcesów. Trzymajcie się!
+Wam w niej samych sukcesów.
+
+Takim sukcesem, moglby na przyklad byc opublikowany artykul w pewnym znamienitym
+portalu. Zapraszamy do dzielenia sie wiedza i doswiadczeniami, bo sami wiemy jaka
+ frajda z tym sie wiaze. 
+
+ Trzymajcie sie!
 
 ## Źródła
 
