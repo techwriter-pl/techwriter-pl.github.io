@@ -253,7 +253,7 @@ Michał Skowron:
 > stron internetowych — jednak większość z nich jest w języku angielskim. To
 > oczywiście fantastyczne, ale założeniem Techwriter.pl było budowanie
 > społeczności komunikacji technicznej na poziomie lokalnym, właśnie w języku
-> polskim. To prosty przykład zasady: „myśl globalnie, działaj lokalnie”.
+> polskim. To prosty przykład zasady: "myśl globalnie, działaj lokalnie".
 
 > Celem nie było stworzenie odrębnego źródła ezoterycznej wiedzy technicznej,
 > zaszyfrowanej w jednym z najtrudniejszych języków świata. Chcieliśmy raczej
