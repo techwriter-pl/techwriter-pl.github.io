@@ -66,9 +66,9 @@ tworzenia tego portalu. W tamtym czasie, Darek zauważał brak polskojęzycznej
 strony branżowej i nieistniejącą wtedy ofertę szkoleniową na polskim rynku.
 
 W tamtym czasie, Darkowi na LinkedIn udawało się wyszukać profile 133 osób w
-Polsce, które określały swoje stanowisko jako "technical writer". Ja w 2025 jak
-użyłem filtru kraju i stanowiska to LinkedIn zwróciło mi 830 wyników.
-`Nie mam LinkedIn Premium więc nie wiem czy to byli wyłącznie moi znajomi. Sprawdzę z kimś kto ma dostęp do LinkedIn Premium.`
+Polsce, które określały swoje stanowisko jako "technical writer". Według raportu
+ITCQF w 2022 w LinkedIn, w Polsce naliczono 2200 osób na stanowisku "technical
+writer"
 
 Podsumowując, Darek dostrzegł lukę i postanowił ją zagospodarować w
 konstruktywny sposób. Później ruszyło to na zasadzie kuli śniegowej 🙂.
@@ -84,31 +84,12 @@ dostępna domena strony internetowej 🙂.
 ### Pierwsze wpisy
 
 Darek dodał [pierwszy wpis](../witaj-swiecie/index.md) 18.09.2013. W 2023 portal
-skończył 10 lat, a we wrzesniu 2025 skończy 12 lat 👍🥳🎉. Skoro Techwriter.pl
-ma urodziny we wrześniu, to powinniśmy je świętować podczas konferencji Cake 😀.
+skończył 10 lat, a we wrzesniu 2025 skończy 12 👍🥳🎉. Skoro Techwriter.pl ma
+urodziny we wrześniu, to powinniśmy je świętować podczas konferencji Cake 😀.
 
 Pierwszym dużym, merytorycznym artykułem była
 [relacja z pierwszej odsłony soap!](../soap-technical-communication-conference-relacja/index.md)
 autorstwa Michała, który później poświęcił swój wolny czas projektowi ITCQF.
-
-### Jak wygląda działalność redakcji od kuchni?
-
-Odbywają się wideokonferencje żeby pogadać i podzielić się pomysłami na
-artykuły. Dość sprawnie komunikujemy się zdalnie i ustalamy plany na najbliższy
-czas. Każdy pisze dla przyjemności po godzinach, dlatego zrozumiałe jest, że
-zobowiązania prywatne i zawodowe mają priorytet, a z publikacją artykułu czasem
-trzeba zaczekać. Każdy artykuł sprawdzany jest przez co najmniej jedną parę
-oczu.
-
-Wspomnę w tym miejscu Agnieszkę Gaworską, która od 2015 pełni rolę
-administratorki i korektorki. Przez jej ręce przeszły dziesiątki artykułów i
-wychwyciła setki literówek. Bywały okresy, gdy to Agnieszka była osobą, która
-najczęściej publikowała nowe treści na stronie. To ona również odpowiadała za
-publikacje na mediach społecznościowych. Dzięki jej zaangażowaniu łódka zwana
-Techwriter.pl płynie dalej. Dziękujemy 🤝!
-
-W redakcji, Darek dał się poznać jako dobry organizator, lider, talent manager i
-po prostu dobry kolega wnoszący dużo energii i entuzjazmu 🙂.
 
 ### Współpracownicy
 
@@ -134,7 +115,7 @@ Przyjrzyjmy się wybranym zdarzeniom z historii Techwriter.pl.
 ### Oferty pracy
 
 W początkowej fazie rozwoju portalu, największa popularnością cieszyły się
-oferty pracy.
+oferty pracy. 
 
 Jeśli potrzebujesz zamieścić takie ogłoszenie, zgłoś się do nas i opublikujemy
 je nieodpłatnie.
@@ -186,8 +167,44 @@ adresowany.
 ### Langłydż
 
 Techwriter.pl to nie tylko poważne artykuły branżowe. Dużym powodzeniem cieszy
-się seria Langłydż, w której obserwujemy co śmieszniejsze i kreatywniejsze zapożyczenia z angielskiego. 
-Warto wrzucić ją sobie na backlog.
+się seria Langłydż, w której obserwujemy co śmieszniejsze i kreatywniejsze
+zapożyczenia z angielskiego. Warto wrzucić ją sobie na backlog.
+
+### Gadżety
+
+Techwriter.pl doczekał się nawet gadżetów takich jak:
+
+- Koszulka: "I’m the One Who Docs"
+- Koszulki z logo
+- Kubek
+- Parasolka Były to bardzo limitowane edycje, a kto jest posiadaczem jednego z
+  artefaktów, może uznać się za szczęśliwca. Wiąże się z tym zabawna historia.
+  Kilka lat po tym jak dołączyłem do redakcji, podczas konferencji Michał
+  zagadnął mnie, by przekazać mi prawie nieużywaną koszulkę z logo
+  Techwriter.pl. W tamtym czasie Michał już dłuższy czas realizował się poza
+  szeregami redakcji. Ironia losu polegała na tym, że w przeciągu roku Michał na
+  nowo dołączył do zespołu jako redaktor naczelny, więc może i odzienie z
+  brandingiem mu się przydało 😁. Koszulkę zachowałem, czasem nawet zakładam ją
+  na wyjątkowe okazje (ostatnio był to Content Day).
+
+### Jak wygląda działalność redakcji od kuchni?
+
+Odbywają się wideokonferencje żeby pogadać i podzielić się pomysłami na
+artykuły. Dość sprawnie komunikujemy się zdalnie i ustalamy plany na najbliższy
+czas. Każdy pisze dla przyjemności po godzinach, dlatego zrozumiałe jest, że
+zobowiązania prywatne i zawodowe mają priorytet, a z publikacją artykułu czasem
+trzeba zaczekać. Każdy artykuł sprawdzany jest przez co najmniej jedną parę
+oczu.
+
+Wspomnę w tym miejscu Agnieszkę Gaworską, która od 2015 pełni rolę
+administratorki i korektorki. Przez jej ręce przeszły dziesiątki artykułów i
+wychwyciła setki literówek. Bywały okresy, gdy to Agnieszka była osobą, która
+najczęściej publikowała nowe treści na stronie. To ona również odpowiadała za
+publikacje na mediach społecznościowych. Dzięki jej zaangażowaniu łódka zwana
+Techwriter.pl płynie dalej. Dziękujemy 🤝!
+
+W redakcji, Darek dał się poznać jako dobry organizator, lider, talent manager i
+po prostu dobry kolega wnoszący dużo energii i entuzjazmu 🙂.
 
 ## O co chodzi i dlaczego?
 
@@ -241,6 +258,18 @@ Michał Skowron:
 > twórców technicznych do innych wspaniałych źródeł wiedzy i połączy ich z
 > międzynarodowymi społecznościami. Jak dotąd, wydaje się, że to działa!
 
+> Jest to jedyny taki portal prowadzony w języku polskim. Istnieje wiele źródeł
+> zagranicznych, ale Techwriter.pl pozwala nam opowiadać o tech commie przez
+> pryzmat naszej rzeczywistości, która ma swoje smaczki i jest inna niż ta,
+> którą obserwujemy w krajach gdzie tech comm jest branżą z długoletnią
+> tradycją. Myślę też, że fakt, że portal jest prowadzony przez pasjonatów,
+> którzy na tym nie zarabiają i nie mają określonej agendy biznesowej. Często
+> blogi są zakładane jako sposób na reklamę czy marketing swoich usług. Wiadomo,
+> że każda osoba, która publikuje na naszym portalu buduje w ten sposób swoją
+> markę osobistą i zwiększa swoją widoczność w branży, ale głównym celem
+> działalności jest dzielenie się wiedzą, a nie promowanie jakiegoś logo czy
+> firmy.
+
 Darek Drezno:
 
 > Przede wszystkim wiele osób poznało się i zaprzyjaźniło dzięki tej
@@ -286,17 +315,17 @@ Write the Docs, Meet Content (obecnie Content Bytes).
 
 ### Grupa na Facebooku i strona na LinkedIn
 
-- Grupa Tworzenie Dokumentacji liczy 700 osób.
+- Grupa Tworzenie Dokumentacji liczy ponad 1000 osób.
 - 800 osób śledzi aktualizacje publikowane przez Techwriter.pl na LinkedIn.
 
 ### Przyjaźnie
 
-Dziesiątki znajomości i przyjaźni w ramach szeroko pojętej społeczności
-technical writerów w kraju i za granicą.
+Praca nad portalem zaowocowała dziesiątkami znajomości i przyjaźni w ramach
+szeroko pojętej społeczności technical writerów w kraju i za granicą.
 
 ## Wartość dodana według czytelników
 
-`O to chyba najlepiej zapytać czytelników :) Może warto zadać takie pytanie w grupie na FB. Fajnie byłoby usłyszeć jak to widzą followersi portalu.`
+TUTAJ DODAM WRAZENIA CZYTELNIKOW.
 
 ## Rynek contentu wtedy i dziś
 
@@ -361,8 +390,9 @@ ogromną frajdę, że mam możliwość dzielenia się spostrzeżeniami i tym cze
 dowiedziałem. Dzięki temu jeszcze lepiej komunikuję się w języku pisanym.
 
 Dzięki Techwriter.pl miałem też okazję uczestniczenia w ciekawych wydarzeniach i
-konferencjach. Podczas tych wydarzeń i w samej redakcji poznałem bardzo
-sympatycznych, pomocnych ludzi.
+konferencjach. Miałem przyjemność prowadzić wykład dla studentów podczas
+"Translating Europe". Podczas tych wydarzeń i w samej redakcji poznałem bardzo
+sympatycznych, kreatywnych, pomocnych ludzi.
 
 Mam nadzieję, że artykuł ten jest pretekstem do przypomnienia sobie osiągnięć
 naszej społeczności. Patrzę z optymizmem na dalszy rozwój naszej branży i życzę
@@ -381,7 +411,6 @@ Wam w niej samych sukcesów. Trzymajcie się!
 - 2021: [Wpis na siódme urodziny](../7-urodziny-techwriter-pl/index.md)
 - 2021:
   [Wywiad na Youtube z Darkiem po angielsku dla Write The Docs](https://www.youtube.com/watch?v=QTdlv6KQiEo)
-  ![Fakty o rynku technical writingowym z 2021](images/7lat.png)
 - 2017:
   [Wpis na czwarte urodziny](../od-dzis-wszystkie-szkolenia-z-komunikacji-technicznej-w-jednym-miejscu/index.md)
 - 2016: [Wpis na trzecie urodziny](../pozdrawiamy-z-pragi/index.md)
@@ -477,6 +506,7 @@ Wam w niej samych sukcesów. Trzymajcie się!
 - 2016: [Write the Docs Europe](../write-the-docs-europe-2016-relacja/index.md)
 
 ### Langłydż
+
 - 2014: [Part ilewen](../langlydz-part-ilewen/index.md)
 - 2014: [Part ten](../langlydz-part-ten/index.md)
 - 2014: [Part najn](../langlydz-part-najn/index.md)
