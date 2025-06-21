@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[34981],{57098:t=>{t.exports=JSON.parse('{"tag":{"label":"saiit","permalink":"/tags/saiit","allTagsPath":"/tags","count":3,"unlisted":false},"listMetadata":{"permalink":"/tags/saiit","page":1,"postsPerPage":5,"totalPages":1,"totalCount":3,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

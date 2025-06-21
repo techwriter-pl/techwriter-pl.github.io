@@ -378,7 +378,7 @@ Wypełnij <a href="https://forms.gle/H2Qm7T7ijvifD9hy8" target="_blank" rel="noo
         <author>
             <name>Barbara Czyż</name>
         </author>
-        <category label="konferencja" term="konferencja"/>
+        <category label="konferencje" term="konferencje"/>
         <category label="warsztat" term="warsztat"/>
     </entry>
     <entry>
@@ -487,7 +487,7 @@ Liczba biletów jest ograniczona, więc nie zwlekajcie za długo z zakupem!</p>]
         <author>
             <name>Barbara Czyż</name>
         </author>
-        <category label="konferencja" term="konferencja"/>
+        <category label="konferencje" term="konferencje"/>
         <category label="warsztat" term="warsztat"/>
     </entry>
     <entry>
@@ -1487,7 +1487,6 @@ się go tworzyć.</p>]]></content>
             <name>Paweł Kowaluk</name>
         </author>
         <category label="warsztat" term="warsztat"/>
-        <category label="z-przymrużeniem-oka" term="z-przymrużeniem-oka"/>
         <category label="humor" term="humor"/>
         <category label="język" term="język"/>
     </entry>
@@ -1550,9 +1549,10 @@ ze spotkania założycielskiego :</p>
         <author>
             <name>Monika Mrozek</name>
         </author>
-        <category label="stowarzyszenie" term="stowarzyszenie"/>
+        <category label="saiit" term="saiit"/>
         <category label="zrzeszenia-branżowe" term="zrzeszenia-branżowe"/>
         <category label="promocja-branży" term="promocja-branży"/>
+        <category label="społeczność" term="społeczność"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Oferta (współ)pracy: Redaktor Techwriter.pl]]></title>
@@ -1943,7 +1943,7 @@ we Wrocławiu.</p>
 <p>Inicjator stowarzyszenia, Łukasz Rybka, opowiadał o przedsięwzięciu na naszych
 łamach już w czerwcu. O głównych założeniach i pierwszych planach, możecie
 przeczytać w artykule:
-<a href="https://techwriter.pl/saiit-wywiad">Stowarzyszenie Autorów i Ilustratorów Technicznych (SAIiT) - Wywiad z Łukaszem Rybką</a>.</p>
+<a href="https://techwriter.pl/saiit-wywiad">Stowarzyszenie Autorów i Ilustratorów Technicznych (SAiIT) - Wywiad z Łukaszem Rybką</a>.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="kiedy-i-gdzie">Kiedy i gdzie?<a href="https://techwriter.pl/saiit-spotkanie-zalozycielskie#kiedy-i-gdzie" class="hash-link" aria-label="Bezpośredni link do Kiedy i gdzie?" title="Bezpośredni link do Kiedy i gdzie?">​</a></h2>
 <p>Data: 24 października Godzina: 17:30 Siedziba firmy <strong>Etteplan</strong> Ul. Legnicka 48
 G, Wrocław</p>
@@ -1959,9 +1959,10 @@ spotkania, polub
         <author>
             <name>Monika Mrozek</name>
         </author>
-        <category label="stowarzyszenie" term="stowarzyszenie"/>
+        <category label="saiit" term="saiit"/>
         <category label="zrzeszenia-branżowe" term="zrzeszenia-branżowe"/>
         <category label="promocja-branży" term="promocja-branży"/>
+        <category label="społeczność" term="społeczność"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Content Bytes - nowe oblicze spotkań dla specjalistów od treści]]></title>
