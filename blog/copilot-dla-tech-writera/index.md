@@ -14,7 +14,7 @@ przykłady użycia Copilota GitHub do tworzenia szkiców dokumentacji.
 
 <!--truncate-->
 
-Z mojego doświadczenia, jest ogromna różnica między użycie czatu (np. ChatGPT) a
+Z mojego doświadczenia, jest ogromna różnica między użyciem czatu (np. ChatGPT) a
 użyciem agenta. Agent AI to narzędzie, które łączy w sobie zastosowanie
 uzupełniania za pomocą modelu (chat completion) i zastosowanie narzędzi do
 czytania i tworzenia plików. Dodatkowo, agent często działa w pętli sprzężenia
