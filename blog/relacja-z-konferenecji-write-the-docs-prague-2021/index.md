@@ -5,6 +5,8 @@ date: '2021-10-26'
 tags:
   - 'news'
   - 'ze-świata'
+  - 'dokumentacja'
+  - 'edukacja'
   - 'konferencje'
   - 'społeczność'
   - 'write-the-docs'

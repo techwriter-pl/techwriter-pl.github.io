@@ -5,6 +5,8 @@ date: '2019-04-30'
 tags:
   - 'news'
   - 'ze-świata'
+  - 'dokumentacja'
+  - 'edukacja'
   - 'konferencje'
   - 'społeczność'
   - 'write-the-docs'

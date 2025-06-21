@@ -7,9 +7,9 @@ tags:
   - 'praca'
   - 'kariera'
   - 'praca'
+  - 'społeczność'
 coverImage: 'Slajd2.jpg'
 ---
-
 Ile zarabiają technical writerzy? Jak różnią się pensje w różnych województwach?
 Jak na wynagrodzenie wpływa doświadczenie? Przeprowadziliśmy pierwsze w Polsce
 badanie płac w branży komunikacji technicznej. Oto jego wyniki.

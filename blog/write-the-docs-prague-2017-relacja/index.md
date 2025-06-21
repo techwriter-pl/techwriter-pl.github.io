@@ -5,6 +5,8 @@ date: '2017-10-05'
 tags:
   - 'news'
   - 'ze-świata'
+  - 'dokumentacja'
+  - 'edukacja'
   - 'konferencje'
   - 'społeczność'
   - 'write-the-docs'

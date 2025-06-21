@@ -5,9 +5,13 @@ date: '2015-10-14'
 tags:
   - 'news'
   - 'z-kraju'
+  - 'edukacja'
+  - 'kariera'
   - 'konferencje'
+  - 'praca'
   - 'społeczność'
   - 'soap'
+  - 'treningi'
 coverImage: 'koszyk_soap.jpg'
 ---
 

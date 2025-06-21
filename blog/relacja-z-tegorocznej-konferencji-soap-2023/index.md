@@ -5,9 +5,13 @@ date: '2023-07-14'
 tags:
   - 'news'
   - 'z-kraju'
+  - 'edukacja'
+  - 'kariera'
   - 'konferencje'
+  - 'praca'
   - 'społeczność'
   - 'soap'
+  - 'treningi'
 coverImage: 'upload_0522.png'
 ---
 

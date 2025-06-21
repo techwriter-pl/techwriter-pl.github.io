@@ -3,7 +3,7 @@ title: 'CAKE conf: Call for speakers'
 authors: bczyz
 date: '2025-05-23'
 tags:
-  - 'konferencja'
+  - 'konferencje'
   - 'warsztat'
 coverImage: 'cfp.png'
 ---
