@@ -115,7 +115,7 @@ Takich aplikacji jest więcej, np. Anthropic ma swoją aplikację o nazwie Claud
 która nazywa się tak jak ich flagowe modele (Claude Sonnet 4, Claude Haiku,
 itp.). Czym różnią się te aplikacje od modeli?
 
-Na przykład aplikacja ChatGPT ma "pamięta" historię rozmowy. W praktyce, ta
+Na przykład aplikacja ChatGPT ma "pamiętać" historię rozmowy. W praktyce, ta
 historia jest dodawana do kontekstu w kolejnych zapytaniach do API modelu. Na
 przykład:
 
