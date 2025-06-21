@@ -111,7 +111,7 @@ Natomiast jeżeli otworzymy stronę https://chatgpt.com/, to korzystamy z
 
 ![Widok interfejsu ChatGPT z widocznym polem do wpisania zapytania i nagłówkiem "Nad czym pracujesz?"](./img/chat-gpt-interfejs.png)
 
-Takich aplikacji jest więcej, np. Anthropic na swoją aplikację o nazwie Claude,
+Takich aplikacji jest więcej, np. Anthropic ma swoją aplikację o nazwie Claude,
 która nazywa się tak jak ich flagowe modele (Claude Sonnet 4, Claude Haiku,
 itp.). Czym różnią się te aplikacje od modeli?
 
