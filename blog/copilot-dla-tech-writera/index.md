@@ -152,11 +152,11 @@ które wymaga odpowiedzi.
 Dodatkowo, aplikacja posiada opcję "pamięci". To znaczy, że można w niej zapisać
 kilka informacji, np. kiedy są nasze urodziny albo czy lubimy sushi. Czat będzie
 korzystał z tych informacji odpowiadając na nasze zapytania. W praktyce wygląda
-to prawdopodobnie tak, że te informacje sa dodawane do promptu kontekstu.
+to prawdopodobnie tak, że te informacje sa dodawane do kontekstu.
 
 Innym zastosowaniem dla kontekstu jest Retrieval-Augmented Generation (RAG). W
-RAGu aplikacja wykonuje najpierw wyszukiwanie (np. szuka w Internecie) a potem
-dodaje podsumowanie wyników do kontekstu.
+RAGu aplikacja wykonuje najpierw wyszukiwanie (np. szuka w Internecie albo bazie
+wiedzy) a potem dodaje podsumowanie wyników do kontekstu.
 
 ```json {6}
 {
@@ -231,8 +231,9 @@ Jako użytkownik aplikacji ChatGPT nie mamy wglądu w to co się dzieje za
 kulisami, to znaczy jakie operacje wykonuje aplikacja przed wysłaniem zapytania
 do systemu, jaka jest wiadomość systemowa, itp. Przykłady, które podałem są
 bardzo proste, wręcz banalne, a osoby utrzymujące aplikację ChatGPT włożyli na
-pewno dużo pracy w odpowiednie prompty i użycie narzędzi. Dlatego tez różne
-aplikacje nawet oparte o te same modele mogą nam dawać różną jakość rezultatów.
+pewno dużo pracy w odpowiednie wiadomości systemowe i dodatkowe narzędzia,
+których używa model. Dlatego tez różne aplikacje nawet oparte o te same modele
+mogą nam dawać różną jakość rezultatów.
 
 Teraz, kiedy rozumiemy z grubsza jak działają modele i aplikacje-czaty...
 
