@@ -5,9 +5,10 @@ title:
 authors: mrozek
 date: '2024-10-25'
 tags:
-  - 'stowarzyszenie'
+  - 'saiit'
   - 'zrzeszenia-branżowe'
   - 'promocja-branży'
+  - 'społeczność'
 coverImage: 'saiit.png'
 ---
 
@@ -22,7 +23,7 @@ we Wrocławiu.
 Inicjator stowarzyszenia, Łukasz Rybka, opowiadał o przedsięwzięciu na naszych
 łamach już w czerwcu. O głównych założeniach i pierwszych planach, możecie
 przeczytać w artykule:
-[Stowarzyszenie Autorów i Ilustratorów Technicznych (SAIiT) - Wywiad z Łukaszem Rybką](../saiit-wywiad/index.md).
+[Stowarzyszenie Autorów i Ilustratorów Technicznych (SAiIT) - Wywiad z Łukaszem Rybką](../saiit-wywiad/index.md).
 
 ## Kiedy i gdzie?
 

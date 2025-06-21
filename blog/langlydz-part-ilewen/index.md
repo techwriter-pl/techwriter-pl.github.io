@@ -4,7 +4,6 @@ authors: pensjonatus
 date: '2024-12-21'
 tags:
   - 'warsztat'
-  - 'z-przymrużeniem-oka'
   - 'humor'
   - 'język'
 coverImage: 'polglisz.png'

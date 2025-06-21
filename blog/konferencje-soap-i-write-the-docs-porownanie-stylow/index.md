@@ -4,7 +4,7 @@ authors: niewiarowski
 date: '2022-07-29'
 tags:
   - 'biblioteczka-techwritera'
-  - 'z-przymrużeniem-oka'
+  - 'humor'
   - 'edukacja'
   - 'kariera'
   - 'konferencje'
