@@ -7,6 +7,7 @@ tags:
   - 'z-kraju'
   - 'edukacja'
   - 'konferencje'
+  - 'praca'
   - 'społeczność'
   - 'treningi'
   - 'soap'

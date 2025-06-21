@@ -95,7 +95,10 @@ coverImage: 'CKSource-logo-2.jpg'
 6. Add your post contents. Read about Markdown features in
    [the official Docusaurus Markdown guide](https://docusaurus.io/docs/markdown-features).
 
-7. Every post needs a preview section. This preview section appears as the
+7. When you link to other Techwriter.pl articles, use relative links:
+   `[LINK TEXT](../witaj-swiecie/index.md)`.
+
+8. Every post needs a preview section. This preview section appears as the
    summary of the blog post, and there's a "read more" link underneath. To mark
    where the preview section ends, add the following as a separate line:
 
@@ -103,7 +106,7 @@ coverImage: 'CKSource-logo-2.jpg'
    <!--truncate-->
    ```
 
-8. We use Code Spell Checker (cSpell). If you use unfamiliar words in your post,
+9. We use Code Spell Checker (cSpell). If you use unfamiliar words in your post,
    cSpell will underline them. If it's actually a word you want to use, hover
    over it with your mouse and select **Quick actions**, and select **Add to
    workspace settings**. This saves the word to be used in other posts and by
@@ -111,19 +114,19 @@ coverImage: 'CKSource-logo-2.jpg'
 
    **HINT:** Instead of hovering with your mouse, you can press Ctrl+P or Cmd+P.
 
-9. We use Prettier to format code. It makes it easier for others to add comments
-   to code fragments.
+10. We use Prettier to format code. It makes it easier for others to add
+    comments to code fragments.
 
-   **HINT:** Use Ctrl+S or Cmd+S shortcut.
+    **HINT:** Use Ctrl+S or Cmd+S shortcut.
 
-10. If you want to add images, in the folder where you created your `index.md`
+11. If you want to add images, in the folder where you created your `index.md`
     file, create an `images` folder and place them there. Remember that file
     paths in this environment are **case sensitive**.
 
 If you are working in VS Code in the browser, you can drag-and-drop images from
 your file explorer into the browser window.
 
-11. Image attribution.
+12. Image attribution.
 
 - As much as possible, rely on graphics and illustrations you create and have
   rights to.
@@ -135,8 +138,12 @@ your file explorer into the browser window.
 - If you generate image using GenAI, mention the tool in the caption.
 - If you create an image using a free to use software, verify if its usage
   license complies with pro bono blog posting.
-- If you create an image with a tool you paid for, you don't need to mention the tool
-  in the caption.
+- If you create an image with a tool you paid for, you don't need to mention the
+  tool in the caption.
+
+13. If you include an image that is not decorative but contains useful knowledge,
+   use ALT texts that give an idea what the image is about. Make it screen
+   reader friendly. `![ALT text goes here](images/filename.png)`.
 
 ## Creating a PR
 

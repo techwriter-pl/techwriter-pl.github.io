@@ -4,7 +4,6 @@ authors: mojk
 date: '2015-12-01'
 tags:
   - 'warsztat'
-  - 'z-przymrużeniem-oka'
   - 'humor'
   - 'praca'
 coverImage: 'm-ms-631865_640-e1447187190952.jpg'

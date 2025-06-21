@@ -5,9 +5,13 @@ date: '2014-12-09'
 tags:
   - 'news'
   - 'z-kraju'
+  - 'edukacja'
+  - 'kariera'
   - 'konferencje'
+  - 'praca'
   - 'społeczność'
   - 'soap'
+  - 'treningi'
   - 'articles-in-english'
 coverImage: 'soap.jpg'
 ---

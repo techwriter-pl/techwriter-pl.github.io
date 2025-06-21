@@ -10,6 +10,7 @@ tags:
   - 'konferencje'
   - 'społeczność'
   - 'soap'
+  - 'treningi'
 coverImage: 'IMG_20180525_103253.jpg'
 ---
 

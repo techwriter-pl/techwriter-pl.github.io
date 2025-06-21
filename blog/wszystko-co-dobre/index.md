@@ -5,7 +5,6 @@ date: '2014-04-01'
 tags:
   - 'news'
   - 'z-kraju'
-  - 'z-przymrużeniem-oka'
   - 'humor'
   - 'kariera'
 coverImage: 'koniec.jpg'

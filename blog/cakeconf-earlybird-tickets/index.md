@@ -3,7 +3,7 @@ title: 'CAKE conf: ruszyła sprzedaż biletów'
 authors: bczyz
 date: '2025-04-24'
 tags:
-  - 'konferencja'
+  - 'konferencje'
   - 'warsztat'
 coverImage: 'early_bird_tickets.png'
 ---

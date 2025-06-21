@@ -4,7 +4,6 @@ authors: admin
 date: '2014-01-17'
 tags:
   - 'warsztat'
-  - 'z-przymrużeniem-oka'
   - 'humor'
   - 'język'
 coverImage: 'lekcja3.jpg'

@@ -5,9 +5,10 @@ title:
 authors: mrozek
 date: '2024-12-20'
 tags:
-  - 'stowarzyszenie'
+  - 'saiit'
   - 'zrzeszenia-branżowe'
   - 'promocja-branży'
+  - 'społeczność'
 coverImage: 'saiit.png'
 ---
 

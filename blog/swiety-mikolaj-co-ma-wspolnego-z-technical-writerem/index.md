@@ -4,7 +4,6 @@ authors: toporek
 date: '2020-12-22'
 tags:
   - 'news'
-  - 'z-przymrużeniem-oka'
   - 'humor'
   - 'społeczność'
 coverImage: 'mikolaj.jpg'

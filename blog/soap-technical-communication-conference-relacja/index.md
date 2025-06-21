@@ -5,7 +5,11 @@ date: '2013-10-06'
 tags:
   - 'news'
   - 'z-kraju'
+  - 'edukacja'
+  - 'kariera'
   - 'konferencje'
+  - 'praca'
+  - 'społeczność'
   - 'soap'
 coverImage: 'relacja.jpg'
 ---

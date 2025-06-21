@@ -5,11 +5,10 @@ date: '2021-01-29'
 tags:
   - 'przyklady'
   - 'warsztat'
-  - 'z-przymrużeniem-oka'
   - 'dokumentacja'
-  - 'humor'
   - 'kariera'
   - 'praca'
+  - 'humor'
 coverImage: 'techwriter_autor.png'
 ---
 

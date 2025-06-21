@@ -4,7 +4,6 @@ authors: admin
 date: '2014-04-25'
 tags:
   - 'warsztat'
-  - 'z-przymrużeniem-oka'
   - 'humor'
   - 'język'
 coverImage: 'lesson6.jpg'

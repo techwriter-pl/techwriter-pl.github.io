@@ -4,7 +4,6 @@ authors: admin
 date: '2014-11-21'
 tags:
   - 'warsztat'
-  - 'z-przymrużeniem-oka'
   - 'humor'
   - 'język'
 coverImage: 'Ficzer.jpg'

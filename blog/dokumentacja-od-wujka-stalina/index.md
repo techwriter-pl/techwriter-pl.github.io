@@ -4,7 +4,7 @@ authors: toporek
 date: '2021-04-07'
 tags:
   - 'z-kraju'
-  - 'z-przymrużeniem-oka'
+  - 'humor'
   - 'dokumentacja'
   - 'instrukcje'
   - 'użyteczność'

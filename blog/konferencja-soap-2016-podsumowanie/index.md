@@ -5,9 +5,13 @@ date: '2016-06-22'
 tags:
   - 'news'
   - 'z-kraju'
+  - 'edukacja'
+  - 'kariera'
   - 'konferencje'
+  - 'praca'
   - 'społeczność'
   - 'soap'
+  - 'treningi'
 coverImage: 'soapconf2016_techwriterpl-1.jpg'
 ---
 

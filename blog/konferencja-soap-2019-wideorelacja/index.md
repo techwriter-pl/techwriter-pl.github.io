@@ -5,8 +5,13 @@ date: '2019-11-03'
 tags:
   - 'news'
   - 'z-kraju'
+  - 'edukacja'
+  - 'kariera'
   - 'konferencje'
+  - 'praca'
+  - 'społeczność'
   - 'soap'
+  - 'treningi'
 coverImage: 'soap-e1563527191399.jpg'
 ---
 

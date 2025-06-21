@@ -4,7 +4,6 @@ authors: niewiarowski
 date: '2021-04-28'
 tags:
   - 'warsztat'
-  - 'z-przymrużeniem-oka'
   - 'dokumentacja'
   - 'humor'
   - 'kariera'
