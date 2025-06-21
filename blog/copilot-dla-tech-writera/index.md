@@ -174,7 +174,7 @@ dodaje podsumowanie wyników do kontekstu.
 }
 ```
 
-W przykładzie powyżej dodaliśmy kontekst to wiadomości systemowej. Można go też
+W przykładzie powyżej dodaliśmy kontekst do wiadomości systemowej. Można go też
 dodać do wiadomości użytkownika. Nie ma to większego znaczenia dla działania
 systemu, ale chciałem to zaznaczyć, bo możecie spotkać w sieci różne przykłady.
 
