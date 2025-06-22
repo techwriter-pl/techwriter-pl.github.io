@@ -15,14 +15,14 @@
             <pubDate>Sat, 21 Jun 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Pośród wszystkiego co się dzieje wokół AI trudno odróżnić sensacjonalizm i]]></description>
             <content:encoded><![CDATA[<p>Pośród wszystkiego co się dzieje wokół AI trudno odróżnić sensacjonalizm i
-kłamstwa szarlatanów od rzeczy istotnie przydatnych. W tym artykule pokazuję
-przykłady użycia Copilota GitHub do tworzenia szkiców dokumentacji.</p>
-<p>Z mojego doświadczenia, jest ogromna różnica między użyciem czatu (np. ChatGPT) a
-użyciem agenta. Agent AI to narzędzie, które łączy w sobie zastosowanie
-uzupełniania za pomocą modelu (chat completion) i zastosowanie narzędzi do
-czytania i tworzenia plików. Dodatkowo, agent często działa w pętli sprzężenia
-zwrotnego z "samym sobą", lub też pętli sprzężeń pomiędzy różnymi modelami.
-Spróbuję pokrótce wyjaśnić co mam na myśli, a potem pokażę przykład zastosowania
+fantazje szarlatanów od rzeczy istotnie przydatnych. Dlatego w tym artykule
+pokazuję praktyczne przykłady użycia Copilota GitHub do tworzenia szkiców
+dokumentacji.</p>
+<p>Z mojego doświadczenia, jest ogromna różnica między użyciem czatu (np. ChatGPT)
+a użyciem agenta. Agent AI to narzędzie, które łączy w sobie czat i drobne
+pomocne programy. Dodatkowo, agent działa w pętli sprzężenia zwrotnego z "samym
+sobą", lub też pętli sprzężeń pomiędzy różnymi modelami. Spróbuję pokrótce
+wyjaśnić co mam na myśli, a potem pokażę praktyczny przykład zastosowania
 Copilota GitHub w trybie agenta.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="czat---uzupełnianie-tekstu">Czat - uzupełnianie tekstu<a href="https://techwriter.pl/copilot-dla-tech-writera#czat---uzupe%C5%82nianie-tekstu" class="hash-link" aria-label="Bezpośredni link do Czat - uzupełnianie tekstu" title="Bezpośredni link do Czat - uzupełnianie tekstu">​</a></h2>
 <p>Zanim przejdziemy do agentów, zacznijmy od podstaw.</p>
