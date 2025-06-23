@@ -36,7 +36,7 @@ faktach z historii portalu funkcjonowały tylko ustne przekazy i nie wszystko
 było udokumentowane 😀. Wobec tego, postanowiłem porozmawiać z osobami, które
 tworzyły techwriter.pl na długo przed moim dołączeniem.
 
-Przejdźmy zatem do faktów, które udało mi się ustalić.
+Przejdźmy do faktów, które udało mi się ustalić.
 
 ## Początki
 
