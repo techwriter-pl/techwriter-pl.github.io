@@ -4,7 +4,7 @@ authors: toporek
 date: '2021-06-15'
 tags:
   - 'narzędzia'
-  - 'przyklady'
+  - 'przykłady'
   - 'warsztat'
   - 'aplikacje'
   - 'automatyzacja'

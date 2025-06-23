@@ -8,7 +8,6 @@ tags:
   - 'dokumentacja'
   - 'kariera'
   - 'praca'
-  - 'praktyki'
 coverImage: 'techwriter_jako_sme.png'
 ---
 

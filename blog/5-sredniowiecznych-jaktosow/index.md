@@ -6,7 +6,7 @@ tags:
   - 'warsztat'
   - 'humor'
   - 'instrukcje'
-  - 'manuale'
+  - 'pomoc-użytkownika'
 coverImage: 'Jaktos.jpg'
 ---
 

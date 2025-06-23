@@ -4,10 +4,10 @@ authors: pensjonatus
 date: '2016-10-12'
 tags:
   - 'dobre-praktyki'
-  - 'przyklady'
+  - 'przykłady'
   - 'warsztat'
   - 'dita'
-  - 'manuale'
+  - 'pomoc-użytkownika'
   - 'on-line-help'
   - 'pomoc-użytkownika'
   - 'technologie'

@@ -5,12 +5,11 @@ date: '2021-04-22'
 tags:
   - 'dobre-praktyki'
   - 'narzędzia'
-  - 'przyklady'
+  - 'przykłady'
   - 'warsztat'
   - 'aplikacje'
   - 'dokumentacja'
   - 'podcast'
-  - 'praktyki'
   - 'technologie'
 coverImage: 'tw_koduje_2829.png'
 ---

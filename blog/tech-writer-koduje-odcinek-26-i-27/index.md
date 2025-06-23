@@ -4,7 +4,7 @@ authors: agnieszka
 date: '2021-02-19'
 tags:
   - 'dobre-praktyki'
-  - 'przyklady'
+  - 'przykłady'
   - 'warsztat'
   - 'api'
   - 'automatyzacja'
@@ -12,7 +12,6 @@ tags:
   - 'podcast'
   - 'szkolenia'
   - 'technologie'
-  - 'treningi'
 coverImage: 'tw_koduje_26_27.png'
 ---
 

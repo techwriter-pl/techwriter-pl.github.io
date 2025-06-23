@@ -8,9 +8,9 @@ tags:
   - 'dokumentacja'
   - 'grafika'
   - 'instrukcje'
-  - 'manuale'
-  - 'praktyki'
+  - 'pomoc-użytkownika'
   - 'użyteczność'
+  - 'zrzuty-ekranu'
 coverImage: 'image-illu-1-e1641890745337.png'
 ---
 

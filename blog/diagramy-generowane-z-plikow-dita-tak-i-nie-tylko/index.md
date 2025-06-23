@@ -5,7 +5,7 @@ date: '2017-09-27'
 tags:
   - 'dobre-praktyki'
   - 'narzędzia'
-  - 'przyklady'
+  - 'przykłady'
   - 'warsztat'
   - 'aplikacje'
   - 'automatyzacja'

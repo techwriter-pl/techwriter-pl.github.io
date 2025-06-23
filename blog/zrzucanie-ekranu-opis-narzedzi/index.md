@@ -9,6 +9,7 @@ tags:
   - 'instrukcje'
   - 'on-line-help'
   - 'pomoc-użytkownika'
+  - 'zrzuty-ekranu'
 coverImage: 'Screenshot.jpeg'
 ---
 

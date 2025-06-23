@@ -11,7 +11,7 @@ tags:
   - 'praca'
   - 'społeczność'
   - 'soap'
-  - 'treningi'
+  - 'szkolenia'
 coverImage: 'soapconf2016_techwriterpl-1.jpg'
 ---
 

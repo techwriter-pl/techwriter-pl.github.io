@@ -7,7 +7,7 @@ tags:
   - 'narzędzia'
   - 'warsztat'
   - 'dita'
-  - 'manuale'
+  - 'pomoc-użytkownika'
   - 'on-line-help'
   - 'pomoc-użytkownika'
   - 'technologie'

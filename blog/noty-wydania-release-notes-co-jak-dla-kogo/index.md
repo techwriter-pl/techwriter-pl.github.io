@@ -3,7 +3,7 @@ title: 'Noty wydania (Release Notes) - co, jak, dla kogo?'
 authors: mojk
 date: '2017-06-14'
 tags:
-  - 'przyklady'
+  - 'przykłady'
   - 'warsztat'
   - 'praca'
   - 'release-notes'

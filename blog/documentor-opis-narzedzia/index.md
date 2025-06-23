@@ -6,7 +6,7 @@ tags:
   - 'narzędzia'
   - 'warsztat'
   - 'aplikacje'
-  - 'manuale'
+  - 'pomoc-użytkownika'
   - 'on-line-help'
 coverImage: 'Documentor-logo.jpg'
 ---

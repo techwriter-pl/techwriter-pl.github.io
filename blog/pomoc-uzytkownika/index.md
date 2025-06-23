@@ -3,7 +3,7 @@ title: 'Pomoc użytkownika'
 authors: admin
 date: '2013-10-31'
 tags:
-  - 'przyklady'
+  - 'przykłady'
   - 'warsztat'
   - 'on-line-help'
   - 'pomoc-użytkownika'

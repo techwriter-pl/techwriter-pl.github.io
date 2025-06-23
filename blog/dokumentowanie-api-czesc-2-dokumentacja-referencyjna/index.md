@@ -4,7 +4,7 @@ authors: admin
 date: '2018-11-20'
 tags:
   - 'dobre-praktyki'
-  - 'przyklady'
+  - 'przykłady'
   - 'warsztat'
   - 'api'
   - 'narzędzia'

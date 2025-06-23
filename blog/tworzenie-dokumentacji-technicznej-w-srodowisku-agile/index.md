@@ -6,7 +6,7 @@ tags:
   - 'dobre-praktyki'
   - 'warsztat'
   - 'agile'
-  - 'lokalizacja'
+  - 'tłumaczenia'
   - 'praca'
 coverImage: 'agile.jpg'
 ---

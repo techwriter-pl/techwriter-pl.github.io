@@ -7,7 +7,7 @@ tags:
   - 'warsztat'
   - 'humor'
   - 'instrukcje'
-  - 'manuale'
+  - 'pomoc-użytkownika'
 coverImage: 'StarWars.jpg'
 ---
 

@@ -10,7 +10,7 @@ tags:
   - 'edukacja'
   - 'kariera'
   - 'literatura'
-  - 'materialy-szkoleniowe'
+  - 'materiały-szkoleniowe'
 coverImage: '2021-09-10_00-16-46-1.png'
 ---
 

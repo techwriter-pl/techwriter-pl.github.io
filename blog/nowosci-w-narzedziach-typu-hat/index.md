@@ -8,7 +8,7 @@ tags:
   - 'warsztat'
   - 'ze-świata'
   - 'aplikacje'
-  - 'manuale'
+  - 'pomoc-użytkownika'
   - 'on-line-help'
 coverImage: 'new-143095_640-e1443734857643.jpg'
 ---

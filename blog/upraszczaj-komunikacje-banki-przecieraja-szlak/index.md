@@ -9,7 +9,7 @@ tags:
   - 'dostępność'
   - 'język'
   - 'konferencje'
-  - 'praktyki'
+  - 'dobre-praktyki'
   - 'technologie'
 coverImage: 'Prosto.jpg'
 ---

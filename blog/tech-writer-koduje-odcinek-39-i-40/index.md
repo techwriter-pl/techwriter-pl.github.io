@@ -5,13 +5,12 @@ date: '2022-03-24'
 tags:
   - 'dobre-praktyki'
   - 'narzędzia'
-  - 'przyklady'
+  - 'przykłady'
   - 'warsztat'
   - 'dita'
   - 'dokumentacja'
   - 'narzędzia'
   - 'podcast'
-  - 'praktyki'
 coverImage: 'Tech_writer_koduje_3940.png'
 ---
 
