@@ -6,7 +6,7 @@ tags:
   - 'dobre-praktyki'
   - 'warsztat'
   - 'narzędzia'
-  - 'praktyki'
+  - 'dobre-praktyki'
 coverImage: 'Konferencje-2019-10.png'
 ---
 

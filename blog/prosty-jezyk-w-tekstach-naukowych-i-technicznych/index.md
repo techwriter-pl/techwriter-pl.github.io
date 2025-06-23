@@ -6,7 +6,6 @@ tags:
   - 'dobre-praktyki'
   - 'warsztat'
   - 'język'
-  - 'praktyki'
 coverImage: 'prosty_jezyk.png'
 ---
 

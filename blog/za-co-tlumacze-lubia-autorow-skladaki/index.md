@@ -4,11 +4,11 @@ authors: mojk
 date: '2018-05-07'
 tags:
   - 'dobre-praktyki'
-  - 'przyklady'
+  - 'przykłady'
   - 'warsztat'
   - 'instrukcje'
   - 'język'
-  - 'manuale'
+  - 'pomoc-użytkownika'
   - 'on-line-help'
   - 'pomoc-użytkownika'
   - 'tłumaczenia'

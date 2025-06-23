@@ -3,7 +3,7 @@ title: 'Od anglisty do dokumentalisty'
 authors: jkula
 date: '2023-03-02'
 tags:
-  - 'przyklady'
+  - 'przykłady'
   - 'warsztat'
   - 'dokumentacja'
   - 'edukacja'

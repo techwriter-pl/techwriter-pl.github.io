@@ -384,7 +384,7 @@ ich używać.
 
 Teraz agent zapisze nasze rezerwacje w kalendarzu.
 
-**Wywołanie narzędzia 6:integracja z kalendarzem**
+**Wywołanie narzędzia 6: integracja z kalendarzem**
 
 ```json
 {
@@ -423,7 +423,7 @@ Czy chcesz żebym zarezerwował kolacje lub coś dostosował?
 
 ## Kluczowe cechy agentowe
 
-### 1. Autonomiczne Podejmowanie Decyzji
+### 1. Autonomiczne podejmowanie decyzji
 
 - Agent wybrał konkretne hotele i loty bez pytania o każdą decyzję
 - Priorytetowo potraktował muzea sztuki na podstawie zainteresowań użytkownika

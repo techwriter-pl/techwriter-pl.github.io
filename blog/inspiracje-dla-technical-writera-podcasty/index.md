@@ -3,11 +3,11 @@ title: 'Inspiracje dla technical writera - podcasty'
 authors: agnieszka
 date: '2021-08-10'
 tags:
-  - 'przyklady'
+  - 'przykłady'
   - 'warsztat'
   - 'podcast'
   - 'praca'
-  - 'praktyki'
+  - 'dobre-praktyki'
   - 'technologie'
 coverImage: 'inspiracje_podcasty.png'
 ---

@@ -9,7 +9,7 @@ tags:
   - 'kariera'
   - 'konferencje'
   - 'społeczność'
-  - 'treningi'
+  - 'szkolenia'
 coverImage: 'uxwriting.png'
 ---
 

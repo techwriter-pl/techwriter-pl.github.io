@@ -3,7 +3,7 @@ title: 'Noty wydania'
 authors: admin
 date: '2013-12-10'
 tags:
-  - 'przyklady'
+  - 'przykłady'
   - 'warsztat'
   - 'praca'
   - 'release-notes'

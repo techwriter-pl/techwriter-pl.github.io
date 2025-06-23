@@ -11,7 +11,7 @@ tags:
   - 'praca'
   - 'społeczność'
   - 'soap'
-  - 'treningi'
+  - 'szkolenia'
 coverImage: 'koszyk_soap.jpg'
 ---
 

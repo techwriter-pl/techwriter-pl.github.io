@@ -6,10 +6,10 @@ tags:
   - 'news'
   - 'bez-kategorii'
   - 'dobre-praktyki'
-  - 'przyklady'
+  - 'przykłady'
   - 'warsztat'
   - 'dokumentacja'
-  - 'manuale'
+  - 'pomoc-użytkownika'
   - 'użyteczność'
 coverImage: 'wideo-e1626374962289.jpg'
 ---

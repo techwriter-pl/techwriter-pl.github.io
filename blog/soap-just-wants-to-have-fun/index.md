@@ -11,7 +11,7 @@ tags:
   - 'praca'
   - 'społeczność'
   - 'soap'
-  - 'treningi'
+  - 'szkolenia'
   - 'articles-in-english'
 coverImage: 'soap.jpg'
 ---

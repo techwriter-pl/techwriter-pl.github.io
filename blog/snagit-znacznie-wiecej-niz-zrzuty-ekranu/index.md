@@ -7,7 +7,8 @@ tags:
   - 'warsztat'
   - 'grafika'
   - 'narzędzia'
-  - 'praktyki'
+  - 'dobre-praktyki'
+  - 'zrzuty-ekranu'
 coverImage: 'snagit.png'
 ---
 

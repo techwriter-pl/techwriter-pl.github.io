@@ -6,7 +6,7 @@ tags:
   - 'dobre-praktyki'
   - 'warsztat'
   - 'edukacja'
-  - 'manuale'
+  - 'pomoc-użytkownika'
   - 'on-line-help'
 coverImage: 'computer-problem-152211_640.png'
 ---

@@ -4,10 +4,10 @@ authors: toporek
 date: '2020-10-13'
 tags:
   - 'dobre-praktyki'
-  - 'przyklady'
+  - 'przykłady'
   - 'ste'
   - 'instrukcje'
-  - 'manuale'
+  - 'pomoc-użytkownika'
   - 'użyteczność'
 coverImage: 'ASD1000-e1601654326708.jpg'
 ---

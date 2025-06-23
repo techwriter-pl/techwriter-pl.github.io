@@ -4,7 +4,7 @@ authors: agnieszka
 date: '2021-08-25'
 tags:
   - 'dobre-praktyki'
-  - 'przyklady'
+  - 'przykłady'
   - 'warsztat'
   - 'dokumentacja'
   - 'podcast'

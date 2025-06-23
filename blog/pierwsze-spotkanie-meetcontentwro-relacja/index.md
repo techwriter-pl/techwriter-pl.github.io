@@ -9,7 +9,7 @@ tags:
   - 'kariera'
   - 'konferencje'
   - 'społeczność'
-  - 'treningi'
+  - 'szkolenia'
 coverImage: 'Wroclaw-Most_Grunwaldzki.jpg'
 ---
 

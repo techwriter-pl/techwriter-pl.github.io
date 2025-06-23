@@ -4,7 +4,7 @@ authors: mojk
 date: '2015-05-05'
 tags:
   - 'dobre-praktyki'
-  - 'przyklady'
+  - 'przykłady'
   - 'warsztat'
   - 'aplikacje'
   - 'pomoc-użytkownika'

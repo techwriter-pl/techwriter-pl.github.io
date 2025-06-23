@@ -9,7 +9,7 @@ tags:
   - 'konferencje'
   - 'praca'
   - 'społeczność'
-  - 'treningi'
+  - 'szkolenia'
   - 'soap'
 coverImage: 'FullSizeRender-2.jpg'
 ---

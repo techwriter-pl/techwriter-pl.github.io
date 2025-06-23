@@ -4,7 +4,7 @@ authors: mojk
 date: '2018-10-03'
 tags:
   - 'dobre-praktyki'
-  - 'przyklady'
+  - 'przykłady'
   - 'warsztat'
   - 'dokumentacja'
   - 'pomoc-użytkownika'

@@ -6,8 +6,8 @@ tags:
   - 'news'
   - 'ze-świata'
   - 'konferencje'
-  - 'materialy-szkoleniowe'
-  - 'treningi'
+  - 'materiały-szkoleniowe'
+  - 'szkolenia'
 coverImage: 'online-educa-berlin-2013.png'
 ---
 

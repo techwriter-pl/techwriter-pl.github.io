@@ -5,7 +5,7 @@ date: '2014-07-08'
 tags:
   - 'narzędzia'
   - 'warsztat'
-  - 'manuale'
+  - 'pomoc-użytkownika'
   - 'on-line-help'
 coverImage: 'hmtoolbox.png'
 ---

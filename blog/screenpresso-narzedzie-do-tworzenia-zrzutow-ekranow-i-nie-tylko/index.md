@@ -7,6 +7,7 @@ tags:
   - 'grafika'
   - 'narzędzia'
   - 'użyteczność'
+  - 'zrzuty-ekranu'
 coverImage: 'Screenpresso-Pro.gif'
 ---
 

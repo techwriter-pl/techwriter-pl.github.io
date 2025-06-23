@@ -3,10 +3,10 @@ title: 'TECH WRITER KODUJE – ODCINEK #41 i #42'
 authors: agnieszka
 date: '2022-06-23'
 tags:
-  - 'przyklady'
+  - 'przykłady'
   - 'warsztat'
   - 'podcast'
-  - 'praktyki'
+  - 'dobre-praktyki'
   - 'technologie'
 coverImage: 'tech_writer_koduje_41_i_42.png'
 ---

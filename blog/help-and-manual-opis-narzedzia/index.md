@@ -5,7 +5,7 @@ date: '2014-01-21'
 tags:
   - 'narzędzia'
   - 'warsztat'
-  - 'manuale'
+  - 'pomoc-użytkownika'
   - 'on-line-help'
 coverImage: 'HelpAndManual.jpg'
 ---

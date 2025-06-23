@@ -6,7 +6,7 @@ tags:
   - 'news'
   - 'warsztat'
   - 'humor'
-  - 'manuale'
+  - 'pomoc-użytkownika'
   - 'społeczność'
 coverImage: '220px-Ada_Lovelace_portrait.jpg'
 ---

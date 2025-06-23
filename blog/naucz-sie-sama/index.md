@@ -4,7 +4,7 @@ authors: admin
 date: '2014-03-03'
 tags:
   - 'dobre-praktyki'
-  - 'przyklady'
+  - 'przykłady'
   - 'warsztat'
   - 'edukacja'
   - 'kariera'

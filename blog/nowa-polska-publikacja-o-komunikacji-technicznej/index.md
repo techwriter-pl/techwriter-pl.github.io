@@ -7,7 +7,7 @@ tags:
   - 'warsztat'
   - 'kariera'
   - 'literatura'
-  - 'praktyki'
+  - 'dobre-praktyki'
 coverImage: 'Untitled-design.png'
 ---
 

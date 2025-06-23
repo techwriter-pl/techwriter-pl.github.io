@@ -4,10 +4,10 @@ authors: mojk
 date: '2016-04-21'
 tags:
   - 'dobre-praktyki'
-  - 'przyklady'
+  - 'przykłady'
   - 'warsztat'
   - 'instrukcje'
-  - 'manuale'
+  - 'pomoc-użytkownika'
 coverImage: 'man_sitting_with_book-e1461134779202.png'
 ---
 

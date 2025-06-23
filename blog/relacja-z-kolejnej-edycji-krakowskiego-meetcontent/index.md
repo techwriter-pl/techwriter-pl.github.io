@@ -9,7 +9,7 @@ tags:
   - 'kariera'
   - 'konferencje'
   - 'społeczność'
-  - 'treningi'
+  - 'szkolenia'
 coverImage: 'hannes-wolf-74352-e1488647507320.jpg'
 ---
 
