@@ -15,13 +15,14 @@ techniczna - istnieje już od ponad dekady. Poznasz:
 - Rozwój inicjatywy
 - Cykle artykułów
 - Wpływ na branżę komunikacji technicznej
+- Perspektywę założycieli
 - Jak techwriter.pl wygląda obecnie.
 
 <!--truncate-->
 
-W tym artykule celebrujemy wysiłek i doceniamy społeczność Techwriter.pl, która
-od ponad dekady wspiera polską komunikację techniczną. Dziękujemy wszystkim,
-którzy przyczynili się do rozwoju portalu i czytają nasze artykuły. Jeśli ktoś
+W tym artykule chcemy docenić wysiłek osób zaangażowanych w społeczność Techwriter.pl, która
+od ponad dekady rozwija polską komunikację techniczną. Dziękujemy wszystkim,
+którzy przyczynili się do ewolucji portalu i czytają nasze artykuły. Jeśli ktoś
 chciałby podzielić się swoją historią, zapraszamy do kontaktu.
 
 ## Od autora
