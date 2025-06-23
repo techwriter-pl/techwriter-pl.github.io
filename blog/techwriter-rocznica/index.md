@@ -1,5 +1,5 @@
 ---
-title: 'Zbliża się 12 rocznica Techwriter.pl'
+title: 'Zbliża się 12 rocznica techwriter.pl'
 authors: niewiarowski
 date: '2025-06-19'
 tags:
@@ -9,40 +9,31 @@ coverImage: 'techwrite_rocznica.png'
 ---
 
 Techwriter.pl - portal, inicjatywa i grupa ludzi, którym bliska jest komunikacja
-techniczna - istnieje już od ponad dekady. Dowiesz się:
+techniczna - istnieje już od ponad dekady. Poznasz:
 
 - Początki
 - Rozwój inicjatywy
 - Cykle artykułów
 - Wpływ na branżę komunikacji technicznej
-- Rzut oka na Techwriter.pl dziś i dokąd zmierza
+- Jak techwriter.pl wygląda obecnie.
 
 <!--truncate-->
 
-W tym artykule, pragnę celebrować wysiłek osób, które udzielały się na
-przestrzeni lat i docenić całą społeczność jaka wokół Techwriter.pl się
-wytworzyła. Dziękuję wszystkim, którzy poświęcili swój czas i uwagę, by czytać
-dostępne tu artykuły.
-
-Zdaję sobie sprawę, że nie uda mi się wymienić wszystkich, który przyczynili się
-do rozwoju portalu i mieli szeroki wpływ na resztę społeczności. Zapraszam do
-kontaktu, jeśli ktoś chciałby podzielić się swoją opowieścią w tym temacie.
+W tym artykule celebrujemy wysiłek i doceniamy społeczność Techwriter.pl, która
+od ponad dekady wspiera polską komunikację techniczną. Dziękujemy wszystkim,
+którzy przyczynili się do rozwoju portalu i czytają nasze artykuły. Jeśli ktoś
+chciałby podzielić się swoją historią, zapraszamy do kontaktu.
 
 ## Od autora
 
-W tym miejscu przedstawie perspektywę, z której widzę i poznaję dzieje
-Techwriter.pl. Swego czasu trafiłem na ankietę płacową opublikowaną na portalu i
-odkryłem, że moja niszowa branża tech writingowa posiada własną społeczność
-dzielącą się wiedzą. W 2020 roku poznałem się z Darkiem Drezno przez LinkedIn,
-po tym jak opisałem wrażenia po egzaminie z ITCQF.
-
-Niedługo później dołączyłem do redakcji. Byłem pod wrażeniem pokaźnej bazy
-wiedzy i tego jak ile osób przede mną tu kontrybuowało.
+Swego czasu trafiłem na ankietę płacową opublikowaną na portalu i odkryłem, że
+niszowa branża tech writingowa posiada własną społeczność dzielącą się wiedzą. W
+2020 roku poznałem się z Darkiem Drezno przez LinkedIn i dołączyłem do redakcji.
 
 Jak wiadomo, najciemniej jest pod latarnią: w grupie dokumentalistów o wielu
 faktach z historii portalu funkcjonowały tylko ustne przekazy i nie wszystko
 było udokumentowane 😀. Wobec tego, postanowiłem porozmawiać z osobami, które
-działały w Techwriter.pl na długo przed moim dołączeniem.
+tworzyły techwriter.pl na długo przed moim dołączeniem.
 
 Przejdźmy zatem do faktów, które udało mi się ustalić.
 
@@ -52,98 +43,85 @@ Przejdźmy zatem do faktów, które udało mi się ustalić.
 
 Ojcem tej inicjatywy jest Dariusz Drezno (Darek), związany z branżą testerską.
 Jest testerem, managerem, wykładowcą i przedsiębiorcą. W swojej firmie miał
-styczność z wieloma technical writerami, którzy pytali go o obowiązujące
-standardy, szkolenia, certyfikaty i materiały szkoleniowe. Darek jest gorącym
-orędownikiem dokumentacji.
+styczność z wieloma technical writerami, którzy pytali go o standardy,
+szkolenia, certyfikaty i materiały szkoleniowe. W tamtym czasie, Darek zauważał
+brak polskojęzycznej strony branżowej i nieistniejącą wtedy ofertę szkoleniową
+na polskim rynku.
 
 Zainspirowany inicjatywą
-[Radosława Smiglina](https://www.linkedin.com/in/smilgin/) i
-[testerzy.pl](https://www.linkedin.com/company/testerzy/), Darek postanowił
-zrobić coś podobnego, ale dla technical writerów.
+[Radosława Smiglina](https://www.linkedin.com/in/smilgin/) i społecznością
+[testerzy.pl](https://www.linkedin.com/company/testerzy/), postanowił zrobić coś
+podobnego, ale dla technical writerów. Później ruszyło to na zasadzie kuli
+śniegowej 🙂.
 
-Darek pokazał mi swój biznes plan - zapis koncepcji i założeń dotyczących
-tworzenia tego portalu. W tamtym czasie, Darek zauważał brak polskojęzycznej
-strony branżowej i nieistniejącą wtedy ofertę szkoleniową na polskim rynku.
-
-W tamtym czasie, Darkowi na LinkedIn udawało się wyszukać profile 133 osób w
-Polsce, które określały swoje stanowisko jako "technical writer". Według raportu
-ITCQF w 2022 w LinkedIn, w Polsce naliczono 2200 osób na stanowisku "technical
-writer"
-
-Podsumowując, Darek dostrzegł lukę i postanowił ją zagospodarować w
-konstruktywny sposób. Później ruszyło to na zasadzie kuli śniegowej 🙂.
+W redakcji, Darek dał się poznać jako dobry organizator, lider, talent manager i
+po prostu dobry kolega wnoszący dużo energii i entuzjazmu 🙂.
 
 ### Nazwa i logo
 
-![Logo techwriter.pl](images/logo.png)
+![Logo techwriter.pl: ikona pacmana i nazwa.](images/logo_tw.png)
 
-Niewiele wiadomo o tym, kto wymyślił nazwę i charakterystycznego "Pacmana".
-Przyczyny wyboru nazwy mogły być pragmatyczne: Darek wybrał taką, bo taka była
-dostępna domena strony internetowej 🙂.
+To, kto wymyślił nazwę i logo z charakterystycznym "Pacmanem" owiane jest nimbem
+tajemnicy. Na decyzję o nazwie wpłynęła dostępność domeny strony internetowej
+🙂.
+
+![Logo techwriter.pl gdzie litery słowa "Tech" wyróżniają się graficznie od reszty tekstu jednolitą czcionką: "writer". ](images/logo.png)
 
 ### Pierwsze wpisy
 
 Darek dodał [pierwszy wpis](../witaj-swiecie/index.md) 18.09.2013. W 2023 portal
-skończył 10 lat, a we wrzesniu 2025 skończy 12 👍🥳🎉. Skoro Techwriter.pl ma
-urodziny we wrześniu, to powinniśmy je świętować podczas konferencji Cake 😀.
-
-Pierwszym dużym, merytorycznym artykułem była
-[relacja z pierwszej odsłony soap!](../soap-technical-communication-conference-relacja/index.md)
-autorstwa Michała, który później poświęcił swój wolny czas projektowi ITCQF.
+skończył 10 lat, a we wrzesniu 2025 skończy 12 👍🥳🎉.
 
 ### Współpracownicy
 
-Pierwszymi osobami, które dołączyły by udzielać się na łamach portalu byli:
-Marcin Górski, Sabina Szablowska i Michał Skowron.
+Pierwszymi osobami, które dołączyły do portalu byli: Marcin Górski, Sabina
+Szablowska i Michał Skowron.
 
-Michał Skowron był bardzo aktywny we wczesnych fazach rozwoju Techwriter.pl,
-później skupił się na innych projektach takich jak ITCQF i Techwriter Koduje. W
+Michał Skowron był bardzo aktywny we wczesnych fazach rozwoju techwriter.pl. Był
+autorem pierwszego dużego, merytorycznym artykułu:
+[relacja z pierwszej odsłony soap!](../soap-technical-communication-conference-relacja/index.md).
+Później skupił się na innych projektach takich jak ITCQF i Techwriter Koduje. W
 2023 wrócił do portalu jako redaktor naczelny (drugim redaktorem jest Paweł
 Kowaluk).
 
-Na przestrzeni lat, wiele osób okresowo znajdowało wenę i chęć by dzielić się
-swoimi doświadczeniami na łamach portalu. Naliczyliśmy X osób. Serdecznie Wam
-dziękujemy za dzielenie się swoją pasją i wiedzą.
+Na przestrzeni lat, około 20 osób znajdowało wenę i chęć by dzielić się swoimi
+doświadczeniami na łamach portalu.
 
-W tym momencie mamy 6 osób publikujących artykuły nie licząc redaktorów
+W tym momencie mamy 4 osoby publikujące artykuły nie licząc redaktorów
 naczelnych i administratorki.
 
-## Kamienie milowe portalu
+## Kalendarium i kolejne kroki w rozwoju
 
-Przyjrzyjmy się wybranym zdarzeniom z historii Techwriter.pl.
+Przyjrzyjmy się wybranym zdarzeniom z historii techwriter.pl.
 
 ### Oferty pracy
 
 W początkowej fazie rozwoju portalu, największa popularnością cieszyły się
-oferty pracy. Wciaz jest to miejsce chetnie odwiedzane przez poszukujacych
-pracy.
-
-Jeśli potrzebujesz zamieścić takie ogłoszenie, zgłoś się do nas i opublikujemy
-je nieodpłatnie.
+oferty pracy. W dalszym ciągu naszą misją jest łączyć osoby poszukujące pracy z
+pracodawcami, robimy to nieodpłatnie.
 
 ### Relacje z konferencji
 
-W 2013 opublikowana została relacja z pierwszej konferencji soap!. W 2016
-pojawiła się pierwsza relacja z Write the Docs. W 2017 nasz specjalny
-korespondent Michał Skowron odwiedził Kalifornię, by później opisać wrażenia z
-konferencji MadWorld, zorganizowanej przez firmę MadCap.
+- W 2013 opublikowana została relacja z pierwszej konferencji soap!.
+- W 2016 pojawiła się pierwsza relacja z Write the Docs.
+- W 2017 nasz specjalny korespondent Michał Skowron odwiedził Kalifornię, by
+  później opisać wrażenia z konferencji MadWorld, zorganizowanej przez firmę
+  MadCap.
 
 Tego typu materiały pozostają popularne, ponieważ:
 
 - Podsumowują najświeższe trendy branżowe
-- Służą pomocą osobom, które osób chcą odświeżyć sobie kluczowe fakty
+- Służą pomocą uczestnikom, którzy chcą odświeżyć sobie kluczowe fakty
 - Dają pojęcie o konferencji tym, którzy w nie mogli w niej wziąć udziału.
 
-Na Techwriter.pl znaleźć też można relacje z Konferencji Tłumaczy czy UA Europe.
+Na techwriter.pl znajdują się też relacje z Konferencji Tłumaczy czy UA Europe.
 
 ### Wywiady
 
 W 2015 ukazał się pierwszy wywiad z technical writerką. Cykl wywiadów stał się
 popularną formą prezentowania sylwetek osób aktywnych na scenie tech commu. Jest
-to dobry sposób by przedstawić swoją unikalną perspektywę, zainteresowania i
-doświadczenia. Buduje się też w ten sposób społeczność, bo jeśli zdradzisz w
-wywiadzie, że posiadasz unikalną wiedzę, możesz mieć pewność, że ktoś
-skontaktuje się z Tobą by Cię poznać i uzyskać wskazówkę w danym temacie 🙂.
+to dobry sposób, by przedstawić swoją unikalną perspektywę, zainteresowania i
+doświadczenia.
 
 Była nawet jedna osoba, której tak spodobało się udzielanie wywiadu, że
 popełniła recydywę opowiadając o swojej karierze dwukrotnie, na różnych etapach
@@ -151,25 +129,24 @@ kariery.
 
 ### Ankieta badania płac
 
-W 2017 opublikowana została pierwsza ankieta płac. Po dziś dzień cykl ten cieszy
-się wielką popularnością - była to pierwsza strona na którą trafiłem. Choć
-liczba respondentów nie przekroczyła 133 osób, ankieta daje pewną wiedzę o
-ewolucji płac osób związanych z technical writingiem. Redakcja dokłada starań,
-by rozwijać ankietę i dostosowywać ją do zmieniającego się krajobrazu rynku
-pracy.
+W 2017 opublikowaliśmy pierwszą ankieta płac. Po dziś dzień cykl ten cieszy się
+wielką popularnością - była to pierwsza strona na portalu, na którą trafiłem.
+Choć liczba respondentów nie przekroczyła 133 osób, ankieta daje obraz ewolucji
+płac osób związanych z technical writingiem. Dokładamy starań, by rozwijać
+ankietę i dostosowywać ją do zmieniającego się krajobrazu rynku pracy.
 
 ### Artykuły o narzędziach
 
 Poradniki z wiedzą o narzędziach i podejściach są jednymi najbardziej
 wartościowych pozycji na blogu. Jeśli szukasz informacji na jakiś temat, wpisz
-słowo kluczowe do wyszukiwarki strony. Jest duża szansa, że temat był
-adresowany.
+słowo kluczowe do wyszukiwarki strony albo zobacz strony zgrupowane tagami. Jest
+duża szansa, że znajdziesz pomocny materiał.
 
 ### Langłydż
 
 Techwriter.pl to nie tylko poważne artykuły branżowe. Dużym powodzeniem cieszy
 się seria Langłydż, w której obserwujemy co śmieszniejsze i kreatywniejsze
-zapożyczenia z angielskiego. Warto wrzucić ją sobie na backlog.
+zapożyczenia z angielskiego. Warto wrzucić ją sobie na _backlog_.
 
 ### Gadżety
 
@@ -180,121 +157,34 @@ Techwriter.pl doczekał się nawet gadżetów takich jak:
 - Kubek
 - Parasolka
 
-Były to bardzo limitowane edycje, a kto jest posiadaczem jednego z artefaktów,
-może uznać się za szczęśliwca. Wiąże się z tym zabawna historia. Kilka lat po
-tym jak dołączyłem do redakcji, podczas konferencji Michał zagadnął mnie, by
-przekazać mi prawie nieużywaną koszulkę z logo Techwriter.pl. W tamtym czasie
-Michał już dłuższy czas realizował się poza szeregami redakcji. Ironia losu
-polegała na tym, że w przeciągu roku Michał na nowo dołączył do zespołu jako
-redaktor naczelny, więc może i odzienie z brandingiem mu się przydało 😁.
-Koszulkę zachowałem, czasem nawet zakładam ją na wyjątkowe okazje (ostatnio był
-to Content Day).
+Były to limitowane edycje, mało kto należy do grona szczęśliwców w ich
+posiadaniu. Wiąże się z tym zabawna historia. Kilka lat po tym jak dołączyłem do
+redakcji, podczas konferencji Michał zagadnął mnie, by przekazać mi prawie
+nieużywaną koszulkę z logo techwriter.pl. W tamtym czasie Michał już dłuższy
+czas realizował się poza szeregami redakcji. Ironia losu polegała na tym, że w
+przeciągu roku Michał na nowo dołączył do zespołu jako redaktor naczelny, więc
+może i odzienie z brandingiem mu się przydało 😁. Koszulkę zachowałem, czasem
+nawet zakładam ją na wyjątkowe okazje (ostatnio był to Content Day).
 
-### Jak wygląda działalność redakcji od kuchni?
+## Jak wygląda działalność redakcji od kuchni?
 
-Odbywają się wideokonferencje żeby pogadać i podzielić się pomysłami na
-artykuły. Dość sprawnie komunikujemy się zdalnie i ustalamy plany na najbliższy
-czas. Każdy pisze dla przyjemności po godzinach, dlatego zrozumiałe jest, że
-zobowiązania prywatne i zawodowe mają priorytet, a z publikacją artykułu czasem
-trzeba zaczekać. Każdy artykuł sprawdzany jest przez co najmniej jedną parę
-oczu.
+Spotykamy się na wideokonferencjach żeby porozmawiać i podzielić się pomysłami
+na artykuły. Dość sprawnie komunikujemy się zdalnie i ustalamy plany na
+najbliższy czas. Każdy pisze dla przyjemności po godzinach, dlatego zrozumiałe
+jest, że zobowiązania prywatne i zawodowe mają priorytet, a na publikacją
+artykułu czasem trzeba zaczekać. Każdy artykuł sprawdzany jest przez co najmniej
+jedną parę oczu.
 
 Wspomnę w tym miejscu Agnieszkę Gaworską, która od 2015 pełni rolę
 administratorki i korektorki. Przez jej ręce przeszły dziesiątki artykułów i
-wychwyciła setki literówek. Bywały okresy, gdy to Agnieszka była osobą, która
-najczęściej publikowała nowe treści na stronie. To ona również odpowiadała za
-publikacje na mediach społecznościowych. Dzięki jej zaangażowaniu łódka zwana
-Techwriter.pl płynie dalej. Dziękujemy 🤝!
+wychwyciła setki literówek. Bywały okresy, gdy to Agnieszka najczęściej
+publikowała nowe treści na stronie. To ona również odpowiadała za publikacje na
+mediach społecznościowych. Dzięki jej zaangażowaniu łódka zwana techwriter.pl
+utrzymuje się na powierzchni i płynie dalej. Dziękujemy 🤝!
 
-W redakcji, Darek dał się poznać jako dobry organizator, lider, talent manager i
-po prostu dobry kolega wnoszący dużo energii i entuzjazmu 🙂.
+## Inicjatywy, które narodziły się z pomocą techwriter.pl
 
-## O co chodzi i dlaczego?
-
-Przyjrzyjmy się temu, co napędza redakcję i jakie są jej cele.
-
-### Jakie wartości przyświecają tej inicjatywie?
-
-Michał Skowron:
-
-> Dzielenie się wiedzą, zbudowanie przestrzeni/społeczności dla specjalistów od
-> tworzenia treści, w której będą dobrze się czuć i z którą będą się
-> identyfikować, gotowość do bezinteresownej pomocy.
-
-### Dlaczego warto być częścią tej działalności?
-
-Michał Skowron:
-
-> Dlaczego to robimy? Żeby poznawać nowych ludzi, podtrzymać motywację i ciągle
-> uczyć się czegoś nowego — nie ma lepszego sposobu na naukę niż wyjaśnianie
-> rzeczy innym. Współtworzenie takiego portalu internetowego jest po prostu
-> satysfakcjonujące. Daje poczucie dodawania prawdziwej wartości do
-> społeczności, tworzy mnóstwo możliwości, zbliża do siebie ludzi z branży tech
-> comm i jest po prostu świetną zabawą.
-
-> Chcemy przekazać wszystkim związanym z komunikacją techniczną, że wkład w
-> społeczność wcale nie jest taki trudny i że każdy ma coś ciekawego do
-> powiedzenia. Pisanie artykułów na bloga czy nagrywanie podcastów nie jest
-> zarezerwowane tylko dla "wybrańców", czyli ekspertów, liderów czy menedżerów.
-> Twoja wiedza, umiejętności i perspektywa mogą być bardzo pomocne dla kogoś,
-> nawet jeśli jesteś na początku swojej kariery w komunikacji technicznej.
-
-### Czemu Techwriter.pl jest wyjątkowy?
-
-Michał Skowron:
-
-> Pomysłem na powstanie Techwriter.pl było stworzenie miejsca dla osób
-> pracujących lub chcących rozpocząć pracę w obszarze komunikacji technicznej.
-> Miejsce jest jednocześnie bazą wiedzy jak i węzłem łączących ludzi o podobnych
-> zainteresowaniach.
-
-> Na świecie istnieje wiele świetnie zorganizowanych, prężnych i profesjonalnych
-> konferencji poświęconych komunikacji technicznej. Jest też bez liku blogów i
-> stron internetowych — jednak większość z nich jest w języku angielskim. To
-> oczywiście fantastyczne, ale założeniem Techwriter.pl było budowanie
-> społeczności komunikacji technicznej na poziomie lokalnym, właśnie w języku
-> polskim. To prosty przykład zasady: "myśl globalnie, działaj lokalnie".
-
-> Celem nie było stworzenie odrębnego źródła ezoterycznej wiedzy technicznej,
-> zaszyfrowanej w jednym z najtrudniejszych języków świata. Chcieliśmy raczej
-> stworzyć lokalną bramę, która skieruje nowych i doświadczonych polskich
-> twórców technicznych do innych wspaniałych źródeł wiedzy i połączy ich z
-> międzynarodowymi społecznościami. Jak dotąd, wydaje się, że to działa!
-
-> Jest to jedyny taki portal prowadzony w języku polskim. Istnieje wiele źródeł
-> zagranicznych, ale Techwriter.pl pozwala nam opowiadać o tech commie przez
-> pryzmat naszej rzeczywistości, która ma swoje smaczki i jest inna niż ta,
-> którą obserwujemy w krajach gdzie tech comm jest branżą z długoletnią
-> tradycją. Myślę też, że fakt, że portal jest prowadzony przez pasjonatów,
-> którzy na tym nie zarabiają i nie mają określonej agendy biznesowej. Często
-> blogi są zakładane jako sposób na reklamę czy marketing swoich usług. Wiadomo,
-> że każda osoba, która publikuje na naszym portalu buduje w ten sposób swoją
-> markę osobistą i zwiększa swoją widoczność w branży, ale głównym celem
-> działalności jest dzielenie się wiedzą, a nie promowanie jakiegoś logo czy
-> firmy.
-
-Darek Drezno:
-
-> Przede wszystkim wiele osób poznało się i zaprzyjaźniło dzięki tej
-> inicjatywie. Studia podyplomowe zmieniły życie zawodowe sporej grupy osób.
-
-### Na czym polegały wyzwania?
-
-Michał Skowron:
-
-> Brak czasu i ludzi. Ciężko jest prowadzić portal i jednocześnie dostarczać
-> regularnie bogate merytorycznie artykuły. Szybkie wpisy o ofertach pracy czy
-> wydarzeniach nie są takim wyzwaniem, jednak wiadomo, że porządny artykuł o
-> odpowiedniej długości wymaga czasu i nakładu pracy. Nie jest też łatwo znaleźć
-> większą grupę chętną do udzielania się. Portal jest non-profit, więc artykuły
-> są pisane w wolnym czasie i bez żadnej gratyfikacji finansowej. Przekonanie
-> kogoś do takiego "wolontariatu" nie zawsze jest łatwe i nawet jeśli to się
-> uda, to potem pojawia się problem utrzymania motywacji do działania w dłuższej
-> perspektywie.
-
-## Inicjatywy, które narodziły się z pomocą Techwriter.pl
-
-Dzięki zaangażowaniu założycieli i współpracowników Techwriter.pl doszło do
+Dzięki zaangażowaniu założycieli i współpracowników techwriter.pl doszło do
 wielu ciekawych inicjatyw. Wymienię te najważniejsze, o których wiem. Nie
 znajdziecie tu ich szczegółowej historii i pełnej listy osób za nie
 odpowiedzialnych. Tematy te zasługują na osobne artykuły i na portalu można
@@ -313,18 +203,104 @@ pięć razy i wydano X certyfikatów.
 
 ### Partnerstwa z konferencjami i wydarzeniami
 
-Techwriter.pl patronował konferencjom i wydarzeniom takim jak MadWorld, soap!,
+techwriter.pl patronował konferencjom i wydarzeniom takim jak MadWorld, soap!,
 Write the Docs, Meet Content (obecnie Content Bytes).
 
 ### Grupa na Facebooku i strona na LinkedIn
 
 - Grupa Tworzenie Dokumentacji liczy ponad 1000 osób.
-- 800 osób śledzi aktualizacje publikowane przez Techwriter.pl na LinkedIn.
+- 800 osób śledzi aktualizacje publikowane przez techwriter.pl na LinkedIn.
 
 ### Przyjaźnie
 
 Praca nad portalem zaowocowała dziesiątkami znajomości i przyjaźni w ramach
 szeroko pojętej społeczności technical writerów w kraju i za granicą.
+
+## O co chodzi i dlaczego?
+
+Przyjrzyjmy się temu, co napędza redakcję redakcję. Zadałem kilka pytań twórcom
+portalu, najwięcej odpowiedzi zebrałem od Michała 🙂.
+
+### Jakie wartości przyświecają tej inicjatywie?
+
+Michał Skowron:
+
+> - Dzielenie się wiedzą
+> - Budowanie przestrzeni/społeczności dla specjalistów od tworzenia treści, w
+>   której będą dobrze się czuć i z którą będą się identyfikować
+> - Gotowość do bezinteresownej pomocy.
+
+### Dlaczego to robimy?
+
+Michał Skowron:
+
+> Żeby poznawać nowych ludzi, podtrzymać motywację i ciągle uczyć się czegoś
+> nowego — nie ma lepszego sposobu na naukę niż wyjaśnianie rzeczy innym.
+> Współtworzenie takiego portalu internetowego jest po prostu satysfakcjonujące.
+> Daje poczucie dodawania prawdziwej wartości do społeczności, tworzy mnóstwo
+> możliwości, zbliża do siebie ludzi z branży tech comm i jest po prostu świetną
+> zabawą.
+
+### Jakie są wymagania dla osób chcących dzielić się wiedzą?
+
+Michał Skowron:
+
+> Chcemy przekazać wszystkim związanym z komunikacją techniczną, że dokładanie
+> cegiełek do budowania społeczności nie jest trudne i że każdy ma coś ciekawego
+> do powiedzenia. Pisanie artykułów na bloga czy nagrywanie podcastów nie jest
+> zarezerwowane tylko dla "wybrańców", czyli ekspertów, liderów czy menedżerów.
+> Twoja wiedza, umiejętności i perspektywa mogą być bardzo pomocne dla kogoś,
+> nawet jeśli jesteś na początku swojej kariery w komunikacji technicznej.
+
+### Dlaczego piszemy głównie po polsku?
+
+Michał Skowron:
+
+> Na świecie istnieje wiele świetnie zorganizowanych, prężnych i profesjonalnych
+> konferencji poświęconych komunikacji technicznej. Jest też bez liku blogów i
+> stron internetowych — jednak większość z nich jest w języku angielskim. To
+> oczywiście fantastyczne, ale założeniem techwriter.pl było budowanie
+> społeczności komunikacji technicznej na poziomie lokalnym, właśnie w języku
+> polskim. To prosty przykład zasady: "myśl globalnie, działaj lokalnie".
+
+> Celem nie było stworzenie odrębnego źródła ezoterycznej wiedzy technicznej,
+> zaszyfrowanej w jednym z najtrudniejszych języków świata. Chcieliśmy raczej
+> stworzyć lokalną bramę, która skieruje nowych i doświadczonych polskich
+> twórców technicznych do innych wspaniałych źródeł wiedzy i połączy ich z
+> międzynarodowymi społecznościami. Jak dotąd, wydaje się, że to działa!
+
+### Co jest wyjątkowego w tej inicjatywie?
+
+> Techwriter.pl pozwala nam opowiadać o tech commie przez pryzmat naszej
+> rzeczywistości, która ma swoje smaczki i jest inna niż ta, którą obserwujemy w
+> krajach gdzie tech comm ma długoletnią tradycję.
+
+> Myślę też, że fakt, że portal jest prowadzony przez pasjonatów, którzy na tym
+> nie zarabiają i nie mają określonej agendy biznesowej. Często blogi są
+> zakładane jako sposób na reklamę czy marketing swoich usług.
+
+> Wiadomo, że każda osoba, która publikuje na naszym portalu buduje w ten sposób
+> swoją markę osobistą i zwiększa swoją widoczność w branży, ale głównym celem
+> działalności jest dzielenie się wiedzą, a nie promowanie jakiegoś logo czy
+> firmy.
+
+Darek Drezno:
+
+> Przede wszystkim, dzięki tej inicjatywie wiele osób poznało się i
+> zaprzyjaźniło. Studia podyplomowe zmieniły życie zawodowe sporej grupy osób.
+
+### Na czym polegały wyzwania?
+
+Michał Skowron:
+
+> Podstawowymi wyzwaniami zawsze były brak czasu i ludzi. Ciężko jest prowadzić
+> portal i jednocześnie dostarczać regularnie bogate merytorycznie artykuły.
+> Szybkie wpisy o ofertach pracy czy wydarzeniach nie są takim wyzwaniem, jednak
+> porządny artykuł wymaga czasu i nakładu pracy. Nie jest też łatwo znaleźć
+> większą grupę chętną do udzielania się. Portal jest non-profit, więc artykuły
+> są pisane w wolnym czasie i pro bono. Naturalne jest, że po jakimś czasie
+> aktywności osoby zechcieć zacząć inaczej spędzać wolny czas albo potrzebują
+> zrezygnować z innych powodów.
 
 ## Wartość dodana według czytelników
 
@@ -339,21 +315,15 @@ technical writerów. Przyjrzyjmy się zatem temu rynkowi.
 
 Michał Skowron:
 
-> Było zdecydowanie mniej ofert pracy. Swoją pierwszą pracę jako Tech Writer
-> rozpocząłem na początku 2012 roku. Mieszkałem wtedy w Dąbrowie Górniczej i
-> udało mi się znaleźć 1 ofertę pracy dla Tech Writera w Katowicach. W Gliwicach
-> była jedna firma, która zatrudniała wtedy większą liczbę writerów, ale była to
-> za duża odległość. Zaaplikowałem na tę jedną ofertę i dostałem pracę.
-> Najwięcej ofert było wtedy w Krakowie.
-
-> Poza samą liczbą ofert pracy, warto zwrócić uwagę na świadomość tego zawodu w
-> Polsce. Ja sam na początku, nie miałem pojęcia, że tech comm to działka, która
-> ma swoje zasady, dobre praktyki, szkolenia, itp. Zacząłem szukać, interesować
-> się, i za pierwszym podejściem znalazłem tylko zagraniczne materiały. Po paru
-> miesiącach, wróciłem do idei szukania materiałów w języku polskim i wtedy
-> trafiłem na Techwriter.pl. Byłem tak podekscytowany tym, że pojawił się taki
-> portal w języku polskim, że dość szybko zdecydowałem się dołączyć. soap!
-> stawiał wtedy pierwsze kroki, a meetupy tech commowe nie istniały.
+> Było zdecydowanie mniej ofert pracy. Poza tym, warto zwrócić uwagę na
+> świadomość tego zawodu w Polsce. Ja sam na początku, nie miałem pojęcia, że
+> tech comm to działka, która ma swoje zasady, dobre praktyki, szkolenia, itp.
+> Zacząłem szukać, interesować się, i za pierwszym podejściem znalazłem tylko
+> zagraniczne materiały. Po paru miesiącach, wróciłem do idei szukania
+> materiałów w języku polskim i wtedy trafiłem na techwriter.pl. Byłem tak
+> podekscytowany tym, że pojawił się taki portal w języku polskim, że dość
+> szybko zdecydowałem się dołączyć. soap! stawiał wtedy pierwsze kroki, a
+> meetupy tech commowe nie istniały.
 
 ### Jak rynek contentu wygląda w 2025 roku?
 
@@ -363,55 +333,42 @@ Michał Skowron:
 > ofert pracy, świadomość zawodu, itp. Widać to nawet po tym jak prężnie
 > działają teraz grupy MeetContent (Content Bytes) we Wrocławiu i Krakowie,
 > udowadniając, że jest potrzeba spotkań, wymiany wiedzy i poczucia
-> przynależności do społeczności. Chcielibyśmy, żeby branża tech comm rozwijała
-> się jeszcze dynamiczniej i może czujemy mały niedosyt jeśli chodzi o tempo
-> tego rozwoju na przestrzeni lat (obstawialiśmy "wybuch" podobny do tego jaki
-> nastąpił w branży testerskiej), ale myślę, że możemy być zadowoleni z tego,
-> gdzie teraz jesteśmy.
+> przynależności do społeczności.
 
 ## Techwriter.pl obecnie
 
-W 2023 Darek przekazał stery w zakresie prowadzenia portalu Michałowi Skowronowi
-i Pawłowi Kowalukowi.
+- W 2023 Darek przekazał stery w zakresie prowadzenia portalu Michałowi
+  Skowronowi i Pawłowi Kowalukowi.
 
-Pożegnaliśmy Wordpress jako narzędzie do tworzenia artykułów i przywitaliśmy
-podejście "Docs-as-Code" w oparciu o Docusaurusa i Github Codespaces. Praca nad
-blogiem stała się dynamiczna i przyjemna.
+- Pożegnaliśmy Wordpress jako narzędzie do tworzenia artykułów i przywitaliśmy
+  podejście "Docs-as-Code" w oparciu o Docusaurusa i Github Codespaces. Praca
+  nad blogiem stała się dynamiczna i przyjemna.
 
-Pojawiło się więcej artykułów po angielsku.
+- Pojawiło się więcej artykułów po angielsku.
 
-Z tematów nowszych, Techwriter.pl nagłaśnia działania stowarzyszenia SAiIT
-zrzeszającego technical writerów i ilustratorów technicznych.
+- Z tematów nowszych, techwriter.pl nagłaśnia działania stowarzyszenia SAiIT
+  zrzeszającego technical writerów i ilustratorów technicznych.
 
 ## Zakończenie
 
-W tym miejscu, chciałbym podziękować za możliwość działania w społeczności
-Techwriter.pl.
+W tym miejscu kilka słów ode mnie.
 
-Otrzymałem dużo swobody twórczej jeśli chodzi o artykuły które piszę. Sprawia mi
-ogromną frajdę, że mam możliwość dzielenia się spostrzeżeniami i tym czego się
-dowiedziałem. Dzięki temu jeszcze lepiej komunikuję się w języku pisanym.
+- Otrzymałem dużo swobody twórczej jeśli chodzi o artykuły, które piszę. Sprawia
+  mi ogromną frajdę, że mam możliwość dzielenia się spostrzeżeniami i wiedzą.
+  Przy okazji szlifuję pisany język polski, który do prostych nie należy 😉.
 
-Dzięki Techwriter.pl miałem też okazję uczestniczenia w ciekawych wydarzeniach i
-konferencjach. Miałem przyjemność prowadzić wykład dla studentów podczas
-"Translating Europe". Podczas tych wydarzeń i w samej redakcji poznałem bardzo
-sympatycznych, kreatywnych, pomocnych ludzi.
+Dzięki techwriter.pl miałem też okazję uczestniczenia w ciekawych wydarzeniach i
+konferencjach. W redakcji poznałem sympatycznych, kreatywnych i pomocnych ludzi.
 
-Mam nadzieję, że artykuł ten jest pretekstem do przypomnienia sobie osiągnięć
-naszej społeczności. Patrzę z optymizmem na dalszy rozwój naszej branży i życzę
-Wam w niej samych sukcesów.
-
-Takim sukcesem, moglby na przyklad byc opublikowany artykul w pewnym znamienitym
-portalu. Zapraszamy do dzielenia sie wiedza i doswiadczeniami, bo sami wiemy jaka
- frajda z tym sie wiaze. 
-
- Trzymajcie sie!
+Uważam, że należy docenić to, co w komunikacji technicznej wszyscy razem
+osiągnęliśmy. Z optymizmem na dalszy rozwój naszej branży i życzę Wam w niej
+samych sukcesów.
 
 ## Źródła
 
 - [Artykuł Michała Skowrona i Jakuba Wiśniewskiego na blogu Toma Johnsona w 2017](https://idratherbewriting.com/2017/10/31/untold-story-of-techwriter-pl-poland/)
 - [Wywiad na Youtube z Darkiem Write the Docs (ENG)](https://www.youtube.com/watch?v=QTdlv6KQiEo)
-- [Wpis Darka na LinkedIn w 10 rocznice Techwriter.pl](https://www.linkedin.com/feed/update/urn:li:activity:7109489713899593728/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7109489713899593728%29)
+- [Wpis Darka na LinkedIn w 10 rocznice techwriter.pl](https://www.linkedin.com/feed/update/urn:li:activity:7109489713899593728/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7109489713899593728%29)
 
 ## Dalsza lektura
 
