@@ -20,16 +20,17 @@ techniczna - istnieje już od ponad dekady. Poznasz:
 
 <!--truncate-->
 
-W tym artykule chcemy docenić wysiłek osób zaangażowanych w społeczność Techwriter.pl, która
-od ponad dekady rozwija polską komunikację techniczną. Dziękujemy wszystkim,
-którzy przyczynili się do ewolucji portalu i czytają nasze artykuły. Jeśli ktoś
-chciałby podzielić się swoją historią, zapraszamy do kontaktu.
+W tym artykule chcemy docenić wysiłek osób zaangażowanych w społeczność
+techwriter.pl, która od niemal 12 lat rozwija polską komunikację techniczną.
+Dziękujemy wszystkim, którzy przyczynili się do ewolucji portalu i czytają nasze
+artykuły. Jeśli ktoś chciałby podzielić się swoją historią, zapraszamy do
+kontaktu.
 
 ## Od autora
 
 Swego czasu trafiłem na ankietę płacową opublikowaną na portalu i odkryłem, że
-niszowa branża tech writingowa posiada własną społeczność dzielącą się wiedzą. W
-2020 roku poznałem się z Darkiem Drezno przez LinkedIn i dołączyłem do redakcji.
+niszowa branża tech writingowam ma swoją społeczność dzielącą się wiedzą. W 2020
+roku poznałem się z Darkiem Drezno przez LinkedIn i dołączyłem do redakcji.
 
 Jak wiadomo, najciemniej jest pod latarnią: w grupie dokumentalistów o wielu
 faktach z historii portalu funkcjonowały tylko ustne przekazy i nie wszystko
@@ -75,7 +76,7 @@ skończył 10 lat, a we wrzesniu 2025 skończy 12 👍🥳🎉.
 
 ### Współpracownicy
 
-Pierwszymi osobami, które dołączyły do portalu byli: Marcin Górski, Sabina
+Pierwszymi osobami, które dołączyły do portalu były: Marcin Górski, Sabina
 Szablowska i Michał Skowron.
 
 Michał Skowron był bardzo aktywny we wczesnych fazach rozwoju techwriter.pl. Był
@@ -86,10 +87,11 @@ Później skupił się na innych projektach takich jak ITCQF i Techwriter Koduje
 Kowaluk).
 
 Na przestrzeni lat, około 20 osób znajdowało wenę i chęć by dzielić się swoimi
-doświadczeniami na łamach portalu.
+doświadczeniami na łamach portalu. Oprócz tego, zamieściliśmy wiele artykułów
+gościnnych, także w języku angielskim.
 
-W tym momencie mamy 4 osoby publikujące artykuły nie licząc redaktorów
-naczelnych i administratorki.
+W tym momencie, nie licząc redaktorów naczelnych i administratorki, mamy 4 osoby
+publikujące artykuły.
 
 ## Kalendarium i kolejne kroki w rozwoju
 
@@ -99,7 +101,7 @@ Przyjrzyjmy się wybranym zdarzeniom z historii techwriter.pl.
 
 W początkowej fazie rozwoju portalu, największa popularnością cieszyły się
 oferty pracy. W dalszym ciągu naszą misją jest łączyć osoby poszukujące pracy z
-pracodawcami, robimy to nieodpłatnie.
+pracodawcami. Oferty publikujemy nieodpłatnie.
 
 ### Relacje z konferencji
 
@@ -113,7 +115,7 @@ Tego typu materiały pozostają popularne, ponieważ:
 
 - Podsumowują najświeższe trendy branżowe
 - Służą pomocą uczestnikom, którzy chcą odświeżyć sobie kluczowe fakty
-- Dają pojęcie o konferencji tym, którzy w nie mogli w niej wziąć udziału.
+- Dają pojęcie o konferencji tym, którzy nie mogli w niej wziąć udziału.
 
 Na techwriter.pl znajdują się też relacje z Konferencji Tłumaczy czy UA Europe.
 
@@ -126,28 +128,29 @@ doświadczenia.
 
 Była nawet jedna osoba, której tak spodobało się udzielanie wywiadu, że
 popełniła recydywę opowiadając o swojej karierze dwukrotnie, na różnych etapach
-kariery.
+kariery. Jeśli chcecie się dowiedzieć, kogo mam na myśli, zapraszamy do
+przejrzenia naszych wywiadów.
 
 ### Ankieta badania płac
 
 W 2017 opublikowaliśmy pierwszą ankieta płac. Po dziś dzień cykl ten cieszy się
-wielką popularnością - była to pierwsza strona na portalu, na którą trafiłem.
-Choć liczba respondentów nie przekroczyła 133 osób, ankieta daje obraz ewolucji
-płac osób związanych z technical writingiem. Dokładamy starań, by rozwijać
-ankietę i dostosowywać ją do zmieniającego się krajobrazu rynku pracy.
+wielką popularnością. Choć liczba respondentów nie przekroczyła 133 osób,
+ankieta daje obraz ewolucji płac osób związanych z technical writingiem.
+Dokładamy starań, by rozwijać ankietę i dostosowywać ją do zmieniającego się
+krajobrazu rynku pracy.
 
 ### Artykuły o narzędziach
 
-Poradniki z wiedzą o narzędziach i podejściach są jednymi najbardziej
+Poradniki z wiedzą o narzędziach i podejściach są jednymi z najbardziej
 wartościowych pozycji na blogu. Jeśli szukasz informacji na jakiś temat, wpisz
 słowo kluczowe do wyszukiwarki strony albo zobacz strony zgrupowane tagami. Jest
 duża szansa, że znajdziesz pomocny materiał.
 
-### Langłydż
+### Langłydż - z humorem o języku
 
 Techwriter.pl to nie tylko poważne artykuły branżowe. Dużym powodzeniem cieszy
 się seria Langłydż, w której obserwujemy co śmieszniejsze i kreatywniejsze
-zapożyczenia z angielskiego. Warto wrzucić ją sobie na _backlog_.
+zapożyczenia z angielskiego.
 
 ### Gadżety
 
@@ -164,7 +167,7 @@ redakcji, podczas konferencji Michał zagadnął mnie, by przekazać mi prawie
 nieużywaną koszulkę z logo techwriter.pl. W tamtym czasie Michał już dłuższy
 czas realizował się poza szeregami redakcji. Ironia losu polegała na tym, że w
 przeciągu roku Michał na nowo dołączył do zespołu jako redaktor naczelny, więc
-może i odzienie z brandingiem mu się przydało 😁. Koszulkę zachowałem, czasem
+może i odzienie z brandingiem przydałoby mu się 😁. Koszulkę zachowałem, czasem
 nawet zakładam ją na wyjątkowe okazje (ostatnio był to Content Day).
 
 ## Jak wygląda działalność redakcji od kuchni?
@@ -204,7 +207,7 @@ pięć razy i wydano X certyfikatów.
 
 ### Partnerstwa z konferencjami i wydarzeniami
 
-techwriter.pl patronował konferencjom i wydarzeniom takim jak MadWorld, soap!,
+Techwriter.pl patronował konferencjom i wydarzeniom takim jak MadWorld, soap!,
 Write the Docs, Meet Content (obecnie Content Bytes).
 
 ### Grupa na Facebooku i strona na LinkedIn
@@ -219,8 +222,8 @@ szeroko pojętej społeczności technical writerów w kraju i za granicą.
 
 ## O co chodzi i dlaczego?
 
-Przyjrzyjmy się temu, co napędza redakcję redakcję. Zadałem kilka pytań twórcom
-portalu, najwięcej odpowiedzi zebrałem od Michała 🙂.
+Przyjrzyjmy się temu, co napędza redakcję. Zadałem kilka pytań twórcom portalu,
+najwięcej odpowiedzi zebrałem od Michała 🙂.
 
 ### Jakie wartości przyświecają tej inicjatywie?
 
@@ -236,7 +239,7 @@ Michał Skowron:
 Michał Skowron:
 
 > Żeby poznawać nowych ludzi, podtrzymać motywację i ciągle uczyć się czegoś
-> nowego — nie ma lepszego sposobu na naukę niż wyjaśnianie rzeczy innym.
+> nowego. Nie ma lepszego sposobu na naukę niż wyjaśnianie rzeczy innym.
 > Współtworzenie takiego portalu internetowego jest po prostu satysfakcjonujące.
 > Daje poczucie dodawania prawdziwej wartości do społeczności, tworzy mnóstwo
 > możliwości, zbliża do siebie ludzi z branży tech comm i jest po prostu świetną
@@ -272,6 +275,8 @@ Michał Skowron:
 
 ### Co jest wyjątkowego w tej inicjatywie?
 
+Michał Skowron:
+
 > Techwriter.pl pozwala nam opowiadać o tech commie przez pryzmat naszej
 > rzeczywistości, która ma swoje smaczki i jest inna niż ta, którą obserwujemy w
 > krajach gdzie tech comm ma długoletnią tradycję.
@@ -299,18 +304,18 @@ Michał Skowron:
 > Szybkie wpisy o ofertach pracy czy wydarzeniach nie są takim wyzwaniem, jednak
 > porządny artykuł wymaga czasu i nakładu pracy. Nie jest też łatwo znaleźć
 > większą grupę chętną do udzielania się. Portal jest non-profit, więc artykuły
-> są pisane w wolnym czasie i pro bono. Naturalne jest, że po jakimś czasie
-> aktywności osoby zechcieć zacząć inaczej spędzać wolny czas albo potrzebują
+> są pisane w wolnym czasie i pro bono. Naturalne jest, że po okresie aktywności
+> osoby mogą chcieć zacząć inaczej spędzać swój czas wolny albo potrzebują
 > zrezygnować z innych powodów.
 
 ## Wartość dodana według czytelników
 
 TUTAJ DODAM WRAZENIA CZYTELNIKOW.
 
-## Rynek contentu wtedy i dziś
+## Rynek contentu
 
-Techwriter.pl był odpowiedzią na sytuację rynkową związaną z zapotrzebowaniem na
-technical writerów. Przyjrzyjmy się zatem temu rynkowi.
+Techwriter.pl był odpowiedzią na potrzeby technical writerów i samego rynku
+pracy. Przyjrzyjmy się temu rynkowi i porównajmy jak wyglądał wtedy i dziś.
 
 ### Jak wyglądał rynek contentu w 2012 roku?
 
@@ -330,7 +335,7 @@ Michał Skowron:
 
 Michał Skowron:
 
-> Wszystko to co opisałem w punkcie poprzednim zmieniło się na lepsze - liczba
+> Wszystko to, co opisałem w punkcie poprzednim zmieniło się na lepsze - liczba
 > ofert pracy, świadomość zawodu, itp. Widać to nawet po tym jak prężnie
 > działają teraz grupy MeetContent (Content Bytes) we Wrocławiu i Krakowie,
 > udowadniając, że jest potrzeba spotkań, wymiany wiedzy i poczucia
@@ -358,12 +363,13 @@ W tym miejscu kilka słów ode mnie.
   mi ogromną frajdę, że mam możliwość dzielenia się spostrzeżeniami i wiedzą.
   Przy okazji szlifuję pisany język polski, który do prostych nie należy 😉.
 
-Dzięki techwriter.pl miałem też okazję uczestniczenia w ciekawych wydarzeniach i
-konferencjach. W redakcji poznałem sympatycznych, kreatywnych i pomocnych ludzi.
+- Dzięki techwriter.pl miałem też okazję uczestniczenia w ciekawych wydarzeniach
+  i konferencjach, również jako wykładowca. W redakcji poznałem sympatycznych,
+  kreatywnych i pomocnych ludzi.
 
-Uważam, że należy docenić to, co w komunikacji technicznej wszyscy razem
-osiągnęliśmy. Z optymizmem na dalszy rozwój naszej branży i życzę Wam w niej
-samych sukcesów.
+- Uważam, że należy docenić to, co w komunikacji technicznej wszyscy razem
+  osiągnęliśmy. Z optymizmem patrzę na dalszy rozwój naszej branży i życzę Wam w
+  niej samych sukcesów.
 
 ## Źródła
 
