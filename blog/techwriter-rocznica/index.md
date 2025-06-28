@@ -43,12 +43,13 @@ Przejdźmy do faktów, które udało mi się ustalić.
 
 ### Założyciel i pomysłodawca
 
-Ojcem tej inicjatywy jest Dariusz Drezno (Darek), związany z branżą testerską.
-Jest testerem, managerem, wykładowcą i przedsiębiorcą. W swojej firmie miał
-styczność z wieloma technical writerami, którzy pytali go o standardy,
-szkolenia, certyfikaty i materiały szkoleniowe. W tamtym czasie, Darek zauważał
-brak polskojęzycznej strony branżowej i nieistniejącą wtedy ofertę szkoleniową
-na polskim rynku.
+Ojcem tej inicjatywy jest
+[Dariusz Drezno](https://www.linkedin.com/in/dariusz-drezno/) (Darek), związany
+z branżą testerską. Jest testerem, managerem, wykładowcą i przedsiębiorcą. W
+swojej firmie miał styczność z wieloma technical writerami, którzy pytali go o
+standardy, szkolenia, certyfikaty i materiały szkoleniowe. W tamtym czasie,
+Darek zauważał brak polskojęzycznej strony branżowej i nieistniejącą wtedy
+ofertę szkoleniową na polskim rynku.
 
 Zainspirowany inicjatywą
 [Radosława Smiglina](https://www.linkedin.com/in/smilgin/) i społecznością
@@ -76,15 +77,17 @@ skończył 10 lat, a we wrzesniu 2025 skończy 12 👍🥳🎉.
 
 ### Współpracownicy
 
-Pierwszymi osobami, które dołączyły do portalu były: Marcin Górski, Sabina
-Szablowska i Michał Skowron.
+Pierwszymi osobami, które dołączyły do portalu były:
+[Marcin Górski](https://www.linkedin.com/in/gorskimarcin/),
+[Sabina Szablowska](https://www.linkedin.com/in/sabina-sz/) i
+[Michał Skowron](https://www.linkedin.com/in/michalskowron/).
 
 Michał Skowron był bardzo aktywny we wczesnych fazach rozwoju techwriter.pl. Był
 autorem pierwszego dużego, merytorycznym artykułu:
 [relacja z pierwszej odsłony soap!](../soap-technical-communication-conference-relacja/index.md).
 Później skupił się na innych projektach takich jak ITCQF i Techwriter Koduje. W
-2023 wrócił do portalu jako redaktor naczelny (drugim redaktorem jest Paweł
-Kowaluk).
+2023 wrócił do portalu jako redaktor naczelny (drugim redaktorem jest
+[Paweł Kowaluk](https://www.linkedin.com/in/dariusz-drezno/)).
 
 Na przestrzeni lat, około 20 osób znajdowało wenę i chęć by dzielić się swoimi
 doświadczeniami na łamach portalu. Oprócz tego, zamieściliśmy wiele artykułów
@@ -179,12 +182,14 @@ jest, że zobowiązania prywatne i zawodowe mają priorytet, a na publikacją
 artykułu czasem trzeba zaczekać. Każdy artykuł sprawdzany jest przez co najmniej
 jedną parę oczu.
 
-Wspomnę w tym miejscu Agnieszkę Gaworską, która od 2015 pełni rolę
-administratorki i korektorki. Przez jej ręce przeszły dziesiątki artykułów i
-wychwyciła setki literówek. Bywały okresy, gdy to Agnieszka najczęściej
-publikowała nowe treści na stronie. To ona również odpowiadała za publikacje na
-mediach społecznościowych. Dzięki jej zaangażowaniu łódka zwana techwriter.pl
-utrzymuje się na powierzchni i płynie dalej. Dziękujemy 🤝!
+Wspomnę w tym miejscu
+[Agnieszkę Gaworską](https://www.linkedin.com/in/agnieszka-gaworska-9b77591a4/),
+która od 2015 pełni rolę administratorki i korektorki. Przez jej ręce przeszły
+dziesiątki artykułów i wychwyciła setki literówek. Bywały okresy, gdy to
+Agnieszka najczęściej publikowała nowe treści na stronie. To ona również
+odpowiadała za publikacje na mediach społecznościowych. Dzięki jej zaangażowaniu
+łódka zwana techwriter.pl utrzymuje się na powierzchni i płynie dalej.
+Dziękujemy 🤝!
 
 ## Inicjatywy, które narodziły się z pomocą techwriter.pl
 
@@ -204,6 +209,7 @@ Skowron, Paweł Kowaluk, Marcin Górski.
 
 Studia podyplomowe kształcące specjalistów od komunikacji technicznej odbyły się
 pięć razy i wydano X certyfikatów.
+[Marta Bartnicka](https://www.linkedin.com/in/marta-bartnicka-713969/).
 
 ### Partnerstwa z konferencjami i wydarzeniami
 
@@ -311,6 +317,7 @@ Michał Skowron:
 ## Wartość dodana według czytelników
 
 TUTAJ DODAM WRAZENIA CZYTELNIKOW.
+[Mateusz Borycki](https://www.linkedin.com/in/mateusz-borycki-2817a6186/).
 
 ## Rynek contentu
 
@@ -371,9 +378,11 @@ W tym miejscu kilka słów ode mnie.
   osiągnęliśmy. Z optymizmem patrzę na dalszy rozwój naszej branży i życzę Wam w
   niej samych sukcesów.
 
+![](/images/salute.png)
+
 ## Źródła
 
-- [Artykuł Michała Skowrona i Jakuba Wiśniewskiego na blogu Toma Johnsona w 2017](https://idratherbewriting.com/2017/10/31/untold-story-of-techwriter-pl-poland/)
+- [Artykuł Michała Skowrona i [Jakuba Wiśniewskiego](https://www.linkedin.com/in/jakubmwisniewski/) na blogu Toma Johnsona w 2017](https://idratherbewriting.com/2017/10/31/untold-story-of-techwriter-pl-poland/)
 - [Wywiad na Youtube z Darkiem Write the Docs (ENG)](https://www.youtube.com/watch?v=QTdlv6KQiEo)
 - [Wpis Darka na LinkedIn w 10 rocznice techwriter.pl](https://www.linkedin.com/feed/update/urn:li:activity:7109489713899593728/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7109489713899593728%29)
 
