@@ -22,7 +22,7 @@ techniczna - istnieje już od ponad dekady. W tym artykule opisuję:
 
 W tym miejscu chcemy docenić wysiłek osób zaangażowanych w działalność
 techwriter.pl, która od niemal 12 lat wpływa znacząco na rozwój polskiej komunikacji technicznej.
-Dziękujemy wszystkim, którzy rozwijali społeczność i czytają nasze artykuły.
+Dziękujemy zarówno wszystkim działaczom, jak i czytelnikom.
 Jeśli ktoś chciałby podzielić się swoją historią, zapraszamy do kontaktu.
 
 ## Od autora
