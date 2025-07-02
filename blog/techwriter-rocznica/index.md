@@ -308,7 +308,7 @@ szeroko pojętej społeczności technical writerów w kraju i za granicą. Przyk
 na to dostarczył Michał Skowron:
 
 > Pamiętam nawet jak napisałem artykuł, już nie wiem o czym, chyba o Jenkinsie,
-> i Paweł Kowaluk zostawił komentarz pod nim, że fajny. Cieszyłem >się
+> i Paweł Kowaluk zostawił komentarz pod nim pozytywny komentarz. Cieszyłem się
 > niesamowicie. Ja wtedy zaczynałem w branży, nie znaliśmy się a Paweł już wtedy
 > był rozpoznawalny w branży.
 
