@@ -309,7 +309,7 @@ na to dostarczył Michał Skowron:
 
 > Pamiętam nawet jak napisałem artykuł, już nie wiem o czym, chyba o Jenkinsie,
 > i Paweł Kowaluk zostawił komentarz pod nim, że fajny. Cieszyłem >się
-> niesamowicie. Ja wtedy zaczynałem w branży, nie znaliśmy się i Paweł już wtedy
+> niesamowicie. Ja wtedy zaczynałem w branży, nie znaliśmy się a Paweł już wtedy
 > był rozpoznawalny w branży.
 
 Po dziś dzień obaj panowie przyjaźnią się i wspólnie pracują nad różnymi
