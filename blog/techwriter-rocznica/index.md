@@ -86,7 +86,7 @@ tajemnicy. Na decyzję o nazwie wpłynęła dostępność domeny strony internet
 Darek dodał [pierwszy powitalny wpis](../witaj-swiecie/index.md) 18.09.2013.
 Następnie opublikował pierwszy merytoryczny artykuł, którym była
 [relacja z pierwszej odsłony soap!](../soap-technical-communication-conference-relacja/index.md).
-Wynika z tego, że w 2023 portal skończył 10 lat, a we wrzesniu 2025 skończy 12
+Wynika z tego, że w 2023 portal skończył 10 lat, a we wrześniu 2025 skończy 12
 👍🥳🎉.
 
 ### Współpracownicy
