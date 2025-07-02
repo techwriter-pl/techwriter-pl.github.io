@@ -54,7 +54,7 @@ O tym, jak w 2012 wyglądał rynek technical writingu opowiada też Michał Skow
 który odegrał dużą rolę w tworzeniu i rozwijaniu portalu:
 
 > Było wtedy zdecydowanie mniej ofert pracy. Poza tym, warto zwrócić uwagę na
-> świadomość tego zawodu w Polsce. Ja sam na początku, nie miałem pojęcia, że
+> świadomość tego zawodu w Polsce. Ja sam na początku nie miałem pojęcia, że
 > tech comm to działka, która ma swoje zasady, dobre praktyki, szkolenia, itp.
 > Zacząłem szukać, interesować się, i za pierwszym podejściem znalazłem tylko
 > zagraniczne materiały.
