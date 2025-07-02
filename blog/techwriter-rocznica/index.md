@@ -416,7 +416,7 @@ Tak postrzega go Michał Skowron:
 
 > Wszystko zmieniło się na lepsze - liczba ofert pracy, świadomość zawodu, itp.
 > Widać to nawet po tym jak prężnie działają teraz grupy MeetContent (Wrocław) i Content Bytes (Kraków)
-> Bytes) we Wrocławiu i Krakowie, udowadniając, że jest potrzeba spotkań,
+, udowadniając, że jest potrzeba spotkań,
 > wymiany wiedzy i poczucia przynależności do społeczności.
 
 ## Techwriter.pl - wydarzenia z okresu 2023-2025
