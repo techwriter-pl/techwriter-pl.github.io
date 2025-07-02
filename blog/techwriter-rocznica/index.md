@@ -20,7 +20,7 @@ techniczna - istnieje już od ponad dekady. W tym artykule opisuję:
 
 <!--truncate-->
 
-W tym miejscu chcemy docenić wysiłek osób zaangażowanych w społeczność
+W tym miejscu chcemy docenić wysiłek osób zaangażowanych w działalność
 techwriter.pl, która od niemal 12 lat rozwija polską komunikację techniczną.
 Dziękujemy wszystkim, którzy rozwijali społeczność i czytają nasze artykuły.
 Jeśli ktoś chciałby podzielić się swoją historią, zapraszamy do kontaktu.
