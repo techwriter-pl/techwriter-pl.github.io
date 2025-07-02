@@ -9,7 +9,7 @@ coverImage: 'techwrite_rocznica.png'
 ---
 
 Techwriter.pl - portal, inicjatywa i grupa ludzi, którym bliska jest komunikacja
-techniczna - istnieje już od ponad dekady. Z tego artykułu poznasz:
+techniczna - istnieje już od ponad dekady. W tym artykule opisuję:
 
 - Początki
 - Rozwój inicjatywy
