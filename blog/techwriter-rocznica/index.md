@@ -21,10 +21,10 @@ techniczna - istnieje już od ponad dekady. W tym artykule opisuję:
 <!--truncate-->
 
 W tym miejscu chcemy docenić wysiłek osób zaangażowanych w działalność
-techwriter.pl, która od niemal 12 lat wpływa znacząco na rozwój polskiej komunikacji technicznej.
-Dziękujemy zarówno wszystkim działaczom, jak i czytelnikom.
-Bez Was nie byłoby techwriter.pl.
-Jeśli ktoś chciałby podzielić się swoją historią, zapraszamy do kontaktu.
+techwriter.pl, która od niemal 12 lat wpływa znacząco na rozwój polskiej
+komunikacji technicznej. Dziękujemy zarówno wszystkim działaczom, jak i
+czytelnikom. Bez Was nie byłoby techwriter.pl. Jeśli ktoś chciałby podzielić się
+swoją historią, zapraszamy do kontaktu.
 
 ## Od autora
 
@@ -99,12 +99,15 @@ Pierwszymi osobami, które dołączyły do portalu były:
 Michał był bardzo aktywny we wczesnych fazach rozwoju techwriter.pl:
 
 > Włożyłem dużo serducha w techwriter.pl, szczególnie w pierwszych latach jego
-> istnienia, bo po prostu cieszyłem się jak dziecko, które dostało worek słodyczy, że powstał polski portal dla tech writerów 😄 
+> istnienia, bo po prostu cieszyłem się jak dziecko, które dostało worek
+> słodyczy, że powstał polski portal dla tech writerów 😄
 
-
-Po kilku latach aktywnego działania zrobił sobie dłuższą przerwę podczas, której razem z [Pawłem Kowalukiem](https://www.linkedin.com/in/pawel-kowaluk/) założył i rozwinął podcast "Tech Writer Koduje". W
-2023 Darek odszedł na zasłużoną emeryturę jako głównodowodzący techwriter.pl i przekazał stery Michałowi Skowronowi, Pawłowi Kowalukowi i Tomkowi Prusowi. Tomek po kilku miesiącach wycofał się z działalności portalu.
-
+Po kilku latach aktywnego działania zrobił sobie dłuższą przerwę podczas, której
+razem z [Pawłem Kowalukiem](https://www.linkedin.com/in/pawel-kowaluk/) założył
+i rozwinął podcast "Tech Writer Koduje". W 2023 Darek odszedł na zasłużoną
+emeryturę jako głównodowodzący techwriter.pl i przekazał stery Michałowi
+Skowronowi, Pawłowi Kowalukowi i Tomkowi Prusowi. Tomek po kilku miesiącach
+wycofał się z działalności portalu.
 
 Na przestrzeni lat, około 20 osób znajdowało wenę i chęć by dzielić się swoimi
 doświadczeniami na łamach portalu. Oprócz tego, zamieściliśmy wiele artykułów
@@ -136,7 +139,8 @@ energii i entuzjazmu 🙂.
 
 Po zmianie kierownictwa, Michał i Paweł angażują się w życie redakcji, chętnie
 dzielą się opiniami i pomysłami na dalszą działalność. Współpraca przebiega w
-przyjaznej i konstruktywnej atmosferze. Czasem nawet "ubrudzą sobie ręce" przy pisaniu lub recenzowaniu artykułów 😉 
+przyjaznej i konstruktywnej atmosferze. Czasem nawet "ubrudzą sobie ręce" przy
+pisaniu lub recenzowaniu artykułów 😉
 
 ## Kalendarium i kolejne kroki w rozwoju
 
@@ -148,8 +152,8 @@ W początkowej fazie rozwoju portalu, największa popularnością cieszyły się
 zamieszczane oferty pracy. W dalszym ciągu naszą misją jest łączyć osoby
 poszukujące pracy z pracodawcami. Techwriter.pl sprzyja też networkingowi.
 Najlepszym tego przykładem jest Michał Skowron, który dzięki uczestniczeniu w
-życiu portalu i poznaniu Sabiny Szablowskiej oraz Marcina Górskiego dostał pierwszą pracę po przeprowadzce do Krakowa
-Marcina Górskiego.
+życiu portalu i poznaniu Sabiny Szablowskiej oraz Marcina Górskiego dostał
+pierwszą pracę po przeprowadzce do Krakowa Marcina Górskiego.
 
 Tak temat networkingu podsumowuje sam Michał Skowron:
 
@@ -157,7 +161,13 @@ Tak temat networkingu podsumowuje sam Michał Skowron:
 > doprowadziło w późniejszym czasie do różnych sytuacji zawodowych, współpracy,
 > projektów.
 
-> Fajnym przykładem jest historia jednego kolegi redakcyjnego. Kilka lat temu, dołączył on na krótko do redakcji i w tamtym czasie chciał po dłuższej przerwie powrócić do zawodu tech writera. Podrzuciłem namiar na niego mojemu znajomemu, który wtedy był odpowiedzialny za prowadzenie firmy, która chętnie zatrudniała osoby z niewielkim lub żadnym doświadczeniem w branży komunikacji technicznej. Z tego co wiem, nasz były kolega redakcyjny nadal tam pracuje jako Tech Writer 😄 
+> Fajnym przykładem jest historia jednego kolegi redakcyjnego. Kilka lat temu,
+> dołączył on na krótko do redakcji i w tamtym czasie chciał po dłuższej
+> przerwie powrócić do zawodu tech writera. Podrzuciłem namiar na niego mojemu
+> znajomemu, który wtedy był odpowiedzialny za prowadzenie firmy, która chętnie
+> zatrudniała osoby z niewielkim lub żadnym doświadczeniem w branży komunikacji
+> technicznej. Z tego co wiem, nasz były kolega redakcyjny nadal tam pracuje
+> jako Tech Writer 😄
 
 ### Konferencje - relacje i współpraca
 
@@ -166,8 +176,9 @@ Tak temat networkingu podsumowuje sam Michał Skowron:
 - W 2017 nasz specjalny korespondent Michał Skowron odwiedził San Diego, by
   później opisać wrażenia z konferencji MadWorld, zorganizowanej przez firmę
   MadCap. Michał wziął też udział w warsztatach i zdał certyfikat MadCpa Flare.
-  później [opisać wrażenia z konferencji MadWorld](https://techwriter.pl/madworld-2017-relacja/), zorganizowanej przez firmę
-Takie materiały pozostają popularne, ponieważ:
+  później
+  [opisać wrażenia z konferencji MadWorld](https://techwriter.pl/madworld-2017-relacja/),
+  zorganizowanej przez firmę Takie materiały pozostają popularne, ponieważ:
 
 - Podsumowują najświeższe trendy branżowe
 - Służą pomocą uczestnikom, którzy chcą odświeżyć sobie kluczowe fakty
@@ -232,11 +243,10 @@ Były to limitowane edycje. Mało kto należy do grona szczęśliwców będącyc
 posiadaniu. Wiąże się z tym zabawna historia. Kilka lat po tym jak dołączyłem do
 redakcji, podczas konferencji Michał Skowron zagadnął mnie, by przekazać mi
 prawie nieużywaną koszulkę z logo techwriter.pl. W tamtym czasie Michał już
-redakcji, podczas konferencji soap! Michał Skowron zagadnął mnie, by przekazać mi
-koszulkę z logo techwriter.pl. W tamtym czasie Michał już
-naczelny, więc może i odzienie z brandingiem przydałoby mu się 😁. Koszulkę
-zachowałem, czasem nawet zakładam ją na wyjątkowe okazje (ostatnio był to
-Content Day).
+redakcji, podczas konferencji soap! Michał Skowron zagadnął mnie, by przekazać
+mi koszulkę z logo techwriter.pl. W tamtym czasie Michał już naczelny, więc może
+i odzienie z brandingiem przydałoby mu się 😁. Koszulkę zachowałem, czasem nawet
+zakładam ją na wyjątkowe okazje (ostatnio był to Content Day).
 
 ## Inicjatywy, które narodziły się z pomocą techwriter.pl
 
@@ -249,10 +259,9 @@ w formie osobnych artykułów. Przejdźmy w takim razie do tych przedsięwzięć
 ### ITCQF
 
 Rozwinięcie skrótu: International Technical Communication Qualifications
-Foundation. Twórcami tego projektu byli: Darek Drezno i Marcin Górski.
-Dzięki ITCQF, społeczność otrzymała sylabus porządkujący wiedzę na temat praktyk
-w branży, o którym przeczytać możecie w
-
+Foundation. Twórcami tego projektu byli: Darek Drezno i Marcin Górski. Dzięki
+ITCQF, społeczność otrzymała sylabus porządkujący wiedzę na temat praktyk w
+branży, o którym przeczytać możecie w
 
 Dziesiątki osób wzieły udział w kursach przygotowawczych i otrzymały
 certyfikaty. Odbiorcami kursu byli zarówno początkujący technical writerzy jak i
@@ -401,8 +410,21 @@ Michał Skowron opowiada o trudnościach:
 
 ## Opinia czytelnika
 
-WRAZENIA CZYTELNIKA DO DODANIA.
-[Mateusz Borycki](https://www.linkedin.com/in/mateusz-borycki-2817a6186/).
+[Mateusz Borycki](https://www.linkedin.com/in/mateusz-borycki-2817a6186/)
+podzielił się z nami swoją perspektywą na temat portalu:
+
+> Czytelnikiem portalu techwriter.pl jestem już od ponad 5 lat. Wtedy, jako
+> student 4 roku, zostałem nieco przypadkiem odpowiedzialny za komunikację
+> techniczną w firmie, w której odbywałem staż. To było pierwsze zetknięcie się
+> ze światem techcommu w mych dziejach. Techwriter.pl był dla mnie jednym z
+> niewielu miejsc w polskim internecie, gdzie mogłem dowiedzieć się cokolwiek o
+> branży jak i o samej roli technical writera. Moim ulubionym działem stały się
+> rozmowy z innymi technical writerami czyli seria “Kilka pytań do”. Czytanie i
+> czerpanie inspiracji z dzielenia się doświadczeniami było niesamowicie cenne
+> dla żółtodzioba, którym byłem wtedy. Do dziś chętnie czytam, aby wiedzieć co
+> się dzieje w polskim techcommie oraz z zachłannością i wdzięcznością zarazem
+> chłonę każdą wiedzę, którą dzielą się starsi (i nie tylko) koledzy i koleżanki
+> z branży 🙂.
 
 ## Rynek contentu w 2025
 
@@ -412,10 +434,11 @@ pracy. Jak wygląda ten rynek w 2025 roku?
 Tak postrzega go Michał Skowron:
 
 > Wszystko zmieniło się na lepsze - liczba ofert pracy, świadomość zawodu, itp.
-> Widać to nawet po tym jak prężnie działają teraz grupy MeetContent (Wrocław) i Content Bytes (Kraków)
-, udowadniając, że jest potrzeba spotkań,
-> wymiany wiedzy i poczucia przynależności do społeczności.
-> Widać to nawet po tym jak prężnie działają teraz grupy MeetContent (Wrocław) i Content Bytes (Kraków)
+> Widać to nawet po tym jak prężnie działają teraz grupy MeetContent (Wrocław) i
+> Content Bytes (Kraków) , udowadniając, że jest potrzeba spotkań, wymiany
+> wiedzy i poczucia przynależności do społeczności. Widać to nawet po tym jak
+> prężnie działają teraz grupy MeetContent (Wrocław) i Content Bytes (Kraków)
+
 ## Techwriter.pl - wydarzenia z okresu 2023-2025
 
 - W 2023 Darek przekazał stery w zakresie prowadzenia portalu Michałowi
@@ -438,12 +461,11 @@ Tak postrzega go Michał Skowron:
   partnerami medialnymi. Chcemy aktywnie działać i rozwijać społeczność. Staramy
   się na bieżąco informować społeczność o aktualnych trendach w obszarze tech
   writingu w Polsce, a także o dostępnych narzędziach i nowościach branżowych.
-  
   Regularne publikacje, dzielenie się wiedzą oraz monitorowanie zmian w
-narzędziach i metodach dokumentacyjnych to ważna część naszej działalności,
-dzięki której writerzy mogą szybciej adaptować się do zmian i rozwijać swoje
-kompetencje. Przykład: nagłaśniamy działania stowarzyszenia SAiIT zrzeszającego
-technical writerów i ilustratorów technicznych.
+  narzędziach i metodach dokumentacyjnych to ważna część naszej działalności,
+  dzięki której writerzy mogą szybciej adaptować się do zmian i rozwijać swoje
+  kompetencje. Przykład: nagłaśniamy działania stowarzyszenia SAiIT
+  zrzeszającego technical writerów i ilustratorów technicznych.
 
 ## Zakończenie od autora
 
