@@ -5,6 +5,7 @@ date: '2025-06-19'
 tags:
   - 'społeczność'
   - 'z-kraju'
+  - 'rocznica'
 coverImage: 'techwrite_rocznica.png'
 ---
 
@@ -83,8 +84,9 @@ tajemnicy. Na decyzję o nazwie wpłynęła dostępność domeny strony internet
 
 ### Pierwsze wpisy
 
-Darek dodał [pierwszy powitalny wpis](../witaj-swiecie/index.md) 18.09.2013.
-Następnie opublikował pierwszy merytoryczny artykuł, którym była
+Darek dodał [pierwszy powitalny wpis](../witaj-swiecie/index.md) 18.09.2013. I
+tak to się wszystko zaczęło! Następnie opublikował pierwszy merytoryczny
+artykuł, którym była
 [relacja z pierwszej odsłony soap!](../soap-technical-communication-conference-relacja/index.md).
 Wynika z tego, że w 2023 portal skończył 10 lat, a we wrześniu 2025 skończy 12
 👍🥳🎉.
@@ -271,28 +273,27 @@ np.: testerzy czy managerowie projektów. O wrażeniach uczestników dowiecie si
 
 ITCQF publikował raporty na temat rynku tech writingowego w różnych krajach.
 
-Dane z 2022 dla Polski:
-
-![Raport ITCQF na temat polskiego rynku technical writingowego w 2022, obejmujący liczbę ofert pracy, liczbę firm zatrudniających specjalistów od dokumentacji, liczbę osób na tym stanowisku, itp.](images/raport.png)
-
 Fundacja ITCQF zakończyła swoją działalność w 2025, o czym więcej możecie
 przeczytać [tutaj](../koniec-itcqf/index.md)
 
-### Studia podyplomowe na Vistula University
+### Studia podyplomowe na Akademii Vistula
 
-Studia podyplomowe kształcące specjalistów od komunikacji technicznej odbyły się
-pięć razy. W każdej edycji uczyło się 15-20 osób.
-[Marta Bartnicka](https://www.linkedin.com/in/marta-bartnicka-713969/). Michał
-Skowron, Marcin Górski, Darek Drezno, Daniel Barrio Fierro.
+Twórcami kursu podyplomowego dla specjalistów od komunikacji technicznej byli:
+[Marta Bartnicka](https://www.linkedin.com/in/marta-bartnicka-713969/), Darek
+Drezno, Tomasz Prus, Daniel Barrio Fierro. Odbyło się dotychczas pięć edycji
+kursu. W każdej edycji uczyło się 15-20 osób. Wykładowcami było 13 praktyków
+dokumentacji. Wystartowanie z pierwszą edycją zajęło sporo czasu, ale było
+warto.
 
-DO ROZWINIECIA MOZE MARTA PODA MI WIECEJ STATYSTYK.
+Darek Drezno podkreśla:
 
-### Współpraca z uniwersytetami
+> Studia podyplomowe zmieniły życie zawodowe sporej grupy osób.
 
-W 2022, osoba z redakcji techwriter.pl prowadziła wykład na Instytucie
-Lingwistyki Stosowanej.
-
-CZY MAMY PRZYKLADY INNEJ WSPOLPRACY Z UNIVERSYTETAMI? NIE LICZE TU VISTULI.
+Doszło do zatoczenia intrygującego koła: Darek, twórca techwriter.pl przyczynił
+się do stworzenia kursu na Akademii Vistula, a później dwie absolwentki kursu
+zasiliły szeregi redakcji: Justyna Kula i Magda Niedźwiecka. Pokazuje to, jak
+połączone potrafią być różne inicjatywy i jak poszczególne grupy się przenikają
+i wpływają na siebie.
 
 ### Grupa na Facebooku i strona na LinkedIn
 
@@ -301,9 +302,10 @@ CZY MAMY PRZYKLADY INNEJ WSPOLPRACY Z UNIVERSYTETAMI? NIE LICZE TU VISTULI.
 
 ### Inspiracja dla społeczności międzynarodowej
 
-Artykuły techwriter.pl tłumaczone były na czeski. Portal był inspiracja dla
-Ivana Chebana, który założył anglojęzyczny [blog](https://www.uawriters.space)
-tworzony przez ukraińskich pisarzy technicznych.
+Artykuły techwriter.pl tłumaczone były na język czeski. Portal był inspiracja
+dla Ivana Chebana, który założył anglojęzyczny
+[blog](https://www.uawriters.space) tworzony przez ukraińskich pisarzy
+technicznych.
 
 ### Przyjaźnie
 
@@ -320,6 +322,11 @@ Po dziś dzień obaj panowie przyjaźnią się i kontynuują tę fantastyczną
 inicjatywę, dbając nie tylko o rozwój samego portalu, ale także o aktywność
 społeczności. Regularnie dzielą się nowinkami ze świata tech writingu i pomagają
 specjalistom trzymać rękę na pulsie branżowych trendów.
+
+Darek Drezno również podkreśla ten aspekt:
+
+> Przede wszystkim, dzięki tej inicjatywie wiele osób poznało się i
+> zaprzyjaźniło.
 
 ## O co chodzi i dlaczego?
 
@@ -390,11 +397,6 @@ Michał Skowron widzi to w ten sposób:
 > działalności jest dzielenie się wiedzą, a nie promowanie jakiegoś logo czy
 > firmy.
 
-Dla Darka Drezno szczególnie ważne były te kwestie:
-
-> Przede wszystkim, dzięki tej inicjatywie wiele osób poznało się i
-> zaprzyjaźniło. Studia podyplomowe zmieniły życie zawodowe sporej grupy osób.
-
 ### Z jakimi przeciwnościami musieliśmy się mierzyć?
 
 Michał Skowron opowiada o trudnościach:
@@ -414,7 +416,7 @@ Michał Skowron opowiada o trudnościach:
 podzielił się z nami swoją perspektywą na temat portalu:
 
 > Czytelnikiem portalu techwriter.pl jestem już od ponad 5 lat. Wtedy, jako
-> student 4 roku, zostałem nieco przypadkiem odpowiedzialny za komunikację
+> student 4 roku, nieco przypadkiem, stałem się odpowiedzialny za komunikację
 > techniczną w firmie, w której odbywałem staż. To było pierwsze zetknięcie się
 > ze światem techcommu w mych dziejach. Techwriter.pl był dla mnie jednym z
 > niewielu miejsc w polskim internecie, gdzie mogłem dowiedzieć się cokolwiek o
@@ -426,7 +428,7 @@ podzielił się z nami swoją perspektywą na temat portalu:
 > chłonę każdą wiedzę, którą dzielą się starsi (i nie tylko) koledzy i koleżanki
 > z branży 🙂.
 
-## Rynek contentu w 2025
+## Rynek contentu obecnie
 
 Techwriter.pl był odpowiedzią na potrzeby technical writerów i samego rynku
 pracy. Jak wygląda ten rynek w 2025 roku?
@@ -438,6 +440,14 @@ Tak postrzega go Michał Skowron:
 > Content Bytes (Kraków) , udowadniając, że jest potrzeba spotkań, wymiany
 > wiedzy i poczucia przynależności do społeczności. Widać to nawet po tym jak
 > prężnie działają teraz grupy MeetContent (Wrocław) i Content Bytes (Kraków)
+
+Dane z raportu ITCQF dla Polski z 2022 był taki:
+
+![Raport ITCQF na temat polskiego rynku technical writingowego w 2022, obejmujący liczbę ofert pracy, liczbę firm zatrudniających specjalistów od dokumentacji, liczbę osób na tym stanowisku, itp.](images/raport.png)
+
+Liczba osób identyfikująca się zawodowo jako "technical writer" znacznie się
+zwiększyła od 2013. Warto zwrócić uwagę, że w raporcie nie uwzględniono innych
+nazw stanowisk, co oznacza, że osób w tym zawodzie jest jeszcze więcej.
 
 ## Techwriter.pl - wydarzenia z okresu 2023-2025
 
