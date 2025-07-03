@@ -272,7 +272,7 @@ przeczytać [tutaj](../koniec-itcqf/index.md)
 ### Studia podyplomowe na Vistula University
 
 Studia podyplomowe kształcące specjalistów od komunikacji technicznej odbyły się
-pięć razy i w każdej z nich uczestniczyło 15-20 osób.
+pięć razy. W każdej edycji uczyło się 15-20 osób.
 [Marta Bartnicka](https://www.linkedin.com/in/marta-bartnicka-713969/). Michał
 Skowron, Marcin Górski, Darek Drezno, Daniel Barrio Fierro.
 
