@@ -97,10 +97,6 @@ const config: Config = {
           href: 'http://www.facebook.com/techwriterpl',
         },
         {
-          label: 'X.com (dawny Twitter)',
-          href: 'http://x.com/techwriterpl',
-        },
-        {
           label: 'LinkedIn',
           href: 'https://www.linkedin.com/company/techwriter-pl/',
         },
