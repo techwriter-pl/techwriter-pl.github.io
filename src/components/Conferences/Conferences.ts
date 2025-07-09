@@ -276,4 +276,12 @@ export const conferences: Conference[] = [
     link: 'https://www.codeeurope.pl',
     isPartner: true,
   },
+  {
+    title: 'TCUK',
+    startDate: new Date('24 Nov 2025'),
+    endDate: new Date('25 Nov 2025'),
+    location: 'East Midlands Airport, Anglia',
+    type: ['in-person'],
+    link: 'https://istc.org.uk/tcuk/',
+  },
 ];
