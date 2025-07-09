@@ -276,4 +276,12 @@ export const conferences: Conference[] = [
     link: 'https://www.codeeurope.pl',
     isPartner: true,
   },
+  {
+    title: 'TCUK conference',
+    startDate: new Date('24 November 2025'),
+    endDate: new Date('25 November 2025'),
+    location: 'Radisson Blu Hotel, East Midlands Airport, Anglia',
+    type: ['in-person'],
+    link: 'https://istc.org.uk/tcuk/',
+  },
 ];
