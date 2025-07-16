@@ -18,20 +18,15 @@ export const jobOffers: JobOfferProps[] = [
       Nie jest to oferta płatnej pracy, ale może dać Ci dużo innych korzyści.`,
   },
   {
-    title: 'Senior Technical Writer',
-    company: 'On The Spot Development',
-    link: 'https://onthespotdev.com/positions/senior-technical-writer-orca-security?utm_source=techwriter.pl&utm_medium=Technical%20Writer&utm_campaign=11.06.2025',
+    title: 'Freelance Technical Writer (Remote) 80-100%',
+    company: 'Schmid GmbH energy solutions - Polen',
+    link: 'https://jobs.dualoo.com/portal/schmid-ag-energy-solutions/1a90f780-3e34-4815-9440-54ca0c2c9975/detail?lang=EN',
     location: 'Polska (zdalnie)',
     type: 'zdalna',
-    description: `#### O roli:
-Dołącz do innowacyjnego i dynamicznego zespołu Orca Security, lidera w branży bezpieczeństwa chmury. Poszukujemy wyjątkowego i utalentowanego Technical Writera, który wniesie jasność i precyzję do naszych nowoczesnych produktów. W tej roli będziesz ściśle współpracować z zespołami inżynierów i produktowymi, tworząc wyjątkową dokumentację, która pomoże naszym klientom zrozumieć i w pełni wykorzystać nasze rozwiązania. To świetna okazja do pracy w przyjaznym, wspierającym kreatywność i innowacyjność środowisku, które sprzyja rozwojowi.
-
-#### Twoje zadania:
-- Współpraca z inżynierami, menedżerami produktu i ekspertami merytorycznymi w celu dokumentowania nowych funkcji, aktualizacji i najnowszych technologii
-- Projektowanie, tworzenie i utrzymywanie artykułów bazy wiedzy, które w przystępny sposób wyjaśniają złożone zagadnienia naszym użytkownikom
-- Zapewnienie, że nasza dokumentacja jest jasna, zwięzła i dokładna, stanowiąc kompleksowe źródło wiedzy zarówno dla odbiorców technicznych, jak i nietechnicznych
-- Proaktywne aktualizowanie i ulepszanie istniejącej dokumentacji na podstawie feedbacku, zmian w produktach i trendów rynkowych
-- Pełna odpowiedzialność za projekty dokumentacyjne od początku do końca, z wkładem w ciągłe doskonalenie naszych procesów dokumentacyjnych`,
+    description: `- Wsparcie dokumentacji technicznej dla produktów przemysłowych z wykorzystaniem narzędzi XML (preferowane Schema ST4). 
+- Dokumentacja w języku angielskim, komunikacja i pozyskiwanie informacji w języku **niemieckim** i **polskim**. 
+- Praca zdalna z Polski, okazjonalne wyjazdy do zakładu w Elblągu i siedziby w Szwajcarii. 
+- Praca w międzynarodowym zespole, tworzenie instrukcji użytkownika, przewodników serwisowych i instrukcji roboczych.`,
   },
   {
     title: 'Specjalista ds. Dokumentacji Technicznej – Technical Writer',
