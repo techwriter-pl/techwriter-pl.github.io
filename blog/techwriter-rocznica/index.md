@@ -47,7 +47,7 @@ Przejdźmy do faktów, które udało mi się ustalić.
 Ojcem tej inicjatywy jest
 [Dariusz Drezno](https://www.linkedin.com/in/dariusz-drezno/) (Darek), związany
 z branżą testerską. Jest testerem, managerem, wykładowcą i przedsiębiorcą. W
-standardy, szkolenia i materiały szkoleniowe. W 2012, Darek zauważał, że nie
+standardy, szkolenia i materiały szkoleniowe. W 2012, Darek zauważył, że nie
 było polskojęzycznej strony branżowej i brakowało też kursów podnoszących
 kwalifikacje specjalistów od dokumentacji.
 
@@ -71,16 +71,6 @@ związku z tym Darek, zainspirowany inicjatywą
 [Radosława Smiglina](https://www.linkedin.com/in/smilgin/) i społecznością
 [testerzy.pl](https://www.linkedin.com/company/testerzy/), postanowił stworzyć
 coś podobnego, ale dla technical writerów.
-
-### Nazwa i logo
-
-![Logo techwriter.pl: ikona pacmana i nazwa.](images/logo_tw.png)
-
-To, kto wymyślił nazwę i logo z charakterystycznym "Pacmanem" owiane jest nimbem
-tajemnicy. Na decyzję o nazwie wpłynęła dostępność domeny strony internetowej
-🙂.
-
-![Logo techwriter.pl gdzie litery słowa "Tech" wyróżniają się graficznie od reszty tekstu jednolitą czcionką: "writer". ](images/logo.png)
 
 ### Pierwsze wpisy
 
@@ -110,6 +100,30 @@ i rozwinął podcast "Tech Writer Koduje". W 2023 Darek odszedł na zasłużoną
 emeryturę jako głównodowodzący techwriter.pl i przekazał stery Michałowi
 Skowronowi, Pawłowi Kowalukowi i Tomkowi Prusowi. Tomek po kilku miesiącach
 wycofał się z działalności portalu.
+
+Agnieszka Gaworska odegrała istotną rolę w tworzeniu i utrzymywaniu portalu. Oto
+jak wspomina tę inicjatywę i swoją ścieżkę rozwoju w IT:
+
+> Moja współpraca z techwriter.pl zaczęła się przypadkowo w 2015 roku. Darek,
+> współzałożyciel portalu, zaproponował mi drobny udział edytorski, na co
+> chętnie przystałam. Z czasem zaczęłam pisać samodzielne teksty i zajmować się
+> szeroko rozumianą promocją oraz organizacją wpisów. Gdy zaczynałam, byłam
+> zielona jeśli chodzi o dokumentację techniczną, ale z czasem na tyle się
+> wdrożyłam, że nawet uzyskałam certyfikat ITCQF.
+
+> Przez te dziesięć lat portal zmieniał skład, a także ewoluował pod względem
+> wyglądu oraz sposobu publikowanych treści. I choć moja droga nie jest już
+> związana z technical writingiem, to właśnie dzięki tej współpracy wkroczyłam w
+> szeroki świat IT (testowanie), nawet nie zdając sobie sprawy, że mam ku temu
+> predyspozycje.
+
+> A jak to było przez te lata? Przede wszystkim ciekawie, wesoło i
+> profesjonalnie. Najmilej wspominam czasy, kiedy redakcja nieco się powiększyła
+> i zaczęliśmy zdzwaniać się raz w miesiącu, by zaplanować kolejne publikacje.
+> Planowanie było szybkie i konkretne, a rozmowy nie raz zeszły na inne tory, z
+> czego czasem mieliśmy sporo powodów do śmiechu. Cieszę się, że portal
+> utrzymuje się tak długo i nadal są chętni, by go rozwijać. Trzymam kciuki za
+> kolejne lata pełne ciekawych tekstów.
 
 Na przestrzeni lat, około 20 osób znajdowało wenę i chęć by dzielić się swoimi
 doświadczeniami na łamach portalu. Oprócz tego, zamieściliśmy wiele artykułów
