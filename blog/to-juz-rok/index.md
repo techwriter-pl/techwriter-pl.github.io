@@ -12,6 +12,7 @@ tags:
   - 'praca'
   - 'społeczność'
   - 'szkolenia'
+  - 'rocznice'
 coverImage: 'happy_birthday1.jpg'
 ---
 

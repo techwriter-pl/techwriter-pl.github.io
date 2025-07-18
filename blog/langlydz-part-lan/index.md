@@ -6,6 +6,7 @@ tags:
   - 'warsztat'
   - 'humor'
   - 'język'
+  - 'langłydż'
 coverImage: 'langlydz1.jpg'
 ---
 

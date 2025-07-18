@@ -8,6 +8,7 @@ tags:
   - 'z-kraju'
   - 'edukacja'
   - 'szkolenia'
+  - 'rocznice'
 coverImage: 'SZKOLENIA.jpg'
 ---
 

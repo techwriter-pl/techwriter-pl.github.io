@@ -17,7 +17,7 @@ techniczna - istnieje już od ponad dekady. W tym artykule opisuję:
 - Cykle artykułów
 - Wpływ na branżę komunikacji technicznej
 - Perspektywę założycieli
-- Jak techwriter.pl prezentuje się obecnie.
+- Jak techwriter.pl prezentuje się obecnie
 
 <!--truncate-->
 
@@ -45,11 +45,11 @@ Przejdźmy do faktów, które udało mi się ustalić.
 ### Ówczesny rynek tech writingu i nowy pomysł
 
 Ojcem tej inicjatywy jest
-[Dariusz Drezno](https://www.linkedin.com/in/dariusz-drezno/) (Darek), związany
-z branżą testerską. Jest testerem, managerem, wykładowcą i przedsiębiorcą. W
-standardy, szkolenia i materiały szkoleniowe. W 2012, Darek zauważył, że nie
-było polskojęzycznej strony branżowej i brakowało też kursów podnoszących
-kwalifikacje specjalistów od dokumentacji.
+[Dariusz Drezno](https://www.linkedin.com/in/dariusz-drezno/) (znany jako
+Darek), związany z branżą testerską. Jest testerem, managerem, wykładowcą i
+przedsiębiorcą. W standardy, szkolenia i materiały szkoleniowe. W 2012, Darek
+zauważył, że nie było polskojęzycznej strony branżowej i brakowało też kursów
+podnoszących kwalifikacje specjalistów od dokumentacji.
 
 O tym, jak w 2012 wyglądał rynek technical writingu opowiada też Michał Skowron,
 który odegrał dużą rolę w tworzeniu i rozwijaniu portalu:
@@ -94,7 +94,7 @@ Michał był bardzo aktywny we wczesnych fazach rozwoju techwriter.pl:
 > istnienia, bo po prostu cieszyłem się jak dziecko, które dostało worek
 > słodyczy, że powstał polski portal dla tech writerów 😄
 
-Po kilku latach aktywnego działania zrobił sobie dłuższą przerwę podczas, której
+Po kilku latach aktywnego działania zrobił sobie dłuższą przerwę, podczas której
 razem z [Pawłem Kowalukiem](https://www.linkedin.com/in/pawel-kowaluk/) założył
 i rozwinął podcast "Tech Writer Koduje". W 2023 Darek odszedł na zasłużoną
 emeryturę jako głównodowodzący techwriter.pl i przekazał stery Michałowi
@@ -114,8 +114,8 @@ jak wspomina tę inicjatywę i swoją ścieżkę rozwoju w IT:
 > Przez te dziesięć lat portal zmieniał skład, a także ewoluował pod względem
 > wyglądu oraz sposobu publikowanych treści. I choć moja droga nie jest już
 > związana z technical writingiem, to właśnie dzięki tej współpracy wkroczyłam w
-> szeroki świat IT (testowanie), nawet nie zdając sobie sprawy, że mam ku temu
-> predyspozycje.
+> szeroki świat IT (testowanie dostępności), nawet nie zdając sobie sprawy, że
+> mam ku temu predyspozycje.
 
 > A jak to było przez te lata? Przede wszystkim ciekawie, wesoło i
 > profesjonalnie. Najmilej wspominam czasy, kiedy redakcja nieco się powiększyła
@@ -141,7 +141,7 @@ jest, że zobowiązania prywatne i zawodowe mają priorytet, a na publikację
 artykułu czasem trzeba zaczekać. Każdy artykuł sprawdzany jest przez co najmniej
 jedną parę oczu.
 
-Wspomnę w tym miejscu
+Wspomnę ponownie
 [Agnieszkę Gaworską](https://www.linkedin.com/in/agnieszka-gaworska-9b77591a4/),
 która od 2015 pełni rolę administratorki i korektorki. Przez jej ręce przeszły
 dziesiątki artykułów i wychwyciła setki literówek. Bywały okresy, gdy to
@@ -155,7 +155,7 @@ energii i entuzjazmu 🙂.
 
 Po zmianie kierownictwa, Michał i Paweł angażują się w życie redakcji, chętnie
 dzielą się opiniami i pomysłami na dalszą działalność. Współpraca przebiega w
-przyjaznej i konstruktywnej atmosferze. Czasem nawet "ubrudzą sobie ręce" przy
+przyjaznej i konstruktywnej atmosferze. Czasem nawet ubrudzą sobie ręce przy
 pisaniu lub recenzowaniu artykułów 😉
 
 ## Kalendarium i kolejne kroki w rozwoju
@@ -169,7 +169,7 @@ zamieszczane oferty pracy. W dalszym ciągu naszą misją jest łączyć osoby
 poszukujące pracy z pracodawcami. Techwriter.pl sprzyja też networkingowi.
 Najlepszym tego przykładem jest Michał Skowron, który dzięki uczestniczeniu w
 życiu portalu i poznaniu Sabiny Szablowskiej oraz Marcina Górskiego dostał
-pierwszą pracę po przeprowadzce do Krakowa Marcina Górskiego.
+pierwszą pracę po przeprowadzce do Krakowa.
 
 Tak temat networkingu podsumowuje sam Michał Skowron:
 
@@ -190,29 +190,29 @@ Tak temat networkingu podsumowuje sam Michał Skowron:
 - W 2013 opublikowaliśmy relację z pierwszej konferencji soap!.
 - W 2016 pojawiła się pierwsza relacja z Write the Docs.
 - W 2017 nasz specjalny korespondent Michał Skowron odwiedził San Diego, by
-  później opisać wrażenia z konferencji MadWorld, zorganizowanej przez firmę
-  MadCap. Michał wziął też udział w warsztatach i zdał certyfikat MadCpa Flare.
   później
-  [opisać wrażenia z konferencji MadWorld](https://techwriter.pl/madworld-2017-relacja/),
-  zorganizowanej przez firmę Takie materiały pozostają popularne, ponieważ:
+  [opisać wrażenia z konferencji MadWorld](../madworld-2017-relacja/index.md),
+  zorganizowanej przez firmę MadCap. Michał wziął też udział w warsztatach i
+  zdał certyfikat MadCpa Flare.
 
-- Podsumowują najświeższe trendy branżowe
-- Służą pomocą uczestnikom, którzy chcą odświeżyć sobie kluczowe fakty
+  Takie materiały pozostają popularne, ponieważ:
+
+- Podsumowują najświeższe trendy branżowe.
+- Służą pomocą uczestnikom, którzy chcą odświeżyć sobie kluczowe fakty.
 - Dają pojęcie o konferencji tym, którzy nie mogli w niej wziąć udziału.
 
 Na techwriter.pl znajdują się też relacje z Konferencji Tłumaczy czy UA Europe.
 
 Techwriter.pl patronował konferencjom i wydarzeniom takim jak MadWorld, soap!,
-Write the Docs, Meet Content (obecnie Content Bytes).
+Write the Docs, Meet Content czy Content Bytes.
 
-Oto jak ten aspekt działalności widzi Michał Skowron:
+Oto jak ten aspekt widzi Michał Skowron:
 
 > Jednym z ważniejszych momentów w historii portalu było nawiązanie współpracy z
 > konferencjami w Polsce i za granicą. W pewnym momencie wpadłem na pomysł, żeby
-> zacząć po prostu zacząć wysyłać maile do organizatorów oferując im “wymianę
-> barterową” - logo na stronie i promocję konferencji w zamian za umieszczenie
-> po prostu zacząć wysyłać maile do organizatorów oferując im “wymianę
-> wejściówkę. Ten model działa do tej pory. Okazało się, że odzew był pozytywny.
+> zacząć wysyłać maile do organizatorów oferując im “wymianę barterową” - logo
+> na stronie i promocję konferencji w zamian za wejściówkę. Ten model działa do
+> tej pory. Okazało się, że odzew był pozytywny.
 
 ### Wywiady
 
@@ -224,8 +224,6 @@ doświadczenia.
 Była nawet jedna osoba, której tak spodobało się udzielanie wywiadu, że
 popełniła recydywę opowiadając o swojej karierze dwukrotnie, na różnych etapach
 kariery. Jeśli chcecie się dowiedzieć, kogo mam na myśli, zapraszamy do
-przejrzenia naszych wywiadów.
-
 przejrzenia naszych [wywiadów](https://techwriter.pl/tags/wywiady).
 
 W 2017 opublikowaliśmy pierwszą ankietę płac. Po dziś dzień cykl ten cieszy się
@@ -243,26 +241,8 @@ duża szansa, że znajdziesz pomocny materiał.
 ### Langłydż - z humorem o języku
 
 Techwriter.pl to nie tylko poważne artykuły branżowe. Dużym powodzeniem cieszy
-się seria Langłydż, w której obserwujemy co śmieszniejsze i kreatywniejsze
-zapożyczenia z angielskiego.
-
-### Gadżety
-
-Techwriter.pl doczekał się nawet gadżetów takich jak:
-
-- Koszulka: "I’m the One Who Docs"
-- Koszulka z logo
-- Kubek
-- Parasolka.
-
-Były to limitowane edycje. Mało kto należy do grona szczęśliwców będących w ich
-posiadaniu. Wiąże się z tym zabawna historia. Kilka lat po tym jak dołączyłem do
-redakcji, podczas konferencji Michał Skowron zagadnął mnie, by przekazać mi
-prawie nieużywaną koszulkę z logo techwriter.pl. W tamtym czasie Michał już
-redakcji, podczas konferencji soap! Michał Skowron zagadnął mnie, by przekazać
-mi koszulkę z logo techwriter.pl. W tamtym czasie Michał już naczelny, więc może
-i odzienie z brandingiem przydałoby mu się 😁. Koszulkę zachowałem, czasem nawet
-zakładam ją na wyjątkowe okazje (ostatnio był to Content Day).
+się seria [Langłydż](https://techwriter.pl/tags/langłydż), w której obserwujemy
+co śmieszniejsze i kreatywniejsze zapożyczenia z angielskiego.
 
 ## Inicjatywy, które narodziły się z pomocą techwriter.pl
 
@@ -275,7 +255,7 @@ w formie osobnych artykułów. Przejdźmy w takim razie do tych przedsięwzięć
 ### ITCQF
 
 Rozwinięcie skrótu: International Technical Communication Qualifications
-Foundation. Twórcami tego projektu byli: Darek Drezno i Marcin Górski. Dzięki
+Foundation. Twórcami tego projektu byli Darek Drezno i Marcin Górski. Dzięki
 ITCQF, społeczność otrzymała sylabus porządkujący wiedzę na temat praktyk w
 branży, o którym przeczytać możecie w
 
@@ -327,9 +307,9 @@ Praca nad portalem zaowocowała dziesiątkami znajomości i przyjaźni w ramach
 szeroko pojętej społeczności technical writerów w kraju i za granicą. Przykład
 na to dostarczył Michał Skowron:
 
-> Pamiętam nawet jak napisałem artykuł, już nie wiem o czym, chyba o Jenkinsie,
+> Pamiętam nawet jak napisałem artykuł, chyba o Jenkinsie,
 > i Paweł Kowaluk zostawił komentarz pod nim pozytywny komentarz. Cieszyłem się
-> niesamowicie. Ja wtedy zaczynałem w branży, nie znaliśmy się a Paweł już wtedy
+> niesamowicie. Ja wtedy zaczynałem w branży, nie znaliśmy się, a Paweł już wtedy
 > był rozpoznawalny w branży.
 
 Po dziś dzień obaj panowie przyjaźnią się i kontynuują tę fantastyczną
@@ -451,11 +431,10 @@ Tak postrzega go Michał Skowron:
 
 > Wszystko zmieniło się na lepsze - liczba ofert pracy, świadomość zawodu, itp.
 > Widać to nawet po tym jak prężnie działają teraz grupy MeetContent (Wrocław) i
-> Content Bytes (Kraków) , udowadniając, że jest potrzeba spotkań, wymiany
-> wiedzy i poczucia przynależności do społeczności. Widać to nawet po tym jak
-> prężnie działają teraz grupy MeetContent (Wrocław) i Content Bytes (Kraków)
+> Content Bytes (Kraków), udowadniając, że jest potrzeba spotkań, wymiany
+> wiedzy i poczucia przynależności do społeczności.
 
-Dane z raportu ITCQF dla Polski z 2022 był taki:
+Dane z raportu ITCQF dla Polski z 2022 były następujące:
 
 ![Raport ITCQF na temat polskiego rynku technical writingowego w 2022, obejmujący liczbę ofert pracy, liczbę firm zatrudniających specjalistów od dokumentacji, liczbę osób na tym stanowisku, itp.](images/raport.png)
 
@@ -508,130 +487,22 @@ nazw stanowisk, co oznacza, że osób w tym zawodzie jest jeszcze więcej.
 
 Parafrazując tytuł ósmego albumu AD/DC:
 
-![Okładka płyty AC/DC przedstawiająca armatę, gdzie słowa "For those about to rock, we salute you" przerobiony na "For those about to DOC, we salute you!".](images/salute.png)
+![Okładka płyty AC/DC przedstawiająca armatę, gdzie słowa "For those about to rock, we salute you" przerobiono na "For those about to DOC, we salute you!".](images/salute.png)
 
 ## Źródła
 
-- 2024:
-  [Wpis Darka na LinkedIn na rocznice techwriter.pl](https://www.linkedin.com/feed/update/urn:li:activity:7109489713899593728/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7109489713899593728%29)
-- 2021:
-  [Wywiad na Youtube z Darkiem Write the Docs (ENG)](https://www.youtube.com/watch?v=QTdlv6KQiEo)
-- 2017: Artykuł Michała Skowrona i
+- [Wpis Darka na LinkedIn na rocznice techwriter.pl z 2024](https://www.linkedin.com/feed/update/urn:li:activity:7109489713899593728/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7109489713899593728%29)
+- [Wywiad na Youtube z Darkiem po angielsku dla Write The Docs z 2021](https://www.youtube.com/watch?v=QTdlv6KQiEo)
+- Artykuł Michała Skowrona i
   [Jakuba Wiśniewskiego](https://www.linkedin.com/in/jakubmwisniewski/) na
   [blogu Toma Johnsona](https://idratherbewriting.com/2017/10/31/untold-story-of-techwriter-pl-poland/)
+  z 2017
 
 ## Dalsza lektura
 
-### Materiały rocznicowe
-
-- 2021: [Wpis na siódme urodziny](../7-urodziny-techwriter-pl/index.md)
-- 2021:
-  [Wywiad na Youtube z Darkiem po angielsku dla Write The Docs](https://www.youtube.com/watch?v=QTdlv6KQiEo)
-- 2017:
-  [Wpis na czwarte urodziny](../od-dzis-wszystkie-szkolenia-z-komunikacji-technicznej-w-jednym-miejscu/index.md)
-- 2016: [Wpis na trzecie urodziny](../pozdrawiamy-z-pragi/index.md)
-- 2014: [Wpis na pierwszy roczek](../to-juz-rok/index.md)
-- 2013: [Pierwszy wpis](../witaj-swiecie/index.md)
-
-### Wywiady
-
-- 2025: [Wywiad 31 - po polsku](../kilka-pytan-do-czesc-31-English/index.md)
-- 2025: [Wywiad 31 - po angielsku](../kilka-pytan-do-czesc-31/index.md)
-- 2024: [Wywiad 30](../kilka-pytan-do-czesc-30-marketing/index.md)
-- 2023: [Wywiad 29](../kilka-pytan-do-czesc-29/index.md)
-- 2023: [Wywiad 28](../kilka-pytan-do-czesc-28/index.md)
-- 2022: [Wywiad 27](../kilka-pytan-do-czesc-27/index.md)
-- 2022: [Wywiad 26](../kilka-pytan-do-czesc-26/index.md)
-- 2021:
-  [Wywiad 25](../kilka-pytan-do-czesc-25-od-tech-writera-do-scrum-mastera/index.md)
-- 2021: [Wywiad 24](../kilka-pytan-do-czesc-24/index.md)
-- 2021: [Wywiad 23](../kilka-pytan-do-czesc-23/index.md)
-- 2021: [Wywiad 22](../kilka-pytan-do-czesc-22/index.md)
-- 2020: [Wywiad 21](../kilka-pytan-do-czesc-21/index.md)
-- 2020: [Wywiad 20](../kilka-pytan-do-czesc-20/index.md)
-- 2020: [Wywiad 19](../kilka-pytan-do-czesc-19/index.md)
-- 2020: [Wywiad 18](../kilka-pytan-do-czesc-18/index.md)
-- 2019: [Wywiad 17](../kilka-pytan-do-czesc-17/index.md)
-- 2018: [Wywiad 16](../kilka-pytan-do-czesc-16/index.md)
-- 2017: [Wywiad 15](../kilka-pytan-do-czesc-15/index.md)
-- 2017: [Wywiad 14](../kilka-pytan-do-czesc-14/index.md)
-- 2017: [Wywiad 13](../kilka-pytan-do-czesc-13/index.md)
-- 2017: [Wywiad 12](../kilka-pytan-do-czesc-12/index.md)
-- 2016: [Wywiad 11](../kilka-pytan-do-czesc-11/index.md)
-- 2016: [Wywiad 10](../kilka-pytan-do-czesc-10/index.md)
-- 2016: [Wywiad 9](../kilka-pytan-do-czesc-9/index.md)
-- 2015: [Wywiad 8](../kilka-pytan-do-czesc-8/index.md)
-- 2015: [Wywiad 7](../kilka-pytan-do-czesc-7/index.md)
-- 2015: [Wywiad 6](../kilka-pytan-do-czesc-6/index.md)
-- 2015: [Wywiad 5](../kilka-pytan-do-czesc-5/index.md)
-- 2015: [Wywiad 4](../kilka-pytan-do-czesc-4/index.md)
-- 2015: [Wywiad 3](../kilka-pytan-do-czesc-3/index.md)
-- 2015: [Wywiad 2](../kilka-pytan-do-czesc-2/index.md)
-- 2015: [Wywiad 1](../kilka-pytan-do-czesc-1/index.md)
-
-### Ankiety płacowe
-
-- 2024:
-  [Wyniki badania płac](../wyniki-badania-plac-w-komunikacji-technicznej-2024/index.mdx)
-- 2023:
-  [Wyniki badania płac](../wyniki-badania-plac-w-komunikacji-technicznej-2023/index.mdx)
-- 2022:
-  [Wyniki badania płac](../wyniki-badania-plac-w-komunikacji-technicznej-2022/index.md)
-- 2021:
-  [Wyniki badania płac](../wyniki-badania-plac-w-komunikacji-technicznej-2021/index.md)
-- 2020:
-  [Wyniki badania płac](../wyniki-badania-plac-w-komunikacji-technicznej-2020/index.md)
-- 2019:
-  [Wyniki badania płac](../wyniki-badania-plac-w-komunikacji-technicznej-2019/index.md)
-- 2018:
-  [Wyniki badania płac](../wyniki-badania-plac-w-komunikacji-technicznej-2018/index.md)
-- 2017:
-  [Wyniki badania płac](../wyniki-badania-plac-w-komunikacji-technicznej/index.md)
-- 2013 [Ile zarabia technical writer?](../ile-zarabia-technical-writer/index.md)
-
-### Relacje z soap!
-
-- 2023:
-  [Relacja z tegorocznej konferencji soap 2023!](../relacja-z-tegorocznej-konferencji-soap-2023/index.md)
-- 2022:
-  [Doniesienia z tegorocznej konferencji Soap 2022!](../doniesienia-z-tegoroczenj-konferencji-soap-2022/index.md)
-- 2019:
-  [Konferencja soap! 2019 - (wideo)relacja](../konferencja-soap-2019-wideorelacja/index.md)
-- 2018:
-  [Konferencja soap! 2018 - relacja](../konferencja-soap-2018-relacja/index.md)
-- 2017:
-  [Soap! 2017 już za nami - relacja](../soap-2017-juz-za-nami-relacja/index.md)
-- 2016:
-  [Konferencja soap! 2016 - podsumowanie](../konferencja-soap-2016-podsumowanie/index.md)
-- 2015: [Namydleni po raz trzeci](../namydleni-po-raz-trzeci/index.md)
-- 2014: [Soap! Just Wants to Have Fun](../soap-just-wants-to-have-fun/index.md)
-- 2014: [soap! 2014 - summary of day 1](../soap-2014-summary-of-day-1/index.md)
-- 2014: [soap! 2014 - summary of day 2](../soap-2014-summary-of-day-2/index.md)
-- 2013:
-  [soap! technical communication conference - relacja](../soap-technical-communication-conference-relacja/index.md)
-
-### Write the Docs
-
-- 2021:
-  [Write the Docs Prague (online)](../relacja-z-konferenecji-write-the-docs-prague-2021/index.md)
-- 2020:
-  [Write the Docs Prague (online)](../relacja-z-write-the-docs-prague-2020-online/index.md)
-- 2019:
-  [Write the Docs Prague](../nasza-relacja-z-write-the-docs-prague-2019/index.md)
-- 2018: [Write the Docs Prague](../write-the-docs-prague-2018-relacja/index.md)
-- 2017: [Write the Docs Prague](../write-the-docs-prague-2017-relacja/index.md)
-- 2016: [Write the Docs Europe](../write-the-docs-europe-2016-relacja/index.md)
-
-### Langłydż
-
-- 2014: [Part ilewen](../langlydz-part-ilewen/index.md)
-- 2014: [Part ten](../langlydz-part-ten/index.md)
-- 2014: [Part najn](../langlydz-part-najn/index.md)
-- 2014: [Part ejt](../langlydz-part-ejt/index.md)
-- 2014: [Part sewen](../langlydz-part-sewen/index.md)
-- 2014: [Part siks](../langlydz-part-siks/index.md)
-- 2014: [Part fajf](../langlydz-part-fajf/index.md)
-- 2014: [Part fołur](../langlydz-part-folur/index.md)
-- 2014: [Part fri](../langlydz-part-fri/index.md)
-- 2013: [Part tu](../langlydz-part-tu/index.md)
-- 2013: [Part łan](../langlydz-part-lan/index.md)
+- Tag z artykułami [rocznicowymi](https://techwriter.pl/tags/rocznice)
+- Tag z [wywiadami](https://techwriter.pl/tags/wywiady)
+- Tag z [wynikami badania płac](https://techwriter.pl/tags/badanie-płac)
+- Tag z relacjami z [soap!](https://techwriter.pl/tags/soap)
+- Tag z relacjami z [Write the Docs](https://techwriter.pl/tags/write-the-docs)
+- Tag z serią [Langłydż](https://techwriter.pl/tags/langłydż)
