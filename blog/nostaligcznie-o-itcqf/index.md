@@ -10,7 +10,7 @@ coverImage: 'nostalgicznie-o-itcqf.png'
 
 [Darek Drezno](https://www.linkedin.com/in/dariusz-drezno/) założył
 techwriter.pl, ITCQF i całe mnóstwo innych fajnych rzeczy. W tym poście Darek
-wspomina jak to było. Zapraszamy do lekkiej i niezobowiązującej lektury.
+dzieli się z nami swoimi wspomnieniami o ITCQF. Zapraszamy na nostalgiczną podróż do przeszłości w formie lekkiej i niezobowiązującej lektury.
 
 <!--truncate-->
 
