@@ -31,7 +31,7 @@ organizatorzy wraz z uczestnikami.
 
 ## Pomysł
 
-Paulina Dygoń pracowała z Gosia Radymiak i Pawłem Kowalukiem w Motoroli. Były
+Paulina Dygoń pracowała z Gosia Radymiak i Pawłem Kowalukiem w jednej firmie. Były
 zmiany w zespole dokumentacyjnym, przejście od DocBook do innego narzędzia,
 które obsługiwało metryki SPRAWDZ. Gosia miała niespełna rok doświadczenia w IBM
 z dita. Zmiana z aprobatą przełożonych.
