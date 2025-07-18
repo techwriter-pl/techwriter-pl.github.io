@@ -7,6 +7,7 @@ tags:
   - 'z-przymrużeniem-oka'
   - 'humor'
   - 'język'
+  - 'langłydż'
 coverImage: 'lekcja3.jpg'
 ---
 

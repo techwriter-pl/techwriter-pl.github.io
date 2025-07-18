@@ -7,6 +7,7 @@ tags:
   - 'z-przymrużeniem-oka'
   - 'humor'
   - 'język'
+  - 'langłydż'
 coverImage: 'Langlydz2.jpg'
 ---
 
