@@ -1,5 +1,5 @@
 ---
-title: '10 rocznica konferencji soap!'
+title: '10 rocznica konferencji Soap'
 authors: niewiarowski
 date: '2025-06-19'
 tags:
@@ -8,7 +8,7 @@ tags:
 coverImage: 'soap_title.jpg'
 ---
 
-Konferencja soap! zajmuje szczególne miejsce w sercach osób żyjących komunikacją
+Konferencja Soap zajmuje szczególne miejsce w sercach osób żyjących komunikacją
 techniczną. Na łamach Techwriter.pl zamieściliśmy wiele relacji z tych wydarzeń.
 Miały one duży wpływ na zawiązanie się społeczności technical writingowej i
 przyczyniły się do przyspieszenia jej rozwoju. Z poniższego jubileuszowego
@@ -17,24 +17,24 @@ artykułu dowiesz się:
 - Skąd wział się pomysł na tę konferencję?
 - O co chodzi z tym mydłem?
 - Co oznaczają litery SOAP?
-- Jak przebiegał rozwój tej inicjatywy?
+- Jak przebiegał rozwój tej inicjatywy i co z niej wyniknęło?
 - Jaki wpływ odcisnęła ona na branżę technical writingu?
 
 <!--truncate-->
 
 ## Od autora
 
-Uczestniczyłem trzy razy w konferencjach soap! w 2019, 2022 i 2023. Za każdym
-razem ubawiłem się przednio, poznawałem wiele ciekawych tematów. Soap słynie z
+Uczestniczyłem trzy razy w konferencjach Soap w 2018, 2022 i 2023. Za każdym
+razem ubawiłem się przednio, poznałem wiele ciekawych tematów. Soap słynie z
 niezwykle przyjaznej atmosfery i charakterystycznego klimatu, który tworzą
 organizatorzy wraz z uczestnikami.
 
 ## Pomysł
 
-Paulina Dygoń pracowała z Gosia Radymiak i Pawłem Kowalukiem w jednej firmie. Były
-zmiany w zespole dokumentacyjnym, przejście od DocBook do innego narzędzia,
+Paulina Dygoń pracowała z Gosia Radymiak i Pawłem Kowalukiem w jednej firmie.
+Były zmiany w zespole dokumentacyjnym, przejście od DocBook do innego narzędzia,
 które obsługiwało metryki SPRAWDZ. Gosia miała niespełna rok doświadczenia w IBM
-z dita. Zmiana z aprobatą przełożonych.
+z DITA. Zmiana z aprobatą przełożonych ?.
 
 > Nie ma szans, ze tylko my spotkalismy sie z tymi problemami, ktos juz to
 > rozgryzl.
@@ -57,7 +57,7 @@ Nie wiadomo było ile technical writerów jest w Polsce. Izolujące doświadczen
 zawodowe. Brak feedbacku. Potrzeba zwiększenia świadomości. Brakowało wiedzy o
 takich kierunkach na studiach.
 
-## Pierwszy soap! - 2013
+## Pierwszy Soap - 2013
 
 ### Przygotowania
 
@@ -97,11 +97,11 @@ doświadczonych speakerów.
 Nie robią wielkiego demo. Dogadywali się. Wtapiali się w tłum. Organizując takie
 spotkanie można dowiedzieć się o innych i o sobie.
 
-### Po pierwszym soap!
+### Po pierwszym Soap
 
-Paulina i Pawel zmeczyli się, planowanie po pracy, brak czasu.
+Paulina i Paweł zmeczyli się, planowanie po pracy, brak czasu.
 
-## Drugi soap! 2014
+## Drugi Soap 2014
 
 Zmiana miejsca z powodu ograniczeń. Zrobili warsztaty.
 [hub:raum](https://www.hubraum.com/)? Plaża? Pawel robił konferansjerkę. Dziura
@@ -152,37 +152,64 @@ DITA
 
 Docs as Code
 
-Content Operations
+Soap 2022 Future of Technical Writing
+
+Soap 2023 Content Operations
+
+
 
 Cos z GenAI
 
-## Nowości
+## Przegląd nowości z wybranych edycji
 
-Soapuszka
+### Soapuszka
 
-Soap Box. Opowiem o doświadczeniu, otwartość i stanie przed wszystkimi.
+Soapuszka z Soap 2022 przekazana przez Roberta Pawlickiego do Soapuszka Crew:
+Magda Elias, Martyna Gatner-Siemieniuch, Joanna Sosnowska, Ekaterina
+Pervezentseva, Marcin Broda. W 2023 roku przekazana Lance'owi Cummingsowi.
 
-Teleturniej
+Soap Box na Soap 2023. Opowiem o doświadczeniu, otwartość i stanie przed
+wszystkimi.
+
+### Teleturniej - S.U.P.E.R G.A.M.E
+
+Soap 2022.
+[Kultowy zwiastun](https://www.linkedin.com/posts/soap-techcomm_excitingnewsalert-supergame-soapconf-activity-6920791703234699264-6mUf)
 
 ## Inicjatywa powiązana - Meet Content
 
 Bo Soap raz w roku to za mało. Rozkręcanie Meetupów. W Brnie odbyły trzy
 meetupy.
 
+Meet Content i Content Bytes. Meet Content nadal istnieje we Wrocławiu. Oddział
+krakowski przestał być aktywny. W Krakowie powstała nowa marka Content Bytes
+założona przez Barbarę Czyż i Edytę Rakowską.
+
 ## Przerwa pandemiczna 2020-2021
 
 Wszystko urwała. Trudny powrót.
 
 Pandemia dużo namieszała. Pazdziernik w plaży wiec przenieśli na czerwiec.
-Czerwiec 2019 najwyższe liczby uczestników. Pandemia - STOP. Ludzie mniej chętni
-do podróży Mniej chetni sponsorzy - którzy radzą sobie inaczej.
+
+Czerwiec 2019 najwyższe liczby uczestników.
+
+Pandemia - STOP. Ludzie mniej chętni do podróży.
+
+Mniej chetni sponsorzy - którzy radzą sobie inaczej.
 
 Co robić, odświeżenie. Utarły się dobre i złe rzeczy.
 
-## soap! po raz 9 - rocznica
+## Soap rocznica
 
 W 2023 roku całej inicjatywie stuknęło 10 lat, pierwsza edycja była w
 październiku 2013.
+
+W październiku 2025 Soap skończy 12 lat!
+
+## Soap w liczbach
+
+Liczba odwiedzających w poszczególnych latach. Liczba prelegentów. Liczba osób,
+które wzięły udział w warsztatach.
 
 ## Przerwa 2024-2025
 
@@ -204,6 +231,11 @@ Gosia Radymiak:
 > miejsce gdzie ludzie się zbierają. Poza Soap ludzie w społeczności cały czas
 > coś robią. Katalizator. Soap jako platforma do spotkań. Reszta zależy od
 > ludzi.
+
+Grupa [soap technical communication](https://www.facebook.com/soapconf) na
+Facebooku liczy 1300 osób.
+
+Grupa na Slack. Czy jeszcze działa?
 
 ## AI
 
@@ -240,29 +272,32 @@ Wybór. Feedback z roku na rok.
 
 ## Dalsza lektura
 
-### Relacje z soap!
+### Relacje z Soap
 
-- 2023:
+- 2023: SOAP 9
   [Relacja z tegorocznej konferencji soap 2023!](../relacja-z-tegorocznej-konferencji-soap-2023/index.md)
-- 2022:
+- 2022: SOAP 8
   [Doniesienia z tegorocznej konferencji Soap 2022!](../doniesienia-z-tegoroczenj-konferencji-soap-2022/index.md)
-- 2019:
-  [Konferencja soap! 2019 - (wideo)relacja](../konferencja-soap-2019-wideorelacja/index.md)
-- 2018:
-  [Konferencja soap! 2018 - relacja](../konferencja-soap-2018-relacja/index.md)
-- 2017:
-  [Soap! 2017 już za nami - relacja](../soap-2017-juz-za-nami-relacja/index.md)
-- 2016:
-  [Konferencja soap! 2016 - podsumowanie](../konferencja-soap-2016-podsumowanie/index.md)
-- 2015: [Namydleni po raz trzeci](../namydleni-po-raz-trzeci/index.md)
-- 2014: [Mydło lubi zabawę](../mydlo-lubi-zabawe/index.md)
-- 2014: [Soap! Just Wants to Have Fun](../soap-just-wants-to-have-fun/index.md)
-- 2014: [soap! 2014 - summary of day 1](../soap-2014-summary-of-day-1/index.md)
-- 2014: [soap! 2014 - summary of day 2](../soap-2014-summary-of-day-2/index.md)
-- 2013:
-  [soap! technical communication conference - relacja](../soap-technical-communication-conference-relacja/index.md)
+- 2019: SOAP 7
+  [Konferencja Soap 2019 - (wideo)relacja](../konferencja-soap-2019-wideorelacja/index.md)
+- 2018: SOAP 6
+  [Konferencja Soap 2018 - relacja](../konferencja-soap-2018-relacja/index.md)
+- 2017: SOAP 5
+  [Soap 2017 już za nami - relacja](../soap-2017-juz-za-nami-relacja/index.md)
+- 2016: SOAP 4
+  [Konferencja Soap 2016 - podsumowanie](../konferencja-soap-2016-podsumowanie/index.md)
+- 2015: SOAP 3 [Namydleni po raz trzeci](../namydleni-po-raz-trzeci/index.md)
+- 2014: SOAP 2 [Mydło lubi zabawę](../mydlo-lubi-zabawe/index.md)
+- 2014: SOAP 2
+  [Soap Just Wants to Have Fun](../soap-just-wants-to-have-fun/index.md)
+- 2014: SOAP 2
+  [Soap 2014 - summary of day 1](../soap-2014-summary-of-day-1/index.md)
+- 2014: SOAP 2
+  [Soap 2014 - summary of day 2](../soap-2014-summary-of-day-2/index.md)
+- 2013: SOAP 1
+  [Soap technical communication conference - relacja](../soap-technical-communication-conference-relacja/index.md)
 
 ### Bonus
 
 - 2022:
-  [soap! technical communication conference - relacja](../konferencje-soap-i-write-the-docs-porownanie-stylow)
+  [Soap technical communication conference - relacja](../konferencje-soap-i-write-the-docs-porownanie-stylow)
