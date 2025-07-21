@@ -10,7 +10,8 @@ coverImage: 'nostalgicznie-o-itcqf.png'
 
 [Darek Drezno](https://www.linkedin.com/in/dariusz-drezno/) założył
 techwriter.pl, ITCQF i całe mnóstwo innych fajnych rzeczy. W tym poście Darek
-dzieli się z nami swoimi wspomnieniami o ITCQF. Zapraszamy na nostalgiczną podróż do przeszłości w formie lekkiej i niezobowiązującej lektury.
+dzieli się z nami swoimi wspomnieniami o ITCQF. Zapraszamy na
+nostalgiczną podróż do przeszłości w formie lekkiej i niezobowiązującej lektury.
 
 <!--truncate-->
 
@@ -49,13 +50,15 @@ jedynym takim kierunkiem w kraju.
 
 ## Czy jest jakaś historia lub anegdota związana z początkami ITCQF (lub innych), którą chciałbyś się podzielić?
 
+![Kubek z logo ITCQF na tle laptopa. W kubku jest pyszna kawa z mlekiem.](./images/itcqf-coffee.jpg)
+
 Z perspektywy lat, najśmieszniejsza jest chyba sama nazwa organizacji. Tworząc
 ją, wydawało nam się, że im bardziej skomplikowana będzie to nazwa tym lepiej. W
 efekcie powstał twór “International Technical Communication Qualifications
 Foundation”, w skrócie ITCQF. Nie było za to problemu z domeną - dziwnym trafem
-nikt wcześniej nie wpadł na to, aby zarejestrować adres
-[itcqf.org](http://itcqf.org) 😊 Spędziłem lata rozwijając ten skrót w trakcie
-przeróżnych spotkań i tłumacząc o co tak naprawdę w tej nazwie chodzi.
+nikt wcześniej nie wpadł na to, aby zarejestrować adres `http://itcqf.org` 😊.
+Spędziłem lata rozwijając ten skrót w trakcie przeróżnych spotkań i tłumacząc o
+co tak naprawdę w tej nazwie chodzi.
 
 ## Jakie wyzwania napotkaliście na początku działalności i jak sobie z nimi poradziliście?
 
@@ -68,6 +71,8 @@ certyfikat ITCQF posiadają tech writerzy m.in. z Hiszpanii, Bułgarii, Izraela,
 Indii czy Skandynawii Zrobiliśmy to dzięki współpracy z partnerami z różnych
 krajów - firmami dostarczającymi egzaminy i szkolenia. Nigdy jednak nie
 osiągnęliśmy takiej skali, o jakiej na początku myśleliśmy…
+
+![Grafika opisana hasłem "ITCQF international presence". Przedstawia mapę świata z zaznaczonymi wieloma punktami w Europie oraz pojedynczymi markerami w Wielkiej Brytanii, Indiach, Australii i Ameryce Północnej.](./images/itcqf-international.png)
 
 ## Jakie są twoje najważniejsze wspomnienia z tamtego okresu?
 
@@ -174,3 +179,5 @@ Nie odradzam i nie zachęcam 🙂
 
 Mam nadzieję, że moje odpowiedzi pokazały przynajmniej część wyzwań, które wiążą
 się z tego typu projektem - wymagającym ale i bardzo rozwijającym!
+
+![Kubek z logo ITCQF. Hasło poniżej logo głosi "Professionals have standards".](./images/itcqf-mug.jpg)
