@@ -21,7 +21,6 @@ najświeższe informacje prosto zza kulis!
 Na stronie CAKE conf znajdziecie już pełną
 [agendę wydarzenia](https://cakeconf.contentbytes.pl/agenda), która pozwoli Wam
 odkryć prezentacje czekajace na Was we wrześniu.
-Wami swoją cenną wiedzą.
 
 ## Poznajcie naszych ekspertów
 
