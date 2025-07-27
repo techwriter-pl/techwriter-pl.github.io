@@ -6,7 +6,7 @@ tags:
   - 'społeczność'
   - 'z-kraju'
   - 'rocznica'
-coverImage: 'techwrite_rocznica.png'
+coverImage: 'Obraz1.png'
 ---
 
 Techwriter.pl - portal, inicjatywa i grupa ludzi, którym bliska jest komunikacja
