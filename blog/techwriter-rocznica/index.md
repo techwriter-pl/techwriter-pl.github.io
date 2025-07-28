@@ -38,7 +38,9 @@ faktach krążyły ustne przekazy i nie wszystko było udokumentowane 😀. Dlat
 postanowiłem porozmawiać z osobami, które tworzyły techwriter.pl na długo przed
 moim dołączeniem.
 
-Przejdźmy do faktów, które udało mi się ustalić.
+Przejdźmy do faktów, które udało mi się ustalić. Współautorem tego artykułu jest
+Michał Skowron, który w wielu miejscach dzieli się tym, co pamięta z historii
+portalu i swoim spojrzeniem na komunikację techniczną.
 
 ## Początki
 
@@ -94,20 +96,21 @@ przepełniał go entuzjazm:
 
 > Włożyłem dużo serducha w techwriter.pl, szczególnie w pierwszych latach jego
 > istnienia, bo po prostu cieszyłem się jak dziecko, które dostało worek
-> słodyczy, że powstał polski portal dla tech writerów 😄
+> słodyczy, że powstał polski portal dla tech writerów 😄.
 
 Po kilku latach aktywnego działania zrobił sobie dłuższą przerwę, podczas której
 razem z [Pawłem Kowalukiem](https://www.linkedin.com/in/pawel-kowaluk/) założył
 i rozwinął podcast "Tech Writer Koduje". W 2023 Darek odszedł na zasłużoną
 emeryturę jako głównodowodzący techwriter.pl i przekazał stery Michałowi
 Skowronowi, Pawłowi Kowalukowi i Tomkowi Prusowi. Tomek po kilku miesiącach
-wycofał się z działalności portalu.
+wycofał się z tej działalności.
 
-[Agnieszka Gaworska](https://www.linkedin.com/in/agnieszka-gaworska-9b77591a4/)
-odegrała istotną rolę w tworzeniu i utrzymywaniu portalu. Oto jak wspomina tę
+Ważną postacią w historii portalu jest
+[Agnieszka Gaworska](https://www.linkedin.com/in/agnieszka-gaworska-9b77591a4/).
+Odegrała ona znaczącą rolę w jego tworzeniu i utrzymywaniu. Oto jak wspomina tę
 inicjatywę i swoją ścieżkę rozwoju w IT:
 
-> Moja współpraca z techwriter.pl zaczęła się przypadkowo w 2015 roku. Darek,
+> Moja współpraca z techwriter.pl zaczęła się w 2015 roku. Darek,
 > współzałożyciel portalu, zaproponował mi drobny udział edytorski, na co
 > chętnie przystałam. Z czasem zaczęłam pisać samodzielne teksty i zajmować się
 > szeroko rozumianą promocją oraz organizacją wpisów. Gdy zaczynałam, byłam
@@ -138,17 +141,17 @@ publikujące artykuły.
 ## Jak wygląda działalność redakcji od kuchni?
 
 Jak już wspomniała Agnieszka, spotykamy się na wideokonferencjach, żeby
-porozmawiać i podzielić się pomysłami na artykuły. Dość sprawnie komunikujemy
-się zdalnie i ustalamy plany na najbliższy czas. Każdy pisze dla przyjemności po
-godzinach, dlatego zrozumiałe jest, że zobowiązania prywatne i zawodowe mają
-priorytet, a na publikację artykułu czasem trzeba zaczekać. Każdy tekst
-sprawdzany jest przez co najmniej jedną parę oczu.
+porozmawiać i podzielić się pomysłami. Dość sprawnie komunikujemy się zdalnie i
+ustalamy plany na najbliższy czas. Każdy pisze dla przyjemności po godzinach,
+dlatego zrozumiałe jest, że zobowiązania prywatne i zawodowe mają priorytet, a
+na publikację artykułu czasem trzeba zaczekać. Każdy tekst sprawdzany jest przez
+co najmniej jedną parę oczu.
 
-W tym miejscu znów przywołujemy Agnieszkę, która od 2015 pełni rolę administratorki i korektorki. Przez jej ręce
-przeszły dziesiątki artykułów i wychwyciła setki literówek. Bywały okresy, gdy
-to Agnieszka najczęściej publikowała nowe treści na stronie. To ona również
-odpowiadała za publikacje na mediach społecznościowych. Dziękujemy jej za
-zaangażowanie 🤝!
+W tym miejscu ponownie przywołujemy Agnieszkę, która od 2015 pełni rolę
+administratorki i korektorki. Przez jej ręce przeszły dziesiątki artykułów i
+wychwyciła setki literówek. Bywały okresy, gdy to Agnieszka najczęściej
+publikowała nowe treści na stronie. To ona również odpowiadała za publikacje na
+mediach społecznościowych. Dziękujemy jej za zaangażowanie 🤝!
 
 A jak wyglądała współpraca z Darkiem? W redakcji, Darek dał się poznać jako
 sprawny organizator, lider, talent manager i po prostu dobry kolega wnoszący
@@ -156,7 +159,7 @@ dużo energii i entuzjazmu 🙂.
 
 Po zmianie kierownictwa, Michał i Paweł angażują się w życie redakcji, chętnie
 dzielą się opiniami i pomysłami na dalszą działalność. Współpraca przebiega w
-przyjaznej i konstruktywnej atmosferze. Czasem panowie ubrudzą sobie ręce przy
+przyjaznej i konstruktywnej atmosferze. Czasem panowie brudzą sobie ręce przy
 pisaniu lub recenzowaniu artykułów 😉.
 
 ## Kalendarium i kolejne kroki w rozwoju
@@ -175,7 +178,7 @@ pierwszą pracę po przeprowadzce do Krakowa.
 Tak temat networkingu podsumowuje sam Michał:
 
 > Dzięki techwriter.pl poznałem masę ludzi, co otworzyło sporo furtek i
-> doprowadziło w późniejszym czasie do różnych sytuacji zawodowych, współpracy,
+> doprowadziło w późniejszym czasie do różnych sytuacji zawodowych, współpracy i
 > projektów.
 
 > Przykładem może być historia jednego kolegi redakcyjnego. Kilka lat temu,
@@ -268,15 +271,15 @@ Dziesiątki osób wzieły udział w kursach przygotowawczych i otrzymały
 certyfikaty. Odbiorcami kursu byli zarówno początkujący technical writerzy jak i
 ci z większym dorobkiem. Kurs też odbyli specjaliści innych dziedzin, np.:
 testerzy czy managerowie projektów. O wrażeniach uczestników dowiecie się z
-[relacji ze szkolenia ITCQF](../szkolenie-itcqf-relacja/index.md)
+[relacji ze szkolenia ITCQF](../szkolenie-itcqf-relacja/index.md).
 
 Fundacja publikowała raporty na temat rynku tech writingowego w różnych krajach.
 W 2025 zakończyła ona swoją działalność, o czym więcej możecie przeczytać
-[tutaj](../koniec-itcqf/index.md)
+[tutaj](../koniec-itcqf/index.md).
 
 ### Studia podyplomowe na Akademii Vistula
 
-Darek w wielu inicjatywach maczał palce. Razem z
+Darek maczał palce w wielu inicjatywach. Razem z
 [Martą Bartnicką](https://www.linkedin.com/in/marta-bartnicka-713969/),
 [Tomaszem Prusem](https://www.linkedin.com/in/tomasz-prus-4b09b01a/) i
 [Danielem Barrio Fierro](https://www.linkedin.com/in/daniel-barrio-fierro-a95053110/)
@@ -322,8 +325,9 @@ szeroko pojętej społeczności technical writerów w kraju i za granicą. Przyk
 na to dostarczył Michał:
 
 > Pamiętam jak napisałem artykuł o Jenkinsie, a Paweł Kowaluk zostawił pod nim
-> pozytywny komentarz. Cieszyłem się niesamowicie. Ja wtedy zaczynałem w branży,
-> nie znaliśmy się, a Paweł już wtedy był rozpoznawalny w branży.
+> pozytywny komentarz. Cieszyłem się niesamowicie. Ja wtedy zaczynałem przygodę
+> z dokumentacją, nie znaliśmy się, a Paweł był już wtedy rozpoznawalny w
+> branży.
 
 Po dziś dzień obaj panowie przyjaźnią się i kontynuują tę fantastyczną
 inicjatywę, dbając nie tylko o rozwój samego portalu, ale także o aktywność
@@ -332,8 +336,7 @@ specjalistom trzymać rękę na pulsie branżowych trendów.
 
 Darek również podkreśla ten aspekt:
 
-> Przede wszystkim, dzięki tej inicjatywie wiele osób poznało się i
-> zaprzyjaźniło.
+> Dzięki tej techwriterowi wiele osób poznało się i zaprzyjaźniło.
 
 ## O co chodzi i dlaczego?
 
@@ -342,74 +345,74 @@ podzielił się swoimi przemyśleniami na ten temat.
 
 **Jakie wartości przyświecają tej inicjatywie?**
 
-- Dzielenie się wiedzą.
-- Budowanie przestrzeni, społeczności dla specjalistów od tworzenia treści, w
-  której będą dobrze się czuć i z którą będą się identyfikować.
-- Gotowość do bezinteresownej pomocy.
+- _Dzielenie się wiedzą._
+- _Budowanie przestrzeni, społeczności dla specjalistów od tworzenia treści, w
+  której będą dobrze się czuć i z którą będą się identyfikować._
+- _Gotowość do bezinteresownej pomocy._
 
 **Dlaczego to robimy?**
 
-Robimy to po to, żeby poznawać nowych ludzi, podtrzymać motywację i ciągle uczyć
-się czegoś nowego. Nie ma lepszego sposobu na naukę niż wyjaśnianie rzeczy
-innym.
+_Robimy to po to, żeby poznawać nowych ludzi, podtrzymać motywację i ciągle
+uczyć się czegoś nowego. Nie ma lepszego sposobu na naukę niż wyjaśnianie rzeczy
+innym._
 
-Współtworzenie takiego portalu internetowego daje:
+_Współtworzenie takiego portalu internetowego daje:_
 
-- Satysfakcję
-- Poczucie dodawania wartości do społeczności
-- Mnóstwo możliwości
-- Świetną zabawę
+- _Satysfakcję_
+- _Poczucie dodawania wartości do społeczności_
+- _Mnóstwo możliwości_
+- _Świetną zabawę_
 
-W efekcie dochodzi do zbliżenia do siebie ludzi z branży tech comm.
+_W efekcie dochodzi do zbliżenia do siebie ludzi z branży tech comm._
 
 **Jakie są wymagania dla osób chcących dzielić się wiedzą?**
 
-Chcemy przekazać wszystkim związanym z komunikacją techniczną, że dokładanie
+_Chcemy przekazać wszystkim związanym z komunikacją techniczną, że dokładanie
 cegiełek do budowania społeczności nie jest trudne i że każdy ma coś ciekawego
 do powiedzenia. Pisanie artykułów na bloga czy nagrywanie podcastów nie jest
-zarezerwowane tylko dla wybrańców, czyli ekspertów, liderów czy menedżerów.
-Twoja wiedza, umiejętności i perspektywa mogą być bardzo pomocne dla kogoś,
-nawet jeśli jesteś na początku swojej kariery w komunikacji technicznej.
+zarezerwowane tylko dla wybrańców, czyli ekspertów, liderów czy managerów. Twoja
+wiedza, umiejętności i perspektywa mogą być bardzo pomocne dla kogoś, nawet
+jeśli jesteś na początku swojej kariery w komunikacji technicznej._
 
 **Dlaczego piszemy głównie po polsku?**
 
-Na świecie istnieje wiele świetnie zorganizowanych, prężnych i profesjonalnych
+_Na świecie istnieje wiele świetnie zorganizowanych, prężnych i profesjonalnych
 konferencji poświęconych komunikacji technicznej. Jest też bez liku blogów i
 stron internetowych — jednak większość z nich jest w języku angielskim. To
 oczywiście fantastyczne, ale założeniem techwriter.pl było budowanie
 społeczności komunikacji technicznej na poziomie lokalnym, właśnie w języku
-polskim.
+polskim._
 
-Celem nie było stworzenie odrębnego źródła ezoterycznej wiedzy technicznej,
+_Celem nie było stworzenie odrębnego źródła ezoterycznej wiedzy technicznej,
 zaszyfrowanej w jednym z najtrudniejszych języków świata. Chcieliśmy stworzyć
 lokalną bramę, która skieruje nowych i doświadczonych polskich twórców
 technicznych do innych wspaniałych źródeł wiedzy i połączy ich z
-międzynarodowymi społecznościami. Jak dotąd, wydaje się, że to działa!
+międzynarodowymi społecznościami. Jak dotąd, wydaje się, że to działa!_
 
 **Co jest wyjątkowego w tej inicjatywie?**
 
-Techwriter.pl pozwala nam opowiadać o tech commie przez pryzmat naszej
+_Techwriter.pl pozwala nam opowiadać o tech commie przez pryzmat naszej
 rzeczywistości, która ma swoje smaczki i jest inna niż ta, którą obserwujemy w
-krajach gdzie tech comm ma długoletnią tradycję.
+krajach gdzie tech comm ma długoletnią tradycję._
 
-Myślę też, że fakt, że portal jest prowadzony przez pasjonatów, którzy na tym
-nie zarabiają i nie mają określonej agendy biznesowej.
+_Wyjątkowe jest też to, że portal jest prowadzony przez pasjonatów, którzy na
+tym nie zarabiają i nie mają określonej agendy biznesowej._
 
-Wiadomo, że każda osoba, która publikuje na naszym portalu buduje w ten sposób
-swoją markę osobistą i zwiększa swoją widoczność w branży, ale głównym celem
-działalności jest dzielenie się wiedzą, a nie promowanie jakiegoś logo czy
-firmy.
+_Każda osoba, która publikuje na naszym portalu buduje w ten sposób swoją markę
+osobistą i zwiększa swoją widoczność w branży, ale głównym celem działalności
+jest dzielenie się wiedzą, a nie promowanie jakiegoś logo czy firmy._
 
 **Z jakimi przeciwnościami musieliśmy się mierzyć?**
 
-Podstawowymi wyzwaniami zawsze były brak czasu i ludzi. Ciężko jest prowadzić
-portal i jednocześnie dostarczać regularnie bogate merytorycznie artykuły.
-Szybkie wpisy o ofertach pracy czy wydarzeniach nie są takim wyzwaniem, jednak
-porządny artykuł wymaga czasu i nakładu pracy. Nie jest też łatwo znaleźć
-większą grupę chętną do udzielania się. Portal jest non-profit, więc artykuły są
-pisane w wolnym czasie i pro bono. Naturalne jest, że po okresie aktywności
-osoby mogą chcieć zacząć inaczej spędzać swój czas wolny albo potrzebują
-zrezygnować z innych powodów.
+_Podstawowymi wyzwaniami zawsze były brak czasu i ludzi. Ciężko jest prowadzić
+portal i regularnie dostarczać bogate merytorycznie artykuły. Szybkie wpisy o
+ofertach pracy czy wydarzeniach nie są takim wyzwaniem, jednak porządny artykuł
+wymaga czasu i nakładu pracy._
+
+_Nie łatwo znaleźć grupę chętną do udzielania się. Portal nie jest nastawiony na
+zysk finansowy, artykuły są pisane w wolnym czasie i pro bono. Naturalne jest,
+że po okresie aktywności osoby mogą chcieć zacząć inaczej spędzać swój czas
+wolny albo potrzebują zrezygnować z innych powodów._
 
 ## Opinia czytelnika
 
@@ -449,7 +452,7 @@ Dane z raportu ITCQF dla Polski z 2022 były następujące:
 
 Liczba osób identyfikująca się zawodowo jako "technical writer" znacznie się
 zwiększyła od 2013. Warto zwrócić uwagę, że w raporcie nie uwzględniono innych
-nazw stanowisk, co oznacza, że osób w tym zawodzie było więcej niż 2200.
+określeń stanowisk, co oznacza, że w tym zawodzie było więcej niż te 2200 osób.
 
 ## Techwriter.pl - wydarzenia z okresu 2023-2025
 
@@ -465,7 +468,7 @@ blogiem stała się dynamiczna i przyjemna.
 
 Pojawiło się więcej artykułów po angielsku.
 
-Jest teraz jedna strona z ofertami pracy, które można umieszczać tam
+Wprowadziliśmy centralną stronę z ofertami pracy. Możecie umieścić taką ofertę
 nieodpłatnie.
 
 Powstały sekcje z linkami do przydatnych materiałów i odświeżyliśmy sposób
@@ -490,12 +493,13 @@ ilustratorów technicznych.
 ## Zakończenie od autora
 
 W techwriter.pl dostałem dużo swobody twórczej jeśli chodzi o artykuły, które
-piszę. Sprawia mi ogromną frajdę, że mogę dzielić się spostrzeżeniami i wiedzą.
-Przy okazji szlifuję pisany język polski, który do prostych nie należy 😉.
+piszę. Sprawia mi ogromną frajdę, że mogę dzielić się spostrzeżeniami, wiedzą i
+moim, często specyficznym, poczuciem humoru. Przy okazji szlifuję pisany język
+polski, który do prostych nie należy 😉.
 
-Miałem też okazję uczestniczyć w ciekawych wydarzeniach i konferencjach, również
-jako wykładowca. W redakcji poznałem sympatycznych, kreatywnych i pomocnych
-ludzi.
+Dostałem możliwość uczestniczenia w ciekawych wydarzeniach i konferencjach,
+również jako wykładowca. W redakcji poznałem sympatycznych, kreatywnych i
+pomocnych ludzi.
 
 Uważam, że należy docenić to, co w komunikacji technicznej wszyscy razem
 osiągnęliśmy. Z optymizmem patrzę na dalszy rozwój naszej branży i życzę Wam w
@@ -505,12 +509,16 @@ Parafrazując tytuł ósmego albumu AD/DC:
 
 ![Okładka płyty AC/DC przedstawiająca armatę, gdzie słowa "For those about to rock, we salute you" przerobiono na "For those about to DOC, we salute you!".](images/salute.png)
 
-[Źródło](https://www.discogs.com/release/2055214-ACDC-For-Those-About-To-Rock-We-Salute-You) obrazka.
+[Źródło](https://www.discogs.com/release/2055214-ACDC-For-Those-About-To-Rock-We-Salute-You)
+obrazka.
 
 ## Źródła
 
-- Wpis Darka na [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7109489713899593728/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7109489713899593728%29) na rocznicę techwriter.pl w 2024
-- Wywiad na [Youtube](https://www.youtube.com/watch?v=QTdlv6KQiEo) z Darkiem po angielsku dla Write The Docs z 2021
+- Wpis Darka na
+  [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7109489713899593728/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7109489713899593728%29)
+  na rocznicę techwriter.pl w 2024
+- Wywiad na [Youtube](https://www.youtube.com/watch?v=QTdlv6KQiEo) z Darkiem po
+  angielsku dla Write The Docs z 2021
 - Artykuł Michała Skowrona i
   [Jakuba Wiśniewskiego](https://www.linkedin.com/in/jakubmwisniewski/) na
   [blogu Toma Johnsona](https://idratherbewriting.com/2017/10/31/untold-story-of-techwriter-pl-poland/)
