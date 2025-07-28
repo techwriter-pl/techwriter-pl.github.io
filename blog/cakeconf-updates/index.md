@@ -25,7 +25,7 @@ odkryć prezentacje czekajace na Was we wrześniu.
 ## Poznajcie naszych ekspertów
 
 Na naszej stronie dostępna jest również
-[kompletna lista wszystkich osób](https://cakeconf.contentbytes.pl/speaker),
+[kompletna lista wszystkich osób](https://cakeconf.contentbytes.pl/speakers),
 które wystąpią na CAKE conf. Możecie już powoli szykować pytania do naszych
 ekspertów :)
 
