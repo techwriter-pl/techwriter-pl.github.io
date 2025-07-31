@@ -9,8 +9,8 @@ tags:
 coverImage: 'Obraz1.png'
 ---
 
-Techwriter.pl - portal, inicjatywa i grupa ludzi, którym bliska jest komunikacja
-techniczna - istnieje już od ponad dekady. W tym artykule opisujemy:
+Techwriter.pl — portal, inicjatywa i grupa ludzi, którym bliska jest komunikacja
+techniczna — istnieje już od ponad dekady. W tym artykule opisujemy:
 
 - Początki
 - Rozwój inicjatywy
@@ -114,7 +114,7 @@ inicjatywę i swoją ścieżkę rozwoju w IT:
 > współzałożyciel portalu, zaproponował mi drobny udział edytorski, na co
 > chętnie przystałam. Z czasem zaczęłam pisać samodzielne teksty i zajmować się
 > szeroko rozumianą promocją oraz organizacją wpisów. Gdy zaczynałam, byłam
-> zielona jeśli chodzi o dokumentację techniczną, ale z czasem na tyle się
+> zielona, jeśli chodzi o dokumentację techniczną, ale z czasem na tyle się
 > wdrożyłam, że nawet uzyskałam certyfikat ITCQF.
 
 > Przez te dziesięć lat portal zmieniał skład, a także ewoluował pod względem
@@ -168,7 +168,7 @@ Przyjrzyjmy się istotnym momentom z historii techwriter.pl.
 
 ### Oferty pracy
 
-W początkowej fazie rozwoju portalu, największa popularnością cieszyły się
+W początkowej fazie rozwoju portalu, największą popularnością cieszyły się
 zamieszczane oferty pracy. W dalszym ciągu naszą misją jest łączyć osoby
 poszukujące pracy z pracodawcami. Techwriter.pl sprzyja też networkingowi.
 Najlepszym tego przykładem jest Michał Skowron, który dzięki uczestniczeniu w
@@ -178,7 +178,7 @@ pierwszą pracę po przeprowadzce do Krakowa.
 Tak temat networkingu podsumowuje sam Michał:
 
 > Dzięki techwriter.pl poznałem masę ludzi, co otworzyło sporo furtek i
-> doprowadziło w późniejszym czasie do różnych sytuacji zawodowych, współpracy i
+> doprowadziło w późniejszym czasie do wielu sytuacji zawodowych, współpracy i
 > projektów.
 
 > Przykładem może być historia jednego kolegi redakcyjnego. Kilka lat temu,
@@ -233,10 +233,10 @@ przejrzenia naszych [wywiadów](https://techwriter.pl/tags/wywiady).
 ### Ankieta płac
 
 W 2017 opublikowaliśmy pierwszą ankietę płac. To nasz flagowy cykl, który cieszy
-się sporą popularnością. Choć liczba respondentów nie przekroczyła 133 osób,
-ankieta daje obraz ewolucji płac osób związanych z technical writingiem.
-Dokładamy starań, by rozwijać ankietę i dostosowywać ją do zmieniającego się
-krajobrazu rynku pracy.
+się popularnością. Choć liczba respondentów nie przekroczyła 133 osób, ankieta
+daje obraz ewolucji płac osób związanych z technical writingiem. Dokładamy
+starań, by rozwijać ankietę i dostosowywać ją do zmieniającego się krajobrazu
+rynku pracy.
 
 ### Artykuły o narzędziach
 
@@ -267,7 +267,7 @@ ITCQF, społeczność otrzymała sylabus porządkujący wiedzę na temat praktyk
 branży, o którym przeczytać możecie we wpisie o
 [perłach z sylabusa](../perly-z-sylabusa-itcqf/index.md).
 
-Dziesiątki osób wzieły udział w kursach przygotowawczych i otrzymały
+Dziesiątki osób wzięły udział w kursach przygotowawczych i otrzymały
 certyfikaty. Odbiorcami kursu byli zarówno początkujący technical writerzy jak i
 ci z większym dorobkiem. Kurs też odbyli specjaliści innych dziedzin, np.:
 testerzy czy managerowie projektów. O wrażeniach uczestników dowiecie się z
@@ -305,7 +305,7 @@ grupy się przenikają i wpływają na siebie.
 
 - Grupa
   [Tworzenie Dokumentacji](https://www.facebook.com/groups/342747819400007) na
-  Facebook liczy ponad 1000 osób.
+  Facebooku liczy ponad 1000 osób.
 - 800 osób śledzi aktualizacje publikowane przez
   [techwriter.pl](https://www.linkedin.com/company/techwriter-pl/posts/?feedView=all)
   na LinkedIn.
@@ -321,10 +321,15 @@ technicznych.
 ### Przyjaźnie
 
 Praca nad portalem zaowocowała dziesiątkami znajomości i przyjaźni w ramach
-szeroko pojętej społeczności technical writerów w kraju i za granicą. Przykład
-na to dostarczył Michał:
+szeroko pojętej społeczności technical writerów w kraju i za granicą.
 
-> Pamiętam jak napisałem artykuł o Jenkinsie, a Paweł Kowaluk zostawił pod nim
+Darek potwierdza, że to ważny aspekt:
+
+> Dzięki tej techwriterowi wiele osób poznało się i zaprzyjaźniło.
+
+Michał podzielił się własnym przykładem znajomości:
+
+> Pamiętam, jak napisałem artykuł o Jenkinsie, a Paweł Kowaluk zostawił pod nim
 > pozytywny komentarz. Cieszyłem się niesamowicie. Ja wtedy zaczynałem przygodę
 > z dokumentacją, nie znaliśmy się, a Paweł był już wtedy rozpoznawalny w
 > branży.
@@ -333,10 +338,6 @@ Po dziś dzień obaj panowie przyjaźnią się i kontynuują tę fantastyczną
 inicjatywę, dbając nie tylko o rozwój samego portalu, ale także o aktywność
 społeczności. Regularnie dzielą się nowinkami ze świata tech writingu i pomagają
 specjalistom trzymać rękę na pulsie branżowych trendów.
-
-Darek również podkreśla ten aspekt:
-
-> Dzięki tej techwriterowi wiele osób poznało się i zaprzyjaźniło.
 
 ## O co chodzi i dlaczego?
 
@@ -393,7 +394,7 @@ międzynarodowymi społecznościami. Jak dotąd, wydaje się, że to działa!_
 
 _Techwriter.pl pozwala nam opowiadać o tech commie przez pryzmat naszej
 rzeczywistości, która ma swoje smaczki i jest inna niż ta, którą obserwujemy w
-krajach gdzie tech comm ma długoletnią tradycję._
+krajach, gdzie tech comm ma długoletnią tradycję._
 
 _Wyjątkowe jest też to, że portal jest prowadzony przez pasjonatów, którzy na
 tym nie zarabiają i nie mają określonej agendy biznesowej._
@@ -402,14 +403,14 @@ _Każda osoba, która publikuje na naszym portalu buduje w ten sposób swoją ma
 osobistą i zwiększa swoją widoczność w branży, ale głównym celem działalności
 jest dzielenie się wiedzą, a nie promowanie jakiegoś logo czy firmy._
 
-**Z jakimi przeciwnościami musieliśmy się mierzyć?**
+**Z jakimi przeciwnościami musimy się mierzyć?**
 
-_Podstawowymi wyzwaniami zawsze były brak czasu i ludzi. Ciężko jest prowadzić
+_Podstawowymi wyzwaniami zawsze są brak czasu i ludzi. Ciężko jest prowadzić
 portal i regularnie dostarczać bogate merytorycznie artykuły. Szybkie wpisy o
-ofertach pracy czy wydarzeniach nie są takim wyzwaniem, jednak porządny artykuł
-wymaga czasu i nakładu pracy._
+ofertach pracy czy wydarzeniach nie są problemem, jednak porządny artykuł wymaga
+czasu i nakładu pracy._
 
-_Nie łatwo znaleźć grupę chętną do udzielania się. Portal nie jest nastawiony na
+_Niełatwo znaleźć grupę chętną do udzielania się. Portal nie jest nastawiony na
 zysk finansowy, artykuły są pisane w wolnym czasie i pro bono. Naturalne jest,
 że po okresie aktywności osoby mogą chcieć zacząć inaczej spędzać swój czas
 wolny albo potrzebują zrezygnować z innych powodów._
@@ -419,14 +420,14 @@ wolny albo potrzebują zrezygnować z innych powodów._
 [Mateusz Borycki](https://www.linkedin.com/in/mateusz-borycki-2817a6186/)
 podzielił się z nami swoją perspektywą:
 
-> Czytelnikiem portalu techwriter.pl jestem już od ponad 5 lat. Wtedy, jako
+> Czytelnikiem portalu techwriter.pl jestem już od ponad 5 lat. Wtedy jako
 > student 4 roku, nieco przypadkiem, stałem się odpowiedzialny za komunikację
 > techniczną w firmie, w której odbywałem staż. To było pierwsze zetknięcie się
 > ze światem techcommu w mych dziejach. Techwriter.pl był dla mnie jednym z
 > niewielu miejsc w polskim internecie, gdzie mogłem dowiedzieć się cokolwiek o
 > branży jak i o samej roli technical writera.
 
-> Moim ulubionym działem stały się rozmowy z innymi technical writerami czyli
+> Moim ulubionym działem stały się rozmowy z innymi technical writerami, czyli
 > seria “Kilka pytań do”. Czytanie i czerpanie inspiracji z dzielenia się
 > doświadczeniami było niesamowicie cenne dla żółtodzioba, którym byłem wtedy.
 
@@ -441,7 +442,7 @@ pracy. Jak wygląda ten rynek w 2025 roku?
 
 Tak postrzega go Michał:
 
-> Wszystko zmieniło się na lepsze - liczba ofert pracy, świadomość zawodu, itp.
+> Wszystko zmieniło się na lepsze — liczba ofert pracy, świadomość zawodu, itp.
 > Widać to nawet po tym jak prężnie działają teraz grupy MeetContent (Wrocław) i
 > Content Bytes (Kraków), udowadniając, że jest potrzeba spotkań, wymiany wiedzy
 > i poczucia przynależności do społeczności.
@@ -450,11 +451,12 @@ Dane z raportu ITCQF dla Polski z 2022 były następujące:
 
 ![Raport ITCQF na temat polskiego rynku technical writingowego w 2022, obejmujący liczbę ofert pracy, liczbę firm zatrudniających specjalistów od dokumentacji, liczbę osób na tym stanowisku, itp.](images/raport.png)
 
-Liczba osób identyfikująca się zawodowo jako "technical writer" znacznie się
-zwiększyła od 2013. Warto zwrócić uwagę, że w raporcie nie uwzględniono innych
-określeń stanowisk, co oznacza, że w tym zawodzie było więcej niż te 2200 osób.
+W porównaniu z sytuacją z 2013, liczba osób identyfikująca się zawodowo jako
+"technical writer" znacznie się zwiększyła. Warto zwrócić uwagę, że w raporcie
+nie uwzględniono innych określeń stanowiska, co oznacza, że w tym zawodzie było
+więcej niż te 2200 osób.
 
-## Techwriter.pl - wydarzenia z okresu 2023-2025
+## Techwriter.pl — wydarzenia z okresu 2023-2025
 
 Podsumujmy kluczowe zdarzenia z ostatniego okresu.
 
@@ -492,7 +494,7 @@ ilustratorów technicznych.
 
 ## Zakończenie od autora
 
-W techwriter.pl dostałem dużo swobody twórczej jeśli chodzi o artykuły, które
+W techwriter.pl dostałem dużo swobody twórczej, jeśli chodzi o artykuły, które
 piszę. Sprawia mi ogromną frajdę, że mogę dzielić się spostrzeżeniami, wiedzą i
 moim, często specyficznym, poczuciem humoru. Przy okazji szlifuję pisany język
 polski, który do prostych nie należy 😉.
