@@ -454,9 +454,9 @@ Najistotniejsze kwestie będą oznaczone tak:
 
 ![](images/alert.png)
 
-Większe części interfejsu są zaznaczone **wytłuszczoną** czcionką, opcje -
-znakami ``, a komendy widoczne po kliknięciu prawym przyciskiem i w menu Edit,
-Image są zapisane *kursywą.*
+Większe części interfejsu są zaznaczone **wytłuszczoną** czcionką, opcje i
+komendy widoczne po kliknięciu prawym przyciskiem i w menu Edit, Image są
+zapisane `w ten sposób`.
 
 Może zaadaptujesz te sposoby do swojego kontekstu albo zainspirują Cię do
 znalezienia własnych, pomocnych w Twojej branży trików. Po przebrnięciu przez
@@ -511,12 +511,12 @@ obiektami, takimi jak podkreślenia, podpisy, rysowane kształty to, oprócz zap
 do wybranego formatu graficznego (np.: \*.png), należy też zapisywać kopie w
 formacie \*.snag. Pozwoli to na późniejszą edycję i przesuwanie obiektów na
 obrazie. W razie zapisu tylko do \*.png, po następnym otwarciu aplikacji obraz
-będzie `spłaszczony` i nie będzie już w nim osobnych, edytowalnych obiektów.
+będzie "spłaszczony" i nie będzie już w nim osobnych, edytowalnych obiektów.
 Ponieważ czasem nie da się przewidzieć, do którego obrazu będziesz wielokrotnie
 wracać, by nanosić poprawki, stanowczo zalecam zapisywanie do \*.snag. W ten
 sposób masz plik projektowy, który możesz później dostosować. Jeśli na wspólnych
 projektach pracuje kilku tech writerów, warto stworzyć współdzieloną lokalizację
-"Image_Bank"` ze strukturą folderów tematycznych umożliwiającą łatwe
+"Image_Bank" ze strukturą folderów tematycznych umożliwiającą łatwe
 wyszukiwanie stworzonych wcześniej obrazów. Dzięki temu, można bezkarnie
 wykorzystywać części istniejących już ilustracji innych autorów (zwłaszcza mam
 tu na myśli schematy z linii i kształtów). Pozwoli to wykorzystać przydatne
@@ -560,10 +560,10 @@ Podstawowy proces użycia wygląda tak:
    kombinacji przycisków). Można też kliknąć czerwony przycisk **Capture**.
 2. Wybór interesującego Cię obszaru.
 3. Ewentualna korekta zaznaczenia, wybór odpowiedniego trybu i zatwierdzenie.
-   **Jeden sposób** to kliknięcie i przeciągnięcie ramki zaznaczenia. **Drugi**
+   Jeden sposób to kliknięcie i przeciągnięcie ramki zaznaczenia. Drugi
    to nakierowanie kursora na interesujące okno, panel czy przycisk. Snagit
    zasugeruje rozpoznane obszary, które zatwierdzisz pojedynczym kliknięciem.
-   **Możesz też** kliknąć przycisk **Fullscreen** na górze ekranu.
+   Możesz też kliknąć przycisk **Fullscreen** na górze ekranu.
 4. Natychmiastowa edycja obrazu w połączeniu z rysowaniem i efektami; przycięcie
    filmu.
 5. Udostępnienie obrazu/filmu, zapis do wybranego formatu i \*.snag.
@@ -665,7 +665,7 @@ zupełności wystarcza, by wywołać sytuację, którą chcesz uwiecznić.
 Powyższe cztery opcje-przełączniki są w stanie obsłużyć lwią cześć sytuacji.
 
 ![](images/deskorolka.png)Żeby dostać się do dwóch ukrytych opcji, kliknij znak
-**\>** (zaznaczony na czerwono na obrazku powyżej). Znajdziesz dodatkowe opcje.
+`>` (zaznaczony na czerwono na obrazku powyżej). Znajdziesz dodatkowe opcje.
 
 Domyślnie, **All-in-One** daje możliwość ręcznego zaznaczenia, wyboru
 automatycznie rozpoznanego obszaru lub rejestrację pełnego ekranu. Drop-down
@@ -694,7 +694,7 @@ włączyć natychmiastowe udostępnianie. Można udostępniać do kilku miejsc n
 
 ![](images/speaker.png)Można wyłączyć wszystkie główne opcje-przełączniki
 (`preview`, `clipboard`, `cursor`, `delay`) i włączyć udostępnianie do chmury,
-np.: OneDrive. Ponieważ jest to **All-In-One** to krok **3.** będzie występował,
+np.: OneDrive. Ponieważ jest to **All-In-One** to krok 3. będzie występował,
 a po nim plik \*.snag zostanie zapisany na udziale w wybranym miejscu.
 
 Po tych wszystkich kombinacjach, możesz wrócić do domyślnych ustawień klikając
@@ -859,16 +859,14 @@ komunikatorze i wciśnięcie skrótu jest najszybszą drogą, by to osiągnąć.
 
 ![](images/sharefile.png)
 
-Klikając koło zębate wybierzesz format dla pliku, który
-zapisany zostanie w katalogu, który ustawisz (najlepiej nazwany tak jak
-projekt).
+Klikając koło zębate wybierzesz format dla pliku, który zapisany zostanie w
+katalogu, który ustawisz (najlepiej nazwany tak jak projekt).
 
 ![](images/autoname.png)
 
-Co więcej, możesz ustawić automatyczną nazwę dla
-zapisywanego pliku np.: nazwa_projektu_001 itp. Nazwa też składać się może z
-przedrostka, zarostka, daty, godziny, miesiąca, dnia tygodnia, nazwy użytkownika
-itp.
+Co więcej, możesz ustawić automatyczną nazwę dla zapisywanego pliku np.:
+nazwa_projektu_001 itp. Nazwa też składać się może z przedrostka, zarostka,
+daty, godziny, miesiąca, dnia tygodnia, nazwy użytkownika itp.
 
 Podsumowując: po wciśnięciu kombinacji klawiszy obraz z wybranego monitora może
 zostać zapisany z automatyczną nazwą i liczbą porządkową do odpowiedniego
@@ -1224,10 +1222,14 @@ kolejność.
 
 ##### Steps, Stamps
 
-![](images/coins.png)Genialne narzędzie do szybkiego dodawania numerowanych
+![](images/coins.png)
+
+Genialne narzędzie do szybkiego dodawania numerowanych
 kroków. Możesz dostosować ich przezroczystość.
 
-![](images/stamp.png)Niezastąpione narzędzie do dodawania szybkich ikon takich
+![](images/stamp.png)
+
+Niezastąpione narzędzie do dodawania szybkich ikon takich
 jak krzyżyk, owalne zakreślenie, kursory i setki innych. Można dostosować w nim
 cień i przezroczystość.
 
@@ -1238,7 +1240,9 @@ kliknięciu `Organize Stamps`.
 
 ##### Capture Info
 
-![](images/info.png)Służy do dodawania ramki z informacjami takimi jak: data,
+![](images/info.png)
+
+Służy do dodawania ramki z informacjami takimi jak: data,
 godzina, aplikacja, system operacyjny. Można też dodać dowolny tekst, np. nazwę
 projektu. **Capture Info** figuruje jako narzędzie w edytorze i również jako
 dostępny efekt dla presetów na bazie zakładki **Image**.
@@ -1271,8 +1275,8 @@ np.: bardziej zaawansowany edytor graficzny.
 W **Library** możesz przeglądać zrobione screen shoty i filmy rozwijając
 rozmaite kategorie.
 
-![](images/deskorolka.png)Pamiętaj, że rozwijając kategorię taką jak
-"zdjęcia z całego roku" załadowanie takiej liczby obrazów może chwilę zająć.
+![](images/deskorolka.png)Pamiętaj, że rozwijając kategorię taką jak "zdjęcia z
+całego roku" załadowanie takiej liczby obrazów może chwilę zająć.
 
 ![](images/details.png)
 
