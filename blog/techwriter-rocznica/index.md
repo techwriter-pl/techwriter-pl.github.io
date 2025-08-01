@@ -157,6 +157,11 @@ A jak wyglądała współpraca z Darkiem? W redakcji, Darek dał się poznać ja
 sprawny organizator, lider, talent manager i po prostu dobry kolega wnoszący
 dużo energii i entuzjazmu 🙂.
 
+![Zdjęcie ze wideospotkania z Darkiem, Agnieszką, Andrzejem i Martyną.](./images/redakcja.jpg)
+
+**Zdjęcie z wirtualnego spotkania redakcyjnego. Od góry i od lewej: Darek
+Drezno, Martyna Toporek, Andrzej Niewiarowski, Agnieszka Gaworska.**
+
 Po zmianie kierownictwa, Michał i Paweł angażują się w życie redakcji, chętnie
 dzielą się opiniami i pomysłami na dalszą działalność. Współpraca przebiega w
 przyjaznej i konstruktywnej atmosferze. Czasem panowie brudzą sobie ręce przy
@@ -298,6 +303,12 @@ przyczynił się do stworzenia kursu na Akademii Vistula, a później dwie
 absolwentki kursu zasiliły szeregi redakcji:
 [Justyna Kula](https://www.linkedin.com/in/justyna-kula-5778a391/) i
 [Magda Niedźwiecka-Pruszkowska](https://www.linkedin.com/in/magdaniedzwiecka/).
+
+![Zdjęcie ze wideospotkania z Justyną i Magdą.](./images/justyna_magda.jpg)
+
+**Zdjęcie z spotkania redakcyjnego: Magda
+Niedźwiecka-Pruszkowska i Justyna Kula.**
+
 Pokazuje to, jak połączone potrafią być różne inicjatywy i jak poszczególne
 grupy się przenikają i wpływają na siebie.
 
