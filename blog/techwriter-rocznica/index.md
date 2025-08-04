@@ -91,8 +91,36 @@ Pierwszymi osobami, które dołączyły do portalu były:
 [Sabina Szablowska](https://www.linkedin.com/in/sabina-sz/) i
 [Michał Skowron](https://www.linkedin.com/in/michalskowron/).
 
-Michał we wczesnych fazach rozwoju techwriter.pl był bardzo aktywny i
-przepełniał go entuzjazm:
+Sabina była jedną z pierwszych osób, które na prośbę Darka, które zaczęły pisać
+artykuły. Jak do tego doszło? Przekazuję mikrofon Sabinie:
+
+> W 2011 Darek zrekrutował mnie do swojego zespołu jako technical writerkę. Był
+> on wtedy szefem działu Zapewnienia Jakości. Dołączyłam do firmy i dopiero
+> poznawałam na czym komunikacja techniczna polega. Po wdrożeniu się i odkryciu,
+> że dobrze się odnajduję w tej roli, w 2013 rozpoczęłam pracę nad portalem. W
+> styczniu 2014 opublikowałam pierwszą relację z konferencji.
+
+> Bardzo dobrze wspominam pisanie, lubiłam to robić i dawało mi to powody do
+> dumy. Działalność w redakcji dobrze punktowała w późniejszych rozmowach
+> rekrutacyjnych. Dodam tutaj, że w mojej dalszej karierze zebrałam
+> doświadczenie w kilku kolejnych firmach, najpierw jako jedyna technical
+> writera w zespole, następnie jako liderka zespołu dokumentacji. Sporą
+> satysfakcję sprawia mi wprowadzanie nowych osób w świat komunikacji
+> technicznej. Wciąż świadomość tego zawodu poza kręgami technical writerów nie
+> jest wysoka i z przyjemnością pomagam nowym osobom stawiać pierwsze kroki.
+
+> Wracając do samego techwriter.pl, to po przygotowaniu serii artykułow zrobiłam
+> pauzę w tej działalności. Kto wie, może za jakiś czas skontaktuję się z
+> redakcją z nowym materiałem do wydania 🙂.
+
+> Bardzo cieszy mnie, że portal wciąż funkcjonuje, znam Michała i Pawła, którzy
+> zawsze mają dużo pomysłów i energii do różnych inicjatyw. Ciekawostką jest to,
+> że był moment mojej karierze, że Paweł był moim szefem. Pozdrawiam Was i całą
+> redakcję serdecznie!
+
+Kolejnym działaczem o którym opowiemy jest Michał, który we wczesnych fazach
+rozwoju techwriter.pl był bardzo aktywny. Posłuchajcie jaki przepełniał go
+entuzjazm:
 
 > Włożyłem dużo serducha w techwriter.pl, szczególnie w pierwszych latach jego
 > istnienia, bo po prostu cieszyłem się jak dziecko, które dostało worek
@@ -306,8 +334,8 @@ absolwentki kursu zasiliły szeregi redakcji:
 
 ![Zdjęcie ze wideospotkania z Justyną i Magdą.](./images/justyna_magda.jpg)
 
-**Zdjęcie z spotkania redakcyjnego: Magda
-Niedźwiecka-Pruszkowska i Justyna Kula.**
+**Zdjęcie z spotkania redakcyjnego: Magda Niedźwiecka-Pruszkowska i Justyna
+Kula.**
 
 Pokazuje to, jak połączone potrafią być różne inicjatywy i jak poszczególne
 grupy się przenikają i wpływają na siebie.
