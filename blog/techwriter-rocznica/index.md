@@ -1,7 +1,7 @@
 ---
 title: 'Zbliża się 12 rocznica techwriter.pl'
 authors: niewiarowski
-date: '2025-06-19'
+date: '2025-09-18'
 tags:
   - 'społeczność'
   - 'z-kraju'
@@ -77,9 +77,9 @@ coś podobnego, ale dla technical writerów.
 
 ### Pierwsze wpisy i wiek portalu
 
-Darek dodał [powitalny wpis](../witaj-swiecie/index.md) 18.09.2013. I tak to się
-wszystko zaczęło! Następnie opublikował pierwszy merytoryczny artykuł, którym
-była
+Darek dodał [powitalny wpis](../witaj-swiecie/index.md) 18 września 2013. I tak
+to się wszystko zaczęło! Następnie opublikował pierwszy merytoryczny artykuł,
+którym była
 [relacja z pierwszej odsłony Soap](../soap-technical-communication-conference-relacja/index.md).
 Wynika z tego, że w 2023 portal skończył 10 lat, a we wrześniu 2025 skończy 12
 👍🥳🎉. To należy uczcić!
