@@ -161,7 +161,7 @@ Technical writer ma przygotować instrukcje do obsługi automatycznego defibryla
 
 Co wybrać i dlaczego? Forma wizualna jest bardziej przydatna zwłaszcza w branżach, gdzie liczy się czas reakcji, bezpieczeństwo albo szybkie wdrożenie. Wizualna instrukcja bedzie najtrafniejszym wyborem ponieważ ma pomóc ratownikowi lub osobie pomagającej,szybciej przyswoić informacje, w tym przypadku nie ma czasu na wątpliwości, liczy się szybka reakcja, nawet w stresie! 
 
-![IDklienta](umiejetnosci-miekkie/images/IDklienta.png)
+![IDklienta](images/IDklienta.png)
 
 Ponadto przy instrukcji wizualnej skraca się czas potrzebny na zrozumienie procedury i zmniejsza się ryzyko popełnienia błędów, sam opis **Przyklej elektrody na klatce piersiowej** może budzić pewne wątpliwości, dlatego dodanie grafiki może okazać się kluczowe.
 
@@ -186,7 +186,7 @@ Podczas tworzenia dokumentacji technical writer zauważa, że część użytkown
 Zamiast tylko wymienić to pole w instrukcji, można dodać kontekst, gdzie znaleźć ID klienta (numer klienta znajdziesz w oddzielnym email, składa się on z 6-cyfr) lub dodać na przykład podpowiedź. Użytkownik nie tylko wie, co wpisać, ale też skąd wziąć potrzebne informacje i jakie błędy mogą się zdarzyć. Czuje się prowadzony krok po kroku, a ryzyko popełnienia błędu maleje.
 
 
-  ![QuickGuide](umiejetnosci-miekkie/images/Quick_guide.png)
+  ![QuickGuide](images/Quick_guide.png)
 
 Skoro omówiliśmy już trochę teorii o umiejętnościach, to nadszedł czas na cześć bardziej praktyczną. Umiejętności miękkie nie są zawsze wrodzonym talentem, ale można je rozwijać tak samo, jak znajomość nowych narzędzi czy języków. 
 
