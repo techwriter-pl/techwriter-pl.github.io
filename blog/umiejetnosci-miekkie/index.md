@@ -163,8 +163,7 @@ Technical writer ma przygotować instrukcje do obsługi automatycznego defibryla
 
 Co wybrać i dlaczego? Forma wizualna jest bardziej przydatna zwłaszcza w branżach, gdzie liczy się czas reakcji, bezpieczeństwo albo szybkie wdrożenie. Wizualna instrukcja bedzie najtrafniejszym wyborem ponieważ ma pomóc ratownikowi lub osobie pomagającej,szybciej przyswoić informacje, w tym przypadku nie ma czasu na wątpliwości, liczy się szybka reakcja, nawet w stresie! 
 
-<img src="images/IDklienta.png" alt="ID klienta" width="900" height="600">
-
+<img src="images/Quick_guide.png" alt="Quick_guide" width="800" height="500">
 
 Ponadto przy instrukcji wizualnej skraca się czas potrzebny na zrozumienie procedury i zmniejsza się ryzyko popełnienia błędów, sam opis **Przyklej elektrody na klatce piersiowej** może budzić pewne wątpliwości, dlatego dodanie grafiki może okazać się kluczowe.
 
@@ -185,10 +184,11 @@ Przykład:
 Podczas tworzenia dokumentacji technical writer zauważa, że część użytkowników może mieć wątpliwości, co wpisać w pole ID klienta. 
 
 ---
-
+  
+Co może zrobić, aby im pomóc?
 Zamiast tylko wymienić to pole w instrukcji, można dodać kontekst, gdzie znaleźć ID klienta (numer klienta znajdziesz w oddzielnym email, składa się on z 6-cyfr) lub dodać na przykład podpowiedź. Użytkownik nie tylko wie, co wpisać, ale też skąd wziąć potrzebne informacje i jakie błędy mogą się zdarzyć. Czuje się prowadzony krok po kroku, a ryzyko popełnienia błędu maleje.
 
-<img src="images/Quick_guide.png" alt="Quick_guide" width="900" height="600">
+<img src="images/IDklienta.png" alt="ID klienta" width="500" height="800">
 
 Skoro omówiliśmy już trochę teorii o umiejętnościach, to nadszedł czas na cześć bardziej praktyczną. Umiejętności miękkie nie są zawsze wrodzonym talentem, ale można je rozwijać tak samo, jak znajomość nowych narzędzi czy języków. 
 
@@ -209,7 +209,7 @@ Narzędzia wspierające rozwój umiejętności miękkie w techwritingu:
  - [Loom](https://www.loom.com/) nagrywanie objaśnień w formie wideo
  - [Canva](https://www.canva.com/en_gb/) do kreatywnego mapowania procesów i tworzenia notatek wizualnych
  - [Evernote](https://evernote.com/) aplikacja do tworzenia i przechowywania notatek 
- - Narzędzia oparte na sztucznej inteligencji/Chat boty które mogą symulować sytuacje społeczne
+ - Narzędzia oparte na sztucznej inteligencji, chat boty które mogą symulować sytuacje społeczne
  - [Trello](https://trello.com/) / [Jira](https://www.atlassian.com/software/jira) do śledzenia postępów w ćwiczeniach i pracy nad komunikacją.
 
 
