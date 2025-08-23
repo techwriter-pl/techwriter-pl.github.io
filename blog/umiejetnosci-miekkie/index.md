@@ -22,7 +22,9 @@ W tej części artykułu omówimy umiejętności miękkie, które są przydatne 
 
 W świecie dokumentacji technicznej często skupiamy się na dokładności, spójności treści, dbałości o szczegóły oraz technicznych aspektach pracy jak na przykład umiejętność zrozumienia złożonych procesów i przełożenia ich na klarowne instrukcje. To można określić jako chleb powszedni tej profesji.
 Ale… to dopiero początek. 
+
 Mistrz tej dziedziny wie, że to nie wystarczy. Użytkownik nie tylko potrzebuje informacji — on chce je zrozumieć, zapamiętać lub wrócić do nich w razie potrzeby. To właśnie tutaj na scenę wchodzą umiejętności miękkie, które potrafią zmienić ‘’suchy’’ opis w opowieść prowadzącą czytelnika krok po kroku do rozwiązania jego problemu lub odpowiedzieć na nurtujące go pytania.
+
 Zdecydowaliśmy się przyjrzeć bliżej kilku umiejętnościom, które mogą mieć znaczenie w dzisiejszym elektronicznym świecie, a które mogą pomoc zarówno w pracy, jak i w codziennych interakcjach z technologią. Należą do nich:
 
 -	Elastyczność 
@@ -155,13 +157,14 @@ Przykład:
 
 ---
 
-Technical writer ma przygotować instrukcje do obsługi automatycznego defibrylatora zewnętrznego (AED). Może sam zdecydować jaka to bedzie forma, czy będzie to tekst, infografika, a może wideo.
+Technical writer ma przygotować instrukcje do obsługi automatycznego defibrylatora zewnętrznego (AED). Może sam zdecydować jaka to bedzie forma, czy będzie to tekst, infografika, a może wideo?
 
 ---
 
 Co wybrać i dlaczego? Forma wizualna jest bardziej przydatna zwłaszcza w branżach, gdzie liczy się czas reakcji, bezpieczeństwo albo szybkie wdrożenie. Wizualna instrukcja bedzie najtrafniejszym wyborem ponieważ ma pomóc ratownikowi lub osobie pomagającej,szybciej przyswoić informacje, w tym przypadku nie ma czasu na wątpliwości, liczy się szybka reakcja, nawet w stresie! 
 
-![IDklienta](images/IDklienta.png)
+<img src="images/IDklienta.png" alt="ID klienta" width="900" height="600">
+
 
 Ponadto przy instrukcji wizualnej skraca się czas potrzebny na zrozumienie procedury i zmniejsza się ryzyko popełnienia błędów, sam opis **Przyklej elektrody na klatce piersiowej** może budzić pewne wątpliwości, dlatego dodanie grafiki może okazać się kluczowe.
 
@@ -185,8 +188,7 @@ Podczas tworzenia dokumentacji technical writer zauważa, że część użytkown
 
 Zamiast tylko wymienić to pole w instrukcji, można dodać kontekst, gdzie znaleźć ID klienta (numer klienta znajdziesz w oddzielnym email, składa się on z 6-cyfr) lub dodać na przykład podpowiedź. Użytkownik nie tylko wie, co wpisać, ale też skąd wziąć potrzebne informacje i jakie błędy mogą się zdarzyć. Czuje się prowadzony krok po kroku, a ryzyko popełnienia błędu maleje.
 
-
-  ![QuickGuide](images/Quick_guide.png)
+<img src="images/Quick_guide.png" alt="Quick_guide" width="900" height="600">
 
 Skoro omówiliśmy już trochę teorii o umiejętnościach, to nadszedł czas na cześć bardziej praktyczną. Umiejętności miękkie nie są zawsze wrodzonym talentem, ale można je rozwijać tak samo, jak znajomość nowych narzędzi czy języków. 
 
