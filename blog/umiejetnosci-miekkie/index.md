@@ -1,6 +1,6 @@
 ---
 title:
-  'Umiejętności miękkie w pracy technical writera- cześć 1'
+  'Umiejętności miękkie w pracy technical writera- część 1'
 authors: 'toporek'
 date: '2025-09-01'
 tags:
@@ -14,14 +14,15 @@ coverImage: 'UM_image.jpg'
 
 Umiejętności miękkie są równie ważne jak techniczne, ponieważ to od nich zależy, czy dokumentacja będzie przyjazna w odbiorze i dopasowana do potrzeb użytkownika. 
 W końcu dobra dokumentacja to nie tylko zestaw danych — to most między człowiekiem a technologią!
-W tej serii artykułów przyjrzymy się kluczowym umiejętnościom miękkim, które powinien posiadać każdy technical writer.
+W tej części artykułu omówimy umiejętności miękkie, które są przydatne w pracy technical writera i wpływają na jakość i atrakcyjność powstających tekstów..
 
-Dlatego w tym artykule przedstawimy, w jaki sposób kompetencje miękkie kształtują prace technical writera i wpływają na jakość i atrakcyjność powstających tekstów. 
+
 
 ## Umiejętności miękkie i ich korzyść dla pisania
 
 W świecie dokumentacji technicznej często skupiamy się na dokładności, spójności treści, dbałości o szczegóły oraz technicznych aspektach pracy jak na przykład umiejętność zrozumienia złożonych procesów i przełożenia ich na klarowne instrukcje. To można określić jako chleb powszedni tej profesji.
-Ale… to dopiero początek. Mistrz tej dziedziny wie, że to nie wystarczy. Użytkownik nie tylko potrzebuje informacji — on chce je zrozumieć, zapamiętać lub wrócić do nich w razie potrzeby. To właśnie tutaj na scenę wchodzą umiejętności miękkie, które potrafią zmienić ‘’suchy’’ opis w opowieść prowadzącą czytelnika krok po kroku do rozwiązania jego problemu lub odpowiedzieć na nurtujące go pytania.
+Ale… to dopiero początek. 
+Mistrz tej dziedziny wie, że to nie wystarczy. Użytkownik nie tylko potrzebuje informacji — on chce je zrozumieć, zapamiętać lub wrócić do nich w razie potrzeby. To właśnie tutaj na scenę wchodzą umiejętności miękkie, które potrafią zmienić ‘’suchy’’ opis w opowieść prowadzącą czytelnika krok po kroku do rozwiązania jego problemu lub odpowiedzieć na nurtujące go pytania.
 Zdecydowaliśmy się przyjrzeć bliżej kilku umiejętnościom, które mogą mieć znaczenie w dzisiejszym elektronicznym świecie, a które mogą pomoc zarówno w pracy, jak i w codziennych interakcjach z technologią. Należą do nich:
 
 -	Elastyczność 
@@ -76,6 +77,7 @@ Aby Twoje urządzenie łączyło się z siecią bez każdorazowego wprowadzania 
  1. Przejdź do **Ustawienia→Sieć**. 
  2. Zaznacz pole **Połącz automatycznie**.
  3. Kliknij **Zapisz**. 
+
  Od teraz urządzenie będzie pamiętać Twoje preferencje, a połączenie będzie działać od razu po włączeniu.
 
 ---
@@ -96,8 +98,11 @@ Przykład — opis instalacji aplikacji mobilnej
 **Wersja z narracją:**
 
 Aby korzystać z aplikacji na swoim telefonie, otwórz sklep Google Play (na Androidzie) lub App Store (na iPhonie), następnie wybierz ikonę **Szukaj**.
+
 Wpisz w wyszukiwarkę nazwę aplikacji i wybierz ją z listy wyników.
+
 Kliknij **Zainstaluj**, a system automatycznie pobierze i zainstaluje program.
+
 Cały proces trwa tylko chwilę, a po zakończeniu możesz od razu kliknąć **Otwórz** i rozpocząć korzystanie z aplikacji.
 
 ---
@@ -116,10 +121,9 @@ Przykład:
 
 Technical writer pracuje nad dokumentacją nowej aplikacji mobilnej. Programista przekazuje mu szczegółowe informacje w formie kodu i używa technicznego żargonu, tester opisuje problemy w punktach bez kontekstu,  a projektant UX dostarcza makiety ekranów bez opisów, uznając ze nie będą one potrzebne i same makiety wystarczą.  
 
-Zadaniem technical writera jest połączenie tych trzech źródeł w spójną całość, co oznacza uporządkowanie treści, tłumaczenie technicznego języka programistów na przystępny opis uzupełnienie luk, na przykład poprzez zadawanie pytań co to istotności użycia makiet, gdzie dodać elementy graficzne, jak również uwzględnić czas realizacji całego projektu.
-
 ---
 
+Zadaniem technical writera jest połączenie tych trzech źródeł w spójną całość, co oznacza uporządkowanie treści, tłumaczenie technicznego języka programistów na przystępny opis uzupełnienie luk, na przykład poprzez zadawanie pytań co to istotności użycia makiet, gdzie dodać elementy graficzne, jak również uwzględnić czas realizacji całego projektu.
 To wymaga zarówno umiejętności adaptacji do różnych stylów pracy, jak i zdolności przekładania technicznego języka na prosty, przystępny opis. Innymi słowy, technical writer pełni rolę tłumacza i mediatora, który potrafi znaleźć wspólny język między specjalistami a użytkownikiem, dbając, by skomplikowane informacje stały się jasne, spójne i przyjazne w odbiorze
 
 ## Jak nie utonąć w morzu notatek i ticketów
@@ -151,11 +155,17 @@ Przykład:
 
 ---
 
-Technical writer przygotowuje instrukcje wizualną do obsługi automatycznego defibrylatora zewnętrznego (AED) Dlaczego tak forma? Jest ona bardziej przydatna zwłaszcza w branżach, gdzie liczy się czas reakcji, bezpieczeństwo albo szybkie wdrożenie. Wizualna instrukcja ma pomóc ratownikowi lub osobie pomagającej, w tym przypadku nie ma czasu na wątpliwości, liczy się szybka reakcja, nawet w stresie! 
+Technical writer ma przygotować instrukcje do obsługi automatycznego defibrylatora zewnętrznego (AED). Może sam zdecydować jaka to bedzie forma, czy będzie to tekst, infografika, a może wideo.
+
+---
+
+Co wybrać i dlaczego? Forma wizualna jest bardziej przydatna zwłaszcza w branżach, gdzie liczy się czas reakcji, bezpieczeństwo albo szybkie wdrożenie. Wizualna instrukcja bedzie najtrafniejszym wyborem ponieważ ma pomóc ratownikowi lub osobie pomagającej,szybciej przyswoić informacje, w tym przypadku nie ma czasu na wątpliwości, liczy się szybka reakcja, nawet w stresie! 
+
+![IDklienta](umiejetnosci-miekkie/images/IDklienta.png)
 
 Ponadto przy instrukcji wizualnej skraca się czas potrzebny na zrozumienie procedury i zmniejsza się ryzyko popełnienia błędów, sam opis **Przyklej elektrody na klatce piersiowej** może budzić pewne wątpliwości, dlatego dodanie grafiki może okazać się kluczowe.
 
----
+
 
 ## Jak nie być robotem w świecie ludzi
 
@@ -169,9 +179,14 @@ Przykład:
 
 ---
 
-Podczas tworzenia dokumentacji technical writer zauważa, że część użytkowników może mieć wątpliwości, co wpisać w pole ID klienta. Zamiast tylko wymienić to pole w instrukcji, można dodać kontekst, gdzie znaleźć ID klienta (numer klienta znajdziesz w oddzielnym email, składa się on z 6-cyfr) lub dodać na przykład podpowiedź. Użytkownik nie tylko wie, co wpisać, ale też skąd wziąć potrzebne informacje i jakie błędy mogą się zdarzyć. Czuje się prowadzony krok po kroku, a ryzyko popełnienia błędu maleje.
+Podczas tworzenia dokumentacji technical writer zauważa, że część użytkowników może mieć wątpliwości, co wpisać w pole ID klienta. 
 
 ---
+
+Zamiast tylko wymienić to pole w instrukcji, można dodać kontekst, gdzie znaleźć ID klienta (numer klienta znajdziesz w oddzielnym email, składa się on z 6-cyfr) lub dodać na przykład podpowiedź. Użytkownik nie tylko wie, co wpisać, ale też skąd wziąć potrzebne informacje i jakie błędy mogą się zdarzyć. Czuje się prowadzony krok po kroku, a ryzyko popełnienia błędu maleje.
+
+
+  ![QuickGuide](umiejetnosci-miekkie/images/Quick_guide.png)
 
 Skoro omówiliśmy już trochę teorii o umiejętnościach, to nadszedł czas na cześć bardziej praktyczną. Umiejętności miękkie nie są zawsze wrodzonym talentem, ale można je rozwijać tak samo, jak znajomość nowych narzędzi czy języków. 
 
