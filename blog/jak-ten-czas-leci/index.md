@@ -4,6 +4,7 @@ authors: admin
 date: '2015-12-23'
 tags:
   - 'news'
+  - 'rocznice'
 coverImage: 'swieta_yoda.jpg'
 ---
 
