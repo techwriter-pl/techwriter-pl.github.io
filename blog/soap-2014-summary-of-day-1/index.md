@@ -5,14 +5,19 @@ date: '2014-11-18'
 tags:
   - 'news'
   - 'z-kraju'
+  - 'edukacja'
+  - 'kariera'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'praca'
+  - 'społeczność'
+  - 'soap'
+  - 'articles-in-english'
 coverImage: 'soap.jpg'
 ---
 
 Our soapy friends were kind enough to prepare an English version of
-[the day 1 summary](http://techwriter.pl/soap-2014-relacja-z-pierwszego-dnia/)
-that we published some time ago. Enjoy!
+[the day 1 summary](../soap-2014-relacja-z-pierwszego-dnia/index.md) that we
+published some time ago. Enjoy!
 
 <!--truncate-->
 

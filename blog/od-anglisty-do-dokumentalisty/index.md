@@ -3,16 +3,16 @@ title: 'Od anglisty do dokumentalisty'
 authors: jkula
 date: '2023-03-02'
 tags:
-  - 'przyklady'
+  - 'przykłady'
   - 'warsztat'
   - 'dokumentacja'
   - 'edukacja'
-  - 'jezyk'
+  - 'język'
   - 'kariera'
   - 'praca'
-  - 'spolecznosc'
+  - 'społeczność'
   - 'studia'
-  - 'tlumaczenia'
+  - 'tłumaczenia'
 coverImage: 'Od-anglisty-do-dokumentalisty.png'
 ---
 
@@ -129,7 +129,7 @@ entuzjazmu – żartuje. – A na początku rozumiałam głównie przedimki*,* z
 czasowniki. A reszta to była dla mnie chińszczyzna – dodaje ze śmiechem.
 
 O drodze Joanny od tłumacza do tech writera możecie przeczytać
-[TUTAJ](http://techwriter.pl/kilka-pytan-do-czesc-29/).
+[TUTAJ](../kilka-pytan-do-czesc-29/index.md).
 
 **Justyna, czyli niżej podpisana**
 
@@ -209,7 +209,7 @@ nowym.
 Nasz kolega redakcyjny, Andrzej, też jest tłumaczem, który został tech writerem.
 O tym, jak trafił do branży IT i jaką przeszedł drogę od anglisty do
 dokumentalisty możecie przeczytać
-[TUTAJ](http://techwriter.pl/od-tlumacza-do-tech-writera/).
+[TUTAJ](../od-tlumacza-do-tech-writera/index.md).
 
 Wszystkie znaki na niebie i ziemi, a zwłaszcza na ziemi w postaci masowego
 przekwalifikowywania się tłumaczy na tech writerów, wskazują na to, że jest to

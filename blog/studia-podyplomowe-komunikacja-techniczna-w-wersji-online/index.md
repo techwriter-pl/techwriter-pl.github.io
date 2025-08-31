@@ -7,7 +7,7 @@ tags:
   - 'z-kraju'
   - 'edukacja'
   - 'kariera'
-  - 'spolecznosc'
+  - 'społeczność'
   - 'studia'
 coverImage: 'Podplomowe-Vistula-Online-2020.jpg'
 ---
@@ -29,10 +29,9 @@ Plan zajęć wygląda następująco:
 
 Można powiedzieć, że semestr pierwszy pokazuje "co", a semestr drugi koncentruje
 się na tym "jak". Duży plus za wbudowanie w program zakresu certyfikacji
-[ITCQF](http://itcqf.org/) - koszt szkolenia na
-[wolnym rynku](http://techwriter.pl/szkolenia/) to właściwie połowa kosztu
-całych studiów. Naszym skromnym zdaniem stosunek jakości do ceny przedstawia się
-bardzo korzystnie.
+[ITCQF](http://itcqf.org/) - koszt szkolenia na [wolnym rynku](/szkolenia/) to
+właściwie połowa kosztu całych studiów. Naszym skromnym zdaniem stosunek jakości
+do ceny przedstawia się bardzo korzystnie.
 
 Wśród wykładowców znajdziecie tylko i wyłącznie praktyków, postaci rozpoznawalne
 nie tylko na polskiej scenie techcommowej - to również rokuje optymistycznie.

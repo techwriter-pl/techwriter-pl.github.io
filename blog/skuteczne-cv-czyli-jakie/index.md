@@ -3,11 +3,10 @@ title: 'CV - Jak pisać żeby było skuteczne?'
 authors: mrozek
 date: '2023-11-05'
 tags:
-  - 'CV'
   - 'kariera'
   - 'rekrutacja'
   - 'praca'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'lead.jpg'
 ---
 
@@ -29,7 +28,10 @@ Do tej pory miałam okazję obejrzeć dosłownie setki CV kandydatów z całego
 - czego wolałabym nie widzieć w CV a co wręcz przeciwnie byłoby bardzo przydatne
 - co sprawiało, że konkretne CV wyróżniało się spośród innych
 
-![](images/photo1.png) Photo by <a href="https://unsplash.com/@thoughtcatalog?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Thought Catalog</a> on <a href="https://unsplash.com/photos/person-holding-ballpoint-pen-writing-on-notebook-505eectW54k?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+![](images/photo1.png) Photo by
+<a href="https://unsplash.com/@thoughtcatalog?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Thought
+Catalog</a> on
+<a href="https://unsplash.com/photos/person-holding-ballpoint-pen-writing-on-notebook-505eectW54k?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
 ## Sztuka syntezy, czyli podsumuj się
 
@@ -268,13 +270,20 @@ przedstawiona w sposób konwencjonalny.
 
 ## Narzędzia
 
-Można w klasycznym edytorze tekstu, można użyć automatycznych szablonów proponowanych przez LinkedIn - tu jednak warto zwrócić uwagę na formaty, które mogę zwyczajnie się 'rozjechać'. Dostępnych jest też sporo różnych kreatorów CV, które pomogą nadać naszemu dokumentowi nieco bardziej współczesny wygląd i odzwierciedlić nasz indywidualny styl. 
+Można w klasycznym edytorze tekstu, można użyć automatycznych szablonów
+proponowanych przez LinkedIn - tu jednak warto zwrócić uwagę na formaty, które
+mogę zwyczajnie się 'rozjechać'. Dostępnych jest też sporo różnych kreatorów CV,
+które pomogą nadać naszemu dokumentowi nieco bardziej współczesny wygląd i
+odzwierciedlić nasz indywidualny styl.
 
-Jednym z nich jest darmowy program graficzny Canva. Ten funkcjonalny kreator CV jest prosty w obsłudze, a jednocześnie oferuje ogromne możliwości. Użytkownik może utworzyć CV "od zera" lub wybierać z bogatego katalogu szablonów i w prosty sposób dostosowywać je do swoich oczekiwań. 
+Jednym z nich jest darmowy program graficzny Canva. Ten funkcjonalny kreator CV
+jest prosty w obsłudze, a jednocześnie oferuje ogromne możliwości. Użytkownik
+może utworzyć CV "od zera" lub wybierać z bogatego katalogu szablonów i w prosty
+sposób dostosowywać je do swoich oczekiwań.
 
-Dokładną instrukcję tworzenia CV w programie Canva oraz szereg porad ułatwiających szybką edycję takich dokumentów znajdziecie na stronie [Canva](https://www.canva.com/pl_pl/tworzyc/cv/).
-
-
+Dokładną instrukcję tworzenia CV w programie Canva oraz szereg porad
+ułatwiających szybką edycję takich dokumentów znajdziecie na stronie
+[Canva](https://www.canva.com/pl_pl/tworzyc/cv/).
 
 ## Parting words
 

@@ -4,23 +4,22 @@ authors: pensjonatus
 date: '2016-10-12'
 tags:
   - 'dobre-praktyki'
-  - 'przyklady'
+  - 'przykłady'
   - 'warsztat'
   - 'dita'
-  - 'manuale'
+  - 'pomoc-użytkownika'
   - 'on-line-help'
-  - 'pomoc-uzytkownika'
+  - 'pomoc-użytkownika'
   - 'technologie'
 coverImage: 'na-gleboka.jpg'
 ---
 
-Pisaliśmy już o [podstawach](http://techwriter.pl/wszystko-o-dita-podstawy/) i
-tworzeniu [strategii](http://techwriter.pl/wszystko-o-dita-strategia/) dla DITA.
-Po tym łagodnym wprowadzeniu, postanowiliśmy Was rzucić na głęboką wodę, czyli
-zająć się zagadnieniem conkeyref. Dzięki temu zapoznacie się z koncepcją kluczy
-i pobierania treści w dicie. Dla ułatwienia posłużymy się praktycznym
-przykładem, który mamy nadzieję pozwoli Wam szybko zrozumieć o co w tym
-wszystkim chodzi.
+Pisaliśmy już o [podstawach](../wszystko-o-dita-podstawy/index.md) i tworzeniu
+[strategii](../wszystko-o-dita-strategia/index.md) dla DITA. Po tym łagodnym
+wprowadzeniu, postanowiliśmy Was rzucić na głęboką wodę, czyli zająć się
+zagadnieniem conkeyref. Dzięki temu zapoznacie się z koncepcją kluczy i
+pobierania treści w dicie. Dla ułatwienia posłużymy się praktycznym przykładem,
+który mamy nadzieję pozwoli Wam szybko zrozumieć o co w tym wszystkim chodzi.
 
 <!--truncate-->
 
@@ -57,8 +56,9 @@ topików.
 Zaczynamy od topiku **product_names.dita** dla starych dobrych nazw. Zawiera on
 następujące elementy:
 
-<ph id="**G600**">F-class G600 Router</ph> <ph id="**S9000**">F-class S9000
-Switch</ph>
+```
+<ph id="**G600**">F-class G600 Router</ph> <ph id="**S9000**">F-class S9000 Switch</ph>
+```
 
 Każdy element ma swoje id, które odgrywa bardzo ważną rolę.
 
@@ -66,8 +66,9 @@ Następnie, kopiujemy ten topik i zapisujemy go jako
 **european_product_names.dita**. Zmieniamy w nim tylko nazwy produktów, a id
 pozostawiamy bez zmian. Dzięki temu otrzymujemy następujące elementy:
 
-<ph id="G600">**Sparrowhawk** G600 Router</ph> <ph id="S9000">**Athena Risin**g
-S9000 Switch</ph>
+```
+<ph id="G600">**Sparrowhawk** G600 Router</ph> <ph id="S9000">**Athena Risin**g S9000 Switch</ph>
+```
 
 Te dwa topiki są naszym źródłem dla nazw produktów. Tego typu topiki nazywamy
 bibliotekami, bo zawierają zasoby wykorzystywane przez mechanizmy DITA. Nie są
@@ -84,19 +85,23 @@ poniżej. Jest on wpięty do mapy na samym początku pierwszego rozdziału.
 Topik, który zostanie użyty w manualu zawiera odwołania do nazw produktów w
 odpowiednim miejscu:
 
+```
 <ph conkeyref="product-names/**G600**"></ph>
 <ph conkeyref="product-names/**S9000**"></ph>
+```
 
 Odwołania używają id, które ustawiliśmy w naszych topikach-bibliotekach oraz
 klucza "product-names". Nasz topik włączamy do
-[mapy ditowej](http://techwriter.pl/wszystko-o-dita-podstawy/).
+[mapy ditowej](../wszystko-o-dita-podstawy/index.md).
 
 ### Odwołanie do klucza jest kluczem do sukcesu
 
 Ustawiając odwołanie w topiku, nie odwołaliśmy się do nazwy pliku biblioteki,
 ale do klucza. Klucz umieszczamy w mapie ditowej w następujący sposób:
 
+```
 <keydef keys="**product-names**" href="reuse/generic\_product\_names.dita" />
+```
 
 Element keydef zawiera naszą nazwę klucza "product-names" oraz odwołanie do
 pliku generic_product_names.dita, dlatego nasze odwołanie ma postać:
@@ -110,18 +115,9 @@ generic_product_names.dita/G600
 Dzięki temu możemy w innej mapie umieścić odwołanie do klucza z inną nazwą
 pliku:
 
+```
 <keydef keys="product-names" href="reuse/**european\_product\_names.dita**" />
-
-## Próbka do pobrania
-
-[Tutaj](http://techwriter.pl/wp-content/uploads/2016/09/product_catalogditamap-bundle.zip)
-możecie pobrać pliki DITA, które obrazują przykład użycia opisany powyżej.
-Poniżej opis paczki, którą możecie ściągnąć:
-
-1. Mapa "generic" odwołuje się do tabeli nazw podstawowych.
-2. Mapa "european" odwołuje się do tabeli nazw na Europę.
-3. Folder "reuse" zawiera obie tabele nazw.
-4. Plik topic.xml jest użyty w obu mapach.
+```
 
 W następnym odcinku napiszemy jak takie pliki otworzyć i jak wyprodukować z nich
 PDFa. Dajcie znać w komentarzach jak Wam się podoba i o czym chcielibyście

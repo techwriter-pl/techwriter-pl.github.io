@@ -6,7 +6,7 @@ tags:
   - 'news'
   - 'z-kraju'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'TekomRoadshow2014.jpg'
 ---
 
@@ -15,9 +15,7 @@ Polski. I przesłało nam kilka informacji na ten temat. Dla Was.
 
 <!--truncate-->
 
-Wspominaliśmy już o tym stowarzyszeniu,
-[pamiętacie](http://techwriter.pl/zostan-mowca-tekom-europe-roadshow-2014/)? Nie
-minęło wiele czasu, a dostaliśmy taki list:
+Dostaliśmy od nich taki list:
 
 > Szanowni Państwo, W imieniu stowarzyszenia tekom Europe e.V. pragnę w skrócie
 > przedstawić nasz związek oraz wstępnie zaprosić do wzięcia udziału w naszej

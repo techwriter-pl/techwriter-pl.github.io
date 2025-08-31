@@ -65,7 +65,7 @@ problemy.
 Co do znajomości narzędzi i technologii związanych z tworzeniem dokumentacji to
 zdania są podzielone (w zeszłym roku wyraziliśmy nawet swoją opinię w tym
 temacie w jednym z naszych
-[artykułów](http://techwriter.pl/czy-warto-znac-narzedzia-do-tworzenia-dokumentacji/)).
+[artykułów](../czy-warto-znac-narzedzia-do-tworzenia-dokumentacji/index.md)).
 Jedni twierdzą, że poważny kandydat musi mieć w rękawie coś więcej niż znajomość
 MS Worda. Dużym plusem może okazać się jakaś samodzielnie zrobiona strona
 internetowa, choćby wizytówka. To pokazuje, że kandydat nie boi się zjawisk typu
@@ -100,7 +100,7 @@ kopiowanie, modyfikacja i dystrybucja bez zgody firmy jest zabroniona. W takiej
 sytuacji mamy jedną możliwość - napisać coś w swoim wolnym czasie, np. opisać
 jakieś darmowe oprogramowanie, które ma braki w dokumentacji. Więcej szczegółów
 możecie znaleźć w naszym wpisie o
-[Open Techwriting](http://techwriter.pl/open-techwriting-sposob-na-start-i-rozwoj-kariery/).
+[Open Techwriting](../open-techwriting-sposob-na-start-i-rozwoj-kariery/index.md).
 A może by tak pójść trochę w inną stronę? (uwaga, teraz zaczyna się nasza wesoła
 twórczość). Możemy potraktować nasze CV jak produkt, do którego potrzebna jest
 dokumentacja, żeby móc z niego skorzystać. Na przykład, informacje możemy

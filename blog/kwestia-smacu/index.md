@@ -4,7 +4,7 @@ authors: admin
 date: '2013-12-05'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'praca'
   - 'technologie'
 coverImage: 'SMAC.png'

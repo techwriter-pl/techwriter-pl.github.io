@@ -4,15 +4,14 @@ authors: toporek
 date: '2020-08-05'
 tags:
   - 'dobre-praktyki'
-  - 'narzedzia'
-  - 'przyklady'
+  - 'narzędzia'
+  - 'przykłady'
   - 'dokumentacja'
-  - 'dostepnosc'
+  - 'dostępność'
   - 'edukacja'
-  - 'jezyk'
-  - 'narzedzia'
-  - 'praktyki'
-  - 'uzytecznosc'
+  - 'język'
+  - 'narzędzia'
+  - 'użyteczność'
 coverImage: '3753_1.jpg'
 ---
 
@@ -21,11 +20,11 @@ trudnych, rozwlekłych dokumentów. Analizy różnych tekstów potwierdziły, �
 nietypowe słowa i długość zdań, były jedną z pierwszych przyczyn trudności w
 czytaniu i rozumieniu tekstu. Wiemy, że w prostym języku (ang. plain language)
 ważne są - budowa zdań i dobór słownictwa, o czym pisaliśmy już w naszych
-poprzednich artykułach [tutaj](http://techwriter.pl/plain-language/) i
-[tutaj](http://techwriter.pl/prosty-jezyk-w-tekstach-naukowych-i-technicznych/).
-Pisanie prostym językiem może zatem oszczędzić nam czas i pieniądze. Pomoże nam
-również zastosować przekazane informacje oraz ocalić drzewa 😊. Co jeszcze
-możemy zyskać dzięki korzystaniu z dobrodziejstw prostego języka?
+poprzednich artykułach [tutaj](../plain-language/index.md) i
+[tutaj](../prosty-jezyk-w-tekstach-naukowych-i-technicznych/index.md). Pisanie
+prostym językiem może zatem oszczędzić nam czas i pieniądze. Pomoże nam również
+zastosować przekazane informacje oraz ocalić drzewa 😊. Co jeszcze możemy zyskać
+dzięki korzystaniu z dobrodziejstw prostego języka?
 
 <!--truncate-->
 

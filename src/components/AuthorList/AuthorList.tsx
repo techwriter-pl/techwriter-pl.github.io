@@ -15,14 +15,14 @@ const polishDescriptions: { [id: string]: JSX.Element } = {
   ),
   niewiarowski: (
     <>
-      Absolwent filologii angielskiej ze sporym dorobkiem tłumaczeniowym. Od ponad dekady
-      jest tech writerem. Obecnie specjalizuje się w dziedzinie Industrial Internet of Things 
-      w branży energetycznej. Zawodowo miał dużą styczność z instrukcjami,
-      e-learningiem, ciekawi się coachingiem. Fan aplikacji Snagit firmy
-      TechSmith. Prywatnie interesuje się filmem, muzyką rockowo-metalową, lubi
-      czytać książki i jeździć na nartach. Od piątego roku życia zafascynowany
-      dinozaurami i tak już mu zostało. Drugą grupą zwierząt, którą ceni
-      szczególnie są żółwie.
+      Absolwent filologii angielskiej ze sporym dorobkiem tłumaczeniowym. Od
+      ponad dekady jest tech writerem. Obecnie specjalizuje się w dziedzinie
+      Industrial Internet of Things w branży energetycznej. Zawodowo miał dużą
+      styczność z instrukcjami, e-learningiem, ciekawi się coachingiem. Fan
+      aplikacji Snagit firmy TechSmith. Prywatnie interesuje się filmem, muzyką
+      rockowo-metalową, lubi czytać książki i jeździć na nartach. Od piątego
+      roku życia zafascynowany dinozaurami i tak już mu zostało. Drugą grupą
+      zwierząt, którą ceni szczególnie są żółwie.
     </>
   ),
   niedzwiedzka: (
@@ -52,27 +52,49 @@ const polishDescriptions: { [id: string]: JSX.Element } = {
   pensjonatus: (
     <>
       Działa w branży od 2008 roku. Zaczynał jako Technical Writer, potem
-      zajmował się narzędziami do dokumentacji, oraz wdrażaniem dity. Członek
-      rady <Link href="http://itcqf.org/">ITCQF</Link>, obecnie pracuje w
-      polskim oddziale Guidewire Software. W wolnych chwilach lubi pisać flash
-      fiction, czytać książki i grać na komputerze. Czeka aż roboty nas
-      zastąpią, żebyśmy mogli wreszcie wziąć urlop. Nigdy nie jeździł na
+      zajmował się narzędziami do dokumentacji, oraz wdrażaniem dity. Obecnie
+      pracuje w polskim oddziale Guidewire Software. W wolnych chwilach lubi
+      pisać flash fiction, czytać książki i grać na komputerze. Czeka aż roboty
+      nas zastąpią, żebyśmy mogli wreszcie wziąć urlop. Nigdy nie jeździł na
       nartach, ale zawsze sobie mówi, że w tym sezonie spróbuje.
     </>
   ),
   mojk: (
     <>
-      Przygodę z komunikacją techniczną rozpoczął w 2012 roku. Wraz z kolegami i
-      koleżankami stara się rozkręcać polską branżę tech comm. Na początku 2014
-      dołączył do techwriter.pl jako redaktor, a z biegiem czasu zaczął się też
-      zajmować szeroko pojętym prowadzeniem portalu.
+      Przygodę z komunikacją techniczną rozpoczął w 2012 roku, po tym jak
+      porzucił nigdy nierozpoczętą karierę modela. Dwa lata później dołączył do
+      techwriter.pl i tak już został (z krótką przerwą na reset). Wraz z
+      kolegami i koleżankami po fachu stara się rozkręcać polską branżę tech
+      comm. Obecnie realizuje się jako kodujący Tech Writer w polskim oddziale
+      Guidewire Software oraz współtwórca podcastu "Tech Writer koduje".
+      Interesują go mało popularne dyscypliny sportu, takie jak bieganie i jazda
+      na rowerze. Gdyby nie związał się z dokumentacją, zostałby strażakiem.
     </>
   ),
   mrozek: (
     <>
-      Technical writerka, managerka i liderka zespołu tech writerskiego.
-      Z zaangażowaniem działam na rzecz promocji roli autora technicznego w organizacji, jego wyjątkowej pozycji w cyklu rozwoju produktu oraz wartości jaką dodajemy do produktu, który opisujemy. 
-      Współorganizuję wrocławską społeczność tech writerską w ramach cyklicznych spotkań pod szyldem MeetContentWRO.
+      Technical writerka, managerka i liderka zespołu tech writerskiego. Z
+      zaangażowaniem działam na rzecz promocji roli autora technicznego w
+      organizacji, jego wyjątkowej pozycji w cyklu rozwoju produktu oraz
+      wartości jaką dodajemy do produktu, który opisujemy. Współorganizuję
+      wrocławską społeczność tech writerską w ramach cyklicznych spotkań pod
+      szyldem MeetContentWRO.
+    </>
+  ),
+  mtrojanowski: (
+    <>
+      Absolwent filologii angielskiej. Z zawodu asystent w korporacji konsultingowej.
+      Miłośnik przekazywania treści w sposób prosty, klarowny i jednoznaczny. 
+      W wolnych chwilach basista, tancerz i (okazjonalnie) snowboardzista.
+    </>
+  ),
+  sgorski: (
+    <>
+      Od ponad 20 lat żyje z pisania o technologiach (obecnie dla CHIP Polska i Magazynu Focus). 
+      W tej branży zdobywał pierwsze szlify w pisaniu poradników o sprzęcie, oprogramowaniu oraz usługach.
+      Teraz wychodzi ze swojej bańki i stawia pierwsze kroki w świecie dokumentacji technicznej. 
+      W godzinach pracy (głównie poza nimi) uzależniony od szperania po YouTubie, słuchania muzyki, podcastów i audiobooków. 
+      Rozgląda się dookoła i zagląda do wnętrza. Lubi wiedzieć co, jak i dlaczego.
     </>
   ),
 };
@@ -88,14 +110,15 @@ const englishDescriptions: { [id: string]: JSX.Element } = {
   ),
   niewiarowski: (
     <>
-      A graduate of English Philology with considerable translation
-      experience. For well over a decade he has been a tech writer. 
-      He currently specializes in the Industrial Internet of Things domain for the energy sector. 
-      He designed instructions, procedures, e-learning material, and is interested in coaching.
-      A fan of TechSmith’s Snagit app. His afterwork hobbies include watching films and listening to rock
-      and metal music. He also likes reading and skiing. Since the age of five,
-      he has been fascinated with dinosaurs and it stayed that way. The second group
-      of animals that he especially admires are turtles (tortoises too!!!).
+      A graduate of English Philology with considerable translation experience.
+      For well over a decade he has been a tech writer. He currently specializes
+      in the Industrial Internet of Things domain for the energy sector. He
+      designed instructions, procedures, e-learning material, and is interested
+      in coaching. A fan of TechSmith’s Snagit app. His afterwork hobbies
+      include watching films and listening to rock and metal music. He also
+      likes reading and skiing. Since the age of five, he has been fascinated
+      with dinosaurs and it stayed that way. The second group of animals that he
+      especially admires are turtles (tortoises too!!!).
     </>
   ),
   niedzwiedzka: (
@@ -120,21 +143,53 @@ const englishDescriptions: { [id: string]: JSX.Element } = {
   ),
   pensjonatus: (
     <>
-      Not an actual real person. He's been in the business of tech content since
-      2008. Has worked as a writer, programmer, and DITA guy. A board member at{' '}
-      <Link href="http://itcqf.org/">ITCQF</Link>, currently at Guidewire
-      Software. Sometimes writes flash fiction, reads books or plays computer
-      games. Is looking forward to the time when AI will take over so we can all
-      take a break.
+      He's been in the business of tech content since 2008. Has worked as a
+      writer, programmer, and DITA guy. Currently at Guidewire Software.
+      Sometimes writes flash fiction, reads books or plays computer games. He's
+      looking forward to the time when AI will take over so we can all take a
+      break.
     </>
   ),
   mojk: (
     <>
-      His adventure with technical communication started in 2012.Together with
-      his colleagues, he tries to grow the Polish tech comm scene. At the
-      beginning of 2014, he joined techwriter.pl as an editor and later he also
-      became responsible for running the entire portal. He left the staff in
-      June 2019.
+      He began his technical communication journey in 2012, after abandoning a
+      never-started modeling career. Two years later, he joined techwriter.pl
+      and has stayed ever since (with a short break to reset). Together with his
+      colleagues, he strives to rock the Polish tech comm scene. Currently, he
+      works as a coding Tech Writer at the Polish branch of Guidewire Software
+      and co-creates the "Tech Writer koduje" podcast. He is interested in
+      not-so-popular sports, such as running and cycling. Had he not become
+      involved in documentation, he would have become a firefighter.
+    </>
+  ),
+  mrozek: (
+    <>
+      Monika is first and foremost a Technical Writer, at heart. She loves well
+      written content and is a fan of user centric design. She is also a
+      tireless advocate for the value that a good technical documentation adds
+      to the product. She believes that Technical Writers occupy a very unique
+      position in every organization that decides to have them: a busy
+      intersection between Developers, Product, Marketing, Support… Monika is
+      also a team manager, helping people achieve their best and to take pride
+      in what they do. She is an active technical content community member and a
+      public speaker. She co-organizes local meetups in Wrocław to help Writers
+      network, exchange ideas and inspire each other.
+    </>
+  ),
+  mtrojanowski: (
+    <>
+      BA in English Philology. Working as an assistant at a management consulting firm.
+      A fan of simple, clear and unambiguous content. 
+      In his free time a bass player, dancer and (occasionally) a snowboarder.
+    </>
+  ),
+  sgorski: (
+    <>
+      For over 20 years, he has been making a living writing about technology (currently for CHIP Polska and Focus Magazine).
+      In this industry, he earned his first stripes writing guides about hardware, software, and services.
+      Now, he's stepping out of his bubble and taking his first steps into the world of technical documentation.
+      During work hours (and mostly outside of them), he's addicted to browsing YouTube, listening to music, podcasts, and audiobooks.
+      He looks around and peers inside. He likes to know what, how, and why.
     </>
   ),
 };

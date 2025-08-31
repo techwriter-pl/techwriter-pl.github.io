@@ -3,7 +3,7 @@ title: 'Jenkins - opis narzędzia'
 authors: admin
 date: '2014-03-20'
 tags:
-  - 'narzedzia'
+  - 'narzędzia'
   - 'warsztat'
   - 'aplikacje'
   - 'automatyzacja'
@@ -29,9 +29,9 @@ doszliśmy do wniosku, że ta aplikacja może być również pomocna w przypadku
 generowania dokumentacji do różnych formatów. Okazało się, że jak najbardziej
 mieliśmy rację. Za pomocą plików wsadowych (batch files) i skryptów napisanych w
 Pythonie udało nam się “pożenić” Jenkinsa z
-[Help and Manualem](http://techwriter.pl/help-and-manual-opis-narzedzia/) i póki
-co ten związek ma się całkiem dobrze 😉 Postaram się w skrócie przedstawić
-zastosowanie Jenkinsa na tym właśnie przykładzie.
+[Help and Manualem](../help-and-manual-opis-narzedzia/index.md) i póki co ten
+związek ma się całkiem dobrze 😉 Postaram się w skrócie przedstawić zastosowanie
+Jenkinsa na tym właśnie przykładzie.
 
 Zacznijmy od konfiguracji. Jenkins jest wieloplatformowy, więc można go
 zainstalować na Windowsie, Linuxie czy Mac OSie. W naszym przypadku, aplikacja

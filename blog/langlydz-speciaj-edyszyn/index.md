@@ -4,9 +4,8 @@ authors: agnieszka
 date: '2015-11-25'
 tags:
   - 'warsztat'
-  - 'z-przymruzeniem-oka'
   - 'humor'
-  - 'jezyk'
+  - 'język'
 coverImage: 'redkaptur.jpg'
 ---
 

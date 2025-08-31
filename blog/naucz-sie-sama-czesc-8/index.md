@@ -4,13 +4,13 @@ authors: mojk
 date: '2018-03-29'
 tags:
   - 'dobre-praktyki'
-  - 'przyklady'
+  - 'przykłady'
   - 'warsztat'
   - 'dokumentacja'
   - 'edukacja'
   - 'instrukcje'
   - 'kariera'
-  - 'pomoc-uzytkownika'
+  - 'pomoc-użytkownika'
 coverImage: 'statue-1558457_640.jpg'
 ---
 

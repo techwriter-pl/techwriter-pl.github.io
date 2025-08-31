@@ -5,8 +5,8 @@ date: '2017-01-20'
 tags:
   - 'warsztat'
   - 'wywiady'
-  - 'spolecznosc'
-  - 'wywiad'
+  - 'społeczność'
+  - 'articles-in-english'
 coverImage: 'interview.jpg'
 ---
 

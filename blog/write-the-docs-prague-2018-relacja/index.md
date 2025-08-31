@@ -4,9 +4,12 @@ authors: mojk
 date: '2019-04-30'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
+  - 'dokumentacja'
+  - 'edukacja'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
+  - 'write-the-docs'
 coverImage: '43895499144_9637dae8e3_k.jpg'
 ---
 
@@ -83,11 +86,10 @@ doświadczenie, wiek czy płeć (każdy uczestnik zobowiązuje się przestrzega�
 konferencyjnego
 [Code of Conduct](https://www.writethedocs.org/code-of-conduct/)). Zespół
 [WTD](http://www.writethedocs.org/team/) organizuje nie tylko cykliczne
-konferencje w Portland, Pradze, Cincinnati, Melbourne oraz
-[Wilnie](http://techwriter.pl/zapraszamy-na-write-the-docs-vilnius-2019/)
-(pierwszy raz w 2019) ale wspiera też tworzenie lokalnych meetupów. Do tego
-dochodzi strona społeczności działająca na zasadzie open source - każdy może
-dodać swoje trzy grosze.
+konferencje w Portland, Pradze, Cincinnati, Melbourne oraz Wilnie (pierwszy raz
+w 2019) ale wspiera też tworzenie lokalnych meetupów. Do tego dochodzi strona
+społeczności działająca na zasadzie open source - każdy może dodać swoje trzy
+grosze.
 
 Jeśli chodzi o konferencję w Pradze to zasady są proste:
 

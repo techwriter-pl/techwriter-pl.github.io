@@ -9,7 +9,9 @@ tags:
   - 'kariera'
   - 'konferencje'
   - 'praca'
-  - 'spolecznosc'
+  - 'społeczność'
+  - 'soap'
+  - 'szkolenia'
 coverImage: 'IMG-7721-scaled.jpg'
 ---
 
@@ -60,7 +62,7 @@ konferencji!
 urzeczony ideą S.U.P.E.R G.A.M.E od momentu obejrzenia tego
 [zwiastuna na Linkedin](https://www.linkedin.com/posts/soap-techcomm_excitingnewsalert-supergame-soapconf-activity-6920791703234699264-6mUf).
 
-Trafił on do drużyny o wdzięcznej nazwie _Marzipans_ - "Marcepany" :-)
+Trafił on do drużyny o wdzięcznej nazwie _Marzipans_ - "Marcepany" 😊
 
 Udział był niezwykle emocjonujący!
 
@@ -233,7 +235,7 @@ A jeśli chcecie wiedzieć co jest ważne, warto zwrócić uwagę na trzy aspekt
 > Derek Thompson
 
 Jeśli chcecie wiedzieć więcej o STE zajrzyjcie
-[tutaj](http://techwriter.pl/simplified-technical-english-ste-jak-go-uzywac-w-praktyce/)!
+[tutaj](../simplified-technical-english-ste-jak-go-uzywac-w-praktyce/index.md)!
 
 #### Praca w dobie postępującego rozwoju sztucznej inteligencji i robotów
 

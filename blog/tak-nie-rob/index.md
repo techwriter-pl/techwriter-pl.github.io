@@ -6,14 +6,13 @@ tags:
   - 'dobre-praktyki'
   - 'warsztat'
   - 'humor'
-  - 'lokalizacja'
-  - 'tlumaczenia'
-  - 'uzytecznosc'
+  - 'tłumaczenia'
+  - 'użyteczność'
 coverImage: 'bad.jpg'
 ---
 
 Nie tak dawno pisaliśmy o
-[dobrych i złych przykładach komunikacji technicznej](http://techwriter.pl/dokumentacja-uzytkownika-przyklady-dobre-i-zle/).
+[dobrych i złych przykładach komunikacji technicznej](../dokumentacja-uzytkownika-przyklady-dobre-i-zle/index.md).
 Nie przypuszczaliśmy wtedy, że to dopiero początek całej serii 😉
 
 <!--truncate-->

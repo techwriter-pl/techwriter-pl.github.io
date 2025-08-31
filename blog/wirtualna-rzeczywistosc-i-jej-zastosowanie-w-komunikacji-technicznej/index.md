@@ -4,10 +4,10 @@ authors: toporek
 date: '2022-05-04'
 tags:
   - 'news'
-  - 'narzedzia'
+  - 'narzędzia'
   - 'dokumentacja'
-  - 'narzedzia'
-  - 'pomoc-uzytkownika'
+  - 'narzędzia'
+  - 'pomoc-użytkownika'
 coverImage: 'VR.jpg'
 ---
 

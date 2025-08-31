@@ -5,16 +5,21 @@ date: '2014-12-09'
 tags:
   - 'news'
   - 'z-kraju'
+  - 'edukacja'
+  - 'kariera'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'praca'
+  - 'społeczność'
+  - 'soap'
+  - 'szkolenia'
+  - 'articles-in-english'
 coverImage: 'soap.jpg'
 ---
 
 To make the soap! story complete, we're giving you translation of our general
-[summary](http://techwriter.pl/mydlo-lubi-zabawe/) of the soap! conference
-prepared by the soap! team. Enjoy! What do soap, pink color, an old cable
-factory, a white terrier, a scooter, coffee, and a selfie in a bathroom all have
-in common?
+[summary](../mydlo-lubi-zabawe/index.md) of the soap! conference prepared by the
+soap! team. Enjoy! What do soap, pink color, an old cable factory, a white
+terrier, a scooter, coffee, and a selfie in a bathroom all have in common?
 
 <!--truncate-->
 

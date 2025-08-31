@@ -4,11 +4,11 @@ authors: mojk
 date: '2015-05-05'
 tags:
   - 'dobre-praktyki'
-  - 'przyklady'
+  - 'przykłady'
   - 'warsztat'
   - 'aplikacje'
-  - 'pomoc-uzytkownika'
-  - 'uzytecznosc'
+  - 'pomoc-użytkownika'
+  - 'użyteczność'
 coverImage: 'error-102075_640-e1430287810378.jpg'
 ---
 

@@ -64,7 +64,7 @@ poprowadził Dave Gash, a towarzyszył mu Tony Self. Wspólnie stworzyli
 niesamowity i zabawny duet, dzięki któremu ten wieczór stanowił naprawdę świetną
 zabawę. I tutaj wkracza nasz portal... jeśli czytasz, byłeś w stanie poprawnie
 odpowiedzieć przynajmniej na jedno pytanie: skąd pochodzi lorem ipsum? Odpowiedź
-znajdziesz [tutaj](http://techwriter.pl/dowiedz-sie-w-koncu-co-to-znaczy/) 😊
+znajdziesz [tutaj](../dowiedz-sie-w-koncu-co-to-znaczy/index.md) 😊
 
 ### Trochę konkretów
 

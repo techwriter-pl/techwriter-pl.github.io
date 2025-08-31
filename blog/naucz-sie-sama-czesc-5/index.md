@@ -4,10 +4,10 @@ authors: mojk
 date: '2014-06-13'
 tags:
   - 'dobre-praktyki'
-  - 'przyklady'
+  - 'przykłady'
   - 'warsztat'
   - 'edukacja'
-  - 'jezyk'
+  - 'język'
   - 'kariera'
 coverImage: 'editing-marks.jpg'
 ---

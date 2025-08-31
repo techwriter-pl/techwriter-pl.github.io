@@ -7,17 +7,18 @@ tags:
   - 'z-kraju'
   - 'kariera'
   - 'konferencje'
-  - 'lokalizacja'
-  - 'urzadzenia-mobilne'
+  - 'tłumaczenia'
+  - 'urządzenia-mobilne'
 coverImage: 'UA_Conference.png'
 ---
 
 Dzieliliśmy się z Wami pierwszymi wrażeniami z
-[konferencji](http://techwriter.pl/ua-europe-conference-pierwsze-wrazenia/ 'UA Europe Conference – pierwsze wrażenia'),
-dziś kolejna porcja relacji z kilku wybranych prezentacji: **Who are we? A
-mirror of UA professionals (Joe Welinske)**, **Trends in user mobile assistance
-(Joe Welinske)**, oraz **Automating and managing multiple projects in a
-multilingual environment (Thomas Bro-Rasmussen)**. A to jeszcze nie koniec...
+[konferencji](../ua-europe-conference-pierwsze-wrazenia/ 'UA Europe Conference –
+pierwsze wrażenia'index.md), dziś kolejna porcja relacji z kilku wybranych
+prezentacji: **Who are we? A mirror of UA professionals (Joe Welinske)**,
+**Trends in user mobile assistance (Joe Welinske)**, oraz **Automating and
+managing multiple projects in a multilingual environment (Thomas
+Bro-Rasmussen)**. A to jeszcze nie koniec...
 
 <!--truncate-->
 

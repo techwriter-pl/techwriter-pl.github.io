@@ -4,15 +4,15 @@ authors: szablowska
 date: '2014-03-27'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'webinarium'
-  - 'zarzadzanie-trescia'
+  - 'zarządzanie-treścią'
 coverImage: 'attractive_content.jpg'
 ---
 
-Z inicjatywy organizacji [Congility](http://www.congility.com/ 'Congility'), 12
+Z inicjatywy organizacji [Congility](http://www.congility.com/), 12
 marca odbyło się webinarium poprowadzone przez
-[Anne Caborn](http://www.inthecontentlab.com/about/ 'Anne Caborn'), specjalistkę
+[Anne Caborn](http://www.inthecontentlab.com/about/), specjalistkę
 od zarządzania treścią i trenerkę. Opowiadała ona o tym co sprawia, że treść
 staje się atrakcyjna dla użytkownika i dla maszyny.
 

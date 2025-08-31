@@ -4,9 +4,8 @@ authors: admin
 date: '2014-11-21'
 tags:
   - 'warsztat'
-  - 'z-przymruzeniem-oka'
   - 'humor'
-  - 'jezyk'
+  - 'język'
 coverImage: 'Ficzer.jpg'
 ---
 
@@ -54,7 +53,7 @@ nich:
 - planowanie,
 - estymacja,
 - długotrwałe spotkania,
-- [riwiu](http://techwriter.pl/langlydz-part-sewen/),
+- [riwiu](../langlydz-part-sewen/index.md),
 - kodowanie,
 - dokumentacja,
 - testowanie,
@@ -71,6 +70,6 @@ Pewne rodzaje pluskiew posiadają zdolność podszywania się pod ficzery.
 ![bug-vs-feature](images/bug-vs-feature.gif)
 
 Nie są jednak tak zaraźliwe i kuracja zazwyczaj jest mniej kosztowna
-(patrz. *[fiks](http://techwriter.pl/langlydz-part-fajf/)*).
+(patrz. *[fiks](../langlydz-part-fajf/index.md)*).
 
 Patrz też: *rilis, estymacja, skołp, deskołp.*

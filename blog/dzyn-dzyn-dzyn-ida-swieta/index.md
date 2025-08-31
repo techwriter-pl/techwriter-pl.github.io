@@ -4,9 +4,8 @@ authors: niedzwiedzka
 date: '2021-12-22'
 tags:
   - 'news'
-  - 'z-przymruzeniem-oka'
   - 'humor'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'Untitled-design.png'
 ---
 
@@ -35,6 +34,6 @@ Dla nas wszystkich, aby sens i wartość naszej pracy były rozumiane i docenian
 
 A jeśli chcecie sobie przypomnieć, co wspólnego ma święty Mikołaj z technical
 writerem, zajrzyjcie
-[tu](http://techwriter.pl/swiety-mikolaj-co-ma-wspolnego-z-technical-writerem/).
+[tu](../swiety-mikolaj-co-ma-wspolnego-z-technical-writerem/index.md).
 
 Śnieżnych Świąt!

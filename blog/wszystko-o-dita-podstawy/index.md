@@ -4,12 +4,12 @@ authors: pensjonatus
 date: '2016-05-04'
 tags:
   - 'dobre-praktyki'
-  - 'narzedzia'
+  - 'narzędzia'
   - 'warsztat'
   - 'dita'
-  - 'manuale'
+  - 'pomoc-użytkownika'
   - 'on-line-help'
-  - 'pomoc-uzytkownika'
+  - 'pomoc-użytkownika'
 coverImage: 'Darwin.png'
 ---
 
@@ -187,8 +187,8 @@ Następnym krokiem jest, jak to zwykle bywa w takiej sytuacji, strategia
 działania! Dlatego właśnie nie lękajcie się, bo załoga TechWriter przybywa na
 ratunek...
 
-- [Wszystko o DITA — Wprowadzenie (1)](http://techwriter.pl/wszystko-o-dita-wprowadzenie-1/)
+- [Wszystko o DITA — Wprowadzenie (1)](../wszystko-o-dita-wprowadzenie-1/index.md)
 - Wszystko o DTA — Podstawy (2)
-- [Wszystko o DITA — Strategia (3)](http://techwriter.pl/wszystko-o-dita-strategia/)
-- [Wszystko o DITA — Narzędzia (4)](http://techwriter.pl/jak-zaczac-pisac-w-dita-narzedzia/)
-- [Wszystko o DITA — Struktura topików (5)](http://techwriter.pl/wszystko-o-dita-struktura-topikow-5/)
+- [Wszystko o DITA — Strategia (3)](../wszystko-o-dita-strategia/index.md)
+- [Wszystko o DITA — Narzędzia (4)](../jak-zaczac-pisac-w-dita-narzedzia/index.md)
+- [Wszystko o DITA — Struktura topików (5)](../wszystko-o-dita-struktura-topikow-5/index.md)

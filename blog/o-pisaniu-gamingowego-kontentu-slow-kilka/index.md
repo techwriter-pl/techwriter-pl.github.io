@@ -3,8 +3,7 @@ title: 'O pisaniu gamingowego kontentu słów kilka'
 authors: agnieszka
 date: '2020-03-09'
 tags:
-  - 'przyklady'
-  - 'gry'
+  - 'przykłady'
 coverImage: 'minecraft-wiki.jpg'
 ---
 
@@ -123,6 +122,6 @@ materiały z każdej wypalonej w twoim kierunku salwy. Może się okazać, że s
 uzbierasz niezły arsenał do pisania treści o grach!
 
 P.S. Ciekawi nas bardzo, czy jest wśród Was ktoś z branży gier komputerowych?
-Jeśli tak - odezwijcie się w komentarzach :-)
+Jeśli tak - odezwijcie się w komentarzach 😊
 
 _Grafika: https://www.youtube.com/watch?v=GCUppNQ\_W6U_

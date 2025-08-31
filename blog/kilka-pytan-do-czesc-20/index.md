@@ -6,8 +6,8 @@ tags:
   - 'warsztat'
   - 'wywiady'
   - 'dokumentacja'
-  - 'spolecznosc'
-  - 'wywiad'
+  - 'społeczność'
+  - 'articles-in-english'
 coverImage: 'wywiad_20.png'
 ---
 

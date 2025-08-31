@@ -3,10 +3,10 @@ title: 'Zaklinacz WordPressa'
 authors: mojk
 date: '2015-03-11'
 tags:
-  - 'narzedzia'
+  - 'narzędzia'
   - 'warsztat'
   - 'aplikacje'
-  - 'manuale'
+  - 'pomoc-użytkownika'
   - 'on-line-help'
 coverImage: 'hprlogo.png'
 ---

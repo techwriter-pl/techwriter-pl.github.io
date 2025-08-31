@@ -10,14 +10,14 @@ coverImage: 'graphic.png'
 
 Jeśli ktoś śledzi cykl "Kilka pytań do...", zapewne zauważył, że najbardziej
 doświadczeni spośród naszych dotychczasowych rozmówców siedzą w branży mniej
-więcej cztery lata (pomijamy
-[Annę](http://techwriter.pl/kilka-pytan-do-czesc-7/), która działa na innym
-rynku). Mamy świadomość, że te kilka wywiadów zapewne nie odzwierciedla pełnego
-przekroju społeczności dokumentalistów, ale dają one pewne wyobrażenie, jak
-młody jest nasz rodzimy rynek tech commu. Naszą ambicją jest nakreślenie
-pełniejszego obrazu dlatego nieustannie poszukujemy osób, które mogły by go
-dopełnić. Dzisiaj zapraszamy na wywiad z Jarkiem Orłowskim, który na tle innych
-przepytywanych jest prawdziwym rekordzistą w kategorii "długość stażu".
+więcej cztery lata (pomijamy [Annę](../kilka-pytan-do-czesc-7/index.md), która
+działa na innym rynku). Mamy świadomość, że te kilka wywiadów zapewne nie
+odzwierciedla pełnego przekroju społeczności dokumentalistów, ale dają one pewne
+wyobrażenie, jak młody jest nasz rodzimy rynek tech commu. Naszą ambicją jest
+nakreślenie pełniejszego obrazu dlatego nieustannie poszukujemy osób, które
+mogły by go dopełnić. Dzisiaj zapraszamy na wywiad z Jarkiem Orłowskim, który na
+tle innych przepytywanych jest prawdziwym rekordzistą w kategorii "długość
+stażu".
 
 <!--truncate-->
 

@@ -4,7 +4,6 @@ authors: mojk
 date: '2015-12-01'
 tags:
   - 'warsztat'
-  - 'z-przymruzeniem-oka'
   - 'humor'
   - 'praca'
 coverImage: 'm-ms-631865_640-e1447187190952.jpg'
@@ -12,7 +11,7 @@ coverImage: 'm-ms-631865_640-e1447187190952.jpg'
 
 Z okazji zbliżających się Mikołajek mamy dla Was coś z przymrużeniem oka. W
 pierwszym półroczu pisaliśmy o
-[dokumentalistach w kulturze masowej](http://techwriter.pl/dokumentalisci-w-kulturze-masowej/).
+[dokumentalistach w kulturze masowej](../dokumentalisci-w-kulturze-masowej/index.md).
 Dzisiaj po części kontynuujemy ten wątek, jednak postanowiliśmy poszerzyć trochę
 zakres poszukiwań. Tym razem skupiliśmy się na wątku dokumentacyjnym w wydaniu
 humorystycznym w jakiejkolwiek formie.

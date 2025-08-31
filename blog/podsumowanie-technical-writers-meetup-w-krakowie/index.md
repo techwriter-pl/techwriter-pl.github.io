@@ -8,10 +8,8 @@ tags:
 coverImage: 'MeetupABB-e1571237713389.jpg'
 ---
 
-Jeżeli nie byliście na
-[zapowiadanym przez nas spotkaniu](http://techwriter.pl/spotkanie-technical-writerow-w-krakowie/)
-to... Wasza strata. Na pociechę nasz wysłannik krótko podsumowuje to wydarzenie
-😊
+Jeżeli nie byliście na zapowiadanym przez nas spotkaniu to... Wasza strata. Na
+pociechę nasz wysłannik krótko podsumowuje to wydarzenie 😊
 
 <!--truncate-->
 

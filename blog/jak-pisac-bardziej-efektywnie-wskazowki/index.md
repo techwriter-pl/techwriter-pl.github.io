@@ -5,8 +5,8 @@ date: '2021-12-15'
 tags:
   - 'dobre-praktyki'
   - 'warsztat'
-  - 'narzedzia'
-  - 'praktyki'
+  - 'narzędzia'
+  - 'dobre-praktyki'
 coverImage: 'Konferencje-2019-10.png'
 ---
 

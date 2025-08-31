@@ -5,8 +5,8 @@ date: '2018-04-04'
 tags:
   - 'warsztat'
   - 'wywiady'
-  - 'spolecznosc'
-  - 'wywiad'
+  - 'społeczność'
+  - 'articles-in-english'
 coverImage: 'Bułgaria.jpg'
 ---
 

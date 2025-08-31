@@ -3,14 +3,14 @@ title: 'Pomoc w aplikacjach mobilnych'
 authors: admin
 date: '2014-01-28'
 tags:
-  - 'przyklady'
+  - 'przykłady'
   - 'warsztat'
-  - 'manuale'
+  - 'pomoc-użytkownika'
   - 'on-line-help'
-  - 'pomoc-uzytkownika'
+  - 'pomoc-użytkownika'
   - 'praca'
   - 'technologie'
-  - 'urzadzenia-mobilne'
+  - 'urządzenia-mobilne'
 coverImage: 'MobileHelp.jpg'
 ---
 

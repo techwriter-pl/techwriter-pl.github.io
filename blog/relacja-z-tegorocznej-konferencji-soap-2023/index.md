@@ -5,8 +5,13 @@ date: '2023-07-14'
 tags:
   - 'news'
   - 'z-kraju'
+  - 'edukacja'
+  - 'kariera'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'praca'
+  - 'społeczność'
+  - 'soap'
+  - 'szkolenia'
 coverImage: 'upload_0522.png'
 ---
 
@@ -84,7 +89,7 @@ otrzymywać najlepsze rezultaty. Od dłuższego czasu śledzę profil Lance’a 
 LinkedIN, bo prezentuje on bardzo wyważone i dojrzałe spojrzenie na ChatGPT i
 inne narzędzia oparte o wielkie modele językowe (_Large Language Models_). Lance
 okazał się dla mnie nieocenioną pomocą podczas przygotowań do napisania artykułu
-[ChatGPT a sprawa techwriterska](http://techwriter.pl/chat-gpt-a-sprawa-tech-writerska/),
+[ChatGPT a sprawa techwriterska](../chat-gpt-a-sprawa-tech-writerska/index.md),
 do przeczytania którego zapraszam, zwłaszcza, jeśli temat wydaje Ci się obcy.
 
 Lance podzielił się swoimi metodami strukturyzowania zapytań dla ChatGPT na
@@ -134,7 +139,7 @@ Zwłaszcza, jeśli chcemy generować wiele treści, które nieznacznie zmieniamy
 każdym razem, wtedy wysiłek włożony w ustrukturyzowanie zapytań się opłaci, choć
 już kwestia korzystania z efektów działania ChatGPT jest dość problematyczna, o
 czym pisałem już w
-[ChatGPT a sprawa techwriterska](http://techwriter.pl/chat-gpt-a-sprawa-tech-writerska/).
+[ChatGPT a sprawa techwriterska](../chat-gpt-a-sprawa-tech-writerska/index.md).
 
 Mimo, że na każdym kroku słychać o tym, że w najbliższej przyszłości nie
 zamówisz hot-doga bez znajomości odpowiedniego _promptu,_ to co jeżeli ta
@@ -497,7 +502,7 @@ programistów jak lepiej pisać dokumentację. Co ciekawe, swoją przygodę ze
 szkoleniami z pisania w swojej firmie rozpoczęła na wniosek współpracowników.
 Nikogo nie musiała do tego namawiać, bo ludzie sami się zgłaszają na jej
 szkolenia. Zapytani o powody, podają na przykład taki: "koledzy mówią, że moją
-dokumentację ciężko się czyta" :-)
+dokumentację ciężko się czyta" 😊
 
 Maria ewidentnie lubi uczyć i chętnie dzieli się wskazówkami jak to robić
 skutecznie. Dla tych osób, które zastanawiają się nad tym, czy uczenie innych
@@ -567,7 +572,7 @@ To samo tyczy się jego rady udzielonej w trakcie sesji pytań i odpowiedzi już
 samej prezentacji. Syndrom oszusta czyni nas ślepymi na nasze osiągnięcia. Aby
 nie upadać na duchu i nie dać się zniechęceniu, Wojtek poleca zapisywanie
 wszystkich małych i dużych sukcesów, i regularne wracanie do tych zapisków.
-Znam, używam, potwierdzam skuteczność :-)
+Znam, używam, potwierdzam skuteczność 😊
 
 ## **Ciekawostki**
 

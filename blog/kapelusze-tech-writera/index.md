@@ -4,12 +4,11 @@ authors: niewiarowski
 date: '2021-04-28'
 tags:
   - 'warsztat'
-  - 'z-przymruzeniem-oka'
   - 'dokumentacja'
   - 'humor'
   - 'kariera'
   - 'praca'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'shakespeare-6102162_6-40-1.jpg'
 ---
 

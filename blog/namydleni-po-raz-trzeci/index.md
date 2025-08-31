@@ -5,8 +5,13 @@ date: '2015-10-14'
 tags:
   - 'news'
   - 'z-kraju'
+  - 'edukacja'
+  - 'kariera'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'praca'
+  - 'społeczność'
+  - 'soap'
+  - 'szkolenia'
 coverImage: 'koszyk_soap.jpg'
 ---
 
@@ -77,7 +82,7 @@ treść jest bardziej
 
 Jakiś czas temu na łamach techwriter.pl również podjęliśmy próbę zdefiniowania
 czym jest content, ale z trochę innej perspektywy 😉 Jej efekty możecie
-podziwiać [tutaj](http://techwriter.pl/langlydz-part-najn/).
+podziwiać [tutaj](../langlydz-part-najn/index.md).
 
 ### O co chodzi z tym różowym mydłem?
 

@@ -3,12 +3,12 @@ title: 'WYNIKI BADANIA PŁAC W KOMUNIKACJI TECHNICZNEJ 2022'
 authors: agnieszka
 date: '2022-09-19'
 tags:
-  - 'badanie-plac'
+  - 'badanie-płac'
   - 'praca'
   - 'ankieta'
   - 'kariera'
   - 'praca'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'Badanie_plac_2022_wyniki.png'
 ---
 
@@ -30,11 +30,11 @@ roku, zapraszamy do poniższego podsumowania.
 
 Wyniki poprzednich badań znajdziecie tu:
 
-- [Wyniki 2021](http://techwriter.pl/wyniki-badania-plac-w-komunikacji-technicznej-2021/)
-- [Wyniki 2020](http://techwriter.pl/wyniki-badania-plac-w-komunikacji-technicznej-2020/)
-- [Wyniki 2019](http://techwriter.pl/wyniki-badania-plac-w-komunikacji-technicznej-2019/)
-- [Wyniki 2018](http://techwriter.pl/wyniki-badania-plac-w-komunikacji-technicznej-2018/)
-- [Wyniki 2017](http://techwriter.pl/wyniki-badania-plac-w-komunikacji-technicznej/)
+- [Wyniki 2021](../wyniki-badania-plac-w-komunikacji-technicznej-2021/index.md)
+- [Wyniki 2020](../wyniki-badania-plac-w-komunikacji-technicznej-2020/index.md)
+- [Wyniki 2019](../wyniki-badania-plac-w-komunikacji-technicznej-2019/index.md)
+- [Wyniki 2018](../wyniki-badania-plac-w-komunikacji-technicznej-2018/index.md)
+- [Wyniki 2017](../wyniki-badania-plac-w-komunikacji-technicznej/index.md)
 
 Oto jak sytuacja zmieniała się na przestrzeni lat, w których przeprowadzaliśmy
 badania:

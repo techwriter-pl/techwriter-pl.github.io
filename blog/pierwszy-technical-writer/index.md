@@ -5,10 +5,9 @@ date: '2014-09-05'
 tags:
   - 'news'
   - 'warsztat'
-  - 'z-przymruzeniem-oka'
   - 'humor'
-  - 'manuale'
-  - 'spolecznosc'
+  - 'pomoc-użytkownika'
+  - 'społeczność'
 coverImage: '220px-Ada_Lovelace_portrait.jpg'
 ---
 
@@ -18,7 +17,7 @@ wierzcie w to.
 <!--truncate-->
 
 Pamiętacie artykuł o
-[geografii komunikacji technicznej](http://techwriter.pl/komunikacja-techniczna-geograficznie/)?
+[geografii komunikacji technicznej](../komunikacja-techniczna-geograficznie/index.md)?
 Wyrobione oko bez trudu dojrzało na mapce zarys niebieskiej kropki. Kryje się za
 nią następujący opis:
 
@@ -53,8 +52,8 @@ ponieważ Robert jest [postacią fikcyjną](http://en.wikipedia.org/wiki/Clariss
 
 Stanowczo natomiast sprzeciwiamy się nazywaniem jej pierwszym techwriterem!
 
-Są przecież [niezbite dowody](http://techwriter.pl/5-sredniowiecznych-jaktosow/)
-na to, że nasza profesja miała się całkiem dobrze już dużo, dużo wcześniej. Że o
+Są przecież [niezbite dowody](../5-sredniowiecznych-jaktosow/index.md) na to, że
+nasza profesja miała się całkiem dobrze już dużo, dużo wcześniej. Że o
 hieroglifach nie wspomnimy.
 
 A Ada Lovelace ma już nawet

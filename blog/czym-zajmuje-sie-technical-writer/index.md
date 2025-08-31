@@ -3,10 +3,10 @@ title: 'Czym zajmuje się technical writer?'
 authors: admin
 date: '2014-10-28'
 tags:
-  - 'przyklady'
+  - 'przykłady'
   - 'warsztat'
   - 'instrukcje'
-  - 'pomoc-uzytkownika'
+  - 'pomoc-użytkownika'
   - 'praca'
 coverImage: 'TechnicalAutor.jpg'
 ---
@@ -27,5 +27,4 @@ I część druga:
 
 <iframe src="//www.youtube.com/embed/ggHqqu03Unw" width={420} height={315} frameBorder={0} allowFullScreen="allowFullScreen" />
 
-Fajne zajęcie, prawda? A to tylko wierzchołek
-[góry lodowej](http://techwriter.pl/category/warsztat/przyklady/)...
+Fajne zajęcie, prawda? A to tylko wierzchołek góry lodowej...

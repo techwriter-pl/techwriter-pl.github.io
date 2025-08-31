@@ -4,10 +4,10 @@ authors: szablowska
 date: '2014-01-07'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'konferencje'
-  - 'materialy-szkoleniowe'
-  - 'treningi'
+  - 'materiały-szkoleniowe'
+  - 'szkolenia'
 coverImage: 'online-educa-berlin-2013.png'
 ---
 

@@ -6,14 +6,14 @@ tags:
   - 'news'
   - 'z-kraju'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
+  - 'soap'
 coverImage: 'soap_coffee-e1445236483405.jpg'
 ---
 
-Po ogólnym
-[podsumowaniu](http://techwriter.pl/namydleni-po-raz-trzeci/ 'Namydleni po raz trzeci')
-tegorocznej edycji [soap!](http://soapconf.com/), przedstawiamy skrótowo wybrane
-przez nas prezentacje.
+Po ogólnym [podsumowaniu](../namydleni-po-raz-trzeci/ 'Namydleni po raz
+trzeci'index.md) tegorocznej edycji [soap!](http://soapconf.com/), przedstawiamy
+skrótowo wybrane przez nas prezentacje.
 
 <!--truncate-->
 

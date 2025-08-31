@@ -3,18 +3,18 @@ title: 'Jak nauczyłem się wszystkiego co wiem o DITA'
 authors: mojk
 date: '2016-01-19'
 tags:
-  - 'narzedzia'
-  - 'przyklady'
+  - 'narzędzia'
+  - 'przykłady'
   - 'warsztat'
   - 'technologie'
 coverImage: 'dita-logo.png'
 ---
 
 Nie tak dawno publikowaliśmy
-[wywiad z Pawłem Kowalukiem](http://techwriter.pl/kilka-pytan-do-czesc-8/),
-który opowiedział nam o swoim doświadczeniu w branży komunikacji technicznej.
-Niedługo po tym otrzymaliśmy od niego artykuł, którym dzisiaj się z Wami
-dzielimy - krótka historia o przygodzie z
+[wywiad z Pawłem Kowalukiem](../kilka-pytan-do-czesc-8/index.md), który
+opowiedział nam o swoim doświadczeniu w branży komunikacji technicznej. Niedługo
+po tym otrzymaliśmy od niego artykuł, którym dzisiaj się z Wami dzielimy -
+krótka historia o przygodzie z
 [DITA](https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architecture).
 
 <!--truncate-->

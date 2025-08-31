@@ -58,7 +58,6 @@ title:
 authors: mojk
 date: '2023-09-13'
 tags:
-  - 'oferty-pracy'
   - 'praca'
   - 'kariera'
 coverImage: 'CKSource-logo-2.jpg'
@@ -80,10 +79,11 @@ coverImage: 'CKSource-logo-2.jpg'
   authors: ['mojk', 'pensjonatus`]
   ```
 
-- `date`: notice the date format: `YYYY-MM-DD`. The date becomes the ID for
-  Disqus.
+- `date`: notice the date format: `YYYY-MM-DD`.
 - `tags`: look at the list of used tags. Which ones suit your needs the most?
-Use `articles-in-english` tag for articles written by our English speaking friends. 
+  Use `articles-in-english` tag for articles written by our English speaking
+  friends. If you need to create a new tag, use lower case letters and hyphens,
+  Polish diacritic signs are allowed. E.g.: `zrzeszenia-branżowe`.
 - `coverImage`: this image will be displayed on the home page preview of your
   post. Note that this image is located in the `static/img/cover` folder.
 
@@ -95,7 +95,10 @@ Use `articles-in-english` tag for articles written by our English speaking frien
 6. Add your post contents. Read about Markdown features in
    [the official Docusaurus Markdown guide](https://docusaurus.io/docs/markdown-features).
 
-7. Every post needs a preview section. This preview section appears as the
+7. When you link to other Techwriter.pl articles, use relative links:
+   `[LINK TEXT](../witaj-swiecie/index.md)`.
+
+8. Every post needs a preview section. This preview section appears as the
    summary of the blog post, and there's a "read more" link underneath. To mark
    where the preview section ends, add the following as a separate line:
 
@@ -103,7 +106,7 @@ Use `articles-in-english` tag for articles written by our English speaking frien
    <!--truncate-->
    ```
 
-8. We use Code Spell Checker (cSpell). If you use unfamiliar words in your post,
+9. We use Code Spell Checker (cSpell). If you use unfamiliar words in your post,
    cSpell will underline them. If it's actually a word you want to use, hover
    over it with your mouse and select **Quick actions**, and select **Add to
    workspace settings**. This saves the word to be used in other posts and by
@@ -111,17 +114,36 @@ Use `articles-in-english` tag for articles written by our English speaking frien
 
    **HINT:** Instead of hovering with your mouse, you can press Ctrl+P or Cmd+P.
 
-9. We use Prettier to format code. It makes it easier for others to add comments
-   to code fragments.
+10. We use Prettier to format code. It makes it easier for others to add
+    comments to code fragments.
 
-   **HINT:** Use Ctrl+S or Cmd+S shortcut.
+    **HINT:** Use Ctrl+S or Cmd+S shortcut.
 
-10. If you want to add images, in the folder where you created your `index.md`
-   file, create an `images` folder and place them there. Remember that file
-   paths in this environment are **case sensitive**.
+11. If you want to add images, in the folder where you created your `index.md`
+    file, create an `images` folder and place them there. Remember that file
+    paths in this environment are **case sensitive**.
 
-   If you are working in VS Code in the browser, you can drag-and-drop images
-   from your file explorer into the browser window.
+If you are working in VS Code in the browser, you can drag-and-drop images from
+your file explorer into the browser window.
+
+12. Image attribution.
+
+- As much as possible, rely on graphics and illustrations you create and have
+  rights to.
+- If you need someone else's images, choose from sets that have clearly defined
+  usage licenses. Obey the attribution practices. In the article, include
+  necessary info: source, author, title, license type, etc.
+- If you need an image that does not have an explicit usage license, at least
+  give a link to the source. We want to be fair towards the graphics' creators.
+- If you generate image using GenAI, mention the tool in the caption.
+- If you create an image using a free to use software, verify if its usage
+  license complies with pro bono blog posting.
+- If you create an image with a tool you paid for, you don't need to mention the
+  tool in the caption.
+
+13. If you include an image that is not decorative but contains useful knowledge,
+   use ALT texts that give an idea what the image is about. Make it screen
+   reader friendly. `![ALT text goes here](images/filename.png)`.
 
 ## Creating a PR
 

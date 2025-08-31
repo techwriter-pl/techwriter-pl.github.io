@@ -4,8 +4,8 @@ authors: admin
 date: '2016-09-18'
 tags:
   - 'news'
-  - 'ze-swiata'
-  - 'spolecznosc'
+  - 'ze-świata'
+  - 'społeczność'
 coverImage: 'TechwriterPl3.jpg'
 ---
 
@@ -17,9 +17,8 @@ podczas wyjazdu na konferencję
 <!--truncate-->
 
 Kiedy dokładnie trzy lata temu powstawał
-[pierwszy wpis na naszej stronie](http://techwriter.pl/witaj-swiecie/), nie
-mieliśmy chyba pojęcia dokąd nas to zaprowadzi, jak długo wytrwamy i czy w ogóle
-warto...
+[pierwszy wpis na naszej stronie](../witaj-swiecie/index.md), nie mieliśmy chyba
+pojęcia dokąd nas to zaprowadzi, jak długo wytrwamy i czy w ogóle warto...
 
 Dziś możemy odpowiedzieć na wszystkie te pytania:
 

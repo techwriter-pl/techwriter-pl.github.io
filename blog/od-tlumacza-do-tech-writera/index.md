@@ -3,12 +3,12 @@ title: 'Od Tłumacza do Tech Writera'
 authors: niewiarowski
 date: '2022-04-27'
 tags:
-  - 'przyklady'
+  - 'przykłady'
   - 'warsztat'
   - 'dokumentacja'
   - 'kariera'
   - 'praca'
-  - 'tlumaczenia'
+  - 'tłumaczenia'
 coverImage: 'origin-mode1-760x362-1.jpg'
 ---
 
@@ -222,9 +222,8 @@ zdaniu egzaminu napisałem mój pierwszy, anglojęzyczny artykuł na LinkedIN
 ([ITCQF certification: was it worth it?](https://www.linkedin.com/pulse/itcqf-certification-worth-andrzej-niewiarowski)),
 który zwrócił uwagę Darka - współtwórcy tego standardu i redaktora naczelnego
 Techwriter.pl. Darek zauważył moje zainteresowanie ITCQF (załączam link do
-mojego artykułu:
-[Perły z Sylabusa ITCQF](http://techwriter.pl/perly-z-sylabusa-itcqf/)) i chęć
-do przelewania myśli na papier. W rezultacie, przyczyniłem się do uładzenia
+mojego artykułu: [Perły z Sylabusa ITCQF](../perly-z-sylabusa-itcqf/index.md)) i
+chęć do przelewania myśli na papier. W rezultacie, przyczyniłem się do uładzenia
 kilku kwestii językowych w sylabusie do kursu przygotowawczego i dołączyłem do
 sympatycznej redakcji Techwriter.pl, podejmując wyzwanie pisania w tym jakże
 trudnym języku, jakim jest polski. Teraz wymieniam uwagi z utalentowanymi

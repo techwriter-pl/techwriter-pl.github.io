@@ -3,7 +3,7 @@ title: 'Niepozorne, ale przydatne aplikacje'
 authors: mojk
 date: '2015-06-30'
 tags:
-  - 'narzedzia'
+  - 'narzędzia'
   - 'warsztat'
   - 'aplikacje'
 coverImage: 'toolbox-304894_640-e1435412819757.png'
@@ -76,10 +76,10 @@ możemy od razu sprawdzić jego całkowity koszt za pomocą wykresu kosztów.
 ## Coś dla zdrowia
 
 W poprzednim tygodniu opublikowaliśmy
-[garść wskazówek](http://techwriter.pl/technical-writer-w-dobrej-formie/), które
-pomagają pozostać Tech Writerom w dobrej formie. Jedna z nich mówiła o robieniu
-przerw dla zmęczonych oczu. Tak samo jak przerwy, dla naszego wzroku ważne jest
-również odpowiednie ustawienie ekranu. Tutaj z pomocą przychodzi nam aplikacja
+[garść wskazówek](../technical-writer-w-dobrej-formie/index.md), które pomagają
+pozostać Tech Writerom w dobrej formie. Jedna z nich mówiła o robieniu przerw
+dla zmęczonych oczu. Tak samo jak przerwy, dla naszego wzroku ważne jest również
+odpowiednie ustawienie ekranu. Tutaj z pomocą przychodzi nam aplikacja
 [f.lux](https://justgetflux.com/), która dostosowuje kolory ekranu komputera do
 pory dnia. W ciągu dnia, kiedy świeci słońce, ekran dostosowany jest do
 oświetlenia naturalnego. Po zachodzie słońca, ustawienia zmieniają się tak, żeby

@@ -3,19 +3,19 @@ title: 'Documentor - opis narzędzia'
 authors: admin
 date: '2015-09-22'
 tags:
-  - 'narzedzia'
+  - 'narzędzia'
   - 'warsztat'
   - 'aplikacje'
-  - 'manuale'
+  - 'pomoc-użytkownika'
   - 'on-line-help'
 coverImage: 'Documentor-logo.jpg'
 ---
 
-Podczas szkolenia ITCQF
-([relacja](http://techwriter.pl/szkolenie-itcqf-relacja/)) spotkaliśmy Adriana,
-który pracuje z narzędziem [Documentor](https://documentor.in/). Po krótkich
-namowach zgodził się opisać dla Was narzędzie do intuicyjnego i przejrzystego
-tworzenia dokumentacji z wykorzystaniem WordPress'a - dziękujemy!
+Podczas szkolenia ITCQF ([relacja](../szkolenie-itcqf-relacja/index.md))
+spotkaliśmy Adriana, który pracuje z narzędziem
+[Documentor](https://documentor.in/). Po krótkich namowach zgodził się opisać
+dla Was narzędzie do intuicyjnego i przejrzystego tworzenia dokumentacji z
+wykorzystaniem WordPress'a - dziękujemy!
 
 <!--truncate-->
 
@@ -104,7 +104,7 @@ Adrian Gonciarz
 
 Od redakcji: O możliwości wykorzystania WordPressa do tworzenia dokumentacji
 pisaliśmy już jakiś czas temu,
-[opisując narzędzie Helpinator](http://techwriter.pl/zaklinacz-wordpressa/).
-Swoją drogą, ciekawe kto wymyśla nazwy tych narzędzi - Terminator? Może czas
-stworzyć swój produkt tego typu i nazwać go na przykład...
-[Kontentor](http://techwriter.pl/langlydz-part-najn/)? Co o tym sądzicie?
+[opisując narzędzie Helpinator](../zaklinacz-wordpressa/index.md). Swoją drogą,
+ciekawe kto wymyśla nazwy tych narzędzi - Terminator? Może czas stworzyć swój
+produkt tego typu i nazwać go na przykład...
+[Kontentor](../langlydz-part-najn/index.md)? Co o tym sądzicie?

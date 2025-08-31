@@ -6,8 +6,7 @@ tags:
   - 'warsztat'
   - 'wywiady'
   - 'dokumentacja'
-  - 'spolecznosc'
-  - 'wywiad'
+  - 'społeczność'
 coverImage: 'Kilka.png'
 ---
 
@@ -127,6 +126,4 @@ rekrutacji na stanowisko entry level. Pokaż entuzjazm i te cztery umiejętnośc
 I już masz pierwszy krok za sobą! 😊
 
 Serdecznie dziękujemy Michałowi Hylińskiemu za to obszerne wprowadzenie w
-specyfikę jego zawodu. A chętnych po więcej wrażeń zza biurka techwriterskiego,
-zapraszamy do lektury pozostałych materiałów powstałych pod szyldem
-[jak to robią inni](http://techwriter.pl/category/warsztat/jak-to-robia-inni/).
+specyfikę jego zawodu.

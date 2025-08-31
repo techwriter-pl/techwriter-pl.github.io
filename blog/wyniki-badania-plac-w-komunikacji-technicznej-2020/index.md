@@ -3,12 +3,12 @@ title: 'Wyniki badania płac w komunikacji technicznej 2020'
 authors: agnieszka
 date: '2020-06-23'
 tags:
-  - 'badanie-plac'
+  - 'badanie-płac'
   - 'praca'
   - 'ankieta'
   - 'kariera'
   - 'praca'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'wyniki.png'
 ---
 
@@ -24,9 +24,9 @@ ciekawi Was co zmieniło się w 2020 roku, zapraszamy do poniższego podsumowani
 
 Wyniki poprzednich badań znajdziecie tu:
 
-- [Wyniki 2019](http://techwriter.pl/wyniki-badania-plac-w-komunikacji-technicznej-2019/)
-- [Wyniki 2018](http://techwriter.pl/wyniki-badania-plac-w-komunikacji-technicznej-2018/)
-- [Wyniki 2017](http://techwriter.pl/wyniki-badania-plac-w-komunikacji-technicznej/)
+- [Wyniki 2019](../wyniki-badania-plac-w-komunikacji-technicznej-2019/index.md)
+- [Wyniki 2018](../wyniki-badania-plac-w-komunikacji-technicznej-2018/index.md)
+- [Wyniki 2017](../wyniki-badania-plac-w-komunikacji-technicznej/index.md)
 
 Oto jak sytuacja zmieniła się na przestrzeni lat.
 
@@ -97,9 +97,9 @@ także inne funkcje w firmie, czego nie określiła w ankiecie.
 
 Tak jak w poprzednich latach, większość ankietowanych nauczyło się zawodu w
 pracy. Ciągle brakuje osób chętnych, by skorzystać z
-[kierunkowych studiów](http://techwriter.pl/studia-podyplomowe-z-komunikacji-technicznej/),
+[kierunkowych studiów](../studia-podyplomowe-z-komunikacji-technicznej/index.md),
 choć i tu ich liczba nieznacznie wzrosła. Powoli wzrasta także liczba osób z
-certyfikatem [ITCQF](http://techwriter.pl/szkolenie-itcqf-relacja/).
+certyfikatem [ITCQF](../szkolenie-itcqf-relacja/index.md).
 
 | PRZYGOTOWANIE                         | PROCENTOWO | LICZBA ODPOWIEDZI |
 | ------------------------------------- | ---------- | ----------------- |

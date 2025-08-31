@@ -7,7 +7,7 @@ tags:
   - 'wywiady'
   - 'kariera'
   - 'praca'
-  - 'wywiad'
+  - 'articles-in-english'
 coverImage: 'kilka_pytan_30.png'
 ---
 
@@ -236,9 +236,8 @@ readers about complex topics or processes.
 However, I believe that high-quality content writing should integrate effective
 technical writing principles. This is because the primary objective should
 always be to educate customers about how to use a product and address their
-business needs. **I refer to this as the convergence of the technical writing and
- marketing writing worlds**.
-
+business needs. **I refer to this as the convergence of the technical writing
+and marketing writing worlds**.
 
 ## Work of a marketing content writer
 

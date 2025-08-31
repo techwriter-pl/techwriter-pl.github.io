@@ -1,18 +1,21 @@
 ---
-title: 'Relacja z konferenecji Write the Docs Prague 2021'
+title: 'Relacja z konferencji Write the Docs Prague 2021'
 authors: toporek
 date: '2021-10-26'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
+  - 'dokumentacja'
+  - 'edukacja'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
+  - 'write-the-docs'
 coverImage: '34495135662_d0f045f4a5_o-scaled.jpg'
 ---
 
 Na początku października odbyła się kolejna edycja dobrze już znanej konferencji
 [Write the Docs Prague](https://www.writethedocs.org/conf/prague/2021/). Nie
-mogło na niej zabraknąć przedstawicieli [techwriter.pl](http://techwriter.pl/).
+mogło na niej zabraknąć przedstawicieli techwriter.pl.
 Zapraszamy na relację!
 
 <!--truncate-->
@@ -30,7 +33,7 @@ części artykułu.
 ### Informacje ogólne
 
 Podobnie jak
-[Write the Docs Prague 2020](http://techwriter.pl/relacja-z-write-the-docs-prague-2020-online/),
+[Write the Docs Prague 2020](../relacja-z-write-the-docs-prague-2020-online/index.md),
 wszystkie wydarzenia odbywały się na wirtualnej platformie
 [Hopin](https://www.youtube.com/watch?v=aLtnc0ITzok). W konferencji wzięło
 udział ponad 300 osób, 13 prelegentów, 8 osób wystąpiło podczas Lighting talks.

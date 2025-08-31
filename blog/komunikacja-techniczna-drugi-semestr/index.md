@@ -31,12 +31,11 @@ oznaczone gwiazdką - wyjaśniam je pod koniec, w mini glosariuszu.**
 
 #### A jednak techniczna
 
-Po
-[pierwszym tekście](http://techwriter.pl/komunikacja-techniczna-jak-sie-studiuje/),
-w którym opisywałam wrażenia  z pierwszego semestru, dostałam na priv sporo
-pytań. Dotyczyły one specyfiki zawodu technical writera, programu zajęć, tego,
-na ile niezbędna jest znajomość branży IT, a także minimalnego wymaganego
-stopnia “techniczności”, której zresztą sama na początku się bałam. Dziś, już po
+Po [pierwszym tekście](../komunikacja-techniczna-jak-sie-studiuje/index.md), w
+którym opisywałam wrażenia  z pierwszego semestru, dostałam na priv sporo pytań.
+Dotyczyły one specyfiki zawodu technical writera, programu zajęć, tego, na ile
+niezbędna jest znajomość branży IT, a także minimalnego wymaganego stopnia
+“techniczności”, której zresztą sama na początku się bałam. Dziś, już po
 ukończeniu studiów, mogę zupełnie szczerze powiedzieć - możesz wchodzić na ten
 kierunek bez doświadczenia w IT, z całkowicie czystą kartą, ale jeśli nie masz
 choćby odrobiny zacięcia do pracy z narzędziami typowymi dla branży (takimi jak

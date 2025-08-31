@@ -4,9 +4,8 @@ authors: admin
 date: '2013-12-12'
 tags:
   - 'news'
-  - 'z-przymruzeniem-oka'
   - 'humor'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'Facebook.jpg'
 ---
 
@@ -20,8 +19,8 @@ uśmiechnięci? Redakcja techwriter.pl w prezencie mikołajkowym otrzymała...
 A na dokładkę - [konto na Twitter'ze](http://twitter.com/techwriterpl).
 
 Byliśmy Cloud, teraz będziemy jeszcze Social -
-[zgodnie z tym, co pisaliśmy ostatnio](http://techwriter.pl/kwestia-smacu/) -
-zostały jeszcze dwie literki 😊
+[zgodnie z tym, co pisaliśmy ostatnio](../kwestia-smacu/index.md) - zostały
+jeszcze dwie literki 😊
 
 A teraz to właśnie **Ty - najlepszy technical writer na całym świecie** - masz
 jedyną, niepowtarzalną szansę żeby polubić nasz profil jako pierwszy!!!

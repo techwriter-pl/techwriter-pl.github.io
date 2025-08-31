@@ -4,14 +4,14 @@ authors: mojk
 date: '2018-03-07'
 tags:
   - 'dobre-praktyki'
-  - 'przyklady'
+  - 'przykłady'
   - 'warsztat'
   - 'instrukcje'
-  - 'jezyk'
-  - 'manuale'
+  - 'język'
+  - 'pomoc-użytkownika'
   - 'on-line-help'
-  - 'pomoc-uzytkownika'
-  - 'tlumaczenia'
+  - 'pomoc-użytkownika'
+  - 'tłumaczenia'
 coverImage: 'box-3144128_640.jpg'
 ---
 

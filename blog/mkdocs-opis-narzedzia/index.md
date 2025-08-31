@@ -3,7 +3,7 @@ title: 'MkDocs - opis narzędzia'
 authors: mojk
 date: '2015-03-06'
 tags:
-  - 'narzedzia'
+  - 'narzędzia'
   - 'warsztat'
   - 'aplikacje'
   - 'on-line-help'

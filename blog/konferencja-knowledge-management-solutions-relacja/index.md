@@ -7,13 +7,12 @@ tags:
   - 'z-kraju'
   - 'knowledge-base'
   - 'konferencje'
-  - 'zarzadzanie-wiedza'
+  - 'zarządzanie-wiedzą'
 coverImage: 'KonferencjaKnowledgeManagementSolutions.png'
 ---
 
-Jakiś czas temu
-[informowaliśmy Was o tej konferencji](http://techwriter.pl/konferencja-knowledge-management-solutions/),
-dziś krótka relacja i wrażenia z punktu widzenia uczestnika.
+Jakiś czas temu informowaliśmy Was o tej konferencji, dziś krótka relacja i
+wrażenia z punktu widzenia uczestnika.
 
 <!--truncate-->
 

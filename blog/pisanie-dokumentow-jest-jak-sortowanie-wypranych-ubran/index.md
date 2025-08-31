@@ -6,8 +6,8 @@ tags:
   - 'dobre-praktyki'
   - 'warsztat'
   - 'instrukcje'
-  - 'manuale'
-  - 'pomoc-uzytkownika'
+  - 'pomoc-użytkownika'
+  - 'pomoc-użytkownika'
 coverImage: 'laundry.jpg'
 ---
 

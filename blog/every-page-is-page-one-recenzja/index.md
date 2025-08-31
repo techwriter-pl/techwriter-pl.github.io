@@ -6,9 +6,8 @@ tags:
   - 'biblioteczka-techwritera'
   - 'warsztat'
   - 'literatura'
-  - 'materialy-szkoleniowe'
-  - 'recenzja'
-  - 'zarzadzanie-trescia'
+  - 'materiały-szkoleniowe'
+  - 'zarządzanie-treścią'
 coverImage: 'patrick-tomasso-71909.png'
 ---
 
@@ -23,7 +22,7 @@ Aby pisać, trzeba czytać. Anglojęzyczna literatura dla autorów technicznych
 przez ostatnie kilkadziesiąt lat dorobiła się sporej historii i ciężko narzekać
 na brak ciekawych pozycji. Możemy wręcz przebierać w podręcznikach, poradnikach,
 style guide’ach, a nawet publikacjach akademickich. O wielu z nich pisaliśmy już
-na łamach [Techwriter.pl](http://techwriter.pl/tag/literatura/).
+na łamach Techwriter.pl.
 
 Jak jednak wiadomo, technical writing dość szybko ewoluuje i część literatury
 traci na aktualności. Na szczęście są książki, które pozwalają się zatrzymać i

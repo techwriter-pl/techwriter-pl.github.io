@@ -6,7 +6,7 @@ tags:
   - 'bez-kategorii'
   - 'dobre-praktyki'
   - 'praca'
-  - 'przyklady'
+  - 'przykłady'
   - 'kariera'
   - 'praca'
   - 'rekrutacja'

@@ -6,8 +6,8 @@ tags:
   - 'news'
   - 'z-kraju'
   - 'konferencje'
-  - 'spolecznosc'
-  - 'tlumaczenia'
+  - 'społeczność'
+  - 'tłumaczenia'
 coverImage: 'baner-e1535404907525.jpg'
 ---
 

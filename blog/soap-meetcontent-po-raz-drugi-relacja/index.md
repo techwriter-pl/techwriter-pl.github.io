@@ -8,8 +8,8 @@ tags:
   - 'edukacja'
   - 'kariera'
   - 'konferencje'
-  - 'spolecznosc'
-  - 'treningi'
+  - 'społeczność'
+  - 'szkolenia'
 coverImage: 'uxwriting.png'
 ---
 

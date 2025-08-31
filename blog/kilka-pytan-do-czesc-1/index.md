@@ -5,8 +5,7 @@ date: '2015-01-27'
 tags:
   - 'warsztat'
   - 'wywiady'
-  - 'spolecznosc'
-  - 'wywiad'
+  - 'społeczność'
 coverImage: 'hw_ace_press_250.jpg'
 ---
 

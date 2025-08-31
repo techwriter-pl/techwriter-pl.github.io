@@ -6,9 +6,9 @@ tags:
   - 'dobre-praktyki'
   - 'warsztat'
   - 'instrukcje'
-  - 'manuale'
-  - 'pomoc-uzytkownika'
-  - 'uzytecznosc'
+  - 'pomoc-użytkownika'
+  - 'pomoc-użytkownika'
+  - 'użyteczność'
 coverImage: 'usability.jpg'
 ---
 

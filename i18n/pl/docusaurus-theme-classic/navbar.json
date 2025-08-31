@@ -1,0 +1,30 @@
+{
+  "title": {
+    "message": "techwriter.pl",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "logo techwriter.pl",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.English": {
+    "message": "English",
+    "description": "Navbar item with label English"
+  },
+  "item.label.Konferencje 2024": {
+    "message": "Konferencje 2024",
+    "description": "Navbar item with label Konferencje 2024"
+  },
+  "item.label.Oferty pracy": {
+    "message": "Oferty pracy",
+    "description": "Navbar item with label Oferty pracy"
+  },
+  "item.label.Szkolenia": {
+    "message": "Szkolenia",
+    "description": "Navbar item with label Szkolenia"
+  },
+  "item.label.Kontakt": {
+    "message": "Kontakt",
+    "description": "Navbar item with label Kontakt"
+  }
+}

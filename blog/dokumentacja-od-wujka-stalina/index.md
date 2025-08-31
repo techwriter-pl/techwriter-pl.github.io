@@ -4,10 +4,10 @@ authors: toporek
 date: '2021-04-07'
 tags:
   - 'z-kraju'
-  - 'z-przymruzeniem-oka'
+  - 'humor'
   - 'dokumentacja'
   - 'instrukcje'
-  - 'uzytecznosc'
+  - 'użyteczność'
 coverImage: 'Fotopolska_818966.jpg'
 ---
 

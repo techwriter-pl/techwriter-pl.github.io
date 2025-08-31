@@ -5,8 +5,7 @@ date: '2015-02-05'
 tags:
   - 'warsztat'
   - 'wywiady'
-  - 'spolecznosc'
-  - 'wywiad'
+  - 'społeczność'
 coverImage: 'HIS.jpg'
 ---
 

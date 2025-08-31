@@ -7,7 +7,6 @@ tags:
   - 'warsztat'
   - 'dokumentacja'
   - 'podcast'
-  - 'praktyki'
 coverImage: 'twk_35_i_36.png'
 ---
 

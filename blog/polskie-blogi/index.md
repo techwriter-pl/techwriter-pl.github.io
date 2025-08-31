@@ -5,9 +5,9 @@ date: '2015-03-18'
 tags:
   - 'biblioteczka-techwritera'
   - 'warsztat'
-  - 'jezyk'
-  - 'spolecznosc'
-  - 'tlumaczenia'
+  - 'język'
+  - 'społeczność'
+  - 'tłumaczenia'
 coverImage: 'blogi.jpg'
 ---
 
@@ -52,12 +52,11 @@ dawna.
 - Na koniec strona o pięknej nazwie
   [Chomeland Polishizna](http://polishizna.blox.pl/html), z której twórcami
   czujemy szczególny związek emocjonalny. Może dlatego, że wydaje nam się bliska
-  temu, co sami próbujemy robić
-  w sekcji [Langłydż](http://techwriter.pl/category/langlydz/). My jednak nie
-  potrafilibyśmy tak ładnie opisać tego co robimy: "_Bestiarium językowe przez
-  zatroskanego amatora ekologa polszczyzny założone, różne okazy straszne
-  współczesnej gadaniny i pisaniny po polsku gromadzące. Rodzaj donkiszoterii w
-  wolnych chwilach uprawianej. Kolekcja potworności, innymi słowy mówiąc._"
+  temu, co sami próbujemy robić w sekcji Langłydż. My jednak nie potrafilibyśmy
+  tak ładnie opisać tego co robimy: "_Bestiarium językowe przez zatroskanego
+  amatora ekologa polszczyzny założone, różne okazy straszne współczesnej
+  gadaniny i pisaniny po polsku gromadzące. Rodzaj donkiszoterii w wolnych
+  chwilach uprawianej. Kolekcja potworności, innymi słowy mówiąc._"
 
 I to by było na tyle. Gorąco polecamy odświeżające lektury, dodanie wyżej
 wymienionych blogów do swoich czytników RSS i dalsze własne poszukiwania.

@@ -6,8 +6,7 @@ tags:
   - 'warsztat'
   - 'wywiady'
   - 'dokumentacja'
-  - 'spolecznosc'
-  - 'wywiad'
+  - 'społeczność'
 coverImage: 'MartynaWywiad.jpg'
 ---
 

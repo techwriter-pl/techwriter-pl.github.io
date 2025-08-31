@@ -2,6 +2,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 import techWriterWebpackPlugin from './webpack-plugin';
+import remarkDefList from 'remark-deflist';
 
 const config: Config = {
   title: 'techwriter.pl',
@@ -34,14 +35,21 @@ const config: Config = {
     [
       'classic',
       {
+        docs: {
+          remarkPlugins: [remarkDefList],
+        },
         blog: {
           showReadingTime: true,
           routeBasePath: '/',
           blogListComponent: '@site/src/components/BlogList/BlogList',
-          postsPerPage: 3,
-          blogSidebarTitle: 'Najnowsze wpisy',
+          postsPerPage: 5,
+          blogSidebarTitle: 'Najnowsze artykuły',
           editUrl:
             'https://github.com/techwriter-pl/techwriter-pl.github.io/tree/main',
+          remarkPlugins: [remarkDefList],
+        },
+        pages: {
+          remarkPlugins: [remarkDefList],
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -68,20 +76,16 @@ const config: Config = {
         src: 'img/logo-square.png',
       },
       items: [
-        { to: '/?feed=true', label: 'Blog', position: 'right' },
-        { to: '/tags/articles-in-english', label: 'English', position: 'right' },
+        {
+          to: '/tags/articles-in-english',
+          label: 'English',
+          position: 'right',
+        },
+        { to: '/wydarzenia', label: 'Wydarzenia', position: 'right' },
+        { to: '/konferencje', label: 'Konferencje 2025', position: 'right' },
+        { to: '/oferty-pracy', label: 'Oferty pracy', position: 'right' },
+        { to: '/linki', label: 'Linki', position: 'right' },
         { to: '/szkolenia', label: 'Szkolenia', position: 'right' },
-        {
-          to: '/kim-jestesmy',
-          label: 'O nas',
-          position: 'right',
-        },
-        { to: '/kontrybutorzy', label: 'Napisz artykuł', position: 'right' },
-        {
-          to: 'https://www.facebook.com/groups/tworzeniedokumentacji',
-          label: 'Grupa facebookowa',
-          position: 'right',
-        },
         { to: '/kontakt', label: 'Kontakt', position: 'right' },
       ],
     },
@@ -91,10 +95,6 @@ const config: Config = {
         {
           label: 'Facebook',
           href: 'http://www.facebook.com/techwriterpl',
-        },
-        {
-          label: 'X.com (dawny Twitter)',
-          href: 'http://x.com/techwriterpl',
         },
         {
           label: 'LinkedIn',
@@ -114,8 +114,22 @@ const config: Config = {
       darkTheme: prismThemes.dracula,
     },
   } satisfies Preset.ThemeConfig,
-  plugins: [techWriterWebpackPlugin],
-  themes: ['@docusaurus/theme-live-codeblock']
+  plugins: [
+    techWriterWebpackPlugin,
+    [
+      '@docusaurus/plugin-content-blog',
+      {
+        id: 'wydarzenia',
+        routeBasePath: 'wydarzenia',
+        path: './wydarzenia',
+        authorsMapPath: '../blog/authors.yml',
+        blogListComponent:
+          '@site/src/components/EventsBlogList/EventsBlogList.tsx',
+        blogSidebarTitle: 'Wydarzenia',
+      },
+    ],
+  ],
+  themes: ['@docusaurus/theme-live-codeblock'],
 };
 
 export default config;

@@ -4,13 +4,13 @@ authors: agnieszka
 date: '2021-05-13'
 tags:
   - 'dobre-praktyki'
-  - 'przyklady'
+  - 'przykłady'
   - 'warsztat'
   - 'dokumentacja'
   - 'kariera'
   - 'podcast'
   - 'praca'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'porozmawiajmy_o_it.png'
 ---
 
@@ -126,12 +126,6 @@ corocznej ankiety techwriter.pl:
 > Najliczniejsza grupa to trzy do pięciu lat – 38,7 procent. I staż od zera do
 > dwóch lat to jest 25,2 procent. Jak widać, branża relatywnie młoda, jeśli
 > chodzi o staż pracy.”
-
-Michale, dziękujemy za wspomnienie naszego badania płac i w tym miejscu zwracamy
-się z prośbą do wszystkich Czytelników - jeśli jeszcze nie wzięliście udziału w
-tegorocznym badaniu to jest jeszcze na to czas do **16 maja**. Wszelkie
-informacje znajdziecie
-[w tym poście](http://techwriter.pl/badanie-plac-w-komunikacji-technicznej-2021-wypelnij-ankiete/).
 
 #### Jak zostać technical writerem?
 

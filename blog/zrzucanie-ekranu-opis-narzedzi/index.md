@@ -3,12 +3,13 @@ title: '“Zrzucanie” ekranu - opis narzędzi'
 authors: admin
 date: '2014-02-10'
 tags:
-  - 'narzedzia'
+  - 'narzędzia'
   - 'warsztat'
   - 'grafika'
   - 'instrukcje'
   - 'on-line-help'
-  - 'pomoc-uzytkownika'
+  - 'pomoc-użytkownika'
+  - 'zrzuty-ekranu'
 coverImage: 'Screenshot.jpeg'
 ---
 
@@ -32,14 +33,14 @@ używam w swojej pracy: Impict i Greenshot.
 ![Impict](images/Impict.png)
 
 Impict dostajemy razem z programem do pisania dokumentacji Help and Manual,
-który opisywałem [tutaj](http://techwriter.pl/help-and-manual-opis-narzedzia/)
-jakiś czas temu. Jak zapewne łatwo się domyślić, Impict jest zintegrowany z Help
-and Manualem, dlatego też w programie mamy skrót do otwierania Impicta oraz
-funkcję w menu kontekstowym obrazków. Jeśli w dokumencie mamy obrazek i
-klikniemy na niego prawym przyciskiem myszy, jedną z opcji jaka się pojawi
-będzie jego edycja w programie Impict. Jest to o tyle wygodne, że posiadając
-setki albo tysiące zrzutów ekranu nie musimy przeszukiwać folderów, tylko
-otwieramy dwoma kliknięciami właściwy obrazek z poziomu pisanego dokumentu.
+który opisywałem [tutaj](../help-and-manual-opis-narzedzia/index.md) jakiś czas
+temu. Jak zapewne łatwo się domyślić, Impict jest zintegrowany z Help and
+Manualem, dlatego też w programie mamy skrót do otwierania Impicta oraz funkcję
+w menu kontekstowym obrazków. Jeśli w dokumencie mamy obrazek i klikniemy na
+niego prawym przyciskiem myszy, jedną z opcji jaka się pojawi będzie jego edycja
+w programie Impict. Jest to o tyle wygodne, że posiadając setki albo tysiące
+zrzutów ekranu nie musimy przeszukiwać folderów, tylko otwieramy dwoma
+kliknięciami właściwy obrazek z poziomu pisanego dokumentu.
 
 Impict pozwala zapisywać obrazki w formatach IPP, BMP, SHG, JPG, PNG, GIF, PCX,
 TIFF i TGA. Dodatkowo można wybrać opcję zapisania do obrazka tekstu do

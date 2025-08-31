@@ -5,8 +5,8 @@ date: '2013-10-17'
 tags:
   - 'news'
   - 'z-kraju'
-  - 'jezyk'
-  - 'tlumaczenia'
+  - 'język'
+  - 'tłumaczenia'
 coverImage: 'olimpiada.jpg'
 ---
 

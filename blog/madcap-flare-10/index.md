@@ -3,13 +3,13 @@ title: 'MadCap Flare 10'
 authors: admin
 date: '2014-03-10'
 tags:
-  - 'narzedzia'
+  - 'narzędzia'
   - 'warsztat'
   - 'knowledge-base'
   - 'on-line-help'
-  - 'pomoc-uzytkownika'
+  - 'pomoc-użytkownika'
   - 'technologie'
-  - 'urzadzenia-mobilne'
+  - 'urządzenia-mobilne'
 coverImage: 'MadCapFlare.jpg'
 ---
 
@@ -70,4 +70,4 @@ miejscu i w jednym formacie (np. XML), w taki sposób, aby łatwo było ją
 opublikować w wielu różnych miejscach i formatach (np. Word, PDF, HTML,
 PowerPoint). Sprytne prawda? Oszczędza dużo czasu, chroni przed prostymi
 błędami, zapewnia spójność przekazywanych informacji.
-[Reużycie](http://techwriter.pl/langlydz-part-fri/) w najczystszej postaci 😉
+[Reużycie](../langlydz-part-fri/index.md) w najczystszej postaci 😉

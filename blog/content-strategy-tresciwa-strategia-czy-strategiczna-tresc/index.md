@@ -6,7 +6,7 @@ tags:
   - 'dobre-praktyki'
   - 'warsztat'
   - 'praca'
-  - 'zarzadzanie-trescia'
+  - 'zarządzanie-treścią'
 coverImage: 'Screenshot-2023-03-15-at-20.27.41.png'
 ---
 
@@ -33,12 +33,11 @@ ponieważ, po pierwsze, bez tego ani rusz, a po drugie, później jest już duż
 
 - zdecydować w jakiej formie będziecie publikować
 - ustalić jakimi kanałami będziecie dostarczać treść do odbiorców
-- zrozumieć jakie rodzaje dokumentacji są Wam potrzebne -
-  [co będziecie dostarczać](http://techwriter.pl/category/warsztat/przyklady/)?
+- zrozumieć jakie rodzaje dokumentacji są Wam potrzebne - co będziecie
+  dostarczać?
 - policzyć w ilu językach
 - zastanawiać się kto musi nad tym pracować...
-- i [jakie narzędzia](http://techwriter.pl/category/warsztat/narzedzia/) będą
-  Wam potrzebne
+- i jakie narzędzia będą Wam potrzebne
 - zdefiniować procesy według których będziecie pracować
 - itd.
 

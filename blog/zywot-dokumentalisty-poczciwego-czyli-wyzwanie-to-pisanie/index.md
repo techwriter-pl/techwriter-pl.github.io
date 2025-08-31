@@ -4,7 +4,7 @@ authors: mojk
 date: '2014-09-23'
 tags:
   - 'dobre-praktyki'
-  - 'przyklady'
+  - 'przykłady'
   - 'warsztat'
   - 'kariera'
   - 'praca'
@@ -29,15 +29,15 @@ ze słomką 😉
 ### Edukacyjna pustynia
 
 Kilkukrotnie ubolewaliśmy (np. w tym
-[wpisie](http://techwriter.pl/naucz-sie-sama-czesc-2/)) nad brakami w edukacji
-formalnej i kursach przeznaczonych dla dokumentalistów, dlatego nie będziemy się
-nad tym po raz kolejny rozwodzić. Wspominamy o tym tylko dla porządku. Łatwo nie
-jest, ale mamy pewne możliwości zdobywania wiedzy. Przede wszystkim "nie
-wyważajmy otwartych drzwi". Korzystajmy ile się da z doświadczenia kolegów i
-koleżanek po fachu. Czytajmy blogi i literaturę branżową. Bierzmy udział w
-konferencjach. Na szczęście istnieją ludzie, którzy chcą rozkręcić komunikację
-techniczną w naszym kraju, np. nasi "mydlani" przyjaciele, którzy w tym roku
-organizują już po raz drugi konferencję [soap!](http://soapconf.com/).
+[wpisie](../naucz-sie-sama-czesc-2/index.md)) nad brakami w edukacji formalnej i
+kursach przeznaczonych dla dokumentalistów, dlatego nie będziemy się nad tym po
+raz kolejny rozwodzić. Wspominamy o tym tylko dla porządku. Łatwo nie jest, ale
+mamy pewne możliwości zdobywania wiedzy. Przede wszystkim "nie wyważajmy
+otwartych drzwi". Korzystajmy ile się da z doświadczenia kolegów i koleżanek po
+fachu. Czytajmy blogi i literaturę branżową. Bierzmy udział w konferencjach. Na
+szczęście istnieją ludzie, którzy chcą rozkręcić komunikację techniczną w naszym
+kraju, np. nasi "mydlani" przyjaciele, którzy w tym roku organizują już po raz
+drugi konferencję [soap!](http://soapconf.com/).
 
 ### Miękkie serce i twarda...
 

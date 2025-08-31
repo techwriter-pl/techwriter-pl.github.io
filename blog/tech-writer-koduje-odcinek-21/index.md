@@ -6,7 +6,6 @@ tags:
   - 'dobre-praktyki'
   - 'warsztat'
   - 'podcast'
-  - 'praktyki'
 coverImage: 'Konferencje-2019-1.png'
 ---
 

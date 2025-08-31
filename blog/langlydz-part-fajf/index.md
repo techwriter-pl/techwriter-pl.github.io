@@ -4,9 +4,8 @@ authors: admin
 date: '2014-02-14'
 tags:
   - 'warsztat'
-  - 'z-przymruzeniem-oka'
   - 'humor'
-  - 'jezyk'
+  - 'język'
 coverImage: 'Lesson5.jpg'
 ---
 
@@ -16,10 +15,9 @@ floł.
 
 <!--truncate-->
 
-W [poprzedniej części naszego cyklu](http://techwriter.pl/langlydz-part-folur/)
-dogłębnie wytłumaczyliśmy pojęcie isiu (będziemy się upierać, że w wielu firmach
-isiu jest niemal synonimem kejsa). Co zatem dzieje się z takim isiu, kiedy już
-się urodzi?
+W [poprzedniej części naszego cyklu](../langlydz-part-folur/index.md) dogłębnie
+wytłumaczyliśmy pojęcie isiu (będziemy się upierać, że w wielu firmach isiu jest
+niemal synonimem kejsa). Co zatem dzieje się z takim isiu, kiedy już się urodzi?
 
 - Okres wczesnego niemowlęctwa spędza w stanie niu (_nowy_).
 - Później zazwyczaj zostaje bękartem - odbywa się to przy pomocy operacji

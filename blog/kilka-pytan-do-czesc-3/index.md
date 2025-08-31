@@ -5,8 +5,7 @@ date: '2015-02-24'
 tags:
   - 'warsztat'
   - 'wywiady'
-  - 'spolecznosc'
-  - 'wywiad'
+  - 'społeczność'
 coverImage: 'peppershaker-e1424725523734.jpg'
 ---
 

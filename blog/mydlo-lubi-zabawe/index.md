@@ -6,7 +6,8 @@ tags:
   - 'news'
   - 'z-kraju'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
+  - 'soap'
 coverImage: 'soap.jpg'
 ---
 
@@ -94,7 +95,7 @@ Nie samymi prezentacjami człowiek żyje, dlatego organizatorzy zadbali równie�
 mniej formalną stronę konferencji. Po pierwszym dniu można było wymienić
 doświadczenia z innymi uczestnikami przy kieliszku wina, a po drugim dniu w
 trakcie imprezy. Wszyscy wiemy, że nic tak nie łączy jak wspólne toasty za dobry
-[kontent](http://techwriter.pl/langlydz-part-najn/).
+[kontent](../langlydz-part-najn/index.md).
 
 ### Garść faktów
 

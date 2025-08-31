@@ -4,12 +4,12 @@ authors: pensjonatus
 date: '2016-06-08'
 tags:
   - 'dobre-praktyki'
-  - 'narzedzia'
+  - 'narzędzia'
   - 'warsztat'
   - 'dita'
-  - 'manuale'
+  - 'pomoc-użytkownika'
   - 'on-line-help'
-  - 'pomoc-uzytkownika'
+  - 'pomoc-użytkownika'
   - 'technologie'
 coverImage: 'wszystko-o-dita-strategia.jpg'
 ---
@@ -273,8 +273,8 @@ takie pytania:
 Kiedy nasza strategia jest już gotowa, możemy przejść do narzędzi, które
 omawiamy w kolejnym wpisie naszej ditowej serii.
 
-- [Wszystko o DITA — Wprowadzenie (1)](http://techwriter.pl/wszystko-o-dita-wprowadzenie-1/)
-- [Wszystko o DTA — Podstawy (2)](http://techwriter.pl/wszystko-o-dita-podstawy/)
+- [Wszystko o DITA — Wprowadzenie (1)](../wszystko-o-dita-wprowadzenie-1/index.md)
+- [Wszystko o DTA — Podstawy (2)](../wszystko-o-dita-podstawy/index.md)
 - Wszystko o DITA — Strategia (3)
-- [Wszystko o DITA — Narzędzia (4)](http://techwriter.pl/jak-zaczac-pisac-w-dita-narzedzia/)
-- [Wszystko o DITA — Struktura topików (5)](http://techwriter.pl/wszystko-o-dita-struktura-topikow-5/)
+- [Wszystko o DITA — Narzędzia (4)](../jak-zaczac-pisac-w-dita-narzedzia/index.md)
+- [Wszystko o DITA — Struktura topików (5)](../wszystko-o-dita-struktura-topikow-5/index.md)

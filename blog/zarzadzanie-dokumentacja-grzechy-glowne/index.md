@@ -5,7 +5,7 @@ date: '2015-09-10'
 tags:
   - 'dobre-praktyki'
   - 'warsztat'
-  - 'zarzadzanie-trescia'
+  - 'zarządzanie-treścią'
 coverImage: 'chaos-485493_640.jpg'
 ---
 
@@ -34,15 +34,15 @@ przez pracowników - jest przydatny. Te, które przejdą naszą ocenę pozytywni
 powinny być odpowiednio segregowane i archiwizowane. Jeśli za dokumentację w
 danej jednostce odpowiedzialna jest osoba ją tworząca, czyli my, Technical
 Writerzy, możemy ułatwić sobie życie korzystając z
-[systemów do zarządzania dokumentami](https://pl.wikipedia.org/wiki/System_zarz%C4%85dzania_dokumentami 'DMS')
+[systemów do zarządzania dokumentami](https://pl.wikipedia.org/wiki/System_zarz%C4%85dzania_dokumentami)
 (DMS). Mamy tu do wyboru programy open source jak na przykład
-[Open KM](http://www.openkm.com/en/ 'Open KM') oraz produkty komercyjne jak
-choćby Microsoft
-[SharePoint](https://products.office.com/pl-pl/SharePoint/collaboration 'SharePoint').
-Ideą za nimi przemawiającą jest minimalizacja czasu, jaki spędzamy na
-wyszukiwaniu informacji oraz przetwarzaniu jej, a co za tym idzie, zwiększenie
-czasu, jaki możemy spędzić na tworzeniu dalszej dokumentacji czyli pracować
-bardziej efektywnie.
+[Open KM](http://www.openkm.com/en/) oraz produkty komercyjne jak choćby
+Microsoft
+[SharePoint](https://products.office.com/pl-pl/SharePoint/collaboration). Ideą
+za nimi przemawiającą jest minimalizacja czasu, jaki spędzamy na wyszukiwaniu
+informacji oraz przetwarzaniu jej, a co za tym idzie, zwiększenie czasu, jaki
+możemy spędzić na tworzeniu dalszej dokumentacji czyli pracować bardziej
+efektywnie.
 
 Posiadamy więc odpowiedni program, teoretycznie oszczędzamy czas, zabieramy się
 ochoczo za kolejny projekt i nagle okazuje się, że wciąż mamy problem ze
@@ -75,9 +75,9 @@ Najczęstsze błędy w zarządzaniu dokumentacją:
    tym właściwym. Pomocą w zorganizowaniu często rozsyłanych treści jest coraz
    popularniejsza _chmura._ Producenci oprogramowania oferują mnóstwo aplikacji
    bazujących na zasobach w _chmurze_, jak choćby
-   [Google Docs](https://www.google.pl/intl/pl/docs/about/ 'Google Docs') czy
-   [DropBox](https://www.dropbox.com/ 'Dropbox'). Dzięki nim nie ma potrzeby
-   wysyłać dokumentów w załącznikach - wystarczy podać lokalizację, a osoby
+   [Google Docs](https://www.google.pl/intl/pl/docs/about/) czy
+   [DropBox](https://www.dropbox.com/). Dzięki nim nie ma potrzeby wysyłać
+   dokumentów w załącznikach - wystarczy podać lokalizację, a osoby
    zainteresowane otrzymają do niej dostęp.
 3. Brak aktualizacji to brak zaufania - dokumentację, czy to wewnętrzną, czy tą,
    którą tworzymy dla stałego klienta, powinno się aktualizować. Ile razy

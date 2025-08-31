@@ -4,12 +4,12 @@ authors: agnieszka
 date: '2023-01-26'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'dokumentacja'
   - 'edukacja'
   - 'kariera'
   - 'praca'
-  - 'praktyki'
+  - 'dobre-praktyki'
 coverImage: 'season_of_docs_2023.png'
 ---
 

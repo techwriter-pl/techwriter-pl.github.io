@@ -8,7 +8,7 @@ tags:
   - 'api'
   - 'dita'
   - 'dokumentacja'
-  - 'narzedzia'
+  - 'narzędzia'
 coverImage: 'tw_koduje_22.png'
 ---
 

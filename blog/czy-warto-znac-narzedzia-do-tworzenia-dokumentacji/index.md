@@ -3,10 +3,10 @@ title: 'Czy warto znać narzędzia do tworzenia dokumentacji?'
 authors: mojk
 date: '2014-07-22'
 tags:
-  - 'narzedzia'
+  - 'narzędzia'
   - 'warsztat'
   - 'kariera'
-  - 'manuale'
+  - 'pomoc-użytkownika'
   - 'on-line-help'
 coverImage: 'wpid-wp-1404885704998.jpeg'
 ---

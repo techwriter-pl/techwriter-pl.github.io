@@ -7,9 +7,9 @@ tags:
   - 'z-kraju'
   - 'edukacja'
   - 'kariera'
-  - 'spolecznosc'
+  - 'społeczność'
   - 'szkolenia'
-  - 'treningi'
+  - 'szkolenia'
 coverImage: 'soap_meet_content.png'
 ---
 

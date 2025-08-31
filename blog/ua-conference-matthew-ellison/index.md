@@ -6,10 +6,10 @@ tags:
   - 'news'
   - 'z-kraju'
   - 'konferencje'
-  - 'pomoc-uzytkownika'
+  - 'pomoc-użytkownika'
   - 'technologie'
-  - 'urzadzenia-mobilne'
-  - 'uzytecznosc'
+  - 'urządzenia-mobilne'
+  - 'użyteczność'
 coverImage: 'UA_Conference.png'
 ---
 

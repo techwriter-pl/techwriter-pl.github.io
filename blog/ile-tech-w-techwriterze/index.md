@@ -6,7 +6,6 @@ tags:
   - 'news'
   - 'z-kraju'
   - 'kariera'
-  - 'start'
 coverImage: 'techwriter-tech.jpg'
 ---
 
@@ -24,8 +23,6 @@ pytanie?
 
 Szukającym praktycznej wiedzy i pierwszych wpisów w CV nieustająco polecamy
 udział w
-[projektach open source](http://techwriter.pl/open-techwriting-sposob-na-start-i-rozwoj-kariery/),
-a także [pouczające lektury](http://techwriter.pl/category/warsztat/czytelnia/),
-[szkolenia](http://techwriter.pl/szkolenia/), oraz monitorowanie
-[ofert pracy](http://techwriter.pl/category/news/oferty-pracy/), wybieranie tych
-dla początkujących i aplikowanie!
+[projektach open source](../open-techwriting-sposob-na-start-i-rozwoj-kariery/index.md),
+a także pouczające lektury, [szkolenia](/szkolenia/), oraz monitorowanie
+[ofert pracy](/oferty-pracy), wybieranie tych dla początkujących i aplikowanie!

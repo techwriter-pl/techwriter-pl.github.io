@@ -4,9 +4,8 @@ authors: admin
 date: '2014-07-25'
 tags:
   - 'warsztat'
-  - 'z-przymruzeniem-oka'
   - 'humor'
-  - 'jezyk'
+  - 'język'
 coverImage: 'frejmlork.gif'
 ---
 

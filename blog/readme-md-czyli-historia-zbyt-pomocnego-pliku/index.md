@@ -4,10 +4,10 @@ authors: mojk
 date: '2018-10-03'
 tags:
   - 'dobre-praktyki'
-  - 'przyklady'
+  - 'przykłady'
   - 'warsztat'
   - 'dokumentacja'
-  - 'pomoc-uzytkownika'
+  - 'pomoc-użytkownika'
 coverImage: 'key-2323278_640.jpg'
 ---
 

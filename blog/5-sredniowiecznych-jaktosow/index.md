@@ -4,15 +4,14 @@ authors: admin
 date: '2014-01-24'
 tags:
   - 'warsztat'
-  - 'z-przymruzeniem-oka'
   - 'humor'
   - 'instrukcje'
-  - 'manuale'
+  - 'pomoc-użytkownika'
 coverImage: 'Jaktos.jpg'
 ---
 
 Pisaliśmy już o
-[instrukcji obsługi Gwiazdy Śmierci](http://techwriter.pl/ten-dokument-warto-miec-pod-reka/),
+[instrukcji obsługi Gwiazdy Śmierci](../ten-dokument-warto-miec-pod-reka/index.md),
 a tym razem mamy coś starszego... no dobrze, całkiem starego. Powiedzieć, że
 takie how-to jest oldskulowe to nic nie powiedzieć😊. Zobaczcie jak dawniej
 pisało się tego typu dokumenty.

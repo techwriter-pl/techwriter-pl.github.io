@@ -8,8 +8,8 @@ tags:
   - 'dokumentacja'
   - 'edukacja'
   - 'instrukcje'
-  - 'manuale'
-  - 'uzytecznosc'
+  - 'pomoc-użytkownika'
+  - 'użyteczność'
 coverImage: 'iso.png'
 ---
 

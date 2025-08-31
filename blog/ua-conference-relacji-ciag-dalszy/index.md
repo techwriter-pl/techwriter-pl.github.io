@@ -8,7 +8,7 @@ tags:
   - 'instrukcje'
   - 'kariera'
   - 'konferencje'
-  - 'uzytecznosc'
+  - 'użyteczność'
 coverImage: 'UA_Conference.png'
 ---
 

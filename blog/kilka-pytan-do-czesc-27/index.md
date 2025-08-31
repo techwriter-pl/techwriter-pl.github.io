@@ -7,8 +7,7 @@ tags:
   - 'wywiady'
   - 'kariera'
   - 'praca'
-  - 'spolecznosc'
-  - 'wywiad'
+  - 'społeczność'
 coverImage: 'kilka_pytan_do_27.png'
 ---
 
@@ -249,4 +248,4 @@ jest piękne!
 Anno, bardzo dziękujemy za poświęcony czas.
 
 Jeśli ktoś z Was miałby ochotę odpowiedzieć na nasze pytania, zapraszamy.
-Informacje kontaktowe znajdziecie [tutaj](http://techwriter.pl/kontakt/).
+Informacje kontaktowe znajdziecie [tutaj](/kontakt).

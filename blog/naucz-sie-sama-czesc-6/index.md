@@ -4,7 +4,7 @@ authors: agnieszka
 date: '2015-11-17'
 tags:
   - 'dobre-praktyki'
-  - 'przyklady'
+  - 'przykłady'
   - 'warsztat'
   - 'edukacja'
   - 'kariera'

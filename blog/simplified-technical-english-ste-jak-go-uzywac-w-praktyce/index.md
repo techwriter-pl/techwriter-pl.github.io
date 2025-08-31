@@ -4,16 +4,16 @@ authors: toporek
 date: '2020-10-13'
 tags:
   - 'dobre-praktyki'
-  - 'przyklady'
+  - 'przykłady'
   - 'ste'
   - 'instrukcje'
-  - 'manuale'
-  - 'uzytecznosc'
+  - 'pomoc-użytkownika'
+  - 'użyteczność'
 coverImage: 'ASD1000-e1601654326708.jpg'
 ---
 
 Jakiś czas temu pisaliśmy o
-[podstawowych zasadach użycia kontrolowanego języka angielskiego (Simplified Technical English)](http://techwriter.pl/simplified-technical-english-wprowadzenie/).
+[podstawowych zasadach użycia kontrolowanego języka angielskiego (Simplified Technical English)](../simplified-technical-english-wprowadzenie/index.md).
 W tym artykule dowiecie się więcej dlaczego i jak go używać.
 
 <!--truncate-->
@@ -39,7 +39,7 @@ weryfikacji zgodności.
 Do przygotowania dokumentacji pisanej kontrolowanym językiem, najczęściej
 używana jest międzynarodowa specyfikacja ASD-STE100. Wspominaliśmy o tym w
 naszym poprzednim artykule
-[(tutaj)](http://techwriter.pl/simplified-technical-english-wprowadzenie/).
+[(tutaj)](../simplified-technical-english-wprowadzenie/index.md).
 
 ### Do czego potrzebna jest specyfikacja ASD-STE100?
 

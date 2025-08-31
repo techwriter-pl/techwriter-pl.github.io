@@ -8,7 +8,6 @@ tags:
   - 'dokumentacja'
   - 'kariera'
   - 'praca'
-  - 'praktyki'
 coverImage: 'techwriter_jako_sme.png'
 ---
 
@@ -20,9 +19,9 @@ innymi? Postaram się dziś odpowiedzieć na to pytanie.
 <!--truncate-->
 
 Temat eksperta (z ang. Subject Matter Expert, SME) w pracy technical writera
-poruszyłam jakiś czas temu w [tym tekście](http://techwriter.pl/kim-jest-sme/).
-Wyjaśniłam w nim kim jest SME oraz co zrobić, by współpraca z nim/z nią była
-przyjemna i efektywna. Chętnych zapraszam do lektury.
+poruszyłam jakiś czas temu w [tym tekście](../kim-jest-sme/index.md). Wyjaśniłam
+w nim kim jest SME oraz co zrobić, by współpraca z nim/z nią była przyjemna i
+efektywna. Chętnych zapraszam do lektury.
 
 Wracając do tematu dzisiejszego tekstu, technical writerzy mogą być nie tylko
 ważną częścią zespołu, z którym współpracują. Swoją pracą mogą też wspomóc

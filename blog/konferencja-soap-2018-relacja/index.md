@@ -8,7 +8,9 @@ tags:
   - 'edukacja'
   - 'kariera'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
+  - 'soap'
+  - 'szkolenia'
 coverImage: 'IMG_20180525_103253.jpg'
 ---
 

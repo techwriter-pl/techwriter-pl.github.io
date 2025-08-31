@@ -3,12 +3,12 @@ title: 'Wyniki badania płac w komunikacji technicznej 2018'
 authors: pensjonatus
 date: '2018-04-26'
 tags:
-  - 'badanie-plac'
+  - 'badanie-płac'
   - 'praca'
   - 'ankieta'
   - 'kariera'
   - 'praca'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'Ankieta-2018-SPLASH.png'
 ---
 
@@ -21,7 +21,7 @@ jego wyniki.
 
 ## **Porównanie z poprzednim rokiem**
 
-[Wyniki poprzedniego badania](http://techwriter.pl/wyniki-badania-plac-w-komunikacji-technicznej/)
+[Wyniki poprzedniego badania](../wyniki-badania-plac-w-komunikacji-technicznej/index.md)
 opublikowaliśmy na naszych łamach w kwietniu 2017. Jak wynik zmienił się od
 poprzedniego roku?
 
@@ -139,8 +139,8 @@ Do wyjątków spoza regionu należą między innymi
 
 Większość respondentów lubi swoją pracę - **62 osoby (78%)** dało jej 4 lub 5
 punktów. Tylko jedna osoba jest bardzo niezadowolona ze swojej pracy. Może
-[oferty publikowane na techwriter.pl](http://techwriter.pl/category/news/oferty-pracy/)
-pomogą zrobic pierwszy krok ku zmianie na lepsze?
+[oferty publikowane na techwriter.pl](/oferty-pracy) pomogą zrobic pierwszy krok
+ku zmianie na lepsze?
 
 | Jak bardzo jesteś zadowolony/a ze swojego obecnego stanowiska? | Liczba respondentów |
 | -------------------------------------------------------------- | ------------------- |

@@ -4,12 +4,11 @@ authors: toporek
 date: '2021-09-02'
 tags:
   - 'dobre-praktyki'
-  - 'narzedzia'
-  - 'przyklady'
+  - 'narzędzia'
+  - 'przykłady'
   - 'dokumentacja'
-  - 'lokalizacja'
-  - 'tlumaczenia'
-  - 'uzytecznosc'
+  - 'tłumaczenia'
+  - 'użyteczność'
 coverImage: '2.jpg'
 ---
 
@@ -155,9 +154,9 @@ rezultatów.
 Jeśli chcecie zapoznać się z kulisami pracy tłumacza i dowiedzieć się za co
 tłumacz lubi technical writera, zapraszamy do przeczytania cyklu wpisów
 poświęconych tej właśnie tematyce
-[(tutaj)](http://techwriter.pl/za-co-tlumacze-lubia-autorow-internacjonalizacja/),
-[(tutaj)](http://techwriter.pl/za-co-tlumacze-lubia-autorow-skladaki/) i jeszcze
-[(tutaj)](http://techwriter.pl/za-co-tlumacze-lubia-autorow-spojnosc/). 😉
+[(tutaj)](../za-co-tlumacze-lubia-autorow-internacjonalizacja/index.md),
+[(tutaj)](../za-co-tlumacze-lubia-autorow-skladaki/index.md) i jeszcze
+[(tutaj)](../za-co-tlumacze-lubia-autorow-spojnosc/index.md). 😉
 
 A może macie swoje doświadczenia z tłumaczeniem tekstów źródłowych i
 chcielibyście podzielić się cennymi wskazówkami? Jak Wy przygotowuje

@@ -4,10 +4,10 @@ authors: mojk
 date: '2017-12-21'
 tags:
   - 'dobre-praktyki'
-  - 'narzedzia'
+  - 'narzędzia'
   - 'warsztat'
   - 'aplikacje'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'hustle-and-bustle-1738072_960_720.jpg'
 ---
 
@@ -40,11 +40,11 @@ przeglądarce.
 #### Write the Docs
 
 Społeczność Write the Docs, którą możecie kojarzyć z
-[konferencji w Pradze](http://techwriter.pl/write-the-docs-prague-2017-relacja/),
-poszła z duchem czasu i też posiada swoją przestrzeń na Slacku. Na obecną chwilę
-liczy ona już prawie 3000 użytkowników. Sporo się tutaj dzieje, czasami aż
-ciężko nadążyć za wszystkimi wątkami. Istnieją różne kanały tematyczne. Mamy
-kanał poświęcony ogólnym kwestiom związanym z komunikacją techniczną oraz szereg
+[konferencji w Pradze](../write-the-docs-prague-2017-relacja/index.md), poszła z
+duchem czasu i też posiada swoją przestrzeń na Slacku. Na obecną chwilę liczy
+ona już prawie 3000 użytkowników. Sporo się tutaj dzieje, czasami aż ciężko
+nadążyć za wszystkimi wątkami. Istnieją różne kanały tematyczne. Mamy kanał
+poświęcony ogólnym kwestiom związanym z komunikacją techniczną oraz szereg
 innych kanałów, które mają dużo węższy zakres zainteresowań, np. "analytics" do
 rozmów o danych, które zbieramy, "podcast", gdzie możemy dyskutować o tematach,
 które warto poruszyć w podcaście Write the Docs czy "jobs", gdzie można
@@ -67,7 +67,7 @@ Dodatkowo, każda lokalna grupa ma swój dedykowany kanał.
 
 Żeby dołączyć do społeczności, potrzebne jest zaproszenie. W tym celu najlepiej
 skontaktować się z organizatorami
-[Poland MadCap Flare User Group](http://techwriter.pl/rusza-poland-madcap-flare-user-group/)
+[Poland MadCap Flare User Group](../rusza-poland-madcap-flare-user-group/index.md)
 (3di Poland) poprzez [grupę na FB](https://web.facebook.com/groups/PLFUG/) lub
 [mailowo](mailto:plfug@3di.com.pl).
 

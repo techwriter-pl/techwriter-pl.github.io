@@ -6,8 +6,8 @@ tags:
   - 'news'
   - 'z-kraju'
   - 'konferencje'
-  - 'spolecznosc'
-  - 'tlumaczenia'
+  - 'społeczność'
+  - 'tłumaczenia'
 coverImage: 'TLConference-2019.png'
 ---
 
@@ -175,7 +175,7 @@ Areta Kempińska z Bireta Professional Translations mówiła o roli tłumaczenia
 maszynowego w pracy agencji tłumaczeniowej i freelancera. Było to rozszerzenie
 prezentacji z Konferencji Tłumaczy 2018, której podsumowanie możecie przeczytać
 w
-[naszej relacji z tego wydarzenia](http://techwriter.pl/konferencja-tlumaczy-2018-relacja/).
+[naszej relacji z tego wydarzenia](../konferencja-tlumaczy-2018-relacja/index.md).
 
 Prowadząca zaczęła od stwierdzenia, że nie powinniśmy się bać, bo tłumaczenie
 maszynowe nie zastąpi specjalistów od przekładu. Przypomniała nam też, że

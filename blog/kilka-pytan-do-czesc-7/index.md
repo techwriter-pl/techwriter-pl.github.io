@@ -5,8 +5,8 @@ date: '2015-10-27'
 tags:
   - 'warsztat'
   - 'wywiady'
-  - 'spolecznosc'
-  - 'wywiad'
+  - 'społeczność'
+  - 'articles-in-english'
 coverImage: 'microphone-17846_640.jpg'
 ---
 

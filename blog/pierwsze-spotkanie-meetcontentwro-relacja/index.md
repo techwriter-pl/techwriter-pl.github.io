@@ -8,13 +8,13 @@ tags:
   - 'edukacja'
   - 'kariera'
   - 'konferencje'
-  - 'spolecznosc'
-  - 'treningi'
+  - 'społeczność'
+  - 'szkolenia'
 coverImage: 'Wroclaw-Most_Grunwaldzki.jpg'
 ---
 
 Dopiero
-co [opisywaliśmy](http://techwriter.pl/relacja-z-kolejnej-edycji-krakowskiego-meetcontent/) trzecie
+co [opisywaliśmy](../relacja-z-kolejnej-edycji-krakowskiego-meetcontent/index.md) trzecie
 krakowskie spotkanie MeetContent, a już mamy dla Was kolejne sprawozdanie. Tym
 razem publikujemy jeszcze ciepłą relację z meetupu inaugurującego wrocławski
 cykl spotkań MeetContent. Tekst został przygotowany przez organizatorów, my

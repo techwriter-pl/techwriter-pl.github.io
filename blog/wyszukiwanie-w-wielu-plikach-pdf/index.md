@@ -3,9 +3,9 @@ title: 'Wyszukiwanie w wielu plikach PDF'
 authors: mojk
 date: '2014-09-10'
 tags:
-  - 'narzedzia'
+  - 'narzędzia'
   - 'warsztat'
-  - 'manuale'
+  - 'pomoc-użytkownika'
 coverImage: 'files-27717_640-e1410098985552.png'
 ---
 

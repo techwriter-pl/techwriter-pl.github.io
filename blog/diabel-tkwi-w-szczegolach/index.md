@@ -6,7 +6,7 @@ tags:
   - 'dobre-praktyki'
   - 'warsztat'
   - 'edukacja'
-  - 'jezyk'
+  - 'język'
 coverImage: 'annoying-474143_640-e1419883586267.png'
 ---
 
@@ -67,5 +67,5 @@ dowiedzieć z tej samej części artykułu 😉 (**Aktualizacja:** Po naszym
 zgłoszeniu, powyższy błąd został poprawiony) Jeśli po tym omówieniu nadal
 będziecie mieli niedosyt, to polecamy również stronę
 [Daily Writing Tips](http://www.dailywritingtips.com/), o której pisaliśmy
-[tutaj](http://techwriter.pl/naucz-sie-sama-czesc-5/). Można tam znaleźć
-naprawdę sporo cennych informacji.
+[tutaj](../naucz-sie-sama-czesc-5/index.md). Można tam znaleźć naprawdę sporo
+cennych informacji.

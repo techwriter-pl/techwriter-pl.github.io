@@ -3,13 +3,12 @@ title: 'Czy techwriter to z definicji autor i to w dodatku bestsellerów?'
 authors: milc
 date: '2021-01-29'
 tags:
-  - 'przyklady'
+  - 'przykłady'
   - 'warsztat'
-  - 'z-przymruzeniem-oka'
   - 'dokumentacja'
-  - 'humor'
   - 'kariera'
   - 'praca'
+  - 'humor'
 coverImage: 'techwriter_autor.png'
 ---
 
@@ -84,7 +83,7 @@ Nie ma w tym wad, jeśli tylko mózg ma się chłonny jak gąbka, a codziennie r
 budzi się z poczuciem bycia osobą skazaną na sukces. Niestety trzeba tutaj odbyć
 niemałą walkę między oczekiwaniami architektów zarówno treści, jak i produktu, a
 sztywnymi ramami języka technicznego,
-[uproszczonego języka angielskiego](http://techwriter.pl/prosty-jezyk-przyklady-i-narzedzia/),
+[uproszczonego języka angielskiego](../prosty-jezyk-przyklady-i-narzedzia/index.md),
 wytycznych wobec pisania treści technicznej w danej firmie, no i wreszcie,
 możliwościami, jakie oferuje dane narzędzie do tworzenia dokumentacji. Do tego
 wszystkiego dochodzi też tłumaczenie sobie inputu od SME _(korp. informacja od

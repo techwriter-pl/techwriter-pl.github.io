@@ -3,12 +3,12 @@ title: 'Wyniki badania płac w komunikacji technicznej 2019'
 authors: pensjonatus
 date: '2019-05-14'
 tags:
-  - 'badanie-plac'
+  - 'badanie-płac'
   - 'praca'
   - 'ankieta'
   - 'kariera'
   - 'praca'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'zobacz-sample-money-768x557.jpg'
 ---
 
@@ -23,8 +23,8 @@ jego wyniki.
 
 Wyniki poprzednich badań znajdziecie tu:
 
-- [Wyniki 2018](http://techwriter.pl/wyniki-badania-plac-w-komunikacji-technicznej-2018/)
-- [Wyniki 2017](http://techwriter.pl/wyniki-badania-plac-w-komunikacji-technicznej/)
+- [Wyniki 2018](../wyniki-badania-plac-w-komunikacji-technicznej-2018/index.md)
+- [Wyniki 2017](../wyniki-badania-plac-w-komunikacji-technicznej/index.md)
 
 Oto jak sytuacja zmieniła się na przestrzeni lat.
 

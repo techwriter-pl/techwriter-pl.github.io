@@ -6,7 +6,7 @@ tags:
   - 'dobre-praktyki'
   - 'warsztat'
   - 'dokumentacja'
-  - 'praktyki'
+  - 'dobre-praktyki'
 coverImage: '15_sposobow.png'
 ---
 
@@ -31,7 +31,7 @@ dokumentów technicznych, które będą wykorzystywane przez organizację,
 pracowników, interesariuszy lub użytkowników końcowych/klientów. Dokumenty te są
 tworzone, by pomóc w zrozumieniu zagadnień technicznych przez nietechnicznych
 odbiorców. Jakie to dokumenty? O najpopularniejszych z nich przeczytacie
-[tutaj](http://techwriter.pl/co-pisza-tech-writerzy-zestawienie-popularnych-tresci-technicznych/).
+[tutaj](../co-pisza-tech-writerzy-zestawienie-popularnych-tresci-technicznych/index.md).
 
 Technical Writer pełni wiele ról, jednak biorąc pod uwagę biznesowy punkt
 widzenia, może on przyczynić się do sukcesu firmy poprzez poniższe działania:
@@ -52,7 +52,7 @@ widzenia, może on przyczynić się do sukcesu firmy poprzez poniższe działani
 To tylko kilka przykładów umiejętności i ról, jakie musi spełnić w swej pracy
 Technical Writer. Jeśli jesteście ciekawi co jeszcze czeka Was w tym zawodzie,
 zapraszam do zapoznania się z artykułem naszego redakcyjnego kolegi:
-[http://techwriter.pl/kapelusze-tech-writera/](http://techwriter.pl/kapelusze-tech-writera/).
+[Kapelusze tech writera](../kapelusze-tech-writera/index.md).
 
 #### Sposoby na poprawę umiejętności pisania tekstów technicznych
 

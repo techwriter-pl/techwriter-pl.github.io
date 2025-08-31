@@ -6,7 +6,6 @@ tags:
   - 'dobre-praktyki'
   - 'warsztat'
   - 'dokumentacja'
-  - 'jakosc'
   - 'podcast'
 coverImage: 'tw_koduje_23.png'
 ---

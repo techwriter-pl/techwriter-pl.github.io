@@ -4,9 +4,8 @@ authors: admin
 date: '2014-04-25'
 tags:
   - 'warsztat'
-  - 'z-przymruzeniem-oka'
   - 'humor'
-  - 'jezyk'
+  - 'język'
 coverImage: 'lesson6.jpg'
 ---
 

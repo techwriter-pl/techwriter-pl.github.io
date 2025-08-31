@@ -3,12 +3,12 @@ title: 'Wyniki badania płac w komunikacji technicznej 2021'
 authors: agnieszka
 date: '2021-06-23'
 tags:
-  - 'badanie-plac'
+  - 'badanie-płac'
   - 'praca'
   - 'ankieta'
   - 'kariera'
   - 'praca'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'BADANIE_PLAC_wyniki.png'
 ---
 
@@ -31,10 +31,10 @@ poniższego podsumowania.
 
 Wyniki poprzednich badań znajdziecie tu:
 
-- [Wyniki 2020](http://techwriter.pl/wyniki-badania-plac-w-komunikacji-technicznej-2020/)
-- [Wyniki 2019](http://techwriter.pl/wyniki-badania-plac-w-komunikacji-technicznej-2019/)
-- [Wyniki 2018](http://techwriter.pl/wyniki-badania-plac-w-komunikacji-technicznej-2018/)
-- [Wyniki 2017](http://techwriter.pl/wyniki-badania-plac-w-komunikacji-technicznej/)
+- [Wyniki 2020](../wyniki-badania-plac-w-komunikacji-technicznej-2020/index.md)
+- [Wyniki 2019](../wyniki-badania-plac-w-komunikacji-technicznej-2019/index.md)
+- [Wyniki 2018](../wyniki-badania-plac-w-komunikacji-technicznej-2018/index.md)
+- [Wyniki 2017](../wyniki-badania-plac-w-komunikacji-technicznej/index.md)
 
 Oto jak sytuacja zmieniała się na przestrzeni lat, w których przeprowadzaliśmy
 badania:
@@ -128,7 +128,7 @@ Tak jak w poprzednich latach, większość ankietowanych nauczyło się zawodu w
 pracy - to blisko 85% uczestników badania. Na drugim miejscu - 10,6% - to osoby,
 które ukończyły kurs i zdobyły certyfikat [ITCQF](https://itcqf.org/). Ciągle
 brakuje osób chętnych, by skorzystać ze
-[studiów kierunkowych](http://techwriter.pl/studia-podyplomowe-z-komunikacji-technicznej/).
+[studiów kierunkowych](../studia-podyplomowe-z-komunikacji-technicznej/index.md).
 Według ankiety w tym roku to niespełna 9% respondentów.
 
 | PRZYGOTOWANIE                         | PROCENTOWO | LICZBA ODPOWIEDZI |

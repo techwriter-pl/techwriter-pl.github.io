@@ -5,9 +5,10 @@ date: '2014-06-20'
 tags:
   - 'news'
   - 'z-kraju'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'praca'
   - 'webinarium'
+  - 'soap'
 coverImage: 'apisdkcodesamples.png'
 ---
 

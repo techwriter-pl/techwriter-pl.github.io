@@ -6,8 +6,8 @@ tags:
   - 'dobre-praktyki'
   - 'warsztat'
   - 'instrukcje'
-  - 'manuale'
-  - 'pomoc-uzytkownika'
+  - 'pomoc-użytkownika'
+  - 'pomoc-użytkownika'
   - 'praca'
   - 'procedury'
 coverImage: 'keepcalmproofread.jpg'
@@ -50,8 +50,7 @@ skomplikowanych zdań, musimy się bardziej skupić, bo mogą one zawierać śre
 ### Krok 3 - ryciny, tabelki i nagłówki
 
 Spójność to rzecz kluczowa jeśli chodzi o ryciny, tabelki i nagłówki. Zawsze
-trzymajmy się
-[podręcznika stylu](http://techwriter.pl/podrecznik-stylu-stylrecznik/)
+trzymajmy się [podręcznika stylu](../podrecznik-stylu-stylrecznik/index.md)
 używanego w naszej firmie. Dobrze byłoby sprawdzić całą treść pod kątem
 spójności, ale w związku z małą ilością czasu skupmy się tyko na wspomnianych
 wyżej elementach.

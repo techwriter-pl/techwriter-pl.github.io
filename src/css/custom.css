@@ -2,16 +2,18 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #0dc7ed;
+  --tech-writer-blue: #0dc7ed;
+  --tech-writer-yellow: #f5bf03;
+  --tech-writer-yellow-light: #fdd851;
+  --ifm-color-primary: var(--tech-writer-blue);
   --ifm-color-primary-dark: #0baccc;
   --ifm-color-primary-darker: #0aa0be;
   --ifm-color-primary-darkest: #08788f;
-  --ifm-color-primary-light: #0dc7ed;
+  --ifm-color-primary-light: var(--tech-writer-blue);
   --ifm-color-primary-lighter: #37ceec;
   --ifm-color-primary-lightest: #66d5eb;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
-  --tech-writer-impact-color: #f5bf03;
   --nice-heading-font: 'Oswald', sans-serif;
   --subheading-font: serif;
   --ifm-font-family-base: 'Merriweather', serif;
@@ -29,6 +31,18 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
+@property --angle {
+  syntax: '<angle>';
+  initial-value: 0deg;
+  inherits: false;
+}
+
+@keyframes rotate {
+  to {
+    --angle: 360deg;
+  }
+}
+
 .button {
   text-transform: uppercase;
   font-weight: 600;
@@ -36,12 +50,48 @@
   color: black;
 }
 
+.button--primary {
+  --angle: 0deg;
+  background: linear-gradient(
+    30deg,
+    var(--ifm-color-primary-dark) 45%,
+    var(--tech-writer-yellow)
+  );
+  border-image: linear-gradient(
+      var(--angle),
+      var(--tech-writer-yellow),
+      var(--tech-writer-blue)
+    )
+    1;
+  border-width: 4px;
+}
+
+.button--primary:hover {
+  transform: scale(1.1);
+  animation: 4s rotate linear infinite;
+}
+
 .button--secondary {
-  background-color: var(--tech-writer-impact-color);
+  --angle: 0deg;
+  background: linear-gradient(
+    120deg,
+    var(--tech-writer-yellow),
+    var(--tech-writer-yellow-light),
+    var(--tech-writer-blue)
+  );
+  border-image: linear-gradient(
+      var(--angle),
+      var(--tech-writer-blue),
+      var(--tech-writer-yellow)
+    )
+    1;
+  border-width: 4px;
 }
 
 .button--secondary:hover {
   color: white;
+  transform: scale(1.1);
+  animation: 4s rotate linear infinite;
 }
 
 a,
@@ -65,4 +115,8 @@ h4,
 h5,
 h6 {
   font-family: var(--nice-heading-font) !important;
+}
+
+.DocSearch-Button-Placeholder {
+  color: black;
 }

@@ -15,7 +15,7 @@ godna polecenia.
 
 <!--truncate-->
 
-[Zasada](https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two 'Liczba 7'),
+[Zasada](https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two),
 o której mowa, wywodzi się z koncepcji psychologicznej, stworzonej przez
 George’a Millera w 1956 roku. Udowodnił on w swych badaniach nad zapamiętywaniem
 informacji, że człowiek jest zdolny do zapisania w pamięci siedmiu elementów,
@@ -25,7 +25,7 @@ Na jej podstawie przyjęto, że ilość kroków w procedurach powinna być nie w
 niż dziewięć, ale nie mniejsza niż pięć, a najlepiej, gdy będzie to siedem
 punktów. Jeśli zdarza się, że instrukcja ma więcej niż dziewięć kroków zazwyczaj
 Technical Writer będzie starał się rozbić ją na kilka mniejszych procedur lub
-wewnątrz kroku zrobić listę kroczków :-) (substeps). Jednak czy ta praktyka ma
+wewnątrz kroku zrobić listę kroczków 😊 (substeps). Jednak czy ta praktyka ma
 nadal sens?
 
 Prawda jest taka, że większość użytkowników wykonujących procedury nie stara się
@@ -59,9 +59,9 @@ wakacji. Dlatego, zamiast skupiać się na regule siedmiu kroków, skupmy się n
 poprawnym pisaniu treści 😉.
 
 Chcących pogłębić temat dobrego pisania procedur zapraszamy
-[tutaj](http://techwriter.pl/jak-pisac-dobre-instrukcje/ 'Instrukcje'), a osoby
-ciekawe tego, jak działa nasz mózg w odniesieniu do pamięci kierujemy
-[tu](http://www.human-memory.net/types_short.html 'Pamięć').
+[tutaj](../jak-pisac-dobre-instrukcje/index.md), a osoby ciekawe tego, jak
+działa nasz mózg w odniesieniu do pamięci kierujemy
+[tu](http://www.human-memory.net/types_short.html).
 
 **P.S. Jakie są Wasze doświadczenia z procedurami? Czy mieliście kiedyś
 styczność z zasadą siedmiu kroków? Jeśli tak, to jak sprawdziła się ona w

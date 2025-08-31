@@ -1,0 +1,14 @@
+.imageContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.itemImage {
+  width: 100%;
+  border: 1px solid var(--ifm-color-primary);
+}
+
+.grayscale {
+  filter: grayscale(100%);
+}

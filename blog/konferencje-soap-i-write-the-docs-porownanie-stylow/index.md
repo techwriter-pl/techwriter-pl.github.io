@@ -4,12 +4,14 @@ authors: niewiarowski
 date: '2022-07-29'
 tags:
   - 'biblioteczka-techwritera'
-  - 'z-przymruzeniem-oka'
+  - 'humor'
   - 'edukacja'
   - 'kariera'
   - 'konferencje'
   - 'praca'
-  - 'spolecznosc'
+  - 'społeczność'
+  - 'write-the-docs'
+  - 'soap'
 ---
 
 Rozważasz udział w jednej z konferencji tech writingowych: "Write The Docs" i
@@ -101,20 +103,16 @@ wcześniejszych edycji:
 - [WTD](https://www.youtube.com/c/WritetheDocs)
 
 Tegoroczną edycję SOAP 2022 mamy już za sobą - zapraszam do przeczytania
-[relacji z niej](http://techwriter.pl/doniesienia-z-tegoroczenj-konferencji-soap-2022/).
+[relacji z niej](../doniesienia-z-tegoroczenj-konferencji-soap-2022/index.md).
 
 Jeśli chcesz, zapoznaj się z relacjami z wcześniejszych edycji. Znajdziesz tam
 więcej informacji o ciągle aktualnych tematach i wrażeniach z tamtych spotkań.
 
-- [Write the Docs Prague 2021 (online)](http://techwriter.pl/relacja-z-konferenecji-write-the-docs-prague-2021/)
-- [Write the Docs Prague 2020 (online)](http://techwriter.pl/relacja-z-write-the-docs-prague-2020-online/)
-- [SOAP Content Conference 2019](http://techwriter.pl/konferencja-soap-2019-wideorelacja/)
-- [Write the Docs Prague 2019](http://techwriter.pl/nasza-relacja-z-write-the-docs-prague-2019/)
-- [Write the Docs Prague 2018](http://techwriter.pl/write-the-docs-prague-2018-relacja/)
-- [SOAP Content Conference 2018](http://techwriter.pl/konferencja-soap-2018-relacja/)
-- [Write the Docs Prague 2017](http://techwriter.pl/write-the-docs-prague-2017-relacja/)
-- [Write the Docs Europe 2016](http://techwriter.pl/write-the-docs-europe-2016-relacja/)
-
-11-13 września 2022 odbędzie się WTD - Prague edition. Wybierzesz się? Więcej
-informacji znajdziesz w tej
-[zapowiedzi](http://techwriter.pl/write-the-docs-prague-2022-juz-we-wrzesniu/).
+- [Write the Docs Prague 2021 (online)](../relacja-z-konferenecji-write-the-docs-prague-2021/index.md)
+- [Write the Docs Prague 2020 (online)](../relacja-z-write-the-docs-prague-2020-online/index.md)
+- [SOAP Content Conference 2019](../konferencja-soap-2019-wideorelacja/index.md)
+- [Write the Docs Prague 2019](../nasza-relacja-z-write-the-docs-prague-2019/index.md)
+- [Write the Docs Prague 2018](../write-the-docs-prague-2018-relacja/index.md)
+- [SOAP Content Conference 2018](../konferencja-soap-2018-relacja/index.md)
+- [Write the Docs Prague 2017](../write-the-docs-prague-2017-relacja/index.md)
+- [Write the Docs Europe 2016](../write-the-docs-europe-2016-relacja/index.md)

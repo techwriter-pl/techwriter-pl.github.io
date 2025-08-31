@@ -4,9 +4,12 @@ authors: admin
 date: '2019-10-09'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
+  - 'dokumentacja'
+  - 'edukacja'
   - 'konferencje'
-  - 'spolecznosc'
+  - 'społeczność'
+  - 'write-the-docs'
 coverImage: 'Konferencja-Write-The-Docs-2019-e1570607083973.jpg'
 ---
 

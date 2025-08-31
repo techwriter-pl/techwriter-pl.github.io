@@ -4,8 +4,8 @@ authors: pensjonatus
 date: '2017-09-27'
 tags:
   - 'dobre-praktyki'
-  - 'narzedzia'
-  - 'przyklady'
+  - 'narzędzia'
+  - 'przykłady'
   - 'warsztat'
   - 'aplikacje'
   - 'automatyzacja'

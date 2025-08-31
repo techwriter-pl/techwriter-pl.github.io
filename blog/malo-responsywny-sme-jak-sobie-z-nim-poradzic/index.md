@@ -6,7 +6,6 @@ tags:
   - 'dobre-praktyki'
   - 'warsztat'
   - 'praca'
-  - 'praktyki'
 coverImage: 'malo_responsywny_sme.png'
 ---
 
@@ -95,6 +94,6 @@ Czytelnikami.
 Jeśli temat SME jest dla Was interesujący zapraszamy do artykułów, które
 pojawiły się wcześniej na naszych łamach:
 
-[Kim jest Subject Matter Expert (SME) i jak z nim rozmawiać?](http://techwriter.pl/kim-jest-sme/)
+[Kim jest Subject Matter Expert (SME) i jak z nim rozmawiać?](../kim-jest-sme/index.md)
 
-[Technical Writer w roli eksperta (SME)](http://techwriter.pl/technical-writer-w-roli-eksperta-sme/)
+[Technical Writer w roli eksperta (SME)](../technical-writer-w-roli-eksperta-sme/index.md)

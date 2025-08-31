@@ -6,18 +6,17 @@ tags:
   - 'news'
   - 'warsztat'
   - 'z-kraju'
-  - 'dostepnosc'
-  - 'jezyk'
+  - 'dostępność'
+  - 'język'
   - 'konferencje'
-  - 'praktyki'
+  - 'dobre-praktyki'
   - 'technologie'
 coverImage: 'Prosto.jpg'
 ---
 
 Równo sześć lat po jednym z naszych
-[pierwszych wpisów](http://techwriter.pl/prostota-glupcze/) dotyczących
-upraszczania przekazu natknęliśmy się na niesamowity (i rodzimy!) ciąg dalszy
-tej historii...
+[pierwszych wpisów](../prostota-glupcze/index.md) dotyczących upraszczania
+przekazu natknęliśmy się na niesamowity (i rodzimy!) ciąg dalszy tej historii...
 
 <!--truncate-->
 

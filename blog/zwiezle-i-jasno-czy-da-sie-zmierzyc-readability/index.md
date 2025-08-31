@@ -4,9 +4,9 @@ authors: admin
 date: '2015-07-07'
 tags:
   - 'dobre-praktyki'
-  - 'narzedzia'
+  - 'narzędzia'
   - 'warsztat'
-  - 'jezyk'
+  - 'język'
 coverImage: 'simplicity.jpg'
 ---
 

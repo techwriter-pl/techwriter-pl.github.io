@@ -13,13 +13,13 @@ niech przyniesie Wam:
 
 <!--truncate-->
 
-_Ukontentowania z [kontentu](http://techwriter.pl/langlydz-part-najn/)_
+_Ukontentowania z [kontentu](../langlydz-part-najn/index.md)_
 
-_Jak najmniej [literówek](http://techwriter.pl/literowki/)_
+_Jak najmniej [literówek](../literowki/index.md)_
 
-_Zawsze dostępnych [ekspertów](http://techwriter.pl/kim-jest-sme/)_
+_Zawsze dostępnych [ekspertów](../kim-jest-sme/index.md)_
 
-_I [portmonetki grubej.](http://techwriter.pl/category/news/oferty-pracy/)_
+_I [portmonetki grubej.](/oferty-pracy)_
 
 To służbowo, a prywatnie:
 

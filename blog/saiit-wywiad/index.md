@@ -1,11 +1,12 @@
 ---
-title: 'Stowarzyszenie Autorów i Ilustratorów Technicznych (SAIiT) - Wywiad z Łukaszem Rybką'
+title: 'Stowarzyszenie Autorów i Ilustratorów Technicznych (SAiIT) - Wywiad z Łukaszem Rybką'
 authors: mrozek
 date: '2024-06-27'
 tags:
-  - 'stowarzyszenie'
-  - 'zrzeszenia branżowe'
-  - 'promocja branży'
+  - 'saiit'
+  - 'zrzeszenia-branżowe'
+  - 'promocja-branży'
+  - 'społeczność'
 coverImage: 'saiit.png'
 toc_max_heading_level: '2'
 ---
@@ -18,7 +19,7 @@ Okazuje się jednak, że poza branżą nie jest to już takie pewne. W Polsce Te
 
 A to niesie za sobą pewne konsekwencje. 
 
-I o tym dziś będziemy rozmawiać z [Łukaszem Rybką](https://www.linkedin.com/in/%C5%82ukasz-rybka-364a81190/), pomysłodawcą i założycielem Stowarzyszenia Autorów i Ilustratorów Technicznych (SAIiT), który działa bardzo aktywnie, promując ideę stowarzyszenia wśród społeczności dokumentalistów. 
+I o tym dziś będziemy rozmawiać z [Łukaszem Rybką](https://www.linkedin.com/in/%C5%82ukasz-rybka-364a81190/), pomysłodawcą i założycielem Stowarzyszenia Autorów i Ilustratorów Technicznych (SAiIT), który działa bardzo aktywnie, promując ideę stowarzyszenia wśród społeczności dokumentalistów. 
 
 ## O inicjatorze
 

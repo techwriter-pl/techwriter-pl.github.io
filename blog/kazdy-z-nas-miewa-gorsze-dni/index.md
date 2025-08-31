@@ -4,10 +4,10 @@ authors: mojk
 date: '2016-11-25'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'humor'
   - 'praca'
-  - 'spolecznosc'
+  - 'społeczność'
 coverImage: 'man-857502_640.jpg'
 ---
 
@@ -33,7 +33,7 @@ wszystkiego i wyjechać w Bieszczady, a potem najlepiej nie wracać. Powody są
 różne - a to SME nam nie odpisuje od tygodnia, a to narzędzie sypie błędami, a
 to wszystko musi być na wczoraj. Można by wymieniać w nieskończoność. Jakiś czas
 temu pisaliśmy o problemach z jakimi mierzy się Technical Writer w
-artykule [Żywot dokumentalisty poczciwego, czyli wyzwanie to pisanie](http://techwriter.pl/zywot-dokumentalisty-poczciwego-czyli-wyzwanie-to-pisanie/).
+artykule [Żywot dokumentalisty poczciwego, czyli wyzwanie to pisanie](../zywot-dokumentalisty-poczciwego-czyli-wyzwanie-to-pisanie/index.md).
 
 Co robić w takich sytuacjach? Nie każdy z nas ma możliwość wylać swoje żale
 koleżance lub koledze po fachu. W szczególności dotyczy to osób, które są

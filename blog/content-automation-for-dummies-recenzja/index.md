@@ -7,7 +7,7 @@ tags:
   - 'warsztat'
   - 'automatyzacja'
   - 'literatura'
-  - 'narzedzia'
+  - 'narzędzia'
 coverImage: 'ContentAutomationForDummies.jpeg'
 ---
 

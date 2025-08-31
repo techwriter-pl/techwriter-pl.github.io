@@ -3,9 +3,7 @@ title: 'Chat GPT a sprawa tech writerska'
 authors: niewiarowski
 date: '2023-04-27'
 tags:
-  - 'narzedzia'
-  - 'aritificial-intelligence'
-  - 'chatgpt'
+  - 'narzędzia'
   - 'technologie'
 coverImage: 'czat_gpt.png'
 ---

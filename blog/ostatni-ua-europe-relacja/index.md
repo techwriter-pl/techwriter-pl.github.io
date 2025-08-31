@@ -4,7 +4,7 @@ authors: pensjonatus
 date: '2017-06-20'
 tags:
   - 'news'
-  - 'ze-swiata'
+  - 'ze-świata'
   - 'edukacja'
   - 'konferencje'
 coverImage: 'Crown_Hotel_Harrogate_640.jpg'

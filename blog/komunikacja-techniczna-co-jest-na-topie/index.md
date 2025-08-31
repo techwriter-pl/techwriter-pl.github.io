@@ -4,8 +4,8 @@ authors: admin
 date: '2020-05-13'
 tags:
   - 'news'
-  - 'ze-swiata'
-  - 'spolecznosc'
+  - 'ze-świata'
+  - 'społeczność'
   - 'technologie'
 coverImage: 'Screenshot-2020-05-06-at-17.59.28.png'
 ---

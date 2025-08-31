@@ -5,8 +5,7 @@ date: '2017-11-09'
 tags:
   - 'warsztat'
   - 'wywiady'
-  - 'spolecznosc'
-  - 'wywiad'
+  - 'społeczność'
 coverImage: 'nik-macmillan-280300.jpg'
 ---
 
