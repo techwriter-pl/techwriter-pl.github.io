@@ -101,7 +101,7 @@ Zatem, w pracy elastyczny technical writer, nie tylko nadąża za zmianami, ale
 też potrafi je przewidywać i przygotować dokumentację w taki sposób, aby była
 użyteczna także wtedy, gdy technologia kolejny raz się zmieni. Wykazuje gotowość
 do nauki nowych narzędzi, dostosowuje się do nowych procesów pisania i
-publikowania oraz ma świadomość trendów branżowych i aktywne podążanie za nimi.
+publikowania oraz ma świadomość trendów branżowych i aktywnie podąża za nimi.
 
 ## Sztuka opowiadania faktów
 
@@ -205,7 +205,7 @@ potrzebne i same makiety wystarczą. Jak poradzić sobie z tym chaosem?
 
 Zadaniem technical writera jest połączenie tych trzech źródeł w spójną całość,
 co oznacza uporządkowanie treści, tłumaczenie technicznego języka programistów
-na przystępny opis uzupełnienie luk, na przykład poprzez zadawanie pytań co to
+na przystępny opis uzupełnienie luk, na przykład poprzez zadawanie pytań co do
 istotności użycia makiet, gdzie dodać elementy graficzne, jak również uwzględnić
 czas realizacji całego projektu. To wymaga zarówno umiejętności adaptacji do
 różnych stylów pracy, jak i zdolności przekładania technicznego języka na
@@ -306,7 +306,7 @@ może mieć wątpliwości, co wpisać w pole ID klienta.
 
 Co może zrobić, aby im pomóc? Zamiast tylko wymienić to pole w instrukcji, można
 dodać kontekst, gdzie znaleźć ID klienta (numer klienta znajdziesz w oddzielnym
-email, składa się on z 6-cyfr) lub dodać na przykład podpowiedź. Użytkownik nie
+emailu, składa się on z 6-cyfr) lub dodać na przykład podpowiedź. Użytkownik nie
 tylko wie, co wpisać, ale też skąd wziąć potrzebne informacje i jakie błędy mogą
 się zdarzyć. Czuje się prowadzony krok po kroku, a ryzyko popełnienia błędu
 maleje.
@@ -327,13 +327,13 @@ Może okażą się przydatne w Waszej codziennej pracy.
 
 Ćwiczenie 1: Myślenie od problemu do rozwiązania
 
-**jak można to zrobić:** Zamiast pisać instrukcję od pierwszego kroku, zacznij
+**Jak można to zrobić:** Zamiast pisać instrukcję od pierwszego kroku, zacznij
 od oczekiwanego efektu, a następnie cofnij się krok po kroku do punktu
 startowego.
 
 Ćwiczenie 2: Storytelling do codziennych zadań
 
-**jak można to zrobić:** Zacznijcie od opisywania zwykłych zadań biurowych (jak
+**Jak można to zrobić:** Zacznijcie od opisywania zwykłych zadań biurowych (jak
 na przykład, wprowadzanie danych do systemu) jako krótką historię — z punktem
 startowym, problemem, rozwiązaniem i rezultatem.
 
