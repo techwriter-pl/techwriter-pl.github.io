@@ -2,11 +2,292 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://techwriter.pl/</id>
     <title>techwriter.pl Blog</title>
-    <updated>2025-07-21T00:00:00.000Z</updated>
+    <updated>2025-09-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://techwriter.pl/"/>
     <subtitle>techwriter.pl Blog</subtitle>
     <icon>https://techwriter.pl/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Umiejętności miękkie w pracy technical writera- część 1]]></title>
+        <id>https://techwriter.pl/umiejetnosci-miekkie</id>
+        <link href="https://techwriter.pl/umiejetnosci-miekkie"/>
+        <updated>2025-09-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Umiejętności miękkie są równie ważne jak techniczne, ponieważ to od nich zależy,]]></summary>
+        <content type="html"><![CDATA[<p>Umiejętności miękkie są równie ważne jak techniczne, ponieważ to od nich zależy,
+czy dokumentacja będzie przyjazna w odbiorze i dopasowana do potrzeb
+użytkownika. W końcu dobra dokumentacja to nie tylko zestaw danych — to most
+między człowiekiem a technologią!</p>
+<p>W tym artykule omówimy umiejętności miękkie, które są przydatne w pracy
+technical writera i jak one wpływają na jakość i atrakcyjność powstających
+tekstów.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="umiejętności-miękkie-i-ich-korzyść-dla-pisania">Umiejętności miękkie i ich korzyść dla pisania<a href="https://techwriter.pl/umiejetnosci-miekkie#umiej%C4%99tno%C5%9Bci-mi%C4%99kkie-i-ich-korzy%C5%9B%C4%87-dla-pisania" class="hash-link" aria-label="Bezpośredni link do Umiejętności miękkie i ich korzyść dla pisania" title="Bezpośredni link do Umiejętności miękkie i ich korzyść dla pisania">​</a></h2>
+<p>W świecie dokumentacji technicznej często skupiamy się na dokładności, spójności
+treści, dbałości o szczegóły oraz technicznych aspektach pracy jak na przykład
+umiejętność zrozumienia złożonych procesów i przełożenia ich na klarowne
+instrukcje. To można określić jako chleb powszedni tej profesji. Ale… to dopiero
+początek.</p>
+<p>Mistrz tej dziedziny wie, że to nie wystarczy. Użytkownik nie tylko potrzebuje
+informacji — on chce je zrozumieć, zapamiętać lub wrócić do nich w razie
+potrzeby. To właśnie tutaj na scenę wchodzą umiejętności miękkie, które potrafią
+zmienić "suchy" opis w opowieść prowadzącą czytelnika krok po kroku do
+rozwiązania jego problemu lub odpowiedzieć na nurtujące go pytania.</p>
+<p>Zdecydowaliśmy się przyjrzeć bliżej kilku umiejętnościom, które mogą mieć
+znaczenie w dzisiejszym elektronicznym świecie, a które mogą pomoc zarówno w
+pracy, jak i w codziennych interakcjach z technologią. Należą do nich:</p>
+<ul>
+<li>🏋️‍♀️ Elastyczność</li>
+<li>📖 Upraszczanie złożonych treści oraz storytelling</li>
+<li>🎨 Kreatywność w prezentowaniu treści</li>
+<li>🤝 Współpraca zespołowa</li>
+<li>🗂️ Organizacja pracy</li>
+<li>❤️ Empatia</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="bycie-trochę-jak-człowiek-z-gumy">Bycie trochę jak człowiek z gumy<a href="https://techwriter.pl/umiejetnosci-miekkie#bycie-troch%C4%99-jak-cz%C5%82owiek-z-gumy" class="hash-link" aria-label="Bezpośredni link do Bycie trochę jak człowiek z gumy" title="Bezpośredni link do Bycie trochę jak człowiek z gumy">​</a></h2>
+<p>Współczesny świat technologii zmienia się szybciej niż kiedykolwiek. Coraz
+częściej i szybciej pojawiają się nowe narzędzia, frameworki czy metody pracy.
+To, co dziś jest standardem, jutro może zostać zastąpione przez lepsze, szybsze
+i bardziej efektywne rozwiązanie. Zmiany są nieuniknione. Dla autorów tekstów
+technicznych oznacza to jedno: elastyczność staje się kluczową umiejętnością.
+Dlaczego?</p>
+<ul>
+<li>Technologie mają krótki cykl życia - narzędzia, które dziś opisujecie, za rok
+mogą być już przestarzałe.</li>
+<li>Nowe formaty dokumentacji - AI, interaktywne przewodniki, wideo czy chat boty
+zmieniają sposób, w jaki Wasi odbiorcy chcą konsumować wiedzę.</li>
+<li>Różne środowiska pracy - dokumentacja może być publikowana w chmurze, w
+repozytorium Git, w aplikacjach mobilnych.</li>
+<li>Oczekiwania użytkowników rosną - użytkownicy oczekują szybkich rozwiązań i
+wprowadzania zmian w produkcie czy oprogramowaniu.</li>
+</ul>
+<p>Przykład:</p>
+<hr>
+<p>Technical writer tworzy dokumentację do nowego modelu telefonu komórkowego,
+bierze pod uwagę możliwość przyszłych aktualizacji i potencjalnych zmian
+technologicznych. Od czego zacząć i o czym pamiętać?</p>
+<p>Na początek warto skupić się na funkcjach podstawowych telefonu, jak wykonywanie
+połączeń, odbieranie połączeń, wysyłanie wiadomości, będą one częściami stałymi.
+Instrukcja taka koncentruje się wtedy na potrzebach użytkownika i opisuje cel
+oraz efekt działania, a nie konkretny przycisk.</p>
+<p>✅: Użyj <strong>Połącz</strong>, aby rozpocząć rozmowę.</p>
+<p>❌: Naciśnij zielony przycisk z lewej strony aby wykonać połączenie.</p>
+<p>Wspomniane funkcje podstawowe będą też częścią głównych sekcjach instrukcji. W
+przypadku dodania rozszerzeń jak wideo-rozmowy, emotikony, GIF-y czy AR czaty
+będzie można je dodać w osobnych modułach. Dzięki temu dokumentacja "starzeje
+się" wolniej, podstawy są zawsze aktualne i zachowana jest struktura dokumentu
+😉.</p>
+<p>Ponadto można opisywać scenariusze - <strong>Jak sprawdzić nieodebrane połączenia</strong>
+lub <strong>Jak wysłać wiadomość multimedialną</strong>. W przypadku aktualizacji interfejsu
+rozwiązanie to zapobiegnie tworzeniu kolejnej wersji.</p>
+<p>Ważnym elementem tej całej układanki są też metadane i kontekst (wersja
+urządzenia/oprogramowania, jakie zmiany zostały wprowadzone), aby użytkownik
+wiedział, czy instrukcja dotyczy jego telefonu czy nie.</p>
+<p><img decoding="async" loading="lazy" alt="Ewolucja telefonów komórkowych na przestrzeni lat" src="https://techwriter.pl/assets/images/Telefon-ac3580ac9bf4144637ff99efb7bf3151.png" width="1200" height="800" class="img_ev3q"></p>
+<hr>
+<p>Zatem, w pracy elastyczny technical writer, nie tylko nadąża za zmianami, ale
+też potrafi je przewidywać i przygotować dokumentację w taki sposób, aby była
+użyteczna także wtedy, gdy technologia kolejny raz się zmieni. Wykazuje gotowość
+do nauki nowych narzędzi, dostosowuje się do nowych procesów pisania i
+publikowania oraz ma świadomość trendów branżowych i aktywne podążanie za nimi.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sztuka-opowiadania-faktów">Sztuka opowiadania faktów<a href="https://techwriter.pl/umiejetnosci-miekkie#sztuka-opowiadania-fakt%C3%B3w" class="hash-link" aria-label="Bezpośredni link do Sztuka opowiadania faktów" title="Bezpośredni link do Sztuka opowiadania faktów">​</a></h2>
+<p>Wyobraźcie sobie, że technical writer jest niczym reżyser, który potrafi
+zamienić skomplikowane zagadnienia w prosty, klarowny język, prowadzi widza -
+czyli użytkownika - przez labirynty faktów i kontekstu prostym językiem. Każda
+instrukcja, tutorial czy opis API staje się opowieścią. Nie ma tu miejsca na
+chaotyczne ciągi poleceń - każdy krok jest następstwem poprzedniego.
+<em>Storytelling</em> w techwritingu nie oznacza wymyślania historii science-fiction w
+środku instrukcji obsługi. Chodzi raczej o uporządkowanie treści, aby użytkownik
+czuł, że podąża logiczną ścieżką i jest w stanie samodzielnie dotrzeć do
+rozwiązania.</p>
+<p>W praktyce oznacza to:</p>
+<ul>
+<li>Wprowadzenie kontekstu, dlaczego coś robimy.</li>
+<li>Prowadzenie odbiorcy krok po kroku, z jasno określonym punktem startu i celem.</li>
+<li>Podawanie informacji w odpowiedniej kolejności — tak, by nie "zalewać"
+użytkownika danymi, których nie potrzebuje lub które są zbędne na tym etapie.</li>
+<li>Dodawanie przykładów, które pomagają zrozumieć pojęcia.</li>
+</ul>
+<p>Jak to można zrobić?</p>
+<p>Przykład — opis konfiguracji systemu</p>
+<hr>
+<p><strong>Wersja prosta:</strong></p>
+<ol>
+<li>Z menu <strong>Ustawienia</strong> wybierz sekcję <strong>Sieć</strong>.</li>
+<li>Włącz opcję <strong>Połącz automatycznie</strong>.</li>
+<li>Kliknij <strong>Zapisz</strong>.</li>
+</ol>
+<p><strong>Wersja z narracją:</strong></p>
+<p>Aby Twoje urządzenie łączyło się z siecią bez każdorazowego wprowadzania hasła:</p>
+<ol>
+<li>Przejdź do <strong>Ustawienia→Sieć</strong>.</li>
+<li>Zaznacz pole <strong>Połącz automatycznie</strong>.</li>
+<li>Kliknij <strong>Zapisz</strong>.</li>
+</ol>
+<p>Od teraz urządzenie będzie pamiętać Twoje preferencje, a połączenie będzie
+działać od razu po włączeniu.</p>
+<hr>
+<p>Przykład — opis instalacji aplikacji mobilnej</p>
+<hr>
+<p><strong>Wersja prosta:</strong></p>
+<ol>
+<li>Otwórz sklep Google Play lub App Store.</li>
+<li>Wybierz ikonę <strong>Szukaj</strong>.</li>
+<li>Wpisz nazwę aplikacji w wyszukiwarkę.</li>
+<li>Kliknij <strong>Zainstaluj</strong>.</li>
+<li>Po zakończeniu instalacji, kliknij <strong>Otwórz</strong>.</li>
+</ol>
+<p><strong>Wersja z narracją:</strong></p>
+<p>Aby korzystać z aplikacji na swoim telefonie, otwórz sklep Google Play (na
+Androidzie) lub App Store (na iPhonie), następnie wybierz ikonę <strong>Szukaj</strong>.</p>
+<p>Wpisz w wyszukiwarkę nazwę aplikacji i wybierz ją z listy wyników.</p>
+<p>Kliknij <strong>Zainstaluj</strong>, a system automatycznie pobierze i zainstaluje program.</p>
+<p>Cały proces trwa tylko chwilę, a po zakończeniu możesz od razu kliknąć
+<strong>Otwórz</strong> i rozpocząć korzystanie z aplikacji.</p>
+<hr>
+<p>Opowiadanie historii w dokumentacji nie powinno być długie. Czasami wystarczy
+dodać <strong>kontekst</strong>, <strong>cel</strong> i <strong>wynik końcowy</strong>. Dzięki temu użytkownik lepiej
+rozumie, dlaczego coś robi, widzi sens kolejnych kroków, a cała instrukcja
+zmienia się w spójną opowieść, którą łatwo zapamiętać.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="dogadać-się-w-projekcie">Dogadać się w projekcie<a href="https://techwriter.pl/umiejetnosci-miekkie#dogada%C4%87-si%C4%99-w-projekcie" class="hash-link" aria-label="Bezpośredni link do Dogadać się w projekcie" title="Bezpośredni link do Dogadać się w projekcie">​</a></h2>
+<p>W pracy technical writera współpraca zespołowa jest kluczem do tworzenia
+rzetelnej i przydatnej dokumentacji. Oznacza to umiejętność efektywnego
+działania w zespole złożonym z ekspertów z różnych dziedzin - od programistów,
+przez testerów, po specjalistów UX, lista osób może być długa, a każdy z nich ma
+inny styl pracy i komunikacji.</p>
+<p>Przykład:</p>
+<hr>
+<p>Technical writer pracuje nad dokumentacją nowej strony dla sklepu jeździeckiego.
+Programista przekazuje mu szczegółowe informacje w formie kodu i używa
+technicznego żargonu, tester opisuje problemy w punktach bez kontekstu, a
+projektant UX dostarcza makiety ekranów bez opisów, uznając, że nie będą one
+potrzebne i same makiety wystarczą. Jak poradzić sobie z tym chaosem?</p>
+<table><thead><tr><th>Kto</th><th>Dane wejściowe</th><th>Jak to zrobił technical writer</th></tr></thead><tbody><tr><td><strong>Programista</strong></td><td>Dostarczył fragment kodu produktu: <code>id, name, price, rating, image, tag</code>.</td><td>Przełożył strukturę kodu na dokumentację API. Opisał każde pole: typ, znaczenie, użycie (<code>id</code> (integer) – unikalny identyfikator produktu w systemie. Jest globalny dla całej bazy produktów, a nie tylko dla danej kategorii).</td></tr><tr><td><strong>Tester</strong></td><td>Zgłosił niejasności: brak waluty przy cenie, brak info o skali ratingu, niejasny zakres wartości tagu, co z niedostępnym zdjęciem.</td><td>Zamienił uwagi w sformalizowane specyfikacje: dodał opis waluty, zakres ratingu (1–5), charakter pola <code>tag</code> (procenty lub słowa), rekomendację dla fallback image.</td></tr><tr><td><strong>UX designer</strong></td><td>Przygotował makietę karty produktu, ale bez opisu zachowania.</td><td>Połaczył elementy wizualne na dane z kodu (nazwa, cena, rating, zdjęcie, tag). Dodał narrację i przygotował pytania do UX (Czy są ograniczenia długości nazwy? Jak prezentowana jest cena w różnych walutach?).</td></tr></tbody></table>
+<p>Zadaniem technical writera jest połączenie tych trzech źródeł w spójną całość,
+co oznacza uporządkowanie treści, tłumaczenie technicznego języka programistów
+na przystępny opis uzupełnienie luk, na przykład poprzez zadawanie pytań co to
+istotności użycia makiet, gdzie dodać elementy graficzne, jak również uwzględnić
+czas realizacji całego projektu. To wymaga zarówno umiejętności adaptacji do
+różnych stylów pracy, jak i zdolności przekładania technicznego języka na
+prosty, przystępny opis.</p>
+<hr>
+<p>Innymi słowy, technical writer pełni rolę tłumacza i mediatora, który potrafi
+znaleźć wspólny język między specjalistami a użytkownikiem, dbając, by
+skomplikowane informacje stały się jasne, spójne i przyjazne w odbiorze</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="jak-nie-utonąć-w-morzu-notatek-i-ticketów">Jak nie utonąć w morzu notatek i ticketów<a href="https://techwriter.pl/umiejetnosci-miekkie#jak-nie-uton%C4%85%C4%87-w-morzu-notatek-i-ticket%C3%B3w" class="hash-link" aria-label="Bezpośredni link do Jak nie utonąć w morzu notatek i ticketów" title="Bezpośredni link do Jak nie utonąć w morzu notatek i ticketów">​</a></h2>
+<p>Technical writer często pracuje nad kilkoma projektami jednocześnie, co wymaga
+doskonałej organizacji czasu, priorytetów i wersji dokumentów. Kluczowe jest
+utrzymanie terminowości i spójności treści, nawet gdy równolegle powstaje wiele
+materiałów w różnych etapach rozwoju produktu.</p>
+<p>Przykład:</p>
+<hr>
+<p>Writer przygotowuje instrukcję użytkownika do nowego systemu, jednocześnie
+aktualizując dokumentację API i tworząc przewodnik dla innego projektu. Aby
+uporządkować swoje zadania może stworzyć listę priorytetów, podzielić prace na
+mniejsze zadania, uwzględnia zmiany zatwierdzone przez osoby przeglądające
+dokument. W Trello można to zrobić w następujący sposób:</p>
+<p><img decoding="async" loading="lazy" alt="Lista czynności uwzględniająca priorytety i mniejsze zadania" src="https://techwriter.pl/assets/images/Zarzadzanie_zadaniami-25ed7cfcd5ce75215e56796ac0a20756.png" width="1129" height="439" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="Lista kontrolnych zadań do instrukcji użytkownika" src="https://techwriter.pl/assets/images/Instrukcja_uzytkownika-3563c0d1a12063421c6e5d8e8d08da11.png" width="611" height="740" class="img_ev3q"></p>
+<p>Dzięki narzędziom do planowania można łatwo dodać zadania, podzielić je według
+priorytetów, oznaczyć ich status (<strong>Do zrobienia</strong>, <strong>W toku</strong>, <strong>Gotowe</strong>) oraz
+przypisać członków zespołu do poszczególnych kart. Cały proces tworzenia
+dokumentacji staje się bardziej przejrzysty i uporządkowany. Z kolei stosowanie
+kontroli wersji (Git, CMS) pozwala utrzymać porządek w materiałach, unikając
+sytuacji, w której starsza wersja dokumentu trafia do publikacji i co
+najważniejsze chaosu, kiedy równolegle tworzy różne typy dokumentacji.</p>
+<hr>
+<p>Co tu dużo pisać, skuteczny technical writer potrafi być wielozadaniowy.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="dokumentacja-która-nie-usypia-czyli-magia-kreatywności">Dokumentacja, która nie usypia, czyli magia kreatywności<a href="https://techwriter.pl/umiejetnosci-miekkie#dokumentacja-kt%C3%B3ra-nie-usypia-czyli-magia-kreatywno%C5%9Bci" class="hash-link" aria-label="Bezpośredni link do Dokumentacja, która nie usypia, czyli magia kreatywności" title="Bezpośredni link do Dokumentacja, która nie usypia, czyli magia kreatywności">​</a></h2>
+<p>W pracy technical writera liczy się nie tylko poprawność merytoryczna, ale też
+forma przekazu. Dobór odpowiedniego formatu - czy będzie to tekst, infografika,
+czy wideo - powinien być dopasowany do odbiorcy, aby treść była nie tylko
+informacyjna, lecz także angażująca. Innowacyjne podejście do prezentacji treści
+może zainteresować czytelników i ułatwić im przyswajanie informacji, większa
+szansa na to, że użytkownik zrozumie i zapamięta kluczowe informacje. I owszem,
+nikt nie jest w stanie być kreatywnym przez cały czas (nawet Szekspir musiał
+czasem zrobić przerwę), ale warto zapisywać swoje pomysły i korzystać z
+dostępnych narządzi by móc się rozwijać . Dziś Wasze notatki mogą być jak szkic
+do kiepskiej książki, ale jutro może się okazać, że są inspiracja do projektu.</p>
+<p>Przykład:</p>
+<hr>
+<p>Technical writer ma przygotować instrukcję do obsługi automatycznego
+defibrylatora zewnętrznego (AED). Może sam zdecydować jaka to będzie forma, czy
+będzie to tekst, infografika, a może wideo?</p>
+<p>Co wybrać i dlaczego? Forma wizualna jest bardziej przydatna zwłaszcza w
+branżach, gdzie liczy się czas reakcji, bezpieczeństwo albo szybkie wdrożenie.
+Wizualna instrukcja będzie najtrafniejszym wyborem, ponieważ ma pomóc
+ratownikowi lub osobie pomagającej, szybciej przyswoić informacje, w tym
+przypadku nie ma czasu na wątpliwości, liczy się szybka reakcja, nawet w
+stresie!</p>
+<p><img decoding="async" loading="lazy" alt="Instrukcja jak użyć defibrylatora zewnętrznego (AED)" src="https://techwriter.pl/assets/images/Quick_guide-c3152ad769625c0fd0604985b5f9604a.png" width="1536" height="1024" class="img_ev3q"></p>
+<hr>
+<p>Przy instrukcji wizualnej skraca się czas potrzebny na zrozumienie procedury i
+zmniejsza się ryzyko popełnienia błędów, sam opis <strong>Przyklej elektrody na klatce
+piersiowej</strong> może budzić pewne wątpliwości, dlatego dodanie grafiki może okazać
+się kluczowe.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="jak-nie-być-robotem-w-świecie-ludzi">Jak nie być robotem w świecie ludzi<a href="https://techwriter.pl/umiejetnosci-miekkie#jak-nie-by%C4%87-robotem-w-%C5%9Bwiecie-ludzi" class="hash-link" aria-label="Bezpośredni link do Jak nie być robotem w świecie ludzi" title="Bezpośredni link do Jak nie być robotem w świecie ludzi">​</a></h2>
+<p>Empatia to super moc, dzięki której technical writer potrafi wejść w buty
+użytkownika, nawet jeśli są to niewygodne szpilki czy dziecięce sandały. Jest to
+szczególnie ważne, gdy ten użytkownik może być zestresowany, zdezorientowany lub
+dopiero zaczyna. Dzięki empatii technical writer potrafi przewidzieć pytania i
+problemy, jakie mogą pojawić się podczas korzystania z narzędzia lub usługi.
+Takie podejście pozwala tworzyć dokumentację, która odpowiada na realne potrzeby
+odbiorców i prowadząc użytkownika za rękę, zanim ten zdąży się zgubić.</p>
+<p>Przykład:</p>
+<hr>
+<p>Podczas tworzenia dokumentacji technical writer zauważa, że część użytkowników
+może mieć wątpliwości, co wpisać w pole ID klienta.</p>
+<p>Co może zrobić, aby im pomóc? Zamiast tylko wymienić to pole w instrukcji, można
+dodać kontekst, gdzie znaleźć ID klienta (numer klienta znajdziesz w oddzielnym
+email, składa się on z 6-cyfr) lub dodać na przykład podpowiedź. Użytkownik nie
+tylko wie, co wpisać, ale też skąd wziąć potrzebne informacje i jakie błędy mogą
+się zdarzyć. Czuje się prowadzony krok po kroku, a ryzyko popełnienia błędu
+maleje.</p>
+<p><img decoding="async" loading="lazy" alt="Jak wpisać i gdzie znaleźć ID klienta" src="https://techwriter.pl/assets/images/IDklienta-b55e6de624dfa1e9bc3d316f47b8c3d7.png" width="1024" height="1536" class="img_ev3q"></p>
+<hr>
+<p>Skoro omówiliśmy już trochę teorii o umiejętnościach, to nadszedł czas na cześć
+bardziej praktyczną. Umiejętności miękkie nie są zawsze wrodzonym talentem, ale
+można je rozwijać tak samo, jak znajomość nowych narzędzi czy języków.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ćwiczenia-i-narzędzia">Ćwiczenia i narzędzia<a href="https://techwriter.pl/umiejetnosci-miekkie#%C4%87wiczenia-i-narz%C4%99dzia" class="hash-link" aria-label="Bezpośredni link do Ćwiczenia i narzędzia" title="Bezpośredni link do Ćwiczenia i narzędzia">​</a></h2>
+<p>Poniżej znajdziecie przykłady ćwiczeń i narzędzi, które mogą Wam pomoc w
+ulepszeniu umiejętności miękkich pod względem komunikacji, empatii i narracji.
+Może okażą się przydatne w Waszej codziennej pracy.</p>
+<p>Ćwiczenie 1: Myślenie od problemu do rozwiązania</p>
+<p><strong>jak można to zrobić:</strong> Zamiast pisać instrukcję od pierwszego kroku, zacznij
+od oczekiwanego efektu, a następnie cofnij się krok po kroku do punktu
+startowego.</p>
+<p>Ćwiczenie 2: Storytelling do codziennych zadań</p>
+<p><strong>jak można to zrobić:</strong> Zacznijcie od opisywania zwykłych zadań biurowych (jak
+na przykład, wprowadzanie danych do systemu) jako krótką historię — z punktem
+startowym, problemem, rozwiązaniem i rezultatem.</p>
+<p>Narzędzia wspierające rozwój umiejętności miękkie w techwritingu:</p>
+<ul>
+<li><a href="https://www.loom.com/" target="_blank" rel="noopener noreferrer">Loom</a> nagrywanie objaśnień w formie wideo</li>
+<li><a href="https://www.canva.com/en_gb/" target="_blank" rel="noopener noreferrer">Canva</a> do kreatywnego mapowania procesów i
+tworzenia notatek wizualnych</li>
+<li><a href="https://evernote.com/" target="_blank" rel="noopener noreferrer">Evernote</a> aplikacja do tworzenia i przechowywania
+notatek</li>
+<li>Narzędzia oparte na sztucznej inteligencji, chat boty które mogą symulować
+sytuacje społeczne</li>
+<li><a href="https://trello.com/" target="_blank" rel="noopener noreferrer">Trello</a> /
+<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noopener noreferrer">Jira</a> do śledzenia postępów w
+ćwiczeniach i pracy nad komunikacją.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="na-zakończenie">Na zakończenie<a href="https://techwriter.pl/umiejetnosci-miekkie#na-zako%C5%84czenie" class="hash-link" aria-label="Bezpośredni link do Na zakończenie" title="Bezpośredni link do Na zakończenie">​</a></h2>
+<p>Przedstawiliśmy tylko kilka przykładów jak wykorzystać umiejętności miękkie w
+pracy technical writera. Rozwijanie tych umiejętności wymaga świadomej praktyki
+i ciągłego uczenia się a inwestowanie w ich rozwój może wkrótce stać się
+niezbędne do budowania kariery w dynamicznym świecie zawodowym. Umiejętności
+takie jak komunikacja, współpraca czy elastyczność, mają coraz większe
+znaczenie, szczególnie w zawodach technicznych, gdzie techniczne umiejętności
+muszą iść w parze z efektywnym przekazywaniem informacji.</p>
+<p>A wy co o tym myślicie? Czy umiejętności miękkie są ważne w Waszej pracy? Jakie
+macie doświadczenia z ich rozwijaniem? Podzielcie się swoimi przemyśleniami w
+komentarzach!</p>]]></content>
+        <author>
+            <name>Martyna Toporek</name>
+        </author>
+        <category label="dobre praktyki" term="dobre praktyki"/>
+        <category label="kariera" term="kariera"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CAKE conf: Co nowego?]]></title>
         <id>https://techwriter.pl/cakeconf-updates</id>
@@ -2468,143 +2749,5 @@ przemyśleniami.</p>]]></content>
         <category label="z-kraju" term="z-kraju"/>
         <category label="edukacja" term="edukacja"/>
         <category label="dobre-praktyki" term="dobre-praktyki"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[V edycja studiów Komunikacja techniczna - trwa nabór]]></title>
-        <id>https://techwriter.pl/v-edycja-studiow-komunikacja-techniczna-trwa-nabor</id>
-        <link href="https://techwriter.pl/v-edycja-studiow-komunikacja-techniczna-trwa-nabor"/>
-        <updated>2024-09-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[W ostatni weekend października 2024 rusza V edycja studiów podyplomowych na]]></summary>
-        <content type="html"><![CDATA[<p>W ostatni weekend października 2024 rusza V edycja studiów podyplomowych na
-kierunku Komunikacja Techniczna. Na chętnych wciąż czekają miejsca. Czego nauczą
-się tegoroczni studenci? Szczegóły poniżej.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="studia-oczami-absolwentów">Studia oczami absolwentów<a href="https://techwriter.pl/v-edycja-studiow-komunikacja-techniczna-trwa-nabor#studia-oczami-absolwent%C3%B3w" class="hash-link" aria-label="Bezpośredni link do Studia oczami absolwentów" title="Bezpośredni link do Studia oczami absolwentów">​</a></h2>
-<p>Jak w poprzednich latach, i w tym roku objęliśmy patronatem kierunek studiów
-<a href="https://www.vistula.edu.pl/kierunki-studiow/studia-podyplomowe/informatyka/komunikacja-techniczna" target="_blank" rel="noopener noreferrer">Komunikacja Techniczna na Akademii Finansów i Biznesu Vistula</a>.
-Cieszy nas bardzo fakt, że dzięki poprzednim, bardzo pozytywnie odebranym przez
-absolwentów edycjom, studia te nadal wzbudzają spore zainteresowanie.</p>
-<p>Zainteresowanych zachęcamy do przeczytania artykułów naszych redakcyjnych
-koleżanek, Magdy i Justyny, absolwentek tego kierunku, które dzielą się z Wami
-swoimi wrażeniami:</p>
-<ul>
-<li><a href="https://techwriter.pl/komunikacja-techniczna-jak-sie-studiuje">po pierwszym semestrze</a></li>
-<li><a href="https://techwriter.pl/komunikacja-techniczna-drugi-semestr">po drugim semestrze</a></li>
-<li><a href="https://techwriter.pl/kilka-slow-o-3-edycji-studiow-z-komunikacji-technicznej">o 3. edycji studiów</a></li>
-</ul>
-<p>Wiemy również, że część studentów znalazła pracę w trakcie lub zaraz po obronach
-prac, jak choćby
-<a href="https://www.linkedin.com/posts/pawel-woznikowski_this-is-probably-my-most-personal-professional-activity-7114579776916353024-kC8e/" target="_blank" rel="noopener noreferrer">Paweł</a>.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="co-pozostaje-a-co-się-zmienia">Co pozostaje, a co się zmienia<a href="https://techwriter.pl/v-edycja-studiow-komunikacja-techniczna-trwa-nabor#co-pozostaje-a-co-si%C4%99-zmienia" class="hash-link" aria-label="Bezpośredni link do Co pozostaje, a co się zmienia" title="Bezpośredni link do Co pozostaje, a co się zmienia">​</a></h2>
-<p>Podobnie jak w poprzednich latach, prowadzący podążają za głosem studentów i
-wciąż udoskonalają program zajęć. Jako jeden z przykładów należy podać
-wydzielenie jako osobny blok tematyczny zagadnienia AI w komunikacji
-technicznej. Część zagadnień kursu została inaczej zgrupowana, by cały zakres
-studiów był bardziej spójny i klarowny.</p>
-<p>Program studiów obejmuje również podstawowe zagadnienia z obszarów automatyzacji
-i użyteczności oraz praktycznie przygotowuje studentów do zdobycia certyfikatu
-ITCQF Foundation Level. W tym roku jednak nie wydzielono specjalnego bloku na
-kurs dedykowany certyfikatowi - materiał potrzebny do jego zdania został jednak
-uwzględniony w programie nauczania.</p>
-<p>Wraz ze zmianami programu nastąpiła także zmiana kadry. Tym razem zespół
-szkolący zasilą: Aleksandra Wieczorek i Agata Rygielska.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="partnerzy">Partnerzy<a href="https://techwriter.pl/v-edycja-studiow-komunikacja-techniczna-trwa-nabor#partnerzy" class="hash-link" aria-label="Bezpośredni link do Partnerzy" title="Bezpośredni link do Partnerzy">​</a></h2>
-<p>Kierunek kontynuuje współpracę z University of North Carolina Wilmington.
-Studenci, wraz z kolegami i koleżankami z USA, mogą współpracować przy
-projektach prowadzonych w ramach kierunku „Writing in Intercultural and Global
-Contexts”. To doskonała okazja, by zdobyć nowe doświadczenie, nowe znajomości i
-wartościowy wpis do CV. Szczegóły
-<a href="https://www.craft.do/s/VOd7B47ytH4bhA" target="_blank" rel="noopener noreferrer">tutaj</a>.</p>
-<p>Poza współpracą naukową z amerykańską uczelnią kierunek od lat wspierany jest
-przez wielu partnerów z branży (memoQ, MadCap oraz Atlassian). Dzięki temu
-uczestnicy zajęć mają możliwość poznania najpopularniejszych i często bardzo
-drogich narzędzi wykorzystywanych przez profesjonalnych technical writerów.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="najważniejsze-informacje">Najważniejsze informacje<a href="https://techwriter.pl/v-edycja-studiow-komunikacja-techniczna-trwa-nabor#najwa%C5%BCniejsze-informacje" class="hash-link" aria-label="Bezpośredni link do Najważniejsze informacje" title="Bezpośredni link do Najważniejsze informacje">​</a></h2>
-<p>Studia są zdalne, mogą w nich brać udział osoby z dowolnego miejsca w Polsce i
-na świecie. Rekrutacja nadal trwa, więc jeśli jesteście zainteresowani to jest
-najwyższa pora, by złożyć aplikację.</p>
-<p>Zajęcia trwają dwa semestry i kosztują 7800 zł. Na oba semestry organizatorzy
-przewidzieli 168 godzin wykładów i warsztatów. Każdy absolwent studiów będzie
-miał możliwość (za dodatkową opłatą wynoszącą 800 zł brutto) uzyskania
-międzynarodowego certyfikatu <a href="https://itcqf.org/" target="_blank" rel="noopener noreferrer">ITCQF</a> (Foundation Certificate
-in Technical Communication).</p>
-<p>Komunikacja na studiach odbywa się na platformie Confluence, a wszystkie zadania
-śledzone są w Jira. Zajęcia prowadzone są na platformie Microsoft Teams.
-Projekty tworzone są przy użyciu MadCap Flare, Oxygena, czy narzędzi i technik
-wspierających DocAsCode.</p>
-<p>Poniżej szczegółowe zagadnienia, które zostaną poruszone w trakcie zajęć:</p>
-<p>Podstawowe zagadnienia komunikacji technicznej (wprowadzenie):</p>
-<ul>
-<li>Wykład otwierający</li>
-<li>Komunikacja techniczna w przykładach</li>
-<li>Zawód Technical Writer</li>
-<li>Rola dokumentacji w procesie wytwarzania produktu</li>
-<li>Sposoby pozyskiwania informacji źródłowych</li>
-</ul>
-<p>Praca z tekstem technicznym:</p>
-<ul>
-<li>Typologia, struktura i pragmatyka tekstów technicznych</li>
-<li>Wprowadzenie do Markdown i Git</li>
-<li>Identyfikacja odbiorców i analiza przypadków użycia</li>
-<li>Github Pages</li>
-</ul>
-<p>Podstawy technologii webowych:</p>
-<ul>
-<li>Wprowadzenie do HTML, CSS, JS</li>
-<li>Narzędzia deweloperskie w przeglądarce</li>
-<li>Tworzenie prostej strony internetowej w HTML</li>
-<li>Formatowanie utworzonej strony przy pomocy arkuszy styli CSS</li>
-<li>Publikowanie strony na GitHub Pages</li>
-</ul>
-<p>Podstawowe technologie komunikacji technicznej:</p>
-<ul>
-<li>Formaty dokumentacji</li>
-<li>Profesjonalne narzędzia do tworzenia treści</li>
-<li>Techniki wizualnego przedstawiania treści</li>
-<li>Wprowadzenie do statycznych generatorów stron</li>
-<li>Praktyczne zastosowanie narzędzia MadCap Flare</li>
-</ul>
-<p>Techniki i narzędzia stosowane w dokumentacji technicznej:</p>
-<ul>
-<li>Single sourcing, szablony i zmienne</li>
-<li>Wstęp do DITA, narzędzie Oxygen XML Editor</li>
-<li>Przygotowanie treści do lokalizacji, zapoznanie z narzędziem memoQ</li>
-<li>Publikacja projektów dokumentacyjnych</li>
-<li>Dostępność (accessibility) dokumentacji technicznej</li>
-</ul>
-<p>Wykorzystanie narzędzi AI w procesie tworzenia dokumentacji</p>
-<ul>
-<li>Zasady działania, możliwości i ograniczenia generatywnej AI</li>
-<li>Tworzenie i redagowanie dokumentacji technicznej z pomocą genAI</li>
-<li>Dobre praktyki opracowania tekstu po użyciu narzędzi AI</li>
-</ul>
-<p>Zarządzanie projektem dokumentacyjnym:</p>
-<ul>
-<li>Metodyki pracy projektowej (Waterfall/Agile/Continuous Delivery)</li>
-<li>Strategia tworzenia i publikowania treści (content strategy)</li>
-<li>Lokalizacja treści</li>
-<li>Estymowanie pracy</li>
-<li>Audyt istniejącej dokumentacji</li>
-</ul>
-<p>Seminarium dyplomowe (projekty)</p>
-<ul>
-<li>Planowanie projektu (odbiorcy, formaty wyjściowe, sposoby publikacji)</li>
-<li>Wprowadzanie recenzji i korekty</li>
-<li>Praktyczne przygotowanie prac zaliczeniowych</li>
-<li>Prezentacje końcowe projektów</li>
-</ul>
-<p>Wszystkie potrzebne informacje znajdziecie na
-<a href="https://www.vistula.edu.pl/kierunki-studiow/kontynuacja-edukacji/studia-podyplomowe/informatyka/komunikacja-techniczna" target="_blank" rel="noopener noreferrer">stronie kierunku</a>.</p>
-<p>Jeśli jesteście absolwentami podobnych kierunków studiów, dajcie znać w
-komentarzu jakie są Wasze wrażenia i doświadczenia.</p>
-<p>Życzymy powodzenia studentom. Trzymamy kciuki za ciekawe, praktyczne zajęcia
-oraz szybkie znalezienie pracy po ich ukończeniu!</p>]]></content>
-        <author>
-            <name>Agnieszka Gaworska</name>
-        </author>
-        <category label="news" term="news"/>
-        <category label="z-kraju" term="z-kraju"/>
-        <category label="kariera" term="kariera"/>
-        <category label="studia" term="studia"/>
-        <category label="edukacja" term="edukacja"/>
     </entry>
 </feed>
