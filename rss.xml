@@ -88,7 +88,7 @@ wiedział, czy instrukcja dotyczy jego telefonu czy nie.</p>
 też potrafi je przewidywać i przygotować dokumentację w taki sposób, aby była
 użyteczna także wtedy, gdy technologia kolejny raz się zmieni. Wykazuje gotowość
 do nauki nowych narzędzi, dostosowuje się do nowych procesów pisania i
-publikowania oraz ma świadomość trendów branżowych i aktywne podążanie za nimi.</p>
+publikowania oraz ma świadomość trendów branżowych i aktywnie podąża za nimi.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="sztuka-opowiadania-faktów">Sztuka opowiadania faktów<a href="https://techwriter.pl/umiejetnosci-miekkie#sztuka-opowiadania-fakt%C3%B3w" class="hash-link" aria-label="Bezpośredni link do Sztuka opowiadania faktów" title="Bezpośredni link do Sztuka opowiadania faktów">​</a></h2>
 <p>Wyobraźcie sobie, że technical writer jest niczym reżyser, który potrafi
 zamienić skomplikowane zagadnienia w prosty, klarowny język, prowadzi widza -
@@ -164,7 +164,7 @@ potrzebne i same makiety wystarczą. Jak poradzić sobie z tym chaosem?</p>
 <table><thead><tr><th>Kto</th><th>Dane wejściowe</th><th>Jak to zrobił technical writer</th></tr></thead><tbody><tr><td><strong>Programista</strong></td><td>Dostarczył fragment kodu produktu: <code>id, name, price, rating, image, tag</code>.</td><td>Przełożył strukturę kodu na dokumentację API. Opisał każde pole: typ, znaczenie, użycie (<code>id</code> (integer) – unikalny identyfikator produktu w systemie. Jest globalny dla całej bazy produktów, a nie tylko dla danej kategorii).</td></tr><tr><td><strong>Tester</strong></td><td>Zgłosił niejasności: brak waluty przy cenie, brak info o skali ratingu, niejasny zakres wartości tagu, co z niedostępnym zdjęciem.</td><td>Zamienił uwagi w sformalizowane specyfikacje: dodał opis waluty, zakres ratingu (1–5), charakter pola <code>tag</code> (procenty lub słowa), rekomendację dla fallback image.</td></tr><tr><td><strong>UX designer</strong></td><td>Przygotował makietę karty produktu, ale bez opisu zachowania.</td><td>Połaczył elementy wizualne na dane z kodu (nazwa, cena, rating, zdjęcie, tag). Dodał narrację i przygotował pytania do UX (Czy są ograniczenia długości nazwy? Jak prezentowana jest cena w różnych walutach?).</td></tr></tbody></table>
 <p>Zadaniem technical writera jest połączenie tych trzech źródeł w spójną całość,
 co oznacza uporządkowanie treści, tłumaczenie technicznego języka programistów
-na przystępny opis uzupełnienie luk, na przykład poprzez zadawanie pytań co to
+na przystępny opis uzupełnienie luk, na przykład poprzez zadawanie pytań co do
 istotności użycia makiet, gdzie dodać elementy graficzne, jak również uwzględnić
 czas realizacji całego projektu. To wymaga zarówno umiejętności adaptacji do
 różnych stylów pracy, jak i zdolności przekładania technicznego języka na
@@ -238,7 +238,7 @@ odbiorców i prowadząc użytkownika za rękę, zanim ten zdąży się zgubić.<
 może mieć wątpliwości, co wpisać w pole ID klienta.</p>
 <p>Co może zrobić, aby im pomóc? Zamiast tylko wymienić to pole w instrukcji, można
 dodać kontekst, gdzie znaleźć ID klienta (numer klienta znajdziesz w oddzielnym
-email, składa się on z 6-cyfr) lub dodać na przykład podpowiedź. Użytkownik nie
+emailu, składa się on z 6-cyfr) lub dodać na przykład podpowiedź. Użytkownik nie
 tylko wie, co wpisać, ale też skąd wziąć potrzebne informacje i jakie błędy mogą
 się zdarzyć. Czuje się prowadzony krok po kroku, a ryzyko popełnienia błędu
 maleje.</p>
@@ -252,11 +252,11 @@ można je rozwijać tak samo, jak znajomość nowych narzędzi czy języków.</p
 ulepszeniu umiejętności miękkich pod względem komunikacji, empatii i narracji.
 Może okażą się przydatne w Waszej codziennej pracy.</p>
 <p>Ćwiczenie 1: Myślenie od problemu do rozwiązania</p>
-<p><strong>jak można to zrobić:</strong> Zamiast pisać instrukcję od pierwszego kroku, zacznij
+<p><strong>Jak można to zrobić:</strong> Zamiast pisać instrukcję od pierwszego kroku, zacznij
 od oczekiwanego efektu, a następnie cofnij się krok po kroku do punktu
 startowego.</p>
 <p>Ćwiczenie 2: Storytelling do codziennych zadań</p>
-<p><strong>jak można to zrobić:</strong> Zacznijcie od opisywania zwykłych zadań biurowych (jak
+<p><strong>Jak można to zrobić:</strong> Zacznijcie od opisywania zwykłych zadań biurowych (jak
 na przykład, wprowadzanie danych do systemu) jako krótką historię — z punktem
 startowym, problemem, rozwiązaniem i rezultatem.</p>
 <p>Narzędzia wspierające rozwój umiejętności miękkie w techwritingu:</p>
