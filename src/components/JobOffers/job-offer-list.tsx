@@ -9,15 +9,6 @@ export type JobOfferProps = {
 
 export const jobOffers: JobOfferProps[] = [
   {
-    title: 'Redaktor',
-    company: 'Techwriter.pl',
-    link: '/oferta-wspolpracy-redaktor-techwriter-pl',
-    location: 'cały świat',
-    type: 'zdalna',
-    description: `Chcesz pisać dla techwriter.pl i tym samym mieć wpływ na rozwój polskiej społeczności komunikacji technicznej? 
-      Nie jest to oferta płatnej pracy, ale może dać Ci dużo innych korzyści.`,
-  },
-  {
     title: 'Freelance Technical Writer (Remote) 80-100%',
     company: 'Schmid GmbH energy solutions - Polen',
     link: 'https://jobs.dualoo.com/portal/schmid-ag-energy-solutions/1a90f780-3e34-4815-9440-54ca0c2c9975/detail?lang=EN',

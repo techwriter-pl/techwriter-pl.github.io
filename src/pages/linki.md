@@ -43,9 +43,6 @@
 [JPDocu](https://jpdocu.teachable.com/)
 : Internetowa szkoła technical writingu. Możecie skorzystać z darmowego szkolenia z podstaw technical writingu lub kilku płatnych kursów. Jeśli nie interesuje Was nauka, warto zerknąć na sekcję blog, w której znajdziecie wiele ciekawych artykułów.
 
-[ITCQF](https://itcqf.org/)
-: Strona międzynarodowej organizacji non-profit ITCQF, wspierającej rozwój komunikacji technicznej w Europie i na świecie. Organizacja oferuje szkolenia, certyfikaty, promuje zawód ów, łączy specjalistów i rozwija bazę wiedzy o branży, szczególnie w IT. Wspiera również globalną społeczność komunikacji technicznej
-
 [Untold Content](https://untoldcontent.com/)
 : Strona stworzona przez grupę wykładowców akademickich ściśle związanych z pisaniem. Znajdziecie tu mnóstwo informacji na temat technical writingu, content writingu, czy szeroko rozumianego tworzenia treści. Poza artykułami, strona oferuje różnorodne kursy, podcasty oraz blog.
 
