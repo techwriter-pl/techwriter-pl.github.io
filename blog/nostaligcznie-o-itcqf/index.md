@@ -1,7 +1,7 @@
 ---
 title: 'Nostalgicznie o ITCQF - wywiad z Darkiem Drezno'
 authors: ['mojk', 'pensjonatus']
-date: '2025-07-20'
+date: '2025-09-06'
 tags:
   - 'wywiady'
   - 'społeczność'
