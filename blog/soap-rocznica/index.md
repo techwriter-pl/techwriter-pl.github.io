@@ -1,15 +1,16 @@
 ---
 title: '10 rocznica konferencji Soap'
 authors: niewiarowski
-date: '2025-06-19'
+date: '2025-09-19'
 tags:
   - 'społeczność'
   - 'z-kraju'
+  - 'rocznice'
 coverImage: 'soap_title.jpg'
 ---
 
 Konferencja Soap zajmuje szczególne miejsce w sercach osób żyjących komunikacją
-techniczną. Na łamach Techwriter.pl zamieściliśmy wiele relacji z tych wydarzeń.
+techniczną. Na łamach techwriter.pl zamieściliśmy wiele relacji z tych wydarzeń.
 Miały one duży wpływ na zawiązanie się społeczności technical writingowej i
 przyczyniły się do przyspieszenia jej rozwoju. Z poniższego jubileuszowego
 artykułu dowiesz się:
@@ -17,7 +18,7 @@ artykułu dowiesz się:
 - Skąd wział się pomysł na tę konferencję?
 - O co chodzi z tym mydłem?
 - Co oznaczają litery SOAP?
-- Jak przebiegał rozwój tej inicjatywy i co z niej wyniknęło?
+- Jak przebiegał rozwój tej inicjatywy i co z niej wynikło?
 - Jaki wpływ odcisnęła ona na branżę technical writingu?
 
 <!--truncate-->
