@@ -143,3 +143,11 @@ sgorski:
   socials:
     github: voightkampfftest
     linkedin: https://www.linkedin.com/in/sebastian-g%C3%B3rski-a7034a352/
+
+magdazaczek:
+  name: Magdalena Żaczek
+  role: Autor
+  image_url: https://github.com/magdazaczek.png
+  page: true
+  socials:
+    linkedin: https://www.linkedin.com/in/magdalena-%C5%BCaczek-74408a18b
