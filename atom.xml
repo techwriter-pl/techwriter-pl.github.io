@@ -2,11 +2,172 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://techwriter.pl/</id>
     <title>techwriter.pl Blog</title>
-    <updated>2025-09-06T00:00:00.000Z</updated>
+    <updated>2025-09-17T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://techwriter.pl/"/>
     <subtitle>techwriter.pl Blog</subtitle>
     <icon>https://techwriter.pl/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[UX writing w praktyce - rola, zadania i wyzwania UX writera]]></title>
+        <id>https://techwriter.pl/ux-writing-w-praktyce</id>
+        <link href="https://techwriter.pl/ux-writing-w-praktyce"/>
+        <updated>2025-09-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Czym jest UX writing i jakie wyzwania stawia ta rola? Jeśli myślisz o karierze w]]></summary>
+        <content type="html"><![CDATA[<p>Czym jest UX writing i jakie wyzwania stawia ta rola? Jeśli myślisz o karierze w
+UX writingu lub po prostu chcesz się więcej o nim dowiedzieć, ten artykuł omawia
+ogólne podstawy i podaje źródła do dalszego zgłębiania wiedzy.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="czym-jest-ux-writing">Czym jest UX writing?<a href="https://techwriter.pl/ux-writing-w-praktyce#czym-jest-ux-writing" class="hash-link" aria-label="Bezpośredni link do Czym jest UX writing?" title="Bezpośredni link do Czym jest UX writing?">​</a></h2>
+<p>Zacznijmy od wyjaśnienia, czym tak naprawdę jest UX writing i co oznacza w
+praktyce. Posłużę się przykładem osoby, która pracuje na stanowisku UX writera w
+firmie rozwijającej aplikację bankową. Najczęściej osoba ta będzie
+odpowiedzialna za tworzenie wszelkiego rodzaju treści pojawiających się w
+aplikacji, takich jak:</p>
+<ul>
+<li>powiadomienia i wiadomości powitalne,</li>
+<li>komunikaty (np. “Nieprawidłowy numer konta”, “Nie odnaleziono w historii”,
+“Brak połączenia z internetem”),</li>
+<li>nazwy przycisków i zakładek,</li>
+<li>teksty pomocnicze i dodatkowe informacje (np. “Hasło musi mieć minimum 8
+znaków”).</li>
+</ul>
+<p>Warto też wspomnieć, że UX writing jest ściśle powiązany z interfejsem i bez
+niego nie istnieje. W aplikacjach mobilnych kluczowym elementem jest oszczędność
+miejsca i przygotowanie treści, które są krótkie, zrozumiałe i łatwe w odbiorze.
+W przypadku stron internetowych, UX writer będzie mógł sobie pozwolić na większą
+szczegółowość, ponieważ przestrzeń jest znacznie mniej ograniczona.
+Projektowanie treści różni się więc w zależności od tego, czy dotyczy aplikacji
+mobilnych czy stron internetowych.</p>
+<p>W idealnym świecie UX writer powinien mieć do dyspozycji wytyczne, które są
+zgodne ze strategią firmy i kierować się nimi podczas swojej pracy. Cały sens
+tkwi w tym, aby treści nie tylko wyświetlały się użytkownikom, ale także
+spełniały szereg innych wymagań, takich jak spójny ton i prosty styl
+komunikacji. To jednak nie wszystko. W firmach, w których dopiero zaczyna się
+kłaść nacisk na jakość treści w interfejsie, UX writer zwykle jest pierwszą
+osobą odpowiedzialną za zebranie zasad pisowni i wskazówek w ogólnodostępny
+poradnik, znany jako UX style guide.</p>
+<p>Założeniem UX writingu jest więc nie tylko tworzenie jasnych i skutecznych
+tekstów w interfejsie, ale również budowanie spójnego i pozytywnego
+doświadczenia użytkownika. To doświadczenie nie zależy wyłącznie od treści, ale
+również od jej umiejscowienia i dopasowania graficznego. Krótkie, precyzyjne
+komunikaty w odpowiednim miejscu interfejsu pomagają użytkownikowi zrozumieć co
+się dzieje, sprawnie wykonywać kolejne kroki lub uniknąć błędów. Długie,
+chaotyczne i źle umiejscowione teksty wywołują frustrację i zakłopotanie. UX
+writing jest więc niezbędnym elementem w projektowaniu interfejsów, który
+realnie wpływa na doświadczenia użytkownika, skuteczność produktu i wyniki
+biznesowe.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="granica-między-ux-writerem-a-technical-writerem">Granica między UX writerem a technical writerem<a href="https://techwriter.pl/ux-writing-w-praktyce#granica-mi%C4%99dzy-ux-writerem-a-technical-writerem" class="hash-link" aria-label="Bezpośredni link do Granica między UX writerem a technical writerem" title="Bezpośredni link do Granica między UX writerem a technical writerem">​</a></h2>
+<p>Dla wielu osób praca UX writera i technical writera może wyglądać niemal
+identycznie - w końcu obie role polegają na pisaniu tekstów związanych z
+produktem. W rzeczywistości jednak różnią się kontekstem pracy i miejscem, w
+którym użytkownik spotyka się z ich treściami. UX writer działa w interfejsie
+produktu, a technical writer w dokumentacji i materiałach pomocniczych.</p>
+<p>Poniższa ilustracja obrazuje te różnice. UX writer skupia się na treściach
+wewnątrz produktu i analizuje najmniejsze detale projektowania treści w
+interfejsie. Zazwyczaj jest częścią zespołu UX i ściśle współpracuje z UX
+designerami nad tworzeniem ścieżki użytkownika. Jego największym wyzwaniem jest
+tworzenie treści, które będą zrozumiałe dla użytkowników i pojawią się w
+odpowiednim momencie czy miejscu. Technical writer z kolei koncentruje się na
+tworzeniu dokumentacji, instrukcji obsługi czy przewodników krok po kroku. Jego
+głównym zadaniem jest jasne przekazanie działania produktu i wskazanie
+użytkownikowi, jak osiągnąć zamierzony cel.</p>
+<p><img decoding="async" loading="lazy" alt="Diagram Venna przedstawiający zazębiające się strefy zainteresowań tech writera i UX writera." src="https://techwriter.pl/assets/images/UX-writer-vs-tech-writer-final-c84e89e06b5b0930989c983afad7d9e6.jpg" width="1024" height="687" class="img_ev3q"></p>
+<p><em>Źródło:
+<a href="https://technicalwriterhq.com/career/ux-writer-vs-technical-writer" target="_blank" rel="noopener noreferrer">https://technicalwriterhq.com/career/ux-writer-vs-technical-writer</a></em></p>
+<p>Należy pamiętać o tym, że UX writer to dość nowe stanowisko na rynku pracy i w
+wielu firmach jego obowiązki może pełnić technical writer. Dzieje się tak z
+kilku powodów:</p>
+<ul>
+<li>UX writera i technical writera łączą podobne kompetencje językowe. Technical
+writer pisze prosto i zrozumiale, co jest również jedną z głównych cech w UX
+writingu.</li>
+<li>Osoby pracujące na tych stanowiskach łączy znakomita znajomość produktu i
+użytkownika, a także ciekawość w ich odkrywaniu.</li>
+<li>Tworzenie standardów to codzienność w pracy technical writera, jak i UX
+writera.</li>
+</ul>
+<p>W praktyce wiele kompetencji UX writera jest w zasięgu technical writera.
+Dlatego naturalnym wydaje się to, że zanim firma wyodrębni stanowisko UX
+writera, technical writer zajmuje się pisaniem treści w interfejsie, gdyż
+posiada wymagane do tego kompetencje.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="co-zrobić-gdy-firma-nie-ma-ux-style-guide">Co zrobić, gdy firma nie ma UX style guide<a href="https://techwriter.pl/ux-writing-w-praktyce#co-zrobi%C4%87-gdy-firma-nie-ma-ux-style-guide" class="hash-link" aria-label="Bezpośredni link do Co zrobić, gdy firma nie ma UX style guide" title="Bezpośredni link do Co zrobić, gdy firma nie ma UX style guide">​</a></h2>
+<p>Z takim problemem boryka się wielu UX writerów, a czasami także technical
+writerów, którzy pełnią obowiązki UX writera. Kontynuując przykład aplikacji
+bankowej, wyobraźmy sobie, że UX writer musi uporządkować styl i sposób
+komunikacji w interfejsie. Przeglądając treści zauważa, że np. komunikaty błędu
+są niespójne - w jednym miejscu widnieje “Błędne hasło”, w innym “Nieprawidłowe
+hasło”, a jeszcze w innym “Nieprawidłowe dane”. Skoro wszystkie te komunikaty
+odnoszą się do jednej sytuacji, powinny brzmieć w jeden, ujednolicony sposób,
+aby nie wprowadzać użytkownika w zakłopotanie. To tylko jeden z wielu
+przykładów, z którymi UX writerzy mierzą się na co dzień.</p>
+<p>Oto kilka pomysłów, które mogą okazać się pomocne w podobnych sytuacjach:.</p>
+<ul>
+<li><strong>Zrób przegląd istniejących treści</strong>. Zapytaj zespół programistów czy mogą
+wygenerować plik wszystkich treści, które pojawiają się w interfejsie
+produktu. W ten sposób będziesz w stanie przeanalizować styl i język
+napisanych już treści. Pomoże Ci to określić, na jakim etapie jesteś. Być może
+część istniejących treści jest napisana w sposób prawidłowy i może stanowić
+solidną podstawę w tworzeniu bazy zasobów UX.</li>
+<li><strong>Zacznij pracę nad UX style guide.</strong> Na początek wystarczy zebrać rzeczy,
+które na pierwszy rzut oka wydają się banalne, ale to dobry punkt wyjścia do
+dalszego rozwijania style guide. Wypisz zasady pisowni, które będą stosowane w
+poszczególnych elementach interfejsu produktu. Pamiętaj o tym, że ton, w jakim
+pisane są treści, powinien być spójny z profilem firmy. Możliwe, że będziesz
+potrzebować konsultacji i akceptacji ze strony innych zespołów. Jeśli
+natomiast tworzysz treści w języku angielskim, zdefiniuj, czy będą one w
+brytyjskim, czy amerykańskim angielskim. Te na pozór proste rzeczy będą
+stanowić kluczową część UX style guide.</li>
+<li><strong>Skonsultuj sporządzane zmiany i zasady z zespołem</strong>. Wszyscy powinni być
+świadomi tego nad jakimi zmianami pracujesz i jak to wpłynie na ich pracę.
+Ważne jest to, aby zasady były zrozumiałe dla wszystkich.</li>
+<li><strong>Skorzystaj z istniejących już zasobów.</strong> Bardzo często firmy decydują się na
+korzystanie np. z <a href="https://developers.google.com/style" target="_blank" rel="noopener noreferrer">Google Style Guide</a>
+zamiast tworzenia własnego. Poniżej znajdziesz kilka innych przykładów:<!-- -->
+<ul>
+<li><a href="https://learn.microsoft.com/en-us/style-guide/welcome/" target="_blank" rel="noopener noreferrer">Microsoft</a></li>
+<li><a href="https://www.lightningdesignsystem.com/guidelines/voice-and-tone/" target="_blank" rel="noopener noreferrer">Salesforce</a></li>
+<li><a href="https://www.brand-monday.com/tone-of-voice" target="_blank" rel="noopener noreferrer">monday.com</a></li>
+<li><a href="https://carbondesignsystem.com/guidelines/content/overview/" target="_blank" rel="noopener noreferrer">IBM</a></li>
+<li><a href="https://spectrum.adobe.com/page/voice-and-tone/" target="_blank" rel="noopener noreferrer">Adobe</a></li>
+<li><a href="https://atlassian.design/content/" target="_blank" rel="noopener noreferrer">Atlassian</a></li>
+<li><a href="https://community.hubspot.com/t5/Getting-Started-on-the-Community/HubSpot-Voice-and-Tone-Guide/ba-p/632037" target="_blank" rel="noopener noreferrer">HubSpot</a></li>
+</ul>
+</li>
+</ul>
+<p>Powyższe przykłady z pewnością posłużą jako inspiracja zarówno przy tworzeniu
+pierwszego style guide w firmie, jak i przy rozwijaniu istniejącej bazy zasobów
+UX.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="od-czego-zacząć-naukę-ux-writingu">Od czego zacząć naukę UX writingu<a href="https://techwriter.pl/ux-writing-w-praktyce#od-czego-zacz%C4%85%C4%87-nauk%C4%99-ux-writingu" class="hash-link" aria-label="Bezpośredni link do Od czego zacząć naukę UX writingu" title="Bezpośredni link do Od czego zacząć naukę UX writingu">​</a></h2>
+<p>Jeśli UX writing wciąż jest jest dla ciebie nieodkrytym lądem, poniżej
+znajdziesz listę dodatkowych materiałów, które pozwolą ci poznać bliżej tę
+dziedzinę i rozwieją wiele wątpliwości.</p>
+<p><strong>Książki:</strong></p>
+<ol>
+<li>Microcopy: The complete guide - Kinneret Yifrah</li>
+<li>UX writing: Moc języka w produktach cyfrowych - Wojciech Aleksander</li>
+</ol>
+<p><strong>Kurs:</strong></p>
+<ol>
+<li><a href="https://www.udemy.com/course/introduction-to-ux-writing/?couponCode=KEEPLEARNING" target="_blank" rel="noopener noreferrer">Introduction To UX Writing</a>
+(Udemy)</li>
+</ol>
+<p>Oprócz powyższych rekomendacji warto również wspomnieć o stronie
+<a href="https://www.uxwritinglibrary.com/inspiration" target="_blank" rel="noopener noreferrer">UX Writing Library</a>, która jest
+encyklopedią wiedzy dla UX writerów. Co więcej, w zakładce Events znajdziesz
+listę najbliższych wydarzeń związanych z UX. Warto ją śledzić, ponieważ
+regularnie pojawiają się tam darmowe konferencje organizowane przez organizację
+<a href="https://www.buttonevents.com/events" target="_blank" rel="noopener noreferrer">Button</a>.</p>
+<p>UX writing to zdecydowanie więcej niż pisanie krótkich komunikatów. To tworzenie
+treści, które są przemyślane, spójne z profilem firmy i umieszczone w
+odpowiednich miejscach produktu. Każdy krok w kierunku uporządkowania treści ma
+realny wpływ na zadowolenie użytkowników i podnosi jakość produktu.<br>
+<!-- -->Jeśli dopiero zaczynasz swoją przygodę z UX writingiem, korzystanie z dostępnych
+materiałów, obserwowanie dobrych praktyk i doskonalenie warsztatu znacząco
+ułatwi proces nauki.</p>]]></content>
+        <author>
+            <name>Magdalena Żaczek</name>
+        </author>
+        <category label="warsztat" term="warsztat"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nostalgicznie o ITCQF - wywiad z Darkiem Drezno]]></title>
         <id>https://techwriter.pl/nostaligcznie-o-itcqf</id>
@@ -2672,79 +2833,6 @@ spotkania, polub
         <category label="saiit" term="saiit"/>
         <category label="zrzeszenia-branżowe" term="zrzeszenia-branżowe"/>
         <category label="promocja-branży" term="promocja-branży"/>
-        <category label="społeczność" term="społeczność"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Content Bytes - nowe oblicze spotkań dla specjalistów od treści]]></title>
-        <id>https://techwriter.pl/content-bytes-promo</id>
-        <link href="https://techwriter.pl/content-bytes-promo"/>
-        <updated>2024-10-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Lubicie meetupy? My je wręcz uwielbiamy. Dlatego z nieukrywaną radością witamy]]></summary>
-        <content type="html"><![CDATA[<p>Lubicie meetupy? My je wręcz uwielbiamy. Dlatego z nieukrywaną radością witamy
-nowego gracza na rynku spotkań dla contentowców - <strong>Content Bytes</strong>.<br>
-<!-- -->Inicjatywa jest świeżutka jak ciepłe bułeczki od lokalnego piekarza, ale znając
-zapał i pracowitość organizatorów nie mamy wątpliwości, że będzie się działo.
-Ale zacznijmy od początku.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="nowa-marka-znane-twarze">Nowa marka, znane twarze<a href="https://techwriter.pl/content-bytes-promo#nowa-marka-znane-twarze" class="hash-link" aria-label="Bezpośredni link do Nowa marka, znane twarze" title="Bezpośredni link do Nowa marka, znane twarze">​</a></h2>
-<p>Pomimo tego, że jest to nowa inicjatywa, stoją za nią osoby, które już dały się
-nam poznać jakiś czas temu za sprawą organizacji krakowskich meetupów
-MeetContentKRK. <a href="https://www.linkedin.com/in/barbara-szwarc" target="_blank" rel="noopener noreferrer">Basia Czyż</a>,
-<a href="https://www.linkedin.com/in/edyta-rakowska" target="_blank" rel="noopener noreferrer">Edyta Rakowska</a> i
-<a href="https://www.linkedin.com/in/michal-olender" target="_blank" rel="noopener noreferrer">Michał Olender</a>, bo to o nich mowa,
-mają na swoim koncie całkiem sporo udanych spotkań, które zorganizowali przy
-współpracy z różnymi firmami i instytucjami, np. Wydziałem Anglistyki
-Uniwersytetu Jagiellońskiego. Największym przedsięwzięciem z jakim się zmierzyli
-był <a href="https://techwriter.pl/meet-content-krk-content-day-podsumowanie">Content Day</a> -
-całodniowy meetup, który był połączeniem warsztatów i wykładów. Jak widać, ekipa
-Content Bytes jest mocno zaprawiona w bojach i jesteśmy pewni, że jeszcze nieraz
-nas zaskoczy. Tym bardziej, że w ostatnim czasie zespół zyskał dodatkowego
-zawodnika w osobie
-<a href="https://www.linkedin.com/in/pawelchlodnicki" target="_blank" rel="noopener noreferrer">Pawła Chłodnickiego</a>. Co tu dużo
-pisać - z taką grupą zapaleńców można konie kraść.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="mocny-start">Mocny start<a href="https://techwriter.pl/content-bytes-promo#mocny-start" class="hash-link" aria-label="Bezpośredni link do Mocny start" title="Bezpośredni link do Mocny start">​</a></h2>
-<p>Pierwsze spotkanie pod szyldem Content Bytes miało miejsce 3 października 2024 w
-Krakowie. Kolejne planowane jest na 30 października 2024. Długofalowe plany
-zakładają jeden meetup na miesiąc.<br>
-<!-- -->Póki co, inicjatywa działa na terenie Krakowa, ale niewykluczone, że w
-przyszłości rozszerzy swój zakres działania na kolejne miasta.<br>
-<!-- -->Plany są ambitne, ale wierzymy, że znajdą się zarówno prelegenci jak i
-partnerzy, dzięki którym uda się je zrealizować.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="skąd-pomysł">Skąd pomysł<a href="https://techwriter.pl/content-bytes-promo#sk%C4%85d-pomys%C5%82" class="hash-link" aria-label="Bezpośredni link do Skąd pomysł" title="Bezpośredni link do Skąd pomysł">​</a></h2>
-<p>Główną ideą było stworzenie meetupów, w czasie których szeroko pojęci
-specjaliści zajmujący się treścią mogliby wymieniać się swoją wiedzą i
-doświadczeniem. Ale to nie wszystko. Organizatorom najbardziej zależy na tym,
-żeby dyskusja o contencie wyszła poza granice naszego techcommowego światka i
-objęła swoim zasięgiem inne dziedziny związane z rozwojem produktu, takie jak UX
-design, UX writing czy dostępność&nbsp;rozwiązań.</p>
-<p>Cytując klasyka, “to wysoko postawiona poprzeczka”. Na szczęście organizatorzy
-mają plan jak osiągnąć swoje cele, który zakłada zapraszanie do wystąpień osoby
-z różnych obszarów skupionych na produkcie i połączenie sił z innymi
-inicjatywami. I nie jest to tylko czcza gadanina. Drugi meetup, 30 października
-2024, będzie zorganizowany przy współpracy z <a href="https://girlsjs.pl/" target="_blank" rel="noopener noreferrer">girls.js</a>,
-podczas którego uczestnicy będą mieli okazję posłuchać m.in. o dostępności
-kognitywnej.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="każdy-może-pomóc">Każdy może pomóc<a href="https://techwriter.pl/content-bytes-promo#ka%C5%BCdy-mo%C5%BCe-pom%C3%B3c" class="hash-link" aria-label="Bezpośredni link do Każdy może pomóc" title="Bezpośredni link do Każdy może pomóc">​</a></h2>
-<p>Content Bytes to inicjatywa non-profit napędzana zapałem organizatorów i
-wsparciem partnerów. Dzięki temu podczas spotkań możecie cieszyć się
-jakościowymi prezentacjami i smacznymi przekąskami.<br>
-<!-- -->Rąk do pracy nigdy za wiele, więc jeśli chcielibyście wesprzeć tę inicjatywę to
-serdecznie do tego zachęcamy. Możecie zostać prelegentem, udostępnić miejsce na
-spotkanie czy sypnąć trochę grosza na drobny catering, który sprawi, że
-networking po prezentacjach nie będzie zagłuszany odgłosami burczących brzuchów.
-Możecie też przekonać swojego szefa do wsparcia Content Bytes. To tylko kilka
-propozycji pomocy i na pewno jest jeszcze wiele innych możliwości, o których
-organizatorzy chętnie Wam opowiedzą.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="kontakt">Kontakt<a href="https://techwriter.pl/content-bytes-promo#kontakt" class="hash-link" aria-label="Bezpośredni link do Kontakt" title="Bezpośredni link do Kontakt">​</a></h2>
-<p>Z ekipą Content Bytes możecie się skontaktować poprzez
-<a href="mailto:contentbytes.krk@gmail.com" target="_blank" rel="noopener noreferrer">e-mail</a> albo profile na mediach
-społecznościowych (<a href="https://www.linkedin.com/company/content-bytes/" target="_blank" rel="noopener noreferrer">LinkedIn</a> i
-<a href="https://www.facebook.com/people/Content-Bytes/61564025612434/" target="_blank" rel="noopener noreferrer">Facebook</a>),
-gdzie możecie także śledzić ich poczynania.</p>]]></content>
-        <author>
-            <name>Michał Skowron</name>
-        </author>
-        <category label="news" term="news"/>
-        <category label="meetups" term="meetups"/>
         <category label="społeczność" term="społeczność"/>
     </entry>
 </feed>
