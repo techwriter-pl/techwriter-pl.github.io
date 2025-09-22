@@ -24,7 +24,7 @@ W tym roku wyżej wymienione trio postanowiło pójść o krok dalej i zorganizo
 coś o większym kalibrze.
 
 CAKE conf to nowa konferencja dla specjalistów tworzących treść. Jej pierwsza
-edycja odbyła się 19-20 września w Krakowie, na Wydziale Anglistyki Uniwersytetu
+edycja odbyła się 19-20 września 2025 w Krakowie, na Wydziale Anglistyki Uniwersytetu
 Jagiellońskiego. Był to niewątpliwie debiut z dużym przytupem. A skąd wiem? Bo
 byłem, uczestniczyłem i nie wierzyłem, że... ciasto było takie dobre!
 
@@ -67,7 +67,7 @@ contencie ;) A tego na pewno nie zabrakło w tegorocznym cieście.
 
 Biszkopt w środku był idealnie nasączony. Były warsztaty i prezentacje z różnych
 dziedzin. Dla każdego coś dobrego. Agenda była niczym dobrze zbilansowana dieta.
-Było o dokumentacji, ux writingu, dostępności, zarządzaniu i AI. Wszystko w
+Było o dokumentacji, UX writingu, dostępności, zarządzaniu i AI. Wszystko w
 odpowiednich proporcjach, bez przegięcia w żadną stronę. Była nawet jedna
 przyjemna niespodzianka. Ostatnia prezentacja podczas pierwszego dnia tak
 naprawdę okazała się sesją pisania pamiętnika na żywo przy akompaniamencie
