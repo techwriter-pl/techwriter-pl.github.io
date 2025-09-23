@@ -84,7 +84,7 @@ imprezą. Z moich obserwacji wynikało, że cel został osiągnięty.
 Moje serce rosło z każdym wystąpieniem, bo na scenie oprócz branżowych wyjadaczy
 pojawiał się też nowy narybek. Wielu osób nie znałem. Inne z kolei znałem, ale
 nie od strony występów scenicznych. Cieszy bardzo fakt, że kolejne osoby chcą
-aktywnie budować naszą społeczność i dzielic się swoją wiedzą z szerszym gronem.
+aktywnie budować naszą społeczność i dzielić się swoją wiedzą z szerszym gronem.
 
 Formuła gdzie warsztaty odbywały się przed południem, a potem od południa
 zaczynał się blok prezentacji sprawdził się doskonale. Pod koniec każdego dnia
