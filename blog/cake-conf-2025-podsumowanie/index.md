@@ -1,5 +1,5 @@
 ---
-title: 'CAKE conf wdziera się przebojem do polskiego tech commu'
+title: 'CAKE conf wdziera się przebojem do polskiego tech commu - relacja'
 authors: mojk
 date: '2025-09-23'
 tags:
