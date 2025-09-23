@@ -1,11 +1,11 @@
 ---
 title: 'CAKE conf wdziera się przebojem do polskiego tech commu'
 authors: mojk
-date: '2025-09-21'
+date: '2025-09-23'
 tags:
   - 'konferencje'
   - 'warsztat'
-coverImage: 'cfp.png'
+coverImage: 'cake-conf-2025-podsumowanie.jpeg'
 ---
 
 Słyszeliście o [Content Bytes](https://contentbytes.pl/)? Jeśli nie to zakładam,
@@ -24,11 +24,9 @@ W tym roku wyżej wymienione trio postanowiło pójść o krok dalej i zorganizo
 coś o większym kalibrze.
 
 CAKE conf to nowa konferencja dla specjalistów tworzących treść. Jej pierwsza
-edycja odbyła się 19-20 września 2025 w Krakowie, na Wydziale Anglistyki Uniwersytetu
+edycja odbyła się 19-20 września w Krakowie, na Wydziale Anglistyki Uniwersytetu
 Jagiellońskiego. Był to niewątpliwie debiut z dużym przytupem. A skąd wiem? Bo
 byłem, uczestniczyłem i nie wierzyłem, że... ciasto było takie dobre!
-
-![Rozpoczęcie](images/rozpoczęcie.jpg)
 
 W czym tkwi sekret przepisu? Według mnie w odpowiednio skomponowanych warstwach.
 
@@ -39,6 +37,8 @@ zapoczątkować całą inicjatywę i ją prowadzić. To podstawa, bez której na
 najlepszy pomysł szybko odejdzie w zapomnienie. Ogrom pracy Basi, Edyty i Pawła
 spowodował, że CAKE conf się wydarzył. Dzięki ich zaangażowaniu, do inicjatywy
 dołączyły kolejne osoby i organizacje.
+
+![Organizatorzy na after party](images/organizatorzy-after-party.jpg)
 
 ## Krem śmietankowy (sponsorzy i partnerzy)
 
@@ -60,6 +60,8 @@ na
 [profilu LinkedIn](https://www.linkedin.com/company/92820980/admin/page-posts/published/)
 ekipy Tech Writer Koduje.
 
+![Ekipa Hitachi Energy](images/ekipa-hitachi-energy.jpg)
+
 ## Biszkopt w środku (prelegenci)
 
 Dobra konferencja to również dobry content, szczególnie jeśli to wydarzenie o
@@ -67,19 +69,22 @@ contencie ;) A tego na pewno nie zabrakło w tegorocznym cieście.
 
 Biszkopt w środku był idealnie nasączony. Były warsztaty i prezentacje z różnych
 dziedzin. Dla każdego coś dobrego. Agenda była niczym dobrze zbilansowana dieta.
-Było o dokumentacji, UX writingu, dostępności, zarządzaniu i AI. Wszystko w
-odpowiednich proporcjach, bez przegięcia w żadną stronę. Była nawet jedna
-przyjemna niespodzianka. Ostatnia prezentacja podczas pierwszego dnia tak
-naprawdę okazała się sesją pisania pamiętnika na żywo przy akompaniamencie
-muzyki. Celem było zwolnienie tempa i relaks przed wieczorną imprezą. Z moich
-obserwacji wynikało, że cel został osiągnięty.
+Było o dokumentacji, ux writingu, dostępności, zarządzaniu i AI. Wszystko w
+odpowiednich proporcjach, bez przegięcia w żadną stronę.
+
+![Agenda dzień 1](images/agenda-dzien-1.jpg)
+
+Była też jedna przyjemna niespodzianka. Ostatnia prezentacja podczas pierwszego
+dnia tak naprawdę okazała się sesją pisania pamiętnika na żywo przy
+akompaniamencie muzyki. Celem było zwolnienie tempa i relaks przed wieczorną
+imprezą. Z moich obserwacji wynikało, że cel został osiągnięty.
 
 ![Sesja live journaling](images/sesja-live-journaling.jpg)
 
 Moje serce rosło z każdym wystąpieniem, bo na scenie oprócz branżowych wyjadaczy
 pojawiał się też nowy narybek. Wiele osób nie znałem. Inne z kolei znałem, ale
 nie od strony występów scenicznych. Cieszy bardzo fakt, że kolejne osoby chcą
-aktywnie budować naszą społeczność i dzielić się swoją wiedzą z szerszym gronem.
+aktywnie budować naszą społeczność i dzielic się swoją wiedzą z szerszym gronem.
 
 Formuła gdzie warsztaty odbywały się przed południem, a potem od południa
 zaczynał się blok prezentacji sprawdził się doskonale. Pod koniec każdego dnia
@@ -97,6 +102,7 @@ Najlepiej zorganizowana impreza i tak się nie odbędzie jeśli nikt nie przyjdz
 Bilety na CAKE conf rozeszły się jak ciepłe bułeczki, a niektórzy niestety
 musieli obejść się smakiem. Szeroki zakres tematyczny wydarzenia przyciągnął
 ludzi z różnych zakamarków komunikacji technicznej, dzięki czemu nie było nudy.
+
 W ciągu dwóch dni mogłem przybić piątkę ze starymi znajomymi od docsów i poznać
 nowe osoby poruszające się po innych niż ja obszarach contentu. Byli lokalsi
 oraz sporo przyjezdnych. To zróżnicowane towarzystwo łączyła jedna rzecz -
@@ -105,19 +111,30 @@ wydarzenia (100 osób uczestniczących) na pewno sprzyjała interakcjom. Do tego
 stopnia, że niektórych ciężko było wygonić do domu po tym jak wydarzenie
 się zakończyło ;)
 
-![Konsumpcja ciasta](images/konsumpcja-ciasta.jpg)
+Po pierwszym dniu konferencji odbyło się after party. Spora część uczestników
+zameldowała się w pubie, żeby kontynuować networking w mniej oficjalnym wydaniu.
+
+![Uczestnicy konferencji na after party](images/uczestnicy-after-party.jpg)
 
 ## Polewa i dekoracje (logistyka)
 
 Jak już mamy ogarniętą główną cześć ciasta, to trzeba je jeszcze dobrze
 wykończyć. Wiadomo, że bez odpowiednich warunków lokalowych i kawy w ilościach
-przekraczających zalecenia WHO każda konferencja będzie fiaskiem. Ogólnie
-wszystko było jak należy - warunki lokalowe, lunch, przekąski i
+przekraczających zalecenia WHO każda konferencja będzie fiaskiem.
+
+![Kawa](images/kawa.jpg)
+
+Ogólnie wszystko było jak należy - warunki lokalowe, lunch, przekąski i
 dostępność napojów. Żeby nie przesadzić z cukrem, to wspomnę tylko pobieżnie, że
 niektóre herbatniki i owoce w dekoracji, trochę się poprzesuwały, ale i tak nie
 zepsuły efektu całego ciasta. Niedociągnięcia organizacyjne zawsze można
 poprawić. Organizatorzy już mają listę wniosków, uwag i przemyśleń, które na
 pewno wezmą pod uwagę podczas kolejnych edycji CAKE conf.
+
+Można by rzec, że "wisienką na cieście" było... ciasto, które na zakończenie
+konferencji organizatorzy zaserwowali uczestnikom.
+
+![Krojenie ciasta](images/krojenie-ciasta.jpg)
 
 ## Ciasto zjedzone i co teraz?
 
