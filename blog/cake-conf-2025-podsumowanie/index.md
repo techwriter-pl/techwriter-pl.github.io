@@ -23,10 +23,11 @@ wiedzy. Mowa tutaj o meetupach, które na stałe zagościły w kalendarzu wydarz
 W tym roku wyżej wymienione trio postanowiło pójść o krok dalej i zorganizować
 coś o większym kalibrze.
 
-CAKE conf to nowa konferencja dla specjalistów tworzących treść. Jej pierwsza
-edycja odbyła się 19-20 września w Krakowie, na Wydziale Anglistyki Uniwersytetu
-Jagiellońskiego. Był to niewątpliwie debiut z dużym przytupem. A skąd wiem? Bo
-byłem, uczestniczyłem i nie wierzyłem, że... ciasto było takie dobre!
+[CAKE conf](https://cakeconf.contentbytes.pl/) to nowa konferencja dla
+specjalistów tworzących treść. Jej pierwsza edycja odbyła się 19-20 września w
+Krakowie, na Wydziale Anglistyki Uniwersytetu Jagiellońskiego. Był to
+niewątpliwie debiut z dużym przytupem. A skąd wiem? Bo byłem, uczestniczyłem i
+nie wierzyłem, że... ciasto było takie dobre!
 
 W czym tkwi sekret przepisu? Według mnie w odpowiednio skomponowanych warstwach.
 
@@ -69,7 +70,7 @@ contencie ;) A tego na pewno nie zabrakło w tegorocznym cieście.
 
 Biszkopt w środku był idealnie nasączony. Były warsztaty i prezentacje z różnych
 dziedzin. Dla każdego coś dobrego. Agenda była niczym dobrze zbilansowana dieta.
-Było o dokumentacji, ux writingu, dostępności, zarządzaniu i AI. Wszystko w
+Było o dokumentacji, UX writingu, dostępności, zarządzaniu i AI. Wszystko w
 odpowiednich proporcjach, bez przegięcia w żadną stronę.
 
 ![Agenda dzień 1](images/agenda-dzien-1.jpg)
@@ -86,8 +87,8 @@ pojawiał się też nowy narybek. Wielu osób nie znałem. Inne z kolei znałem,
 nie od strony występów scenicznych. Cieszy bardzo fakt, że kolejne osoby chcą
 aktywnie budować naszą społeczność i dzielić się swoją wiedzą z szerszym gronem.
 
-Formuła gdzie warsztaty odbywały się przed południem, a potem od południa
-zaczynał się blok prezentacji sprawdził się doskonale. Pod koniec każdego dnia
+Formuła, w której warsztaty odbywały się przed południem, a potem od południa
+zaczynał się blok prezentacji sprawdziła się doskonale. Pod koniec każdego dnia
 uczestnik nie czuł się wyssany z energii. Drugiego dnia organizatorzy postawili
 na więcej krótkich prezentacji, co również okazało się strzałem w dziesiątkę.
 
