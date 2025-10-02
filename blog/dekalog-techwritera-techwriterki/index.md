@@ -1,6 +1,6 @@
 ---
 title: 'Podstawy podstaw - dekalog techwritera/techwriterki'
-authors: niedzwiedzka
+authors: niedzwiecka
 date: '2021-03-16'
 tags:
   - 'biblioteczka-techwritera'

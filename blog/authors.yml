@@ -37,7 +37,7 @@ niewiarowski:
   socials:
     linkedin: https://www.linkedin.com/in/andrzej-niewiarowski-tech-writer/
 
-niedzwiedzka:
+niedzwiecka:
   name: Magda Niedźwiecka
   role: Autor
   image_url: https://github.com/morvenn.png
@@ -125,24 +125,6 @@ admin:
   role: Administrator
   image_url: /img/avatars/darek-drezno.png
   page: true
-
-mtrojanowski:
-  name: Mateusz Trojanowski
-  role: Autor
-  image_url: https://github.com/mtrojan231.png
-  page: true
-  socials:
-    github: mtrojan231
-    linkedin: https://www.linkedin.com/in/mateusz-trojanowski-748072131/
-
-sgorski:
-  name: Sebastian Górski
-  role: Autor
-  image_url: https://github.com/voightkampfftest.png
-  page: true
-  socials:
-    github: voightkampfftest
-    linkedin: https://www.linkedin.com/in/sebastian-g%C3%B3rski-a7034a352/
 
 magdazaczek:
   name: Magdalena Żaczek

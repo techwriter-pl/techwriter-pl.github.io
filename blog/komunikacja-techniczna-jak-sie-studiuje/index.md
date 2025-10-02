@@ -1,6 +1,6 @@
 ---
 title: 'Komunikacja techniczna - jak się studiuje?'
-authors: niedzwiedzka
+authors: niedzwiecka
 date: '2021-01-21'
 tags:
   - 'news'

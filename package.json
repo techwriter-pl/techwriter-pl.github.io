@@ -18,15 +18,15 @@
     "delete-old-events": "node src/scripts/delete-old-events.mjs && yarn remove-unused-cover-images"
   },
   "dependencies": {
-    "@docusaurus/core": "^3.8.1",
-    "@docusaurus/preset-classic": "^3.8.1",
-    "@docusaurus/theme-live-codeblock": "^3.8.1",
+    "@docusaurus/core": "^3.9.1",
+    "@docusaurus/preset-classic": "^3.9.1",
+    "@docusaurus/theme-live-codeblock": "^3.9.1",
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.5",
     "@mdx-js/react": "^3.0.0",
-    "@mui/icons-material": "^5.15.15",
-    "@mui/material": "^5.15.15",
-    "@mui/x-charts": "^7.3.1",
+    "@mui/icons-material": "^7.3.3",
+    "@mui/material": "^7.3.3",
+    "@mui/x-charts": "^8.13.1",
     "clsx": "^1.2.1",
     "gray-matter": "^4.0.3",
     "prism-react-renderer": "^2.1.0",
@@ -36,9 +36,9 @@
     "remark-deflist": "^1.0.0"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "^3.8.1",
-    "@docusaurus/tsconfig": "^3.8.1",
-    "@docusaurus/types": "^3.8.1",
+    "@docusaurus/module-type-aliases": "^3.9.1",
+    "@docusaurus/tsconfig": "^3.9.1",
+    "@docusaurus/types": "^3.9.1",
     "@types/gm": "^1",
     "@types/react": "^19.1.2",
     "fast-xml-parser": "^5.0.9",
@@ -62,5 +62,5 @@
   "engines": {
     "node": ">=16.14"
   },
-  "packageManager": "yarn@4.9.1"
+  "packageManager": "yarn@4.10.3"
 }

@@ -1,6 +1,6 @@
 ---
 title: 'Komunikacja techniczna - jak upłynął drugi semestr studiów?'
-authors: niedzwiedzka
+authors: niedzwiecka
 date: '2021-07-13'
 tags:
   - 'news'
