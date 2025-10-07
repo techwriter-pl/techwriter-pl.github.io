@@ -32,14 +32,14 @@ Wam za to, że czytacie, komentujecie i jesteście z nami przez te wszystkie lat
 
 Poza tymi wyliczeniami, za nasze największe sukcesy uważamy coroczne już
 [badanie płac w komunikacji technicznej](../wyniki-badania-plac-w-komunikacji-technicznej-2020/index.md),
-regularnie publikowane [oferty pracy](/oferty-pracy), czy informacje o
-dostępnych dla Was [szkoleniach](/szkolenia/). Z roku na rok przybywa
-chętnych do wzięcia udziału w ankiecie, co pozwala nam przygotować solidniejsze
-dane dotyczące sytuacji w branży w Polsce. W naszej (czyli również Waszej!)
-sieci kontaktów mamy też coraz więcej firm zatrudniających technical writerów i
-inwestujących w ich rozwój. Wszystko to daje nam nadzieję, że raz na jakiś czas
-pomagamy komuś poprawić nieco swoją sytuację zawodową. A ta nadzieja daje nam
-energię do kontynuowania projektu!
+regularnie publikowane oferty pracy, czy informacje o dostępnych dla Was
+[szkoleniach](/szkolenia/). Z roku na rok przybywa chętnych do wzięcia udziału w
+ankiecie, co pozwala nam przygotować solidniejsze dane dotyczące sytuacji w
+branży w Polsce. W naszej (czyli również Waszej!) sieci kontaktów mamy też coraz
+więcej firm zatrudniających technical writerów i inwestujących w ich rozwój.
+Wszystko to daje nam nadzieję, że raz na jakiś czas pomagamy komuś poprawić
+nieco swoją sytuację zawodową. A ta nadzieja daje nam energię do kontynuowania
+projektu!
 
 Przez te lata przeprowadziliśmy i opublikowaliśmy z Wami 19 wywiadów - może jest
 wśród Was chętna/y, na dwudziestą, jubileuszową rozmowę? 😊

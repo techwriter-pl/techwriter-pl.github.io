@@ -139,8 +139,8 @@ Do wyjątków spoza regionu należą między innymi
 
 Większość respondentów lubi swoją pracę - **62 osoby (78%)** dało jej 4 lub 5
 punktów. Tylko jedna osoba jest bardzo niezadowolona ze swojej pracy. Może
-[oferty publikowane na techwriter.pl](/oferty-pracy) pomogą zrobic pierwszy krok
-ku zmianie na lepsze?
+oferty publikowane na techwriter.pl pomogą zrobic pierwszy krok ku zmianie na
+lepsze?
 
 | Jak bardzo jesteś zadowolony/a ze swojego obecnego stanowiska? | Liczba respondentów |
 | -------------------------------------------------------------- | ------------------- |
