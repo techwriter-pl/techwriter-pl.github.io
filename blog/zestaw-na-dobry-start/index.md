@@ -45,11 +45,13 @@ to stać bardziej jasne.
 ![](images/globe.png)
 [Prezentacja Andrzeja z podstawowymi informacjami](https://docs.google.com/presentation/d/1_jUze-3QpAw9kS3sLwJIzM-YOeklhd55/edit?usp=sharing&ouid=113147649678372892437&rtpof=true&sd=true)
 
+[Strona konferencji Write The Docs z definicjami podstawowych pojęć](https://www.writethedocs.org/guide/)
+
 ![](images/youtube.png)
 [Film YouTube definiujacy technical writing i pokrewne specjalności](https://www.youtube.com/watch?v=6eXi6fGUSyE)
 
 Jeśli chodzi o definicje istotnych kategorii i zagadnień to dla osób
-początkujących polecam Technical Writer HQ, bo regularnie dostarcza porcje
+początkujących to polecam Technical Writer HQ, bo regularnie dostarcza porcje
 przydatnych informacji:
 
 ![](images/LI.png)
@@ -153,6 +155,9 @@ online:
 ![](images/globe.png)
 [Kurs Google Developers Guidelines](https://developers.google.com/tech-writing)
 
+![](images/globe.png)
+[Splunk Style Guide](https://docs.splunk.com/Documentation/StyleGuide/current/StyleGuide/Howtouse)
+
 ### Prosty język
 
 Simplified Technical English wywodzi się z branży lotniczej. Jeśli chcesz
@@ -180,7 +185,7 @@ Oprócz tego podziału, znajdziesz też kryteria dla udanej dokumentacji.
 ### ITCQF
 
 Mimo, że fundacja która stworzyła ten standard zakończyła swoją działalność, to
-sam sylabus nie traci na aktualności. To opracowanie nakreślające ramy technical
+sam [sylabus ITCQF](https://edu.ittraining.pl/material/Sylabus-ITCQF-Technical-Communication-Professional-Foundation-Level-en-wersja-2-0) nie traci na aktualności. To opracowanie nakreślające ramy technical
 writingu, kluczowe definicje i dobre praktyki.
 
 ![](images/super_maly_pac.png)
