@@ -114,10 +114,10 @@ Poniżej przedstawiam tabelę, która prezentuje kluczowe elementy komunikatu o 
 
 | Element komunikatu o sukcesie | Zalecenia |
 |-------------------------------|-----------|
-| **Tytuł** | - Używaj tytułów tylko wtedy, kiedy są niezbędne. <br> - Nie powielaj treści z tytułu. Tytuł powinien być odrębną informacją, a nie tym samym co treść główna. <br> - Unikaj używania wykrzykników. |
-| **Treść główna** | - Uwzględnij powód sukcesu. Poinformuj użytkownika jaka czynność zakończyła się powodzeniem <br> - Unikaj pisania więcej niż dwa zdania. <br> - Unikaj zbyt skomplikowanych zwrotów technicznych. |
-| **Wezwanie do działania (CTA)** | - Wezwanie do działania w takim rodzaju komunikatów jest opcjonalne, chyba że podjęcie dalszego działa jest istotne. <br> - Daj użytkownikowi możliwość zamknięcia komunikatu. |
-| **Dostępność** | - Nie stosuj żargonu. <br> - Jeśli w komunikacie znajdują się linki, upewnij się, że są wystarczająco opisowe i zrozumiałe. <br> - Zadbaj, aby tekst był łatwy do skanowania i skupiał uwagę użytkownika na kluczowych informacjach. |
+| **Tytuł** | - Używaj tytułów tylko wtedy, kiedy są niezbędne. <br/> - Nie powielaj treści z tytułu. Tytuł powinien być odrębną informacją, a nie tym samym co treść główna. <br/> - Unikaj używania wykrzykników. |
+| **Treść główna** | - Uwzględnij powód sukcesu. Poinformuj użytkownika jaka czynność zakończyła się powodzeniem <br/> - Unikaj pisania więcej niż dwa zdania. <br/> - Unikaj zbyt skomplikowanych zwrotów technicznych. |
+| **Wezwanie do działania (CTA)** | - Wezwanie do działania w takim rodzaju komunikatów jest opcjonalne, chyba że podjęcie dalszego działa jest istotne. <br/> - Daj użytkownikowi możliwość zamknięcia komunikatu. |
+| **Dostępność** | - Nie stosuj żargonu. <br/> - Jeśli w komunikacie znajdują się linki, upewnij się, że są wystarczająco opisowe i zrozumiałe. <br/> - Zadbaj, aby tekst był łatwy do skanowania i skupiał uwagę użytkownika na kluczowych informacjach. |
 
 
 ## Co warto zapamiętać?
