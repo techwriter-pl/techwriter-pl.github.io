@@ -49,11 +49,11 @@ Poniżej znajdziesz kilka sytuacji, w których pojawiają się komunikaty o sukc
 Przyjrzyjmy się teraz konkretnym przykładom.  
 Platforma e-learningowa Moodle preferuje krótkie i proste komunikaty o sukcesie. Poniżej kilka przykładów z ich [poradnika](https://moodledev.io/general/contentguidelines/productwriting/success-msg). Co ciekawe, zespół Moodle celowo unika użycia słowa “successfully” (po polsku “pomyślnie”). Komunikaty są zwięzłe, a tam gdzie jest taka potrzeba, informują o następnych krokach, które użytkownik może wykonać. 
 
-<img src="./images/Moodle-example-1.png" alt="Przykład komunikatu o sukcesie od Modle." style="border: 2px solid #000000ff; border-radius:6px;" />
+![Przykład komunikatu o sukcesie od Modle.](./images/Moodle-example-1.png)
 
-<img src="./images/Moodle-example-2.png" alt="Przykład komunikatu o sukcesie od Modle." style="border: 2px solid #000000ff; border-radius:6px;" />
+![Przykład komunikatu o sukcesie od Modle.](./images/Moodle-example-2.png)
 
-<img src="./images/Moodle-example-3.png" alt="Przykład komunikatu o sukcesie od Modle." style="border: 2px solid #000000ff; border-radius:6px;" />
+![Przykład komunikatu o sukcesie od Modle.](./images/Moodle-example-3.png)
 
 _Źródło:
 [https://moodledev.io/general/contentguidelines/productwriting/success-msgtps](https://moodledev.io/general/contentguidelines/productwriting/success-msg)_
@@ -61,33 +61,33 @@ _Źródło:
 
 Spójrzmy teraz na komunikaty o sukcesie od [Atlassiana](https://developer.atlassian.com/platform/forge/ui-kit/components/section-message). To co je wyróżnia to przede wszystkim ikona, która wizualnie sygnalizuje, że akcja została pomyślnie zakończona. Atlassian ma ściśle określone [typy komunikatów i ikony](https://atlassian.design/patterns/messages), których należy używać. W przeciwieństwie do Moodle, Atlassian często wykorzystuje czas Present Perfect (np. has been completed), co nadaje komunikatom bardziej formalny ton.
 
-<img src="./images/Atlassian-icons.png" alt="Przykład ikonek do komunikatów od Atlassiana." style="border: 2px solid #000000ff; border-radius:6px;" />
+![Przykład ikonek do komunikatów od Atlassiana.](./images/Atlassian-icons.png)
 
 _Źródło:
-[https://moodledev.io/general/contentguidelines/productwriting/success-msgtps](https://moodledev.io/general/contentguidelines/productwriting/success-msg)_
+[https://atlassian.design/patterns/messages](https://atlassian.design/patterns/messages)_
 
 
-<img src="./images/Atlassian-example-1.png" alt="Przykład komunikatu o sukcesie od Atlassiana." style="border: 2px solid #000000ff; border-radius:6px;" />
+![Przykład komunikatu o sukcesie od Atlassiana.](./images/Atlassian-example-1.png)
 
 _Źródło:
 [https://developer.atlassian.com/platform/forge/ui-kit/components/section-message/#action](https://developer.atlassian.com/platform/forge/ui-kit/components/section-message/#action)_
 
-
-<img src="./images/Atlassian-example-2.png" alt="Przykład komunikatu o sukcesie od Atlassiana." style="border: 2px solid #000000ff; border-radius:6px;" />
+![Przykład komunikatu o sukcesie od Atlassiana.](./images/Atlassian-example-2.png)
 
 _Źródło:
 [https://developer.atlassian.com/platform/forge/ui-kit/components/section-message/#success](https://developer.atlassian.com/platform/forge/ui-kit/components/section-message/#success)_
 
+
 Z kolei [Slack](https://stackoverflow.design/content/examples/success-messages) stosuje podobne do Atlassiana zasady, takie jak użycie czasu Present Perfect. To, co wyróżnia zespół Slacka, to zauważalny trend w kierunku bardziej opisowych komunikatów, które nie tylko potwierdzają wykonane czynności, ale też precyzują, jaka dokładnie akcja została zakończona. 
 
-<img src="./images/Slack-example-1.png" alt="PRzykład komunikatu o sukcesie od Slacka." style="border: 2px solid #000000ff; border-radius:6px;" />
+![Przykład komunikatu o sukcesie od Slacka.](./images/Slack-example-1.png)
 
 _Źródło:
 [https://stackoverflow.design/content/examples/success-messages](https://stackoverflow.design/content/examples/success-messages)_
 
 Ważnym okazuje się także to, co możemy zrobić po pomyślnym zakończeniu akcji. W poniższym przykładzie, Slack sugeruje sprawdzenie szczegółów dokonanych zmian w profilu lub potwierdzenia wpłaty. Zamiast prostego przycisku OK, użytkownik otrzymuje propozycję wykonania konkretnej, logicznej akcji, co pozytywnie wpływa na doświadczenie użytkownika.
 
-<img src="./images/Slack-example-2.png" alt="PRzykład komunikatu o sukcesie od Slacka." style="border: 2px solid #000000ff; border-radius:6px;" />
+![Przykład komunikatu o sukcesie od Slacka.](./images/Slack-example-2.png)
 
 _Źródło:
 [https://stackoverflow.design/content/examples/success-messages](https://stackoverflow.design/content/examples/success-messages)_
