@@ -57,7 +57,7 @@ komentarze:
 [soap!](../konferencja-soap-wczoraj-i-dzis/index.md) i
 [UA Conference](../ua-conference-relacja/index.md), tekom.
 
-... [oferty pracy dla Was](/oferty-pracy).
+... oferty pracy dla Was.
 
 I milion pomysłów na więcej!
 

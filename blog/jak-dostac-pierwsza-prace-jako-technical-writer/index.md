@@ -107,12 +107,12 @@ informacje. Potraktuj swoje CV jak
 który przygotowujesz. W większości przypadków CV wymagane jest w języku
 angielskim, ale wyposaż się też w wersję polską.
 
-Gdzie szukać pracy? Polecamy naszą sekcję [oferty pracy](/oferty-pracy), ale też
-całkiem sporo ciekawych ogłoszeń znajdziesz na LinkedIn lub na portalach pracy.
-Możesz też przeklikać się przez oferty dostępne na stronie konkretnej firmy.
-Słowa klucze to najczęściej: _t\_\_echnical writer_, _technical documentation
-specialist, technical content developer_ i – w naszym rodzimym języku –
-_specjalista ds. dokumentacji technicznej_.
+Gdzie szukać pracy? Polecamy naszą sekcję oferty pracy, ale też całkiem sporo
+ciekawych ogłoszeń znajdziesz na LinkedIn lub na portalach pracy. Możesz też
+przeklikać się przez oferty dostępne na stronie konkretnej firmy. Słowa klucze
+to najczęściej: _t\_\_echnical writer_, _technical documentation specialist,
+technical content developer_ i – w naszym rodzimym języku – _specjalista ds.
+dokumentacji technicznej_.
 
 Jeżeli stawiasz pierwsze kroki w komunikacji technicznej, pewnie będziesz się
 rozglądać za stanowiskami posiadającymi w tytule przydomek „junior”, lecz nie

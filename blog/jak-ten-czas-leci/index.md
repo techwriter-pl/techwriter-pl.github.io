@@ -19,7 +19,7 @@ _Jak najmniej [literówek](../literowki/index.md)_
 
 _Zawsze dostępnych [ekspertów](../kim-jest-sme/index.md)_
 
-_I [portmonetki grubej.](/oferty-pracy)_
+_I portmonetki grubej._
 
 To służbowo, a prywatnie:
 

@@ -87,7 +87,6 @@ const config: Config = {
         },
         { to: '/wydarzenia', label: 'Wydarzenia', position: 'right' },
         { to: '/konferencje', label: 'Konferencje 2025', position: 'right' },
-        { to: '/oferty-pracy', label: 'Oferty pracy', position: 'right' },
         { to: '/linki', label: 'Linki', position: 'right' },
         { to: '/szkolenia', label: 'Szkolenia', position: 'right' },
         { to: '/kontakt', label: 'Kontakt', position: 'right' },
