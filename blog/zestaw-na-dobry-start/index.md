@@ -1,5 +1,5 @@
 ---
-title: 'Zestaw na dobry początek'
+title: 'Lista źródeł dla początkujących technical writerów'
 authors: niewiarowski
 date: '2025-11-05'
 tags:
@@ -19,7 +19,7 @@ tych materiałów, będzie Ci łatwiej podjąć decyzję. Jeśli materiały wyda
 się intrygujące, gratulujemy i zapraszamy do dalszego zgłębiania tematu. To co
 tu pokazujemy, to wierzchołek góry lodowej, ale w którymś miejscu trzeba zacząć.
 
-Poniższe zestawienie jest szczególnie przydatne podsczas tworzenia dokumentacji
+Poniższe zestawienie jest szczególnie przydatne podczas tworzenia dokumentacji
 do oprogramowania po angielsku.
 
 ## Podstawowe informacje o technical writingu
