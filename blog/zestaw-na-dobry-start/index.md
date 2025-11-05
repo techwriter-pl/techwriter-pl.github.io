@@ -1,11 +1,11 @@
 ---
 title: 'Zestaw na dobry początek'
 authors: niewiarowski
-date: '2025-11-04'
+date: '2025-11-05'
 tags:
   - 'kariera'
   - 'praca'
-coverImage: 'xx.png'
+coverImage: 'A clean and modern b.png'
 ---
 
 Dla osób, które ciekawi kim jest technical writer i dla tych, które chcą zrobić
@@ -13,7 +13,14 @@ pierwsze kroki w tym kierunku, przedstawiamy zestaw linków do materiałów.
 
 <!--truncate-->
 
-Oto "pakiet startowy" dla zainteresowanych dużą zmianą w życiu zawodowym.
+Oto "pakiet startowy" dla zainteresowanych dużą zmianą w życiu zawodowym. Być
+może jeszcze nie wiesz, czy technical writing to Twoja bajka. Po przejrzeniu
+tych materiałów, będzie Ci łatwiej podjąć decyzję. Jeśli materiały wydadzą Ci
+się intrygujące, gratulujemy i zapraszamy do dalszego zgłębiania tematu. To co
+tu pokazujemy, to wierzchołek góry lodowej, ale w którymś miejscu trzeba zacząć.
+
+Poniższe zestawienie jest szczególnie przydatne podsczas tworzenia dokumentacji
+do oprogramowania po angielsku.
 
 ## Podstawowe informacje o technical writingu
 
@@ -45,6 +52,7 @@ to stać bardziej jasne.
 ![](images/globe.png)
 [Prezentacja Andrzeja z podstawowymi informacjami](https://docs.google.com/presentation/d/1_jUze-3QpAw9kS3sLwJIzM-YOeklhd55/edit?usp=sharing&ouid=113147649678372892437&rtpof=true&sd=true)
 
+![](images/globe.png)
 [Strona konferencji Write The Docs z definicjami podstawowych pojęć](https://www.writethedocs.org/guide/)
 
 ![](images/youtube.png)
@@ -75,7 +83,7 @@ pomoże Ci to oszacować.
 
 ## Zdobywanie doświadczenia: projekty Open Source
 
-Dobrym pomysłem na zbudowanie portfolio jest zaangażować się w projekt Open
+Dobrym sposobem na zbudowanie portfolio jest zaangażować się w projekt Open
 Source.
 
 ![](images/super_maly_pac.png)
@@ -129,7 +137,37 @@ osób, które taką drogę odbyły.
 ## Kluczowe pojęcia
 
 ### DITA
-![] [Seria artykułów o DITA](https://techwriter.pl/tags/dita)
+
+DITA jest standardem, dzięki któremu treść jest rozbita na małe bloki o
+określonym celu, np.: koncepcja, referencja, zadanie. Pozwala on na używanie tej
+samej treści w wielu miejscach. ![](images/super_maly_pac.png)
+[Seria artykułów o DITA](https://techwriter.pl/tags/dita)
+
+### Docs as Code
+
+"Docs as Code" lub "Docs like Code" to metoda i filozofia traktowania
+dokumentacji w podobny sposób jak kod. Przy użyciu narzędzi i praktyk
+programistycznych, możemy usprawnić współpracę technical writera i zespołu
+deweloperskiego.
+
+Zapraszamy do zapoznania się z tymi odcinkami podcastu Techwriter Koduje. Warto
+tam zrobić pierwsze kroki. Przy każdym odcinku znajdziecie linki do dalszych
+źródeł.
+
+![](images/koduje.png)
+[#1 Docs like code - rozważania praktyczne i filozoficzne](https://techwriterkoduje.pl/blog/2019/5/14/1/)
+
+![](images/koduje.png)
+[#41 Tech Writer rozważa podobieństwa i różnice między kodowaniem a pisaniem dokumentacji](https://techwriterkoduje.pl/blog/2022/5/2/41/)
+
+![](images/koduje.png)
+[#65 Tech Writer broni docs as code, czyli klasyczne "u mnie działa"](https://techwriterkoduje.pl/blog/2024/4/29/65/)
+
+![](images/koduje.png) [#72 Tech Writer pyta innych o docs as code, czyli kto i
+dlaczego porzuca CCMSy](https://techwriterkoduje.pl/blog/2024/11/24/72/)
+
+![](images/koduje.png)
+[#81 Tech Writer VS Coduje, czyli pisanie dokumentacji w modelu docs as code](https://techwriterkoduje.pl/blog/2025/9/9/81/)
 
 ## Standardy
 
@@ -146,17 +184,16 @@ interpunkcja i wiele innych.
 [Microsoft Manual of Style](https://learn.microsoft.com/en-us/style-guide/welcome/)
 
 ![](images/globe.png)
-[Google Style Guide](https://developers.google.com/style/)
+[Splunk Style Guide](https://docs.splunk.com/Documentation/StyleGuide/current/StyleGuide/Howtouse)
 
-Oprócz samego podręcznika stylu, znajdziesz też materiały dla osób
+![](images/globe.png) [Google Style Guide](https://developers.google.com/style/)
+
+Oprócz samego podręcznika stylu Google, znajdziesz też materiały dla osób
 początkujących. Jest możliwość wzięcia udziału w darmowej sesji szkoleniowej
 online:
 
 ![](images/globe.png)
 [Kurs Google Developers Guidelines](https://developers.google.com/tech-writing)
-
-![](images/globe.png)
-[Splunk Style Guide](https://docs.splunk.com/Documentation/StyleGuide/current/StyleGuide/Howtouse)
 
 ### Prosty język
 
@@ -185,11 +222,14 @@ Oprócz tego podziału, znajdziesz też kryteria dla udanej dokumentacji.
 ### ITCQF
 
 Mimo, że fundacja która stworzyła ten standard zakończyła swoją działalność, to
-sam [sylabus ITCQF](https://edu.ittraining.pl/material/Sylabus-ITCQF-Technical-Communication-Professional-Foundation-Level-en-wersja-2-0) nie traci na aktualności. To opracowanie nakreślające ramy technical
-writingu, kluczowe definicje i dobre praktyki.
+sam sylabus ITCQF nie traci na aktualności. To opracowanie nakreślające ramy
+technical writingu, kluczowe definicje i dobre praktyki.
 
 ![](images/super_maly_pac.png)
 [Perły z sylabusa ITCQF](../perly-z-sylabusa-itcqf/index.md)
+
+![](images/super_maly_pac.png)
+[Sylabus ITCQF](<(https://edu.ittraining.pl/material/Sylabus-ITCQF-Technical-Communication-Professional-Foundation-Level-en-wersja-2-0)>)
 
 ## Dodatkowe źródła wiedzy
 
@@ -198,16 +238,14 @@ writingu, kluczowe definicje i dobre praktyki.
 Warto wsłuchać się w to, co dwaj redaktorowie mają do powiedzenia, bo pięknie
 przybliżają techniczną stronę technical writingu i zapraszają ciekawych gości.
 
-![](images/globe.png)
-[Techwriter Koduje](https://techwriterkoduje.pl/)
+![](images/globe.png) [Techwriter Koduje](https://techwriterkoduje.pl/)
 
 ### Blog
 
 Bardzo popularny blog o technical writingu, zawiera same konkrety pisane przez
 bardzo doświadczonego profesjonalistę.
 
-![](images/globe.png)
-[I'd Rather Be Writing](https://idratherbewriting.com/)
+![](images/globe.png) [I'd Rather Be Writing](https://idratherbewriting.com/)
 
 ### Meetupy
 
@@ -218,24 +256,19 @@ ludzi.
 ![](images/super_maly_pac.png)
 [Lista nadchodzących wydarzeń](https://techwriter.pl/wydarzenia)
 
-![](images/globe.png)
-[MeetContent (Wrocław)](https://meetcontent.github.io/)
+![](images/globe.png) [MeetContent (Wrocław)](https://meetcontent.github.io/)
 
-![](images/globe.png)
-[Content Bytes (Kraków)](https://contentbytes.pl/)
+![](images/globe.png) [Content Bytes (Kraków)](https://contentbytes.pl/)
 
 ### Konferencje
 
 Konferencje to świetne okazje do nauki i networkingu.
 
-![](images/globe.png)
-[Cake conf](https://cakeconf.contentbytes.pl/)
+![](images/globe.png) [Cake conf](https://cakeconf.contentbytes.pl/)
 
-![](images/globe.png)
-[Write the Docs](https://www.writethedocs.org/)
+![](images/globe.png) [Write the Docs](https://www.writethedocs.org/)
 
-![](images/globe.png)
-[Nordic Tekom](https://dk.nordic-techkomm.com/)
+![](images/globe.png) [Nordic Tekom](https://dk.nordic-techkomm.com/)
 
 ### Kurs na Akademii Vistula
 
@@ -256,3 +289,5 @@ trafić na tę listę? Daj nam znać!
 
 Osobom, którym zależy na wiedzy i znalezieniu nowej pracy, życzymy udanych
 poszukiwań.
+
+Grafika tytułową wygenerowaliśmy w Copilot.
