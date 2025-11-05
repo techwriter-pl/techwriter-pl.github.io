@@ -171,6 +171,9 @@ dlaczego porzuca CCMSy](https://techwriterkoduje.pl/blog/2024/11/24/72/)
 ![](images/koduje.png)
 [#81 Tech Writer VS Coduje, czyli pisanie dokumentacji w modelu docs as code](https://techwriterkoduje.pl/blog/2025/9/9/81/)
 
+![](images/globe.png)
+[Artykuł firmy 3DI o Markdown, formacie stosowanym w Docs as Code](https://3di-info.com/markdown-for-documentation/)
+
 ## Standardy
 
 ### Podręczniki stylów
@@ -199,7 +202,7 @@ online:
 
 ### Prosty język
 
-Simplified Technical English wywodzi się z branży lotniczej. Jeśli chcesz
+Simplified Technical English (STE) wywodzi się z branży lotniczej. Jeśli chcesz
 poznać, jak używać bardziej zrozumiałych słów i wyrażeń w języku angielskim,
 zapoznaj się z tym standardem. Jest on szczególnie przydatny podczas pisania
 instrukcji.
@@ -211,7 +214,7 @@ instrukcji.
 [STE - jak używać go w praktyce](../simplified-technical-english-ste-jak-go-uzywac-w-praktyce/index.md)
 
 ![Ikona odnośnika](images/globe.png)
-[Strona kursu STE, na której możecie zamówić bezpłatnie dostęp do PDF ze standardem](https://www.asd-ste100.org/)
+[Strona kursu o STE, na której możecie zamówić bezpłatnie dostęp do PDF ze standardem](https://www.asd-ste100.org/)
 
 ### Diataxis
 
@@ -282,7 +285,7 @@ writer zarabia na chleb 😊.
 [Seria artykułów o studiach na Akademii Vistula](https://techwriter.pl/tags/studia)
 
 ![](images/globe.png)
-[Kurs komunikacja techniczna](https://www.vistula.edu.pl/kierunki-studiow/kontynuacja-edukacji/studia-podyplomowe/informatyka/komunikacja-techniczna)
+[Kurs Komunikacja Techniczna](https://www.vistula.edu.pl/kierunki-studiow/kontynuacja-edukacji/studia-podyplomowe/informatyka/komunikacja-techniczna)
 
 ## Zakończenie
 
