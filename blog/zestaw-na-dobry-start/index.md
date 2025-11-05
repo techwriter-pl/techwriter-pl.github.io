@@ -140,7 +140,9 @@ osób, które taką drogę odbyły.
 
 DITA jest standardem, dzięki któremu treść jest rozbita na małe bloki o
 określonym celu, np.: koncepcja, referencja, zadanie. Pozwala on na używanie tej
-samej treści w wielu miejscach. ![](images/super_maly_pac.png)
+samej treści w wielu miejscach. 
+
+![](images/super_maly_pac.png)
 [Seria artykułów o DITA](https://techwriter.pl/tags/dita)
 
 ### Docs as Code
@@ -228,7 +230,7 @@ technical writingu, kluczowe definicje i dobre praktyki.
 ![](images/super_maly_pac.png)
 [Perły z sylabusa ITCQF](../perly-z-sylabusa-itcqf/index.md)
 
-![](images/super_maly_pac.png)
+![](images/globe.png)
 [Sylabus ITCQF](<(https://edu.ittraining.pl/material/Sylabus-ITCQF-Technical-Communication-Professional-Foundation-Level-en-wersja-2-0)>)
 
 ## Dodatkowe źródła wiedzy
@@ -238,7 +240,7 @@ technical writingu, kluczowe definicje i dobre praktyki.
 Warto wsłuchać się w to, co dwaj redaktorowie mają do powiedzenia, bo pięknie
 przybliżają techniczną stronę technical writingu i zapraszają ciekawych gości.
 
-![](images/globe.png) [Techwriter Koduje](https://techwriterkoduje.pl/)
+![](images/koduje.png) [Techwriter Koduje](https://techwriterkoduje.pl/)
 
 ### Blog
 
