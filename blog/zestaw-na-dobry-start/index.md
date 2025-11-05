@@ -140,10 +140,17 @@ osób, które taką drogę odbyły.
 
 DITA jest standardem, dzięki któremu treść jest rozbita na małe bloki o
 określonym celu, np.: koncepcja, referencja, zadanie. Pozwala on na używanie tej
-samej treści w wielu miejscach. 
+samej treści w wielu miejscach.
 
 ![](images/super_maly_pac.png)
 [Seria artykułów o DITA](https://techwriter.pl/tags/dita)
+
+### CCMS
+
+Ważna koncepcja powiązana z DITA. Jej definicję znajdziecie w tej sekcji:
+
+![](images/super_maly_pac.png)
+[Wszystko o DITA - Narzędzia - CCMS](https://techwriter.pl/jak-zaczac-pisac-w-dita-narzedzia/#ccms)
 
 ### Docs as Code
 
@@ -165,14 +172,36 @@ tam zrobić pierwsze kroki. Przy każdym odcinku znajdziecie linki do dalszych
 ![](images/koduje.png)
 [#65 Tech Writer broni docs as code, czyli klasyczne "u mnie działa"](https://techwriterkoduje.pl/blog/2024/4/29/65/)
 
-![](images/koduje.png) [#72 Tech Writer pyta innych o docs as code, czyli kto i
-dlaczego porzuca CCMSy](https://techwriterkoduje.pl/blog/2024/11/24/72/)
+![](images/koduje.png)
+[#72 Tech Writer pyta innych o docs as code, czyli kto i dlaczego porzuca CCMSy](https://techwriterkoduje.pl/blog/2024/11/24/72/)
 
 ![](images/koduje.png)
 [#81 Tech Writer VS Coduje, czyli pisanie dokumentacji w modelu docs as code](https://techwriterkoduje.pl/blog/2025/9/9/81/)
 
+Kolejne dwa wspaniałe źródła:
+
 ![](images/globe.png)
-[Artykuł firmy 3DI o Markdown, formacie stosowanym w Docs as Code](https://3di-info.com/markdown-for-documentation/)
+[Artykuł firmy 3di o Markdown, formacie stosowanym w Docs as Code](https://3di-info.com/markdown-for-documentation/)
+
+![](images/LI.png)
+[Cykl przystępnych artykułów Łukasza Michty o Doc as Code](https://www.linkedin.com/pulse/docs-code-technical-writers-series-%C5%82ukasz-michta-rx6ce/?trackingId=B42cq%2FE4SLKZl3PmOVHujw%3D%3D)
+
+### Dokumentacja API
+
+Ważnym tematem dla dokumentacji oprogramowania jest tworzenie dokumentacji dla
+programistów integrujących różne komponenty w swoich rozwiązaniach.
+
+![](images/super_maly_pac.png)
+[Dokumentacja API część 1](../dokumentacja-api-czesc-1-definicja-i-rodzaje-api/index.md)
+
+![](images/super_maly_pac.png)
+[Dokumentacja API część 2](../dokumentowanie-api-czesc-2-dokumentacja-referencyjna/index.md)
+
+Tom Johnson stworzył kompendium wiedzy na ten temat. Jest to też rozbudowany
+materiał szkoleniowy:
+
+![](images/globe.png)
+[I'd Rather Be Writing: Documenting APIs](https://idratherbewriting.com/learnapidoc/)
 
 ## Standardy
 
@@ -213,8 +242,12 @@ instrukcji.
 ![](images/super_maly_pac.png)
 [STE - jak używać go w praktyce](../simplified-technical-english-ste-jak-go-uzywac-w-praktyce/index.md)
 
-![Ikona odnośnika](images/globe.png)
-[Strona kursu o STE, na której możecie zamówić bezpłatnie dostęp do PDF ze standardem](https://www.asd-ste100.org/)
+Strona, na której możecie poznać ten standard lepiej, dowiedzieć się o
+akredytowanych trenerach i szkoleniach, zamówić bezpłatnie dostęp do PDF do
+słownika i zasad gramatycznych:
+
+![](images/globe.png)
+[ASD Simplified Technical English Maintenance Group](https://www.asd-ste100.org/)
 
 ### Diataxis
 
@@ -240,7 +273,7 @@ technical writingu, kluczowe definicje i dobre praktyki.
 
 ### Podcast
 
-Warto wsłuchać się w to, co dwaj redaktorowie mają do powiedzenia, bo pięknie
+Warto wsłuchać się w to, co dwaj redaktorzy mają do powiedzenia, bo pięknie
 przybliżają techniczną stronę technical writingu i zapraszają ciekawych gości.
 
 ![](images/koduje.png) [Techwriter Koduje](https://techwriterkoduje.pl/)
@@ -271,9 +304,11 @@ Konferencje to świetne okazje do nauki i networkingu.
 
 ![](images/globe.png) [Cake conf](https://cakeconf.contentbytes.pl/)
 
-![](images/globe.png) [Write the Docs](https://www.writethedocs.org/)
+![](images/globe.png) [Write The Docs](https://www.writethedocs.org/)
 
 ![](images/globe.png) [Nordic Tekom](https://dk.nordic-techkomm.com/)
+
+![](images/globe.png) [API The Docs](https://apithedocs.org/)
 
 ### Kurs na Akademii Vistula
 
@@ -295,4 +330,4 @@ trafić na tę listę? Daj nam znać!
 Osobom, którym zależy na wiedzy i znalezieniu nowej pracy, życzymy udanych
 poszukiwań.
 
-Grafika tytułową wygenerowaliśmy w Copilot.
+Grafikę tytułową wygenerowaliśmy w Copilot.
