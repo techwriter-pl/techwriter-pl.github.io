@@ -5,6 +5,7 @@ date: '2020-09-18'
 tags:
   - 'news'
   - 'społeczność'
+  - 'rocznice'
 coverImage: 'urodziny_7.png'
 ---
 

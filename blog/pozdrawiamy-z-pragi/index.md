@@ -6,6 +6,7 @@ tags:
   - 'news'
   - 'ze-świata'
   - 'społeczność'
+  - 'rocznice'
 coverImage: 'TechwriterPl3.jpg'
 ---
 
