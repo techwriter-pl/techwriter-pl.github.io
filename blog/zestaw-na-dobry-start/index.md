@@ -1,7 +1,7 @@
 ---
 title: 'Lista źródeł dla początkujących technical writerów'
 authors: niewiarowski
-date: '2025-11-05'
+date: '2025-11-06'
 tags:
   - 'kariera'
   - 'praca'
@@ -267,7 +267,7 @@ technical writingu, kluczowe definicje i dobre praktyki.
 [Perły z sylabusa ITCQF](../perly-z-sylabusa-itcqf/index.md)
 
 ![](images/globe.png)
-[Sylabus ITCQF](<(https://edu.ittraining.pl/material/Sylabus-ITCQF-Technical-Communication-Professional-Foundation-Level-en-wersja-2-0)>)
+[Sylabus ITCQF](https://edu.ittraining.pl/material/Sylabus-ITCQF-Technical-Communication-Professional-Foundation-Level-en-wersja-2-0)
 
 ## Dodatkowe źródła wiedzy
 
