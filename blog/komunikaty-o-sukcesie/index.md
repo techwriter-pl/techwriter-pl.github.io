@@ -49,11 +49,11 @@ Poniżej znajdziesz kilka sytuacji, w których pojawiają się komunikaty o sukc
 Przyjrzyjmy się teraz konkretnym przykładom.  
 Platforma e-learningowa Moodle preferuje krótkie i proste komunikaty o sukcesie. Poniżej kilka przykładów z ich [poradnika](https://moodledev.io/general/contentguidelines/productwriting/success-msg). Co ciekawe, zespół Moodle celowo unika użycia słowa “successfully” (po polsku “pomyślnie”). Komunikaty są zwięzłe, a tam gdzie jest taka potrzeba, informują o następnych krokach, które użytkownik może wykonać. 
 
-![Przykład komunikatu o sukcesie od Modle.](./images/Moodle-example-1.png)
+![Prawidłowy komunikat: "Changes saved", nieprawidłowe komunikaty: "Your changes have been saved", "Changes were saved".](./images/Moodle-example-1.png)
 
-![Przykład komunikatu o sukcesie od Modle.](./images/Moodle-example-2.png)
+![Prawidłowe komunikaty: "Preset applied", "Message sent", nieprawidłowe komunikaty: "The preset has been successfully applied", "Message delivery successful".](./images/Moodle-example-2.png)
 
-![Przykład komunikatu o sukcesie od Modle.](./images/Moodle-example-3.png)
+![Prawidłowy komunikat: "Message posted. You have 30 minutes to edit it. See post", nieprawidłowy komunikat: "Your message has been posted successfully. You have 30 mins to make any changes to it".](./images/Moodle-example-3.png)
 
 _Źródło:
 [https://moodledev.io/general/contentguidelines/productwriting/success-msgtps](https://moodledev.io/general/contentguidelines/productwriting/success-msg)_
@@ -61,18 +61,18 @@ _Źródło:
 
 Spójrzmy teraz na komunikaty o sukcesie od [Atlassiana](https://developer.atlassian.com/platform/forge/ui-kit/components/section-message). To co je wyróżnia to przede wszystkim ikona, która wizualnie sygnalizuje, że akcja została pomyślnie zakończona. Atlassian ma ściśle określone [typy komunikatów i ikony](https://atlassian.design/patterns/messages), których należy używać. W przeciwieństwie do Moodle, Atlassian często wykorzystuje czas Present Perfect (np. has been completed), co nadaje komunikatom bardziej formalny ton.
 
-![Przykład ikonek do komunikatów od Atlassiana.](./images/Atlassian-icons.png)
+![Pięć ikon statusu, które stosuje Atlassian: niebieska informacja, zielony sukces, pomarańczowe ostrzeżenie, czerwone niebezpieczeństwo i fioletowe odkrycie.](./images/Atlassian-icons.png)
 
 _Źródło:
 [https://atlassian.design/patterns/messages](https://atlassian.design/patterns/messages)_
 
 
-![Przykład komunikatu o sukcesie od Atlassiana.](./images/Atlassian-example-1.png)
+![Przykład komunikatu o sukcesie od Atlassiana: "Merged pull request. Pull request #10146 merged after a successful build" wraz z przyciskami "View commit" i "Dismiss".](./images/Atlassian-example-1.png)
 
 _Źródło:
 [https://developer.atlassian.com/platform/forge/ui-kit/components/section-message/#action](https://developer.atlassian.com/platform/forge/ui-kit/components/section-message/#action)_
 
-![Przykład komunikatu o sukcesie od Atlassiana.](./images/Atlassian-example-2.png)
+![Przykład komunikatu o sukcesie od Atlassiana: "The file has been uploaded".](./images/Atlassian-example-2.png)
 
 _Źródło:
 [https://developer.atlassian.com/platform/forge/ui-kit/components/section-message/#success](https://developer.atlassian.com/platform/forge/ui-kit/components/section-message/#success)_
@@ -80,14 +80,14 @@ _Źródło:
 
 Z kolei [Slack](https://stackoverflow.design/content/examples/success-messages) stosuje podobne do Atlassiana zasady, takie jak użycie czasu Present Perfect. To, co wyróżnia zespół Slacka, to zauważalny trend w kierunku bardziej opisowych komunikatów, które nie tylko potwierdzają wykonane czynności, ale też precyzują, jaka dokładnie akcja została zakończona. 
 
-![Przykład komunikatu o sukcesie od Slacka.](./images/Slack-example-1.png)
+![Prawidłowe komunikaty: "Your account details have been saved", "You've upgraded to the Business tier of Teams", nieprawidłowe komunikaty: "Successfully saved", "Upgrade complete".](./images/Slack-example-1.png)
 
 _Źródło:
 [https://stackoverflow.design/content/examples/success-messages](https://stackoverflow.design/content/examples/success-messages)_
 
 Ważnym okazuje się także to, co możemy zrobić po pomyślnym zakończeniu akcji. W poniższym przykładzie, Slack sugeruje sprawdzenie szczegółów dokonanych zmian w profilu lub potwierdzenia wpłaty. Zamiast prostego przycisku OK, użytkownik otrzymuje propozycję wykonania konkretnej, logicznej akcji, co pozytywnie wpływa na doświadczenie użytkownika.
 
-![Przykład komunikatu o sukcesie od Slacka.](./images/Slack-example-2.png)
+![Prawidłowe komunikaty" "We've saved your profile changes. View profile", "Your payment is complete. View receipt", nieprawidłowe komunikaty: "We've saved your profile changes. OK", "Your payment is complete. OK"](./images/Slack-example-2.png)
 
 _Źródło:
 [https://stackoverflow.design/content/examples/success-messages](https://stackoverflow.design/content/examples/success-messages)_
@@ -110,14 +110,31 @@ Zyskuje na tym również zespół. Gotowe szablony i wytyczne pisania komunikat�
 
 Choć chciałoby się stworzyć uniwersalną listę dobrych praktyk, które gwarantują stworzenie najlepszych komunikatów o sukcesie, w rzeczywistości jest to niemożliwe. Każdy produkt i każda firma mają inne potrzeby, co doskonale widać na przykładach opisanych wcześniej.
 
-Poniżej przedstawiam tabelę, która prezentuje kluczowe elementy komunikatu o sukcesie  oraz zalecenia, które mogą okazać się pomocne w przygotowywaniu spójnych i skutecznych treści
+Poniżej znajdziesz kluczowe elementy komunikatu o sukcesie  oraz zalecenia, które mogą okazać się pomocne w przygotowywaniu spójnych i skutecznych treści.
 
-| Element komunikatu o sukcesie | Zalecenia |
-|-------------------------------|-----------|
-| **Tytuł** | - Używaj tytułów tylko wtedy, kiedy są niezbędne. <br/> - Nie powielaj treści z tytułu. Tytuł powinien być odrębną informacją, a nie tym samym co treść główna. <br/> - Unikaj używania wykrzykników. |
-| **Treść główna** | - Uwzględnij powód sukcesu. Poinformuj użytkownika jaka czynność zakończyła się powodzeniem <br/> - Unikaj pisania więcej niż dwa zdania. <br/> - Unikaj zbyt skomplikowanych zwrotów technicznych. |
-| **Wezwanie do działania (CTA)** | - Wezwanie do działania w takim rodzaju komunikatów jest opcjonalne, chyba że podjęcie dalszego działa jest istotne. <br/> - Daj użytkownikowi możliwość zamknięcia komunikatu. |
-| **Dostępność** | - Nie stosuj żargonu. <br/> - Jeśli w komunikacie znajdują się linki, upewnij się, że są wystarczająco opisowe i zrozumiałe. <br/> - Zadbaj, aby tekst był łatwy do skanowania i skupiał uwagę użytkownika na kluczowych informacjach. |
+**Tytuł**:
+
+- Używaj tytułów tylko wtedy, kiedy są niezbędne.
+- Nie powielaj treści z tytułu.
+- Tytuł powinien być odrębną informacją, a nie tym samym co treść główna. 
+- Unikaj używania wykrzykników.
+
+**Treść główna**:
+
+- Uwzględnij powód sukcesu. Poinformuj użytkownika jaka czynność zakończyła się powodzeniem.
+- Unikaj pisania więcej niż dwa zdania.
+- Unikaj zbyt skomplikowanych zwrotów technicznych. |
+
+**Wezwanie do działania (CTA)**:
+
+- Wezwanie do działania w takim rodzaju komunikatów jest opcjonalne, chyba że podjęcie dalszego działa jest istotne. 
+- Daj użytkownikowi możliwość zamknięcia komunikatu. 
+
+**Dostępność**:
+
+- Nie stosuj żargonu.
+- Jeśli w komunikacie znajdują się linki, upewnij się, że są wystarczająco opisowe i zrozumiałe.
+- Zadbaj, aby tekst był łatwy do skanowania i skupiał uwagę użytkownika na kluczowych informacjach. 
 
 
 ## Co warto zapamiętać?
