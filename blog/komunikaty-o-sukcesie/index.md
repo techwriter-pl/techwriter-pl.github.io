@@ -1,7 +1,7 @@
 ---
 title: 'Dlaczego komunikaty o sukcesie mają znaczenie'
 authors: magdazaczek
-date: '2025-11-11'
+date: '2025-11-18'
 tags:
   - 'ux'
   - 'warsztat'
