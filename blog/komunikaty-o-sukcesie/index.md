@@ -96,7 +96,7 @@ Po przeanalizowaniu powyższych przykładów, wiele osób zapewne ma w głowie j
 
 ## Dlaczego warto uspójnić komunikaty o sukcesie?
 
-Uspójnienie komunikatów o sukcesie ma służyć nie tylko użytkownikom (choć im przede wszystkim), ale także osobom pracującym nad produktem. Brzmi to banalnie, jednak w praktyce takie nie jest. Proces ten powinien zacząć się od audytu istniejących już komunikatów,, następnie od określenia preferowanego  stylu, a na końcu od wdrożenia spójnych zasad w całym produkcie.
+Uspójnienie komunikatów o sukcesie ma służyć nie tylko użytkownikom (choć im przede wszystkim), ale także osobom pracującym nad produktem. Brzmi to banalnie, jednak w praktyce takie nie jest. Proces ten powinien zacząć się od audytu istniejących już komunikatów, następnie od określenia preferowanego  stylu, a na końcu od wdrożenia spójnych zasad w całym produkcie.
 
 Dla użytkownika spójność treści ma ogromne znaczenie. Wszyscy cenimy intuicyjność i przewidywalność w produktach, z których korzystamy. Chcemy mieć pewność, że firma komunikuje się z nami w sposób jednolity i zrozumiały.
 
@@ -123,7 +123,7 @@ Poniżej znajdziesz kluczowe elementy komunikatu o sukcesie  oraz zalecenia, kt�
 
 - Uwzględnij powód sukcesu. Poinformuj użytkownika jaka czynność zakończyła się powodzeniem.
 - Unikaj pisania więcej niż dwa zdania.
-- Unikaj zbyt skomplikowanych zwrotów technicznych. |
+- Unikaj zbyt skomplikowanych zwrotów technicznych. 
 
 **Wezwanie do działania (CTA)**:
 
