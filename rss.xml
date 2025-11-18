@@ -4,10 +4,105 @@
         <title>techwriter.pl Blog</title>
         <link>https://techwriter.pl/</link>
         <description>techwriter.pl Blog</description>
-        <lastBuildDate>Thu, 06 Nov 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Nov 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>pl</language>
+        <item>
+            <title><![CDATA[Dlaczego komunikaty o sukcesie mają znaczenie]]></title>
+            <link>https://techwriter.pl/komunikaty-o-sukcesie</link>
+            <guid>https://techwriter.pl/komunikaty-o-sukcesie</guid>
+            <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Komunikaty o sukcesie potwierdzają poprawne wykonanie działania i wzmacniają zaufanie użytkownika do produktu.]]></description>
+            <content:encoded><![CDATA[<p>Komunikaty o sukcesie potwierdzają poprawne wykonanie działania i wzmacniają zaufanie użytkownika do produktu.</p>
+<p>W tym artykule dowiesz się, jak tworzyć je w sposób jasny i spójny.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="po-co-nam-komunikaty-o-sukcesie">Po co nam komunikaty o sukcesie?<a href="https://techwriter.pl/komunikaty-o-sukcesie#po-co-nam-komunikaty-o-sukcesie" class="hash-link" aria-label="Bezpośredni link do Po co nam komunikaty o sukcesie?" title="Bezpośredni link do Po co nam komunikaty o sukcesie?" translate="no">​</a></h2>
+<p>Komunikaty o sukcesie (success messages) to jedne z najważniejszych treści, z którymi spotykają się użytkownicy produktów cyfrowych.</p>
+<p>Wyobraź sobie, że wykonujesz przelew i nie otrzymujesz żadnego potwierdzenia. Jak wyglądałyby nasze doświadczenia, gdyby nagle wyłączyć komunikaty o sukcesie w produktach cyfrowych, z których korzystamy na co dzień? Z pewnością nie czulibyśmy się ani pewnie, ani spokojnie.</p>
+<p>Komunikaty o sukcesie są tak oczywistym i nieodłącznym elementem produktu, że często nie zwracamy na nie uwagi. Tymczasem ich projektowanie i pisanie to nie lada wyzwanie.</p>
+<p>W tym artykule przeczytasz o tym, dlaczego komunikaty o sukcesie są tak ważne, poznasz przykłady z różnych firm oraz dowiesz się, o czym warto pamiętać pisząc takie treści.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="definicja-komunikatów-o-sukcesie">Definicja komunikatów o sukcesie<a href="https://techwriter.pl/komunikaty-o-sukcesie#definicja-komunikat%C3%B3w-o-sukcesie" class="hash-link" aria-label="Bezpośredni link do Definicja komunikatów o sukcesie" title="Bezpośredni link do Definicja komunikatów o sukcesie" translate="no">​</a></h2>
+<p>Komunikaty o sukcesie informują użytkowników, że dana akcja została wykonana w sposób prawidłowy. Dzięki nim nie muszą się zastanawiać, czy wszystko przebiegło zgodnie z planem.
+Takie komunikaty wzmacniają poczucie pewności i satysfakcji z korzystania z produktu, pokazując, że wszystko działa tak, jak powinno. Pojawiają się po pomyślnym wykonaniu akcji w interfejsie i potwierdzają, że została ona wykonana bez żadnych zakłóceń.</p>
+<p>To jeden z tych komunikatów, na które użytkownicy często czekają i który sprawia, że czują się pewnie korzystając z danego produktu. Dobrze skonstruowane komunikaty dają im również poczucie kontroli i zaufania do produktu.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="przykłady">Przykłady<a href="https://techwriter.pl/komunikaty-o-sukcesie#przyk%C5%82ady" class="hash-link" aria-label="Bezpośredni link do Przykłady" title="Bezpośredni link do Przykłady" translate="no">​</a></h2>
+<p>Poniżej znajdziesz kilka sytuacji, w których pojawiają się komunikaty o sukcesie. Z pewnością widziałeś je niejednokrotnie korzystając z różnych rozwiązań i produktów cyfrowych.</p>
+<ul>
+<li>Zakupy na platformach internetowych</li>
+<li>Zapisanie się lub rezygnacja z newslettera</li>
+<li>Wysłanie zgłoszenia</li>
+<li>Importowanie lub eksportowanie danych</li>
+<li>Dodanie załącznika</li>
+<li>Odzyskanie hasła</li>
+<li>Zaakceptowanie zaproszenia do znajomych</li>
+<li>Potwierdzenie wysłania przelewu lub płatności internetowej</li>
+</ul>
+<p>Przyjrzyjmy się teraz konkretnym przykładom.<br>
+<!-- -->Platforma e-learningowa Moodle preferuje krótkie i proste komunikaty o sukcesie. Poniżej kilka przykładów z ich <a href="https://moodledev.io/general/contentguidelines/productwriting/success-msg" target="_blank" rel="noopener noreferrer">poradnika</a>. Co ciekawe, zespół Moodle celowo unika użycia słowa “successfully” (po polsku “pomyślnie”). Komunikaty są zwięzłe, a tam gdzie jest taka potrzeba, informują o następnych krokach, które użytkownik może wykonać.</p>
+<p><img decoding="async" loading="lazy" alt="Prawidłowy komunikat: &amp;quot;Changes saved&amp;quot;, nieprawidłowe komunikaty: &amp;quot;Your changes have been saved&amp;quot;, &amp;quot;Changes were saved&amp;quot;." src="https://techwriter.pl/assets/images/Moodle-example-1-c0eff68ee23e40bf334511b603be0ad6.png" width="1102" height="475" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="Prawidłowe komunikaty: &amp;quot;Preset applied&amp;quot;, &amp;quot;Message sent&amp;quot;, nieprawidłowe komunikaty: &amp;quot;The preset has been successfully applied&amp;quot;, &amp;quot;Message delivery successful&amp;quot;." src="https://techwriter.pl/assets/images/Moodle-example-2-d9f108ba1d489b089e83ab85178b0a11.png" width="1096" height="617" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="Prawidłowy komunikat: &amp;quot;Message posted. You have 30 minutes to edit it. See post&amp;quot;, nieprawidłowy komunikat: &amp;quot;Your message has been posted successfully. You have 30 mins to make any changes to it&amp;quot;." src="https://techwriter.pl/assets/images/Moodle-example-3-e2f8156381bbcc1394af27fc9c0b94a1.png" width="1092" height="292" class="img_ev3q"></p>
+<p><em>Źródło:
+<a href="https://moodledev.io/general/contentguidelines/productwriting/success-msg" target="_blank" rel="noopener noreferrer">https://moodledev.io/general/contentguidelines/productwriting/success-msgtps</a></em></p>
+<p>Spójrzmy teraz na komunikaty o sukcesie od <a href="https://developer.atlassian.com/platform/forge/ui-kit/components/section-message" target="_blank" rel="noopener noreferrer">Atlassiana</a>. To co je wyróżnia to przede wszystkim ikona, która wizualnie sygnalizuje, że akcja została pomyślnie zakończona. Atlassian ma ściśle określone <a href="https://atlassian.design/patterns/messages" target="_blank" rel="noopener noreferrer">typy komunikatów i ikony</a>, których należy używać. W przeciwieństwie do Moodle, Atlassian często wykorzystuje czas Present Perfect (np. has been completed), co nadaje komunikatom bardziej formalny ton.</p>
+<p><img decoding="async" loading="lazy" alt="Pięć ikon statusu, które stosuje Atlassian: niebieska informacja, zielony sukces, pomarańczowe ostrzeżenie, czerwone niebezpieczeństwo i fioletowe odkrycie." src="https://techwriter.pl/assets/images/Atlassian-icons-76d12768f6d89171a977132ed5cb1c86.png" width="922" height="215" class="img_ev3q"></p>
+<p><em>Źródło:
+<a href="https://atlassian.design/patterns/messages" target="_blank" rel="noopener noreferrer">https://atlassian.design/patterns/messages</a></em></p>
+<p><img decoding="async" loading="lazy" alt="Przykład komunikatu o sukcesie od Atlassiana: &amp;quot;Merged pull request. Pull request #10146 merged after a successful build&amp;quot; wraz z przyciskami &amp;quot;View commit&amp;quot; i &amp;quot;Dismiss&amp;quot;." src="https://techwriter.pl/assets/images/Atlassian-example-1-d64de95d5954e602d04aa1aa4d59dd17.png" width="777" height="128" class="img_ev3q"></p>
+<p><em>Źródło:
+<a href="https://developer.atlassian.com/platform/forge/ui-kit/components/section-message/#action" target="_blank" rel="noopener noreferrer">https://developer.atlassian.com/platform/forge/ui-kit/components/section-message/#action</a></em></p>
+<p><img decoding="async" loading="lazy" alt="Przykład komunikatu o sukcesie od Atlassiana: &amp;quot;The file has been uploaded&amp;quot;." src="data:image/png;base64,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" width="773" height="60" class="img_ev3q"></p>
+<p><em>Źródło:
+<a href="https://developer.atlassian.com/platform/forge/ui-kit/components/section-message/#success" target="_blank" rel="noopener noreferrer">https://developer.atlassian.com/platform/forge/ui-kit/components/section-message/#success</a></em></p>
+<p>Z kolei <a href="https://stackoverflow.design/content/examples/success-messages" target="_blank" rel="noopener noreferrer">Slack</a> stosuje podobne do Atlassiana zasady, takie jak użycie czasu Present Perfect. To, co wyróżnia zespół Slacka, to zauważalny trend w kierunku bardziej opisowych komunikatów, które nie tylko potwierdzają wykonane czynności, ale też precyzują, jaka dokładnie akcja została zakończona.</p>
+<p><img decoding="async" loading="lazy" alt="Prawidłowe komunikaty: &amp;quot;Your account details have been saved&amp;quot;, &amp;quot;You&amp;#39;ve upgraded to the Business tier of Teams&amp;quot;, nieprawidłowe komunikaty: &amp;quot;Successfully saved&amp;quot;, &amp;quot;Upgrade complete&amp;quot;." src="https://techwriter.pl/assets/images/Slack-example-1-3dd3e3c1cee0cfe2e3dbe4f70ba62147.png" width="822" height="212" class="img_ev3q"></p>
+<p><em>Źródło:
+<a href="https://stackoverflow.design/content/examples/success-messages" target="_blank" rel="noopener noreferrer">https://stackoverflow.design/content/examples/success-messages</a></em></p>
+<p>Ważnym okazuje się także to, co możemy zrobić po pomyślnym zakończeniu akcji. W poniższym przykładzie, Slack sugeruje sprawdzenie szczegółów dokonanych zmian w profilu lub potwierdzenia wpłaty. Zamiast prostego przycisku OK, użytkownik otrzymuje propozycję wykonania konkretnej, logicznej akcji, co pozytywnie wpływa na doświadczenie użytkownika.</p>
+<p><img decoding="async" loading="lazy" alt="Prawidłowe komunikaty&amp;quot; &amp;quot;We&amp;#39;ve saved your profile changes. View profile&amp;quot;, &amp;quot;Your payment is complete. View receipt&amp;quot;, nieprawidłowe komunikaty: &amp;quot;We&amp;#39;ve saved your profile changes. OK&amp;quot;, &amp;quot;Your payment is complete. OK&amp;quot;" src="https://techwriter.pl/assets/images/Slack-example-2-46f9d732e2870ca54098dd0f79d4b1cf.png" width="855" height="322" class="img_ev3q"></p>
+<p><em>Źródło:
+<a href="https://stackoverflow.design/content/examples/success-messages" target="_blank" rel="noopener noreferrer">https://stackoverflow.design/content/examples/success-messages</a></em></p>
+<p>Po przeanalizowaniu powyższych przykładów, wiele osób zapewne ma w głowie jedno zasadnicze pytanie - “Jak właściwie pisać komunikaty o sukcesie?”. Warto pamiętać, że każda firma powinna mieć swoje własne zasady i wytyczne dotyczące stylu oraz tonu komunikacji. Nie ma jednego uniwersalnego wzorca, który sprawdzi się w każdym produkcie. Najważniejsze jest zachowanie spójności. Komunikaty o sukcesie powinny być jednolite w całym produkcie. Nic tak nie psuje wrażenia profesjonalizmu, jak przypadkowe i niespójne treści.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="dlaczego-warto-uspójnić-komunikaty-o-sukcesie">Dlaczego warto uspójnić komunikaty o sukcesie?<a href="https://techwriter.pl/komunikaty-o-sukcesie#dlaczego-warto-usp%C3%B3jni%C4%87-komunikaty-o-sukcesie" class="hash-link" aria-label="Bezpośredni link do Dlaczego warto uspójnić komunikaty o sukcesie?" title="Bezpośredni link do Dlaczego warto uspójnić komunikaty o sukcesie?" translate="no">​</a></h2>
+<p>Uspójnienie komunikatów o sukcesie ma służyć nie tylko użytkownikom (choć im przede wszystkim), ale także osobom pracującym nad produktem. Brzmi to banalnie, jednak w praktyce takie nie jest. Proces ten powinien zacząć się od audytu istniejących już komunikatów,, następnie od określenia preferowanego  stylu, a na końcu od wdrożenia spójnych zasad w całym produkcie.</p>
+<p>Dla użytkownika spójność treści ma ogromne znaczenie. Wszyscy cenimy intuicyjność i przewidywalność w produktach, z których korzystamy. Chcemy mieć pewność, że firma komunikuje się z nami w sposób jednolity i zrozumiały.</p>
+<p>Nikt nie chce się zastanawiać czy komunikat “Transakcja wygląda na zakończoną.” oznacza to samo co “Płatność powiodła się”. Brak spójności prowadzi do niepewności, a ta obniża zaufanie do produktu.</p>
+<p>Spójne komunikaty podnoszą jakość doświadczenia użytkownika i wpływają pozytywnie na odbiór marki.
+Zyskuje na tym również zespół. Gotowe szablony i wytyczne pisania komunikatów konsekwentnie skracają czas przygotowywania takich treści, co wpływa korzystnie na pracę zespołu.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="dobre-praktyki">Dobre praktyki<a href="https://techwriter.pl/komunikaty-o-sukcesie#dobre-praktyki" class="hash-link" aria-label="Bezpośredni link do Dobre praktyki" title="Bezpośredni link do Dobre praktyki" translate="no">​</a></h2>
+<p>Choć chciałoby się stworzyć uniwersalną listę dobrych praktyk, które gwarantują stworzenie najlepszych komunikatów o sukcesie, w rzeczywistości jest to niemożliwe. Każdy produkt i każda firma mają inne potrzeby, co doskonale widać na przykładach opisanych wcześniej.</p>
+<p>Poniżej znajdziesz kluczowe elementy komunikatu o sukcesie  oraz zalecenia, które mogą okazać się pomocne w przygotowywaniu spójnych i skutecznych treści.</p>
+<p><strong>Tytuł</strong>:</p>
+<ul>
+<li>Używaj tytułów tylko wtedy, kiedy są niezbędne.</li>
+<li>Nie powielaj treści z tytułu.</li>
+<li>Tytuł powinien być odrębną informacją, a nie tym samym co treść główna.</li>
+<li>Unikaj używania wykrzykników.</li>
+</ul>
+<p><strong>Treść główna</strong>:</p>
+<ul>
+<li>Uwzględnij powód sukcesu. Poinformuj użytkownika jaka czynność zakończyła się powodzeniem.</li>
+<li>Unikaj pisania więcej niż dwa zdania.</li>
+<li>Unikaj zbyt skomplikowanych zwrotów technicznych. |</li>
+</ul>
+<p><strong>Wezwanie do działania (CTA)</strong>:</p>
+<ul>
+<li>Wezwanie do działania w takim rodzaju komunikatów jest opcjonalne, chyba że podjęcie dalszego działa jest istotne.</li>
+<li>Daj użytkownikowi możliwość zamknięcia komunikatu.</li>
+</ul>
+<p><strong>Dostępność</strong>:</p>
+<ul>
+<li>Nie stosuj żargonu.</li>
+<li>Jeśli w komunikacie znajdują się linki, upewnij się, że są wystarczająco opisowe i zrozumiałe.</li>
+<li>Zadbaj, aby tekst był łatwy do skanowania i skupiał uwagę użytkownika na kluczowych informacjach.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="co-warto-zapamiętać">Co warto zapamiętać?<a href="https://techwriter.pl/komunikaty-o-sukcesie#co-warto-zapami%C4%99ta%C4%87" class="hash-link" aria-label="Bezpośredni link do Co warto zapamiętać?" title="Bezpośredni link do Co warto zapamiętać?" translate="no">​</a></h2>
+<p>Komunikaty o sukcesie nie tylko potwierdzają, że czynność została wykonana, ale także odgrywają ważną rolę w doświadczeniu użytkownika.</p>
+<p>Jak pokazały przykłady Moodle, Atlassiana czy Slacka, forma i styl komunikatów może być różna. Co jednak jest najważniejsze to spójność w pisanych treściach. Użytkownicy chcą korzystać z produktów, które są intuicyjne i komunikują się z nimi w sposób spójny i zrozumiały.</p>
+<p>Spójne komunikaty przynoszą korzyść nie tylko użytkownikom, ale także wewnętrznym zespołom w firmie. Jasne wytyczne i spisane zasady skracają czas pracy pisarzy nad takimi komunikatami.</p>]]></content:encoded>
+            <category>ux</category>
+            <category>warsztat</category>
+        </item>
         <item>
             <title><![CDATA[Lista źródeł dla początkujących technical writerów]]></title>
             <link>https://techwriter.pl/zestaw-na-dobry-start</link>
@@ -2750,213 +2845,6 @@ ze spotkania założycielskiego :</p>
             <category>zrzeszenia-branżowe</category>
             <category>promocja-branży</category>
             <category>społeczność</category>
-        </item>
-        <item>
-            <title><![CDATA[Student insights - the Hitachi Energy and District C technical writing initiative]]></title>
-            <link>https://techwriter.pl/district-c-collaboration</link>
-            <guid>https://techwriter.pl/district-c-collaboration</guid>
-            <pubDate>Wed, 13 Nov 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[In 2023, the Technical Writing Team at]]></description>
-            <content:encoded><![CDATA[<p>In 2023, the Technical Writing Team at
-<a href="https://www.hitachienergy.com/pl/pl/about-us/company-profile/centrum-technologiczne" target="_blank" rel="noopener noreferrer">Hitachi Energy</a>
-in Kraków participated in <a href="https://www.districtc.co/" target="_blank" rel="noopener noreferrer">District C</a>, a project run
-by the
-<a href="https://www.linkedin.com/school/uncw/" target="_blank" rel="noopener noreferrer">University of North Carolina Wilmington</a>
-(UNCW) to inspire the next generation of energy professionals. This project was
-a perfect storm of teamwork, where the Hitachi Energy employees gave the
-students the glimpses of the day-to-day experiences of documentation developers.
-The collaboration provided valuable insights into technical writing,
-cross-cultural teamwork, and continuous improvement, which makes this story a
-compelling read for those interested in education, design thinking, or
-professional development.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="introduction">Introduction<a href="https://techwriter.pl/district-c-collaboration#introduction" class="hash-link" aria-label="Bezpośredni link do Introduction" title="Bezpośredni link do Introduction" translate="no">​</a></h2>
-<p>District C lets students explore a real-life company's business operations. They
-learn about the unique aspects of an industry hands-on. In the end, students
-offer practical advice to the given problem during a pitch meeting, often their
-first experience presenting a business case to stakeholders. Read the story of
-the collaboration between District C and Hitachi Energy in Kraków. The story is
-told by Andrzej, on behalf of the Technical Writing Team.</p>
-<p><img decoding="async" loading="lazy" src="https://techwriter.pl/assets/images/students-943fe4d1fa227612e4bbed5c5e1808b9.png" width="740" height="425" class="img_ev3q"> <strong>Participants brainstorming over Zoom.</strong></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-participants">The participants<a href="https://techwriter.pl/district-c-collaboration#the-participants" class="hash-link" aria-label="Bezpośredni link do The participants" title="Bezpośredni link do The participants" translate="no">​</a></h2>
-<p>In 2023, our Technical Writing Team consisted of four people, two of whom were
-new joiners. Each of us had a different set of experiences and knowledge to
-share. It was in our best interest to think about how to collaborate better and
-align our efforts.</p>
-<p>We were happy to exchange thoughts with a group of American students of English
-Studies at <a href="https://www.linkedin.com/school/uncw/" target="_blank" rel="noopener noreferrer">UNCW</a> and the Polish
-post-graduate students taking a technical writing course at the
-<a href="https://vistula.edu.pl/kierunki-studiow/komunikacja-techniczna" target="_blank" rel="noopener noreferrer">Vistula</a>
-non-public university. The students participating in the project could interview
-the Technical Writing Team about our team's role at Hitachi Energy. They used
-design thinking principles to examine our work environment, aiming to analyze,
-find opportunities, gather suggestions, and present them. All of that happened
-under the watchful eye of
-<a href="https://www.linkedin.com/in/lance-cummings-phd/" target="_blank" rel="noopener noreferrer">Dr. Lance Cummings</a>, an
-English professor who specializes in applying AI in the realm of writing. He was
-the originator of this unusual project.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="intricacies-of-technical-writing">Intricacies of technical writing<a href="https://techwriter.pl/district-c-collaboration#intricacies-of-technical-writing" class="hash-link" aria-label="Bezpośredni link do Intricacies of technical writing" title="Bezpośredni link do Intricacies of technical writing" translate="no">​</a></h2>
-<p>We shared our experiences that gave the students an idea of what makes technical
-writing rewarding and challenging:</p>
-<ul>
-<li>Processing high volume of information</li>
-<li>Gathering insights from experts and seeking feedback</li>
-<li>Building knowledge about complex products and systems developed at Hitachi
-Energy</li>
-</ul>
-<p><img decoding="async" loading="lazy" src="https://techwriter.pl/assets/images/soap_box-dd44d3c1ee1566405f0c5db7a5ea3246.jpg" width="740" height="987" class="img_ev3q"> <strong>Lance, Quinn, and Andrzej telling a story about the
-project at the
-<a href="https://www.linkedin.com/company/soap-techcomm/posts/?feedView=all" target="_blank" rel="noopener noreferrer">soap! content conference</a>
-in June 2023.</strong></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="project-execution">Project execution<a href="https://techwriter.pl/district-c-collaboration#project-execution" class="hash-link" aria-label="Bezpośredni link do Project execution" title="Bezpośredni link do Project execution" translate="no">​</a></h2>
-<p>First, there were two rounds of Zoom meetings where information was shared.</p>
-<p>The members of the Hitachi Energy Team explained what it is like to be a
-Technical Writer and why this role requires specialized expertise. Concise and
-clear data gave insight into the organization's daily work and critical focus
-areas.</p>
-<p>Then, students reflected on what was said and came back with additional
-questions to dig deeper. Each student group had a specific amount of time to ask
-strategic questions. These were intense, focused sessions in which both sides
-tried to use the available time as best they could.</p>
-<p>This exercise had already proven beneficial to the Hitachi Energy Team. We all
-knew the specifics of our daily operations well. Still, it was a useful exercise
-to describe our role to someone outside of our working environment. Explaining
-without relying on jargon, project names, and mental shortcuts was challenging.
-It helped us to reflect on our needs and better understand them by clear
-formulation.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-big-event">The big event<a href="https://techwriter.pl/district-c-collaboration#the-big-event" class="hash-link" aria-label="Bezpośredni link do The big event" title="Bezpośredni link do The big event" translate="no">​</a></h2>
-<p>Student groups learned what operating in a modern global corporate workplace is
-like. They gathered input, applied design thinking principles, identified
-opportunities for growth, and suggested sound solutions, which were then
-presented during the final <strong>pitch meeting</strong> held over Zoom.</p>
-<p><img decoding="async" loading="lazy" src="https://techwriter.pl/assets/images/hitachi_crew-d00f164942196531c6d1b6a309b146d6.png" width="740" height="400" class="img_ev3q"><strong>Proud contributors of the District C initiative.</strong></p>
-<p><strong>Pitch meeting</strong> is a presentation where an individual or a team presents a
-business idea or concept to potential investors, stakeholders, or clients to
-secure funding, support, or interest in the project. The presentation usually
-includes an overview of the product or service and the proposed solution.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="recommendations">Recommendations<a href="https://techwriter.pl/district-c-collaboration#recommendations" class="hash-link" aria-label="Bezpośredni link do Recommendations" title="Bezpośredni link do Recommendations" translate="no">​</a></h2>
-<p>Each group presented its assessment of the opportunities and provided practical
-recommendations. Fresh perspectives and solutions were appreciated, as they
-logically tied to the identified areas for improvement. At the same time, the
-Hitachi Energy Team offered practical feedback that was rooted in business
-operations, experience, and practice.</p>
-<p>Students focused mainly on the nature of the interactions between the Technical
-Writers and the Subject Matter Experts (SMEs).</p>
-<p>They then explored questions such as: "What is the most efficient way to get
-insights from an SME and build product knowledge?" and "Are multiple team
-members often asked the same questions?".</p>
-<p>One suggestion was to invite all SMEs to a single session to get all their
-answers. Alternatively, this could be resolved asynchronously through Teams or a
-survey.</p>
-<p>Other recommendations included:</p>
-<ul>
-<li>Conducting dedicated workshops to get product insights</li>
-<li>Incorporating short videos to distribute knowledge and information</li>
-<li>Using Scrum Master's advice to optimize the collaboration between the Tech
-Writers and the Dev team</li>
-<li>Establishing a more formalized review process</li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-takeaways">The takeaways<a href="https://techwriter.pl/district-c-collaboration#the-takeaways" class="hash-link" aria-label="Bezpośredni link do The takeaways" title="Bezpośredni link do The takeaways" translate="no">​</a></h2>
-<p>Though we have not used every recommendation, we gained a clearer picture of our
-needs and possibilities. The challenge allowed for the analysis of how we
-operate on a daily basis. It emphasized the strategic and business objectives
-that are key to the effectiveness of the processes we run in Kraków and the
-global organization.</p>
-<p>As part of continuous improvement, we regularly reevaluate our approach to
-documentation process and collaboration. Even a year later, we still actively
-use the good ideas we picked up during the District C project.</p>
-<p>For example, District C inspired us to try Microsoft Loop to engage multiple
-Subject Matter Experts quickly.</p>
-<p><img decoding="async" loading="lazy" src="https://techwriter.pl/assets/images/group_photo-50474b9cac77cbd0e567875fe965e7a6.jpg" width="740" height="442" class="img_ev3q"> <strong>Happy participants at the Hitachi Energy Office in
-Kraków.</strong></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-cross-cultural-collaboration-aspect">The cross-cultural collaboration aspect<a href="https://techwriter.pl/district-c-collaboration#the-cross-cultural-collaboration-aspect" class="hash-link" aria-label="Bezpośredni link do The cross-cultural collaboration aspect" title="Bezpośredni link do The cross-cultural collaboration aspect" translate="no">​</a></h2>
-<p>It is worth emphasizing the international nature of this project. To gain
-insights into this aspect, shortly after the project was completed, we met the
-US participants in the Kraków office and asked about their experiences.</p>
-<p>The American view by
-<a href="https://www.linkedin.com/in/quinn-williams-/" target="_blank" rel="noopener noreferrer">Quinn Williams</a>:</p>
-<blockquote>
-<p>This program was especially helpful in understanding how different people with
-different backgrounds can approach business issues. We got to work with Polish
-students, and sharing ideas required us to keep our communication skills at
-the forefront. If we had not practiced effective communication, we would not
-have successfully conveyed some implied thoughts from our American point of
-view. This foundation helped us understand the importance of creating a strong
-team bond and interpersonal practices.</p>
-</blockquote>
-<blockquote>
-<p>I also enjoyed experiencing the program's professional side, where we
-communicated with the Hitachi Energy team members. It was interesting to see
-where the Polish work culture differed from the American culture and where
-there was an overlap. I think our teams were able to use essential pieces from
-both sides to create an effective workflow.</p>
-</blockquote>
-<p>We also received insights from the Polish perspective, provided by
-<a href="https://www.linkedin.com/in/monika-dabrowska1/" target="_blank" rel="noopener noreferrer">Monika Dąbrowska</a>, a
-participant in the technical writing postgraduate studies at
-<a href="https://vistula.edu.pl/kierunki-studiow/komunikacja-techniczna" target="_blank" rel="noopener noreferrer">Vistula</a>
-non-public university:</p>
-<blockquote>
-<p>What I particularly liked about District C was that we could exchange our
-experiences regarding learning and creating projects. The Polish education
-system and culture lead to a general mindset somewhat contrasting that of
-American students.</p>
-</blockquote>
-<blockquote>
-<p>Also, the American view of the Poles is far from what we showed during the
-project. Similarly, the Poles also have certain misconceptions about the
-Americans. These assumptions and presuppositions were discussed and challenged
-during our cooperation, and we found power in our variety, creativity,
-exchanging experiences, and understanding one another.</p>
-</blockquote>
-<p>The Technical Writing Team was happy to meet and get to know the US participants
-during their visit to the Kraków office and at the soap! content conference,
-where we also met some of the Polish students. After the intense cooperation,
-bonding during that event was fun.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="conclusion">Conclusion<a href="https://techwriter.pl/district-c-collaboration#conclusion" class="hash-link" aria-label="Bezpośredni link do Conclusion" title="Bezpośredni link do Conclusion" translate="no">​</a></h2>
-<p>The collaboration between Hitachi Energy and District C was a truly enlightening
-experience. Students gained a deeper understanding of the technical writing
-profession and the complexities of the energy sector. They provided valuable
-recommendations to improve collaboration between Technical Writers and SMEs,
-such as conducting dedicated workshops and using short videos for knowledge
-distribution.</p>
-<p>The project also highlighted the benefits of cross-cultural collaboration, with
-American and Polish participants gaining insights into different work cultures
-and communication styles.</p>
-<p>The Hitachi Energy Team benefited from the fresh perspectives and practical
-solutions provided by the students, emphasizing the importance of continuous
-improvement. The ongoing impact of the collaboration is evident in the continued
-use of some recommendations, such as using Microsoft Loop to engage multiple
-SMEs quickly.</p>
-<p>We are grateful to the students willing to listen to our stories and support us,
-the practitioners of the obscure art of tech writing. One can always count on
-the students to come up with fresh ideas! They were bright, open-minded, and not
-burdened with presumptions. We wish you all the best!</p>
-<p>And thank you, Dr. Cummings, for creating such a fruitful initiative — we really
-enjoyed being a part of it.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-2024-edition-and-prospects">The 2024 edition and prospects<a href="https://techwriter.pl/district-c-collaboration#the-2024-edition-and-prospects" class="hash-link" aria-label="Bezpośredni link do The 2024 edition and prospects" title="Bezpośredni link do The 2024 edition and prospects" translate="no">​</a></h2>
-<p>In 2024, District C returned to Hitachi Energy. This time, it was led by
-<a href="https://www.linkedin.com/in/karolina-harazim-she-her/" target="_blank" rel="noopener noreferrer">Karolina Harazim</a>, our
-Internal Communications Senior Specialist, and supported by the Technical
-Writing Team.</p>
-<p>Something tells us this wasn't the last time Hitachi Energy collaborated with
-the University of North Carolina Wilmington. Until the next time!</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="additional-information-about-district-c">Additional information about District C<a href="https://techwriter.pl/district-c-collaboration#additional-information-about-district-c" class="hash-link" aria-label="Bezpośredni link do Additional information about District C" title="Bezpośredni link do Additional information about District C" translate="no">​</a></h2>
-<p>The District C program at UNCW (English Studies) aims to introduce students to
-diverse career paths and opportunities while providing valuable real-world
-experience collaborating with international companies. As an English professor
-and a certified District C coach, Dr. Lance Cummings has been instrumental in
-connecting his students with the vibrant tech writing community in Kraków,
-Poland.</p>
-<p>For more information about the program, visit the
-<a href="https://www.districtc.co/" target="_blank" rel="noopener noreferrer">official District C website</a>.</p>
-<p>Would you be interested in participating in a similar initiative? If so, get in
-touch with
-<a href="https://www.linkedin.com/in/lance-cummings-phd/" target="_blank" rel="noopener noreferrer">Dr. Lance Cummings</a>.</p>]]></content:encoded>
-            <category>dobre-praktyki</category>
-            <category>warsztat</category>
-            <category>edukacja</category>
-            <category>articles-in-english</category>
-            <category>design-thinking</category>
         </item>
     </channel>
 </rss>
