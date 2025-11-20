@@ -1,7 +1,7 @@
 ---
-title: 'Techwriter.pl skończył 12 lat: Kalendarium z nutą nostalgii'
+title: 'Techwriter.pl skończył 12 lat: Sentymentalna podróż'
 authors: niewiarowski
-date: '2025-09-18'
+date: '2025-11-19'
 tags:
   - 'społeczność'
   - 'z-kraju'
@@ -9,8 +9,19 @@ tags:
 coverImage: 'Obraz1.png'
 ---
 
+— "Czy mamy to udokumentowane???"
+— "Nie!" 
+— "No to opiszmy!". 
+
+Tym razem nietypowy artykuł, a raczej meta-artykuł: techwriter.pl pisze o
+techwriter.pl 🙂. Znajdziecie tu zebrane relacje grupy osób, dzięki którym
+powstała ta formacja i opowieść o jej dziejach. Temat jest tak rozległy, że
+czasem będziemy skakać z tematu na temat, ale obiecujemy krzepiącą konkluzję!
+
+<!--truncate-->
+
 Techwriter.pl — portal, inicjatywa i grupa ludzi, którym bliska jest komunikacja
-techniczna — istnieje już od ponad dekady. W tym artykule opisujemy:
+techniczna — istnieje już od ponad dekady. W tym artykule przybliżamy:
 
 - Początki
 - Rozwój inicjatywy
@@ -19,10 +30,8 @@ techniczna — istnieje już od ponad dekady. W tym artykule opisujemy:
 - Perspektywę założycieli
 - Jak techwriter.pl prezentuje się obecnie
 
-<!--truncate-->
-
 W tym miejscu chcemy docenić wysiłek osób zaangażowanych w działalność
-techwriter.pl, która od 12 lat wpływa znacząco na rozwój polskiej komunikacji
+techwriter.pl, która od 12 lat odciska swoje piętno na polskiej komunikacji
 technicznej. Dziękujemy uczestnikom tej inicjatywy i czytelnikom. Bez Was nie
 byłoby techwriter.pl. Jeśli ktoś ma historię, którą chciałby podzielić się z
 szerszym gronem, zapraszamy do kontaktu.
@@ -33,13 +42,11 @@ Swego czasu trafiłem na badanie płac opublikowane na portalu i odkryłem, że
 niszowa branża tech writingowa ma swoją społeczność dzielącą się wiedzą. W 2020
 roku poznałem się z Darkiem Drezno przez LinkedIn i dołączyłem do redakcji.
 
-Jak wiadomo, najciemniej jest pod latarnią: w grupie dokumentalistów o wielu
+Jak wiadomo, najciemniej bywa pod latarnią: w grupie dokumentalistów o wielu
 faktach krążyły ustne przekazy i nie wszystko było udokumentowane 😀. Dlatego
 postanowiłem porozmawiać z osobami, które tworzyły techwriter.pl na długo przed
 moim dołączeniem. Pozwólcie więc, że przekażę, co mi się udało mi się ustalić.
-Współautorem tego artykułu jest Michał Skowron, który w wielu miejscach dzieli
-się tym, co pamięta z historii portalu i swoim spojrzeniem na komunikację
-techniczną.
+Współautorem tego artykułu jest Michał Skowron.
 
 ## Początki
 
@@ -79,9 +86,9 @@ to się wszystko zaczęło! Następnie opublikował pierwszy merytoryczny artyku
 którym była
 [relacja z pierwszej odsłony Soap](../soap-technical-communication-conference-relacja/index.md).
 Wynika z tego, że w 2023 portal skończył 10 lat, a we wrześniu 2025 skończył 12
-👍🥳🎉. To należy uczcić!
+👍🥳🎉.
 
-### Współpracownicy
+### Pierwsi współpracownicy
 
 Pierwszymi osobami, które dołączyły do portalu były:
 [Marcin Górski](https://www.linkedin.com/in/gorskimarcin/),
@@ -296,7 +303,8 @@ poznacie więcej szczegółów.
 
 ### Studia podyplomowe na Akademii Vistula
 
-Darek maczał palce w wielu inicjatywach. Razem z
+Założyciel techwriter.pl maczał palce w wielu inicjatywach. Razem z
+[Radosławem Smiglinem](https://www.linkedin.com/in/smilgin/), 
 [Martą Bartnicką](https://www.linkedin.com/in/marta-bartnicka-713969/),
 [Tomaszem Prusem](https://www.linkedin.com/in/tomasz-prus-4b09b01a/) i
 [Danielem Barrio Fierro](https://www.linkedin.com/in/daniel-barrio-fierro-a95053110/)
@@ -304,9 +312,7 @@ stworzył kurs podyplomowy dla specjalistów od komunikacji. Wymagało to sporo
 czasu, wysiłku i cierpliwości, ale było warto. Dotychczas odbyło się pięć edycji
 kursu.
 
-Darek podkreśla:
-
-> Studia podyplomowe zmieniły życie zawodowe sporej grupy osób.
+Darek podkreśla to, że studia podyplomowe zmieniły życie zawodowe sporej grupy osób.
 
 Doszło też do zatoczenia intrygującego koła, kiedy absolwentki kursu na Akademii
 Vistula, zasiliły szeregi redakcji:
@@ -343,7 +349,6 @@ społeczności. Regularnie dzielą się nowinkami ze świata tech writingu i pom
 specjalistom trzymać rękę na pulsie branżowych trendów.
 
 ### Inspiracje
-
 
 Artykuły techwriter.pl tłumaczone były na język czeski.
 
@@ -394,9 +399,9 @@ _W efekcie dochodzi do zbliżenia do siebie ludzi z branży tech comm._
 _Chcemy przekazać wszystkim związanym z komunikacją techniczną, że dokładanie
 cegiełek do budowania społeczności nie jest trudne i że każdy ma coś ciekawego
 do powiedzenia. Pisanie artykułów na bloga czy nagrywanie podcastów nie jest
-zarezerwowane tylko dla wąskiej grupy wybrańców. Twoja
-wiedza, umiejętności i perspektywa mogą być bardzo pomocne dla kogoś, nawet
-jeśli jesteś na początku swojej kariery w komunikacji technicznej._
+zarezerwowane tylko dla wąskiej grupy wybrańców. Twoja wiedza, umiejętności i
+perspektywa mogą być bardzo pomocne dla kogoś, nawet jeśli jesteś na początku
+swojej kariery w komunikacji technicznej._
 
 **Dlaczego piszemy głównie po polsku?**
 
