@@ -6,7 +6,7 @@ tags:
   - 'społeczność'
   - 'z-kraju'
   - 'rocznica'
-coverImage: 'Obraz1.png'
+coverImage: 'rocznica_logo.png'
 ---
 
 — Czy mamy to udokumentowane???
@@ -23,7 +23,7 @@ którym powstała ta formacja i opowieść o jej dziejach. Temat jest tak rozleg
 <!--truncate-->
 
 Techwriter.pl — portal, inicjatywa i grupa ludzi, którym bliska jest komunikacja
-techniczna — istnieje już od ponad dekady. W tym artykule przybliżamy:
+techniczna — istnieje już od ponad dekady. W artykule przybliżamy:
 
 - Początki
 - Rozwój inicjatywy
@@ -48,7 +48,7 @@ do redakcji.
 Jak wiadomo, najciemniej bywa pod latarnią: w grupie dokumentalistów o wielu
 faktach krążyły ustne przekazy i nie wszystko było udokumentowane 😀. Dlatego
 postanowił porozmawiać z osobami, które tworzyły techwriter.pl na długo przed
-moim dołączeniem. Czy jesteście gotowi poznać nieznane wcześniej fakty?
+jego dołączeniem. Czy jesteście gotowi poznać nieznane wcześniej fakty?
 Zaczynamy!
 
 ## Początki
@@ -116,9 +116,10 @@ doszło? Przekazuję mikrofon Sabinie:
 > technicznej. Wciąż świadomość tego zawodu poza kręgami technical writerów nie
 > jest wysoka i z przyjemnością pomagam nowym osobom stawiać pierwsze kroki.
 
-> Wracając do samego techwriter.pl, to po przygotowaniu serii artykułow zrobiłam
-> pauzę w tej działalności. Kto wie, może za jakiś czas skontaktuję się z
-> redakcją z nowym materiałem do wydania 🙂.
+> Wracając do samego techwriter.pl, to po przygotowaniu
+> [serii artykułow](https://techwriter.pl/authors/szablowska) zrobiłam pauzę w
+> tej działalności. Kto wie, może za jakiś czas skontaktuję się z redakcją z
+> nowym materiałem do wydania 🙂.
 
 > Bardzo cieszy mnie, że portal wciąż funkcjonuje, znam Michała i Pawła, którzy
 > zawsze mają dużo pomysłów i energii do różnych inicjatyw. Ciekawostką jest to,
@@ -185,8 +186,8 @@ publikowała nowe treści na stronie. To ona również odpowiadała za publikacj
 mediach społecznościowych. Dziękujemy jej za zaangażowanie 🤝!
 
 A jak wyglądała współpraca z Darkiem? W redakcji, Darek dał się poznać jako
-sprawny organizator, talent manager i po prostu dobry kolega wnoszący dużo
-energii i entuzjazmu 🙂.
+sprawny organizator i po prostu dobry kolega wnoszący dużo energii i entuzjazmu
+🙂.
 
 ![Zdjęcie ze wideospotkania z Darkiem, Agnieszką, Andrzejem i Martyną.](./images/redakcja.jpg)
 
@@ -195,8 +196,8 @@ Drezno, Martyna Toporek, Andrzej Niewiarowski, Agnieszka Gaworska.**
 
 Po zmianie kierownictwa, Michał i Paweł angażują się w życie redakcji, chętnie
 dzielą się opiniami i pomysłami na dalszą działalność. Współpraca przebiega w
-przyjaznej i konstruktywnej atmosferze. Czasem brudzą sobie ręce przy pisaniu
-lub recenzowaniu artykułów 😉.
+przyjaznej i konstruktywnej atmosferze. Czasem nawet brudzą sobie ręce przy
+pisaniu lub recenzowaniu artykułów 😉.
 
 ## Kolejne kroki w rozwoju
 
@@ -241,7 +242,7 @@ Oto kilka dat istotnych dla tego tematu:
   zorganizowanej przez firmę MadCap. Wziął też udział w warsztatach i zdał
   certyfikat MadCpa Flare.
 
-Relacje pozostają dla nas ważnym nurtem bo:
+Relacje pozostają dla nas ważne bo:
 
 - Podsumowują najświeższe trendy branżowe.
 - Służą pomocą uczestnikom, którzy chcą odświeżyć sobie kluczowe fakty.
@@ -252,7 +253,7 @@ Znajdziecie też relacje z Konferencji Tłumaczy czy UA Europe.
 Techwriter.pl patronował konferencjom i wydarzeniom takim jak MadWorld, Soap,
 Write the Docs, Meet Content czy Content Bytes.
 
-Kilka Michała o patronatach:
+Kilka słów Michała o patronatach:
 
 > Jednym z ważniejszych momentów w historii portalu było nawiązanie współpracy z
 > konferencjami w Polsce i za granicą. Zacząłem wysyłać maile do organizatorów
@@ -275,10 +276,11 @@ rozwijać ankietę i dostosowywać ją do zmieniającego się krajobrazu rynku p
 
 ### Artykuły o narzędziach
 
-Poradniki z wiedzą o narzędziach i podejściach są jednymi z najbardziej
-wartościowych pozycji na blogu. Jeśli szukasz informacji na jakiś temat, wpisz
-słowo kluczowe do wyszukiwarki strony albo zobacz strony zgrupowane tagami. Jest
-duża szansa, że znajdziesz pomocny materiał.
+Poradniki z wiedzą o [narzędziach](https://techwriter.pl/tags/narzedzia) i
+podejściach są jednymi z najbardziej wartościowych pozycji na blogu. Jeśli
+szukasz informacji na jakiś temat, wpisz słowo kluczowe do wyszukiwarki strony
+albo zobacz strony zgrupowane tagami. Jest duża szansa, że znajdziesz pomocny
+materiał.
 
 ### Langłydż - z humorem o języku
 
@@ -303,9 +305,9 @@ Dziesiątki osób wzięły udział w kursach przygotowawczych i otrzymały
 certyfikaty. O wrażeniach uczestników dowiecie się z
 [relacji ze szkolenia ITCQF](../szkolenie-itcqf-relacja/index.md).
 
-W 2025 fundacja ITCQF zakończyła działalność, o czym więcej możecie przeczytać
-[tutaj](../koniec-itcqf/index.md). Zapraszamy też do poznania szerszej
-perspektywy z [wywiadu o ITCQF z Darkiem](../nostaligcznie-o-itcqf/index.md).
+W 2025 fundacja ITCQF [zakończyła działalność](../koniec-itcqf/index.md).
+Zapraszamy do poznania szerszej perspektywy z
+[wywiadu o ITCQF z Darkiem](../nostaligcznie-o-itcqf/index.md).
 
 ### Studia podyplomowe na Akademii Vistula
 
@@ -322,7 +324,7 @@ Darek podkreśla to, że studia podyplomowe zmieniły życie zawodowe sporej gru
 osób.
 
 Doszło też do zatoczenia intrygującego koła, kiedy absolwentki kursu na Akademii
-Vistula, zasiliły szeregi redakcji:
+Vistula zasiliły szeregi redakcji:
 [Justyna Kula](https://www.linkedin.com/in/justyna-kula-5778a391/) i
 [Magda Niedźwiecka-Pruszkowska](https://www.linkedin.com/in/magdaniedzwiecka/).
 
@@ -442,8 +444,8 @@ jest dzielenie się wiedzą, a nie promowanie jakiegoś logo czy firmy._
 
 _Podstawowymi wyzwaniami zawsze są brak czasu i ludzi. Ciężko jest prowadzić
 portal i regularnie dostarczać bogate merytorycznie artykuły. Szybkie wpisy o
- wydarzeniach nie są problemem, jednak porządny artykuł wymaga
-czasu i nakładu pracy._
+wydarzeniach nie są problemem, jednak porządny artykuł wymaga czasu i nakładu
+pracy._
 
 _Niełatwo znaleźć grupę chętną do udzielania się. Portal nie jest nastawiony na
 zysk finansowy, artykuły są pisane w wolnym czasie i pro bono. Naturalne jest,
@@ -507,8 +509,8 @@ Pojawiło się więcej artykułów po angielsku.
 Powstały sekcje z linkami do przydatnych materiałów i odświeżyliśmy sposób
 prezentacji listy nadchodzących konferencji.
 
-Wciąż wspieramy różne wydarzenia i inicjatywy, dla których jesteśmy
-partnerami medialnymi. Chcemy aktywnie działać i rozwijać społeczność.
+Wciąż wspieramy różne wydarzenia i inicjatywy, dla których jesteśmy partnerami
+medialnymi. Chcemy aktywnie działać i rozwijać społeczność.
 
 Staramy się na bieżąco informować społeczność o aktualnych trendach w obszarze
 tech writingu w Polsce, a także o dostępnych narzędziach i nowościach
@@ -541,6 +543,8 @@ Parafrazując tytuł ósmego albumu AD/DC:
 [Źródło](https://www.discogs.com/release/2055214-ACDC-For-Those-About-To-Rock-We-Salute-You)
 obrazka.
 
+Grafikę tytułową wygenerowaliśmy w Gemini.
+
 ## Źródła
 
 - Wpis Darka na
@@ -561,3 +565,4 @@ obrazka.
 - Tag z relacjami z [Soap](https://techwriter.pl/tags/soap)
 - Tag z relacjami z [Write the Docs](https://techwriter.pl/tags/write-the-docs)
 - Tag z serią [Langłydż](https://techwriter.pl/tags/langłydż)
+- Tag o [narzędziach](https://techwriter.pl/tags/narzedzia)
