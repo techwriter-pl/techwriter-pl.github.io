@@ -201,7 +201,8 @@ pisaniu lub recenzowaniu artykułów 😉.
 
 ## Kolejne kroki w rozwoju
 
-Przyjrzyjmy się rozwojowi portalu.
+Przyjrzyjmy się jak portal się rozwijał i jakie cykle tematyczne z biegiem czasu
+się pojawiły.
 
 ### Oferty pracy
 
