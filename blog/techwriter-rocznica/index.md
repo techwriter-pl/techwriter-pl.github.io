@@ -494,9 +494,9 @@ W porównaniu z sytuacją z 2013, liczba osób identyfikująca się zawodowo jak
 uwzględniono innych określeń stanowiska, co oznacza, że w tym zawodzie było
 więcej niż te 2200 osób.
 
-## Techwriter.pl — kluczowe wydarzenia
+## Techwriter.pl — kluczowe wydarzenia i dalsze plany
 
-Podsumujmy, co działo się w ostatnim czasie.
+Podsumujmy, co działo się w ostatnim czasie i jakie są plany redakcji.
 
 W 2023 Darek przekazał stery w zakresie prowadzenia portalu. Obecnie portalem
 zarządzają Michał i Paweł.
