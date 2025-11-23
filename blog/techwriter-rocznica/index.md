@@ -298,7 +298,7 @@ certyfikaty. O wrażeniach uczestników dowiecie się z
 
 W 2025 zakończyła ona swoją działalność, o czym więcej możecie przeczytać
 [tutaj](../koniec-itcqf/index.md). Zapraszamy też do przeczytania
-[wywiadu o ITCQF z Darkiem](../nostaligcznie-o-itcqf/index.md), z którego
+[wywiadu o ITCQF z Darkiem](../nostalgicznie-o-itcqf/index.md), z którego
 poznacie więcej szczegółów.
 
 ### Studia podyplomowe na Akademii Vistula
