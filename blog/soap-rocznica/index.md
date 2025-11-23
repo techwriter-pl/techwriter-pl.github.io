@@ -17,7 +17,7 @@ się:
 
 - Skąd wział się pomysł na tę konferencję?
 - O co chodzi z tym mydłem?
-- Co kyje się za akronimem S-O-A-P?
+- Co kryje się za akronimem S-O-A-P?
 - Jak przebiegał rozwój tej inicjatywy i co z niej wynikło?
 - Jaki wpływ odcisnęła ona na branżę technical writingu?
 
@@ -39,7 +39,7 @@ DocBook do innego narzędzia. Gosia miała niespełna rok doświadczenia w IBM g
 poznawała DITA. Członkowie zespołu mieli dużo pytań. Razem doszli do wniosku:
 
 > Nie ma szans, ze tylko my spotkalismy sie z tymi problemami, ktos juz to
-> rozgryzl.
+> rozgryzł.
 
 Pojechali więc w trójkę do Londynu na trzydniową konferencję :
 [Congility](https://www.ditawriter.com/interview-with-noz-urbina-about-the-upcoming-congility-conference/))
