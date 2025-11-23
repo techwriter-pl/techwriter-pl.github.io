@@ -16,7 +16,7 @@ przyczyniły się do przyspieszenia jej rozwoju. Z jubileuszowego artykułu dowi
 się:
 
 - Skąd wział się pomysł na tę konferencję?
-- O co chodzi z tym mydłem?
+- O co chodzi z tym różowym mydłem?
 - Co kryje się za akronimem S-O-A-P?
 - Jak przebiegał rozwój tej inicjatywy i co z niej wynikło?
 - Jaki wpływ odcisnęła ona na branżę technical writingu?
@@ -42,7 +42,7 @@ poznawała DITA. Członkowie zespołu mieli dużo pytań. Razem doszli do wniosk
 > rozgryzł.
 
 Pojechali więc w trójkę do Londynu na trzydniową konferencję :
-[Congility](https://www.ditawriter.com/interview-with-noz-urbina-about-the-upcoming-congility-conference/))
+[Congility](https://www.ditawriter.com/interview-with-noz-urbina-about-the-upcoming-congility-conference/)
 na której prelegentem był [Noz Urbina](https://www.linkedin.com/in/nozurbina/).
 
 Konferencja było bardzo udana, wypełniały ją spotkania, nawiązywanie kontaktów,
@@ -64,7 +64,9 @@ oferowałby taką wiedzę.
 
 ### Przygotowania
 
-> Robimy długi research? Nieee, nauczymy się robiąc.
+> Robimy długi research?
+
+> Nieee, nauczymy się robiąc.
 
 Miał to być świeży start dla technical writingu. Młodość, dynamiczna społeczność
 dla technical writerów i specjalizacji powiązanych, takich jak tworzenie grafik
@@ -120,45 +122,25 @@ robili wielkie wielkiego demo swojego produktu.
 Paulina i Paweł czuli się zmeczeni przez planowanie po pracy i czas wolny
 wypełniony organizacją konferencji.
 
-### Obecny zespół od drugiej edycji
+### Obecny zespół od czasu drugiej edycji
 
-Gosia chciała pociągnąć ten wysiłek dalej i dlatego powstał nowy zespół, któremu
-przewodziła. W skład zespołu weszli:
+Gosia chciała pociągnąć ten wysiłek dalej. W skład zespołu weszli:
 
-- Karolina
-- Piter z Wyższej Szkoły Europejskiej.
-- Iga, która odbyła kurs technical writingowy dla studentów Uniwersytetu.
-  Jagielońskiego wraz z Gosia, kiedy była w Motoroli.
-- Aga Tkaczyk-Walczak z IBM.
-
-Gosia Radymiak
-
-Agnieszka Tkaczyk
-
-Karolina Karbarz
-
-Piotr Milewski
-
-Iga Koprowska
-
-### Podział ról
-
-Piotr odpowiada za speakerów i trenerów. Laptopy, ekrany, współpraca z Muzeum
-Sztuki i Techniki Japońskiej Manggha.
-
-Aga - sponsorzy i partnerzy
-
-Iga - media społecznościowe, komunikaty, copywriting na stronę, posty.
-
-Karolina - strona internetowa, grafiki, szata graficzna.
-
-Gosia - Project Manager spina wszystko w całość, driver projektu.
+- Gosia Radymiak - Project Manager, który spina wszystko w całość, "_driver_"
+  projektu.
+- Karolina Karbarz - strona internetowa, grafiki, szata graficzna.
+- Piotr Milewski a.k.a. "Piter" z Wyższej Szkoły Europejskiej. Odpowiada za
+  speakerów i trenerów. Laptopy, ekrany, współpraca z Manggha.
+- Iga Koprowska, która odbyła kurs technical writingowy dla studentów
+  Uniwersytetu. Jagielońskiego wraz z Gosia, kiedy była w Motoroli. Iga
+  odpowiada za media społecznościowe, komunikaty, copywriting na stronę, posty.
+- Agnieszka Tkaczyk z IBM. Odpowiada za sponsorów i partnerów
 
 ## Soap po raz drugi: 2-3 październik 2014
 
 Ekipa postanowiła zmienić miejsce z powodu ograniczeń wcześniejszej lokalizacji.
-Wybrali budynek dawnej fabryki kabli, który został zaadaptowany na przestrzenie
-biurowe. Po raz pierwszy zrobili warsztaty.
+Wybrali klimatyczny budynek dawnej fabryki kabli, który został zaadaptowany na
+przestrzenie biurowe. Po raz pierwszy zrobili warsztaty.
 
 Paweł pełnił rolę konferansjera.
 
@@ -176,7 +158,7 @@ musieli siedzieć w kurtkach i szalikach, było bardzo zimno (październik).
 Mimo takich trudności, morale i poziom merytoryczny wydarzenia były nader
 wysokie.
 
-## Soap po raz czwarty: 2-3 czerwca 2016
+## Soap po raz czwarty: 1-3 czerwca 2016
 
 Po raz pierwszy konferencja odbyła się w Mangha - dobra chemia i perspektywy na
 przyszłość. Od tamtego czasu, wszystkie kolejne edycje odbywały się w Muzeum
@@ -187,7 +169,7 @@ konferencji osobom z publiczności zadającym, odpowiadają na pytania, na skute
 załatwiają potrzebne rzeczy, wydrukują co trzeba. Maja mnóstwo pomysłów. 31 LO
 charakteryzuje się tym, że jest tam dużo aktywności dla uczniów.
 
-_"We" versus "They"_.
+Temat przewodni: _"We" versus "They"_.
 
 ## Soap po raz piąty: 7-9 czerwca 2017
 
@@ -195,11 +177,11 @@ Temat przewodni: _Problem Solving_.
 
 ## Soap po raz szósty: 23-25 maja 2018
 
-Innowacja kontra prostota.
+Temat przewodni: Innowacja kontra prostota.
 
 ## Soap po raz siódmy: 5-7 czerwca 2019
 
-_Content as Code_.
+Temat przewodni: _Content as Code_.
 
 ## Przerwa pandemiczna 2020-2021
 
@@ -218,7 +200,7 @@ Temat wiodący: przyszłość technical writingu.
 
 Soapuszka z Soap 2022 przekazana przez Roberta Pawlickiego do Soapuszka Crew w
 składzie: Magda Elias, Martyna Gatner-Siemieniuch, Joanna Sosnowska, Ekaterina
-Pervezentseva, Marcin Broda. W 2023 roku przekazana Lance'owi Cummingsowi.
+Pervezentseva, Marcin Broda. W 2023 roku poduszka trafiła do Lanca Cummingsa.
 
 Soapuszka zwiedziła kawał świata, żyła intensywnie i na krawędzi, co przypłaciła
 tym, że popruła się i rozpadła na kawałki.
@@ -288,13 +270,14 @@ Meet Content i Content Bytes. Meet Content nadal działa we Wrocławiu. Oddział
 krakowski przestał być aktywny. W Krakowie powstała nowa marka Content Bytes
 założona przez Barbarę Czyż i Edytę Rakowską.
 
-## Soap rocznica
+## Rocznica
 
-W 2023 roku całej inicjatywie stuknęło 10 lat, pierwsza edycja była w
-październiku 2013.
+Pierwsza edycja odbyła się w październiku 2013. W 2023 roku całej inicjatywie
+stuknęło 10 lat.
 
 W październiku 2025 Soap skończył 12 lat! Gratulacje dla ekipy organizującej te
-cudowne wydarzenia i dla wszystkich uczestników.
+cudowne wydarzenia i dla wszystkich jej uczestników. Warto było dzielić te
+doświadczenia.
 
 ## Dalsza lektura
 
@@ -302,19 +285,8 @@ cudowne wydarzenia i dla wszystkich uczestników.
 
 Tag z listą relacji z [Soap](https://techwriter.pl/tags/soap)
 
-- 2023: SOAP 9
-  [Relacja z tegorocznej konferencji soap 2023!](../relacja-z-tegorocznej-konferencji-soap-2023/index.md)
-- 2022: SOAP 8
-  [Doniesienia z tegorocznej konferencji Soap 2022!](../doniesienia-z-tegoroczenj-konferencji-soap-2022/index.md)
-- 2019: SOAP 7
-  [Konferencja Soap 2019 - (wideo)relacja](../konferencja-soap-2019-wideorelacja/index.md)
-- 2018: SOAP 6
-  [Konferencja Soap 2018 - relacja](../konferencja-soap-2018-relacja/index.md)
-- 2017: SOAP 5
-  [Soap 2017 już za nami - relacja](../soap-2017-juz-za-nami-relacja/index.md)
-- 2016: SOAP 4
-  [Konferencja Soap 2016 - podsumowanie](../konferencja-soap-2016-podsumowanie/index.md)
-- 2015: SOAP 3 [Namydleni po raz trzeci](../namydleni-po-raz-trzeci/index.md)
+- 2013: SOAP 1
+  [Soap technical communication conference - relacja](../soap-technical-communication-conference-relacja/index.md)
 - 2014: SOAP 2 [Mydło lubi zabawę](../mydlo-lubi-zabawe/index.md)
 - 2014: SOAP 2
   [Soap Just Wants to Have Fun](../soap-just-wants-to-have-fun/index.md)
@@ -322,10 +294,16 @@ Tag z listą relacji z [Soap](https://techwriter.pl/tags/soap)
   [Soap 2014 - summary of day 1](../soap-2014-summary-of-day-1/index.md)
 - 2014: SOAP 2
   [Soap 2014 - summary of day 2](../soap-2014-summary-of-day-2/index.md)
-- 2013: SOAP 1
-  [Soap technical communication conference - relacja](../soap-technical-communication-conference-relacja/index.md)
-
-### Bonus
-
-- 2022:
-  [Konferencje Write the Docs i Soap - porównanie stylów](../konferencje-soap-i-write-the-docs-porownanie-stylow)
+- 2015: SOAP 3 [Namydleni po raz trzeci](../namydleni-po-raz-trzeci/index.md)
+- 2016: SOAP 4
+  [Konferencja Soap 2016 - podsumowanie](../konferencja-soap-2016-podsumowanie/index.md)
+- 2017: SOAP 5
+  [Soap 2017 już za nami - relacja](../soap-2017-juz-za-nami-relacja/index.md)
+- 2018: SOAP 6
+  [Konferencja Soap 2018 - relacja](../konferencja-soap-2018-relacja/index.md)
+- 2019: SOAP 7
+  [Konferencja Soap 2019 - (wideo)relacja](../konferencja-soap-2019-wideorelacja/index.md)
+- 2022: SOAP 8
+  [Doniesienia z tegorocznej konferencji Soap 2022!](../doniesienia-z-tegoroczenj-konferencji-soap-2022/index.md)
+- 2023: SOAP 9
+  [Relacja z tegorocznej konferencji soap 2023!](../relacja-z-tegorocznej-konferencji-soap-2023/index.md)
