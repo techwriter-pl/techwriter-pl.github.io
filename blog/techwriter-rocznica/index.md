@@ -32,11 +32,11 @@ techniczna — istnieje już od ponad dekady. W artykule przybliżamy:
 - Perspektywę założycieli
 - Jak techwriter.pl prezentuje się obecnie
 
-Dziękujemy wszystkim osobom, które angażowały się, zarówno tym, które pisały
-artykuły jak i tym, które te je czytały. Cieszymy się, że od 12 lat, wspólnie
-odciskamy ślad na polskiej komunikacji technicznej. Jeśli ktoś zna historię,
-której tu nie poruszyliśmy i chciałby podzielić się nią z szerszym gronem,
-zapraszamy do kontaktu.
+Dziękujemy wszystkim osobom, które angażowały się w działalność portalu, zarówno
+tym, które pisały artykuły jak i tym, które je czytały. Cieszymy się, że od 12
+lat, wspólnie odciskamy ślad na polskiej komunikacji technicznej. Jeśli ktoś zna
+historię, której tu nie poruszyliśmy i chciałby podzielić się nią z szerszym
+gronem, zapraszamy do kontaktu.
 
 ## Pomysł na artykuł
 
@@ -65,7 +65,7 @@ który odegrał dużą rolę w tworzeniu i rozwijaniu portalu:
 
 > Było wtedy zdecydowanie mniej ofert pracy. Świadomość tego zawodu w Polsce
 > była niska. Ja sam na początku nie miałem pojęcia, że tech comm to działka,
-> która ma swoje zasady, dobre praktyki, szkolenia, itp. Początkowo znajdywałem
+> która ma swoje zasady, dobre praktyki, szkolenia, itp. Początkowo znajdowałem
 > tylko zagraniczne materiały.
 
 > Po paru miesiącach, wróciłem do szukania materiałów w języku polskim i wtedy
@@ -111,7 +111,7 @@ doszło? Przekazuję mikrofon Sabinie:
 > dumy. Działalność w redakcji dobrze punktowała w późniejszych rozmowach
 > rekrutacyjnych. Dodam tutaj, że w mojej dalszej karierze zebrałam
 > doświadczenie w kilku kolejnych firmach, najpierw jako jedyna technical
-> writera w zespole, następnie jako liderka zespołu dokumentacji. Sporą
+> writerka w zespole, następnie jako liderka zespołu dokumentacji. Sporą
 > satysfakcję sprawia mi wprowadzanie nowych osób w świat komunikacji
 > technicznej. Wciąż świadomość tego zawodu poza kręgami technical writerów nie
 > jest wysoka i z przyjemnością pomagam nowym osobom stawiać pierwsze kroki.
@@ -137,7 +137,7 @@ Po kilku latach aktywnego działania zrobił sobie dłuższą przerwę, podczas 
 razem z [Pawłem Kowalukiem](https://www.linkedin.com/in/pawel-kowaluk/) założył
 i rozwinął podcast "Tech Writer Koduje". W 2023 Darek odszedł na zasłużoną
 emeryturę jako głównodowodzący techwriter.pl i przekazał stery Michałowi
-Skowronowi, Pawłowi Kowalukowi i Tomkowi Prusowi. (Tomek po kilku miesiącach
+Skowronowi, Pawłowi Kowalukowi i Tomkowi Prusowi (Tomek po kilku miesiącach
 wycofał się z tej działalności).
 
 Ważną postacią w historii portalu jest
@@ -222,7 +222,7 @@ Tak temat networkingu podsumowuje sam Michał:
 > Przykładem może być historia jednego kolegi redakcyjnego. Kilka lat temu,
 > dołączył on na krótko do redakcji i w tamtym czasie chciał po dłuższej
 > przerwie powrócić do zawodu tech writera. Podrzuciłem namiar na niego mojemu
-> znajomemu, który miał firmę otwartą na zatrudnienie osoby z niewielkim
+> znajomemu, który wtedy pracował w firmie otwartej na zatrudnienie osoby z niewielkim
 > doświadczeniem w komunikacji technicznej. Z tego co wiem, nasz były kolega
 > redakcyjny nadal tam pracuje jako tech writer 😄.
 
@@ -241,18 +241,18 @@ Oto kilka dat istotnych dla tego tematu:
   później
   [opisać wrażenia z konferencji MadWorld](../madworld-2017-relacja/index.md),
   zorganizowanej przez firmę MadCap. Wziął też udział w warsztatach i zdał
-  certyfikat MadCpa Flare.
+  certyfikat MadCap Flare.
 
 Relacje pozostają dla nas ważne bo:
 
 - Podsumowują najświeższe trendy branżowe.
-- Służą pomocą uczestnikom, którzy chcą odświeżyć sobie kluczowe fakty.
+- Są pomocne dla uczestników, którzy chcą odświeżyć sobie kluczowe fakty po zakończeniu wydarzenia.
 - Dają pojęcie o konferencji tym, którzy nie mogli w niej wziąć udziału.
 
 Znajdziecie też relacje z Konferencji Tłumaczy czy UA Europe.
 
 Techwriter.pl patronował konferencjom i wydarzeniom takim jak MadWorld, Soap,
-Write the Docs, Meet Content czy Content Bytes.
+Write the Docs, MeetContent czy Content Bytes.
 
 Kilka słów Michała o patronatach:
 
@@ -342,9 +342,9 @@ grupy się przenikają i wpływają na siebie.
 Domyślamy się, że artykuły z techwriter.pl docierały również do odbiorców z poza
 Polski. Wiemy, że artykuły tłumaczone były na język czeski.
 
-Portal okazał się inspiracją dla Ivana Chebana, który założył anglojęzyczny blog
-rozwijany przez ukraińskich pisarzy technicznych (obecnie z różnych przyczyn
-blog nie funkcjonuje).
+Portal okazał się inspiracją dla Ivana Chebana, który założył anglojęzyczny
+[blog](https://ua-writers-next.netlify.app/en) rozwijany przez ukraińskich
+pisarzy technicznych.
 
 ### Grupa na Facebooku i strona na LinkedIn
 
@@ -522,7 +522,7 @@ zmian w narzędziach i metodach dokumentacyjnych. Dzięki temu writerzy mogą
 szybciej adaptować się do zmian i rozwijać swoje kompetencje.
 
 Przykład: nagłaśniamy działania stowarzyszenia
-[SAiIT](https://saiit.odoo.com/infol) zrzeszającego technical writerów i
+[SAiIT](https://saiit.odoo.com/info) zrzeszającego technical writerów i
 ilustratorów technicznych.
 
 ## Zakończenie od autora
@@ -537,7 +537,7 @@ Uważa, że należy docenić to, co w komunikacji technicznej wszyscy razem
 osiągnęliśmy. Z optymizmem patrzy na dalszy rozwój naszej branży i życzy Wam w
 niej samych sukcesów.
 
-Parafrazując tytuł ósmego albumu AD/DC:
+Parafrazując tytuł ósmego albumu AC/DC:
 
 ![Okładka płyty AC/DC przedstawiająca armatę, gdzie słowa "For those about to rock, we salute you" przerobiono na "For those about to DOC, we salute you!".](images/salute.png)
 
