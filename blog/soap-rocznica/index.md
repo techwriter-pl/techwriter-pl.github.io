@@ -36,33 +36,33 @@ wraz z uczestnikami.
 W 2013, Paulina Dygoń, Gosia Radymiak i Paweł Kowaluk pracowali w tej samej
 firmie. W obrębie ich zespołu dokumentacyjnego zapadła decyzja o przejściu z
 DocBook do innego narzędzia. Gosia miała niespełna rok doświadczenia w IBM gdzie
-poznawała DITA. Członkowie zespołu mieli dużo pytań. Razem doszli do wniosku:
+poznawała DITA. W związku z przejściem na inne rozwiązanie, członkowie zespołu
+mieli dużo pytań. Razem doszli do wniosku:
 
-> Nie ma szans, ze tylko my spotkalismy sie z tymi problemami, ktos juz to
-> rozgryzł.
+> Nie ma szans, że tylko my spotkalismy sie z tymi problemami, ktoś już
+> wcześniej musiał to rozgryźć.
 
-Pojechali więc w trójkę do Londynu na trzydniową konferencję :
+Dlatego też pojechali w trójkę do Londynu na trzydniową konferencję :
 [Congility](https://www.ditawriter.com/interview-with-noz-urbina-about-the-upcoming-congility-conference/)
 na której prelegentem był [Noz Urbina](https://www.linkedin.com/in/nozurbina/).
 
 Konferencja było bardzo udana, wypełniały ją spotkania, nawiązywanie kontaktów,
 przekazywanie wiedzy.
 
-Trójka bohaterów wystąpiła z pomysłem żeby firma wysłała ich do Wielkiej
-Brytanii na delegację UK ale koszt był niebanalny. Był wtedy czerwiec 2013 roku.
-Postanowili w październiku tamtego roku zrobić własną konferencję w Polsce.
+Po powrocie, trójka bohaterów przedstawiła pomysł żeby firma wysłała ich do
+Wielkiej Brytanii na delegację ale koszt był niebanalny. Był wtedy czerwiec 2013
+roku. Postanowili w październiku tamtego roku zrobić własną konferencję w
+Polsce.
 
 ## Stan branży w 2013
 
-Nie wiadomo było ile technical writerów było wtedy w Polsce. Osoby wykonujące
-ten zawód narzekały na izolujące doświadczenie zawodowe, ograniczony feedback od
-ekspertów, z którymi pracowali. Nasi bohaterowie czuli potrzebę zwiększenia
-świadomości o branży. Brakowało wtedy takich kierunków na studiach, które
-oferowałby taką wiedzę.
+Jak wyglądała wtedy scena technical writingu? Nie wiadomo ilu technical
+writerów było wtedy w Polsce. Osoby wykonujące ten zawód narzekały na izolujące
+doświadczenie zawodowe i ograniczony feedback od ekspertów, z którymi pracowali.
+Nasi bohaterowie czuli potrzebę zwiększenia świadomości o branży. Brakowało
+wtedy takich kierunków na studiach, które oferowałby taką wiedzę.
 
-## Pierwszy Soap - 3 październik 2013
-
-### Przygotowania
+## Przygotowania do pierwszego Soap
 
 > Robimy długi research?
 
@@ -94,11 +94,13 @@ Słowa brzmią ambitnie, profesjonalnie i nieco tajemniczo.
 - Odbiorcę
 - Speakerów
 
-W 4 miesiące zrobili międzynarodowe wydarzenie.
+W 4 miesiące zorganizowali międzynarodowe wydarzenie.
 
-W wydarzeniu wzięło udział 100 osób, odbyło się ono na uczelni na Wyższej Szkoły
-Europejskiej im. ks. Józefa Tischnera, której Gosia była absolwentką.
-Organizatorzy Soap znaleźli 2-3 sponsorów. Agnieszka Tkaczyk robiła
+## Soap nr 1 - 3 październik 2013
+
+W konferencji wzięło udział 100 osób, odbyła się ono na uczelni na Wyższej
+Szkoły Europejskiej im. ks. Józefa Tischnera, której Gosia była absolwentką.
+Organizatorzy Soap znaleźli kilku sponsorów. Agnieszka Tkaczyk robiła
 konferansjerkę i świetnie sobie poradziła mimo wadliwego projektora.
 
 Noz Urbina zgodził się być speakerem na tym wydarzeniu.
@@ -114,8 +116,8 @@ doświadczonych speakerów.
 
 ### Sponsorzy
 
-Udawało się dobrze dogadywać ze sponsorami, którzy wtapiali się w tłum, nie
-robili wielkie wielkiego demo swojego produktu.
+Udawało się dobrze dogadywać ze sponsorami, których obecność na konferencji była
+nienachalna, nie robili wielkie wielkiego demo swojego produktu.
 
 ## Po pierwszym Soap
 
@@ -144,14 +146,14 @@ przestrzenie biurowe. Po raz pierwszy zrobili warsztaty.
 
 Paweł pełnił rolę konferansjera.
 
-Pierwszy (darmowy) dzień konferencji przyciągnął 170 uczestników, drugi (płatny)
+Pierwszy, darmowy dzień konferencji przyciągnął 170 uczestników, drugi płatny
 dzień 80.
 
 ## Soap po raz trzeci: 8-9 października 2015
 
-Plaża Krakow jakas salka.
+Plaża Krakow jakieś lokum, które należy przemilczeć.
 
-Zimno? Jak to czasem bywa, nie z winy organizatorów, pojawiły się trudności.
+Jak to czasem bywa, nie z winy organizatorów, pojawiły się trudności.
 Wynajmujący zapomniał wspomnieć o dziurze w dachu. Było tak zimno, że uczestnicy
 musieli siedzieć w kurtkach i szalikach, było bardzo zimno (październik).
 
@@ -190,7 +192,7 @@ Jak w wielu obszarach życia, pandemia wszystko zmieniła i sporo namieszała.
 W edycji z czerwca 2019 odnotowano najwyższą liczbę uczestników. Ludzie stali
 się mniej skłonni do podróży.
 
-Trudniej też było znaleźć sponsorów.
+Trudniej było znaleźć sponsorów.
 
 ## Soap po raz ósmy: 1-3 czerwca 2022
 
@@ -209,16 +211,16 @@ tym, że popruła się i rozpadła na kawałki.
 
 Wyjątkową nowością, jaką tylko uświadczyliśmy na konferencji w 2022, był
 teleturniej. Oto
-[kultowy zwiastun](https://www.linkedin.com/posts/soap-techcomm_excitingnewsalert-supergame-soapconf-activity-6920791703234699264-6mUf)
+[kultowy zwiastun](https://www.linkedin.com/posts/soap-techcomm_excitingnewsalert-supergame-soapconf-activity-6920791703234699264-6mUf).
 W czasie konkursu było dużo śmiechu. Każdy miał szansę wykazania się wiedzą o
 technical writingu. Emocje sięgnęły zenitu, a sztuczna inteligencja stworzona na
-potrzeby teleturnieju przez Pawła, zaczęła żyć własnym życiem i zaznaczała swoją
-niezależność.
+potrzeby teleturnieju przez Pawła zaczęła żyć własnym życiem i co i rusz
+zaznaczała swoją niezależność.
 
 ## Soap po raz dziewiąty: 1-3 czerwca 2023
 
 Ostatnia edycja konferencji jaka dotychczas miała miejsce. Powrót po przerwie
-należał do trudnych. Co robić, potrzebe było odświeżenie, bo utarły się dobre i
+należał do trudnych. Co robić, potrzebne było odświeżenie, bo utarły się dobre i
 złe rzeczy.
 
 Temat przewodni: Content Operations.
@@ -272,7 +274,7 @@ założona przez Barbarę Czyż i Edytę Rakowską.
 
 ## Rocznica
 
-Pierwsza edycja odbyła się w październiku 2013. W 2023 roku całej inicjatywie
+Pierwsza edycja Soap odbyła się w październiku 2013. W 2023 roku całej inicjatywie
 stuknęło 10 lat.
 
 W październiku 2025 Soap skończył 12 lat! Gratulacje dla ekipy organizującej te
