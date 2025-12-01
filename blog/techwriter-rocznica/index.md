@@ -57,8 +57,9 @@ Zaczynamy!
 
 Portal powstał z inicjatywy
 [Darka Drezno](https://www.linkedin.com/in/dariusz-drezno/) związanego z branżą
-testerską. W 2012, Darek zauważył, że nie było polskojęzycznej strony branżowej
-i brakowało też kursów podnoszących kwalifikacje specjalistów od dokumentacji.
+testerską. W 2012, Darek zauważył, że nie było polskojęzycznej strony
+poświęconej komunikacji technicznej i brakowało kursów podnoszących kwalifikacje
+specjalistów od dokumentacji.
 
 O tym, jak w 2012 wyglądał rynek technical writingu opowiada też Michał Skowron,
 który odegrał dużą rolę w tworzeniu i rozwijaniu portalu:
@@ -72,13 +73,13 @@ który odegrał dużą rolę w tworzeniu i rozwijaniu portalu:
 > trafiłem na techwriter.pl. Byłem tak podekscytowany tym, że pojawił się taki
 > portal w języku polskim, że dość szybko zdecydowałem się dołączyć.
 
-> Konferencja Soap stawiała wtedy pierwsze kroki, nie było jeszcze meetupów tech
-> commowych.
+> Konferencja soap! stawiała wtedy pierwsze kroki, nie było jeszcze meetupów
+> tech commowych.
 
 Michał, podobnie jak inne osoby z którymi rozmawiałem, podkreśla, że w tamtym
 czasie "unosił się pionierski duch" i było dużo przestrzeni do zagospodarowania.
 Z związku z tym Darek, zainspirowany inicjatywą
-[Radosława Smiglina](https://www.linkedin.com/in/smilgin/) i społecznością
+[Radosława Smilgina](https://www.linkedin.com/in/smilgin/) i społecznością
 [testerzy.pl](https://www.linkedin.com/company/testerzy/), postanowił stworzyć
 coś podobnego, ale dla technical writerów.
 
@@ -87,7 +88,7 @@ coś podobnego, ale dla technical writerów.
 Darek dodał [powitalny wpis](../witaj-swiecie/index.md) 18 września 2013. I tak
 to się wszystko zaczęło! Następnie opublikował pierwszy merytoryczny artykuł,
 którym była
-[relacja z pierwszej odsłony Soap](../soap-technical-communication-conference-relacja/index.md).
+[relacja z pierwszej odsłony soap!](../soap-technical-communication-conference-relacja/index.md).
 Wynika z tego, że w 2023 portal skończył 10 lat, a we wrześniu 2025 skończył 12
 👍🥳🎉.
 
@@ -222,18 +223,19 @@ Tak temat networkingu podsumowuje sam Michał:
 > Przykładem może być historia jednego kolegi redakcyjnego. Kilka lat temu,
 > dołączył on na krótko do redakcji i w tamtym czasie chciał po dłuższej
 > przerwie powrócić do zawodu tech writera. Podrzuciłem namiar na niego mojemu
-> znajomemu, który wtedy pracował w firmie otwartej na zatrudnienie osoby z niewielkim
-> doświadczeniem w komunikacji technicznej. Z tego co wiem, nasz były kolega
-> redakcyjny nadal tam pracuje jako tech writer 😄.
+> znajomemu, który wtedy pracował w firmie otwartej na zatrudnienie osoby z
+> niewielkim doświadczeniem w komunikacji technicznej. Z tego co wiem, nasz były
+> kolega redakcyjny nadal tam pracuje jako tech writer 😄.
 
 ### Konferencje - relacje i współpraca
 
-Następnym ważnym aspektem były relacje z konferencji i współpraca partnerska z
+Następnym ważnym aspektem były relacje z
+[konferencji](https://techwriter.pl/tags/konferencje) i współpraca partnerska z
 organizatorami.
 
 Oto kilka dat istotnych dla tego tematu:
 
-- W 2013 opublikowaliśmy relację z pierwszej konferencji Soap.
+- W 2013 opublikowaliśmy relację z pierwszej konferencji soap!.
 
 - W 2016 pojawiła się pierwsza relacja z Write the Docs.
 
@@ -246,12 +248,13 @@ Oto kilka dat istotnych dla tego tematu:
 Relacje pozostają dla nas ważne bo:
 
 - Podsumowują najświeższe trendy branżowe.
-- Są pomocne dla uczestników, którzy chcą odświeżyć sobie kluczowe fakty po zakończeniu wydarzenia.
+- Są pomocne dla uczestników, którzy chcą odświeżyć sobie kluczowe fakty po
+  zakończeniu wydarzenia.
 - Dają pojęcie o konferencji tym, którzy nie mogli w niej wziąć udziału.
 
 Znajdziecie też relacje z Konferencji Tłumaczy czy UA Europe.
 
-Techwriter.pl patronował konferencjom i wydarzeniom takim jak MadWorld, Soap,
+Techwriter.pl patronował konferencjom i wydarzeniom takim jak MadWorld, soap!,
 Write the Docs, MeetContent czy Content Bytes.
 
 Kilka słów Michała o patronatach:
@@ -263,25 +266,26 @@ Kilka słów Michała o patronatach:
 
 ### Wywiady
 
-Następną żelazną pozycją stanowią wywiady z technical writerami. Zapoczątkowany
-w 2015 cykl jest formą prezentowania sylwetek osób aktywnych na scenie tech
-commu. To dobry sposób na przedstawienie swojej unikalnej perspektywy,
-zainteresowania i doświadczenia.
+Następną żelazną pozycją stanowią [wywiady](https://techwriter.pl/tags/wywiady)
+z technical writerami. Zapoczątkowany w 2015 cykl jest formą prezentowania
+sylwetek osób aktywnych na scenie tech commu. To dobry sposób na przedstawienie
+swojej unikalnej perspektywy, zainteresowania i doświadczenia.
 
-### Ankieta płac
+### Badanie płac
 
-Kolejnym cyklem budzącym spore zainteresowanie jest rozpoczęta w w 2017 ankieta
-płac. Choć liczba respondentów nie przekroczyła 133 osób, ankieta przedstawia
-ewolucję płac osób związanych z technical writingiem. Dokładamy starań, by
-rozwijać ankietę i dostosowywać ją do zmieniającego się krajobrazu rynku pracy.
+Kolejnym cyklem budzącym spore zainteresowanie jest rozpoczęte w 2017
+[badanie płac](https://techwriter.pl/tags/badanie-plac). Choć liczba
+respondentów nie przekroczyła 133 osób, ankieta przedstawia ewolucję płac osób
+związanych z technical writingiem. Dokładamy starań, by rozwijać ankietę i
+dostosowywać ją do zmieniającego się krajobrazu rynku pracy.
 
 ### Artykuły o narzędziach
 
 Poradniki z wiedzą o [narzędziach](https://techwriter.pl/tags/narzedzia) i
-podejściach są jednymi z najbardziej wartościowych pozycji na blogu. Jeśli
-szukasz informacji na jakiś temat, wpisz słowo kluczowe do wyszukiwarki strony
-albo zobacz strony zgrupowane tagami. Jest duża szansa, że znajdziesz pomocny
-materiał.
+dobrych praktykach są jednymi z najbardziej wartościowych pozycji na blogu.
+Jeśli szukasz informacji na jakiś temat, wpisz słowo kluczowe do wyszukiwarki
+strony albo zobacz strony zgrupowane tagami. Jest duża szansa, że znajdziesz
+pomocny materiał.
 
 ### Langłydż - z humorem o języku
 
@@ -297,7 +301,7 @@ pominęliśmy w opowieściach, dajcie znać, uzupełnimy.
 
 ### ITCQF
 
-Twórcami tego projektu byli Darek Drezno, Radosław Smiglin i Marcin Górski.
+Twórcami tego projektu byli Darek Drezno, Radosław Smilgin i Marcin Górski.
 Dzięki ITCQF, społeczność otrzymała sylabus porządkujący wiedzę na temat praktyk
 w branży, o którym przeczytać możecie we wpisie o
 [perłach z sylabusa](../perly-z-sylabusa-itcqf/index.md).
@@ -313,7 +317,7 @@ Zapraszamy do poznania szerszej perspektywy z
 ### Studia podyplomowe na Akademii Vistula
 
 Założyciel techwriter.pl maczał palce w wielu inicjatywach. Razem z
-[Radosławem Smiglinem](https://www.linkedin.com/in/smilgin/),
+[Radosławem Smilginem](https://www.linkedin.com/in/smilgin/),
 [Martą Bartnicką](https://www.linkedin.com/in/marta-bartnicka-713969/),
 [Tomaszem Prusem](https://www.linkedin.com/in/tomasz-prus-4b09b01a/) i
 [Danielem Barrio Fierro](https://www.linkedin.com/in/daniel-barrio-fierro-a95053110/)
@@ -321,8 +325,8 @@ stworzył kurs podyplomowy dla specjalistów od komunikacji. Wymagało to sporo
 czasu, wysiłku i cierpliwości, ale było warto. Dotychczas odbyło się pięć edycji
 kursu.
 
-Darek podkreśla to, że studia podyplomowe zmieniły życie zawodowe sporej grupy
-osób.
+Darek podkreśla to, że [studia podyplomowe](https://techwriter.pl/tags/studia)
+zmieniły życie zawodowe sporej grupy osób.
 
 Doszło też do zatoczenia intrygującego koła, kiedy absolwentki kursu na Akademii
 Vistula zasiliły szeregi redakcji:
@@ -362,8 +366,6 @@ Społeczność techwriter.pl założyła grupy w mediach społecznościowych:
 Praca nad portalem zaowocowała dziesiątkami znajomości i przyjaźni w ramach
 szeroko pojętej społeczności technical writerów w kraju i za granicą.
 
-Darek też podkreśla, że dzięki tej techwriterowi wiele osób poznało się i
-zaprzyjaźniło.
 
 Michał podzielił się własnym przykładem:
 
@@ -563,7 +565,7 @@ Grafikę tytułową wygenerowaliśmy w Gemini.
 - Tag z artykułami [rocznicowymi](https://techwriter.pl/tags/rocznice)
 - Tag z [wywiadami](https://techwriter.pl/tags/wywiady)
 - Tag z [wynikami badania płac](https://techwriter.pl/tags/badanie-płac)
-- Tag z relacjami z [Soap](https://techwriter.pl/tags/soap)
+- Tag z relacjami z [soap!](https://techwriter.pl/tags/soap)
 - Tag z relacjami z [Write the Docs](https://techwriter.pl/tags/write-the-docs)
 - Tag z serią [Langłydż](https://techwriter.pl/tags/langłydż)
 - Tag o [narzędziach](https://techwriter.pl/tags/narzedzia)
