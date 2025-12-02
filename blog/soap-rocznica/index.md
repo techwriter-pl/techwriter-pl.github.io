@@ -10,10 +10,10 @@ coverImage: 'soap_title.jpg'
 ---
 
 Konferencja soap! zajmuje szczególne miejsce w sercach osób żyjących komunikacją
-techniczną. Na łamach techwriter.pl zamieściliśmy wiele relacji z tych wydarzeń.
-Miały one duży wpływ na zawiązanie się społeczności technical writingowej i
-przyczyniły się do przyspieszenia jej rozwoju. Z jubileuszowego artykułu dowiesz
-się:
+techniczną. Na łamach techwriter.pl z dumą zamieściliśmy relacji z każdej
+edycji. Miały one duży wpływ na zawiązanie się społeczności technical
+writingowej i przyczyniły się do przyspieszenia jej rozwoju. Z jubileuszowego
+artykułu dowiesz się:
 
 - Skąd wział się pomysł na tę konferencję?
 - O co chodzi z tym różowym mydłem?
@@ -35,9 +35,9 @@ wraz z uczestnikami.
 
 W 2013, Paulina Dygoń, Gosia Radymiak i Paweł Kowaluk pracowali w tej samej
 firmie. W obrębie ich zespołu dokumentacyjnego zapadła decyzja o przejściu z
-DocBook do innego narzędzia. Gosia miała niespełna rok doświadczenia w IBM gdzie
-poznawała DITA. W związku z przejściem na inne rozwiązanie, członkowie zespołu
-mieli dużo pytań. Razem doszli do wniosku:
+DocBook do innego narzędzia. Gosia miała wtedy niespełna rok doświadczenia w IBM
+gdzie poznawała standard DITA. W związku z przejściem na inne rozwiązanie,
+członkowie zespołu mieli dużo pytań. Razem doszli do wniosku:
 
 > Nie ma szans, że tylko my spotkalismy sie z tymi problemami, ktoś już
 > wcześniej musiał to rozgryźć.
@@ -62,7 +62,7 @@ doświadczenie zawodowe i ograniczony feedback od ekspertów, z którymi pracowa
 Nasi bohaterowie czuli potrzebę zwiększenia świadomości o branży. Brakowało
 wtedy takich kierunków na studiach, które oferowałby taką wiedzę.
 
-## Przygotowania do pierwszego Soap
+## Przygotowania do pierwszego soap!
 
 > Robimy długi research?
 
@@ -72,8 +72,8 @@ Miał to być świeży start dla technical writingu. Młodość, dynamiczna spo�
 dla technical writerów i specjalizacji powiązanych, takich jak tworzenie grafik
 i tłumaczenia.
 
-"Soap" - mydło miało symbolizować świeżość. Wzięło się ono z koncepcji baniek
-zamieszkiwanych przez różnych specjalistów od treści, którzy nie mieli
+Czemu "soap!"? Mydło miało symbolizować świeżość. Wzięło się ono z koncepcji
+baniek zamieszkiwanych przez różnych specjalistów od treści, którzy nie mieli
 świadomości siebie nawzajem. Więcej szczegółów poznacie w
 [relacji](https://techwriter.pl/namydleni-po-raz-trzeci/#o-co-chodzi-z-tym-r%C3%B3%C5%BCowym-myd%C5%82em)
 z 2015 roku.
@@ -94,19 +94,6 @@ Słowa brzmią ambitnie, profesjonalnie i nieco tajemniczo.
 - Odbiorcę
 - Speakerów
 
-W 4 miesiące zorganizowali międzynarodowe wydarzenie.
-
-## soap! nr 1 - 3 październik 2013
-
-W konferencji wzięło udział 100 osób, odbyła się ono na uczelni na Wyższej
-Szkoły Europejskiej im. ks. Józefa Tischnera, której Gosia była absolwentką.
-Organizatorzy soap! znaleźli kilku sponsorów. Agnieszka Tkaczyk robiła
-konferansjerkę i świetnie sobie poradziła mimo wadliwego projektora.
-
-Noz Urbina był speakerem na tym wydarzeniu.
-
-Organizując takie spotkanie można dowiedzieć się o innych i o sobie.
-
 ### Speakerzy
 
 Organizatorzy rozpatrywali zgłoszenia potencjalnych speakerów. Czasem potrzebne
@@ -119,24 +106,37 @@ doświadczonych speakerów.
 Udawało się dobrze dogadywać ze sponsorami, których obecność na konferencji była
 nienachalna, nie robili wielkie wielkiego demo swojego produktu.
 
-## Po pierwszym Soap
+### Czas
+
+W cztery miesiące zorganizowali międzynarodowe wydarzenie.
+
+## soap! po raz pierwszy: 3 październik 2013
+
+W konferencji wzięło udział 100 osób, odbyła się ono na uczelni na Wyższej
+Szkoły Europejskiej im. ks. Józefa Tischnera, której Gosia była absolwentką.
+Organizatorzy soap! znaleźli kilku sponsorów. Agnieszka Tkaczyk pełniła rolę
+konferansjerki i świetnie sobie poradziła mimo opornego projektora. 
+
+Noz Urbina wystąpił jako speaker.
+
+Organizując takie spotkanie można dowiedzieć się o innych i o sobie.
+
+## Po pierwszym soap!
 
 Paulina i Paweł czuli się zmeczeni przez planowanie po pracy i czas wolny
 wypełniony organizacją konferencji.
 
 ### Obecny zespół od czasu drugiej edycji
 
-Gosia chciała pociągnąć ten wysiłek dalej. W skład zespołu weszli:
+Gosia chciała pociągnąć ten wysiłek dalej. Powstała ekipa o takim składzie:
 
-- Gosia Radymiak - Project Manager, który spina wszystko w całość, "_driver_"
-  projektu.
-- Karolina Karbarz - strona internetowa, grafiki, szata graficzna.
-- Piotr Milewski a.k.a. "Piter" z Wyższej Szkoły Europejskiej. Odpowiada za
-  speakerów i trenerów. Laptopy, ekrany, współpraca z Manggha.
-- Iga Koprowska, która odbyła kurs technical writingowy dla studentów
-  Uniwersytetu. Jagielońskiego wraz z Gosia, kiedy była w Motoroli. Iga
-  odpowiada za media społecznościowe, komunikaty, copywriting na stronę, posty.
-- Agnieszka Tkaczyk z IBM. Odpowiada za sponsorów i partnerów
+|Osoba|Background|Rola|
+|---|---|---|
+|Gosia Radymiak|   |Project Manager, który spina wszystko w całość, "_driver_" projektu.|
+|Karolina Karbarz|   |Trzymanie pieczy nad witryną, grafikami, szatą graficzną|
+|Piotr Milewski a.k.a. "Piter"|Absolwent Wyższej Szkoły Europejskiej|Odpowiada za speakerów i trenerów. Magik od laptopów, ekranów, współpracuje z Manggha.|
+|Agnieszka Tkaczyk|   |Odpowiada za sponsorów i partnerów|
+|Iga Koprowska|Odbyła kurs technical writingowy dla studentów Uniwersytetu Jagielońskiego wraz z Gosia, kiedy była w Motoroli.|odpowiada za media społecznościowe, komunikaty, copywriting na stronę, wpisy.|
 
 ## soap! po raz drugi: 2-3 październik 2014
 
@@ -225,9 +225,9 @@ złe rzeczy.
 
 Temat przewodni: Content Operations.
 
-### soap! Box
+### soap! box
 
-Podczas konferencji w 2023 organizatorzy wprowadzili soap! Box, czyli drewnianą
+Podczas konferencji w 2023 organizatorzy wprowadzili soap! box, czyli drewnianą
 skrzynkę po jabłkach, na którą każdy mogł wskoczyć i opowiedzieć pokrótce o tym,
 co mu aktualnie w duszy gra. Miałem przyjemność na tę skrzynkę wskoczyć, gdzie
 razem z Lancem Cummingsem opowiadałem o wspólnych projekcie. Był to dobry ukłon
@@ -283,9 +283,9 @@ doświadczenia.
 
 ## Dalsza lektura
 
-### Relacje z Soap
+### Relacje z soap!
 
-Tag z listą relacji z [Soap](https://techwriter.pl/tags/soap)
+Tag z listą relacji z [soap!](https://techwriter.pl/tags/soap)
 
 - 2013: SOAP 1
   [soap! technical communication conference - relacja](../soap-technical-communication-conference-relacja/index.md)
