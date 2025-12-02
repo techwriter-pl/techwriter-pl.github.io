@@ -1,7 +1,7 @@
 ---
-title: '12 rocznica konferencji Soap'
+title: '12 rocznica konferencji soap!'
 authors: niewiarowski
-date: '2025-09-19'
+date: '2025-12-10'
 tags:
   - 'społeczność'
   - 'z-kraju'
@@ -9,7 +9,7 @@ tags:
 coverImage: 'soap_title.jpg'
 ---
 
-Konferencja Soap zajmuje szczególne miejsce w sercach osób żyjących komunikacją
+Konferencja soap! zajmuje szczególne miejsce w sercach osób żyjących komunikacją
 techniczną. Na łamach techwriter.pl zamieściliśmy wiele relacji z tych wydarzeń.
 Miały one duży wpływ na zawiązanie się społeczności technical writingowej i
 przyczyniły się do przyspieszenia jej rozwoju. Z jubileuszowego artykułu dowiesz
@@ -25,9 +25,9 @@ się:
 
 ## Od autora
 
-Uczestniczyłem trzy razy w konferencjach Soap w 2018, 2022 i 2023. Za każdym
+Uczestniczyłem trzy razy w konferencjach soap! w 2018, 2022 i 2023. Za każdym
 razem ubawiłem się przednio, poznałem wiele ciekawych tematów i miałem
-przyjemność porozmawiać z bardzo kontaktowymi ludźmi. Soap słynie z niezwykle
+przyjemność porozmawiać z bardzo kontaktowymi ludźmi. soap! słynie z niezwykle
 przyjaznej atmosfery i charakterystycznego klimatu, który tworzą organizatorzy
 wraz z uczestnikami.
 
@@ -56,8 +56,8 @@ Polsce.
 
 ## Stan branży w 2013
 
-Jak wyglądała wtedy scena technical writingu? Nie wiadomo ilu technical
-writerów było wtedy w Polsce. Osoby wykonujące ten zawód narzekały na izolujące
+Jak wyglądała wtedy scena technical writingu? Nie wiadomo ilu technical writerów
+było wtedy w Polsce. Osoby wykonujące ten zawód narzekały na izolujące
 doświadczenie zawodowe i ograniczony feedback od ekspertów, z którymi pracowali.
 Nasi bohaterowie czuli potrzebę zwiększenia świadomości o branży. Brakowało
 wtedy takich kierunków na studiach, które oferowałby taką wiedzę.
@@ -96,14 +96,14 @@ Słowa brzmią ambitnie, profesjonalnie i nieco tajemniczo.
 
 W 4 miesiące zorganizowali międzynarodowe wydarzenie.
 
-## Soap nr 1 - 3 październik 2013
+## soap! nr 1 - 3 październik 2013
 
 W konferencji wzięło udział 100 osób, odbyła się ono na uczelni na Wyższej
 Szkoły Europejskiej im. ks. Józefa Tischnera, której Gosia była absolwentką.
-Organizatorzy Soap znaleźli kilku sponsorów. Agnieszka Tkaczyk robiła
+Organizatorzy soap! znaleźli kilku sponsorów. Agnieszka Tkaczyk robiła
 konferansjerkę i świetnie sobie poradziła mimo wadliwego projektora.
 
-Noz Urbina zgodził się być speakerem na tym wydarzeniu.
+Noz Urbina był speakerem na tym wydarzeniu.
 
 Organizując takie spotkanie można dowiedzieć się o innych i o sobie.
 
@@ -138,7 +138,7 @@ Gosia chciała pociągnąć ten wysiłek dalej. W skład zespołu weszli:
   odpowiada za media społecznościowe, komunikaty, copywriting na stronę, posty.
 - Agnieszka Tkaczyk z IBM. Odpowiada za sponsorów i partnerów
 
-## Soap po raz drugi: 2-3 październik 2014
+## soap! po raz drugi: 2-3 październik 2014
 
 Ekipa postanowiła zmienić miejsce z powodu ograniczeń wcześniejszej lokalizacji.
 Wybrali klimatyczny budynek dawnej fabryki kabli, który został zaadaptowany na
@@ -149,7 +149,7 @@ Paweł pełnił rolę konferansjera.
 Pierwszy, darmowy dzień konferencji przyciągnął 170 uczestników, drugi płatny
 dzień 80.
 
-## Soap po raz trzeci: 8-9 października 2015
+## soap! po raz trzeci: 8-9 października 2015
 
 Plaża Krakow jakieś lokum, które należy przemilczeć.
 
@@ -160,7 +160,7 @@ musieli siedzieć w kurtkach i szalikach, było bardzo zimno (październik).
 Mimo takich trudności, morale i poziom merytoryczny wydarzenia były nader
 wysokie.
 
-## Soap po raz czwarty: 1-3 czerwca 2016
+## soap! po raz czwarty: 1-3 czerwca 2016
 
 Po raz pierwszy konferencja odbyła się w Mangha - dobra chemia i perspektywy na
 przyszłość. Od tamtego czasu, wszystkie kolejne edycje odbywały się w Muzeum
@@ -173,15 +173,15 @@ charakteryzuje się tym, że jest tam dużo aktywności dla uczniów.
 
 Temat przewodni: _"We" versus "They"_.
 
-## Soap po raz piąty: 7-9 czerwca 2017
+## soap! po raz piąty: 7-9 czerwca 2017
 
 Temat przewodni: _Problem Solving_.
 
-## Soap po raz szósty: 23-25 maja 2018
+## soap! po raz szósty: 23-25 maja 2018
 
 Temat przewodni: Innowacja kontra prostota.
 
-## Soap po raz siódmy: 5-7 czerwca 2019
+## soap! po raz siódmy: 5-7 czerwca 2019
 
 Temat przewodni: _Content as Code_.
 
@@ -194,13 +194,13 @@ się mniej skłonni do podróży.
 
 Trudniej było znaleźć sponsorów.
 
-## Soap po raz ósmy: 1-3 czerwca 2022
+## soap! po raz ósmy: 1-3 czerwca 2022
 
 Temat wiodący: przyszłość technical writingu.
 
 ### Soapuszka
 
-Soapuszka z Soap 2022 przekazana przez Roberta Pawlickiego do Soapuszka Crew w
+Soapuszka z soap! 2022 przekazana przez Roberta Pawlickiego do Soapuszka Crew w
 składzie: Magda Elias, Martyna Gatner-Siemieniuch, Joanna Sosnowska, Ekaterina
 Pervezentseva, Marcin Broda. W 2023 roku poduszka trafiła do Lanca Cummingsa.
 
@@ -217,7 +217,7 @@ technical writingu. Emocje sięgnęły zenitu, a sztuczna inteligencja stworzona
 potrzeby teleturnieju przez Pawła zaczęła żyć własnym życiem i co i rusz
 zaznaczała swoją niezależność.
 
-## Soap po raz dziewiąty: 1-3 czerwca 2023
+## soap! po raz dziewiąty: 1-3 czerwca 2023
 
 Ostatnia edycja konferencji jaka dotychczas miała miejsce. Powrót po przerwie
 należał do trudnych. Co robić, potrzebne było odświeżenie, bo utarły się dobre i
@@ -225,9 +225,9 @@ złe rzeczy.
 
 Temat przewodni: Content Operations.
 
-### Soap Box
+### soap! Box
 
-Podczas konferencji w 2023 organizatorzy wprowadzili Soap Box, czyli drewnianą
+Podczas konferencji w 2023 organizatorzy wprowadzili soap! Box, czyli drewnianą
 skrzynkę po jabłkach, na którą każdy mogł wskoczyć i opowiedzieć pokrótce o tym,
 co mu aktualnie w duszy gra. Miałem przyjemność na tę skrzynkę wskoczyć, gdzie
 razem z Lancem Cummingsem opowiadałem o wspólnych projekcie. Był to dobry ukłon
@@ -243,11 +243,11 @@ upewnieniem się, że różne konkurujące nurty technical writingowe są dobrze
 zbalansowane. W uwagach uczestników często padały prośby o więcej praktycznych
 zajęć i tematów. Wykłady nie muszą być tylko wysokopoziomowe.
 
-## Soap wpływ na środowisko skupione wokół komunikacji technicznej
+## soap! wpływ na środowisko skupione wokół komunikacji technicznej
 
 Gosia Radymiak:
 
-> Soap dał ożywienie. Nie wiadomo czy zbieżność w czasie, z pewnością
+> soap! dał ożywienie. Nie wiadomo czy zbieżność w czasie, z pewnością
 > konferencja odegrała rolę. Zaczęły się inicjatywy takie jak ITCQF, Techwriter
 > Koduje. Niektóre osoby ośmielają się coś robić. Ludzie zaczęli działać. Soap
 > przyczyniła się do tego.
@@ -255,16 +255,16 @@ Gosia Radymiak:
 > Zmieniła się świadomość osoby dbającej o dokumentację. Ta osoba poczuła się
 > ważniejsza w projekcie, odezwie się, napisze artykuł.
 
-> Soap to tylko miejsce, gdzie ludzie się zbierają. Poza Soap ludzie w
-> społeczności cały czas coś robią. Soap to katalizator i platforma do spotkań.
+> soap! to tylko miejsce, gdzie ludzie się zbierają. Poza soap! ludzie w
+> społeczności cały czas coś robią. soap! to katalizator i platforma do spotkań.
 > Reszta zależy od ludzi.
 
-Grupa [soap technical communication](https://www.facebook.com/soapconf) na
+Grupa [soap! technical communication](https://www.facebook.com/soapconf) na
 Facebooku liczy 1300 osób.
 
 ## Inicjatywa powiązana - Meet Content
 
-Stało się jasne, że Soap raz w roku to było za mało, a apetyt na wiedzę i
+Stało się jasne, że soap! raz w roku to było za mało, a apetyt na wiedzę i
 spotkania stale rósł. Zaczęło się rozkręcanie meetupów. W Brnie odbyły trzy
 meetupy.
 
@@ -274,10 +274,10 @@ założona przez Barbarę Czyż i Edytę Rakowską.
 
 ## Rocznica
 
-Pierwsza edycja Soap odbyła się w październiku 2013. W 2023 roku całej inicjatywie
-stuknęło 10 lat.
+Pierwsza edycja soap! odbyła się w październiku 2013. W 2023 roku całej
+inicjatywie stuknęło 10 lat.
 
-W październiku 2025 Soap skończył 12 lat! Gratulacje dla ekipy organizującej te
+W październiku 2025 soap! skończył 12 lat! Gratulacje dla ekipy organizującej te
 cudowne wydarzenia i dla wszystkich jej uczestników. Warto było dzielić te
 doświadczenia.
 
@@ -288,24 +288,24 @@ doświadczenia.
 Tag z listą relacji z [Soap](https://techwriter.pl/tags/soap)
 
 - 2013: SOAP 1
-  [Soap technical communication conference - relacja](../soap-technical-communication-conference-relacja/index.md)
+  [soap! technical communication conference - relacja](../soap-technical-communication-conference-relacja/index.md)
 - 2014: SOAP 2 [Mydło lubi zabawę](../mydlo-lubi-zabawe/index.md)
 - 2014: SOAP 2
-  [Soap Just Wants to Have Fun](../soap-just-wants-to-have-fun/index.md)
+  [soap! Just Wants to Have Fun](../soap-just-wants-to-have-fun/index.md)
 - 2014: SOAP 2
-  [Soap 2014 - summary of day 1](../soap-2014-summary-of-day-1/index.md)
+  [soap! 2014 - summary of day 1](../soap-2014-summary-of-day-1/index.md)
 - 2014: SOAP 2
-  [Soap 2014 - summary of day 2](../soap-2014-summary-of-day-2/index.md)
+  [soap! 2014 - summary of day 2](../soap-2014-summary-of-day-2/index.md)
 - 2015: SOAP 3 [Namydleni po raz trzeci](../namydleni-po-raz-trzeci/index.md)
 - 2016: SOAP 4
-  [Konferencja Soap 2016 - podsumowanie](../konferencja-soap-2016-podsumowanie/index.md)
+  [Konferencja soap! 2016 - podsumowanie](../konferencja-soap-2016-podsumowanie/index.md)
 - 2017: SOAP 5
-  [Soap 2017 już za nami - relacja](../soap-2017-juz-za-nami-relacja/index.md)
+  [soap! 2017 już za nami - relacja](../soap-2017-juz-za-nami-relacja/index.md)
 - 2018: SOAP 6
-  [Konferencja Soap 2018 - relacja](../konferencja-soap-2018-relacja/index.md)
+  [Konferencja soap! 2018 - relacja](../konferencja-soap-2018-relacja/index.md)
 - 2019: SOAP 7
-  [Konferencja Soap 2019 - (wideo)relacja](../konferencja-soap-2019-wideorelacja/index.md)
+  [Konferencja soap! 2019 - (wideo)relacja](../konferencja-soap-2019-wideorelacja/index.md)
 - 2022: SOAP 8
-  [Doniesienia z tegorocznej konferencji Soap 2022!](../doniesienia-z-tegoroczenj-konferencji-soap-2022/index.md)
+  [Doniesienia z tegorocznej konferencji soap! 2022!](../doniesienia-z-tegoroczenj-konferencji-soap-2022/index.md)
 - 2023: SOAP 9
   [Relacja z tegorocznej konferencji soap 2023!](../relacja-z-tegorocznej-konferencji-soap-2023/index.md)
