@@ -1,7 +1,7 @@
 ---
 title: 'Techwriter.pl skończył 12 lat: Sentymentalna podróż'
 authors: niewiarowski
-date: '2025-11-19'
+date: '2025-12-02'
 tags:
   - 'społeczność'
   - 'z-kraju'
@@ -40,15 +40,15 @@ gronem, zapraszamy do kontaktu.
 
 ## Pomysł na artykuł
 
-Swego czasu autor artykułu trafił na badanie płac opublikowane na portalu i ze
-zdziwieniem odkrył, że niszowa branża tech writingowa ma swoją społeczność
-dzielącą się wiedzą. W 2020 roku poznał Darka Drezno przez LinkedIn i dołączył
-do redakcji.
+Swego czasu trafiłem na badanie płac opublikowane na portalu i ze zdziwieniem
+odkryłem, że niszowa branża tech writingowa ma swoją społeczność dzielącą się
+wiedzą. W 2020 roku poznałem Darka Drezno przez LinkedIn i dołączyłem do
+redakcji.
 
 Jak wiadomo, najciemniej bywa pod latarnią: w grupie dokumentalistów o wielu
 faktach krążyły ustne przekazy i nie wszystko było udokumentowane 😀. Dlatego
-postanowił porozmawiać z osobami, które tworzyły techwriter.pl na długo przed
-jego dołączeniem. Czy jesteście gotowi poznać nieznane wcześniej fakty?
+postanowiłem porozmawiać z osobami, które tworzyły techwriter.pl na długo przed
+moim dołączeniem. Czy jesteście gotowi poznać nieznane wcześniej fakty?
 Zaczynamy!
 
 ## Początki
@@ -94,13 +94,13 @@ Wynika z tego, że w 2023 portal skończył 10 lat, a we wrześniu 2025 skończy
 
 ### Pierwsi współpracownicy
 
-Pierwszymi osobami, które dołączyły do portalu były:
+Jako pierwsi do portalu dołączyli:
 [Marcin Górski](https://www.linkedin.com/in/gorskimarcin/),
-[Sabina Szablowska](https://www.linkedin.com/in/sabina-sz/) i
-[Michał Skowron](https://www.linkedin.com/in/michalskowron/).
+[Michał Skowron](https://www.linkedin.com/in/michalskowron/) i
+[Sabina Szablowska](https://www.linkedin.com/in/sabina-sz/).
 
 Sabina była jedną z pierwszych osób, które zaczęły pisać artykuły. Jak do tego
-doszło? Przekazuję mikrofon Sabinie:
+doszło? Przekazuję jej mikrofon:
 
 > W 2011 Darek zrekrutował mnie do swojego zespołu jako technical writerkę. Był
 > on wtedy szefem działu Zapewnienia Jakości. Dołączyłam do firmy i dopiero
@@ -118,14 +118,14 @@ doszło? Przekazuję mikrofon Sabinie:
 > jest wysoka i z przyjemnością pomagam nowym osobom stawiać pierwsze kroki.
 
 > Wracając do samego techwriter.pl, to po przygotowaniu
-> [serii artykułow](https://techwriter.pl/authors/szablowska) zrobiłam pauzę w
+> [serii artykułów](https://techwriter.pl/authors/szablowska) zrobiłam pauzę w
 > tej działalności. Kto wie, może za jakiś czas skontaktuję się z redakcją z
 > nowym materiałem do wydania 🙂.
 
 > Bardzo cieszy mnie, że portal wciąż funkcjonuje, znam Michała i Pawła, którzy
 > zawsze mają dużo pomysłów i energii do różnych inicjatyw. Ciekawostką jest to,
-> że był moment mojej karierze, że Paweł był moim szefem. Pozdrawiam Was i całą
-> redakcję serdecznie!
+> że był moment mojej karierze, kiedy Paweł był moim szefem. Pozdrawiam Was i
+> całą redakcję serdecznie!
 
 Kolejnym uczestnikiem projektu jest Michał, który we wczesnych fazach rozwoju
 techwriter.pl był bardzo aktywny. Posłuchajcie jaki przepełniał go entuzjazm:
@@ -136,10 +136,10 @@ techwriter.pl był bardzo aktywny. Posłuchajcie jaki przepełniał go entuzjazm
 
 Po kilku latach aktywnego działania zrobił sobie dłuższą przerwę, podczas której
 razem z [Pawłem Kowalukiem](https://www.linkedin.com/in/pawel-kowaluk/) założył
-i rozwinął podcast "Tech Writer Koduje". W 2023 Darek odszedł na zasłużoną
-emeryturę jako głównodowodzący techwriter.pl i przekazał stery Michałowi
-Skowronowi, Pawłowi Kowalukowi i Tomkowi Prusowi (Tomek po kilku miesiącach
-wycofał się z tej działalności).
+i rozwinął podcast [Tech Writer Koduje](https://techwriterkoduje.pl/). W 2023
+doszło do zmiany warty i Darek przekazał stery Michałowi Skowronowi, Pawłowi
+Kowalukowi i Tomkowi Prusowi (Tomek po kilku miesiącach wycofał się z tej
+działalności).
 
 Ważną postacią w historii portalu jest
 [Agnieszka Gaworska](https://www.linkedin.com/in/agnieszka-gaworska-9b77591a4/),
@@ -154,7 +154,7 @@ wspomina tę inicjatywę i swoją ścieżkę rozwoju w IT:
 > wdrożyłam, że nawet uzyskałam certyfikat ITCQF.
 
 > Przez te dziesięć lat portal zmieniał skład, a także ewoluował pod względem
-> wyglądu oraz sposobu publikowanych treści. I choć moja droga nie jest już
+> wyglądu oraz sposobu publikowania treści. I choć moja droga nie jest już
 > związana z technical writingiem, to właśnie dzięki tej współpracy wkroczyłam w
 > szeroki świat IT (testowanie dostępności), nawet nie zdając sobie sprawy, że
 > mam ku temu predyspozycje.
@@ -245,7 +245,7 @@ Oto kilka dat istotnych dla tego tematu:
   zorganizowanej przez firmę MadCap. Wziął też udział w warsztatach i zdał
   certyfikat MadCap Flare.
 
-Relacje pozostają dla nas ważne bo:
+Relacje pozostają dla nas ważne, bo:
 
 - Podsumowują najświeższe trendy branżowe.
 - Są pomocne dla uczestników, którzy chcą odświeżyć sobie kluczowe fakty po
@@ -275,8 +275,8 @@ swojej unikalnej perspektywy, zainteresowania i doświadczenia.
 
 Kolejnym cyklem budzącym spore zainteresowanie jest rozpoczęte w 2017
 [badanie płac](https://techwriter.pl/tags/badanie-plac). Choć liczba
-respondentów nie przekroczyła 133 osób, ankieta przedstawia ewolucję płac osób
-związanych z technical writingiem. Dokładamy starań, by rozwijać ankietę i
+respondentów nie przekroczyła 133 osób, badanie przedstawia ewolucję płac osób
+związanych z technical writingiem. Dokładamy starań, by rozwijać tę ankietę i
 dostosowywać ją do zmieniającego się krajobrazu rynku pracy.
 
 ### Artykuły o narzędziach
@@ -302,9 +302,9 @@ pominęliśmy w opowieściach, dajcie znać, uzupełnimy.
 ### ITCQF
 
 Twórcami tego projektu byli Darek Drezno, Radosław Smilgin i Marcin Górski.
-Dzięki ITCQF, społeczność otrzymała sylabus porządkujący wiedzę na temat praktyk
-w branży, o którym przeczytać możecie we wpisie o
-[perłach z sylabusa](../perly-z-sylabusa-itcqf/index.md).
+Dzięki ITCQF, społeczność otrzymała
+[sylabus](../perly-z-sylabusa-itcqf/index.md) porządkujący wiedzę na temat
+komunikacji technicznej i praktyk z nią związanych.
 
 Dziesiątki osób wzięły udział w kursach przygotowawczych i otrzymały
 certyfikaty. O wrażeniach uczestników dowiecie się z
@@ -343,7 +343,7 @@ grupy się przenikają i wpływają na siebie.
 
 ### Inspiracje
 
-Domyślamy się, że artykuły z techwriter.pl docierały również do odbiorców z poza
+Domyślamy się, że artykuły z techwriter.pl docierały również do odbiorców spoza
 Polski. Wiemy, że artykuły tłumaczone były na język czeski.
 
 Portal okazał się inspiracją dla Ivana Chebana, który założył anglojęzyczny
@@ -365,7 +365,6 @@ Społeczność techwriter.pl założyła grupy w mediach społecznościowych:
 
 Praca nad portalem zaowocowała dziesiątkami znajomości i przyjaźni w ramach
 szeroko pojętej społeczności technical writerów w kraju i za granicą.
-
 
 Michał podzielił się własnym przykładem:
 
@@ -391,11 +390,10 @@ swoimi przemyśleniami.
   której będą dobrze się czuć i z którą będą się identyfikować._
 - _Gotowość do bezinteresownej pomocy._
 
-**Dlaczego to robimy?**
+**Co nas inspiruje?**
 
-_Robimy to po to, żeby poznawać nowych ludzi, podtrzymać motywację i ciągle
-uczyć się czegoś nowego. Nie ma lepszego sposobu na naukę niż wyjaśnianie rzeczy
-innym._
+_Poznawanie nowych ludzi, podtrzymywanie motywacji i ciągłe uczenie się czegoś
+nowego. Nie ma lepszego sposobu na naukę niż wyjaśnianie rzeczy innym._
 
 _Współtworzenie takiego portalu internetowego daje:_
 
@@ -461,15 +459,16 @@ wolny albo potrzebują zrezygnować z innych powodów._
 podzielił się z nami swoją perspektywą:
 
 > Czytelnikiem portalu techwriter.pl jestem już od ponad 5 lat. Wtedy jako
-> student 4 roku, nieco przypadkiem, stałem się odpowiedzialny za komunikację
-> techniczną w firmie, w której odbywałem staż. To było pierwsze zetknięcie się
-> ze światem techcommu w mych dziejach. Techwriter.pl był dla mnie jednym z
-> niewielu miejsc w polskim internecie, gdzie mogłem dowiedzieć się cokolwiek o
-> branży jak i o samej roli technical writera.
+> student czwartego roku, nieco przypadkiem, stałem się odpowiedzialny za
+> komunikację techniczną w firmie, w której odbywałem staż. To było pierwsze
+> zetknięcie się ze światem techcommu w mych dziejach. Techwriter.pl był dla
+> mnie jednym z niewielu miejsc w polskim internecie, gdzie mogłem dowiedzieć
+> się cokolwiek o branży jak i o samej roli technical writera.
 
 > Moim ulubionym działem stały się rozmowy z innymi technical writerami, czyli
-> seria “Kilka pytań do”. Czytanie i czerpanie inspiracji z dzielenia się
-> doświadczeniami było niesamowicie cenne dla żółtodzioba, którym byłem wtedy.
+> seria [Kilka pytań do](https://techwriter.pl/tags/wywiady). Czytanie i
+> czerpanie inspiracji z dzielenia się doświadczeniami było niesamowicie cenne
+> dla żółtodzioba, którym byłem wtedy.
 
 > Do dziś chętnie czytam, aby wiedzieć co się dzieje w polskim techcommie oraz z
 > zachłannością i wdzięcznością zarazem przyswajam każdą wiedzę, którą dzielą
@@ -492,7 +491,7 @@ Dane z raportu ITCQF dla Polski z 2022 były następujące:
 ![Raport ITCQF na temat polskiego rynku technical writingowego w 2022, obejmujący liczbę ofert pracy, liczbę firm zatrudniających specjalistów od dokumentacji, liczbę osób na tym stanowisku, itp.](images/raport.png)
 
 W porównaniu z sytuacją z 2013, liczba osób identyfikująca się zawodowo jako
-"technical writer" znacznie się wzrosła. Warto zwrócić uwagę, że w raporcie nie
+"technical writer" znacznie wzrosła. Warto zwrócić uwagę, że w raporcie nie
 uwzględniono innych określeń stanowiska, co oznacza, że w tym zawodzie było
 więcej niż te 2200 osób.
 
@@ -515,7 +514,7 @@ prezentacji listy nadchodzących konferencji.
 Wciąż wspieramy różne wydarzenia i inicjatywy, dla których jesteśmy partnerami
 medialnymi. Chcemy aktywnie działać i rozwijać społeczność.
 
-Staramy się na bieżąco informować społeczność o aktualnych trendach w obszarze
+Staramy się na bieżąco informować o aktualnych trendach w obszarze
 tech writingu w Polsce, a także o dostępnych narzędziach i nowościach
 branżowych.
 
@@ -523,20 +522,20 @@ Zależy nam na regularnych publikacjach, dzieleniu się wiedzą oraz monitorowan
 zmian w narzędziach i metodach dokumentacyjnych. Dzięki temu writerzy mogą
 szybciej adaptować się do zmian i rozwijać swoje kompetencje.
 
-Przykład: nagłaśniamy działania stowarzyszenia
+Przykład: nagłaśniamy działania [stowarzyszenia](https://techwriter.pl/tags/saiit)
 [SAiIT](https://saiit.odoo.com/info) zrzeszającego technical writerów i
 ilustratorów technicznych.
 
 ## Zakończenie od autora
 
-W techwriter.pl autor otrzymał dużo swobody twórczej. Sprawia mu ogromną frajdę,
-że może dzielić się spostrzeżeniami, wiedzą i specyficznym poczuciem humoru.
+W techwriter.pl otrzymałem dużo swobody twórczej. Sprawia mi ogromną frajdę, że
+mogę dzielić się spostrzeżeniami, wiedzą i specyficznym poczuciem humoru.
 
-Dostał możliwość uczestniczenia w ciekawych wydarzeniach. W redakcji poznał
+Dostałem możliwość uczestniczenia w ciekawych wydarzeniach. W redakcji poznałem
 sympatycznych, kreatywnych i pomocnych ludzi.
 
-Uważa, że należy docenić to, co w komunikacji technicznej wszyscy razem
-osiągnęliśmy. Z optymizmem patrzy na dalszy rozwój naszej branży i życzy Wam w
+Uważam, że trzeba docenić to, co w komunikacji technicznej wszyscy razem
+osiągnęliśmy. Z optymizmem patrzę na dalszy rozwój naszej branży i życzę Wam w
 niej samych sukcesów.
 
 Parafrazując tytuł ósmego albumu AC/DC:
