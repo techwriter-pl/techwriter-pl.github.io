@@ -9,9 +9,9 @@ tags:
 coverImage: 'soap_title.jpg'
 ---
 
-Konferencja soap! zajmuje szczególne miejsce w sercach osób żyjących komunikacją
+Konferencje soap! zajmują szczególne miejsce w sercach osób żyjących komunikacją
 techniczną. Na łamach techwriter.pl z dumą zamieściliśmy relacji z każdej
-edycji. Miały one duży wpływ na zawiązanie się społeczności technical
+edycji. Wydarzenia te miały duży wpływ na zawiązanie się społeczności technical
 writingowej i przyczyniły się do przyspieszenia jej rozwoju. Z jubileuszowego
 artykułu dowiesz się:
 
@@ -19,7 +19,6 @@ artykułu dowiesz się:
 - O co chodzi z tym różowym mydłem?
 - Co kryje się za akronimem S-O-A-P?
 - Jak przebiegał rozwój tej inicjatywy i co z niej wynikło?
-- Jaki wpływ odcisnęła ona na branżę technical writingu?
 
 <!--truncate-->
 
