@@ -1,7 +1,7 @@
 ---
 title: 'Techwriter.pl skończył 12 lat: Sentymentalna podróż'
 authors: niewiarowski
-date: '2025-12-02'
+date: '2025-12-04'
 tags:
   - 'społeczność'
   - 'z-kraju'
