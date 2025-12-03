@@ -55,6 +55,9 @@ to stać bardziej jasne.
 ![](images/globe.png)
 [Strona konferencji Write The Docs z definicjami podstawowych pojęć](https://www.writethedocs.org/guide/)
 
+![](images/globe.png)
+[WikiHow: przyjazne poradniki krok po kroku o tym jak stworzyć user guide, instrukcje, czy tutorial](https://www.wikihow.com/Category:Technical-Writing/)
+
 ![](images/youtube.png)
 [Film YouTube definiujacy technical writing i pokrewne specjalności](https://www.youtube.com/watch?v=6eXi6fGUSyE)
 
@@ -81,13 +84,13 @@ pomoże Ci to oszacować.
 ![](images/super_maly_pac.png)
 [Wyniki badania płac](../wyniki-badania-plac-w-komunikacji-technicznej-2024/index.mdx)
 
-## Zdobywanie doświadczenia: projekty Open Source
+## Zdobywanie doświadczenia: projekty open source
 
-Dobrym sposobem na zbudowanie portfolio jest zaangażować się w projekt Open
-Source.
+Dobrym sposobem na zbudowanie portfolio jest zaangażować się w projekt *open
+source*.
 
 ![](images/super_maly_pac.png)
-[Projekty open source technical writerów](../projekty-open-source-dla-technical-writerow/index.md)
+[Projekty open source dla technical writerów](../projekty-open-source-dla-technical-writerow/index.md)
 
 ## Jak dostać pierwszą pracę
 
@@ -242,18 +245,18 @@ instrukcji.
 ![](images/super_maly_pac.png)
 [STE - jak używać go w praktyce](../simplified-technical-english-ste-jak-go-uzywac-w-praktyce/index.md)
 
-Strona, na której możecie poznać ten standard lepiej, dowiedzieć się o
-akredytowanych trenerach i szkoleniach, zamówić bezpłatnie dostęp do PDF do
-słownika i zasad gramatycznych:
+Poniżej link do strony, na której możecie poznać ten standard lepiej, dowiedzieć
+się o akredytowanych trenerach i szkoleniach, zamówić bezpłatnie dostęp do PDF
+ze słownikiem i zasadami gramatycznymi:
 
 ![](images/globe.png)
 [ASD Simplified Technical English Maintenance Group](https://www.asd-ste100.org/)
 
 ### Diataxis
 
-Krótkie opracowanie, które pomoże Ci dzielić typy tworzonych treści wedle
-funkcji edukacyjnej jaką ona pełni. Szybko się czyta i dużo układa w głowie.
-Oprócz tego podziału, znajdziesz też kryteria dla udanej dokumentacji.
+Krótkie opracowanie, które pomoże Ci dzielić typy tworzonych treści wedle celu,
+jakiemu służy. Szybko się czyta i dużo układa w głowie. Oprócz tego podziału,
+znajdziesz też kryteria dla udanej dokumentacji.
 
 ![](images/globe.png) [Diataxis](https://diataxis.fr/)
 
