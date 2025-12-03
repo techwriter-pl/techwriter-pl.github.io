@@ -102,6 +102,12 @@ Jako pierwsi do portalu dołączyli:
 Sabina była jedną z pierwszych osób, które zaczęły pisać artykuły. Jak do tego
 doszło? Przekazuję jej mikrofon:
 
+<div className="float-images-left">
+
+![Zdjęcie Sabiny](./images/sabina.png)
+
+</div>
+
 > W 2011 Darek zrekrutował mnie do swojego zespołu jako technical writerkę. Był
 > on wtedy szefem działu Zapewnienia Jakości. Dołączyłam do firmy i dopiero
 > poznawałam na czym komunikacja techniczna polega. Po wdrożeniu się i odkryciu,
@@ -145,6 +151,12 @@ Ważną postacią w historii portalu jest
 [Agnieszka Gaworska](https://www.linkedin.com/in/agnieszka-gaworska-9b77591a4/),
 która odegrała znaczącą rolę w jego tworzeniu i utrzymywaniu. Oto jak Agnieszka
 wspomina tę inicjatywę i swoją ścieżkę rozwoju w IT:
+
+<div className="float-images-left">
+
+![Zdjęcie Agnieszki](./images/agnieszka.png)
+
+</div>
 
 > Moja współpraca z techwriter.pl zaczęła się w 2015 roku. Darek,
 > współzałożyciel portalu, zaproponował mi drobny udział edytorski, na co
@@ -385,15 +397,22 @@ swoimi przemyśleniami.
 
 **Jakie są nasze cele i na czym nam zależy?**
 
+<div className="float-images-left">
+
+![Zdjęcie Michała](./images/michal.png)
+
+</div>
+
 - _Dzielenie się wiedzą._
 - _Budowanie przestrzeni, społeczności dla specjalistów od tworzenia treści, w
   której będą dobrze się czuć i z którą będą się identyfikować._
 - _Gotowość do bezinteresownej pomocy._
 
-**Co nas inspiruje?**
+**Co nas inspiruje?** 
 
-_Poznawanie nowych ludzi, podtrzymywanie motywacji i ciągłe uczenie się czegoś
-nowego. Nie ma lepszego sposobu na naukę niż wyjaśnianie rzeczy innym._
+_Poznawanie nowych ludzi, podtrzymywanie motywacji i
+ciągłe uczenie się czegoś nowego. Nie ma lepszego sposobu na naukę niż
+wyjaśnianie rzeczy innym._
 
 _Współtworzenie takiego portalu internetowego daje:_
 
@@ -458,7 +477,13 @@ wolny albo potrzebują zrezygnować z innych powodów._
 [Mateusz Borycki](https://www.linkedin.com/in/mateusz-borycki-2817a6186/)
 podzielił się z nami swoją perspektywą:
 
-> Czytelnikiem portalu techwriter.pl jestem już od ponad 5 lat. Wtedy jako
+<div className="float-images-left">
+
+![Zdjęcie Mateusza](./images/mateusz.png)
+
+</div>
+
+> Czytelnikiem portalu techwriter.pl jestem już od ponad pięciu lat. Wtedy jako
 > student czwartego roku, nieco przypadkiem, stałem się odpowiedzialny za
 > komunikację techniczną w firmie, w której odbywałem staż. To było pierwsze
 > zetknięcie się ze światem techcommu w mych dziejach. Techwriter.pl był dla
@@ -514,15 +539,15 @@ prezentacji listy nadchodzących konferencji.
 Wciąż wspieramy różne wydarzenia i inicjatywy, dla których jesteśmy partnerami
 medialnymi. Chcemy aktywnie działać i rozwijać społeczność.
 
-Staramy się na bieżąco informować o aktualnych trendach w obszarze
-tech writingu w Polsce, a także o dostępnych narzędziach i nowościach
-branżowych.
+Staramy się na bieżąco informować o aktualnych trendach w obszarze tech writingu
+w Polsce, a także o dostępnych narzędziach i nowościach branżowych.
 
 Zależy nam na regularnych publikacjach, dzieleniu się wiedzą oraz monitorowaniu
 zmian w narzędziach i metodach dokumentacyjnych. Dzięki temu writerzy mogą
 szybciej adaptować się do zmian i rozwijać swoje kompetencje.
 
-Przykład: nagłaśniamy działania [stowarzyszenia](https://techwriter.pl/tags/saiit)
+Przykład: nagłaśniamy działania
+[stowarzyszenia](https://techwriter.pl/tags/saiit)
 [SAiIT](https://saiit.odoo.com/info) zrzeszającego technical writerów i
 ilustratorów technicznych.
 
