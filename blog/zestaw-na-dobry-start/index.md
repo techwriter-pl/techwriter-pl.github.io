@@ -255,7 +255,7 @@ ze słownikiem i zasadami gramatycznymi:
 ### Diataxis
 
 Krótkie opracowanie, które pomoże Ci dzielić typy tworzonych treści wedle celu,
-jakiemu służy. Szybko się czyta i dużo układa w głowie. Oprócz tego podziału,
+jakiemu służą. Szybko się czyta i dużo układa w głowie. Oprócz tego podziału,
 znajdziesz też kryteria dla udanej dokumentacji.
 
 ![](images/globe.png) [Diataxis](https://diataxis.fr/)
