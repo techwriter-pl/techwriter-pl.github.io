@@ -171,11 +171,11 @@ konferencji osobom z publiczności zadającym, odpowiadają na pytania, na skute
 załatwiają potrzebne rzeczy, wydrukują co trzeba. Maja mnóstwo pomysłów. 31 LO
 charakteryzuje się tym, że jest tam dużo aktywności dla uczniów.
 
-Temat przewodni: _"We" versus "They"_.
+Temat przewodni: "My" zamiast "Oni".
 
 ## soap! po raz piąty: 7-9 czerwca 2017
 
-Temat przewodni: _Problem Solving_.
+Temat przewodni: Rozwiązywanie problemów.
 
 ## soap! po raz szósty: 23-25 maja 2018
 
@@ -223,7 +223,7 @@ Ostatnia edycja konferencji jaka dotychczas miała miejsce. Powrót po przerwie
 należał do trudnych. Co robić, potrzebne było odświeżenie, bo utarły się dobre i
 złe rzeczy.
 
-Temat przewodni: Content Operations.
+Temat przewodni: *Content Operations*.
 
 ### soap! box
 
@@ -286,6 +286,18 @@ doświadczenia.
 ### Relacje z soap!
 
 Tag z listą relacji z [soap!](https://techwriter.pl/tags/soap)
+
+|Rok|Temat|Liczba dni|Warsztaty?|Liczba uczestników|
+|---|---|---|---|---|
+|2023|Content Operations| | | |
+|2022|Przyszłość technical writingu| | | |
+|2019|Content as Code| | | |
+|2018|Innowacja kontra prostota| | | |
+|2017|Rozwiązywanie problemów| | | |
+|2016|"My" zamiast "Oni"| | | |
+|2015| | | | |
+|2014| | | |170/80|
+|2013| | | | |
 
 - 2013: SOAP 1
   [soap! technical communication conference - relacja](../soap-technical-communication-conference-relacja/index.md)
