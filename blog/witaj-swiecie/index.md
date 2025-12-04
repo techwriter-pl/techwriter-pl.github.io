@@ -6,6 +6,7 @@ tags:
   - 'news'
   - 'z-kraju'
   - 'ze-świata'
+  - 'rocznice'
 coverImage: 'owca.jpg'
 ---
 

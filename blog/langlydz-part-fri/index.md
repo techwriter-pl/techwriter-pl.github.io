@@ -6,6 +6,7 @@ tags:
   - 'warsztat'
   - 'humor'
   - 'język'
+  - 'langłydż'
 coverImage: 'lekcja3.jpg'
 ---
 
