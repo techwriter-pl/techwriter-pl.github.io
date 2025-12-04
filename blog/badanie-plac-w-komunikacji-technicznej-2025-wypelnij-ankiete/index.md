@@ -47,27 +47,29 @@ Ankieta jest dostępna pod tym [linkiem](https://forms.gle/b2C74TLaqd5vj6gg8).
 #### Dlaczego warto wypełnić tę ankietę?
 
 1. Dane te pomogą Wam przy następnej zmianie pracy – dowiecie się jakich widełek
-płacowych można się spodziewać.
+   płacowych można się spodziewać.
 2. Możecie pomóc osobom, które rozważają karierę w naszej branży – będą wiedzieć
-jakiego wynagrodzenia oczekiwać.
+   jakiego wynagrodzenia oczekiwać.
 3. Pomożecie rekruterom i osobom budującym zespoły komunikacji technicznej –
-będą wiedzieć ile kosztują najlepsi specjaliści w branży, czyli Wy 🙂.
+   będą wiedzieć ile kosztują najlepsi specjaliści w branży, czyli Wy 🙂.
 4. Jest to ankieta, która za kilka lat pozwoli nam wszystkim prześledzić czy
-zarobki wzrastają czy spadają.
+   zarobki wzrastają czy spadają.
 5. Być może po opublikowaniu wyników będziecie mieli mocny argument aby poprosić
-o podwyżkę!
+   o podwyżkę!
 
 #### Ile zajmie mi wypełnienie ankiety?
-Ankieta zawiera kilkanaście prostych pytań. Jej wypełnienie nie zajmie więcej niż kilka minut, a jeśli odpowiedzi będzie wystarczająco dużo – każdy z nas może mieć z tego wymierną korzyść.
+
+Ankieta zawiera kilkanaście prostych pytań. Jej wypełnienie nie zajmie więcej
+niż kilka minut, a jeśli odpowiedzi będzie wystarczająco dużo – każdy z nas może
+mieć z tego wymierną korzyść.
 
 #### Jak długo ankieta będzie aktywna?
-Na odpowiedzi czekamy do **31 grudnia 2025** roku.
+
+Na odpowiedzi czekamy do **20 grudnia 2025** roku.
 
 #### Gdzie będzie można sprawdzić wyniki ankiety?
-Po zakończeniu badania, wyniki oczywiście opublikujemy na [techwriter.pl](https://techwriter.pl/).
-Z góry dziękujemy za udział w badaniu!
 
-
-
+Po zakończeniu badania, wyniki oczywiście opublikujemy na
+[techwriter.pl](https://techwriter.pl/). Z góry dziękujemy za udział w badaniu!
 
 (Grafikę tytułową wygenerowaliśmy w Gemini).
