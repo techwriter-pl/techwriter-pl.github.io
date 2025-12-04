@@ -132,10 +132,10 @@ Gosia chciała pociągnąć ten wysiłek dalej. Powstała ekipa o takim składzi
 |Osoba|Background|Rola|
 |---|---|---|
 |Gosia Radymiak|   |Project Manager, który spina wszystko w całość, "_driver_" projektu.|
-|Karolina Karbarz|   |Trzymanie pieczy nad witryną, grafikami, szatą graficzną|
+|Karolina Karbarz|   |Trzyma pieczę nad witryną, grafikami, szatą graficzną|
 |Piotr Milewski a.k.a. "Piter"|Absolwent Wyższej Szkoły Europejskiej|Odpowiada za speakerów i trenerów. Magik od laptopów, ekranów, współpracuje z Manggha.|
 |Agnieszka Tkaczyk|   |Odpowiada za sponsorów i partnerów|
-|Iga Koprowska|Odbyła kurs technical writingowy dla studentów Uniwersytetu Jagielońskiego wraz z Gosia, kiedy była w Motoroli.|odpowiada za media społecznościowe, komunikaty, copywriting na stronę, wpisy.|
+|Iga Koprowska|Odbyła kurs technical writingowy dla studentów Uniwersytetu Jagielońskiego wraz z Gosia, kiedy była w Motoroli.|Specjalistka od mediów społecznościowych, komunikatów, copywritingu na stronę, wpisy.|
 
 ## soap! po raz drugi: 2-3 październik 2014
 
@@ -163,7 +163,7 @@ wysokie.
 
 Po raz pierwszy konferencja odbyła się w Mangha - dobra chemia i perspektywy na
 przyszłość. Od tamtego czasu, wszystkie kolejne edycje odbywały się w Muzeum
-Mangha.
+Mangha. Wspomnieć o strefie chillout i dodać zdjęcia.
 
 Wolontariusze - 31 LO - uczniowie pomagają w szatni, rozdają mydła z logo
 konferencji osobom z publiczności zadającym, odpowiadają na pytania, na skuterze
@@ -184,7 +184,7 @@ Temat przewodni: Innowacja kontra prostota.
 
 Temat przewodni: _Content as Code_.
 
-## Przerwa pandemiczna 2020-2021
+## Przerwa z powodu pandemii 2020-2021
 
 Jak w wielu obszarach życia, pandemia wszystko zmieniła i sporo namieszała.
 
@@ -201,7 +201,11 @@ Temat wiodący: przyszłość technical writingu.
 
 Soapuszka z soap! 2022 przekazana przez Roberta Pawlickiego do Soapuszka Crew w
 składzie: Magda Elias, Martyna Gatner-Siemieniuch, Joanna Sosnowska, Ekaterina
-Pervezentseva, Marcin Broda. W 2023 roku poduszka trafiła do Lanca Cummingsa.
+Pervezentseva, Marcin Broda. 
+
+![poduszka-soapuszka](./images/soapusza_mala-fad0d1204354736144ab7e68f11f6c30.gif)
+
+W 2023 roku poduszka trafiła do Lanca Cummingsa.
 
 Soapuszka zwiedziła kawał świata, żyła intensywnie i na krawędzi, co przypłaciła
 tym, że popruła się i rozpadła na kawałki.
@@ -286,26 +290,27 @@ doświadczenia.
 
 Tag z listą relacji z [soap!](https://techwriter.pl/tags/soap)
 
-|Rok|Temat|Liczba dni|Warsztaty?|Liczba uczestników|
-|---|---|---|---|---|
-|2023|Content Operations| | | |
-|2022|Przyszłość technical writingu| | | |
-|2019|Content as Code| | | |
-|2018|Innowacja kontra prostota| | | |
-|2017|Rozwiązywanie problemów| | | |
-|2016|"My" zamiast "Oni"| | | |
-|2015| | | | |
-|2014| | | |170/80|
-|2013| | | | |
+|Rok|Miejsce|Temat|Liczba dni|Warsztaty|Speakerzy|Liczba uczestników|Konferansjer(ka)|
+|---|---|---|---|---|---|---|---|
+|2013|Wyższa Szkoła Europejska im. ks. Józefa Tischnera|Wieloraki|1|Nie| |||
+|2014|hub:raum|Wieloraki|2|Tak||140,100|Paweł Kowaluk|
+|2015|Wiem, ale nie powiem|Wieloraki|3|Tak|17|170, 80||
+|2016|Mangha|"My" zamiast "Oni"|3|5 warsztatów|17|220, 125||
+|2017|Mangha|Rozwiązywanie problemów|3|Tak| |||
+|2018|Mangha|Innowacja kontra prostota|3|Tak|23|||
+|2019|Mangha|Content as Code|3|6 warsztatów, 60 uczestników||Rekord?|Gosia Radymiak|
+|2022|Mangha|Przyszłość technical writingu|3|Tak| ||Aga Tkaczyk|
+|2023|Mangha|Content Operations|3|Tak|||Gosia Radymiak|
+
 
 - 2013: SOAP 1
   [soap! technical communication conference - relacja](../soap-technical-communication-conference-relacja/index.md)
 - 2014: SOAP 2 [Mydło lubi zabawę](../mydlo-lubi-zabawe/index.md)
-- 2014: SOAP 2
+  - 2014: SOAP 2
   [soap! Just Wants to Have Fun](../soap-just-wants-to-have-fun/index.md)
-- 2014: SOAP 2
+  - 2014: SOAP 2
   [soap! 2014 - summary of day 1](../soap-2014-summary-of-day-1/index.md)
-- 2014: SOAP 2
+  - 2014: SOAP 2
   [soap! 2014 - summary of day 2](../soap-2014-summary-of-day-2/index.md)
 - 2015: SOAP 3 [Namydleni po raz trzeci](../namydleni-po-raz-trzeci/index.md)
 - 2016: SOAP 4
