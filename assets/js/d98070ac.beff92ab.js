@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[60067],{67:a=>{a.exports=JSON.parse('{"tag":{"label":"rocznica","permalink":"/tags/rocznica","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/rocznica","page":1,"postsPerPage":5,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
