@@ -297,7 +297,7 @@ Tag z listą relacji z [soap!](https://techwriter.pl/tags/soap)
 |2015|Wiem, ale nie powiem|Wieloraki|3|Tak|17|170, 80||
 |2016|Mangha|"My" zamiast "Oni"|3|5 warsztatów|17|220, 125||
 |2017|Mangha|Rozwiązywanie problemów|3|Tak| |||
-|2018|Mangha|Innowacja kontra prostota|3|Tak|23|||
+|2018|Mangha|Innowacja kontra prostota|3|Tak|23||Gosia Radymiak|
 |2019|Mangha|Content as Code|3|6 warsztatów, 60 uczestników||Rekord?|Gosia Radymiak|
 |2022|Mangha|Przyszłość technical writingu|3|Tak| ||Aga Tkaczyk|
 |2023|Mangha|Content Operations|3|Tak|||Gosia Radymiak|
