@@ -34,7 +34,7 @@ export default function YearlyComparisonChart() {
             data: Object.values(yearlyStats[selectedQuestion]),
             valueFormatter:
               questions.indexOf(selectedQuestion) === questions.length - 1
-                ? undefined
+                ? (value) => value.toString()
                 : currencyFormatter,
           },
         ]}
