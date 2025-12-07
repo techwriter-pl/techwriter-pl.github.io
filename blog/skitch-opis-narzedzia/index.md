@@ -6,7 +6,7 @@ tags:
   - 'narzędzia'
   - 'grafika'
   - 'instrukcje'
-  - 'on-line-help'
+  - 'online-help'
   - 'pomoc-użytkownika'
   - 'zrzuty-ekranu'
 coverImage: 'skitchlogo-e1424155444199.png'

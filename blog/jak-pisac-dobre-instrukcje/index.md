@@ -7,7 +7,7 @@ tags:
   - 'warsztat'
   - 'edukacja'
   - 'pomoc-użytkownika'
-  - 'on-line-help'
+  - 'online-help'
 coverImage: 'computer-problem-152211_640.png'
 ---
 

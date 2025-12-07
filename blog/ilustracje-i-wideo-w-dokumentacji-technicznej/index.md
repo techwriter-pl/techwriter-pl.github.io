@@ -4,7 +4,6 @@ authors: toporek
 date: '2021-07-22'
 tags:
   - 'news'
-  - 'bez-kategorii'
   - 'dobre-praktyki'
   - 'przykłady'
   - 'warsztat'

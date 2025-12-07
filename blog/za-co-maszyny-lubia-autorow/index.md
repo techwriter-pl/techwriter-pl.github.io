@@ -9,7 +9,7 @@ tags:
   - 'instrukcje'
   - 'język'
   - 'pomoc-użytkownika'
-  - 'on-line-help'
+  - 'online-help'
   - 'pomoc-użytkownika'
   - 'tłumaczenia'
 coverImage: 'hand-1571851_640.jpg'

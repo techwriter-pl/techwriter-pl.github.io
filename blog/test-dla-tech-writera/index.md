@@ -3,7 +3,6 @@ title: 'Test dla nowego tech writera'
 authors: niewiarowski
 date: '2023-01-17'
 tags:
-  - 'bez-kategorii'
   - 'dobre-praktyki'
   - 'praca'
   - 'przykłady'

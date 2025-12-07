@@ -9,7 +9,7 @@ tags:
   - 'instrukcje'
   - 'pomoc-użytkownika'
   - 'materiały-szkoleniowe'
-  - 'on-line-help'
+  - 'online-help'
   - 'praca'
   - 'szkolenia'
   - 'użyteczność'

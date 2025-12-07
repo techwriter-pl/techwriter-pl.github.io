@@ -9,7 +9,7 @@ tags:
   - 'instrukcje'
   - 'język'
   - 'pomoc-użytkownika'
-  - 'on-line-help'
+  - 'online-help'
   - 'pomoc-użytkownika'
   - 'tłumaczenia'
 coverImage: 'duplo-1981724_640.jpg'

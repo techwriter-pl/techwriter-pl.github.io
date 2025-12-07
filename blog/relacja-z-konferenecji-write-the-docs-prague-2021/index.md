@@ -262,7 +262,7 @@ komediowego:
 `zagrożonych gatunków.`
 
 Odniesienie to kojarzy mi się też ze świetną prezentacją Marty Bartnickiej i
-Wojciecha Froelicha z konferencji SOAP
+Wojciecha Froelicha z konferencji soap!
 _[''Dear Mr. Robot''](https://youtu.be/Q_if0yBogUQ)_ gdzie rekwizytem były
 ręczniki, które są przecież niezbędne do międzygalaktycznych podróży stopem.
 Osoby zaintrygowane zapraszamy do zapoznania się z twórczością Douglasa Adamsa,

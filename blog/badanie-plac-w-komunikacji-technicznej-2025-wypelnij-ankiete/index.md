@@ -42,6 +42,8 @@ pełni anonimowe podanie danych dotyczących Waszych zarobków, ścieżki karier
 wykształcenia czy innych znaczących aspektów związanych z Waszą pracą. Zebranymi
 informacjami oczywiście podzielimy się na łamach portalu.
 
+## Link do ankiety
+
 Ankieta jest dostępna pod tym [linkiem](https://forms.gle/b2C74TLaqd5vj6gg8).
 
 ## Dlaczego warto wypełnić tę ankietę?

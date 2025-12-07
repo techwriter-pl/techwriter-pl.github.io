@@ -5,7 +5,7 @@ date: '2025-12-04'
 tags:
   - 'społeczność'
   - 'z-kraju'
-  - 'rocznica'
+  - 'rocznice'
 coverImage: 'rocznica_logo.png'
 ---
 

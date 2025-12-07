@@ -9,7 +9,7 @@ tags:
   - 'instrukcje'
   - 'język'
   - 'pomoc-użytkownika'
-  - 'on-line-help'
+  - 'online-help'
   - 'pomoc-użytkownika'
   - 'tłumaczenia'
 coverImage: 'countries-1301799_640-e1530121311958.png'

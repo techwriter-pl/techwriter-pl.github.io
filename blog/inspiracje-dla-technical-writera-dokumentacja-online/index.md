@@ -7,7 +7,7 @@ tags:
   - 'warsztat'
   - 'dokumentacja'
   - 'pomoc-użytkownika'
-  - 'on-line-help'
+  - 'online-help'
 coverImage: 'inspiracje_doc_online.png'
 ---
 

@@ -8,7 +8,7 @@ tags:
   - 'instrukcje'
   - 'język'
   - 'pomoc-użytkownika'
-  - 'on-line-help'
+  - 'online-help'
   - 'pomoc-użytkownika'
 coverImage: 'Grammarlycccheck.png'
 ---
