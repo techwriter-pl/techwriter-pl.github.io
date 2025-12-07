@@ -1,5 +1,5 @@
 ---
-title: 'SOAP! - materiały z konferencji'
+title: 'soap! - materiały z konferencji'
 authors: admin
 date: '2013-10-29'
 tags:
@@ -10,7 +10,7 @@ tags:
 coverImage: 'powerpoint.gif'
 ---
 
-Skoro już jesteśmy przy konferencjach: materiały z konferencji SOAP!
+Skoro już jesteśmy przy konferencjach: materiały z konferencji soap!
 ([przeczytaj naszą relację](../soap-technical-communication-conference-relacja/index.md)),
 są już dostępne na
 [stronie organizatorów](http://www.soapconf.com/p/speakers.html). Sami

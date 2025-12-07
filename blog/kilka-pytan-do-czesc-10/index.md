@@ -138,7 +138,7 @@ seriale, mają podobne poczucie humoru i starają się sobie nawzajem pomóc.
 #### Co byś radził osobom, które chciałyby zacząć swoją przygodę z pisaniem dokumentacji?
 
 Dodać stronkę techwriter.pl do ulubionych i wpaść na
-[konferencję SOAP](http://soapconf.com/) na dobry początek. Zaczynając przygodę
+[konferencję soap!](http://soapconf.com/) na dobry początek. Zaczynając przygodę
 z pisaniem dokumentacji nie należy się zrażać na samym początku. Pierwszy rok,
 dwa dają już dużą perspektywę. Patrząc na pierwsze inwencje twórcze, można by
 się pod nosem uśmiechnąć jak to się człowiek nieraz ‘popisał’. Co więcej w tym

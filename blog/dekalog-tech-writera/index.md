@@ -7,7 +7,7 @@ tags:
   - 'warsztat'
   - 'instrukcje'
   - 'pomoc-użytkownika'
-  - 'on-line-help'
+  - 'online-help'
   - 'praca'
 coverImage: 'Homer-Simpson-commandments.jpg'
 ---

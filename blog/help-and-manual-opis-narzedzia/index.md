@@ -6,7 +6,7 @@ tags:
   - 'narzędzia'
   - 'warsztat'
   - 'pomoc-użytkownika'
-  - 'on-line-help'
+  - 'online-help'
 coverImage: 'HelpAndManual.jpg'
 ---
 

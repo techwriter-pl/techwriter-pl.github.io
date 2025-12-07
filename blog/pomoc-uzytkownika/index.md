@@ -5,7 +5,7 @@ date: '2013-10-31'
 tags:
   - 'przykłady'
   - 'warsztat'
-  - 'on-line-help'
+  - 'online-help'
   - 'pomoc-użytkownika'
   - 'praca'
 coverImage: 'onlinehelp.jpg'

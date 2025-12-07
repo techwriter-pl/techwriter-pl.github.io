@@ -226,7 +226,7 @@ Bardzo to doceniam.
 
 Patrząc na rok 2012 i na 2022 bardzo dużo się zmieniło. Zawód technical writera
 stał się bardziej rozpoznawany w Polce. Zawiązała się społeczność technical
-writerów, regularnie w Krakowie odbywa się konferencja SOAP, w Warszawie mamy
+writerów, regularnie w Krakowie odbywa się konferencja soap!, w Warszawie mamy
 studia podyplomowe z technical writingu, firmy oferują płatne staże, jest dużo
 specjalistycznych szkoleń, chociażby z UX writingu, jak i darmowych webinarów i
 meetupów. Jest dużo łatwiej wejść w zawód niż to było jeszcze kilka lat temu.

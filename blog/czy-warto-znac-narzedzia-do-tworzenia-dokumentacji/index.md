@@ -7,7 +7,7 @@ tags:
   - 'warsztat'
   - 'kariera'
   - 'pomoc-użytkownika'
-  - 'on-line-help'
+  - 'online-help'
 coverImage: 'wpid-wp-1404885704998.jpeg'
 ---
 

@@ -8,7 +8,7 @@ tags:
   - 'instrukcje'
   - 'język'
   - 'pomoc-użytkownika'
-  - 'on-line-help'
+  - 'online-help'
   - 'pomoc-użytkownika'
 coverImage: 'man-29749_640.png'
 ---

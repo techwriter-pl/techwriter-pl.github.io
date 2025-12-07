@@ -9,7 +9,7 @@ tags:
   - 'instrukcje'
   - 'język'
   - 'pomoc-użytkownika'
-  - 'on-line-help'
+  - 'online-help'
   - 'pomoc-użytkownika'
   - 'tłumaczenia'
 coverImage: 'box-3144128_640.jpg'

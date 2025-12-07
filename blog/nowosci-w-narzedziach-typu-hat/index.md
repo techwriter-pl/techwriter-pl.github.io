@@ -9,7 +9,7 @@ tags:
   - 'ze-świata'
   - 'aplikacje'
   - 'pomoc-użytkownika'
-  - 'on-line-help'
+  - 'online-help'
 coverImage: 'new-143095_640-e1443734857643.jpg'
 ---
 

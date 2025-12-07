@@ -8,7 +8,7 @@ tags:
   - 'warsztat'
   - 'dita'
   - 'pomoc-użytkownika'
-  - 'on-line-help'
+  - 'online-help'
   - 'pomoc-użytkownika'
   - 'technologie'
 coverImage: 'na-gleboka.jpg'

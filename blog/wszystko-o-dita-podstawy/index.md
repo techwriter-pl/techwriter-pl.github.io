@@ -8,7 +8,7 @@ tags:
   - 'warsztat'
   - 'dita'
   - 'pomoc-użytkownika'
-  - 'on-line-help'
+  - 'online-help'
   - 'pomoc-użytkownika'
 coverImage: 'Darwin.png'
 ---

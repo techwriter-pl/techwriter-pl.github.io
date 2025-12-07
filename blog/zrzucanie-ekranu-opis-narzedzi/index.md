@@ -7,7 +7,7 @@ tags:
   - 'warsztat'
   - 'grafika'
   - 'instrukcje'
-  - 'on-line-help'
+  - 'online-help'
   - 'pomoc-użytkownika'
   - 'zrzuty-ekranu'
 coverImage: 'Screenshot.jpeg'
