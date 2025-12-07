@@ -296,7 +296,7 @@ doświadczenia.
 
 Tag z listą relacji z [soap!](https://techwriter.pl/tags/soap)
 
-[TechWhirl - Conference Review: soap! Offers a Clean Start in Poland](https://techwhirl.com/conference-review-soap-offers-clean-start-poland/)
+[TechWhirl - Conference Review: soap! Offers a Clean Start in Poland 2014?](https://techwhirl.com/conference-review-soap-offers-clean-start-poland/)
 
 [Cynthia Peter's Review of 2023 soap!](https://medium.com/postcards-by-fancy-nomads/attending-soap-conference-in-krakow-poland-ac7e4c98eb13)
 
