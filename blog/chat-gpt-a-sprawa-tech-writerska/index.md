@@ -341,10 +341,13 @@ przewidujący następny prawdopodobny wyraz.
 
 ChatGPT nie ma prawdziwej wiedzy o świecie, ludzkiej egzystencji. Nie chcę
 pastwić się nad biednym algorytmem, ale dla celów edukacyjnych pokazuję poniższy
-screen, bo jest komiczny i dobrze pokazuje istniejące
-ograniczenia:![](images/upload_0415-300x121.png)Wiem, że pytanie zostało zadane
-niedbale. Niemniej bawi mnie, że na pytanie "_czy olejować nogi od stołu_"
-dowiaduje się, że jeśli je zaolejuję, to będą zaolejowane. I amen. 😉
+screen, bo jest komiczny i dobrze pokazuje istniejące ograniczenia:
+
+![](images/upload_0415-300x121.png)
+
+Wiem, że pytanie zostało zadane niedbale. Niemniej bawi mnie, że na pytanie
+"_czy olejować nogi od stołu_" dowiaduje się, że jeśli je zaolejuję, to będą
+zaolejowane. I amen. 😉
 
 Domyślam się, że w bazie danych były głównie artykuły o olejowaniu blatów stołów
 i model nie potrafił utworzyć oryginalnej odpowiedzi na zadany problem. I jak
@@ -387,9 +390,12 @@ sami będziemy się pocić nad opisaniem wewnątrzfirmowych patentów. Może prz
 ChatGPT pomoże upewnić się, że tekst spełnia normy
 [Simplified Technical English](https://pl.wikipedia.org/wiki/J%C4%99zyk_angielski_uproszczony)?
 
-Przykład konwersacji w temacie:![](images/upload_0416-455x1024.png)Niezależnie
-od tego, czy aplikacja może posłużyć do sprawdzania tekstu pod kątem STE, i tak
-zamierzam uzyskać certyfikat STE w tym roku 😉
+Przykład konwersacji w temacie:
+
+![](images/upload_0416-455x1024.png)
+
+Niezależnie od tego, czy aplikacja może posłużyć do sprawdzania tekstu pod kątem
+STE, i tak zamierzam uzyskać certyfikat STE w tym roku 😉
 
 Poza tym wciąż nierozwiązany zostaje problem poufności danych. Sławomir
 Radzymiński przedstawił świetną wizję - w jakieś przyszłości firmy będą
@@ -556,7 +562,9 @@ listy zawodów zagrożonych należy też dodać prawników? Czas pokaże.
 
 Co za ekscytujący technologicznie czas! Myślę, że w przeciągu tego roku jeszcze
 wiele nas zaskoczy, a sposób, w jaki będziemy wchodzić w interakcje z
-technologią, z pewnością się zmieni.![](images/download-11-1024x1024.png)
+technologią, z pewnością się zmieni.
+
+![](images/download-11-1024x1024.png)
 
 ## Podziękowania
 
