@@ -17,7 +17,7 @@ artykułu dowiesz się:
 
 - Skąd wział się pomysł na tę konferencję?
 - O co chodzi z tym różowym mydłem?
-- Co kryje się za akronimem S-O-A-P?
+- Co kryje się za literami S-O-A-P?
 - Jak przebiegał rozwój tej inicjatywy i co z niej wynikło?
 
 <!--truncate-->
@@ -223,6 +223,7 @@ W czasie konkursu było dużo śmiechu. Każdy miał szansę wykazania się wied
 technical writingu. Emocje sięgnęły zenitu, a sztuczna inteligencja stworzona na
 potrzeby teleturnieju przez Pawła zaczęła żyć własnym życiem i co i rusz
 zaznaczała swoją niezależność.
+Dzięki tej grze poznałem Mateusza Boryckiego, który dobrzy wywiązywał się z bycia głową rodziny w tej dokumentacyjnej "Familiadzie". 
 
 ## soap! po raz dziewiąty: 1-3 czerwca 2023
 
@@ -300,7 +301,7 @@ Tag z listą relacji z [soap!](https://techwriter.pl/tags/soap)
 
 [Cynthia Peter's Review of 2023 soap!](https://medium.com/postcards-by-fancy-nomads/attending-soap-conference-in-krakow-poland-ac7e4c98eb13)
 
-| Rok  | Miejsce                                           | Temat                         | Liczba dni | Warsztaty                    | Speakerzy | Liczba uczestników | Konferansjer(ka) |
+| Rok  | Miejsce                                           | Temat                         | Liczba dni | Warsztaty                    | Speakerzy | Liczba uczestników | Mistrzyni/mistrz ceremonii |
 | ---- | ------------------------------------------------- | ----------------------------- | ---------- | ---------------------------- | --------- | ------------------ | ---------------- |
 | 2013 | Wyższa Szkoła Europejska im. ks. Józefa Tischnera | Wieloraki                     | 1          | Nie                          |           |                    |                  |
 | 2014 | hub:raum                                          | Wieloraki                     | 2          | Tak                          |           | 140,100            | Paweł Kowaluk    |
