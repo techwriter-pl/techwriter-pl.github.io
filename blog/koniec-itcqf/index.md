@@ -25,7 +25,7 @@ praktyce jak bardzo wartościowe i potrzebne było (i nadal jest) szkolenie
 ## Skąd taka decyzja?
 
 Według
-[oficjalnej informacji na stronie ITCQF](https://itcqf.org/announcement-of-foundation-liquidation/),
+oficjalnej informacji na stronie ITCQF,
 fundacja podjęła decyzję o zakończeniu działalności, ponieważ nie była w stanie
 osiągnąć założonych celów w obszarze edukacji i certyfikacji w komunikacji
 technicznej.

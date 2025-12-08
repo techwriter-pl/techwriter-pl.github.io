@@ -40,14 +40,13 @@ Czym jest ITCQF? Według organizatorów szkoleń i egzaminów:
 > profesjonalistów na całym świecie w różnych organizacjach.
 
 Ale ponieważ najlepiej sprawdzić u źródła, skontaktowaliśmy się z twórcami tej
-organizacji, odwiedziliśmy też stronę internetową
-[itcqf.org](http://itcqf.org/),  i... musimy przyznać, że przypadła nam do
-gustu. Nie jest to może najbardziej rozpoznawalny certyfikat na świecie, ale w
-naszych warunkach praktycznie jedyny możliwy do zdobycia. Dodatkowo, widać, że
-twórcy nie zamierzają poprzestać na poziomie Foundation i już teraz planują
-kolejne, bardziej wyspecjalizowane szkolenia dla Technical Writerów, skupione
-już na konkretnych częściach naszej profesji, np. zarządzanie, tłumaczenia,
-Agile, automatyzacja, DITA...
+organizacji, odwiedziliśmy też stronę internetową itcqf.org,  i... musimy
+przyznać, że przypadła nam do gustu. Nie jest to może najbardziej rozpoznawalny
+certyfikat na świecie, ale w naszych warunkach praktycznie jedyny możliwy do
+zdobycia. Dodatkowo, widać, że twórcy nie zamierzają poprzestać na poziomie
+Foundation i już teraz planują kolejne, bardziej wyspecjalizowane szkolenia dla
+Technical Writerów, skupione już na konkretnych częściach naszej profesji, np.
+zarządzanie, tłumaczenia, Agile, automatyzacja, DITA...
 
 ![wykres](images/wykres1.png)
 

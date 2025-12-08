@@ -77,7 +77,7 @@ także różne odmiany stanowisk związanych z tworzeniem treści technicznej. Z
 jednej strony wpływ na to ma chęć zmniejszenia kosztów przez zachodnie firmy,
 gdyż polscy pracownicy są dla nich nadal tańsi. Z drugiej strony, wciąż widoczny
 jest rozwój społeczności związanej z branżą oraz możliwość dokształcenia się czy
-to poprzez [certyfikat ITCQF](https://itcqf.org/) czy
+to poprzez certyfikat ITCQF czy
 [studia podyplomowe na Vistuli](https://www.vistula.edu.pl/kierunki-studiow/kontynuacja-edukacji/studia-podyplomowe/informatyka/komunikacja-techniczna),
 co zwiększa kwalifikacje pracowników i wpływa na większe zainteresowanie
 pracodawców.

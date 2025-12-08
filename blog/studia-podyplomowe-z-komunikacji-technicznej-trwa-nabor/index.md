@@ -42,9 +42,9 @@ zajęć:
 Po pierwszej edycji prowadzący zdecydowali się na niewielkie, ale znaczące
 zmiany w programie, wszystko po to, aby lepiej przygotować studentów na wyzwania
 czekające ich na rynku pracy. Duży plus za wbudowanie w program zakresu
-certyfikacji [ITCQF](http://itcqf.org/) – koszt szkolenia na
-[wolnym rynku](/szkolenia/) to właściwie połowa kosztu całych studiów. Naszym
-zdaniem stosunek jakości do ceny przedstawia się bardzo korzystnie.
+certyfikacji ITCQF – koszt szkolenia na [wolnym rynku](/szkolenia/) to właściwie
+połowa kosztu całych studiów. Naszym zdaniem stosunek jakości do ceny
+przedstawia się bardzo korzystnie.
 
 Bardzo dobre wrażenie robi też długa lista partnerów kierunku - dzięki
 współpracy z firmami memoQ, MadCap, Atlassian, Syncro Soft, czy TechSmith

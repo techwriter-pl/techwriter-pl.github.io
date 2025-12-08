@@ -42,7 +42,7 @@ obejmuje podstawowe zagadnienia dotyczące tworzenia oraz publikowania różnych
 typów dokumentacji technicznej, zarządzania projektem i zespołem
 dokumentacyjnym, tworzenia strategii publikowania treści oraz technik i narzędzi
 wykorzystywanych w zarządzaniu informacją. Studenci zostaną również przygotowani
-do uzyskania certyfikatu [ITCQF](http://itcqf.org/) Foundation Level i będą
+do uzyskania certyfikatu ITCQF (Foundation Level) i będą
 mieli możliwość (za dodatkową opłatą) podejścia do egzaminu. Studia kończą się
 praktycznym projektem związanym z dziedziną studiów, który podlega obronie przed
 Komisją Egzaminacyjną.

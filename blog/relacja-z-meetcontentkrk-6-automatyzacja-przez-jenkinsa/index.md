@@ -52,7 +52,7 @@ społeczności tech commu. Od zarania dziejów pisze dla techwriter.pl i to on
 motywuje całą redakcję do pracy. To on werbuje nowych autorów. To on
 przeprowadza wywiady z kolegami po fachu. To on nawiązuje współpracę z
 konferencjami i innymi partnerami (patrz "patronat medialny"). Poza tym aktywnie
-działa i szkoli w ramach [ITCQF](http://itcqf.org/).
+działa i szkoli w ramach ITCQF.
 
 I jak się okazuje, Michał jest też porywającym prezenterem, o czym poświadczą
 uczestnicy MeetContentKRK #6.

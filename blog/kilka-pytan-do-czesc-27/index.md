@@ -88,13 +88,13 @@ określiłam, prowadzenie śledztwa.
 
 #### 5\. Jakie doświadczenia zebrałeś/aś jako technical writer? W jakich projektach brałeś/aś udział?
 
-W tym roku po raz pierwszy uczestniczyłam w konferencji Soap!. Co prawda online,
+W tym roku po raz pierwszy uczestniczyłam w konferencji soap!. Co prawda online,
 a nic nie zastąpi spotkania na żywo (w trybie online nie miałam szans na
 złapanie poduszki, która powędrowała w stronę publiczności podczas ostatniego
 wystąpienia, a bardzo chciałam ją złapać), ale poszerzył mi się zdecydowanie
 horyzont postrzegania tego, co może robić tech writer. Na tego typu spotkaniach
 lubię też bardzo obserwować w jaki sposób są prezentowane treści, zwłaszcza w
-warstwie storytellingu. Soap! był więc dla mnie znakomitym obiektem obserwacji.
+warstwie storytellingu. soap! był więc dla mnie znakomitym obiektem obserwacji.
 
 Mam też za sobą zdany certyfikat ITCQF. Nie tyle ważny jest jednak sam
 certyfikat, ile zawartość sylabusa, którą przyswoiłam. Pozwoliło mi to na

@@ -65,8 +65,7 @@ Studia trwają dwa semestry i kosztują 6600 zł. Na zajęcia organizatorzy
 przewidzieli 170 godzin – konwersatoriów (wykłady i case study) oraz warsztatów
 (ćwiczeń) w pracowni komputerowej. Każdy absolwent studiów będzie miał możliwość
 (za dodatkową opłatą wynoszącą 800 zł brutto) uzyskania międzynarodowego
-certyfikatu [ITCQF](https://itcqf.org/) (Foundation Certificate in Technical
-Communication).
+certyfikatu ITCQF (Foundation Certificate in Technical Communication).
 
 Poniżej szczegółowe zagadnienia, które zostaną poruszone w trakcie zajęć:
 
