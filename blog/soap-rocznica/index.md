@@ -63,7 +63,7 @@ wtedy takich kierunków na studiach, które oferowałby taką wiedzę.
 
 ## Pierwszy soap!
 
-### Przygotowania do pierwszego soap!
+### Przygotowania
 
 > Robimy długi research?
 
@@ -107,7 +107,7 @@ doświadczonych speakerów.
 Udawało się dobrze dogadywać ze sponsorami, których obecność na konferencji była
 nienachalna, nie robili wielkie wielkiego demo swojego produktu.
 
-### Czas
+### Wyścig z czasem
 
 W cztery miesiące zorganizowali międzynarodowe wydarzenie.
 
@@ -118,7 +118,8 @@ Szkoły Europejskiej im. ks. Józefa Tischnera, której Gosia była absolwentką
 Organizatorzy soap! znaleźli kilku sponsorów. Agnieszka Tkaczyk pełniła rolę
 konferansjerki i świetnie sobie poradziła mimo opornego projektora.
 
-Noz Urbina wystąpił jako speaker.
+Noz Urbina, którego organizatorzy słuchali podczas Congility, na soap! również
+wystąpił jako speaker.
 
 Organizując takie spotkanie można dowiedzieć się o innych i o sobie.
 
@@ -128,7 +129,7 @@ Organizując takie spotkanie można dowiedzieć się o innych i o sobie.
 
 ![](images/feedback.png)
 
-### Listopadowe spotkanie w Massolit Books and Cafe
+### Listopadowe spotkanie w Massolit Books and Cafe (Kraków)
 
 Widać było spory apetyt na dzielenie się wiedzą, skoro w listopadzie tamtego
 roku doszło do spotkania z całkiem rozbudowaną agendą.
@@ -137,7 +138,7 @@ roku doszło do spotkania z całkiem rozbudowaną agendą.
 
 Cytując oryginalny podpis z wpisu na ówczesnej stronie soap!:
 
-> You can tell when a man is serious
+> You can tell when a man is serious.
 
 ### Po pierwszym soap!
 
