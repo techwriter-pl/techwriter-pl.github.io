@@ -61,7 +61,9 @@ doświadczenie zawodowe i ograniczony feedback od ekspertów, z którymi pracowa
 Nasi bohaterowie czuli potrzebę zwiększenia świadomości o branży. Brakowało
 wtedy takich kierunków na studiach, które oferowałby taką wiedzę.
 
-## Przygotowania do pierwszego soap!
+## Pierwszy soap!
+
+### Przygotowania do pierwszego soap!
 
 > Robimy długi research?
 
@@ -109,9 +111,9 @@ nienachalna, nie robili wielkie wielkiego demo swojego produktu.
 
 W cztery miesiące zorganizowali międzynarodowe wydarzenie.
 
-## soap! po raz pierwszy: 3 październik 2013
+### soap! odbywa się po raz pierwszy: 3 październik 2013
 
-W konferencji wzięło udział 100 osób, odbyła się ono na uczelni na Wyższej
+W konferencji wzięło udział 120 osób, odbyła się ono na uczelni na Wyższej
 Szkoły Europejskiej im. ks. Józefa Tischnera, której Gosia była absolwentką.
 Organizatorzy soap! znaleźli kilku sponsorów. Agnieszka Tkaczyk pełniła rolę
 konferansjerki i świetnie sobie poradziła mimo opornego projektora.
@@ -120,24 +122,50 @@ Noz Urbina wystąpił jako speaker.
 
 Organizując takie spotkanie można dowiedzieć się o innych i o sobie.
 
-## Po pierwszym soap!
+![](images/converstations.jpg)
+
+### Odczucia uczestników
+
+![](images/feedback.png)
+
+### Listopadowe spotkanie w Massolit Books and Cafe
+
+Widać było spory apetyt na dzielenie się wiedzą, skoro w listopadzie tamtego
+roku doszło do spotkania z całkiem rozbudowaną agendą.
+
+![](images/pawel.png)
+
+Cytując oryginalny podpis z wpisu na ówczesnej stronie soap!:
+
+> You can tell when a man is serious
+
+### Po pierwszym soap!
 
 Paulina i Paweł czuli się zmeczeni przez planowanie po pracy i czas wolny
 wypełniony organizacją konferencji.
 
-### Obecny zespół od czasu drugiej edycji
+## Obecny zespół od czasu drugiej edycji
 
 Gosia chciała pociągnąć ten wysiłek dalej. Powstała ekipa o takim składzie:
 
-| Osoba                         | Background                                                                                                      | Rola                                                                                   |
-| ----------------------------- | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| Gosia Radymiak                |                                                                                                                 | Project Manager, który spina wszystko w całość, "_driver_" projektu.                   |
-| Karolina Karbarz              |                                                                                                                 | Trzyma pieczę nad witryną, grafikami, szatą graficzną                                  |
-| Piotr Milewski a.k.a. "Piter" | Absolwent Wyższej Szkoły Europejskiej                                                                           | Odpowiada za speakerów i trenerów. Magik od laptopów, ekranów, współpracuje z Manggha. |
-| Agnieszka Tkaczyk             |                                                                                                                 | Odpowiada za sponsorów i partnerów                                                     |
-| Iga Koprowska                 | Odbyła kurs technical writingowy dla studentów Uniwersytetu Jagielońskiego wraz z Gosia, kiedy była w Motoroli. | Specjalistka od mediów społecznościowych, komunikatów, copywritingu na stronę, wpisy.  |
+| Osoba                         | Background                                                                                                      | Rola                                                                                      |
+| ----------------------------- | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| Gosia Radymiak                |                                                                                                                 | Project Manager, który spina wszystko w całość, "_driver_" projektu.                      |
+| Karolina Karbarz              |                                                                                                                 | Trzyma pieczę nad witryną, grafikami, szatą graficzną                                     |
+| Piotr Milewski a.k.a. "Piter" | Absolwent Wyższej Szkoły Europejskiej                                                                           | Odpowiada za speakerów i trenerów. Magik od laptopów, ekranów, współpracuje z Manggha.    |
+| Agnieszka Tkaczyk             |                                                                                                                 | Odpowiada za sponsorów i partnerów                                                        |
+| Iga Koprowska                 | Odbyła kurs technical writingowy dla studentów Uniwersytetu Jagielońskiego wraz z Gosia, kiedy była w Motoroli. | Specjalistka od mediów społecznościowych, komunikatów, copywritingu na stronę, brandingu. |
 
-## soap! po raz drugi: 2-3 październik 2014
+Piter i jego technologiczne królestwo/centrum kontroli wszechświata:
+
+![](images/laptopy.jpg)
+
+> Don't be too proud of the technological terror, you have constructed!
+
+Link do źródła na
+[platformie X](https://x.com/em_piter/status/999946418587684864?t=fvLzHHgbrzLc-Zd1MZyWKQ&s=07).
+
+## Po raz drugi: 2-3 października 2014
 
 Ekipa postanowiła zmienić miejsce z powodu ograniczeń wcześniejszej lokalizacji.
 Wybrali klimatyczny budynek dawnej fabryki kabli, który został zaadaptowany na
@@ -148,7 +176,7 @@ Paweł pełnił rolę konferansjera.
 Pierwszy, darmowy dzień konferencji przyciągnął 170 uczestników, drugi płatny
 dzień 80.
 
-## soap! po raz trzeci: 8-9 października 2015
+## Po raz trzeci: 8-9 października 2015
 
 Plaża Krakow jakieś lokum, które należy przemilczeć.
 
@@ -159,11 +187,15 @@ musieli siedzieć w kurtkach i szalikach, było bardzo zimno (październik).
 Mimo takich trudności, morale i poziom merytoryczny wydarzenia były nader
 wysokie.
 
-## soap! po raz czwarty: 1-3 czerwca 2016
+## Po raz czwarty: 1-3 czerwca 2016
 
 Po raz pierwszy konferencja odbyła się w Mangha - dobra chemia i perspektywy na
 przyszłość. Od tamtego czasu, wszystkie kolejne edycje odbywały się w Muzeum
-Mangha. Wspomnieć o strefie chillout i dodać zdjęcia.
+Mangha.
+
+### Miejsce relaksu i dobrych rozmów
+
+Wspomnieć o strefie chillout i dodać zdjęcia.
 
 Wolontariusze - 31 LO - uczniowie pomagają w szatni, rozdają mydła z logo
 konferencji osobom z publiczności zadającym, odpowiadają na pytania, na skuterze
@@ -172,15 +204,15 @@ charakteryzuje się tym, że jest tam dużo aktywności dla uczniów.
 
 Temat przewodni: "My" zamiast "Oni".
 
-## soap! po raz piąty: 7-9 czerwca 2017
+## Po raz piąty: 7-9 czerwca 2017
 
 Temat przewodni: Rozwiązywanie problemów.
 
-## soap! po raz szósty: 23-25 maja 2018
+## Po raz szósty: 23-25 maja 2018
 
 Temat przewodni: Innowacja kontra prostota.
 
-## soap! po raz siódmy: 5-7 czerwca 2019
+## Po raz siódmy: 5-7 czerwca 2019
 
 Temat przewodni: _Content as Code_.
 
@@ -193,7 +225,7 @@ się mniej skłonni do podróży.
 
 Trudniej było znaleźć sponsorów.
 
-## soap! po raz ósmy: 1-3 czerwca 2022
+## Po raz ósmy: 1-3 czerwca 2022
 
 Powrót po przerwie należał do trudnych. Ekipie zależało na tym, by zrewidować
 dobre i złe praktyki, które zdążyły się akumulować przez lata. Stale są
@@ -216,6 +248,8 @@ tym, że popruła się i rozpadła na kawałki.
 
 ### Teleturniej S.U.P.E.R G.A.M.E
 
+![](images/super.jpg)
+
 Wyjątkową nowością, jaką tylko uświadczyliśmy na konferencji w 2022, był
 teleturniej. Oto
 [kultowy zwiastun](https://www.linkedin.com/posts/soap-techcomm_excitingnewsalert-supergame-soapconf-activity-6920791703234699264-6mUf).
@@ -223,15 +257,17 @@ W czasie konkursu było dużo śmiechu. Każdy miał szansę wykazania się wied
 technical writingu. Emocje sięgnęły zenitu, a sztuczna inteligencja stworzona na
 potrzeby teleturnieju przez Pawła zaczęła żyć własnym życiem i co i rusz
 zaznaczała swoją niezależność.
-Dzięki tej grze poznałem Mateusza Boryckiego, który dobrzy wywiązywał się z bycia głową rodziny w tej dokumentacyjnej "Familiadzie". 
 
-## soap! po raz dziewiąty: 1-3 czerwca 2023
+Dzięki tej grze poznałem Mateusza Boryckiego, który dobrzy wywiązywał się z
+bycia głową rodziny w tej dokumentacyjnej "Familiadzie".
+
+## Po raz dziewiąty: 1-3 czerwca 2023
 
 Ostatnia edycja konferencji jaka dotychczas miała miejsce.
 
 Podkreślić warto jest to, że w tej edycji Paulina Dygoń, która należy do
-założycieli pierwszej/pierwszych edycji, tym razem stała się speakerką i
-przedstawiła temat "Why a PM is like a DJ".
+założycieli pierwszej/pierwszych edycji, tym razem po raz pierwszy wzięła do
+ręki mikrofon i przedstawiła temat "Why a PM is like a DJ".
 
 Temat przewodni: _Content Operations_.
 
@@ -253,7 +289,25 @@ upewnieniem się, że różne konkurujące nurty technical writingowe są dobrze
 zbalansowane. W uwagach uczestników często padały prośby o więcej praktycznych
 zajęć i tematów. Wykłady nie muszą być tylko wysokopoziomowe.
 
-## soap! wpływ na środowisko skupione wokół komunikacji technicznej
+## Podsumowanie faktów i liczb
+
+Tutaj coś dla miłośników suchych danych. Tabelka pomaga prześledzić jak
+rozwijały się te wydarzenia. Treści jest sporo, więc możliwe, że potrzebować
+będziesz przewijać tabelę w poziomie paskiem u dołu.
+
+| Rok  | Miejsce                                           | Temat wiodący                 | Liczba dni | Warsztaty                | Speakerzy | Liczba uczestników | Mistrz(yni) ceremonii | Opcja wirtualna? |
+| ---- | ------------------------------------------------- | ----------------------------- | ---------- | ------------------------ | --------- | ------------------ | --------------------- | ---------------- |
+| 2013 | Wyższa Szkoła Europejska im. ks. Józefa Tischnera |                               | 1          | Nie                      |           | 120                |                       | Nie              |
+| 2014 | hub:raum                                          | a clean; start;               | 2          | Tak                      |           | 140, 100           | Paweł                 | Nie              |
+| 2015 | Do przemilczenia                                  | Wieloraki                     | 3          | Tak                      | 17        | 170, 80            |                       |                  |
+| 2016 | Mangha                                            | "My" zamiast "Oni"            | 3          | 5 sesji                  | 17        | 220, 125           |                       |                  |
+| 2017 | Mangha                                            | Rozwiązywanie problemów       | 3          | Tak                      |           |                    |                       |                  |
+| 2018 | Mangha                                            | Innowacja kontra prostota     | 3          | Tak                      | 23        |                    | Gosia                 | Nie              |
+| 2019 | Mangha                                            | _Content as Code_             | 3          | 6 warsztatów dla 60 osób |           | Rekord?            | Gosia                 | Nie              |
+| 2022 | Mangha                                            | Przyszłość technical writingu | 3          | Tak                      |           |                    | Aga                   | Tak              |
+| 2023 | Mangha                                            | _Content Operations_          | 3          | Tak                      |           |                    | Gosia                 | Tak              |
+
+## Wpływ soap! na środowisko skupione wokół komunikacji technicznej
 
 Gosia Radymiak:
 
@@ -291,6 +345,8 @@ W październiku 2025 soap! skończył 12 lat! Gratulacje dla ekipy organizujące
 cudowne wydarzenia i dla wszystkich jej uczestników. Warto było dzielić te
 doświadczenia.
 
+## Zwrócenie się do publiki
+
 ## Dalsza lektura
 
 ### Relacje z soap!
@@ -301,37 +357,25 @@ Tag z listą relacji z [soap!](https://techwriter.pl/tags/soap)
 
 [Cynthia Peter's Review of 2023 soap!](https://medium.com/postcards-by-fancy-nomads/attending-soap-conference-in-krakow-poland-ac7e4c98eb13)
 
-| Rok  | Miejsce                                           | Temat                         | Liczba dni | Warsztaty                    | Speakerzy | Liczba uczestników | Mistrzyni/mistrz ceremonii |
-| ---- | ------------------------------------------------- | ----------------------------- | ---------- | ---------------------------- | --------- | ------------------ | ---------------- |
-| 2013 | Wyższa Szkoła Europejska im. ks. Józefa Tischnera | Wieloraki                     | 1          | Nie                          |           |                    |                  |
-| 2014 | hub:raum                                          | Wieloraki                     | 2          | Tak                          |           | 140,100            | Paweł Kowaluk    |
-| 2015 | Wiem, ale nie powiem                              | Wieloraki                     | 3          | Tak                          | 17        | 170, 80            |                  |
-| 2016 | Mangha                                            | "My" zamiast "Oni"            | 3          | 5 warsztatów                 | 17        | 220, 125           |                  |
-| 2017 | Mangha                                            | Rozwiązywanie problemów       | 3          | Tak                          |           |                    |                  |
-| 2018 | Mangha                                            | Innowacja kontra prostota     | 3          | Tak                          | 23        |                    | Gosia Radymiak   |
-| 2019 | Mangha                                            | Content as Code               | 3          | 6 warsztatów, 60 uczestników |           | Rekord?            | Gosia Radymiak   |
-| 2022 | Mangha                                            | Przyszłość technical writingu | 3          | Tak                          |           |                    | Aga Tkaczyk      |
-| 2023 | Mangha                                            | Content Operations            | 3          | Tak                          |           |                    | Gosia Radymiak   |
-
-- 2013: SOAP 1
+- 2013: soap! 1
   [soap! technical communication conference - relacja](../soap-technical-communication-conference-relacja/index.md)
-- 2014: SOAP 2 [Mydło lubi zabawę](../mydlo-lubi-zabawe/index.md)
-  - 2014: SOAP 2
+- 2014: soap! 2 [Mydło lubi zabawę](../mydlo-lubi-zabawe/index.md)
+  - 2014: soap! 2
     [soap! Just Wants to Have Fun](../soap-just-wants-to-have-fun/index.md)
-  - 2014: SOAP 2
+  - 2014: soap! 2
     [soap! 2014 - summary of day 1](../soap-2014-summary-of-day-1/index.md)
-  - 2014: SOAP 2
+  - 2014: soap! 2
     [soap! 2014 - summary of day 2](../soap-2014-summary-of-day-2/index.md)
-- 2015: SOAP 3 [Namydleni po raz trzeci](../namydleni-po-raz-trzeci/index.md)
-- 2016: SOAP 4
+- 2015: soap! 3 [Namydleni po raz trzeci](../namydleni-po-raz-trzeci/index.md)
+- 2016: soap! 4
   [Konferencja soap! 2016 - podsumowanie](../konferencja-soap-2016-podsumowanie/index.md)
-- 2017: SOAP 5
+- 2017: soap! 5
   [soap! 2017 już za nami - relacja](../soap-2017-juz-za-nami-relacja/index.md)
-- 2018: SOAP 6
+- 2018: soap! 6
   [Konferencja soap! 2018 - relacja](../konferencja-soap-2018-relacja/index.md)
-- 2019: SOAP 7
+- 2019: soap! 7
   [Konferencja soap! 2019 - (wideo)relacja](../konferencja-soap-2019-wideorelacja/index.md)
-- 2022: SOAP 8
+- 2022: soap! 8
   [Doniesienia z tegorocznej konferencji soap! 2022!](../doniesienia-z-tegoroczenj-konferencji-soap-2022/index.md)
-- 2023: SOAP 9
+- 2023: soap! 9
   [Relacja z tegorocznej konferencji soap 2023!](../relacja-z-tegorocznej-konferencji-soap-2023/index.md)
