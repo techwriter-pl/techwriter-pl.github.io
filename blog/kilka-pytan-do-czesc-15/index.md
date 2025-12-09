@@ -146,10 +146,9 @@ Tech Writera. Jeśli władasz angielskim i masz wrodzoną ciekawość - moim zda
 to już połowa sukcesu. Tech Writerów z doświadczeniem jest nadal w Polsce mało,
 więc firmy same decydują się na ich wyszkolenie.
 
-Dla rozpoczynających przygodę z Tech Writingiem polecam szkolenie
-[ITCQF](http://itcqf.org/) - International Technical Communication
-Qualifications Foundation, które jest świetną podstawą do wkroczenia w świat
-komunikacji technicznej.
+Dla rozpoczynających przygodę z Tech Writingiem polecam szkolenie ITCQF -
+International Technical Communication Qualifications Foundation, które jest
+świetną podstawą do wkroczenia w świat komunikacji technicznej.
 
 Jeśli nie wiesz jak zacząć, to przyjedź na
 [konferencję soap!](http://soapconf.com/) do Krakowa lub wpadnij na

@@ -109,9 +109,9 @@ słowa latały gęsto, pierwsze szkice wybuchały, a tematy ulegały modyfikacji
 Czas gonił, bo finalny draft musiał być gotowy na początku maja. Od tego momentu
 zaczynał się czas na review dla opiekunów projektów - dokładnie tak, jak dzieje
 się to w przedsięwzięciach komercyjnych. W międzyczasie na zajęciach z Tomkiem
-Prusem pilnie przygotowywaliśmy się do egzaminu [ITCQF](https://itcqf.org/) -
-nie jest on wprawdzie obowiązkowy, ale grzechem byłoby nie skorzystać z
-możliwości szkolenia u specjalisty.
+Prusem pilnie przygotowywaliśmy się do egzaminu ITCQF - nie jest on wprawdzie
+obowiązkowy, ale grzechem byłoby nie skorzystać z możliwości szkolenia u
+specjalisty.
 
 Aż w końcu nadszedł TEN dzień: publiczna prezentacja projektu zaliczeniowego.
 Każdy dostawał do dyspozycji 10 minut, każdy miał też szansę zadawania pytań

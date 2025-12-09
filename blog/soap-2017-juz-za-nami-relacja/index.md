@@ -1,5 +1,5 @@
 ---
-title: 'Soap! 2017 już za nami - relacja'
+title: 'soap! 2017 już za nami - relacja'
 authors: kuba
 date: '2017-06-26'
 tags:
@@ -25,7 +25,7 @@ z perspektywy Techwriter.pl.
 
 ### Gdzie się działo?
 
-Soap! już po raz drugi gościł w
+soap! już po raz drugi gościł w
 [Muzeum Sztuki i Techniki Japońskiej Manggha](http://manggha.pl/), w samym
 centrum Krakowa. Widok na Wawel, klimatyczny ogród, dobrze nagłośniona sala
 główna, nowoczesna architektura - właściwie trudno o lepsze miejsce dla tego
@@ -167,9 +167,9 @@ projektować). I nie jest to tak szalone, jak brzmi. To interaktywne spotkanie
 rzuciło nowe światło na kilka elementów, które bardzo łatwo umykają nam podczas
 projektowania jakichkolwiek rozwiązań dla użytkownika.
 
-### Soap! rośnie
+### soap! rośnie
 
-Soap! zdecydowanie się rozwija. Konferencja, która rozpoczynała jako lokalne
+soap! zdecydowanie się rozwija. Konferencja, która rozpoczynała jako lokalne
 wydarzenie, na naszych oczach przeradza się w istotny, międzynarodowy punkt na
 tech commowej mapie Europy, jednocześnie nie zatracając atmosfery wydarzenia
 organizowanego przez paczkę przyjaciół. Przyjemnie na to patrzeć i przyjemnie

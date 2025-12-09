@@ -1,5 +1,5 @@
 ---
-title: 'Doniesienia z tegorocznej konferencji Soap 2022!'
+title: 'Doniesienia z konferencji soap! 2022'
 authors: toporek
 date: '2022-07-17'
 tags:
@@ -508,9 +508,7 @@ liczbie ofert pracy ze słowami kluczowymi "technical writer" względem roku
 ubiegłego w poszczególnych krajach. Okazuje się, że Polska jest bardzo
 atrakcyjnym miejscem dla pisarzy technicznych. To właśnie w ojczyźnie
 Słowackiego odnotowano jeden z największych wzrostów liczby ofert. Posiadamy
-również największą reprezentację zatrudnionych specjalistów. Chcesz dowiedzieć
-się, w którym kraju otrzymasz najlepszy wskaźnik siły nabywczej względem ceny
-masła? Odwiedź witrynę [ITCQF.com.](https://itcqf.org/materials/)
+również największą reprezentację zatrudnionych specjalistów.
 
 Raport przedstawia region Europy Środkowej i Wschodniej jako scenę
 niespotykanego rozwoju. Może rozważysz pracę w jednym z krajów o największej

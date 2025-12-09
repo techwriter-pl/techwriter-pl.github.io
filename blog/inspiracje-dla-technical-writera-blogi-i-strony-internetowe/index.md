@@ -96,7 +96,7 @@ zainteresowane tą tematyką mogą nie tylko poszerzać wiedzę na temat nowinek
 technologicznych, ale także zgłosić swoją chęć jako autor tekstów na stronę,
 doskonaląc swe pisarskie umiejętności.
 
-[ITCQF](https://itcqf.org/) - strona międzynarodowej organizacji non-profit
+ITCQF - strona międzynarodowej organizacji non-profit
 promującej i wspierającej rozwój komunikacji technicznej w Eurpie i na świecie.
 Do głównych działań organizacji należą: dostarczenie odpowiednich szkoleń i
 certyfikatów, zwiększanie widoczności zawodu komunikacji technicznej i łączenie

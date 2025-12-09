@@ -156,7 +156,7 @@ umiejętności, do których w szczególności należą:
 Jeśli chodzi o wykształcenie kierunkowe to doczekaliśmy się w Polsce pierwszych
 [studiów podyplomowych z komunikacji technicznej](https://www.vistula.edu.pl/kierunki-studiow/kontynuacja-edukacji/studia-podyplomowe/informatyka/komunikacja-techniczna),
 które są dostępne na prywatnej uczelni Vistula. Drugą opcją jest dwudniowy kurs
-[ITCQF](https://itcqf.org/), który kończy się certyfikatem.
+ITCQF, który kończy się certyfikatem.
 
 Do tego dochodzą wszystkie nieformalne źródła wiedzy czyli literatura fachowa
 (przeważnie zagraniczna), blogi (też głównie anglojęzyczne). W Polsce mamy też

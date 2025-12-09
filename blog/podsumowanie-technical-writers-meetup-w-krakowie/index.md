@@ -18,7 +18,7 @@ tematów. W ten trend wpisują się również spotkania dla specjalistów od sze
 pojętej komunikacji technicznej. Dostrzegają to firmy informatyczne i coraz
 chętniej oferują swoje biura jako miejsce spotkań na wymianę wiedzy i
 doświadczeń. Dużo dobrego dla branży techcom w Polsce robią takie grupy jak
-MeetContent i organizatorzy konferencji Soap!.
+MeetContent i organizatorzy konferencji soap!.
 
 Pisanie dokumentacji technicznej to wypadkowa wielu czynników. W procesie jej
 tworzenia ścierają się ze sobą umiejętności pisarskie dokumentalistów, wiedza

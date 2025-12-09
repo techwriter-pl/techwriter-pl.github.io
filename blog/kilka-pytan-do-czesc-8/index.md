@@ -11,8 +11,8 @@ coverImage: 'sg_motor_001a-e1448398858231.jpg'
 
 W dzisiejszym odcinku na nasze pytania odpowiada Paweł Kowaluk - specjalista z
 wieloletnim doświadczeniem w komunikacji technicznej, współtwórca konferencji
-[soap!](http://soapconf.com/), członek zarządu [ITCQF](http://itcqf.org/) oraz
-miłośnik narzędzi do tworzenia dokumentacji i nie tylko.
+[soap!](http://soapconf.com/), członek zarządu ITCQF oraz miłośnik narzędzi do
+tworzenia dokumentacji i nie tylko.
 
 <!--truncate-->
 

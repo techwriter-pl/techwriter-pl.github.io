@@ -76,8 +76,8 @@ najwyższa pora, by złożyć aplikację.
 Zajęcia trwają dwa semestry i kosztują 7800 zł. Na oba semestry organizatorzy
 przewidzieli 168 godzin wykładów i warsztatów. Każdy absolwent studiów będzie
 miał możliwość (za dodatkową opłatą wynoszącą 800 zł brutto) uzyskania
-międzynarodowego certyfikatu [ITCQF](https://itcqf.org/) (Foundation Certificate
-in Technical Communication).
+międzynarodowego certyfikatu ITCQF (Foundation Certificate in Technical
+Communication).
 
 Komunikacja na studiach odbywa się na platformie Confluence, a wszystkie zadania
 śledzone są w Jira. Zajęcia prowadzone są na platformie Microsoft Teams.

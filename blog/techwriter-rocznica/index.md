@@ -362,14 +362,16 @@ Portal okazał się inspiracją dla Ivana Chebana, który założył anglojęzyc
 [blog](https://ua-writers-next.netlify.app/en) rozwijany przez ukraińskich
 pisarzy technicznych.
 
-### Grupa na Facebooku i strona na LinkedIn
+### Grupy na Facebooku i strona na LinkedIn
 
 Społeczność techwriter.pl założyła grupy w mediach społecznościowych:
 
 - Grupa
   [Tworzenie Dokumentacji](https://www.facebook.com/groups/342747819400007) na
   Facebooku liczy ponad 1000 osób.
-- 800 osób śledzi aktualizacje publikowane przez
+- Grupa [Techwriter.pl](https://www.facebook.com/techwriterpl) na Facebooku
+  liczy prawie 800 osób.
+- Ponad 800 osób śledzi aktualizacje publikowane przez
   [techwriter.pl](https://www.linkedin.com/company/techwriter-pl/posts/?feedView=all)
   na LinkedIn.
 
@@ -408,11 +410,10 @@ swoimi przemyśleniami.
   której będą dobrze się czuć i z którą będą się identyfikować._
 - _Gotowość do bezinteresownej pomocy._
 
-**Co nas inspiruje?** 
+**Co nas inspiruje?**
 
-_Poznawanie nowych ludzi, podtrzymywanie motywacji i
-ciągłe uczenie się czegoś nowego. Nie ma lepszego sposobu na naukę niż
-wyjaśnianie rzeczy innym._
+_Poznawanie nowych ludzi, podtrzymywanie motywacji i ciągłe uczenie się czegoś
+nowego. Nie ma lepszego sposobu na naukę niż wyjaśnianie rzeczy innym._
 
 _Współtworzenie takiego portalu internetowego daje:_
 
