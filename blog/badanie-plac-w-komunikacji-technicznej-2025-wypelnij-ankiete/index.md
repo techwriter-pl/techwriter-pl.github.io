@@ -67,7 +67,7 @@ mieć z tego wymierną korzyść.
 
 ## Jak długo ankieta będzie aktywna?
 
-Na odpowiedzi czekamy do **15 stycznia 2026** roku.
+Na odpowiedzi czekamy do **31 stycznia 2026** roku.
 
 ## Gdzie będzie można sprawdzić wyniki ankiety?
 
