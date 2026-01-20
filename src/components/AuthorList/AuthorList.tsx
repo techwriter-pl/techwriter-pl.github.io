@@ -1,8 +1,7 @@
-import React from 'react';
+import Link from '@docusaurus/Link';
 import authors from '@site/blog/authors.yml';
 import AuthorAvatar, { AuthorProps } from '@site/src/components/AuthorAvatar';
 import styles from './AuthorList.module.css';
-import Link from '@docusaurus/Link';
 
 const polishDescriptions: { [id: string]: JSX.Element } = {
   agnieszka: (

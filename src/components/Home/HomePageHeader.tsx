@@ -1,8 +1,7 @@
-import React from 'react';
-import clsx from 'clsx';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
-import styles from './HomePageHeader.module.css';
 import { FeatureProps } from '@site/src/components/Feature/Feature';
+import clsx from 'clsx';
+import styles from './HomePageHeader.module.css';
 
 export default function HomePageHeader(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();

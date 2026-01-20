@@ -1,8 +1,7 @@
-import React from 'react';
-import OriginalBlogPostItems from '@theme-original/BlogPostItems';
-import styles from './BlogPostItems.module.css';
-import Tag from '@theme/Tag';
 import Link from '@docusaurus/Link';
+import OriginalBlogPostItems from '@theme-original/BlogPostItems';
+import Tag from '@theme/Tag';
+import styles from './BlogPostItems.module.css';
 
 type PopularFilterProps = {
   label: string;
