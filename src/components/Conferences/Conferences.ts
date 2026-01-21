@@ -10,6 +10,14 @@ export type Conference = {
 
 export const conferences: Conference[] = [
   {
+    title: 'World Usability Day (WUD) Estonia',
+    startDate: new Date('16 February 2026'),
+    endDate: new Date('20 February 2026'),
+    location: 'Tallinn, Estonia',
+    type: ['in-person'],
+    link: 'https://wud.ee/',
+  },
+  {
     title: 'Growing in Content',
     startDate: new Date('28 April 2026'),
     endDate: new Date('30 April 2026'),
