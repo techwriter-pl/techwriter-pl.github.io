@@ -9,7 +9,7 @@ tags:
 coverImage: 'jak-pracowac-z-narz-dev.png'
 ---
 
-Rzeczywistość współczesnego tech writingu to docs-as-code, Git, Markdown i
+Rzeczywistość współczesnego tech writingu to docs-as-code: Git, Markdown i
 static site generators (SSG). Jak ma się w tym wszystkim odnaleźć technical
 writer? Moja odpowiedź brzmi: najlepiej tak, żeby nie stać się programistą.
 
