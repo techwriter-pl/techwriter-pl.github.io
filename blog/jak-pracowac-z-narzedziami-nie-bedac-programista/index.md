@@ -20,8 +20,8 @@ bardzo często jesteśmy wkomponowani w zespół software developerów i używam
 narzędzi. Ale nasza unikalna cecha, nasza wartość dodana, leży w tym, że **nie**
 jesteśmy programistami. Tech writerzy to ludzie słowa. Lubimy czytać i wyrażamy
 się poprzez pisanie. Interesuje nas człowiek i jego problemy. Dlatego zatrudnia
-się właśnie nas do pisania dokumentacji: żebyśmy mieli jedno oko na technologii
-a drugie na człowieku.
+się właśnie nas do pisania dokumentacji: żebyśmy mieli jedno oko na technologię 
+a drugie na człowieka.
 
 Ale narzędzia dla programistów moga nam bardzo ułatwić pracę i pozwalają lepiej
 wpasować się w pracę zespołu. W tym artykule chciałbym podzielić się moimi
