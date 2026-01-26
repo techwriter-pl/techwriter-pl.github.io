@@ -80,6 +80,16 @@ const polishDescriptions: { [id: string]: JSX.Element } = {
       szyldem MeetContentWRO.
     </>
   ),
+  magdazaczek: (
+    <>
+      Rozpoczęła pracę jako technical writerka w 2019 roku. Od tego czasu 
+      zdobywała doświadczenie w trzech różnych firmach, tworząc dokumentację 
+      techniczną. Od ponad trzech lat zajmuje się pisaniem dokumentacji dla 
+      rozwiązań dostępnych na Atlassian Marketplace. W maju 2025 roku ukończyła 
+      studia podyplomowe z komunikacji technicznej na Akademii Finansów i 
+      Biznesu Vistula.
+    </>
+  ),
 };
 
 const englishDescriptions: { [id: string]: JSX.Element } = {
@@ -157,6 +167,16 @@ const englishDescriptions: { [id: string]: JSX.Element } = {
       in what they do. She is an active technical content community member and a
       public speaker. She co-organizes local meetups in Wrocław to help Writers
       network, exchange ideas and inspire each other.
+    </>
+  ),
+  magdazaczek: (
+    <>
+      Magda began her career as a technical writer in 2019. Since then, she has 
+      gained experience working in three different companies, creating technical 
+      documentation for software apps. For over three years, she has been 
+      writing documentation for apps available on the Atlassian Marketplace.
+      In May 2025, she completed postgraduate studies in technical communication 
+      at the Vistula Academy of Finance and Business.
     </>
   ),
 };
