@@ -15,9 +15,7 @@ writer? Moja odpowiedź brzmi: najlepiej tak, żeby nie stać się programistą.
 
 <!--truncate-->
 
-Jako tech writerzy piszący w softwarze, a zwłaszcza w software dla programistów,
-bardzo często jesteśmy wkomponowani w zespół software developerów i używamy ich
-narzędzi. Ale nasza unikalna cecha, nasza wartość dodana, leży w tym, że **nie**
+W przypadku dokumentacji do oprogramowania, a zwłaszcza bardzo technicznych rozwiązań dla deweloperów, tech writer wkomponowany jest w zespół programistów i używa ich narzędzi. Ale nasza unikalna cecha, nasza wartość dodana, leży właśnie w tym, że **nie**
 jesteśmy programistami. Tech writerzy to ludzie słowa. Lubimy czytać i wyrażamy
 się poprzez pisanie. Interesuje nas człowiek i jego problemy. Dlatego zatrudnia
 się właśnie nas do pisania dokumentacji: żebyśmy mieli jedno oko na technologię 
