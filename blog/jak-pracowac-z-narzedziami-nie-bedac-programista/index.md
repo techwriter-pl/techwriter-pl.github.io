@@ -21,7 +21,7 @@ się poprzez pisanie. Interesuje nas człowiek i jego zachowania. Dlatego zatrud
 się właśnie nas do pisania dokumentacji: żebyśmy mieli jedno oko na technologię 
 a drugie na człowieka.
 
-Ale narzędzia dla programistów moga nam bardzo ułatwić pracę i pozwalają lepiej
+Niemniej jednak narzędzia dla programistów mogą nam bardzo ułatwić pracę i pozwalają lepiej
 wpasować się w pracę zespołu. W tym artykule chciałbym podzielić się moimi
 poradami na temat pracy z narzędziami deweloperskimi.
 
