@@ -1,5 +1,5 @@
 ---
-title: 'Jak pracować z narzędziami deweloperskimi, nie będąc programistą'
+title: 'Jak pracować z narzędziami deweloperskimi - wskazówki dla tech writerów'
 authors: pensjonatus
 date: '2026-01-25'
 tags:
@@ -25,7 +25,7 @@ Niemniej jednak narzędzia dla programistów mogą nam bardzo ułatwić pracę i
 wpasować się w pracę zespołu. W tym artykule chciałbym podzielić się moimi
 poradami na temat pracy z narzędziami deweloperskimi.
 
-## Zmiana mindsetu: nie musisz być ekspertem
+## Zmiana podejścia: nie musisz być ekspertem
 
 Umieć programować, to brzmi dumnie. Ludzie spędzają wiele lat, żeby posiąść tę
 umiejętność. Jedni od małego tworzą strony i piszą gry na komputerze taty. Inni
@@ -49,9 +49,8 @@ wprawy, a zrozumienie przyjdzie naturalnie.
 Po drugie, ucz się publicznie. Graj z innymi w otwarte karty; mów, że nie wiesz,
 nie rozumiesz, nie umiesz. Nie rób z siebie ofiary i nie podkreślaj swojej
 niewiedzy na każdym kroku. Nie przyjmuj postawy defensywnej. Nie przybieraj
-maski wyuczonej bezradności. Nie stań się osobą bezradną. Po prostu mów,
-rzeczowo, otwarcie i zwięźle, czego nie wiesz, czego nie rozumiesz i czego nie
-umiesz. Zadawaj konkretne pytania typu "jak mam rozwiązać ten problem?" Zespół
+maski wyuczonej bezradności. Nie stań się osobą bezradną. Po prostu mów - rzeczowo, otwarcie i zwięźle - czego nie wiesz, czego nie rozumiesz i czego nie
+umiesz. Zadawaj konkretne pytania, np. "jak mam rozwiązać ten problem?" Zespół
 Ci chętnie pomoże, bo ludzie lubią pomagać ludziom i lubią czuć się pomocni.
 
 ![Zespół przybiją grupowo piątkę, wszystko wygląda dosyć niezręcznie. Jeden z uczestników mówi "Tak to się robi? Tak się przybija piątkę?](./images/przybij-piatke.png)
@@ -67,22 +66,21 @@ rozproszony system kontroli wersji bla, bla, bla, i tak dalej. Teoria jest
 ważna, ale wcale nie musisz jej rozumieć. Bo 90% pracy z Gitem to 5 (słownie
 "pięć") komend. Jakich?
 
-clone, pull, branch, commit, push
+`clone`, `pull`, `branch`, `commit`, `push`
 
-Naprawdę nie przesadzam kiedy powiem, że te pięć słówek to podstawa. Naucz się
+Naprawdę nie przesadzam - te pięć słówek to podstawa. Naucz się
 ich i używaj. A jak trafisz na skomplikowaną sytuację, z którą nie możesz sobie
 poradzić, zapytaj kogoś, zapytaj AI, albo, jeśli lubisz totalny old school,
-wgooglaj to.
+_wygooglaj_ to.
 
 Przez większość czasu będziesz powtarzać ten sam workflow. Czasem zdarzą się
 **konflikty**, ale nie daj się ponieść negatywnym emocjom sugerowanym przez to
-słowo. Konflikt w Gicie to nic złego. Nie oznacza, że popełniasz bład, albo, że
+słowo. Konflikt w Gicie to nic złego. To nie jest oznaka, że popełniasz błąd, albo, że
 będzie jakaś kara. Konflikt jest drogą do współpracy. Powinien się może nazywać
 jakoś inaczej, ale nazywa się jak się nazywa.
 
-No i zacząłem tę sekcję od wypisania kilku komend, ale tak naprawdę nie musisz
-używać komend. Możesz używać GUI, na przykład tego, które jest wbudowanie z VS
-Code czy inne IDE. Właściwie, to powiem więcej: **zachęcam** do używania GUI.
+Zacząłem tę sekcję od wypisania kilku komend, ale tak naprawdę nie musisz
+używać komend. Możesz używać GUI, na przykład tego, które jest wbudowane w VS Code czy inne IDE. Powiem więcej: **zachęcam** do używania GUI.
 Jeżeli masz świadomość co stoi za każdą komendą, to o wiele łatwiej jest
 pracować używając GUI. No i tysiąc razy łatwiej rozwiązuje się konflikty w
 three-way merge editorze niż "z palca" w jakimś przedpotopowym interfejsie w
@@ -91,10 +89,10 @@ terminalu.
 ## 3. Markdown i inne języki znaczników
 
 Markdown jest naprawdę łatwy do opanowania. Nagłówki, listy, cytaty, próbki
-kodu. Do tego pogrubienia, kursywa, i `słowa` `kodowe`, that's it! Gratulacje,
+kodu. Do tego pogrubienia, kursywa, i `słowa` `kodowe`. That's it! Gratulacje,
 masz w małym palcu 90% tego, co potrzebujesz.
 
-Dla bardziej zaawansowanych, lub gdy potrzebujesz więcej, jest MDX, AsciiDoc,
+Dla bardziej zaawansowanych, lub tych, którzy oczekują więcej od języka znaczników, jest MDX, AsciiDoc,
 czy reStructuredText. Każdy z nich ma swoje mocne strony w zależności od
 potrzeb. Na przykład, jeśli pracujesz w zespole, w którym React to chleb
 powszedni, MDX to świetny wybór. MDX pozwala wstawiać działające komponenty
@@ -105,15 +103,16 @@ Oczywiście są na to sposoby i na pewno znajdziesz źródła, które powiedzą 
 z nich korzystać. Na przykład w Docusaurusie, dzięki pomocy MDXa, możesz
 [zaimportować Markdown z innego pliku](https://docusaurus.io/docs/markdown-features/react#importing-markdown).
 
-No i w Docusaurusie i innych możesz bardzo łatwo pracować z **interaktywnymi**
+Bardzo łatwo jest też pracować z **interaktywnymi**
 próbkami kodu w dokumentacji. Możesz podglądać zmiany na żywo, blogować i
 hostować stronę "za darmo".
 [Pisaliśmy o tym już wcześniej](../docusaurus-zielony-przyjaciel/index.mdx),
 jeśli chcesz zgłębić temat.
+Te funkcje znajdziesz nie tylko w Docusaurusie, ale też w innych generatorach stron.
 
 ## 4. Static Site Generators - korzystanie bez głębokiego rozumienia
 
-Ale o Docusaurusie już było, więc może napiszę coś o innych Static Site
+Zostawmy Docusaurusa i przejdźmy teraz do innych Static Site
 Generators (SSG). Te narzędzia służą do generowania stron, które relatywnie
 rzadko wymagają zmian. Co to znaczy, kiedy codziennie publikujesz jakieś zmiany
 w docsach? Otóż to jest nadal "relatywnie rzadko" z punktu widzenia aplikacji
@@ -138,10 +137,10 @@ po Hugo albo Docsy. Jeśli chcesz wiedzieć ile jest opcji obecnie na rynku, to
 polecam
 [wyszukiwarkę SSG na stronie Jamstack](https://jamstack.org/generators/).
 
-**Spoiler**: w momencie pisania artykułu, w wyszukiwarka pokazuje 375 SSG.
+**Spoiler**: w momencie pisania artykułu, wyszukiwarka pokazuje 375 SSG.
 
 Czego potrzebujesz, żeby pracować z SSG? Musisz zrozumieć strukturę projektu,
-żeby wiedzieć gdzie dopisywać nowe docsy. Poznaj sposoby na odpalenie lokalnego
+żeby wiedzieć gdzie dodawać lub edytować docsy. Poznaj sposoby na odpalenie lokalnego
 preview, żeby kontrolować jakość strony w czasie pisania. Na koniec, naucz się
 gdzie szukać pomocy. I to wystarczy. Poradzisz sobie z każdym SSG.
 
@@ -169,8 +168,7 @@ Czekasz momencik i otwiera się przeglądarka z podglądem strony na żywo.
 
 Jeżeli chcesz zrobić coś bardziej zaawansowanego, to dla 99% przypadków
 znajdziesz gotową komendę w Internecie. A pozostały 1% przypadków? Możesz
-poprosić osoby z zespołu programistów, lub spytać AI. Tylko najlepiej
-wykorzystać te momenty do uczenia się. Prowadź sobie **ściągawkę** ze starymi i
+poprosić osoby z zespołu programistów, lub spytać AI. Wykorzystaj te momenty na zdobywanie przydatnej wiedzy. Prowadź sobie **ściągawkę** ze starymi i
 nowymi komendami. A jeżeli tworzysz jakieś skrypty przy pomocy innych, postaraj
 się je zrozumieć, żeby móc je potem modyfikować. Przez lata zgromadzisz wiedzę,
 która zrobi z Ciebie power usera\kę. 💪
@@ -178,19 +176,19 @@ która zrobi z Ciebie power usera\kę. 💪
 ## 6. CI/CD i automatyzacja - zrozumieć, nie budować
 
 Programiści używają CI/CD, czyli aplikacji, które budują i publikują
-oprogramowanie. Tech writerzy też mogą używać CI/CID, żeby budować i publikować
+oprogramowanie. Tech writerzy też mogą używać CI/CD, żeby budować i publikować
 dokumentację. Ale tech writerzy nie muszą (najczęściej) wiedzieć bardzo dużo o
-tych CI/CD. Co Cię powinno interesować?
+tych narzędziach. Co Cię powinno interesować?
 
 Dobrze jest wiedzieć ogólnie co jest budowane i gdzie jest publikowane (np.
 dokumentacja z Markdowna budowana do strony HTML i publikowana na serwer na
 AWSie). Reszta nie będzie Cię dotyczyła w 99% przypadków. A jeżeli zdarzy się
 ten 1%, to na pewno pomogą Ci koleżanki/koledzy/AI.
 
-Pewnie mozesz coś modyfikować w konfiguracji, ale często da się to zrobić w
+Pewnie możesz coś modyfikować w konfiguracji, ale często da się to zrobić w
 jakimś GUI, co się nie różni bardzo od ustawiania budzika na telefonie.
 
-Gorzej jeśli zdarzają się błędy. Musisz wtedy czytać logi i zaaplikować
+Gorzej jeśli zdarzają się błędy. Wtedy musisz czytać logi i zaaplikować
 wyczytaną informację, żeby naprawić problem. Tutaj może się przydać znajomość
 np. Markdowna i jakim strukturom w HTMLu on odpowiada, oraz jak jest do HTMLa
 kompilowany. Odpowiedzialność za błędy w AWSie i tym podobnych nie powinna leżeć
@@ -201,7 +199,7 @@ komunikacja z DevOps, czyli z ludźmi, którzy utrzymują infrastrukturę. Naucz
 precyzyjnie wyjaśniać swoje problemy i najlepiej prezentuj symptomy, a nie swoje
 przypuszczenia na temat przyczyn.
 
-"Strona nie działa" to zbyt ogólne - co jest nie tak na stronie? Klikanie
+Stwierdzenie "strona nie działa" jest zbyt ogólne. Co jest nie tak na stronie? Klikanie
 przycisku nic nie daje? Czy co się nie układa na ekranie tak jak oczekujesz?
 
 Z drugiej strony "na stronie jest puste miejsce bo chyba coś skopałem w
@@ -210,14 +208,10 @@ spuścić po kablu odpowiadając "to napraw sobie w Markdownie".
 
 ## 7. Praca ze środowiskami deweloperskimi
 
-Deweloperzy pracują na czarnym ekranie z kolorowymi literkami. To się nazywa
-IDE, albo jest to jakiś zaawansowany edytor tekstu. Może firma nie da Ci drogiej
-licencji na Jetbrains tak jak programiście, ale zawsze możesz sobie ściągnąć VS
-Code'a za darmo. Poza tym i tak polecam VS Code'a, bo jak się nauczysz go
-obsługiwać, to będzie Ci służyć i w domu, i na wakacjach, i na weselu szwagra.
+Deweloperzy pracują w zaawansowanych edytorach tekstu albo w IDE (integrated development environment), czyli aplikacjach, które dają im wszystko czego potrzebują do kodowania w jednym miejscu. Może firma nie da Ci drogiej
+licencji na jakieś IDE ze stajni Jetbrains tak jak programiście (np. PyCharm), ale istnieją solidne narzędzia, które możesz sobie ściągnąć za darmo. Polecam VS Code'a, którego używa spora częśc programistów, bo jak się nauczysz go obsługiwać w pracy, to będzie Ci też służyć w domu, i na wakacjach, i na weselu szwagra.
 
-VS Code ma też masę rozszerzeń, które mocno ułatwiają pracę tech writera. Na
-start polecam:
+VS Code ma też masę rozszerzeń, które mocno ułatwiają pracę tech writera. Na początek warto zainstalować:
 
 - **Code Spell Checker**, który jest dostępny także dla języka polskiego. Możesz
   z nim zapisywać słowa, które ma ignorować na poziomie projektu lub we
@@ -235,7 +229,7 @@ start polecam:
   formatują się listy. _Absolute cinema!_
 
 Spróbuj używać VS Code (lub czegoś innego) przez miesiąc, aż osiągniesz w nim
-biegłość. Zobaczysz, nie będziesz mógł/mogła żyć bez niego.
+biegłość. Po tym czasie nie będziesz w stanie bez niego żyć.   
 
 ![Tech writer siedzący z laptopem, koło głowy latają mu serduszka symbolizują miłość, a w myślach ma interfejs VS Code](./images/tech-writer-kocha-vs-code.png)
 
@@ -243,11 +237,11 @@ biegłość. Zobaczysz, nie będziesz mógł/mogła żyć bez niego.
 
 Teraz dochodzimy do tego na czym się zarabia. API to jest waluta Internetu. API
 to jedwabny szlak, którym pomykają niebieskie i zielone dolary. Jeżeli aplikacja
-a darmowy interfejs dla konsumenta, to na pewno ma płatne API dla programistów.
+ma darmowy interfejs dla konsumenta, to na pewno ma płatne API dla programistów.
 👛🪙
 
 Jako tech writer, możesz poznać podstawy API bez umiejętności programowania. Na
-pewno znajdziesz kursy o API, zapoznaj się z nimi i wyłów to, co dla Ciebie
+pewno znajdziesz jakieś kursy o API. Zapoznaj się z nimi i wyłów z nich to, co dla Ciebie
 ważne. Potem, poproś AI o napisanie kodu, który działa z Twoim API, a następnie
 poproś go o wyjaśnienie. Zrozum to wyjaśnienie i postaraj się je zweryfikować.
 Najlepiej odpal ten kod.
@@ -261,10 +255,7 @@ czym mówię. Potem możesz zgłębić teorię.
 
 Jedna informacja jest kluczem do sukcesu. Oto ona: Dokumentacja do API jest
 generowana z OpenAPI/Swaggera. Ale ta naprawdę ciekawa dokumentacja jest pisana
-ręcznie przez tech writera. Ta dokumentacja pisana ręcznie jest wartościowa,
-jeżeli dodaje informacje, których nie ma w samym OpenAPI. Czyli jest
-wartościowa, jeśli opisuje praktyczne zastosowania API, które pozwalają
-użytkownikom (programistom) osiągnąć pożyteczne cele biznesowe. Twoje zadania
+ręcznie przez tech writera. Jest najbardziej wartościowa jeżeli dodaje informacje, których nie ma w samym OpenAPI. Innymi słowy, powinna opisywać praktyczne zastosowania API, które pozwalają użytkownikom (programistom) osiągnąć pożyteczne cele biznesowe. Twoje zadania
 jako tech writera to dowiedzieć się jakie są te cele i wybrać z nich te, które
 przynoszą użytkownikom największe korzyści. Potem wybierz jeszcze te, które
 najtrudniej osiągnąć.
@@ -293,7 +284,7 @@ zmyślanie to poważny problem z AI.
 Dodam na boku, że co krok polecam używanie AI, ale jednocześnie wydaje mi się,
 że używanie AI może człowieka ogłupić i rozleniwić. Chyba, że każdą wygenerowaną
 informację sprawdzimy i użyjemy jako szczebelek w drodze do zdobywania wiedzy.
-Jeżeli spodziewasz się, że będziesz potrzebować pisać sporo kodu na potrzeby
+Jeśli spodziewasz się, że w dokumentacji będziesz pisać sporo kodu
 dokumentacji, nie polegaj na AI, tylko naucz się ten kod pisać samodzielnie.
 Nigdy nie używaj AI do syntezowania wiedzy czy "analizy danych". AI w takiej
 postaci jak istnieje w styczniu 2026 **nie potrafi analizować danych**.
@@ -306,19 +297,19 @@ Pluralsight, albo Linkedin Learning, to też bardzo dobrze. Przeszukaj ich
 katalog szkoleń i zobacz czy coś tam odpowiada Twoim potrzebom. Przyjemny głos
 instruktora przeprowadzi Cię przez zagadnienie i pokaże przykłady, a praktyczne
 ćwiczenia pomogą Ci ugruntować wiedzę. Nie masz dostępu do żadnej z tych
-platform? Poszukaj darmowych tutoriali na Youtube.
+platform? Poszukaj darmowych tutoriali na YouTube.
 
 Czwarta rada: **zbuduj sieć kontaktów z developerami w firmie**. Łaczy Was to,
 że pracujecie w jednej firmie, ale czy coś jeszcze? Może macie podobne
 zainteresowania? A może zajawiasz się na technologię, w której ktoś pracuje? Tak
 czy siak, warto poznawać ludzi i wiedzieć w czym możecie sobie nawzajem pomóc.
 Buduj zdrowe, partnerskie relacje z kolegami i koleżankami, a nie tylko zyskasz
-dostęp do źródeł wiedzy i pomocy, ale też może poznacz przyjaciół. No i człowiek
+dostęp do źródeł wiedzy i pomocy, ale też może zyskasz nowych przyjaciół. Poza tym wiadomo, że człowiek
 najłatwiej znajduje własną wartość w oczach innych.
 
 ## 10. Praktyczne wskazówki na co dzień
 
-Mam dla Ciebie jeszcze kilka szybkich porad na codziennie ułatwienia.
+Na koniec, mam dla Ciebie jeszcze kilka szybkich rad, które ułatwią Ci życie:
 
 - Stwórz sobie bibliotekę snippetów i komend.
 - Naucz się często robić backup, żeby nie stracić owoców swojej pracy.
@@ -336,7 +327,7 @@ Po pierwsze, tech writer nie powinien być deweloperem, ale musi zachować
 elastyczność i czasem jednak bywać takim **trochę** deweloperem.
 
 Po drugie, narzędzia są środkiem nie celem. To jak szukasz informacji i jak
-podchodzisz do problemów, a przede wszystkim to z kim pracujesz znaczy więcej
+podchodzisz do problemów, a przede wszystkim to z kim pracujesz, znaczy więcej
 niż Twoje opanowanie komend, skryptów, czy tooli.
 
 Po trzecie, nie przestawaj się uczyć. Nasz zawód to przekazywanie wiedzy, a nie
