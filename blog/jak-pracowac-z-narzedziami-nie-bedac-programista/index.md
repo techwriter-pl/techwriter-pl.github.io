@@ -1,7 +1,7 @@
 ---
 title: 'Jak pracować z narzędziami deweloperskimi - wskazówki dla tech writerów'
 authors: pensjonatus
-date: '2026-01-25'
+date: '2026-01-28'
 tags:
   - 'dobre-praktyki'
   - 'narzędzia'
