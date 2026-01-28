@@ -1,0 +1,296 @@
+<!doctype html>
+<html lang="pl" dir="ltr" class="blog-wrapper blog-post-page plugin-blog plugin-id-default" data-has-hydrated="false">
+<head>
+<meta charset="UTF-8">
+<meta name="generator" content="Docusaurus v3.9.2">
+<title data-rh="true">Jak pracować z narzędziami deweloperskimi - wskazówki dla tech writerów | techwriter.pl</title><meta data-rh="true" name="viewport" content="width=device-width,initial-scale=1"><meta data-rh="true" name="twitter:card" content="summary_large_image"><meta data-rh="true" name="twitter:image" content="https://techwriter.pl/img/techwriter-social-card.png"><meta data-rh="true" property="og:url" content="https://techwriter.pl/jak-pracowac-z-narzedziami-nie-bedac-programista"><meta data-rh="true" property="og:locale" content="pl"><meta data-rh="true" name="docusaurus_locale" content="pl"><meta data-rh="true" name="docusaurus_tag" content="default"><meta data-rh="true" name="docsearch:language" content="pl"><meta data-rh="true" name="docsearch:docusaurus_tag" content="default"><meta data-rh="true" property="og:title" content="Jak pracować z narzędziami deweloperskimi - wskazówki dla tech writerów | techwriter.pl"><meta data-rh="true" name="description" content="Rzeczywistość współczesnego tech writingu to docs-as-code: Git, Markdown i"><meta data-rh="true" property="og:description" content="Rzeczywistość współczesnego tech writingu to docs-as-code: Git, Markdown i"><meta data-rh="true" property="og:type" content="article"><meta data-rh="true" property="article:published_time" content="2026-01-28T00:00:00.000Z"><meta data-rh="true" property="article:tag" content="dobre-praktyki,narzędzia,warsztat"><meta data-rh="true" property="og:image" content="https://techwriter.pl/img/cover/jak-pracowac-z-narz-dev.png"><link data-rh="true" rel="icon" href="/img/favicon.ico"><link data-rh="true" rel="canonical" href="https://techwriter.pl/jak-pracowac-z-narzedziami-nie-bedac-programista"><link data-rh="true" rel="alternate" href="https://techwriter.pl/jak-pracowac-z-narzedziami-nie-bedac-programista" hreflang="pl"><link data-rh="true" rel="alternate" href="https://techwriter.pl/jak-pracowac-z-narzedziami-nie-bedac-programista" hreflang="x-default"><link data-rh="true" rel="preconnect" href="https://5ZQV9C33H3-dsn.algolia.net" crossorigin="anonymous"><script data-rh="true" type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","@id":"https://techwriter.pl/jak-pracowac-z-narzedziami-nie-bedac-programista","mainEntityOfPage":"https://techwriter.pl/jak-pracowac-z-narzedziami-nie-bedac-programista","url":"https://techwriter.pl/jak-pracowac-z-narzedziami-nie-bedac-programista","headline":"Jak pracować z narzędziami deweloperskimi - wskazówki dla tech writerów","name":"Jak pracować z narzędziami deweloperskimi - wskazówki dla tech writerów","description":"Rzeczywistość współczesnego tech writingu to docs-as-code: Git, Markdown i","datePublished":"2026-01-28T00:00:00.000Z","author":{"@type":"Person","name":"Paweł Kowaluk","image":"https://github.com/pensjonatus.png"},"keywords":[],"isPartOf":{"@type":"Blog","@id":"https://techwriter.pl/","name":"Blog"}}</script><link rel="alternate" type="application/rss+xml" href="/rss.xml" title="techwriter.pl RSS Feed">
+<link rel="alternate" type="application/atom+xml" href="/atom.xml" title="techwriter.pl Atom Feed">
+
+<link rel="preconnect" href="https://www.google-analytics.com">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0FTS9C7HK4"></script>
+<script>function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","G-0FTS9C7HK4",{anonymize_ip:!0})</script>
+
+
+
+<link rel="search" type="application/opensearchdescription+xml" title="techwriter.pl" href="/opensearch.xml">
+
+<link rel="alternate" type="application/rss+xml" href="/wydarzenia/rss.xml" title="techwriter.pl RSS Feed">
+<link rel="alternate" type="application/atom+xml" href="/wydarzenia/atom.xml" title="techwriter.pl Atom Feed"><link rel="stylesheet" href="/assets/css/styles.270aa468.css">
+<script src="/assets/js/runtime~main.593e4dd1.js" defer="defer"></script>
+<script src="/assets/js/main.756744e4.js" defer="defer"></script>
+</head>
+<body class="navigation-with-keyboard">
+<svg style="display: none;"><defs>
+<symbol id="theme-svg-external-link" viewBox="0 0 24 24"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"/></symbol>
+</defs></svg>
+<script>document.documentElement.setAttribute("data-theme","light"),document.documentElement.setAttribute("data-theme-choice","light"),function(){try{const c=new URLSearchParams(window.location.search).entries();for(var[t,e]of c)if(t.startsWith("docusaurus-data-")){var a=t.replace("docusaurus-data-","data-");document.documentElement.setAttribute(a,e)}}catch(t){}}()</script><div id="__docusaurus"><link rel="preload" as="image" href="/img/logo-square.png"><link rel="preload" as="image" href="/img/cover/jak-pracowac-z-narz-dev.png"><link rel="preload" as="image" href="https://github.com/pensjonatus.png"><div role="region" aria-label="Przejdź do głównej zawartości"><a class="skipToContent_fXgn" href="#__docusaurus_skipToContent_fallback">Przejdź do głównej zawartości</a></div><nav aria-label="Main" class="theme-layout-navbar navbar navbar--fixed-top"><div class="navbar__inner"><div class="theme-layout-navbar-left navbar__items"><button aria-label="Przełączanie panelu nawigacyjnego" aria-expanded="false" class="navbar__toggle clean-btn" type="button"><svg width="30" height="30" viewBox="0 0 30 30" aria-hidden="true"><path stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M4 7h22M4 15h22M4 23h22"></path></svg></button><a class="navbar__brand" href="/"><div class="navbar__logo"><img src="/img/logo-square.png" alt="logo techwriter.pl" class="themedComponent_mlkZ themedComponent--light_NVdE"><img src="/img/logo-square.png" alt="logo techwriter.pl" class="themedComponent_mlkZ themedComponent--dark_xIcU"></div><b class="navbar__title text--truncate">techwriter.pl</b></a></div><div class="theme-layout-navbar-right navbar__items navbar__items--right"><a class="navbar__item navbar__link" href="/tags/articles-in-english">English</a><a class="navbar__item navbar__link" href="/wydarzenia">Wydarzenia</a><a class="navbar__item navbar__link" href="/konferencje">Konferencje</a><a class="navbar__item navbar__link" href="/linki">Linki</a><a class="navbar__item navbar__link" href="/szkolenia">Szkolenia</a><a class="navbar__item navbar__link" href="/kontakt">Kontakt</a><div class="navbarSearchContainer_Bca1"><button type="button" class="DocSearch DocSearch-Button" aria-label="Szukaj (Meta+k)" aria-keyshortcuts="Meta+k"><span class="DocSearch-Button-Container"><svg width="20" height="20" class="DocSearch-Search-Icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="8" stroke="currentColor" fill="none" stroke-width="1.4"></circle><path d="m21 21-4.3-4.3" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"></path></svg><span class="DocSearch-Button-Placeholder">Szukaj</span></span><span class="DocSearch-Button-Keys"></span></button></div></div></div><div role="presentation" class="navbar-sidebar__backdrop"></div></nav><div id="__docusaurus_skipToContent_fallback" class="theme-layout-main main-wrapper mainWrapper_z2l0"><div class="container margin-vert--lg"><div class="row"><aside class="col col--3"><nav class="sidebar_re4s thin-scrollbar" aria-label="Nawigacja po najnowszych artykułach na blogu"><div class="sidebarItemTitle_pO2u margin-bottom--md">Najnowsze artykuły</div><div role="group"><h3 class="yearGroupHeading_rMGB">2026</h3><ul class="sidebarItemList_Yudw clean-list"><li class="sidebarItem__DBe"><a aria-current="page" class="sidebarItemLink_mo7H sidebarItemLinkActive_I1ZP" href="/jak-pracowac-z-narzedziami-nie-bedac-programista">Jak pracować z narzędziami deweloperskimi - wskazówki dla tech writerów</a></li></ul></div><div role="group"><h3 class="yearGroupHeading_rMGB">2025</h3><ul class="sidebarItemList_Yudw clean-list"><li class="sidebarItem__DBe"><a class="sidebarItemLink_mo7H" href="/badanie-plac-w-komunikacji-technicznej-2025-wypelnij-ankiete">BADANIE PŁAC W KOMUNIKACJI TECHNICZNEJ 2025 – WYPEŁNIJ ANKIETĘ!</a></li><li class="sidebarItem__DBe"><a class="sidebarItemLink_mo7H" href="/techwriter-rocznica">Techwriter.pl skończył 12 lat: Sentymentalna podróż</a></li><li class="sidebarItem__DBe"><a class="sidebarItemLink_mo7H" href="/komunikaty-o-sukcesie">Dlaczego komunikaty o sukcesie mają znaczenie</a></li><li class="sidebarItem__DBe"><a class="sidebarItemLink_mo7H" href="/zestaw-na-dobry-start">Lista źródeł dla początkujących technical writerów</a></li></ul></div></nav></aside><main class="col col--7"><article class=""><header><a><div style="background-color:black;padding:4px 1rem;display:flex;justify-content:center;margin-bottom:1rem"><img alt="" src="/img/cover/jak-pracowac-z-narz-dev.png"></div></a><h1 class="title_f1Hy">Jak pracować z narzędziami deweloperskimi - wskazówki dla tech writerów</h1><div class="container_mt6G margin-vert--md"><time datetime="2026-01-28T00:00:00.000Z">28 stycznia 2026</time> · <!-- -->14 min aby przeczytać</div><div class="margin-top--md margin-bottom--sm row"><div class="col col--12 authorCol_Hf19"><div class="avatar margin-bottom--sm"><a class="avatar__photo-link" href="/authors/pensjonatus"><img class="avatar__photo authorImage_XqGP" src="https://github.com/pensjonatus.png" alt="Paweł Kowaluk"></a><div class="avatar__intro authorDetails_lV9A"><div class="avatar__name"><a href="/authors/pensjonatus"><span class="authorName_yefp" translate="no">Paweł Kowaluk</span></a></div><div class="authorSocials_rSDt"><a href="https://github.com/pensjonatus" target="_blank" rel="noopener noreferrer" class="authorSocialLink_owbf" title="GitHub"><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 250" preserveAspectRatio="xMidYMid" style="--dark:#000;--light:#fff" class="authorSocialIcon_XYv3 githubSvg_Uu4N"><path d="M128.001 0C57.317 0 0 57.307 0 128.001c0 56.554 36.676 104.535 87.535 121.46 6.397 1.185 8.746-2.777 8.746-6.158 0-3.052-.12-13.135-.174-23.83-35.61 7.742-43.124-15.103-43.124-15.103-5.823-14.795-14.213-18.73-14.213-18.73-11.613-7.944.876-7.78.876-7.78 12.853.902 19.621 13.19 19.621 13.19 11.417 19.568 29.945 13.911 37.249 10.64 1.149-8.272 4.466-13.92 8.127-17.116-28.431-3.236-58.318-14.212-58.318-63.258 0-13.975 5-25.394 13.188-34.358-1.329-3.224-5.71-16.242 1.24-33.874 0 0 10.749-3.44 35.21 13.121 10.21-2.836 21.16-4.258 32.038-4.307 10.878.049 21.837 1.47 32.066 4.307 24.431-16.56 35.165-13.12 35.165-13.12 6.967 17.63 2.584 30.65 1.255 33.873 8.207 8.964 13.173 20.383 13.173 34.358 0 49.163-29.944 59.988-58.447 63.157 4.591 3.972 8.682 11.762 8.682 23.704 0 17.126-.148 30.91-.148 35.126 0 3.407 2.304 7.398 8.792 6.14C219.37 232.5 256 184.537 256 128.002 256 57.307 198.691 0 128.001 0Zm-80.06 182.34c-.282.636-1.283.827-2.194.39-.929-.417-1.45-1.284-1.15-1.922.276-.655 1.279-.838 2.205-.399.93.418 1.46 1.293 1.139 1.931Zm6.296 5.618c-.61.566-1.804.303-2.614-.591-.837-.892-.994-2.086-.375-2.66.63-.566 1.787-.301 2.626.591.838.903 1 2.088.363 2.66Zm4.32 7.188c-.785.545-2.067.034-2.86-1.104-.784-1.138-.784-2.503.017-3.05.795-.547 2.058-.055 2.861 1.075.782 1.157.782 2.522-.019 3.08Zm7.304 8.325c-.701.774-2.196.566-3.29-.49-1.119-1.032-1.43-2.496-.726-3.27.71-.776 2.213-.558 3.315.49 1.11 1.03 1.45 2.505.701 3.27Zm9.442 2.81c-.31 1.003-1.75 1.459-3.199 1.033-1.448-.439-2.395-1.613-2.103-2.626.301-1.01 1.747-1.484 3.207-1.028 1.446.436 2.396 1.602 2.095 2.622Zm10.744 1.193c.036 1.055-1.193 1.93-2.715 1.95-1.53.034-2.769-.82-2.786-1.86 0-1.065 1.202-1.932 2.733-1.958 1.522-.03 2.768.818 2.768 1.868Zm10.555-.405c.182 1.03-.875 2.088-2.387 2.37-1.485.271-2.861-.365-3.05-1.386-.184-1.056.893-2.114 2.376-2.387 1.514-.263 2.868.356 3.061 1.403Z"></path></svg></a><a href="https://www.linkedin.com/in/pawel-kowaluk/" target="_blank" rel="noopener noreferrer" class="authorSocialLink_owbf" title="LinkedIn"><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" preserveAspectRatio="xMidYMid" viewBox="0 0 256 256" style="--dark:#0a66c2;--light:#ffffffe6" class="authorSocialIcon_XYv3 linkedinSvg_FCgI"><path d="M218.123 218.127h-37.931v-59.403c0-14.165-.253-32.4-19.728-32.4-19.756 0-22.779 15.434-22.779 31.369v60.43h-37.93V95.967h36.413v16.694h.51a39.907 39.907 0 0 1 35.928-19.733c38.445 0 45.533 25.288 45.533 58.186l-.016 67.013ZM56.955 79.27c-12.157.002-22.014-9.852-22.016-22.009-.002-12.157 9.851-22.014 22.008-22.016 12.157-.003 22.014 9.851 22.016 22.008A22.013 22.013 0 0 1 56.955 79.27m18.966 138.858H37.95V95.967h37.97v122.16ZM237.033.018H18.89C8.58-.098.125 8.161-.001 18.471v219.053c.122 10.315 8.576 18.582 18.89 18.474h218.144c10.336.128 18.823-8.139 18.966-18.474V18.454c-.147-10.33-8.635-18.588-18.966-18.453"></path></svg></a></div></div></div></div></div></header><div id="__blog-post-container" class="markdown"><p>Rzeczywistość współczesnego tech writingu to docs-as-code: Git, Markdown i
+Static Site Generators (SSG). Jak ma się w tym wszystkim odnaleźć tech writer?
+Moja odpowiedź brzmi: najlepiej tak, żeby nie stać się programistą.</p>
+<p>W przypadku dokumentacji do oprogramowania, a zwłaszcza bardzo technicznych
+rozwiązań dla deweloperów, tech writer wkomponowany jest w zespół programistów i
+używa ich narzędzi. Ale nasza unikalna cecha, nasza wartość dodana, leży właśnie
+w tym, że <strong>nie</strong> jesteśmy programistami. Tech writerzy to ludzie słowa. Lubimy
+czytać i wyrażamy się poprzez pisanie. Interesuje nas człowiek i jego
+zachowania. Dlatego zatrudnia się właśnie nas do pisania dokumentacji: żebyśmy
+mieli jedno oko na technologię a drugie na człowieka.</p>
+<p>Niemniej jednak narzędzia dla programistów mogą nam bardzo ułatwić pracę i
+pozwalają lepiej wpasować się w pracę zespołu. W tym artykule chciałbym
+podzielić się moimi poradami na temat pracy z narzędziami deweloperskimi.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="zmiana-podejścia-nie-musisz-być-ekspertem">Zmiana podejścia: nie musisz być ekspertem<a href="#zmiana-podejścia-nie-musisz-być-ekspertem" class="hash-link" aria-label="Bezpośredni link do Zmiana podejścia: nie musisz być ekspertem" title="Bezpośredni link do Zmiana podejścia: nie musisz być ekspertem" translate="no">​</a></h2>
+<p>Umieć programować, to brzmi dumnie. Ludzie spędzają wiele lat, żeby posiąść tę
+umiejętność. Jedni od małego tworzą strony i piszą gry na komputerze taty. Inni
+idą na studia i uczą się analizy matematycznej, żeby potem przekuć zaawansowane
+zdolności intelektualne na mistrzowskie opanowanie algorytmiki i wzorców w
+programowaniu. To nie jest łatwa ścieżka, choć jest wielu, którzy nią podążają.</p>
+<p>Ale, tak jak pisałem na wstępie, to nie jest ścieżka dla nas. My skupimy się na
+tym, że <strong>nie trzeba</strong> być programistą, żeby skutecznie używać narzędzi dla
+deweloperów. A co trzeba? Dwóch rzeczy.</p>
+<p>Po pierwsze, zaakceptuj krzywą uczenia się (ang. <em>learning curve</em>). Z początku
+nie będzie łatwo, bo nie będziesz rozumieć całej perspektywy. Nie będziesz
+wiedzieć po co masz za każdym razem wykonywać krok X, albo dlaczego coś nie
+działa. Będziesz widzieć na ekranie tajemnicze słowa typu &quot;<em>execution error</em>&quot;
+albo &quot;<em>XYZ is not recognized as the name of a cmdlet, function, script file, or
+operable program</em>&quot;. Nie będziesz wiedzieć czym się różni Node.js od React.js. I
+to jest okej. Uwierz mi: w końcu wszystko zrozumiesz. Potrzebujesz czasu i
+wprawy, a zrozumienie przyjdzie naturalnie.</p>
+<p>Po drugie, ucz się publicznie. Graj z innymi w otwarte karty; mów, że nie wiesz,
+nie rozumiesz, nie umiesz. Nie rób z siebie ofiary i nie podkreślaj swojej
+niewiedzy na każdym kroku. Nie przyjmuj postawy defensywnej. Nie przybieraj
+maski wyuczonej bezradności. Nie stań się osobą bezradną. Po prostu mów -
+rzeczowo, otwarcie i zwięźle - czego nie wiesz, czego nie rozumiesz i czego nie
+umiesz. Zadawaj konkretne pytania, np. &quot;jak mam rozwiązać ten problem?&quot; Zespół
+Ci chętnie pomoże, bo ludzie lubią pomagać ludziom i lubią czuć się pomocni.</p>
+<p><img decoding="async" loading="lazy" alt="Zespół przybiją grupowo piątkę, wszystko wygląda dosyć niezręcznie. Jeden z uczestników mówi &amp;quot;Tak to się robi? Tak się przybija piątkę?" src="/assets/images/przybij-piatke-0ffaf6eac56b1724290a464b2be665fe.png" width="700" height="470" class="img_ev3q"></p>
+<p>Jeżeli zrobisz te dwie rzeczy, zaakceptujesz krzywą uczenia i będziesz się uczyć
+publicznie, będziesz na jak najlepszej drodze do opanowania narzędzi
+deweloperskich.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-git-i-kontrola-wersji---podstawy-które-wystarczą">2. Git i kontrola wersji - podstawy, które wystarczą<a href="#2-git-i-kontrola-wersji---podstawy-które-wystarczą" class="hash-link" aria-label="Bezpośredni link do 2. Git i kontrola wersji - podstawy, które wystarczą" title="Bezpośredni link do 2. Git i kontrola wersji - podstawy, które wystarczą" translate="no">​</a></h2>
+<p>Najbardziej podstawowym narzędziem w zespole programistów jest Git. Git to
+rozproszony system kontroli wersji bla, bla, bla, i tak dalej. Teoria jest
+ważna, ale wcale nie musisz jej rozumieć. Bo 90% pracy z Gitem to 5 (słownie
+&quot;pięć&quot;) komend. Jakich?</p>
+<p><code>clone</code>, <code>pull</code>, <code>branch</code>, <code>commit</code>, <code>push</code></p>
+<p>Naprawdę nie przesadzam - te pięć słówek to podstawa. Naucz się ich i używaj. A
+jak trafisz na skomplikowaną sytuację, z którą nie możesz sobie poradzić,
+zapytaj kogoś, zapytaj AI, albo, jeśli lubisz totalny old school, <em>wygooglaj</em>
+to.</p>
+<p>Przez większość czasu będziesz powtarzać ten sam workflow. Czasem zdarzą się
+<strong>konflikty</strong>, ale nie daj się ponieść negatywnym emocjom sugerowanym przez to
+słowo. Konflikt w Gicie to nic złego. To nie jest oznaka, że popełniasz błąd,
+albo, że będzie jakaś kara. Konflikt jest drogą do współpracy. Powinien się może
+nazywać jakoś inaczej, ale nazywa się jak się nazywa.</p>
+<p>Zacząłem tę sekcję od wypisania kilku komend, ale tak naprawdę nie musisz używać
+komend. Możesz używać GUI, na przykład tego, które jest wbudowane w VS Code czy
+inne IDE. Powiem więcej: <strong>zachęcam</strong> do używania GUI. Jeżeli masz świadomość co
+stoi za każdą komendą, to o wiele łatwiej jest pracować używając GUI. No i
+tysiąc razy łatwiej rozwiązuje się konflikty w three-way merge editorze niż &quot;z
+palca&quot; w jakimś przedpotopowym interfejsie w terminalu.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-markdown-i-inne-języki-znaczników">3. Markdown i inne języki znaczników<a href="#3-markdown-i-inne-języki-znaczników" class="hash-link" aria-label="Bezpośredni link do 3. Markdown i inne języki znaczników" title="Bezpośredni link do 3. Markdown i inne języki znaczników" translate="no">​</a></h2>
+<p>Markdown jest naprawdę łatwy do opanowania. Nagłówki, listy, cytaty, próbki
+kodu. Do tego pogrubienia, kursywa, i <code>słowa</code> <code>kodowe</code>. That&#x27;s it! Gratulacje,
+masz w małym palcu 90% tego, co potrzebujesz.</p>
+<p>Dla bardziej zaawansowanych, lub tych, którzy oczekują więcej od języka
+znaczników, jest MDX, AsciiDoc, czy reStructuredText. Każdy z nich ma swoje
+mocne strony w zależności od potrzeb. Na przykład, jeśli pracujesz w zespole, w
+którym React to chleb powszedni, MDX to świetny wybór. MDX pozwala wstawiać
+działające komponenty Reactowe do tekstu.</p>
+<p>Ale co z reusem? Słyszę pytanie, które zadajesz mi nieśmiało przez ekran.
+Oczywiście są na to sposoby i na pewno znajdziesz źródła, które powiedzą Ci jak
+z nich korzystać. Na przykład w Docusaurusie, dzięki pomocy MDXa, możesz
+<a href="https://docusaurus.io/docs/markdown-features/react#importing-markdown" target="_blank" rel="noopener noreferrer" class="">zaimportować Markdown z innego pliku</a>.</p>
+<p>Bardzo łatwo jest też pracować z <strong>interaktywnymi</strong> próbkami kodu w
+dokumentacji. Możesz podglądać zmiany na żywo, blogować i hostować stronę &quot;za
+darmo&quot;.
+<a class="" href="/docusaurus-zielony-przyjaciel">Pisaliśmy o tym już wcześniej</a>,
+jeśli chcesz zgłębić temat. Te funkcje znajdziesz nie tylko w Docusaurusie, ale
+też w innych generatorach stron.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-static-site-generators---korzystanie-bez-głębokiego-rozumienia">4. Static Site Generators - korzystanie bez głębokiego rozumienia<a href="#4-static-site-generators---korzystanie-bez-głębokiego-rozumienia" class="hash-link" aria-label="Bezpośredni link do 4. Static Site Generators - korzystanie bez głębokiego rozumienia" title="Bezpośredni link do 4. Static Site Generators - korzystanie bez głębokiego rozumienia" translate="no">​</a></h2>
+<p>Zostawmy Docusaurusa i przejdźmy teraz do innych Static Site Generators (SSG).
+Te narzędzia służą do generowania stron, które relatywnie rzadko wymagają zmian.
+Co to znaczy, kiedy codziennie publikujesz jakieś zmiany w docsach? Otóż to jest
+nadal &quot;relatywnie rzadko&quot; z punktu widzenia aplikacji webowych. Strony, które
+zmieniają się często, to na przykład Twitter (czy jak to się tam teraz nazywa),
+albo TikTok, gdzie co sekundę pojawia się kwadrylion nowych treści. I te nowe
+treści są prezentowane za pomocą zaawansowanych algorytmów poleceń, które są
+lepiej dopracowane niż praktycznie każdy inny system na tej planecie, bo
+jesteśmy gatunkiem małpy, która doskonale opanowała priorytetyzację.</p>
+<p>Ale o czym to ja pisałem? A tak, SSG. Każda strona z dokumentacją jest stroną
+statyczną. Raz napisane treści są prezentowane w stały sposób, zaprojektowany za
+pomocą statycznej architektury informacji. Treści są indeksowane do wyszukiwania
+i hostowane do długoterminowej eksploatacji. Dlatego zespoły dokumentacyjne w
+softwarze tak uwielbiają SSG.</p>
+<p>Nie musisz znać całej teorii za tym wszystkim, musisz tylko nauczyć się pracować
+z konkretnym narzędziem. W świecie Pythona jest to na przykład Sphinx lub
+MkDocs. Dla miłośników Reacta jest wspomniany Docusaurus albo Gatsby. Jeśli
+lubisz Go (taki język programowania, nie że lubisz &quot;Jego&quot;) to pewnie sięgniesz
+po Hugo albo Docsy. Jeśli chcesz wiedzieć ile jest opcji obecnie na rynku, to
+polecam
+<a href="https://jamstack.org/generators/" target="_blank" rel="noopener noreferrer" class="">wyszukiwarkę SSG na stronie Jamstack</a>.</p>
+<p><strong>Spoiler</strong>: w momencie pisania artykułu, wyszukiwarka pokazuje 375 SSG.</p>
+<p>Czego potrzebujesz, żeby pracować z SSG? Musisz zrozumieć strukturę projektu,
+żeby wiedzieć gdzie dodawać lub edytować docsy. Poznaj sposoby na odpalenie
+lokalnego preview, żeby kontrolować jakość strony w czasie pisania. Na koniec,
+naucz się gdzie szukać pomocy. I to wystarczy. Poradzisz sobie z każdym SSG.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="5-terminalwiersz-poleceń---oswajanie-czarnego-okienka">5. Terminal/wiersz poleceń - oswajanie czarnego okienka<a href="#5-terminalwiersz-poleceń---oswajanie-czarnego-okienka" class="hash-link" aria-label="Bezpośredni link do 5. Terminal/wiersz poleceń - oswajanie czarnego okienka" title="Bezpośredni link do 5. Terminal/wiersz poleceń - oswajanie czarnego okienka" translate="no">​</a></h2>
+<p>Czasem jednak musisz otworzyć to czarne okienko, żeby zadziała się komputerowa
+magia. Ale w codziennej pracy potrzebujesz kilku prostych komend i nie musisz
+się w to bardziej zagłębiać.</p>
+<p>Na przykład pracując z Docusaurusem, otwierasz czarne okienko i piszesz tak:</p>
+<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">yarn</span><br></span></code></pre></div></div>
+<p><img decoding="async" loading="lazy" alt="Okienko terminala z wiadomością &amp;quot;Done with warnings&amp;quot; i dopiskiem &amp;quot;with warnings, ale się udało&amp;quot;" src="/assets/images/terminal-warnings-4bfa7733ac35b7b3f7654d7b2dfc4125.png" width="700" height="470" class="img_ev3q"></p>
+<p>Potem czekasz trochę aż proces zakończy się powodzeniem i piszesz:</p>
+<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">yarn start</span><br></span></code></pre></div></div>
+<p>Czekasz momencik i otwiera się przeglądarka z podglądem strony na żywo.</p>
+<p>Jeżeli chcesz zrobić coś bardziej zaawansowanego, to dla 99% przypadków
+znajdziesz gotową komendę w Internecie. A pozostały 1% przypadków? Możesz
+poprosić osoby z zespołu programistów, lub spytać AI. Wykorzystaj te momenty na
+zdobywanie przydatnej wiedzy. Prowadź sobie <strong>ściągawkę</strong> ze starymi i nowymi
+komendami. A jeżeli tworzysz jakieś skrypty przy pomocy innych, postaraj się je
+zrozumieć, żeby móc je potem modyfikować. Przez lata zgromadzisz wiedzę, która
+zrobi z Ciebie power usera\kę. 💪</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="6-cicd-i-automatyzacja---zrozumieć-nie-budować">6. CI/CD i automatyzacja - zrozumieć, nie budować<a href="#6-cicd-i-automatyzacja---zrozumieć-nie-budować" class="hash-link" aria-label="Bezpośredni link do 6. CI/CD i automatyzacja - zrozumieć, nie budować" title="Bezpośredni link do 6. CI/CD i automatyzacja - zrozumieć, nie budować" translate="no">​</a></h2>
+<p>Programiści używają CI/CD, czyli aplikacji, które budują i publikują
+oprogramowanie. Tech writerzy też mogą używać CI/CD, żeby budować i publikować
+dokumentację. Ale tech writerzy nie muszą (najczęściej) wiedzieć bardzo dużo o
+tych narzędziach. Co Cię powinno interesować?</p>
+<p>Dobrze jest wiedzieć ogólnie co jest budowane i gdzie jest publikowane (np.
+dokumentacja z Markdowna budowana do strony HTML i publikowana na serwer na
+AWSie). Reszta nie będzie Cię dotyczyła w 99% przypadków. A jeżeli zdarzy się
+ten 1%, to na pewno pomogą Ci koleżanki/koledzy/AI.</p>
+<p>Pewnie możesz coś modyfikować w konfiguracji, ale często da się to zrobić w
+jakimś GUI, co się nie różni bardzo od ustawiania budzika na telefonie.</p>
+<p>Gorzej jeśli zdarzają się błędy. Wtedy musisz czytać logi i zaaplikować
+wyczytaną informację, żeby naprawić problem. Tutaj może się przydać znajomość
+np. Markdowna i jakim strukturom w HTMLu on odpowiada, oraz jak jest do HTMLa
+kompilowany. Odpowiedzialność za błędy w AWSie i tym podobnych nie powinna leżeć
+po Twojej stronie, ale jeżeli tak się stanie, to wszystko jest do wygooglania.</p>
+<p>Najważniejszą umiejętnością, jakiej możesz się tu nauczyć, to skuteczna
+komunikacja z DevOps, czyli z ludźmi, którzy utrzymują infrastrukturę. Naucz się
+precyzyjnie wyjaśniać swoje problemy i najlepiej prezentuj symptomy, a nie swoje
+przypuszczenia na temat przyczyn.</p>
+<p>Stwierdzenie &quot;strona nie działa&quot; jest zbyt ogólne. Co jest nie tak na stronie?
+Klikanie przycisku nic nie daje? Czy co się nie układa na ekranie tak jak
+oczekujesz?</p>
+<p>Z drugiej strony &quot;na stronie jest puste miejsce bo chyba coś skopałem w
+Markdownie&quot; to trochę za dużo przypuszczeń i osoba utrzymująca stronę może Cię
+spuścić po kablu odpowiadając &quot;to napraw sobie w Markdownie&quot;.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="7-praca-ze-środowiskami-deweloperskimi">7. Praca ze środowiskami deweloperskimi<a href="#7-praca-ze-środowiskami-deweloperskimi" class="hash-link" aria-label="Bezpośredni link do 7. Praca ze środowiskami deweloperskimi" title="Bezpośredni link do 7. Praca ze środowiskami deweloperskimi" translate="no">​</a></h2>
+<p>Deweloperzy pracują w zaawansowanych edytorach tekstu albo w IDE (integrated
+development environment), czyli aplikacjach, które dają im wszystko czego
+potrzebują do kodowania w jednym miejscu. Może firma nie da Ci drogiej licencji
+na jakieś IDE ze stajni Jetbrains tak jak programiście (np. PyCharm), ale
+istnieją solidne narzędzia, które możesz sobie ściągnąć za darmo. Polecam VS
+Code&#x27;a, którego używa spora częśc programistów, bo jak się nauczysz go
+obsługiwać w pracy, to będzie Ci też służyć w domu, i na wakacjach, i na weselu
+szwagra.</p>
+<p>VS Code ma też masę rozszerzeń, które mocno ułatwiają pracę tech writera. Na
+początek warto zainstalować:</p>
+<ul>
+<li class=""><strong>Code Spell Checker</strong>, który jest dostępny także dla języka polskiego. Możesz
+z nim zapisywać słowa, które ma ignorować na poziomie projektu lub we
+wszystkich projektach. To bardzo przydatne w gęstwinie nazw własnych i żargonu
+firmowego.</li>
+<li class=""><strong>Markdown All in One</strong>, który dodaje skróty klawiszowe i komendy związane z
+pisaniem w Markdownie.</li>
+<li class=""><strong>Git Lens</strong>, który bardzo pogłębia zrozumienie zmian i historii. Jak
+zaczynałem z Gitem, bardzo mi ułatwił robienie tych trochę bardziej
+skomplikowanych rzeczy jak <em>interactive rebase</em>. Chociaż w dzisiejszych
+czasach VS Code sam sobie też sobie nieźle z tym radzi.</li>
+<li class=""><strong>Prettier</strong>, który automatycznie formatuje. Ustaw sobie &quot;prose wrap&quot;, &quot;format
+on save&quot; i default formatter na &quot;Prettier&quot;. Naciśnij Ctrl+S. Zobaczysz jak
+każda linijka ładnie się zawija, jak robią się odstępy pod tytułami, jak
+formatują się listy. <em>Absolute cinema!</em></li>
+</ul>
+<p>Spróbuj używać VS Code (lub czegoś innego) przez miesiąc, aż osiągniesz w nim
+biegłość. Po tym czasie nie będziesz w stanie bez niego żyć.</p>
+<p><img decoding="async" loading="lazy" alt="Tech writer siedzący z laptopem, koło głowy latają mu serduszka symbolizują miłość, a w myślach ma interfejs VS Code" src="/assets/images/tech-writer-kocha-vs-code-269233c934ede126badc23c4b05f864d.png" width="700" height="470" class="img_ev3q"></p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="8-api-i-dokumentacja-techniczna">8. API i dokumentacja techniczna<a href="#8-api-i-dokumentacja-techniczna" class="hash-link" aria-label="Bezpośredni link do 8. API i dokumentacja techniczna" title="Bezpośredni link do 8. API i dokumentacja techniczna" translate="no">​</a></h2>
+<p>Teraz dochodzimy do tego na czym się zarabia. API to jest waluta Internetu. API
+to jedwabny szlak, którym pomykają niebieskie i zielone dolary. Jeżeli aplikacja
+ma darmowy interfejs dla konsumenta, to na pewno ma płatne API dla programistów.
+👛🪙</p>
+<p>Jako tech writer, możesz poznać podstawy API bez umiejętności programowania. Na
+pewno znajdziesz jakieś kursy o API. Zapoznaj się z nimi i wyłów z nich to, co
+dla Ciebie ważne. Potem, poproś AI o napisanie kodu, który działa z Twoim API, a
+następnie poproś go o wyjaśnienie. Zrozum to wyjaśnienie i postaraj się je
+zweryfikować. Najlepiej odpal ten kod.</p>
+<p>Brzmi jak za dużo dla Ciebie?</p>
+<p>Cofnij się o krok. Nie pisz kodu i zamiast tego naucz się wysyłać zapytania z
+Postmana. Albo jak nie masz pieniędzy na licencję Postmana, zainstaluj
+rozszerzenie &quot;REST Client&quot; w VS Code. Wysyłaj zapytania do API aż zrozumiesz o
+czym mówię. Potem możesz zgłębić teorię.</p>
+<p>Jedna informacja jest kluczem do sukcesu. Oto ona: Dokumentacja do API jest
+generowana z OpenAPI/Swaggera. Ale ta naprawdę ciekawa dokumentacja jest pisana
+ręcznie przez tech writera. Jest najbardziej wartościowa jeżeli dodaje
+informacje, których nie ma w samym OpenAPI. Innymi słowy, powinna opisywać
+praktyczne zastosowania API, które pozwalają użytkownikom (programistom)
+osiągnąć pożyteczne cele biznesowe. Twoje zadania jako tech writera to
+dowiedzieć się jakie są te cele i wybrać z nich te, które przynoszą użytkownikom
+największe korzyści. Potem wybierz jeszcze te, które najtrudniej osiągnąć.</p>
+<p>Poradzisz sobie, bo research to jest właśnie Twoja mocna strona.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="9-strategie-uczenia-się-i-rozwoju">9. Strategie uczenia się i rozwoju<a href="#9-strategie-uczenia-się-i-rozwoju" class="hash-link" aria-label="Bezpośredni link do 9. Strategie uczenia się i rozwoju" title="Bezpośredni link do 9. Strategie uczenia się i rozwoju" translate="no">​</a></h2>
+<p>Strategia, czyli plan na długofalowe działanie. Nie trać sił na to, co nie
+przyniesie korzyści w długim terminie, to jest właśnie myślenie strategiczne. A
+pierwsza rada strategiczna ode mnie brzmi: <strong>ucz się tego, czego aktualnie
+potrzebujesz</strong>. Nie ucz się na zapas. Twoim celem powinno być &quot;just-in-time
+learning&quot;. Tak jak &quot;just-in-time manufacturing&quot;, nie masz miejsca na
+magazynowanie towaru i nie masz na niego zbytu. Jeżeli nie możesz użyć nabytej
+wiedzy wkrótce, to po pierwsze nie masz okazji jej przetestować i przez to
+pogłębić, a po drugie wiedza odłożona na zakurzoną półkę w mózgu szybko obrośnie
+pajęczynami, albo wyparuje.</p>
+<p>Druga rada: <strong>używaj AI</strong>. Wiem, AI jest niemoralne i nieekologiczne i też się
+go brzydzę. Ale jeżeli jednak zdecydujesz się go użyć, to okaże się świetnym
+sposobem wyszukiwania wiedzy na temat, którego akurat potrzebujesz. Traktuj AI
+jak partnera technicznego a w rezultacie dostaniesz artykuły na tematy, które
+Cię najbardziej interesują. Tylko zweryfikuj informacje, które czytasz, bo
+zmyślanie to poważny problem z AI.</p>
+<p>Dodam na boku, że co krok polecam używanie AI, ale jednocześnie wydaje mi się,
+że używanie AI może człowieka ogłupić i rozleniwić. Chyba, że każdą wygenerowaną
+informację sprawdzimy i użyjemy jako szczebelek w drodze do zdobywania wiedzy.
+Jeśli spodziewasz się, że w dokumentacji będziesz pisać sporo kodu dokumentacji,
+nie polegaj na AI, tylko naucz się ten kod pisać samodzielnie. Nigdy nie używaj
+AI do syntezowania wiedzy czy &quot;analizy danych&quot;. AI w takiej postaci jak istnieje
+w styczniu 2026 <strong>nie potrafi analizować danych</strong>.</p>
+<p>Trzecia rada: <strong>dokumentacja i tutoriale to Twoi przyjaciele</strong>. Czy to
+dokumentacja wewnętrzna w firmie, czy oficjalna dokumentacja do React czy
+Docusaurusa, czy specyfikacja standardu OpenAPI. Naucz się znajdować wiedzę u
+źródła, żeby potwierdzić to, czego się uczysz. A jeżeli masz dostęp do Udemy,
+Pluralsight, albo Linkedin Learning, to też bardzo dobrze. Przeszukaj ich
+katalog szkoleń i zobacz czy coś tam odpowiada Twoim potrzebom. Przyjemny głos
+instruktora przeprowadzi Cię przez zagadnienie i pokaże przykłady, a praktyczne
+ćwiczenia pomogą Ci ugruntować wiedzę. Nie masz dostępu do żadnej z tych
+platform? Poszukaj darmowych tutoriali na YouTube.</p>
+<p>Czwarta rada: <strong>zbuduj sieć kontaktów z developerami w firmie</strong>. Łaczy Was to,
+że pracujecie w jednej firmie, ale czy coś jeszcze? Może macie podobne
+zainteresowania? A może zajawiasz się na technologię, w której ktoś pracuje? Tak
+czy siak, warto poznawać ludzi i wiedzieć w czym możecie sobie nawzajem pomóc.
+Buduj zdrowe, partnerskie relacje z kolegami i koleżankami, a nie tylko zyskasz
+dostęp do źródeł wiedzy i pomocy, ale też może zyskasz nowych przyjaciół. Poza
+tym wiadomo, że człowiek najłatwiej znajduje własną wartość w oczach innych.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="10-praktyczne-wskazówki-na-co-dzień">10. Praktyczne wskazówki na co dzień<a href="#10-praktyczne-wskazówki-na-co-dzień" class="hash-link" aria-label="Bezpośredni link do 10. Praktyczne wskazówki na co dzień" title="Bezpośredni link do 10. Praktyczne wskazówki na co dzień" translate="no">​</a></h2>
+<p>Na koniec, mam dla Ciebie jeszcze kilka szybkich rad, które ułatwią Ci życie:</p>
+<ul>
+<li class="">Stwórz sobie bibliotekę snippetów i komend.</li>
+<li class="">Naucz się często robić backup, żeby nie stracić owoców swojej pracy.</li>
+<li class="">Naucz się rozróżniać kiedy poprosić o pomoc, a kiedy spróbować samodzielnie -
+jedno pytanie może Ci zaoszczędzić godziny prób i błędów, ale czasem godzina
+spędzona ucząc się czegoś pomoze Ci zaoszczędzić sto pytań. Ważne jest, żeby
+znaleźć równowagę między samodzielnością a efektywnością.</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="podsumowanie">Podsumowanie<a href="#podsumowanie" class="hash-link" aria-label="Bezpośredni link do Podsumowanie" title="Bezpośredni link do Podsumowanie" translate="no">​</a></h2>
+<p>Nie chcę Cię dłużej zatrzymywać nad tym artykułem, bo na pewno palisz się już do
+roboty! W takim razie pozwól, że podsumuję.</p>
+<p>Po pierwsze, tech writer nie powinien być deweloperem, ale musi zachować
+elastyczność i czasem jednak bywać takim <strong>trochę</strong> deweloperem.</p>
+<p>Po drugie, narzędzia są środkiem nie celem. To jak szukasz informacji i jak
+podchodzisz do problemów, a przede wszystkim to z kim pracujesz, znaczy więcej
+niż Twoje opanowanie komend, skryptów, czy tooli.</p>
+<p>Po trzecie, nie przestawaj się uczyć. Nasz zawód to przekazywanie wiedzy, a nie
+można jej przekazywać, kiedy się jej nie posiada.</p>
+<p>Po czwarte, wartość tech writera leży w umiejętnościach komunikacyjnych, nie
+technicznych.</p>
+<p>Jeśli chcesz posłuchać podcastu na podobny temat, to może zainteresuje Cię
+<a href="https://techwriterkoduje.pl/blog/2024/8/29/69/" target="_blank" rel="noopener noreferrer" class="">Tech Writer uczy się od programistów, czyli co każdy technoskryba powinien wiedzieć o kodowaniu</a>.</p></div><footer class="docusaurus-mt-lg"><div class="row margin-top--sm theme-blog-footer-edit-meta-row"><div class="col"><b>Tagi:</b><ul class="tags_jXut padding--none margin-left--sm"><li class="tag_QGVx"><a rel="tag" class="tag_zVej tagRegular_sFm0" href="/tags/dobre-praktyki">dobre-praktyki</a></li><li class="tag_QGVx"><a rel="tag" class="tag_zVej tagRegular_sFm0" href="/tags/narzedzia">narzędzia</a></li><li class="tag_QGVx"><a rel="tag" class="tag_zVej tagRegular_sFm0" href="/tags/warsztat">warsztat</a></li></ul></div></div><div class="row margin-top--sm theme-blog-footer-edit-meta-row"><div class="col noPrint_WFHX"><a href="https://github.com/techwriter-pl/techwriter-pl.github.io/tree/main/blog/jak-pracowac-z-narzedziami-nie-bedac-programista/index.md" target="_blank" rel="noopener noreferrer" class="theme-edit-this-page"><svg fill="currentColor" height="20" width="20" viewBox="0 0 40 40" class="iconEdit_Z9Sw" aria-hidden="true"><g><path d="m34.5 11.7l-3 3.1-6.3-6.3 3.1-3q0.5-0.5 1.2-0.5t1.1 0.5l3.9 3.9q0.5 0.4 0.5 1.1t-0.5 1.2z m-29.5 17.1l18.4-18.5 6.3 6.3-18.4 18.4h-6.3v-6.2z"></path></g></svg>Edytuj tę stronę</a></div><div class="col lastUpdated_JAkA"></div></div></footer></article><nav class="pagination-nav docusaurus-mt-lg" aria-label="Nawigacja na stronie artykułu na blogu"><a class="pagination-nav__link pagination-nav__link--next" href="/badanie-plac-w-komunikacji-technicznej-2025-wypelnij-ankiete"><div class="pagination-nav__sublabel">Starszy artykuł</div><div class="pagination-nav__label">BADANIE PŁAC W KOMUNIKACJI TECHNICZNEJ 2025 – WYPEŁNIJ ANKIETĘ!</div></a></nav></main><div class="col col--2"><div class="tableOfContents_bqdL thin-scrollbar"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#zmiana-podejścia-nie-musisz-być-ekspertem" class="table-of-contents__link toc-highlight">Zmiana podejścia: nie musisz być ekspertem</a></li><li><a href="#2-git-i-kontrola-wersji---podstawy-które-wystarczą" class="table-of-contents__link toc-highlight">2. Git i kontrola wersji - podstawy, które wystarczą</a></li><li><a href="#3-markdown-i-inne-języki-znaczników" class="table-of-contents__link toc-highlight">3. Markdown i inne języki znaczników</a></li><li><a href="#4-static-site-generators---korzystanie-bez-głębokiego-rozumienia" class="table-of-contents__link toc-highlight">4. Static Site Generators - korzystanie bez głębokiego rozumienia</a></li><li><a href="#5-terminalwiersz-poleceń---oswajanie-czarnego-okienka" class="table-of-contents__link toc-highlight">5. Terminal/wiersz poleceń - oswajanie czarnego okienka</a></li><li><a href="#6-cicd-i-automatyzacja---zrozumieć-nie-budować" class="table-of-contents__link toc-highlight">6. CI/CD i automatyzacja - zrozumieć, nie budować</a></li><li><a href="#7-praca-ze-środowiskami-deweloperskimi" class="table-of-contents__link toc-highlight">7. Praca ze środowiskami deweloperskimi</a></li><li><a href="#8-api-i-dokumentacja-techniczna" class="table-of-contents__link toc-highlight">8. API i dokumentacja techniczna</a></li><li><a href="#9-strategie-uczenia-się-i-rozwoju" class="table-of-contents__link toc-highlight">9. Strategie uczenia się i rozwoju</a></li><li><a href="#10-praktyczne-wskazówki-na-co-dzień" class="table-of-contents__link toc-highlight">10. Praktyczne wskazówki na co dzień</a></li><li><a href="#podsumowanie" class="table-of-contents__link toc-highlight">Podsumowanie</a></li></ul></div></div></div></div></div><footer class="theme-layout-footer footer"><div class="container container-fluid"><div class="footer__links text--center"><div class="footer__links"><a href="http://www.facebook.com/techwriterpl" target="_blank" rel="noopener noreferrer" class="footer__link-item">Facebook<svg width="13.5" height="13.5" aria-label="(otwiera się w nowej karcie)" class="iconExternalLink_nPIU"><use href="#theme-svg-external-link"></use></svg></a><span class="footer__link-separator">·</span><a href="https://www.linkedin.com/company/techwriter-pl/" target="_blank" rel="noopener noreferrer" class="footer__link-item">LinkedIn<svg width="13.5" height="13.5" aria-label="(otwiera się w nowej karcie)" class="iconExternalLink_nPIU"><use href="#theme-svg-external-link"></use></svg></a></div></div><div class="footer__bottom text--center"><div class="footer__copyright">Copyright © 2026 techwriter.pl</div></div></div></footer></div>
+</body>
+</html>

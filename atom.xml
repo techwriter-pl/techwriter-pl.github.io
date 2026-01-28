@@ -2,11 +2,292 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://techwriter.pl/</id>
     <title>techwriter.pl Blog</title>
-    <updated>2025-12-05T00:00:00.000Z</updated>
+    <updated>2026-01-28T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://techwriter.pl/"/>
     <subtitle>techwriter.pl Blog</subtitle>
     <icon>https://techwriter.pl/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Jak pracować z narzędziami deweloperskimi - wskazówki dla tech writerów]]></title>
+        <id>https://techwriter.pl/jak-pracowac-z-narzedziami-nie-bedac-programista</id>
+        <link href="https://techwriter.pl/jak-pracowac-z-narzedziami-nie-bedac-programista"/>
+        <updated>2026-01-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Rzeczywistość współczesnego tech writingu to docs-as-code: Git, Markdown i]]></summary>
+        <content type="html"><![CDATA[<p>Rzeczywistość współczesnego tech writingu to docs-as-code: Git, Markdown i
+Static Site Generators (SSG). Jak ma się w tym wszystkim odnaleźć tech writer?
+Moja odpowiedź brzmi: najlepiej tak, żeby nie stać się programistą.</p>
+<p>W przypadku dokumentacji do oprogramowania, a zwłaszcza bardzo technicznych
+rozwiązań dla deweloperów, tech writer wkomponowany jest w zespół programistów i
+używa ich narzędzi. Ale nasza unikalna cecha, nasza wartość dodana, leży właśnie
+w tym, że <strong>nie</strong> jesteśmy programistami. Tech writerzy to ludzie słowa. Lubimy
+czytać i wyrażamy się poprzez pisanie. Interesuje nas człowiek i jego
+zachowania. Dlatego zatrudnia się właśnie nas do pisania dokumentacji: żebyśmy
+mieli jedno oko na technologię a drugie na człowieka.</p>
+<p>Niemniej jednak narzędzia dla programistów mogą nam bardzo ułatwić pracę i
+pozwalają lepiej wpasować się w pracę zespołu. W tym artykule chciałbym
+podzielić się moimi poradami na temat pracy z narzędziami deweloperskimi.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="zmiana-podejścia-nie-musisz-być-ekspertem">Zmiana podejścia: nie musisz być ekspertem<a href="https://techwriter.pl/jak-pracowac-z-narzedziami-nie-bedac-programista#zmiana-podej%C5%9Bcia-nie-musisz-by%C4%87-ekspertem" class="hash-link" aria-label="Bezpośredni link do Zmiana podejścia: nie musisz być ekspertem" title="Bezpośredni link do Zmiana podejścia: nie musisz być ekspertem" translate="no">​</a></h2>
+<p>Umieć programować, to brzmi dumnie. Ludzie spędzają wiele lat, żeby posiąść tę
+umiejętność. Jedni od małego tworzą strony i piszą gry na komputerze taty. Inni
+idą na studia i uczą się analizy matematycznej, żeby potem przekuć zaawansowane
+zdolności intelektualne na mistrzowskie opanowanie algorytmiki i wzorców w
+programowaniu. To nie jest łatwa ścieżka, choć jest wielu, którzy nią podążają.</p>
+<p>Ale, tak jak pisałem na wstępie, to nie jest ścieżka dla nas. My skupimy się na
+tym, że <strong>nie trzeba</strong> być programistą, żeby skutecznie używać narzędzi dla
+deweloperów. A co trzeba? Dwóch rzeczy.</p>
+<p>Po pierwsze, zaakceptuj krzywą uczenia się (ang. <em>learning curve</em>). Z początku
+nie będzie łatwo, bo nie będziesz rozumieć całej perspektywy. Nie będziesz
+wiedzieć po co masz za każdym razem wykonywać krok X, albo dlaczego coś nie
+działa. Będziesz widzieć na ekranie tajemnicze słowa typu "<em>execution error</em>"
+albo "<em>XYZ is not recognized as the name of a cmdlet, function, script file, or
+operable program</em>". Nie będziesz wiedzieć czym się różni Node.js od React.js. I
+to jest okej. Uwierz mi: w końcu wszystko zrozumiesz. Potrzebujesz czasu i
+wprawy, a zrozumienie przyjdzie naturalnie.</p>
+<p>Po drugie, ucz się publicznie. Graj z innymi w otwarte karty; mów, że nie wiesz,
+nie rozumiesz, nie umiesz. Nie rób z siebie ofiary i nie podkreślaj swojej
+niewiedzy na każdym kroku. Nie przyjmuj postawy defensywnej. Nie przybieraj
+maski wyuczonej bezradności. Nie stań się osobą bezradną. Po prostu mów -
+rzeczowo, otwarcie i zwięźle - czego nie wiesz, czego nie rozumiesz i czego nie
+umiesz. Zadawaj konkretne pytania, np. "jak mam rozwiązać ten problem?" Zespół
+Ci chętnie pomoże, bo ludzie lubią pomagać ludziom i lubią czuć się pomocni.</p>
+<p><img decoding="async" loading="lazy" alt="Zespół przybiją grupowo piątkę, wszystko wygląda dosyć niezręcznie. Jeden z uczestników mówi &amp;quot;Tak to się robi? Tak się przybija piątkę?" src="https://techwriter.pl/assets/images/przybij-piatke-0ffaf6eac56b1724290a464b2be665fe.png" width="700" height="470" class="img_ev3q"></p>
+<p>Jeżeli zrobisz te dwie rzeczy, zaakceptujesz krzywą uczenia i będziesz się uczyć
+publicznie, będziesz na jak najlepszej drodze do opanowania narzędzi
+deweloperskich.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-git-i-kontrola-wersji---podstawy-które-wystarczą">2. Git i kontrola wersji - podstawy, które wystarczą<a href="https://techwriter.pl/jak-pracowac-z-narzedziami-nie-bedac-programista#2-git-i-kontrola-wersji---podstawy-kt%C3%B3re-wystarcz%C4%85" class="hash-link" aria-label="Bezpośredni link do 2. Git i kontrola wersji - podstawy, które wystarczą" title="Bezpośredni link do 2. Git i kontrola wersji - podstawy, które wystarczą" translate="no">​</a></h2>
+<p>Najbardziej podstawowym narzędziem w zespole programistów jest Git. Git to
+rozproszony system kontroli wersji bla, bla, bla, i tak dalej. Teoria jest
+ważna, ale wcale nie musisz jej rozumieć. Bo 90% pracy z Gitem to 5 (słownie
+"pięć") komend. Jakich?</p>
+<p><code>clone</code>, <code>pull</code>, <code>branch</code>, <code>commit</code>, <code>push</code></p>
+<p>Naprawdę nie przesadzam - te pięć słówek to podstawa. Naucz się ich i używaj. A
+jak trafisz na skomplikowaną sytuację, z którą nie możesz sobie poradzić,
+zapytaj kogoś, zapytaj AI, albo, jeśli lubisz totalny old school, <em>wygooglaj</em>
+to.</p>
+<p>Przez większość czasu będziesz powtarzać ten sam workflow. Czasem zdarzą się
+<strong>konflikty</strong>, ale nie daj się ponieść negatywnym emocjom sugerowanym przez to
+słowo. Konflikt w Gicie to nic złego. To nie jest oznaka, że popełniasz błąd,
+albo, że będzie jakaś kara. Konflikt jest drogą do współpracy. Powinien się może
+nazywać jakoś inaczej, ale nazywa się jak się nazywa.</p>
+<p>Zacząłem tę sekcję od wypisania kilku komend, ale tak naprawdę nie musisz używać
+komend. Możesz używać GUI, na przykład tego, które jest wbudowane w VS Code czy
+inne IDE. Powiem więcej: <strong>zachęcam</strong> do używania GUI. Jeżeli masz świadomość co
+stoi za każdą komendą, to o wiele łatwiej jest pracować używając GUI. No i
+tysiąc razy łatwiej rozwiązuje się konflikty w three-way merge editorze niż "z
+palca" w jakimś przedpotopowym interfejsie w terminalu.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-markdown-i-inne-języki-znaczników">3. Markdown i inne języki znaczników<a href="https://techwriter.pl/jak-pracowac-z-narzedziami-nie-bedac-programista#3-markdown-i-inne-j%C4%99zyki-znacznik%C3%B3w" class="hash-link" aria-label="Bezpośredni link do 3. Markdown i inne języki znaczników" title="Bezpośredni link do 3. Markdown i inne języki znaczników" translate="no">​</a></h2>
+<p>Markdown jest naprawdę łatwy do opanowania. Nagłówki, listy, cytaty, próbki
+kodu. Do tego pogrubienia, kursywa, i <code>słowa</code> <code>kodowe</code>. That's it! Gratulacje,
+masz w małym palcu 90% tego, co potrzebujesz.</p>
+<p>Dla bardziej zaawansowanych, lub tych, którzy oczekują więcej od języka
+znaczników, jest MDX, AsciiDoc, czy reStructuredText. Każdy z nich ma swoje
+mocne strony w zależności od potrzeb. Na przykład, jeśli pracujesz w zespole, w
+którym React to chleb powszedni, MDX to świetny wybór. MDX pozwala wstawiać
+działające komponenty Reactowe do tekstu.</p>
+<p>Ale co z reusem? Słyszę pytanie, które zadajesz mi nieśmiało przez ekran.
+Oczywiście są na to sposoby i na pewno znajdziesz źródła, które powiedzą Ci jak
+z nich korzystać. Na przykład w Docusaurusie, dzięki pomocy MDXa, możesz
+<a href="https://docusaurus.io/docs/markdown-features/react#importing-markdown" target="_blank" rel="noopener noreferrer" class="">zaimportować Markdown z innego pliku</a>.</p>
+<p>Bardzo łatwo jest też pracować z <strong>interaktywnymi</strong> próbkami kodu w
+dokumentacji. Możesz podglądać zmiany na żywo, blogować i hostować stronę "za
+darmo".
+<a class="" href="https://techwriter.pl/docusaurus-zielony-przyjaciel">Pisaliśmy o tym już wcześniej</a>,
+jeśli chcesz zgłębić temat. Te funkcje znajdziesz nie tylko w Docusaurusie, ale
+też&nbsp;w innych generatorach stron.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-static-site-generators---korzystanie-bez-głębokiego-rozumienia">4. Static Site Generators - korzystanie bez głębokiego rozumienia<a href="https://techwriter.pl/jak-pracowac-z-narzedziami-nie-bedac-programista#4-static-site-generators---korzystanie-bez-g%C5%82%C4%99bokiego-rozumienia" class="hash-link" aria-label="Bezpośredni link do 4. Static Site Generators - korzystanie bez głębokiego rozumienia" title="Bezpośredni link do 4. Static Site Generators - korzystanie bez głębokiego rozumienia" translate="no">​</a></h2>
+<p>Zostawmy Docusaurusa i przejdźmy teraz do innych Static Site Generators (SSG).
+Te narzędzia służą do generowania stron, które relatywnie rzadko wymagają zmian.
+Co to znaczy, kiedy codziennie publikujesz jakieś zmiany w docsach? Otóż to jest
+nadal "relatywnie rzadko" z punktu widzenia aplikacji webowych. Strony, które
+zmieniają się często, to na przykład Twitter (czy jak to się tam teraz nazywa),
+albo TikTok, gdzie co sekundę pojawia się kwadrylion nowych treści. I te nowe
+treści są prezentowane za pomocą zaawansowanych algorytmów poleceń, które są
+lepiej dopracowane niż praktycznie każdy inny system na tej planecie, bo
+jesteśmy gatunkiem małpy, która doskonale opanowała priorytetyzację.</p>
+<p>Ale o czym to ja pisałem? A tak, SSG. Każda strona z dokumentacją jest stroną
+statyczną. Raz napisane treści są prezentowane w stały sposób, zaprojektowany za
+pomocą statycznej architektury informacji. Treści są indeksowane do wyszukiwania
+i hostowane do długoterminowej eksploatacji. Dlatego zespoły dokumentacyjne w
+softwarze tak uwielbiają SSG.</p>
+<p>Nie musisz znać całej teorii za tym wszystkim, musisz tylko nauczyć się pracować
+z konkretnym narzędziem. W świecie Pythona jest to na przykład Sphinx lub
+MkDocs. Dla miłośników Reacta jest wspomniany Docusaurus albo Gatsby. Jeśli
+lubisz Go (taki język programowania, nie że lubisz "Jego") to pewnie sięgniesz
+po Hugo albo Docsy. Jeśli chcesz wiedzieć ile jest opcji obecnie na rynku, to
+polecam
+<a href="https://jamstack.org/generators/" target="_blank" rel="noopener noreferrer" class="">wyszukiwarkę SSG na stronie Jamstack</a>.</p>
+<p><strong>Spoiler</strong>: w momencie pisania artykułu, wyszukiwarka pokazuje 375 SSG.</p>
+<p>Czego potrzebujesz, żeby pracować z SSG? Musisz zrozumieć strukturę projektu,
+żeby wiedzieć gdzie dodawać lub edytować docsy. Poznaj sposoby na odpalenie
+lokalnego preview, żeby kontrolować jakość strony w czasie pisania. Na koniec,
+naucz się gdzie szukać pomocy. I to wystarczy. Poradzisz sobie z każdym SSG.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="5-terminalwiersz-poleceń---oswajanie-czarnego-okienka">5. Terminal/wiersz poleceń - oswajanie czarnego okienka<a href="https://techwriter.pl/jak-pracowac-z-narzedziami-nie-bedac-programista#5-terminalwiersz-polece%C5%84---oswajanie-czarnego-okienka" class="hash-link" aria-label="Bezpośredni link do 5. Terminal/wiersz poleceń - oswajanie czarnego okienka" title="Bezpośredni link do 5. Terminal/wiersz poleceń - oswajanie czarnego okienka" translate="no">​</a></h2>
+<p>Czasem jednak musisz otworzyć to czarne okienko, żeby zadziała się komputerowa
+magia. Ale w codziennej pracy potrzebujesz kilku prostych komend i nie musisz
+się w to bardziej zagłębiać.</p>
+<p>Na przykład pracując z Docusaurusem, otwierasz czarne okienko i piszesz tak:</p>
+<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">yarn</span><br></span></code></pre></div></div>
+<p><img decoding="async" loading="lazy" alt="Okienko terminala z wiadomością &amp;quot;Done with warnings&amp;quot; i dopiskiem &amp;quot;with warnings, ale się udało&amp;quot;" src="https://techwriter.pl/assets/images/terminal-warnings-4bfa7733ac35b7b3f7654d7b2dfc4125.png" width="700" height="470" class="img_ev3q"></p>
+<p>Potem czekasz trochę aż proces zakończy się powodzeniem i piszesz:</p>
+<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">yarn start</span><br></span></code></pre></div></div>
+<p>Czekasz momencik i otwiera się przeglądarka z podglądem strony na żywo.</p>
+<p>Jeżeli chcesz zrobić coś bardziej zaawansowanego, to dla 99% przypadków
+znajdziesz gotową komendę w Internecie. A pozostały 1% przypadków? Możesz
+poprosić osoby z zespołu programistów, lub spytać AI. Wykorzystaj te momenty na
+zdobywanie przydatnej wiedzy. Prowadź sobie <strong>ściągawkę</strong> ze starymi i nowymi
+komendami. A jeżeli tworzysz jakieś skrypty przy pomocy innych, postaraj się je
+zrozumieć, żeby móc je potem modyfikować. Przez lata zgromadzisz wiedzę, która
+zrobi z Ciebie power usera\kę. 💪</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="6-cicd-i-automatyzacja---zrozumieć-nie-budować">6. CI/CD i automatyzacja - zrozumieć, nie budować<a href="https://techwriter.pl/jak-pracowac-z-narzedziami-nie-bedac-programista#6-cicd-i-automatyzacja---zrozumie%C4%87-nie-budowa%C4%87" class="hash-link" aria-label="Bezpośredni link do 6. CI/CD i automatyzacja - zrozumieć, nie budować" title="Bezpośredni link do 6. CI/CD i automatyzacja - zrozumieć, nie budować" translate="no">​</a></h2>
+<p>Programiści używają CI/CD, czyli aplikacji, które budują i publikują
+oprogramowanie. Tech writerzy też mogą używać CI/CD, żeby budować i publikować
+dokumentację. Ale tech writerzy nie muszą (najczęściej) wiedzieć bardzo dużo o
+tych narzędziach. Co Cię powinno interesować?</p>
+<p>Dobrze jest wiedzieć ogólnie co jest budowane i gdzie jest publikowane (np.
+dokumentacja z Markdowna budowana do strony HTML i publikowana na serwer na
+AWSie). Reszta nie będzie Cię dotyczyła w 99% przypadków. A jeżeli zdarzy się
+ten 1%, to na pewno pomogą Ci koleżanki/koledzy/AI.</p>
+<p>Pewnie możesz coś modyfikować w konfiguracji, ale często da się to zrobić w
+jakimś GUI, co się nie różni bardzo od ustawiania budzika na telefonie.</p>
+<p>Gorzej jeśli zdarzają się błędy. Wtedy musisz czytać logi i zaaplikować
+wyczytaną informację, żeby naprawić problem. Tutaj może się przydać znajomość
+np. Markdowna i jakim strukturom w HTMLu on odpowiada, oraz jak jest do HTMLa
+kompilowany. Odpowiedzialność za błędy w AWSie i tym podobnych nie powinna leżeć
+po Twojej stronie, ale jeżeli tak się stanie, to wszystko jest do wygooglania.</p>
+<p>Najważniejszą umiejętnością, jakiej możesz się tu nauczyć, to skuteczna
+komunikacja z DevOps, czyli z ludźmi, którzy utrzymują infrastrukturę. Naucz się
+precyzyjnie wyjaśniać swoje problemy i najlepiej prezentuj symptomy, a nie swoje
+przypuszczenia na temat przyczyn.</p>
+<p>Stwierdzenie "strona nie działa" jest zbyt ogólne. Co jest nie tak na stronie?
+Klikanie przycisku nic nie daje? Czy co się nie układa na ekranie tak jak
+oczekujesz?</p>
+<p>Z drugiej strony "na stronie jest puste miejsce bo chyba coś skopałem w
+Markdownie" to trochę za dużo przypuszczeń i osoba utrzymująca stronę może Cię
+spuścić po kablu odpowiadając "to napraw sobie w Markdownie".</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="7-praca-ze-środowiskami-deweloperskimi">7. Praca ze środowiskami deweloperskimi<a href="https://techwriter.pl/jak-pracowac-z-narzedziami-nie-bedac-programista#7-praca-ze-%C5%9Brodowiskami-deweloperskimi" class="hash-link" aria-label="Bezpośredni link do 7. Praca ze środowiskami deweloperskimi" title="Bezpośredni link do 7. Praca ze środowiskami deweloperskimi" translate="no">​</a></h2>
+<p>Deweloperzy pracują w zaawansowanych edytorach tekstu albo w IDE (integrated
+development environment), czyli aplikacjach, które dają im wszystko czego
+potrzebują do kodowania w jednym miejscu. Może firma nie da Ci drogiej licencji
+na jakieś IDE ze stajni Jetbrains tak jak programiście (np. PyCharm), ale
+istnieją solidne narzędzia, które możesz sobie ściągnąć za darmo. Polecam VS
+Code'a, którego używa spora częśc programistów, bo jak się nauczysz go
+obsługiwać w pracy, to będzie Ci też służyć w domu, i na wakacjach, i na weselu
+szwagra.</p>
+<p>VS Code ma też masę rozszerzeń, które mocno ułatwiają pracę tech writera. Na
+początek warto zainstalować:</p>
+<ul>
+<li class=""><strong>Code Spell Checker</strong>, który jest dostępny także dla języka polskiego. Możesz
+z nim zapisywać słowa, które ma ignorować na poziomie projektu lub we
+wszystkich projektach. To bardzo przydatne w gęstwinie nazw własnych i żargonu
+firmowego.</li>
+<li class=""><strong>Markdown All in One</strong>, który dodaje skróty klawiszowe i komendy związane z
+pisaniem w Markdownie.</li>
+<li class=""><strong>Git Lens</strong>, który bardzo pogłębia zrozumienie zmian i historii. Jak
+zaczynałem z Gitem, bardzo mi ułatwił robienie tych trochę bardziej
+skomplikowanych rzeczy jak <em>interactive rebase</em>. Chociaż w dzisiejszych
+czasach VS Code sam sobie też sobie nieźle z tym radzi.</li>
+<li class=""><strong>Prettier</strong>, który automatycznie formatuje. Ustaw sobie "prose wrap", "format
+on save" i default formatter na "Prettier". Naciśnij Ctrl+S. Zobaczysz jak
+każda linijka ładnie się zawija, jak robią się odstępy pod tytułami, jak
+formatują się listy. <em>Absolute cinema!</em></li>
+</ul>
+<p>Spróbuj używać VS Code (lub czegoś innego) przez miesiąc, aż osiągniesz w nim
+biegłość. Po tym czasie nie będziesz w stanie bez niego żyć.</p>
+<p><img decoding="async" loading="lazy" alt="Tech writer siedzący z laptopem, koło głowy latają mu serduszka symbolizują miłość, a w myślach ma interfejs VS Code" src="https://techwriter.pl/assets/images/tech-writer-kocha-vs-code-269233c934ede126badc23c4b05f864d.png" width="700" height="470" class="img_ev3q"></p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="8-api-i-dokumentacja-techniczna">8. API i dokumentacja techniczna<a href="https://techwriter.pl/jak-pracowac-z-narzedziami-nie-bedac-programista#8-api-i-dokumentacja-techniczna" class="hash-link" aria-label="Bezpośredni link do 8. API i dokumentacja techniczna" title="Bezpośredni link do 8. API i dokumentacja techniczna" translate="no">​</a></h2>
+<p>Teraz dochodzimy do tego na czym się zarabia. API to jest waluta Internetu. API
+to jedwabny szlak, którym pomykają niebieskie i zielone dolary. Jeżeli aplikacja
+ma darmowy interfejs dla konsumenta, to na pewno ma płatne API dla programistów.
+👛🪙</p>
+<p>Jako tech writer, możesz poznać podstawy API bez umiejętności programowania. Na
+pewno znajdziesz jakieś kursy o API. Zapoznaj się z nimi i wyłów z nich to, co
+dla Ciebie ważne. Potem, poproś AI o napisanie kodu, który działa z Twoim API, a
+następnie poproś go o wyjaśnienie. Zrozum to wyjaśnienie i postaraj się je
+zweryfikować. Najlepiej odpal ten kod.</p>
+<p>Brzmi jak za dużo dla Ciebie?</p>
+<p>Cofnij się o krok. Nie pisz kodu i zamiast tego naucz się wysyłać zapytania z
+Postmana. Albo jak nie masz pieniędzy na licencję Postmana, zainstaluj
+rozszerzenie "REST Client" w VS Code. Wysyłaj zapytania do API aż zrozumiesz o
+czym mówię. Potem możesz zgłębić teorię.</p>
+<p>Jedna informacja jest kluczem do sukcesu. Oto ona: Dokumentacja do API jest
+generowana z OpenAPI/Swaggera. Ale ta naprawdę ciekawa dokumentacja jest pisana
+ręcznie przez tech writera. Jest najbardziej wartościowa jeżeli dodaje
+informacje, których nie ma w samym OpenAPI. Innymi słowy, powinna opisywać
+praktyczne zastosowania API, które pozwalają użytkownikom (programistom)
+osiągnąć pożyteczne cele biznesowe. Twoje zadania jako tech writera to
+dowiedzieć się jakie są te cele i wybrać z nich te, które przynoszą użytkownikom
+największe korzyści. Potem wybierz jeszcze te, które najtrudniej osiągnąć.</p>
+<p>Poradzisz sobie, bo research to jest właśnie Twoja mocna strona.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="9-strategie-uczenia-się-i-rozwoju">9. Strategie uczenia się i rozwoju<a href="https://techwriter.pl/jak-pracowac-z-narzedziami-nie-bedac-programista#9-strategie-uczenia-si%C4%99-i-rozwoju" class="hash-link" aria-label="Bezpośredni link do 9. Strategie uczenia się i rozwoju" title="Bezpośredni link do 9. Strategie uczenia się i rozwoju" translate="no">​</a></h2>
+<p>Strategia, czyli plan na długofalowe działanie. Nie trać sił na to, co nie
+przyniesie korzyści w długim terminie, to jest właśnie myślenie strategiczne. A
+pierwsza rada strategiczna ode mnie brzmi: <strong>ucz się tego, czego aktualnie
+potrzebujesz</strong>. Nie ucz się na zapas. Twoim celem powinno być "just-in-time
+learning". Tak jak "just-in-time manufacturing", nie masz miejsca na
+magazynowanie towaru i nie masz na niego zbytu. Jeżeli nie możesz użyć nabytej
+wiedzy wkrótce, to po pierwsze nie masz okazji jej przetestować i przez to
+pogłębić, a po drugie wiedza odłożona na zakurzoną półkę w mózgu szybko obrośnie
+pajęczynami, albo wyparuje.</p>
+<p>Druga rada: <strong>używaj AI</strong>. Wiem, AI jest niemoralne i nieekologiczne i też się
+go brzydzę. Ale jeżeli jednak zdecydujesz się go użyć, to okaże się świetnym
+sposobem wyszukiwania wiedzy na temat, którego akurat potrzebujesz. Traktuj AI
+jak partnera technicznego a w rezultacie dostaniesz artykuły na tematy, które
+Cię najbardziej interesują. Tylko zweryfikuj informacje, które czytasz, bo
+zmyślanie to poważny problem z AI.</p>
+<p>Dodam na boku, że co krok polecam używanie AI, ale jednocześnie wydaje mi się,
+że używanie AI może człowieka ogłupić i rozleniwić. Chyba, że każdą wygenerowaną
+informację sprawdzimy i użyjemy jako szczebelek w drodze do zdobywania wiedzy.
+Jeśli spodziewasz się, że w dokumentacji będziesz pisać sporo kodu dokumentacji,
+nie polegaj na AI, tylko naucz się ten kod pisać samodzielnie. Nigdy nie używaj
+AI do syntezowania wiedzy czy "analizy danych". AI w takiej postaci jak istnieje
+w styczniu 2026 <strong>nie potrafi analizować danych</strong>.</p>
+<p>Trzecia rada: <strong>dokumentacja i tutoriale to Twoi przyjaciele</strong>. Czy to
+dokumentacja wewnętrzna w firmie, czy oficjalna dokumentacja do React czy
+Docusaurusa, czy specyfikacja standardu OpenAPI. Naucz się znajdować wiedzę u
+źródła, żeby potwierdzić to, czego się uczysz. A jeżeli masz dostęp do Udemy,
+Pluralsight, albo Linkedin Learning, to też bardzo dobrze. Przeszukaj ich
+katalog szkoleń i zobacz czy coś tam odpowiada Twoim potrzebom. Przyjemny głos
+instruktora przeprowadzi Cię przez zagadnienie i pokaże przykłady, a praktyczne
+ćwiczenia pomogą Ci ugruntować wiedzę. Nie masz dostępu do żadnej z tych
+platform? Poszukaj darmowych tutoriali na YouTube.</p>
+<p>Czwarta rada: <strong>zbuduj sieć kontaktów z developerami w firmie</strong>. Łaczy Was to,
+że pracujecie w jednej firmie, ale czy coś jeszcze? Może macie podobne
+zainteresowania? A może zajawiasz się na technologię, w której ktoś pracuje? Tak
+czy siak, warto poznawać ludzi i wiedzieć w czym możecie sobie nawzajem pomóc.
+Buduj zdrowe, partnerskie relacje z kolegami i koleżankami, a nie tylko zyskasz
+dostęp do źródeł wiedzy i pomocy, ale też może zyskasz nowych przyjaciół. Poza
+tym wiadomo, że człowiek najłatwiej znajduje własną wartość w oczach innych.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="10-praktyczne-wskazówki-na-co-dzień">10. Praktyczne wskazówki na co dzień<a href="https://techwriter.pl/jak-pracowac-z-narzedziami-nie-bedac-programista#10-praktyczne-wskaz%C3%B3wki-na-co-dzie%C5%84" class="hash-link" aria-label="Bezpośredni link do 10. Praktyczne wskazówki na co dzień" title="Bezpośredni link do 10. Praktyczne wskazówki na co dzień" translate="no">​</a></h2>
+<p>Na koniec, mam dla Ciebie jeszcze kilka szybkich rad, które ułatwią Ci życie:</p>
+<ul>
+<li class="">Stwórz sobie bibliotekę snippetów i komend.</li>
+<li class="">Naucz się często robić backup, żeby nie stracić owoców swojej pracy.</li>
+<li class="">Naucz się rozróżniać kiedy poprosić o pomoc, a kiedy spróbować samodzielnie -
+jedno pytanie może Ci zaoszczędzić godziny prób i błędów, ale czasem godzina
+spędzona ucząc się czegoś pomoze Ci zaoszczędzić sto pytań. Ważne jest, żeby
+znaleźć równowagę między samodzielnością a efektywnością.</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="podsumowanie">Podsumowanie<a href="https://techwriter.pl/jak-pracowac-z-narzedziami-nie-bedac-programista#podsumowanie" class="hash-link" aria-label="Bezpośredni link do Podsumowanie" title="Bezpośredni link do Podsumowanie" translate="no">​</a></h2>
+<p>Nie chcę Cię dłużej zatrzymywać nad tym artykułem, bo na pewno palisz się już do
+roboty! W takim razie pozwól, że podsumuję.</p>
+<p>Po pierwsze, tech writer nie powinien być deweloperem, ale musi zachować
+elastyczność i czasem jednak bywać takim <strong>trochę</strong> deweloperem.</p>
+<p>Po drugie, narzędzia są środkiem nie celem. To jak szukasz informacji i jak
+podchodzisz do problemów, a przede wszystkim to z kim pracujesz, znaczy więcej
+niż Twoje opanowanie komend, skryptów, czy tooli.</p>
+<p>Po trzecie, nie przestawaj się uczyć. Nasz zawód to przekazywanie wiedzy, a nie
+można jej przekazywać, kiedy się jej nie posiada.</p>
+<p>Po czwarte, wartość tech writera leży w umiejętnościach komunikacyjnych, nie
+technicznych.</p>
+<p>Jeśli chcesz posłuchać podcastu na podobny temat, to może zainteresuje Cię
+<a href="https://techwriterkoduje.pl/blog/2024/8/29/69/" target="_blank" rel="noopener noreferrer" class="">Tech Writer uczy się od programistów, czyli co każdy technoskryba powinien wiedzieć o kodowaniu</a>.</p>]]></content>
+        <author>
+            <name>Paweł Kowaluk</name>
+        </author>
+        <category label="dobre-praktyki" term="dobre-praktyki"/>
+        <category label="narzędzia" term="narzędzia"/>
+        <category label="warsztat" term="warsztat"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BADANIE PŁAC W KOMUNIKACJI TECHNICZNEJ 2025 – WYPEŁNIJ ANKIETĘ!]]></title>
         <id>https://techwriter.pl/badanie-plac-w-komunikacji-technicznej-2025-wypelnij-ankiete</id>
@@ -3186,150 +3467,5 @@ społecznościowych albo napiszcie do nas na <a href="mailto:kontakt@techwriter.
         <category label="kariera" term="kariera"/>
         <category label="praca" term="praca"/>
         <category label="społeczność" term="społeczność"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notatki wizualne w warsztacie technical writera]]></title>
-        <id>https://techwriter.pl/notatki-graficzne</id>
-        <link href="https://techwriter.pl/notatki-graficzne"/>
-        <updated>2024-12-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Czy analogowe notatki mają prawo bytu w dzisiejszym cyfrowym świecie? Uważam, że]]></summary>
-        <content type="html"><![CDATA[<p>Czy analogowe notatki mają prawo bytu w dzisiejszym cyfrowym świecie? Uważam, że
-tak, a przynajmniej "u mnie to działa" 🙂 Zapraszam do zapoznania się z metodą
-tworzenia notatek wizualnych.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="szkolenie-z-tworzenia-notatek-wizualnych">Szkolenie z tworzenia notatek wizualnych<a href="https://techwriter.pl/notatki-graficzne#szkolenie-z-tworzenia-notatek-wizualnych" class="hash-link" aria-label="Bezpośredni link do Szkolenie z tworzenia notatek wizualnych" title="Bezpośredni link do Szkolenie z tworzenia notatek wizualnych" translate="no">​</a></h2>
-<p><img decoding="async" loading="lazy" alt="Arkusz papieru z rysunkami pokazującymi narysowany diagram z mapą myśli i tematów." src="https://techwriter.pl/assets/images/upload_0086-1a80648d3eea611603b263100d0fa831.png" width="740" height="517" class="img_ev3q"></p>
-<p>W marcu 2023 wziąłem udział w szkoleniu prowadzonym przez
-<a href="https://www.linkedin.com/in/gabriela-borowczyk-%E2%9C%8F-55558126/" target="_blank" rel="noopener noreferrer" class="">Gabrielę Borowczyk</a>.
-Otrzymałem solidną porcję wiedzy o technikach tworzenia różnego rodzaju napisów,
-elementów dekoracyjnych, liter i rysunków. Są to umiejętności pomocne zwłaszcza
-dla scrum masterów podsumowujących wizualnie spotkania, warsztaty i spontaniczne
-burze mózgów.</p>
-<p>Szkolenie, w którym wziąłem udział z innymi pracownikami Hitachi Energy, było
-przyjemne i intensywne. Mieliśmy okazję podkręcić naszą kreatywność bawiąc się
-przy tym wyśmienicie. Muszę przyznać, że z takim zapałem rysowałem ostatnio w
-liceum. Niestety z biegiem czasu było do tego coraz mniej okazji.</p>
-<p>Sam temat był dla mnie ważny o tyle, że moją odwieczną bolączką był charakter
-pisma zbliżony do szyfru lub recepty wypisanej przez lekarza. Było to
-pokrzepiające, że mimo mojego awangardowego stylu pisania, również i ja byłem w
-stanie się nauczyć jak pisać na plakatach dostatecznie wyraźnie.</p>
-<p>Dowiedziałem się też o
-<a href="https://flipowanie.pl/blog/rozwoj-osobisty/kto-to-jest-i-czym-sie-zajmuje-facylitator/" target="_blank" rel="noopener noreferrer" class="">graficznych facylitatorach</a>
-prowadzących warsztaty z użyciem własnoręcznie narysowanych materiałów, a także
-o ilustratorach spotkań i wydarzeń, tworzących wizualne podsumowania, które są
-świetnymi materiałami edukacyjnymi. Przykładami wydarzeń tech writingowych
-uświetnionych zapisami graficznymi są
-<a class="" href="https://techwriter.pl/namydleni-po-raz-trzeci#my-tu-gadu-gadu-a-jad%C5%BAka-rysuje">soap! 2015</a>
-i
-<a class="" href="https://techwriter.pl/relacja-z-konferenecji-write-the-docs-prague-2021">Write the Docs 2021</a>
-z których relacje możesz przeczytać na techwriter.pl.</p>
-<p>Jeśli poszukujesz szerszych definicji notatek wizualnych i powiązanych z nimi
-tematów, zajrzyj na
-<a href="https://flipowanie.pl/blog/flipowanie-i-facylitacja-graficzna/co-to-jest-sketchnoting/" target="_blank" rel="noopener noreferrer" class="">blog Gabrieli</a>,
-którego dodatkowym atutem są piękne rysunki.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="i-co-dalej-zrobić-z-tą-wiedzą">I co dalej zrobić z tą wiedzą?<a href="https://techwriter.pl/notatki-graficzne#i-co-dalej-zrobi%C4%87-z-t%C4%85-wiedz%C4%85" class="hash-link" aria-label="Bezpośredni link do I co dalej zrobić z tą wiedzą?" title="Bezpośredni link do I co dalej zrobić z tą wiedzą?" translate="no">​</a></h2>
-<p><img decoding="async" loading="lazy" alt="Arkusz papieru z rysunkami pokazującymi narysowany diagram z mapą myśli i tematów." src="https://techwriter.pl/assets/images/upload_0087-63b13b7f4de53622232057692462b186.png" width="740" height="555" class="img_ev3q">
-Warsztaty ukończyłem, dyplom otrzymałem. Przez dłuższy czas nie tykałem
-flamastra, aż pewnego pięknego dnia stwierdziłem, że wypróbuję te umiejętności w
-codziennej praktyce speca od dokumentacji i autora radosnej twórczości po
-godzinach. Poszerzyłem mój zestaw pisaków, zakupiłem
-<a href="https://sjp.pwn.pl/poradnia/haslo/Zagadkowy-biwuar;17365.html" target="_blank" rel="noopener noreferrer" class="">biuwar</a> (moje
-nowe ulubione słowo 😉) i zacząłem eksperymenty z pisanymi i rysowanymi
-notatkami. Dla mniej zorientowanych, biuwar to duży arkusz papieru z
-kalendarzem, miejscem na odręczne rysunki i listę zadań.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="jak-korzystam-z-wizualnych-notatek">Jak korzystam z wizualnych notatek<a href="https://techwriter.pl/notatki-graficzne#jak-korzystam-z-wizualnych-notatek" class="hash-link" aria-label="Bezpośredni link do Jak korzystam z wizualnych notatek" title="Bezpośredni link do Jak korzystam z wizualnych notatek" translate="no">​</a></h2>
-<p><img decoding="async" loading="lazy" alt="Arkusz papieru z rysunkami pokazującymi narysowany diagram z mapą myśli i tematów." src="https://techwriter.pl/assets/images/upload_0088-5a4a8306cf10ad65768dd8aa77c266f3.png" width="740" height="514" class="img_ev3q">
-Zarówno w pracy jak i po godzinach tworzę listy zadań, mapy tematów i sieć
-połączeń między nimi. Rysunki i zapiski pomagają mi spamiętać rzeczy, które
-aktualnie biorę na tapet. Zapisuję sobie główne tagi, którymi kategoryzuję
-notatki w narzędziu Obsidian. Postaram się napisać więcej o tej aplikacji w
-jednym z moich przyszłych artykułów.</p>
-<p>Rysunki "pączkują" i z biegiem czasu tworzy się z nich mozaika. Jeśli tematy
-znajdują się blisko siebie, oznacza to, że są w jakiś sposób ze sobą związane.
-Za pomocą kolorów i innych metod mogę podkreślać powiązane tematy. Z lubością
-wykreślam zamknięte sprawy. Kiedy na arkuszu robi się zbyt tłoczno albo
-większość kwestii jest rozwiązana, wydzieram kartkę i biorę się do zapisywania
-kolejnej. Stare notatki zachowuję, bo stanowią wizualny zapis stanu rzeczy z
-danego momentu projektu. Czasem do pewnych szczegółów warto wrócić.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="w-czym-pomagają-mi-wizualne-notatki">W czym pomagają mi wizualne notatki<a href="https://techwriter.pl/notatki-graficzne#w-czym-pomagaj%C4%85-mi-wizualne-notatki" class="hash-link" aria-label="Bezpośredni link do W czym pomagają mi wizualne notatki" title="Bezpośredni link do W czym pomagają mi wizualne notatki" translate="no">​</a></h2>
-<p>Notatki wizualne wspierają mnie w zapamiętywaniu nazw projektów, komponentów,
-dat i powiązań. Arkusz z zapiskami jest jak notatka na lodówce. Wystarczy na nią
-spojrzeć, żeby odświeżyć sobie kluczowe informacje. Im bardziej złożona
-struktura tego nad czym pracujesz, tym bardziej wizualizacja pomaga Ci ułożyć to
-sobie w głowie. Jest to szczególnie pomocne podczas etapu analizy. Dodatkowym
-plusem jest to, że kiedy masz niezapowiedzianą rozmowę na Teams na temat danego
-projektu, masz przed oczami kluczowe fakty. No i oczywiście masz miejsce na
-arkuszu na zrobienie szybkich notatek w trakcie rozmowy. Czasem za status mojego
-projektu wystarcza zdjęcie rysunku podsumowującego moje działania. Potrzebujesz
-zaprojektować diagram? Do dzieła, papier wszystko przyjmie!</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="dlaczego-uważam-że-warto-notować-i-rysować">Dlaczego uważam, że warto notować i rysować<a href="https://techwriter.pl/notatki-graficzne#dlaczego-uwa%C5%BCam-%C5%BCe-warto-notowa%C4%87-i-rysowa%C4%87" class="hash-link" aria-label="Bezpośredni link do Dlaczego uważam, że warto notować i rysować" title="Bezpośredni link do Dlaczego uważam, że warto notować i rysować" translate="no">​</a></h2>
-<p><img decoding="async" loading="lazy" alt="Arkusz papieru z rysunkami pokazującymi narysowany diagram z mapą myśli i tematów." src="https://techwriter.pl/assets/images/upload_0089-5c3023cc09ded8ec128a084953a2911c.png" width="740" height="524" class="img_ev3q">
-Notatki wizualne to doskonałe urozmaicenie pracy biurowej, która polega głównie
-na patrzeniu w monitor i klepaniu na klawiaturze. Uważam, że rysowanie jest
-relaksującą i rozwijającą czynnością, która angażuje dodatkowe obszary mózgu,
-wspierając kreatywność, wyobraźnię i myślenie. Najlepsze rzeczy w życiu są
-najprostsze. Jest w tym czysta radość tworzenia. Nie bez powodu dzieci w wieku
-przedszkolnym i szkolnym spędzają masę czasu na rysowaniu. Jeśli i Ty spędzisz
-na tym chociaż 15 minut w ciągu dnia, nie pożałujesz. Odręczne notatki to bardzo
-elastyczna metoda - możliwości ekspresji są ogromne. Kółko, kreska,
-przekreślenie czy falista linia potrafią w kilka sekund uchwycić wiele ulotnych
-koncepcji na papierze.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="co-na-to-nauka">Co na to nauka?<a href="https://techwriter.pl/notatki-graficzne#co-na-to-nauka" class="hash-link" aria-label="Bezpośredni link do Co na to nauka?" title="Bezpośredni link do Co na to nauka?" translate="no">​</a></h2>
-<p>Nie powinno być zaskoczeniem, że istnieją badania naukowe wskazujące na
-dobroczynny wpływ rysowania na rozwój dzieci. Dowiedziono również, że robienie
-rysowanych notatek czy nawet gryzmolenie na brzegu zeszytu ma pozytywny wpływ na
-koncentrację, przetwarzanie i zapamiętywanie informacji. Jedną z przyczyn może
-być aktywizacja i współpraca kilku obszarów mózgu jednocześnie. Tłumaczenie
-myśli i koncepcji na obrazy wspiera tworzenie nowych połączeń neuronowych, co
-pomaga lepiej rozumieć i zapamiętywać. Rysowanie odgrywa rolę we wspieraniu osób
-w spektrum autyzmu oraz osób z demencją. Zastosowań dla rysowania i korzyści z
-niego płynących jest naprawdę mnóstwo. Jest to temat rzeka, dlatego udostępniam
-linki do dodatkowych źródeł dla osób zainteresowanych:</p>
-<ul>
-<li class=""><a href="https://www.researchgate.net/publication/282658904_The_Drawing_Effect_Evidence_for_Reliable_and_Robust_Memory_Benefits_in_Free_Recall" target="_blank" rel="noopener noreferrer" class="">The drawing effect: evidence for reliable and robust memory benefits in free recall</a></li>
-<li class=""><a href="https://www.edutopia.org/article/science-drawing-and-memory" target="_blank" rel="noopener noreferrer" class="">The science of drawing and memory</a></li>
-<li class=""><a href="https://drawdrawing.com/unlocking-cognitive-benefits-does-drawing-make-you-smarter/" target="_blank" rel="noopener noreferrer" class="">Unlocking cognitive benefits - does drawing makes you smarter?</a></li>
-<li class=""><a href="https://www.edutopia.org/article/power-visualization-math" target="_blank" rel="noopener noreferrer" class="">The power of visualization in maths</a></li>
-<li class=""><a href="https://www.neurologia.com.pl/artykul.php?a=1251" target="_blank" rel="noopener noreferrer" class="">Art therapy for children with autism spectrum disorder</a></li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="a-co-z-cyfrowymi-notatkami">A co z cyfrowymi notatkami?<a href="https://techwriter.pl/notatki-graficzne#a-co-z-cyfrowymi-notatkami" class="hash-link" aria-label="Bezpośredni link do A co z cyfrowymi notatkami?" title="Bezpośredni link do A co z cyfrowymi notatkami?" translate="no">​</a></h2>
-<p><img decoding="async" loading="lazy" alt="Arkusz papieru z rysunkami pokazującymi narysowany diagram z mapą myśli i tematów." src="https://techwriter.pl/assets/images/upload_0090-a427b19294c4db39582977b80e736ce3.png" width="740" height="555" class="img_ev3q">
-Nie odżegnuję się od cyfrowych notatek - również z nich korzystam. Można
-powiedzieć, że różne rodzaje notatek wspólnie tworzą coś na kształt ekosystemu.
-Notatki cyfrowe (Obsidian) potrafią się dobrze uzupełniać z odręcznymi
-zapiskami. Zależnie od sytuacji, raz wybieram rozwiązanie analogowe, a raz
-cyfrowe. Czasem potrzebuję przepisać odręczne notatki do Obsidian, żeby zasilić
-moją wirtualną skarbnicę wiedzy. Gdy jestem bardzo leniwy, robię zdjęcie notatce
-i umieszczam ją w systemie. Też tak można.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="komu-mogę-to-polecić">Komu mogę to polecić<a href="https://techwriter.pl/notatki-graficzne#komu-mog%C4%99-to-poleci%C4%87" class="hash-link" aria-label="Bezpośredni link do Komu mogę to polecić" title="Bezpośredni link do Komu mogę to polecić" translate="no">​</a></h2>
-<p>Myślę, że notowanie wizualne jest dobre dla osób, które lubiły rysować i szukają
-urozmaicenia w robieniu notatek. Jeśli jesteś wzrokowcem, a aspekt wizualny ma
-dla Ciebie znaczenie podczas nauki i organizacji informacji, zdecydowanie możesz
-na takich notatkach skorzystać.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="wskazówki">Wskazówki<a href="https://techwriter.pl/notatki-graficzne#wskaz%C3%B3wki" class="hash-link" aria-label="Bezpośredni link do Wskazówki" title="Bezpośredni link do Wskazówki" translate="no">​</a></h2>
-<p><img decoding="async" loading="lazy" alt="Rysunek żółwia i dinozaura wykonany flamastrem i zakreślaczem." src="https://techwriter.pl/assets/images/upload_0091-fadba040748263d98facc60adb1c5239.png" width="740" height="521" class="img_ev3q"></p>
-<ul>
-<li class="">Możesz czuć opór wewnętrzny, może pomyślisz, że to dziecinada. Pamiętaj, że
-nikt nie ocenia piękna Twoich wytworów, a flamaster nie gryzie 🙂</li>
-<li class="">Przejdź porządne szkolenie. Energia płynąca z pracy w grupie doda Ci skrzydeł.</li>
-<li class="">Nie przejmuj się perfekcjonizmem. Linia wyszła krzywo, rysunek nie zmieścił
-się przy brzegu kartki? Przekreśl i zaadaptuj to, bo, cytując Gabrielę
-Borowczyk: "Tak miało być i koniec".</li>
-<li class="">Chętnie się wraca do estetycznych i dobrze zaprojektowanych notatek. Nie
-musisz być artystą i spędzać nad rysunkiem całego dnia. Minimalna chlujność
-jest konieczna, żeby oczy nie bolały przy oglądaniu.</li>
-<li class="">Rysunki mogą być minimalistyczne.</li>
-<li class="">Daj sobie czas na nabranie doświadczenia. Po jakimś czasie znajdziesz triki,
-by szybko wyrazić to, na czym Ci zależy.</li>
-<li class="">Internet jest pełen przepisów na tworzenie uproszczonych grafik czy symboli.
-Wpisz w wyszukiwarkę obrazów: "Jak narysować X".</li>
-<li class="">Przede wszystkim rysuj i baw się dobrze.</li>
-</ul>
-<p><img decoding="async" loading="lazy" src="https://techwriter.pl/assets/images/podziekowanie-1c4f20d7b42d4ea9ae9e9ebf2220c11e.png" width="740" height="551" class="img_ev3q"></p>]]></content>
-        <author>
-            <name>Andrzej Niewiarowski</name>
-        </author>
-        <category label="dobre-praktyki" term="dobre-praktyki"/>
-        <category label="warsztat" term="warsztat"/>
-        <category label="grafika" term="grafika"/>
     </entry>
 </feed>
