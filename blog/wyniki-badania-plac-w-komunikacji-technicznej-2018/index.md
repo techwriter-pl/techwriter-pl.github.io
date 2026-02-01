@@ -7,7 +7,6 @@ tags:
   - 'praca'
   - 'ankieta'
   - 'kariera'
-  - 'praca'
   - 'społeczność'
 coverImage: 'Ankieta-2018-SPLASH.png'
 ---

@@ -6,7 +6,6 @@ tags:
   - 'badanie-płac'
   - 'praca'
   - 'kariera'
-  - 'praca'
   - 'społeczność'
 coverImage: 'Slajd2.jpg'
 ---

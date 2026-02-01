@@ -1,6 +1,7 @@
 import { SurveyBarChartProps } from '@site/src/components/Survey/SurveyBarChart';
 import { SurveyPieChartProps } from '@site/src/components/Survey/SurveyPieChart';
 import { SurveyTableProps } from '@site/src/components/Survey/SurveyTable';
+import { StatsForSingleYear } from '@site/src/components/Survey/YearlyComparison/data';
 import {
   getBarChartDataForQuestion,
   getEarningsForQuestion,
@@ -11,6 +12,31 @@ import rawData from './rawData.json';
 
 // At the time of creating this data set, there is not proper support for Typescript in .mdx
 // so using a .ts file helps us catch type errors
+
+export const numberOfResponses = rawData.length;
+
+export const summary2025: StatsForSingleYear = {
+  'Liczba odpowiedzi': rawData.length,
+  'Mediana wynagrodzeń brutto': rawData
+    .map((i) => i['Ile wynosi Twoje miesięczne wynagrodzenie brutto?'] ?? 0)
+    .sort((a, b) => a - b)[Math.floor(rawData.length / 2)],
+  'Średnie wynagrodzenie brutto':
+    rawData.reduce(
+      (sum, item) =>
+        sum + (item['Ile wynosi Twoje miesięczne wynagrodzenie brutto?'] ?? 0),
+      0
+    ) / rawData.length,
+  'Najniższe wynagrodzenie brutto': Math.min(
+    ...rawData.map(
+      (i) => i['Ile wynosi Twoje miesięczne wynagrodzenie brutto?'] ?? Infinity
+    )
+  ),
+  'Najwyższe wynagrodzenie brutto': Math.max(
+    ...rawData.map(
+      (i) => i['Ile wynosi Twoje miesięczne wynagrodzenie brutto?'] ?? 0
+    )
+  ),
+};
 
 export const professionalTitlesNumbersTableProps: SurveyTableProps = {
   dataset: getNumberOfPeopleAndEarnings(
@@ -134,6 +160,32 @@ export const genderEarnings: SurveyTableProps = {
   title: 'Płeć',
 };
 
+function getMedianFromGenderEarnings(gender: string): number {
+  return (
+    parseInt(
+      genderEarnings.dataset
+        .find((d) => d['Płeć'] === gender)
+        ?.Mediana.toString()
+        .replace(' zł', '')
+        .replace(/\s/g, '')
+    ) ?? 0
+  );
+}
+
+export const payGap: string = (() => {
+  const menMedian = getMedianFromGenderEarnings('Mężczyzna');
+  const womenMedian = getMedianFromGenderEarnings('Kobieta');
+
+  if (menMedian === 0 || womenMedian === 0) {
+    return 'BRAK DANYCH';
+  }
+
+  // Pay gap = [(Mediana mężczyzn - Mediana kobiet) / Mediana mężczyzn] × 100%
+  const payGapValue = ((menMedian - womenMedian) / menMedian) * 100;
+
+  return `${payGapValue.toFixed(2)}%`;
+})();
+
 export const satisfactionBarChartProps: SurveyBarChartProps = {
   dataset: getBarChartDataForQuestion(
     'Jak oceniasz zadowolenie ze swojej pracy w skali od 1 do 5?',
@@ -147,16 +199,17 @@ export const satisfactionBarChartProps: SurveyBarChartProps = {
 
 export const unemploymentTableProps: SurveyTableProps = {
   dataset: getBarChartDataForQuestion(
-    'W roku 2024, przez ile miesięcy dotknęło Cię bezrobocie?',
+    'W roku 2025, przez ile miesięcy dotknęło Cię bezrobocie?',
     rawData
   ),
-  title: 'W roku 2024, przez ile miesięcy dotknęło Cię bezrobocie?',
+  title: 'W roku 2025, przez ile miesięcy dotknęło Cię bezrobocie?',
 };
 
 export const earningsTrendProps: SurveyPieChartProps = {
   dataset: getPieChartDataset(
-    'Czy w roku 2024 Twoje całkowite wynagrodzenie brutto się zmieniło?',
+    'Czy w roku 2025 Twoje całkowite wynagrodzenie brutto wzrosło, zmalało, cze pozostało na tym samym poziomie?',
     rawData
   ),
-  title: 'Czy w roku 2024 Twoje całkowite wynagrodzenie brutto się zmieniło?',
+  title:
+    'Czy w roku 2025 Twoje całkowite wynagrodzenie brutto wzrosło, zmalało, cze pozostało na tym samym poziomie?',
 };

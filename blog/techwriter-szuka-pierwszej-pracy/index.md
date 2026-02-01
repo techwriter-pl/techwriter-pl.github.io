@@ -6,7 +6,6 @@ tags:
   - 'praca'
   - 'edukacja'
   - 'kariera'
-  - 'praca'
   - 'studia'
   - 'szkolenia'
 coverImage: 'Untitled-design.png'
