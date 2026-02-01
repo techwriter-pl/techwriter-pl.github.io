@@ -30,7 +30,7 @@ export type Question =
   | 'W roku 2024, przez ile miesięcy dotknęło Cię bezrobocie?'
   | 'W roku 2025, przez ile miesięcy dotknęło Cię bezrobocie?'
   | 'Czy w roku 2024 Twoje całkowite wynagrodzenie brutto się zmieniło?'
-  | 'Czy w roku 2025 Twoje całkowite wynagrodzenie brutto wzrosło, zmalało, cze pozostało na tym samym poziomie?';
+  | 'Czy w roku 2025 Twoje całkowite wynagrodzenie brutto wzrosło, zmalało, czy pozostało na tym samym poziomie?';
 
 export type NumberOfPeopleAndEarnings = {
   [responseLabel: string]: string;

@@ -207,9 +207,9 @@ export const unemploymentTableProps: SurveyTableProps = {
 
 export const earningsTrendProps: SurveyPieChartProps = {
   dataset: getPieChartDataset(
-    'Czy w roku 2025 Twoje całkowite wynagrodzenie brutto wzrosło, zmalało, cze pozostało na tym samym poziomie?',
+    'Czy w roku 2025 Twoje całkowite wynagrodzenie brutto wzrosło, zmalało, czy pozostało na tym samym poziomie?',
     rawData
   ),
   title:
-    'Czy w roku 2025 Twoje całkowite wynagrodzenie brutto wzrosło, zmalało, cze pozostało na tym samym poziomie?',
+    'Czy w roku 2025 Twoje całkowite wynagrodzenie brutto wzrosło, zmalało, czy pozostało na tym samym poziomie?',
 };
