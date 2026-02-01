@@ -8,7 +8,6 @@ tags:
   - 'dokumentacja'
   - 'kariera'
   - 'podcast'
-  - 'praca'
 coverImage: 'tech_writer_koduje_43_i_44.png'
 ---
 

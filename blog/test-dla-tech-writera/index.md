@@ -7,7 +7,6 @@ tags:
   - 'praca'
   - 'przykłady'
   - 'kariera'
-  - 'praca'
   - 'rekrutacja'
 coverImage: 'test-300x199-1.jpg'
 ---
