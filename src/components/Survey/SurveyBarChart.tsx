@@ -25,7 +25,7 @@ export default function SurveyBarChart({
         series={[{ dataKey: 'count', valueFormatter }]}
         yAxis={[
           {
-            label: 'liczba osób',
+            label: 'Liczba osób',
           },
         ]}
         height={500}
