@@ -68,7 +68,7 @@ komendy `echo`. Jak w każdym szanującym się poradniku, zacznij od przywitania
 się ze światem:
 
 ```bash
-docdeveloper@machine:~$ echo "Hello World!"
+~$ echo "Hello World!"
 Hello World!
 ```
 
