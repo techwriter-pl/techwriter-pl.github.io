@@ -357,7 +357,7 @@ ls
 
 Ta dziwna pierwsza linijka to wiadomość dla systemu operacyjnego, żeby odpalił
 nasz skrypt w powłoce Bash. Na przykład w macOS od jakiegoś czasu domyślną linią
-komend jest Zsh. Brak tej linijki, spowoduje, że skrypt zostanie odpalony z
+komend jest Zsh. Brak tej linijki spowoduje, że skrypt zostanie odpalony z
 automatu w Zsh.
 
 Powodzenia i miłej zabawy!
