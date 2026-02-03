@@ -315,7 +315,7 @@ Lubisz zawsze iść pod wiatr? Nie uznajesz kompromisów? W takim razie mam coś
 Ciebie - edytor VI lub VIM dostępny w terminalu.
 
 Tyle samo osób go kocha co nienawidzi z powodu bardzo specyficznego sposobu
-obsługi. Wszystko robisz na klawiaturze całkowicie inaczej niż w nowoczesnych
+obsługi. Wszystko robisz na klawiaturze, całkowicie inaczej niż w nowoczesnych
 edytorach i nie używasz w ogóle myszki. Kiedyś podjąłem wyzwanie nauczenia się
 podstawowej obsługi tego edytora. Na początku był pot, krew i łzy, ale po jakimś
 czasie stwierdziłem, że to wszystko ma sens i zrozumiałem dlaczego można
