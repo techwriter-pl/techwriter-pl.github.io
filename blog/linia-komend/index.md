@@ -164,8 +164,10 @@ To jest przykładowa zawartość pliku.
 Bash jest bardzo przydatny!
 ```
 
-> Pro tip: Jeśli dorzucisz do komendy opcję `-n`, to zobaczysz zawartość pliku z
-> ponumerowanymi linijkami
+:::tip Pro tip
+Jeśli dorzucisz do komendy opcję `-n`, to zobaczysz zawartość
+pliku z ponumerowanymi linijkami
+:::
 
 ### Stwórz coś
 
@@ -251,8 +253,8 @@ każdym wpisanym poleceniu jest ok, ale można sobie oszczędzić trochę nacis
 klawiszy za pomocą operatów `&&`, `||` i `|`. Pozwalają one na budowanie
 potężnych jednolinijkowców.
 
-Najczęściej używanym jest `&&` (oznacza spójnik "i"), który wykonuje kolejną komendę tylko
-wtedy, gdy pierwsza się uda.
+Najczęściej używanym jest `&&` (oznacza spójnik "i"), który wykonuje kolejną
+komendę tylko wtedy, gdy pierwsza się uda.
 
 ```bash
 ~$ mkdir nowy_folder && cd nowy_folder && echo "Bardzo mi się podoba ten artykuł" > opinia.txt && cat opinia.txt
@@ -303,7 +305,9 @@ przydatną funkcję. Żeby ponownie odpalić jakąś komendę z historii, wpisz
 ls -la
 ```
 
-> Pro tip: Żeby odpalić ostatnią użytą komendę, wpisz `!!`.
+:::tip Pro tip
+Żeby odpalić ostatnią użytą komendę, wpisz `!!`.
+:::
 
 ### Zostań hardkorem
 
@@ -321,8 +325,11 @@ tekstowych lub skryptach za pomocą tego edytora.
 Jeśli chcesz spróbować to odpal poniższą komendę, która utworzy nowy plik i
 otworzyć go w VI.
 
-> OSTRZEGAM! Wyjście z programu może okazać się pierwszym poważnym wyzwaniem na
-> jakie natrafisz. W świecie programistów krążą nawet o tym żarty ;)
+:::warning Ostrzegam!
+Wyjście z programu może okazać się pierwszym poważnym
+wyzwaniem na jakie natrafisz. W świecie programistów krążą nawet o tym żarty
+;)
+:::
 
 ```bash
 ~$ vi plik_konfiguracyjny.txt
