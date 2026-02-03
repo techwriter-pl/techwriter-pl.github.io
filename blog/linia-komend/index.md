@@ -68,7 +68,7 @@ komendy `echo`. Jak w każdym szanującym się poradniku, zacznij od przywitania
 się ze światem:
 
 ```bash
-docdeveloper@machine:~$ echo "Hello World!"
+~$ echo "Hello World!"
 Hello World!
 ```
 
@@ -79,9 +79,9 @@ Bashu jeśli chcesz powtórzyć ostatnio użytą komendę, naciskasz
 `strzałkę do góry`. Prosta rzecz, a oszczędza sporo czasu.
 
 ```bash
-docdeveloper@machine:~$ echo "Hello World!"
+~$ echo "Hello World!"
 Hello World!
-docdeveloper@machine:~$ echo "Hello World!"
+~$ echo "Hello World!"
 Hello World!
 ```
 
@@ -106,7 +106,7 @@ brakującą część.
 Żeby sprawdzić, w którym obecnie folderze jesteś, użyj polecenia `pwd`.
 
 ```bash
-docdeveloper@machine:~/Documents$ pwd
+~/Documents$ pwd
 /Users/docdeveloper/Documents
 ```
 
@@ -121,10 +121,10 @@ przykład, jeśli jesteś w folderze `/Users/docdeveloper/Documents/Notes` a chc
 przeskoczyć do `/Users`, wpisz `cd ../..`.
 
 ```bash
-docdeveloper@machine:~/Documents/Notes$ pwd
+~/Documents/Notes$ pwd
 /Users/docdeveloper/Documents/Notes
-docdeveloper@machine:~/Documents/Notes$ cd ../..
-docdeveloper@machine:~$ pwd
+~/Documents/Notes$ cd ../..
+~$ pwd
 /Users/docdeveloper
 ```
 
@@ -141,7 +141,7 @@ obecnie jesteś, po prostu dodaj ścieżkę do polecenia. Np.
 `ls -la /Users/docdeveloper/tmp`.
 
 ```bash
-docdeveloper@machine:~/tmp$ ls -la
+~/tmp$ ls -la
 total 16
 drwxr-xr-x   4 docdeveloper  staff   128 Feb  2 12:00 .
 drwxr-xr-x   6 docdeveloper  staff   192 Feb  2 11:00 ..
@@ -159,7 +159,7 @@ taki podgląd działa tylko dla plików typu tekstowego, np. `txt` albo `md`.
 Niestety zdjęć nie będziesz w stanie przeglądać.
 
 ```bash
-docdeveloper@machine:~$ cat notatki.txt
+~$ cat notatki.txt
 To jest przykładowa zawartość pliku.
 Bash jest bardzo przydatny!
 ```
@@ -180,8 +180,8 @@ folder `kurs_basha` i `notatki` nie istnieją, więc odpalasz komendę
 opcji `-p` spowoduje błąd, że folder `kurs_basha` nie istnieje.
 
 ```bash
-docdeveloper@machine:~$ mkdir -p /Users/docdeveloper/tmp/kurs_basha/notatki
-docdeveloper@machine:~$
+~$ mkdir -p /Users/docdeveloper/tmp/kurs_basha/notatki
+~$
 ```
 
 Jeśli chodzi o pliki, to można by rzec, że tworzy się je jak za dotknięciem
@@ -189,7 +189,7 @@ magicznej różdżki ;) Wystarczy odpalić `touch sciezka_do_pliku`, żeby doda�
 pusty plik.
 
 ```bash
-docdeveloper@machine:~/kurs_basha$ touch nowy_plik.md
+~/kurs_basha$ touch nowy_plik.md
 ```
 
 Nowy plik możesz też stworzyć za pomocą komendy `echo`. Ta metoda pozwala Ci
@@ -198,7 +198,7 @@ tworzysz komendą `echo > sciezka_do_pliku`, a plik z zawartością
 `echo "tekst" > sciezka_do_pliku`.
 
 ```bash
-docdeveloper@machine:~$ echo "Lista zadań" > todo.txt
+~$ echo "Lista zadań" > todo.txt
 ```
 
 ### Ogarnij się
@@ -219,7 +219,7 @@ Drobna uwaga - standardowo `*` nie obejmuje plików ukrytych (zaczynających si�
 od kropki, np. `.env` lub `.gitignore`).
 
 ```bash
-docdeveloper@machine:~$ cp -r projekt_v1/* projekt_finalny/
+~$ cp -r projekt_v1/* projekt_finalny/
 ```
 
 Przenoszenie w inne miejsce to właściwie podobna historia -
@@ -231,7 +231,7 @@ tej samej lokalizacji. Na przykład, żeby zmienić nazwę pliku w obecnej
 lokalizacji, użyj komendy `mv obecna_nazwa_pliku nowa_nazwa_pliku`
 
 ```bash
-docdeveloper@machine:~$ mv notatka_stara.txt notatka_nowa.txt
+~$ mv notatka_stara.txt notatka_nowa.txt
 ```
 
 Usunięcie pliku to też krótka piłka - `rm sciezka_do_pliku`.
@@ -241,7 +241,7 @@ Usunięcie folderu wymaga dodania opcji rekursywności -
 chcesz usunąć ten plik lub folder, możesz "użyć siły", czyli opcji `-f`.
 
 ```bash
-docdeveloper@machine:~$ rm -r folder_do_usuniecia
+~$ rm -r folder_do_usuniecia
 ```
 
 ### Skomponuj coś
@@ -255,7 +255,7 @@ Najczęściej używanym jest `&&` (`AND`), który wykonuje kolejną komendę tyl
 wtedy, gdy pierwsza się uda.
 
 ```bash
-docdeveloper@machine:~$ mkdir nowy_folder && cd nowy_folder && echo "Bardzo mi się podoba ten artykuł" > opinia.txt && cat opinia.txt
+~$ mkdir nowy_folder && cd nowy_folder && echo "Bardzo mi się podoba ten artykuł" > opinia.txt && cat opinia.txt
 ```
 
 Powyższy tasiemiec najpierw stworzy nowy folder, potem do niego wejdzie i
@@ -265,14 +265,14 @@ Operator `||` wykonuje kolejną komendę tylko wtedy jeśli poprzednia się nie 
 (`OR`).
 
 ```bash
-docdeveloper@machine:~$ mkdir nowy_folder || mkdir nowy_folder_1
+~$ mkdir nowy_folder || mkdir nowy_folder_1
 ```
 
 Operator `|` (Pipe) przekazuje informację wyjściową z polecenia po lewej stronie
 jako informacje wejściową dla polecenia po prawej stronie.
 
 ```bash
-docdeveloper@machine:~$ ls | cat -n
+~$ ls | cat -n
      1	dokumenty
      2	zdjecia
      3	notatki.txt
@@ -287,7 +287,7 @@ Jeśli potrzebujesz przywołać zapis swoich poczynań, użyj do tego komendy
 `history`.
 
 ```bash
-docdeveloper@machine:~$ history
+~$ history
   501  cd projekty
   502  mkdir nowa_strona
   503  ls -la
@@ -299,7 +299,7 @@ przydatną funkcję. Żeby ponownie odpalić jakąś komendę z historii, wpisz
 `!numer`.
 
 ```bash
-docdeveloper@machine:~$ !503
+~$ !503
 ls -la
 ```
 
@@ -325,7 +325,7 @@ otworzyć go w VI.
 > jakie natrafisz. W świecie programistów krążą nawet o tym żarty ;)
 
 ```bash
-docdeveloper@machine:~$ vi plik_konfiguracyjny.txt
+~$ vi plik_konfiguracyjny.txt
 ```
 
 ## Co dalej?
