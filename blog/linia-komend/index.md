@@ -316,7 +316,7 @@ Ciebie - edytor VI lub VIM dostępny w terminalu.
 
 Tyle samo osób go kocha co nienawidzi z powodu bardzo specyficznego sposobu
 obsługi. Wszystko robisz na klawiaturze, całkowicie inaczej niż w nowoczesnych
-edytorach i nie używasz w ogóle myszki. Kiedyś podjąłem wyzwanie nauczenia się
+edytorach, i nie używasz w ogóle myszki. Kiedyś podjąłem wyzwanie nauczenia się
 podstawowej obsługi tego edytora. Na początku był pot, krew i łzy, ale po jakimś
 czasie stwierdziłem, że to wszystko ma sens i zrozumiałem dlaczego można
 polubić VI. Do tej pory zdarza mi się robić jakieś proste zmiany w plikach
