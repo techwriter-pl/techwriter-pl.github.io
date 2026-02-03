@@ -263,7 +263,7 @@ komendę tylko wtedy, gdy pierwsza się uda.
 Powyższy tasiemiec najpierw stworzy nowy folder, potem do niego wejdzie i
 stworzy plik z zawartością, a na końcu wyświetli tę zawartość.
 
-Operator `||` wykonuje kolejną komendę tylko wtedy jeśli poprzednia się nie uda
+Operator `||` wykonuje kolejną komendę tylko wtedy, jeśli poprzednia się nie uda
 (oznacza spójnik "lub").
 
 ```bash
