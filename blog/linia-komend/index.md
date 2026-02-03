@@ -39,7 +39,7 @@ komend.
 Bash powstał pod koniec lat 80. i doczekał się już swoich następców, np.
 [Zsh](https://pl.wikipedia.org/wiki/Zsh). Pomimo tego, jest on wciąż
 wszechobecny w świecie software developmentu i dlatego warto się z nim
-zaprzyjaźnić. Jako tech writer, da Ci to kolejną super moc podczas pracy z
+zaprzyjaźnić. Jako tech writerowi, da Ci to kolejną super moc podczas pracy z
 programistami. Wyobraź sobie zaskoczenie deva z Twojego zespołu kiedy powiesz:
 
 > Nie ma problemu, odpalę Basha i sprawdzę na serwerze, które pliki są dostępne
@@ -251,7 +251,7 @@ każdym wpisanym poleceniu jest ok, ale można sobie oszczędzić trochę nacis
 klawiszy za pomocą operatów `&&`, `||` i `|`. Pozwalają one na budowanie
 potężnych jednolinijkowców.
 
-Najczęściej używanym jest `&&` (`AND`), który wykonuje kolejną komendę tylko
+Najczęściej używanym jest `&&` (oznacza spójnik "i"), który wykonuje kolejną komendę tylko
 wtedy, gdy pierwsza się uda.
 
 ```bash
@@ -262,7 +262,7 @@ Powyższy tasiemiec najpierw stworzy nowy folder, potem do niego wejdzie i
 stworzy plik z zawartością a na końcu wyświetli tę zawartość.
 
 Operator `||` wykonuje kolejną komendę tylko wtedy jeśli poprzednia się nie uda
-(`OR`).
+(oznacza spójnik "lub").
 
 ```bash
 ~$ mkdir nowy_folder || mkdir nowy_folder_1
