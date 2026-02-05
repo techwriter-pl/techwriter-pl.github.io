@@ -27,7 +27,7 @@ takim razie, po co sobie zaprzątać głowę tym czarnym okienkiem?
 Podczas gdy świat technologii pędzi do przodu dostarczając nam każdego dnia tonę
 nowych rozwiązań i apek, które mają nam ułatwiać życie, ja wciąż uparcie
 twierdzę, że warto znać podstawy. Podobnie jak w życiu codziennym - mamy
-kalkulator i Wikipedię, ale jednak dobrze jest umieć podstawy matematyki i mieć
+kalkulator i Wikipedię, ale jednak dobrze jest posiadać podstawy matematyki i mieć
 ogólną wiedzę o świecie.
 
 Pomimo tego, że większość rzeczy możemy już zrobić w interfejsach graficznych,
