@@ -314,7 +314,7 @@ ls -la
 Lubisz zawsze iść pod wiatr? Nie uznajesz kompromisów? W takim razie mam coś dla
 Ciebie - edytor [VI lub VIM](https://pl.wikipedia.org/wiki/Vim) dostępny w terminalu.
 
-Tyle samo osób go kocha co nienawidzi z powodu bardzo specyficznego sposobu
+Ma tyle samo zwolenników co przeciwników, głównie ze względu na bardzo specyficzny sposób
 obsługi. Wszystko robisz na klawiaturze, całkowicie inaczej niż w nowoczesnych
 edytorach, i nie używasz w ogóle myszki. Kiedyś podjąłem wyzwanie nauczenia się
 podstawowej obsługi tego edytora. Na początku był pot, krew i łzy, ale po jakimś
