@@ -224,7 +224,7 @@ od kropki, np. `.env` lub `.gitignore`).
 ~$ cp -r projekt_v1/* projekt_finalny/
 ```
 
-Przenoszenie w inne miejsce to właściwie podobna historia -
+Przenoszenie w inne miejsce to podobna historia -
 `mv sciezka_zrodlowa sciezka_docelowa`.
 
 Przydatną funkcją jaką nam daje komenda `mv` jest zmiana nazwy. Na przykład,
@@ -250,7 +250,7 @@ chcesz usunąć ten plik lub folder, możesz "użyć siły", czyli opcji `-f`.
 
 Każde polecenie w Bashu to jak odpalenie małego narzędzia. Naciskanie `Enter` po
 każdym wpisanym poleceniu jest ok, ale można sobie oszczędzić trochę naciskania
-klawiszy za pomocą operatów `&&`, `||` i `|`. Pozwalają one na budowanie
+klawiszy za pomocą operatorów `&&`, `||` i `|`. Pozwalają one na budowanie
 potężnych jednolinijkowców.
 
 Najczęściej używanym jest `&&` (oznacza spójnik "i"), który wykonuje kolejną
@@ -312,7 +312,7 @@ ls -la
 ### Zostań hardkorem
 
 Lubisz zawsze iść pod wiatr? Nie uznajesz kompromisów? W takim razie mam coś dla
-Ciebie - edytor VI lub VIM dostępny w terminalu.
+Ciebie - edytor [VI lub VIM](https://pl.wikipedia.org/wiki/Vim) dostępny w terminalu.
 
 Tyle samo osób go kocha co nienawidzi z powodu bardzo specyficznego sposobu
 obsługi. Wszystko robisz na klawiaturze, całkowicie inaczej niż w nowoczesnych
