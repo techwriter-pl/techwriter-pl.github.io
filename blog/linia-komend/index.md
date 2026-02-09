@@ -42,8 +42,7 @@ wszechobecny w świecie software developmentu i dlatego warto się z nim
 zaprzyjaźnić. Jako tech writerowi, da Ci to kolejną super moc podczas pracy z
 programistami. Wyobraź sobie zaskoczenie deva z Twojego zespołu kiedy powiesz:
 
-> Nie ma problemu, odpalę Basha i sprawdzę na serwerze, które pliki są dostępne
-> dla użytkownika i co w nich jest.
+> Nie ma problemu, zrobię sobie prosty skrypt w Bashu, który skopiuje mi potrzebne pliki, zmieni im nazwę i zachowa listę z nowymi nazwami do pliku tekstowego.
 
 ## Jak uruchomić
 
