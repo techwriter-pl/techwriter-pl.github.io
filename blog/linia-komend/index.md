@@ -166,7 +166,7 @@ Bash jest bardzo przydatny!
 
 :::tip Pro tip
 Jeśli dorzucisz do komendy opcję `-n`, to zobaczysz zawartość
-pliku z ponumerowanymi linijkami
+pliku z ponumerowanymi linijkami.
 :::
 
 ### Stwórz coś
