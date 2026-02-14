@@ -22,13 +22,11 @@ będziemy mogli np. skopiować lub usunąć pliki. Czyli właściwie to co robi
 interfejsie graficznym naszego systemu operacyjnego, tyle, że trudniej :) W
 takim razie, po co sobie zaprzątać głowę tym czarnym okienkiem?
 
-## Po co mi ta wiedza?
-
 Podczas gdy świat technologii pędzi do przodu dostarczając nam każdego dnia tonę
 nowych rozwiązań i apek, które mają nam ułatwiać życie, ja wciąż uparcie
 twierdzę, że warto znać podstawy. Podobnie jak w życiu codziennym - mamy
-kalkulator i Wikipedię, ale jednak dobrze jest posiadać podstawy matematyki i mieć
-ogólną wiedzę o świecie.
+kalkulator i Wikipedię, ale jednak dobrze jest posiadać podstawy matematyki i
+mieć ogólną wiedzę o świecie.
 
 Pomimo tego, że większość rzeczy możemy już zrobić w interfejsach graficznych,
 linia komend wciąż nie odeszła do lamusa. Są sytuacje, w których przychodzi nam
@@ -42,9 +40,14 @@ wszechobecny w świecie software developmentu i dlatego warto się z nim
 zaprzyjaźnić. Jako tech writerowi, da Ci to kolejną super moc podczas pracy z
 programistami. Wyobraź sobie zaskoczenie deva z Twojego zespołu kiedy powiesz:
 
-> Nie ma problemu, zrobię sobie prosty skrypt w Bashu, który skopiuje mi potrzebne pliki, zmieni im nazwę i zachowa listę z nowymi nazwami do pliku tekstowego.
+> Nie ma problemu, zrobię sobie prosty skrypt w Bashu, który skopiuje mi
+> potrzebne pliki, zmieni im nazwę i zachowa listę z nowymi nazwami do pliku
+> tekstowego.
 
-## Jak uruchomić
+Bash oferuje nam możliwość uruchomienia kwadryliona narzędzi. Ale od czegoś
+trzeba zacząć, dlatego w tym artykule skupię się na absolutnych podstawach.
+
+## Uruchom okno do innego świata
 
 W systemach macOS i Linux, Bash jest dostępny od razu. Jeśli używasz Maca,
 wystarczy, że otworzysz aplikację **Terminal** i wpiszesz komendę `bash`.
@@ -54,13 +57,10 @@ Na szczęście można to całkiem łatwo zmienić, np. instalując
 [Gita](https://git-scm.com/install/windows), który zawiera w sobie paczkę **git
 bash**.
 
-## Jak używać
+Po odpaleniu Basha, możesz przejść do dalszych sekcji, z których dowiesz się jak
+go używać.
 
-Tak jak wspomniałem na początku, Bash oferuje nam możliwość uruchomienia
-kwadryliona narzędzi. Ale od czegoś trzeba zacząć, dlatego skupię się na
-absolutnych podstawach.
-
-### Pokaż o czym myślisz
+## Pokaż o czym myślisz
 
 Żeby wyświetlić na ekranie jakiś tekst albo wartość jakiegoś elementu, użyj
 komendy `echo`. Jak w każdym szanującym się poradniku, zacznij od przywitania
@@ -71,7 +71,7 @@ się ze światem:
 Hello World!
 ```
 
-### Powtórz
+## Powtórz
 
 Nikt z nas nie lubi się powtarzać. Ale czasem trzeba i jest to przydatne. W
 Bashu jeśli chcesz powtórzyć ostatnio użytą komendę, naciskasz
@@ -84,7 +84,7 @@ Hello World!
 Hello World!
 ```
 
-### Działaj szybciej
+## Działaj szybciej
 
 Wpisywanie komend tekstowych może być uciążliwe, szczególnie jeśli zawierają one
 długie ciągi znaków, np. ścieżkę do pliku. Na szczęście ktoś wymyślił
@@ -100,7 +100,7 @@ Na każdym etapie wpisywania komendy warto użyć podpowiedzi, czasami kilka raz
 bo np. dopiero w połowie komenda staje się jednoznaczna i `Tab` doklei nam
 brakującą część.
 
-### Ustal swoją lokalizację
+## Ustal swoją lokalizację
 
 Żeby sprawdzić, w którym obecnie folderze jesteś, użyj polecenia `pwd`.
 
@@ -109,7 +109,7 @@ brakującą część.
 /Users/docdeveloper/Documents
 ```
 
-### Zmień lokalizację
+## Zmień lokalizację
 
 Jeśli z jakiegoś powodu nie odpowiada Ci Twoje obecne położenie, możesz to łatwo
 zmienić za pomocą polecenia `cd`.
@@ -127,7 +127,7 @@ przeskoczyć do `/Users`, wpisz `cd ../..`.
 /Users/docdeveloper
 ```
 
-### Pokaż mi co tam masz
+## Pokaż mi co tam masz
 
 Żeby sprawdzić zawartość folderu, w którym się znajdujesz, użyj komendy `ls`.
 Jeśli chcesz zobaczyć też ukryte pliki, dodaj parametr `-a`. Jeśli chcesz więcej
@@ -148,7 +148,7 @@ drwxr-xr-x   6 docdeveloper  staff   192 Feb  2 11:00 ..
 -rw-r--r--   1 docdeveloper  staff  1024 Feb  2 12:05 notatki.txt
 ```
 
-### Zajrzyj w głąb
+## Zajrzyj w głąb
 
 Sprawdzanie zawartości folderu to jedna rzecz. Ale jak sprawdzić szybko
 zawartość pliku? Trzeba poprosić kota o pomoc ;)
@@ -164,11 +164,13 @@ Bash jest bardzo przydatny!
 ```
 
 :::tip Pro tip
-Jeśli dorzucisz do komendy opcję `-n`, to zobaczysz zawartość
-pliku z ponumerowanymi linijkami.
+
+Jeśli dorzucisz do komendy opcję `-n`, to zobaczysz zawartość pliku z
+ponumerowanymi linijkami.
+
 :::
 
-### Stwórz coś
+## Stwórz coś
 
 Tworzenie folderów nie wymaga dużego wysiłku. Wystarczy użyć
 `mkdir nazwa_folderu` i gotowe.
@@ -202,7 +204,7 @@ tworzysz komendą `echo > sciezka_do_pliku`, a plik z zawartością
 ~$ echo "Lista zadań" > todo.txt
 ```
 
-### Ogarnij się
+## Ogarnij się
 
 Porządek musi być. Czasem trzeba coś usunąć, skopiować albo przenieść. Tutaj
 przyjdą nam z pomocą komendy:
@@ -245,7 +247,7 @@ chcesz usunąć ten plik lub folder, możesz "użyć siły", czyli opcji `-f`.
 ~$ rm -r folder_do_usuniecia
 ```
 
-### Skomponuj coś
+## Skomponuj coś
 
 Każde polecenie w Bashu to jak odpalenie małego narzędzia. Naciskanie `Enter` po
 każdym wpisanym poleceniu jest ok, ale można sobie oszczędzić trochę naciskania
@@ -274,12 +276,12 @@ jako informacje wejściową dla polecenia po prawej stronie.
 
 ```bash
 ~$ ls | cat -n
-     1	dokumenty
-     2	zdjecia
-     3	notatki.txt
+     1  dokumenty
+     2  zdjecia
+     3  notatki.txt
 ```
 
-### Odśwież swoją pamięć
+## Odśwież swoją pamięć
 
 Ciężko jest sobie przypomnieć obiad sprzed dwóch dni, a co dopiero komendy
 wywoływane w Bashu.
@@ -305,29 +307,33 @@ ls -la
 ```
 
 :::tip Pro tip
+
 Żeby odpalić ostatnią użytą komendę, wpisz `!!`.
+
 :::
 
-### Zostań hardkorem
+## Zostań hardkorem
 
 Lubisz zawsze iść pod wiatr? Nie uznajesz kompromisów? W takim razie mam coś dla
-Ciebie - edytor [VI lub VIM](https://pl.wikipedia.org/wiki/Vim) dostępny w terminalu.
+Ciebie - edytor [VI lub VIM](https://pl.wikipedia.org/wiki/Vim) dostępny w
+terminalu.
 
-Ma tyle samo zwolenników co przeciwników, głównie ze względu na bardzo specyficzny sposób
-obsługi. Wszystko robisz na klawiaturze, całkowicie inaczej niż w nowoczesnych
-edytorach, i nie używasz w ogóle myszki. Kiedyś podjąłem wyzwanie nauczenia się
-podstawowej obsługi tego edytora. Na początku był pot, krew i łzy, ale po jakimś
-czasie stwierdziłem, że to wszystko ma sens i zrozumiałem dlaczego można
-polubić VI. Do tej pory zdarza mi się robić jakieś proste zmiany w plikach
-tekstowych lub skryptach za pomocą tego edytora.
+Ma tyle samo zwolenników co przeciwników, głównie ze względu na bardzo
+specyficzny sposób obsługi. Wszystko robisz na klawiaturze, całkowicie inaczej
+niż w nowoczesnych edytorach, i nie używasz w ogóle myszki. Kiedyś podjąłem
+wyzwanie nauczenia się podstawowej obsługi tego edytora. Na początku był pot,
+krew i łzy, ale po jakimś czasie stwierdziłem, że to wszystko ma sens i
+zrozumiałem dlaczego można polubić VI. Do tej pory zdarza mi się robić jakieś
+proste zmiany w plikach tekstowych lub skryptach za pomocą tego edytora.
 
 Jeśli chcesz spróbować to odpal poniższą komendę, która utworzy nowy plik i
 otworzyć go w VI.
 
 :::warning Ostrzegam!
-Wyjście z programu może okazać się pierwszym poważnym
-wyzwaniem na jakie natrafisz. W świecie programistów krążą nawet o tym żarty
-;)
+
+Wyjście z programu może okazać się pierwszym poważnym wyzwaniem na jakie
+natrafisz. W świecie programistów krążą nawet o tym żarty ;)
+
 :::
 
 ```bash
