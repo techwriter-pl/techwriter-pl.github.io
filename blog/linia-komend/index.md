@@ -327,7 +327,7 @@ zrozumiałem dlaczego można polubić VI. Do tej pory zdarza mi się robić jak
 proste zmiany w plikach tekstowych lub skryptach za pomocą tego edytora.
 
 Jeśli chcesz spróbować to odpal poniższą komendę, która utworzy nowy plik i
-otworzyć go w VI.
+otworzy go w VI.
 
 :::warning Ostrzegam!
 
