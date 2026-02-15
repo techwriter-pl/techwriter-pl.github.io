@@ -2,7 +2,7 @@
 title:
   '„Ciemność, widzę ciemność, ciemność widzę” - czyli jak poskromić linię komend'
 authors: mojk
-date: '2026-02-04'
+date: '2026-02-15'
 tags:
   - 'dobre-praktyki'
   - 'narzędzia'
