@@ -47,7 +47,7 @@ Poniżej przykład [release notes](https://doc.clickup-stg.com/333/d/ad-1002505/
 
 Changelog to z kolei chronologiczny zapis zmian w produkcie. Jest pisany bardziej technicznym językiem niż release notes i skierowany do programistów, administratorów oraz zaawansowanych użytkowników, dla których techniczna terminologia nie stanowi problemu. Odbiorcy changeloga nie potrzebują znać biznesowych zastosowań przedstawianych zmian. Im zależy głównie na tym, aby sprawdzić czy i kiedy dana zmiana została wprowadzona w produkcie. Z tego też powodu, forma changeloga znacznie różni się od release notes. Najczęściej spotykamy się z formą zwięzłych wpisów przypisanych do konkretnych wersji i dat. 
 
-Idealnym przykładem firmy, która tworzy [changeloga](https://github.blog/changelog/) w ten sposób jest GitHub. Od razu widać, że changelog jest kierowany do programistów i integratorów niż dla biznesowych odbiorców. 
+Idealnym przykładem firmy, która tworzy [changeloga](https://github.blog/changelog/) w ten sposób jest GitHub. Od razu widać, że changelog jest kierowany do programistów i integratorów a nie do odbiorców biznesowych. 
 
 
 ![Przykład changeloga od firmy GitHub. Strona jest krótka i przeważają pojedyncze zdania, opisujące zmiany.](./images/example-changelog-gif.gif)
