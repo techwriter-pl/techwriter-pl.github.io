@@ -1,7 +1,7 @@
 ---
 title: 'Release notes to nie changelog. O różnicach, które warto znać.'
 authors: magdazaczek
-date: '2026-02-16'
+date: '2026-02-18'
 tags:
   - 'warsztat'
   - 'praca'
