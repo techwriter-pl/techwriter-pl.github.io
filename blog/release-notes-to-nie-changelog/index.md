@@ -20,7 +20,7 @@ W tym artykule uporządkuję te pojęcia i pokażę Ci, czym naprawdę się ró�
 
 ## Tłumaczyć czy nie?
 
-Celowo nie tłumaczę tych terminów na język polski, choć w praktyce można spotkać ich odpowiedniki. O ile z release notes jest prościej, bo tłumaczone są po prostu jako <i>noty wydania</i>, o tyle z changelogiem jest nieco trudniej. Najczęściej spotykanymi tłumaczeniami są <i>historia zmian</i> lub <i>lista zmian</i>. 
+Celowo nie tłumaczę tych terminów na język polski, choć w praktyce można spotkać ich odpowiedniki. O ile z release notes jest prościej, bo tłumaczone są po prostu jako _noty wydania_, o tyle z changelogiem jest nieco trudniej. Najczęściej spotykanymi tłumaczeniami są _historia zmian_ lub _lista zmian_. 
 
 Decyzja o tłumaczeniu tych zwrotów nie powinna być przypadkowa. W środowisku międzynarodowym stosuje się zwroty anglojęzyczne. W dokumentacji technicznej pisanej po polsku można rozważyć użycie polskich tłumaczeń, ale należy pamiętać, aby stosować je konsekwentnie. Mieszanie terminów w obrębie jednego produktu lub organizacji może prowadzić do nieporozumień. Jeśli raz mówimy o <i>liście zmian</i>, a innym razem o <i>changelogu</i>, odbiorca może się pogubić. Z perspektywy technical writera najważniejsza jest więc nie sama decyzja o tłumaczeniu, lecz spójne nazewnictwo w całej dokumentacji.
 
