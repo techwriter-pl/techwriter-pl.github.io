@@ -4,10 +4,55 @@
         <title>techwriter.pl Blog</title>
         <link>https://techwriter.pl/</link>
         <description>techwriter.pl Blog</description>
-        <lastBuildDate>Sun, 15 Feb 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Feb 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>pl</language>
+        <item>
+            <title><![CDATA[Release notes to nie changelog. O różnicach, które warto znać.]]></title>
+            <link>https://techwriter.pl/release-notes-to-nie-changelog</link>
+            <guid>https://techwriter.pl/release-notes-to-nie-changelog</guid>
+            <pubDate>Wed, 18 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Release notes i changelog to nie to samo. Choć wielu myli te pojęcia, to dwa odrębne dokumenty, które spełniają oddzielne cele.]]></description>
+            <content:encoded><![CDATA[<p>Release notes i changelog to nie to samo. Choć wielu myli te pojęcia, to dwa odrębne dokumenty, które spełniają oddzielne cele.</p>
+<p>Czytając dokumentację techniczną spotykamy się z różnymi terminami.
+Dwa z nich, release notes i changelog, często używane są zamiennie, mimo że w rzeczywistości powinny pełnić różne funkcje.
+Czym dokładnie są release notes i changelog? Do kogo są skierowane i czym się różnią?
+W tym artykule uporządkuję te pojęcia i pokażę Ci, czym naprawdę się różnią oraz kiedy warto stosować każde z nich.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="tłumaczyć-czy-nie">Tłumaczyć czy nie?<a href="https://techwriter.pl/release-notes-to-nie-changelog#t%C5%82umaczy%C4%87-czy-nie" class="hash-link" aria-label="Bezpośredni link do Tłumaczyć czy nie?" title="Bezpośredni link do Tłumaczyć czy nie?" translate="no">​</a></h2>
+<p>Celowo nie tłumaczę tych terminów na język polski, choć w praktyce można spotkać ich odpowiedniki. O ile z release notes jest prościej, bo tłumaczone są po prostu jako <em>noty wydania</em>, o tyle z changelogiem jest nieco trudniej. Najczęściej spotykanymi tłumaczeniami są <em>historia zmian</em> lub <em>lista zmian</em>.</p>
+<p>Decyzja o tłumaczeniu tych zwrotów nie powinna być przypadkowa. W środowisku międzynarodowym stosuje się zwroty anglojęzyczne. W dokumentacji technicznej pisanej po polsku można rozważyć użycie polskich tłumaczeń, ale należy pamiętać, aby stosować je konsekwentnie. Mieszanie terminów w obrębie jednego produktu lub organizacji może prowadzić do nieporozumień. Jeśli raz mówimy o <em>liście zmian</em>, a innym razem o <em>changelogu</em>, odbiorca może się pogubić. Z perspektywy technical writera najważniejsza jest więc nie sama decyzja o tłumaczeniu, lecz spójne nazewnictwo w całej dokumentacji.</p>
+<p>W tym artykule pozostaję przy oryginalnych terminach, jako najbardziej neutralnych i znanych w środowisku technicznym.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="kontekst-użycia">Kontekst użycia<a href="https://techwriter.pl/release-notes-to-nie-changelog#kontekst-u%C5%BCycia" class="hash-link" aria-label="Bezpośredni link do Kontekst użycia" title="Bezpośredni link do Kontekst użycia" translate="no">​</a></h2>
+<p>Release notes i changelog są ściśle powiązane z zarządzaniem wersjami produktu. Za każdym razem, gdy wprowadzamy nowe funkcje, poprawiamy błędy lub modyfikujemy istniejące rozwiązania, chcemy zakomunikować te zmiany odbiorcom.
+Dokładnie w tym momencie pojawiają się zespoły produktowe i technical writerzy, którzy tworzą dokumentację opisującą zmiany, a więc changelog i release notes. Choć oba dokumenty informują o zmianach, robią to w odmienny sposób i z myślą o różnych grupach czytelników.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="definicje">Definicje<a href="https://techwriter.pl/release-notes-to-nie-changelog#definicje" class="hash-link" aria-label="Bezpośredni link do Definicje" title="Bezpośredni link do Definicje" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="release-notes">Release notes<a href="https://techwriter.pl/release-notes-to-nie-changelog#release-notes" class="hash-link" aria-label="Bezpośredni link do Release notes" title="Bezpośredni link do Release notes" translate="no">​</a></h3>
+<p>Release notes skierowane są do użytkowników końcowych, klientów biznesowych, działów marketingu i sprzedaży. Pisane są językiem mniej technicznym i skupiają się na przekazaniu biznesowej wartości prezentowanych zmian. Często odpowiadają na pytanie <em>Dlaczego ta zmiana jest istotna?</em> zamiast szczegółowo opisywać techniczne aspekty jej wdrożenia.
+Często release notes są wzbogacone o elementy wizualne, takie jak zrzuty ekranu, animacje GIF czy krótkie filmiki. Wszystko po to, aby nie tylko poinformować o wprowadzonych zmianach, ale łatwo przedstawić w jaki sposób użytkownicy mogą z nich skorzystać.</p>
+<p>Poniżej przykład <a href="https://doc.clickup-stg.com/333/d/ad-1002505/2024-release-notes/ad-3526113/release-3-15?_gl=1*4ztj5o*_gcl_au*MjAzMzI3NDAwMC4xNzcwNDEyMzg5" target="_blank" rel="noopener noreferrer" class="">release notes</a> od firmy ClickUp, która oferuje rozwiązania do zarządzania projektami. Z łatwością można zauważyć, że firma kieruje swoje release notes do klientów biznesowych. Strona jest opisowa i zawiera wizualne elementy takie jak filmik i zrzuty ekranu.</p>
+<p><img decoding="async" loading="lazy" alt="Przykład release notes od firmy ClickUp. Strona jest opisowa i zawiera elementy wizualne." src="https://techwriter.pl/assets/images/example-release-notes-gif-8294a18cd6df2b5a1bdbbb9dd8b78cc1.gif" width="1152" height="648" class="img_ev3q"></p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="changelog">Changelog<a href="https://techwriter.pl/release-notes-to-nie-changelog#changelog" class="hash-link" aria-label="Bezpośredni link do Changelog" title="Bezpośredni link do Changelog" translate="no">​</a></h3>
+<p>Changelog to z kolei chronologiczny zapis zmian w produkcie. Jest pisany bardziej technicznym językiem niż release notes i skierowany do programistów, administratorów oraz zaawansowanych użytkowników, dla których techniczna terminologia nie stanowi problemu. Odbiorcy changeloga nie potrzebują znać biznesowych zastosowań przedstawianych zmian. Im zależy głównie na tym, aby sprawdzić czy i kiedy dana zmiana została wprowadzona w produkcie. Z tego też powodu, forma changeloga znacznie różni się od release notes. Najczęściej spotykamy się z formą zwięzłych wpisów przypisanych do konkretnych wersji i dat.</p>
+<p>Warto wspomnieć, że changelog nie zawsze jest tworzony ręcznie. Można wygenerować go automatycznie na podstawie historii commitów (np. w Git), wykorzystująć konwencję <a href="https://www.conventionalcommits.org/en/v1.0.0/" target="_blank" rel="noopener noreferrer" class="">Conventional Commits</a>, która standaryzuje sposób zapisywania zmian i umożliwia automatyczne tworzenie changeloga.</p>
+<p>Idealnym przykładem firmy, która tworzy <a href="https://github.blog/changelog/" target="_blank" rel="noopener noreferrer" class="">changeloga</a> w ten sposób jest GitHub. Od razu widać, że changelog jest kierowany do programistów i integratorów a nie do odbiorców biznesowych.</p>
+<p><img decoding="async" loading="lazy" alt="Przykład changeloga od firmy GitHub. Strona jest krótka i przeważają pojedyncze zdania, opisujące zmiany." src="https://techwriter.pl/assets/images/example-changelog-gif-bb99498f5da009c2011a00a4969e133a.gif" width="1152" height="648" class="img_ev3q"></p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="kiedy-używać-release-notes">Kiedy używać release notes<a href="https://techwriter.pl/release-notes-to-nie-changelog#kiedy-u%C5%BCywa%C4%87-release-notes" class="hash-link" aria-label="Bezpośredni link do Kiedy używać release notes" title="Bezpośredni link do Kiedy używać release notes" translate="no">​</a></h2>
+<p>Release notes sprawdzają się tam, gdzie kluczowe jest doświadczenie użytkownika (user experience). Odbiorca chce wiedzieć, w jaki sposób zmiany w produkcie wpłyną na jego codzienną pracę lub sposób korzystania z aplikacji.</p>
+<p>Techniczne terminy mogą zniechęcać do lektury, dlatego release notes powinny być zrozumiałe dla odbiorcy i skoncentrowane na korzyściach. Coraz częściej obserwuje się również zainteresowanie wizualną formą komunikacji zmian, na przykład w formie krótkiego GIFa czy filmiku. Release notes są powszechnie stosowane w aplikacjach SaaS, aplikacjach mobilnych, grach wideo i oprogramowaniach e-commerce.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="kiedy-używać-changeloga">Kiedy używać changeloga<a href="https://techwriter.pl/release-notes-to-nie-changelog#kiedy-u%C5%BCywa%C4%87-changeloga" class="hash-link" aria-label="Bezpośredni link do Kiedy używać changeloga" title="Bezpośredni link do Kiedy używać changeloga" translate="no">​</a></h2>
+<p>Changelog najczęściej stosowany jest w projektach open source, systemach operacyjnych, publicznych API, bibliotekach i frameworkach. Oczywiście nie jest to kompletna lista, ale wszędzie tam, gdzie odbiorcą jest specjalista (np. programista lub administrator), który musi dokładnie wiedzieć jakie zmiany zostały wprowadzone, aby jego integracje lub kod działały poprawnie. W changelogu liczy się kompletność i precyzja, a nie narracja czy kontekst biznesowy.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="changelog-i-release-notes-razem">Changelog i release notes razem<a href="https://techwriter.pl/release-notes-to-nie-changelog#changelog-i-release-notes-razem" class="hash-link" aria-label="Bezpośredni link do Changelog i release notes razem" title="Bezpośredni link do Changelog i release notes razem" translate="no">​</a></h2>
+<p>To, że release notes i changelog komunikują zmiany w różny sposób, nie oznacza, że nie można ich stosować wspólnie.</p>
+<p>W wielu produktach jest taka potrzeba, aby przygotowywać changelog, który traktuje się jako historię zmian w produkcie niezbędną dla zespołów technicznych, administratorów czy zaawansowanych użytkowników. Release notes będą natomiast służyć użytkownikom końcowym i klientom biznesowym. W release notes zazwyczaj dokonuje się selekcji zmian i opisuje te, które są najbardziej istotne z perspektywy użytkownika. Dzięki temu, prowadząc zarówno changelog, jak i release notes, zaspokajamy potrzeby różnych grup odbiorców i zapewniamy spójną, ale dostosowaną komunikację produktu.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="co-warto-zapamiętać">Co warto zapamiętać?<a href="https://techwriter.pl/release-notes-to-nie-changelog#co-warto-zapami%C4%99ta%C4%87" class="hash-link" aria-label="Bezpośredni link do Co warto zapamiętać?" title="Bezpośredni link do Co warto zapamiętać?" translate="no">​</a></h2>
+<p>Choć release notes i changelog często są błędnie traktowane jak synonimy, w rzeczywistości nie są tym samym typem dokumentacji. Oba formaty służą do komunikowania zmian w produkcie, ale realizują ten cel w inny sposób i są przeznaczone dla różnych odbiorców.</p>
+<p>Release notes pełnią rolę komunikacyjną i przedstawiają wybrane zmiany językiem biznesowym i zrozumiałym dla użytkownika końcowego, co pomoże w korzystaniu z nowych funkcji w codziennej pracy z produktem.</p>
+<p>Changelog przedstawia wprowadzone zmiany w krótki i bardzo techniczny sposób. Jest niezbędny dla programistów, administratorów i zaawansowanych użytkowników, którzy chcą wiedzieć co i kiedy zostało zmodyfikowane.</p>]]></content:encoded>
+            <category>warsztat</category>
+            <category>praca</category>
+            <category>release-notes</category>
+        </item>
         <item>
             <title><![CDATA[„Ciemność, widzę ciemność, ciemność widzę” - czyli jak poskromić linię komend]]></title>
             <link>https://techwriter.pl/linia-komend</link>
@@ -3267,268 +3312,6 @@ twierdzi, że ma uniwersalne rozwiązanie, podejdźmy do niego z odrobiną rezer
             <category>dobre-praktyki</category>
             <category>pomoc-użytkownika</category>
             <category>zarządzanie-treścią</category>
-        </item>
-        <item>
-            <title><![CDATA[Kilka pytań do – część 31: Wywiad z Mateuszem Barszczem]]></title>
-            <link>https://techwriter.pl/kilka-pytan-do-czesc-31</link>
-            <guid>https://techwriter.pl/kilka-pytan-do-czesc-31</guid>
-            <pubDate>Wed, 12 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Naszym dzisiejszym gościem jest Mateusz Barszcz, główny specjalista ds.]]></description>
-            <content:encoded><![CDATA[<p>Naszym dzisiejszym gościem jest Mateusz Barszcz, główny specjalista ds.
-dokumentacji technicznej oprogramowania (Chief Software Technical Writer) w
-Hitachi Energy w Polsce.</p>
-<p>Z wywiadu dowiecie się o jego bogatym doświadczeniu oraz o tym, w czym technical
-writing (tworzenie dokumentacji technicznej) przypomina sport wyczynowy. Mateusz
-dzieli się w nim również swoimi obserwacjami i przemyśleniami, które mogą być
-pomocne dla osób, które rozważają zrobienie kroku w kierunku komunikacji
-technicznej, jak i ciekawe dla tych, którym już jest ona bliska.</p>
-<p><img decoding="async" loading="lazy" alt="A technical writer sitting in a car" src="https://techwriter.pl/assets/images/upload_0099-687d323a6371e44be06fbe27134ba903.png" width="740" height="495" class="img_ev3q"></p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="przedstawienie">Przedstawienie<a href="https://techwriter.pl/kilka-pytan-do-czesc-31#przedstawienie" class="hash-link" aria-label="Bezpośredni link do Przedstawienie" title="Bezpośredni link do Przedstawienie" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="cześć-mateuszu-dziękuję-że-zgodziłeś-się-na-ten-wywiad-na-początek-opowiedz-nam-proszę-coś-o-sobie">Cześć Mateuszu, dziękuję, że zgodziłeś się na ten wywiad. Na początek, opowiedz nam proszę coś o sobie.<a href="https://techwriter.pl/kilka-pytan-do-czesc-31#cze%C5%9B%C4%87-mateuszu-dzi%C4%99kuj%C4%99-%C5%BCe-zgodzi%C5%82e%C5%9B-si%C4%99-na-ten-wywiad-na-pocz%C4%85tek-opowiedz-nam-prosz%C4%99-co%C5%9B-o-sobie" class="hash-link" aria-label="Bezpośredni link do Cześć Mateuszu, dziękuję, że zgodziłeś się na ten wywiad. Na początek, opowiedz nam proszę coś o sobie." title="Bezpośredni link do Cześć Mateuszu, dziękuję, że zgodziłeś się na ten wywiad. Na początek, opowiedz nam proszę coś o sobie." translate="no">​</a></h3>
-<p>Nazywam się <a href="https://www.linkedin.com/in/mattbarszcz/" target="_blank" rel="noopener noreferrer" class="">Mateusz Barszcz</a> i
-pracuję w firmie
-<a href="https://www.linkedin.com/company/hitachienergy/" target="_blank" rel="noopener noreferrer" class="">Hitachi Energy</a>, gdzie zajmuję
-się tworzeniem dokumentacji technicznej. W październiku 2022 roku dołączyłem do
-zespołu dokumentacji jako Senior Technical Writer (starszy specjalista ds.
-dokumentacji). Początkowo pracowałem przy mniejszym projekcie
-<a href="https://www.hitachienergy.com/products-and-solutions/grid-and-generation-management-network-manager/network-manager-wide-area-monitoring-system-wams" target="_blank" rel="noopener noreferrer" class="">Network Manager Wide Area Monitoring System (WAMS)</a>,
-który jest backendowym rozwiązaniem do monitorowania stanu sieci energetycznej.
-Obecnie jestem zaangażowany w znacznie większy projekt z udziałem pięciu
-zespołów deweloperskich, gdzie pełnię rolę projektową lead technical writera
-(koordynatora dokumentacji technicznej). Odpowiadam za tworzenie planu
-dokumentacyjnego i dbam o to, abyśmy mieli niezbędne do przygotowywania opisów
-informacje. Jako pisarz przygotowuję dokumentację dla użytkownika, który jest
-zarówno wewnętrznym klientem firmy, jak i klientem docelowym otrzymującym
-finalne rozwiązanie. Są to dokumenty typu: instrukcja instalacyjna (installation
-guide), opis funkcji (functional description) i noty wydania (release notes).
-Wspieram też tworzenie dokumentacji inżynieryjnej, która żyje razem z kodem,
-takiej jak instrukcja dla administratorów systemowych (administration guide)
-albo plik tekstowy z opisem obsługi programu (readme).</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="jak-streściłbyś-istotę-roli-technical-writera-lub-specjalisty-ds-komunikacji-technicznej">Jak streściłbyś istotę roli technical writera lub specjalisty ds. komunikacji technicznej?<a href="https://techwriter.pl/kilka-pytan-do-czesc-31#jak-stre%C5%9Bci%C5%82by%C5%9B-istot%C4%99-roli-technical-writera-lub-specjalisty-ds-komunikacji-technicznej" class="hash-link" aria-label="Bezpośredni link do Jak streściłbyś istotę roli technical writera lub specjalisty ds. komunikacji technicznej?" title="Bezpośredni link do Jak streściłbyś istotę roli technical writera lub specjalisty ds. komunikacji technicznej?" translate="no">​</a></h3>
-<p>Dla mnie jest to głównie rola technicznego tłumacza. Jest to osoba, która zbiera
-informacje od inżynierów – a ich wypowiedzi mogą być pełne emocji, zdawkowe albo
-pełne żargonu – i tłumaczy je na ogólnie zrozumiały i czytelny język, który
-można łatwo przyswoić i wykorzystać do własnych potrzeb.</p>
-<p>Najważniejszymi elementami pisania technicznego są: zrozumienie kontekstu
-technicznego, przetłumaczenie wyjściowej wersji na przystępny język oraz
-logiczne ułożenie treści.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="kariera-przed-dołączeniem-do-zespołu-hitachi-energy">Kariera przed dołączeniem do zespołu Hitachi Energy<a href="https://techwriter.pl/kilka-pytan-do-czesc-31#kariera-przed-do%C5%82%C4%85czeniem-do-zespo%C5%82u-hitachi-energy" class="hash-link" aria-label="Bezpośredni link do Kariera przed dołączeniem do zespołu Hitachi Energy" title="Bezpośredni link do Kariera przed dołączeniem do zespołu Hitachi Energy" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="jak-długo-trwa-twoja-kariera-techniczna">Jak długo trwa twoja kariera techniczna?<a href="https://techwriter.pl/kilka-pytan-do-czesc-31#jak-d%C5%82ugo-trwa-twoja-kariera-techniczna" class="hash-link" aria-label="Bezpośredni link do Jak długo trwa twoja kariera techniczna?" title="Bezpośredni link do Jak długo trwa twoja kariera techniczna?" translate="no">​</a></h3>
-<p>Przeglądając dziś LinkedIn, pojawiło mi się wspomnienie sprzed 15 lat, kiedy
-zacząłem karierę techniczną. Jest ona przeplatana różnymi rolami, ale zadania, z
-którymi się mierzyłem, zawsze wiązały się z pisanymi treściami technicznymi oraz
-graficznym przekazem informacji.</p>
-<p>Stricte technical writingiem zajmuję się od 2010 roku; e-learningiem zajmowałem
-się przez ponad trzy lata, a pracując przez sześć lat w Google miałem okazję
-łączyć oba te nurty.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="w-jaki-sposób-zostałeś-technical-writerem">W jaki sposób zostałeś technical writerem?<a href="https://techwriter.pl/kilka-pytan-do-czesc-31#w-jaki-spos%C3%B3b-zosta%C5%82e%C5%9B-technical-writerem" class="hash-link" aria-label="Bezpośredni link do W jaki sposób zostałeś technical writerem?" title="Bezpośredni link do W jaki sposób zostałeś technical writerem?" translate="no">​</a></h3>
-<p>To jest ciekawa historia, bo po studiach, pracując dorywczo, zastanawiałem się,
-co robić dalej. W 2010 roku znalazłem ofertę pracy dla kontraktora na roczne
-zadanie do Motorola Solutions. Szukali tzw. juniora, czyli kogoś bez
-doświadczenia, a mnie w miarę czytania tego ogłoszenia bardzo zainteresowało,
-czym zajmuje się technical writer. Mam wykształcenie techniczne, zawsze lubiłem
-bawić się technologiami. Dodatkowo moja dwujęzyczność – jestem <em>native
-speaker'em</em> angielskiego i polskiego. Te wszystkie bliskie mi aspekty wtedy
-zgrały się i złożyłem aplikację. Przeszedłem rekrutację i dostałem tę pracę.
-Taki więc był mój początek w tym obszarze.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="czyli-czytając-tę-ofertę-budowałeś-swoją-świadomość-tego-kim-jest-technical-writer">Czyli czytając tę ofertę budowałeś swoją świadomość tego, kim jest technical writer?<a href="https://techwriter.pl/kilka-pytan-do-czesc-31#czyli-czytaj%C4%85c-t%C4%99-ofert%C4%99-budowa%C5%82e%C5%9B-swoj%C4%85-%C5%9Bwiadomo%C5%9B%C4%87-tego-kim-jest-technical-writer" class="hash-link" aria-label="Bezpośredni link do Czyli czytając tę ofertę budowałeś swoją świadomość tego, kim jest technical writer?" title="Bezpośredni link do Czyli czytając tę ofertę budowałeś swoją świadomość tego, kim jest technical writer?" translate="no">​</a></h3>
-<p>Tak. Podobnie jak wiele osób i ja korzystałem z instrukcji, ale nigdy nie
-myślałem o tym, kto i w jaki sposób właściwie je tworzy, kto jest za nie
-odpowiedzialny. Wcześniej nie miałem świadomości, że są ludzie i zespoły
-odpowiedzialne za tego typu dokumentację, że jest to duży obszar wymagający
-specjalnych ról i eksperckiej wiedzy. Spodobało mi się to i w efekcie mocno mnie
-pochłonęło.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="w-jakich-projektach-brałeś-udział-i-jakie-doświadczenia-w-nich-zdobyłeś">W jakich projektach brałeś udział i jakie doświadczenia w nich zdobyłeś?<a href="https://techwriter.pl/kilka-pytan-do-czesc-31#w-jakich-projektach-bra%C5%82e%C5%9B-udzia%C5%82-i-jakie-do%C5%9Bwiadczenia-w-nich-zdoby%C5%82e%C5%9B" class="hash-link" aria-label="Bezpośredni link do W jakich projektach brałeś udział i jakie doświadczenia w nich zdobyłeś?" title="Bezpośredni link do W jakich projektach brałeś udział i jakie doświadczenia w nich zdobyłeś?" translate="no">​</a></h3>
-<p>W mojej karierze podoba mi się to, że od samego początku było dynamicznie. Co
-pół roku coś się zmieniało – nie mogłem narzekać na stagnację. Zacząłem od
-produktów Motoroli Solutions związanych z infrastrukturą radiową. W zespole było
-kilkanaścioro osób odpowiedzialnych za dokumentację techniczną i każde z nas
-trzymało pieczę nad daną funkcją systemu. Po dwóch latach zacząłem opisywać
-urządzenia radiowe zamontowane w radiowozach policyjnych, dzięki czemu poznałem
-kolejny aspekt komunikacji radiowej.</p>
-<p><img decoding="async" loading="lazy" alt="A police officer holding a radio set" src="https://techwriter.pl/assets/images/upload_0100-80c0a6e77266f10a4abfaddc58e7bb65.png" width="740" height="459" class="img_ev3q"> <strong>Urządzenie
-radiokomunikacyjne w radiowozie policyjnym, podobne do tego, którym zajmował się
-Mateusz</strong>.
-<a href="https://www.flickr.com/photos/peigov/31808990565/in/photostream/" target="_blank" rel="noopener noreferrer" class="">Link do oryginału</a>.
-Autor zdjęcia:
-<a href="https://www.flickr.com/photos/peigov/" target="_blank" rel="noopener noreferrer" class="">Government of Prince Edward Island</a>.</p>
-<p>Następnie pisałem materiały szkoleniowe dla e-learningu, co było kolejnym
-aspektem zarządzania treścią. Opracowywałem materiały szkoleniowe dla kursów
-odbywanych we własnym tempie oraz tych prowadzonych przez instruktorów pod
-infrastrukturę radiową, którą poznałem na początku. Było to operowanie znanymi
-mi treściami w innym formacie. Jako projektant szkoleń tworzyłem treningi z
-takich dziedzin jak wspieranie sprzedaży i tematy biznesowe. Dynamicznie
-zmieniał się zakres treści, którymi operowałem.</p>
-<p>Po jakimś czasie dołączyłem do Google, do niewielkiego zespołu, w którym pisałem
-treści techniczne i tworzyłem szkolenia online dotyczące wewnętrznych produktów
-do zarządzania projektami. Był to nowy i zupełnie nieznany mi wcześniej obszar.
-Musiałem nauczyć się wielu narzędzi stworzonych na potrzeby pracowników. Była to
-rozwojowa rola. W miarę poszerzania portfolio produktów, zakres mojej
-odpowiedzialności również się poszerzał.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="kariera-w-hitachi-energy">Kariera w Hitachi Energy<a href="https://techwriter.pl/kilka-pytan-do-czesc-31#kariera-w-hitachi-energy" class="hash-link" aria-label="Bezpośredni link do Kariera w Hitachi Energy" title="Bezpośredni link do Kariera w Hitachi Energy" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="wróćmy-teraz-do-twojej-obecnej-roli-w-hitachi-energy-o-której-wspomniałeś-na-wstępie-w-jaki-sposób-zorganizowana-jest-twoja-praca">Wróćmy teraz do Twojej obecnej roli w Hitachi Energy, o której wspomniałeś na wstępie. W jaki sposób zorganizowana jest Twoja praca?<a href="https://techwriter.pl/kilka-pytan-do-czesc-31#wr%C3%B3%C4%87my-teraz-do-twojej-obecnej-roli-w-hitachi-energy-o-kt%C3%B3rej-wspomnia%C5%82e%C5%9B-na-wst%C4%99pie-w-jaki-spos%C3%B3b-zorganizowana-jest-twoja-praca" class="hash-link" aria-label="Bezpośredni link do Wróćmy teraz do Twojej obecnej roli w Hitachi Energy, o której wspomniałeś na wstępie. W jaki sposób zorganizowana jest Twoja praca?" title="Bezpośredni link do Wróćmy teraz do Twojej obecnej roli w Hitachi Energy, o której wspomniałeś na wstępie. W jaki sposób zorganizowana jest Twoja praca?" translate="no">​</a></h3>
-<p>Zespoły pracują w oparciu o metodologię
-<a href="https://pl.wikipedia.org/wiki/Scrum" target="_blank" rel="noopener noreferrer" class="">Scrum</a>. Produkty, nad którymi pracujemy,
-są nowe, a więc dokumenty i niekiedy procesy związane z ich powstawaniem
-tworzymy od zera. Odkąd dołączyłem do firmy pracuję nad dużymi dokumentami. Moja
-codzienna praca nie wpisuje się w konwencjonalne scrumowe
-<a href="https://pl.wikipedia.org/wiki/Scrum#cite_note-:1-1" target="_blank" rel="noopener noreferrer" class="">sprinty</a> zespołu, chociaż
-czasami trafiają do mnie zadania, w ramach których jestem proszony o
-uzupełnienie dokumentacji lub zrecenzowanie istniejącej dokumentacji
-inżynieryjnej. Choć jak wspomniałem, moje zadania mają luźny związek ze
-sprintami, to wiążą mnie terminy, w których produkt musi być dostarczony razem z
-dokumentacją. Uczęszczam na spotkania projektowe, więc jestem w stałym kontakcie
-z zespołem.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="jakiego-typu-dokumenty-tworzysz">Jakiego typu dokumenty tworzysz?<a href="https://techwriter.pl/kilka-pytan-do-czesc-31#jakiego-typu-dokumenty-tworzysz" class="hash-link" aria-label="Bezpośredni link do Jakiego typu dokumenty tworzysz?" title="Bezpośredni link do Jakiego typu dokumenty tworzysz?" translate="no">​</a></h3>
-<p>Obecnie najczęściej tworzę installation guides i functional descriptions, które
-są mocno technicznymi dokumentami, a niektóre ich fragmenty są instruktażowe.
-Czasami czuję się, jakbym pisał pracę doktorską lub coś podobnie złożonego. Są
-to dokumenty dla użytkownika końcowego, z treścią związaną z postawieniem
-backendu funkcjonalności czy produktu oraz opisem jego działania, np.:
-kalkulacje zmian w natężeniu prądu, przesunięcia fazowe napięć i jakie są
-odchylenia w odczytach. Tworzę też mniejsze dokumenty, takie jak release notes.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="z-jakich-narzędzi-korzystasz-i-jakie-masz-wrażenia-z-ich-używania">Z jakich narzędzi korzystasz i jakie masz wrażenia z ich używania?<a href="https://techwriter.pl/kilka-pytan-do-czesc-31#z-jakich-narz%C4%99dzi-korzystasz-i-jakie-masz-wra%C5%BCenia-z-ich-u%C5%BCywania" class="hash-link" aria-label="Bezpośredni link do Z jakich narzędzi korzystasz i jakie masz wrażenia z ich używania?" title="Bezpośredni link do Z jakich narzędzi korzystasz i jakie masz wrażenia z ich używania?" translate="no">​</a></h3>
-<p>Pracuję z różnymi narzędziami, w zależności od potrzeb i specyfiki projektu.
-Początkowo korzystałem z MS Word, głównie dlatego, że umożliwiało to wielotorową
-współpracę nad dokumentem z inżynierami. Nie jestem fanem tego narzędzia z
-powodu problemów z szablonami stylów, formatowaniem i utratą treści. Staram się
-z niego korzystać jak najmniej.</p>
-<p>Obecnie pracuję w <a href="https://pl.wikipedia.org/wiki/Markdown" target="_blank" rel="noopener noreferrer" class="">Markdown</a> i
-<a href="https://en.wikipedia.org/wiki/MadCap_Software#MadCap_Flare" target="_blank" rel="noopener noreferrer" class="">MadCap Flare</a>.</p>
-<p>MadCap Flare jest całkiem użyteczny, choć nauczenie się go wymaga trochę czasu i
-wysiłku. Kiedy już opanuje się podstawy, przygotuje szablony stylów i środowisko
-do pracy, to narzędzie okazuje się bardzo przyjazne.</p>
-<p>Mimo wszystko, najprzyjemniej pracuje mi się w Markdown. Mogę synchronizować
-treść do repozytorium i z tą treścią mogę zrobić multum rzeczy, m.in.
-opublikować stronę internetową albo zaimportować treść do MadCap Flare.
-Opracowałem proces importowania, z którego jestem zadowolony z racji jego
-elastyczności.</p>
-<p>Zalety Markdownu to jego prostota oraz fakt, że treści powstają w środowisku
-znanym deweloperom.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="w-jaki-sposób-zdobywasz-informacje-potrzebne-do-tworzenia-dokumentacji">W jaki sposób zdobywasz informacje potrzebne do tworzenia dokumentacji?<a href="https://techwriter.pl/kilka-pytan-do-czesc-31#w-jaki-spos%C3%B3b-zdobywasz-informacje-potrzebne-do-tworzenia-dokumentacji" class="hash-link" aria-label="Bezpośredni link do W jaki sposób zdobywasz informacje potrzebne do tworzenia dokumentacji?" title="Bezpośredni link do W jaki sposób zdobywasz informacje potrzebne do tworzenia dokumentacji?" translate="no">​</a></h3>
-<p>Opiera się to na współpracy z inżynierami, którzy są skorzy włączyć się w proces
-tworzenia dokumentacji. Są często koniecznym ogniwem, aby powstała, bo ja sam
-nie znam bądź nie rozumiem pewnych szczegółów czy aspektów. Jako technical
-writer natomiast stale uczę się technologii oraz produktów samych w sobie,
-stając się stopniowo ekspertem w danej dziedzinie. Zmniejsza to ilość
-zaangażowania potrzebnego po stronie inżynierów i zwiększa moją efektywność.
-Natomiast zastosowanie całkowicie nowych technologii w produkcie wymaga
-większego opierania się na tym, co jest mi przekazane. Początkowo moim zadaniem
-jest więc posklejanie otrzymanych informacji w zdania i ułożenie ich w
-odpowiedniej kolejności tak, żeby przekaz można było łatwo i jednoznacznie
-odczytać.</p>
-<p>Czasami natrafiam na treści w repozytoriach, które później uwzględniam w mojej
-dokumentacji. Takie znaleziska sprawiają mi sporą satysfakcję.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="jaką-masz-super-moc-jako-technical-writer">Jaką masz super moc jako technical writer?<a href="https://techwriter.pl/kilka-pytan-do-czesc-31#jak%C4%85-masz-super-moc-jako-technical-writer" class="hash-link" aria-label="Bezpośredni link do Jaką masz super moc jako technical writer?" title="Bezpośredni link do Jaką masz super moc jako technical writer?" translate="no">​</a></h3>
-<p>Podobno piszę błyskotliwe (<em>witty</em>) wiadomości e-mail, które są równocześnie
-czytelne w środowisku korporacyjnym. Myślę, że to umiejętność przydająca się
-zarówno w technical writingu, jak i w codziennej komunikacji.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="jakie-są-największe-wyzwania-które-napotykasz-w-swojej-pracy">Jakie są największe wyzwania, które napotykasz w swojej pracy?<a href="https://techwriter.pl/kilka-pytan-do-czesc-31#jakie-s%C4%85-najwi%C4%99ksze-wyzwania-kt%C3%B3re-napotykasz-w-swojej-pracy" class="hash-link" aria-label="Bezpośredni link do Jakie są największe wyzwania, które napotykasz w swojej pracy?" title="Bezpośredni link do Jakie są największe wyzwania, które napotykasz w swojej pracy?" translate="no">​</a></h3>
-<p>Zdarza mi się przekonywać kogoś, że proponowana przeze mnie ścieżka jest
-właściwa i trzeba dać do zrozumienia tej osobie, że ona sama nie ma racji.
-Narzucanie komuś swojego zdania nie jest przyjemne, ale potrzebujemy zachować
-pewne niezbędne standardy. Sporadycznie należy też przypominać inżynierom o
-przekazywaniu ich wkładu. Wiadomo, że każdy jest zajęty, więc w takich
-przypadkach dla mnie najlepiej sprawdzają się spotkania 1 na 1. Są
-najefektywniejsze.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="co-najbardziej-lubisz-w-swojej-pracy">Co najbardziej lubisz w swojej pracy?<a href="https://techwriter.pl/kilka-pytan-do-czesc-31#co-najbardziej-lubisz-w-swojej-pracy" class="hash-link" aria-label="Bezpośredni link do Co najbardziej lubisz w swojej pracy?" title="Bezpośredni link do Co najbardziej lubisz w swojej pracy?" translate="no">​</a></h3>
-<p>Najbardziej lubię nasz wspólny zespół tech writerski. Na początku była nas
-garstka, a teraz zespół rośnie jak na drożdżach i jest bardzo różnorodny.
-Posłodzę również trochę naszemu Team Leaderowi, Piotrkowi Sroce, bo podoba mi
-się jego podejście do zarządzania zespołem.</p>
-<p>Kolejna rzecz to technologia, w której projekt jest stworzony, oraz otwartość
-ludzi z zespołu deweloperskiego na nowe podejścia. Zespół ten proponuje ciekawe
-rozwiązania, które można nabudować na Markdown.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="zainteresowania">Zainteresowania<a href="https://techwriter.pl/kilka-pytan-do-czesc-31#zainteresowania" class="hash-link" aria-label="Bezpośredni link do Zainteresowania" title="Bezpośredni link do Zainteresowania" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="czym-się-interesujesz-poza-dokumentacją-i-technologią">Czym się interesujesz poza dokumentacją i technologią?<a href="https://techwriter.pl/kilka-pytan-do-czesc-31#czym-si%C4%99-interesujesz-poza-dokumentacj%C4%85-i-technologi%C4%85" class="hash-link" aria-label="Bezpośredni link do Czym się interesujesz poza dokumentacją i technologią?" title="Bezpośredni link do Czym się interesujesz poza dokumentacją i technologią?" translate="no">​</a></h3>
-<p>Moimi pasjami są podróże, czytanie (szczególnie fantastyki naukowej),
-motoryzacja i gotowanie. To ostatnie też nawiązuje do instrukcji!</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="a-propos-gotowania-czy-kiedy-kupujesz-nowy-sprzęt-agd-na-przykład-robota-kuchennego-idziesz-na-żywioł-i-spontanicznie-zaczynasz-go-używać-czy-też-czytasz-całą-instrukcję-od-deski-do-deski"><em>A propos</em> gotowania: czy kiedy kupujesz nowy sprzęt AGD, na przykład robota kuchennego, idziesz na żywioł i spontanicznie zaczynasz go używać, czy też czytasz całą instrukcję od deski do deski?<a href="https://techwriter.pl/kilka-pytan-do-czesc-31#a-propos-gotowania-czy-kiedy-kupujesz-nowy-sprz%C4%99t-agd-na-przyk%C5%82ad-robota-kuchennego-idziesz-na-%C5%BCywio%C5%82-i-spontanicznie-zaczynasz-go-u%C5%BCywa%C4%87-czy-te%C5%BC-czytasz-ca%C5%82%C4%85-instrukcj%C4%99-od-deski-do-deski" class="hash-link" aria-label="Bezpośredni link do a-propos-gotowania-czy-kiedy-kupujesz-nowy-sprzęt-agd-na-przykład-robota-kuchennego-idziesz-na-żywioł-i-spontanicznie-zaczynasz-go-używać-czy-też-czytasz-całą-instrukcję-od-deski-do-deski" title="Bezpośredni link do a-propos-gotowania-czy-kiedy-kupujesz-nowy-sprzęt-agd-na-przykład-robota-kuchennego-idziesz-na-żywioł-i-spontanicznie-zaczynasz-go-używać-czy-też-czytasz-całą-instrukcję-od-deski-do-deski" translate="no">​</a></h3>
-<p>Na pewno idę na żywioł, bo jestem z natury osobą, która woli coś wypróbować.
-Retencja pamięci jest lepsza jeżeli czegoś praktycznie użyję, ewentualnie –
-zepsuję 😉. Ale kiedy zachodzi taka potrzeba, sięgam po instrukcję – i wtedy
-czytam ją od deski do deski.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="jakie-są-twoje-zainteresowania-związane-z-technologią-i-naukami-ścisłymi">Jakie są Twoje zainteresowania związane z technologią i naukami ścisłymi?<a href="https://techwriter.pl/kilka-pytan-do-czesc-31#jakie-s%C4%85-twoje-zainteresowania-zwi%C4%85zane-z-technologi%C4%85-i-naukami-%C5%9Bcis%C5%82ymi" class="hash-link" aria-label="Bezpośredni link do Jakie są Twoje zainteresowania związane z technologią i naukami ścisłymi?" title="Bezpośredni link do Jakie są Twoje zainteresowania związane z technologią i naukami ścisłymi?" translate="no">​</a></h3>
-<p>Zawsze fascynowała mnie nauka, tematy astronomiczne i inżynierskie, to jak coś
-jest skonstruowane, rodzaje silników samochodowych i tym podobne. Lubię czytać
-ciekawe artykuły o fizyce kwantowej i innych naukowych tematach, zwłaszcza w
-<a href="https://www.newscientist.com/" target="_blank" rel="noopener noreferrer" class="">New Scientist</a>. To mnie odpręża i sprawia, że
-mój umysł pozostaje ciekawy świata.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="dobrostan">Dobrostan<a href="https://techwriter.pl/kilka-pytan-do-czesc-31#dobrostan" class="hash-link" aria-label="Bezpośredni link do Dobrostan" title="Bezpośredni link do Dobrostan" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="jak-zachować-spokój-ducha-i-szeroki-uśmiech-jako-technical-writer-jak-osiągnąć-zen">Jak zachować spokój ducha i szeroki uśmiech jako technical writer? Jak osiągnąć zen?<a href="https://techwriter.pl/kilka-pytan-do-czesc-31#jak-zachowa%C4%87-spok%C3%B3j-ducha-i-szeroki-u%C5%9Bmiech-jako-technical-writer-jak-osi%C4%85gn%C4%85%C4%87-zen" class="hash-link" aria-label="Bezpośredni link do Jak zachować spokój ducha i szeroki uśmiech jako technical writer? Jak osiągnąć zen?" title="Bezpośredni link do Jak zachować spokój ducha i szeroki uśmiech jako technical writer? Jak osiągnąć zen?" translate="no">​</a></h3>
-<p>Czasami pomaga mi w tym zmiana zadania. Jeżeli czuję zastój, staram się skupić
-na innej jego części, takiej, która sprawia mi przyjemność lub pozwoli na szybki
-i namacalny sukces. Ważne jest też, żeby nie zawsze starać się zrobić na raz
-100% wszystkiego, co jest do zrobienia. Po wypuszczeniu materiału może być coś
-do poprawienia – i to jest ok. Lepiej opracować coś, co jest w 80–90% gotowe i
-wprowadzić poprawki później niż uparcie walczyć o perfekcję.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="każdy-ma-lepsze-i-gorsze-dni-czy-masz-jakieś-spostrzeżenia-na-temat-tego-co-można-zrobić-aby-czuć-się-lepiej-w-pracy-a-może-są-rzeczy-których-warto-unikać">Każdy ma lepsze i gorsze dni. Czy masz jakieś spostrzeżenia na temat tego, co można zrobić, aby czuć się lepiej w pracy? A może są rzeczy, których warto unikać?<a href="https://techwriter.pl/kilka-pytan-do-czesc-31#ka%C5%BCdy-ma-lepsze-i-gorsze-dni-czy-masz-jakie%C5%9B-spostrze%C5%BCenia-na-temat-tego-co-mo%C5%BCna-zrobi%C4%87-aby-czu%C4%87-si%C4%99-lepiej-w-pracy-a-mo%C5%BCe-s%C4%85-rzeczy-kt%C3%B3rych-warto-unika%C4%87" class="hash-link" aria-label="Bezpośredni link do Każdy ma lepsze i gorsze dni. Czy masz jakieś spostrzeżenia na temat tego, co można zrobić, aby czuć się lepiej w pracy? A może są rzeczy, których warto unikać?" title="Bezpośredni link do Każdy ma lepsze i gorsze dni. Czy masz jakieś spostrzeżenia na temat tego, co można zrobić, aby czuć się lepiej w pracy? A może są rzeczy, których warto unikać?" translate="no">​</a></h3>
-<p>Gdy mierzę się z zadaniem, które mnie przytłacza, pomaga mi czasami fakt, że są
-zawsze inne zadania do wyboru. Zastój pisarski to realna rzecz. Czasem lubię na
-chwilę takie uporczywie trudne zadanie odstawić na bok i zająć się czymś co
-sprawia mi przyjemność, jak na przykład praca nad grafikami lub procesem
-importowania treści. Bawienie się technikami lub rzeczami, które nie są w danej
-chwili obowiązkiem, odciąża umysł. Choć przez chwilę nie czuję presji czasu, co
-uspokaja mnie i po jakimś czasie kontynuuję wcześniej rozpoczęty wątek z nową
-energią.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="to-co-mówisz-uzmysławia-że-dokumentacja-jest-iteracyjna">To, co mówisz uzmysławia, że dokumentacja jest iteracyjna.<a href="https://techwriter.pl/kilka-pytan-do-czesc-31#to-co-m%C3%B3wisz-uzmys%C5%82awia-%C5%BCe-dokumentacja-jest-iteracyjna" class="hash-link" aria-label="Bezpośredni link do To, co mówisz uzmysławia, że dokumentacja jest iteracyjna." title="Bezpośredni link do To, co mówisz uzmysławia, że dokumentacja jest iteracyjna." translate="no">​</a></h3>
-<p>Jest jakieś prawo, które mówi, że ostatnie 10% doskonalenia materiału może zająć
-90% czasu. To jest tzw. dopieszczanie szczegółów. Tam, gdzie 10–20% twoich
-wysiłków generuje 80% zysku, reszta jest mniej ważna. Skupienie się na
-kluczowych sprawach jest istotne. <em>[Chodzi o
-<a href="https://pl.wikipedia.org/wiki/Zasada_Pareta" target="_blank" rel="noopener noreferrer" class="">zasadę Pareta</a>]</em>. Czasem dobrze
-jest zostawić coś do późniejszego ulepszenia. Warto działać perspektywicznie w
-ramach zespołu.</p>
-<p>Myślę, że reguły obowiązujące w technical writingu można wytropić nawet w
-sporcie. Najlepsi sportowcy walczą o dziesiąte i setne sekundy, a wysiłek, który
-wkładają w to by je zdobyć, to lata ciężkiej pracy.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="tak-są-to-lata-ciężkiej-pracy-ale-nie-każdego-dnia-każdy-sportowiec-dokonuje-maksymalnego-wysiłku-rozkładają-to-tak-że-ćwiczą-też-na-średnim-poziomie-intensywności-i-odpoczywają-by-zrobić-coś-dużego-na-samym-końcu-czasami-myślimy-tylko-o-momentach-maksymalnego-wysiłku-ale-by-do-tego-doszło-trzeba-też-trenować-na-niskiej-intensywności-i-realnie-odpoczywać">Tak, są to lata ciężkiej pracy, ale nie każdego dnia każdy sportowiec dokonuje maksymalnego wysiłku. Rozkładają to tak, że ćwiczą też na średnim poziomie intensywności i odpoczywają, by zrobić coś dużego na samym końcu. Czasami myślimy tylko o momentach maksymalnego wysiłku, ale by do tego doszło, trzeba też trenować na niskiej intensywności i realnie odpoczywać.<a href="https://techwriter.pl/kilka-pytan-do-czesc-31#tak-s%C4%85-to-lata-ci%C4%99%C5%BCkiej-pracy-ale-nie-ka%C5%BCdego-dnia-ka%C5%BCdy-sportowiec-dokonuje-maksymalnego-wysi%C5%82ku-rozk%C5%82adaj%C4%85-to-tak-%C5%BCe-%C4%87wicz%C4%85-te%C5%BC-na-%C5%9Brednim-poziomie-intensywno%C5%9Bci-i-odpoczywaj%C4%85-by-zrobi%C4%87-co%C5%9B-du%C5%BCego-na-samym-ko%C5%84cu-czasami-my%C5%9Blimy-tylko-o-momentach-maksymalnego-wysi%C5%82ku-ale-by-do-tego-dosz%C5%82o-trzeba-te%C5%BC-trenowa%C4%87-na-niskiej-intensywno%C5%9Bci-i-realnie-odpoczywa%C4%87" class="hash-link" aria-label="Bezpośredni link do Tak, są to lata ciężkiej pracy, ale nie każdego dnia każdy sportowiec dokonuje maksymalnego wysiłku. Rozkładają to tak, że ćwiczą też na średnim poziomie intensywności i odpoczywają, by zrobić coś dużego na samym końcu. Czasami myślimy tylko o momentach maksymalnego wysiłku, ale by do tego doszło, trzeba też trenować na niskiej intensywności i realnie odpoczywać." title="Bezpośredni link do Tak, są to lata ciężkiej pracy, ale nie każdego dnia każdy sportowiec dokonuje maksymalnego wysiłku. Rozkładają to tak, że ćwiczą też na średnim poziomie intensywności i odpoczywają, by zrobić coś dużego na samym końcu. Czasami myślimy tylko o momentach maksymalnego wysiłku, ale by do tego doszło, trzeba też trenować na niskiej intensywności i realnie odpoczywać." translate="no">​</a></h3>
-<p>Warto myśleć długoterminowo. Nie jest to łatwe i może być to nawet wbrew naszej
-naturze, bo skupiamy się na tym, co się dzieje w danej chwili – ale widzenie
-dłuższej perspektywy pomaga.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="wskazówki-dla-początkujących">Wskazówki dla początkujących<a href="https://techwriter.pl/kilka-pytan-do-czesc-31#wskaz%C3%B3wki-dla-pocz%C4%85tkuj%C4%85cych" class="hash-link" aria-label="Bezpośredni link do Wskazówki dla początkujących" title="Bezpośredni link do Wskazówki dla początkujących" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="co-możesz-poradzić-osobom-które-chciałyby-zacząć-przygodę-z-pisaniem-dokumentacji">Co możesz poradzić osobom, które chciałyby zacząć przygodę z pisaniem dokumentacji?<a href="https://techwriter.pl/kilka-pytan-do-czesc-31#co-mo%C5%BCesz-poradzi%C4%87-osobom-kt%C3%B3re-chcia%C5%82yby-zacz%C4%85%C4%87-przygod%C4%99-z-pisaniem-dokumentacji" class="hash-link" aria-label="Bezpośredni link do Co możesz poradzić osobom, które chciałyby zacząć przygodę z pisaniem dokumentacji?" title="Bezpośredni link do Co możesz poradzić osobom, które chciałyby zacząć przygodę z pisaniem dokumentacji?" translate="no">​</a></h3>
-<p>Poleciłbym zaznajomienie się ze standardami, style guidami (podręcznikami
-stylu), pracą na szablonach, zmierzenie się z opisaniem jakiegoś tematu
-technicznego i wtedy udostępnienie rezultatów tej pracy.</p>
-<p>Przy rekrutacjach w dziedzinach
-<a href="https://semcore.pl/ux-writing-poradnik/#Co_to_jest_i_na_czym_polega_UX_writing" target="_blank" rel="noopener noreferrer" class="">UX writingu</a>
-i
-<a href="https://coderslab.pl/pl/blog/kim-jest-ux-designer-i-jak-wyglada-jego-praca" target="_blank" rel="noopener noreferrer" class="">UX designu</a>
-zauważyłem, że trzeba mieć portfolio, żeby w ogóle zacząć rozmowę. W technical
-writingu nie spotykam się z tym zbyt często, a zazwyczaj brakuje takiej próbki
-pokazującej jak ktoś myśli, jaki ma styl pracy i jak podchodzi do opracowywania
-dokumentacji.</p>
-<p>Polecam spróbować własnych sił i umieścić próbki w Internecie (np. na
-<a href="https://github.com/" target="_blank" rel="noopener noreferrer" class="">GitHubie</a> albo własnej stronie internetowej), żeby pokazać
-swoją znajomość technologii, udostępnić tę pracę i się nią pochwalić. To dobry
-pierwszy krok i nie warto obawiać się tego, że np. nie jesteś po anglistyce.
-Znam wiele osób w branży z różnym wykształceniem takim jak biologia czy
-teatroznawstwo. Jeśli Cię to ciekawi, to warto spróbować i przekonać się, jak
-się w tym czujesz.</p>
-<p>Praca technical writera w dużym stopniu opiera się na kontakcie z ludźmi. Warto
-też zaangażować się w jakieś środowiska techwriterskie lub inżynierskie, gdzie
-można spróbować sił w komunikacji i wydobywaniu informacji, z których później
-realnie się korzysta. Warto zwrócić uwagę na spotkania typu hackathony czy
-wszelakie meet-upy, gdzie można poznać dużo nowych osób o podobnych
-zainteresowaniach i osłuchać się z językiem technicznym w praktyce.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="ostatnie-pytanie">Ostatnie pytanie<a href="https://techwriter.pl/kilka-pytan-do-czesc-31#ostatnie-pytanie" class="hash-link" aria-label="Bezpośredni link do Ostatnie pytanie" title="Bezpośredni link do Ostatnie pytanie" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="pytanie-na-zakończenie-czy-w-hitachi-energy-masz-miejsce-na-rozwój-zawodowy">Pytanie na zakończenie: czy w Hitachi Energy masz miejsce na rozwój zawodowy?<a href="https://techwriter.pl/kilka-pytan-do-czesc-31#pytanie-na-zako%C5%84czenie-czy-w-hitachi-energy-masz-miejsce-na-rozw%C3%B3j-zawodowy" class="hash-link" aria-label="Bezpośredni link do Pytanie na zakończenie: czy w Hitachi Energy masz miejsce na rozwój zawodowy?" title="Bezpośredni link do Pytanie na zakończenie: czy w Hitachi Energy masz miejsce na rozwój zawodowy?" translate="no">​</a></h3>
-<p>Zdecydowanie tak! Cenię w tej firmie to, że motywuje się w niej pracowników do
-rozwoju i podejmowania nowych wyzwań. Organizowana jest duża liczba szkoleń,
-rozwijających umiejętności zarówno techniczne, jak i miękkie. Mamy swobodę
-próbowania nowych rozwiązań i brania na siebie większej odpowiedzialności. Takie
-zaangażowanie nie pozostaje niedostrzeżone, czego jestem chyba dobrym
-przykładem. Mogę oficjalnie się tym samym pochwalić, że w styczniu 2025 roku
-awansowałem z Senior Technical Writera na Chief Software Technical Writera
-(głównego specjalistę ds. dokumentacji technicznej oprogramowania) na poziomie
-Principal Technical Writera.</p>
-<p><strong>Gratuluję zasłużonego awansu! I dziękuję Ci za podzielenie się Twoimi
-przemyśleniami.</strong></p>]]></content:encoded>
-            <category>warsztat</category>
-            <category>wywiady</category>
-            <category>kariera</category>
-            <category>praca</category>
         </item>
     </channel>
 </rss>
