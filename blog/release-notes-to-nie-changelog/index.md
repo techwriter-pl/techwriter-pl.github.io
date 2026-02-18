@@ -74,7 +74,7 @@ W wielu produktach jest taka potrzeba, aby przygotowywać changelog, który trak
 
 ## Co warto zapamiętać?
 
-Choć release notes i changelog często są błędnie stosowane jak synonimy, w rzeczywistości nie są tym samym typem dokumentacji. Oba formaty służą do komunikowania zmian w produkcie, ale realizują ten cel w inny sposób i dla różnych odbiorców. 
+Choć release notes i changelog często są błędnie traktowane jak synonimy, w rzeczywistości nie są tym samym typem dokumentacji. Oba formaty służą do komunikowania zmian w produkcie, ale realizują ten cel w inny sposób i są przeznaczone dla różnych odbiorców. 
 
 Changelog przedstawia wprowadzone zmiany w krótki i bardzo techniczny sposób. Jest niezbędny dla programistów, administratorów i zaawansowanych użytkowników, którzy chcą wiedzieć co i kiedy zostało zmodyfikowane.
 
