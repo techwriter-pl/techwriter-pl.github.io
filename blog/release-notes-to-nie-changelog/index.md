@@ -6,7 +6,7 @@ tags:
   - 'warsztat'
   - 'praca'
   - 'release-notes'
-coverImage: 'release-notes-to-nie-changelog.png'
+coverImage: 'release-notes-to-nie-changelog.png.png'
 ---
 
 Release notes i changelog to nie to samo. Choć wielu myli te pojęcia, to dwa odrębne dokumenty, które spełniają oddzielne cele.
