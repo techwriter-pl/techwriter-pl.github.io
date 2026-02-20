@@ -17,9 +17,18 @@ A jednak w prostych zadaniach tkwi czasami potencjał - tym bardziej, że rzeczy
 
 ## Dorzucamy do garów
 
-Każdy biznes jest inny i każdy produkt jest inny, a za tym idzie specyficzny jest cykl rozwoju tegoż produktu. W firmach, w których release notes są tworzone w określonych interwałach czasowych (np. w releasach czy sprintach), zespoły programistyczne i/lub produktowe umieszczają opis zmian w jednym lub kilku określonych miejscach. Częstym przykładem jest umieszczanie krótkiego opisu na Confluence, podczas gdy szczegóły techniczne znajdują się w tickecie na Jirze. Z tych źródeł pobiera je techwriter. Czasami robi to w określonym procedurami momencie, a czasami na bieżąco zerka i jednocześnie konsultuje nieoczywiste detale z SME (czyli subject matter expertami). Proces jest rozłożony w czasie - ot, taki slow food. A ponieważ programiści rzadko bywają mistrzami słowa, treści przez nich dostarczane wymagają upraszczania, korekty, przełożenia z technicznego na ludzkie, dołączenia kilku zrzutów ekranu dla lepszego zwizualizowania zmian itd. 
+Każdy biznes jest inny i każdy produkt jest inny, a za tym idzie specyficzny jest cykl rozwoju tegoż produktu. W firmach, w których release notes są tworzone w określonych interwałach czasowych (np. w releasach czy sprintach), zespoły programistyczne i/lub produktowe umieszczają opis zmian w jednym lub kilku określonych miejscach. Częstym przykładem jest umieszczanie krótkiego opisu na Confluence, podczas gdy szczegóły techniczne znajdują się w tickecie na Jirze. Z tych źródeł pobiera je technical writer. Czasami robi to w określonym procedurami momencie, a czasami na bieżąco zerka i jednocześnie konsultuje nieoczywiste detale z SME (czyli subject matter expertami). Proces jest rozłożony w czasie - ot, taki slow food. A ponieważ programiści rzadko bywają mistrzami słowa, treści przez nich dostarczane wymagają upraszczania, korekty, przełożenia z technicznego na ludzkie, dołączenia kilku zrzutów ekranu dla lepszego zwizualizowania zmian itd. 
 
-Inaczej sytuacja wygląda w przypadku, kiedy oprogramowanie jest tworzone zgodnie z metodyką DevOps. Jeśli zmiany w produkcie są wykonywane w trybie Continuous Integration (CI) i Continuous Delivery (CD), release notes często są generowane automatycznie. Bywa, że jest to po prostu rejestr zmian (change log) bazujący na opisach commitów do repozytorium. Techwriter często w ogóle nie ma dostępu do tego kociołka - tym bardziej, że deployment w takich przypadkach ma miejsce nawet kilka razy na dobę o różnych porach. Warto jednak pamiętać, że duża część commitów to drobne zmiany techniczne, które nie mają żadnego wpływu na to, co widzi końcowy użytkownik. O ile dokumentowanie dużych “ficzerów” zawsze ma sens, o tyle poświęcanie czasu i uwagi notatkom typu “Klasa została napisana od nowa w celu poprawy wydajności” jest już dyskusyjne. Nie brnij w to i nie dziel włosa na czworo. Ewentualnie możesz w dokumencie wydzielić specjalny podrozdział, w którym wspomnisz np. o aktualizacjach bibliotek i innych technikaliach. 
+Inaczej sytuacja wygląda w przypadku, kiedy oprogramowanie jest tworzone zgodnie z metodyką DevOps. Jeśli zmiany w produkcie są wykonywane w trybie Continuous Integration (CI) i Continuous Delivery (CD), release notes często są generowane automatycznie. Bywa, że jest to po prostu rejestr zmian (changelog) bazujący na opisach commitów do repozytorium. Technical writer często w ogóle nie ma dostępu do tego kociołka - tym bardziej, że deployment w takich przypadkach ma miejsce nawet kilka razy na dobę o różnych porach. 
+
+::: tip Podpowiedź
+
+Po więcej szczegółów koniecznie zajrzyj do [artykułu Magdy Żaczek](https://techwriter.pl/release-notes-to-nie-changelog) o różnicach między release notes i changelogiem - te dwa dokumenty są blisko spokrewnione, ale skierowane do różnych grup odbiorców.
+
+:::
+
+
+Warto jednak pamiętać, że duża część commitów to drobne zmiany techniczne, które nie mają żadnego wpływu na to, co widzi końcowy użytkownik. O ile dokumentowanie dużych “ficzerów” zawsze ma sens, o tyle poświęcanie czasu i uwagi notatkom typu “Klasa została napisana od nowa w celu poprawy wydajności” jest już dyskusyjne. Nie brnij w to i nie dziel włosa na czworo. Ewentualnie możesz w dokumencie wydzielić specjalny podrozdział, w którym wspomnisz np. o aktualizacjach bibliotek i innych technikaliach. 
 
 :::tip Podpowiedź
 
@@ -33,7 +42,11 @@ A jeśli nie dokumentujesz zmian w oprogramowaniu czy konfiguracji sprzętu, tyl
 
 Znając produkt i cykl jego powstawania, a także grupę lub grupy docelowe, wiemy, jakie zmiany powinniśmy opisać i jak szczegółowo. Warto też pamiętać o sprecyzowaniu, w jaki sposób wpływa ona na użytkownika końcowego (np. czy będzie widoczna w interfejsie).
 
-> Podpowiedź: Bywa, że deweloperzy jako materiał wyjściowy do stworzenia release notes dostarczają techwriterom user stories, znane z metodyk zwinnych (Given When Then). Taki materiał bywa pomocny w zrozumieniu opisywanej modyfikacji czy funkcjonalności, ale nie może być jej bazą. W release notach kluczowa jest charakterystyka zmiany, ale nie jej uzasadnienie biznesowe czy wytyczne dla zespołu deweloperskiego.
+:::tip Podpowiedź
+
+Bywa, że deweloperzy jako materiał wyjściowy do stworzenia release notes dostarczają technical writerom user stories, znane z metodyk zwinnych (Given When Then, czyli punkt wyjścia, zakres pracy, oczekiwany rezultat). Taki materiał bywa pomocny w zrozumieniu opisywanej modyfikacji czy funkcjonalności, ale nie może być jej bazą. W release notach kluczowa jest charakterystyka zmiany, ale nie jej uzasadnienie biznesowe czy wytyczne dla zespołu deweloperskiego.
+
+:::
 
 Jeśli jesteś juniorem i nie masz pewności, czy aby na pewno niczego nie pominąłeś/pominęłaś podczas pisania, pamiętaj o:
 
