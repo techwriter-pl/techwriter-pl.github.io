@@ -54,6 +54,67 @@ Często release notes są wzbogacone o elementy wizualne, takie jak zrzuty ekran
             <category>release-notes</category>
         </item>
         <item>
+            <title><![CDATA[Release notes - co dziś serwuje kuchnia?]]></title>
+            <link>https://techwriter.pl/release-notes-co-dzis-serwuje-kuchnia</link>
+            <guid>https://techwriter.pl/release-notes-co-dzis-serwuje-kuchnia</guid>
+            <pubDate>Mon, 16 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Dla doświadczonego pisarza technicznego stworzenie release notes (czyli - spolszczając - not wydania) nie jest wielkim wyzwaniem. Tym bardziej, że jest to jeden ze standardowych typów dokumentacji, wymienianych kiedyś przez syllabus nieistniejącego już ITCQF®.]]></description>
+            <content:encoded><![CDATA[<p>Dla doświadczonego pisarza technicznego stworzenie release notes (czyli - spolszczając - not wydania) nie jest wielkim wyzwaniem. Tym bardziej, że jest to jeden ze standardowych typów dokumentacji, wymienianych kiedyś przez syllabus nieistniejącego już ITCQF®.</p>
+<p>O czym tu więc mówić, czego jeszcze nie powiedziano? Jest produkt, są poprawki, łatki bezpieczeństwa, nowe wersje i funkcjonalności lub zmiany w istniejących funkcjonalnościach. I są klienci (wewnętrzni lub zewnętrzni), których o tym informujemy. W zależności od grupy docelowej opisujemy i pokazujemy zmiany mniej lub bardziej szczegółowo, ale zawsze zgodnie z tradycyjnymi kanonami sztuki techwriterskiej, czyli konkretnie, prosto, bez fajerwerków. Łatwe, oczywiste - zwłaszcza jeśli robi się to po raz 1158 😉</p>
+<p>A jednak w prostych zadaniach tkwi czasami potencjał - tym bardziej, że rzeczywistość nie stoi w miejscu. Zmienia się zarówno podejście do tworzenia oprogramowania, jak i podejście do tworzenia samej dokumentacji. Pojawia się więc również potencjał do psucia 😉 Zobacz, jak wygląda proces tworzenia release notes oraz w jakie pułapki możesz wpaść na etapach pisania i dystrybucji takiego dokumentu. Dla ułatwienia uciekam się w tekście do analogii wprost z kuchni.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="dorzucamy-do-garów">Dorzucamy do garów<a href="https://techwriter.pl/release-notes-co-dzis-serwuje-kuchnia#dorzucamy-do-gar%C3%B3w" class="hash-link" aria-label="Bezpośredni link do Dorzucamy do garów" title="Bezpośredni link do Dorzucamy do garów" translate="no">​</a></h2>
+<p>Każdy biznes jest inny i każdy produkt jest inny, co powoduje, że cykl rozwoju tegoż produktu jest specyficzny dla danej organizacji. W firmach, w których release notes są tworzone w określonych interwałach czasowych (np. w releasach czy sprintach), zespoły programistyczne i/lub produktowe umieszczają opis zmian w jednym lub kilku określonych miejscach. Częstym przykładem jest umieszczanie krótkiego opisu na Confluence, podczas gdy szczegóły techniczne znajdują się w tickecie na Jirze. Z tych źródeł pobiera je technical writer. Czasami robi to w określonym procedurami momencie, a czasami na bieżąco zerka i jednocześnie konsultuje nieoczywiste detale z SME (czyli subject matter expertami). Proces jest rozłożony w czasie - ot, taki slow food. A ponieważ programiści rzadko bywają mistrzami słowa, treści przez nich dostarczane wymagają upraszczania, korekty, przełożenia z technicznego na ludzkie, dołączenia kilku zrzutów ekranu dla lepszego zwizualizowania zmian itd.</p>
+<p>Inaczej sytuacja wygląda w przypadku, kiedy oprogramowanie jest tworzone zgodnie z metodyką DevOps. Jeśli zmiany w produkcie są wykonywane w trybie Continuous Integration (CI) i Continuous Delivery (CD), release notes często są generowane automatycznie. Bywa, że jest to po prostu rejestr zmian (changelog) bazujący na opisach commitów do repozytorium. Technical writer często w ogóle nie ma dostępu do tego kociołka - tym bardziej, że deployment w takich przypadkach ma miejsce nawet kilka razy na dobę o różnych porach.</p>
+<p>::: tip Podpowiedź</p>
+<p>Po więcej szczegółów koniecznie zajrzyj do <a href="https://techwriter.pl/release-notes-to-nie-changelog" target="_blank" rel="noopener noreferrer" class="">artykułu Magdy Żaczek</a> o różnicach między release notes i changelogiem - te dwa dokumenty są blisko spokrewnione, ale skierowane do różnych grup odbiorców.</p>
+<p>:::</p>
+<p>Warto jednak pamiętać, że duża część commitów to drobne zmiany techniczne, które nie mają żadnego wpływu na to, co widzi końcowy użytkownik. O ile dokumentowanie dużych “ficzerów” zawsze ma sens, o tyle poświęcanie czasu i uwagi notatkom typu “Klasa została napisana od nowa w celu poprawy wydajności” jest już dyskusyjne. Nie brnij w to i nie dziel włosa na czworo. Ewentualnie możesz w dokumencie wydzielić specjalny podrozdział, w którym wspomnisz np. o aktualizacjach bibliotek i innych technikaliach.</p>
+<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>Podpowiedź</div><div class="admonitionContent_BuS1"><p>Jeśli użytkownicy, do których adresujesz opis, są bardzo “techniczni” i naprawdę chcą wiedzieć o każdej najmniejszej zmianie, rozważ udostępnienie im historii commitów (bezpośrednio lub skopiuj dziennik git do pliku tekstowego lub strony internetowej).</p></div></div>
+<p>A jeśli nie dokumentujesz zmian w oprogramowaniu czy konfiguracji sprzętu, tylko w API? Tu sytuacja wydaje się być podobna jak w przypadku rejestru zmian. Nie zawsze jednak tak jest - wprawdzie opis zmian w API będzie dość techniczny i operuje specjalistycznymi danymi, co oznacza tyle, że adresujemy go do innej grupy docelowej. API nie modyfikuje się przecież często, dlatego jest to coś wartego opisania.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="w-garach-bulgoce">W garach bulgoce<a href="https://techwriter.pl/release-notes-co-dzis-serwuje-kuchnia#w-garach-bulgoce" class="hash-link" aria-label="Bezpośredni link do W garach bulgoce" title="Bezpośredni link do W garach bulgoce" translate="no">​</a></h3>
+<p>Znając produkt i cykl jego powstawania, a także grupę lub grupy docelowe, wiemy, jakie zmiany powinniśmy opisać i jak szczegółowo. Warto też pamiętać o sprecyzowaniu, w jaki sposób wpływa ona na użytkownika końcowego (np. czy będzie widoczna w interfejsie).</p>
+<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>Podpowiedź</div><div class="admonitionContent_BuS1"><p>Bywa, że deweloperzy jako materiał wyjściowy do stworzenia release notes dostarczają technical writerom user stories, znane z metodyk zwinnych (Given When Then, czyli punkt wyjścia, zakres pracy, oczekiwany rezultat). Taki materiał bywa pomocny w zrozumieniu opisywanej modyfikacji czy funkcjonalności, ale nie może być jej bazą. W release notach kluczowa jest charakterystyka zmiany, ale nie jej uzasadnienie biznesowe czy wytyczne dla zespołu deweloperskiego.</p></div></div>
+<p>Jeśli jesteś juniorem i nie masz pewności, czy aby na pewno niczego nie pominąłeś/pominęłaś podczas pisania, pamiętaj o:</p>
+<ul>
+<li class="">wymogach style guide, jeśli z takowego korzystasz</li>
+<li class="">peer review, które pomoże wyeliminować najgłupsze błędy, literówki, potknięcia gramatyczne (możesz się też posłużyć narzędziami AI)</li>
+<li class="">sprawdzeniu całości przez SME lub product ownera tuż przed publikacją (zwłaszcza, jeśli nie znasz dobrze dokumentowanego produktu)</li>
+<li class="">wersjonowaniu i datowaniu.</li>
+</ul>
+<p>Jeśli grup odbiorców jest kilka, po stworzeniu dokumentu może nastąpić etap “klonowania”, czyli dostosowywania wersji podstawowej do konkretnych wymogów, a także produkcji treści w różnych formatach wynikowych (docx, html, pdf, md). Tu znowu warto odpowiedzieć sobie na kilka pytań. Czy noty są czytane przez użytkowników końcowych? Może są materiałem pomocniczym dla pracowników działu sprzedaży lub marketingu w firmie? Może jest to rodzaj FYI dla wewnętrznych interesariuszy? A może - zdarza się i tak - po prostu leżą w (wirtualnym) kącie i zbierają kurz, a my dokopujemy się do nich raz na jakiś czas, śledząc cykl rozwoju jakiejś funkcjonalności?</p>
+<p>A sam proces dystrybucji? Czy umieszczasz release notes w intranecie, w chmurze, rozsyłasz do interesariuszy mailem, dajesz znać użytkownikom powiadomieniem push, wrzucasz informację, która otwiera się automatycznie po aktualizacji oprogramowania? Czy wszystko działa w tym procesie jak trzeba? Czy wszystko się wyśle, umieści, dotrze? To są drobiazgi - ale jeśli coś w tym dominie się przewraca, potrafi nieźle zamieszać. Nie to, żeby ktoś na release notes szczególnie czekał i czytał je z zapartym tchem. A może znacie taki przypadek?</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="z-garów-na-stół">Z garów na stół<a href="https://techwriter.pl/release-notes-co-dzis-serwuje-kuchnia#z-gar%C3%B3w-na-st%C3%B3%C5%82" class="hash-link" aria-label="Bezpośredni link do Z garów na stół" title="Bezpośredni link do Z garów na stół" translate="no">​</a></h3>
+<p>I poszłoooooo! Zmiany już na produkcji, a techwriterska kuchnia serwuje świeżutkie noty wydania, mniej lub bardziej kreatywne. Słowo “kreatywne” pojawia się tu nieprzypadkowo. Release notes bardzo często są zwyczajnie nudne i aby je uatrakcyjnić, warto zdobyć się na coś więcej niż estetyczny, czytelny szablon. Popatrz, jak wyglądają one w przypadku znanych marek:</p>
+<p>Adobe Creative Cloud Desktop
+<img decoding="async" loading="lazy" alt="Adobe Creative Cloud Desktop" src="https://techwriter.pl/assets/images/rn_adobe-cf670e073747422307d210f0c22bcad7.png" width="1739" height="754" class="img_ev3q"></p>
+<p>Canva
+<img decoding="async" loading="lazy" alt="Canva" src="https://techwriter.pl/assets/images/rn_canva-bbfc643dc3fdefda10ad81d291285f66.png" width="1760" height="914" class="img_ev3q"></p>
+<p>Figma
+<img decoding="async" loading="lazy" alt="Figma" src="https://techwriter.pl/assets/images/rn_figma-76a26503056687fe998d6a87709b9e9a.png" width="1673" height="913" class="img_ev3q"></p>
+<p>Ikea - na szczęście nie musisz samodzielnie montować notek z załączonych części 😉
+<img decoding="async" loading="lazy" alt="Ikea" src="https://techwriter.pl/assets/images/rn_ikea-0c7701faa799b696ed2583085da30342.png" width="664" height="755" class="img_ev3q"></p>
+<p>Mozilla Firefox
+<img decoding="async" loading="lazy" alt="Mozilla Firefox" src="https://techwriter.pl/assets/images/rn_firefox-383a5356174e36e3503d604d4b7a5e37.png" width="1723" height="910" class="img_ev3q"></p>
+<p>Open AI
+<img decoding="async" loading="lazy" alt="Open AI" src="https://techwriter.pl/assets/images/rn_openAI-a0a151cc4c86713fd20d34af3799e9e2.png" width="1412" height="899" class="img_ev3q"></p>
+<p>Visual Studio Code
+<img decoding="async" loading="lazy" alt="Visual Studio Code" src="https://techwriter.pl/assets/images/rn_vscode-7ba1335117c32d036696fc3ef47efbfd.png" width="1442" height="921" class="img_ev3q"></p>
+<p>Notepad++
+<img decoding="async" loading="lazy" alt="Notepad++" src="https://techwriter.pl/assets/images/rn_notepad-889a226dd62336ee8f2f6c5824efaab7.png" width="1437" height="976" class="img_ev3q"></p>
+<p>Ta lista mogłaby nigdy się nie kończyć. Dodaj do niej swoje ulubione release notes i daj nam znać, czy znasz takie, które wyróżniają się na tle innych.</p>
+<p>Proces, który opisałam powyżej, sprawia wrażenie ręcznego i dość pracochłonnego. W rzeczywistości można go łatwo zautomatyzować, a fast food w tym przypadku nie musi oznaczać niejadalnej papki. Istnieją dziesiątki wtyczek i aplikacji, które wspierają tworzenie release notes i oszczędzają ci żmudnej roboty. Poznaj przykłady:</p>
+<ul>
+<li class=""><a href="https://marketplace.atlassian.com/apps/1223703/automated-release-notes" target="_blank" rel="noopener noreferrer" class="">wtyczka Atlassiana</a></li>
+<li class=""><a href="https://docs.github.com/en/repositories/releasing-projects-on-github/automatically-generated-release-notes" target="_blank" rel="noopener noreferrer" class="">Githubowe narzędzie</a> do automatycznego generowania release notes - bardzo podstawowe, po prostu “zasysa” listę kommitów i kompiluje do czegoś, co wygląda jak changelog.</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="mniam-mniam---podsumowanie">Mniam mniam - podsumowanie<a href="https://techwriter.pl/release-notes-co-dzis-serwuje-kuchnia#mniam-mniam---podsumowanie" class="hash-link" aria-label="Bezpośredni link do Mniam mniam - podsumowanie" title="Bezpośredni link do Mniam mniam - podsumowanie" translate="no">​</a></h3>
+<p>Informacje o zmianach i releasach są często niekochanym dzieckiem procesu tworzenia oprogramowania. Mam nadzieję, że po przeczytaniu powyższego tekstu doceniasz ich wartość - oraz własną, jeśli na co dzień je piszesz 🙂</p>
+<p><strong>Smacznego!</strong></p>]]></content:encoded>
+            <category>dobre-praktyki</category>
+            <category>release-notes</category>
+            <category>zarządzanie-treścią</category>
+        </item>
+        <item>
             <title><![CDATA[„Ciemność, widzę ciemność, ciemność widzę” - czyli jak poskromić linię komend]]></title>
             <link>https://techwriter.pl/linia-komend</link>
             <guid>https://techwriter.pl/linia-komend</guid>
@@ -3178,140 +3239,6 @@ thoughts.</strong></p>]]></content:encoded>
             <category>kariera</category>
             <category>praca</category>
             <category>articles-in-english</category>
-        </item>
-        <item>
-            <title><![CDATA[Kurde! Reuse popsuł mi searcha]]></title>
-            <link>https://techwriter.pl/reuse-zly-dla-searcha</link>
-            <guid>https://techwriter.pl/reuse-zly-dla-searcha</guid>
-            <pubDate>Mon, 07 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Reuse wydaje się być Świętym Graalem technical writingu, ale w tym artykule]]></description>
-            <content:encoded><![CDATA[<p>Reuse wydaje się być Świętym Graalem technical writingu, ale w tym artykule
-chciałbym pokazać, jak ta popularna praktyka może zepsuć wyniki wyszukiwania.</p>
-<p>Zacznijmy od początku.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="co-to-jest-reuse">Co to jest reuse?<a href="https://techwriter.pl/reuse-zly-dla-searcha#co-to-jest-reuse" class="hash-link" aria-label="Bezpośredni link do Co to jest reuse?" title="Bezpośredni link do Co to jest reuse?" translate="no">​</a></h2>
-<p>Reuse, ponowne użycie, lub reużycie, to praktyka pisania raz i używania w wielu
-miejscach. Stosuje się ją w programowaniu i tworzeniu treści, w tym treści
-technicznych. Technical writerzy ponownie używają bloki tekstu, artykuły, bądź
-strony.</p>
-<p>Na przykład, tworzymy dokumentację do pralek. Nasze pralki to 12 modeli, z
-których każdy ma od 5 do 30 funkcji. Podstawowe 5 funkcji jest dostępne w każdej
-pralce a pozostałe to misterna mozaika powtarzających się lub unikalnych funkcji
-w różnych wariantach. Dla każdego z 12 modeli musimy wydrukować książeczkę z
-instrukcjami. Używamy więc systemu, który pozwoli nam opisać każdą funkcję raz,
-a potem poskładać książeczki z kawałków treści jak z klocków. Każdy reusowany
-fragment to klocek tego samego typu.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="gdzie-się-sprawdza">Gdzie się sprawdza?<a href="https://techwriter.pl/reuse-zly-dla-searcha#gdzie-si%C4%99-sprawdza" class="hash-link" aria-label="Bezpośredni link do Gdzie się sprawdza?" title="Bezpośredni link do Gdzie się sprawdza?" translate="no">​</a></h2>
-<p>Takie rozwiązanie świetnie się sprawdza kiedy przygotowujemy książeczki do
-druku, bo każda z nich zawiera komplet informacji. Niczego w niej nie brakuje.
-Jednocześnie nie ma w niej informacji o funkcjach, które są niedostępne w naszym
-modelu pralki.</p>
-<p>Ten sposób publikacji jest tak powszechny, że wręcz niezauważalny dla
-użytkownika końcowego. Co wskazuje na to, że sprawdza się bardzo dobrze.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="dlaczego-psuje-wyszukiwanie">Dlaczego psuje wyszukiwanie?<a href="https://techwriter.pl/reuse-zly-dla-searcha#dlaczego-psuje-wyszukiwanie" class="hash-link" aria-label="Bezpośredni link do Dlaczego psuje wyszukiwanie?" title="Bezpośredni link do Dlaczego psuje wyszukiwanie?" translate="no">​</a></h2>
-<p>Wyobraźmy sobie, że instrukcje do pralek są teraz dostępne online. Zostały
-wrzucone na portal z dokumentacją jako podstrony. Każda książeczka ma nawigację
-po lewej i jest w pełni kompletnym mini portalem ze wszystkim, czego potrzebuje
-użytkownik danego modelu.</p>
-<p>Jeżeli jedną z podstawowych funkcji <strong>każdej</strong> pralki jest płukanie, to na
-naszym portalu mamy stronkę o płukaniu powtórzoną 12 razy. Jeżeli użytkownik
-wpisze w wyszukiwarkę "płukanie" to te 12 stron będzie konkurować o jego uwagę.</p>
-<p><img decoding="async" loading="lazy" alt="Strona z wynikami wyszukiwania. Od góry do dołu widać siedem kart z identycznym wynikiem wyszukiwania. Tytuł każdej karty to &amp;quot;płukanie&amp;quot; a pod spodem fragment pierwszych słów strony, taki sam na każdej karcie. Jedyne czym się różnią karty to wymieniony po tytule model pralki: M-1, MT-1146, itp." src="https://techwriter.pl/assets/images/search-plukanie-155afc6e6c227b11c5be4c5a9c89011c.png" width="740" height="416" class="img_ev3q"></p>
-<p>Być może oprócz strony o tytule "Płukanie" jest następna, na przykład "Problemy
-z płukaniem" albo "Kod błędu: płukanie", ale użytkownik ich tak łatwo nie
-znajdzie, bo będą dużo niżej albo nawet na drugiej czy trzeciej stronie z
-wynikami. Poza tym każda będzie w dwunastu kopiach.</p>
-<p>Więc w tym wypadku to, co dobre dla drukowania jest niedobre dla wyświetlania w
-internecie.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="jak-rozwiązać-ten-problem">Jak rozwiązać ten problem?<a href="https://techwriter.pl/reuse-zly-dla-searcha#jak-rozwi%C4%85za%C4%87-ten-problem" class="hash-link" aria-label="Bezpośredni link do Jak rozwiązać ten problem?" title="Bezpośredni link do Jak rozwiązać ten problem?" translate="no">​</a></h2>
-<p>Próbowałem znaleźć jakieś przykłady opisujące ten problem. Miałem nadzieję
-znaleźć jakieś pomysły na jego rozwiązanie. Niestety, nie udało mi się. Być może
-takie artykuły gdzieś istnieją, ale w moich wyszukiwaniach znajdowałem tylko
-reklamy narzędzi, które pomagają organizować reuse.</p>
-<p>W kolejnych sekcjach opisuję rozwiązania, które stosowałem do tej pory w swojej
-pracy. Do każdego dodaję komentarz wynikający z doświadczenia.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="publikowanie-strony-tylko-raz">Publikowanie strony tylko raz<a href="https://techwriter.pl/reuse-zly-dla-searcha#publikowanie-strony-tylko-raz" class="hash-link" aria-label="Bezpośredni link do Publikowanie strony tylko raz" title="Bezpośredni link do Publikowanie strony tylko raz" translate="no">​</a></h2>
-<p>Najprostsze rozwiązanie to opublikować każdą stronę tylko raz. Wtedy pojawi się
-ona w wynikach tylko jeden raz i będzie ją łatwiej spozycjonować. Poza tym
-użytkownik będzie miał mniej problemów z przeglądaniem wyników wyszukiwania.</p>
-<p>Ja osobiście widzę dwa sposoby na osiągnięcie tego celu. Przybliżę je na
-przykładzie dokumentów w formacie DITA, ale to samo odnosi się do innych
-generatorow stron statycznych.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="bez-reusu">Bez reusu<a href="https://techwriter.pl/reuse-zly-dla-searcha#bez-reusu" class="hash-link" aria-label="Bezpośredni link do Bez reusu" title="Bezpośredni link do Bez reusu" translate="no">​</a></h3>
-<p>Pierwszy to konstruować nasze dokumenty tak, żeby każda strona występowała w
-nich tylko raz. Jeżeli mamy wiele map DITA, które tworzą nasze rozliczne
-dokumenty, <strong>nie możemy powtarzać topików między mapami</strong>.</p>
-<p>Czyli tworzymy osobne mapy dla każdego PDFa i jedną mapę dla naszego portalu
-HTML. Jeżeli są jakieś elementy wspólne, na przykład nasza strona o płukaniu, to
-umieszczany ją w mapie dla HTMLa tylko raz. To oznacza, że opublikujemy jedną
-paczkę stron, która opisuje wszystkie możliwe funkcje wszystkich modeli pralek.
-Żeby pomóc użytkownikowi, na każdej stronie piszemy do których modeli pralek ta
-strona się odnosi.</p>
-<p>Taka forma publikacji może jednak czasem namieszać użytkownikowi w głowie. Może
-to efektywnie doprowadzić do takiej sytuacji jak drukowanie jednej instrukcji
-dla wszystkich modeli pralek i zaznaczanie przy każdej funkcji listy modeli, w
-których jest dostępna. Nie jest to idealne rozwiązanie, ale dosyć często
-spotykane w materiałach drukowanych.</p>
-<p>Skoro jesteśmy online, to możemy dać użytkownikowi przyciski z filtrami, które
-"ukryją" strony do "innych modeli". Ale to wymaga od naszych użytkowników
-głębokiej znajomości naszych produktów i eksperckiego podejścia do korzystania z
-naszej strony (power user!). A to z kolei nie jest coś, czego powinniśmy wymagać
-od naszych użytkowników.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="single-sourcing">Single sourcing<a href="https://techwriter.pl/reuse-zly-dla-searcha#single-sourcing" class="hash-link" aria-label="Bezpośredni link do Single sourcing" title="Bezpośredni link do Single sourcing" translate="no">​</a></h3>
-<p>Drugi to przetwarzać mapy DITA inaczej dla druku (PDF) a inaczej do internetu
-(HTML). Dla PDFa, powtarzamy tę stronę w każdej mapie, która jej potrzebuje. Z
-tego powstają oczywiście osobne PDFy i powtarzająca się strona nie przeszkadza
-użytkownikowi.</p>
-<p>Natomiast dla HTMLa używamy warunków w mapie, które nie powtarzają tej strony
-tylko umieszczają link do niej. Czyli wygenerujemy osobną paczkę stron dla
-każdego modelu, ale w żadnej paczce nie będzie naszej strony o płukaniu. Ta
-będzie w osobnej paczce zawierającej wszystkie funkcje wspólne.</p>
-<div class="language-xml codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-xml codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag" style="color:#00009f">topicref</span><span class="token tag" style="color:#00009f"> </span><span class="token tag attr-name" style="color:#00a4db">href</span><span class="token tag attr-value punctuation attr-equals" style="color:#393A34">=</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag attr-value" style="color:#e3116c">plukanie.dita</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag" style="color:#00009f"> </span><span class="token tag attr-name" style="color:#00a4db">platform</span><span class="token tag attr-value punctuation attr-equals" style="color:#393A34">=</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag attr-value" style="color:#e3116c">print</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag" style="color:#00009f"> </span><span class="token tag punctuation" style="color:#393A34">/&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag" style="color:#00009f">reltable</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag" style="color:#00009f">relheader</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag" style="color:#00009f">relcolspec</span><span class="token tag" style="color:#00009f"> </span><span class="token tag attr-name" style="color:#00a4db">type</span><span class="token tag attr-value punctuation attr-equals" style="color:#393A34">=</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag attr-value" style="color:#e3116c">task</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag punctuation" style="color:#393A34">/&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag" style="color:#00009f">relcolspec</span><span class="token tag" style="color:#00009f"> </span><span class="token tag attr-name" style="color:#00a4db">type</span><span class="token tag attr-value punctuation attr-equals" style="color:#393A34">=</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag attr-value" style="color:#e3116c">reference</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag punctuation" style="color:#393A34">/&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token tag punctuation" style="color:#393A34">&lt;/</span><span class="token tag" style="color:#00009f">relheader</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag" style="color:#00009f">relrow</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag" style="color:#00009f">relcell</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">      </span><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag" style="color:#00009f">topicref</span><span class="token tag" style="color:#00009f"> </span><span class="token tag attr-name" style="color:#00a4db">href</span><span class="token tag attr-value punctuation attr-equals" style="color:#393A34">=</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag attr-value" style="color:#e3116c">plukanie.dita</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag punctuation" style="color:#393A34">/&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token tag punctuation" style="color:#393A34">&lt;/</span><span class="token tag" style="color:#00009f">relcell</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag" style="color:#00009f">relcell</span><span class="token tag" style="color:#00009f"> </span><span class="token tag attr-name" style="color:#00a4db">linking</span><span class="token tag attr-value punctuation attr-equals" style="color:#393A34">=</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag attr-value" style="color:#e3116c">targetonly</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">      </span><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag" style="color:#00009f">topicref</span><span class="token tag" style="color:#00009f"> </span><span class="token tag attr-name" style="color:#00a4db">href</span><span class="token tag attr-value punctuation attr-equals" style="color:#393A34">=</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag attr-value" style="color:#e3116c">uzyteczne-linki.dita</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag punctuation" style="color:#393A34">/&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token tag punctuation" style="color:#393A34">&lt;/</span><span class="token tag" style="color:#00009f">relcell</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token tag punctuation" style="color:#393A34">&lt;/</span><span class="token tag" style="color:#00009f">relrow</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token tag punctuation" style="color:#393A34">&lt;/</span><span class="token tag" style="color:#00009f">reltable</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><br></span></code></pre></div></div>
-<p>To trochę karkołomne rozwiązanie, ale powinno zadziałać. W tym przykładzie,
-<code>topicref</code> kierujący do <code>plukanie.dita</code> pojawi się tylko jeśli akurat budujemy
-PDFa a nie pojawi się w HTMLu.</p>
-<p><code>reltable</code> i zawarty w niej atrybut <code>linking="targetonly"</code> sprawi, że na stronie
-"Użyteczne linki" pojawi się link do "Płukanie", ale nie odwrotnie.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="bonus-magiczna-technologia">BONUS: magiczna technologia<a href="https://techwriter.pl/reuse-zly-dla-searcha#bonus-magiczna-technologia" class="hash-link" aria-label="Bezpośredni link do BONUS: magiczna technologia" title="Bezpośredni link do BONUS: magiczna technologia" translate="no">​</a></h3>
-<p>Trzeci, magiczny sposób to użyć mechanizmu publikacji, który wykracza poza
-typowe generowanie stron statycznych. Nie możemy polegać na prostym
-transformowaniu mapy DITA na strony HTML. Zamiast tego musimy zbudować system,
-który w jakiś sposób posortuje z zdeduplikuje nasze strony.</p>
-<p>Taki system to nie lada wyzwanie i nie sądzę, żeby taki gdziekolwiek istniał.
-Przynajmniej ja takiego jeszcze nie widziałem, chociaż możliwe, że wkrótce
-rozpoczniemy nad nim pracę w moim obecnym zespole. Jeżeli to się uda, to
-postaram się podzielić ze światem naszym osiągnięciem.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="filtrowanie">Filtrowanie<a href="https://techwriter.pl/reuse-zly-dla-searcha#filtrowanie" class="hash-link" aria-label="Bezpośredni link do Filtrowanie" title="Bezpośredni link do Filtrowanie" translate="no">​</a></h2>
-<p>Jeśli nie możemy publikować stron tylko raz, kolejną najlepszą opcją jest
-filtrowanie. Dodajmy po lewej stronie panel z checkboxami i pozwólmy
-użytkownikowi wybrać, o której wersji pralki chce poczytać. To nie jest idealne
-rozwiązanie, bo o ile w wypadku pralki, użytkownik prawdopodobnie wie jaki model
-posiada, o tyle w bardziej skomplikowanych systemach wybory filtrów stają się
-trudniejsze. Może dojść do tego, że użytkownik nie będzie wiedział jaki
-"produkt" wybrać, ani co mamy na myśli rozróżniając "wersję" od "wydania". Albo
-czym się różni "komponent" od "części".</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="kolaps">Kolaps<a href="https://techwriter.pl/reuse-zly-dla-searcha#kolaps" class="hash-link" aria-label="Bezpośredni link do Kolaps" title="Bezpośredni link do Kolaps" translate="no">​</a></h2>
-<p>Ostatnie rozwiązanie, które widziałem w akcji, to zgrupowanie podobnych wyników.
-Czyli jeden wynik o tytule "Płukanie" a pod spodem zwijany akordeon z listą
-innych wersji strony o płukaniu.</p>
-<p><img decoding="async" loading="lazy" alt="Ekran ilustrujący powyższy paragraf: każdy wynik wyszukiwania ma po spodem zwijaną sekcję z napisem &amp;quot;podobne wyniki&amp;quot; a w niej listę stron o tym samym tytule, ale innej wersji" src="https://techwriter.pl/assets/images/search-zwijane-sekcje-821663743884b1651072d5929b91b0d6.png" width="740" height="416" class="img_ev3q"></p>
-<p>To rozwiązanie ma swoje słabe strony. na przykład to, że rozwijana sekcja może
-stać się bardzo długa i przez to mało pomocna. Jeżeli spróbujemy ją wyposażyć w
-jakieś kontrolki pozwalające wybrać model pralki, to znacznie zwiększymy jej
-poziom skomplikowania.</p>
-<p>Innym problemem jest to, że użytkownicy mogą nie zrozumieć co daje ta sekcja i
-jak jej powinni używać. Dla nas jest oczywiste, że są w niej wymienione
-wszystkie inne instancje tej samej strony w innych modelach pralki. Ale to co
-dla nas jest oczywiste wynika z tego, ze znamy strukturę własnej dokumentacji.</p>
-<p>Generalnie to rozwiązanie nie jest absolutnie najgorsze. Warto go spróbować i
-zebrać feedback od użytkowników.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="nie-ma-złotego-środka">Nie ma złotego środka<a href="https://techwriter.pl/reuse-zly-dla-searcha#nie-ma-z%C5%82otego-%C5%9Brodka" class="hash-link" aria-label="Bezpośredni link do Nie ma złotego środka" title="Bezpośredni link do Nie ma złotego środka" translate="no">​</a></h2>
-<p>Poradzenie sobie z tym problemem na pewno będzie wymagało głębokiej analizy i
-dostosowania się do wymagań użytkownika. Nie będziemy w stanie znaleźć
-uniwersalnego rozwiązania dla każdego zbioru dokumentacji. Więc jeżeli ktoś
-twierdzi, że ma uniwersalne rozwiązanie, podejdźmy do niego z odrobiną rezerwy.</p>]]></content:encoded>
-            <category>dobre-praktyki</category>
-            <category>pomoc-użytkownika</category>
-            <category>zarządzanie-treścią</category>
         </item>
     </channel>
 </rss>
