@@ -21,7 +21,7 @@ Każdy biznes jest inny i każdy produkt jest inny, co powoduje, że cykl rozwoj
 
 Inaczej sytuacja wygląda w przypadku, kiedy oprogramowanie jest tworzone zgodnie z metodyką DevOps. Jeśli zmiany w produkcie są wykonywane w trybie Continuous Integration (CI) i Continuous Delivery (CD), release notes często są generowane automatycznie. Bywa, że jest to po prostu rejestr zmian (changelog) bazujący na opisach commitów do repozytorium. Technical writer często w ogóle nie ma dostępu do tego kociołka - tym bardziej, że deployment w takich przypadkach ma miejsce nawet kilka razy na dobę o różnych porach. 
 
-::: tip Podpowiedź
+:::tip Podpowiedź
 
 Po więcej szczegółów koniecznie zajrzyj do [artykułu Magdy Żaczek](https://techwriter.pl/release-notes-to-nie-changelog) o różnicach między release notes i changelogiem - te dwa dokumenty są blisko spokrewnione, ale skierowane do różnych grup odbiorców.
 
