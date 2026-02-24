@@ -1,7 +1,7 @@
 ---
 title: 'Release notes - co dziś serwuje kuchnia?'
 authors: niedzwiecka
-date: '2026-02-16'
+date: '2026-02-23'
 tags:
   - 'dobre-praktyki'
   - 'release-notes'
@@ -99,3 +99,4 @@ Proces, który opisałam powyżej, sprawia wrażenie ręcznego i dość pracoch�
 Informacje o zmianach i releasach są często niekochanym dzieckiem procesu tworzenia oprogramowania. Mam nadzieję, że po przeczytaniu powyższego tekstu doceniasz ich wartość - oraz własną, jeśli na co dzień je piszesz 🙂
 
 **Smacznego!**
+
