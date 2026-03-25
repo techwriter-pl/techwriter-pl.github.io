@@ -209,4 +209,12 @@ export const conferences: Conference[] = [
     type: ['in-person'],
     link: 'https://leadingdesign.com/conferences/london-2026',
   },
+  {
+    title: 'Write The Docs Berlin',
+    startDate: new Date('6 September 2026'),
+    endDate: new Date('8 September 2026'),
+    location: 'Berlin, Niemcy',
+    type: ['in-person'],
+    link: 'https://www.writethedocs.org/conf/berlin/2026/',
+  },
 ];
