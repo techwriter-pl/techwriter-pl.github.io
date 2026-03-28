@@ -85,7 +85,6 @@ const config: Config = {
           label: 'English',
           position: 'right',
         },
-        { to: '/wydarzenia', label: 'Wydarzenia', position: 'right' },
         { to: '/konferencje', label: 'Konferencje', position: 'right' },
         { to: '/linki', label: 'Linki', position: 'right' },
         { to: '/szkolenia', label: 'Szkolenia', position: 'right' },
@@ -119,18 +118,6 @@ const config: Config = {
   } satisfies Preset.ThemeConfig,
   plugins: [
     techWriterWebpackPlugin,
-    [
-      '@docusaurus/plugin-content-blog',
-      {
-        id: 'wydarzenia',
-        routeBasePath: 'wydarzenia',
-        path: './wydarzenia',
-        authorsMapPath: '../blog/authors.yml',
-        blogListComponent:
-          '@site/src/components/EventsBlogList/EventsBlogList.tsx',
-        blogSidebarTitle: 'Wydarzenia',
-      },
-    ],
   ],
   themes: ['@docusaurus/theme-live-codeblock'],
 };

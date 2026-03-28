@@ -44,24 +44,6 @@ on setting up your environment, creating posts, and submitting pull requests.
   - Store additional images in an `images/` folder within your post's directory.
   - Provide proper attribution for external images.
 
-## Best Practices for Events (Wydarzenia)
-
-- **Folder Structure**: Each event should have its own folder under
-  `wydarzenia/`, named after the event's URL slug.
-- **File Naming**: Use `index.md` for the main content.
-- **Metadata**: Include metadata similar to blog posts, with additional fields
-  for event-specific details (e.g., date, location).
-  - **Date**: The `date` field in the metadata should reflect the date of the
-    event, not the publication date of the blog post.
-- **Content**:
-  - Highlight key details like date, time, location, and agenda.
-  - Use Markdown for formatting and structure.
-
-### Featuring Upcoming Events
-
-- Events with future dates will be featured prominently on the home page to
-  ensure visibility.
-
 ## Style Guidelines
 
 - **Headers**: Use Markdown headers to organize content. Start with `#` for the
