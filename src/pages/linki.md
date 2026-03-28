@@ -75,11 +75,17 @@
 
 ## Społeczności i fora
 
+[Content Bytes](https://contentbytes.pl/)
+: Meetupy w Krakowie skierowane do ludzi zainteresowanych dokumentacją, UX writingiem, dostępnością/accessibility, AI, storytellingiem i zarządzaniem.
+
+[MeetContent](https://meetcontent.github.io/)
+: Meetupy dla specjalistów od contentu we Wrocławiu i spotkania online po hiszpańsku! Coś dla tech writerów, pisarzy UI i UX, autorów szkoleń i projektantów graficznych.
+
 [Write the Docs](https://www.writethedocs.org/)
 : Globalna społeczność zrzeszająca ludzi związanych z branżą komunikacji technicznej, oferująca możliwość nawiązywania kontaktów branżowych online, jak i podczas corocznych konferencji odbywających się w różnych miejscach świata.
 
 [Reddit - Technical Writing](https://www.reddit.com/r/technicalwriting/) (oraz sekcja [Career FAQ](https://www.reddit.com/r/technicalwriting/comments/qh5i82/career_faqs_read_this_before_asking_about/)), [Reddit - Tech Writing](https://www.reddit.com/r/techwriting/), [Reddit - Documentation](https://www.reddit.com/r/documentation/)
-: Trzy fora dyskusyjne na platformie Reddit związane z poradami, stawianiem pierwszych kroków w branży i pomocą w poszukiwaniu pracy jako .
+: Trzy fora dyskusyjne na platformie Reddit związane z poradami, stawianiem pierwszych kroków w branży i pomocą w poszukiwaniu pracy jako tech writer.
 
 ## Podcasty
 
