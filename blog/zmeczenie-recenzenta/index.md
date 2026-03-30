@@ -1,5 +1,5 @@
 ---
-title: 'Sposoby by spojrzeć na dokument świeżym okiem - zmęczenie recenzenta'
+title: 'Spojrzeć na tekst świeżym okiem - jak pokonać zmęczenie recenzenta'
 authors: niewiarowski
 date: '2025-06-21'
 tags:
@@ -7,7 +7,10 @@ tags:
 coverImage:
 ---
 
-zajawka
+Czytanie własnej lub cudzej dokumentacji jest dużą częścią warsztatu technical
+writera. Jak sprawić, by świeżym okiem przeczytać ten sam tekst po raz 28? W tym
+artykule przedstawię kilka pomysłów z mojego doświadczenia, które powinny w tym
+pomóc.
 
 <!--truncate-->
 
@@ -27,6 +30,6 @@ Freemana ;)
 
 ## Immersive Reading
 
-## Recenzja drugiej osoby
-
 ## Copilot
+
+## Recenzja drugiej osoby
