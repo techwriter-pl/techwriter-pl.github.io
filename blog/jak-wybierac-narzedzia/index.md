@@ -16,16 +16,16 @@ odpowiadać na pytanie, jakie narzędzie jest najlepsze, tylko jak je wybrać.
 
 ## Zacznij od celu
 
-"W poprzedniej pracy używaliśmy Oxygena i fajnie to śmigał. Powinniśmy tutaj
-użyć Oxygena," mówi wyimaginowany ktoś. Co myślisz, kiedy to czytasz? Bo mi się
-nasuwa kilka myśli.
+"W poprzedniej pracy używaliśmy Oxygena i fajnie to śmigało. Powinniśmy tutaj
+też używać Oxygena," mówi wyimaginowany ktoś. Co myślisz, kiedy to czytasz? Bo
+mi się nasuwa kilka myśli.
 
 Oxygen to nie jest pełna odpowiedź na pytanie "jak tworzymy dokumentację", bo
 Oxygen to tylko edytor. A jak ta dokumentacja jest dostarczana do odbiorców? Jak
-SMEsi robią review? Gdzie są przechowywane pliki źródłowe? Ale nawet to sa
+SMEsi robią review? Gdzie są przechowywane pliki źródłowe? Ale nawet to są
 wszystko pytania taktyczne, które tak naprawdę powinny nam wskazać, że ponad
 taktyką jest większa całość, czyli strategia. Więc każda rozmowa, która zaczyna
-się od "Oxygen" albo "Docusaurus", albo "IXIA Soft" tak naprawdę zaczyna się
+się od "Oxygen" albo "Docusaurus", albo "IXIA Soft" tak naprawdę zaczyna się ze
 złej strony.
 
 ![](./images/cel.png)
