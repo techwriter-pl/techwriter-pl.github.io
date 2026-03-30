@@ -217,4 +217,12 @@ export const conferences: Conference[] = [
     type: ['in-person'],
     link: 'https://www.writethedocs.org/conf/berlin/2026/',
   },
+  {
+    title: 'MadCap Europe Day',
+    startDate: new Date('21 May 2026'),
+    endDate: new Date('21 May 2026'),
+    location: 'Frankfurt nad Menem, Niemcy',
+    type: ['in-person'],
+    link: 'https://www.madcapsoftware.com/company/events/madcap-europe-day/2026/',
+  },
 ];
