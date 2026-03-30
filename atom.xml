@@ -2,11 +2,173 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://techwriter.pl/</id>
     <title>techwriter.pl Blog</title>
-    <updated>2026-02-23T00:00:00.000Z</updated>
+    <updated>2026-03-30T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://techwriter.pl/"/>
     <subtitle>techwriter.pl Blog</subtitle>
     <icon>https://techwriter.pl/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Jak wybierać narzędzia?]]></title>
+        <id>https://techwriter.pl/jak-wybierac-narzedzia</id>
+        <link href="https://techwriter.pl/jak-wybierac-narzedzia"/>
+        <updated>2026-03-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Jedni piszą w Wordzie, drudzy piszą w DITA, a trzeci twierdzą, że tylko]]></summary>
+        <content type="html"><![CDATA[<p>Jedni piszą w Wordzie, drudzy piszą w DITA, a trzeci twierdzą, że tylko
+docs-as-code ma sens. Tak naprawdę nie ma jednego uniwersalnego i <strong>zawsze
+najlepszego</strong> wyboru, a frazes "to zależy" niewiele wnosi. Dzisiaj nie będziemy
+odpowiadać na pytanie, jakie narzędzie jest najlepsze, tylko jak je wybrać.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="zacznij-od-celu">Zacznij od celu<a href="https://techwriter.pl/jak-wybierac-narzedzia#zacznij-od-celu" class="hash-link" aria-label="Bezpośredni link do Zacznij od celu" title="Bezpośredni link do Zacznij od celu" translate="no">​</a></h2>
+<p>"W poprzedniej pracy używaliśmy Oxygena i fajnie to śmigał. Powinniśmy tutaj
+użyć Oxygena," mówi wyimaginowany ktoś. Co myślisz, kiedy to czytasz? Bo mi się
+nasuwa kilka myśli.</p>
+<p>Oxygen to nie jest pełna odpowiedź na pytanie "jak tworzymy dokumentację", bo
+Oxygen to tylko edytor. A jak ta dokumentacja jest dostarczana do odbiorców? Jak
+SMEsi robią review? Gdzie są przechowywane pliki źródłowe? Ale nawet to sa
+wszystko pytania taktyczne, które tak naprawdę powinny nam wskazać, że ponad
+taktyką jest większa całość, czyli strategia. Więc każda rozmowa, która zaczyna
+się od "Oxygen" albo "Docusaurus", albo "IXIA Soft" tak naprawdę zaczyna się
+złej strony.</p>
+<p><img decoding="async" loading="lazy" src="https://techwriter.pl/assets/images/cel-96c32b20548169fcf3ffb4dcf76ecdd1.png" width="900" height="600" class="img_ev3q"></p>
+<p>Gdzie więc powinna się zacząć? Moim zdaniem powinna się zacząć od celu. Na
+początek zastanówmy się:</p>
+<ul>
+<li class=""><strong>Co robimy?</strong> - Tworzymy dokumentację techniczną. Czy coś jeszcze oprócz
+tego? Na przykład, czy piszemy posty na blogu albo teksty w UI? Prowadzimy
+szkolenia? Tworzymy kursy online?</li>
+<li class=""><strong>Dla kogo?</strong> - Czy to jedna grupa odbiorców czy wiele? Czy mają różne
+potrzeby?</li>
+<li class=""><strong>Po co?</strong> - Celem dokumentacji może być zmniejszanie liczby zapytań do działu
+wsparcia technicznego. Dokumentacja może zachęcać ludzi do kupowania produktu,
+pokazując jak produkt rozwiązuje skomplikowane problemy techniczne.
+Dokumentacja może służyć łatwiejszemu wdrożeniu nowych użytkowników i
+utrzymaniu istniejących. Celów może być jeszcze więcej.</li>
+<li class=""><strong>Kto tworzy dokumentację?</strong> - Tworzyć dokumentację mogą technical writerzy,
+programiści, technicy, product managerowie (PM), marketingowcy, sprzedawcy,
+projektanci różnego rodzaju (w tym UX), prawnicy, i wiele innych ról. Każda z
+nich ma inny zestaw kompetencji i inne cele nadrzędne. Dodam jeszcze, że przez
+"tworzenie" rozumiem tu faktyczne tworzenie od zera, potem utrzymywanie, ale
+też okazjonalny wkład mniejszych fragmentów, no i wreszcie review.</li>
+<li class=""><strong>Dlaczego potrzebujemy narzędzia?</strong> - Możemy próbować obniżyć koszty albo
+podnieść jakość. Ale warto na to pytanie odpowiedzieć trochę bardziej
+szczegółowo, czyli zastanowić się w jaki sposób narzędzie ma obniżyć koszty
+lub podnieść jakość.</li>
+</ul>
+<p>Czyli innymi słowy, musimy się zastanowić kto jest odbiorcą dokumentacji i jak
+narzędzie ma temu odbiorcy pomóc, albo jak narzędzie pomoże działowi
+dokumentacji. Tak czy inaczej, przyjęcie lub zmiana narzędzia musi być w jakimś
+celu. Dopiero gdy go znamy, możemy zacząć zastanawiać się jakie narzędzie
+wybrać.</p>
+<p>Dodam tutaj jeszcze, że sformułowanie celu w stylu "musimy wybrać narzędzie, bo
+każdy proces wymaga narzędzia" jest <em>sensu stricto</em> prawdą, ale nie jest zbyt
+pomocne.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="sformułuj-wymagania">Sformułuj wymagania<a href="https://techwriter.pl/jak-wybierac-narzedzia#sformu%C5%82uj-wymagania" class="hash-link" aria-label="Bezpośredni link do Sformułuj wymagania" title="Bezpośredni link do Sformułuj wymagania" translate="no">​</a></h2>
+<p>Jeżeli już wiemy jakie cele nam przyświecają, to możemy zabrać się za listę
+wymagań. Z lotu ptaka może wydawać się, że odpowiadamy na pytania typu: Reuse
+czy nie? Web czy print? Wiele releasów czy zawsze tylko najnowsze docsy? Ale w
+rzeczywistości lista wymagań powinna być bardzo długa i szczegółowa.</p>
+<p><img decoding="async" loading="lazy" src="https://techwriter.pl/assets/images/wymagania-c72a63a2e7e35b8814bdb6ef818cb874.png" width="900" height="600" class="img_ev3q"></p>
+<p>Weźmy na przykład pytanie o reuse. To czy dokumentacja powinna reusować treści w
+jakimś mechanicznym sensie nie jest oczywiste, bo możemy przyjąć
+<a class="" href="https://techwriter.pl/reuse-zly-dla-searcha">strategię nigdy nie powtarzania niczego</a>.
+Ale jeżeli dojdziemy do wniosku, że reuse jest jednak potrzebny, to może on
+oznaczać różne rzeczy. Z jednej strony można reusować mniejsze lub większe
+kawałki tekstu przez jakieś sztuczki w plikach źródłowych (np. <em>conrefy</em> w
+dicie), albo kopiować i wklejać bloki ze wspólnej biblioteki. Z drugiej, reuse
+może być ograniczony do poziomu szablonów. Więc kiedy formułujemy wymaganie w
+stylu "narzędzie musi wspierać reuse", powinniśmy napisać szczegółowo co to dla
+nas oznacza. Na przykład:</p>
+<blockquote>
+<p>Nasza dokumentacja musi zawierać szablonowe ostrzeżenia dotyczące ochrony
+zdrowia i życia użytkowników. Ostrzeżenia muszą mieć konkretną treść i wygląd
+(kolory, wyróżnienia, itp.) i nie odbiegać od nich w żadnych okolicznościach,
+bo zostały bardzo starannie sformułowane przez dział prawny. Treść tych
+ostrzeżeń może się zmienić i wtedy wszystkie ostrzeżenia muszą zawierać tę
+nową treść, ale będzie się to zdarzać bardzo rzadko, raz na kilka lat.</p>
+</blockquote>
+<p>Wymaganie tak rozpisane nie mówi ogólnie "reusujemy bloki tekstu" czy nawet
+"reusujemy notki". Mówi ono o <strong>konkretnych typach</strong> ostrzeżeń.</p>
+<p>Nie chcę podawać listy "typowych wymagań", bo wydaje mi się, że może być ona na
+tyle różna (w zależności od celów), że uogólnienia nie mają sensu. Chciałem
+tylko podkreślić, że wymaganie to więcej niż jednozdaniowe podsumowanie.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="dopasuj-do-rzeczywistości">Dopasuj do rzeczywistości<a href="https://techwriter.pl/jak-wybierac-narzedzia#dopasuj-do-rzeczywisto%C5%9Bci" class="hash-link" aria-label="Bezpośredni link do Dopasuj do rzeczywistości" title="Bezpośredni link do Dopasuj do rzeczywistości" translate="no">​</a></h2>
+<p>Teraz kiedy już opracowaliśmy listę wymarzonych wymagań i jesteśmy w siódmym
+niebie snując plany na przyszłość, schodzimy kilka kroków w dół, na ziemię, i
+patrzymy na otaczające nas realia. Część realiów będziemy musieli dodać do
+wymagań, a część sprawi, że zmienimy lub obetniemy niektóre wymagania.</p>
+<p>Wydaje mi się, że najważniejsze realia to:</p>
+<ul>
+<li class="">Kto ma pisać docsy i kto ma robić review?</li>
+<li class="">Jakie narzędzia i infrastruktura już istnieją w firmie?</li>
+</ul>
+<p>To nie są jedyne realia, ale z mojego doświadczenia, te mają największy wpływ.</p>
+<p><img decoding="async" loading="lazy" src="https://techwriter.pl/assets/images/rzeczywistosc-006356669f71eb4cc2cbaf21beff4130.png" width="900" height="600" class="img_ev3q"></p>
+<p>Pytanie o to <strong>kto</strong> pomoże nam sformułować kluczowe wymaganie o dostępność
+procesu pisania i review. Jeśli <strong>wyłącznie</strong> tech writerzy piszą docsy i robią
+review, to opcje takie jak DITA czy jakieś zaawansowane CCMSy dla tech writerów
+są realne. Ale jeżeli w tej grupie znajdzie się ktokolwiek inny, to musimy do
+wymagań dodać informacje o tym jak te osoby mogą kontrybuować. Czy potrzebujemy
+edytora online w stylu Google Docs? Czy godzimy się z tym, żeby wysyłać PDFy
+mailem?</p>
+<p>Pytanie o to <strong>jakie narzędzia już działają</strong> w firmie pozwoli nam zacząć
+ugruntowywać się w realiach biznesowych, ale też pomoże nam odpowiedzieć na
+pytanie: czy możemy użyć narzędzi, które już mamy. Na przykład, w firmach
+software'owych często istnieje już system kontroli wersji i system automatycznej
+publikacji do internetu. Czy ta istniejąca infrastruktura to pierwszy krok do
+stworzenia infrastruktury dla docsów?</p>
+<p>Poza tym, jeżeli w firmie juz jest ktoś utrzymujący istniejące narzędzia, to
+jest szansa, że te osoby pomogą nam w utrzymaniu narzędzi do dokumentacji. Czy
+tak będzie naprawdę? Odpowiedź na to pytanie powinna być wpleciona w nasz proces
+poszukiwania narzędzia.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="rozważ-realia-biznesowe">Rozważ realia biznesowe<a href="https://techwriter.pl/jak-wybierac-narzedzia#rozwa%C5%BC-realia-biznesowe" class="hash-link" aria-label="Bezpośredni link do Rozważ realia biznesowe" title="Bezpośredni link do Rozważ realia biznesowe" translate="no">​</a></h2>
+<p><img decoding="async" loading="lazy" src="https://techwriter.pl/assets/images/biznes-ef715d3bdae8f550451b4927260f0e6c.png" width="900" height="600" class="img_ev3q"></p>
+<p>Ta część bywa najbardziej bolesna: czy można uzasadnić koszt tego narzędzia?
+Często dokumentacja sama w sobie jest traktowana jako koszt, więc ciężko
+przekonać zarząd, żeby inwestował w nią dodatkowe pieniądze. I nie próbujmy się
+łudzić, że kosztu nie będzie, bo nawet całkowicie darmowe narzędzie będzie
+wymagało pracy, żeby je wdrożyć i utrzymywać.</p>
+<p>Ten problem można rozwiązać na dwa sposoby:</p>
+<ol>
+<li class="">Wybrać jak najtańsze rozwiązanie.</li>
+<li class="">Wykazać jak narzędzie ograniczy koszty.</li>
+</ol>
+<p>Dodatkowe punkty zdobywamy, jeśli pokażemy jak poprawa jakości dokumentacji może
+przynieść zyski. Ale jakby nie było, te czynniki wpłyną na proces doboru
+narzędzia.</p>
+<p>Dodatkowym czynnikiem, który musimy wziąć pod uwagę jest to kto będzie wyrażał
+zgodę na narzędzie i jak te osoby przekonać. Różne argumenty trafiają do różnych
+osób w zależności od ich doświadczeń i celów. Przy wyborze narzędzia powinniśmy
+się zastanowić jak cele naszego dzielnego sponsora (managera, dyrektora,
+właściciela) można osiągnąć usprawniając pracę działu dokumentacji. Na jednych
+zadziała argumentacja typu "dzięki narzędziu będzie mniej kłopotów" (np.
+dlatego, że w dokumentacji będzie mniej karalnych błędów), a na innych lepiej
+zadziała "dzięki narzędziu oszczędzimy lub zarobimy X dolarów".</p>
+<p>Ostatnim aspektem biznesowym, na który zwrócę uwagę jest kwestia zajmowania się
+narzędziem: czy wiemy kto będzie za to odpowiedzialny? Czy ja chcę być tą osobą?
+Czasem to oznacza, że zmieniam pracę z "technical writer" na "wsparcie
+narzędzi". Czy to jest moja wymarzona ścieżka kariery? A jeśli nie ja, to czy
+jest ktoś inny, kto o tym marzy?</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="robi-to-zespół">Robi to zespół<a href="https://techwriter.pl/jak-wybierac-narzedzia#robi-to-zesp%C3%B3%C5%82" class="hash-link" aria-label="Bezpośredni link do Robi to zespół" title="Bezpośredni link do Robi to zespół" translate="no">​</a></h2>
+<p>Tutaj pierwszy raz w tym artykule zwrócę się do Ciebie bezpośrednio. Chciałbym
+przestrzec Cię przed tworzeniem wymagań samodzielnie. Nawet jeśli jesteś jedynym
+tech writerem w firmie i CEO zlecił Ci wybór narzędzia, nie rób tego
+samodzielnie. Konsultuj swoje pomysły z innymi, weryfikuj z nimi założenia i
+proś o review. Co dwie głowy to nie jedna! Im więcej głów, tym więcej uda się
+zauważyć. Myślimy i pamiętamy jako grupa, a nie jako jednostki.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="najlepsze-nie-zawsze-znaczy-to-samo">"Najlepsze" nie zawsze znaczy to samo<a href="https://techwriter.pl/jak-wybierac-narzedzia#najlepsze-nie-zawsze-znaczy-to-samo" class="hash-link" aria-label="Bezpośredni link do &quot;Najlepsze&quot; nie zawsze znaczy to samo" title="Bezpośredni link do &quot;Najlepsze&quot; nie zawsze znaczy to samo" translate="no">​</a></h2>
+<p>Czasem uda nam się znaleźć idealne rozwiązanie, które wyniesie nasz komfort
+pracy na nowe poziomy, jednocześnie podnosząc jakość i obniżając koszty. Czasem
+może się okazać, że wybrane narzędzie będzie oznaczało mniejszy lub większy
+kompromis.</p>
+<p>Niestety, czasem możemy dojść do smutnej konkluzji, że najlepszym narzędziem
+jest to, które już mamy. I to nie dlatego, że jest dobre, tylko dlatego, że
+cokolwiek innego byłoby zbyt kosztowne, zbyt trudne, lub nikt nie jest
+zainteresowany utrzymaniem go.</p>
+<p><img decoding="async" loading="lazy" alt="Dwóch mężczyzn biznesmenów sobie rękę, jeden mówi &amp;quot;Czyli Word?&amp;quot;" src="https://techwriter.pl/assets/images/kompromis-63c703b62f788f8f0228be7c62047d3f.png" width="900" height="600" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Paweł Kowaluk</name>
+        </author>
+        <category label="narzędzia" term="narzędzia"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Release notes - co dziś serwuje kuchnia?]]></title>
         <id>https://techwriter.pl/release-notes-co-dzis-serwuje-kuchnia</id>
@@ -3058,246 +3220,5 @@ Liczba biletów jest ograniczona, więc nie zwlekajcie za długo z zakupem!</p>]
         </author>
         <category label="konferencje" term="konferencje"/>
         <category label="warsztat" term="warsztat"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interview with Mateusz Barszcz]]></title>
-        <id>https://techwriter.pl/kilka-pytan-do-czesc-31-English</id>
-        <link href="https://techwriter.pl/kilka-pytan-do-czesc-31-English"/>
-        <updated>2025-04-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Our guest today is Mateusz Barszcz,]]></summary>
-        <content type="html"><![CDATA[<p>Our guest today is <a href="https://www.linkedin.com/in/mattbarszcz/" target="_blank" rel="noopener noreferrer" class="">Mateusz Barszcz</a>,
-a Chief Software Technical Writer at
-<a href="https://www.linkedin.com/company/hitachienergy/" target="_blank" rel="noopener noreferrer" class="">Hitachi Energy</a> in Krakow,
-Poland. Let's hear his story, this time in English. For the Polish version,
-<a href="https://techwriter.pl/kilka-pytan-do-czesc-31" target="_blank" rel="noopener noreferrer" class="">click here</a>. In this interview,
-you will learn about his extensive experience in technical writing and how
-technical writing is like competitive sports. Mateusz shares his invaluable
-observations and insights, which will be helpful for those who want to get
-started with technical communication, and also for anyone else interested in it.</p>
-<p><img decoding="async" loading="lazy" alt="A technical writer sitting in a car" src="https://techwriter.pl/assets/images/upload_0099-687d323a6371e44be06fbe27134ba903.png" width="740" height="495" class="img_ev3q"></p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="introduction">Introduction<a href="https://techwriter.pl/kilka-pytan-do-czesc-31-English#introduction" class="hash-link" aria-label="Bezpośredni link do Introduction" title="Bezpośredni link do Introduction" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="hi-thank-you-for-agreeing-to-this-interview-to-start-could-you-tell-us-something-about-yourself">Hi, thank you for agreeing to this interview. To start, could you tell us something about yourself?<a href="https://techwriter.pl/kilka-pytan-do-czesc-31-English#hi-thank-you-for-agreeing-to-this-interview-to-start-could-you-tell-us-something-about-yourself" class="hash-link" aria-label="Bezpośredni link do Hi, thank you for agreeing to this interview. To start, could you tell us something about yourself?" title="Bezpośredni link do Hi, thank you for agreeing to this interview. To start, could you tell us something about yourself?" translate="no">​</a></h3>
-<p>My name is Mateusz Barszcz, and I work at Hitachi Energy, where I create
-technical documentation. I have been a member of the Technical Writers team
-since late 2022, when I joined as a Senior Technical Writer. Initially, I worked
-on a smaller project called
-<a href="https://www.hitachienergy.com/products-and-solutions/grid-and-generation-management-network-manager/network-manager-wide-area-monitoring-system-wams" target="_blank" rel="noopener noreferrer" class="">Network Manager Wide Area Monitoring System (WAMS)</a>,
-a backend solution for monitoring the state of the power grid.</p>
-<p>Currently, I’m involved in a much larger project with five development teams
-engaged in the process, serving as the lead technical writer. In that role, I
-create the documentation plan and ensure we have all the essential information
-needed to proceed with writing. As a writer, I write user documentation for our
-internal teams and the end customers receiving the solution. These documents
-include installation guides, functional descriptions, and release notes. I also
-support the creation of engineering documentation that lives alongside the code,
-such as administration guides or readme files.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="how-would-you-summarize-the-essence-of-the-role-of-a-technical-writer-or-technical-communication-specialist">How would you summarize the essence of the role of a technical writer or technical communication specialist?<a href="https://techwriter.pl/kilka-pytan-do-czesc-31-English#how-would-you-summarize-the-essence-of-the-role-of-a-technical-writer-or-technical-communication-specialist" class="hash-link" aria-label="Bezpośredni link do How would you summarize the essence of the role of a technical writer or technical communication specialist?" title="Bezpośredni link do How would you summarize the essence of the role of a technical writer or technical communication specialist?" translate="no">​</a></h3>
-<p>For me, it is mainly the role of a technical translator. It is a person who
-gathers information from an engineer or engineers. The engineer’s statements can
-be emotional, full of jargon, or incomplete. The technical writer translates
-this information into a universally understandable language, helping to achieve
-the user’s goals. The essential elements of technical writing are understanding
-the technical context, translating it into comprehensible language, and
-logically arranging the content.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="career-before-hitachi-energy">Career before Hitachi Energy<a href="https://techwriter.pl/kilka-pytan-do-czesc-31-English#career-before-hitachi-energy" class="hash-link" aria-label="Bezpośredni link do Career before Hitachi Energy" title="Bezpośredni link do Career before Hitachi Energy" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="how-long-have-you-worked-in-a-technical-writer-role">How long have you worked in a technical writer role?<a href="https://techwriter.pl/kilka-pytan-do-czesc-31-English#how-long-have-you-worked-in-a-technical-writer-role" class="hash-link" aria-label="Bezpośredni link do How long have you worked in a technical writer role?" title="Bezpośredni link do How long have you worked in a technical writer role?" translate="no">​</a></h3>
-<p>Recently, while browsing LinkedIn, I was reminded that I started my technical
-career 15 years ago, during which I took on various roles. My tasks have always
-been related to technical content that included visuals. I have been strictly
-involved in technical writing since 2010. I have created e-learning materials
-for over three years. As a contractor at Google, for six years I had the
-opportunity to work in a role that combined both these areas.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="how-did-you-become-a-technical-writer">How did you become a technical writer?<a href="https://techwriter.pl/kilka-pytan-do-czesc-31-English#how-did-you-become-a-technical-writer" class="hash-link" aria-label="Bezpośredni link do How did you become a technical writer?" title="Bezpośredni link do How did you become a technical writer?" translate="no">​</a></h3>
-<p>It’s an interesting story because, after graduation, I had part-time jobs and
-was wondering what to do next. In 2010, I found a contractor job posting for a
-so-called junior one-year assignment at Motorola Solutions. They were looking
-for someone without experience, and as I read the job description, which I
-accidentally came across, I researched what a technical writer does, and it
-intrigued me a lot. I have a technical education; I have always liked playing
-with technology. What prompted me to become a technical writer was the fact that
-I’m bilingual. I’m a native speaker of English and Polish and have technical
-skills, so these two aspects helped me fit into the role. I applied to Motorola
-Solutions, completed the recruitment process, and got the role. That was my
-beginning.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="so-by-reading-this-offer-you-were-building-awareness-of-who-a-technical-writer-is">So, by reading this offer, you were building awareness of who a technical writer is.<a href="https://techwriter.pl/kilka-pytan-do-czesc-31-English#so-by-reading-this-offer-you-were-building-awareness-of-who-a-technical-writer-is" class="hash-link" aria-label="Bezpośredni link do So, by reading this offer, you were building awareness of who a technical writer is." title="Bezpośredni link do So, by reading this offer, you were building awareness of who a technical writer is." translate="no">​</a></h3>
-<p>I was building that awareness. I was one of those people who had instructions in
-their hands many times but never thought about who wrote them and who was
-responsible for creating them. It was only then that this world began to open up
-to me. I started discovering it, as initially I was unaware of the people and
-teams responsible for this documentation. I also did not know at all that
-documentation was a large area requiring dedicated roles and expertise. In the
-end, it drew me in.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-projects-have-you-been-involved-in-and-what-experiences-have-you-gained">What projects have you been involved in, and what experiences have you gained?<a href="https://techwriter.pl/kilka-pytan-do-czesc-31-English#what-projects-have-you-been-involved-in-and-what-experiences-have-you-gained" class="hash-link" aria-label="Bezpośredni link do What projects have you been involved in, and what experiences have you gained?" title="Bezpośredni link do What projects have you been involved in, and what experiences have you gained?" translate="no">​</a></h3>
-<p>What I like about my career is that it has been dynamic from the very beginning.
-My responsibilities frequently expanded or evolved, so I couldn’t complain about
-stagnation. I started with Motorola Solution products related to radio
-infrastructure. Several technical writers were responsible for the system's
-features. After two years, I started describing radio devices mounted in police
-cars, which allowed me to learn another aspect of radio communication.</p>
-<p><img decoding="async" loading="lazy" alt="A police officer holding a radio set" src="https://techwriter.pl/assets/images/upload_0100-24693300c28f0da78733e5f8a89228c3.png" width="740" height="459" class="img_ev3q"> <strong>A police radio
-device in a police car similar to the one Mateusz dealt with.</strong>
-<a href="https://www.flickr.com/photos/peigov/31808990565/in/photostream/" target="_blank" rel="noopener noreferrer" class="">Link to the original photo</a>.
-Author:
-<a href="https://www.flickr.com/photos/peigov/" target="_blank" rel="noopener noreferrer" class="">Government of Prince Edward Island</a>.</p>
-<p>Then, I wrote training materials for e-learning, which involved managing content
-in a different format. I created materials for self-paced learning and
-instructor-led training about the radio infrastructure I learned initially. I
-was managing well-known content in a different format. As an instructional
-designer, I designed trainings for enablement and business topics. The scope of
-content I operated on changed dynamically.</p>
-<p>Then, I accepted an offer to work as a contractor at Google. I joined a small
-team writing technical content and creating online training for internal project
-management products. It was a new and completely unknown area for me. I needed
-to learn many tools designed for employees. It was a dynamic role which I spent
-over six years in. As the product portfolio developed, my responsibilities
-expanded. Ultimately, the contracted project ended, and I had to look for
-something new.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="career-at-hitachi-energy">Career at Hitachi Energy<a href="https://techwriter.pl/kilka-pytan-do-czesc-31-English#career-at-hitachi-energy" class="hash-link" aria-label="Bezpośredni link do Career at Hitachi Energy" title="Bezpośredni link do Career at Hitachi Energy" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="lets-return-to-your-current-role-at-hitachi-energy-how-is-your-work-organized">Let’s return to your current role at Hitachi Energy. How is your work organized?<a href="https://techwriter.pl/kilka-pytan-do-czesc-31-English#lets-return-to-your-current-role-at-hitachi-energy-how-is-your-work-organized" class="hash-link" aria-label="Bezpośredni link do Let’s return to your current role at Hitachi Energy. How is your work organized?" title="Bezpośredni link do Let’s return to your current role at Hitachi Energy. How is your work organized?" translate="no">​</a></h3>
-<p>Teams work based on the
-<a href="https://en.wikipedia.org/wiki/Scrum_(software_development)" target="_blank" rel="noopener noreferrer" class="">Scrum</a>
-methodology. The products I work on are new, so we create documents and
-processes related to their creation from scratch. Since I joined the project, I
-started working on large documents. My daily work does not strictly fit into the
-team’s
-<a href="https://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint" target="_blank" rel="noopener noreferrer" class="">sprints</a>.
-I sometimes get tasks to supplement or review engineering documentation.
-Although my tasks are loosely related to sprints, I’m bound by deadlines for
-delivering the product with documentation. I attend project meetings to achieve
-that, so I frequently contact the team.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-type-of-documents-do-you-create">What type of documents do you create?<a href="https://techwriter.pl/kilka-pytan-do-czesc-31-English#what-type-of-documents-do-you-create" class="hash-link" aria-label="Bezpośredni link do What type of documents do you create?" title="Bezpośredni link do What type of documents do you create?" translate="no">​</a></h3>
-<p>I create highly technical installation guides and functional descriptions. These
-documents often include instructions for the end user who wants to know how to
-set up the backend of the feature or product. Another aspect that I cover is a
-description of product operations, such as calculations of current changes,
-phase shifts of voltages, and deviations in readings. These topics are so
-complex that I feel like I’m writing a doctoral thesis. I also create smaller
-documents, such as release notes.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-tools-do-you-use-and-what-do-you-think-about-them">What tools do you use, and what do you think about them?<a href="https://techwriter.pl/kilka-pytan-do-czesc-31-English#what-tools-do-you-use-and-what-do-you-think-about-them" class="hash-link" aria-label="Bezpośredni link do What tools do you use, and what do you think about them?" title="Bezpośredni link do What tools do you use, and what do you think about them?" translate="no">​</a></h3>
-<p>I work with various tools depending on the needs. Initially, I used Word –
-mainly because it allowed collaboration on the document with the engineers.
-Still, I’m not a fan of this tool due to problems with style templates,
-formatting, and sometimes loss of content. I try to use it as little as
-possible.</p>
-<p>Currently, when I have gathered the content and want to publish the material, I
-work in <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank" rel="noopener noreferrer" class="">Markdown</a> and
-<a href="https://en.wikipedia.org/wiki/MadCap_Software#MadCap_Flare" target="_blank" rel="noopener noreferrer" class="">MadCap Flare</a>.
-MadCap Flare is excellent, although learning it takes some time and effort.
-However, once you master the basics, prepare style templates, and set up the
-work environment, the tool becomes very user-friendly. Nevertheless, I enjoy
-working in Markdown the most. I can synchronize the content with the repository
-and do anything I want with it. I can publish a website or import it into MadCap
-Flare. I have developed an import process that I’m satisfied with due to its
-flexibility. Markdown’s advantages are its simplicity and the content being
-created in an environment familiar to developers.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="how-do-you-gather-the-information-needed-to-create-documentation">How do you gather the information needed to create documentation?<a href="https://techwriter.pl/kilka-pytan-do-czesc-31-English#how-do-you-gather-the-information-needed-to-create-documentation" class="hash-link" aria-label="Bezpośredni link do How do you gather the information needed to create documentation?" title="Bezpośredni link do How do you gather the information needed to create documentation?" translate="no">​</a></h3>
-<p>I ask people and remind them that I need information for the documents.
-Engineers are willing to contribute to the documentation. They are often
-necessary links for creating documentation because I do not understand certain
-aspects. As a technical writer, I constantly learn about technology and
-products, and eventually, I become an expert. This reduces the amount of
-involvement needed from engineers as the project advances.</p>
-<p>However, in the beginning, new technologies used in the product require more
-reliance on what someone tells me. Initially, my task is to piece it together
-into sentences and achieve the appropriate order of information to get the
-message across. Sometimes, I find content in repositories that I later include
-in my documentation. Such discoveries give me great satisfaction.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-is-your-superpower-as-a-technical-writer">What is your superpower as a technical writer?<a href="https://techwriter.pl/kilka-pytan-do-czesc-31-English#what-is-your-superpower-as-a-technical-writer" class="hash-link" aria-label="Bezpośredni link do What is your superpower as a technical writer?" title="Bezpośredni link do What is your superpower as a technical writer?" translate="no">​</a></h3>
-<p>I write witty e-mails that are acceptable in a corporate environment. This skill
-comes in handy both in technical writing and daily communication.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-are-the-biggest-challenges-you-face-in-your-work">What are the biggest challenges you face in your work?<a href="https://techwriter.pl/kilka-pytan-do-czesc-31-English#what-are-the-biggest-challenges-you-face-in-your-work" class="hash-link" aria-label="Bezpośredni link do What are the biggest challenges you face in your work?" title="Bezpośredni link do What are the biggest challenges you face in your work?" translate="no">​</a></h3>
-<p>Sometimes, you must convince someone that the path you propose is correct and
-make it clear to someone that they might not be right themselves. It is not
-pleasant to impose your opinion on someone. Still, there are specific standards
-to maintain, and it is necessary. Occasionally, you also have to remind
-engineers about delivering input. Everyone is busy, and in such cases,
-one-on-one meetings work well.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-do-you-like-most-about-your-job">What do you like most about your job?<a href="https://techwriter.pl/kilka-pytan-do-czesc-31-English#what-do-you-like-most-about-your-job" class="hash-link" aria-label="Bezpośredni link do What do you like most about your job?" title="Bezpośredni link do What do you like most about your job?" translate="no">​</a></h3>
-<p>I like our Technical Writing team. In the beginning, there were only a few of
-us, and now the team is growing rapidly and is very diverse. I will compliment
-our team leader, Piotrek Sroka. I really like his approach to team management.
-Another thing is the technology in which the project is created and the openness
-of the development team to new techniques. This team proposes interesting
-solutions that can be built on Markdown.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="interests">Interests<a href="https://techwriter.pl/kilka-pytan-do-czesc-31-English#interests" class="hash-link" aria-label="Bezpośredni link do Interests" title="Bezpośredni link do Interests" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-are-your-interests-outside-of-documentation-and-technology">What are your interests outside of documentation and technology?<a href="https://techwriter.pl/kilka-pytan-do-czesc-31-English#what-are-your-interests-outside-of-documentation-and-technology" class="hash-link" aria-label="Bezpośredni link do What are your interests outside of documentation and technology?" title="Bezpośredni link do What are your interests outside of documentation and technology?" translate="no">​</a></h3>
-<p>My passions are traveling, reading (sci-fi especially), automotive, and cooking.
-Recipes also relate to instructions.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="speaking-of-cooking-when-you-buy-new-household-appliances-such-as-a-food-processor-do-you-go-with-the-flow-and-spontaneously-start-using-it-or-do-you-read-the-entire-manual-from-cover-to-cover">Speaking of cooking, when you buy new household appliances, such as a food processor, do you go with the flow and spontaneously start using it, or do you read the entire manual from cover to cover?<a href="https://techwriter.pl/kilka-pytan-do-czesc-31-English#speaking-of-cooking-when-you-buy-new-household-appliances-such-as-a-food-processor-do-you-go-with-the-flow-and-spontaneously-start-using-it-or-do-you-read-the-entire-manual-from-cover-to-cover" class="hash-link" aria-label="Bezpośredni link do Speaking of cooking, when you buy new household appliances, such as a food processor, do you go with the flow and spontaneously start using it, or do you read the entire manual from cover to cover?" title="Bezpośredni link do Speaking of cooking, when you buy new household appliances, such as a food processor, do you go with the flow and spontaneously start using it, or do you read the entire manual from cover to cover?" translate="no">​</a></h3>
-<p>I go with the flow because I prefer to try something out. My memory retention is
-better if I use something practically or possibly break it 😉. When needed, I
-reach for the manual, and then I read it from cover to cover.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-are-your-interests-related-to-technology-and-science">What are your interests related to technology and science?<a href="https://techwriter.pl/kilka-pytan-do-czesc-31-English#what-are-your-interests-related-to-technology-and-science" class="hash-link" aria-label="Bezpośredni link do What are your interests related to technology and science?" title="Bezpośredni link do What are your interests related to technology and science?" translate="no">​</a></h3>
-<p>I have always been fascinated by science, astronomy, and engineering topics,
-such as how something is constructed, types of car engines, and the like. I like
-reading articles about quantum physics and other scientific issues in the
-<a href="https://www.newscientist.com/" target="_blank" rel="noopener noreferrer" class="">New Scientist</a>. It relaxes me and keeps my mind
-curious about the world.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="well-being">Well-being<a href="https://techwriter.pl/kilka-pytan-do-czesc-31-English#well-being" class="hash-link" aria-label="Bezpośredni link do Well-being" title="Bezpośredni link do Well-being" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="how-do-you-maintain-peace-of-mind-and-a-broad-smile-as-a-technical-writer-how-do-you-achieve-zen">How do you maintain peace of mind and a broad smile as a technical writer? How do you achieve zen?<a href="https://techwriter.pl/kilka-pytan-do-czesc-31-English#how-do-you-maintain-peace-of-mind-and-a-broad-smile-as-a-technical-writer-how-do-you-achieve-zen" class="hash-link" aria-label="Bezpośredni link do How do you maintain peace of mind and a broad smile as a technical writer? How do you achieve zen?" title="Bezpośredni link do How do you maintain peace of mind and a broad smile as a technical writer? How do you achieve zen?" translate="no">​</a></h3>
-<p>Sometimes, switching to another task helps me. If I feel stuck, I try to focus
-on another part of the task that gives me pleasure or allows for quick success.
-It is also important not to try to do 100 percent of everything that can be
-done. After releasing the material, there may be something to improve. It is
-better to release something 80-90 percent ready and make corrections later.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="everyone-has-better-and-worse-days-do-you-have-any-insights-on-what-can-be-done-to-feel-better-at-work-or-are-there-things-to-avoid">Everyone has better and worse days; do you have any insights on what can be done to feel better at work? Or are there things to avoid?<a href="https://techwriter.pl/kilka-pytan-do-czesc-31-English#everyone-has-better-and-worse-days-do-you-have-any-insights-on-what-can-be-done-to-feel-better-at-work-or-are-there-things-to-avoid" class="hash-link" aria-label="Bezpośredni link do Everyone has better and worse days; do you have any insights on what can be done to feel better at work? Or are there things to avoid?" title="Bezpośredni link do Everyone has better and worse days; do you have any insights on what can be done to feel better at work? Or are there things to avoid?" translate="no">​</a></h3>
-<p>When I face a task that overwhelms me, sometimes the fact that there are tasks
-to choose from helps me. Writer’s block is a real thing. Sometimes, I like to
-set aside a problematic task and focus on something else that gives me joy, such
-as working on graphics or the content import process. Playing with techniques or
-things that are not my primary task relieves the mind. For a while, I do not
-feel the pressure of time, which calms me down, and after a moment I continue
-with the previously started thread.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="one-realizes-that-documentation-is-iterative">One realizes that documentation is iterative.<a href="https://techwriter.pl/kilka-pytan-do-czesc-31-English#one-realizes-that-documentation-is-iterative" class="hash-link" aria-label="Bezpośredni link do One realizes that documentation is iterative." title="Bezpośredni link do One realizes that documentation is iterative." translate="no">​</a></h3>
-<p>A principle says the last 10 percent of perfecting the material can take 90
-percent of the time. It is about refining details. Where 10-20 percent of your
-efforts generate 80 percent of the gains, the rest is less important. Focusing
-on the key issues is crucial. <em>[It’s about the
-<a href="https://en.wikipedia.org/wiki/Pareto_principle" target="_blank" rel="noopener noreferrer" class="">Pareto principle</a>]</em>. Sometimes,
-it is good to leave some room for later improvements. The rules that apply in
-technical writing can be observed even in sports. The best athletes fight for
-tenths and hundredths of a second, and the effort they have to make to achieve
-them takes years of hard work.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="yes-it-is-years-of-hard-work-but-every-athlete-does-not-exert-maximum-effort-daily-they-spread-it-out-so-that-they-also-train-at-moderate-intensity-and-rest-to-do-something-big-at-the-very-end-sometimes-we-only-think-about-moments-of-maximum-effort-but-to-get-there-they-also-had-to-train-at-low-intensity-and-rest">Yes, it is years of hard work, but every athlete does not exert maximum effort daily. They spread it out so that they also train at moderate intensity and rest to do something big at the very end. Sometimes, we only think about moments of maximum effort, but to get there, they also had to train at low intensity and rest.<a href="https://techwriter.pl/kilka-pytan-do-czesc-31-English#yes-it-is-years-of-hard-work-but-every-athlete-does-not-exert-maximum-effort-daily-they-spread-it-out-so-that-they-also-train-at-moderate-intensity-and-rest-to-do-something-big-at-the-very-end-sometimes-we-only-think-about-moments-of-maximum-effort-but-to-get-there-they-also-had-to-train-at-low-intensity-and-rest" class="hash-link" aria-label="Bezpośredni link do Yes, it is years of hard work, but every athlete does not exert maximum effort daily. They spread it out so that they also train at moderate intensity and rest to do something big at the very end. Sometimes, we only think about moments of maximum effort, but to get there, they also had to train at low intensity and rest." title="Bezpośredni link do Yes, it is years of hard work, but every athlete does not exert maximum effort daily. They spread it out so that they also train at moderate intensity and rest to do something big at the very end. Sometimes, we only think about moments of maximum effort, but to get there, they also had to train at low intensity and rest." translate="no">​</a></h3>
-<p>It is worth thinking long-term. It is not easy, and it may be against our nature
-because we focus on what is happening now, but seeing the longer perspective can
-help.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="advice-for-beginners">Advice for beginners<a href="https://techwriter.pl/kilka-pytan-do-czesc-31-English#advice-for-beginners" class="hash-link" aria-label="Bezpośredni link do Advice for beginners" title="Bezpośredni link do Advice for beginners" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-advice-can-you-give-people-who-want-to-start-their-adventure-with-writing-documentation">What advice can you give people who want to start their adventure with writing documentation?<a href="https://techwriter.pl/kilka-pytan-do-czesc-31-English#what-advice-can-you-give-people-who-want-to-start-their-adventure-with-writing-documentation" class="hash-link" aria-label="Bezpośredni link do What advice can you give people who want to start their adventure with writing documentation?" title="Bezpośredni link do What advice can you give people who want to start their adventure with writing documentation?" translate="no">​</a></h3>
-<p>I recommend familiarizing yourself with some standards and style guides, working
-on templates, tackling the description of a technical topic, and sharing this
-work. You need a portfolio to start the conversation during UX writing and UX
-design recruitment. In technical writing, I do not encounter this very often.
-Usually, candidates do not have a sample showing how someone thinks and
-approaches the documentation. I recommend trying your hand and posting samples
-on the Internet (for example, on <a href="https://github.com/" target="_blank" rel="noopener noreferrer" class="">GitHub</a> or your website)
-to showcase your knowledge of technology, share this work, and take pride in it.</p>
-<p>Also, do not worry about not being an English major. I know many people in the
-industry with various backgrounds, such as biologists or theater studies’
-graduates. It is worth seeing how you feel about it if it interests you. The
-work of a technical writer is primarily based on contact with people, so it is
-also worth getting involved in some technical writing or engineering
-environments where you can try your hand at communication and extracting
-information that is used later. It is worth, for example, being interested in
-events like hackathons or various meetups, where you can network with new people
-and get familiar with technical language.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-last-question">The last question<a href="https://techwriter.pl/kilka-pytan-do-czesc-31-English#the-last-question" class="hash-link" aria-label="Bezpośredni link do The last question" title="Bezpośredni link do The last question" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="do-you-have-room-for-professional-development-at-hitachi-energy">Do you have room for professional development at Hitachi Energy?<a href="https://techwriter.pl/kilka-pytan-do-czesc-31-English#do-you-have-room-for-professional-development-at-hitachi-energy" class="hash-link" aria-label="Bezpośredni link do Do you have room for professional development at Hitachi Energy?" title="Bezpośredni link do Do you have room for professional development at Hitachi Energy?" translate="no">​</a></h3>
-<p>Definitely yes! This company motivates employees to develop and take on new
-challenges. I take part in many training sessions, including technical and soft
-skills. We have the freedom to try new solutions and take on more tasks. Such
-involvement does not go unnoticed; I’m probably a good example. Starting in
-January, I was promoted from Senior Technical Writer to Chief Software Technical
-Writer (equivalent to Principal Technical Writer).</p>
-<p><strong>Congratulations on the well-deserved promotion! And thank you for sharing your
-thoughts.</strong></p>]]></content>
-        <author>
-            <name>Andrzej Niewiarowski</name>
-        </author>
-        <category label="warsztat" term="warsztat"/>
-        <category label="wywiady" term="wywiady"/>
-        <category label="kariera" term="kariera"/>
-        <category label="praca" term="praca"/>
-        <category label="articles-in-english" term="articles-in-english"/>
     </entry>
 </feed>
