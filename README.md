@@ -141,9 +141,12 @@ your file explorer into the browser window.
 - If you create an image with a tool you paid for, you don't need to mention the
   tool in the caption.
 
-13. If you include an image that is not decorative but contains useful knowledge,
-   use ALT texts that give an idea what the image is about. Make it screen
-   reader friendly. `![ALT text goes here](images/filename.png)`.
+13. If you include an image that is not decorative but contains useful
+    knowledge, use ALT texts that give an idea what the image is about. Make it
+    screen reader friendly. `![ALT text goes here](images/filename.png)`.
+
+14. To update a list of conferences, edit this
+    [file](/src/components/Conferences/Conferences.ts) in src/components folder.
 
 ## Creating a PR
 
