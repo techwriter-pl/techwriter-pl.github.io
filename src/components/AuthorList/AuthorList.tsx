@@ -37,17 +37,6 @@ const polishDescriptions: { [id: string]: JSX.Element } = {
       społecznościowym.
     </>
   ),
-  jkula: (
-    <>
-      Tłumaczka języka angielskiego specjalizująca się w tłumaczeniach
-      prawniczych. Od niedawna tech writerka, która postanowiła związać swoje
-      dalsze losy z branżą IT. Absolwentka studiów podyplomowych z komunikacji
-      technicznej na Akademii Finansów i Biznesu Vistula. Uwielbia czytać
-      kryminały, oglądać filmy sensacyjne, szydełkować amigurumi i… pisać. Ma w
-      planach wydać kiedyś własną powieść z wątkiem obyczajowo-kryminalnym. I
-      skoczyć ze spadochronem.
-    </>
-  ),
   pensjonatus: (
     <>
       Działa w branży od 2008 roku. Zaczynał jako Technical Writer, potem
@@ -70,23 +59,13 @@ const polishDescriptions: { [id: string]: JSX.Element } = {
       na rowerze. Gdyby nie związał się z dokumentacją, zostałby strażakiem.
     </>
   ),
-  mrozek: (
-    <>
-      Technical writerka, managerka i liderka zespołu tech writerskiego. Z
-      zaangażowaniem działam na rzecz promocji roli autora technicznego w
-      organizacji, jego wyjątkowej pozycji w cyklu rozwoju produktu oraz
-      wartości jaką dodajemy do produktu, który opisujemy. Współorganizuję
-      wrocławską społeczność tech writerską w ramach cyklicznych spotkań pod
-      szyldem MeetContentWRO.
-    </>
-  ),
   magdazaczek: (
     <>
-      Rozpoczęła pracę jako technical writerka w 2019 roku. Od tego czasu 
-      zdobywała doświadczenie w trzech różnych firmach, tworząc dokumentację 
-      techniczną. Od ponad trzech lat zajmuje się pisaniem dokumentacji dla 
-      rozwiązań dostępnych na Atlassian Marketplace. W maju 2025 roku ukończyła 
-      studia podyplomowe z komunikacji technicznej na Akademii Finansów i 
+      Rozpoczęła pracę jako technical writerka w 2019 roku. Od tego czasu
+      zdobywała doświadczenie w trzech różnych firmach, tworząc dokumentację
+      techniczną. Od ponad trzech lat zajmuje się pisaniem dokumentacji dla
+      rozwiązań dostępnych na Atlassian Marketplace. W maju 2025 roku ukończyła
+      studia podyplomowe z komunikacji technicznej na Akademii Finansów i
       Biznesu Vistula.
     </>
   ),
@@ -124,16 +103,6 @@ const englishDescriptions: { [id: string]: JSX.Element } = {
       practices yoga and cultivates plants in the community garden.
     </>
   ),
-  jkula: (
-    <>
-      A translator from English to Polish, Justyna specializes in legal
-      translations. SHe recently became a tech writer and embarked on a journey
-      into the world of IT. SHe graduated from the post-diploma course in
-      technical communication at Vistula University. She loves detective
-      stories, action films, amigurumi (crochet), and... writing. She plans on
-      publishing a crime novel about real human feelings. And parachute.
-    </>
-  ),
   pensjonatus: (
     <>
       He's been in the business of tech content since 2008. Has worked as a
@@ -155,28 +124,14 @@ const englishDescriptions: { [id: string]: JSX.Element } = {
       involved in documentation, he would have become a firefighter.
     </>
   ),
-  mrozek: (
-    <>
-      Monika is first and foremost a Technical Writer, at heart. She loves well
-      written content and is a fan of user centric design. She is also a
-      tireless advocate for the value that a good technical documentation adds
-      to the product. She believes that Technical Writers occupy a very unique
-      position in every organization that decides to have them: a busy
-      intersection between Developers, Product, Marketing, Support… Monika is
-      also a team manager, helping people achieve their best and to take pride
-      in what they do. She is an active technical content community member and a
-      public speaker. She co-organizes local meetups in Wrocław to help Writers
-      network, exchange ideas and inspire each other.
-    </>
-  ),
   magdazaczek: (
     <>
-      Magda began her career as a technical writer in 2019. Since then, she has 
-      gained experience working in three different companies, creating technical 
-      documentation for software apps. For over three years, she has been 
-      writing documentation for apps available on the Atlassian Marketplace.
-      In May 2025, she completed postgraduate studies in technical communication 
-      at the Vistula Academy of Finance and Business.
+      Magda began her career as a technical writer in 2019. Since then, she has
+      gained experience working in three different companies, creating technical
+      documentation for software apps. For over three years, she has been
+      writing documentation for apps available on the Atlassian Marketplace. In
+      May 2025, she completed postgraduate studies in technical communication at
+      the Vistula Academy of Finance and Business.
     </>
   ),
 };

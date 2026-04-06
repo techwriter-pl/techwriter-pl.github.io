@@ -8,8 +8,7 @@ type PartnerProps = {
   imageSrc: string;
 };
 
-export const contentBytesUrl =
-  'https://contentbytes.pl/';
+export const contentBytesUrl = 'https://contentbytes.pl/';
 
 const partners: PartnerProps[] = [
   {

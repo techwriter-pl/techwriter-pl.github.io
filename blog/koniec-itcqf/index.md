@@ -16,19 +16,17 @@ Po 10 latach, International Technical Communication Qualifications Foundation
 <!-- truncate -->
 
 Przyjąłem tę wiadomość z dużym smutkiem, ponieważ od samego początku z bliska
-obserwowałem poczynania fundacji. Najpierw jako trener miałem szansę dzielić
-się swoją wiedzą z uczestnikami szkoleń, a następnie jako członek zarządu miałem
+obserwowałem poczynania fundacji. Najpierw jako trener miałem szansę dzielić się
+swoją wiedzą z uczestnikami szkoleń, a następnie jako członek zarządu miałem
 zaszczyt pomagać w promocji fundacji. Ta działalność pozwoliła mi zobaczyć w
 praktyce jak bardzo wartościowe i potrzebne było (i nadal jest) szkolenie
 "Foundation Level".
 
 ## Skąd taka decyzja?
 
-Według
-oficjalnej informacji na stronie ITCQF,
-fundacja podjęła decyzję o zakończeniu działalności, ponieważ nie była w stanie
-osiągnąć założonych celów w obszarze edukacji i certyfikacji w komunikacji
-technicznej.
+Według oficjalnej informacji na stronie ITCQF, fundacja podjęła decyzję o
+zakończeniu działalności, ponieważ nie była w stanie osiągnąć założonych celów w
+obszarze edukacji i certyfikacji w komunikacji technicznej.
 
 Brzmi to dość pesymistycznie, ale według mnie ITCQF odegrała ważną rolę w
 szerzeniu wiedzy na temat naszej branży oraz standardów i dobrych praktyk

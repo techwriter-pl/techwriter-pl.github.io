@@ -72,7 +72,7 @@ Na odpowiedzi czekamy do **31 stycznia 2026** roku.
 ## Gdzie będzie można sprawdzić wyniki ankiety?
 
 Po zakończeniu badania, wyniki oczywiście opublikujemy na
-[techwriter.pl](https://techwriter.pl/). 
+[techwriter.pl](https://techwriter.pl/).
 
 Z góry dziękujemy za udział w badaniu!
 

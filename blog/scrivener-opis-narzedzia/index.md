@@ -54,9 +54,9 @@ została zaprojektowana. Oto trzy, które nam wydają się najpoważniejsze.**
    odnośniki, notki, artykuły, grafiki itp. Owszem, można je trzymać w osobnym
    pliku, ale jest to niewygodne i prowadzi dość często do bałaganu. Można też
    użyć jakiejś innej aplikacji (jak np. opisywany przez nas
-   [WikidPad](../wikidpad-opis-narzedzia/index.md)),
-   ale nie każdy lubi ciągle przełączać się pomiędzy dwoma programami, które
-   posiadają różny interfejs i odmienną filozofię działania.
+   [WikidPad](../wikidpad-opis-narzedzia/index.md)), ale nie każdy lubi ciągle
+   przełączać się pomiędzy dwoma programami, które posiadają różny interfejs i
+   odmienną filozofię działania.
 2. Praca z naprawdę dużym, skomplikowanym tekstem - kiedy mamy do czynienia z
    naprawdę sporym dokumentem, takim, którego ilość rozdziałów i podrozdziałów
    idzie w setki, stajemy przed poważnym problemem, gdy nagle trzeba zmienić
