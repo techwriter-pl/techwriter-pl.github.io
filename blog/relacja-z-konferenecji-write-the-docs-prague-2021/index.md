@@ -15,8 +15,7 @@ coverImage: '34495135662_d0f045f4a5_o-scaled.jpg'
 
 Na początku października odbyła się kolejna edycja dobrze już znanej konferencji
 [Write the Docs Prague](https://www.writethedocs.org/conf/prague/2021/). Nie
-mogło na niej zabraknąć przedstawicieli techwriter.pl.
-Zapraszamy na relację!
+mogło na niej zabraknąć przedstawicieli techwriter.pl. Zapraszamy na relację!
 
 <!--truncate-->
 

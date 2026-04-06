@@ -159,9 +159,10 @@ dziedzinę i rozwieją wiele wątpliwości.
 1. [Introduction To UX Writing](https://www.udemy.com/course/introduction-to-ux-writing/?couponCode=KEEPLEARNING)
    (Udemy)
 
-Oprócz powyższych rekomendacji warto również wspomnieć o [Button](https://www.buttonevents.com/events), 
-organizacji, która regularnie przeprowadza konferencje związane z UX writingiem, 
-w tym wiele darmowych webinarów. 
+Oprócz powyższych rekomendacji warto również wspomnieć o
+[Button](https://www.buttonevents.com/events), organizacji, która regularnie
+przeprowadza konferencje związane z UX writingiem, w tym wiele darmowych
+webinarów.
 
 UX writing to zdecydowanie więcej niż pisanie krótkich komunikatów. To tworzenie
 treści, które są przemyślane, spójne z profilem firmy i umieszczone w

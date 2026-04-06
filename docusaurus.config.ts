@@ -116,9 +116,7 @@ const config: Config = {
       darkTheme: prismThemes.dracula,
     },
   } satisfies Preset.ThemeConfig,
-  plugins: [
-    techWriterWebpackPlugin,
-  ],
+  plugins: [techWriterWebpackPlugin],
   themes: ['@docusaurus/theme-live-codeblock'],
 };
 

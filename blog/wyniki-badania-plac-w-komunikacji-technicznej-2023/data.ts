@@ -56,8 +56,8 @@ export const satisfactionAndEarningsTableProps: SurveyTableProps = {
     'Jak bardzo jesteś zadowolony/a ze swojej pracy w skali od 1 do 5?',
     rawData
   ),
-  title:  'Jak bardzo jesteś zadowolony/a ze swojej pracy w skali od 1 do 5?'
-}
+  title: 'Jak bardzo jesteś zadowolony/a ze swojej pracy w skali od 1 do 5?',
+};
 
 export const educationEarningsTableProps: SurveyTableProps = {
   dataset: getEarningsForQuestion(
@@ -82,7 +82,7 @@ export const companyTableProps: SurveyTableProps = {
 
 export const companySizePieChartProps: SurveyPieChartProps = {
   dataset: getPieChartDataset('Jak duża jest Twoja firma?', rawData),
-  title: 'Jak duża jest Twoja firma?'
+  title: 'Jak duża jest Twoja firma?',
 };
 
 export const companySizeTableProps: SurveyTableProps = {

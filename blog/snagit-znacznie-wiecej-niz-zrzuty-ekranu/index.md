@@ -516,11 +516,11 @@ Ponieważ czasem nie da się przewidzieć, do którego obrazu będziesz wielokro
 wracać, by nanosić poprawki, stanowczo zalecam zapisywanie do \*.snag. W ten
 sposób masz plik projektowy, który możesz później dostosować. Jeśli na wspólnych
 projektach pracuje kilku tech writerów, warto stworzyć współdzieloną lokalizację
-"Image_Bank" ze strukturą folderów tematycznych umożliwiającą łatwe
-wyszukiwanie stworzonych wcześniej obrazów. Dzięki temu, można bezkarnie
-wykorzystywać części istniejących już ilustracji innych autorów (zwłaszcza mam
-tu na myśli schematy z linii i kształtów). Pozwoli to wykorzystać przydatne
-elementy z innych ilustracji i nie tworzyć ich od zera za każdym razem.
+"Image_Bank" ze strukturą folderów tematycznych umożliwiającą łatwe wyszukiwanie
+stworzonych wcześniej obrazów. Dzięki temu, można bezkarnie wykorzystywać części
+istniejących już ilustracji innych autorów (zwłaszcza mam tu na myśli schematy z
+linii i kształtów). Pozwoli to wykorzystać przydatne elementy z innych
+ilustracji i nie tworzyć ich od zera za każdym razem.
 
 ![](images/speaker.png)Można stworzyć jeden zbiorczy folder w chmurze (w moim
 przykładzie będzie to OneDrive) na szybki backup plików \*.snag, które w dalszej
@@ -560,8 +560,8 @@ Podstawowy proces użycia wygląda tak:
    kombinacji przycisków). Można też kliknąć czerwony przycisk **Capture**.
 2. Wybór interesującego Cię obszaru.
 3. Ewentualna korekta zaznaczenia, wybór odpowiedniego trybu i zatwierdzenie.
-   Jeden sposób to kliknięcie i przeciągnięcie ramki zaznaczenia. Drugi
-   to nakierowanie kursora na interesujące okno, panel czy przycisk. Snagit
+   Jeden sposób to kliknięcie i przeciągnięcie ramki zaznaczenia. Drugi to
+   nakierowanie kursora na interesujące okno, panel czy przycisk. Snagit
    zasugeruje rozpoznane obszary, które zatwierdzisz pojedynczym kliknięciem.
    Możesz też kliknąć przycisk **Fullscreen** na górze ekranu.
 4. Natychmiastowa edycja obrazu w połączeniu z rysowaniem i efektami; przycięcie
@@ -694,8 +694,8 @@ włączyć natychmiastowe udostępnianie. Można udostępniać do kilku miejsc n
 
 ![](images/speaker.png)Można wyłączyć wszystkie główne opcje-przełączniki
 (`preview`, `clipboard`, `cursor`, `delay`) i włączyć udostępnianie do chmury,
-np.: OneDrive. Ponieważ jest to **All-In-One** to krok 3. będzie występował,
-a po nim plik \*.snag zostanie zapisany na udziale w wybranym miejscu.
+np.: OneDrive. Ponieważ jest to **All-In-One** to krok 3. będzie występował, a
+po nim plik \*.snag zostanie zapisany na udziale w wybranym miejscu.
 
 Po tych wszystkich kombinacjach, możesz wrócić do domyślnych ustawień klikając
 strzałkę:
@@ -1224,14 +1224,14 @@ kolejność.
 
 ![](images/coins.png)
 
-Genialne narzędzie do szybkiego dodawania numerowanych
-kroków. Możesz dostosować ich przezroczystość.
+Genialne narzędzie do szybkiego dodawania numerowanych kroków. Możesz dostosować
+ich przezroczystość.
 
 ![](images/stamp.png)
 
-Niezastąpione narzędzie do dodawania szybkich ikon takich
-jak krzyżyk, owalne zakreślenie, kursory i setki innych. Można dostosować w nim
-cień i przezroczystość.
+Niezastąpione narzędzie do dodawania szybkich ikon takich jak krzyżyk, owalne
+zakreślenie, kursory i setki innych. Można dostosować w nim cień i
+przezroczystość.
 
 ![](images/deskorolka.png)Można tworzyć własne zestawy ikon lub załadować gotowy
 zestaw. Wystarczy do katalogu `TechSmith\\Snagit 2020\\en-US\\Stamps\\`
@@ -1242,10 +1242,10 @@ kliknięciu `Organize Stamps`.
 
 ![](images/info.png)
 
-Służy do dodawania ramki z informacjami takimi jak: data,
-godzina, aplikacja, system operacyjny. Można też dodać dowolny tekst, np. nazwę
-projektu. **Capture Info** figuruje jako narzędzie w edytorze i również jako
-dostępny efekt dla presetów na bazie zakładki **Image**.
+Służy do dodawania ramki z informacjami takimi jak: data, godzina, aplikacja,
+system operacyjny. Można też dodać dowolny tekst, np. nazwę projektu. **Capture
+Info** figuruje jako narzędzie w edytorze i również jako dostępny efekt dla
+presetów na bazie zakładki **Image**.
 
 ##### Filters
 

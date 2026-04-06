@@ -11,8 +11,8 @@ coverImage: 'cakeconfupdates.png'
 Choć gorące lato zachęca do beztroskiego relaksu na świeżym powietrzu, zespół
 CAKE conf nie zwalnia tempa! Wytrwale pracujemy nad wrześniowym wydarzeniem, aby
 zapewnić Wam nie tylko solidną dawkę wiedzy od naszych ekspertów, ale także
-inspirującą przestrzeń do wymiany opinii i pomysłów. Czas na
-najświeższe informacje prosto zza kulis!
+inspirującą przestrzeń do wymiany opinii i pomysłów. Czas na najświeższe
+informacje prosto zza kulis!
 
 <!-- truncate -->
 
@@ -33,8 +33,8 @@ ekspertów :)
 
 Chcecie poznać nas jeszcze bliżej? Przygotowaliśmy dla Was
 [garść faktów o CAKE conf](https://cakeconf.contentbytes.pl/about), które
-przybliżą Wam zespół tworzący konferencję, naszą motywację i powody dla
-których warto być z nami we wrześniu!
+przybliżą Wam zespół tworzący konferencję, naszą motywację i powody dla których
+warto być z nami we wrześniu!
 
 ## Co dalej?
 

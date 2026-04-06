@@ -1,6 +1,4 @@
-import {
-  Card
-} from '@mui/material';
+import { Card } from '@mui/material';
 import friend from '@site/static/img/cover/docusaurus-zielony-przyjaciel.png';
 
 export function CollapseMe() {

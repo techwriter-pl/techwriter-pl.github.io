@@ -93,12 +93,13 @@ w przestrzeni publicznej, ale też w branży tłumaczeniowej. Chodzi mianowicie 
 tłumaczenie maszynowe i sztuczną inteligencję.
 
 Temat AI widziany oczami biura tłumaczeń rozpoczęła Magdalena Pluta z biura
-tłumaczeń Skrivanek. Opowiedziała o tym, jak biuro wykorzystuje
-narzędzia AI, jak zmieniają się potrzeby klientów i jak w związku z tym zmienia się zakres procesów, używanego oprogramowania i innych rozwiązań
-oraz jak dostawcy radzą sobie z technologiami AI. Pałeczkę przejął
-następnie Agenor Hoffmann-Delbor, który jest znaną postacią nie tylko w branży
-tłumaczeniowej, ale również, a może przede wszystkim, lokalizacyjnej. Dzień
-wcześniej poprowadził warsztaty tematycznie powiązane z sobotnią prelekcją.
+tłumaczeń Skrivanek. Opowiedziała o tym, jak biuro wykorzystuje narzędzia AI,
+jak zmieniają się potrzeby klientów i jak w związku z tym zmienia się zakres
+procesów, używanego oprogramowania i innych rozwiązań oraz jak dostawcy radzą
+sobie z technologiami AI. Pałeczkę przejął następnie Agenor Hoffmann-Delbor,
+który jest znaną postacią nie tylko w branży tłumaczeniowej, ale również, a może
+przede wszystkim, lokalizacyjnej. Dzień wcześniej poprowadził warsztaty
+tematycznie powiązane z sobotnią prelekcją.
 
 ![](images/thisisengineering.PNG)
 
@@ -130,9 +131,9 @@ nietłumaczalnych elementów, MT/SMT/NMT, czy ocena jakości MT (MTQE).
 ### LLM-y w tłumaczeniach
 
 Agenor opowiadał o zastosowaniach LLM-ów (czyli wielkich modeli językowych) w
-tłumaczeniach wg Custom.mt, których jest ponad 39. Wyróżniamy tu
-przygotowanie danych do tłumaczenia, ocenę jakości tekstu źródłowego,
-tłumaczenia, dalszą obróbkę, sprawdzenie jakości i wiele innych.
+tłumaczeniach wg Custom.mt, których jest ponad 39. Wyróżniamy tu przygotowanie
+danych do tłumaczenia, ocenę jakości tekstu źródłowego, tłumaczenia, dalszą
+obróbkę, sprawdzenie jakości i wiele innych.
 
 Prelegent mówił o tym, że w ciągu ostatniego roku zaobserwowano skok jakości
 tłumaczeń przy użyciu LLM-ów. Rozpoznawały one poprawnie 5 na 6 słów w
@@ -148,11 +149,11 @@ Wskazując na obecność sztucznej inteligencji w tłumaczeniach Agenor opowiada
 dodatku do Tradosa, czyli jednego z narzędzi wspomagających tłumaczenie, tzw.
 CAT-ów. Dodatek ten ma zaszytą w sobie pewną liczbę promptów, czyli zapytań. Co
 to oznacza? Ni mniej, ni więcej to, że za jego pomocą można zrobić różne
-przeróbki techniczne tekstu. Zalicza się do tego: anonimizację, zmianę płci w tłumaczeniu,
-podsumowanie, skrócanie tekstu, zmianę terminologii, wiele wersji tłumaczenia,
-sprawdzenie gramatyki, sprawdzenie jakości podpowiedzi z różnych silników,
-sprawdzenie „stosowności” tłumaczenia, dokańczanie podpowiedzi z pamięci
-tłumaczeń i poprawianie ich.
+przeróbki techniczne tekstu. Zalicza się do tego: anonimizację, zmianę płci w
+tłumaczeniu, podsumowanie, skrócanie tekstu, zmianę terminologii, wiele wersji
+tłumaczenia, sprawdzenie gramatyki, sprawdzenie jakości podpowiedzi z różnych
+silników, sprawdzenie „stosowności” tłumaczenia, dokańczanie podpowiedzi z
+pamięci tłumaczeń i poprawianie ich.
 
 Jak twierdzi prelegent, nie jest to najlepsze rozwiązanie. Po pierwsze dlatego,
 że bazuje na pracy z fragmentami tekstu, oderwanymi od całego dokumentu, od
@@ -222,25 +223,25 @@ zawodów w USA jest podatne na wprowadzenie AI: 7% zostanie całkiem zastąpiony
 - Google Bard – alternatywa dla ChatGPT
 
 - Claude – dostępny w Wielkiej Brytanii, USA, jeszcze nie w Europie, świetnie
-sobie radzi z tekstami prawnymi, wyciąga pułapki, które prawnicy zastawili na
-użytkownika np. w warunkach licencyjnych
+  sobie radzi z tekstami prawnymi, wyciąga pułapki, które prawnicy zastawili na
+  użytkownika np. w warunkach licencyjnych
 
 - HuggingFace - darmowa platforma, rozwiązanie m.in. Whisper, czyli rozwiązanie
-do rozpoznawania mowy
+  do rozpoznawania mowy
 
 ### Istnieją darmowe modele (open-source LLMs) takie jak:
 
 - LLaMa – posiada 65 mld parametrów
 
 - Alpaca (Uniwersytet Stanford) – za 600 USD można osiągnąć efekt porównywalny z
-GPT3
+  GPT3
 
 Powstały one dzięki temu, że z Facebooka/Meta wyciekły parametry, które powstały
 podczas trenowania dużego modelu językowego. Rozwiązania te szybko zyskują na
 jakości.
 
-– I można sobie taką LLaMę czy Alpakę „postawić” na swoim komputerze za
-600 dolarów – mówił Agenor. – Nie trzeba już trenować tego silnika tak, jak był
+– I można sobie taką LLaMę czy Alpakę „postawić” na swoim komputerze za 600
+dolarów – mówił Agenor. – Nie trzeba już trenować tego silnika tak, jak był
 trenowany duży model. Można mieć coś takiego we własnym zakresie.
 
 Agenor wspominał też o modelach, które działają na telefonach komórkowych.
@@ -379,8 +380,8 @@ przekroczyć w grze, czyli limit]
 człowiek będzie wiedział]
 
 W powyższych przykładach widać wyższość człowieka nad AI, ponieważ AI nie zawsze
-zauważy, że jest jakiś błąd w tekście. Słowa się zgadzają, ale tutaj
-chodzi o hamowanie silnikiem, co człowiek będzie wiedział, a AI już nie.
+zauważy, że jest jakiś błąd w tekście. Słowa się zgadzają, ale tutaj chodzi o
+hamowanie silnikiem, co człowiek będzie wiedział, a AI już nie.
 
 W przypadku dłuższych tekstów jest jeszcze gorzej.
 
@@ -396,8 +397,8 @@ Jest to słowotwórstwo, które miesza jedno z drugim.
 ### Im dalej od angielszczyzny, tym gorzej
 
 – W obszarze języka angielskiego jest jeszcze spokojnie. Jak w parze językowej
-  nie ma angielszczyzny, to AI niestety mocno głupieje – mówił prelegent.
-  Spójrzmy na przykład tłumaczenia maszynowego innych języków.
+nie ma angielszczyzny, to AI niestety mocno głupieje – mówił prelegent. Spójrzmy
+na przykład tłumaczenia maszynowego innych języków.
 
 ![MT_other_lngs](images/MT_other_lngs.PNG)
 
@@ -534,12 +535,12 @@ w parze z tłumaczeniem maszynowym.
 ### Tłumacz w sądzie i w prokuraturze – bo język prawa nie jest łatwy?
 
 Prowadzący rozpoczęli tę część dyskusji od tego, że istnieją języki, które mają
-dużo różnych wariantów. Albo są pełne dialektów i np. w każdej wsi w danym kraju mówi
-się inaczej. Tak więc jeśli tłumacz zna dany język, to zna też powiązane z nim
-konteksty historyczne, kulturowe, dialekty czy warianty, to taki tłumacz „może
-więcej”. A silnik czy telefon użyty do tłumaczenia maszynowego może wyrządzić
-więcej szkody niż pożytku takiej osobie, która potrzebuje pomocy czy to w sądzie
-czy w prokuraturze.
+dużo różnych wariantów. Albo są pełne dialektów i np. w każdej wsi w danym kraju
+mówi się inaczej. Tak więc jeśli tłumacz zna dany język, to zna też powiązane z
+nim konteksty historyczne, kulturowe, dialekty czy warianty, to taki tłumacz
+„może więcej”. A silnik czy telefon użyty do tłumaczenia maszynowego może
+wyrządzić więcej szkody niż pożytku takiej osobie, która potrzebuje pomocy czy
+to w sądzie czy w prokuraturze.
 
 Bo maszyna, nawet najbardziej inteligentna nie wyjaśni i nie pomoże zrozumieć
 temu, komu tłumaczy albo kogo tłumaczy zawiłej formułki prawniczej czy terminów
@@ -626,14 +627,15 @@ dopiero potem są wpuszczane na salę właściwą.
 ### To co z tymi maszynami mającymi zastąpić człowieka?
 
 Jak stwierdził jeden z uczestników, maszyny nie zastąpią całkowicie tłumaczy.
-Będzie raczej następować ich separacja, czyli do danej sytuacji, do konkretnego zakresu wykorzystane będzie albo jedno albo drugie. Powstaje pytanie, na ile ludzie, nie tłumacze,
-tylko ludzie korzystający z usług tłumaczy będą chcieli rozmawiać z maszyną.
-Przy jakich tekstach czy w jakich kontekstach będą chcieli używać maszyny do
-tłumaczenia.
+Będzie raczej następować ich separacja, czyli do danej sytuacji, do konkretnego
+zakresu wykorzystane będzie albo jedno albo drugie. Powstaje pytanie, na ile
+ludzie, nie tłumacze, tylko ludzie korzystający z usług tłumaczy będą chcieli
+rozmawiać z maszyną. Przy jakich tekstach czy w jakich kontekstach będą chcieli
+używać maszyny do tłumaczenia.
 
-– Takie porównanie: były tramwaje w mieście, potem ich nie było, a
-potem powróciły, bo się okazało, że są potrzebne, więc może bez tych naszych
-tramwajów tłumaczeniowych też się obyć nie będzie można – dodał na koniec.
+– Takie porównanie: były tramwaje w mieście, potem ich nie było, a potem
+powróciły, bo się okazało, że są potrzebne, więc może bez tych naszych tramwajów
+tłumaczeniowych też się obyć nie będzie można – dodał na koniec.
 
 ## Podsumowanie
 
@@ -647,8 +649,8 @@ kontaktu osobistego na co dzień.
 
 Niektórzy patrzą z niepokojem w przyszłość i zastanawiają się, czy nie staną się
 przeżytkami w dobie tłumaczenia maszynowego i coraz szerszych zastosowań
-sztucznej inteligencji. Jednak gros tłumaczy jest zgodne co do tego, że
-maszyny ich tak szybko nie zastąpią.
+sztucznej inteligencji. Jednak gros tłumaczy jest zgodne co do tego, że maszyny
+ich tak szybko nie zastąpią.
 
 Są one z nami od jakiegoś czasu, ale stosunkowo jest to nowość, tak jak kiedyś
 CAT-y (czyli narzędzia wspomagające tłumaczenie), co do których również obawiano

@@ -110,7 +110,6 @@ doświadczenia tłumaczeniowego, ani ściśle technicznego.
 #### Ciąg dalszy nastąpi
 
 Przed studentami i studentkami drugi semestr: praca dyplomowa, która będzie mieć
-formę praktycznego projektu, oraz - dla chętnych - podejście do egzaminu
-ITCQF. To będzie już prawdopodobnie jazda bez trzymanki,
-ale nie uprzedzajmy faktów - drugą część tego tekstu napiszę już jako (oby!)
-absolwentka.
+formę praktycznego projektu, oraz - dla chętnych - podejście do egzaminu ITCQF.
+To będzie już prawdopodobnie jazda bez trzymanki, ale nie uprzedzajmy faktów -
+drugą część tego tekstu napiszę już jako (oby!) absolwentka.

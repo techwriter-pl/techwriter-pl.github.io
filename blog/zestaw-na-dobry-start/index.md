@@ -86,8 +86,8 @@ pomoże Ci to oszacować.
 
 ## Zdobywanie doświadczenia: projekty open source
 
-Dobrym sposobem na zbudowanie portfolio jest zaangażować się w projekt *open
-source*.
+Dobrym sposobem na zbudowanie portfolio jest zaangażować się w projekt _open
+source_.
 
 ![](images/super_maly_pac.png)
 [Projekty open source dla technical writerów](../projekty-open-source-dla-technical-writerow/index.md)
