@@ -218,6 +218,14 @@ export const conferences: Conference[] = [
     link: 'https://www.writethedocs.org/conf/berlin/2026/',
   },
   {
+    title: 'Contenty Bytes Conference',
+    startDate: new Date('24 September 2026'),
+    endDate: new Date('25 September 2026'),
+    location: 'Kraków, Polska',
+    type: ['in-person'],
+    link: 'https://contentbytes.pl/',
+  },
+  {
     title: 'MadCap Europe Day',
     startDate: new Date('21 May 2026'),
     endDate: new Date('21 May 2026'),
