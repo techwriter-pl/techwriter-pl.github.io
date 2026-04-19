@@ -110,11 +110,12 @@ nienachalna, nie robili wielkie wielkiego demo swojego produktu.
 W cztery miesiące zorganizowali międzynarodowe wydarzenie.
 
 ### soap! odbywa się po raz pierwszy: 3 październik 2013
-![](images/2013_scena.jpg)
-W konferencji wzięło udział 120 osób, odbyła się ono na uczelni na Wyższej
-Szkoły Europejskiej im. ks. Józefa Tischnera, której Gosia była absolwentką.
-Organizatorzy soap! znaleźli kilku sponsorów. Agnieszka Tkaczyk pełniła rolę
-konferansjerki i świetnie sobie poradziła mimo opornego projektora.
+
+![](images/2013_scena.jpg) W konferencji wzięło udział 120 osób, odbyła się ono
+na uczelni na Wyższej Szkoły Europejskiej im. ks. Józefa Tischnera, której Gosia
+była absolwentką. Organizatorzy soap! znaleźli kilku sponsorów. Agnieszka
+Tkaczyk pełniła rolę konferansjerki i świetnie sobie poradziła mimo opornego
+projektora.
 
 Noz Urbina, którego organizatorzy słuchali podczas Congility, na soap! również
 wystąpił jako speaker.
@@ -147,13 +148,13 @@ wypełniony organizacją konferencji.
 
 Gosia chciała pociągnąć ten wysiłek dalej. Powstała ekipa o takim składzie:
 
-| Osoba                         | Background                                                                                                      | Rola/obszaR                                                                                      |
-| ----------------------------- | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| Gosia Radymiak                |                                                                                                                 | Project Manager, który spina wszystko w całość, "_driver_" projektu.                      |
-| Karolina Karbarz              |                                                                                                                 | Trzyma pieczę nad witryną, grafikami, szatą graficzną                                     |
-| Piotr Milewski zwany Piterem | Absolwent Wyższej Szkoły Europejskiej                                                                           | Speakerzy i trenerzy. Laptopy, ekrany, współpraca z Manggha.    |
-| Agnieszka Tkaczyk             |                                                                                                                 | Sponsorzy i partnerzy                                                        |
-| Iga Koprowska                 | Odbyła kurs technical writingowy dla studentów Uniwersytetu Jagielońskiego razem z Gosia, kiedy była w Motoroli. | Media społecznościowe, komunikaty, copywriting na stronę, branding. |
+| Osoba                        | Background                                                                                                       | Rola/obszaR                                                          |
+| ---------------------------- | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| Gosia Radymiak               |                                                                                                                  | Project Manager, który spina wszystko w całość, "_driver_" projektu. |
+| Karolina Karbarz             |                                                                                                                  | Trzyma pieczę nad witryną, grafikami, szatą graficzną                |
+| Piotr Milewski zwany Piterem | Absolwent Wyższej Szkoły Europejskiej                                                                            | Speakerzy i trenerzy. Laptopy, ekrany, współpraca z Manggha.         |
+| Agnieszka Tkaczyk            |                                                                                                                  | Sponsorzy i partnerzy                                                |
+| Iga Koprowska                | Odbyła kurs technical writingowy dla studentów Uniwersytetu Jagielońskiego razem z Gosia, kiedy była w Motoroli. | Media społecznościowe, komunikaty, copywriting na stronę, branding.  |
 
 Piter i jego technologiczne centrum kontroli wszechświata:
 
@@ -167,10 +168,11 @@ Link do źródła na
 ![](images/2022_piter.jpg)
 
 ## Po raz drugi: 2-3 października 2014
-![](images/2014_aula.jpg)
-Ekipa postanowiła zmienić miejsce z powodu ograniczeń wcześniejszej lokalizacji.
-Wybrali klimatyczny budynek dawnej fabryki kabli, który został zaadaptowany na
-przestrzenie biurowe. Po raz pierwszy zrobili warsztaty.
+
+![](images/2014_aula.jpg) Ekipa postanowiła zmienić miejsce z powodu ograniczeń
+wcześniejszej lokalizacji. Wybrali klimatyczny budynek dawnej fabryki kabli,
+który został zaadaptowany na przestrzenie biurowe. Po raz pierwszy zrobili
+warsztaty.
 
 Paweł pełnił rolę konferansjera.
 
@@ -178,8 +180,9 @@ Pierwszy, darmowy dzień konferencji przyciągnął 170 uczestników, drugi pła
 dzień 80.
 
 ## Po raz trzeci: 8-9 października 2015
-![](images/2015_Patryk_Olczak_Jadzka_Rysuje.jpg)
-Plaża Krakow jakieś lokum, które należy przemilczeć.
+
+![](images/2015_Patryk_Olczak_Jadzka_Rysuje.jpg) Plaża Krakow jakieś lokum,
+które należy przemilczeć.
 
 Jak to czasem bywa, nie z winy organizatorów, pojawiły się trudności.
 Wynajmujący zapomniał wspomnieć o dziurze w dachu. Było tak zimno, że uczestnicy
@@ -189,14 +192,14 @@ Mimo takich trudności, morale i poziom merytoryczny wydarzenia były nader
 wysokie.
 
 ## Content Edu Summit
+
 ![](images/edu_summit.jpg)
 
-
 ## Po raz czwarty: 1-3 czerwca 2016
-![](images/2016.jpg)
-Po raz pierwszy konferencja odbyła się w Manggha - dobra chemia i perspektywy na
-przyszłość. Od tamtego czasu, wszystkie kolejne edycje odbywały się w Muzeum
-Manggha.
+
+![](images/2016.jpg) Po raz pierwszy konferencja odbyła się w Manggha - dobra
+chemia i perspektywy na przyszłość. Od tamtego czasu, wszystkie kolejne edycje
+odbywały się w Muzeum Manggha.
 
 ### Miejsce relaksu i dobrych rozmów
 
@@ -210,14 +213,15 @@ charakteryzuje się tym, że jest tam dużo aktywności dla uczniów.
 Temat przewodni: "My" zamiast "Oni".
 
 ## Po raz piąty: 7-9 czerwca 2017
-![](images/2017_garden.jpg)
-Temat przewodni: Rozwiązywanie problemów.
+
+![](images/2017_garden.jpg) Temat przewodni: Rozwiązywanie problemów.
 
 ## Po raz szósty: 23-25 maja 2018
-![](images/2018_garden.jpg)
-Temat przewodni: Innowacja kontra prostota.
+
+![](images/2018_garden.jpg) Temat przewodni: Innowacja kontra prostota.
 
 ## Po raz siódmy: 5-7 czerwca 2019
+
 ![](images/2019_michal_pawel.jpg)
 
 Temat przewodni: _Content as Code_.
@@ -232,10 +236,10 @@ się mniej skłonni do podróży.
 Trudniej było znaleźć sponsorów.
 
 ## Po raz ósmy: 1-3 czerwca 2022
-![](images/2022_wyklad.jpg)
-Powrót po przerwie należał do trudnych. Ekipie zależało na tym, by zrewidować
-dobre i złe praktyki, które zdążyły się akumulować przez lata. Stale są
-wyczuleni na uwagi odwiedzających.
+
+![](images/2022_wyklad.jpg) Powrót po przerwie należał do trudnych. Ekipie
+zależało na tym, by zrewidować dobre i złe praktyki, które zdążyły się
+akumulować przez lata. Stale są wyczuleni na uwagi odwiedzających.
 
 Temat wiodący: przyszłość technical writingu.
 
@@ -268,15 +272,14 @@ Dzięki tej grze poznałem Mateusza Boryckiego, który dobrzy wywiązywał się 
 bycia głową rodziny w tej dokumentacyjnej "Familiadzie".
 
 ## Po raz dziewiąty: 1-3 czerwca 2023
-![](2023_publika.jpg)
-Ostatnia edycja konferencji jaka dotychczas miała miejsce.
+
+![](2023_publika.jpg) Ostatnia edycja konferencji jaka dotychczas miała miejsce.
 
 Podkreślić warto jest to, że w tej edycji Paulina Dygoń, która należy do
 założycieli pierwszej/pierwszych edycji, tym razem po raz pierwszy wzięła do
 ręki mikrofon i przedstawiła temat "Why a PM is like a DJ".
 
 Temat przewodni: _Content Operations_.
-
 
 ### soap! box
 
@@ -291,7 +294,7 @@ na skrzynce 😀.
 
 ## Przerwa po 2023
 
-Po konferencji 2023 przyszedł  czas przerwę i refleksję na zmianą formuły i
+Po konferencji 2023 przyszedł czas przerwę i refleksję na zmianą formuły i
 upewnieniem się, że różne konkurujące nurty technical writingowe są dobrze
 zbalansowane. W uwagach uczestników często padały prośby o więcej praktycznych
 zajęć i tematów. Wykłady nie muszą być tylko wysokopoziomowe.
@@ -307,12 +310,12 @@ będziesz przewijać tabelę w poziomie paskiem u dołu.
 | 2013 | Wyższa Szkoła Europejska im. ks. Józefa Tischnera |                               | 1          | Nie                      |           | 120                |                       | Nie              |
 | 2014 | hub:raum                                          | a clean; start;               | 2          | Tak                      |           | 140, 100           | Paweł                 | Nie              |
 | 2015 | Do przemilczenia                                  | Wieloraki                     | 3          | Tak                      | 17        | 170, 80            |                       |                  |
-| 2016 | Manggha                                            | "My" zamiast "Oni"            | 3          | 5 sesji                  | 17        | 220, 125           |                       |                  |
-| 2017 | Manggha                                            | Rozwiązywanie problemów       | 3          | Tak                      |           |                    |                       |                  |
-| 2018 | Manggha                                            | Innowacja kontra prostota     | 3          | Tak                      | 23        |                    | Gosia                 | Nie              |
-| 2019 | Manggha                                            | _Content as Code_             | 3          | 6 warsztatów dla 60 osób |           | Rekord?            | Gosia                 | Nie              |
-| 2022 | Manggha                                            | Przyszłość technical writingu | 3          | Tak                      |           |                    | Aga                   | Tak              |
-| 2023 | Manggha                                            | _Content Operations_          | 3          | Tak                      |           |                    | Gosia                 | Tak              |
+| 2016 | Manggha                                           | "My" zamiast "Oni"            | 3          | 5 sesji                  | 17        | 220, 125           |                       |                  |
+| 2017 | Manggha                                           | Rozwiązywanie problemów       | 3          | Tak                      |           |                    |                       |                  |
+| 2018 | Manggha                                           | Innowacja kontra prostota     | 3          | Tak                      | 23        |                    | Gosia                 | Nie              |
+| 2019 | Manggha                                           | _Content as Code_             | 3          | 6 warsztatów dla 60 osób |           | Rekord?            | Gosia                 | Nie              |
+| 2022 | Manggha                                           | Przyszłość technical writingu | 3          | Tak                      |           |                    | Aga                   | Tak              |
+| 2023 | Manggha                                           | _Content Operations_          | 3          | Tak                      |           |                    | Gosia                 | Tak              |
 
 ## Wpływ soap! na środowisko skupione wokół komunikacji technicznej
 
@@ -344,9 +347,9 @@ krakowski przestał być aktywny. W Krakowie powstała nowa marka: Content Bytes
 założona przez Barbarę Czyż i Edytę Rakowską.
 
 ## Rocznica
-![](2023_soapy_crew.jpg)
-Pierwsza edycja soap! odbyła się w październiku 2013. W 2023 roku całej
-inicjatywie stuknęło 10 lat.
+
+![](2023_soapy_crew.jpg) Pierwsza edycja soap! odbyła się w październiku 2013. W
+2023 roku całej inicjatywie stuknęło 10 lat.
 
 W październiku 2026 soap! skończy 13 lat! Gratulacje dla ekipy organizującej te
 cudowne wydarzenia i dla wszystkich jej uczestników. Warto było dzielić te
