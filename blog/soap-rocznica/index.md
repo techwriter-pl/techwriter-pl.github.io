@@ -194,9 +194,9 @@ wysokie.
 
 ## Po raz czwarty: 1-3 czerwca 2016
 ![](images/2016.jpg)
-Po raz pierwszy konferencja odbyła się w Mangha - dobra chemia i perspektywy na
+Po raz pierwszy konferencja odbyła się w Manggha - dobra chemia i perspektywy na
 przyszłość. Od tamtego czasu, wszystkie kolejne edycje odbywały się w Muzeum
-Mangha.
+Manggha.
 
 ### Miejsce relaksu i dobrych rozmów
 
@@ -307,12 +307,12 @@ będziesz przewijać tabelę w poziomie paskiem u dołu.
 | 2013 | Wyższa Szkoła Europejska im. ks. Józefa Tischnera |                               | 1          | Nie                      |           | 120                |                       | Nie              |
 | 2014 | hub:raum                                          | a clean; start;               | 2          | Tak                      |           | 140, 100           | Paweł                 | Nie              |
 | 2015 | Do przemilczenia                                  | Wieloraki                     | 3          | Tak                      | 17        | 170, 80            |                       |                  |
-| 2016 | Mangha                                            | "My" zamiast "Oni"            | 3          | 5 sesji                  | 17        | 220, 125           |                       |                  |
-| 2017 | Mangha                                            | Rozwiązywanie problemów       | 3          | Tak                      |           |                    |                       |                  |
-| 2018 | Mangha                                            | Innowacja kontra prostota     | 3          | Tak                      | 23        |                    | Gosia                 | Nie              |
-| 2019 | Mangha                                            | _Content as Code_             | 3          | 6 warsztatów dla 60 osób |           | Rekord?            | Gosia                 | Nie              |
-| 2022 | Mangha                                            | Przyszłość technical writingu | 3          | Tak                      |           |                    | Aga                   | Tak              |
-| 2023 | Mangha                                            | _Content Operations_          | 3          | Tak                      |           |                    | Gosia                 | Tak              |
+| 2016 | Manggha                                            | "My" zamiast "Oni"            | 3          | 5 sesji                  | 17        | 220, 125           |                       |                  |
+| 2017 | Manggha                                            | Rozwiązywanie problemów       | 3          | Tak                      |           |                    |                       |                  |
+| 2018 | Manggha                                            | Innowacja kontra prostota     | 3          | Tak                      | 23        |                    | Gosia                 | Nie              |
+| 2019 | Manggha                                            | _Content as Code_             | 3          | 6 warsztatów dla 60 osób |           | Rekord?            | Gosia                 | Nie              |
+| 2022 | Manggha                                            | Przyszłość technical writingu | 3          | Tak                      |           |                    | Aga                   | Tak              |
+| 2023 | Manggha                                            | _Content Operations_          | 3          | Tak                      |           |                    | Gosia                 | Tak              |
 
 ## Wpływ soap! na środowisko skupione wokół komunikacji technicznej
 
