@@ -1,7 +1,7 @@
 ---
 title: '12 rocznica konferencji soap!'
 authors: niewiarowski
-date: '2025-12-10'
+date: '2026-30-04'
 tags:
   - 'społeczność'
   - 'z-kraju'
@@ -10,7 +10,7 @@ coverImage: 'soap_title.jpg'
 ---
 
 Konferencje soap! zajmują szczególne miejsce w sercach osób żyjących komunikacją
-techniczną. Na łamach techwriter.pl z dumą zamieściliśmy relacji z każdej
+techniczną. Na łamach techwriter.pl z dumą zamieściliśmy relacje z każdej
 edycji. Wydarzenia te miały duży wpływ na zawiązanie się społeczności technical
 writingowej i przyczyniły się do przyspieszenia jej rozwoju. Z jubileuszowego
 artykułu dowiesz się:
@@ -48,10 +48,8 @@ na której prelegentem był [Noz Urbina](https://www.linkedin.com/in/nozurbina/)
 Konferencja było bardzo udana, wypełniały ją spotkania, nawiązywanie kontaktów,
 przekazywanie wiedzy.
 
-Po powrocie, trójka bohaterów przedstawiła pomysł żeby firma wysłała ich do
-Wielkiej Brytanii na delegację ale koszt był niebanalny. Był wtedy czerwiec 2013
-roku. Postanowili w październiku tamtego roku zrobić własną konferencję w
-Polsce.
+Był wtedy czerwiec 2013 roku. Postanowili w październiku tamtego roku zrobić
+własną konferencję w Polsce.
 
 ## Stan branży w 2013
 
@@ -112,7 +110,7 @@ nienachalna, nie robili wielkie wielkiego demo swojego produktu.
 W cztery miesiące zorganizowali międzynarodowe wydarzenie.
 
 ### soap! odbywa się po raz pierwszy: 3 październik 2013
-
+![](images/2013_scena.jpg)
 W konferencji wzięło udział 120 osób, odbyła się ono na uczelni na Wyższej
 Szkoły Europejskiej im. ks. Józefa Tischnera, której Gosia była absolwentką.
 Organizatorzy soap! znaleźli kilku sponsorów. Agnieszka Tkaczyk pełniła rolę
@@ -136,7 +134,7 @@ roku doszło do spotkania z całkiem rozbudowaną agendą.
 
 ![](images/pawel.png)
 
-Cytując oryginalny podpis z wpisu na ówczesnej stronie soap!:
+Oryginalny podpis z ówczesnej strony soap!:
 
 > You can tell when a man is serious.
 
@@ -149,15 +147,15 @@ wypełniony organizacją konferencji.
 
 Gosia chciała pociągnąć ten wysiłek dalej. Powstała ekipa o takim składzie:
 
-| Osoba                         | Background                                                                                                      | Rola                                                                                      |
+| Osoba                         | Background                                                                                                      | Rola/obszaR                                                                                      |
 | ----------------------------- | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
 | Gosia Radymiak                |                                                                                                                 | Project Manager, który spina wszystko w całość, "_driver_" projektu.                      |
 | Karolina Karbarz              |                                                                                                                 | Trzyma pieczę nad witryną, grafikami, szatą graficzną                                     |
-| Piotr Milewski a.k.a. "Piter" | Absolwent Wyższej Szkoły Europejskiej                                                                           | Odpowiada za speakerów i trenerów. Magik od laptopów, ekranów, współpracuje z Manggha.    |
-| Agnieszka Tkaczyk             |                                                                                                                 | Odpowiada za sponsorów i partnerów                                                        |
-| Iga Koprowska                 | Odbyła kurs technical writingowy dla studentów Uniwersytetu Jagielońskiego wraz z Gosia, kiedy była w Motoroli. | Specjalistka od mediów społecznościowych, komunikatów, copywritingu na stronę, brandingu. |
+| Piotr Milewski zwany Piterem | Absolwent Wyższej Szkoły Europejskiej                                                                           | Speakerzy i trenerzy. Laptopy, ekrany, współpraca z Manggha.    |
+| Agnieszka Tkaczyk             |                                                                                                                 | Sponsorzy i partnerzy                                                        |
+| Iga Koprowska                 | Odbyła kurs technical writingowy dla studentów Uniwersytetu Jagielońskiego razem z Gosia, kiedy była w Motoroli. | Media społecznościowe, komunikaty, copywriting na stronę, branding. |
 
-Piter i jego technologiczne królestwo/centrum kontroli wszechświata:
+Piter i jego technologiczne centrum kontroli wszechświata:
 
 ![](images/laptopy.jpg)
 
@@ -166,8 +164,10 @@ Piter i jego technologiczne królestwo/centrum kontroli wszechświata:
 Link do źródła na
 [platformie X](https://x.com/em_piter/status/999946418587684864?t=fvLzHHgbrzLc-Zd1MZyWKQ&s=07).
 
-## Po raz drugi: 2-3 października 2014
+![](images/2022_piter.jpg)
 
+## Po raz drugi: 2-3 października 2014
+![](images/2014_aula.jpg)
 Ekipa postanowiła zmienić miejsce z powodu ograniczeń wcześniejszej lokalizacji.
 Wybrali klimatyczny budynek dawnej fabryki kabli, który został zaadaptowany na
 przestrzenie biurowe. Po raz pierwszy zrobili warsztaty.
@@ -178,7 +178,7 @@ Pierwszy, darmowy dzień konferencji przyciągnął 170 uczestników, drugi pła
 dzień 80.
 
 ## Po raz trzeci: 8-9 października 2015
-
+![](images/2015_Patryk_Olczak_Jadzka_Rysuje.jpg)
 Plaża Krakow jakieś lokum, które należy przemilczeć.
 
 Jak to czasem bywa, nie z winy organizatorów, pojawiły się trudności.
@@ -188,8 +188,12 @@ musieli siedzieć w kurtkach i szalikach, było bardzo zimno (październik).
 Mimo takich trudności, morale i poziom merytoryczny wydarzenia były nader
 wysokie.
 
-## Po raz czwarty: 1-3 czerwca 2016
+## Content Edu Summit
+![](images/edu_summit.jpg)
 
+
+## Po raz czwarty: 1-3 czerwca 2016
+![](images/2016.jpg)
 Po raz pierwszy konferencja odbyła się w Mangha - dobra chemia i perspektywy na
 przyszłość. Od tamtego czasu, wszystkie kolejne edycje odbywały się w Muzeum
 Mangha.
@@ -206,14 +210,15 @@ charakteryzuje się tym, że jest tam dużo aktywności dla uczniów.
 Temat przewodni: "My" zamiast "Oni".
 
 ## Po raz piąty: 7-9 czerwca 2017
-
+![](images/2017_garden.jpg)
 Temat przewodni: Rozwiązywanie problemów.
 
 ## Po raz szósty: 23-25 maja 2018
-
+![](images/2018_garden.jpg)
 Temat przewodni: Innowacja kontra prostota.
 
 ## Po raz siódmy: 5-7 czerwca 2019
+![](images/2019_michal_pawel.jpg)
 
 Temat przewodni: _Content as Code_.
 
@@ -227,7 +232,7 @@ się mniej skłonni do podróży.
 Trudniej było znaleźć sponsorów.
 
 ## Po raz ósmy: 1-3 czerwca 2022
-
+![](images/2022_wyklad.jpg)
 Powrót po przerwie należał do trudnych. Ekipie zależało na tym, by zrewidować
 dobre i złe praktyki, które zdążyły się akumulować przez lata. Stale są
 wyczuleni na uwagi odwiedzających.
@@ -263,7 +268,7 @@ Dzięki tej grze poznałem Mateusza Boryckiego, który dobrzy wywiązywał się 
 bycia głową rodziny w tej dokumentacyjnej "Familiadzie".
 
 ## Po raz dziewiąty: 1-3 czerwca 2023
-
+![](2023_publika.jpg)
 Ostatnia edycja konferencji jaka dotychczas miała miejsce.
 
 Podkreślić warto jest to, że w tej edycji Paulina Dygoń, która należy do
@@ -271,6 +276,7 @@ założycieli pierwszej/pierwszych edycji, tym razem po raz pierwszy wzięła do
 ręki mikrofon i przedstawiła temat "Why a PM is like a DJ".
 
 Temat przewodni: _Content Operations_.
+
 
 ### soap! box
 
@@ -283,16 +289,16 @@ starannie przygotowanych warsztatów i prezentacji. Zarówno organizatorzy jak i
 publiczność byli bardzo otwarci na to, co do powiedzenia mieli speakerzy stojący
 na skrzynce 😀.
 
-## Przerwa 2024-2025
+## Przerwa po 2023
 
-Po konferencji 2023 przyszedł wtedy czas przerwę i refleksję na zmianą formuły i
+Po konferencji 2023 przyszedł  czas przerwę i refleksję na zmianą formuły i
 upewnieniem się, że różne konkurujące nurty technical writingowe są dobrze
 zbalansowane. W uwagach uczestników często padały prośby o więcej praktycznych
 zajęć i tematów. Wykłady nie muszą być tylko wysokopoziomowe.
 
 ## Podsumowanie faktów i liczb
 
-Tutaj coś dla miłośników suchych danych. Tabelka pomaga prześledzić jak
+Tutaj coś dla miłośników tabelek z danymi. Tabelka pomaga prześledzić jak
 rozwijały się te wydarzenia. Treści jest sporo, więc możliwe, że potrzebować
 będziesz przewijać tabelę w poziomie paskiem u dołu.
 
@@ -334,15 +340,15 @@ spotkania stale rósł. Zaczęło się rozkręcanie meetupów. W Brnie odbyły t
 meetupy.
 
 Meet Content i Content Bytes. Meet Content nadal działa we Wrocławiu. Oddział
-krakowski przestał być aktywny. W Krakowie powstała nowa marka Content Bytes
+krakowski przestał być aktywny. W Krakowie powstała nowa marka: Content Bytes
 założona przez Barbarę Czyż i Edytę Rakowską.
 
 ## Rocznica
-
+![](2023_soapy_crew.jpg)
 Pierwsza edycja soap! odbyła się w październiku 2013. W 2023 roku całej
 inicjatywie stuknęło 10 lat.
 
-W październiku 2025 soap! skończył 12 lat! Gratulacje dla ekipy organizującej te
+W październiku 2026 soap! skończy 13 lat! Gratulacje dla ekipy organizującej te
 cudowne wydarzenia i dla wszystkich jej uczestników. Warto było dzielić te
 doświadczenia.
 
