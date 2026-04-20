@@ -80,10 +80,10 @@ z 2015 roku.
 
 Po wybraniu głównego symbolu, pozostało rozpisac skrót:
 
-- _Strategy_
-- _Opportunity_
-- _Advancity_
-- _Professionalism_
+- Strategy
+- Opportunity
+- Advancity
+- Professionalism
 
 Słowa te brzmią ambitnie, profesjonalnie i nieco tajemniczo.
 
@@ -233,7 +233,7 @@ Temat przewodni: "My" zamiast "Oni".
 
 ![](images/2019_michal_pawel.jpg)
 
-Temat przewodni: _Content as Code_.
+Temat przewodni: Content as Code.
 
 ## Przerwa z powodu pandemii 2020-2021
 
@@ -288,7 +288,7 @@ Podkreślić warto jest to, że w tej edycji Paulina Dygoń, która należy do
 założycieli i inicjatorki pierwszej edycji, tym razem po raz pierwszy wzięła do
 ręki mikrofon i przedstawiła temat "Why a PM is like a DJ".
 
-Temat przewodni: _Content Operations_.
+Temat przewodni: Content Operations.
 
 ### soap! box
 
@@ -322,9 +322,9 @@ będziesz przewijać tabelę w poziomie paskiem u dołu.
 | 2016 | Manggha                                           | "My" zamiast "Oni"            | 3          | 5 sesji                  | 17        | 220, 125           |                       |                  |
 | 2017 | Manggha                                           | Rozwiązywanie problemów       | 3          | Tak                      |           |                    |                       |                  |
 | 2018 | Manggha                                           | Innowacja kontra prostota     | 3          | Tak                      | 23        |                    | Gosia                 | Nie              |
-| 2019 | Manggha                                           | _Content as Code_             | 3          | 6 warsztatów dla 60 osób |           | Rekord?            | Gosia                 | Nie              |
+| 2019 | Manggha                                           | Content as Code             | 3          | 6 warsztatów dla 60 osób |           | Rekord?            | Gosia                 | Nie              |
 | 2022 | Manggha                                           | Przyszłość technical writingu | 3          | Tak                      |           |                    | Aga                   | Tak              |
-| 2023 | Manggha                                           | _Content Operations_          | 3          | Tak                      |           |                    | Gosia                 | Tak              |
+| 2023 | Manggha                                           | Content Operations          | 3          | Tak                      |           |                    | Gosia                 | Tak              |
 
 ## Wpływ soap! na środowisko skupione wokół komunikacji technicznej
 
