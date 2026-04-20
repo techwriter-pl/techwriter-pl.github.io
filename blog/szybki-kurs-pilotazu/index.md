@@ -83,7 +83,7 @@ Postaraj się przygotować na taki scenariusz poprzez odpowiednie zapisy w umowi
 ## Pomoc potrzebna od zaraz
 
 Życie lubi nas zaskakiwać, szczególnie na początku naszej przygody z nowym
-narzędziemy. Jeśli nie lubisz przykrych niespodzianek to dowiedz się dokładnie o
+narzędziem. Jeśli nie lubisz przykrych niespodzianek to dowiedz się dokładnie o
 koszt i dostępność wsparcia technicznego.
 
 Przykładowa lista pytań:
