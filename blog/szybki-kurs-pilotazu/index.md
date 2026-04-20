@@ -74,10 +74,11 @@ naprawiane.
 
 Jeśli jest to usługa chmurowa, istnieje ryzyko, że produkt może zostać po prostu
 wyłączony. Jeśli to aplikacja instalowana lokalnie, to możemy stracić część
-funkcji, bo np. łączy się ona z jakimś serwisem, albo z narzędziem, które z
-biegiem czasu stanie się coraz gorsze przez brak utrzymania ze strony
-producenta. Postaraj się przygotować na taki scenariusz poprzez odpowiednie
-zapisy w umowie.
+funkcji, bo np. łączy się ona z jakimś serwisem, albo z narzędziem. Przestaniem
+też dostawać aktualizacje, które załatają dziury w bezpieczeństwie i wydajności
+produktu.
+
+Postaraj się przygotować na taki scenariusz poprzez odpowiednie zapisy w umowie.
 
 ## Pomoc potrzebna od zaraz
 
