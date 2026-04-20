@@ -111,7 +111,7 @@ produktów. W tych kwestiach zachowana była perfekcyjna równowaga.
 Nasi pionierzy dokonali niemożliwego. W cztery miesiące zorganizowali
 międzynarodowe wydarzenie.
 
-## Pierwsza odsłona soap!: 3 październik 2013
+## Pierwsza odsłona: 3 październik 2013
 
 ![](images/2013_scena.jpg) W konferencji wzięło udział 120 osób, odbyła się ona
 na uczelni na Wyższej Szkoły Europejskiej im. ks. Józefa Tischnera, której Gosia
@@ -314,7 +314,7 @@ Tutaj coś dla miłośników tabelek z danymi. Tabelka pomaga prześledzić jak
 rozwijały się te wydarzenia. Treści jest sporo, więc możliwe, że potrzebować
 będziesz przewijać tabelę w poziomie paskiem u dołu.
 
-| Rok  | Miejsce                                           | Temat wiodący                 | Liczba dni | Warsztaty                | Speakerzy | Liczba uczestników | Mistrz(yni) ceremonii | Opcja wirtualna? |
+| Rok  | Miejsce                                           | Temat | Ile dni? | Warsztaty| Speakerzy | Ilu słuchaczy? | Konferansjerka | Online? |
 | ---- | ------------------------------------------------- | ----------------------------- | ---------- | ------------------------ | --------- | ------------------ | --------------------- | ---------------- |
 | 2013 | Wyższa Szkoła Europejska im. ks. Józefa Tischnera |                               | 1          | Nie                      |           | 120                |                       | Nie              |
 | 2014 | hub:raum                                          | a clean; start;               | 2          | Tak                      |           | 140, 100           | Paweł                 | Nie              |
@@ -363,8 +363,6 @@ założona przez Barbarę Czyż i Edytę Rakowską.
 W październiku 2026 soap! skończy 13 lat! Gratulacje dla ekipy organizującej te
 cudowne wydarzenia i dla wszystkich jej uczestników. Warto było dzielić te
 doświadczenia.
-
-## Zwrócenie się do publiki
 
 ## Dalsza lektura
 
