@@ -10,14 +10,13 @@ coverImage: 'soap_title.jpg'
 ---
 
 Konferencje soap! zajmują szczególne miejsce w sercach osób żyjących komunikacją
-techniczną. Na łamach techwriter.pl z dumą zamieściliśmy relacje z każdej
-edycji. Wydarzenia te miały duży wpływ na zawiązanie się społeczności technical
-writingowej i przyczyniły się do przyspieszenia jej rozwoju. Z jubileuszowego
-artykułu dowiesz się:
+techniczną. Na Techwriterze z dumą zamieściliśmy relacje z każdej z nich. Były
+to wydarzenia, które wpłynęły na zawiązanie się społeczności i przyczyniły się
+do przyspieszenia jej rozwoju. Z jubileuszowego artykułu dowiesz się:
 
 - Skąd wział się pomysł na tę konferencję?
 - O co chodzi z tym różowym mydłem?
-- Co kryje się za literami S-O-A-P?
+- Co kryje się za literami s-o-a-p?
 - Jak przebiegał rozwój tej inicjatywy i co z niej wynikło?
 
 <!--truncate-->
@@ -25,27 +24,28 @@ artykułu dowiesz się:
 ## Od autora
 
 Uczestniczyłem trzy razy w konferencjach soap! w 2018, 2022 i 2023. Za każdym
-razem ubawiłem się przednio, poznałem wiele ciekawych tematów i miałem
-przyjemność porozmawiać z bardzo kontaktowymi ludźmi. soap! słynie z niezwykle
-przyjaznej atmosfery i charakterystycznego klimatu, który tworzą organizatorzy
-wraz z uczestnikami.
+razem ubawiłem się przednio, miałem przyjemność porozmawiać z bardzo
+kontaktowymi ludźmi, za każdym razem wyniosłem wiele przydatnych informacji i
+przemyśleń. soap! wyróżniała też niezwykle przyjazna atmosfera tworzona przez
+organizatorów i uczestników.
 
 ## Pomysł
 
 W 2013, Paulina Dygoń, Gosia Radymiak i Paweł Kowaluk pracowali w tej samej
-firmie. W obrębie ich zespołu dokumentacyjnego zapadła decyzja o przejściu z
-DocBook do innego narzędzia. Gosia miała wtedy niespełna rok doświadczenia w IBM
-gdzie poznawała standard DITA. W związku z przejściem na inne rozwiązanie,
-członkowie zespołu mieli dużo pytań. Razem doszli do wniosku:
+firmie. W obrębie ich zespołu dokumentacyjnego zapadła decyzja o przejściu z do
+nowego narzędzia, zaawansowanego narzędzia do tworzenia dokumentacji. Gosia
+miała wtedy niespełna rok doświadczenia w IBM, gdzie poznawała standard DITA.
+Członkowie zespołu mieli dużo pytań na temat nowego narzędzia, migracji do niego
+i wyzwań technicznych. Razem doszli do wniosku:
 
-> Nie ma szans, że tylko my spotkalismy sie z tymi problemami, ktoś już
+> Niemożliwe, żebyśmy jako jedyni spotkalismy sie z tymi problemami, ktoś już
 > wcześniej musiał to rozgryźć.
 
-Dlatego też pojechali w trójkę do Londynu na trzydniową konferencję :
-[Congility](https://www.ditawriter.com/interview-with-noz-urbina-about-the-upcoming-congility-conference/)
+Z tego powodu właśnie pojechali w trójkę do Londynu na trzydniową konferencję
+[Congility](https://www.ditawriter.com/interview-with-noz-urbina-about-the-upcoming-congility-conference/),
 na której prelegentem był [Noz Urbina](https://www.linkedin.com/in/nozurbina/).
 
-Konferencja było bardzo udana, wypełniały ją spotkania, nawiązywanie kontaktów,
+Konferencja było bardzo udana, wypełniały ją spotkania, nawiązywanie kontaktów i
 przekazywanie wiedzy.
 
 Był wtedy czerwiec 2013 roku. Postanowili w październiku tamtego roku zrobić
@@ -53,65 +53,67 @@ własną konferencję w Polsce.
 
 ## Stan branży w 2013
 
-Jak wyglądała wtedy scena technical writingu? Nie wiadomo ilu technical writerów
-było wtedy w Polsce. Osoby wykonujące ten zawód narzekały na izolujące
+Jak wyglądała wtedy polska scena technical writingu? Nie wiadomo ilu technical
+writerów było wtedy w Polsce. Osoby wykonujące ten zawód narzekały na izolujące
 doświadczenie zawodowe i ograniczony feedback od ekspertów, z którymi pracowali.
 Nasi bohaterowie czuli potrzebę zwiększenia świadomości o branży. Brakowało
-wtedy takich kierunków na studiach, które oferowałby taką wiedzę.
+wtedy takich kierunków na studiach, które oferowały taką wiedzę.
 
-## Pierwszy soap!
-
-### Przygotowania
+## Przygotowania do pierwszego soap!
 
 > Robimy długi research?
 
 > Nieee, nauczymy się robiąc.
 
-Miał to być świeży start dla technical writingu. Młodość, dynamiczna społeczność
+Miał to być świeży start dla technical writingu. Młoda, dynamiczna społeczność
 dla technical writerów i specjalizacji powiązanych, takich jak tworzenie grafik
 i tłumaczenia.
 
-Czemu "soap!"? Mydło miało symbolizować świeżość. Wzięło się ono z koncepcji
-baniek zamieszkiwanych przez różnych specjalistów od treści, którzy nie mieli
-świadomości siebie nawzajem. Więcej szczegółów poznacie w
+### Nazwa
+
+Skąd wzięła się nazwa "soap!"? Mydło nawiązywało do świeżości. Z rozmów o branży
+pochodziła metafora baniek zamieszkiwanych przez różnych specjalistów od treści,
+którzy nie mieli świadomości siebie nawzajem. Historia nazwy została też nieco
+szczegółowiej opisana w
 [relacji](https://techwriter.pl/namydleni-po-raz-trzeci/#o-co-chodzi-z-tym-r%C3%B3%C5%BCowym-myd%C5%82em)
 z 2015 roku.
 
-Po wybraniu głównego symbolu, postanowili rozpisac skrót:
+Po wybraniu głównego symbolu, pozostało rozpisac skrót:
 
 - _Strategy_
 - _Opportunity_
 - _Advancity_
 - _Professionalism_
 
-Słowa brzmią ambitnie, profesjonalnie i nieco tajemniczo.
+Słowa te brzmią ambitnie, profesjonalnie i nieco tajemniczo.
 
-Śmiałkowie musieli ustalić:
-
-- Nazwę
-- Stronę
-- Odbiorcę
-- Speakerów
+Nie były to jedyne rzeczy do rozkminienia. Śmiałkowie mieli jeszcze do
+rozpracowania detale dotyczące strony internetowej, zdefiniowanie tego, kto
+dokładnie ma być odbiorcą tej konferencji i zaproszenie speakerów, którzy
+podejmą się przeprowadzenia prezentacji.
 
 ### Speakerzy
 
-Organizatorzy rozpatrywali zgłoszenia potencjalnych speakerów. Czasem potrzebne
-były rozmowy nakierowujące na publikę, która miała inne zainteresowania od
-publik z dojrzałą tradycją techwritingową. Bardzo istotne było zaufanie dla
-doświadczonych speakerów.
+Organizatorzy rozpatrywali zgłoszenia potencjalnych speakerów. W toku rozmów ze
+speakerami starali się przybliżyć zainteresowania publiki, które różniły się od
+zainteresowań publik z dojrzałą tradycją techwritingową. Dla tej młodej
+konferencji bardzo istotne było zaufanie dla doświadczonych speakerów.
 
 ### Sponsorzy
 
-Udawało się dobrze dogadywać ze sponsorami, których obecność na konferencji była
-nienachalna, nie robili wielkie wielkiego demo swojego produktu.
+Jedną z rzeczy wyjątkowych dla soap! było to, że udawało się dobrze rozumieć ze
+sponsorami. Ich obecność na konferencji była dyskretna. Uczestnicy mogli skupić
+się na temacie konferencji, nie było męczącej promocji sponsorów i ich
+produktów. W tych kwestiach zachowana była perfekcyjna równowaga.
 
 ### Wyścig z czasem
 
-W cztery miesiące zorganizowali międzynarodowe wydarzenie.
+Nasi pionierzy dokonali niemożliwego. W cztery miesiące zorganizowali
+międzynarodowe wydarzenie.
 
-### soap! odbywa się po raz pierwszy: 3 październik 2013
+## Pierwsza odsłona soap!: 3 październik 2013
 
-![](images/2013_scena.jpg) W konferencji wzięło udział 120 osób, odbyła się ono
+![](images/2013_scena.jpg) W konferencji wzięło udział 120 osób, odbyła się ona
 na uczelni na Wyższej Szkoły Europejskiej im. ks. Józefa Tischnera, której Gosia
 była absolwentką. Organizatorzy soap! znaleźli kilku sponsorów. Agnieszka
 Tkaczyk pełniła rolę konferansjerki i świetnie sobie poradziła mimo opornego
@@ -120,18 +122,19 @@ projektora.
 Noz Urbina, którego organizatorzy słuchali podczas Congility, na soap! również
 wystąpił jako speaker.
 
-Organizując takie spotkanie można dowiedzieć się o innych i o sobie.
+Gosia podzieliła się taką myślą, że organizując takie spotkanie można poznać
+lepiej sobie i innych. Nie była to bułka z masłem.
 
 ![](images/converstations.jpg)
-
+## Po pierwszym soap!
 ### Odczucia uczestników
 
 ![](images/feedback.png)
 
 ### Listopadowe spotkanie w Massolit Books and Cafe (Kraków)
 
-Widać było spory apetyt na dzielenie się wiedzą, skoro w listopadzie tamtego
-roku doszło do spotkania z całkiem rozbudowaną agendą.
+Widać było spory apetyt na dzielenie się wiedzą, skoro w jeszcze w listopadzie
+tamtego roku doszło do spotkania z całkiem rozbudowaną agendą.
 
 ![](images/pawel.png)
 
@@ -139,22 +142,24 @@ Oryginalny podpis z ówczesnej strony soap!:
 
 > You can tell when a man is serious.
 
-### Po pierwszym soap!
+### Ważne decyzje
 
-Paulina i Paweł czuli się zmeczeni przez planowanie po pracy i czas wolny
-wypełniony organizacją konferencji.
+Planowanie po pracy i czas wolny poświęcony organizacji konferencji to duże
+poświęcenie. Paulina i Paweł czuli się tym zmeczeni i postanowili zrezygnować.
 
-## Obecny zespół od czasu drugiej edycji
+Gosia postanowiła kontynuować tę inicjatywę.
 
-Gosia chciała pociągnąć ten wysiłek dalej. Powstała ekipa o takim składzie:
+### Obecny zespół od czasu drugiej edycji
 
-| Osoba                        | Background                                                                                                       | Rola/obszaR                                                          |
+ Powstała ekipa o takim składzie:
+
+| Osoba                        | Background                                                                                                       | Rola/obszar                                                          |
 | ---------------------------- | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| Gosia Radymiak               |                                                                                                                  | Project Manager, który spina wszystko w całość, "_driver_" projektu. |
-| Karolina Karbarz             |                                                                                                                  | Trzyma pieczę nad witryną, grafikami, szatą graficzną                |
-| Piotr Milewski zwany Piterem | Absolwent Wyższej Szkoły Europejskiej                                                                            | Speakerzy i trenerzy. Laptopy, ekrany, współpraca z Manggha.         |
-| Agnieszka Tkaczyk            |                                                                                                                  | Sponsorzy i partnerzy                                                |
-| Iga Koprowska                | Odbyła kurs technical writingowy dla studentów Uniwersytetu Jagielońskiego razem z Gosia, kiedy była w Motoroli. | Media społecznościowe, komunikaty, copywriting na stronę, branding.  |
+| Gosia Radymiak               |                                                                                                                  |-  Project Manager, który spina wszystko w całość <br />- "Driver" projektu |
+| Karolina Karbarz             |                                                                                                                  | - Strona Internetowa <br /> - Szata graficzna <br />- Grafiki               |
+| Piotr Milewski zwany Piterem | Absolwent Wyższej Szkoły <br />Europejskiej                                                                            | - Speakerzy i trenerzy <br />- Laptopy i ekrany <br />- Współpraca z Manggha         |
+| Agnieszka Tkaczyk            |                                                                                                                  | - Sponsorzy i partnerzy                                                |
+| Iga Koprowska                | Odbyła kurs technical writingowy dla studentów Uniwersytetu Jagielońskiego razem z Gosia, kiedy była w Motoroli. | - Media społecznościowe <br /> - Komunikaty <br /> - Copywriting na stronę <br /> - Branding  |
 
 Piter i jego technologiczne centrum kontroli wszechświata:
 
@@ -162,10 +167,14 @@ Piter i jego technologiczne centrum kontroli wszechświata:
 
 > Don't be too proud of the technological terror, you have constructed!
 
+> **Lord Vader**
+
 Link do źródła na
 [platformie X](https://x.com/em_piter/status/999946418587684864?t=fvLzHHgbrzLc-Zd1MZyWKQ&s=07).
 
 ![](images/2022_piter.jpg)
+
+**Piter działa podczas soap! 2022.**
 
 ## Po raz drugi: 2-3 października 2014
 
@@ -273,10 +282,10 @@ bycia głową rodziny w tej dokumentacyjnej "Familiadzie".
 
 ## Po raz dziewiąty: 1-3 czerwca 2023
 
-![](2023_publika.jpg) Ostatnia edycja konferencji jaka dotychczas miała miejsce.
+![](images/2023_publika.jpg) Ostatnia edycja konferencji jaka dotychczas miała miejsce.
 
 Podkreślić warto jest to, że w tej edycji Paulina Dygoń, która należy do
-założycieli pierwszej/pierwszych edycji, tym razem po raz pierwszy wzięła do
+założycieli i inicjatorki pierwszej edycji, tym razem po raz pierwszy wzięła do
 ręki mikrofon i przedstawiła temat "Why a PM is like a DJ".
 
 Temat przewodni: _Content Operations_.
@@ -309,7 +318,7 @@ będziesz przewijać tabelę w poziomie paskiem u dołu.
 | ---- | ------------------------------------------------- | ----------------------------- | ---------- | ------------------------ | --------- | ------------------ | --------------------- | ---------------- |
 | 2013 | Wyższa Szkoła Europejska im. ks. Józefa Tischnera |                               | 1          | Nie                      |           | 120                |                       | Nie              |
 | 2014 | hub:raum                                          | a clean; start;               | 2          | Tak                      |           | 140, 100           | Paweł                 | Nie              |
-| 2015 | Do przemilczenia                                  | Wieloraki                     | 3          | Tak                      | 17        | 170, 80            |                       |                  |
+| 2015 | Wiem, ale nie powiem!                                  |                      | 3          | Tak                      | 17        | 170, 80            |                       |                  |
 | 2016 | Manggha                                           | "My" zamiast "Oni"            | 3          | 5 sesji                  | 17        | 220, 125           |                       |                  |
 | 2017 | Manggha                                           | Rozwiązywanie problemów       | 3          | Tak                      |           |                    |                       |                  |
 | 2018 | Manggha                                           | Innowacja kontra prostota     | 3          | Tak                      | 23        |                    | Gosia                 | Nie              |
@@ -348,7 +357,7 @@ założona przez Barbarę Czyż i Edytę Rakowską.
 
 ## Rocznica
 
-![](2023_soapy_crew.jpg) Pierwsza edycja soap! odbyła się w październiku 2013. W
+![](images/2023_soapy_crew.jpg) Pierwsza edycja soap! odbyła się w październiku 2013. W
 2023 roku całej inicjatywie stuknęło 10 lat.
 
 W październiku 2026 soap! skończy 13 lat! Gratulacje dla ekipy organizującej te
