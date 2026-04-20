@@ -126,7 +126,9 @@ Gosia podzieliła się taką myślą, że organizując takie spotkanie można po
 lepiej sobie i innych. Nie była to bułka z masłem.
 
 ![](images/converstations.jpg)
+
 ## Po pierwszym soap!
+
 ### Odczucia uczestników
 
 ![](images/feedback.png)
@@ -151,15 +153,15 @@ Gosia postanowiła kontynuować tę inicjatywę.
 
 ### Obecny zespół od czasu drugiej edycji
 
- Powstała ekipa o takim składzie:
+Powstała ekipa o takim składzie:
 
-| Osoba                        | Background                                                                                                       | Rola/obszar                                                          |
-| ---------------------------- | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| Gosia Radymiak               |                                                                                                                  |-  Project Manager, który spina wszystko w całość <br />- "Driver" projektu |
-| Karolina Karbarz             |                                                                                                                  | - Strona Internetowa <br /> - Szata graficzna <br />- Grafiki               |
-| Piotr Milewski zwany Piterem | Absolwent Wyższej Szkoły <br />Europejskiej                                                                            | - Speakerzy i trenerzy <br />- Laptopy i ekrany <br />- Współpraca z Manggha         |
-| Agnieszka Tkaczyk            |                                                                                                                  | - Sponsorzy i partnerzy                                                |
-| Iga Koprowska                | Odbyła kurs technical writingowy dla studentów Uniwersytetu Jagielońskiego razem z Gosia, kiedy była w Motoroli. | - Media społecznościowe <br /> - Komunikaty <br /> - Copywriting na stronę <br /> - Branding  |
+| Osoba                        | Parę słów o                                                                                                      | Rola/obszar                                                                                  |
+| ---------------------------- | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| Gosia Radymiak               |                                                                                                                  | - Project Manager, który spina wszystko w całość <br />- "Driver" projektu                   |
+| Karolina Karbarz             |                                                                                                                  | - Strona Internetowa <br /> - Szata graficzna <br />- Grafiki                                |
+| Piotr Milewski zwany Piterem | Absolwent Wyższej Szkoły <br />Europejskiej                                                                      | - Speakerzy i trenerzy <br />- Laptopy i ekrany <br />- Współpraca z Manggha                 |
+| Agnieszka Tkaczyk            |                                                                                                                  | - Sponsorzy i partnerzy                                                                      |
+| Iga Koprowska                | Odbyła kurs technical writingowy dla studentów Uniwersytetu Jagielońskiego razem z Gosia, kiedy była w Motoroli. | - Media społecznościowe <br /> - Komunikaty <br /> - Copywriting na stronę <br /> - Branding |
 
 Piter i jego technologiczne centrum kontroli wszechświata:
 
@@ -263,7 +265,8 @@ Pervezentseva, Marcin Broda.
 W 2023 roku poduszka trafiła do Lanca Cummingsa.
 
 Soapuszka zwiedziła kawał świata, żyła intensywnie i na krawędzi, co przypłaciła
-tym, że popruła się i rozpadła na kawałki.
+tym, że popruła się i rozpadła na kawałki. Ale było warto! Lepiej spalać się i
+żyć w pełnym blasku i glorii!
 
 ### Teleturniej S.U.P.E.R G.A.M.E
 
@@ -282,7 +285,8 @@ bycia głową rodziny w tej dokumentacyjnej "Familiadzie".
 
 ## Po raz dziewiąty: 1-3 czerwca 2023
 
-![](images/2023_publika.jpg) Ostatnia edycja konferencji jaka dotychczas miała miejsce.
+![](images/2023_publika.jpg) Ostatnia edycja konferencji jaka dotychczas miała
+miejsce.
 
 Podkreślić warto jest to, że w tej edycji Paulina Dygoń, która należy do
 założycieli i inicjatorki pierwszej edycji, tym razem po raz pierwszy wzięła do
@@ -314,17 +318,17 @@ Tutaj coś dla miłośników tabelek z danymi. Tabelka pomaga prześledzić jak
 rozwijały się te wydarzenia. Treści jest sporo, więc możliwe, że potrzebować
 będziesz przewijać tabelę w poziomie paskiem u dołu.
 
-| Rok  | Miejsce                                           | Temat | Ile dni? | Warsztaty| Speakerzy | Ilu słuchaczy? | Konferansjerka | Online? |
-| ---- | ------------------------------------------------- | ----------------------------- | ---------- | ------------------------ | --------- | ------------------ | --------------------- | ---------------- |
-| 2013 | Wyższa Szkoła Europejska im. ks. Józefa Tischnera |                               | 1          | Nie                      |           | 120                |                       | Nie              |
-| 2014 | hub:raum                                          | a clean; start;               | 2          | Tak                      |           | 140, 100           | Paweł                 | Nie              |
-| 2015 | Wiem, ale nie powiem!                                  |                      | 3          | Tak                      | 17        | 170, 80            |                       |                  |
-| 2016 | Manggha                                           | "My" zamiast "Oni"            | 3          | 5 sesji                  | 17        | 220, 125           |                       |                  |
-| 2017 | Manggha                                           | Rozwiązywanie problemów       | 3          | Tak                      |           |                    |                       |                  |
-| 2018 | Manggha                                           | Innowacja kontra prostota     | 3          | Tak                      | 23        |                    | Gosia                 | Nie              |
-| 2019 | Manggha                                           | Content as Code             | 3          | 6 warsztatów dla 60 osób |           | Rekord?            | Gosia                 | Nie              |
-| 2022 | Manggha                                           | Przyszłość technical writingu | 3          | Tak                      |           |                    | Aga                   | Tak              |
-| 2023 | Manggha                                           | Content Operations          | 3          | Tak                      |           |                    | Gosia                 | Tak              |
+| Rok  | Miejsce                                           | Temat                         | Ile dni? | Warsztaty                | Speakerzy | Ilu słuchaczy? | Konferansjerka | Online? |
+| ---- | ------------------------------------------------- | ----------------------------- | -------- | ------------------------ | --------- | -------------- | -------------- | ------- |
+| 2013 | Wyższa Szkoła Europejska im. ks. Józefa Tischnera |                               | 1        | Nie                      |           | 120            |                | Nie     |
+| 2014 | hub:raum                                          | a clean; start;               | 2        | Tak                      |           | 140, 100       | Paweł          | Nie     |
+| 2015 | Wiem, ale nie powiem!                             |                               | 3        | Tak                      | 17        | 170, 80        |                |         |
+| 2016 | Manggha                                           | "My" zamiast "Oni"            | 3        | 5 sesji                  | 17        | 220, 125       |                |         |
+| 2017 | Manggha                                           | Rozwiązywanie problemów       | 3        | Tak                      |           |                |                |         |
+| 2018 | Manggha                                           | Innowacja kontra prostota     | 3        | Tak                      | 23        |                | Gosia          | Nie     |
+| 2019 | Manggha                                           | Content as Code               | 3        | 6 warsztatów dla 60 osób |           | Rekord?        | Gosia          | Nie     |
+| 2022 | Manggha                                           | Przyszłość technical writingu | 3        | Tak                      |           |                | Aga            | Tak     |
+| 2023 | Manggha                                           | Content Operations            | 3        | Tak                      |           |                | Gosia          | Tak     |
 
 ## Wpływ soap! na środowisko skupione wokół komunikacji technicznej
 
@@ -357,8 +361,8 @@ założona przez Barbarę Czyż i Edytę Rakowską.
 
 ## Rocznica
 
-![](images/2023_soapy_crew.jpg) Pierwsza edycja soap! odbyła się w październiku 2013. W
-2023 roku całej inicjatywie stuknęło 10 lat.
+![](images/2023_soapy_crew.jpg) Pierwsza edycja soap! odbyła się w
+październiku 2013. W 2023 roku całej inicjatywie stuknęło 10 lat.
 
 W październiku 2026 soap! skończy 13 lat! Gratulacje dla ekipy organizującej te
 cudowne wydarzenia i dla wszystkich jej uczestników. Warto było dzielić te
