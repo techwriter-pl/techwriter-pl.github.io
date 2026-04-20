@@ -1,7 +1,7 @@
 ---
 title: '12 rocznica konferencji soap!'
 authors: niewiarowski
-date: '2026-30-04'
+date: '2026-04-20'
 tags:
   - 'społeczność'
   - 'z-kraju'
