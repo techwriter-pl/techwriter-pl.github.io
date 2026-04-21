@@ -147,6 +147,37 @@ cofasz się jeszcze dalej, czyli ponownie analizujesz swoje wymagania i
 założenia, żeby mieć pewność, że Twoje oczekiwania są realne i przystające do
 rzeczywistości. Potem powtarzasz proces wyboru narzędzia.
 
+## Jak to zrobić dobrze
+
+Przede wszystkim, nasz pilotaż musi mieć mierzalny cel i punkty do
+zweryfikowania.
+
+Żeby móc spełnić to wymaganie, nie bierz na warsztat projektu w stylu "Hello
+World!" albo "Test1". Zamiast tego przeprowadź pilotaż na prawdziwym projekcie,
+np. dokumentacji do konkretnego produktu na konkretny release. Ustal zadanie,
+które zweryfikuje każde wymaganie. Na przykład, jeśli wymagasz reusu notek (tak
+jak w
+[artykule o wyborze narzędzia](https://techwriter.pl/jak-wybierac-narzedzia)),
+to rozpisz punkty, które pozwolą Ci go zweryfikować:
+
+- Czy łatwo zarządzać reusem notek
+- Czy notki spełniają wymagania
+- Czy używanie notek nie prowadzi do pomyłek
+- Co się stanie kiedy musimy zmienić treść notki (czy trzeba ręcznie publikować
+  wszystkie instancje czy zmiana zaciągnie się automatycznie do wszystkich
+  instancji)
+
+Oceń wykonanie każdego zadania bez naginania rzeczywistości. Opisz wszystko,
+czego się nie spodziewałeś, niezależnie od tego czy było pozytywne czy
+negatywne.
+
+Odpowiedni projekt to jedna rzecz. Drugą jest odpowiedni zespoł, który
+przeprowadzi pilotaż. Grupa powinna być na tyle duża i zróżnicowana, żeby
+wszystkie kompetencje i obowiązki zostały w niej uwzględnione. Właściwy dobór
+osób jest też kluczowy z innego powodu. Staną się one ekspertami od testowanego
+narzędzia. Jeśli projekt zakończy się sukcesem to grupa pilatożowa będzie
+zapewne szkolić i wspierać resztę zespołu na późniejszych etapach wdrożenia.
+
 ## Pilotaż to dopiero początek
 
 Jeśli miałeś nosa i Twój pilotaż zakończył się wnioskiem, że testowane narzędzie
