@@ -105,7 +105,7 @@ jasną granicę na jakim etapie powinny się one wydarzyć.
 
 Z jednej strony, kalkulacja kosztów może lepiej pasuje do etapu wyboru narzędzia
 niż samego pilotażu. Z drugiej strony to dopiero w trakcie pilotażu będziesz w
-stanie ocenić realne koszty, bo odkryjesz rzeczy, o których Ci umknęły
+stanie ocenić realne koszty, bo odkryjesz rzeczy, które Ci umknęły
 wcześniej. Sytuacja wygląda podobnie jeśli chodzi o wsparcie techniczne. Na
 etapie wyboru narzędzia możesz częściowo ocenić zakres i koszt takiej usługi,
 ale w trakcie pilotażu będziesz mieć okazję empirycznie stwierdzić jak ona
@@ -136,7 +136,7 @@ rozpoczęciem projektu. Nie tędy droga.
 Celem pilotażu nie jest za wszelką cenę udowodnić, że wybór padł na właściwe
 narzędzie, tylko zderzenie teorii z praktyką, a następnie chłodna ocena wyniku
 tego zderzenia. Żeby nie wpaść w pułapkę myślenia tunelowego, przed rozpoczęciem
-pilotażu, określ jasno kryteria, które zadecyują o tym czy testowane narzędzie
+pilotażu, określ jasno kryteria, które zadecyują o tym, czy testowane narzędzie
 jest tym właściwym. Jeśli okaże się Twój wybór nie był dobry, to nie oznacza, że
 pilotaż się nie udał. Porażka to też forma zwycięstwa.
 
