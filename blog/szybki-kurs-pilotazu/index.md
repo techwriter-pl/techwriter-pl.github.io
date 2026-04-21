@@ -15,7 +15,7 @@ pozwoliły mi dawno temu dojść do wniosku, że nie jest to najlepszy pomysł.
 
 <!-- truncate -->
 
-Nieistnięjaca już organizacja [ITCQF](../koniec-itcqf/index.md) pozostawiła po
+Nieistniejąca już organizacja [ITCQF](../koniec-itcqf/index.md) pozostawiła po
 sobie dużo cennej wiedzy, m.in. o wprowadzaniu nowego narzędzia w organizacji. Z
 grubsza ten proces można podzielić na trzy etapy:
 
@@ -34,7 +34,7 @@ darmowych, bo na całkowity koszt wdrożenia składa się wiele rzeczy.
 
 ## Pieniądze to nie wszystko
 
-Przenalizuj dokładnie ile wydasz na wybrane narzędzie.
+Przeanalizuj dokładnie ile wydasz na wybrane narzędzie.
 
 W przypadku zakupu oprogramowania od dostawcy, licencja to najbardziej oczywisty
 koszt wdrożenia. Dowiedz się:
@@ -52,7 +52,7 @@ jest duży. Weź to pod uwagę przygotowując przysłowiowego Excela.
 
 ## Narzędziowy escape room
 
-A co z ewentulaną migracją na inny system? Nikt z nas nie chce znaleźć się w
+A co z ewentualną migracją na inny system? Nikt z nas nie chce znaleźć się w
 sytuacji, w której używamy narzędzia tylko dlatego, że nie da się go zmienić na
 inne.
 
@@ -105,11 +105,10 @@ jasną granicę na jakim etapie powinny się one wydarzyć.
 
 Z jednej strony, kalkulacja kosztów może lepiej pasuje do etapu wyboru narzędzia
 niż samego pilotażu. Z drugiej strony to dopiero w trakcie pilotażu będziesz w
-stanie ocenić realne koszty, bo odkryjesz rzeczy, które Ci umknęły
-wcześniej. Sytuacja wygląda podobnie jeśli chodzi o wsparcie techniczne. Na
-etapie wyboru narzędzia możesz częściowo ocenić zakres i koszt takiej usługi,
-ale w trakcie pilotażu będziesz mieć okazję empirycznie stwierdzić jak ona
-działa.
+stanie ocenić realne koszty, bo odkryjesz rzeczy, które Ci umknęły wcześniej.
+Sytuacja wygląda podobnie jeśli chodzi o wsparcie techniczne. Na etapie wyboru
+narzędzia możesz częściowo ocenić zakres i koszt takiej usługi, ale w trakcie
+pilotażu będziesz mieć okazję empirycznie stwierdzić jak ona działa.
 
 Co zatem jest to główną i najważniejszą częścią pilotażu? Z pomocą przychodzi
 tutaj
@@ -136,7 +135,7 @@ rozpoczęciem projektu. Nie tędy droga.
 Celem pilotażu nie jest za wszelką cenę udowodnić, że wybór padł na właściwe
 narzędzie, tylko zderzenie teorii z praktyką, a następnie chłodna ocena wyniku
 tego zderzenia. Żeby nie wpaść w pułapkę myślenia tunelowego, przed rozpoczęciem
-pilotażu, określ jasno kryteria, które zadecyują o tym, czy testowane narzędzie
+pilotażu, określ jasno kryteria, które zadecydują o tym, czy testowane narzędzie
 jest tym właściwym. Jeśli okaże się Twój wybór nie był dobry, to nie oznacza, że
 pilotaż się nie udał. Porażka to też forma zwycięstwa.
 
@@ -175,7 +174,7 @@ Odpowiedni projekt to jedna rzecz. Drugą jest odpowiedni zespoł, który
 przeprowadzi pilotaż. Grupa powinna być na tyle duża i zróżnicowana, żeby
 wszystkie kompetencje i obowiązki zostały w niej uwzględnione. Właściwy dobór
 osób jest też kluczowy z innego powodu. Staną się one ekspertami od testowanego
-narzędzia. Jeśli projekt zakończy się sukcesem to grupa pilatożowa będzie
+narzędzia. Jeśli projekt zakończy się sukcesem to grupa pilotażowa będzie
 zapewne szkolić i wspierać resztę zespołu na późniejszych etapach wdrożenia.
 
 ## Pilotaż to dopiero początek
