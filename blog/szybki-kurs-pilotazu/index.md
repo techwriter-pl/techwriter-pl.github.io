@@ -101,10 +101,20 @@ zawiera w sobie tego co nam się wydawało.
 
 ## Oczekiwania kontra rzeczywistość
 
-Mamy całą listę rzeczy do sprawdzenia, ale warto zastanowić się jakie są główne
-cele naszego projektu pilotażowego? Z pomocą przychodzi tutaj
+Jeśli chodzi o kwestie opisane wcześniej w tym artykule, to ciężko postawić
+jasną granicę na jakim etapie powinny się one wydarzyć. Z jednej strony,
+kalkulacja kosztów może lepiej pasuje do etapu wyboru narzędzia niż samego
+pilotażu. Z drugiej strony to dopiero w trakcie pilotażu będziemy w stanie
+ocenić realne koszty, bo odkryjemy rzeczy, o których nie pomyśleliśmy wcześniej.
+Tak samo jeśli chodzi o wsparcie techniczne. Na etapie wyboru narzędzia możemy
+częściowo ocenić zakres i koszt takiej usługi, ale w trakcie pilotażu będziemy
+mieli okazję empirycznie stwierdzić jak ona działa.
+
+Co zatem jest to główną i najważniejszą częścią pilotażu? Z pomocą przychodzi
+tutaj
 [syllabus](https://www.gasq.org/files/content/gasq/downloads/certification/ITCQF/ITCQF_Syllabus_v2_0Jun2020.pdf)
-wspomnianej wcześniej fundacji ITCQF, który wymienia takie punkty:
+wspomnianej wcześniej fundacji ITCQF, w którym cele pilotażu zostały tak
+zdefiniowane:
 
 1. Ocena czy balans korzyści i poniesionych kosztów jest rozsądny
 2. Lepsze poznanie narzędzia
