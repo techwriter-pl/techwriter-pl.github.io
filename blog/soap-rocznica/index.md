@@ -185,6 +185,8 @@ Link do źródła na
 
 ![](images/2014_aula.jpg)
 
+- Temat przewodni: a clean; start;
+
 Ekipa postanowiła zmienić miejsce z powodu ograniczeń wcześniejszej lokalizacji.
 Wybrali klimatyczny budynek dawnej fabryki kabli, który został zaadaptowany na
 przestrzenie biurowe. Po raz pierwszy zrobili warsztaty.
@@ -201,8 +203,9 @@ Noz Urbina znów prezentował:
 
 ## Po raz trzeci: 8-9 października 2015
 
-![](images/2015_Patryk_Olczak_Jadzka_Rysuje.jpg) Tym razem soap! odbył się w
-lokalizacji przy Plaży Kraków.
+![](images/2015_Patryk_Olczak_Jadzka_Rysuje.jpg)
+
+Tym razem soap! odbył się w lokalizacji przy Plaży Kraków.
 
 Jak to czasem bywa, nie z winy organizatorów, pojawiły się trudności.
 Wynajmujący zapomniał wspomnieć o dziurze w dachu. Było tak zimno, że uczestnicy
@@ -221,7 +224,7 @@ dzień 80.
 
 ![](images/edu_summit.jpg)
 
-Temat przewodni brzmiał: "My" zamiast "Oni". Nie traci on na aktualności.
+- Temat przewodni brzmiał: "My" zamiast "Oni". Nie traci on na aktualności.
 
 Konferencje poprzedzało 5 warsztatów w ramach Content Edu Summit.
 
@@ -254,7 +257,7 @@ przy konferencji była jedną z nich.
 
 ![](images/2017_garden.jpg)
 
-Temat przewodni: Rozwiązywanie problemów.
+- Temat przewodni: Rozwiązywanie problemów.
 
 Nie mogę nie wspomnieć klimatycznej strefy chillout, miejsca relaksu i dobrych
 rozmów.
@@ -263,13 +266,13 @@ rozmów.
 
 ![](images/2018_garden.jpg)
 
-Temat przewodni: Innowacja kontra prostota.
+- Temat przewodni: Innowacja kontra prostota.
 
 ## Po raz siódmy: 5-7 czerwca 2019
 
 ![](images/2019_michal_pawel.jpg)
 
-Temat przewodni: Content as Code.
+- Temat przewodni: Content as Code.
 
 Najwyższa liczba uczestników.
 
@@ -327,8 +330,8 @@ bycia głową rodziny w tej dokumentacyjnej "Familiadzie".
 
 ![](images/2023_publika.jpg)
 
-Temat przewodni: Content Operations. Ostatnia edycja konferencji jaka dotychczas
-miała miejsce.
+- Temat przewodni: Content Operations.
+- Ostatnia edycja konferencji jaka dotychczas miała miejsce.
 
 W tej edycji Paulina Dygoń, współzałożycielka i inicjatorka pierwszej edycji,
 tym razem po raz pierwszy w historii soap! wzięła do ręki mikrofon i
@@ -431,19 +434,21 @@ Jak to kiedyś Michał Skowron określił:
 Jakkolwiek patetycznie to może zabrzmieć, soap! był wyjątkowy dzięki ludziom
 którzy go tworzyli i w nim uczestniczyli. Była to przestrzeń na spotkania ludzi
 rozumiejących bolączki dokumentacji, mających ochotę nauczyć się czegoś i
-jednocześnie gotowych innym wiedzę przekazać.
+jednocześnie gotowych innym wiedzę przekazać. Jeśli ktoś zauważył jakiś fakt do
+poprawki albo chciałby opowiedzieć swoją historię, zapraszamy do kontaktu.
 
 ## Dalsza lektura
 
-### Relacje z soap!
+Tag z listą wszystkich relacji z [soap!](https://techwriter.pl/tags/soap), gdzie
+możecie zapoznać się z relacjami pisanymi szczegółowo i ze swadą.
 
-Tag z listą wszystkich relacji z [soap!](https://techwriter.pl/tags/soap)
-Większość zdjęć pochodzi ze strony FB
+Większość zdjęć w artykule pochodzi ze strony FB
 [soap technical communication](https://www.facebook.com/soapconf/photos_albums).
 
-[TechWhirl - Conference Review: soap! Offers a Clean Start in Poland 2014?](https://techwhirl.com/conference-review-soap-offers-clean-start-poland/)
 
-[Cynthia Peter's Review of 2023 soap!](https://medium.com/postcards-by-fancy-nomads/attending-soap-conference-in-krakow-poland-ac7e4c98eb13)
+soap! oczami innych uczestników:
+* [TechWhirl - Conference Review: soap! Offers a Clean Start in Poland 2014?](https://techwhirl.com/conference-review-soap-offers-clean-start-poland/)
+* [Cynthia Peter's Review of 2023 soap!](https://medium.com/postcards-by-fancy-nomads/attending-soap-conference-in-krakow-poland-ac7e4c98eb13)
 
 - 2013: soap! 1
   [soap! technical communication conference - relacja](../soap-technical-communication-conference-relacja/index.md)
