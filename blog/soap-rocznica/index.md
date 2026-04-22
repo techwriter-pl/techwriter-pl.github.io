@@ -414,7 +414,8 @@ założona przez Barbarę Czyż i Edytę Rakowską.
 
 ## Soapy Crew i inicjatorzy obecnie
 
-Wszystkie z wymienionych osób
+Wszystkie z wymienionych osób mają wyrobioną renomę w technical writingu i
+pokrewnych specjalnościach takich jak copywriting czy graphic design. 
 
 ## Rocznica
 
@@ -445,30 +446,30 @@ możecie zapoznać się z relacjami pisanymi szczegółowo i ze swadą.
 Większość zdjęć w artykule pochodzi ze strony FB
 [soap technical communication](https://www.facebook.com/soapconf/photos_albums).
 
-
 soap! oczami innych uczestników:
-* [TechWhirl - Conference Review: soap! Offers a Clean Start in Poland 2014?](https://techwhirl.com/conference-review-soap-offers-clean-start-poland/)
-* [Cynthia Peter's Review of 2023 soap!](https://medium.com/postcards-by-fancy-nomads/attending-soap-conference-in-krakow-poland-ac7e4c98eb13)
 
-- 2013: soap! 1
+- [TechWhirl - Conference Review: soap! Offers a Clean Start in Poland 2014?](https://techwhirl.com/conference-review-soap-offers-clean-start-poland/)
+- [Cynthia Peter's Review of 2023 soap!](https://medium.com/postcards-by-fancy-nomads/attending-soap-conference-in-krakow-poland-ac7e4c98eb13)
+
+* 2013: soap! 1
   [soap! technical communication conference - relacja](../soap-technical-communication-conference-relacja/index.md)
-- 2014: soap! 2 [Mydło lubi zabawę](../mydlo-lubi-zabawe/index.md)
+* 2014: soap! 2 [Mydło lubi zabawę](../mydlo-lubi-zabawe/index.md)
   - 2014: soap! 2
     [soap! Just Wants to Have Fun](../soap-just-wants-to-have-fun/index.md)
   - 2014: soap! 2
     [soap! 2014 - summary of day 1](../soap-2014-summary-of-day-1/index.md)
   - 2014: soap! 2
     [soap! 2014 - summary of day 2](../soap-2014-summary-of-day-2/index.md)
-- 2015: soap! 3 [Namydleni po raz trzeci](../namydleni-po-raz-trzeci/index.md)
-- 2016: soap! 4
+* 2015: soap! 3 [Namydleni po raz trzeci](../namydleni-po-raz-trzeci/index.md)
+* 2016: soap! 4
   [Konferencja soap! 2016 - podsumowanie](../konferencja-soap-2016-podsumowanie/index.md)
-- 2017: soap! 5
+* 2017: soap! 5
   [soap! 2017 już za nami - relacja](../soap-2017-juz-za-nami-relacja/index.md)
-- 2018: soap! 6
+* 2018: soap! 6
   [Konferencja soap! 2018 - relacja](../konferencja-soap-2018-relacja/index.md)
-- 2019: soap! 7
+* 2019: soap! 7
   [Konferencja soap! 2019 - (wideo)relacja](../konferencja-soap-2019-wideorelacja/index.md)
-- 2022: soap! 8
+* 2022: soap! 8
   [Doniesienia z tegorocznej konferencji soap! 2022!](../doniesienia-z-tegoroczenj-konferencji-soap-2022/index.md)
-- 2023: soap! 9
+* 2023: soap! 9
   [Relacja z tegorocznej konferencji soap 2023!](../relacja-z-tegorocznej-konferencji-soap-2023/index.md)
