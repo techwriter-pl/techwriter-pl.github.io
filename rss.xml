@@ -4,10 +4,176 @@
         <title>techwriter.pl Blog</title>
         <link>https://techwriter.pl/</link>
         <description>techwriter.pl Blog</description>
-        <lastBuildDate>Mon, 30 Mar 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Apr 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>pl</language>
+        <item>
+            <title><![CDATA[Wdrażanie narzędzia w organizacji - szybki kurs pilotażu]]></title>
+            <link>https://techwriter.pl/szybki-kurs-pilotazu</link>
+            <guid>https://techwriter.pl/szybki-kurs-pilotazu</guid>
+            <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Po tym jak wybierzesz narzędzie może pojawić się pokusa, żeby od razu przejść do]]></description>
+            <content:encoded><![CDATA[<p>Po tym jak wybierzesz narzędzie może pojawić się pokusa, żeby od razu przejść do
+pełnego wdrożenia go w swojej organizacji. Ale moje doświadczenie i wiedza
+pozwoliły mi dawno temu dojść do wniosku, że nie jest to najlepszy pomysł.</p>
+<p>Nieistniejąca już organizacja <a class="" href="https://techwriter.pl/koniec-itcqf">ITCQF</a> pozostawiła po
+sobie dużo cennej wiedzy, m.in. o wprowadzaniu nowego narzędzia w organizacji. Z
+grubsza ten proces można podzielić na trzy etapy:</p>
+<ol>
+<li class="">Wybór narzędzia na podstawie wymagań. Możecie poczytać o tym więcej w naszym
+artykule <a class="" href="https://techwriter.pl/jak-wybierac-narzedzia">"Jak wybierać narzędzia"</a>.</li>
+<li class="">Projekt pilotażowy. Tutaj jesteś.</li>
+<li class="">Pełne wdrożenie.</li>
+</ol>
+<p>Podobnie jak w pokerze, żeby nie stracić wszystkich żetonów z powodu blefu
+drugiej strony, musisz powiedzieć "sprawdzam" w odpowiednim momencie. Pilotaż
+daje Ci właśnie możliwość sprawdzenia wybranego narzędzia w warunkach bojowych.
+Nic tak nie weryfikuje teorii i założeń jak praktyczne zastosowanie rozwiązania.</p>
+<p>Taki projekt pilotażowy ma sens zarówno w przypadku narzędzi płatnych jak i
+darmowych, bo na całkowity koszt wdrożenia składa się wiele rzeczy.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="pieniądze-to-nie-wszystko">Pieniądze to nie wszystko<a href="https://techwriter.pl/szybki-kurs-pilotazu#pieni%C4%85dze-to-nie-wszystko" class="hash-link" aria-label="Bezpośredni link do Pieniądze to nie wszystko" title="Bezpośredni link do Pieniądze to nie wszystko" translate="no">​</a></h2>
+<p>Przeanalizuj dokładnie ile wydasz na wybrane narzędzie.</p>
+<p>W przypadku zakupu oprogramowania od dostawcy, licencja to najbardziej oczywisty
+koszt wdrożenia. Dowiedz się:</p>
+<ol>
+<li class="">Jaki model licencyjny obowiązuje (jednorazowa płatność czy subskrypcja)</li>
+<li class="">Czy liczba użytkowników ma znaczenie</li>
+<li class="">Na jak długo musisz podpisać umowę i jaki jest okres wypowiedzenia. Jeśli nie
+ma wymogu podpisania umowy na określony czas to w jaki sposób można
+zrezygnować z usługi.</li>
+</ol>
+<p>Poza licencją istnieją jeszcze koszty w postaci czasu poświęconego na
+instalację, konfigurację, szkolenia i późniejsze utrzymanie. Pochłoną one
+zapewne sporą część Twojego budżetu, szczególnie jeśli Twój zespół writerski
+jest duży. Weź to pod uwagę przygotowując przysłowiowego Excela.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="narzędziowy-escape-room">Narzędziowy escape room<a href="https://techwriter.pl/szybki-kurs-pilotazu#narz%C4%99dziowy-escape-room" class="hash-link" aria-label="Bezpośredni link do Narzędziowy escape room" title="Bezpośredni link do Narzędziowy escape room" translate="no">​</a></h2>
+<p>A co z ewentualną migracją na inny system? Nikt z nas nie chce znaleźć się w
+sytuacji, w której używamy narzędzia tylko dlatego, że nie da się go zmienić na
+inne.</p>
+<p>Na początku wszystko może być w porządku, ale z biegiem czasu zaczniesz odkrywać
+nowe potrzeby, nowe problemy i nowe możliwości. Jeśli rozwój narzędzia nie
+nadąży za potrzebami, możesz chcieć je zmienić. Wtedy vendor lock-in spowoduje,
+że przejście na inne rozwiązanie będzie jak próba wyjścia z escape roomu. Bez
+zaangażowania grupy ludzi i rozwiązania skomplikowanych zagadek nie uda się
+otworzyć drzwi, które pozwolą Ci opuścić pomieszczenie. Taki lock-in może też
+mieć miejsce w przypadku darmowych narzędzi, chociaż prawdopodobieństwo jest
+niższe.</p>
+<p>Vendor lock-in to awers, ale zostaje jeszcze rewers, czyli sytuacja, w której
+vendor z jakiegoś powodu przestaje utrzymywać narzędzie. Na przykład, biznes
+przestaje być dla niego opłacalny. W najgorszym wypadku zostaniesz bez
+narzędzia, a w najlepszym z narzędziem, które nie będzie rozwijane, ulepszane i
+naprawiane.</p>
+<p>Jeśli jest to usługa chmurowa, istnieje ryzyko, że produkt może zostać po prostu
+wyłączony. Jeśli to aplikacja instalowana lokalnie, to możesz stracić część
+funkcji, bo np. łączy się ona z jakimś serwisem, albo z narzędziem. Przestaniesz
+też dostawać aktualizacje, które załatają dziury w bezpieczeństwie i wydajności
+produktu.</p>
+<p>Postaraj się przygotować na taki scenariusz poprzez odpowiednie zapisy w umowie.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="pomoc-potrzebna-od-zaraz">Pomoc potrzebna od zaraz<a href="https://techwriter.pl/szybki-kurs-pilotazu#pomoc-potrzebna-od-zaraz" class="hash-link" aria-label="Bezpośredni link do Pomoc potrzebna od zaraz" title="Bezpośredni link do Pomoc potrzebna od zaraz" translate="no">​</a></h2>
+<p>Życie lubi nas zaskakiwać, szczególnie na początku naszej przygody z nowym
+narzędziem. Jeśli nie lubisz przykrych niespodzianek to dowiedz&nbsp;się dokładnie o
+koszt i dostępność wsparcia technicznego.</p>
+<p>Przykładowa lista pytań:</p>
+<ol>
+<li class="">Czy istnieje wsparcie techniczne? Jeśli to narzędzie open source, to czy
+istnieją miejsca, do których możesz pójść po pomoc kiedy napotkasz problem?</li>
+<li class="">Czy dostajesz jakieś wsparcie techniczne w cenie narzędzia? A jeśli tak to w
+jakiej formie? Może się okazać, że za wsparcie techniczne trzeba dopłacić
+ekstra.</li>
+<li class="">Jak zgłosić problem i jakie jest SLA na jego rozwiązanie?</li>
+<li class="">Jaki jest model dodawania i zmiany funkcji w narzędziu? Ile to kosztuje?</li>
+</ol>
+<p>Lepiej dmuchać na zimne, żeby nie okazało się, że pudełko z produktem nie
+zawiera w sobie tego, co Ci się&nbsp;wydawało.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="oczekiwania-kontra-rzeczywistość">Oczekiwania kontra rzeczywistość<a href="https://techwriter.pl/szybki-kurs-pilotazu#oczekiwania-kontra-rzeczywisto%C5%9B%C4%87" class="hash-link" aria-label="Bezpośredni link do Oczekiwania kontra rzeczywistość" title="Bezpośredni link do Oczekiwania kontra rzeczywistość" translate="no">​</a></h2>
+<p>Jeśli chodzi o kwestie opisane wcześniej w tym artykule, to ciężko postawić
+jasną granicę na jakim etapie powinny się one wydarzyć.</p>
+<p>Z jednej strony, kalkulacja kosztów może lepiej pasuje do etapu wyboru narzędzia
+niż samego pilotażu. Z drugiej strony to dopiero w trakcie pilotażu będziesz w
+stanie ocenić realne koszty, bo odkryjesz rzeczy, które Ci umknęły wcześniej.
+Sytuacja wygląda podobnie jeśli chodzi o wsparcie techniczne. Na etapie wyboru
+narzędzia możesz częściowo ocenić zakres i koszt takiej usługi, ale w trakcie
+pilotażu będziesz mieć okazję empirycznie stwierdzić jak ona działa.</p>
+<p>Co zatem jest to główną i najważniejszą częścią pilotażu? Z pomocą przychodzi
+tutaj
+<a href="https://www.gasq.org/files/content/gasq/downloads/certification/ITCQF/ITCQF_Syllabus_v2_0Jun2020.pdf" target="_blank" rel="noopener noreferrer" class="">syllabus</a>
+wspomnianej wcześniej fundacji ITCQF, w którym cele pilotażu zostały tak
+zdefiniowane:</p>
+<ol>
+<li class="">Ocena czy balans korzyści i poniesionych kosztów jest rozsądny</li>
+<li class="">Lepsze poznanie narzędzia</li>
+<li class="">Ocena jak narzędzie wpisuje się w istniejące procesy i praktyki oraz
+ustalenie co będzie wymagać&nbsp;zmiany</li>
+<li class="">Uzgodnienie jak narzędzie i jego dokumentacja będą używane, zarządzane,
+przechowywane i utrzymywane (np. ustalenie zasad nazewnictwa plików i sekcji)</li>
+</ol>
+<p>Po odhaczeniu powyższej listy dostaniesz solidną porcję danych, która pomoże Ci
+podjąć ostateczną decyzję czy testowane rozwiązanie jest tym czego oczekujesz.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="operacja-się-nie-udała-pacjent-przeżył">Operacja się nie udała, pacjent przeżył<a href="https://techwriter.pl/szybki-kurs-pilotazu#operacja-si%C4%99-nie-uda%C5%82a-pacjent-prze%C5%BCy%C5%82" class="hash-link" aria-label="Bezpośredni link do Operacja się nie udała, pacjent przeżył" title="Bezpośredni link do Operacja się nie udała, pacjent przeżył" translate="no">​</a></h2>
+<p>Po zebraniu danych z testów może pojawić się u Ciebie pokusa "dopasowania" ich
+do decyzji, która została podświadomie podjęta w Twojej głowie przed
+rozpoczęciem projektu. Nie tędy droga.</p>
+<p>Celem pilotażu nie jest za wszelką cenę udowodnić, że wybór padł na właściwe
+narzędzie, tylko zderzenie teorii z praktyką, a następnie chłodna ocena wyniku
+tego zderzenia. Żeby nie wpaść w pułapkę myślenia tunelowego, przed rozpoczęciem
+pilotażu, określ jasno kryteria, które zadecydują o tym, czy testowane narzędzie
+jest tym właściwym. Jeśli okaże się Twój wybór nie był dobry, to nie oznacza, że
+pilotaż się nie udał. Porażka to też forma zwycięstwa.</p>
+<p>Lepiej odkryć w trakcie testów, że coś nie działa tak jak chcesz niż dojść do
+tych samych wniosków już po wdrożeniu na produkcję. W szerszej perspektywie,
+oszczędzi Ci to sporo czasu i pieniędzy. Jeśli Twój pilotaż pokazał, że wybrane
+narzędzie jednak nie spełnia wymagań, wracasz do początku. A czasami nawet
+cofasz się jeszcze dalej, czyli ponownie analizujesz swoje wymagania i
+założenia, żeby mieć pewność, że Twoje oczekiwania są realne i przystające do
+rzeczywistości. Potem powtarzasz proces wyboru narzędzia.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="jak-to-zrobić-dobrze">Jak to zrobić dobrze<a href="https://techwriter.pl/szybki-kurs-pilotazu#jak-to-zrobi%C4%87-dobrze" class="hash-link" aria-label="Bezpośredni link do Jak to zrobić dobrze" title="Bezpośredni link do Jak to zrobić dobrze" translate="no">​</a></h2>
+<p>Przede wszystkim, Twój pilotaż musi mieć mierzalny cel i punkty do
+zweryfikowania.</p>
+<p>Żeby móc spełnić to wymaganie, nie bierz na warsztat projektu w stylu "Hello
+World!" albo "Test1". Zamiast tego przeprowadź pilotaż na prawdziwym projekcie,
+np. dokumentacji do konkretnego produktu na konkretny release. Ustal zadanie,
+które zweryfikuje każde wymaganie. Na przykład, jeśli wymagasz reusu ostrzeżeń i
+innych notek (tak jak w
+<a class="" href="https://techwriter.pl/jak-wybierac-narzedzia">artykule o wyborze narzędzia</a>), to rozpisz
+punkty, które pozwolą Ci go zweryfikować:</p>
+<ul>
+<li class="">Czy łatwo zarządzać reusem notek</li>
+<li class="">Czy notki spełniają wymagania</li>
+<li class="">Czy używanie notek nie prowadzi do pomyłek</li>
+<li class="">Co się stanie kiedy wymagana będzie zmiana treści notki (czy trzeba ręcznie
+publikować wszystkie instancje czy zmiana zaciągnie się&nbsp;automatycznie do
+wszystkich instancji)</li>
+</ul>
+<p>Oceń wykonanie każdego zadania bez naginania rzeczywistości. Opisz wszystko, co
+było niespodziewane, niezależnie od tego czy było pozytywne czy negatywne.</p>
+<p>Odpowiedni projekt to jedna rzecz. Drugą jest odpowiedni zespoł, który
+przeprowadzi pilotaż. Grupa powinna być na tyle duża i zróżnicowana, żeby
+wszystkie kompetencje i obowiązki zostały w niej uwzględnione. Właściwy dobór
+osób jest też kluczowy z innego powodu. Staną się&nbsp;one ekspertami od testowanego
+narzędzia. Jeśli projekt zakończy się&nbsp;sukcesem to grupa pilotażowa będzie
+zapewne szkolić i wspierać resztę zespołu na późniejszych etapach wdrożenia.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="pilotaż-to-dopiero-początek">Pilotaż to dopiero początek<a href="https://techwriter.pl/szybki-kurs-pilotazu#pilota%C5%BC-to-dopiero-pocz%C4%85tek" class="hash-link" aria-label="Bezpośredni link do Pilotaż to dopiero początek" title="Bezpośredni link do Pilotaż to dopiero początek" translate="no">​</a></h2>
+<p>Jeśli Twój pilotaż zakończył się wnioskiem, że testowane narzędzie jest
+właściwym rozwiązaniem, to masz powód do zadowolenia. Ale nie rozsiadaj się na
+długo, bo to nie koniec. Sukces odtrąbiony, czas zakasać rękawy i brać się do
+roboty.</p>
+<p>Droga od projektu pilotażowego do rozwiązania produkcyjnego jest przeważnie
+długa i kręta. Nie chcę tutaj brzmieć jak Pan Maruda Niszczyciel Dobrej Zabawy,
+ale przechodziłem ją kilka razy i rzadko kiedy wszystko idzie jak po maśle.
+Zapewne wyjdzie trochę nieprzewidzianych problemów. To normalne, więc nie martw
+się tylko skup się na szukaniu rozwiązań. Pamiętaj tylko, żeby w kalkulacjach i
+planowaniu wdrożenia produkcyjnego wziąć to pod uwagę, bo ktoś będzie musiał
+zainwestować czas i pieniądze w gaszenie takich pożarów.</p>
+<p>Powodzenia!</p>
+<p>Zdjęcie wykonane przez
+<a href="https://unsplash.com/@kristopher_allison?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" target="_blank" rel="noopener noreferrer" class="">Kristophera Allisona</a>
+i pobrane z
+<a href="https://unsplash.com/photos/man-flying-aircraft-under-cloudy-sky-KU4zYj4u0mo?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" target="_blank" rel="noopener noreferrer" class="">Unsplash</a></p>]]></content:encoded>
+            <category>dobre-praktyki</category>
+            <category>narzędzia</category>
+            <category>warsztat</category>
+        </item>
         <item>
             <title><![CDATA[Jak wybierać narzędzia?]]></title>
             <link>https://techwriter.pl/jak-wybierac-narzedzia</link>
@@ -3371,21 +3537,6 @@ wysiłek zostanie zapamiętany, bo znacząco wpłynął na rozwój naszej branż
             <category>szkolenia</category>
             <category>z-kraju</category>
             <category>news</category>
-        </item>
-        <item>
-            <title><![CDATA[CAKE conf: ruszyła sprzedaż biletów]]></title>
-            <link>https://techwriter.pl/cakeconf-earlybird-tickets</link>
-            <guid>https://techwriter.pl/cakeconf-earlybird-tickets</guid>
-            <pubDate>Thu, 24 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Gotowi na pierwszy kęs słodkiego contentu? Mamy nadzieję, że tak, bo bilety na]]></description>
-            <content:encoded><![CDATA[<p>Gotowi na pierwszy kęs słodkiego contentu? Mamy nadzieję, że tak, bo bilety na
-konferencję <a href="https://cakeconf.contentbytes.pl/" target="_blank" rel="noopener noreferrer" class="">CAKE conf</a> są już w sprzedaży!</p>
-<p>Bilety z puli early birds możecie kupić
-<a href="https://cakeconf.contentbytes.pl/tickets" target="_blank" rel="noopener noreferrer" class="">na stronie CAKE conf</a> w atrakcyjnej
-cenie 100 złotych. Liczba biletów jest ograniczona, więc nie zwlekajcie za długo
-z zakupem!</p>]]></content:encoded>
-            <category>konferencje</category>
-            <category>warsztat</category>
         </item>
     </channel>
 </rss>
