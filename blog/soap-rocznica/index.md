@@ -29,14 +29,28 @@ kontaktowymi ludźmi, za każdym razem wyniosłem wiele przydatnych informacji i
 przemyśleń. soap! wyróżniała też niezwykle przyjazna atmosfera tworzona przez
 organizatorów i uczestników.
 
+W tym miejscu chciałem podziękować Gosi za rozmowę, podczas której streściła mi
+historię soap! Wiele zdań w tym artykule to wierne cytaty lub parafraza słów
+Gosi. Stwierdzenia Gosi były tak celne, że po prostu nie mogłem ich nie
+wykorzystać. Swoją drogą, trudno się dziwić, skoro Gosia i wszystkie osoby
+powiązane z soap! to wytrawni specjaliści od komunikacji.
+
+## Stan branży w 2013
+
+Jak wyglądała wtedy polska scena technical writingu? Nie wiadomo ilu technical
+writerów było wtedy w Polsce. Osoby wykonujące ten zawód narzekały na izolujące
+doświadczenie zawodowe i ograniczony feedback od ekspertów, z którymi pracowali.
+Nasi bohaterowie czuli potrzebę zwiększenia świadomości o branży. Brakowało
+wtedy takich kierunków na studiach, które oferowały taką wiedzę.
+
 ## Pomysł
 
 W 2013,
 [Paulina Dygoń](https://www.linkedin.com/in/paulina-dygo%C5%84-5b158624/),
-[Gosia Radymiak](https://www.linkedin.com/in/malgorzata-gosia-radymiak/)
+[Gosia Radymiak](https://www.linkedin.com/in/malgorzata-gosia-radymiak/) i
 [Paweł Kowaluk](https://www.linkedin.com/in/pawel-kowaluk/) pracowali w tej
 samej firmie. W obrębie ich zespołu dokumentacyjnego zapadła decyzja o przejściu
-do nowego zaawansowanego narzędzia do tworzenia dokumentacji. Gosia miała wtedy
+do nowego, zaawansowanego narzędzia do tworzenia dokumentacji. Gosia miała wtedy
 niespełna rok doświadczenia w IBM, gdzie poznawała standard DITA. Członkowie
 zespołu mieli dużo pytań na temat nowego narzędzia, migracji do niego i wyzwań
 technicznych. Razem doszli do wniosku:
@@ -52,34 +66,24 @@ Konferencja było bardzo udana, wypełniały ją spotkania, nawiązywanie kontak
 przekazywanie wiedzy.
 
 Był wtedy czerwiec 2013 roku. Postanowili w październiku tamtego roku zrobić
-własną konferencję w Polsce.
+własną konferencję w Polsce. Taka dynamika i rozmach robią wrażenie!
 
-## Stan branży w 2013
-
-Jak wyglądała wtedy polska scena technical writingu? Nie wiadomo ilu technical
-writerów było wtedy w Polsce. Osoby wykonujące ten zawód narzekały na izolujące
-doświadczenie zawodowe i ograniczony feedback od ekspertów, z którymi pracowali.
-Nasi bohaterowie czuli potrzebę zwiększenia świadomości o branży. Brakowało
-wtedy takich kierunków na studiach, które oferowały taką wiedzę.
+Napędzały ich ambicja i młodzieńczy entuzjazm. Przyjrzyjmy się temu, jak
+podeszli do nowego wyzwania.
 
 ## Przygotowania do pierwszego soap!
 
-> Robimy długi research?
+> Robimy długi research 🤔?
 
-> Nieee, nauczymy się robiąc.
-
-Miał to być świeży start dla technical writingu. Młoda, dynamiczna społeczność
-dla technical writerów i specjalizacji powiązanych, takich jak tworzenie grafik
-i tłumaczenia.
+> Nieee, nauczymy się robiąc 💪!
 
 ### Nazwa
 
-Skąd wzięła się nazwa "soap!"? Mydło nawiązywało do świeżości. Podczas rozmów o
-branży narodziła się metafora baniek zamieszkiwanych przez różnych specjalistów
-od treści, którzy nie mieli świadomości siebie nawzajem. Historia nazwy została
-też nieco szczegółowiej opisana w
-[relacji](https://techwriter.pl/namydleni-po-raz-trzeci/#o-co-chodzi-z-tym-r%C3%B3%C5%BCowym-myd%C5%82em)
-z 2015 roku.
+Skąd wzięła się nazwa "soap!"? 🧼 Mydło nawiązywało do świeżości. Podczas rozmów
+o branży narodziła się metafora baniek 🫧 zamieszkiwanych przez różnych
+specjalistów od treści, którzy nie mieli świadomości siebie nawzajem. Historia
+nazwy została nieco szczegółowiej opisana w
+[relacji z soap! z 2015 roku](https://techwriter.pl/namydleni-po-raz-trzeci/#o-co-chodzi-z-tym-r%C3%B3%C5%BCowym-myd%C5%82em).
 
 Po wybraniu głównego symbolu, pozostało rozpisac skrót:
 
@@ -94,6 +98,12 @@ Słowa te brzmią ambitnie, profesjonalnie i nieco tajemniczo.
 zdefiniowanie tego, kto dokładnie ma być odbiorcą tej konferencji i zaproszenie
 speakerów, którzy podejmą się przeprowadzenia prezentacji.
 
+### Odbiorcy
+
+Miał to być świeży start dla technical writingu. Chodziło o stworzenie
+wydarzenia dla młodej, dynamicznej społeczności technical writerów i
+specjalizacji powiązanych, takich jak projektowanie graficzne i tłumaczenia.
+
 ### Speakerzy
 
 Organizatorzy rozpatrywali zgłoszenia potencjalnych speakerów. W czasie rozmów
@@ -103,7 +113,7 @@ konferencji bardzo istotne było zaufanie dla doświadczonych speakerów.
 
 ### Sponsorzy
 
-Jedną z rzeczy wyjątkowych dla soap! było to, że udawało się dobrze rozumieć ze
+Jedną z rzeczy wyjątkowych dla soap! było to, że udawało się dobrze rozumieć z
 sponsorami. Ich obecność na konferencji była dyskretna. Uczestnicy mogli skupić
 się na temacie konferencji, nie było męczącej promocji sponsorów i ich
 produktów. W tych kwestiach zachowana była perfekcyjna równowaga.
@@ -117,20 +127,31 @@ międzynarodowe wydarzenie.
 
 ![](images/2013_scena.jpg)
 
-W konferencji wzięło udział 120 osób, odbyła się ona na uczelni na Wyższej
-Szkoły Europejskiej im. ks. Józefa Tischnera, której Gosia była absolwentką.
-Organizatorzy soap! znaleźli kilku sponsorów. Agnieszka Tkaczyk pełniła rolę
-konferansjerki i świetnie sobie poradziła mimo opornego projektora.
+Konferencja odbyła się ona na uczelni na Wyższej Szkoły Europejskiej im. ks.
+Józefa Tischnera, której Gosia była absolwentką.
+
+Organizatorzy kilku sponsorów.
+
+Agnieszka Tkaczyk pełniła rolę konferansjerki i świetnie sobie poradziła mimo
+opornego projektora.
 
 Noz Urbina, którego organizatorzy słuchali podczas Congility, na soap! również
-wystąpił jako speaker.
+wystąpił jako prelegent.
+
+W wydarzeniu wzięło udział 120 osób.
 
 Gosia podzieliła się taką myślą, że organizując takie spotkanie można poznać
-lepiej sobie i innych. Nie była to bułka z masłem.
+lepiej sobie i innych. Z pewnością nie była to bułka z masłem. W takich
+wymagających momentach można zobaczyć hart ducha, pomysłowość i zdolność do
+poświęceń.
 
 ![](images/converstations.jpg)
 
 ## Po pierwszym soap!
+
+Społeczność przyjęła soap! z entuzjazmem i pewnym zdziwieniem:
+
+"O kurczę, mamy polską konferencję tech writingową!!!"
 
 ### Odczucia uczestników
 
@@ -149,14 +170,14 @@ Oryginalny podpis z ówczesnej strony soap!:
 
 ### Ważne decyzje
 
-Planowanie po pracy i czas wolny poświęcony organizacji konferencji to duże
+Planowanie po pracy i czas wolny wypełniony organizacją konferencji to duże
 poświęcenie. Paulina i Paweł czuli się tym zmeczeni i postanowili zrezygnować.
 
 Gosia wybrała kontynuować tę inicjatywę.
 
 ### Zespół od czasu drugiej edycji
 
-Powstała ekipa o takim składzie:
+Zawiązała się ekipa o takim składzie:
 
 | Osoba                                                                                | Parę słów o                                                                                                      | Rola/obszar                                                                                  |
 | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
@@ -174,12 +195,14 @@ Piter i jego technologiczne centrum kontroli wszechświata:
 
 > **Lord Vader**
 
-Link do źródła na
-[Twitterze](https://x.com/em_piter/status/999946418587684864?t=fvLzHHgbrzLc-Zd1MZyWKQ&s=07).
+Źródło:
+[Twitter](https://x.com/em_piter/status/999946418587684864?t=fvLzHHgbrzLc-Zd1MZyWKQ&s=07).
 
 ![](images/2022_piter.jpg)
 
 **Piter działa podczas soap! 2022.**
+
+Grupa znana pod pseudonimem scenicznym: "Soapy Crew".
 
 ## Po raz drugi: 2-3 października 2014
 
@@ -189,7 +212,9 @@ Link do źródła na
 
 Ekipa postanowiła zmienić miejsce z powodu ograniczeń wcześniejszej lokalizacji.
 Wybrali klimatyczny budynek dawnej fabryki kabli, który został zaadaptowany na
-przestrzenie biurowe. Po raz pierwszy zrobili warsztaty.
+przestrzenie biurowe.
+
+Po raz pierwszy zrobili warsztaty.
 
 Paweł pełnił rolę konferansjera. Całe wydarzenie rozpoczęło się od jego mowy
 otwierającej, której zarys możecie przeczytać w
@@ -198,8 +223,8 @@ otwierającej, której zarys możecie przeczytać w
 Pierwszy, darmowy dzień konferencji przyciągnął 142 uczestników, a drugi płatny
 dzień - 98.
 
-Noz Urbina znów prezentował:
-[relacja](https://scaling-broccoli-6x4ggrp476wh7r7-3000.app.github.dev/soap-2014-summary-of-day-2#find-a-common-language)
+Noz Urbina powrócił z prezentacją, której zarysy również znajdziecie w relacji:
+[relacji](https://scaling-broccoli-6x4ggrp476wh7r7-3000.app.github.dev/soap-2014-summary-of-day-2#find-a-common-language).
 
 ## Po raz trzeci: 8-9 października 2015
 
@@ -215,16 +240,18 @@ Mimo takich trudności, morale i poziom merytoryczny wydarzenia były nader
 wysokie.
 
 Podczas wydarzenia rysowała (dostarczała graphic recording) Jadźka Rysuje
-[wiecej w relacji](https://scaling-broccoli-6x4ggrp476wh7r7-3000.app.github.dev/namydleni-po-raz-trzeci#my-tu-gadu-gadu-a-jad%C5%BAka-rysuje)
+[o czym możecie dowiedzieć się wiecej w relacji](https://scaling-broccoli-6x4ggrp476wh7r7-3000.app.github.dev/namydleni-po-raz-trzeci#my-tu-gadu-gadu-a-jad%C5%BAka-rysuje)
 
 Pierwszy (darmowy) dzień konferencji przyciągnął 170 uczestników, drugi (płatny)
-dzień 80.
+dzień - 80.
 
 ## Po raz czwarty: 1-3 czerwca 2016
 
-![](images/edu_summit.jpg)
+![](images/edu_summit.jpg) Nauczeni poprzednimi doświadczeniami, organizatorzy
+wybrali cieplejszy miesiąc na to wydarzenie.
 
-- Temat przewodni brzmiał: "My" zamiast "Oni". Nie traci on na aktualności.
+- Temat przewodni brzmiał: "My" zamiast "Oni". Temat dotyczący pozycji technical
+  writera w zespole i podejścia do współpracy nie traci na aktualności.
 
 Konferencje poprzedzało 5 warsztatów w ramach Content Edu Summit.
 
@@ -236,17 +263,17 @@ Po raz pierwszy konferencja odbyła się w
 [Muzeum Sztuki i Techniki Japońskiej Manggha](https://manggha.pl/).
 Organizatorzy szybko znaleźli wspólny język z właścicielami. Współpraca okazała
 się perspektywiczna, bo soap! powrócił do Manggha jeszcze pięć razy. Uczestnicy
-konferencji mieli możliwość zwiedzania muzeum podczas trwania konferencji.
+konferencji otrzymali możliwość zwiedzania muzeum.
 
 ### Wolontariusze z 31 LO w Krakowie
 
-Wolontariusze - 31 LO - uczniowie wspierali wydarzenie na wiele sposobów:
+Uczniowie licealni wspierali wydarzenie na wiele sposobów:
 
 - Pomagali w szatni
+- Drukowali co było potrzebne
 - Rozdawali mydła z logo konferencji osobom z publiki zadającym pytania
 - Sami odpowiedzieli na milion pytań
-- Na skuterze załatwiają potrzebne rzeczy
-- Drukowali co trzeba.
+- Na skuterze załatwiali potrzebne rzeczy
 
 Uczniowie zawsze mieli mnóstwo pomysłów i świetnie rozwiązywali problemy.
 
@@ -259,8 +286,9 @@ przy konferencji była jedną z nich.
 
 - Temat przewodni: Rozwiązywanie problemów.
 
-Nie mogę nie wspomnieć klimatycznej strefy chillout, miejsca relaksu i dobrych
-rozmów.
+Nie mogę nie wspomnieć o klimatycznej strefie chillout, miejscu relaksu i
+dobrych rozmów. Po intensywnych prezentacjach dobrze było tam się przejść i
+odetchnąć świeżym powietrzem.
 
 ## Po raz szósty: 23-25 maja 2018
 
@@ -274,24 +302,28 @@ rozmów.
 
 - Temat przewodni: Content as Code.
 
-Najwyższa liczba uczestników.
+Odnotowano wtedy najwyższą liczbę uczestników.
 
-[Podsumowanie video](https://www.youtube.com/watch?v=teA3well1ek&list=PLUY0lajb-kiaIbF6clQaxTp2lwqmrDDC5)
+Zapraszam do obejrzenia
+[podsumowania video](https://www.youtube.com/watch?v=teA3well1ek&list=PLUY0lajb-kiaIbF6clQaxTp2lwqmrDDC5).
 
 ## Przerwa z powodu pandemii 2020-2021
 
-Jak w wielu obszarach życia, pandemia wszystko zmieniła i sporo namieszała.
+Podobnie jak w wielu innych obszarach życia, pandemia wszystko zmieniła i sporo
+namieszała.
 
-W edycji z czerwca 2019 odnotowano najwyższą liczbę uczestników. Ludzie stali
-się mniej skłonni do podróży. Trudniej było znaleźć sponsorów.
+W edycji z czerwca 2019 odnotowano najwyższą liczbę uczestników.
+
+Po pandemii ludzie stali się mniej skłonni do podróży.
+
+Trudniej też było znaleźć sponsorów.
 
 ## Po raz ósmy: 1-3 czerwca 2022
 
-![](images/2022_wyklad.jpg)
-
-Powrót po przerwie należał do trudnych. Ekipie zależało na tym, by zrewidować
-dobre i złe praktyki, które zdążyły się zgromadzić przez lata. Stale byli
-wyczuleni na uwagi odwiedzających.
+![](images/2022_wyklad.jpg) Gdy wreszcie skończyła się pandemia, przyszedł czas
+na wznowienie soap!. Powrót po przerwie należał do trudnych. Ekipie zależało na
+tym, by zrewidować dobre i złe praktyki, które zdążyły się zgromadzić przez
+lata. Stale byli wyczuleni na uwagi odwiedzających.
 
 Temat wiodący: przyszłość technical writingu.
 
@@ -300,11 +332,12 @@ Temat wiodący: przyszłość technical writingu.
 Jednym z ciekawych wystąpień była prezentacja statystyk dotyczących zarobków
 technical writerów, zwłaszcza tych z Europy środkowej i wschodniej.
 
-### Soapuszka
+### Soapuszka: początek
 
-Soapuszka z soap! 2022 przekazana przez Roberta Pawlickiego dla Soapuszka Crew
-podczas jego prezentacji o AI. Co warte jest podkreślenia, jako jedyny ze
-speakerów odbył podróż w przyszłość i wrócił by o niej opowiedzieć.
+Podczas prezentacji o AI, Rafał Pawlicki przekazał Soapuszkę, czyli różowa
+poduszkę nazwą konferencji, tajemniczej grupie o nazwie Soapuszka Crew. Przy
+okazji warto podkreślić, że Rafał jako jedyny ze speakerów odbył podróż w
+przyszłość i wrócił by o niej opowiedzieć.
 
 ![poduszka-soapuszka](./images/soapusza_mala-fad0d1204354736144ab7e68f11f6c30.gif)
 
@@ -316,7 +349,7 @@ soap! 2023!
 ![](images/super.jpg)
 
 Wyjątkową nowością, jaką tylko uświadczyliśmy na konferencji w 2022, był
-teleturniej. Oto
+teleturniej. Oto jego
 [kultowy zwiastun](https://www.linkedin.com/posts/soap-techcomm_excitingnewsalert-supergame-soapconf-activity-6920791703234699264-6mUf).
 W czasie konkursu było dużo śmiechu. Każdy miał szansę wykazania się wiedzą o
 technical writingu. Emocje sięgnęły zenitu, a sztuczna inteligencja stworzona na
@@ -331,11 +364,12 @@ bycia głową rodziny w tej dokumentacyjnej "Familiadzie".
 ![](images/2023_publika.jpg)
 
 - Temat przewodni: Content Operations.
-- Ostatnia edycja konferencji jaka dotychczas miała miejsce.
 
-W tej edycji Paulina Dygoń, współzałożycielka i inicjatorka pierwszej edycji,
-tym razem po raz pierwszy w historii soap! wzięła do ręki mikrofon i
-przedstawiła temat "Why a PM is like a DJ".
+Była to ostatnia edycja konferencji jaka dotychczas miała miejsce.
+
+W tej edycji Paulina Dygoń, współzałożycielka i inicjatorka pierwszej edycji, po
+raz pierwszy w historii soap! wzięła do ręki mikrofon i przedstawiła temat "Why
+a PM is like a DJ".
 
 ### Soapuszka: ciąg dalszy
 
@@ -350,26 +384,25 @@ tym, że popruła się i rozpadła na kawałki. Ale było warto! Lepiej spalać 
 Podczas konferencji w 2023 organizatorzy wprowadzili soap! box, czyli drewnianą
 skrzynkę po jabłkach, na którą każdy mogł wskoczyć i opowiedzieć pokrótce o tym,
 co mu aktualnie w duszy gra. Miałem przyjemność na tę skrzynkę wskoczyć, gdzie
-razem z Lancem Cummingsem opowiadałem o wspólnych projekcie. Był to dobry ukłon
-w stronę spontaniczności. Było to dobrym urozmaiceniem w wydarzeniu pełnym
-starannie przygotowanych warsztatów i prezentacji. Zarówno organizatorzy jak i
-publiczność byli bardzo otwarci na to, co do powiedzenia mieli speakerzy stojący
-na skrzynce 😀.
+razem z Lancem Cummingsem opowiadałem o wspólnych projekcie.
+
+Taki ukłon w stronę spontaniczności. Było to dobre urozmaicenie w wydarzeniu
+pełnym starannie przygotowanych warsztatów i prezentacji. Zarówno organizatorzy
+jak i publiczność byli bardzo otwarci na to, co do powiedzenia mieli speakerzy
+stojący na skrzynce 😀.
 
 ### Panel dyskusyjny
 
-## Przerwa po 2023
-
-Po konferencji 2023 przyszedł czas przerwę i refleksję na zmianą formuły i
-upewnieniem się, że różne konkurujące nurty technical writingowe są dobrze
-zbalansowane. W uwagach uczestników często padały prośby o więcej praktycznych
-zajęć i tematów. Wykłady nie muszą być tylko wysokopoziomowe.
+Konferencje wymagają improwizacji. Ponieważ jeden z wykładów musiał zostać
+odwołany, szybko zebrało się kilka osób do panelu dyskusyjnego. Wsród tematów rozmów, były rekrutacje dla technical writerów no i oczywiście sztuczna inteligencja ☺️.
 
 ## Fakty i liczby
 
-Tutaj coś dla miłośników tabelek z danymi. Tabelka pomaga prześledzić jak
-rozwijały się te wydarzenia. Te liczby też opowiadają historię! Treści jest
-sporo, więc możliwe, że zrobisz użytek z poziomego paska u dołu.
+Tutaj coś dla miłośników tabelek z danymi. Te liczby też opowiadają historię! Pomagają prześledzić jak
+rozwijały się te wydarzenia. 
+
+Treści w tabeli jest
+sporo, więc możliwe, że zrobisz użytek z poziomego paska do przewijania u dołu.
 
 | Rok  | Miejsce                                           | Temat                         | Ile dni? | Warsztaty                | Speakerzy | Ilu słuchaczy? | Konferansjerka | Online? |
 | ---- | ------------------------------------------------- | ----------------------------- | -------- | ------------------------ | --------- | -------------- | -------------- | ------- |
@@ -402,20 +435,20 @@ Słowami Gosi:
 Grupa [soap! technical communication](https://www.facebook.com/soapconf) na
 Facebooku liczy 1300 osób.
 
-## Inicjatywa powiązana - Meet Content
+## Inicjatywy powiązane
 
 Stało się jasne, że soap! raz w roku to było za mało, a apetyt na wiedzę i
 spotkania stale rósł. Zaczęło się rozkręcanie meetupów. W Brnie odbyły trzy
 meetupy.
 
-Meet Content i Content Bytes. Meet Content nadal działa we Wrocławiu. Oddział
+Meet Content nadal działa we Wrocławiu. Oddział Meet Content
 krakowski przestał być aktywny. W Krakowie powstała nowa marka: Content Bytes
 założona przez Barbarę Czyż i Edytę Rakowską.
 
 ## Soapy Crew i inicjatorzy obecnie
 
 Wszystkie z wymienionych osób mają wyrobioną renomę w technical writingu i
-pokrewnych specjalnościach takich jak copywriting czy graphic design. 
+ specjalnościach takich jak copywriting czy graphic design.
 
 ## Rocznica
 
@@ -426,7 +459,7 @@ W październiku 2026 soap! skończy 13 lat! Gratulacje dla ekipy organizującej 
 cudowne wydarzenia i dla wszystkich jej uczestników. Warto było dzielić te
 doświadczenia, za które jesteśmy Wam niezmiernie wdzięczni.
 
-Jak to kiedyś Michał Skowron określił:
+Jak to kiedyś określił Michał Skowron:
 
 > I came for the talks.
 
@@ -435,7 +468,9 @@ Jak to kiedyś Michał Skowron określił:
 Jakkolwiek patetycznie to może zabrzmieć, soap! był wyjątkowy dzięki ludziom
 którzy go tworzyli i w nim uczestniczyli. Była to przestrzeń na spotkania ludzi
 rozumiejących bolączki dokumentacji, mających ochotę nauczyć się czegoś i
-jednocześnie gotowych innym wiedzę przekazać. Jeśli ktoś zauważył jakiś fakt do
+jednocześnie gotowych innym wiedzę przekazać. 
+
+Jeśli ktoś zauważy w artykule jakiś fakt do
 poprawki albo chciałby opowiedzieć swoją historię, zapraszamy do kontaktu.
 
 ## Dalsza lektura
@@ -445,6 +480,7 @@ możecie zapoznać się z relacjami pisanymi szczegółowo i ze swadą.
 
 Większość zdjęć w artykule pochodzi ze strony FB
 [soap technical communication](https://www.facebook.com/soapconf/photos_albums).
+Zapraszam do obejrzenia "wizualnej dokumentacji".
 
 soap! oczami innych uczestników:
 
