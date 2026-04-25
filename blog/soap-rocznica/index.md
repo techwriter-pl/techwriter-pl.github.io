@@ -290,11 +290,39 @@ Nie mogę nie wspomnieć o klimatycznej strefie chillout, miejscu relaksu i
 dobrych rozmów. Po intensywnych prezentacjach dobrze było tam się przejść i
 odetchnąć świeżym powietrzem.
 
+Kolejną atrakcją soap! na którą zwrócę uwagę są gadżety z soap! i partnerów,
+jakie w tej edycji można było wygrać w konkursach. Szczęśliwcy mogli otrzymać
+kubek Techwritera, leżak soap!, a sponsorzy ofiarowali jako nagrody licencje na
+oprogramowanie. W późniejszych edycjach organizowane były loterie w których
+można było otrzymać miłe upominki.
+
+Jakub Wiśniewski w swojej relacji celnie podsumowuje atrakcyjność tej
+konferencji:
+
+> soap! zdecydowanie się rozwija. Konferencja, która rozpoczynała jako lokalne
+> wydarzenie, na naszych oczach przeradza > się w istotny, międzynarodowy punkt
+> na tech commowej mapie Europy, jednocześnie nie zatracając atmosfery
+> wydarzenia organizowanego przez paczkę przyjaciół.
+
 ## Po raz szósty: 23-25 maja 2018
 
 ![](images/2018_garden.jpg)
 
 - Temat przewodni: Innowacja kontra prostota.
+
+Wiele rzeczy, które napisałem wcześniej o wysokim poziomie prezentacji,
+przydatnych warsztatach i świetnej atmosferze, również odnoszą się do tej
+edycji.
+
+Podkreślę jeden aspekt nieoficjalnej części konferencji, co Michał Skowron
+trafnie podsumował w swojej relacji:
+
+> Konferencja to nie tylko mnóstwo wiedzy, to także sporo dobrej zabawy. Po
+> każdym dniu wykładów mieliśmy okazję >rozluźnić się i spędzić miło czas na
+> rozmowach, nie tylko o sprawach branżowych. Można było spotkać starych
+> znajomych, nawiązać nowe kontakty, posłuchać muzyki na żywo i napić się
+> dobrego piwa. Podczas nieoficjalnej części jak zwykle panowała luźna atmosfera
+> i widać było, że wszyscy dobrze się bawili.
 
 ## Po raz siódmy: 5-7 czerwca 2019
 
@@ -320,10 +348,12 @@ Trudniej też było znaleźć sponsorów.
 
 ## Po raz ósmy: 1-3 czerwca 2022
 
-![](images/2022_wyklad.jpg) Gdy wreszcie skończyła się pandemia, przyszedł czas
-na wznowienie soap!. Powrót po przerwie należał do trudnych. Ekipie zależało na
-tym, by zrewidować dobre i złe praktyki, które zdążyły się zgromadzić przez
-lata. Stale byli wyczuleni na uwagi odwiedzających.
+![](images/2022_wyklad.jpg)
+
+Gdy wreszcie skończyła się pandemia, przyszedł czas na wznowienie soap!. Powrót
+po przerwie należał do trudnych. Ekipie zależało na tym, by zrewidować dobre i
+złe praktyki, które zdążyły się zgromadzić przez lata. Stale byli wyczuleni na
+uwagi odwiedzających.
 
 Temat wiodący: przyszłość technical writingu.
 
@@ -389,20 +419,24 @@ razem z Lancem Cummingsem opowiadałem o wspólnych projekcie.
 Taki ukłon w stronę spontaniczności. Było to dobre urozmaicenie w wydarzeniu
 pełnym starannie przygotowanych warsztatów i prezentacji. Zarówno organizatorzy
 jak i publiczność byli bardzo otwarci na to, co do powiedzenia mieli speakerzy
-stojący na skrzynce 😀.
+stojący na skrzynce 😀. Doceniam to, że kiedy przemawiałem na skrzynce, nie
+leciały w moim kierunku jabłka. Publiczność była tamtego dnia dla mnie życzliwa.
 
 ### Panel dyskusyjny
 
 Konferencje wymagają improwizacji. Ponieważ jeden z wykładów musiał zostać
-odwołany, szybko zebrało się kilka osób do panelu dyskusyjnego. Wsród tematów rozmów, były rekrutacje dla technical writerów no i oczywiście sztuczna inteligencja ☺️.
+odwołany, szybko zebrało się kilka osób do panelu dyskusyjnego. Wśród tematów
+rozmów, były rekrutacje dla technical writerów, trendy w branży no i oczywiście
+sztuczna inteligencja ☺️. W tamtym roku zainteresowanie tym tematem było
+szczególnie widoczne.
 
 ## Fakty i liczby
 
-Tutaj coś dla miłośników tabelek z danymi. Te liczby też opowiadają historię! Pomagają prześledzić jak
-rozwijały się te wydarzenia. 
+Tutaj gratka dla miłośników tabelek z danymi. Te liczby też opowiadają historię!
+Pomagają prześledzić jak rozwijały się te wydarzenia.
 
-Treści w tabeli jest
-sporo, więc możliwe, że zrobisz użytek z poziomego paska do przewijania u dołu.
+To szeroka tabela, więc możliwe, że zrobisz użytek z poziomego paska do
+przewijania u dołu.
 
 | Rok  | Miejsce                                           | Temat                         | Ile dni? | Warsztaty                | Speakerzy | Ilu słuchaczy? | Konferansjerka | Online? |
 | ---- | ------------------------------------------------- | ----------------------------- | -------- | ------------------------ | --------- | -------------- | -------------- | ------- |
@@ -438,17 +472,17 @@ Facebooku liczy 1300 osób.
 ## Inicjatywy powiązane
 
 Stało się jasne, że soap! raz w roku to było za mało, a apetyt na wiedzę i
-spotkania stale rósł. Zaczęło się rozkręcanie meetupów. W Brnie odbyły trzy
-meetupy.
+spotkania stale rósł. Zaczęło się rozkręcanie meetupów o nazwie Meet Content. W
+Brnie w Czechach odbyły się trzy meetupy.
 
-Meet Content nadal działa we Wrocławiu. Oddział Meet Content
-krakowski przestał być aktywny. W Krakowie powstała nowa marka: Content Bytes
-założona przez Barbarę Czyż i Edytę Rakowską.
+Meet Content nadal działa we Wrocławiu. Oddział Meet Content krakowski przestał
+być aktywny. W Krakowie powstała nowa marka: Content Bytes założona przez
+Barbarę Czyż i Edytę Rakowską.
 
 ## Soapy Crew i inicjatorzy obecnie
 
 Wszystkie z wymienionych osób mają wyrobioną renomę w technical writingu i
- specjalnościach takich jak copywriting czy graphic design.
+specjalnościach takich jak copywriting czy graphic design.
 
 ## Rocznica
 
@@ -468,44 +502,55 @@ Jak to kiedyś określił Michał Skowron:
 Jakkolwiek patetycznie to może zabrzmieć, soap! był wyjątkowy dzięki ludziom
 którzy go tworzyli i w nim uczestniczyli. Była to przestrzeń na spotkania ludzi
 rozumiejących bolączki dokumentacji, mających ochotę nauczyć się czegoś i
-jednocześnie gotowych innym wiedzę przekazać. 
+jednocześnie gotowych przekazać swoją wiedzę i doświadczenia innym.
 
-Jeśli ktoś zauważy w artykule jakiś fakt do
-poprawki albo chciałby opowiedzieć swoją historię, zapraszamy do kontaktu.
+Jeśli ktoś zauważy w artykule jakiś fakt do poprawki albo chciałby opowiedzieć
+swoją historię związaną z soap!, zapraszamy do kontaktu.
 
-## Dalsza lektura
+## Materiały dodatkowe
+
+### Albumy zdjęć
+
+Większość zdjęć w artykule pochodzi ze strony FB
+[soap technical communication](https://www.facebook.com/soapconf/photos_albums).
+Zapraszam do obejrzenia tej "wizualnej dokumentacji".
+
+### Relacje na Techwriterze
 
 Tag z listą wszystkich relacji z [soap!](https://techwriter.pl/tags/soap), gdzie
 możecie zapoznać się z relacjami pisanymi szczegółowo i ze swadą.
 
-Większość zdjęć w artykule pochodzi ze strony FB
-[soap technical communication](https://www.facebook.com/soapconf/photos_albums).
-Zapraszam do obejrzenia "wizualnej dokumentacji".
-
-soap! oczami innych uczestników:
+### soap! oczami innych uczestników
 
 - [TechWhirl - Conference Review: soap! Offers a Clean Start in Poland 2014?](https://techwhirl.com/conference-review-soap-offers-clean-start-poland/)
 - [Cynthia Peter's Review of 2023 soap!](https://medium.com/postcards-by-fancy-nomads/attending-soap-conference-in-krakow-poland-ac7e4c98eb13)
 
-* 2013: soap! 1
+### Nagrane prezentacje
+
+Na kanale YT znajdziecie
+[nagrania](https://www.youtube.com/@SoapconfPage/playlists) z niektórych edycji.
+Mimo upływu lat, warto do nich wrócić, w dokumentacji sporo tematów nie traci na
+aktualności.
+
+- 2013: soap! 1
   [soap! technical communication conference - relacja](../soap-technical-communication-conference-relacja/index.md)
-* 2014: soap! 2 [Mydło lubi zabawę](../mydlo-lubi-zabawe/index.md)
+- 2014: soap! 2 [Mydło lubi zabawę](../mydlo-lubi-zabawe/index.md)
   - 2014: soap! 2
     [soap! Just Wants to Have Fun](../soap-just-wants-to-have-fun/index.md)
   - 2014: soap! 2
     [soap! 2014 - summary of day 1](../soap-2014-summary-of-day-1/index.md)
   - 2014: soap! 2
     [soap! 2014 - summary of day 2](../soap-2014-summary-of-day-2/index.md)
-* 2015: soap! 3 [Namydleni po raz trzeci](../namydleni-po-raz-trzeci/index.md)
-* 2016: soap! 4
+- 2015: soap! 3 [Namydleni po raz trzeci](../namydleni-po-raz-trzeci/index.md)
+- 2016: soap! 4
   [Konferencja soap! 2016 - podsumowanie](../konferencja-soap-2016-podsumowanie/index.md)
-* 2017: soap! 5
+- 2017: soap! 5
   [soap! 2017 już za nami - relacja](../soap-2017-juz-za-nami-relacja/index.md)
-* 2018: soap! 6
+- 2018: soap! 6
   [Konferencja soap! 2018 - relacja](../konferencja-soap-2018-relacja/index.md)
-* 2019: soap! 7
+- 2019: soap! 7
   [Konferencja soap! 2019 - (wideo)relacja](../konferencja-soap-2019-wideorelacja/index.md)
-* 2022: soap! 8
+- 2022: soap! 8
   [Doniesienia z tegorocznej konferencji soap! 2022!](../doniesienia-z-tegoroczenj-konferencji-soap-2022/index.md)
-* 2023: soap! 9
+- 2023: soap! 9
   [Relacja z tegorocznej konferencji soap 2023!](../relacja-z-tegorocznej-konferencji-soap-2023/index.md)
