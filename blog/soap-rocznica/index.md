@@ -234,13 +234,13 @@ Po raz pierwszy uczestnicy mogli wziąć udział w warsztatach.
 
 Paweł pełnił rolę konferansjera. Całe wydarzenie rozpoczęło się od jego mowy
 otwierającej, której zarys możecie przeczytać w
-[relacji](../blog/mydlo-lubi-zabawe#zacz%C4%99%C5%82o-si%C4%99).
+[relacji](https://techwriter.pl/mydlo-lubi-zabawe/#zacz%C4%99%C5%82o-si%C4%99).
 
 Pierwszy, darmowy dzień konferencji przyciągnął 142 uczestników, a drugi płatny
 dzień - 98.
 
 Noz Urbina powrócił z prezentacją, której zarysy również znajdziecie
-[tutaj](https://scaling-broccoli-6x4ggrp476wh7r7-3000.app.github.dev/soap-2014-summary-of-day-2#find-a-common-language).
+[tutaj](https://techwriter.pl/soap-2014-summary-of-day-2/#find-a-common-language).
 
 ## Po raz trzeci: 8-9 października 2015
 
@@ -260,7 +260,7 @@ wysokie.
 
 Podczas wydarzenia rysowała (dostarczała graphic recording) Jadźka Rysuje o czym
 przeczytać możecie w
-[relacji](https://scaling-broccoli-6x4ggrp476wh7r7-3000.app.github.dev/namydleni-po-raz-trzeci#my-tu-gadu-gadu-a-jad%C5%BAka-rysuje)
+[relacji](https://techwriter.pl/namydleni-po-raz-trzeci/#my-tu-gadu-gadu-a-jad%C5%BAka-rysuje)
 
 Pierwszy (darmowy) dzień konferencji przyciągnął 170 uczestników, drugi (płatny)
 dzień - 80.
