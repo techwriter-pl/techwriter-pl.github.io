@@ -370,7 +370,7 @@ Australia, Czechy, Niemcy, Finlandia, Francja, Węgry, Izrael, Malta, Malezja,
 Ukraina, USA i Wielka Brytania, którzy reprezentowali ponad 100 firm. Podobnie
 się sytuacja miała w wielu wcześniejszych edycjach.
 
-Ciekawą pamiątką jest
+Ciekawą pamiątką po tym odcinku jest
 [podsumowanie video](https://www.youtube.com/watch?v=teA3well1ek&list=PLUY0lajb-kiaIbF6clQaxTp2lwqmrDDC5).
 Zapraszam do obejrzenia.
 
