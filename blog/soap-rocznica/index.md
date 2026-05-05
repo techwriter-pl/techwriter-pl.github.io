@@ -30,10 +30,10 @@ przemyśleń. soap! wyróżniała też niezwykle przyjazna atmosfera tworzona pr
 organizatorów i uczestników.
 
 W tym miejscu chciałem podziękować Gosi za rozmowę, podczas której streściła mi
-historię soap! Wiele zdań w tym artykule to wierne cytaty lub parafraza słów
-Gosi. Stwierdzenia Gosi były tak celne, że po prostu nie mogłem ich nie
-wykorzystać. Swoją drogą, trudno się dziwić, skoro Gosia i wszystkie osoby
-powiązane z soap! to wytrawni specjaliści od komunikacji.
+historię soap! Wiele zdań w tym artykule to wierne cytaty lub parafraza słów.
+Stwierdzenia były tak celne, że po prostu nie mogłem ich nie wykorzystać.
+Swoją drogą, trudno się temu dziwić, skoro Gosia i wszystkie osoby powiązane z soap!
+to wytrawni specjaliści od komunikacji.
 
 ## Stan branży w 2013
 
@@ -104,18 +104,18 @@ Miał to być świeży start dla technical writingu. Chodziło o stworzenie
 wydarzenia dla młodej, dynamicznej społeczności technical writerów i
 specjalizacji powiązanych, takich jak projektowanie graficzne i tłumaczenia.
 
-### Speakerzy
+### Prelegenci
 
-Organizatorzy rozpatrywali zgłoszenia potencjalnych speakerów. W czasie rozmów
+Organizatorzy rozpatrywali zgłoszenia potencjalnych prelegentów. W czasie rozmów
 ze speakerami starali się przybliżyć zainteresowania publiki, które różniły się
-od zainteresowań publik z dojrzałą tradycją techwritingową. Dla tej młodej
-konferencji bardzo istotne było zaufanie dla doświadczonych speakerów.
+od zainteresowań publik z dojrzałą tradycją tech writingową. Dla tej młodej
+konferencji bardzo istotne było zaufanie dla doświadczonych mówców.
 
 ### Sponsorzy
 
-Jedną z rzeczy wyjątkowych dla soap! było to, że udawało się dobrze rozumieć z
+Jedną z rzeczy wyjątkowych dla soap! było to, że udawało się dobrze rozumieć ze
 sponsorami. Ich obecność na konferencji była dyskretna. Uczestnicy mogli skupić
-się na temacie konferencji, nie było męczącej promocji sponsorów i ich
+się na temacie konferencji, nie było męczącej czy natrętnej promocji firm i ich
 produktów. W tych kwestiach zachowana była perfekcyjna równowaga.
 
 ### Wyścig z czasem
@@ -127,10 +127,10 @@ międzynarodowe wydarzenie.
 
 ![](images/2013_scena.jpg)
 
-Konferencja odbyła się ona na uczelni na Wyższej Szkoły Europejskiej im. ks.
+Konferencja odbyła się na uczelni na Wyższej Szkoły Europejskiej im. ks.
 Józefa Tischnera, której Gosia była absolwentką.
 
-Organizatorzy kilku sponsorów.
+Udało się nawiązać współpracę z kilkoma sponsorami.
 
 Agnieszka Tkaczyk pełniła rolę konferansjerki i świetnie sobie poradziła mimo
 opornego projektora.
