@@ -224,7 +224,7 @@ Grupa znana pod pseudonimem scenicznym: "Soapy Crew".
 
 ![](images/2014_aula.jpg)
 
-- Temat przewodni: a clean; start;
+- Temat przewodni: _a clean; start;_
 
 Ekipa postanowiła zmienić miejsce z powodu ograniczeń wcześniejszej lokalizacji.
 Wybrali klimatyczny budynek dawnej fabryki kabli, który został zaadaptowany na
@@ -270,10 +270,10 @@ dzień - 80.
 ![](images/edu_summit.jpg) Nauczeni poprzednimi doświadczeniami, organizatorzy
 wybrali cieplejszy miesiąc na to wydarzenie.
 
-- Temat przewodni brzmiał: "My" zamiast "Oni". Temat dotyczący pozycji technical
+- Temat przewodni brzmiał: _"My" zamiast "Oni"_. Temat dotyczący pozycji technical
   writera w zespole i podejścia do współpracy nadal nie traci na aktualności.
 
-Konferencje poprzedzało 5 warsztatów w ramach Content Edu Summit.
+Konferencję poprzedzało 5 warsztatów w ramach Content Edu Summit.
 
 ### Nowa lokalizacja: Manggha
 
@@ -307,7 +307,7 @@ przy konferencji była jedną z nich.
 
 ![](images/2017_garden.jpg)
 
-- Temat przewodni: Rozwiązywanie problemów.
+- Temat przewodni: _Rozwiązywanie problemów_.
 
 Kolejną atrakcją soap! na którą zwrócę uwagę są gadżety organizatorów i
 partnerów, jakie w tej edycji można było wygrać w konkursach. Szczęśliwcy mogli
@@ -327,7 +327,7 @@ tę edycję celnie podsumowuje atrakcyjność tej konferencji w tamtym czasie:
 
 ![](images/2018_garden.jpg)
 
-- Temat przewodni: Innowacja kontra prostota.
+- Temat przewodni: _Innowacja kontra prostota_.
 
 Wiele rzeczy, które napisałem wcześniej o wysokim poziomie prezentacji,
 przydatnych warsztatach i świetnej atmosferze, również odnoszą się do tej
@@ -351,20 +351,24 @@ trafnie podsumował w swojej relacji z tamtej edycji:
 
 ![](images/2019_michal_pawel.jpg)
 
-- Temat przewodni: Content as Code.
+- Temat przewodni: _Content as Code_.
 
 Jak w ostatnich 10 latach zmieniło się podejście do treści, czy jest traktowana
-tak jak kod? Jakie są zalety i wady takiego podejścia i co ono oznacza dla
-różnych osób? Te i inne zagadnienia przyciągnęły wtedy największą liczbę
-uczestników. Było to grubo ponad 200 osób. Jak bardzo grubo? Tego nie wiem, nie
-udało mi się dokładnie ustalić.
+tak jak kod?
 
-Przy tej okazji też podkreślę międzynarodowy charakter imprezy. W roku 2019
-konferencję odwiedziły osoby z 19 krajów. Rok wcześniej uczestnicy konferencji
-pochodzili z 22 krajów, takich jak Polska, Australia, Czechy, Niemcy, Finlandia,
-Francja, Węgry, Izrael, Malta, Malezja, Ukraina, USA i Wielka Brytania oraz
-reprezentowali ponad 100 firm. Podobnie się sytuacja miała w wielu
-wcześniejszych edycjach.
+Jakie są zalety i wady takiego podejścia i co ono oznacza dla różnych osób?
+
+Te i inne zagadnienia przyciągnęły wtedy rekordową liczbę uczestników. Było to
+grubo ponad 200 osób. Jak bardzo grubo? Tego nie wiem, nie udało mi się
+dokładnie ustalić.
+
+Przy tej okazji też podkreślę międzynarodowy charakter imprezy. W roku 20**19**
+konferencję odwiedziły osoby z **19** krajów.
+
+Rok wcześniej konferencji odwiedzili uczestnicy z 22 krajów, takich jak Polska,
+Australia, Czechy, Niemcy, Finlandia, Francja, Węgry, Izrael, Malta, Malezja,
+Ukraina, USA i Wielka Brytania, którzy reprezentowali ponad 100 firm. Podobnie
+się sytuacja miała w wielu wcześniejszych edycjach.
 
 Ciekawą pamiątką jest
 [podsumowanie video](https://www.youtube.com/watch?v=teA3well1ek&list=PLUY0lajb-kiaIbF6clQaxTp2lwqmrDDC5).
@@ -387,8 +391,10 @@ Przyszedł czas na wznowienie soap!. Powrót po przerwie należał do trudnych.
 Ekipie zależało na tym, by zrewidować dobre i złe praktyki, które zdążyły się
 wytworzyć przez lata. Stale byli wyczuleni na uwagi odwiedzających.
 
-- Tematem wiodącym była: przyszłość technical writingu. AI cieszyła się gorącym
+- Tematem wiodącym była _przyszłość technical writingu_. Temat AI cieszył się gorącym
   zainteresowaniem.
+
+Była to pierwsza edycja, którą można było oglądać w ramach transmisji online.
 
 ### Ile masła może kupić tech writer z Litwy?
 
@@ -397,10 +403,12 @@ technical writerów, zwłaszcza tych z Europy środkowej i wschodniej.
 
 ### Soapuszka: początek
 
-Podczas prezentacji o AI, Rafał Pawlicki przekazał Soapuszkę, czyli różowa
-poduszkę z nazwą konferencji, tajemniczej grupie o nazwie Soapuszka Crew. Przy
-okazji warto podkreślić, że Rafał jako jedyny ze speakerów odbył podróż w
-przyszłość i wrócił by o niej opowiedzieć podczas swojej prezentacji.
+Podczas prezentacji o AI,
+[Rafał Pawlicki](https://www.linkedin.com/in/rafa%C5%82-pawlicki) przekazał
+Soapuszkę, czyli różowa poduszkę z nazwą konferencji, tajemniczej grupie o
+nazwie Soapuszka Crew. Przy okazji warto podkreślić, że Rafał jako jedyny ze
+speakerów odbył podróż w przyszłość i wrócił by o niej opowiedzieć podczas
+swojej prezentacji.
 
 ![poduszka-soapuszka](./images/soapusza_mala-fad0d1204354736144ab7e68f11f6c30.gif)
 
@@ -428,7 +436,7 @@ dokumentacyjnej "Familiadzie".
 
 ![](images/2023_publika.jpg)
 
-- Temat przewodni: Content Operations.
+- Temat przewodni: _Content Operations_.
 
 Była to ostatnia odsłona konferencji jaka dotychczas miała miejsce.
 
