@@ -3,13 +3,12 @@ title: 'Czy techwriter to z definicji autor i to w dodatku bestsellerów?'
 authors: milc
 date: '2021-01-29'
 tags:
-  - 'przyklady'
+  - 'przykłady'
   - 'warsztat'
-  - 'z-przymrużeniem-oka'
   - 'dokumentacja'
-  - 'humor'
   - 'kariera'
   - 'praca'
+  - 'humor'
 coverImage: 'techwriter_autor.png'
 ---
 

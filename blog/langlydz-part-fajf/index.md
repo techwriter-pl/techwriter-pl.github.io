@@ -4,9 +4,9 @@ authors: admin
 date: '2014-02-14'
 tags:
   - 'warsztat'
-  - 'z-przymrużeniem-oka'
   - 'humor'
   - 'język'
+  - 'langłydż'
 coverImage: 'Lesson5.jpg'
 ---
 

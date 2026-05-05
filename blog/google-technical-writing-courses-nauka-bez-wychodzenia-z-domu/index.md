@@ -5,9 +5,9 @@ date: '2020-03-30'
 tags:
   - 'warsztat'
   - 'edukacja'
-  - 'materialy-szkoleniowe'
+  - 'materiały-szkoleniowe'
   - 'społeczność'
-  - 'treningi'
+  - 'szkolenia'
 coverImage: 'Add-a-subheading-1-e1585213376985.png'
 ---
 

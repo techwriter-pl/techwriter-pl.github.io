@@ -4,9 +4,9 @@ authors: admin
 date: '2014-09-26'
 tags:
   - 'warsztat'
-  - 'z-przymrużeniem-oka'
   - 'humor'
   - 'język'
+  - 'langłydż'
 coverImage: 'kontent.jpg'
 ---
 

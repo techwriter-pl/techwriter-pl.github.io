@@ -16,7 +16,7 @@ export const professionalTitlesNumbersTableProps: SurveyTableProps = {
   dataset: getNumberOfPeopleAndEarnings(
     'Który opis najbardziej pasuje do wykonywanej przez Ciebie pracy?',
     rawData,
-    'opis stanowiska'
+    'Opis stanowiska'
   ),
   title: 'Który opis najbardziej pasuje do wykonywanej przez Ciebie pracy?',
 };

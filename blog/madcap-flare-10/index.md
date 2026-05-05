@@ -6,7 +6,7 @@ tags:
   - 'narzędzia'
   - 'warsztat'
   - 'knowledge-base'
-  - 'on-line-help'
+  - 'online-help'
   - 'pomoc-użytkownika'
   - 'technologie'
   - 'urządzenia-mobilne'

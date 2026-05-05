@@ -4,9 +4,9 @@ authors: agnieszka
 date: '2015-11-25'
 tags:
   - 'warsztat'
-  - 'z-przymrużeniem-oka'
   - 'humor'
   - 'język'
+  - 'langłydż'
 coverImage: 'redkaptur.jpg'
 ---
 

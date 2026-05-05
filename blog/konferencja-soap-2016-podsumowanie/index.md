@@ -5,9 +5,13 @@ date: '2016-06-22'
 tags:
   - 'news'
   - 'z-kraju'
+  - 'edukacja'
+  - 'kariera'
   - 'konferencje'
+  - 'praca'
   - 'społeczność'
   - 'soap'
+  - 'szkolenia'
 coverImage: 'soapconf2016_techwriterpl-1.jpg'
 ---
 
@@ -20,7 +24,7 @@ nas tam zabraknąć. Poniżej nasze wrażenia. Zapraszamy!
 ### Marzenie japońskiego rybaka słodkowodnego
 
 ...czyli networking w centrum konferencyjnym [Manggha](http://manggha.pl/) na
-brzegu Wisły. Soap! co roku zaskakuje nas nową lokalizacją i w tym roku było to
+brzegu Wisły. soap! co roku zaskakuje nas nową lokalizacją i w tym roku było to
 zaskoczenie zdecydowanie pozytywne. Muzeum Sztuki i Techniki Japońskiej
 przywitało nas salą konferencyjną z prawdziwego zdarzenia, dużą przestrzenią dla
 wystawców, pięknym tarasem z widokiem na Wisłę i smacznymi przekąskami. Wcale

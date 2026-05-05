@@ -3,10 +3,10 @@ title: 'Bazy wiedzy'
 authors: admin
 date: '2013-12-18'
 tags:
-  - 'przyklady'
+  - 'przykłady'
   - 'warsztat'
   - 'knowledge-base'
-  - 'materialy-szkoleniowe'
+  - 'materiały-szkoleniowe'
   - 'praca'
   - 'społeczność'
   - 'technologie'

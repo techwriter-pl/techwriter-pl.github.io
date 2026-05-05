@@ -6,8 +6,8 @@ tags:
   - 'narzędzia'
   - 'warsztat'
   - 'kariera'
-  - 'manuale'
-  - 'on-line-help'
+  - 'pomoc-użytkownika'
+  - 'online-help'
 coverImage: 'wpid-wp-1404885704998.jpeg'
 ---
 

@@ -4,9 +4,8 @@ authors: admin
 date: '2014-11-28'
 tags:
   - 'dobre-praktyki'
-  - 'przyklady'
+  - 'przykłady'
   - 'warsztat'
-  - 'lokalizacja'
   - 'tłumaczenia'
 coverImage: 'transkreacja.jpg'
 ---

@@ -3,7 +3,7 @@ title: 'Czym zajmuje się technical writer?'
 authors: admin
 date: '2014-10-28'
 tags:
-  - 'przyklady'
+  - 'przykłady'
   - 'warsztat'
   - 'instrukcje'
   - 'pomoc-użytkownika'

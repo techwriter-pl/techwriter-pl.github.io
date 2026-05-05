@@ -152,15 +152,15 @@ export function getNumberOfPeopleAndEarnings(
 
       results.push({
         [responseLabel]: value,
-        'liczba osób': length,
-        mediana: median,
-        minimalne: minimum,
-        maksymalne: maximum,
+        'Liczba osób': length,
+        Mediana: median,
+        Minimalne: minimum,
+        Maksymalne: maximum,
       });
     }
   }
 
-  results.sort((a, b) => (a['liczba osób'] > b['liczba osób'] ? -1 : 1));
+  results.sort((a, b) => (a['Liczba osób'] > b['Liczba osób'] ? -1 : 1));
 
   return results;
 }
@@ -199,13 +199,13 @@ export function getEarningsForQuestion(
     );
     results.push({
       [question]: answer,
-      'liczba osób': length,
-      średnia: average,
-      mediana: median,
+      'Liczba osób': length,
+      Średnia: average,
+      Mediana: median,
     });
   }
 
-  results.sort((a, b) => (a['liczba osób'] > b['liczba osób'] ? -1 : 1));
+  results.sort((a, b) => (a['Liczba osób'] > b['Liczba osób'] ? -1 : 1));
 
   return results;
 }

@@ -7,7 +7,7 @@ tags:
   - 'warsztat'
   - 'ste'
   - 'dokumentacja'
-  - 'praktyki'
+  - 'dobre-praktyki'
 coverImage: 'STE.png'
 ---
 

@@ -4,11 +4,11 @@ authors: admin
 date: '2014-05-22'
 tags:
   - 'dobre-praktyki'
-  - 'przyklady'
+  - 'przykłady'
   - 'warsztat'
   - 'instrukcje'
   - 'język'
-  - 'manuale'
+  - 'pomoc-użytkownika'
   - 'praca'
 coverImage: 'StyleGuide.png'
 ---

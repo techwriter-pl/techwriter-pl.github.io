@@ -10,11 +10,11 @@ tags:
 coverImage: 'attractive_content.jpg'
 ---
 
-Z inicjatywy organizacji [Congility](http://www.congility.com/), 12
-marca odbyło się webinarium poprowadzone przez
-[Anne Caborn](http://www.inthecontentlab.com/about/), specjalistkę
-od zarządzania treścią i trenerkę. Opowiadała ona o tym co sprawia, że treść
-staje się atrakcyjna dla użytkownika i dla maszyny.
+Z inicjatywy organizacji [Congility](http://www.congility.com/), 12 marca odbyło
+się webinarium poprowadzone przez
+[Anne Caborn](http://www.inthecontentlab.com/about/), specjalistkę od
+zarządzania treścią i trenerkę. Opowiadała ona o tym co sprawia, że treść staje
+się atrakcyjna dla użytkownika i dla maszyny.
 
 <!--truncate-->
 

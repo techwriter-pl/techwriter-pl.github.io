@@ -32,7 +32,7 @@ zasługują na osobny artykuł. Poniżej przykłady mojej twórczości.
 
 ![](images/upload_0404-300x300.png)![](images/upload_0403-300x300.png)
 
-Uczestniczyłem też w warsztatach Lance'a Cummingsa w czasie konferencji SOAP
+Uczestniczyłem też w warsztatach Lance'a Cummingsa w czasie konferencji soap!
 w 2022. Narzędzia OpenAI wydały mi się intrygujące, mimo to temat zaparkowałem,
 widząc w nich raczej potencjał dla twórców treści niż dla tech writerów. Aż do
 teraz.
@@ -118,7 +118,7 @@ na bardziej ogólny poziom sztucznej inteligencji.
 
 Poniżej pomocna grafika z
 [prezentacji](https://www.youtube.com/watch?v=ug80fWghrP0) Naomi Papoushado z
-SOAP 2022:
+soap! 2022:
 
 ![](images/upload_0409-300x231.png)
 
@@ -147,7 +147,9 @@ wzorce. Po wielu iteracjach sztuczna sieć neuronowa stała się naprawdę dobra
 odgadywaniu odpowiedzi, jakich człowiek oczekuje, dzięki znajomości
 statystycznie prawdopodobnych słów, które powinny paść.
 
-### ![](images/Snag_7e3b9c.png)Czy nauczono go gramatyki?
+![](images/Snag_7e3b9c.png)
+
+### Czy nauczono go gramatyki?
 
 Model przemielił dużą ilość danych i wykrył zależności między słowami, szyk,
 zasady gramatyczne. W odróżnieniu od innych modeli, zasady gramatyczne nie
@@ -263,7 +265,9 @@ skończy się na potrzebie nauczenia się obsługiwania narzędzi AI. Trudno
 przewidzieć jak technologie się rozwiną i jakie będą tego społeczne reperkusje.
 
 Kolejny problem - mechanizm działania sztucznej inteligencji wymaga dużej ilości
-prądu, a prąd jest drogi 😊![](images/download-12-1-1024x1024.png)
+prądu, a prąd jest drogi 😊.
+
+![](images/download-12-1-1024x1024.png)
 
 ## Zastosowania
 
@@ -413,7 +417,7 @@ W najbliższych dniach ChatGPT pozostanie dla mnie ciekawostką bez wielkiego
 wpływu na moją codzienną pracę. Patrząc szerzej, spodziewam się, że rozwiązania
 AI mają potencjał usprawnić niektóre aspekty występujące wokół procesu
 dokumentacji, na razie jednak, dla mnie podstawowy proces się nie zmienia. Na
-konferencji SOAP 2022
+konferencji soap! 2022
 [Naomi Papoushado](https://www.youtube.com/watch?v=ug80fWghrP0) przedstawiła
 użycie AI do zarządzania informacjami wyławianymi z uwag zgłaszanych przez
 klientów.
@@ -551,7 +555,7 @@ do tego, co zostało stworzone tak, by stało się użyteczne.
 
 Myślę, że w świecie dokumentacji ziści się wiele przewidywań z
 [prezentacji](https://www.youtube.com/watch?v=9SDVXoFze1g) Rafała Pawlickiego z
-konferencji SOAP 2022. Silniki AI będą zaprzęgnięte na różnych etapach procesu
+konferencji soap! 2022. Silniki AI będą zaprzęgnięte na różnych etapach procesu
 dokumentacyjnego odciążając nas, budując bazę wiedzy i wspierając osoby
 przygotowujące teksty.
 

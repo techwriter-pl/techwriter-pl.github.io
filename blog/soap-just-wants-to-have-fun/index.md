@@ -1,13 +1,17 @@
 ---
-title: 'Soap! Just Wants to Have Fun'
+title: 'soap! Just Wants to Have Fun'
 authors: mojk
 date: '2014-12-09'
 tags:
   - 'news'
   - 'z-kraju'
+  - 'edukacja'
+  - 'kariera'
   - 'konferencje'
+  - 'praca'
   - 'społeczność'
   - 'soap'
+  - 'szkolenia'
   - 'articles-in-english'
 coverImage: 'soap.jpg'
 ---

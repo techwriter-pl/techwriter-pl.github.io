@@ -97,7 +97,7 @@ export default function SurveyTable({ dataset, title }: SurveyTableProps) {
           {dataToDisplay.map((row, rowIndex) => (
             <TableRow key={rowIndex}>
               {Object.values(row).map((value, cellIndex) => (
-                <TableCell key={cellIndex}>{value}</TableCell>
+                <TableCell key={cellIndex}>{value || '0'}</TableCell>
               ))}
             </TableRow>
           ))}

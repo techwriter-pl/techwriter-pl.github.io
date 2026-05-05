@@ -5,7 +5,11 @@ date: '2013-10-06'
 tags:
   - 'news'
   - 'z-kraju'
+  - 'edukacja'
+  - 'kariera'
   - 'konferencje'
+  - 'praca'
+  - 'społeczność'
   - 'soap'
 coverImage: 'relacja.jpg'
 ---
@@ -22,7 +26,7 @@ komunikacji technicznej był dużym zaskoczeniem i w tzw. „środowisku” zost
 przyjęty niezwykle pozytywnie. Ku udręce naszych koleżanek i kolegów po fachu,
 wśród dziesiątek imprez przeznaczonych dla deweloperów i testerów
 oprogramowania, techwriting przez lata pozostawał zupełnie zapomnianym obszarem.
-Całe szczęście, grupa ludzi stojąca za nazwą Soap! postanowiła wziąć sprawy w
+Całe szczęście, grupa ludzi stojąca za nazwą soap! postanowiła wziąć sprawy w
 swoje ręce i zmienić ten stan rzeczy. Jak wyszło? Nasza relacja poniżej.
 
 ### Początek

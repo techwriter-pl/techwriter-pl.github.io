@@ -11,9 +11,9 @@ tags:
 coverImage: 'soap_coffee-e1445236483405.jpg'
 ---
 
-Po ogólnym [podsumowaniu](../namydleni-po-raz-trzeci/ 'Namydleni po raz
-trzeci'index.md) tegorocznej edycji [soap!](http://soapconf.com/), przedstawiamy
-skrótowo wybrane przez nas prezentacje.
+Po ogólnym [podsumowaniu](../namydleni-po-raz-trzeci/index.md) tegorocznej
+edycji [soap!](http://soapconf.com/), przedstawiamy skrótowo wybrane przez nas
+prezentacje.
 
 <!--truncate-->
 

@@ -5,6 +5,8 @@ date: '2021-10-26'
 tags:
   - 'news'
   - 'ze-świata'
+  - 'dokumentacja'
+  - 'edukacja'
   - 'konferencje'
   - 'społeczność'
   - 'write-the-docs'
@@ -13,8 +15,7 @@ coverImage: '34495135662_d0f045f4a5_o-scaled.jpg'
 
 Na początku października odbyła się kolejna edycja dobrze już znanej konferencji
 [Write the Docs Prague](https://www.writethedocs.org/conf/prague/2021/). Nie
-mogło na niej zabraknąć przedstawicieli techwriter.pl.
-Zapraszamy na relację!
+mogło na niej zabraknąć przedstawicieli techwriter.pl. Zapraszamy na relację!
 
 <!--truncate-->
 
@@ -260,7 +261,7 @@ komediowego:
 `zagrożonych gatunków.`
 
 Odniesienie to kojarzy mi się też ze świetną prezentacją Marty Bartnickiej i
-Wojciecha Froelicha z konferencji SOAP
+Wojciecha Froelicha z konferencji soap!
 _[''Dear Mr. Robot''](https://youtu.be/Q_if0yBogUQ)_ gdzie rekwizytem były
 ręczniki, które są przecież niezbędne do międzygalaktycznych podróży stopem.
 Osoby zaintrygowane zapraszamy do zapoznania się z twórczością Douglasa Adamsa,

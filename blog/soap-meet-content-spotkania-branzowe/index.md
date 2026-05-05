@@ -9,7 +9,7 @@ tags:
   - 'kariera'
   - 'społeczność'
   - 'szkolenia'
-  - 'treningi'
+  - 'szkolenia'
 coverImage: 'soap_meet_content.png'
 ---
 

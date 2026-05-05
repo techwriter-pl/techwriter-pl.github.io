@@ -5,10 +5,9 @@ date: '2013-11-25'
 tags:
   - 'news'
   - 'warsztat'
-  - 'z-przymrużeniem-oka'
   - 'humor'
   - 'instrukcje'
-  - 'manuale'
+  - 'pomoc-użytkownika'
 coverImage: 'StarWars.jpg'
 ---
 

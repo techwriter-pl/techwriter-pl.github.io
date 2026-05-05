@@ -4,12 +4,11 @@ authors: milc
 date: '2022-02-24'
 tags:
   - 'dobre-praktyki'
-  - 'przyklady'
+  - 'przykłady'
   - 'warsztat'
   - 'dokumentacja'
   - 'knowledge-base'
   - 'praca'
-  - 'praktyki'
   - 'release-notes'
 coverImage: 'co_pisza_techwriterzy.png'
 ---

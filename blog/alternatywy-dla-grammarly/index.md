@@ -7,8 +7,8 @@ tags:
   - 'warsztat'
   - 'instrukcje'
   - 'język'
-  - 'manuale'
-  - 'on-line-help'
+  - 'pomoc-użytkownika'
+  - 'online-help'
   - 'pomoc-użytkownika'
 coverImage: 'Grammarlycccheck.png'
 ---

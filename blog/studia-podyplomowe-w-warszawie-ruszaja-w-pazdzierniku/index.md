@@ -31,8 +31,8 @@ Wśród wykładowców znane nam (i Wam pewnie też) nazwiska: Tomasz Prus, Danie
 Barrio Fierro, Marta Bartnicka. Są to osoby z wieloletnim, praktycznym stażem w
 komunikacji technicznej. Co ważne, w swoich firmach często odpowiadają za
 rekrutację nowych osób i jako liderzy swoich zespołów najlepiej wiedzą jakie są
-potrzeby rynku i jakich umiejętności potrzebują pracodawcy. A
-[ofert pracy](/oferty-pracy) wciąż jest więcej niż wykwalifikowanych chętnych.
+potrzeby rynku i jakich umiejętności potrzebują pracodawcy. A ofert pracy wciąż
+jest więcej niż wykwalifikowanych chętnych.
 
 Na liście technologicznych i merytorycznych partnerów kierunku znajdziecie
 m.in.:

@@ -9,7 +9,7 @@ tags:
   - 'edukacja'
   - 'kariera'
   - 'praca'
-  - 'praktyki'
+  - 'dobre-praktyki'
 coverImage: 'season_of_docs_2023.png'
 ---
 

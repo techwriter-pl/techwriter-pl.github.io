@@ -8,7 +8,7 @@ tags:
   - 'automatyzacja'
   - 'edukacja'
   - 'konferencje'
-  - 'lokalizacja'
+  - 'tłumaczenia'
   - 'społeczność'
   - 'szkolenia'
 coverImage: '3-e1511255859976.jpeg'

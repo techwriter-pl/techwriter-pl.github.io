@@ -15,10 +15,6 @@
     "message": "Konferencje 2024",
     "description": "Navbar item with label Konferencje 2024"
   },
-  "item.label.Oferty pracy": {
-    "message": "Oferty pracy",
-    "description": "Navbar item with label Oferty pracy"
-  },
   "item.label.Szkolenia": {
     "message": "Szkolenia",
     "description": "Navbar item with label Szkolenia"

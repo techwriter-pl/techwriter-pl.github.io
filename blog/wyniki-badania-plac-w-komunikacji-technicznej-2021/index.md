@@ -7,7 +7,6 @@ tags:
   - 'praca'
   - 'ankieta'
   - 'kariera'
-  - 'praca'
   - 'społeczność'
 coverImage: 'BADANIE_PLAC_wyniki.png'
 ---
@@ -126,8 +125,8 @@ rzadko.
 
 Tak jak w poprzednich latach, większość ankietowanych nauczyło się zawodu w
 pracy - to blisko 85% uczestników badania. Na drugim miejscu - 10,6% - to osoby,
-które ukończyły kurs i zdobyły certyfikat [ITCQF](https://itcqf.org/). Ciągle
-brakuje osób chętnych, by skorzystać ze
+które ukończyły kurs i zdobyły certyfikat ITCQF. Ciągle brakuje osób chętnych,
+by skorzystać ze
 [studiów kierunkowych](../studia-podyplomowe-z-komunikacji-technicznej/index.md).
 Według ankiety w tym roku to niespełna 9% respondentów.
 

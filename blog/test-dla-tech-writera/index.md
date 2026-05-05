@@ -3,12 +3,10 @@ title: 'Test dla nowego tech writera'
 authors: niewiarowski
 date: '2023-01-17'
 tags:
-  - 'bez-kategorii'
   - 'dobre-praktyki'
   - 'praca'
-  - 'przyklady'
+  - 'przykłady'
   - 'kariera'
-  - 'praca'
   - 'rekrutacja'
 coverImage: 'test-300x199-1.jpg'
 ---
@@ -165,8 +163,8 @@ urządzenie lub system.
 
 Ćwiczenie to można też wykonać ustnie. Pokazuje czy rozmówca ma doświadczenie
 pracy z różnymi materiałami i rozumie jak skrojone powinny być dla innych grup
-odbiorców. Jeśli brakuje Ci wiedzy w tym temacie, zapoznaj się
-z [ITCQF.org](https://itcqf.org).
+odbiorców. Jeśli brakuje Ci wiedzy w tym temacie, zapoznaj się z
+[sylabusem ITCQF](https://edu.ittraining.pl/material/Sylabus-ITCQF-Technical-Communication-Professional-Foundation-Level-en-wersja-2-0).
 
 ### Popraw błędy językowe i zwróć uwagę na problemy w instrukcji
 
@@ -179,8 +177,8 @@ mieć swoje zdanie na temat brzmienia procedury.
 
 To zadanie dobrze sprawdza doświadczenie z różnymi typami dokumentacji i
 zdolność dostosowania języka i formy zależnie od zastosowania. Jeśli
-potrzebujesz zgłębić ten temat, z zapoznaj się z materiałami proponowanego już
-wyżej [ITCQF.org](https://itcqf.org).
+potrzebujesz zgłębić ten temat, z zapoznaj się z proponowanym już wcześniej
+[sylabusem ITCQF](https://edu.ittraining.pl/material/Sylabus-ITCQF-Technical-Communication-Professional-Foundation-Level-en-wersja-2-0)).
 
 ### Stwórz instrukcję na podstawie rzutów ekranu interfejsu
 

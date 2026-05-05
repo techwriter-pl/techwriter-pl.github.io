@@ -108,7 +108,7 @@ Punkty 4. i 5. zazwyczaj powtarzamy kilka razy, zanim osiągniemy zamierzony cel
 a nasz tekst spełni wszystkie cechy dobrej dokumentacji.
 
 Zachęcamy także do zapoznania się z trzecią sekcją
-[syllabusa ITCQF](http://itcqf.org/wp-content/uploads/2015/04/ITCQF_Syllabus_v1_02Dec2014.pdf),
+[sylabusa ITCQF](https://edu.ittraining.pl/material/Sylabus-ITCQF-Technical-Communication-Professional-Foundation-Level-en-wersja-2-0),
 w której znajdziecie bardziej szczegółowe informacje na temat etapów tworzenia
 dokumentacji.
 

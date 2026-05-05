@@ -4,9 +4,9 @@ authors: admin
 date: '2013-12-03'
 tags:
   - 'warsztat'
-  - 'z-przymrużeniem-oka'
   - 'humor'
   - 'język'
+  - 'langłydż'
 coverImage: 'langlydz1.jpg'
 ---
 

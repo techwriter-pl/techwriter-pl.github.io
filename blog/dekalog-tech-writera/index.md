@@ -6,8 +6,8 @@ tags:
   - 'dobre-praktyki'
   - 'warsztat'
   - 'instrukcje'
-  - 'manuale'
-  - 'on-line-help'
+  - 'pomoc-użytkownika'
+  - 'online-help'
   - 'praca'
 coverImage: 'Homer-Simpson-commandments.jpg'
 ---

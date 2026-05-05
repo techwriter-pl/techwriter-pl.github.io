@@ -44,7 +44,7 @@ opisywany produkt czy aplikacja były dla użytkownika bezpieczne i w pełni
 użyteczne.
 
 Jednak, naszym zdaniem, najbardziej adekwatna jest definicja zaczerpnięta z
-[syllabusa do certyfikatu ITCQF](http://itcqf.org/wp-content/uploads/2020/06/ITCQF_Syllabus_v2_0Jun2020.pdf).
+[sylabusa do certyfikatu ITCQF](https://edu.ittraining.pl/material/Sylabus-ITCQF-Technical-Communication-Professional-Foundation-Level-en-wersja-2-0).
 Według niej komunikacja techniczna to zbiór wielu dyscyplin przenikających się
 wzajemnie, których celem jest efektywne przekazanie specyficznych informacji
 osobom, chcącym osiągnąć konkretny efekt swojego działania. Należą do niej:

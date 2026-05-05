@@ -4,7 +4,7 @@ authors: mojk
 date: '2016-09-01'
 tags:
   - 'dobre-praktyki'
-  - 'przyklady'
+  - 'przykłady'
   - 'warsztat'
   - 'edukacja'
   - 'kariera'

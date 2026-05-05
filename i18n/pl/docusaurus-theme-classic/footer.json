@@ -3,10 +3,6 @@
     "message": "Facebook",
     "description": "The label of footer link with label=Facebook linking to http://www.facebook.com/techwriterpl"
   },
-  "link.item.label.X.com (dawny Twitter)": {
-    "message": "X.com (dawny Twitter)",
-    "description": "The label of footer link with label=X.com (dawny Twitter) linking to http://x.com/techwriterpl"
-  },
   "link.item.label.LinkedIn": {
     "message": "LinkedIn",
     "description": "The label of footer link with label=LinkedIn linking to https://www.linkedin.com/company/techwriter-pl/"

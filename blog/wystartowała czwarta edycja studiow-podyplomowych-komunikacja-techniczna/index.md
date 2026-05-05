@@ -73,8 +73,8 @@ Polsce i na świecie. Nadal można dołączyć.
 Zajęcia trwają dwa semestry i kosztują 6800 zł. Na oba semestry organizatorzy
 przewidzieli 170 godzin wykładów i warsztatów. Każdy absolwent studiów będzie
 miał możliwość (za dodatkową opłatą wynoszącą 800 zł brutto) uzyskania
-międzynarodowego certyfikatu [ITCQF](https://itcqf.org/) (Foundation Certificate
-in Technical Communication).
+międzynarodowego certyfikatu ITCQF (Foundation Certificate in Technical
+Communication).
 
 Poniżej szczegółowe zagadnienia, które zostaną poruszone w trakcie zajęć:
 

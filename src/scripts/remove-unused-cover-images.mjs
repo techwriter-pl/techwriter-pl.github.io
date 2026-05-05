@@ -2,7 +2,7 @@ import fs from 'fs/promises';
 import path from 'path';
 
 async function findUsedCoverImages() {
-  const dirsToParse = ['./blog', './wydarzenia'];
+  const dirsToParse = ['./blog'];
   const coverImageFolder = './static/img/cover';
 
   async function findMarkdownFiles(dir) {

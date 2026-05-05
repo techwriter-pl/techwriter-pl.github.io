@@ -1,8 +1,7 @@
-import React from 'react';
+import Link from '@docusaurus/Link';
 import authors from '@site/blog/authors.yml';
 import AuthorAvatar, { AuthorProps } from '@site/src/components/AuthorAvatar';
 import styles from './AuthorList.module.css';
-import Link from '@docusaurus/Link';
 
 const polishDescriptions: { [id: string]: JSX.Element } = {
   agnieszka: (
@@ -25,7 +24,7 @@ const polishDescriptions: { [id: string]: JSX.Element } = {
       zwierząt, którą ceni szczególnie są żółwie.
     </>
   ),
-  niedzwiedzka: (
+  niedzwiecka: (
     <>
       Technical writerka, zaprzyjaźniona z branżą IT prawie od zawsze.
       Absolwentka dziennikarstwa na Uniwersytecie Warszawskim oraz studiów
@@ -36,17 +35,6 @@ const polishDescriptions: { [id: string]: JSX.Element } = {
       chwilach uczy się wielogłosowych pieśni w językach naszych wschodnich
       sąsiadów, praktykuje jogę i pielęgnuje rośliny w ogrodzie
       społecznościowym.
-    </>
-  ),
-  jkula: (
-    <>
-      Tłumaczka języka angielskiego specjalizująca się w tłumaczeniach
-      prawniczych. Od niedawna tech writerka, która postanowiła związać swoje
-      dalsze losy z branżą IT. Absolwentka studiów podyplomowych z komunikacji
-      technicznej na Akademii Finansów i Biznesu Vistula. Uwielbia czytać
-      kryminały, oglądać filmy sensacyjne, szydełkować amigurumi i… pisać. Ma w
-      planach wydać kiedyś własną powieść z wątkiem obyczajowo-kryminalnym. I
-      skoczyć ze spadochronem.
     </>
   ),
   pensjonatus: (
@@ -71,30 +59,14 @@ const polishDescriptions: { [id: string]: JSX.Element } = {
       na rowerze. Gdyby nie związał się z dokumentacją, zostałby strażakiem.
     </>
   ),
-  mrozek: (
+  magdazaczek: (
     <>
-      Technical writerka, managerka i liderka zespołu tech writerskiego. Z
-      zaangażowaniem działam na rzecz promocji roli autora technicznego w
-      organizacji, jego wyjątkowej pozycji w cyklu rozwoju produktu oraz
-      wartości jaką dodajemy do produktu, który opisujemy. Współorganizuję
-      wrocławską społeczność tech writerską w ramach cyklicznych spotkań pod
-      szyldem MeetContentWRO.
-    </>
-  ),
-  mtrojanowski: (
-    <>
-      Absolwent filologii angielskiej. Z zawodu asystent w korporacji konsultingowej.
-      Miłośnik przekazywania treści w sposób prosty, klarowny i jednoznaczny. 
-      W wolnych chwilach basista, tancerz i (okazjonalnie) snowboardzista.
-    </>
-  ),
-  sgorski: (
-    <>
-      Od ponad 20 lat żyje z pisania o technologiach (obecnie dla CHIP Polska i Magazynu Focus). 
-      W tej branży zdobywał pierwsze szlify w pisaniu poradników o sprzęcie, oprogramowaniu oraz usługach.
-      Teraz wychodzi ze swojej bańki i stawia pierwsze kroki w świecie dokumentacji technicznej. 
-      W godzinach pracy (głównie poza nimi) uzależniony od szperania po YouTubie, słuchania muzyki, podcastów i audiobooków. 
-      Rozgląda się dookoła i zagląda do wnętrza. Lubi wiedzieć co, jak i dlaczego.
+      Rozpoczęła pracę jako technical writerka w 2019 roku. Od tego czasu
+      zdobywała doświadczenie w trzech różnych firmach, tworząc dokumentację
+      techniczną. Od ponad trzech lat zajmuje się pisaniem dokumentacji dla
+      rozwiązań dostępnych na Atlassian Marketplace. W maju 2025 roku ukończyła
+      studia podyplomowe z komunikacji technicznej na Akademii Finansów i
+      Biznesu Vistula.
     </>
   ),
 };
@@ -121,7 +93,7 @@ const englishDescriptions: { [id: string]: JSX.Element } = {
       especially admires are turtles (tortoises too!!!).
     </>
   ),
-  niedzwiedzka: (
+  niedzwiecka: (
     <>
       Technical writer, a graduate of journalism at the University of Warsaw and
       technical communication at the Vistula Academy of Finance and Business.
@@ -129,16 +101,6 @@ const englishDescriptions: { [id: string]: JSX.Element } = {
       their first steps in learning JavaScript for free. In the few free time,
       she learns polyphonic songs in the languages ​​of our eastern neighbours,
       practices yoga and cultivates plants in the community garden.
-    </>
-  ),
-  jkula: (
-    <>
-      A translator from English to Polish, Justyna specializes in legal
-      translations. SHe recently became a tech writer and embarked on a journey
-      into the world of IT. SHe graduated from the post-diploma course in
-      technical communication at Vistula University. She loves detective
-      stories, action films, amigurumi (crochet), and... writing. She plans on
-      publishing a crime novel about real human feelings. And parachute.
     </>
   ),
   pensjonatus: (
@@ -162,34 +124,14 @@ const englishDescriptions: { [id: string]: JSX.Element } = {
       involved in documentation, he would have become a firefighter.
     </>
   ),
-  mrozek: (
+  magdazaczek: (
     <>
-      Monika is first and foremost a Technical Writer, at heart. She loves well
-      written content and is a fan of user centric design. She is also a
-      tireless advocate for the value that a good technical documentation adds
-      to the product. She believes that Technical Writers occupy a very unique
-      position in every organization that decides to have them: a busy
-      intersection between Developers, Product, Marketing, Support… Monika is
-      also a team manager, helping people achieve their best and to take pride
-      in what they do. She is an active technical content community member and a
-      public speaker. She co-organizes local meetups in Wrocław to help Writers
-      network, exchange ideas and inspire each other.
-    </>
-  ),
-  mtrojanowski: (
-    <>
-      BA in English Philology. Working as an assistant at a management consulting firm.
-      A fan of simple, clear and unambiguous content. 
-      In his free time a bass player, dancer and (occasionally) a snowboarder.
-    </>
-  ),
-  sgorski: (
-    <>
-      For over 20 years, he has been making a living writing about technology (currently for CHIP Polska and Focus Magazine).
-      In this industry, he earned his first stripes writing guides about hardware, software, and services.
-      Now, he's stepping out of his bubble and taking his first steps into the world of technical documentation.
-      During work hours (and mostly outside of them), he's addicted to browsing YouTube, listening to music, podcasts, and audiobooks.
-      He looks around and peers inside. He likes to know what, how, and why.
+      Magda began her career as a technical writer in 2019. Since then, she has
+      gained experience working in three different companies, creating technical
+      documentation for software apps. For over three years, she has been
+      writing documentation for apps available on the Atlassian Marketplace. In
+      May 2025, she completed postgraduate studies in technical communication at
+      the Vistula Academy of Finance and Business.
     </>
   ),
 };

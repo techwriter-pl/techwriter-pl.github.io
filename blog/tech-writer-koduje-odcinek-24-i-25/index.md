@@ -5,7 +5,7 @@ date: '2021-02-03'
 tags:
   - 'dobre-praktyki'
   - 'narzędzia'
-  - 'przyklady'
+  - 'przykłady'
   - 'warsztat'
   - 'api'
   - 'dokumentacja'

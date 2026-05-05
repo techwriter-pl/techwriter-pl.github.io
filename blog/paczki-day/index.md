@@ -4,7 +4,6 @@ authors: szablowska
 date: '2014-02-27'
 tags:
   - 'news'
-  - 'z-przymrużeniem-oka'
   - 'humor'
 coverImage: 'paczek-e1393498224922.jpg'
 ---

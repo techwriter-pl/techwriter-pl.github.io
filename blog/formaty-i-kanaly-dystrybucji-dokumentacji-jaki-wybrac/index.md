@@ -4,8 +4,7 @@ authors: milc
 date: '2022-03-16'
 tags:
   - 'dobre-praktyki'
-  - 'przyklady'
-  - 'praktyki'
+  - 'przykłady'
 coverImage: 'formaty_i_kanaly_dystrybucji_dokumentacji.png'
 ---
 

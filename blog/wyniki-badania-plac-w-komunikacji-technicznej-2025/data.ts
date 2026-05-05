@@ -1,0 +1,215 @@
+import { SurveyBarChartProps } from '@site/src/components/Survey/SurveyBarChart';
+import { SurveyPieChartProps } from '@site/src/components/Survey/SurveyPieChart';
+import { SurveyTableProps } from '@site/src/components/Survey/SurveyTable';
+import { StatsForSingleYear } from '@site/src/components/Survey/YearlyComparison/data';
+import {
+  getBarChartDataForQuestion,
+  getEarningsForQuestion,
+  getNumberOfPeopleAndEarnings,
+  getPieChartDataset,
+} from '@site/src/components/Survey/helpers';
+import rawData from './rawData.json';
+
+// At the time of creating this data set, there is not proper support for Typescript in .mdx
+// so using a .ts file helps us catch type errors
+
+export const numberOfResponses = rawData.length;
+
+export const summary2025: StatsForSingleYear = {
+  'Liczba odpowiedzi': rawData.length,
+  'Mediana wynagrodzeń brutto': rawData
+    .map((i) => i['Ile wynosi Twoje miesięczne wynagrodzenie brutto?'] ?? 0)
+    .sort((a, b) => a - b)[Math.floor(rawData.length / 2)],
+  'Średnie wynagrodzenie brutto':
+    rawData.reduce(
+      (sum, item) =>
+        sum + (item['Ile wynosi Twoje miesięczne wynagrodzenie brutto?'] ?? 0),
+      0
+    ) / rawData.length,
+  'Najniższe wynagrodzenie brutto': Math.min(
+    ...rawData.map(
+      (i) => i['Ile wynosi Twoje miesięczne wynagrodzenie brutto?'] ?? Infinity
+    )
+  ),
+  'Najwyższe wynagrodzenie brutto': Math.max(
+    ...rawData.map(
+      (i) => i['Ile wynosi Twoje miesięczne wynagrodzenie brutto?'] ?? 0
+    )
+  ),
+};
+
+export const professionalTitlesNumbersTableProps: SurveyTableProps = {
+  dataset: getNumberOfPeopleAndEarnings(
+    'Który opis najbardziej pasuje do wykonywanej przez Ciebie pracy?',
+    rawData,
+    'Opis stanowiska'
+  ),
+  title: 'Który opis najbardziej pasuje do wykonywanej przez Ciebie pracy?',
+};
+
+export const trainingBarChartDataset = getBarChartDataForQuestion(
+  'Jakie masz przygotowanie do pracy w branży?',
+  rawData,
+  true
+);
+
+export const trainingBarChartProps: SurveyBarChartProps = {
+  dataset: trainingBarChartDataset.filter((i) => i.count > 1),
+  title: 'Jakie masz przygotowanie do pracy w branży?',
+  totalNumberOfResponses: rawData.length,
+};
+
+export const itcqfTableProps: SurveyTableProps = {
+  dataset: trainingBarChartDataset.filter((i) => i.response.includes('ITCQF')),
+  title: 'Jakie masz przygotowanie do pracy w branży?',
+};
+
+export const trainingTableProps: SurveyTableProps = {
+  dataset: trainingBarChartDataset.filter((i) => i.count > 1),
+  title: 'Jakie masz przygotowanie do pracy w branży?',
+};
+
+export const experienceAndEarningsTableProps: SurveyTableProps = {
+  dataset: getEarningsForQuestion(
+    'Ile wynosi Twój staż pracy w branży komunikacji technicznej?',
+    rawData
+  ).sort((a, b) =>
+    a['Ile wynosi Twój staż pracy w branży komunikacji technicznej?'] >
+    b['Ile wynosi Twój staż pracy w branży komunikacji technicznej?']
+      ? -1
+      : 1
+  ),
+  title: 'Ile wynosi Twój staż pracy w branży komunikacji technicznej?',
+};
+
+export const satisfactionAndEarningsTableProps: SurveyTableProps = {
+  dataset: getEarningsForQuestion(
+    'Jak oceniasz zadowolenie ze swojej pracy w skali od 1 do 5?',
+    rawData
+  ),
+  title: 'Jak oceniasz zadowolenie ze swojej pracy w skali od 1 do 5?',
+};
+
+export const educationEarningsTableProps: SurveyTableProps = {
+  dataset: getEarningsForQuestion(
+    'Jakie jest Twoje główne wykształcenie?',
+    rawData
+  ),
+  title: 'Jakie jest Twoje główne wykształcenie?',
+};
+
+export const companyTypePieChartProps: SurveyPieChartProps = {
+  dataset: getPieChartDataset('W jakiego rodzaju firmie pracujesz?', rawData),
+  title: 'W jakiego rodzaju firmie pracujesz?',
+};
+
+export const companyTableProps: SurveyTableProps = {
+  dataset: getEarningsForQuestion(
+    'W jakiego rodzaju firmie pracujesz?',
+    rawData
+  ),
+  title: 'W jakiego rodzaju firmie pracujesz?',
+};
+
+export const companySizePieChartProps: SurveyPieChartProps = {
+  dataset: getPieChartDataset('Jak duża jest Twoja firma?', rawData),
+  title: 'Jak duża jest Twoja firma?',
+};
+
+export const companySizeTableProps: SurveyTableProps = {
+  dataset: getEarningsForQuestion('Jak duża jest Twoja firma?', rawData),
+  title: 'Jak duża jest Twoja firma?',
+};
+
+export const contractTypeTableProps: SurveyTableProps = {
+  dataset: getEarningsForQuestion(
+    'Jaka jest Twoja forma zatrudnienia?',
+    rawData
+  ),
+  title: 'Jaka jest Twoja forma zatrudnienia?',
+};
+
+export const taxBreakPieChartProps: SurveyPieChartProps = {
+  dataset: getPieChartDataset(
+    'Czy dla Twojego wynagrodzenia zastosowanie mają autorskie koszty uzyskania przychodu (tzw. tax break)?',
+    rawData
+  ),
+  title:
+    'Czy dla Twojego wynagrodzenia zastosowanie mają autorskie koszty uzyskania przychodu (tzw. tax break)?',
+};
+
+export const documentationTypeChartProps: SurveyTableProps = {
+  dataset: getBarChartDataForQuestion(
+    'Jakiego rodzaju dokumentację tworzysz?',
+    rawData,
+    true
+  ),
+  title: 'Jakiego rodzaju dokumentację tworzysz?',
+};
+
+export const regionEarnings: SurveyTableProps = {
+  dataset: getEarningsForQuestion(
+    'W którym województwie jest siedziba Twojej firmy?',
+    rawData
+  ),
+  title: 'W którym województwie jest siedziba Twojej firmy?',
+};
+
+export const genderEarnings: SurveyTableProps = {
+  dataset: getEarningsForQuestion('Płeć', rawData),
+  title: 'Płeć',
+};
+
+function getMedianFromGenderEarnings(gender: string): number {
+  return (
+    parseInt(
+      genderEarnings.dataset
+        .find((d) => d['Płeć'] === gender)
+        ?.Mediana.toString()
+        .replace(' zł', '')
+        .replace(/\s/g, '')
+    ) ?? 0
+  );
+}
+
+export const payGap: string = (() => {
+  const menMedian = getMedianFromGenderEarnings('Mężczyzna');
+  const womenMedian = getMedianFromGenderEarnings('Kobieta');
+
+  if (menMedian === 0 || womenMedian === 0) {
+    return 'BRAK DANYCH';
+  }
+
+  // Pay gap = [(Mediana mężczyzn - Mediana kobiet) / Mediana mężczyzn] × 100%
+  const payGapValue = ((menMedian - womenMedian) / menMedian) * 100;
+
+  return `${payGapValue.toFixed(2)}%`;
+})();
+
+export const satisfactionBarChartProps: SurveyBarChartProps = {
+  dataset: getBarChartDataForQuestion(
+    'Jak oceniasz zadowolenie ze swojej pracy w skali od 1 do 5?',
+    rawData,
+    false,
+    (a, b) => (a.response > b.response ? 1 : -1)
+  ),
+  title: 'Jak oceniasz zadowolenie ze swojej pracy w skali od 1 do 5?',
+  totalNumberOfResponses: rawData.length,
+};
+
+export const unemploymentTableProps: SurveyTableProps = {
+  dataset: getBarChartDataForQuestion(
+    'W roku 2025, przez ile miesięcy dotknęło Cię bezrobocie?',
+    rawData
+  ),
+  title: 'W roku 2025, przez ile miesięcy dotknęło Cię bezrobocie?',
+};
+
+export const earningsTrendProps: SurveyPieChartProps = {
+  dataset: getPieChartDataset(
+    'Czy w roku 2025 Twoje całkowite wynagrodzenie brutto wzrosło, zmalało, czy pozostało na tym samym poziomie?',
+    rawData
+  ),
+  title:
+    'Czy w roku 2025 Twoje całkowite wynagrodzenie brutto wzrosło, zmalało, czy pozostało na tym samym poziomie?',
+};

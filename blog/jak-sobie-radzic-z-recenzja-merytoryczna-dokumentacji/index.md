@@ -7,7 +7,7 @@ tags:
   - 'warsztat'
   - 'edukacja'
   - 'instrukcje'
-  - 'manuale'
+  - 'pomoc-użytkownika'
   - 'pomoc-użytkownika'
 coverImage: 'checklist-154274_640-e1416907820616.png'
 ---

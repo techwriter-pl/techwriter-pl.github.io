@@ -7,7 +7,6 @@ tags:
   - 'praca'
   - 'ankieta'
   - 'kariera'
-  - 'praca'
   - 'społeczność'
 coverImage: 'zobacz-sample-money-768x557.jpg'
 ---
@@ -97,7 +96,7 @@ miesięcznie brutto. Zdecydowanie jest do czego aspirować. ????
 Tak jak w poprzednich latach, większość ankietowanych nauczyło się zawodu w
 pracy. Ciągle brakuje ludzi, którzy chcieliby skorzystać z
 [kierunkowych studiów](https://www.vistula.edu.pl/kierunki-studiow/kontynuacja-edukacji/studia-podyplomowe/informatyka/komunikacja-techniczna).
-Pomału rośnie liczba osób z certyfikatem [ITCQF](http://itcqf.org/).
+Pomału rośnie liczba osób z certyfikatem ITCQF.
 
 | Przygotowanie do pracy                | Procent | Liczba osób |
 | ------------------------------------- | ------- | ----------- |

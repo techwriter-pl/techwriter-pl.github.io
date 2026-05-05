@@ -7,7 +7,6 @@ tags:
   - 'praca'
   - 'ankieta'
   - 'kariera'
-  - 'praca'
   - 'społeczność'
 coverImage: 'Badanie_plac_2022_wyniki.png'
 ---

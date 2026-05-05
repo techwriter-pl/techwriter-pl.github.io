@@ -8,6 +8,7 @@ tags:
   - 'ze-świata'
   - 'kariera'
   - 'praca'
+  - 'badanie-płac'
 coverImage: 'pieniadze.jpg'
 ---
 

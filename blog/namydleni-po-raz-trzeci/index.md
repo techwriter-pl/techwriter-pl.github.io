@@ -5,9 +5,13 @@ date: '2015-10-14'
 tags:
   - 'news'
   - 'z-kraju'
+  - 'edukacja'
+  - 'kariera'
   - 'konferencje'
+  - 'praca'
   - 'społeczność'
   - 'soap'
+  - 'szkolenia'
 coverImage: 'koszyk_soap.jpg'
 ---
 
@@ -87,7 +91,7 @@ dokładniej 10) minut w czasie których przybliżyła uczestnikom pokrótce hist
 powstania konferencji oraz jej nazwy.
 
 To właśnie nazwa powoduje, że organizatorzy otrzymują e-maile z osobliwymi
-pytaniami. Jedni chcą im sprzedać tonę mydeł, a drudzy niedowierzają, że ktoś
+pytaniami. Jedni chcą im sprzedać tonę mydeł, a drudzy nie dowierzają, że ktoś
 mógł stworzyć dwudniową konferencję poświęconą
 [SOAP](https://pl.wikipedia.org/wiki/SOAP).
 

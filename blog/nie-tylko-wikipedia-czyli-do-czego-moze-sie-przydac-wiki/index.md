@@ -3,7 +3,7 @@ title: 'Nie tylko Wikipedia, czyli do czego może się przydać wiki?'
 authors: admin
 date: '2015-01-20'
 tags:
-  - 'przyklady'
+  - 'przykłady'
   - 'warsztat'
   - 'zarządzanie-wiedzą'
 coverImage: 'wiki.jpg'

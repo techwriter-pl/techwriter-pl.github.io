@@ -13,8 +13,8 @@ coverImage: 'itcqf_logo_black-e1442054514270.jpg'
 ---
 
 W dniach 10-11 września odbyło się pierwsze szkolenie z komunikacji technicznej
-przygotowane przez organizację [ITCQF](http://itcqf.org/). Mieliśmy okazję w nim
-uczestniczyć, dlatego chcemy podzielić się z Wami naszymi wrażeniami.
+przygotowane przez organizację ITCQF. Mieliśmy okazję w nim uczestniczyć,
+dlatego chcemy podzielić się z Wami naszymi wrażeniami.
 
 <!--truncate-->
 
@@ -27,12 +27,12 @@ przeznaczone zarówno dla osób rozpoczynających swoją przygodę z tworzeniem
 dokumentacji, po to, aby ułatwić im wejście w świat tech commu, jak i dla
 doświadczonych specjalistów, którzy chcieliby usystematyzować już posiadaną
 wiedzę. Szczegółowe informacje na temat omawianych zagadnień możecie znaleźć w
-[syllabusie](http://itcqf.org/wp-content/uploads/2015/04/ITCQF_Syllabus_v1_02Dec2014.pdf)
+[sylabusie](https://edu.ittraining.pl/material/Sylabus-ITCQF-Technical-Communication-Professional-Foundation-Level-en-wersja-2-0)
 na stronie organizacji. Szkolenie trwało dwa dni i zostało zakończone egzaminem,
-który dostarczany i oceniany jest przez [gasq](http://pl.gasq.org/) (Global
-Association for Software Quality). W szkoleniu wzięło udział dwóch
-przedstawicieli redakcji techwriter.pl, z bardzo różnym "bagażem doświadczeń".
-Dlatego też, wrażenia ze szkolenia chcemy przedstawić z dwóch perspektyw:
+który dostarczany i oceniany jest przez Global Association for Software Quality.
+W szkoleniu wzięło udział dwóch przedstawicieli redakcji techwriter.pl, z bardzo
+różnym "bagażem doświadczeń". Dlatego też, wrażenia ze szkolenia chcemy
+przedstawić z dwóch perspektyw:
 
 - Osoby pracującej jako Tech Writer od prawie 4 lat (zarówno jako jedyny Tech
   Writer w firmie oraz jako członek zespołu dokumentacyjnego)
@@ -101,7 +101,7 @@ dokumentację od jakiegoś czasu, jednak nie byliście świadomi, że istnieje c
 takiego jak zawód Tech Writera i że świat dokumentacji też ma swoje reguły, to
 tym bardziej powinniście wziąć udział w szkoleniu. W przypadku dalszych
 wątpliwości najlepiej przejrzeć
-[syllabus](http://itcqf.org/wp-content/uploads/2015/04/ITCQF_Syllabus_v1_02Dec2014.pdf)
+[sylabus](https://edu.ittraining.pl/material/Sylabus-ITCQF-Technical-Communication-Professional-Foundation-Level-en-wersja-2-0)
 i samemu ocenić jaką wartość można wynieść ze szkolenia. Oczywiście pozostaje
 też kwestia tego kto płaci 😉 Dlatego tym bardziej powinniście doczytać do
 końca.

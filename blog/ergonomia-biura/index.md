@@ -16,11 +16,11 @@ zapomniany epizod, a inni zaś świadomie postawili na taki styl pracy i życia.
 Jak dostosować swój gabinet, żeby zapewnić sobie komfortową pracę zdalną i
 hybrydową?
 
+<!--truncate-->
+
 Dla mnie praca zdalna to codzienna rzeczywistość. Chętnie opowiem o tym, czego
 dowiedziałem się o biurkach elektrycznych i innych akcesoriach ułatwiających
 życie w biurze. Stoi za mną 15 lat doświadczenia pracy biurowej 😉.
-
-<!--truncate-->
 
 Mam nadzieję, że po przeczytaniu tego artykułu łatwiej zdecydujesz czy warto
 mieć biurko elektryczne i jakie powinno ono być. Będzie Ci też łatwiej wybrać
@@ -86,7 +86,7 @@ nie powinna być mniejsza niż 70 cm. Na moim biurku 80 cm na 160 cm spokojnie
 mieszczą się dwa monitory zewnętrzne i laptop.
 
 Oprócz tego, na blacie mam też miejsce na biuwar, na którym mazakami robię
-notatki i rysunki poglądowe. Jeśli interesuje Cię ten aspekt ergonomii pracy, 
+notatki i rysunki poglądowe. Jeśli interesuje Cię ten aspekt ergonomii pracy,
 zapraszam do przeczytania artykułu na Techwriter.pl o
 [robieniu notatek wizualnych](../notatki-graficzne/index.md).
 

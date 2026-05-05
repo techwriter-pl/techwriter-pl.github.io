@@ -8,7 +8,7 @@ tags:
   - 'dokumentacja'
   - 'edukacja'
   - 'instrukcje'
-  - 'manuale'
+  - 'pomoc-użytkownika'
   - 'użyteczność'
 coverImage: 'iso.png'
 ---

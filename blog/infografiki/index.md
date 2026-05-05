@@ -4,7 +4,7 @@ authors: admin
 date: '2013-11-13'
 tags:
   - 'dobre-praktyki'
-  - 'przyklady'
+  - 'przykłady'
   - 'warsztat'
   - 'grafika'
   - 'infografiki'

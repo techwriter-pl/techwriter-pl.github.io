@@ -1,0 +1,198 @@
+---
+title: 'Wyniki badania płac w komunikacji technicznej 2025'
+authors: pensjonatus
+date: '2026-02-01'
+tags:
+  - 'badanie-płac'
+  - 'praca'
+  - 'ankieta'
+  - 'kariera'
+  - 'społeczność'
+coverImage: 'badanie-plac-2025.png'
+---
+
+import SurveyBarChart from '@site/src/components/Survey/SurveyBarChart';
+import SurveyBulletedList from '@site/src/components/Survey/SurveyBulletedList';
+import SurveyPieChart from '@site/src/components/Survey/SurveyPieChart';
+import SurveyTable from '@site/src/components/Survey/SurveyTable';
+import YearlyComparisonChart from '@site/src/components/Survey/YearlyComparison/Chart';
+import ListOfQuestions from './ListOfQuestions';
+import { companySizeTableProps } from './data';
+
+Zapraszamy do zapoznania się z wynikami badania płac w komunikacji technicznej
+za rok 2025.
+
+{/* truncate */}
+
+## Porównanie z poprzednimi latami
+
+Jeśli ciekawi Was co zmieniło się od naszego pierwszego badania, sprawdźcie
+zestawienie poniżej.
+
+<YearlyComparisonChart />
+
+## O co pytaliśmy?
+
+<ListOfQuestions />
+
+## Pierwsze wnioski
+
+- W tym roku zebraliśmy aż {require('./data').numberOfResponses} odpowiedzi!
+  Trochę mniej niż w poprzednich latach, ale i tak bardzo nas cieszy, że tak
+  wiele osób jest zainteresowanych naszą ankietą. Ciekawe jaki to procent
+  wszystkich tech writerów w Polsce. 🤔
+- Zarobki nadal mają tendencję wzrostową. 💰
+
+## Profesje
+
+Podobnie jak w latach poprzednich, większość osób biorących udział w ankiecie
+identyfikuje się jako technical writer (specjalista ds. dokumentacji
+technicznej).
+
+<SurveyTable {...require('./data').professionalTitlesNumbersTableProps} />
+
+## Przygotowanie do zawodu
+
+Większość ankietowanych nauczyło się zawodu w pracy (87%).
+
+<SurveyTable {...require('./data').trainingTableProps} />
+
+Pojawiło się też kilka unikalnych odpowiedzi. Oto one:
+
+<SurveyBulletedList
+  entries={require('./data').trainingBarChartDataset.filter(
+    (item) => item.count === 1
+  )}
+/>
+
+### Doświadczenie
+
+Jak widać poniżej, doświadczenie ma dość znaczący i pozytywny wpływ na to jakie
+otrzymujemy wynagrodzenie.
+
+<SurveyTable {...require('./data').experienceAndEarningsTableProps} />
+
+### Wykształcenie
+
+Poniższa tabelka odpowiada na pytanie czy rodzaj wykształcenia wpływa na
+zarobki.
+
+<SurveyTable {...require('./data').educationEarningsTableProps} />
+
+Wygląda na to, że:
+
+- Przeważają humaniści
+- Osoby po studiach technicznych zarabiają nieco więcej niż osoby po studiach
+  humanistycznych
+
+## Firma
+
+<SurveyPieChart {...require('./data').companyTypePieChartProps} />
+
+Ogromna większość uczestników ankiety pracuje w firmie międzynarodowej, bo aż
+90%. Porównanie średniej i mediany może nie oddawać w pełni rzeczywistości ze
+względu na niską liczbę respondentów z polskich firm.
+
+<SurveyTable {...require('./data').companyTableProps} />
+
+<SurveyPieChart {...require('./data').companySizePieChartProps} />
+
+Jak pokazuje powyższy wykres, większość z nas pracuje w dużych firmach, w
+których jest ponad 1000 pracowników.
+
+Co ciekawe, nikt nie wybrał odpowiedzi "2-10 osób". Czy to oznacza, że takie
+firmy raczej nie zatrudniają tech writerów, czy bardziej to, że nasze zasięgi
+nie docierają do takiego typu organizacji? 🤔
+
+Dwie osoby wybrały odpowiedź "prywatna działalność (freelance)". W poprzednim
+roku nie było takich osób, a więc witamy freelancerów w środowisku!
+
+Jak te dane wpływają na zarobki? Oto wyniki:
+
+<SurveyTable {...require('./data').companySizeTableProps} />
+
+Wygląda na to, że najwyższa mediana należy do freelancerów. 🙌
+
+## Rodzaj umowy
+
+<SurveyTable {...require('./data').contractTypeTableProps} />
+
+W tym roku nadal najpopularniejsza jest umowa o pracę, chociaż na umowie B2B
+zarabiacie **znacznie** więcej brutto.
+
+## Tax break
+
+Czy macie możliwość rozliczania tzw.
+["autorskich kosztów uzyskania przychodu"](https://www.e-pity.pl/autorskie-koszty-uzyskania-przychodu/)?
+W tym roku 57% ankietowanych zadeklarowało, że "tak".
+
+<SurveyPieChart {...require('./data').taxBreakPieChartProps} />
+
+## Typ dokumentacji
+
+Jeśli chodzi o rodzaj tworzonej dokumentacji, to zdecydowana większość tworzy
+dokumentację do oprogramowania. W tabeli poniżej wymieniamy wszystkie Wasze
+odpowiedzi.
+
+<SurveyTable {...require('./data').documentationTypeChartProps} />
+
+## Geografia
+
+Najwięcej ankietowanych pochodzi z województw: małopolskiego, dolnośląskiego i
+mazowieckiego. Zaraz za nimi plasuje się grono osób, których firma nie ma
+siedziby w Polsce.
+
+<SurveyTable {...require('./data').regionEarnings} />
+
+## Zadowolenie
+
+Pytaliśmy też o to, jak bardzo jesteś zadowolony/a ze swojej pracy w skali od 1
+(bardzo nie lubię swojej pracy) do 5 (kocham swoją pracę). Jaki był wynik?
+
+<SurveyBarChart {...require('./data').satisfactionBarChartProps} />
+
+Odpowiedzi ankietowanych pokazują, że ich poziom zadowolenia z pracy jest nadal
+na wysokim poziomie. Najczęściej wybieraną oceną było 4. Dwie osoby dały
+ocenę 2. **Nikt** nie wybrał 1.
+
+Jako ciekawostkę, postanowiliśmy zestawić ze sobą poziom zadowolenia z
+zarobkami. Okazuje się, że im wyższa mediana zarobków, tym wyższy poziom
+zadowolenia z pracy. Czy pieniądze jednak dają szczęście? 😉
+
+<SurveyTable {...require('./data').satisfactionAndEarningsTableProps} />
+
+## Bezrobocie
+
+Zapytaliśmy czy w roku 2025 dotknęło Was bezrobocie. Niestety, część z Was
+doświadczyła tego problemu.
+
+<SurveyTable {...require('./data').unemploymentTableProps} />
+
+## Tendencje wynagrodzenia
+
+Zapytaliśmy też czy Wasze wynagrodzenie się zmieniło. Cieszymy się, że dla
+większości z Was wynagrodzenie wzrosło.
+
+<SurveyPieChart {...require('./data').earningsTrendProps} />
+
+## Płeć
+
+Mediana dla mężczyzn jest wyższa a luka płacowa (pay gap) w oparciu o medianę
+wynosi {require('./data').payGap}.
+
+<SurveyTable {...require('./data').genderEarnings} />
+
+## Podsumowanie
+
+Z uwagi na wciąż niewielką liczbę respondentów
+({require('./data').numberOfResponses} w tym roku) ankieta ma charakter
+poglądowy, a nie statystyczny. Cieszymy się, że Wasz odzew jest nadal na tyle
+duży, że warto jest przeprowadzać badanie.
+
+Raz jeszcze dziękujemy wszystkim, którzy zdecydowali się poświęcić czas na
+wypełnienie formularza. Liczymy, że w przyszłym roku zgłoszeń będzie więcej, co
+pozwoli nam opisać kolejne zmiany zachodzące w naszej branży.
+
+Mamy nadzieję, że informacje wynikające z badania są dla Was przydatne. Jeśli
+macie uwagi lub sugestie, dajcie nam znać w komentarzach, na mediach
+społecznościowych albo napiszcie do nas na kontakt@techwriter.pl.

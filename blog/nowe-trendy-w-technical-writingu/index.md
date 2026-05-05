@@ -5,7 +5,7 @@ date: '2023-06-23'
 tags:
   - 'warsztat'
   - 'dokumentacja'
-  - 'praktyki'
+  - 'dobre-praktyki'
 coverImage: 'nowe_trendy.png'
 ---
 

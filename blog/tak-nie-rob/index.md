@@ -6,7 +6,6 @@ tags:
   - 'dobre-praktyki'
   - 'warsztat'
   - 'humor'
-  - 'lokalizacja'
   - 'tłumaczenia'
   - 'użyteczność'
 coverImage: 'bad.jpg'

@@ -4,12 +4,11 @@ authors: admin
 date: '2020-03-31'
 tags:
   - 'dobre-praktyki'
-  - 'przyklady'
+  - 'przykłady'
   - 'warsztat'
   - 'e-learning'
   - 'studia'
   - 'szkolenia'
-  - 'treningi'
 coverImage: 'elearning.jpg'
 ---
 

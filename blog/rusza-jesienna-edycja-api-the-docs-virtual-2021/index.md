@@ -9,7 +9,7 @@ tags:
   - 'dokumentacja'
   - 'kariera'
   - 'praca'
-  - 'praktyki'
+  - 'dobre-praktyki'
   - 'społeczność'
 coverImage: 'api_the_docs.png'
 ---

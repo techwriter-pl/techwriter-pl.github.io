@@ -5,7 +5,7 @@ date: '2014-03-06'
 tags:
   - 'news'
   - 'warsztat'
-  - 'z-przymrużeniem-oka'
+  - 'humor'
   - 'ze-świata'
   - 'aplikacje'
   - 'instrukcje'

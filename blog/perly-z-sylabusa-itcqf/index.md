@@ -10,12 +10,12 @@ tags:
   - 'edukacja'
   - 'kariera'
   - 'literatura'
-  - 'materialy-szkoleniowe'
+  - 'materiały-szkoleniowe'
 coverImage: '2021-09-10_00-16-46-1.png'
 ---
 
 W dzisiejszym artykule znajdziecie kilka perełek pochodzących z
-[sylabusa ITCQF](https://itcqf.org/wp-content/uploads/2020/06/ITCQF_Syllabus_v2_0Jun2020.pdf)
+[sylabusa ITCQF](https://edu.ittraining.pl/material/Sylabus-ITCQF-Technical-Communication-Professional-Foundation-Level-en-wersja-2-0)
 wraz z komentarzami na ich temat. Liczę, że po ich przeczytaniu zechcecie
 sięgnąć po cały tekst źródłowy 😉.
 
@@ -33,12 +33,12 @@ wymaga dużego samozaparcia i koncentracji.
 
 Dokumentacja to zbiór tekstów o przeznaczeniu użytkowym i wiadomo, że nie czyta
 się ich dla przyjemności. Z jakim więc nastawieniem można usiąść do lektury
-opisu zakresu tematów na potrzeby [certyfikatu ITCQF](https://itcqf.org/)? Sam
-sylabus to w gruncie rzeczy "dokumentacja standardu tworzenia dokumentacji",
-opis procedur i zaleceń mających dać obraz tego czym jest komunikacja
-techniczna. Pół biedy, jeśli jesteś świeżym narybkiem w branży, ale co, jeśli
-masz już wieloletnie doświadczenie? Po co czytać opis praktyk dokumentacyjnych,
-jeśli masz już własne metody i znasz specyfikę tego fachu?
+opisu zakresu tematów na potrzeby certyfikatu ITCQF? Sam sylabus to w gruncie
+rzeczy "dokumentacja standardu tworzenia dokumentacji", opis procedur i zaleceń
+mających dać obraz tego czym jest komunikacja techniczna. Pół biedy, jeśli
+jesteś świeżym narybkiem w branży, ale co, jeśli masz już wieloletnie
+doświadczenie? Po co czytać opis praktyk dokumentacyjnych, jeśli masz już własne
+metody i znasz specyfikę tego fachu?
 
 Otóż... można się pozytywnie zaskoczyć! Lektura w wielu miejscach okazuje się
 odkrywcza i daje do myślenia. Kolejne akapity pomagają zwerbalizować kwestie,
@@ -167,7 +167,7 @@ na dany aspekt produktu, co pozytywnie wpływa na jakość.
 
 Nie są to oczywiście jedyne kwestie etyczne, które trzeba mieć na uwadze.
 Zainteresowanych dodatkowymi przemyśleniami, zapraszam do zapoznania się z
-[sylabusem ITCQF](https://itcqf.org/wp-content/uploads/2020/06/ITCQF_Syllabus_v2_0Jun2020.pdf).
+[sylabusem ITCQF](https://edu.ittraining.pl/material/Sylabus-ITCQF-Technical-Communication-Professional-Foundation-Level-en-wersja-2-0).
 Znajdziecie w nim jeszcze więcej pomocnych informacji.
 
 Osoby stawiające pierwsze kroki znajdą wyczerpujący opis wszystkich głównych

@@ -7,7 +7,7 @@ tags:
   - 'z-kraju'
   - 'kariera'
   - 'konferencje'
-  - 'lokalizacja'
+  - 'tłumaczenia'
   - 'urządzenia-mobilne'
 coverImage: 'UA_Conference.png'
 ---

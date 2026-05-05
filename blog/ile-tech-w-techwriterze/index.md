@@ -24,5 +24,5 @@ pytanie?
 Szukającym praktycznej wiedzy i pierwszych wpisów w CV nieustająco polecamy
 udział w
 [projektach open source](../open-techwriting-sposob-na-start-i-rozwoj-kariery/index.md),
-a także pouczające lektury, [szkolenia](/szkolenia/), oraz monitorowanie
-[ofert pracy](/oferty-pracy), wybieranie tych dla początkujących i aplikowanie!
+a także pouczające lektury, [szkolenia](/szkolenia/), oraz monitorowanie ofert
+pracy, wybieranie tych dla początkujących i aplikowanie!

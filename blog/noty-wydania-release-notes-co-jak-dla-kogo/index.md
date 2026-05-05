@@ -3,7 +3,7 @@ title: 'Noty wydania (Release Notes) - co, jak, dla kogo?'
 authors: mojk
 date: '2017-06-14'
 tags:
-  - 'przyklady'
+  - 'przykłady'
   - 'warsztat'
   - 'praca'
   - 'release-notes'
@@ -24,10 +24,10 @@ odmienna.
 
 ### Czym są noty wydania?
 
-Według [ITCQF](http://itcqf.org/), noty wydania są jednym z typów dokumentacji
-produktu. Ich celem jest przedstawienie użytkownikom zarysu tego co się zmieniło
-w danej wersji. Noty wydania nie opisują szczegółowo funkcji produktu tak jak,
-na przykład, podręczniki użytkownika.
+Według ITCQF, noty wydania są jednym z typów dokumentacji produktu. Ich celem
+jest przedstawienie użytkownikom zarysu tego co się zmieniło w danej wersji.
+Noty wydania nie opisują szczegółowo funkcji produktu tak jak, na przykład,
+podręczniki użytkownika.
 
 ### Komu i do czego mogą być potrzebne?
 

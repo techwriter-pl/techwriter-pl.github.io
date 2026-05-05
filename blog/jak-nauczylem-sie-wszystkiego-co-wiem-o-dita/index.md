@@ -4,7 +4,7 @@ authors: mojk
 date: '2016-01-19'
 tags:
   - 'narzędzia'
-  - 'przyklady'
+  - 'przykłady'
   - 'warsztat'
   - 'technologie'
 coverImage: 'dita-logo.png'

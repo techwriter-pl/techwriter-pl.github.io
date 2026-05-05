@@ -7,7 +7,6 @@ tags:
   - 'praca'
   - 'ankieta'
   - 'kariera'
-  - 'praca'
   - 'społeczność'
 coverImage: 'wyniki.png'
 ---

@@ -6,7 +6,6 @@ tags:
   - 'news'
   - 'ze-świata'
   - 'konferencje'
-  - 'lokalizacja'
   - 'technologie'
   - 'tłumaczenia'
 coverImage: 'technologia.png'

@@ -1,12 +1,11 @@
 ---
 title: 'Techwriter szuka pierwszej pracy'
-authors: niedzwiedzka
+authors: niedzwiecka
 date: '2021-10-22'
 tags:
   - 'praca'
   - 'edukacja'
   - 'kariera'
-  - 'praca'
   - 'studia'
   - 'szkolenia'
 coverImage: 'Untitled-design.png'
@@ -39,9 +38,9 @@ ogłoszeniom. Pierwsze falstarty rekrutacyjne zaliczyłam jeszcze wiosną,
 równolegle kończąc projekty zaliczeniowe. Szybko jednak doszłam do wniosku, że
 nie ma sensu chwytać siedmiu srok za ogon. Na spokojnie podeszłam do tematu
 pracy dopiero wczesną jesienią, kiedy w kieszeni miałam już nie tylko świadectwo
-ukończenia studiów podyplomowych, ale także certyfikat
-[ITCQF.](https://itcqf.org/) Jeszcze raz uważnie obejrzałam CV, przed nazwiskiem
-z dumą dopisałam "certified" i odpowiedziałam na pierwsze oferty.
+ukończenia studiów podyplomowych, ale także certyfikat ITCQF. Jeszcze raz
+uważnie obejrzałam CV, przed nazwiskiem z dumą dopisałam "certified" i
+odpowiedziałam na pierwsze oferty.
 
 ### Gdzie szukać ofert?
 

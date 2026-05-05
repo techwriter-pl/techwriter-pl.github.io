@@ -35,7 +35,7 @@ kształtować Twoją przyszłość zawodową w branży technologicznej. Z ponad 
 już zaangażowanych uczestników, możesz być pewien, że każda chwila spędzona na
 Code Europe będzie wartościowa i zdecydowanie nie chcesz tego przegapić!
 
-Code Europe zabłyśnie na ICE Kraków 30 czerwca - 1 lipca 2025 r. Festiwal jest
+Code Europe zabłyśnie na EXPO Kraków 30 czerwca - 1 lipca 2025 r. Festiwal jest
 dla wszystkich entuzjastów technologii, deweloperów, architektów oprogramowania,
 specjalistów DevOps, zapaleńców bezpieczeństwa, profesjonalistów ds. produktu,
 specjalistów ds. danych i pasjonatów QA, którzy chcą dzielić się wiedzą i razem

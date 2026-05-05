@@ -10,5 +10,5 @@ export const authorIds = {
   Piotr: 'piechowicz',
   Martyna: 'toporek',
   Andrzej: 'niewiarowski',
-  Magda: 'niedzwiedzka',
+  Magda: 'niedzwiecka',
 };

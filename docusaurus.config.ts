@@ -19,9 +19,13 @@ const config: Config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'techwriter-pl', // Usually your GitHub org/user name.
   projectName: 'techwriter-pl.github.io', // Usually your repo name.
-
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'throw',
+      onBrokenMarkdownImages: 'throw',
+    },
+  },
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'throw',
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -81,9 +85,7 @@ const config: Config = {
           label: 'English',
           position: 'right',
         },
-        { to: '/wydarzenia', label: 'Wydarzenia', position: 'right' },
-        { to: '/konferencje', label: 'Konferencje 2025', position: 'right' },
-        { to: '/oferty-pracy', label: 'Oferty pracy', position: 'right' },
+        { to: '/konferencje', label: 'Konferencje', position: 'right' },
         { to: '/linki', label: 'Linki', position: 'right' },
         { to: '/szkolenia', label: 'Szkolenia', position: 'right' },
         { to: '/kontakt', label: 'Kontakt', position: 'right' },
@@ -95,10 +97,6 @@ const config: Config = {
         {
           label: 'Facebook',
           href: 'http://www.facebook.com/techwriterpl',
-        },
-        {
-          label: 'X.com (dawny Twitter)',
-          href: 'http://x.com/techwriterpl',
         },
         {
           label: 'LinkedIn',
@@ -118,21 +116,7 @@ const config: Config = {
       darkTheme: prismThemes.dracula,
     },
   } satisfies Preset.ThemeConfig,
-  plugins: [
-    techWriterWebpackPlugin,
-    [
-      '@docusaurus/plugin-content-blog',
-      {
-        id: 'wydarzenia',
-        routeBasePath: 'wydarzenia',
-        path: './wydarzenia',
-        authorsMapPath: '../blog/authors.yml',
-        blogListComponent:
-          '@site/src/components/EventsBlogList/EventsBlogList.tsx',
-        blogSidebarTitle: 'Wydarzenia',
-      },
-    ],
-  ],
+  plugins: [techWriterWebpackPlugin],
   themes: ['@docusaurus/theme-live-codeblock'],
 };
 

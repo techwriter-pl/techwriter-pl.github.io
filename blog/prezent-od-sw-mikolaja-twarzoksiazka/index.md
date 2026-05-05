@@ -4,7 +4,6 @@ authors: admin
 date: '2013-12-12'
 tags:
   - 'news'
-  - 'z-przymrużeniem-oka'
   - 'humor'
   - 'społeczność'
 coverImage: 'Facebook.jpg'

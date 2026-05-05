@@ -6,7 +6,7 @@ tags:
   - 'biblioteczka-techwritera'
   - 'warsztat'
   - 'literatura'
-  - 'materialy-szkoleniowe'
+  - 'materiały-szkoleniowe'
   - 'zarządzanie-treścią'
 coverImage: 'patrick-tomasso-71909.png'
 ---

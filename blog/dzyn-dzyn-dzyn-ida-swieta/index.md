@@ -1,10 +1,9 @@
 ---
 title: 'Dzyń dzyń dzyń, idą święta'
-authors: niedzwiedzka
+authors: niedzwiecka
 date: '2021-12-22'
 tags:
   - 'news'
-  - 'z-przymrużeniem-oka'
   - 'humor'
   - 'społeczność'
 coverImage: 'Untitled-design.png'

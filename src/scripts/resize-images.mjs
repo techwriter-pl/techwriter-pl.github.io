@@ -2,14 +2,23 @@ import { __dirname, blogPath, getAllFilesRecursively } from './helpers.mjs';
 import gm from 'gm';
 import { resolve } from 'path';
 
+const targetWidth = 740;
 const im = gm.subClass({ imageMagick: '7+' });
 
 const allImagesInBlog = [];
 
 getAllFilesRecursively(blogPath, allImagesInBlog, '.png');
 getAllFilesRecursively(blogPath, allImagesInBlog, '.jpg');
-getAllFilesRecursively(resolve(__dirname, '../../static/img/cover'), allImagesInBlog, '.png');
-getAllFilesRecursively(resolve(__dirname, '../../static/img/cover'), allImagesInBlog, '.jpg');
+getAllFilesRecursively(
+  resolve(__dirname, '../../static/img/cover'),
+  allImagesInBlog,
+  '.png'
+);
+getAllFilesRecursively(
+  resolve(__dirname, '../../static/img/cover'),
+  allImagesInBlog,
+  '.jpg'
+);
 
 console.log({ allImagesInBlog }, `Found ${allImagesInBlog.length}`);
 
@@ -21,13 +30,15 @@ for (const imagePath of allImagesInBlog) {
     }
     const width = size.width;
     console.log(width, imagePath);
-    if (width > 500) {
+    if (width > targetWidth) {
       im(imagePath)
-        .resize(500, 500)
+        .resize(targetWidth)
         .write(imagePath, function (err) {
           if (!err) {
             count++;
-            console.log(`Resized ${imagePath} from ${width} to 500`);
+            console.log(
+              `Resized ${imagePath} from ${width}px to ${targetWidth}px`
+            );
           }
         });
     }

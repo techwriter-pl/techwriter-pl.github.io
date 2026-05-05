@@ -7,8 +7,8 @@ tags:
   - 'warsztat'
   - 'instrukcje'
   - 'język'
-  - 'manuale'
-  - 'on-line-help'
+  - 'pomoc-użytkownika'
+  - 'online-help'
   - 'pomoc-użytkownika'
 coverImage: 'man-29749_640.png'
 ---

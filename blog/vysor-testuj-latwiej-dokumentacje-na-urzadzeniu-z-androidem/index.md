@@ -7,6 +7,7 @@ tags:
   - 'warsztat'
   - 'aplikacje'
   - 'urządzenia-mobilne'
+  - 'zrzuty-ekranu'
 coverImage: 'vysor-e1469122845549.jpg'
 ---
 

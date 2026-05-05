@@ -1,7 +1,6 @@
-import React from 'react';
 import Link from '@docusaurus/Link';
-import styles from './Partners.module.css';
 import clsx from 'clsx';
+import styles from './Partners.module.css';
 
 type PartnerProps = {
   label: string;
@@ -9,8 +8,7 @@ type PartnerProps = {
   imageSrc: string;
 };
 
-export const contentBytesUrl =
-  'https://contentbytes.pl/';
+export const contentBytesUrl = 'https://contentbytes.pl/';
 
 const partners: PartnerProps[] = [
   {

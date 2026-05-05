@@ -6,7 +6,7 @@ tags:
   - 'narzędzia'
   - 'warsztat'
   - 'aplikacje'
-  - 'on-line-help'
+  - 'online-help'
 coverImage: 'mkdocs.png'
 ---
 

@@ -5,8 +5,8 @@ date: '2014-08-22'
 tags:
   - 'narzędzia'
   - 'warsztat'
-  - 'manuale'
-  - 'on-line-help'
+  - 'pomoc-użytkownika'
+  - 'online-help'
 coverImage: 'hm.gif'
 ---
 

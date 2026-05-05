@@ -7,7 +7,7 @@ tags:
   - 'warsztat'
   - 'kariera'
   - 'literatura'
-  - 'praktyki'
+  - 'dobre-praktyki'
 coverImage: 'Untitled-design.png'
 ---
 
@@ -60,9 +60,8 @@ dokumentacyjną, architekturą informacji, tworzeniem treści oraz angażuje si�
 projektowanie i wdrażanie narzędzi dla zespołu dokumentacyjnego. Pawła możecie
 kojarzyć z licznych występów na konferencjach i spotkaniach branżowych, takich
 jak soap!. Obecnie jest też współtwórcą podcastu "Tech Writer koduje" oraz
-członkiem zarządu [ITCQF](http://itcqf.org/), organizacji zajmującej się
-dostarczaniem programów certyfikacyjnych dla specjalistów komunikacji
-technicznej.
+członkiem zarządu ITCQF, organizacji zajmującej się dostarczaniem programów
+certyfikacyjnych dla specjalistów komunikacji technicznej.
 
 Jeśli chcecie skontaktować się z Pawłem to możecie to zrobić za pośrednictwem
 jego [profilu na LinkedIn](https://www.linkedin.com/in/pawel-kowaluk/).

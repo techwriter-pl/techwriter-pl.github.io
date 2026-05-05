@@ -22,18 +22,6 @@ const highlights: Highlight[] = [
     linkLabel: 'Lista konferencji',
   },
   {
-    title: `Oferty pracy`,
-    description: (
-      <>
-        Czasem firmy zwracają się do nas, żebyśmy umieścili ich ogłoszenia. Nie
-        bierzemy za to pieniędzy. Znajdziesz u nas te ogłoszenia, które to my
-        uważamy za godne uwagi.
-      </>
-    ),
-    linkUrl: '/oferty-pracy',
-    linkLabel: 'Aktualne oferty pracy',
-  },
-  {
     title: `Przydatne linki`,
     description: (
       <>

@@ -7,8 +7,8 @@ tags:
   - 'narzędzia'
   - 'warsztat'
   - 'dita'
-  - 'manuale'
-  - 'on-line-help'
+  - 'pomoc-użytkownika'
+  - 'online-help'
   - 'pomoc-użytkownika'
 coverImage: 'Darwin.png'
 ---

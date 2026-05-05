@@ -6,7 +6,7 @@ tags:
   - 'dobre-praktyki'
   - 'warsztat'
   - 'dokumentacja'
-  - 'praktyki'
+  - 'dobre-praktyki'
 coverImage: '15_sposobow.png'
 ---
 

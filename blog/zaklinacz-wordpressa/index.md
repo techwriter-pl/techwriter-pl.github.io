@@ -6,8 +6,8 @@ tags:
   - 'narzędzia'
   - 'warsztat'
   - 'aplikacje'
-  - 'manuale'
-  - 'on-line-help'
+  - 'pomoc-użytkownika'
+  - 'online-help'
 coverImage: 'hprlogo.png'
 ---
 

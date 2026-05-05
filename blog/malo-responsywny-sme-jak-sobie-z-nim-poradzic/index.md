@@ -6,7 +6,6 @@ tags:
   - 'dobre-praktyki'
   - 'warsztat'
   - 'praca'
-  - 'praktyki'
 coverImage: 'malo_responsywny_sme.png'
 ---
 

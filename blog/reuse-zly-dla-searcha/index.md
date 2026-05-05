@@ -9,7 +9,7 @@ tags:
 coverImage: 'kurde-reuse.png'
 ---
 
-Reuse wydaje się być Świętym Graalem technical writingu, ale w tym artykule
+Reuse wydaje się Świętym Graalem technical writingu, ale w tym artykule
 chciałbym pokazać, jak ta popularna praktyka może zepsuć wyniki wyszukiwania.
 
 <!-- truncate -->
@@ -23,7 +23,7 @@ miejscach. Stosuje się ją w programowaniu i tworzeniu treści, w tym treści
 technicznych. Technical writerzy ponownie używają bloki tekstu, artykuły, bądź
 strony.
 
-Na przykład, tworzymy dokumentację do pralek. Nasze pralki to 12 modeli, z
+Na przykład tworzymy dokumentację do pralek. Nasze pralki to 12 modeli, z
 których każdy ma od 5 do 30 funkcji. Podstawowe 5 funkcji jest dostępne w każdej
 pralce a pozostałe to misterna mozaika powtarzających się lub unikalnych funkcji
 w różnych wariantach. Dla każdego z 12 modeli musimy wydrukować książeczkę z
@@ -65,7 +65,7 @@ internecie.
 ## Jak rozwiązać ten problem?
 
 Próbowałem znaleźć jakieś przykłady opisujące ten problem. Miałem nadzieję
-znaleźć jakieś pomysły na jego rozwiązanie. Niestety, nie udało mi się. Być może
+znaleźć jakieś pomysły na jego rozwiązanie. Niestety nie udało mi się. Być może
 takie artykuły gdzieś istnieją, ale w moich wyszukiwaniach znajdowałem tylko
 reklamy narzędzi, które pomagają organizować reuse.
 
@@ -110,7 +110,7 @@ od naszych użytkowników.
 ### Single sourcing
 
 Drugi to przetwarzać mapy DITA inaczej dla druku (PDF) a inaczej do internetu
-(HTML). Dla PDFa, powtarzamy tę stronę w każdej mapie, która jej potrzebuje. Z
+(HTML). Dla PDFa powtarzamy tę stronę w każdej mapie, która jej potrzebuje. Z
 tego powstają oczywiście osobne PDFy i powtarzająca się strona nie przeszkadza
 użytkownikowi.
 
@@ -137,7 +137,7 @@ będzie w osobnej paczce zawierającej wszystkie funkcje wspólne.
 </reltable>
 ```
 
-To trochę karkołomne rozwiązanie, ale powinno zadziałać. W tym przykładzie,
+To trochę karkołomne rozwiązanie, ale powinno zadziałać. W tym przykładzie
 `topicref` kierujący do `plukanie.dita` pojawi się tylko jeśli akurat budujemy
 PDFa a nie pojawi się w HTMLu.
 
@@ -175,12 +175,12 @@ innych wersji strony o płukaniu.
 
 ![Ekran ilustrujący powyższy paragraf: każdy wynik wyszukiwania ma po spodem zwijaną sekcję z napisem "podobne wyniki" a w niej listę stron o tym samym tytule, ale innej wersji](./images/search-zwijane-sekcje.png)
 
-To rozwiązanie ma swoje słabe strony. na przykład to, że rozwijana sekcja może
+To rozwiązanie ma swoje słabe strony, na przykład to, że rozwijana sekcja może
 stać się bardzo długa i przez to mało pomocna. Jeżeli spróbujemy ją wyposażyć w
 jakieś kontrolki pozwalające wybrać model pralki, to znacznie zwiększymy jej
 poziom skomplikowania.
 
-Innym problemem jest to, że użytkownicy mogą nie zrozumieć co daje ta sekcja i
+Innym problemem jest to, że użytkownicy mogą nie zrozumieć, co daje ta sekcja i
 jak jej powinni używać. Dla nas jest oczywiste, że są w niej wymienione
 wszystkie inne instancje tej samej strony w innych modelach pralki. Ale to co
 dla nas jest oczywiste wynika z tego, ze znamy strukturę własnej dokumentacji.
