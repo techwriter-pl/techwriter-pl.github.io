@@ -376,7 +376,7 @@ Zapraszam do obejrzenia.
 
 ## Przerwa z powodu pandemii 2020-2021
 
-[](../loading.jpg)
+[](..images/loading.jpg)
 
 Podobnie jak w wielu innych obszarach życia, pandemia wszystko zmieniła i sporo
 namieszała.
