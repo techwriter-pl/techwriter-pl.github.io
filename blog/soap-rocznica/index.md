@@ -376,6 +376,8 @@ Zapraszam do obejrzenia.
 
 ## Przerwa z powodu pandemii 2020-2021
 
+[](../loading.jpg)
+
 Podobnie jak w wielu innych obszarach życia, pandemia wszystko zmieniła i sporo
 namieszała.
 
@@ -559,7 +561,7 @@ którzy go tworzyli i w nim uczestniczyli. Była to przestrzeń na spotkania lud
 rozumiejących bolączki dokumentacji, mających ochotę nauczyć się czegoś i
 jednocześnie gotowych przekazać swoją wiedzę i doświadczenia innym.
 
-Jeśli ktoś zauważy w artykule jakiś fakt do poprawki albo chciałby opowiedzieć
+Jeśli ktoś zauważy w artykule jakiś fakt do poprawki, uzupełnienia albo chciałby opowiedzieć
 swoją historię związaną z soap!, zapraszamy do kontaktu.
 
 ## Materiały dodatkowe
