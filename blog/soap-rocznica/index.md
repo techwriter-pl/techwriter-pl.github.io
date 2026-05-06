@@ -42,7 +42,7 @@ Jak wyglądała wtedy polska scena technical writingu? Nie wiadomo ilu technical
 writerów było wtedy w Polsce. Osoby wykonujące ten zawód narzekały na izolujące
 doświadczenie zawodowe i ograniczony feedback od ekspertów, z którymi pracowali.
 Nasi bohaterowie czuli potrzebę zwiększenia świadomości o branży. Brakowało
-wtedy takich kierunków na studiach, które oferowały taką wiedzę.
+wtedy kierunków na studiach, które oferowały wiedzę o komunikacji technicznej.
 
 ## Pomysł i silna grupa założycielska
 
@@ -175,10 +175,11 @@ Społeczność przyjęła soap! z entuzjazmem i pewnym zdziwieniem:
 
 ![](images/feedback.png)
 
-### Listopadowe spotkanie w Massolit Books and Cafe (Kraków)
+### Listopadowe spotkanie
 
 Widać było spory apetyt na dzielenie się wiedzą, skoro w jeszcze w listopadzie
-tamtego roku doszło do spotkania z całkiem rozbudowaną agendą.
+tamtego roku doszło do spotkania z całkiem rozbudowaną agendą w Massolit Books
+and Cafe w Krakowie.
 
 ![](images/pawel.png)
 
@@ -203,18 +204,18 @@ Zawiązała się ekipa o takim składzie:
 | [Karolina Karbarz](https://www.linkedin.com/in/karolina-karbarz)                     | Specjalistka od projektowania graficznego, lubiąca ciasta czekoladowe, koreańskie filmy i spacery z czworonogiem.                                                                              | - Strona Internetowa <br /> - Szata graficzna <br />- Grafiki                                |
 | [Piotr Milewski](https://www.linkedin.com/in/piotrmilewski) zwany Piterem            | Absolwent Wyższej Szkoły Europejskiej. Technical writer z zamiłowaniem do wspinaczki górskiej, [skitouringu](https://skitourschool.pl/co-to-jest-skitouring/) i paralotniarstwa.               | - Speakerzy i trenerzy <br />- Laptopy i ekrany <br />- Współpraca z Manggha                 |
 | [Agnieszka Tkaczyk](https://www.linkedin.com/in/agnieszka-tkaczyk-walczak-93508570/) | W tamtym czasie Agnieszka była Information Developerem, jako tłumaczka współpracowała z krakowskimi uniwersytetami. Oprócz dokumentacji interesowało ją projektowanie interfejsów użytkownika. | - Sponsorzy i partnerzy                                                                      |
-| [Iga Koprowska](https://www.linkedin.com/in/iga-koprowska)                           | Filolożka angielska i tłumaczka. Odbyła kurs technical writingowy dla studentów Uniwersytetu Jagielońskiego razem z Gosią. Wciąż pozostaje w nurcie komuniacji technicznej.                    | - Media społecznościowe <br /> - Komunikaty <br /> - Copywriting na stronę <br /> - Branding |
+| [Iga Koprowska](https://www.linkedin.com/in/iga-koprowska)                           | Filolożka angielska i tłumaczka. Odbyła kurs technical writingowy dla studentów Uniwersytetu Jagielońskiego razem z Gosią. Wciąż pozostaje w nurcie komunikacji technicznej.                   | - Media społecznościowe <br /> - Komunikaty <br /> - Copywriting na stronę <br /> - Branding |
 
 Piter i jego technologiczne centrum kontroli wszechświata:
 
 ![](images/laptopy.jpg)
 
+Źródło zdjęcia:
+[Twitter](https://x.com/em_piter/status/999946418587684864?t=fvLzHHgbrzLc-Zd1MZyWKQ&s=07).
+
 > Don't be too proud of the technological terror, you have constructed!
 
 > **Lord Vader**
-
-Źródło zdjęcia:
-[Twitter](https://x.com/em_piter/status/999946418587684864?t=fvLzHHgbrzLc-Zd1MZyWKQ&s=07).
 
 ![](images/2022_piter.jpg)
 
@@ -285,7 +286,8 @@ Konferencję poprzedzało 5 warsztatów w ramach Content Edu Summit.
 **Źródło:
 [Wikipedia](https://pl.wikipedia.org/wiki/Muzeum_Sztuki_i_Techniki_Japo%C5%84skiej_%E2%80%9EManggha%E2%80%9D).**
 
-Po raz pierwszy konferencja odbyła się w powołanym do życia przez Andrzeja Wajdę
+W 2016 po raz pierwszy konferencja odbyła się w powołanym do życia przez
+Andrzeja Wajdę
 [Muzeum Sztuki i Techniki Japońskiej Manggha](https://manggha.pl/).
 Organizatorzy szybko znaleźli wspólny język z właścicielami. Współpraca okazała
 się perspektywiczna, bo soap! powrócił do Manggha jeszcze pięć razy. Uczestnicy
@@ -304,7 +306,7 @@ Uczniowie licealni wsparli wiele edycji soap! na wiele sposobów:
 Uczniowie zawsze mieli mnóstwo pomysłów i świetnie rozwiązywali problemy.
 
 Takie zaangażowanie nie było wyjątkiem od reguły a raczej regułą, bo 31 LO
-charakteryzuje się tym, że jest tam dużo aktywności dla uczniów a pomoc przy
+charakteryzuje się tym, że jest tam dużo aktywności dla uczniów, a pomoc przy
 konferencji była jedną z nich.
 
 ## Po raz piąty: 7-9 czerwca 2017
@@ -320,7 +322,7 @@ licencje na oprogramowanie. W późniejszych edycjach organizowane były loterie
 których można było otrzymać miłe upominki.
 
 Jeśli zaś chodzi o stan samego soap!, to przywołam tu opinię
-[Jakuba Wiśniewska](https://www.linkedin.com/in/jakubmwisniewski/), który w
+[Jakuba Wiśniewskiego](https://www.linkedin.com/in/jakubmwisniewski/), który w
 swojej [relacji](../soap-2017-juz-za-nami-relacja/index.md) celnie podsumowuje
 atrakcyjność tej konferencji w tamtym czasie:
 
@@ -385,6 +387,8 @@ Zapraszam do obejrzenia.
 
 ![](images/load2.png)
 
+**Obraz stworzony w Gemini**.
+
 Podobnie jak w wielu innych obszarach życia, pandemia wszystko zmieniła i sporo
 namieszała.
 
@@ -403,7 +407,8 @@ wytworzyć przez lata. Stale byli wyczuleni na uwagi odwiedzających.
 - Tematem wiodącym była _przyszłość technical writingu_. Temat AI cieszył się
   gorącym zainteresowaniem.
 
-Znakiem czasu było to, że była to pierwsza edycja, którą można było oglądać w ramach transmisji online.
+Znakiem czasu było to, że była to pierwsza edycja, którą można było oglądać w
+ramach transmisji online.
 
 ### Ile masła może kupić tech writer z Litwy?
 
@@ -414,11 +419,10 @@ technical writerów, zwłaszcza tych z Europy środkowej i wschodniej.
 
 Podczas prezentacji o AI,
 [Rafał Pawlicki](https://www.linkedin.com/in/rafa%C5%82-pawlicki) przekazał
-Soapuszkę, czyli różowa poduszkę z nazwą konferencji, tajemniczej grupie o
-nazwie Soapuszka Crew. 
-Przy okazji warto podkreślić, że Rafał jako jedyny ze
+Soapuszkę, czyli różową poduszkę z nazwą konferencji, tajemniczej grupie o
+nazwie Soapuszka Crew. Przy okazji warto podkreślić, że Rafał jako jedyny ze
 speakerów odbył podróż w przyszłość i wrócił by o niej opowiedzieć podczas
-swojej prezentacji.
+swojego wykładu. Dziękujemy za takie poświęcenie!
 
 ![poduszka-soapuszka](./images/soapusza_mala-fad0d1204354736144ab7e68f11f6c30.gif)
 
@@ -450,9 +454,9 @@ dokumentacyjnej "Familiadzie".
 
 Była to ostatnia odsłona konferencji jaka dotychczas miała miejsce.
 
-W tej edycji Paulina Dygoń, współzałożycielka i inicjatorka pierwszej edycji, po
-raz pierwszy w historii soap! wzięła do ręki mikrofon i przedstawiła temat "Why
-a PM is like a DJ".
+Tym razem Paulina Dygoń, współzałożycielka i inicjatorka pierwszej edycji, po
+raz pierwszy w historii soap! wzięła do ręki mikrofon i przedstawiła swój temat
+"Why a PM is like a DJ".
 
 ### soap! box
 
@@ -473,20 +477,20 @@ mnie życzliwa.
 ### Panel dyskusyjny
 
 Konferencje wymagają improwizacji. Ponieważ jeden z wykładów został odwołany,
-szybko zebrało się kilka osób do panelu dyskusyjnego. Wśród tematów rozmów, były
-rekrutacje dla technical writerów, trendy w branży no i oczywiście sztuczna
-inteligencja ☺️.
+szybko zebrało się kilku ochotników do panelu dyskusyjnego. Wśród tematów rozmów
+były rekrutacje dla technical writerów, trendy w branży no i oczywiście sztuczna
+inteligencja ☺️ (jakże mogłoby być inaczej?).
 
 ### Soapuszka: ciąg dalszy
 
 Podczas tej konferencji poduszka trafiła do
 [Lanca Cummingsa](https://www.linkedin.com/in/lance-cummings-phd/).
 
-Znamy jej późniejsze losy.
+Śledziliśmy jej późniejsze losy i możemy je w tym miejscu ujawnić.
 
 Soapuszka zwiedziła kawał świata, żyła intensywnie i na krawędzi, co przypłaciła
-tym, że popruła się i rozpadła na kawałki. Ale było warto! Lepiej spalać się szybko i
-żyć w pełnym blasku i glorii!
+tym, że popruła się i rozpadła na kawałki. Ale było warto! Lepiej spalać się
+szybko i żyć w pełnym blasku i glorii!
 
 ## Fakty i liczby
 
@@ -558,7 +562,7 @@ październiku 2013. W 2023 roku całej inicjatywie stuknęło 10 lat.
 
 W październiku 2026 soap! skończy 13 lat! Gratulacje dla ekipy organizującej te
 cudowne wydarzenia i dla wszystkich jej uczestników. Warto było dzielić te
-doświadczenia, za które jesteśmy Wam niezmiernie wdzięczni.
+doświadczenia, za które jesteśmy niezmiernie wdzięczni.
 
 Jak to kiedyś określił Michał Skowron:
 
@@ -566,14 +570,18 @@ Jak to kiedyś określił Michał Skowron:
 
 > I stayed for the people!
 
-Jakkolwiek patetycznie to może zabrzmieć, soap! był wyjątkowy dzięki ludziom
+Jakkolwiek patetycznie może to zabrzmieć, soap! był wyjątkowy dzięki ludziom
 którzy go tworzyli i w nim uczestniczyli. Była to przestrzeń na spotkania ludzi
 rozumiejących bolączki dokumentacji, mających ochotę nauczyć się czegoś i
-jednocześnie gotowych przekazać swoją wiedzę i doświadczenia innym. Były to
-naprawdę niezapomniane chwile.
+jednocześnie gotowych przekazać swoją wiedzę i doświadczenia innym. Zachowujemy
+w pamięci naprawdę niezapomniane chwile. soap! zawsze kojarzyć mi się będzie z
+entuzjazmem, zaangażowaniem i niecierpliwym pałaszowaniem olbrzymich dawek
+wiedzy.
 
-Jeśli ktoś zauważy w artykule jakiś fakt do poprawki, uzupełnienia albo chciałby
-opowiedzieć swoją historię związaną z soap! to zapraszamy do kontaktu.
+Jeśli ktoś zauważy w artykule jakiś fakt do poprawki czy uzupełnienia albo
+chciałby opowiedzieć swoją historię związaną z soap! to zapraszamy do kontaktu.
+
+**SOAPERS ROCK!!!**
 
 ## Materiały dodatkowe
 
