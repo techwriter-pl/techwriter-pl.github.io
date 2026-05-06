@@ -33,7 +33,8 @@ W tym miejscu chciałem podziękować Gosi za rozmowę, podczas której streści
 historię soap! Wiele zdań w tym artykule to wierne cytaty lub parafraza słów.
 Stwierdzenia były tak celne, że po prostu nie mogłem ich nie wykorzystać. Swoją
 drogą, trudno się temu dziwić, skoro Gosia i wszystkie osoby powiązane z soap!
-to wytrawni specjaliści od komunikacji.
+to wytrawni specjaliści od komunikacji, a od nich spodziewać się można trafnych
+opisów.
 
 ## Stan branży w 2013
 
@@ -52,12 +53,13 @@ W 2013,
 samej firmie. W obrębie ich zespołu dokumentacyjnego zapadła decyzja o przejściu
 do nowego, zaawansowanego narzędzia do tworzenia dokumentacji.
 
-Gosia miała wtedy niespełna rok doświadczenia w IBM, gdzie poznawała standard
-DITA.
+Gosia miała wtedy niespełna rok doświadczenia jako technical writerka, w ramach
+którego dopiero poznawała standard DITA.
 
 ![](images/gosia_small.png)
 
-Paweł był wtedy tech writingowym narzędziowym geekiem. (I wciąż nim jest!)
+Paweł był wtedy tech writingowym narzędziowym geekiem. (I wciąż nim jest! Tu bez
+zmian!)
 
 ![](images/pawel_small.png)
 
@@ -93,7 +95,7 @@ podeszli do nowego wyzwania.
 
 ### Nazwa
 
-[](images/naglowek-conference-szary.png)
+![](images/naglowek-conference-szary.png)
 
 Skąd wzięła się nazwa "soap!"? 🧼 Mydło nawiązywało do świeżości. Podczas rozmów
 o branży narodziła się metafora baniek 🫧 zamieszkiwanych przez różnych
@@ -153,8 +155,8 @@ Udało się nawiązać współpracę z kilkoma sponsorami.
 Agnieszka Tkaczyk pełniła rolę konferansjerki i świetnie sobie poradziła mimo
 opornego projektora.
 
-Noz Urbina, którego organizatorzy słuchali podczas Congility, na soap! również
-wystąpił jako prelegent.
+Noz Urbina, którego organizatorzy słuchali podczas Congility, na soap! wystąpił
+jako prelegent.
 
 Gosia podzieliła się taką myślą, że organizując takie spotkanie można poznać
 lepiej sobie i innych. Z pewnością nie była to bułka z masłem. W takich
@@ -199,9 +201,9 @@ Zawiązała się ekipa o takim składzie:
 | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
 | [Gosia Radymiak](https://www.linkedin.com/in/malgorzata-gosia-radymiak/)             | W tamtym czasie była technical writerką i specjalistką od jakości. Interesowały ją nurkowanie, wędrówki po górach, zapiekanki i DITA.                                                          | - Project Manager, który spina wszystko w całość <br />- "Driver" projektu                   |
 | [Karolina Karbarz](https://www.linkedin.com/in/karolina-karbarz)                     | Specjalistka od projektowania graficznego, lubiąca ciasta czekoladowe, koreańskie filmy i spacery z czworonogiem.                                                                              | - Strona Internetowa <br /> - Szata graficzna <br />- Grafiki                                |
-| [Piotr Milewski](https://www.linkedin.com/in/piotrmilewski) zwany Piterem            | Absolwent Wyższej Szkoły <br />Europejskiej. Technical writer z zamiłowaniem do wspinaczki górskiej, [skitouringu](https://skitourschool.pl/co-to-jest-skitouring/) i paralotniarstwa.         | - Speakerzy i trenerzy <br />- Laptopy i ekrany <br />- Współpraca z Manggha                 |
-| [Agnieszka Tkaczyk](https://www.linkedin.com/in/agnieszka-tkaczyk-walczak-93508570/) | W tamtym czasie Agnieszka była Information Developerem, jako tłumaczka współpracowała z krakowskimi Uniwersytetami. Oprócz dokumentacji interesowało ją projektowanie interfejsów użytkownika. | - Sponsorzy i partnerzy                                                                      |
-| [Iga Koprowska](https://www.linkedin.com/in/iga-koprowska)                           | Filolożka angielska i tłumaczka. Odbyła kurs technical writingowy dla studentów Uniwersytetu Jagielońskiego razem z Gosia. Wciąż pozostaje w nurcie komuniacji technicznej.                    | - Media społecznościowe <br /> - Komunikaty <br /> - Copywriting na stronę <br /> - Branding |
+| [Piotr Milewski](https://www.linkedin.com/in/piotrmilewski) zwany Piterem            | Absolwent Wyższej Szkoły Europejskiej. Technical writer z zamiłowaniem do wspinaczki górskiej, [skitouringu](https://skitourschool.pl/co-to-jest-skitouring/) i paralotniarstwa.               | - Speakerzy i trenerzy <br />- Laptopy i ekrany <br />- Współpraca z Manggha                 |
+| [Agnieszka Tkaczyk](https://www.linkedin.com/in/agnieszka-tkaczyk-walczak-93508570/) | W tamtym czasie Agnieszka była Information Developerem, jako tłumaczka współpracowała z krakowskimi uniwersytetami. Oprócz dokumentacji interesowało ją projektowanie interfejsów użytkownika. | - Sponsorzy i partnerzy                                                                      |
+| [Iga Koprowska](https://www.linkedin.com/in/iga-koprowska)                           | Filolożka angielska i tłumaczka. Odbyła kurs technical writingowy dla studentów Uniwersytetu Jagielońskiego razem z Gosią. Wciąż pozostaje w nurcie komuniacji technicznej.                    | - Media społecznościowe <br /> - Komunikaty <br /> - Copywriting na stronę <br /> - Branding |
 
 Piter i jego technologiczne centrum kontroli wszechświata:
 
@@ -211,14 +213,14 @@ Piter i jego technologiczne centrum kontroli wszechświata:
 
 > **Lord Vader**
 
-Źródło:
+Źródło zdjęcia:
 [Twitter](https://x.com/em_piter/status/999946418587684864?t=fvLzHHgbrzLc-Zd1MZyWKQ&s=07).
 
 ![](images/2022_piter.jpg)
 
 **Piter działa podczas soap! 2022.**
 
-Grupa znana pod pseudonimem scenicznym: "Soapy Crew".
+Grupa jest znana pod pseudonimem scenicznym: "Soapy Crew".
 
 ## Po raz drugi: 2-3 października 2014
 
@@ -260,7 +262,7 @@ wysokie.
 
 Podczas wydarzenia rysowała (dostarczała graphic recording) Jadźka Rysuje o czym
 przeczytać możecie w
-[relacji](https://techwriter.pl/namydleni-po-raz-trzeci/#my-tu-gadu-gadu-a-jad%C5%BAka-rysuje)
+[relacji](https://techwriter.pl/namydleni-po-raz-trzeci/#my-tu-gadu-gadu-a-jad%C5%BAka-rysuje).
 
 Pierwszy (darmowy) dzień konferencji przyciągnął 170 uczestników, drugi (płatny)
 dzień - 80.
@@ -270,8 +272,9 @@ dzień - 80.
 ![](images/edu_summit.jpg) Nauczeni poprzednimi doświadczeniami, organizatorzy
 wybrali cieplejszy miesiąc na to wydarzenie.
 
-- Temat przewodni brzmiał: _"My" zamiast "Oni"_. Temat dotyczący pozycji technical
-  writera w zespole i podejścia do współpracy nadal nie traci na aktualności.
+- Temat przewodni brzmiał: _"My" zamiast "Oni"_. Temat dotyczący pozycji
+  technical writera w zespole i podejścia do współpracy nadal nie traci na
+  aktualności.
 
 Konferencję poprzedzało 5 warsztatów w ramach Content Edu Summit.
 
@@ -290,7 +293,7 @@ konferencji otrzymali możliwość zwiedzania muzeum.
 
 ### Wolontariusze z 31 LO w Krakowie
 
-Uczniowie licealni wspierali wiele edycji soap! na wiele sposobów:
+Uczniowie licealni wsparli wiele edycji soap! na wiele sposobów:
 
 - Pomagali w szatni
 - Drukowali co było potrzebne
@@ -300,8 +303,9 @@ Uczniowie licealni wspierali wiele edycji soap! na wiele sposobów:
 
 Uczniowie zawsze mieli mnóstwo pomysłów i świetnie rozwiązywali problemy.
 
-31 LO charakteryzuje się tym, że jest tam dużo aktywności dla uczniów i pomoc
-przy konferencji była jedną z nich.
+Takie zaangażowanie nie było wyjątkiem od reguły a raczej regułą, bo 31 LO
+charakteryzuje się tym, że jest tam dużo aktywności dla uczniów a pomoc przy
+konferencji była jedną z nich.
 
 ## Po raz piąty: 7-9 czerwca 2017
 
@@ -315,8 +319,10 @@ otrzymać kubek Techwritera, leżak soap!, a sponsorzy ofiarowali jako nagrody
 licencje na oprogramowanie. W późniejszych edycjach organizowane były loterie w
 których można było otrzymać miłe upominki.
 
-[Jakub Wiśniewski](https://www.linkedin.com/in/jakubmwisniewski/) relacjonując
-tę edycję celnie podsumowuje atrakcyjność tej konferencji w tamtym czasie:
+Jeśli zaś chodzi o stan samego soap!, to przywołam tu opinię
+[Jakuba Wiśniewska](https://www.linkedin.com/in/jakubmwisniewski/), który w
+swojej [relacji](../soap-2017-juz-za-nami-relacja/index.md) celnie podsumowuje
+atrakcyjność tej konferencji w tamtym czasie:
 
 > soap! zdecydowanie się rozwija. Konferencja, która rozpoczynała jako lokalne
 > wydarzenie, na naszych oczach przeradza się w istotny, międzynarodowy punkt na
@@ -338,7 +344,8 @@ Manggha, miejscu relaksu i dobrych rozmów. Po intensywnych prezentacjach dobrze
 było tam się przejść i odetchnąć świeżym powietrzem.
 
 Podkreślę jeden aspekt nieoficjalnej części konferencji, co Michał Skowron
-trafnie podsumował w swojej relacji z tamtej edycji:
+trafnie podsumował w swojej [relacji](../konferencja-soap-2018-relacja/) z
+tamtej edycji:
 
 > Konferencja to nie tylko mnóstwo wiedzy, to także sporo dobrej zabawy. Po
 > każdym dniu wykładów mieliśmy okazję rozluźnić się i spędzić miło czas na
@@ -353,8 +360,8 @@ trafnie podsumował w swojej relacji z tamtej edycji:
 
 - Temat przewodni: _Content as Code_.
 
-Jak w ostatnich 10 latach zmieniło się podejście do treści, czy jest traktowana
-tak jak kod?
+Jak w ostatnich latach zmieniło się podejście do treści, czy jest traktowana tak
+jak kod?
 
 Jakie są zalety i wady takiego podejścia i co ono oznacza dla różnych osób?
 
@@ -365,10 +372,10 @@ dokładnie ustalić.
 Przy tej okazji też podkreślę międzynarodowy charakter imprezy. W roku 20**19**
 konferencję odwiedziły osoby z **19** krajów.
 
-Rok wcześniej konferencji odwiedzili uczestnicy z 22 krajów, takich jak Polska,
+Rok wcześniej konferencję odwiedzili uczestnicy z 22 krajów, takich jak Polska,
 Australia, Czechy, Niemcy, Finlandia, Francja, Węgry, Izrael, Malta, Malezja,
 Ukraina, USA i Wielka Brytania, którzy reprezentowali ponad 100 firm. Podobnie
-się sytuacja miała w wielu wcześniejszych edycjach.
+sytuacja się miała w wielu wcześniejszych edycjach.
 
 Ciekawą pamiątką po tym odcinku jest
 [podsumowanie video](https://www.youtube.com/watch?v=teA3well1ek&list=PLUY0lajb-kiaIbF6clQaxTp2lwqmrDDC5).
@@ -376,12 +383,12 @@ Zapraszam do obejrzenia.
 
 ## Przerwa z powodu pandemii 2020-2021
 
-[](..images/loading.jpg)
+![](images/load2.png)
 
 Podobnie jak w wielu innych obszarach życia, pandemia wszystko zmieniła i sporo
 namieszała.
 
-W edycji z czerwca 2019 odnotowano najwyższą liczbę uczestników. Po pandemii,
+W edycji z czerwca 2019 odnotowano największą liczbę uczestników. Po pandemii,
 sytuacja wyglądała inaczej. Ludzie stali się mniej skłonni do podróży. Trudniej
 też było znaleźć sponsorów.
 
@@ -393,10 +400,10 @@ Przyszedł czas na wznowienie soap!. Powrót po przerwie należał do trudnych.
 Ekipie zależało na tym, by zrewidować dobre i złe praktyki, które zdążyły się
 wytworzyć przez lata. Stale byli wyczuleni na uwagi odwiedzających.
 
-- Tematem wiodącym była _przyszłość technical writingu_. Temat AI cieszył się gorącym
-  zainteresowaniem.
+- Tematem wiodącym była _przyszłość technical writingu_. Temat AI cieszył się
+  gorącym zainteresowaniem.
 
-Była to pierwsza edycja, którą można było oglądać w ramach transmisji online.
+Znakiem czasu było to, że była to pierwsza edycja, którą można było oglądać w ramach transmisji online.
 
 ### Ile masła może kupić tech writer z Litwy?
 
@@ -408,7 +415,8 @@ technical writerów, zwłaszcza tych z Europy środkowej i wschodniej.
 Podczas prezentacji o AI,
 [Rafał Pawlicki](https://www.linkedin.com/in/rafa%C5%82-pawlicki) przekazał
 Soapuszkę, czyli różowa poduszkę z nazwą konferencji, tajemniczej grupie o
-nazwie Soapuszka Crew. Przy okazji warto podkreślić, że Rafał jako jedyny ze
+nazwie Soapuszka Crew. 
+Przy okazji warto podkreślić, że Rafał jako jedyny ze
 speakerów odbył podróż w przyszłość i wrócił by o niej opowiedzieć podczas
 swojej prezentacji.
 
@@ -446,15 +454,6 @@ W tej edycji Paulina Dygoń, współzałożycielka i inicjatorka pierwszej edycj
 raz pierwszy w historii soap! wzięła do ręki mikrofon i przedstawiła temat "Why
 a PM is like a DJ".
 
-### Soapuszka: ciąg dalszy
-
-Podczas soap! poduszka trafiła do
-[Lanca Cummingsa](https://www.linkedin.com/in/lance-cummings-phd/).
-
-Soapuszka zwiedziła kawał świata, żyła intensywnie i na krawędzi, co przypłaciła
-tym, że popruła się i rozpadła na kawałki. Ale było warto! Lepiej spalać się i
-żyć w pełnym blasku i glorii!
-
 ### soap! box
 
 Podczas tamtej edycji organizatorzy wprowadzili soap! box, czyli drewnianą
@@ -478,6 +477,17 @@ szybko zebrało się kilka osób do panelu dyskusyjnego. Wśród tematów rozmó
 rekrutacje dla technical writerów, trendy w branży no i oczywiście sztuczna
 inteligencja ☺️.
 
+### Soapuszka: ciąg dalszy
+
+Podczas tej konferencji poduszka trafiła do
+[Lanca Cummingsa](https://www.linkedin.com/in/lance-cummings-phd/).
+
+Znamy jej późniejsze losy.
+
+Soapuszka zwiedziła kawał świata, żyła intensywnie i na krawędzi, co przypłaciła
+tym, że popruła się i rozpadła na kawałki. Ale było warto! Lepiej spalać się szybko i
+żyć w pełnym blasku i glorii!
+
 ## Fakty i liczby
 
 Tutaj gratka dla miłośników tabelek z danymi. Te liczby też opowiadają historię!
@@ -486,17 +496,17 @@ Pomagają prześledzić jak rozwijały się te wydarzenia.
 To szeroka tabela, więc możliwe, że zrobisz użytek z poziomego paska do
 przewijania u dołu.
 
-| Rok  | Miejsce                                           | Temat                         | Ile dni? | Warsztaty                | Speakerzy | Ilu słuchaczy? | Konferansjerka | Online? |
-| ---- | ------------------------------------------------- | ----------------------------- | -------- | ------------------------ | --------- | -------------- | -------------- | ------- |
-| 2013 | Wyższa Szkoła Europejska im. ks. Józefa Tischnera |                               | 1        | Nie                      |           | 120            |                | Nie     |
-| 2014 | hub:raum                                          | a clean; start;               | 2        | 3 warsztaty              | 25        | 142, 98        | Paweł          | Nie     |
-| 2015 | Wiem, ale nie powiem!                             |                               | 3        | Nie                      | 17        | 170, 80        |                |         |
-| 2016 | Manggha                                           | "My" zamiast "Oni"            | 3        | 5 warsztatów             | 17        | 220, 125       |                |         |
-| 2017 | Manggha                                           | Rozwiązywanie problemów       | 3        | Tak                      |           |                |                |         |
-| 2018 | Manggha                                           | Innowacja kontra prostota     | 3        | 10 warsztatów            | 23        |                | Gosia          | Nie     |
-| 2019 | Manggha                                           | Content as Code               | 3        | 6 warsztatów dla 60 osób |           | 200+           | Gosia          | Nie     |
-| 2022 | Manggha                                           | Przyszłość technical writingu | 3        | Tak                      | 21        |                | Aga            | Tak     |
-| 2023 | Manggha                                           | Content Operations            | 3        | Tak                      |           |                | Gosia          | Tak     |
+| Rok  | Miejsce                                           | Temat                         | Ile dni? | Warsztaty                | Speakerzy | Ilu słuchaczy? | Konferansjerka | Opcja online? |
+| ---- | ------------------------------------------------- | ----------------------------- | -------- | ------------------------ | --------- | -------------- | -------------- | ------------- |
+| 2013 | Wyższa Szkoła Europejska im. ks. Józefa Tischnera |                               | 1        | Nie                      |           | 120            |                | Nie           |
+| 2014 | hub:raum                                          | a clean; start;               | 2        | 3 warsztaty              | 25        | 142, 98        | Paweł          | Nie           |
+| 2015 | Wiem, ale nie powiem!                             |                               | 3        | Nie                      | 17        | 170, 80        |                | Nie           |
+| 2016 | Manggha                                           | "My" zamiast "Oni"            | 3        | 5 warsztatów             | 17        | 220, 125       |                | Nie           |
+| 2017 | Manggha                                           | Rozwiązywanie problemów       | 3        |                          |           |                |                | Nie           |
+| 2018 | Manggha                                           | Innowacja kontra prostota     | 3        | 10 warsztatów            | 23        |                | Gosia          | Nie           |
+| 2019 | Manggha                                           | Content as Code               | 3        | 6 warsztatów dla 60 osób |           | 200+           | Gosia          | Nie           |
+| 2022 | Manggha                                           | Przyszłość technical writingu | 3        | Tak                      | 21        |                | Agnieszka      | Tak           |
+| 2023 | Manggha                                           | Content Operations            | 3        | Tak                      |           |                | Gosia          | Tak           |
 
 ## Wpływ soap! na środowisko skupione wokół komunikacji technicznej
 
@@ -559,10 +569,11 @@ Jak to kiedyś określił Michał Skowron:
 Jakkolwiek patetycznie to może zabrzmieć, soap! był wyjątkowy dzięki ludziom
 którzy go tworzyli i w nim uczestniczyli. Była to przestrzeń na spotkania ludzi
 rozumiejących bolączki dokumentacji, mających ochotę nauczyć się czegoś i
-jednocześnie gotowych przekazać swoją wiedzę i doświadczenia innym.
+jednocześnie gotowych przekazać swoją wiedzę i doświadczenia innym. Były to
+naprawdę niezapomniane chwile.
 
-Jeśli ktoś zauważy w artykule jakiś fakt do poprawki, uzupełnienia albo chciałby opowiedzieć
-swoją historię związaną z soap!, zapraszamy do kontaktu.
+Jeśli ktoś zauważy w artykule jakiś fakt do poprawki, uzupełnienia albo chciałby
+opowiedzieć swoją historię związaną z soap! to zapraszamy do kontaktu.
 
 ## Materiały dodatkowe
 
