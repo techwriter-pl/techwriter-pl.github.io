@@ -1,5 +1,5 @@
 ---
-title: '13 rocznica konferencji soap!'
+title: 'Śladami soap! Dziesięć lat inspiracji.'
 authors: niewiarowski
 date: '2026-05-20'
 tags:
@@ -12,7 +12,7 @@ coverImage: 'soap_title.jpg'
 Konferencje soap! zajmują szczególne miejsce w sercach osób żyjących komunikacją
 techniczną. Na Techwriterze z dumą zamieściliśmy relacje z każdej z nich. Były
 to wydarzenia, które wpłynęły na zawiązanie się społeczności i przyczyniły się
-do przyspieszenia jej rozwoju. Z jubileuszowego artykułu dowiesz się:
+do przyspieszenia jej rozwoju. Z artykułu dowiesz się:
 
 - Skąd wział się pomysł na tę konferencję?
 - O co chodzi z tym różowym mydłem?
@@ -30,11 +30,11 @@ przemyśleń. soap! wyróżniała też niezwykle przyjazna atmosfera tworzona pr
 organizatorów i uczestników.
 
 W tym miejscu chciałem podziękować Gosi za rozmowę, podczas której streściła mi
-historię soap! Wiele zdań w tym artykule to wierne cytaty lub parafraza jej słów.
-Stwierdzenia były tak celne, że po prostu nie mogłem ich nie wykorzystać. Swoją
-drogą, trudno się temu dziwić, skoro Gosia i wszystkie osoby powiązane z soap!
-to wytrawni specjaliści od komunikacji, a od nich spodziewać się można trafnych
-opisów.
+historię soap! Wiele zdań w tym artykule to wierne cytaty lub parafraza jej
+słów. Stwierdzenia były tak celne, że po prostu nie mogłem ich nie wykorzystać.
+Swoją drogą, trudno się temu dziwić, skoro Gosia i wszystkie osoby powiązane z
+soap! to wytrawni specjaliści od komunikacji, a od nich spodziewać się można
+trafnych opisów.
 
 ## Stan branży w 2013
 
@@ -158,10 +158,9 @@ opornego projektora.
 Noz Urbina, którego organizatorzy słuchali podczas Congility, na soap! wystąpił
 jako prelegent.
 
-Gosia podzieliła się myślą, że organizując takie spotkanie można poznać
-lepiej sobie i innych. Z pewnością nie była to bułka z masłem. W takich
-wymagających momentach można zobaczyć hart ducha, pomysłowość i gotowość do
-poświęceń.
+Gosia podzieliła się myślą, że organizując takie spotkanie można poznać lepiej
+sobie i innych. Z pewnością nie była to bułka z masłem. W takich wymagających
+momentach można zobaczyć hart ducha, pomysłowość i gotowość do poświęceń.
 
 ![](images/converstations.jpg)
 
@@ -387,7 +386,7 @@ Zapraszam do obejrzenia.
 
 ![](images/load2.png)
 
-**Obraz stworzony w Gemini**.
+**Stworzone w Gemini**.
 
 Podobnie jak w wielu innych obszarach życia, pandemia wszystko zmieniła i sporo
 namieszała.
@@ -540,7 +539,7 @@ Stało się jasne, że soap! raz w roku to było za mało, a apetyt na wiedzę i
 spotkania stale rósł. Zaczęło się rozkręcanie meetupów o nazwie Meet Content. W
 Brnie w Czechach odbyły się trzy meetupy.
 
-Z tego co udało nam się ustalić, w Hiszpanii odbył się Meet Content Iberia. 
+Z tego co udało nam się ustalić, w Hiszpanii odbył się Meet Content Iberia.
 
 Meet Content nadal działa we Wrocławiu. Oddział Meet Content krakowski przestał
 być aktywny.
@@ -563,11 +562,12 @@ odpowiada.
 ## Rocznica
 
 ![](images/2023_soapy_crew.jpg) Pierwsza edycja soap! odbyła się w
-październiku 2013. W 2023 roku całej inicjatywie stuknęło 10 lat.
+październiku 2013. W 2023 roku od pierwszej edycji minęło 10 lat, a w
+październiku 2026 minie 13.
 
-W październiku 2026 soap! skończy 13 lat! Gratulacje dla ekipy organizującej te
-cudowne wydarzenia i dla wszystkich jej uczestników. Warto było dzielić te
-doświadczenia, za które jesteśmy niezmiernie wdzięczni.
+Podziękowania dla ekipy organizującej te cudowne wydarzenia i dla wszystkich jej
+uczestników. Warto było dzielić te doświadczenia, za które jesteśmy niezmiernie
+wdzięczni.
 
 Jak to kiedyś określił Michał Skowron:
 
