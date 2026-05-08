@@ -30,7 +30,7 @@ przemyśleń. soap! wyróżniała też niezwykle przyjazna atmosfera tworzona pr
 organizatorów i uczestników.
 
 W tym miejscu chciałem podziękować Gosi za rozmowę, podczas której streściła mi
-historię soap! Wiele zdań w tym artykule to wierne cytaty lub parafraza słów.
+historię soap! Wiele zdań w tym artykule to wierne cytaty lub parafraza jej słów.
 Stwierdzenia były tak celne, że po prostu nie mogłem ich nie wykorzystać. Swoją
 drogą, trudno się temu dziwić, skoro Gosia i wszystkie osoby powiązane z soap!
 to wytrawni specjaliści od komunikacji, a od nich spodziewać się można trafnych
@@ -74,7 +74,7 @@ i wyzwań technicznych. Razem doszli do wniosku:
 > Niemożliwe, żebyśmy jako jedyni spotkalismy sie z tymi problemami, ktoś już
 > wcześniej musiał to rozgryźć.
 
-Z tego powodu właśnie pojechali w trójkę do Londynu na trzydniową konferencję
+Z tego powodu właśnie pojechali we trójkę do Londynu na trzydniową konferencję
 [Congility](https://www.ditawriter.com/interview-with-noz-urbina-about-the-upcoming-congility-conference/),
 na której prelegentem był [Noz Urbina](https://www.linkedin.com/in/nozurbina/).
 
@@ -158,9 +158,9 @@ opornego projektora.
 Noz Urbina, którego organizatorzy słuchali podczas Congility, na soap! wystąpił
 jako prelegent.
 
-Gosia podzieliła się taką myślą, że organizując takie spotkanie można poznać
+Gosia podzieliła się myślą, że organizując takie spotkanie można poznać
 lepiej sobie i innych. Z pewnością nie była to bułka z masłem. W takich
-wymagających momentach można zobaczyć hart ducha, pomysłowość i zdolność do
+wymagających momentach można zobaczyć hart ducha, pomysłowość i gotowość do
 poświęceń.
 
 ![](images/converstations.jpg)
@@ -177,7 +177,7 @@ Społeczność przyjęła soap! z entuzjazmem i pewnym zdziwieniem:
 
 ### Listopadowe spotkanie
 
-Widać było spory apetyt na dzielenie się wiedzą, skoro w jeszcze w listopadzie
+Widać było spory apetyt na dzielenie się wiedzą, skoro jeszcze w listopadzie
 tamtego roku doszło do spotkania z całkiem rozbudowaną agendą w Massolit Books
 and Cafe w Krakowie.
 
@@ -190,9 +190,9 @@ Oryginalny podpis z ówczesnej strony soap!:
 ### Ważne decyzje
 
 Planowanie po pracy i czas wolny wypełniony organizacją konferencji to duże
-poświęcenie. Paulina i Paweł czuli się tym zmeczeni i postanowili zrezygnować.
+poświęcenie. Paulina i Paweł czuli się tym zmęczeni i postanowili zrezygnować.
 
-Gosia wybrała kontynuować tę inicjatywę.
+Gosia kontynuowała tę inicjatywę.
 
 ### Zespół od czasu drugiej edycji
 
@@ -493,7 +493,7 @@ Podczas tej konferencji poduszka trafiła do
 
 Soapuszka zwiedziła kawał świata, żyła intensywnie i na krawędzi, co przypłaciła
 tym, że popruła się i rozpadła na kawałki. Ale było warto! Lepiej spalać się
-szybko i żyć w pełnym blasku i glorii!
+szybko i żyć w pełnym blasku i chwale!
 
 ## Fakty i liczby
 
@@ -539,6 +539,8 @@ Facebooku liczy 1300 osób.
 Stało się jasne, że soap! raz w roku to było za mało, a apetyt na wiedzę i
 spotkania stale rósł. Zaczęło się rozkręcanie meetupów o nazwie Meet Content. W
 Brnie w Czechach odbyły się trzy meetupy.
+
+Z tego co udało nam się ustalić, w Hiszpanii odbył się Meet Content Iberia. 
 
 Meet Content nadal działa we Wrocławiu. Oddział Meet Content krakowski przestał
 być aktywny.
