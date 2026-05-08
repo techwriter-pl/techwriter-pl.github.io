@@ -562,10 +562,10 @@ odpowiada.
 ## Rocznica
 
 ![](images/2023_soapy_crew.jpg) Pierwsza edycja soap! odbyła się w
-październiku 2013. W 2023 roku od pierwszej edycji minęło 10 lat, a w
-październiku 2026 minie 13.
+październiku 2013. W 2023 roku od pierwszej edycji minęło 10 lat, a momencie
+pisania tego artykułu - 12.
 
-Podziękowania dla ekipy organizującej te cudowne wydarzenia i dla wszystkich jej
+Serdecznie dziękujemy ekipie organizującej te cudowne wydarzenia i dla wszystkich jej
 uczestników. Warto było dzielić te doświadczenia, za które jesteśmy niezmiernie
 wdzięczni.
 
