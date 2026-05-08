@@ -210,12 +210,12 @@ Piter i jego technologiczne centrum kontroli wszechświata:
 
 ![](images/laptopy.jpg)
 
-Źródło zdjęcia:
-[Twitter](https://x.com/em_piter/status/999946418587684864?t=fvLzHHgbrzLc-Zd1MZyWKQ&s=07).
-
 > Don't be too proud of the technological terror, you have constructed!
 
 > **Lord Vader**
+
+Źródło powyższego zdjęcia:
+[Twitter](https://x.com/em_piter/status/999946418587684864?t=fvLzHHgbrzLc-Zd1MZyWKQ&s=07).
 
 ![](images/2022_piter.jpg)
 
@@ -392,9 +392,12 @@ Zapraszam do obejrzenia.
 Podobnie jak w wielu innych obszarach życia, pandemia wszystko zmieniła i sporo
 namieszała.
 
-W edycji z czerwca 2019 odnotowano największą liczbę uczestników. Po pandemii,
-sytuacja wyglądała inaczej. Ludzie stali się mniej skłonni do podróży. Trudniej
-też było znaleźć sponsorów.
+W edycji z czerwca 2019 odnotowano największą liczbę uczestników.
+
+Przez dwa lata soap! się nie odbywał.
+
+Tuż po zakończeniu się pandemii, krajobraz konferencyjny wyglądał inaczej.
+Ludzie stali się mniej skłonni do podróży. Trudniej też było znaleźć sponsorów.
 
 ## Po raz ósmy: 1-3 czerwca 2022
 
@@ -585,22 +588,17 @@ chciałby opowiedzieć swoją historię związaną z soap! to zapraszamy do kont
 
 ## Materiały dodatkowe
 
-### Albumy zdjęć
-
-Większość zdjęć w artykule pochodzi ze strony Facebook
-[soap technical communication](https://www.facebook.com/soapconf/photos_albums).
-Zapraszam do obejrzenia tej "wizualnej dokumentacji".
-
 ### Relacje na Techwriterze
 
 [Tag](https://techwriter.pl/tags/soap) z listą wszystkich relacji z
 [soap!](https://techwriter.pl/tags/soap), gdzie możecie zapoznać się z relacjami
 pisanymi szczegółowo i ze swadą.
 
-### soap! oczami innych uczestników
+### Albumy zdjęć
 
-- [TechWhirl - Conference Review: soap! Offers a Clean Start in Poland 2014?](https://techwhirl.com/conference-review-soap-offers-clean-start-poland/)
-- [Cynthia Peter's Review of 2023 soap!](https://medium.com/postcards-by-fancy-nomads/attending-soap-conference-in-krakow-poland-ac7e4c98eb13)
+Większość zdjęć w artykule pochodzi ze strony Facebook
+[soap technical communication](https://www.facebook.com/soapconf/photos_albums).
+Zapraszam do obejrzenia tej "wizualnej dokumentacji".
 
 ### Nagrane prezentacje
 
@@ -608,3 +606,8 @@ Na kanale YouTube znajdziecie
 [nagrania](https://www.youtube.com/@SoapconfPage/playlists) z niektórych edycji.
 Mimo upływu lat, warto do nich wrócić, w dokumentacji sporo tematów nie traci na
 aktualności.
+
+### soap! oczami innych uczestników
+
+- [TechWhirl - Conference Review: soap! Offers a Clean Start in Poland 2014?](https://techwhirl.com/conference-review-soap-offers-clean-start-poland/)
+- [Cynthia Peter's Review of 2023 soap!](https://medium.com/postcards-by-fancy-nomads/attending-soap-conference-in-krakow-poland-ac7e4c98eb13)
