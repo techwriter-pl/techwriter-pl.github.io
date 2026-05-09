@@ -56,17 +56,17 @@ do nowego, zaawansowanego narzędzia do tworzenia dokumentacji.
 Gosia miała wtedy niespełna rok doświadczenia jako technical writerka, w ramach
 którego dopiero poznawała standard DITA.
 
-![](images/gosia_small.png)
+![Zdjęcie Gosi inicjatorki](images/gosia_small.png)
 
 Paweł był wtedy tech writingowym narzędziowym geekiem. (I wciąż nim jest! Tu bez
 zmian!)
 
-![](images/pawel_small.png)
+![Zdjęcie Pawła inicjatora](images/pawel_small.png)
 
 Paulina w tamtym czasie była technical writerką, ewangelistką DITY i liderką
 jakości.
 
-![](images/paulina_small.png)
+![Zdjęcie Pauliny inicjatorki](images/paulina_small.png)
 
 Członkowie zespołu mieli dużo pytań na temat nowego narzędzia, migracji do niego
 i wyzwań technicznych. Razem doszli do wniosku:
@@ -95,7 +95,7 @@ podeszli do nowego wyzwania.
 
 ### Nazwa
 
-![](images/naglowek-conference-szary.png)
+![Historyczne logo Soap z nazwą konferencji](images/naglowek-conference-szary.png)
 
 Skąd wzięła się nazwa "soap!"? 🧼 Mydło nawiązywało do świeżości. Podczas rozmów
 o branży narodziła się metafora baniek 🫧 zamieszkiwanych przez różnych
@@ -144,8 +144,8 @@ międzynarodowe wydarzenie.
 
 ## Pierwsza odsłona: 3 październik 2013
 
-![](images/2013_scena.jpg) W wydarzeniu promowanym metodą poczty pantoflowej
-wzięło udział 120 osób.
+![Aula z prelegentem na scenie, widoczna publiczność](images/2013_scena.jpg) W
+wydarzeniu promowanym metodą poczty pantoflowej wzięło udział 120 osób.
 
 Konferencja odbyła się na uczelni na Wyższej Szkoły Europejskiej im. ks. Józefa
 Tischnera, której Gosia była absolwentką.
@@ -162,7 +162,9 @@ Gosia podzieliła się myślą, że organizując takie spotkanie można poznać 
 sobie i innych. Z pewnością nie była to bułka z masłem. W takich wymagających
 momentach można zobaczyć hart ducha, pomysłowość i gotowość do poświęceń.
 
-![](images/converstations.jpg)
+![Piter, Agnieszka i uczestnicy podczas przerwy na pierwszej konferencji.](images/converstations.jpg)
+
+**Piter, Agnieszka i uczestnicy.**
 
 ## Po pierwszym soap!
 
@@ -172,7 +174,7 @@ Społeczność przyjęła soap! z entuzjazmem i pewnym zdziwieniem:
 
 ### Odczucia uczestników
 
-![](images/feedback.png)
+![Korzystny feedback uczestnika i zdjęcie zaciekawionego słuchacza](images/feedback.png)
 
 ### Listopadowe spotkanie
 
@@ -180,7 +182,7 @@ Widać było spory apetyt na dzielenie się wiedzą, skoro jeszcze w listopadzie
 tamtego roku doszło do spotkania z całkiem rozbudowaną agendą w Massolit Books
 and Cafe w Krakowie.
 
-![](images/pawel.png)
+![Paweł podczas meetupu z miną której nie da się wyrazić słowami. Pełna powaga.](images/pawel.png)
 
 Oryginalny podpis z ówczesnej strony soap!:
 
@@ -207,7 +209,7 @@ Zawiązała się ekipa o takim składzie:
 
 Piter i jego technologiczne centrum kontroli wszechświata:
 
-![](images/laptopy.jpg)
+![Wiele laptopów potrzebnych podczas konferencji](images/laptopy.jpg)
 
 > Don't be too proud of the technological terror, you have constructed!
 
@@ -216,7 +218,7 @@ Piter i jego technologiczne centrum kontroli wszechświata:
 Źródło powyższego zdjęcia:
 [Twitter](https://x.com/em_piter/status/999946418587684864?t=fvLzHHgbrzLc-Zd1MZyWKQ&s=07).
 
-![](images/2022_piter.jpg)
+![Piter przy laptopie podczas konferencji](images/2022_piter.jpg)
 
 **Piter działa podczas soap! 2022.**
 
@@ -224,7 +226,7 @@ Grupa jest znana pod pseudonimem scenicznym: "Soapy Crew".
 
 ## Po raz drugi: 2-3 października 2014
 
-![](images/2014_aula.jpg)
+![Widok widowni na auli podczas drugiej konferencji](images/2014_aula.jpg)
 
 - Temat przewodni: _a clean; start;_
 
@@ -246,7 +248,7 @@ Noz Urbina powrócił z prezentacją, której zarysy również znajdziecie
 
 ## Po raz trzeci: 8-9 października 2015
 
-![](images/2015_Patryk_Olczak_Jadzka_Rysuje.jpg)
+![Na scenie stoi Patryk i przemawia, a Jadźka rysuje robiąc graphic recording. Widok zachwyconej publiki](images/2015_Patryk_Olczak_Jadzka_Rysuje.jpg)
 
 **Patryk Olczak mówi, a
 [Jadźka Rysuje](https://jadzkarysuje.pl/?v=288404204e3d)**.
@@ -269,8 +271,9 @@ dzień - 80.
 
 ## Po raz czwarty: 1-3 czerwca 2016
 
-![](images/edu_summit.jpg) Nauczeni poprzednimi doświadczeniami, organizatorzy
-wybrali cieplejszy miesiąc na to wydarzenie.
+![Edu Summit, dwoje trenerów stoi na tle wyświetlonej prezentacji, wokół siedzą uczestnicy przy ławkach.](images/edu_summit.jpg)
+Nauczeni poprzednimi doświadczeniami, organizatorzy wybrali cieplejszy miesiąc
+na to wydarzenie.
 
 - Temat przewodni brzmiał: _"My" zamiast "Oni"_. Temat dotyczący pozycji
   technical writera w zespole i podejścia do współpracy nadal nie traci na
@@ -280,7 +283,7 @@ Konferencję poprzedzało 5 warsztatów w ramach Content Edu Summit.
 
 ### Nowa lokalizacja: Manggha
 
-![](images/Manggha_Museum.jpg)
+![Widok niezwykłej, falującej linii architektury Muzeum Manggha z widokiem brzegu Wisły.](images/Manggha_Museum.jpg)
 
 **Źródło:
 [Wikipedia](https://pl.wikipedia.org/wiki/Muzeum_Sztuki_i_Techniki_Japo%C5%84skiej_%E2%80%9EManggha%E2%80%9D).**
@@ -310,7 +313,7 @@ konferencji była jedną z nich.
 
 ## Po raz piąty: 7-9 czerwca 2017
 
-![](images/2017_garden.jpg)
+![Uczestnicy podczas przerwy w ogródku na rozmowach. Widać kilka osób na pierwszym planie.](images/2017_garden.jpg)
 
 - Temat przewodni: _Rozwiązywanie problemów_.
 
@@ -332,7 +335,7 @@ atrakcyjność tej konferencji w tamtym czasie:
 
 ## Po raz szósty: 23-25 maja 2018
 
-![](images/2018_garden.jpg)
+![Uczestnicy podczas przerwy w ogródku na rozmowach. Widok z większej odległości z góry, pod kątem.](images/2018_garden.jpg)
 
 - Temat przewodni: _Innowacja kontra prostota_.
 
@@ -357,7 +360,7 @@ tamtej edycji:
 
 ## Po raz siódmy: 5-7 czerwca 2019
 
-![](images/2019_michal_pawel.jpg)
+![Michał Skowron i Paweł Kowaluk prezentują temat na scenie soap!. W tle prezentacja.](images/2019_michal_pawel.jpg)
 
 - Temat przewodni: _Content as Code_.
 
@@ -384,7 +387,7 @@ Zapraszam do obejrzenia.
 
 ## Przerwa z powodu pandemii 2020-2021
 
-![](images/load2.png)
+![Grafika przedstawia ikonę ładowania się strony i pasek postępu. "CONFERENCE LOADING..."](images/load2.png)
 
 **Stworzone w Gemini**.
 
@@ -400,7 +403,9 @@ Ludzie stali się mniej skłonni do podróży. Trudniej też było znaleźć spo
 
 ## Po raz ósmy: 1-3 czerwca 2022
 
-![](images/2022_wyklad.jpg)
+![Ray Gallon stoi na scenie na tle wyświetlonej prezentacji. Widoczna publika. ](images/2022_wyklad.jpg)
+
+**Ray Gallon podczas swojej prezentacji.**
 
 Przyszedł czas na wznowienie soap!. Powrót po przerwie należał do trudnych.
 Ekipie zależało na tym, by zrewidować dobre i złe praktyki, które zdążyły się
@@ -433,7 +438,7 @@ soap! 2023!
 
 ### Teleturniej S.U.P.E.R G.A.M.E
 
-![](images/super.jpg)
+![Paweł i Michał stoją na scenie na tle ekranu do przeprowadzenia teleturnieju, widoczni uczestnicy konkursu.](images/super.jpg)
 
 Wyjątkową nowością, jaką tylko uświadczyliśmy na konferencji w 2022, był
 teleturniej. Oto jego
@@ -450,7 +455,7 @@ dokumentacyjnej "Familiadzie".
 
 ## Po raz dziewiąty: 1-3 czerwca 2023
 
-![](images/2023_publika.jpg)
+![Publika soap! słucha z zaciekawieniem.](images/2023_publika.jpg)
 
 - Temat przewodni: _Content Operations_.
 
@@ -561,13 +566,15 @@ odpowiada.
 
 ## Rocznica
 
-![](images/2023_soapy_crew.jpg) Pierwsza edycja soap! odbyła się w
+![Ekipa "Soapy Crew" stoi na scenie na zakończenie konferencji.](images/2023_soapy_crew.jpg) 
+
+Pierwsza edycja soap! odbyła się w
 październiku 2013. W 2023 roku od pierwszej edycji minęło 10 lat, a momencie
 pisania tego artykułu - 12.
 
-Serdecznie dziękujemy ekipie organizującej te cudowne wydarzenia i dla wszystkich jej
-uczestników. Warto było dzielić te doświadczenia, za które jesteśmy niezmiernie
-wdzięczni.
+Serdecznie dziękujemy ekipie organizującej te cudowne wydarzenia i dla
+wszystkich jej uczestników. Warto było dzielić te doświadczenia, za które
+jesteśmy niezmiernie wdzięczni.
 
 Jak to kiedyś określił Michał Skowron:
 
