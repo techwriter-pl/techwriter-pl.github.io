@@ -9,6 +9,17 @@ tags:
 coverImage: 'soap_title.jpg'
 ---
 
+<!--
+1.Sprawdzic imiona i nazwiska osob ze zdjec z grupy FB.
+2.kilka slow o Soapy Crew? czy ok? usunac hobby and interests?
+3. Pisac Agnieszka czy moze Aga?
+4. Fakty do sprawdzenia w faktach bo nie mam pelnych danych o liczbie uczestnikow, zwlaszcza podczas rekordowej edycji przed pandemia.
+5. sprawdzic kto robil konferansjerke we wszystkich edycjach.
+6. czy Soapy Crew chce cos przekazac od siebie w osobnym akapicie? zapytam.
+7. podpisy pod zdjeciami, nazwiska i linki do LinkedIN.
+8. sprawdzic meet content iberia. in progress.
+-->
+
 Konferencje soap! zajmują szczególne miejsce w sercach osób żyjących komunikacją
 techniczną. Na Techwriterze z dumą zamieściliśmy relacje z każdej z nich. Były
 to wydarzenia, które wpłynęły na zawiązanie się społeczności i przyczyniły się
@@ -66,8 +77,9 @@ zmian!)
 Paulina w tamtym czasie była technical writerką, ewangelistką DITY i liderką
 jakości.
 
+<p align="center">
 ![Zdjęcie Pauliny inicjatorki](images/paulina_small.png)
-
+</p>
 Członkowie zespołu mieli dużo pytań na temat nowego narzędzia, migracji do niego
 i wyzwań technicznych. Razem doszli do wniosku:
 
@@ -271,7 +283,10 @@ dzień - 80.
 
 ## Po raz czwarty: 1-3 czerwca 2016
 
-![Edu Summit, dwoje trenerów stoi na tle wyświetlonej prezentacji, wokół siedzą uczestnicy przy ławkach.](images/edu_summit.jpg)
+![Edu Summit, Rachel Ody stoi na tle wyświetlonej prezentacji, wokół siedzą uczestnicy przy ławkach.](images/edu_summit.jpg)
+
+**Rachel Ody prowadzi szkolenie.**
+
 Nauczeni poprzednimi doświadczeniami, organizatorzy wybrali cieplejszy miesiąc
 na to wydarzenie.
 
@@ -566,11 +581,10 @@ odpowiada.
 
 ## Rocznica
 
-![Ekipa "Soapy Crew" stoi na scenie na zakończenie konferencji.](images/2023_soapy_crew.jpg) 
+![Ekipa "Soapy Crew" stoi na scenie na zakończenie konferencji.](images/2023_soapy_crew.jpg)
 
-Pierwsza edycja soap! odbyła się w
-październiku 2013. W 2023 roku od pierwszej edycji minęło 10 lat, a momencie
-pisania tego artykułu - 12.
+Pierwsza edycja soap! odbyła się w październiku 2013. W 2023 roku od pierwszej
+edycji minęło 10 lat, a momencie pisania tego artykułu - 12.
 
 Serdecznie dziękujemy ekipie organizującej te cudowne wydarzenia i dla
 wszystkich jej uczestników. Warto było dzielić te doświadczenia, za które
@@ -603,11 +617,13 @@ chciałby opowiedzieć swoją historię związaną z soap! to zapraszamy do kont
 [soap!](https://techwriter.pl/tags/soap), gdzie możecie zapoznać się z relacjami
 pisanymi szczegółowo i ze swadą.
 
-### Albumy zdjęć
+### Zdjęcia z konferencji
 
 Większość zdjęć w artykule pochodzi ze strony Facebook
 [soap technical communication](https://www.facebook.com/soapconf/photos_albums).
 Zapraszam do obejrzenia tej "wizualnej dokumentacji".
+
+Część zdjęć pochodzi z archiwum Soapy Crew.
 
 ### Nagrane prezentacje
 
