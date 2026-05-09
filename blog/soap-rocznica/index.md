@@ -12,7 +12,6 @@ coverImage: 'soap_title.jpg'
 <!--
 1.Sprawdzic imiona i nazwiska osob ze zdjec z grupy FB.
 2.kilka slow o Soapy Crew? czy ok? usunac hobby and interests?
-3. Pisac Agnieszka czy moze Aga?
 4. Fakty do sprawdzenia w faktach bo nie mam pelnych danych o liczbie uczestnikow, zwlaszcza podczas rekordowej edycji przed pandemia.
 5. sprawdzic kto robil konferansjerke we wszystkich edycjach.
 6. czy Soapy Crew chce cos przekazac od siebie w osobnym akapicie? zapytam.
