@@ -13,7 +13,7 @@ coverImage: 'soap_title.jpg'
 1.Sprawdzic imiona i nazwiska osob ze zdjec z grupy FB.
 2.kilka slow o Soapy Crew? czy ok? usunac hobby and interests?
 4. Fakty do sprawdzenia w faktach bo nie mam pelnych danych o liczbie uczestnikow, zwlaszcza podczas rekordowej edycji przed pandemia.
-5. sprawdzic kto robil konferansjerke we wszystkich edycjach.
+5. sprawdzic kto robil konferansjerke we wszystkich edycjach. W puste miejsca wpisac Gosie?
 6. czy Soapy Crew chce cos przekazac od siebie w osobnym akapicie? zapytam.
 7. podpisy pod zdjeciami, nazwiska i linki do LinkedIN.
 8. sprawdzic meet content iberia. in progress.
@@ -65,13 +65,16 @@ do nowego, zaawansowanego narzędzia do tworzenia dokumentacji.
 
 Gosia miała wtedy niespełna rok doświadczenia jako technical writerka, w ramach
 którego dopiero poznawała standard DITA.
-
+<p align="center">
 ![Zdjęcie Gosi inicjatorki](images/gosia_small.png)
+</p>
 
 Paweł był wtedy tech writingowym narzędziowym geekiem. (I wciąż nim jest! Tu bez
 zmian!)
 
+<p align="center">
 ![Zdjęcie Pawła inicjatora](images/pawel_small.png)
+</p>
 
 Paulina w tamtym czasie była technical writerką, ewangelistką DITY i liderką
 jakości.
@@ -79,6 +82,7 @@ jakości.
 <p align="center">
 ![Zdjęcie Pauliny inicjatorki](images/paulina_small.png)
 </p>
+
 Członkowie zespołu mieli dużo pytań na temat nowego narzędzia, migracji do niego
 i wyzwań technicznych. Razem doszli do wniosku:
 
@@ -214,7 +218,7 @@ Zawiązała się ekipa o takim składzie:
 | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
 | [Gosia Radymiak](https://www.linkedin.com/in/malgorzata-gosia-radymiak/)             | W tamtym czasie była technical writerką i specjalistką od jakości. Interesowały ją nurkowanie, wędrówki po górach, zapiekanki i DITA.                                                          | - Project Manager, który spina wszystko w całość <br />- "Driver" projektu                   |
 | [Karolina Karbarz](https://www.linkedin.com/in/karolina-karbarz)                     | Specjalistka od projektowania graficznego, lubiąca ciasta czekoladowe, koreańskie filmy i spacery z czworonogiem.                                                                              | - Strona Internetowa <br /> - Szata graficzna <br />- Grafiki                                |
-| [Piotr Milewski](https://www.linkedin.com/in/piotrmilewski) zwany Piterem            | Absolwent Wyższej Szkoły Europejskiej. Technical writer z zamiłowaniem do wspinaczki górskiej, [skitouringu](https://skitourschool.pl/co-to-jest-skitouring/) i paralotniarstwa.               | - Speakerzy i trenerzy <br />- Laptopy i ekrany <br />- Współpraca z Manggha                 |
+| [Piotr Milewski](https://www.linkedin.com/in/piotrmilewski) zwany Piterem            | Absolwent Wyższej Szkoły Europejskiej (Lingwistyka Stosowana). Technical writer z zamiłowaniem do wspinaczki górskiej, [skitouringu](https://skitourschool.pl/co-to-jest-skitouring/) i paralotniarstwa.               | - Speakerzy i trenerzy <br />- Laptopy i ekrany <br />- Współpraca z Manggha                 |
 | [Agnieszka Tkaczyk](https://www.linkedin.com/in/agnieszka-tkaczyk-walczak-93508570/) | W tamtym czasie Agnieszka była Information Developerem, jako tłumaczka współpracowała z krakowskimi uniwersytetami. Oprócz dokumentacji interesowało ją projektowanie interfejsów użytkownika. | - Sponsorzy i partnerzy                                                                      |
 | [Iga Koprowska](https://www.linkedin.com/in/iga-koprowska)                           | Filolożka angielska i tłumaczka. Odbyła kurs technical writingowy dla studentów Uniwersytetu Jagielońskiego razem z Gosią. Wciąż pozostaje w nurcie komunikacji technicznej.                   | - Media społecznościowe <br /> - Komunikaty <br /> - Copywriting na stronę <br /> - Branding |
 
@@ -521,7 +525,7 @@ Pomagają prześledzić jak rozwijały się te wydarzenia.
 To szeroka tabela, więc możliwe, że zrobisz użytek z poziomego paska do
 przewijania u dołu.
 
-| Rok  | Miejsce                                           | Temat                         | Ile dni? | Warsztaty                | Speakerzy | Ilu słuchaczy? | Konferansjerka | Opcja online? |
+| Rok  | Miejsce                                           | Temat                         | Ile dni? | Warsztaty                | Speakerzy | Ilu słuchaczy? | Za mikrofonem | Opcja online? |
 | ---- | ------------------------------------------------- | ----------------------------- | -------- | ------------------------ | --------- | -------------- | -------------- | ------------- |
 | 2013 | Wyższa Szkoła Europejska im. ks. Józefa Tischnera |                               | 1        | Nie                      |           | 120            |                | Nie           |
 | 2014 | hub:raum                                          | a clean; start;               | 2        | 3 warsztaty              | 25        | 142, 98        | Paweł          | Nie           |
@@ -552,18 +556,20 @@ Słowami Gosi:
 Grupa [soap! technical communication](https://www.facebook.com/soapconf) na
 Facebooku liczy 1300 osób.
 
-## Inicjatywy powiązane
+## Powiązane inicjatywy
 
 Stało się jasne, że soap! raz w roku to było za mało, a apetyt na wiedzę i
-spotkania stale rósł. Zaczęło się rozkręcanie meetupów o nazwie Meet Content. W
-Brnie w Czechach odbyły się trzy meetupy.
+spotkania stale rósł. Przy tak rozbudzonym zainteresowaniu, potrzebny był sposób, by zagospodarować tę energię.
 
-Z tego co udało nam się ustalić, w Hiszpanii odbył się Meet Content Iberia.
+Zaczęło się rozkręcanie meetupów pod nazwą
+[Meet Content](https://meetcontent.github.io/):
 
-Meet Content nadal działa we Wrocławiu. Oddział Meet Content krakowski przestał
-być aktywny.
+- Jego wrocławski oddział zaczął swoją działalność w 2017 i jest wciąż aktywny.
+- Jego krakowski oddział przestał być aktywny.
+- W jego ramach doszło do spotkań w Brnie, w Czechach i w Barcelonie, w
+  Hiszpanii.
 
-W Krakowie powstała nowa marka: Content Bytes założona przez
+W Krakowie powstała nowa marka meetupowa: Content Bytes założona przez
 [Barbarę Czyż](https://www.linkedin.com/in/barbara-szwarc/?locale=en) i
 [Edytę Rakowską](https://www.linkedin.com/in/edyta-rakowska/).
 
