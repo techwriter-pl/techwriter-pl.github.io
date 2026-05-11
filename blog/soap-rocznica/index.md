@@ -10,12 +10,9 @@ coverImage: 'soap_title.jpg'
 ---
 
 <!--
-1.Sprawdzic imiona i nazwiska osob ze zdjec z grupy FB.
-2.kilka slow o Soapy Crew? czy ok? usunac hobby and interests?
-4. Fakty do sprawdzenia w tablei bo nie mam pelnych danych o liczbie uczestnikow, zwlaszcza podczas rekordowej edycji przed pandemia.
-5. sprawdzic kto robil konferansjerke we wszystkich edycjach. W puste miejsca wpisac Gosie?
+4. Fakty do sprawdzenia w tabeli bo nie mam pelnych danych o liczbie uczestnikow, zwlaszcza podczas rekordowej edycji przed pandemia.
+5. sprawdzic kto robil konferansjerke we wszystkich edycjach.
 6. czy Soapy Crew chce cos przekazac od siebie w osobnym akapicie? zapytam.
-7. podpisy pod zdjeciami, nazwiska i linki do LinkedIN.
 8. przesledzic synonimy: ekipa, organizatorzy, Soapy Crew, inicjatorzy, śmiałkowie, pionierzy, założyciele
 -->
 
