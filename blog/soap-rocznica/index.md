@@ -266,7 +266,7 @@ Noz Urbina powrócił z prezentacją, której zarysy również znajdziecie
 
 ![Na scenie stoi Patryk i przemawia, a Jadźka rysuje robiąc graphic recording. Widok zachwyconej publiki](images/2015_Patryk_Olczak_Jadzka_Rysuje.jpg)
 
-**Patryk Olczak mówi, a
+**[Piotr Nabielec](https://www.linkedin.com/in/piotrnabielec/) mówi, a
 [Jadźka Rysuje](https://jadzkarysuje.pl/?v=288404204e3d)**.
 
 Tym razem soap! odbył się w lokalizacji przy Plaży Kraków.
@@ -300,8 +300,8 @@ na to wydarzenie.
 
 Do głownych motywów, oprócz rozwiązań technicznych i nowych technologii,
 należały również zagadnienia UI, UX, zarządzanie projektem i rola dokumentacji
-dla wdrażania produktu i zapewnienia tego, że użytkownicy wykorzystują jego pełen
-potencjał.
+dla wdrażania produktu i zapewnienia tego, że użytkownicy wykorzystują jego
+pełen potencjał.
 
 Konferencję poprzedzało pięć warsztatów w ramach Content Edu Summit.
 
@@ -415,16 +415,17 @@ Zapraszam do obejrzenia.
 
 **Stworzone w Gemini**.
 
-Podobnie jak w wielu innych obszarach życia, pandemia wszystko zmieniła i sporo
-namieszała.
-
 W edycji z czerwca 2019 odnotowano największą liczbę uczestników.
+
+W 2020 nastała pandemia, która, podobnie jak w wielu innych obszarach życia,
+wszystko zmieniła i sporo namieszała.
 
 Przez dwa lata soap! się nie odbywał i wszystko było pod znakiem wielkiego
 wyczekiwania.
 
 Tuż po zakończeniu się pandemii, krajobraz konferencyjny wyglądał inaczej.
 Ludzie stali się mniej skłonni do podróży. Trudniej też było znaleźć sponsorów.
+Mimo tych przeciwności, ekipa zdecydowała się na reaktywację imprezy.
 
 ## Po raz ósmy: 1-3 czerwca 2022
 
@@ -532,17 +533,17 @@ Pomagają prześledzić jak rozwijały się te wydarzenia.
 To szeroka tabela, więc możliwe, że zrobisz użytek z poziomego paska do
 przewijania u dołu.
 
-| Rok  | Miejsce                                           | Temat                         | Ile dni? | Warsztaty                | Speakerzy | Ilu słuchaczy? | Za mikrofonem | Opcja online? |
-| ---- | ------------------------------------------------- | ----------------------------- | -------- | ------------------------ | --------- | -------------- | ------------- | ------------- |
-| 2013 | Wyższa Szkoła Europejska im. ks. Józefa Tischnera |                               | 1        | Nie                      |           | 120            |               | Nie           |
-| 2014 | hub:raum                                          | a clean; start;               | 2        | 3 warsztaty              | 25        | 142, 98        | Paweł         | Nie           |
-| 2015 | Wiem, ale nie powiem!                             |                               | 3        | Nie                      | 17        | 170, 80        |               | Nie           |
-| 2016 | Manggha                                           | "My" zamiast "Oni"            | 3        | 5 warsztatów             | 17        | 220, 125       |               | Nie           |
-| 2017 | Manggha                                           | Rozwiązywanie problemów       | 3        |                          |           |                |               | Nie           |
-| 2018 | Manggha                                           | Innowacja kontra prostota     | 3        | 10 warsztatów            | 23        |                | Gosia         | Nie           |
-| 2019 | Manggha                                           | Content as Code               | 3        | 6 warsztatów dla 60 osób |           | 200+           | Gosia         | Nie           |
-| 2022 | Manggha                                           | Przyszłość technical writingu | 3        | Tak                      | 21        |                | Agnieszka     | Tak           |
-| 2023 | Manggha                                           | Content Operations            | 3        | Tak                      |           |                | Gosia         | Tak           |
+| Rok  | Miejsce                                           | Temat                         | Ile dni? | Warsztaty                | Speakerzy | Ilu słuchaczy? | Za mikrofonem        | Opcja online? |
+| ---- | ------------------------------------------------- | ----------------------------- | -------- | ------------------------ | --------- | -------------- | -------------------- | ------------- |
+| 2013 | Wyższa Szkoła Europejska im. ks. Józefa Tischnera |                               | 1        | Nie                      |           | 120            |                      | Nie           |
+| 2014 | hub:raum                                          | a clean; start;               | 2        | 3 warsztaty              | 25        | 142, 98        | Paweł                | Nie           |
+| 2015 | Wiem, ale nie powiem!                             |                               | 3        | Nie                      | 17        | 170, 80        | Gabriela Guarana Maj | Nie           |
+| 2016 | Manggha                                           | "My" zamiast "Oni"            | 3        | 5 warsztatów             | 17        | 220, 125       | Gosia                | Nie           |
+| 2017 | Manggha                                           | Rozwiązywanie problemów       | 3        | Tak                      |           |                | Gosia                | Nie           |
+| 2018 | Manggha                                           | Innowacja kontra prostota     | 3        | 10 warsztatów            | 23        |                | Gosia                | Nie           |
+| 2019 | Manggha                                           | Content as Code               | 3        | 6 warsztatów dla 60 osób |           | 200+           | Gosia                | Nie           |
+| 2022 | Manggha                                           | Przyszłość technical writingu | 3        | Tak                      | 21        |                | Agnieszka            | Tak           |
+| 2023 | Manggha                                           | Content Operations            | 3        | Tak                      |           |                | Gosia                | Tak           |
 
 ## Wpływ soap! na środowisko skupione wokół komunikacji technicznej
 
@@ -617,9 +618,9 @@ Jakkolwiek patetycznie może to zabrzmieć, soap! był wyjątkowy dzięki ludzio
 którzy go tworzyli i w nim uczestniczyli. Była to przestrzeń na spotkania ludzi
 rozumiejących bolączki dokumentacji, mających ochotę nauczyć się czegoś i
 jednocześnie gotowych przekazać swoją wiedzę i doświadczenia innym. Zachowujemy
-w pamięci naprawdę niezapomniane chwile. soap! zawsze kojarzyć mi się będzie z
-entuzjazmem, zaangażowaniem i niecierpliwym pałaszowaniem olbrzymich dawek
-wiedzy.
+w pamięci naprawdę niezapomniane chwile radości a czasem olśnienia. soap! zawsze
+kojarzyć mi się będzie z entuzjazmem, zaangażowaniem i niecierpliwym
+pałaszowaniem olbrzymich dawek wiedzy.
 
 Jeśli ktoś zauważy w artykule jakiś fakt do poprawki czy uzupełnienia albo
 chciałby opowiedzieć swoją historię związaną z soap! to zapraszamy do kontaktu.
