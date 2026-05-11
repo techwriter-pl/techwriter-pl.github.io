@@ -12,11 +12,11 @@ coverImage: 'soap_title.jpg'
 <!--
 1.Sprawdzic imiona i nazwiska osob ze zdjec z grupy FB.
 2.kilka slow o Soapy Crew? czy ok? usunac hobby and interests?
-4. Fakty do sprawdzenia w faktach bo nie mam pelnych danych o liczbie uczestnikow, zwlaszcza podczas rekordowej edycji przed pandemia.
+4. Fakty do sprawdzenia w tablei bo nie mam pelnych danych o liczbie uczestnikow, zwlaszcza podczas rekordowej edycji przed pandemia.
 5. sprawdzic kto robil konferansjerke we wszystkich edycjach. W puste miejsca wpisac Gosie?
 6. czy Soapy Crew chce cos przekazac od siebie w osobnym akapicie? zapytam.
 7. podpisy pod zdjeciami, nazwiska i linki do LinkedIN.
-8. sprawdzic meet content iberia. in progress.
+8. przesledzic synonimy: ekipa, organizatorzy, Soapy Crew, inicjatorzy, śmiałkowie, pionierzy, założyciele
 -->
 
 Konferencje soap! zajmują szczególne miejsce w sercach osób żyjących komunikacją
@@ -65,6 +65,7 @@ do nowego, zaawansowanego narzędzia do tworzenia dokumentacji.
 
 Gosia miała wtedy niespełna rok doświadczenia jako technical writerka, w ramach
 którego dopiero poznawała standard DITA.
+
 <p align="center">
 ![Zdjęcie Gosi inicjatorki](images/gosia_small.png)
 </p>
@@ -159,8 +160,8 @@ międzynarodowe wydarzenie.
 
 ## Pierwsza odsłona: 3 październik 2013
 
-![Aula z prelegentem na scenie, widoczna publiczność](images/2013_scena.jpg) W
-wydarzeniu promowanym metodą poczty pantoflowej wzięło udział 120 osób.
+![Noz Urbina w trakcie prezentacji.](images/noz.jpg) W wydarzeniu promowanym
+metodą poczty pantoflowej wzięło udział 120 osób.
 
 Konferencja odbyła się na uczelni na Wyższej Szkoły Europejskiej im. ks. Józefa
 Tischnera, której Gosia była absolwentką.
@@ -214,13 +215,13 @@ Gosia kontynuowała tę inicjatywę.
 
 Zawiązała się ekipa o takim składzie:
 
-| Osoba                                                                                | Parę słów o                                                                                                                                                                                    | Rola/obszar                                                                                  |
-| ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| [Gosia Radymiak](https://www.linkedin.com/in/malgorzata-gosia-radymiak/)             | W tamtym czasie była technical writerką i specjalistką od jakości. Interesowały ją nurkowanie, wędrówki po górach, zapiekanki i DITA.                                                          | - Project Manager, który spina wszystko w całość <br />- "Driver" projektu                   |
-| [Karolina Karbarz](https://www.linkedin.com/in/karolina-karbarz)                     | Specjalistka od projektowania graficznego, lubiąca ciasta czekoladowe, koreańskie filmy i spacery z czworonogiem.                                                                              | - Strona Internetowa <br /> - Szata graficzna <br />- Grafiki                                |
-| [Piotr Milewski](https://www.linkedin.com/in/piotrmilewski) zwany Piterem            | Absolwent Wyższej Szkoły Europejskiej (Lingwistyka Stosowana). Technical writer z zamiłowaniem do wspinaczki górskiej, [skitouringu](https://skitourschool.pl/co-to-jest-skitouring/) i paralotniarstwa.               | - Speakerzy i trenerzy <br />- Laptopy i ekrany <br />- Współpraca z Manggha                 |
-| [Agnieszka Tkaczyk](https://www.linkedin.com/in/agnieszka-tkaczyk-walczak-93508570/) | W tamtym czasie Agnieszka była Information Developerem, jako tłumaczka współpracowała z krakowskimi uniwersytetami. Oprócz dokumentacji interesowało ją projektowanie interfejsów użytkownika. | - Sponsorzy i partnerzy                                                                      |
-| [Iga Koprowska](https://www.linkedin.com/in/iga-koprowska)                           | Filolożka angielska i tłumaczka. Odbyła kurs technical writingowy dla studentów Uniwersytetu Jagielońskiego razem z Gosią. Wciąż pozostaje w nurcie komunikacji technicznej.                   | - Media społecznościowe <br /> - Komunikaty <br /> - Copywriting na stronę <br /> - Branding |
+| Osoba                                                                                | Parę słów o                                                                                                                                                                                              | Rola/obszar                                                                                  |
+| ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| [Gosia Radymiak](https://www.linkedin.com/in/malgorzata-gosia-radymiak/)             | W tamtym czasie była technical writerką i specjalistką od jakości. Interesowały ją nurkowanie, wędrówki po górach, zapiekanki i DITA.                                                                    | - Project Manager, który spina wszystko w całość <br />- "Driver" projektu                   |
+| [Karolina Karbarz](https://www.linkedin.com/in/karolina-karbarz)                     | Specjalistka od projektowania graficznego, lubiąca ciasta czekoladowe, koreańskie filmy i spacery z czworonogiem.                                                                                        | - Strona Internetowa <br /> - Szata graficzna <br />- Grafiki                                |
+| [Piotr Milewski](https://www.linkedin.com/in/piotrmilewski) zwany Piterem            | Absolwent Wyższej Szkoły Europejskiej (Lingwistyka Stosowana). Technical writer z zamiłowaniem do wspinaczki górskiej, [skitouringu](https://skitourschool.pl/co-to-jest-skitouring/) i paralotniarstwa. | - Speakerzy i trenerzy <br />- Laptopy i ekrany <br />- Współpraca z Manggha                 |
+| [Agnieszka Tkaczyk](https://www.linkedin.com/in/agnieszka-tkaczyk-walczak-93508570/) | W tamtym czasie Agnieszka była Information Developerem, jako tłumaczka współpracowała z krakowskimi uniwersytetami. Oprócz dokumentacji interesowało ją projektowanie interfejsów użytkownika.           | - Sponsorzy i partnerzy                                                                      |
+| [Iga Koprowska](https://www.linkedin.com/in/iga-koprowska)                           | Filolożka angielska i tłumaczka. Odbyła kurs technical writingowy dla studentów Uniwersytetu Jagielońskiego razem z Gosią. Wciąż pozostaje w nurcie komunikacji technicznej.                             | - Media społecznościowe <br /> - Komunikaty <br /> - Copywriting na stronę <br /> - Branding |
 
 Piter i jego technologiczne centrum kontroli wszechświata:
 
@@ -297,7 +298,12 @@ na to wydarzenie.
   technical writera w zespole i podejścia do współpracy nadal nie traci na
   aktualności.
 
-Konferencję poprzedzało 5 warsztatów w ramach Content Edu Summit.
+Do głownych motywów, oprócz rozwiązań technicznych i nowych technologii,
+należały również zagadnienia UI, UX, zarządzanie projektem i rola dokumentacji
+dla wdrażania produktu i zapewnienia tego, że użytkownicy wykorzystują jego pełen
+potencjał.
+
+Konferencję poprzedzało pięć warsztatów w ramach Content Edu Summit.
 
 ### Nowa lokalizacja: Manggha
 
@@ -365,9 +371,9 @@ Nie mogę nie wspomnieć o klimatycznej strefie chillout w ogródku na tyłach
 Manggha, miejscu relaksu i dobrych rozmów. Po intensywnych prezentacjach dobrze
 było tam się przejść i odetchnąć świeżym powietrzem.
 
-Podkreślę jeden aspekt nieoficjalnej części konferencji, co Michał Skowron
-trafnie podsumował w swojej [relacji](../konferencja-soap-2018-relacja/) z
-tamtej edycji:
+Podkreślę jeden aspekt nieoficjalnej części konferencji, co
+[Michał Skowron](https://www.linkedin.com/in/michalskowron/) trafnie podsumował
+w swojej [relacji](../konferencja-soap-2018-relacja/) z tamtej edycji:
 
 > Konferencja to nie tylko mnóstwo wiedzy, to także sporo dobrej zabawy. Po
 > każdym dniu wykładów mieliśmy okazję rozluźnić się i spędzić miło czas na
@@ -414,16 +420,17 @@ namieszała.
 
 W edycji z czerwca 2019 odnotowano największą liczbę uczestników.
 
-Przez dwa lata soap! się nie odbywał.
+Przez dwa lata soap! się nie odbywał i wszystko było pod znakiem wielkiego
+wyczekiwania.
 
 Tuż po zakończeniu się pandemii, krajobraz konferencyjny wyglądał inaczej.
 Ludzie stali się mniej skłonni do podróży. Trudniej też było znaleźć sponsorów.
 
 ## Po raz ósmy: 1-3 czerwca 2022
 
-![Ray Gallon stoi na scenie na tle wyświetlonej prezentacji. Widoczna publika. ](images/2022_wyklad.jpg)
+![Agnieszka Tkaczyk z mikrofonem pełni rolę konferansjerki.](images/2022_wyklad.jpg)
 
-**Ray Gallon podczas swojej prezentacji.**
+**Agnieszka Tkaczyk jako master of ceremony.**
 
 Przyszedł czas na wznowienie soap!. Powrót po przerwie należał do trudnych.
 Ekipie zależało na tym, by zrewidować dobre i złe praktyki, które zdążyły się
@@ -526,16 +533,16 @@ To szeroka tabela, więc możliwe, że zrobisz użytek z poziomego paska do
 przewijania u dołu.
 
 | Rok  | Miejsce                                           | Temat                         | Ile dni? | Warsztaty                | Speakerzy | Ilu słuchaczy? | Za mikrofonem | Opcja online? |
-| ---- | ------------------------------------------------- | ----------------------------- | -------- | ------------------------ | --------- | -------------- | -------------- | ------------- |
-| 2013 | Wyższa Szkoła Europejska im. ks. Józefa Tischnera |                               | 1        | Nie                      |           | 120            |                | Nie           |
-| 2014 | hub:raum                                          | a clean; start;               | 2        | 3 warsztaty              | 25        | 142, 98        | Paweł          | Nie           |
-| 2015 | Wiem, ale nie powiem!                             |                               | 3        | Nie                      | 17        | 170, 80        |                | Nie           |
-| 2016 | Manggha                                           | "My" zamiast "Oni"            | 3        | 5 warsztatów             | 17        | 220, 125       |                | Nie           |
-| 2017 | Manggha                                           | Rozwiązywanie problemów       | 3        |                          |           |                |                | Nie           |
-| 2018 | Manggha                                           | Innowacja kontra prostota     | 3        | 10 warsztatów            | 23        |                | Gosia          | Nie           |
-| 2019 | Manggha                                           | Content as Code               | 3        | 6 warsztatów dla 60 osób |           | 200+           | Gosia          | Nie           |
-| 2022 | Manggha                                           | Przyszłość technical writingu | 3        | Tak                      | 21        |                | Agnieszka      | Tak           |
-| 2023 | Manggha                                           | Content Operations            | 3        | Tak                      |           |                | Gosia          | Tak           |
+| ---- | ------------------------------------------------- | ----------------------------- | -------- | ------------------------ | --------- | -------------- | ------------- | ------------- |
+| 2013 | Wyższa Szkoła Europejska im. ks. Józefa Tischnera |                               | 1        | Nie                      |           | 120            |               | Nie           |
+| 2014 | hub:raum                                          | a clean; start;               | 2        | 3 warsztaty              | 25        | 142, 98        | Paweł         | Nie           |
+| 2015 | Wiem, ale nie powiem!                             |                               | 3        | Nie                      | 17        | 170, 80        |               | Nie           |
+| 2016 | Manggha                                           | "My" zamiast "Oni"            | 3        | 5 warsztatów             | 17        | 220, 125       |               | Nie           |
+| 2017 | Manggha                                           | Rozwiązywanie problemów       | 3        |                          |           |                |               | Nie           |
+| 2018 | Manggha                                           | Innowacja kontra prostota     | 3        | 10 warsztatów            | 23        |                | Gosia         | Nie           |
+| 2019 | Manggha                                           | Content as Code               | 3        | 6 warsztatów dla 60 osób |           | 200+           | Gosia         | Nie           |
+| 2022 | Manggha                                           | Przyszłość technical writingu | 3        | Tak                      | 21        |                | Agnieszka     | Tak           |
+| 2023 | Manggha                                           | Content Operations            | 3        | Tak                      |           |                | Gosia         | Tak           |
 
 ## Wpływ soap! na środowisko skupione wokół komunikacji technicznej
 
@@ -559,12 +566,13 @@ Facebooku liczy 1300 osób.
 ## Powiązane inicjatywy
 
 Stało się jasne, że soap! raz w roku to było za mało, a apetyt na wiedzę i
-spotkania stale rósł. Przy tak rozbudzonym zainteresowaniu, potrzebny był sposób, by zagospodarować tę energię.
+spotkania stale rósł. Przy tak rozbudzonym zainteresowaniu, potrzebny był
+sposób, by zagospodarować tę energię.
 
-Zaczęło się rozkręcanie meetupów pod nazwą
+W 2017 zaczęło się rozkręcanie meetupów pod nazwą
 [Meet Content](https://meetcontent.github.io/):
 
-- Jego wrocławski oddział zaczął swoją działalność w 2017 i jest wciąż aktywny.
+- Jego wrocławski oddział jest nadal aktywny.
 - Jego krakowski oddział przestał być aktywny.
 - W jego ramach doszło do spotkań w Brnie, w Czechach i w Barcelonie, w
   Hiszpanii.
@@ -588,8 +596,12 @@ odpowiada.
 
 ![Ekipa "Soapy Crew" stoi na scenie na zakończenie konferencji.](images/2023_soapy_crew.jpg)
 
+**Soapy Crew w 2023.**
+
 Pierwsza edycja soap! odbyła się w październiku 2013. W 2023 roku od pierwszej
 edycji minęło 10 lat, a momencie pisania tego artykułu - 12.
+
+Są to lata wielkiego wysiłku i dynamicznego rozwoju całej społeczności.
 
 Serdecznie dziękujemy ekipie organizującej te cudowne wydarzenia i dla
 wszystkich jej uczestników. Warto było dzielić te doświadczenia, za które
