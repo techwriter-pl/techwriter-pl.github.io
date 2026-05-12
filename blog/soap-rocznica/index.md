@@ -9,18 +9,6 @@ tags:
 coverImage: 'soap_title.jpg'
 ---
 
-<!--
-4. Fakty do sprawdzenia w tabeli bo nie mam pelnych danych o liczbie uczestnikow, zwlaszcza podczas rekordowej edycji przed pandemia.
-5. sprawdzic kto robil konferansjerke we wszystkich edycjach.
-6. czy Soapy Crew chce cos przekazac od siebie w osobnym akapicie? zapytam.
-8. przesledzic synonimy: 
-
-ekipa, organizatorzy, Soapy Crew, inicjatorzy, śmiałkowie, pionierzy, założyciele
-
-konferencja, soap, wydarzenie, inicjatywa, impreza
-
--->
-
 Konferencje soap! zajmują szczególne miejsce w sercach osób żyjących komunikacją
 techniczną. Na Techwriterze z dumą zamieściliśmy relacje z każdej z nich. Były
 to wydarzenia, które wpłynęły na zawiązanie się społeczności i przyczyniły się
@@ -35,10 +23,10 @@ do przyspieszenia jej rozwoju. Z artykułu dowiesz się:
 
 ## Od autora
 
-Uczestniczyłem trzy razy w wydarzeniach w 2018, 2022 i 2023. Za każdym
-razem ubawiłem się przednio, miałem przyjemność porozmawiać z bardzo
-kontaktowymi ludźmi, za każdym razem wyniosłem wiele przydatnych informacji i
-przemyśleń. soap! wyróżniała też niezwykle przyjazna atmosfera tworzona przez
+Uczestniczyłem trzy razy w wydarzeniach w 2018, 2022 i 2023. Za każdym razem
+ubawiłem się przednio, miałem przyjemność porozmawiać z bardzo kontaktowymi
+ludźmi, za każdym razem wyniosłem wiele przydatnych informacji i przemyśleń.
+Konferencje wyróżniała też niezwykle przyjazna atmosfera tworzona przez
 organizatorów i uczestników.
 
 W tym miejscu chciałem podziękować Gosi za rozmowę, podczas której streściła mi
@@ -96,7 +84,7 @@ Z tego powodu właśnie pojechali we trójkę do Londynu na trzydniową konferen
 [Congility](https://www.ditawriter.com/interview-with-noz-urbina-about-the-upcoming-congility-conference/),
 na której prelegentem był [Noz Urbina](https://www.linkedin.com/in/nozurbina/).
 
-Konferencja było bardzo udana, wypełniały ją spotkania, nawiązywanie kontaktów i
+Wydarzenie było bardzo udane, wypełniały je spotkania, nawiązywanie kontaktów i
 przekazywanie wiedzy.
 
 Był wtedy czerwiec 2013 roku. Postanowili w październiku tamtego roku zrobić
@@ -118,7 +106,7 @@ podeszli do nowego wyzwania.
 Skąd wzięła się nazwa "soap!"? 🧼 Mydło nawiązywało do świeżości. Podczas rozmów
 o branży narodziła się metafora baniek 🫧 zamieszkiwanych przez różnych
 specjalistów od treści, którzy nie mieli świadomości siebie nawzajem. Historia
-nazwy została nieco szczegółowiej opisana w
+nazwy została nieco szerzej opisana w
 [relacji z soap! z 2015 roku](https://techwriter.pl/namydleni-po-raz-trzeci/#o-co-chodzi-z-tym-r%C3%B3%C5%BCowym-myd%C5%82em).
 
 Po wybraniu głównego symbolu, pozostało rozpisac skrót:
@@ -269,7 +257,7 @@ Noz Urbina powrócił z prezentacją, której zarysy również znajdziecie
 
 ## Po raz trzeci: 8-9 października 2015
 
-![Na scenie stoi Patryk i przemawia, a Jadźka rysuje robiąc graphic recording. Widok zachwyconej publiki](images/2015_Patryk_Olczak_Jadzka_Rysuje.jpg)
+![Na scenie stoi uczestnik i przemawia, a Jadźka rysuje robiąc graphic recording. Widok zachwyconej publiki](images/2015_Patryk_Olczak_Jadzka_Rysuje.jpg)
 
 **[Piotr Nabielec](https://www.linkedin.com/in/piotrnabielec/) mówi, a
 [Jadźka Rysuje](https://jadzkarysuje.pl/?v=288404204e3d)**.
@@ -299,11 +287,11 @@ dzień - 80.
 Nauczeni poprzednimi doświadczeniami, organizatorzy wybrali cieplejszy miesiąc
 na to wydarzenie.
 
-- Temat przewodni brzmiał: _"My" zamiast "Oni"_. Temat dotyczący pozycji
-  technical writera w zespole i podejścia do współpracy nadal nie traci na
+- Temat przewodni brzmiał: _"My" zamiast "Oni"_. Pozycja technical writera w
+  zespole i podejście do współpracy to kwestie, które nadal nie tracą na
   aktualności.
 
-Do głownych motywów, oprócz rozwiązań technicznych i nowych technologii,
+Do poruszanych motywów, oprócz rozwiązań technicznych i nowych technologii,
 należały również zagadnienia UI, UX, zarządzanie projektem i rola dokumentacji
 dla wdrażania produktu i zapewnienia tego, że użytkownicy wykorzystują jego
 pełen potencjał.
@@ -460,7 +448,7 @@ Podczas prezentacji o AI,
 Soapuszkę, czyli różową poduszkę z nazwą konferencji, tajemniczej grupie o
 nazwie Soapuszka Crew. Przy okazji warto podkreślić, że Rafał jako jedyny ze
 speakerów odbył podróż w przyszłość i wrócił by o niej opowiedzieć podczas
-swojego wykładu. Dziękujemy za takie poświęcenie!
+swojego wykładu. Doceniamy takie poświęcenie!
 
 ![poduszka-soapuszka](./images/soapusza_mala-fad0d1204354736144ab7e68f11f6c30.gif)
 
@@ -481,7 +469,7 @@ zaznaczała swoją niezależność.
 
 Dzięki tej grze poznałem
 [Mateusza Boryckiego](https://www.linkedin.com/in/mateusz-borycki-2817a6186/),
-który dobrzy wywiązywał się obowiązków wynikających z bycia głową rodziny w tej
+który dobrze wywiązywał się obowiązków wynikających z bycia głową rodziny w tej
 dokumentacyjnej "Familiadzie".
 
 ## Po raz dziewiąty: 1-3 czerwca 2023
@@ -500,29 +488,28 @@ raz pierwszy w historii soap! wzięła do ręki mikrofon i przedstawiła swój t
 
 Podczas tamtej edycji organizatorzy wprowadzili soap! box, czyli drewnianą
 skrzynkę po jabłkach, na którą każdy mogł wskoczyć i opowiedzieć pokrótce o tym,
-co mu aktualnie w duszy gra. Miałem przyjemność na tę skrzynkę wskoczyć, gdzie
-razem z Lancem Cummingsem i
+co mu aktualnie w duszy gra. Miałem przyjemność na tę skrzynkę wskoczyć. Razem z
+[Lancem Cummingsem](https://www.linkedin.com/in/lance-cummings-phd/) i
 [Quinn Williams](https://www.linkedin.com/in/quinn-williams-/) opowiadałem o
 wspólnych projekcie.
 
-Ten pomysł stanowił ukłon w stronę spontaniczności. Było to dobre urozmaicenie w
+Ten pomysł był ukłonem w stronę spontaniczności i dobrym urozmaiceniem w
 wydarzeniu pełnym starannie przygotowanych warsztatów i prezentacji. Zarówno
 organizatorzy jak i publiczność byli bardzo otwarci na to, co do powiedzenia
-mieli speakerzy stojący na skrzynce 😀. Doceniam to, że kiedy przemawiałem na
-skrzynce, nie leciały w moim kierunku jabłka. Publiczność była tamtego dnia dla
-mnie życzliwa.
+mieli speakerzy stojący na skrzynce 😀. Doceniam to, że kiedy przemawiałem, w
+moim kierunku nie leciały jabłka. Publiczność była tamtego dnia dla mnie
+życzliwa.
 
 ### Panel dyskusyjny
 
 Konferencje wymagają improwizacji. Ponieważ jeden z wykładów został odwołany,
-szybko zebrało się kilku ochotników do panelu dyskusyjnego. Wśród tematów rozmów
-były rekrutacje dla technical writerów, trendy w branży no i oczywiście sztuczna
-inteligencja ☺️ (jakże mogłoby być inaczej?).
+szybko zebrało się kilku ochotników do uczestniczenia w panelu dyskusyjnym.
+Wśród tematów rozmów były rekrutacje dla technical writerów, trendy w branży no
+i oczywiście sztuczna inteligencja ☺️ (jakże mogłoby być inaczej?).
 
 ### Soapuszka: ciąg dalszy
 
-Podczas tej konferencji poduszka trafiła do
-[Lanca Cummingsa](https://www.linkedin.com/in/lance-cummings-phd/).
+Podczas tej konferencji poduszka trafiła do Lanca Cummingsa.
 
 Śledziliśmy jej późniejsze losy i możemy je w tym miejscu ujawnić.
 
@@ -589,8 +576,8 @@ W Krakowie powstała nowa marka meetupowa: Content Bytes założona przez
 
 ## Soapy Crew i inicjatorzy obecnie
 
-Wszystkie z wymienionych osób mają wyrobioną renomę w dziedzinach swojej
-specjalizacji: technical writingu, copywritingu i graphic designie.
+Wszystkie z wymienionych osób mają wyrobioną renomę w dziedzinach swoich
+specjalizacji, którymi są technical writing, copywriting i graphic design.
 
 Każda z osób, która na początku maczała palce w komunikacji technicznej wciąż
 realizuje się w tym nurcie. Zmiana ścieżki kariery to nie grzech, ale tu widać
@@ -623,7 +610,7 @@ Jakkolwiek patetycznie może to zabrzmieć, soap! był wyjątkowy dzięki ludzio
 którzy go tworzyli i w nim uczestniczyli. Była to przestrzeń na spotkania ludzi
 rozumiejących bolączki dokumentacji, mających ochotę nauczyć się czegoś i
 jednocześnie gotowych przekazać swoją wiedzę i doświadczenia innym. Zachowujemy
-w pamięci naprawdę niezapomniane chwile radości a czasem olśnienia. soap! zawsze
+w pamięci naprawdę niezapomniane chwile radości, a czasem olśnienia. soap! zawsze
 kojarzyć mi się będzie z entuzjazmem, zaangażowaniem i niecierpliwym
 pałaszowaniem olbrzymich dawek wiedzy.
 
