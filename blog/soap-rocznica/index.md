@@ -13,7 +13,12 @@ coverImage: 'soap_title.jpg'
 4. Fakty do sprawdzenia w tabeli bo nie mam pelnych danych o liczbie uczestnikow, zwlaszcza podczas rekordowej edycji przed pandemia.
 5. sprawdzic kto robil konferansjerke we wszystkich edycjach.
 6. czy Soapy Crew chce cos przekazac od siebie w osobnym akapicie? zapytam.
-8. przesledzic synonimy: ekipa, organizatorzy, Soapy Crew, inicjatorzy, śmiałkowie, pionierzy, założyciele
+8. przesledzic synonimy: 
+
+ekipa, organizatorzy, Soapy Crew, inicjatorzy, śmiałkowie, pionierzy, założyciele
+
+konferencja, soap, wydarzenie, inicjatywa, impreza
+
 -->
 
 Konferencje soap! zajmują szczególne miejsce w sercach osób żyjących komunikacją
@@ -30,7 +35,7 @@ do przyspieszenia jej rozwoju. Z artykułu dowiesz się:
 
 ## Od autora
 
-Uczestniczyłem trzy razy w konferencjach soap! w 2018, 2022 i 2023. Za każdym
+Uczestniczyłem trzy razy w wydarzeniach w 2018, 2022 i 2023. Za każdym
 razem ubawiłem się przednio, miałem przyjemność porozmawiać z bardzo
 kontaktowymi ludźmi, za każdym razem wyniosłem wiele przydatnych informacji i
 przemyśleń. soap! wyróżniała też niezwykle przyjazna atmosfera tworzona przez
@@ -157,8 +162,11 @@ międzynarodowe wydarzenie.
 
 ## Pierwsza odsłona: 3 październik 2013
 
-![Noz Urbina w trakcie prezentacji.](images/noz.jpg) W wydarzeniu promowanym
-metodą poczty pantoflowej wzięło udział 120 osób.
+![Noz Urbina w trakcie prezentacji na tle ekranu z prezentacja z mikrofonem i przełącznikiem w rękach.](images/noz.jpg)
+
+**Noz Urbina - dobry duch soap!. Wystąpił podczas edcji 1 i 2.**
+
+W wydarzeniu promowanym metodą poczty pantoflowej wzięło udział 120 osób.
 
 Konferencja odbyła się na uczelni na Wyższej Szkoły Europejskiej im. ks. Józefa
 Tischnera, której Gosia była absolwentką.
