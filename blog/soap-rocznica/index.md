@@ -161,8 +161,11 @@ Tischnera, której Gosia była absolwentką.
 
 Udało się nawiązać współpracę z kilkoma sponsorami.
 
-Agnieszka Tkaczyk pełniła rolę konferansjerki i świetnie sobie poradziła mimo
-opornego projektora.
+Wodzirejem wydarzenia był Paweł Kowaluk.
+
+Agnieszka Tkaczyk zaprezentowała swój temat i świetnie sobie poradziła mimo
+opornego projektora. (W tej edycji prezentowała, a w następnych jeszcze mocniej
+wpisała się w historię soap!, o czym przeczytacie za chwilę).
 
 Noz Urbina, którego organizatorzy słuchali podczas Congility, na soap! wystąpił
 jako prelegent.
@@ -208,7 +211,7 @@ Gosia kontynuowała tę inicjatywę.
 
 Zawiązała się ekipa o takim składzie:
 
-| Osoba                                                                                | Parę słów o                                                                                                                                                                                              | Rola/obszar                                                                                  |
+| Kto                                                                                  | Parę słów o                                                                                                                                                                                              | Rola/obszar                                                                                  |
 | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
 | [Gosia Radymiak](https://www.linkedin.com/in/malgorzata-gosia-radymiak/)             | W tamtym czasie była technical writerką i specjalistką od jakości. Interesowały ją nurkowanie, wędrówki po górach, zapiekanki i DITA.                                                                    | - Project Manager, który spina wszystko w całość <br />- "Driver" projektu                   |
 | [Karolina Karbarz](https://www.linkedin.com/in/karolina-karbarz)                     | Specjalistka od projektowania graficznego, lubiąca ciasta czekoladowe, koreańskie filmy i spacery z czworonogiem.                                                                                        | - Strona Internetowa <br /> - Szata graficzna <br />- Grafiki                                |
@@ -265,8 +268,9 @@ Noz Urbina powrócił z prezentacją, której zarysy również znajdziecie
 Tym razem soap! odbył się w lokalizacji przy Plaży Kraków.
 
 Jak to czasem bywa, nie z winy organizatorów, pojawiły się trudności.
-Wynajmujący zapomniał wspomnieć o dziurze w dachu. Było tak zimno, że uczestnicy
-musieli siedzieć w kurtkach i szalikach, był to w końcu październik.
+Wynajmujący zapomniał wspomnieć o dziurze w dachu. Były problemy z ogrzewaniem
+budynku. Było tak zimno, że uczestnicy musieli siedzieć w kurtkach i szalikach,
+był to w końcu październik.
 
 Mimo takich trudności, morale i poziom merytoryczny wydarzenia były nader
 wysokie.
@@ -356,17 +360,17 @@ atrakcyjność tej konferencji w tamtym czasie:
 
 - Temat przewodni: _Innowacja kontra prostota_.
 
-Wiele rzeczy, które napisałem wcześniej o wysokim poziomie prezentacji,
-przydatnych warsztatach i świetnej atmosferze, również odnoszą się do tej
-edycji.
+Podobnie jak w wielu poprzednich odsłonach, w tej również był Wysoki poziom
+prezentacji, przydatne warsztaty i świetna atmosfera.
 
 Nie mogę nie wspomnieć o klimatycznej strefie chillout w ogródku na tyłach
 Manggha, miejscu relaksu i dobrych rozmów. Po intensywnych prezentacjach dobrze
 było tam się przejść i odetchnąć świeżym powietrzem.
 
 Podkreślę jeden aspekt nieoficjalnej części konferencji, co
-[Michał Skowron](https://www.linkedin.com/in/michalskowron/) trafnie podsumował
-w swojej [relacji](../konferencja-soap-2018-relacja/) z tamtej edycji:
+[Michał Skowron](https://www.linkedin.com/in/michalskowron/), stały bywalec soap!,
+podsumował w swojej [relacji](../konferencja-soap-2018-relacja/) z
+tamtej edycji:
 
 > Konferencja to nie tylko mnóstwo wiedzy, to także sporo dobrej zabawy. Po
 > każdym dniu wykładów mieliśmy okazję rozluźnić się i spędzić miło czas na
@@ -525,17 +529,17 @@ Pomagają prześledzić jak rozwijały się te wydarzenia.
 To szeroka tabela, więc możliwe, że zrobisz użytek z poziomego paska do
 przewijania u dołu.
 
-| Rok  | Miejsce                                           | Temat                         | Ile dni? | Warsztaty                | Speakerzy | Ilu słuchaczy? | Za mikrofonem        | Opcja online? |
-| ---- | ------------------------------------------------- | ----------------------------- | -------- | ------------------------ | --------- | -------------- | -------------------- | ------------- |
-| 2013 | Wyższa Szkoła Europejska im. ks. Józefa Tischnera |                               | 1        | Nie                      |           | 120            |                      | Nie           |
-| 2014 | hub:raum                                          | a clean; start;               | 2        | 3 warsztaty              | 25        | 142, 98        | Paweł                | Nie           |
-| 2015 | Wiem, ale nie powiem!                             |                               | 3        | Nie                      | 17        | 170, 80        | Gabriela Guarana Maj | Nie           |
-| 2016 | Manggha                                           | "My" zamiast "Oni"            | 3        | 5 warsztatów             | 17        | 220, 125       | Gosia                | Nie           |
-| 2017 | Manggha                                           | Rozwiązywanie problemów       | 3        | Tak                      |           |                | Gosia                | Nie           |
-| 2018 | Manggha                                           | Innowacja kontra prostota     | 3        | 10 warsztatów            | 23        |                | Gosia                | Nie           |
-| 2019 | Manggha                                           | Content as Code               | 3        | 6 warsztatów dla 60 osób |           | 200+           | Gosia                | Nie           |
-| 2022 | Manggha                                           | Przyszłość technical writingu | 3        | Tak                      | 21        |                | Agnieszka            | Tak           |
-| 2023 | Manggha                                           | Content Operations            | 3        | Tak                      |           |                | Gosia                | Tak           |
+| Rok  | Miejsce                                           | Temat                         | Ile dni? | Warsztaty                | Mówcy | Ilu słuchaczy? | W roli hosta         | Opcja online? |
+| ---- | ------------------------------------------------- | ----------------------------- | -------- | ------------------------ | ----- | -------------- | -------------------- | ------------- |
+| 2013 | Wyższa Szkoła Europejska im. ks. Józefa Tischnera |                               | 1        | Nie                      |       | 120            | Paweł                | Nie           |
+| 2014 | hub:raum                                          | a clean; start;               | 2        | 3 warsztaty              | 25    | 142, 98        | Paweł                | Nie           |
+| 2015 | Plaża Kraków                                      |                               | 3        | Nie                      | 17    | 170, 80        | Gabriela Guarana Maj | Nie           |
+| 2016 | Manggha                                           | "My" zamiast "Oni"            | 3        | 5 warsztatów             | 17    | 220, 125       | Gosia                | Nie           |
+| 2017 | Manggha                                           | Rozwiązywanie problemów       | 3        | Tak                      |       |                | Gosia                | Nie           |
+| 2018 | Manggha                                           | Innowacja kontra prostota     | 3        | 10 warsztatów            | 23    |                | Gosia                | Nie           |
+| 2019 | Manggha                                           | Content as Code               | 3        | 6 warsztatów dla 60 osób |       | 200+           | Gosia                | Nie           |
+| 2022 | Manggha                                           | Przyszłość technical writingu | 3        | Tak                      | 21    |                | Agnieszka            | Tak           |
+| 2023 | Manggha                                           | Content Operations            | 3        | Tak                      |       |                | Gosia                | Tak           |
 
 ## Wpływ soap! na środowisko skupione wokół komunikacji technicznej
 
@@ -610,8 +614,8 @@ Jakkolwiek patetycznie może to zabrzmieć, soap! był wyjątkowy dzięki ludzio
 którzy go tworzyli i w nim uczestniczyli. Była to przestrzeń na spotkania ludzi
 rozumiejących bolączki dokumentacji, mających ochotę nauczyć się czegoś i
 jednocześnie gotowych przekazać swoją wiedzę i doświadczenia innym. Zachowujemy
-w pamięci naprawdę niezapomniane chwile radości, a czasem olśnienia. soap! zawsze
-kojarzyć mi się będzie z entuzjazmem, zaangażowaniem i niecierpliwym
+w pamięci naprawdę niezapomniane chwile radości, a czasem olśnienia. soap!
+zawsze kojarzyć mi się będzie z entuzjazmem, zaangażowaniem i niecierpliwym
 pałaszowaniem olbrzymich dawek wiedzy.
 
 Jeśli ktoś zauważy w artykule jakiś fakt do poprawki czy uzupełnienia albo
