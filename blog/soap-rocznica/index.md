@@ -260,7 +260,7 @@ Noz Urbina powrócił z prezentacją, której zarysy również znajdziecie
 
 ## Po raz trzeci: 8-9 października 2015
 
-![Na scenie stoi uczestnik i przemawia, a Jadźka rysuje robiąc graphic recording. Widok zachwyconej publiki](images/2015_Patryk_Olczak_Jadzka_Rysuje.jpg)
+![Na scenie stoi uczestnik i przemawia, a Jadźka rysuje robiąc graphic recording. Widok zachwyconej publiki](images/2015_Jadzka_Rysuje.jpg)
 
 **[Piotr Nabielec](https://www.linkedin.com/in/piotrnabielec/) mówi, a
 [Jadźka Rysuje](https://jadzkarysuje.pl/?v=288404204e3d)**.
@@ -368,9 +368,9 @@ Manggha, miejscu relaksu i dobrych rozmów. Po intensywnych prezentacjach dobrze
 było tam się przejść i odetchnąć świeżym powietrzem.
 
 Podkreślę jeden aspekt nieoficjalnej części konferencji, co
-[Michał Skowron](https://www.linkedin.com/in/michalskowron/), stały bywalec soap!,
-podsumował w swojej [relacji](../konferencja-soap-2018-relacja/) z
-tamtej edycji:
+[Michał Skowron](https://www.linkedin.com/in/michalskowron/), stały bywalec
+soap!, podsumował w swojej [relacji](../konferencja-soap-2018-relacja/) z tamtej
+edycji:
 
 > Konferencja to nie tylko mnóstwo wiedzy, to także sporo dobrej zabawy. Po
 > każdym dniu wykładów mieliśmy okazję rozluźnić się i spędzić miło czas na
