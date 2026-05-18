@@ -163,9 +163,11 @@ Udało się nawiązać współpracę z kilkoma sponsorami.
 
 Wodzirejem wydarzenia był Paweł Kowaluk.
 
-Agnieszka Tkaczyk zaprezentowała swój temat i świetnie sobie poradziła mimo
-opornego projektora. (W tej edycji prezentowała, a w następnych jeszcze mocniej
-wpisała się w historię soap!, o czym przeczytacie za chwilę).
+Agnieszka Tkaczyk zaprezentowała swój temat i świetnie sobie wypadła mimo
+opornego projektora. Wywarła tak silne wrażenie, że słuchacze dali jej najwyższe
+noty w głosowaniu na najlepsze wystąpienie. (W tej edycji Agnieszka
+prezentowała, a w następnych jeszcze mocniej wpisała się w historię soap!, o
+czym przeczytacie za chwilę).
 
 Noz Urbina, którego organizatorzy słuchali podczas Congility, na soap! wystąpił
 jako prelegent.
@@ -206,6 +208,9 @@ Planowanie po pracy i czas wolny wypełniony organizacją konferencji to duże
 poświęcenie. Paulina i Paweł czuli się tym zmęczeni i postanowili zrezygnować.
 
 Gosia kontynuowała tę inicjatywę.
+
+(W późniejszych edycjach Paweł udzielał się jako prelegent i trener, Paulina
+wystąpiła podczas ostatniego soap!)
 
 ### Zespół od czasu drugiej edycji
 
@@ -269,10 +274,10 @@ Tym razem soap! odbył się w lokalizacji przy Plaży Kraków.
 
 Jak to czasem bywa, nie z winy organizatorów, pojawiły się trudności.
 Wynajmujący zapomniał wspomnieć o dziurze w dachu. Były problemy z ogrzewaniem
-budynku. Było tak zimno, że uczestnicy musieli siedzieć w kurtkach i szalikach,
-był to w końcu październik.
+budynku. Z powodu zimna, większą część czasu uczestnicy siedzieli w kurtkach i
+szalikach, był to w końcu październik. Kto był, ten wie!
 
-Mimo takich trudności, morale i poziom merytoryczny wydarzenia były nader
+Mimo takich przeciwności, morale i poziom merytoryczny wydarzenia były nader
 wysokie.
 
 Podczas wydarzenia rysowała (dostarczała graphic recording) Jadźka Rysuje o czym
@@ -369,8 +374,8 @@ było tam się przejść i odetchnąć świeżym powietrzem.
 
 Podkreślę jeden aspekt nieoficjalnej części konferencji, co
 [Michał Skowron](https://www.linkedin.com/in/michalskowron/), stały bywalec
-soap!, podsumował w swojej [relacji](../konferencja-soap-2018-relacja/) z tamtej
-edycji:
+soap! jako uczestnik, prelegent i trener, podsumował w swojej
+[relacji](../konferencja-soap-2018-relacja/) z tamtej edycji:
 
 > Konferencja to nie tylko mnóstwo wiedzy, to także sporo dobrej zabawy. Po
 > każdym dniu wykładów mieliśmy okazję rozluźnić się i spędzić miło czas na
@@ -488,6 +493,9 @@ Tym razem Paulina Dygoń, współzałożycielka i inicjatorka pierwszej edycji, 
 raz pierwszy w historii soap! wzięła do ręki mikrofon i przedstawiła swój temat
 "Why a PM is like a DJ".
 
+Iga Koprowska z Soapy Crew również wystąpiła z tematem "Happy ever after: can
+you marry DocOps with DevOps?".
+
 ### soap! box
 
 Podczas tamtej edycji organizatorzy wprowadzili soap! box, czyli drewnianą
@@ -529,17 +537,17 @@ Pomagają prześledzić jak rozwijały się te wydarzenia.
 To szeroka tabela, więc możliwe, że zrobisz użytek z poziomego paska do
 przewijania u dołu.
 
-| Rok  | Miejsce                                           | Temat                         | Ile dni? | Warsztaty                | Mówcy | Ilu słuchaczy? | W roli hosta         | Opcja online? |
+| Rok  | Miejsce                                           | Temat <br /> główny                  | Ile dni? | Warsztaty                | Mówcy | Ilu słuchaczy? | W roli hosta         | Opcja online? |
 | ---- | ------------------------------------------------- | ----------------------------- | -------- | ------------------------ | ----- | -------------- | -------------------- | ------------- |
-| 2013 | Wyższa Szkoła Europejska im. ks. Józefa Tischnera |                               | 1        | Nie                      |       | 120            | Paweł                | Nie           |
+| 2013 | Wyższa Szkoła Europejska im. ks. Józefa Tischnera |                               | 1        | Nie                      | 8     | 120            | Paweł                | Nie           |
 | 2014 | hub:raum                                          | a clean; start;               | 2        | 3 warsztaty              | 25    | 142, 98        | Paweł                | Nie           |
 | 2015 | Plaża Kraków                                      |                               | 3        | Nie                      | 17    | 170, 80        | Gabriela Guarana Maj | Nie           |
 | 2016 | Manggha                                           | "My" zamiast "Oni"            | 3        | 5 warsztatów             | 17    | 220, 125       | Gosia                | Nie           |
-| 2017 | Manggha                                           | Rozwiązywanie problemów       | 3        | Tak                      |       |                | Gosia                | Nie           |
+| 2017 | Manggha                                           | Rozwiązywanie problemów       | 3        | 6 warsztatów                      | 27    |                | Gosia                | Nie           |
 | 2018 | Manggha                                           | Innowacja kontra prostota     | 3        | 10 warsztatów            | 23    |                | Gosia                | Nie           |
-| 2019 | Manggha                                           | Content as Code               | 3        | 6 warsztatów dla 60 osób |       | 200+           | Gosia                | Nie           |
-| 2022 | Manggha                                           | Przyszłość technical writingu | 3        | Tak                      | 21    |                | Agnieszka            | Tak           |
-| 2023 | Manggha                                           | Content Operations            | 3        | Tak                      |       |                | Gosia                | Tak           |
+| 2019 | Manggha                                           | Content as Code               | 3        | 6 warsztatów dla 60 osób | 25    | 200+           | Gosia                | Nie           |
+| 2022 | Manggha                                           | Przyszłość technical writingu | 3        | 5 warsztatów                      | 21    |                | Agnieszka            | Tak           |
+| 2023 | Manggha                                           | Content Operations            | 3        | 3 warsztaty                      | 25    |                | Gosia                | Tak           |
 
 ## Wpływ soap! na środowisko skupione wokół komunikacji technicznej
 
