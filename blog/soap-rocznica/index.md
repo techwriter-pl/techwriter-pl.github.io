@@ -539,7 +539,7 @@ przewijania u dołu.
 
 | Rok  | Miejsce                                           | Temat <br /> główny                  | Ile dni? | Warsztaty                | Mówcy | Ilu słuchaczy? | W roli hosta         | Opcja online? |
 | ---- | ------------------------------------------------- | ----------------------------- | -------- | ------------------------ | ----- | -------------- | -------------------- | ------------- |
-| 2013 | Wyższa Szkoła Europejska im. ks. Józefa Tischnera |                               | 1        | Nie                      | 8     | 120            | Paweł                | Nie           |
+| 2013 | Wyższa Szkoła Europejska |                               | 1        | Nie                      | 8     | 120            | Paweł                | Nie           |
 | 2014 | hub:raum                                          | a clean; start;               | 2        | 3 warsztaty              | 25    | 142, 98        | Paweł                | Nie           |
 | 2015 | Plaża Kraków                                      |                               | 3        | Nie                      | 17    | 170, 80        | Gabriela Guarana Maj | Nie           |
 | 2016 | Manggha                                           | "My" zamiast "Oni"            | 3        | 5 warsztatów             | 17    | 220, 125       | Gosia                | Nie           |
