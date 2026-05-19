@@ -1,7 +1,7 @@
 ---
 title: 'Śladami soap! Dziesięć lat inspiracji.'
 authors: niewiarowski
-date: '2026-05-20'
+date: '2026-05-29'
 tags:
   - 'społeczność'
   - 'z-kraju'
@@ -77,7 +77,7 @@ jakości.
 Członkowie zespołu mieli dużo pytań na temat nowego narzędzia, migracji do niego
 i wyzwań technicznych. Razem doszli do wniosku:
 
-> Niemożliwe, żebyśmy jako jedyni spotkalismy sie z tymi problemami, ktoś już
+> Niemożliwe, żebyśmy jako jedyni spotkalismy sie z tymi problemami. Ktoś już
 > wcześniej musiał to rozgryźć.
 
 Z tego powodu właśnie pojechali we trójkę do Londynu na trzydniową konferencję
@@ -177,7 +177,7 @@ momentach można zobaczyć hart ducha, pomysłowość i gotowość do poświęce
 
 ![Piter, Agnieszka i uczestnicy podczas przerwy na pierwszej konferencji.](images/converstations.jpg)
 
-**Piter, Agnieszka i uczestnicy.**
+**Agnieszka, Piter i uczestnicy.**
 
 ## Po pierwszym soap!
 
@@ -209,7 +209,7 @@ poświęcenie. Paulina i Paweł czuli się tym zmęczeni i postanowili zrezygnow
 Gosia kontynuowała tę inicjatywę.
 
 (W późniejszych edycjach Paweł udzielał się jako prelegent i trener, Paulina
-wystąpiła podczas ostatniego soap!)
+wystąpiła podczas ostatniego soap!).
 
 ### Zespół od czasu drugiej edycji
 
@@ -227,7 +227,7 @@ Piter i jego technologiczne centrum kontroli wszechświata:
 
 ![Wiele laptopów potrzebnych podczas konferencji](images/laptopy.jpg)
 
-> Don't be too proud of the technological terror, you have constructed!
+> Don't be too proud of this technological terror you've constructed!
 
 > **Lord Vader**
 
@@ -250,12 +250,6 @@ Ekipa postanowiła zmienić miejsce z powodu ograniczeń wcześniejszej lokaliza
 Wybrali klimatyczny budynek dawnej fabryki kabli, który został zaadaptowany na
 przestrzenie biurowe.
 
-Po raz pierwszy uczestnicy mogli wziąć udział w warsztatach.
-
-Była to jedyna odsłona, podczas której można było wybierać między dwiema
-ścieżkami prezentacji odbywającymi się w tym samym czasie. Ścieżka 1 nazywała
-się "sponge", a ścieżka 2 - "bubbles" 😀.
-
 Paweł pełnił rolę konferansjera. Całe wydarzenie rozpoczęło się od jego mowy
 otwierającej, której zarys możecie przeczytać w
 [relacji](https://techwriter.pl/mydlo-lubi-zabawe/#zacz%C4%99%C5%82o-si%C4%99).
@@ -263,10 +257,17 @@ otwierającej, której zarys możecie przeczytać w
 Pierwszy, darmowy dzień konferencji przyciągnął 142 uczestników, a drugi płatny
 dzień - 98.
 
+Po raz pierwszy uczestnicy mogli wziąć udział w warsztatach.
+
+Była to jedyna odsłona, podczas której można było wybierać między dwiema
+ścieżkami prezentacji odbywającymi się w tym samym czasie. Ścieżka 1 nazywała
+się "sponge" 🧽, a ścieżka 2 - "bubbles" 🫧 😀.
+
 Noz Urbina powrócił z prezentacją, której zarysy również znajdziecie
 [tutaj](https://techwriter.pl/soap-2014-summary-of-day-2/#find-a-common-language).
 
-Agnieszka Tkaczyk przedstawiła publice użyteczne informacje o stosowaniu infografik.
+Agnieszka Tkaczyk przedstawiła publice użyteczne informacje o stosowaniu
+infografik.
 
 Unikatową atrakcją było stanowisko z dwiema drukarkami 3D. Był to w tamtych
 czasach nowoczesny i innowacyjny sprzęt.
@@ -275,7 +276,7 @@ czasach nowoczesny i innowacyjny sprzęt.
 
 Zrobiono z tych drukarek właściwy użytek:
 
-![Niebieskie mydlo wydrukowane w 3D.](images/mydlo.jpg)
+![Niebieskie mydło wydrukowane w 3D.](images/mydlo.jpg)
 
 ## Po raz trzeci: 8-9 października 2015
 
@@ -456,8 +457,8 @@ wytworzyć przez lata. Stale byli wyczuleni na uwagi odwiedzających.
 - Tematem wiodącym była _przyszłość technical writingu_. Temat AI cieszył się
   gorącym zainteresowaniem.
 
-Znakiem czasu było to, że była to pierwsza edycja, którą można było oglądać w
-ramach transmisji online.
+Znakiem czasu było to, że była to pierwsza edycja dostępna w ramach transmisji
+online.
 
 ### Ile masła może kupić tech writer z Litwy?
 
@@ -507,8 +508,8 @@ Tym razem Paulina Dygoń, współzałożycielka i inicjatorka pierwszej edycji, 
 raz pierwszy w historii soap! wzięła do ręki mikrofon i przedstawiła swój temat
 "Why a PM is like a DJ".
 
-Iga Koprowska z Soapy Crew również wystąpiła z tematem "Happy ever after: can
-you marry DocOps with DevOps?".
+Iga Koprowska z Soapy Crew wystąpiła z tematem "Happy ever after: can you marry
+DocOps with DevOps?".
 
 ### soap! box
 
@@ -548,8 +549,8 @@ szybko i żyć w pełnym blasku i chwale!
 Tutaj gratka dla miłośników tabelek z danymi. Te liczby też opowiadają historię!
 Pomagają prześledzić jak rozwijały się te wydarzenia.
 
-To szeroka tabela, więc możliwe, że zrobisz użytek z poziomego paska do
-przewijania u dołu.
+To szeroka tabela, u jej dołu znajdziesz pasek do
+przewijania na boki.
 
 | Rok  | Miejsce                  | Temat <br /> główny           | Ile dni? | Warsztaty                | Mówcy | Ilu słuchaczy? | W roli hosta         | Opcja online? |
 | ---- | ------------------------ | ----------------------------- | -------- | ------------------------ | ----- | -------------- | -------------------- | ------------- |
