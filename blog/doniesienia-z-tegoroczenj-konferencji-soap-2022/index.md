@@ -1,6 +1,6 @@
 ---
 title: 'Doniesienia z konferencji soap! 2022'
-authors: toporek
+authors: ['toporek', 'niewiarowski']
 date: '2022-07-17'
 tags:
   - 'news'

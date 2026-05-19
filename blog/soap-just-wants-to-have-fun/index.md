@@ -24,9 +24,9 @@ terrier, a scooter, coffee, and a selfie in a bathroom all have in common?
 <!--truncate-->
 
 At first glance, it might be hard to see any connection whatsoever. Yet, the
-participants of this year’s [soap!](http://soapconf.com/) conference know all
-too well what connects these dots. For those who do not know, further reading
-should shed some light on this mysterious compilation, so do continue.
+participants of this year’s soap! conference know all too well what connects
+these dots. For those who do not know, further reading should shed some light on
+this mysterious compilation, so do continue.
 
 soap! 2014 took place at [hub:raum](https://www.hubraum.com/), a venue located
 on 12 Przemysłowa Street in Kraków. What used to be a cable factory is now
@@ -58,29 +58,29 @@ and it corresponded well with the overall vibe of the conference.
 
 ### Let’s Start!
 
-One of the soap!’s co-founders, [Paweł Kowaluk](http://soapconf.com/team/) took
-the floor, as it fell to him to deliver the opening talk for soap! 2014. This
-year edition’s tagline was “a clean start”. Paweł illustrated this idea to the
-conference participants along with a quick summary of contemporary trends in the
-technical communication area. The tech-comm scene in Poland is still in its
-infancy and it’s up to us what shape and form it will take in the near future.
-This is not an easy task, as there is barely anything to build on. However, as
-Paweł tried to convince his audience, this is actually a good thing, because
-without all the unnecessary baggage of the past, we can shape the Polish
-technical communication in any way we want. After that, Paweł moved on to
-discuss various directions the technical documentation is heading to. According
-to him, it’s main focus should be on the client instead of the product. The
-users expect information, that will allow them to quickly start using the
-product, that will display only when needed, and is easily searchable. Paweł
-even risked a thesis, that sometimes products could do without any documentation
-whatsoever. As an example, he provided the developers of the
-[Omnipaste application](https://www.omnipasteapp.com/). They have set themselves
-a goal to create a user interface so clear and intuitive to use, that it didn’t
-require any conventional documentation. Instead, they have embedded short
-multimedia presentations into the product website itself, that concisely
-illustrate the capabilities of their product. Surely it is an interesting
-approach and although it cannot be applied in complicated business products, one
-should not forget that voluminous user manuals aren’t always the best solution.
+One of the soap!’s co-founders, Paweł Kowaluk took the floor, as it fell to him
+to deliver the opening talk for soap! 2014. This year edition’s tagline was “a
+clean start”. Paweł illustrated this idea to the conference participants along
+with a quick summary of contemporary trends in the technical communication area.
+The tech-comm scene in Poland is still in its infancy and it’s up to us what
+shape and form it will take in the near future. This is not an easy task, as
+there is barely anything to build on. However, as Paweł tried to convince his
+audience, this is actually a good thing, because without all the unnecessary
+baggage of the past, we can shape the Polish technical communication in any way
+we want. After that, Paweł moved on to discuss various directions the technical
+documentation is heading to. According to him, it’s main focus should be on the
+client instead of the product. The users expect information, that will allow
+them to quickly start using the product, that will display only when needed, and
+is easily searchable. Paweł even risked a thesis, that sometimes products could
+do without any documentation whatsoever. As an example, he provided the
+developers of the [Omnipaste application](https://www.omnipasteapp.com/). They
+have set themselves a goal to create a user interface so clear and intuitive to
+use, that it didn’t require any conventional documentation. Instead, they have
+embedded short multimedia presentations into the product website itself, that
+concisely illustrate the capabilities of their product. Surely it is an
+interesting approach and although it cannot be applied in complicated business
+products, one should not forget that voluminous user manuals aren’t always the
+best solution.
 
 ### Meanwhile in the Bathroom
 
@@ -140,3 +140,12 @@ Cindy Lauper once sang that ‘Girls Just Want To Have Fun’, well, now we know
 that soap! wants it too! We will definitely come back next year.
 
 Translated: Piotr Milewski Proofread: Paweł Kowaluk
+
+### Related articles
+
+- [soap! 2014: Mydło lubi zabawę](../mydlo-lubi-zabawe/index.md)
+- [soap! 2014: Relacja z pierwszego dnia](../soap-2014-relacja-z-pierwszego-dnia/index.md)
+- [soap! 2014: Relacja z drugiego dnia](../soap-2014-relacja-z-drugiego-dnia/index.md)
+
+- [soap! 2014: Day 1](../soap-2014-summary-of-day-1/index.md)
+- [soap! 2014: Day 2](../soap-2014-summary-of-day-2/index.md)

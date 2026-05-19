@@ -23,14 +23,14 @@ published some time ago. Enjoy!
 
 After our general summary, it’s time to get down to the nitty-gritty. Today we
 are providing you with a short overview of the presentations that were delivered
-during the first day of [the soap! 2014 conference](http://soapconf.com/).
+during the first day of the soap! 2014 conference.
 
 ![soap! 2014 audience](images/DSC6686-1024x489.jpg)
 
 ### Games not only for kids
 
 The honour of warming up the audience fell to
-[Monika Konieczny](http://soapconf.com/speakers/). She started her presentation
+Monika Konieczny. She started her presentation
 with a story about a cat called Teodor who wanted to help its owner and do the
 laundry. For a moment we were wondering where the story was going. The finale
 was quite drastic because Teodor almost died buried under a voluminous and
@@ -66,7 +66,7 @@ the well-known Clippy from MS Office, and the
 
 ### Plenty is sometimes a plague
 
-As we were told by [Kasia Mrowca](http://soapconf.com/speakers/), the same is
+As we were told by Kasia Mrowca, the same is
 the case for a surplus of functions in an application. Clients always want to
 add many new functionalities to their app. Before we satisfy their needs, we
 should stop for a moment and think where their requirements come from. Sometimes
@@ -91,15 +91,14 @@ want to have the application immediately.
 
 ### Learning by entertaining
 
-E-learning, like life, is all about choices. Not to waste words,
-[Sabina Misiarz-Filipek](http://soapconf.com/speakers/) started her presentation
-with a video that was divided into parts. After each part we had to choose what
-should happen next thus deciding how the story developed. Unfortunately, we
-killed the main hero. However, this wasn’t the most important thing. What really
-mattered was that we could learn without feeling bored. Before we start creating
-a training we need to specify the target audience and the level of their
-computer literacy as it impacts how they will feel during the course. Sabina
-referred to, among others,
+E-learning, like life, is all about choices. Not to waste words, Sabina
+Misiarz-Filipek started her presentation with a video that was divided into
+parts. After each part we had to choose what should happen next thus deciding
+how the story developed. Unfortunately, we killed the main hero. However, this
+wasn’t the most important thing. What really mattered was that we could learn
+without feeling bored. Before we start creating a training we need to specify
+the target audience and the level of their computer literacy as it impacts how
+they will feel during the course. Sabina referred to, among others,
 [the ARCS didactic model](http://www.learning-theories.com/kellers-arcs-model-of-motivational-design.html).
 The main factor which keeps the users’ attention during the training is their
 motivation. It’s also important how relevant to them are the skills that they
@@ -120,7 +119,7 @@ situations that we can encounter in everyday life.
 ### The power of the diagram
 
 It has long been known that “a picture is worth a thousand words.” This old
-truth was demonstrated by [Kevin Duncan](http://soapconf.com/speakers/), who
+truth was demonstrated by Kevin Duncan, who
 showed how to skilfully use diagrams to make stories we tell more interesting
 and concise. One such method is the “whittling wedge”. We start from a wide
 range of options, approximately 10, then narrow the choice down to around 3
@@ -149,15 +148,15 @@ isn't out of place during a presentation 😉
 ### Valuable experience
 
 Unfortunately, the last presentation wasn’t utterly clear, at least for us.
-[Rajeev Kumar Tiwari and Rajesh Khurana](http://soapconf.com/speakers/) couldn’t
-come to Krakow and so they presented remotely. It considerably affected the
-level of understanding the speakers who talked about user experience. They
-started with explaining that UX is a very broad term that can’t be defined in a
-few words. It's a cross-discipline into which companies need to invest to be
-able to develop. It isn’t a layer or a component of a product but its integral
-part that isn’t limited to a particular technology. Then, the speakers presented
-the process of creating user experience and showed how the role of a technical
-writer changed in that process.
+Rajeev Kumar Tiwari and Rajesh Khurana couldn’t come to Krakow and so they
+presented remotely. It considerably affected the level of understanding the
+speakers who talked about user experience. They started with explaining that UX
+is a very broad term that can’t be defined in a few words. It's a
+cross-discipline into which companies need to invest to be able to develop. It
+isn’t a layer or a component of a product but its integral part that isn’t
+limited to a particular technology. Then, the speakers presented the process of
+creating user experience and showed how the role of a technical writer changed
+in that process.
 
 ![SoapRajeevRajesh](images/SoapRajeevRajesh.jpg)
 

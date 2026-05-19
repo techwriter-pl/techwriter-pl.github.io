@@ -17,7 +17,7 @@ redakcyjny kolega – Paweł Kowaluk.
 
 <!--truncate-->
 
-MeetContent wyrósł na podwórku [soap!](http://soapconf.com/), na początku
+MeetContent wyrósł na podwórku soap!, na początku
 spotkania nie mogło więc zabraknąć wzmianki o tegorocznej, piątej już edycji
 konferencji, o której pisaliśmy kilka dni temu.
 

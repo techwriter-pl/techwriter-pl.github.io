@@ -15,7 +15,7 @@ coverImage: 'IMG_20180525_103253.jpg'
 ---
 
 W dniach 23-25 maja w Muzeum Sztuki Japońskiej Manggha w Krakowie odbyła się już
-po raz szósty [konferencja soap!](http://soapconf.com/). W tym roku również
+po raz szósty konferencja soap!. W tym roku również
 mieliśmy przyjemność sprawować patronat medialny nad tym wydarzeniem, dlatego
 nie mogło nas tam zabraknąć.
 
