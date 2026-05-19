@@ -125,7 +125,7 @@ To może wskazywać na popularność naszego portalu w tym regionie, ale prawdą
 też, że większość inicjatyw związanych z branżą zdaje się koncentrować w tym
 obszarze. Mamy tutaj między innymi:
 
-- [Konferencję soap!](http://soapconf.com/)
+- Konferencję soap!
 - [Spotkania MeetContentKRK](http://meetcontent.org/)
 - [Polską grupę użytkowników MadCap Flare](https://web.facebook.com/groups/PLFUG)
 - Większość redakcji techwriter.pl

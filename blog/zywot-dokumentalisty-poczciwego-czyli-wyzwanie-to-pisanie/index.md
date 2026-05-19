@@ -37,7 +37,7 @@ otwartych drzwi". Korzystajmy ile się da z doświadczenia kolegów i koleżanek
 fachu. Czytajmy blogi i literaturę branżową. Bierzmy udział w konferencjach. Na
 szczęście istnieją ludzie, którzy chcą rozkręcić komunikację techniczną w naszym
 kraju, np. nasi "mydlani" przyjaciele, którzy w tym roku organizują już po raz
-drugi konferencję [soap!](http://soapconf.com/).
+drugi konferencję soap!.
 
 ### Miękkie serce i twarda...
 

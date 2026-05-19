@@ -162,8 +162,8 @@ Do tego dochodzą wszystkie nieformalne źródła wiedzy czyli literatura fachow
 (przeważnie zagraniczna), blogi (też głównie anglojęzyczne). W Polsce mamy też
 portal: [Techwriter.pl](http://techwriter.pl/) 😉, meetupy, na przykład
 [MeetContent](http://meetcontent.org/). Co roku odbywała się też jedyna duża
-polska konferencja techcomowa [Soap](http://soapconf.com/). Podcasty, głównie
-zagraniczne, choć należy wspomnieć, że Michał i Paweł prowadzą
+polska konferencja techcomowa soap!. Podcasty, głównie zagraniczne, choć należy
+wspomnieć, że Michał i Paweł prowadzą
 [Tech Writer Koduje](https://techwriterkoduje.pl/) - jedyny podcast z
 komunikacji technicznej po polsku.
 
