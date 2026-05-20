@@ -166,10 +166,11 @@ Wodzirejem wydarzenia był Paweł Kowaluk.
 Tematyka była przekrojowa i nie było ustalonego tematu przewodniego, który by
 wszystkie wystąpienia spinał razem.
 
-Agnieszce Tkaczyk oporny projektor nie przeszkodził zaprezentować tematu na
-należytym poziomie, który zapewnił jej najwyższe noty w głosowaniu na najlepsze
-wystąpienie. (W tej edycji Agnieszka prezentowała, a w następnych jeszcze
-mocniej wpisała się w historię soap!, o czym przeczytacie za chwilę).
+Agnieszce Tkaczyk oporny projektor nie przeszkodził zaprezentować swojego tematu
+na należytym poziomie. Wrażenie wywarte na słuchaczach zapewniło najwyższe noty
+w głosowaniu na najlepsze wystąpienie. (W tej edycji Agnieszka prezentowała, a w
+następnych jeszcze mocniej wpisała się w historię soap!, o czym przeczytacie za
+chwilę).
 
 Noz Urbina, którego organizatorzy słuchali podczas Congility, na soap! wystąpił
 jako prelegent.
