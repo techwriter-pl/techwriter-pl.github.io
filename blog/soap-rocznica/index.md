@@ -420,9 +420,8 @@ jak kod?
 
 Jakie są zalety i wady takiego podejścia i co ono oznacza dla różnych osób?
 
-Te i inne zagadnienia przyciągnęły wtedy rekordową liczbę uczestników. Było to
-grubo ponad 200 osób. Jak bardzo grubo? Tego nie wiem, nie udało mi się
-dokładnie ustalić.
+Te i inne zagadnienia przyciągnęły wtedy rekordową liczbę uczestników.
+Frekwencja wyniosła ponad 210 osób, co stanowiło znakomity wynik.
 
 Przy tej okazji też podkreślę międzynarodowy charakter imprezy. W roku 20**19**
 konferencję odwiedziły osoby z **19** krajów.
@@ -442,7 +441,7 @@ Zapraszam do obejrzenia.
 
 **Stworzone w Gemini**.
 
-W edycji z czerwca 2019 odnotowano największą liczbę uczestników.
+W edycji z czerwca 2019 odnotowano bardzo wysoką liczbę uczestników.
 
 W 2020 nastała pandemia, która, podobnie jak w wielu innych obszarach życia,
 wszystko zmieniła i sporo namieszała.
