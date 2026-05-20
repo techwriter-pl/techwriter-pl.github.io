@@ -163,6 +163,9 @@ Udało się nawiązać współpracę z kilkoma sponsorami.
 
 Wodzirejem wydarzenia był Paweł Kowaluk.
 
+Tematyka była przekrojowa i nie było ustalonego tematu przewodniego, który by
+wszystkie wystąpienia spinał razem.
+
 Agnieszce Tkaczyk oporny projektor nie przeszkodził zaprezentować tematu na
 należytym poziomie, który zapewnił jej najwyższe noty w głosowaniu na najlepsze
 wystąpienie. (W tej edycji Agnieszka prezentowała, a w następnych jeszcze
@@ -246,11 +249,17 @@ Grupa jest znana pod pseudonimem scenicznym: "Soapy Crew".
 
 - Temat przewodni: _a clean; start;_
 
+Poruszane tematy wiązały się z różnymi aspektami rozwijania produktów
+przyciągając specjalistów z wielu dziedzin, takich jak: UX, UI, marketing,
+biznes, programowanie, technical writing. Wszystkim tym osobom zależy na dobrym
+contencie i tworzeniu wspaniałych produktów. Każda z tych osób wyniosła świeże,
+szersze spojrzenie na uczestniczenie we własnych projektach.
+
 Ekipa postanowiła zmienić miejsce z powodu ograniczeń wcześniejszej lokalizacji.
 Wybrali klimatyczny budynek dawnej fabryki kabli, który został zaadaptowany na
 przestrzenie biurowe.
 
-Paweł pełnił rolę konferansjera. Całe wydarzenie rozpoczęło się od jego mowy
+Rolę konferansjera pełnił Paweł. Całe wydarzenie rozpoczęło się od jego mowy
 otwierającej, której zarys możecie przeczytać w
 [relacji](https://techwriter.pl/mydlo-lubi-zabawe/#zacz%C4%99%C5%82o-si%C4%99).
 
@@ -549,20 +558,19 @@ szybko i żyć w pełnym blasku i chwale!
 Tutaj gratka dla miłośników tabelek z danymi. Te liczby też opowiadają historię!
 Pomagają prześledzić jak rozwijały się te wydarzenia.
 
-To szeroka tabela, u jej dołu znajdziesz pasek do
-przewijania na boki.
+To szeroka tabela, u jej dołu znajdziesz pasek do przewijania na boki.
 
-| Rok  | Miejsce                  | Temat <br /> główny           | Ile dni? | Warsztaty                | Mówcy | Ilu słuchaczy? | W roli hosta         | Opcja online? |
-| ---- | ------------------------ | ----------------------------- | -------- | ------------------------ | ----- | -------------- | -------------------- | ------------- |
-| 2013 | Wyższa Szkoła Europejska |                               | 1        | Nie                      | 8     | 120            | Paweł                | Nie           |
-| 2014 | hub:raum                 | a clean; start;               | 2        | 3 warsztaty              | 25    | 142, 98        | Paweł                | Nie           |
-| 2015 | Plaża Kraków             |                               | 3        | Nie                      | 17    | 170, 80        | Gabriela Guarana Maj | Nie           |
-| 2016 | Manggha                  | "My" zamiast "Oni"            | 3        | 5 warsztatów             | 17    | 220, 125       | Gosia                | Nie           |
-| 2017 | Manggha                  | Rozwiązywanie problemów       | 3        | 6 warsztatów             | 27    |                | Gosia                | Nie           |
-| 2018 | Manggha                  | Innowacja kontra prostota     | 3        | 10 warsztatów            | 23    |                | Gosia                | Nie           |
-| 2019 | Manggha                  | Content as Code               | 3        | 6 warsztatów dla 60 osób | 25    | 200+           | Gosia                | Nie           |
-| 2022 | Manggha                  | Przyszłość technical writingu | 3        | 5 warsztatów             | 21    |                | Agnieszka            | Tak           |
-| 2023 | Manggha                  | Content Operations            | 3        | 3 warsztaty              | 25    |                | Gosia                | Tak           |
+| Rok  | Miejsce                  | Temat <br /> główny           | Ile dni? | Warsztaty                  | Mówcy                 | Ilu słuchaczy? | W roli hosta         | Opcja online? |
+| ---- | ------------------------ | ----------------------------- | -------- | -------------------------- | --------------------- | -------------- | -------------------- | ------------- |
+| 2013 | Wyższa Szkoła Europejska |                               | 1        | Nie                        | 8                     | 120            | Paweł                | Nie           |
+| 2014 | hub:raum                 | a clean; start;               | 2        | 3 warsztaty                | 25 osób (18 wykładów) | 160, 100       | Paweł                | Nie           |
+| 2015 | Plaża Kraków             |                               | 3        | Nie                        | 17                    | 170, 80        | Gabriela Guarana Maj | Nie           |
+| 2016 | Manggha                  | "My" zamiast "Oni"            | 3        | 5 warsztatów               | 17                    | 220, 125       | Gosia                | Nie           |
+| 2017 | Manggha                  | Rozwiązywanie problemów       | 3        | 6 warsztatów dla 42 osób   | 27 osób (22 wykłady)  | 160            | Gosia                | Nie           |
+| 2018 | Manggha                  | Innowacja kontra prostota     | 3        | 10 warsztatów dla 60+ osób | 23                    | 170            | Gosia                | Nie           |
+| 2019 | Manggha                  | Content as Code               | 3        | 6 warsztatów dla 60 osób   | 25 osób (21 wykładów) | 210+           | Gosia                | Nie           |
+| 2022 | Manggha                  | Przyszłość technical writingu | 3        | 5 warsztatów               | 21                    |                | Agnieszka            | Tak           |
+| 2023 | Manggha                  | Content Operations            | 3        | 3 warsztaty                | 25                    |                | Gosia                | Tak           |
 
 ## Wpływ soap! na środowisko skupione wokół komunikacji technicznej
 
