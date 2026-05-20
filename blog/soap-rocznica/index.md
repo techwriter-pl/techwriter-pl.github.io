@@ -288,6 +288,8 @@ Zrobiono z tych drukarek właściwy użytek:
 
 ![Niebieskie mydło wydrukowane w 3D.](images/mydlo.jpg)
 
+Kto chce, może zobaczyć podsumowanie edycji w formie [klipu video](https://youtu.be/4nY_kCnYwH0?si=aE2jsBwp63RUTkOo).
+
 ## Po raz trzeci: 8-9 października 2015
 
 ![Na scenie stoi uczestnik i przemawia, a Jadźka rysuje robiąc graphic recording. Widok zachwyconej publiki](images/2015_Jadzka_Rysuje.jpg)
@@ -331,6 +333,8 @@ dla wdrażania produktu i zapewnienia tego, że użytkownicy wykorzystują jego
 pełen potencjał.
 
 Konferencję poprzedzało pięć warsztatów w ramach Content Edu Summit.
+
+Kto chce, może zobaczyć podsumowanie edycji w formie [klipu video](https://youtu.be/rc-MeNW2U6M?si=A9asKSsAUxfLGDf2).
 
 ### Nowa lokalizacja: Manggha
 
@@ -384,6 +388,8 @@ atrakcyjność tej konferencji w tamtym czasie:
 > tech commowej mapie Europy, jednocześnie nie zatracając atmosfery wydarzenia
 > organizowanego przez paczkę przyjaciół.
 
+Dla chętnych: podsumowanie edycji w formie [klipu video](https://youtu.be/Zi_PfEf7tQE?si=WgExPK711W8lW9nJ).
+
 ## Po raz szósty: 23-25 maja 2018
 
 ![Uczestnicy podczas przerwy w ogródku na rozmowach. Widok z większej odległości z góry, pod kątem.](images/2018_garden.jpg)
@@ -409,6 +415,8 @@ soap! jako uczestnik, prelegent i trener, podsumował w swojej
 > dobrego piwa. Podczas nieoficjalnej części jak zwykle panowała luźna atmosfera
 > i widać było, że wszyscy dobrze się bawili.
 
+Kto chce, może zobaczyć podsumowanie edycji w formie [klipu video](https://youtu.be/FCZpPW1vlaw?si=6gy2B5uDfK4dm4d2).
+
 ## Po raz siódmy: 5-7 czerwca 2019
 
 ![Michał Skowron i Paweł Kowaluk prezentują temat na scenie soap!. W tle prezentacja.](images/2019_michal_pawel.jpg)
@@ -431,9 +439,9 @@ Australia, Czechy, Niemcy, Finlandia, Francja, Węgry, Izrael, Malta, Malezja,
 Ukraina, USA i Wielka Brytania, którzy reprezentowali ponad 100 firm. Podobnie
 sytuacja się miała w wielu wcześniejszych edycjach.
 
-Ciekawą pamiątką po tym odcinku jest
+Dla chętnych: 
 [podsumowanie video](https://www.youtube.com/watch?v=teA3well1ek&list=PLUY0lajb-kiaIbF6clQaxTp2lwqmrDDC5).
-Zapraszam do obejrzenia.
+
 
 ## Przerwa z powodu pandemii 2020-2021
 
@@ -631,8 +639,8 @@ edycji minęło 10 lat, a momencie pisania tego artykułu - 12.
 
 Są to lata wielkiego wysiłku i dynamicznego rozwoju całej społeczności.
 
-Serdecznie dziękujemy ekipie organizującej te cudowne wydarzenia i dla
-wszystkich jej uczestników. Warto było dzielić te doświadczenia, za które
+Serdecznie dziękujemy ekipie organizującej te cudowne wydarzenia i 
+wszystkim jej uczestnikom. Warto było dzielić te doświadczenia, za które
 jesteśmy niezmiernie wdzięczni.
 
 Jak to kiedyś określił Michał Skowron:
