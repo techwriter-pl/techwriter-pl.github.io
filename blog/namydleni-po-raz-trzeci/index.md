@@ -148,7 +148,7 @@ Na zakończenie pierwszego dnia przez 15 minut mikrofon był dostępny dla
 wszystkich, którzy chcieli się czymś podzielić z innymi uczestnikami
 konferencji.
 
-[**Ray Gallon**](speaker/) skorzystał z okazji i ogłosił, że zaangażował się w
+**Ray Gallon** skorzystał z okazji i ogłosił, że zaangażował się w
 inicjatywę o nazwie
 [ARIP (Augmented Reality in Information Products)](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=arip),
 której przewodzi konsorcjum [OASIS](https://pl.wikipedia.org/wiki/OASIS). Mówił
