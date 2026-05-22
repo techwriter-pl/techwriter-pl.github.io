@@ -12,13 +12,12 @@ coverImage: 'soap_coffee-e1445236483405.jpg'
 ---
 
 Po ogólnym [podsumowaniu](../namydleni-po-raz-trzeci/index.md) tegorocznej
-edycji [soap!](http://soapconf.com/), przedstawiamy skrótowo wybrane przez nas
-prezentacje.
+edycji soap!, przedstawiamy skrótowo wybrane przez nas prezentacje.
 
 <!--truncate-->
 
 Pełna lista prezentacji z pierwszego i drugiego dnia, dostępna jest na
-[stronie konferecji](http://soapconf.com/schedule/).
+stronie konferecji.
 
 Jeśli zamiast streszczenia wolicie krótkie mądrości wyciągnięte z prezentacji,
 polecamy prześledzenie wpisów na Twitterze oznaczonych hashtagiem
@@ -31,9 +30,8 @@ znaleźć obszerną
 
 ## **Beacony atakują**
 
-**[Marcin Kasz](http://soapconf.com/speaker/)** swoją prezentacją pt. **“Content
-Converts - How to Put Beacons to Work”** wprowadzał nas w świat beaconów. Na
-początku wyjaśnił, że
+Marcin Kasz swoją prezentacją pt. **“Content Converts - How to Put Beacons to
+Work”** wprowadzał nas w świat beaconów. Na początku wyjaśnił, że
 [beacon](http://stylzycia.newsweek.pl/beacon-co-to-takiego-i-do-czego-sie-go-uzywa,artykuly,364514,1.html)
 to urządzenie radiowe, które transmituje ID i powoduje wyświetlenie połączonej z
 nim treści na urządzeniu (np. smartfonie), które komunikuje się z beaconem i ma
@@ -69,10 +67,9 @@ https://twitter.com/kmdk/status/652025818990931968
 
 ## **Być jak Spielberg**
 
-**[Anton Bollen](http://soapconf.com/speaker/)** w trakcie prezentacji
-zatytułowanej **“What Makes a Video Effective? A Look into the Expectations and
-Behaviors of Viewers”** mówił o dobrych praktykach związanych z tworzeniem
-różnego rodzaju filmów.
+Anton Bollen w trakcie prezentacji zatytułowanej **“What Makes a Video
+Effective? A Look into the Expectations and Behaviors of Viewers”** mówił o
+dobrych praktykach związanych z tworzeniem różnego rodzaju filmów.
 
 Firma, w której pracuje przeprowadziła badanie na 1900 osobach w przedziale
 wiekowym od 15-65 lat, pracujących w różnych przemysłach. Około ⅓ uczestników
@@ -115,12 +112,11 @@ https://twitter.com/RayGallon/status/652042813106950144
 
 ## **Wyzwanie to globalne treści rozwijanie**
 
-**[Johann Laville i Piotr Peszko](http://soapconf.com/speaker/)** poprowadzili
-prezentację zatytułowaną **“Key Challenges with Global Content Development”**, w
-której opowiedzieli o tym jak sobie radzą z wyzwaniami jakie stawia przed nimi
-tworzenie treści przez duży, międzynarodowy zespół specjalistów. Johann
-przedstawił perspektywę globalną, natomiast Piotr skupił się na lokalnych
-kwestiach.
+Johann Laville i Piotr Peszko poprowadzili prezentację zatytułowaną **“Key
+Challenges with Global Content Development”**, w której opowiedzieli o tym jak
+sobie radzą z wyzwaniami jakie stawia przed nimi tworzenie treści przez duży,
+międzynarodowy zespół specjalistów. Johann przedstawił perspektywę globalną,
+natomiast Piotr skupił się na lokalnych kwestiach.
 
 Pojawia się coraz więcej kanałów i platform do dostarczania treści, co powoduje
 zwiększenie jej ilości oraz powstawanie nowych ról, które zajmują się jej
@@ -213,11 +209,10 @@ https://twitter.com/AniaTutak/status/652117717336633344
 
 ## **Od dokumentalisty do gwiazdy rocka**
 
-[**Erin Vang**](http://soapconf.com/speaker/) w swojej prezentacji **“Rockstars,
-not Typists! Expanding Your Influence in Tech Organizations”** dała nam
-wskazówki jak zwiększyć swój wpływ jako dokumentalisty w organizacji. Użyła do
-tego ciekawego porównania do procesu zdobywania statusu gwiazdy rocka, który
-składa się z następujących etapów:
+Erin Vang w swojej prezentacji **“Rockstars, not Typists! Expanding Your
+Influence in Tech Organizations”** dała nam wskazówki jak zwiększyć swój wpływ
+jako dokumentalisty w organizacji. Użyła do tego ciekawego porównania do procesu
+zdobywania statusu gwiazdy rocka, który składa się z następujących etapów:
 
 1. Zostań rockmanem.
 2. Ogłoś trasę koncertową.
@@ -254,10 +249,9 @@ https://twitter.com/jacekkr/status/652387740676452356
 
 ## **Wiki i DITA są passé**
 
-[**Łukasz Górnicki**](http://soapconf.com/speaker/) w swojej prezentacji
-**“Documentation Continuous Delivery: New Approach to Creating Software
-Documentation (Non-Wiki, Non-DITA)”** pokazał nam nowy sposób tworzenia
-dokumentacji w swojej firmie.
+Łukasz Górnicki w swojej prezentacji **“Documentation Continuous Delivery: New
+Approach to Creating Software Documentation (Non-Wiki, Non-DITA)”** pokazał nam
+nowy sposób tworzenia dokumentacji w swojej firmie.
 
 Ich głównym celem było przełożenie zasady ciągłego dostarczania oprogramowania
 ([Continuous Delivery](https://en.wikipedia.org/wiki/Continuous_delivery)) na
@@ -296,13 +290,12 @@ https://twitter.com/kmdk/status/652428465526996992
 
 ## **Pisz tak, żeby użytkownicy chcieli to czytać**
 
-Niestety **[Kateryna Sasnyk](http://soapconf.com/speaker/)** nie dotarła z
-Ukrainy do Krakowa z powodu problemów z wizą. Dlatego też była zmuszona
-przeprowadzić swoją prezentację pt. **“Introducing TechComm Terra Incognita to
-Your Company: How We Did It”** zdalnie. Z powodu nienajlepszych doświadczeń z
-takim rozwiązaniem z zeszłego roku byliśmy pełni obaw. Jednak okazało się, że
-jakość połączenia była bardzo dobra i cała prezentacja przebiegła bez
-najmniejszych problemów.
+Niestety Kateryna Sasnyk nie dotarła z Ukrainy do Krakowa z powodu problemów z
+wizą. Dlatego też była zmuszona przeprowadzić swoją prezentację pt.
+**“Introducing TechComm Terra Incognita to Your Company: How We Did It”**
+zdalnie. Z powodu nienajlepszych doświadczeń z takim rozwiązaniem z zeszłego
+roku byliśmy pełni obaw. Jednak okazało się, że jakość połączenia była bardzo
+dobra i cała prezentacja przebiegła bez najmniejszych problemów.
 
 Kateryna rozpoczęła od pytania czy stare jak świat stwierdzenie, że nikt nie
 czyta dokumentacji jest prawdą. Niestety tak, ale nie bez powodu. Użytkownicy

@@ -13,7 +13,7 @@ tags:
 coverImage: 'soap.jpg'
 ---
 
-Drugi dzień konferencji [soap!](http://soapconf.com/) przyniósł jeszcze więcej
+Drugi dzień konferencji soap! przyniósł jeszcze więcej
 prezentacji, które podzielone zostały na dwie ścieżki. Każdy mógł wybierać i
 przebierać w tematach. Niestety nie byliśmy w stanie uczestniczyć we wszystkich
 prezentacjach, dlatego przedstawiamy skrótowo tylko niektóre z nich.
@@ -23,13 +23,12 @@ prezentacjach, dlatego przedstawiamy skrótowo tylko niektóre z nich.
 
 ### Zaufanie przede wszystkim
 
-I to nie tylko w związku. [Rahel Ann Bailie](http://soapconf.com/speakers/)
-mówiła o tym jak ważne jest budowanie zaufania użytkowników. Jest to przede
-wszystkim proces ciągły. Raz zbudowane zaufanie nie trwa wiecznie, dlatego
-musimy cały czas je utrzymywać. Otoczenie generuje więcej bodźców niż jesteśmy w
-stanie przetworzyć. Otrzymujemy za dużo treści, dlatego podchodzimy do niej
-bardzo selektywnie i wybieramy to na czym chcemy się skupić. Jest to "efekt
-spotkania towarzyskiego"
+I to nie tylko w związku. Rahel Ann Bailie mówiła o tym jak ważne jest budowanie
+zaufania użytkowników. Jest to przede wszystkim proces ciągły. Raz zbudowane
+zaufanie nie trwa wiecznie, dlatego musimy cały czas je utrzymywać. Otoczenie
+generuje więcej bodźców niż jesteśmy w stanie przetworzyć. Otrzymujemy za dużo
+treści, dlatego podchodzimy do niej bardzo selektywnie i wybieramy to na czym
+chcemy się skupić. Jest to "efekt spotkania towarzyskiego"
 ([cocktail party effect](http://en.wikipedia.org/wiki/Cocktail_party_effect)).
 Skupiamy się tylko na wybranym bodźcu, a resztę filtrujemy, przez co stają się
 one szumem w tle. Jest to sytuacja podobna do tej w jakiej znajduje się osoba
@@ -56,12 +55,11 @@ użytkownikami. Tylko w taki sposób zdobędziemy ich zaufanie.
 
 ### Źle napisana instrukcja może zabić
 
-Taką drastyczną wizję zaserwował swoim słuchaczom
-[Ray Gallon](http://soapconf.com/speakers/). Swoją prezentację rozpoczął od
-przedstawienia sytuacji, jaka miała miejsce we francuskim mieście Epinal. Grupa
-24 pacjentów, którzy zostali poddani naświetlaniu promieniowaniem jonizującym z
-powodu raka prostaty, otrzymało nadmierną dawkę. W związku z tym 5 z nich
-zmarło. Okazało się, że przyczynami tej tragedii były ludzki błąd, słabo
+Taką drastyczną wizję zaserwował swoim słuchaczom Ray Gallon. Swoją prezentację
+rozpoczął od przedstawienia sytuacji, jaka miała miejsce we francuskim mieście
+Epinal. Grupa 24 pacjentów, którzy zostali poddani naświetlaniu promieniowaniem
+jonizującym z powodu raka prostaty, otrzymało nadmierną dawkę. W związku z tym 5
+z nich zmarło. Okazało się, że przyczynami tej tragedii były ludzki błąd, słabo
 zaprojektowany interfejs maszyny oraz brak instrukcji obsługi w języku
 francuskim. Treść powinna być zaprojektowana w taki sposób, żeby pomagać
 użytkownikom podejmować lepsze decyzje. Użytkownicy chcą się dowiedzieć z
@@ -95,9 +93,8 @@ razem kiedy byli pomocni.
 
 Informacja to droga dwukierunkowa, dlatego nie możemy się skupiać wyłącznie na
 użytkowniku końcowym. Musimy również pamiętać o autorze i jego doświadczeniu
-(author experience, AX) o czym mówił w swojej prezentacji
-[Rick Yagodich](http://soapconf.com/speakers). Rick starał się pokazać nam
-bolączki
+(author experience, AX) o czym mówił w swojej prezentacji Rick Yagodich. Rick
+starał się pokazać nam bolączki
 [systemów zarządzania treścią (CMS)](http://pl.wikipedia.org/wiki/System_zarz%C4%85dzania_tre%C5%9Bci%C4%85).
 Większość platform CMS nie jest zbudowana po to, żeby łatwiej prowadziło się
 biznes, ale po to, żeby oferować super funkcje. Występuje sporo rozbieżności nie
@@ -120,9 +117,8 @@ tylko biznesu, dlatego trzeba ułatwiać ludzki proces zarządzania treścią.
 
 ### Zamiast opowiadać narysuj
 
-A dokładniej przedstaw co masz na myśli za pomocą infografiki.
-[Agnieszka Tkaczyk](http://soapconf.com/speakers) opowiadała o swojej przygodzie
-z tworzeniem infografik.
+A dokładniej przedstaw co masz na myśli za pomocą infografiki. Agnieszka Tkaczyk
+opowiadała o swojej przygodzie z tworzeniem infografik.
 [Krzywa zapominania](http://pl.wikipedia.org/wiki/Krzywa_zapominania) pokazuje,
 że po 24 godzinach zapominamy 50% tego co przeczytaliśmy, a po roku praktycznie
 wszystko. Oczywiście jest to uzależnione od wielu czynników, natomiast wyraźnie
@@ -166,29 +162,29 @@ Dokument, który opisywał tą infrastrukturę liczył 457 słów.
 ### Znajdź wspólny język
 
 Kadra kierownicza niekoniecznie widzi taką samą wartość w dobrze zaprojektowanej
-treści jak osoby, które ją tworzą. [Noz Urbina](http://soapconf.com/speakers)
-starał się nam pokazać jakich sposobów i argumentów możemy użyć, żeby zmienić
-punkt widzenia naszych przełożonych. Spójrzmy z perspektywy kierownika,
-zastanówmy się jakie problemy spędzają mu sen z powiek. Rozmawiajmy ze
-współpracownikami, zorientujmy się co się dzieje wokół nas. Dzięki temu dowiemy
-się jakie problemy może potencjalnie rozwiązać nasza strategia zarządzania
-treścią. Pokażmy w jaki sposób strategia zarządzania treścią wpływa na strategię
-firmy. Jest to część jej kapitału. Łatwy dostęp do informacji dla użytkownów,
-pomoc zintegrowana z produktem, spójność przekazywanych informacji powodują, że
-użytkownicy postrzegają firmę jako całość, a nie zbiór poszczególnych działów.
-Dobra strategia zarządzania treścią jest potrzebna również dlatego, że świat
-przechodzi na dystrybucję wielokanałową. Poszczególne kanały to elementy
-układanki. Użytkownicy korzystają z wielu kanałów (np. Twitter, Facebook,
-YouTube) w wielu formatach (komputer, tablet, komórka) na różne sposoby. Może to
-być korzystanie sekwencyjne, czyli rozpoczynanie czynności na jednym urządzeniu
-i kontynuowanie na innym, lub jednoczesne, które z kolei może polegać na
-równoczesnym wykonywaniu kilku czynności na kilku urządzeniach albo wykonywaniu
-jednej czynności na kilku urządzeniach. Dlatego musimy tworzyć spójną treść,
-która jest taka sama bez względu na platformę, z której korzystamy. Prowadzący
-wieścił nadejście ery [metadanych](http://pl.wikipedia.org/wiki/Metadane), które
-sukcesywnie stają się tak samo ważne jak treść. Stosowanie metadanych jest dość
-czasochłonne, ale powoduje, że maszyny lepiej rozumieją treści i dzięki temu
-potrafią ją wykorzystywać bardziej efektywnie. Przykładem może być wyszukiwarka
+treści jak osoby, które ją tworzą. Noz Urbina starał się nam pokazać jakich
+sposobów i argumentów możemy użyć, żeby zmienić punkt widzenia naszych
+przełożonych. Spójrzmy z perspektywy kierownika, zastanówmy się jakie problemy
+spędzają mu sen z powiek. Rozmawiajmy ze współpracownikami, zorientujmy się co
+się dzieje wokół nas. Dzięki temu dowiemy się jakie problemy może potencjalnie
+rozwiązać nasza strategia zarządzania treścią. Pokażmy w jaki sposób strategia
+zarządzania treścią wpływa na strategię firmy. Jest to część jej kapitału. Łatwy
+dostęp do informacji dla użytkownów, pomoc zintegrowana z produktem, spójność
+przekazywanych informacji powodują, że użytkownicy postrzegają firmę jako
+całość, a nie zbiór poszczególnych działów. Dobra strategia zarządzania treścią
+jest potrzebna również dlatego, że świat przechodzi na dystrybucję
+wielokanałową. Poszczególne kanały to elementy układanki. Użytkownicy korzystają
+z wielu kanałów (np. Twitter, Facebook, YouTube) w wielu formatach (komputer,
+tablet, komórka) na różne sposoby. Może to być korzystanie sekwencyjne, czyli
+rozpoczynanie czynności na jednym urządzeniu i kontynuowanie na innym, lub
+jednoczesne, które z kolei może polegać na równoczesnym wykonywaniu kilku
+czynności na kilku urządzeniach albo wykonywaniu jednej czynności na kilku
+urządzeniach. Dlatego musimy tworzyć spójną treść, która jest taka sama bez
+względu na platformę, z której korzystamy. Prowadzący wieścił nadejście ery
+[metadanych](http://pl.wikipedia.org/wiki/Metadane), które sukcesywnie stają się
+tak samo ważne jak treść. Stosowanie metadanych jest dość czasochłonne, ale
+powoduje, że maszyny lepiej rozumieją treści i dzięki temu potrafią ją
+wykorzystywać bardziej efektywnie. Przykładem może być wyszukiwarka
 [Google](https://www.google.com). Sposób podejścia do wyników zmienił się. Kilka
 lat temu wpisując pytanie "O której zamyka się sklep ASDA?" wynikiem
 wyszukiwania był link. Obecnie wynikiem wyszukiwania jest konkretna odpowiedź.
@@ -201,3 +197,12 @@ użytkownika. Treść wpływa w bardzo dużym stopniu na postrzeganie marki prze
 klientów, dlatego jej jakość jest tak ważna.
 
 ![SoapNozUrbina](images/SoapNozUrbina.png)
+
+### Powiązane artykuły
+
+- [soap! 2014: Mydło lubi zabawę](../mydlo-lubi-zabawe/index.md)
+- [soap! 2014: Relacja z pierwszego dnia](../soap-2014-relacja-z-drugiego-dnia/index.md)
+
+- [soap! 2014: soap! just wants to have fun](../soap-just-wants-to-have-fun/index.md)
+- [soap! 2014: Day 1](../soap-2014-summary-of-day-1/index.md)
+- [soap! 2014: Day 2](../soap-2014-summary-of-day-2/index.md)

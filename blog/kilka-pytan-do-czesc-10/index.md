@@ -138,7 +138,7 @@ seriale, mają podobne poczucie humoru i starają się sobie nawzajem pomóc.
 #### Co byś radził osobom, które chciałyby zacząć swoją przygodę z pisaniem dokumentacji?
 
 Dodać stronkę techwriter.pl do ulubionych i wpaść na
-[konferencję soap!](http://soapconf.com/) na dobry początek. Zaczynając przygodę
+konferencję soap! na dobry początek. Zaczynając przygodę
 z pisaniem dokumentacji nie należy się zrażać na samym początku. Pierwszy rok,
 dwa dają już dużą perspektywę. Patrząc na pierwsze inwencje twórcze, można by
 się pod nosem uśmiechnąć jak to się człowiek nieraz ‘popisał’. Co więcej w tym
@@ -147,6 +147,6 @@ pogląd na pracę tech writera. Dobrze jest znaleźć firmę, która umożliwia 
 i pracę z zespołami, które zlokalizowane są poza Polską. Firmę, która chętnie
 wysyła pracowników na szkolenia i konferencje.
 
-Jeśli chcecie skontakować się z Piotrem albo sami macie ochotę podzielić się
+Jeśli chcecie skontaktować się z Piotrem albo sami macie ochotę podzielić się
 swoimi doświadczeniami, nie zwlekajcie dłużej tylko piszcie na adres
 [kontakt@techwriter.pl](mailto:kontakt@techwriter.pl).
