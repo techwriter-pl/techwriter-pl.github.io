@@ -37,7 +37,7 @@ I na koniec inny przykład jakim jest Motorola. Firma, która w swojej dokumenta
 
 ## Kiedy wideo ma sens
 
-Opierając się na wcześniej opisanych przykładach możemy zauważyć, że wideo są popularną formą stosowaną w dokumentacji użytkownika. Pojawia się więc pytanie, z czego wynika stopniowe odchodzenie od klasycznej dokumentacji pisanej. Odpowiedź jest prosta. W dużej mierze odpowiadają za to platformy i media, z których korzystamy na co dzień. To one przyzwyczaiły nas do częstszego oglądania niż czytania treści. 
+Opierając się na wcześniej opisanych przykładach możemy zauważyć, że wideo jest popularną formą stosowaną w dokumentacji użytkownika. Pojawia się więc pytanie, z czego wynika stopniowe odchodzenie od klasycznej dokumentacji pisanej. Odpowiedź jest prosta. W dużej mierze odpowiadają za to platformy i media, z których korzystamy na co dzień. To one przyzwyczaiły nas do częstszego oglądania niż czytania treści. 
 
 Na przykładzie Atlassiana widzimy, że wideo może się sprawdzić dobrze jako materiał onboardingowy znajdujący się w sekcji _Getting started_, który ma ułatwić użytkownikowi zrozumienie jak działa produkt i zachęcić do jego dalszej eksploracji. 
 
@@ -49,7 +49,7 @@ Warto również zauważyć, że materiały wideo mogą pełnić nie tylko funkcj
 
 Wideo nie zawsze jest najlepszym sposobem prezentowania wartości produktu i istnieje wiele sytuacji, w których taka forma może okazać się mało praktyczna. Jednym z nich jest grono produktów o bardzo prostym bądź wręcz ubogim interfejsie, gdzie wideo byłoby przerostem formy nad treścią i zrzut ekranu bywa w zupełności wystarczający. 
 
-Innym przykładem mogą być obszary, w których użytkownik szuka konkretnej informacji, np. dokumentacja API. Deweloper zazwyczaj nie będzie chciał oglądać materiału wideo, lecz szybko przeskanuje dokumentację w poszukiwaniu konkretnego pola, parametru lub fragmentu kodu. Podobnie wygląda sytuacja w przypadku konfiguratorów systemowych, terminali czy zaawansowanych narzędzi deweloperskich, gdzie szybkość znalezienia informacji jest kluczowa.
+Innym przykładem mogą być obszary, w których użytkownik szuka konkretnej informacji, np. dokumentacja API. Deweloper zazwyczaj nie będzie chciał oglądać materiału wideo, lecz szybko przejrzy dokumentację w poszukiwaniu konkretnego pola, parametru lub fragmentu kodu. Podobnie wygląda sytuacja w przypadku konfiguratorów systemowych, terminali czy zaawansowanych narzędzi deweloperskich, gdzie szybkość znalezienia informacji jest kluczowa.
 Nie można zapomnieć o produktach, które dopiero są rozwijane bądź zmieniają interfejs tak szybko, że w ich przypadku wideo może być aktualne zaledwie przez kilka dni. 
 
 
@@ -57,7 +57,7 @@ Nie można zapomnieć o produktach, które dopiero są rozwijane bądź zmieniaj
 
 Przy podejmowaniu decyzji o wykorzystaniu wideo kluczowa jest przede wszystkim znajomość odbiorców produktu. Jeśli są to użytkownicy nietechniczni, wideo może być dobrą formą prezentacji funkcjonalności i ułatwić zrozumienie produktu. W przypadku osób bardziej technicznych, takich jak deweloperzy czy administratorzy, preferowaną formą prawie zawsze pozostaje dokumentacja użytkownika, która umożliwia szybkie wyszukiwanie informacji. Co więcej, użytkownicy niechętnie oglądają długie wideo, bo social media przyzwyczaiły ich do szybkiego przewijania treści, więc wideo powyżej pięciu minut może okazać się nieefektywne. Warto o tym pamiętać, kiedy zdecydujemy się na tworzenie wideo.
  
-Dobrą praktyką jest umieszczenie kilku wideo i obserwacja jak zostaną one odebrane przez użytkowników. Dla wielu osób materiały wideo stają się ważnym uzupełnieniem dokumentacji, choć nadal jej całkowicie nie zastępują. Przypomnijmy sobie wcześniejszy przykład od Motoroli, gdzie mogliśmy obejrzeć interaktywny tutorial albo przejść do klasycznej instrukcji krok po kroku. Takie rozwiązanie jest bardzo wygodne dla osób, które chętnie obejrzałyby wideo, ale np. pracują w danym momencie w open space i nie mogą skorzystać ze słuchawek, a nie chcą zakłócać pracy innych lub po prostu wolą szybko zeskanować instrukcję.
+Dobrą praktyką jest umieszczenie kilku wideo i obserwacja jak zostaną one odebrane przez użytkowników. Dla wielu osób materiały wideo stają się ważnym uzupełnieniem dokumentacji, choć nadal jej całkowicie nie zastępują. Przypomnijmy sobie wcześniejszy przykład od Motoroli, gdzie mogliśmy obejrzeć interaktywny tutorial albo przejść do klasycznej instrukcji krok po kroku. Takie rozwiązanie jest bardzo wygodne dla osób, które chętnie obejrzałyby wideo, ale np. pracują w danym momencie w open space i nie mogą skorzystać ze słuchawek, a nie chcą zakłócać pracy innych lub po prostu wolą szybko przejrzeć instrukcję.
 
 Warto tutaj także wspomnieć o dostępności (accessibility), która powinna być ważnym aspektem podczas tworzenia takich materiałów. Nie każdy użytkownik będzie korzystał z wideo w ten sam sposób. Nie zawsze wynika to wyłącznie z preferencji, ale także problemów ze słuchem, trudnościami poznawczymi czy korzystania z technologii wspomagających. Dlatego dobrym rozwiązaniem może być dodanie transkrypcji lub alternatywnej instrukcji tekstowej, tak jak zaprezentowała to Motorola. 
 
