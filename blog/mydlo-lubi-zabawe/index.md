@@ -13,9 +13,9 @@ coverImage: 'soap.jpg'
 
 Co mają ze sobą wspólnego mydło, kolor różowy, dawna fabryka kabli, white
 terrier, hulajnoga, kawa i selfie w toalecie? Na pierwszy rzut oka wydaje się,
-że niezbyt wiele. Jednak uczestnicy tegorocznej konferencji
-[soap!](http://soapconf.com/) doskonale wiedzą o co chodzi. Dalsza część
-artykułu powinna Wam dać odpowiedź skąd się wziął ten zagadkowy zestaw.
+że niezbyt wiele. Jednak uczestnicy tegorocznej konferencji soap! doskonale
+wiedzą o co chodzi. Dalsza część artykułu powinna Wam dać odpowiedź skąd się
+wziął ten zagadkowy zestaw.
 
 <!--truncate-->
 
@@ -49,24 +49,23 @@ konferencji.
 
 ### Zaczęło się
 
-Miejsce w centrum uwagi przejął jeden z twórców soap!,
-[Paweł Kowaluk](http://soapconf.com/team/), któremu przypadła rola wygłoszenia
-mowy otwierającej. Hasłem przewodnim tegorocznej edycji soap! było "a clean
-start". Paweł starał się przybliżyć uczestnikom całą ideę oraz przedstawić
-obecne trendy w tworzeniu dokumentacji. Dziedzina komunikacji technicznej w
-Polsce jeszcze raczkuje, dlatego stoimy przed zadaniem nadania jej kształtu.
-Jest to ciężkie zadanie, bo nie za bardzo jest na czym się oprzeć. Paweł starał
-się nas przekonać, że taki stan rzeczy jest też, albo przede wszystkim,
-pozytywny, bo nie mamy na sobie ciężaru przeszłości, tylko możemy ukształtować
-polską komunikację techniczną tak jak chcemy. Kolejnym tematem jaki poruszył
-były kierunki, w których zmierza dokumentacja techniczna. Przede wszystkim
-powinna się skupiać na kliencie, a nie na produkcie. Użytkownicy oczekują
-informacji, które pozwolą im rozpocząć szybko pracę z produktem, które pojawiają
-się wtedy kiedy ich potrzebują i które można łatwo wyszukać. Idąc dalej, Paweł
-pokusił się o tezę, że czasami można nawet darować sobie dostarczanie
-dokumentacji do produktu. Jako przykład podał twórców aplikacji
-[Omnipaste](https://www.omnipasteapp.com/), z którymi współpracował. Ich celem
-było stworzenie przejrzystego interfejsu użytkownika, który nie wymaga
+Miejsce w centrum uwagi przejął jeden z twórców soap!, Paweł Kowaluk, któremu
+przypadła rola wygłoszenia mowy otwierającej. Hasłem przewodnim tegorocznej
+edycji soap! było "a clean start". Paweł starał się przybliżyć uczestnikom całą
+ideę oraz przedstawić obecne trendy w tworzeniu dokumentacji. Dziedzina
+komunikacji technicznej w Polsce jeszcze raczkuje, dlatego stoimy przed zadaniem
+nadania jej kształtu. Jest to ciężkie zadanie, bo nie za bardzo jest na czym się
+oprzeć. Paweł starał się nas przekonać, że taki stan rzeczy jest też, albo
+przede wszystkim, pozytywny, bo nie mamy na sobie ciężaru przeszłości, tylko
+możemy ukształtować polską komunikację techniczną tak jak chcemy. Kolejnym
+tematem jaki poruszył były kierunki, w których zmierza dokumentacja techniczna.
+Przede wszystkim powinna się skupiać na kliencie, a nie na produkcie.
+Użytkownicy oczekują informacji, które pozwolą im rozpocząć szybko pracę z
+produktem, które pojawiają się wtedy kiedy ich potrzebują i które można łatwo
+wyszukać. Idąc dalej, Paweł pokusił się o tezę, że czasami można nawet darować
+sobie dostarczanie dokumentacji do produktu. Jako przykład podał twórców
+aplikacji [Omnipaste](https://www.omnipasteapp.com/), z którymi współpracował.
+Ich celem było stworzenie przejrzystego interfejsu użytkownika, który nie wymaga
 dokumentacji w tradycyjnym rozumieniu tego słowa. Zamiast tego na stronie
 produktu znajdują się krótkie prezentacje multimedialne oraz zwięzłe opisy
 pokazujące możliwości produktu. Ciekawy punkt widzenia. Niekoniecznie takie
@@ -124,3 +123,12 @@ czym warto byłoby się rozpisywać. Poza tym takie techniczne potknięcia są
 wpisane w obraz tego typu wydarzeń. Krótko mówiąc, kawa dobra, jadło smaczne,
 ludzie fajni, atmosfera luźna i przyjazna. Potwierdzamy to o czym śpiewały
 Fasolki, mydło zdecydowanie lubi zabawę. Na pewno wrócimy w przyszłym roku.
+
+### Powiązane artykuły
+
+- [soap! 2014: Relacja z pierwszego dnia](../soap-2014-relacja-z-pierwszego-dnia/index.md)
+- [soap! 2014: Relacja z drugiego dnia](../soap-2014-relacja-z-drugiego-dnia/index.md)
+
+- [soap! 2014: soap! just wants to have fun](../soap-just-wants-to-have-fun/index.md)
+- [soap! 2014: Day 1](../soap-2014-summary-of-day-1/index.md)
+- [soap! 2014: Day 2](../soap-2014-summary-of-day-2/index.md)

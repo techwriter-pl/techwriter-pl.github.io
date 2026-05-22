@@ -19,6 +19,6 @@ Was informacje na temat tej i poprzedniej edycji w postaci infografiki.
 
 Poniżej najważniejsze fakty dotyczące pierwszej i drugiej edycji konferencji - w
 jednej dużej pigule - świetne! Więcej informacji znajdziecie na stronie
-[soapconf.com](http://soapconf.com/).
+soapconf.com.
 
 ![soap-2013-2014mini](images/soap-2013-2014mini.png)
