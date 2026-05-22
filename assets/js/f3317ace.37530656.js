@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[39582],{60863:e=>{e.exports=JSON.parse('{"tag":{"label":"multimedia","permalink":"/tags/multimedia","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/multimedia","page":1,"postsPerPage":5,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
