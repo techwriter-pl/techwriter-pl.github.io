@@ -273,7 +273,7 @@ Była to jedyna odsłona, podczas której można było wybierać między dwiema
 ścieżkami prezentacji odbywającymi się w tym samym czasie. Ścieżka 1 nazywała
 się "sponge" 🧽, a ścieżka 2 - "bubbles" 🫧 😀.
 
-Noz Urbina powrócił z prezentacją, której zarysy również znajdziecie
+Noz Urbina powrócił z prezentacją, której zarysy znajdziecie
 [tutaj](https://techwriter.pl/soap-2014-summary-of-day-2/#find-a-common-language).
 
 Agnieszka Tkaczyk przedstawiła publice użyteczne informacje o stosowaniu
@@ -288,7 +288,8 @@ Zrobiono z tych drukarek właściwy użytek:
 
 ![Niebieskie mydło wydrukowane w 3D.](images/mydlo.jpg)
 
-Kto chce, może zobaczyć podsumowanie edycji w formie [klipu video](https://youtu.be/4nY_kCnYwH0?si=aE2jsBwp63RUTkOo).
+Kto chce, może zobaczyć podsumowanie w formie
+[klipu wideo](https://youtu.be/4nY_kCnYwH0?si=aE2jsBwp63RUTkOo).
 
 ## Po raz trzeci: 8-9 października 2015
 
@@ -334,7 +335,8 @@ pełen potencjał.
 
 Konferencję poprzedzało pięć warsztatów w ramach Content Edu Summit.
 
-Kto chce, może zobaczyć podsumowanie edycji w formie [klipu video](https://youtu.be/rc-MeNW2U6M?si=A9asKSsAUxfLGDf2).
+Podsumowanie w formie
+[klipu wideo](https://youtu.be/rc-MeNW2U6M?si=A9asKSsAUxfLGDf2).
 
 ### Nowa lokalizacja: Manggha
 
@@ -388,7 +390,7 @@ atrakcyjność tej konferencji w tamtym czasie:
 > tech commowej mapie Europy, jednocześnie nie zatracając atmosfery wydarzenia
 > organizowanego przez paczkę przyjaciół.
 
-Dla chętnych: podsumowanie edycji w formie [klipu video](https://youtu.be/Zi_PfEf7tQE?si=WgExPK711W8lW9nJ).
+Podsumowanie [wideo](https://youtu.be/Zi_PfEf7tQE?si=WgExPK711W8lW9nJ).
 
 ## Po raz szósty: 23-25 maja 2018
 
@@ -415,7 +417,7 @@ soap! jako uczestnik, prelegent i trener, podsumował w swojej
 > dobrego piwa. Podczas nieoficjalnej części jak zwykle panowała luźna atmosfera
 > i widać było, że wszyscy dobrze się bawili.
 
-Kto chce, może zobaczyć podsumowanie edycji w formie [klipu video](https://youtu.be/FCZpPW1vlaw?si=6gy2B5uDfK4dm4d2).
+Podsumowanie [wideo](https://youtu.be/FCZpPW1vlaw?si=6gy2B5uDfK4dm4d2).
 
 ## Po raz siódmy: 5-7 czerwca 2019
 
@@ -439,9 +441,8 @@ Australia, Czechy, Niemcy, Finlandia, Francja, Węgry, Izrael, Malta, Malezja,
 Ukraina, USA i Wielka Brytania, którzy reprezentowali ponad 100 firm. Podobnie
 sytuacja się miała w wielu wcześniejszych edycjach.
 
-Dla chętnych: 
-[podsumowanie video](https://www.youtube.com/watch?v=teA3well1ek&list=PLUY0lajb-kiaIbF6clQaxTp2lwqmrDDC5).
-
+Podsumowanie
+[wideo](https://www.youtube.com/watch?v=teA3well1ek&list=PLUY0lajb-kiaIbF6clQaxTp2lwqmrDDC5).
 
 ## Przerwa z powodu pandemii 2020-2021
 
@@ -639,9 +640,9 @@ edycji minęło 10 lat, a momencie pisania tego artykułu - 12.
 
 Są to lata wielkiego wysiłku i dynamicznego rozwoju całej społeczności.
 
-Serdecznie dziękujemy ekipie organizującej te cudowne wydarzenia i 
-wszystkim jej uczestnikom. Warto było dzielić te doświadczenia, za które
-jesteśmy niezmiernie wdzięczni.
+Serdecznie dziękujemy ekipie organizującej te cudowne wydarzenia i wszystkim jej
+uczestnikom. Warto było dzielić te doświadczenia, za które jesteśmy niezmiernie
+wdzięczni.
 
 Jak to kiedyś określił Michał Skowron:
 

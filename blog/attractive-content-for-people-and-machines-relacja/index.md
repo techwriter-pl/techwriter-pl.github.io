@@ -95,6 +95,5 @@ Przypominamy też, że w czerwcu odbędzie się kolejna konferencja
 wybiera?
 
 Przy okazji informujemy, że soap! organizuje wkrótce kolejne webinarium o
-tematyce związanej z zarządzaniem treścię. Poprowadzi go Rahel Anne Bailie, a
-szczegóły możecie znaleźć na ich
-[stronie](http://www.soapconf.com/dont-miss-webinar/).
+tematyce związanej z zarządzaniem treścią. Poprowadzi go Rahel Anne Bailie, a
+szczegóły możecie znaleźć na ich stronie.

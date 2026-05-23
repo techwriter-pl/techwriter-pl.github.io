@@ -81,6 +81,5 @@ odsłuchania odcinka, wystarczy kliknąć w
 [ten link](https://techwriterkoduje.pl/blog/2023/4/24/53).
 
 Pragniemy też dodać, że temat ContentOps będzie szeroko omawiany podczas
-nadchodzącej już wielkimi krokami krakowskiej
-[konferencji soap!](https://soapconf.com/) warto więc sprawdzić jakie
-prezentacje szykuje dla Was organizator.
+nadchodzącej już wielkimi krokami krakowskiej konferencji soap! warto więc
+sprawdzić jakie prezentacje szykuje dla Was organizator.

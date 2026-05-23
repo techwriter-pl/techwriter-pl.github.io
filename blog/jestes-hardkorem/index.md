@@ -13,8 +13,7 @@ coverImage: 'apisdkcodesamples.png'
 ---
 
 Nie boisz się wyzwań jakie stawia dokumentacja techniczna? Jeśli tak, to na
-pewno zainteresuje Cię webinarium zorganizowane 29 maja przez
-[soap!](http://www.soapconf.com).
+pewno zainteresuje Cię webinarium zorganizowane 29 maja przez soap!.
 [Tom Johnson](http://idratherbewriting.com/author/tomjohnson1492/), znany i
 ceniony Technical Writer, autor blogu
 [I'd Rather Be Writing](http://idratherbewriting.com/), poprowadził prezentację
@@ -176,6 +175,6 @@ pseudokodem wydaje się być dobrym rozwiązaniem.
 Nagranie wideo, plik mp3 oraz slajdy z prezentacji można znaleźć
 [tutaj](http://idratherbewriting.com/2014/05/30/creating-code-samples-webinar-recording-slides-and-audio/).
 
-Podziękowania dla [soap!](http://www.soapconf.com) za ciekawe webinarium, które
-doskonale wpisuje się w obecne trendy w komunikacji technicznej. Czekamy na
-kolejne prezentacje ekspertów.
+Podziękowania dla soap! za ciekawe webinarium, które doskonale wpisuje się w
+obecne trendy w komunikacji technicznej. Czekamy na kolejne prezentacje
+ekspertów.

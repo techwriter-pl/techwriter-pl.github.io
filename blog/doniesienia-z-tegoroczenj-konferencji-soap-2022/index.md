@@ -22,13 +22,13 @@ może pojawiły się jakieś nowości. Zapraszamy na relację!
 
 Czerwiec 2022 okazał się właściwym i długo wyczekiwanym momentem dla wielu
 Soapersów i osób, które po raz pierwszy przybyły na konferencję lub połączyły
-się online. Po dwuletniej przerwie organizatorzy powrócili na scenę, bo
-[soap!](https://soapconf.com/) to nie tylko warsztaty i wykłady, ale także
-spotkania społeczności związanej z komunikacją techniczną, możliwość nawiązania
-nowych znajomości, miejsce, w którym ludzie chętnie dzielą się wiedzą i
-opowiadają o swoich doświadczeniach, pierwszych krokach, błędach i sukcesach w
-tech writingu. Konferencja daje również możliwość spotkania się twarzą w twarz i
-porozmawiania,  nie zawsze na tematy techniczne 😊.
+się online. Po dwuletniej przerwie organizatorzy powrócili na scenę, bo soap! to
+nie tylko warsztaty i wykłady, ale także spotkania społeczności związanej z
+komunikacją techniczną, możliwość nawiązania nowych znajomości, miejsce, w
+którym ludzie chętnie dzielą się wiedzą i opowiadają o swoich doświadczeniach,
+pierwszych krokach, błędach i sukcesach w tech writingu. Konferencja daje
+również możliwość spotkania się twarzą w twarz i porozmawiania,  nie zawsze na
+tematy techniczne 😊.
 
 ### Informacje ogólne
 
@@ -41,7 +41,7 @@ atmosferę soap!, tak jak do tej pory robiła to Gosia Radymiuk.
 Tematem przewodnim tegorocznej konferencji była sztuczna inteligencja (AI) we
 wszystkich jej odsłonach oraz doświadczenia związane z pracą w nowej
 rzeczywistości (nie koniecznie post-covidowej). Pełny program wykładów możecie
-znaleźć [tutaj](https://soapconf.com/schedule-2022/), a same prelekcje
+znaleźć tutaj(link usunięty), a same prelekcje
 [tutaj](https://www.youtube.com/playlist?list=PLUY0lajb-kiaMB8XEOrdqE-BBLQmSfvCB).
 
 ### Coś nowego!
@@ -121,9 +121,8 @@ uczestnicy mieli okazję zdobyć podstawową wiedzę na temat kaligrafii japońs
 oraz przećwiczyć pisanie kilku zestawów kanji pod okiem prowadzącej. Całkiem
 ciekawe doświadczenie, zwłaszcza dla osób leworęcznych 😉 .
 
-A jeśli jesteście ciekawi, jakie były pozostałe tematy, zajrzyjcie
-[tutaj](https://soapconf.com/workshops-schedule/). Może ktoś z Was chciałby się
-podzielić swoimi doświadczeniami?
+A jeśli jesteście ciekawi, jakie były pozostałe tematy, zajrzyjcie tutaj(link
+usunięty). Może ktoś z Was chciałby się podzielić swoimi doświadczeniami?
 
 ### Drugi i trzeci dzień
 
