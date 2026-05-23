@@ -606,17 +606,18 @@ Stało się jasne, że soap! raz w roku to było za mało, a apetyt na wiedzę i
 spotkania stale rósł. Przy tak rozbudzonym zainteresowaniu, potrzebny był
 sposób, by zagospodarować tę energię.
 
-W 2017 zaczęło się rozkręcanie meetupów pod nazwą
-[Meet Content](https://meetcontent.github.io/):
+W 2017 Gosia Radymiak zaczęła rozkręcać meetupy pod nazwą
+[Meet Content](https://meetcontent.github.io/). Przez wiele lat dochodziły do
+skutku spotkania w Krakowie i Wrocławiu (tam głównym organizatorem był
+[Tomasz Prus](https://www.linkedin.com/in/tomasz-prus-4b09b01a/)). MeetContent
+dotarł też do Czech (Brno) i Hiszpanii (Barcelona). Po dziś dzień odbywają się
+spotkania wrocławskiej odnogi MeetContent, odnoga krakowska przestała być
+aktywna.
 
-- Jego wrocławski oddział jest nadal aktywny.
-- Jego krakowski oddział przestał być aktywny.
-- W jego ramach doszło do spotkań w Brnie, w Czechach i w Barcelonie, w
-  Hiszpanii.
-
-W Krakowie powstała nowa marka meetupowa: Content Bytes założona przez
-[Barbarę Czyż](https://www.linkedin.com/in/barbara-szwarc/?locale=en) i
-[Edytę Rakowską](https://www.linkedin.com/in/edyta-rakowska/).
+W 2024 w Krakowie powstała nowa marka meetupowa: Content Bytes założona przez
+[Barbarę Czyż](https://www.linkedin.com/in/barbara-szwarc/?locale=en),
+[Edytę Rakowską](https://www.linkedin.com/in/edyta-rakowska/) i
+[Michała Olendra](https://www.linkedin.com/in/michal-olender/).
 
 ## Soapy Crew i inicjatorzy obecnie
 
