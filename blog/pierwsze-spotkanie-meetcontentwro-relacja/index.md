@@ -10,6 +10,7 @@ tags:
   - 'konferencje'
   - 'społeczność'
   - 'szkolenia'
+  - 'meetcontent'
 coverImage: 'Wroclaw-Most_Grunwaldzki.jpg'
 ---
 

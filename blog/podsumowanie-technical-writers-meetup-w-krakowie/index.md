@@ -5,6 +5,7 @@ date: '2019-10-16'
 tags:
   - 'news'
   - 'z-kraju'
+  - 'meetups'
 coverImage: 'MeetupABB-e1571237713389.jpg'
 ---
 
