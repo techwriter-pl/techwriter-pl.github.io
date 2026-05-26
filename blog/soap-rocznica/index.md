@@ -607,12 +607,13 @@ spotkania stale rósł. Przy tak rozbudzonym zainteresowaniu, potrzebny był
 sposób, by zagospodarować tę energię.
 
 W 2017 Gosia Radymiak zaczęła rozkręcać meetupy pod nazwą
-[Meet Content](https://meetcontent.github.io/). Przez wiele lat dochodziły do
-skutku spotkania w Krakowie i Wrocławiu (tam głównym organizatorem był
-[Tomasz Prus](https://www.linkedin.com/in/tomasz-prus-4b09b01a/)). MeetContent
-dotarł też do Czech (Brno) i Hiszpanii (Barcelona). Po dziś dzień odbywają się
-spotkania wrocławskiej odnogi MeetContent, odnoga krakowska przestała być
-aktywna.
+[Meet Content](https://meetcontent.github.io/). 
+Przez wiele lat dochodziły do
+skutku spotkania w Krakowie i Wrocławiu.
+
+We Wrocławiu, za organizacje spotkań odpowiadali [Tomasz Prus](https://www.linkedin.com/in/tomasz-prus-4b09b01a/), [Wojciech Baranowski](https://www.linkedin.com/in/wojciech-baranowski-84984bab/) i [Daniel Barrio Fierro](https://www.linkedin.com/in/daniel-barrio-fierro-a95053110/). Dzięki Danielowi MeetContent dotarł do Hiszpanii (Barcelona). 
+
+Wrocławski MeetContent nadal pozostaje aktywny, krakowski zakończył swoją działalność.
 
 W 2024 w Krakowie powstała nowa marka meetupowa: Content Bytes założona przez
 [Barbarę Czyż](https://www.linkedin.com/in/barbara-szwarc/?locale=en),
