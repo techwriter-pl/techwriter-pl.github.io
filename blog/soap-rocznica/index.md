@@ -234,7 +234,7 @@ Piter i jego technologiczne centrum kontroli wszechświata:
 
 > Don't be too proud of this technological terror you've constructed!
 
-> **Lord Vader**
+> **Lord Vader, na widok tego setupu.**
 
 Źródło powyższego zdjęcia:
 [Twitter](https://x.com/em_piter/status/999946418587684864?t=fvLzHHgbrzLc-Zd1MZyWKQ&s=07).
