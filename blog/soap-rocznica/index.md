@@ -39,10 +39,11 @@ trafnych opisów.
 ## Stan branży w 2013
 
 Jak wyglądała wtedy polska scena technical writingu? Nie wiadomo ilu technical
-writerów było wtedy w Polsce. Osoby wykonujące ten zawód narzekały na izolujące
-doświadczenie zawodowe i ograniczony feedback od ekspertów, z którymi pracowali.
-Nasi bohaterowie czuli potrzebę zwiększenia świadomości o branży. Brakowało
-wtedy kierunków na studiach, które oferowały wiedzę o komunikacji technicznej.
+writerów było wtedy w Polsce. Osoby wykonujące ten zawód narzekały na narzekały
+na poczucie izolacji zawodowej i ograniczony feedback od ekspertów, z którymi
+pracowali. Nasi bohaterowie czuli potrzebę zwiększenia świadomości o branży.
+Brakowało wtedy kierunków na studiach, które oferowały wiedzę o komunikacji
+technicznej.
 
 ## Pomysł i silna grupa założycielska
 
@@ -109,7 +110,7 @@ specjalistów od treści, którzy nie mieli świadomości siebie nawzajem. Histo
 nazwy została nieco szerzej opisana w
 [relacji z soap! z 2015 roku](https://techwriter.pl/namydleni-po-raz-trzeci/#o-co-chodzi-z-tym-r%C3%B3%C5%BCowym-myd%C5%82em).
 
-Po wybraniu głównego symbolu, pozostało rozpisac skrót:
+Po wybraniu głównego symbolu, pozostało rozpisać skrót:
 
 - Strategy
 - Opportunity
@@ -156,7 +157,7 @@ międzynarodowe wydarzenie.
 
 W wydarzeniu promowanym metodą poczty pantoflowej wzięło udział 120 osób.
 
-Konferencja odbyła się na uczelni na Wyższej Szkoły Europejskiej im. ks. Józefa
+Konferencja odbyła się na uczelni Wyższej Szkoły Europejskiej im. ks. Józefa
 Tischnera, której Gosia była absolwentką.
 
 Udało się nawiązać współpracę z kilkoma sponsorami.
@@ -176,7 +177,7 @@ Noz Urbina, którego organizatorzy słuchali podczas Congility, na soap! wystąp
 jako prelegent.
 
 Gosia podzieliła się myślą, że organizując takie spotkanie można poznać lepiej
-sobie i innych. Z pewnością nie była to bułka z masłem. W takich wymagających
+siebie i innych. Z pewnością nie była to bułka z masłem. W takich wymagających
 momentach można zobaczyć hart ducha, pomysłowość i gotowość do poświęceń.
 
 ![Piter, Agnieszka i uczestnicy podczas przerwy na pierwszej konferencji.](images/converstations.jpg)
@@ -212,7 +213,7 @@ poświęcenie. Paulina i Paweł czuli się tym zmęczeni i postanowili zrezygnow
 
 Gosia kontynuowała tę inicjatywę.
 
-(W późniejszych edycjach Paweł udzielał się jako prelegent i trener, Paulina
+(W późniejszych edycjach Paweł udzielał się jako prelegent i trener, a Paulina
 wystąpiła podczas ostatniego soap!).
 
 ### Zespół od czasu drugiej edycji
@@ -312,7 +313,7 @@ Podczas wydarzenia rysowała (dostarczała graphic recording) Jadźka Rysuje o c
 przeczytać możecie w
 [relacji](https://techwriter.pl/namydleni-po-raz-trzeci/#my-tu-gadu-gadu-a-jad%C5%BAka-rysuje).
 
-Pierwszy (darmowy) dzień konferencji przyciągnął 170 uczestników, drugi (płatny)
+Pierwszy, darmowy dzień konferencji przyciągnął 170 uczestników, drugi (płatny)
 dzień - 80.
 
 ## Po raz czwarty: 1-3 czerwca 2016
@@ -398,7 +399,7 @@ Podsumowanie [wideo](https://youtu.be/Zi_PfEf7tQE?si=WgExPK711W8lW9nJ).
 
 - Temat przewodni: _Innowacja kontra prostota_.
 
-Podobnie jak w wielu poprzednich odsłonach, w tej również był Wysoki poziom
+Podobnie jak w wielu poprzednich odsłonach, w tej również był wysoki poziom
 prezentacji, przydatne warsztaty i świetna atmosfera.
 
 Nie mogę nie wspomnieć o klimatycznej strefie chillout w ogródku na tyłach
