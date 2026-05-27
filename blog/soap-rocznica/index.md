@@ -610,19 +610,21 @@ W 2017 Gosia Radymiak zaczęła rozkręcać meetupy pod nazwą
 [Meet Content](https://meetcontent.github.io/).
 
 Gosia razem z koleżankami z Soapy Crew opracowały koncepcję spotkania, jego
-nazwę identyfikację wizualną i oficjalną witrynę. Cały ten "pakiet", został
+nazwę, identyfikację wizualną i oficjalną witrynę. Cały ten "pakiet", został
 przekazany kolegom z Wrocławia:
 [Tomasz Prus](https://www.linkedin.com/in/tomasz-prus-4b09b01a/),
 [Wojciech Baranowski](https://www.linkedin.com/in/wojciech-baranowski-84984bab/)
 i
 [Daniel Barrio Fierro](https://www.linkedin.com/in/daniel-barrio-fierro-a95053110/),
-którzy z dużym powodzeniem wciąż organizują te meetupy w ich rodzinnym mieście.
+którzy z dużym powodzeniem zaczęli organizować te meetupy w swoim mieście.
+(Później przekazali stery MeetContent WRO innym osobom. Cała historia zasługuje
+na osobny artykuł).
 
 Dzięki Danielowi MeetContent dotarł do Hiszpanii (Barcelona).
 
 Przez wiele lat odbywały się spotkania w Krakowie i Wrocławiu.
 
-Wrocławski MeetContent nadal pozostaje aktywny, a krakowski zakończył już swoją
+Wrocławski MeetContent jest nadal aktywny, a krakowski zakończył już swoją
 działalność.
 
 W 2024 w Krakowie powstała nowa marka meetupowa: Content Bytes założona przez
