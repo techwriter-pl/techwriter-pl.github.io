@@ -336,7 +336,7 @@ pełen potencjał.
 
 Konferencję poprzedzało pięć warsztatów w ramach Content Edu Summit.
 
-Podsumowanie w formie
+Zobacz podsumowanie w formie
 [klipu wideo](https://youtu.be/rc-MeNW2U6M?si=A9asKSsAUxfLGDf2).
 
 ### Nowa lokalizacja: Manggha
@@ -391,7 +391,7 @@ atrakcyjność tej konferencji w tamtym czasie:
 > tech commowej mapie Europy, jednocześnie nie zatracając atmosfery wydarzenia
 > organizowanego przez paczkę przyjaciół.
 
-Podsumowanie [wideo](https://youtu.be/Zi_PfEf7tQE?si=WgExPK711W8lW9nJ).
+Zobacz podsumowanie [wideo](https://youtu.be/Zi_PfEf7tQE?si=WgExPK711W8lW9nJ).
 
 ## Po raz szósty: 23-25 maja 2018
 
@@ -418,7 +418,7 @@ soap! jako uczestnik, prelegent i trener, podsumował w swojej
 > dobrego piwa. Podczas nieoficjalnej części jak zwykle panowała luźna atmosfera
 > i widać było, że wszyscy dobrze się bawili.
 
-Podsumowanie [wideo](https://youtu.be/FCZpPW1vlaw?si=6gy2B5uDfK4dm4d2).
+Zobacz podsumowanie [wideo](https://youtu.be/FCZpPW1vlaw?si=6gy2B5uDfK4dm4d2).
 
 ## Po raz siódmy: 5-7 czerwca 2019
 
@@ -442,7 +442,7 @@ Australia, Czechy, Niemcy, Finlandia, Francja, Węgry, Izrael, Malta, Malezja,
 Ukraina, USA i Wielka Brytania, którzy reprezentowali ponad 100 firm. Podobnie
 sytuacja się miała w wielu wcześniejszych edycjach.
 
-Podsumowanie
+Zobacz podsumowanie
 [wideo](https://www.youtube.com/watch?v=teA3well1ek&list=PLUY0lajb-kiaIbF6clQaxTp2lwqmrDDC5).
 
 ## Przerwa z powodu pandemii 2020-2021
