@@ -80,7 +80,7 @@ Głownie czytam w myślach. Czytanie na głos stanowi pewną odmianę i pozwala
 usłyszeć tekst nieco inaczej. Słysząc własny głos, aktywujemy inne obszary
 mózgu, mocniej skupiamy się nad czytanym tekstem.
 
-## Text to speech
+## Zamień tekst na wygenerowaną mowę
 
 Często korzystam z opcji automatycznego czytania przez wygenerowany głos. W
 przeglądarce Edge korzystam ze skrótu `Ctrl+Shift+U`. Można wybrać sobie rodzaj
