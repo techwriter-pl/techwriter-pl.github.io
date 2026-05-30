@@ -313,7 +313,7 @@ Podczas wydarzenia rysowała (dostarczała graphic recording) Jadźka Rysuje o c
 przeczytać możecie w
 [relacji](https://techwriter.pl/namydleni-po-raz-trzeci/#my-tu-gadu-gadu-a-jad%C5%BAka-rysuje).
 
-Pierwszy, darmowy dzień konferencji przyciągnął 170 uczestników, drugi (płatny)
+Pierwszy, darmowy dzień konferencji przyciągnął 170 uczestników, a drugi płatny
 dzień - 80.
 
 ## Po raz czwarty: 1-3 czerwca 2016
