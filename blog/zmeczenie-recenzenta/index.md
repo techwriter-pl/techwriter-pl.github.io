@@ -92,7 +92,7 @@ Warto zmieniać sobie rodzaje głosów, żeby znana Ci wcześniej treść mogła
 zabrzmieć na nowo.
 
 Obecnie dużo słyszy się o produkcie generowania syntetycznych głosów 11Labs,
-jeszcze z niego nie korzystałem. Ciekawe czy można usłyszeć tekst głosem Morgana
+jeszcze z niego nie korzystałem. Ciekawe czy można usłyszeć tekst czytany głosem Morgana
 Freemana. To byłoby epickie 😃!
 
 ## Immersive Reading
