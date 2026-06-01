@@ -74,7 +74,7 @@ własny tekst.
 Z powodu wymienionych trudności, myślałem o tym, co możemy zrobić, by lepiej
 radzić sobie z tymi wyzwania. Poniżej kilka pomysłów.
 
-## Czytanie na głos
+## Przeczytaj na głos
 
 Głownie czytam w myślach. Czytanie na głos stanowi pewną odmianę i pozwala
 usłyszeć tekst nieco inaczej. Słysząc własny głos, aktywujemy inne obszary
