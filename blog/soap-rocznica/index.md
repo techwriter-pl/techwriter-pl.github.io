@@ -10,38 +10,36 @@ coverImage: 'soap_title.jpg'
 ---
 
 Konferencje soap! zajmują szczególne miejsce w sercach osób żyjących komunikacją
-techniczną. Na Techwriterze z dumą zamieściliśmy relacje z każdej z nich. Były
+techniczną. Na Techwriterze z dumą zamieściliśmy relacje ze wszystkich 9 edycji. Były
 to wydarzenia, które wpłynęły na zawiązanie się społeczności i przyczyniły się
 do przyspieszenia jej rozwoju. Z artykułu dowiesz się:
 
 - Skąd wział się pomysł na tę konferencję?
 - O co chodzi z tym różowym mydłem?
-- Co kryje się za literami s-o-a-p?
+- Co kryje się za literami **s, o, a, p**?
 - Jak przebiegał rozwój tej inicjatywy i co z niej wynikło?
 
 <!--truncate-->
 
 ## Od autora
 
-Uczestniczyłem trzy razy w wydarzeniach w 2018, 2022 i 2023. Za każdym razem
-ubawiłem się przednio, miałem przyjemność porozmawiać z bardzo kontaktowymi
-ludźmi, za każdym razem wyniosłem wiele przydatnych informacji i przemyśleń.
+W konferencji wziąłem udział trzy razy: w 2018, 2022 i 2023. Za każdym razem bawiłem się wyśmienicie i miałem przyjemność porozmawiać z bardzo kontaktowymi ludźmi. Sporo się też dowiedziałem, co skłoniło mnie do wielu przemyśleń.
 Konferencje wyróżniała też niezwykle przyjazna atmosfera tworzona przez
 organizatorów i uczestników.
 
 W tym miejscu chciałem podziękować Gosi za rozmowę, podczas której streściła mi
 historię soap! Wiele zdań w tym artykule to wierne cytaty lub parafraza jej
 słów. Stwierdzenia były tak celne, że po prostu nie mogłem ich nie wykorzystać.
-Swoją drogą, trudno się temu dziwić, skoro Gosia i wszystkie osoby powiązane z
+historię soap!. Wiele zdań w tym artykule to wierne cytaty lub parafraza jej
 soap! to wytrawni specjaliści od komunikacji, a od nich spodziewać się można
 trafnych opisów.
 
 ## Stan branży w 2013
 
 Jak wyglądała wtedy polska scena technical writingu? Nie wiadomo ilu technical
-writerów było wtedy w Polsce. Osoby wykonujące ten zawód narzekały na narzekały
+writerów było wtedy w Polsce. Osoby wykonujące ten zawód narzekały 
 na poczucie izolacji zawodowej i ograniczony feedback od ekspertów, z którymi
-pracowali. Nasi bohaterowie czuli potrzebę zwiększenia świadomości o branży.
+writerów było wtedy w Polsce.
 Brakowało wtedy kierunków na studiach, które oferowały wiedzę o komunikacji
 technicznej.
 
@@ -52,10 +50,10 @@ W 2013,
 [Gosia Radymiak](https://www.linkedin.com/in/malgorzata-gosia-radymiak/) i
 [Paweł Kowaluk](https://www.linkedin.com/in/pawel-kowaluk/) pracowali w tej
 samej firmie. W obrębie ich zespołu dokumentacyjnego zapadła decyzja o przejściu
-do nowego, zaawansowanego narzędzia do tworzenia dokumentacji.
+na nowe, zaawansowanego narzędzia do tworzenia dokumentacji.
 
-Gosia miała wtedy niespełna rok doświadczenia jako technical writerka, w ramach
-którego dopiero poznawała standard DITA.
+Gosia miała wtedy niespełna rok doświadczenia jako technical writerka  
+i dopiero poznawała standard DITA.
 
 <p align="center">
 ![Zdjęcie Gosi inicjatorki](images/gosia_small.png)
@@ -78,17 +76,17 @@ jakości.
 Członkowie zespołu mieli dużo pytań na temat nowego narzędzia, migracji do niego
 i wyzwań technicznych. Razem doszli do wniosku:
 
-> Niemożliwe, żebyśmy jako jedyni spotkalismy sie z tymi problemami. Ktoś już
+> Niemożliwe, żebyśmy jako jedyni spotkali sie z tymi problemami. Ktoś już
 > wcześniej musiał to rozgryźć.
 
-Z tego powodu właśnie pojechali we trójkę do Londynu na trzydniową konferencję
+Z tego właśnie powodu pojechali do Londynu na trzydniową konferencję
 [Congility](https://www.ditawriter.com/interview-with-noz-urbina-about-the-upcoming-congility-conference/),
 na której prelegentem był [Noz Urbina](https://www.linkedin.com/in/nozurbina/).
 
 Wydarzenie było bardzo udane, wypełniały je spotkania, nawiązywanie kontaktów i
 przekazywanie wiedzy.
 
-Był wtedy czerwiec 2013 roku. Postanowili w październiku tamtego roku zrobić
+To był czerwiec 2013 roku. A już w październiku postanowili zrobić 
 własną konferencję w Polsce. Taka dynamika i rozmach robią wrażenie!
 
 Napędzały ich ambicja i młodzieńczy entuzjazm. Przyjrzyjmy się temu, jak
@@ -105,8 +103,8 @@ podeszli do nowego wyzwania.
 ![Historyczne logo Soap z nazwą konferencji](images/naglowek-conference-szary.png)
 
 Skąd wzięła się nazwa "soap!"? 🧼 Mydło nawiązywało do świeżości. Podczas rozmów
-o branży narodziła się metafora baniek 🫧 zamieszkiwanych przez różnych
-specjalistów od treści, którzy nie mieli świadomości siebie nawzajem. Historia
+o branży narodziła się metafora baniek 🫧, w których funkcjonowali różni  
+specjaliści od treści, którzy nie mieli świadomości siebie nawzajem. Historia
 nazwy została nieco szerzej opisana w
 [relacji z soap! z 2015 roku](https://techwriter.pl/namydleni-po-raz-trzeci/#o-co-chodzi-z-tym-r%C3%B3%C5%BCowym-myd%C5%82em).
 
@@ -139,9 +137,9 @@ konferencji bardzo istotne było zaufanie dla doświadczonych mówców.
 
 ### Sponsorzy
 
-Jedną z rzeczy wyjątkowych dla soap! było to, że udawało się dobrze rozumieć ze
+Jedną z rzeczy wyjątkowych dla soap! była udana współpraca ze 
 sponsorami. Ich obecność na konferencji była dyskretna. Uczestnicy mogli skupić
-się na temacie konferencji, nie było męczącej czy natrętnej promocji firm i ich
+się na tematach wystąpień, nie było męczącej czy natrętnej promocji firm i ich
 produktów. W tych kwestiach zachowana była perfekcyjna równowaga.
 
 ### Wyścig z czasem
@@ -151,13 +149,13 @@ międzynarodowe wydarzenie.
 
 ## Pierwsza odsłona: 3 październik 2013
 
-![Noz Urbina w trakcie prezentacji na tle ekranu z prezentacja z mikrofonem i przełącznikiem w rękach.](images/noz.jpg)
+![Noz Urbina w trakcie prezentacji na tle ekranu ze slajdami, z mikrofonem i przełącznikiem w rękach.](images/noz.jpg)
 
 **Noz Urbina - dobry duch soap!. Wystąpił podczas edycji 1 i 2.**
 
 W wydarzeniu promowanym metodą poczty pantoflowej wzięło udział 120 osób.
 
-Konferencja odbyła się na uczelni Wyższej Szkoły Europejskiej im. ks. Józefa
+Konferencja odbyła się w siedzibie Wyższej Szkoły Europejskiej im. ks. Józefa
 Tischnera, której Gosia była absolwentką.
 
 Udało się nawiązać współpracę z kilkoma sponsorami.
@@ -173,7 +171,7 @@ w głosowaniu na najlepsze wystąpienie. (W tej edycji Agnieszka prezentowała, 
 następnych jeszcze mocniej wpisała się w historię soap!, o czym przeczytacie za
 chwilę).
 
-Noz Urbina, którego organizatorzy słuchali podczas Congility, na soap! wystąpił
+Noz Urbina, którego organizatorzy słuchali podczas Congility, ponownie wcielił się w rolę prelegenta na soap! 
 jako prelegent.
 
 Gosia podzieliła się myślą, że organizując takie spotkanie można poznać lepiej
@@ -274,7 +272,7 @@ Była to jedyna odsłona, podczas której można było wybierać między dwiema
 ścieżkami prezentacji odbywającymi się w tym samym czasie. Ścieżka 1 nazywała
 się "sponge" 🧽, a ścieżka 2 - "bubbles" 🫧 😀.
 
-Noz Urbina powrócił z prezentacją, której zarysy znajdziecie
+Noz Urbina powrócił z prezentacją, której zarys znajdziecie
 [tutaj](https://techwriter.pl/soap-2014-summary-of-day-2/#find-a-common-language).
 
 Agnieszka Tkaczyk przedstawiła publice użyteczne informacje o stosowaniu
@@ -375,7 +373,7 @@ konferencji była jedną z nich.
 
 - Temat przewodni: _Rozwiązywanie problemów_.
 
-Kolejną atrakcją soap! na którą zwrócę uwagę są gadżety organizatorów i
+Kolejną atrakcją soap! na którą zwrócę uwagę były gadżety organizatorów i  
 partnerów, jakie w tej edycji można było wygrać w konkursach. Szczęśliwcy mogli
 otrzymać kubek Techwritera, leżak soap!, a sponsorzy ofiarowali jako nagrody
 licencje na oprogramowanie. W późniejszych edycjach organizowane były loterie w
@@ -456,7 +454,7 @@ W edycji z czerwca 2019 odnotowano bardzo wysoką liczbę uczestników.
 W 2020 nastała pandemia, która, podobnie jak w wielu innych obszarach życia,
 wszystko zmieniła i sporo namieszała.
 
-Przez dwa lata soap! się nie odbywał i wszystko było pod znakiem wielkiego
+Przez dwa lata soap! się nie odbywał i wszystko stało pod znakiem wielkiego
 wyczekiwania.
 
 Tuż po zakończeniu się pandemii, krajobraz konferencyjny wyglądał inaczej.
@@ -474,7 +472,7 @@ Ekipie zależało na tym, by zrewidować dobre i złe praktyki, które zdążył
 wytworzyć przez lata. Stale byli wyczuleni na uwagi odwiedzających.
 
 - Tematem wiodącym była _przyszłość technical writingu_. Temat AI cieszył się
-  gorącym zainteresowaniem.
+ dużym zainteresowaniem.
 
 Znakiem czasu było to, że była to pierwsza edycja dostępna w ramach transmisji
 online.
@@ -482,7 +480,7 @@ online.
 ### Ile masła może kupić tech writer z Litwy?
 
 Jednym z ciekawych wystąpień była prezentacja statystyk dotyczących zarobków
-technical writerów, zwłaszcza tych z Europy środkowej i wschodniej.
+technical writerów, zwłaszcza tych z Europy Środkowej i Wschodniej.
 
 ### Soapuszka: początek
 
@@ -502,17 +500,17 @@ soap! 2023!
 
 ![Paweł i Michał stoją na scenie na tle ekranu do przeprowadzenia teleturnieju, widoczni uczestnicy konkursu.](images/super.jpg)
 
-Wyjątkową nowością, jaką tylko uświadczyliśmy na konferencji w 2022, był
+Wyjątkową nowością, której uświadczyliśmy tylko podczas konferencji w 2022, był
 teleturniej. Oto jego
 [kultowy zwiastun](https://www.linkedin.com/posts/soap-techcomm_excitingnewsalert-supergame-soapconf-activity-6920791703234699264-6mUf).
 W czasie konkursu było dużo śmiechu. Każdy miał szansę wykazania się wiedzą o
 technical writingu. Emocje sięgnęły zenitu, a sztuczna inteligencja stworzona na
-potrzeby teleturnieju przez Pawła zaczęła żyć własnym życiem i co i rusz
+potrzeby teleturnieju przez Pawła zaczęła żyć własnym życiem i co rusz
 zaznaczała swoją niezależność.
 
 Dzięki tej grze poznałem
 [Mateusza Boryckiego](https://www.linkedin.com/in/mateusz-borycki-2817a6186/),
-który dobrze wywiązywał się obowiązków wynikających z bycia głową rodziny w tej
+który dobrze wywiązywał się z obowiązków wynikających z bycia głową rodziny w tej
 dokumentacyjnej "Familiadzie".
 
 ## Po raz dziewiąty: 1-3 czerwca 2023
@@ -587,9 +585,8 @@ To szeroka tabela, u jej dołu znajdziesz pasek do przewijania na boki.
 Słowami Gosi:
 
 > soap! dał ożywienie. Nie wiadomo czy to zbieżność w czasie, z pewnością
-> konferencja odegrała rolę. Zaczęły się inicjatywy takie jak ITCQF, Techwriter
-> Koduje. Niektóre osoby ośmielili się coś robić. Ludzie zaczęli działać. soap!
-> przyczyniła się do tego.
+> konferencja odegrała rolę. Zaczęły się inicjatywy takie jak ITCQF, Tech Writer
+> Koduje. Niektóre osoby ośmieliły się coś robić. Ludzie zaczęli działać. 
 
 > Zmieniła się świadomość osoby dbającej o dokumentację. Ta osoba poczuła się
 > ważniejsza w projekcie, odezwie się, napisze artykuł.
@@ -668,7 +665,7 @@ Jak to kiedyś określił Michał Skowron:
 Jakkolwiek patetycznie może to zabrzmieć, soap! był wyjątkowy dzięki ludziom
 którzy go tworzyli i w nim uczestniczyli. Była to przestrzeń na spotkania ludzi
 rozumiejących bolączki dokumentacji, mających ochotę nauczyć się czegoś i
-jednocześnie gotowych przekazać swoją wiedzę i doświadczenia innym. Zachowujemy
+, którzy go tworzyli i w nim uczestniczyli. Była to przestrzeń na spotkania ludzi
 w pamięci naprawdę niezapomniane chwile radości, a czasem olśnienia. soap!
 zawsze kojarzyć mi się będzie z entuzjazmem, zaangażowaniem i niecierpliwym
 pałaszowaniem olbrzymich dawek wiedzy.
