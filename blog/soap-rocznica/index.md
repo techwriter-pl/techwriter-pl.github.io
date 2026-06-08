@@ -16,7 +16,7 @@ do przyspieszenia jej rozwoju. Z artykułu dowiesz się:
 
 - Skąd wział się pomysł na tę konferencję?
 - O co chodzi z tym różowym mydłem?
-- Co kryje się za literami **s, o, a, p**?
+- Co kryje się za literami **s**, **o**, **a**, **p**?
 - Jak przebiegał rozwój tej inicjatywy i co z niej wynikło?
 
 <!--truncate-->
@@ -24,14 +24,12 @@ do przyspieszenia jej rozwoju. Z artykułu dowiesz się:
 ## Od autora
 
 W konferencji wziąłem udział trzy razy: w 2018, 2022 i 2023. Za każdym razem bawiłem się wyśmienicie i miałem przyjemność porozmawiać z bardzo kontaktowymi ludźmi. Sporo się też dowiedziałem, co skłoniło mnie do wielu przemyśleń.
-Konferencje wyróżniała też niezwykle przyjazna atmosfera tworzona przez
+Konferencję wyróżniała też niezwykle przyjazna atmosfera tworzona przez
 organizatorów i uczestników.
 
 W tym miejscu chciałem podziękować Gosi za rozmowę, podczas której streściła mi
-historię soap! Wiele zdań w tym artykule to wierne cytaty lub parafraza jej
-słów. Stwierdzenia były tak celne, że po prostu nie mogłem ich nie wykorzystać.
 historię soap!. Wiele zdań w tym artykule to wierne cytaty lub parafraza jej
-soap! to wytrawni specjaliści od komunikacji, a od nich spodziewać się można
+słów. Stwierdzenia były tak celne, że po prostu nie mogłem ich nie wykorzystać. Swoją drogą, trudno się temu dziwić, skoro Gosia i wszystkie osoby powiązane z soap! to wytrawni wytrawni specjaliści od komunikacji, a od nich spodziewać się można
 trafnych opisów.
 
 ## Stan branży w 2013
@@ -50,7 +48,7 @@ W 2013,
 [Gosia Radymiak](https://www.linkedin.com/in/malgorzata-gosia-radymiak/) i
 [Paweł Kowaluk](https://www.linkedin.com/in/pawel-kowaluk/) pracowali w tej
 samej firmie. W obrębie ich zespołu dokumentacyjnego zapadła decyzja o przejściu
-na nowe, zaawansowanego narzędzia do tworzenia dokumentacji.
+na nowe, zaawansowane narzędzie do tworzenia dokumentacji.
 
 Gosia miała wtedy niespełna rok doświadczenia jako technical writerka  
 i dopiero poznawała standard DITA.
@@ -76,7 +74,7 @@ jakości.
 Członkowie zespołu mieli dużo pytań na temat nowego narzędzia, migracji do niego
 i wyzwań technicznych. Razem doszli do wniosku:
 
-> Niemożliwe, żebyśmy jako jedyni spotkali sie z tymi problemami. Ktoś już
+> Niemożliwe, żebyśmy jako jedyni spotkali się z tymi problemami. Ktoś już
 > wcześniej musiał to rozgryźć.
 
 Z tego właśnie powodu pojechali do Londynu na trzydniową konferencję
@@ -171,8 +169,7 @@ w głosowaniu na najlepsze wystąpienie. (W tej edycji Agnieszka prezentowała, 
 następnych jeszcze mocniej wpisała się w historię soap!, o czym przeczytacie za
 chwilę).
 
-Noz Urbina, którego organizatorzy słuchali podczas Congility, ponownie wcielił się w rolę prelegenta na soap! 
-jako prelegent.
+Noz Urbina, którego organizatorzy słuchali podczas Congility, ponownie wcielił się w rolę prelegenta na soap!.
 
 Gosia podzieliła się myślą, że organizując takie spotkanie można poznać lepiej
 siebie i innych. Z pewnością nie była to bułka z masłem. W takich wymagających
@@ -471,8 +468,7 @@ Przyszedł czas na wznowienie soap!. Powrót po przerwie należał do trudnych.
 Ekipie zależało na tym, by zrewidować dobre i złe praktyki, które zdążyły się
 wytworzyć przez lata. Stale byli wyczuleni na uwagi odwiedzających.
 
-- Tematem wiodącym była _przyszłość technical writingu_. Temat AI cieszył się
- dużym zainteresowaniem.
+- Tematem wiodącym była _przyszłość technical writingu_. Temat AI cieszył się dużym zainteresowaniem.
 
 Znakiem czasu było to, że była to pierwsza edycja dostępna w ramach transmisji
 online.
@@ -662,7 +658,7 @@ Jak to kiedyś określił Michał Skowron:
 
 > I stayed for the people!
 
-Jakkolwiek patetycznie może to zabrzmieć, soap! był wyjątkowy dzięki ludziom
+Jakkolwiek patetycznie może to zabrzmieć, soap! był wyjątkowy dzięki ludziom,
 którzy go tworzyli i w nim uczestniczyli. Była to przestrzeń na spotkania ludzi
 rozumiejących bolączki dokumentacji, mających ochotę nauczyć się czegoś i
 , którzy go tworzyli i w nim uczestniczyli. Była to przestrzeń na spotkania ludzi
