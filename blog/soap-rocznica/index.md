@@ -1,7 +1,7 @@
 ---
 title: 'Śladami soap! Dziesięć lat inspiracji.'
 authors: niewiarowski
-date: '2026-05-29'
+date: '2026-06-15'
 tags:
   - 'społeczność'
   - 'z-kraju'
