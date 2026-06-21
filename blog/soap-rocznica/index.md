@@ -11,9 +11,9 @@ coverImage: 'soap_title.jpg'
 ---
 
 Konferencje soap! zajmują szczególne miejsce w sercach osób żyjących komunikacją
-techniczną. Na Techwriterze z dumą zamieściliśmy relacje ze wszystkich 9 edycji. Były
-to wydarzenia, które wpłynęły na zawiązanie się społeczności i przyczyniły się
-do przyspieszenia jej rozwoju. Z artykułu dowiesz się:
+techniczną. Na Techwriterze z dumą zamieściliśmy relacje ze wszystkich 9 edycji.
+Były to wydarzenia, które wpłynęły na zawiązanie się społeczności i przyczyniły
+się do przyspieszenia jej rozwoju. Z artykułu dowiesz się:
 
 - Skąd wział się pomysł na tę konferencję?
 - O co chodzi z tym różowym mydłem?
@@ -24,23 +24,26 @@ do przyspieszenia jej rozwoju. Z artykułu dowiesz się:
 
 ## Od autora
 
-W konferencji wziąłem udział trzy razy: w 2018, 2022 i 2023. Za każdym razem bawiłem się wyśmienicie i miałem przyjemność porozmawiać z bardzo kontaktowymi ludźmi. Sporo się też dowiedziałem, co skłoniło mnie do wielu przemyśleń.
+W konferencji wziąłem udział trzy razy: w 2018, 2022 i 2023. Za każdym razem
+bawiłem się wyśmienicie i miałem przyjemność porozmawiać z bardzo kontaktowymi
+ludźmi. Sporo się też dowiedziałem, co skłoniło mnie do wielu przemyśleń.
 Konferencję wyróżniała też niezwykle przyjazna atmosfera tworzona przez
 organizatorów i uczestników.
 
 W tym miejscu chciałem podziękować Gosi za rozmowę, podczas której streściła mi
 historię soap!. Wiele zdań w tym artykule to wierne cytaty lub parafraza jej
-słów. Stwierdzenia były tak celne, że po prostu nie mogłem ich nie wykorzystać. Swoją drogą, trudno się temu dziwić, skoro Gosia i wszystkie osoby powiązane z soap! to wytrawni wytrawni specjaliści od komunikacji, a od nich spodziewać się można
-trafnych opisów.
+słów. Stwierdzenia były tak celne, że po prostu nie mogłem ich nie wykorzystać.
+Swoją drogą, trudno się temu dziwić, skoro Gosia i wszystkie osoby powiązane z
+soap! to wytrawni wytrawni specjaliści od komunikacji, a od nich spodziewać się
+można trafnych opisów.
 
 ## Stan branży w 2013
 
 Jak wyglądała wtedy polska scena technical writingu? Nie wiadomo ilu technical
-writerów było wtedy w Polsce. Osoby wykonujące ten zawód narzekały 
-na poczucie izolacji zawodowej i ograniczony feedback od ekspertów, z którymi
-writerów było wtedy w Polsce.
-Brakowało wtedy kierunków na studiach, które oferowały wiedzę o komunikacji
-technicznej.
+writerów było wtedy w Polsce. Osoby wykonujące ten zawód narzekały na poczucie
+izolacji zawodowej i ograniczony feedback od ekspertów, z którymi writerów było
+wtedy w Polsce. Brakowało wtedy kierunków na studiach, które oferowały wiedzę o
+komunikacji technicznej.
 
 ## Pomysł i silna grupa założycielska
 
@@ -85,8 +88,8 @@ na której prelegentem był [Noz Urbina](https://www.linkedin.com/in/nozurbina/)
 Wydarzenie było bardzo udane, wypełniały je spotkania, nawiązywanie kontaktów i
 przekazywanie wiedzy.
 
-To był czerwiec 2013 roku. A już w październiku postanowili zrobić 
-własną konferencję w Polsce. Taka dynamika i rozmach robią wrażenie!
+To był czerwiec 2013 roku. A już w październiku postanowili zrobić własną
+konferencję w Polsce. Taka dynamika i rozmach robią wrażenie!
 
 Napędzały ich ambicja i młodzieńczy entuzjazm. Przyjrzyjmy się temu, jak
 podeszli do nowego wyzwania.
@@ -136,10 +139,10 @@ konferencji bardzo istotne było zaufanie dla doświadczonych mówców.
 
 ### Sponsorzy
 
-Jedną z rzeczy wyjątkowych dla soap! była udana współpraca ze 
-sponsorami. Ich obecność na konferencji była dyskretna. Uczestnicy mogli skupić
-się na tematach wystąpień, nie było męczącej czy natrętnej promocji firm i ich
-produktów. W tych kwestiach zachowana była perfekcyjna równowaga.
+Jedną z rzeczy wyjątkowych dla soap! była udana współpraca ze sponsorami. Ich
+obecność na konferencji była dyskretna. Uczestnicy mogli skupić się na tematach
+wystąpień, nie było męczącej czy natrętnej promocji firm i ich produktów. W tych
+kwestiach zachowana była perfekcyjna równowaga.
 
 ### Wyścig z czasem
 
@@ -170,7 +173,15 @@ w głosowaniu na najlepsze wystąpienie. (W tej edycji Agnieszka prezentowała, 
 następnych jeszcze mocniej wpisała się w historię soap!, o czym przeczytacie za
 chwilę).
 
-Noz Urbina, którego organizatorzy słuchali podczas Congility, ponownie wcielił się w rolę prelegenta na soap!.
+Noz Urbina, którego organizatorzy słuchali podczas Congility, ponownie wcielił
+się w rolę prelegenta na soap!.
+
+Wielkim wsparciem dla pierwszego soap! okazał się
+[Piotr Peszko](https://www.linkedin.com/in/piotr-peszko-elearning/)
+specjalizujący się w materiałach e-learningowych. Piotr podzielił się swoim
+doświadczeniem w prezentowaniu i organizacji wydarzeń, z powodzeniem przedstawił
+swój temat "How the tin can API will revolutionize the learning world". W
+późniejszych edycjach powrócił jako prelegent.
 
 Gosia podzieliła się myślą, że organizując takie spotkanie można poznać lepiej
 siebie i innych. Z pewnością nie była to bułka z masłem. W takich wymagających
@@ -219,7 +230,7 @@ Zawiązała się ekipa o takim składzie:
 | Kto                                                                                  | Parę słów o                                                                                                                                                                                              | Rola/obszar                                                                                  |
 | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
 | [Gosia Radymiak](https://www.linkedin.com/in/malgorzata-gosia-radymiak/)             | W tamtym czasie była technical writerką i specjalistką od jakości. Interesowały ją nurkowanie, wędrówki po górach, zapiekanki i DITA.                                                                    | - Project Manager, który spina wszystko w całość <br />- "Driver" projektu                   |
-| [Karolina Karbarz](https://www.linkedin.com/in/karolina-karbarz)                     | Specjalistka od projektowania graficznego, fanka ciast czekoladowych, koreańskich filmów i spacerów z czworonogiem.                                                                                       | - Strona Internetowa <br /> - Szata graficzna <br />- Grafiki                                |
+| [Karolina Karbarz](https://www.linkedin.com/in/karolina-karbarz)                     | Specjalistka od projektowania graficznego, fanka ciast czekoladowych, koreańskich filmów i spacerów z czworonogiem.                                                                                      | - Strona Internetowa <br /> - Szata graficzna <br />- Grafiki                                |
 | [Piotr Milewski](https://www.linkedin.com/in/piotrmilewski) zwany Piterem            | Absolwent Wyższej Szkoły Europejskiej (Lingwistyka Stosowana). Technical writer z zamiłowaniem do wspinaczki górskiej, [skitouringu](https://skitourschool.pl/co-to-jest-skitouring/) i paralotniarstwa. | - Speakerzy i trenerzy <br />- Laptopy i ekrany <br />- Współpraca z Manggha                 |
 | [Agnieszka Tkaczyk](https://www.linkedin.com/in/agnieszka-tkaczyk-walczak-93508570/) | W tamtym czasie Agnieszka była Information Developerem, jako tłumaczka współpracowała z krakowskimi uniwersytetami. Oprócz dokumentacji interesowało ją projektowanie interfejsów użytkownika.           | - Sponsorzy i partnerzy                                                                      |
 | [Iga Koprowska](https://www.linkedin.com/in/iga-koprowska)                           | Filolożka angielska i tłumaczka. Odbyła kurs technical writingowy dla studentów Uniwersytetu Jagielońskiego razem z Gosią. Wciąż pozostaje w nurcie komunikacji technicznej.                             | - Media społecznościowe <br /> - Komunikaty <br /> - Copywriting na stronę <br /> - Branding |
@@ -395,6 +406,9 @@ Zobacz podsumowanie [wideo](https://youtu.be/Zi_PfEf7tQE?si=WgExPK711W8lW9nJ).
 
 - Temat przewodni: _Innowacja kontra prostota_.
 
+Piotr Peszko powrócił z brawurową prezentacją, którą do dziś wspominam z
+uśmiechem. Była kozacka!
+
 Podobnie jak w wielu poprzednich odsłonach, w tej również był wysoki poziom
 prezentacji, przydatne warsztaty i świetna atmosfera.
 
@@ -469,7 +483,8 @@ Przyszedł czas na wznowienie soap!. Powrót po przerwie należał do trudnych.
 Ekipie zależało na tym, by zrewidować dobre i złe praktyki, które zdążyły się
 wytworzyć przez lata. Stale byli wyczuleni na uwagi odwiedzających.
 
-- Tematem wiodącym była _przyszłość technical writingu_. Temat AI cieszył się dużym zainteresowaniem.
+- Tematem wiodącym była _przyszłość technical writingu_. Temat AI cieszył się
+  dużym zainteresowaniem.
 
 Znakiem czasu było to, że była to pierwsza edycja dostępna w ramach transmisji
 online.
@@ -507,8 +522,8 @@ zaznaczała swoją niezależność.
 
 Dzięki tej grze poznałem
 [Mateusza Boryckiego](https://www.linkedin.com/in/mateusz-borycki-2817a6186/),
-który dobrze wywiązywał się z obowiązków wynikających z bycia głową rodziny w tej
-dokumentacyjnej "Familiadzie".
+który dobrze wywiązywał się z obowiązków wynikających z bycia głową rodziny w
+tej dokumentacyjnej "Familiadzie".
 
 ## Po raz dziewiąty: 1-3 czerwca 2023
 
@@ -583,7 +598,7 @@ Słowami Gosi:
 
 > soap! dał ożywienie. Nie wiadomo czy to zbieżność w czasie, z pewnością
 > konferencja odegrała rolę. Zaczęły się inicjatywy takie jak ITCQF, Tech Writer
-> Koduje. Niektóre osoby ośmieliły się coś robić. Ludzie zaczęli działać. 
+> Koduje. Niektóre osoby ośmieliły się coś robić. Ludzie zaczęli działać.
 
 > Zmieniła się świadomość osoby dbającej o dokumentację. Ta osoba poczuła się
 > ważniejsza w projekcie, odezwie się, napisze artykuł.
@@ -661,8 +676,8 @@ Jak to kiedyś określił Michał Skowron:
 
 Jakkolwiek patetycznie może to zabrzmieć, soap! był wyjątkowy dzięki ludziom,
 którzy go tworzyli i w nim uczestniczyli. Była to przestrzeń na spotkania ludzi
-rozumiejących bolączki dokumentacji, mających ochotę nauczyć się czegoś i
-, którzy go tworzyli i w nim uczestniczyli. Była to przestrzeń na spotkania ludzi
+rozumiejących bolączki dokumentacji, mających ochotę nauczyć się czegoś i ,
+którzy go tworzyli i w nim uczestniczyli. Była to przestrzeń na spotkania ludzi
 w pamięci naprawdę niezapomniane chwile radości, a czasem olśnienia. soap!
 zawsze kojarzyć mi się będzie z entuzjazmem, zaangażowaniem i niecierpliwym
 pałaszowaniem olbrzymich dawek wiedzy.
@@ -694,6 +709,10 @@ Na kanale YouTube znajdziecie
 [nagrania](https://www.youtube.com/@SoapconfPage/playlists) z niektórych edycji.
 Mimo upływu lat, warto do nich wrócić, w dokumentacji sporo tematów nie traci na
 aktualności.
+
+### Wywiad Piotra Peszko z Gosią Radymiak
+
+[2EDU - Jak budować społeczność technical writingu w Krakowie](https://blog.2edu.pl/2015/09/jak-budowac-spolecznosc-technical-writing-w-krakowie-wywiad-z-malgorzata-radymiak.html)
 
 ### soap! oczami innych uczestników
 
