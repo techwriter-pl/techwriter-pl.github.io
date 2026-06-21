@@ -627,8 +627,12 @@ przekazany kolegom z Wrocławia:
 i
 [Daniel Barrio Fierro](https://www.linkedin.com/in/daniel-barrio-fierro-a95053110/),
 którzy z dużym powodzeniem zaczęli organizować te meetupy w swoim mieście.
-(Później przekazali stery MeetContent WRO innym osobom. Cała historia zasługuje
-na osobny artykuł).
+
+(Dodać należy, że Tomasz i Daniel byli aktywnie zaangażowani w soap!, wiele razy
+wcielali się w rolę prelegentów i trenerów).
+
+W późniejszym etapie stery MeetContent WRO zostały przekazane innym osobom. Cała
+historia zasługuje na osobny artykuł.
 
 Dzięki Danielowi MeetContent dotarł do Hiszpanii (Barcelona).
 
