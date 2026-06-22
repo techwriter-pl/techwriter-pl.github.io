@@ -178,10 +178,12 @@ się w rolę prelegenta na soap!.
 
 Wielkim wsparciem dla pierwszego soap! okazał się
 [Piotr Peszko](https://www.linkedin.com/in/piotr-peszko-elearning/)
-specjalizujący się w materiałach e-learningowych. Piotr podzielił się swoim
-doświadczeniem w prezentowaniu i organizacji wydarzeń, z powodzeniem przedstawił
-swój temat "How the tin can API will revolutionize the learning world". W
-późniejszych edycjach powrócił jako prelegent.
+specjalizujący się w materiałach e-learningowych. Piotr dzielił się z
+organizatorami swoim doświadczeniem w prezentowaniu, zachęcał ich do działania,
+przekonując ich, że sobie poradzą. Piotr prezentował nastawienie, wedle którego
+człowiek uczy się robiąc, trzeba tylko zacząć i wszystko staje się możliwe.
+Na soap! 2023, Piotr z powodzeniem przedstawił swój temat "How the tin can API will revolutionize the
+learning world". W kilku późniejszych edycjach powrócił jako prelegent.
 
 Gosia podzieliła się myślą, że organizując takie spotkanie można poznać lepiej
 siebie i innych. Z pewnością nie była to bułka z masłem. W takich wymagających
@@ -314,7 +316,8 @@ budynku. Z powodu zimna, większą część czasu uczestnicy siedzieli w kurtkac
 szalikach, był to w końcu październik. Kto był, ten wie!
 
 Mimo takich przeciwności, morale i poziom merytoryczny wydarzenia były nader
-wysokie.
+wysokie. Piotr Peszko po raz kolejny stanał na scenie, przedstawiajac "Key
+challenges with global content development".
 
 Podczas wydarzenia rysowała (dostarczała graphic recording) Jadźka Rysuje o czym
 przeczytać możecie w
