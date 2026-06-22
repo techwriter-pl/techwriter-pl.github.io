@@ -180,10 +180,11 @@ Wielkim wsparciem dla pierwszego soap! okazał się
 [Piotr Peszko](https://www.linkedin.com/in/piotr-peszko-elearning/)
 specjalizujący się w materiałach e-learningowych. Piotr dzielił się z
 organizatorami swoim doświadczeniem w prezentowaniu, zachęcał ich do działania,
-przekonując ich, że sobie poradzą. Piotr prezentował nastawienie, wedle którego
-człowiek uczy się robiąc, trzeba tylko zacząć i wszystko staje się możliwe.
-Na soap! 2013, Piotr z powodzeniem przedstawił swój temat "How the tin can API will revolutionize the
-learning world". W kilku późniejszych edycjach powrócił jako prelegent.
+przekonując ich, że ze wszystkim sobie poradzą. Prezentował nastawienie, wedle
+którego człowiek uczy się robiąc, trzeba tylko zacząć i wszystko staje się
+możliwe. Na soap! 2013, Piotr z powodzeniem przedstawił swój temat "How the tin
+can API will revolutionize the learning world". Kilkakrotnie powrócił jeszcze
+jako prelegent podczas kolejnych edycji.
 
 Gosia podzieliła się myślą, że organizując takie spotkanie można poznać lepiej
 siebie i innych. Z pewnością nie była to bułka z masłem. W takich wymagających
