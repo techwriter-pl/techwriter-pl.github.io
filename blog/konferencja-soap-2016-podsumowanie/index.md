@@ -28,8 +28,8 @@ brzegu Wisły. soap! co roku zaskakuje nas nową lokalizacją i w tym roku było
 zaskoczenie zdecydowanie pozytywne. Muzeum Sztuki i Techniki Japońskiej
 przywitało nas salą konferencyjną z prawdziwego zdarzenia, dużą przestrzenią dla
 wystawców, pięknym tarasem z widokiem na Wisłę i smacznymi przekąskami. Wcale
-nie dziwi nas więc decyzja organizatorów konferencji, aby w
-[przyszłym roku](http://2017.soapconf.com/) spotkać się w tym samym miejscu.
+nie dziwi nas więc decyzja organizatorów konferencji, aby w przyszłym roku
+spotkać się w tym samym miejscu.
 
 Dla tych, którym rozmowy w kuluarach, przy napojach, posiłkach i na tarasach nie
 wystarczają, albo nie mogli dotrzeć osobiście, prowadzono relację na żywo na

@@ -12,10 +12,9 @@ tags:
 coverImage: 'content_economy.jpg'
 ---
 
-Za nami kolejne webinarium zorganizowane przez [soap!](http://www.soapconf.com/)
-Odbyło się ono 9 kwietnia i poprowadziła
-je [Rahel Anne Bailie](http://intentionaldesign.ca/profile/), specjalistka od
-procesów zarządzania treścią i współautorka
+Za nami kolejne webinarium zorganizowane przez soap!. Odbyło się ono 9 kwietnia
+i poprowadziła je [Rahel Anne Bailie](http://intentionaldesign.ca/profile/),
+specjalistka od procesów zarządzania treścią i współautorka
 książki [Content Strategy: Connecting the dots between business, brand, and benefits](http://thecontentstrategybook.com/).
 
 <!--truncate-->
@@ -92,10 +91,8 @@ kompetencyjne i poszukiwać treści z odpowiednich źródeł, dostarczać je na
 właściwych platformach, do odpowiednich ludzi, w odpowiednim momencie, w
 adekwatnym formacie, wersji i języku.
 
-Webinarium można obejrzeć
-[tutaj](http://www.soapconf.com/another-great-webinar-content-strategy-content-economy/),
-do czego gorąco zachęcamy. Rahel Anne Bailie opowiada ciekawie, wyraźnie słychać
-ze posiada dużo praktycznej, a nie tylko teoretycznej wiedzy, używa też
-interesujących, z życia wziętych przykładów. W paździeniku będziemy mogli
-obejrzeć ją na żywo podczas drugiej konferencji
-[soap!](http://www.soapconf.com/2014-conference/)
+Webinarium można obejrzeć tutaj(usunięty link), do czego gorąco zachęcamy. Rahel
+Anne Bailie opowiada ciekawie, wyraźnie słychać ze posiada dużo praktycznej, a
+nie tylko teoretycznej wiedzy, używa też interesujących, z życia wziętych
+przykładów. W paździeniku będziemy mogli obejrzeć ją na żywo podczas drugiej
+konferencji soap!.

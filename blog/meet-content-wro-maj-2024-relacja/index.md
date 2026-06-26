@@ -4,6 +4,7 @@ authors: mrozek
 date: '2024-06-16'
 tags:
   - 'meetups'
+  - 'meetcontent'
   - 'grafika'
 coverImage: '28MeetContentWRO.png'
 ---

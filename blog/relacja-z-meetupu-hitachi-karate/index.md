@@ -6,6 +6,7 @@ tags:
   - 'news'
   - 'z-kraju'
   - 'meetcontent'
+  - 'meetups'
   - 'społeczność'
 coverImage: '1693820333064.png'
 ---

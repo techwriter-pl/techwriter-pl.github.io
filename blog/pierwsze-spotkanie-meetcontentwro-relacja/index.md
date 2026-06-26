@@ -10,6 +10,7 @@ tags:
   - 'konferencje'
   - 'społeczność'
   - 'szkolenia'
+  - 'meetcontent'
 coverImage: 'Wroclaw-Most_Grunwaldzki.jpg'
 ---
 
@@ -45,9 +46,8 @@ tematami TechComm.
 Meetup miał formę panelu dyskusyjnego prowadzonego przez Daniela i Wojtka.
 Panelistami byli: **Erin Vang** – menedżerka działu technical communication w
 Dolby Laboratories, **Gosia Radymiak** – założycielka soap! technical
-communication (soapconf.com i meetcontent.org), **Wojtek Aleksander** –
-specjalista od UX w GetResponse oraz **Tomek Prus** – menedżer w dziale
-dokumentacji w Unit4.
+communication (soap! i meetcontent), **Wojtek Aleksander** – specjalista od UX w
+GetResponse oraz **Tomek Prus** – menedżer w dziale dokumentacji w Unit4.
 
 ![](images/MeetContentWRO1_1.jpg)
 

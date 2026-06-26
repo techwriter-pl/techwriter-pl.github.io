@@ -52,9 +52,9 @@ Intercultural and Global Contexts”. To doskonała okazja, by zdobyć nowe
 doświadczenie, szersze perspektywy, nowe znajomości i cenny wpis do CV.
 Szczegóły [tutaj](https://www.craft.do/s/VOd7B47ytH4bhA).
 
-Kadrę zasilił Lance Cummings, znany z corocznych wystąpień na
-[konferencji soap!](https://soapconf.com/). Wykładowcy to tylko i wyłącznie
-praktycy, którzy są rozpoznawalni na międzynarodowej scenie techcommu.
+Kadrę zasilił Lance Cummings, znany z corocznych wystąpień na konferencji soap!.
+Wykładowcy to tylko i wyłącznie praktycy, którzy są rozpoznawalni na
+międzynarodowej scenie techcommu.
 
 ### Partnerzy
 

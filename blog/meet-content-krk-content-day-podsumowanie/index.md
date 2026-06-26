@@ -4,8 +4,9 @@ authors: bczyz
 date: '2024-06-27'
 tags:
   - 'news'
-  - 'meetcontent'
+  - 'meetups'
   - 'społeczność'
+  - 'meetcontent'
 coverImage: 'krk-content-day.png'
 ---
 

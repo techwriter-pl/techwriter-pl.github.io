@@ -26,10 +26,10 @@ konferencji wzięło udział 13 "reprezentantów" polskich firm: Dassault System
 ATSI, Motoroli, Nokii oraz IBMa. Na 15 prelegentów, dwóch było z Polski:
 [Agnieszka Tkaczyk](http://www.uaeurope.com/conference/speakers.html#tkaczyk)
 oraz [Paweł Kowaluk](http://www.uaeurope.com/conference/speakers.html#kowaluk).
-Agnieszki mogliśmy już posłuchać podczas ubiegłoroczego
-[soapa!](http://www.soapconf.com/), którego organizatorem był między innymi
-właśnie Paweł. Jak na razie dobrze się zapowiada, prawda? Wśród pozostałych
-prelegentów znalazły się znane w branży nazwiska takie jak:
+Agnieszki mogliśmy już posłuchać podczas ubiegłoroczego soapa!, którego
+organizatorem był między innymi właśnie Paweł. Jak na razie dobrze się
+zapowiada, prawda? Wśród pozostałych prelegentów znalazły się znane w branży
+nazwiska takie jak:
 [Tony Self,](http://www.uaeurope.com/conference/speakers.html#self)
 [Dave Gash](http://www.uaeurope.com/conference/speakers.html#gash),
 [Ray Gallon](http://www.uaeurope.com/conference/speakers.html#gallon) i
