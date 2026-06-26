@@ -1,7 +1,7 @@
 ---
 title: 'Śladami soap! Dziesięć lat inspiracji.'
 authors: niewiarowski
-date: '2026-06-30'
+date: '2026-06-26'
 tags:
   - 'społeczność'
   - 'z-kraju'
@@ -15,7 +15,7 @@ techniczną. Na Techwriterze z dumą zamieściliśmy relacje ze wszystkich 9 edy
 Były to wydarzenia, które wpłynęły na zawiązanie się społeczności i przyczyniły
 się do przyspieszenia jej rozwoju w Polsce. Z artykułu dowiesz się:
 
-- Skąd wział się pomysł na te konferencje?
+- Skąd wziął się pomysł na te konferencje?
 - O co chodzi z różowym mydłem?
 - Co kryje się za literami **s**, **o**, **a**, **p**?
 - Jak przebiegał rozwój inicjatywy i co z niej wynikło?
@@ -324,7 +324,7 @@ challenges with global content development".
 
 Podczas wydarzenia graphic recording dostarczyła Natalia Mikołajek, znana pod
 pseudonimem artystycznym "Jadźka Rysuje", który jest też nazwą jej działalności.
-Wiecej o jej obecności na soap! przeczytać możecie w
+Więcej o jej obecności na soap! przeczytać możecie w
 [relacji](https://techwriter.pl/namydleni-po-raz-trzeci/#my-tu-gadu-gadu-a-jad%C5%BAka-rysuje).
 
 Pierwszy, darmowy dzień konferencji przyciągnął 170 uczestników, a drugi płatny
@@ -550,11 +550,11 @@ DocOps with DevOps?".
 ### soap! box
 
 Podczas tamtej edycji organizatorzy wprowadzili soap! box, czyli drewnianą
-skrzynkę po jabłkach, na którą każdy mogł wskoczyć i opowiedzieć pokrótce o tym,
+skrzynkę po jabłkach, na którą każdy mógł wskoczyć i opowiedzieć pokrótce o tym,
 co mu aktualnie w duszy gra. Miałem przyjemność na tę skrzynkę wskoczyć. Razem z
 [Lancem Cummingsem](https://www.linkedin.com/in/lance-cummings-phd/) i
 [Quinn Williams](https://www.linkedin.com/in/quinn-williams-/) opowiadałem o
-wspólnych projekcie.
+wspólnym projekcie.
 
 Ten pomysł był ukłonem w stronę spontaniczności i dobrym urozmaiceniem w
 wydarzeniu pełnym starannie przygotowanych warsztatów i prezentacji. Zarówno
@@ -627,7 +627,7 @@ spotkania stale rósł. Przy tak rozbudzonym zainteresowaniu, potrzebny był
 sposób, by zagospodarować tę energię.
 
 W 2017 Gosia Radymiak zaczęła rozkręcać meetupy pod nazwą
-[Meet Content](https://meetcontent.github.io/).
+[MeetContent](https://meetcontent.github.io/).
 
 Gosia razem z koleżankami z Soapy Crew opracowały koncepcję spotkania, jego
 nazwę, identyfikację wizualną i oficjalną witrynę. Cały ten "pakiet", został
@@ -696,10 +696,10 @@ niezapomniane chwile radości, a czasem olśnienia. soap! zawsze kojarzyć mi si
 będzie z entuzjazmem, zaangażowaniem i niecierpliwym pałaszowaniem olbrzymich
 dawek wiedzy.
 
-Jeśli ktoś zauważy w artykule jakiś fakt do poprawki czy uzupełnienia albo
-chciałby opowiedzieć swoją historię związaną z soap! to zapraszamy do kontaktu.
+Jeśli ktoś zauważy w artykule coś do skorygowania czy uzupełnienia albo
+chciałby podzielic się swoją historię związaną z soap! to zapraszamy do kontaktu.
 
-**SOAPERS ROCK!!!**
+# **SOAPERS ROCK!!!**
 
 ## Materiały dodatkowe
 
@@ -726,7 +726,7 @@ aktualności.
 
 ### Wywiad Piotra Peszko z Gosią Radymiak
 
-[2EDU - Jak budować społeczność technical writingu w Krakowie](https://blog.2edu.pl/2015/09/jak-budowac-spolecznosc-technical-writing-w-krakowie-wywiad-z-malgorzata-radymiak.html)
+- [2EDU - Jak budować społeczność technical writingu w Krakowie](https://blog.2edu.pl/2015/09/jak-budowac-spolecznosc-technical-writing-w-krakowie-wywiad-z-malgorzata-radymiak.html)
 
 ### soap! oczami innych uczestników
 
