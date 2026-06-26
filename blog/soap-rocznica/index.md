@@ -44,7 +44,7 @@ writerów było wtedy w Polsce. Osoby wykonujące ten zawód narzekały na poczu
 izolacji zawodowej i ograniczony feedback od ekspertów z którymi pracowali. W
 tamtym okresie nie było kierunków na studiach w ramach których można było
 zgłębiać komunikację techniczną, nie było nawet pojedynczych tematów zajęć,
-których byłby prezentowane podstawowe informacje.
+na których byłby prezentowane podstawowe informacje.
 
 ## Pomysł i silna grupa założycielska
 
