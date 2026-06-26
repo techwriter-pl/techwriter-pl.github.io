@@ -13,37 +13,38 @@ coverImage: 'soap_title.jpg'
 Konferencje soap! zajmują szczególne miejsce w sercach osób żyjących komunikacją
 techniczną. Na Techwriterze z dumą zamieściliśmy relacje ze wszystkich 9 edycji.
 Były to wydarzenia, które wpłynęły na zawiązanie się społeczności i przyczyniły
-się do przyspieszenia jej rozwoju. Z artykułu dowiesz się:
+się do przyspieszenia jej rozwoju w Polsce. Z artykułu dowiesz się:
 
-- Skąd wział się pomysł na tę konferencję?
-- O co chodzi z tym różowym mydłem?
+- Skąd wział się pomysł na te konferencje?
+- O co chodzi z różowym mydłem?
 - Co kryje się za literami **s**, **o**, **a**, **p**?
-- Jak przebiegał rozwój tej inicjatywy i co z niej wynikło?
+- Jak przebiegał rozwój inicjatywy i co z niej wynikło?
 
 <!--truncate-->
 
 ## Od autora
 
 W konferencji wziąłem udział trzy razy: w 2018, 2022 i 2023. Za każdym razem
-bawiłem się wyśmienicie i miałem przyjemność porozmawiać z bardzo kontaktowymi
-ludźmi. Sporo się też dowiedziałem, co skłoniło mnie do wielu przemyśleń.
-Konferencję wyróżniała też niezwykle przyjazna atmosfera tworzona przez
+bawiłem się wyśmienicie i miałem przyjemność porozmawiać z bardzo otwartymi
+ludźmi. Sporo się dowiedziałem i zostałem zainspirowany do wielu cennych
+przemyśleń. Konferencję wyróżniała niezwykle przyjazna atmosfera tworzona przez
 organizatorów i uczestników.
 
 W tym miejscu chciałem podziękować Gosi za rozmowę, podczas której streściła mi
 historię soap!. Wiele zdań w tym artykule to wierne cytaty lub parafraza jej
 słów. Stwierdzenia były tak celne, że po prostu nie mogłem ich nie wykorzystać.
 Swoją drogą, trudno się temu dziwić, skoro Gosia i wszystkie osoby powiązane z
-soap! to wytrawni wytrawni specjaliści od komunikacji, a od nich spodziewać się
-można trafnych opisów.
+soap! to wytrawni specjaliści od komunikacji, od których należy spodziewać się
+trafnych opisów.
 
 ## Stan branży w 2013
 
 Jak wyglądała wtedy polska scena technical writingu? Nie wiadomo ilu technical
 writerów było wtedy w Polsce. Osoby wykonujące ten zawód narzekały na poczucie
 izolacji zawodowej i ograniczony feedback od ekspertów, z którymi writerów było
-wtedy w Polsce. Brakowało wtedy kierunków na studiach, które oferowały wiedzę o
-komunikacji technicznej.
+wtedy w Polsce. W tamtym okresie nie było kierunków na studiach w ramach których
+można było zgłębiać komunikację techniczną, nie było nawet pojedynczych tematów
+zajęć, których byłby prezentowane podstawowe informacje.
 
 ## Pomysł i silna grupa założycielska
 
@@ -85,8 +86,8 @@ Z tego właśnie powodu pojechali do Londynu na trzydniową konferencję
 [Congility](https://www.ditawriter.com/interview-with-noz-urbina-about-the-upcoming-congility-conference/),
 na której prelegentem był [Noz Urbina](https://www.linkedin.com/in/nozurbina/).
 
-Wydarzenie było bardzo udane, wypełniały je spotkania, nawiązywanie kontaktów i
-przekazywanie wiedzy.
+Wydarzenie było bardzo udane, wypełnione spotkaniami, nawiązywaniem kontaktów i
+przekazywaniem wiedzy.
 
 To był czerwiec 2013 roku. A już w październiku postanowili zrobić własną
 konferencję w Polsce. Taka dynamika i rozmach robią wrażenie!
@@ -106,8 +107,8 @@ podeszli do nowego wyzwania.
 
 Skąd wzięła się nazwa "soap!"? 🧼 Mydło nawiązywało do świeżości. Podczas rozmów
 o branży narodziła się metafora baniek 🫧, w których funkcjonowali różni  
-specjaliści od treści, którzy nie mieli świadomości siebie nawzajem. Historia
-nazwy została nieco szerzej opisana w
+specjaliści od treści, nie mając świadomości siebie nawzajem. Historia nazwy
+została nieco szerzej opisana w
 [relacji z soap! z 2015 roku](https://techwriter.pl/namydleni-po-raz-trzeci/#o-co-chodzi-z-tym-r%C3%B3%C5%BCowym-myd%C5%82em).
 
 Po wybraniu głównego symbolu, pozostało rozpisać skrót:
@@ -135,7 +136,7 @@ tłumaczenia (lokalizacja).
 Organizatorzy rozpatrywali zgłoszenia potencjalnych prelegentów. W czasie rozmów
 ze speakerami starali się przybliżyć zainteresowania publiki, które różniły się
 od zainteresowań publik z dojrzałą tradycją tech writingową. Dla tej młodej
-konferencji bardzo istotne było zaufanie dla doświadczonych mówców.
+konferencji bardzo istotne było zaufanie do doświadczonych mówców.
 
 ### Sponsorzy
 
@@ -149,7 +150,7 @@ kwestiach zachowana była perfekcyjna równowaga.
 Nasi pionierzy dokonali niemożliwego. W cztery miesiące zorganizowali
 międzynarodowe wydarzenie.
 
-## Pierwsza odsłona: 3 październik 2013
+## Pierwsza odsłona: 3 października 2013
 
 ![Noz Urbina w trakcie prezentacji na tle ekranu ze slajdami, z mikrofonem i przełącznikiem w rękach.](images/noz.jpg)
 
@@ -168,10 +169,10 @@ Tematyka była przekrojowa i nie było ustalonego tematu przewodniego, który by
 wszystkie wystąpienia spinał razem.
 
 Agnieszce Tkaczyk oporny projektor nie przeszkodził zaprezentować swojego tematu
-na należytym poziomie. Wrażenie wywarte na słuchaczach zapewniło najwyższe noty
-w głosowaniu na najlepsze wystąpienie. (W tej edycji Agnieszka prezentowała, a w
-następnych jeszcze mocniej wpisała się w historię soap!, o czym przeczytacie za
-chwilę).
+na należytym poziomie. Wrażenie jakie wywarła na słuchaczach zapewniło jej
+najwyższe noty w głosowaniu na najlepsze wystąpienie. (W tej edycji Agnieszka
+prezentowała, a w następnych jeszcze mocniej wpisała się w historię soap!, o
+czym przeczytacie za chwilę).
 
 Noz Urbina, którego organizatorzy słuchali podczas Congility, ponownie wcielił
 się w rolę prelegenta na soap!.
@@ -207,8 +208,8 @@ Społeczność przyjęła soap! z entuzjazmem i pewnym zdziwieniem:
 ### Listopadowe spotkanie
 
 Widać było spory apetyt na dzielenie się wiedzą, skoro jeszcze w listopadzie
-tamtego roku doszło do spotkania z całkiem rozbudowaną agendą w Massolit Books
-and Cafe w Krakowie.
+tego samego roku doszło do spotkania z całkiem rozbudowaną agendą w Massolit
+Books and Cafe w Krakowie.
 
 ![Paweł podczas meetupu z miną której nie da się wyrazić słowami. Pełna powaga.](images/pawel.png)
 
@@ -236,7 +237,7 @@ Zawiązała się ekipa o takim składzie:
 | [Karolina Karbarz](https://www.linkedin.com/in/karolina-karbarz)                     | Specjalistka od projektowania graficznego, fanka ciast czekoladowych, koreańskich filmów i spacerów z czworonogiem.                                                                                      | - Strona Internetowa <br /> - Szata graficzna <br />- Grafiki                                |
 | [Piotr Milewski](https://www.linkedin.com/in/piotrmilewski) zwany Piterem            | Absolwent Wyższej Szkoły Europejskiej (Lingwistyka Stosowana). Technical writer z zamiłowaniem do wspinaczki górskiej, [skitouringu](https://skitourschool.pl/co-to-jest-skitouring/) i paralotniarstwa. | - Speakerzy i trenerzy <br />- Laptopy i ekrany <br />- Współpraca z Manggha                 |
 | [Agnieszka Tkaczyk](https://www.linkedin.com/in/agnieszka-tkaczyk-walczak-93508570/) | W tamtym czasie Agnieszka była Information Developerem, jako tłumaczka współpracowała z krakowskimi uniwersytetami. Oprócz dokumentacji interesowało ją projektowanie interfejsów użytkownika.           | - Sponsorzy i partnerzy                                                                      |
-| [Iga Koprowska](https://www.linkedin.com/in/iga-koprowska)                           | Filolożka angielska i tłumaczka. Odbyła kurs technical writingowy dla studentów Uniwersytetu Jagielońskiego razem z Gosią. Wciąż pozostaje w nurcie komunikacji technicznej.                             | - Media społecznościowe <br /> - Komunikaty <br /> - Copywriting na stronę <br /> - Branding |
+| [Iga Koprowska](https://www.linkedin.com/in/iga-koprowska)                           | Filolożka angielska i tłumaczka. Wciąż pozostaje w nurcie komunikacji technicznej.                                                                                                                       | - Media społecznościowe <br /> - Komunikaty <br /> - Copywriting na stronę <br /> - Branding |
 
 Piter i jego technologiczne centrum kontroli wszechświata:
 
@@ -307,7 +308,8 @@ Kto chce, może zobaczyć podsumowanie w formie
 ![Na scenie stoi uczestnik i przemawia, a Jadźka rysuje robiąc graphic recording. Widok zachwyconej publiki](images/2015_Jadzka_Rysuje.jpg)
 
 **[Piotr Nabielec](https://www.linkedin.com/in/piotrnabielec/) mówi, a
-[Jadźka Rysuje](https://jadzkarysuje.pl/?v=288404204e3d)**.
+[Natalia Mikołajek](https://jadzkarysuje.pl/?v=288404204e3d) wykonuje graphic
+recording.**
 
 Tym razem soap! odbył się w lokalizacji przy Plaży Kraków.
 
@@ -317,11 +319,12 @@ budynku. Z powodu zimna, większą część czasu uczestnicy siedzieli w kurtkac
 szalikach, był to w końcu październik. Kto był, ten wie!
 
 Mimo takich przeciwności, morale i poziom merytoryczny wydarzenia były nader
-wysokie. Piotr Peszko po raz kolejny stanał na scenie, przedstawiajac "Key
+wysokie. Piotr Peszko po raz kolejny stanął na scenie, przedstawiając "Key
 challenges with global content development".
 
-Podczas wydarzenia rysowała (dostarczała graphic recording) Jadźka Rysuje o czym
-przeczytać możecie w
+Podczas wydarzenia graphic recording dostarczyła Natalia Mikołajek, znana pod
+pseudonimem artystycznym "Jadźka Rysuje", który jest też nazwą jej działalności.
+Wiecej o jej obecności na soap! przeczytać możecie w
 [relacji](https://techwriter.pl/namydleni-po-raz-trzeci/#my-tu-gadu-gadu-a-jad%C5%BAka-rysuje).
 
 Pierwszy, darmowy dzień konferencji przyciągnął 170 uczestników, a drugi płatny
@@ -413,14 +416,14 @@ Zobacz podsumowanie [wideo](https://youtu.be/Zi_PfEf7tQE?si=WgExPK711W8lW9nJ).
 Piotr Peszko powrócił z brawurową prezentacją, którą do dziś wspominam z
 uśmiechem. Była kozacka!
 
-Podobnie jak w wielu poprzednich odsłonach, w tej również był wysoki poziom
-prezentacji, przydatne warsztaty i świetna atmosfera.
+Podobnie jak w wielu poprzednich odsłonach, poziom prezentacji by wysoki pozom
+prezentacji, warsztaty przydatne, a atmosfera świetna.
 
 Nie mogę nie wspomnieć o klimatycznej strefie chillout w ogródku na tyłach
 Manggha, miejscu relaksu i dobrych rozmów. Po intensywnych prezentacjach dobrze
 było tam się przejść i odetchnąć świeżym powietrzem.
 
-Podkreślę jeden aspekt nieoficjalnej części konferencji, co
+Podkreślę jeden aspekt nieoficjalnej części konferencji, który
 [Michał Skowron](https://www.linkedin.com/in/michalskowron/), stały bywalec
 soap! jako uczestnik, prelegent i trener, podsumował w swojej
 [relacji](../konferencja-soap-2018-relacja/) z tamtej edycji:
@@ -604,8 +607,11 @@ Słowami Gosi:
 > konferencja odegrała rolę. Zaczęły się inicjatywy takie jak ITCQF, Tech Writer
 > Koduje. Niektóre osoby ośmieliły się coś robić. Ludzie zaczęli działać.
 
-> Zmieniła się świadomość osoby dbającej o dokumentację. Ta osoba poczuła się
-> ważniejsza w projekcie, odezwie się, napisze artykuł.
+> Poprawiła się świadomość i pewność siebie osoby dbającej o dokumentację.
+> Zwiększyła się jej widoczność w projekcie, chętniej zabiera głos, ma inicjatywę.
+> Ma też impuls, by wyjść poza zespół i zrobić coś wartościowego dla innych, np.
+> weźmie udział w meetupie, napisze artykuł, albo zdecyduje się kogoś
+> mentorować.
 
 > soap! to tylko miejsce, gdzie ludzie się zbierają. Poza soap! ludzie w
 > społeczności cały czas coś robią. Ta konferencja to katalizator i platforma do
@@ -685,10 +691,10 @@ Jak to kiedyś określił Michał Skowron:
 Jakkolwiek patetycznie może to zabrzmieć, soap! był wyjątkowy dzięki ludziom,
 którzy go tworzyli i w nim uczestniczyli. Była to przestrzeń na spotkania ludzi
 rozumiejących bolączki dokumentacji, mających ochotę nauczyć się czegoś i ,
-którzy go tworzyli i w nim uczestniczyli. Była to przestrzeń na spotkania ludzi
-w pamięci naprawdę niezapomniane chwile radości, a czasem olśnienia. soap!
-zawsze kojarzyć mi się będzie z entuzjazmem, zaangażowaniem i niecierpliwym
-pałaszowaniem olbrzymich dawek wiedzy.
+którzy go tworzyli i w nim uczestniczyli. Zachowujemy w pamięci naprawdę
+niezapomniane chwile radości, a czasem olśnienia. soap! zawsze kojarzyć mi się
+będzie z entuzjazmem, zaangażowaniem i niecierpliwym pałaszowaniem olbrzymich
+dawek wiedzy.
 
 Jeśli ktoś zauważy w artykule jakiś fakt do poprawki czy uzupełnienia albo
 chciałby opowiedzieć swoją historię związaną z soap! to zapraszamy do kontaktu.
