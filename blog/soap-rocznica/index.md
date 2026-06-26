@@ -41,10 +41,10 @@ trafnych opisów.
 
 Jak wyglądała wtedy polska scena technical writingu? Nie wiadomo ilu technical
 writerów było wtedy w Polsce. Osoby wykonujące ten zawód narzekały na poczucie
-izolacji zawodowej i ograniczony feedback od ekspertów, z którymi writerów było
-wtedy w Polsce. W tamtym okresie nie było kierunków na studiach w ramach których
-można było zgłębiać komunikację techniczną, nie było nawet pojedynczych tematów
-zajęć, których byłby prezentowane podstawowe informacje.
+izolacji zawodowej i ograniczony feedback od ekspertów z którymi pracowali. W
+tamtym okresie nie było kierunków na studiach w ramach których można było
+zgłębiać komunikację techniczną, nie było nawet pojedynczych tematów zajęć,
+na których byłby prezentowane podstawowe informacje.
 
 ## Pomysł i silna grupa założycielska
 
@@ -608,10 +608,10 @@ Słowami Gosi:
 > Koduje. Niektóre osoby ośmieliły się coś robić. Ludzie zaczęli działać.
 
 > Poprawiła się świadomość i pewność siebie osoby dbającej o dokumentację.
-> Zwiększyła się jej widoczność w projekcie, chętniej zabiera głos, ma inicjatywę.
-> Ma też impuls, by wyjść poza zespół i zrobić coś wartościowego dla innych, np.
-> weźmie udział w meetupie, napisze artykuł, albo zdecyduje się kogoś
-> mentorować.
+> Zwiększyła się jej widoczność w projekcie, chętniej zabiera głos, ma
+> inicjatywę. Ma też impuls, by wyjść poza zespół i zrobić coś wartościowego dla
+> innych, np. weźmie udział w meetupie, napisze artykuł, albo zdecyduje się
+> kogoś mentorować.
 
 > soap! to tylko miejsce, gdzie ludzie się zbierają. Poza soap! ludzie w
 > społeczności cały czas coś robią. Ta konferencja to katalizator i platforma do
@@ -690,14 +690,14 @@ Jak to kiedyś określił Michał Skowron:
 
 Jakkolwiek patetycznie może to zabrzmieć, soap! był wyjątkowy dzięki ludziom,
 którzy go tworzyli i w nim uczestniczyli. Była to przestrzeń na spotkania ludzi
-rozumiejących bolączki dokumentacji, mających ochotę nauczyć się czegoś i ,
-którzy go tworzyli i w nim uczestniczyli. Zachowujemy w pamięci naprawdę
-niezapomniane chwile radości, a czasem olśnienia. soap! zawsze kojarzyć mi się
-będzie z entuzjazmem, zaangażowaniem i niecierpliwym pałaszowaniem olbrzymich
-dawek wiedzy.
+rozumiejących bolączki dokumentacji, mających ochotę nauczyć się czegoś i
+jednocześnie gotowych przekazać swoją wiedzę i doświadczenia innym. Zachowujemy
+w pamięci naprawdę niezapomniane chwile radości, a czasem olśnienia. soap!
+zawsze kojarzyć mi się będzie z entuzjazmem, zaangażowaniem i niecierpliwym
+pałaszowaniem olbrzymich dawek wiedzy.
 
-Jeśli ktoś zauważy w artykule coś do skorygowania czy uzupełnienia albo
-chciałby podzielic się swoją historię związaną z soap! to zapraszamy do kontaktu.
+Jeśli ktoś zauważy w artykule coś do skorygowania czy uzupełnienia albo chciałby
+podzielic się swoją historię związaną z soap! to zapraszamy do kontaktu.
 
 # **SOAPERS ROCK!!!**
 
