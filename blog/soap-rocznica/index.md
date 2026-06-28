@@ -41,10 +41,11 @@ trafnych opisów.
 
 Jak wyglądała wtedy polska scena technical writingu? Nie wiadomo ilu technical
 writerów było wtedy w Polsce. Osoby wykonujące ten zawód narzekały na poczucie
-izolacji zawodowej i ograniczony feedback od ekspertów z którymi pracowali. W
-tamtym okresie nie było kierunków na studiach w ramach których można było
-zgłębiać komunikację techniczną, nie było nawet pojedynczych tematów zajęć,
-na których byłby prezentowane podstawowe informacje.
+izolacji zawodowej i ograniczony feedback od ekspertów z którymi pracowali.
+
+W tamtym okresie nie było kierunków na studiach w ramach których można było
+zgłębiać komunikację techniczną, nie było nawet pojedynczych tematów zajęć, na
+których byłby prezentowane podstawowe informacje.
 
 ## Pomysł i silna grupa założycielska
 
@@ -175,7 +176,7 @@ prezentowała, a w następnych jeszcze mocniej wpisała się w historię soap!, 
 czym przeczytacie za chwilę).
 
 Noz Urbina, którego organizatorzy słuchali podczas Congility, ponownie wcielił
-się w rolę prelegenta na soap!.
+się w rolę prelegenta.
 
 Wielkim wsparciem dla pierwszego soap! okazał się
 [Piotr Peszko](https://www.linkedin.com/in/piotr-peszko-elearning/)
@@ -585,7 +586,8 @@ szybko i żyć w pełnym blasku i chwale!
 Tutaj gratka dla miłośników tabelek z danymi. Te liczby też opowiadają historię!
 Pomagają prześledzić jak rozwijały się te wydarzenia.
 
-To szeroka tabela, u jej dołu znajdziesz pasek do przewijania na boki.
+To szeroka tabela. Żeby zobaczyć całą zawartość, potrzebujesz ją przewinąć w
+poziomie.
 
 | Rok  | Miejsce                  | Temat <br /> główny           | Ile dni? | Warsztaty                  | Mówcy                 | Ilu słuchaczy? | W roli hosta         | Opcja online? |
 | ---- | ------------------------ | ----------------------------- | -------- | -------------------------- | --------------------- | -------------- | -------------------- | ------------- |
@@ -654,7 +656,7 @@ działalność.
 W 2024 w Krakowie powstała nowa marka meetupowa: Content Bytes założona przez
 [Barbarę Czyż](https://www.linkedin.com/in/barbara-szwarc/?locale=en),
 [Edytę Rakowską](https://www.linkedin.com/in/edyta-rakowska/) i
-[Michała Olendra](https://www.linkedin.com/in/michal-olender/).
+[Pawła Chłodnickiego](https://www.linkedin.com/in/pawelchlodnicki/).
 
 ## Soapy Crew i inicjatorzy obecnie
 
@@ -697,7 +699,7 @@ zawsze kojarzyć mi się będzie z entuzjazmem, zaangażowaniem i niecierpliwym
 pałaszowaniem olbrzymich dawek wiedzy.
 
 Jeśli ktoś zauważy w artykule coś do skorygowania czy uzupełnienia albo chciałby
-podzielic się swoją historię związaną z soap! to zapraszamy do kontaktu.
+podzielić się swoją historię związaną z soap! to zapraszamy do kontaktu.
 
 # **SOAPERS ROCK!!!**
 
