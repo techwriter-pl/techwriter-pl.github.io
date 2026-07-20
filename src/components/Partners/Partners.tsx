@@ -17,24 +17,14 @@ const partners: PartnerProps[] = [
     imageSrc: require('./img/content-bytes.png').default,
   },
   {
-    label: 'Komunikacja techniczna - link do strony Vistula',
-    link: 'https://www.vistula.edu.pl/kierunki-studiow/kontynuacja-edukacji/studia-podyplomowe/informatyka/komunikacja-techniczna',
-    imageSrc: require('./img/vistula_logo.jpg').default,
-  },
-  {
-    label: 'Accens - link do strony',
-    link: 'https://accens.io/',
-    imageSrc: require('./img/logo-accens.png').default,
-  },
-  {
-    label: '4_testers - link do strony',
-    link: 'https://www.4testers.pl/',
-    imageSrc: require('./img/4_testers_logo.png').default,
-  },
-  {
-    label: 'Tech Writer Koduje',
+    label: 'Tech Writer Koduje - link do strony',
     link: 'https://techwriterkoduje.pl/',
     imageSrc: require('./img/Tech-Writer-koduje-logo-2021.png').default,
+  },
+  {
+    label: 'TESTSENSE - link do strony',
+    link: 'https://testsense.io/',
+    imageSrc: require('./img/testsense.png').default,
   },
 ];
 
@@ -48,11 +38,6 @@ const mediaPartners: PartnerProps[] = [
     label: 'Konferencja Tłumaczy - link do strony',
     link: 'https://translation-conference.com/',
     imageSrc: require('./img/KTLC-klocki-kwadratM.png').default,
-  },
-  {
-    label: 'Konferencja Code Europe 2024 - link do strony',
-    link: 'https://www.codeeurope.pl/',
-    imageSrc: require('./img/code-europe-2024-banner-150px.png').default,
   },
   {
     label: 'MeetContent - link do profilu na Facebooku',
