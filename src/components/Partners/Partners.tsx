@@ -26,6 +26,11 @@ const partners: PartnerProps[] = [
     link: 'https://testsense.io/',
     imageSrc: require('./img/testsense.png').default,
   },
+  {
+    label: 'DREDAR - link do strony',
+    link: 'https://dredar.com/',
+    imageSrc: require('./img/dredar.png').default,
+  },
 ];
 
 const mediaPartners: PartnerProps[] = [
