@@ -1,5 +1,5 @@
 ---
-title: 'Spojrzeć na tekst świeżym okiem - jak pokonać znużenie recenzenta'
+title: 'Spojrzeć na tekst świeżym okiem - jak pokonać "znużenie recenzenta"'
 authors: niewiarowski
 date: '2026-06-21'
 tags:
@@ -9,8 +9,7 @@ coverImage:
 
 Czytanie własnej lub cudzej dokumentacji stanowi lwią część warsztatu technical
 writera. Jak sprawić, by świeżym okiem przeczytać ten sam tekst po raz 28? W
-artykule przedstawię kilka pomysłów z mojego doświadczenia, które powinny w tym
-pomóc.
+artykule przedstawię kilka faktów i pomysłów.
 
 <!--truncate-->
 
@@ -27,31 +26,19 @@ zrozumieniem, by wychwycić błedy logiczne, niespójności i obszary do ulepsze
 
 Dlaczego jest to takie trudne? Mimo, że przyjęło się uważać, że to eksperci
 domenowi od których pozyskujesz informacje są obciążeni klątwą wiedzy, okazuje
-się, że ta przypadłość jest zaraźliwa i dotyknąć może równiez Ciebie,
-specjalistę od dokumentacji, jak tylko dostatecznie dobrze zapoznasz się z
-tematem.
+się, że ta przypadłość jest zaraźliwa i dotknąć może również Ciebie, specjalistę
+od dokumentacji, jak tylko dostatecznie dobrze zapoznasz się z tematem.
 
-Zdarzyć się mogą skróty myślowe wynikające z tego, że technical writer uzna coś
-za powszechnie znaną informację co finalnie przysporzy kłopoty w zrozumieniu
-tekstu przez czytelników.
+Za dodatkową trudność uważam to, że nasz mózg stara się oszczędzać energię.
+Autor dokumentacji czyta swój materiał największą liczbę razy. Łatwiej skupić
+uwagę na kompletnie nowej informacji niż na informacji która tylko nieznacznie
+różni się od poprzedniej znanej już wersji. Analiza tekstu wymaga dużo wysiłku i
+nasz mózg do sprawy podchodzi ekonomicznie: zamiast wiernie odczytywać na nowo
+podobne rzeczy, stara się pomijać odczytywanie niektórych fragmentów, które już
+mamy w pamięci.
 
-Za dodatkową trudność uważam to, że mózg stara się oszczędzać energię. Łatwiej
-skupić uwagę na kompletnie nowej informacji niż na informacji która tylko
-nieznacznie różni się od poprzedniej znanej już wersji. Analiza tekstu wymaga
-dużo wysiłku i nasz mózg zamiast wiernie odczytywać na nowo podobne rzeczy,
-stara się pomijać odczytywanie niektórych fragmentów, które już mamy w pamięci.
-
-Skoro można mieć "writer's block" (brak weny do pisania, syndrom białej kartki
-albo "Bartona Finka") to możemy też mieć "reader's block" (brak chęci do
-czytania) lub "reader's fatigue" (znużenie czytaniem).
-
-W kontekscie komunikacji technicznej widzę też "reviewer's block" (znużenie
-recenzowaniem materiału).
-
-Autor dokumentacji czyta swój materiał największą liczbę razy.
-
-Powszechnie znane jest zjawisko tego, że gdy litery w wyrazie są przemieszane,
-ale pierwsza i ostatnia litera się zgadza, nasz mózg i tak w locie odczyta
+Powszechnie znanym zjawiskiem jest to, że gdy litery w wyrazie są przemieszane,
+ale pierwsza i ostatnia litera się zgadzają, nasz mózg i tak w locie odczyta
 właściwy wyraz, który jest zgodny z intencją.
 
 Powoduje to, że musimy być bardzo ostrożni przy kolejnych recenzjach własnego
@@ -64,14 +51,28 @@ całym. Być może zapisaliśmy błędną informację na samym początku, opatrz
 nam i poprzez ponowne jej oglądanie utwierdzamy się w przekonaniu, że jest
 właściwa.
 
-Nie jestem ekspertem od neurologii i z pewnością nie wyczerpuję tu listy tych
-wyzwań jakie stoją przed autorem. Wiem doskonale jak trudne bywa krytyczne
-spojrzenie na własny tekst.
+Zdarzyć się mogą skróty myślowe wynikające z tego, że technical writer
+niesłusznie uzna coś za powszechnie znaną informację, co finalnie przysporzy
+kłopoty w zrozumieniu tekstu przez czytelników.
 
-### Co wspiera krytyczne spojrzenie na własny tekst?
+Skoro można mieć "writer's block" (brak weny do pisania, syndrom białej kartki
+albo "Bartona Finka") to pomyślałem, że można też mieć "reader's block" (brak
+chęci do czytania) lub "reader's fatigue" (znużenie czytaniem).
+
+![](/blog/zmeczenie-recenzenta/images/images.jpg)
+[Link do źródła](https://www.reddit.com/r/AutisticWithADHD/comments/1c77joz/why_dont_you_like_reading/)
+
+W kontekscie komunikacji technicznej widzę też "reviewer's block" (znużenie
+recenzowaniem materiału).
+
+Z pewnością nie wyczerpuję tu listy pułapek, jakie stoją przed autorem
+czytającym własne dzieło. Wiem doskonale jak trudne bywa krytyczne spojrzenie na
+własny tekst.
+
+### Jak zachęcić siebie do ponownego spojrzenia świeżym okiem?
 
 Z powodu wymienionych trudności, myślałem o tym, co możemy zrobić, by lepiej
-radzić sobie z tymi wyzwania. Poniżej kilka pomysłów.
+radzić sobie z tymi wyzwaniami. Poniżej kilka pomysłów.
 
 ## Przeczytaj na głos
 
@@ -104,10 +105,9 @@ też jest znacznik obecnie wypowiadanego słowa, co pomaga śledzić tekst wraz 
 lektorem.
 
 Duże, czytelne litery, inny wygląd czcionki, inny kolor, skupienie na czytanym
-fragmencie i generowany głos sprawiają, że tą samą treść odbierasz inaczej niż
-czytając własny dokument. Może to pomóc w odzyskaniu świeżego, krytycznego
-spojrzenia. Ze słuchu łatwiej wyłapać nienaturalne wyrażenia w tekscie albo
-braki w interpunkcji.
+fragmencie i generowany głos sprawiają, że tę samą treść odbierasz inaczej. Ze
+słuchu łatwiej wyłapać nienaturalne wyrażenia w tekscie albo braki w
+interpunkcji.
 
 ## Copilot i inni asystenci AI
 
@@ -127,6 +127,7 @@ stanie znaleźć obszarów do usprawnienia, pozostaje zdać się na oko recenzen
 To tyle na dziś. Życzę samych udanych recenzji!
 
 ## Materiały dodatkowe
+
 [The Unbelievable Science of How We Read: Be Smart](https://www.youtube.com/watch?v=Wt7rR0MCYsg)
 
 [How the Brain Learns to Read - Prof. Stanislas Dehaene](https://www.youtube.com/watch?v=25GI3-kiLdo&t=1479s)
