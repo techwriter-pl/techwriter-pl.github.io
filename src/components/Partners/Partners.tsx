@@ -49,6 +49,11 @@ const mediaPartners: PartnerProps[] = [
     link: 'https://www.facebook.com/meetcontentcommunity/',
     imageSrc: require('./img/MeetContent_logo_blue-e1680790803920.png').default,
   },
+  {
+    label: 'Hakersi - link do strony',
+    link: 'https://hakersi.pl/',
+    imageSrc: require('./img/hkrs_logotype_bigbrain_on_dark.png').default,
+  },
 ];
 
 function Partner({ label, link, imageSrc }: PartnerProps) {
