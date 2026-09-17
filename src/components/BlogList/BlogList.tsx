@@ -26,7 +26,7 @@ export default function BlogHome(props): JSX.Element {
             <h2 className={styles.articleListTitle}>Najnowsze artykuły</h2>
           </div>
           <div className={styles.items}>
-            {props.items.slice(0, 5).map(({ content: BlogPostContent }) => {
+            {props.items.map(({ content: BlogPostContent }) => {
               const { date, permalink, authors } = BlogPostContent.metadata;
               const { title, coverImage, tags } = BlogPostContent.frontMatter;
 
