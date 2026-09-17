@@ -8,12 +8,10 @@ type PartnerProps = {
   imageSrc: string;
 };
 
-export const contentBytesUrl = 'https://contentbytes.pl/';
-
 const partners: PartnerProps[] = [
   {
     label: 'Content Bytes - link do strony',
-    link: contentBytesUrl,
+    link: 'https://contentbytes.pl/',
     imageSrc: require('./img/content-bytes.png').default,
   },
   {
@@ -37,7 +35,7 @@ const mediaPartners: PartnerProps[] = [
   {
     label: 'CAKE conf - link do strony',
     link: 'https://cakeconf.contentbytes.pl/',
-    imageSrc: require('./img/cake-conf-logo.png').default,
+    imageSrc: require('./img/cake-conf.png').default,
   },
   {
     label: 'Konferencja Tłumaczy - link do strony',
