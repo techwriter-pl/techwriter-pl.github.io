@@ -1,6 +1,6 @@
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
-import BlogListPage from '@theme/BlogListPage';
+import BlogListPage, { Props } from '@theme/BlogListPage';
 import Layout from '@theme/Layout';
 import clsx from 'clsx';
 import CoverImage from '../CoverImage/CoverImage';
@@ -9,8 +9,8 @@ import Partners from '../Partners/Partners';
 import SiteHighlights from '../SiteHighlights/SiteHighlights';
 import styles from './BlogList.module.css';
 
-export default function BlogHome(props): JSX.Element {
-  const { pathname, search } = props.history.location;
+export default function BlogHome(props: Props): JSX.Element {
+  const { pathname, search } = (props as any).history.location;
   const { siteConfig } = useDocusaurusContext();
 
   if (pathname.includes('/page/') || search.includes('feed=true')) {
@@ -28,7 +28,8 @@ export default function BlogHome(props): JSX.Element {
           <div className={styles.items}>
             {props.items.map(({ content: BlogPostContent }) => {
               const { date, permalink, authors } = BlogPostContent.metadata;
-              const { title, coverImage, tags } = BlogPostContent.frontMatter;
+              const { title, coverImage, tags } =
+                BlogPostContent.frontMatter as any;
 
               return (
                 <div key={date} className={clsx(styles.item, 'card')}>
@@ -45,7 +46,7 @@ export default function BlogHome(props): JSX.Element {
                       , {authors.map((author) => author.name).join(', ')}
                     </div>
                     <div className={styles.tagList}>
-                      {tags.map((tag, tagKey) => (
+                      {tags.map((tag: string, tagKey: number) => (
                         <span key={tagKey} className="badge badge--secondary">
                           {tag}
                         </span>
