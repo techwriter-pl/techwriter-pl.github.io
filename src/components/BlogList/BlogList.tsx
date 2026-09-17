@@ -46,9 +46,13 @@ export default function BlogHome(props): JSX.Element {
                     </div>
                     <div className={styles.tagList}>
                       {tags.map((tag, tagKey) => (
-                        <span key={tagKey} className="badge badge--secondary">
+                        <Link
+                          key={tagKey}
+                          className="badge badge--secondary"
+                          href={`/tags/${tag}`}
+                        >
                           {tag}
-                        </span>
+                        </Link>
                       ))}
                     </div>
                   </div>
