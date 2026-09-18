@@ -1,7 +1,7 @@
 ---
 title: 'Spojrzeć na tekst świeżym okiem - jak pokonać "znużenie recenzenta"'
 authors: niewiarowski
-date: '2026-06-21'
+date: '2026-09-18'
 tags:
   - 'warsztat'
 coverImage:
@@ -9,7 +9,7 @@ coverImage:
 
 Czytanie własnej lub cudzej dokumentacji stanowi lwią część warsztatu technical
 writera. Jak sprawić, by świeżym okiem przeczytać ten sam tekst po raz 28? W
-artykule przedstawię kilka faktów i pomysłów.
+artykule przedstawiam kilka faktów i pomysłów.
 
 <!--truncate-->
 
@@ -17,16 +17,18 @@ artykule przedstawię kilka faktów i pomysłów.
 
 Każdy kto pracuje w technical writingu zna następujący scenariusz: pracujesz
 wiele tygodni nad żmudnym, złożonym, wymagającym dużego skupienia tekstem w
-ramach projektu dokumentacyjnego. Stopniowo rozwijasz tekst, w miarę jak
-poszerza się Twoje rozumienie tematu, otrzymujesz też sugestie usprawnień. Znasz
-ten tekst od samego początku, każde zdanie zostało wyrzeźbione przez Ciebie.
+ramach projektu dokumentacyjnego.
+
+Stopniowo rozwijasz tekst. W miarę jak poszerza się Twoje rozumienie tematu,
+otrzymujesz też sugestie ulepszeń. Znasz ten tekst od samego początku, każde
+zdanie zostało wyrzeźbione przez Ciebie.
 
 Wyzwanie polega na tym, jak sprawić, by po raz kolejny przeczytać ten tekst ze
 zrozumieniem, by wychwycić błedy logiczne, niespójności i obszary do ulepszenia.
 
 Dlaczego jest to takie trudne? Mimo, że przyjęło się uważać, że to eksperci
 domenowi od których pozyskujesz informacje są obciążeni klątwą wiedzy, okazuje
-się, że ta przypadłość jest zaraźliwa i dotknąć może również Ciebie, specjalistę
+się, że ta przypadłość jest zaraźliwa i dotknąć może również specjalistę
 od dokumentacji, jak tylko dostatecznie dobrze zapoznasz się z tematem.
 
 Za dodatkową trudność uważam to, że nasz mózg stara się oszczędzać energię.
@@ -58,9 +60,9 @@ kłopoty w zrozumieniu tekstu przez czytelników.
 Skoro można mieć "writer's block" (brak weny do pisania, syndrom białej kartki
 albo "Bartona Finka") to pomyślałem, że można też mieć "reader's block" (brak
 chęci do czytania) lub "reader's fatigue" (znużenie czytaniem).
+![Mem gdzie mężczyzna czyta książkę, a podpis dotyczy wielokrotnych prób przeczytania tego samego akapitu.](images/images.jpg)
 
-![](/blog/zmeczenie-recenzenta/images/images.jpg)
-[Link do źródła](https://www.reddit.com/r/AutisticWithADHD/comments/1c77joz/why_dont_you_like_reading/)
+[Źródło](https://www.reddit.com/r/AutisticWithADHD/comments/1c77joz/why_dont_you_like_reading/)
 
 W kontekscie komunikacji technicznej widzę też "reviewer's block" (znużenie
 recenzowaniem materiału).
@@ -69,18 +71,18 @@ Z pewnością nie wyczerpuję tu listy pułapek, jakie stoją przed autorem
 czytającym własne dzieło. Wiem doskonale jak trudne bywa krytyczne spojrzenie na
 własny tekst.
 
-### Jak zachęcić siebie do ponownego spojrzenia świeżym okiem?
+## Jak zachęcić siebie do ponownego spojrzenia świeżym okiem?
 
 Z powodu wymienionych trudności, myślałem o tym, co możemy zrobić, by lepiej
 radzić sobie z tymi wyzwaniami. Poniżej kilka pomysłów.
 
-## Przeczytaj na głos
+### Przeczytaj na głos
 
 Najczęściej czytam w myślach. Czytanie na głos stanowi pewną odmianę i pozwala
 usłyszeć tekst nieco inaczej. Słysząc własny głos, aktywujemy inne obszary
 mózgu, mocniej skupiamy się nad czytanym tekstem.
 
-## Zamień tekst na wygenerowaną mowę
+### Zamień tekst na wygenerowaną mowę
 
 Często korzystam z opcji automatycznego czytania przez wygenerowany głos. W
 przeglądarce Edge korzystam ze skrótu `Ctrl+Shift+U`. Można wybrać sobie rodzaj
@@ -95,7 +97,7 @@ Obecnie dużo słyszy się o produkcie do generowania syntetycznych głosów 11L
 jeszcze z niego nie korzystałem. Ciekawe czy można usłyszeć dokumentację czytaną
 głosem Morgana Freemana. To byłoby epickie 😃!
 
-## Immersive Reading
+### Immersive Reading
 
 W wielu aplikacjach i przeglądarkach można czytać tekst w trybie Immersive
 Reading. Tekst jest wyświetlony w wybranych czcionkach, z ustawionym kolorem
@@ -109,7 +111,7 @@ fragmencie i generowany głos sprawiają, że tę samą treść odbierasz inacze
 słuchu łatwiej wyłapać nienaturalne wyrażenia w tekscie albo braki w
 interpunkcji.
 
-## Copilot i inni asystenci AI
+### Copilot i inni asystenci AI
 
 W obecnych czasach wspierać się można rozwiązaniami GenAI. Można sprawdzić tekst
 pod względem logiki prezentowania informacji, spójności terminologii lub
@@ -119,7 +121,7 @@ zidentyfikujesz brakujące elementy i aspekty, które mogą wymagać poprawy.
 Gdy GenAI wskaże Ci fragmenty, które trzeba przeczytać ponownie, być może
 łatwiej będzie przyjrzeć się sprawie ponownie.
 
-## Recenzja drugiej osoby
+### Recenzja drugiej osoby
 
 Nic nie zastąpi recenzji drugiej osoby, dlatego gdy już faktycznie nie jesteś w
 stanie znaleźć obszarów do usprawnienia, pozostaje zdać się na oko recenzenta.
@@ -128,6 +130,8 @@ To tyle na dziś. Życzę samych udanych recenzji!
 
 ## Materiały dodatkowe
 
-[The Unbelievable Science of How We Read: Be Smart](https://www.youtube.com/watch?v=Wt7rR0MCYsg)
+### YouTube
 
-[How the Brain Learns to Read - Prof. Stanislas Dehaene](https://www.youtube.com/watch?v=25GI3-kiLdo&t=1479s)
+- [The Unbelievable Science of How We Read: Be Smart](https://www.youtube.com/watch?v=Wt7rR0MCYsg)
+
+- [How the Brain Learns to Read - Prof. Stanislas Dehaene](https://www.youtube.com/watch?v=25GI3-kiLdo&t=1479s)
