@@ -22,7 +22,7 @@ Organizatorem wydarzenia jest znany już zapewne wielu osobom z branży zespół
 
 Przede wszystkim spora dawka wiedzy i nowinek z branży tworzenia treści, ale nie tylko! Organizatorzy zadbali o wszelkie szczegóły, począwszy od gadżetów powitalnych, przez dobrze zorganizowane zaplecze gastronomiczne, aż po konkursy, w których można było zgarnąć naprawdę fajne nagrody. Fani Lego na pewno nie byli zawiedzeni.  
 
-Co więcej, jednym ze sponsorów była Camtasia Snagit, dzięki której uczestnicy konferencji otrzymali roczny dostęp do [Snagit](https://www.techsmith.com/snagit/) za darmo. 
+Co więcej, jednym ze sponsorów była firma TechSmith, dzięki której uczestnicy konferencji otrzymali roczny dostęp do [Snagit](https://www.techsmith.com/snagit/) za darmo. 
 
 Oczywiście nie mogło tam zabraknąć przedstawicieli portalu [techwriter.pl](https://techwriter.pl), który jest partnerem wydarzenia. 
 
@@ -85,7 +85,7 @@ Z pewnością wielu pisarzy może utożsamić się z rzeczywistością przedstaw
 
 ### After party
 
-Ostatnia prezentacja zakończyła się p 17:30, ale to jeszcze nie oznaczało końca atrakcji tego dnia. Na wytrwałych uczestników czekało jeszcze after party. 
+Ostatnia prezentacja zakończyła się po 17:30, ale to jeszcze nie oznaczało końca atrakcji tego dnia. Na wytrwałych uczestników czekało jeszcze after party. 
 
 Z relacji wiem, że wszyscy bawili się świetnie, a najbardziej wytrwali świętowali do późnych godzin nocnych.
 
