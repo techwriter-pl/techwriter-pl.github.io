@@ -132,7 +132,7 @@ Znalazło się siedmiu śmiałków, którzy postanowili przemówić tego dnia, a
 
 Pozwolicie jednak, że nie zaprezentuję wyników tej ankiety, aby nie wywoływać zbyt silnych emocji wśród naszych czytelników. 
 
-Sekcja Have a byte okazała się więc strzałem w dziesiątkę, a dwóch najlepszych mówców zgarnęło gadżety przygotowane przez Michała. 
+Sekcja *Have a byte* okazała się więc strzałem w dziesiątkę, a dwóch najlepszych mówców zgarnęło gadżety przygotowane przez Michała. 
 
 ## Zakończenie konferencji 
 
