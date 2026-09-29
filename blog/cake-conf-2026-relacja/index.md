@@ -1,7 +1,7 @@
 ---
 title: 'CAKE conf 2026 – dwa dni pełne wiedzy, inspiracji i spotkań'
 authors: magdazaczek
-date: '2026-09-29'
+date: '2026-09-30'
 tags:
   - 'z-kraju'
   - 'konferencje'
@@ -16,7 +16,7 @@ Za nami już druga edycja konferencji CAKE conf, która odbyła się w dniach 24
 
 Dla przypomnienia, konferencja powstała z myślą o pisarzach, specjalistach, a także wszystkich entuzjastach pisania treści, którzy chcą się spotkać i wymienić doświadczeniami ze świata pisania i tworzenia treści, choć nie tylko.
 
-Organizatorem wydarzenia jest znany już zapewne wielu osobom z branży zespół [Content Bytes](https://contentbytes.pl), który tworzą Barbara Czyż, Edyta Rakowska, Kasia Zielińska i Paweł Chłodnicki. 
+Organizatorem wydarzenia jest znany już zapewne wielu osobom z branży zespół [Content Bytes](https://contentbytes.pl), który tworzą [Barbara Czyż](https://www.linkedin.com/in/barbara-szwarc/), [Edyta Rakowska](https://www.linkedin.com/in/edyta-rakowska/), [Kasia Zielińska](https://www.linkedin.com/in/kasia-szczepanska/) i [Paweł Chłodnicki](https://www.linkedin.com/in/pawelchlodnicki/). 
 
 ## Co czekało na uczestników? 
 
