@@ -1,5 +1,5 @@
 ---
-title: 'Spojrzeć na tekst świeżym okiem - jak pokonać \"znużenie recenzenta\"'
+title: 'Spojrzeć na tekst świeżym okiem - jak pokonać znużenie recenzenta'
 authors: niewiarowski
 date: '2026-09-29'
 tags:
@@ -23,6 +23,8 @@ W ramach ankiety płacowej techwriter.pl pytamy o kwalifikacje i przygotowanie d
 zawodu. Jeden z uczestników lapidarnie napisał "umiem czytać i pisać". W
 pierwszej chwili odebrałem to jako zaskakujący żart. Jednak im dłużej o tym
 myślę, to dochodzę do wniosku, że w tej ripoście kryje się coś mądrego.
+
+## Czytanie czai się wszędzie
 
 ### Tickety
 
@@ -56,11 +58,36 @@ Na początku projektu, czytasz dostępne materiały, by budować wiedzę o produ
 Czytając je, zwracasz uwagę na obszary, gdzie podejrzewasz, że będziesz musieć
 wprowadzić zmiany.
 
-### Iteracyjne rozwijanie trudnego tekstu
+### Analiza interfejsu aplikacji
 
-Każdy kto pracuje w technical writingu zna następujący scenariusz: pracujesz
-wiele tygodni nad żmudnym, złożonym, wymagającym dużego skupienia tekstem w
-ramach projektu dokumentacyjnego.
+Patrzysz na interfejs, czytasz komunikaty, by wychwycić rozbieżności w pisowni
+określeń, o których mówisz w dokumentacji. Myślisz o poprawianiu UX writingu,
+żeby użytkownik miał lepsze doświadczenia z produktem (i żeby potrzeba było
+mniej opisów w dokumentacji).
+
+### Pisemne polemiki na komunikatorze
+
+Pracujesz asynchronicznie, czytasz wiadomości od uczestników projektu.
+Decydujesz, która wiadomość wymaga działania teraz, która wymaga działania
+później, a która Cię nie dotyczy. Czasem dostaniesz zawiły komunikat do
+rozszyfrowania, często z pomocą autora. Dynamicznie przybywa ważnych wiadomości
+i musisz planować w jakiej kolejności zajmiesz się którymi z nich.
+
+### Trudne czytanie męczy
+
+Powyższe przykłady pokazują, że nie chodzi o dosłowne odczytywanie tekstu.
+Każdej czynności towarzyszy dodatkowy cel, który chcesz osiągnąć. Każda z nich
+wymaga skupienia na czymś innym.
+
+Choć staramy się tworzyć strawne teksty, to sami otoczeni jesteśmy często trudną
+do skonsumowania treścią. Praca z nią wymaga doświadczenia, skupienia i wysiłku.
+
+## Iteracyjne rozwijanie trudnego tekstu
+
+Przejdźmy do kluczowej czynności, którą tak często wykonujemy. Każdy kto pracuje
+w technical writingu zna następujący scenariusz: pracujesz wiele tygodni nad
+żmudnym, złożonym, wymagającym dużego skupienia tekstem w ramach projektu
+dokumentacyjnego.
 
 Stopniowo rozwijasz tekst. W miarę jak poszerza się Twoje rozumienie tematu,
 otrzymujesz też sugestie ulepszeń. Znasz ten tekst od samego początku, każde
@@ -87,8 +114,8 @@ Analiza tekstu wymaga dużo wysiłku i nasz mózg do sprawy podchodzi ekonomiczn
 zamiast wiernie odczytywać na nowo podobne rzeczy, stara się pomijać
 odczytywanie niektórych fragmentów, które już mamy w pamięci.
 
-
 ### Odczytywanie zgodnie z duchem ale nie literą
+
 Powszechnie znanym zjawiskiem jest to, że gdy litery w wyrazie są przemieszane,
 ale pierwsza i ostatnia litera się zgadzają, nasz mózg i tak w locie odczyta
 właściwy wyraz, który jest zgodny z intencją.
@@ -97,8 +124,8 @@ Powoduje to, że musimy być bardzo ostrożni przy kolejnych recenzjach własneg
 tekstu, bo łatwo jest w nim zobaczyć coś, co powinno w nim być zamiast
 krytycznie zobaczyć to, co faktycznie jest i może wymagać poprawy.
 
-
 ### Zniekształcenia poznawcze
+
 Różne zniekształcenia poznawcze powodują też, że czytając własny tekst jesteśmy
 bardziej skłonni uznać, że coś jest wystarczająco jasne niż szukać dziury w
 całym. Być może zapisaliśmy błędną informację na samym początku, opatrzyła się
@@ -112,6 +139,7 @@ niesłusznie uzna coś za powszechnie znaną informację, co finalnie przysporzy
 kłopoty w zrozumieniu tekstu przez czytelników.
 
 ### Od "writer's block" do "reviewer's fatigue"
+
 Skoro można mieć "writer's block" (brak weny do pisania, syndrom białej kartki
 albo "Bartona Finka") to pomyślałem, że można też mieć "reader's block" (brak
 chęci do czytania) lub "reader's fatigue" (znużenie czytaniem).
