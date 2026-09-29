@@ -140,7 +140,7 @@ Po ostatniej prezentacji tego dnia nadszedł czas na słodkie pożegnanie. Na uc
 
 ![Zdjęcie tortu, który zakończył konferencję CAKE conf.](./images/cakeconfcake.jpg)
 
-Jeśli przegapiłeś tegoroczną konferencję CAKE conf, a jesteś żądny wiedzy i poznania innych z branży, nie musisz czekać kolejnego roku! Zespół Content Bytes regularnie organizuje spotkania w Krakowie. Warto śledzić ich LinkedIn, aby nie przegapić najbliższego spotkania.
+Jeśli przegapiłeś tegoroczną konferencję CAKE conf, a jesteś żądny wiedzy i poznania innych z branży, nie musisz czekać kolejnego roku! Zespół Content Bytes regularnie organizuje spotkania w Krakowie. Warto śledzić ich [LinkedIn](https://www.linkedin.com/company/content-bytes/), aby nie przegapić najbliższego spotkania.
 
 Zespołowi Content Bytes dziękujemy za organizację tak świetnego wydarzenia i trzymamy kciuki, aby udało się je powtórzyć również za rok! 
 
