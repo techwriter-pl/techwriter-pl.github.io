@@ -11,10 +11,9 @@ coverImage: 'nik-macmillan-280300.jpg'
 
 W kolejnej odsłonie naszego cyklu gościmy Tomka Prusa, jednego ze starych
 wyjadaczy polskiego tech commu. Być może znacie już Tomka z
-tegorocznej [konferencji soap!](http://soapconf.com/), gdzie był jednym z
-prelegentów, lub z zaangażowania w
-społeczność [MeetContentWRO](http://meetcontent.org/). Tak czy inaczej, zróbcie
-sobie kawę i rozsiądźcie się wygodnie, bo jest co czytać. 😊
+tegorocznej konferencji soap!, gdzie był jednym z prelegentów, lub z
+zaangażowania w społeczność [MeetContentWRO](http://meetcontent.org/). Tak czy
+inaczej, zróbcie sobie kawę i rozsiądźcie się wygodnie, bo jest co czytać. 😊
 
 <!--truncate-->
 
@@ -150,11 +149,10 @@ Dla rozpoczynających przygodę z Tech Writingiem polecam szkolenie ITCQF -
 International Technical Communication Qualifications Foundation, które jest
 świetną podstawą do wkroczenia w świat komunikacji technicznej.
 
-Jeśli nie wiesz jak zacząć, to przyjedź na
-[konferencję soap!](http://soapconf.com/) do Krakowa lub wpadnij na
-[MeetContent](http://meetcontent.org/) do Krakowa lub Wrocławia. W internecie aż
-roi się od darmowych materiałów. Warto poczytać stronę Techwriter.pl, zapisać
-się do grupy
+Jeśli nie wiesz jak zacząć, to przyjedź na konferencję soap! do Krakowa lub
+wpadnij na [MeetContent](http://meetcontent.org/) do Krakowa lub Wrocławia. W
+internecie aż roi się od darmowych materiałów. Warto poczytać stronę
+Techwriter.pl, zapisać się do grupy
 [Tworzenie dokumentacji](https://web.facebook.com/groups/342747819400007/) na
 Facebooku lub dołączyć do
 [kanału Write the Docs](http://slack.writethedocs.org/) na Slack'u.

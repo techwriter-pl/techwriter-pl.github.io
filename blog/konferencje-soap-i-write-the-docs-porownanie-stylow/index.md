@@ -32,10 +32,10 @@ siebie. Mam nadzieję, że artykuł pomoże Ci w tym trudnym zadaniu.
 
 ## Wstęp
 
-Konferencje [soap!](https://soapconf.com/) i
-[Write The Docs](https://www.writethedocs.org) (w skrócie "WTD") są dobrze znane
-wśród osób zajmujących się technical writingiem. Zdecydowanie polecam je zarówno
-początkującym jak i zaawansowanym pisarzom, bo dzięki nim możesz:
+Konferencje soap! i [Write The Docs](https://www.writethedocs.org) (w skrócie
+"WTD") są dobrze znane wśród osób zajmujących się technical writingiem.
+Zdecydowanie polecam je zarówno początkującym jak i zaawansowanym pisarzom, bo
+dzięki nim możesz:
 
 - być na bieżąco z najświeższymi trendami,
 - wpaść na nowe pomysły na to, jak ugryźć dokumentację,

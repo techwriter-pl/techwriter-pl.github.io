@@ -13,7 +13,7 @@ tags:
 coverImage: 'soap_meet_content.png'
 ---
 
-Organizatorzy krakowskiej konferencji [soap!](http://soapconf.com/) postanowili
+Organizatorzy krakowskiej konferencji soap! postanowili
 jeszcze bardziej zadbać o popularność zawodu Technical Writera i ...
 
 <!--truncate-->
@@ -31,8 +31,7 @@ Pierwsze spotkanie już niebawem - **15.03.2016 o godzinie 19:00 w Artefakt Cafe
 w Krakowie**.
 
 Wstęp jest bezpłatny, jednak organizatorzy proszą o rejestrację w celu
-weryfikacji ilości uczestników. Szczegóły
-[tutaj](http://soapconf.com/meet-content/).
+weryfikacji ilości uczestników. 
 
 Jeśli jesteście zainteresowani, macie wolny wieczór oraz chcecie dowiedzieć się
 czegoś nowego lub poznać ludzi z branży to zapraszamy na meet content.

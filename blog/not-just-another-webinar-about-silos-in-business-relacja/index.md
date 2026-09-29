@@ -95,6 +95,5 @@ wielu uczestników webinarium spoza granic naszego kraju). Mamy nadzieję, że
 organizatorzy konferencji soap! będą nas nadal zaskakiwać ciekawymi
 prezentacjami, warsztatami, czy po prostu spotkaniami.
 
-A Ty jakie wnioski wyciągnąłeś z
-[Not just another webinar about silos in business](http://www.soapconf.com/silos-recording/)?
-Podziel się wrażeniami 😊
+A Ty jakie wnioski wyciągnąłeś z "Not just another webinar about silos in
+business"? Podziel się wrażeniami 😊

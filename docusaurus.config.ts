@@ -1,8 +1,8 @@
-import { themes as prismThemes } from 'prism-react-renderer';
-import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
-import techWriterWebpackPlugin from './webpack-plugin';
+import type { Config } from '@docusaurus/types';
+import { themes as prismThemes } from 'prism-react-renderer';
 import remarkDefList from 'remark-deflist';
+import techWriterWebpackPlugin from './webpack-plugin';
 
 const config: Config = {
   title: 'techwriter.pl',
@@ -46,7 +46,7 @@ const config: Config = {
           showReadingTime: true,
           routeBasePath: '/',
           blogListComponent: '@site/src/components/BlogList/BlogList',
-          postsPerPage: 5,
+          postsPerPage: 3,
           blogSidebarTitle: 'Najnowsze artykuły',
           editUrl:
             'https://github.com/techwriter-pl/techwriter-pl.github.io/tree/main',

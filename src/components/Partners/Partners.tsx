@@ -8,33 +8,26 @@ type PartnerProps = {
   imageSrc: string;
 };
 
-export const contentBytesUrl = 'https://contentbytes.pl/';
-
 const partners: PartnerProps[] = [
   {
     label: 'Content Bytes - link do strony',
-    link: contentBytesUrl,
+    link: 'https://contentbytes.pl/',
     imageSrc: require('./img/content-bytes.png').default,
   },
   {
-    label: 'Komunikacja techniczna - link do strony Vistula',
-    link: 'https://www.vistula.edu.pl/kierunki-studiow/kontynuacja-edukacji/studia-podyplomowe/informatyka/komunikacja-techniczna',
-    imageSrc: require('./img/vistula_logo.jpg').default,
-  },
-  {
-    label: 'Accens - link do strony',
-    link: 'https://accens.io/',
-    imageSrc: require('./img/logo-accens.png').default,
-  },
-  {
-    label: '4_testers - link do strony',
-    link: 'https://www.4testers.pl/',
-    imageSrc: require('./img/4_testers_logo.png').default,
-  },
-  {
-    label: 'Tech Writer Koduje',
+    label: 'Tech Writer Koduje - link do strony',
     link: 'https://techwriterkoduje.pl/',
     imageSrc: require('./img/Tech-Writer-koduje-logo-2021.png').default,
+  },
+  {
+    label: 'TESTSENSE - link do strony',
+    link: 'https://testsense.io/',
+    imageSrc: require('./img/testsense.png').default,
+  },
+  {
+    label: 'DREDAR - link do strony',
+    link: 'https://dredar.com/',
+    imageSrc: require('./img/dredar.png').default,
   },
 ];
 
@@ -42,7 +35,7 @@ const mediaPartners: PartnerProps[] = [
   {
     label: 'CAKE conf - link do strony',
     link: 'https://cakeconf.contentbytes.pl/',
-    imageSrc: require('./img/cake-conf-logo.png').default,
+    imageSrc: require('./img/cake-conf.png').default,
   },
   {
     label: 'Konferencja Tłumaczy - link do strony',
@@ -50,14 +43,14 @@ const mediaPartners: PartnerProps[] = [
     imageSrc: require('./img/KTLC-klocki-kwadratM.png').default,
   },
   {
-    label: 'Konferencja Code Europe 2024 - link do strony',
-    link: 'https://www.codeeurope.pl/',
-    imageSrc: require('./img/code-europe-2024-banner-150px.png').default,
-  },
-  {
     label: 'MeetContent - link do profilu na Facebooku',
     link: 'https://www.facebook.com/meetcontentcommunity/',
     imageSrc: require('./img/MeetContent_logo_blue-e1680790803920.png').default,
+  },
+  {
+    label: 'Hakersi - link do strony',
+    link: 'https://hakersi.pl/',
+    imageSrc: require('./img/hkrs_logotype_bigbrain_on_dark.png').default,
   },
 ];
 

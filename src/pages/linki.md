@@ -50,7 +50,7 @@
 : Strona poświęcona technical writingowi oraz content writingowi. Znajdziecie tu kursy związane z tą tematyką, a także trochę ciekawych informacji na temat DITA, Agile oraz dokumentacji API. Jest też osobny dział dla osób, które dopiero rozpoczynają swoją przygodę z branżą.
 
 [Tech Writer Koduje](https://techwriterkoduje.pl/)
-: Strona, którą już dobrze znacie. Michał i Paweł tworzą podcast na temat tworzenia dokumentacji technicznej dla branży IT. Posłuchacie tu wywiadów z osobami związanymi z branżą, opinii dotyczących narzędzi, z których (nie)warto korzystać w codziennej pracy, dowiecie się sporo na temat dokumentacji w API, a co najważniejsze, poznacie pracę Technical Writera od kuchni.
+: Tech Writer Koduje zaczął się od podcastu, ale z czasem stał się czymś więcej. Ten projekt, prowadzony przez Michała Skowrona (wcześniej wspólnie z Pawłem Kowalukiem), łączy światy dokumentacji i kodowania. Obecnie oprócz podcastu, Tech Writer Koduje obejmuje też inne formy przekazu - artykuły, warsztaty i wystąpienia na konferencjach oraz meetupach.
 
 [tekom Europe](https://www.technical-communication.org/)
 : Strona największego stowarzyszenia zawodowego komunikacji technicznej w Europie. Stowarzyszenie czynnie angażuje się w zwiększanie znaczenia komunikacji technicznej i rozwój zawodu. Na swojej platformie stowarzyszenie oferuję możliwość wymiany informacjii doświadczeń, promuje edukację i szkolenia oraz wspiera rozwój zawodowy swoich członków.
@@ -99,7 +99,7 @@
 : Prowadzony w formie krótkich odcinków program, w którym prowadzący Daphne i Fred przybliżają słuchaczowi tematykę tech writingu oraz powiązanych zagadnień np. sztucznej inteligencji.
 
 [Tech Writer Koduje](https://open.spotify.com/show/2jhQ1Z1nAOY686RVok7O9I?si=e7d8c6e6045747bd)
-: Podcast o technicznej stronie tworzenia dokumentacji w IT, skupiający się na pokazaniu jak tech writer może wpasować się w środowisko programistów pod kątem sposobu pracy, używanych technologii, narzędzi i rozwiązań. 
+: Podcast prowadzony przez Michała Skowrona (wcześniej wspólnie z Pawłem Kowalukiem), który łączy światy dokumentacji i kodowania. Michał szuka obszarów IT, w których programiści i tech writerzy mogą współpracować i uczyć się od siebie. Posłuchacie tu wywiadów z osobami związanymi z branżą, opinii dotyczących narzędzi, z których (nie)warto korzystać w codziennej pracy, dowiecie się sporo na temat dokumentacji w API, a co najważniejsze, poznacie pracę kodującego Technical Writera od kuchni.
 
 [Tech Writing Podcast](https://open.spotify.com/show/6UAQWn4asiUrPQfAYw21je?si=059cdb746abb4b53)
 : Podcast, w którym prowadzone są wywiady i dyskusje na temat pracy w tech commie, oraz powiązanych dziedzinach.

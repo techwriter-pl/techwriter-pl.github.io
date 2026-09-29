@@ -16,8 +16,7 @@ coverImage: 'relacja.jpg'
 
 Na tak długo wyczekiwanym wydarzeniu nie mogło nas zabraknąć... i nie zabrakło.
 Zapraszamy do przeczytania prawdopodobnie pierwszej i jedynej relacji z
-konferencji [soap!](http://www.soapconf.com/), która odbyła się 3 października w
-Krakowie.
+konferencji soap!, która odbyła się 3 października w Krakowie.
 
 <!--truncate-->
 

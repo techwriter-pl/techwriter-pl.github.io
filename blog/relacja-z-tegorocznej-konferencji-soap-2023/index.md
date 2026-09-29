@@ -18,9 +18,9 @@ coverImage: 'upload_0522.png'
 Jak co roku, pierwszego czerwca obchodziliśmy Dzień Dziecka. A jako, że w każdym
 technical writerze drzemie ciekawskie dziecko, które pragnie udokumentować cały
 świat, trudno było ukryć ekscytację, gdy wybieraliśmy się na tegoroczną,
-tradycyjnie trzydniową konferencję [soap!](https://soapconf.com/), która
-startowała pierwszego czerwca z częścią warsztatową, po czym nastąpiły dwa dni
-wypełnione wykładami i wydarzeniami.
+tradycyjnie trzydniową konferencję soap!, która startowała pierwszego czerwca z
+częścią warsztatową, po czym nastąpiły dwa dni wypełnione wykładami i
+wydarzeniami.
 
 <!--truncate-->
 
@@ -63,16 +63,15 @@ pierwszej i – jak zapowiada - z pewnością nie jej ostatniej konferencji soap
 ![](images/MicrosoftTeams-image-165.jpg)
 
 Chciałem w paru słowach zwrócić uwagę na jeden mały, acz istotny detal,
-charakterystyczny dla [soap!](https://soapconf.com/): zawieszka na szyję z listą
-wystąpień. Niby to mała rzecz, ale nawet tu organizatorzy dołożyli starań, by
-jak najbardziej ułatwić i uprzyjemnić doznania uczestnika. Program wydrukowany
-jest do góry nogami, dzięki czemu łatwo możemy go odczytać bez potrzeby
-zdejmowania go z szyi. Szata graficzna została opracowana ze smakiem, jest
-prosto i funkcjonalnie, oczywiście zgodnie z designem na oficjalnej stronie. Na
-froncie wydrukowane jest imię uczestnika, co pomaga w nawiązywaniu kontaktów. To
-się nazywa przykładanie wagi do funkcjonalnych detali – myślę, że grono
-dokumentalistów i dokumentalistek docenia dbałość o szczegóły. Ktokolwiek to
-projektował - dobra robota!
+charakterystyczny dla soap!: zawieszka na szyję z listą wystąpień. Niby to mała
+rzecz, ale nawet tu organizatorzy dołożyli starań, by jak najbardziej ułatwić i
+uprzyjemnić doznania uczestnika. Program wydrukowany jest do góry nogami, dzięki
+czemu łatwo możemy go odczytać bez potrzeby zdejmowania go z szyi. Szata
+graficzna została opracowana ze smakiem, jest prosto i funkcjonalnie, oczywiście
+zgodnie z designem na oficjalnej stronie. Na froncie wydrukowane jest imię
+uczestnika, co pomaga w nawiązywaniu kontaktów. To się nazywa przykładanie wagi
+do funkcjonalnych detali – myślę, że grono dokumentalistów i dokumentalistek
+docenia dbałość o szczegóły. Ktokolwiek to projektował - dobra robota!
 
 ## Warsztaty
 
@@ -81,14 +80,14 @@ projektował - dobra robota!
 ### ![](images/upload_0541-1024x1024.png)
 
 [Dr. Lance Cummings](https://www.linkedin.com/in/lance-cummings-phd/) nie po raz
-pierwszy gościł na [soap!](https://soapconf.com/). W 2022 roku prowadził
-warsztat o generowaniu tekstu za pomocą narzędzi OpenAI. Nie powinno dziwić
-nikogo, że w tym roku powrócił z kontynuacją tematu – jego celem było nauczenie
-technical writerów jak strukturyzować zapytania (_prompts_) dla ChatGPT tak, by
-otrzymywać najlepsze rezultaty. Od dłuższego czasu śledzę profil Lance’a na
-LinkedIN, bo prezentuje on bardzo wyważone i dojrzałe spojrzenie na ChatGPT i
-inne narzędzia oparte o wielkie modele językowe (_Large Language Models_). Lance
-okazał się dla mnie nieocenioną pomocą podczas przygotowań do napisania artykułu
+pierwszy gościł na soap!. W 2022 roku prowadził warsztat o generowaniu tekstu za
+pomocą narzędzi OpenAI. Nie powinno dziwić nikogo, że w tym roku powrócił z
+kontynuacją tematu – jego celem było nauczenie technical writerów jak
+strukturyzować zapytania (_prompts_) dla ChatGPT tak, by otrzymywać najlepsze
+rezultaty. Od dłuższego czasu śledzę profil Lance’a na LinkedIN, bo prezentuje
+on bardzo wyważone i dojrzałe spojrzenie na ChatGPT i inne narzędzia oparte o
+wielkie modele językowe (_Large Language Models_). Lance okazał się dla mnie
+nieocenioną pomocą podczas przygotowań do napisania artykułu
 [ChatGPT a sprawa techwriterska](../chat-gpt-a-sprawa-tech-writerska/index.md),
 do przeczytania którego zapraszam, zwłaszcza, jeśli temat wydaje Ci się obcy.
 
@@ -496,13 +495,13 @@ czy recenzowanie dokumentacji to standard? Okazuje się, że niekoniecznie.
 
 [Maria Yermakovich](https://www.linkedin.com/in/maria-ermakovich/) w swojej
 uroczo i zabawnie poprowadzonej prezentacji _"Teaching Your Colleagues to Write
-(and Learning from Them)"_ twierdzi, że jest wręcz przeciwnie. W trakcie
-[soap!](https://soapconf.com/) podzieliła się swoimi doświadczeniami z uczenia
-programistów jak lepiej pisać dokumentację. Co ciekawe, swoją przygodę ze
-szkoleniami z pisania w swojej firmie rozpoczęła na wniosek współpracowników.
-Nikogo nie musiała do tego namawiać, bo ludzie sami się zgłaszają na jej
-szkolenia. Zapytani o powody, podają na przykład taki: "koledzy mówią, że moją
-dokumentację ciężko się czyta" 😊
+(and Learning from Them)"_ twierdzi, że jest wręcz przeciwnie. W trakcie soap!
+podzieliła się swoimi doświadczeniami z uczenia programistów jak lepiej pisać
+dokumentację. Co ciekawe, swoją przygodę ze szkoleniami z pisania w swojej
+firmie rozpoczęła na wniosek współpracowników. Nikogo nie musiała do tego
+namawiać, bo ludzie sami się zgłaszają na jej szkolenia. Zapytani o powody,
+podają na przykład taki: "koledzy mówią, że moją dokumentację ciężko się czyta"
+😊
 
 Maria ewidentnie lubi uczyć i chętnie dzieli się wskazówkami jak to robić
 skutecznie. Dla tych osób, które zastanawiają się nad tym, czy uczenie innych
@@ -578,10 +577,9 @@ Znam, używam, potwierdzam skuteczność 😊
 
 ### **Soapbox**
 
-Po raz pierwszy w historii [soap!](https://soapconf.com/) organizatorzy
-wprowadzili możliwość wyskoczenia na scenę i wygłoszenia pięciominutowej
-opowieści na temat dowolny. Działo się! Oto kilka najbarwniejszych, naszym
-zdaniem, wystąpień.
+Po raz pierwszy w historii soap! organizatorzy wprowadzili możliwość wyskoczenia
+na scenę i wygłoszenia pięciominutowej opowieści na temat dowolny. Działo się!
+Oto kilka najbarwniejszych, naszym zdaniem, wystąpień.
 
 #### **District C**
 
@@ -696,9 +694,8 @@ szczęśliwca, który chwycił ją po tym, jak została rzucona w konferencyjny 
 
 Był nim [Lance Cummings](https://www.linkedin.com/in/lance-cummings-phd/).
 Świadom praw i obowiązków przyjął wyzwanie opieki nad rzutką poduszką. Lance i
-Soapuszka powrócą w 2024 na kolejną edycję [soap!](https://soapconf.com/)
-Organizatorzy docenili jego determinację i dali mu w prezencie bilet wstępu na
-wydarzenie.
+Soapuszka powrócą w 2024 na kolejną edycję soap!. Organizatorzy docenili jego
+determinację i dali mu w prezencie bilet wstępu na wydarzenie.
 
 A więc postanowione! Soapuszka odwiedzi Stany Zjednoczone. Jakie opowieści
 przywiezie? Tego dowiemy się już 1.06.2024. I coś mi mówi, że to nie będzie jej
@@ -729,7 +726,7 @@ surname” podpisała się jako „Your Name, Surname”. Czyżby to napisał Ev
 uśmiechnął była współautorka tego artykułu, Julia Dąbrowska. Nagrodą był
 powerbank ze świecącym logo ekipy podcastu „Techwriter Koduje”. Myślę, że w
 powerbanku zmagazynuje zapas pozytywnej energii na cały następny rok przed
-kolejnym [soap!](https://soapconf.com/). Nie powinno to dziwić, w końcu pracuje
+kolejnym soap!. Nie powinno to dziwić, w końcu pracuje
 w Hitachi Energy 😊
 
 Julia jest zachwycona wygraną, bo tak bajeranckiego powerbanku jeszcze nie
@@ -737,7 +734,7 @@ miała! A przy okazji odbierania prezentu miała okazję sprawdzić czy wyjście
 scenę jest faktycznie tak przerażające jak w jej głowie. Krótko mówiąc, nie jest
 😊 Duża w tym zasługa przede wszystkim naszej wspaniałej konferansjerki Gosi,
 ale także innych uczestników, którzy przyczynili się do niesamowitej atmosfery
-na [soap!](https://soapconf.com/)
+na soap!.
 
 ## **Podsumowanie**
 
@@ -752,16 +749,14 @@ każdy czuje się mile widziany i wysłuchany, niezależnie od tego czy jesteś
 weteranem czy nowicjuszem, robisz dużą prezentację czy improwizowaną gadkę
 prosto z serca. Coś pięknego.
 
-Kiedy piszemy ten artykuł minął już miesiąc od [soap!](https://soapconf.com/), a
-idee które tam wybrzmiewały, wciąż się przypominają podczas ustalania pracy
-zespołowej czy podczas myślenia o podejściu do dokumentacji. Wiele z tych
-wniosków będzie nam towarzyszyć i niektóre zmaterializują się pod postacią
-ulepszeń. Doświadczenie [soap!](https://soapconf.com/) pomaga nam w codziennej
-pracy 😊 Jeszcze raz, dzięki [soap!](https://soapconf.com/).
+Kiedy piszemy ten artykuł minął już miesiąc od soap!, a idee które tam
+wybrzmiewały, wciąż się przypominają podczas ustalania pracy zespołowej czy
+podczas myślenia o podejściu do dokumentacji. Wiele z tych wniosków będzie nam
+towarzyszyć i niektóre zmaterializują się pod postacią ulepszeń. Doświadczenie
+soap! pomaga nam w codziennej pracy 😊 Jeszcze raz, dzięki soap!.
 
-Należy tutaj wspomnieć o tym, że była to **9 edycja**
-[soap!](https://soapconf.com/) i niemal minęło **10 lat** od pierwszego
-wydarzenia.
+Należy tutaj wspomnieć o tym, że była to **9 edycja** soap! i niemal minęło **10
+lat** od pierwszego wydarzenia.
 
 ![](images/upload_0506-1-1024x683.png)
 

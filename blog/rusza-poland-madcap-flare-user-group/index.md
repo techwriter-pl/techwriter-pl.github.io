@@ -77,6 +77,6 @@ lub do
 [profilu grupy na MeetUp](https://www.meetup.com/Poland-MadCap-Flare-User-Group/).
 Wszelkie pytania możecie kierować na adres email
 [plfug@3di.com.pl](mailto:plfug@3di.com.pl). Dodatkowo, podczas tegorocznej
-edycji [konferencji soap!](http://soapconf.com/) (która odbędzie się w dniach
-8-9 czerwca w Krakowie) będziecie mieli możliwość spotkać organizatorów grupy.
-Znajdziecie ich obok rollupu Poland MadCap Flare User Group w strefie wystawców.
+edycji konferencji soap! (która odbędzie się w dniach 8-9 czerwca w Krakowie)
+będziecie mieli możliwość spotkać organizatorów grupy. Znajdziecie ich obok
+rollupu Poland MadCap Flare User Group w strefie wystawców.
