@@ -3,7 +3,7 @@ title: 'CAKE conf 2026 – dwa dni pełne wiedzy, inspiracji i spotkań'
 authors: magdazaczek
 date: '2026-09-29'
 tags:
-  - 'relacja'
+  - 'z-kraju'
   - 'konferencje'
 coverImage: 'cakeconf26.jpg'
 ---
