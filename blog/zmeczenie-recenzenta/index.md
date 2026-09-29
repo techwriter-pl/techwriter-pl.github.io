@@ -1,19 +1,62 @@
 ---
-title: 'Spojrzeć na tekst świeżym okiem - jak pokonać "znużenie recenzenta"'
+title: 'Spojrzeć na tekst świeżym okiem - jak pokonać \"znużenie recenzenta\"'
 authors: niewiarowski
-date: '2026-09-18'
+date: '2026-09-29'
 tags:
   - 'warsztat'
-coverImage:
+coverImage: 'glasses.jpg'
 ---
 
-Czytanie własnej lub cudzej dokumentacji stanowi lwią część warsztatu technical
-writera. Jak sprawić, by świeżym okiem przeczytać ten sam tekst po raz 28? W
-artykule przedstawiam kilka faktów i pomysłów.
+Umiejętność czytania to podstawowa umiejętność. Jest tak oczywista, że rzadko
+poświęcamy jej uwagę. A przecież czynność ta leży u podstaw większości zadań
+dokumentalisty. W artykule przyglądam się temu zagadnieniu i przedstawiam
+praktyczne wskazówki, np. jak sprawić, by świeżym okiem przeczytać ten sam tekst
+po raz 28.
 
 <!--truncate-->
 
 ## Wstęp
+
+### Inspiracja
+
+W ramach ankiety płacowej techwriter.pl pytamy o kwalifikacje i przygotowanie do
+zawodu. Jeden z uczestników lapidarnie napisał "umiem czytać i pisać". W
+pierwszej chwili odebrałem to jako zaskakujący żart. Jednak im dłużej o tym
+myślę, to dochodzę do wniosku, że w tej ripoście kryje się coś mądrego.
+
+### Tickety
+
+Technical writer spędza wiele czasu na czytaniu ticketów od inżynierów (często w
+języku obcym). Opisują zawiłe tematy techniczne, czesto mają luki, sprzeczności
+i skróty myślowe.
+
+Sporego wysiłku wymaga ich właściwe zinterpretowanie i porównanie z dostępną
+dokumentacją, specyfikacją i tym co już wiesz o tym produkcie. Potrzebujesz też
+zidentyfikować pytania do treści jakie zadasz ekspertom.
+
+### Wymagania
+
+Możesz też otrzymać od klienta czy product managera zestaw wymagań, jakie
+dokumentacja ma spełnić. Potrzebujesz upewnić się, że masz w głowie te same
+założenia, co osoba pisząca. Planujesz implementacje planu i dopytujesz o
+aspekty nie uwzględnione w tych wymaganiach. Tam gdzie trzeba, robisz burzę
+mózgów i razem uszczegóławiacie elementy strategii dokumentacyjnej. Tutaj nie
+tylko chcesz poprawnie odczytać ustalenia, ale też wizualizujesz sobie
+późniejszy sposób wykonania projektu i zawczasu zadajesz pytania i doprowadzasz
+do podjęcia określonych decyzji.
+
+### Transkrypcje spotkań
+
+Analizujesz zapisy spotkań, starając się wyłuskać informacje przydatne dla
+opisania produktu lub te informujace o postępie prac nad oprogramowaniem.
+
+### Analiza istniejącej dokumentacji
+
+Na początku projektu, czytasz dostępne materiały, by budować wiedzę o produkcie.
+Czytając je, zwracasz uwagę na obszary, gdzie podejrzewasz, że będziesz musieć
+wprowadzić zmiany.
+
+### Iteracyjne rozwijanie trudnego tekstu
 
 Każdy kto pracuje w technical writingu zna następujący scenariusz: pracujesz
 wiele tygodni nad żmudnym, złożonym, wymagającym dużego skupienia tekstem w
@@ -23,22 +66,29 @@ Stopniowo rozwijasz tekst. W miarę jak poszerza się Twoje rozumienie tematu,
 otrzymujesz też sugestie ulepszeń. Znasz ten tekst od samego początku, każde
 zdanie zostało wyrzeźbione przez Ciebie.
 
-Wyzwanie polega na tym, jak sprawić, by po raz kolejny przeczytać ten tekst ze
+### Klątwa wiedzy
+
+Wyzwanie polega na tym, żeby po raz kolejny przeczytać ten tekst ze
 zrozumieniem, by wychwycić błedy logiczne, niespójności i obszary do ulepszenia.
 
 Dlaczego jest to takie trudne? Mimo, że przyjęło się uważać, że to eksperci
 domenowi od których pozyskujesz informacje są obciążeni klątwą wiedzy, okazuje
-się, że ta przypadłość jest zaraźliwa i dotknąć może również specjalistę
-od dokumentacji, jak tylko dostatecznie dobrze zapoznasz się z tematem.
+się, że ta przypadłość jest zaraźliwa i dotknąć może również specjalistę od
+dokumentacji, jak tylko dostatecznie dobrze zapozna się z tematem.
 
-Za dodatkową trudność uważam to, że nasz mózg stara się oszczędzać energię.
+### Wielokrotne czytania kontra oszczędzanie energii
+
 Autor dokumentacji czyta swój materiał największą liczbę razy. Łatwiej skupić
 uwagę na kompletnie nowej informacji niż na informacji która tylko nieznacznie
-różni się od poprzedniej znanej już wersji. Analiza tekstu wymaga dużo wysiłku i
-nasz mózg do sprawy podchodzi ekonomicznie: zamiast wiernie odczytywać na nowo
-podobne rzeczy, stara się pomijać odczytywanie niektórych fragmentów, które już
-mamy w pamięci.
+różni się od poprzedniej znanej już wersji.
 
+Za dodatkową trudność uważam to, że nasz mózg stara się oszczędzać energię.
+Analiza tekstu wymaga dużo wysiłku i nasz mózg do sprawy podchodzi ekonomicznie:
+zamiast wiernie odczytywać na nowo podobne rzeczy, stara się pomijać
+odczytywanie niektórych fragmentów, które już mamy w pamięci.
+
+
+### Odczytywanie zgodnie z duchem ale nie literą
 Powszechnie znanym zjawiskiem jest to, że gdy litery w wyrazie są przemieszane,
 ale pierwsza i ostatnia litera się zgadzają, nasz mózg i tak w locie odczyta
 właściwy wyraz, który jest zgodny z intencją.
@@ -47,16 +97,21 @@ Powoduje to, że musimy być bardzo ostrożni przy kolejnych recenzjach własneg
 tekstu, bo łatwo jest w nim zobaczyć coś, co powinno w nim być zamiast
 krytycznie zobaczyć to, co faktycznie jest i może wymagać poprawy.
 
+
+### Zniekształcenia poznawcze
 Różne zniekształcenia poznawcze powodują też, że czytając własny tekst jesteśmy
 bardziej skłonni uznać, że coś jest wystarczająco jasne niż szukać dziury w
 całym. Być może zapisaliśmy błędną informację na samym początku, opatrzyła się
 nam i poprzez ponowne jej oglądanie utwierdzamy się w przekonaniu, że jest
 właściwa.
 
+### Skróty myślowe
+
 Zdarzyć się mogą skróty myślowe wynikające z tego, że technical writer
 niesłusznie uzna coś za powszechnie znaną informację, co finalnie przysporzy
 kłopoty w zrozumieniu tekstu przez czytelników.
 
+### Od "writer's block" do "reviewer's fatigue"
 Skoro można mieć "writer's block" (brak weny do pisania, syndrom białej kartki
 albo "Bartona Finka") to pomyślałem, że można też mieć "reader's block" (brak
 chęci do czytania) lub "reader's fatigue" (znużenie czytaniem).
