@@ -124,7 +124,7 @@ Ta kategoria była nowością podczas tegorocznej konferencji i spotkała się z
 
 Tego dnia również nie mogło zabraknąć nowości w agendzie. Michał Skowron ([Tech Writer Koduje](https://techwriterkoduje.pl/)) poprowadził godzinną sesję pod nazwą _Have a Byte_, podczas której uczestnicy konferencji mogli wyjść na scenę i podzielić się z publicznością swoimi przemyśleniami na dowolny temat.
 
-Znalazło się siedmiu śmiałków, którzy postanowili przemówić tego dnia, a jeden z nich nawet pokusił się o wyjaśnienie, który majonez jest lepszy - Winiary czy Kielecki?
+Znalazło się siedmiu śmiałków, którzy postanowili przemówić tego dnia. Spektrum poruszonych tematów było naprawdę szerokie. Jeden z prezentujących odważył się nawet podjąć próbę ustalenia, który majonez jest lepszy, Winiary czy Kielecki?
 
 Pozwolicie jednak, że nie zaprezentuję wyników tej ankiety, aby nie wywoływać zbyt silnych emocji wśród naszych czytelników.
 
