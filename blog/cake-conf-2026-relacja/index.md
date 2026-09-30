@@ -128,7 +128,7 @@ Znalazło się siedmiu śmiałków, którzy postanowili przemówić tego dnia. S
 
 Pozwolicie jednak, że nie zaprezentuję wyników tej ankiety, aby nie wywoływać zbyt silnych emocji wśród naszych czytelników.
 
-Sekcja _Have a byte_ okazała się więc strzałem w dziesiątkę, a dwóch najlepszych mówców zgarnęło gadżety przygotowane przez Michała.
+Sekcja _Have a Byte_ okazała się więc strzałem w dziesiątkę, a dwóch najlepszych mówców zgarnęło gadżety Tech Writer Koduje.
 
 ## Zakończenie konferencji
 
