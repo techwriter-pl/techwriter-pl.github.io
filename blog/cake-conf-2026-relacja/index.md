@@ -30,7 +30,7 @@ Oczywiście nie mogło tam zabraknąć przedstawicieli portalu [techwriter.pl](h
 
 Za nami dwa pełne dni zdobywania wiedzy i nawiązywania nowych znajomości. Pewnie spora część czytelników jest ciekawa, jak dokładnie wyglądała tegoroczna edycja, więc przejdźmy do konkretów!
 
-![Zdjęcie tortu, który zakończył konferencję CAKE conf.](./images/wykladcake1.jpg)
+![Zdjęcie z wykładów na konferencji CAKE.](./images/wykladcake1.jpg)
 
 ## Pierwszy dzień konferencji
 
@@ -49,7 +49,7 @@ Tego dnia mieliśmy do wyboru:
 - Documentation teardown: a workshop for spotting what you’ve stopped seeing (Marcel Rebro)
 - Building customized knowledge bases using markdown (Lance Cummings)
 
-![Zdjęcie tortu, który zakończył konferencję CAKE conf.](./images/wykladcake2.jpg)
+![Zdjęcie z wykładów na konferencji CAKE.](./images/wykladcake2.jpg)
 
 ### Czas na prezentacje
 
@@ -101,7 +101,7 @@ W drugim dniu konferencji również rozpoczęliśmy od warsztatów. Tym razem cz
 
 Po zakończonych warsztatach, wszyscy znów spotkaliśmy się na piątym piętrze, aby rozpocząć kolejny dzień prezentacji.
 
-![Zdjęcie tortu, który zakończył konferencję CAKE conf.](./images/wykladcake3.jpg)
+![Zdjęcie z wykładów na konferencji CAKE.](./images/wykladcake3.jpg)
 
 ### Czas na prezentacje, dzień II
 
