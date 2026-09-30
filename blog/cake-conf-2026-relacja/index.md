@@ -120,7 +120,7 @@ Ta kategoria była nowością podczas tegorocznej konferencji i spotkała się z
 
 - Counting down to Friday? How to tell a tough period from burnout (Aleksandra Kulga)
 
-### Have a byte
+### Have a Byte
 
 Tego dnia również nie mogło zabraknąć nowości w agendzie. Michał Skowron był prowadzącym sekcję _Have a byte_, podczas której uczestnicy konferencji mogli wyjść na scenę i podzielić się z publicznością swoimi przemyśleniami na dowolny temat.
 
