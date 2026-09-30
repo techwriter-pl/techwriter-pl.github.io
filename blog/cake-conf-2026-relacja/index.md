@@ -32,7 +32,7 @@ Za nami dwa pełne dni zdobywania wiedzy i nawiązywania nowych znajomości. Pew
 
 ### Walk & talk
 
-Pierwszy dzień konferencji rozpoczął się z przytupem. W zeszłym roku zaczynaliśmy od warsztatów, a w tym roku dla chętnych organizatorzy przygotowali jeszcze jedną poranną atrakcję jaką było **Walk & talk** prowadzone przez wszystkim znanego Michała Skowrona.
+Pierwszy dzień konferencji rozpoczął się z przytupem. W zeszłym roku zaczynaliśmy od warsztatów, a w tym roku dla chętnych organizatorzy przygotowali jeszcze jedną poranną atrakcję - **Walk & talk**. Poranny spacer połączony ze sporą dawką informacji na temat pobliskich atrakcji poprowadził Michał Skowron ([Tech Writer Koduje](https://techwriterkoduje.pl/)).
 
 Była to świetna propozycja na poranną rozgrzewkę, połączoną z dawką ciekawostek o Krakowie.
 
