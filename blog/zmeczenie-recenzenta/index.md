@@ -129,6 +129,13 @@ Powoduje to, że musimy być bardzo ostrożni przy kolejnych recenzjach własneg
 tekstu, bo łatwo jest w nim zobaczyć coś, co powinno w nim być zamiast
 krytycznie zobaczyć to, co faktycznie jest i może wymagać poprawy.
 
+### Co mówi nam nauka?
+
+Ponieważ nie jestem profesjonalnym mózgologiem, a moje zrozumienie tych procesów
+jest raczej intuicyjne, na bazie doświadczeń posiadacza i użytkownika mózgu,
+postanowiłem trochę poszperać, by znaleźć fakty, które rzucą nowe światło na
+temat.
+
 ### Zniekształcenia poznawcze
 
 Różne zniekształcenia poznawcze powodują też, że czytając własny tekst jesteśmy
