@@ -71,13 +71,16 @@ Pracujesz asynchronicznie, czytasz wiadomości od uczestników projektu.
 Decydujesz, która wiadomość wymaga działania teraz, która wymaga działania
 później, a która Cię nie dotyczy. Czasem dostaniesz zawiły komunikat do
 rozszyfrowania, często z pomocą autora. Dynamicznie przybywa ważnych wiadomości
-i musisz planować w jakiej kolejności zajmiesz się którymi z nich.
+i musisz planować w jakiej kolejności zajmiesz się którymi z nich. Bez przerwy
+decydujesz komu ile musisz powiedzieć. Dla pewnych grup potrzebujesz skorzystać
+z wyznaczonych kanałów tematycznych i oznaczasz konkretne osoby zgodnie z
+ustaleniem.
 
 ### Trudne czytanie męczy
 
-Powyższe przykłady pokazują, że nie chodzi o dosłowne odczytywanie tekstu.
-Każdej czynności towarzyszy dodatkowy cel, który chcesz osiągnąć. Każda z nich
-wymaga skupienia na czymś innym.
+Powyższe przykłady pokazują, że nie chodzi tylko o odczytywanie tekstu. Każdej
+czynności towarzyszy dodatkowy cel, który chcesz osiągnąć. Każda z nich wymaga
+skupienia na czymś innym.
 
 Choć staramy się tworzyć strawne teksty, to sami otoczeni jesteśmy często trudną
 do skonsumowania treścią. Praca z nią wymaga doświadczenia, skupienia i wysiłku.
