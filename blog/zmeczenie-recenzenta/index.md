@@ -7,30 +7,31 @@ tags:
 coverImage: 'glasses.jpg'
 ---
 
-Umiejętność czytania to podstawowa umiejętność. Jest tak oczywista, że rzadko
-poświęcamy jej uwagę. A przecież czynność ta leży u podstaw większości zadań
-dokumentalisty. W artykule przyglądam się temu zagadnieniu i przedstawiam
-praktyczne wskazówki, np. jak sprawić, by świeżym okiem przeczytać ten sam tekst
-po raz 28.
+Umiejętność czytania to podstawa. Jest tak oczywista, że rzadko poświęcamy jej
+uwagę. A przecież odgrywa rolę w większości zadań dokumentalisty. W artykule
+przyglądam się temu zagadnieniu i przedstawiam praktyczne wskazówki, np. jak
+sprawić, by świeżym okiem przeczytać ten sam tekst po raz 28.
 
 <!--truncate-->
 
-## Wstęp
-
-### Inspiracja
+## Inspiracja
 
 W ramach ankiety płacowej techwriter.pl pytamy o kwalifikacje i przygotowanie do
-zawodu. Jeden z uczestników lapidarnie napisał "umiem czytać i pisać". W
-pierwszej chwili odebrałem to jako zaskakujący żart. Jednak im dłużej o tym
-myślę, to dochodzę do wniosku, że w tej ripoście kryje się coś mądrego.
+zawodu specjalisty od dokumentacji. Jeden z uczestników lapidarnie napisał
+"umiem czytać i pisać". W pierwszej chwili odebrałem to jako zaskakujący żart.
+Jednak im dłużej o tym myślę, to dochodzę do wniosku, że w tej ripoście kryje
+się wiele mądrego.
 
 ## Czytanie czai się wszędzie
 
+Przyjrzyjmy się typowym zadaniom w projekcie dokumentacyjnym i prześledźmy rolę
+czytania.
+
 ### Tickety
 
-Technical writer spędza wiele czasu na czytaniu ticketów od inżynierów (często w
-języku obcym). Opisują zawiłe tematy techniczne, czesto mają luki, sprzeczności
-i skróty myślowe.
+Technical writer spędza wiele czasu na czytaniu ticketów od inżynierów, np. w
+Jira czy ADO. Często te zgłoszenia czytasz w języku obcym. Tickety opisują
+zawiłe tematy techniczne, czesto mają luki, sprzeczności i skróty myślowe.
 
 Sporego wysiłku wymaga ich właściwe zinterpretowanie i porównanie z dostępną
 dokumentacją, specyfikacją i tym co już wiesz o tym produkcie. Potrzebujesz też
@@ -76,11 +77,12 @@ decydujesz komu ile musisz powiedzieć. Dla pewnych grup potrzebujesz skorzysta�
 z wyznaczonych kanałów tematycznych i oznaczasz konkretne osoby zgodnie z
 ustaleniem.
 
-### Trudne czytanie męczy
+### Czytanie trudnych rzeczy męczy, tak jak myślenie
 
 Powyższe przykłady pokazują, że nie chodzi tylko o odczytywanie tekstu. Każdej
 czynności towarzyszy dodatkowy cel, który chcesz osiągnąć. Każda z nich wymaga
-skupienia na czymś innym.
+skupienia na czymś innym. Przy każdym zadaniu czytając angażujesz też intensywne
+myślenie.
 
 Choć staramy się tworzyć strawne teksty, to sami otoczeni jesteśmy często trudną
 do skonsumowania treścią. Praca z nią wymaga doświadczenia, skupienia i wysiłku.
@@ -135,17 +137,12 @@ całym. Być może zapisaliśmy błędną informację na samym początku, opatrz
 nam i poprzez ponowne jej oglądanie utwierdzamy się w przekonaniu, że jest
 właściwa.
 
-### Skróty myślowe
-
-Zdarzyć się mogą skróty myślowe wynikające z tego, że technical writer
-niesłusznie uzna coś za powszechnie znaną informację, co finalnie przysporzy
-kłopoty w zrozumieniu tekstu przez czytelników.
-
 ### Od "writer's block" do "reviewer's fatigue"
 
 Skoro można mieć "writer's block" (brak weny do pisania, syndrom białej kartki
-albo "Bartona Finka") to pomyślałem, że można też mieć "reader's block" (brak
-chęci do czytania) lub "reader's fatigue" (znużenie czytaniem).
+albo "Bartona Finka", "...który siedział i nie pisał nic..", jak śpiewa Kazik)
+to pomyślałem, że można też mieć "reader's block" (brak chęci do czytania) lub
+"reader's fatigue" (znużenie czytaniem).
 ![Mem gdzie mężczyzna czyta książkę, a podpis dotyczy wielokrotnych prób przeczytania tego samego akapitu.](images/images.jpg)
 
 [Źródło](https://www.reddit.com/r/AutisticWithADHD/comments/1c77joz/why_dont_you_like_reading/)
@@ -153,9 +150,16 @@ chęci do czytania) lub "reader's fatigue" (znużenie czytaniem).
 W kontekscie komunikacji technicznej widzę też "reviewer's block" (znużenie
 recenzowaniem materiału).
 
-Z pewnością nie wyczerpuję tu listy pułapek, jakie stoją przed autorem
-czytającym własne dzieło. Wiem doskonale jak trudne bywa krytyczne spojrzenie na
-własny tekst.
+### Skróty myślowe w napisanym tekscie
+
+Podczas recenzji własnego tekstu, łatwo przeoczyć skróty myślowe wynikające z
+tego, że technical writer niesłusznie uzna coś za powszechnie znaną informację,
+co finalnie przysporzy kłopoty w zrozumieniu tekstu przez czytelników. Wiąże się
+to ze wspomnianą wcześniej klątwą wiedzy.
+
+Z pewnością nie wyczerpuję listy pułapek, jakie stoją przed autorem czytającym
+własne dzieło. Wiem doskonale jak trudne bywa krytyczne spojrzenie na własny
+tekst.
 
 ## Jak zachęcić siebie do ponownego spojrzenia świeżym okiem?
 
