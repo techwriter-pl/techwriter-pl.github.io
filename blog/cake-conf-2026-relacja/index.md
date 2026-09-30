@@ -22,17 +22,21 @@ Organizatorem wydarzenia jest znany już zapewne wielu osobom z branży zespół
 
 Przede wszystkim spora dawka wiedzy i nowinek z branży tworzenia treści, ale nie tylko! Organizatorzy zadbali o wszelkie szczegóły, począwszy od gadżetów powitalnych, przez dobrze zorganizowane zaplecze gastronomiczne, aż po konkursy, w których można było zgarnąć naprawdę fajne nagrody. Fani Lego na pewno nie byli zawiedzeni.
 
+W tegorocznej edycji wzięło udział 100 uczestników. Choć konferencja odbywała się w Krakowie, CAKE conf miało zdecydowanie międzynarodowy charakter. Oprócz uczestników z Polski wydarzenie zgromadziło również osoby z Niemiec, Czech, Hiszpanii, Węgier, Szwajcarii, USA, a także Holandii.
+
 Co więcej, jednym ze sponsorów była firma TechSmith, dzięki której uczestnicy konferencji otrzymali roczny dostęp do [Snagit](https://www.techsmith.com/snagit/) za darmo.
 
 Oczywiście nie mogło tam zabraknąć przedstawicieli portalu [techwriter.pl](https://techwriter.pl), który jest partnerem wydarzenia.
 
 Za nami dwa pełne dni zdobywania wiedzy i nawiązywania nowych znajomości. Pewnie spora część czytelników jest ciekawa, jak dokładnie wyglądała tegoroczna edycja, więc przejdźmy do konkretów!
 
+![Zdjęcie tortu, który zakończył konferencję CAKE conf.](./images/wykladcake1.jpg)
+
 ## Pierwszy dzień konferencji
 
 ### Walk & talk
 
-Pierwszy dzień konferencji rozpoczął się z przytupem. W zeszłym roku zaczynaliśmy od warsztatów, a w tym roku dla chętnych organizatorzy przygotowali jeszcze jedną poranną atrakcję - **Walk & talk**. Poranny spacer połączony ze sporą dawką informacji na temat pobliskich atrakcji poprowadził Michał Skowron ([Tech Writer Koduje](https://techwriterkoduje.pl/)).
+Pierwszy dzień konferencji rozpoczął się z przytupem. W zeszłym roku zaczynaliśmy od warsztatów, a w tym roku dla chętnych organizatorzy przygotowali jeszcze jedną poranną atrakcję - _Walk & talk_. Poranny spacer połączony ze sporą dawką informacji na temat pobliskich atrakcji poprowadził Michał Skowron ([Tech Writer Koduje](https://techwriterkoduje.pl/)).
 
 Była to świetna propozycja na poranną rozgrzewkę, poszerzenie wiedzy o Krakowie i poznanie nowych ludzi.
 
@@ -44,6 +48,8 @@ Tego dnia mieliśmy do wyboru:
 
 - Documentation teardown: a workshop for spotting what you’ve stopped seeing (Marcel Rebro)
 - Building customized knowledge bases using markdown (Lance Cummings)
+
+![Zdjęcie tortu, który zakończył konferencję CAKE conf.](./images/wykladcake2.jpg)
 
 ### Czas na prezentacje
 
@@ -94,6 +100,8 @@ W drugim dniu konferencji również rozpoczęliśmy od warsztatów. Tym razem cz
 - Sketchnoting against cognitive surrender (Olga Stefaniuk-Ziemecka)
 
 Po zakończonych warsztatach, wszyscy znów spotkaliśmy się na piątym piętrze, aby rozpocząć kolejny dzień prezentacji.
+
+![Zdjęcie tortu, który zakończył konferencję CAKE conf.](./images/wykladcake3.jpg)
 
 ### Czas na prezentacje, dzień II
 
