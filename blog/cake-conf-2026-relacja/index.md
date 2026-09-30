@@ -34,7 +34,7 @@ Za nami dwa pełne dni zdobywania wiedzy i nawiązywania nowych znajomości. Pew
 
 Pierwszy dzień konferencji rozpoczął się z przytupem. W zeszłym roku zaczynaliśmy od warsztatów, a w tym roku dla chętnych organizatorzy przygotowali jeszcze jedną poranną atrakcję - **Walk & talk**. Poranny spacer połączony ze sporą dawką informacji na temat pobliskich atrakcji poprowadził Michał Skowron ([Tech Writer Koduje](https://techwriterkoduje.pl/)).
 
-Była to świetna propozycja na poranną rozgrzewkę, połączoną z dawką ciekawostek o Krakowie.
+Była to świetna propozycja na poranną rozgrzewkę, poszerzenie wiedzy o Krakowie i poznanie nowych ludzi.
 
 ### Warsztaty
 
