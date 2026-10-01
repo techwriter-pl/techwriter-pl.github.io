@@ -14,9 +14,9 @@ Druga edycja CAKE conf w Krakowie za nami! Sprawdź, jakie prezentacje, warsztat
 
 Za nami już druga edycja konferencji CAKE conf, która odbyła się w dniach 24-25 września 2026 r. na Wydziale Anglistyki Uniwersytetu Jagiellońskiego w Krakowie.
 
-Dla przypomnienia, konferencja powstała z myślą o pisarzach, specjalistach, a także wszystkich entuzjastach pisania treści, którzy chcą się spotkać i wymienić doświadczeniami ze świata pisania i tworzenia treści, choć nie tylko.
+Wydarzenie powstało z myślą o twórcach szeroko pojętej treści, takich jak autorzy techniczni czy projektanci UX, którzy chcą się spotkać i wymienić swoimi doświadczeniami w swobodnym i przyjaznym otoczeniu.
 
-Organizatorem wydarzenia jest znany już zapewne wielu osobom z branży zespół [Content Bytes](https://contentbytes.pl), który tworzą [Barbara Czyż](https://www.linkedin.com/in/barbara-szwarc/), [Edyta Rakowska](https://www.linkedin.com/in/edyta-rakowska/), [Kasia Zielińska](https://www.linkedin.com/in/kasia-szczepanska/) i [Paweł Chłodnicki](https://www.linkedin.com/in/pawelchlodnicki/).
+Organizatorem wydarzenia jest znany już zapewne wielu osobom zespół [Content Bytes](https://contentbytes.pl), który tworzą [Barbara Czyż](https://www.linkedin.com/in/barbara-szwarc/), [Edyta Rakowska](https://www.linkedin.com/in/edyta-rakowska/), [Kasia Zielińska](https://www.linkedin.com/in/kasia-szczepanska/) i [Paweł Chłodnicki](https://www.linkedin.com/in/pawelchlodnicki/).
 
 ## Co czekało na uczestników?
 
