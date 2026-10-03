@@ -1,48 +1,49 @@
-import { __dirname, blogPath, getAllFilesRecursively } from './helpers.mjs';
-import gm from 'gm';
+import { readFile, writeFile } from 'fs/promises';
 import { resolve } from 'path';
+import sharp from 'sharp';
+import { __dirname, blogPath, getAllFilesRecursively } from './helpers.mjs';
 
+const isDryRun = process.env.RESIZE_IMAGES_DRY_RUN === 'true';
 const targetWidth = 740;
-const im = gm.subClass({ imageMagick: '7+' });
+const coverPath = resolve(__dirname, '../../static/img/cover');
 
 const allImagesInBlog = [];
+for (const dir of [blogPath, coverPath]) {
+  getAllFilesRecursively(dir, allImagesInBlog, '.png');
+  getAllFilesRecursively(dir, allImagesInBlog, '.jpg');
+}
 
-getAllFilesRecursively(blogPath, allImagesInBlog, '.png');
-getAllFilesRecursively(blogPath, allImagesInBlog, '.jpg');
-getAllFilesRecursively(
-  resolve(__dirname, '../../static/img/cover'),
-  allImagesInBlog,
-  '.png'
+console.log(
+  `Found ${allImagesInBlog.length} images in blog, checking their size...`
 );
-getAllFilesRecursively(
-  resolve(__dirname, '../../static/img/cover'),
-  allImagesInBlog,
-  '.jpg'
-);
-
-console.log({ allImagesInBlog }, `Found ${allImagesInBlog.length}`);
 
 let count = 0;
 for (const imagePath of allImagesInBlog) {
-  im(imagePath).size(function (err, size) {
-    if (err) {
-      throw err;
-    }
-    const width = size.width;
-    console.log(width, imagePath);
+  try {
+    // Read into a buffer so we can safely overwrite the same file
+    const input = await readFile(imagePath);
+    const { width } = await sharp(input, { failOn: 'none' }).metadata();
+
     if (width > targetWidth) {
-      im(imagePath)
-        .resize(targetWidth)
-        .write(imagePath, function (err) {
-          if (!err) {
-            count++;
-            console.log(
-              `Resized ${imagePath} from ${width}px to ${targetWidth}px`
-            );
-          }
-        });
+      if (isDryRun) {
+        console.error(
+          `At least one image is larger than ${targetWidth}.
+${imagePath} is ${width}px wide.
+Please run "yarn resize-images" to resize them before building."`
+        );
+        process.exit(1);
+      }
+
+      const output = await sharp(input, { failOn: 'none' })
+        .resize({ width: targetWidth })
+        .toBuffer();
+      await writeFile(imagePath, output);
+      count++;
+      console.log(`Resized ${imagePath} from ${width}px to ${targetWidth}px`);
     }
-  });
+  } catch (err) {
+    console.error(`Failed on ${imagePath}:`, err.message);
+  }
 }
 
 console.log(`Resized ${count} images`);
