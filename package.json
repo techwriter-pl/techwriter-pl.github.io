@@ -15,6 +15,7 @@
     "typecheck": "tsc",
     "prettier": "prettier . --write",
     "remove-unused-cover-images": "node src/scripts/remove-unused-cover-images.mjs",
+    "resize-images": "node src/scripts/resize-images.mjs",
     "delete-old-events": "node src/scripts/delete-old-events.mjs && yarn remove-unused-cover-images"
   },
   "dependencies": {
@@ -45,6 +46,7 @@
     "fast-xml-parser": "^5.0.9",
     "gm": "^1.25.0",
     "prettier": "3.0.2",
+    "sharp": "^0.35.5",
     "typescript": "6",
     "yaml-loader": "^0.8.0"
   },
