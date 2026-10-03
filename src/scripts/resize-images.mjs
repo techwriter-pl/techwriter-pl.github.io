@@ -3,6 +3,7 @@ import { resolve } from 'path';
 import sharp from 'sharp';
 import { __dirname, blogPath, getAllFilesRecursively } from './helpers.mjs';
 
+const isDryRun = process.env.RESIZE_IMAGES_DRY_RUN === 'true';
 const targetWidth = 740;
 const coverPath = resolve(__dirname, '../../static/img/cover');
 
@@ -12,17 +13,28 @@ for (const dir of [blogPath, coverPath]) {
   getAllFilesRecursively(dir, allImagesInBlog, '.jpg');
 }
 
-console.log(`Found ${allImagesInBlog.length}`);
+console.log(
+  `Found ${allImagesInBlog.length} images in blog, checking their size...`
+);
 
 let count = 0;
 for (const imagePath of allImagesInBlog) {
   try {
     // Read into a buffer so we can safely overwrite the same file
     const input = await readFile(imagePath);
-    const { width } = await sharp(input).metadata();
+    const { width } = await sharp(input, { failOn: 'none' }).metadata();
 
     if (width > targetWidth) {
-      const output = await sharp(input)
+      if (isDryRun) {
+        console.error(
+          `At least one image is larger than ${targetWidth}.
+${imagePath} is ${width}px wide.
+Please run "yarn resize-images" to resize them before building."`
+        );
+        process.exit(1);
+      }
+
+      const output = await sharp(input, { failOn: 'none' })
         .resize({ width: targetWidth })
         .toBuffer();
       await writeFile(imagePath, output);

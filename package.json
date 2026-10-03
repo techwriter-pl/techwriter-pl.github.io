@@ -5,7 +5,7 @@
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
-    "build": "docusaurus build",
+    "build": "yarn test-image-size && docusaurus build",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
@@ -16,6 +16,7 @@
     "prettier": "prettier . --write",
     "remove-unused-cover-images": "node src/scripts/remove-unused-cover-images.mjs",
     "resize-images": "node src/scripts/resize-images.mjs",
+    "test-image-size": "RESIZE_IMAGES_DRY_RUN=true yarn resize-images",
     "delete-old-events": "node src/scripts/delete-old-events.mjs && yarn remove-unused-cover-images"
   },
   "dependencies": {
