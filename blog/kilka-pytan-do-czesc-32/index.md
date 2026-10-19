@@ -91,9 +91,7 @@ should be given opportunities to attend technical conferences in person, where
 they can collaborate, share ideas and learn from their peers, bringing new
 approaches and efficiencies back into the business.
 
-### How do you currently perceive the job market and trends affecting the role of a
-
-technical writer?
+### How do you currently perceive the job market and trends affecting the role of a technical writer?
 
 Although I haven’t fully re-entered the job market, I can see that technical
 writing is facing a period of significant change. The pace of technological
@@ -136,13 +134,13 @@ particularly when you are constantly trying to keep pace with development. It is
 essential to make time for process improvement and proactive planning, rather
 than becoming trapped in a cycle of reactive delivery.
 
-### Do you use AI? What is your company’s approach towards it? I use AI tools,
+### Do you use AI? What is your company’s approach towards it?
 
-although I’m not currently working for a specific company. In a work
-environment, I would use AI to reduce repetitive tasks and help manage processes
-through automation. However, I would never rely on AI-generated content without
-checking it carefully. I would also continue to use the automations I had
-developed myself, as I knew them to be 100% reliable.
+I use AI tools, although I’m not currently working for a specific company. In a
+work environment, I would use AI to reduce repetitive tasks and help manage
+processes through automation. However, I would never rely on AI-generated
+content without checking it carefully. I would also continue to use the
+automations I had developed myself, as I knew them to be 100% reliable.
 
 ### Is documentation work a long-term career, or rather a stepping stone to other IT roles?
 
