@@ -1,301 +1,185 @@
 ---
-title: 'Interview with Mateusz Barszcz'
+title: 'Interview with Anthony Dzumaga'
 authors: niewiarowski
-date: '2025-04-15'
+date: '2026-10-19'
 tags:
   - 'warsztat'
   - 'wywiady'
   - 'kariera'
   - 'praca'
   - 'articles-in-english'
-coverImage: 'upload_0007.png'
+coverImage:
 ---
 
-Our guest today is [Mateusz Barszcz](https://www.linkedin.com/in/mattbarszcz/),
-a Chief Software Technical Writer at
-[Hitachi Energy](https://www.linkedin.com/company/hitachienergy/) in Krakow,
-Poland. Let's hear his story, this time in English. For the Polish version,
-[click here](https://techwriter.pl/kilka-pytan-do-czesc-31). In this interview,
-you will learn about his extensive experience in technical writing and how
-technical writing is like competitive sports. Mateusz shares his invaluable
-observations and insights, which will be helpful for those who want to get
-started with technical communication, and also for anyone else interested in it.
+Our guest today is Anthony
 
 <!--truncate-->
 
-![A technical writer sitting in a car](images/upload_0099.png)
+## Main
 
-## Introduction
+### How did you discover technical communication? Or how did technical communication discover you? ;-)
 
-### Hi, thank you for agreeing to this interview. To start, could you tell us something about yourself?
+Having qualified in programming I initially took a different path, building a
+career in retail management within a Sony Centre, an Apple Centre and then Escom
+(PCs). Two of these roles ended abruptly when I arrived at work to discover that
+the businesses had ceased trading, with no prior notice, or redundancy. After
+some career guidance, I looked for work in technical writing.
 
-My name is Mateusz Barszcz, and I work at Hitachi Energy, where I create
-technical documentation. I have been a member of the Technical Writers team
-since late 2022, when I joined as a Senior Technical Writer. Initially, I worked
-on a smaller project called
-[Network Manager Wide Area Monitoring System (WAMS)](https://www.hitachienergy.com/products-and-solutions/grid-and-generation-management-network-manager/network-manager-wide-area-monitoring-system-wams),
-a backend solution for monitoring the state of the power grid.
+This proved to be a natural progression, bringing together my technical
+knowledge, commercial experience and ability to understand technology from the
+customer's perspective. When an opportunity arose to secure a role requiring
+knowledge of Scitor's software suite, I took the initiative to teach myself the
+software and successfully demonstrated my understanding. This experience
+established a pattern that would serve me throughout my career: identifying
+opportunities, mastering complex software and translating technical knowledge
+into practical value.
 
-Currently, I’m involved in a much larger project with five development teams
-engaged in the process, serving as the lead technical writer. In that role, I
-create the documentation plan and ensure we have all the essential information
-needed to proceed with writing. As a writer, I write user documentation for our
-internal teams and the end customers receiving the solution. These documents
-include installation guides, functional descriptions, and release notes. I also
-support the creation of engineering documentation that lives alongside the code,
-such as administration guides or readme files.
+### How did your career progress?
 
-### How would you summarize the essence of the role of a technical writer or technical communication specialist?
+Moving into technical writing was a real reawakening. I had found a role that
+combined technology, communication and the challenge of making complex subjects
+accessible to others. Creating courseware and online help for corporate, defence
+and financial institutions brought a new level of challenge and professionalism.
+I gained a great deal of experience and decided to formalise my knowledge with
+professional qualifications. I obtained a City & Guilds Certificate in Technical
+Writing and Communication and a CIPD Certificate in Training Practice. My
+subsequent roles took me into a variety of industries, including a luxury yacht
+company, where I wrote user manuals; the oil and gas industry, documenting SCADA
+software; and digital marketing, where I developed online help for marketing
+software.
 
-For me, it is mainly the role of a technical translator. It is a person who
-gathers information from an engineer or engineers. The engineer’s statements can
-be emotional, full of jargon, or incomplete. The technical writer translates
-this information into a universally understandable language, helping to achieve
-the user’s goals. The essential elements of technical writing are understanding
-the technical context, translating it into comprehensible language, and
-logically arranging the content.
+### In which areas of technical writing do you feel strongest?
 
-## Career before Hitachi Energy
+My strengths lie in understanding technical content and communicating it
+visually.
 
-### How long have you worked in a technical writer role?
+### What do you consider your biggest achievements?
 
-Recently, while browsing LinkedIn, I was reminded that I started my technical
-career 15 years ago, during which I took on various roles. My tasks have always
-been related to technical content that included visuals. I have been strictly
-involved in technical writing since 2010. I have created e-learning materials
-for over three years. As a contractor at Google, for six years I had the
-opportunity to work in a role that combined both these areas.
+My programming and systems background gave me a problem-solving mindset and an
+eye for process improvement. I moved the luxury yacht documentation content into
+a database and used XML with FrameMaker to single-source the content, saving
+over £100,000 a year in translation costs and reducing manual production time
+from weeks to a few days. Throughout my career, I used systems thinking and
+coding to streamline processes and monitor quality. This allowed me to improving
+the quality of my work, develop new skills and refinine processes. The result
+was highly professional print and online documentation that significantly
+improved the user experience.
 
-### How did you become a technical writer?
+### Who would you recommend this career path to?
 
-It’s an interesting story because, after graduation, I had part-time jobs and
-was wondering what to do next. In 2010, I found a contractor job posting for a
-so-called junior one-year assignment at Motorola Solutions. They were looking
-for someone without experience, and as I read the job description, which I
-accidentally came across, I researched what a technical writer does, and it
-intrigued me a lot. I have a technical education; I have always liked playing
-with technology. What prompted me to become a technical writer was the fact that
-I’m bilingual. I’m a native speaker of English and Polish and have technical
-skills, so these two aspects helped me fit into the role. I applied to Motorola
-Solutions, completed the recruitment process, and got the role. That was my
-beginning.
+I would recommend this career to anyone who enjoys continually learning, solving
+problems and making complex things easier to understand. Good planning and
+organisation are essential, as deadlines can be tight and documentation is often
+needed towards the end of a development phase.
 
-### So, by reading this offer, you were building awareness of who a technical writer is.
+### What areas are you currently exploring, and in what direction do you plan to develop?
 
-I was building that awareness. I was one of those people who had instructions in
-their hands many times but never thought about who wrote them and who was
-responsible for creating them. It was only then that this world began to open up
-to me. I started discovering it, as initially I was unaware of the people and
-teams responsible for this documentation. I also did not know at all that
-documentation was a large area requiring dedicated roles and expertise. In the
-end, it drew me in.
+My strengths lie in understanding complex systems, planning information
+structures and finding ways to make technical content more effective through
+automation and process improvement. I’m also exploring how AI can support and
+enhance these areas. I’m interested in building on my extensive technical
+writing experience in a role where I can combine systems thinking, visual
+communication and emerging technologies to improve how technical information is
+created, maintained and understood.
 
-### What projects have you been involved in, and what experiences have you gained?
+### How can senior management support documentation teams?
 
-What I like about my career is that it has been dynamic from the very beginning.
-My responsibilities frequently expanded or evolved, so I couldn’t complain about
-stagnation. I started with Motorola Solution products related to radio
-infrastructure. Several technical writers were responsible for the system's
-features. After two years, I started describing radio devices mounted in police
-cars, which allowed me to learn another aspect of radio communication.
+Investing in the right documentation systems and technologies can also reduce
+translation and maintenance costs, improve consistency, and accelerate the
+delivery of updates across multiple formats and languages. Documentation teams
+should be given opportunities to attend technical conferences in person, where
+they can collaborate, share ideas and learn from their peers, bringing new
+approaches and efficiencies back into the business.
 
-![A police officer holding a radio set](images/upload_0100.png) **A police radio
-device in a police car similar to the one Mateusz dealt with.**
-[Link to the original photo](https://www.flickr.com/photos/peigov/31808990565/in/photostream/).
-Author:
-[Government of Prince Edward Island](https://www.flickr.com/photos/peigov/).
+### How do you currently perceive the job market and trends affecting the role of a
 
-Then, I wrote training materials for e-learning, which involved managing content
-in a different format. I created materials for self-paced learning and
-instructor-led training about the radio infrastructure I learned initially. I
-was managing well-known content in a different format. As an instructional
-designer, I designed trainings for enablement and business topics. The scope of
-content I operated on changed dynamically.
+technical writer?
 
-Then, I accepted an offer to work as a contractor at Google. I joined a small
-team writing technical content and creating online training for internal project
-management products. It was a new and completely unknown area for me. I needed
-to learn many tools designed for employees. It was a dynamic role which I spent
-over six years in. As the product portfolio developed, my responsibilities
-expanded. Ultimately, the contracted project ended, and I had to look for
-something new.
+Although I haven’t fully re-entered the job market, I can see that technical
+writing is facing a period of significant change. The pace of technological
+development presents challenges, and AI is likely to be reshaping both the job
+market and the skills employers value. I believe the ability to adapt,
+understand emerging technologies and apply them effectively will be increasingly
+important for technical writers.
 
-## Career at Hitachi Energy
+### What advice would you give to candidates who want to join documentation teams?
 
-### Let’s return to your current role at Hitachi Energy. How is your work organized?
+Look for an organisation that invests in continuous professional development and
+has a strong development process that treats technical documentation as an
+integral part of product development, rather than an afterthought.
 
-Teams work based on the
-[Scrum](<https://en.wikipedia.org/wiki/Scrum_(software_development)>)
-methodology. The products I work on are new, so we create documents and
-processes related to their creation from scratch. Since I joined the project, I
-started working on large documents. My daily work does not strictly fit into the
-team’s
-[sprints](<https://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint>).
-I sometimes get tasks to supplement or review engineering documentation.
-Although my tasks are loosely related to sprints, I’m bound by deadlines for
-delivering the product with documentation. I attend project meetings to achieve
-that, so I frequently contact the team.
+### What are your interests outside of work? How do you like to spend your free time?
 
-### What type of documents do you create?
+I enjoy hands-on creative pursuits such as bookbinding and woodworking, as well
+as travelling to places rich in natural beauty or history. Family is important
+to me, and I also enjoy making time for leisure and cultural experiences,
+particularly live music and theatre.
 
-I create highly technical installation guides and functional descriptions. These
-documents often include instructions for the end user who wants to know how to
-set up the backend of the feature or product. Another aspect that I cover is a
-description of product operations, such as calculations of current changes,
-phase shifts of voltages, and deviations in readings. These topics are so
-complex that I feel like I’m writing a doctoral thesis. I also create smaller
-documents, such as release notes.
+### Do you work in an international team, and what advantages or challenges does that bring?
 
-### What tools do you use, and what do you think about them?
+I worked as part of an international team spanning India, Manila and the US,
+while coordinating the work from the UK. When planned well, this arrangement
+allowed work to progress around the clock, making effective use of the different
+time zones. The main disadvantage was the lack of regular face-to-face contact,
+which I believe adds considerable value to teamwork and collaboration. However,
+management recognised its importance and ensured that we all met in person at
+least once a year.
 
-I work with various tools depending on the needs. Initially, I used Word –
-mainly because it allowed collaboration on the document with the engineers.
-Still, I’m not a fan of this tool due to problems with style templates,
-formatting, and sometimes loss of content. I try to use it as little as
-possible.
+### What are the strategies for sole writers?
 
-Currently, when I have gathered the content and want to publish the material, I
-work in [Markdown](https://en.wikipedia.org/wiki/Markdown) and
-[MadCap Flare](https://en.wikipedia.org/wiki/MadCap_Software#MadCap_Flare).
-MadCap Flare is excellent, although learning it takes some time and effort.
-However, once you master the basics, prepare style templates, and set up the
-work environment, the tool becomes very user-friendly. Nevertheless, I enjoy
-working in Markdown the most. I can synchronize the content with the repository
-and do anything I want with it. I can publish a website or import it into MadCap
-Flare. I have developed an import process that I’m satisfied with due to its
-flexibility. Markdown’s advantages are its simplicity and the content being
-created in an environment familiar to developers.
+Being the sole technical writer is a demanding role that extends far beyond
+content creation. It requires strong organisational and project management
+skills, effective use of automation to streamline workflows, close collaboration
+with subject matter experts (SMEs), and robust review processes to ensure
+accuracy and quality. Establishing an effective workflow takes time,
+particularly when you are constantly trying to keep pace with development. It is
+essential to make time for process improvement and proactive planning, rather
+than becoming trapped in a cycle of reactive delivery.
 
-### How do you gather the information needed to create documentation?
+### Do you use AI? What is your company’s approach towards it? I use AI tools,
 
-I ask people and remind them that I need information for the documents.
-Engineers are willing to contribute to the documentation. They are often
-necessary links for creating documentation because I do not understand certain
-aspects. As a technical writer, I constantly learn about technology and
-products, and eventually, I become an expert. This reduces the amount of
-involvement needed from engineers as the project advances.
+although I’m not currently working for a specific company. In a work
+environment, I would use AI to reduce repetitive tasks and help manage processes
+through automation. However, I would never rely on AI-generated content without
+checking it carefully. I would also continue to use the automations I had
+developed myself, as I knew them to be 100% reliable.
 
-However, in the beginning, new technologies used in the product require more
-reliance on what someone tells me. Initially, my task is to piece it together
-into sentences and achieve the appropriate order of information to get the
-message across. Sometimes, I find content in repositories that I later include
-in my documentation. Such discoveries give me great satisfaction.
+### Is documentation work a long-term career, or rather a stepping stone to other IT roles?
 
-### What is your superpower as a technical writer?
+Technical documentation can be a long-term career in its own right, particularly
+if you vary your roles and continue to develop new skills to keep the work
+interesting. I’ve worked in the field for 25 years, and it can be a very
+rewarding and lucrative career in the right role. It can also provide a
+springboard into related disciplines, such as UX design or Product Management.
 
-I write witty e-mails that are acceptable in a corporate environment. This skill
-comes in handy both in technical writing and daily communication.
+### What seems obvious to you but is not understood by other teams working with documentation teams?
 
-### What are the biggest challenges you face in your work?
+My impression is that AI is dominating discussions at the moment, while
+topic-based authoring, structured documentation and established writing best
+practices are receiving less attention. This is based on my observations at the
+Cake Conference rather than direct experience, so I can’t say whether this
+reflects the wider industry. However, I believe these fundamentals remain
+essential, regardless of how the technology evolves.
 
-Sometimes, you must convince someone that the path you propose is correct and
-make it clear to someone that they might not be right themselves. It is not
-pleasant to impose your opinion on someone. Still, there are specific standards
-to maintain, and it is necessary. Occasionally, you also have to remind
-engineers about delivering input. Everyone is busy, and in such cases,
-one-on-one meetings work well.
+### Has working in documentation changed or influenced your life in any way?
 
-### What do you like most about your job?
+I’ve had the opportunity to explore some fascinating worlds, from project
+management and process improvement on exciting projects I can’t talk about, to
+the luxury yacht industry, which was great fun. Working with metering RTUs in
+the oil and gas industry also taught me a great deal about electronics.
 
-I like our Technical Writing team. In the beginning, there were only a few of
-us, and now the team is growing rapidly and is very diverse. I will compliment
-our team leader, Piotrek Sroka. I really like his approach to team management.
-Another thing is the technology in which the project is created and the openness
-of the development team to new techniques. This team proposes interesting
-solutions that can be built on Markdown.
+### What conferences do you attend? Do you participate as an attendee or as a speaker?
 
-## Interests
+I’ve attended TCUK since 2012, as well as MadWorld in Prague and Dublin, TC
+Europe and Cake Conf. I’ve also presented at TCUK on the use of SVG in technical
+documentation.
 
-### What are your interests outside of documentation and technology?
+### What is the one thing you would change in your company, if it were possible?
 
-My passions are traveling, reading (sci-fi especially), automotive, and cooking.
-Recipes also relate to instructions.
+Eliminate MS Word from the technical documentation process and adopt tools
+designed specifically for creating, managing and publishing technical content.
 
-### Speaking of cooking, when you buy new household appliances, such as a food processor, do you go with the flow and spontaneously start using it, or do you read the entire manual from cover to cover?
-
-I go with the flow because I prefer to try something out. My memory retention is
-better if I use something practically or possibly break it 😉. When needed, I
-reach for the manual, and then I read it from cover to cover.
-
-### What are your interests related to technology and science?
-
-I have always been fascinated by science, astronomy, and engineering topics,
-such as how something is constructed, types of car engines, and the like. I like
-reading articles about quantum physics and other scientific issues in the
-[New Scientist](https://www.newscientist.com/). It relaxes me and keeps my mind
-curious about the world.
-
-## Well-being
-
-### How do you maintain peace of mind and a broad smile as a technical writer? How do you achieve zen?
-
-Sometimes, switching to another task helps me. If I feel stuck, I try to focus
-on another part of the task that gives me pleasure or allows for quick success.
-It is also important not to try to do 100 percent of everything that can be
-done. After releasing the material, there may be something to improve. It is
-better to release something 80-90 percent ready and make corrections later.
-
-### Everyone has better and worse days; do you have any insights on what can be done to feel better at work? Or are there things to avoid?
-
-When I face a task that overwhelms me, sometimes the fact that there are tasks
-to choose from helps me. Writer’s block is a real thing. Sometimes, I like to
-set aside a problematic task and focus on something else that gives me joy, such
-as working on graphics or the content import process. Playing with techniques or
-things that are not my primary task relieves the mind. For a while, I do not
-feel the pressure of time, which calms me down, and after a moment I continue
-with the previously started thread.
-
-### One realizes that documentation is iterative.
-
-A principle says the last 10 percent of perfecting the material can take 90
-percent of the time. It is about refining details. Where 10-20 percent of your
-efforts generate 80 percent of the gains, the rest is less important. Focusing
-on the key issues is crucial. _[It’s about the
-[Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle)]_. Sometimes,
-it is good to leave some room for later improvements. The rules that apply in
-technical writing can be observed even in sports. The best athletes fight for
-tenths and hundredths of a second, and the effort they have to make to achieve
-them takes years of hard work.
-
-### Yes, it is years of hard work, but every athlete does not exert maximum effort daily. They spread it out so that they also train at moderate intensity and rest to do something big at the very end. Sometimes, we only think about moments of maximum effort, but to get there, they also had to train at low intensity and rest.
-
-It is worth thinking long-term. It is not easy, and it may be against our nature
-because we focus on what is happening now, but seeing the longer perspective can
-help.
-
-## Advice for beginners
-
-### What advice can you give people who want to start their adventure with writing documentation?
-
-I recommend familiarizing yourself with some standards and style guides, working
-on templates, tackling the description of a technical topic, and sharing this
-work. You need a portfolio to start the conversation during UX writing and UX
-design recruitment. In technical writing, I do not encounter this very often.
-Usually, candidates do not have a sample showing how someone thinks and
-approaches the documentation. I recommend trying your hand and posting samples
-on the Internet (for example, on [GitHub](https://github.com/) or your website)
-to showcase your knowledge of technology, share this work, and take pride in it.
-
-Also, do not worry about not being an English major. I know many people in the
-industry with various backgrounds, such as biologists or theater studies’
-graduates. It is worth seeing how you feel about it if it interests you. The
-work of a technical writer is primarily based on contact with people, so it is
-also worth getting involved in some technical writing or engineering
-environments where you can try your hand at communication and extracting
-information that is used later. It is worth, for example, being interested in
-events like hackathons or various meetups, where you can network with new people
-and get familiar with technical language.
-
-## The last question
-
-### Do you have room for professional development at Hitachi Energy?
-
-Definitely yes! This company motivates employees to develop and take on new
-challenges. I take part in many training sessions, including technical and soft
-skills. We have the freedom to try new solutions and take on more tasks. Such
-involvement does not go unnoticed; I’m probably a good example. Starting in
-January, I was promoted from Senior Technical Writer to Chief Software Technical
-Writer (equivalent to Principal Technical Writer).
-
-**Congratulations on the well-deserved promotion! And thank you for sharing your
-thoughts.**
+What question would you like to answer? What additional thoughts would you like
+to share? What tools do you use for technical writing, which operating systems
+do you work with, and what software would you like to see developed specifically
+for Mac?
