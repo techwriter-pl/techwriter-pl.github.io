@@ -126,6 +126,13 @@ coverImage: 'CKSource-logo-2.jpg'
 If you are working in VS Code in the browser, you can drag-and-drop images from
 your file explorer into the browser window.
 
+**NOTE:** Images cannot be wider than 740px. If you want to resize all your
+images to meet this requirement, run:
+
+```
+yarn resize-images
+```
+
 12. Image attribution.
 
 - As much as possible, rely on graphics and illustrations you create and have

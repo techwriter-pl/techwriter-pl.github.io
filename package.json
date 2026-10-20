@@ -5,7 +5,7 @@
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
-    "build": "docusaurus build",
+    "build": "yarn test-image-size && docusaurus build",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
@@ -15,6 +15,8 @@
     "typecheck": "tsc",
     "prettier": "prettier . --write",
     "remove-unused-cover-images": "node src/scripts/remove-unused-cover-images.mjs",
+    "resize-images": "node src/scripts/resize-images.mjs",
+    "test-image-size": "RESIZE_IMAGES_DRY_RUN=true yarn resize-images",
     "delete-old-events": "node src/scripts/delete-old-events.mjs && yarn remove-unused-cover-images"
   },
   "dependencies": {
@@ -45,6 +47,7 @@
     "fast-xml-parser": "^5.0.9",
     "gm": "^1.25.0",
     "prettier": "3.0.2",
+    "sharp": "^0.35.5",
     "typescript": "6",
     "yaml-loader": "^0.8.0"
   },
