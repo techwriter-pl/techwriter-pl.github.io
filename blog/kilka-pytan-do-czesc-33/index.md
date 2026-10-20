@@ -1,21 +1,28 @@
 ---
 title: 'Interview with TBRO'
 authors: niewiarowski
-date: '2026-10-19'
+date: '2026-10-20'
 tags:
   - 'warsztat'
   - 'wywiady'
   - 'kariera'
   - 'praca'
   - 'articles-in-english'
-coverImage: 'upload_0007.png'
+coverImage:
 ---
 
-Our guest today is T-BRO
+Our guest today is
+[Thomas Bro-Rasmussen](https://www.linkedin.com/in/thomasbrorasmussen/) (friends
+call him "T-Bro" for short). He is a Danish manager with extensive experience
+around documentation projects. I had the pleasure of meeting Thomas at Cake Conf
+2026, where [Piotr Sroka](https://www.linkedin.com/in/piotrsrokatechwriter/)
+introduced us to each other. Piotr was the one who came up with the idea for
+documentation manager-focused interviews, and he provided some of the best
+questions for it.
 
 <!--truncate-->
 
-### How did you discover technical communication? Or how did technical communication discover you? ;-)
+### How did you discover technical communication?
 
 Back then it was just called documentation. The term was no even invented. We
 called it everything in the book, but without an overarching term to identify
@@ -32,7 +39,8 @@ computer (remember 10MB hard drive, 35 kg and 4 fonts). Somehow that was better
 than what we had. Main reason: we could easily correct an error on screen, and
 repeat that process until we were content. The rest, as they say, is history. I
 also realized, maybe being a bit lazy, that producing hundred of pages in next
-to no time was a nice feeling. My start of the tech documenting journey.
+to no time was a nice feeling. That was my start of the tech documenting
+journey.
 
 ### In which areas of technical writing do you feel strongest?
 
@@ -59,7 +67,7 @@ something meaningful. Whatever it may be.
 
 ### At what point did you realize that documentation and team management could be a meaningful part of your life?
 
-Four years ago. After 35 years of independent consultancy
+Four years ago. After 35 years of independent consultancy.
 
 ### What areas does your role consist of? To what extent do you manage the documentation team, and to what extent are you responsible for documentation created across the entire department?
 
@@ -67,9 +75,7 @@ I have always regarded my main role as a catalyst. I may have a vast knowledge,
 ideas and the ability to see into the future. But without a team that will never
 work. The team have to be self governing.
 
-### What advice would you give to people
-
-considering managing a team and documentation at scale?
+### What advice would you give to people considering managing a team and documentation at scale?
 
 Do not use 35 years as I did (even though a lot of it was great and funny), but
 in order to be a proper manager in such a team, your knowledge of documentation
@@ -81,9 +87,7 @@ this. When trying to persuade and convince management of literally anything. It
 is not enough to state: “I need more resources”, without knowing exactly what,
 and being able to explain.
 
-### What areas are you currently exploring, and in what direction do you
-
-plan to develop?
+### What areas are you currently exploring, and in what direction do you plan to develop?
 
 Presently I have migrated out of the management part and heading up a new
 exciting hush-hush project.
@@ -98,11 +102,9 @@ most of them live with the “how hard can it be to produce a user manual”, th
 is a contradiction of terms here. Which can still be seen in the overwhelming
 numbers of technical documentation solutions down in either MS Word or Adobe
 InDesign. The first is on any computer (so anyone can …), and the latter is
-being used by Marketing (i.e. therefore it must be good)
+being used by Marketing (i.e. therefore it must be good).
 
-### How do you currently perceive the job market and trends affecting the role of a
-
-technical writer?
+### How do you currently perceive the job market and trends affecting the role of a technical writer?
 
 It seems to me that it is the same crowd of people which circulates in between
 various companies and solutions. As the number of solutions do not change (or
@@ -123,7 +125,7 @@ Travels (used to be a lot of other things), but we only have one planet, so …
 ### Do you have an international team, and what advantages or challenges does that bring?
 
 I have a large team in India. Just the team size itself is a major factor in the
-success it has brought to GN Hearing. But, truth being told, they are really
+success it has brought to GN Hearing. But, truth being told, they are really,
 really good. Hard working, on their toes, eager to learn and use this to
 perform. The major challenge is the distance and the Teams’ meetings. Meeting
 people face to face is – to me – far more efficient.
@@ -145,7 +147,7 @@ I believe it’s somewhere in between.
 
 That technical documentation is so much more than just writing content. When I
 present management and other departments with the comprehensive list of skills,
-they get exhausted. And the list, take time to master. Has working in
+they get exhausted. And the list, takes time to master. Has working in
 documentation changed or influenced your life in any way? I do not believe so.
 It just happened to be the way to pay my bills. At least in the beginning. Now
 it’s a passion.
@@ -158,5 +160,5 @@ conferences.
 ### What is the one thing you would change in your company, if it were possible?
 
 Have the documentation roles as a separate department. We contact almost any
-other department, and having it reside, e.g. in marmarketing,t boundaries to
-what you can accomplish.
+other department, and having it reside, e.g. in marketing, limits what you can
+accomplish.
