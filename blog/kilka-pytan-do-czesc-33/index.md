@@ -20,6 +20,8 @@ introduced us to each other. Piotr was the one who came up with the idea for
 documentation manager-focused interviews, and he provided some of the best
 questions for it.
 
+![](./images/tbro.png)
+
 <!--truncate-->
 
 ### How did you discover technical communication?
