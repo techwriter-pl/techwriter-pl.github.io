@@ -11,13 +11,17 @@ tags:
 coverImage:
 ---
 
-Our guest today is Anthony
+Our guest today is Anthony who contributes individually as technical writer. He
+possesses impressive knowledge of documentation tool and ways to automate
+processes. I met Anthony at Cake Conf 2026, and enjoyed many conversations with
+him. In this interview we explore his career and perspective on the world of
+technology.
 
 <!--truncate-->
 
 ## Main
 
-### How did you discover technical communication? Or how did technical communication discover you? ;-)
+### How did you discover technical communication?
 
 Having qualified in programming I initially took a different path, building a
 career in retail management within a Sony Centre, an Apple Centre and then Escom
@@ -61,7 +65,7 @@ a database and used XML with FrameMaker to single-source the content, saving
 over £100,000 a year in translation costs and reducing manual production time
 from weeks to a few days. Throughout my career, I used systems thinking and
 coding to streamline processes and monitor quality. This allowed me to improving
-the quality of my work, develop new skills and refinine processes. The result
+the quality of my work, develop new skills and refine processes. The result
 was highly professional print and online documentation that significantly
 improved the user experience.
 
