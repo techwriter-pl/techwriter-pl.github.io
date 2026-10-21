@@ -1,5 +1,5 @@
 ---
-title: 'Interview with Anthony Dzumaga'
+title: 'Interview with Anthony Dzumaga, a seasoned tech writer, and a MadCap geek'
 authors: niewiarowski
 date: '2026-10-19'
 tags:
@@ -11,7 +11,7 @@ tags:
 coverImage:
 ---
 
-Our guest today is Anthony who contributes individually as technical writer. He
+Our guest today is Anthony, who contributes individually as technical writer. He
 possesses impressive knowledge of documentation tool and ways to automate
 processes. I met Anthony at Cake Conf 2026, and enjoyed many conversations with
 him. In this interview we explore his career and perspective on the world of
@@ -181,7 +181,4 @@ documentation.
 Eliminate MS Word from the technical documentation process and adopt tools
 designed specifically for creating, managing and publishing technical content.
 
-What question would you like to answer? What additional thoughts would you like
-to share? What tools do you use for technical writing, which operating systems
-do you work with, and what software would you like to see developed specifically
-for Mac?
+### What tools do you use for technical writing, which operating systems do you work with, and what software would you like to see developed specifically for Mac?
