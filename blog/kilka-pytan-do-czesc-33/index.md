@@ -1,5 +1,5 @@
 ---
-title: 'Interview with TBRO'
+title: 'Interview with documentation manager Thomas Bro-Rasmussen'
 authors: niewiarowski
 date: '2026-10-20'
 tags:
@@ -8,7 +8,7 @@ tags:
   - 'kariera'
   - 'praca'
   - 'articles-in-english'
-coverImage:
+coverImage: ''
 ---
 
 Our guest today is
@@ -18,7 +18,7 @@ around documentation projects. I had the pleasure of meeting Thomas at Cake Conf
 2026, where [Piotr Sroka](https://www.linkedin.com/in/piotrsrokatechwriter/)
 introduced us to each other. Piotr was the one who came up with the idea for
 documentation manager-focused interviews, and he provided some of the best
-questions for it.
+questions.
 
 ![](./images/tbro.png)
 
@@ -26,18 +26,18 @@ questions for it.
 
 ### How did you discover technical communication?
 
-Back then it was just called documentation. The term was no even invented. We
+Back then it was just called documentation. The term was not even invented. We
 called it everything in the book, but without an overarching term to identify
 it. I actually started with typewriters. The text was then either cast in metal
 or when it became real modern typesetting machines. It was a painstaking
-process. But it worked. Always being on the look out for something smarter I
+process. But it worked. Always being on the look out for something smarter, I
 certainly did find technical communication. Ages ago now.
 
 ### How did your career progress?
 
 I started straight out of university with a natural science master degree,
 unemployment and no pocket money. Somehow that coincided with the first personal
-computer (remember 10MB hard drive, 35 kg and 4 fonts). Somehow that was better
+computer (I remember 10MB hard drive, 35 kg and 4 fonts). Somehow that was better
 than what we had. Main reason: we could easily correct an error on screen, and
 repeat that process until we were content. The rest, as they say, is history. I
 also realized, maybe being a bit lazy, that producing hundred of pages in next
