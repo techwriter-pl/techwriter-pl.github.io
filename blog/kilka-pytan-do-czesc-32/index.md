@@ -22,6 +22,9 @@ In this interview, we explore his career and ask for his perspective on the
 world of technology.
 
 <!--truncate-->
+### Hello Anthony! 
+
+### Thank you for taking part in this interview
 
 ### Let's start on a personal note. What is your relation to Poland?
 
