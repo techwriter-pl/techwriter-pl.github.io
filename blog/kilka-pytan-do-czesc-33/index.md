@@ -166,3 +166,5 @@ conferences.
 Have the documentation roles as a separate department. We contact almost any
 other department, and having it reside, e.g. in marketing, limits what you can
 accomplish.
+
+### Thank you, Thomas, for sharing your thought with us.
