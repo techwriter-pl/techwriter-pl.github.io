@@ -1,5 +1,5 @@
 ---
-title: 'Interview with Anthony Dzumaga, a seasoned tech writer, and a MadCap geek'
+title: 'Interview with Anthony Dzumaga, a Madcap expert with Polish roots'
 authors: niewiarowski
 date: '2026-10-19'
 tags:
@@ -8,35 +8,50 @@ tags:
   - 'kariera'
   - 'praca'
   - 'articles-in-english'
-coverImage:
+coverImage: 'tony.png'
 ---
 
-Our guest today is Anthony, who contributes individually as technical writer. He
-possesses impressive knowledge of documentation tool and ways to automate
-processes. I met Anthony at Cake Conf 2026, and enjoyed many conversations with
-him. In this interview we explore his career and perspective on the world of
-technology.
+Our guest today is Anthony, who is at the forefront of the title image (with
+red heart annotation), surrounded by Piotr Sroka, me, and Tim Temme.
+
+Anthony made extensive contributions as technical writer. He possesses expert
+knowledge of documentation tools and knows how to automate processes. I met him
+at Cake Conf 2026, and enjoyed many conversations with him.
+
+In this interview, we explore his career and ask for his perspective on the
+world of technology.
 
 <!--truncate-->
 
-## Main
+### Let's start on a personal note. What is your relation to Poland?
+
+My father was Polish and emigrated to the UK during WWII, and my mother was
+Italian. We spoke only Polish and Italian at home until I was 11 years old. I
+went to a Polish school in the evenings and at weekends, studying all the usual
+subjects you would at any school. My father didn’t speak about the war and
+couldn’t bring himself to return, so I visited Poland for the first time in my
+life for the Cake conference and immediately felt at home, with the food, the
+language, and the country. The visit was long overdue.
 
 ### How did you discover technical communication?
 
 Having qualified in programming I initially took a different path, building a
-career in retail management within a Sony Centre, an Apple Centre and then Escom
-(PCs). Two of these roles ended abruptly when I arrived at work to discover that
-the businesses had ceased trading, with no prior notice, or redundancy. After
-some career guidance, I looked for work in technical writing.
+career in retail management within a Sony Centre, an Apple Centre and then
+[Escom](https://en.wikipedia.org/wiki/Escom_AG), selling personal computers. Two
+of these roles ended abruptly when I arrived at work to discover that the
+businesses had ceased trading, with no prior notice, or redundancy. After some
+career guidance, I looked for work in technical writing.
 
 This proved to be a natural progression, bringing together my technical
 knowledge, commercial experience and ability to understand technology from the
 customer's perspective. When an opportunity arose to secure a role requiring
-knowledge of Scitor's software suite, I took the initiative to teach myself the
-software and successfully demonstrated my understanding. This experience
-established a pattern that would serve me throughout my career: identifying
-opportunities, mastering complex software and translating technical knowledge
-into practical value.
+knowledge of
+[Scitor](https://en.wikipedia.org/wiki/Project_management_software#The_first_project_management_products_and_associations)'s
+software suite, I took the initiative to teach myself the software and
+successfully demonstrated my understanding. This experience established a
+pattern that would serve me throughout my career: identifying opportunities,
+mastering complex software and translating technical knowledge into practical
+value.
 
 ### How did your career progress?
 
@@ -44,13 +59,18 @@ Moving into technical writing was a real reawakening. I had found a role that
 combined technology, communication and the challenge of making complex subjects
 accessible to others. Creating courseware and online help for corporate, defence
 and financial institutions brought a new level of challenge and professionalism.
+
 I gained a great deal of experience and decided to formalise my knowledge with
 professional qualifications. I obtained a City & Guilds Certificate in Technical
-Writing and Communication and a CIPD Certificate in Training Practice. My
-subsequent roles took me into a variety of industries, including a luxury yacht
-company, where I wrote user manuals; the oil and gas industry, documenting SCADA
-software; and digital marketing, where I developed online help for marketing
-software.
+Writing and Communication and a Chartered Institute of Personnel and Development
+([CIPD](https://en.wikipedia.org/wiki/Chartered_Institute_of_Personnel_and_Development))
+Certificate in Training Practice.
+
+My subsequent roles took me into a variety of industries, including a luxury
+yacht company, where I wrote user manuals; the oil and gas industry, documenting
+Supervisory control and data acquisition
+([SCADA](https://en.wikipedia.org/wiki/SCADA)) software; and digital marketing,
+where I developed online help for marketing software.
 
 ### In which areas of technical writing do you feel strongest?
 
@@ -63,11 +83,12 @@ My programming and systems background gave me a problem-solving mindset and an
 eye for process improvement. I moved the luxury yacht documentation content into
 a database and used XML with FrameMaker to single-source the content, saving
 over £100,000 a year in translation costs and reducing manual production time
-from weeks to a few days. Throughout my career, I used systems thinking and
-coding to streamline processes and monitor quality. This allowed me to improving
-the quality of my work, develop new skills and refine processes. The result
-was highly professional print and online documentation that significantly
-improved the user experience.
+from weeks to a few days.
+
+Throughout my career, I used systems thinking and coding to streamline processes
+and monitor quality. This allowed me to improving the quality of my work,
+develop new skills and refine processes. The result was highly professional
+print and online documentation that significantly improved the user experience.
 
 ### Who would you recommend this career path to?
 
@@ -90,19 +111,21 @@ created, maintained and understood.
 
 Investing in the right documentation systems and technologies can also reduce
 translation and maintenance costs, improve consistency, and accelerate the
-delivery of updates across multiple formats and languages. Documentation teams
-should be given opportunities to attend technical conferences in person, where
-they can collaborate, share ideas and learn from their peers, bringing new
-approaches and efficiencies back into the business.
+delivery of updates across multiple formats and languages.
+
+Documentation teams should be given opportunities to attend technical
+conferences in person, where they can collaborate, share ideas and learn from
+their peers, bringing new approaches and efficiencies back into the business.
 
 ### How do you currently perceive the job market and trends affecting the role of a technical writer?
 
 Although I haven’t fully re-entered the job market, I can see that technical
 writing is facing a period of significant change. The pace of technological
 development presents challenges, and AI is likely to be reshaping both the job
-market and the skills employers value. I believe the ability to adapt,
-understand emerging technologies and apply them effectively will be increasingly
-important for technical writers.
+market and the skills employers value.
+
+I believe the ability to adapt, understand emerging technologies and apply them
+effectively will be increasingly important for technical writers.
 
 ### What advice would you give to candidates who want to join documentation teams?
 
@@ -117,13 +140,15 @@ as travelling to places rich in natural beauty or history. Family is important
 to me, and I also enjoy making time for leisure and cultural experiences,
 particularly live music and theatre.
 
-### Do you work in an international team, and what advantages or challenges does that bring?
+### Did you work in an international team, and what advantages or challenges does that bring?
 
 I worked as part of an international team spanning India, Manila and the US,
 while coordinating the work from the UK. When planned well, this arrangement
 allowed work to progress around the clock, making effective use of the different
-time zones. The main disadvantage was the lack of regular face-to-face contact,
-which I believe adds considerable value to teamwork and collaboration. However,
+time zones.
+
+The main disadvantage was the lack of regular face-to-face contact, which I
+believe adds considerable value to teamwork and collaboration. However,
 management recognised its importance and ensured that we all met in person at
 least once a year.
 
@@ -133,10 +158,12 @@ Being the sole technical writer is a demanding role that extends far beyond
 content creation. It requires strong organisational and project management
 skills, effective use of automation to streamline workflows, close collaboration
 with subject matter experts (SMEs), and robust review processes to ensure
-accuracy and quality. Establishing an effective workflow takes time,
-particularly when you are constantly trying to keep pace with development. It is
-essential to make time for process improvement and proactive planning, rather
-than becoming trapped in a cycle of reactive delivery.
+accuracy and quality.
+
+Establishing an effective workflow takes time, particularly when you are
+constantly trying to keep pace with development. It is essential to make time
+for process improvement and proactive planning, rather than becoming trapped in
+a cycle of reactive delivery.
 
 ### Do you use AI? What is your company’s approach towards it?
 
@@ -182,3 +209,12 @@ Eliminate MS Word from the technical documentation process and adopt tools
 designed specifically for creating, managing and publishing technical content.
 
 ### What tools do you use for technical writing, which operating systems do you work with, and what software would you like to see developed specifically for Mac?
+
+I use MadCap Flare and would like to see it made available for the Mac. Almost
+all Markdown platforms are already available for the Mac.
+
+### Thank you, Anthony, for your time and the thoughts you shared with us.
+
+### Anthony is currently looking for new job opportunities as a technical writer. If you look for a technical writer or know about open positions, we highly recommend that you contact Anthony via [LinkedIn](https://www.linkedin.com/in/antonidzumaga/).
+
+### We thank Piotr Sroka for suggesting some of the questions in this interview.
