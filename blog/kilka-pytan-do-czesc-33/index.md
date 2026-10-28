@@ -8,7 +8,7 @@ tags:
   - 'kariera'
   - 'praca'
   - 'articles-in-english'
-coverImage: ''
+coverImage: 'tbro2.png'
 ---
 
 Our guest today is
@@ -20,9 +20,9 @@ introduced us to each other. Piotr was the one who came up with the idea for
 documentation manager-focused interviews, and he provided some of the best
 questions.
 
-![](./images/tbro.png)
-
 <!--truncate-->
+
+### Hello Thomas.
 
 ### How did you discover technical communication?
 
@@ -36,13 +36,14 @@ certainly did find technical communication. Ages ago now.
 ### How did your career progress?
 
 I started straight out of university with a natural science master degree,
-unemployment and no pocket money. Somehow that coincided with the first personal
-computer (I remember 10MB hard drive, 35 kg and 4 fonts). Somehow that was better
-than what we had. Main reason: we could easily correct an error on screen, and
-repeat that process until we were content. The rest, as they say, is history. I
-also realized, maybe being a bit lazy, that producing hundred of pages in next
-to no time was a nice feeling. That was my start of the tech documenting
-journey.
+unemployment and no pocket money. Somehow, that coincided with the first
+personal computer (I remember 10 MB hard drive, 35 kg and 4 fonts). Somehow,
+that was better than what we had.
+
+Main reason: we could easily correct an error on screen, and repeat that process
+until we were content. The rest, as they say, is history. I also realized, maybe
+being a bit lazy, that producing hundred of pages in next to no time was a nice
+feeling. That was my start of the tech documenting journey.
 
 ### In which areas of technical writing do you feel strongest?
 
@@ -50,12 +51,14 @@ Anything but actual writing. Early on I decided to do what I was taught at
 university: teach. As a mediator, presenter and communicator I found a good base
 by knowing a lot. I mean a lot. I wanted to help various people in various
 industries. From furniture, over jet fighters, trains, medical, heavy and light
-machinery and so many more industries. I also realized that different industries
-had different needs and requirements. So I basically had to teach myself all
-about all (typography, design, XML and everything around that, most of the
-software developed from 1986 and onwards). I have seen them come and go. And
-some remain. And all the new ones that pop up all the time. So I’ve never been a
-technical writer – but literally everything else around that role.
+machinery and so many more industries.
+
+I also realized that different industries had different needs and requirements.
+So I basically had to teach myself all about all (typography, design, XML and
+everything around that, most of the software developed from 1986 and onwards). I
+have seen them come and go. And some remain. And all the new ones that pop up
+all the time. So I’ve never been a technical writer – but literally everything
+else around that role.
 
 ### What do you consider your biggest achievements?
 
@@ -111,14 +114,13 @@ being used by Marketing (i.e. therefore it must be good).
 It seems to me that it is the same crowd of people which circulates in between
 various companies and solutions. As the number of solutions do not change (or
 the number of companies using it), there is no increase in the need for more
-tw’s The real successful areas is where there’s also a bachelor or master degree
-in the region. THE trend is AI. It will hugely affect our area. It already is.
+tech writers. The real successful areas is where there’s also a bachelor or
+master degree in the region. THE trend is AI. It will hugely affect our area. It
+already does.
 
-### What advice would you give to candidates who
+### What advice would you give to candidates who want to join documentation teams?
 
-want to join documentation teams?
-
-Go ! You can always regret.
+Go! You can always regret.
 
 ### What are your interests outside of work? How do you like to spend your free time?
 
@@ -127,10 +129,11 @@ Travels (used to be a lot of other things), but we only have one planet, so …
 ### Do you have an international team, and what advantages or challenges does that bring?
 
 I have a large team in India. Just the team size itself is a major factor in the
-success it has brought to GN Hearing. But, truth being told, they are really,
-really good. Hard working, on their toes, eager to learn and use this to
-perform. The major challenge is the distance and the Teams’ meetings. Meeting
-people face to face is – to me – far more efficient.
+success it has brought to [GN Hearing](https://www.gnhearing.com/en/about-us).
+But, truth being told, they are really, really good. Hard working, on their
+toes, eager to learn and use this to perform. The major challenge is the
+distance and the Teams’ meetings. Meeting people face to face is – to me – far
+more efficient.
 
 ### Do you use AI? What is your company’s approach towards it?
 
