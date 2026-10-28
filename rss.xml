@@ -4,10 +4,208 @@
         <title>techwriter.pl Blog</title>
         <link>https://techwriter.pl/</link>
         <description>techwriter.pl Blog</description>
-        <lastBuildDate>Wed, 30 Sep 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>pl</language>
+        <item>
+            <title><![CDATA[Pisanie to myślenie]]></title>
+            <link>https://techwriter.pl/pisanie-to-myslenie</link>
+            <guid>https://techwriter.pl/pisanie-to-myslenie</guid>
+            <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Ostatnio czytam dużo tekstów napisanych przez AI. Nie dlatego, że chcę, tylko]]></description>
+            <content:encoded><![CDATA[<p>Ostatnio czytam dużo tekstów napisanych przez AI. Nie dlatego, że chcę, tylko
+dlatego, że muszę. I w tej burzy słów przewija mi się ciągle myśl “pisanie to
+narzędzie do lepszego myślenia”. Skąd mam taki pomysł w głowie? I czy to w ogóle
+prawda?</p>
+<p>Ludzie online, którzy zawodowo zajmują się czymś innym niż pisanie, produkują
+teraz ogromne ilości tekstu. Część z tego tekstu to zachwyt nad nowym stanem
+świata i wdzięczność za niego — że wreszcie pisanie stało się dostępne dla
+każdego. Że wygrała pomysłowość, która była ukryta za barierą nieumiejętności
+wyrażania swoich myśli (lub brakiem czasu na robienie tego). Że pisanie nie jest
+już ważne, bo LLM może to zrobić i w ogóle pisanie to szczegół w porównaniu z
+Głęboką Myślą i Kreatywnością Wielkich Umysłów. Że pisać ej-ajem można
+dokumentację techniczną, posty na Linkedinie, artykuły prasowe i literaturę.
+Zarabiaj na swoich powieściach o wilkołakach-milionerach! Teraz świat wreszcie
+pozna twój geniusz!</p>
+<p>Ludzie, którzy zawodowo zajmują się pisaniem, ubolewają nad tym stanem rzeczy.
+Ja też nad nim ubolewam i szukam pocieszenia — czegoś, co powie mi, że całe
+życie zainwestowane w umiejętność pisania nie było zmarnowane. I jest jedna
+myśl, która daje mi takie pocieszenie: że pisanie to narzędzie do lepszego
+myślenia. Czasem widzę to w postach lub artykułach, których nie zacytuję, żeby
+nie wciągać niewinnych ludzi w moją wojnę z pomysłami innych niewinnych ludzi.
+Dlatego poszukałem czegoś, co jest o kilka kroków lepsze niż opinie ludzi w
+social mediach: <strong>badań</strong>! Czy je znalazłem? Czy musiałem przeprowadzić własne?</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lepsze-decyzje--lepszy-biznes">Lepsze decyzje — lepszy biznes<a href="https://techwriter.pl/pisanie-to-myslenie#lepsze-decyzje--lepszy-biznes" class="hash-link" aria-label="Bezpośredni link do Lepsze decyzje — lepszy biznes" title="Bezpośredni link do Lepsze decyzje — lepszy biznes" translate="no">​</a></h2>
+<p>Zacznijmy przyziemnie: czy pisanie jest dobre dla biznesu? Czy można dzięki
+niemu lepiej zarabiać i wzbogacić swoje portfolio? Temat ten wzięła na tapet
+strona Kuźnia Leaderów w artykule pod tytułem
+“<a href="https://kuznialeaderow.pl/podejmowanie-decyzji-moze-byc-latwe/" target="_blank" rel="noopener noreferrer" class="">Podejmowanie decyzji może być łatwe</a>” (strona ma nieważny certyfikat, ale czytanie jej nie powinno być niebezpieczne).
+Czy to wiarygodne i naukowe źródło informacji? Pewnie nie, ale jest to źródło
+bardzo biznesowe i cytuje inne biznesowe źródła o podobnych intencjach —
+biznesowych.</p>
+<p>Co jest w tym artykule? W skrócie mowa o tym, że przeniesienie myśli na
+przysłowiowy papier pozwala je lepiej zorganizować. Teza wydaje się intuicyjna i
+poparta moim doświadczeniem. Konkretniej, artykuł proponuje technikę
+“scenariusza zysków i strat”.</p>
+<p>Ta technika ma bardzo dużo sensu dla mnie, bo jeśli tylko sobie pomyślę “czy
+zjeść lody na kolację”, to intuicyjna odpowiedź oczywiście brzmi: tak, czemu
+nie? Ale scenariusz zysków i strat rysuje się następująco:</p>
+<table><thead><tr><th style="text-align:left">Podjęta decyzja</th><th style="text-align:left">Scenariusz zysku</th><th style="text-align:left">Scenariusz straty</th></tr></thead><tbody><tr><td style="text-align:left">Tak, lody na kolację</td><td style="text-align:left">Lody są pyszne i dadzą mi trochę chwilowej frajdy. Ale jeśli mam być szczery, to będzie bardzo chwilowa frajda, a potem pewnie będę miał poczucie winy. Poza tym będę po nich gruby.</td><td style="text-align:left">Ominie mnie fantastyczny smak lodów, ale jak już pisałem w sąsiedniej kolumnie, ominie mnie też poczucie winy i bycie grubym.</td></tr><tr><td style="text-align:left">Nie, coś innego</td><td style="text-align:left">Zjem coś z witaminą i błonnikiem. Jakieś warzywka pokrojone, domowy vinegrette, może feta. Do tego kanapeczka na razowym chlebie. Umrę kiedyś zdrowszy.</td><td style="text-align:left">Więcej roboty z tym wszystkim, ale dochodzi jeszcze poczucie spełnionego obowiązku osoby dorosłej (dbanie o siebie) i dawanie przykładu innym (jeśli akurat sąsiad mnie zobaczy przez okno, że pałaszuję sałatkę).</td></tr></tbody></table>
+<p><img decoding="async" loading="lazy" alt="miseczka lodów z dopiskiem &amp;quot;ryc 1: kolacja&amp;quot;" src="https://techwriter.pl/assets/images/lody-70a490c4d867aeea7f6711a6168deea8.png" width="705" height="470" class="img_ev3q"></p>
+<p>Dogłębna analiza tych scenariuszy pokazuje, że jednak “coś innego niż lody” ma
+właściwie ogromną przewagę. Czyli dowiodłem doświadczalnie, że pisanie
+doprowadziło mnie do podjęcia lepszej decyzji.</p>
+<p>Czy w końcu zrobię sałatkę, czy jednak zjem te lody? Tylko czas pokaże.</p>
+<p>Czy można to zastosować do poważnych tematów biznesowych? Dajmy na to: czy
+napisać te docsy w dicie, markdownie, czy Microsoft Wordzie?</p>
+<table><thead><tr><th style="text-align:left">Podjęta decyzja</th><th style="text-align:left">Scenariusz zysku</th><th style="text-align:left">Scenariusz straty</th></tr></thead><tbody><tr><td style="text-align:left">Użyję DITA</td><td style="text-align:left">Będę mógł zastosować reuse i dzięki temu bardziej ustandaryzować treści notek i ostrzeżeń. Będę mógł powtórzyć pewne rzeczy kilka razy, żeby zawsze były dostępne w kontekście, na przykład powtórzyć kroki nadawania użytkownikom uprawnień za każdym razem jak tworzymy konkretny typ projektu.</td><td style="text-align:left">Tylko tech writer z Oxygenem będzie mógł kontrybuować do docsów. Nie mogę oczekiwać, że ktoś zrobi review w diffie na GitHubie. Powtarzane w kółko treści zapchają wyniki wyszukiwania.</td></tr><tr><td style="text-align:left">Użyję Markdown</td><td style="text-align:left">Każdy developer w firmie będzie mógł kontrybuować do docsów. Bez reusu wyniki wyszukiwania będą bardziej jednoznaczne, a zawsze mogę dodać linki do często powtarzanych kroków. Użytkownicy raz się nauczą nadawać uprawnienia i potem będą to robić z pamięci.</td><td style="text-align:left">Nie mogę robić reusu, a mogę co najwyżej powtarzać te same treści. To może być problemem przy masowych zmianach w przyszłości.</td></tr><tr><td style="text-align:left">Użyję Worda</td><td style="text-align:left">Każdy, kto ma Worda może zmieniać docsy, komentować, proponować, redagować, itp. Nie tylko tech writerzy i deweloperzy.</td><td style="text-align:left">Problemy z DTP i spójnością wyglądu. Publikowanie “ręcznie”.</td></tr></tbody></table>
+<p>Sprawa jest dużo bardziej wielowymiarowa niż w przykładzie z lodami, ale
+odkryłem, że muszę dostosować scenariusze do tego co jest realne w danym
+wypadku. Na przykład napisałem o procedurze nadawania uprawnień użytkownikom,
+która przydaje się za każdym razem, kiedy tworzymy nowy projekt, i założyłem, że
+są różne typy projektów. To nie jest uniwersalne stwierdzenie typu “dobrze jest
+reusować docsy”, bo to stwierdzenie nie jest jednoznacznie prawdziwe w
+absolutnej próżni. Pytanie o reuse powinno się rozpatrywać na konkretnych
+realnych scenariuszach.</p>
+<p>Jeżeli chciałbym zrobić tę analizę dla prawdziwych docsów, miałaby na pewno dużo
+więcej przykładów z życia wziętych. Musiałbym też szczerze odpowiedzieć sobie na
+pytanie kto będzie edytował docsy. Tylko tech writerzy? Czy możemy liczyć na
+deweloperów? Czy potrzebujemy pomocy PMów albo innych osób nietechnicznych.</p>
+<p>Rozpisywanie problemów w ten sposób mnie intryguje. Na pewno zastosuję to
+następnym razem, kiedy będę podejmował skomplikowaną decyzję.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="zdrowsza-głowa-dzięki-pisaniu">Zdrowsza głowa dzięki pisaniu<a href="https://techwriter.pl/pisanie-to-myslenie#zdrowsza-g%C5%82owa-dzi%C4%99ki-pisaniu" class="hash-link" aria-label="Bezpośredni link do Zdrowsza głowa dzięki pisaniu" title="Bezpośredni link do Zdrowsza głowa dzięki pisaniu" translate="no">​</a></h2>
+<p>Następny artykuł pokazuje, że pisanie to nie tylko droga do zdrowszej diety, ale
+też zdrowszej głowy. Rzeczpospolita daje nam artykuł pod tytułem
+“<a href="https://kobieta.rp.pl/psychologia/art42415901-oto-co-sie-dzieje-w-mozgu-gdy-pisze-sie-pamietnik-kazdy-powinien-to-wiedziec" target="_blank" rel="noopener noreferrer" class="">Oto, co się dzieje w mózgu, gdy pisze się pamiętnik. Każdy powinien to wiedzieć</a>”.
+Wow, kolejne fantastyczne źródło, Paweł! Dobra robota.</p>
+<p>Dobrze, dziękuję. Nie po to wziąłem się za pisanie artykułu, żeby jakiś
+wewnętrzny krytyk krzyżował mi plany. Zobaczmy na jakie źródła się powołują?</p>
+<blockquote>
+<p>Jennifer Aniston prowadzi pamiętnik od 13 roku życia. Zapisuje w nim szczegóły
+dotyczące przyjaźni, obowiązków szkolnych i zawodowych, spotkań rodzinnych, a
+także zawiłości w swoim życiu uczuciowym. Regularne zapiski prowadzi też Lady
+Gaga, która nie rozstaje się ze swoim pamiętnikiem nawet wyruszając w trasę
+koncertową. Poza pomysłami na nowe artystyczne przedsięwzięcia, kreatywna
+wokalistka umieszcza tam ręcznie tworzone obrazki, szkice, a także wkleja
+zdjęcia i fragmenty listów wymienianych ze swoją mamą Cynthią.</p>
+</blockquote>
+<p>Okej, znane osoby to tylko ilustracja. Ale skąd twierdzenie, że to dobrze?
+Źródłem informacji jest dr Agnieszka Gawor, doktor nauk humanistycznych w
+obszarze psychologii, wykładowczyni na Uniwersytecie WSB Merito we Wrocławiu.</p>
+<p>Co twierdzi pani psycholog? Po pierwsze, nasza głowa ma ograniczoną “pamięć
+operacyjną” (taka analogia do komputera) i zapisując myśli na papierze,
+przenosimy część informacji na “dysk zewnętrzny”. “To dlatego często dopiero
+podczas pisania dostrzegamy połączenia między wydarzeniami, które wcześniej
+umykały uwadze” – zauważa dr Agnieszka Gawor. Czyli na przykład wydawało nam
+się, że jesteśmy źli bo ktoś nam nie przytrzymał drzwi, a tak naprawdę
+odreagowujemy wcześniejsze spięcie z kolegą z pracy.</p>
+<p><img decoding="async" loading="lazy" alt="diagram przedstawiający głowę z chipem pamięci komputerowej w środku, a obok książka z dwoma chipami pamięci" src="https://techwriter.pl/assets/images/RAM-e51ab24091730d010b7e4f0c66f86b08.png" width="705" height="470" class="img_ev3q"></p>
+<p>Poza tym, pisanie pozwala nam zdystansować się do sytuacji, zwłaszcza kiedy
+opiszemy ją z perspektywy bezstronnej (lub przynajmniej postaramy się to zrobić)
+lub chociażby użyjemy sformułowań jak “to, co się wydarzyło” zamiast “to, co
+mnie spotkało”. “Wydarzyło” to obiektywny fakt, a “spotkało” sugeruje
+niesprawiedliwość dotykającą mojej osoby.</p>
+<p>To trochę tak jak to, co się dzieje z moim tokiem myślenia podczas pisania tego
+artykułu. Napisałem, że ktoś tam mówi, że AI zastępuje potrzebę pisania. Kto tak
+mówi? Jacyś ludzie, których nie znam. Jak na to zareagowałem? Napisałem, że nie
+znają się na rzeczy i zrobiłem sobie z nich podśmiechujki. Dlaczego mnie
+właściwie dotknęło, że tak pisali? Bo boję się, że ludzie, którzy decydują o
+moim zatrudnieniu zdecydują, że nie jestem już potrzebny. Wtedy chciałbym
+myśleć, że ci ludzie są głupi, a nie ja. Czy to pewne, że zwolnią mnie przez AI?
+Nie jest to pewne, chociaż może się zdarzyć. Czy to będzie oznaczało koniec
+mojego życia albo inną tragedię? Nie, życie potoczy się dalej.</p>
+<p>Kurczę, muszę stwierdzić, że pisanie faktycznie działa. Już się czuję lepiej, a
+wystarczyło tylko rozpisać to co mnie spotkało i moja głowa była zmuszona do
+nieco bardziej obiektywnej analizy. Sam fakt zapisywania zdań na papierze
+popychał mnie do nazywania uczuć i wyciągania wniosku za wnioskiem.</p>
+<p>Polecam tę metodę. Pozwala ochłodzić sobie głowę w przypływie emocji i
+zareagować z większą rozwagą. To tak jak pisze mój kolega z redakcji, Andrzej
+Niewiarowski: “Dobrym ćwiczeniem jest nazywanie uczuć, pisanie w tym pomaga. A
+jak opiszesz je jednego dnia i wrócisz do nich innego to widzisz to z dystansem
+i w innym stanie ducha. Nie polecam pisać maili z wściekłością i od razu
+wysyłać.”</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="na-papierze-czarno-na-białym">Na papierze, czarno na białym<a href="https://techwriter.pl/pisanie-to-myslenie#na-papierze-czarno-na-bia%C5%82ym" class="hash-link" aria-label="Bezpośredni link do Na papierze, czarno na białym" title="Bezpośredni link do Na papierze, czarno na białym" translate="no">​</a></h2>
+<p>Jeszcze jedna rzecz mi się rzuciła w oczy:
+“<a href="https://naukawpolsce.pl/aktualnosci/news%2C100343%2Cpisanie-reczne-poprawia-pamiec-i-pomaga-sie-uczyc.html" target="_blank" rel="noopener noreferrer" class="">Pisanie ręczne poprawia pamięć i pomaga się uczyć</a>”.
+A więc teza jest taka, że pisanie ręczne ma przewagę nad pisaniem na
+klawiaturze. Kto głosi takie rewelacje? Portal Nauka w Polsce, który działa od
+2004 r. w wyniku współpracy Ministerstwa Nauki (obecnie Ministerstwa Nauki i
+Szkolnictwa Wyższego) oraz Polskiej Agencji Prasowej. Brawo, Paweł! Nareszcie
+jakieś wiarygodne źródło!</p>
+<p>Na kogo się powołują? Na naukowców z Norweskiego Uniwersytetu Nauki i
+Technologii (NTNU) w Trondheim. I co ci naukowcy twierdzą?</p>
+<blockquote>
+<p>“Podczas pisania ręcznego wzorce połączeń mózgowych są znacznie bardziej
+rozbudowane niż w trakcie pisania na klawiaturze” – powiedziała prof. Audrey
+van der Meer, neuropsycholożka z uniwersytetu w Trondheim i współautorka pracy
+opublikowanej w “Frontiers in Psychology”. Badaczka dodała, że taka wzmożona
+aktywność mózgu ma kluczowe znaczenie dla tworzenia się śladów pamięciowych i
+kodowania nowych informacji, czyli jest korzystna dla uczenia się.</p>
+</blockquote>
+<p>Przyznam, że bardzo mało piszę ręcznie, co mocno widać po moim niechlujnym
+charakterze pisma. Ale zauważyłem, że odkąd spisuję na papierze plany na
+najbliższe dni, dużo lepiej o nich pamiętam. Wcześniej wklepywałem wszystko
+tylko do Kalendarza Google, ale teraz robię na papierze notatkę z garścią
+szczegółów na temat tego, co mam do zrobienia, i dużo częściej zdarza mi się, że
+wiem, co będzie, zanim pojawi się przypomnienie.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="słowo-pisane-potrzebuje-ciebie-żeby-myśleć">Słowo pisane potrzebuje ciebie, żeby myśleć?<a href="https://techwriter.pl/pisanie-to-myslenie#s%C5%82owo-pisane-potrzebuje-ciebie-%C5%BCeby-my%C5%9Ble%C4%87" class="hash-link" aria-label="Bezpośredni link do Słowo pisane potrzebuje ciebie, żeby myśleć?" title="Bezpośredni link do Słowo pisane potrzebuje ciebie, żeby myśleć?" translate="no">​</a></h2>
+<p>Kolega redakcyjny Andrzej Niewiarowski podsunął mi pewną kwestię związaną z
+pisaniem. Powiedział tak:</p>
+<blockquote>
+<p>Gdy dłuższy czas piszesz artykuł czy powieść, po drodze odkryjesz rzeczy o
+których wcześniej byś nie pomyślał. Odkryjesz nowe fakty, ułożysz na nowo
+informacje, zdobędziesz inną perspektywę niż wcześniej.</p>
+</blockquote>
+<blockquote>
+<p>Jeden pisarz powiedział że to "książki piszą opowieści za pomocą autorów". Sam
+proces tworzenia potrafi być wzbogacający. Nie chodzi tylko o finalny
+tekst/ostateczny rezultat. Równie ważna jest droga do niego.</p>
+</blockquote>
+<p>“Książki piszą opowieści za pomocą autorów” to bardzo poetycka myśl. Który
+pisarz to powiedział? Nie potrafiłem znaleźć tego cytatu bezpośrednio, ale
+pamiętam, że Stephen King pisał coś podobnego w swojej książce “Jak pisać”.
+Zarzekał się, że kiedy zaczyna pisać to często nie wie jak potoczą się losy
+bohaterów — pozwala im działać, reagować, myśleć i mówić. Opowieść wyłania się
+jak znalezisko archeologiczne, które jest powoli odsłaniane łopatką i miotełką.</p>
+<p>Wydaje mi się osobiście, że jeżeli piszemy szczerze realistycznie, rzeczywistość
+zaczyna prześwitywać przez nasz tekst i możemy zobaczyć jej dowolnie wybrany
+fragment w takim zbliżeniu lub oddaleniu jak tylko potrzebujemy.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="moje-badania">Moje “badania”<a href="https://techwriter.pl/pisanie-to-myslenie#moje-badania" class="hash-link" aria-label="Bezpośredni link do Moje “badania”" title="Bezpośredni link do Moje “badania”" translate="no">​</a></h2>
+<p>Jako autor dokumentacji i nauczyciel odkryłem jeszcze jedno ciekawe zjawisko,
+które chciałbym Wam teraz opisać. Kiedy coś przeczytam — wydaje mi się, że to
+wiem. Kiedy próbuję to komuś przekazać — okazuje się, że jednak nie wiem aż
+tyle, ile mi się wydawało.</p>
+<p>Najwięcej o regułach języka angielskiego dowiedziałem się nie wtedy, kiedy się
+ich uczyłem i robiłem ćwiczenia, ale wtedy, kiedy próbowałem wytłumaczyć je moim
+uczniom. Analogicznie, kiedy tylko piszę dokumentację, uświadamiam sobie własne
+braki w wiedzy na dany temat i to jest pierwszy krok, żeby je uzupełnić.
+Rozpoczynam wtedy cykl pisania, sprawdzania szczegółów w źródłach, dopytywania,
+testowania w praktyce i wreszcie dopisywania. Zanim skończę dany fragment
+dokumentacji, moja wiedza znacznie się zwiększa.</p>
+<p>Zdarzało mi się odkryć luki w wiedzy tak duże, że spędziłem kilka miesięcy na
+nauce — na przykład na nauce programowania w Reakcie — żeby móc pisać lepszą
+dokumentację.</p>
+<p>Czy można tę obserwację potraktować jako “badania”? Nie. Ale to fajna anegdota.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="no-i-co-tzw-wnioski">No i co? (tzw. “wnioski”)<a href="https://techwriter.pl/pisanie-to-myslenie#no-i-co-tzw-wnioski" class="hash-link" aria-label="Bezpośredni link do No i co? (tzw. “wnioski”)" title="Bezpośredni link do No i co? (tzw. “wnioski”)" translate="no">​</a></h2>
+<p>Pisząc ten krótki artykuł przeżyłem niebagatelne wzloty i upadki. Po pierwsze,
+wyraziłem swój niesmak wobec klimatu online wokół pisania.</p>
+<p>Po drugie, dowiedziałem się, że pisanie może mi pomóc podjąć lepsze decyzje (w
+tym decyzje o diecie). Wypróbuję te techniki przy podejmowaniu najbliższej
+decyzji biznesowej. Liczę na ogromny zwrot z inwestycji. 😉</p>
+<p>Po trzecie, dowiedziałem się, że noszę w sobie strach, który manifestuje się w
+postaci podśmiechujek. Może teraz, kiedy wiem, co leży u podstaw mojego lęku,
+będę mógł lepiej zaakceptować odcienie szarości w mojej relacji z LLM-ami? Czy
+LLM może stać się naprawdę potężnym narzędziem myślenia, jeżeli użyjemy go
+prawidłowo?</p>
+<p>Po czwarte, odkryłem, jak pisanie pomaga mi zdobywać wiedzę. Postanawiam już
+dzisiaj, że będę więcej pisać i przez to więcej się uczyć.</p>
+<p>Ostatecznie myślę, że warto było napisać ten artykuł. Mam nadzieję, że warto go
+było też przeczytać.</p>
+<p>A Wam pisanie pomaga myśleć?</p>]]></content:encoded>
+            <category>dobre-praktyki</category>
+            <category>warsztat</category>
+        </item>
         <item>
             <title><![CDATA[CAKE conf 2026 – dwa dni pełne wiedzy, inspiracji i spotkań]]></title>
             <link>https://techwriter.pl/cake-conf-2026-relacja</link>
@@ -3829,359 +4027,6 @@ pisania. Ja na pewno odczuwam taką poprawę w mojej pracy z kodem.</p>
 społecznościowych.</p>]]></content:encoded>
             <category>narzędzia</category>
             <category>generative-ai</category>
-        </item>
-        <item>
-            <title><![CDATA[Jak wyposażyć gabinet do pracy zdalnej? Biurka elektryczne i inne wynalazki]]></title>
-            <link>https://techwriter.pl/ergonomia-biura</link>
-            <guid>https://techwriter.pl/ergonomia-biura</guid>
-            <pubDate>Tue, 17 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Swego czasu epidemiologiczne zawirowania sprawiły, że wiele osób poznało pracę]]></description>
-            <content:encoded><![CDATA[<p>Swego czasu epidemiologiczne zawirowania sprawiły, że wiele osób poznało pracę
-zdalną w większym zakresie niż kiedykolwiek wcześniej. Dla niektórych jest to
-zapomniany epizod, a inni zaś świadomie postawili na taki styl pracy i życia.
-Jak dostosować swój gabinet, żeby zapewnić sobie komfortową pracę zdalną i
-hybrydową?</p>
-<p>Dla mnie praca zdalna to codzienna rzeczywistość. Chętnie opowiem o tym, czego
-dowiedziałem się o biurkach elektrycznych i innych akcesoriach ułatwiających
-życie w biurze. Stoi za mną 15 lat doświadczenia pracy biurowej 😉.</p>
-<p>Mam nadzieję, że po przeczytaniu tego artykułu łatwiej zdecydujesz czy warto
-mieć biurko elektryczne i jakie powinno ono być. Będzie Ci też łatwiej wybrać
-kilka gadżetów, które będą Ci służyć w gabinecie. Przy okazji dowiesz się jak
-ten sprzęt ustawić i jak zadbać o zdrową postawę. Temat ergonomii pracy jest
-bardzo rozległy i ten artykuł z pewnością go nie wyczerpie. Dostaniesz garść
-obserwacji i odniesień do źródeł, z którymi możesz się zapoznać.</p>
-<p>Nie jestem fizjoterapeutą, dlatego decyzje dotyczące ergonomii gabinetu podejmuj
-w oparciu o swoje preferencje i research. Konsultacja ze specjalistą może być
-wskazana, zwłaszcza jeśli jesteś pod opieką fizjoterapeuty.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="wstęp">Wstęp<a href="https://techwriter.pl/ergonomia-biura#wst%C4%99p" class="hash-link" aria-label="Bezpośredni link do Wstęp" title="Bezpośredni link do Wstęp" translate="no">​</a></h2>
-<p>Czy warto zainwestować w biurko elektryczne i dodatki, które będą Ci służyły w
-gabinecie?</p>
-<p>Widzę dwie drogi 🙂. Którą wybierasz?
-<img decoding="async" loading="lazy" alt="Diagram przedstawia ścieżki decyzyjne na temat wyposażania gabinetu. Punkt startowy: &amp;quot;Ergonomia Gabinetu&amp;quot; z pytaniem: &amp;quot;Czy inwestujesz w nią?&amp;quot;. Ścieżka negatywna: &amp;quot;Nie inwestuję w nią&amp;quot;. Komentarz: &amp;quot;Brawo! Brawo! Oszczędziłeś / oszczędziłaś sporo pieniędzy&amp;quot;.
-Ścieżka pozytywna z serią kroków: &amp;quot;Tak, inwestuję w Ergonomię Gabinetu&amp;quot;, &amp;quot;Jestem tego wart, warta!&amp;quot;, &amp;quot;Kup biurko elektryczne&amp;quot;, &amp;quot;Zadbaj o monitory&amp;quot;, &amp;quot;Zadbaj o oświetlenie naturalne i sztuczne&amp;quot;, &amp;quot;Kup ramię do monitora&amp;quot;, &amp;quot;Wybierz podstawkę pod laptop&amp;quot;, &amp;quot;Kup biuwar i mazaki&amp;quot;, &amp;quot;Kup słuchawki wygłuszające&amp;quot;, &amp;quot;Wybierz ergonomiczne krzesło&amp;quot;, &amp;quot;Kup ergonomiczną mysz z klawiaturą&amp;quot;, &amp;quot;Kup matę relaksacyjną, żeby wygodnie się stało&amp;quot;, &amp;quot;Jak głęboko sięga ta królicza nora gadżetów???&amp;quot;, &amp;quot;Ciesz się z wygodnej i efektywnej pracy!😃&amp;quot;." src="https://techwriter.pl/assets/images/Pasted_image_20250323115915-00871a87dc4856404708116c69b3910f.png" width="521" height="633" class="img_ev3q"></p>
-<p><strong>Przykładowa ścieżka decyzyjna w kwestii ergonomii biura. Nie każdy gadżet jest
-obowiązkowy, a doposażanie odbywa się stopniowo, na przestrzeni kilku lat.
-Narysowałem to w DrawIO.</strong></p>
-<p>Jeśli wybierzesz się w tę długą, ekscytującą i finansowo nieobojętną podróż,
-zapraszam Cię do przeglądu rozmaitych gadżetów, w które możesz wyposażyć swoje
-biuro. Zacznijmy od największego gabarytowo sprzętu, czyli biurka.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="biurko-elektryczne">Biurko elektryczne<a href="https://techwriter.pl/ergonomia-biura#biurko-elektryczne" class="hash-link" aria-label="Bezpośredni link do Biurko elektryczne" title="Bezpośredni link do Biurko elektryczne" translate="no">​</a></h2>
-<p>Przyjrzyjmy się różnym parametrom i zaleceniom dotyczącym regulowanych biurek
-elektrycznych.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="aspekty-zdrowotne-i-czy-warto">Aspekty zdrowotne i czy warto<a href="https://techwriter.pl/ergonomia-biura#aspekty-zdrowotne-i-czy-warto" class="hash-link" aria-label="Bezpośredni link do Aspekty zdrowotne i czy warto" title="Bezpośredni link do Aspekty zdrowotne i czy warto" translate="no">​</a></h3>
-<p>Doceniam możliwość jednoczesnej pracy i pełnego wyprostowania się. Stanowi to
-dla mnie urozmaicenie w czasie dnia pracy. W wielu sytuacjach pozycja stojąca
-przychodzi naturalnie. Do pewnych zadań jednak wolę usiąść. Może to kwestia
-przyzwyczajenia i pewna bariera mentalna. Często mówię sobie w myślach: "Muszę
-do tego przysiąść". Hmm. Może pora zacząć mówić sobie: "Czas <strong>stanąć</strong> na
-wysokości zadania?"😉.</p>
-<p>Podczas tworzenia notatek graficznych na biuwarze, czy gdy piszę dokumentację
-najczęściej siedzę. Przy sprawdzaniu tego co napisałem, częściej podnoszę
-biurko. Webinary i wideokonferencje to kolejne okazje, by rozprostować kości.</p>
-<p>Biurko elektryczne traktuję jako uzupełnienie zdrowego stylu życia. Trudniej
-będzie Ci wykorzystać potencjał tego sprzętu, jeśli masz słabe mięśnie, bo praca
-na stojąco potrafi być męcząca.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="kształt-biurka">Kształt biurka<a href="https://techwriter.pl/ergonomia-biura#kszta%C5%82t-biurka" class="hash-link" aria-label="Bezpośredni link do Kształt biurka" title="Bezpośredni link do Kształt biurka" translate="no">​</a></h3>
-<p>Zależnie od Twoich potrzeb, preferencji i dostępnego miejsca w pokoju, wybierz
-czy biurko ma być proste, w kształcie litery L, czy zakrzywione. Trafiłem gdzieś
-na informację, że biurka w kształcie litery L nie są ergonomiczne.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="szerokość-i-głębokość-blatu">Szerokość i głębokość blatu<a href="https://techwriter.pl/ergonomia-biura#szeroko%C5%9B%C4%87-i-g%C5%82%C4%99boko%C5%9B%C4%87-blatu" class="hash-link" aria-label="Bezpośredni link do Szerokość i głębokość blatu" title="Bezpośredni link do Szerokość i głębokość blatu" translate="no">​</a></h3>
-<p>Tu nie ma wielkiej filozofii. Na podstawie tego, ile masz sprzętu, monitorów i
-dostępnego miejsca w pokoju, wybierasz odpowiednią szerokość blatu. Głębokość
-nie powinna być mniejsza niż 70 cm. Na moim biurku 80 cm na 160 cm spokojnie
-mieszczą się dwa monitory zewnętrzne i laptop.</p>
-<p>Oprócz tego, na blacie mam też miejsce na biuwar, na którym mazakami robię
-notatki i rysunki poglądowe. Jeśli interesuje Cię ten aspekt ergonomii pracy,
-zapraszam do przeczytania artykułu na Techwriter.pl o
-<a class="" href="https://techwriter.pl/notatki-graficzne">robieniu notatek wizualnych</a>.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="grubość-i-rodzaj-blatu">Grubość i rodzaj blatu<a href="https://techwriter.pl/ergonomia-biura#grubo%C5%9B%C4%87-i-rodzaj-blatu" class="hash-link" aria-label="Bezpośredni link do Grubość i rodzaj blatu" title="Bezpośredni link do Grubość i rodzaj blatu" translate="no">​</a></h3>
-<p>Na rynku jest bardzo duży wybór materiałów. Ja wybrałem blat grubości 1,5 cm z
-tworzywa sztucznego i jestem z niego zadowolony, bo wygląda minimalistycznie.
-Charakteryzuje się dużą sztywnością i odpornością. Opcją tańszą byłaby płyta
-pilśniowa. Do najdroższych opcji należy blat z drewna dębowego.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="przycięcie-blatu-i-zaokrąglenie-rantów">Przycięcie blatu i zaokrąglenie rantów<a href="https://techwriter.pl/ergonomia-biura#przyci%C4%99cie-blatu-i-zaokr%C4%85glenie-rant%C3%B3w" class="hash-link" aria-label="Bezpośredni link do Przycięcie blatu i zaokrąglenie rantów" title="Bezpośredni link do Przycięcie blatu i zaokrąglenie rantów" translate="no">​</a></h3>
-<p><img decoding="async" loading="lazy" alt="Blat biurka z wyciętym fragmentem brzegu blatu. Przycięcie pozwala dosunąć biurko i prowadzić kable pomiędzy ścianą a biurkiem, przy pełnym jego dosunięciu do ściany." src="https://techwriter.pl/assets/images/podciecie-388c85ab61692c429c877368f00c1393.png" width="740" height="403" class="img_ev3q"></p>
-<p><strong><a href="https://mobiusdesk.pl/" target="_blank" rel="noopener noreferrer" class="">Źródło obrazka.</a></strong></p>
-<p>Zdecydowałem się na przycięcie blatu od strony ściany, żeby można było
-poprowadzić kable z tyłu nawet gdy biurko jest mocno dosunięte. Jeśli po Twoim
-domu biegają dzieci, być może warto pomyśleć nad wyborem zaokrąglonych
-narożników blatu. Bezpieczeństwo ponad wszystko!</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="szuflady-i-półki">Szuflady i półki<a href="https://techwriter.pl/ergonomia-biura#szuflady-i-p%C3%B3%C5%82ki" class="hash-link" aria-label="Bezpośredni link do Szuflady i półki" title="Bezpośredni link do Szuflady i półki" translate="no">​</a></h3>
-<p>Można też wybrać blat z szufladą lub podwieszaną półką, na której możesz ustawić
-komputer stacjonarny. Warto przemyśleć gdzie będziesz trzymać laptopa czy
-komputer. Niektórzy trzymają zamknięty laptop na półce pod blatem i polegają
-tylko na monitorach zewnętrznych.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="prowadzenie-przewodów-organizer">Prowadzenie przewodów, organizer<a href="https://techwriter.pl/ergonomia-biura#prowadzenie-przewod%C3%B3w-organizer" class="hash-link" aria-label="Bezpośredni link do Prowadzenie przewodów, organizer" title="Bezpośredni link do Prowadzenie przewodów, organizer" translate="no">​</a></h3>
-<p>Dobrze jest minimalizować ilość kabli, ładowarek i stacji dokujących jakie
-widzisz na biurku. Do takich wniosków zainspirował mnie
-<a href="https://youtube.com/playlist?list=PLpJp7C9f0ZkQPB91ug26SAaUgbGCyYOnJ&amp;si=C_kfeCkbH-elr3WT" target="_blank" rel="noopener noreferrer" class="">kanał YouTube Matthew Moniza</a>,
-gdzie kwestię aranżacji biurka podniesiono do rangi sztuki.</p>
-<p><img decoding="async" loading="lazy" alt="Super wysmakowana aranżacja biurka przez osobę manifestującą zainteresowanie muzyką." src="https://techwriter.pl/assets/images/moniz-3e48d7ec9034e1f99fc5c5398938649d.png" width="740" height="380" class="img_ev3q"></p>
-<p>Pomoże Ci w tym organizer, czyli rodzaj koszyka pod blatem, gdzie możesz
-bezpiecznie odłożyć stację dokującą i ładowarkę. Często pod blatem zamocowana
-jest listwa zasilająca z wieloma gniazdami, do których podłączysz laptop,
-monitory, lampkę i inne sprzęty. W doprowadzeniu kabli od monitorów, pomoże
-otwór w środkowej części w blatu.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="moduł-z-gniazdami">Moduł z gniazdami<a href="https://techwriter.pl/ergonomia-biura#modu%C5%82-z-gniazdami" class="hash-link" aria-label="Bezpośredni link do Moduł z gniazdami" title="Bezpośredni link do Moduł z gniazdami" translate="no">​</a></h3>
-<p>Dodatkowo, na powierzchni biurka możesz mieć wyjście z gniazdami. Dzięki temu
-możesz wygodnie skorzystać z ładowarki do telefonu, podłączyć lampkę czy
-mikrofon.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="silniki">Silniki<a href="https://techwriter.pl/ergonomia-biura#silniki" class="hash-link" aria-label="Bezpośredni link do Silniki" title="Bezpośredni link do Silniki" translate="no">​</a></h2>
-<p>Jest to najdroższy i najistotniejszy element biurka, warto przemyśleć parę
-kwestii zanim zdecydujesz się na zakup.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="udźwig">Udźwig<a href="https://techwriter.pl/ergonomia-biura#ud%C5%BAwig" class="hash-link" aria-label="Bezpośredni link do Udźwig" title="Bezpośredni link do Udźwig" translate="no">​</a></h3>
-<p>Weź pod uwagę liczbę monitorów, wagę komputera i innych akcesoriów. Niektóre
-silniki potrafią dźwignąć 70 kg! Mimo ich dużej siły, proszę nie używaj ich jako
-windy i nie siadaj na blacie, zwłaszcza gdy jest on w ruchu 😉.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="szybkość">Szybkość<a href="https://techwriter.pl/ergonomia-biura#szybko%C5%9B%C4%87" class="hash-link" aria-label="Bezpośredni link do Szybkość" title="Bezpośredni link do Szybkość" translate="no">​</a></h3>
-<p>Niby trywialny aspekt ale ważny. Niektóre silniki biurek działają powoli i długo
-czekasz aż osiągnięta zostanie właściwa wysokość.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="zakres-wysokości">Zakres wysokości<a href="https://techwriter.pl/ergonomia-biura#zakres-wysoko%C5%9Bci" class="hash-link" aria-label="Bezpośredni link do Zakres wysokości" title="Bezpośredni link do Zakres wysokości" translate="no">​</a></h3>
-<p>To jeden z ważniejszych parametrów. Pamiętaj, że dla ergonomicznego ustawienia
-potrzebujesz móc pracować z łokciami pod kątem prostym i neutralnie ustawionymi
-nadgarstkami, niezależnie od tego czy stoisz, czy siedzisz. Jeśli będziesz
-wspólnie z kimś korzystał z biurka, zwróć uwagę czy dostępny zakres wysokości
-będzie odpowiedni dla obu osób.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="kontrola-wysokości-nastawy">Kontrola wysokości, nastawy<a href="https://techwriter.pl/ergonomia-biura#kontrola-wysoko%C5%9Bci-nastawy" class="hash-link" aria-label="Bezpośredni link do Kontrola wysokości, nastawy" title="Bezpośredni link do Kontrola wysokości, nastawy" translate="no">​</a></h3>
-<p>To wygodna opcja. Zamiast trzymać przycisk góra/dół tak długo aż blat osiągnie
-właściwą wysokość, możesz zdefiniować kilka potrzebnych wysokości. Jedno
-kliknięcie przycisku, a blat wędruje na zdefiniowaną wysokość. Nie wyobrażam
-sobie biurka bez tej opcji 🙂.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="system-antykolizyjny">System antykolizyjny<a href="https://techwriter.pl/ergonomia-biura#system-antykolizyjny" class="hash-link" aria-label="Bezpośredni link do System antykolizyjny" title="Bezpośredni link do System antykolizyjny" translate="no">​</a></h3>
-<p>To bardzo ważna opcja, szczególnie, jeśli po domu kręcą się zwierzęta lub
-dzieci. Gdy w trakcie opuszczania blatu wykryty zostanie opór, urządzenie
-zatrzyma się i cofnie. Jest to ważne z punktu widzenia bezpieczeństwa. Dwa razy
-zdarzyło mi się postawić kubek na szafce pod blatem i opuszczając biurko prawie
-go zmiażdżyłem. Trudniej się zresztą zorientować o takiej sytuacji, gdy masz
-założone słuchawki wygłuszające. Na szczęście jednak dla mnie i dla kubka,
-system antykolizyjny za każdym razem zadziałał jak należy.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="gwarancja">Gwarancja<a href="https://techwriter.pl/ergonomia-biura#gwarancja" class="hash-link" aria-label="Bezpośredni link do Gwarancja" title="Bezpośredni link do Gwarancja" translate="no">​</a></h3>
-<p>Warto też zwrócić uwagę na gwarancję, żeby się nie okazało, że po roku
-użytkowania silnik wyzionie ducha i nie będziesz móc dostosować wysokości blatu
-bez wymiany silnika.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="monitory">Monitory<a href="https://techwriter.pl/ergonomia-biura#monitory" class="hash-link" aria-label="Bezpośredni link do Monitory" title="Bezpośredni link do Monitory" translate="no">​</a></h2>
-<p>Większość osób pracujących nad dokumentacją potrzebuje więcej niż jednego
-monitora. Ile ich potrzeba i jak je ustawić? Dowiesz się tego z następnego
-rozdziału.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="więcej-niż-jeden">Więcej niż jeden<a href="https://techwriter.pl/ergonomia-biura#wi%C4%99cej-ni%C5%BC-jeden" class="hash-link" aria-label="Bezpośredni link do Więcej niż jeden" title="Bezpośredni link do Więcej niż jeden" translate="no">​</a></h3>
-<p>Dużo czasu zajęło mi wybranie odpowiedniego ustawienia monitorów. Korzystam z
-monitora laptopa po lewej stronie i dwóch monitorów na podstawkach od
-producenta: jeden ustawiony na wprost i drugi po prawej.</p>
-<p>Na początku możesz się gubić, bo zdarzy Ci się szukać wzrokiem potrzebnej
-aplikacji czy informacji na monitorach. Dobrze jeśli monitory są przeznaczone do
-określonych celów, np.: większość komunikatorów obsługujesz na laptopie, główną
-treść oglądasz na monitorze na wprost, a po prawej masz materiał do
-porównywania.</p>
-<p>Monitory ustawione są po półkolu i te boczne są pod kątem, żeby obracając głowę
-mieć monitory w podobnej odległości od oczu. Upewnij się, że możesz dotknąć
-czubkami palców do górnych krawędzi każdego z monitorów.</p>
-<p><img decoding="async" loading="lazy" alt="Widok z góry, pokazujący mężczyznę patrzącego w przód. Na wprost stoi jeden monitor. Pod kątem po prawej stronie stoi drugi monitor." src="https://techwriter.pl/assets/images/Pasted_image_20250121001726-b2f67d0a3940ad4a5d73f6197cad9d76.png" width="457" height="391" class="img_ev3q"></p>
-<p><strong><a href="https://conwork.pl/pns-15-stanowisko-pracy-z-wieloma-monitorami/" target="_blank" rel="noopener noreferrer" class="">Źródło obrazka.</a></strong></p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="a-może-jeden-ale-za-to-duży">A może jeden ale za to duży?<a href="https://techwriter.pl/ergonomia-biura#a-mo%C5%BCe-jeden-ale-za-to-du%C5%BCy" class="hash-link" aria-label="Bezpośredni link do A może jeden ale za to duży?" title="Bezpośredni link do A może jeden ale za to duży?" translate="no">​</a></h3>
-<p>Podobno lepszą opcją niż mieć obszar roboczy podzielony między wieloma ekranami,
-jest mieć jeden bardzo szeroki monitor. Są też dostępne monitory o zakrzywionej
-powierzchni, nie testowałem ich. Podobno też są polecane dla miłośników gier
-komputerowych.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="monitor-w-orientacji-pionowej">Monitor w orientacji pionowej<a href="https://techwriter.pl/ergonomia-biura#monitor-w-orientacji-pionowej" class="hash-link" aria-label="Bezpośredni link do Monitor w orientacji pionowej" title="Bezpośredni link do Monitor w orientacji pionowej" translate="no">​</a></h3>
-<p>Większość nowych monitorów można obrócić do orientacji pionowej. Ta opcja dobrze
-sprawdza się przy czytaniu PDFów. Treść główną czytam na monitorze z przodu i
-porównuję PDF po prawej stronie - przyjemnie się to wtedy wyświetla. Zbliża się
-czas recenzji materiału? Czas obrócić monitor! 😉</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="zdrowe-warunki-pracy-i-właściwa-postawa">Zdrowe warunki pracy i właściwa postawa<a href="https://techwriter.pl/ergonomia-biura#zdrowe-warunki-pracy-i-w%C5%82a%C5%9Bciwa-postawa" class="hash-link" aria-label="Bezpośredni link do Zdrowe warunki pracy i właściwa postawa" title="Bezpośredni link do Zdrowe warunki pracy i właściwa postawa" translate="no">​</a></h2>
-<p>Jak dbać o prawidłową postawę, z zgodzie z zasadami BHP.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="ustawienie-monitorów-względem-okna">Ustawienie monitorów względem okna<a href="https://techwriter.pl/ergonomia-biura#ustawienie-monitor%C3%B3w-wzgl%C4%99dem-okna" class="hash-link" aria-label="Bezpośredni link do Ustawienie monitorów względem okna" title="Bezpośredni link do Ustawienie monitorów względem okna" translate="no">​</a></h3>
-<p>O ile nie pracujesz w piwnicy, musisz wziąć pod uwagę okno. Zwróć uwagę na
-warunki lokalowe, bo widok monitora na tle okna będzie problematyczny. Latem
-silne światło będzie wpadać i będzie znaczna różnica jasności między monitorem i
-tłem, co jest męczące dla wzroku. Można stosować zasłony i rolety, co pozwoli
-uniknąć problematycznych blasków ale skutek jest taki, że siedzisz w ciemni.</p>
-<p>Lepiej jeśli okno jest prostopadle względem monitorów, po lewej lub prawej
-stronie.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="wysokość-monitora-względem-oczu">Wysokość monitora względem oczu<a href="https://techwriter.pl/ergonomia-biura#wysoko%C5%9B%C4%87-monitora-wzgl%C4%99dem-oczu" class="hash-link" aria-label="Bezpośredni link do Wysokość monitora względem oczu" title="Bezpośredni link do Wysokość monitora względem oczu" translate="no">​</a></h3>
-<p><img decoding="async" loading="lazy" alt="Porównanie poprawnej pozycji siedzenia przed laptopem przy biurku. 1. Zła pozycja z laptopem stojącym na biurku, gdzie użytkownik mocno musi zginać kark, by widzieć ekran. 2. Poprawna postawa użytkownika, który korzysta z podstawki pod laptopem." src="https://techwriter.pl/assets/images/Pasted_image_20250121001131-2a0f7841fcb97f9984f957dcc5268f13.png" width="740" height="364" class="img_ev3q">
-<strong><a href="https://www.gvsu.edu/officeergonomics/computer-monitor-8.htm" target="_blank" rel="noopener noreferrer" class="">Źródło obrazka.</a></strong></p>
-<p>Ważne, żeby górne krawędzie monitorów były nieco poniżej linii wzroku.
-Nieprawidłowo dobrana wysokość skutkuje zmęczeniem karku i oczu. Jeśli
-korzystasz z monitora laptopa, postaraj się ustawić go na podobnej wysokości co
-reszta monitorów. Pomoże Ci w tym podstawka pod laptopa albo kilka encyklopedii
-🙂. W przypadku monitorów zewnętrznych można zakupić ramię dla lepszej regulacji
-wysokości.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="na-czym-siedzieć-i-jak-robić-to-zdrowo">Na czym siedzieć? I jak robić to zdrowo?<a href="https://techwriter.pl/ergonomia-biura#na-czym-siedzie%C4%87-i-jak-robi%C4%87-to-zdrowo" class="hash-link" aria-label="Bezpośredni link do Na czym siedzieć? I jak robić to zdrowo?" title="Bezpośredni link do Na czym siedzieć? I jak robić to zdrowo?" translate="no">​</a></h3>
-<p>Przed zakupem krzesła warto je wypróbować. Gdy je prawidłowo ustawisz, nogi będą
-pod kątem prostym. Kiedy pracujesz, ręce nie powinny spoczywać na
-podłokietnikach. Podłokietniki służą tylko do opierania rąk podczas odpoczynku i
-powinny być ustawione poniżej wysokości blatu.</p>
-<p>Podczas odchylania się, dobrze jak możesz oprzeć głowę o zagłówek. Im więcej
-elementów i opcji regulacji ma Twoje krzesło, tym wyższa jego cena. Zwróć też
-uwagę na dobre wsparcie dolnej partii pleców.</p>
-<p>Dobrym urozmaiceniem jest też usiąść na nadmuchanej poduszce, co pozwala plecom
-na większy zakres ruchu. Niektórzy na jakiś czas siadają na piłce fitness. Są
-też na rynku różne narzędzia tortur, takie jak klęczniki, które podobno nie są
-wcale takie zdrowe.</p>
-<p>Ciekawą propozycją jest produkt o nazwie Dragonfly, pozwalający na aktywne
-siedzenie i przyjmowanie różnych pozycji, dzięki czemu rozciągasz i wzmacniasz
-mięśnie.</p>
-<p><img decoding="async" loading="lazy" alt="Krzesło specjalistyczne Dragonfly. Rodzaj siedzenia bez oparcia dla pleców, które pozwala przybierać zdrowe pozycje ciała" src="https://techwriter.pl/assets/images/upload_0001-d5bc366866f539a84e0729ce3d7a1634.png" width="275" height="183" class="img_ev3q"></p>
-<p><strong><a href="https://www.dragonflychair.com/dragonflychair-classic-black" target="_blank" rel="noopener noreferrer" class="">Źródło zdjęcia</a>.</strong></p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="instrukcja-poprawnego-stania">Instrukcja poprawnego stania<a href="https://techwriter.pl/ergonomia-biura#instrukcja-poprawnego-stania" class="hash-link" aria-label="Bezpośredni link do Instrukcja poprawnego stania" title="Bezpośredni link do Instrukcja poprawnego stania" translate="no">​</a></h3>
-<p><img decoding="async" loading="lazy" alt="Kobieta stoi przy biurku elektrycznym.
-Podkreślony jest kąt patrzenia.
-Monitor powinien być ustawiony minimalnie poniżej linii wzroku." src="https://techwriter.pl/assets/images/upload_0002-68e2504974be7153fdce270fea095c55.png" width="544" height="588" class="img_ev3q"></p>
-<p><strong><a href="https://workriteergo.com/facts-about-standing-desks/" target="_blank" rel="noopener noreferrer" class="">Źródło obrazka.</a></strong></p>
-<p>Okazuje się, że większość ludzi nie potrafi stać prawidłowo przez dłuższy czas
-na dwóch nogach. Garbią się, stoją na jednej nodze, przekrzywiają się i
-wyciągają szyję do przodu, bo ustawili monitor za daleko od oczu i mają
-klawiaturę zbytnio wysuniętą w przód.</p>
-<ul>
-<li class="">Najlepiej wystawić jedną nogę w przód i delikatnie balansować przód-tył. Po
-jakimś czasie zamień nogi.</li>
-<li class="">Staraj się nie przeciążać jednej ze stron.</li>
-<li class="">Barki powinny być trzymane naturalnie, bez przesadnego wypinania klatki i
-nadmiernego ściągania łopatek.</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="mata-antyzmęczeniowa">Mata antyzmęczeniowa<a href="https://techwriter.pl/ergonomia-biura#mata-antyzm%C4%99czeniowa" class="hash-link" aria-label="Bezpośredni link do Mata antyzmęczeniowa" title="Bezpośredni link do Mata antyzmęczeniowa" translate="no">​</a></h3>
-<p>Do czego potrzebujesz maty antyzmęczeniowej? Każdy kto pracował cały dzień na
-stojąco za kontuarem wie jak po tym bolą stopy. Twarda podłoga wywiera swój
-wpływ na Twoje stopy. Miękka gumowa mata antyzmęczeniowa sprawia, że możesz
-dłużej i bardziej komfortowo pracować na stojąco. Niektóre modele wyposażone są
-w wypustki, które dodatkowo masują stopy.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="pozostałe-akcesoria">Pozostałe akcesoria<a href="https://techwriter.pl/ergonomia-biura#pozosta%C5%82e-akcesoria" class="hash-link" aria-label="Bezpośredni link do Pozostałe akcesoria" title="Bezpośredni link do Pozostałe akcesoria" translate="no">​</a></h2>
-<p>Na koniec o ostatnich sprzętach bez których nie ma pracy biurowej, choć czasem
-zwraca się na nie mało uwagi.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="klawiatura">Klawiatura<a href="https://techwriter.pl/ergonomia-biura#klawiatura" class="hash-link" aria-label="Bezpośredni link do Klawiatura" title="Bezpośredni link do Klawiatura" translate="no">​</a></h3>
-<p>Swego czasu uświadomiłem sobie, że nie byłem zadowolony z ówczesnej klawiatury.
-Zajmowała dużo miejsca, klawisze były płaskie i bolały mnie palce po całym dniu
-pisania. Poszukałem klawiatury bez sekcji klawiszy numerycznych, bo z nich nie
-korzystałem. Musiałem przewartościować moje życie i odpowiedzieć sobie na takie
-pytania:</p>
-<ul>
-<li class="">
-<p>Klawiatura ze wszystkimi klawiszami, 85%, 70% a może 65%?</p>
-</li>
-<li class="">
-<p>Klawiatura membranowa (cicha) czy mechaniczna (bardzo głośna)?</p>
-</li>
-<li class="">
-<p>Jak wysokie powinny być klawisze i jaki powinny mieć kształt?</p>
-</li>
-<li class="">
-<p>W przypadku klawiatur mechanicznych: jaki wybierasz typ przełącznika klawisza?</p>
-<ul>
-<li class="">
-<p><strong>Niebieski</strong> (najgłośniejszy z odczuwalnym kliknięciem)</p>
-</li>
-<li class="">
-<p><strong>Czerwony</strong> (najcichszy z najlżejszym kliknięciem)</p>
-</li>
-<li class="">
-<p><strong>Brązowy</strong> (opcja kompromisowa w porównaniu z dwiema poprzednimi)</p>
-</li>
-<li class="">
-<p>Więcej informacji o przełącznikach klawiszy (z angielska <em>switch</em>)
-znajdziesz
-<a href="https://www.pcmag.com/explainers/guide-to-mechanical-key-switches-which-kind-is-right-for-you" target="_blank" rel="noopener noreferrer" class="">tutaj</a>.</p>
-</li>
-</ul>
-</li>
-<li class="">
-<p>Czy potrzebujesz podświetlenia klawiszy, jeśli tak, to w ilu kolorach?</p>
-</li>
-</ul>
-<p><img decoding="async" loading="lazy" alt="Porównanie klawiatur w zależności od liczby klawiszy. 108 klawiszy to 100%, 87 klawiszy to 80%, 82 klawisze to 75%." src="https://techwriter.pl/assets/images/upload_0006-d29d9424e0f731eb184fc33778c58046.png" width="375" height="216" class="img_ev3q"></p>
-<p><strong><a href="https://goblintechkeys.com/blogs/news/type-of-keyboard-and-sizes" target="_blank" rel="noopener noreferrer" class="">Źródło obrazka.</a></strong></p>
-<p>Ostatecznie wybrałem mechaniczną klawiaturę z głośnym klikiem i podświetleniem
-jak choinka na święta. Oprócz świątecznego nastroju na co dzień, umożliwia to
-też pracę po ciemku, kiedy jestem w pomieszczeniu gdzie nie chcę zapalać świateł
-bo np.: śpi tam członek rodziny 🙂.</p>
-<p>Dźwięk kliknięcia i odczucie wciśnięcia klawisza informują Cię o tym, że
-poprawnie wcisnąłeś klawisz. Ma to znaczenie przy szybszym pisaniu, kiedy jest
-ryzyko, że omsknie Ci się palec.</p>
-<p>Teraz wygodniej robi mi się notatki i rysunki na biuwarze, bo klawiatura jest
-bardziej kompaktowa.</p>
-<p>Gdzie ustawić klawiaturę na blacie? Powinna być blisko krawędzi, litera V
-wycelowana w pępek.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="mysz">Mysz<a href="https://techwriter.pl/ergonomia-biura#mysz" class="hash-link" aria-label="Bezpośredni link do Mysz" title="Bezpośredni link do Mysz" translate="no">​</a></h3>
-<p>Miałem ten prozaiczny problem, że po dłuższym użytkowaniu przycisk przewijania
-stracił swoją dokładność. Gdy przewijałem strony internetowe i PDFy
-przeskakiwałem za daleko, albo mysz nie rejestrowała moich ruchów w ogóle.
-Wybrałem jakąś mysz gamingową, co poprawiło moje doświadczenia w tym zakresie.
-Kółko myszy znów zaczęło mnie słuchać i odzyskałem pełną kontrolę nad
-przewijaniem ekranu i moim życiem.</p>
-<p>Mysz jest też wyposażona w dwa dodatkowe przyciski, które skrzętnie ustawiłem,
-by uruchamiały aplikacje Obsidian i Snagit (komenda zaznaczania obszaru zrzutu
-ekranu) 🙂.</p>
-<p>Nie próbowałem jeszcze myszy pionowych, nie odczuwam zresztą problemów z
-nadgarstkami. Podstawową sprawą gdy korzystasz z myszy i klawiatury jest
-zapewnienie neutralnej pozycji nadgarstków.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="słuchawki-wygłuszające">Słuchawki wygłuszające<a href="https://techwriter.pl/ergonomia-biura#s%C5%82uchawki-wyg%C5%82uszaj%C4%85ce" class="hash-link" aria-label="Bezpośredni link do Słuchawki wygłuszające" title="Bezpośredni link do Słuchawki wygłuszające" translate="no">​</a></h3>
-<p>Korzystam ze słuchawek z opcją wygłuszania hałasu. Działają na zasadzie
-emitowania "antyszumu", który niweluje hałas. Efekt uboczny jest taki, że jak
-zdejmiesz słuchawki to zaczynasz słyszeć każde najmniejsze stuknięcie. Tak czy
-inaczej, słuchawki takie pomagają Ci przetrwać dzień, gdy za oknem ogrodnik kosi
-trawę albo słyszysz hałas pobliskiej budowy czy też sąsiad z kolegami testują
-nowe wiertła.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="zakończenie">Zakończenie<a href="https://techwriter.pl/ergonomia-biura#zako%C5%84czenie" class="hash-link" aria-label="Bezpośredni link do Zakończenie" title="Bezpośredni link do Zakończenie" translate="no">​</a></h2>
-<p>W tym miejscu stawiam kropkę. Życzę Ci wielu lat wygodnej i zdrowej pracy.
-Zapraszam do dalszego poznawania tajników ergonomii pracy. Jeśli czujesz
-niedosyt, zapoznaj się z poniższymi materiałami.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="polecane-materiały">Polecane materiały<a href="https://techwriter.pl/ergonomia-biura#polecane-materia%C5%82y" class="hash-link" aria-label="Bezpośredni link do Polecane materiały" title="Bezpośredni link do Polecane materiały" translate="no">​</a></h2>
-<p>Poniżej znajdziesz pogrupowane linki.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="do-obejrzenia">Do obejrzenia<a href="https://techwriter.pl/ergonomia-biura#do-obejrzenia" class="hash-link" aria-label="Bezpośredni link do Do obejrzenia" title="Bezpośredni link do Do obejrzenia" translate="no">​</a></h3>
-<ul>
-<li class="">
-<p>Wiedza w pigułce:
-<a href="https://www.youtube.com/watch?v=RkfwYQhsAeQ" target="_blank" rel="noopener noreferrer" class="">film edukacyjny "Ergonomia w biurze"</a>
-zwięźle przedstawia kluczowe zagadnienia. Może co do jednej rzeczy bym się
-przyczepił, jest to wciąż solidny materiał.</p>
-</li>
-<li class="">
-<p>Polecam film:
-<a href="https://www.youtube.com/watch?v=l1N3jlgqcQ4" target="_blank" rel="noopener noreferrer" class="">"Best Way to Setup My Dual Monitors?"</a>
-Davida Zhanga:
-<img decoding="async" loading="lazy" alt="Ilustracja z filmu na YouTube pokazująca różne układy aranżowania dwóch monitorów." src="https://techwriter.pl/assets/images/Pasted_image_20250121001319-7ca28006f4aac88c165948b9821debcd.png" width="740" height="416" class="img_ev3q"></p>
-</li>
-<li class="">
-<p>Polecam kanał YouTube
-<a href="https://www.youtube.com/@OlivierGirard" target="_blank" rel="noopener noreferrer" class="">Oliviera Girarda</a>, który jest
-fizjoterapeutą i dzieli się fachową wiedzą na każdy możliwy temat związany z
-pracą przy biurku. W wielu miejscach tego artykułu oparłem się o jego
-zalecenia.</p>
-</li>
-<li class="">
-<p><a href="https://www.youtube.com/watch?v=GywwAnQj-kA&amp;list=PLWT2ANgf6EmKgfeF2dvwPZxDxEjII2UuC&amp;pp=gAQB" target="_blank" rel="noopener noreferrer" class="">Playlista na YouTube</a>
-o ustawianiu kilku monitorów i ergonomii pracy przy biurku.</p>
-</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="do-przeczytania">Do przeczytania<a href="https://techwriter.pl/ergonomia-biura#do-przeczytania" class="hash-link" aria-label="Bezpośredni link do Do przeczytania" title="Bezpośredni link do Do przeczytania" translate="no">​</a></h3>
-<p>Lista w większości angielskich artykułów, które okazały się pomocne.</p>
-<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="genialny-przewodnik-o-ustawianiu-wielu-monitorów-obok-siebie">Genialny przewodnik o ustawianiu wielu monitorów obok siebie<a href="https://techwriter.pl/ergonomia-biura#genialny-przewodnik-o-ustawianiu-wielu-monitor%C3%B3w-obok-siebie" class="hash-link" aria-label="Bezpośredni link do Genialny przewodnik o ustawianiu wielu monitorów obok siebie" title="Bezpośredni link do Genialny przewodnik o ustawianiu wielu monitorów obok siebie" translate="no">​</a></h4>
-<p><a href="https://www.crypticbutter.com/arrange-dual-monitors-ergonomics" target="_blank" rel="noopener noreferrer" class="">https://www.crypticbutter.com/arrange-dual-monitors-ergonomics</a></p>
-<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="pozostałe-artykuły-o-ustawianiu-wielu-monitorów">Pozostałe artykuły o ustawianiu wielu monitorów<a href="https://techwriter.pl/ergonomia-biura#pozosta%C5%82e-artyku%C5%82y-o-ustawianiu-wielu-monitor%C3%B3w" class="hash-link" aria-label="Bezpośredni link do Pozostałe artykuły o ustawianiu wielu monitorów" title="Bezpośredni link do Pozostałe artykuły o ustawianiu wielu monitorów" translate="no">​</a></h4>
-<p><a href="https://www.autonomous.ai/ourblog/full-guide-for-a-triple-monitor-desk-setup" target="_blank" rel="noopener noreferrer" class="">https://www.autonomous.ai/ourblog/full-guide-for-a-triple-monitor-desk-setup</a></p>
-<p><a href="https://thenaturehero.com/triple-monitor-desk-setup/" target="_blank" rel="noopener noreferrer" class="">https://thenaturehero.com/triple-monitor-desk-setup/</a></p>
-<p><a href="https://homeofficeapproved.com/desk-size-for-two-or-three-monitors/" target="_blank" rel="noopener noreferrer" class="">https://homeofficeapproved.com/desk-size-for-two-or-three-monitors/</a></p>
-<p><a href="https://www.brateck.com/en/news&amp;blog-detail/2024-diy-workspace-upgrade-step-by-step-guide-to-achieving-the-optimal-monitor-positioning" target="_blank" rel="noopener noreferrer" class="">https://www.brateck.com/en/news&amp;blog-detail/2024-diy-workspace-upgrade-step-by-step-guide-to-achieving-the-optimal-monitor-positioning</a></p>
-<p><a href="https://conwork.pl/stanowisko-pracy-z-wieloma-monitorami/" target="_blank" rel="noopener noreferrer" class="">https://conwork.pl/stanowisko-pracy-z-wieloma-monitorami/</a></p>
-<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="ustawienie-biurka-względem-okna">Ustawienie biurka względem okna<a href="https://techwriter.pl/ergonomia-biura#ustawienie-biurka-wzgl%C4%99dem-okna" class="hash-link" aria-label="Bezpośredni link do Ustawienie biurka względem okna" title="Bezpośredni link do Ustawienie biurka względem okna" translate="no">​</a></h4>
-<p><a href="https://www.thesmarterhomeoffice.com/home-office-desk-facing-the-window-no/" target="_blank" rel="noopener noreferrer" class="">https://www.thesmarterhomeoffice.com/home-office-desk-facing-the-window-no/</a></p>
-<p><a href="https://thenaturehero.com/desk-facing-window/" target="_blank" rel="noopener noreferrer" class="">https://thenaturehero.com/desk-facing-window/</a></p>
-<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="postawa-przy-biurku">Postawa przy biurku<a href="https://techwriter.pl/ergonomia-biura#postawa-przy-biurku" class="hash-link" aria-label="Bezpośredni link do Postawa przy biurku" title="Bezpośredni link do Postawa przy biurku" translate="no">​</a></h4>
-<p><a href="https://www.gvsu.edu/officeergonomics/computer-monitor-8.htm" target="_blank" rel="noopener noreferrer" class="">https://www.gvsu.edu/officeergonomics/computer-monitor-8.htm</a></p>
-<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="fakty-o-staniu-przy-biurku-i-badania">Fakty o staniu przy biurku i badania<a href="https://techwriter.pl/ergonomia-biura#fakty-o-staniu-przy-biurku-i-badania" class="hash-link" aria-label="Bezpośredni link do Fakty o staniu przy biurku i badania" title="Bezpośredni link do Fakty o staniu przy biurku i badania" translate="no">​</a></h4>
-<p><a href="https://workriteergo.com/facts-about-standing-desks/" target="_blank" rel="noopener noreferrer" class="">https://workriteergo.com/facts-about-standing-desks/</a></p>
-<p><a href="https://workriteergo.com/sit-stand-study/" target="_blank" rel="noopener noreferrer" class="">https://workriteergo.com/sit-stand-study/</a></p>
-<p><a href="https://workriteergo.com/ergonomics-research/" target="_blank" rel="noopener noreferrer" class="">https://workriteergo.com/ergonomics-research/</a></p>
-<p><a href="https://workriteergo.com/good-posture-guide/" target="_blank" rel="noopener noreferrer" class="">https://workriteergo.com/good-posture-guide/</a></p>
-<p><a href="https://workriteergo.com/workrite-care/" target="_blank" rel="noopener noreferrer" class="">https://workriteergo.com/workrite-care/</a></p>
-<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="rodzaje-klawiatur">Rodzaje klawiatur<a href="https://techwriter.pl/ergonomia-biura#rodzaje-klawiatur" class="hash-link" aria-label="Bezpośredni link do Rodzaje klawiatur" title="Bezpośredni link do Rodzaje klawiatur" translate="no">​</a></h4>
-<p><a href="https://keyspace.store/blogs/blog/keyboard-size-guide" target="_blank" rel="noopener noreferrer" class="">https://keyspace.store/blogs/blog/keyboard-size-guide</a></p>
-<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="rodzaje-klawiszy-do-klawiatury">Rodzaje klawiszy do klawiatury<a href="https://techwriter.pl/ergonomia-biura#rodzaje-klawiszy-do-klawiatury" class="hash-link" aria-label="Bezpośredni link do Rodzaje klawiszy do klawiatury" title="Bezpośredni link do Rodzaje klawiszy do klawiatury" translate="no">​</a></h4>
-<p><a href="https://keebnews.com/keycap-profiles/" target="_blank" rel="noopener noreferrer" class="">https://keebnews.com/keycap-profiles/</a></p>
-<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="działanie-słuchawek-wygłuszających">Działanie słuchawek wygłuszających<a href="https://techwriter.pl/ergonomia-biura#dzia%C5%82anie-s%C5%82uchawek-wyg%C5%82uszaj%C4%85cych" class="hash-link" aria-label="Bezpośredni link do Działanie słuchawek wygłuszających" title="Bezpośredni link do Działanie słuchawek wygłuszających" translate="no">​</a></h4>
-<p><a href="https://produktowranking.pl/guide/sluchawki-wygluszajace/" target="_blank" rel="noopener noreferrer" class="">https://produktowranking.pl/guide/sluchawki-wygluszajace/</a></p>]]></content:encoded>
-            <category>organizacja-pracy</category>
-            <category>ergonomia</category>
-            <category>praca-zdalna</category>
         </item>
     </channel>
 </rss>
