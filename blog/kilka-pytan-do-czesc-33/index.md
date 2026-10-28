@@ -158,7 +158,6 @@ It just happened to be the way to pay my bills. At least in the beginning. Now
 it’s a passion.
 
 ### What conferences do you attend? Do you participate as an attendee or as a speaker?
-
 Any kind (technical, documentation, localization), you name it. I often speak at
 conferences.
 
