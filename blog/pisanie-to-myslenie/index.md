@@ -79,7 +79,7 @@ napisać te docsy w dicie, markdownie, czy Microsoft Wordzie?
 Sprawa jest dużo bardziej wielowymiarowa niż w przykładzie z lodami, ale
 odkryłem, że muszę dostosować scenariusze do tego co jest realne w danym
 wypadku. Na przykład napisałem o procedurze nadawania uprawnień użytkownikom,
-która przydaje się za każdym razem kiedy tworzymy nowy projekt i założyłem, że
+która przydaje się za każdym razem, kiedy tworzymy nowy projekt, i założyłem, że
 są różne typy projektów. To nie jest uniwersalne stwierdzenie typu “dobrze jest
 reusować docsy”, bo to stwierdzenie nie jest jednoznacznie prawdziwe w
 absolutnej próżni. Pytanie o reuse powinno się rozpatrywać na konkretnych
