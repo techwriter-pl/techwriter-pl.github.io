@@ -22,7 +22,7 @@ questions.
 
 <!--truncate-->
 
-### Hello Thomas.
+### Hello Thomas!
 
 ### How did you discover technical communication?
 
