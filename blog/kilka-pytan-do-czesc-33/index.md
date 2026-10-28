@@ -22,7 +22,7 @@ questions.
 
 <!--truncate-->
 
-### Hello Thomas!
+### Hello Thomas! Thank you, for agreeing to this interview.
 
 ### How did you discover technical communication?
 
