@@ -198,14 +198,17 @@ essential, regardless of how the technology evolves.
 
 I’ve had the opportunity to explore some fascinating worlds, from project
 management and process improvement on exciting projects I can’t talk about, to
-the luxury yacht industry, which was great fun. Working with metering RTUs in
-the oil and gas industry also taught me a great deal about electronics.
+the luxury yacht industry, which was great fun. Working with metering Remote
+Terminal Units (RTUs) in the oil and gas industry also taught me a great deal
+about electronics.
 
 ### What conferences do you attend? Do you participate as an attendee or as a speaker?
 
 I’ve attended Technical Communication UK ([TCUK](https://istc.org.uk/tcuk/))
-since 2012, as well as [MadWorld](https://www.madcapsoftware.com/madworld-conferences/) in Prague and Dublin, TC Europe and [Cake Conf](https://cakeconf.contentbytes.pl/).
-I’ve also presented at TCUK on the use of SVG in technical documentation.
+since 2012, as well as
+[MadWorld](https://www.madcapsoftware.com/madworld-conferences/) in Prague and
+Dublin, TC Europe and [Cake Conf](https://cakeconf.contentbytes.pl/). I’ve also
+presented at TCUK on the use of SVG in technical documentation.
 
 ### What is the one thing you would change in your company, if it were possible?
 
