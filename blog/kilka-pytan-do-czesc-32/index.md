@@ -11,8 +11,8 @@ tags:
 coverImage: 'tony.png'
 ---
 
-Our guest today is Anthony, who is at the forefront of the title image (with
-red heart annotation), surrounded by Piotr Sroka, me, and Tim Temme.
+Our guest today is Anthony, who is at the forefront of the title image (with red
+heart annotation), surrounded by Piotr Sroka, me, and Tim Temme.
 
 Anthony made extensive contributions as technical writer. He possesses expert
 knowledge of documentation tools and knows how to automate processes. I met him
@@ -22,7 +22,8 @@ In this interview, we explore his career and ask for his perspective on the
 world of technology.
 
 <!--truncate-->
-### Hello Anthony! 
+
+### Hello Anthony!
 
 ### Thank you for taking part in this interview
 
@@ -202,9 +203,9 @@ the oil and gas industry also taught me a great deal about electronics.
 
 ### What conferences do you attend? Do you participate as an attendee or as a speaker?
 
-I’ve attended TCUK since 2012, as well as MadWorld in Prague and Dublin, TC
-Europe and Cake Conf. I’ve also presented at TCUK on the use of SVG in technical
-documentation.
+I’ve attended Technical Communication UK ([TCUK](https://istc.org.uk/tcuk/))
+since 2012, as well as [MadWorld](https://www.madcapsoftware.com/madworld-conferences/) in Prague and Dublin, TC Europe and [Cake Conf](https://cakeconf.contentbytes.pl/).
+I’ve also presented at TCUK on the use of SVG in technical documentation.
 
 ### What is the one thing you would change in your company, if it were possible?
 
