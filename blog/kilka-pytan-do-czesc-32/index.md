@@ -137,13 +137,6 @@ Look for an organisation that invests in continuous professional development and
 has a strong development process that treats technical documentation as an
 integral part of product development, rather than an afterthought.
 
-### What are your interests outside of work? How do you like to spend your free time?
-
-I enjoy hands-on creative pursuits such as bookbinding and woodworking, as well
-as travelling to places rich in natural beauty or history. Family is important
-to me, and I also enjoy making time for leisure and cultural experiences,
-particularly live music and theatre.
-
 ### Did you work in an international team, and what advantages or challenges does that bring?
 
 I worked as part of an international team spanning India, Manila and the US,
@@ -219,6 +212,13 @@ designed specifically for creating, managing and publishing technical content.
 
 I use MadCap Flare and would like to see it made available for the Mac. Almost
 all Markdown platforms are already available for the Mac.
+
+### What are your interests outside of work? How do you like to spend your free time?
+
+I enjoy hands-on creative pursuits such as bookbinding and woodworking, as well
+as travelling to places rich in natural beauty or history. Family is important
+to me, and I also enjoy making time for leisure and cultural experiences,
+particularly live music and theatre.
 
 ### Thank you, Anthony, for your time and the thoughts you shared with us.
 
