@@ -70,32 +70,24 @@ I’ve helped, could be on their own – without my help – then it was a succe
 Tough one. Maybe people who like to turn something totally gibberish into
 something meaningful. Whatever it may be.
 
-### At what point did you realize that documentation and team management could be a meaningful part of your life?
-
-Four years ago. After 35 years of independent consultancy.
-
 ### What areas does your role consist of? To what extent do you manage the documentation team, and to what extent are you responsible for documentation created across the entire department?
 
 I have always regarded my main role as a catalyst. I may have a vast knowledge,
 ideas and the ability to see into the future. But without a team that will never
 work. The team have to be self governing.
 
-### What advice would you give to people considering managing a team and documentation at scale?
+### At what point did you realize that documentation and team management could be a meaningful part of your life?
 
-Do not use 35 years as I did (even though a lot of it was great and funny), but
-in order to be a proper manager in such a team, your knowledge of documentation
-(in all details), translation, and the industry as it is, is – to me – crucially
-important. Being a “just” a manager is not enough. We must accept that technical
-documentation globally is regarded as the odd one out in many companies. For
-that reason, it becomes even more important that the manager is a champion for
-this. When trying to persuade and convince management of literally anything. It
-is not enough to state: “I need more resources”, without knowing exactly what,
-and being able to explain.
+Four years ago. After 35 years of independent consultancy.
 
-### What areas are you currently exploring, and in what direction do you plan to develop?
+### Do you have an international team, and what advantages or challenges does that bring?
 
-Presently I have migrated out of the management part and heading up a new
-exciting hush-hush project.
+I have a large team in India. Just the team size itself is a major factor in the
+success it has brought to [GN Hearing](https://www.gnhearing.com/en/about-us).
+But, truth being told, they are really, really good. Hard working, on their
+toes, eager to learn and use this to perform. The major challenge is the
+distance and the Teams’ meetings. Meeting people face to face is – to me – far
+more efficient.
 
 ### How can senior management support documentation teams?
 
@@ -109,6 +101,30 @@ numbers of technical documentation solutions down in either MS Word or Adobe
 InDesign. The first is on any computer (so anyone can …), and the latter is
 being used by Marketing (i.e. therefore it must be good).
 
+### What is the one thing you would change in your company, if it were possible?
+
+Have the documentation roles as a separate department. We contact almost any
+other department, and having it reside, e.g. in marketing, limits what you can
+accomplish.
+
+### What advice would you give to people considering managing a team and documentation at scale?
+
+Do not use 35 years as I did (even though a lot of it was great and funny), but
+in order to be a proper manager in such a team, your knowledge of documentation
+(in all details), translation, and the industry as it is, is – to me – crucially
+important. Being a “just” a manager is not enough. We must accept that technical
+documentation globally is regarded as the odd one out in many companies. For
+that reason, it becomes even more important that the manager is a champion for
+this. When trying to persuade and convince management of literally anything. It
+is not enough to state: “I need more resources”, without knowing exactly what,
+and being able to explain.
+
+
+### What areas are you currently exploring, and in what direction do you plan to develop?
+
+Presently I have migrated out of the management part and heading up a new
+exciting hush-hush project.
+
 ### How do you currently perceive the job market and trends affecting the role of a technical writer?
 
 It seems to me that it is the same crowd of people which circulates in between
@@ -117,32 +133,6 @@ the number of companies using it), there is no increase in the need for more
 tech writers. The real successful areas is where there’s also a bachelor or
 master degree in the region. THE trend is AI. It will hugely affect our area. It
 already does.
-
-### What advice would you give to candidates who want to join documentation teams?
-
-Go! You can always regret.
-
-### What are your interests outside of work? How do you like to spend your free time?
-
-Travels (used to be a lot of other things), but we only have one planet, so …
-
-### Do you have an international team, and what advantages or challenges does that bring?
-
-I have a large team in India. Just the team size itself is a major factor in the
-success it has brought to [GN Hearing](https://www.gnhearing.com/en/about-us).
-But, truth being told, they are really, really good. Hard working, on their
-toes, eager to learn and use this to perform. The major challenge is the
-distance and the Teams’ meetings. Meeting people face to face is – to me – far
-more efficient.
-
-### Do you use AI? What is your company’s approach towards it?
-
-Every day. GN has an entire AI department. That itself tells a story. On
-technical documentation there are some obvious advantages. We can now, quicker
-and easier than in the past, get any kind of help we want. It saves so much
-time. The downsides – so far – is that AI still cannot outperform a human being.
-It’s close, but being in a medical device world, we need meticulous detailed
-correct content. On all levels. AI is simply not here yet.
 
 ### Is documentation work a long-term career, or rather a stepping stone to other IT roles? Which ones?
 
@@ -157,14 +147,25 @@ documentation changed or influenced your life in any way? I do not believe so.
 It just happened to be the way to pay my bills. At least in the beginning. Now
 it’s a passion.
 
+### What advice would you give to candidates who want to join documentation teams?
+
+Go! You can always regret.
+
+### Do you use AI? What is your company’s approach to it?
+
+Every day. GN has an entire AI department. That itself tells a story. On
+technical documentation there are some obvious advantages. We can now, quicker
+and easier than in the past, get any kind of help we want. It saves so much
+time. The downsides – so far – is that AI still cannot outperform a human being.
+It’s close, but being in a medical device world, we need meticulous detailed
+correct content. On all levels. AI is simply not here yet.
+
 ### What conferences do you attend? Do you participate as an attendee or as a speaker?
 Any kind (technical, documentation, localization), you name it. I often speak at
 conferences.
 
-### What is the one thing you would change in your company, if it were possible?
+### What are your interests outside of work? How do you like to spend your free time?
 
-Have the documentation roles as a separate department. We contact almost any
-other department, and having it reside, e.g. in marketing, limits what you can
-accomplish.
+Travels (used to be a lot of other things), but we only have one planet, so …
 
 ### Thank you, Thomas, for sharing your thoughts with us.
