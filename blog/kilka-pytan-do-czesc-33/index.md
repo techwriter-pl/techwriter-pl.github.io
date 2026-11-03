@@ -1,7 +1,7 @@
 ---
 title: 'Interview with documentation manager Thomas Bro-Rasmussen'
 authors: niewiarowski
-date: '2026-10-20'
+date: '2026-11-03'
 tags:
   - 'warsztat'
   - 'wywiady'
