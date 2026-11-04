@@ -1,5 +1,5 @@
 ---
-title: 'Interview with Anthony Dzumaga, a Madcap expert with Polish roots'
+title: 'Interview with Antoni Dzumaga, a Madcap expert with Polish roots'
 authors: niewiarowski
 date: '2026-11-03'
 tags:
@@ -11,10 +11,10 @@ tags:
 coverImage: 'tony.png'
 ---
 
-Our guest today is Anthony, who is at the forefront of the title image (with red
+Our guest today is Antoni, who is at the forefront of the title image (with red
 heart annotation), surrounded by Piotr Sroka, me, and Tim Temme.
 
-Anthony made extensive contributions as technical writer. He possesses expert
+Antoni made extensive contributions as technical writer. He possesses expert
 knowledge of documentation tools and knows how to automate processes. I met him
 at Cake Conf 2026, and enjoyed many conversations with him.
 
@@ -23,7 +23,7 @@ world of technology.
 
 <!--truncate-->
 
-### Hello Anthony!
+### Hello Antoni!
 
 ### Thank you for taking part in this interview
 
@@ -72,7 +72,7 @@ Certificate in Training Practice.
 
 My subsequent roles took me into a variety of industries, including a luxury
 yacht company, where I wrote user manuals; the oil and gas industry, documenting
-Supervisory control and data acquisition
+supervisory control and data acquisition
 ([SCADA](https://en.wikipedia.org/wiki/SCADA)) software; and digital marketing,
 where I developed online help for marketing software.
 
@@ -191,8 +191,8 @@ essential, regardless of how the technology evolves.
 
 I’ve had the opportunity to explore some fascinating worlds, from project
 management and process improvement on exciting projects I can’t talk about, to
-the luxury yacht industry, which was great fun. Working with metering Remote
-Terminal Units (RTUs) in the oil and gas industry also taught me a great deal
+the luxury yacht industry, which was great fun. Working with metering remote
+terminal units (RTUs) in the oil and gas industry also taught me a great deal
 about electronics.
 
 ### What conferences do you attend? Do you participate as an attendee or as a speaker?
@@ -220,8 +220,8 @@ as travelling to places rich in natural beauty or history. Family is important
 to me, and I also enjoy making time for leisure and cultural experiences,
 particularly live music and theatre.
 
-### Thank you, Anthony, for your time and the thoughts you shared with us.
+### Thank you, Antoni, for your time and the thoughts you shared with us.
 
-### Anthony is currently looking for new job opportunities as a technical writer. If you look for a technical writer or know about open positions, we highly recommend that you contact Anthony via [LinkedIn](https://www.linkedin.com/in/antonidzumaga/).
+### Antoni is currently looking for new job opportunities as a technical writer. If you look for a technical writer or know about open positions, we highly recommend that you contact Antoni via [LinkedIn](https://www.linkedin.com/in/antonidzumaga/).
 
-### We thank Piotr Sroka for suggesting some of the questions in this interview.
+### We thank [Piotr Sroka](https://www.linkedin.com/in/piotrsrokatechwriter/) for suggesting some of the questions in this interview.
