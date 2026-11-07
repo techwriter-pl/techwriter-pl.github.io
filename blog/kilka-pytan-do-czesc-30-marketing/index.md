@@ -19,6 +19,8 @@ innych specjalizacji, takich jak content writing i marketing.
 
 <!--truncate-->
 
+<div className="interview">
+
 Kto wie, może ktoś z czytelników zainspiruje się, by postawić podobne kroki?
 Nawet jeśli planujesz długoterminowy rejs po morzach technical writingu to i tak
 zapewniam Cię, że znajdziesz tu wiele przydatnych i trafnych obserwacji o pracy
@@ -27,7 +29,7 @@ tam wartościowe wpisy na temat product marketingu, storytellingu i kreatywnośc
 
 ## About Oksana
 
-### 1. Hi Oksana, I'm glad you accepted my invitation. Please tell us a bit about yourself. Let us know your current interests, projects, hobbies, and whatever's on your mind right now.
+## 1. Hi Oksana, I'm glad you accepted my invitation. Please tell us a bit about yourself. Let us know your current interests, projects, hobbies, and whatever's on your mind right now.
 
 Thank you for getting in touch, Andrzej! I'm truly honored to have the
 opportunity to share my insights and expertise with your readers.
@@ -45,7 +47,7 @@ to play the piano.
 
 ## Technical Writing
 
-### 2. What's your educational background?
+## 2. What's your educational background?
 
 I hold a Master's degree in Translation Studies and Contrastive Linguistics,
 with a focus on English as my major and German as my secondary language. My
@@ -53,7 +55,7 @@ lifelong passion for the English language led me down a career path I hadn't
 even realized was possible. I entered the field of IT while still a student,
 and, truth be told, it was a mere coincidence.
 
-### 3. How did you get into technical writing?
+## 3. How did you get into technical writing?
 
 Initially, I began my career as a Copywriter in the marketing department, but I
 soon found that I struggled to cope with the demands of the IT field due to my
@@ -61,7 +63,7 @@ lack of prior experience. As a result, I began to explore new opportunities
 within the company. Fortunately, I came across an internship opening within the
 Technical Communication Office department, which I eagerly accepted.
 
-### 4. What kinds of documentation you produced, and what did you specialize in?
+## 4. What kinds of documentation you produced, and what did you specialize in?
 
 I 've had the pleasure of being involved in a diverse range of content assets
 creation, spanning from highly technical tasks such as: crafting API guides,
@@ -78,7 +80,7 @@ dimension to the kind of requests we began to receive. As you can see, the realm
 of technical writing encompasses a broad spectrum of content outputs, and it
 also leaves some room for creativity.
 
-### 5. What were the your common tools?
+## 5. What were the your common tools?
 
 The standard toolset I had the opportunity to work with included: Adobe
 Technical Communication Suite, MadCap Flare, Microsoft tools, Snagit, Adobe
@@ -86,7 +88,7 @@ Captivate, Adobe Illustrator, and others.
 
 ## The Transition
 
-### 6. When did you realize that content writing and product marketing management might be right up your alley?
+## 6. When did you realize that content writing and product marketing management might be right up your alley?
 
 After 5 years of successfully climbing the career ladder and establishing myself
 as an expert in the technical writing domain, I began to experience a sense of
@@ -102,7 +104,7 @@ expressed. I was eager to explore new opportunities for personal and
 professional growth in different domains, and I considered marketing to be a
 perfect fit.
 
-### 7. What was your plan for the transition?
+## 7. What was your plan for the transition?
 
 My colleagues in the Technical Communication Office were truly exceptional, and
 I not only acquired a wealth of knowledge but also formed lasting friendships.
@@ -115,7 +117,7 @@ I also really loved this amazing corporate culture. This led me to the decision
 to remain within the company and return to the marketing department as a Service
 Marketing Lead.
 
-### 8. What skills were applicable to the new domain and what new skills you had to acquire?
+## 8. What skills were applicable to the new domain and what new skills you had to acquire?
 
 I want to emphasize that the technical writing skills I acquired through my time
 in the Technical Communication Office at SoftServe are of exceptionally high
@@ -156,7 +158,7 @@ page, allowing ample room for creative expression.
 
 ## Basic concepts of Content Writing and Product Marketing Management
 
-### 9. To those not familiar with the marketing component, can you outline the aims and activities of a product marketing manager?
+## 9. To those not familiar with the marketing component, can you outline the aims and activities of a product marketing manager?
 
 I can't think of a better definition than the one provided by Yasmeen Turayhi, a
 Product Marketing Executive, Award-Winning Film Writer, and author of
@@ -175,7 +177,7 @@ Both definitions share the common goal of delivering value. However, the core
 objectives of a product marketing manager encompass market validation,
 positioning, packaging, go-to-market strategies, and overall marketing strategy.
 
-### 10. Do you need degrees or study to become a product marketer?
+## 10. Do you need degrees or study to become a product marketer?
 
 I vividly recall a conversation I had with one of the CMOs when I re-entered the
 world of marketing. We discussed how to become a professional marketer, and I
@@ -191,7 +193,7 @@ He responded:
 
 This is how I perceive it.
 
-### 11. How do you call a member of your profession?
+## 11. How do you call a member of your profession?
 
 I want to emphasize the crucial role of a product marketing manager as a key
 liaison connecting various teams within an organization. They act as a bridge
@@ -204,7 +206,7 @@ From my personal experience, I initially held the role of a Service Marketing
 Lead, where I focused on promoting the company's services. Later, I transitioned
 to the role of Content Marketing Manager, responsible for content creation.
 
-### 12. What kind of mindset do you need to succeed in this field?
+## 12. What kind of mindset do you need to succeed in this field?
 
 I believe the key is to maintain a flexible and novice's mindset. Embracing
 flexibility fosters creative ideas and "thinking outside the box." It's
@@ -215,7 +217,7 @@ Consistently adopting a novice's mindset provides a fresh, unattached
 perspective. It allows you to ask simple questions others might miss and
 generate innovative ideas.
 
-### 13. How does content writing differ from technical writing?
+## 13. How does content writing differ from technical writing?
 
 The first thing that immediately caught my attention was the distinction between
 content writing, which emphasizes creativity and storytelling, and technical
@@ -241,7 +243,7 @@ and marketing writing worlds**.
 
 ## Work of a marketing content writer
 
-### 14. What is the toolset of a product marketer?
+## 14. What is the toolset of a product marketer?
 
 Compared to the extensive toolkit of a technical writer, product marketers
 typically use common tools like Microsoft Office Suite or Google Docs (depending
@@ -254,7 +256,7 @@ cases, a simple pen and notepad would be enough, too.
 The key is to capture ideas and maintain a continuous flow of content creation
 and marketing strategy development.
 
-### 15. How is your work organized?
+## 15. How is your work organized?
 
 As we explore the intriguing parallels between the technical writing and content
 writing domains, I was delighted to discover that the marketing department I had
@@ -270,14 +272,14 @@ conducting peer reviews, and participating in internal brainstorming sessions,
 all while working as a team committed to delivering high-quality marketing
 assets.
 
-### 16. Do you work alone, or do you feel a part of the team?
+## 16. Do you work alone, or do you feel a part of the team?
 
 Just as in technical writing, cross-collaboration is paramount. I have
 experience collaborating with technical stakeholders, various marketing
 departments, sales teams, and essentially every department within a company
 whenever additional support and cooperation were needed for specific projects.
 
-### 17. Personally, what do you find most rewarding about this domain?
+## 17. Personally, what do you find most rewarding about this domain?
 
 My most favorite aspect is the boundless room for creativity, where we can
 breathe life into fresh ideas, experiment fearlessly, embrace mistakes as
@@ -290,7 +292,7 @@ What makes it even more fascinating is the chance to inspire and captivate
 audiences with the power of words, making a lasting impact through our
 narratives and bringing value in understanding how a service or a product works.
 
-### 18. Who should step into this field?
+## 18. Who should step into this field?
 
 When your creative ideas flow, your passion for writing becomes unmistakable.
 It's a feeling you can't miss — the joy of turning thoughts into words on a
@@ -304,7 +306,7 @@ about. This is the magic of creativity, where your imagination comes to life.
 I strongly believe that this might be a great hint for you to consider becoming
 a content writer or a product marketer.
 
-### 19. How's your profession affected by artificial intelligence based tools?
+## 19. How's your profession affected by artificial intelligence based tools?
 
 It's unavoidable; AI is already here, and we might not fully comprehend its
 reach. I strongly believe AI holds great potential, but we must exercise wisdom
@@ -315,7 +317,7 @@ entirely, such as content creation, is a misstep. Relying solely on AI risks
 diluting your brand, erasing your distinctiveness, and making you
 indistinguishable from the rest.
 
-### 20. What are the possible further career options?
+## 20. What are the possible further career options?
 
 I believe that if you have a true passion for something, you're likely to stay
 in the same field. You might progress to higher positions, or you might find it
@@ -327,7 +329,7 @@ as we all naturally evolve. Change is a constant in life.
 
 ## Wellbeing
 
-### 21. How do maintain a healthy work-life balance?
+## 21. How do maintain a healthy work-life balance?
 
 From my own work experience, I've encountered numerous stressful situations that
 eventually took a toll on my health.
@@ -351,7 +353,7 @@ life.
 
 ## Predictions
 
-### 22. What do you think, how your specialization going to evolve?
+## 22. What do you think, how your specialization going to evolve?
 
 I strongly believe that the convergence of these two worlds, technical writing
 and marketing writing, represents the future of the industry, in my humble
@@ -374,7 +376,7 @@ refer to it as the convergence of worlds.
 
 ## The burning question
 
-### 23. If you were to choose a prehistoric creature as an avatar for your professional persona, what would it be?
+## 23. If you were to choose a prehistoric creature as an avatar for your professional persona, what would it be?
 
 Certainly! A well-known prehistoric creature that could symbolize a creative and
 storytelling professional that comes to my mind would be... the Tyrannosaurus!
@@ -385,3 +387,5 @@ creative content can have a strong impact.
 
 If any of our readers feels inspired to share their story and experiences,
 please contact us: [kontakt@techwriter.pl](mailto:kontakt@techwriter.pl).
+
+</div>

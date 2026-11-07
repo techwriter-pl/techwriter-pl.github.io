@@ -27,7 +27,7 @@ started with technical communication, and also for anyone else interested in it.
 
 ## Introduction
 
-### Hi, thank you for agreeing to this interview. To start, could you tell us something about yourself?
+## Hi, thank you for agreeing to this interview. To start, could you tell us something about yourself?
 
 My name is Mateusz Barszcz, and I work at Hitachi Energy, where I create
 technical documentation. I have been a member of the Technical Writers team
@@ -45,7 +45,7 @@ include installation guides, functional descriptions, and release notes. I also
 support the creation of engineering documentation that lives alongside the code,
 such as administration guides or readme files.
 
-### How would you summarize the essence of the role of a technical writer or technical communication specialist?
+## How would you summarize the essence of the role of a technical writer or technical communication specialist?
 
 For me, it is mainly the role of a technical translator. It is a person who
 gathers information from an engineer or engineers. The engineer’s statements can
@@ -57,7 +57,7 @@ logically arranging the content.
 
 ## Career before Hitachi Energy
 
-### How long have you worked in a technical writer role?
+## How long have you worked in a technical writer role?
 
 Recently, while browsing LinkedIn, I was reminded that I started my technical
 career 15 years ago, during which I took on various roles. My tasks have always
@@ -66,7 +66,7 @@ involved in technical writing since 2010. I have created e-learning materials
 for over three years. As a contractor at Google, for six years I had the
 opportunity to work in a role that combined both these areas.
 
-### How did you become a technical writer?
+## How did you become a technical writer?
 
 It’s an interesting story because, after graduation, I had part-time jobs and
 was wondering what to do next. In 2010, I found a contractor job posting for a
@@ -80,7 +80,7 @@ skills, so these two aspects helped me fit into the role. I applied to Motorola
 Solutions, completed the recruitment process, and got the role. That was my
 beginning.
 
-### So, by reading this offer, you were building awareness of who a technical writer is.
+## So, by reading this offer, you were building awareness of who a technical writer is.
 
 I was building that awareness. I was one of those people who had instructions in
 their hands many times but never thought about who wrote them and who was
@@ -90,7 +90,7 @@ teams responsible for this documentation. I also did not know at all that
 documentation was a large area requiring dedicated roles and expertise. In the
 end, it drew me in.
 
-### What projects have you been involved in, and what experiences have you gained?
+## What projects have you been involved in, and what experiences have you gained?
 
 What I like about my career is that it has been dynamic from the very beginning.
 My responsibilities frequently expanded or evolved, so I couldn’t complain about
@@ -122,7 +122,7 @@ something new.
 
 ## Career at Hitachi Energy
 
-### Let’s return to your current role at Hitachi Energy. How is your work organized?
+## Let’s return to your current role at Hitachi Energy. How is your work organized?
 
 Teams work based on the
 [Scrum](<https://en.wikipedia.org/wiki/Scrum_(software_development)>)
@@ -136,7 +136,7 @@ Although my tasks are loosely related to sprints, I’m bound by deadlines for
 delivering the product with documentation. I attend project meetings to achieve
 that, so I frequently contact the team.
 
-### What type of documents do you create?
+## What type of documents do you create?
 
 I create highly technical installation guides and functional descriptions. These
 documents often include instructions for the end user who wants to know how to
@@ -146,7 +146,7 @@ phase shifts of voltages, and deviations in readings. These topics are so
 complex that I feel like I’m writing a doctoral thesis. I also create smaller
 documents, such as release notes.
 
-### What tools do you use, and what do you think about them?
+## What tools do you use, and what do you think about them?
 
 I work with various tools depending on the needs. Initially, I used Word –
 mainly because it allowed collaboration on the document with the engineers.
@@ -166,7 +166,7 @@ Flare. I have developed an import process that I’m satisfied with due to its
 flexibility. Markdown’s advantages are its simplicity and the content being
 created in an environment familiar to developers.
 
-### How do you gather the information needed to create documentation?
+## How do you gather the information needed to create documentation?
 
 I ask people and remind them that I need information for the documents.
 Engineers are willing to contribute to the documentation. They are often
@@ -181,12 +181,12 @@ into sentences and achieve the appropriate order of information to get the
 message across. Sometimes, I find content in repositories that I later include
 in my documentation. Such discoveries give me great satisfaction.
 
-### What is your superpower as a technical writer?
+## What is your superpower as a technical writer?
 
 I write witty e-mails that are acceptable in a corporate environment. This skill
 comes in handy both in technical writing and daily communication.
 
-### What are the biggest challenges you face in your work?
+## What are the biggest challenges you face in your work?
 
 Sometimes, you must convince someone that the path you propose is correct and
 make it clear to someone that they might not be right themselves. It is not
@@ -195,7 +195,7 @@ to maintain, and it is necessary. Occasionally, you also have to remind
 engineers about delivering input. Everyone is busy, and in such cases,
 one-on-one meetings work well.
 
-### What do you like most about your job?
+## What do you like most about your job?
 
 I like our Technical Writing team. In the beginning, there were only a few of
 us, and now the team is growing rapidly and is very diverse. I will compliment
@@ -206,18 +206,18 @@ solutions that can be built on Markdown.
 
 ## Interests
 
-### What are your interests outside of documentation and technology?
+## What are your interests outside of documentation and technology?
 
 My passions are traveling, reading (sci-fi especially), automotive, and cooking.
 Recipes also relate to instructions.
 
-### Speaking of cooking, when you buy new household appliances, such as a food processor, do you go with the flow and spontaneously start using it, or do you read the entire manual from cover to cover?
+## Speaking of cooking, when you buy new household appliances, such as a food processor, do you go with the flow and spontaneously start using it, or do you read the entire manual from cover to cover?
 
 I go with the flow because I prefer to try something out. My memory retention is
 better if I use something practically or possibly break it 😉. When needed, I
 reach for the manual, and then I read it from cover to cover.
 
-### What are your interests related to technology and science?
+## What are your interests related to technology and science?
 
 I have always been fascinated by science, astronomy, and engineering topics,
 such as how something is constructed, types of car engines, and the like. I like
@@ -227,7 +227,7 @@ curious about the world.
 
 ## Well-being
 
-### How do you maintain peace of mind and a broad smile as a technical writer? How do you achieve zen?
+## How do you maintain peace of mind and a broad smile as a technical writer? How do you achieve zen?
 
 Sometimes, switching to another task helps me. If I feel stuck, I try to focus
 on another part of the task that gives me pleasure or allows for quick success.
@@ -235,7 +235,7 @@ It is also important not to try to do 100 percent of everything that can be
 done. After releasing the material, there may be something to improve. It is
 better to release something 80-90 percent ready and make corrections later.
 
-### Everyone has better and worse days; do you have any insights on what can be done to feel better at work? Or are there things to avoid?
+## Everyone has better and worse days; do you have any insights on what can be done to feel better at work? Or are there things to avoid?
 
 When I face a task that overwhelms me, sometimes the fact that there are tasks
 to choose from helps me. Writer’s block is a real thing. Sometimes, I like to
@@ -245,7 +245,7 @@ things that are not my primary task relieves the mind. For a while, I do not
 feel the pressure of time, which calms me down, and after a moment I continue
 with the previously started thread.
 
-### One realizes that documentation is iterative.
+## One realizes that documentation is iterative.
 
 A principle says the last 10 percent of perfecting the material can take 90
 percent of the time. It is about refining details. Where 10-20 percent of your
@@ -257,7 +257,7 @@ technical writing can be observed even in sports. The best athletes fight for
 tenths and hundredths of a second, and the effort they have to make to achieve
 them takes years of hard work.
 
-### Yes, it is years of hard work, but every athlete does not exert maximum effort daily. They spread it out so that they also train at moderate intensity and rest to do something big at the very end. Sometimes, we only think about moments of maximum effort, but to get there, they also had to train at low intensity and rest.
+## Yes, it is years of hard work, but every athlete does not exert maximum effort daily. They spread it out so that they also train at moderate intensity and rest to do something big at the very end. Sometimes, we only think about moments of maximum effort, but to get there, they also had to train at low intensity and rest.
 
 It is worth thinking long-term. It is not easy, and it may be against our nature
 because we focus on what is happening now, but seeing the longer perspective can
@@ -265,7 +265,7 @@ help.
 
 ## Advice for beginners
 
-### What advice can you give people who want to start their adventure with writing documentation?
+## What advice can you give people who want to start their adventure with writing documentation?
 
 I recommend familiarizing yourself with some standards and style guides, working
 on templates, tackling the description of a technical topic, and sharing this
@@ -288,7 +288,7 @@ and get familiar with technical language.
 
 ## The last question
 
-### Do you have room for professional development at Hitachi Energy?
+## Do you have room for professional development at Hitachi Energy?
 
 Definitely yes! This company motivates employees to develop and take on new
 challenges. I take part in many training sessions, including technical and soft

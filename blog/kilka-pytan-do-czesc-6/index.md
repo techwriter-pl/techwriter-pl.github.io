@@ -15,11 +15,13 @@ możemy się dowiedzieć paru ciekawych rzeczy. Dziękujemy Ci Marku!
 
 <!--truncate-->
 
-#### Jak długo pracujesz jako Tech Writer?
+<div className="interview">
+
+## Jak długo pracujesz jako Tech Writer?
 
 Z różna intensywnością od ponad 4 lat.
 
-#### W jaki sposób zostałeś Tech Writerem?
+## W jaki sposób zostałeś Tech Writerem?
 
 Skończyłem studia humanistyczne i szukałem pracy wszystkimi możliwymi sposobami.
 Jednym z ogłoszeń jakie otrzymałem od znajomych było właśnie ogłoszenie
@@ -31,7 +33,7 @@ pracodawcy podczas procesu rekrutacji była samodzielnie sporządzona instrukcja
 do sapera. Jeśli ktoś nie kojarzy to jest to gra dostępna w starszych systemach
 operacyjnych Windows 😉
 
-#### Czy możesz opowiedzieć coś o swojej firmie i zespole w którym pracujesz?
+## Czy możesz opowiedzieć coś o swojej firmie i zespole w którym pracujesz?
 
 Firma w której pracuję oferuje usługi w zakresie szeroko rozumianego zaplecza
 inżynieryjnego dużych projektów infrastrukturalnych i budowlanych np. automatyki
@@ -53,7 +55,7 @@ Przez pierwsze 3 lata pracy zajmowałem się głównie rozwijaniem oraz
 utrzymywaniem dokumentacji systemu ewidencyjnego (system paszportyzacji).
 Aktualnie moja praca skupia się przede wszystkim na systemach telemetrycznych.
 
-#### W jaki sposób jest zorganizowana praca Twoja i Twojego zespołu?
+## W jaki sposób jest zorganizowana praca Twoja i Twojego zespołu?
 
 Pracujemy w metodyce Scrum, gdzie rozpiętość czasowa sprintów to z reguły 2
 tygodnie. Pod koniec sprintu przeprowadzamy podsumowanie zadań, które
@@ -65,7 +67,7 @@ aktualizowany podczas spotkania na tablicy z zadaniami - poszczególny karty
 zadań są przesuwane na tablicy zgodnie z aktualnymi postępami każdego zadania
 (To do / In progress / Done).
 
-#### Jakich narzędzi używasz i co o nich sądzisz?
+## Jakich narzędzi używasz i co o nich sądzisz?
 
 Do pisania dokumentacji wykorzystuje przede wszystkim Adobe InDesign CS4 PL.
 Sporadycznie popełnię coś w Wordzie. InDesigna uczyłem się od zera, z kolei
@@ -84,7 +86,7 @@ Do zarządzania zadaniami (backlogi projektów) oraz rozliczania czasu pracy jak
 został przeznaczony na poszczególne zadania wykorzystujemy Jirę. Oprócz tego
 korzystamy również z Confluence'a.
 
-#### W jaki sposób zdobywasz informacje potrzebne do tworzenia dokumentacji?
+## W jaki sposób zdobywasz informacje potrzebne do tworzenia dokumentacji?
 
 Jeżeli chodzi o systemy i narzędzia początkowo poznawałem je samodzielnie.
 Oczywiście mogłem liczyć na wsparcie merytoryczne kolegów i koleżanek ale
@@ -100,7 +102,7 @@ dokumenty, które stanowią tzw. dokumentację procesu. Dokumenty te są tworzon
 przez programistów lub wdrożeniowców w trakcie realizacji określonych zdań lub
 projektów.
 
-#### Jakie dokumenty dostarczasz, w jakiej postaci, w jakich językach i jak są one publikowane?
+## Jakie dokumenty dostarczasz, w jakiej postaci, w jakich językach i jak są one publikowane?
 
 Są to publikacje małe (do kilku / kilkunastu stron) i duże (do kilku tysięcy
 stron): począwszy od opisu pojedynczych funkcjonalności systemu, poprzez opis
@@ -113,7 +115,7 @@ dostarczana klientowi wraz z wdrożeniem nowej wersji systemu w środowisku
 produkcyjnym. Piszę w języku polskim z uwagi na to, że realizujemy projekty
 głównie dla klientów z Polski.
 
-#### Jakie produkty opisujesz?
+## Jakie produkty opisujesz?
 
 Jeżeli chodzi to tematykę opracowań to aktualnie działam przede wszystkim w
 obszarze systemów telemetrii (SCADA). Wcześniej zajmowałem się systemem
@@ -123,7 +125,7 @@ DTR’kę (dokumentację techniczno-ruchową) dla fizycznego urządzenia (Multip
 portu szeregowego), dokumentację BMS'a (System zarządzania budynkiem) oraz inną
 tzw. "drobnicę".
 
-#### Czy oprócz tworzenia dokumentacji zajmujesz się czymś jeszcze, np. tworzeniem materiałów marketingowych? Jeśli tak, to czym i jakich narzędzi do tego używasz?
+## Czy oprócz tworzenia dokumentacji zajmujesz się czymś jeszcze, np. tworzeniem materiałów marketingowych? Jeśli tak, to czym i jakich narzędzi do tego używasz?
 
 Oprócz tworzenia samej dokumentacji często uczestniczę też w procesie jej
 składu - kiedy "wkład" dostarczają mi inni, a moim zadaniem jest poskładanie
@@ -134,7 +136,7 @@ Aktualnie nie poświęcam tematom związanym z dokumentacją tyle czasu co jeszc
 rok temu ale nadal mam w sprintach zadania związane z pracą "twórczą". Od ponad
 roku wspieram dział wdrożeń, a teraz na tapecie wylądował u mnie temat testów.
 
-#### Jakie są największe wyzwania, które napotykasz w swojej pracy?
+## Jakie są największe wyzwania, które napotykasz w swojej pracy?
 
 Największym wyzwaniem zawsze było i jest zdobywanie wiedzy branżowej oraz
 poznawanie zagadnień technicznych związanych z działaniem systemów. Jako
@@ -145,16 +147,18 @@ zrozumienie wszystkich zawiłości i “myków”. Tak naprawdę nigdy nie przes
 się uczyć i realizując wraz z zespołem kolejne projekty cały czas poznaje nowe
 zagadnienia.
 
-#### Co najbardziej lubisz w pracy Tech Writera?
+## Co najbardziej lubisz w pracy Tech Writera?
 
 Samodzielność oraz to, że mam swój obszar działalności za który jestem w pełni
 odpowiedzialny. Oczywiście pewne standardy mojej pracy zostały wypracowane w
 drodze rozmów i konsultacji z przełożonymi ale dużo zależy ode mnie.
 
-#### Co byś radził osobom, które chciałyby zacząć swoją przygodę z pisaniem dokumentacji?
+## Co byś radził osobom, które chciałyby zacząć swoją przygodę z pisaniem dokumentacji?
 
 Ważne aby się nie zniechęcać i nie bać się pytać. Aby dobrze coś opisać trzeba
 to dobrze poznać i zrozumieć, a kluczem do tego jest zdobyta wiedza. Jeżeli masz
 wątpliwości lepiej zapytać dwa, a nawet trzy razy niż stworzyć dokumentację
 która będzie zawierała błędy merytoryczne lub będzie niepełna. Powiedzenie “kto
 pyta nie błądzi” znajduje w naszej pracy pełne zastosowanie 😊
+
+</div>

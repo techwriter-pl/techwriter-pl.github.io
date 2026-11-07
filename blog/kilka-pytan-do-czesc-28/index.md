@@ -17,7 +17,9 @@ stawiającym pierwsze kroki w tej roli? Zapraszamy poniżej.
 
 <!--truncate-->
 
-#### 1\. Jak długo pracujesz jako technical writer?
+<div className="interview">
+
+## 1\. Jak długo pracujesz jako technical writer?
 
 W obecnej firmie,
 [Hitachi Energy](https://www.hitachienergy.com/about-us/country-and-regional-information/poland),
@@ -25,7 +27,7 @@ pracuję od 4 lat a w tej konkretnej roli od ok. 4 miesięcy. Moja praca polega 
 tworzeniu dokumentacji zmian w oprogramowaniu w postaci przyjaznej dla
 użytkowników tego oprogramowania.
 
-#### 2\. W jaki sposób zostałaś technical writerem?
+## 2\. W jaki sposób zostałaś technical writerem?
 
 Przez wiele lat pracowałam we wsparciu technicznym klienta i długo zastanawiałam
 się nad zmianą roli, ale tak, aby jednak pozostać w branży IT, a najlepiej w tej
@@ -40,7 +42,7 @@ kontakcie i niecały rok później nadarzyła się okazja dołączenia do zespo�
 tym etapie już się nie zastanawiałam, tylko aplikowałam na to stanowisko i udało
 się.
 
-#### 3\. Czy możesz opowiedzieć coś o swojej firmie i zespole, w którym pracujesz?
+## 3\. Czy możesz opowiedzieć coś o swojej firmie i zespole, w którym pracujesz?
 
 Dział, w którym pracuję, zajmuje się produkcją oprogramowania dla Hitachi
 Energy, która to firma jest jednym z liderów sektora energetycznego. Zespół
@@ -51,7 +53,7 @@ o zespołach tworzących produkt. Jest dużo życzliwości, chęci pomocy i dzie
 się wiedzą. Ludzie tutaj lubią ze sobą pracować i traktują się nawzajem z
 szacunkiem.
 
-#### 4\. W jaki sposób jest zorganizowana praca Twoja i Twojego zespołu?
+## 4\. W jaki sposób jest zorganizowana praca Twoja i Twojego zespołu?
 
 Produkt, do którego tworzę dokumentację, ma swój rytm wydawniczy wyznaczany tzw.
 sprintami o długości dwóch tygodni, i to on decyduje o czasie i kolejności moich
@@ -61,7 +63,7 @@ nieformalnie konsultujemy przy różnych okazjach. Wszyscy oprócz mnie pracują
 trybie zdalnym, więc komunikacja odbywa się głównie przez komunikator firmowy.
 Staramy się jednak regularnie integrować poza pracą.
 
-#### 5\. Jakie doświadczenia zebrałaś jako technical writer? W jakich projektach brałaś udział?
+## 5\. Jakie doświadczenia zebrałaś jako technical writer? W jakich projektach brałaś udział?
 
 Obecnie uczę się tej roli jako tzw. „junior”, a więc wdrażam się w produkt,
 który opisuję, i w cykl tworzenia oprogramowania w sposób „zwinny”. W praktyce
@@ -70,13 +72,13 @@ wydawania oprogramowania przez zespół programistów. Dopasowuję się do ich
 terminów tak aby nie powodować przestojów. Uczę się też narzędzi pomocnych przy
 pracy tech writera.
 
-#### 6\. Jaką masz super moc?
+## 6\. Jaką masz super moc?
 
 Umiem się dogadywać z ludźmi 😊 co w mojej roli ma ogromne znaczenie, bo
 dokumentacji nie tworzy się samemu. Zawsze jest potrzebna czyjaś pomoc, czy to
 na etapie zbierania informacji, czy feedbacku dotyczącego mojej pracy.
 
-#### 7\. Jakich narzędzi używasz i co o nich sądzisz?
+## 7\. Jakich narzędzi używasz i co o nich sądzisz?
 
 Do pisania dokumentów używam MS Worda i MadCap Flare. Do kontroli wersji i
 przesyłania zmian - aplikacji Git i git-extensions. Z kolei do tworzenia i
@@ -91,7 +93,7 @@ możliwości, w tym różne mechanizmy analizy pomocne w wykrywaniu błędów, c
 pozytywnie mnie zaskoczył intuicyjną obsługą, a możliwości, które daje, nie
 spotkałam dotąd w żadnym innym edytorze zrzutów ekranu.
 
-#### 8\. W jaki sposób zdobywasz informacje potrzebne do tworzenia dokumentacji?
+## 8\. W jaki sposób zdobywasz informacje potrzebne do tworzenia dokumentacji?
 
 Moim podstawowym źródłem informacji są tzw. historyjki pisane przez Product
 Ownerów i programistów, przechowywane w narzędziu Jira. Biorę też udział w
@@ -101,46 +103,46 @@ merytoryczną konsultuję z szefem zespołu, który ma kilkuletnie doświadczeni
 opisywaniu tego produktu, i ponad 10-letnie w roli technical writera. Jest on
 moim głównym recenzentem, ale też mentorem w nowym zawodzie.
 
-#### 9\. Jakie typy dokumentów tworzysz?
+## 9\. Jakie typy dokumentów tworzysz?
 
 Są to głównie noty wydawnicze (release notes) i aktualizacje podręcznika
 użytkownika, a w mniejszym zakresie podręczniki instalacji, aktualizacji,
 dokumenty referencyjne czy specyfikacje konkretnych funkcjonalności.
 
-#### 10\. Czym się interesujesz oprócz dokumentacji i technologii?
+## 10\. Czym się interesujesz oprócz dokumentacji i technologii?
 
 Psychologią, medycyną, socjologią, urbanistyką i wszystkim co ma dziś wpływ na
 człowieka i na jakość jego życia. Dla relaksu gram w planszówki i czytam
 kryminały.
 
-#### 11\. W jakich językach piszesz dokumentację i jak jest ona publikowana?
+## 11\. W jakich językach piszesz dokumentację i jak jest ona publikowana?
 
 Piszę wyłącznie w języku angielskim. Dokumentacja jest dostępna dla klientów
 poprzez aplikację, z której korzystają, a także poprzez zewnętrzne repozytorium.
 
-#### 12\. Jakie produkty opisujesz?
+## 12\. Jakie produkty opisujesz?
 
 Obecnie jest to jeden produkt, który służy do zarządzania stanem technicznym
 elementów stacji transformatorowych, a także przewidywania ryzyka ich zużycia
 i/lub awarii.
 
-#### 13\. Czy kiedy kupisz nowy sprzęt AGD to idziesz na żywioł i spontanicznie zaczynasz użytkowanie, czy też rozpoczynasz od przeczytania całej instrukcji?
+## 13\. Czy kiedy kupisz nowy sprzęt AGD to idziesz na żywioł i spontanicznie zaczynasz użytkowanie, czy też rozpoczynasz od przeczytania całej instrukcji?
 
 Zawsze najpierw zaglądam do instrukcji, ale nie czytam całej tylko koncentruję
 się na sposobie uruchomienia urządzenia i szybko przeglądam komunikaty typu
 „Uwaga”.
 
-#### 14\. Czy oprócz tworzenia dokumentacji zajmujesz się czymś jeszcze, np. tworzeniem materiałów marketingowych? Jeśli tak, to czym i jakich narzędzi do tego używasz?
+## 14\. Czy oprócz tworzenia dokumentacji zajmujesz się czymś jeszcze, np. tworzeniem materiałów marketingowych? Jeśli tak, to czym i jakich narzędzi do tego używasz?
 
 Obecnie uczę się pisać dokumentację i to pochłania całą moją uwagę.
 
-#### 15\. Jak zachować spokój ducha i szeroki uśmiech? Powiedz, jak być szczęśliwą tech writerką?
+## 15\. Jak zachować spokój ducha i szeroki uśmiech? Powiedz, jak być szczęśliwą tech writerką?
 
 Nauczyć się wcześnie prosić o pomoc i zawsze mieć na uwadze, że jest to praca
 zespołowa i zależymy od pracy wielu innych ludzi. To tyle ode mnie na ten
 moment, bo wciąż mam wiele do opanowania (w tym opanowanie 😉)
 
-#### 16\. Jakie są największe wyzwania, które napotykasz w swojej pracy?
+## 16\. Jakie są największe wyzwania, które napotykasz w swojej pracy?
 
 Moje główne wyzwanie to obecnie poziom skomplikowania produktu, który opisuję, a
 także przestawienie się z wyuczonego sposobu pisania (głównie komunikacja z
@@ -148,13 +150,13 @@ klientem, a wcześniej język literacki, akademicki i potoczny) na ten techniczn
 związany z obsługą programowania. Pisanie w sposób jasny, czytelny, pomocny,
 niebudzący wątpliwości przeciętnego użytkownika jest zaskakująco trudne 😊
 
-#### 17\. Co najbardziej lubisz w swojej pracy?
+## 17\. Co najbardziej lubisz w swojej pracy?
 
 Pracę z językiem angielskim, który uwielbiam od dziecka, a także współpracę z
 ludźmi „technicznymi”. Lubię też to poczucie, że moja praca przynosi konkretne,
 namacalne owoce.
 
-#### 18\. Co możesz poradzić osobom, które chciałyby zacząć swoją przygodę z pisaniem dokumentacji?
+## 18\. Co możesz poradzić osobom, które chciałyby zacząć swoją przygodę z pisaniem dokumentacji?
 
 Na moim przykładzie: jeśli czujecie się swobodnie ze znajomością języka
 angielskiego i chcecie spróbować w tej roli, to najłatwiej jest na początek
@@ -168,3 +170,5 @@ Julio, bardzo dziękujemy za czas, jaki poświęciłaś na ten wywiad.
 Jeśli wśród czytelników znajdzie się ktoś chętny do podzielenia się swoimi
 doświadczeniami w pracy technical writera niech pisze na nasz
 adres: [**kontakt@techwriter.pl**](mailto:kontakt@techwriter.pl)
+
+</div>
