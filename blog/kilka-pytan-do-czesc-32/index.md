@@ -23,11 +23,13 @@ world of technology.
 
 <!--truncate-->
 
-### Hello Antoni!
+<div className="interview">
 
-### Thank you for taking part in this interview
+## Hello Antoni!
 
-### Let's start on a personal note. What is your relation to Poland?
+## Thank you for taking part in this interview
+
+## Let's start on a personal note. What is your relation to Poland?
 
 My father was Polish and emigrated to the UK during WWII, and my mother was
 Italian. We spoke only Polish and Italian at home until I was 11 years old. I
@@ -37,7 +39,7 @@ couldn’t bring himself to return, so I visited Poland for the first time in my
 life for the Cake conference and immediately felt at home, with the food, the
 language, and the country. The visit was long overdue.
 
-### How did you discover technical communication?
+## How did you discover technical communication?
 
 Having qualified in programming I initially took a different path, building a
 career in retail management within a Sony Centre, an Apple Centre and then
@@ -57,7 +59,7 @@ pattern that would serve me throughout my career: identifying opportunities,
 mastering complex software and translating technical knowledge into practical
 value.
 
-### How did your career progress?
+## How did your career progress?
 
 Moving into technical writing was a real reawakening. I had found a role that
 combined technology, communication and the challenge of making complex subjects
@@ -76,12 +78,12 @@ supervisory control and data acquisition
 ([SCADA](https://en.wikipedia.org/wiki/SCADA)) software; and digital marketing,
 where I developed online help for marketing software.
 
-### In which areas of technical writing do you feel strongest?
+## In which areas of technical writing do you feel strongest?
 
 My strengths lie in understanding technical content and communicating it
 visually.
 
-### What do you consider your biggest achievements?
+## What do you consider your biggest achievements?
 
 My programming and systems background gave me a problem-solving mindset and an
 eye for process improvement. I moved the luxury yacht documentation content into
@@ -94,14 +96,14 @@ and monitor quality. This allowed me to improving the quality of my work,
 develop new skills and refine processes. The result was highly professional
 print and online documentation that significantly improved the user experience.
 
-### Who would you recommend this career path to?
+## Who would you recommend this career path to?
 
 I would recommend this career to anyone who enjoys continually learning, solving
 problems and making complex things easier to understand. Good planning and
 organisation are essential, as deadlines can be tight and documentation is often
 needed towards the end of a development phase.
 
-### What areas are you currently exploring, and in what direction do you plan to develop?
+## What areas are you currently exploring, and in what direction do you plan to develop?
 
 My strengths lie in understanding complex systems, planning information
 structures and finding ways to make technical content more effective through
@@ -111,7 +113,7 @@ writing experience in a role where I can combine systems thinking, visual
 communication and emerging technologies to improve how technical information is
 created, maintained and understood.
 
-### How can senior management support documentation teams?
+## How can senior management support documentation teams?
 
 Investing in the right documentation systems and technologies can also reduce
 translation and maintenance costs, improve consistency, and accelerate the
@@ -121,7 +123,7 @@ Documentation teams should be given opportunities to attend technical
 conferences in person, where they can collaborate, share ideas and learn from
 their peers, bringing new approaches and efficiencies back into the business.
 
-### How do you currently perceive the job market and trends affecting the role of a technical writer?
+## How do you currently perceive the job market and trends affecting the role of a technical writer?
 
 Although I haven’t fully re-entered the job market, I can see that technical
 writing is facing a period of significant change. The pace of technological
@@ -131,13 +133,13 @@ market and the skills employers value.
 I believe the ability to adapt, understand emerging technologies and apply them
 effectively will be increasingly important for technical writers.
 
-### What advice would you give to candidates who want to join documentation teams?
+## What advice would you give to candidates who want to join documentation teams?
 
 Look for an organisation that invests in continuous professional development and
 has a strong development process that treats technical documentation as an
 integral part of product development, rather than an afterthought.
 
-### Did you work in an international team, and what advantages or challenges does that bring?
+## Did you work in an international team, and what advantages or challenges does that bring?
 
 I worked as part of an international team spanning India, Manila and the US,
 while coordinating the work from the UK. When planned well, this arrangement
@@ -149,7 +151,7 @@ believe adds considerable value to teamwork and collaboration. However,
 management recognised its importance and ensured that we all met in person at
 least once a year.
 
-### What are the strategies for sole writers?
+## What are the strategies for sole writers?
 
 Being the sole technical writer is a demanding role that extends far beyond
 content creation. It requires strong organisational and project management
@@ -162,7 +164,7 @@ constantly trying to keep pace with development. It is essential to make time
 for process improvement and proactive planning, rather than becoming trapped in
 a cycle of reactive delivery.
 
-### Do you use AI? What is your company’s approach towards it?
+## Do you use AI? What is your company’s approach towards it?
 
 I use AI tools, although I’m not currently working for a specific company. In a
 work environment, I would use AI to reduce repetitive tasks and help manage
@@ -170,7 +172,7 @@ processes through automation. However, I would never rely on AI-generated
 content without checking it carefully. I would also continue to use the
 automations I had developed myself, as I knew them to be 100% reliable.
 
-### Is documentation work a long-term career, or rather a stepping stone to other IT roles?
+## Is documentation work a long-term career, or rather a stepping stone to other IT roles?
 
 Technical documentation can be a long-term career in its own right, particularly
 if you vary your roles and continue to develop new skills to keep the work
@@ -178,7 +180,7 @@ interesting. I’ve worked in the field for 25 years, and it can be a very
 rewarding and lucrative career in the right role. It can also provide a
 springboard into related disciplines, such as UX design or Product Management.
 
-### What seems obvious to you but is not understood by other teams working with documentation teams?
+## What seems obvious to you but is not understood by other teams working with documentation teams?
 
 My impression is that AI is dominating discussions at the moment, while
 topic-based authoring, structured documentation and established writing best
@@ -187,7 +189,7 @@ Cake Conference rather than direct experience, so I can’t say whether this
 reflects the wider industry. However, I believe these fundamentals remain
 essential, regardless of how the technology evolves.
 
-### Has working in documentation changed or influenced your life in any way?
+## Has working in documentation changed or influenced your life in any way?
 
 I’ve had the opportunity to explore some fascinating worlds, from project
 management and process improvement on exciting projects I can’t talk about, to
@@ -195,7 +197,7 @@ the luxury yacht industry, which was great fun. Working with metering remote
 terminal units (RTUs) in the oil and gas industry also taught me a great deal
 about electronics.
 
-### What conferences do you attend? Do you participate as an attendee or as a speaker?
+## What conferences do you attend? Do you participate as an attendee or as a speaker?
 
 I’ve attended Technical Communication UK ([TCUK](https://istc.org.uk/tcuk/))
 since 2012, as well as
@@ -203,25 +205,27 @@ since 2012, as well as
 Dublin, TC Europe and [Cake Conf](https://cakeconf.contentbytes.pl/). I’ve also
 presented at TCUK on the use of SVG in technical documentation.
 
-### What is the one thing you would change in your company, if it were possible?
+## What is the one thing you would change in your company, if it were possible?
 
 Eliminate MS Word from the technical documentation process and adopt tools
 designed specifically for creating, managing and publishing technical content.
 
-### What tools do you use for technical writing, which operating systems do you work with, and what software would you like to see developed specifically for Mac?
+## What tools do you use for technical writing, which operating systems do you work with, and what software would you like to see developed specifically for Mac?
 
 I use MadCap Flare and would like to see it made available for the Mac. Almost
 all Markdown platforms are already available for the Mac.
 
-### What are your interests outside of work? How do you like to spend your free time?
+## What are your interests outside of work? How do you like to spend your free time?
 
 I enjoy hands-on creative pursuits such as bookbinding and woodworking, as well
 as travelling to places rich in natural beauty or history. Family is important
 to me, and I also enjoy making time for leisure and cultural experiences,
 particularly live music and theatre.
 
-### Thank you, Antoni, for your time and the thoughts you shared with us.
+## Thank you, Antoni, for your time and the thoughts you shared with us.
 
-### Antoni is currently looking for new job opportunities as a technical writer. If you look for a technical writer or know about open positions, we highly recommend that you contact Antoni via [LinkedIn](https://www.linkedin.com/in/antonidzumaga/).
+## Antoni is currently looking for new job opportunities as a technical writer. If you look for a technical writer or know about open positions, we highly recommend that you contact Antoni via [LinkedIn](https://www.linkedin.com/in/antonidzumaga/).
 
-### We thank [Piotr Sroka](https://www.linkedin.com/in/piotrsrokatechwriter/) for suggesting some of the questions in this interview.
+## We thank [Piotr Sroka](https://www.linkedin.com/in/piotrsrokatechwriter/) for suggesting some of the questions in this interview.
+
+</div>
