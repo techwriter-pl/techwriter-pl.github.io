@@ -16,13 +16,15 @@ doświadczeniu i o tym jak wygląda ich praca.
 
 <!--truncate-->
 
-#### Jak długo pracujesz jako Tech Writer?
+<div className="interview">
+
+## Jak długo pracujesz jako Tech Writer?
 
 **Grzegorz:** Nieco ponad cztery lata.
 
 **Mateusz:** Zaczynam siódmy rok.
 
-#### W jaki sposób zostałeś Tech Writerem?
+## W jaki sposób zostałeś Tech Writerem?
 
 **Grzegorz:** Gdy studiowałem na Politechnice Wrocławskiej, trafiłem na
 ogłoszenie na forum studenckim. Nie wiedziałem wówczas kim jest Tech Writer, ale
@@ -47,7 +49,7 @@ brakuje, t.j. programowanie, Agile, testowanie, zagadnienia e-commerce,
 generalnie takie obycie w procesie produkcji oprogramowania. No i pykło -
 zostałem tam na 4,5 roku.
 
-#### Czy możesz opowiedzieć coś o swojej firmie i zespole, w którym pracujesz?
+## Czy możesz opowiedzieć coś o swojej firmie i zespole, w którym pracujesz?
 
 **Grzegorz:** Braintribe to austriacki start-up działający w branży Big Data.
 Nasz główny produkt, platforma Tribefire, umożliwia modelowanie i normalizację
@@ -63,7 +65,7 @@ oprogramowania do szeroko pojętego modelowania oraz normalizacji i integracji
 danych. W zespole dokumentacyjnym jestem ja i Grzesiek, ale, co nie powinno
 dziwić, jesteśmy częścią R&D więc pracujemy z około 30 osobami.
 
-#### W jaki sposób jest zorganizowana praca Twoja i Twojego zespołu?
+## W jaki sposób jest zorganizowana praca Twoja i Twojego zespołu?
 
 **Grzegorz:** Do śledzenia zadań używamy Jiry, ale przede wszystkim opieramy się
 na bieżącej komunikacji z zespołami developerskimi przy pomocy Slacka. Co
@@ -76,7 +78,7 @@ Dużo testujemy, dużo rozkminiamy z kodu, rozwijamy też własnego toola do
 tworzenia dokumentacji. Poza bieżącymi tematami, zawsze znajdzie się coś z
 documentation debt do zrobienia.
 
-#### Jakich narzędzi używasz i co o nich sądzisz?
+## Jakich narzędzi używasz i co o nich sądzisz?
 
 **Grzegorz:** Do zapisu treści (jako Markdown) używamy VS Code, a do
 wersjonowania GitHuba. Sam portal dokumentacyjny (jak i cały produkt) jest
@@ -105,7 +107,7 @@ Ponadto, do rzeczy, które są powtarzalne (budowanie, deploymenty, upload na
 serwer) korzystam z pomocy pana Jenkinsa. Gdy czytam/psuję kod korzystam z
 Eclipse'a. Niestety, tutaj wyboru nie miałem 😊
 
-#### W jaki sposób zdobywasz informacje potrzebne do tworzenia dokumentacji?
+## W jaki sposób zdobywasz informacje potrzebne do tworzenia dokumentacji?
 
 **Grzegorz:** Czasami wystarczy przetestować informacje zawarte w tickecie, a
 innym razem trzeba samemu popsuć kod a potem porozmawiać o tym z programistą.
@@ -113,7 +115,7 @@ innym razem trzeba samemu popsuć kod a potem porozmawiać o tym z programistą.
 **Mateusz:** Testowanie, tickety, rozmowy z developerami, przekupstwa, szantaż
 emocjonalny - nic niestandardowego.
 
-#### Jakie dokumenty dostarczasz, w jakiej postaci, w jakim języku i jak są one publikowane?
+## Jakie dokumenty dostarczasz, w jakiej postaci, w jakim języku i jak są one publikowane?
 
 **Grzegorz:** Głównie są to instrukcje dotyczące tworzenia określonej
 funkcjonalności w oparciu o naszą platformę, czasami trafi się Release Note.
@@ -127,7 +129,7 @@ referencje. Dostarczamy spersonalizowany, statyczny portal z dokumentacją.
 Będzie on więc działał zarówno gdy jest hostowany przez serwer, jak i gdy jest
 otwarty z systemu plików. Piszemy tylko po angielsku.
 
-#### Jakie produkty opisujesz?
+## Jakie produkty opisujesz?
 
 **Grzegorz:** Wspomniana wyżej platforma Tribefire, oraz Agile Dox - produkt
 oparty o Tribefire, służący do zarządzania dokumentami zlokalizowanymi w różnych
@@ -135,7 +137,7 @@ repozytoriach.
 
 **Mateusz:** Główną platformę Tribefire oraz jej implementację - AgileDox.
 
-#### Czy oprócz tworzenia dokumentacji zajmujesz się czymś jeszcze, np. tworzeniem materiałów marketingowych? Jeśli tak, to czym i jakich narzędzi do tego używasz?
+## Czy oprócz tworzenia dokumentacji zajmujesz się czymś jeszcze, np. tworzeniem materiałów marketingowych? Jeśli tak, to czym i jakich narzędzi do tego używasz?
 
 **Grzegorz:** Sporo testuję, ale wynika to z konieczności napisania
 dokumentacji.
@@ -145,7 +147,7 @@ szczęście nie muszę tego robić. Poza pisaniem jako takim rozwijamy naszego t
 do tworzenia dokumentacji gdzie trzeba robić wszystko, od product owneringu po
 testowanie.
 
-#### Jakie są największe wyzwania, które napotykasz w swojej pracy?
+## Jakie są największe wyzwania, które napotykasz w swojej pracy?
 
 **Grzegorz:** Dla mnie takim wyzwaniem jest programowanie w Javie, by móc
 dostarczyć odpowiednie przykłady w dokumentacji. To zupełna nowość, ale walczę
@@ -154,7 +156,7 @@ jak mogę, przy pomocy kolegi po fachu w zespole, i programistów.
 **Mateusz:** "Jestem zajęty.", "Nie mam czasu.", "You have merge conflicts in
 your working copy" oraz "Error parsing documentation" 😉
 
-#### Co najbardziej lubisz w pracy Tech Writera?
+## Co najbardziej lubisz w pracy Tech Writera?
 
 **Grzegorz:** Ciągłą naukę i możliwość pomocy ludziom, których nie znam.
 
@@ -162,7 +164,7 @@ your working copy" oraz "Error parsing documentation" 😉
 dokumentacji 😊 Generalnie lubię, gdy to co robię jest przydatne dla innych.
 Kontakt zarówno z ludźmi i z technologią również jest przyjemny.
 
-#### Co byś radził osobom, które chciałyby zacząć swoją przygodę z pisaniem dokumentacji?
+## Co byś radził osobom, które chciałyby zacząć swoją przygodę z pisaniem dokumentacji?
 
 **Grzegorz:** Nie zniechęcaj się jeśli nie spełniasz (lub nie rozumiesz)
 wszystkich wymagań w ogłoszeniach - Tech Comm to ciągle niszowa branża, więc nie
@@ -185,3 +187,5 @@ tylko piszcie na **[kontakt@techwriter.pl](mailto:kontakt@techwriter.pl)**.
 
 _Zdjęcie pochodzi z serwisu
 [Pixabay](https://pixabay.com/pl/mikrofon-mic-wokal-media-mike-1172260/)_
+
+</div>

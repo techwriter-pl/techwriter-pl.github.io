@@ -16,11 +16,13 @@ nudzili. Zapraszamy do lektury.
 
 <!--truncate-->
 
-#### Jak długo pracujesz jako Tech Writer?
+<div className="interview">
+
+## Jak długo pracujesz jako Tech Writer?
 
 W marcu mijają 3 lata.
 
-#### W jaki sposób zostałaś Tech Writerem?
+## W jaki sposób zostałaś Tech Writerem?
 
 Tech writerem zostałam trochę z przypadku. Na piątym roku studiów zaczęłam
 rozglądać się za jakimś stałym zajęciem. Szukałam stanowiska, na którym mogłabym
@@ -31,7 +33,7 @@ W ogóle nie wiedziałam, że istnieje coś takiego jak technical writing! Na
 uczelni mówiono tylko o standardach typu tłumacz, nauczyciel, ewentualnie
 księgowy.
 
-#### Czy możesz opowiedzieć coś o swojej firmie i zespole w którym pracujesz?
+## Czy możesz opowiedzieć coś o swojej firmie i zespole w którym pracujesz?
 
 IBM to korporacja o ugruntowanej pozycji rynkowej. Nawet jeżeli ktoś nigdy nie
 miał okazji używać naszego oprogramowania ani nie słyszał o Watsonie, na pewno
@@ -42,7 +44,7 @@ fizyków, przez programistów (co oczywiste), po absolwentów filologii
 angielskiej. Przyczynia się to do różnorodności opinii, co moim zdaniem ma dobry
 wpływ zarówno na środowisko pracy jak i jakość naszych produktów.
 
-#### W jakis sposób jest zorganizowana praca Twoja i Twojego zespołu?
+## W jakis sposób jest zorganizowana praca Twoja i Twojego zespołu?
 
 Technical writerzy nie tworzą osobnego zespołu, tylko przynależą do
 poszczególnych zespołów produktowych. Dokumentację do naszego produktu piszą
@@ -55,7 +57,7 @@ zorientowani w tym, co robią pozostałe osoby. W ten sposób, kiedy jedno z nas
 idzie na urlop lub zwolnienie, ktoś inny jest w stanie przejąć jego pracę bez
 większego problemu.
 
-#### Jakich narzędzi używasz i co o nich sądzisz?
+## Jakich narzędzi używasz i co o nich sądzisz?
 
 Do tej pory moim głównym narzędzniem był Arbortext Editor. Miałam też styczność
 z Oxygen XML Author i Adobe FrameMaker. Pewnie jest to kwestia przyzwyczajenia,
@@ -71,7 +73,7 @@ publikacją, która miała formę książki. Przestawienie się z Arbortexta na
 FrameMakera było trudną sprawą. Odetchnęłam z ulga, kiedy projekt się skończył
 😉
 
-#### W jaki sposób zdobywasz informacje potrzebne do tworzenia dokumentacji?
+## W jaki sposób zdobywasz informacje potrzebne do tworzenia dokumentacji?
 
 Założenie jest takie, że wszystkie potrzebne informacje znajdują się w systemie
 do zarządzania projektem. Scrum master przypisuje mi jakieś zadanie, czytam
@@ -90,7 +92,7 @@ sporo przydatnych informacji. Uzbrojona w podstawy, kartkę i długopis udaję s
 po szczegóły do właściwej osoby. Reszta pracy wygląda tak samo: piszę, wysyłam
 do sprawdzenia, dostaję komentarze i uzupełniam na ich podstawie dokumentację.
 
-#### Jakie dokumenty dostarczasz, w jakiej postaci, w jakich językach i jak są one publikowane?
+## Jakie dokumenty dostarczasz, w jakiej postaci, w jakich językach i jak są one publikowane?
 
 Nasz zespół dostarcza dokumentację w postaci pomocy on-line. Używamy standardu
 DITA (stworzonego zresztą przez IBM), dlatego nasza dokumentacja jest podzielona
@@ -98,7 +100,7 @@ na trzy rodzaje tematów: zadania (ang. tasks), pojęcia (ang. concepts) i
 materiały zależne (ang. reference). Piszemy po angielsku, ale nasza dokumentacja
 jest później tłumaczona na inne języki.
 
-#### Jakie produkty opisujesz?
+## Jakie produkty opisujesz?
 
 Opisuję dwa produkty, które służą do zarządzania licencjami oprogramowania.
 Ogólnie chodzi o to, żeby klient mógł sprawdzić, jakie programy są zainstalowane
@@ -106,14 +108,14 @@ na komputerach w jego firmie, ile ich jest oraz jak często są używane. Na
 podstawie tych informacji powinien być w stanie stwierdzić, czy spełnia wymogi
 licencyjne dla danego oprogramowania, czy musi coś uregulować.
 
-#### Czy oprócz tworzenia dokumentacji zajmujesz się czymś jeszcze, np. tworzeniem materiałów marketingowych? Jeśli tak, to czym i jakich narzędzi do tego używasz?
+## Czy oprócz tworzenia dokumentacji zajmujesz się czymś jeszcze, np. tworzeniem materiałów marketingowych? Jeśli tak, to czym i jakich narzędzi do tego używasz?
 
 Poza pisaniem dokumentacji tworzę też infografiki oraz filmy instruktażowe. Do
 tych pierwszych używam CorelDraw, do tych drugich Camtasia Studio. Oprócz tego,
 wspólnie z kolegą z zespołu przygotowujemy wewnętrzne prezentacje nowych wersji
 produktu.
 
-#### Jakie są największe wyzwania, które napotykasz w swojej pracy?
+## Jakie są największe wyzwania, które napotykasz w swojej pracy?
 
 Wyzwań jest sporo. Po pierwsze, przeskok z poziomu przeciętnego użytkownika
 komputera do poziomu osoby, która tłumaczy użytkownikom, jak wykonać
@@ -130,7 +132,7 @@ spycha na koniec kolejki. Na szczęście takie sytuacje są rzadkie i wynikają 
 realnego braku czasu i naglących terminów, a nie z niechęci lub lekceważenia
 pracy technical writerów.
 
-#### Co najbardziej lubisz w pracy Tech Writera?
+## Co najbardziej lubisz w pracy Tech Writera?
 
 To, że każdy dzień jest inny. To, że oprócz pisania dokumentacji mogę rozwijać
 się także na innych płaszczyznach, jak choćby tworzenie infografik czy user
@@ -138,7 +140,7 @@ experience, którym zainteresowałam się właśnie dzięki pracy technical writ
 Przede wszystkim jednak cenię sobie to, że miałam okazję poznać zupełnie inny
 świat i świetnych ludzi, z którymi mogę pracować na co dzień.
 
-#### Co byś radziła osobom, które chciałyby zacząć swoją przygodę z pisaniem dokumentacji?
+## Co byś radziła osobom, które chciałyby zacząć swoją przygodę z pisaniem dokumentacji?
 
 Jeżeli ktoś obawia się, że nie zna się na programowaniu albo nie ma
 wykształcenia technicznego, to radziłabym się tym nie przejmować. Technical
@@ -156,3 +158,5 @@ Potem jest już z górki 😉
 Jeśli chcecie skontakować się z Agnieszką albo sami macie ochotę podzielić się
 swoimi doświadczeniami, nie zwlekajcie dłużej tylko piszcie na adres
 [kontakt@techwriter.pl](mailto:kontakt@techwriter.pl).
+
+</div>

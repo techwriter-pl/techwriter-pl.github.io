@@ -16,6 +16,8 @@ pracę technical writera z punktu widzenia stażystek.
 
 <!--truncate-->
 
+<div className="interview">
+
 Patrycja Pyrek i Klaudia Wilk to stażystki firmy
 [Hitachi ABB Power Grids](https://www.hitachiabb-powergrids.com/pl/pl). Gdyby
 trzeba było ją podsumować jednym zdaniem, to najlepiej obrazuje to angielskie
@@ -29,7 +31,7 @@ Patrycja i Klaudia rozpoczęły staż kilka miesięcy temu i zgodziły się podz
 z Wami swoimi wrażeniami. Rozmowę z nimi polecamy w szczególności osobom, które
 rozpoczynają swoją karierę zawodową w technical writingu.
 
-#### Jak długo pracujesz jako technical writer i na czym właściwie polega Twoja rola?
+## Jak długo pracujesz jako technical writer i na czym właściwie polega Twoja rola?
 
 **Patrycja:** Technical writingiem zajmuję się od około roku. Jestem stażystką,
 której zadaniem jest tworzenie i aktualizowanie dokumentacji technicznej. W
@@ -40,7 +42,7 @@ Moje główne zadania opierają się na przygotowaniu Release Notes i aktualizow
 User Guide’a. Dodatkowo piszę dokumentację API oraz pomagam developerom przy
 wewnętrznej dokumentacji.
 
-#### W jaki sposób zostałaś technical writerem?
+## W jaki sposób zostałaś technical writerem?
 
 **Patrycja:** Można powiedzieć, że Technical Writerem zostałam trochę przez
 przypadek. Jako studentka rozpoczęłam poszukiwania stażu i między dostępnymi
@@ -57,7 +59,7 @@ techniczne aspekty tworzenia dokumentacji. Po kilku miesiącach okazało się, �
 moja obecna firma szuka stażysty. Postanowiłam wysłać CV i zobaczyć, jak w
 praktyce wygląda technical writing.
 
-#### Czy możesz opowiedzieć coś o swojej firmie i zespole, w którym pracujesz?
+## Czy możesz opowiedzieć coś o swojej firmie i zespole, w którym pracujesz?
 
 **Patrycja:** Firma jest wiodącym na świecie pionierem technologii, które
 pozwalają na zaspokojenie rosnącego zapotrzebowania na energię elektryczną przy
@@ -74,7 +76,7 @@ informować o potencjalnych zagrożeniach różnych urządzeń energetycznych. P
 zespołu opiera się na zasadach Scrum, więc niezbędna jest cykliczna aktualizacja
 dokumentów.
 
-#### Jakich narzędzi używasz i co o nich sądzisz?
+## Jakich narzędzi używasz i co o nich sądzisz?
 
 **Patrycja:** Do pisania dokumentacji User Guide’a używam programu Microsoft
 Word. Myślę, że jest to program dobrze wszystkim znany. Ma przyjazny interfejs
@@ -88,7 +90,7 @@ Microsoft Word. Jeśli chodzi o dokumentowanie metod API, to korzystam ze
 Swaggera. Uważam, że wszystkie narzędzia po bliższym poznaniu, są naprawdę
 przyjemne w użytkowaniu, a przede wszystkim pomocne w procesie dokumentowania.
 
-#### W jaki sposób zdobywasz informacje potrzebne do tworzenia dokumentacji?
+## W jaki sposób zdobywasz informacje potrzebne do tworzenia dokumentacji?
 
 **Patrycja:** Najwięcej informacji zyskuję dzięki spotkaniom z zespołem, ciągłym
 śledzeniem tego co się właśnie dzieje z aplikacją. Biorę też udział w
@@ -104,7 +106,7 @@ Dodatkowo zespół organizuje spotkania w formie szkolenia, na których są
 wyjaśniane pewne aspekty funkcjonowania aplikacji. Zdecydowanie jest to pomocne
 przy tworzeniu dokumentacji.
 
-#### Jakie typy dokumentów tworzysz?
+## Jakie typy dokumentów tworzysz?
 
 **Patrycja:** Tworzę User Guide’a, gdzie dokumentuję działanie aplikacji pod
 użytkownika. Zapisuję przydatne instrukcje i porady, które mają ułatwić
@@ -117,7 +119,7 @@ najnowsze zmiany. Natomiast w Release Notes piszę o wszelkich zmianach, które
 wydarzyły się od poprzedniej wydanej wersji. Dodatkowo zajmuję się pisaniem
 dokumentacji API, z której korzystają również klienci.
 
-#### W jakich językach piszesz dokumentację i jak jest ona publikowana?
+## W jakich językach piszesz dokumentację i jak jest ona publikowana?
 
 **Patrycja:** Dokumentację piszę w języku angielskim. Dostarczana jest klientom
 wraz z produktem. W głównej mierze współpracuję z jednym zespołem, gdzie opisuję
@@ -131,7 +133,7 @@ opisuję, związany jest z predykcją stanu działania i sprawności urządzeń,
 wykorzystywanych w branży energetycznej. Głównym zadaniem jest prognozowanie i
 przedstawianie zagrożeń, które zaburzają ich prawidłowe funkcjonowanie.
 
-#### Czy oprócz tworzenia dokumentacji zajmujesz się czymś jeszcze, np. tworzeniem materiałów marketingowych? Jeśli tak, to czym i jakich narzędzi do tego używasz?
+## Czy oprócz tworzenia dokumentacji zajmujesz się czymś jeszcze, np. tworzeniem materiałów marketingowych? Jeśli tak, to czym i jakich narzędzi do tego używasz?
 
 **Patrycja:** Nie zajmuję się marketingiem, ale też pracuję nad contentem.
 Pomagam biznes analitykowi przygotowywać specyfikacje do widoków w aplikacji.
@@ -146,7 +148,7 @@ Również miałam okazję pomagać przy tworzeniu materiałów, służących do 
 firmy, na przykład w social mediach. Często wspieram developerów przy tworzeniu
 wewnętrznej dokumentacji, jeśli tylko jest taka potrzeba.
 
-#### Jakie są największe wyzwania, które napotykasz w swojej pracy?
+## Jakie są największe wyzwania, które napotykasz w swojej pracy?
 
 **Patrycja:** Największym wyzwaniem, szczególnie na początku, była tematyka
 produktu, który jest ściśle związany z rynkiem energii. Mimo, że jest to temat
@@ -163,7 +165,7 @@ istniejącej dokumentacji, licznych spotkań i pomocy developerów, nie jest ju�
 dla mnie aż tak dużym wyzwaniem, ale wciąż staram się poszerzać wiedzę w tym
 zakresie.
 
-#### Co najbardziej lubisz w swojej pracy?
+## Co najbardziej lubisz w swojej pracy?
 
 **Patrycja:** Różnorodność zadań. To, że zawsze są jakieś nowe wyzwania, nowe
 tematy. Dużą satysfakcję również dają pozytywne opinie zwrotne po udanym
@@ -178,7 +180,7 @@ się wyzwania techniczne, na przykład w czasie pisania API. Praca technical
 writera łączy ze sobą aspekty językowe i techniczne, co zdecydowanie jest
 częścią moich zainteresowań.
 
-#### Co możesz poradzić osobom, które chciałyby zacząć swoją przygodę z pisaniem dokumentacji?
+## Co możesz poradzić osobom, które chciałyby zacząć swoją przygodę z pisaniem dokumentacji?
 
 **Patrycja:** Czasem prostota jest kluczem. Nie trzeba tworzyć długich zawiłych
 zdań, aby przekazać coś w równie profesjonalny sposób. Polecałabym zapoznać się
@@ -199,3 +201,5 @@ Patrycjo, Klaudio - bardzo dziękujemy za udzielone nam odpowiedzi.
 Jeśli wśród czytelników znajdzie się ktoś chętny do podzielenia się swoimi
 doświadczeniami w pracy technical writera niech pisze na nasz adres:
 [**kontakt@techwriter.pl**](mailto:kontakt@techwriter.pl)
+
+</div>

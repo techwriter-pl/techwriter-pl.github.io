@@ -16,12 +16,14 @@ nasze pytania? Szczegóły poniżej.
 
 <!--truncate-->
 
+<div className="interview">
+
 Anna Wójcicka wygrała nasz konkurs o wejściówkę na soap! 2022 i udzieliła
 wyczerpujących odpowiedzi na nasze pytania. W branży jest od niedawna, a dzięki
 temu patrzy świeżym okiem na to co się dzieje. Usiądźcie wygodnie i
 przeczytajcie uważnie, bo naszym zdaniem warto 😉
 
-#### 1\. Jak długo pracujesz jako technical writer i na czym właściwie polega Twoja rola?
+## 1\. Jak długo pracujesz jako technical writer i na czym właściwie polega Twoja rola?
 
 Tech writerem jestem od marca tego roku. Początkowo, zanim zostałam przypisana
 do projektu, zajmowałam się tłumaczeniami dla działu marketingu, zrobiłam trochę
@@ -38,7 +40,7 @@ prawnym (m. in. ochrona danych wrażliwych), ale czuję się dość pewnie z tym
 zadaniem dzięki poprzednim doświadczeniom zawodowym. Dalsze zadania stopniowo
 będą się pojawiać i rozwijać.
 
-#### 2\. W jaki sposób zostałeś/aś technical writerem?
+## 2\. W jaki sposób zostałeś/aś technical writerem?
 
 Złożyłam CV do mojej organizacji na stanowisko analityka biznesowego. W
 odpowiedzi na aplikację otrzymałam zapytanie, czy nie byłabym zainteresowana
@@ -48,7 +50,7 @@ rozsądna, bo nie miałam jeszcze doświadczenia na stanowisku analityka, a prof
 pracowników firmy na Linkedin wskazywały, że taka ścieżka rozwoju faktycznie
 jest tu możliwa.
 
-#### 3\. Czy możesz opowiedzieć coś o swojej firmie i zespole, w którym pracujesz?
+## 3\. Czy możesz opowiedzieć coś o swojej firmie i zespole, w którym pracujesz?
 
 Pracuję dla polskiej firmy w branży IT, zatrudnionych mamy ok. pięciuset
 pracowników. Moja firma jest w sam raz, cenię sobie zwłaszcza sprawną
@@ -69,7 +71,7 @@ farmaceutycznego, stąd też mam z tyłu głowy fakt, że działamy w ramach bra
 mocno regulowanej. Organizacja ma zasięg globalny, częściowy podział
 geograficzny (LATAM, APAC i inne).
 
-#### 4\. W jaki sposób jest zorganizowana praca Twoja i Twojego zespołu?
+## 4\. W jaki sposób jest zorganizowana praca Twoja i Twojego zespołu?
 
 W gronie tech writerskim spotykamy się raz w tygodniu, by wymienić się różnymi
 odkryciami, wyzwaniami na projektach, zrobić sobie nawzajem review czy w inny
@@ -86,7 +88,7 @@ gdy mam sprawę albo chcę kogoś “złapać” – to jest właśnie ten czas.
 przestrzeni na własną pracę konceptualną, pisanie i, jak to wcześniej
 określiłam, prowadzenie śledztwa.
 
-#### 5\. Jakie doświadczenia zebrałeś/aś jako technical writer? W jakich projektach brałeś/aś udział?
+## 5\. Jakie doświadczenia zebrałeś/aś jako technical writer? W jakich projektach brałeś/aś udział?
 
 W tym roku po raz pierwszy uczestniczyłam w konferencji soap!. Co prawda online,
 a nic nie zastąpi spotkania na żywo (w trybie online nie miałam szans na
@@ -120,7 +122,7 @@ odnaleźć. Jest to doświadczenie zdecydowanie uniwersalne. Poza tym nie czuję
 “korporacyjnie” w żadnym z moich zespołów, widzę, że przykładana jest waga do
 kultury pracy i za to chylę czoła przed głównodowodzącymi.
 
-#### 6\. Jakich narzędzi używasz i co o nich sądzisz?
+## 6\. Jakich narzędzi używasz i co o nich sądzisz?
 
 W ramach projektu obecnie używam platformy do zarządzania ryzykiem związanym z
 informacją. Zgromadzona tam dokumentacja wspiera identyfikację zagrożeń
@@ -135,7 +137,7 @@ robić tego, co robię ja. Są gusta i guściki.
 Moim przyjacielem jest też pakiet Microsoft Office. I Confluence. I Snagit.
 Jeszcze nie trafiłam na ścianę używając któregokolwiek z nich.
 
-#### 7\. W jaki sposób zdobywasz informacje potrzebne do tworzenia dokumentacji?
+## 7\. W jaki sposób zdobywasz informacje potrzebne do tworzenia dokumentacji?
 
 Poprzez analizę innych dokumentów i załączników. Luki łatam przez spotkania z
 dedykowanymi specjalistami od danych rozwiązań. Gdy nie jestem pewna, czy dobrze
@@ -150,29 +152,29 @@ technicznym i nietechnicznym) co się dzieje w danym systemie. Umiejętność
 storytellingu to kompetencja zarówno tech writera, jak i analityka, więc cieszę
 się tym wspólnym polem i dobrze się na nim bawię.
 
-#### 8\. Jakie typy dokumentów tworzysz?
+## 8\. Jakie typy dokumentów tworzysz?
 
 SRA (System Risk Assessment), wiem, że mogą mi się zdarzyć też DCR (Data
 Classification Report). Wcześniej instrukcje użytkownika i jedno API
 documentation.
 
-#### 9\. W jakich językach piszesz dokumentację i jak jest ona publikowana?
+## 9\. W jakich językach piszesz dokumentację i jak jest ona publikowana?
 
 Angielski, do użytku wewnątrz organizacji. Tłumaczenia dla działu marketingu
 trafiały na bloga firmy.
 
-#### 10\. Jakie produkty opisujesz?
+## 10\. Jakie produkty opisujesz?
 
 Obecnie na ukończeniu mam Publication Database, następne będzie narzędzie do
 maskowania danych.
 
-#### 11\. Czy oprócz tworzenia dokumentacji zajmujesz się czymś jeszcze, np. tworzeniem materiałów marketingowych? Jeśli tak, to czym i jakich narzędzi do tego używasz?
+## 11\. Czy oprócz tworzenia dokumentacji zajmujesz się czymś jeszcze, np. tworzeniem materiałów marketingowych? Jeśli tak, to czym i jakich narzędzi do tego używasz?
 
 Na ten moment skupiam się na projekcie, ale w razie “wolniejszych przebiegów”
 nadal służę pomocą przy review dokumentów koleżanek (i z wzajemnością). Co dwie,
 trzy lub cztery pary oczu - to nie jedna.
 
-#### 12\. Jakie są największe wyzwania, które napotykasz w swojej pracy?
+## 12\. Jakie są największe wyzwania, które napotykasz w swojej pracy?
 
 Przed odkryciem zawodu tech writera byłam przekonana, że na końcu łańcuszka
 produkcyjnego stoją testerzy. Zmieniłam zdanie; pomijając end usera, na końcu
@@ -180,7 +182,7 @@ produkcyjnego stoją testerzy. Zmieniłam zdanie; pomijając end usera, na końc
 spotkanie ze specjalistą bywa irytujące. Taki problem to chyba jednak nie
 problem.
 
-#### 13\. Co najbardziej lubisz w swojej pracy?
+## 13\. Co najbardziej lubisz w swojej pracy?
 
 Po pierwsze - dzielenie się wiedzą i swobodny dostęp do informacji. Mam wrażenie
 (zbudowane na rozmowach z różnymi ludźmi zanim weszłam do branży IT), że
@@ -204,7 +206,7 @@ z kolei kontaktu z ludźmi brak, łatwo o “zapiwniczenie się” przed kompute
 popadnięcie w społeczną samotność. Jako tech writer mam równowagę w tym
 zakresie.
 
-#### 14\. Co możesz poradzić osobom, które chciałyby zacząć swoją przygodę z pisaniem dokumentacji?
+## 14\. Co możesz poradzić osobom, które chciałyby zacząć swoją przygodę z pisaniem dokumentacji?
 
 Learn English! Powtarzam to wszystkim, którzy rozważają wejście do branży IT.
 Fora internetowe i grupy na FB pełne są zapytań typu “jakiego języka uczyć się
@@ -249,3 +251,5 @@ Anno, bardzo dziękujemy za poświęcony czas.
 
 Jeśli ktoś z Was miałby ochotę odpowiedzieć na nasze pytania, zapraszamy.
 Informacje kontaktowe znajdziecie [tutaj](/kontakt).
+
+</div>

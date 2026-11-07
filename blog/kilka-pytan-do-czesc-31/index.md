@@ -26,7 +26,7 @@ technicznej, jak i ciekawe dla tych, którym już jest ona bliska.
 
 ## Przedstawienie
 
-### Cześć Mateuszu, dziękuję, że zgodziłeś się na ten wywiad. Na początek, opowiedz nam proszę coś o sobie.
+## Cześć Mateuszu, dziękuję, że zgodziłeś się na ten wywiad. Na początek, opowiedz nam proszę coś o sobie.
 
 Nazywam się [Mateusz Barszcz](https://www.linkedin.com/in/mattbarszcz/) i
 pracuję w firmie
@@ -48,7 +48,7 @@ Wspieram też tworzenie dokumentacji inżynieryjnej, która żyje razem z kodem,
 takiej jak instrukcja dla administratorów systemowych (administration guide)
 albo plik tekstowy z opisem obsługi programu (readme).
 
-### Jak streściłbyś istotę roli technical writera lub specjalisty ds. komunikacji technicznej?
+## Jak streściłbyś istotę roli technical writera lub specjalisty ds. komunikacji technicznej?
 
 Dla mnie jest to głównie rola technicznego tłumacza. Jest to osoba, która zbiera
 informacje od inżynierów – a ich wypowiedzi mogą być pełne emocji, zdawkowe albo
@@ -61,7 +61,7 @@ logiczne ułożenie treści.
 
 ## Kariera przed dołączeniem do zespołu Hitachi Energy
 
-### Jak długo trwa twoja kariera techniczna?
+## Jak długo trwa twoja kariera techniczna?
 
 Przeglądając dziś LinkedIn, pojawiło mi się wspomnienie sprzed 15 lat, kiedy
 zacząłem karierę techniczną. Jest ona przeplatana różnymi rolami, ale zadania, z
@@ -72,7 +72,7 @@ Stricte technical writingiem zajmuję się od 2010 roku; e-learningiem zajmował
 się przez ponad trzy lata, a pracując przez sześć lat w Google miałem okazję
 łączyć oba te nurty.
 
-### W jaki sposób zostałeś technical writerem?
+## W jaki sposób zostałeś technical writerem?
 
 To jest ciekawa historia, bo po studiach, pracując dorywczo, zastanawiałem się,
 co robić dalej. W 2010 roku znalazłem ofertę pracy dla kontraktora na roczne
@@ -84,7 +84,7 @@ speaker'em_ angielskiego i polskiego. Te wszystkie bliskie mi aspekty wtedy
 zgrały się i złożyłem aplikację. Przeszedłem rekrutację i dostałem tę pracę.
 Taki więc był mój początek w tym obszarze.
 
-### Czyli czytając tę ofertę budowałeś swoją świadomość tego, kim jest technical writer?
+## Czyli czytając tę ofertę budowałeś swoją świadomość tego, kim jest technical writer?
 
 Tak. Podobnie jak wiele osób i ja korzystałem z instrukcji, ale nigdy nie
 myślałem o tym, kto i w jaki sposób właściwie je tworzy, kto jest za nie
@@ -93,7 +93,7 @@ odpowiedzialne za tego typu dokumentację, że jest to duży obszar wymagający
 specjalnych ról i eksperckiej wiedzy. Spodobało mi się to i w efekcie mocno mnie
 pochłonęło.
 
-### W jakich projektach brałeś udział i jakie doświadczenia w nich zdobyłeś?
+## W jakich projektach brałeś udział i jakie doświadczenia w nich zdobyłeś?
 
 W mojej karierze podoba mi się to, że od samego początku było dynamicznie. Co
 pół roku coś się zmieniało – nie mogłem narzekać na stagnację. Zacząłem od
@@ -127,7 +127,7 @@ odpowiedzialności również się poszerzał.
 
 ## Kariera w Hitachi Energy
 
-### Wróćmy teraz do Twojej obecnej roli w Hitachi Energy, o której wspomniałeś na wstępie. W jaki sposób zorganizowana jest Twoja praca?
+## Wróćmy teraz do Twojej obecnej roli w Hitachi Energy, o której wspomniałeś na wstępie. W jaki sposób zorganizowana jest Twoja praca?
 
 Zespoły pracują w oparciu o metodologię
 [Scrum](https://pl.wikipedia.org/wiki/Scrum). Produkty, nad którymi pracujemy,
@@ -142,7 +142,7 @@ sprintami, to wiążą mnie terminy, w których produkt musi być dostarczony ra
 dokumentacją. Uczęszczam na spotkania projektowe, więc jestem w stałym kontakcie
 z zespołem.
 
-### Jakiego typu dokumenty tworzysz?
+## Jakiego typu dokumenty tworzysz?
 
 Obecnie najczęściej tworzę installation guides i functional descriptions, które
 są mocno technicznymi dokumentami, a niektóre ich fragmenty są instruktażowe.
@@ -152,7 +152,7 @@ backendu funkcjonalności czy produktu oraz opisem jego działania, np.:
 kalkulacje zmian w natężeniu prądu, przesunięcia fazowe napięć i jakie są
 odchylenia w odczytach. Tworzę też mniejsze dokumenty, takie jak release notes.
 
-### Z jakich narzędzi korzystasz i jakie masz wrażenia z ich używania?
+## Z jakich narzędzi korzystasz i jakie masz wrażenia z ich używania?
 
 Pracuję z różnymi narzędziami, w zależności od potrzeb i specyfiki projektu.
 Początkowo korzystałem z MS Word, głównie dlatego, że umożliwiało to wielotorową
@@ -176,7 +176,7 @@ elastyczności.
 Zalety Markdownu to jego prostota oraz fakt, że treści powstają w środowisku
 znanym deweloperom.
 
-### W jaki sposób zdobywasz informacje potrzebne do tworzenia dokumentacji?
+## W jaki sposób zdobywasz informacje potrzebne do tworzenia dokumentacji?
 
 Opiera się to na współpracy z inżynierami, którzy są skorzy włączyć się w proces
 tworzenia dokumentacji. Są często koniecznym ogniwem, aby powstała, bo ja sam
@@ -193,13 +193,13 @@ odczytać.
 Czasami natrafiam na treści w repozytoriach, które później uwzględniam w mojej
 dokumentacji. Takie znaleziska sprawiają mi sporą satysfakcję.
 
-### Jaką masz super moc jako technical writer?
+## Jaką masz super moc jako technical writer?
 
 Podobno piszę błyskotliwe (_witty_) wiadomości e-mail, które są równocześnie
 czytelne w środowisku korporacyjnym. Myślę, że to umiejętność przydająca się
 zarówno w technical writingu, jak i w codziennej komunikacji.
 
-### Jakie są największe wyzwania, które napotykasz w swojej pracy?
+## Jakie są największe wyzwania, które napotykasz w swojej pracy?
 
 Zdarza mi się przekonywać kogoś, że proponowana przeze mnie ścieżka jest
 właściwa i trzeba dać do zrozumienia tej osobie, że ona sama nie ma racji.
@@ -209,7 +209,7 @@ przekazywaniu ich wkładu. Wiadomo, że każdy jest zajęty, więc w takich
 przypadkach dla mnie najlepiej sprawdzają się spotkania 1 na 1. Są
 najefektywniejsze.
 
-### Co najbardziej lubisz w swojej pracy?
+## Co najbardziej lubisz w swojej pracy?
 
 Najbardziej lubię nasz wspólny zespół tech writerski. Na początku była nas
 garstka, a teraz zespół rośnie jak na drożdżach i jest bardzo różnorodny.
@@ -222,19 +222,19 @@ rozwiązania, które można nabudować na Markdown.
 
 ## Zainteresowania
 
-### Czym się interesujesz poza dokumentacją i technologią?
+## Czym się interesujesz poza dokumentacją i technologią?
 
 Moimi pasjami są podróże, czytanie (szczególnie fantastyki naukowej),
 motoryzacja i gotowanie. To ostatnie też nawiązuje do instrukcji!
 
-### _A propos_ gotowania: czy kiedy kupujesz nowy sprzęt AGD, na przykład robota kuchennego, idziesz na żywioł i spontanicznie zaczynasz go używać, czy też czytasz całą instrukcję od deski do deski?
+## _A propos_ gotowania: czy kiedy kupujesz nowy sprzęt AGD, na przykład robota kuchennego, idziesz na żywioł i spontanicznie zaczynasz go używać, czy też czytasz całą instrukcję od deski do deski?
 
 Na pewno idę na żywioł, bo jestem z natury osobą, która woli coś wypróbować.
 Retencja pamięci jest lepsza jeżeli czegoś praktycznie użyję, ewentualnie –
 zepsuję 😉. Ale kiedy zachodzi taka potrzeba, sięgam po instrukcję – i wtedy
 czytam ją od deski do deski.
 
-### Jakie są Twoje zainteresowania związane z technologią i naukami ścisłymi?
+## Jakie są Twoje zainteresowania związane z technologią i naukami ścisłymi?
 
 Zawsze fascynowała mnie nauka, tematy astronomiczne i inżynierskie, to jak coś
 jest skonstruowane, rodzaje silników samochodowych i tym podobne. Lubię czytać
@@ -244,7 +244,7 @@ mój umysł pozostaje ciekawy świata.
 
 ## Dobrostan
 
-### Jak zachować spokój ducha i szeroki uśmiech jako technical writer? Jak osiągnąć zen?
+## Jak zachować spokój ducha i szeroki uśmiech jako technical writer? Jak osiągnąć zen?
 
 Czasami pomaga mi w tym zmiana zadania. Jeżeli czuję zastój, staram się skupić
 na innej jego części, takiej, która sprawia mi przyjemność lub pozwoli na szybki
@@ -253,7 +253,7 @@ i namacalny sukces. Ważne jest też, żeby nie zawsze starać się zrobić na r
 do poprawienia – i to jest ok. Lepiej opracować coś, co jest w 80–90% gotowe i
 wprowadzić poprawki później niż uparcie walczyć o perfekcję.
 
-### Każdy ma lepsze i gorsze dni. Czy masz jakieś spostrzeżenia na temat tego, co można zrobić, aby czuć się lepiej w pracy? A może są rzeczy, których warto unikać?
+## Każdy ma lepsze i gorsze dni. Czy masz jakieś spostrzeżenia na temat tego, co można zrobić, aby czuć się lepiej w pracy? A może są rzeczy, których warto unikać?
 
 Gdy mierzę się z zadaniem, które mnie przytłacza, pomaga mi czasami fakt, że są
 zawsze inne zadania do wyboru. Zastój pisarski to realna rzecz. Czasem lubię na
@@ -264,7 +264,7 @@ chwili obowiązkiem, odciąża umysł. Choć przez chwilę nie czuję presji cza
 uspokaja mnie i po jakimś czasie kontynuuję wcześniej rozpoczęty wątek z nową
 energią.
 
-### To, co mówisz uzmysławia, że dokumentacja jest iteracyjna.
+## To, co mówisz uzmysławia, że dokumentacja jest iteracyjna.
 
 Jest jakieś prawo, które mówi, że ostatnie 10% doskonalenia materiału może zająć
 90% czasu. To jest tzw. dopieszczanie szczegółów. Tam, gdzie 10–20% twoich
@@ -278,7 +278,7 @@ Myślę, że reguły obowiązujące w technical writingu można wytropić nawet 
 sporcie. Najlepsi sportowcy walczą o dziesiąte i setne sekundy, a wysiłek, który
 wkładają w to by je zdobyć, to lata ciężkiej pracy.
 
-### Tak, są to lata ciężkiej pracy, ale nie każdego dnia każdy sportowiec dokonuje maksymalnego wysiłku. Rozkładają to tak, że ćwiczą też na średnim poziomie intensywności i odpoczywają, by zrobić coś dużego na samym końcu. Czasami myślimy tylko o momentach maksymalnego wysiłku, ale by do tego doszło, trzeba też trenować na niskiej intensywności i realnie odpoczywać.
+## Tak, są to lata ciężkiej pracy, ale nie każdego dnia każdy sportowiec dokonuje maksymalnego wysiłku. Rozkładają to tak, że ćwiczą też na średnim poziomie intensywności i odpoczywają, by zrobić coś dużego na samym końcu. Czasami myślimy tylko o momentach maksymalnego wysiłku, ale by do tego doszło, trzeba też trenować na niskiej intensywności i realnie odpoczywać.
 
 Warto myśleć długoterminowo. Nie jest to łatwe i może być to nawet wbrew naszej
 naturze, bo skupiamy się na tym, co się dzieje w danej chwili – ale widzenie
@@ -286,7 +286,7 @@ dłuższej perspektywy pomaga.
 
 ## Wskazówki dla początkujących
 
-### Co możesz poradzić osobom, które chciałyby zacząć przygodę z pisaniem dokumentacji?
+## Co możesz poradzić osobom, które chciałyby zacząć przygodę z pisaniem dokumentacji?
 
 Poleciłbym zaznajomienie się ze standardami, style guidami (podręcznikami
 stylu), pracą na szablonach, zmierzenie się z opisaniem jakiegoś tematu
@@ -318,7 +318,7 @@ zainteresowaniach i osłuchać się z językiem technicznym w praktyce.
 
 ## Ostatnie pytanie
 
-### Pytanie na zakończenie: czy w Hitachi Energy masz miejsce na rozwój zawodowy?
+## Pytanie na zakończenie: czy w Hitachi Energy masz miejsce na rozwój zawodowy?
 
 Zdecydowanie tak! Cenię w tej firmie to, że motywuje się w niej pracowników do
 rozwoju i podejmowania nowych wyzwań. Organizowana jest duża liczba szkoleń,

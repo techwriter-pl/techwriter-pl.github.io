@@ -19,6 +19,8 @@ Dublina.
 
 <!--truncate-->
 
+<div className="interview">
+
 Tekst publikujemy w dwóch wersjach: polskiej oraz [angielskiej](#ang).
 
 ## Jak długo pracujesz jako Tech Writer?
@@ -243,3 +245,5 @@ immediate leverage when applying for jobs.
 Well paid! For full time jobs, the salary starts in the mid 20k for a newly
 graduated TW, and rises as experience grows. Once you reach senior level, you
 can expect about 55k upwards. Contracting rates are significantly more.
+
+</div>
