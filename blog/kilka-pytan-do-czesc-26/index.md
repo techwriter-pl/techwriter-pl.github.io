@@ -17,7 +17,9 @@ karierę? Zapraszamy poniżej.
 
 <!--truncate-->
 
-#### 1\. Jak długo pracujesz jako technical writer?
+<div className="interview">
+
+## 1\. Jak długo pracujesz jako technical writer?
 
 W styczniu tego roku świętowałem 10 rocznicę pracy w zawodzie i mieszkania w
 Krakowie. Aż trudno uwierzyć, że 10 lat minęło tak szybko. Można powiedzieć, że
@@ -25,7 +27,7 @@ praca na stanowisku technical writer w znaczący sposób zmieniła moje życie i
 zaprowadziła mnie w miejsce gdzie obecnie jestem. 3 różne firmy i 10 lat w
 zawodzie to dobry moment na refleksję.
 
-#### 2\. W jaki sposób zostałeś technical writerem?
+## 2\. W jaki sposób zostałeś technical writerem?
 
 To był przypadek. Szukałem pracy z językiem angielskim w Krakowie i pośród
 ofert, na które aplikowałem jedna była na stanowisko technical writer. Wtedy też
@@ -41,7 +43,7 @@ potrzebowałem po prostu znaleźć pracę. Mimo iż nie pracuję już w tamtym m
 to nadal jestem bardzo wdzięczny tamtej firmie i osobom, które mnie zatrudniły,
 że dostałem szansę na start w nowym miejscu i dobrej firmie.
 
-#### 3\. Czy możesz opowiedzieć coś o swojej firmie i zespole, w którym pracujesz?
+## 3\. Czy możesz opowiedzieć coś o swojej firmie i zespole, w którym pracujesz?
 
 To może tak w bardzo dużym skrócie - firma, w której pracuję,
 [Hitachi Energy](https://www.hitachienergy.com/about-us/country-and-regional-information/poland),
@@ -78,7 +80,7 @@ opisuję. Tutaj podkreślę, że nie znam się na programowaniu, jakoś mnie to
 specjalnie nie kręci, ale z dobrym zespołem, który mnie otacza wiele rzeczy
 związanych z IT staje się dla mnie bardziej przystępne.
 
-#### 4\. W jaki sposób jest zorganizowana praca Twoja i Twojego zespołu?
+## 4\. W jaki sposób jest zorganizowana praca Twoja i Twojego zespołu?
 
 Mam jeden główny produkt, który rozwija 5 zespołów deweloperskich pod okiem 3
 biznes analityków. Dostarczamy wersję Cloudową i wersję, którą klient może sobie
@@ -91,7 +93,7 @@ Najwięcej pracy jest zawsze przy podręcznikach użytkownika i instalacji. Ok 4
 tygodnie przed releasem można poczuć jak wiele elementów ma wpływ na moją pracę
 i to co czym piszę.
 
-#### 5\. Jakich narzędzi używasz i co o nich sądzisz?
+## 5\. Jakich narzędzi używasz i co o nich sądzisz?
 
 MadCap Flare, tego narzędzia używam 6/7 lat, zdążyłem się do niego przyzwyczaić.
 Jest dość duża międzynarodowa społeczność, która z niego korzysta i internetowe
@@ -103,7 +105,7 @@ Gita, a do tworzenia opisów metod API używam Microsoft Visual Studio. Czasem
 zdarza mi się współpracować przy tworzeniu/edycji tekstów dla UX Designerów i
 wówczas robię to np. w programie Figma.
 
-#### 6\. W jaki sposób zdobywasz informacje potrzebne do tworzenia dokumentacji?
+## 6\. W jaki sposób zdobywasz informacje potrzebne do tworzenia dokumentacji?
 
 Przez ponad 3 lata w Hitachi Energy dość dobrze zaprzyjaźniłem się z produktem,
 który opisuję i staram się jak najwięcej rzeczy robić sam. Monitoruję historyjki
@@ -128,7 +130,7 @@ stanie sobie przygotować lub byłoby to zbyt czasochłonne. Zdarza się też, �
 opisywanie tego co widziałem muszę odłożyć na kilka dni/tygodni i wówczas takie
 nagranie jest bezcenne.
 
-#### 7\. Jakie typy dokumentów tworzysz?
+## 7\. Jakie typy dokumentów tworzysz?
 
 Tworzę wszelkie niezbędne dokumenty. Najbardziej potrzebne i poczytne są noty
 wydania, podręczniki użytkownika, instalacji i integracji. Ta dokumentacja
@@ -136,14 +138,14 @@ oddaje w 99% to co się dzieje i zmienia w naszym oprogramowaniu. Dokumenty te
 dostarczam w formacie pdf. Część produktów Hitachi Energy ma dokumentację w
 postaci online helpów, natomiast nie mój produkt.
 
-#### 8\. W jakich językach piszesz dokumentację i jak jest ona publikowana?
+## 8\. W jakich językach piszesz dokumentację i jak jest ona publikowana?
 
 Nie będzie tutaj chyba zaskoczenia. Dokumentację tworzę w języku angielskim. Pod
 kątem językowym jest to bardziej American English, a ostatnio dodatkowo staram
 się wdrażać w swojej pracy uproszczony angielski techniczny według wytycznych
 ASD-STE 100. Jest to ciekawe doświadczenie.
 
-#### 9\. Jakie produkty opisujesz?
+## 9\. Jakie produkty opisujesz?
 
 Moim głównym produktem jest produkt z kategorii asset performance management, co
 po polsku tłumaczy się jako oprogramowanie do zarządzania wydajnością aktywów.
@@ -156,7 +158,7 @@ systemów zapewnia bezpieczeństwo dostaw dla odbiorcy końcowego.
 Poza tym zdarza mi się czasem opisywać inne produkty i/lub urządzenia związane z
 branżą energetyczną.
 
-#### 10\. Czy oprócz tworzenia dokumentacji zajmujesz się czymś jeszcze, np. tworzeniem materiałów marketingowych? Jeśli tak, to czym i jakich narzędzi do tego używasz?
+## 10\. Czy oprócz tworzenia dokumentacji zajmujesz się czymś jeszcze, np. tworzeniem materiałów marketingowych? Jeśli tak, to czym i jakich narzędzi do tego używasz?
 
 Ostatnimi czasy wróciłem do roli Scrum Mastera i dorywczo wspieram jeden z
 zespołów deweloperskich w tej roli. Wcześniej byłem Scrum Masterem zespołu
@@ -175,7 +177,7 @@ Dodatkowo jestem zaangażowany w tematy EB (Employer Branding) i rekrutacyjne w
 mojej firmie. Język angielski od zawsze był moim hobby i jeśli tylko mam czas, a
 ktoś w innym dziale potrzebuje językowej pomocy robię to z przyjemnością.
 
-#### 11\. Jakie są największe wyzwania, które napotykasz w swojej pracy?
+## 11\. Jakie są największe wyzwania, które napotykasz w swojej pracy?
 
 Brak czasu i chwil skupienia.
 
@@ -196,7 +198,7 @@ ten trend się trochę odwrócił. Staram się zaglądnąć do biura raz lub dwa
 miesiąc, aby pewne sprawny omówić na żywo. Kiedyś uciekałem z biura, teraz dla
 komfortu i zmiany otoczenia uciekam czasem do biura.
 
-#### 12\. Co najbardziej lubisz w swojej pracy?
+## 12\. Co najbardziej lubisz w swojej pracy?
 
 Tych argumentów jest sporo. Na początek, szeroki zakres zadań i możliwości.
 Praca w dużej firmie z dużą ilością projektów i zespołów nie daje czasu na nudę.
@@ -222,7 +224,7 @@ kroków naszego „release process”. Pracy jest dużo, ale nie czuję żeby mn
 praca przytłaczała lub ktoś stał mi nad plecami i dopychał zadania na siłę.
 Bardzo to doceniam.
 
-#### 13\. Co możesz poradzić osobom, które chciałyby zacząć swoją przygodę z pisaniem dokumentacji?
+## 13\. Co możesz poradzić osobom, które chciałyby zacząć swoją przygodę z pisaniem dokumentacji?
 
 Patrząc na rok 2012 i na 2022 bardzo dużo się zmieniło. Zawód technical writera
 stał się bardziej rozpoznawany w Polce. Zawiązała się społeczność technical
@@ -249,3 +251,5 @@ Piotrze, bardzo dziękujemy za czas, jaki poświęciłeś na ten wywiad.
 Jeśli wśród czytelników znajdzie się ktoś chętny do podzielenia się swoimi
 doświadczeniami w pracy technical writera niech pisze na nasz
 adres: [**kontakt@techwriter.pl**](mailto:kontakt@techwriter.pl)
+
+</div>

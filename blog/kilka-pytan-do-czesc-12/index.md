@@ -17,6 +17,8 @@ razu w dwóch językach!
 
 <!--truncate-->
 
+<div className="interview">
+
 [Click here for English version and enjoy!](#english)
 
 ## Jak długo pracujesz jako Tech Writer?
@@ -141,11 +143,11 @@ dajcie nam znać!
 
 ## English
 
-### How long have you been working as a Tech Writer?
+## How long have you been working as a Tech Writer?
 
 I have been involved with Technical Communications for over 5 years.
 
-### How did you become a Tech Writer?
+## How did you become a Tech Writer?
 
 After graduating from the University of Illinois at Chicago, I got a Bachelor of
 Science in Marketing and decided to move back to Poland. This was a difficult
@@ -156,7 +158,7 @@ English-speaking job in Marketing in the Silesia region, I came across a
 technology and the job was close to where I lived, I decided to apply. And
 that’s how it all started!
 
-### Can you say something about the company you work for and your team?
+## Can you say something about the company you work for and your team?
 
 I work at Jamf, where we help commercial, education, and government
 organizations succeed with the Apple platform. In the recent years the firm grew
@@ -166,7 +168,7 @@ there are 30+ software engineers. Our Katowice office is still growing and we
 are constantly hiring new people. Currently, I am the only Technical Writer
 here, the rest of the team is located in the US.
 
-### How is your and your team’s work organized?
+## How is your and your team’s work organized?
 
 Jamf embraces the DevOps culture and puts a big emphasis on collaboration and
 transparency. We work in an Agile environment with teams consisting of 4-9
@@ -181,7 +183,7 @@ continue to educate ourselves and the organization on this topic. Whenever we
 can, we try to automate manual processes associated with content delivery and
 work on improving overall content effectiveness.
 
-### What tools do you use and what do you think about them?
+## What tools do you use and what do you think about them?
 
 I heavily rely on Atlassian tools (JIRA, Confluence, Bitbucket, HipChat,
 SourceTree, Bamboo etc.) and can’t imagine my work without them. For meetings I
@@ -195,7 +197,7 @@ any local branch build of our software and have a running environment with
 optional test data in around 2 minutes. Of course I use a lot more tools but
 they all depend on the project.
 
-### How do you get the information you need to prepare/create documentation?
+## How do you get the information you need to prepare/create documentation?
 
 Since I work with my Scrum team on a daily basis, I have access to most of the
 necessary information, plus I am included in all communication. I also gather
@@ -208,7 +210,7 @@ Technical Writers on agile teams to get too much feedback and information. But
 if you ever encounter a situation like that, first think to yourself “How does
 this help the user?” and then decide which feedback to incorporate.
 
-### What documents do you deliver, in what form, in which language/languages and how are they published?
+## What documents do you deliver, in what form, in which language/languages and how are they published?
 
 I deliver any content that is needed in order to best assist our users. These
 may include: admin guides, knowledge base articles, release notes, or technical
@@ -217,7 +219,7 @@ it for translation. I work with an editor to ensure my content is ready for
 publishing. Often I will create my content on Confluence as from there it can be
 easily exported to PDF or HTML.
 
-### Do you participate in any other activities besides documentation writing (e.g. creation of marketing materials)? If yes, what is it and what tools do you use?
+## Do you participate in any other activities besides documentation writing (e.g. creation of marketing materials)? If yes, what is it and what tools do you use?
 
 Scrum teams do not contain sub-teams dedicated to particular domains, such as
 “tester”, “programmer” or “technical writer”. That’s why besides documentation
@@ -225,28 +227,30 @@ writing, I’d for example test our software. Especially useful is testing user
 workflows. I think it’s great to gain another perspective, besides catching any
 errors.
 
-### What are the biggest challenges at your work?
+## What are the biggest challenges at your work?
 
 Working in parallel with development, especially in the beginning of the project
 when features are not yet developed and functionalities might change. It’s hard
 to write fiction 😊.
 
-### What do you like the most in technical writing?
+## What do you like the most in technical writing?
 
 I like that technical writing is purely informational and provides real value to
 the user, in comparison to marketing content. I also enjoy talking with people
 and like the wide spectrum of work it offers – I learn so much everyday!
 
-### What is your advice for those who want to begin their adventure with writing documentation?
+## What is your advice for those who want to begin their adventure with writing documentation?
 
 I think techwriter.pl is a great first stop for anyone who wants to begin
 writing technical documentation in Poland. You can find a lot of information and
 tips for current or future tech writers plus jobs offers. Most importantly,
 don’t be afraid of technical writing if you don’t have a technical background!
 
-### Do you have any diploma or certificate in technical writing? If yes, did it help you in your career?
+## Do you have any diploma or certificate in technical writing? If yes, did it help you in your career?
 
 Not really 😊. But I do think that my education background in marketing helped
 me quite a bit. After all, effective communication and reaching your target
 audience is the basis in both fields. Also, I am currently in the process of
 getting a certification in Technical Communication by ITCQF®.
+
+</div>
