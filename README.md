@@ -221,6 +221,36 @@ Install the following extensions:
 - MDX
 - Prettier - Code formatter
 
+## A special convention for interviews
+
+In interviews, we use headings as questions:
+
+```
+## What's your favorite color?
+
+Blue. No, wait. Okay, yeah, it's blue.
+```
+
+An h2 is pretty big on the page but we want to maintain heading hierarchy — h1
+is the page title, and then you cannot do an h3 but you have to go h2, within
+that you can have h3, etc. You get it.
+
+Anyway, to make the headings look better on the page, we added custom tyle
+overrides. To apply them, wrap the article in a `<div className="interview">`.
+
+1. **After the "truncate" tag**, add the div's opening tag. Make sure to leave a
+   blank line above and below it.
+   ```
+   <div className="interview">
+   ```
+1. At the end og the page, add the closing tag; again making sure there's a
+   blank line above and below it.
+   ```
+   </div>
+   ```
+
+If you add the opening tag before the "truncate" tag, the page will not compile.
+
 ## Website
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern
