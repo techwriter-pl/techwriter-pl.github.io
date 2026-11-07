@@ -1,7 +1,7 @@
 ---
 title: 'Interview with Antoni Dżumaga, a Madcap expert with Polish roots'
 authors: niewiarowski
-date: '2026-11-03'
+date: '2026-11-07'
 tags:
   - 'warsztat'
   - 'wywiady'
