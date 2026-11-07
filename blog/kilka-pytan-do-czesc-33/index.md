@@ -22,9 +22,11 @@ questions.
 
 <!--truncate-->
 
-### Hello Thomas! Thank you, for agreeing to this interview.
+<div className="interview">
 
-### How did you discover technical communication?
+## Hello Thomas! Thank you, for agreeing to this interview.
+
+## How did you discover technical communication?
 
 Back then it was just called documentation. The term was not even invented. We
 called it everything in the book, but without an overarching term to identify
@@ -33,7 +35,7 @@ or when it became real modern typesetting machines. It was a painstaking
 process. But it worked. Always being on the look out for something smarter, I
 certainly did find technical communication. Ages ago now.
 
-### How did your career progress?
+## How did your career progress?
 
 I started straight out of university with a natural science master degree,
 unemployment and no pocket money. Somehow, that coincided with the first
@@ -45,7 +47,7 @@ until we were content. The rest, as they say, is history. I also realized, maybe
 being a bit lazy, that producing hundred of pages in next to no time was a nice
 feeling. That was my start of the tech documenting journey.
 
-### In which areas of technical writing do you feel strongest?
+## In which areas of technical writing do you feel strongest?
 
 Anything but actual writing. Early on I decided to do what I was taught at
 university: teach. As a mediator, presenter and communicator I found a good base
@@ -60,27 +62,27 @@ have seen them come and go. And some remain. And all the new ones that pop up
 all the time. So I’ve never been a technical writer – but literally everything
 else around that role.
 
-### What do you consider your biggest achievements?
+## What do you consider your biggest achievements?
 
 The ones to come. I have always worked under the assumption, that if the clients
 I’ve helped, could be on their own – without my help – then it was a success.
 
-### Who would you recommend this career path to?
+## Who would you recommend this career path to?
 
 Tough one. Maybe people who like to turn something totally gibberish into
 something meaningful. Whatever it may be.
 
-### What areas does your role consist of? To what extent do you manage the documentation team, and to what extent are you responsible for documentation created across the entire department?
+## What areas does your role consist of? To what extent do you manage the documentation team, and to what extent are you responsible for documentation created across the entire department?
 
 I have always regarded my main role as a catalyst. I may have a vast knowledge,
 ideas and the ability to see into the future. But without a team that will never
 work. The team have to be self governing.
 
-### At what point did you realize that documentation and team management could be a meaningful part of your life?
+## At what point did you realize that documentation and team management could be a meaningful part of your life?
 
 Four years ago. After 35 years of independent consultancy.
 
-### Do you have an international team, and what advantages or challenges does that bring?
+## Do you have an international team, and what advantages or challenges does that bring?
 
 I have a large team in India. Just the team size itself is a major factor in the
 success it has brought to [GN Hearing](https://www.gnhearing.com/en/about-us).
@@ -89,7 +91,7 @@ toes, eager to learn and use this to perform. The major challenge is the
 distance and the Teams’ meetings. Meeting people face to face is – to me – far
 more efficient.
 
-### How can senior management support documentation teams?
+## How can senior management support documentation teams?
 
 Wow, that’s hard. I have spent the better part of 30 years trying to convince
 managements on a global scale to “do the right” thing. Which is a range of steps
@@ -101,13 +103,13 @@ numbers of technical documentation solutions down in either MS Word or Adobe
 InDesign. The first is on any computer (so anyone can …), and the latter is
 being used by Marketing (i.e. therefore it must be good).
 
-### What is the one thing you would change in your company, if it were possible?
+## What is the one thing you would change in your company, if it were possible?
 
 Have the documentation roles as a separate department. We contact almost any
 other department, and having it reside, e.g. in marketing, limits what you can
 accomplish.
 
-### What advice would you give to people considering managing a team and documentation at scale?
+## What advice would you give to people considering managing a team and documentation at scale?
 
 Do not use 35 years as I did (even though a lot of it was great and funny), but
 in order to be a proper manager in such a team, your knowledge of documentation
@@ -120,12 +122,12 @@ is not enough to state: “I need more resources”, without knowing exactly wha
 and being able to explain.
 
 
-### What areas are you currently exploring, and in what direction do you plan to develop?
+## What areas are you currently exploring, and in what direction do you plan to develop?
 
 Presently I have migrated out of the management part and heading up a new
 exciting hush-hush project.
 
-### How do you currently perceive the job market and trends affecting the role of a technical writer?
+## How do you currently perceive the job market and trends affecting the role of a technical writer?
 
 It seems to me that it is the same crowd of people which circulates in between
 various companies and solutions. As the number of solutions do not change (or
@@ -134,11 +136,11 @@ tech writers. The real successful areas is where there’s also a bachelor or
 master degree in the region. THE trend is AI. It will hugely affect our area. It
 already does.
 
-### Is documentation work a long-term career, or rather a stepping stone to other IT roles? Which ones?
+## Is documentation work a long-term career, or rather a stepping stone to other IT roles? Which ones?
 
 I believe it’s somewhere in between.
 
-### What seems obvious to you but is not understood by other teams working with documentation teams?
+## What seems obvious to you but is not understood by other teams working with documentation teams?
 
 That technical documentation is so much more than just writing content. When I
 present management and other departments with the comprehensive list of skills,
@@ -147,11 +149,11 @@ documentation changed or influenced your life in any way? I do not believe so.
 It just happened to be the way to pay my bills. At least in the beginning. Now
 it’s a passion.
 
-### What advice would you give to candidates who want to join documentation teams?
+## What advice would you give to candidates who want to join documentation teams?
 
 Go! You can always regret.
 
-### Do you use AI? What is your company’s approach to it?
+## Do you use AI? What is your company’s approach to it?
 
 Every day. GN has an entire AI department. That itself tells a story. On
 technical documentation there are some obvious advantages. We can now, quicker
@@ -160,12 +162,14 @@ time. The downsides – so far – is that AI still cannot outperform a human be
 It’s close, but being in a medical device world, we need meticulous detailed
 correct content. On all levels. AI is simply not here yet.
 
-### What conferences do you attend? Do you participate as an attendee or as a speaker?
+## What conferences do you attend? Do you participate as an attendee or as a speaker?
 Any kind (technical, documentation, localization), you name it. I often speak at
 conferences.
 
-### What are your interests outside of work? How do you like to spend your free time?
+## What are your interests outside of work? How do you like to spend your free time?
 
 Travels (used to be a lot of other things), but we only have one planet, so …
 
-### Thank you, Thomas, for sharing your thoughts with us.
+## Thank you, Thomas, for sharing your thoughts with us.
+
+</div>
