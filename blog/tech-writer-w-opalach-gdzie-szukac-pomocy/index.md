@@ -139,11 +139,11 @@ dokumentacją.
 
 #### #soapconf & #meetcontent community
 
-Jest to otwarta grupa, która wyrosła z konferencji
-soap!, jedynej polskiej konferencji tech comm oraz
-spotkań branżowych [MeetContent](http://meetcontent.org/). Poruszane są tutaj
-wszelkie tematy związane z szeroko pojęta treścią. Grupa prowadzona jest w
-języku angielskim. Strona grupy jest dostępna
+Jest to otwarta grupa, która wyrosła z konferencji soap!, jedynej polskiej
+konferencji tech comm oraz spotkań branżowych
+[MeetContent](http://meetcontent.org/). Poruszane są tutaj wszelkie tematy
+związane z szeroko pojęta treścią. Grupa prowadzona jest w języku angielskim.
+Strona grupy jest dostępna
 [tutaj](https://web.facebook.com/groups/372572899591391/).
 
 #### Tworzenie dokumentacji

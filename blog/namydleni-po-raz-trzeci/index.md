@@ -15,8 +15,8 @@ tags:
 coverImage: 'koszyk_soap.jpg'
 ---
 
-Za nami trzecia edycja konferencji soap!. Jak było w tym
-roku? Zdecydowanie inaczej niż w poprzednim.
+Za nami trzecia edycja konferencji soap!. Jak było w tym roku? Zdecydowanie
+inaczej niż w poprzednim.
 
 <!--truncate-->
 
@@ -148,8 +148,8 @@ Na zakończenie pierwszego dnia przez 15 minut mikrofon był dostępny dla
 wszystkich, którzy chcieli się czymś podzielić z innymi uczestnikami
 konferencji.
 
-**Ray Gallon** skorzystał z okazji i ogłosił, że zaangażował się w
-inicjatywę o nazwie
+**Ray Gallon** skorzystał z okazji i ogłosił, że zaangażował się w inicjatywę o
+nazwie
 [ARIP (Augmented Reality in Information Products)](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=arip),
 której przewodzi konsorcjum [OASIS](https://pl.wikipedia.org/wiki/OASIS). Mówił
 też, że poszukują ludzi z doświadczeniem w

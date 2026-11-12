@@ -40,7 +40,8 @@ social mediach: **badań**! Czy je znalazłem? Czy musiałem przeprowadzić wła
 Zacznijmy przyziemnie: czy pisanie jest dobre dla biznesu? Czy można dzięki
 niemu lepiej zarabiać i wzbogacić swoje portfolio? Temat ten wzięła na tapet
 strona Kuźnia Leaderów w artykule pod tytułem
-“[Podejmowanie decyzji może być łatwe](https://kuznialeaderow.pl/podejmowanie-decyzji-moze-byc-latwe/)” (strona ma nieważny certyfikat, ale czytanie jej nie powinno być niebezpieczne).
+“[Podejmowanie decyzji może być łatwe](https://kuznialeaderow.pl/podejmowanie-decyzji-moze-byc-latwe/)”
+(strona ma nieważny certyfikat, ale czytanie jej nie powinno być niebezpieczne).
 Czy to wiarygodne i naukowe źródło informacji? Pewnie nie, ale jest to źródło
 bardzo biznesowe i cytuje inne biznesowe źródła o podobnych intencjach —
 biznesowych.
@@ -54,9 +55,9 @@ Ta technika ma bardzo dużo sensu dla mnie, bo jeśli tylko sobie pomyślę “c
 zjeść lody na kolację”, to intuicyjna odpowiedź oczywiście brzmi: tak, czemu
 nie? Ale scenariusz zysków i strat rysuje się następująco:
 
-| Podjęta decyzja      | Scenariusz zysku                                                                                                                                                                     | Scenariusz straty                                                                                                                                                                                                 |
-| :------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Tak, lody na kolację | Lody są pyszne i dadzą mi trochę chwilowej frajdy. Ale jeśli mam być szczery, to będzie bardzo chwilowa frajda, a potem pewnie będę miał poczucie winy. Poza tym będę po nich gruby. | Ominie mnie fantastyczny smak lodów, ale jak już pisałem w sąsiedniej kolumnie, ominie mnie też poczucie winy i bycie grubym.                                                                                     |
+| Podjęta decyzja      | Scenariusz zysku                                                                                                                                                                     | Scenariusz straty                                                                                                                                                                                                  |
+| :------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Tak, lody na kolację | Lody są pyszne i dadzą mi trochę chwilowej frajdy. Ale jeśli mam być szczery, to będzie bardzo chwilowa frajda, a potem pewnie będę miał poczucie winy. Poza tym będę po nich gruby. | Ominie mnie fantastyczny smak lodów, ale jak już pisałem w sąsiedniej kolumnie, ominie mnie też poczucie winy i bycie grubym.                                                                                      |
 | Nie, coś innego      | Zjem coś z witaminą i błonnikiem. Jakieś warzywka pokrojone, domowy vinegrette, może feta. Do tego kanapeczka na razowym chlebie. Umrę kiedyś zdrowszy.                              | Więcej roboty z tym wszystkim, ale dochodzi jeszcze poczucie spełnionego obowiązku osoby dorosłej (dbanie o siebie) i dawanie przykładu innym (jeśli akurat sąsiad mnie zobaczy przez okno, że pałaszuję sałatkę). |
 
 ![miseczka lodów z dopiskiem "ryc 1: kolacja"](./images/lody.png)

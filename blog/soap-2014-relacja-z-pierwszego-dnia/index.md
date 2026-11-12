@@ -12,8 +12,7 @@ coverImage: 'soap.jpg'
 ---
 
 Po naszym ogólnym podsumowaniu przyszła pora na trochę konkretów. Dzisiaj
-przedstawiamy skrótowo prezentacje z pierwszego dnia konferencji
-soap! 2014.
+przedstawiamy skrótowo prezentacje z pierwszego dnia konferencji soap! 2014.
 
 <!--truncate-->
 
@@ -21,9 +20,8 @@ soap! 2014.
 
 ### Gry nie tylko dla dzieci
 
-Zaszczyt rozgrzania publiczności przypadł
-Monice Konieczny. Swoją prezentację rozpoczęła
-od opowieści o kocie imieniem Teodor, który zapragnął pomóc swojemu
+Zaszczyt rozgrzania publiczności przypadł Monice Konieczny. Swoją prezentację
+rozpoczęła od opowieści o kocie imieniem Teodor, który zapragnął pomóc swojemu
 właścicielowi i zrobić za niego pranie. Przez dłuższą chwilę zastanawialiśmy się
 w jakim kierunku zmierza ta historia. Końcówka była dość drastyczna, ponieważ
 Teodor prawie zginął przywalony opasłą instrukcją, która była źle napisana.

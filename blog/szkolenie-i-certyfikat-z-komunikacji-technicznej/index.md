@@ -11,9 +11,8 @@ coverImage: 'itcqf_logo_black-e1442054514270.jpg'
 
 Chciałoby się powiedzieć: NARESZCIE! Przez wieeeele lat Technical Writerzy w
 Polsce nie mieli dostępu do żadnych specjalistycznych szkoleń, certyfikatów czy
-konferencji. Od kilku lat mamy już swoją konferencję -
-soap! A teraz, w końcu, przyszedł czas na przygotowane
-specjalnie dla nas szkolenia.
+konferencji. Od kilku lat mamy już swoją konferencję - soap! A teraz, w końcu,
+przyszedł czas na przygotowane specjalnie dla nas szkolenia.
 
 <!--truncate-->
 

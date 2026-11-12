@@ -17,9 +17,9 @@ redakcyjny kolega – Paweł Kowaluk.
 
 <!--truncate-->
 
-MeetContent wyrósł na podwórku soap!, na początku
-spotkania nie mogło więc zabraknąć wzmianki o tegorocznej, piątej już edycji
-konferencji, o której pisaliśmy kilka dni temu.
+MeetContent wyrósł na podwórku soap!, na początku spotkania nie mogło więc
+zabraknąć wzmianki o tegorocznej, piątej już edycji konferencji, o której
+pisaliśmy kilka dni temu.
 
 Paweł z nieskrywaną dumą reprezentował również naszego bloga, występując w
 koszulce z logiem Techwritera i opowiadając o tym, co tu wyprawiamy.

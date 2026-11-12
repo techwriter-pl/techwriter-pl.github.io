@@ -29,17 +29,16 @@ during the first day of the soap! 2014 conference.
 
 ### Games not only for kids
 
-The honour of warming up the audience fell to
-Monika Konieczny. She started her presentation
-with a story about a cat called Teodor who wanted to help its owner and do the
-laundry. For a moment we were wondering where the story was going. The finale
-was quite drastic because Teodor almost died buried under a voluminous and
-badly-written manual. Monika tried to show how to avoid such tragedies. As we’ve
-already heard more than once, manuals are too long, too boring, and
-incomprehensible. What’s more, it’s difficult to find a common denominator for
-the readers of the manual because each of us pays attention to different
-details, and the way we use a particular product often depends on how much
-experience we have with it. Additionally, there are problems of linguistic
+The honour of warming up the audience fell to Monika Konieczny. She started her
+presentation with a story about a cat called Teodor who wanted to help its owner
+and do the laundry. For a moment we were wondering where the story was going.
+The finale was quite drastic because Teodor almost died buried under a
+voluminous and badly-written manual. Monika tried to show how to avoid such
+tragedies. As we’ve already heard more than once, manuals are too long, too
+boring, and incomprehensible. What’s more, it’s difficult to find a common
+denominator for the readers of the manual because each of us pays attention to
+different details, and the way we use a particular product often depends on how
+much experience we have with it. Additionally, there are problems of linguistic
 nuances and a high context culture, like the Polish one. The first step to
 solving these issues is creating the user profile and narrowing down the
 characteristics of the target audience. You also have to put yourself in the
@@ -66,20 +65,20 @@ the well-known Clippy from MS Office, and the
 
 ### Plenty is sometimes a plague
 
-As we were told by Kasia Mrowca, the same is
-the case for a surplus of functions in an application. Clients always want to
-add many new functionalities to their app. Before we satisfy their needs, we
-should stop for a moment and think where their requirements come from. Sometimes
-the problem lies in the process and adding a new option to the interface doesn’t
-change anything. It’s the process that needs to be modified. Sometimes new
-functions are requested out of habit. Someone has always had one switch or the
-other in the previous software and wants to have the same one in the new
-application even though it’s completely unnecessary. Kasia mentioned the pareto
-rule according to which 80% of users use only 20% of functions, Microsoft Word
-can be an example here. Each new function makes the application more complex. It
-translates into its usability and the level of complexity of the accompanying
-documentation. One has to know the limit just like with eating chocolate. After
-a certain amount, it’s no longer a pleasure.  
+As we were told by Kasia Mrowca, the same is the case for a surplus of functions
+in an application. Clients always want to add many new functionalities to their
+app. Before we satisfy their needs, we should stop for a moment and think where
+their requirements come from. Sometimes the problem lies in the process and
+adding a new option to the interface doesn’t change anything. It’s the process
+that needs to be modified. Sometimes new functions are requested out of habit.
+Someone has always had one switch or the other in the previous software and
+wants to have the same one in the new application even though it’s completely
+unnecessary. Kasia mentioned the pareto rule according to which 80% of users use
+only 20% of functions, Microsoft Word can be an example here. Each new function
+makes the application more complex. It translates into its usability and the
+level of complexity of the accompanying documentation. One has to know the limit
+just like with eating chocolate. After a certain amount, it’s no longer a
+pleasure.  
 So, how do we stay sane? All departments in the company have to cooperate on a
 friendly basis. Instead of interfering with one another, let’s exchange ideas.
 Let’s not focus only on our field, but keep the common goal in mind at all
@@ -119,26 +118,25 @@ situations that we can encounter in everyday life.
 ### The power of the diagram
 
 It has long been known that “a picture is worth a thousand words.” This old
-truth was demonstrated by Kevin Duncan, who
-showed how to skilfully use diagrams to make stories we tell more interesting
-and concise. One such method is the “whittling wedge”. We start from a wide
-range of options, approximately 10, then narrow the choice down to around 3
-options. In the end we recommend one of them. Another method is the “bow tie”.
-We start our story from a few options, recommend one of them and then move on to
-a broader discussion expanding the details. A diagram that shows the
-"motivational dip" is also an interesting example. At the beginning, when we
-take on something new, we experience a rapid increase in motivation, which lasts
-up to a point. Then comes the decline in motivation and the stabilization phase
-during which we learn. This phase may end with either success or failure. In
-order to streamline our activities we can use the “priority matrix”. With the
-help of four criteria - urgent, not urgent, important and unimportant – we
-divide the area into four sections. The first one includes matters which are
-urgent and unimportant and can be delegated or performed straightaway. The
-second section contains urgent and important matters that we need to address
-immediately. The third section covers matters which are not urgent and not
-important. They can be ignored. The last section contains issues that are not
-urgent but important. They must be considered and planned. During his
-presentation, Kevin gave many other examples that came from his book
+truth was demonstrated by Kevin Duncan, who showed how to skilfully use diagrams
+to make stories we tell more interesting and concise. One such method is the
+“whittling wedge”. We start from a wide range of options, approximately 10, then
+narrow the choice down to around 3 options. In the end we recommend one of them.
+Another method is the “bow tie”. We start our story from a few options,
+recommend one of them and then move on to a broader discussion expanding the
+details. A diagram that shows the "motivational dip" is also an interesting
+example. At the beginning, when we take on something new, we experience a rapid
+increase in motivation, which lasts up to a point. Then comes the decline in
+motivation and the stabilization phase during which we learn. This phase may end
+with either success or failure. In order to streamline our activities we can use
+the “priority matrix”. With the help of four criteria - urgent, not urgent,
+important and unimportant – we divide the area into four sections. The first one
+includes matters which are urgent and unimportant and can be delegated or
+performed straightaway. The second section contains urgent and important matters
+that we need to address immediately. The third section covers matters which are
+not urgent and not important. They can be ignored. The last section contains
+issues that are not urgent but important. They must be considered and planned.
+During his presentation, Kevin gave many other examples that came from his book
 [“The Diagrams Book”](http://www.thediagramsbook.com). In addition to the use of
 diagrams, we’ve also learned one more important thing. Using the word s\*\*t
 isn't out of place during a presentation 😉
