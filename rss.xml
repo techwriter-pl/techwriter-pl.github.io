@@ -157,7 +157,8 @@ social mediach: <strong>badań</strong>! Czy je znalazłem? Czy musiałem przepr
 <p>Zacznijmy przyziemnie: czy pisanie jest dobre dla biznesu? Czy można dzięki
 niemu lepiej zarabiać i wzbogacić swoje portfolio? Temat ten wzięła na tapet
 strona Kuźnia Leaderów w artykule pod tytułem
-“<a href="https://kuznialeaderow.pl/podejmowanie-decyzji-moze-byc-latwe/" target="_blank" rel="noopener noreferrer" class="">Podejmowanie decyzji może być łatwe</a>” (strona ma nieważny certyfikat, ale czytanie jej nie powinno być niebezpieczne).
+“<a href="https://kuznialeaderow.pl/podejmowanie-decyzji-moze-byc-latwe/" target="_blank" rel="noopener noreferrer" class="">Podejmowanie decyzji może być łatwe</a>”
+(strona ma nieważny certyfikat, ale czytanie jej nie powinno być niebezpieczne).
 Czy to wiarygodne i naukowe źródło informacji? Pewnie nie, ale jest to źródło
 bardzo biznesowe i cytuje inne biznesowe źródła o podobnych intencjach —
 biznesowych.</p>
@@ -1041,35 +1042,126 @@ aktualności.</p>
             <link>https://techwriter.pl/zanim-dodasz-wideo-multimedia-w-dokumentacji</link>
             <guid>https://techwriter.pl/zanim-dodasz-wideo-multimedia-w-dokumentacji</guid>
             <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Materiały wideo w dokumentacji użytkownika to żadna nowość, bo pojawiły się tam już kilka lat temu. Jak ten trend wygląda dzisiaj?]]></description>
-            <content:encoded><![CDATA[<p>Materiały wideo w dokumentacji użytkownika to żadna nowość, bo pojawiły się tam już kilka lat temu. Jak ten trend wygląda dzisiaj?</p>
+            <description><![CDATA[Materiały wideo w dokumentacji użytkownika to żadna nowość, bo pojawiły się tam]]></description>
+            <content:encoded><![CDATA[<p>Materiały wideo w dokumentacji użytkownika to żadna nowość, bo pojawiły się tam
+już kilka lat temu. Jak ten trend wygląda dzisiaj?</p>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="zacznijmy-od-początku">Zacznijmy od początku<a href="https://techwriter.pl/zanim-dodasz-wideo-multimedia-w-dokumentacji#zacznijmy-od-pocz%C4%85tku" class="hash-link" aria-label="Bezpośredni link do Zacznijmy od początku" title="Bezpośredni link do Zacznijmy od początku" translate="no">​</a></h2>
-<p>O początkach trendu umieszczania wideo w dokumentacji technicznej pisała już kilka lat temu Martyna Toporek w artykule pt. <a class="" href="https://techwriter.pl/ilustracje-i-wideo-w-dokumentacji-technicznej">Ilustracje i wideo w dokumentacji technicznej</a>. W mojej publikacji chciałabym pokazać, jak sytuacja wygląda kilka lat później, a także odpowiedzieć na pytanie kiedy tworzenie multimediów w postaci wideo czy interaktywnych treści ma sens w dokumentacji użytkownika.</p>
-<p>Sprawdziłam wybiórczo dokumentację takich firm jak Canva, Atlassian Loom, Camtasia i Motorola, aby przekonać się czy uda mi się szybko trafić na jakieś wideo. Zadanie okazało się bardzo proste, ponieważ już po kilku minutach analizy zauważyłam materiały wideo obecne w dokumentacji wszystkich wymienionych firm.</p>
-<p>Canva jest z pewnością dobrze znana wśród pisarzy technicznych i zapewne większość z nich spodziewałaby się, że platforma do projektowania graficznego będzie wykorzystywać wideo w swojej dokumentacji, głównie ze względu na specyfikę tego narzędzia. <a href="https://www.canva.com/help/create-canva-docs/#add-side-by-side-layouts" target="_blank" rel="noopener noreferrer" class="">Wideo, które znalazłam</a> trwa 41 sekund i krótko przedstawia jak wykonać daną czynność. Wideo nie posiada lektora. Zamiast tego wykorzystano krótkie komunikaty tekstowe w formie punktów, które użytkownik musi sam przeczytać. Zaletą takiego rozwiązania jest to, że użytkownik może obejrzeć materiał bez dźwięku, a samo wideo pozostaje krótkie i dynamiczne. Z drugiej jednak strony konieczność czytania i oglądania w tym samym momencie może być niewygodna dla części odbiorców.</p>
+<p>O początkach trendu umieszczania wideo w dokumentacji technicznej pisała już
+kilka lat temu Martyna Toporek w artykule pt.
+<a class="" href="https://techwriter.pl/ilustracje-i-wideo-w-dokumentacji-technicznej">Ilustracje i wideo w dokumentacji technicznej</a>.
+W mojej publikacji chciałabym pokazać, jak sytuacja wygląda kilka lat później, a
+także odpowiedzieć na pytanie kiedy tworzenie multimediów w postaci wideo czy
+interaktywnych treści ma sens w dokumentacji użytkownika.</p>
+<p>Sprawdziłam wybiórczo dokumentację takich firm jak Canva, Atlassian Loom,
+Camtasia i Motorola, aby przekonać się czy uda mi się szybko trafić na jakieś
+wideo. Zadanie okazało się bardzo proste, ponieważ już po kilku minutach analizy
+zauważyłam materiały wideo obecne w dokumentacji wszystkich wymienionych firm.</p>
+<p>Canva jest z pewnością dobrze znana wśród pisarzy technicznych i zapewne
+większość z nich spodziewałaby się, że platforma do projektowania graficznego
+będzie wykorzystywać wideo w swojej dokumentacji, głównie ze względu na
+specyfikę tego narzędzia.
+<a href="https://www.canva.com/help/create-canva-docs/#add-side-by-side-layouts" target="_blank" rel="noopener noreferrer" class="">Wideo, które znalazłam</a>
+trwa 41 sekund i krótko przedstawia jak wykonać daną czynność. Wideo nie posiada
+lektora. Zamiast tego wykorzystano krótkie komunikaty tekstowe w formie punktów,
+które użytkownik musi sam przeczytać. Zaletą takiego rozwiązania jest to, że
+użytkownik może obejrzeć materiał bez dźwięku, a samo wideo pozostaje krótkie i
+dynamiczne. Z drugiej jednak strony konieczność czytania i oglądania w tym samym
+momencie może być niewygodna dla części odbiorców.</p>
 <p><img decoding="async" loading="lazy" alt="Przykład strony z dokumentacji użytkownika od Canva, na której jest materiał wideo." src="https://techwriter.pl/assets/images/canva-example-67d345d58302ea3e25ba8794a3473567.png" width="740" height="327" class="img_ev3q"></p>
-<p>Kolejnym przykładem jest Atlassian Loom, który w swojej <a href="https://support.atlassian.com/loom/docs/getting-started-with-loom/" target="_blank" rel="noopener noreferrer" class="">dokumentacji</a> umieścił prawie 6 minutowe wideo o tym, jak rozpocząć pracę z narzędziem Loom. Co ciekawe, do nagrania materiału najprawdopodobniej wykorzystano samo narzędzie Loom, co jednocześnie stanowi dobrą prezentację możliwości produktu.</p>
+<p>Kolejnym przykładem jest Atlassian Loom, który w swojej
+<a href="https://support.atlassian.com/loom/docs/getting-started-with-loom/" target="_blank" rel="noopener noreferrer" class="">dokumentacji</a>
+umieścił prawie 6 minutowe wideo o tym, jak rozpocząć pracę z narzędziem Loom.
+Co ciekawe, do nagrania materiału najprawdopodobniej wykorzystano samo narzędzie
+Loom, co jednocześnie stanowi dobrą prezentację możliwości produktu.</p>
 <p><img decoding="async" loading="lazy" alt="Przykład strony z dokumentacji użytkownika od Atlassian Loom, na której jest materiał wideo." src="https://techwriter.pl/assets/images/loom-example-7ff257f2b32a9402a60ecf650fd4b2b2.png" width="740" height="363" class="img_ev3q"></p>
-<p>Innym z kolei przykładem jest dokumentacja produktu Camtasia, który umożliwia nagrywanie, edycję i montaż wideo. Dokumentacja produktu zawiera osobną <a href="https://www.techsmith.com/learn/tutorials/camtasia/" target="_blank" rel="noopener noreferrer" class="">sekcję</a> poświęconą materiałom wideo, dzięki którym użytkownik może nie tylko poznać samo narzędzie, ale także zapoznać się z przykładami zastosowań czy praktycznymi poradami. Długość materiałów jest zróżnicowana. Część trwa kilka minut, podczas gdy inne mają formę kilkunasto- lub kilkudziesięciominutowych tutoriali, w zależności od omawianego tematu.</p>
+<p>Innym z kolei przykładem jest dokumentacja produktu Camtasia, który umożliwia
+nagrywanie, edycję i montaż wideo. Dokumentacja produktu zawiera osobną
+<a href="https://www.techsmith.com/learn/tutorials/camtasia/" target="_blank" rel="noopener noreferrer" class="">sekcję</a> poświęconą
+materiałom wideo, dzięki którym użytkownik może nie tylko poznać samo narzędzie,
+ale także zapoznać się z przykładami zastosowań czy praktycznymi poradami.
+Długość materiałów jest zróżnicowana. Część trwa kilka minut, podczas gdy inne
+mają formę kilkunasto- lub kilkudziesięciominutowych tutoriali, w zależności od
+omawianego tematu.</p>
 <p><img decoding="async" loading="lazy" alt="Przykład strony z dokumentacji użytkownika od Camtasia, na której jest sekcja z materiałami wideo." src="https://techwriter.pl/assets/images/camtasia-example-eec8dffe8c28027534c63ce52aaf8aa8.png" width="740" height="367" class="img_ev3q"></p>
-<p>I na koniec inny przykład jakim jest Motorola. Firma, która w swojej dokumentacji wykorzystuje ciekawe rozwiązanie jakim jest <a href="https://pl-pl.support.motorola.com/app/answers/tutorials/t_id/Przenies_dane_Mac" target="_blank" rel="noopener noreferrer" class="">interaktywne demo</a>, w którym użytkownik klikając przechodzi do kolejnych kroków instrukcji. Warto podkreślić, że użytkownik może również wyświetlić instrukcję w formie tekstowej, co wyróżnia ten przykład na tle wcześniej opisanych rozwiązań.</p>
+<p>I na koniec inny przykład jakim jest Motorola. Firma, która w swojej
+dokumentacji wykorzystuje ciekawe rozwiązanie jakim jest
+<a href="https://pl-pl.support.motorola.com/app/answers/tutorials/t_id/Przenies_dane_Mac" target="_blank" rel="noopener noreferrer" class="">interaktywne demo</a>,
+w którym użytkownik klikając przechodzi do kolejnych kroków instrukcji. Warto
+podkreślić, że użytkownik może również wyświetlić instrukcję w formie tekstowej,
+co wyróżnia ten przykład na tle wcześniej opisanych rozwiązań.</p>
 <p><img decoding="async" loading="lazy" alt="Przykład strony z dokumentacji użytkownika od Motoroli, na której jest interaktywne demo." src="https://techwriter.pl/assets/images/motorola-example-6df864841291eb1d014260a2461a3cf2.png" width="740" height="396" class="img_ev3q"></p>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="kiedy-wideo-ma-sens">Kiedy wideo ma sens<a href="https://techwriter.pl/zanim-dodasz-wideo-multimedia-w-dokumentacji#kiedy-wideo-ma-sens" class="hash-link" aria-label="Bezpośredni link do Kiedy wideo ma sens" title="Bezpośredni link do Kiedy wideo ma sens" translate="no">​</a></h2>
-<p>Opierając się na wcześniej opisanych przykładach możemy zauważyć, że wideo jest popularną formą stosowaną w dokumentacji użytkownika. Pojawia się więc pytanie, z czego wynika stopniowe odchodzenie od klasycznej dokumentacji pisanej. Odpowiedź jest prosta. W dużej mierze odpowiadają za to platformy i media, z których korzystamy na co dzień. To one przyzwyczaiły nas do częstszego oglądania niż czytania treści.</p>
-<p>Na przykładzie Atlassiana widzimy, że wideo może się sprawdzić dobrze jako materiał onboardingowy znajdujący się w sekcji <em>Getting started</em>, który ma ułatwić użytkownikowi zrozumienie jak działa produkt i zachęcić do jego dalszej eksploracji.</p>
-<p>Wideo może również lepiej sprawdzać się w przypadku bardziej złożonych produktów, których wartość łatwiej pokazać na konkretnym scenariuszu użycia niż opisywać wyłącznie w sposób teoretyczny. Podobnie dzieje się w sytuacji dynamicznych zmian na ekranie, gdzie pisanie instrukcji mogłoby nie zobrazować tak dobrze danej funkcji jak zaprezentowanie jej w wideo.
-Warto również zauważyć, że materiały wideo mogą pełnić nie tylko funkcję dokumentacyjną, ale także marketingową czy edukacyjną. Dla wielu firm może okazać się to dużą zaletą, gdyż stworzone wideo zostaną wykorzystane na różnych płaszczyznach.</p>
+<p>Opierając się na wcześniej opisanych przykładach możemy zauważyć, że wideo jest
+popularną formą stosowaną w dokumentacji użytkownika. Pojawia się więc pytanie,
+z czego wynika stopniowe odchodzenie od klasycznej dokumentacji pisanej.
+Odpowiedź jest prosta. W dużej mierze odpowiadają za to platformy i media, z
+których korzystamy na co dzień. To one przyzwyczaiły nas do częstszego oglądania
+niż czytania treści.</p>
+<p>Na przykładzie Atlassiana widzimy, że wideo może się sprawdzić dobrze jako
+materiał onboardingowy znajdujący się w sekcji <em>Getting started</em>, który ma
+ułatwić użytkownikowi zrozumienie jak działa produkt i zachęcić do jego dalszej
+eksploracji.</p>
+<p>Wideo może również lepiej sprawdzać się w przypadku bardziej złożonych
+produktów, których wartość łatwiej pokazać na konkretnym scenariuszu użycia niż
+opisywać wyłącznie w sposób teoretyczny. Podobnie dzieje się w sytuacji
+dynamicznych zmian na ekranie, gdzie pisanie instrukcji mogłoby nie zobrazować
+tak dobrze danej funkcji jak zaprezentowanie jej w wideo. Warto również
+zauważyć, że materiały wideo mogą pełnić nie tylko funkcję dokumentacyjną, ale
+także marketingową czy edukacyjną. Dla wielu firm może okazać się to dużą
+zaletą, gdyż stworzone wideo zostaną wykorzystane na różnych płaszczyznach.</p>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="kiedy-wideo-może-przeszkadzać-użytkownikowi">Kiedy wideo może przeszkadzać użytkownikowi<a href="https://techwriter.pl/zanim-dodasz-wideo-multimedia-w-dokumentacji#kiedy-wideo-mo%C5%BCe-przeszkadza%C4%87-u%C5%BCytkownikowi" class="hash-link" aria-label="Bezpośredni link do Kiedy wideo może przeszkadzać użytkownikowi" title="Bezpośredni link do Kiedy wideo może przeszkadzać użytkownikowi" translate="no">​</a></h2>
-<p>Wideo nie zawsze jest najlepszym sposobem prezentowania wartości produktu i istnieje wiele sytuacji, w których taka forma może okazać się mało praktyczna. Jednym z nich jest grono produktów o bardzo prostym bądź wręcz ubogim interfejsie, gdzie wideo byłoby przerostem formy nad treścią i zrzut ekranu bywa w zupełności wystarczający.</p>
-<p>Innym przykładem mogą być obszary, w których użytkownik szuka konkretnej informacji, np. dokumentacja API. Deweloper zazwyczaj nie będzie chciał oglądać materiału wideo, lecz szybko przejrzy dokumentację w poszukiwaniu konkretnego pola, parametru lub fragmentu kodu. Podobnie wygląda sytuacja w przypadku konfiguratorów systemowych, terminali czy zaawansowanych narzędzi deweloperskich, gdzie szybkość znalezienia informacji jest kluczowa.
-Nie można zapomnieć o produktach, które dopiero są rozwijane bądź zmieniają interfejs tak szybko, że w ich przypadku wideo może być aktualne zaledwie przez kilka dni.</p>
+<p>Wideo nie zawsze jest najlepszym sposobem prezentowania wartości produktu i
+istnieje wiele sytuacji, w których taka forma może okazać się mało praktyczna.
+Jednym z nich jest grono produktów o bardzo prostym bądź wręcz ubogim
+interfejsie, gdzie wideo byłoby przerostem formy nad treścią i zrzut ekranu bywa
+w zupełności wystarczający.</p>
+<p>Innym przykładem mogą być obszary, w których użytkownik szuka konkretnej
+informacji, np. dokumentacja API. Deweloper zazwyczaj nie będzie chciał oglądać
+materiału wideo, lecz szybko przejrzy dokumentację w poszukiwaniu konkretnego
+pola, parametru lub fragmentu kodu. Podobnie wygląda sytuacja w przypadku
+konfiguratorów systemowych, terminali czy zaawansowanych narzędzi
+deweloperskich, gdzie szybkość znalezienia informacji jest kluczowa. Nie można
+zapomnieć o produktach, które dopiero są rozwijane bądź zmieniają interfejs tak
+szybko, że w ich przypadku wideo może być aktualne zaledwie przez kilka dni.</p>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="jak-podjąć-właściwą-decyzję">Jak podjąć właściwą decyzję<a href="https://techwriter.pl/zanim-dodasz-wideo-multimedia-w-dokumentacji#jak-podj%C4%85%C4%87-w%C5%82a%C5%9Bciw%C4%85-decyzj%C4%99" class="hash-link" aria-label="Bezpośredni link do Jak podjąć właściwą decyzję" title="Bezpośredni link do Jak podjąć właściwą decyzję" translate="no">​</a></h2>
-<p>Przy podejmowaniu decyzji o wykorzystaniu wideo kluczowa jest przede wszystkim znajomość odbiorców produktu. Jeśli są to użytkownicy nietechniczni, wideo może być dobrą formą prezentacji funkcjonalności i ułatwić zrozumienie produktu. W przypadku osób bardziej technicznych, takich jak deweloperzy czy administratorzy, preferowaną formą prawie zawsze pozostaje dokumentacja użytkownika, która umożliwia szybkie wyszukiwanie informacji. Co więcej, użytkownicy niechętnie oglądają długie wideo, bo social media przyzwyczaiły ich do szybkiego przewijania treści, więc wideo powyżej pięciu minut może okazać się nieefektywne. Warto o tym pamiętać, kiedy zdecydujemy się na tworzenie wideo.</p>
-<p>Dobrą praktyką jest umieszczenie kilku wideo i obserwacja jak zostaną one odebrane przez użytkowników. Dla wielu osób materiały wideo stają się ważnym uzupełnieniem dokumentacji, choć nadal jej całkowicie nie zastępują. Przypomnijmy sobie wcześniejszy przykład od Motoroli, gdzie mogliśmy obejrzeć interaktywny tutorial albo przejść do klasycznej instrukcji krok po kroku. Takie rozwiązanie jest bardzo wygodne dla osób, które chętnie obejrzałyby wideo, ale np. pracują w danym momencie w open space i nie mogą skorzystać ze słuchawek, a nie chcą zakłócać pracy innych lub po prostu wolą szybko przejrzeć instrukcję.</p>
-<p>Warto tutaj także wspomnieć o dostępności (accessibility), która powinna być ważnym aspektem podczas tworzenia takich materiałów. Nie każdy użytkownik będzie korzystał z wideo w ten sam sposób. Nie zawsze wynika to wyłącznie z preferencji, ale także problemów ze słuchem, trudnościami poznawczymi czy korzystania z technologii wspomagających. Dlatego dobrym rozwiązaniem może być dodanie transkrypcji lub alternatywnej instrukcji tekstowej, tak jak zaprezentowała to Motorola.</p>
+<p>Przy podejmowaniu decyzji o wykorzystaniu wideo kluczowa jest przede wszystkim
+znajomość odbiorców produktu. Jeśli są to użytkownicy nietechniczni, wideo może
+być dobrą formą prezentacji funkcjonalności i ułatwić zrozumienie produktu. W
+przypadku osób bardziej technicznych, takich jak deweloperzy czy
+administratorzy, preferowaną formą prawie zawsze pozostaje dokumentacja
+użytkownika, która umożliwia szybkie wyszukiwanie informacji. Co więcej,
+użytkownicy niechętnie oglądają długie wideo, bo social media przyzwyczaiły ich
+do szybkiego przewijania treści, więc wideo powyżej pięciu minut może okazać się
+nieefektywne. Warto o tym pamiętać, kiedy zdecydujemy się na tworzenie wideo.</p>
+<p>Dobrą praktyką jest umieszczenie kilku wideo i obserwacja jak zostaną one
+odebrane przez użytkowników. Dla wielu osób materiały wideo stają się ważnym
+uzupełnieniem dokumentacji, choć nadal jej całkowicie nie zastępują.
+Przypomnijmy sobie wcześniejszy przykład od Motoroli, gdzie mogliśmy obejrzeć
+interaktywny tutorial albo przejść do klasycznej instrukcji krok po kroku. Takie
+rozwiązanie jest bardzo wygodne dla osób, które chętnie obejrzałyby wideo, ale
+np. pracują w danym momencie w open space i nie mogą skorzystać ze słuchawek, a
+nie chcą zakłócać pracy innych lub po prostu wolą szybko przejrzeć instrukcję.</p>
+<p>Warto tutaj także wspomnieć o dostępności (accessibility), która powinna być
+ważnym aspektem podczas tworzenia takich materiałów. Nie każdy użytkownik będzie
+korzystał z wideo w ten sam sposób. Nie zawsze wynika to wyłącznie z
+preferencji, ale także problemów ze słuchem, trudnościami poznawczymi czy
+korzystania z technologii wspomagających. Dlatego dobrym rozwiązaniem może być
+dodanie transkrypcji lub alternatywnej instrukcji tekstowej, tak jak
+zaprezentowała to Motorola.</p>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="kilka-słów-podsumowania">Kilka słów podsumowania<a href="https://techwriter.pl/zanim-dodasz-wideo-multimedia-w-dokumentacji#kilka-s%C5%82%C3%B3w-podsumowania" class="hash-link" aria-label="Bezpośredni link do Kilka słów podsumowania" title="Bezpośredni link do Kilka słów podsumowania" translate="no">​</a></h2>
-<p>Materiały wideo zaczęły pojawiać się w dokumentacji użytkownika już kilka lat temu. Dzisiaj multimedia z pewnością zyskują na popularności, co potwierdzają przytoczone wcześniej przykłady. Zanim podejmiemy decyzję o ich stworzeniu, warto zastanowić się nad tym kto jest naszym odbiorcą i czy na pewno skorzysta z takiej formy prezentacji produktu. W dalszej kolejności warto określić standardy i zasady tworzenia takich materiałów, jeśli zdecydujemy się na rozwijanie dokumentacji w tym kierunku. Kluczowe jest jednak to, że wideo w dokumentacji nie powinno być domyślnym wyborem, lecz świadomą decyzją wynikającą z potrzeb użytkownika i charakteru produktu.</p>
-<p>Warto również zauważyć, że tworzenie materiałów wideo coraz częściej staje się elementem pracy pisarza technicznego. Nie wszyscy zgadzają się z tym kierunkiem, jednak trend ten zdaje się umacniać na przestrzeni ostatnich lat. To jednak temat, który zasługuje na osobny artykuł. 🙂</p>]]></content:encoded>
+<p>Materiały wideo zaczęły pojawiać się w dokumentacji użytkownika już kilka lat
+temu. Dzisiaj multimedia z pewnością zyskują na popularności, co potwierdzają
+przytoczone wcześniej przykłady. Zanim podejmiemy decyzję o ich stworzeniu,
+warto zastanowić się nad tym kto jest naszym odbiorcą i czy na pewno skorzysta z
+takiej formy prezentacji produktu. W dalszej kolejności warto określić standardy
+i zasady tworzenia takich materiałów, jeśli zdecydujemy się na rozwijanie
+dokumentacji w tym kierunku. Kluczowe jest jednak to, że wideo w dokumentacji
+nie powinno być domyślnym wyborem, lecz świadomą decyzją wynikającą z potrzeb
+użytkownika i charakteru produktu.</p>
+<p>Warto również zauważyć, że tworzenie materiałów wideo coraz częściej staje się
+elementem pracy pisarza technicznego. Nie wszyscy zgadzają się z tym kierunkiem,
+jednak trend ten zdaje się umacniać na przestrzeni ostatnich lat. To jednak
+temat, który zasługuje na osobny artykuł. 🙂</p>]]></content:encoded>
             <category>warsztat</category>
             <category>multimedia</category>
             <category>wideo</category>
