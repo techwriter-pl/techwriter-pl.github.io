@@ -23,8 +23,7 @@ techniczną.
 Nasza inicjatywa idzie powoli we właściwym kierunku. Przybywa ludzi
 udzielających się na
 [naszej stronie na Facebooku](https://www.facebook.com/TechWriterPl/?ref=aymt_homepage_panel),
-rośnie w siłę ekipa portalu.
-Wspieramy konferencję soap!, powoli stajemy się też
+rośnie w siłę ekipa portalu. Wspieramy konferencję soap!, powoli stajemy się też
 widoczni poza granicami naszego kraju (chociażby obejmując patronat medialny nad
 tegoroczną edycją Write the Docs). Niedawno relacjonowaliśmy przełomowe
 wydarzenie, jakim był

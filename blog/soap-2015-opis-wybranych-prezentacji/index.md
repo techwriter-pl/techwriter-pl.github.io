@@ -16,8 +16,8 @@ edycji soap!, przedstawiamy skrótowo wybrane przez nas prezentacje.
 
 <!--truncate-->
 
-Pełna lista prezentacji z pierwszego i drugiego dnia, dostępna jest na
-stronie konferecji.
+Pełna lista prezentacji z pierwszego i drugiego dnia, dostępna jest na stronie
+konferecji.
 
 Jeśli zamiast streszczenia wolicie krótkie mądrości wyciągnięte z prezentacji,
 polecamy prześledzenie wpisów na Twitterze oznaczonych hashtagiem

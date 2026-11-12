@@ -726,8 +726,7 @@ surname” podpisała się jako „Your Name, Surname”. Czyżby to napisał Ev
 uśmiechnął była współautorka tego artykułu, Julia Dąbrowska. Nagrodą był
 powerbank ze świecącym logo ekipy podcastu „Techwriter Koduje”. Myślę, że w
 powerbanku zmagazynuje zapas pozytywnej energii na cały następny rok przed
-kolejnym soap!. Nie powinno to dziwić, w końcu pracuje
-w Hitachi Energy 😊
+kolejnym soap!. Nie powinno to dziwić, w końcu pracuje w Hitachi Energy 😊
 
 Julia jest zachwycona wygraną, bo tak bajeranckiego powerbanku jeszcze nie
 miała! A przy okazji odbierania prezentu miała okazję sprawdzić czy wyjście na

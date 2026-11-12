@@ -13,11 +13,10 @@ tags:
 coverImage: 'soap.jpg'
 ---
 
-Drugi dzień konferencji soap! przyniósł jeszcze więcej
-prezentacji, które podzielone zostały na dwie ścieżki. Każdy mógł wybierać i
-przebierać w tematach. Niestety nie byliśmy w stanie uczestniczyć we wszystkich
-prezentacjach, dlatego przedstawiamy skrótowo tylko niektóre z nich.
-![noz2ndday](images/noz2ndday.jpg)
+Drugi dzień konferencji soap! przyniósł jeszcze więcej prezentacji, które
+podzielone zostały na dwie ścieżki. Każdy mógł wybierać i przebierać w tematach.
+Niestety nie byliśmy w stanie uczestniczyć we wszystkich prezentacjach, dlatego
+przedstawiamy skrótowo tylko niektóre z nich. ![noz2ndday](images/noz2ndday.jpg)
 
 <!--truncate-->
 

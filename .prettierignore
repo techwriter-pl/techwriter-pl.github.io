@@ -3,3 +3,4 @@ node_modules
 .yarn
 build
 src/pages/linki.md
+package.json
